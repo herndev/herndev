@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps shows users the Gulf of Mexico when searching for &#39;Gulf of America&#39;](https://appleinsider.com/articles/25/01/29/apple-maps-shows-users-the-gulf-of-mexico-when-searching-for-gulf-of-america?utm_medium=rss)
- - [How to enable Apple Intelligence when booting from an external drive](https://appleinsider.com/inside/apple-intelligence/tips/how-to-enable-apple-intelligence-when-booting-from-an-external-drive?utm_medium=rss)
- - [Satya Nadella says Microsoft&#39;s AI business has surpassed an annual revenue run rate of $13B, up 175% YoY, as the company faces new scrutiny over AI spending &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250129/p50#a250129p50)<!-- TECH:END -->
+ - [Changing units was a joke in Pixel Weather app, but that’s finally changing](https://www.androidauthority.com/pixel-weather-app-measurements-units-apk-teardown-3506241/)
+ - [This might be our first real-world look at Nothing Phone 3a](https://www.androidauthority.com/nothing-phone-3a-real-world-image-3520279/)
+ - [Dell Coupon and Promo Codes: 10% Off](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
