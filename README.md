@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Q2: Windows OEM and Devices revenue up 4% YoY, gaming revenue down 7%, Xbox hardware revenue down 29%, and Xbox content and services revenue up 2% &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250129/p42#a250129p42)
- - [Google Photos finally lets you fix all your mirror-image selfies](https://www.androidauthority.com/google-photos-flip-3521475/)
- - [Employer.com founder Jesse Tinsley says his US investor group vying to buy TikTok has secured $20B+ and recruited the CEOs of Roblox and Anchorage as investors &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250129/p41#a250129p41)<!-- TECH:END -->
+ - [Mark Zuckerberg says spending heavily on AI infrastructure is a &quot;strategic advantage&quot; and vows Meta will invest &quot;hundreds of billions&quot; in AI over the long term &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250129/p44#a250129p44)
+ - [Apple Maps shows users the Gulf of Mexico when searching for &#39;Gulf of America&#39;](https://appleinsider.com/articles/25/01/29/apple-maps-shows-users-the-gulf-of-mexico-when-searching-for-gulf-of-america?utm_medium=rss)
+ - [Amazon quietly mapped your life through your phone and sold the data, lawsuit alleges](https://www.androidauthority.com/amazon-lawsuit-data-tracking-3521493/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
