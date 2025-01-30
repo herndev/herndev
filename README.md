@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Phone app gets an unexpected Android 16-inspired redesign &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-app-settings-redesign-apk-3521607/)
- - [Best Internet Providers in Texas](https://www.cnet.com/home/internet/best-internet-providers-in-texas/#ftag=CAD590a51e)
- - [Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)<!-- TECH:END -->
+ - [Your Pizza Guy Is Now AI](https://www.wired.com/story/palona-ai-chatbot-salesperson/)
+ - [French startup Formance, which offers an open source, programmable financial ledger and other services, raised a $21M Series A co-led by PayPal and Portage &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250130/p10#a250130p10)
+ - [Vodafone makes &quot;the world&#39;s first&quot; satellite video call using a standard smartphone via SpaceMobile satellites; the service is set to launch in Europe in 2025 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250130/p9#a250130p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
