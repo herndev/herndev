@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move over messaging, this carrier just brought satellite video calling to any phone](https://www.androidauthority.com/satellite-video-calling-vodafone-3521576/)
- - [Mistral AI, seen as Europe&#39;s great hope for AI, is losing ground to US rivals and being overshadowed by DeepSeek; sources say its ARR is in the tens of millions &lpar;Financial Times&rpar;](http://www.techmeme.com/250130/p3#a250130p3)
- - [Google announces new Gemini features for Google Sheets, letting Workspace users ask Gemini to generate static charts, analyze data, and more &lpar;Google Workspace Updates&rpar;](http://www.techmeme.com/250130/p2#a250130p2)<!-- TECH:END -->
+ - [STMicro reports Q4 revenue down 22.4% YoY to $3.32B, net income down 68.3% YoY to $341M, and projects Q1 revenue down 27.6% YoY to $2.51B, below $2.72B est. &lpar;Reuters&rpar;](http://www.techmeme.com/250130/p4#a250130p4)
+ - [Google rolls out Identity Check to protect you from muggers](https://www.androidauthority.com/google-identity-check-feature-available-pixels-3521575/)
+ - [The Best Clitoral Suction Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-clitoral-suction-toys/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
