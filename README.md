@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [STMicro reports Q4 revenue down 22.4% YoY to $3.32B, net income down 68.3% YoY to $341M, and projects Q1 revenue down 27.6% YoY to $2.51B, below $2.72B est. &lpar;Reuters&rpar;](http://www.techmeme.com/250130/p4#a250130p4)
- - [Google rolls out Identity Check to protect you from muggers](https://www.androidauthority.com/google-identity-check-feature-available-pixels-3521575/)
- - [The Best Clitoral Suction Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-clitoral-suction-toys/)<!-- TECH:END -->
+ - [GeForce Now’s paid tiers are free for now, but only if you paid for them](https://www.androidauthority.com/geforce-now-payment-system-free-3521586/)
+ - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
+ - [How Epic is transforming Fortnite into a content platform, paying $350M to creators in 2024; 36.5% of the total playtime was spent in games made by creators &lpar;Julia Alexander/Posting Nexus&rpar;](http://www.techmeme.com/250130/p6#a250130p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
