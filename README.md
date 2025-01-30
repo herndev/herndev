@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel and Android employees in the US are being asked to step aside voluntarily](https://www.androidauthority.com/google-voluntary-exit-program-3521824/)
- - [Google Search adds Ask for me, which uses AI to call businesses to inquire about availability and pricing, starting with nail salons and auto shops in the US &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250130/p36#a250130p36)
- - [Google taps into retro arcade nostalgia with this in-browser Breakout clone](https://www.androidauthority.com/google-breakout-game-3521763/)<!-- TECH:END -->
+ - [Meta Is Dismantling DEI Programs, but Tells Investors It Still Wants ‘Cognitive Diversity’](https://www.wired.com/story/meta-2024-earnings-dei-trump/)
+ - [Google could be cooking up a new look for voice search in the Play Store &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-voice-search-ui-3521829/)
+ - [How Hudhayfa Nazoordeen, aka HudZah, a 20-year-old math student and an &quot;AI native&quot; in San Francisco, is building a nuclear fusor under Claude&#39;s tutelage &lpar;Ashlee Vance/Core Memory&rpar;](http://www.techmeme.com/250130/p38#a250130p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
