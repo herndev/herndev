@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My tech-savvy friends wish Android had this hidden FaceTime feature](https://www.androidauthority.com/wish-android-had-this-facetime-feature-3521232/)
- - [Bleach Enthusiast, Antisemitic Conspiracist Among Stars of Anti-Vaxxer Event To Be Held at Trump Hotel](https://www.wired.com/story/antivaxers-covid-deniers-trump-national-doral-miami-resort/)
- - [Washington, DC Plane Crash: Everything We Know So Far](https://www.wired.com/story/washington-dc-plane-crash-everything-we-know-so-far-black-hawk-faa-potomac-american-airlines-psa/)<!-- TECH:END -->
+ - [Apple&#39;s MacBook Air drops to as low as $799 with 16GB RAM](https://appleinsider.com/articles/25/01/30/apples-macbook-air-drops-to-as-low-as-799-with-16gb-ram?utm_medium=rss)
+ - [Microsoft makes OpenAI&#39;s o1 model, branded as &quot;Think Deeper&quot;, free for all Copilot users, after launching it in October as a paid Copilot Pro feature &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250130/p17#a250130p17)
+ - [The Galaxy S25 Ultra is lighter and brighter, but is it enough? S23 Ultra owners say no](https://www.androidauthority.com/samsung-galaxy-s25-ultra-vs-galaxy-s23-ultra-poll-results-3521738/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
