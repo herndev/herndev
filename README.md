@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europol and German law enforcement arrest two suspects and seize 17 servers to take down Cracked and Nulled, two of the largest hacking forums with 10M+ users &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250130/p12#a250130p12)
- - [10 Best Delivery Chocolate Boxes to Send and Receive &lpar;2025&rpar;](https://www.wired.com/gallery/best-delivery-chocolate-boxes/)
- - [Amazon Music Unlimited pulls a Spotify, hikes individual and family pricing](https://www.androidauthority.com/amazon-music-unlimited-hikes-pricing-3521679/)<!-- TECH:END -->
+ - [My tech-savvy friends wish Android had this hidden FaceTime feature](https://www.androidauthority.com/wish-android-had-this-facetime-feature-3521232/)
+ - [Bleach Enthusiast, Antisemitic Conspiracist Among Stars of Anti-Vaxxer Event To Be Held at Trump Hotel](https://www.wired.com/story/antivaxers-covid-deniers-trump-national-doral-miami-resort/)
+ - [Washington, DC Plane Crash: Everything We Know So Far](https://www.wired.com/story/washington-dc-plane-crash-everything-we-know-so-far-black-hawk-faa-potomac-american-airlines-psa/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
