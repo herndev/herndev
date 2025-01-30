@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads adds a dedicated media tab globally for photos and video, days after X and Bluesky added video tabs, and will let users tag people in photos &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250130/p24#a250130p24)
- - [Cybersecurity firms Netskope and Armis say &quot;hundreds&quot; of companies and government agencies globally are moving to block DeepSeek due to data leak concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p23#a250130p23)
- - [Fairshake, the crypto super PAC bankrolled by Coinbase, a16z, and others, says it has $116M in cash on hand aimed at the 2026 midterm election cycle &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250130/p22#a250130p22)<!-- TECH:END -->
+ - [These are my 5 non-negotiable requirements for a resurrected Pebble watch](https://www.androidauthority.com/5-requirements-new-pebble-watch-3521757/)
+ - [DataBank, which provides high-performance compute-ready data centers for enterprise clients, raised $250M from PE firm TJC and $600M in a secondary share offer &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250130/p30#a250130p30)
+ - [Sources: bankers trying to offload ~$3B in X debt claim X had $1.2B in adjusted EBITDA in 2024, roughly flat from before Elon Musk&#39;s buyout, a sign of recovery &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p29#a250130p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
