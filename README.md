@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Is Dismantling DEI Programs, but Tells Investors It Still Wants ‘Cognitive Diversity’](https://www.wired.com/story/meta-2024-earnings-dei-trump/)
- - [Google could be cooking up a new look for voice search in the Play Store &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-voice-search-ui-3521829/)
- - [How Hudhayfa Nazoordeen, aka HudZah, a 20-year-old math student and an &quot;AI native&quot; in San Francisco, is building a nuclear fusor under Claude&#39;s tutelage &lpar;Ashlee Vance/Core Memory&rpar;](http://www.techmeme.com/250130/p38#a250130p38)<!-- TECH:END -->
+ - [Anker SOLIX C300 power station price drops back to all-time low, but you must act quickly!](https://www.androidauthority.com/anker-solix-c300-portable-power-station-deal-3521888/)
+ - [Services buoy slumping iPhone sales in record-breaking holiday quarter earnings](https://appleinsider.com/articles/25/01/30/services-buoy-slumping-iphone-sales-in-record-breaking-holiday-quarter-earnings?utm_medium=rss)
+ - [Quick Settings on Android could revert to expanding tiles the old way](https://www.androidauthority.com/android-quick-settings-expansion-3521878/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
