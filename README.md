@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Watch Ultra is $200 off, only today](https://www.androidauthority.com/samsung-galaxy-watch-ultra-deal-2-3522314/)
- - [Texas Gov. Greg Abbott issues a ban on the use of Chinese-backed apps DeepSeek, Lemon8, Moomoo, RedNote, Tiger Brokers, and Webull on government-issued devices &lpar;Austin American-Statesman&rpar;](http://www.techmeme.com/250131/p34#a250131p34)
- - [CCData: the supply of stablecoins on Solana jumped by 112% in January to a record high of $11.1B, as the launch of the TRUMP memecoin caused a wave of inflows &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/250131/p33#a250131p33)<!-- TECH:END -->
+ - [After DeepSeek R1&#39;s Release, ChatGPT Offers Free Trials for o3-mini](https://www.cnet.com/tech/services-and-software/after-deepseek-r1s-release-chatgpt-offers-free-trials-for-o3-mini/#ftag=CAD590a51e)
+ - [Google log-in prompts on Android add new layer of security](https://www.androidauthority.com/google-prompt-fingerprint-pin-authentication-3522306/)
+ - [Premier League Soccer: Livestream Nottingham Forest vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-brighton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
