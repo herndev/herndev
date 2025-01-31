@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Chief Strategy Officer Scott Belsky leaves the company to join A24 film studio as a partner; he co-founded Behance, which Adobe acquired for $150M in 2012 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250131/p8#a250131p8)
- - [Samsung’s latest flagship hits a snag: Some carrier systems aren’t ready for the Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-activation-problem-3522072/)
- - [Experts say the Kremlin&#39;s throttling of YouTube is driving Russians to state-controlled platforms; Google data shows Russian traffic to YouTube is down ~66% YoY &lpar;Paul Sonne/New York Times&rpar;](http://www.techmeme.com/250131/p7#a250131p7)<!-- TECH:END -->
+ - [Google Translate could soon let you ask questions about translation results &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-translate-ask-a-question-apk-3522073/)
+ - [5 Things the Nintendo Switch 2 Needs to Succeed](https://www.wired.com/story/5-things-the-nintendo-switch-2-needs-to-succeed/)
+ - [Play Sniper Elite: Resistance Now and More Soon on Xbox Game Pass](https://www.cnet.com/tech/gaming/play-sniper-elite-resistance-now-and-more-soon-on-xbox-game-pass/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
