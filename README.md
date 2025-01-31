@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say the Kremlin&#39;s throttling of YouTube is driving Russians to state-controlled platforms; Google data shows Russian traffic to YouTube is down ~66% YoY &lpar;Paul Sonne/New York Times&rpar;](http://www.techmeme.com/250131/p7#a250131p7)
- - [Best Internet Providers in Winston-Salem, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-winston-salem-nc/#ftag=CAD590a51e)
- - [Samsung reveals 2025 foldable plans, hints at surprise new phone&lpar;s&rpar;](https://www.androidauthority.com/samsung-2025-foldable-plans-new-model-3522053/)<!-- TECH:END -->
+ - [Adobe Chief Strategy Officer Scott Belsky leaves the company to join A24 film studio as a partner; he co-founded Behance, which Adobe acquired for $150M in 2012 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250131/p8#a250131p8)
+ - [Samsung’s latest flagship hits a snag: Some carrier systems aren’t ready for the Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-activation-problem-3522072/)
+ - [Experts say the Kremlin&#39;s throttling of YouTube is driving Russians to state-controlled platforms; Google data shows Russian traffic to YouTube is down ~66% YoY &lpar;Paul Sonne/New York Times&rpar;](http://www.techmeme.com/250131/p7#a250131p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
