@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a leaked recording of an all-hands meeting, Mark Zuckerberg said Meta was slow to respond to TikTok&#39;s rise because &quot;we didn&#39;t think TikTok was social&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/250130/p54#a250130p54)
- - [Intel says it no longer plans to sell its next-gen Falcon Shores AI accelerator chip, which was set to launch in late 2025, to focus on its Jaguar Shores chip &lpar;CRN&rpar;](http://www.techmeme.com/250130/p53#a250130p53)
- - [Tether plans to bring USDT to the Bitcoin base layer again and to the Layer 2 protocol Lightning Network, following USDT expansions to Celo and other networks &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250130/p52#a250130p52)<!-- TECH:END -->
+ - [The Allen Institute for AI releases Tulu 3 405B, an open source model that it claims outperforms DeepSeek V3 and OpenAI&#39;s GPT-4o on certain benchmarks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250130/p57#a250130p57)
+ - [300 doctors attended a summit on Apple Vision Pro&#39;s applications in surgery](https://appleinsider.com/articles/25/01/31/300-doctors-attended-a-summit-on-apple-vision-pros-applications-in-surgery?utm_medium=rss)
+ - [Are Eufy’s Find My Device trackers dead? &lpar;Updated: Still alive&rpar;](https://www.androidauthority.com/eufy-find-my-device-tracker-dead-3520939/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
