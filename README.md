@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After strong earnings, Morgan Stanley inches up AAPL target to $275](https://appleinsider.com/articles/25/01/31/after-strong-earnings-morgan-stanley-inches-up-aapl-target-to-275?utm_medium=rss)
- - [Apple agrees to a $20M settlement to resolve claims that some Watch batteries swelled over time, potentially damaging other key components, such as the display &lpar;Samantha Kelly/CNET&rpar;](http://www.techmeme.com/250131/p18#a250131p18)
- - [The Best Ski Goggles, Editor Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-ski-goggles/)<!-- TECH:END -->
+ - [Your local AT&amp;T may already be selling the Galaxy S25](https://www.androidauthority.com/galaxy-s25-att-store-3522166/)
+ - [Tether had $13B in 2024 net profits, including ~$7B from its US Treasuries and repo holdings, and $5B from unrealized appreciation of gold and bitcoin holdings &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250131/p22#a250131p22)
+ - [Source: Anton Levy is stepping down as General Atlantic&#39;s co-president and chairman of global technology; Levy led investments in Alibaba, Facebook, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250131/p21#a250131p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
