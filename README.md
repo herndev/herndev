@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Allen Institute for AI releases Tulu 3 405B, an open source model that it claims outperforms DeepSeek V3 and OpenAI&#39;s GPT-4o on certain benchmarks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250130/p57#a250130p57)
- - [300 doctors attended a summit on Apple Vision Pro&#39;s applications in surgery](https://appleinsider.com/articles/25/01/31/300-doctors-attended-a-summit-on-apple-vision-pros-applications-in-surgery?utm_medium=rss)
- - [Are Eufy’s Find My Device trackers dead? &lpar;Updated: Still alive&rpar;](https://www.androidauthority.com/eufy-find-my-device-tracker-dead-3520939/)<!-- TECH:END -->
+ - [Zenfone 12 Ultra teases the return of the 3.5mm jack – but does it matter anymore?](https://www.androidauthority.com/asus-zenfone-12-ultra-teaser-headphone-jack-3521995/)
+ - [Tel Aviv-based Oligo Security, which offers cybersecurity tools for enterprises to monitor their applications, raised a $50M Series B led by Greenfield Partners &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250131/p2#a250131p2)
+ - [Sources: US officials are investigating whether DeepSeek bought advanced Nvidia chips from third parties in Singapore, circumventing US restrictions on AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p1#a250131p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
