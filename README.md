@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reveals 2025 foldable plans, hints at surprise new phone&lpar;s&rpar;](https://www.androidauthority.com/samsung-2025-foldable-plans-new-model-3522053/)
- - [How much RAM does your Android phone really need in 2025?](https://www.androidauthority.com/how-much-ram-do-i-need-phone-3086661/)
- - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts say the Kremlin&#39;s throttling of YouTube is driving Russians to state-controlled platforms; Google data shows Russian traffic to YouTube is down ~66% YoY &lpar;Paul Sonne/New York Times&rpar;](http://www.techmeme.com/250131/p7#a250131p7)
+ - [Best Internet Providers in Winston-Salem, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-winston-salem-nc/#ftag=CAD590a51e)
+ - [Samsung reveals 2025 foldable plans, hints at surprise new phone&lpar;s&rpar;](https://www.androidauthority.com/samsung-2025-foldable-plans-new-model-3522053/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
