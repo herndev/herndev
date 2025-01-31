@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hits back at judge with demand for Google search dominance trial delay](https://appleinsider.com/articles/25/01/31/apple-hits-back-at-judge-with-demand-for-google-search-dominance-trial-delay?utm_medium=rss)
- - [WhatsApp says it disrupted a campaign in which 90 journalists and other members of civil society were targeted using spyware from Israel-based Paragon &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/250131/p26#a250131p26)
- - [RFK Jr.’s Senate Testimony Is Haunted by His Track Record](https://www.wired.com/story/rfk-jr-senate-testimony-is-haunted-by-his-track-record-robert-f-kennedy/)<!-- TECH:END -->
+ - [Orico 20Plus MagPro iPhone SSD review: Good hardware, iOS Files app is still terrible](https://appleinsider.com/articles/25/01/31/orico-20plus-magpro-iphone-ssd-review-good-hardware-ios-files-app-is-still-terrible?utm_medium=rss)
+ - [Americans are buying fewer budget smartphones, and there may be good reasons why](https://www.androidauthority.com/us-smartphone-sales-q4-2024-3522218/)
+ - [Kash Patel Says He Never Promoted QAnon. Here Are All The Times He Did](https://www.wired.com/story/kash-patel-qanon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
