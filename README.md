@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zenfone 12 Ultra teases the return of the 3.5mm jack – but does it matter anymore?](https://www.androidauthority.com/asus-zenfone-12-ultra-teaser-headphone-jack-3521995/)
- - [Tel Aviv-based Oligo Security, which offers cybersecurity tools for enterprises to monitor their applications, raised a $50M Series B led by Greenfield Partners &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250131/p2#a250131p2)
- - [Sources: US officials are investigating whether DeepSeek bought advanced Nvidia chips from third parties in Singapore, circumventing US restrictions on AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p1#a250131p1)<!-- TECH:END -->
+ - [Investor letter: Elliott Management warns the White House&#39;s embrace of crypto is helping fuel a speculative mania that could cause &quot;havoc&quot; when prices collapse &lpar;Costas Mourselas/Financial Times&rpar;](http://www.techmeme.com/250131/p4#a250131p4)
+ - [SoftBank, which sources say is in talks to invest $15B-$25B in OpenAI and $18B in Stargate, could borrow against its $140B+ Arm stake to fund the investments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250131/p3#a250131p3)
+ - [Google Maps has started a turf war between the US and Mexico with its recent change](https://www.androidauthority.com/google-maps-gulf-of-mexico-name-change-controversy-3522018/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
