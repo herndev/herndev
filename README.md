@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new Android apps and games for February 2025](https://www.androidauthority.com/new-android-apps-658839/)
- - [A profile of incoming White House OSTP director Michael Kratsios, who lacks a STEM degree and led the American AI Initiative during President Trump&#39;s first term &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/250131/p6#a250131p6)
- - [Nvidia updates its PC app and rolls out the new GPU drivers, bringing Multi Frame Generation to RTX 50 Series GPUs and DLSS transformer models to all RTX GPUs &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250131/p5#a250131p5)<!-- TECH:END -->
+ - [Samsung reveals 2025 foldable plans, hints at surprise new phone&lpar;s&rpar;](https://www.androidauthority.com/samsung-2025-foldable-plans-new-model-3522053/)
+ - [How much RAM does your Android phone really need in 2025?](https://www.androidauthority.com/how-much-ram-do-i-need-phone-3086661/)
+ - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
