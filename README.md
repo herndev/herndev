@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Translate could soon let you ask questions about translation results &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-translate-ask-a-question-apk-3522073/)
- - [5 Things the Nintendo Switch 2 Needs to Succeed](https://www.wired.com/story/5-things-the-nintendo-switch-2-needs-to-succeed/)
- - [Play Sniper Elite: Resistance Now and More Soon on Xbox Game Pass](https://www.cnet.com/tech/gaming/play-sniper-elite-resistance-now-and-more-soon-on-xbox-game-pass/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple rumored to have a foldable display supplier selected soon](https://appleinsider.com/articles/25/01/31/apple-rumored-to-have-a-foldable-display-supplier-selected-soon?utm_medium=rss)
+ - [5 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
+ - [The OnePlus Open 2 could get a camera feature missing from even Samsung, Google flagships](https://www.androidauthority.com/oneplus-open-2-camera-feature-leak-3522083/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
