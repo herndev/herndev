@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: STMicroelectronics is considering reducing its workforce by about 6%, or up to 3,000 jobs, through early retirements and attrition, amid a chip slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p13#a250131p13)
- - [How Richard Mille Takes Quartz Watches to a Surprising Level](https://www.wired.com/story/how-richard-mille-takes-quartz-watches-to-a-surprising-level/)
- - [Cloudflare Radar: TikTok has nearly bounced back to its original traffic levels after usage fell 85% when the app temporarily shut down on January 19 &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250131/p12#a250131p12)<!-- TECH:END -->
+ - [After strong earnings, Morgan Stanley inches up AAPL target to $275](https://appleinsider.com/articles/25/01/31/after-strong-earnings-morgan-stanley-inches-up-aapl-target-to-275?utm_medium=rss)
+ - [Apple agrees to a $20M settlement to resolve claims that some Watch batteries swelled over time, potentially damaging other key components, such as the display &lpar;Samantha Kelly/CNET&rpar;](http://www.techmeme.com/250131/p18#a250131p18)
+ - [The Best Ski Goggles, Editor Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-ski-goggles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
