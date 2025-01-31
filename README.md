@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether plans to bring USDT to the Bitcoin base layer again and to the Layer 2 protocol Lightning Network, following USDT expansions to Celo and other networks &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250130/p52#a250130p52)
- - [Elastos, a decentralized infrastructure provider building a Bitcoin DeFi protocol called BeL2, raised $20M from private investment company Rollman Management &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/250130/p51#a250130p51)
- - [The Razer Kraken Kitty V2 headsets are super cute and on sale](https://www.androidauthority.com/razer-kraken-kitty-v2-pro-deals-3521886/)<!-- TECH:END -->
+ - [In a leaked recording of an all-hands meeting, Mark Zuckerberg said Meta was slow to respond to TikTok&#39;s rise because &quot;we didn&#39;t think TikTok was social&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/250130/p54#a250130p54)
+ - [Intel says it no longer plans to sell its next-gen Falcon Shores AI accelerator chip, which was set to launch in late 2025, to focus on its Jaguar Shores chip &lpar;CRN&rpar;](http://www.techmeme.com/250130/p53#a250130p53)
+ - [Tether plans to bring USDT to the Bitcoin base layer again and to the Layer 2 protocol Lightning Network, following USDT expansions to Celo and other networks &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250130/p52#a250130p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
