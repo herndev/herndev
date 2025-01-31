@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Services buoy slumping iPhone sales in record-breaking holiday quarter earnings](https://appleinsider.com/articles/25/01/30/services-buoy-slumping-iphone-sales-in-record-breaking-holiday-quarter-earnings?utm_medium=rss)
- - [Have you experienced Wi-Fi problems on your Pixel 8 Pro?](https://www.androidauthority.com/pixel-8-pro-wi-fi-3521874/)
- - [Tim Cook says there are now more than 2.35B active Apple devices worldwide, a new record, up from 2.2B devices the company reported in February 2024 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250130/p45#a250130p45)<!-- TECH:END -->
+ - [You can get a Samsung Galaxy S25 Ultra and Buds 3 Pro for only $399.99!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-and-buds-3-pro-trade-in-deal-3521912/)
+ - [Google Photos for desktop is getting a long-overdue dark mode](https://www.androidauthority.com/google-photos-dark-mode-web-3521925/)
+ - [Apple Services revenue reached an all-time high of $26.34B in Q1, up 14% YoY, beating estimates and helping lift the company&#39;s gross margin to a record 46.9% &lpar;CNBC&rpar;](http://www.techmeme.com/250130/p47#a250130p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
