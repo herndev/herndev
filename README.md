@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Orico 20Plus MagPro iPhone SSD review: Good hardware, iOS Files app is still terrible](https://appleinsider.com/articles/25/01/31/orico-20plus-magpro-iphone-ssd-review-good-hardware-ios-files-app-is-still-terrible?utm_medium=rss)
- - [Americans are buying fewer budget smartphones, and there may be good reasons why](https://www.androidauthority.com/us-smartphone-sales-q4-2024-3522218/)
- - [Kash Patel Says He Never Promoted QAnon. Here Are All The Times He Did](https://www.wired.com/story/kash-patel-qanon/)<!-- TECH:END -->
+ - [Sources: Apple canceled a project to build AR glasses that would pair with the Mac; the company is still working on successors to the Vision Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250131/p31#a250131p31)
+ - [Here’s How DeepSeek Censorship Actually Works—and How to Get Around It](https://www.wired.com/story/deepseek-censorship/)
+ - [OpenAI’s o3-Mini Is a Leaner AI Model That Keeps Pace With DeepSeek](https://www.wired.com/story/openai-o3-mini-release/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
