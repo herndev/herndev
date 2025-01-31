@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investor letter: Elliott Management warns the White House&#39;s embrace of crypto is helping fuel a speculative mania that could cause &quot;havoc&quot; when prices collapse &lpar;Costas Mourselas/Financial Times&rpar;](http://www.techmeme.com/250131/p4#a250131p4)
- - [SoftBank, which sources say is in talks to invest $15B-$25B in OpenAI and $18B in Stargate, could borrow against its $140B+ Arm stake to fund the investments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250131/p3#a250131p3)
- - [Google Maps has started a turf war between the US and Mexico with its recent change](https://www.androidauthority.com/google-maps-gulf-of-mexico-name-change-controversy-3522018/)<!-- TECH:END -->
+ - [The best new Android apps and games for February 2025](https://www.androidauthority.com/new-android-apps-658839/)
+ - [A profile of incoming White House OSTP director Michael Kratsios, who lacks a STEM degree and led the American AI Initiative during President Trump&#39;s first term &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/250131/p6#a250131p6)
+ - [Nvidia updates its PC app and rolls out the new GPU drivers, bringing Multi Frame Generation to RTX 50 Series GPUs and DLSS transformer models to all RTX GPUs &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250131/p5#a250131p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
