@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reports Q4 revenue up 12% YoY to ~$52.2B, vs. ~$51.9B est., operating profit up 132% YoY to ~$4.5B, vs. ~$4.7B est., and FY 2024 revenue of ~$207B &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250130/p49#a250130p49)
- - [Only today: Save $250 on the Acer Chromebook Plus 516 GE gaming laptop](https://www.androidauthority.com/acer-chromebook-plus-516-ge-deal-2-3521887/)
- - [Tesla to Launch Self-Driving Car Service in Texas in June, Elon Musk Says](https://www.cnet.com/roadshow/news/tesla-to-launch-self-driving-car-service-in-texas-in-june-elon-musk-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon sues Washington state to limit the release of public records to The Washington Post about Jeff Bezos&#39; Amazon Project Kuiper satellite facility in Seattle &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250130/p50#a250130p50)
+ - [There’s Now a Barbie-Themed G-Shock Watch, and We Want In](https://www.wired.com/story/theres-now-a-barbie-themed-g-shock-watch-and-we-want-in/)
+ - [Astronaut Suni Williams Sets New Record on Spacewalk Outside ISS](https://www.cnet.com/science/stranded-nasa-astronauts-on-iss-set-record-for-woman-astronaut-spacewalk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
