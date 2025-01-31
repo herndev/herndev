@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon sues Washington state to limit the release of public records to The Washington Post about Jeff Bezos&#39; Amazon Project Kuiper satellite facility in Seattle &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250130/p50#a250130p50)
- - [There’s Now a Barbie-Themed G-Shock Watch, and We Want In](https://www.wired.com/story/theres-now-a-barbie-themed-g-shock-watch-and-we-want-in/)
- - [Astronaut Suni Williams Sets New Record on Spacewalk Outside ISS](https://www.cnet.com/science/stranded-nasa-astronauts-on-iss-set-record-for-woman-astronaut-spacewalk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tether plans to bring USDT to the Bitcoin base layer again and to the Layer 2 protocol Lightning Network, following USDT expansions to Celo and other networks &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250130/p52#a250130p52)
+ - [Elastos, a decentralized infrastructure provider building a Bitcoin DeFi protocol called BeL2, raised $20M from private investment company Rollman Management &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/250130/p51#a250130p51)
+ - [The Razer Kraken Kitty V2 headsets are super cute and on sale](https://www.androidauthority.com/razer-kraken-kitty-v2-pro-deals-3521886/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
