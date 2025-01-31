@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your local AT&amp;T may already be selling the Galaxy S25](https://www.androidauthority.com/galaxy-s25-att-store-3522166/)
- - [Tether had $13B in 2024 net profits, including ~$7B from its US Treasuries and repo holdings, and $5B from unrealized appreciation of gold and bitcoin holdings &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250131/p22#a250131p22)
- - [Source: Anton Levy is stepping down as General Atlantic&#39;s co-president and chairman of global technology; Levy led investments in Alibaba, Facebook, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250131/p21#a250131p21)<!-- TECH:END -->
+ - [B&amp;H&#39;s is blowing out M3 MacBook Pros at up to $1,200 off](https://appleinsider.com/articles/25/01/31/bhs-is-blowing-out-m3-macbook-pros-at-up-to-1200-off?utm_medium=rss)
+ - [Apple files an emergency motion to halt the remedy trial of the DOJ vs. Google case while it appeals a court&#39;s denial of its request to intervene as a defendant &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250131/p25#a250131p25)
+ - [Don’t fall for this street phone scam that’s conning people out of their savings](https://www.androidauthority.com/ny-street-phone-scam-3522159/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
