@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get a Samsung Galaxy S25 Ultra and Buds 3 Pro for only $399.99!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-and-buds-3-pro-trade-in-deal-3521912/)
- - [Google Photos for desktop is getting a long-overdue dark mode](https://www.androidauthority.com/google-photos-dark-mode-web-3521925/)
- - [Apple Services revenue reached an all-time high of $26.34B in Q1, up 14% YoY, beating estimates and helping lift the company&#39;s gross margin to a record 46.9% &lpar;CNBC&rpar;](http://www.techmeme.com/250130/p47#a250130p47)<!-- TECH:END -->
+ - [Samsung reports Q4 revenue up 12% YoY to ~$52.2B, vs. ~$51.9B est., operating profit up 132% YoY to ~$4.5B, vs. ~$4.7B est., and FY 2024 revenue of ~$207B &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250130/p49#a250130p49)
+ - [Only today: Save $250 on the Acer Chromebook Plus 516 GE gaming laptop](https://www.androidauthority.com/acer-chromebook-plus-516-ge-deal-2-3521887/)
+ - [Tesla to Launch Self-Driving Car Service in Texas in June, Elon Musk Says](https://www.cnet.com/roadshow/news/tesla-to-launch-self-driving-car-service-in-texas-in-june-elon-musk-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
