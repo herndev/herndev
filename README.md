@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GTA on your Galaxy Watch? This Redditor made it happen](https://www.androidauthority.com/galaxy-watch-psp-emulator-3522263/)
- - [Apple reported to have killed the project to create Mac-connected AR glasses](https://appleinsider.com/articles/25/01/31/apple-reported-to-have-killed-the-project-to-create-mac-connected-ar-glasses?utm_medium=rss)
- - [We might finally have a name for Samsung’s triple-screen foldable](https://www.androidauthority.com/samsung-galaxy-g-fold-rumors-3522276/)<!-- TECH:END -->
+ - [The Samsung Galaxy Watch Ultra is $200 off, only today](https://www.androidauthority.com/samsung-galaxy-watch-ultra-deal-2-3522314/)
+ - [Texas Gov. Greg Abbott issues a ban on the use of Chinese-backed apps DeepSeek, Lemon8, Moomoo, RedNote, Tiger Brokers, and Webull on government-issued devices &lpar;Austin American-Statesman&rpar;](http://www.techmeme.com/250131/p34#a250131p34)
+ - [CCData: the supply of stablecoins on Solana jumped by 112% in January to a record high of $11.1B, as the launch of the TRUMP memecoin caused a wave of inflows &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/250131/p33#a250131p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
