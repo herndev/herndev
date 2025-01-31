@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rumored to have a foldable display supplier selected soon](https://appleinsider.com/articles/25/01/31/apple-rumored-to-have-a-foldable-display-supplier-selected-soon?utm_medium=rss)
- - [5 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
- - [The OnePlus Open 2 could get a camera feature missing from even Samsung, Google flagships](https://www.androidauthority.com/oneplus-open-2-camera-feature-leak-3522083/)<!-- TECH:END -->
+ - [Sources: STMicroelectronics is considering reducing its workforce by about 6%, or up to 3,000 jobs, through early retirements and attrition, amid a chip slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/250131/p13#a250131p13)
+ - [How Richard Mille Takes Quartz Watches to a Surprising Level](https://www.wired.com/story/how-richard-mille-takes-quartz-watches-to-a-surprising-level/)
+ - [Cloudflare Radar: TikTok has nearly bounced back to its original traffic levels after usage fell 85% when the app temporarily shut down on January 19 &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250131/p12#a250131p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
