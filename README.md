@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple canceled a project to build AR glasses that would pair with the Mac; the company is still working on successors to the Vision Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250131/p31#a250131p31)
- - [Here’s How DeepSeek Censorship Actually Works—and How to Get Around It](https://www.wired.com/story/deepseek-censorship/)
- - [OpenAI’s o3-Mini Is a Leaner AI Model That Keeps Pace With DeepSeek](https://www.wired.com/story/openai-o3-mini-release/)<!-- TECH:END -->
+ - [GTA on your Galaxy Watch? This Redditor made it happen](https://www.androidauthority.com/galaxy-watch-psp-emulator-3522263/)
+ - [Apple reported to have killed the project to create Mac-connected AR glasses](https://appleinsider.com/articles/25/01/31/apple-reported-to-have-killed-the-project-to-create-mac-connected-ar-glasses?utm_medium=rss)
+ - [We might finally have a name for Samsung’s triple-screen foldable](https://www.androidauthority.com/samsung-galaxy-g-fold-rumors-3522276/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
