@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI adoption has outpaced that of PCs and the internet, but evidence of its boost to productivity is thin on the ground; study: 40% of US adults have used AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p2#a250203p2)
- - [Upgrade Your Bedtime Routine With the 10-3-2-1-0 Sleep Hack. It Might Be The Cure to Your Sleepless Nights](https://www.cnet.com/health/sleep/upgrade-your-bedtime-routine-with-the-10-3-2-1-0-sleep-hack/#ftag=CAD590a51e)
- - [Stearns &amp; Foster Lux Estate Mattress Review 2025: Experts Test Handcrafted Comfort, Available Online or In-Store](https://www.cnet.com/health/sleep/stearns-foster-lux-estate-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stablecoins are becoming a core part of financial infrastructure in emerging markets, expanding beyond cross-border payments into consumer finance and more &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250203/p3#a250203p3)
+ - [Here’s when Apple could launch its Android-friendly earbuds with heart-rate sensing](https://www.androidauthority.com/powerbeats-pro-2-leak-release-date-3522477/)
+ - [Microsoft makes it easier for Phone Link users to move on from their old phone](https://www.androidauthority.com/microsoft-phone-link-remove-old-phone-3522482/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
