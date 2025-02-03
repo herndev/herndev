@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp’s latest change lets you view ‘view-once’ media more than once](https://www.androidauthority.com/whatsapp-view-once-media-linked-devices-3522527/)
- - [Chainalysis and others estimate $Trump had generated $86M to $100M in trading fees by January 30; its market cap, which hit $14.5B on January 19, is down 66% &lpar;Reuters&rpar;](http://www.techmeme.com/250203/p11#a250203p11)
- - [9 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)<!-- TECH:END -->
+ - [Elektron Digitone II Review: Worthy Successor to a Classic](https://www.wired.com/review/elektron-digitone-ii/)
+ - [MicroStrategy says it didn&#39;t buy any bitcoin in the prior week, ending a run of 12 consecutive weekly purchases worth $20B+ starting in October 2024 &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250203/p14#a250203p14)
+ - [Apple fixes bug that stopped utilities making bootable backups](https://appleinsider.com/articles/25/02/03/apple-fixes-bug-that-stopped-utilities-making-bootable-backups?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
