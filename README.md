@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Candeub, a Big Tech critic and architect of Trump&#39;s first term effort to revoke Section 230 protections for social media, will be the FCC&#39;s general counsel &lpar;Semafor&rpar;](http://www.techmeme.com/250203/p19#a250203p19)
- - [Gemini can now do even more work for you straight from the lock screen](https://www.androidauthority.com/gemini-extensions-lock-screen-3522715/)
- - [Apple just rolled out iOS 18.3 -- for just the iPhone 11 family](https://appleinsider.com/articles/25/02/03/apple-just-rolled-out-ios-183----for-just-the-iphone-11-family?utm_medium=rss)<!-- TECH:END -->
+ - [How to get your 2025 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)
+ - [Treasury Sec. Scott Bessent ordered the CFPB to stop all rulemaking, communications, litigation, and other activities; on X, Musk has called to &quot;Delete CFPB&quot; &lpar;Evan Weinberger/Bloomberg Law&rpar;](http://www.techmeme.com/250203/p21#a250203p21)
+ - [First iOS porn app in EU is just the inevitable consequence of opening access to app stores](https://www.androidauthority.com/iphone-porn-app-3522694/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
