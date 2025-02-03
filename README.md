@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Theragun Alternatives: Best Budget Massage Guns for 2025](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)
  - [OpenAI unveils Deep Research, an AI agent for creating in-depth reports, available to subscribers of the $200 ChatGPT Pro tier and limited to 100 queries/month &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250202/p10#a250202p10)
- - [Best DIY Home Security Systems of 2025](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)
- - [AppleCare Plus may soon say goodbye to multi-year prepaid plans and hello to subscriptions](https://www.androidauthority.com/applecare-plus-subscription-switch-3522412/)<!-- TECH:END -->
+ - [Best DIY Home Security Systems of 2025](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
