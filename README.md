@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
- - [Google Pixel 9a rumors: Release date, leaked features, rumored price, and more](https://www.androidauthority.com/google-pixel-9a-3479179/)
- - [A profile of Klarna CEO Sebastian Siemiatkowski, whose overblown statements about AI replacing humans point to a future that tech companies are working toward &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/250203/p4#a250203p4)<!-- TECH:END -->
+ - [An analysis of FEC filings shows Elon Musk spent $288M+ to elect Trump and other Republicans, the 2024 election&#39;s biggest donor; Musk&#39;s America PAC raised $263M &lpar;Washington Post&rpar;](http://www.techmeme.com/250203/p6#a250203p6)
+ - [The Seoul High Court upholds a decision clearing Samsung Electronics Executive Chairman Jay Y. Lee of fraud and stock-rigging, a major victory for Samsung &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p5#a250203p5)
+ - [Act Now to Lock in Up to 4.65% APY. Today&#39;s CD Rates, Feb. 3, 2025](https://www.cnet.com/personal-finance/banking/act-now-to-lock-in-up-to-4-65-apy-todays-cd-rates-feb-3-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
