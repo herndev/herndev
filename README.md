@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag 2 rumors, Matter ice maker, &amp; Logitech&#39;s presence sensor on HomeKit Insider](https://appleinsider.com/articles/25/02/03/airtag-2-rumors-matter-ice-maker-logitechs-presence-sensor-on-homekit-insider?utm_medium=rss)
- - [Apple celebrates Kendrick Lamar&#39;s &#39;Road to Halftime&#39; with bonus content, special offers, and more](https://appleinsider.com/articles/25/02/03/apple-celebrates-kendrick-lamars-road-to-halftime-with-bonus-content-special-offers-and-more?utm_medium=rss)
- - [Adaptive Charging from Pixel phones may soon also extend your Pixel Watch’s lifespan &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-watch-adaptive-charging-apk-3522565/)<!-- TECH:END -->
+ - [The first ever native iPhone porn app, Hot Tub, arrives in the EU via the approved alternative app store AltStore PAL, which was made possible by the DMA &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250203/p16#a250203p16)
+ - [Nothing Phone 3a could borrow one of the iPhone’s best new hardware features](https://www.androidauthority.com/nothing-phone-3a-button-3522613/)
+ - [Today&#39;s top 24-inch iMac deals deliver prices as low as $599](https://appleinsider.com/articles/25/02/03/todays-top-24-inch-imac-deals-deliver-prices-as-low-as-599?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
