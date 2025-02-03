@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of FEC filings shows Elon Musk spent $288M+ to elect Trump and other Republicans, the 2024 election&#39;s biggest donor; Musk&#39;s America PAC raised $263M &lpar;Washington Post&rpar;](http://www.techmeme.com/250203/p6#a250203p6)
- - [The Seoul High Court upholds a decision clearing Samsung Electronics Executive Chairman Jay Y. Lee of fraud and stock-rigging, a major victory for Samsung &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p5#a250203p5)
- - [Act Now to Lock in Up to 4.65% APY. Today&#39;s CD Rates, Feb. 3, 2025](https://www.cnet.com/personal-finance/banking/act-now-to-lock-in-up-to-4-65-apy-todays-cd-rates-feb-3-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India prepares for Trump trade disruption by cutting import taxes for manufacturers](https://appleinsider.com/articles/25/02/03/india-prepares-for-trump-trade-disruption-by-cutting-import-taxes-for-manufacturers?utm_medium=rss)
+ - [Linux Mint vs MX Linux: Which popular distro should you choose?](https://www.androidauthority.com/linux-mint-vs-mx-linux-3522506/)
+ - [Sam Altman and Jony Ive’s future AI device could involve a lot less typing into ChatGPT](https://www.androidauthority.com/openai-chatgpt-ai-device-sam-altman-3522517/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
