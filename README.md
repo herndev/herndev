@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first ever native iPhone porn app, Hot Tub, arrives in the EU via the approved alternative app store AltStore PAL, which was made possible by the DMA &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250203/p16#a250203p16)
- - [Nothing Phone 3a could borrow one of the iPhone’s best new hardware features](https://www.androidauthority.com/nothing-phone-3a-button-3522613/)
- - [Today&#39;s top 24-inch iMac deals deliver prices as low as $599](https://appleinsider.com/articles/25/02/03/todays-top-24-inch-imac-deals-deliver-prices-as-low-as-599?utm_medium=rss)<!-- TECH:END -->
+ - [In the wake of US tariffs on Canadian goods, the premiere of Ontario Doug Ford says he&#39;s &quot;ripping up&quot; the province&#39;s $100M Starlink contract &lpar;Rochelle Raveendran/CBC News&rpar;](http://www.techmeme.com/250203/p17#a250203p17)
+ - [Your responses tell us that ChatGPT is right to be worried about DeepSeek](https://www.androidauthority.com/interested-deepseek-poll-results-3522602/)
+ - [The slim and stylish Roborock Saros 10R robovac is the new king of furniture navigation in my house](https://www.androidauthority.com/roborock-saros-10r-review-3518732/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
