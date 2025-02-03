@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get your 2025 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)
- - [Treasury Sec. Scott Bessent ordered the CFPB to stop all rulemaking, communications, litigation, and other activities; on X, Musk has called to &quot;Delete CFPB&quot; &lpar;Evan Weinberger/Bloomberg Law&rpar;](http://www.techmeme.com/250203/p21#a250203p21)
- - [First iOS porn app in EU is just the inevitable consequence of opening access to app stores](https://www.androidauthority.com/iphone-porn-app-3522694/)<!-- TECH:END -->
+ - [The Ring Battery Doorbell and Stick Up Cam are only $59.99 right now!](https://www.androidauthority.com/ring-battery-doorbell-stick-up-cam-deals-3522736/)
+ - [Counterpoint: iPhone 15 led global smartphone sales in 2024, followed by iPhone 15 Pro Max, iPhone 15 Pro, Galaxy A15 5G; global smartphone revenue grew 5% YoY &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/250203/p23#a250203p23)
+ - [Palantir reports Q4 revenue of $828M, up 36% YoY, vs. $776M est., US commercial revenue up 64% YoY; PLTR, which soared 340% in 2024, jumps ~15% after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250203/p22#a250203p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
