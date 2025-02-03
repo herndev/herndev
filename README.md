@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has officially launched the 2025 Swift Student Challenge](https://appleinsider.com/articles/25/02/03/apple-has-officially-launched-the-2025-swift-student-challenge?utm_medium=rss)
- - [Trump signs an executive action to form a sovereign wealth fund; Commerce secretary nominee Howard Lutnick says it may be used to facilitate a sale of TikTok US &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p18#a250203p18)
- - [Galaxy phones finally get a setting to turn off one of their most annoying features](https://www.androidauthority.com/one-ui-7-auto-dim-setting-3522661/)<!-- TECH:END -->
+ - [Adam Candeub, a Big Tech critic and architect of Trump&#39;s first term effort to revoke Section 230 protections for social media, will be the FCC&#39;s general counsel &lpar;Semafor&rpar;](http://www.techmeme.com/250203/p19#a250203p19)
+ - [Gemini can now do even more work for you straight from the lock screen](https://www.androidauthority.com/gemini-extensions-lock-screen-3522715/)
+ - [Apple just rolled out iOS 18.3 -- for just the iPhone 11 family](https://appleinsider.com/articles/25/02/03/apple-just-rolled-out-ios-183----for-just-the-iphone-11-family?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
