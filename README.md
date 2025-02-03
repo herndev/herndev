@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After DeepSeek R1&#39;s Release, ChatGPT Offers Free Trials for o3-mini](https://www.cnet.com/tech/services-and-software/after-deepseek-r1s-release-chatgpt-offers-free-trials-for-o3-mini/#ftag=CAD590a51e)
- - [Google log-in prompts on Android add new layer of security](https://www.androidauthority.com/google-prompt-fingerprint-pin-authentication-3522306/)
- - [Premier League Soccer: Livestream Nottingham Forest vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-brighton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AppleCare Plus may soon say goodbye to multi-year prepaid plans and hello to subscriptions](https://www.androidauthority.com/applecare-plus-subscription-switch-3522412/)
+ - [La Liga Soccer Livestream: How to Watch Barcelona vs. Alavés From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-alaves-from-anywhere/#ftag=CAD590a51e)
+ - [Apple moves to open-source, unify Swift component across platforms](https://appleinsider.com/articles/25/02/02/apple-moves-to-open-source-unify-swift-component-across-platforms?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
