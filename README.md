@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stablecoins are becoming a core part of financial infrastructure in emerging markets, expanding beyond cross-border payments into consumer finance and more &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250203/p3#a250203p3)
- - [Here’s when Apple could launch its Android-friendly earbuds with heart-rate sensing](https://www.androidauthority.com/powerbeats-pro-2-leak-release-date-3522477/)
- - [Microsoft makes it easier for Phone Link users to move on from their old phone](https://www.androidauthority.com/microsoft-phone-link-remove-old-phone-3522482/)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
+ - [Google Pixel 9a rumors: Release date, leaked features, rumored price, and more](https://www.androidauthority.com/google-pixel-9a-3479179/)
+ - [A profile of Klarna CEO Sebastian Siemiatkowski, whose overblown statements about AI replacing humans point to a future that tech companies are working toward &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/250203/p4#a250203p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
