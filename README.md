@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank commits $3B annually for itself and subsidiaries to use OpenAI&#39;s tech, and launches SB OpenAI Japan to market OpenAI&#39;s enterprise tech in Japan &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250203/p1#a250203p1)
- - [ChatGPT’s new ‘Deep Research’ tool promises analyst-level research reports in minutes](https://www.androidauthority.com/openai-chatgpt-deep-research-3522437/)
- - [Punxsutawney Phil Predicts More Winter, but Just How Accurate Is He?](https://www.cnet.com/science/groundhog-day-punxsutawney-phil-saw-his-shadow-how-accurate-is-he/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your Pixel could soon remind you of another way to make calls &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-phones-remind-wi-fi-calling-apk-teardown-3521529/)
+ - [Amazon slashes AirPods 4 to just $99, Apple Watch SE 2 drops to $169 in latest sale](https://appleinsider.com/articles/25/02/03/amazon-slashes-airpods-4-to-just-99-apple-watch-se-2-drops-to-169-in-latest-sale?utm_medium=rss)
+ - [SoftBank commits $3B annually for itself and subsidiaries to use OpenAI&#39;s tech, and launches SB OpenAI Japan to market OpenAI&#39;s enterprise tech in Japan &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250203/p1#a250203p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
