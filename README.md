@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India prepares for Trump trade disruption by cutting import taxes for manufacturers](https://appleinsider.com/articles/25/02/03/india-prepares-for-trump-trade-disruption-by-cutting-import-taxes-for-manufacturers?utm_medium=rss)
- - [Linux Mint vs MX Linux: Which popular distro should you choose?](https://www.androidauthority.com/linux-mint-vs-mx-linux-3522506/)
- - [Sam Altman and Jony Ive’s future AI device could involve a lot less typing into ChatGPT](https://www.androidauthority.com/openai-chatgpt-ai-device-sam-altman-3522517/)<!-- TECH:END -->
+ - [Sources: the EU Commission and four member nations plan a probe into Shein over illegal products, opening the fast fashion marketplace up to potential fines &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p10#a250203p10)
+ - [Retro gamers rejoice: Dreamcast emulator Flycast gains online play on Android](https://www.androidauthority.com/flycast-dreamcast-online-multiplayer-3522538/)
+ - [25 years of Apple&#39;s innovation with iPod](https://appleinsider.com/articles/25/02/03/25-years-of-apples-innovation-with-ipod?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
