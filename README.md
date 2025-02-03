@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the wake of US tariffs on Canadian goods, the premiere of Ontario Doug Ford says he&#39;s &quot;ripping up&quot; the province&#39;s $100M Starlink contract &lpar;Rochelle Raveendran/CBC News&rpar;](http://www.techmeme.com/250203/p17#a250203p17)
- - [Your responses tell us that ChatGPT is right to be worried about DeepSeek](https://www.androidauthority.com/interested-deepseek-poll-results-3522602/)
- - [The slim and stylish Roborock Saros 10R robovac is the new king of furniture navigation in my house](https://www.androidauthority.com/roborock-saros-10r-review-3518732/)<!-- TECH:END -->
+ - [Apple has officially launched the 2025 Swift Student Challenge](https://appleinsider.com/articles/25/02/03/apple-has-officially-launched-the-2025-swift-student-challenge?utm_medium=rss)
+ - [Trump signs an executive action to form a sovereign wealth fund; Commerce secretary nominee Howard Lutnick says it may be used to facilitate a sale of TikTok US &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p18#a250203p18)
+ - [Galaxy phones finally get a setting to turn off one of their most annoying features](https://www.androidauthority.com/one-ui-7-auto-dim-setting-3522661/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
