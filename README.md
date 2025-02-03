@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Theragun Alternatives: Best Budget Massage Guns for 2025](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)
- - [OpenAI unveils Deep Research, an AI agent for creating in-depth reports, available to subscribers of the $200 ChatGPT Pro tier and limited to 100 queries/month &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250202/p10#a250202p10)
- - [Best DIY Home Security Systems of 2025](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT’s new ‘Deep Research’ tool promises analyst-level research reports in minutes](https://www.androidauthority.com/openai-chatgpt-deep-research-3522437/)
+ - [Punxsutawney Phil Predicts More Winter, but Just How Accurate Is He?](https://www.cnet.com/science/groundhog-day-punxsutawney-phil-saw-his-shadow-how-accurate-is-he/#ftag=CAD590a51e)
+ - [India expands Aadhaar, now linked to the biometrics of over 1.4B people, to let businesses across several sectors use it to authenticate customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250202/p11#a250202p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
