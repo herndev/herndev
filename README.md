@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation into 300+ cyberattacks against US K-12 schools since 2020 shows how schools can withhold crucial details from affected students and parents &lpar;Mark Keierleber/Wired&rpar;](http://www.techmeme.com/250204/p8#a250204p8)
- - [Hatch Restore 3 Review: A Worthy Upgrade](https://www.wired.com/review/hatch-restore-3/)
- - [Google Opinion Rewards wants you to share even more data to get more surveys &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-opinion-rewards-personalized-ads-apk-teardown-3522945/)<!-- TECH:END -->
+ - [Motorola’s new LAM is much more exciting than the Rabbit R1 ever was](https://www.androidauthority.com/motorola-lam-vs-rabbit-r1-3519716/)
+ - [Xbox Wireless Headset Review &lpar;2024&rpar;: Pair and Play](https://www.wired.com/review/xbox-wireless-headset-2024/)
+ - [The 5 Best Heating Pads in 2025](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
