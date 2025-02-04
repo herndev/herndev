@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best MagSafe Accessories for iPhone in 2025](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)
  - [Some carrier systems aren’t ready for the Galaxy S25 Ultra &lpar;Update: Statements&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-ultra-activation-problem-3522072/)
- - [KitchenAid Promo Codes and Coupons: 10% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [KitchenAid Promo Codes and Coupons: 10% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
