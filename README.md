@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 pre-order numbers are in, these were the most popular models and colors](https://www.androidauthority.com/galaxy-s25-pre-order-sales-report-3522998/)
- - [Trump&#39;s Plan to Make European Cars More Expensive Has a Fatal Flaw](https://www.wired.com/story/trumps-plan-to-make-european-cars-more-expensive-has-a-fatal-flaw/)
- - [10 Best Gifts for Women Who Are Over This Planet &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)<!-- TECH:END -->
+ - [The Iconfactory launches Tapestry on the App Store, bringing Bluesky, Mastodon, RSS, and more into a single timeline, with a $1.99/month tier to remove ads &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250204/p14#a250204p14)
+ - [One UI 7’s Home Up update is a nostalgic trip back to the Samsung I loved](https://www.androidauthority.com/hands-on-one-ui-7-home-up-3522949/)
+ - [Galaxy S25 pre-order numbers are in, these were the most popular models and colors](https://www.androidauthority.com/galaxy-s25-pre-order-sales-report-3522998/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
