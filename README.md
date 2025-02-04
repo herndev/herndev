@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Ally Tells Staff &#39;AI-First&#39; Is the Future of Key Government Agency](https://www.wired.com/story/elon-musk-lieutenant-gsa-ai-agency/)
- - [Google now lets you customize its Android home screen widget with your choice of shortcuts](https://www.androidauthority.com/google-widget-shortcuts-3522759/)
- - [Last call: pick up Apple&#39;s M4 Pro Mac mini for $1,279](https://appleinsider.com/articles/25/02/03/last-call-pick-up-apples-m4-pro-mac-mini-for-1279?utm_medium=rss)<!-- TECH:END -->
+ - [Dick Kramlich, who co-founded NEA in 1977, died on February 1 at age 89; he was an early investor in Apple and led investments in Juniper Networks and others &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250203/p30#a250203p30)
+ - [Source: Salesforce is cutting 1,000+ roles and will allow displaced workers to apply for other jobs internally; Salesforce had ~73,000 workers as of Jan. 2024 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250203/p29#a250203p29)
+ - [Sources: Thomas Shedd, GSA&#39;s new Technology Transformation Services director and a Musk ally, told GSA workers the agency will pursue an &quot;AI-first strategy&quot; &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250203/p28#a250203p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
