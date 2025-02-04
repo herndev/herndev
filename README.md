@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lovehoney Fifty Shades of Grey Greedy Girl Rabbit Vibrator Review: Basic Vibes](https://www.wired.com/review/lovehoney-fifty-shades-of-grey-greedy-girl-rabbit-vibrator/)
- - [Nintendo reports Q3 revenue down ~33% YoY to ~$2.8B, net profit down ~33% YoY to ~$831M, both below est, 4.8M Switch sales, and cuts Switch and profit forecasts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p2#a250204p2)
- - [Meet the Hired Guns Who Make Sure School Cyberattacks Stay Hidden](https://www.wired.com/story/meet-the-hired-guns-who-make-sure-school-cyberattacks-stay-hidden/)<!-- TECH:END -->
+ - [Samsung Home Up update makes Galaxy phones the king of animations](https://www.androidauthority.com/samsung-home-up-animation-tuning-3522921/)
+ - [One of the best GBA emulators on Android now has a successor](https://www.androidauthority.com/linkboy-gba-emulator-3522884/)
+ - [Elon Musk&#39;s goal seems to amount to a coup over the US administrative state; Musk said he &quot;deleted&quot; the Direct File tax department, but that may not be true &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/250204/p5#a250204p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
