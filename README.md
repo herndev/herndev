@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toronto-based programmatic ad startup StackAdapt raised $235M led by Teachers&#39; Venture Growth, after raising $300M from Summit Partners in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250204/p12#a250204p12)
- - [Helium Mobile introduces a free phone plan with 3GB of data](https://www.androidauthority.com/helium-mobile-zero-3523012/)
- - [Sources: China is looking at launching a formal probe into Intel; a source says whether it was officially launched could be affected by US-China relations &lpar;Financial Times&rpar;](http://www.techmeme.com/250204/p11#a250204p11)<!-- TECH:END -->
+ - [Galaxy S25 pre-order numbers are in, these were the most popular models and colors](https://www.androidauthority.com/galaxy-s25-pre-order-sales-report-3522998/)
+ - [Trump&#39;s Plan to Make European Cars More Expensive Has a Fatal Flaw](https://www.wired.com/story/trumps-plan-to-make-european-cars-more-expensive-has-a-fatal-flaw/)
+ - [10 Best Gifts for Women Who Are Over This Planet &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
