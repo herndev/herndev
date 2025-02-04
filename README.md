@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US district court judge denies Apple&#39;s emergency motion to halt the remedy trial of the DOJ v. Google case, saying it hasn&#39;t demonstrated satisfactory reasons &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250203/p25#a250203p25)
- - [Where to Find Prescription Discounts on Heart Medication and More](https://www.cnet.com/health/medical/where-find-prescription-discounts-heart-medication-more/#ftag=CAD590a51e)
- - [Android users are losing access to Microsoft 365’s ‘free’ VPN](https://www.androidauthority.com/microsoft-365-vpn-discontinuation-3522747/)<!-- TECH:END -->
+ - [Elon Musk Ally Tells Staff &#39;AI-First&#39; Is the Future of Key Government Agency](https://www.wired.com/story/elon-musk-lieutenant-gsa-ai-agency/)
+ - [Google now lets you customize its Android home screen widget with your choice of shortcuts](https://www.androidauthority.com/google-widget-shortcuts-3522759/)
+ - [Last call: pick up Apple&#39;s M4 Pro Mac mini for $1,279](https://appleinsider.com/articles/25/02/03/last-call-pick-up-apples-m4-pro-mac-mini-for-1279?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
