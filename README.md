@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best MagSafe Accessories for iPhone in 2025](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)
- - [Some carrier systems aren’t ready for the Galaxy S25 Ultra &lpar;Update: Statements&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-ultra-activation-problem-3522072/)
- - [KitchenAid Promo Codes and Coupons: 10% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Samsung imagines a Galaxy Ring that can control screens and move files with a flick of your finger](https://www.androidauthority.com/samsung-galaxy-ring-patent-device-control-3522878/)
+ - [ChatGPT on WhatsApp can now critique your memes and listen to your rants](https://www.androidauthority.com/chatgpt-whatsapp-images-voice-notes-3522855/)
+ - [Best Food Delivery Services of 2025](https://www.cnet.com/tech/services-and-software/best-food-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
