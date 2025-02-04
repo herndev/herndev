@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Iconfactory launches Tapestry on the App Store, bringing Bluesky, Mastodon, RSS, and more into a single timeline, with a $1.99/month tier to remove ads &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250204/p14#a250204p14)
- - [One UI 7’s Home Up update is a nostalgic trip back to the Samsung I loved](https://www.androidauthority.com/hands-on-one-ui-7-home-up-3522949/)
- - [Galaxy S25 pre-order numbers are in, these were the most popular models and colors](https://www.androidauthority.com/galaxy-s25-pre-order-sales-report-3522998/)<!-- TECH:END -->
+ - [Grab AirPods Pro 2 for $169 today, best price of 2025](https://appleinsider.com/articles/25/02/04/grab-airpods-pro-2-for-169-today-best-price-of-2025?utm_medium=rss)
+ - [New Apple Invites app is now live on the App Store](https://appleinsider.com/articles/25/02/04/rumored-apple-invites-app-is-now-live-on-the-app-store?utm_medium=rss)
+ - [Best Tennis Balls of 2025](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
