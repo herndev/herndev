@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar is finally correcting this shared calendar oversight](https://www.androidauthority.com/google-calendar-sharing-2-3523148/)
- - [Mark Zuckerberg says users on Threads can now make their custom feeds public and follow custom feeds made by others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250204/p24#a250204p24)
- - [Samsung may have left the door open for Bluetooth S Pen on the Galaxy S25 Ultra](https://www.androidauthority.com/galaxy-s25-ultra-teardown-video-spen-3523167/)<!-- TECH:END -->
+ - [Google Lifts a Ban on Using Its AI for Weapons and Surveillance](https://www.wired.com/story/google-responsible-ai-principles/)
+ - [Google drops language from its AI Principles that said it would not pursue applications &quot;likely to cause overall harm&quot;, including weapons and surveillance &lpar;Washington Post&rpar;](http://www.techmeme.com/250204/p26#a250204p26)
+ - [A US judge says Elon Musk&#39;s claims of harm from OpenAI are a &quot;stretch&quot;, but she wouldn&#39;t stop the case from moving to trial as soon as next year &lpar;Associated Press&rpar;](http://www.techmeme.com/250204/p25#a250204p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
