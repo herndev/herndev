@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk accused an X user of &quot;a crime&quot; who named federal staff in a post that X then removed--showing what actual government social media censorship looks like &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250204/p23#a250204p23)
- - [AppleCare+ moves to subscription-only model](https://appleinsider.com/articles/25/02/04/applecare-moves-to-subscription-only-model?utm_medium=rss)
- - [How the new Apple Invites app works, and when you want to use it](https://appleinsider.com/inside/ios-18/tips/how-the-new-apple-invites-app-works-and-when-you-want-to-use-it?utm_medium=rss)<!-- TECH:END -->
+ - [Google Calendar is finally correcting this shared calendar oversight](https://www.androidauthority.com/google-calendar-sharing-2-3523148/)
+ - [Mark Zuckerberg says users on Threads can now make their custom feeds public and follow custom feeds made by others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250204/p24#a250204p24)
+ - [Samsung may have left the door open for Bluetooth S Pen on the Galaxy S25 Ultra](https://www.androidauthority.com/galaxy-s25-ultra-teardown-video-spen-3523167/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
