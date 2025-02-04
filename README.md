@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung imagines a Galaxy Ring that can control screens and move files with a flick of your finger](https://www.androidauthority.com/samsung-galaxy-ring-patent-device-control-3522878/)
- - [ChatGPT on WhatsApp can now critique your memes and listen to your rants](https://www.androidauthority.com/chatgpt-whatsapp-images-voice-notes-3522855/)
- - [Best Food Delivery Services of 2025](https://www.cnet.com/tech/services-and-software/best-food-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lovehoney Fifty Shades of Grey Greedy Girl Rabbit Vibrator Review: Basic Vibes](https://www.wired.com/review/lovehoney-fifty-shades-of-grey-greedy-girl-rabbit-vibrator/)
+ - [Nintendo reports Q3 revenue down ~33% YoY to ~$2.8B, net profit down ~33% YoY to ~$831M, both below est, 4.8M Switch sales, and cuts Switch and profit forecasts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p2#a250204p2)
+ - [Meet the Hired Guns Who Make Sure School Cyberattacks Stay Hidden](https://www.wired.com/story/meet-the-hired-guns-who-make-sure-school-cyberattacks-stay-hidden/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
