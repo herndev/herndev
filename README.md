@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab AirPods Pro 2 for $169 today, best price of 2025](https://appleinsider.com/articles/25/02/04/grab-airpods-pro-2-for-169-today-best-price-of-2025?utm_medium=rss)
- - [New Apple Invites app is now live on the App Store](https://appleinsider.com/articles/25/02/04/rumored-apple-invites-app-is-now-live-on-the-app-store?utm_medium=rss)
- - [Best Tennis Balls of 2025](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe adds &quot;contract intelligence capabilities&quot; to Acrobat&#39;s $4.99 per month AI Assistant, letting the PDF manager summarize complicated contract language &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250204/p21#a250204p21)
+ - [Nomad Universal Apple Watch cable review: This $100 cable simplifies your charging setup](https://appleinsider.com/articles/25/02/04/nomad-universal-apple-watch-cable-review-this-100-cable-simplifies-your-charging-setup?utm_medium=rss)
+ - [Memo: Cruise is laying off 50% of its staff, after GM cut funding to robotaxi operations and shifts its focus to tech like hands-free driver assistance &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250204/p19#a250204p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
