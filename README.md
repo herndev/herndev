@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s State Administration for Market Regulation says it will probe Google for antitrust violations, moments after Trump announced tariffs on Chinese goods &lpar;Josh Xiao/Bloomberg&rpar;](http://www.techmeme.com/250204/p1#a250204p1)
- - [Why does your Pixel stutter? Turns out it’s a Google slip-up.](https://www.androidauthority.com/google-pixel-display-stuttering-issue-fix-3522820/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some carrier systems aren’t ready for the Galaxy S25 Ultra &lpar;Update: Statements&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-ultra-activation-problem-3522072/)
+ - [KitchenAid Promo Codes and Coupons: 10% Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
