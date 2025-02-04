@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is merging the teams behind Facebook and Messenger into one unit and shuffling its generative AI group, as it prepares for layoffs next week &lpar;The Information&rpar;](http://www.techmeme.com/250204/p32#a250204p32)
- - [Alphabet expects to invest about $75B in capex in 2025, vs. $59.73B est.; GOOG drops 7%+ after hours after its Q4 revenue missed estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250204/p31#a250204p31)
- - [AMD reports Q4 revenue up 24% YoY to $7.66B, Data Center revenue up 69% to $3.86B, vs. $4.09B est., and forecasts Q1 sales of $6.8B to $7.4B, vs. $7.04B est. &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250204/p30#a250204p30)<!-- TECH:END -->
+ - [New macOS malware disguises itself as Chrome &amp; Zoom installers](https://appleinsider.com/articles/25/02/04/new-macos-malware-disguises-itself-as-chrome-zoom-installers?utm_medium=rss)
+ - [Sources: the SEC is moving to scale back a special unit of more than 50 lawyers and staff members that had been dedicated to bringing crypto enforcement actions &lpar;New York Times&rpar;](http://www.techmeme.com/250204/p37#a250204p37)
+ - [The EC releases its guidelines on prohibited AI practices under the EU&#39;s AI Act, such as using AI to track employees&#39; emotions or manipulate website users &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250204/p36#a250204p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
