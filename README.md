@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Lifts a Ban on Using Its AI for Weapons and Surveillance](https://www.wired.com/story/google-responsible-ai-principles/)
- - [Google drops language from its AI Principles that said it would not pursue applications &quot;likely to cause overall harm&quot;, including weapons and surveillance &lpar;Washington Post&rpar;](http://www.techmeme.com/250204/p26#a250204p26)
- - [A US judge says Elon Musk&#39;s claims of harm from OpenAI are a &quot;stretch&quot;, but she wouldn&#39;t stop the case from moving to trial as soon as next year &lpar;Associated Press&rpar;](http://www.techmeme.com/250204/p25#a250204p25)<!-- TECH:END -->
+ - [Sources: Meta is merging the teams behind Facebook and Messenger into one unit and shuffling its generative AI group, as it prepares for layoffs next week &lpar;The Information&rpar;](http://www.techmeme.com/250204/p32#a250204p32)
+ - [Alphabet expects to invest about $75B in capex in 2025, vs. $59.73B est.; GOOG drops 7%+ after hours after its Q4 revenue missed estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250204/p31#a250204p31)
+ - [AMD reports Q4 revenue up 24% YoY to $7.66B, Data Center revenue up 69% to $3.86B, vs. $4.09B est., and forecasts Q1 sales of $6.8B to $7.4B, vs. $7.04B est. &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250204/p30#a250204p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
