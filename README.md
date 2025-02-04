@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Home Up update makes Galaxy phones the king of animations](https://www.androidauthority.com/samsung-home-up-animation-tuning-3522921/)
- - [One of the best GBA emulators on Android now has a successor](https://www.androidauthority.com/linkboy-gba-emulator-3522884/)
- - [Elon Musk&#39;s goal seems to amount to a coup over the US administrative state; Musk said he &quot;deleted&quot; the Direct File tax department, but that may not be true &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/250204/p5#a250204p5)<!-- TECH:END -->
+ - [An investigation into 300+ cyberattacks against US K-12 schools since 2020 shows how schools can withhold crucial details from affected students and parents &lpar;Mark Keierleber/Wired&rpar;](http://www.techmeme.com/250204/p8#a250204p8)
+ - [Hatch Restore 3 Review: A Worthy Upgrade](https://www.wired.com/review/hatch-restore-3/)
+ - [Google Opinion Rewards wants you to share even more data to get more surveys &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-opinion-rewards-personalized-ads-apk-teardown-3522945/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
