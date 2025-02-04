@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s new LAM is much more exciting than the Rabbit R1 ever was](https://www.androidauthority.com/motorola-lam-vs-rabbit-r1-3519716/)
- - [Xbox Wireless Headset Review &lpar;2024&rpar;: Pair and Play](https://www.wired.com/review/xbox-wireless-headset-2024/)
- - [The 5 Best Heating Pads in 2025](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Toronto-based programmatic ad startup StackAdapt raised $235M led by Teachers&#39; Venture Growth, after raising $300M from Summit Partners in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250204/p12#a250204p12)
+ - [Helium Mobile introduces a free phone plan with 3GB of data](https://www.androidauthority.com/helium-mobile-zero-3523012/)
+ - [Sources: China is looking at launching a formal probe into Intel; a source says whether it was officially launched could be affected by US-China relations &lpar;Financial Times&rpar;](http://www.techmeme.com/250204/p11#a250204p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
