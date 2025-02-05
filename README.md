@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lufthansa now embraces AirTags, since it couldn&#39;t ban them](https://appleinsider.com/articles/25/02/05/lufthansa-now-embraces-airtags-since-it-couldnt-ban-them?utm_medium=rss)
- - [I’ve had the Galaxy S25 Ultra for a week, but I already miss my OnePlus 13](https://www.androidauthority.com/samsung-galaxy-s25-ultra-vs-oneplus-13-3521395/)
- - [The best phone protection policy is now more expensive than ever](https://www.androidauthority.com/apple-care-plus-price-hike-3523458/)<!-- TECH:END -->
+ - [Buying Android gaming handhelds in the US just got way more expensive &lpar;Updated&rpar;](https://www.androidauthority.com/gaming-handheld-usps-suspension-3523453/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 5&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-05-2025-3522632/)
+ - [The USPS resumes accepting China and Hong Kong mail after suspending it due to Trump&#39;s EO, disrupting e-commerce, and is working on &quot;the new China tariffs&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250205/p23#a250205p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
