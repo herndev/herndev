@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS just joined the FE party with the ROG Phone 9 FE](https://www.androidauthority.com/asus-rog-phone-9-fe-3523376/)
- - [Sources say the focus of the AI Action Summit in Paris on February 10 and February 11 will be on seeking a global consensus on AI principles, not new regulation &lpar;Reuters&rpar;](http://www.techmeme.com/250205/p5#a250205p5)
- - [How India kept its satellite internet market closed to Starlink, Amazon, and more, despite poor rural connectivity; a regulator is set to publish rules in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250205/p4#a250205p4)<!-- TECH:END -->
+ - [A look at Telegram CEO Pavel Durov&#39;s arrest in Paris and its aftermath; a source says more than half of Telegram&#39;s $1B revenue in 2024 came from its ad platform &lpar;Darren Loucaides/Wired&rpar;](http://www.techmeme.com/250205/p9#a250205p9)
+ - [Thailand cuts power, internet, and fuel supplies to parts of Myanmar suspected of housing online scam centers, ahead of PM Paetongtarn Shinawatra&#39;s China visit &lpar;Patpicha Tanakasempipat/Bloomberg&rpar;](http://www.techmeme.com/250205/p8#a250205p8)
+ - [Worldpay: cash will make up 14% of transactions in Asia by 2027, down from 49% in 2019, driven by the adoption of QR codes and other smartphone-based payments &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250205/p7#a250205p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
