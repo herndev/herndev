@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini’s Android app can now do all your research homework for you](https://www.androidauthority.com/deep-research-gemini-app-android-3523391/)
- - [An interview with Twitch CEO Dan Clancy on competition with YouTube and Kick, exclusivity contracts, content moderation, Twitch&#39;s expansion plans, and more &lpar;Henry Chandonnet/Fast Company&rpar;](http://www.techmeme.com/250205/p10#a250205p10)
- - [A look at Telegram CEO Pavel Durov&#39;s arrest in Paris and its aftermath; a source says more than half of Telegram&#39;s $1B revenue in 2024 came from its ad platform &lpar;Darren Loucaides/Wired&rpar;](http://www.techmeme.com/250205/p9#a250205p9)<!-- TECH:END -->
+ - [The US OPM plans to make each government agency&#39;s chief information officer a political appointee who can be fired at will, helping Trump exert more control &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250205/p14#a250205p14)
+ - [Robinhood withdraws its plans to offer betting contracts on the Super Bowl, in partnership with online prediction market Kalshi, after pushback from the CFTC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p13#a250205p13)
+ - [Sources: China&#39;s State Administration for Market Regulation is examining Apple&#39;s policies, including App Store fees, ahead of a potential probe; AAPL drops 3% &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/250205/p12#a250205p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
