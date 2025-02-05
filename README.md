@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips Hue update fixes annoying motion sensor glitch for your smart lights](https://www.androidauthority.com/philips-hue-update-motion-sensor-3523558/)
- - [One UI’s Home Up advanced settings too confusing for you? Try out these recommended settings!](https://www.androidauthority.com/samsung-one-ui-7-home-up-recommended-settings-3523527/)
- - [In 2024, ransomware attackers received ~$813.55M in payments from victims, down 35% on 2023&#39;s record $1.25B, as more victims refused to pay &lpar;Chainalysis&rpar;](http://www.techmeme.com/250205/p26#a250205p26)<!-- TECH:END -->
+ - [Fitbit users can start casting their workouts to TVs again](https://www.androidauthority.com/fitbit-google-cast-returns-3523552/)
+ - [Upgrading to One UI 7 could mess up your current home screen layout](https://www.androidauthority.com/one-ui-7-home-screen-grid-layout-3523512/)
+ - [Could next week’s big US Mobile mystery news be support for more than one network at once?](https://www.androidauthority.com/us-mobile-teaser-dark-star-3523535/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
