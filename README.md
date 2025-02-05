@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buying Android gaming handhelds in the US just got way more expensive &lpar;Updated&rpar;](https://www.androidauthority.com/gaming-handheld-usps-suspension-3523453/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 5&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-05-2025-3522632/)
- - [The USPS resumes accepting China and Hong Kong mail after suspending it due to Trump&#39;s EO, disrupting e-commerce, and is working on &quot;the new China tariffs&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250205/p23#a250205p23)<!-- TECH:END -->
+ - [Crypto wallets at risk as malware sneaks into the App Store](https://appleinsider.com/articles/25/02/05/crypto-wallets-at-risk-as-malware-sneaks-into-the-app-store?utm_medium=rss)
+ - [Everything you need to know about Surfshark One VPN bundle for Apple devices](https://appleinsider.com/articles/25/02/05/everything-you-need-to-know-about-surfshark-one-vpn-bundle-for-apple-devices?utm_medium=rss)
+ - [AWS aims to use &quot;automated reasoning&quot;, which uses mathematical logic to encode knowledge in AI systems in a structured way, to prevent AI models&#39; hallucinations &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250205/p24#a250205p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
