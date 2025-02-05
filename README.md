@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andreessen Horowitz hires ex-Marine Daniel Penny, who was recently acquitted in a controversial NYC subway chokehold case, to work on its American Dynamism team &lpar;Olivia Reingold/The Free Press&rpar;](http://www.techmeme.com/250204/p40#a250204p40)
- - [&#39;Doom&#39; can even be played on Apple&#39;s Lightning to HDMI adapter](https://appleinsider.com/articles/25/02/04/doom-can-even-be-played-on-apples-lightning-to-hdmi-adapter?utm_medium=rss)
- - [Sony WH-1000XM5 headphones go on sale again!](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-2-3523299/)<!-- TECH:END -->
+ - [Chaos Consumes USAID as State Department Moves to Send Overseas Staffers Home](https://www.wired.com/story/chaos-usaid-staffers-sent-home/)
+ - [Sources: Sonos will release an Android-based streaming box in the coming months, priced between $200 and $400, that combines content from Netflix, Max, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250204/p45#a250204p45)
+ - [Ampere predicts streamers will outspend commercial broadcasters on content for the first time in 2025, and overall content spend will rise 0.4% YoY to $248B &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250204/p44#a250204p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
