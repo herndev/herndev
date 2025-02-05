@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New macOS malware disguises itself as Chrome &amp; Zoom installers](https://appleinsider.com/articles/25/02/04/new-macos-malware-disguises-itself-as-chrome-zoom-installers?utm_medium=rss)
- - [Sources: the SEC is moving to scale back a special unit of more than 50 lawyers and staff members that had been dedicated to bringing crypto enforcement actions &lpar;New York Times&rpar;](http://www.techmeme.com/250204/p37#a250204p37)
- - [The EC releases its guidelines on prohibited AI practices under the EU&#39;s AI Act, such as using AI to track employees&#39; emotions or manipulate website users &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250204/p36#a250204p36)<!-- TECH:END -->
+ - [Andreessen Horowitz hires ex-Marine Daniel Penny, who was recently acquitted in a controversial NYC subway chokehold case, to work on its American Dynamism team &lpar;Olivia Reingold/The Free Press&rpar;](http://www.techmeme.com/250204/p40#a250204p40)
+ - [&#39;Doom&#39; can even be played on Apple&#39;s Lightning to HDMI adapter](https://appleinsider.com/articles/25/02/04/doom-can-even-be-played-on-apples-lightning-to-hdmi-adapter?utm_medium=rss)
+ - [Sony WH-1000XM5 headphones go on sale again!](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-2-3523299/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
