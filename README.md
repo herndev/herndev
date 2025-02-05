@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit users can start casting their workouts to TVs again](https://www.androidauthority.com/fitbit-google-cast-returns-3523552/)
- - [Upgrading to One UI 7 could mess up your current home screen layout](https://www.androidauthority.com/one-ui-7-home-screen-grid-layout-3523512/)
- - [Could next week’s big US Mobile mystery news be support for more than one network at once?](https://www.androidauthority.com/us-mobile-teaser-dark-star-3523535/)<!-- TECH:END -->
+ - [The Collapse of USAID Is Fueling Human Trafficking and Slavery at Scammer Compounds](https://www.wired.com/story/usaid-collapse-is-helping-criminal-scammers-enslave-people/)
+ - [25 years of Apple&#39;s innovation with iPod](https://appleinsider.com/articles/25/02/03/25-years-of-apples-innovation-with-ipod?utm_medium=rss)
+ - [The Far Right Has a New Hero: Elon Musk](https://www.wired.com/story/far-right-new-leader-elon-musk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
