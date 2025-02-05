@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US OPM plans to make each government agency&#39;s chief information officer a political appointee who can be fired at will, helping Trump exert more control &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250205/p14#a250205p14)
- - [Robinhood withdraws its plans to offer betting contracts on the Super Bowl, in partnership with online prediction market Kalshi, after pushback from the CFTC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p13#a250205p13)
- - [Sources: China&#39;s State Administration for Market Regulation is examining Apple&#39;s policies, including App Store fees, ahead of a potential probe; AAPL drops 3% &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/250205/p12#a250205p12)<!-- TECH:END -->
+ - [Brookhaven, a top title on Roblox with 120M+ monthly players, was sold by its anonymous creator Wolfpaq to game developer Voldex for an undisclosed sum &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250205/p18#a250205p18)
+ - [Analysis: European AI startups raised $8B in 2024, with 70% going to seed to Series B rounds, led by startups in the UK, France, and Germany &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250205/p17#a250205p17)
+ - [Survey declares a clear winner for the best US carrier right now!](https://www.androidauthority.com/best-us-carrier-survey-results-3523394/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
