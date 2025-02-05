@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chaos Consumes USAID as State Department Moves to Send Overseas Staffers Home](https://www.wired.com/story/chaos-usaid-staffers-sent-home/)
- - [Sources: Sonos will release an Android-based streaming box in the coming months, priced between $200 and $400, that combines content from Netflix, Max, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250204/p45#a250204p45)
- - [Ampere predicts streamers will outspend commercial broadcasters on content for the first time in 2025, and overall content spend will rise 0.4% YoY to $248B &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250204/p44#a250204p44)<!-- TECH:END -->
+ - [Microsoft AI CEO Mustafa Suleyman poaches three Google DeepMind former colleagues, including two who built NotebookLM&#39;s Audio Overviews and worked on Astra &lpar;Melissa Heikkil&amp;auml;/Financial Times&rpar;](http://www.techmeme.com/250204/p46#a250204p46)
+ - [You have a few more days to pre-order a Samsung Galaxy S25 phone and get a free gift card!](https://www.androidauthority.com/pre-order-samsung-galaxy-s25-plus-ultra-free-gift-card-deal-3523298/)
+ - [Chaos Consumes USAID as State Department Moves to Send Overseas Staffers Home](https://www.wired.com/story/chaos-usaid-staffers-sent-home/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
