@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China threatens App Store probe in retaliation for trade tensions](https://appleinsider.com/articles/25/02/05/china-threatens-app-store-probe-in-retaliation-for-trade-tensions?utm_medium=rss)
- - [Our 15 Favorite Valentine’s Day Gifts and Date Ideas &lpar;2025&rpar;](https://www.wired.com/gallery/best-valentines-day-gifts/)
- - [The Galaxy S25 is leading the pack with tracking AI-powered image edits](https://www.androidauthority.com/galaxy-s25-content-credentials-3523256/)<!-- TECH:END -->
+ - [Lufthansa now embraces AirTags, since it couldn&#39;t ban them](https://appleinsider.com/articles/25/02/05/lufthansa-now-embraces-airtags-since-it-couldnt-ban-them?utm_medium=rss)
+ - [I’ve had the Galaxy S25 Ultra for a week, but I already miss my OnePlus 13](https://www.androidauthority.com/samsung-galaxy-s25-ultra-vs-oneplus-13-3521395/)
+ - [The best phone protection policy is now more expensive than ever](https://www.androidauthority.com/apple-care-plus-price-hike-3523458/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
