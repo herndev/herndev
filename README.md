@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goodbye, good morning memes: Google Photos now lets you hide clutter from your grid view](https://www.androidauthority.com/google-photos-hide-clutter-2-3523363/)
- - [Sources: OpenAI has spent months talking about potential commercial deals for Sora with film studios, who are worried about how their data may be used and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p49#a250204p49)
- - [USPS Halts All Packages From China, Sending the Ecommerce Industry Into Chaos](https://www.wired.com/story/tariffs-trump-ecommerce-amazon-temu/)<!-- TECH:END -->
+ - [Lina Khan says that DeepSeek&#39;s breakthroughs highlight how US Big Tech&#39;s monopolistic practices may actually be hampering the US&#39; technological leadership &lpar;Lina M. Khan/New York Times&rpar;](http://www.techmeme.com/250204/p50#a250204p50)
+ - [How to install and use the beta VirtualBox for Apple Silicon Macs](https://appleinsider.com/inside/macos/tips/how-to-install-and-use-the-beta-virtualbox-for-apple-silicon-macs?utm_medium=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Feb. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-feb-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
