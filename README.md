@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Telegram CEO Pavel Durov&#39;s arrest in Paris and its aftermath; a source says more than half of Telegram&#39;s $1B revenue in 2024 came from its ad platform &lpar;Darren Loucaides/Wired&rpar;](http://www.techmeme.com/250205/p9#a250205p9)
- - [Thailand cuts power, internet, and fuel supplies to parts of Myanmar suspected of housing online scam centers, ahead of PM Paetongtarn Shinawatra&#39;s China visit &lpar;Patpicha Tanakasempipat/Bloomberg&rpar;](http://www.techmeme.com/250205/p8#a250205p8)
- - [Worldpay: cash will make up 14% of transactions in Asia by 2027, down from 49% in 2019, driven by the adoption of QR codes and other smartphone-based payments &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250205/p7#a250205p7)<!-- TECH:END -->
+ - [Gemini’s Android app can now do all your research homework for you](https://www.androidauthority.com/deep-research-gemini-app-android-3523391/)
+ - [An interview with Twitch CEO Dan Clancy on competition with YouTube and Kick, exclusivity contracts, content moderation, Twitch&#39;s expansion plans, and more &lpar;Henry Chandonnet/Fast Company&rpar;](http://www.techmeme.com/250205/p10#a250205p10)
+ - [A look at Telegram CEO Pavel Durov&#39;s arrest in Paris and its aftermath; a source says more than half of Telegram&#39;s $1B revenue in 2024 came from its ad platform &lpar;Darren Loucaides/Wired&rpar;](http://www.techmeme.com/250205/p9#a250205p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
