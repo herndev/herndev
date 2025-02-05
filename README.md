@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Gemini 2.0 Pro and Flash-Lite with improved reasoning and efficiency](https://www.androidauthority.com/gemini-2-pro-flash-lite-3523606/)
- - [Apple&#39;s M4 Pro MacBook Pro falls to $1,749 in online price war](https://appleinsider.com/articles/25/02/05/apples-m4-pro-macbook-pro-falls-to-1749-in-online-price-war?utm_medium=rss)
- - [Your chance to finally buy last year’s most desirable foldable may nearly be here](https://www.androidauthority.com/mate-xt-international-3523571/)<!-- TECH:END -->
+ - [This DOGE Engineer Has Access to the National Oceanic and Atmospheric Administration](https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/)
+ - [Sources: banks sold $5.5B in debt borrowed by X at $0.97 on the dollar, following strong investor demand; they had planned to sell ~$3B at ~$0.95 on the dollar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p30#a250205p30)
+ - [AppleCare+ moves to subscription-only model](https://appleinsider.com/articles/25/02/04/applecare-moves-to-subscription-only-model?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
