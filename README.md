@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Next-gen Alexa? Amazon sets date for February mystery event](https://www.androidauthority.com/amazon-february-event-3523649/)
- - [Amazon announces an event on February 26 in New York where, according to sources, the company will preview its long-delayed Alexa generative AI revamp &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250205/p31#a250205p31)
- - [How to watch Super Bowl LIX from your iPhone, iPad, or Mac](https://appleinsider.com/inside/iphone/tips/how-to-watch-super-bowl-lix-from-your-iphone-ipad-or-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Email: Google is eliminating its goal of hiring more employees from historically underrepresented groups and reviewing some DEI programs &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/250205/p35#a250205p35)
+ - [Save $50 on the Samsung Galaxy Buds 3 Pro](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-2-3523683/)
+ - [ChatGPT search just became a serious Google rival](https://www.androidauthority.com/chatgpt-search-no-login-3523686/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
