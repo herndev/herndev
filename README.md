@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brookhaven, a top title on Roblox with 120M+ monthly players, was sold by its anonymous creator Wolfpaq to game developer Voldex for an undisclosed sum &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250205/p18#a250205p18)
- - [Analysis: European AI startups raised $8B in 2024, with 70% going to seed to Series B rounds, led by startups in the UK, France, and Germany &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250205/p17#a250205p17)
- - [Survey declares a clear winner for the best US carrier right now!](https://www.androidauthority.com/best-us-carrier-survey-results-3523394/)<!-- TECH:END -->
+ - [China threatens App Store probe in retaliation for trade tensions](https://appleinsider.com/articles/25/02/05/china-threatens-app-store-probe-in-retaliation-for-trade-tensions?utm_medium=rss)
+ - [Our 15 Favorite Valentine’s Day Gifts and Date Ideas &lpar;2025&rpar;](https://www.wired.com/gallery/best-valentines-day-gifts/)
+ - [The Galaxy S25 is leading the pack with tracking AI-powered image edits](https://www.androidauthority.com/galaxy-s25-content-credentials-3523256/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
