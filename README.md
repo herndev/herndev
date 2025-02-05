@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Collapse of USAID Is Fueling Human Trafficking and Slavery at Scammer Compounds](https://www.wired.com/story/usaid-collapse-is-helping-criminal-scammers-enslave-people/)
- - [25 years of Apple&#39;s innovation with iPod](https://appleinsider.com/articles/25/02/03/25-years-of-apples-innovation-with-ipod?utm_medium=rss)
- - [The Far Right Has a New Hero: Elon Musk](https://www.wired.com/story/far-right-new-leader-elon-musk/)<!-- TECH:END -->
+ - [Google launches Gemini 2.0 Pro and Flash-Lite with improved reasoning and efficiency](https://www.androidauthority.com/gemini-2-pro-flash-lite-3523606/)
+ - [Apple&#39;s M4 Pro MacBook Pro falls to $1,749 in online price war](https://appleinsider.com/articles/25/02/05/apples-m4-pro-macbook-pro-falls-to-1749-in-online-price-war?utm_medium=rss)
+ - [Your chance to finally buy last year’s most desirable foldable may nearly be here](https://www.androidauthority.com/mate-xt-international-3523571/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
