@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: Google is eliminating its goal of hiring more employees from historically underrepresented groups and reviewing some DEI programs &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/250205/p35#a250205p35)
- - [Save $50 on the Samsung Galaxy Buds 3 Pro](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-2-3523683/)
- - [ChatGPT search just became a serious Google rival](https://www.androidauthority.com/chatgpt-search-no-login-3523686/)<!-- TECH:END -->
+ - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
+ - [Sonos is laying off about 200 employees, or 12% of its staff, as it reorganizes to make its product teams &quot;flatter, smaller, and more focused&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250205/p36#a250205p36)
+ - [The Google Pixel 8 is just $399, making it a better deal than the Pixel 8a](https://www.androidauthority.com/google-pixel-8-deal-3523681/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
