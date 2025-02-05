@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft AI CEO Mustafa Suleyman poaches three Google DeepMind former colleagues, including two who built NotebookLM&#39;s Audio Overviews and worked on Astra &lpar;Melissa Heikkil&amp;auml;/Financial Times&rpar;](http://www.techmeme.com/250204/p46#a250204p46)
- - [You have a few more days to pre-order a Samsung Galaxy S25 phone and get a free gift card!](https://www.androidauthority.com/pre-order-samsung-galaxy-s25-plus-ultra-free-gift-card-deal-3523298/)
- - [Chaos Consumes USAID as State Department Moves to Send Overseas Staffers Home](https://www.wired.com/story/chaos-usaid-staffers-sent-home/)<!-- TECH:END -->
+ - [Bengaluru-based payments startup Cashfree raised a $53M Series C led by Krafton, bringing its total funding to nearly $100M, a source says at a $700M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250204/p47#a250204p47)
+ - [State Department Puts ‘All Direct Hire’ USAID Personnel on Administrative Leave](https://www.wired.com/story/chaos-usaid-staffers-sent-home/)
+ - [Microsoft AI CEO Mustafa Suleyman poaches three Google DeepMind former colleagues, including two who built NotebookLM&#39;s Audio Overviews and worked on Astra &lpar;Melissa Heikkil&amp;auml;/Financial Times&rpar;](http://www.techmeme.com/250204/p46#a250204p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
