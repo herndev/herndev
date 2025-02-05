@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix hopes its expansion into live programming boosts its nascent ad business; Bernstein estimates its two NFL games generated up to $180M in US advertising &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/250205/p3#a250205p3)
- - [The USPS halts all inbound parcels from China and Hong Kong, after President Trump ended the &quot;de minimis&quot; exemption, sending the e-commerce industry into chaos &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250205/p2#a250205p2)
- - [Sources: BlackRock plans to hire ~1,200 people to build its AI teams in India and will inherit ~1,500 staff in Bengaluru through its proposed Preqin acquisition &lpar;Preeti Singh/Bloomberg&rpar;](http://www.techmeme.com/250205/p1#a250205p1)<!-- TECH:END -->
+ - [ASUS just joined the FE party with the ROG Phone 9 FE](https://www.androidauthority.com/asus-rog-phone-9-fe-3523376/)
+ - [Sources say the focus of the AI Action Summit in Paris on February 10 and February 11 will be on seeking a global consensus on AI principles, not new regulation &lpar;Reuters&rpar;](http://www.techmeme.com/250205/p5#a250205p5)
+ - [How India kept its satellite internet market closed to Starlink, Amazon, and more, despite poor rural connectivity; a regulator is set to publish rules in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250205/p4#a250205p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
