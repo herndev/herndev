@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp set to introduce bill payments for users in its largest market &lpar;APK Teardown&rpar;](https://www.androidauthority.com/whatsapp-bill-payments-india-3523768/)
- - [Dublin-based Protex AI, whose AI-powered platform plugs into CCTV devices to spot risks and enhance workplace safety, raised a $36M Series B led by Hedosophia &lpar;Suhasini Srinivasaragavan/Silicon ...&rpar;](http://www.techmeme.com/250206/p1#a250206p1)
- - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)<!-- TECH:END -->
+ - [AI researchers at Stanford and the University of Washington claim they trained an AI reasoning model, called s1, for under $50 in cloud compute credits &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250206/p4#a250206p4)
+ - [The ASUS Zenfone 12 Ultra is a lesson in AI overkill and short-term thinking](https://www.androidauthority.com/asus-zenfone-12-ultra-review-3520840/)
+ - [Asus Zenfone 12 Ultra Is the Rare High-End Phone That Still Has a Headphone Jack](https://www.cnet.com/tech/mobile/asus-zenfone-12-ultra-is-the-rare-high-end-phone-still-including-a-headphone-jack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
