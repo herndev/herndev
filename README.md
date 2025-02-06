@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thought NVIDIA abandoned the Shield TV? A major new update is here.](https://www.androidauthority.com/nvidia-shield-tv-new-update-2025-3523824/)
  - [XOi, whose software lets field technicians get info about the machines they need to fix, raises $230M from KKR and buys its rival Specifx for an undisclosed sum &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250206/p7#a250206p7)
- - [Interviews with nearly two dozen VR studios on shipping games on Quest, Meta&#39;s increased focus on Horizon Worlds, concerns over declining game sales, and more &lpar;Henry Stockdale/UploadVR&rpar;](http://www.techmeme.com/250206/p6#a250206p6)
- - [China&#39;s mini-drama industry grew 35% YoY to ~$6.91B in 2024, surpassing the country&#39;s box office and forcing iQiyi and Tencent to embrace short-form dramas &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/250206/p5#a250206p5)<!-- TECH:END -->
+ - [Interviews with nearly two dozen VR studios on shipping games on Quest, Meta&#39;s increased focus on Horizon Worlds, concerns over declining game sales, and more &lpar;Henry Stockdale/UploadVR&rpar;](http://www.techmeme.com/250206/p6#a250206p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
