@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In Q4 2024, AMD&#39;s data center business outsold Intel for the first time, with $3.86B in revenue, up 69% YoY, to Intel&#39;s $3.4B, but analysts expected more sales &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250206/p9#a250206p9)
- - [Don&#39;t Let High APYs Pass You By. Today&#39;s CD Rates, Feb. 6, 2025](https://www.cnet.com/personal-finance/banking/dont-let-high-apys-pass-you-by-todays-cd-rates-feb-6-2025/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 6 #136](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-6-136/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [RCS support returns to Samsung Messages on the Galaxy S25 series](https://www.androidauthority.com/samsung-messages-rcs-galaxy-s25-series-3523852/)
+ - [OpenAI opens ChatGPT search to users who are not logged in, after launching it to paying subscribers in October 2024 and logged-in users in December 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250206/p12#a250206p12)
+ - [8 Best Air Fryers for Crispy Wings and Fries &lpar;2025&rpar;](https://www.wired.com/gallery/best-air-fryer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
