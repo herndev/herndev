@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Semgrep, which offers an autonomous code security platform for developers, raised a $100M Series D led by Menlo Ventures, bringing its total funding to $204M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/250205/p42#a250205p42)
  - [WH crypto czar David Sacks says stablecoin legislation could be done in the next six months, after lawmakers introduced a bill to create a regulatory framework &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250205/p41#a250205p41)
- - [Kaspersky researchers found apps in Google&#39;s Play Store and Apple&#39;s App Store that use OCR to steal crypto wallet recovery phrases from images on users&#39; devices &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250205/p40#a250205p40)
- - [NOAA Employees Told to Pause Work With ‘Foreign Nationals’](https://www.wired.com/story/noaa-employees-foreign-nationals/)<!-- TECH:END -->
+ - [Kaspersky researchers found apps in Google&#39;s Play Store and Apple&#39;s App Store that use OCR to steal crypto wallet recovery phrases from images on users&#39; devices &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250205/p40#a250205p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
