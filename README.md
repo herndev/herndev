@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DOGE is processing sensitive data from across the Education Department with AI tools in Microsoft&#39;s Azure to look for potential spending cuts &lpar;Washington Post&rpar;](http://www.techmeme.com/250206/p27#a250206p27)
- - [Sources: some staffers at CISA were given deferred resignation offers and just hours to decide whether to accept them, extending broader cybersecurity fears &lpar;Jenna McLaughlin/NPR&rpar;](http://www.techmeme.com/250206/p26#a250206p26)
- - [Google Photos starts adding its SynthID watermarks to photos that have been edited using Magic Editor, but says some changes may be too small to detect &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250206/p25#a250206p25)<!-- TECH:END -->
+ - [Ted Carstensen, the head of US Digital Service, which has been renamed DOGE, says he is resigning instead of taking a buyout offer for federal staff &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250206/p30#a250206p30)
+ - [B&amp;H&#39;s fresh Mac Studio price drop discounts desktop to $1,749](https://appleinsider.com/articles/25/02/06/bhs-fresh-mac-studio-price-drop-discounts-desktop-to-1749?utm_medium=rss)
+ - [Sources: online payments company Paysafe is exploring a sale after receiving takeover interest; it went public in 2020 in a SPAC deal valued at $9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250206/p29#a250206p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
