@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE staffer Marko Elez resigns after being linked to racist posts on X; he was embedded in the US Treasury and previously worked at SpaceX, Starlink, and X &lpar;Katherine Long/Wall Street Journal&rpar;](http://www.techmeme.com/250206/p40#a250206p40)
  - [Take-Two reports Q3 net bookings up 3% YoY to $1.37B, vs. $1.39B est., and reiterates GTA VI is set to launch in the fall of 2025; TTWO jumps 6%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250206/p39#a250206p39)
- - [Sources: Winklevoss&#39; crypto exchange Gemini is considering an IPO as soon as this year; crypto exchange operator Bullish is also considering an IPO in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250206/p38#a250206p38)
- - [Sources: OpenAI co-founder John Schulman is joining former OpenAI CTO Mira Murati&#39;s stealth startup; he left Anthropic after joining the startup in August 2024 &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250206/p37#a250206p37)<!-- TECH:END -->
+ - [Sources: Winklevoss&#39; crypto exchange Gemini is considering an IPO as soon as this year; crypto exchange operator Bullish is also considering an IPO in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250206/p38#a250206p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
