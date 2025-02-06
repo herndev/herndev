@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox reports Q4 revenue up 32% to $988.2M, bookings up 21% YoY to $1.36B, below est., DAUs up 19% YoY to 85.3M, below 88.4M est.; RBLX falls 20%+ pre-market &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250206/p17#a250206p17)
- - [Google Launches Gemini 2.0 for Everyone. Here Are the Highlights](https://www.cnet.com/tech/services-and-software/google-launches-gemini-2-0-for-everyone-here-are-the-highlights/#ftag=CAD590a51e)
- - [Apple Silicon &amp; Intel Macs can play classic games with the help of Mac Source Ports](https://appleinsider.com/articles/25/02/06/apple-silicon-intel-macs-can-play-classic-games-with-the-help-of-mac-source-ports?utm_medium=rss)<!-- TECH:END -->
+ - [Google Photos wants you to know exactly what its video presets do &lpar;APK teardown&rpar;](https://www.androidauthority.com/photos-video-presets-3523917/)
+ - [Best Tested Ski Clothes &lpar;2025&rpar;: Shells, Jackets, Wool Socks](https://www.wired.com/gallery/best-ski-clothes/)
+ - [TrueFoundry, which helps enterprises deploy AI systems at scale, raised $19M led by Intel Capital, taking its total funding to $21M, and claims 30 customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250206/p18#a250206p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
