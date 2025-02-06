@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RCS support returns to Samsung Messages on the Galaxy S25 series](https://www.androidauthority.com/samsung-messages-rcs-galaxy-s25-series-3523852/)
- - [OpenAI opens ChatGPT search to users who are not logged in, after launching it to paying subscribers in October 2024 and logged-in users in December 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250206/p12#a250206p12)
- - [8 Best Air Fryers for Crispy Wings and Fries &lpar;2025&rpar;](https://www.wired.com/gallery/best-air-fryer/)<!-- TECH:END -->
+ - [Trump&#39;s de minimis cancellation is likely to hit Shein harder than online dollar-store Temu, which has shifted to an Amazon-like bulk overseas shipment strategy &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/250206/p16#a250206p16)
+ - [Google Maps is full of features, but this missing routing option drives me crazy](https://www.androidauthority.com/google-maps-custom-routes-3521177/)
+ - [Spanish police arrest a hacker for allegedly conducting 40 cyberattacks on critical public and private organizations, seizing 50 crypto accounts, PCs, and more &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250206/p15#a250206p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
