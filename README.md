@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI researchers at Stanford and the University of Washington claim they trained an AI reasoning model, called s1, for under $50 in cloud compute credits &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250206/p4#a250206p4)
- - [The ASUS Zenfone 12 Ultra is a lesson in AI overkill and short-term thinking](https://www.androidauthority.com/asus-zenfone-12-ultra-review-3520840/)
- - [Asus Zenfone 12 Ultra Is the Rare High-End Phone That Still Has a Headphone Jack](https://www.cnet.com/tech/mobile/asus-zenfone-12-ultra-is-the-rare-high-end-phone-still-including-a-headphone-jack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [XOi, whose software lets field technicians get info about the machines they need to fix, raises $230M from KKR and buys its rival Specifx for an undisclosed sum &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250206/p7#a250206p7)
+ - [Interviews with nearly two dozen VR studios on shipping games on Quest, Meta&#39;s increased focus on Horizon Worlds, concerns over declining game sales, and more &lpar;Henry Stockdale/UploadVR&rpar;](http://www.techmeme.com/250206/p6#a250206p6)
+ - [China&#39;s mini-drama industry grew 35% YoY to ~$6.91B in 2024, surpassing the country&#39;s box office and forcing iQiyi and Tencent to embrace short-form dramas &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/250206/p5#a250206p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
