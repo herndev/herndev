@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Joseph Firmage, who founded USWeb, which went public with a $2.5B market cap in 1997, and is now being sued by &quot;antigravity-machine&quot; investors &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/250206/p8#a250206p8)
- - [11 Vitamin D-Rich Foods for a Stronger Immune System](https://www.cnet.com/health/nutrition/11-vitamin-d-rich-foods-for-a-stronger-immune-system/#ftag=CAD590a51e)
- - [Thought NVIDIA abandoned the Shield TV? A major new update is here.](https://www.androidauthority.com/nvidia-shield-tv-new-update-2025-3523824/)<!-- TECH:END -->
+ - [In Q4 2024, AMD&#39;s data center business outsold Intel for the first time, with $3.86B in revenue, up 69% YoY, to Intel&#39;s $3.4B, but analysts expected more sales &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250206/p9#a250206p9)
+ - [Don&#39;t Let High APYs Pass You By. Today&#39;s CD Rates, Feb. 6, 2025](https://www.cnet.com/personal-finance/banking/dont-let-high-apys-pass-you-by-todays-cd-rates-feb-6-2025/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 6 #136](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-6-136/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
