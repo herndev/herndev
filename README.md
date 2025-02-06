@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s de minimis cancellation is likely to hit Shein harder than online dollar-store Temu, which has shifted to an Amazon-like bulk overseas shipment strategy &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/250206/p16#a250206p16)
- - [Google Maps is full of features, but this missing routing option drives me crazy](https://www.androidauthority.com/google-maps-custom-routes-3521177/)
- - [Spanish police arrest a hacker for allegedly conducting 40 cyberattacks on critical public and private organizations, seizing 50 crypto accounts, PCs, and more &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250206/p15#a250206p15)<!-- TECH:END -->
+ - [Roblox reports Q4 revenue up 32% to $988.2M, bookings up 21% YoY to $1.36B, below est., DAUs up 19% YoY to 85.3M, below 88.4M est.; RBLX falls 20%+ pre-market &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250206/p17#a250206p17)
+ - [Google Launches Gemini 2.0 for Everyone. Here Are the Highlights](https://www.cnet.com/tech/services-and-software/google-launches-gemini-2-0-for-everyone-here-are-the-highlights/#ftag=CAD590a51e)
+ - [Apple Silicon &amp; Intel Macs can play classic games with the help of Mac Source Ports](https://appleinsider.com/articles/25/02/06/apple-silicon-intel-macs-can-play-classic-games-with-the-help-of-mac-source-ports?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
