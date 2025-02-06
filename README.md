@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
- - [Sonos is laying off about 200 employees, or 12% of its staff, as it reorganizes to make its product teams &quot;flatter, smaller, and more focused&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250205/p36#a250205p36)
- - [The Google Pixel 8 is just $399, making it a better deal than the Pixel 8a](https://www.androidauthority.com/google-pixel-8-deal-3523681/)<!-- TECH:END -->
+ - [Reddit banned r/WhitePeopleTwitter for 72 hours due to &quot;a prevalence of violent content&quot;, after Elon Musk said the subreddit had &quot;broken the law&quot; on February 3 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250205/p38#a250205p38)
+ - [US Shoppers Face Fees of Up to $50 or More to Get Packages From China](https://www.wired.com/story/tariffs-china-prices-fees-shein-temu/)
+ - [Where to Find Prescription Discounts on Heart Medication and More](https://www.cnet.com/health/medical/where-find-prescription-discounts-heart-medication-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
