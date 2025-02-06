@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US lawmakers already pushing a bill to ban DeepSeek from government devices](https://www.androidauthority.com/deepseek-bill-3523943/)
- - [Apple is now at the center of an escalating geopolitical fight between the US and China due to tariffs and a backlash from growing anti-US rhetoric in China &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250206/p20#a250206p20)
- - [AT&amp;T’s latest tool to fight robocalls tells you why a business is calling](https://www.androidauthority.com/att-business-reason-for-call-3523921/)<!-- TECH:END -->
+ - [The Untold Winners of the Trump Memecoin Frenzy](https://www.wired.com/story/trump-memecoin-solana-crypto-platforms-profit/)
+ - [Mistral releases iOS and Android apps and unveils several updates to its AI assistant Le Chat, including a $14.99 per month Pro tier &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250206/p23#a250206p23)
+ - [Apple Vision Pro game controller doesn&#39;t look like it will break new ground](https://appleinsider.com/articles/25/02/06/apple-vision-pro-game-controller-doesnt-look-like-it-will-break-new-ground?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
