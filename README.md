@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-6/#ftag=CAD590a51e)
- - [How to use or disable iOS Apple Mail&#39;s new categories feature](https://appleinsider.com/inside/ios/tips/how-to-use-or-disable-ios-apple-mails-new-categories-feature?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp set to introduce bill payments for users in its largest market &lpar;APK Teardown&rpar;](https://www.androidauthority.com/whatsapp-bill-payments-india-3523768/)
+ - [Dublin-based Protex AI, whose AI-powered platform plugs into CCTV devices to spot risks and enhance workplace safety, raised a $36M Series B led by Hedosophia &lpar;Suhasini Srinivasaragavan/Silicon ...&rpar;](http://www.techmeme.com/250206/p1#a250206p1)
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
