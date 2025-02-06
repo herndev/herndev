@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos wants you to know exactly what its video presets do &lpar;APK teardown&rpar;](https://www.androidauthority.com/photos-video-presets-3523917/)
- - [Best Tested Ski Clothes &lpar;2025&rpar;: Shells, Jackets, Wool Socks](https://www.wired.com/gallery/best-ski-clothes/)
- - [TrueFoundry, which helps enterprises deploy AI systems at scale, raised $19M led by Intel Capital, taking its total funding to $21M, and claims 30 customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250206/p18#a250206p18)<!-- TECH:END -->
+ - [US lawmakers already pushing a bill to ban DeepSeek from government devices](https://www.androidauthority.com/deepseek-bill-3523943/)
+ - [Apple is now at the center of an escalating geopolitical fight between the US and China due to tariffs and a backlash from growing anti-US rhetoric in China &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250206/p20#a250206p20)
+ - [AT&amp;T’s latest tool to fight robocalls tells you why a business is calling](https://www.androidauthority.com/att-business-reason-for-call-3523921/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
