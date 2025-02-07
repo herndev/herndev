@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S25 series now on sale with immediate discounts and perks](https://www.androidauthority.com/samsung-galaxy-s25-series-sale-3524157/)
  - [Waiting for stable One UI 7 on your S24? There might be some bad news.](https://www.androidauthority.com/samsung-one-ui-7-galaxy-s24-wait-3524135/)
- - [YouGov: 87% of Britons would back a law requiring developers to show their AI tools are safe before release and 60% support banning &quot;smarter-than-human&quot; models &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250207/p4#a250207p4)
- - [Customer service software startup Sprinklr cuts 500 jobs, ~15% of its workforce, citing weak business performance; C-level staff remain unaffected &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250207/p3#a250207p3)<!-- TECH:END -->
+ - [YouGov: 87% of Britons would back a law requiring developers to show their AI tools are safe before release and 60% support banning &quot;smarter-than-human&quot; models &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250207/p4#a250207p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
