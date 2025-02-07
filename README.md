@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft warns that attackers are injecting malware into ViewState, which manages state in ASP.NET web forms, using static machine keys found online &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250207/p12#a250207p12)
- - [I looked for an ‘AirPods for Android’ alternative and found my perfect pair of earbuds](https://www.androidauthority.com/beats-studio-buds-plus-are-airpods-for-android-3512291/)
- - [DeepSeek&#39;s iOS app sends unencrypted data to Chinese servers](https://appleinsider.com/articles/25/02/07/deepseeks-ios-app-sends-unencrypted-data-to-chinese-servers?utm_medium=rss)<!-- TECH:END -->
+ - [Apple breaks the Mac App Store for macOS Sierra users](https://appleinsider.com/articles/25/02/07/apple-breaks-the-mac-app-store-for-macos-sierra-users?utm_medium=rss)
+ - [WBD lost $300M on gaming in 2024; current and former staffers blame a lack of a strong, cohesive vision during former games chief David Haddad&#39;s tenure &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250207/p13#a250207p13)
+ - [Best Flower Delivery Services, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-flower-delivery-service/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
