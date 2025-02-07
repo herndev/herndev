@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satellite texting on Verizon is about to get a major upgrade, SMS services landing ‘soon’](https://www.androidauthority.com/verizon-satellites-sms-and-voice-services-3524111/)
- - [Cerebras says it worked with Mistral to help its Le Chat app respond to user questions with 1,000 words per second, making it the world&#39;s fastest AI assistant &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250206/p48#a250206p48)
- - [Sources: DOGE is pushing rapidly to develop GSAi, a custom generative AI chatbot for the US GSA to boost productivity, analyze procurement data, and more &lpar;Wired&rpar;](http://www.techmeme.com/250206/p47#a250206p47)<!-- TECH:END -->
+ - [Google Messages will finally let you delete RCS chats for everyone &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-messages-rcs-delete-for-everyone-3524116/)
+ - [OpenAI updates o3-mini&#39;s chain of thought to make it easier for users &quot;to understand how the model thinks&quot;, available to both free and paid ChatGPT users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p2#a250207p2)
+ - [Kadrey v. Meta: unsealed emails show Meta allegedly torrented 81.7TB+ of data across multiple shadow libraries through the site Anna&#39;s Archive for AI training &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250207/p1#a250207p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
