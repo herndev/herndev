@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 series now on sale with immediate discounts and perks](https://www.androidauthority.com/samsung-galaxy-s25-series-sale-3524157/)
- - [Waiting for stable One UI 7 on your S24? There might be some bad news.](https://www.androidauthority.com/samsung-one-ui-7-galaxy-s24-wait-3524135/)
- - [YouGov: 87% of Britons would back a law requiring developers to show their AI tools are safe before release and 60% support banning &quot;smarter-than-human&quot; models &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250207/p4#a250207p4)<!-- TECH:END -->
+ - [The Galaxy S26 series might not be a Snapdragon-only affair](https://www.androidauthority.com/samsung-exynos-2600-yield-galaxy-s26-3524154/)
+ - [Analysis: 736 memecoins were deposited in $TRUMP wallet over the past three weeks using a Solana function that allows dumping coins into wallets without consent &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p5#a250207p5)
+ - [Samsung Galaxy S25 series now on sale with immediate discounts and perks](https://www.androidauthority.com/samsung-galaxy-s25-series-sale-3524157/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
