@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump issues an EO pausing the removal of the de minimis exemption on goods from China until systems are in place to &quot;process and collect tariff revenue&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250207/p22#a250207p22)
- - [Ex-Apple engineer admits &#39;expensive mistake&#39; after leak lawsuit is dismissed](https://appleinsider.com/articles/25/02/07/ex-apple-engineer-admits-expensive-mistake-after-leak-lawsuit-is-dismissed?utm_medium=rss)
- - [Dubious leak details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Here&#39;s How To See Six Planets in a Spectacular Planet Parade This Weekend](https://www.cnet.com/science/how-to-see-planet-parade-six-planets-in-the-sky-this-weekend/#ftag=CAD590a51e)
+ - [Thinking of Buying the Galaxy S25? How It Compares to Older Samsung Phones](https://www.cnet.com/tech/mobile/thinking-of-buying-the-galaxy-s25-how-it-compares-to-older-samsung-phones/#ftag=CAD590a51e)
+ - [Foldable iPhones, iPads, &amp; Macs: Everything you need to know about Apple&#39;s future](https://appleinsider.com/articles/25/02/07/foldable-iphones-ipads-macs-everything-you-need-to-know-about-apples-future?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
