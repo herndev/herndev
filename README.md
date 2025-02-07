@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages will finally let you delete RCS chats for everyone &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-messages-rcs-delete-for-everyone-3524116/)
- - [OpenAI updates o3-mini&#39;s chain of thought to make it easier for users &quot;to understand how the model thinks&quot;, available to both free and paid ChatGPT users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p2#a250207p2)
- - [Kadrey v. Meta: unsealed emails show Meta allegedly torrented 81.7TB+ of data across multiple shadow libraries through the site Anna&#39;s Archive for AI training &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250207/p1#a250207p1)<!-- TECH:END -->
+ - [Customer service software startup Sprinklr cuts 500 jobs, ~15% of its workforce, citing weak business performance; C-level staff remain unaffected &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250207/p3#a250207p3)
+ - [Here’s how satellite SOS works on the Galaxy S25 series](https://www.androidauthority.com/samsung-galaxy-s25-satellite-how-work-3524119/)
+ - [Google Messages will finally let you delete RCS chats for everyone &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-messages-rcs-delete-for-everyone-3524116/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
