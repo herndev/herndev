@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France and the UAE agree to develop an up to 1 GW data center in France, representing &amp;euro;30B to &amp;euro;50B in investments for French and Emirati AI, chips, and more &lpar;Daphn&amp;eacute; Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/250206/p45#a250206p45)
- - [Elon Musk’s DOGE Is Working on a Custom Chatbot Called GSAi](https://www.wired.com/story/doge-chatbot-ai-first-agenda/)
- - [Kelly Stonelake, a former Meta director who was at the company from 2009 to 2024, sues Meta, alleging sexual harassment, sex discrimination, and retaliation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250206/p44#a250206p44)<!-- TECH:END -->
+ - [Trump has proposed taxing carried interest as ordinary income in a meeting with Republican lawmakers, a policy that could sharply increase the tax bill for VCs &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250206/p46#a250206p46)
+ - [All Amazon Fire TV Stick streamers are on sale](https://www.androidauthority.com/amazon-fire-tv-stick-hd-4k-max-deals-3524092/)
+ - [France and the UAE agree to build an up to 1GW data center in France, representing &amp;euro;30B to &amp;euro;50B in investments in French and Emirati AI, chips, talent, and more &lpar;Daphn&amp;eacute; Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/250206/p45#a250206p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
