@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Stripe competitor Rapyd is in talks to raise $300M from investors at a $3.5B valuation, a dramatic decline from its valuation of around $9B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p26#a250207p26)
- - [Elon Musk says he will rehire a DOGE staffer who resigned following the exposure of his posts advocating for racism and eugenics, after Trump endorsed the idea &lpar;CNBC&rpar;](http://www.techmeme.com/250207/p25#a250207p25)
- - [iOS 18.4 Beta 1 is imminent, set to bring improvements to Siri](https://appleinsider.com/articles/25/02/07/ios-184-beta-1-is-imminent-set-to-bring-improvements-to-siri?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s Fire TVs are getting ready for Android 14, but what does that mean for Fire OS?](https://www.androidauthority.com/android-14-based-fire-tvs-3524320/)
+ - [Only today: Save 44% on the EcoFlow RIVER 2 Pro Portable Power Station](https://www.androidauthority.com/ecoflow-river-2-pro-portable-power-station-deal-3524326/)
+ - [ACLU Warns DOGE’s ‘Unchecked’ Access Could Violate Federal Law](https://www.wired.com/story/aclu-doge-congress-musk-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
