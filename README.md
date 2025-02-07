@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Anker SOLIX F3800 can power your whole home, and it’s $950 off!](https://www.androidauthority.com/anker-solix-f3800-power-station-deal-2-3524093/)
- - [Dubious leak details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)
- - [Amazon expects to boost its capex to $100B in 2025, largely driven by AI and up from 2024&#39;s ~$83B, on what Andy Jassy calls a &quot;once-in-a-lifetime&quot; opportunity &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250206/p43#a250206p43)<!-- TECH:END -->
+ - [Kelly Stonelake, a former Meta director who was at the company from 2009 to 2024, sues Meta, alleging sexual harassment, sex discrimination, and retaliation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250206/p44#a250206p44)
+ - [iPhone SE 4 could be revealed by Valentine&#39;s Day](https://appleinsider.com/articles/25/02/06/iphone-se-4-could-be-revealed-by-valentines-day?utm_medium=rss)
+ - [Best Smart Speakers for 2025: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
