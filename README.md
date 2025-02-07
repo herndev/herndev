@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber stock jumps 7%+ after Bill Ackman disclosed that his hedge fund Pershing Square Capital Management owns 30.3M shares in the company &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250207/p20#a250207p20)
- - [Apple settles a lawsuit against an ex-employee who leaked details about the Journal app and more to journalists; the employee issues an apology on X &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250207/p19#a250207p19)
- - [DOGE Is Now Inside the Consumer Financial Protection Bureau](https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/)<!-- TECH:END -->
+ - [Trump issues an EO pausing the removal of the de minimis exemption on goods from China until systems are in place to &quot;process and collect tariff revenue&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250207/p22#a250207p22)
+ - [Ex-Apple engineer admits &#39;expensive mistake&#39; after leak lawsuit is dismissed](https://appleinsider.com/articles/25/02/07/ex-apple-engineer-admits-expensive-mistake-after-leak-lawsuit-is-dismissed?utm_medium=rss)
+ - [Dubious leak details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
