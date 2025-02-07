@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Fire TVs are getting ready for Android 14, but what does that mean for Fire OS?](https://www.androidauthority.com/android-14-based-fire-tvs-3524320/)
- - [Only today: Save 44% on the EcoFlow RIVER 2 Pro Portable Power Station](https://www.androidauthority.com/ecoflow-river-2-pro-portable-power-station-deal-3524326/)
- - [ACLU Warns DOGE’s ‘Unchecked’ Access Could Violate Federal Law](https://www.wired.com/story/aclu-doge-congress-musk-data/)<!-- TECH:END -->
+ - [The Labor Market Is Suffering, but Today&#39;s Jobs Data Looks Just Peachy](https://www.cnet.com/personal-finance/the-labor-market-is-suffering-but-todays-jobs-data-looks-just-peachy/#ftag=CAD590a51e)
+ - [Visible is offering the Galaxy S25 for $200 less than the competition for a limited time](https://www.androidauthority.com/visible-galaxy-s25-promo-3524327/)
+ - [Amazon’s Fire TVs are getting ready for Android 14, but what does that mean for Fire OS?](https://www.androidauthority.com/android-14-based-fire-tvs-3524320/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
