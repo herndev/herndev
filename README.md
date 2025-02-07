@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Yaber Projector L2s Home Cinema drops to its lowest price](https://www.androidauthority.com/yaber-projector-l2s-home-cinema-deal-3524094/)
- - [E3’s Organizers Are Back With a New Event. This Time, Doctors Are Invited Too](https://www.wired.com/story/iicon-conference-from-e3-organizers-hollywood-health-care/)
- - [The US Treasury Claimed DOGE Technologist Didn’t Have ‘Write Access’ When He Actually Did](https://www.wired.com/story/treasury-department-doge-marko-elez-access/)<!-- TECH:END -->
+ - [Deal: The Anker SOLIX F3800 can power your whole home, and it’s $950 off!](https://www.androidauthority.com/anker-solix-f3800-power-station-deal-2-3524093/)
+ - [Dubious leak details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)
+ - [Amazon expects to boost its capex to $100B in 2025, largely driven by AI and up from 2024&#39;s ~$83B, on what Andy Jassy calls a &quot;once-in-a-lifetime&quot; opportunity &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250206/p43#a250206p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
