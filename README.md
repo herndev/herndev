@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOGE staffer Marko Elez resigns after being linked to racist posts on X; he was embedded in the US Treasury and previously worked at SpaceX, Starlink, and X &lpar;Katherine Long/Wall Street Journal&rpar;](http://www.techmeme.com/250206/p40#a250206p40)
- - [Take-Two reports Q3 net bookings up 3% YoY to $1.37B, vs. $1.39B est., and reiterates GTA VI is set to launch in the fall of 2025; TTWO jumps 6%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250206/p39#a250206p39)
- - [Sources: Winklevoss&#39; crypto exchange Gemini is considering an IPO as soon as this year; crypto exchange operator Bullish is also considering an IPO in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250206/p38#a250206p38)<!-- TECH:END -->
+ - [Deal: Yaber Projector L2s Home Cinema drops to its lowest price](https://www.androidauthority.com/yaber-projector-l2s-home-cinema-deal-3524094/)
+ - [E3’s Organizers Are Back With a New Event. This Time, Doctors Are Invited Too](https://www.wired.com/story/iicon-conference-from-e3-organizers-hollywood-health-care/)
+ - [The US Treasury Claimed DOGE Technologist Didn’t Have ‘Write Access’ When He Actually Did](https://www.wired.com/story/treasury-department-doge-marko-elez-access/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
