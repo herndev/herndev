@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swiggy&#39;s stock fell to $4.29 on February 6, below its $4.45 IPO price, after hitting $7.04 in December, as quarterly results showed Instamart lost marketshare &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250207/p8#a250207p8)
- - [Sources: in a secret order last month, UK security officials demanded Apple create a backdoor to access all cloud content any Apple user worldwide has uploaded &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250207/p7#a250207p7)
- - [Pebble founder shares first look at OS running on new hardware](https://www.androidauthority.com/pebbleos-hardware-3524044/)<!-- TECH:END -->
+ - [HIG Capital plans to buy Toronto-based IT solution provider Converge Technology for $908M and merge it with Mainline Information; the deal closes in Q2, 2025 &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/250207/p10#a250207p10)
+ - [What do you think about YouTube’s Reddit-inspired comments UI?](https://www.androidauthority.com/youtube-comments-ui-poll-3524205/)
+ - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
