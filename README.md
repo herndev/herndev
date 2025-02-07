@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buying Android gaming handhelds in the US just got way more expensive &lpar;Update: Nope, on pause&rpar;](https://www.androidauthority.com/gaming-handheld-usps-suspension-3523453/)
- - [A US Treasury Threat Intelligence Analysis Designates DOGE Staff as ‘Insider Threat’](https://www.wired.com/story/treasury-bfs-doge-insider-threat/)
- - [DeepMind says its AlphaGeometry2 model solved 84% of International Math Olympiad&#39;s geometry problems from the last 25 years, surpassing average gold medalists &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p24#a250207p24)<!-- TECH:END -->
+ - [Sources: Stripe competitor Rapyd is in talks to raise $300M from investors at a $3.5B valuation, a dramatic decline from its valuation of around $9B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p26#a250207p26)
+ - [Elon Musk says he will rehire a DOGE staffer who resigned following the exposure of his posts advocating for racism and eugenics, after Trump endorsed the idea &lpar;CNBC&rpar;](http://www.techmeme.com/250207/p25#a250207p25)
+ - [iOS 18.4 Beta 1 is imminent, set to bring improvements to Siri](https://appleinsider.com/articles/25/02/07/ios-184-beta-1-is-imminent-set-to-bring-improvements-to-siri?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
