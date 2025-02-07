@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HIG Capital plans to buy Toronto-based IT solution provider Converge Technology for $908M and merge it with Mainline Information; the deal closes in Q2, 2025 &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/250207/p10#a250207p10)
- - [What do you think about YouTube’s Reddit-inspired comments UI?](https://www.androidauthority.com/youtube-comments-ui-poll-3524205/)
- - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)<!-- TECH:END -->
+ - [Microsoft warns that attackers are injecting malware into ViewState, which manages state in ASP.NET web forms, using static machine keys found online &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250207/p12#a250207p12)
+ - [I looked for an ‘AirPods for Android’ alternative and found my perfect pair of earbuds](https://www.androidauthority.com/beats-studio-buds-plus-are-airpods-for-android-3512291/)
+ - [DeepSeek&#39;s iOS app sends unencrypted data to Chinese servers](https://appleinsider.com/articles/25/02/07/deepseeks-ios-app-sends-unencrypted-data-to-chinese-servers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
