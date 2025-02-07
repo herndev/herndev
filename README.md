@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Invites, Doom on a cable, and M5 is coming, on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/07/apple-invites-doom-on-a-cable-and-m5-is-coming-on-the-appleinsider-podcast?utm_medium=rss)
- - [T-Mobile’s latest Walmart promotion gets you a free 5G phone, without a trade-in](https://www.androidauthority.com/t-mobile-walmart-promotion-free-5g-phone-3524231/)
- - [Sources: SoftBank is set to invest $40B in OpenAI at a $260B pre-money valuation; OpenAI was last valued at $157B by private investors in October 2024 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250207/p14#a250207p14)<!-- TECH:END -->
+ - [Microsoft won’t tell you how to uninstall Edge, but we will](https://www.androidauthority.com/uninstall-microsoft-edge-3524254/)
+ - [GameSir Cyclone 2 controller review: My new go-to Mac and iPad gaming companion](https://appleinsider.com/articles/25/02/07/gamesir-cyclone-2-controller-review-my-new-go-to-mac-and-ipad-gaming-companion?utm_medium=rss)
+ - [Paris prosecutors open a probe into X over alleged algorithmic distortions, after an MP&#39;s complaint that X was using biased algorithms &lpar;Dominique Vidalon/Reuters&rpar;](http://www.techmeme.com/250207/p16#a250207p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
