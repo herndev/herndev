@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S26 series might not be a Snapdragon-only affair](https://www.androidauthority.com/samsung-exynos-2600-yield-galaxy-s26-3524154/)
- - [Analysis: 736 memecoins were deposited in $TRUMP wallet over the past three weeks using a Solana function that allows dumping coins into wallets without consent &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p5#a250207p5)
- - [Samsung Galaxy S25 series now on sale with immediate discounts and perks](https://www.androidauthority.com/samsung-galaxy-s25-series-sale-3524157/)<!-- TECH:END -->
+ - [Swiggy&#39;s stock fell to $4.29 on February 6, below its $4.45 IPO price, after hitting $7.04 in December, as quarterly results showed Instamart lost marketshare &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250207/p8#a250207p8)
+ - [Sources: in a secret order last month, UK security officials demanded Apple create a backdoor to access all cloud content any Apple user worldwide has uploaded &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250207/p7#a250207p7)
+ - [Pebble founder shares first look at OS running on new hardware](https://www.androidauthority.com/pebbleos-hardware-3524044/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
