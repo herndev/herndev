@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google and WhatsApp could be ‘Besties’ for an upcoming Pixel feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-google-pixel-besties-vips-integration-apk-teardown-3524461/)
  - [A study found that phishing tests and other training programs designed to educate employees about online dangers reduced phishing success rates by just 2% &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/250210/p1#a250210p1)
- - [The Galaxy Z Fold 6’s fiercest global rival launches next week](https://www.androidauthority.com/oppo-find-n5-launch-date-official-3524440/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Galaxy Z Fold 6’s fiercest global rival launches next week](https://www.androidauthority.com/oppo-find-n5-launch-date-official-3524440/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
