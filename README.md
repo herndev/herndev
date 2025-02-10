@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord announces Ignore, letting users hide any new messages, DMs, server notifications, profiles, and activity from selected users without alerting them &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/250210/p15#a250210p15)
- - [Google, OpenAI, Roblox, and Discord raised $27M+ to provide free, open-source tools for improving child safety online, called Robust Open Online Safety Tools &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250210/p14#a250210p14)
- - [Sources: OpenAI is finalizing its first in-house chip design in the next few months, to cut its Nvidia reliance, and plans to send it for fabrication at TSMC &lpar;Reuters&rpar;](http://www.techmeme.com/250210/p13#a250210p13)<!-- TECH:END -->
+ - [Anthropic launches the Anthropic Economic Index to track AI&#39;s impact by analyzing anonymized Claude usage data, showing 57% of AI use leans toward augmentation &lpar;Scott Rosenberg/Axios&rpar;](http://www.techmeme.com/250210/p18#a250210p18)
+ - [iPhones are still missing an Android-like charging estimate, so someone built it themselves](https://www.androidauthority.com/apple-iphone-charging-estimate-shortcut-automation-3524515/)
+ - [Galaxy S24 series receives new update, but not the one you’ve been waiting for](https://www.androidauthority.com/galaxy-s24-series-feb-2025-patches-3524567/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
