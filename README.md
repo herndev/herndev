@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nokia names Justin Hotard, who currently leads Intel&#39;s Data Center and AI operations, as its CEO starting April 1, as it focuses on data centers to drive growth &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/250210/p7#a250210p7)
- - [The Galaxy S26 could catch up to Chinese rivals with a long-awaited battery boost](https://www.androidauthority.com/samsung-silicon-carbon-batteries-galaxy-s26-3524495/)
- - [After the Los Angeles fires, over 1M people donated $250M+ via GoFundMe, or $20M more than the service collected for all natural disasters worldwide in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/250210/p6#a250210p6)<!-- TECH:END -->
+ - [I tried Samsung’s new Audio Eraser and I’m a little disappointed](https://www.androidauthority.com/samsung-audio-eraser-3523519/)
+ - [Polymarket Analytics: users put $1.1B in volume on the outcome of the Super Bowl despite regulatory hurdles; one trader made a $550K profit from Eagles bets &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250210/p11#a250210p11)
+ - [Google and WhatsApp could be ‘Besties’ for an upcoming Pixel feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-google-pixel-besties-vips-integration-apk-teardown-3524461/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
