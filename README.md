@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad and iPad Mini go on sale; save up to $100](https://www.androidauthority.com/apple-ipad-10th-generation-ipad-mini-a17-pro-deals-3524324/)
- - [Google brings NotebookLM Plus, its note-taking AI assistant with higher usage limits, to individuals on Google One AI Premium, and debuts a 50% student discount &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250210/p25#a250210p25)
- - [Paris AI summit takeaways: Europe has regulation regrets, AI doomsayers have lost ground, and policymakers can&#39;t seem to grasp how soon powerful AI could arrive &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250210/p24#a250210p24)<!-- TECH:END -->
+ - [After crawling for two days, stroke victim used Siri to make a call that saved his life](https://appleinsider.com/articles/25/02/10/after-crawling-for-two-days-stroke-victim-uses-siri-to-make-a-call-that-saved-his-life?utm_medium=rss)
+ - [Both Google Pixel 9 Pro models are $200 off right now!](https://www.androidauthority.com/google-pixel-9-pro-xl-deals-3524728/)
+ - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
