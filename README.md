@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Delivery Hero, profitable since late 2023, as it focuses on the Middle East and Asia while cutting costs and shedding units across 70+ countries &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250210/p3#a250210p3)
- - [A look at the race to bring satellite-connected smartphones to a wider market, as estimates suggest that ~350M people lack access to mobile broadband coverage &lpar;Financial Times&rpar;](http://www.techmeme.com/250210/p2#a250210p2)
- - [Google and WhatsApp could be ‘Besties’ for an upcoming Pixel feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-google-pixel-besties-vips-integration-apk-teardown-3524461/)<!-- TECH:END -->
+ - [TSMC says losses from January&#39;s earthquake would be ~$161.5M, dragging its Q1 revenue guidance to $25B to $25.8B, up 35.9% YoY but at the lower end of its range &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250210/p4#a250210p4)
+ - [Gboard’s already excellent voice typing experience is about to get even better &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-assistant-voice-typing-rewrite-apk-3524492/)
+ - [The Rise of the Drone Boats](https://www.wired.com/story/the-rise-of-the-drone-boats/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
