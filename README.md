@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile and Starlink satellite connectivity explained: What you need to know](https://www.androidauthority.com/t-mobile-starlink-satellite-connectivity-3207661/)
  - [PSN outage got you down? Sony wants to make up with a freebie](https://www.androidauthority.com/sony-psn-outage-freebie-3524419/)
- - [Sources: Shein asked some top apparel suppliers in China to set up new production lines in Vietnam, with incentives like higher procurement prices of up to 30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250209/p17#a250209p17)
- - [T-Mobile’s Super Bowl play: Satellite beta opens to all, even Verizon and AT&amp;T users](https://www.androidauthority.com/t-mobile-starlink-satellite-service-public-beta-availability-3524413/)<!-- TECH:END -->
+ - [Sources: Shein asked some top apparel suppliers in China to set up new production lines in Vietnam, with incentives like higher procurement prices of up to 30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250209/p17#a250209p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
