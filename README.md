@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wild True Story Behind Kendrick Lamar’s Super Bowl Halftime Show](https://www.wired.com/story/true-story-behind-kendrick-lamar-super-bowl-halftime-show/)
- - [T-Mobile&#39;s satellite texting feature, currently in beta and powered by SpaceX&#39;s Starlink, will cost customers $15/month starting in July for users on most plans &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250209/p15#a250209p15)
- - [A look at the debate over how much authors should get paid for licensing books to train AI; Microsoft offered HarperCollins $5K/title, of which authors get 50% &lpar;Alice Robb/Bloomberg&rpar;](http://www.techmeme.com/250209/p14#a250209p14)<!-- TECH:END -->
+ - [T-Mobile’s Super Bowl play: Satellite beta opens to all, even Verizon and AT&amp;T users](https://www.androidauthority.com/t-mobile-starlink-satellite-service-public-beta-availability-3524413/)
+ - [TrendForce: China&#39;s share of global mature node manufacturing capacity in 2024 was 34%, vs. Taiwan&#39;s 43%; China&#39;s share is forecasted to exceed Taiwan&#39;s by 2027 &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250209/p16#a250209p16)
+ - [The Wild True Story Behind Kendrick Lamar’s Super Bowl Halftime Show](https://www.wired.com/story/true-story-behind-kendrick-lamar-super-bowl-halftime-show/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
