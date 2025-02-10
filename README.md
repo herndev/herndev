@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Funding Cuts Are Helping Criminals Get Away With Child Abuse and Human Trafficking](https://www.wired.com/story/doge-usaid-state-department-child-exploitation/)
- - [Sources: late on Friday night DOGE staffers gained access to all of the CFPB&#39;s data systems, which hold confidential info potentially pertaining to X&#39;s rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p21#a250210p21)
- - [Lyft says it will launch a fleet of robotaxis, using self-driving tech from Intel&#39;s Mobileye, in Dallas &quot;as soon as 2026&quot; &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250210/p20#a250210p20)<!-- TECH:END -->
+ - [Apple seeds minor update for iOS 18.3.1, iPadOS 18.3.1, macOS Sequoia 15.3.1](https://appleinsider.com/articles/25/02/10/apple-seeds-minor-update-for-ios-1831-ipados-1831-macos-sequoia-1531?utm_medium=rss)
+ - [Did you know new US Mobile customers get a year of the streaming perk of their choosing?](https://www.androidauthority.com/us-mobile-streaming-perk-3523627/)
+ - [NXP Semiconductors announces a $307M deal to acquire Kinara, which makes NPUs and related software for edge AI applications &lpar;Dan O&#39;Shea/Fierce Electronics&rpar;](http://www.techmeme.com/250210/p22#a250210p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
