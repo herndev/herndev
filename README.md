@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic launches the Anthropic Economic Index to track AI&#39;s impact by analyzing anonymized Claude usage data, showing 57% of AI use leans toward augmentation &lpar;Scott Rosenberg/Axios&rpar;](http://www.techmeme.com/250210/p18#a250210p18)
- - [iPhones are still missing an Android-like charging estimate, so someone built it themselves](https://www.androidauthority.com/apple-iphone-charging-estimate-shortcut-automation-3524515/)
- - [Galaxy S24 series receives new update, but not the one you’ve been waiting for](https://www.androidauthority.com/galaxy-s24-series-feb-2025-patches-3524567/)<!-- TECH:END -->
+ - [AT&amp;T is offering top dollar for even damaged trade-ins towards a new iPhone 16](https://www.androidauthority.com/att-trade-in-offers-3524582/)
+ - [Rumored Sonos streamer, Amazon event preview, &amp; Matter&#39;s attempt to fix Wi-Fi](https://appleinsider.com/articles/25/02/10/rumored-sonos-streamer-amazon-event-preview-matters-attempt-to-fix-wi-fi?utm_medium=rss)
+ - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
