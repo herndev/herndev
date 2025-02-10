@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Labor Market Is Suffering, but Today&#39;s Jobs Data Looks Just Peachy](https://www.cnet.com/personal-finance/the-labor-market-is-suffering-but-todays-jobs-data-looks-just-peachy/#ftag=CAD590a51e)
- - [Visible is offering the Galaxy S25 for $200 less than the competition for a limited time](https://www.androidauthority.com/visible-galaxy-s25-promo-3524327/)
- - [Amazon’s Fire TVs are getting ready for Android 14, but what does that mean for Fire OS?](https://www.androidauthority.com/android-14-based-fire-tvs-3524320/)<!-- TECH:END -->
+ - [Observations on AI and how it may change society, the likely uneven impact of AGI, which could mess up the balance of power between capital and labor, and more &lpar;Sam Altman&rpar;](http://www.techmeme.com/250209/p13#a250209p13)
+ - [Macron announces that companies have agreed to invest &amp;euro;109B in AI projects in France in the coming years, saying it&#39;s France&#39;s equivalent to Stargate for the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250209/p12#a250209p12)
+ - [Save $300 on these M4 Pro MacBook Pros with 48GB RAM](https://appleinsider.com/articles/25/02/09/save-300-on-these-m4-pro-macbook-pros-with-48gb-ram?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
