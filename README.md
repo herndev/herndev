@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s Super Bowl play: Satellite beta opens to all, even Verizon and AT&amp;T users](https://www.androidauthority.com/t-mobile-starlink-satellite-service-public-beta-availability-3524413/)
- - [TrendForce: China&#39;s share of global mature node manufacturing capacity in 2024 was 34%, vs. Taiwan&#39;s 43%; China&#39;s share is forecasted to exceed Taiwan&#39;s by 2027 &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250209/p16#a250209p16)
- - [The Wild True Story Behind Kendrick Lamar’s Super Bowl Halftime Show](https://www.wired.com/story/true-story-behind-kendrick-lamar-super-bowl-halftime-show/)<!-- TECH:END -->
+ - [PSN outage got you down? Sony wants to make up with a freebie](https://www.androidauthority.com/sony-psn-outage-freebie-3524419/)
+ - [Sources: Shein asked some top apparel suppliers in China to set up new production lines in Vietnam, with incentives like higher procurement prices of up to 30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250209/p17#a250209p17)
+ - [T-Mobile’s Super Bowl play: Satellite beta opens to all, even Verizon and AT&amp;T users](https://www.androidauthority.com/t-mobile-starlink-satellite-service-public-beta-availability-3524413/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
