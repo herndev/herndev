@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC says losses from January&#39;s earthquake would be ~$161.5M, dragging its Q1 revenue guidance to $25B to $25.8B, up 35.9% YoY but at the lower end of its range &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250210/p4#a250210p4)
- - [Gboard’s already excellent voice typing experience is about to get even better &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-assistant-voice-typing-rewrite-apk-3524492/)
- - [The Rise of the Drone Boats](https://www.wired.com/story/the-rise-of-the-drone-boats/)<!-- TECH:END -->
+ - [Nokia names Justin Hotard, who currently leads Intel&#39;s Data Center and AI operations, as its CEO starting April 1, as it focuses on data centers to drive growth &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/250210/p7#a250210p7)
+ - [The Galaxy S26 could catch up to Chinese rivals with a long-awaited battery boost](https://www.androidauthority.com/samsung-silicon-carbon-batteries-galaxy-s26-3524495/)
+ - [After the Los Angeles fires, over 1M people donated $250M+ via GoFundMe, or $20M more than the service collected for all natural disasters worldwide in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/250210/p6#a250210p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
