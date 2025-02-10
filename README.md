@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T is offering top dollar for even damaged trade-ins towards a new iPhone 16](https://www.androidauthority.com/att-trade-in-offers-3524582/)
- - [Rumored Sonos streamer, Amazon event preview, &amp; Matter&#39;s attempt to fix Wi-Fi](https://appleinsider.com/articles/25/02/10/rumored-sonos-streamer-amazon-event-preview-matters-attempt-to-fix-wi-fi?utm_medium=rss)
- - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chrome may offer to automatically change your passwords compromised in data breaches](https://www.androidauthority.com/google-chrome-automated-password-change-3524600/)
+ - [Want to try out T-Mobile’s Starlink beta? You’ll need one of these compatible phones](https://www.androidauthority.com/t-mobile-starlink-compatible-phones-3524604/)
+ - [AT&amp;T is offering top dollar for even damaged trade-ins towards a new iPhone 16](https://www.androidauthority.com/att-trade-in-offers-3524582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
