@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile and Starlink satellite connectivity explained: What you need to know](https://www.androidauthority.com/t-mobile-starlink-satellite-connectivity-3207661/)
- - [PSN outage got you down? Sony wants to make up with a freebie](https://www.androidauthority.com/sony-psn-outage-freebie-3524419/)
- - [Sources: Shein asked some top apparel suppliers in China to set up new production lines in Vietnam, with incentives like higher procurement prices of up to 30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250209/p17#a250209p17)<!-- TECH:END -->
+ - [The Galaxy Z Fold 6’s fiercest global rival launches next week](https://www.androidauthority.com/oppo-find-n5-launch-date-official-3524440/)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-10/#ftag=CAD590a51e)
+ - [T-Mobile and Starlink satellite connectivity explained: What you need to know](https://www.androidauthority.com/t-mobile-starlink-satellite-connectivity-3207661/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
