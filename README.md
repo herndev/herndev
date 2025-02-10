@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google and WhatsApp could be ‘Besties’ for an upcoming Pixel feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-google-pixel-besties-vips-integration-apk-teardown-3524461/)
- - [A study found that phishing tests and other training programs designed to educate employees about online dangers reduced phishing success rates by just 2% &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/250210/p1#a250210p1)
- - [The Galaxy Z Fold 6’s fiercest global rival launches next week](https://www.androidauthority.com/oppo-find-n5-launch-date-official-3524440/)<!-- TECH:END -->
+ - [A look at Delivery Hero, profitable since late 2023, as it focuses on the Middle East and Asia while cutting costs and shedding units across 70+ countries &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250210/p3#a250210p3)
+ - [A look at the race to bring satellite-connected smartphones to a wider market, as estimates suggest that ~350M people lack access to mobile broadband coverage &lpar;Financial Times&rpar;](http://www.techmeme.com/250210/p2#a250210p2)
+ - [Google and WhatsApp could be ‘Besties’ for an upcoming Pixel feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-google-pixel-besties-vips-integration-apk-teardown-3524461/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
