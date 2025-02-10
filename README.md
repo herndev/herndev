@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Observations on AI and how it may change society, the likely uneven impact of AGI, which could mess up the balance of power between capital and labor, and more &lpar;Sam Altman&rpar;](http://www.techmeme.com/250209/p13#a250209p13)
- - [Macron announces that companies have agreed to invest &amp;euro;109B in AI projects in France in the coming years, saying it&#39;s France&#39;s equivalent to Stargate for the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250209/p12#a250209p12)
- - [Save $300 on these M4 Pro MacBook Pros with 48GB RAM](https://appleinsider.com/articles/25/02/09/save-300-on-these-m4-pro-macbook-pros-with-48gb-ram?utm_medium=rss)<!-- TECH:END -->
+ - [T-Mobile&#39;s satellite texting feature, currently in beta and powered by Starlink, will cost customers $15/month starting in July for users on most plans &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250209/p15#a250209p15)
+ - [A look at the debate over how much authors get paid for licensing books to AI companies; Microsoft offered HarperCollins $5K/title, of which authors get 50% &lpar;Alice Robb/Bloomberg&rpar;](http://www.techmeme.com/250209/p14#a250209p14)
+ - [T-Mobile Opens Its Starlink Beta, Including to People With AT&amp;T and Verizon](https://www.cnet.com/tech/mobile/t-mobile-opens-up-its-starlink-beta-including-to-people-with-att-and-verizon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
