@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome may offer to automatically change your passwords compromised in data breaches](https://www.androidauthority.com/google-chrome-automated-password-change-3524600/)
- - [Want to try out T-Mobile’s Starlink beta? You’ll need one of these compatible phones](https://www.androidauthority.com/t-mobile-starlink-compatible-phones-3524604/)
- - [AT&amp;T is offering top dollar for even damaged trade-ins towards a new iPhone 16](https://www.androidauthority.com/att-trade-in-offers-3524582/)<!-- TECH:END -->
+ - [US Funding Cuts Are Helping Criminals Get Away With Child Abuse and Human Trafficking](https://www.wired.com/story/doge-usaid-state-department-child-exploitation/)
+ - [Sources: late on Friday night DOGE staffers gained access to all of the CFPB&#39;s data systems, which hold confidential info potentially pertaining to X&#39;s rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p21#a250210p21)
+ - [Lyft says it will launch a fleet of robotaxis, using self-driving tech from Intel&#39;s Mobileye, in Dallas &quot;as soon as 2026&quot; &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250210/p20#a250210p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
