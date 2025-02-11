@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [The best Galaxy S25 Ultra variant isn’t available via US carriers](https://www.androidauthority.com/best-galaxy-s25-ultra-variant-us-carriers-3524869/)
- - [Galaxy S25 Ultra’s S Pen struggles with magnetic accessories – again](https://www.androidauthority.com/samsung-galaxy-s-25-ultra-s-pen-magnetic-interference-3524859/)
- - [In a January paper, three computer scientists presented a faster hash table, one of the oldest data structures, disproving a 40-year-old data science conjecture &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/250211/p1#a250211p1)<!-- TECH:END -->
+ - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
+ - [Galaxy S25 Ultra’s S Pen struggles with magnetic accessories – again](https://www.androidauthority.com/samsung-galaxy-s-25-ultra-s-pen-magnetic-interference-3524859/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
