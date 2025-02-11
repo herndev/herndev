@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This fun new look for Circle to Search might be hitting your phone soon &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-ball-animation-3525079/)
- - [Sources: Meta is in talks to acquire South Korean AI chip startup FuriosaAI, which has raised ~$115M since its 2017 founding; the deal could close this month &lpar;John Kang/Forbes&rpar;](http://www.techmeme.com/250211/p29#a250211p29)
- - [Apple’s latest earbuds let you monitor your heart rate without a smartwatch](https://www.androidauthority.com/apple-beats-powerbeats-pro-2-launched-3525100/)<!-- TECH:END -->
+ - [Filing: Binance and the US SEC have jointly asked a judge to stay the regulator&#39;s lawsuit against the crypto exchange for 60 days, citing Trump admin changes &lpar;Reuters&rpar;](http://www.techmeme.com/250211/p30#a250211p30)
+ - [Apple makes first change to Pixelmator Pro with a new splash screen](https://appleinsider.com/articles/25/02/11/apple-makes-first-change-to-pixelmator-pro-with-a-new-splash-screen?utm_medium=rss)
+ - [Apple Arcade Is Getting the Rhythm Game Piano Tiles 2 and More Soon](https://www.cnet.com/tech/gaming/apple-arcade-is-getting-the-rhythm-game-piano-tiles-2-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
