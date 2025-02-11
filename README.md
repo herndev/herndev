@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Google Play Store now helps you justify your subscriptions](https://www.androidauthority.com/google-play-store-subscriptions-ui-live-3524838/)
  - [Google Messages is making an unnecessary change for dual-SIM users &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-dual-sim-texting-change-3524816/)
- - [Huawei&#39;s Watch D2 sees a sales bump in China after users discovered it can be registered as a medical device, allowing it to be purchased via medical insurance &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250210/p33#a250210p33)
- - [How to use Siri to get answers from ChatGPT](https://appleinsider.com/articles/25/02/11/how-to-use-siri-to-get-answers-from-chatgpt?utm_medium=rss)<!-- TECH:END -->
+ - [Huawei&#39;s Watch D2 sees a sales bump in China after users discovered it can be registered as a medical device, allowing it to be purchased via medical insurance &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250210/p33#a250210p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
