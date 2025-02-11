@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After crawling for two days, stroke victim used Siri to make a call that saved his life](https://appleinsider.com/articles/25/02/10/after-crawling-for-two-days-stroke-victim-uses-siri-to-make-a-call-that-saved-his-life?utm_medium=rss)
- - [Both Google Pixel 9 Pro models are $200 off right now!](https://www.androidauthority.com/google-pixel-9-pro-xl-deals-3524728/)
- - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)<!-- TECH:END -->
+ - [NIH Funding Cuts Appear to Draw on Heritage Foundation Report That Blasts ‘DEI Staff’](https://www.wired.com/story/nih-indirect-funding-cuts-heritage-foundation/)
+ - [Nineteen US states have bills to invest public money in crypto, many focus on retirement funds; MI, WI already have crypto in public employees&#39; retirement funds &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250210/p27#a250210p27)
+ - [Sony Removes &#39;Eslop&#39; Games From PlayStation Store, Report Says](https://www.cnet.com/tech/gaming/sony-removes-eslop-games-from-playstation-store-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
