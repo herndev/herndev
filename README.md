@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boston-based QuEra Computing, which is developing neutral-atom quantum computing to help scale systems, raised $230M+ from Google&#39;s Quantum AI unit and others &lpar;Rishi Kant/Reuters&rpar;](http://www.techmeme.com/250211/p16#a250211p16)
- - [Power Dressing: Silicon Valley’s Macho Makeover Is a Warning, Not a Trend](https://www.wired.com/story/power-dressing-silicon-valleys-macho-makeover-is-a-warning-not-a-trend/)
- - [Dublin-based Tines, which uses AI to automate tasks in cybersecurity and other business operations, raised $125M at a $1.13B valuation, up from $600M in 2024 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250211/p15#a250211p15)<!-- TECH:END -->
+ - [Apple Intelligence is coming China thanks to a partnership with Alibaba](https://appleinsider.com/articles/25/02/11/apple-intelligence-is-coming-china-thanks-to-a-partnership-with-alibaba?utm_medium=rss)
+ - [The US, the UK, and Australia sanction Russia-based bulletproof hosting provider Zservers and two Russian nationals for supplying the LockBit ransomware gang &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250211/p21#a250211p21)
+ - [Apple is considering adding a small display to the Apple Vision Pro headband](https://appleinsider.com/articles/25/02/11/apple-is-considering-adding-a-small-display-to-the-apple-vision-pro-headband?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
