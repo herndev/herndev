@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WH-1000XM6 sighted again! Sony’s next-gen noise-canceling king is almost here](https://www.androidauthority.com/sony-wh-1000xm6-imda-listing-expected-features-specs-3524936/)
- - [Supercell CEO Ilkka Paananen criticizes rivals for seeking to buy successful new titles rather than creating them, saying the industry has stagnated since 2021 &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/250211/p8#a250211p8)
- - [Spotify breaks its silence on Premium users hearing ads](https://www.androidauthority.com/spotify-premium-ads-3524922/)<!-- TECH:END -->
+ - [25 years of Apple&#39;s innovation with the iTunes Music Store](https://appleinsider.com/articles/25/02/11/25-years-of-apples-innovation-with-the-itunes-music-store?utm_medium=rss)
+ - [Chinese EV maker BYD unveils a &quot;God&#39;s Eye&quot; self-driving system and aims to install it on its entire lineup, including its ~$9,600 Seagull hatchback &lpar;Gloria Li/Financial Times&rpar;](http://www.techmeme.com/250211/p14#a250211p14)
+ - [The 5 Best Travel Pillows &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-pillows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
