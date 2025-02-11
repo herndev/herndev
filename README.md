@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Galaxy S25 Ultra variant isn’t available via US carriers](https://www.androidauthority.com/best-galaxy-s25-ultra-variant-us-carriers-3524869/)
- - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
- - [Galaxy S25 Ultra’s S Pen struggles with magnetic accessories – again](https://www.androidauthority.com/samsung-galaxy-s-25-ultra-s-pen-magnetic-interference-3524859/)<!-- TECH:END -->
+ - [Android doesn’t play nicely with Macs, but this foldable could change that](https://www.androidauthority.com/oppo-find-n5-apple-mac-control-3524899/)
+ - [Best Alkaline Batteries for 2025](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)
+ - [It’s Spring on Mars—and That Means Violently Explosive Geysers and Avalanches](https://www.wired.com/story/mars-violent-spring-nasa/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
