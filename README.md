@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybereason CEO sues investors Steven Mnuchin and SoftBank Vision Fund, accusing them of putting Cybereason at risk of bankruptcy by blocking fund raising plans &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p32#a250210p32)
- - [You can still purchase a Samsung Galaxy S25 and get a free gift card!](https://www.androidauthority.com/samsung-galaxy-s25-plus-ultra-free-gift-card-deal-3524727/)
- - [Source: Shopify tells support staff to give &quot;no comment&quot; if merchant clients asked about Kanye West using its tech to sell a T-shirt with a Nazi swastika &lpar;The Logic&rpar;](http://www.techmeme.com/250210/p31#a250210p31)<!-- TECH:END -->
+ - [The OnePlus Watch 3 is launching next week, and it looks great](https://www.androidauthority.com/oneplus-watch-3-release-date-design-3524746/)
+ - [Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD dips to $929](https://appleinsider.com/articles/25/02/11/apples-m4-mac-mini-with-24gb-ram-512gb-ssd-dips-to-929?utm_medium=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
