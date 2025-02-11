@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV might soon turn your idle screen into a live news hub &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tv-ambient-mode-news-3524995/)
- - [Here’s our best look yet at the Pixel 9a!](https://www.androidauthority.com/google-pixel-9a-official-renders-leak-3525024/)
- - [Finding a perfectly sized Apple Watch band may get easier in the future](https://appleinsider.com/articles/22/08/18/finding-a-perfectly-sized-apple-watch-band-may-get-easier-in-the-future?utm_medium=rss)<!-- TECH:END -->
+ - [Anduril plans to assume management and eventual manufacturing of the US Army&#39;s infantry goggles from Microsoft, in an up to $20B deal that the Army must approve &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/250211/p27#a250211p27)
+ - [Apple Watch Series 10 owners report speaker problems](https://appleinsider.com/articles/25/02/11/apple-watch-series-10-owners-report-speaker-problems?utm_medium=rss)
+ - [US Mobile’s most expensive plan is adding truly unlimited data powered by AT&amp;T](https://www.androidauthority.com/att-truly-unlimited-data-us-mobile-3525072/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
