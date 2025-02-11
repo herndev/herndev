@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anduril plans to assume management and eventual manufacturing of the US Army&#39;s infantry goggles from Microsoft, in an up to $20B deal that the Army must approve &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/250211/p27#a250211p27)
- - [Apple Watch Series 10 owners report speaker problems](https://appleinsider.com/articles/25/02/11/apple-watch-series-10-owners-report-speaker-problems?utm_medium=rss)
- - [US Mobile’s most expensive plan is adding truly unlimited data powered by AT&amp;T](https://www.androidauthority.com/att-truly-unlimited-data-us-mobile-3525072/)<!-- TECH:END -->
+ - [This fun new look for Circle to Search might be hitting your phone soon &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-ball-animation-3525079/)
+ - [Sources: Meta is in talks to acquire South Korean AI chip startup FuriosaAI, which has raised ~$115M since its 2017 founding; the deal could close this month &lpar;John Kang/Forbes&rpar;](http://www.techmeme.com/250211/p29#a250211p29)
+ - [Apple’s latest earbuds let you monitor your heart rate without a smartwatch](https://www.androidauthority.com/apple-beats-powerbeats-pro-2-launched-3525100/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
