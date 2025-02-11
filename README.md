@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thomson Reuters Wins First Major AI Copyright Case in the US](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/)
- - [Sources: Altman told staff OpenAI&#39;s board has not gotten an official offer from Musk and other investors, and if it happens, the board plans to reject the &quot;bid&quot; &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/250211/p33#a250211p33)
- - [Best Strategy Board Games for 2025](https://www.cnet.com/culture/entertainment/best-strategy-board-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Search plays almost no role in YouTube’s massive viewership, Google claims](https://www.androidauthority.com/youtube-google-search-one-percent-3525183/)
+ - [DoorDash reports Q4 revenue up 25% YoY to $2.87B, vs. $2.84B est., total orders up 19% YoY to 685M, and plans to buy back shares worth up to $5B in FY 2025 &lpar;Ananya Mariam Rajesh/Reuters&rpar;](http://www.techmeme.com/250211/p37#a250211p37)
+ - [Google schedules I/O 2025 for May 20 and 21, with a main keynote on May 20 at 10am PT; announcements on Gemini, Android 16, and more are expected &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250211/p36#a250211p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
