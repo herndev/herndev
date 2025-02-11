@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NIH Funding Cuts Appear to Draw on Heritage Foundation Report That Blasts ‘DEI Staff’](https://www.wired.com/story/nih-indirect-funding-cuts-heritage-foundation/)
- - [Nineteen US states have bills to invest public money in crypto, many focus on retirement funds; MI, WI already have crypto in public employees&#39; retirement funds &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250210/p27#a250210p27)
- - [Sony Removes &#39;Eslop&#39; Games From PlayStation Store, Report Says](https://www.cnet.com/tech/gaming/sony-removes-eslop-games-from-playstation-store-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In response to the $97.4B OpenAI bid, Sam Altman says on X &quot;no thank you but we will buy twitter for $9.74 billion if you want&quot;; Elon Musk replies &quot;swindler&quot; &lpar;The Hill&rpar;](http://www.techmeme.com/250210/p30#a250210p30)
+ - [Investors behind the $97.4B OpenAI bid include xAI, Baron Capital, Valor, Atreides, Vy Capital, Joe Lonsdale&#39;s 8VC, and an investment vehicle led by Ari Emanuel &lpar;CNBC&rpar;](http://www.techmeme.com/250210/p29#a250210p29)
+ - [Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD dips to $929](https://appleinsider.com/articles/25/02/11/apples-m4-mac-mini-with-24gb-ram-512gb-ssd-dips-to-929?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
