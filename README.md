@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the AI Action Summit in Paris, EU Commission President Ursula von der Leyen says the bloc plans to mobilize &amp;euro;200B to invest in AI to catch the US and China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250211/p3#a250211p3)
- - [Sam Altman says &quot;OpenAI is not for sale&quot; and &quot;OpenAI&#39;s mission is not for sale&quot;, especially to &quot;a competitor who is not able to beat us in the market&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250211/p2#a250211p2)
- - [Android doesn’t play nicely with Macs, but this foldable could change that](https://www.androidauthority.com/oppo-find-n5-apple-mac-control-3524899/)<!-- TECH:END -->
+ - [WH-1000XM6 sighted again! Sony’s next-gen noise-canceling king is almost here](https://www.androidauthority.com/sony-wh-1000xm6-imda-listing-expected-features-specs-3524936/)
+ - [Supercell CEO Ilkka Paananen criticizes rivals for seeking to buy successful new titles rather than creating them, saying the industry has stagnated since 2021 &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/250211/p8#a250211p8)
+ - [Spotify breaks its silence on Premium users hearing ads](https://www.androidauthority.com/spotify-premium-ads-3524922/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
