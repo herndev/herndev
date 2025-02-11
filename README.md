@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Binance and the US SEC have jointly asked a judge to stay the regulator&#39;s lawsuit against the crypto exchange for 60 days, citing Trump admin changes &lpar;Reuters&rpar;](http://www.techmeme.com/250211/p30#a250211p30)
- - [Apple makes first change to Pixelmator Pro with a new splash screen](https://appleinsider.com/articles/25/02/11/apple-makes-first-change-to-pixelmator-pro-with-a-new-splash-screen?utm_medium=rss)
- - [Apple Arcade Is Getting the Rhythm Game Piano Tiles 2 and More Soon](https://www.cnet.com/tech/gaming/apple-arcade-is-getting-the-rhythm-game-piano-tiles-2-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Altman Dismisses Elon Musk’s Bid to Buy OpenAI in Letter to Staff](https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/)
+ - [Verizon Protect will soon raise its pricing: Who’s affected and by how much?](https://www.androidauthority.com/verizon-protect-increase-3525133/)
+ - [Elon Musk&#39;s six companies, which face 32+ ongoing probes, pending complaints, or enforcement actions from 11+ US agencies, score benefits from Trump shake-ups &lpar;New York Times&rpar;](http://www.techmeme.com/250211/p32#a250211p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
