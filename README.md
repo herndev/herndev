@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Search plays almost no role in YouTube’s massive viewership, Google claims](https://www.androidauthority.com/youtube-google-search-one-percent-3525183/)
- - [DoorDash reports Q4 revenue up 25% YoY to $2.87B, vs. $2.84B est., total orders up 19% YoY to 685M, and plans to buy back shares worth up to $5B in FY 2025 &lpar;Ananya Mariam Rajesh/Reuters&rpar;](http://www.techmeme.com/250211/p37#a250211p37)
- - [Google schedules I/O 2025 for May 20 and 21, with a main keynote on May 20 at 10am PT; announcements on Gemini, Android 16, and more are expected &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250211/p36#a250211p36)<!-- TECH:END -->
+ - [Internal message: Shopify&#39;s general council said Ye&#39;s store was banned because the swastika shirt listed for sale &quot;brought with it the real risk of fraud&quot; &lpar;The Logic&rpar;](http://www.techmeme.com/250211/p40#a250211p40)
+ - [Source: Apple and Alibaba submitted their co-developed AI features for approval by China&#39;s cyberspace regulator; Apple considered but rejected Deepseek&#39;s models &lpar;The Information&rpar;](http://www.techmeme.com/250211/p39#a250211p39)
+ - [It’s official: the Gulf of Mexico is now the Gulf of America in Google Maps &lpar;Update: Apple Maps, too&rpar;](https://www.androidauthority.com/google-maps-gulf-of-america-name-change-3524991/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
