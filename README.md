@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence is coming China thanks to a partnership with Alibaba](https://appleinsider.com/articles/25/02/11/apple-intelligence-is-coming-china-thanks-to-a-partnership-with-alibaba?utm_medium=rss)
- - [The US, the UK, and Australia sanction Russia-based bulletproof hosting provider Zservers and two Russian nationals for supplying the LockBit ransomware gang &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250211/p21#a250211p21)
- - [Apple is considering adding a small display to the Apple Vision Pro headband](https://appleinsider.com/articles/25/02/11/apple-is-considering-adding-a-small-display-to-the-apple-vision-pro-headband?utm_medium=rss)<!-- TECH:END -->
+ - [Google TV might soon turn your idle screen into a live news hub &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tv-ambient-mode-news-3524995/)
+ - [Here’s our best look yet at the Pixel 9a!](https://www.androidauthority.com/google-pixel-9a-official-renders-leak-3525024/)
+ - [Finding a perfectly sized Apple Watch band may get easier in the future](https://appleinsider.com/articles/22/08/18/finding-a-perfectly-sized-apple-watch-band-may-get-easier-in-the-future?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
