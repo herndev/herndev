@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman Dismisses Elon Musk’s Bid to Buy OpenAI in Letter to Staff](https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/)
- - [Verizon Protect will soon raise its pricing: Who’s affected and by how much?](https://www.androidauthority.com/verizon-protect-increase-3525133/)
- - [Elon Musk&#39;s six companies, which face 32+ ongoing probes, pending complaints, or enforcement actions from 11+ US agencies, score benefits from Trump shake-ups &lpar;New York Times&rpar;](http://www.techmeme.com/250211/p32#a250211p32)<!-- TECH:END -->
+ - [Thomson Reuters Wins First Major AI Copyright Case in the US](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/)
+ - [Sources: Altman told staff OpenAI&#39;s board has not gotten an official offer from Musk and other investors, and if it happens, the board plans to reject the &quot;bid&quot; &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/250211/p33#a250211p33)
+ - [Best Strategy Board Games for 2025](https://www.cnet.com/culture/entertainment/best-strategy-board-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
