@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android doesn’t play nicely with Macs, but this foldable could change that](https://www.androidauthority.com/oppo-find-n5-apple-mac-control-3524899/)
- - [Best Alkaline Batteries for 2025](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)
- - [It’s Spring on Mars—and That Means Violently Explosive Geysers and Avalanches](https://www.wired.com/story/mars-violent-spring-nasa/)<!-- TECH:END -->
+ - [At the AI Action Summit in Paris, EU Commission President Ursula von der Leyen says the bloc plans to mobilize &amp;euro;200B to invest in AI to catch the US and China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250211/p3#a250211p3)
+ - [Sam Altman says &quot;OpenAI is not for sale&quot; and &quot;OpenAI&#39;s mission is not for sale&quot;, especially to &quot;a competitor who is not able to beat us in the market&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250211/p2#a250211p2)
+ - [Android doesn’t play nicely with Macs, but this foldable could change that](https://www.androidauthority.com/oppo-find-n5-apple-mac-control-3524899/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
