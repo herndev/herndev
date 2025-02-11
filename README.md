@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Shopify tells support staff to give &quot;no comment&quot; if merchant clients asked about Kanye West using its tech to sell a T-shirt with a Nazi swastika &lpar;The Logic&rpar;](http://www.techmeme.com/250210/p31#a250210p31)
- - [In response to the $97.4B OpenAI bid, Sam Altman says on X &quot;no thank you but we will buy twitter for $9.74 billion if you want&quot;; Elon Musk replies &quot;swindler&quot; &lpar;The Hill&rpar;](http://www.techmeme.com/250210/p30#a250210p30)
- - [Investors behind the $97.4B OpenAI bid include xAI, Baron Capital, Valor, Atreides, Vy Capital, Joe Lonsdale&#39;s 8VC, and an investment vehicle led by Ari Emanuel &lpar;CNBC&rpar;](http://www.techmeme.com/250210/p29#a250210p29)<!-- TECH:END -->
+ - [Cybereason CEO sues investors Steven Mnuchin and SoftBank Vision Fund, accusing them of putting Cybereason at risk of bankruptcy by blocking fund raising plans &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p32#a250210p32)
+ - [You can still purchase a Samsung Galaxy S25 and get a free gift card!](https://www.androidauthority.com/samsung-galaxy-s25-plus-ultra-free-gift-card-deal-3524727/)
+ - [Source: Shopify tells support staff to give &quot;no comment&quot; if merchant clients asked about Kanye West using its tech to sell a T-shirt with a Nazi swastika &lpar;The Logic&rpar;](http://www.techmeme.com/250210/p31#a250210p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
