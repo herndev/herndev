@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reno, Nevada-based Positron, which sells AI chips intended for inference and manufactured in Arizona, raised a $23.5M seed from Flume, Valor Equity, and others &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250211/p41#a250211p41)
- - [Internal message: Shopify&#39;s general council said Ye&#39;s store was banned because the swastika shirt listed for sale &quot;brought with it the real risk of fraud&quot; &lpar;The Logic&rpar;](http://www.techmeme.com/250211/p40#a250211p40)
- - [Source: Apple and Alibaba submitted their co-developed AI features for approval by China&#39;s cyberspace regulator; Apple considered but rejected Deepseek&#39;s models &lpar;The Information&rpar;](http://www.techmeme.com/250211/p39#a250211p39)<!-- TECH:END -->
+ - [Deal: At just $799, the Apple MacBook Air M2 could be the best laptop for most](https://www.androidauthority.com/apple-macbook-air-m2-deal-10-3525211/)
+ - [Andesite, which combines human expertise and AI in its security operations center platform, raised an additional $23M seed, taking its total funding to $38.25M &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250211/p44#a250211p44)
+ - [Apple now lets users migrate apps, music, books, shows, and movies between Apple accounts, but the feature isn&#39;t available to users in the EU, the UK, or India &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250211/p43#a250211p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
