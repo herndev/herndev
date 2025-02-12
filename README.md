@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be trying to jump-start lackluster Apple Vision Pro sales](https://appleinsider.com/articles/25/02/12/apple-may-be-trying-to-jump-start-lackluster-apple-vision-pro-sales?utm_medium=rss)
- - [8 Best Slippers, Tested and Loved by WIRED Staffers &lpar;2025&rpar;](https://www.wired.com/gallery/best-slippers/)
- - [iPhone owners are replacing their devices faster than before](https://appleinsider.com/articles/25/02/12/iphone-owners-are-replacing-their-devices-faster-than-before?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV+ is coming to Android phones very soon](https://appleinsider.com/articles/25/02/12/apple-tv-is-coming-to-android-phones-very-soon?utm_medium=rss)
+ - [California’s Problem Now Isn’t Fire—It’s Rain](https://www.wired.com/story/californias-problem-now-isnt-fire-its-rain-wildfires-atmospheric-rivers/)
+ - [Champions League Soccer: Livestream Feyenoord vs. AC Milan From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-feyenoord-vs-ac-milan-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
