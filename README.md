@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ is coming to Android phones very soon](https://appleinsider.com/articles/25/02/12/apple-tv-is-coming-to-android-phones-very-soon?utm_medium=rss)
- - [California’s Problem Now Isn’t Fire—It’s Rain](https://www.wired.com/story/californias-problem-now-isnt-fire-its-rain-wildfires-atmospheric-rivers/)
- - [Champions League Soccer: Livestream Feyenoord vs. AC Milan From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-feyenoord-vs-ac-milan-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Altman says GPT-5 will include o3, which will no longer be offered as a standalone model, GPT-4.5 will be OpenAI&#39;s last non-chain-of-thought model, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p35#a250212p35)
+ - [OPENAI ROADMAP UPDATE FOR GPT-4.5 and GPT-5: We want to do a better job of sharing our intended roadmap, and a much better job simplifying our product offerings. We want AI to &quot;just work&quot; for you; we realize how complicated our model and product offerings have gotten. We hate &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250212/p34#a250212p34)
+ - [Best 75-Inch TV in 2025](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
