@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis of credit and debit card data: Shein&#39;s US sales fell 16% to 41% for five days from February 5 and Temu fell up to 32% after Trump targets China trade &lpar;Bloomberg&rpar;](http://www.techmeme.com/250212/p12#a250212p12)
- - [Google Photos wants to replace prints lost in the LA fires, free of charge](https://www.androidauthority.com/google-photos-prints-fire-3525256/)
- - [The Sooner You Lock in Your APY, the More You Could Earn. Today&#39;s CD Rates, Feb. 12, 2025](https://www.cnet.com/personal-finance/banking/the-sooner-you-lock-in-your-apy-the-more-you-could-earn-todays-cd-rates-feb-12-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indonesia wins as Apple considers manufacturing iPhones there](https://appleinsider.com/articles/25/02/12/indonesia-wins-as-apple-considers-manufacturing-iphones-there?utm_medium=rss)
+ - [How to Get PFAS Out of Drinking Water—and Keep It Out](https://www.wired.com/story/how-to-get-pfas-out-of-drinking-water-and-keep-it-out/)
+ - [Q&amp;A with Binance CEO Richard Teng on Changpeng Zhao remaining the exchange&#39;s biggest shareholder, evolving Binance, external oversight, finding an HQ, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/250212/p14#a250212p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
