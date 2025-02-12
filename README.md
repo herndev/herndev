@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOGE accessing Treasury systems and classified data breaks fundamental security principles and could help the US&#39; adversaries steal data and install backdoors &lpar;Foreign Policy&rpar;](http://www.techmeme.com/250212/p22#a250212p22)
- - [Former Palantir and Elon Musk Associates Are Taking Over Key Government IT Roles](https://www.wired.com/story/elon-musk-palantir-chief-information-officers-government/)
- - [Apple aims to get technology helping with all health issues](https://appleinsider.com/articles/25/02/12/apple-aims-to-get-technology-helping-with-all-health-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Trump nominates Apple exec Jonathan Morrison to the NHTSA; Morrison was NHTSA chief counsel in Trump&#39;s first term and informed Tesla of inaccurate safety claims &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250212/p27#a250212p27)
+ - [Trump picks Apple Car lawyer for highway safety role](https://appleinsider.com/articles/25/02/12/trump-picks-apple-car-lawyer-for-highway-safety-role?utm_medium=rss)
+ - [Apple&#39;s new research study is the most ambitious one yet](https://appleinsider.com/articles/25/02/12/apple-aims-to-get-technology-helping-with-all-health-issues?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
