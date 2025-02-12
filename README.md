@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MyFitnessPal enlists the help of AI to cook up personalized meal plans for you](https://www.androidauthority.com/myfitnesspal-acquires-intent-3525696/)
- - [Apple releases an Apple TV app for Android phones and tablets, limited to Apple TV+, MLS Season Pass, and MLB Friday Night Baseball; it doesn&#39;t support casting &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250212/p36#a250212p36)
- - [Apple TV Plus is finally available on all your Android screens](https://www.androidauthority.com/apple-tv-plus-android-app-3525620/)<!-- TECH:END -->
+ - [Apple TV app featuring Apple TV+ has arrived on Android phones &amp; tablets](https://appleinsider.com/articles/25/02/12/apple-tv-is-coming-to-android-phones-very-soon?utm_medium=rss)
+ - [Cisco reports Q2 revenue up 9% YoY to $13.99B, vs. $13.87B est., net income down 8% to $2.43B, and FY 2025 guidance above estimates; CSCO jumps 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250212/p39#a250212p39)
+ - [Robinhood reports Q4 revenue up 115% YoY to $1.01B, vs. $940.8M est., crypto transaction revenue up 700%+ to $358M, above est.; HOOD jumps 10%+ after hours &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250212/p38#a250212p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
