@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In Q4, Meta tweaked its depreciation accounting for AI infrastructure, extending it from 4-5 to 5.5 years, cutting expenses by $2.9B in 2025 and boosting profit &lpar;Jeran Wittenstein/Bloomberg&rpar;](http://www.techmeme.com/250212/p17#a250212p17)
- - [I’ve glimpsed the future of mobile AI and it’ll cost you, unless…](https://www.androidauthority.com/future-ai-subscriptions-3523924/)
- - [Xiaomi Poco X7 Pro Review: Midrange Marvel](https://www.wired.com/review/xiaomi-poco-x7-pro/)<!-- TECH:END -->
+ - [Indian startup Lucidity, which helps enterprises optimize their cloud storage, raised a $21M Series A led by WestBridge, after a $5.3M seed in September 2022 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250212/p18#a250212p18)
+ - [13 Best Bookshelf Speakers &lpar;2025&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 12&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-12-2025-3524614/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
