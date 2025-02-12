@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says GPT-5 will include o3, which will no longer be offered as a standalone model, GPT-4.5 will be OpenAI&#39;s last non-chain-of-thought model, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p35#a250212p35)
- - [OPENAI ROADMAP UPDATE FOR GPT-4.5 and GPT-5: We want to do a better job of sharing our intended roadmap, and a much better job simplifying our product offerings. We want AI to &quot;just work&quot; for you; we realize how complicated our model and product offerings have gotten. We hate &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250212/p34#a250212p34)
- - [Best 75-Inch TV in 2025](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MyFitnessPal enlists the help of AI to cook up personalized meal plans for you](https://www.androidauthority.com/myfitnesspal-acquires-intent-3525696/)
+ - [Apple releases an Apple TV app for Android phones and tablets, limited to Apple TV+, MLS Season Pass, and MLB Friday Night Baseball; it doesn&#39;t support casting &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250212/p36#a250212p36)
+ - [Apple TV Plus is finally available on all your Android screens](https://www.androidauthority.com/apple-tv-plus-android-app-3525620/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
