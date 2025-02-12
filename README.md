@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reno, Nevada-based Positron, which sells AI chips intended for inference and manufactured in Arizona, raised a $23.5M seed from Flume, Valor Equity, and others &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250211/p41#a250211p41)
  - [Internal message: Shopify&#39;s general council said Ye&#39;s store was banned because the swastika shirt listed for sale &quot;brought with it the real risk of fraud&quot; &lpar;The Logic&rpar;](http://www.techmeme.com/250211/p40#a250211p40)
- - [Source: Apple and Alibaba submitted their co-developed AI features for approval by China&#39;s cyberspace regulator; Apple considered but rejected Deepseek&#39;s models &lpar;The Information&rpar;](http://www.techmeme.com/250211/p39#a250211p39)
- - [It’s official: the Gulf of Mexico is now the Gulf of America in Google Maps &lpar;Update: Apple Maps, too&rpar;](https://www.androidauthority.com/google-maps-gulf-of-america-name-change-3524991/)<!-- TECH:END -->
+ - [Source: Apple and Alibaba submitted their co-developed AI features for approval by China&#39;s cyberspace regulator; Apple considered but rejected Deepseek&#39;s models &lpar;The Information&rpar;](http://www.techmeme.com/250211/p39#a250211p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
