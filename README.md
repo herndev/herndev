@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how much it costs to fix the screen on your Galaxy S25 phone](https://www.androidauthority.com/samsung-galaxy-s25-screen-repair-costs-3525366/)
  - [Researcher Johann Rehberger shows a hack to override Gemini&#39;s prompt injection defenses, letting long-term memories be permanently planted for future sessions &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250212/p11#a250212p11)
- - [Document: President Trump plans to nominate ex-RNC executive Sean Cairncross as national cyber director, his administration&#39;s first major cybersecurity pick &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250212/p10#a250212p10)
- - [SoftBank posts a surprise Q3 net loss of ~$2.4B on ~$12.04B revenue, vs. $12.1B est., as the Vision Fund, after two profitable quarters, reports a ~$2.04B loss &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250212/p9#a250212p9)<!-- TECH:END -->
+ - [Document: President Trump plans to nominate ex-RNC executive Sean Cairncross as national cyber director, his administration&#39;s first major cybersecurity pick &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250212/p10#a250212p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
