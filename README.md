@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm’s latest chip is a huge CPU and GPU upgrade for popular phones](https://www.androidauthority.com/qualcomm-snapdragon-6-gen-4-3525290/)
- - [Therabody Promo Codes: 10% Off | February 2025](https://www.wired.com/story/therabody-promo-code/)
- - [Dyson Promo Codes: 20% Off | February 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [SoftBank posts a surprise Q3 net loss of ~$2.4B on ~$12.04B revenue, vs. $12.1B est., as the Vision Fund, after two profitable quarters, reports a ~$2.04B loss &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250212/p9#a250212p9)
+ - [Galaxy S25 Ultra’s S Pen struggles with magnetic accessories &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/samsung-galaxy-s-25-ultra-s-pen-magnetic-interference-3524859/)
+ - [NATO Innovation Fund and Dealroom: investments in EU defense tech and related startups rose 24% in 2024 to $5.2B, outpacing AI VC growth in the past two years &lpar;Financial Times&rpar;](http://www.techmeme.com/250212/p8#a250212p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
