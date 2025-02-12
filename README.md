@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump nominates Apple exec Jonathan Morrison to the NHTSA; Morrison was NHTSA chief counsel in Trump&#39;s first term and informed Tesla of inaccurate safety claims &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250212/p27#a250212p27)
- - [Trump picks Apple Car lawyer for highway safety role](https://appleinsider.com/articles/25/02/12/trump-picks-apple-car-lawyer-for-highway-safety-role?utm_medium=rss)
- - [Apple&#39;s new research study is the most ambitious one yet](https://appleinsider.com/articles/25/02/12/apple-aims-to-get-technology-helping-with-all-health-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy S25 Ultra drop test shatters expectations of Gorilla Armor 2’s enhanced protection](https://www.androidauthority.com/galaxy-s25-ultra-drop-test-allstate-3525515/)
+ - [How YouTube and Pixel Recorder accidentally made it possible to expose your Google email](https://www.androidauthority.com/youtube-pixel-recorder-exploit-google-email-addresses-3525542/)
+ - [Samsung Galaxy S25 problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-s25-problems-3524533/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
