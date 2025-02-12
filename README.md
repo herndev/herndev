@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at ACTS 17, a nonprofit devoted to introducing Christianity to technologists by inviting Peter Thiel and other tech executives to talk about their faith &lpar;Emma Goldberg/New York Times&rpar;](http://www.techmeme.com/250211/p45#a250211p45)
- - [Deal: At just $799, the Apple MacBook Air M2 could be the best laptop for most](https://www.androidauthority.com/apple-macbook-air-m2-deal-10-3525211/)
- - [Andesite, which combines human expertise and AI in its security operations center platform, raised an additional $23M seed, taking its total funding to $38.25M &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250211/p44#a250211p44)<!-- TECH:END -->
+ - [Miami-based Moderne, which helps companies analyze their software stack and remediate technical debt, raised a $30M Series B led by Acrew Capital &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250211/p47#a250211p47)
+ - [Dozens of CFPB Workers Fired in After-Hours Blitz](https://www.wired.com/story/dozens-of-cfpb-workers-terminated-in-after-hours-firing-blitz/)
+ - [Apple Vision Pro, iPhone SE 4, &amp; smaller announcements in coming days](https://appleinsider.com/articles/25/02/12/apple-vision-pro-iphone-se-4-smaller-announcements-in-coming-days?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
