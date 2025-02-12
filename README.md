@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian startup Lucidity, which helps enterprises optimize their cloud storage, raised a $21M Series A led by WestBridge, after a $5.3M seed in September 2022 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250212/p18#a250212p18)
- - [13 Best Bookshelf Speakers &lpar;2025&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 12&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-12-2025-3524614/)<!-- TECH:END -->
+ - [DOGE accessing Treasury systems and classified data breaks fundamental security principles and could help the US&#39; adversaries steal data and install backdoors &lpar;Foreign Policy&rpar;](http://www.techmeme.com/250212/p22#a250212p22)
+ - [Former Palantir and Elon Musk Associates Are Taking Over Key Government IT Roles](https://www.wired.com/story/elon-musk-palantir-chief-information-officers-government/)
+ - [Apple aims to get technology helping with all health issues](https://appleinsider.com/articles/25/02/12/apple-aims-to-get-technology-helping-with-all-health-issues?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
