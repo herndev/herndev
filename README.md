@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 Ultra drop test shatters expectations of Gorilla Armor 2’s enhanced protection](https://www.androidauthority.com/galaxy-s25-ultra-drop-test-allstate-3525515/)
- - [How YouTube and Pixel Recorder accidentally made it possible to expose your Google email](https://www.androidauthority.com/youtube-pixel-recorder-exploit-google-email-addresses-3525542/)
- - [Samsung Galaxy S25 problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-s25-problems-3524533/)<!-- TECH:END -->
+ - [Apple may be trying to jump-start lackluster Apple Vision Pro sales](https://appleinsider.com/articles/25/02/12/apple-may-be-trying-to-jump-start-lackluster-apple-vision-pro-sales?utm_medium=rss)
+ - [8 Best Slippers, Tested and Loved by WIRED Staffers &lpar;2025&rpar;](https://www.wired.com/gallery/best-slippers/)
+ - [iPhone owners are replacing their devices faster than before](https://appleinsider.com/articles/25/02/12/iphone-owners-are-replacing-their-devices-faster-than-before?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
