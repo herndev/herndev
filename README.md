@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how much it costs to fix the screen on your Galaxy S25 phone](https://www.androidauthority.com/samsung-galaxy-s25-screen-repair-costs-3525366/)
- - [Researcher Johann Rehberger shows a hack to override Gemini&#39;s prompt injection defenses, letting long-term memories be permanently planted for future sessions &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250212/p11#a250212p11)
- - [Document: President Trump plans to nominate ex-RNC executive Sean Cairncross as national cyber director, his administration&#39;s first major cybersecurity pick &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250212/p10#a250212p10)<!-- TECH:END -->
+ - [Analysis of credit and debit card data: Shein&#39;s US sales fell 16% to 41% for five days from February 5 and Temu fell up to 32% after Trump targets China trade &lpar;Bloomberg&rpar;](http://www.techmeme.com/250212/p12#a250212p12)
+ - [Google Photos wants to replace prints lost in the LA fires, free of charge](https://www.androidauthority.com/google-photos-prints-fire-3525256/)
+ - [The Sooner You Lock in Your APY, the More You Could Earn. Today&#39;s CD Rates, Feb. 12, 2025](https://www.cnet.com/personal-finance/banking/the-sooner-you-lock-in-your-apy-the-more-you-could-earn-todays-cd-rates-feb-12-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
