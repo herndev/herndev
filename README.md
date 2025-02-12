@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia wins as Apple considers manufacturing iPhones there](https://appleinsider.com/articles/25/02/12/indonesia-wins-as-apple-considers-manufacturing-iphones-there?utm_medium=rss)
- - [How to Get PFAS Out of Drinking Water—and Keep It Out](https://www.wired.com/story/how-to-get-pfas-out-of-drinking-water-and-keep-it-out/)
- - [Q&amp;A with Binance CEO Richard Teng on Changpeng Zhao remaining the exchange&#39;s biggest shareholder, evolving Binance, external oversight, finding an HQ, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/250212/p14#a250212p14)<!-- TECH:END -->
+ - [In Q4, Meta tweaked its depreciation accounting for AI infrastructure, extending it from 4-5 to 5.5 years, cutting expenses by $2.9B in 2025 and boosting profit &lpar;Jeran Wittenstein/Bloomberg&rpar;](http://www.techmeme.com/250212/p17#a250212p17)
+ - [I’ve glimpsed the future of mobile AI and it’ll cost you, unless…](https://www.androidauthority.com/future-ai-subscriptions-3523924/)
+ - [Xiaomi Poco X7 Pro Review: Midrange Marvel](https://www.wired.com/review/xiaomi-poco-x7-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
