@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel’s Video Boost feature is getting an upgrade — For better or worse?](https://www.androidauthority.com/pixel-video-boost-automatic-update-3525292/)
- - [US chip startup Groq says it has secured a $1.5B commitment from Saudi Arabia to expand the delivery of its AI chips to the country over the course of this year &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250212/p2#a250212p2)
- - [A White House document sent to Capitol Hill shows President Trump plans to nominate Brian Quintenz, a16z Crypto&#39;s head of policy, to lead the CFTC &lpar;Bloomberg&rpar;](http://www.techmeme.com/250212/p1#a250212p1)<!-- TECH:END -->
+ - [Qualcomm’s latest chip is a huge CPU and GPU upgrade for popular phones](https://www.androidauthority.com/qualcomm-snapdragon-6-gen-4-3525290/)
+ - [Therabody Promo Codes: 10% Off | February 2025](https://www.wired.com/story/therabody-promo-code/)
+ - [Dyson Promo Codes: 20% Off | February 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
