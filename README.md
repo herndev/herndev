@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank posts a surprise Q3 net loss of ~$2.4B on ~$12.04B revenue, vs. $12.1B est., as the Vision Fund, after two profitable quarters, reports a ~$2.04B loss &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250212/p9#a250212p9)
- - [Galaxy S25 Ultra’s S Pen struggles with magnetic accessories &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/samsung-galaxy-s-25-ultra-s-pen-magnetic-interference-3524859/)
- - [NATO Innovation Fund and Dealroom: investments in EU defense tech and related startups rose 24% in 2024 to $5.2B, outpacing AI VC growth in the past two years &lpar;Financial Times&rpar;](http://www.techmeme.com/250212/p8#a250212p8)<!-- TECH:END -->
+ - [Researcher Johann Rehberger shows a hack to override Gemini&#39;s prompt injection defenses, letting long-term memories be permanently planted for future sessions &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250212/p11#a250212p11)
+ - [Document: President Trump plans to nominate ex-RNC executive Sean Cairncross as national cyber director, his administration&#39;s first major cybersecurity pick &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250212/p10#a250212p10)
+ - [SoftBank posts a surprise Q3 net loss of ~$2.4B on ~$12.04B revenue, vs. $12.1B est., as the Vision Fund, after two profitable quarters, reports a ~$2.04B loss &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250212/p9#a250212p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
