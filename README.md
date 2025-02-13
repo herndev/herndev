@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Advanced can now recall your past chats, to help it behave more like a real assistant](https://www.androidauthority.com/gemini-advanced-recall-past-chats-3526151/)
- - [Roku reports Q4 revenue up 22% YoY to $1.2B, vs. $1.15B est., a net loss of $35.5M, and streaming households up 12% YoY to 89.8M; ROKU jumps 10%+ after hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250213/p38#a250213p38)
- - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)<!-- TECH:END -->
+ - [Coinbase reports Q4 revenue up 138% YoY to $2.27B, vs. $1.88B est., transaction revenue up 194% to $1.56B, vs. $1.29B est., and trading volume up 185% to $439B &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250213/p39#a250213p39)
+ - [Google Maps is not interested in your Gulf of America complaints](https://www.androidauthority.com/google-maps-gulf-of-america-review-removal-3526126/)
+ - [These Are 25 of the Best TV Shows on Netflix That Won&#39;t Disappoint](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
