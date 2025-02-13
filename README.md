@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waiting for the OnePlus Open 2? We have bad news](https://www.androidauthority.com/oneplus-open-2-not-launching-2025-3525893/)
- - [Samsung’s got a new update to keep the Galaxy S25 and its latest foldables firing on all cylinders](https://www.androidauthority.com/galaxy-s25-february-update-3525876/)
- - [Play Store now warns you that the app you’re looking at might suck](https://www.androidauthority.com/google-play-store-app-quality-warning-3525897/)<!-- TECH:END -->
+ - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)
+ - [Sentia Spirits Review: A Light Buzz Without the Alcohol](https://www.wired.com/review/sentia-spirits-gaba/)
+ - [Tim Cook teases Feb. 19 launch of what is probably the new iPhone SE](https://appleinsider.com/articles/25/02/13/tim-cook-teases-feb-19-launch-of-what-is-probably-the-new-iphone-se?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
