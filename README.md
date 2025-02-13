@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Android widget makes it easier to quickly switch users](https://www.androidauthority.com/android-multiuser-widget-3526110/)
- - [These Impulse Buys Under $25 Are Totally Gift-Worthy](https://www.cnet.com/pictures/impulse-buy-gifts-under-25/#ftag=CAD590a51e)
- - [Android 16 Beta 2 lets you double press the power button to open Google Wallet](https://www.androidauthority.com/android-16-power-button-wallet-3526104/)<!-- TECH:END -->
+ - [Gemini Advanced can now recall your past chats, to help it behave more like a real assistant](https://www.androidauthority.com/gemini-advanced-recall-past-chats-3526151/)
+ - [Roku reports Q4 revenue up 22% YoY to $1.2B, vs. $1.15B est., a net loss of $35.5M, and streaming households up 12% YoY to 89.8M; ROKU jumps 10%+ after hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250213/p38#a250213p38)
+ - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
