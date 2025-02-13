@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 Ultra S Pen teardown reveals tragically unused Bluetooth circuitry](https://www.androidauthority.com/galaxy-s25-ultra-s-pen-unpopulated-circuit-board-3525946/)
- - [Amazon Prime deal: Add Bluetooth to any device for just $14.99](https://www.androidauthority.com/amazon-prime-deal-add-bluetooth-to-any-device-for-just-14-99-3525872/)
- - [US Mobile is delaying arguably the most anticipated feature it has ever announced](https://www.androidauthority.com/us-mobile-multi-network-delay-3525969/)<!-- TECH:END -->
+ - [Spotify breaks its silence on Premium users hearing ads &lpar;Update: Issue fixed&rpar;](https://www.androidauthority.com/spotify-premium-ads-3524922/)
+ - [A Nose-Computer Interface Could Turn Dogs Into Super Detectors](https://www.wired.com/story/nose-computer-interface-dogs-detectors-canaery/)
+ - [Sources: Arm plans to launch its own chip, expected to be a CPU for servers in large data centers, this year after securing Meta as one of its first customers &lpar;Financial Times&rpar;](http://www.techmeme.com/250213/p34#a250213p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
