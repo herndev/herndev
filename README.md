@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now this is a good deal: Apple MacBook Air M2 drops to just $749](https://www.androidauthority.com/now-this-is-a-good-deal-apple-macbook-air-m2-drops-to-just-749-3525874/)
- - [PlayStation&#39;s State of Play event showed that Microsoft might publish more PS5 games in 2025 than Sony does, even as Xbox hardware sales continue to decline &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250213/p25#a250213p25)
- - [Best Laptop Backpacks We&#39;ve Tried and Tested &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-backpacks-for-work/)<!-- TECH:END -->
+ - [Waiting for the OnePlus Open 2? We have bad news](https://www.androidauthority.com/oneplus-open-2-not-launching-2025-3525893/)
+ - [Samsung’s got a new update to keep the Galaxy S25 and its latest foldables firing on all cylinders](https://www.androidauthority.com/galaxy-s25-february-update-3525876/)
+ - [Play Store now warns you that the app you’re looking at might suck](https://www.androidauthority.com/google-play-store-app-quality-warning-3525897/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
