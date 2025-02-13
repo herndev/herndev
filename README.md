@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Updated Apple Studio Display with miniLED, ProMotion expected in late 2025](https://appleinsider.com/articles/25/02/13/updated-apple-studio-display-with-miniled-promotion-expected-in-late-2025?utm_medium=rss)
- - [Best Internet Providers in Cleveland, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cleveland-oh/#ftag=CAD590a51e)
- - [Slow Ventures raised $60M+ for a fund to invest in creators who are authorities on niche areas like automotive; the fund appears to be the first of its kind &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250213/p35#a250213p35)<!-- TECH:END -->
+ - [This new Android widget makes it easier to quickly switch users](https://www.androidauthority.com/android-multiuser-widget-3526110/)
+ - [These Impulse Buys Under $25 Are Totally Gift-Worthy](https://www.cnet.com/pictures/impulse-buy-gifts-under-25/#ftag=CAD590a51e)
+ - [Android 16 Beta 2 lets you double press the power button to open Google Wallet](https://www.androidauthority.com/android-16-power-button-wallet-3526104/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
