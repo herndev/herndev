@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOGE Has Started Gutting a Key US Technology Agency](https://www.wired.com/story/doge-tts-fired/)
- - [AppLovin reports Q4 revenue up 44% YoY to $1.37B, vs. $1.26B est., net income up 248%, ad revenue up 73%, and Q1 guidance above est.; APP jumps 27%+ after hours &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250212/p42#a250212p42)
- - [Deal: The Amazon Echo is 35% off, but only in Twilight Blue](https://www.androidauthority.com/amazon-echo-deal-2-3525709/)<!-- TECH:END -->
+ - [OpenAI plans to offer free ChatGPT users unlimited access to GPT-5 at the &quot;standard intelligence&quot; level, with access to higher levels for Plus and Pro users &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250212/p44#a250212p44)
+ - [Apple is once again advertising on X, more than a year after stopping all ads on the platform](https://appleinsider.com/articles/25/02/13/apple-is-once-again-advertising-on-x-more-than-a-year-after-stopping-all-ads-on-the-platform?utm_medium=rss)
+ - [May 12, 2024 Was the Toughest, Brain-Bustingest Connections Puzzle Ever](https://www.cnet.com/tech/gaming/may-12-2024-was-the-toughest-brain-bustingest-connections-puzzle-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
