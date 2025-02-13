@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple continues to work with Baidu to develop AI search and Siri features for iPhone users in China even after onboarding new partner Alibaba &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250213/p23#a250213p23)
- - [Meta says it will let classified ad firms in Europe pay to place their listings on Facebook Marketplace, after a pilot with eBay, following the EU&#39;s &amp;euro;798M fine &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250213/p22#a250213p22)
- - [17 Best Deals on Valentine’s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/valentines-day-deals-2025/)<!-- TECH:END -->
+ - [Now this is a good deal: Apple MacBook Air M2 drops to just $749](https://www.androidauthority.com/now-this-is-a-good-deal-apple-macbook-air-m2-drops-to-just-749-3525874/)
+ - [PlayStation&#39;s State of Play event showed that Microsoft might publish more PS5 games in 2025 than Sony does, even as Xbox hardware sales continue to decline &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250213/p25#a250213p25)
+ - [Best Laptop Backpacks We&#39;ve Tried and Tested &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-backpacks-for-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
