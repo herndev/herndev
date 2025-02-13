@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages can now double as your Notes app, thanks to this RCS feature](https://www.androidauthority.com/google-messages-send-rcs-messages-to-yourself-3525796/)
- - [Best Internet Providers in Allen, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-allen-tx/#ftag=CAD590a51e)
- - [Sony reports Q3 revenue up 18% YoY to $28.6B, operating income up 1% YoY to $3.05B, and gaming revenue up 16% YoY to $10.92B, driven by strong PS5 sales &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/250213/p12#a250213p12)<!-- TECH:END -->
+ - [Sony reports PlayStation 5 sales in Q3 were 9.5M, the best quarter since its launch, and hits 75M total PS5 sales; MAUs across its platform rose 43% YoY to 129M &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/250213/p15#a250213p15)
+ - [China to get finally Apple Intelligence as Alibaba deal is confirmed](https://appleinsider.com/articles/25/02/13/china-to-get-finally-apple-intelligence-as-alibaba-deal-is-confirmed?utm_medium=rss)
+ - [Elon Musk and right-wing influencers redefine &quot;doxxing&quot; to include reporting on government employees; free speech advocates say they aim to intimidate the press &lpar;Ken Bensinger/New York Times&rpar;](http://www.techmeme.com/250213/p14#a250213p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
