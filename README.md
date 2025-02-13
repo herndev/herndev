@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify breaks its silence on Premium users hearing ads &lpar;Update: Issue fixed&rpar;](https://www.androidauthority.com/spotify-premium-ads-3524922/)
- - [A Nose-Computer Interface Could Turn Dogs Into Super Detectors](https://www.wired.com/story/nose-computer-interface-dogs-detectors-canaery/)
- - [Sources: Arm plans to launch its own chip, expected to be a CPU for servers in large data centers, this year after securing Meta as one of its first customers &lpar;Financial Times&rpar;](http://www.techmeme.com/250213/p34#a250213p34)<!-- TECH:END -->
+ - [Updated Apple Studio Display with miniLED, ProMotion expected in late 2025](https://appleinsider.com/articles/25/02/13/updated-apple-studio-display-with-miniled-promotion-expected-in-late-2025?utm_medium=rss)
+ - [Best Internet Providers in Cleveland, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cleveland-oh/#ftag=CAD590a51e)
+ - [Slow Ventures raised $60M+ for a fund to invest in creators who are authorities on niche areas like automotive; the fund appears to be the first of its kind &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250213/p35#a250213p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
