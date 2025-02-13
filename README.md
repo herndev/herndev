@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)
- - [Sentia Spirits Review: A Light Buzz Without the Alcohol](https://www.wired.com/review/sentia-spirits-gaba/)
- - [Tim Cook teases Feb. 19 launch of what is probably the new iPhone SE](https://appleinsider.com/articles/25/02/13/tim-cook-teases-feb-19-launch-of-what-is-probably-the-new-iphone-se?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy S25 Ultra S Pen teardown reveals tragically unused Bluetooth circuitry](https://www.androidauthority.com/galaxy-s25-ultra-s-pen-unpopulated-circuit-board-3525946/)
+ - [Amazon Prime deal: Add Bluetooth to any device for just $14.99](https://www.androidauthority.com/amazon-prime-deal-add-bluetooth-to-any-device-for-just-14-99-3525872/)
+ - [US Mobile is delaying arguably the most anticipated feature it has ever announced](https://www.androidauthority.com/us-mobile-multi-network-delay-3525969/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
