@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Malaysia plans to roll out Google AI tools to 445,000 civil servants to help modernize public services and improve efficiency across government agencies &lpar;Norman Goh/Nikkei Asia&rpar;](http://www.techmeme.com/250213/p2#a250213p2)
- - [London- and SF-based Latent Labs, which is building AI foundation models to &quot;make biology programmable&quot;, emerges from stealth with $50M across seed and Series A &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250213/p1#a250213p1)
- - [China’s Salt Typhoon Spies Are Still Hacking Telecoms—Now by Exploiting Cisco Routers](https://www.wired.com/story/chinas-salt-typhoon-spies-are-still-hacking-telecoms-now-by-exploiting-cisco-routers/)<!-- TECH:END -->
+ - [Drata, which uses automation to help companies adhere to compliance frameworks, agrees to buy SafeBase, which automates security reviews, sources say for $250M &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/250213/p7#a250213p7)
+ - [Sources: US PE firms have invested in data centers serving ByteDance as a tenant, some without knowing if ByteDance is using the sites to access Nvidia&#39;s chips &lpar;Financial Times&rpar;](http://www.techmeme.com/250213/p6#a250213p6)
+ - [Candid Health, which helps simplify medical billing by automating claims processing and eliminating manual work for billing teams, raised a $52.5M Series C &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250213/p5#a250213p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
