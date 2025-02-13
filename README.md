@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple resumes advertising on X for the first time since November 2023, when it halted ads due to Elon Musk&#39;s comments; @Apple is running a Safari privacy promo &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/250213/p17#a250213p17)
- - [Where’s the Galaxy S25 Edge? Leak suggests it could be coming this soon](https://www.androidauthority.com/samsung-galaxy-s25-edge-price-availability-leak-3525820/)
- - [Dominion Energy says data center power demand in Virginia, home to Data Center Alley, almost doubled in H2 2024, rising to 40.2 gigawatts in December 2024 &lpar;Josh Saul/Bloomberg&rpar;](http://www.techmeme.com/250213/p16#a250213p16)<!-- TECH:END -->
+ - [iPhone 17 Pro Max&#39;s Dynamic Island rumored to be the smallest yet](https://appleinsider.com/articles/25/02/13/iphone-17-pro-maxs-dynamic-island-rumored-to-be-the-smallest-yet?utm_medium=rss)
+ - [This is the feature I want to see on my Google Pixel Watch](https://www.androidauthority.com/feature-i-want-google-pixel-watch-3524719/)
+ - [Sen. Ron Wyden and Rep. Andy Biggs write to National Intelligence Director Tulsi Gabbard asking her to demand the UK retract its back door request to Apple &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250213/p20#a250213p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
