@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports PlayStation 5 sales in Q3 were 9.5M, the best quarter since its launch, and hits 75M total PS5 sales; MAUs across its platform rose 43% YoY to 129M &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/250213/p15#a250213p15)
- - [China to get finally Apple Intelligence as Alibaba deal is confirmed](https://appleinsider.com/articles/25/02/13/china-to-get-finally-apple-intelligence-as-alibaba-deal-is-confirmed?utm_medium=rss)
- - [Elon Musk and right-wing influencers redefine &quot;doxxing&quot; to include reporting on government employees; free speech advocates say they aim to intimidate the press &lpar;Ken Bensinger/New York Times&rpar;](http://www.techmeme.com/250213/p14#a250213p14)<!-- TECH:END -->
+ - [Apple resumes advertising on X for the first time since November 2023, when it halted ads due to Elon Musk&#39;s comments; @Apple is running a Safari privacy promo &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/250213/p17#a250213p17)
+ - [Where’s the Galaxy S25 Edge? Leak suggests it could be coming this soon](https://www.androidauthority.com/samsung-galaxy-s25-edge-price-availability-leak-3525820/)
+ - [Dominion Energy says data center power demand in Virginia, home to Data Center Alley, almost doubled in H2 2024, rising to 40.2 gigawatts in December 2024 &lpar;Josh Saul/Bloomberg&rpar;](http://www.techmeme.com/250213/p16#a250213p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
