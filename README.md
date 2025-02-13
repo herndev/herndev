@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: X has agreed to pay ~$10M to settle Trump&#39;s 2021 lawsuit against Twitter and then-CEO Jack Dorsey over the ban on his accounts after the January 6 riot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250212/p41#a250212p41)
- - [OpenAI updates its Model Spec, which defines how its AI models should behave, emphasizing &quot;customizability, transparency, and intellectual freedom&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250212/p40#a250212p40)
- - [Scarlett Johansson Urges AI Guardrails After She&#39;s Shown in Fake Anti-Ye Video](https://www.cnet.com/tech/services-and-software/scarlett-johansson-urges-ai-guardrails-after-shes-shown-in-fake-anti-ye-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DOGE Has Started Gutting a Key US Technology Agency](https://www.wired.com/story/doge-tts-fired/)
+ - [AppLovin reports Q4 revenue up 44% YoY to $1.37B, vs. $1.26B est., net income up 248%, ad revenue up 73%, and Q1 guidance above est.; APP jumps 27%+ after hours &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250212/p42#a250212p42)
+ - [Deal: The Amazon Echo is 35% off, but only in Twilight Blue](https://www.androidauthority.com/amazon-echo-deal-2-3525709/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
