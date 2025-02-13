@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drata, which uses automation to help companies adhere to compliance frameworks, agrees to buy SafeBase, which automates security reviews, sources say for $250M &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/250213/p7#a250213p7)
- - [Sources: US PE firms have invested in data centers serving ByteDance as a tenant, some without knowing if ByteDance is using the sites to access Nvidia&#39;s chips &lpar;Financial Times&rpar;](http://www.techmeme.com/250213/p6#a250213p6)
- - [Candid Health, which helps simplify medical billing by automating claims processing and eliminating manual work for billing teams, raised a $52.5M Series C &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250213/p5#a250213p5)<!-- TECH:END -->
+ - [DeepSeek signals India&#39;s last chance to back foundational tech via state-funded research, as its private sector remains too risk-averse to lead AI innovation &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/250213/p11#a250213p11)
+ - [SoftBank-backed P2P vehicle sharing service Getaround is shutting down US operations, including HyreCar, to focus on Europe, where it operates in six countries &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250213/p10#a250213p10)
+ - [At the World Government Summit in Dubai, Alibaba Chairman Joe Tsai said Apple will use the Chinese tech giant&#39;s AI technology on iPhones sold in China &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250213/p9#a250213p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
