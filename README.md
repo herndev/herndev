@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports Q3 revenue up 18% YoY to $28.6B, operating income up 1% YoY to $3.05B, and gaming revenue up 16% YoY to $10.92B, driven by strong PS5 sales &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/250213/p12#a250213p12)
- - [DeepSeek signals India&#39;s last chance to back foundational tech via state-funded research, as its private sector remains too risk-averse to lead AI innovation &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/250213/p11#a250213p11)
- - [SoftBank-backed P2P vehicle sharing service Getaround is shutting down US operations, including HyreCar, to focus on Europe, where it operates in six countries &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250213/p10#a250213p10)<!-- TECH:END -->
+ - [Google Messages can now double as your Notes app, thanks to this RCS feature](https://www.androidauthority.com/google-messages-send-rcs-messages-to-yourself-3525796/)
+ - [Best Internet Providers in Allen, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-allen-tx/#ftag=CAD590a51e)
+ - [Sony reports Q3 revenue up 18% YoY to $28.6B, operating income up 1% YoY to $3.05B, and gaming revenue up 16% YoY to $10.92B, driven by strong PS5 sales &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/250213/p12#a250213p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
