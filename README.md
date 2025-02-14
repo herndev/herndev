@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Microsoft Outlook&amp;#8217;s new minimize button makes mobile emails much easier](https://www.theverge.com/news/612853/microsoft-outlook-mobile-minimize-button-email-drafts)
- - [Open source code repository says &amp;#8216;far-right forces&amp;#8217; are behind massive spam attacks](https://www.theverge.com/news/612857/codeberg-open-source-code-far-right-forces-spam)<!-- TECH:END -->
+ - [Apple TV app finally starts including Netflix series](https://appleinsider.com/articles/25/02/14/apple-tv-app-finally-starts-including-netflix-series?utm_medium=rss)
+ - [OnePlus’ iconic alert slider may give way to a more versatile button, and this is what it could do](https://www.androidauthority.com/oneplus-action-button-features-3526366/)
+ - [Retroid just announced another Nintendo DS-inspired gaming handheld](https://www.androidauthority.com/retroid-flip-2-announcement-3526369/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
