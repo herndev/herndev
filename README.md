@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [H&amp;R Block Coupons and Deals: 25% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
- - [London-based OneID, which provides bank-verified digital ID services, raised &amp;pound;16M led by ACF Investors, with participation from over 200 angel investors &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250214/p2#a250214p2)<!-- TECH:END -->
+ - [Nexus 6P or Mi 11 Ultra? You decide what the iPhone 17 Pro looks like in these new renders](https://www.androidauthority.com/iphone-17-pro-leaked-render-fpt-3526307/)
+ - [YouTube TV might lose Paramount content &lpar;Update: Short-term extension&rpar;](https://www.androidauthority.com/youtube-tv-might-lose-paramount-content-3525848/)
+ - [Sources: Shein&#39;s UK IPO may be delayed to H2 2025 after President Trump&#39;s tariff crackdown; Shein had told investors a London IPO could happen by Easter &lpar;Financial Times&rpar;](http://www.techmeme.com/250214/p3#a250214p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
