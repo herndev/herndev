@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft says its revenue for the nine months ending December 31, 2024 fell 31.4% YoY to &amp;euro;990M, with net booking down 34.8% to &amp;euro;944M, but is optimistic about Q4 &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](http://www.techmeme.com/250214/p10#a250214p10)
- - [UK recasting its AI Safety Institute as AI Security Institute, with bias concerns cut out, came after JD Vance&#39;s speech criticizing &quot;hand-wringing about safety&quot; &lpar;Tom Bristow/Politico&rpar;](http://www.techmeme.com/250214/p9#a250214p9)
- - [Elon Musk: agent of chaos](https://www.theverge.com/the-vergecast/612923/elon-musk-doge-openai-vergecast)<!-- TECH:END -->
+ - [Yellowjackets continues to stretch itself thin in season 3](https://www.theverge.com/tv-reviews/612900/yellowjackets-season-3-review)
+ - [M4 MacBook Air: What the rumors say to expect from the first new Mac of 2025](https://appleinsider.com/articles/25/02/14/m4-macbook-air-what-the-rumors-say-to-expect-from-the-first-new-mac-of-2025?utm_medium=rss)
+ - [Twelve South TimePorter review: An elegant wall mount to display your growing collection of Apple Watch bands](https://appleinsider.com/articles/25/02/14/twelve-south-timeporter-review-an-elegant-wall-mount-to-display-your-growing-collection-of-apple-watch-bands?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
