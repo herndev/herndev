@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The making of Severance’s incredibly unsettling John Turturro melon head](https://www.polygon.com/tv/523309/severance-watermelon-head-fruit-irving-john-turturro)
- - [Dev recalls working with David Bowie on Omikron, and the artist&#39;s madcap scheme to buy up a load of old satellites and &#39;relaunch Ziggy Stardust from space&#39;](https://www.pcgamer.com/games/dev-recalls-working-with-david-bowie-on-omikron-and-the-artists-madcap-scheme-to-buy-up-a-load-of-old-satellites-and-relaunch-ziggy-stardust-from-space/)
- - [The Cult Classic Shmup X-Out Surfaces Back after Slumbering in the Depths for 35 Years](https://news.xbox.com/en-us/2025/02/14/the-cult-classic-shmup-x-out-surfaces-back-after-slumbering-in-the-depths-for-35-years/)<!-- GAME:END -->
+ - [How to complete the ‘Dyadic Ascension’ quest in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/522569/dyadic-ascension-moment-clarity-taken-osseous-fragment-locations)
+ - [Treat your rear this year with deals on gaming chairs and other Secretlab essentials](https://www.polygon.com/sales-guide/524188/secretlab-gaming-chair-desk-presidents-day-deal)
+ - [How To Unlock The Best Metal Slug Tactics Weapon Mods](https://kotaku.com/metal-slug-tactics-weapons-mods-best-unlock-1851763970)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
