@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Trump administration adds anti-trans notices to restored websites](https://www.theverge.com/news/613308/trump-transgender-notice-restored-webpages-cdc-fda)
- - [Google deactivates an Android feature that crowdsources device sensor data to provide earthquake warnings in Brazil after mistakenly sending notifications &lpar;Taylor Kerns/Android Police&rpar;](http://www.techmeme.com/250214/p25#a250214p25)<!-- TECH:END -->
+ - [Amazon’s killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)
+ - [US Judge Extends Order to Block DOGE From Treasury Department Data](https://www.wired.com/story/doge-treasury-department-data-access-denied/)
+ - [Android 16 will fight scammers by blocking certain features during phone calls &lpar;Update: Demo&rpar;](https://www.androidauthority.com/android-16-phone-call-protections-3526068/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
