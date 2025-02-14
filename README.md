@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Loss of attraction: I tried using MagSafe accessories with the Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-magsafe-tested-3525677/)
- - [Elden Ring Nightreign&amp;#8217;s director isn&amp;#8217;t sorry about how stressful it is](https://www.theverge.com/games/612715/elden-ring-nightreign-game-director-interview)
- - [Open-source code repository says &amp;#8216;far-right forces&amp;#8217; are behind massive spam attacks](https://www.theverge.com/news/612857/codeberg-open-source-code-far-right-forces-spam)<!-- TECH:END -->
+ - [Ubisoft says its revenue for the nine months ending December 31, 2024 fell 31.4% YoY to &amp;euro;990M, with net booking down 34.8% to &amp;euro;944M, but is optimistic about Q4 &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](http://www.techmeme.com/250214/p10#a250214p10)
+ - [UK recasting its AI Safety Institute as AI Security Institute, with bias concerns cut out, came after JD Vance&#39;s speech criticizing &quot;hand-wringing about safety&quot; &lpar;Tom Bristow/Politico&rpar;](http://www.techmeme.com/250214/p9#a250214p9)
+ - [Elon Musk: agent of chaos](https://www.theverge.com/the-vergecast/612923/elon-musk-doge-openai-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
