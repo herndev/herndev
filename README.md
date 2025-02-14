@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost...](http://9gag.com/gag/aD27L9w)
- - ⏩ [She carries weight](http://9gag.com/gag/ae94qxv)
- - 👉 [Stink Leveling](http://9gag.com/gag/aD27r69)<!-- MEMES:END -->
+ - 💣 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
+ - ⏩ [What do you prefer?](http://9gag.com/gag/axyWQ9p)
+ - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
 
 ---
 
