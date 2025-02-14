@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase reports Q4 revenue up 138% YoY to $2.27B, vs. $1.88B est., transaction revenue up 194% to $1.56B, vs. $1.29B est., and trading volume up 185% to $439B &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250213/p39#a250213p39)
- - [Google Maps is not interested in your Gulf of America complaints](https://www.androidauthority.com/google-maps-gulf-of-america-review-removal-3526126/)
- - [These Are 25 of the Best TV Shows on Netflix That Won&#39;t Disappoint](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI removes &quot;warning&quot; messages in ChatGPT that indicated when content might violate its terms of service, to cut down on &quot;gratuitous/unexplainable denials&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250213/p41#a250213p41)
+ - [NHL 4 Nations Face-Off: How to Watch USA vs. Finland Tonight](https://www.cnet.com/tech/services-and-software/nhl-4-nations-face-off-how-to-watch-usa-vs-finland-tonight/#ftag=CAD590a51e)
+ - [Google&#39;s Gemini can now recall and &quot;reference past chats for more tailored help&quot;; the feature is rolling out in English for Advanced subscribers &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250213/p40#a250213p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
