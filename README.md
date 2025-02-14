@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Dell nears a $5B deal to provide servers with Nvidia&#39;s GB200 chips for xAI&#39;s supercomputer project in Memphis &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250214/p21#a250214p21)
- - [DOGE&#39;s Tom Krause, the US Treasury&#39;s new Fiscal Assistant Secretary, is still the CEO of Cloud Software Group; critics say it may be a conflict of interest &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/250214/p20#a250214p20)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Source: xAI is canvassing potential investors, including Sequoia Capital and a16z, for a roughly $10B funding round that would value the company at about $75B &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250214/p24#a250214p24)
+ - [Source: TSMC is considering taking a controlling stake in Intel&#39;s factories at the request of Trump&#39;s team; it is unclear whether Intel is open to a transaction &lpar;Bloomberg&rpar;](http://www.techmeme.com/250214/p23#a250214p23)
+ - [WhatsApp is getting themed chat bubbles](https://www.theverge.com/news/613238/whatsapp-personalized-themes-chats-bubble-colors-wallpapers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
