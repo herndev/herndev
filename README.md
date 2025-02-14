@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Astro Bot wins big at DICE as Indiana Jones takes home 3 awards](https://www.polygon.com/awards/523903/dice-awards-winners-2025-astro-bot)
- - [AMD is finally spilling the beans about the RX 9070 series during a live stream on February 28](https://www.pcgamer.com/hardware/graphics-cards/amd-is-finally-spilling-the-beans-about-the-rx-9070-series-during-a-live-stream-on-february-28/)
- - [All Honkai: Star Rail 3.1 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-3-1-livestream-codes/)<!-- GAME:END -->
+ - [Split Fiction hands-on report](https://blog.playstation.com/2025/02/14/split-fiction-hands-on-report/)
+ - [Elden Ring Nightreign&#39;s First Network Test Isn&#39;t Going Well At All](https://kotaku.com/elden-ring-nightreign-network-test-fromsoftware-ps5-1851763458)
+ - [I finally understand why all those Soulslike bosses hated me so much, thanks to The Dark Queen of Mortholme, which pits you up against some plucky upstart who just keeps coming back](https://www.pcgamer.com/games/rpg/i-finally-understand-why-all-those-soulslike-bosses-hated-me-so-much-thanks-to-the-dark-queen-of-mortholme-which-pits-you-up-against-some-plucky-upstart-who-just-keeps-coming-back/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
