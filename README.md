@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She looks around and sees no Portuguese in Lisbon but only fake male Islamic asylum seekers. Our children will hate us for this](http://9gag.com/gag/aZZn4qW)
- - ⏩ [Life of dairy farmer](http://9gag.com/gag/aKG15Wj)
- - 👉 [What do you prefer?](http://9gag.com/gag/axyWQ9p)<!-- MEMES:END -->
+ - 💣 [Almost...](http://9gag.com/gag/aD27L9w)
+ - ⏩ [She carries weight](http://9gag.com/gag/ae94qxv)
+ - 👉 [Stink Leveling](http://9gag.com/gag/aD27r69)<!-- MEMES:END -->
 
 ---
 
