@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Replay Boys Corrupts a Boy Band Dating Sim with Darkness](https://news.xbox.com/en-us/2025/02/14/how-replay-boys-corrupts-a-boy-band-dating-sim-with-darkness/)
- - [Capcom is again using the likeness of a long-dead actor in Onimusha: Way of the Sword](https://www.polygon.com/gaming/524098/onimusha-way-of-the-sword-toshiro-mifune-capcom)
- - [Dress to Impress codes for February 2025](https://www.polygon.com/dress-to-impess-guides/523846/codes-list-all-active-dti)<!-- GAME:END -->
+ - [The making of Severance’s incredibly unsettling John Turturro melon head](https://www.polygon.com/tv/523309/severance-watermelon-head-fruit-irving-john-turturro)
+ - [Dev recalls working with David Bowie on Omikron, and the artist&#39;s madcap scheme to buy up a load of old satellites and &#39;relaunch Ziggy Stardust from space&#39;](https://www.pcgamer.com/games/dev-recalls-working-with-david-bowie-on-omikron-and-the-artists-madcap-scheme-to-buy-up-a-load-of-old-satellites-and-relaunch-ziggy-stardust-from-space/)
+ - [The Cult Classic Shmup X-Out Surfaces Back after Slumbering in the Depths for 35 Years](https://news.xbox.com/en-us/2025/02/14/the-cult-classic-shmup-x-out-surfaces-back-after-slumbering-in-the-depths-for-35-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
