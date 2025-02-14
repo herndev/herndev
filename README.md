@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You trying to get choke slammed?](http://9gag.com/gag/aXPL1Wv)
- - ⏩ [Relatable](http://9gag.com/gag/aVvgrPn)
- - 👉 [Finally fixed](http://9gag.com/gag/apR1XR8)<!-- MEMES:END -->
+ - 💣 [Michael Jackson only agreed to the super bowl halftime show for one reason: charity. To this day he remains the only artist to use the mega platform NFL Superbowl for this purpose. This was when he commanding the entire stadium to express solidarity with the children of the world](http://9gag.com/gag/aW4pAb4)
+ - ⏩ [Guy swallowed and spitted out by a whale in Chile &lpar;slow motion video&rpar;](http://9gag.com/gag/avyWVWd)
+ - 👉 [O_o](http://9gag.com/gag/apR17BD)<!-- MEMES:END -->
 
 ---
 
