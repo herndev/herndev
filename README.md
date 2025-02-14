@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV app finally starts including Netflix series](https://appleinsider.com/articles/25/02/14/apple-tv-app-finally-starts-including-netflix-series?utm_medium=rss)
- - [OnePlus’ iconic alert slider may give way to a more versatile button, and this is what it could do](https://www.androidauthority.com/oneplus-action-button-features-3526366/)
- - [Retroid just announced another Nintendo DS-inspired gaming handheld](https://www.androidauthority.com/retroid-flip-2-announcement-3526369/)<!-- TECH:END -->
+ - [After the Siri scandal, I went down an iOS and Android privacy rabbit hole](https://www.androidauthority.com/ios-android-privacy-comparison-3524704/)
+ - [Apple&#39;s robot Pixar lamp, iPhone SE 4, and Apple TV+ on Android, on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/14/apples-robot-pixar-lamp-iphone-se-4-and-apple-tv-on-android-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Sources: Mark Zuckerberg&#39;s overtures to President Trump have unsettled employees and are part of an effort to shift antitrust scrutiny off Meta and onto Apple &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250214/p7#a250214p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
