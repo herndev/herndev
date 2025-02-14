@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intimidating Feline Codpiece treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524369/intimidating-feline-codpiece-treasure-map-location-solution-reward)
- - [Woedica&amp;#8217;s Inheritance treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524370/woedicas-inheritance-treasure-map-location-solution-reward)
- - [Epic Has No Plans To Stop Giving Away Free Games After Giving Away $2,229 Worth In 2024](https://kotaku.com/epic-store-free-games-stats-steam-mobile-fortnite-1851764053)<!-- GAME:END -->
+ - [Practical Pockets treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524444/practical-pockets-treasure-map-location-solution-reward)
+ - [Painter’s Regret treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524484/painters-regret-treasure-map-location-solution-reward)
+ - [Earthly Aegis treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524507/earthly-aegis-treasure-map-location-solution-reward)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
