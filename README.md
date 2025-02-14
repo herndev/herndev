@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only every 400 years\u2026.](http://9gag.com/gag/a6ZZeGN)
- - ⏩ [Trump, in less than 3 minutes, negotiates LA mayor from 18 months to tomorrow morning on when residents can return to their properties.](http://9gag.com/gag/aPAAzLQ)
- - 👉 [It worked!](http://9gag.com/gag/aXPPGZP)<!-- MEMES:END -->
+ - 💣 [Tall women](http://9gag.com/gag/a2vMgzZ)
+ - ⏩ [Relatable](http://9gag.com/gag/aVvgrPn)
+ - 👉 [Finally fixed](http://9gag.com/gag/apR1XR8)<!-- MEMES:END -->
 
 ---
 
