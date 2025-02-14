@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fahmi’s Swan Song: Afterlove EP – Life, Love, and Music in Jakarta](https://news.xbox.com/en-us/2025/02/14/afterlove-ep-life-love-and-music-in-jakarta/)
- - [The Switch 2 Shouldn&#39;t Lock Classic Nintendo Games Behind A Subscription Paywall](https://kotaku.com/switch-2-virtual-console-switch-online-classic-retro-1851760770)
- - [3DMark benchmarks show off AMD&#39;s big daddy Strix Halo laptop chip in action and I&#39;m a little underwhelmed](https://www.pcgamer.com/hardware/gaming-laptops/3dmark-benchmarks-show-off-amds-big-daddy-strix-halo-laptop-chip-in-action-and-im-a-little-underwhelmed/)<!-- GAME:END -->
+ - [How Replay Boys Corrupts a Boy Band Dating Sim with Darkness](https://news.xbox.com/en-us/2025/02/14/how-replay-boys-corrupts-a-boy-band-dating-sim-with-darkness/)
+ - [Capcom is again using the likeness of a long-dead actor in Onimusha: Way of the Sword](https://www.polygon.com/gaming/524098/onimusha-way-of-the-sword-toshiro-mifune-capcom)
+ - [Dress to Impress codes for February 2025](https://www.polygon.com/dress-to-impess-guides/523846/codes-list-all-active-dti)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
