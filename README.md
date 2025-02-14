@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Italy accuses Amazon of evading &amp;euro;1.2B in VAT payments; sources: the claim is linked to the sale of goods from China and other non-EU countries from 2019 to 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250214/p14#a250214p14)
- - [Nosferatu is making its Peacock streaming debut next week](https://www.theverge.com/news/613067/nosferatu-peacock-streaming-release-date)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Roblox is still trying to convince lawmakers it’s not social media](https://www.theverge.com/policy/612577/roblox-kids-online-safety-legislation-social-media)
+ - [Amazon&#39;s MacBook Pro coupon drops Space Black M4 Pro spec down to $1,749.99](https://appleinsider.com/articles/25/02/14/amazons-macbook-pro-coupon-drops-space-black-m4-pro-spec-down-to-174999?utm_medium=rss)
+ - [Apple TV app finally starts including Netflix series [u]](https://appleinsider.com/articles/25/02/14/apple-tv-app-finally-starts-including-netflix-series?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
