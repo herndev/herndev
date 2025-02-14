@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Astro Bot wins big at DICE as Indiana Jones takes home 3 awards](https://www.polygon.com/awards/523903/dice-awards-winners-2025-astro-bot)
  - [AMD is finally spilling the beans about the RX 9070 series during a live stream on February 28](https://www.pcgamer.com/hardware/graphics-cards/amd-is-finally-spilling-the-beans-about-the-rx-9070-series-during-a-live-stream-on-february-28/)
- - [All Honkai: Star Rail 3.1 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-3-1-livestream-codes/)
- - [Nvidia&#39;s RTX 5070 Ti GPU officially goes on sale February 20 and the RTX 5070 is go for March 5](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5070-ti-gpu-officially-goes-on-sale-february-20-and-the-rtx-5070-is-go-for-march-5/)<!-- GAME:END -->
+ - [All Honkai: Star Rail 3.1 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-3-1-livestream-codes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
