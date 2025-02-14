@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fill or kill](http://9gag.com/gag/ayNqr9b)
- - ⏩ [Claps](http://9gag.com/gag/awygpoQ)
- - 👉 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)<!-- MEMES:END -->
+ - 💣 [3 Jeeps destroyed in 3 seconds](http://9gag.com/gag/aZZn5rX)
+ - ⏩ [In 2005, New Mexico resident Stephen Slevin was arrested for a suspected DUI before being placed in solitary confinement for 2 years without ever being prosecuted when prison authorities claimed they `forgot` about the man.](http://9gag.com/gag/aByZ5L1)
+ - 👉 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)<!-- MEMES:END -->
 
 ---
 
