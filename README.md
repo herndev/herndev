@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)
- - [US Judge Extends Order to Block DOGE From Treasury Department Data](https://www.wired.com/story/doge-treasury-department-data-access-denied/)
- - [Android 16 will fight scammers by blocking certain features during phone calls &lpar;Update: Demo&rpar;](https://www.androidauthority.com/android-16-phone-call-protections-3526068/)<!-- TECH:END -->
+ - [Apple&#39;s Siri renovation is probably going to take longer than expected](https://appleinsider.com/articles/25/02/14/apples-siri-renovation-is-probably-going-to-take-longer-than-expected?utm_medium=rss)
+ - [Grab the Chance to See Six Planets in a Spectacular Planet Parade This Weekend](https://www.cnet.com/science/how-to-see-planet-parade-six-planets-in-the-sky-this-weekend/#ftag=CAD590a51e)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
