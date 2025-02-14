@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do you prefer?](http://9gag.com/gag/axyWQ9p)
- - ⏩ [O_o](http://9gag.com/gag/apR17BD)
- - 👉 [Yeah school girl](http://9gag.com/gag/aNDLGNA)<!-- MEMES:END -->
+ - 💣 [She looks around and sees no Portuguese in Lisbon but only fake male Islamic asylum seekers. Our children will hate us for this](http://9gag.com/gag/aZZn4qW)
+ - ⏩ [Life of dairy farmer](http://9gag.com/gag/aKG15Wj)
+ - 👉 [What do you prefer?](http://9gag.com/gag/axyWQ9p)<!-- MEMES:END -->
 
 ---
 
