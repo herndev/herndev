@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tall women](http://9gag.com/gag/a2vMgzZ)
- - ⏩ [Relatable](http://9gag.com/gag/aVvgrPn)
- - 👉 [Finally fixed](http://9gag.com/gag/apR1XR8)<!-- MEMES:END -->
+ - 💣 [This is where we&#39;re at.](http://9gag.com/gag/axyW8Np)
+ - ⏩ [She looks around and sees no Portuguese in Lisbon but only fake male Islamic asylum seekers. Our children will hate us for this](http://9gag.com/gag/aZZn4qW)
+ - 👉 [Where can i buy that?](http://9gag.com/gag/aRBLGQ5)<!-- MEMES:END -->
 
 ---
 
