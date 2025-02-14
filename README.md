@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to launch its AI features in China as early as May 2024, using its own on-device models with Alibaba software to censor or filter AI output &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250213/p47#a250213p47)
  - [Reddit says content licensing deals with Google and OpenAI account for ~10% of its revenue, but its primary focus is on ad revenue, which grew 60% YoY in Q4 &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/250213/p46#a250213p46)
- - [JioCinema and Disney+ Hotstar officially merge to launch JioHotstar, a new streaming service in India that brings together content from the two platforms &lpar;The Indian Express&rpar;](http://www.techmeme.com/250213/p45#a250213p45)
- - [TikTok Is Back in US App Stores](https://www.wired.com/story/tiktok-ban-back-in-ios-app-store-google-play-store/)<!-- TECH:END -->
+ - [JioCinema and Disney+ Hotstar officially merge to launch JioHotstar, a new streaming service in India that brings together content from the two platforms &lpar;The Indian Express&rpar;](http://www.techmeme.com/250213/p45#a250213p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
