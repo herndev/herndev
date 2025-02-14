@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: xAI is canvassing potential investors, including Sequoia Capital and a16z, for a roughly $10B funding round that would value the company at about $75B &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250214/p24#a250214p24)
- - [Source: TSMC is considering taking a controlling stake in Intel&#39;s factories at the request of Trump&#39;s team; it is unclear whether Intel is open to a transaction &lpar;Bloomberg&rpar;](http://www.techmeme.com/250214/p23#a250214p23)
- - [WhatsApp is getting themed chat bubbles](https://www.theverge.com/news/613238/whatsapp-personalized-themes-chats-bubble-colors-wallpapers)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Trump administration adds anti-trans notices to restored websites](https://www.theverge.com/news/613308/trump-transgender-notice-restored-webpages-cdc-fda)
+ - [Google deactivates an Android feature that crowdsources device sensor data to provide earthquake warnings in Brazil after mistakenly sending notifications &lpar;Taylor Kerns/Android Police&rpar;](http://www.techmeme.com/250214/p25#a250214p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
