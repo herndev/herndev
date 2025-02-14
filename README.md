@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally fixed](http://9gag.com/gag/apR1XR8)
- - ⏩ [If you still need a reason to change browser...](http://9gag.com/gag/a0eoGxd)
- - 👉 [The Audacity](http://9gag.com/gag/aKG1Zeg)<!-- MEMES:END -->
+ - 💣 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
+ - ⏩ [Dude really tried to become a millionaire through a pawn shop](http://9gag.com/gag/an7Oo4V)
+ - 👉 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)<!-- MEMES:END -->
 
 ---
 
