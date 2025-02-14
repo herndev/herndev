@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Split Fiction hands-on report](https://blog.playstation.com/2025/02/14/split-fiction-hands-on-report/)
- - [Elden Ring Nightreign&#39;s First Network Test Isn&#39;t Going Well At All](https://kotaku.com/elden-ring-nightreign-network-test-fromsoftware-ps5-1851763458)
- - [I finally understand why all those Soulslike bosses hated me so much, thanks to The Dark Queen of Mortholme, which pits you up against some plucky upstart who just keeps coming back](https://www.pcgamer.com/games/rpg/i-finally-understand-why-all-those-soulslike-bosses-hated-me-so-much-thanks-to-the-dark-queen-of-mortholme-which-pits-you-up-against-some-plucky-upstart-who-just-keeps-coming-back/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for February 17 to 21](https://news.xbox.com/en-us/2025/02/14/next-week-on-xbox-new-games-for-february-17-to-21/)
+ - [A web3 free-to-play survival game found to be a front for installing malware on your PC has finally been removed from Steam](https://www.pcgamer.com/hardware/a-web3-free-to-play-survival-game-found-to-be-a-front-for-installing-malware-on-your-pc-has-finally-been-removed-from-steam/)
+ - [Anyone who raises an eyebrow at paying $85 for a Deep Rock Galactic mug must know they are &#39;the most complicated mug made industrially on Earth&#39;](https://www.pcgamer.com/games/survival-crafting/anyone-who-raises-an-eyebrow-at-paying-usd85-for-a-deep-rock-galactic-mug-must-know-they-are-the-most-complicated-mug-made-industrially-on-earth/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
