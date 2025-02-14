@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI removes &quot;warning&quot; messages in ChatGPT that indicated when content might violate its terms of service, to cut down on &quot;gratuitous/unexplainable denials&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250213/p41#a250213p41)
- - [NHL 4 Nations Face-Off: How to Watch USA vs. Finland Tonight](https://www.cnet.com/tech/services-and-software/nhl-4-nations-face-off-how-to-watch-usa-vs-finland-tonight/#ftag=CAD590a51e)
- - [Google&#39;s Gemini can now recall and &quot;reference past chats for more tailored help&quot;; the feature is rolling out in English for Advanced subscribers &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250213/p40#a250213p40)<!-- TECH:END -->
+ - [TikTok has returned to the Apple App Store](https://appleinsider.com/articles/25/02/14/tiktok-to-return-to-apple-app-store-thursday?utm_medium=rss)
+ - [The UK renames its AI Safety Institute to AI Security Institute in a pivot to cybersecurity, and is exploring ways to use Anthropic&#39;s Claude in public services &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250213/p44#a250213p44)
+ - [Apple and Google are restoring TikTok to their US app stores on Thursday, following Trump administration assurances that a ban wouldn&#39;t immediately be enforced &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250213/p43#a250213p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
