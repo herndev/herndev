@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A &#39;Musk-led consortium&#39; of investors say they&#39;ll withdraw $97.4 billion bid to buy OpenAI—but only if it stays non-profit](https://www.pcgamer.com/hardware/a-musk-led-consortium-of-investors-say-theyll-withdraw-usd97-4-billion-bid-to-buy-openai-but-only-if-it-stays-non-profit/)
  - [It&#39;s worth subscribing to Warhammer+ for a month just to marathon the animations, then cancel your sub](https://www.pcgamer.com/movies-tv/its-worth-subscribing-to-warhammer-for-a-month-just-to-marathon-the-animations-then-cancel-your-sub/)
- - [Today&#39;s Wordle answer for Friday, February 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-14-2025/)
- - [Obsidian says it won&#39;t chase huge profits or grow aggressively, and that&#39;s how it&#39;s going to last 100 years in the RPG business: &#39;Are we serious? Yes&#39;](https://www.pcgamer.com/games/rpg/obsidian-plans-to-make-rpgs-for-100-years-by-not-trying-to-grow-aggressively-expand-our-team-size-or-make-super-profitable-games/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, February 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-14-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
