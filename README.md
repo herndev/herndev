@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After losing this hand, he quit poker and decided to devote his life to science, specifically fusion reactors](http://9gag.com/gag/aLnLEKz)
- - ⏩ [Let&#39;s educate the world through memes.](http://9gag.com/gag/aGyL6OG)
- - 👉 [The different productions between a solar tracker and fixed mount panel](http://9gag.com/gag/ae94yp5)<!-- MEMES:END -->
+ - 💣 [You trying to get choke slammed?](http://9gag.com/gag/aXPL1Wv)
+ - ⏩ [Relatable](http://9gag.com/gag/aVvgrPn)
+ - 👉 [Finally fixed](http://9gag.com/gag/apR1XR8)<!-- MEMES:END -->
 
 ---
 
