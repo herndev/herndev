@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Nintendo DS emulator on Android has been pulled from the Play Store](https://www.androidauthority.com/drastic-ds-emulator-removed-3526330/)
- - [The European Commission&#39;s digital chief Henna Virkkunen says the EU is easing tech rules to boost AI investments, not due to pressure from US Big Tech or Trump &lpar;Financial Times&rpar;](http://www.techmeme.com/250214/p4#a250214p4)
- - [Best Home Ellipticals in 2025, Perfect for Cross-Training Your Way to Your Health Goals](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Microsoft Outlook&amp;#8217;s new minimize button makes mobile emails much easier](https://www.theverge.com/news/612853/microsoft-outlook-mobile-minimize-button-email-drafts)
+ - [Open source code repository says &amp;#8216;far-right forces&amp;#8217; are behind massive spam attacks](https://www.theverge.com/news/612857/codeberg-open-source-code-far-right-forces-spam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
