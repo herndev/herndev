@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yellowjackets continues to stretch itself thin in season 3](https://www.theverge.com/tv-reviews/612900/yellowjackets-season-3-review)
- - [M4 MacBook Air: What the rumors say to expect from the first new Mac of 2025](https://appleinsider.com/articles/25/02/14/m4-macbook-air-what-the-rumors-say-to-expect-from-the-first-new-mac-of-2025?utm_medium=rss)
- - [Twelve South TimePorter review: An elegant wall mount to display your growing collection of Apple Watch bands](https://appleinsider.com/articles/25/02/14/twelve-south-timeporter-review-an-elegant-wall-mount-to-display-your-growing-collection-of-apple-watch-bands?utm_medium=rss)<!-- TECH:END -->
+ - [Italy accuses Amazon of evading &amp;euro;1.2B in VAT payments; sources: the claim is linked to the sale of goods from China and other non-EU countries from 2019 to 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250214/p14#a250214p14)
+ - [Nosferatu is making its Peacock streaming debut next week](https://www.theverge.com/news/613067/nosferatu-peacock-streaming-release-date)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
