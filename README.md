@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based OneID, which provides bank-verified digital ID services, raised &amp;pound;16M led by ACF Investors, with participation from over 200 angel investors &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250214/p2#a250214p2)
- - [Eudia, which provides in-house legal teams with AI agents and other tools for common tasks, exits stealth with an up to $105M Series A led by General Catalyst &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250214/p1#a250214p1)
- - [How to unplug from Apple Intelligence on iOS and macOS](https://appleinsider.com/inside/apple-intelligence/tips/how-to-unplug-from-apple-intelligence-on-ios-and-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [H&amp;R Block Coupons and Deals: 25% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
+ - [London-based OneID, which provides bank-verified digital ID services, raised &amp;pound;16M led by ACF Investors, with participation from over 200 angel investors &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250214/p2#a250214p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
