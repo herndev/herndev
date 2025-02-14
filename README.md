@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nexus 6P or Mi 11 Ultra? You decide what the iPhone 17 Pro looks like in these new renders](https://www.androidauthority.com/iphone-17-pro-leaked-render-fpt-3526307/)
- - [YouTube TV might lose Paramount content &lpar;Update: Short-term extension&rpar;](https://www.androidauthority.com/youtube-tv-might-lose-paramount-content-3525848/)
- - [Sources: Shein&#39;s UK IPO may be delayed to H2 2025 after President Trump&#39;s tariff crackdown; Shein had told investors a London IPO could happen by Easter &lpar;Financial Times&rpar;](http://www.techmeme.com/250214/p3#a250214p3)<!-- TECH:END -->
+ - [The best Nintendo DS emulator on Android has been pulled from the Play Store](https://www.androidauthority.com/drastic-ds-emulator-removed-3526330/)
+ - [The European Commission&#39;s digital chief Henna Virkkunen says the EU is easing tech rules to boost AI investments, not due to pressure from US Big Tech or Trump &lpar;Financial Times&rpar;](http://www.techmeme.com/250214/p4#a250214p4)
+ - [Best Home Ellipticals in 2025, Perfect for Cross-Training Your Way to Your Health Goals](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
