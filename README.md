@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Was Captain America: Brave New World’s post-credits scene shot in 2010?](https://www.polygon.com/marvel/523800/captain-america-brave-new-worlds-post-credits-scene)
- - [Despite everything, Assassin&#39;s Creed Shadows preorders are &#39;tracking solidly,&#39; Ubisoft says, &#39;in line with those of Assassin’s Creed Odyssey, the second most successful entry of the franchise&#39;](https://www.pcgamer.com/games/assassins-creed/despite-everything-assassins-creed-shadows-preorders-are-tracking-solidly-ubisoft-says-in-line-with-those-of-assassins-creed-odyssey-the-second-most-successful-entry-of-the-franchise/)
- - [The new STALKER 2 patch is going to save you lots of time](https://www.polygon.com/pc/523856/stalker-2-1-2-new-update-patch-notes-weapon-condition-a-life)<!-- GAME:END -->
+ - [Obsidian plans to make RPGs for 100 years by &#39;not trying to grow aggressively, expand our team size, or make super profitable games&#39;](https://www.pcgamer.com/games/rpg/obsidian-plans-to-make-rpgs-for-100-years-by-not-trying-to-grow-aggressively-expand-our-team-size-or-make-super-profitable-games/)
+ - [&lpar;For Southeast Asia&rpar; Astro Bot: five new levels and Special Bots begin rolling out today](https://blog.playstation.com/2025/02/13/20250214-astrobot/)
+ - [Was Captain America: Brave New World’s post-credits scene shot in 2010?](https://www.polygon.com/marvel/523800/captain-america-brave-new-worlds-post-credits-scene)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
