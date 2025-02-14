@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah school girl](http://9gag.com/gag/aNDLGNA)
- - ⏩ [Imagine being this fragile](http://9gag.com/gag/aMVdN5M)
- - 👉 [Well that escalated quickly](http://9gag.com/gag/aQzgKP7)<!-- MEMES:END -->
+ - 💣 [What do you prefer?](http://9gag.com/gag/axyWQ9p)
+ - ⏩ [O_o](http://9gag.com/gag/apR17BD)
+ - 👉 [Yeah school girl](http://9gag.com/gag/aNDLGNA)<!-- MEMES:END -->
 
 ---
 
