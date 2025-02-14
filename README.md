@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost in Random: The Eternal Die Demo Out Now on Xbox &lpar;and Why You Should Play!&rpar;](https://news.xbox.com/en-us/2025/02/14/lost-in-random-the-eternal-die-demo/)
- - [Honkai: Star Rail 3.1 livestream codes](https://www.polygon.com/honkai-star-rail-guides/523436/3-1-livestream-code-redeem-stellar-jade)
- - [Arm reportedly plans to make its own CPUs from this summer with future chips said to be powering a revolutionary Jony Ive-designed AI device](https://www.pcgamer.com/hardware/processors/arm-reportedly-plans-to-make-its-own-cpus-from-this-summer-with-future-chips-said-to-be-powering-a-revolutionary-jony-ive-designed-ai-device/)<!-- GAME:END -->
+ - [Fahmi’s Swan Song: Afterlove EP – Life, Love, and Music in Jakarta](https://news.xbox.com/en-us/2025/02/14/afterlove-ep-life-love-and-music-in-jakarta/)
+ - [The Switch 2 Shouldn&#39;t Lock Classic Nintendo Games Behind A Subscription Paywall](https://kotaku.com/switch-2-virtual-console-switch-online-classic-retro-1851760770)
+ - [3DMark benchmarks show off AMD&#39;s big daddy Strix Halo laptop chip in action and I&#39;m a little underwhelmed](https://www.pcgamer.com/hardware/gaming-laptops/3dmark-benchmarks-show-off-amds-big-daddy-strix-halo-laptop-chip-in-action-and-im-a-little-underwhelmed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
