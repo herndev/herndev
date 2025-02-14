@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relatable](http://9gag.com/gag/aVvgrPn)
- - ⏩ [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
- - 👉 [Stink Leveling](http://9gag.com/gag/aD27r69)<!-- MEMES:END -->
+ - 💣 [Finally fixed](http://9gag.com/gag/apR1XR8)
+ - ⏩ [If you still need a reason to change browser...](http://9gag.com/gag/a0eoGxd)
+ - 👉 [The Audacity](http://9gag.com/gag/aKG1Zeg)<!-- MEMES:END -->
 
 ---
 
