@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for February 17 to 21](https://news.xbox.com/en-us/2025/02/14/next-week-on-xbox-new-games-for-february-17-to-21/)
- - [A web3 free-to-play survival game found to be a front for installing malware on your PC has finally been removed from Steam](https://www.pcgamer.com/hardware/a-web3-free-to-play-survival-game-found-to-be-a-front-for-installing-malware-on-your-pc-has-finally-been-removed-from-steam/)
- - [Anyone who raises an eyebrow at paying $85 for a Deep Rock Galactic mug must know they are &#39;the most complicated mug made industrially on Earth&#39;](https://www.pcgamer.com/games/survival-crafting/anyone-who-raises-an-eyebrow-at-paying-usd85-for-a-deep-rock-galactic-mug-must-know-they-are-the-most-complicated-mug-made-industrially-on-earth/)<!-- GAME:END -->
+ - [Deadlock clicked when I saw it as a MOBA, not a hero shooter](https://www.polygon.com/gaming/521786/deadlock-valve-moba-hero-shooter)
+ - [You can nab Owlcat&#39;s first Pathfinder CRPG for $45 or $4 right now, depending on whether you want a library&#39;s worth of TTRPG books too](https://www.pcgamer.com/games/rpg/you-can-nab-owlcats-first-pathfinder-crpg-for-usd45-or-usd4-right-now-depending-on-whether-you-want-a-librarys-worth-of-ttrpg-books-too/)
+ - [Youtube&#39;s CEO says it&#39;s the &#39;new television&#39; with 1 billion TV viewers daily, and apparently people watch Shorts on their TV now](https://www.pcgamer.com/hardware/youtubes-ceo-says-its-the-new-television-with-1-billion-tv-viewers-daily-and-apparently-people-watch-shorts-on-their-tv-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
