@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is where we&#39;re at.](http://9gag.com/gag/axyW8Np)
- - ⏩ [She looks around and sees no Portuguese in Lisbon but only fake male Islamic asylum seekers. Our children will hate us for this](http://9gag.com/gag/aZZn4qW)
+ - 💣 [Haircut in Japan looks fun](http://9gag.com/gag/amoWbo6)
+ - ⏩ [O_o](http://9gag.com/gag/apR17BD)
  - 👉 [Where can i buy that?](http://9gag.com/gag/aRBLGQ5)<!-- MEMES:END -->
 
 ---
