@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox is still trying to convince lawmakers it’s not social media](https://www.theverge.com/policy/612577/roblox-kids-online-safety-legislation-social-media)
- - [Amazon&#39;s MacBook Pro coupon drops Space Black M4 Pro spec down to $1,749.99](https://appleinsider.com/articles/25/02/14/amazons-macbook-pro-coupon-drops-space-black-m4-pro-spec-down-to-174999?utm_medium=rss)
- - [Apple TV app finally starts including Netflix series [u]](https://appleinsider.com/articles/25/02/14/apple-tv-app-finally-starts-including-netflix-series?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Dell nears a $5B deal to provide servers with Nvidia&#39;s GB200 chips for xAI&#39;s supercomputer project in Memphis &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250214/p21#a250214p21)
+ - [DOGE&#39;s Tom Krause, the US Treasury&#39;s new Fiscal Assistant Secretary, is still the CEO of Cloud Software Group; critics say it may be a conflict of interest &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/250214/p20#a250214p20)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
