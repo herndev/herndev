@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok has returned to the Apple App Store](https://appleinsider.com/articles/25/02/14/tiktok-to-return-to-apple-app-store-thursday?utm_medium=rss)
- - [The UK renames its AI Safety Institute to AI Security Institute in a pivot to cybersecurity, and is exploring ways to use Anthropic&#39;s Claude in public services &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250213/p44#a250213p44)
- - [Apple and Google are restoring TikTok to their US app stores on Thursday, following Trump administration assurances that a ban wouldn&#39;t immediately be enforced &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250213/p43#a250213p43)<!-- TECH:END -->
+ - [JioCinema and Disney+ Hotstar officially merge to launch JioHotstar, a new streaming service in India that brings together content from the two platforms &lpar;The Indian Express&rpar;](http://www.techmeme.com/250213/p45#a250213p45)
+ - [TikTok Is Back in US App Stores](https://www.wired.com/story/tiktok-ban-back-in-ios-app-store-google-play-store/)
+ - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
