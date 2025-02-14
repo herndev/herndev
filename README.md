@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadlock clicked when I saw it as a MOBA, not a hero shooter](https://www.polygon.com/gaming/521786/deadlock-valve-moba-hero-shooter)
- - [You can nab Owlcat&#39;s first Pathfinder CRPG for $45 or $4 right now, depending on whether you want a library&#39;s worth of TTRPG books too](https://www.pcgamer.com/games/rpg/you-can-nab-owlcats-first-pathfinder-crpg-for-usd45-or-usd4-right-now-depending-on-whether-you-want-a-librarys-worth-of-ttrpg-books-too/)
- - [Youtube&#39;s CEO says it&#39;s the &#39;new television&#39; with 1 billion TV viewers daily, and apparently people watch Shorts on their TV now](https://www.pcgamer.com/hardware/youtubes-ceo-says-its-the-new-television-with-1-billion-tv-viewers-daily-and-apparently-people-watch-shorts-on-their-tv-now/)<!-- GAME:END -->
+ - [Lost in Random: The Eternal Die Demo Out Now on Xbox &lpar;and Why You Should Play!&rpar;](https://news.xbox.com/en-us/2025/02/14/lost-in-random-the-eternal-die-demo/)
+ - [Honkai: Star Rail 3.1 livestream codes](https://www.polygon.com/honkai-star-rail-guides/523436/3-1-livestream-code-redeem-stellar-jade)
+ - [Arm reportedly plans to make its own CPUs from this summer with future chips said to be powering a revolutionary Jony Ive-designed AI device](https://www.pcgamer.com/hardware/processors/arm-reportedly-plans-to-make-its-own-cpus-from-this-summer-with-future-chips-said-to-be-powering-a-revolutionary-jony-ive-designed-ai-device/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
