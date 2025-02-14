@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Obsidian plans to make RPGs for 100 years by &#39;not trying to grow aggressively, expand our team size, or make super profitable games&#39;](https://www.pcgamer.com/games/rpg/obsidian-plans-to-make-rpgs-for-100-years-by-not-trying-to-grow-aggressively-expand-our-team-size-or-make-super-profitable-games/)
- - [&lpar;For Southeast Asia&rpar; Astro Bot: five new levels and Special Bots begin rolling out today](https://blog.playstation.com/2025/02/13/20250214-astrobot/)
- - [Was Captain America: Brave New World’s post-credits scene shot in 2010?](https://www.polygon.com/marvel/523800/captain-america-brave-new-worlds-post-credits-scene)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, February 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-14-2025/)
+ - [Obsidian&#39;s plan for a long future in the RPG business: &#39;Not trying to grow aggressively, expand our team size, or make super profitable games&#39;](https://www.pcgamer.com/games/rpg/obsidian-plans-to-make-rpgs-for-100-years-by-not-trying-to-grow-aggressively-expand-our-team-size-or-make-super-profitable-games/)
+ - [&lpar;For Southeast Asia&rpar; Astro Bot: five new levels and Special Bots begin rolling out today](https://blog.playstation.com/2025/02/13/20250214-astrobot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
