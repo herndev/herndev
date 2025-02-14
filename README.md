@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After the Siri scandal, I went down an iOS and Android privacy rabbit hole](https://www.androidauthority.com/ios-android-privacy-comparison-3524704/)
- - [Apple&#39;s robot Pixar lamp, iPhone SE 4, and Apple TV+ on Android, on the AppleInsider Podcast](https://appleinsider.com/articles/25/02/14/apples-robot-pixar-lamp-iphone-se-4-and-apple-tv-on-android-on-the-appleinsider-podcast?utm_medium=rss)
- - [Sources: Mark Zuckerberg&#39;s overtures to President Trump have unsettled employees and are part of an effort to shift antitrust scrutiny off Meta and onto Apple &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250214/p7#a250214p7)<!-- TECH:END -->
+ - [Loss of attraction: I tried using MagSafe accessories with the Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-magsafe-tested-3525677/)
+ - [Elden Ring Nightreign&amp;#8217;s director isn&amp;#8217;t sorry about how stressful it is](https://www.theverge.com/games/612715/elden-ring-nightreign-game-director-interview)
+ - [Open-source code repository says &amp;#8216;far-right forces&amp;#8217; are behind massive spam attacks](https://www.theverge.com/news/612857/codeberg-open-source-code-far-right-forces-spam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
