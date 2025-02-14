@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)
- - ⏩ [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
- - 👉 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)<!-- MEMES:END -->
+ - 💣 [Fill or kill](http://9gag.com/gag/ayNqr9b)
+ - ⏩ [Claps](http://9gag.com/gag/awygpoQ)
+ - 👉 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)<!-- MEMES:END -->
 
 ---
 
