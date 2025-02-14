@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
- - ⏩ [She carries weight](http://9gag.com/gag/ae94qxv)
- - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
+ - 💣 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)
+ - ⏩ [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
+ - 👉 [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)<!-- MEMES:END -->
 
 ---
 
