@@ -61,8 +61,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C190%20hrs%2058%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.6%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -111,7 +109,7 @@ Mac                      57 mins             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/herndev/herndev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 00:58:43 UTC
+ Last Updated on 16/02/2025 00:59:33 UTC
 <!--END_SECTION:waka-->
 
 ### ⚡️ Recent Activity
