@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Spotify, which reported its first annual profit in 2024, had just &amp;euro;1.8B in ad revenue, 26% above 2022, while subscription revenue grew 35% to &amp;euro;13.8B &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/250217/p12#a250217p12)
- - [Dream, which offers cybersecurity tools to governments and critical infrastructure firms, raised $100M led by Bain at a $1.1B valuation, up from $190M in 2023 &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250217/p11#a250217p11)
- - [12 Best Laptops of 2025: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
+ - [Gemini Live could soon start summarizing your conversations &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-conversation-summaries-apk-3526918/)
+ - [The war on DEI is a smoke screen](https://www.theverge.com/politics/613660/war-on-dei-smoke-screen-civil-rights-racism-eugenics)
+ - [Mint Mobile is finally ditching data caps on its unlimited plan](https://www.androidauthority.com/mint-mobile-no-more-cap-3526931/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
