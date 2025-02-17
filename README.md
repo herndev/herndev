@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Nadia Odunayo on building Goodreads alternative StoryGraph, remaining bootstrapped, reaching 3.8M active users, not allowing DMs, and more &lpar;David Barnett/The Guardian&rpar;](http://www.techmeme.com/250217/p3#a250217p3)
- - [This time, a phone’s tie-in with a car brand actually results in a better phone](https://www.androidauthority.com/porsche-design-honor-magic-7-rsr-3525564/)
- - [A hard mistake to make: Pixel Emergency SOS accidentally shares someone’s nudes](https://www.androidauthority.com/google-pixel-emergency-sos-nudes-3526834/)<!-- TECH:END -->
+ - [Believe it or not! Someone just released a PS3 emulator for Android](https://www.androidauthority.com/aps3e-ps3-emulator-3526869/)
+ - [Chinese President Xi meets with Alibaba co-founder Jack Ma, Huawei founder Ren Zhengfei, and more, signaling Beijing&#39;s support for the long-marginalized sector &lpar;Bloomberg&rpar;](http://www.techmeme.com/250217/p4#a250217p4)
+ - [Survey shows people would rather use this new Android assistant instead of Gemini](https://www.androidauthority.com/google-gemini-vs-perplexity-survey-results-3526863/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
