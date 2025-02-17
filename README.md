@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
- - ⏩ [Make sense...](http://9gag.com/gag/aLnLyYv)
+ - 💣 [Interesting](http://9gag.com/gag/aE06doe)
+ - ⏩ [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
  - 👉 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)<!-- MEMES:END -->
 
 ---
