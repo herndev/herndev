@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best way to beat a hard level is to stop playing it](https://www.polygon.com/gaming/523340/cognitive-psychology-video-games-stop-playing-games)
- - [The 12 Wes Anderson Characters That Made Him An Icon](https://kotaku.com/wes-anderson-characters-the-royal-tenenbaums-1851762567)
- - [Rainbow Six Siege X Will &#39;Transform&#39; The Live-Service Tactical Shooter](https://kotaku.com/rainbow-six-siege-x-ubisoft-live-service-1851764624)<!-- GAME:END -->
+ - [Avowed Is Wonderful, But Could My Companions Please Just Shush?](https://kotaku.com/avowed-companion-barks-battles-obsidian-xbox-1851764675)
+ - [5 characters I&#39;m pretty sure will never make it into Marvel Rivals, ever](https://www.pcgamer.com/games/third-person-shooter/5-characters-im-pretty-sure-will-never-make-it-into-marvel-rivals-ever/)
+ - [Asked point-blank if they&#39;re trolling dataminers with fake characters, Marvel Rivals dev scoffs and says they&#39;d &#39;rather spend our time developing the game&#39;](https://www.pcgamer.com/games/fps/asked-point-blank-if-theyre-trolling-dataminers-with-fake-characters-marvel-rivals-dev-scoffs-and-says-theyd-rather-spend-our-time-developing-the-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
