@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Not every story is told in that way&#39;: Phil Spencer says that live service games aren&#39;t the answer to every problem, and that smaller games play an important role](https://www.pcgamer.com/gaming-industry/not-every-story-is-told-in-that-way-phil-spencer-says-that-live-service-games-arent-the-answer-to-every-problem-and-that-smaller-games-play-an-important-role/)
- - [Viewers watch in horror, unable to help, as blindfolded Super Mario 64 speedrunner almost gets a world record that wouldn&#39;t have counted: &#39;I would&#39;ve cried&#39;](https://www.pcgamer.com/games/viewers-watch-in-horror-unable-to-help-as-blindfolded-super-mario-64-speedrunner-almost-gets-a-world-record-that-wouldnt-have-counted-i-wouldve-cried/)
- - [YouTuber The Swedish Maker wears a Meta Quest 3 VR headset for his entire woodworking project and miraculously emerges with all fingers intact](https://www.pcgamer.com/hardware/vr-hardware/youtuber-the-swedish-maker-wears-a-meta-quest-3-vr-headset-for-his-entire-woodworking-project-and-miraculously-emerges-with-all-fingers-intact/)<!-- GAME:END -->
+ - [The best way to beat a hard level is to stop playing it](https://www.polygon.com/gaming/523340/cognitive-psychology-video-games-stop-playing-games)
+ - [The 12 Wes Anderson Characters That Made Him An Icon](https://kotaku.com/wes-anderson-characters-the-royal-tenenbaums-1851762567)
+ - [Rainbow Six Siege X Will &#39;Transform&#39; The Live-Service Tactical Shooter](https://kotaku.com/rainbow-six-siege-x-ubisoft-live-service-1851764624)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
