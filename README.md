@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This little setting is the first thing I change on every Android smartphone](https://www.androidauthority.com/minimum-width-setting-change-android-3525787/)
- - [Sources: Tesla is bracing for a delay in Chinese approval for FSD, despite an earlier sign it would come in Q2; China is weighing using it in US negotiations &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p9#a250217p9)
- - [X appears to be blocking Signal&#39;s &quot;Signal.me&quot; links in DMs, posts, and profile pages, giving error messages and showing a warning page for users clicking them &lpar;Matt Binder/disruptionist&rpar;](http://www.techmeme.com/250217/p8#a250217p8)<!-- TECH:END -->
+ - [X is blocking links to Signal](https://www.theverge.com/news/613997/x-blocks-signal-me-links-errors)
+ - [A ‘Teleportation’ Breakthrough for Quantum Computing Is Here](https://www.wired.com/story/quantum-computing-information-teleportation/)
+ - [This upcoming Gemini Live feature should have been available from the get-go &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-captions-apk-3526862/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
