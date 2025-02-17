@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avowed Is Wonderful, But Could My Companions Please Just Shush?](https://kotaku.com/avowed-companion-barks-battles-obsidian-xbox-1851764675)
- - [5 characters I&#39;m pretty sure will never make it into Marvel Rivals, ever](https://www.pcgamer.com/games/third-person-shooter/5-characters-im-pretty-sure-will-never-make-it-into-marvel-rivals-ever/)
- - [Asked point-blank if they&#39;re trolling dataminers with fake characters, Marvel Rivals dev scoffs and says they&#39;d &#39;rather spend our time developing the game&#39;](https://www.pcgamer.com/games/fps/asked-point-blank-if-theyre-trolling-dataminers-with-fake-characters-marvel-rivals-dev-scoffs-and-says-theyd-rather-spend-our-time-developing-the-game/)<!-- GAME:END -->
+ - [Remember those &#39;choose your own adventure&#39; fantasy books? Well, now they&#39;re coming back in this delightfully chonky e-ink console](https://www.pcgamer.com/hardware/remember-those-choose-your-own-adventure-fantasy-books-well-now-theyre-coming-back-in-this-delightfully-chonky-e-ink-console/)
+ - [The latest Steam Deck beta update can improve battery life with the frame limiter active by *checks notes* a whole six percent](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-latest-steam-deck-beta-update-can-improve-battery-life-with-the-frame-limiter-active-by-checks-notes-a-whole-six-percent/)
+ - [&#39;I strive to be half the hater he is&#39;: Elden Ring Nightreign players have decided that Margit was the most annoying invader during the playtest](https://www.pcgamer.com/games/rpg/i-strive-to-be-half-the-hater-he-is-elden-ring-nightreign-players-have-decided-that-margit-was-the-most-annoying-invader-during-the-playtest/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
