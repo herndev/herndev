@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Presidents Day sales from Apple, Bose, Google, and more](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)
- - [You can now play Android games on PC with only a keyboard](https://www.androidauthority.com/remap-controls-google-play-games-on-pc-3526996/)
- - [Only today: GE Cync color smart lights just $11.99 for a 2-pack!](https://www.androidauthority.com/ge-cync-a19-smart-led-light-bulbs-2-pack-deal-3526983/)<!-- TECH:END -->
+ - [X challenges a German court order requiring it to share metrics such as likes and shares with researchers before the February 23 election, in a test of EU&#39;s DSA &lpar;Politico&rpar;](http://www.techmeme.com/250217/p13#a250217p13)
+ - [Looking for a smart lock? These Aqara and eufy ones are at record low prices!](https://www.androidauthority.com/aqara-smart-lock-u300-eufy-smart-lock-c33-deals-3526982/)
+ - [BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
