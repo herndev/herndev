@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
- - ⏩ [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)
- - 👉 [How](http://9gag.com/gag/agmQRnw)<!-- MEMES:END -->
+ - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - ⏩ [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
+ - 👉 [You broke the code!!](http://9gag.com/gag/aRB4Q12)<!-- MEMES:END -->
 
 ---
 
