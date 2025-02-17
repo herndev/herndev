@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting](http://9gag.com/gag/aE06doe)
- - ⏩ [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
- - 👉 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)<!-- MEMES:END -->
+ - 💣 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
+ - ⏩ [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
+ - 👉 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)<!-- MEMES:END -->
 
 ---
 
