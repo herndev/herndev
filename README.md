@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WhyIsThisSoTrueThough](http://9gag.com/gag/aGyLPK7)
- - ⏩ [#feelingblessed](http://9gag.com/gag/aD27ENK)
- - 👉 [Mass effect 2 is the best in the series.](http://9gag.com/gag/aD26RwG)<!-- MEMES:END -->
+ - 💣 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
+ - ⏩ [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 👉 [Massage Competition](http://9gag.com/gag/aqyX9zM)<!-- MEMES:END -->
 
 ---
 
