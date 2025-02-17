@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Practical Pockets treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524444/practical-pockets-treasure-map-location-solution-reward)
- - [Painter’s Regret treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524484/painters-regret-treasure-map-location-solution-reward)
- - [Earthly Aegis treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524507/earthly-aegis-treasure-map-location-solution-reward)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;February 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-february-17-2025/)
+ - [Maybe I&#39;ll finally stop getting lost in Fallout: New Vegas&#39; Bison Steve Hotel thanks to this new minimap mod](https://www.pcgamer.com/games/fallout/maybe-ill-finally-stop-getting-lost-in-fallout-new-vegas-bison-steve-hotel-thanks-to-this-new-minimap-mod/)
+ - [Viktor Antonov, the visionary artist who defined Half-Life 2 and Dishonored, has died](https://www.pcgamer.com/gaming-industry/viktor-antonov-the-visionary-artist-who-defined-half-life-2-and-dishonored-has-died/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
