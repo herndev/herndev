@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
- - ⏩ [Spaghetti tutorial](http://9gag.com/gag/aRB4QAG)
- - 👉 [She said she loves someone else, my business isn&#39;t going very well, my mother is sick, I&#39;m struggling with finances, have anxiety... but i have my own homemade rakia. Happy saturday night b*tches](http://9gag.com/gag/ae94oYO)<!-- MEMES:END -->
+ - 💣 [She said she loves someone else, my business isn&#39;t going very well, my mother is sick, I&#39;m struggling with finances, have anxiety... but i have my own homemade rakia. Happy saturday night b*tches](http://9gag.com/gag/ae94oYO)
+ - ⏩ [Jay-Z paid heavily](http://9gag.com/gag/aW4pVZ6)
+ - 👉 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)<!-- MEMES:END -->
 
 ---
 
