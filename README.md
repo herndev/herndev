@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remember those &#39;choose your own adventure&#39; fantasy books? Well, now they&#39;re coming back in this delightfully chonky e-ink console](https://www.pcgamer.com/hardware/remember-those-choose-your-own-adventure-fantasy-books-well-now-theyre-coming-back-in-this-delightfully-chonky-e-ink-console/)
- - [The latest Steam Deck beta update can improve battery life with the frame limiter active by *checks notes* a whole six percent](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-latest-steam-deck-beta-update-can-improve-battery-life-with-the-frame-limiter-active-by-checks-notes-a-whole-six-percent/)
- - [&#39;I strive to be half the hater he is&#39;: Elden Ring Nightreign players have decided that Margit was the most annoying invader during the playtest](https://www.pcgamer.com/games/rpg/i-strive-to-be-half-the-hater-he-is-elden-ring-nightreign-players-have-decided-that-margit-was-the-most-annoying-invader-during-the-playtest/)<!-- GAME:END -->
+ - [Infinity Nikki codes for February 2025](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)
+ - [Genshin Impact codes for February 2025](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)
+ - [Ubisoft announces the &#39;biggest transformation in Rainbow Six Siege&#39;s history&#39; for later this year, so big they&#39;re adding an &#39;X&#39; to the name. But don&#39;t call it a sequel](https://www.pcgamer.com/games/fps/ubisoft-announces-the-biggest-transformation-in-rainbow-six-sieges-history-for-later-this-year-so-big-theyre-adding-an-x-to-the-name-but-dont-call-it-a-sequel/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
