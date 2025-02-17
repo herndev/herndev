@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How](http://9gag.com/gag/agmQRnw)
- - ⏩ [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
- - 👉 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)<!-- MEMES:END -->
+ - 💣 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
+ - ⏩ [Make sense...](http://9gag.com/gag/aLnLyYv)
+ - 👉 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)<!-- MEMES:END -->
 
 ---
 
