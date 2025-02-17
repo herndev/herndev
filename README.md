@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Are the Best Smart Devices for Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
  - [Spotify’s HiFi streaming could finally arrive this year](https://www.theverge.com/news/614091/spotify-music-pro-hifi-streaming-service-release-date-2025)
- - [Chase plans to stop users making Zelle payments deemed &quot;as originating from contact through social media&quot;; the CFPB had claimed Zelle lacked adequate safeguards &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250217/p17#a250217p17)
- - [Source: Ilya Sutskever&#39;s startup Safe Superintelligence is raising $1B+ led by Greenoaks Capital Partners, which plans to invest $500M, at a valuation of $30B+ &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250217/p16#a250217p16)<!-- TECH:END -->
+ - [Chase plans to stop users making Zelle payments deemed &quot;as originating from contact through social media&quot;; the CFPB had claimed Zelle lacked adequate safeguards &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250217/p17#a250217p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
