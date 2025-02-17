@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Denmark, when you turn 30 and are not married, your friends come and throw pepper over you. At the same time, they place a \u201cpebersvend\u201d &lpar;a symbolic figure&rpar; by your house to show others that you are unmarried. This is me, from today](http://9gag.com/gag/agm13qW)
- - ⏩ [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)
- - 👉 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)<!-- MEMES:END -->
+ - 💣 [It should be just a calm ice fishing](http://9gag.com/gag/aGyL3Y0)
+ - ⏩ [Cheers](http://9gag.com/gag/aRB4wpA)
+ - 👉 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)<!-- MEMES:END -->
 
 ---
 
