@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Siri renovation is probably going to take longer than expected](https://appleinsider.com/articles/25/02/14/apples-siri-renovation-is-probably-going-to-take-longer-than-expected?utm_medium=rss)
- - [Grab the Chance to See Six Planets in a Spectacular Planet Parade This Weekend](https://www.cnet.com/science/how-to-see-planet-parade-six-planets-in-the-sky-this-weekend/#ftag=CAD590a51e)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Best Apple iPhone SE Cases for 2025](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
+ - [BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)
+ - [Amazon slashes up to 50% off Beats Studio Pro headphones, Studio Buds earbuds](https://appleinsider.com/articles/25/02/16/amazon-slashes-up-to-50-off-beats-studio-pro-headphones-studio-buds-earbuds?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
