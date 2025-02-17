@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
- - ⏩ [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
- - 👉 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)<!-- MEMES:END -->
+ - 💣 [How](http://9gag.com/gag/agmQRnw)
+ - ⏩ [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
+ - 👉 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)<!-- MEMES:END -->
 
 ---
 
