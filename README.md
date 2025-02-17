@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Nadia Odunayo on building Goodreads alternative StoryGraph, remaining bootstrapped, reaching 3.8M active users, not allowing DMs, and more &lpar;David Barnett/The Guardian&rpar;](http://www.techmeme.com/250217/p3#a250217p3)
  - [This time, a phone’s tie-in with a car brand actually results in a better phone](https://www.androidauthority.com/porsche-design-honor-magic-7-rsr-3525564/)
- - [A hard mistake to make: Pixel Emergency SOS accidentally shares someone’s nudes](https://www.androidauthority.com/google-pixel-emergency-sos-nudes-3526834/)
- - [A look at the OpenEuroLLM project, a partnership among 20 EU organizations to develop open-source LLMs that support all EU languages, with a budget of &amp;euro;37.4M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250217/p2#a250217p2)<!-- TECH:END -->
+ - [A hard mistake to make: Pixel Emergency SOS accidentally shares someone’s nudes](https://www.androidauthority.com/google-pixel-emergency-sos-nudes-3526834/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
