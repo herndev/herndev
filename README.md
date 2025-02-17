@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Live could soon start summarizing your conversations &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-conversation-summaries-apk-3526918/)
- - [The war on DEI is a smoke screen](https://www.theverge.com/politics/613660/war-on-dei-smoke-screen-civil-rights-racism-eugenics)
- - [Mint Mobile is finally ditching data caps on its unlimited plan](https://www.androidauthority.com/mint-mobile-no-more-cap-3526931/)<!-- TECH:END -->
+ - [Apple smart display update, Netflix in the Apple TV app, and more on HomeKit Insider](https://appleinsider.com/articles/25/02/17/apple-smart-display-update-netflix-in-the-apple-tv-app-and-more-on-homekit-insider?utm_medium=rss)
+ - [Why Surfshark Alternative Number can protect you from scammers](https://appleinsider.com/articles/25/02/17/why-surfshark-alternative-number-can-protect-you-from-scammers?utm_medium=rss)
+ - [iPhone 17 design will be dramatically different, says leaker](https://appleinsider.com/articles/25/02/17/iphone-17-design-will-be-dramatically-different-says-leaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
