@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Nanny Cams for 2025](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)
  - [Best Roku TV for 2025](https://www.cnet.com/tech/home-entertainment/best-roku-tv/#ftag=CAD590a51e)
- - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)
- - [Best Apple iPhone SE Cases for 2025](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
