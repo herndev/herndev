@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, February 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-17-2025/)
  - [Layoffs at Funko Fusion developer 10:10 Games blamed on &#39;complete commercial and critical failure&#39; of the game](https://www.pcgamer.com/gaming-industry/layoffs-at-funko-fusion-developer-10-10-games-blamed-on-complete-commercial-and-critical-failure-of-the-game/)
- - [Five new Steam games you probably missed &lpar;February 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-february-17-2025/)
- - [Maybe I&#39;ll finally stop getting lost in Fallout: New Vegas&#39; Bison Steve Hotel thanks to this new minimap mod](https://www.pcgamer.com/games/fallout/maybe-ill-finally-stop-getting-lost-in-fallout-new-vegas-bison-steve-hotel-thanks-to-this-new-minimap-mod/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;February 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-february-17-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
