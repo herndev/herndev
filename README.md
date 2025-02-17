@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
- - ⏩ [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
- - 👉 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)<!-- MEMES:END -->
+ - 💣 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
+ - ⏩ [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
+ - 👉 [Gentleman.](http://9gag.com/gag/aZZ1qo9)<!-- MEMES:END -->
 
 ---
 
