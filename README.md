@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Believe it or not! Someone just released a PS3 emulator for Android](https://www.androidauthority.com/aps3e-ps3-emulator-3526869/)
- - [Chinese President Xi meets with Alibaba co-founder Jack Ma, Huawei founder Ren Zhengfei, and more, signaling Beijing&#39;s support for the long-marginalized sector &lpar;Bloomberg&rpar;](http://www.techmeme.com/250217/p4#a250217p4)
- - [Survey shows people would rather use this new Android assistant instead of Gemini](https://www.androidauthority.com/google-gemini-vs-perplexity-survey-results-3526863/)<!-- TECH:END -->
+ - [An analysis of credit and debit card data shows TikTok Shop passed Shein and Temu in US sales in January 2025, growing 153% to Shein&#39;s 26% and Temu&#39;s 28% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250217/p7#a250217p7)
+ - [Gourmia All-in-One Pizza Oven and Air Fryer Review: Hot Air](https://www.wired.com/review/gourmia-all-in-one-pizza-oven/)
+ - [Sources: Wall Street banks led by Morgan Stanley have offloaded almost all of Elon Musk&#39;s $12.5B in loans used to buy Twitter, and now hold $1B+ in X debt &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p6#a250217p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
