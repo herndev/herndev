@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber The Swedish Maker wears a Meta Quest 3 VR headset for his entire woodworking project and miraculously emerges with all fingers intact](https://www.pcgamer.com/hardware/vr-hardware/youtuber-the-swedish-maker-wears-a-meta-quest-3-vr-headset-for-his-entire-woodworking-project-and-miraculously-emerges-with-all-fingers-intact/)
- - [Claims about AMD moving to a 12-core chiplet design for Zen 6 have got me all kinds of excited for the next generation of X3D processors](https://www.pcgamer.com/hardware/processors/claims-about-amd-moving-to-a-12-core-chiplet-design-for-zen-6-have-got-me-all-kinds-of-excited-for-the-next-generation-of-x3d-processors/)
- - [Don&#39;t get rid of your starting horse in Kingdom Come: Deliverance 2—there&#39;s a secret perk that makes her the best in the game](https://www.pcgamer.com/games/rpg/dont-get-rid-of-your-starting-horse-in-kingdom-come-deliverance-2-theres-a-secret-perk-that-makes-her-the-best-in-the-game/)<!-- GAME:END -->
+ - [&#39;Not every story is told in that way&#39;: Phil Spencer says that live service games aren&#39;t the answer to every problem, and that smaller games play an important role](https://www.pcgamer.com/gaming-industry/not-every-story-is-told-in-that-way-phil-spencer-says-that-live-service-games-arent-the-answer-to-every-problem-and-that-smaller-games-play-an-important-role/)
+ - [Viewers watch in horror, unable to help, as blindfolded Super Mario 64 speedrunner almost gets a world record that wouldn&#39;t have counted: &#39;I would&#39;ve cried&#39;](https://www.pcgamer.com/games/viewers-watch-in-horror-unable-to-help-as-blindfolded-super-mario-64-speedrunner-almost-gets-a-world-record-that-wouldnt-have-counted-i-wouldve-cried/)
+ - [YouTuber The Swedish Maker wears a Meta Quest 3 VR headset for his entire woodworking project and miraculously emerges with all fingers intact](https://www.pcgamer.com/hardware/vr-hardware/youtuber-the-swedish-maker-wears-a-meta-quest-3-vr-headset-for-his-entire-woodworking-project-and-miraculously-emerges-with-all-fingers-intact/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
