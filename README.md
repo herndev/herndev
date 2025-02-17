@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X challenges a German court order requiring it to share metrics such as likes and shares with researchers before the February 23 election, in a test of EU&#39;s DSA &lpar;Politico&rpar;](http://www.techmeme.com/250217/p13#a250217p13)
- - [Looking for a smart lock? These Aqara and eufy ones are at record low prices!](https://www.androidauthority.com/aqara-smart-lock-u300-eufy-smart-lock-c33-deals-3526982/)
- - [BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)<!-- TECH:END -->
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [A team from SpaceX is being brought in to overhaul FAA’s air traffic control system](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
