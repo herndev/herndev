@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Japanese patent attorney, burdened with a party pooper&#39;s knowledge, says Nintendo having 22 out of 23 Palworld-targeting claims &#39;rejected&#39; in the US is business as usual](https://www.pcgamer.com/games/survival-crafting/japanese-patent-attorney-burdened-with-a-party-poopers-knowledge-says-nintendo-having-22-out-of-23-palworld-targeting-claims-rejected-in-the-us-is-business-as-usual/)
- - [The new game from The Witcher 3&#39;s director revives the best tradition of Morrowind by letting you kill off &#39;really important NPCs&#39;](https://www.pcgamer.com/games/rpg/the-new-game-from-the-witcher-3s-director-revives-the-best-tradition-of-morrowind-by-letting-you-kill-off-really-important-npcs/)
- - [What time does Avowed release on Game Pass and Steam?](https://www.polygon.com/avowed-guides/521374/release-time-early-access-game-pass-est-pst)<!-- GAME:END -->
+ - [Reacher season 3, Your Friendly Neighborhood Spider-Man finale, and more new TV this week](https://www.polygon.com/tv/517722/new-netflix-reacher-spider-man-de-niro)
+ - [What time does Avowed release on Game Pass and Steam?](https://www.polygon.com/avowed-guides/521374/release-time-early-access-game-pass-est-pst)
+ - [Japanese patent attorney, burdened with a party pooper&#39;s knowledge, says Nintendo having 22 out of 23 Palworld-targeting claims &#39;rejected&#39; in the US is business as usual](https://www.pcgamer.com/games/survival-crafting/japanese-patent-attorney-burdened-with-a-party-poopers-knowledge-says-nintendo-having-22-out-of-23-palworld-targeting-claims-rejected-in-the-us-is-business-as-usual/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
