@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
- - ⏩ [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
- - 👉 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)<!-- MEMES:END -->
+ - 💣 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
+ - ⏩ [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
+ - 👉 [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)<!-- MEMES:END -->
 
 ---
 
