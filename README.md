@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: the NYT greenlights the use of select internal and external AI tools for editorial and product staff, including from OpenAI, Amazon, Google, and Microsoft &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/250216/p12#a250216p12)
  - [Best Nanny Cams for 2025](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)
- - [Best Roku TV for 2025](https://www.cnet.com/tech/home-entertainment/best-roku-tv/#ftag=CAD590a51e)
- - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Roku TV for 2025](https://www.cnet.com/tech/home-entertainment/best-roku-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
