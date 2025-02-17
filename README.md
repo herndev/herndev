@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How](http://9gag.com/gag/agmQRnw)
- - ⏩ [Make sense...](http://9gag.com/gag/aLnLyYv)
+ - 💣 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
+ - ⏩ [Give me your best Chuck Norris&#39;s facts..](http://9gag.com/gag/amoW3dV)
  - 👉 [Lesbians have a monopoly on tom boys](http://9gag.com/gag/aXPLBMd)<!-- MEMES:END -->
 
 ---
