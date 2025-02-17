@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;ve ever wished Phoenix Wright was a witcher then do I have the game for you](https://www.pcgamer.com/games/visual-novel/if-youve-ever-wished-phoenix-wright-was-a-witcher-then-do-i-have-the-game-for-you/)
- - [Shovel Knight artist says throwback games need &#39;retro authenticity&#39; but can&#39;t coast on nostalgia alone: &#39;Part of the appeal of the NES era of game making was that everything was a new idea&#39;](https://www.pcgamer.com/games/action/shovel-knight-artist-says-throwback-games-need-retro-authenticity-but-cant-coast-on-nostalgia-alone-part-of-the-appeal-of-the-nes-era-of-game-making-was-that-everything-was-a-new-idea/)
- - [Today&#39;s Wordle answer for Monday, February 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-17-2025/)<!-- GAME:END -->
+ - [YouTuber The Swedish Maker wears a Meta Quest 3 VR headset for his entire woodworking project and miraculously emerges with all fingers intact](https://www.pcgamer.com/hardware/vr-hardware/youtuber-the-swedish-maker-wears-a-meta-quest-3-vr-headset-for-his-entire-woodworking-project-and-miraculously-emerges-with-all-fingers-intact/)
+ - [Claims about AMD moving to a 12-core chiplet design for Zen 6 have got me all kinds of excited for the next generation of X3D processors](https://www.pcgamer.com/hardware/processors/claims-about-amd-moving-to-a-12-core-chiplet-design-for-zen-6-have-got-me-all-kinds-of-excited-for-the-next-generation-of-x3d-processors/)
+ - [Don&#39;t get rid of your starting horse in Kingdom Come: Deliverance 2—there&#39;s a secret perk that makes her the best in the game](https://www.pcgamer.com/games/rpg/dont-get-rid-of-your-starting-horse-in-kingdom-come-deliverance-2-theres-a-secret-perk-that-makes-her-the-best-in-the-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
