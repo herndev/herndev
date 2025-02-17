@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&#39;Queers for Palestine&#39; screech at black Trump supporter](http://9gag.com/gag/aXPLD9d)
- - ⏩ [Idk what this is but I like it](http://9gag.com/gag/aYQG2n7)
- - 👉 [Women logic](http://9gag.com/gag/aRBLn4G)<!-- MEMES:END -->
+ - 💣 [How](http://9gag.com/gag/agmQRnw)
+ - ⏩ [Make sense...](http://9gag.com/gag/aLnLyYv)
+ - 👉 [Lesbians have a monopoly on tom boys](http://9gag.com/gag/aXPLBMd)<!-- MEMES:END -->
 
 ---
 
