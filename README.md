@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple smart display update, Netflix in the Apple TV app, and more on HomeKit Insider](https://appleinsider.com/articles/25/02/17/apple-smart-display-update-netflix-in-the-apple-tv-app-and-more-on-homekit-insider?utm_medium=rss)
- - [Why Surfshark Alternative Number can protect you from scammers](https://appleinsider.com/articles/25/02/17/why-surfshark-alternative-number-can-protect-you-from-scammers?utm_medium=rss)
- - [iPhone 17 design will be dramatically different, says leaker](https://appleinsider.com/articles/25/02/17/iphone-17-design-will-be-dramatically-different-says-leaker?utm_medium=rss)<!-- TECH:END -->
+ - [The best Presidents Day sales from Apple, Bose, Google, and more](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)
+ - [You can now play Android games on PC with only a keyboard](https://www.androidauthority.com/remap-controls-google-play-games-on-pc-3526996/)
+ - [Only today: GE Cync color smart lights just $11.99 for a 2-pack!](https://www.androidauthority.com/ge-cync-a19-smart-led-light-bulbs-2-pack-deal-3526983/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
