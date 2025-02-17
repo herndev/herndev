@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
- - ⏩ [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - 💣 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
+ - ⏩ [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
  - 👉 [Massage Competition](http://9gag.com/gag/aqyX9zM)<!-- MEMES:END -->
 
 ---
