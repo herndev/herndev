@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It should be just a calm ice fishing](http://9gag.com/gag/aGyL3Y0)
- - ⏩ [Cheers](http://9gag.com/gag/aRB4wpA)
- - 👉 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)<!-- MEMES:END -->
+ - 💣 [WhyIsThisSoTrueThough](http://9gag.com/gag/aGyLPK7)
+ - ⏩ [#feelingblessed](http://9gag.com/gag/aD27ENK)
+ - 👉 [Mass effect 2 is the best in the series.](http://9gag.com/gag/aD26RwG)<!-- MEMES:END -->
 
 ---
 
