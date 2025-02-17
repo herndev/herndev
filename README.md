@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
- - ⏩ [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
- - 👉 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
+ - 💣 [Interesting](http://9gag.com/gag/aE06doe)
+ - ⏩ [Lets bring emo back, show some sexy pics please](http://9gag.com/gag/aE0MrnM)
+ - 👉 [Too hard.](http://9gag.com/gag/aLnLqjM)<!-- MEMES:END -->
 
 ---
 
