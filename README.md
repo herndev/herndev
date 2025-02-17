@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
- - ⏩ [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)
- - 👉 [Massage Competition](http://9gag.com/gag/aqyX9zM)<!-- MEMES:END -->
+ - 💣 [Line Up Boys](http://9gag.com/gag/aQzgwbW)
+ - ⏩ [When she tells you I only see you as a friend](http://9gag.com/gag/a0eX8pn)
+ - 👉 [Make sense...](http://9gag.com/gag/aLnLyYv)<!-- MEMES:END -->
 
 ---
 
