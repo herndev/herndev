@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Infinity Nikki codes for February 2025](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)
- - [Genshin Impact codes for February 2025](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)
- - [Ubisoft announces the &#39;biggest transformation in Rainbow Six Siege&#39;s history&#39; for later this year, so big they&#39;re adding an &#39;X&#39; to the name. But don&#39;t call it a sequel](https://www.pcgamer.com/games/fps/ubisoft-announces-the-biggest-transformation-in-rainbow-six-sieges-history-for-later-this-year-so-big-theyre-adding-an-x-to-the-name-but-dont-call-it-a-sequel/)<!-- GAME:END -->
+ - [Japanese patent attorney, burdened with a party pooper&#39;s knowledge, says Nintendo having 22 out of 23 Palworld-targeting claims &#39;rejected&#39; in the US is business as usual](https://www.pcgamer.com/games/survival-crafting/japanese-patent-attorney-burdened-with-a-party-poopers-knowledge-says-nintendo-having-22-out-of-23-palworld-targeting-claims-rejected-in-the-us-is-business-as-usual/)
+ - [The new game from The Witcher 3&#39;s director revives the best tradition of Morrowind by letting you kill off &#39;really important NPCs&#39;](https://www.pcgamer.com/games/rpg/the-new-game-from-the-witcher-3s-director-revives-the-best-tradition-of-morrowind-by-letting-you-kill-off-really-important-npcs/)
+ - [What time does Avowed release on Game Pass and Steam?](https://www.polygon.com/avowed-guides/521374/release-time-early-access-game-pass-est-pst)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
