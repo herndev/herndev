@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t forget to redeem T-Mobile’s free MLS Season Pass perk](https://www.androidauthority.com/t-mobile-metro-mls-season-pass-3527338/)
- - [Arkham: FTX users with claims below $50K have started to receive funds via Kraken and BitGo, expected to total $1.2B; users with $50K+ claims will be paid in Q2 &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250218/p18#a250218p18)
- - [Magic: The Gathering’s Final Fantasy sets will tell the stories of the games](https://www.theverge.com/news/614519/magic-the-gathering-final-fantasy-commander-sets)<!-- TECH:END -->
+ - [Google is working on a brighter future for Google TV remotes](https://www.androidauthority.com/google-tv-backlit-remotes-3527400/)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
