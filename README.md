@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
- - ⏩ [If you love your job you won&#39;t work a day in your life](http://9gag.com/gag/aZZ1xm3)
- - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
+ - 💣 [Just let it go](http://9gag.com/gag/aMVB20P)
+ - ⏩ [That escalated quickly](http://9gag.com/gag/a2vwPv9)
+ - 👉 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)<!-- MEMES:END -->
 
 ---
 
