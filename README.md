@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says LlamaCon, its first developer conference dedicated to generative AI, will take place on April 29, and Meta Connect will be held on September 17 and 18 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250218/p17#a250218p17)
- - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
- - [OnePlus Watch 3 buyers in the US will miss out on this key feature](https://www.androidauthority.com/oneplus-watch-3-ecg-missing-us-3527244/)<!-- TECH:END -->
+ - [Don’t forget to redeem T-Mobile’s free MLS Season Pass perk](https://www.androidauthority.com/t-mobile-metro-mls-season-pass-3527338/)
+ - [Arkham: FTX users with claims below $50K have started to receive funds via Kraken and BitGo, expected to total $1.2B; users with $50K+ claims will be paid in Q2 &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250218/p18#a250218p18)
+ - [Magic: The Gathering’s Final Fantasy sets will tell the stories of the games](https://www.theverge.com/news/614519/magic-the-gathering-final-fantasy-commander-sets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
