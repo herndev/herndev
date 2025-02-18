@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skibidi Toilet studio looking to flush out imitators in court](https://www.polygon.com/news/524984/skibidi-toilet-lawsuit-copyright)
- - [Relic&#39;s new project is a &#39;smaller indie-style&#39; game about a martian invasion of Earth](https://www.pcgamer.com/games/rts/relics-new-project-is-a-smaller-indie-style-game-about-a-martian-invasion-of-earth/)
- - [Marvel Rivals Is Finally Making Some Big Balance Changes In Its Mid-Season Patch](https://kotaku.com/marvel-rivals-balance-patch-human-torch-thing-update-1851765320)<!-- GAME:END -->
+ - [The Black Widow situation is dire in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/the-black-widow-situation-is-dire-in-marvel-rivals/)
+ - [Magic’s first batch of Final Fantasy cards are here, and they look amazing](https://www.polygon.com/mtg-magic-the-gathering/525299/final-fantasy-preview-cards-first-look-magiccon-chicago)
+ - [Valve releases &#39;Team Fortress 2 SDK,&#39; enabling creators to &#39;build completely new games based on TF2&#39;](https://www.pcgamer.com/games/fps/valve-releases-team-fortress-2-sdk-enabling-creators-to-build-completely-new-games-based-on-tf2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
