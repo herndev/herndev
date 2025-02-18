@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You know the drill: Avowed&#39;s default waypoint and UI settings are way too handholdy, so you should change them ASAP](https://www.pcgamer.com/games/rpg/you-know-the-drill-avoweds-default-waypoint-and-ui-settings-are-way-too-handholdy-so-you-should-change-them-asap/)
- - [The 2025 D&amp;#038;D Monster Manual is now available](https://www.polygon.com/deals/524790/dungeons-dragons-dnd-monster-manual-revised-2025-where-to-buy)
- - [A new Umbrella Academy comic will finally deliver the anticipated Sparrow arc](https://www.polygon.com/comics/525062/new-umbrella-academy-comic-plan-b)<!-- GAME:END -->
+ - [Xbox CEO Confirms What We Knew: The Console Wars Are Over](https://kotaku.com/xbox-ceo-phil-spencer-console-wars-over-ps5-switch-era-1851765304)
+ - [Avowed lets you pretend your character&#39;s not a stinky mushroom person, but that&#39;s the coward&#39;s choice](https://www.pcgamer.com/games/rpg/avowed-lets-you-pretend-your-characters-not-a-stinky-mushroom-person-but-thats-the-cowards-choice/)
+ - [Marvel Rivals developers in the US are saying they&#39;ve been laid off, despite launching a game with more than 20 million players](https://www.pcgamer.com/games/third-person-shooter/just-couldnt-dodge-that-big-boot-i-guess-no-matter-how-big-the-success-of-the-gig-marvel-rivals-developers-in-the-us-say-netease-just-laid-off-their-whole-team/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
