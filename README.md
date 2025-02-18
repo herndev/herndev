@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pranking people in Brazil](http://9gag.com/gag/aKGAzw1)
- - ⏩ [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)
+ - 💣 [Forklift save](http://9gag.com/gag/aAy6Bz2)
+ - ⏩ [The Man, The Myth, The Mask](http://9gag.com/gag/ae913GQ)
  - 👉 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)<!-- MEMES:END -->
 
 ---
