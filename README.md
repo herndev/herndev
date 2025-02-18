@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
- - ⏩ [Forklift save](http://9gag.com/gag/aAy6Bz2)
- - 👉 [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)<!-- MEMES:END -->
+ - 💣 [Alive for another 74 hours](http://9gag.com/gag/aO8eyYN)
+ - ⏩ [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)
+ - 👉 [What color is Pikachu?](http://9gag.com/gag/aGyLP9X)<!-- MEMES:END -->
 
 ---
 
