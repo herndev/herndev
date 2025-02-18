@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)
- - ⏩ [I watch Tekken for the plot](http://9gag.com/gag/abA1yE8)
- - 👉 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)<!-- MEMES:END -->
+ - 💣 [She tried](http://9gag.com/gag/amo10xX)
+ - ⏩ [Jerry Seinfeld is an absolute legend.](http://9gag.com/gag/a7oOL5A)
+ - 👉 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)<!-- MEMES:END -->
 
 ---
 
