@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect Fans Are Freaking Out About Avowed’s Sexy Fish Man Companion](https://kotaku.com/avowed-kai-mass-effect-garrus-voice-brandon-keener-1851765192)
- - [OLED monitor market set to grow from just $75 million in 2022 to $1 billion in 2025 as LG commits to much brighter gaming OLEDs](https://www.pcgamer.com/hardware/gaming-monitors/oled-monitor-market-set-to-grow-from-just-usd75-million-in-2022-to-usd1-billion-in-2025-as-lg-commits-to-much-brighter-gaming-oleds/)
- - [How to parry in Avowed](https://www.polygon.com/avowed-guides/524644/parry-how-to-timing-unlock)<!-- GAME:END -->
+ - [How to save Fior mes Ivèrno in Avowed](https://www.pcgamer.com/games/rpg/avowed-save-fior-mes-iverno/)
+ - [Delemgan Queen stealth route in Avowed: How to get the adragan heart without fighting her](https://www.pcgamer.com/games/rpg/avowed-delemgan-queen-walkthrough-stealth-peaceful-route/)
+ - [The most luxurious Catan upgrades are on Kickstarter](https://www.polygon.com/tabletop-games/524778/catan-masterpiece-series-pieces-upgrade-kickstarter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
