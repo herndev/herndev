@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is where gender equality ends](http://9gag.com/gag/a0eX98d)
- - ⏩ [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
- - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
+ - 💣 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
+ - ⏩ [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - 👉 [She tried](http://9gag.com/gag/amo10xX)<!-- MEMES:END -->
 
 ---
 
