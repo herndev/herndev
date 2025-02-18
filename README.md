@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
- - ⏩ [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)
- - 👉 [Frozen Freeza!](http://9gag.com/gag/aD26Rxx)<!-- MEMES:END -->
+ - ⏩ [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
+ - 👉 [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)<!-- MEMES:END -->
 
 ---
 
