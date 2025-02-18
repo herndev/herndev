@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memecoin Scandal Threatens Argentina’s Milei](https://www.wired.com/story/memecoin-scandal-threatens-argentine-president-javier-milei/)
- - [Tel Aviv- and New York-based Blockaid, which offers crypto security tools, raised a $50M Series B led by Ribbit and says it stopped 71M attacks in 2024 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250218/p16#a250218p16)
- - [Gemini could soon be upgraded with video generation features &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-video-generation-apk-teardown-3527254/)<!-- TECH:END -->
+ - [China fighting to stop Apple&#39;s supply chain exodus to India](https://appleinsider.com/articles/25/02/18/china-fighting-to-stop-apples-supply-chain-exodus-to-india?utm_medium=rss)
+ - [Nothing’s new video pits the Phone 3A’s camera against the iPhone 16 Pro Max](https://www.theverge.com/news/614297/nothing-phone-3a-periscope-camera-comparison-iphone-16-pro-max)
+ - [EU pushes forward with Apple antitrust investigation despite Trump&#39;s criticisms](https://appleinsider.com/articles/25/02/18/eu-pushes-forward-with-apple-antitrust-investigation-despite-trumps-criticisms?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
