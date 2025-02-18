@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude started congratulating his own death](http://9gag.com/gag/awy3NR4)
- - ⏩ [Must protect, must snatch](http://9gag.com/gag/a5Q6epO)
- - 👉 [Who has two thumbs and doesn\u2019t give a crap?](http://9gag.com/gag/a5QVLDg)<!-- MEMES:END -->
+ - 💣 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - ⏩ [Average Chinese working environment](http://9gag.com/gag/a5QVLzo)
+ - 👉 [What color is Pikachu?](http://9gag.com/gag/aGyLP9X)<!-- MEMES:END -->
 
 ---
 
