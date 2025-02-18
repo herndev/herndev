@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)
- - [Elon Musk&amp;#8217;s xAI adds &amp;#8216;Big Brain&amp;#8217; reasoning to Grok-3](https://www.theverge.com/news/614218/elon-musk-xai-big-brain-reasoning-grok-3)
- - [Ratio Four Coffee Maker: Terrific Single-Serve Drip](https://www.wired.com/review/ratio-four-coffee-maker/)<!-- TECH:END -->
+ - [Here’s how I set up my Pixel Launcher for maximum productivity](https://www.androidauthority.com/pixel-launcher-setup-productivity-3522859/)
+ - [Google Calendar Malware Is on the Rise. Here’s How To Stay Safe](https://www.wired.com/story/google-calendar-malware-is-on-the-rise-heres-how-to-stay-safe/)
+ - [OnePlus Watch 3: The Battery King of Smartwatches](https://www.wired.com/review/oneplus-watch-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
