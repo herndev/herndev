@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Elon Musk doesn&amp;#8217;t work for DOGE](https://www.theverge.com/news/614253/elon-musk-not-doge-leader-presidential-advisor)
- - [24 Best MagSafe Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)<!-- TECH:END -->
+ - [Memecoin Scandal Threatens Argentina’s Milei](https://www.wired.com/story/memecoin-scandal-threatens-argentine-president-javier-milei/)
+ - [Tel Aviv- and New York-based Blockaid, which offers crypto security tools, raised a $50M Series B led by Ribbit and says it stopped 71M attacks in 2024 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250218/p16#a250218p16)
+ - [Gemini could soon be upgraded with video generation features &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-video-generation-apk-teardown-3527254/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
