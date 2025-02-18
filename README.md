@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
- - ⏩ [Headshot](http://9gag.com/gag/abAePoL)
- - 👉 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)<!-- MEMES:END -->
+ - 💣 [Fun Fact: the book she&#39;s reading is by David Benioff, writer of GoT season 8, which `subverted expectations.`](http://9gag.com/gag/ayNqgVY)
+ - ⏩ [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
+ - 👉 [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)<!-- MEMES:END -->
 
 ---
 
