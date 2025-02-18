@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance 2 players are seized by the spirit of generosity, band together to buy strangers in need over $1,500 in copies](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-players-are-seized-by-the-spirit-of-generosity-band-together-to-buy-strangers-in-need-over-usd1-500-in-copies/)
- - [Dead by Daylight delays its existing update plans for a &#39;substantial quality of life initiative&#39;, which includes adding a surrender mode and cracking down on &#39;extreme hiding&#39;](https://www.pcgamer.com/games/horror/dead-by-daylight-delays-its-existing-update-plans-for-a-substantial-quality-of-life-initiative-which-includes-adding-a-surrender-mode-and-cracking-down-on-extreme-hiding/)
- - [Ducky One X review](https://www.pcgamer.com/hardware/gaming-keyboards/ducky-one-x-review/)<!-- GAME:END -->
+ - [TSMC now said not to be eyeing up Intel&#39;s fabs while other rumours suggest Intel could be split between TSMC and Broadcom](https://www.pcgamer.com/hardware/processors/tsmc-now-said-not-to-be-eyeing-up-intels-fabs-while-other-rumours-suggest-intel-could-be-split-between-tsmc-and-broadcom/)
+ - [The Elder Scrolls 6 is offering one lucky player the chance to be made into an NPC for charity, but you&#39;ll have to beat the current winning bid of $11,050 first](https://www.pcgamer.com/games/rpg/the-elder-scrolls-6-is-offering-one-lucky-player-the-chance-to-be-made-into-an-npc-for-charity-but-youll-have-to-beat-the-current-winning-bid-of-usd11-050-first/)
+ - [Kingdom Come: Deliverance 2 players are seized by the spirit of generosity, band together to buy strangers in need over $1,500 in copies](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-players-are-seized-by-the-spirit-of-generosity-band-together-to-buy-strangers-in-need-over-usd1-500-in-copies/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
