@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She tried](http://9gag.com/gag/amo10xX)
- - ⏩ [Jerry Seinfeld is an absolute legend.](http://9gag.com/gag/a7oOL5A)
- - 👉 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)<!-- MEMES:END -->
+ - 💣 [This is where gender equality ends](http://9gag.com/gag/a0eX98d)
+ - ⏩ [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
+ - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
 
 ---
 
