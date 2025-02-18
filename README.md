@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Inkay be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/523534/can-inkay-be-shiny-malamar)
  - [Today&#39;s Wordle answer for Tuesday, February 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-18-2025/)
- - [If you&#39;re a fan of giant robots I urge you to watch the Mecharashi cinematic trailer](https://www.pcgamer.com/games/rpg/if-youre-a-fan-of-giant-robots-i-urge-you-to-watch-the-mecharashi-cinematic-trailer/)
- - [Monster Hunter Wilds collaboration coming to Monster Hunter Now, including new monster](https://www.polygon.com/gaming/524676/monster-hunter-wilds-now-chatacabra-collaboration)<!-- GAME:END -->
+ - [If you&#39;re a fan of giant robots I urge you to watch the Mecharashi cinematic trailer](https://www.pcgamer.com/games/rpg/if-youre-a-fan-of-giant-robots-i-urge-you-to-watch-the-mecharashi-cinematic-trailer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
