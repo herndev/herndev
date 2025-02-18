@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox CEO Confirms What We Knew: The Console Wars Are Over](https://kotaku.com/xbox-ceo-phil-spencer-console-wars-over-ps5-switch-era-1851765304)
- - [Avowed lets you pretend your character&#39;s not a stinky mushroom person, but that&#39;s the coward&#39;s choice](https://www.pcgamer.com/games/rpg/avowed-lets-you-pretend-your-characters-not-a-stinky-mushroom-person-but-thats-the-cowards-choice/)
- - [Marvel Rivals developers in the US are saying they&#39;ve been laid off, despite launching a game with more than 20 million players](https://www.pcgamer.com/games/third-person-shooter/just-couldnt-dodge-that-big-boot-i-guess-no-matter-how-big-the-success-of-the-gig-marvel-rivals-developers-in-the-us-say-netease-just-laid-off-their-whole-team/)<!-- GAME:END -->
+ - [Skibidi Toilet studio looking to flush out imitators in court](https://www.polygon.com/news/524984/skibidi-toilet-lawsuit-copyright)
+ - [Relic&#39;s new project is a &#39;smaller indie-style&#39; game about a martian invasion of Earth](https://www.pcgamer.com/games/rts/relics-new-project-is-a-smaller-indie-style-game-about-a-martian-invasion-of-earth/)
+ - [Marvel Rivals Is Finally Making Some Big Balance Changes In Its Mid-Season Patch](https://kotaku.com/marvel-rivals-balance-patch-human-torch-thing-update-1851765320)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
