@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bocchi The Rock is getting a second season](https://www.polygon.com/anime/524987/bocchi-rock-anime-season-2-announcement)
- - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)
- - [Pokémon Go ‘Scattered to the Winds’ event guide](https://www.polygon.com/pokemon-go-guide/524795/scattered-to-the-wind-timed-research-collection-challenge)<!-- GAME:END -->
+ - [You know the drill: Avowed&#39;s default waypoint and UI settings are way too handholdy, so you should change them ASAP](https://www.pcgamer.com/games/rpg/you-know-the-drill-avoweds-default-waypoint-and-ui-settings-are-way-too-handholdy-so-you-should-change-them-asap/)
+ - [The 2025 D&amp;#038;D Monster Manual is now available](https://www.polygon.com/deals/524790/dungeons-dragons-dnd-monster-manual-revised-2025-where-to-buy)
+ - [A new Umbrella Academy comic will finally deliver the anticipated Sparrow arc](https://www.polygon.com/comics/525062/new-umbrella-academy-comic-plan-b)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
