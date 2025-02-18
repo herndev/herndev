@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tucker was missing the pool so they took him and Todd to an indoor pool](http://9gag.com/gag/adB1NwQ)
- - ⏩ [He&#39;s a real one for that](http://9gag.com/gag/aW47ZbK)
- - 👉 [Brock Lesnar shakes kid\u2019s hand who beat his son in wrestling match.](http://9gag.com/gag/a7oOKy2)<!-- MEMES:END -->
+ - 💣 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
+ - ⏩ [Share something you didn&#39;t know](http://9gag.com/gag/azxd7Mp)
+ - 👉 [Frozen Freeza!](http://9gag.com/gag/aD26Rxx)<!-- MEMES:END -->
 
 ---
 
