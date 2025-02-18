@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Shuhei Yoshida, who led PlayStation Studios from 2008-2019 and left Sony on January 15, on his 31 years at PlayStation, early days, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250218/p5#a250218p5)
- - [Tim Cook Drops Hint on iPhone SE&#39;s Launch for Tomorrow](https://www.cnet.com/tech/mobile/tim-cook-drops-hint-on-iphone-ses-launch-for-tomorrow/#ftag=CAD590a51e)
- - [Someone just released a PS3 emulator for Android &lpar;Update: Testing and controversy&rpar;](https://www.androidauthority.com/aps3e-ps3-emulator-3526869/)<!-- TECH:END -->
+ - [Android 16’s enhanced Advanced Protection will let apps know when you’re serious about security](https://www.androidauthority.com/android-16-advanced-protection-api-3527060/)
+ - [A look at Apple&#39;s quiet pivot to India, where Foxconn now makes the iPhone 16 Pro; sources say China views Apple&#39;s growing business in India with suspicion &lpar;Financial Times&rpar;](http://www.techmeme.com/250218/p8#a250218p8)
+ - [Nintendo Switch 2 announcement: all the news on the next console](https://www.theverge.com/24284512/nintendo-switch-2-direct-news-trailers-games-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
