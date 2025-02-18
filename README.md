@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How militaries and startups like North.io use AI to analyze data and deploy autonomous underwater vehicles to safeguard deep-sea pipelines and cables &lpar;William Boston/Wall Street Journal&rpar;](http://www.techmeme.com/250217/p18#a250217p18)
  - [These Are the Best Smart Devices for Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
- - [Spotify’s HiFi streaming could finally arrive this year](https://www.theverge.com/news/614091/spotify-music-pro-hifi-streaming-service-release-date-2025)
- - [Chase plans to stop users making Zelle payments deemed &quot;as originating from contact through social media&quot;; the CFPB had claimed Zelle lacked adequate safeguards &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250217/p17#a250217p17)<!-- TECH:END -->
+ - [Spotify’s HiFi streaming could finally arrive this year](https://www.theverge.com/news/614091/spotify-music-pro-hifi-streaming-service-release-date-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
