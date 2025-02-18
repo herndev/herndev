@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just let it go](http://9gag.com/gag/aMVB20P)
- - ⏩ [That escalated quickly](http://9gag.com/gag/a2vwPv9)
- - 👉 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)<!-- MEMES:END -->
+ - 💣 [She tried](http://9gag.com/gag/amo10xX)
+ - ⏩ [Hmm](http://9gag.com/gag/a9y6L2j)
+ - 👉 [New Achievement Unlocked!](http://9gag.com/gag/agm1y0x)<!-- MEMES:END -->
 
 ---
 
