@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Basketball game](http://9gag.com/gag/aD263wG)
+ - 💣 [Tucker was missing the pool so they took him and Todd to an indoor pool](http://9gag.com/gag/adB1NwQ)
  - ⏩ [He&#39;s a real one for that](http://9gag.com/gag/aW47ZbK)
- - 👉 [Pranking people in Brazil](http://9gag.com/gag/aKGAzw1)<!-- MEMES:END -->
+ - 👉 [Brock Lesnar shakes kid\u2019s hand who beat his son in wrestling match.](http://9gag.com/gag/a7oOKy2)<!-- MEMES:END -->
 
 ---
 
