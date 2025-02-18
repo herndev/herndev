@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your loyalty cards just got smarter with a new Google Wallet feature](https://www.androidauthority.com/google-wallet-loyalty-cards-upgrade-3527152/)
  - [An interview with Nextdoor CEO Nirav Tolia on building the &quot;next Nextdoor&quot;, not licensing data to AI firms for now, his relationship with Bill Gurley, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250217/p19#a250217p19)
- - [Google app preps for Search’s AI Mode with a new selection of shortcuts &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-home-page-shortcuts-apk-3526968/)
- - [How militaries and startups like North.io use AI to analyze data and deploy autonomous underwater vehicles to safeguard deep-sea pipelines and cables &lpar;William Boston/Wall Street Journal&rpar;](http://www.techmeme.com/250217/p18#a250217p18)<!-- TECH:END -->
+ - [Google app preps for Search’s AI Mode with a new selection of shortcuts &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-home-page-shortcuts-apk-3526968/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
