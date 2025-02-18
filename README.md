@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Triple-screen Mate XT is going international with its highest pricing yet](https://www.androidauthority.com/mate-xt-international-pricing-3527478/)
- - [Bumble reports Q4 revenue down 4.4% YoY to $261.6M, Bumble app paying users up 5% to 2.8M, and forecasts Q1 revenue below estimates; BMBL drops 13%+ after hours &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250218/p26#a250218p26)
- - [Elon Musk’s DOGE Is Being Sued Under the Privacy Act: What to Know](https://www.wired.com/story/privacy-act-doge-lawsuits/)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [DOGE can keep accessing government data for now, judge rules](https://www.theverge.com/news/614861/doge-musk-states-temporary-restraining-order-judge-data)
+ - [Humane’s AI Pin: all the news about the dead AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
