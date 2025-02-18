@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Someone just released a PS3 emulator for Android &lpar;Update: Testing and controversy&rpar;](https://www.androidauthority.com/aps3e-ps3-emulator-3526869/)
  - [The Nothing Phone 3a Pro could beat the Galaxy S25 for camera zoom](https://www.androidauthority.com/nothing-phone-3a-series-specs-leak-3527172/)
- - [Sources: Sam Altman and OpenAI&#39;s board weigh governance changes, including special voting rights for its nonprofit board, to deter hostile bids like Musk&#39;s &lpar;Financial Times&rpar;](http://www.techmeme.com/250218/p4#a250218p4)
- - [Grok3 review: its thinking capability feels state of the art and rivals OpenAI&#39;s o1 pro models, DeepSearch offers a blend of search and reasoning, and more &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250218/p3#a250218p3)<!-- TECH:END -->
+ - [Sources: Sam Altman and OpenAI&#39;s board weigh governance changes, including special voting rights for its nonprofit board, to deter hostile bids like Musk&#39;s &lpar;Financial Times&rpar;](http://www.techmeme.com/250218/p4#a250218p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
