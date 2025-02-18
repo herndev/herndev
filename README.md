@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She tried](http://9gag.com/gag/amo10xX)
- - ⏩ [Hmm](http://9gag.com/gag/a9y6L2j)
- - 👉 [New Achievement Unlocked!](http://9gag.com/gag/agm1y0x)<!-- MEMES:END -->
+ - 💣 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)
+ - ⏩ [Just let it go](http://9gag.com/gag/aMVB20P)
+ - 👉 [The disrespect](http://9gag.com/gag/apR3Ev9)<!-- MEMES:END -->
 
 ---
 
