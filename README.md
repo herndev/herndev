@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how I set up my Pixel Launcher for maximum productivity](https://www.androidauthority.com/pixel-launcher-setup-productivity-3522859/)
- - [Google Calendar Malware Is on the Rise. Here’s How To Stay Safe](https://www.wired.com/story/google-calendar-malware-is-on-the-rise-heres-how-to-stay-safe/)
- - [OnePlus Watch 3: The Battery King of Smartwatches](https://www.wired.com/review/oneplus-watch-3/)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Elon Musk doesn&amp;#8217;t work for DOGE](https://www.theverge.com/news/614253/elon-musk-not-doge-leader-presidential-advisor)
+ - [24 Best MagSafe Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
