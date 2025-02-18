@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Toby Fox is still working on more Deltarune, folks, game development is just complicated](https://www.pcgamer.com/games/toby-fox-is-still-working-on-more-deltarune-folks-game-development-is-just-complicated/)
- - [Reacher season 3, Your Friendly Neighborhood Spider-Man finale, and more new TV this week](https://www.polygon.com/tv/517722/new-netflix-reacher-spider-man-de-niro)
- - [What time does Avowed release on Game Pass and Steam?](https://www.polygon.com/avowed-guides/521374/release-time-early-access-game-pass-est-pst)<!-- GAME:END -->
+ - [Monster Hunter Wilds collaboration coming to Monster Hunter Now, including new monster](https://www.polygon.com/gaming/524676/monster-hunter-wilds-now-chatacabra-collaboration)
+ - [Sure, why not, here&#39;s a guy beating Baldur&#39;s Gate 3 without a race or class at all](https://www.pcgamer.com/games/baldurs-gate/sure-why-not-heres-a-guy-beating-baldurs-gate-3-without-a-race-or-class-at-all/)
+ - [Toby Fox is still working on more Deltarune, folks, game development is just complicated](https://www.pcgamer.com/games/toby-fox-is-still-working-on-more-deltarune-folks-game-development-is-just-complicated/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
