@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your loyalty cards just got smarter with a new Google Wallet feature](https://www.androidauthority.com/google-wallet-loyalty-cards-upgrade-3527152/)
- - [An interview with Nextdoor CEO Nirav Tolia on building the &quot;next Nextdoor&quot;, not licensing data to AI firms for now, his relationship with Bill Gurley, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250217/p19#a250217p19)
- - [Google app preps for Search’s AI Mode with a new selection of shortcuts &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-home-page-shortcuts-apk-3526968/)<!-- TECH:END -->
+ - [The iPhone 17 Air looks like a Pixel winking at you in freshly leaked renders](https://www.androidauthority.com/apple-iphone-17-air-renders-leak-3527163/)
+ - [xAI unveils DeepSearch, a reasoning chatbot that explains its thought process for queries and is capable of doing research, brainstorming, and data analysis &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250218/p2#a250218p2)
+ - [xAI launches Grok3 beta and Grok3 mini, its latest AI models with reasoning capabilities, trained on &quot;10x&quot; more compute than Grok2, for X Premium+ subscribers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250218/p1#a250218p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
