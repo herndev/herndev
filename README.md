@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Average adventure time enjoyer](http://9gag.com/gag/aKGAz2j)
+ - 💣 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)
  - ⏩ [I watch Tekken for the plot](http://9gag.com/gag/abA1yE8)
- - 👉 [This is where gender equality ends](http://9gag.com/gag/a0eX98d)<!-- MEMES:END -->
+ - 👉 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)<!-- MEMES:END -->
 
 ---
 
