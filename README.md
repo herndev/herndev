@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Game Pass: Watch Dogs: Legion, EA Sports F1 24, and Warhammer 40,000: Rogue Trader](https://news.xbox.com/en-us/2025/02/18/xbox-game-pass-february-2025-wave-2/)
- - [‘A New Age Begins’ for Critical Role. Let’s hope it’s one for actual play and TTRPGs, too](https://www.polygon.com/critical-role/524508/actual-play-review-end-ttrpgs)
- - [LG&#39;s new 45-inch 5K2K uber OLED monitor goes into mass production and will land soon on a desk near you. For $2,000](https://www.pcgamer.com/hardware/gaming-monitors/lgs-new-45-inch-5k2k-uber-oled-monitor-goes-into-mass-production-and-will-land-soon-on-a-desk-near-you-for-usd2-000/)<!-- GAME:END -->
+ - [GTA 3 almost had us obeying traffic laws before Rockstar yanked it out, and if you&#39;re wondering if GTA 6 will bring it back: &#39;I&#39;m sure they&#39;ll realize it&#39;s a bad idea&#39;](https://www.pcgamer.com/games/grand-theft-auto/gta-3-almost-had-us-obeying-traffic-laws-before-rockstar-yanked-it-out-and-if-youre-wondering-if-gta-6-will-bring-it-back-im-sure-theyll-realize-its-a-bad-idea/)
+ - [Having spent many hours testing Avowed I&#39;ve found these three top tips are the best way to boost the game&#39;s performance](https://www.pcgamer.com/hardware/having-spent-many-hours-testing-avowed-ive-found-these-three-top-tips-are-the-best-way-to-boost-the-games-performance/)
+ - [All One Last Drink crew locations in Avowed](https://www.pcgamer.com/games/rpg/avowed-one-last-drink-crew-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
