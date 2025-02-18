@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is working on a brighter future for Google TV remotes](https://www.androidauthority.com/google-tv-backlit-remotes-3527400/)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)<!-- TECH:END -->
+ - [Google’s Pixel 10 lineup is looking confirmed in fresh regulatory listings](https://www.androidauthority.com/pixel-10-gsma-listings-3527442/)
+ - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
+ - [Sources describe disputes at Google between Google Labs and Workspace before NotebookLM&#39;s launch and between Google Cloud and DeepMind over the pace of launches &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250218/p22#a250218p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
