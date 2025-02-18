@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China fighting to stop Apple&#39;s supply chain exodus to India](https://appleinsider.com/articles/25/02/18/china-fighting-to-stop-apples-supply-chain-exodus-to-india?utm_medium=rss)
- - [Nothing’s new video pits the Phone 3A’s camera against the iPhone 16 Pro Max](https://www.theverge.com/news/614297/nothing-phone-3a-periscope-camera-comparison-iphone-16-pro-max)
- - [EU pushes forward with Apple antitrust investigation despite Trump&#39;s criticisms](https://appleinsider.com/articles/25/02/18/eu-pushes-forward-with-apple-antitrust-investigation-despite-trumps-criticisms?utm_medium=rss)<!-- TECH:END -->
+ - [Meta says LlamaCon, its first developer conference dedicated to generative AI, will take place on April 29, and Meta Connect will be held on September 17 and 18 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250218/p17#a250218p17)
+ - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
+ - [OnePlus Watch 3 buyers in the US will miss out on this key feature](https://www.androidauthority.com/oneplus-watch-3-ecg-missing-us-3527244/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
