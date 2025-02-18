@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alive for another 74 hours](http://9gag.com/gag/aO8eyYN)
- - ⏩ [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)
- - 👉 [What color is Pikachu?](http://9gag.com/gag/aGyLP9X)<!-- MEMES:END -->
+ - 💣 [Basketball game](http://9gag.com/gag/aD263wG)
+ - ⏩ [He&#39;s a real one for that](http://9gag.com/gag/aW47ZbK)
+ - 👉 [Pranking people in Brazil](http://9gag.com/gag/aKGAzw1)<!-- MEMES:END -->
 
 ---
 
