@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to save Fior mes Ivèrno in Avowed](https://www.pcgamer.com/games/rpg/avowed-save-fior-mes-iverno/)
- - [Delemgan Queen stealth route in Avowed: How to get the adragan heart without fighting her](https://www.pcgamer.com/games/rpg/avowed-delemgan-queen-walkthrough-stealth-peaceful-route/)
- - [The most luxurious Catan upgrades are on Kickstarter](https://www.polygon.com/tabletop-games/524778/catan-masterpiece-series-pieces-upgrade-kickstarter)<!-- GAME:END -->
+ - [Avowed Is Available Now – Your Journey Awaits](https://news.xbox.com/en-us/2025/02/18/avowed-available-now-your-journey-awaits/)
+ - [Stories from Sol: The Gun-Dog captures the spirit, as well as the sprites, of the past](https://www.pcgamer.com/games/stories-from-sol-the-gun-dog-captures-the-spirit-as-well-as-the-sprites-of-the-past/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
