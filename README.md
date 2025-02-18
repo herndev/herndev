@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet&amp;#8217;s AI transcripts will automatically create action items for you](https://www.theverge.com/news/614742/google-meet-gemini-ai-note-taking-action-items)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)<!-- TECH:END -->
+ - [Triple-screen Mate XT is going international with its highest pricing yet](https://www.androidauthority.com/mate-xt-international-pricing-3527478/)
+ - [Bumble reports Q4 revenue down 4.4% YoY to $261.6M, Bumble app paying users up 5% to 2.8M, and forecasts Q1 revenue below estimates; BMBL drops 13%+ after hours &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250218/p26#a250218p26)
+ - [Elon Musk’s DOGE Is Being Sued Under the Privacy Act: What to Know](https://www.wired.com/story/privacy-act-doge-lawsuits/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
