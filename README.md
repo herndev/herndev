@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16’s enhanced Advanced Protection will let apps know when you’re serious about security](https://www.androidauthority.com/android-16-advanced-protection-api-3527060/)
- - [A look at Apple&#39;s quiet pivot to India, where Foxconn now makes the iPhone 16 Pro; sources say China views Apple&#39;s growing business in India with suspicion &lpar;Financial Times&rpar;](http://www.techmeme.com/250218/p8#a250218p8)
- - [Nintendo Switch 2 announcement: all the news on the next console](https://www.theverge.com/24284512/nintendo-switch-2-direct-news-trailers-games-features)<!-- TECH:END -->
+ - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)
+ - [Elon Musk&amp;#8217;s xAI adds &amp;#8216;Big Brain&amp;#8217; reasoning to Grok-3](https://www.theverge.com/news/614218/elon-musk-xai-big-brain-reasoning-grok-3)
+ - [Ratio Four Coffee Maker: Terrific Single-Serve Drip](https://www.wired.com/review/ratio-four-coffee-maker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
