@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forklift save](http://9gag.com/gag/aAy6Bz2)
- - ⏩ [Ricky is how all comedians should be, totally unafraid of causing offence.](http://9gag.com/gag/a876LbV)
- - 👉 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)<!-- MEMES:END -->
+ - 💣 [Pranking people in Brazil](http://9gag.com/gag/aKGAzw1)
+ - ⏩ [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)
+ - 👉 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)<!-- MEMES:END -->
 
 ---
 
