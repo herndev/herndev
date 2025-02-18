@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TSMC now said not to be eyeing up Intel&#39;s fabs while other rumours suggest Intel could be split between TSMC and Broadcom](https://www.pcgamer.com/hardware/processors/tsmc-now-said-not-to-be-eyeing-up-intels-fabs-while-other-rumours-suggest-intel-could-be-split-between-tsmc-and-broadcom/)
- - [The Elder Scrolls 6 is offering one lucky player the chance to be made into an NPC for charity, but you&#39;ll have to beat the current winning bid of $11,050 first](https://www.pcgamer.com/games/rpg/the-elder-scrolls-6-is-offering-one-lucky-player-the-chance-to-be-made-into-an-npc-for-charity-but-youll-have-to-beat-the-current-winning-bid-of-usd11-050-first/)
- - [Kingdom Come: Deliverance 2 players are seized by the spirit of generosity, band together to buy strangers in need over $1,500 in copies](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-players-are-seized-by-the-spirit-of-generosity-band-together-to-buy-strangers-in-need-over-usd1-500-in-copies/)<!-- GAME:END -->
+ - [Coming Soon to Game Pass: Watch Dogs: Legion, EA Sports F1 24, and Warhammer 40,000: Rogue Trader](https://news.xbox.com/en-us/2025/02/18/xbox-game-pass-february-2025-wave-2/)
+ - [‘A New Age Begins’ for Critical Role. Let’s hope it’s one for actual play and TTRPGs, too](https://www.polygon.com/critical-role/524508/actual-play-review-end-ttrpgs)
+ - [LG&#39;s new 45-inch 5K2K uber OLED monitor goes into mass production and will land soon on a desk near you. For $2,000](https://www.pcgamer.com/hardware/gaming-monitors/lgs-new-45-inch-5k2k-uber-oled-monitor-goes-into-mass-production-and-will-land-soon-on-a-desk-near-you-for-usd2-000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
