@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avowed Is Available Now – Your Journey Awaits](https://news.xbox.com/en-us/2025/02/18/avowed-available-now-your-journey-awaits/)
- - [Stories from Sol: The Gun-Dog captures the spirit, as well as the sprites, of the past](https://www.pcgamer.com/games/stories-from-sol-the-gun-dog-captures-the-spirit-as-well-as-the-sprites-of-the-past/)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [Bocchi The Rock is getting a second season](https://www.polygon.com/anime/524987/bocchi-rock-anime-season-2-announcement)
+ - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)
+ - [Pokémon Go ‘Scattered to the Winds’ event guide](https://www.polygon.com/pokemon-go-guide/524795/scattered-to-the-wind-timed-research-collection-challenge)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
