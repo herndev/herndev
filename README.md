@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)
- - ⏩ [Which way ?](http://9gag.com/gag/a6ZXrLm)
- - 👉 [Dude started congratulating his own death](http://9gag.com/gag/awy3NR4)<!-- MEMES:END -->
+ - 💣 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
+ - ⏩ [Forklift save](http://9gag.com/gag/aAy6Bz2)
+ - 👉 [The bells on this Hitman Easter Egg](http://9gag.com/gag/aAy6BNE)<!-- MEMES:END -->
 
 ---
 
