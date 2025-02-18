@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel 10 lineup is looking confirmed in fresh regulatory listings](https://www.androidauthority.com/pixel-10-gsma-listings-3527442/)
- - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
- - [Sources describe disputes at Google between Google Labs and Workspace before NotebookLM&#39;s launch and between Google Cloud and DeepMind over the pace of launches &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250218/p22#a250218p22)<!-- TECH:END -->
+ - [Google Meet&amp;#8217;s AI transcripts will automatically create action items for you](https://www.theverge.com/news/614742/google-meet-gemini-ai-note-taking-action-items)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
