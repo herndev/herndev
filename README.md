@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 3 almost had us obeying traffic laws before Rockstar yanked it out, and if you&#39;re wondering if GTA 6 will bring it back: &#39;I&#39;m sure they&#39;ll realize it&#39;s a bad idea&#39;](https://www.pcgamer.com/games/grand-theft-auto/gta-3-almost-had-us-obeying-traffic-laws-before-rockstar-yanked-it-out-and-if-youre-wondering-if-gta-6-will-bring-it-back-im-sure-theyll-realize-its-a-bad-idea/)
- - [Having spent many hours testing Avowed I&#39;ve found these three top tips are the best way to boost the game&#39;s performance](https://www.pcgamer.com/hardware/having-spent-many-hours-testing-avowed-ive-found-these-three-top-tips-are-the-best-way-to-boost-the-games-performance/)
- - [All One Last Drink crew locations in Avowed](https://www.pcgamer.com/games/rpg/avowed-one-last-drink-crew-locations/)<!-- GAME:END -->
+ - [Mass Effect Fans Are Freaking Out About Avowed’s Sexy Fish Man Companion](https://kotaku.com/avowed-kai-mass-effect-garrus-voice-brandon-keener-1851765192)
+ - [OLED monitor market set to grow from just $75 million in 2022 to $1 billion in 2025 as LG commits to much brighter gaming OLEDs](https://www.pcgamer.com/hardware/gaming-monitors/oled-monitor-market-set-to-grow-from-just-usd75-million-in-2022-to-usd1-billion-in-2025-as-lg-commits-to-much-brighter-gaming-oleds/)
+ - [How to parry in Avowed](https://www.polygon.com/avowed-guides/524644/parry-how-to-timing-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
