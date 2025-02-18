@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forklift save](http://9gag.com/gag/aAy6Bz2)
- - ⏩ [The Man, The Myth, The Mask](http://9gag.com/gag/ae913GQ)
- - 👉 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)<!-- MEMES:END -->
+ - 💣 [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
+ - ⏩ [If you love your job you won&#39;t work a day in your life](http://9gag.com/gag/aZZ1xm3)
+ - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
 
 ---
 
