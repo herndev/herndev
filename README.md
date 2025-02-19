@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dont shoot me bruh!](http://9gag.com/gag/ae910qp)
- - ⏩ [More credible than flat earth theory](http://9gag.com/gag/aXPMpm2)
- - 👉 [You broke the code!!](http://9gag.com/gag/aRB4Q12)<!-- MEMES:END -->
+ - 💣 [An annoying modern fad.](http://9gag.com/gag/awy3rXy)
+ - ⏩ [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - 👉 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)<!-- MEMES:END -->
 
 ---
 
