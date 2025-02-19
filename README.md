@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steven Spielberg&#39;s &#39;reportedly UFO-related&#39; movie doesn&#39;t even have a name yet, but it has a release date](https://www.pcgamer.com/movies-tv/steven-spielbergs-reportedly-ufo-related-movie-doesnt-even-have-a-name-yet-but-it-has-a-release-date/)
- - [The Black Widow situation is dire in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/the-black-widow-situation-is-dire-in-marvel-rivals/)
- - [Magic’s first batch of Final Fantasy cards are here, and they look amazing](https://www.polygon.com/mtg-magic-the-gathering/525299/final-fantasy-preview-cards-first-look-magiccon-chicago)<!-- GAME:END -->
+ - [Thanks to the upcoming Final Fantasy set, Magic: The Gathering is getting a fishing minigame, as well as a new kind of summon and more cards that transform](https://www.pcgamer.com/games/card-games/thanks-to-the-upcoming-final-fantasy-set-magic-the-gathering-is-getting-a-fishing-minigame-as-well-as-a-new-kind-of-summon-and-more-cards-that-transform/)
+ - [Marvel Rivals casually reveals its Blade in new map trailer](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-casually-reveals-its-blade-in-new-map-trailer/)
+ - [Steven Spielberg&#39;s &#39;reportedly UFO-related&#39; movie doesn&#39;t even have a name yet, but it has a release date](https://www.pcgamer.com/movies-tv/steven-spielbergs-reportedly-ufo-related-movie-doesnt-even-have-a-name-yet-but-it-has-a-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
