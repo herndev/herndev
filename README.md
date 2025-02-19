@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
- - ⏩ [Jungle is massive](http://9gag.com/gag/aMVB9m6)
- - 👉 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)<!-- MEMES:END -->
+ - 💣 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
+ - ⏩ [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - 👉 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)<!-- MEMES:END -->
 
 ---
 
