@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
- - ⏩ [A new level of rejection.](http://9gag.com/gag/aE061Ve)
- - 👉 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)<!-- MEMES:END -->
+ - 💣 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
+ - ⏩ [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)
+ - 👉 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)<!-- MEMES:END -->
 
 ---
 
