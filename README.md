@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Just Cause creator&#39;s new studio announces &#39;incredibly difficult&#39; layoffs while still working on its first game](https://www.pcgamer.com/games/just-cause-creators-new-studio-announces-incredibly-difficult-layoffs-while-still-working-on-its-first-game/)
  - [Pokémon Go is reportedly for sale and the price tag is huge](https://www.polygon.com/news/525383/pokemon-go-sale-niantic-scopely)
- - [Today&#39;s Wordle answer for Wednesday, February 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-19-2025/)
- - [Exploit asteroids for resources using automated mining equipment as they hurtle through your space-claim in Astronomics](https://www.pcgamer.com/games/sim/exploit-asteroids-for-resources-using-automated-mining-equipment-as-they-hurtle-through-your-space-claim-in-astronomics/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, February 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-19-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
