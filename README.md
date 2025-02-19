@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)<!-- TECH:END -->
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
+ - [Nvidia is launching ‘priority access’ to help fans buy RTX 5080 and 5090 FE GPUs](https://www.theverge.com/news/616138/nvidia-verified-priority-access-to-help-fans-buy-rtx-5080-and-5090)
+ - [Want an electric bike? The HiBoy EX6 is $805 off!](https://www.androidauthority.com/electric-bike-hiboy-ex6-deal-3527899/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
