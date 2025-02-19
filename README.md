@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Empowering Creators and Players With Muse, a Generative AI Model for Gameplay](https://news.xbox.com/en-us/2025/02/19/muse-ai-xbox-empowering-creators-and-players/)
- - [Help a dead man solve his own murder in The Posthumous Investigation](https://www.polygon.com/impressions/523863/the-posthumous-investigation-game-demo-impressions)
- - [Marvel Rivals trailer finally shows off Human Torch and The Thing ahead of season 1’s big patch](https://www.polygon.com/marvel/525440/marvel-rivals-season-1-5-patch-update-balance-changes)<!-- GAME:END -->
+ - [Fatal Fury: City of the Wolves – Details and Tips for the Open Beta, Beginning Tomorrow](https://news.xbox.com/en-us/2025/02/19/fatal-fury-city-of-the-wolves-open-beta-tips/)
+ - [‘This is such a weird industry’: Marvel Rivals lays off NA-based team amid explosive success](https://www.polygon.com/gaming/525114/marvel-rivals-layoffs-director-netease-games)
+ - [Ancient Arrowhead treasure map solution in Avowed](https://www.pcgamer.com/games/rpg/avowed-ancient-arrowhead-treasure-map-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
