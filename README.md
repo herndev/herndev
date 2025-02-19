@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI researchers find real-world freelance software engineering work remains challenging for frontier language models in the SWE-Lancer benchmark &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250218/p35#a250218p35)
- - [Lemokey L5 HE 8K review: Customizable magnetic switches in a gaming keyboard](https://appleinsider.com/articles/25/02/19/lemokey-l5-he-8k-review-customizable-magnetic-switches-in-a-gaming-keyboard?utm_medium=rss)
- - [Apple &amp; Google to appear at Brazilian regulator public hearing Wednesday](https://appleinsider.com/articles/25/02/19/apple-google-to-appear-at-brazilian-regulator-public-hearing-wednesday?utm_medium=rss)<!-- TECH:END -->
+ - [How to turn off Enhanced Visual Search for Photos on iPhone or iPad](https://appleinsider.com/inside/ios-18/tips/how-to-turn-off-enhanced-visual-search-for-photos-on-iphone-or-ipad?utm_medium=rss)
+ - [President Trump said tariffs on semiconductors would start at &quot;25% or higher&quot; and that he planned to provide some time for chip makers to set up US factories &lpar;Reuters&rpar;](http://www.techmeme.com/250218/p36#a250218p36)
+ - [OpenAI researchers find real-world freelance software engineering work remains challenging for frontier language models in the SWE-Lancer benchmark &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250218/p35#a250218p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
