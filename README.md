@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
- - ⏩ [That&#39;s the most two stroky four Stroke ever](http://9gag.com/gag/ary3K97)
- - 👉 [You broke the code!!](http://9gag.com/gag/aRB4Q12)<!-- MEMES:END -->
+ - 💣 [A new level of rejection.](http://9gag.com/gag/aE061Ve)
+ - ⏩ [She tried](http://9gag.com/gag/amo10xX)
+ - 👉 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)<!-- MEMES:END -->
 
 ---
 
