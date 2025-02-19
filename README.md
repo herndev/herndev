@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remember the Humane AI Pin? It’s now officially dead!](https://www.androidauthority.com/humane-ai-pin-shut-down-3527585/)
- - [How to turn off Enhanced Visual Search for Photos on iPhone or iPad](https://appleinsider.com/inside/ios-18/tips/how-to-turn-off-enhanced-visual-search-for-photos-on-iphone-or-ipad?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Feb. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-feb-19/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taiwan&#39;s ASE Technology, the world&#39;s largest chip packaging and testing firm, opens a new plant in Penang, Malaysia, as part of its biggest overseas expansion &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250219/p2#a250219p2)
+ - [YouTube on Android TV gets new ‘lyrics’ view for your sing-a-long nights](https://www.androidauthority.com/youtube-android-tv-lyrics-3527564/)
+ - [Solana has lost ~25% of its market value, or ~$20B, since February 14 after Argentine President Javier Milei faced scrutiny for promoting Solana memecoin Libra &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250219/p1#a250219p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
