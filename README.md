@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The women who made America’s microchips and the children who paid for it](https://www.theverge.com/features/611297/manufacturing-workers-semiconductor-computer-chip-birth-defect)
- - [Augury, which uses AI to detect malfunctions in factory machines, raised a $72.5M Series F, potentially rising to ~$100M, led by Lightrock at a $1B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250219/p20#a250219p20)
- - [Apple forcefully refutes UK&#39;s claims about mobile browsing](https://appleinsider.com/articles/25/02/19/apple-forcefully-refutes-uks-claims-about-mobile-browsing?utm_medium=rss)<!-- TECH:END -->
+ - [Best Workout Headphones We Tested and Sweated In &lpar;2025&rpar;](https://www.wired.com/gallery/best-workout-headphones/)
+ - [These are my favorite animations in Google Messages](https://www.androidauthority.com/favorite-google-messages-screen-effects-3526964/)
+ - [TMTG and Rumble sue a Brazilian Supreme Court Justice in Florida for allegedly illegally suppressing the US social media activity of conservative Brazilians &lpar;Erik Larson/Bloomberg&rpar;](http://www.techmeme.com/250219/p25#a250219p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
