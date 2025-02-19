@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
- - ⏩ [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)
- - 👉 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)<!-- MEMES:END -->
+ - 💣 [Trees are free](http://9gag.com/gag/a7oOdn2)
+ - ⏩ [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - 👉 [John Travolta is 71 today! Happy birthday](http://9gag.com/gag/ae916qv)<!-- MEMES:END -->
 
 ---
 
