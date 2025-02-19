@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI researchers find real-world freelance software engineering work remains challenging for frontier language models in the SWE-Lancer benchmark &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250218/p35#a250218p35)
  - [Lemokey L5 HE 8K review: Customizable magnetic switches in a gaming keyboard](https://appleinsider.com/articles/25/02/19/lemokey-l5-he-8k-review-customizable-magnetic-switches-in-a-gaming-keyboard?utm_medium=rss)
- - [Apple &amp; Google to appear at Brazilian regulator public hearing Wednesday](https://appleinsider.com/articles/25/02/19/apple-google-to-appear-at-brazilian-regulator-public-hearing-wednesday?utm_medium=rss)
- - [iPhone 17 Air rumored to feature titanium frame and support for 35W fast charging](https://appleinsider.com/articles/25/02/18/iphone-17-air-rumored-to-feature-titanium-frame-and-support-for-35w-fast-charging?utm_medium=rss)<!-- TECH:END -->
+ - [Apple &amp; Google to appear at Brazilian regulator public hearing Wednesday](https://appleinsider.com/articles/25/02/19/apple-google-to-appear-at-brazilian-regulator-public-hearing-wednesday?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
