@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More credible than flat earth theory](http://9gag.com/gag/aXPMpm2)
- - ⏩ [Out of one thousand violent crimes in Norway, only 32 were committed by ethnic Norwegians. We could have had 968 less violent crimes if we had no immigration. This study was done by the Norwegian government itself &lpar;SSB&rpar;.](http://9gag.com/gag/a876Y1O)
- - 👉 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)<!-- MEMES:END -->
+ - 💣 [I completely understand him, but I sincerely could be that lady!](http://9gag.com/gag/ayN3n08)
+ - ⏩ [Using red dye to demonstrate how Mercury cannot be absorbed by a towel](http://9gag.com/gag/avy10En)
+ - 👉 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)<!-- MEMES:END -->
 
 ---
 
