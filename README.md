@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steven Spielberg&#39;s &#39;reportedly UFO-related&#39; movie doesn&#39;t even have a name yet, but it has a release date](https://www.pcgamer.com/movies-tv/steven-spielbergs-reportedly-ufo-related-movie-doesnt-even-have-a-name-yet-but-it-has-a-release-date/)
  - [The Black Widow situation is dire in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/the-black-widow-situation-is-dire-in-marvel-rivals/)
- - [Magic’s first batch of Final Fantasy cards are here, and they look amazing](https://www.polygon.com/mtg-magic-the-gathering/525299/final-fantasy-preview-cards-first-look-magiccon-chicago)
- - [Valve releases &#39;Team Fortress 2 SDK,&#39; enabling creators to &#39;build completely new games based on TF2&#39;](https://www.pcgamer.com/games/fps/valve-releases-team-fortress-2-sdk-enabling-creators-to-build-completely-new-games-based-on-tf2/)<!-- GAME:END -->
+ - [Magic’s first batch of Final Fantasy cards are here, and they look amazing](https://www.polygon.com/mtg-magic-the-gathering/525299/final-fantasy-preview-cards-first-look-magiccon-chicago)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
