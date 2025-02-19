@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice cosplay](http://9gag.com/gag/aW476V6)
- - ⏩ [John Travolta is 71 today! Happy birthday](http://9gag.com/gag/ae916qv)
- - 👉 [Podophilia](http://9gag.com/gag/azxdARz)<!-- MEMES:END -->
+ - 💣 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
+ - ⏩ [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
+ - 👉 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)<!-- MEMES:END -->
 
 ---
 
