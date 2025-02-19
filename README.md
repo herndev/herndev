@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Company Behind $700 AI Device Announces All Of &#39;Em Will Be Bricked In 9 Days](https://kotaku.com/humane-ai-pin-stop-working-brick-700-device-fail-hp-1851765460)
- - [What is the max level cap in Avowed?](https://www.polygon.com/avowed-guides/525428/max-level-cap-xp-experience-total)
- - [Newegg Shuffle lottery system returns to give you a chance to buy in-demand RTX 50-series graphics hardware at full price](https://www.pcgamer.com/hardware/newegg-shuffle-lottery-system-returns-to-give-you-a-chance-to-buy-in-demand-hardware-at-full-price/)<!-- GAME:END -->
+ - [The new horror movie from the Talk to Me directors looks just as terrifying](https://www.polygon.com/horror/525519/bring-her-back-horror-movie-trailer-talk-to-me)
+ - [What is the Marvel Rivals roadmap?](https://www.polygon.com/marvel-rivals-guide/491017/roadmap-new-heroes-season-schedule)
+ - [What time does Marvel Rivals season 1.5 release in your time zone?](https://www.polygon.com/marvel-rivals-guide/525456/season-1-5-release-time-date-est-pst)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
