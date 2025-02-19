@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I completely understand him, but I sincerely could be that lady!](http://9gag.com/gag/ayN3n08)
- - ⏩ [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
- - 👉 [I am glad I asked her anyway](http://9gag.com/gag/aD26mYx)<!-- MEMES:END -->
+ - 💣 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)
+ - ⏩ [Secretary is the job that take so much PRESSURE from bosses. So please, respect Secretaries](http://9gag.com/gag/a876j73)
+ - 👉 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)<!-- MEMES:END -->
 
 ---
 
