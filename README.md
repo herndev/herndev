@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I completely understand him, but I sincerely could be that lady!](http://9gag.com/gag/ayN3n08)
- - ⏩ [There is a light at the end of the tunnel for us 9gagger](http://9gag.com/gag/a9y6LN0)
- - 👉 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)<!-- MEMES:END -->
+ - ⏩ [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
+ - 👉 [I am glad I asked her anyway](http://9gag.com/gag/aD26mYx)<!-- MEMES:END -->
 
 ---
 
