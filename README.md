@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal documents, emails, and federal data suggest Indian IT giant TCS has used L-1A manager visas in ways that raise concerns about undercutting US workers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p8#a250219p8)
- - [Hexaware Technologies&#39; stock rose as much as 10% on its trading debut, valuing the company at ~$5.44B, after the IT services firm raised $1B in its Indian IPO &lpar;Nandan Mandayam/Reuters&rpar;](http://www.techmeme.com/250219/p7#a250219p7)
- - [In a breakthrough, University of Oxford scientists sent the first quantum algorithm wirelessly between two separate quantum processors via particle entanglement &lpar;Jorge Garay/Wired&rpar;](http://www.techmeme.com/250219/p6#a250219p6)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [One UI 7 beta 4 is here with AI filters and broken Google Wallet](https://www.androidauthority.com/samsung-one-ui-7-beta-4-released-3527637/)
+ - [How PDD&#39;s Temu, the world&#39;s biggest online dollar store, got sucked into President Trump&#39;s trade war; eMarketer expects Temu to have $30B in US sales in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p9#a250219p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
