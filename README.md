@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic Games forces former Fortnite pro to publicly apologize for cheating](https://www.polygon.com/fortnite/525854/fortnite-pro-cheating-apology-repulsegod-epic-games-lawsuits)
- - [Disney Lorcana: Archazia’s Island pre-order guide](https://www.polygon.com/pre-order/525716/disney-lorcana-archazias-island-where-to-buy)
- - [Game Changer season 7 is on the way, says this promising sizzle reel](https://www.polygon.com/tv/525814/game-changer-season-7-teaser-release-date)<!-- GAME:END -->
+ - [The Street Fighter movie gets a new director who just might give it good, weird vibes](https://www.polygon.com/movies/525885/street-fighter-movie-2026-director-change-capcom-sony)
+ - [Xbox announces &#39;a generative AI model for gameplay ideation&#39; called Muse, but don&#39;t get too excited: Machines aren&#39;t about to make games for you just yet](https://www.pcgamer.com/software/ai/xbox-announces-a-generative-ai-model-for-gameplay-ideation-called-muse-but-dont-get-too-excited-machines-arent-about-to-make-games-for-you-just-yet/)
+ - [The Last Of Us Season Two Finally Has A Premiere Date](https://kotaku.com/last-of-us-season-2-release-premiere-date-april-hbo-max-1851765527)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
