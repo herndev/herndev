@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Like it or not, Google Lens is getting more AI Overviews](https://www.androidauthority.com/google-lens-ai-overview-expansion-3527652/)
- - [Baseten, which helps companies launch open-source or customized AI models, raised $75M led by IVP and Spark Capital at a $825M valuation and claims 100+ clients &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250219/p39#a250219p39)
- - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Intelligence language extensions to Chinese, French &amp; more coming in April](https://appleinsider.com/articles/25/02/19/apple-intelligence-language-extensions-to-chinese-french-more-coming-in-april?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [This 1.9-pound smartphone’s massive battery offers six months of standby](https://www.theverge.com/news/615369/oukitel-wp100-titan-smartphone-battery-life-projector-flashlight-kickstarter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
