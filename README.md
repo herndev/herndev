@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [One UI 7 beta 4 is here with AI filters and broken Google Wallet](https://www.androidauthority.com/samsung-one-ui-7-beta-4-released-3527637/)
- - [How PDD&#39;s Temu, the world&#39;s biggest online dollar store, got sucked into President Trump&#39;s trade war; eMarketer expects Temu to have $30B in US sales in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p9#a250219p9)<!-- TECH:END -->
+ - [Analog Devices, one of the largest analog chip makers, increases its stock buyback program by $10B to $11.5B; sales dropped 23% in 2024 as chip demand slows &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250219/p11#a250219p11)
+ - [Samsung could bring this Expert RAW, iPhone feature to the S25 camera app](https://www.androidauthority.com/samsung-expert-raw-24mp-camera-app-3527620/)
+ - [Source: in text messages, Libra co-creator Hayden Davis bragged he could &quot;control&quot; Argentine President Javier Milei due to payments to Milei&#39;s sister &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/250219/p10#a250219p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
