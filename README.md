@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
+ - 💣 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
  - ⏩ [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
- - 👉 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)<!-- MEMES:END -->
+ - 👉 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)<!-- MEMES:END -->
 
 ---
 
