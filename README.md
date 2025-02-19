@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fatal Fury: City of the Wolves – Details and Tips for the Open Beta, Beginning Tomorrow](https://news.xbox.com/en-us/2025/02/19/fatal-fury-city-of-the-wolves-open-beta-tips/)
- - [‘This is such a weird industry’: Marvel Rivals lays off NA-based team amid explosive success](https://www.polygon.com/gaming/525114/marvel-rivals-layoffs-director-netease-games)
- - [Ancient Arrowhead treasure map solution in Avowed](https://www.pcgamer.com/games/rpg/avowed-ancient-arrowhead-treasure-map-location/)<!-- GAME:END -->
+ - [Company Behind $700 AI Device Announces All Of &#39;Em Will Be Bricked In 9 Days](https://kotaku.com/humane-ai-pin-stop-working-brick-700-device-fail-hp-1851765460)
+ - [What is the max level cap in Avowed?](https://www.polygon.com/avowed-guides/525428/max-level-cap-xp-experience-total)
+ - [Newegg Shuffle lottery system returns to give you a chance to buy in-demand RTX 50-series graphics hardware at full price](https://www.pcgamer.com/hardware/newegg-shuffle-lottery-system-returns-to-give-you-a-chance-to-buy-in-demand-hardware-at-full-price/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
