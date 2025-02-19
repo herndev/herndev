@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
- - ⏩ [Let my Cameron go!](http://9gag.com/gag/ae910dm)
- - 👉 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)<!-- MEMES:END -->
+ - 💣 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
+ - ⏩ [Bights, bights is good](http://9gag.com/gag/a7oOy5e)
+ - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
 
 ---
 
