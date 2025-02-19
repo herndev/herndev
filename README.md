@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
- - ⏩ [Nice cosplay](http://9gag.com/gag/aW476V6)
- - 👉 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)<!-- MEMES:END -->
+ - 💣 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
+ - ⏩ [A new level of rejection.](http://9gag.com/gag/aE061Ve)
+ - 👉 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)<!-- MEMES:END -->
 
 ---
 
