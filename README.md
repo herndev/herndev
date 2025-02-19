@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Keep Driving’s perfectly annoying hitchhikers are a game-design master class](https://www.polygon.com/review/524612/keep-driving-review-pc)
  - [Trump flirts with 25% and &#39;substantially higher&#39; tariffs on all computer chips](https://www.pcgamer.com/hardware/trump-flirts-with-25-percent-and-substantially-higher-tariffs-on-all-computer-chips/)
- - [Amazon apparently thought it was gonna compete with Steam since the Orange Box, but Prime Gaming&#39;s former VP admits that &#39;gamers already had the solution to their problems&#39;](https://www.pcgamer.com/gaming-industry/amazon-apparently-thought-it-was-gonna-compete-with-steam-since-the-orange-box-but-prime-gamings-former-vp-admits-that-gamers-already-had-the-solution-to-their-problems/)
- - [Avowed brings back a joke pistol from Pillars of Eternity that literally tells you not to use it, but you can immediately upgrade it into a killer hand cannon](https://www.pcgamer.com/games/rpg/avowed-disappointer-unique-pistol/)<!-- GAME:END -->
+ - [Amazon apparently thought it was gonna compete with Steam since the Orange Box, but Prime Gaming&#39;s former VP admits that &#39;gamers already had the solution to their problems&#39;](https://www.pcgamer.com/gaming-industry/amazon-apparently-thought-it-was-gonna-compete-with-steam-since-the-orange-box-but-prime-gamings-former-vp-admits-that-gamers-already-had-the-solution-to-their-problems/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
