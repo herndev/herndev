@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I completely understand him, but I sincerely could be that lady!](http://9gag.com/gag/ayN3n08)
- - ⏩ [Using red dye to demonstrate how Mercury cannot be absorbed by a towel](http://9gag.com/gag/avy10En)
- - 👉 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)<!-- MEMES:END -->
+ - ⏩ [There is a light at the end of the tunnel for us 9gagger](http://9gag.com/gag/a9y6LN0)
+ - 👉 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)<!-- MEMES:END -->
 
 ---
 
