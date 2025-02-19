@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go is reportedly for sale and the price tag is huge](https://www.polygon.com/news/525383/pokemon-go-sale-niantic-scopely)
  - [Today&#39;s Wordle answer for Wednesday, February 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-19-2025/)
- - [Exploit asteroids for resources using automated mining equipment as they hurtle through your space-claim in Astronomics](https://www.pcgamer.com/games/sim/exploit-asteroids-for-resources-using-automated-mining-equipment-as-they-hurtle-through-your-space-claim-in-astronomics/)
- - [Thanks to the upcoming Final Fantasy set, Magic: The Gathering is getting a fishing minigame](https://www.pcgamer.com/games/card-games/thanks-to-the-upcoming-final-fantasy-set-magic-the-gathering-is-getting-a-fishing-minigame-as-well-as-a-new-kind-of-summon-and-more-cards-that-transform/)<!-- GAME:END -->
+ - [Exploit asteroids for resources using automated mining equipment as they hurtle through your space-claim in Astronomics](https://www.pcgamer.com/games/sim/exploit-asteroids-for-resources-using-automated-mining-equipment-as-they-hurtle-through-your-space-claim-in-astronomics/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
