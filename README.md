@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trees are free](http://9gag.com/gag/a7oOdn2)
- - ⏩ [Nice cosplay](http://9gag.com/gag/aW476V6)
- - 👉 [John Travolta is 71 today! Happy birthday](http://9gag.com/gag/ae916qv)<!-- MEMES:END -->
+ - 💣 [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - ⏩ [John Travolta is 71 today! Happy birthday](http://9gag.com/gag/ae916qv)
+ - 👉 [Podophilia](http://9gag.com/gag/azxdARz)<!-- MEMES:END -->
 
 ---
 
