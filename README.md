@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence language extensions to Chinese, French &amp; more coming in April](https://appleinsider.com/articles/25/02/19/apple-intelligence-language-extensions-to-chinese-french-more-coming-in-april?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [This 1.9-pound smartphone’s massive battery offers six months of standby](https://www.theverge.com/news/615369/oukitel-wp100-titan-smartphone-battery-life-projector-flashlight-kickstarter)<!-- TECH:END -->
+ - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
+ - [Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
+ - [Sources: NIST plans to cut 497 people, including 74 postdocs and most staff at its Chips for America program; the AI Safety Institute faces an uncertain future &lpar;Axios&rpar;](http://www.techmeme.com/250219/p42#a250219p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
