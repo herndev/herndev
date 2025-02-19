@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Fortnite Chapter 6 Season 2 release?](https://www.polygon.com/fortnite-guide/524613/chapter-6-season-2-release-time-downtime-c6s2)
- - [Valve&#39;s monthly survey reveals that almost 45% of Steam users on PC are still using Windows 10 even with the sword of Damocles hanging over them](https://www.pcgamer.com/hardware/valves-monthly-survey-reveals-that-almost-45-percent-of-steam-users-on-pc-are-still-using-windows-10-even-with-the-sword-of-damocles-hanging-over-them/)
- - [GameStop announces plans to sell off French and Canadian outlets, while its CEO yells about &#39;Wokeness and DEI&#39; in bizarre, self-defeating promotion](https://www.pcgamer.com/games/gamestop-announces-plans-to-sell-off-french-and-canadian-outlets-while-its-ceo-yells-about-wokeness-and-dei-in-bizarre-self-defeating-promotion/)<!-- GAME:END -->
+ - [Empowering Creators and Players With Muse, a Generative AI Model for Gameplay](https://news.xbox.com/en-us/2025/02/19/muse-ai-xbox-empowering-creators-and-players/)
+ - [Help a dead man solve his own murder in The Posthumous Investigation](https://www.polygon.com/impressions/523863/the-posthumous-investigation-game-demo-impressions)
+ - [Marvel Rivals trailer finally shows off Human Torch and The Thing ahead of season 1’s big patch](https://www.polygon.com/marvel/525440/marvel-rivals-season-1-5-patch-update-balance-changes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
