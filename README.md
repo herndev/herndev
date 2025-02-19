@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Are the SpaceX Engineers Already Working Inside the FAA](https://www.wired.com/story/faa-doge-elon-musk-space-x/)
- - [A popular Japanese distraction-free writing device is coming to the US](https://www.theverge.com/news/615854/king-jim-pomera-d250us-distraction-free-writing-tool)
- - [iPhone 16e vs iPhone 16: A new Apple Intelligence-powered entry-level option](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-16-a-new-apple-intelligence-powered-entry-level-option?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
