@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Street Fighter movie gets a new director who just might give it good, weird vibes](https://www.polygon.com/movies/525885/street-fighter-movie-2026-director-change-capcom-sony)
- - [Xbox announces &#39;a generative AI model for gameplay ideation&#39; called Muse, but don&#39;t get too excited: Machines aren&#39;t about to make games for you just yet](https://www.pcgamer.com/software/ai/xbox-announces-a-generative-ai-model-for-gameplay-ideation-called-muse-but-dont-get-too-excited-machines-arent-about-to-make-games-for-you-just-yet/)
- - [The Last Of Us Season Two Finally Has A Premiere Date](https://kotaku.com/last-of-us-season-2-release-premiere-date-april-hbo-max-1851765527)<!-- GAME:END -->
+ - [HBO announces The Last of Us Season 2 release date: April 13](https://www.pcgamer.com/movies-tv/hbo-announces-the-last-of-us-season-2-release-date-april-13/)
+ - [This twist on the survival crafter genre lets you play as a silly little squirrel](https://www.polygon.com/cozy-gaming/526198/squirreled-away-cozy-crafter-game-demo)
+ - [Marvel Rivals’ latest patch buffs everyone except support characters](https://www.polygon.com/gaming/525887/marvel-rivals-season-1-5-patch-support-nerfs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
