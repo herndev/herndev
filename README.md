@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Workout Headphones We Tested and Sweated In &lpar;2025&rpar;](https://www.wired.com/gallery/best-workout-headphones/)
- - [These are my favorite animations in Google Messages](https://www.androidauthority.com/favorite-google-messages-screen-effects-3526964/)
- - [TMTG and Rumble sue a Brazilian Supreme Court Justice in Florida for allegedly illegally suppressing the US social media activity of conservative Brazilians &lpar;Erik Larson/Bloomberg&rpar;](http://www.techmeme.com/250219/p25#a250219p25)<!-- TECH:END -->
+ - [Tesla Cybertruck: all the news about Elon Musk’s futuristic pickup truck](https://www.theverge.com/2019/11/21/20975980/tesla-cybertruck-announcement-news-pickup-truck-elon-musk-updates-highlights)
+ - [Microsoft announces quantum computing breakthrough with new Majorana 1 chip](https://www.theverge.com/news/614205/microsoft-quantum-computing-majorana-1-processor)
+ - [Microsoft’s Xbox AI era starts with a model that can generate gameplay](https://www.theverge.com/news/615048/microsoft-xbox-generative-ai-model-gaming-muse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
