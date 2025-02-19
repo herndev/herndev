@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analog Devices, one of the largest analog chip makers, increases its stock buyback program by $10B to $11.5B; sales dropped 23% in 2024 as chip demand slows &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250219/p11#a250219p11)
- - [Samsung could bring this Expert RAW, iPhone feature to the S25 camera app](https://www.androidauthority.com/samsung-expert-raw-24mp-camera-app-3527620/)
- - [Source: in text messages, Libra co-creator Hayden Davis bragged he could &quot;control&quot; Argentine President Javier Milei due to payments to Milei&#39;s sister &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/250219/p10#a250219p10)<!-- TECH:END -->
+ - [This smart video lock unlocks with a wave of your hand](https://www.theverge.com/news/615019/eufy-familock-s3-max-video-smart-lock-price-release-date-features)
+ - [Google agrees to pay &amp;euro;326M to settle an Italian tax case from 2015 to 2019, covering sanctions, penalties, and interest; Milan prosecutors plan to drop the case &lpar;Reuters&rpar;](http://www.techmeme.com/250219/p14#a250219p14)
+ - [13 Best Hair Straighteners We Tested &lpar;2025&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
