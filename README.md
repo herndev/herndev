@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - ⏩ [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
- - 👉 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)<!-- MEMES:END -->
+ - 💣 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
+ - ⏩ [That&#39;s the most two stroky four Stroke ever](http://9gag.com/gag/ary3K97)
+ - 👉 [You broke the code!!](http://9gag.com/gag/aRB4Q12)<!-- MEMES:END -->
 
 ---
 
