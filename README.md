@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)
- - [Sources: NIST plans to cut 497 people, including 74 postdocs and most staff at its Chips for America program; the AI Safety Institute faces an uncertain future &lpar;Axios&rpar;](http://www.techmeme.com/250219/p42#a250219p42)<!-- TECH:END -->
+ - [Rivian’s new Dune edition lets you channel your inner Fremen](https://www.theverge.com/news/615556/rivian-california-dune-edition-price-specs-ev-offroad)
+ - [Hades II gets a big update with a final boss and more story](https://www.theverge.com/news/615857/hades-ii-2-warsong-update)
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
