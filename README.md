@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)
- - ⏩ [Andrew\u2019s Tate\u2019s delusions meet their fate.](http://9gag.com/gag/aQzvpQz)
+ - 💣 [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - ⏩ [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
  - 👉 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)<!-- MEMES:END -->
 
 ---
