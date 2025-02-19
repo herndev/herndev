@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I truly value smartphone design and am surprised when people don’t](https://www.androidauthority.com/value-smartphone-design-3523668/)
- - [Chrome for Android could soon have your back when you download shady apps](https://www.androidauthority.com/google-chrome-android-scan-downloaded-apk-files-3527696/)
- - [Google Drive now lets you control who has access to specific folders within your shared drives](https://www.androidauthority.com/google-drive-restrict-folder-access-3527686/)<!-- TECH:END -->
+ - [The women who made America’s microchips and the children who paid for it](https://www.theverge.com/features/611297/manufacturing-workers-semiconductor-computer-chip-birth-defect)
+ - [Augury, which uses AI to detect malfunctions in factory machines, raised a $72.5M Series F, potentially rising to ~$100M, led by Lightrock at a $1B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250219/p20#a250219p20)
+ - [Apple forcefully refutes UK&#39;s claims about mobile browsing](https://appleinsider.com/articles/25/02/19/apple-forcefully-refutes-uks-claims-about-mobile-browsing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
