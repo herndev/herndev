@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [DOGE can keep accessing government data for now, judge rules](https://www.theverge.com/news/614861/doge-musk-states-temporary-restraining-order-judge-data)
- - [Humane’s AI Pin: all the news about the dead AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)<!-- TECH:END -->
+ - [Deals: ASUS ROG Ally vs Lenovo Legion Go](https://www.androidauthority.com/asus-rog-ally-lenovo-legion-go-deals-3527522/)
+ - [FTC Chair praises Justice Thomas as ‘the most important judge of the last 100 years’ for Black History Month](https://www.theverge.com/antitrust/614973/ftc-chair-andrew-ferguson-justice-clarence-thomas-black-history-month)
+ - [Humane says Ai Pin&#39;s online features will stop working on February 28, when all customer data will be deleted, and it will refund some customers &lpar;Aaron Souppouris/Engadget&rpar;](http://www.techmeme.com/250218/p32#a250218p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
