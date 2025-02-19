@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yasuke who??](http://9gag.com/gag/aVvoQyw)
- - ⏩ [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
- - 👉 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)<!-- MEMES:END -->
+ - 💣 [Poor cleaners](http://9gag.com/gag/aGyn0Oz)
+ - ⏩ [Carl Emil Pettersson. Legend!](http://9gag.com/gag/ary3Nyy)
+ - 👉 [Jungle is massive](http://9gag.com/gag/aMVB9m6)<!-- MEMES:END -->
 
 ---
 
