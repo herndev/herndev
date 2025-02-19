@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty LocksTMNT Characters Behind $80 Paywall](https://kotaku.com/call-of-duty-tmnt-turtles-80-90-bundle-battle-pass-s2-1851765490)
- - [Split Fiction Is More It Takes Two, But With An Unlikely Inspiration](https://kotaku.com/split-fiction-preview-josef-fares-ai-hazelight-co-op-1851765494)
- - [So when are we going to see any live action from the live-action Lilo &amp;#038; Stitch?](https://www.polygon.com/disney/525608/lilo-and-stitch-live-action-where-remake)<!-- GAME:END -->
+ - [Epic Games forces former Fortnite pro to publicly apologize for cheating](https://www.polygon.com/fortnite/525854/fortnite-pro-cheating-apology-repulsegod-epic-games-lawsuits)
+ - [Disney Lorcana: Archazia’s Island pre-order guide](https://www.polygon.com/pre-order/525716/disney-lorcana-archazias-island-where-to-buy)
+ - [Game Changer season 7 is on the way, says this promising sizzle reel](https://www.polygon.com/tv/525814/game-changer-season-7-teaser-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
