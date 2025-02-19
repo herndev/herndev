@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: ASUS ROG Ally vs Lenovo Legion Go](https://www.androidauthority.com/asus-rog-ally-lenovo-legion-go-deals-3527522/)
- - [FTC Chair praises Justice Thomas as ‘the most important judge of the last 100 years’ for Black History Month](https://www.theverge.com/antitrust/614973/ftc-chair-andrew-ferguson-justice-clarence-thomas-black-history-month)
- - [Humane says Ai Pin&#39;s online features will stop working on February 28, when all customer data will be deleted, and it will refund some customers &lpar;Aaron Souppouris/Engadget&rpar;](http://www.techmeme.com/250218/p32#a250218p32)<!-- TECH:END -->
+ - [Today’s best battery deals: Anker, EcoFlow, and Ampace](https://www.androidauthority.com/anker-ecoflow-ampace-deals-3527521/)
+ - [Sources: Niantic is in talks to sell its games unit to Saudi Arabia-controlled Scopely for ~$3.5B; the deal would include Pok&amp;eacute;mon Go and other mobile games &lpar;Bloomberg&rpar;](http://www.techmeme.com/250218/p34#a250218p34)
+ - [Government contractor attempts to buy &#39;Graykey&#39; iPhone hacking tool from journalists](https://appleinsider.com/articles/25/02/19/government-contractor-attempts-to-buy-graykey-iphone-hacking-tool-from-journalists?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
