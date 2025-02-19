@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Cybertruck: all the news about Elon Musk’s futuristic pickup truck](https://www.theverge.com/2019/11/21/20975980/tesla-cybertruck-announcement-news-pickup-truck-elon-musk-updates-highlights)
- - [Microsoft announces quantum computing breakthrough with new Majorana 1 chip](https://www.theverge.com/news/614205/microsoft-quantum-computing-majorana-1-processor)
- - [Microsoft’s Xbox AI era starts with a model that can generate gameplay](https://www.theverge.com/news/615048/microsoft-xbox-generative-ai-model-gaming-muse)<!-- TECH:END -->
+ - [Like it or not, Google Lens is getting more AI Overviews](https://www.androidauthority.com/google-lens-ai-overview-expansion-3527652/)
+ - [Baseten, which helps companies launch open-source or customized AI models, raised $75M led by IVP and Spark Capital at a $825M valuation and claims 100+ clients &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250219/p39#a250219p39)
+ - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
