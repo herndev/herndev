@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new horror movie from the Talk to Me directors looks just as terrifying](https://www.polygon.com/horror/525519/bring-her-back-horror-movie-trailer-talk-to-me)
- - [What is the Marvel Rivals roadmap?](https://www.polygon.com/marvel-rivals-guide/491017/roadmap-new-heroes-season-schedule)
- - [What time does Marvel Rivals season 1.5 release in your time zone?](https://www.polygon.com/marvel-rivals-guide/525456/season-1-5-release-time-date-est-pst)<!-- GAME:END -->
+ - [Call Of Duty LocksTMNT Characters Behind $80 Paywall](https://kotaku.com/call-of-duty-tmnt-turtles-80-90-bundle-battle-pass-s2-1851765490)
+ - [Split Fiction Is More It Takes Two, But With An Unlikely Inspiration](https://kotaku.com/split-fiction-preview-josef-fares-ai-hazelight-co-op-1851765494)
+ - [So when are we going to see any live action from the live-action Lilo &amp;#038; Stitch?](https://www.polygon.com/disney/525608/lilo-and-stitch-live-action-where-remake)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
