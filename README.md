@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Remember the Humane AI Pin? It’s now officially dead!](https://www.androidauthority.com/humane-ai-pin-shut-down-3527585/)
  - [How to turn off Enhanced Visual Search for Photos on iPhone or iPad](https://appleinsider.com/inside/ios-18/tips/how-to-turn-off-enhanced-visual-search-for-photos-on-iphone-or-ipad?utm_medium=rss)
- - [President Trump said tariffs on semiconductors would start at &quot;25% or higher&quot; and that he planned to provide some time for chip makers to set up US factories &lpar;Reuters&rpar;](http://www.techmeme.com/250218/p36#a250218p36)
- - [OpenAI researchers find real-world freelance software engineering work remains challenging for frontier language models in the SWE-Lancer benchmark &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250218/p35#a250218p35)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Feb. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-feb-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
