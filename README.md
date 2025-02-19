@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
- - ⏩ [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
- - 👉 [She tried](http://9gag.com/gag/amo10xX)<!-- MEMES:END -->
+ - 💣 [Dont shoot me bruh!](http://9gag.com/gag/ae910qp)
+ - ⏩ [More credible than flat earth theory](http://9gag.com/gag/aXPMpm2)
+ - 👉 [You broke the code!!](http://9gag.com/gag/aRB4Q12)<!-- MEMES:END -->
 
 ---
 
