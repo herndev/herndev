@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smart video lock unlocks with a wave of your hand](https://www.theverge.com/news/615019/eufy-familock-s3-max-video-smart-lock-price-release-date-features)
- - [Google agrees to pay &amp;euro;326M to settle an Italian tax case from 2015 to 2019, covering sanctions, penalties, and interest; Milan prosecutors plan to drop the case &lpar;Reuters&rpar;](http://www.techmeme.com/250219/p14#a250219p14)
- - [13 Best Hair Straighteners We Tested &lpar;2025&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
+ - [I truly value smartphone design and am surprised when people don’t](https://www.androidauthority.com/value-smartphone-design-3523668/)
+ - [Chrome for Android could soon have your back when you download shady apps](https://www.androidauthority.com/google-chrome-android-scan-downloaded-apk-files-3527696/)
+ - [Google Drive now lets you control who has access to specific folders within your shared drives](https://www.androidauthority.com/google-drive-restrict-folder-access-3527686/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
