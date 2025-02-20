@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Marvel Rivals has somehow made Storm even more terrifying, thanks to a new team-up with the Human Torch that creates massive fire tornadoes](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-has-somehow-made-storm-even-more-terrifying-thanks-to-a-new-team-up-with-the-human-torch-that-creates-massive-fire-tornadoes/)
  - [MrBeast: Life Is &#39;So Much Easier When You&#39;re Broke&#39;](https://kotaku.com/mrbeast-interview-beastgames-bank-account-broke-illness-1851765536)
- - [Today&#39;s Wordle answer for Thursday, February 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-20-2025/)
- - [Marvel Rivals&#39; next patch will finally fix my beautiful boy Captain America](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-next-patch-will-finally-fix-my-beautiful-boy-captain-america/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, February 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-20-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
