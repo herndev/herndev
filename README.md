@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boost Mobile’s iPhone 16e deal cuts the price tag by more than half](https://www.androidauthority.com/boost-mobile-iphone-16e-deal-3528194/)
- - [Leaked details reveal potential pricing for Lego’s Nintendo Game Boy](https://www.theverge.com/news/616514/nintendo-lego-game-boy-release-date-pricing-leak)
- - [Jeep’s parent company announces ‘hands free, eyes off’ driving feature](https://www.theverge.com/news/616517/stellantis-stla-autodrive-level-3-partial-autonomous)<!-- TECH:END -->
+ - [Microsoft prepares for OpenAI’s GPT-5 model](https://www.theverge.com/notepad-microsoft-newsletter/616464/microsoft-prepares-for-openais-gpt-5-model)
+ - [DOGE Puts $1 Spending Limit on Government Employee Credit Cards](https://www.wired.com/story/doge-government-credit-cards/)
+ - [Tim Cook is meeting with President Trump at the White House](https://appleinsider.com/articles/25/02/20/tim-cook-is-meeting-with-president-trump-at-the-white-house?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
