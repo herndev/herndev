@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals has somehow made Storm even more terrifying, thanks to a new team-up with the Human Torch that creates massive fire tornadoes](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-has-somehow-made-storm-even-more-terrifying-thanks-to-a-new-team-up-with-the-human-torch-that-creates-massive-fire-tornadoes/)
- - [MrBeast: Life Is &#39;So Much Easier When You&#39;re Broke&#39;](https://kotaku.com/mrbeast-interview-beastgames-bank-account-broke-illness-1851765536)
- - [Today&#39;s Wordle answer for Thursday, February 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-20-2025/)<!-- GAME:END -->
+ - [My Loyal Shield treasure map solution in Avowed](https://www.pcgamer.com/games/rpg/avowed-my-loyal-shield-treasure-map-location/)
+ - [All Totem of Defiance fragment locations in Avowed](https://www.pcgamer.com/games/rpg/avowed-totem-of-defiance-locations-emerald-stair-fragments/)
+ - [Marvel Rivals has somehow made Storm even more terrifying, thanks to a new team-up with the Human Torch that creates massive fire tornadoes](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-has-somehow-made-storm-even-more-terrifying-thanks-to-a-new-team-up-with-the-human-torch-that-creates-massive-fire-tornadoes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
