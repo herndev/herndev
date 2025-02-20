@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global Witness: ahead of German elections, TikTok&#39;s and X&#39;s For You feeds showed a substantial far-right bias; 78% of TikTok&#39;s recommendations supported the AfD &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250220/p6#a250220p6)
- - [Russian search and ad giant Yandex reports 2024 revenue up 37% YoY to a record ~$12.3B and expects 2025 revenue up 30%+, after splitting from Nebius Group &lpar;Reuters&rpar;](http://www.techmeme.com/250220/p5#a250220p5)
- - [How One AI Startup Founder Cornered Microsoft Into Finally Taking Down Explicit Videos of Her](https://www.wired.com/story/deepfake-survivor-breeze-liu-microsoft/)<!-- TECH:END -->
+ - [Rabbit R1 maker Rabbit demos its &quot;generalist Android agent&quot;, showing it controlling apps on a tablet, building on its LAM Playground, a &quot;generalist web agent&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250220/p12#a250220p12)
+ - [This Switch emulator dev is working on a &lpar;legit&rpar; PS3 emulator for Android](https://www.androidauthority.com/rpcs3droid-ps3-emulator-android-3528122/)
+ - [This Google Photos feature is coming to more smart TVs, tablets, and… fridges?](https://www.androidauthority.com/google-photos-photo-frames-feature-expansion-3528090/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
