@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [USDS Engineering Director Resigns: ‘This Is Not the Mission I Came to Serve’](https://www.wired.com/story/doge-engineering-director-resign/)
- - [Mistral&#39;s Le Chat app tops 1M downloads in just 14 days, quickly reaching the App Store&#39;s top free downloads spot in France; ChatGPT had 500K in just six days &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250219/p49#a250219p49)
- - [Steeper price drops hit Apple&#39;s M4 &amp; M4 Pro Mac mini](https://appleinsider.com/articles/25/02/19/steeper-price-drops-hit-apples-m4-m4-pro-mac-mini?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: top X execs hinted to Interpublic and other ad firms that a lack of spending on X could lead to legal woes, due to X&#39;s lawsuit against some advertisers &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p51#a250219p51)
+ - [32 of the Best Gifts Under $100 for 2025](https://www.cnet.com/news/best-gifts-under-100/#ftag=CAD590a51e)
+ - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
