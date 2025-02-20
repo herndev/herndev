@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn](http://9gag.com/gag/a2vwrM1)
- - ⏩ [FBI](http://9gag.com/gag/a9y6rqD)
+ - 💣 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
+ - ⏩ [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
  - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
 
 ---
