@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor cleaners](http://9gag.com/gag/aGyn0Oz)
- - ⏩ [Carl Emil Pettersson. Legend!](http://9gag.com/gag/ary3Nyy)
- - 👉 [Jungle is massive](http://9gag.com/gag/aMVB9m6)<!-- MEMES:END -->
+ - 💣 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)
+ - ⏩ [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 👉 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)<!-- MEMES:END -->
 
 ---
 
