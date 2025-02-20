@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
- - ⏩ [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 👉 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)<!-- MEMES:END -->
+ - 💣 [Blame Elmo!](http://9gag.com/gag/aVvoPR8)
+ - ⏩ [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)
+ - 👉 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)<!-- MEMES:END -->
 
 ---
 
