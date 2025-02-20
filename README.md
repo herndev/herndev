@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, February 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-20-2025/)
  - [Marvel Rivals&#39; next patch will finally fix my beautiful boy Captain America](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-next-patch-will-finally-fix-my-beautiful-boy-captain-america/)
- - [The survival game with the best car ever has sold over a million copies in a year, and is now 40% off on Steam](https://www.pcgamer.com/games/survival-crafting/the-survival-game-with-the-best-car-ever-has-sold-over-a-million-copies-in-a-year-and-is-now-40-percent-off-on-steam/)
- - [The $699 &#39;AI pin&#39; that launched less than a year ago is going to stop working at the end of February](https://www.pcgamer.com/software/ai/the-usd699-ai-pin-that-launched-less-than-a-year-ago-is-going-to-stop-working-at-the-end-of-february/)<!-- GAME:END -->
+ - [The survival game with the best car ever has sold over a million copies in a year, and is now 40% off on Steam](https://www.pcgamer.com/games/survival-crafting/the-survival-game-with-the-best-car-ever-has-sold-over-a-million-copies-in-a-year-and-is-now-40-percent-off-on-steam/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
