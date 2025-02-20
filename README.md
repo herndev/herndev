@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack adds the ability to post videos from its app and lets creators monetize videos, and plans to add more video tools like trimming and enhanced analytics &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250220/p38#a250220p38)
- - [Rivian reports first quarter of ‘positive gross profit’](https://www.theverge.com/news/616967/rivian-earnings-q4-2024-profit-loss-ev)
- - [YouTube Premium Lite is coming to the US for the first time, but there’s a catch for music lovers](https://www.androidauthority.com/youtube-premium-lite-coming-3528406/)<!-- TECH:END -->
+ - [Meta announces a $50M creator fund for Horizon Worlds; CTO Andrew Bosworth reportedly told staff that 2025 is a make-or-break year for Meta&#39;s XR ambitions &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/250220/p40#a250220p40)
+ - [Google may be close to launching YouTube Premium Lite](https://www.theverge.com/news/617009/google-youtube-premium-lite-us-launch)
+ - [Carbon removal is the next big fossil fuel boom, oil company says](https://www.theverge.com/news/616662/carbon-removal-dac-oil-gas-occidental)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
