@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rabbit R1 maker Rabbit demos its &quot;generalist Android agent&quot;, showing it controlling apps on a tablet, building on its LAM Playground, a &quot;generalist web agent&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250220/p12#a250220p12)
- - [This Switch emulator dev is working on a &lpar;legit&rpar; PS3 emulator for Android](https://www.androidauthority.com/rpcs3droid-ps3-emulator-android-3528122/)
- - [This Google Photos feature is coming to more smart TVs, tablets, and… fridges?](https://www.androidauthority.com/google-photos-photo-frames-feature-expansion-3528090/)<!-- TECH:END -->
+ - [The least used app on my Android phone is… the Google app?!](https://www.androidauthority.com/google-app-android-3526838/)
+ - [The iPhone is done with home buttons — here’s why I’ll miss it](https://www.theverge.com/iphone/612463/iphone-16e-home-button-gone)
+ - [US survey: views of Mark Zuckerberg and Elon Musk tilt negative; Democrats and Republicans view Zuckerberg unfavorably; Musk is polarizing along party lines &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250220/p17#a250220p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
