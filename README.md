@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI RTX 5070 Ti Gaming Trio OC Plus review](https://www.pcgamer.com/hardware/graphics-cards/msi-rtx-5070-ti-gaming-trio-oc-plus-review/)
- - [The grotesque price gouging of the RTX 5070 Ti is turning this launch into the Blackwell GPU screwjob](https://www.pcgamer.com/hardware/graphics-cards/the-grotesque-price-gouging-of-the-rtx-5070-ti-is-turning-this-launch-into-the-blackwell-gpu-screwjob/)
- - [Solasta 2 is a CRPG that&#39;s all about the traditions of the genre—namely, killing things and taking their stuff](https://www.pcgamer.com/games/rpg/solasta-2-is-a-crpg-thats-all-about-the-traditions-of-the-genre-namely-killing-things-and-taking-their-stuff/)<!-- GAME:END -->
+ - [Like a Dragon: Pirate Yakuza in Hawaii is a Swashbuckling Spectacle With Unexpected Heart](https://news.xbox.com/en-us/2025/02/20/like-a-dragon-pirate-yakuza-in-hawaii-out-february-21/)
+ - [Clown in a Cornfield’s new trailer proves we’re in a killer clown renaissance](https://www.polygon.com/horror/526260/clown-cornfield-trailer-movie-horror-release-date)
+ - [Amazon now has full creative control over James Bond](https://www.polygon.com/news/526343/james-bond-rights-amazon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
