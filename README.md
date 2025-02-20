@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
- - ⏩ [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
- - 👉 [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)<!-- MEMES:END -->
+ - 💣 [Fun facts](http://9gag.com/gag/a7oOrZm)
+ - ⏩ [Padme?](http://9gag.com/gag/aoy30m2)
+ - 👉 [Poor cleaners](http://9gag.com/gag/aGyn0Oz)<!-- MEMES:END -->
 
 ---
 
