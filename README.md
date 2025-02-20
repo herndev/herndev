@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox Game Pass was supposed to be the Netflix of gaming — what happened?](https://www.theverge.com/decoder-podcast-with-nilay-patel/615263/xbox-game-pass-microsoft-cloud-gaming-future)
- - [Scuf’s Valor Pro is a promising start for its Hall effect Xbox controllers](https://www.theverge.com/hands-on/616019/scuf-valor-pro-hands-on-impressions-wired-xbox-controller)
- - [Spotify is making it easier to release audiobooks narrated by AI](https://www.theverge.com/news/616355/spotify-audiobooks-elevenlabs-ai-narration)<!-- TECH:END -->
+ - [Boost Mobile’s iPhone 16e deal cuts the price tag by more than half](https://www.androidauthority.com/boost-mobile-iphone-16e-deal-3528194/)
+ - [Leaked details reveal potential pricing for Lego’s Nintendo Game Boy](https://www.theverge.com/news/616514/nintendo-lego-game-boy-release-date-pricing-leak)
+ - [Jeep’s parent company announces ‘hands free, eyes off’ driving feature](https://www.theverge.com/news/616517/stellantis-stla-autodrive-level-3-partial-autonomous)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
