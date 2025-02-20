@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice cosplay](http://9gag.com/gag/aW476V6)
- - ⏩ [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)
- - 👉 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)<!-- MEMES:END -->
+ - 💣 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
+ - ⏩ [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
+ - 👉 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)<!-- MEMES:END -->
 
 ---
 
