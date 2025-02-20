@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adidas plugs its website and app into Amazon&amp;#8217;s &amp;#8216;Buy with Prime&amp;#8217; program](https://www.theverge.com/news/616891/amazon-adidas-buy-with-prime-direct-to-consumer)
- - [Apple cut too much by removing MagSafe from the iPhone 16e](https://appleinsider.com/articles/25/02/20/apple-cut-too-much-by-removing-magsafe-from-the-iphone-16e?utm_medium=rss)
- - [The busiest US airline now supports Apple’s AirTag location sharing](https://www.theverge.com/news/616912/american-airlines-apple-airtag-share-item-location-lost-luggage)<!-- TECH:END -->
+ - [Substack adds the ability to post videos from its app and lets creators monetize videos, and plans to add more video tools like trimming and enhanced analytics &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250220/p38#a250220p38)
+ - [Rivian reports first quarter of ‘positive gross profit’](https://www.theverge.com/news/616967/rivian-earnings-q4-2024-profit-loss-ev)
+ - [YouTube Premium Lite is coming to the US for the first time, but there’s a catch for music lovers](https://www.androidauthority.com/youtube-premium-lite-coming-3528406/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
