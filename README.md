@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
- - ⏩ [The chances are never 0](http://9gag.com/gag/ary3Ob0)
- - 👉 [Jungle is massive](http://9gag.com/gag/aMVB9m6)<!-- MEMES:END -->
+ - 💣 [The chances are never 0](http://9gag.com/gag/ary3Ob0)
+ - ⏩ [Jungle is massive](http://9gag.com/gag/aMVB9m6)
+ - 👉 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)<!-- MEMES:END -->
 
 ---
 
