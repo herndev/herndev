@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I’ve been playing AAA sports games like management sims and I couldn’t be happier](https://www.polygon.com/gaming/525834/sports-games-madden-2k-how-to-have-fun-again)
- - [Nvidia RTX 5070 Ti launch day live: All the links to RTX 5070 Ti models, including MSRP and absolutely nowhere near MSRP graphics cards](https://www.pcgamer.com/hardware/live/news/nvidia-rtx-5070-ti-launch-day-listings-and-prices/)
- - [13 years on, Ubisoft adds Steam achievements to the one mainline Assassin&#39;s Creed game you can&#39;t actually buy, but not the updated version you can](https://www.pcgamer.com/games/assassins-creed/13-years-on-ubisoft-adds-steam-achievements-to-the-one-mainline-assassins-creed-game-you-cant-actually-buy-but-not-the-updated-version-you-can/)<!-- GAME:END -->
+ - [MSI RTX 5070 Ti Gaming Trio OC Plus review](https://www.pcgamer.com/hardware/graphics-cards/msi-rtx-5070-ti-gaming-trio-oc-plus-review/)
+ - [The grotesque price gouging of the RTX 5070 Ti is turning this launch into the Blackwell GPU screwjob](https://www.pcgamer.com/hardware/graphics-cards/the-grotesque-price-gouging-of-the-rtx-5070-ti-is-turning-this-launch-into-the-blackwell-gpu-screwjob/)
+ - [Solasta 2 is a CRPG that&#39;s all about the traditions of the genre—namely, killing things and taking their stuff](https://www.pcgamer.com/games/rpg/solasta-2-is-a-crpg-thats-all-about-the-traditions-of-the-genre-namely-killing-things-and-taking-their-stuff/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
