@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smart thermostat company is considering charging users for its app](https://www.theverge.com/news/615975/tado-smart-thermostat-tests-app-fee)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Tim Cook meets with President Trump at the White House](https://appleinsider.com/articles/25/02/20/tim-cook-is-meeting-with-president-trump-at-the-white-house?utm_medium=rss)<!-- TECH:END -->
+ - [Roku has a new way to get to your favorite programs faster](https://www.androidauthority.com/roku-personalized-program-row-3528291/)
+ - [Kia unveils PV5 electric van as a futuristic people-mover](https://www.theverge.com/news/616711/kia-pv5-electric-van-exterior-pics)
+ - [Google Meet has a new look on phones, and these familiar buttons are moving](https://www.androidauthority.com/google-meet-mobile-design-refresh-3528334/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
