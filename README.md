@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PUBG Creator&#39;s Next Game Is Very Different But Even More Ambitious](https://kotaku.com/pubg-2-prologue-brendan-greene-playerunknown-metaverse-1851765648)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Marvel Rivals players have discovered the Human Torch&#39;s weakest feature—his incredibly underwhelming Lord icon: &#39;They just flipped him sideways&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-have-discovered-the-human-torchs-weakest-feature-his-incredibly-underwhelming-lord-icon-they-just-flipped-him-sideways/)<!-- GAME:END -->
+ - [More Action Awaits with F1 24 &amp; Madden NFL 25 on EA Play](https://news.xbox.com/en-us/2025/02/20/ea-play-update-february-2025/)
+ - [A video game that helps you find more video games](https://www.polygon.com/news/526452/ludocene-video-game-recommendation-app)
+ - [AI Atlantis revealed off the coast of China, reportedly boasting computational power equivalent to 30,000 high-end gaming PCs](https://www.pcgamer.com/hardware/ai-atlantis-revealed-off-the-coast-of-china-reportedly-boasting-computational-power-equivalent-to-30-000-high-end-gaming-pcs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
