@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My Loyal Shield treasure map solution in Avowed](https://www.pcgamer.com/games/rpg/avowed-my-loyal-shield-treasure-map-location/)
- - [All Totem of Defiance fragment locations in Avowed](https://www.pcgamer.com/games/rpg/avowed-totem-of-defiance-locations-emerald-stair-fragments/)
- - [Marvel Rivals has somehow made Storm even more terrifying, thanks to a new team-up with the Human Torch that creates massive fire tornadoes](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-has-somehow-made-storm-even-more-terrifying-thanks-to-a-new-team-up-with-the-human-torch-that-creates-massive-fire-tornadoes/)<!-- GAME:END -->
+ - [I’ve been playing AAA sports games like management sims and I couldn’t be happier](https://www.polygon.com/gaming/525834/sports-games-madden-2k-how-to-have-fun-again)
+ - [Nvidia RTX 5070 Ti launch day live: All the links to RTX 5070 Ti models, including MSRP and absolutely nowhere near MSRP graphics cards](https://www.pcgamer.com/hardware/live/news/nvidia-rtx-5070-ti-launch-day-listings-and-prices/)
+ - [13 years on, Ubisoft adds Steam achievements to the one mainline Assassin&#39;s Creed game you can&#39;t actually buy, but not the updated version you can](https://www.pcgamer.com/games/assassins-creed/13-years-on-ubisoft-adds-steam-achievements-to-the-one-mainline-assassins-creed-game-you-cant-actually-buy-but-not-the-updated-version-you-can/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
