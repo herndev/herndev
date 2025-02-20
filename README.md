@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mind changed](http://9gag.com/gag/a5Q6nEo)
- - ⏩ [The ice cream service was very satisfying.](http://9gag.com/gag/a9y6Axm)
- - 👉 [Archaeologist Khaled Al-Asaad dedicated his life to the excavation and preservation of Palmyra, a UNESCO World Heritage Site. After enduring weeks of torture, he was beheaded by ISIS for refusing to reveal the location of ancient artifacts. He died a hero of heritage protection.](http://9gag.com/gag/axy308M)<!-- MEMES:END -->
+ - 💣 [Fun facts](http://9gag.com/gag/a7oOrZm)
+ - ⏩ [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 👉 [Filter life](http://9gag.com/gag/an7Rjen)<!-- MEMES:END -->
 
 ---
 
