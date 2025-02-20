@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say what you want but that chickens looking good](http://9gag.com/gag/aO8eVME)
- - ⏩ [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
- - 👉 [A new level of rejection.](http://9gag.com/gag/aE061Ve)<!-- MEMES:END -->
+ - 💣 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
+ - ⏩ [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 👉 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)<!-- MEMES:END -->
 
 ---
 
