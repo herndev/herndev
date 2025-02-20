@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More Action Awaits with F1 24 &amp; Madden NFL 25 on EA Play](https://news.xbox.com/en-us/2025/02/20/ea-play-update-february-2025/)
- - [A video game that helps you find more video games](https://www.polygon.com/news/526452/ludocene-video-game-recommendation-app)
- - [AI Atlantis revealed off the coast of China, reportedly boasting computational power equivalent to 30,000 high-end gaming PCs](https://www.pcgamer.com/hardware/ai-atlantis-revealed-off-the-coast-of-china-reportedly-boasting-computational-power-equivalent-to-30-000-high-end-gaming-pcs/)<!-- GAME:END -->
+ - [Sea of Thieves Season 15: New Hunter’s Call Voyages, Tools and Creatures Await](https://www.seaofthieves.com/news/season15-launch#new_tab)
+ - [Monster Hunter Wilds guide: all the monster strategies and multiplayer explainers you need](https://www.pcgamer.com/games/action/monster-hunter-wilds-guide/)
+ - [GTA Online update for the week of February 20](https://www.polygon.com/gta-online-guides/526532/february-20-weekly-update-events)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
