@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Clearview AI CEO and co-founder Hoan Ton-That resigns from the facial recognition company and says he would continue serving as a board member &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/250219/p52#a250219p52)
  - [DOGE Now Has Access to the Top US Cybersecurity Agency](https://www.wired.com/story/doge-cisa-coristine-cybersecurity/)
- - [More than a name change: iPhone 16e isn&#39;t the iPhone SE 4](https://appleinsider.com/articles/25/02/20/more-than-a-name-change-iphone-16e-isnt-the-iphone-se-4?utm_medium=rss)
- - [Sources: top X execs hinted to Interpublic and other ad firms that a lack of spending on X could lead to legal woes, due to X&#39;s lawsuit against some advertisers &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p51#a250219p51)<!-- TECH:END -->
+ - [More than a name change: iPhone 16e isn&#39;t the iPhone SE 4](https://appleinsider.com/articles/25/02/20/more-than-a-name-change-iphone-16e-isnt-the-iphone-se-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
