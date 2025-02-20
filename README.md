@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The least used app on my Android phone is… the Google app?!](https://www.androidauthority.com/google-app-android-3526838/)
- - [The iPhone is done with home buttons — here’s why I’ll miss it](https://www.theverge.com/iphone/612463/iphone-16e-home-button-gone)
- - [US survey: views of Mark Zuckerberg and Elon Musk tilt negative; Democrats and Republicans view Zuckerberg unfavorably; Musk is polarizing along party lines &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250220/p17#a250220p17)<!-- TECH:END -->
+ - [I hated my Samsung Galaxy S25 until I changed this one thing](https://www.androidauthority.com/i-hated-samsung-galaxy-s25-until-changed-one-thing-3526935/)
+ - [Ring&amp;#8217;s new security camera supports 2K video out of the box](https://www.theverge.com/news/614595/amazon-ring-outdoor-cam-plus-security-2k-video)
+ - [This smart thermostat compay is considering charging users for its app](https://www.theverge.com/news/615975/tado-smart-thermostat-tests-app-fee)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
