@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons and Dragons: A New Quest Now Available in the Minecraft Marketplace](https://www.minecraft.net/article/dungeons-dragons-a-new-quest-dlc#new_tab)
- - [Avowed starmetal locations and Forged of Star-Stuff completion rewards](https://www.pcgamer.com/games/rpg/avowed-starmetal-locations-forged-of-star-stuff/)
- - [Every Marvel movie and TV release set for 2025 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)<!-- GAME:END -->
+ - [Two days after laying off US-based developers, NetEase says Marvel Rivals has surpassed 40 million players](https://www.pcgamer.com/games/third-person-shooter/two-days-after-laying-off-us-based-developers-netease-says-marvel-rivals-has-surpassed-40-million-players/)
+ - [Marvel Rivals player is over 4,500 matches into mastering every hero](https://www.polygon.com/news/526621/marvel-rivals-player-churns-through-over-4500-matches-to-master-every-hero)
+ - [Sony shares examples of &#39;sexually charged&#39; texts from former Destiny 2 director who claims Bungie fired him unfairly to avoid paying millions](https://www.pcgamer.com/games/sony-shares-examples-of-sexually-charged-texts-from-former-destiny-2-director-who-claims-bungie-fired-him-unfairly-to-avoid-paying-millions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
