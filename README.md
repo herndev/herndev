@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
- - ⏩ [Say what you want but that chickens looking good](http://9gag.com/gag/aO8eVME)
- - 👉 [Blame Elmo!](http://9gag.com/gag/aVvoPR8)<!-- MEMES:END -->
+ - 💣 [Say what you want but that chickens looking good](http://9gag.com/gag/aO8eVME)
+ - ⏩ [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)
+ - 👉 [A new level of rejection.](http://9gag.com/gag/aE061Ve)<!-- MEMES:END -->
 
 ---
 
