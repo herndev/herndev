@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The $699 &#39;AI pin&#39; that launched less than a year ago is going to stop working at the end of February](https://www.pcgamer.com/software/ai/the-usd699-ai-pin-that-launched-less-than-a-year-ago-is-going-to-stop-working-at-the-end-of-february/)
- - [Ex-Bungie Director&#39;s Creepy Texts To Female Employees Released By Sony In Ongoing Lawsuit](https://kotaku.com/bungie-ex-marathon-christopher-barrett-lawsuit-texts-1851765546)
- - [Dead Man&amp;#8217;s Mail treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/525865/dead-mans-mail-treasure-map-location-solution-reward)<!-- GAME:END -->
+ - [Marvel Rivals&#39; next patch will finally fix my beautiful boy Captain America](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-next-patch-will-finally-fix-my-beautiful-boy-captain-america/)
+ - [The survival game with the best car ever has sold over a million copies in a year, and is now 40% off on Steam](https://www.pcgamer.com/games/survival-crafting/the-survival-game-with-the-best-car-ever-has-sold-over-a-million-copies-in-a-year-and-is-now-40-percent-off-on-steam/)
+ - [The $699 &#39;AI pin&#39; that launched less than a year ago is going to stop working at the end of February](https://www.pcgamer.com/software/ai/the-usd699-ai-pin-that-launched-less-than-a-year-ago-is-going-to-stop-working-at-the-end-of-february/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
