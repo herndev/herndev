@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Built to last a century](http://9gag.com/gag/aND9z3b)
- - ⏩ [A classic of classics](http://9gag.com/gag/a876ybZ)
- - 👉 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)<!-- MEMES:END -->
+ - 💣 [The ice cream service was very satisfying.](http://9gag.com/gag/a9y6Axm)
+ - ⏩ [Mind changed](http://9gag.com/gag/a5Q6nEo)
+ - 👉 [Whoa](http://9gag.com/gag/aAy6xg0)<!-- MEMES:END -->
 
 ---
 
