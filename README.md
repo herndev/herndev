@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves Season 15: New Hunter’s Call Voyages, Tools and Creatures Await](https://www.seaofthieves.com/news/season15-launch#new_tab)
- - [Monster Hunter Wilds guide: all the monster strategies and multiplayer explainers you need](https://www.pcgamer.com/games/action/monster-hunter-wilds-guide/)
- - [GTA Online update for the week of February 20](https://www.polygon.com/gta-online-guides/526532/february-20-weekly-update-events)<!-- GAME:END -->
+ - [Dungeons and Dragons: A New Quest Now Available in the Minecraft Marketplace](https://www.minecraft.net/article/dungeons-dragons-a-new-quest-dlc#new_tab)
+ - [Avowed starmetal locations and Forged of Star-Stuff completion rewards](https://www.pcgamer.com/games/rpg/avowed-starmetal-locations-forged-of-star-stuff/)
+ - [Every Marvel movie and TV release set for 2025 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
