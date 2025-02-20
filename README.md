@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HBO announces The Last of Us Season 2 release date: April 13](https://www.pcgamer.com/movies-tv/hbo-announces-the-last-of-us-season-2-release-date-april-13/)
- - [This twist on the survival crafter genre lets you play as a silly little squirrel](https://www.polygon.com/cozy-gaming/526198/squirreled-away-cozy-crafter-game-demo)
- - [Marvel Rivals’ latest patch buffs everyone except support characters](https://www.polygon.com/gaming/525887/marvel-rivals-season-1-5-patch-support-nerfs)<!-- GAME:END -->
+ - [The $699 &#39;AI pin&#39; that launched less than a year ago is going to stop working at the end of February](https://www.pcgamer.com/software/ai/the-usd699-ai-pin-that-launched-less-than-a-year-ago-is-going-to-stop-working-at-the-end-of-february/)
+ - [Ex-Bungie Director&#39;s Creepy Texts To Female Employees Released By Sony In Ongoing Lawsuit](https://kotaku.com/bungie-ex-marathon-christopher-barrett-lawsuit-texts-1851765546)
+ - [Dead Man&amp;#8217;s Mail treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/525865/dead-mans-mail-treasure-map-location-solution-reward)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
