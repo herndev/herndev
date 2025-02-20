@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)
- - ⏩ [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
- - 👉 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)<!-- MEMES:END -->
+ - 💣 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
+ - ⏩ [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
+ - 👉 [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)<!-- MEMES:END -->
 
 ---
 
