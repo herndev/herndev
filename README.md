@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Filter life](http://9gag.com/gag/an7Rjen)
- - ⏩ [Angry robot almost beat audience.](http://9gag.com/gag/a6ZX7Ye)
- - 👉 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)<!-- MEMES:END -->
+ - 💣 [Well well well](http://9gag.com/gag/ae910dB)
+ - ⏩ [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
+ - 👉 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)<!-- MEMES:END -->
 
 ---
 
