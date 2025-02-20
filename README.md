@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn](http://9gag.com/gag/a2vwrM1)
- - ⏩ [I would\u2026even with costume](http://9gag.com/gag/awy3nyB)
- - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
+ - 💣 [Built to last a century](http://9gag.com/gag/aND9z3b)
+ - ⏩ [A classic of classics](http://9gag.com/gag/a876ybZ)
+ - 👉 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)<!-- MEMES:END -->
 
 ---
 
