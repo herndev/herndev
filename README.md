@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I hated my Samsung Galaxy S25 until I changed this one thing](https://www.androidauthority.com/i-hated-samsung-galaxy-s25-until-changed-one-thing-3526935/)
- - [Ring&amp;#8217;s new security camera supports 2K video out of the box](https://www.theverge.com/news/614595/amazon-ring-outdoor-cam-plus-security-2k-video)
- - [This smart thermostat compay is considering charging users for its app](https://www.theverge.com/news/615975/tado-smart-thermostat-tests-app-fee)<!-- TECH:END -->
+ - [Xbox Game Pass was supposed to be the Netflix of gaming — what happened?](https://www.theverge.com/decoder-podcast-with-nilay-patel/615263/xbox-game-pass-microsoft-cloud-gaming-future)
+ - [Scuf’s Valor Pro is a promising start for its Hall effect Xbox controllers](https://www.theverge.com/hands-on/616019/scuf-valor-pro-hands-on-impressions-wired-xbox-controller)
+ - [Spotify is making it easier to release audiobooks narrated by AI](https://www.theverge.com/news/616355/spotify-audiobooks-elevenlabs-ai-narration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
