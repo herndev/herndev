@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well](http://9gag.com/gag/ae910dB)
- - ⏩ [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)
- - 👉 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)<!-- MEMES:END -->
+ - 💣 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - ⏩ [Blame Elmo!](http://9gag.com/gag/aVvoPR8)
+ - 👉 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)<!-- MEMES:END -->
 
 ---
 
