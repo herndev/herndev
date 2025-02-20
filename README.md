@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Two days after laying off US-based developers, NetEase says Marvel Rivals has surpassed 40 million players](https://www.pcgamer.com/games/third-person-shooter/two-days-after-laying-off-us-based-developers-netease-says-marvel-rivals-has-surpassed-40-million-players/)
- - [Marvel Rivals player is over 4,500 matches into mastering every hero](https://www.polygon.com/news/526621/marvel-rivals-player-churns-through-over-4500-matches-to-master-every-hero)
- - [Sony shares examples of &#39;sexually charged&#39; texts from former Destiny 2 director who claims Bungie fired him unfairly to avoid paying millions](https://www.pcgamer.com/games/sony-shares-examples-of-sexually-charged-texts-from-former-destiny-2-director-who-claims-bungie-fired-him-unfairly-to-avoid-paying-millions/)<!-- GAME:END -->
+ - [Overwatch 2 achieves the improbable, clawing back a &#39;Mixed&#39; rating in recent Steam reviews after a well-received perks update](https://www.pcgamer.com/games/fps/overwatch-2-achieves-the-improbable-clawing-back-a-mixed-rating-in-recent-steam-reviews-after-a-well-received-perks-update/)
+ - [New Chinese Blockbuster Just Surpassed Inside Out 2 To Become The Biggest Animated Movie Ever](https://kotaku.com/ne-zha-2-inside-out-2-box-office-record-2-billion-china-1851765730)
+ - [&#39;A wizard is never late, nor is he early, he arrives precisely when he means to,&#39; but it&#39;s a different story for hobbits because Tales of the Shire is delayed again](https://www.pcgamer.com/games/life-sim/a-wizard-is-never-late-nor-is-he-early-he-arrives-precisely-when-he-means-to-but-its-a-different-story-for-hobbits-because-tales-of-the-shire-is-delayed-again/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
