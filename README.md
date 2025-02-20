@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s phone app can now filter out spam and unknown calls from your call log](https://www.androidauthority.com/google-call-log-filters-3528375/)
- - [FTC Chair Andrew Ferguson announces an inquiry into &quot;Big Tech censorship&quot;, which he says is &quot;un-American&quot; and &quot;potentially illegal&quot; &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250220/p35#a250220p35)
- - [Nickelodeon’s next Avatar animated series is finally coming together](https://www.theverge.com/news/616866/avatar-seven-havens-nickelodeon-konietzko-dimartino)<!-- TECH:END -->
+ - [Adidas plugs its website and app into Amazon&amp;#8217;s &amp;#8216;Buy with Prime&amp;#8217; program](https://www.theverge.com/news/616891/amazon-adidas-buy-with-prime-direct-to-consumer)
+ - [Apple cut too much by removing MagSafe from the iPhone 16e](https://appleinsider.com/articles/25/02/20/apple-cut-too-much-by-removing-magsafe-from-the-iphone-16e?utm_medium=rss)
+ - [The busiest US airline now supports Apple’s AirTag location sharing](https://www.theverge.com/news/616912/american-airlines-apple-airtag-share-item-location-lost-luggage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
