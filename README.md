@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
- - ⏩ [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 👉 [Drugs, not hugs](http://9gag.com/gag/aW4765x)<!-- MEMES:END -->
+ - 💣 [Damn](http://9gag.com/gag/a2vwrM1)
+ - ⏩ [FBI](http://9gag.com/gag/a9y6rqD)
+ - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
 
 ---
 
