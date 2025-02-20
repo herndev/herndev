@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku has a new way to get to your favorite programs faster](https://www.androidauthority.com/roku-personalized-program-row-3528291/)
- - [Kia unveils PV5 electric van as a futuristic people-mover](https://www.theverge.com/news/616711/kia-pv5-electric-van-exterior-pics)
- - [Google Meet has a new look on phones, and these familiar buttons are moving](https://www.androidauthority.com/google-meet-mobile-design-refresh-3528334/)<!-- TECH:END -->
+ - [Google’s phone app can now filter out spam and unknown calls from your call log](https://www.androidauthority.com/google-call-log-filters-3528375/)
+ - [FTC Chair Andrew Ferguson announces an inquiry into &quot;Big Tech censorship&quot;, which he says is &quot;un-American&quot; and &quot;potentially illegal&quot; &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250220/p35#a250220p35)
+ - [Nickelodeon’s next Avatar animated series is finally coming together](https://www.theverge.com/news/616866/avatar-seven-havens-nickelodeon-konietzko-dimartino)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
