@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Accel&#39;s Harry Nelis, who led early investments in Zepz and Kayak, on how the European startup industry has changed, the AI boom, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250220/p3#a250220p3)
- - [Best Internet Providers in Lima, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-lima-oh/#ftag=CAD590a51e)
- - [&#39;Reacher&#39; Season 3 Premiered Today. Here&#39;s How You and Your Dad Can Watch](https://www.cnet.com/tech/services-and-software/reacher-season-3-premiered-today-heres-how-you-and-your-dad-can-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Global Witness: ahead of German elections, TikTok&#39;s and X&#39;s For You feeds showed a substantial far-right bias; 78% of TikTok&#39;s recommendations supported the AfD &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250220/p6#a250220p6)
+ - [Russian search and ad giant Yandex reports 2024 revenue up 37% YoY to a record ~$12.3B and expects 2025 revenue up 30%+, after splitting from Nebius Group &lpar;Reuters&rpar;](http://www.techmeme.com/250220/p5#a250220p5)
+ - [How One AI Startup Founder Cornered Microsoft Into Finally Taking Down Explicit Videos of Her](https://www.wired.com/story/deepfake-survivor-breeze-liu-microsoft/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
