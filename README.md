@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)
- - ⏩ [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 👉 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)<!-- MEMES:END -->
+ - 💣 [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)
+ - ⏩ [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
+ - 👉 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)<!-- MEMES:END -->
 
 ---
 
