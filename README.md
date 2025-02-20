@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use iPerf3 in Terminal to measure your Mac&#39;s network performance](https://appleinsider.com/inside/macos/tips/how-to-use-iperf3-in-terminal-to-measure-your-macs-network-performance?utm_medium=rss)
- - [Source: 19-year-old Edward Coristine and Kyle Schutt, both DOGE engineers, are now on staff at the CISA; Coristine was briefly an intern for Neuralink &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/250219/p53#a250219p53)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Lenovo reports Q3 revenue up 20% YoY to $18.8B, above est., and net income up 106% YoY to $692.7M, vs. $365M est.; IDC says Lenovo&#39;s PC shipments grew 4.8% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p57#a250219p57)
+ - [Sanas, whose tech changes call center workers&#39; accents in real time using AI, raised a $65M Series B at a $500M+ valuation led by Quadrille and Teleperformance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250219/p56#a250219p56)
+ - [Twitch rolls out changes to its violation enforcement system, including letting minor infractions expire after 90 days and serious ones in one or two years &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250219/p55#a250219p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
