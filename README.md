@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Like a Dragon: Pirate Yakuza in Hawaii is a Swashbuckling Spectacle With Unexpected Heart](https://news.xbox.com/en-us/2025/02/20/like-a-dragon-pirate-yakuza-in-hawaii-out-february-21/)
- - [Clown in a Cornfield’s new trailer proves we’re in a killer clown renaissance](https://www.polygon.com/horror/526260/clown-cornfield-trailer-movie-horror-release-date)
- - [Amazon now has full creative control over James Bond](https://www.polygon.com/news/526343/james-bond-rights-amazon)<!-- GAME:END -->
+ - [Free Play Days – New World: Aeternum, One Piece: Pirate Warriors 4 and Dragon Ball Xenoverse 2](https://news.xbox.com/en-us/2025/02/20/free-play-days-02-20-2025/)
+ - [Get R.F. Kuang’s acclaimed Poppy War trilogy for only $4](https://www.polygon.com/books/526338/poppy-war-trilogy-book-sale-rf-kuang)
+ - [6 Diablo 4-Like Games To Grind Before The ARPG&#39;s Next Season](https://kotaku.com/diablo-4-path-of-exile-2-grim-dawn-titan-quest-1851765614)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
