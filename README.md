@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
- - ⏩ [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
- - 👉 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)<!-- MEMES:END -->
+ - 💣 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
+ - ⏩ [Say what you want but that chickens looking good](http://9gag.com/gag/aO8eVME)
+ - 👉 [Blame Elmo!](http://9gag.com/gag/aVvoPR8)<!-- MEMES:END -->
 
 ---
 
