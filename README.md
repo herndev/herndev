@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – New World: Aeternum, One Piece: Pirate Warriors 4 and Dragon Ball Xenoverse 2](https://news.xbox.com/en-us/2025/02/20/free-play-days-02-20-2025/)
- - [Get R.F. Kuang’s acclaimed Poppy War trilogy for only $4](https://www.polygon.com/books/526338/poppy-war-trilogy-book-sale-rf-kuang)
- - [6 Diablo 4-Like Games To Grind Before The ARPG&#39;s Next Season](https://kotaku.com/diablo-4-path-of-exile-2-grim-dawn-titan-quest-1851765614)<!-- GAME:END -->
+ - [PUBG Creator&#39;s Next Game Is Very Different But Even More Ambitious](https://kotaku.com/pubg-2-prologue-brendan-greene-playerunknown-metaverse-1851765648)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Marvel Rivals players have discovered the Human Torch&#39;s weakest feature—his incredibly underwhelming Lord icon: &#39;They just flipped him sideways&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-have-discovered-the-human-torchs-weakest-feature-his-incredibly-underwhelming-lord-icon-they-just-flipped-him-sideways/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
