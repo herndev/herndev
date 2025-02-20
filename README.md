@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The chances are never 0](http://9gag.com/gag/ary3Ob0)
- - ⏩ [Jungle is massive](http://9gag.com/gag/aMVB9m6)
- - 👉 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)<!-- MEMES:END -->
+ - 💣 [Fun facts](http://9gag.com/gag/a7oOrZm)
+ - ⏩ [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
 
 ---
 
