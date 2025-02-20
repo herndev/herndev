@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volvo’s ES90 sedan will be built with a Nvidia supercomputer](https://www.theverge.com/news/615869/volvo-es90-sedan-nvidia-drive-agx-orin)
- - [Paris-based Spore.Bio, which has developed a pre-trained deep learning algorithm to speed up microbiology testing, raised a $23M Series A led by Singular &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250220/p1#a250220p1)
- - [Android Auto glitch is causing phones to reboot when connected wirelessly](https://www.androidauthority.com/android-auto-wireless-connectivity-problems-3528026/)<!-- TECH:END -->
+ - [Labour MP Graeme Downie, the chair of the UK&#39;s cross-party coalition on secure technology, warns that Chinese components in smart devices pose a sabotage threat &lpar;Lucy Fisher/Financial Times&rpar;](http://www.techmeme.com/250220/p2#a250220p2)
+ - [Google Messages preps a mini search makeover &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-search-ui-change-apk-teardown-3528033/)
+ - [Max Promo Code: 50% Off | February 2025](https://www.wired.com/story/max-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
