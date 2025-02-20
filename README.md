@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fun facts](http://9gag.com/gag/a7oOrZm)
- - ⏩ [Padme?](http://9gag.com/gag/aoy30m2)
- - 👉 [Poor cleaners](http://9gag.com/gag/aGyn0Oz)<!-- MEMES:END -->
+ - 💣 [Nice cosplay](http://9gag.com/gag/aW476V6)
+ - ⏩ [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)
+ - 👉 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)<!-- MEMES:END -->
 
 ---
 
