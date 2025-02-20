@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo reports Q3 revenue up 20% YoY to $18.8B, above est., and net income up 106% YoY to $692.7M, vs. $365M est.; IDC says Lenovo&#39;s PC shipments grew 4.8% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p57#a250219p57)
- - [Sanas, whose tech changes call center workers&#39; accents in real time using AI, raised a $65M Series B at a $500M+ valuation led by Quadrille and Teleperformance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250219/p56#a250219p56)
- - [Twitch rolls out changes to its violation enforcement system, including letting minor infractions expire after 90 days and serious ones in one or two years &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250219/p55#a250219p55)<!-- TECH:END -->
+ - [Volvo’s ES90 sedan will be built with a Nvidia supercomputer](https://www.theverge.com/news/615869/volvo-es90-sedan-nvidia-drive-agx-orin)
+ - [Paris-based Spore.Bio, which has developed a pre-trained deep learning algorithm to speed up microbiology testing, raised a $23M Series A led by Singular &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250220/p1#a250220p1)
+ - [Android Auto glitch is causing phones to reboot when connected wirelessly](https://www.androidauthority.com/android-auto-wireless-connectivity-problems-3528026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
