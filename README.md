@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fun facts](http://9gag.com/gag/a7oOrZm)
- - ⏩ [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
- - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
+ - 💣 [Damn](http://9gag.com/gag/a2vwrM1)
+ - ⏩ [I would\u2026even with costume](http://9gag.com/gag/awy3nyB)
+ - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
 
 ---
 
