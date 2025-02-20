@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Minneapolis, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-minneapolis-mn/#ftag=CAD590a51e)
- - [Labour MP Graeme Downie, the chair of the UK&#39;s cross-party coalition on secure technology, warns that Chinese components in smart devices pose a sabotage threat &lpar;Lucy Fisher/Financial Times&rpar;](http://www.techmeme.com/250220/p2#a250220p2)
- - [Google Messages preps a mini search makeover &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-search-ui-change-apk-teardown-3528033/)<!-- TECH:END -->
+ - [An interview with Accel&#39;s Harry Nelis, who led early investments in Zepz and Kayak, on how the European startup industry has changed, the AI boom, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250220/p3#a250220p3)
+ - [Best Internet Providers in Lima, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-lima-oh/#ftag=CAD590a51e)
+ - [&#39;Reacher&#39; Season 3 Premiered Today. Here&#39;s How You and Your Dad Can Watch](https://www.cnet.com/tech/services-and-software/reacher-season-3-premiered-today-heres-how-you-and-your-dad-can-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
