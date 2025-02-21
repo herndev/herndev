@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit reportedly experienced some outages](https://www.theverge.com/news/617081/reddit-outage-down)
- - [Microsoft researchers introduce Magma, an AI foundation model that combines visual and language processing to control software interfaces and robotic systems &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250220/p45#a250220p45)
- - [A look at the potential reasons why software developer job listings on Indeed hit a five-year low in January, down 35% from 2020, including the impact of AI &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/250220/p44#a250220p44)<!-- TECH:END -->
+ - [Yoto Mini review: A tiny, powerful, &amp; endlessly fun speaker for kids](https://appleinsider.com/articles/25/02/21/yoto-mini-review-a-tiny-powerful-endlessly-fun-speaker-for-kids?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Oops! Nothing owns up to camera comparison blunder with iPhone 16 Pro Max](https://www.androidauthority.com/nothing-phone-3a-iphone-16-comparison-mistake-3528471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
