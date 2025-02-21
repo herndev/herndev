@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)
- - ⏩ [Oh man!](http://9gag.com/gag/avy18gM)
- - 👉 [`I need a picture confirming the package delivery`](http://9gag.com/gag/aPAmYwn)<!-- MEMES:END -->
+ - 💣 [Turns out I&#39;m in shape](https://www.reddit.com/r/funny/comments/1iuvmck/turns_out_im_in_shape/)
+ - ⏩ [Fun facts](http://9gag.com/gag/a7oOrZm)
+ - 👉 [House, DVM](http://9gag.com/gag/aPAmjAg)<!-- MEMES:END -->
 
 ---
 
