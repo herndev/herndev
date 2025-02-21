@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Like a Dragon: Pirate Yakuza in Hawaii](https://blog.playstation.com/2025/02/20/20250221-yakuza/)
- - [Heads up on an important change to commenting](https://www.pcgamer.com/games/heads-up-on-an-important-change-to-commenting/)
- - [Atelier Yumia: New Features Explained – and a Surprise Connection to Halo](https://news.xbox.com/en-us/2025/02/20/atelier-yumia-preview-halo-connection/)<!-- GAME:END -->
+ - [Payday 3 sales dropped off hard in 2024, but Starbreeze has hope for the future](https://www.pcgamer.com/games/fps/payday-3-sales-dropped-off-hard-in-2024-but-starbreeze-has-hope-for-the-future/)
+ - [Dune: Awakening&#39;s sandworms will be their own masters: &#39;You won&#39;t be able to summon them at will&#39;](https://www.pcgamer.com/games/survival-crafting/dune-awakenings-sandworms-will-be-their-own-masters-you-wont-be-able-to-summon-them-at-will/)
+ - [Matt Fraction takes the reins on DC’s Batman, with a redesign and renumbering](https://www.polygon.com/dc/526838/dc-batman-matt-fraction)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
