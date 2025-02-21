@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
- - ⏩ [The ice cream service was very satisfying.](http://9gag.com/gag/a9y6Axm)
- - 👉 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)<!-- MEMES:END -->
+ - 💣 [That split moment of panic in his face. Dang!](http://9gag.com/gag/aQzvM3K)
+ - ⏩ [Play Silly Games Win Silly Prizes](http://9gag.com/gag/a7oOrox)
+ - 👉 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)<!-- MEMES:END -->
 
 ---
 
