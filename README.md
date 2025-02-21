@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`I need a picture confirming the package delivery`](http://9gag.com/gag/aPAmYwn)
- - ⏩ [Latina mom, and a slipper of mass destruction](http://9gag.com/gag/aLnz9rW)
- - 👉 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)<!-- MEMES:END -->
+ - 💣 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
+ - ⏩ [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
+ - 👉 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)<!-- MEMES:END -->
 
 ---
 
