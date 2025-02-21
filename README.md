@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, February 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-21-2025/)
- - [Sure seems like the new Call of Duty map is teasing a Tony Hawk&#39;s Pro Skater game](https://www.pcgamer.com/games/sports/sure-seems-like-the-new-call-of-duty-map-is-teasing-a-tony-hawks-pro-skater-game/)
- - [Payday 3 sales dropped off hard in 2024, but Starbreeze has hope for the future](https://www.pcgamer.com/games/fps/payday-3-sales-dropped-off-hard-in-2024-but-starbreeze-has-hope-for-the-future/)<!-- GAME:END -->
+ - [If you ever got the feeling a customer support line is intentionally keeping you on hold in the hope you&#39;ll go away it turns out the HP is doing precisely that with a minimum 15 wait](https://www.pcgamer.com/hardware/if-you-ever-got-the-feeling-a-customer-support-line-is-intentionally-keeping-you-on-hold-in-the-hope-youll-go-away-it-turns-out-the-hp-is-doing-precisely-that-with-a-minimum-15-wait/)
+ - [All treasure map locations and rewards in Avowed](https://www.pcgamer.com/games/rpg/avowed-treasure-map-locations/)
+ - [Today&#39;s Wordle answer for Friday, February 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-21-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
