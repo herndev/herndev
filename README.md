@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The last remaining Nintendo Switch emulator on Android just got a big update](https://www.androidauthority.com/citron-switch-emulator-v0-5-3528628/)
- - [The ups and downs of the iPhone 16E](https://www.theverge.com/the-vergecast/617137/iphone-16e-humane-ai-pin-vergecast)
- - [First benchmarks for the iPhone 16e reveal performance and RAM size](https://appleinsider.com/articles/25/02/21/first-benchmarks-for-the-iphone-16e-reveal-performance-and-ram-size?utm_medium=rss)<!-- TECH:END -->
+ - [Nobody&#39;s rushing to buy the iPhone 16e yet](https://appleinsider.com/articles/25/02/21/nobodys-rushing-to-buy-the-iphone-16e-yet?utm_medium=rss)
+ - [One year later, the Galaxy S24 Ultra is still ripping a hole in people’s pockets — literally](https://www.androidauthority.com/samsung-galaxy-s24-ultra-sharp-corners-rip-jeans-3528653/)
+ - [Best Internet Providers in Naperville, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-naperville-il/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
