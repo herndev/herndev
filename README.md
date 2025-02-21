@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up crash detection on your iPhone and Apple Watch](https://www.theverge.com/how-to/617241/iphone-apple-watch-crash-detection-how-to)
- - [OpenAI says it found evidence of an AI-powered surveillance tool used by a Chinese security operation to identify anti-China posts on social media in the West &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250221/p19#a250221p19)
- - [Recipes, restaurant reviews, and kitchen tips coming to Apple News+](https://appleinsider.com/articles/25/02/21/recipes-restaurant-reviews-and-kitchen-tips-coming-to-apple-news?utm_medium=rss)<!-- TECH:END -->
+ - [visionOS 2.4 beta brings several long-awaited features to Apple Vision Pro](https://appleinsider.com/articles/25/02/21/visionos-24-beta-brings-several-long-awaited-features-to-apple-vision-pro?utm_medium=rss)
+ - [Would you buy a scented mouse? ASUS thinks you’ll love this unique, bizarre accessory](https://www.androidauthority.com/asus-fragrance-mouse-3528792/)
+ - [This New Drug Could Help End the HIV Epidemic—but US Funding Cuts Are Killing Its Rollout](https://www.wired.com/story/lenacapavir-usaid-hiv-aids-funding-cuts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
