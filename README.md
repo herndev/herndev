@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your first real look at Live Updates in Android 16](https://www.androidauthority.com/android-16-live-updates-demo-3528456/)
- - [Android 16 could add a new way to trigger your screen saver](https://www.androidauthority.com/android-16-screen-saver-postured-3528345/)
- - [The Lunar Economy Is Coming](https://www.wired.com/story/blue-ghost-mission-lunar-economy/)<!-- TECH:END -->
+ - [Leaked Nothing Phone 3a series promo videos leave nothing to the imagination](https://www.androidauthority.com/nothing-phone-3a-series-promo-videos-leak-3528569/)
+ - [DOGE Sparks Surveillance Fear Across the US Government](https://www.wired.com/story/surveillance-privacy-doge-federal-employees/)
+ - [iPhone fold display details revealed in dubious leak](https://appleinsider.com/articles/25/02/21/iphone-fold-display-details-revealed-in-dubious-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
