@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That split moment of panic in his face. Dang!](http://9gag.com/gag/aQzvM3K)
- - ⏩ [Play Silly Games Win Silly Prizes](http://9gag.com/gag/a7oOrox)
- - 👉 [A lot of people can relate](http://9gag.com/gag/aW47moA)<!-- MEMES:END -->
+ - 💣 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
+ - ⏩ [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - 👉 [Damn](http://9gag.com/gag/a2vwrM1)<!-- MEMES:END -->
 
 ---
 
