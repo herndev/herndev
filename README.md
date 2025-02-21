@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You may walk safe today bro](http://9gag.com/gag/aBy68Ax)
- - ⏩ [Core memory unlocked](http://9gag.com/gag/a0eXQKd)
- - 👉 [Whoa](http://9gag.com/gag/aAy6xg0)<!-- MEMES:END -->
+ - 💣 [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)
+ - ⏩ [Oh man!](http://9gag.com/gag/avy18gM)
+ - 👉 [`I need a picture confirming the package delivery`](http://9gag.com/gag/aPAmYwn)<!-- MEMES:END -->
 
 ---
 
