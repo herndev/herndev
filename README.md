@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple turns off data protection in the UK rather than comply with backdoor mandate](https://appleinsider.com/articles/25/02/21/apple-turns-off-data-protection-in-the-uk-rather-than-comply-with-backdoor-mandate?utm_medium=rss)
- - [Sources: Fluidstack, which wants to build a &amp;euro;10B AI data center in France as part of Macron&#39;s &amp;euro;109B data center pledge, is in talks to raise a ~$200M Series A &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p15#a250221p15)
- - [Apple ends its Qualcomm dependency with the new C1 modem chip](https://appleinsider.com/articles/25/02/21/apple-ends-its-qualcomm-dependency-with-the-new-c1-modem-chip?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: SoftBank VF and others marked up ByteDance&#39;s valuation to $400B+; SoftBank puts zero value on TikTok&#39;s US operations but factored in AI business Doubao &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p17#a250221p17)
+ - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
+ - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
