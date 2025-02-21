@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New leak suggests the iPhone Fold could take inspiration from the Pixel Fold](https://www.androidauthority.com/apple-iphone-fold-screen-leak-3528533/)
- - [How Breeze Liu, an advocate for digital abuse victims, got Microsoft to scrub 142 nonconsensual explicit images of her hosted on Azure after months of struggle &lpar;Wired&rpar;](http://www.techmeme.com/250221/p4#a250221p4)
- - [That was quick: One UI 7 beta 5 is out just days after beta 4 release](https://www.androidauthority.com/samsung-one-ui-7-beta-5-3528530/)<!-- TECH:END -->
+ - [Software engineers, academics, and others say AI coding tools will likely prompt an evolution rather than extinction, pushing developers to learn new skills &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250221/p5#a250221p5)
+ - [T-Mobile users beware: New scam tricks customers into returning ‘free’ phones to fraudsters](https://www.androidauthority.com/t-mobile-free-phone-scam-3528555/)
+ - [Best Internet Providers in Melbourne, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-melbourne-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
