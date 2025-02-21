@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New leak suggests the iPhone Fold could take inspiration from the Pixel Fold](https://www.androidauthority.com/apple-iphone-fold-screen-leak-3528533/)
  - [How Breeze Liu, an advocate for digital abuse victims, got Microsoft to scrub 142 nonconsensual explicit images of her hosted on Azure after months of struggle &lpar;Wired&rpar;](http://www.techmeme.com/250221/p4#a250221p4)
- - [That was quick: One UI 7 beta 5 is out just days after beta 4 release](https://www.androidauthority.com/samsung-one-ui-7-beta-5-3528530/)
- - [Leaked Nothing Phone 3a series renders show off Glyph lighting, extra hardware key](https://www.androidauthority.com/nothing-phone-3a-3a-pro-renders-leak-design-3528502/)<!-- TECH:END -->
+ - [That was quick: One UI 7 beta 5 is out just days after beta 4 release](https://www.androidauthority.com/samsung-one-ui-7-beta-5-3528530/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
