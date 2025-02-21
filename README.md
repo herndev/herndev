@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta announces a $50M creator fund for Horizon Worlds; CTO Andrew Bosworth reportedly told staff that 2025 is a make-or-break year for Meta&#39;s XR ambitions &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/250220/p40#a250220p40)
- - [Google may be close to launching YouTube Premium Lite](https://www.theverge.com/news/617009/google-youtube-premium-lite-us-launch)
- - [Carbon removal is the next big fossil fuel boom, oil company says](https://www.theverge.com/news/616662/carbon-removal-dac-oil-gas-occidental)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Sources: GameStop CEO and activist investor Ryan Cohen has grown his personal stake in Alibaba to about 7M shares, worth roughly $1B, in recent months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250220/p42#a250220p42)
+ - [How to Watch Team USA vs. Canada in the NHL 4 Nations Face-Off Tonight](https://www.cnet.com/tech/services-and-software/how-to-watch-team-usa-vs-canada-in-the-nhl-4-nations-face-off-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
