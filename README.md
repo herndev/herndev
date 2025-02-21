@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab a Club: PGA Tour 2K25 Legend &amp; Deluxe Editions Now Available for Xbox Series X|S](https://www.xbox.com/en-us/games/store/pga-tour-2k25-legend-edition-pre-order/9p8p8w8jcttg#new_tab)
- - [You are Shotgun Cop Man, and you shoot your guns to jump](https://www.polygon.com/impressions/526434/shotgun-cop-man-steam-next-fest-demo)
- - [In Shotgun Cop Man you are a man who looks like a thumb and has gone to Hell to arrest Satan](https://www.pcgamer.com/games/action/in-shotgun-cop-man-you-are-a-man-who-looks-like-a-thumb-and-has-gone-to-hell-to-arrest-satan/)<!-- GAME:END -->
+ - [Cause Chaos in Fortnite Battle Royale Chapter 6 Season 2: Lawless](http://fortnite.com/news/run-amok-in-fortnite-battle-royale-chapter-6-season-2-lawless#new_tab)
+ - [RPGs like Avowed need to stop letting me steal everything that isn&#39;t nailed down](https://www.pcgamer.com/games/rpg/rpgs-like-avowed-need-to-stop-letting-me-steal-everything-that-isnt-nailed-down/)
+ - [I got murdered by the ancient Swiss in this life sim about being Julius Caesar&#39;s top guy](https://www.pcgamer.com/games/rpg/i-got-murdered-by-the-ancient-swiss-in-this-life-sim-about-being-julius-caesars-top-guy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
