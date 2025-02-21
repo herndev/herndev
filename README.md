@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
- - ⏩ [Fun facts](http://9gag.com/gag/a7oOrZm)
- - 👉 [House, DVM](http://9gag.com/gag/aPAmjAg)<!-- MEMES:END -->
+ - 💣 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - ⏩ [House, DVM](http://9gag.com/gag/aPAmjAg)
+ - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
 
 ---
 
