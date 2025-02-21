@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
- - ⏩ [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 👉 [Damn](http://9gag.com/gag/a2vwrM1)<!-- MEMES:END -->
+ - 💣 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
+ - ⏩ [Dummy move](http://9gag.com/gag/axy30E1)
+ - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
 
 ---
 
