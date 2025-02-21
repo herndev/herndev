@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - ⏩ [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
- - 👉 [Poor student was abused to the core](http://9gag.com/gag/a5Q6ZPo)<!-- MEMES:END -->
+ - 💣 [`I need a picture confirming the package delivery`](http://9gag.com/gag/aPAmYwn)
+ - ⏩ [Big gun](http://9gag.com/gag/abA1zyO)
+ - 👉 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)<!-- MEMES:END -->
 
 ---
 
