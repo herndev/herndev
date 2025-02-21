@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [`I need a picture confirming the package delivery`](http://9gag.com/gag/aPAmYwn)
- - ⏩ [Big gun](http://9gag.com/gag/abA1zyO)
+ - ⏩ [Latina mom, and a slipper of mass destruction](http://9gag.com/gag/aLnz9rW)
  - 👉 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)<!-- MEMES:END -->
 
 ---
