@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A lot of people can relate](http://9gag.com/gag/aW47moA)
- - ⏩ [Oh man!](http://9gag.com/gag/avy18gM)
- - 👉 [Big gun](http://9gag.com/gag/abA1zyO)<!-- MEMES:END -->
+ - 💣 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
+ - ⏩ [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 👉 [Category 5 calamity](http://9gag.com/gag/an7RjB5)<!-- MEMES:END -->
 
 ---
 
