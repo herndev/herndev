@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Archaeologist Khaled Al-Asaad dedicated his life to the excavation and preservation of Palmyra, a UNESCO World Heritage Site. After enduring weeks of torture, he was beheaded by ISIS for refusing to reveal the location of ancient artifacts. He died a hero of heritage protection.](http://9gag.com/gag/axy308M)
+ - 💣 [You may walk safe today bro](http://9gag.com/gag/aBy68Ax)
  - ⏩ [Core memory unlocked](http://9gag.com/gag/a0eXQKd)
- - 👉 [You may walk safe today bro](http://9gag.com/gag/aBy68Ax)<!-- MEMES:END -->
+ - 👉 [Whoa](http://9gag.com/gag/aAy6xg0)<!-- MEMES:END -->
 
 ---
 
