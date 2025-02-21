@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the potential reasons why software developer job listings on Indeed hit a five-year low in January, down 35% from 2020, including the impact of AI &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/250220/p44#a250220p44)
- - [Jake from State Farm ends up on the Severed Floor in silly ad crossover](https://appleinsider.com/articles/25/02/21/jake-from-state-farm-ends-up-on-the-severed-floor-in-silly-ad-crossover?utm_medium=rss)
- - [Reddit is reportedly experiencing some outages](https://www.theverge.com/news/617081/reddit-outage-down)<!-- TECH:END -->
+ - [Reddit reportedly experienced some outages](https://www.theverge.com/news/617081/reddit-outage-down)
+ - [Microsoft researchers introduce Magma, an AI foundation model that combines visual and language processing to control software interfaces and robotic systems &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250220/p45#a250220p45)
+ - [A look at the potential reasons why software developer job listings on Indeed hit a five-year low in January, down 35% from 2020, including the impact of AI &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/250220/p44#a250220p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
