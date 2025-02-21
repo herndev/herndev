@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cause Chaos in Fortnite Battle Royale Chapter 6 Season 2: Lawless](http://fortnite.com/news/run-amok-in-fortnite-battle-royale-chapter-6-season-2-lawless#new_tab)
- - [RPGs like Avowed need to stop letting me steal everything that isn&#39;t nailed down](https://www.pcgamer.com/games/rpg/rpgs-like-avowed-need-to-stop-letting-me-steal-everything-that-isnt-nailed-down/)
- - [I got murdered by the ancient Swiss in this life sim about being Julius Caesar&#39;s top guy](https://www.pcgamer.com/games/rpg/i-got-murdered-by-the-ancient-swiss-in-this-life-sim-about-being-julius-caesars-top-guy/)<!-- GAME:END -->
+ - [Here&amp;#8217;s a great puzzle game about one of life&amp;#8217;s little anxieties](https://www.polygon.com/impressions/527239/is-this-seat-taken-steam-next-fest-demo)
+ - [XCOM&#39;s creator wants to know where XCOM 3 is just as badly as you do: &#39;I&#39;m sure there&#39;s an audience for it&#39;](https://www.pcgamer.com/games/strategy/xcoms-creator-wants-to-know-where-xcom-3-is-just-as-badly-as-you-do-im-sure-theres-an-audience-for-it/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
