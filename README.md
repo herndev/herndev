@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get free Incarnate Forme Go Tour research codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/527019/go-tour-research-codes-incarnate-forme)
- - [If you ever got the feeling a customer support line is intentionally keeping you on hold in the hope you&#39;ll go away it turns out the HP is doing precisely that with a minimum 15 wait](https://www.pcgamer.com/hardware/if-you-ever-got-the-feeling-a-customer-support-line-is-intentionally-keeping-you-on-hold-in-the-hope-youll-go-away-it-turns-out-the-hp-is-doing-precisely-that-with-a-minimum-15-wait/)
- - [All treasure map locations and rewards in Avowed](https://www.pcgamer.com/games/rpg/avowed-treasure-map-locations/)<!-- GAME:END -->
+ - [Marvel’s little-loved movie Eternals was good, actually](https://www.polygon.com/marvel/526925/eternals-mcu-good-actually-hot-take)
+ - [Fortnite Chapter 6 Season 2 battle pass skins list, including Sub-Zero and Big Dill](https://www.polygon.com/fortnite-guide/527012/chapter-6-season-2-battle-pass-skins-list)
+ - [There&#39;s a simple way to enable FSR 3 frame gen in Avowed and it more than doubled my frame rate, but it makes waterfalls look ugly as sin](https://www.pcgamer.com/hardware/theres-a-simple-way-to-enable-fsr-3-frame-gen-in-avowed-and-it-more-than-doubled-my-frame-rate-but-it-makes-waterfalls-look-ugly-as-sin/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
