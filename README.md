@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yoto Mini review: A tiny, powerful, &amp; endlessly fun speaker for kids](https://appleinsider.com/articles/25/02/21/yoto-mini-review-a-tiny-powerful-endlessly-fun-speaker-for-kids?utm_medium=rss)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Oops! Nothing owns up to camera comparison blunder with iPhone 16 Pro Max](https://www.androidauthority.com/nothing-phone-3a-iphone-16-comparison-mistake-3528471/)<!-- TECH:END -->
+ - [I cannot describe how strange Elon Musk&amp;#8217;s CPAC appearance was](https://www.theverge.com/elon-musk/617090/elon-musk-cpac-2025-transcript)
+ - [Yoto Mini review: A tiny, powerful, &amp; endlessly fun speaker for kids](https://appleinsider.com/articles/25/02/21/yoto-mini-review-a-tiny-powerful-endlessly-fun-speaker-for-kids?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
