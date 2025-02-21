@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Preorders for the iPhone 16e are now open](https://appleinsider.com/articles/25/02/21/preorders-for-the-iphone-16e-are-now-open?utm_medium=rss)
- - [5 Android phones I would buy instead of the iPhone 16e](https://www.androidauthority.com/iphone-16e-alternatives-3527388/)
- - [What Are Those Weird Devices Basketball Players Are Holding?](https://www.wired.com/story/palm-cooling-devices/)<!-- TECH:END -->
+ - [The last remaining Nintendo Switch emulator on Android just got a big update](https://www.androidauthority.com/citron-switch-emulator-v0-5-3528628/)
+ - [The ups and downs of the iPhone 16E](https://www.theverge.com/the-vergecast/617137/iphone-16e-humane-ai-pin-vergecast)
+ - [First benchmarks for the iPhone 16e reveal performance and RAM size](https://appleinsider.com/articles/25/02/21/first-benchmarks-for-the-iphone-16e-reveal-performance-and-ram-size?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
