@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Nothing Phone 3a series promo videos leave nothing to the imagination](https://www.androidauthority.com/nothing-phone-3a-series-promo-videos-leak-3528569/)
- - [DOGE Sparks Surveillance Fear Across the US Government](https://www.wired.com/story/surveillance-privacy-doge-federal-employees/)
- - [iPhone fold display details revealed in dubious leak](https://appleinsider.com/articles/25/02/21/iphone-fold-display-details-revealed-in-dubious-leak?utm_medium=rss)<!-- TECH:END -->
+ - [Preorders for the iPhone 16e are now open](https://appleinsider.com/articles/25/02/21/preorders-for-the-iphone-16e-are-now-open?utm_medium=rss)
+ - [5 Android phones I would buy instead of the iPhone 16e](https://www.androidauthority.com/iphone-16e-alternatives-3527388/)
+ - [What Are Those Weird Devices Basketball Players Are Holding?](https://www.wired.com/story/palm-cooling-devices/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
