@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A lot of people can relate](http://9gag.com/gag/aW47moA)
- - ⏩ [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 👉 [Big gun](http://9gag.com/gag/abA1zyO)<!-- MEMES:END -->
+ - 💣 [I am suddenly rich](http://9gag.com/gag/agm152g)
+ - ⏩ [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
+ - 👉 [Its funny cuz its true](http://9gag.com/gag/avy1oqM)<!-- MEMES:END -->
 
 ---
 
