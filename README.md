@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s little-loved movie Eternals was good, actually](https://www.polygon.com/marvel/526925/eternals-mcu-good-actually-hot-take)
- - [Fortnite Chapter 6 Season 2 battle pass skins list, including Sub-Zero and Big Dill](https://www.polygon.com/fortnite-guide/527012/chapter-6-season-2-battle-pass-skins-list)
- - [There&#39;s a simple way to enable FSR 3 frame gen in Avowed and it more than doubled my frame rate, but it makes waterfalls look ugly as sin](https://www.pcgamer.com/hardware/theres-a-simple-way-to-enable-fsr-3-frame-gen-in-avowed-and-it-more-than-doubled-my-frame-rate-but-it-makes-waterfalls-look-ugly-as-sin/)<!-- GAME:END -->
+ - [Avowed Has A Secret Room In Its Tutorial, With A Bonus Item](https://kotaku.com/avowed-fort-northreach-hidden-room-first-secret-1851765783)
+ - [Ex-Amazon Gaming Exec Explains Why No One Has Beaten Steam](https://kotaku.com/steam-epic-games-store-valve-amazon-prime-twitch-1851765739)
+ - [Graphics cards are so demanding now there are devices with tiny screens that plug into connectors and monitor temperatures](https://www.pcgamer.com/hardware/graphics-cards/graphics-cards-are-so-demanding-now-there-are-devices-with-tiny-screens-that-plug-into-connectors-and-monitor-temperatures/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
