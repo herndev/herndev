@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Software engineers, academics, and others say AI coding tools will likely prompt an evolution rather than extinction, pushing developers to learn new skills &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250221/p5#a250221p5)
- - [T-Mobile users beware: New scam tricks customers into returning ‘free’ phones to fraudsters](https://www.androidauthority.com/t-mobile-free-phone-scam-3528555/)
- - [Best Internet Providers in Melbourne, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-melbourne-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s your first real look at Live Updates in Android 16](https://www.androidauthority.com/android-16-live-updates-demo-3528456/)
+ - [Android 16 could add a new way to trigger your screen saver](https://www.androidauthority.com/android-16-screen-saver-postured-3528345/)
+ - [The Lunar Economy Is Coming](https://www.wired.com/story/blue-ghost-mission-lunar-economy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
