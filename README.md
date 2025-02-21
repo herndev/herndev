@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - ⏩ [Big gun](http://9gag.com/gag/abA1zyO)
+ - 💣 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - ⏩ [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
  - 👉 [Poor student was abused to the core](http://9gag.com/gag/a5Q6ZPo)<!-- MEMES:END -->
 
 ---
