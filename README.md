@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am suddenly rich](http://9gag.com/gag/agm152g)
- - ⏩ [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
- - 👉 [Its funny cuz its true](http://9gag.com/gag/avy1oqM)<!-- MEMES:END -->
+ - 💣 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
+ - ⏩ [House, DVM](http://9gag.com/gag/aPAmjAg)
+ - 👉 [That last touch was personal](http://9gag.com/gag/a4P6R2y)<!-- MEMES:END -->
 
 ---
 
