@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to get free Incarnate Forme Go Tour research codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/527019/go-tour-research-codes-incarnate-forme)
  - [If you ever got the feeling a customer support line is intentionally keeping you on hold in the hope you&#39;ll go away it turns out the HP is doing precisely that with a minimum 15 wait](https://www.pcgamer.com/hardware/if-you-ever-got-the-feeling-a-customer-support-line-is-intentionally-keeping-you-on-hold-in-the-hope-youll-go-away-it-turns-out-the-hp-is-doing-precisely-that-with-a-minimum-15-wait/)
- - [All treasure map locations and rewards in Avowed](https://www.pcgamer.com/games/rpg/avowed-treasure-map-locations/)
- - [Today&#39;s Wordle answer for Friday, February 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-21-2025/)<!-- GAME:END -->
+ - [All treasure map locations and rewards in Avowed](https://www.pcgamer.com/games/rpg/avowed-treasure-map-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
