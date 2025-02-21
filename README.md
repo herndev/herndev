@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
- - ⏩ [Damn](http://9gag.com/gag/a2vwrM1)
- - 👉 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)<!-- MEMES:END -->
+ - 💣 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
+ - ⏩ [Fun facts](http://9gag.com/gag/a7oOrZm)
+ - 👉 [House, DVM](http://9gag.com/gag/aPAmjAg)<!-- MEMES:END -->
 
 ---
 
