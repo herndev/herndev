@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
- - ⏩ [Dummy move](http://9gag.com/gag/axy30E1)
- - 👉 [Oh man!](http://9gag.com/gag/avy18gM)<!-- MEMES:END -->
+ - 💣 [A lot of people can relate](http://9gag.com/gag/aW47moA)
+ - ⏩ [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - 👉 [Big gun](http://9gag.com/gag/abA1zyO)<!-- MEMES:END -->
 
 ---
 
