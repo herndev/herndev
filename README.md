@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avowed Has A Secret Room In Its Tutorial, With A Bonus Item](https://kotaku.com/avowed-fort-northreach-hidden-room-first-secret-1851765783)
- - [Ex-Amazon Gaming Exec Explains Why No One Has Beaten Steam](https://kotaku.com/steam-epic-games-store-valve-amazon-prime-twitch-1851765739)
- - [Graphics cards are so demanding now there are devices with tiny screens that plug into connectors and monitor temperatures](https://www.pcgamer.com/hardware/graphics-cards/graphics-cards-are-so-demanding-now-there-are-devices-with-tiny-screens-that-plug-into-connectors-and-monitor-temperatures/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for February 24 to 28](https://news.xbox.com/en-us/2025/02/21/next-week-on-xbox-new-games-for-february-24-to-28/)
+ - [The Monkey is the opposite of Longlegs — and most modern horror](https://www.polygon.com/movies/527005/the-monkey-longlegs-comparison-osgood-perkins)
+ - [All Marvel Rivals maps and modes in season 1.5](https://www.polygon.com/marvel-rivals-guide/491015/maps-modes-list-all-quick-play-competitive)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
