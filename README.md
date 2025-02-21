@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba CEO Eddie Wu calls the pursuit of AGI the company&#39;s &quot;primary objective&quot;, saying &quot;our first and foremost goal is to pursue AGI&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p2#a250221p2)
- - [Sources: Meta&#39;s oversight board got little notice of Zuckerberg&#39;s &quot;free speech&quot; overhaul, fueling tensions as it rushes to hold Meta accountable for the changes &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/250221/p1#a250221p1)
- - [It’s the end of the road for Chromecast with Google TV](https://www.androidauthority.com/chromecase-with-google-tv-sales-end-3528491/)<!-- TECH:END -->
+ - [Leaked Nothing Phone 3a series renders show off Glyph lighting, extra hardware key](https://www.androidauthority.com/nothing-phone-3a-3a-pro-renders-leak-design-3528502/)
+ - [Japanese officials and executives warn that China&#39;s export curbs on gallium, germanium, and other chip raw materials threaten global electronics supply chains &lpar;Harry Dempsey/Financial Times&rpar;](http://www.techmeme.com/250221/p3#a250221p3)
+ - [Alibaba CEO Eddie Wu calls the pursuit of AGI the company&#39;s &quot;primary objective&quot;, saying &quot;our first and foremost goal is to pursue AGI&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p2#a250221p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
