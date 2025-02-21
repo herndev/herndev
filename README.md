@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for February 24 to 28](https://news.xbox.com/en-us/2025/02/21/next-week-on-xbox-new-games-for-february-24-to-28/)
- - [The Monkey is the opposite of Longlegs — and most modern horror](https://www.polygon.com/movies/527005/the-monkey-longlegs-comparison-osgood-perkins)
- - [All Marvel Rivals maps and modes in season 1.5](https://www.polygon.com/marvel-rivals-guide/491015/maps-modes-list-all-quick-play-competitive)<!-- GAME:END -->
+ - [Grab a Club: PGA Tour 2K25 Legend &amp; Deluxe Editions Now Available for Xbox Series X|S](https://www.xbox.com/en-us/games/store/pga-tour-2k25-legend-edition-pre-order/9p8p8w8jcttg#new_tab)
+ - [You are Shotgun Cop Man, and you shoot your guns to jump](https://www.polygon.com/impressions/526434/shotgun-cop-man-steam-next-fest-demo)
+ - [In Shotgun Cop Man you are a man who looks like a thumb and has gone to Hell to arrest Satan](https://www.pcgamer.com/games/action/in-shotgun-cop-man-you-are-a-man-who-looks-like-a-thumb-and-has-gone-to-hell-to-arrest-satan/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
