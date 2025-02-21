@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals layoffs are just part of NetEase’s ice-cold job and game cuts](https://www.polygon.com/gaming/527711/marvel-rivals-layoffs-netease-cutbacks)
- - [I am begging you not to watch this ghostly white &#39;faceless, anatomically accurate&#39; robot dangling from wires and silently thrashing its sinewy limbs](https://www.pcgamer.com/hardware/i-am-begging-you-not-to-watch-this-ghostly-white-faceless-anatomically-accurate-robot-dangling-from-wires-and-silently-thrashing-its-sinewy-limbs/)
- - [Streamer Destiny sued for sharing intimate videos](https://www.polygon.com/news/527186/destiny-steven-bonnell-sexual-harassment-lawsui)<!-- GAME:END -->
+ - [Where to pre-order Magic: The Gathering &amp;#8211; Tarkir: Dragonstorm](https://www.polygon.com/pre-order/527149/magic-the-gathering-mtg-tarkir-dragonstorm-where-to-buy)
+ - [You can already pre-order Magic: The Gathering’s new Edge of Eternities set](https://www.polygon.com/pre-order/527538/magic-the-gathering-mtg-edge-of-eternities-buy)
+ - [Peripheral maker Corsair says Grand Theft Auto 6 is coming to PC in &#39;early 2026,&#39; then immediately yoinks it back](https://www.pcgamer.com/games/action/peripheral-maker-corsair-says-grand-theft-auto-6-is-coming-to-pc-in-early-2026-then-immediately-yoinks-it-back/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
