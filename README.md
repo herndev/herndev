@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The GSA is shutting down its EV chargers, calling them ‘not mission critical’](https://www.theverge.com/news/617235/the-gsa-is-shutting-down-its-ev-chargers-calling-them-not-mission-critical)
- - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)<!-- TECH:END -->
+ - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
+ - [Deals: The Razer Basilisk V3 Pro and Logitech G502 X Plus are $55 off](https://www.androidauthority.com/razer-basilisk-vr-pro-logitech-g502-x-plus-mice-deals-3528865/)
+ - [Brazilian Supreme Court Justice Alexandre de Moraes orders the immediate and full suspension of Rumble in the country due to noncompliance with court orders &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/250221/p25#a250221p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
