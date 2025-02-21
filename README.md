@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Teasing New Tony Hawk Game With Countdown Timer](https://kotaku.com/call-of-duty-grind-map-skateboard-thps-remaster-news-1851765692)
- - [How to beat Fletcher Kane in Fortnite Chapter 6 Season 2](https://www.polygon.com/fortnite-guide/527327/fletcher-kane-boss-location-beat-how-to)
- - [The new Pokémon short from the studio behind Your Name looks perfect](https://www.polygon.com/trailer/527576/new-pokemon-short-your-name-suzume-trailer-release-date)<!-- GAME:END -->
+ - [Marvel Rivals layoffs are just part of NetEase’s ice-cold job and game cuts](https://www.polygon.com/gaming/527711/marvel-rivals-layoffs-netease-cutbacks)
+ - [I am begging you not to watch this ghostly white &#39;faceless, anatomically accurate&#39; robot dangling from wires and silently thrashing its sinewy limbs](https://www.pcgamer.com/hardware/i-am-begging-you-not-to-watch-this-ghostly-white-faceless-anatomically-accurate-robot-dangling-from-wires-and-silently-thrashing-its-sinewy-limbs/)
+ - [Streamer Destiny sued for sharing intimate videos](https://www.polygon.com/news/527186/destiny-steven-bonnell-sexual-harassment-lawsui)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
