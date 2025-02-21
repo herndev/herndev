@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&amp;#8217;s a great puzzle game about one of life&amp;#8217;s little anxieties](https://www.polygon.com/impressions/527239/is-this-seat-taken-steam-next-fest-demo)
- - [XCOM&#39;s creator wants to know where XCOM 3 is just as badly as you do: &#39;I&#39;m sure there&#39;s an audience for it&#39;](https://www.pcgamer.com/games/strategy/xcoms-creator-wants-to-know-where-xcom-3-is-just-as-badly-as-you-do-im-sure-theres-an-audience-for-it/)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [Inzoi is really trying to eat The Sims 4&#39;s lunch by including seasons in its base game instead of locked behind a DLC](https://www.pcgamer.com/games/life-sim/inzoi-is-really-trying-to-eat-the-sims-4s-lunch-by-including-seasons-in-its-base-game-instead-of-locked-behind-a-dlc/)
+ - [Streamer Destiny sued for sharing intimate videos](https://www.polygon.com/news/527186/destiny-steven-bonnell-sexual-harassment-lawsui)
+ - [Marvel Rivals’ Blade addition appears imminent](https://www.polygon.com/news/527365/marvel-rivals-blade-teaser-artwork)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
