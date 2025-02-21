@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank VF and others marked up ByteDance&#39;s valuation to $400B+; SoftBank puts zero value on TikTok&#39;s US operations but factored in AI business Doubao &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p17#a250221p17)
- - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
- - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)<!-- TECH:END -->
+ - [How to set up crash detection on your iPhone and Apple Watch](https://www.theverge.com/how-to/617241/iphone-apple-watch-crash-detection-how-to)
+ - [OpenAI says it found evidence of an AI-powered surveillance tool used by a Chinese security operation to identify anti-China posts on social media in the West &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250221/p19#a250221p19)
+ - [Recipes, restaurant reviews, and kitchen tips coming to Apple News+](https://appleinsider.com/articles/25/02/21/recipes-restaurant-reviews-and-kitchen-tips-coming-to-apple-news?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
