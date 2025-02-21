@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fun facts](http://9gag.com/gag/a7oOrZm)
- - ⏩ [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
- - 👉 [Filter life](http://9gag.com/gag/an7Rjen)<!-- MEMES:END -->
+ - 💣 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
+ - ⏩ [The ice cream service was very satisfying.](http://9gag.com/gag/a9y6Axm)
+ - 👉 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)<!-- MEMES:END -->
 
 ---
 
