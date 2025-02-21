@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [visionOS 2.4 beta brings several long-awaited features to Apple Vision Pro](https://appleinsider.com/articles/25/02/21/visionos-24-beta-brings-several-long-awaited-features-to-apple-vision-pro?utm_medium=rss)
- - [Would you buy a scented mouse? ASUS thinks you’ll love this unique, bizarre accessory](https://www.androidauthority.com/asus-fragrance-mouse-3528792/)
- - [This New Drug Could Help End the HIV Epidemic—but US Funding Cuts Are Killing Its Rollout](https://www.wired.com/story/lenacapavir-usaid-hiv-aids-funding-cuts/)<!-- TECH:END -->
+ - [ChatGPT’s weekly user base has exceeded the entire US population](https://www.androidauthority.com/openai-400-million-users-3528849/)
+ - [Steam Deck, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)
+ - [Hands on with Apple Intelligence on Apple Vision Pro](https://appleinsider.com/articles/25/02/21/hands-on-with-apple-intelligence-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
