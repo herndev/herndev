@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT’s weekly user base has exceeded the entire US population](https://www.androidauthority.com/openai-400-million-users-3528849/)
- - [Steam Deck, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)
- - [Hands on with Apple Intelligence on Apple Vision Pro](https://appleinsider.com/articles/25/02/21/hands-on-with-apple-intelligence-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The GSA is shutting down its EV chargers, calling them ‘not mission critical’](https://www.theverge.com/news/617235/the-gsa-is-shutting-down-its-ev-chargers-calling-them-not-mission-critical)
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
