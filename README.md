@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Nothing Phone 3a series renders show off Glyph lighting, extra hardware key](https://www.androidauthority.com/nothing-phone-3a-3a-pro-renders-leak-design-3528502/)
- - [Japanese officials and executives warn that China&#39;s export curbs on gallium, germanium, and other chip raw materials threaten global electronics supply chains &lpar;Harry Dempsey/Financial Times&rpar;](http://www.techmeme.com/250221/p3#a250221p3)
- - [Alibaba CEO Eddie Wu calls the pursuit of AGI the company&#39;s &quot;primary objective&quot;, saying &quot;our first and foremost goal is to pursue AGI&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p2#a250221p2)<!-- TECH:END -->
+ - [How Breeze Liu, an advocate for digital abuse victims, got Microsoft to scrub 142 nonconsensual explicit images of her hosted on Azure after months of struggle &lpar;Wired&rpar;](http://www.techmeme.com/250221/p4#a250221p4)
+ - [That was quick: One UI 7 beta 5 is out just days after beta 4 release](https://www.androidauthority.com/samsung-one-ui-7-beta-5-3528530/)
+ - [Leaked Nothing Phone 3a series renders show off Glyph lighting, extra hardware key](https://www.androidauthority.com/nothing-phone-3a-3a-pro-renders-leak-design-3528502/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
