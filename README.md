@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pre-order Magic: The Gathering &amp;#8211; Tarkir: Dragonstorm](https://www.polygon.com/pre-order/527149/magic-the-gathering-mtg-tarkir-dragonstorm-where-to-buy)
- - [You can already pre-order Magic: The Gathering’s new Edge of Eternities set](https://www.polygon.com/pre-order/527538/magic-the-gathering-mtg-edge-of-eternities-buy)
- - [Peripheral maker Corsair says Grand Theft Auto 6 is coming to PC in &#39;early 2026,&#39; then immediately yoinks it back](https://www.pcgamer.com/games/action/peripheral-maker-corsair-says-grand-theft-auto-6-is-coming-to-pc-in-early-2026-then-immediately-yoinks-it-back/)<!-- GAME:END -->
+ - [Marvel Rivals was reportedly almost cancelled because the CEO of NetEase didn&#39;t want to pay Disney for the licenses](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-was-reportedly-almost-cancelled-because-the-ceo-of-netease-didnt-want-to-pay-disney-for-the-licenses/)
+ - [Ne Zha 2, the highest-grossing animated movie ever, pits breathtaking spectacle against fart gags](https://www.polygon.com/animation-cartoons/527578/ne-zha-2-review-chinese-biggest-animated-movie-of-all-time)
+ - [Marvel Rivals Says Popular Third-Party PC Plugin Is &#39;Cheating Software&#39; And Bans It](https://kotaku.com/marvel-rivals-third-party-plugins-pc-cheats-ban-blitz-1851765946)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
