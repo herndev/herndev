@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Inzoi is really trying to eat The Sims 4&#39;s lunch by including seasons in its base game instead of locked behind a DLC](https://www.pcgamer.com/games/life-sim/inzoi-is-really-trying-to-eat-the-sims-4s-lunch-by-including-seasons-in-its-base-game-instead-of-locked-behind-a-dlc/)
- - [Streamer Destiny sued for sharing intimate videos](https://www.polygon.com/news/527186/destiny-steven-bonnell-sexual-harassment-lawsui)
- - [Marvel Rivals’ Blade addition appears imminent](https://www.polygon.com/news/527365/marvel-rivals-blade-teaser-artwork)<!-- GAME:END -->
+ - [Activision Teasing New Tony Hawk Game With Countdown Timer](https://kotaku.com/call-of-duty-grind-map-skateboard-thps-remaster-news-1851765692)
+ - [How to beat Fletcher Kane in Fortnite Chapter 6 Season 2](https://www.polygon.com/fortnite-guide/527327/fletcher-kane-boss-location-beat-how-to)
+ - [The new Pokémon short from the studio behind Your Name looks perfect](https://www.polygon.com/trailer/527576/new-pokemon-short-your-name-suzume-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
