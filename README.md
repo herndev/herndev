@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Atelier Yumia: New Features Explained – and a Surprise Connection to Halo](https://news.xbox.com/en-us/2025/02/20/atelier-yumia-preview-halo-connection/)
- - [Dune: Awakening: Everything we know about Funcom&#39;s survival MMO](https://www.pcgamer.com/games/mmo/dune-awakening-mmo-release-date-gameplay-features/)
- - [2XKO fans despair for a 2025 release as Riot pushes back a planned &#39;larger-scale global playtest&#39; in favor of a &#39;much smaller one&#39;](https://www.pcgamer.com/games/fighting/2xko-fans-despair-for-a-2025-release-as-riot-pushes-back-a-planned-larger-scale-global-playtest-in-favor-of-a-much-smaller-one/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Like a Dragon: Pirate Yakuza in Hawaii](https://blog.playstation.com/2025/02/20/20250221-yakuza/)
+ - [Heads up on an important change to commenting](https://www.pcgamer.com/games/heads-up-on-an-important-change-to-commenting/)
+ - [Atelier Yumia: New Features Explained – and a Surprise Connection to Halo](https://news.xbox.com/en-us/2025/02/20/atelier-yumia-preview-halo-connection/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
