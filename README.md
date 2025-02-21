@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Turns out I&#39;m in shape](https://www.reddit.com/r/funny/comments/1iuvmck/turns_out_im_in_shape/)
- - ⏩ [Fun facts](http://9gag.com/gag/a7oOrZm)
- - 👉 [House, DVM](http://9gag.com/gag/aPAmjAg)<!-- MEMES:END -->
+ - 💣 [A lot of people can relate](http://9gag.com/gag/aW47moA)
+ - ⏩ [Oh man!](http://9gag.com/gag/avy18gM)
+ - 👉 [Big gun](http://9gag.com/gag/abA1zyO)<!-- MEMES:END -->
 
 ---
 
