@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Sources: GameStop CEO and activist investor Ryan Cohen has grown his personal stake in Alibaba to about 7M shares, worth roughly $1B, in recent months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250220/p42#a250220p42)
- - [How to Watch Team USA vs. Canada in the NHL 4 Nations Face-Off Tonight](https://www.cnet.com/tech/services-and-software/how-to-watch-team-usa-vs-canada-in-the-nhl-4-nations-face-off-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jake from State Farm ends up on the Severed Floor in silly ad crossover](https://appleinsider.com/articles/25/02/21/jake-from-state-farm-ends-up-on-the-severed-floor-in-silly-ad-crossover?utm_medium=rss)
+ - [Reddit is reportedly experiencing some outages](https://www.theverge.com/news/617081/reddit-outage-down)
+ - [Aqara Smart Lock U300 drops to its all-time low price, and I bought it!](https://www.androidauthority.com/aqara-smart-lock-u300-deal-3528411/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
