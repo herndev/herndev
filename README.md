@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nobody&#39;s rushing to buy the iPhone 16e yet](https://appleinsider.com/articles/25/02/21/nobodys-rushing-to-buy-the-iphone-16e-yet?utm_medium=rss)
- - [One year later, the Galaxy S24 Ultra is still ripping a hole in people’s pockets — literally](https://www.androidauthority.com/samsung-galaxy-s24-ultra-sharp-corners-rip-jeans-3528653/)
- - [Best Internet Providers in Naperville, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-naperville-il/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony’s next Xperia flagship could go all out with not one, not two, but three Exmor T sensors](https://www.androidauthority.com/xperia-1-vii-exmor-t-sensors-3528691/)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [The OnePlus Watch 3 has an unfixable but endearing typo](https://www.theverge.com/news/617219/oneplus-watch-3-typo-smartwatch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
