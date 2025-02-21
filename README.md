@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [I cannot describe how strange Elon Musk&amp;#8217;s CPAC appearance was](https://www.theverge.com/elon-musk/617090/elon-musk-cpac-2025-transcript)
- - [Yoto Mini review: A tiny, powerful, &amp; endlessly fun speaker for kids](https://appleinsider.com/articles/25/02/21/yoto-mini-review-a-tiny-powerful-endlessly-fun-speaker-for-kids?utm_medium=rss)<!-- TECH:END -->
+ - [Alibaba CEO Eddie Wu calls the pursuit of AGI the company&#39;s &quot;primary objective&quot;, saying &quot;our first and foremost goal is to pursue AGI&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p2#a250221p2)
+ - [Sources: Meta&#39;s oversight board got little notice of Zuckerberg&#39;s &quot;free speech&quot; overhaul, fueling tensions as it rushes to hold Meta accountable for the changes &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/250221/p1#a250221p1)
+ - [It’s the end of the road for Chromecast with Google TV](https://www.androidauthority.com/chromecase-with-google-tv-sales-end-3528491/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
