@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - ⏩ [House, DVM](http://9gag.com/gag/aPAmjAg)
- - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
+ - 💣 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - ⏩ [Big gun](http://9gag.com/gag/abA1zyO)
+ - 👉 [Poor student was abused to the core](http://9gag.com/gag/a5Q6ZPo)<!-- MEMES:END -->
 
 ---
 
