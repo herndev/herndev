@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)
- - ⏩ [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
- - 👉 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
+ - 💣 [That split moment of panic in his face. Dang!](http://9gag.com/gag/aQzvM3K)
+ - ⏩ [Play Silly Games Win Silly Prizes](http://9gag.com/gag/a7oOrox)
+ - 👉 [A lot of people can relate](http://9gag.com/gag/aW47moA)<!-- MEMES:END -->
 
 ---
 
