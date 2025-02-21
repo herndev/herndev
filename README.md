@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s next Xperia flagship could go all out with not one, not two, but three Exmor T sensors](https://www.androidauthority.com/xperia-1-vii-exmor-t-sensors-3528691/)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [The OnePlus Watch 3 has an unfixable but endearing typo](https://www.theverge.com/news/617219/oneplus-watch-3-typo-smartwatch)<!-- TECH:END -->
+ - [Apple turns off data protection in the UK rather than comply with backdoor mandate](https://appleinsider.com/articles/25/02/21/apple-turns-off-data-protection-in-the-uk-rather-than-comply-with-backdoor-mandate?utm_medium=rss)
+ - [Sources: Fluidstack, which wants to build a &amp;euro;10B AI data center in France as part of Macron&#39;s &amp;euro;109B data center pledge, is in talks to raise a ~$200M Series A &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p15#a250221p15)
+ - [Apple ends its Qualcomm dependency with the new C1 modem chip](https://appleinsider.com/articles/25/02/21/apple-ends-its-qualcomm-dependency-with-the-new-c1-modem-chip?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
