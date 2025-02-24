@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How the Guild Came Together: Dive into the Origins of The Lonesome Guild](https://news.xbox.com/en-us/2025/02/24/the-lonesome-guild-preview/)
- - [An actual play holds the secrets to the new sci-fi RPG from former BioWare devs](https://www.polygon.com/news/528476/actual-play-ttrpg-exodus-bioware-star-heist)
- - [Pokémon Go Tour Pass rewards and how points work](https://www.polygon.com/pokemon-go-guide/528161/go-tour-pass-rewards-points-deluxe-worth-buying)<!-- GAME:END -->
+ - [In Keep Driving, drunk-driving is a terrible idea, but driving while high is… fine?](https://www.polygon.com/gaming/528544/keep-driving-drunk-driving)
+ - [Get The Band Back Together in Rockbeasts, a Management RPG Coming to Xbox](https://news.xbox.com/en-us/2025/02/24/rockbeasts-ign-xbox-showcase/)
+ - [Physical copies of Assassin&#39;s Creed Shadows leak nearly a month ahead of its release date](https://www.pcgamer.com/games/action/physical-copies-of-assassins-creed-shadows-leak-nearly-a-month-ahead-of-its-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
