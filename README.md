@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Applying this privacy film](http://9gag.com/gag/apR3RWp)
- - ⏩ [Men want one thing](http://9gag.com/gag/aND9Dpv)
- - 👉 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)<!-- MEMES:END -->
+ - 💣 [Cultural Enrichment](http://9gag.com/gag/aRB44Vy)
+ - ⏩ [Master Splinter?](http://9gag.com/gag/aD267vO)
+ - 👉 [Men want one thing](http://9gag.com/gag/aND9Dpv)<!-- MEMES:END -->
 
 ---
 
