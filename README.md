@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cultural Enrichment](http://9gag.com/gag/aRB44Vy)
- - ⏩ [Master Splinter?](http://9gag.com/gag/aD267vO)
- - 👉 [Men want one thing](http://9gag.com/gag/aND9Dpv)<!-- MEMES:END -->
+ - 💣 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
+ - ⏩ [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)
+ - 👉 [When you marry a gamer](http://9gag.com/gag/aD267Ax)<!-- MEMES:END -->
 
 ---
 
