@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ID@Xbox Showcase – February 2025: Everything Announced and Revealed](https://news.xbox.com/en-us/2025/02/24/ign-id-xbox-showcase-recap-everything-announced/)
- - [Dragon Ball Daima’s finale, the Oscars, and more new TV this week](https://www.polygon.com/tv/525451/netflix-new-mindy-kaling-oscars-dragon-ball-daima-finale-when)
- - [Balatro Is No Longer Rated 18+ In Europe](https://kotaku.com/balatro-18-pegi-rating-wrong-changed-12-esrb-europe-1851766176)<!-- GAME:END -->
+ - [How the Guild Came Together: Dive into the Origins of The Lonesome Guild](https://news.xbox.com/en-us/2025/02/24/the-lonesome-guild-preview/)
+ - [An actual play holds the secrets to the new sci-fi RPG from former BioWare devs](https://www.polygon.com/news/528476/actual-play-ttrpg-exodus-bioware-star-heist)
+ - [Pokémon Go Tour Pass rewards and how points work](https://www.polygon.com/pokemon-go-guide/528161/go-tour-pass-rewards-points-deluxe-worth-buying)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
