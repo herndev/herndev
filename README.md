@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Destiny 2 bug broke some class rules — but Bungie isn’t fixing it](https://www.polygon.com/news/528124/destiny-2-glaives-swords-bug)
- - [Big Helmet Heroes&#39;s No Damage Trophy Is Far Easier Than You Think](https://kotaku.com/big-helmet-heroes-no-damage-achievement-trophy-1851766071)
- - [After only 31 days, the breakout WarioWare-like game Mindwave has raised over $440,000 thanks to a brilliant demo, which you can still play now](https://www.pcgamer.com/games/puzzle/after-only-31-days-the-breakout-warioware-like-game-mindwave-has-raised-over-usd440-000-thanks-to-a-brilliant-demo-which-you-can-still-play-now/)<!-- GAME:END -->
+ - [Fan remake of Oblivion in Skyrim has a new video, looks amazing, is set for release &#39;this year,&#39; and I struggle to imagine the rumoured official Oblivion remake doing much better](https://www.pcgamer.com/games/the-elder-scrolls/fan-remake-of-oblivion-in-skyrim-has-a-new-video-looks-amazing-is-set-for-release-this-year-and-i-struggle-to-imagine-the-rumoured-official-oblivion-remake-doing-much-better/)
+ - [What time does Honkai Star Rail 3.1 release?](https://www.polygon.com/honkai-star-rail-guides/527579/version-3-1-release-times-maintenance-end)
+ - [Every MCU Movie, Ranked From Worst To Best](https://kotaku.com/marvel-cinematic-universe-mcu-best-worst-movie-avengers-1851765913)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
