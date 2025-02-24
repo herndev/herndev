@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Obsidian CEO reveals it&#39;s just half the size of many triple-A studios, even as it prepares to launch its 4th game in 5 years](https://www.pcgamer.com/games/rpg/obsidian-ceo-reveals-its-just-half-the-size-of-many-triple-a-studios-even-as-it-prepares-to-launch-its-4th-game-in-5-years/)
- - [23 year-old Dungeons &amp; Dragons RPG Neverwinter Nights just got a new, official expansion that continues its original story in a &#39;love letter&#39; to the game and its community](https://www.pcgamer.com/games/rpg/23-year-old-dungeons-and-dragons-rpg-neverwinter-nights-just-got-a-new-official-expansion-that-continues-its-original-story-in-a-love-letter-to-the-game-and-its-community/)
- - [Remedy&#39;s Sam Lake and Papers, Please creator Lucas Pope will receive major achievement awards in March](https://www.pcgamer.com/games/remedys-sam-lake-and-papers-please-creator-lucas-pope-will-receive-major-achievement-awards-in-march/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;February 24, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-february-24-2025/)
+ - [Cubicle 7 explains why its fantasy RPG based on Warhammer: The Old World will be a separate game and not a line of supplements for its existing Warhammer fantasy RPG, which is called Warhammer Fantasy Role-Play](https://www.pcgamer.com/games/rpg/cubicle-7-explains-why-its-fantasy-rpg-based-on-warhammer-the-old-world-will-be-a-separate-game-and-not-a-line-of-supplements-for-its-existing-warhammer-fantasy-rpg-which-is-called-warhammer-fantasy-role-play/)
+ - [Obsidian CEO reveals it&#39;s just half the size of many triple-A studios, even as it prepares to launch its 4th game in 5 years](https://www.pcgamer.com/games/rpg/obsidian-ceo-reveals-its-just-half-the-size-of-many-triple-a-studios-even-as-it-prepares-to-launch-its-4th-game-in-5-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
