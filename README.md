@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals was reportedly almost cancelled because the CEO of NetEase didn&#39;t want to pay Disney for the licenses](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-was-reportedly-almost-cancelled-because-the-ceo-of-netease-didnt-want-to-pay-disney-for-the-licenses/)
- - [Ne Zha 2, the highest-grossing animated movie ever, pits breathtaking spectacle against fart gags](https://www.polygon.com/animation-cartoons/527578/ne-zha-2-review-chinese-biggest-animated-movie-of-all-time)
- - [Marvel Rivals Says Popular Third-Party PC Plugin Is &#39;Cheating Software&#39; And Bans It](https://kotaku.com/marvel-rivals-third-party-plugins-pc-cheats-ban-blitz-1851765946)<!-- GAME:END -->
+ - [Obsidian CEO reveals it&#39;s just half the size of many triple-A studios, even as it prepares to launch its 4th game in 5 years](https://www.pcgamer.com/games/rpg/obsidian-ceo-reveals-its-just-half-the-size-of-many-triple-a-studios-even-as-it-prepares-to-launch-its-4th-game-in-5-years/)
+ - [23 year-old Dungeons &amp; Dragons RPG Neverwinter Nights just got a new, official expansion that continues its original story in a &#39;love letter&#39; to the game and its community](https://www.pcgamer.com/games/rpg/23-year-old-dungeons-and-dragons-rpg-neverwinter-nights-just-got-a-new-official-expansion-that-continues-its-original-story-in-a-love-letter-to-the-game-and-its-community/)
+ - [Remedy&#39;s Sam Lake and Papers, Please creator Lucas Pope will receive major achievement awards in March](https://www.pcgamer.com/games/remedys-sam-lake-and-papers-please-creator-lucas-pope-will-receive-major-achievement-awards-in-march/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
