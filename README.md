@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [LOL](http://9gag.com/gag/aYQEQ3w)
- - ⏩ [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)
- - 👉 [They kiss](http://9gag.com/gag/aND9p4G)<!-- MEMES:END -->
+ - 💣 [Applying this privacy film](http://9gag.com/gag/apR3RWp)
+ - ⏩ [Men want one thing](http://9gag.com/gag/aND9Dpv)
+ - 👉 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)<!-- MEMES:END -->
 
 ---
 
