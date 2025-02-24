@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)
- - ⏩ [When you&#39;re mad at him but he&#39;s actually funny](http://9gag.com/gag/aGynn3Z)
- - 👉 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)<!-- MEMES:END -->
+ - 💣 [Customer Service](http://9gag.com/gag/awy3yqD)
+ - ⏩ [He tried](http://9gag.com/gag/axy3v0n)
+ - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
 
 ---
 
