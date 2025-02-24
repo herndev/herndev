@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DC Movie Bosses Are Planning A Big Avengers-Like Film](https://kotaku.com/dcu-studios-superman-future-plans-gunn-avengers-event-1851766236)
- - [Bad news for portable Monster Hunter Wilds hopefuls: the Steam Deck can&#39;t manage 30 fps, even in maximum potato mode](https://www.pcgamer.com/games/action/bad-news-for-portable-monster-hunter-wilds-hopefuls-the-steam-deck-cant-manage-30-fps-even-in-maximum-potato-mode/)
- - [Monster Hunter Wilds reviews roundup: Either &#39;a new peak for the series,&#39; or &#39;may have lost its soul,&#39; depending on who you talk to](https://www.pcgamer.com/games/action/monster-hunter-wilds-reviews-roundup-either-a-new-peak-for-the-series-or-may-have-lost-its-soul-depending-on-who-you-talk-to/)<!-- GAME:END -->
+ - [Amid NetEase unease, devs funded by company speak up to say ‘We’re OK’](https://www.polygon.com/news/528633/netease-cutbacks-ghost-mmo-rebel-wolves-anchor-point)
+ - [Woedica&amp;#8217;s Inheritance treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524370/woedicas-inheritance-treasure-map-location-solution-reward)
+ - [Intimidating Feline Codpiece treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524369/intimidating-feline-codpiece-treasure-map-location-solution-reward)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
