@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Infrastructure turned residential](http://9gag.com/gag/avy1AYE)
- - ⏩ [They kiss](http://9gag.com/gag/aND9p4G)
- - 👉 [86 year old movie](http://9gag.com/gag/aLnzLDV)<!-- MEMES:END -->
+ - 💣 [Victim card denied](http://9gag.com/gag/aVvogqO)
+ - ⏩ [Like a glove](http://9gag.com/gag/aD26dLw)
+ - 👉 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)<!-- MEMES:END -->
 
 ---
 
