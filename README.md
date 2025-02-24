@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TVs at HUD Played an AI-Generated Video of Donald Trump Kissing Elon Musk&#39;s Feet](https://www.wired.com/story/trump-musk-hud-feet-video/)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [How to take control of your privacy by taking the fight to the source](https://appleinsider.com/articles/25/02/24/how-to-take-control-of-your-privacy-by-taking-the-fight-to-the-source?utm_medium=rss)<!-- TECH:END -->
+ - [Andor is on the offensive in latest season 2 trailer](https://www.theverge.com/news/618365/andor-season-2-trailer-date-disney-plus-star-wars-chapters)
+ - [Ember’s high-tech smart mug has fallen to its lowest price to date](https://www.theverge.com/good-deals/618204/ember-mug-2-wd-black-c50-xbox-expansion-card-deal-sale)
+ - [How to Stream Oscar Nominated Movies for 2025](https://www.cnet.com/tech/services-and-software/how-to-stream-oscar-nominated-movies-for-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
