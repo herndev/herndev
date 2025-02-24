@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TD Cowen: Microsoft cancels leases for a substantial amount of US data centers, potentially due to over-investment fears; Microsoft plans to spend $80B in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250224/p7#a250224p7)
- - [Tired of Android Auto rebooting your phone? A fix is here! &lpar;Updated&rpar;](https://www.androidauthority.com/android-auto-reboot-bug-fixed-3529043/)
- - [Gmail will soon switch away from SMS codes in favor of QR codes](https://www.androidauthority.com/gmail-ditch-sms-migrate-qr-authentication-3529073/)<!-- TECH:END -->
+ - [Apple to build AI servers in Houston, invest $500B in U.S. economy](https://appleinsider.com/articles/25/02/24/apple-commits-over-500-billion-in-new-us-investment?utm_medium=rss)
+ - [Source: Ethena, which runs the USDe stablecoin, marketed as a &quot;synthetic dollar&quot; with a 9% yield and almost $6B in circulation, raised $100M in December 2024 &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250224/p9#a250224p9)
+ - [This may be one of the ugliest Android phones I’ve ever seen](https://www.androidauthority.com/nothing-3a-pro-ugliest-android-phone-3528770/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
