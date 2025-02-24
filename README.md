@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Big Helmet Heroes is the co-op Castle Crashers clone you’ve been waiting for](https://www.polygon.com/impressions/526686/big-helmet-heroes-review-couch-co-op)
- - [Annapurna Interactive Showcase 2025 recap](https://blog.playstation.com/2025/02/24/annapurna-interactive-showcase-2025-recap/)
- - [Where to buy The Art of Destiny Vol. 3](https://www.polygon.com/pre-order/528160/art-of-destiny-volume-3-where-to-buy)<!-- GAME:END -->
+ - [ID@Xbox Showcase – February 2025: Everything Announced and Revealed](https://news.xbox.com/en-us/2025/02/24/ign-id-xbox-showcase-recap-everything-announced/)
+ - [Dragon Ball Daima’s finale, the Oscars, and more new TV this week](https://www.polygon.com/tv/525451/netflix-new-mindy-kaling-oscars-dragon-ball-daima-finale-when)
+ - [Balatro Is No Longer Rated 18+ In Europe](https://kotaku.com/balatro-18-pegi-rating-wrong-changed-12-esrb-europe-1851766176)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
