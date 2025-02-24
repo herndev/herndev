@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [LOL](http://9gag.com/gag/aYQEQ3w)
- - ⏩ [Stability test](http://9gag.com/gag/aGynnvn)
- - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
+ - 💣 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - ⏩ [Strong building](http://9gag.com/gag/azxd2vK)
+ - 👉 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)<!-- MEMES:END -->
 
 ---
 
