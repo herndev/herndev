@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)
- - ⏩ [House, DVM](http://9gag.com/gag/aPAmjAg)
- - 👉 [That last touch was personal](http://9gag.com/gag/a4P6R2y)<!-- MEMES:END -->
+ - 💣 [86 year old movie](http://9gag.com/gag/aLnzLDV)
+ - ⏩ [Fourth paycheck needed](http://9gag.com/gag/a876736)
+ - 👉 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)<!-- MEMES:END -->
 
 ---
 
