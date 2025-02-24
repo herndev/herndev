@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australian tech firm WiseTech saw shares drop 22% after most of its board, including the chair, resigned over clashes on co-founder Richard White&#39;s role &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/250224/p1#a250224p1)
  - [As the Trump administration neuters the PCLOB and reviews the EO behind the EU-US Data Privacy Framework, the EU should stop moving to US clouds &lpar;Bert Hubert&#39;s writings&rpar;](http://www.techmeme.com/250223/p11#a250223p11)
- - [Alibaba pledges to invest more than $53B on AI infrastructure, including new data centers, over the next three years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250223/p10#a250223p10)
- - [Best Internet Providers in Orlando, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alibaba pledges to invest more than $53B on AI infrastructure, including new data centers, over the next three years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250223/p10#a250223p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
