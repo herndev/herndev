@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go ‘A Dazzling Aria’ Masterwork Research tasks and rewards so far](https://www.polygon.com/pokemon-go-guide/528116/a-dazzling-aria-masterwork-research-shiny-meloetta)
  - [Today&#39;s Wordle answer for Monday, February 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-24-2025/)
- - [Asus&#39; new &#39;Fragrance Mouse&#39; can be filled with oil to make your desk less stinky, but there has to be a better way](https://www.pcgamer.com/hardware/asus-new-fragrance-mouse-can-be-filled-with-oil-to-make-your-desk-less-stinky-but-there-has-to-be-a-better-way/)
- - [Five new Steam games you probably missed &lpar;February 24, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-february-24-2025/)<!-- GAME:END -->
+ - [Asus&#39; new &#39;Fragrance Mouse&#39; can be filled with oil to make your desk less stinky, but there has to be a better way](https://www.pcgamer.com/hardware/asus-new-fragrance-mouse-can-be-filled-with-oil-to-make-your-desk-less-stinky-but-there-has-to-be-a-better-way/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
