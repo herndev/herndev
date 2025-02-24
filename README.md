@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
- - ⏩ [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)
- - 👉 [When you marry a gamer](http://9gag.com/gag/aD267Ax)<!-- MEMES:END -->
+ - 💣 [Wish I could do this](http://9gag.com/gag/agm11ov)
+ - ⏩ [Its the same here in germany. DB is a joke](http://9gag.com/gag/azxdxQx)
+ - 👉 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)<!-- MEMES:END -->
 
 ---
 
