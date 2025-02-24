@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could never: Each iPhone 17 model could look drastically different](https://www.androidauthority.com/apple-iphone-17-series-cad-renders-3529031/)
- - [Prosus plans to buy Just Eat Takeaway for &amp;euro;20.30/share, a 22% premium over its three-month high, in an all-cash deal valuing the delivery firm at over &amp;euro;4B &lpar;Financial Times&rpar;](http://www.techmeme.com/250224/p2#a250224p2)
- - [Best Internet Providers in Queens, New York](https://www.cnet.com/home/internet/best-internet-providers-in-queens-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone Fold could finally remedy the biggest design flaw in Android foldables](https://www.androidauthority.com/apple-iphone-fold-avoid-android-feature-3529037/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 24, #154](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-24-154/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
