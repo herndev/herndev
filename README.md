@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chose wisely](http://9gag.com/gag/aXPMPgb)
- - ⏩ [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)
- - 👉 [When you marry a gamer](http://9gag.com/gag/aD267Ax)<!-- MEMES:END -->
+ - 💣 [Master Splinter?](http://9gag.com/gag/aD267vO)
+ - ⏩ [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
+ - 👉 [When you have plenty of matches and free time](http://9gag.com/gag/aXPMLe9)<!-- MEMES:END -->
 
 ---
 
