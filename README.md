@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Master Splinter?](http://9gag.com/gag/aD267vO)
- - ⏩ [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
- - 👉 [When you have plenty of matches and free time](http://9gag.com/gag/aXPMLe9)<!-- MEMES:END -->
+ - 💣 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - ⏩ [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)
+ - 👉 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)<!-- MEMES:END -->
 
 ---
 
