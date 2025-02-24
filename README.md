@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The guide reports that a pride of lions is in the area.](http://9gag.com/gag/aGynydz)
- - ⏩ [Why are you laughing Lena?](http://9gag.com/gag/aXPMPP2)
- - 👉 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)<!-- MEMES:END -->
+ - 💣 [It&#39;s a myth](http://9gag.com/gag/aND9v2A)
+ - ⏩ [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
+ - 👉 [LOL](http://9gag.com/gag/aYQEQ3w)<!-- MEMES:END -->
 
 ---
 
