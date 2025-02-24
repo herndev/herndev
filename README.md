@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tired of Android Auto rebooting your phone? A fix is here!](https://www.androidauthority.com/android-auto-reboot-bug-fixed-3529043/)
- - [China is increasingly pooling resources from the state and private sectors, including startups like Infinigence AI, to accelerate adoption of AI data centers &lpar;Financial Times&rpar;](http://www.techmeme.com/250224/p3#a250224p3)
- - [iPhone Fold could finally remedy the biggest design flaw in Android foldables](https://www.androidauthority.com/apple-iphone-fold-avoid-android-feature-3529037/)<!-- TECH:END -->
+ - [Some hair stylists, bridal shops, and hardware stores say AI generated &quot;inspo&quot;, taken from platforms like Pinterest, is warping customers&#39; sense of reality &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/250224/p4#a250224p4)
+ - [A flaw in Samsung’s Secure Folder lets anyone see what apps and photos you have](https://www.androidauthority.com/samsung-secure-folder-flaw-3528891/)
+ - [A Jumping Lunar Robot Is About to Explore a Pitch-Black Moon Crater for the First Time](https://www.wired.com/story/a-jumping-lunar-robot-is-about-to-explore-a-pitch-black-moon-crater-for-the-first-time-im-2-nasa-intuitive-machines-spacex-artemis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
