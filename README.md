@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vimeo CEO Philip Moyer is betting on the human touch — and AI](https://www.theverge.com/decoder-podcast-with-nilay-patel/616820/philip-moyer-interview-vimeo-ai-google-youtube-creators)
- - [Monster Hunter Wilds thrives on spectacle](https://www.theverge.com/games-review/617587/monster-hunter-wilds-review-ps5-xbox-steam)
- - [Texas man&#39;s Apple Watch detects Afib, likely saving his life](https://appleinsider.com/articles/25/02/24/texas-mans-apple-watch-detects-afib-likely-saving-his-life?utm_medium=rss)<!-- TECH:END -->
+ - [Google just gave Pixel owners a new choice when it comes to warranty plans](https://www.androidauthority.com/pixel-two-year-warranty-3529155/)
+ - [Meta rolls out Meta AI in Algeria, Egypt, Iraq, Jordan, Libya, Morocco, Saudi Arabia, Tunisia, the UAE, and Yemen, and adds language support for Arabic &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250224/p16#a250224p16)
+ - [Don&#39;t Sleep on High APYs. Today&#39;s CD Rates, Feb. 24, 2025](https://www.cnet.com/personal-finance/banking/dont-sleep-on-high-apys-todays-cd-rates-feb-24-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
