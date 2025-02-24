@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to build AI servers in Houston, invest $500B in U.S. economy](https://appleinsider.com/articles/25/02/24/apple-commits-over-500-billion-in-new-us-investment?utm_medium=rss)
- - [Apple&amp;#8217;s iPhone 17 lineup is looking a little Pixelated](https://www.theverge.com/news/618190/apple-iphone-17-camera-module-leaks-renders)
- - [Strategy, formerly MicroStrategy, bought 20,356 bitcoin for $1.99B between February 18 and 23, taking its holdings to 499,096, worth $47B, or 2.3% of BTC supply &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250224/p13#a250224p13)<!-- TECH:END -->
+ - [Vimeo CEO Philip Moyer is betting on the human touch — and AI](https://www.theverge.com/decoder-podcast-with-nilay-patel/616820/philip-moyer-interview-vimeo-ai-google-youtube-creators)
+ - [Monster Hunter Wilds thrives on spectacle](https://www.theverge.com/games-review/617587/monster-hunter-wilds-review-ps5-xbox-steam)
+ - [Texas man&#39;s Apple Watch detects Afib, likely saving his life](https://appleinsider.com/articles/25/02/24/texas-mans-apple-watch-detects-afib-likely-saving-his-life?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
