@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Customer Service](http://9gag.com/gag/awy3yqD)
- - ⏩ [He tried](http://9gag.com/gag/axy3v0n)
- - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
+ - 💣 [The guide reports that a pride of lions is in the area.](http://9gag.com/gag/aGynydz)
+ - ⏩ [Fourth paycheck needed](http://9gag.com/gag/a876736)
+ - 👉 [LOL](http://9gag.com/gag/aYQEQ3w)<!-- MEMES:END -->
 
 ---
 
