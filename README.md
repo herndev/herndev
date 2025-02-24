@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox expansion cards are rarely cheaper than this 30% off deal](https://www.polygon.com/good-deals/528151/xbox-expansion-card-series-x-storage-ssd-sale)
- - [So long and thanks for all the space junk: China-based Starlink competitor SpaceSail plans to have 15,000 satellites deployed by 2030, and it&#39;s not the only one with its eyes on the skies](https://www.pcgamer.com/hardware/so-long-and-thanks-for-all-the-space-junk-china-based-starlink-competitor-spacesail-plans-to-have-15-000-satellites-deployed-by-2030-and-its-not-the-only-one-with-its-eyes-on-the-skies/)
- - [Razer Barracuda X Chroma review](https://www.pcgamer.com/hardware/gaming-headsets/razer-barracuda-x-chroma-review/)<!-- GAME:END -->
+ - [‘Let’s just live here awhile’: The Sherman-Palladinos on Gilmore Girls’ Twin Peaks reference](https://www.polygon.com/tv/527942/twin-peaks-gilmore-girls-influence-connection-palladinos-interview)
+ - [The RTX 50-series might make &#39;high-end pricing&#39; seem like an understatement but at least there are still reasonably priced entry-level builds out there like this one](https://www.pcgamer.com/hardware/gaming-pcs/the-rtx-50-series-might-make-high-end-pricing-seem-like-an-understatement-but-at-least-there-are-still-reasonably-priced-entry-level-builds-out-there-like-this-one/)
+ - [Life isn&#39;t easy if your last name is &#39;Null&#39; as it still breaks database entries the world over](https://www.pcgamer.com/software/life-isnt-easy-if-your-last-name-is-null-as-it-still-breaks-database-entries-the-world-over/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
