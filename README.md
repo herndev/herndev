@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Annapurna&amp;#8217;s 2025 lineup of indie games is full of tea and T-poses](https://www.theverge.com/news/618431/annapurna-interactive-2025-games-showcase)
- - [Google Drive gets searchable video transcripts](https://www.theverge.com/news/618397/google-drive-searchable-video-transcripts-workspace)
- - [Anthropic Launches the World’s First ‘Hybrid Reasoning’ AI Model](https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/)<!-- TECH:END -->
+ - [2025 Is a Year Full of Meteor Showers: The Next One Arrives This Week](https://www.cnet.com/science/how-to-watch-this-weeks-meteor-shower-all-in-2025-shooting-star-guide/#ftag=CAD590a51e)
+ - [Siri in iOS 18.4 is getting worse before it gets better](https://appleinsider.com/articles/25/02/24/siri-in-ios-184-is-getting-worse-before-it-gets-better?utm_medium=rss)
+ - [Need to find a quote? Google Drive’s new video feature will lead you right to it](https://www.androidauthority.com/google-drive-transcript-rollout-3529250/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
