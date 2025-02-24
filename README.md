@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2025 Is a Year Full of Meteor Showers: The Next One Arrives This Week](https://www.cnet.com/science/how-to-watch-this-weeks-meteor-shower-all-in-2025-shooting-star-guide/#ftag=CAD590a51e)
- - [Siri in iOS 18.4 is getting worse before it gets better](https://appleinsider.com/articles/25/02/24/siri-in-ios-184-is-getting-worse-before-it-gets-better?utm_medium=rss)
- - [Need to find a quote? Google Drive’s new video feature will lead you right to it](https://www.androidauthority.com/google-drive-transcript-rollout-3529250/)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Deal: The Samsung Galaxy Z Fold 6 is $720 off right now](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-6-3529252/)
+ - [Microsoft quietly launched free, ad-supported desktop versions of Word, Excel, and PowerPoint for Windows, with banner and video ads and limited functionality &lpar;Arjun Sha/Beebom&rpar;](http://www.techmeme.com/250224/p23#a250224p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
