@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
- - [Deals: The Razer Basilisk V3 Pro and Logitech G502 X Plus are $55 off](https://www.androidauthority.com/razer-basilisk-vr-pro-logitech-g502-x-plus-mice-deals-3528865/)
- - [Brazilian Supreme Court Justice Alexandre de Moraes orders the immediate and full suspension of Rumble in the country due to noncompliance with court orders &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/250221/p25#a250221p25)<!-- TECH:END -->
+ - [Google prices Veo 2, its new AI video model, at $0.50 per second of generated video; in December 2024, OpenAI offered Sora to its ChatGPT Plus and Pro subs &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250223/p8#a250223p8)
+ - [Grok blocked results saying Musk and Trump &amp;#8220;spread misinformation&amp;#8221;](https://www.theverge.com/news/618109/grok-blocked-elon-musk-trump-misinformation)
+ - [Grab Amazon&#39;s best Apple deals from $15 before the month ends](https://appleinsider.com/articles/25/02/23/grab-amazons-best-apple-deals-from-15-before-the-month-ends?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
