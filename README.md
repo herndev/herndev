@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like a glove](http://9gag.com/gag/aD26dLw)
- - ⏩ [Strong building](http://9gag.com/gag/azxd2vK)
- - 👉 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)<!-- MEMES:END -->
+ - 💣 [Infrastructure turned residential](http://9gag.com/gag/avy1AYE)
+ - ⏩ [They kiss](http://9gag.com/gag/aND9p4G)
+ - 👉 [86 year old movie](http://9gag.com/gag/aLnzLDV)<!-- MEMES:END -->
 
 ---
 
