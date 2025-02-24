@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just gave Pixel owners a new choice when it comes to warranty plans](https://www.androidauthority.com/pixel-two-year-warranty-3529155/)
- - [Meta rolls out Meta AI in Algeria, Egypt, Iraq, Jordan, Libya, Morocco, Saudi Arabia, Tunisia, the UAE, and Yemen, and adds language support for Arabic &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250224/p16#a250224p16)
- - [Don&#39;t Sleep on High APYs. Today&#39;s CD Rates, Feb. 24, 2025](https://www.cnet.com/personal-finance/banking/dont-sleep-on-high-apys-todays-cd-rates-feb-24-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TVs at HUD Played an AI-Generated Video of Donald Trump Kissing Elon Musk&#39;s Feet](https://www.wired.com/story/trump-musk-hud-feet-video/)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [How to take control of your privacy by taking the fight to the source](https://appleinsider.com/articles/25/02/24/how-to-take-control-of-your-privacy-by-taking-the-fight-to-the-source?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
