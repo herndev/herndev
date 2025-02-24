@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold could finally remedy the biggest design flaw in Android foldables](https://www.androidauthority.com/apple-iphone-fold-avoid-android-feature-3529037/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 24, #154](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-24-154/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-24/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tired of Android Auto rebooting your phone? A fix is here!](https://www.androidauthority.com/android-auto-reboot-bug-fixed-3529043/)
+ - [China is increasingly pooling resources from the state and private sectors, including startups like Infinigence AI, to accelerate adoption of AI data centers &lpar;Financial Times&rpar;](http://www.techmeme.com/250224/p3#a250224p3)
+ - [iPhone Fold could finally remedy the biggest design flaw in Android foldables](https://www.androidauthority.com/apple-iphone-fold-avoid-android-feature-3529037/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
