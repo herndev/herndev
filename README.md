@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How the new official LEGO Horizon Adventures playset was built, out March 1](https://blog.playstation.com/2025/02/24/how-the-new-official-lego-horizon-adventures-playset-was-built-out-march-1/)
- - [The curious tale of the missing eight: Some Nvidia RTX 50-series cards are shipping with missing ROPs in the GPU, Nvidia says only 0.5% of all cards are affected](https://www.pcgamer.com/hardware/graphics-cards/the-curious-tale-of-the-missing-eight-some-nvidia-rtx-50-series-cards-are-shipping-with-missing-rops-in-the-gpu-nvidia-says-only-0-5-percent-of-all-cards-are-affected/)
- - [There&#39;s hunger at Obsidian for a Pillars of Eternity Tactics game after Avowed, says studio design director Josh Sawyer, but it doesn&#39;t sound like it&#39;d get that Baldur&#39;s Gate 3-size budget he was fantasizing about](https://www.pcgamer.com/games/rpg/theres-hunger-at-obsidian-for-a-pillars-of-eternity-tactics-game-after-avowed-says-studio-design-director-josh-sawyer-but-it-doesnt-sound-like-itd-get-that-baldurs-gate-3-size-budget-he-was-fantasizing-about/)<!-- GAME:END -->
+ - [A Destiny 2 bug broke some class rules — but Bungie isn’t fixing it](https://www.polygon.com/news/528124/destiny-2-glaives-swords-bug)
+ - [Big Helmet Heroes&#39;s No Damage Trophy Is Far Easier Than You Think](https://kotaku.com/big-helmet-heroes-no-damage-achievement-trophy-1851766071)
+ - [After only 31 days, the breakout WarioWare-like game Mindwave has raised over $440,000 thanks to a brilliant demo, which you can still play now](https://www.pcgamer.com/games/puzzle/after-only-31-days-the-breakout-warioware-like-game-mindwave-has-raised-over-usd440-000-thanks-to-a-brilliant-demo-which-you-can-still-play-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
