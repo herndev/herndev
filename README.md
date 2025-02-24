@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some hair stylists, bridal shops, and hardware stores say AI generated &quot;inspo&quot;, taken from platforms like Pinterest, is warping customers&#39; sense of reality &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/250224/p4#a250224p4)
- - [A flaw in Samsung’s Secure Folder lets anyone see what apps and photos you have](https://www.androidauthority.com/samsung-secure-folder-flaw-3528891/)
- - [A Jumping Lunar Robot Is About to Explore a Pitch-Black Moon Crater for the First Time](https://www.wired.com/story/a-jumping-lunar-robot-is-about-to-explore-a-pitch-black-moon-crater-for-the-first-time-im-2-nasa-intuitive-machines-spacex-artemis/)<!-- TECH:END -->
+ - [TD Cowen: Microsoft cancels leases for a substantial amount of US data centers, potentially due to over-investment fears; Microsoft plans to spend $80B in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250224/p7#a250224p7)
+ - [Tired of Android Auto rebooting your phone? A fix is here! &lpar;Updated&rpar;](https://www.androidauthority.com/android-auto-reboot-bug-fixed-3529043/)
+ - [Gmail will soon switch away from SMS codes in favor of QR codes](https://www.androidauthority.com/gmail-ditch-sms-migrate-qr-authentication-3529073/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
