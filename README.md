@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [86 year old movie](http://9gag.com/gag/aLnzLDV)
- - ⏩ [Fourth paycheck needed](http://9gag.com/gag/a876736)
- - 👉 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)<!-- MEMES:END -->
+ - 💣 [Doggie is fine in ISLAM but not Dogs](http://9gag.com/gag/aPAmAXR)
+ - ⏩ [Applying this privacy film](http://9gag.com/gag/apR3RWp)
+ - 👉 [Men want one thing](http://9gag.com/gag/aND9Dpv)<!-- MEMES:END -->
 
 ---
 
