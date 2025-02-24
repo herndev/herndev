@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Apple to build AI servers in Houston, invest $500B in U.S. economy](https://appleinsider.com/articles/25/02/24/apple-commits-over-500-billion-in-new-us-investment?utm_medium=rss)
- - [Source: Ethena, which runs the USDe stablecoin, marketed as a &quot;synthetic dollar&quot; with a 9% yield and almost $6B in circulation, raised $100M in December 2024 &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250224/p9#a250224p9)
- - [This may be one of the ugliest Android phones I’ve ever seen](https://www.androidauthority.com/nothing-3a-pro-ugliest-android-phone-3528770/)<!-- TECH:END -->
+ - [Apple&amp;#8217;s iPhone 17 lineup is looking a little Pixelated](https://www.theverge.com/news/618190/apple-iphone-17-camera-module-leaks-renders)
+ - [Strategy, formerly MicroStrategy, bought 20,356 bitcoin for $1.99B between February 18 and 23, taking its holdings to 499,096, worth $47B, or 2.3% of BTC supply &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250224/p13#a250224p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
