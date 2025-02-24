@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Let’s just live here awhile’: The Sherman-Palladinos on Gilmore Girls’ Twin Peaks reference](https://www.polygon.com/tv/527942/twin-peaks-gilmore-girls-influence-connection-palladinos-interview)
- - [The RTX 50-series might make &#39;high-end pricing&#39; seem like an understatement but at least there are still reasonably priced entry-level builds out there like this one](https://www.pcgamer.com/hardware/gaming-pcs/the-rtx-50-series-might-make-high-end-pricing-seem-like-an-understatement-but-at-least-there-are-still-reasonably-priced-entry-level-builds-out-there-like-this-one/)
- - [Life isn&#39;t easy if your last name is &#39;Null&#39; as it still breaks database entries the world over](https://www.pcgamer.com/software/life-isnt-easy-if-your-last-name-is-null-as-it-still-breaks-database-entries-the-world-over/)<!-- GAME:END -->
+ - [Big Helmet Heroes is the co-op Castle Crashers clone you’ve been waiting for](https://www.polygon.com/impressions/526686/big-helmet-heroes-review-couch-co-op)
+ - [Annapurna Interactive Showcase 2025 recap](https://blog.playstation.com/2025/02/24/annapurna-interactive-showcase-2025-recap/)
+ - [Where to buy The Art of Destiny Vol. 3](https://www.polygon.com/pre-order/528160/art-of-destiny-volume-3-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
