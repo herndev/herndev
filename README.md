@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Victim card denied](http://9gag.com/gag/aVvogqO)
- - ⏩ [Like a glove](http://9gag.com/gag/aD26dLw)
- - 👉 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)<!-- MEMES:END -->
+ - 💣 [LOL](http://9gag.com/gag/aYQEQ3w)
+ - ⏩ [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)
+ - 👉 [They kiss](http://9gag.com/gag/aND9p4G)<!-- MEMES:END -->
 
 ---
 
