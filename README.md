@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Deal: The Samsung Galaxy Z Fold 6 is $720 off right now](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-6-3529252/)
- - [Microsoft quietly launched free, ad-supported desktop versions of Word, Excel, and PowerPoint for Windows, with banner and video ads and limited functionality &lpar;Arjun Sha/Beebom&rpar;](http://www.techmeme.com/250224/p23#a250224p23)<!-- TECH:END -->
+ - [SpaceX thinks it knows why Starship exploded on its last test flight](https://www.theverge.com/news/618529/spacex-faa-nasa-starship-super-heavy-booster-explosion-upgrades)
+ - [7 of the Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/7-of-the-best-horror-movies-to-stream-on-max/#ftag=CAD590a51e)
+ - [Zoom Q4: revenue $1.18B, up 3.3% YoY, Enterprise revenue of $706.8M, up 5.9%, net income of $367.9M, up from $298.8M, revenue forecast slightly under estimates &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250224/p25#a250224p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
