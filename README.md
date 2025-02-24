@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andor is on the offensive in latest season 2 trailer](https://www.theverge.com/news/618365/andor-season-2-trailer-date-disney-plus-star-wars-chapters)
- - [Ember’s high-tech smart mug has fallen to its lowest price to date](https://www.theverge.com/good-deals/618204/ember-mug-2-wd-black-c50-xbox-expansion-card-deal-sale)
- - [How to Stream Oscar Nominated Movies for 2025](https://www.cnet.com/tech/services-and-software/how-to-stream-oscar-nominated-movies-for-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Annapurna&amp;#8217;s 2025 lineup of indie games is full of tea and T-poses](https://www.theverge.com/news/618431/annapurna-interactive-2025-games-showcase)
+ - [Google Drive gets searchable video transcripts](https://www.theverge.com/news/618397/google-drive-searchable-video-transcripts-workspace)
+ - [Anthropic Launches the World’s First ‘Hybrid Reasoning’ AI Model](https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
