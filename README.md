@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doggie is fine in ISLAM but not Dogs](http://9gag.com/gag/aPAmAXR)
- - ⏩ [Applying this privacy film](http://9gag.com/gag/apR3RWp)
- - 👉 [Men want one thing](http://9gag.com/gag/aND9Dpv)<!-- MEMES:END -->
+ - 💣 [Like a glove](http://9gag.com/gag/aD26dLw)
+ - ⏩ [Strong building](http://9gag.com/gag/azxd2vK)
+ - 👉 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)<!-- MEMES:END -->
 
 ---
 
