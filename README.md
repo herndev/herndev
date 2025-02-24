@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
- - ⏩ [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
- - 👉 [Stability test](http://9gag.com/gag/aGynnvn)<!-- MEMES:END -->
+ - 💣 [LOL](http://9gag.com/gag/aYQEQ3w)
+ - ⏩ [Stability test](http://9gag.com/gag/aGynnvn)
+ - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
 
 ---
 
