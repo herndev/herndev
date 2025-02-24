@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Samsung could never: Each iPhone 17 model could look drastically different](https://www.androidauthority.com/apple-iphone-17-series-cad-renders-3529031/)
- - [Prosus plans to buy Just Eat Takeaway for &amp;euro;20.30/share, a 22% premium over its three-month high, in an all-cash deal valuing the delivery firm at over &amp;euro;4B &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250224/p2#a250224p2)
- - [Australian tech firm WiseTech saw shares drop 22% after most of its board, including the chair, resigned over clashes on co-founder Richard White&#39;s role &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/250224/p1#a250224p1)<!-- TECH:END -->
+ - [Prosus plans to buy Just Eat Takeaway for &amp;euro;20.30/share, a 22% premium over its three-month high, in an all-cash deal valuing the delivery firm at over &amp;euro;4B &lpar;Financial Times&rpar;](http://www.techmeme.com/250224/p2#a250224p2)
+ - [Best Internet Providers in Queens, New York](https://www.cnet.com/home/internet/best-internet-providers-in-queens-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
