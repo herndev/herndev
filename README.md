@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX thinks it knows why Starship exploded on its last test flight](https://www.theverge.com/news/618529/spacex-faa-nasa-starship-super-heavy-booster-explosion-upgrades)
- - [7 of the Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/7-of-the-best-horror-movies-to-stream-on-max/#ftag=CAD590a51e)
- - [Zoom Q4: revenue $1.18B, up 3.3% YoY, Enterprise revenue of $706.8M, up 5.9%, net income of $367.9M, up from $298.8M, revenue forecast slightly under estimates &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250224/p25#a250224p25)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The government is still threatening to ‘semi-fire’ workers who don’t answer an email from Elon Musk](https://www.theverge.com/news/618603/elon-musk-email-firing-threat-agency-response-donald-trump)
+ - [Chegg sues Google, saying AI Overviews hurt its traffic and revenue, as it mulls strategic options including getting acquired; CHGG drops 20%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/250224/p28#a250224p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
