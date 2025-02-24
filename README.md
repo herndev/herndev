@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fan remake of Oblivion in Skyrim has a new video, looks amazing, is set for release &#39;this year,&#39; and I struggle to imagine the rumoured official Oblivion remake doing much better](https://www.pcgamer.com/games/the-elder-scrolls/fan-remake-of-oblivion-in-skyrim-has-a-new-video-looks-amazing-is-set-for-release-this-year-and-i-struggle-to-imagine-the-rumoured-official-oblivion-remake-doing-much-better/)
- - [What time does Honkai Star Rail 3.1 release?](https://www.polygon.com/honkai-star-rail-guides/527579/version-3-1-release-times-maintenance-end)
- - [Every MCU Movie, Ranked From Worst To Best](https://kotaku.com/marvel-cinematic-universe-mcu-best-worst-movie-avengers-1851765913)<!-- GAME:END -->
+ - [Xbox expansion cards are rarely cheaper than this 30% off deal](https://www.polygon.com/good-deals/528151/xbox-expansion-card-series-x-storage-ssd-sale)
+ - [So long and thanks for all the space junk: China-based Starlink competitor SpaceSail plans to have 15,000 satellites deployed by 2030, and it&#39;s not the only one with its eyes on the skies](https://www.pcgamer.com/hardware/so-long-and-thanks-for-all-the-space-junk-china-based-starlink-competitor-spacesail-plans-to-have-15-000-satellites-deployed-by-2030-and-its-not-the-only-one-with-its-eyes-on-the-skies/)
+ - [Razer Barracuda X Chroma review](https://www.pcgamer.com/hardware/gaming-headsets/razer-barracuda-x-chroma-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
