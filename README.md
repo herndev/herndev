@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba pledges to invest more than $53B on AI infrastructure, including new data centers, over the next three years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250223/p10#a250223p10)
  - [Best Home Security Cameras Without a Subscription for 2025](https://www.cnet.com/home/security/best-home-security-cameras-without-a-subscription/#ftag=CAD590a51e)
- - [Best Resume Writing Services for 2025](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)
- - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Resume Writing Services for 2025](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
