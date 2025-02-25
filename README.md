@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ron Wyden asks for rules about whether you own your digital purchases](https://www.theverge.com/news/618614/senator-ron-wyden-ftc-andrew-ferguson-digital-goods-ownership)
- - [YouTube will show fewer ads in ‘interruptive’ slots](https://www.theverge.com/news/618880/youtube-ad-break-update-mid-roll-interrupt-video)
- - [OnePlus Watch 3 sales delayed as the company whips up a fresh typo-free batch](https://www.androidauthority.com/oneplus-watch-3-sale-postponed-3529557/)<!-- TECH:END -->
+ - [Clicks’ BlackBerry-style keyboard case is coming to Android phones](https://www.theverge.com/news/617479/clicks-blackberry-keyboard-case-android-motorola-google-pixel-samsung-galaxy-availability)
+ - [The new Beeper app combines all of Automattic’s messaging systems](https://www.theverge.com/news/619018/beeper-texts-com-combined-app-update-automattic)
+ - [Galaxy Z Fold 6 and Flip 6 may be next up for One UI 7 beta](https://www.androidauthority.com/galaxy-z-fold-6-flip-6-one-ui-7-beta-3529586/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
