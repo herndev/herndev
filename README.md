@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yes, Marvel Rivals servers are down for many](https://www.pcgamer.com/games/third-person-shooter/yes-marvel-rivals-servers-are-down-for-many/)
- - [Andor Season 2 trailer is action-packed, but hopefully the show is still actually packed with interesting people quietly talking to each other](https://www.pcgamer.com/movies-tv/andor-season-2-trailer-is-action-packed-but-hopefully-the-show-is-still-actually-packed-with-interesting-people-quietly-talking-to-each-other/)
- - [The mad lads at New Blood have remastered Ultrakill before actually releasing Ultrakill in the first place](https://www.pcgamer.com/games/fps/the-mad-lads-at-new-blood-have-remastered-ultrakill-before-actually-releasing-ultrakill-in-the-first-place/)<!-- GAME:END -->
+ - [Call of Duty admits it&#39;s using generative AI to &#39;help develop some in-game assets&#39;, and suddenly all those poorly made calling cards make sense](https://www.pcgamer.com/games/call-of-duty/call-of-duty-admits-its-using-generative-ai-to-help-develop-some-in-game-assets-and-suddenly-all-those-poorly-made-calling-cards-make-sense/)
+ - [Today&#39;s Wordle answer for Tuesday, February 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-25-2025/)
+ - [Yes, Marvel Rivals went down for a while](https://www.pcgamer.com/games/third-person-shooter/yes-marvel-rivals-servers-are-down-for-many/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
