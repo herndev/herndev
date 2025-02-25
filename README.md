@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amid NetEase unease, devs funded by company speak up to say ‘We’re OK’](https://www.polygon.com/news/528633/netease-cutbacks-ghost-mmo-rebel-wolves-anchor-point)
- - [Woedica&amp;#8217;s Inheritance treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524370/woedicas-inheritance-treasure-map-location-solution-reward)
- - [Intimidating Feline Codpiece treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524369/intimidating-feline-codpiece-treasure-map-location-solution-reward)<!-- GAME:END -->
+ - [The mad lads at New Blood have remastered Ultrakill before actually releasing Ultrakill in the first place](https://www.pcgamer.com/games/fps/the-mad-lads-at-new-blood-have-remastered-ultrakill-before-actually-releasing-ultrakill-in-the-first-place/)
+ - [Mecha Break could be the big multiplayer mech game you&#39;ve been waiting for—if you can stomach the monetization](https://www.pcgamer.com/games/action/mecha-break-could-be-the-big-multiplayer-mech-game-youve-been-waiting-for-if-you-can-stomach-the-monetization/)
+ - [Sea of Thieves in space? Not quite, but Jump Ship replicates a lot of the things that make Rare&#39;s pirate sandbox so fun](https://www.pcgamer.com/games/action/sea-of-thieves-in-space-not-quite-but-jump-ship-replicates-a-lot-of-the-things-that-make-rares-pirate-sandbox-so-fun/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
