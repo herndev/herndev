@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - ⏩ [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
- - 👉 [Plunger Head](http://9gag.com/gag/azxd5bm)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aqyX6Q7)
+ - ⏩ [Naruto run](http://9gag.com/gag/a9y6vmZ)
+ - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
 
 ---
 
