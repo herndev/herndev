@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Yes, Marvel Rivals servers are down for many](https://www.pcgamer.com/games/third-person-shooter/yes-marvel-rivals-servers-are-down-for-many/)
  - [Andor Season 2 trailer is action-packed, but hopefully the show is still actually packed with interesting people quietly talking to each other](https://www.pcgamer.com/movies-tv/andor-season-2-trailer-is-action-packed-but-hopefully-the-show-is-still-actually-packed-with-interesting-people-quietly-talking-to-each-other/)
- - [The mad lads at New Blood have remastered Ultrakill before actually releasing Ultrakill in the first place](https://www.pcgamer.com/games/fps/the-mad-lads-at-new-blood-have-remastered-ultrakill-before-actually-releasing-ultrakill-in-the-first-place/)
- - [Mecha Break could be the big multiplayer mech game you&#39;ve been waiting for—if you can stomach the monetization](https://www.pcgamer.com/games/action/mecha-break-could-be-the-big-multiplayer-mech-game-youve-been-waiting-for-if-you-can-stomach-the-monetization/)<!-- GAME:END -->
+ - [The mad lads at New Blood have remastered Ultrakill before actually releasing Ultrakill in the first place](https://www.pcgamer.com/games/fps/the-mad-lads-at-new-blood-have-remastered-ultrakill-before-actually-releasing-ultrakill-in-the-first-place/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
