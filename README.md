@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sweden-based Lovable, an AI-powered app builder, raised a $15M pre-Series A led by Creandum following a &amp;euro;6.8M pre-seed, says it has 500K users and $17M in ARR &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250225/p27#a250225p27)
- - [Anker’s new USB-C HDMI cable supports 140W fast charging](https://www.theverge.com/news/619071/anker-nano-usb-c-hdmi-cable-adapter-140w-power)
- - [Dark Horse is shutting down its iOS comics app](https://www.theverge.com/news/619143/dark-horse-comics-app-shutting-down)<!-- TECH:END -->
+ - [New firmware available for AirPods Max with Lightning port](https://appleinsider.com/articles/25/02/25/new-firmware-available-for-airpods-max-with-lightning-port?utm_medium=rss)
+ - [SCOTUS has again denied a challenge from the telecom industry of NY&#39;s $15 basic broadband law, as more states including CA, VT, and MA propose similar laws &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250225/p30#a250225p30)
+ - [8BitDo’s Ultimate 2 controller gets an upgrade to next-generation anti-drift sticks](https://www.theverge.com/news/619229/8bitdo-ultimate-2-wireless-controller-tmr-anti-drift-joysticks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
