@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New firmware available for AirPods Max with Lightning port](https://appleinsider.com/articles/25/02/25/new-firmware-available-for-airpods-max-with-lightning-port?utm_medium=rss)
- - [SCOTUS has again denied a challenge from the telecom industry of NY&#39;s $15 basic broadband law, as more states including CA, VT, and MA propose similar laws &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250225/p30#a250225p30)
- - [8BitDo’s Ultimate 2 controller gets an upgrade to next-generation anti-drift sticks](https://www.theverge.com/news/619229/8bitdo-ultimate-2-wireless-controller-tmr-anti-drift-joysticks)<!-- TECH:END -->
+ - [Sonos speakers and soundbars are 25 percent off for existing customers](https://www.theverge.com/good-deals/618989/sonos-beam-ace-era-100-deal-sale)
+ - [The US chip situation is precarious and requires bold moves like ending the China chip ban and building more trailing edge fabs in the US &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250225/p37#a250225p37)
+ - [How to get involved with the Photoshop for Android beta](https://www.androidauthority.com/adobe-photoshop-android-beta-3529780/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
