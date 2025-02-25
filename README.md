@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft makes Copilot Voice and Think Deeper free with unlimited use](https://www.theverge.com/news/619199/microsoft-copilot-free-unlimited-voice-think-deeper-open-ai-o1-reasoning-model-ai)
- - [Google tweaks Android 16’s Quick Settings custom tile interface](https://www.androidauthority.com/android-16-quick-settings-tiles-3529584/)
- - [Resignation letter: 21 DOGE staffers, who previously worked at the USDS, say they won&#39;t use their technical expertise to &quot;dismantle critical public services&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/250225/p25#a250225p25)<!-- TECH:END -->
+ - [Sweden-based Lovable, an AI-powered app builder, raised a $15M pre-Series A led by Creandum following a &amp;euro;6.8M pre-seed, says it has 500K users and $17M in ARR &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250225/p27#a250225p27)
+ - [Anker’s new USB-C HDMI cable supports 140W fast charging](https://www.theverge.com/news/619071/anker-nano-usb-c-hdmi-cable-adapter-140w-power)
+ - [Dark Horse is shutting down its iOS comics app](https://www.theverge.com/news/619143/dark-horse-comics-app-shutting-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
