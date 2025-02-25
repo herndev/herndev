@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - ⏩ [How to starve a croc](http://9gag.com/gag/aVvoKKK)
- - 👉 [I have seen this story before](http://9gag.com/gag/aKGAv4b)<!-- MEMES:END -->
+ - 💣 [Every single time...](http://9gag.com/gag/aYQEPAx)
+ - ⏩ [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
+ - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
 
 ---
 
