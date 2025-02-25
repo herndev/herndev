@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Soulsborne fans tackle the ultimate boss of private healthcare, paying off beloved community figure&#39;s huge bill within hours while collectively urging: &#39;Don&#39;t you dare go hollow&#39;](https://www.pcgamer.com/games/rpg/soulsborne-fans-tackle-the-ultimate-boss-of-private-healthcare-paying-off-beloved-community-figures-huge-bill-within-hours-while-collectively-urging-dont-you-dare-go-hollow/)
- - [Balatro&#39;s new cards really show that every dev in the games industry is hooked on Balatro](https://www.pcgamer.com/games/balatros-new-cards-really-show-that-every-games-dev-in-the-industry-is-hooked-on-balatro/)
- - [Reddit reports of 9800X3D CPUs dying in ASRock motherboards are racking up fast, but a new BIOS update seemingly only addresses boot problems](https://www.pcgamer.com/hardware/processors/reddit-reports-of-9800x3d-cpus-dying-in-asrock-motherboards-are-racking-up-fast-but-a-new-bios-update-seemingly-only-addresses-boot-problems/)<!-- GAME:END -->
+ - [When does the TMNT event start in Black Ops 6?](https://www.polygon.com/black-ops-6-guides/528125/tmnt-event-release-date-time-start-est-pst)
+ - [Jon Bernthal’s Punisher will return in his own solo special](https://www.polygon.com/marvel/528978/punisher-disney-plus-special-jon-bernthal)
+ - [Studio Behind Acclaimed Silent Hill 2 Remake Reveals It&#39;s Working On A New Mystery Game](https://kotaku.com/bloober-konami-silent-hill-metal-gear-castlevania-1851766343)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
