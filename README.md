@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stability test](http://9gag.com/gag/aGynnvn)
- - ⏩ [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
- - 👉 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)<!-- MEMES:END -->
+ - 💣 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
+ - ⏩ [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
+ - 👉 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)<!-- MEMES:END -->
 
 ---
 
