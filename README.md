@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
- - ⏩ [Behold! THE POWER OF THE SUUUUN!](http://9gag.com/gag/aKGAvwb)
- - 👉 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)<!-- MEMES:END -->
+ - 💣 [Looks up!](http://9gag.com/gag/a5Q6Bgg)
+ - ⏩ [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
+ - 👉 [The modern audience failed to show up again](http://9gag.com/gag/a7oOOwq)<!-- MEMES:END -->
 
 ---
 
