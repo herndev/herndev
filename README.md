@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well women wanted it](http://9gag.com/gag/aE06V39)
- - ⏩ [That star wars play tho..](http://9gag.com/gag/azxdPVq)
- - 👉 [Title](http://9gag.com/gag/aqyX6Q7)<!-- MEMES:END -->
+ - 💣 [Execution by cannon Iran 1890...](http://9gag.com/gag/a6ZXX1A)
+ - ⏩ [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 👉 [In \u201cEl Camino\u201d &lpar;2019&rpar; There are several scenes were the characters seem much larger. This is because the original show ended 6 years ago and everyone got fat off that Breaking Bad money.](http://9gag.com/gag/a345AqQ)<!-- MEMES:END -->
 
 ---
 
