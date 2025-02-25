@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every single time...](http://9gag.com/gag/aYQEPAx)
- - ⏩ [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
- - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
+ - 💣 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - ⏩ [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 👉 [New Self defence style](http://9gag.com/gag/a9y68mL)<!-- MEMES:END -->
 
 ---
 
