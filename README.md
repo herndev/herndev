@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos speakers and soundbars are 25 percent off for existing customers](https://www.theverge.com/good-deals/618989/sonos-beam-ace-era-100-deal-sale)
- - [The US chip situation is precarious and requires bold moves like ending the China chip ban and building more trailing edge fabs in the US &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250225/p37#a250225p37)
- - [How to get involved with the Photoshop for Android beta](https://www.androidauthority.com/adobe-photoshop-android-beta-3529780/)<!-- TECH:END -->
+ - [Need a portable monitor? Check out this deal on the ASUS ZenScreen MB16ACE](https://www.androidauthority.com/asus-zenscreen-15-6-inch-portable-monitor-mb16ace-deal-3529797/)
+ - [Instacart reports Q4 revenue up 10% YoY to $883M, missing estimates, and forecasts Q1 adjusted EBITDA below estimates; CART drops 10%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250225/p40#a250225p40)
+ - [Warner Bros. Games shuts down three game studios and pulls the plug on a Wonder Woman game that had been in development for over three years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250225/p39#a250225p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
