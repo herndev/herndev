@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - ⏩ [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
- - 👉 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)<!-- MEMES:END -->
+ - 💣 [Why are you laughing Lena?](http://9gag.com/gag/aXPMPP2)
+ - ⏩ [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - 👉 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)<!-- MEMES:END -->
 
 ---
 
