@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks up!](http://9gag.com/gag/a5Q6Bgg)
- - ⏩ [It&#39;s a myth](http://9gag.com/gag/aND9v2A)
- - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
+ - 💣 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - ⏩ [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - 👉 [I have seen this story before](http://9gag.com/gag/aKGAv4b)<!-- MEMES:END -->
 
 ---
 
