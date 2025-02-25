@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
- - ⏩ [Father of epidermolysis- bullosa son answers question related to his son\u2019s condition](http://9gag.com/gag/ae91Zop)
- - 👉 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)<!-- MEMES:END -->
+ - 💣 [Looks up!](http://9gag.com/gag/a5Q6Bgg)
+ - ⏩ [It&#39;s a myth](http://9gag.com/gag/aND9v2A)
+ - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
 
 ---
 
