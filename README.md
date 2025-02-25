@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: left-leaning staff at Meta, Apple, Google, and Amazon mostly stayed silent on their CEOs attending Trump&#39;s inauguration due to a less secure job market &lpar;Financial Times&rpar;](http://www.techmeme.com/250225/p2#a250225p2)
- - [Tesla starts rolling out a software update enabling driver-assistance features, similar to Full Self-Driving in the US, for Chinese customers who paid $8,800 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250225/p1#a250225p1)
- - [Save up to $250 instantly on these M4 iPad Pros](https://appleinsider.com/articles/25/02/25/save-up-to-250-instantly-on-these-m4-ipad-pros?utm_medium=rss)<!-- TECH:END -->
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
+ - [AT&amp;T Promo Code: Get a Gift Card Worth Up to $200](https://www.wired.com/story/att-promo-code/)
+ - [Sources: Indonesia and Apple have agreed to lift the iPhone 16 ban, with Apple set to invest $1B; a memorandum of agreement may be signed this week &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/250225/p3#a250225p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
