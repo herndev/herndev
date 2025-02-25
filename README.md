@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Harry Potter TV series has found its Dumbledore](https://www.polygon.com/tv/529444/harry-potter-series-dumbledore-show-john-lithgow)
- - [Monster Hunter Wilds&#39; new cooking system is a win for balance, but there&#39;s a Meowscular Chef-shaped hole in my heart](https://www.pcgamer.com/games/action/monster-hunter-wilds-new-cooking-system-is-a-win-for-balance-but-theres-a-meowscular-chef-shaped-hole-in-my-heart/)
- - [The burglar returns to The Sims 4 after a decade of fan demand](https://www.polygon.com/cozy-gaming/529436/the-sims-4-burglar-free-update)<!-- GAME:END -->
+ - [Autographed copies of Kingdom Come: Deliverance 2 collector&#39;s editions are being auctioned for charity, but it&#39;ll cost you more than 59 copies of the regular game just to get in the door](https://www.pcgamer.com/games/rpg/autographed-copies-of-kingdom-come-deliverance-2-collectors-editions-are-being-auctioned-for-charity-but-itll-cost-you-more-than-59-copies-of-the-regular-game-just-to-get-in-the-door/)
+ - [&#39;I&#39;m an idiot&#39;: MrBeast says he lost &#39;tens of millions of dollars&#39; of his own money on Amazon&#39;s Beast Games](https://www.pcgamer.com/movies-tv/im-an-idiot-mrbeast-says-he-lost-tens-of-millions-of-dollars-of-his-own-money-on-amazons-beast-games/)
+ - [Get ready to get weird in Pathologic 3: Quarantine, a free &#39;prologue chapter&#39; about a young doctor looking for immortality in the world&#39;s most miserable town](https://www.pcgamer.com/games/adventure/get-ready-to-get-weird-in-pathologic-3-quarantine-a-free-prologue-chapter-about-a-young-doctor-looking-for-immortality-in-the-worlds-most-miserable-town/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
