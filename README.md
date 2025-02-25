@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The War Within’s first patch is a goblin paradise packed full of fun details](https://www.polygon.com/gaming/528545/world-warcraft-undermined-patch-dev-interview)
- - [Metal Gear Solid Delta: Snake Eater system requirements are here, and it&#39;s yet another game that requires an RTX graphics card and tonnes of free storage to play](https://www.pcgamer.com/hardware/metal-gear-solid-delta-snake-eater-system-requirements-are-here-and-its-yet-another-game-that-requires-an-rtx-graphics-card-and-tonnes-of-free-storage-to-play/)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [Soulsborne fans tackle the ultimate boss of private healthcare, paying off beloved community figure&#39;s huge bill within hours while collectively urging: &#39;Don&#39;t you dare go hollow&#39;](https://www.pcgamer.com/games/rpg/soulsborne-fans-tackle-the-ultimate-boss-of-private-healthcare-paying-off-beloved-community-figures-huge-bill-within-hours-while-collectively-urging-dont-you-dare-go-hollow/)
+ - [Balatro&#39;s new cards really show that every dev in the games industry is hooked on Balatro](https://www.pcgamer.com/games/balatros-new-cards-really-show-that-every-games-dev-in-the-industry-is-hooked-on-balatro/)
+ - [Reddit reports of 9800X3D CPUs dying in ASRock motherboards are racking up fast, but a new BIOS update seemingly only addresses boot problems](https://www.pcgamer.com/hardware/processors/reddit-reports-of-9800x3d-cpus-dying-in-asrock-motherboards-are-racking-up-fast-but-a-new-bios-update-seemingly-only-addresses-boot-problems/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
