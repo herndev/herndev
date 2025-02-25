@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - ⏩ [Strong building](http://9gag.com/gag/azxd2vK)
- - 👉 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)<!-- MEMES:END -->
+ - 💣 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)
+ - ⏩ [Behold! THE POWER OF THE SUUUUN!](http://9gag.com/gag/aKGAvwb)
+ - 👉 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)<!-- MEMES:END -->
 
 ---
 
