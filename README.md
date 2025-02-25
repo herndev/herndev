@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The government is still threatening to ‘semi-fire’ workers who don’t answer an email from Elon Musk](https://www.theverge.com/news/618603/elon-musk-email-firing-threat-agency-response-donald-trump)
- - [Chegg sues Google, saying AI Overviews hurt its traffic and revenue, as it mulls strategic options including getting acquired; CHGG drops 20%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/250224/p28#a250224p28)<!-- TECH:END -->
+ - [The quirky Alarmo clock is no longer exclusive to Nintendo’s online store](https://www.theverge.com/nintendo/618527/nintendo-alarmo-clock-how-to-buy-price-best-buy)
+ - [Qualcomm just got some real competition for this year’s most affordable Android phones](https://www.androidauthority.com/mediatek-dimensity-7400-3529342/)
+ - [Android phone makers now have one fewer excuse to end software updates early](https://www.androidauthority.com/qualcomm-extended-software-update-program-3529365/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
