@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - ⏩ [The future is now, old man...](http://9gag.com/gag/a6ZX9Wq)
- - 👉 [Title](http://9gag.com/gag/aqyX6Q7)<!-- MEMES:END -->
+ - 💣 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
+ - ⏩ [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
+ - 👉 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)<!-- MEMES:END -->
 
 ---
 
