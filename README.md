@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The future of the internet is likely smaller communities, with a focus on curated experiences](https://www.theverge.com/press-room/617654/internet-community-future-research)
- - [Panasonic’s Lumix S1RII full-frame camera captures 8K video](https://www.theverge.com/news/618877/panasonic-lumix-s1rii-full-frame-camera-8k-video)
- - [Apple AirTag 4-pack falls to $67.99, lowest price of 2025](https://appleinsider.com/articles/25/02/25/apple-airtag-4-pack-falls-to-6799-lowest-price-of-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Ron Wyden asks for rules about whether you own your digital purchases](https://www.theverge.com/news/618614/senator-ron-wyden-ftc-andrew-ferguson-digital-goods-ownership)
+ - [YouTube will show fewer ads in ‘interruptive’ slots](https://www.theverge.com/news/618880/youtube-ad-break-update-mid-roll-interrupt-video)
+ - [OnePlus Watch 3 sales delayed as the company whips up a fresh typo-free batch](https://www.androidauthority.com/oneplus-watch-3-sale-postponed-3529557/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
