@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox February Update: Send Invite Links, Cloud Gaming Updates, and More](https://news.xbox.com/en-us/2025/02/25/xbox-february-update-invite-links-cloud-gaming-update/)
- - [The Callisto Protocol studio lays off more employees, but &#39;remains operational&#39;](https://www.pcgamer.com/gaming-industry/the-callisto-protocol-studio-lays-off-more-employees-but-remains-operational/)
- - [Fights in Tight Spaces and 5 other great deck builders are $20 at Humble](https://www.polygon.com/good-deals/528534/humble-deckbuilder-games-bundle-sale)<!-- GAME:END -->
+ - [All Totem of Revelations piece locations in Avowed](https://www.polygon.com/avowed-guides/528933/totem-revelations-locations-pieces-all-shatterscarp)
+ - [Tony Hawk’s Pro Skater 3 and 4 announcement spoiled by Singapore rating](https://www.polygon.com/news/529141/tony-hawks-pro-skater-3-4-remaster-activision-iron-galaxy-leak)
+ - [Please buy me this Legend of Zelda Encyclopedia while it’s 50% off](https://www.polygon.com/good-deals/529102/legend-zelda-encyclopedia-half-off-sale-amazon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
