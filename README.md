@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini’s AI coding tool is now free for individual users](https://www.theverge.com/news/618839/google-gemini-ai-code-assist-free-individuals-availability)
- - [Bitcoin falls below $90K, its lowest level since mid-November 2024, as the rally that followed Trump&#39;s election fades; ETH, XRP, SOL, and more also fell sharply &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250225/p9#a250225p9)
- - [The ECMWF says its new weather model broke ground by making global predictions freely available; testing shows it outperforms other models up to 15 days ahead &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250225/p8#a250225p8)<!-- TECH:END -->
+ - [Three years later, the Steam Deck has dominated handheld PC gaming](https://www.theverge.com/pc-gaming/618709/steam-deck-3-year-anniversary-handheld-gaming-shipments-idc)
+ - [Sources: Huawei has increased its AI chip yield to nearly 40%, up from 20% about a year ago, meaning its Ascend chips are now profitable for the first time &lpar;Financial Times&rpar;](http://www.techmeme.com/250225/p13#a250225p13)
+ - [Indonesia set to lift five-month iPhone 16 ban](https://appleinsider.com/articles/25/02/25/indonesia-set-to-lift-five-month-iphone-16-ban?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
