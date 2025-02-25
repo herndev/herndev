@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Logitech G PowerPlay charging mouse pad was my baby, but I&#39;m a little disappointed after seeing the second version just announced](https://www.pcgamer.com/hardware/gaming-mice/the-logitech-g-powerplay-charging-mouse-pad-was-my-baby-but-im-a-little-disappointed-after-seeing-the-second-version-just-announced/)
- - [Logitech announces a sequel to its Powerplay mouse pad](https://www.polygon.com/pc/528626/logitech-powerplay-2-mouse-pad-where-to-buy)
- - [Call of Duty admits it&#39;s using generative AI to &#39;help develop some in-game assets&#39;, and suddenly all those poorly made calling cards make sense](https://www.pcgamer.com/games/call-of-duty/call-of-duty-admits-its-using-generative-ai-to-help-develop-some-in-game-assets-and-suddenly-all-those-poorly-made-calling-cards-make-sense/)<!-- GAME:END -->
+ - [Lego unearths its largest Jurassic World set ever](https://www.polygon.com/pre-order/528543/lego-jurassic-world-t-rex-set-where-to-buy)
+ - [After a year-long effort to get a QD-OLED monitor to burn in, one tester&#39;s results are better than you might expect but not quite perfect](https://www.pcgamer.com/hardware/gaming-monitors/after-a-year-long-effort-to-get-a-qd-oled-monitor-to-burn-in-one-testers-results-are-better-than-you-might-expect-but-not-quite-perfect/)
+ - [Corsair Vengeance DDR5-8400 CUDIMM review](https://www.pcgamer.com/hardware/memory/corsair-vengeance-ddr5-8400-cudimm-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
