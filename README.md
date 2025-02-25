@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty admits it&#39;s using generative AI to &#39;help develop some in-game assets&#39;, and suddenly all those poorly made calling cards make sense](https://www.pcgamer.com/games/call-of-duty/call-of-duty-admits-its-using-generative-ai-to-help-develop-some-in-game-assets-and-suddenly-all-those-poorly-made-calling-cards-make-sense/)
- - [Today&#39;s Wordle answer for Tuesday, February 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-25-2025/)
- - [Yes, Marvel Rivals went down for a while](https://www.pcgamer.com/games/third-person-shooter/yes-marvel-rivals-servers-are-down-for-many/)<!-- GAME:END -->
+ - [The Logitech G PowerPlay charging mouse pad was my baby, but I&#39;m a little disappointed after seeing the second version just announced](https://www.pcgamer.com/hardware/gaming-mice/the-logitech-g-powerplay-charging-mouse-pad-was-my-baby-but-im-a-little-disappointed-after-seeing-the-second-version-just-announced/)
+ - [Logitech announces a sequel to its Powerplay mouse pad](https://www.polygon.com/pc/528626/logitech-powerplay-2-mouse-pad-where-to-buy)
+ - [Call of Duty admits it&#39;s using generative AI to &#39;help develop some in-game assets&#39;, and suddenly all those poorly made calling cards make sense](https://www.pcgamer.com/games/call-of-duty/call-of-duty-admits-its-using-generative-ai-to-help-develop-some-in-game-assets-and-suddenly-all-those-poorly-made-calling-cards-make-sense/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
