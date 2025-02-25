@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google sued for AI Overviews in Search, company calls them ‘unworthy of trust’](https://www.androidauthority.com/google-ai-overviews-lawsuit-3529392/)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Nvidia admits some early RTX 5080 cards are missing ROPs, too](https://www.theverge.com/news/618748/nvidia-admits-the-rtx-5080-is-affecte)<!-- TECH:END -->
+ - [There’s something strange going on with Pixel 9 demo units displayed in retail stores](https://www.androidauthority.com/pixel-9-demo-unit-refresh-rate-3529410/)
+ - [Over 1,000 musicians, including Kate Bush, &quot;co-write&quot; a &quot;silent&quot; album to protest a UK proposal letting AI train on their copyrighted work if they don&#39;t opt out &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250224/p34#a250224p34)
+ - [Google sued for AI Overviews in Search, company calls them ‘unworthy of trust’](https://www.androidauthority.com/google-ai-overviews-lawsuit-3529392/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
