@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is so satisfying to watch](http://9gag.com/gag/a5Q6wVN)
- - ⏩ [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
- - 👉 [A protester warns of undercover police &lpar;Indonesia, #DarkIndonesia protest&rpar;](http://9gag.com/gag/aO8e8EE)<!-- MEMES:END -->
+ - 💣 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - ⏩ [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
+ - 👉 [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)<!-- MEMES:END -->
 
 ---
 
