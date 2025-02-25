@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Execution by cannon Iran 1890...](http://9gag.com/gag/a6ZXX1A)
+ - 💣 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
  - ⏩ [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - 👉 [In \u201cEl Camino\u201d &lpar;2019&rpar; There are several scenes were the characters seem much larger. This is because the original show ended 6 years ago and everyone got fat off that Breaking Bad money.](http://9gag.com/gag/a345AqQ)<!-- MEMES:END -->
+ - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
 
 ---
 
