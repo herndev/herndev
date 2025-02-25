@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego unearths its largest Jurassic World set ever](https://www.polygon.com/pre-order/528543/lego-jurassic-world-t-rex-set-where-to-buy)
- - [After a year-long effort to get a QD-OLED monitor to burn in, one tester&#39;s results are better than you might expect but not quite perfect](https://www.pcgamer.com/hardware/gaming-monitors/after-a-year-long-effort-to-get-a-qd-oled-monitor-to-burn-in-one-testers-results-are-better-than-you-might-expect-but-not-quite-perfect/)
- - [Corsair Vengeance DDR5-8400 CUDIMM review](https://www.pcgamer.com/hardware/memory/corsair-vengeance-ddr5-8400-cudimm-review/)<!-- GAME:END -->
+ - [Free League’s Invincible RPG is coming to a tabletop near you](https://www.polygon.com/tabletop-games/528603/invincible-superhero-tabletop-rpg-kickstarter-free-league)
+ - [One educational company accuses Google&#39;s AI summary of leading to a &#39;hollowed-out information ecosystem of little use and unworthy of trust&#39; in latest lawsuit](https://www.pcgamer.com/software/ai/one-educational-company-accuses-googles-ai-summary-of-leading-to-a-hollowed-out-information-ecosystem-of-little-use-and-unworthy-of-trust-in-latest-lawsuit/)
+ - [Dungeons &amp; Dragons&#39; first post-revamp adventure book says hey, let&#39;s put some dungeons and some dragons in this thing](https://www.pcgamer.com/games/rpg/dungeons-and-dragons-first-post-revamp-adventure-book-says-hey-lets-put-some-dungeons-and-some-dragons-in-this-thing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
