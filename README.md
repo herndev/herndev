@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three years later, the Steam Deck has dominated handheld PC gaming](https://www.theverge.com/pc-gaming/618709/steam-deck-3-year-anniversary-handheld-gaming-shipments-idc)
- - [Sources: Huawei has increased its AI chip yield to nearly 40%, up from 20% about a year ago, meaning its Ascend chips are now profitable for the first time &lpar;Financial Times&rpar;](http://www.techmeme.com/250225/p13#a250225p13)
- - [Indonesia set to lift five-month iPhone 16 ban](https://appleinsider.com/articles/25/02/25/indonesia-set-to-lift-five-month-iphone-16-ban?utm_medium=rss)<!-- TECH:END -->
+ - [I never click any link on my Android phone without using this app first](https://www.androidauthority.com/urlcheck-android-3528095/)
+ - [‘Tesla Takedown’ wants to hit Elon Musk where it hurts](https://www.theverge.com/tesla/618572/tesla-takedown-wants-to-hit-elon-musk-where-it-hurts)
+ - [DeepSeek reopens API top-ups after suspending them on February 6 due to demand, as Alibaba previews its QwQ-Max model and the Chinese AI rivalry escalates &lpar;Bloomberg&rpar;](http://www.techmeme.com/250225/p18#a250225p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
