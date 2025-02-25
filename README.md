@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks up!](http://9gag.com/gag/a5Q6Bgg)
- - ⏩ [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
- - 👉 [The modern audience failed to show up again](http://9gag.com/gag/a7oOOwq)<!-- MEMES:END -->
+ - 💣 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
+ - ⏩ [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
+ - 👉 [Customer Service](http://9gag.com/gag/awy3yqD)<!-- MEMES:END -->
 
 ---
 
