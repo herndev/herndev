@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I never click any link on my Android phone without using this app first](https://www.androidauthority.com/urlcheck-android-3528095/)
- - [‘Tesla Takedown’ wants to hit Elon Musk where it hurts](https://www.theverge.com/tesla/618572/tesla-takedown-wants-to-hit-elon-musk-where-it-hurts)
- - [DeepSeek reopens API top-ups after suspending them on February 6 due to demand, as Alibaba previews its QwQ-Max model and the Chinese AI rivalry escalates &lpar;Bloomberg&rpar;](http://www.techmeme.com/250225/p18#a250225p18)<!-- TECH:END -->
+ - [After years of requests from creatives, Adobe finally brings Photoshop to iPhone](https://appleinsider.com/articles/25/02/25/after-years-of-requests-from-creatives-adobe-finally-brings-photoshop-to-iphone?utm_medium=rss)
+ - [Trello’s new update helps you manage Slack, email, and everything else](https://www.theverge.com/news/618349/trello-app-ai-inbox)
+ - [Utah, South Carolina, and at least seven other US states recently proposed bills to require app store operators to check user ages, a move supported by Meta &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250225/p20#a250225p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
