@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clicks’ BlackBerry-style keyboard case is coming to Android phones](https://www.theverge.com/news/617479/clicks-blackberry-keyboard-case-android-motorola-google-pixel-samsung-galaxy-availability)
- - [The new Beeper app combines all of Automattic’s messaging systems](https://www.theverge.com/news/619018/beeper-texts-com-combined-app-update-automattic)
- - [Galaxy Z Fold 6 and Flip 6 may be next up for One UI 7 beta](https://www.androidauthority.com/galaxy-z-fold-6-flip-6-one-ui-7-beta-3529586/)<!-- TECH:END -->
+ - [Microsoft makes Copilot Voice and Think Deeper free with unlimited use](https://www.theverge.com/news/619199/microsoft-copilot-free-unlimited-voice-think-deeper-open-ai-o1-reasoning-model-ai)
+ - [Google tweaks Android 16’s Quick Settings custom tile interface](https://www.androidauthority.com/android-16-quick-settings-tiles-3529584/)
+ - [Resignation letter: 21 DOGE staffers, who previously worked at the USDS, say they won&#39;t use their technical expertise to &quot;dismantle critical public services&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/250225/p25#a250225p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
