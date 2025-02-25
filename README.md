@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every single time...](http://9gag.com/gag/aYQEPAx)
- - ⏩ [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
- - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
+ - 💣 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - ⏩ [When god sets graphics to low](http://9gag.com/gag/aYQEOW0)
+ - 👉 [New Self defence style](http://9gag.com/gag/a9y68mL)<!-- MEMES:END -->
 
 ---
 
