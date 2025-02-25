@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
- - ⏩ [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
+ - 💣 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - ⏩ [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
+ - 👉 [Plunger Head](http://9gag.com/gag/azxd5bm)<!-- MEMES:END -->
 
 ---
 
