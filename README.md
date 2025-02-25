@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free League’s Invincible RPG is coming to a tabletop near you](https://www.polygon.com/tabletop-games/528603/invincible-superhero-tabletop-rpg-kickstarter-free-league)
- - [One educational company accuses Google&#39;s AI summary of leading to a &#39;hollowed-out information ecosystem of little use and unworthy of trust&#39; in latest lawsuit](https://www.pcgamer.com/software/ai/one-educational-company-accuses-googles-ai-summary-of-leading-to-a-hollowed-out-information-ecosystem-of-little-use-and-unworthy-of-trust-in-latest-lawsuit/)
- - [Dungeons &amp; Dragons&#39; first post-revamp adventure book says hey, let&#39;s put some dungeons and some dragons in this thing](https://www.pcgamer.com/games/rpg/dungeons-and-dragons-first-post-revamp-adventure-book-says-hey-lets-put-some-dungeons-and-some-dragons-in-this-thing/)<!-- GAME:END -->
+ - [The newest Two Point management sim is satisfying, monotonous, and punny](https://www.polygon.com/cozy-gaming/526988/two-point-museum-impressions-management-sim)
+ - [&#39;How do I know which fire is hot&#39;: Marvel Rivals players are finding it too hard to distinguish between friendly and dangerous Human Torch flames](https://www.pcgamer.com/games/third-person-shooter/how-do-i-know-which-fire-is-hot-marvel-rivals-players-are-finding-it-too-hard-to-distinguish-between-friendly-and-dangerous-human-torch-flames/)
+ - [This Year&#39;s Best Picture Nominees, Ranked By Likelihood Of Winning](https://kotaku.com/oscars-best-picture-the-brutalist-timothee-chalamet-1851765950)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
