@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Totem of Revelations piece locations in Avowed](https://www.polygon.com/avowed-guides/528933/totem-revelations-locations-pieces-all-shatterscarp)
- - [Tony Hawk’s Pro Skater 3 and 4 announcement spoiled by Singapore rating](https://www.polygon.com/news/529141/tony-hawks-pro-skater-3-4-remaster-activision-iron-galaxy-leak)
- - [Please buy me this Legend of Zelda Encyclopedia while it’s 50% off](https://www.polygon.com/good-deals/529102/legend-zelda-encyclopedia-half-off-sale-amazon)<!-- GAME:END -->
+ - [Warner Bros. closes Monolith Productions and MultiVersus studio, cancels Wonder Woman game](https://www.polygon.com/news/529310/warner-bros-games-monolith-productions-multiversus-studio-closure)
+ - [The Sims 4 is finally bringing the burglar back to the series after a decade away](https://www.pcgamer.com/games/the-sims/the-sims-4-is-finally-bringing-the-burglar-back-to-the-series-after-a-decade-away/)
+ - [The most bizarre digging game on Steam is full of love and trash](https://www.polygon.com/gaming/529170/steam-next-fest-mashina-demo-digging)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
