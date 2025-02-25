@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
- - ⏩ [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
- - 👉 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)<!-- MEMES:END -->
+ - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - ⏩ [The future is now, old man...](http://9gag.com/gag/a6ZX9Wq)
+ - 👉 [Title](http://9gag.com/gag/aqyX6Q7)<!-- MEMES:END -->
 
 ---
 
