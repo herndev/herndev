@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The quirky Alarmo clock is no longer exclusive to Nintendo’s online store](https://www.theverge.com/nintendo/618527/nintendo-alarmo-clock-how-to-buy-price-best-buy)
- - [Qualcomm just got some real competition for this year’s most affordable Android phones](https://www.androidauthority.com/mediatek-dimensity-7400-3529342/)
- - [Android phone makers now have one fewer excuse to end software updates early](https://www.androidauthority.com/qualcomm-extended-software-update-program-3529365/)<!-- TECH:END -->
+ - [Epic Games v. Apple: the fight for the future of the App Store](https://www.theverge.com/2021/4/29/22410877/epic-games-apple-app-store-antitrust-trial-lawsuit-news)
+ - [Musk&#39;s xAI Launches Grok 3: Here&#39;s What You Need to Know](https://www.cnet.com/tech/services-and-software/musks-xai-launches-grok-3-heres-what-you-need-to-know/#ftag=CAD590a51e)
+ - [How Do You Pronounce Elon Musk&#39;s Son&#39;s Name, &#39;X Æ A-12&#39;?](https://www.cnet.com/tech/how-to-pronounce-elon-musk-sons-name-x-ae-a-12-white-house-appearance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
