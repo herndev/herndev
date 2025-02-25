@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
- - ⏩ [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 👉 [New Self defence style](http://9gag.com/gag/a9y68mL)<!-- MEMES:END -->
+ - 💣 [New Self defence style](http://9gag.com/gag/a9y68mL)
+ - ⏩ [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - 👉 [Day 1 posting stuff from classic 9gag before all propaganda posts](http://9gag.com/gag/axy3bvW)<!-- MEMES:END -->
 
 ---
 
