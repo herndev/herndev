@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After years of requests from creatives, Adobe finally brings Photoshop to iPhone](https://appleinsider.com/articles/25/02/25/after-years-of-requests-from-creatives-adobe-finally-brings-photoshop-to-iphone?utm_medium=rss)
- - [Trello’s new update helps you manage Slack, email, and everything else](https://www.theverge.com/news/618349/trello-app-ai-inbox)
- - [Utah, South Carolina, and at least seven other US states recently proposed bills to require app store operators to check user ages, a move supported by Meta &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250225/p20#a250225p20)<!-- TECH:END -->
+ - [The future of the internet is likely smaller communities, with a focus on curated experiences](https://www.theverge.com/press-room/617654/internet-community-future-research)
+ - [Panasonic’s Lumix S1RII full-frame camera captures 8K video](https://www.theverge.com/news/618877/panasonic-lumix-s1rii-full-frame-camera-8k-video)
+ - [Apple AirTag 4-pack falls to $67.99, lowest price of 2025](https://appleinsider.com/articles/25/02/25/apple-airtag-4-pack-falls-to-6799-lowest-price-of-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
