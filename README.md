@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nemesis System Was One Of The Best Things Gaming Ever Did And WB Just Killed It](https://kotaku.com/monolith-productions-middle-earth-nemesis-system-patent-1851766437)
- - [Yes, Your Grace: Snowfall is going to put my conscience in mortal peril](https://www.polygon.com/gaming/529142/steam-next-fest-yes-your-grace-snowfall-demo)
- - [I Wish More People Could Experience This Incredible Shovel Knight Concert](https://kotaku.com/shovel-knight-live-steel-thy-concert-nyc-la-dates-1851766428)<!-- GAME:END -->
+ - [The Harry Potter TV series has found its Dumbledore](https://www.polygon.com/tv/529444/harry-potter-series-dumbledore-show-john-lithgow)
+ - [Monster Hunter Wilds&#39; new cooking system is a win for balance, but there&#39;s a Meowscular Chef-shaped hole in my heart](https://www.pcgamer.com/games/action/monster-hunter-wilds-new-cooking-system-is-a-win-for-balance-but-theres-a-meowscular-chef-shaped-hole-in-my-heart/)
+ - [The burglar returns to The Sims 4 after a decade of fan demand](https://www.polygon.com/cozy-gaming/529436/the-sims-4-burglar-free-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
