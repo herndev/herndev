@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Powerplay 2: Logitech made its magic mousepad cheaper instead of better](https://www.theverge.com/news/618616/logitech-powerplay-2-wireless-mousepad-charger-price-release-date)
- - [Q&amp;A with Vimeo CEO Philip Moyer on going back to its roots as a YouTube rival, TikTok, incentives of algorithmic video platforms, AI video not taking off, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250225/p5#a250225p5)
- - [Google Messages will soon tell you exactly what happened to that sent message](https://www.androidauthority.com/google-messages-view-details-apk-teardown-3529412/)<!-- TECH:END -->
+ - [Microsoft is testing free Office for Windows apps with ads](https://www.theverge.com/news/618278/microsoft-office-free-windows-apps-ad-supported-version)
+ - [Want a free Galaxy A35? Today’s your lucky day, but you need to act fast](https://www.androidauthority.com/metro-t-mobile-tuesday-free-galaxy-a35-3529445/)
+ - [CoinGecko: crypto trading volume on India&#39;s four largest exchanges more than doubled QoQ to $1.9B in Q4 2024, as many young Indians trade to supplement income &lpar;Jaspreet Kalra/Reuters&rpar;](http://www.techmeme.com/250225/p6#a250225p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
