@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The newest Two Point management sim is satisfying, monotonous, and punny](https://www.polygon.com/cozy-gaming/526988/two-point-museum-impressions-management-sim)
- - [&#39;How do I know which fire is hot&#39;: Marvel Rivals players are finding it too hard to distinguish between friendly and dangerous Human Torch flames](https://www.pcgamer.com/games/third-person-shooter/how-do-i-know-which-fire-is-hot-marvel-rivals-players-are-finding-it-too-hard-to-distinguish-between-friendly-and-dangerous-human-torch-flames/)
- - [This Year&#39;s Best Picture Nominees, Ranked By Likelihood Of Winning](https://kotaku.com/oscars-best-picture-the-brutalist-timothee-chalamet-1851765950)<!-- GAME:END -->
+ - [The War Within’s first patch is a goblin paradise packed full of fun details](https://www.polygon.com/gaming/528545/world-warcraft-undermined-patch-dev-interview)
+ - [Metal Gear Solid Delta: Snake Eater system requirements are here, and it&#39;s yet another game that requires an RTX graphics card and tonnes of free storage to play](https://www.pcgamer.com/hardware/metal-gear-solid-delta-snake-eater-system-requirements-are-here-and-its-yet-another-game-that-requires-an-rtx-graphics-card-and-tonnes-of-free-storage-to-play/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
