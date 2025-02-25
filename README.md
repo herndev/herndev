@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warner Bros. closes Monolith Productions and MultiVersus studio, cancels Wonder Woman game](https://www.polygon.com/news/529310/warner-bros-games-monolith-productions-multiversus-studio-closure)
- - [The Sims 4 is finally bringing the burglar back to the series after a decade away](https://www.pcgamer.com/games/the-sims/the-sims-4-is-finally-bringing-the-burglar-back-to-the-series-after-a-decade-away/)
- - [The most bizarre digging game on Steam is full of love and trash](https://www.polygon.com/gaming/529170/steam-next-fest-mashina-demo-digging)<!-- GAME:END -->
+ - [The Nemesis System Was One Of The Best Things Gaming Ever Did And WB Just Killed It](https://kotaku.com/monolith-productions-middle-earth-nemesis-system-patent-1851766437)
+ - [Yes, Your Grace: Snowfall is going to put my conscience in mortal peril](https://www.polygon.com/gaming/529142/steam-next-fest-yes-your-grace-snowfall-demo)
+ - [I Wish More People Could Experience This Incredible Shovel Knight Concert](https://kotaku.com/shovel-knight-live-steel-thy-concert-nyc-la-dates-1851766428)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
