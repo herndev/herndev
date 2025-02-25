@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does the TMNT event start in Black Ops 6?](https://www.polygon.com/black-ops-6-guides/528125/tmnt-event-release-date-time-start-est-pst)
- - [Jon Bernthal’s Punisher will return in his own solo special](https://www.polygon.com/marvel/528978/punisher-disney-plus-special-jon-bernthal)
- - [Studio Behind Acclaimed Silent Hill 2 Remake Reveals It&#39;s Working On A New Mystery Game](https://kotaku.com/bloober-konami-silent-hill-metal-gear-castlevania-1851766343)<!-- GAME:END -->
+ - [Xbox February Update: Send Invite Links, Cloud Gaming Updates, and More](https://news.xbox.com/en-us/2025/02/25/xbox-february-update-invite-links-cloud-gaming-update/)
+ - [The Callisto Protocol studio lays off more employees, but &#39;remains operational&#39;](https://www.pcgamer.com/gaming-industry/the-callisto-protocol-studio-lays-off-more-employees-but-remains-operational/)
+ - [Fights in Tight Spaces and 5 other great deck builders are $20 at Humble](https://www.polygon.com/good-deals/528534/humble-deckbuilder-games-bundle-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
