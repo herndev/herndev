@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
- - ⏩ [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
- - 👉 [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)<!-- MEMES:END -->
+ - 💣 [Well women wanted it](http://9gag.com/gag/aE06V39)
+ - ⏩ [That star wars play tho..](http://9gag.com/gag/azxdPVq)
+ - 👉 [Title](http://9gag.com/gag/aqyX6Q7)<!-- MEMES:END -->
 
 ---
 
