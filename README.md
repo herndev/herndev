@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atlassian updates Trello with a new Inbox feature integrating tasks from email, Slack, Jira, and Siri, currently in beta and rolling out to all users in April &lpar;JR Raphael/Fast Company&rpar;](http://www.techmeme.com/250225/p51#a250225p51)
- - [After backlash, YC deletes a demo video from X and LinkedIn of a startup it backs that says it&#39;s building AI-powered performance monitoring for factory workers &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250225/p50#a250225p50)
- - [Apple&#39;s smart doorbell to utilize MagSafe, ring AirPods Pro](https://appleinsider.com/articles/25/02/25/apples-smart-doorbell-to-utilize-magsafe-ring-airpods-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
+ - [Razer’s new Blade 18 offers Nvidia RTX 50-series GPUs and a dual mode display](https://www.theverge.com/news/619052/razer-blade-18-nvidia-rtx-5090-gaming-laptop-preorder-asus-msi)
+ - [Sources: Meta is in talks to build a new data center campus for AI that could cost over $200B, based on the number of chips and the amount of power for the site &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250225/p55#a250225p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
