@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Excellent throwback mod Team Fortress 2 Classic is coming to Steam later this year](https://www.pcgamer.com/games/fps/excellent-throwback-mod-team-fortress-2-classic-is-coming-to-steam-later-this-year/)
- - [Pokémon Go ‘A Dazzling Aria’ Masterwork Research tasks and rewards so far](https://www.polygon.com/pokemon-go-guide/528116/a-dazzling-aria-masterwork-research-shiny-meloetta)
- - [Pokémon Go ‘Road to Unova’ event guide](https://www.polygon.com/pokemon-go-guide/528423/road-to-unova-timed-research-premium-free-worth-it)<!-- GAME:END -->
+ - [Tsui Hark’s stylish new movie puts a wuxia king back on his throne](https://www.polygon.com/movies/529139/legends-condor-heroes-gallants-movie-tsui-hark-wuxia)
+ - [Gran Turismo 7 update 1.56 available today](https://blog.playstation.com/2025/02/26/gran-turismo-7-update-1-56-available-today/)
+ - [RTX 50-series black screen issues should finally be fixed this week in an official Nvidia driver update](https://www.pcgamer.com/hardware/graphics-cards/rtx-50-series-black-screen-issues-should-finally-be-fixed-this-week-in-an-official-nvidia-driver-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
