@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it completed a multi-year project, the EU Data Boundary for the Microsoft Cloud, to let Europe-based cloud customers store and process data in EU &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250226/p34#a250226p34)
- - [Pixel phones are close to getting real-time scam detection for calls and texts](https://www.androidauthority.com/pixel-scam-detect-coming-3530018/)
- - [Boston Dynamics Led a Robot Revolution. Now Its Machines Are Teaching Themselves New Tricks](https://www.wired.com/story/boston-dynamics-led-a-robot-revolution-now-its-machines-are-teaching-themselves-new-tricks/)<!-- TECH:END -->
+ - [Amazon launches Alexa+ as Siri advancements drag on](https://appleinsider.com/articles/25/02/26/amazon-launches-alexa-as-siri-advancements-drag-on?utm_medium=rss)
+ - [Google says it received FDA clearance for the Pixel Watch 3&#39;s Loss of Pulse Detection feature, available in the EU and rolling out in the US at the end of March &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250226/p35#a250226p35)
+ - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
