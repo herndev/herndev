@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Road to Unova’ event guide](https://www.polygon.com/pokemon-go-guide/528423/road-to-unova-timed-research-premium-free-worth-it)
- - [Today&#39;s Wordle answer for Wednesday, February 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-26-2025/)
- - [I thought Pirate Yakuza in Hawaii would burn me out on the Like a Dragon series, but now I know that&#39;s never going to happen](https://www.pcgamer.com/games/action/i-thought-pirate-yakuza-in-hawaii-would-burn-me-out-on-the-like-a-dragon-series-but-now-i-know-thats-never-going-to-happen/)<!-- GAME:END -->
+ - [Excellent throwback mod Team Fortress 2 Classic is coming to Steam later this year](https://www.pcgamer.com/games/fps/excellent-throwback-mod-team-fortress-2-classic-is-coming-to-steam-later-this-year/)
+ - [Pokémon Go ‘A Dazzling Aria’ Masterwork Research tasks and rewards so far](https://www.polygon.com/pokemon-go-guide/528116/a-dazzling-aria-masterwork-research-shiny-meloetta)
+ - [Pokémon Go ‘Road to Unova’ event guide](https://www.polygon.com/pokemon-go-guide/528423/road-to-unova-timed-research-premium-free-worth-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
