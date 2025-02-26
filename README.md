@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Living with extreme heat might make you age faster](https://www.theverge.com/news/620069/heat-aging-health-climate-change-study)
- - [Snowflake reports Q4 product revenue up 28% YoY to $943.3M, vs. $915.8M est., and forecasts FY 2026 product revenue above estimates; SNOW jumps 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250226/p40#a250226p40)
- - [DOGE Staffers at HUD Are From an AI Real Estate Firm and a Mobile Home Operator](https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/)<!-- TECH:END -->
+ - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
+ - [Meta&#39;s Oversight Board says it will weigh in on Meta&#39;s hate speech policies, changed before Trump&#39;s inauguration, in a test of the enforceability of its powers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250226/p43#a250226p43)
+ - [The latest on the WordPress fight over trademarks and open source](https://www.theverge.com/2024/10/4/24262410/wordpress-fight-trademarks-open-source-mullenweg)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
