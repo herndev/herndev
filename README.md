@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is it true?](http://9gag.com/gag/a6ZXpKN)
- - ⏩ [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
- - 👉 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)<!-- MEMES:END -->
+ - 💣 [Yes, but...](http://9gag.com/gag/aKGAYVg)
+ - ⏩ [This will probably get lost in Fresh, but I just wanted to share with you guys that I finally published my first book](http://9gag.com/gag/a9y6256)
+ - 👉 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)<!-- MEMES:END -->
 
 ---
 
