@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes, but...](http://9gag.com/gag/aKGAYVg)
- - ⏩ [Best comment](http://9gag.com/gag/avy1vdE)
- - 👉 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)<!-- MEMES:END -->
+ - 💣 [Taking advantage of people for clout](http://9gag.com/gag/awy316D)
+ - ⏩ [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
+ - 👉 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)<!-- MEMES:END -->
 
 ---
 
