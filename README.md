@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - ⏩ [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
- - 👉 [Father of epidermolysis- bullosa son answers question related to his son\u2019s condition](http://9gag.com/gag/ae91Zop)<!-- MEMES:END -->
+ - 💣 [Thief alert](http://9gag.com/gag/aND9Q0A)
+ - ⏩ [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
+ - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
 
 ---
 
