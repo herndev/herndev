@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Max’s ad-supported tier is losing CNN and the Bleacher Report](https://www.theverge.com/hbo/619939/max-cnn-bleacher-report-leaving-basic-ad-supported-tier)
- - [Streaming services keep getting more expensive: all the latest price increases](https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max)
- - [iPhone 16e focuses on real needs for regular people](https://appleinsider.com/articles/25/02/26/iphone-16e-focuses-on-real-needs-for-regular-people?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft says it completed a multi-year project, the EU Data Boundary for the Microsoft Cloud, to let Europe-based cloud customers store and process data in EU &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250226/p34#a250226p34)
+ - [Pixel phones are close to getting real-time scam detection for calls and texts](https://www.androidauthority.com/pixel-scam-detect-coming-3530018/)
+ - [Boston Dynamics Led a Robot Revolution. Now Its Machines Are Teaching Themselves New Tricks](https://www.wired.com/story/boston-dynamics-led-a-robot-revolution-now-its-machines-are-teaching-themselves-new-tricks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
