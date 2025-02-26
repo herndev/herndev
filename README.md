@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches Alexa+ as Siri advancements drag on](https://appleinsider.com/articles/25/02/26/amazon-launches-alexa-as-siri-advancements-drag-on?utm_medium=rss)
- - [Google says it received FDA clearance for the Pixel Watch 3&#39;s Loss of Pulse Detection feature, available in the EU and rolling out in the US at the end of March &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250226/p35#a250226p35)
- - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)<!-- TECH:END -->
+ - [Kick off Pokémon Day 2025 with this gorgeous short film](https://www.theverge.com/news/618887/dragonite-and-the-special-delivery-pokemon-day-2025)
+ - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
+ - [Max just spared its users an extra $10 fee for watching live sports and news, but there’s a catch](https://www.androidauthority.com/max-sports-add-on-free-3530201/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
