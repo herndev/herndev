@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
- - ⏩ [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
+ - 💣 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
+ - ⏩ [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 👉 [Found this at the gym,](http://9gag.com/gag/a1mN556)<!-- MEMES:END -->
 
 ---
 
