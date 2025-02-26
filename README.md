@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Access Now: 54 countries imposed internet shutdowns at least 296 times in 2024, led by Myanmar, displacing India from the top spot for the first time since 2018 &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250226/p2#a250226p2)
- - [Documents and source: Indonesian agritech eFishery misrepresented financial figures for years; backers like SoftBank likely to recover under 10% of investments &lpar;Bloomberg&rpar;](http://www.techmeme.com/250226/p1#a250226p1)
- - [How to fix an incessant &#39;X is accessing your screen&#39; bug in macOS Sequoia](https://appleinsider.com/articles/25/02/26/how-to-fix-an-incessant-x-is-accessing-your-screen-bug-in-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: DeepSeek, which planned to release R2 in May, now wants it out as early as possible; DeepSeek&#39;s owner High-Flyer built a ~10K A100 GPU cluster in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250226/p5#a250226p5)
+ - [Analysts expect Amazon to spend up to $25B of its $100B capex in 2025 on its retail network, focusing on automation and efficiency, amid the AI spending boom &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250226/p4#a250226p4)
+ - [H&amp;R Block Coupons and Deals: 20% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
