@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Snowball activates self-driving car](http://9gag.com/gag/aPAm87G)
- - ⏩ [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
- - 👉 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)<!-- MEMES:END -->
+ - 💣 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - ⏩ [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)
+ - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
 
 ---
 
