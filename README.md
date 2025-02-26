@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taking advantage of people for clout](http://9gag.com/gag/awy316D)
- - ⏩ [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - 👉 [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)<!-- MEMES:END -->
+ - 💣 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
+ - ⏩ [Found this at the gym,](http://9gag.com/gag/a1mN556)
+ - 👉 [Where is the party](http://9gag.com/gag/aZZ185V)<!-- MEMES:END -->
 
 ---
 
