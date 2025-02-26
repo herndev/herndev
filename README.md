@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - ⏩ [I don\u2019t necessarily agree, but I 100% understand.](http://9gag.com/gag/azxdKGp)
- - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
+ - 💣 [Is it true?](http://9gag.com/gag/a6ZXpKN)
+ - ⏩ [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
+ - 👉 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)<!-- MEMES:END -->
 
 ---
 
