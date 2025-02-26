@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Comic Book Writer Says Unfinished Wonder Woman Game Was &#39;Gorgeous And Expansive&#39;](https://kotaku.com/wonder-woman-game-canceled-gail-simone-monolith-1851766545)
- - [Ella Purnell dreads being typecast for her &#39;poop finger&#39; in Fallout: &#39;This finger is the bane of my life&#39;](https://www.pcgamer.com/games/fallout/ella-purnell-dreads-being-typecast-for-her-poop-finger-in-fallout-this-finger-is-the-bane-of-my-life/)
- - [Inzoi&#39;s wild karma system can turn cities into literal ghost towns that you have to cleanse, game director says: &#39;If too many ghosts appear in the city, new Zois cannot be born&#39;](https://www.pcgamer.com/games/life-sim/inzois-wild-karma-system-can-turn-cities-into-literal-ghost-towns-that-you-have-to-cleanse-game-director-says-if-too-many-ghosts-appear-in-the-city-new-zois-cannot-be-born/)<!-- GAME:END -->
+ - [The Expanse’s first three books are just $27 on Amazon](https://www.polygon.com/books/529790/expanses-first-three-books-sale-amazon)
+ - [This &#39;overwhelmingly positive&#39; Steam Next Fest autobattler demo feels like someone bolted a Path of Exile-style map onto Halls of Torment, and I fear for my future productivity](https://www.pcgamer.com/games/action/this-overwhelmingly-positive-steam-next-fest-autobattler-demo-feels-like-someone-bolted-a-path-of-exile-style-map-onto-halls-of-torment-and-i-fear-for-my-future-productivity/)
+ - [Honkai: Star Rail codes for February 2025](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
