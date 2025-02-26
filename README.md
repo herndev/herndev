@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thief alert](http://9gag.com/gag/aND9Q0A)
- - ⏩ [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
- - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
+ - 💣 [Jesse is high again](http://9gag.com/gag/aGyn8ow)
+ - ⏩ [New Self defence style](http://9gag.com/gag/a9y68mL)
+ - 👉 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)<!-- MEMES:END -->
 
 ---
 
