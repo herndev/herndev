@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
- - ⏩ [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
+ - 💣 [OSHA approved](http://9gag.com/gag/a7oO0dr)
+ - ⏩ [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 👉 [How to starve a croc](http://9gag.com/gag/aVvoKKK)<!-- MEMES:END -->
 
 ---
 
