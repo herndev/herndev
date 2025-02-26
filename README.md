@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Day 1 posting stuff from classic 9gag before all propaganda posts](http://9gag.com/gag/axy3bvW)
- - ⏩ [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
- - 👉 [I hope all understand](http://9gag.com/gag/a9y6mrD)<!-- MEMES:END -->
+ - 💣 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
+ - ⏩ [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
+ - 👉 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)<!-- MEMES:END -->
 
 ---
 
