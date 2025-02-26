@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube will show fewer mid-roll ads that interrupt sentences or action sequences, and more ads at &quot;natural break points&quot; like transitions, starting May 12 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250225/p45#a250225p45)
- - [A Twitch channel called Claude Plays Pok&amp;eacute;mon is streaming Claude 3.7 Sonnet using its reasoning capabilities to play a game of Pok&amp;eacute;mon Red &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250225/p46#a250225p46)
- - [Coupang reports Q4 revenue up 21% YoY to $7.97B, vs. $8.08B est., and operating income of $312M, vs. $167.8M est.; CPNG jumps 5%+ after hours &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250225/p44#a250225p44)<!-- TECH:END -->
+ - [Atlassian updates Trello with a new Inbox feature integrating tasks from email, Slack, Jira, and Siri, currently in beta and rolling out to all users in April &lpar;JR Raphael/Fast Company&rpar;](http://www.techmeme.com/250225/p51#a250225p51)
+ - [After backlash, YC deletes a demo video from X and LinkedIn of a startup it backs that says it&#39;s building AI-powered performance monitoring for factory workers &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250225/p50#a250225p50)
+ - [Apple&#39;s smart doorbell to utilize MagSafe, ring AirPods Pro](https://appleinsider.com/articles/25/02/25/apples-smart-doorbell-to-utilize-magsafe-ring-airpods-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
