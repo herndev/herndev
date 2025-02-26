@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
- - ⏩ [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
- - 👉 [Close range explosion and shock wave \ud83d\udca8](http://9gag.com/gag/a876DN1)<!-- MEMES:END -->
+ - 💣 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
+ - ⏩ [Is it true?](http://9gag.com/gag/a6ZXpKN)
+ - 👉 [Execute order 66!](http://9gag.com/gag/ary3qWB)<!-- MEMES:END -->
 
 ---
 
