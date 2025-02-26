@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kick off Pokémon Day 2025 with this gorgeous short film](https://www.theverge.com/news/618887/dragonite-and-the-special-delivery-pokemon-day-2025)
- - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
- - [Max just spared its users an extra $10 fee for watching live sports and news, but there’s a catch](https://www.androidauthority.com/max-sports-add-on-free-3530201/)<!-- TECH:END -->
+ - [Living with extreme heat might make you age faster](https://www.theverge.com/news/620069/heat-aging-health-climate-change-study)
+ - [Snowflake reports Q4 product revenue up 28% YoY to $943.3M, vs. $915.8M est., and forecasts FY 2026 product revenue above estimates; SNOW jumps 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250226/p40#a250226p40)
+ - [DOGE Staffers at HUD Are From an AI Real Estate Firm and a Mobile Home Operator](https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
