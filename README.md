@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More than 1 billion people are now watching podcasts on YouTube every month](https://www.theverge.com/news/619720/youtube-podcasts-one-billion-monthly-views)
- - [DeepSeek cuts API prices in off-peak times, between 00:30 and 08:30 in Beijing, by 75% for R1 and 50% for V3; the times are during US and Europe daylight hours &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250226/p21#a250226p21)
- - [The latest Moto G gets rid of a lot of bloatware, and I love it](https://www.androidauthority.com/motorola-moto-g-5g-bloatware-3528262/)<!-- TECH:END -->
+ - [A live blog of Amazon&#39;s Alexa event, where the company is expected to announce its new AI-powered Alexa, a new Fire TV platform, and more &lpar;The Verge&rpar;](http://www.techmeme.com/250226/p26#a250226p26)
+ - [Lucid’s CEO steps down, as EV maker aims to double production](https://www.theverge.com/news/619760/lucid-ceo-step-down-double-production)
+ - [Amazon Alexa event live blog: all the news from the keynote](https://www.theverge.com/news/618261/amazon-alexa-event-live-blog-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
