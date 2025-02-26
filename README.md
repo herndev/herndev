@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - ⏩ [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
+ - 💣 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - ⏩ [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)
+ - 👉 [I have seen this story before](http://9gag.com/gag/aKGAv4b)<!-- MEMES:END -->
 
 ---
 
