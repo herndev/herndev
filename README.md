@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Undermine&lpar;d&rpar;: How World of Warcraft’s New Update Added Driveable &lpar;and Driftable&rpar; Vehicles](https://news.xbox.com/en-us/2025/02/26/undermined-world-of-warcraft-update-vehicles/)
- - [How to get free Volt Fusion Energy and Blaze Fusion Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/529265/free-volt-blaze-fusion-energy-codes-redeem)
- - [8Bitdo wants you to fall in love with its latest controller](https://www.polygon.com/deals/529745/8bitdo-ultimate-2-wireless-controller-where-to-buy)<!-- GAME:END -->
+ - [Here’s a 10-minute video about the making of The Witcher 4’s 6-minute reveal trailer](https://www.polygon.com/the-witcher/529842/witcher-4-trailer-behind-scenes)
+ - [D&amp;#038;D’s first anthology for the revised 5e has a bright philosophy fueling its awesome art](https://www.polygon.com/dnd-dungeons-dragons/529154/dragon-delves-anthology-alternate-cover-art)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
