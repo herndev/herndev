@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro&#39;s ready to walk in Berlin or London](http://9gag.com/gag/aVvoVOK)
- - ⏩ [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
+ - 💣 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
+ - ⏩ [Graphic representation of Morse code](http://9gag.com/gag/avy1dnO)
  - 👉 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)<!-- MEMES:END -->
 
 ---
