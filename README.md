@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve expands Steam&#39;s Daily Deals program from 4 games to 6, also explains what Steam&#39;s Daily Deals program is](https://www.pcgamer.com/gaming-industry/valve-expands-steams-daily-deals-program-from-4-games-to-6-also-explains-what-steams-daily-deals-program-is/)
- - [Elden Ring Is Definitely Not An RPG: A Kotaku Debate](https://kotaku.com/is-elden-ring-rpg-action-adventure-genre-debate-kotaku-1851766667)
- - [What time do Cowboy Bebop skins release in Fortnite?](https://www.polygon.com/fortnite-guide/527333/cowboy-bebop-skins-release-date-time)<!-- GAME:END -->
+ - [A pair of legendary Star Wars titles are free on the Epic Games Store](https://www.polygon.com/good-deals/530060/star-wars-knights-of-the-old-republic-kotor-mobile-free-epic)
+ - [Marvel Rivals turns Moon Knight’s meme feud with Dracula into actual beef](https://www.polygon.com/news/530155/marvel-rivals-moon-knight-dracula-meme)
+ - [Valve expands Steam&#39;s Daily Deals program from 4 games to 6, also explains what Steam&#39;s Daily Deals program is](https://www.pcgamer.com/gaming-industry/valve-expands-steams-daily-deals-program-from-4-games-to-6-also-explains-what-steams-daily-deals-program-is/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
