@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - ⏩ [New Self defence style](http://9gag.com/gag/a9y68mL)
- - 👉 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)<!-- MEMES:END -->
+ - 💣 [Snowball activates self-driving car](http://9gag.com/gag/aPAm87G)
+ - ⏩ [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
+ - 👉 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)<!-- MEMES:END -->
 
 ---
 
