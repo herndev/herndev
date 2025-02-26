@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jesse is high again](http://9gag.com/gag/aGyn8ow)
- - ⏩ [New Self defence style](http://9gag.com/gag/a9y68mL)
- - 👉 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)<!-- MEMES:END -->
+ - 💣 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
+ - ⏩ [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
+ - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
 
 ---
 
