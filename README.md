@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - ⏩ [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)
- - 👉 [I have seen this story before](http://9gag.com/gag/aKGAv4b)<!-- MEMES:END -->
+ - 💣 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - ⏩ [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
+ - 👉 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)<!-- MEMES:END -->
 
 ---
 
