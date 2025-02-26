@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go ‘Road to Unova’ event guide](https://www.polygon.com/pokemon-go-guide/528423/road-to-unova-timed-research-premium-free-worth-it)
  - [Today&#39;s Wordle answer for Wednesday, February 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-26-2025/)
- - [I thought Pirate Yakuza in Hawaii would burn me out on the Like a Dragon series, but now I know that&#39;s never going to happen](https://www.pcgamer.com/games/action/i-thought-pirate-yakuza-in-hawaii-would-burn-me-out-on-the-like-a-dragon-series-but-now-i-know-thats-never-going-to-happen/)
- - [Bruins center Matt Poitras prefers to play left defense in NHL 25](https://www.polygon.com/q-and-a/528675/bruins-matt-poitras-video-games-nhl-25)<!-- GAME:END -->
+ - [I thought Pirate Yakuza in Hawaii would burn me out on the Like a Dragon series, but now I know that&#39;s never going to happen](https://www.pcgamer.com/games/action/i-thought-pirate-yakuza-in-hawaii-would-burn-me-out-on-the-like-a-dragon-series-but-now-i-know-thats-never-going-to-happen/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
