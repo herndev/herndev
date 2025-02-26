@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mira Murati&#39;s new startup, Thinking Machines Lab, is aiming to raise $1B at a ~$9B valuation; the round is in progress and details could change &lpar;Business Insider&rpar;](http://www.techmeme.com/250225/p57#a250225p57)
  - [Valve&#39;s Steam Deck, launched in 2022, has been dominating the handheld PC gaming market, with about 50% market share in 2024, according to IDC &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250225/p56#a250225p56)
- - [‘We&amp;#8217;re nowhere near done with Framework Laptop 16’ says Framework CEO](https://www.theverge.com/news/619586/framework-laptop-16-update-one-key-but-not-done)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)<!-- TECH:END -->
+ - [‘We&amp;#8217;re nowhere near done with Framework Laptop 16’ says Framework CEO](https://www.theverge.com/news/619586/framework-laptop-16-update-one-key-but-not-done)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
