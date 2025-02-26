@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT is a terrible, fascinating, and thrilling to-do list app](https://www.theverge.com/openai/619352/chatgpt-tasks-operator-productivity)
- - [Apple&#39;s folding iPhone screen may not be plagued with a crease after use](https://appleinsider.com/articles/25/02/26/apples-folding-iphone-screen-may-not-be-plagued-with-a-crease-after-use?utm_medium=rss)
- - [Estonia partners with OpenAI and Anthropic to launch an AI skills drive in schools for 20,000 students aged 16 and 17, aiming to help develop critical thinking &lpar;Financial Times&rpar;](http://www.techmeme.com/250226/p20#a250226p20)<!-- TECH:END -->
+ - [More than 1 billion people are now watching podcasts on YouTube every month](https://www.theverge.com/news/619720/youtube-podcasts-one-billion-monthly-views)
+ - [DeepSeek cuts API prices in off-peak times, between 00:30 and 08:30 in Beijing, by 75% for R1 and 50% for V3; the times are during US and Europe daylight hours &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250226/p21#a250226p21)
+ - [The latest Moto G gets rid of a lot of bloatware, and I love it](https://www.androidauthority.com/motorola-moto-g-5g-bloatware-3528262/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
