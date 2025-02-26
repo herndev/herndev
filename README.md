@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot walks back unpopular League of Legends changes: Hextech Chests are coming back, and the Blue Essence cost for new champions will be cut in half](https://www.pcgamer.com/games/moba/riot-walks-back-unpopular-league-of-legends-changes-hextech-chests-are-coming-back-and-the-blue-essence-cost-for-new-champions-will-be-cut-in-half/)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Bungie’s lawyers have to use fan videos of old Destiny 2 content in court because, well, it doesn&#39;t exist in-game anymore](https://www.pcgamer.com/games/action/bungies-lawyers-have-to-use-fan-videos-of-old-destiny-2-content-in-court-because-well-it-doesnt-exist-in-game-anymore/)<!-- GAME:END -->
+ - [Valve expands Steam&#39;s Daily Deals program from 4 games to 6, also explains what Steam&#39;s Daily Deals program is](https://www.pcgamer.com/gaming-industry/valve-expands-steams-daily-deals-program-from-4-games-to-6-also-explains-what-steams-daily-deals-program-is/)
+ - [Elden Ring Is Definitely Not An RPG: A Kotaku Debate](https://kotaku.com/is-elden-ring-rpg-action-adventure-genre-debate-kotaku-1851766667)
+ - [What time do Cowboy Bebop skins release in Fortnite?](https://www.polygon.com/fortnite-guide/527333/cowboy-bebop-skins-release-date-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
