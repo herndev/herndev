@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tsui Hark’s stylish new movie puts a wuxia king back on his throne](https://www.polygon.com/movies/529139/legends-condor-heroes-gallants-movie-tsui-hark-wuxia)
- - [Gran Turismo 7 update 1.56 available today](https://blog.playstation.com/2025/02/26/gran-turismo-7-update-1-56-available-today/)
- - [RTX 50-series black screen issues should finally be fixed this week in an official Nvidia driver update](https://www.pcgamer.com/hardware/graphics-cards/rtx-50-series-black-screen-issues-should-finally-be-fixed-this-week-in-an-official-nvidia-driver-update/)<!-- GAME:END -->
+ - [An abandoned Legacy of Kain sequel put Sam Barlow on the path to Her Story](https://www.polygon.com/videos/527216/sam-barlow-legacy-of-kain-her-story)
+ - [We&#39;ve tested the battery life of over 40 gaming laptops and here&#39;s how they stack up](https://www.pcgamer.com/hardware/gaming-laptops/weve-tested-the-battery-life-of-over-40-gaming-laptops-and-heres-how-they-stack-up/)
+ - [One of Monster Hunter Wilds&#39; most pleasant surprises is just how much my Hunter yaps](https://www.pcgamer.com/games/action/one-of-monster-hunter-wilds-most-pleasant-surprises-is-just-how-much-my-hunter-yaps/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
