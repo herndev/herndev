@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An abandoned Legacy of Kain sequel put Sam Barlow on the path to Her Story](https://www.polygon.com/videos/527216/sam-barlow-legacy-of-kain-her-story)
- - [We&#39;ve tested the battery life of over 40 gaming laptops and here&#39;s how they stack up](https://www.pcgamer.com/hardware/gaming-laptops/weve-tested-the-battery-life-of-over-40-gaming-laptops-and-heres-how-they-stack-up/)
- - [One of Monster Hunter Wilds&#39; most pleasant surprises is just how much my Hunter yaps](https://www.pcgamer.com/games/action/one-of-monster-hunter-wilds-most-pleasant-surprises-is-just-how-much-my-hunter-yaps/)<!-- GAME:END -->
+ - [Your next chance to secure an RTX 50-series graphics card at launch could be a 16 GB variant of the RTX 5060 Ti next month](https://www.pcgamer.com/hardware/graphics-cards/your-next-chance-to-secure-an-rtx-50-series-graphics-card-at-launch-could-be-a-16-gb-variant-of-the-rtx-5060-ti-next-month/)
+ - [China taunts Taiwan with claim that chip foundry TSMC could soon become &#39;USSMC&#39; or the &#39;United States Semiconductor Manufacturing Co.&#39;](https://www.pcgamer.com/hardware/china-taunts-taiwan-with-claim-that-chip-foundry-tsmc-could-soon-become-ussmc-or-the-united-states-semiconductor-manufacturing-co/)
+ - [Avowed: Should You Trust The Voice In Your Head?](https://kotaku.com/avowed-the-voice-in-your-head-trust-it-guide-rpg-1851766500)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
