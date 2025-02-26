@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Expanse’s first three books are just $27 on Amazon](https://www.polygon.com/books/529790/expanses-first-three-books-sale-amazon)
- - [This &#39;overwhelmingly positive&#39; Steam Next Fest autobattler demo feels like someone bolted a Path of Exile-style map onto Halls of Torment, and I fear for my future productivity](https://www.pcgamer.com/games/action/this-overwhelmingly-positive-steam-next-fest-autobattler-demo-feels-like-someone-bolted-a-path-of-exile-style-map-onto-halls-of-torment-and-i-fear-for-my-future-productivity/)
- - [Honkai: Star Rail codes for February 2025](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
+ - [Indie Selects for February: Fill Your Hearts &lpar;and Game Libraries&rpar; with Joy](https://news.xbox.com/en-us/2025/02/26/indie-selects-february-2025-id-xbox/)
+ - [Following Monolith&#39;s shock closure, GOG is offering 90% off its 2005 shooter FEAR and accelerating the game&#39;s preservation to recognise its doomed developer&#39;s &#39;contribution to gaming&#39;](https://www.pcgamer.com/games/fps/following-monoliths-shock-closure-gog-is-offering-90-percent-off-its-2005-shooter-fear-and-accelerating-the-games-preservation-to-recognise-its-doomed-developers-contribution-to-gaming/)
+ - [What time does Monster Hunter Wilds release?](https://www.polygon.com/monster-hunter-wilds-guide/529718/release-time-date-preload-est-pst-gmt-cet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
