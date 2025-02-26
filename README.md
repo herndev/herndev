@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: 92% of UK undergrad students use AI to help them with their studies, up from 66% a year ago, raising questions about how universities assess their work &lpar;Financial Times&rpar;](http://www.techmeme.com/250226/p8#a250226p8)
- - [Samsung confirms new Galaxy A series phones are coming next week](https://www.androidauthority.com/samsung-galaxy-a-series-launch-details-3529891/)
- - [Volvo ES90 will charge faster, drive farther than other Volvo EVs](https://www.theverge.com/news/619345/volvo-es90-range-battery-charging-ev-voltage)<!-- TECH:END -->
+ - [The American Psychological Association warns the US FTC that AI chatbots &quot;masquerading&quot; as therapists could drive vulnerable people to harm themselves or others &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250226/p11#a250226p11)
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
+ - [Indonesia says Apple signed a deal to invest in Indonesia and will issue it a permit, paving the way for resuming iPhone 16 sales after a five-month tussle &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/250226/p10#a250226p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
