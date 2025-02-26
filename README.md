@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of Amazon&#39;s Alexa event, where the company is expected to announce its new AI-powered Alexa, a new Fire TV platform, and more &lpar;The Verge&rpar;](http://www.techmeme.com/250226/p26#a250226p26)
- - [Lucid’s CEO steps down, as EV maker aims to double production](https://www.theverge.com/news/619760/lucid-ceo-step-down-double-production)
- - [Amazon Alexa event live blog: all the news from the keynote](https://www.theverge.com/news/618261/amazon-alexa-event-live-blog-2025)<!-- TECH:END -->
+ - [How to hide faces and scrub metadata when you photograph a protest](https://www.theverge.com/21281897/how-to-hide-faces-scrub-metadata-photograph-video-protest)
+ - [Amazon&#39;s Panos Panay demoed Alexa+ in a flowing ongoing conversation and says it can book concert tickets, make restaurant reservations, and text a babysitter &lpar;Bloomberg&rpar;](http://www.techmeme.com/250226/p28#a250226p28)
+ - [Apple Vision Pro gets Bono documentary for first feature-length immersive video](https://appleinsider.com/articles/25/02/26/apple-vision-pro-gets-bono-documentary-for-first-feature-length-immersive-video?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
