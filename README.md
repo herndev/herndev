@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your next chance to secure an RTX 50-series graphics card at launch could be a 16 GB variant of the RTX 5060 Ti next month](https://www.pcgamer.com/hardware/graphics-cards/your-next-chance-to-secure-an-rtx-50-series-graphics-card-at-launch-could-be-a-16-gb-variant-of-the-rtx-5060-ti-next-month/)
- - [China taunts Taiwan with claim that chip foundry TSMC could soon become &#39;USSMC&#39; or the &#39;United States Semiconductor Manufacturing Co.&#39;](https://www.pcgamer.com/hardware/china-taunts-taiwan-with-claim-that-chip-foundry-tsmc-could-soon-become-ussmc-or-the-united-states-semiconductor-manufacturing-co/)
- - [Avowed: Should You Trust The Voice In Your Head?](https://kotaku.com/avowed-the-voice-in-your-head-trust-it-guide-rpg-1851766500)<!-- GAME:END -->
+ - [Comic Book Writer Says Unfinished Wonder Woman Game Was &#39;Gorgeous And Expansive&#39;](https://kotaku.com/wonder-woman-game-canceled-gail-simone-monolith-1851766545)
+ - [Ella Purnell dreads being typecast for her &#39;poop finger&#39; in Fallout: &#39;This finger is the bane of my life&#39;](https://www.pcgamer.com/games/fallout/ella-purnell-dreads-being-typecast-for-her-poop-finger-in-fallout-this-finger-is-the-bane-of-my-life/)
+ - [Inzoi&#39;s wild karma system can turn cities into literal ghost towns that you have to cleanse, game director says: &#39;If too many ghosts appear in the city, new Zois cannot be born&#39;](https://www.pcgamer.com/games/life-sim/inzois-wild-karma-system-can-turn-cities-into-literal-ghost-towns-that-you-have-to-cleanse-game-director-says-if-too-many-ghosts-appear-in-the-city-new-zois-cannot-be-born/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
