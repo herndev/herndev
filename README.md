@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The American Psychological Association warns the US FTC that AI chatbots &quot;masquerading&quot; as therapists could drive vulnerable people to harm themselves or others &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250226/p11#a250226p11)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
- - [Indonesia says Apple signed a deal to invest in Indonesia and will issue it a permit, paving the way for resuming iPhone 16 sales after a five-month tussle &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/250226/p10#a250226p10)<!-- TECH:END -->
+ - [A survey of 2,000 US adults finds 42% say that search engines like Google are becoming less useful, 60% view the state of social media negatively, and more &lpar;The Verge&rpar;](http://www.techmeme.com/250226/p14#a250226p14)
+ - [WhatsApp prepares to further simplify payments in its largest market &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-upi-lite-apk-teardown-3529918/)
+ - [A profile of Vladislav Klyushin, a Russian tech executive involved in a $93M insider trading scheme and released by the US in a 2024 prisoner swap with Russia &lpar;Noah Shachtman/Wired&rpar;](http://www.techmeme.com/250226/p13#a250226p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
