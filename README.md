@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
- - ⏩ [Is it true?](http://9gag.com/gag/a6ZXpKN)
- - 👉 [Execute order 66!](http://9gag.com/gag/ary3qWB)<!-- MEMES:END -->
+ - 💣 [Bro&#39;s ready to walk in Berlin or London](http://9gag.com/gag/aVvoVOK)
+ - ⏩ [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
+ - 👉 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)<!-- MEMES:END -->
 
 ---
 
