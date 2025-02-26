@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of 2,000 US adults finds 42% say that search engines like Google are becoming less useful, 60% view the state of social media negatively, and more &lpar;The Verge&rpar;](http://www.techmeme.com/250226/p14#a250226p14)
- - [WhatsApp prepares to further simplify payments in its largest market &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-upi-lite-apk-teardown-3529918/)
- - [A profile of Vladislav Klyushin, a Russian tech executive involved in a $93M insider trading scheme and released by the US in a 2024 prisoner swap with Russia &lpar;Noah Shachtman/Wired&rpar;](http://www.techmeme.com/250226/p13#a250226p13)<!-- TECH:END -->
+ - [Apple removing ADP in the UK is a pyrrhic victory for Apple, and UK users&#39; muted response suggests they may not care about privacy as much as the company thinks &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250226/p18#a250226p18)
+ - [Plex’s revamped experience will drop a key social feature on most devices](https://www.androidauthority.com/plex-watch-together-removed-3529939/)
+ - [This popular Android gaming handheld can now get better emulators, thanks to Linux](https://www.androidauthority.com/ayn-odin-2-linux-support-3529916/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
