@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to hide faces and scrub metadata when you photograph a protest](https://www.theverge.com/21281897/how-to-hide-faces-scrub-metadata-photograph-video-protest)
- - [Amazon&#39;s Panos Panay demoed Alexa+ in a flowing ongoing conversation and says it can book concert tickets, make restaurant reservations, and text a babysitter &lpar;Bloomberg&rpar;](http://www.techmeme.com/250226/p28#a250226p28)
- - [Apple Vision Pro gets Bono documentary for first feature-length immersive video](https://appleinsider.com/articles/25/02/26/apple-vision-pro-gets-bono-documentary-for-first-feature-length-immersive-video?utm_medium=rss)<!-- TECH:END -->
+ - [Pixel Watch 3 gets FDA clearance for Loss of Pulse alerts](https://www.theverge.com/news/619929/google-pixel-watch-3-loss-of-pulse-fda-clerance-smartwatch)
+ - [All of the announcements from Amazon&amp;#8217;s 2025 Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
+ - [Amazon is launching Alexa.com and new app for Alexa Plus](https://www.theverge.com/news/619923/amazon-alexa-plus-com-mobile-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
