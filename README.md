@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s a 10-minute video about the making of The Witcher 4’s 6-minute reveal trailer](https://www.polygon.com/the-witcher/529842/witcher-4-trailer-behind-scenes)
- - [D&amp;#038;D’s first anthology for the revised 5e has a bright philosophy fueling its awesome art](https://www.polygon.com/dnd-dungeons-dragons/529154/dragon-delves-anthology-alternate-cover-art)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [Riot walks back unpopular League of Legends changes: Hextech Chests are coming back, and the Blue Essence cost for new champions will be cut in half](https://www.pcgamer.com/games/moba/riot-walks-back-unpopular-league-of-legends-changes-hextech-chests-are-coming-back-and-the-blue-essence-cost-for-new-champions-will-be-cut-in-half/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Bungie’s lawyers have to use fan videos of old Destiny 2 content in court because, well, it doesn&#39;t exist in-game anymore](https://www.pcgamer.com/games/action/bungies-lawyers-have-to-use-fan-videos-of-old-destiny-2-content-in-court-because-well-it-doesnt-exist-in-game-anymore/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
