@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch 3 gets FDA clearance for Loss of Pulse alerts](https://www.theverge.com/news/619929/google-pixel-watch-3-loss-of-pulse-fda-clerance-smartwatch)
- - [All of the announcements from Amazon&amp;#8217;s 2025 Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
- - [Amazon is launching Alexa.com and new app for Alexa Plus](https://www.theverge.com/news/619923/amazon-alexa-plus-com-mobile-app)<!-- TECH:END -->
+ - [Max’s ad-supported tier is losing CNN and the Bleacher Report](https://www.theverge.com/hbo/619939/max-cnn-bleacher-report-leaving-basic-ad-supported-tier)
+ - [Streaming services keep getting more expensive: all the latest price increases](https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max)
+ - [iPhone 16e focuses on real needs for regular people](https://appleinsider.com/articles/25/02/26/iphone-16e-focuses-on-real-needs-for-regular-people?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
