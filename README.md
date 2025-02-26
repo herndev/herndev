@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Yes, but...](http://9gag.com/gag/aKGAYVg)
- - ⏩ [This will probably get lost in Fresh, but I just wanted to share with you guys that I finally published my first book](http://9gag.com/gag/a9y6256)
+ - ⏩ [Best comment](http://9gag.com/gag/avy1vdE)
  - 👉 [Tips and tricks for landlord](http://9gag.com/gag/a6ZXpr8)<!-- MEMES:END -->
 
 ---
