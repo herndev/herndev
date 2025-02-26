@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - ⏩ [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
- - 👉 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)<!-- MEMES:END -->
+ - 💣 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - ⏩ [New Self defence style](http://9gag.com/gag/a9y68mL)
+ - 👉 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)<!-- MEMES:END -->
 
 ---
 
