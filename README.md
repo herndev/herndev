@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
- - ⏩ [Found this at the gym,](http://9gag.com/gag/a1mN556)
- - 👉 [Where is the party](http://9gag.com/gag/aZZ185V)<!-- MEMES:END -->
+ - 💣 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
+ - ⏩ [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
+ - 👉 [Close range explosion and shock wave \ud83d\udca8](http://9gag.com/gag/a876DN1)<!-- MEMES:END -->
 
 ---
 
