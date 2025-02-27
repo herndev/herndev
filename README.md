@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Two Point Museum Takes the Management Sim in a Whole New Direction – Play Today](https://news.xbox.com/en-us/2025/02/27/two-point-museum/)
- - [Nyaight of the Living Cat is a &amp;#8216;zombie&amp;#8217; apocalypse that turns everyone into cats](https://www.polygon.com/anime/530970/nyaight-of-the-living-cat-trailer-anime-release-date)
- - [Sony Finally Slashes The Price Of PlayStation VR2 By $150 But It Might Be Too Late](https://kotaku.com/psvr2-price-discount-cheap-hitman-playstation-ps5-1851766790)<!-- GAME:END -->
+ - [Deus Ex: Human Revolution is a must-play immersive sim, and it’s free right now](https://www.polygon.com/good-deals/530897/deus-ex-human-revolution-is-a-must-play-immersive-sim-and-its-free-right-now)
+ - [All the 2025 Pokémon Day news: a surprise battle game, Mega Evolutions, and more](https://www.polygon.com/gaming/530900/pokemon-day-2025-news)
+ - [How to defeat Ajarakan in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-ajarakan-guide-weaknesses/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
