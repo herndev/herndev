@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Execute order 66!](http://9gag.com/gag/ary3qWB)
- - ⏩ [Southwest Airlines flight has close call with private jet at Midway International Airport](http://9gag.com/gag/a6ZX2b2)
- - 👉 [Senses tingling](http://9gag.com/gag/apR3AYM)<!-- MEMES:END -->
+ - 💣 [Best comment](http://9gag.com/gag/avy1vdE)
+ - ⏩ [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
+ - 👉 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)<!-- MEMES:END -->
 
 ---
 
