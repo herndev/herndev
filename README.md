@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A pair of legendary Star Wars titles are free on the Epic Games Store](https://www.polygon.com/good-deals/530060/star-wars-knights-of-the-old-republic-kotor-mobile-free-epic)
- - [Marvel Rivals turns Moon Knight’s meme feud with Dracula into actual beef](https://www.polygon.com/news/530155/marvel-rivals-moon-knight-dracula-meme)
- - [Valve expands Steam&#39;s Daily Deals program from 4 games to 6, also explains what Steam&#39;s Daily Deals program is](https://www.pcgamer.com/gaming-industry/valve-expands-steams-daily-deals-program-from-4-games-to-6-also-explains-what-steams-daily-deals-program-is/)<!-- GAME:END -->
+ - [The Witcher 4 reveal trailer took 14 days of mocap, and CD Projekt wants you to think about what happened after it ended](https://www.pcgamer.com/games/rpg/the-witcher-4-reveal-trailer-took-14-days-of-mocap-and-cd-projekt-wants-you-to-think-about-what-happened-after-it-ended/)
+ - [Sonic the Hedgehog has been quiet since the demo dropped for this running roguelike](https://www.polygon.com/gaming/530305/haste-broken-worlds-steam-next-fest-demo)
+ - [All the 2025 Steam Next Fest demos to check out](https://www.polygon.com/gaming/530452/steam-next-fest-best-demos-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
