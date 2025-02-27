@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best comment](http://9gag.com/gag/avy1vdE)
- - ⏩ [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
- - 👉 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)<!-- MEMES:END -->
+ - 💣 [The Queen](http://9gag.com/gag/ary3BYX)
+ - ⏩ [First day of work?](http://9gag.com/gag/aLnzX1W)
+ - 👉 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)<!-- MEMES:END -->
 
 ---
 
