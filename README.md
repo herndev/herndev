@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are you geh?](http://9gag.com/gag/aGynG6n)
- - ⏩ [The Queen](http://9gag.com/gag/ary3BYX)
- - 👉 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)<!-- MEMES:END -->
+ - 💣 [Close range explosion and shock wave \ud83d\udca8](http://9gag.com/gag/a876DN1)
+ - ⏩ [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
+ - 👉 [The Queen](http://9gag.com/gag/ary3BYX)<!-- MEMES:END -->
 
 ---
 
