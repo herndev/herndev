@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)
- - ⏩ [The Queen](http://9gag.com/gag/ary3BYX)
- - 👉 [Why are you geh?](http://9gag.com/gag/aGynG6n)<!-- MEMES:END -->
+ - ⏩ [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
+ - 👉 [I hope all understand](http://9gag.com/gag/a9y6mrD)<!-- MEMES:END -->
 
 ---
 
