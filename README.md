@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best comment](http://9gag.com/gag/avy1vdE)
- - ⏩ [ACME \u2122 wants him.](http://9gag.com/gag/a1mNV2R)
+ - 💣 [ACME \u2122 wants him.](http://9gag.com/gag/a1mNV2R)
+ - ⏩ [How to cope with illegal parkering on your property](http://9gag.com/gag/a5Q6qgV)
  - 👉 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)<!-- MEMES:END -->
 
 ---
