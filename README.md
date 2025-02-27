@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)
- - ⏩ [We need a more interesting apocolypse](http://9gag.com/gag/aXPMRm9)
- - 👉 [The infinite drawer!](http://9gag.com/gag/avy1d8Z)<!-- MEMES:END -->
+ - 💣 [Hear hear](http://9gag.com/gag/avy1vAn)
+ - ⏩ [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
+ - 👉 [Hmmmmm](http://9gag.com/gag/aBy64jO)<!-- MEMES:END -->
 
 ---
 
