@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Alexa Plus in the smart home](https://www.theverge.com/news/621008/hands-on-with-alexa-plus-smart-home-echo-show-21)
- - [OnePlus has a message for Watch 3 customers who somehow missed the whole typo thing](https://www.androidauthority.com/oneplus-watch-3-typo-letter-3530576/)
- - [OpenAI launches GPT-4.5, its &quot;largest and most knowledgeable model&quot; as a research preview, but says it&#39;s not a frontier model and performance is below o3-mini &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250227/p30#a250227p30)<!-- TECH:END -->
+ - [The USAID Emergency Waivers Aren’t Working, From Ebola to AIDS](https://www.wired.com/story/the-usaid-emergency-waivers-arent-working-from-ebola-to-aids/)
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+ - [Sam Altman says OpenAI was forced to stagger GPT-4.5&#39;s rollout because it is &quot;out of GPUs&quot;; the model is wildly expensive, costing $75 per million input tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250227/p36#a250227p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
