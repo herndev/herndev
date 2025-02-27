@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use SVG on the Mac and on the web](https://appleinsider.com/articles/25/02/27/how-to-use-svg-on-the-mac-and-on-the-web?utm_medium=rss)
- - [iPhone 16e review roundup: an okay, if compromised, device without a market](https://appleinsider.com/articles/25/02/27/iphone-16e-review-roundup-an-okay-if-compromised-device-without-a-market?utm_medium=rss)
- - [London-based parcel delivery startup Relay, whose customers include Temu, TikTok, Vinted, and UK retailers like THG Fulfil, raised a $35M Series A led by Plural &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250226/p49#a250226p49)<!-- TECH:END -->
+ - [Here’s your first look at a powerful new AI feature coming to Google Translate](https://www.androidauthority.com/google-translate-ask-a-follow-up-ai-feature-demo-3530303/)
+ - [Microsoft unveils the 3.8B-parameter text-only Phi-4-mini and 5.6B-parameter Phi-4-multimodal, claiming both outperform similar-sized models in certain tasks &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250226/p50#a250226p50)
+ - [Google unveils one-stop hub for Pixel and Nest device management](https://www.androidauthority.com/google-store-your-devices-page-3530295/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
