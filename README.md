@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Better check, it&#39;s smelling a little toasty..`](http://9gag.com/gag/aLnzrxM)
- - ⏩ [`Die a hero or become the villain`](http://9gag.com/gag/a4P6V8Z)
- - 👉 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)<!-- MEMES:END -->
+ - 💣 [Hmmmmm](http://9gag.com/gag/aBy64jO)
+ - ⏩ [Mlue.](http://9gag.com/gag/aLnzmyM)
+ - 👉 [When I name folders...](http://9gag.com/gag/aoy3YQ2)<!-- MEMES:END -->
 
 ---
 
