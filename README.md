@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Five predictions for where crypto is headed in 2025](https://www.theverge.com/ad/612525/five-predictions-for-crypto-2025-saga)
- - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)
- - [Pokémon Legends: Z-A’s starters make their debut in new trailer](https://www.theverge.com/news/618705/pokemon-legends-z-a-chikorita-tepig-totodile-battles)<!-- TECH:END -->
+ - [Hoto’s 48-in-1 electric screwdriver set hits a record low $70](https://www.theverge.com/good-deals/620281/hoto-electric-precision-screwdriver-set-jbl-authentics-200-300-deal-sale)
+ - [Meta apologizes and says it had fixed an &quot;error&quot; that resulted in some Instagram users seeing violent and graphic content in their Reels recommendations &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250227/p21#a250227p21)
+ - [Best Tested Ski Clothes &lpar;2025&rpar;: Shells, Jackets, Wool Socks](https://www.wired.com/gallery/best-ski-clothes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
