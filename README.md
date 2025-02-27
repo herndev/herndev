@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [California Fire Relief Bundle offers Tunic, Skatebird, Catlateral Damage, and hundreds of other games for just $10](https://www.pcgamer.com/games/california-fire-relief-bundle-offers-tunic-skatebird-catlateral-damage-and-hundreds-of-other-games-for-just-usd10/)
- - [The first gameplay trailer for PUBG creator&#39;s &#39;brutal&#39; survival game shows off deadly weather and cozy cabins](https://www.pcgamer.com/games/survival-crafting/the-first-gameplay-trailer-for-pubg-creators-brutal-survival-game-shows-off-deadly-weather-and-cozy-cabins/)
- - [Four classic Command &amp;#038; Conquer titles are now open source](https://www.polygon.com/news/531365/command-and-conquer-open-source-code-ea)<!-- GAME:END -->
+ - [Civilization 7&#39;s first in-game event postponed so Firaxis can &#39;prioritize quality-of-life improvements&#39;](https://www.pcgamer.com/games/strategy/civilization-7s-first-in-game-event-postponed-so-firaxis-can-prioritize-quality-of-life-improvements/)
+ - [D&amp;D-skewering, Disco Elysium-inspired RPG Esoteric Ebb had me trying my best to be a cleric while my Intelligence stat kept telling me to become a wizard-king](https://www.pcgamer.com/games/rpg/d-and-d-skewering-disco-elysium-inspired-rpg-esoteric-ebb-had-me-trying-my-best-to-be-a-cleric-while-my-intelligence-stat-kept-telling-me-to-become-a-wizard-king/)
+ - [Best starter Bow build in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-bow-builds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
