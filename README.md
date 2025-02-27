@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)
- - ⏩ [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
- - 👉 [I hope all understand](http://9gag.com/gag/a9y6mrD)<!-- MEMES:END -->
+ - 💣 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)
+ - ⏩ [We need a more interesting apocolypse](http://9gag.com/gag/aXPMRm9)
+ - 👉 [The infinite drawer!](http://9gag.com/gag/avy1d8Z)<!-- MEMES:END -->
 
 ---
 
