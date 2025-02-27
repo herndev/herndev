@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The USAID Emergency Waivers Aren’t Working, From Ebola to AIDS](https://www.wired.com/story/the-usaid-emergency-waivers-arent-working-from-ebola-to-aids/)
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Sam Altman says OpenAI was forced to stagger GPT-4.5&#39;s rollout because it is &quot;out of GPUs&quot;; the model is wildly expensive, costing $75 per million input tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250227/p36#a250227p36)<!-- TECH:END -->
+ - [Amazon CEO says &amp;#8216;beautiful&amp;#8217; new Alexa hardware is coming this fall](https://www.theverge.com/news/621236/amazon-andy-jassy-beautiful-alexa-hardware)
+ - [Elon Musk&#39;s Takeover Is Being Aided by a Trumpworld Power Couple](https://www.wired.com/story/katie-stephen-miller-elon-musk-takeover/)
+ - [The US May Start Vaccinating Chickens Against Bird Flu](https://www.wired.com/story/chickens-vaccines-us-bird-flu/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
