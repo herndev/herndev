@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5: Dive into the Horizon Realms on April 25](https://forza.net/news/forza-horizon-5-horizon-realms/#new_tab)
- - [How to defeat The Black Flame, Nu Udra](https://www.pcgamer.com/games/action/monster-hunter-wilds-nu-udra-black-flame-guide/)
- - [New Terminator 2 Game Looks Awesome](https://kotaku.com/terminator-2d-no-fate-retro-trailer-judgement-day-snes-1851766852)<!-- GAME:END -->
+ - [A Minecraft Movie: New Trailer and Tickets on Sale](https://www.minecraft.net/article/a-minecraft-movie-new-trailer#new_tab)
+ - [Mindwave builds thrillingly on a Nintendo masterpiece](https://www.polygon.com/impressions/531044/mindwave-steam-next-fest-demo)
+ - [All the 2025 Steam Next Fest demos to check out](https://www.polygon.com/gaming/530452/steam-next-fest-best-demos-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
