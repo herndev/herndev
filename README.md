@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From design to specs: Samsung’s Galaxy A26, A36, and A56 just leaked in full](https://www.androidauthority.com/samsung-galaxy-a26-a36-a56-specs-renders-leak-3530332/)
  - [An investigation identifies a dozen Telegram groups targeting women who joined &quot;Are We Dating the Same Guy?&quot; Facebook groups with doxxing, harassment, and more &lpar;Wired&rpar;](http://www.techmeme.com/250227/p7#a250227p7)
- - [DeepSeek has sparked a nationwide push in China to deploy its LLMs everywhere from hospitals to local governments as Beijing seeks to solidify its gains in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p6#a250227p6)
- - [Bitcoin ETFs saw their longest outflow streak, losing $2.1B over six days, including $1B+ on Feb. 25, the largest single-day outflow since their Jan. 2024 debut &lpar;Isabelle Lee/Bloomberg&rpar;](http://www.techmeme.com/250227/p5#a250227p5)<!-- TECH:END -->
+ - [DeepSeek has sparked a nationwide push in China to deploy its LLMs everywhere from hospitals to local governments as Beijing seeks to solidify its gains in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p6#a250227p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
