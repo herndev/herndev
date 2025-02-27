@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Minecraft Movie: New Trailer and Tickets on Sale](https://www.minecraft.net/article/a-minecraft-movie-new-trailer#new_tab)
- - [Mindwave builds thrillingly on a Nintendo masterpiece](https://www.polygon.com/impressions/531044/mindwave-steam-next-fest-demo)
- - [All the 2025 Steam Next Fest demos to check out](https://www.polygon.com/gaming/530452/steam-next-fest-best-demos-2025)<!-- GAME:END -->
+ - [Just $10 Will Get You Tunic And Over 400 Other Neat Games In The New California Fire Relief Bundle](https://kotaku.com/cheap-games-itchio-bundle-california-wildfire-charity-1851766887)
+ - [Forza Horizon 5 Pioneers Bizarre New Form Of Early Access Garbage On PS5](https://kotaku.com/forza-horizon-5-early-access-ps5-100-xbox-premium-1851766878)
+ - [Monster Hunter Wilds](https://www.pcgamer.com/monster-hunter-wilds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
