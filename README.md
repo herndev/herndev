@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda’s building the Koraidon motorcycle of your dreams.](https://www.theverge.com/nintendo/620604/honda-koraidon-bike)
- - [Apple&#39;s C1 modem breaks no records for speed, but is exceptionally power efficient](https://appleinsider.com/articles/25/02/27/apples-c1-modem-breaks-no-records-for-speed-but-is-exceptionally-power-efficient?utm_medium=rss)
- - [Sony drops PlayStation VR 2 price to $399](https://www.theverge.com/news/620565/sony-playstation-vr2-price-cut-march)<!-- TECH:END -->
+ - [Five predictions for where crypto is headed in 2025](https://www.theverge.com/ad/612525/five-predictions-for-crypto-2025-saga)
+ - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)
+ - [Pokémon Legends: Z-A’s starters make their debut in new trailer](https://www.theverge.com/news/618705/pokemon-legends-z-a-chikorita-tepig-totodile-battles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
