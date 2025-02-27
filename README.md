@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hoto’s 48-in-1 electric screwdriver set hits a record low $70](https://www.theverge.com/good-deals/620281/hoto-electric-precision-screwdriver-set-jbl-authentics-200-300-deal-sale)
- - [Meta apologizes and says it had fixed an &quot;error&quot; that resulted in some Instagram users seeing violent and graphic content in their Reels recommendations &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250227/p21#a250227p21)
- - [Best Tested Ski Clothes &lpar;2025&rpar;: Shells, Jackets, Wool Socks](https://www.wired.com/gallery/best-ski-clothes/)<!-- TECH:END -->
+ - [Roblox is getting faster on Chromebooks](https://www.theverge.com/news/620411/roblox-chromebooks-x86-faster)
+ - [Apple faces fresh legal attack over its carbon neutral Apple Watch claim](https://appleinsider.com/articles/25/02/27/apple-faces-fresh-legal-attack-over-its-carbon-neutral-apple-watch-claim?utm_medium=rss)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
