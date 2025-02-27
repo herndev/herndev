@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Saw During The Pokémon Day Presents Showcase](https://kotaku.com/pokemon-day-presents-legends-z-a-tcg-pocket-switch-1851766680)
- - [Here’s the next look at Pokémon Legends: Z-A — and its Mega Evolutions](https://www.polygon.com/pokemon/530077/pokemon-legends-z-a-trailer-announcement)
- - [Here’s Your First Look At Pokémon Legends: Z-A](https://kotaku.com/pokemon-legends-z-a-trailer-switch-mega-evolution-1851766684)<!-- GAME:END -->
+ - [Free Play Days – Catan, Worms W.M.D and Dragon Ball FighterZ](https://news.xbox.com/en-us/2025/02/27/free-play-days-02-27-2025/)
+ - [The Executive’s spoonerisms bring silly joy to a fun movie-studio sim](https://www.polygon.com/gaming/530250/the-executive-movie-industry-tycoon-silly-names-spoonerisms)
+ - [When does the Triumphant Light expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/530088/triumphant-light-expansion-release-time-date-est-pst)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
