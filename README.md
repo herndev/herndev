@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS unveils Ocelot, its new quantum chip built in partnership with Caltech, featuring five qubits that store data and four additional qubits to detect errors &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250227/p12#a250227p12)
- - [Elon Musk’s Starlink Is Keeping Modern Slavery Compounds Online](https://www.wired.com/story/starlink-scam-compounds/)
- - [Microsoft calls on Trump to ease US export rules on data center chips for allies including India, Switzerland, and Israel, classed in the second of three tiers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250227/p11#a250227p11)<!-- TECH:END -->
+ - [I turned my old Android tablet into a portable monitor, and you can too](https://www.androidauthority.com/android-tablet-portable-monitor-3528643/)
+ - [NYC-based Taktile, which helps fintechs build automated decision-making workflows, raised a $54M Series B led by Balderton, taking its total funding to $79M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250227/p15#a250227p15)
+ - [Tencent releases Hunyuan Turbo S, an AI model designed to respond instantly, saying it is competitive against DeepSeek&#39;s V3 model in commonly used AI tests &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250227/p14#a250227p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
