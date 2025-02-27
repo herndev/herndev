@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: BitMEX, which pleaded guilty in 2024 to violating the US Bank Secrecy Act, is looking for a buyer &lpar;CoinDesk&rpar;](http://www.techmeme.com/250227/p27#a250227p27)
- - [Apple thinks the iPhone 16e target market doesn&#39;t care about MagSafe](https://appleinsider.com/articles/25/02/27/apple-thinks-the-iphone-16e-target-market-doesnt-care-about-magsafe?utm_medium=rss)
- - [Microsoft Copilot lands on Mac](https://appleinsider.com/articles/25/02/27/microsoft-copilot-lands-on-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Hands-on with Alexa Plus in the smart home](https://www.theverge.com/news/621008/hands-on-with-alexa-plus-smart-home-echo-show-21)
+ - [OnePlus has a message for Watch 3 customers who somehow missed the whole typo thing](https://www.androidauthority.com/oneplus-watch-3-typo-letter-3530576/)
+ - [OpenAI launches GPT-4.5, its &quot;largest and most knowledgeable model&quot; as a research preview, but says it&#39;s not a frontier model and performance is below o3-mini &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250227/p30#a250227p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
