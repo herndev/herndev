@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox is getting faster on Chromebooks](https://www.theverge.com/news/620411/roblox-chromebooks-x86-faster)
- - [Apple faces fresh legal attack over its carbon neutral Apple Watch claim](https://appleinsider.com/articles/25/02/27/apple-faces-fresh-legal-attack-over-its-carbon-neutral-apple-watch-claim?utm_medium=rss)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
+ - [New Apple age assurance features help parents and developers protect children](https://appleinsider.com/articles/25/02/27/new-apple-age-assurance-features-help-parents-and-developers-protect-children?utm_medium=rss)
+ - [Microsoft pushes ahead with AI in gaming](https://www.theverge.com/notepad-microsoft-newsletter/620839/microsoft-xbox-ai-gaming-muse-model-notepad)
+ - [Powerbeats Pro 2 review: the workout buds to beat](https://www.theverge.com/headphone-review/609473/powerbeats-pro-2-review-headphones-heart-rate-monitoring-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
