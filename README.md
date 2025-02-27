@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From design to specs: Samsung’s Galaxy A26, A36, and A56 just leaked in full](https://www.androidauthority.com/samsung-galaxy-a26-a36-a56-specs-renders-leak-3530332/)
- - [An investigation identifies a dozen Telegram groups targeting women who joined &quot;Are We Dating the Same Guy?&quot; Facebook groups with doxxing, harassment, and more &lpar;Wired&rpar;](http://www.techmeme.com/250227/p7#a250227p7)
- - [DeepSeek has sparked a nationwide push in China to deploy its LLMs everywhere from hospitals to local governments as Beijing seeks to solidify its gains in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p6#a250227p6)<!-- TECH:END -->
+ - [Sources: no major players behind online scam centers in Myanmar were taken down in the recent China-led raids, and the construction of new centers continues &lpar;Hannah Beech/New York Times&rpar;](http://www.techmeme.com/250227/p9#a250227p9)
+ - [Roku Ultra 2024 drops to its lowest price ever, here’s how to check if you’re eligible for the offer](https://www.androidauthority.com/roku-ultra-2024-special-offer-3530364/)
+ - [China&#39;s first-of-its-kind policy letting companies mark data as an asset on balance sheets sees slow adoption, as compliance hurdles keep many on the sidelines &lpar;Lizzi C. Lee/Rest of World&rpar;](http://www.techmeme.com/250227/p8#a250227p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
