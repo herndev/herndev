@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Pokémon Go’s Go Tour Unova start and end?](https://www.polygon.com/pokemon-go-guide/529425/what-time-go-tour-unova-start-end)
- - [PC Gamer magazine&#39;s new issue is on sale now: inZOI](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-inzoi/)
- - [Today&#39;s Wordle answer for Thursday, February 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-27-2025/)<!-- GAME:END -->
+ - [All Monster Hunter Wilds secret armor sets and how to get them](https://www.pcgamer.com/games/action/monster-hunter-wilds-secret-armor-sets-unlock/)
+ - [How to get Gracium in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-gracium-location/)
+ - [Where to find a Gillopod in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-gillopod-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
