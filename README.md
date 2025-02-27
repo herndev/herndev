@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
- - ⏩ [Hmmmmm](http://9gag.com/gag/aBy64jO)
- - 👉 [`Better check, it&#39;s smelling a little toasty..`](http://9gag.com/gag/aLnzrxM)<!-- MEMES:END -->
+ - 💣 [Share the secret](http://9gag.com/gag/aoy3Lr0)
+ - ⏩ [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
+ - 👉 [I was kinda expecting it](http://9gag.com/gag/aW479wq)<!-- MEMES:END -->
 
 ---
 
