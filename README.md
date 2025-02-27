@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I turned my old Android tablet into a portable monitor, and you can too](https://www.androidauthority.com/android-tablet-portable-monitor-3528643/)
- - [NYC-based Taktile, which helps fintechs build automated decision-making workflows, raised a $54M Series B led by Balderton, taking its total funding to $79M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250227/p15#a250227p15)
- - [Tencent releases Hunyuan Turbo S, an AI model designed to respond instantly, saying it is competitive against DeepSeek&#39;s V3 model in commonly used AI tests &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250227/p14#a250227p14)<!-- TECH:END -->
+ - [Honda’s building the Koraidon motorcycle of your dreams.](https://www.theverge.com/nintendo/620604/honda-koraidon-bike)
+ - [Apple&#39;s C1 modem breaks no records for speed, but is exceptionally power efficient](https://appleinsider.com/articles/25/02/27/apples-c1-modem-breaks-no-records-for-speed-but-is-exceptionally-power-efficient?utm_medium=rss)
+ - [Sony drops PlayStation VR 2 price to $399](https://www.theverge.com/news/620565/sony-playstation-vr2-price-cut-march)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
