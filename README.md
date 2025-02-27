@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
- - [Meta&#39;s Oversight Board says it will weigh in on Meta&#39;s hate speech policies, changed before Trump&#39;s inauguration, in a test of the enforceability of its powers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250226/p43#a250226p43)
- - [The latest on the WordPress fight over trademarks and open source](https://www.theverge.com/2024/10/4/24262410/wordpress-fight-trademarks-open-source-mullenweg)<!-- TECH:END -->
+ - [Cellebrite suspends Serbia as a customer after a report alleged authorities used its tools to unlock phones of a journalist and an activist and plant spyware &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250226/p44#a250226p44)
+ - [Need a power station? Today’s best deals come from DJI, EcoFlow, and GRECELL](https://www.androidauthority.com/dji-ecoflow-grecell-power-station-3530211/)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
