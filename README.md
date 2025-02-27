@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/a-great-new-price-for-playstation-vr2/)
- - [A rocket was just fired into space containing the first data center to land on the moon, which is both incredible and incredibly corporate in equal measure](https://www.pcgamer.com/hardware/a-rocket-was-just-fired-into-space-containing-the-first-data-center-to-be-landed-on-the-moon-which-is-both-an-incredible-and-incredibly-boring-thing-to-do-in-space/)
- - [You&#39;ve got to try these 5 brilliant free roguelike deckbuilder game demos before Steam NextFest ends on March 3](https://www.pcgamer.com/games/roguelike/youve-got-to-try-these-five-brilliant-free-roguelike-deckbuilder-game-demos-before-steam-nextfest-ends-on-march-3/)<!-- GAME:END -->
+ - [What time do Cowboy Bebop skins release in Fortnite?](https://www.polygon.com/fortnite-guide/527333/cowboy-bebop-skins-release-date-time)
+ - [How to watch the new Pokémon Presents for Pokémon Day 2025](https://www.polygon.com/news/526327/pokemon-day-2025-presents-date-time-est-pst)
+ - [A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/a-great-new-price-for-playstation-vr2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
