@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
- - ⏩ [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - 👉 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)<!-- MEMES:END -->
+ - ⏩ [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)
+ - 👉 [Best comment](http://9gag.com/gag/avy1vdE)<!-- MEMES:END -->
 
 ---
 
