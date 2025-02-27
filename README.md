@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cellebrite suspends Serbia as a customer after a report alleged authorities used its tools to unlock phones of a journalist and an activist and plant spyware &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250226/p44#a250226p44)
- - [Need a power station? Today’s best deals come from DJI, EcoFlow, and GRECELL](https://www.androidauthority.com/dji-ecoflow-grecell-power-station-3530211/)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
+ - [Mint and pink: a closer look at the backflipping Framework Laptop 12](https://www.theverge.com/laptops/620463/mint-and-pink-a-closer-look-at-the-backflipping-framework-laptop-12)
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
+ - [Canada&#39;s broadcast regulator says that Google will be charged a fee to recover regulatory costs related to Canada&#39;s online news law, starting April 1 &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/250226/p45#a250226p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
