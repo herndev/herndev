@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deus Ex: Human Revolution is a must-play immersive sim, and it’s free right now](https://www.polygon.com/good-deals/530897/deus-ex-human-revolution-is-a-must-play-immersive-sim-and-its-free-right-now)
- - [All the 2025 Pokémon Day news: a surprise battle game, Mega Evolutions, and more](https://www.polygon.com/gaming/530900/pokemon-day-2025-news)
- - [How to defeat Ajarakan in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-ajarakan-guide-weaknesses/)<!-- GAME:END -->
+ - [Forza Horizon 5: Dive into the Horizon Realms on April 25](https://forza.net/news/forza-horizon-5-horizon-realms/#new_tab)
+ - [How to defeat The Black Flame, Nu Udra](https://www.pcgamer.com/games/action/monster-hunter-wilds-nu-udra-black-flame-guide/)
+ - [New Terminator 2 Game Looks Awesome](https://kotaku.com/terminator-2d-no-fate-retro-trailer-judgement-day-snes-1851766852)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
