@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - ⏩ [Senses tingling](http://9gag.com/gag/apR3AYM)
- - 👉 [The Queen](http://9gag.com/gag/ary3BYX)<!-- MEMES:END -->
+ - ⏩ [The Queen](http://9gag.com/gag/ary3BYX)
+ - 👉 [Artist demonstrating the difference in \u201cpencils\u201d.](http://9gag.com/gag/aLnzmWA)<!-- MEMES:END -->
 
 ---
 
