@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Close range explosion and shock wave \ud83d\udca8](http://9gag.com/gag/a876DN1)
- - ⏩ [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
- - 👉 [The Queen](http://9gag.com/gag/ary3BYX)<!-- MEMES:END -->
+ - 💣 [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)
+ - ⏩ [The Queen](http://9gag.com/gag/ary3BYX)
+ - 👉 [Why are you geh?](http://9gag.com/gag/aGynG6n)<!-- MEMES:END -->
 
 ---
 
