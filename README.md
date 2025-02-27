@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, February 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-27-2025/)
- - [Have I Been Pwned adds over 284 million compromised passwords from latest breach](https://www.pcgamer.com/software/security/have-i-been-pwned-adds-over-284-million-compromised-passwords-from-latest-breach/)
- - [WoW players should try Fellowship&#39;s dungeon-only take on MMOs—it&#39;s like a fast and breezy version of WoW&#39;s party play](https://www.pcgamer.com/games/rpg/wow-players-should-try-fellowships-dungeon-only-take-on-mmos-its-like-a-fast-and-breezy-version-of-wows-party-play/)<!-- GAME:END -->
+ - [What time does Pokémon Go’s Go Tour Unova start and end?](https://www.polygon.com/pokemon-go-guide/529425/what-time-go-tour-unova-start-end)
+ - [PC Gamer magazine&#39;s new issue is on sale now: inZOI](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-inzoi/)
+ - [Today&#39;s Wordle answer for Thursday, February 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-27-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
