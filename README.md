@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Catan, Worms W.M.D and Dragon Ball FighterZ](https://news.xbox.com/en-us/2025/02/27/free-play-days-02-27-2025/)
- - [The Executive’s spoonerisms bring silly joy to a fun movie-studio sim](https://www.polygon.com/gaming/530250/the-executive-movie-industry-tycoon-silly-names-spoonerisms)
- - [When does the Triumphant Light expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/530088/triumphant-light-expansion-release-time-date-est-pst)<!-- GAME:END -->
+ - [Why Two Point Museum Takes the Management Sim in a Whole New Direction – Play Today](https://news.xbox.com/en-us/2025/02/27/two-point-museum/)
+ - [Nyaight of the Living Cat is a &amp;#8216;zombie&amp;#8217; apocalypse that turns everyone into cats](https://www.polygon.com/anime/530970/nyaight-of-the-living-cat-trailer-anime-release-date)
+ - [Sony Finally Slashes The Price Of PlayStation VR2 By $150 But It Might Be Too Late](https://kotaku.com/psvr2-price-discount-cheap-hitman-playstation-ps5-1851766790)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
