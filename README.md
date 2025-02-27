@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Have I Been Pwned adds over 284 million compromised passwords from latest breach](https://www.pcgamer.com/software/security/have-i-been-pwned-adds-over-284-million-compromised-passwords-from-latest-breach/)
  - [WoW players should try Fellowship&#39;s dungeon-only take on MMOs—it&#39;s like a fast and breezy version of WoW&#39;s party play](https://www.pcgamer.com/games/rpg/wow-players-should-try-fellowships-dungeon-only-take-on-mmos-its-like-a-fast-and-breezy-version-of-wows-party-play/)
- - [The Witcher 4 reveal trailer took 14 days of mocap, and CD Projekt wants you to think about what happened after it ended](https://www.pcgamer.com/games/rpg/the-witcher-4-reveal-trailer-took-14-days-of-mocap-and-cd-projekt-wants-you-to-think-about-what-happened-after-it-ended/)
- - [Sonic the Hedgehog has been quiet since the demo dropped for this running roguelike](https://www.polygon.com/gaming/530305/haste-broken-worlds-steam-next-fest-demo)<!-- GAME:END -->
+ - [The Witcher 4 reveal trailer took 14 days of mocap, and CD Projekt wants you to think about what happened after it ended](https://www.pcgamer.com/games/rpg/the-witcher-4-reveal-trailer-took-14-days-of-mocap-and-cd-projekt-wants-you-to-think-about-what-happened-after-it-ended/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
