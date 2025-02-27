@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mint and pink: a closer look at the backflipping Framework Laptop 12](https://www.theverge.com/laptops/620463/mint-and-pink-a-closer-look-at-the-backflipping-framework-laptop-12)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
- - [Canada&#39;s broadcast regulator says that Google will be charged a fee to recover regulatory costs related to Canada&#39;s online news law, starting April 1 &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/250226/p45#a250226p45)<!-- TECH:END -->
+ - [I Tested the $599 iPhone 16E and Its Good but Also Kind of Odd](https://www.cnet.com/tech/mobile/i-tested-the-599-iphone-16e-and-its-good-but-also-kind-of-odd/#ftag=CAD590a51e)
+ - [Celebrate Pokemon Day by Playing the 25 Best Pokemon Games of All Time](https://www.cnet.com/tech/gaming/celebrate-pokemon-day-by-playing-the-25-best-pokemon-games-of-all-time/#ftag=CAD590a51e)
+ - [Apple iPhone 16e Review: Questionable Value](https://www.wired.com/review/apple-iphone-16e/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
