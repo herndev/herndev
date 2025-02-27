@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Monster Hunter Wilds secret armor sets and how to get them](https://www.pcgamer.com/games/action/monster-hunter-wilds-secret-armor-sets-unlock/)
- - [How to get Gracium in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-gracium-location/)
- - [Where to find a Gillopod in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-gillopod-location/)<!-- GAME:END -->
+ - [How to get Monster Fluid in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-monster-fluid-locations/)
+ - [It only took Razer some 15 years to finally do the right thing and make a gloriously ugly Minecraft creeper keyboard](https://www.pcgamer.com/hardware/it-only-took-razer-some-15-years-to-finally-do-the-right-thing-and-make-a-gloriously-ugly-minecraft-creeper-keyboard/)
+ - [Best starter Sword and Shield builds in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-sword-and-shield-builds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
