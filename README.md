@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
- - ⏩ [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)
- - 👉 [Best comment](http://9gag.com/gag/avy1vdE)<!-- MEMES:END -->
+ - ⏩ [Best comment](http://9gag.com/gag/avy1vdE)
+ - 👉 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)<!-- MEMES:END -->
 
 ---
 
