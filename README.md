@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Just $10 Will Get You Tunic And Over 400 Other Neat Games In The New California Fire Relief Bundle](https://kotaku.com/cheap-games-itchio-bundle-california-wildfire-charity-1851766887)
- - [Forza Horizon 5 Pioneers Bizarre New Form Of Early Access Garbage On PS5](https://kotaku.com/forza-horizon-5-early-access-ps5-100-xbox-premium-1851766878)
- - [Monster Hunter Wilds](https://www.pcgamer.com/monster-hunter-wilds/)<!-- GAME:END -->
+ - [California Fire Relief Bundle offers Tunic, Skatebird, Catlateral Damage, and hundreds of other games for just $10](https://www.pcgamer.com/games/california-fire-relief-bundle-offers-tunic-skatebird-catlateral-damage-and-hundreds-of-other-games-for-just-usd10/)
+ - [The first gameplay trailer for PUBG creator&#39;s &#39;brutal&#39; survival game shows off deadly weather and cozy cabins](https://www.pcgamer.com/games/survival-crafting/the-first-gameplay-trailer-for-pubg-creators-brutal-survival-game-shows-off-deadly-weather-and-cozy-cabins/)
+ - [Four classic Command &amp;#038; Conquer titles are now open source](https://www.polygon.com/news/531365/command-and-conquer-open-source-code-ea)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
