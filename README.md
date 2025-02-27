@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Queen](http://9gag.com/gag/ary3BYX)
- - ⏩ [First day of work?](http://9gag.com/gag/aLnzX1W)
- - 👉 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)<!-- MEMES:END -->
+ - 💣 [Best comment](http://9gag.com/gag/avy1vdE)
+ - ⏩ [ACME \u2122 wants him.](http://9gag.com/gag/a1mNV2R)
+ - 👉 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)<!-- MEMES:END -->
 
 ---
 
