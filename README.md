@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)
- - ⏩ [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
- - 👉 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)<!-- MEMES:END -->
+ - 💣 [NO....](http://9gag.com/gag/a876ny6)
+ - ⏩ [Thank you all who supported us through this racist platform. F*** you all and see you tomorow](http://9gag.com/gag/aVvo2rv)
+ - 👉 [`Better check, it&#39;s smelling a little toasty..`](http://9gag.com/gag/aLnzrxM)<!-- MEMES:END -->
 
 ---
 
