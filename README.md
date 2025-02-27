@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time do Cowboy Bebop skins release in Fortnite?](https://www.polygon.com/fortnite-guide/527333/cowboy-bebop-skins-release-date-time)
- - [How to watch the new Pokémon Presents for Pokémon Day 2025](https://www.polygon.com/news/526327/pokemon-day-2025-presents-date-time-est-pst)
- - [A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/a-great-new-price-for-playstation-vr2/)<!-- GAME:END -->
+ - [Everything We Saw During The Pokémon Day Presents Showcase](https://kotaku.com/pokemon-day-presents-legends-z-a-tcg-pocket-switch-1851766680)
+ - [Here’s the next look at Pokémon Legends: Z-A — and its Mega Evolutions](https://www.polygon.com/pokemon/530077/pokemon-legends-z-a-trailer-announcement)
+ - [Here’s Your First Look At Pokémon Legends: Z-A](https://kotaku.com/pokemon-legends-z-a-trailer-switch-mega-evolution-1851766684)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
