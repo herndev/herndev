@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NO....](http://9gag.com/gag/a876ny6)
- - ⏩ [Thank you all who supported us through this racist platform. F*** you all and see you tomorow](http://9gag.com/gag/aVvo2rv)
- - 👉 [`Better check, it&#39;s smelling a little toasty..`](http://9gag.com/gag/aLnzrxM)<!-- MEMES:END -->
+ - 💣 [Senses tingling](http://9gag.com/gag/apR3AYM)
+ - ⏩ [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
+ - 👉 [Yo hole big?](http://9gag.com/gag/a876Ky1)<!-- MEMES:END -->
 
 ---
 
