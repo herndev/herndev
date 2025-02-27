@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 💣 [Why are you geh?](http://9gag.com/gag/aGynG6n)
  - ⏩ [The Queen](http://9gag.com/gag/ary3BYX)
- - 👉 [Artist demonstrating the difference in \u201cpencils\u201d.](http://9gag.com/gag/aLnzmWA)<!-- MEMES:END -->
+ - 👉 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)<!-- MEMES:END -->
 
 ---
 
