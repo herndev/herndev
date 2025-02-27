@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ACME \u2122 wants him.](http://9gag.com/gag/a1mNV2R)
- - ⏩ [How to cope with illegal parkering on your property](http://9gag.com/gag/a5Q6qgV)
- - 👉 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)<!-- MEMES:END -->
+ - 💣 [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - ⏩ [Senses tingling](http://9gag.com/gag/apR3AYM)
+ - 👉 [The Queen](http://9gag.com/gag/ary3BYX)<!-- MEMES:END -->
 
 ---
 
