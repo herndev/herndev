@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel delays the opening of its first Ohio chip factory to 2030 due to financial struggles; the $28B project was originally scheduled to begin operating in 2025 &lpar;Max Filby/The Columbus Dispatch&rpar;](http://www.techmeme.com/250228/p12#a250228p12)
- - [Apple accused of misleading consumers with Apple Watch ‘carbon neutral’ claims](https://www.theverge.com/news/621537/apple-watch-carbon-neutral-lawsuit)
- - [Apple Watch tech gives NHL refs an edge with real-time alerts](https://appleinsider.com/articles/25/02/28/apple-watch-tech-gives-nhl-refs-an-edge-with-real-time-alerts?utm_medium=rss)<!-- TECH:END -->
+ - [When asked about UK&#39;s order for an iCloud backdoor, Trump says he told PM Keir Starmer that UK &quot;can&#39;t do this&quot; and it is something &quot;you hear about with China&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250228/p13#a250228p13)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
