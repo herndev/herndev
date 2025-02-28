@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Share the secret](http://9gag.com/gag/aoy3Lr0)
- - ⏩ [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
- - 👉 [Is it true?](http://9gag.com/gag/a6ZXpKN)<!-- MEMES:END -->
+ - ⏩ [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
+ - 👉 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)<!-- MEMES:END -->
 
 ---
 
