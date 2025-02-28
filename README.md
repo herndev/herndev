@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hard to tease us](http://9gag.com/gag/aO8eGqE)
- - ⏩ [Hmmmmm](http://9gag.com/gag/aBy64jO)
- - 👉 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)<!-- MEMES:END -->
+ - 💣 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
+ - ⏩ [Hard to tease us](http://9gag.com/gag/aO8eGqE)
+ - 👉 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)<!-- MEMES:END -->
 
 ---
 
