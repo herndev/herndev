@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get a sharp fang in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/531937/sharp-fang-where-to-find-how-to-get)
- - [The Red Rising board game is candy for fans, and it’s 54% off now](https://www.polygon.com/good-deals/532254/red-rising-board-game-pierce-brown-sale)
- - [Helldivers 2 continues its streak of turning missteps into in-game lore: After a major feature was paused for 24 hours, Super Earth says &#39;nothing out of the ordinary has happened&#39;](https://www.pcgamer.com/games/action/helldivers-2-continues-its-streak-of-turning-missteps-into-in-game-lore-after-a-major-feature-was-paused-for-24-hours-super-earth-says-nothing-out-of-the-ordinary-has-happened/)<!-- GAME:END -->
+ - [The Ugly Stepsister finds a new angle for Cinderella: The Substance-style body horror](https://www.polygon.com/horror/532101/the-ugly-stepsister-review-cinderella-horror)
+ - [Where to find all nymphs in Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/507070/nymph-locations-butterfly-beetles-map)
+ - [The new Terminator 2D already looks like the best Terminator game since the Mega Drive / Genesis, and I&#39;m not kidding](https://www.pcgamer.com/games/action/this-new-terminator-2-game-already-looks-like-the-best-one-since-the-mega-drive-and-im-not-kidding/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
