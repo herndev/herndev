@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is shutting down Skype in favor of Teams](https://www.theverge.com/news/621353/microsoft-skype-shutting-down-retirement-may-2025)
- - [Firefox users are furious about Mozilla’s new data sharing fiasco, and I’m one of them](https://www.androidauthority.com/firefox-data-sharing-change-3530771/)
- - [AMD unveils the $549 Radeon RX 9070 and $599 Radeon 9070 XT GPUs, featuring 16GB of GDDR6 memory, PCIe 5.0, and FSR 4 support, shipping March 6 &lpar;The Verge&rpar;](http://www.techmeme.com/250228/p9#a250228p9)<!-- TECH:END -->
+ - [Companies are determined to stop us watching movies together, but there’s a solution](https://www.androidauthority.com/jellyfin-syncplay-explained-3530437/)
+ - [Severance opens up a new kind of terror in latest episode](https://www.theverge.com/streaming-wars/621237/severance-season-2-episode-7-horror-apple)
+ - [Filings: CFPB employees say the agency&#39;s Trump-appointed leadership plans to fire nearly all its 1,700 employees while &quot;winding down&quot; the agency &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250228/p11#a250228p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
