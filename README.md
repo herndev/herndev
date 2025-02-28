@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is preparing to shut down Creator Marketplace, which connects brands with creators, and replacing it with TikTok One, which includes AI tools, on April 1 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250227/p41#a250227p41)
- - [Android 16 Beta 2.1 is coming to Pixel phones now with a smattering of fixes](https://www.androidauthority.com/android-16-beta-2-1-3530665/)
- - [HP reports Q1 revenue up 2.4% YoY to $13.5B vs. $13.4B est., Personal Systems revenue up 5%, commercial personal systems up 10%, Q2 earnings forecast below est. &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250227/p40#a250227p40)<!-- TECH:END -->
+ - [The SEC files to dismiss its 2023 lawsuit against Coinbase that accused the exchange of flouting SEC rules and facilitating trading in unregistered securities &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250227/p43#a250227p43)
+ - [The SEC says that most memecoins are not securities, are akin to collectibles, and memecoin purchasers and holders are not protected by federal securities laws &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250227/p42#a250227p42)
+ - [Deal: Anker 733 is both a wall charger and a battery pack!](https://www.androidauthority.com/anker-733-power-bank-deal-3530658/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
