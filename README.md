@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Share the secret](http://9gag.com/gag/aoy3Lr0)
- - ⏩ [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
- - 👉 [I was kinda expecting it](http://9gag.com/gag/aW479wq)<!-- MEMES:END -->
+ - ⏩ [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
+ - 👉 [Is it true?](http://9gag.com/gag/a6ZXpKN)<!-- MEMES:END -->
 
 ---
 
