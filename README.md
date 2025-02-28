@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waze is adding one cool feature for cars with extra screens](https://www.androidauthority.com/waze-instrument-cluster-support-3530736/)
- - [Chainalysis estimates $40B worth of illicit crypto transactions took place in 2024; criminals shifted from mostly using bitcoin in 2021 to using stablecoins now &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250228/p3#a250228p3)
- - [Samsung outlines the new One UI 7 features Galaxy Buds 3 owners will love](https://www.androidauthority.com/one-ui-7-galaxy-buds-3-features-3530725/)<!-- TECH:END -->
+ - [Aurzen Zip tri-fold projector review: mirror anything &lpar;without DRM&rpar;](https://www.theverge.com/reviews/621360/aurzen-zip-projector-review-tri-fold-specs-price)
+ - [How the NYC subway used Google&#39;s experimental, AI-based TrackInspect tool to identify 92% of defect locations on subway tracks later found by human inspectors &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/250228/p4#a250228p4)
+ - [The Galaxy S25 Edge just got some fresh competition in the super-thin phone department](https://www.androidauthority.com/tecno-spark-slim-announcement-3530631/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
