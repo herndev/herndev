@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the new Avatar meets Korra](http://9gag.com/gag/aRB42y7)
- - ⏩ [I was kinda expecting it](http://9gag.com/gag/aW479wq)
- - 👉 [Japanese shoplifter](http://9gag.com/gag/aAy6ONp)<!-- MEMES:END -->
+ - 💣 [No remorse](http://9gag.com/gag/aLnzrLV)
+ - ⏩ [The crocodile hauls itself onto land and lounges next to a leopard, completely ignoring the cat](http://9gag.com/gag/agm12bW)
+ - 👉 [When the new Avatar meets Korra](http://9gag.com/gag/aRB42y7)<!-- MEMES:END -->
 
 ---
 
