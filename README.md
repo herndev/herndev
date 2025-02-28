@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC files to dismiss its 2023 lawsuit against Coinbase that accused the exchange of flouting SEC rules and facilitating trading in unregistered securities &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250227/p43#a250227p43)
- - [The SEC says that most memecoins are not securities, are akin to collectibles, and memecoin purchasers and holders are not protected by federal securities laws &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250227/p42#a250227p42)
- - [Deal: Anker 733 is both a wall charger and a battery pack!](https://www.androidauthority.com/anker-733-power-bank-deal-3530658/)<!-- TECH:END -->
+ - [Get your hands on an Apple-1, Pippin, or sealed iPhone via latest auction](https://appleinsider.com/articles/25/02/28/get-your-hands-on-an-apple-1-pippin-or-sealed-iphone-via-latest-auction?utm_medium=rss)
+ - [Bose Ultra Open wireless earbuds review: Great, but buy AirPods instead](https://appleinsider.com/articles/25/02/28/bose-ultra-open-wireless-earbuds-review-great-but-buy-airpods-instead?utm_medium=rss)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
