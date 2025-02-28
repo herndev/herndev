@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
- - ⏩ [Hard to tease us](http://9gag.com/gag/aO8eGqE)
- - 👉 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)<!-- MEMES:END -->
+ - 💣 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
+ - ⏩ [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)
+ - 👉 [Hmmmmm](http://9gag.com/gag/aBy64jO)<!-- MEMES:END -->
 
 ---
 
