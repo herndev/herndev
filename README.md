@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmmmm](http://9gag.com/gag/aBy64jO)
- - ⏩ [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
- - 👉 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)<!-- MEMES:END -->
+ - 💣 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
+ - ⏩ [Yo hole big?](http://9gag.com/gag/a876Ky1)
+ - 👉 [Hmmmmm](http://9gag.com/gag/aBy64jO)<!-- MEMES:END -->
 
 ---
 
