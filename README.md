@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Most passive agressive `Hi` ever](http://9gag.com/gag/a4P6qwy)
- - ⏩ [Yo hole big?](http://9gag.com/gag/a876Ky1)
+ - 💣 [Hear hear](http://9gag.com/gag/avy1vAn)
+ - ⏩ [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
  - 👉 [I was kinda expecting it](http://9gag.com/gag/aW479wq)<!-- MEMES:END -->
 
 ---
