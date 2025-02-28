@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for March 3 to 7](https://news.xbox.com/en-us/2025/02/28/next-week-on-xbox-new-games-for-march-3-to-7/)
- - [TSMC takes &#39;chip binning&#39; to a whole new level as entire wafer &#39;found in a dumpster&#39;](https://www.pcgamer.com/hardware/tsmc-takes-chip-binning-to-a-whole-new-level-as-entire-wafer-found-in-a-dumpster/)
- - [All Totem of Perseverance piece locations in Avowed](https://www.polygon.com/avowed-guides/529080/totem-perseverance-locations-pieces-all-galawains-tusks)<!-- GAME:END -->
+ - [Lost Soul Aside system requirements suggest Sony&#39;s upcoming RPG is a breeze to run, but you may want to make some room on your SSD](https://www.pcgamer.com/hardware/lost-soul-aside-system-requirements-suggest-sonys-upcoming-rpg-is-a-breeze-to-run-but-you-may-want-to-make-some-room-on-your-ssd/)
+ - [Avowed&#39;s Best Bow Is Bought From A Posh Shop Right At The Start](https://kotaku.com/avowed-best-bow-the-long-touch-map-guide-rpg-1851766965)
+ - [All Triumphant Light cards list in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/531102/triumphant-light-new-cards-all-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
