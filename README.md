@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pop-up camp locations in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/526371/pop-up-camp-locations-all-areas-fast-travel)
- - [Ajarakan weakness, location, and strategy in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/529666/ajarakan-weakness-location-and-strategy-in-monster-hunter-wilds)
- - [Monster Hunter Wilds: Best PC settings for graphics and performance](https://www.pcgamer.com/hardware/monster-hunter-wilds-best-pc-settings-for-graphics-and-performance/)<!-- GAME:END -->
+ - [I played 83 Steam Next Fest demos and these are my top 5](https://www.pcgamer.com/games/i-played-83-steam-next-fest-demos-and-these-are-my-top-5/)
+ - [Bloody Boots and Lokko, two new India-developed games, are coming to PS5](https://blog.playstation.com/2025/02/27/bloody-boots-and-lokko-two-new-india-developed-games-are-coming-to-ps5/)
+ - [Doshaguma weakness, location, and strategy in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/524597/doshaguma-weakness-location-how-to-beat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
