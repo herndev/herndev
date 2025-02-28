@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla says its new Firefox terms don’t give it ownership of your data](https://www.theverge.com/news/621796/mozilla-firefox-terms-of-use-ownership-data)
- - [Affected by T-Mobile’s 2021 data breach? You could soon have some cash coming your way](https://www.androidauthority.com/t-mobile-data-breach-settlement-payment-3530842/)
- - [Apple&#39;s iPhone Fold is creeping closer - what the rumor mill says is coming](https://appleinsider.com/articles/25/02/28/apples-iphone-fold-is-creeping-closer---what-the-rumor-mill-says-is-coming?utm_medium=rss)<!-- TECH:END -->
+ - [ESR is ready with the best iPhone 16e case &amp; screen protector options](https://appleinsider.com/articles/25/02/28/esr-is-ready-with-the-best-iphone-16e-case-screen-protector-options?utm_medium=rss)
+ - [Tesla Superchargers coming to dozens of Steak ‘n Shake locations](https://www.theverge.com/news/621810/tesla-supercharger-steak-n-shake-partnership)
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
