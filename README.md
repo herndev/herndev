@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The point is to be generous&#39;: This $20 FPS releasing next month is trying something new—giving away a full version of the game](https://www.pcgamer.com/games/fps/the-point-is-to-be-generous-this-usd20-fps-releasing-next-month-is-trying-something-new-giving-away-a-full-version-of-the-game/)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [All the 2025 Steam Next Fest demos to check out](https://www.polygon.com/gaming/530452/steam-next-fest-best-demos-2025)<!-- GAME:END -->
+ - [One of the best puzzle game designers is back with Kaizen: A Factory Story, a game about manufacturing Japanese consumer goods during the largest economic bubble in history](https://www.pcgamer.com/games/puzzle/one-of-the-best-puzzle-game-designers-is-back-with-kaizen-a-factory-story-a-game-about-manufacturing-japanese-consumer-goods-during-the-largest-economic-bubble-in-history/)
+ - [A new Zachtronics puzzle game? Kind of!](https://www.polygon.com/gaming/531559/zachtronics-new-game-kind-of-kaizen)
+ - [‘My air fryer is more optimized than this’: Monster Hunter Wilds players are suffering from performance issues](https://www.polygon.com/news/532303/monster-hunter-wilds-performance-issues-pc-steam-console)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
