@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great Britain](http://9gag.com/gag/aXPMGYV)
- - ⏩ [When the new Avatar meets Korra](http://9gag.com/gag/aRB42y7)
- - 👉 [Hmmmmm](http://9gag.com/gag/aBy64jO)<!-- MEMES:END -->
+ - 💣 [Japanese shoplifter](http://9gag.com/gag/aAy6ONp)
+ - ⏩ [The Queen](http://9gag.com/gag/ary3BYX)
+ - 👉 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)<!-- MEMES:END -->
 
 ---
 
