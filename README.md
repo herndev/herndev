@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share the secret](http://9gag.com/gag/aoy3Lr0)
+ - 💣 [Making raspberry ice-cream in 1890s](http://9gag.com/gag/avy1v2O)
  - ⏩ [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
- - 👉 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)<!-- MEMES:END -->
+ - 👉 [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)<!-- MEMES:END -->
 
 ---
 
