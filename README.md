@@ -34,7 +34,7 @@
 <!-- GAME:START -->
  - [PSA: If Monster Hunter Wilds is crashing, try turning off frame generation](https://www.pcgamer.com/games/action/psa-if-monster-hunter-wilds-is-crashing-try-turning-off-frame-generation/)
  - [&lpar;For Southeast Asia&rpar; A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/20250228-psvr2/)
- - [Today&#39;s Wordle answer for Friday, February 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-28-2025/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/20250228-psvr2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
