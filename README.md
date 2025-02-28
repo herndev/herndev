@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
- - ⏩ [Just became a father to the most beautiful baby girl. Hospital didn\u2019t let me spend the night with her and my wife so now I\u2019m home and can\u2019t sleep. Wish my luck on this Wednesdsy my dudes](http://9gag.com/gag/a4P6w9Z)
- - 👉 [Real art](http://9gag.com/gag/aXPMGzv)<!-- MEMES:END -->
+ - 💣 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
+ - ⏩ [I was kinda expecting it](http://9gag.com/gag/aW479wq)
+ - 👉 [Hard to tease us](http://9gag.com/gag/aO8eGqE)<!-- MEMES:END -->
 
 ---
 
