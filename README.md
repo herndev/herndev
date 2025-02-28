@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds: 6 Tips from the Developers Themselves](https://news.xbox.com/en-us/2025/02/28/monster-hunter-wilds-tips-from-developers/)
- - [Avowed&#39;s Best Arquebus Has A Very Silly Name](https://kotaku.com/avowed-best-arquebus-izmalts-meteoric-apparatus-guide-1851766964)
- - [AMD prices its new Radeon RX 9070 and 9070 GPUs at $549 and $599 and we&#39;re very excited](https://www.pcgamer.com/hardware/graphics-cards/amd-prices-its-new-radeon-rx-9070-and-9070-gpus-at-usd549-and-usd599-and-were-very-excited/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for March 3 to 7](https://news.xbox.com/en-us/2025/02/28/next-week-on-xbox-new-games-for-march-3-to-7/)
+ - [TSMC takes &#39;chip binning&#39; to a whole new level as entire wafer &#39;found in a dumpster&#39;](https://www.pcgamer.com/hardware/tsmc-takes-chip-binning-to-a-whole-new-level-as-entire-wafer-found-in-a-dumpster/)
+ - [All Totem of Perseverance piece locations in Avowed](https://www.polygon.com/avowed-guides/529080/totem-perseverance-locations-pieces-all-galawains-tusks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
