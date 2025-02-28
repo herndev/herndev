@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [7 things to do first in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-things-to-do-first/)
  - [The new Witcher novel is a prequel called Crossroads of Ravens where Geralt is 18 years old, and it&#39;ll be available in English in September](https://www.pcgamer.com/games/the-witcher/the-new-witcher-novel-is-a-prequel-called-crossroads-of-ravens-where-geralt-is-18-years-old-and-itll-be-available-in-english-in-september/)
- - [I played 83 Steam Next Fest demos and these are my top 5](https://www.pcgamer.com/games/i-played-83-steam-next-fest-demos-and-these-are-my-top-5/)
- - [Bloody Boots and Lokko, two new India-developed games, are coming to PS5](https://blog.playstation.com/2025/02/27/bloody-boots-and-lokko-two-new-india-developed-games-are-coming-to-ps5/)<!-- GAME:END -->
+ - [I played 83 Steam Next Fest demos and these are my top 5](https://www.pcgamer.com/games/i-played-83-steam-next-fest-demos-and-these-are-my-top-5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
