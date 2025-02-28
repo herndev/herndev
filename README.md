@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOGE&#39;s Misplaced War on Software Licenses](https://www.wired.com/story/doge-software-license-cancel-federal-budget/)
- - [The product lead for Sora, Rohan Sahai, says OpenAI plans to integrate Sora into ChatGPT, but it may not offer the same level of control as Sora&#39;s web app &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250228/p20#a250228p20)
- - [The Verge looks back on Skype](https://www.theverge.com/favorites/621864/skype-microsoft-goodbye)<!-- TECH:END -->
+ - [Recent incidents indicate the US no longer characterizes Russia as a cyber threat; source: CISA analysts were told not to follow or report on Russian threats &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/250228/p21#a250228p21)
+ - [Apple AirTag 4-Pack price keeps dropping to new record lows!](https://www.androidauthority.com/apple-airtag-4-pack-deal-8-3530996/)
+ - [DOGE&#39;s Misplaced War on Software Licenses](https://www.wired.com/story/doge-software-license-cancel-federal-budget/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
