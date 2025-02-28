@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD has officially revealed its RDNA 4-based RX 9070 and RX 9070 XT GPUs and they look a lot like RDNA 3, only turbocharged](https://www.pcgamer.com/hardware/graphics-cards/amd-has-officially-revealed-its-rdna-4-based-rx-9070-and-rx-9070-xt-gpus-and-they-look-a-lot-like-rdna-3-only-turbocharged/)
- - [&#39;Infused with AMD DNA&#39;: FSR 4 has been announced with a healthy dose of machine learning and support for 30+ games at launch](https://www.pcgamer.com/hardware/graphics-cards/infused-with-amd-dna-fsr-4-has-been-announced-with-a-healthy-dose-of-machine-learning-and-support-for-30-games-at-launch/)
- - [Monster Hunter Wilds is now available, and 18% off on PC](https://www.polygon.com/sales-guide/531433/monster-hunter-wilds-where-to-buy-deals)<!-- GAME:END -->
+ - [Monster Hunter Wilds: 6 Tips from the Developers Themselves](https://news.xbox.com/en-us/2025/02/28/monster-hunter-wilds-tips-from-developers/)
+ - [Avowed&#39;s Best Arquebus Has A Very Silly Name](https://kotaku.com/avowed-best-arquebus-izmalts-meteoric-apparatus-guide-1851766964)
+ - [AMD prices its new Radeon RX 9070 and 9070 GPUs at $549 and $599 and we&#39;re very excited](https://www.pcgamer.com/hardware/graphics-cards/amd-prices-its-new-radeon-rx-9070-and-9070-gpus-at-usd549-and-usd599-and-were-very-excited/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
