@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ESR is ready with the best iPhone 16e case &amp; screen protector options](https://appleinsider.com/articles/25/02/28/esr-is-ready-with-the-best-iphone-16e-case-screen-protector-options?utm_medium=rss)
- - [Tesla Superchargers coming to dozens of Steak ‘n Shake locations](https://www.theverge.com/news/621810/tesla-supercharger-steak-n-shake-partnership)
- - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)<!-- TECH:END -->
+ - [The armless PP-1 turntable is made from a solid block of aluminum](https://www.theverge.com/news/621863/waiting-for-ideas-pp-1-turntable-solid-aluminum-vinyl-record)
+ - [Sources: Defense Secretary Pete Hegseth ordered the US Cyber Command to stand down from all planning against Russia, including offensive digital actions &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/250228/p18#a250228p18)
+ - [Deals: Save up to $830 on Apple&#39;s new iPhone 16e](https://appleinsider.com/articles/25/02/28/deals-save-up-to-830-on-apples-new-iphone-16e?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
