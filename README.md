@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chainalysis estimates $40B worth of illicit crypto transactions took place in 2024; criminals shifted from mostly using bitcoin in 2021 to using stablecoins now &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250228/p3#a250228p3)
  - [Samsung outlines the new One UI 7 features Galaxy Buds 3 owners will love](https://www.androidauthority.com/one-ui-7-galaxy-buds-3-features-3530725/)
- - [OpenAI says Sora is now available to ChatGPT Plus and Pro users in the EU, the UK, Switzerland, Norway, Liechtenstein, and Iceland &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250228/p2#a250228p2)
- - [Sundar Pichai says Waymo logs 200K+ weekly paid robotaxi rides, doubling in a year and 20x in two; Waymo says its self-driving system logs 1M+ miles per week &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250228/p1#a250228p1)<!-- TECH:END -->
+ - [OpenAI says Sora is now available to ChatGPT Plus and Pro users in the EU, the UK, Switzerland, Norway, Liechtenstein, and Iceland &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250228/p2#a250228p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
