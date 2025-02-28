@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When asked about UK&#39;s order for an iCloud backdoor, Trump says he told PM Keir Starmer that UK &quot;can&#39;t do this&quot; and it is something &quot;you hear about with China&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250228/p13#a250228p13)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
+ - [New price drop: Apple AirTag 4-pack falls to $64.49](https://appleinsider.com/articles/25/02/25/apple-airtag-4-pack-falls-to-6799-lowest-price-of-2025?utm_medium=rss)
+ - [Incoming Google Messages texts now arrive with a flourish, but did you even notice?](https://www.androidauthority.com/google-messages-animation-3530857/)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
