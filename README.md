@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iterations](http://9gag.com/gag/a876zGe)
- - ⏩ [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)
- - 👉 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)<!-- MEMES:END -->
+ - 💣 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
+ - ⏩ [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
+ - 👉 [Hard to tease us](http://9gag.com/gag/aO8eGqE)<!-- MEMES:END -->
 
 ---
 
