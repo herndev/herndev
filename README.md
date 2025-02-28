@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I did not expect the most promising turn-based tactics game of Steam Next Fest to star the Teenage Mutant Ninja Turtles, but here we are](https://www.pcgamer.com/games/strategy/i-did-not-expect-the-most-promising-turn-based-tactics-game-of-steam-next-fest-to-star-the-teenage-mutant-ninja-turtles-but-here-we-are/)
- - [You probably don&#39;t remember Remember Me, but its one brilliantly unforgettable idea lives on](https://www.pcgamer.com/games/action/you-probably-dont-remember-remember-me-but-its-one-brilliantly-unforgettable-idea-lives-on/)
- - [Severance’s most puzzling character might just be Reghabi](https://www.polygon.com/tv/531623/severance-reghabi-reintegration-chikhai-bardo)<!-- GAME:END -->
+ - [Another Pokémon Game, Another Year Of Debating How Ugly These Games Have Gotten](https://kotaku.com/pokemon-legends-z-a-switch-2-graphics-ugly-art-style-1851767088)
+ - [How to find tracktail lizards in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/531820/tracktail-lizards-location-where-to-find)
+ - [Real Monster Hunters don’t let their Palicoes speak with this crucial setting](https://www.polygon.com/gaming/531907/monster-hunter-wilds-palico-felyne-language-setting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
