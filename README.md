@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Pirates](https://blog.playstation.com/2025/02/28/share-of-the-week-pirates/)
- - [D&amp;#038;D’s Unreal-powered Sigil virtual tabletop is now open for adventuring](https://www.polygon.com/dnd-dungeons-dragons/531824/sigil-dungeons-and-dragons-dnd-virtual-tabletop)
- - [&#39;It was truly eye-opening to realize just how many people deeply love this type of game&#39;: Inzoi director hopes his life sim will &#39;bring comfort to many players&#39; lives&#39;](https://www.pcgamer.com/games/life-sim/it-was-truly-eye-opening-to-realize-just-how-many-people-deeply-love-this-type-of-game-inzoi-director-hopes-his-life-sim-will-bring-comfort-to-many-players-lives/)<!-- GAME:END -->
+ - [I did not expect the most promising turn-based tactics game of Steam Next Fest to star the Teenage Mutant Ninja Turtles, but here we are](https://www.pcgamer.com/games/strategy/i-did-not-expect-the-most-promising-turn-based-tactics-game-of-steam-next-fest-to-star-the-teenage-mutant-ninja-turtles-but-here-we-are/)
+ - [You probably don&#39;t remember Remember Me, but its one brilliantly unforgettable idea lives on](https://www.pcgamer.com/games/action/you-probably-dont-remember-remember-me-but-its-one-brilliantly-unforgettable-idea-lives-on/)
+ - [Severance’s most puzzling character might just be Reghabi](https://www.polygon.com/tv/531623/severance-reghabi-reintegration-chikhai-bardo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
