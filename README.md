@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I won’t buy another Samsung phone until it gets these 3 features](https://www.androidauthority.com/samsung-phones-missing-3-features-3528697/)
- - [Elon enters the circus](https://www.theverge.com/policy/620892/cpac-elon-musk-chainsaw-trump-steve-bannon)
- - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft is shutting down Skype in favor of Teams](https://www.theverge.com/news/621353/microsoft-skype-shutting-down-retirement-may-2025)
+ - [Firefox users are furious about Mozilla’s new data sharing fiasco, and I’m one of them](https://www.androidauthority.com/firefox-data-sharing-change-3530771/)
+ - [AMD unveils the $549 Radeon RX 9070 and $599 Radeon 9070 XT GPUs, featuring 16GB of GDDR6 memory, PCIe 5.0, and FSR 4 support, shipping March 6 &lpar;The Verge&rpar;](http://www.techmeme.com/250228/p9#a250228p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
