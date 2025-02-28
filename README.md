@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Companies are determined to stop us watching movies together, but there’s a solution](https://www.androidauthority.com/jellyfin-syncplay-explained-3530437/)
- - [Severance opens up a new kind of terror in latest episode](https://www.theverge.com/streaming-wars/621237/severance-season-2-episode-7-horror-apple)
- - [Filings: CFPB employees say the agency&#39;s Trump-appointed leadership plans to fire nearly all its 1,700 employees while &quot;winding down&quot; the agency &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250228/p11#a250228p11)<!-- TECH:END -->
+ - [Intel delays the opening of its first Ohio chip factory to 2030 due to financial struggles; the $28B project was originally scheduled to begin operating in 2025 &lpar;Max Filby/The Columbus Dispatch&rpar;](http://www.techmeme.com/250228/p12#a250228p12)
+ - [Apple accused of misleading consumers with Apple Watch ‘carbon neutral’ claims](https://www.theverge.com/news/621537/apple-watch-carbon-neutral-lawsuit)
+ - [Apple Watch tech gives NHL refs an edge with real-time alerts](https://appleinsider.com/articles/25/02/28/apple-watch-tech-gives-nhl-refs-an-edge-with-real-time-alerts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
