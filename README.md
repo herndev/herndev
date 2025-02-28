@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cross-border payments company Flywire acquires Sertifi, which helps hotels streamline events contracting, group bookings, and related payments, for $330M &lpar;Justin Dawes/Skift&rpar;](http://www.techmeme.com/250227/p50#a250227p50)
  - [How to install MAME on your Apple Silicon Mac](https://appleinsider.com/articles/25/02/28/how-to-install-mame-on-your-apple-silicon-mac?utm_medium=rss)
- - [Autodesk plans to cut about 1,350 employees, or ~9% of its workforce, as part of a focus on profitability following pressure from activist fund Starboard Value &lpar;Bloomberg&rpar;](http://www.techmeme.com/250227/p49#a250227p49)
- - [HP CEO Enrique Lores says the company will have shifted 90% of its production for North America outside of China by the end of October 2025 &lpar;O&#39;Ryan Johnson/CRN&rpar;](http://www.techmeme.com/250227/p48#a250227p48)<!-- TECH:END -->
+ - [Autodesk plans to cut about 1,350 employees, or ~9% of its workforce, as part of a focus on profitability following pressure from activist fund Starboard Value &lpar;Bloomberg&rpar;](http://www.techmeme.com/250227/p49#a250227p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
