@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds guides and walkthroughs](https://www.polygon.com/monster-hunter-wilds-guide/530385/guides-walkthroughs-tips)
- - [How to deploy or standby your Palico in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/529724/how-to-deploy-standby-pailco-differences)
- - [Lala Barina weakness, location, and strategy in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/524598/lala-barina-weakness-location-how-to-beat)<!-- GAME:END -->
+ - [Watch the AMD RX 9000-series livestream with us here: Finally, some new AMD graphics cards to get nerdy with](https://www.pcgamer.com/hardware/news/live/amd-rx-9000-series-announcement-live-finally-the-new-amd-gpus-are-here/)
+ - [A match made in heaven: Buy a 1600 W MSI power supply and get Monster Hunter Wilds for free](https://www.pcgamer.com/hardware/power-supplies/a-match-made-in-heaven-buy-a-1600-w-msi-power-supply-and-get-monster-hunter-wilds-for-free/)
+ - [How to change appearance in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-change-appearance/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
