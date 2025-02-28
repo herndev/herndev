@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
- - ⏩ [Yo hole big?](http://9gag.com/gag/a876Ky1)
- - 👉 [Hmmmmm](http://9gag.com/gag/aBy64jO)<!-- MEMES:END -->
+ - 💣 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
+ - ⏩ [Just became a father to the most beautiful baby girl. Hospital didn\u2019t let me spend the night with her and my wife so now I\u2019m home and can\u2019t sleep. Wish my luck on this Wednesdsy my dudes](http://9gag.com/gag/a4P6w9Z)
+ - 👉 [Real art](http://9gag.com/gag/aXPMGzv)<!-- MEMES:END -->
 
 ---
 
