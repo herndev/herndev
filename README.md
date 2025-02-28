@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds already has more than 30 mods, with 2,600 downloads between them](https://www.pcgamer.com/games/action/monster-hunter-wilds-already-has-more-than-30-mods-with-2-600-downloads-between-them/)
- - [7 things to do first in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-things-to-do-first/)
- - [The new Witcher novel is a prequel called Crossroads of Ravens where Geralt is 18 years old, and it&#39;ll be available in English in September](https://www.pcgamer.com/games/the-witcher/the-new-witcher-novel-is-a-prequel-called-crossroads-of-ravens-where-geralt-is-18-years-old-and-itll-be-available-in-english-in-september/)<!-- GAME:END -->
+ - [PSA: If Monster Hunter Wilds is crashing, try turning off frame generation](https://www.pcgamer.com/games/action/psa-if-monster-hunter-wilds-is-crashing-try-turning-off-frame-generation/)
+ - [&lpar;For Southeast Asia&rpar; A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/20250228-psvr2/)
+ - [Today&#39;s Wordle answer for Friday, February 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-28-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
