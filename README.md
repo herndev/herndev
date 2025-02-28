@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Monster Hunter Wilds has broken into the top 10 all-time Steam record books an hour after launch, passing Baldur&#39;s Gate 3, Hogwarts Legacy and Elden Ring](https://www.pcgamer.com/games/action/monster-hunter-wilds-steam-concurrent-player-record/)
  - [PSA: If Monster Hunter Wilds is crashing, try turning off frame generation](https://www.pcgamer.com/games/action/psa-if-monster-hunter-wilds-is-crashing-try-turning-off-frame-generation/)
- - [&lpar;For Southeast Asia&rpar; A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/20250228-psvr2/)
  - [&lpar;For Southeast Asia&rpar; A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/20250228-psvr2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
