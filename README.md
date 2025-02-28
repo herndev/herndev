@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC Is Abandoning Its Biggest Crypto Lawsuits](https://www.wired.com/story/sec-is-giving-up-biggest-crypto-lawsuits/)
- - [What&#39;s the Best iPhone to Buy or Avoid Right Now? &lpar;2025&rpar;](https://www.wired.com/gallery/iphone-buying-guide/)
- - [Airbnb co-founder Joe Gebbia now works for DOGE](https://www.theverge.com/news/621419/airbnb-joe-gebbia-joins-doge-retirement-digital-overhaul)<!-- TECH:END -->
+ - [I won’t buy another Samsung phone until it gets these 3 features](https://www.androidauthority.com/samsung-phones-missing-3-features-3528697/)
+ - [Elon enters the circus](https://www.theverge.com/policy/620892/cpac-elon-musk-chainsaw-trump-steve-bannon)
+ - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
