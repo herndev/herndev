@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cross-border payments company Flywire acquires Sertifi, which helps hotels streamline events contracting, group bookings, and related payments, for $330M &lpar;Justin Dawes/Skift&rpar;](http://www.techmeme.com/250227/p50#a250227p50)
- - [How to install MAME on your Apple Silicon Mac](https://appleinsider.com/articles/25/02/28/how-to-install-mame-on-your-apple-silicon-mac?utm_medium=rss)
- - [Autodesk plans to cut about 1,350 employees, or ~9% of its workforce, as part of a focus on profitability following pressure from activist fund Starboard Value &lpar;Bloomberg&rpar;](http://www.techmeme.com/250227/p49#a250227p49)<!-- TECH:END -->
+ - [Samsung outlines the new One UI 7 features Galaxy Buds 3 owners will love](https://www.androidauthority.com/one-ui-7-galaxy-buds-3-features-3530725/)
+ - [OpenAI says Sora is now available to ChatGPT Plus and Pro users in the EU, the UK, Switzerland, Norway, Liechtenstein, and Iceland &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250228/p2#a250228p2)
+ - [Sundar Pichai says Waymo logs 200K+ weekly paid robotaxi rides, doubling in a year and 20x in two; Waymo says its self-driving system logs 1M+ miles per week &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250228/p1#a250228p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
