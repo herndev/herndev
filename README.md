@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Another Pokémon Game, Another Year Of Debating How Ugly These Games Have Gotten](https://kotaku.com/pokemon-legends-z-a-switch-2-graphics-ugly-art-style-1851767088)
- - [How to find tracktail lizards in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/531820/tracktail-lizards-location-where-to-find)
- - [Real Monster Hunters don’t let their Palicoes speak with this crucial setting](https://www.polygon.com/gaming/531907/monster-hunter-wilds-palico-felyne-language-setting)<!-- GAME:END -->
+ - [How to get a sharp fang in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/531937/sharp-fang-where-to-find-how-to-get)
+ - [The Red Rising board game is candy for fans, and it’s 54% off now](https://www.polygon.com/good-deals/532254/red-rising-board-game-pierce-brown-sale)
+ - [Helldivers 2 continues its streak of turning missteps into in-game lore: After a major feature was paused for 24 hours, Super Earth says &#39;nothing out of the ordinary has happened&#39;](https://www.pcgamer.com/games/action/helldivers-2-continues-its-streak-of-turning-missteps-into-in-game-lore-after-a-major-feature-was-paused-for-24-hours-super-earth-says-nothing-out-of-the-ordinary-has-happened/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
