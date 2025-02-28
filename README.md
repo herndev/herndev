@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New price drop: Apple AirTag 4-pack falls to $64.49](https://appleinsider.com/articles/25/02/25/apple-airtag-4-pack-falls-to-6799-lowest-price-of-2025?utm_medium=rss)
- - [Incoming Google Messages texts now arrive with a flourish, but did you even notice?](https://www.androidauthority.com/google-messages-animation-3530857/)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [Mozilla says its new Firefox terms don’t give it ownership of your data](https://www.theverge.com/news/621796/mozilla-firefox-terms-of-use-ownership-data)
+ - [Affected by T-Mobile’s 2021 data breach? You could soon have some cash coming your way](https://www.androidauthority.com/t-mobile-data-breach-settlement-payment-3530842/)
+ - [Apple&#39;s iPhone Fold is creeping closer - what the rumor mill says is coming](https://appleinsider.com/articles/25/02/28/apples-iphone-fold-is-creeping-closer---what-the-rumor-mill-says-is-coming?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
