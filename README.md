@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aurzen Zip tri-fold projector review: mirror anything &lpar;without DRM&rpar;](https://www.theverge.com/reviews/621360/aurzen-zip-projector-review-tri-fold-specs-price)
- - [How the NYC subway used Google&#39;s experimental, AI-based TrackInspect tool to identify 92% of defect locations on subway tracks later found by human inspectors &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/250228/p4#a250228p4)
- - [The Galaxy S25 Edge just got some fresh competition in the super-thin phone department](https://www.androidauthority.com/tecno-spark-slim-announcement-3530631/)<!-- TECH:END -->
+ - [Consensys founder Joseph Lubin says the SEC has agreed &quot;in principle&quot; to end its securities enforcement case against Consensys&#39; MetaMask, filed in June 2024 &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250228/p5#a250228p5)
+ - [Apple customers start receiving the iPhone 16e](https://appleinsider.com/articles/25/02/28/apple-customers-start-receiving-the-iphone-16e?utm_medium=rss)
+ - [Save up to $400 on the Galaxy Watch Ultra with Samsung’s latest trade-in offer](https://www.androidauthority.com/samsung-galaxy-watch-ultra-trade-in-deal-3530746/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
