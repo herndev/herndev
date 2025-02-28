@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Civilization 7&#39;s first in-game event postponed so Firaxis can &#39;prioritize quality-of-life improvements&#39;](https://www.pcgamer.com/games/strategy/civilization-7s-first-in-game-event-postponed-so-firaxis-can-prioritize-quality-of-life-improvements/)
- - [D&amp;D-skewering, Disco Elysium-inspired RPG Esoteric Ebb had me trying my best to be a cleric while my Intelligence stat kept telling me to become a wizard-king](https://www.pcgamer.com/games/rpg/d-and-d-skewering-disco-elysium-inspired-rpg-esoteric-ebb-had-me-trying-my-best-to-be-a-cleric-while-my-intelligence-stat-kept-telling-me-to-become-a-wizard-king/)
- - [Best starter Bow build in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-bow-builds/)<!-- GAME:END -->
+ - [Pop-up camp locations in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/526371/pop-up-camp-locations-all-areas-fast-travel)
+ - [Ajarakan weakness, location, and strategy in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/529666/ajarakan-weakness-location-and-strategy-in-monster-hunter-wilds)
+ - [Monster Hunter Wilds: Best PC settings for graphics and performance](https://www.pcgamer.com/hardware/monster-hunter-wilds-best-pc-settings-for-graphics-and-performance/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
