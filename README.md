@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ugly Stepsister finds a new angle for Cinderella: The Substance-style body horror](https://www.polygon.com/horror/532101/the-ugly-stepsister-review-cinderella-horror)
- - [Where to find all nymphs in Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/507070/nymph-locations-butterfly-beetles-map)
- - [The new Terminator 2D already looks like the best Terminator game since the Mega Drive / Genesis, and I&#39;m not kidding](https://www.pcgamer.com/games/action/this-new-terminator-2-game-already-looks-like-the-best-one-since-the-mega-drive-and-im-not-kidding/)<!-- GAME:END -->
+ - [&#39;The point is to be generous&#39;: This $20 FPS releasing next month is trying something new—giving away a full version of the game](https://www.pcgamer.com/games/fps/the-point-is-to-be-generous-this-usd20-fps-releasing-next-month-is-trying-something-new-giving-away-a-full-version-of-the-game/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [All the 2025 Steam Next Fest demos to check out](https://www.polygon.com/gaming/530452/steam-next-fest-best-demos-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
