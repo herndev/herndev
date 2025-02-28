@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share the secret](http://9gag.com/gag/aoy3Lr0)
- - ⏩ [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
- - 👉 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)<!-- MEMES:END -->
+ - 💣 [Iterations](http://9gag.com/gag/a876zGe)
+ - ⏩ [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)
+ - 👉 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)<!-- MEMES:END -->
 
 ---
 
