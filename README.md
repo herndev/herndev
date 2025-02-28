@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Making raspberry ice-cream in 1890s](http://9gag.com/gag/avy1v2O)
- - ⏩ [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
- - 👉 [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)<!-- MEMES:END -->
+ - 💣 [Iterations](http://9gag.com/gag/a876zGe)
+ - ⏩ [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)
+ - 👉 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)<!-- MEMES:END -->
 
 ---
 
