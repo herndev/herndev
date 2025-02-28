@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waze is adding one cool feature for cars with extra screens](https://www.androidauthority.com/waze-instrument-cluster-support-3530736/)
  - [Chainalysis estimates $40B worth of illicit crypto transactions took place in 2024; criminals shifted from mostly using bitcoin in 2021 to using stablecoins now &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250228/p3#a250228p3)
- - [Samsung outlines the new One UI 7 features Galaxy Buds 3 owners will love](https://www.androidauthority.com/one-ui-7-galaxy-buds-3-features-3530725/)
- - [OpenAI says Sora is now available to ChatGPT Plus and Pro users in the EU, the UK, Switzerland, Norway, Liechtenstein, and Iceland &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250228/p2#a250228p2)<!-- TECH:END -->
+ - [Samsung outlines the new One UI 7 features Galaxy Buds 3 owners will love](https://www.androidauthority.com/one-ui-7-galaxy-buds-3-features-3530725/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
