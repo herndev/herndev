@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wham bam thank you ma&#39;am](http://9gag.com/gag/aYQEnP2)
- - ⏩ [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)
- - 👉 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)<!-- MEMES:END -->
+ - 💣 [Most passive agressive `Hi` ever](http://9gag.com/gag/a4P6qwy)
+ - ⏩ [Yo hole big?](http://9gag.com/gag/a876Ky1)
+ - 👉 [I was kinda expecting it](http://9gag.com/gag/aW479wq)<!-- MEMES:END -->
 
 ---
 
