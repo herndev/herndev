@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Soul Aside system requirements suggest Sony&#39;s upcoming RPG is a breeze to run, but you may want to make some room on your SSD](https://www.pcgamer.com/hardware/lost-soul-aside-system-requirements-suggest-sonys-upcoming-rpg-is-a-breeze-to-run-but-you-may-want-to-make-some-room-on-your-ssd/)
- - [Avowed&#39;s Best Bow Is Bought From A Posh Shop Right At The Start](https://kotaku.com/avowed-best-bow-the-long-touch-map-guide-rpg-1851766965)
- - [All Triumphant Light cards list in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/531102/triumphant-light-new-cards-all-list)<!-- GAME:END -->
+ - [Share of the Week: Pirates](https://blog.playstation.com/2025/02/28/share-of-the-week-pirates/)
+ - [D&amp;#038;D’s Unreal-powered Sigil virtual tabletop is now open for adventuring](https://www.polygon.com/dnd-dungeons-dragons/531824/sigil-dungeons-and-dragons-dnd-virtual-tabletop)
+ - [&#39;It was truly eye-opening to realize just how many people deeply love this type of game&#39;: Inzoi director hopes his life sim will &#39;bring comfort to many players&#39; lives&#39;](https://www.pcgamer.com/games/life-sim/it-was-truly-eye-opening-to-realize-just-how-many-people-deeply-love-this-type-of-game-inzoi-director-hopes-his-life-sim-will-bring-comfort-to-many-players-lives/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
