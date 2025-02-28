@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the AMD RX 9000-series livestream with us here: Finally, some new AMD graphics cards to get nerdy with](https://www.pcgamer.com/hardware/news/live/amd-rx-9000-series-announcement-live-finally-the-new-amd-gpus-are-here/)
- - [A match made in heaven: Buy a 1600 W MSI power supply and get Monster Hunter Wilds for free](https://www.pcgamer.com/hardware/power-supplies/a-match-made-in-heaven-buy-a-1600-w-msi-power-supply-and-get-monster-hunter-wilds-for-free/)
- - [How to change appearance in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-change-appearance/)<!-- GAME:END -->
+ - [AMD has officially revealed its RDNA 4-based RX 9070 and RX 9070 XT GPUs and they look a lot like RDNA 3, only turbocharged](https://www.pcgamer.com/hardware/graphics-cards/amd-has-officially-revealed-its-rdna-4-based-rx-9070-and-rx-9070-xt-gpus-and-they-look-a-lot-like-rdna-3-only-turbocharged/)
+ - [&#39;Infused with AMD DNA&#39;: FSR 4 has been announced with a healthy dose of machine learning and support for 30+ games at launch](https://www.pcgamer.com/hardware/graphics-cards/infused-with-amd-dna-fsr-4-has-been-announced-with-a-healthy-dose-of-machine-learning-and-support-for-30-games-at-launch/)
+ - [Monster Hunter Wilds is now available, and 18% off on PC](https://www.polygon.com/sales-guide/531433/monster-hunter-wilds-where-to-buy-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
