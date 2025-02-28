@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
+ - 💣 [Hard to tease us](http://9gag.com/gag/aO8eGqE)
  - ⏩ [Hmmmmm](http://9gag.com/gag/aBy64jO)
- - 👉 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)<!-- MEMES:END -->
+ - 👉 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)<!-- MEMES:END -->
 
 ---
 
