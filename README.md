@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hear hear](http://9gag.com/gag/avy1vAn)
- - ⏩ [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
- - 👉 [I was kinda expecting it](http://9gag.com/gag/aW479wq)<!-- MEMES:END -->
+ - 💣 [When the new Avatar meets Korra](http://9gag.com/gag/aRB42y7)
+ - ⏩ [I was kinda expecting it](http://9gag.com/gag/aW479wq)
+ - 👉 [Japanese shoplifter](http://9gag.com/gag/aAy6ONp)<!-- MEMES:END -->
 
 ---
 
