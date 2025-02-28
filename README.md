@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese shoplifter](http://9gag.com/gag/aAy6ONp)
- - ⏩ [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)
- - 👉 [If only\u2026](http://9gag.com/gag/aQzvNww)<!-- MEMES:END -->
+ - 💣 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
+ - ⏩ [Hmmmmm](http://9gag.com/gag/aBy64jO)
+ - 👉 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)<!-- MEMES:END -->
 
 ---
 
