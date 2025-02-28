@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get your hands on an Apple-1, Pippin, or sealed iPhone via latest auction](https://appleinsider.com/articles/25/02/28/get-your-hands-on-an-apple-1-pippin-or-sealed-iphone-via-latest-auction?utm_medium=rss)
- - [Bose Ultra Open wireless earbuds review: Great, but buy AirPods instead](https://appleinsider.com/articles/25/02/28/bose-ultra-open-wireless-earbuds-review-great-but-buy-airpods-instead?utm_medium=rss)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [MetaMask Head of Security Taylor Monahan says the Bybit hackers have moved at least 209,384 ETH, of ~400,000 stolen, onto Bitcoin, largely using THORChain swaps &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250227/p46#a250227p46)
+ - [Documents: Tesla applied late last year for a transportation permit in California that suggests it&#39;s working to launch a ride-hailing business in the near term &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/250227/p45#a250227p45)
+ - [Get your hands on an Apple-1, Pippin, or sealed iPhone via latest auction](https://appleinsider.com/articles/25/02/28/get-your-hands-on-an-apple-1-pippin-or-sealed-iphone-via-latest-auction?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
