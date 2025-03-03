@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Two Point Museum, FragPunk, and the other new games out this week](https://www.polygon.com/gaming/529513/best-new-game-releases-march-3-two-point-museum-fragpunk)
- - [All Pocket Promo A cards in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/504997/promo-a-cards-list-all-how-to-get)
- - [Bluey Lego sets are already available to pre-order at Amazon](https://www.polygon.com/news/531810/lego-bluey-set-where-to-buy-toy-fair)<!-- GAME:END -->
+ - [Demi Moore deserved an Oscar, but it’s no surprise she didn’t win](https://www.polygon.com/news/531844/demi-moore-oscar-loss-substance-horror)
+ - [I desperately want more of this magical girl pilot animatic](https://www.polygon.com/animation-cartoons/532786/pretty-pretty-please-i-dont-want-to-be-a-magical-girl-pilot-youtube)
+ - [Clair Obscur: Expedition 33 feels like a French Persona, with an impressive combat system that I should love, but which I actually hate](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-feels-like-a-french-persona-with-an-impressive-combat-system-that-i-should-love-but-which-i-actually-hate/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
