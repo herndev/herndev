@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You won’t need a flagship phone to enjoy a pair of Wi-Fi earbuds](https://www.androidauthority.com/qualcomm-xpan-support-3531496/)
- - [Here’s how the Play Store’s new “Ask Play” feature answers your app-related queries](https://www.androidauthority.com/google-play-store-ask-play-demo-3531470/)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
+ - [Driverless racecar sets a new autonomous speed record](https://www.theverge.com/news/621990/autonomous-speed-record-indy-challenge-maserati)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [Singapore charges three men in a case suspected to involve Nvidia chip sales that breach US export controls, after a tip-off the chips were exported to Malaysia &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/250303/p5#a250303p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
