@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, March 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-3-2025/)
  - [Five new Steam games you probably missed &lpar;March 3, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-3-2025/)
- - [The New Vegas remake of the Fallout 3 that never was just got its first demo, not to be confused with the straight-up remake of the cancelled Fallout 3 or, indeed, Fallout 3](https://www.pcgamer.com/games/fallout/the-new-vegas-remake-of-the-fallout-3-that-never-was-just-got-its-first-demo-not-to-be-confused-with-the-straight-up-remake-of-the-cancelled-fallout-3-or-indeed-fallout-3/)
- - [I just started playing Monster Hunter Wilds and this monster health bar mod might be the first one I install](https://www.pcgamer.com/games/action/i-just-started-playing-monster-hunter-wilds-and-this-monster-health-bar-mod-might-be-the-first-one-i-install/)<!-- GAME:END -->
+ - [The New Vegas remake of the Fallout 3 that never was just got its first demo, not to be confused with the straight-up remake of the cancelled Fallout 3 or, indeed, Fallout 3](https://www.pcgamer.com/games/fallout/the-new-vegas-remake-of-the-fallout-3-that-never-was-just-got-its-first-demo-not-to-be-confused-with-the-straight-up-remake-of-the-cancelled-fallout-3-or-indeed-fallout-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
