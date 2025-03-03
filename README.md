@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah skyrim is ez](http://9gag.com/gag/aPAmKzP)
- - ⏩ [He Is a Man of Focus, Commitment and Sheer F**king Will](http://9gag.com/gag/aO8eXx6)
- - 👉 [People are strange](http://9gag.com/gag/aKGArX3)<!-- MEMES:END -->
+ - 💣 [Dark day.](http://9gag.com/gag/aBy65AN)
+ - ⏩ [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 👉 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)<!-- MEMES:END -->
 
 ---
 
