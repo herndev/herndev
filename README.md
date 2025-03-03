@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Demi Moore deserved an Oscar, but it’s no surprise she didn’t win](https://www.polygon.com/news/531844/demi-moore-oscar-loss-substance-horror)
- - [I desperately want more of this magical girl pilot animatic](https://www.polygon.com/animation-cartoons/532786/pretty-pretty-please-i-dont-want-to-be-a-magical-girl-pilot-youtube)
- - [Clair Obscur: Expedition 33 feels like a French Persona, with an impressive combat system that I should love, but which I actually hate](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-feels-like-a-french-persona-with-an-impressive-combat-system-that-i-should-love-but-which-i-actually-hate/)<!-- GAME:END -->
+ - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find)
+ - [The RX 9070-series cards look impressive, but AMD&#39;s Toyshop tech demo shows some ghosting and artifacting that&#39;s had me scratching my head](https://www.pcgamer.com/hardware/graphics-cards/the-rx-9070-series-cards-look-impressive-but-amds-toyshop-tech-demo-shows-some-ghosting-and-artifacting-thats-had-me-scratching-my-head/)
+ - [I&#39;m as excited as the next guy for AMD&#39;s 9070-series launch but the lack of reference cards has me worried about how real its MSRP will be](https://www.pcgamer.com/hardware/graphics-cards/im-as-excited-as-the-next-guy-for-amds-9070-series-launch-but-the-lack-of-reference-cards-has-me-worried-about-how-real-its-msrp-will-be/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
