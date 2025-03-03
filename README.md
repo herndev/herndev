@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the best puzzle game designers is back with Kaizen: A Factory Story, a game about manufacturing Japanese consumer goods during the largest economic bubble in history](https://www.pcgamer.com/games/puzzle/one-of-the-best-puzzle-game-designers-is-back-with-kaizen-a-factory-story-a-game-about-manufacturing-japanese-consumer-goods-during-the-largest-economic-bubble-in-history/)
- - [A new Zachtronics puzzle game? Kind of!](https://www.polygon.com/gaming/531559/zachtronics-new-game-kind-of-kaizen)
- - [‘My air fryer is more optimized than this’: Monster Hunter Wilds players are suffering from performance issues](https://www.polygon.com/news/532303/monster-hunter-wilds-performance-issues-pc-steam-console)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 3, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-3-2025/)
+ - [The New Vegas remake of the Fallout 3 that never was just got its first demo, not to be confused with the straight-up remake of the cancelled Fallout 3 or, indeed, Fallout 3](https://www.pcgamer.com/games/fallout/the-new-vegas-remake-of-the-fallout-3-that-never-was-just-got-its-first-demo-not-to-be-confused-with-the-straight-up-remake-of-the-cancelled-fallout-3-or-indeed-fallout-3/)
+ - [I just started playing Monster Hunter Wilds and this monster health bar mod might be the first one I install](https://www.pcgamer.com/games/action/i-just-started-playing-monster-hunter-wilds-and-this-monster-health-bar-mod-might-be-the-first-one-i-install/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
