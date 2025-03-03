@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Identify theft is not a joke, Jim](http://9gag.com/gag/aD269md)
- - ⏩ [And blackjack](http://9gag.com/gag/aD2651d)
- - 👉 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)<!-- MEMES:END -->
+ - 💣 [But At Least It Came Back](http://9gag.com/gag/aZZ16Ln)
+ - ⏩ [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
+ - 👉 [Is that right](http://9gag.com/gag/aGyn5AX)<!-- MEMES:END -->
 
 ---
 
