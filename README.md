@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hulu prematurely ended its Oscars stream right before the final awards](https://www.theverge.com/news/622669/hulu-oscars-stream-ended-early)
  - [James Bond: The Best Order to Watch Every 007 Film](https://www.cnet.com/pictures/james-bond-best-order-to-watch-every-007-film/#ftag=CAD590a51e)
- - [Make Your Teen&#39;s Phone a Family Affair &lpar;Without Invading Their Privacy&rpar;](https://www.cnet.com/tech/mobile/make-your-teens-phone-a-family-affair-without-invading-their-privacy/#ftag=CAD590a51e)
- - [The US&#39; plan to cut federal contracts imperils Booz Allen Hamilton, which gets most of its revenue from providing IT and AI services across the government &lpar;Chip Cutter/Wall Street Journal&rpar;](http://www.techmeme.com/250302/p13#a250302p13)<!-- TECH:END -->
+ - [Make Your Teen&#39;s Phone a Family Affair &lpar;Without Invading Their Privacy&rpar;](https://www.cnet.com/tech/mobile/make-your-teens-phone-a-family-affair-without-invading-their-privacy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
