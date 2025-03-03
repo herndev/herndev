@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
- - ⏩ [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
- - 👉 [Beauty standards](http://9gag.com/gag/a876xwV)<!-- MEMES:END -->
+ - 💣 [Beauty standards](http://9gag.com/gag/a876xwV)
+ - ⏩ [I need to go back to school](http://9gag.com/gag/amo1ezy)
+ - 👉 [Eating dusts.](http://9gag.com/gag/aAy6jWd)<!-- MEMES:END -->
 
 ---
 
