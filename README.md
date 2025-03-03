@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Driverless racecar sets a new autonomous speed record](https://www.theverge.com/news/621990/autonomous-speed-record-indy-challenge-maserati)
+ - [One UI 8.0 could launch much sooner than expected](https://www.androidauthority.com/one-ui-7-one-ui-8-3531519/)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Singapore charges three men in a case suspected to involve Nvidia chip sales that breach US export controls, after a tip-off the chips were exported to Malaysia &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/250303/p5#a250303p5)<!-- TECH:END -->
+ - [If I had $599 and wanted a new phone, I’d grab this excellent Pixel 9 deal](https://www.androidauthority.com/google-pixel-9-deal-amazon-3531523/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
