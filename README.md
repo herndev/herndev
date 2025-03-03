@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
- - ⏩ [Dark day.](http://9gag.com/gag/aBy65AN)
- - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
+ - 💣 [Yeah skyrim is ez](http://9gag.com/gag/aPAmKzP)
+ - ⏩ [He Is a Man of Focus, Commitment and Sheer F**king Will](http://9gag.com/gag/aO8eXx6)
+ - 👉 [People are strange](http://9gag.com/gag/aKGArX3)<!-- MEMES:END -->
 
 ---
 
