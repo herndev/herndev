@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Ghost private lander reaches the Moon intact](https://www.theverge.com/news/622817/firefly-aerospace-blue-ghost-nasa-moon-landing)
- - [New York-based corporate payments startup Ramp hit a $13B valuation in a $150M share sale to GIC, Stripes, Thrive, and others, up from $7.65B in April 2024 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250303/p9#a250303p9)
- - [Tushy Aura Electric Bidet Review: Budget Bidet Maker Goes Luxe](https://www.wired.com/review/review-tushy-aura-electric-bidet/)<!-- TECH:END -->
+ - [After less than a week, PS3 emulator RPCS3 is ready for testing on Android](https://www.androidauthority.com/ps3-emulator-rpcs3-android-alpha-3531546/)
+ - [Sources: Nvidia and Broadcom are running 18A manufacturing tests with Intel, and AMD is also evaluating whether Intel&#39;s 18A process is suitable for its needs &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p10#a250303p10)
+ - [Google Password Manager is making it easier to wipe all saved credentials, here’s how &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-password-manager-delete-all-data-apk-3531541/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
