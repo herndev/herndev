@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The legendary Daigo parry](http://9gag.com/gag/amo14e9)
- - ⏩ [So much sadness](http://9gag.com/gag/ae91wxB)
- - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
+ - 💣 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
+ - ⏩ [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
+ - 👉 [Mercury on aluminum cup](http://9gag.com/gag/aLnzZ4x)<!-- MEMES:END -->
 
 ---
 
