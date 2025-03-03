@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)
- - ⏩ [Much wow](http://9gag.com/gag/ary3Y9V)
- - 👉 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)<!-- MEMES:END -->
+ - 💣 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
+ - ⏩ [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
+ - 👉 [Beauty standards](http://9gag.com/gag/a876xwV)<!-- MEMES:END -->
 
 ---
 
