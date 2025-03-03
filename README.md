@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find)
- - [The RX 9070-series cards look impressive, but AMD&#39;s Toyshop tech demo shows some ghosting and artifacting that&#39;s had me scratching my head](https://www.pcgamer.com/hardware/graphics-cards/the-rx-9070-series-cards-look-impressive-but-amds-toyshop-tech-demo-shows-some-ghosting-and-artifacting-thats-had-me-scratching-my-head/)
- - [I&#39;m as excited as the next guy for AMD&#39;s 9070-series launch but the lack of reference cards has me worried about how real its MSRP will be](https://www.pcgamer.com/hardware/graphics-cards/im-as-excited-as-the-next-guy-for-amds-9070-series-launch-but-the-lack-of-reference-cards-has-me-worried-about-how-real-its-msrp-will-be/)<!-- GAME:END -->
+ - [Monster Hunter Wilds’ arachnophobia mode sucks, so someone fixed it](https://www.polygon.com/gaming/532998/monster-hunter-wilds-arachnophobia-mode-mod-nexusmods)
+ - [Popular Female Streamers Stalked And Attacked During IRL Stream](https://kotaku.com/valkyrae-cinna-women-attacked-stalker-irl-stream-twitch-1851767406)
+ - [Magic: The Gathering’s Spider-Man Cards Look Cool But Prices Have Gotten Out Of Control](https://kotaku.com/mtg-spider-man-ff-prices-ebay-preorder-sold-out-1851767413)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
