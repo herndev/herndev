@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Ramp crossed $700M in annualized revenue in January 2025, up from $300M in August 2023; its CEO says it&#39;s not profitable by choice as it reinvests &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250303/p26#a250303p26)
- - [All Samsung Galaxy S25 devices go on sale for the first time!](https://www.androidauthority.com/samsung-galaxy-s25-plus-ultra-deals-3531742/)
- - [Nvidia shares fell 8.69% amid fears about tariffs and increased scrutiny of GPU shipments that may be in violation of US export controls &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250303/p25#a250303p25)<!-- TECH:END -->
+ - [Anthropic raised a $3.5B Series E led by Lightspeed at a $61.5B valuation; source: its annual revenue run rate has grown by 30% in 2025, from ~$1B in late 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250303/p29#a250303p29)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Your Galaxy S25 lock screen is getting a big Gemini Live upgrade](https://www.androidauthority.com/gemini-live-on-now-bar-3531781/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
