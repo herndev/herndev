@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
- - ⏩ [Much wow](http://9gag.com/gag/ary3Y9V)
- - 👉 [And blackjack](http://9gag.com/gag/aD2651d)<!-- MEMES:END -->
+ - 💣 [So much sadness](http://9gag.com/gag/ae91wxB)
+ - ⏩ [And blackjack](http://9gag.com/gag/aD2651d)
+ - 👉 [Dark day.](http://9gag.com/gag/aBy65AN)<!-- MEMES:END -->
 
 ---
 
