@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why buy an action cam, earbuds, and walkie-talkie when you can get these smart glasses instead?](https://www.androidauthority.com/bleequp-ranger-smart-glasses-3531464/)
- - [How Anthropic monitoring its AI models playing Pok&amp;eacute;mon games is helping the startup&#39;s researchers hone their thinking around the development of its agentic tech &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/250303/p3#a250303p3)
- - [From S26 to OnePlus 14, Qualcomm’s new X85 modem will power next-gen flagships](https://www.androidauthority.com/qualcomm-x85-modem-3529921/)<!-- TECH:END -->
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [This concept phone supports full-sized DSLR camera lenses, and we tried it out](https://www.androidauthority.com/realme-interchangeable-lens-concept-phone-3531370/)
+ - [Chinese traders are selling Nvidia-equipped servers, including Blackwell, via third parties in countries like Vietnam and Taiwan; some promise six-week delivery &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250303/p4#a250303p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
