@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find ember rufflizards in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532889/ember-rufflizards-location-find-map)
- - [Rockstar acquires Aussie studio founded by L.A. Noire director](https://www.polygon.com/news/533101/rockstar-games-acquisition-video-deluxe-australia-brendan-mcnamara-la-noire)
- - [A canceled video game sequel to George Orwell’s 1984 surfaces online](https://www.polygon.com/news/532975/1984-sequel-big-brother-george-orwell-canceled-game-lost-media)<!-- GAME:END -->
+ - [Just 2 weeks before the release of its next project, another indie studio falls victim to the relentless drive to be &#39;agile&#39;](https://www.pcgamer.com/gaming-industry/just-2-weeks-before-the-release-of-its-next-project-another-indie-studio-falls-victim-to-the-relentless-drive-to-be-agile/)
+ - [Kingdom Come: Deliverance 2 modder snaps, transforms all women, animals, and doors into fleshy spheres but turns all men invisible: &#39;It’s just spheres. Experience spheres!&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-modder-snaps-transforms-all-women-animals-and-doors-into-fleshy-spheres-but-turns-all-men-invisible-its-just-spheres-experience-spheres/)
+ - [The colder the weather is in London,  the cheaper this videogame gets](https://www.pcgamer.com/games/puzzle/the-colder-the-weather-is-in-london-the-cheaper-this-videogame-gets/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
