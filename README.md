@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)
- - ⏩ [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)
- - 👉 [Hmmmmm](http://9gag.com/gag/aBy64jO)<!-- MEMES:END -->
+ - 💣 [Me too, lady. Me too\u2026](http://9gag.com/gag/avy1VvE)
+ - ⏩ [So much sadness](http://9gag.com/gag/ae91wxB)
+ - 👉 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)<!-- MEMES:END -->
 
 ---
 
