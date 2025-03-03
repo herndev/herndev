@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Duck Maker](http://9gag.com/gag/apR3MXn)
- - ⏩ [For the guy who posted the boring explanation about Aral Sea](http://9gag.com/gag/axy3qy1)
- - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
+ - 💣 [Let me help too - Memes from my phone #1](http://9gag.com/gag/azxdnLm)
+ - ⏩ [Now what](http://9gag.com/gag/a345r8Q)
+ - 👉 [Is that right](http://9gag.com/gag/aGyn5AX)<!-- MEMES:END -->
 
 ---
 
