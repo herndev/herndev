@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fingerprints and splatters: New emoji arrive in iOS 18.4 developer beta](https://appleinsider.com/articles/25/03/03/fingerprints-and-splatters-new-emoji-arrive-in-ios-184-developer-beta?utm_medium=rss)
- - [You’ll soon be able to show Gemini Live what you see in real time](https://www.androidauthority.com/gemini-live-video-screen-sharing-3531723/)
- - [Self-driving cars: Google and others map the road to automated vehicles](https://www.theverge.com/2012/12/23/3797260/self-driving-cars-automated-vehicles)<!-- TECH:END -->
+ - [Source: Ramp crossed $700M in annualized revenue in January 2025, up from $300M in August 2023; its CEO says it&#39;s not profitable by choice as it reinvests &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250303/p26#a250303p26)
+ - [All Samsung Galaxy S25 devices go on sale for the first time!](https://www.androidauthority.com/samsung-galaxy-s25-plus-ultra-deals-3531742/)
+ - [Nvidia shares fell 8.69% amid fears about tariffs and increased scrutiny of GPU shipments that may be in violation of US export controls &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250303/p25#a250303p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
