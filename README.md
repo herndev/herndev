@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s ICO says it&#39;s probing how TikTok uses 13-17-year-olds&#39; personal data for content suggestions and how Reddit and Imgur verify the ages of child users &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p2#a250303p2)
- - [This Modular Phone Concept Is Xiaomi’s Plan to Kill the Camera Bump](https://www.wired.com/story/xiaomi-modular-optical-system-mwc-2025/)
- - [A look at ALERTCalifornia, a program from UC San Diego, which has deployed over 1,150 AI-equipped cameras to monitor wildfires and other natural disasters &lpar;Jim Carlton/Wall Street Journal&rpar;](http://www.techmeme.com/250303/p1#a250303p1)<!-- TECH:END -->
+ - [Why buy an action cam, earbuds, and walkie-talkie when you can get these smart glasses instead?](https://www.androidauthority.com/bleequp-ranger-smart-glasses-3531464/)
+ - [How Anthropic monitoring its AI models playing Pok&amp;eacute;mon games is helping the startup&#39;s researchers hone their thinking around the development of its agentic tech &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/250303/p3#a250303p3)
+ - [From S26 to OnePlus 14, Qualcomm’s new X85 modem will power next-gen flagships](https://www.androidauthority.com/qualcomm-x85-modem-3529921/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
