@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recent incidents indicate the US no longer characterizes Russia as a cyber threat; source: CISA analysts were told not to follow or report on Russian threats &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/250228/p21#a250228p21)
- - [Apple AirTag 4-Pack price keeps dropping to new record lows!](https://www.androidauthority.com/apple-airtag-4-pack-deal-8-3530996/)
- - [DOGE&#39;s Misplaced War on Software Licenses](https://www.wired.com/story/doge-software-license-cancel-federal-budget/)<!-- TECH:END -->
+ - [A trader used $6M to open a 50x leveraged long position on both BTC and ETH before Trump&#39;s crypto reserve announcement and closed their position for a $7M gain &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250302/p12#a250302p12)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [Infinix’s new concepts use solar power to charge your phone](https://www.theverge.com/news/622581/infinix-solar-phone-case-concept-mwc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
