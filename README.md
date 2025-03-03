@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiana show no longer coming to Disney Plus](https://www.polygon.com/animation-cartoons/533233/tiana-princess-and-the-frog-show-disney-plus-canceled)
- - [What is affinity in Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/533192/affinity-explained-negative-how-to-increase)
- - [Who knew the Nintendo Switch’s first game would still be its best 8 years later?](https://www.polygon.com/gaming/533104/nintendo-switch-2-zelda-breath-of-the-wild-8-eighth-birthday)<!-- GAME:END -->
+ - [How to get Fucium Ore in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532976/fucium-ore-location-how-to-get)
+ - [Where to find gillopods in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533168/gillopod-location-where-to-find)
+ - [Where to find rime beetles in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533116/rime-beetle-location-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
