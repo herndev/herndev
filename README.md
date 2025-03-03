@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Duck Maker](http://9gag.com/gag/apR3MXn)
- - ⏩ [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)
- - 👉 [`Hey if you ever get invaded, the US has your back. Financially at least, not militarily. And only for maybe 2-3 years. And we will make you pay it back. And we will try and force you in to treaties that robs your nation of its resources.`](http://9gag.com/gag/aqyXoR7)<!-- MEMES:END -->
+ - 💣 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)
+ - ⏩ [Much wow](http://9gag.com/gag/ary3Y9V)
+ - 👉 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)<!-- MEMES:END -->
 
 ---
 
