@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Builder.ai CEO Sachin Dev Duggal says he is stepping down from the London-based startup, which has raised $450M to use AI to develop apps and websites &lpar;Alexandra Heal/Financial Times&rpar;](http://www.techmeme.com/250303/p11#a250303p11)
- - [New HONOR CEO James Li is all about collaboration](https://www.androidauthority.com/honor-ceo-james-li-3531583/)
- - [The 8 Automatic Litter Boxes We&#39;ve Tested and Recommend &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)<!-- TECH:END -->
+ - [Is your first-gen Nest Aware plan ending? Google to stop support in some markets](https://www.androidauthority.com/first-gen-nest-aware-ending-3531575/)
+ - [India&#39;s IT ministry says AWS plans to invest $8.2B in India&#39;s western state of Maharashtra over the next few years, and will deploy its own GPUs in India &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p14#a250303p14)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
