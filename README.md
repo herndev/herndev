@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantastic Voyage: Playing the Opening Act of Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/03/03/clair-obscur-expedition-33-preview/)
- - [Before making Returnal and Saros, Housemarque starred in a great documentary](https://www.polygon.com/q-and-a/531631/housemarque-documentary-interview)
- - [Watch out, Monster Hunter Wilds has a progress-breaking bug](https://www.polygon.com/news/532757/monster-hunter-wilds-game-breaking-bug)<!-- GAME:END -->
+ - [Make Plays at Light Speed With Waylay, Valorant’s New Agent](https://news.xbox.com/en-us/2025/03/03/waylay-new-valorant-agent/)
+ - [PlayStation VR 2’s permanent $200 discount is here](https://www.polygon.com/gaming/530813/playstation-vr-2-price-cut-399-march)
+ - [Rockstar buys Video Games Deluxe, presumably to make future releases even more deluxe, and the GTA series has now sold over 440 million copies](https://www.pcgamer.com/games/grand-theft-auto/rockstar-buys-video-games-deluxe-presumably-to-make-future-releases-even-more-deluxe-and-the-gta-series-has-now-sold-over-440-million-copies/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
