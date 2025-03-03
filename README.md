@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 9a FCC filing confirms at least one flagship feature for Google’s budget phone](https://www.androidauthority.com/pixel-9a-fcc-listings-3531677/)
- - [SwitchBot launches cut-your-own smart shades](https://www.theverge.com/news/623000/switchbot-smart-roller-shades-adjustable-price-release-date-specs)
- - [The iPhone 15 Pro will get Visual Intelligence with iOS 18.4](https://www.theverge.com/news/623211/apple-iphone-15-pro-visual-intelligence-ios-18-4)<!-- TECH:END -->
+ - [A Lethal Mystery Illness Is Spreading in Congo. USAID Cuts Have Slowed the Response](https://www.wired.com/story/race-to-identify-drcs-mystery-illness-slowed-by-us-aid-cuts-democratic-republic-congo-usaid/)
+ - [Galaxy Tab S10 FE series leak sheds light on what hardware upgrades to expect](https://www.androidauthority.com/galaxy-tab-s10-fe-series-spec-leak-3531672/)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
