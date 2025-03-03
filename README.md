@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beauty standards](http://9gag.com/gag/a876xwV)
- - ⏩ [I need to go back to school](http://9gag.com/gag/amo1ezy)
- - 👉 [Eating dusts.](http://9gag.com/gag/aAy6jWd)<!-- MEMES:END -->
+ - 💣 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
+ - ⏩ [Much wow](http://9gag.com/gag/ary3Y9V)
+ - 👉 [And blackjack](http://9gag.com/gag/aD2651d)<!-- MEMES:END -->
 
 ---
 
