@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents and sources: the Trump administration cut 170 staff at the National Science Foundation federal agency, threatening AI research and US competitiveness &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250303/p16#a250303p16)
- - [Amazon is clearing out MacBook Air &amp; iPad Pro inventory with bonus coupons](https://appleinsider.com/articles/25/03/03/amazon-is-clearing-out-macbook-air-ipad-pro-inventory-with-bonus-coupons?utm_medium=rss)
- - [Tim Cook teases the imminent launch of a new MacBook Air](https://appleinsider.com/articles/25/03/03/tim-cook-teases-the-imminent-launch-of-a-new-macbook-air?utm_medium=rss)<!-- TECH:END -->
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [All the news on Microsoft’s latest Copilot and Windows AI features](https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows)
+ - [MLB &#39;Friday Night Baseball&#39; returns to Apple TV+ on March 28](https://appleinsider.com/articles/25/03/03/mlb-friday-night-baseball-returns-to-apple-tv-on-march-28?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
