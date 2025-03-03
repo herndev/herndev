@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
- - ⏩ [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
- - 👉 [Mercury on aluminum cup](http://9gag.com/gag/aLnzZ4x)<!-- MEMES:END -->
+ - 💣 [Unarmed guard stops man with AR-15-type gun from entering NY clinic](http://9gag.com/gag/azxdWKZ)
+ - ⏩ [Splinter](http://9gag.com/gag/a345677)
+ - 👉 [And blackjack](http://9gag.com/gag/aD2651d)<!-- MEMES:END -->
 
 ---
 
