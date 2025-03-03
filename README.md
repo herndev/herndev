@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unarmed guard stops man with AR-15-type gun from entering NY clinic](http://9gag.com/gag/azxdWKZ)
- - ⏩ [Splinter](http://9gag.com/gag/a345677)
- - 👉 [And blackjack](http://9gag.com/gag/aD2651d)<!-- MEMES:END -->
+ - 💣 [Identify theft is not a joke, Jim](http://9gag.com/gag/aD269md)
+ - ⏩ [And blackjack](http://9gag.com/gag/aD2651d)
+ - 👉 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)<!-- MEMES:END -->
 
 ---
 
