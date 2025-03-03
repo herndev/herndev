@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My Son Found His First Favorite Stick... Let\u2019s Prove to My Wife That This Is a Big Deal.](http://9gag.com/gag/adB1zNV)
- - ⏩ [Make my happy always](http://9gag.com/gag/a2vwe3w)
- - 👉 [This post was sponsored by skynet](http://9gag.com/gag/awy36o4)<!-- MEMES:END -->
+ - 💣 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
+ - ⏩ [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)
+ - 👉 [White n tight](http://9gag.com/gag/apR3wg9)<!-- MEMES:END -->
 
 ---
 
