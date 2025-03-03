@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let me help too - Memes from my phone #1](http://9gag.com/gag/azxdnLm)
- - ⏩ [Now what](http://9gag.com/gag/a345r8Q)
- - 👉 [Is that right](http://9gag.com/gag/aGyn5AX)<!-- MEMES:END -->
+ - 💣 [So much sadness](http://9gag.com/gag/ae91wxB)
+ - ⏩ [Road tax \ud83d\ude05](http://9gag.com/gag/agm1eQv)
+ - 👉 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)<!-- MEMES:END -->
 
 ---
 
