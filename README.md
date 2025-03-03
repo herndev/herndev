@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is your first-gen Nest Aware plan ending? Google to stop support in some markets](https://www.androidauthority.com/first-gen-nest-aware-ending-3531575/)
- - [India&#39;s IT ministry says AWS plans to invest $8.2B in India&#39;s western state of Maharashtra over the next few years, and will deploy its own GPUs in India &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p14#a250303p14)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Documents and sources: the Trump administration cut 170 staff at the National Science Foundation federal agency, threatening AI research and US competitiveness &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250303/p16#a250303p16)
+ - [Amazon is clearing out MacBook Air &amp; iPad Pro inventory with bonus coupons](https://appleinsider.com/articles/25/03/03/amazon-is-clearing-out-macbook-air-ipad-pro-inventory-with-bonus-coupons?utm_medium=rss)
+ - [Tim Cook teases the imminent launch of a new MacBook Air](https://appleinsider.com/articles/25/03/03/tim-cook-teases-the-imminent-launch-of-a-new-macbook-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
