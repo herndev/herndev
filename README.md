@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, March 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-3-2025/)
- - [Five new Steam games you probably missed &lpar;March 3, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-3-2025/)
- - [The New Vegas remake of the Fallout 3 that never was just got its first demo, not to be confused with the straight-up remake of the cancelled Fallout 3 or, indeed, Fallout 3](https://www.pcgamer.com/games/fallout/the-new-vegas-remake-of-the-fallout-3-that-never-was-just-got-its-first-demo-not-to-be-confused-with-the-straight-up-remake-of-the-cancelled-fallout-3-or-indeed-fallout-3/)<!-- GAME:END -->
+ - [Ex-Intel CEO Craig Barrett suggests the company should &#39;fire the board and rehire Pat Gelsinger to finish the job he has aptly handled over the past few years&#39;](https://www.pcgamer.com/hardware/ex-intel-ceo-craig-barrett-suggests-the-company-should-fire-the-board-and-rehire-pat-gelsinger-to-finish-the-job-he-has-aptly-handled-over-the-past-few-years/)
+ - [How to capture monsters and endemic life in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/529576/capture-monsters-endemic-life-how-to)
+ - [Today&#39;s Wordle answer for Monday, March 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-3-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
