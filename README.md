@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dark day.](http://9gag.com/gag/aBy65AN)
+ - 💣 [People are strange](http://9gag.com/gag/aKGArX3)
  - ⏩ [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 👉 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)<!-- MEMES:END -->
+ - 👉 [Chris P. Bacon](http://9gag.com/gag/agm1Mxv)<!-- MEMES:END -->
 
 ---
 
