@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After less than a week, PS3 emulator RPCS3 is ready for testing on Android](https://www.androidauthority.com/ps3-emulator-rpcs3-android-alpha-3531546/)
- - [Sources: Nvidia and Broadcom are running 18A manufacturing tests with Intel, and AMD is also evaluating whether Intel&#39;s 18A process is suitable for its needs &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p10#a250303p10)
- - [Google Password Manager is making it easier to wipe all saved credentials, here’s how &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-password-manager-delete-all-data-apk-3531541/)<!-- TECH:END -->
+ - [Builder.ai CEO Sachin Dev Duggal says he is stepping down from the London-based startup, which has raised $450M to use AI to develop apps and websites &lpar;Alexandra Heal/Financial Times&rpar;](http://www.techmeme.com/250303/p11#a250303p11)
+ - [New HONOR CEO James Li is all about collaboration](https://www.androidauthority.com/honor-ceo-james-li-3531583/)
+ - [The 8 Automatic Litter Boxes We&#39;ve Tested and Recommend &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
