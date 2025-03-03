@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals is considering &#39;crossover events and promotions with other media&#39; but all players want is more comicbook and movie skins](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-considering-crossover-events-and-promotions-with-other-media-but-all-players-want-is-more-comicbook-and-movie-skins/)
- - [Windows 10, 32 GB of RAM, and the RTX 4060 all surge to the top spot in the Steam Hardware Survey, seemingly due to a huge influx of Chinese-language user data](https://www.pcgamer.com/hardware/windows-10-32-gb-of-ram-and-the-rtx-4060-all-surge-to-the-top-spot-in-the-steam-hardware-survey-seemingly-due-to-a-huge-influx-of-chinese-language-user-data/)
- - [Ex-Intel CEO Craig Barrett suggests the company should &#39;fire the board and rehire Pat Gelsinger to finish the job he has aptly handled over the past few years&#39;](https://www.pcgamer.com/hardware/ex-intel-ceo-craig-barrett-suggests-the-company-should-fire-the-board-and-rehire-pat-gelsinger-to-finish-the-job-he-has-aptly-handled-over-the-past-few-years/)<!-- GAME:END -->
+ - [Fantastic Voyage: Playing the Opening Act of Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/03/03/clair-obscur-expedition-33-preview/)
+ - [Before making Returnal and Saros, Housemarque starred in a great documentary](https://www.polygon.com/q-and-a/531631/housemarque-documentary-interview)
+ - [Watch out, Monster Hunter Wilds has a progress-breaking bug](https://www.polygon.com/news/532757/monster-hunter-wilds-game-breaking-bug)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
