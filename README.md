@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [All the news on Microsoft’s latest Copilot and Windows AI features](https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows)
- - [MLB &#39;Friday Night Baseball&#39; returns to Apple TV+ on March 28](https://appleinsider.com/articles/25/03/03/mlb-friday-night-baseball-returns-to-apple-tv-on-march-28?utm_medium=rss)<!-- TECH:END -->
+ - [Pixel 9a FCC filing confirms at least one flagship feature for Google’s budget phone](https://www.androidauthority.com/pixel-9a-fcc-listings-3531677/)
+ - [SwitchBot launches cut-your-own smart shades](https://www.theverge.com/news/623000/switchbot-smart-roller-shades-adjustable-price-release-date-specs)
+ - [The iPhone 15 Pro will get Visual Intelligence with iOS 18.4](https://www.theverge.com/news/623211/apple-iphone-15-pro-visual-intelligence-ios-18-4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
