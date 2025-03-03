@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
- - ⏩ [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
- - 👉 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)<!-- MEMES:END -->
+ - 💣 [My Son Found His First Favorite Stick... Let\u2019s Prove to My Wife That This Is a Big Deal.](http://9gag.com/gag/adB1zNV)
+ - ⏩ [Make my happy always](http://9gag.com/gag/a2vwe3w)
+ - 👉 [This post was sponsored by skynet](http://9gag.com/gag/awy36o4)<!-- MEMES:END -->
 
 ---
 
