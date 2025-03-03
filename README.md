@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So much sadness](http://9gag.com/gag/ae91wxB)
- - ⏩ [And blackjack](http://9gag.com/gag/aD2651d)
- - 👉 [Dark day.](http://9gag.com/gag/aBy65AN)<!-- MEMES:END -->
+ - 💣 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
+ - ⏩ [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
+ - 👉 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)<!-- MEMES:END -->
 
 ---
 
