@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds’ arachnophobia mode sucks, so someone fixed it](https://www.polygon.com/gaming/532998/monster-hunter-wilds-arachnophobia-mode-mod-nexusmods)
- - [Popular Female Streamers Stalked And Attacked During IRL Stream](https://kotaku.com/valkyrae-cinna-women-attacked-stalker-irl-stream-twitch-1851767406)
- - [Magic: The Gathering’s Spider-Man Cards Look Cool But Prices Have Gotten Out Of Control](https://kotaku.com/mtg-spider-man-ff-prices-ebay-preorder-sold-out-1851767413)<!-- GAME:END -->
+ - [Where to find ember rufflizards in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532889/ember-rufflizards-location-find-map)
+ - [Rockstar acquires Aussie studio founded by L.A. Noire director](https://www.polygon.com/news/533101/rockstar-games-acquisition-video-deluxe-australia-brendan-mcnamara-la-noire)
+ - [A canceled video game sequel to George Orwell’s 1984 surfaces online](https://www.polygon.com/news/532975/1984-sequel-big-brother-george-orwell-canceled-game-lost-media)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
