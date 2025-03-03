@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
- - ⏩ [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
+ - 💣 [The Duck Maker](http://9gag.com/gag/apR3MXn)
+ - ⏩ [For the guy who posted the boring explanation about Aral Sea](http://9gag.com/gag/axy3qy1)
  - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
 
 ---
