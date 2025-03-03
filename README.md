@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Lethal Mystery Illness Is Spreading in Congo. USAID Cuts Have Slowed the Response](https://www.wired.com/story/race-to-identify-drcs-mystery-illness-slowed-by-us-aid-cuts-democratic-republic-congo-usaid/)
- - [Galaxy Tab S10 FE series leak sheds light on what hardware upgrades to expect](https://www.androidauthority.com/galaxy-tab-s10-fe-series-spec-leak-3531672/)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
+ - [Fingerprints and splatters: New emoji arrive in iOS 18.4 developer beta](https://appleinsider.com/articles/25/03/03/fingerprints-and-splatters-new-emoji-arrive-in-ios-184-developer-beta?utm_medium=rss)
+ - [You’ll soon be able to show Gemini Live what you see in real time](https://www.androidauthority.com/gemini-live-video-screen-sharing-3531723/)
+ - [Self-driving cars: Google and others map the road to automated vehicles](https://www.theverge.com/2012/12/23/3797260/self-driving-cars-automated-vehicles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
