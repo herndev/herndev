@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8.0 could launch much sooner than expected](https://www.androidauthority.com/one-ui-7-one-ui-8-3531519/)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [If I had $599 and wanted a new phone, I’d grab this excellent Pixel 9 deal](https://www.androidauthority.com/google-pixel-9-deal-amazon-3531523/)<!-- TECH:END -->
+ - [Blue Ghost private lander reaches the Moon intact](https://www.theverge.com/news/622817/firefly-aerospace-blue-ghost-nasa-moon-landing)
+ - [New York-based corporate payments startup Ramp hit a $13B valuation in a $150M share sale to GIC, Stripes, Thrive, and others, up from $7.65B in April 2024 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250303/p9#a250303p9)
+ - [Tushy Aura Electric Bidet Review: Budget Bidet Maker Goes Luxe](https://www.wired.com/review/review-tushy-aura-electric-bidet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
