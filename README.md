@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Make Plays at Light Speed With Waylay, Valorant’s New Agent](https://news.xbox.com/en-us/2025/03/03/waylay-new-valorant-agent/)
- - [PlayStation VR 2’s permanent $200 discount is here](https://www.polygon.com/gaming/530813/playstation-vr-2-price-cut-399-march)
- - [Rockstar buys Video Games Deluxe, presumably to make future releases even more deluxe, and the GTA series has now sold over 440 million copies](https://www.pcgamer.com/games/grand-theft-auto/rockstar-buys-video-games-deluxe-presumably-to-make-future-releases-even-more-deluxe-and-the-gta-series-has-now-sold-over-440-million-copies/)<!-- GAME:END -->
+ - [Two Point Museum, FragPunk, and the other new games out this week](https://www.polygon.com/gaming/529513/best-new-game-releases-march-3-two-point-museum-fragpunk)
+ - [All Pocket Promo A cards in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/504997/promo-a-cards-list-all-how-to-get)
+ - [Bluey Lego sets are already available to pre-order at Amazon](https://www.polygon.com/news/531810/lego-bluey-set-where-to-buy-toy-fair)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
