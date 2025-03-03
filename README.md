@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [This concept phone supports full-sized DSLR camera lenses, and we tried it out](https://www.androidauthority.com/realme-interchangeable-lens-concept-phone-3531370/)
- - [Chinese traders are selling Nvidia-equipped servers, including Blackwell, via third parties in countries like Vietnam and Taiwan; some promise six-week delivery &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250303/p4#a250303p4)<!-- TECH:END -->
+ - [You won’t need a flagship phone to enjoy a pair of Wi-Fi earbuds](https://www.androidauthority.com/qualcomm-xpan-support-3531496/)
+ - [Here’s how the Play Store’s new “Ask Play” feature answers your app-related queries](https://www.androidauthority.com/google-play-store-ask-play-demo-3531470/)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
