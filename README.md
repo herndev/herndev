@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
- - ⏩ [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)
- - 👉 [White n tight](http://9gag.com/gag/apR3wg9)<!-- MEMES:END -->
+ - 💣 [There is no salvation.](http://9gag.com/gag/aBy67yN)
+ - ⏩ [Yeah skyrim is ez](http://9gag.com/gag/aPAmKzP)
+ - 👉 [People are strange](http://9gag.com/gag/aKGArX3)<!-- MEMES:END -->
 
 ---
 
