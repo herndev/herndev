@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [TSMC and Trump announce massive $100 billion investment in the US including 3 new fabs but it&#39;s reasonable to ponder whether it will actually happen](https://www.pcgamer.com/hardware/tsmc-and-trump-announce-massive-usd100-billion-investment-in-the-us-including-3-new-fabs-but-its-reasonable-to-ponder-whether-it-will-actually-happen/)
  - [Can Makuhita be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24170525/can-makuhita-be-shiny-hariyama)
- - [Today&#39;s Wordle answer for Tuesday, March 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-4-2025/)
- - [This Yu-Gi-Oh! retro collection transported me to a simpler time in TCGs, before Pot of Greed was banned and the Avengers were in Magic: The Gathering](https://www.pcgamer.com/games/card-games/this-yu-gi-oh-retro-collection-transported-me-to-a-simpler-time-in-tcgs-before-pot-of-greed-was-banned-and-the-avengers-were-in-magic-the-gathering/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, March 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-4-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
