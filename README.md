@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Press X to start`](http://9gag.com/gag/aW4LByA)
- - ⏩ [Make my happy always](http://9gag.com/gag/a2vwe3w)
- - 👉 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)<!-- MEMES:END -->
+ - 💣 [Good service 5/7, definitely would do it again](http://9gag.com/gag/aByLRdN)
+ - ⏩ [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 👉 [Welding](http://9gag.com/gag/a0eV89Z)<!-- MEMES:END -->
 
 ---
 
