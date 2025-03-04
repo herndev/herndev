@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)
- - [Visible Promo Code: Save $10 Per Month in March 2025](https://www.wired.com/story/visible-promo-code/)
- - [GPT-4.5 review: improved verbal intelligence, contextual adaptation, abstract writing, and better taste and aesthetics, but not ideal for reasoning or coding &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250304/p1#a250304p1)<!-- TECH:END -->
+ - [Google Chrome is automatically disabling uBlock Origin, but here’s how I easily reenabled it](https://www.androidauthority.com/google-chrome-enable-ublock-origin-3531834/)
+ - [The Xbox Kinect, released in 2010 and discontinued in 2017, has found applications beyond gaming, including in interactive art, pornography, and ghost hunting &lpar;Geoffrey Bunting/The Guardian&rpar;](http://www.techmeme.com/250304/p2#a250304p2)
+ - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
