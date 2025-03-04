@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you agree?](http://9gag.com/gag/aQzvLv7)
- - ⏩ [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
- - 👉 [Standing in the middle of a bike trail looking at your phone](http://9gag.com/gag/a0eX3ML)<!-- MEMES:END -->
+ - 💣 [Much wow](http://9gag.com/gag/ary3Y9V)
+ - ⏩ [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 👉 [Bro sounds like the news if you don&#39;t really listen.](http://9gag.com/gag/aGyn4YG)<!-- MEMES:END -->
 
 ---
 
