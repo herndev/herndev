@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
- - ⏩ [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
- - 👉 [Ladies man](http://9gag.com/gag/agm1WOq)<!-- MEMES:END -->
+ - 💣 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
+ - ⏩ [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
+ - 👉 [Beauty standards](http://9gag.com/gag/a876xwV)<!-- MEMES:END -->
 
 ---
 
