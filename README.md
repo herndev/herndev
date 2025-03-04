@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Gracium Ore in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533544/gracium-ore-location-how-to-get)
- - [How to change your title in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533588/title-how-to-change-update-hunter-profile)
- - [Where to find a ‘whopper’ in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533580/whopper-location-where-to-find)<!-- GAME:END -->
+ - [How to get a Flame Sac and Inferno Sac in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533543/flame-sac-inferno-sac-how-to-get)
+ - [Where to pre-order Tony Hawk Pro Skater 3 and 4](https://www.polygon.com/pre-order/533813/tony-hawk-pro-skater-3-4-collectors-digital-deluxe-edition-where-to-buy)
+ - [Monster Hunter Wilds feels easy at launch—but after a decade of fighting post-release elder dragons and Master Rank monsters, I&#39;m not worried about the light warmup](https://www.pcgamer.com/games/action/monster-hunter-wilds-too-easy-too-early-difficulty/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
