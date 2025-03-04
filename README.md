@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - ⏩ [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
- - 👉 [Such a great film!](http://9gag.com/gag/a0eXA9n)<!-- MEMES:END -->
+ - 💣 [Ladies man](http://9gag.com/gag/agm1WOq)
+ - ⏩ [Such a great film!](http://9gag.com/gag/a0eXA9n)
+ - 👉 [BLack people before the advent of CRACK/COCAINE.](http://9gag.com/gag/aRB4xVQ)<!-- MEMES:END -->
 
 ---
 
