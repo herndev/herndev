@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Split Fiction doesn&amp;#8217;t need to be original when the co-op play is this good](https://www.theverge.com/games-review/623660/split-fiction-review-hazelight-studios-it-takes-two)
- - [Apple 11-inch and 13-inch iPad Air : Price, Specs, Availability](https://www.wired.com/story/apple-new-ipad-air-m3-chip/)
- - [Apple Pencil buyer&#39;s guide -- which of the four models works with your iPad?](https://appleinsider.com/articles/24/05/07/apple-pencil-buyers-guide----which-of-the-four-models-works-with-your-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Google Messages is using AI to detect scam texts](https://www.theverge.com/news/623632/google-messages-pixel-android-updates-scam-detection)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Microsoft’s new Copilot app for Windows has an improved UI](https://www.theverge.com/news/623889/microsoft-copilot-app-windows-native)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
