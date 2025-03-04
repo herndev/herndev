@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Fucium Ore in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532976/fucium-ore-location-how-to-get)
- - [Where to find gillopods in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533168/gillopod-location-where-to-find)
- - [Where to find rime beetles in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533116/rime-beetle-location-where-to-find)<!-- GAME:END -->
+ - [‘Beware the Gypceros’ walkthrough in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532977/beware-the-gypceros-location-walkthrough-fallow-zatoh)
+ - [The PC game releases we&#39;re most excited about in March](https://www.pcgamer.com/games/march-2025-pc-game-release-dates/)
+ - [I&#39;ve been playing Monster Hunter for 10 years and even I&#39;m terrified of this Wilds speedrunner deleting a Tempered Gravios in 37 seconds](https://www.pcgamer.com/games/action/ive-been-playing-monster-hunter-for-10-years-and-even-im-terrified-of-this-wilds-speedrunner-deleting-a-tempered-gravios-in-37-seconds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
