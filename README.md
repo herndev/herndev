@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Find Ares, The Latest Hot God In Hades 2](https://kotaku.com/hades-2-how-to-find-ares-boons-warsong-update-1851767533)
- - [Brennan Lee Mulligan’s charming fox foil has a message for the haters](https://www.polygon.com/tabletop-games/533455/wizard-witch-wild-one-fox-animatic-danica-dickison)
- - [Saying what we&#39;re probably all thinking, Zotac cautions, &#39;Do not use third-party cables, angled adapters, or other cable accessories&#39;](https://www.pcgamer.com/hardware/graphics-cards/saying-what-were-probably-all-thinking-zotac-cautions-do-not-use-third-party-cables-angled-adapters-or-other-cable-accessories/)<!-- GAME:END -->
+ - [Registration for new Beta Program at PlayStation starts today](https://blog.playstation.com/2025/03/04/registration-for-new-beta-program-at-playstation-starts-today/)
+ - [How to complete ‘Somebody’s planning a party in Crime City’ in Fortnite](https://www.polygon.com/fortnite-guide/533463/somebodys-planning-party-crime-city-big-dill-found-story-quest-bug-fix)
+ - [Fix Monster Hunter Wilds&#39; Greediest Microtransaction And More With These Five Great Mods](https://kotaku.com/monster-hunter-wilds-mods-pc-graphics-edit-voucher-ui-1851767589)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
