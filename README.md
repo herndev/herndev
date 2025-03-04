@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beauty standards](http://9gag.com/gag/a876xwV)
- - ⏩ [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
- - 👉 [Such a great film!](http://9gag.com/gag/a0eXA9n)<!-- MEMES:END -->
+ - 💣 [Somewhere in a parallel universe](http://9gag.com/gag/a4P6Dqw)
+ - ⏩ [Ladies man](http://9gag.com/gag/agm1WOq)
+ - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
 
 ---
 
