@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next-gen Snapdragon X2 chip rumoured to pack 18 cores and a new CPU architecture, but we&#39;re still waiting for gaming to really be a goer on the original Snapdragon X](https://www.pcgamer.com/hardware/processors/next-gen-snapdragon-x2-chip-rumoured-to-pack-18-cores-and-a-new-cpu-architecture-but-were-still-waiting-for-gaming-to-really-be-a-goer-on-the-original-snapdragon-x/)
- - [How to farm materials in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-farm-material-retrieval/)
- - [uBlock and a handful of other popular Google Chrome extensions have been axed overnight, but some of them just require turning off and on again](https://www.pcgamer.com/software/browsers/ublock-and-a-handful-of-other-popular-google-chrome-extensions-have-been-axed-overnight-but-some-of-them-just-require-turning-off-and-on-again/)<!-- GAME:END -->
+ - [Coming Soon to Game Pass: 33 Immortals, Mullet Madjack, One Lonely Outpost, and More](https://news.xbox.com/en-us/2025/03/04/xbox-game-pass-march-2025-wave-1/)
+ - [We Probably Won&#39;t See A Console Launch As Good As The Nintendo Switch Ever Again](https://kotaku.com/nintendo-switch-2-launch-zelda-botw-anniversary-1851767489)
+ - [Next-gen Snapdragon X2 chip rumoured to pack 18 cores and a new CPU architecture, but we&#39;re still waiting for gaming to really be a goer on the original Snapdragon X](https://www.pcgamer.com/hardware/processors/next-gen-snapdragon-x2-chip-rumoured-to-pack-18-cores-and-a-new-cpu-architecture-but-were-still-waiting-for-gaming-to-really-be-a-goer-on-the-original-snapdragon-x/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
