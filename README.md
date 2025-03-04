@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tony Hawk’s Pro Skater 3 + 4 remake launches in July](https://www.theverge.com/news/622957/tony-hawks-pro-skater-3-4-date-trailer-xbox-ps5-pc-switch)
- - [Apple&#39;s new iPad updates are not dramatic, but don&#39;t need to be](https://appleinsider.com/articles/25/03/04/apples-new-ipad-updates-are-not-dramatic-but-dont-need-to-be?utm_medium=rss)
- - [Donald Trump’s Not-So-Strategic Crypto Reserve](https://www.wired.com/story/trump-crypto-reserve-new-coins/)<!-- TECH:END -->
+ - [YouTube will soon restrict creators from mentioning certain online gambling sites](https://www.theverge.com/news/623985/youtube-online-gambling-rules-restrictions)
+ - [Monster Hunter Wilds is breaking Capcom’s sales records](https://www.theverge.com/news/623978/monster-hunter-wilds-salesrecordcapcom)
+ - [DOGE’s Foreign Aid Cuts Have Sparked ‘Total Chaos’ Around the World](https://www.wired.com/story/rights-con-taipei-doge-foreign-aid-cuts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
