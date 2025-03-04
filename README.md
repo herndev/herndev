@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chris P. Bacon](http://9gag.com/gag/agm1Mxv)
- - ⏩ [Yeah skyrim is ez](http://9gag.com/gag/aPAmKzP)
- - 👉 [The forbidden tequila](http://9gag.com/gag/a1mN4pw)<!-- MEMES:END -->
+ - 💣 [He&#39;s so polite &amp; the owner is awesome](http://9gag.com/gag/apR3OPp)
+ - ⏩ [Standing in the middle of a bike trail looking at your phone](http://9gag.com/gag/a0eX3ML)
+ - 👉 [Climate protestor screams like a baby when his hand is un-glued from the road.](http://9gag.com/gag/ary3Y0B)<!-- MEMES:END -->
 
 ---
 
