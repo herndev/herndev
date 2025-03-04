@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Impressive performance](http://9gag.com/gag/an7RLYz)
- - ⏩ [The only right answer](http://9gag.com/gag/abA1928)
- - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
+ - 💣 [Europe right now](http://9gag.com/gag/apR3ezB)
+ - ⏩ [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - 👉 [Literally anything other than bot propaganda](http://9gag.com/gag/abA194r)<!-- MEMES:END -->
 
 ---
 
