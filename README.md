@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is using AI to detect scam texts](https://www.theverge.com/news/623632/google-messages-pixel-android-updates-scam-detection)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Microsoft’s new Copilot app for Windows has an improved UI](https://www.theverge.com/news/623889/microsoft-copilot-app-windows-native)<!-- TECH:END -->
+ - [Tony Hawk’s Pro Skater 3 + 4 remake launches in July](https://www.theverge.com/news/622957/tony-hawks-pro-skater-3-4-date-trailer-xbox-ps5-pc-switch)
+ - [Apple&#39;s new iPad updates are not dramatic, but don&#39;t need to be](https://appleinsider.com/articles/25/03/04/apples-new-ipad-updates-are-not-dramatic-but-dont-need-to-be?utm_medium=rss)
+ - [Donald Trump’s Not-So-Strategic Crypto Reserve](https://www.wired.com/story/trump-crypto-reserve-new-coins/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
