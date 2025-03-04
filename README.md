@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ladies man](http://9gag.com/gag/agm1WOq)
- - ⏩ [Such a great film!](http://9gag.com/gag/a0eXA9n)
- - 👉 [BLack people before the advent of CRACK/COCAINE.](http://9gag.com/gag/aRB4xVQ)<!-- MEMES:END -->
+ - 💣 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
+ - ⏩ [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - 👉 [Ladies man](http://9gag.com/gag/agm1WOq)<!-- MEMES:END -->
 
 ---
 
