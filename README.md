@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)
- - ⏩ [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
- - 👉 [Beauty standards](http://9gag.com/gag/a876xwV)<!-- MEMES:END -->
+ - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - ⏩ [This ACTING...](http://9gag.com/gag/aW47wxn)
+ - 👉 [But At Least It Came Back](http://9gag.com/gag/aZZ16Ln)<!-- MEMES:END -->
 
 ---
 
