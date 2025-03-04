@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tony Hawk’s Pro Skater 3 + 4 Returns on July 11](https://news.xbox.com/en-us/2025/03/04/tony-hawks-pro-skater-3-4-release-date/)
- - [Tony Hawk’s Pro Skater 3 and 4 remasters revealed, now with a shredding Doom Slayer](https://www.polygon.com/gaming/526983/tony-hawks-pro-skater-3-4-remaster-release-date)
- - [Where to find gravid bowfins in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533458/gravid-bowfins-where-to-find-locations)<!-- GAME:END -->
+ - [Will another Avengers game be assembled? &#39;We would definitely be open to it&#39; says Joe Russo, co-director of Avengers: Doomsday](https://www.pcgamer.com/games/will-another-avengers-game-be-assembled-we-would-definitely-be-open-to-it-says-joe-russo-co-director-of-avengers-doomsday/)
+ - [Help fish navigate Dutch canals by ringing a digital doorbell](https://www.polygon.com/news/533590/visdeurbel-fish-doorbell-utrecht-netherlands-livestream)
+ - [Civilization 7 needs some big expansions to feel complete, and I&#39;d start with one that adds the years after 1950](https://www.pcgamer.com/games/strategy/civilization-7-what-we-want-expansions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
