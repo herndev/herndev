@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Game Pass: 33 Immortals, Mullet Madjack, One Lonely Outpost, and More](https://news.xbox.com/en-us/2025/03/04/xbox-game-pass-march-2025-wave-1/)
- - [We Probably Won&#39;t See A Console Launch As Good As The Nintendo Switch Ever Again](https://kotaku.com/nintendo-switch-2-launch-zelda-botw-anniversary-1851767489)
- - [Next-gen Snapdragon X2 chip rumoured to pack 18 cores and a new CPU architecture, but we&#39;re still waiting for gaming to really be a goer on the original Snapdragon X](https://www.pcgamer.com/hardware/processors/next-gen-snapdragon-x2-chip-rumoured-to-pack-18-cores-and-a-new-cpu-architecture-but-were-still-waiting-for-gaming-to-really-be-a-goer-on-the-original-snapdragon-x/)<!-- GAME:END -->
+ - [A Cracking Clean-up: Peek Inside The Home of Wallace &amp; Gromit With The PowerWash Simulator Devs](https://news.xbox.com/en-us/2025/03/04/powerwash-simulator-wallace-and-gromit-pack/)
+ - [Twenty-Sided Tavern is headed on national tour — but there&amp;#8217;s still time to the see the original](https://www.polygon.com/actual-play/533317/twenty-sided-tavern-is-headed-on-national-tour-but-theres-still-time-to-the-see-the-original)
+ - [We&#39;re Finally Getting A Gorgeous New Suikoden And It&#39;s A Mobile Gacha Game](https://kotaku.com/suikoden-star-leap-trailer-gacha-mobile-konami-date-1851767567)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
