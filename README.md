@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo is now available exclusively on Uber in Austin](https://www.theverge.com/news/623302/waymo-uber-austin-robotaxi-app-launch)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [French crypto trading company Flowdesk raised ~$92M in equity and $10.2M in debt led by HV Capital, after a $50M Series B at a $250M valuation in January 2024 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250304/p7#a250304p7)<!-- TECH:END -->
+ - [The real reason I’m excited about the Galaxy S25 Edge and other ultra-thin phones](https://www.androidauthority.com/samsung-galaxy-s25-edge-thin-phones-weight-3530838/)
+ - [The future of BMW is being built at a battery factory in Germany](https://www.theverge.com/bmw/623312/bmw-ev-battery-neue-klasse)
+ - [NYC-based Aescape, which makes AI-powered massage robots to be deployed in 60 Equinox gyms, raised $83M led by Valor Equity, a source says at a ~$250M valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250304/p10#a250304p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
