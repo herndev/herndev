@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Will another Avengers game be assembled? &#39;We would definitely be open to it&#39; says Joe Russo, co-director of Avengers: Doomsday](https://www.pcgamer.com/games/will-another-avengers-game-be-assembled-we-would-definitely-be-open-to-it-says-joe-russo-co-director-of-avengers-doomsday/)
- - [Help fish navigate Dutch canals by ringing a digital doorbell](https://www.polygon.com/news/533590/visdeurbel-fish-doorbell-utrecht-netherlands-livestream)
- - [Civilization 7 needs some big expansions to feel complete, and I&#39;d start with one that adds the years after 1950](https://www.pcgamer.com/games/strategy/civilization-7-what-we-want-expansions/)<!-- GAME:END -->
+ - [Mecha Break Open Beta Begins Today: Tips on Choosing Your Striker](https://news.xbox.com/en-us/2025/03/04/mecha-break-open-beta-tips/)
+ - [Tony Hawk&#39;s Pro Skater 3 + 4 remake is real, and it&#39;s coming in July with new skaters, parks, music, and more](https://www.pcgamer.com/games/sports/tony-hawks-pro-skater-3-4-remake-is-real-and-its-coming-in-july-with-new-skaters-parks-music-and-more/)
+ - [Three women livestreaming on Twitch harassed by man who then goes for them while making repeated death threats: &#39;This happens off-camera to women all the time&#39;](https://www.pcgamer.com/gaming-industry/three-women-livestreaming-on-twitch-harassed-by-man-who-then-goes-for-them-while-making-repeated-death-threats-this-happens-off-camera-to-women-all-the-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
