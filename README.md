@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Much wow](http://9gag.com/gag/ary3Y9V)
- - ⏩ [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 👉 [Bro sounds like the news if you don&#39;t really listen.](http://9gag.com/gag/aGyn4YG)<!-- MEMES:END -->
+ - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - ⏩ [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
+ - 👉 [Such a great film!](http://9gag.com/gag/a0eXA9n)<!-- MEMES:END -->
 
 ---
 
