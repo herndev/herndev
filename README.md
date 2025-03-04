@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get a Flame Sac and Inferno Sac in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533543/flame-sac-inferno-sac-how-to-get)
- - [Where to pre-order Tony Hawk Pro Skater 3 and 4](https://www.polygon.com/pre-order/533813/tony-hawk-pro-skater-3-4-collectors-digital-deluxe-edition-where-to-buy)
- - [Monster Hunter Wilds feels easy at launch—but after a decade of fighting post-release elder dragons and Master Rank monsters, I&#39;m not worried about the light warmup](https://www.pcgamer.com/games/action/monster-hunter-wilds-too-easy-too-early-difficulty/)<!-- GAME:END -->
+ - [Civilization 7&#39;s &#39;first major update&#39; tweaks balance and fixes some UI issues, but don&#39;t expect an overhaul](https://www.pcgamer.com/games/strategy/civilization-7s-first-major-update-tweaks-balance-and-fixes-some-ui-issues-but-dont-expect-an-overhaul/)
+ - [Monster Hunter Wilds sells 8 million copies in 3 days, &#39;the fastest any game has done so in Capcom’s history&#39;](https://www.pcgamer.com/games/action/monster-hunter-wilds-sells-8-million-copies-in-3-days-the-fastest-any-game-has-done-so-in-capcoms-history/)
+ - [Legendary 1990s publisher Acclaim is back from the dead, and a pro wrestler famous for clobbering people with a guitar is on its advisory board](https://www.pcgamer.com/gaming-industry/legendary-1990s-publisher-acclaim-is-back-from-the-dead-and-a-pro-wrestler-famous-for-clobbering-people-with-a-guitar-is-on-its-advisory-board/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
