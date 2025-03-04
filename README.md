@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube will soon restrict creators from mentioning certain online gambling sites](https://www.theverge.com/news/623985/youtube-online-gambling-rules-restrictions)
- - [Monster Hunter Wilds is breaking Capcom’s sales records](https://www.theverge.com/news/623978/monster-hunter-wilds-salesrecordcapcom)
- - [DOGE’s Foreign Aid Cuts Have Sparked ‘Total Chaos’ Around the World](https://www.wired.com/story/rights-con-taipei-doge-foreign-aid-cuts/)<!-- TECH:END -->
+ - [Here’s where you can preorder the new entry-level iPad and M3 iPad Air](https://www.theverge.com/good-deals/623982/apple-m3-ipad-air-11th-gen-tablet-preorder-how-to-buy-price-release-date)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [OnePlus has some weird update plans for the Watch 2 and 3 &lpar;Update: OnePlus statement&rpar;](https://www.androidauthority.com/oneplus-watch-2-and-3-update-strategy-3531635/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
