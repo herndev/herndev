@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad Mini drops to its all-time low price, saving you $100](https://www.androidauthority.com/apple-ipad-mini-a17-pro-deal-4-3531741/)
- - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
+ - [A former CEO and chair of Intel says the company shouldn&#39;t be broken up since its foundry unit now has the tech and manufacturing know-how to compete with TSMC &lpar;Craig Barrett/Fortune&rpar;](http://www.techmeme.com/250303/p34#a250303p34)
+ - [Jackery 2000 Explorer review: Power when you need it](https://appleinsider.com/articles/25/03/04/jackery-2000-explorer-review-power-when-you-need-it?utm_medium=rss)
+ - [Deal: This Jackery power station fits in your palm, and is 40% off](https://www.androidauthority.com/jackery-explorer-100-plus-portable-power-station-deal-3531740/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
