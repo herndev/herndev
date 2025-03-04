@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
- - ⏩ [I thought I heard the Holy water sizzle](http://9gag.com/gag/aVvEjmn)
- - 👉 [Japanese ads strikes again!](http://9gag.com/gag/a87mLMd)<!-- MEMES:END -->
+ - 💣 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - ⏩ [Welding](http://9gag.com/gag/a0eV89Z)
+ - 👉 [Europe right now](http://9gag.com/gag/apR3ezB)<!-- MEMES:END -->
 
 ---
 
