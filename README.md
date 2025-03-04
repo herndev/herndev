@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bybit CEO Ben Zhou says 77%+ of the funds stolen remain traceable, including 417,348 ETH, and 20% have &quot;gone dark&quot;; the hackers converted 83% of the ETH to BTC &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250304/p4#a250304p4)
- - [I adore everything about the Nothing Phone 3a and 3a Pro, except the star feature](https://www.androidauthority.com/nothing-phone-3a-pro-hands-on-3529341/)
- - [Nothing launches Phone 3a &amp; 3a Pro: Periscope zoom for the masses](https://www.androidauthority.com/nothing-phone-3a-launch-3531756/)<!-- TECH:END -->
+ - [Waymo is now available exclusively on Uber in Austin](https://www.theverge.com/news/623302/waymo-uber-austin-robotaxi-app-launch)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [French crypto trading company Flowdesk raised ~$92M in equity and $10.2M in debt led by HV Capital, after a $50M Series B at a $250M valuation in January 2024 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250304/p7#a250304p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
