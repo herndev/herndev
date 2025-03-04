@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Much wow](http://9gag.com/gag/ary3Y9V)
- - ⏩ [Titanic](http://9gag.com/gag/aVvoNZP)
- - 👉 [He&#39;s so polite &amp; the owner is awesome](http://9gag.com/gag/apR3OPp)<!-- MEMES:END -->
+ - 💣 [Do you agree?](http://9gag.com/gag/aQzvLv7)
+ - ⏩ [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
+ - 👉 [Standing in the middle of a bike trail looking at your phone](http://9gag.com/gag/a0eX3ML)<!-- MEMES:END -->
 
 ---
 
