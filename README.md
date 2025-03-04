@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Monster Hunter Wilds dominated Steam so hard this weekend that a new game from a Nintendo legend attracted a mere 5 reviews, and another dev tweeted they hadn&#39;t sold &#39;a single game&#39; since Wilds released](https://www.pcgamer.com/games/action/monster-hunter-wilds-dominated-steam-so-hard-this-weekend-that-a-new-game-from-a-nintendo-legend-attracted-a-mere-5-reviews-and-another-dev-tweeted-it-hadnt-sold-a-single-game-since-monster-hunter-released/)
  - [‘Beware the Gypceros’ walkthrough in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532977/beware-the-gypceros-location-walkthrough-fallow-zatoh)
- - [The PC game releases we&#39;re most excited about in March](https://www.pcgamer.com/games/march-2025-pc-game-release-dates/)
- - [I&#39;ve been playing Monster Hunter for 10 years and even I&#39;m terrified of this Wilds speedrunner deleting a Tempered Gravios in 37 seconds](https://www.pcgamer.com/games/action/ive-been-playing-monster-hunter-for-10-years-and-even-im-terrified-of-this-wilds-speedrunner-deleting-a-tempered-gravios-in-37-seconds/)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in March](https://www.pcgamer.com/games/march-2025-pc-game-release-dates/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
