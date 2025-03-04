@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TSMC and Trump announce massive $100 billion investment in the US including 3 new fabs but it&#39;s reasonable to ponder whether it will actually happen](https://www.pcgamer.com/hardware/tsmc-and-trump-announce-massive-usd100-billion-investment-in-the-us-including-3-new-fabs-but-its-reasonable-to-ponder-whether-it-will-actually-happen/)
- - [Can Makuhita be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24170525/can-makuhita-be-shiny-hariyama)
- - [Today&#39;s Wordle answer for Tuesday, March 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-4-2025/)<!-- GAME:END -->
+ - [Next-gen Snapdragon X2 chip rumoured to pack 18 cores and a new CPU architecture, but we&#39;re still waiting for gaming to really be a goer on the original Snapdragon X](https://www.pcgamer.com/hardware/processors/next-gen-snapdragon-x2-chip-rumoured-to-pack-18-cores-and-a-new-cpu-architecture-but-were-still-waiting-for-gaming-to-really-be-a-goer-on-the-original-snapdragon-x/)
+ - [How to farm materials in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-farm-material-retrieval/)
+ - [uBlock and a handful of other popular Google Chrome extensions have been axed overnight, but some of them just require turning off and on again](https://www.pcgamer.com/software/browsers/ublock-and-a-handful-of-other-popular-google-chrome-extensions-have-been-axed-overnight-but-some-of-them-just-require-turning-off-and-on-again/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
