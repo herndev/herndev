@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome is automatically disabling uBlock Origin, but here’s how I easily reenabled it](https://www.androidauthority.com/google-chrome-enable-ublock-origin-3531834/)
- - [The Xbox Kinect, released in 2010 and discontinued in 2017, has found applications beyond gaming, including in interactive art, pornography, and ghost hunting &lpar;Geoffrey Bunting/The Guardian&rpar;](http://www.techmeme.com/250304/p2#a250304p2)
- - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [TSMC&#39;s US investment is a win-win; dropping one advanced node protects its interests, while an advanced packaging plant and R&amp;D center boost US chip prowess &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/250304/p3#a250304p3)
+ - [Meghan Markle&#39;s New Docuseries Is Out Now: How to Watch](https://www.cnet.com/tech/services-and-software/meghan-markles-new-docuseries-is-out-now-how-to-watch/#ftag=CAD590a51e)
+ - [Google Chrome is automatically disabling uBlock Origin, but here’s how I easily reenabled it](https://www.androidauthority.com/google-chrome-enable-ublock-origin-3531834/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
