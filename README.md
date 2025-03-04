@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good service 5/7, definitely would do it again](http://9gag.com/gag/aByLRdN)
- - ⏩ [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 👉 [Welding](http://9gag.com/gag/a0eV89Z)<!-- MEMES:END -->
+ - 💣 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
+ - ⏩ [Planes](http://9gag.com/gag/aZZwb70)
+ - 👉 [Japanese ads strikes again!](http://9gag.com/gag/a87mLMd)<!-- MEMES:END -->
 
 ---
 
