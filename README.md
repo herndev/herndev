@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The real reason I’m excited about the Galaxy S25 Edge and other ultra-thin phones](https://www.androidauthority.com/samsung-galaxy-s25-edge-thin-phones-weight-3530838/)
- - [The future of BMW is being built at a battery factory in Germany](https://www.theverge.com/bmw/623312/bmw-ev-battery-neue-klasse)
- - [NYC-based Aescape, which makes AI-powered massage robots to be deployed in 60 Equinox gyms, raised $83M led by Valor Equity, a source says at a ~$250M valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250304/p10#a250304p10)<!-- TECH:END -->
+ - [Alienware has a $549 QD-OLED gaming monitor](https://www.theverge.com/news/623428/dell-alienware-oled-monitor-aw2725d-price-release-date)
+ - [MagSafe does connect to the iPhone 16e, but incredibly badly](https://appleinsider.com/articles/25/03/04/magsafe-does-connect-to-the-iphone-16e-but-incredibly-badly?utm_medium=rss)
+ - [How to mirror your Samsung phone on Windows](https://www.theverge.com/how-to/622969/windows-mirror-samsung-android-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
