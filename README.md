@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Cracking Clean-up: Peek Inside The Home of Wallace &amp; Gromit With The PowerWash Simulator Devs](https://news.xbox.com/en-us/2025/03/04/powerwash-simulator-wallace-and-gromit-pack/)
- - [Twenty-Sided Tavern is headed on national tour — but there&amp;#8217;s still time to the see the original](https://www.polygon.com/actual-play/533317/twenty-sided-tavern-is-headed-on-national-tour-but-theres-still-time-to-the-see-the-original)
- - [We&#39;re Finally Getting A Gorgeous New Suikoden And It&#39;s A Mobile Gacha Game](https://kotaku.com/suikoden-star-leap-trailer-gacha-mobile-konami-date-1851767567)<!-- GAME:END -->
+ - [How To Find Ares, The Latest Hot God In Hades 2](https://kotaku.com/hades-2-how-to-find-ares-boons-warsong-update-1851767533)
+ - [Brennan Lee Mulligan’s charming fox foil has a message for the haters](https://www.polygon.com/tabletop-games/533455/wizard-witch-wild-one-fox-animatic-danica-dickison)
+ - [Saying what we&#39;re probably all thinking, Zotac cautions, &#39;Do not use third-party cables, angled adapters, or other cable accessories&#39;](https://www.pcgamer.com/hardware/graphics-cards/saying-what-were-probably-all-thinking-zotac-cautions-do-not-use-third-party-cables-angled-adapters-or-other-cable-accessories/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
