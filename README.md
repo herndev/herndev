@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A former CEO and chair of Intel says the company shouldn&#39;t be broken up since its foundry unit now has the tech and manufacturing know-how to compete with TSMC &lpar;Craig Barrett/Fortune&rpar;](http://www.techmeme.com/250303/p34#a250303p34)
- - [Jackery 2000 Explorer review: Power when you need it](https://appleinsider.com/articles/25/03/04/jackery-2000-explorer-review-power-when-you-need-it?utm_medium=rss)
- - [Deal: This Jackery power station fits in your palm, and is 40% off](https://www.androidauthority.com/jackery-explorer-100-plus-portable-power-station-deal-3531740/)<!-- TECH:END -->
+ - [CoreWeave&#39;s S-1 shows ~77% of its $1.9B revenue in 2024 came from its top two customers, one of them being Microsoft, which accounted for 62% of total sales &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250303/p35#a250303p35)
+ - [MWC 2025: Xiaomi&#39;s Photography-Focused 15 Ultra Is a Powerhouse](https://www.cnet.com/pictures/xiaomis-photography-focused-powerhouse-15-ultra-mwc-2025/#ftag=CAD590a51e)
+ - [A former CEO and chair of Intel says the company shouldn&#39;t be broken up since its foundry unit now has the tech and manufacturing know-how to compete with TSMC &lpar;Craig Barrett/Fortune&rpar;](http://www.techmeme.com/250303/p34#a250303p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
