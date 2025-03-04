@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic raised a $3.5B Series E led by Lightspeed at a $61.5B valuation; source: its annual revenue run rate has grown by 30% in 2025, from ~$1B in late 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250303/p29#a250303p29)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Your Galaxy S25 lock screen is getting a big Gemini Live upgrade](https://www.androidauthority.com/gemini-live-on-now-bar-3531781/)<!-- TECH:END -->
+ - [Apple iPad Mini drops to its all-time low price, saving you $100](https://www.androidauthority.com/apple-ipad-mini-a17-pro-deal-4-3531741/)
+ - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
