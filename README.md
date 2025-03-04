@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal email: Amazon has formed a new group focused on agentic AI, led by AWS executive Swami Sivasubramanian, who will report directly to AWS CEO Matt Garman &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250304/p21#a250304p21)
- - [Trump Still Considering Tariffs on Taiwanese Chips, Despite $100 Billion TSMC Deal](https://www.wired.com/story/tsmc-tariffs-trump-impacts/)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
+ - [Sources: China plans to issue guidance as soon as this month to encourage the use of open-source RISC-V chips nationwide for the first time &lpar;Reuters&rpar;](http://www.techmeme.com/250304/p22#a250304p22)
+ - [Samsung Galaxy Z Flip 7 might just see a modest battery capacity boost](https://www.androidauthority.com/samsung-galaxy-z-flip-7-battery-3532101/)
+ - [YouTube warns creators an AI-generated video of its CEO is being used for phishing scams](https://www.theverge.com/news/624159/youtube-ai-generated-neal-mohan-phishing-scam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
