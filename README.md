@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Didi Autonomous Driving is seeking to raise new funding at a $5B valuation; it raised a $298M Series C led by Guangzhou Automobile in October 2024 &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/250303/p36#a250303p36)
  - [CoreWeave&#39;s S-1 shows ~77% of its $1.9B revenue in 2024 came from its top two customers, one of them being Microsoft, which accounted for 62% of total sales &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250303/p35#a250303p35)
- - [MWC 2025: Xiaomi&#39;s Photography-Focused 15 Ultra Is a Powerhouse](https://www.cnet.com/pictures/xiaomis-photography-focused-powerhouse-15-ultra-mwc-2025/#ftag=CAD590a51e)
- - [A former CEO and chair of Intel says the company shouldn&#39;t be broken up since its foundry unit now has the tech and manufacturing know-how to compete with TSMC &lpar;Craig Barrett/Fortune&rpar;](http://www.techmeme.com/250303/p34#a250303p34)<!-- TECH:END -->
+ - [MWC 2025: Xiaomi&#39;s Photography-Focused 15 Ultra Is a Powerhouse](https://www.cnet.com/pictures/xiaomis-photography-focused-powerhouse-15-ultra-mwc-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
