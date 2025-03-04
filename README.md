@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s where you can preorder the new entry-level iPad and M3 iPad Air](https://www.theverge.com/good-deals/623982/apple-m3-ipad-air-11th-gen-tablet-preorder-how-to-buy-price-release-date)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [OnePlus has some weird update plans for the Watch 2 and 3 &lpar;Update: OnePlus statement&rpar;](https://www.androidauthority.com/oneplus-watch-2-and-3-update-strategy-3531635/)<!-- TECH:END -->
+ - [Internal email: Amazon has formed a new group focused on agentic AI, led by AWS executive Swami Sivasubramanian, who will report directly to AWS CEO Matt Garman &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250304/p21#a250304p21)
+ - [Trump Still Considering Tariffs on Taiwanese Chips, Despite $100 Billion TSMC Deal](https://www.wired.com/story/tsmc-tariffs-trump-impacts/)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
