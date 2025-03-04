@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mecha Break Open Beta Begins Today: Tips on Choosing Your Striker](https://news.xbox.com/en-us/2025/03/04/mecha-break-open-beta-tips/)
- - [Tony Hawk&#39;s Pro Skater 3 + 4 remake is real, and it&#39;s coming in July with new skaters, parks, music, and more](https://www.pcgamer.com/games/sports/tony-hawks-pro-skater-3-4-remake-is-real-and-its-coming-in-july-with-new-skaters-parks-music-and-more/)
- - [Three women livestreaming on Twitch harassed by man who then goes for them while making repeated death threats: &#39;This happens off-camera to women all the time&#39;](https://www.pcgamer.com/gaming-industry/three-women-livestreaming-on-twitch-harassed-by-man-who-then-goes-for-them-while-making-repeated-death-threats-this-happens-off-camera-to-women-all-the-time/)<!-- GAME:END -->
+ - [How to get Gracium Ore in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533544/gracium-ore-location-how-to-get)
+ - [How to change your title in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533588/title-how-to-change-update-hunter-profile)
+ - [Where to find a ‘whopper’ in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533580/whopper-location-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
