@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Titanic](http://9gag.com/gag/aVvoNZP)
- - ⏩ [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
- - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
+ - 💣 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
+ - ⏩ [Common sense is back.](http://9gag.com/gag/an7Rp3V)
+ - 👉 [Impressive performance](http://9gag.com/gag/an7RLYz)<!-- MEMES:END -->
 
 ---
 
