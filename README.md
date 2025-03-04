@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Makuhita be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24170525/can-makuhita-be-shiny-hariyama)
  - [Today&#39;s Wordle answer for Tuesday, March 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-4-2025/)
- - [This Yu-Gi-Oh! retro collection transported me to a simpler time in TCGs, before Pot of Greed was banned and the Avengers were in Magic: The Gathering](https://www.pcgamer.com/games/card-games/this-yu-gi-oh-retro-collection-transported-me-to-a-simpler-time-in-tcgs-before-pot-of-greed-was-banned-and-the-avengers-were-in-magic-the-gathering/)
- - [Monster Hunter Wilds dominated Steam so hard this weekend that a new game from a Nintendo legend attracted a mere 5 reviews, and another dev tweeted they hadn&#39;t sold &#39;a single game&#39; since Wilds released](https://www.pcgamer.com/games/action/monster-hunter-wilds-dominated-steam-so-hard-this-weekend-that-a-new-game-from-a-nintendo-legend-attracted-a-mere-5-reviews-and-another-dev-tweeted-it-hadnt-sold-a-single-game-since-monster-hunter-released/)<!-- GAME:END -->
+ - [This Yu-Gi-Oh! retro collection transported me to a simpler time in TCGs, before Pot of Greed was banned and the Avengers were in Magic: The Gathering](https://www.pcgamer.com/games/card-games/this-yu-gi-oh-retro-collection-transported-me-to-a-simpler-time-in-tcgs-before-pot-of-greed-was-banned-and-the-avengers-were-in-magic-the-gathering/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
