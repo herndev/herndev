@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC&#39;s US investment is a win-win; dropping one advanced node protects its interests, while an advanced packaging plant and R&amp;D center boost US chip prowess &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/250304/p3#a250304p3)
- - [Meghan Markle&#39;s New Docuseries Is Out Now: How to Watch](https://www.cnet.com/tech/services-and-software/meghan-markles-new-docuseries-is-out-now-how-to-watch/#ftag=CAD590a51e)
- - [Google Chrome is automatically disabling uBlock Origin, but here’s how I easily reenabled it](https://www.androidauthority.com/google-chrome-enable-ublock-origin-3531834/)<!-- TECH:END -->
+ - [Bybit CEO Ben Zhou says 77%+ of the funds stolen remain traceable, including 417,348 ETH, and 20% have &quot;gone dark&quot;; the hackers converted 83% of the ETH to BTC &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250304/p4#a250304p4)
+ - [I adore everything about the Nothing Phone 3a and 3a Pro, except the star feature](https://www.androidauthority.com/nothing-phone-3a-pro-hands-on-3529341/)
+ - [Nothing launches Phone 3a &amp; 3a Pro: Periscope zoom for the masses](https://www.androidauthority.com/nothing-phone-3a-launch-3531756/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
