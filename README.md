@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - ⏩ [This ACTING...](http://9gag.com/gag/aW47wxn)
- - 👉 [But At Least It Came Back](http://9gag.com/gag/aZZ16Ln)<!-- MEMES:END -->
+ - ⏩ [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - 👉 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)<!-- MEMES:END -->
 
 ---
 
