@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
- - ⏩ [Common sense is back.](http://9gag.com/gag/an7Rp3V)
- - 👉 [Impressive performance](http://9gag.com/gag/an7RLYz)<!-- MEMES:END -->
+ - 💣 [Impressive performance](http://9gag.com/gag/an7RLYz)
+ - ⏩ [The only right answer](http://9gag.com/gag/abA1928)
+ - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
 
 ---
 
