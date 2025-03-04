@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People are strange](http://9gag.com/gag/aKGArX3)
- - ⏩ [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 👉 [Chris P. Bacon](http://9gag.com/gag/agm1Mxv)<!-- MEMES:END -->
+ - 💣 [Beauty standards](http://9gag.com/gag/a876xwV)
+ - ⏩ [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
+ - 👉 [Such a great film!](http://9gag.com/gag/a0eXA9n)<!-- MEMES:END -->
 
 ---
 
