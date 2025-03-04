@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Registration for new Beta Program at PlayStation starts today](https://blog.playstation.com/2025/03/04/registration-for-new-beta-program-at-playstation-starts-today/)
- - [How to complete ‘Somebody’s planning a party in Crime City’ in Fortnite](https://www.polygon.com/fortnite-guide/533463/somebodys-planning-party-crime-city-big-dill-found-story-quest-bug-fix)
- - [Fix Monster Hunter Wilds&#39; Greediest Microtransaction And More With These Five Great Mods](https://kotaku.com/monster-hunter-wilds-mods-pc-graphics-edit-voucher-ui-1851767589)<!-- GAME:END -->
+ - [Tony Hawk’s Pro Skater 3 + 4 Returns on July 11](https://news.xbox.com/en-us/2025/03/04/tony-hawks-pro-skater-3-4-release-date/)
+ - [Tony Hawk’s Pro Skater 3 and 4 remasters revealed, now with a shredding Doom Slayer](https://www.polygon.com/gaming/526983/tony-hawks-pro-skater-3-4-remaster-release-date)
+ - [Where to find gravid bowfins in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533458/gravid-bowfins-where-to-find-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
