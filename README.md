@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China plans to issue guidance as soon as this month to encourage the use of open-source RISC-V chips nationwide for the first time &lpar;Reuters&rpar;](http://www.techmeme.com/250304/p22#a250304p22)
- - [Samsung Galaxy Z Flip 7 might just see a modest battery capacity boost](https://www.androidauthority.com/samsung-galaxy-z-flip-7-battery-3532101/)
- - [YouTube warns creators an AI-generated video of its CEO is being used for phishing scams](https://www.theverge.com/news/624159/youtube-ai-generated-neal-mohan-phishing-scam)<!-- TECH:END -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Nvidia’s GeForce RTX 5070 Founders Edition cards won’t launch until later this month](https://www.theverge.com/news/624258/nvidia-geforce-rtx-5070-founders-edition-launch-delay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
