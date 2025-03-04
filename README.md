@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [CFPB staff and leaders clash about whether they’re allowed to work](https://www.theverge.com/news/623748/cfpb-nteu-lawsuit-doge)<!-- TECH:END -->
+ - [Split Fiction doesn&amp;#8217;t need to be original when the co-op play is this good](https://www.theverge.com/games-review/623660/split-fiction-review-hazelight-studios-it-takes-two)
+ - [Apple 11-inch and 13-inch iPad Air : Price, Specs, Availability](https://www.wired.com/story/apple-new-ipad-air-m3-chip/)
+ - [Apple Pencil buyer&#39;s guide -- which of the four models works with your iPad?](https://appleinsider.com/articles/24/05/07/apple-pencil-buyers-guide----which-of-the-four-models-works-with-your-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
