@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alienware has a $549 QD-OLED gaming monitor](https://www.theverge.com/news/623428/dell-alienware-oled-monitor-aw2725d-price-release-date)
- - [MagSafe does connect to the iPhone 16e, but incredibly badly](https://appleinsider.com/articles/25/03/04/magsafe-does-connect-to-the-iphone-16e-but-incredibly-badly?utm_medium=rss)
- - [How to mirror your Samsung phone on Windows](https://www.theverge.com/how-to/622969/windows-mirror-samsung-android-how-to)<!-- TECH:END -->
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [CFPB staff and leaders clash about whether they’re allowed to work](https://www.theverge.com/news/623748/cfpb-nteu-lawsuit-doge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
