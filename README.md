@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Literally anything other than bot propaganda](http://9gag.com/gag/abA194r)
- - ⏩ [Titanic](http://9gag.com/gag/aVvoNZP)
- - 👉 [He&#39;s so polite &amp; the owner is awesome](http://9gag.com/gag/apR3OPp)<!-- MEMES:END -->
+ - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - ⏩ [I don&#39;t know dude, it looks painful for me.](http://9gag.com/gag/avy13Dn)
+ - 👉 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)<!-- MEMES:END -->
 
 ---
 
