@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Yu-Gi-Oh! retro collection transported me to a simpler time in TCGs, before Pot of Greed was banned and the Avengers were in Magic: The Gathering](https://www.pcgamer.com/games/card-games/this-yu-gi-oh-retro-collection-transported-me-to-a-simpler-time-in-tcgs-before-pot-of-greed-was-banned-and-the-avengers-were-in-magic-the-gathering/)
  - [Monster Hunter Wilds dominated Steam so hard this weekend that a new game from a Nintendo legend attracted a mere 5 reviews, and another dev tweeted they hadn&#39;t sold &#39;a single game&#39; since Wilds released](https://www.pcgamer.com/games/action/monster-hunter-wilds-dominated-steam-so-hard-this-weekend-that-a-new-game-from-a-nintendo-legend-attracted-a-mere-5-reviews-and-another-dev-tweeted-it-hadnt-sold-a-single-game-since-monster-hunter-released/)
- - [‘Beware the Gypceros’ walkthrough in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532977/beware-the-gypceros-location-walkthrough-fallow-zatoh)
- - [The PC game releases we&#39;re most excited about in March](https://www.pcgamer.com/games/march-2025-pc-game-release-dates/)<!-- GAME:END -->
+ - [‘Beware the Gypceros’ walkthrough in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532977/beware-the-gypceros-location-walkthrough-fallow-zatoh)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
