@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somewhere in a parallel universe](http://9gag.com/gag/a4P6Dqw)
- - ⏩ [Ladies man](http://9gag.com/gag/agm1WOq)
- - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
+ - 💣 [Chris P. Bacon](http://9gag.com/gag/agm1Mxv)
+ - ⏩ [Yeah skyrim is ez](http://9gag.com/gag/aPAmKzP)
+ - 👉 [The forbidden tequila](http://9gag.com/gag/a1mN4pw)<!-- MEMES:END -->
 
 ---
 
