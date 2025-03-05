@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
- - ⏩ [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
+ - ⏩ [Maybe he should stare at mirror](http://9gag.com/gag/a34AvE5)
+ - 👉 [I love my white country](http://9gag.com/gag/aqy89Ov)<!-- MEMES:END -->
 
 ---
 
