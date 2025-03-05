@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welding](http://9gag.com/gag/a0eV89Z)
- - ⏩ [Double wham](http://9gag.com/gag/a5Q6mVq)
- - 👉 [Must be geh like OP](http://9gag.com/gag/a9y699W)<!-- MEMES:END -->
+ - 💣 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
+ - ⏩ [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - 👉 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)<!-- MEMES:END -->
 
 ---
 
