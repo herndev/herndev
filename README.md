@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Minecraft Live on March 22 for Game Drops and More](https://aka.ms/MCLAnnounce/#new_tab)
- - [Magic’s Commander format is changing. Here’s what you need to know](https://www.polygon.com/mtg-magic-the-gathering/533852/mtg-magic-commander-format-changes)
- - [Steam users react ecstatically to update that lets them access their heaving game notes via the web, also it fixes Monster Hunter Wilds video recording](https://www.pcgamer.com/software/platforms/steam-users-react-ecstatically-to-update-that-lets-them-access-their-heaving-game-notes-via-the-web-also-it-fixes-monster-hunter-wilds-video-recording/)<!-- GAME:END -->
+ - [Dave Bautista still hopes to play Ernest Hemingway: ‘I don’t want to be an action star’](https://www.polygon.com/sci-fi/532393/dave-bautista-doesnt-want-to-be-an-action-star-ernest-hemingway)
+ - [Early backers of game decry &#39;bait and switch&#39; after it backtracks on monetisation promises, dev chooses to stir the pot: &#39;Seeing Reddit lose it today lets me breathe a huge sigh of relief&#39;](https://www.pcgamer.com/games/card-games/early-backers-of-game-decry-bait-and-switch-after-it-backtracks-on-monetisation-promises-dev-chooses-to-stir-the-pot-seeing-reddit-lose-it-lets-me-breathe-a-huge-sigh-of-relief/)
+ - [Where to find giant vigorwasps in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/534255/giant-vigorwasps-location-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
