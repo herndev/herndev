@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They don\u2019t make movies like this anymore.](http://9gag.com/gag/a9yvMmo)
- - ⏩ [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
- - 👉 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)<!-- MEMES:END -->
+ - 💣 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
+ - ⏩ [53 seconds of a Classic](http://9gag.com/gag/aoyVZdX)
+ - 👉 [Feel YOUNG again when drinking coffee here](http://9gag.com/gag/a87mbo6)<!-- MEMES:END -->
 
 ---
 
