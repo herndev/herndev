@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;He came. And now he must go,&#39; and that&#39;s why Pinhead is leaving Dead by Daylight in April](https://www.pcgamer.com/games/horror/he-came-and-now-he-must-go-and-thats-why-pinhead-is-leaving-dead-by-daylight-in-april/)
  - [Civilization 7&#39;s &#39;first major update&#39; tweaks balance and fixes some UI issues, but don&#39;t expect an overhaul](https://www.pcgamer.com/games/strategy/civilization-7s-first-major-update-tweaks-balance-and-fixes-some-ui-issues-but-dont-expect-an-overhaul/)
- - [Monster Hunter Wilds sells 8 million copies in 3 days, &#39;the fastest any game has done so in Capcom’s history&#39;](https://www.pcgamer.com/games/action/monster-hunter-wilds-sells-8-million-copies-in-3-days-the-fastest-any-game-has-done-so-in-capcoms-history/)
- - [Legendary 1990s publisher Acclaim is back from the dead, and a pro wrestler famous for clobbering people with a guitar is on its advisory board](https://www.pcgamer.com/gaming-industry/legendary-1990s-publisher-acclaim-is-back-from-the-dead-and-a-pro-wrestler-famous-for-clobbering-people-with-a-guitar-is-on-its-advisory-board/)<!-- GAME:END -->
+ - [Monster Hunter Wilds sells 8 million copies in 3 days, &#39;the fastest any game has done so in Capcom’s history&#39;](https://www.pcgamer.com/games/action/monster-hunter-wilds-sells-8-million-copies-in-3-days-the-fastest-any-game-has-done-so-in-capcoms-history/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
