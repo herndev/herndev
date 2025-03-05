@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, March 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-5-2025/)
  - [Daredevil’s White Tiger is a living relic of a very different Marvel Comics](https://www.polygon.com/marvel/533804/daredevil-white-tiger-hector-ayala-comics-powers-origin)
- - [Everything that’s happened to Daredevil’s characters since the Daredevil show](https://www.polygon.com/tv/534065/daredevil-born-again-netflix-recap-wilson-fisk-kingpin)
- - [When PC RPGs were at their crunchiest and most hardcore in the 1990s, Farland Story set itself apart by… being cute?](https://www.pcgamer.com/games/rpg/when-pc-rpgs-were-at-their-crunchiest-and-most-hardcore-in-the-1990s-farland-story-set-itself-apart-by-being-cute/)<!-- GAME:END -->
+ - [Everything that’s happened to Daredevil’s characters since the Daredevil show](https://www.polygon.com/tv/534065/daredevil-born-again-netflix-recap-wilson-fisk-kingpin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
