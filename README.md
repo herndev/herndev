@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finding a new and inventive way to annoy everybody, Activision has company use AI to generate fake advertisements for games that don&#39;t exist](https://www.pcgamer.com/gaming-industry/finding-a-new-and-inventive-way-to-annoy-everybody-activision-has-company-use-ai-to-generate-fake-advertisements-for-games-that-dont-exist/)
- - [Alienware launches two new OLED gaming monitors and one of them is its cheapest yet at $550](https://www.pcgamer.com/hardware/gaming-monitors/alienware-launches-two-new-oled-gaming-monitors-and-one-of-them-is-its-cheapest-yet-at-usd550/)
- - [It launched upside down and on fire, but busted and brilliant Stalker 2 has attracted 6 million players to the Zone in the last 3 months](https://www.pcgamer.com/games/fps/it-launched-upside-down-and-on-fire-but-busted-and-brilliant-stalker-2-has-attracted-6-million-players-to-the-zone-in-the-last-3-months/)<!-- GAME:END -->
+ - [Tekken: A PlayStation history](https://blog.playstation.com/2025/03/05/tekken-a-playstation-history/)
+ - [Marvel Rivals announces a new limited-time game mode, Clone Rumble, and manages to pull off a comic caper that players only thought was possible in theory](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-announces-a-new-limited-time-game-mode-clone-rumble-and-manages-to-pull-off-a-comic-caper-that-players-only-thought-was-possible-in-theory/)
+ - [Best Buy outs a load of non-MSRP RTX 5070 cards and many are priced above $700 and up near RTX 5070 Ti levels. Ouch!](https://www.pcgamer.com/hardware/graphics-cards/best-buy-outs-a-load-of-non-msrp-rtx-5070-cards-and-many-are-priced-above-usd700-and-up-near-rtx-5070-ti-levels-ouch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
