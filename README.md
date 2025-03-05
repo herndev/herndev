@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Must be geh like OP](http://9gag.com/gag/a9y699W)
- - ⏩ [Protect this man](http://9gag.com/gag/aGynPoZ)
- - 👉 [Fill or kill](http://9gag.com/gag/awy3R5Q)<!-- MEMES:END -->
+ - 💣 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)
+ - ⏩ [Joink](http://9gag.com/gag/aZZ1GpQ)
+ - 👉 [Good job](http://9gag.com/gag/agmO31K)<!-- MEMES:END -->
 
 ---
 
