@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Europe right now](http://9gag.com/gag/apR3ezB)
- - ⏩ [Cancer recovery log. Amazing!](http://9gag.com/gag/a6Z9wD8)
- - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
+ - 💣 [Truly majestic!](http://9gag.com/gag/a7oevqe)
+ - ⏩ [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
+ - 👉 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)<!-- MEMES:END -->
 
 ---
 
