@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA clears Microsoft&#39;s $13B OpenAI investment in 2023, ending 14 months of uncertainty over the deal, but says &quot;Microsoft did acquire material influence&quot; &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/250305/p20#a250305p20)
- - [Hyundai teams up with Yandex spinoff Avride to develop robotaxis](https://www.theverge.com/news/624158/hyundai-avride-autonomous-robotaxi-ioniq-5)
- - [The questions ChatGPT shouldn’t answer](https://www.theverge.com/openai/624209/chatgpt-ethics-specs-humanism)<!-- TECH:END -->
+ - [Apple launches new Mac Studios with M4 Max and M3 Ultra chips](https://www.theverge.com/news/624193/apple-mac-studio-m4-max-m3-ultra-launch-price-specs-availability)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [This little AI phone has some wild ideas](https://www.theverge.com/tech/624508/newnal-ai-os-phone-blockchain-mwc-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
