@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Must be geh like OP](http://9gag.com/gag/a9y699W)
+ - 💣 [The tail wags are precious](http://9gag.com/gag/aD2nReK)
  - ⏩ [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
- - 👉 [Someone&#39;s gonna have a very good time in bed tonight....](http://9gag.com/gag/aGynWMw)<!-- MEMES:END -->
+ - 👉 [-Guy breaks into a house -Hears deck of cards shuffle -dead](http://9gag.com/gag/agmO3Pv)<!-- MEMES:END -->
 
 ---
 
