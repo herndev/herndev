@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches new Mac Studios with M4 Max and M3 Ultra chips](https://www.theverge.com/news/624193/apple-mac-studio-m4-max-m3-ultra-launch-price-specs-availability)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [This little AI phone has some wild ideas](https://www.theverge.com/tech/624508/newnal-ai-os-phone-blockchain-mwc-2025)<!-- TECH:END -->
+ - [Why I love the Logitech MX Vertical wireless mouse](https://www.theverge.com/favorites/623848/my-favorite-things-logitechs-mx-vertical-wireless-mouse)
+ - [Apple&#39;s M3 Ultra unlocks next-level power for AI, graphics &amp; 3D rendering](https://appleinsider.com/articles/25/03/05/apples-m3-ultra-unlocks-next-level-power-for-ai-graphics-3d-rendering?utm_medium=rss)
+ - [MacBook Air update arrives with lower starting price &amp; M4 performance boost](https://appleinsider.com/articles/25/03/05/macbook-air-update-arrives-with-lower-starting-price-m4-performance-boost?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
