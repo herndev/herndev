@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Gundam is an explosive collision of the franchise’s past and present](https://www.polygon.com/anime/533592/gundam-gquuuuuux-mobile-suit-review-episodes-movie)
- - [How to get an Aqua Sac in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/534318/aqua-sac-how-to-get)
- - [What we know about Paradise season 2](https://www.polygon.com/news/534196/paradise-season-2-premiere-date-cast-story-details)<!-- GAME:END -->
+ - [The Witcher show finally adds a character exclusive to the games, too bad he&#39;s &#39;exceptionally loathsome and arrogant&#39;](https://www.pcgamer.com/movies-tv/the-witcher-show-finally-adds-a-character-exclusive-to-the-games-too-bad-hes-exceptionally-loathsome-and-arrogant/)
+ - [All ‘Gible Drop Event’ cards and best decks in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/531789/gible-drop-event-cards-best-decks-all)
+ - [After Years Of Waiting, Suikoden Finally Gets The HD Glow-Up It Deserves](https://kotaku.com/suikoden-1-2-hd-collection-review-rpg-features-ps1-1851767870)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
