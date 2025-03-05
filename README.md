@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan&#39;s government says it will assist with TSMC&#39;s $100B investment in the US, but also do &quot;gatekeeping&quot; to keep the most advanced tech in Taiwan &lpar;Financial Times&rpar;](http://www.techmeme.com/250304/p37#a250304p37)
  - [Arm agrees to provide chip designs and tech to Malaysia for $250M over the next ten years, as the government targets semiconductor exports of $270B by 2030 &lpar;Anisah Shukry/Bloomberg&rpar;](http://www.techmeme.com/250304/p36#a250304p36)
- - [Deals: Save big on the Samsung Galaxy Z Fold 6 and Flip 6](https://www.androidauthority.com/samsung-galaxy-z-ffold-6-flip-6-deals-3532125/)
- - [Daredevil: Born Again is a rough reboot with a promising future](https://www.theverge.com/tv-reviews/623200/daredevil-born-again-review)<!-- TECH:END -->
+ - [Deals: Save big on the Samsung Galaxy Z Fold 6 and Flip 6](https://www.androidauthority.com/samsung-galaxy-z-ffold-6-flip-6-deals-3532125/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
