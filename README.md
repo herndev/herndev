@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher show finally adds a character exclusive to the games, too bad he&#39;s &#39;exceptionally loathsome and arrogant&#39;](https://www.pcgamer.com/movies-tv/the-witcher-show-finally-adds-a-character-exclusive-to-the-games-too-bad-hes-exceptionally-loathsome-and-arrogant/)
- - [All ‘Gible Drop Event’ cards and best decks in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/531789/gible-drop-event-cards-best-decks-all)
- - [After Years Of Waiting, Suikoden Finally Gets The HD Glow-Up It Deserves](https://kotaku.com/suikoden-1-2-hd-collection-review-rpg-features-ps1-1851767870)<!-- GAME:END -->
+ - [Epic&#39;s war against the Fortnite fraudsters sees it simultaneously name and shame alleged ne&#39;er-do-wells as its high-powered lawyers sue them](https://www.pcgamer.com/games/battle-royale/epics-war-against-the-fortnite-fraudsters-sees-it-simultaneously-name-and-shame-alleged-neer-do-wells-as-its-high-powered-lawyers-sue-them/)
+ - [Disappointed Fans Inspired Ubisoft To Create A Canon Mode For Assassin&#39;s Creed Shadows](https://kotaku.com/canon-mode-ac-assassins-creed-shadows-fans-ubisoft-ps5-1851767902)
+ - [‘Don’t bet on’ The Last of Us Part 3, says Neil Druckmann](https://www.polygon.com/news/534593/the-last-of-us-part-3-neil-druckmann-naughty-dog)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
