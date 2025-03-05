@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Volkswagen ID. EVERY1 is an affordable EV for the masses](https://www.theverge.com/news/624676/vw-id-every1-ev-price-range-specs-2027)
- - [Save up to $168 on every new 2025 M4 MacBook Air with these deals](https://appleinsider.com/articles/25/03/05/save-up-to-168-on-every-new-2025-m4-macbook-air-with-these-deals?utm_medium=rss)
- - [The Android Authority Best of MWC 2025 awards: The biggest announcements from the show](https://www.androidauthority.com/android-authority-best-of-mwc-2025-3532372/)<!-- TECH:END -->
+ - [Here’s where you can preorder the new entry-level iPad and M3 iPad Air](https://www.theverge.com/good-deals/623982/apple-m3-ipad-air-11th-gen-tablet-preorder-how-to-buy-price-release-date)
+ - [iPhones on Google Fi and T-Mobile MVNOs are a big step closer to getting RCS](https://www.androidauthority.com/google-fi-mvnos-ios-rcs-support-3532496/)
+ - [The DOJ charges 12 Chinese nationals, including PRC staff, alleging an espionage campaign hit US state and federal agencies, like the Treasury, and other orgs &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250305/p34#a250305p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
