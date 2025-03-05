@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digg is coming back, thanks to its founder — and Reddit’s](https://www.theverge.com/social/624073/digg-relaunch-2025)
- - [Meta brings its anti-scam facial recognition test to the UK &quot;after engaging with regulators&quot;, letting celebrities opt-in &quot;to receive the celeb-bait protection&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p14#a250305p14)
- - [Turing winners Andrew Barto and Richard Sutton warn over unsafe AI deployment, saying releasing models &quot;without safeguards is not good engineering practice&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250305/p13#a250305p13)<!-- TECH:END -->
+ - [I love Google Keep, but this one little thing is driving me crazy](https://www.androidauthority.com/google-keep-text-formatting-3530975/)
+ - [Indian SaaS hiring platform Darwinbox raised $140M co-led by KKR and Partners Group, taking its total funding to $270M; the startup had a $1B+ valuation in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p17#a250305p17)
+ - [Airplanes of the Future Could Be Fitted with Feather-Like Flaps](https://www.wired.com/story/airplanes-of-the-future-could-be-fitted-with-feather-like-flaps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
