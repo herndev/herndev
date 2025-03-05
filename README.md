@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good job](http://9gag.com/gag/agmO31K)
- - ⏩ [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
- - 👉 [Wait for it..](http://9gag.com/gag/aO84o0r)<!-- MEMES:END -->
+ - 💣 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
+ - ⏩ [Good boy helping during epilepsy](http://9gag.com/gag/aoyVZeA)
+ - 👉 [53 seconds of a Classic](http://9gag.com/gag/aoyVZdX)<!-- MEMES:END -->
 
 ---
 
