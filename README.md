@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;He came. And now he must go,&#39; and that&#39;s why Pinhead is leaving Dead by Daylight in April](https://www.pcgamer.com/games/horror/he-came-and-now-he-must-go-and-thats-why-pinhead-is-leaving-dead-by-daylight-in-april/)
- - [Civilization 7&#39;s &#39;first major update&#39; tweaks balance and fixes some UI issues, but don&#39;t expect an overhaul](https://www.pcgamer.com/games/strategy/civilization-7s-first-major-update-tweaks-balance-and-fixes-some-ui-issues-but-dont-expect-an-overhaul/)
- - [Monster Hunter Wilds sells 8 million copies in 3 days, &#39;the fastest any game has done so in Capcom’s history&#39;](https://www.pcgamer.com/games/action/monster-hunter-wilds-sells-8-million-copies-in-3-days-the-fastest-any-game-has-done-so-in-capcoms-history/)<!-- GAME:END -->
+ - [When PC RPGs were at their crunchiest and most hardcore in the 1990s, Farland Story set itself apart by… being cute?](https://www.pcgamer.com/games/rpg/when-pc-rpgs-were-at-their-crunchiest-and-most-hardcore-in-the-1990s-farland-story-set-itself-apart-by-being-cute/)
+ - [The unofficial Civilization 7 manual: everything Civ 7 doesn&#39;t tell you about its rules and systems](https://www.pcgamer.com/games/strategy/civilization-7-guide-to-unexplained-systems-faq/)
+ - [&#39;He came. And now he must go,&#39; and that&#39;s why Pinhead is leaving Dead by Daylight in April](https://www.pcgamer.com/games/horror/he-came-and-now-he-must-go-and-thats-why-pinhead-is-leaving-dead-by-daylight-in-april/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
