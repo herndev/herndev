@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the Tether vs. Circle rivalry; sources: Circle executives regularly met US Treasury officials and others in 2024 to flag Tether&#39;s national security risks &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/250305/p10#a250305p10)
- - [Cybereason CEO Eric Gan resigns after a months-long feud with investors SoftBank and Steven Mnuchin; a source says the planned Trustwave merger is also canceled &lpar;Bloomberg&rpar;](http://www.techmeme.com/250305/p9#a250305p9)
- - [The demand for software engineers in Japan&#39;s car industry, facing a shortage of 33,000 software engineers in 2025, intensifies amid the EV and self-driving push &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250305/p8#a250305p8)<!-- TECH:END -->
+ - [Retroid is resurrecting the Game Boy design with a colorful new handheld](https://www.androidauthority.com/retroid-pocket-classic-announcement-3532236/)
+ - [Sesame&#39;s AI speech model demo has many users expressing astonishment at its realism, with some testers reporting emotional connections to the voice assistant &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250305/p11#a250305p11)
+ - [This useful Google Clock widget is making its way to Android phones](https://www.androidauthority.com/google-clock-timer-starter-widget-3532228/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
