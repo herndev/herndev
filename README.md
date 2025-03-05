@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why I love the Logitech MX Vertical wireless mouse](https://www.theverge.com/favorites/623848/my-favorite-things-logitechs-mx-vertical-wireless-mouse)
- - [Apple&#39;s M3 Ultra unlocks next-level power for AI, graphics &amp; 3D rendering](https://appleinsider.com/articles/25/03/05/apples-m3-ultra-unlocks-next-level-power-for-ai-graphics-3d-rendering?utm_medium=rss)
- - [MacBook Air update arrives with lower starting price &amp; M4 performance boost](https://appleinsider.com/articles/25/03/05/macbook-air-update-arrives-with-lower-starting-price-m4-performance-boost?utm_medium=rss)<!-- TECH:END -->
+ - [Delta Airlines bets on ‘blended-wing’ flight to reduce emissions](https://www.theverge.com/news/624587/delta-jetzero-blended-wing-aircraft-demonstrator-2027)
+ - [Nintendo wins piracy lawsuit against file-sharing site](https://www.theverge.com/news/624618/nintendo-piracy-lawsuit-1fichier)
+ - [YouTube brings its more affordable ‘Premium Lite’ subscription to the US](https://www.theverge.com/news/624598/youtube-premium-lite-announced-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
