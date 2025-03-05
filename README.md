@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Odeko, which sells smart operations software to independent coffee shops and cafes, raised a $126M Series E, including $96M in equity and $30M in debt &lpar;Richard Collings/Axios&rpar;](http://www.techmeme.com/250305/p5#a250305p5)
- - [Sources: Flock Safety, a leading maker of license plate-reading cameras, is set to raise about $250M led by Andreessen Horowitz at a ~$7.5B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250305/p4#a250305p4)
- - [Yuga Labs, creator of BAYC NFTs, says the US SEC closed its investigation into the company without taking enforcement action, adding &quot;NFTs are not securities&quot; &lpar;Sebastian Sinclair/Decrypt&rpar;](http://www.techmeme.com/250305/p3#a250305p3)<!-- TECH:END -->
+ - [London-based Quantexa, which develops anti-money laundering tech, raised a $175M Series F at a $2.6B valuation as it expands its AI data curation business &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p6#a250305p6)
+ - [It’s official: Samsung finally puts a date on One UI 7’s stable release](https://www.androidauthority.com/one-ui-7-official-release-date-3532219/)
+ - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
