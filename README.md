@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Quantexa, which develops anti-money laundering tech, raised a $175M Series F at a $2.6B valuation as it expands its AI data curation business &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p6#a250305p6)
- - [It’s official: Samsung finally puts a date on One UI 7’s stable release](https://www.androidauthority.com/one-ui-7-official-release-date-3532219/)
- - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
+ - [Inside the Tether vs. Circle rivalry; sources: Circle executives regularly met US Treasury officials and others in 2024 to flag Tether&#39;s national security risks &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/250305/p10#a250305p10)
+ - [Cybereason CEO Eric Gan resigns after a months-long feud with investors SoftBank and Steven Mnuchin; a source says the planned Trustwave merger is also canceled &lpar;Bloomberg&rpar;](http://www.techmeme.com/250305/p9#a250305p9)
+ - [The demand for software engineers in Japan&#39;s car industry, facing a shortage of 33,000 software engineers in 2025, intensifies amid the EV and self-driving push &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250305/p8#a250305p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
