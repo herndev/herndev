@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon announces an &quot;AI-aided dubbing&quot; pilot program on Prime Video, starting with dubbing in English and Latin American Spanish on 12 movies and series &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250305/p37#a250305p37)
- - [Here’s how to preorder Apple’s new MacBook Air and Mac Studio](https://www.theverge.com/good-deals/624782/apple-m4-macbook-air-mac-studio-preorder-how-to-buy-price-release-date)
- - [Coinbase revives its ambition to bring security tokens, &quot;crypto assets that represent a traditional security&quot;, to the US, amid a relaxed regulatory environment &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/250305/p36#a250305p36)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Tweetbot’s developers are making a Bluesky client](https://www.theverge.com/news/624926/tweetbots-developers-are-making-a-bluesky-client)
+ - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
