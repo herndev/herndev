@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
- - ⏩ [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 👉 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)<!-- MEMES:END -->
+ - 💣 [Good job](http://9gag.com/gag/agmO31K)
+ - ⏩ [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
+ - 👉 [Wait for it..](http://9gag.com/gag/aO84o0r)<!-- MEMES:END -->
 
 ---
 
