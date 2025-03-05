@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)
- - ⏩ [Joink](http://9gag.com/gag/aZZ1GpQ)
- - 👉 [Good job](http://9gag.com/gag/agmO31K)<!-- MEMES:END -->
+ - 💣 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
+ - ⏩ [Diversity](http://9gag.com/gag/aRB4Y85)
+ - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
 
 ---
 
