@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Suikoden 1&amp;2 HD Remaster review](https://www.pcgamer.com/games/rpg/suikoden-1-and-2-hd-remaster-review/)
  - [Today&#39;s Wordle answer for Wednesday, March 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-5-2025/)
- - [Daredevil’s White Tiger is a living relic of a very different Marvel Comics](https://www.polygon.com/marvel/533804/daredevil-white-tiger-hector-ayala-comics-powers-origin)
- - [Everything that’s happened to Daredevil’s characters since the Daredevil show](https://www.polygon.com/tv/534065/daredevil-born-again-netflix-recap-wilson-fisk-kingpin)<!-- GAME:END -->
+ - [Daredevil’s White Tiger is a living relic of a very different Marvel Comics](https://www.polygon.com/marvel/533804/daredevil-white-tiger-hector-ayala-comics-powers-origin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
