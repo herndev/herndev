@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance 2&#39;s March patch brings zoomer haircuts for Henry and the return of the hardcore mode that can kill you before the game even starts](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2s-march-patch-brings-zoomer-haircuts-for-henry-and-the-return-of-the-hardcore-mode-that-can-kill-you-before-the-game-even-starts/)
- - [Pokémon-shaped Cheeto sells for $88K at auction](https://www.polygon.com/pokemon/534195/pokemon-shaped-cheeto-cheetozard-auction-price)
- - [Daredevil: Born Again killed the heart of the show in 15 minutes](https://www.polygon.com/opinion/533883/daredevil-born-again-foggy-dead)<!-- GAME:END -->
+ - [Watch Minecraft Live on March 22 for Game Drops and More](https://aka.ms/MCLAnnounce/#new_tab)
+ - [Magic’s Commander format is changing. Here’s what you need to know](https://www.polygon.com/mtg-magic-the-gathering/533852/mtg-magic-commander-format-changes)
+ - [Steam users react ecstatically to update that lets them access their heaving game notes via the web, also it fixes Monster Hunter Wilds video recording](https://www.pcgamer.com/software/platforms/steam-users-react-ecstatically-to-update-that-lets-them-access-their-heaving-game-notes-via-the-web-also-it-fixes-monster-hunter-wilds-video-recording/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
