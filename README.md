@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dave Bautista still hopes to play Ernest Hemingway: ‘I don’t want to be an action star’](https://www.polygon.com/sci-fi/532393/dave-bautista-doesnt-want-to-be-an-action-star-ernest-hemingway)
- - [Early backers of game decry &#39;bait and switch&#39; after it backtracks on monetisation promises, dev chooses to stir the pot: &#39;Seeing Reddit lose it today lets me breathe a huge sigh of relief&#39;](https://www.pcgamer.com/games/card-games/early-backers-of-game-decry-bait-and-switch-after-it-backtracks-on-monetisation-promises-dev-chooses-to-stir-the-pot-seeing-reddit-lose-it-lets-me-breathe-a-huge-sigh-of-relief/)
- - [Where to find giant vigorwasps in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/534255/giant-vigorwasps-location-where-to-find)<!-- GAME:END -->
+ - [The new Gundam is an explosive collision of the franchise’s past and present](https://www.polygon.com/anime/533592/gundam-gquuuuuux-mobile-suit-review-episodes-movie)
+ - [How to get an Aqua Sac in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/534318/aqua-sac-how-to-get)
+ - [What we know about Paradise season 2](https://www.polygon.com/news/534196/paradise-season-2-premiere-date-cast-story-details)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
