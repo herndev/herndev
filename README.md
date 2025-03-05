@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
- - ⏩ [-Guy breaks into a house -Hears deck of cards shuffle -dead](http://9gag.com/gag/agmO3Pv)
- - 👉 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)<!-- MEMES:END -->
+ - 💣 [Europe right now](http://9gag.com/gag/apR3ezB)
+ - ⏩ [Cancer recovery log. Amazing!](http://9gag.com/gag/a6Z9wD8)
+ - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
 
 ---
 
