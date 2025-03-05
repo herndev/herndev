@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A bunch of hillbillies from Texas landed a capsule on the moon the other day.](http://9gag.com/gag/aryAvQB)
- - ⏩ [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 👉 [Truly majestic!](http://9gag.com/gag/a7oevqe)<!-- MEMES:END -->
+ - 💣 [Must be geh like OP](http://9gag.com/gag/a9y699W)
+ - ⏩ [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
+ - 👉 [Someone&#39;s gonna have a very good time in bed tonight....](http://9gag.com/gag/aGynWMw)<!-- MEMES:END -->
 
 ---
 
