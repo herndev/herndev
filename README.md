@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Tweetbot’s developers are making a Bluesky client](https://www.theverge.com/news/624926/tweetbots-developers-are-making-a-bluesky-client)
- - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)<!-- TECH:END -->
+ - [Apple introduces AI-generated summaries of app reviews in the App Store, first available in the US in English, for the latest iOS and iPadOS 18.4 betas &lpar;Mahmoud Itani/Macworld&rpar;](http://www.techmeme.com/250305/p43#a250305p43)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Samsung monitor deals: Go big or go bigger](https://www.androidauthority.com/samsung-odyssey-g55c-neo-g7-deals-3532566/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
