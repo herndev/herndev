@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netherlands-based QuantWare, which offers its VIO chip architecture to help solve scaling bottlenecks in quantum processors, raised a &amp;euro;20M Series A &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250304/p39#a250304p39)
- - [While addressing Congress, President Trump calls to &quot;get rid&quot; of the $52B CHIPS Act and use the leftover amount to &quot;reduce debt or any other reason&quot; &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250304/p38#a250304p38)
- - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)<!-- TECH:END -->
+ - [NYC-based Odeko, which sells smart operations software to independent coffee shops and cafes, raised a $126M Series E, including $96M in equity and $30M in debt &lpar;Richard Collings/Axios&rpar;](http://www.techmeme.com/250305/p5#a250305p5)
+ - [Sources: Flock Safety, a leading maker of license plate-reading cameras, is set to raise about $250M led by Andreessen Horowitz at a ~$7.5B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250305/p4#a250305p4)
+ - [Yuga Labs, creator of BAYC NFTs, says the US SEC closed its investigation into the company without taking enforcement action, adding &quot;NFTs are not securities&quot; &lpar;Sebastian Sinclair/Decrypt&rpar;](http://www.techmeme.com/250305/p3#a250305p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
