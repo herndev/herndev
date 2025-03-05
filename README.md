@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s where you can preorder the new entry-level iPad and M3 iPad Air](https://www.theverge.com/good-deals/623982/apple-m3-ipad-air-11th-gen-tablet-preorder-how-to-buy-price-release-date)
- - [iPhones on Google Fi and T-Mobile MVNOs are a big step closer to getting RCS](https://www.androidauthority.com/google-fi-mvnos-ios-rcs-support-3532496/)
- - [The DOJ charges 12 Chinese nationals, including PRC staff, alleging an espionage campaign hit US state and federal agencies, like the Treasury, and other orgs &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250305/p34#a250305p34)<!-- TECH:END -->
+ - [Coinbase is reviving ambitions to introduce security tokens, digital assets that represent venture investments, amid a relaxed regulatory environment &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/250305/p36#a250305p36)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Big Tech is now slightly less silent on Trump’s tariffs](https://www.theverge.com/news/624849/big-tech-slightly-less-silent-trump-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
