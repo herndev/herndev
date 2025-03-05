@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge denies Elon Musk&#39;s request for an injunction that would pause OpenAI&#39;s restructuring to a for-profit, saying he failed to meet the burden of proof &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250304/p34#a250304p34)
- - [Source: ByteDance plans to buy back US employee stock at ~$189.90 per share, up from ~$181 in a similar proposal in 2024, putting ByteDance&#39;s valuation at $312B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250304/p33#a250304p33)
- - [The Los Angeles Times removes its AI-powered &quot;Insights&quot; feature from a column after the tool tried to defend the Ku Klux Klan, just a day after its debut &lpar;Corbin Bolies/The Daily Beast&rpar;](http://www.techmeme.com/250304/p32#a250304p32)<!-- TECH:END -->
+ - [Arm agrees to provide chip designs and tech to Malaysia for $250M over the next ten years, as the government targets semiconductor exports of $270B by 2030 &lpar;Anisah Shukry/Bloomberg&rpar;](http://www.techmeme.com/250304/p36#a250304p36)
+ - [Deals: Save big on the Samsung Galaxy Z Fold 6 and Flip 6](https://www.androidauthority.com/samsung-galaxy-z-ffold-6-flip-6-deals-3532125/)
+ - [Daredevil: Born Again is a rough reboot with a promising future](https://www.theverge.com/tv-reviews/623200/daredevil-born-again-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
