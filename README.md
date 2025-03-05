@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
- - ⏩ [Maybe he should stare at mirror](http://9gag.com/gag/a34AvE5)
- - 👉 [I love my white country](http://9gag.com/gag/aqy89Ov)<!-- MEMES:END -->
+ - 💣 [They don\u2019t make movies like this anymore.](http://9gag.com/gag/a9yvMmo)
+ - ⏩ [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
+ - 👉 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)<!-- MEMES:END -->
 
 ---
 
