@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The tail wags are precious](http://9gag.com/gag/aD2nReK)
- - ⏩ [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
- - 👉 [-Guy breaks into a house -Hears deck of cards shuffle -dead](http://9gag.com/gag/agmO3Pv)<!-- MEMES:END -->
+ - 💣 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
+ - ⏩ [-Guy breaks into a house -Hears deck of cards shuffle -dead](http://9gag.com/gag/agmO3Pv)
+ - 👉 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)<!-- MEMES:END -->
 
 ---
 
