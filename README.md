@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to unlock Jasmine and Aladdin in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-jasmine-aladdin-unlock/)
  - [Suikoden 1&amp;2 HD Remaster review](https://www.pcgamer.com/games/rpg/suikoden-1-and-2-hd-remaster-review/)
- - [Today&#39;s Wordle answer for Wednesday, March 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-5-2025/)
- - [Daredevil’s White Tiger is a living relic of a very different Marvel Comics](https://www.polygon.com/marvel/533804/daredevil-white-tiger-hector-ayala-comics-powers-origin)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, March 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-5-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
