@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Nvidia’s GeForce RTX 5070 Founders Edition cards won’t launch until later this month](https://www.theverge.com/news/624258/nvidia-geforce-rtx-5070-founders-edition-launch-delay)<!-- TECH:END -->
+ - [Save $50 on Apple&#39;s new M3 iPad Air with Best Buy Total](https://appleinsider.com/articles/25/03/04/save-50-on-apples-new-m3-ipad-air-with-best-buy-total?utm_medium=rss)
+ - [CrowdStrike reports Q4 revenue up 25% YoY to $1.06B, vs. $1.03B est., a $92.3M net loss, and issues disappointing earnings guidance; CRWD drops 8%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250304/p29#a250304p29)
+ - [Sources: Google representatives asked DOJ officials in a meeting last week to back away from a push to break up the company, citing national security concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/250304/p28#a250304p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
