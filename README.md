@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love my white country](http://9gag.com/gag/aqy89Ov)
- - ⏩ [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 👉 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)<!-- MEMES:END -->
+ - 💣 [Cancer recovery log. Amazing!](http://9gag.com/gag/a6Z9wD8)
+ - ⏩ [Wonderful culture](http://9gag.com/gag/aQzQ44q)
+ - 👉 [Europe right now](http://9gag.com/gag/apR3ezB)<!-- MEMES:END -->
 
 ---
 
