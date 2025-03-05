@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find novacrystals in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/534798/novacrystals-where-to-find)
- - [Cities: Skylines 2&#39;s asset editor remains a distant dream: Colossal Order is still working on it but says it&#39;s &#39;proven more technically challenging than initially anticipated&#39;](https://www.pcgamer.com/games/sim/cities-skylines-2s-asset-editor-remains-a-distant-dream-colossal-order-is-still-working-on-it-but-says-its-proven-more-technically-challenging-than-initially-anticipated/)
- - [Ubisoft reveals Assassin&#39;s Creed Shadows preload and unlock times](https://www.pcgamer.com/games/assassins-creed/ubisoft-reveals-assassins-creed-shadows-preload-and-unlock-times/)<!-- GAME:END -->
+ - [The Hand of Fate devs are back with a bullet heaven called Hordes of Fate](https://www.pcgamer.com/games/roguelike/the-hand-of-fate-devs-are-back-with-a-bullet-heaven-called-hordes-of-fate/)
+ - [You have 303 days to catch up with 2024’s most beautifully melancholic show](https://www.polygon.com/anime/534862/frieren-beyond-journeys-end-season-2-release-date)
+ - [Where to find novacrystals in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/534798/novacrystals-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
