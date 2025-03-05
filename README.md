@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock Jasmine and Aladdin in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-jasmine-aladdin-unlock/)
- - [Suikoden 1&amp;2 HD Remaster review](https://www.pcgamer.com/games/rpg/suikoden-1-and-2-hd-remaster-review/)
- - [Today&#39;s Wordle answer for Wednesday, March 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-5-2025/)<!-- GAME:END -->
+ - [Finding a new and inventive way to annoy everybody, Activision has company use AI to generate fake advertisements for games that don&#39;t exist](https://www.pcgamer.com/gaming-industry/finding-a-new-and-inventive-way-to-annoy-everybody-activision-has-company-use-ai-to-generate-fake-advertisements-for-games-that-dont-exist/)
+ - [Alienware launches two new OLED gaming monitors and one of them is its cheapest yet at $550](https://www.pcgamer.com/hardware/gaming-monitors/alienware-launches-two-new-oled-gaming-monitors-and-one-of-them-is-its-cheapest-yet-at-usd550/)
+ - [It launched upside down and on fire, but busted and brilliant Stalker 2 has attracted 6 million players to the Zone in the last 3 months](https://www.pcgamer.com/games/fps/it-launched-upside-down-and-on-fire-but-busted-and-brilliant-stalker-2-has-attracted-6-million-players-to-the-zone-in-the-last-3-months/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
