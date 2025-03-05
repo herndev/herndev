@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Games Of 2025 So Far](https://kotaku.com/2025-best-games-monster-hunter-split-fiction-avowed-1851767689)
- - [Tekken: A PlayStation history](https://blog.playstation.com/2025/03/05/tekken-a-playstation-history/)
- - [Marvel Rivals announces a new limited-time game mode, Clone Rumble, and manages to pull off a comic caper that players only thought was possible in theory](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-announces-a-new-limited-time-game-mode-clone-rumble-and-manages-to-pull-off-a-comic-caper-that-players-only-thought-was-possible-in-theory/)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2&#39;s March patch brings zoomer haircuts for Henry and the return of the hardcore mode that can kill you before the game even starts](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2s-march-patch-brings-zoomer-haircuts-for-henry-and-the-return-of-the-hardcore-mode-that-can-kill-you-before-the-game-even-starts/)
+ - [Pokémon-shaped Cheeto sells for $88K at auction](https://www.polygon.com/pokemon/534195/pokemon-shaped-cheeto-cheetozard-auction-price)
+ - [Daredevil: Born Again killed the heart of the show in 15 minutes](https://www.polygon.com/opinion/533883/daredevil-born-again-foggy-dead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
