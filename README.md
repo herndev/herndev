@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Tariffs Could Lead To Fewer Physical Games And Higher Digital Prices](https://kotaku.com/tariffs-trump-games-digital-consoles-price-increase-ps5-1851767919)
- - [Pokémon Go ‘Fuzzy Fighter’ paid Special Research — is it worth it?](https://www.polygon.com/pokemon-go-guide/534404/fuzzy-fighter-special-research-steps-worth-it-kubfu)
- - [It’s easy to get $90 off Alienware’s new 27-inch 4K OLED gaming monitor](https://www.polygon.com/good-deals/534793/alienware-gaming-monitor-coupon-sale)<!-- GAME:END -->
+ - [Where to find novacrystals in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/534798/novacrystals-where-to-find)
+ - [Cities: Skylines 2&#39;s asset editor remains a distant dream: Colossal Order is still working on it but says it&#39;s &#39;proven more technically challenging than initially anticipated&#39;](https://www.pcgamer.com/games/sim/cities-skylines-2s-asset-editor-remains-a-distant-dream-colossal-order-is-still-working-on-it-but-says-its-proven-more-technically-challenging-than-initially-anticipated/)
+ - [Ubisoft reveals Assassin&#39;s Creed Shadows preload and unlock times](https://www.pcgamer.com/games/assassins-creed/ubisoft-reveals-assassins-creed-shadows-preload-and-unlock-times/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
