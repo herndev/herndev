@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delta Airlines bets on ‘blended-wing’ flight to reduce emissions](https://www.theverge.com/news/624587/delta-jetzero-blended-wing-aircraft-demonstrator-2027)
- - [Nintendo wins piracy lawsuit against file-sharing site](https://www.theverge.com/news/624618/nintendo-piracy-lawsuit-1fichier)
- - [YouTube brings its more affordable ‘Premium Lite’ subscription to the US](https://www.theverge.com/news/624598/youtube-premium-lite-announced-us)<!-- TECH:END -->
+ - [Google is adding more AI Overviews and a new ‘AI Mode’ to Search](https://www.theverge.com/news/624064/google-ai-mode-overviews-search)
+ - [Gemini Live is ready to overtake your Android phone’s power button &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-power-button-gesture-apk-3532321/)
+ - [Apple says not every chip generation will get an Ultra tier, after announcing the M3 Ultra, suggesting it will skip the M4 Ultra &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250305/p32#a250305p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
