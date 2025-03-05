@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Best Games Of 2025 So Far](https://kotaku.com/2025-best-games-monster-hunter-split-fiction-avowed-1851767689)
  - [Tekken: A PlayStation history](https://blog.playstation.com/2025/03/05/tekken-a-playstation-history/)
- - [Marvel Rivals announces a new limited-time game mode, Clone Rumble, and manages to pull off a comic caper that players only thought was possible in theory](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-announces-a-new-limited-time-game-mode-clone-rumble-and-manages-to-pull-off-a-comic-caper-that-players-only-thought-was-possible-in-theory/)
- - [Best Buy outs a load of non-MSRP RTX 5070 cards and many are priced above $700 and up near RTX 5070 Ti levels. Ouch!](https://www.pcgamer.com/hardware/graphics-cards/best-buy-outs-a-load-of-non-msrp-rtx-5070-cards-and-many-are-priced-above-usd700-and-up-near-rtx-5070-ti-levels-ouch/)<!-- GAME:END -->
+ - [Marvel Rivals announces a new limited-time game mode, Clone Rumble, and manages to pull off a comic caper that players only thought was possible in theory](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-announces-a-new-limited-time-game-mode-clone-rumble-and-manages-to-pull-off-a-comic-caper-that-players-only-thought-was-possible-in-theory/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
