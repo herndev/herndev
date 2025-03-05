@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retroid is resurrecting the Game Boy design with a colorful new handheld](https://www.androidauthority.com/retroid-pocket-classic-announcement-3532236/)
- - [Sesame&#39;s AI speech model demo has many users expressing astonishment at its realism, with some testers reporting emotional connections to the voice assistant &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250305/p11#a250305p11)
- - [This useful Google Clock widget is making its way to Android phones](https://www.androidauthority.com/google-clock-timer-starter-widget-3532228/)<!-- TECH:END -->
+ - [Digg is coming back, thanks to its founder — and Reddit’s](https://www.theverge.com/social/624073/digg-relaunch-2025)
+ - [Meta brings its anti-scam facial recognition test to the UK &quot;after engaging with regulators&quot;, letting celebrities opt-in &quot;to receive the celeb-bait protection&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p14#a250305p14)
+ - [Turing winners Andrew Barto and Richard Sutton warn over unsafe AI deployment, saying releasing models &quot;without safeguards is not good engineering practice&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250305/p13#a250305p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
