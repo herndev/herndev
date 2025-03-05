@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic&#39;s war against the Fortnite fraudsters sees it simultaneously name and shame alleged ne&#39;er-do-wells as its high-powered lawyers sue them](https://www.pcgamer.com/games/battle-royale/epics-war-against-the-fortnite-fraudsters-sees-it-simultaneously-name-and-shame-alleged-neer-do-wells-as-its-high-powered-lawyers-sue-them/)
- - [Disappointed Fans Inspired Ubisoft To Create A Canon Mode For Assassin&#39;s Creed Shadows](https://kotaku.com/canon-mode-ac-assassins-creed-shadows-fans-ubisoft-ps5-1851767902)
- - [‘Don’t bet on’ The Last of Us Part 3, says Neil Druckmann](https://www.polygon.com/news/534593/the-last-of-us-part-3-neil-druckmann-naughty-dog)<!-- GAME:END -->
+ - [New Tariffs Could Lead To Fewer Physical Games And Higher Digital Prices](https://kotaku.com/tariffs-trump-games-digital-consoles-price-increase-ps5-1851767919)
+ - [Pokémon Go ‘Fuzzy Fighter’ paid Special Research — is it worth it?](https://www.polygon.com/pokemon-go-guide/534404/fuzzy-fighter-special-research-steps-worth-it-kubfu)
+ - [It’s easy to get $90 off Alienware’s new 27-inch 4K OLED gaming monitor](https://www.polygon.com/good-deals/534793/alienware-gaming-monitor-coupon-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
