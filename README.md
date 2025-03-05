@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - ⏩ [Welding](http://9gag.com/gag/a0eV89Z)
- - 👉 [Truly majestic!](http://9gag.com/gag/a7oevqe)<!-- MEMES:END -->
+ - 💣 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
+ - ⏩ [Truly majestic!](http://9gag.com/gag/a7oevqe)
+ - 👉 [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)<!-- MEMES:END -->
 
 ---
 
