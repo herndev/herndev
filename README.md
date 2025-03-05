@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
- - ⏩ [Diversity](http://9gag.com/gag/aRB4Y85)
- - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
+ - 💣 [A bunch of hillbillies from Texas landed a capsule on the moon the other day.](http://9gag.com/gag/aryAvQB)
+ - ⏩ [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 👉 [Truly majestic!](http://9gag.com/gag/a7oevqe)<!-- MEMES:END -->
 
 ---
 
