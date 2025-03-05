@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Everything that’s happened to Daredevil’s characters since the Daredevil show](https://www.polygon.com/tv/534065/daredevil-born-again-netflix-recap-wilson-fisk-kingpin)
  - [When PC RPGs were at their crunchiest and most hardcore in the 1990s, Farland Story set itself apart by… being cute?](https://www.pcgamer.com/games/rpg/when-pc-rpgs-were-at-their-crunchiest-and-most-hardcore-in-the-1990s-farland-story-set-itself-apart-by-being-cute/)
- - [The unofficial Civilization 7 manual: everything Civ 7 doesn&#39;t tell you about its rules and systems](https://www.pcgamer.com/games/strategy/civilization-7-guide-to-unexplained-systems-faq/)
- - [&#39;He came. And now he must go,&#39; and that&#39;s why Pinhead is leaving Dead by Daylight in April](https://www.pcgamer.com/games/horror/he-came-and-now-he-must-go-and-thats-why-pinhead-is-leaving-dead-by-daylight-in-april/)<!-- GAME:END -->
+ - [The unofficial Civilization 7 manual: everything Civ 7 doesn&#39;t tell you about its rules and systems](https://www.pcgamer.com/games/strategy/civilization-7-guide-to-unexplained-systems-faq/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
