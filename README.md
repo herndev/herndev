@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is adding more AI Overviews and a new ‘AI Mode’ to Search](https://www.theverge.com/news/624064/google-ai-mode-overviews-search)
- - [Gemini Live is ready to overtake your Android phone’s power button &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-power-button-gesture-apk-3532321/)
- - [Apple says not every chip generation will get an Ultra tier, after announcing the M3 Ultra, suggesting it will skip the M4 Ultra &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250305/p32#a250305p32)<!-- TECH:END -->
+ - [The Volkswagen ID. EVERY1 is an affordable EV for the masses](https://www.theverge.com/news/624676/vw-id-every1-ev-price-range-specs-2027)
+ - [Save up to $168 on every new 2025 M4 MacBook Air with these deals](https://appleinsider.com/articles/25/03/05/save-up-to-168-on-every-new-2025-m4-macbook-air-with-these-deals?utm_medium=rss)
+ - [The Android Authority Best of MWC 2025 awards: The biggest announcements from the show](https://www.androidauthority.com/android-authority-best-of-mwc-2025-3532372/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
