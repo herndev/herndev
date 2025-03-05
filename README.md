@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I love Google Keep, but this one little thing is driving me crazy](https://www.androidauthority.com/google-keep-text-formatting-3530975/)
- - [Indian SaaS hiring platform Darwinbox raised $140M co-led by KKR and Partners Group, taking its total funding to $270M; the startup had a $1B+ valuation in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p17#a250305p17)
- - [Airplanes of the Future Could Be Fitted with Feather-Like Flaps](https://www.wired.com/story/airplanes-of-the-future-could-be-fitted-with-feather-like-flaps/)<!-- TECH:END -->
+ - [The UK CMA clears Microsoft&#39;s $13B OpenAI investment in 2023, ending 14 months of uncertainty over the deal, but says &quot;Microsoft did acquire material influence&quot; &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/250305/p20#a250305p20)
+ - [Hyundai teams up with Yandex spinoff Avride to develop robotaxis](https://www.theverge.com/news/624158/hyundai-avride-autonomous-robotaxi-ioniq-5)
+ - [The questions ChatGPT shouldn’t answer](https://www.theverge.com/openai/624209/chatgpt-ethics-specs-humanism)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
