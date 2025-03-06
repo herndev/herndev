@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do not the cat](http://9gag.com/gag/a6Z97QN)
- - ⏩ [The damn alarm\u2026](http://9gag.com/gag/ae9O3jb)
- - 👉 [Name a bigger downgrade](http://9gag.com/gag/adBOjEB)<!-- MEMES:END -->
+ - 💣 [Black people hiking](http://9gag.com/gag/aVvEewn)
+ - ⏩ [Nothing good can come of this](http://9gag.com/gag/azxPjYq)
+ - 👉 [27 club](http://9gag.com/gag/apRDv3M)<!-- MEMES:END -->
 
 ---
 
