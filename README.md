@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [14 Things To Know Before You Start Playing Monster Hunter Wilds](https://kotaku.com/monster-hunter-wilds-tips-guides-items-pause-weapon-1851766658)
- - [Robocop: Rogue City is getting a &#39;standalone expansion&#39; that sounds an awful lot like The Raid](https://www.pcgamer.com/games/fps/robocop-rogue-city-is-getting-a-standalone-expansion-that-sounds-an-awful-lot-like-the-raid/)
- - [How to get Hunter Symbols 1, 2, and 3 in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533864/hunter-symbols-how-to-get)<!-- GAME:END -->
+ - [EVE Online studio CCP Games hires former Iceland Central Bank economist for its crypto game, because nothing says &#39;fun&#39; like &#39;removing currency controls and fostering emergent value systems&#39;](https://www.pcgamer.com/games/mmo/eve-online-studio-ccp-games-hires-former-iceland-central-bank-economist-for-its-crypto-game-because-nothing-says-fun-like-removing-currency-controls-and-fostering-emergent-value-systems/)
+ - [The trials and tribulations of setting up The Sims 4’s small businesses](https://www.polygon.com/gaming/535696/the-sims-4-hobbies-business-starting-tips)
+ - [Tony Hawk&#39;s Pro Skater 3+4 Is Making A Big Change To How THPS4 Works](https://kotaku.com/thps-3-4-tony-hawks-pro-skater-3-4-career-mode-timer-1851768305)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
