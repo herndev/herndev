@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple aims to release its first book-style foldable iPhone in late 2026, costing $2,000+ with a ~7.8&quot; &quot;crease-free&quot; inner display and a 5.5&quot; outer display &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250306/p10#a250306p10)
- - [This is the new Start chat interface from the upcoming Google Messages makeover &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-start-chat-ui-changes-apk-3532642/)
- - [Here’s an early peek at Gemini Live working on Android Auto &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-android-auto-3532509/)<!-- TECH:END -->
+ - [JD reports Q4 revenue up 13% YoY to ~$48B, its fastest growth in three years and above est., net income up 100%+ to ~$1.4B, as Chinese consumer spending rises &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p13#a250306p13)
+ - [Revlon One-Step Volumizer Plus Review: Hot Looks for Less](https://www.wired.com/review/revlon-one-step-volumizer-plus/)
+ - [Sources: President Trump is set to meet the CEOs of HP, Intel, IBM, and Qualcomm on March 10, as new US tariffs threaten to roil the PC hardware industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p12#a250306p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
