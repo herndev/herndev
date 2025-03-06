@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, March 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-6-2025/)
  - [A demo for a lost videogame based on George Orwell&#39;s 1984 has emerged from the memory hole](https://www.pcgamer.com/games/puzzle/a-demo-for-a-lost-videogame-based-on-george-orwells-1984-has-emerged-from-the-memory-hole/)
- - [Firaxis says it&#39;s &#39;entering our Sukritact Age&#39; as it hires popular modder to work on Civilization 7](https://www.pcgamer.com/games/strategy/firaxis-says-its-entering-our-sukritact-age-as-it-hires-popular-modder-to-work-on-civilization-7/)
- - [The thing I&#39;m most excited about in Assassin&#39;s Creed Shadows is my hideout: &#39;a little over one acre of fully customizable land&#39; to build on, decorate, and fill with pettable baby deer](https://www.pcgamer.com/games/action/the-thing-im-most-excited-about-in-assassins-creed-shadows-is-my-hideout-an-entire-acre-to-build-decorate-and-fill-with-pettable-baby-deer/)<!-- GAME:END -->
+ - [Firaxis says it&#39;s &#39;entering our Sukritact Age&#39; as it hires popular modder to work on Civilization 7](https://www.pcgamer.com/games/strategy/firaxis-says-its-entering-our-sukritact-age-as-it-hires-popular-modder-to-work-on-civilization-7/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
