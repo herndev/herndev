@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Larry Page has formed a new company, Dynatomics, to use LLMs to create highly optimized designs for various objects and then have a factory build them &lpar;Jessica E. Lessin/The Information&rpar;](http://www.techmeme.com/250306/p30#a250306p30)
- - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)
- - [A Look at a Very Silicon Valley Approach to Repopulation](https://www.wired.com/story/uncanny-valley-podcast-18-babies-repopulation-silicon-valley/)<!-- TECH:END -->
+ - [Spotify Premium has somehow still been struggling to solve its ad problem](https://www.androidauthority.com/spotify-premium-ad-bug-3532892/)
+ - [Broadcom reports Q1 revenue up 25% YoY to $14.92B, vs. $14.61B est., and forecasts Q2 revenue above estimates; AVGO jumps 8%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250306/p33#a250306p33)
+ - [US State Department officials say they launched an effort to use AI to review social media accounts of foreign students to revoke visas of &quot;pro-Hamas&quot; students &lpar;Marc Caputo/Axios&rpar;](http://www.techmeme.com/250306/p32#a250306p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
