@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple introduces AI-generated summaries of app reviews in the App Store, first available in the US in English, for the latest iOS and iPadOS 18.4 betas &lpar;Mahmoud Itani/Macworld&rpar;](http://www.techmeme.com/250305/p43#a250305p43)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Samsung monitor deals: Go big or go bigger](https://www.androidauthority.com/samsung-odyssey-g55c-neo-g7-deals-3532566/)<!-- TECH:END -->
+ - [Tweetbot creators tease Phoenix, a new Bluesky client](https://appleinsider.com/articles/25/03/05/tweetbot-creators-tease-phoenix-a-new-bluesky-client?utm_medium=rss)
+ - [Save $1,400 on the Anker SOLIX F3800, likely the best power station around](https://www.androidauthority.com/anker-solix-f3800-power-station-deal-3-3532565/)
+ - [SpecterOps, a cybersecurity company focused on detecting and addressing identity-based attack paths, raised a $75M Series B led by Insight Partners &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250305/p44#a250305p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
