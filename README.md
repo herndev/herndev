@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron K10 Max review: Sturdy all-round mechanical keyboard](https://appleinsider.com/articles/25/03/06/keychron-k10-max-review-sturdy-all-round-mechanical-keyboard?utm_medium=rss)
- - [The new M4 MacBook Air supports two monitors of up to 6K resolution each, plus the built-in display simultaneously, addressing a limitation of previous models &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/250305/p47#a250305p47)
- - [Steam Deck, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)<!-- TECH:END -->
+ - [Broadcom fixes three VMware zero-days exploited in the wild; attackers with admin privileges can chain the flaws to escape the virtual machine&#39;s sandbox &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250305/p48#a250305p48)
+ - [Our first look at Apple’s sky blue MacBook Air](https://www.theverge.com/news/625082/macbook-air-sky-blue-photos-hands-on-studio-ipad)
+ - [Keychron K10 Max review: Sturdy all-round mechanical keyboard](https://appleinsider.com/articles/25/03/06/keychron-k10-max-review-sturdy-all-round-mechanical-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
