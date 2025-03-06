@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tweetbot creators tease Phoenix, a new Bluesky client](https://appleinsider.com/articles/25/03/05/tweetbot-creators-tease-phoenix-a-new-bluesky-client?utm_medium=rss)
- - [Save $1,400 on the Anker SOLIX F3800, likely the best power station around](https://www.androidauthority.com/anker-solix-f3800-power-station-deal-3-3532565/)
- - [SpecterOps, a cybersecurity company focused on detecting and addressing identity-based attack paths, raised a $75M Series B led by Insight Partners &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250305/p44#a250305p44)<!-- TECH:END -->
+ - [Keychron K10 Max review: Sturdy all-round mechanical keyboard](https://appleinsider.com/articles/25/03/06/keychron-k10-max-review-sturdy-all-round-mechanical-keyboard?utm_medium=rss)
+ - [The new M4 MacBook Air supports two monitors of up to 6K resolution each, plus the built-in display simultaneously, addressing a limitation of previous models &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/250305/p47#a250305p47)
+ - [Steam Deck, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
