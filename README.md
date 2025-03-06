@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
+ - 💣 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
  - ⏩ [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
  - 👉 [Do not the cat](http://9gag.com/gag/a6Z97QN)<!-- MEMES:END -->
 
