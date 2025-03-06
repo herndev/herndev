@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Three Clint Eastwood classics are getting 4K Blu-ray releases](https://www.polygon.com/pre-order/535216/clint-eastwood-4k-steelbook-where-to-buy)
- - [How WWE 2K25’s Island is Breathing New Life into Wrestling Video Games](https://news.xbox.com/en-us/2025/03/06/wwe-2k25-the-island/)
- - [Trailmakers Pioneers: From Sandbox to Survival](https://news.xbox.com/en-us/2025/03/06/trailmakers-pioneers-from-sandbox-to-survival/)<!-- GAME:END -->
+ - [14 Things To Know Before You Start Playing Monster Hunter Wilds](https://kotaku.com/monster-hunter-wilds-tips-guides-items-pause-weapon-1851766658)
+ - [Robocop: Rogue City is getting a &#39;standalone expansion&#39; that sounds an awful lot like The Raid](https://www.pcgamer.com/games/fps/robocop-rogue-city-is-getting-a-standalone-expansion-that-sounds-an-awful-lot-like-the-raid/)
+ - [How to get Hunter Symbols 1, 2, and 3 in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533864/hunter-symbols-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
