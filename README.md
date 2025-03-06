@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title card](http://9gag.com/gag/a4PzLqv)
- - ⏩ [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
- - 👉 [I need that mandarin](http://9gag.com/gag/azxPVKq)<!-- MEMES:END -->
+ - 💣 [The beer in my fridge before work](http://9gag.com/gag/aByLrLx)
+ - ⏩ [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
+ - 👉 [The damn alarm\u2026](http://9gag.com/gag/ae9O3jb)<!-- MEMES:END -->
 
 ---
 
