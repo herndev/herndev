@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
- - ⏩ [No danger to anyone, even if a ceiling collapses...](http://9gag.com/gag/aNDvrWr)
+ - 💣 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
+ - ⏩ [Wonderful culture](http://9gag.com/gag/aQzQ44q)
  - 👉 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)<!-- MEMES:END -->
 
 ---
