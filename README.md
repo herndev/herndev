@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rival&#39;s Doctor Strange Is The Strong And Simple Hero You Need](https://kotaku.com/marvel-rivals-doctor-strange-tips-portals-1851767995)
- - [I don&#39;t care about being able to kill everybody and steal the Mayor&#39;s pants in an RPG like Avowed, and I&#39;m tired of pretending it&#39;s mandatory](https://www.pcgamer.com/games/rpg/i-dont-care-about-being-able-to-kill-everybody-and-steal-the-mayors-pants-in-an-rpg-like-avowed-and-im-tired-of-pretending-its-mandatory/)
- - [Dragon Age voice actor says his favourite way to play Inquisition is as a woman who romances himself, which is apparently &#39;the best&#39;](https://www.pcgamer.com/games/dragon-age/dragon-age-voice-actor-says-his-favourite-way-to-play-inquisition-is-as-a-woman-who-romances-himself-which-is-apparently-the-best/)<!-- GAME:END -->
+ - [Free Play Days – Tom Clancy’s Rainbow Six Siege, Born of Bread, AEW: Fight Forever and Test Drive Unlimited Solar Crown](https://news.xbox.com/en-us/2025/03/06/free-play-days-03-06-2025/)
+ - [Surveillance capitalism collides with white-collar crime in this narrative strategy sim](https://www.polygon.com/review/533391/faceminer-game-review-pc)
+ - [How to play Split Fiction multiplayer with friends](https://www.polygon.com/guides/534679/split-fiction-multiplayer-co-op-friends-pass-how-to-invite)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
