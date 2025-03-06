@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CarPlay helps Australian police scan license plates automatically](https://appleinsider.com/articles/25/03/06/carplay-helps-australian-police-scan-license-plates-automatically?utm_medium=rss)
- - [Samsung’s Project Moohan headset could surpass the Apple Vision Pro on one front](https://www.androidauthority.com/samsung-xr-headset-display-specs-3532687/)
- - [I tried Garmin Coach for strength training and it springboarded me back into shape](https://www.androidauthority.com/garmin-coach-strength-training-springboarded-me-back-into-shape-3530263/)<!-- TECH:END -->
+ - [The Corvette ZR1’s 233-mph run had to start in a virtual world](https://www.theverge.com/chevrolet/624087/chevy-corvette-zr1-speed-record-simulation)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [A look at the Trump administration&#39;s strategy to transform its traditional press shop into a rapid-response influencer operation via memes, TikTok, and podcasts &lpar;Washington Post&rpar;](http://www.techmeme.com/250306/p17#a250306p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
