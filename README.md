@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When a young white guy landed in Japan](http://9gag.com/gag/aD2nApd)
- - ⏩ [No danger to anyone, even if a ceiling collapses...](http://9gag.com/gag/aNDvrWr)
- - 👉 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)<!-- MEMES:END -->
+ - 💣 [Title card](http://9gag.com/gag/a4PzLqv)
+ - ⏩ [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
+ - 👉 [I need that mandarin](http://9gag.com/gag/azxPVKq)<!-- MEMES:END -->
 
 ---
 
