@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Corvette ZR1’s 233-mph run had to start in a virtual world](https://www.theverge.com/chevrolet/624087/chevy-corvette-zr1-speed-record-simulation)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [A look at the Trump administration&#39;s strategy to transform its traditional press shop into a rapid-response influencer operation via memes, TikTok, and podcasts &lpar;Washington Post&rpar;](http://www.techmeme.com/250306/p17#a250306p17)<!-- TECH:END -->
+ - [Flying is still safe for now — but the FAA isn’t](https://www.theverge.com/decoder-podcast-with-nilay-patel/625193/elon-musk-faa-spacex-doge-airplane-crashes)
+ - [Netflix follows Paul vs. Tyson fight with another boxing stream in July](https://www.theverge.com/news/625236/netflix-live-boxing-match-amanda-serrano-katie-taylor)
+ - [NFL, celebrity boxing, and hot dogs: Netflix’s push into live TV](https://www.theverge.com/24300871/netflix-live-events-nfl-celebrity-boxing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
