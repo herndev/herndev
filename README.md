@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unfinished Business: Cyborgs, Goblins and Lovecraftian Horrors Reign at Nacon Connect 2025](https://news.xbox.com/en-us/2025/03/06/nacon-connect-2025-reveals/)
- - [Dark and Darker delisted again, this time from the Epic Games Store](https://www.pcgamer.com/games/rpg/dark-and-darker-delisted-again-this-time-from-the-epic-games-store/)
- - [Nacon&#39;s promising Revosim RS Pure direct drive racing wheel lets you use your phone as a dashboard and settings tool, but it feels like it could do with a little work](https://www.pcgamer.com/hardware/steering-wheels/nacons-promising-revosim-rs-pure-direct-drive-racing-wheel-lets-you-use-your-phone-as-a-dashboard-and-settings-tool-but-it-feels-like-it-could-do-with-a-little-work/)<!-- GAME:END -->
+ - [The Live-Action PowerPuff Girls Trailer WB Doesn’t Want You To See Keeps Disappearing From The Internet](https://kotaku.com/powerpuff-girls-cw-trailer-live-action-deleted-trailer-1851768158)
+ - [The trick to playing the best Steam demos](https://www.polygon.com/opinion/535155/best-free-steam-game-demos)
+ - [The New Last Of Us PS5 Controller Looks Bland And Boring](https://kotaku.com/new-ps5-controller-last-of-us-dualsense-ugly-price-sony-1851768135)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
