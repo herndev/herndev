@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Today&#39;s Wordle answer for Thursday, March 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-6-2025/)
- - [A demo for a lost videogame based on George Orwell&#39;s 1984 has emerged from the memory hole](https://www.pcgamer.com/games/puzzle/a-demo-for-a-lost-videogame-based-on-george-orwells-1984-has-emerged-from-the-memory-hole/)<!-- GAME:END -->
+ - [AI helps turn highschool project into world saving tech which promises to devour 150 tons of fast-fashion plastic each year](https://www.pcgamer.com/hardware/ai-helps-turn-highschool-project-into-world-saving-tech-which-promises-to-devour-150-tons-of-fast-fashion-plastic-each-year/)
+ - [Japanese companies begin stockpiling in response to new Trump tariffs: Cue a ton of PS5 stock and stale cans of coffee](https://www.pcgamer.com/hardware/japanese-companies-begin-stockpiling-in-response-to-new-trump-tariffs-cue-a-ton-of-ps5-stock-and-stale-cans-of-coffee/)
+ - [Meta&#39;s Orion AR glasses still have no &#39;killer use case&#39; but want devices to hang out on your face, on your wrist, and now in your pocket too](https://www.pcgamer.com/hardware/metas-orion-ar-glasses-still-have-no-killer-use-case-but-want-devices-to-hang-out-on-your-face-on-your-wrist-and-now-in-your-pocket-too/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
