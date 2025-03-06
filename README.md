@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit will tell you if your post breaks the rules before you publish it](https://www.theverge.com/news/625038/reddit-posts-features-rules-check-subreddit-recommendations)
- - [Telo’s electric MT1 mini-truck gets a new preproduction prototype](https://www.theverge.com/news/625234/telo-mt1-preproduction-compact-mini-truck-ev)
- - [Sources: there haven&#39;t been negotiations between ByteDance and prospective TikTok US buyers, amid confusion over who&#39;s leading Trump administration negotiations &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250306/p21#a250306p21)<!-- TECH:END -->
+ - [What went wrong with Skype?](https://www.theverge.com/notepad-microsoft-newsletter/625180/skype-retirement-end-of-support-may-microsoft-notepad)
+ - [San Diego-based defense startup Shield AI raised $240M from L3Harris, a16z, and others at a $5.3B valuation to develop its Hivemind autonomous vehicle platform &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250306/p23#a250306p23)
+ - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
