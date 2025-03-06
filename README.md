@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AI helps turn highschool project into world saving tech which promises to devour 150 tons of fast-fashion plastic each year](https://www.pcgamer.com/hardware/ai-helps-turn-highschool-project-into-world-saving-tech-which-promises-to-devour-150-tons-of-fast-fashion-plastic-each-year/)
- - [Japanese companies begin stockpiling in response to new Trump tariffs: Cue a ton of PS5 stock and stale cans of coffee](https://www.pcgamer.com/hardware/japanese-companies-begin-stockpiling-in-response-to-new-trump-tariffs-cue-a-ton-of-ps5-stock-and-stale-cans-of-coffee/)
- - [Meta&#39;s Orion AR glasses still have no &#39;killer use case&#39; but want devices to hang out on your face, on your wrist, and now in your pocket too](https://www.pcgamer.com/hardware/metas-orion-ar-glasses-still-have-no-killer-use-case-but-want-devices-to-hang-out-on-your-face-on-your-wrist-and-now-in-your-pocket-too/)<!-- GAME:END -->
+ - [Blood on the Clocktower is the closest I’ll ever get to playing The Traitors](https://www.polygon.com/tabletop-games/533223/traitors-blood-clocktower-game)
+ - [US Justice Dept announces $10 million bounty on at-large &#39;hacker-for-hire&#39; cabal it says targeted China critics, religious missionaries, and the Treasury](https://www.pcgamer.com/software/security/us-justice-dept-puts-a-usd10-million-bounty-on-at-large-hacker-for-hire-cabal-it-says-targeted-china-critics-religious-missionaries-and-the-treasury/)
+ - [Nintendo wins major French piracy case with EU-wide consequences: &#39;Significant not only for Nintendo, but for the entire games industry&#39;](https://www.pcgamer.com/gaming-industry/nintendo-wins-major-french-piracy-case-with-eu-wide-consequences-significant-not-only-for-nintendo-but-for-the-entire-games-industry/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
