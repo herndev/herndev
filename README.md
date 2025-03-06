@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Black people hiking](http://9gag.com/gag/aVvEewn)
- - ⏩ [Nothing good can come of this](http://9gag.com/gag/azxPjYq)
- - 👉 [27 club](http://9gag.com/gag/apRDv3M)<!-- MEMES:END -->
+ - 💣 [Nothing good can come of this](http://9gag.com/gag/azxPjYq)
+ - ⏩ [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
+ - 👉 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)<!-- MEMES:END -->
 
 ---
 
