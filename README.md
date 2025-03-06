@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
- - ⏩ [Wonderful culture](http://9gag.com/gag/aQzQ44q)
- - 👉 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)<!-- MEMES:END -->
+ - 💣 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
+ - ⏩ [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
+ - 👉 [Do not the cat](http://9gag.com/gag/a6Z97QN)<!-- MEMES:END -->
 
 ---
 
