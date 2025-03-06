@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Live-Action PowerPuff Girls Trailer WB Doesn’t Want You To See Keeps Disappearing From The Internet](https://kotaku.com/powerpuff-girls-cw-trailer-live-action-deleted-trailer-1851768158)
- - [The trick to playing the best Steam demos](https://www.polygon.com/opinion/535155/best-free-steam-game-demos)
- - [The New Last Of Us PS5 Controller Looks Bland And Boring](https://kotaku.com/new-ps5-controller-last-of-us-dualsense-ugly-price-sony-1851768135)<!-- GAME:END -->
+ - [Three Clint Eastwood classics are getting 4K Blu-ray releases](https://www.polygon.com/pre-order/535216/clint-eastwood-4k-steelbook-where-to-buy)
+ - [How WWE 2K25’s Island is Breathing New Life into Wrestling Video Games](https://news.xbox.com/en-us/2025/03/06/wwe-2k25-the-island/)
+ - [Trailmakers Pioneers: From Sandbox to Survival](https://news.xbox.com/en-us/2025/03/06/trailmakers-pioneers-from-sandbox-to-survival/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
