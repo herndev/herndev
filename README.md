@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [The GOP-led House Judiciary Committee subpoenas Alphabet and Sundar Pichai as part of its investigation into alleged censorship under the Biden administration &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250306/p28#a250306p28)
- - [Mistral launches Mistral OCR, a multimodal API that can turn complex PDF documents into AI-ready Markdown files &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250306/p27#a250306p27)<!-- TECH:END -->
+ - [Sources: Larry Page has formed a new company, Dynatomics, to use LLMs to create highly optimized designs for various objects and then have a factory build them &lpar;Jessica E. Lessin/The Information&rpar;](http://www.techmeme.com/250306/p30#a250306p30)
+ - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)
+ - [A Look at a Very Silicon Valley Approach to Repopulation](https://www.wired.com/story/uncanny-valley-podcast-18-babies-repopulation-silicon-valley/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
