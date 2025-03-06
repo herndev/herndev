@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
- - ⏩ [Neat](http://9gag.com/gag/a9yvjpZ)
- - 👉 [Truly majestic!](http://9gag.com/gag/a7oevqe)<!-- MEMES:END -->
+ - 💣 [New road layout](http://9gag.com/gag/apRDoX8)
+ - ⏩ [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
+ - 👉 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)<!-- MEMES:END -->
 
 ---
 
