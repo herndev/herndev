@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New road layout](http://9gag.com/gag/apRDoX8)
- - ⏩ [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)
+ - 💣 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
+ - ⏩ [With a similar sentence](http://9gag.com/gag/aAyErV2)
  - 👉 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)<!-- MEMES:END -->
 
 ---
