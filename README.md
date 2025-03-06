@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
- - ⏩ [Wonderful culture](http://9gag.com/gag/aQzQ44q)
- - 👉 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)<!-- MEMES:END -->
+ - ⏩ [Neat](http://9gag.com/gag/a9yvjpZ)
+ - 👉 [Truly majestic!](http://9gag.com/gag/a7oevqe)<!-- MEMES:END -->
 
 ---
 
