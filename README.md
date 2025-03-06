@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What went wrong with Skype?](https://www.theverge.com/notepad-microsoft-newsletter/625180/skype-retirement-end-of-support-may-microsoft-notepad)
- - [San Diego-based defense startup Shield AI raised $240M from L3Harris, a16z, and others at a $5.3B valuation to develop its Hivemind autonomous vehicle platform &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250306/p23#a250306p23)
- - [The best indie games we’re playing right now](https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems)<!-- TECH:END -->
+ - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
+ - [You asked, and Google listened: Photos reverts unpopular Partner Sharing changes](https://www.androidauthority.com/google-photos-partner-sharing-new-setting-3532786/)
+ - [Google Pixel 10 series rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-10-3470386/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
