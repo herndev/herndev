@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn son](http://9gag.com/gag/aGy8wG0)
- - ⏩ [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 👉 [Neat](http://9gag.com/gag/a9yvjpZ)<!-- MEMES:END -->
+ - 💣 [Never forget](http://9gag.com/gag/ae9O0dv)
+ - ⏩ [Good boy helping during epilepsy](http://9gag.com/gag/aoyVZeA)
+ - 👉 [Wonderful culture](http://9gag.com/gag/aQzQ44q)<!-- MEMES:END -->
 
 ---
 
