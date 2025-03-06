@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good boy helping during epilepsy](http://9gag.com/gag/aoyVZeA)
- - ⏩ [I love my white country](http://9gag.com/gag/aqy89Ov)
- - 👉 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)<!-- MEMES:END -->
+ - 💣 [Damn son](http://9gag.com/gag/aGy8wG0)
+ - ⏩ [Truly majestic!](http://9gag.com/gag/a7oevqe)
+ - 👉 [Neat](http://9gag.com/gag/a9yvjpZ)<!-- MEMES:END -->
 
 ---
 
