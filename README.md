@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
- - ⏩ [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)
- - 👉 [The damn alarm\u2026](http://9gag.com/gag/ae9O3jb)<!-- MEMES:END -->
+ - 💣 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
+ - ⏩ [Wonderful culture](http://9gag.com/gag/aQzQ44q)
+ - 👉 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)<!-- MEMES:END -->
 
 ---
 
