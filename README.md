@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Guide to Help You Become a True Hero in Slime Heroes](https://news.xbox.com/en-us/2025/03/06/become-a-true-hero-in-slime-heroes/)
- - [The Power Rangers movie, now on Netflix, shows a better path forward for big franchises](https://www.polygon.com/what-to-watch/533798/power-rangers-movie-netflix-good)
- - [Jackbox figured out a way to let you play Party Packs without a console](https://www.polygon.com/gaming/534496/jackbox-amazon-smart-tvs-bundle)<!-- GAME:END -->
+ - [Unfinished Business: Cyborgs, Goblins and Lovecraftian Horrors Reign at Nacon Connect 2025](https://news.xbox.com/en-us/2025/03/06/nacon-connect-2025-reveals/)
+ - [Dark and Darker delisted again, this time from the Epic Games Store](https://www.pcgamer.com/games/rpg/dark-and-darker-delisted-again-this-time-from-the-epic-games-store/)
+ - [Nacon&#39;s promising Revosim RS Pure direct drive racing wheel lets you use your phone as a dashboard and settings tool, but it feels like it could do with a little work](https://www.pcgamer.com/hardware/steering-wheels/nacons-promising-revosim-rs-pure-direct-drive-racing-wheel-lets-you-use-your-phone-as-a-dashboard-and-settings-tool-but-it-feels-like-it-could-do-with-a-little-work/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
