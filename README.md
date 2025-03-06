@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nothing good can come of this](http://9gag.com/gag/azxPjYq)
- - ⏩ [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
- - 👉 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)<!-- MEMES:END -->
+ - 💣 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)
+ - ⏩ [New road layout](http://9gag.com/gag/apRDoX8)
+ - 👉 [What happens in the dentist](http://9gag.com/gag/aW4LWWq)<!-- MEMES:END -->
 
 ---
 
