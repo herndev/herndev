@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
- - ⏩ [With a similar sentence](http://9gag.com/gag/aAyErV2)
- - 👉 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)<!-- MEMES:END -->
+ - 💣 [The damn alarm\u2026](http://9gag.com/gag/ae9O3jb)
+ - ⏩ [The beer in my fridge before work](http://9gag.com/gag/aByLrLx)
+ - 👉 [I love my white country](http://9gag.com/gag/aqy89Ov)<!-- MEMES:END -->
 
 ---
 
