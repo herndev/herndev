@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never forget](http://9gag.com/gag/ae9O0dv)
- - ⏩ [Good boy helping during epilepsy](http://9gag.com/gag/aoyVZeA)
- - 👉 [Wonderful culture](http://9gag.com/gag/aQzQ44q)<!-- MEMES:END -->
+ - 💣 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - ⏩ [No danger to anyone, even if a ceiling collapses...](http://9gag.com/gag/aNDvrWr)
+ - 👉 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)<!-- MEMES:END -->
 
 ---
 
