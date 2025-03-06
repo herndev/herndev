@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2025&#39;s Latest Retro Surprise Looks Like A Mashup Of Hades And Golden Axe](https://kotaku.com/absolum-golden-axe-beat-em-up-rpg-rogulike-fantasy-1851767831)
- - [A Trailer For The Canceled Live-Action Powerpuff Girls Has Leaked And It Looks Like A Bad SNL Sketch](https://kotaku.com/a-trailer-for-the-canceled-live-action-powerpuff-girls-1851768051)
- - [4 Things To Know Before Playing Co-Op Action Game Split Fiction](https://kotaku.com/split-fiction-co-op-action-ea-tips-1851767988)<!-- GAME:END -->
+ - [A Guide to Help You Become a True Hero in Slime Heroes](https://news.xbox.com/en-us/2025/03/06/become-a-true-hero-in-slime-heroes/)
+ - [The Power Rangers movie, now on Netflix, shows a better path forward for big franchises](https://www.polygon.com/what-to-watch/533798/power-rangers-movie-netflix-good)
+ - [Jackbox figured out a way to let you play Party Packs without a console](https://www.polygon.com/gaming/534496/jackbox-amazon-smart-tvs-bundle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
