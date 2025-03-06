@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
- - ⏩ [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
- - 👉 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)<!-- MEMES:END -->
+ - 💣 [When a young white guy landed in Japan](http://9gag.com/gag/aD2nApd)
+ - ⏩ [No danger to anyone, even if a ceiling collapses...](http://9gag.com/gag/aNDvrWr)
+ - 👉 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)<!-- MEMES:END -->
 
 ---
 
