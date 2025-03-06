@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This gorgeous Game Boy Micro clone hits all the right buttons](https://www.androidauthority.com/ayaneo-pocket-micro-classic-3532655/)
- - [Sources detail Reliance Retail&#39;s overhaul plans in its efforts for a $125B IPO valuation, as India&#39;s largest retailer renews focus on scaling up quick commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p9#a250306p9)
- - [Waiting for Home Prices to Go Down? Don&#39;t Hold Your Breath, Says This Realtor](https://www.cnet.com/personal-finance/waiting-for-home-prices-to-go-down-dont-hold-your-breath-says-this-realtor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kuo: Apple aims to release its first book-style foldable iPhone in late 2026, costing $2,000+ with a ~7.8&quot; &quot;crease-free&quot; inner display and a 5.5&quot; outer display &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250306/p10#a250306p10)
+ - [This is the new Start chat interface from the upcoming Google Messages makeover &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-start-chat-ui-changes-apk-3532642/)
+ - [Here’s an early peek at Gemini Live working on Android Auto &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-android-auto-3532509/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
