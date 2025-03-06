@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flying is still safe for now — but the FAA isn’t](https://www.theverge.com/decoder-podcast-with-nilay-patel/625193/elon-musk-faa-spacex-doge-airplane-crashes)
- - [Netflix follows Paul vs. Tyson fight with another boxing stream in July](https://www.theverge.com/news/625236/netflix-live-boxing-match-amanda-serrano-katie-taylor)
- - [NFL, celebrity boxing, and hot dogs: Netflix’s push into live TV](https://www.theverge.com/24300871/netflix-live-events-nfl-celebrity-boxing)<!-- TECH:END -->
+ - [Reddit will tell you if your post breaks the rules before you publish it](https://www.theverge.com/news/625038/reddit-posts-features-rules-check-subreddit-recommendations)
+ - [Telo’s electric MT1 mini-truck gets a new preproduction prototype](https://www.theverge.com/news/625234/telo-mt1-preproduction-compact-mini-truck-ev)
+ - [Sources: there haven&#39;t been negotiations between ByteDance and prospective TikTok US buyers, amid confusion over who&#39;s leading Trump administration negotiations &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250306/p21#a250306p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
