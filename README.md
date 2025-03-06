@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your old digital picture frame may stop syncing with Google Photos soon](https://www.androidauthority.com/google-photos-digital-picture-frame-3532826/)
- - [1Password can now show you the passwords and codes you need at your IRL location](https://www.androidauthority.com/1password-add-location-feature-3532854/)
- - [Sources: longtime Elon Musk ally Michael Grimes is leading a shake-up of the Chips Program Office, which administers billions in semiconductor subsidies &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250306/p26#a250306p26)<!-- TECH:END -->
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [The GOP-led House Judiciary Committee subpoenas Alphabet and Sundar Pichai as part of its investigation into alleged censorship under the Biden administration &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250306/p28#a250306p28)
+ - [Mistral launches Mistral OCR, a multimodal API that can turn complex PDF documents into AI-ready Markdown files &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250306/p27#a250306p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
