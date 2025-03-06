@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
- - ⏩ [He got himself a painting because he saved the village](http://9gag.com/gag/a5QBP3V)
+ - 💣 [He got himself a painting because he saved the village](http://9gag.com/gag/a5QBP3V)
+ - ⏩ [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
  - 👉 [Wonderful culture](http://9gag.com/gag/aQzQ44q)<!-- MEMES:END -->
 
 ---
