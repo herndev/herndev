@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Tom Clancy’s Rainbow Six Siege, Born of Bread, AEW: Fight Forever and Test Drive Unlimited Solar Crown](https://news.xbox.com/en-us/2025/03/06/free-play-days-03-06-2025/)
- - [Surveillance capitalism collides with white-collar crime in this narrative strategy sim](https://www.polygon.com/review/533391/faceminer-game-review-pc)
- - [How to play Split Fiction multiplayer with friends](https://www.polygon.com/guides/534679/split-fiction-multiplayer-co-op-friends-pass-how-to-invite)<!-- GAME:END -->
+ - [2025&#39;s Latest Retro Surprise Looks Like A Mashup Of Hades And Golden Axe](https://kotaku.com/absolum-golden-axe-beat-em-up-rpg-rogulike-fantasy-1851767831)
+ - [A Trailer For The Canceled Live-Action Powerpuff Girls Has Leaked And It Looks Like A Bad SNL Sketch](https://kotaku.com/a-trailer-for-the-canceled-live-action-powerpuff-girls-1851768051)
+ - [4 Things To Know Before Playing Co-Op Action Game Split Fiction](https://kotaku.com/split-fiction-co-op-action-ea-tips-1851767988)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
