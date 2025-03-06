@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blood on the Clocktower is the closest I’ll ever get to playing The Traitors](https://www.polygon.com/tabletop-games/533223/traitors-blood-clocktower-game)
- - [US Justice Dept announces $10 million bounty on at-large &#39;hacker-for-hire&#39; cabal it says targeted China critics, religious missionaries, and the Treasury](https://www.pcgamer.com/software/security/us-justice-dept-puts-a-usd10-million-bounty-on-at-large-hacker-for-hire-cabal-it-says-targeted-china-critics-religious-missionaries-and-the-treasury/)
- - [Nintendo wins major French piracy case with EU-wide consequences: &#39;Significant not only for Nintendo, but for the entire games industry&#39;](https://www.pcgamer.com/gaming-industry/nintendo-wins-major-french-piracy-case-with-eu-wide-consequences-significant-not-only-for-nintendo-but-for-the-entire-games-industry/)<!-- GAME:END -->
+ - [Gearbox CEO Randy Pitchford rants at internet randoms &lpar;again&rpar;, insists we should &#39;root for&#39; the Borderlands 4 team or &#39;we&#39;ll all pay the price&#39;, then whips around and says &#39;I love criticism&#39;](https://www.pcgamer.com/games/rpg/gearbox-ceo-randy-pitchford-rants-at-internet-randoms-again-insists-we-should-root-for-the-borderlands-4-team-or-well-all-pay-the-price-then-whips-around-and-says-i-love-criticism/)
+ - [FragPunk launch times and release date](https://www.pcgamer.com/games/fps/fragpunk-launch-time-release-date/)
+ - [AMD Radeon RX 9070-series launch day live: The promise of a ton of reference priced stock is a tantalising one but likely won&#39;t last long](https://www.pcgamer.com/hardware/live/news/amd-radeon-rx-9070-series-launch-day-live-the-promise-of-a-ton-of-reference-priced-stock-is-a-tantalising-one/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
