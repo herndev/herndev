@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MongoDB Q4: revenue up ~20% YoY to $548.4M, vs. $519.6M est., and projects the slowest growth for FY 2026 since going public in 2017; MDB drops 16%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250305/p49#a250305p49)
  - [Broadcom fixes three VMware zero-days exploited in the wild; attackers with admin privileges can chain the flaws to escape the virtual machine&#39;s sandbox &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250305/p48#a250305p48)
- - [Our first look at Apple’s sky blue MacBook Air](https://www.theverge.com/news/625082/macbook-air-sky-blue-photos-hands-on-studio-ipad)
- - [Keychron K10 Max review: Sturdy all-round mechanical keyboard](https://appleinsider.com/articles/25/03/06/keychron-k10-max-review-sturdy-all-round-mechanical-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [Our first look at Apple’s sky blue MacBook Air](https://www.theverge.com/news/625082/macbook-air-sky-blue-photos-hands-on-studio-ipad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
