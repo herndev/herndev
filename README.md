@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JD reports Q4 revenue up 13% YoY to ~$48B, its fastest growth in three years and above est., net income up 100%+ to ~$1.4B, as Chinese consumer spending rises &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p13#a250306p13)
- - [Revlon One-Step Volumizer Plus Review: Hot Looks for Less](https://www.wired.com/review/revlon-one-step-volumizer-plus/)
- - [Sources: President Trump is set to meet the CEOs of HP, Intel, IBM, and Qualcomm on March 10, as new US tariffs threaten to roil the PC hardware industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p12#a250306p12)<!-- TECH:END -->
+ - [CarPlay helps Australian police scan license plates automatically](https://appleinsider.com/articles/25/03/06/carplay-helps-australian-police-scan-license-plates-automatically?utm_medium=rss)
+ - [Samsung’s Project Moohan headset could surpass the Apple Vision Pro on one front](https://www.androidauthority.com/samsung-xr-headset-display-specs-3532687/)
+ - [I tried Garmin Coach for strength training and it springboarded me back into shape](https://www.androidauthority.com/garmin-coach-strength-training-springboarded-me-back-into-shape-3530263/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
