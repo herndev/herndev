@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gearbox CEO Randy Pitchford rants at internet randoms &lpar;again&rpar;, insists we should &#39;root for&#39; the Borderlands 4 team or &#39;we&#39;ll all pay the price&#39;, then whips around and says &#39;I love criticism&#39;](https://www.pcgamer.com/games/rpg/gearbox-ceo-randy-pitchford-rants-at-internet-randoms-again-insists-we-should-root-for-the-borderlands-4-team-or-well-all-pay-the-price-then-whips-around-and-says-i-love-criticism/)
- - [FragPunk launch times and release date](https://www.pcgamer.com/games/fps/fragpunk-launch-time-release-date/)
- - [AMD Radeon RX 9070-series launch day live: The promise of a ton of reference priced stock is a tantalising one but likely won&#39;t last long](https://www.pcgamer.com/hardware/live/news/amd-radeon-rx-9070-series-launch-day-live-the-promise-of-a-ton-of-reference-priced-stock-is-a-tantalising-one/)<!-- GAME:END -->
+ - [Marvel Rival&#39;s Doctor Strange Is The Strong And Simple Hero You Need](https://kotaku.com/marvel-rivals-doctor-strange-tips-portals-1851767995)
+ - [I don&#39;t care about being able to kill everybody and steal the Mayor&#39;s pants in an RPG like Avowed, and I&#39;m tired of pretending it&#39;s mandatory](https://www.pcgamer.com/games/rpg/i-dont-care-about-being-able-to-kill-everybody-and-steal-the-mayors-pants-in-an-rpg-like-avowed-and-im-tired-of-pretending-its-mandatory/)
+ - [Dragon Age voice actor says his favourite way to play Inquisition is as a woman who romances himself, which is apparently &#39;the best&#39;](https://www.pcgamer.com/games/dragon-age/dragon-age-voice-actor-says-his-favourite-way-to-play-inquisition-is-as-a-woman-who-romances-himself-which-is-apparently-the-best/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
