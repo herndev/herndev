@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s iPhone Fold could boast a thin, pocketable body but pack a hefty price](https://www.androidauthority.com/apple-iphone-fold-price-thickness-3532637/)
- - [In a policy paper, Eric Schmidt, Scale AI&#39;s Alexandr Wang, and Center for AI Safety&#39;s Dan Hendrycks argue the US should not pursue a &quot;Manhattan Project&quot; for AGI &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250306/p8#a250306p8)
- - [A TollBit analysis of 160 websites on its content licensing platform finds AI search engines drive 96% less referral traffic than traditional Google Search &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250306/p7#a250306p7)<!-- TECH:END -->
+ - [This gorgeous Game Boy Micro clone hits all the right buttons](https://www.androidauthority.com/ayaneo-pocket-micro-classic-3532655/)
+ - [Sources detail Reliance Retail&#39;s overhaul plans in its efforts for a $125B IPO valuation, as India&#39;s largest retailer renews focus on scaling up quick commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p9#a250306p9)
+ - [Waiting for Home Prices to Go Down? Don&#39;t Hold Your Breath, Says This Realtor](https://www.cnet.com/personal-finance/waiting-for-home-prices-to-go-down-dont-hold-your-breath-says-this-realtor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
