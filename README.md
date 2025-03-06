@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cancer recovery log. Amazing!](http://9gag.com/gag/a6Z9wD8)
- - ⏩ [Wonderful culture](http://9gag.com/gag/aQzQ44q)
- - 👉 [Europe right now](http://9gag.com/gag/apR3ezB)<!-- MEMES:END -->
+ - 💣 [Good boy helping during epilepsy](http://9gag.com/gag/aoyVZeA)
+ - ⏩ [I love my white country](http://9gag.com/gag/aqy89Ov)
+ - 👉 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)<!-- MEMES:END -->
 
 ---
 
