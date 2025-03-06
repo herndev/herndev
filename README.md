@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s iPhone Fold could boast a thin, pocketable body but pack a hefty price](https://www.androidauthority.com/apple-iphone-fold-price-thickness-3532637/)
  - [In a policy paper, Eric Schmidt, Scale AI&#39;s Alexandr Wang, and Center for AI Safety&#39;s Dan Hendrycks argue the US should not pursue a &quot;Manhattan Project&quot; for AGI &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250306/p8#a250306p8)
- - [A TollBit analysis of 160 websites on its content licensing platform finds AI search engines drive 96% less referral traffic than traditional Google Search &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250306/p7#a250306p7)
- - [India&#39;s Income Tax Bill 2025 grants income tax officers the legal authority to access taxpayers&#39; email and social media accounts if they suspect tax evasion &lpar;Ira Alok Puranik/The Economic Times&rpar;](http://www.techmeme.com/250306/p6#a250306p6)<!-- TECH:END -->
+ - [A TollBit analysis of 160 websites on its content licensing platform finds AI search engines drive 96% less referral traffic than traditional Google Search &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250306/p7#a250306p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
