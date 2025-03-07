@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Four book logging apps to keep you reading](https://www.theverge.com/tech/625223/book-log-read-goodreads)
- - [Apple’s chip bumps, big and small](https://www.theverge.com/the-vergecast/625829/apple-ipad-air-macbook-air-vergecast)
- - [Source: Microsoft has completed training a family of models, codenamed MAI, and is experimenting with swapping out OpenAI&#39;s models in Copilot for the MAI models &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250307/p6#a250307p6)<!-- TECH:END -->
+ - [Sources: the White House is weighing measures to restrict DeepSeek, including banning its app from US app stores, because of national security concerns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250307/p8#a250307p8)
+ - [MacBook Air, Mac Studio, iPad Air and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/07/macbook-air-mac-studio-ipad-air-and-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Android 15 QPR2 Beta 3 users now have a way to leave the beta without data loss](https://www.androidauthority.com/android-15-beta-no-data-wipe-update-3533133/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
