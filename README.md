@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Live returns in March with everyone&#39;s favorite kind of content: &#39;exclusive movie content&#39;](https://www.pcgamer.com/games/survival-crafting/minecraft-live-returns-in-march-with-everyones-favorite-kind-of-content-exclusive-movie-content/)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [EVE Online studio CCP Games hires former Iceland Central Bank economist for its crypto game, because nothing says &#39;fun&#39; like &#39;removing currency controls and fostering emergent value systems&#39;](https://www.pcgamer.com/games/mmo/eve-online-studio-ccp-games-hires-former-iceland-central-bank-economist-for-its-crypto-game-because-nothing-says-fun-like-removing-currency-controls-and-fostering-emergent-value-systems/)<!-- GAME:END -->
+ - [Man builds Monster Hunter switch axe, complete with working flamethrower, because why not](https://www.pcgamer.com/games/action/man-builds-monster-hunter-switch-axe-complete-with-working-flamethrower-because-why-not/)
+ - [Longtime Monster Hunter producer promoted to head of all game development at Capcom](https://www.pcgamer.com/games/longtime-monster-hunter-producer-promoted-to-head-of-all-game-development-at-capcom/)
+ - [Minecraft Live returns in March with everyone&#39;s favorite kind of content: &#39;exclusive movie content&#39;](https://www.pcgamer.com/games/survival-crafting/minecraft-live-returns-in-march-with-everyones-favorite-kind-of-content-exclusive-movie-content/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
