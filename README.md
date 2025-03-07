@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Core Keeper’s Creepiest, Crawliest Boss Stomps into the Sandbox Adventure](https://news.xbox.com/en-us/2025/03/07/core-keeper-boss-stomps-sandbox-adventure/)
- - [In the Lost Lands is getting trashed critically — but it shows off exactly what genre movies need](https://www.polygon.com/review/531784/in-the-lost-lands-review-milla-jovovich-paul-w-s-anderson-movie-george-r-r-martin)
- - [Hero Forge adds custom dice to its line of 3D-printed D&amp;#038;D miniatures](https://www.polygon.com/tabletop-games/536124/hero-forge-custom-dice-kickstarter-samples-preview)<!-- GAME:END -->
+ - [Best character design codes and how to enter design codes in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/530854/character-creator-editor-codes-how-to-enter-create)
+ - [Nintendo Switch 2 will probably support amiibo, faster downloads](https://www.polygon.com/nintendo-switch-2/536142/nintendo-switch-2-will-probably-support-amiibo)
+ - [The Best RoboCop Game Is Getting A Sequel And Is Only $10 On Steam Right Now](https://kotaku.com/best-robocop-game-rogue-city-sequel-expansion-2025-pc-1851768472)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
