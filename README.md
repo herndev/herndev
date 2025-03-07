@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Indeed.](http://9gag.com/gag/aryAReX)
- - ⏩ [I need that mandarin](http://9gag.com/gag/azxPVKq)
- - 👉 [Title](http://9gag.com/gag/azxPr9N)<!-- MEMES:END -->
+ - 💣 [Stay calm](http://9gag.com/gag/aLneDKv)
+ - ⏩ [This is a very rare case](http://9gag.com/gag/a0eVdoZ)
+ - 👉 [Where the trust issues started](http://9gag.com/gag/amoGrqo)<!-- MEMES:END -->
 
 ---
 
