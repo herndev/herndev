@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating Women in Gaming: Pioneers &amp; Innovators](https://news.xbox.com/en-us/2025/03/07/xbox-international-womens-day-roberta-williams-interview/)
- - [Intel is still using TSMC for 30% of its wafer demands: &#39;We were talking about trying to get that to zero as quickly as possible. That&#39;s no longer the strategy&#39;](https://www.pcgamer.com/hardware/processors/intel-is-still-using-tsmc-for-30-percent-of-its-wafer-demands-we-were-talking-about-trying-to-get-that-to-zero-as-quickly-as-possible-thats-no-longer-the-strategy/)
- - [I&#39;ve never wanted a keyboard with cheese keycaps and a little mouse on it until I saw this one](https://www.pcgamer.com/hardware/gaming-keyboards/ive-never-wanted-a-keyboard-with-cheese-keycaps-and-a-little-mouse-on-it-until-i-saw-this-one/)<!-- GAME:END -->
+ - [Core Keeper’s Creepiest, Crawliest Boss Stomps into the Sandbox Adventure](https://news.xbox.com/en-us/2025/03/07/core-keeper-boss-stomps-sandbox-adventure/)
+ - [In the Lost Lands is getting trashed critically — but it shows off exactly what genre movies need](https://www.polygon.com/review/531784/in-the-lost-lands-review-milla-jovovich-paul-w-s-anderson-movie-george-r-r-martin)
+ - [Hero Forge adds custom dice to its line of 3D-printed D&amp;#038;D miniatures](https://www.polygon.com/tabletop-games/536124/hero-forge-custom-dice-kickstarter-samples-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
