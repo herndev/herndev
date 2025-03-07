@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
- - ⏩ [I&#39;ve been trapped here for hours...](http://9gag.com/gag/aryAK8d)
- - 👉 [I need that mandarin](http://9gag.com/gag/azxPVKq)<!-- MEMES:END -->
+ - 💣 [Name a bigger downgrade](http://9gag.com/gag/adBOjEB)
+ - ⏩ [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
+ - 👉 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)<!-- MEMES:END -->
 
 ---
 
