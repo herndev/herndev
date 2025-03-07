@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Startup Nation’ Groups Say They’re Meeting Trump Officials to Push for Deregulated ‘Freedom Cities’](https://www.wired.com/story/startup-nations-donald-trump-legislation/)
- - [Meta is testing a feature that lets Threads users add their interests to their profile; the interests will direct users to active conversations about the topic &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250307/p14#a250307p14)
- - [What&#39;s in store for the iPhone 17 Pro and Pro Max this fall](https://appleinsider.com/articles/25/03/07/whats-in-store-for-the-iphone-17-pro-and-pro-max-this-fall?utm_medium=rss)<!-- TECH:END -->
+ - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
