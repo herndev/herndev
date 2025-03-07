@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former OpenAI policy researcher Miles Brundage criticizes OpenAI for &quot;rewriting the history of GPT-2&quot;, after OpenAI outlined its safety and alignment philosophy &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250306/p41#a250306p41)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [CoreWeave denies an FT report that Microsoft withdrew from some of its agreements ahead of CoreWeave&#39;s IPO, saying &quot;there have been no contract cancellations&quot; &lpar;Angela Christy/Reuters&rpar;](http://www.techmeme.com/250306/p40#a250306p40)
- - [Apple has 90 days to allow app sideloading in Brazil](https://www.theverge.com/news/625753/apple-ios-alternative-app-stores-sideloading-brazil)<!-- TECH:END -->
+ - [CoreWeave denies an FT report that Microsoft withdrew from some of its agreements ahead of CoreWeave&#39;s IPO, saying &quot;there have been no contract cancellations&quot; &lpar;Angela Christy/Reuters&rpar;](http://www.techmeme.com/250306/p40#a250306p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
