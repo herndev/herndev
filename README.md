@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
- - ⏩ [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
- - 👉 [What happens in the dentist](http://9gag.com/gag/aW4LWWq)<!-- MEMES:END -->
+ - 💣 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
+ - ⏩ [I&#39;ve been trapped here for hours...](http://9gag.com/gag/aryAK8d)
+ - 👉 [I need that mandarin](http://9gag.com/gag/azxPVKq)<!-- MEMES:END -->
 
 ---
 
