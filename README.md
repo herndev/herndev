@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
- - ⏩ [Time Flies](http://9gag.com/gag/aE0VRX9)
- - 👉 [Title](http://9gag.com/gag/azxPr9N)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/azxPr9N)
+ - ⏩ [Darth Vader daddy type](http://9gag.com/gag/aKG9gLW)
+ - 👉 [Time Flies](http://9gag.com/gag/aE0VRX9)<!-- MEMES:END -->
 
 ---
 
