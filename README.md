@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Daredevil: Born Again’s first big action scene deserved better](https://www.polygon.com/opinion/535176/daredevil-born-again-new-fight-scene-show-bullseye-bar)
- - [Nvidia denies reports that the &#39;missing ROPs&#39; debacle is hitting its RTX 50 laptop GPUs and could delay their launch](https://www.pcgamer.com/hardware/graphics-cards/nvidia-denies-reports-that-the-missing-rops-debacle-is-hitting-its-rtx-50-laptop-gpus-and-could-delay-their-launch/)
- - [Nvidia RTX 5060 graphics cards are said to be revealed &#39;in about 10 days&#39; and are expected to &#39;be on the shelf a month later&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5060-graphics-cards-are-said-to-be-revealed-in-about-10-days-and-are-expected-to-be-on-the-shelf-a-month-later/)<!-- GAME:END -->
+ - [Atomfall’s Unique Approach to Quests Makes You a Post-Apocalyptic Rural Detective](https://news.xbox.com/en-us/2025/03/07/atomfalls-unique-approach-to-quests-makes-you-a-post-apocalyptic-rural-detective/)
+ - [&#39;Don&#39;t despair&#39; says AMD to PC gamers as it continues to &#39;encourage&#39; AIBs to supply MSRP-priced 9070 and 9070 XT GPUs](https://www.pcgamer.com/hardware/graphics-cards/dont-despair-says-amd-to-pc-gamers-as-it-continues-to-encourage-aibs-to-supply-msrp-priced-9070-and-9070-xt-gpus/)
+ - [AMD&#39;s new RX 9070 GPUs sold out within 10 mins at launch, unless you were willing to pay well ever more ludicous prices](https://www.pcgamer.com/hardware/graphics-cards/amds-new-rx-9070-gpus-sold-out-within-10-mins-at-launch-unless-you-were-willing-to-pay-well-ever-more-ludicous-prices/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
