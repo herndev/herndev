@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gundam GQuuuuuuX will stream on Amazon next month](https://www.theverge.com/tv/625672/gundam-gquuuuuux-amazon-premiere-date)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Ring Battery Doorbell Pro drops back to its all-time low price](https://www.androidauthority.com/ring-battery-doorbell-pro-deal-3532908/)<!-- TECH:END -->
+ - [Sam Altman&#39;s World Network unveils World Chat, a &quot;mini app&quot; in the World App wallet for messaging and sending and receiving crypto, in beta on Android and iOS &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/250306/p39#a250306p39)
+ - [Trump signs an EO to establish a Strategic Bitcoin Reserve and a Digital Asset Stockpile, with BTC and other digital assets forfeited in criminal or civil cases &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/250306/p38#a250306p38)
+ - [Brazil gives Apple 90 days to enable third-party app marketplaces on iOS](https://appleinsider.com/articles/25/03/07/brazil-gives-apple-90-days-to-enable-third-party-app-marketplaces-on-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
