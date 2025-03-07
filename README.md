@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best character design codes and how to enter design codes in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/530854/character-creator-editor-codes-how-to-enter-create)
- - [Nintendo Switch 2 will probably support amiibo, faster downloads](https://www.polygon.com/nintendo-switch-2/536142/nintendo-switch-2-will-probably-support-amiibo)
- - [The Best RoboCop Game Is Getting A Sequel And Is Only $10 On Steam Right Now](https://kotaku.com/best-robocop-game-rogue-city-sequel-expansion-2025-pc-1851768472)<!-- GAME:END -->
+ - [Knights in Tight Spaces is a fantastic follow-up to a deck-building delight](https://www.polygon.com/review/535497/knights-in-tight-spaces-review-ground-shatter)
+ - [All the Avowed ending choices and epilogue-affecting decisions](https://www.pcgamer.com/games/rpg/avowed-ending-choice-explained/)
+ - [Balatro creator details the mental health crisis brought on by his solo-dev masterpiece](https://www.polygon.com/gaming/536254/localthunk-balatro-developer-diary-post-mental-health)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
