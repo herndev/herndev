@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s Linux Terminal app is now widely available on Pixels, and here’s how to get it](https://www.androidauthority.com/android-linux-terminal-app-available-3532999/)
- - [Best of MWC 2025: Affordable Phones and Cool Camera Concepts](https://www.cnet.com/tech/mobile/best-of-mwc-2025-affordable-phones-and-cool-camera-concepts/#ftag=CAD590a51e)
- - [A look at McDonald&#39;s new tech initiatives, including the use of edge computing to predict equipment breakdowns and computer vision to ensure order accuracy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250307/p2#a250307p2)<!-- TECH:END -->
+ - [Android phones are getting lock screen widgets this year](https://www.theverge.com/news/625789/android-phones-lock-screen-widgets-16-qpr1)
+ - [An in-depth look at TSMC&#39;s $165B US investment plans: three new Fab 21 phases, two new advanced packaging facilities, and an R&amp;D center, all based in Phoenix &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250307/p3#a250307p3)
+ - [Android’s Linux Terminal app is now widely available on Pixels, and here’s how to get it](https://www.androidauthority.com/android-linux-terminal-app-available-3532999/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
