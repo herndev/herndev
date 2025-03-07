@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, March 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-7-2025/)
  - [Man builds Monster Hunter switch axe, complete with working flamethrower, because why not](https://www.pcgamer.com/games/action/man-builds-monster-hunter-switch-axe-complete-with-working-flamethrower-because-why-not/)
- - [Longtime Monster Hunter producer promoted to head of all game development at Capcom](https://www.pcgamer.com/games/longtime-monster-hunter-producer-promoted-to-head-of-all-game-development-at-capcom/)
- - [Minecraft Live returns in March with everyone&#39;s favorite kind of content: &#39;exclusive movie content&#39;](https://www.pcgamer.com/games/survival-crafting/minecraft-live-returns-in-march-with-everyones-favorite-kind-of-content-exclusive-movie-content/)<!-- GAME:END -->
+ - [Longtime Monster Hunter producer promoted to head of all game development at Capcom](https://www.pcgamer.com/games/longtime-monster-hunter-producer-promoted-to-head-of-all-game-development-at-capcom/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
