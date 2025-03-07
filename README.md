@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
- - ⏩ [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
- - 👉 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)<!-- MEMES:END -->
+ - 💣 [Trying to make a washing machine land safely on mattress from 5 floors above](http://9gag.com/gag/aqy8rEj)
+ - ⏩ [Youtuber found Tony from LC Sign](http://9gag.com/gag/aGy8RMz)
+ - 👉 [Shhh!](http://9gag.com/gag/aKG92Lb)<!-- MEMES:END -->
 
 ---
 
