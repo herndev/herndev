@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The US Department of Labor has been investigating Scale AI for compliance with the Fair Labor Standards Act, a source says since at least August 2024 &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250306/p35#a250306p35)
- - [FCC chair says we&amp;#8217;re too dependent on GPS and wants to explore &amp;#8216;alternatives&amp;#8217;](https://www.theverge.com/news/625671/fcc-vote-gps-911-technologies-inquiry)<!-- TECH:END -->
+ - [Gundam GQuuuuuuX will stream on Amazon next month](https://www.theverge.com/tv/625672/gundam-gquuuuuux-amazon-premiere-date)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [Ring Battery Doorbell Pro drops back to its all-time low price](https://www.androidauthority.com/ring-battery-doorbell-pro-deal-3532908/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
