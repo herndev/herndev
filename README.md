@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - ⏩ [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 👉 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)<!-- MEMES:END -->
+ - 💣 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
+ - ⏩ [Indeed.](http://9gag.com/gag/aryAReX)
+ - 👉 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)<!-- MEMES:END -->
 
 ---
 
