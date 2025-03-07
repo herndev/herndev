@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sudowoodo has become the ire of Arceus ex in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/534905/sudowoodo-ex-deck)
- - [This Disney Plus Hulu deal gets you four months for the price of one](https://www.polygon.com/good-deals/535903/disney-plus-hulu-deal-basic)
- - [Avowed&#39;s Best Mace Is Battletrance, The Speediest Of The Heavy Sticks](https://kotaku.com/avowed-best-mace-battletrance-how-to-find-guide-1851768387)<!-- GAME:END -->
+ - [Celebrating Women in Gaming: Pioneers &amp; Innovators](https://news.xbox.com/en-us/2025/03/07/xbox-international-womens-day-roberta-williams-interview/)
+ - [Intel is still using TSMC for 30% of its wafer demands: &#39;We were talking about trying to get that to zero as quickly as possible. That&#39;s no longer the strategy&#39;](https://www.pcgamer.com/hardware/processors/intel-is-still-using-tsmc-for-30-percent-of-its-wafer-demands-we-were-talking-about-trying-to-get-that-to-zero-as-quickly-as-possible-thats-no-longer-the-strategy/)
+ - [I&#39;ve never wanted a keyboard with cheese keycaps and a little mouse on it until I saw this one](https://www.pcgamer.com/hardware/gaming-keyboards/ive-never-wanted-a-keyboard-with-cheese-keycaps-and-a-little-mouse-on-it-until-i-saw-this-one/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
