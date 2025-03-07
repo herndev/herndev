@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former OpenAI policy researcher Miles Brundage criticizes OpenAI for &quot;rewriting the history of GPT-2&quot;, after OpenAI outlined its safety and alignment philosophy &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250306/p41#a250306p41)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [CoreWeave denies an FT report that Microsoft withdrew from some of its agreements ahead of CoreWeave&#39;s IPO, saying &quot;there have been no contract cancellations&quot; &lpar;Angela Christy/Reuters&rpar;](http://www.techmeme.com/250306/p40#a250306p40)<!-- TECH:END -->
+ - [An audit found that 10 top AI chatbots, including ChatGPT, Copilot, and Gemini, repeated false claims from a pro-Kremlin disinformation network 33% of the time &lpar;NewsGuard&#39;s Reality Check&rpar;](http://www.techmeme.com/250306/p42#a250306p42)
+ - [Apple Music 1&#39;s newest DJ is King Charles III on &#39;The King&#39;s Music Room&#39;](https://appleinsider.com/articles/25/03/07/apple-music-1s-newest-dj-is-king-charles-iii-on-the-kings-music-room?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
