@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need that mandarin](http://9gag.com/gag/azxPVKq)
- - ⏩ [W H I P L A S H](http://9gag.com/gag/amoGzLy)
- - 👉 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)<!-- MEMES:END -->
+ - 💣 [W H I P L A S H](http://9gag.com/gag/amoGzLy)
+ - ⏩ [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
+ - 👉 [You F-cking USELESS!](http://9gag.com/gag/aYQOpG2)<!-- MEMES:END -->
 
 ---
 
