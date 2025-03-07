@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iMessage has some great animations, and here are my favorites](https://www.androidauthority.com/favorite-apple-imessage-animations-3532389/)
- - [First Mac Studio M3 Ultra benchmarks significantly outpace the M2 Ultra](https://appleinsider.com/articles/25/03/07/first-mac-studio-m3-ultra-benchmarks-significantly-outpace-the-m2-ultra?utm_medium=rss)
- - [Apple delays upgraded Siri: it’s taking ‘longer than we thought’](https://www.theverge.com/news/626035/apple-delays-upgraded-siri-intelligence-longer-than-we-thought)<!-- TECH:END -->
+ - [JD Vance is posting through it](https://www.theverge.com/tech/626076/jd-vance-x-twitter-arguments)
+ - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
+ - [LG’s new air conditioner directs cool air towards people it detects.](https://www.theverge.com/news/626065/lg-artcool-ai-air-conditioner-room-occupant-sensing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
