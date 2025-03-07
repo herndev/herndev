@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
- - ⏩ [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)
- - 👉 [Crazy oldman and hero civilian](http://9gag.com/gag/aE0VR9o)<!-- MEMES:END -->
+ - ⏩ [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
+ - 👉 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)<!-- MEMES:END -->
 
 ---
 
