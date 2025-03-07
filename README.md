@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [Mickey 17 is a big middle finger to space-obsessed strongmen](https://www.theverge.com/movie-reviews/625496/mickey-17-review)
+ - [Apple dodges a second Apple Watch ban](https://www.theverge.com/news/626246/apple-watch-alivecor-itc-import-ban-averted-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
