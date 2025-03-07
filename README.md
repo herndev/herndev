@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Atomfall’s Unique Approach to Quests Makes You a Post-Apocalyptic Rural Detective](https://news.xbox.com/en-us/2025/03/07/atomfalls-unique-approach-to-quests-makes-you-a-post-apocalyptic-rural-detective/)
- - [&#39;Don&#39;t despair&#39; says AMD to PC gamers as it continues to &#39;encourage&#39; AIBs to supply MSRP-priced 9070 and 9070 XT GPUs](https://www.pcgamer.com/hardware/graphics-cards/dont-despair-says-amd-to-pc-gamers-as-it-continues-to-encourage-aibs-to-supply-msrp-priced-9070-and-9070-xt-gpus/)
- - [AMD&#39;s new RX 9070 GPUs sold out within 10 mins at launch, unless you were willing to pay well ever more ludicous prices](https://www.pcgamer.com/hardware/graphics-cards/amds-new-rx-9070-gpus-sold-out-within-10-mins-at-launch-unless-you-were-willing-to-pay-well-ever-more-ludicous-prices/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for March 10 to 14](https://news.xbox.com/en-us/2025/03/07/next-week-on-xbox-new-games-for-march-10-to-14/)
+ - [Google is rolling out an ever more AI-heavy search engine mode because &#39;power users want AI responses for even more of their searches&#39;](https://www.pcgamer.com/software/ai/google-is-rolling-out-an-ever-more-ai-heavy-search-engine-mode-because-power-users-want-ai-responses-for-even-more-of-their-searches/)
+ - [Split Fiction Director Reacts To &#39;Feminism Propaganda&#39; Comment: &#39;What The F*** Is This?&#39;](https://kotaku.com/split-fiction-metacritic-female-protags-josef-fares-1851768392)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
