@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investors are turning to &quot;AI wrappers&quot;, startups that leverage existing LLMs by other developers to build tools for coders, clinicians, lawyers, and others &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250307/p5#a250307p5)
- - [Pixel Sense on the Pixel 10 sounds amazing, but I’m not sold on it yet](https://www.androidauthority.com/google-pixel-10-pixel-sense-concerns-3532357/)
- - [T3 Aire IQ Review: A Great Hair Dryer, in Theory](https://www.wired.com/review/t3-aire-iq/)<!-- TECH:END -->
+ - [Inside Photos -- managing images and videos on your iPhone, iPad, and Mac](https://appleinsider.com/articles/25/03/07/inside-photos----managing-images-and-videos-on-your-iphone-ipad-and-mac?utm_medium=rss)
+ - [Pixel Watches and Buds should have a ‘Check for update’ button, just like phones](https://www.androidauthority.com/pixel-watch-buds-check-for-update-3533076/)
+ - [A Brand New Botnet Is Delivering Record-Size DDoS Attacks](https://www.wired.com/story/eleven11bot-botnet-record-size-ddos-attacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
