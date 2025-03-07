@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield playtest gameplay is leaking all over the internet, and fans seem cautiously but genuinely excited: &#39;Okay, we might be back&#39;](https://www.pcgamer.com/games/fps/battlefield-playtest-gameplay-is-leaking-all-over-the-internet-and-fans-seem-cautiously-but-genuinely-excited-okay-we-might-be-back/)
- - [24 Games Coming In March We Can&#39;t Wait To Check Out](https://kotaku.com/march-2025-game-release-calendar-mlb-show-assassin-1851767497)
- - [How to get nightflower pollen in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/535890/nightflower-pollen-where-to-find-location-farm)<!-- GAME:END -->
+ - [Best Great League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500388/great-league-best-team-meta)
+ - [We all deserve better than this](https://www.pcgamer.com/hardware/we-all-deserve-better-than-this/)
+ - [All Marvel Rivals maps and modes in season 1.5](https://www.polygon.com/marvel-rivals-guide/491015/maps-modes-list-all-quick-play-competitive)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
