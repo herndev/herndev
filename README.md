@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android phones are getting lock screen widgets this year](https://www.theverge.com/news/625789/android-phones-lock-screen-widgets-16-qpr1)
- - [An in-depth look at TSMC&#39;s $165B US investment plans: three new Fab 21 phases, two new advanced packaging facilities, and an R&amp;D center, all based in Phoenix &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250307/p3#a250307p3)
- - [Android’s Linux Terminal app is now widely available on Pixels, and here’s how to get it](https://www.androidauthority.com/android-linux-terminal-app-available-3532999/)<!-- TECH:END -->
+ - [This quirky new handheld might be the best way to play Nintendo DS games](https://www.androidauthority.com/magicx-zero-40-reveal-3533016/)
+ - [You can now try One UI 7 on your Galaxy Z Fold 6 &amp; Flip 6](https://www.androidauthority.com/one-ui-7-beta-galaxy-z-fold-6-flip-6-3533021/)
+ - [Want to Live Longer, Healthier, and Happier? Then Cultivate Your Social Connections](https://www.wired.com/story/want-to-live-longer-healthier-and-happier-cultivate-your-social-connections-wired-health-kasley-killam/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
