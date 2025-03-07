@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This quirky new handheld might be the best way to play Nintendo DS games](https://www.androidauthority.com/magicx-zero-40-reveal-3533016/)
- - [You can now try One UI 7 on your Galaxy Z Fold 6 &amp; Flip 6](https://www.androidauthority.com/one-ui-7-beta-galaxy-z-fold-6-flip-6-3533021/)
- - [Want to Live Longer, Healthier, and Happier? Then Cultivate Your Social Connections](https://www.wired.com/story/want-to-live-longer-healthier-and-happier-cultivate-your-social-connections-wired-health-kasley-killam/)<!-- TECH:END -->
+ - [Indonesia starts to lift iPhone 16 ban, but hurdles remain](https://appleinsider.com/articles/25/03/07/indonesia-starts-to-lift-iphone-16-ban-but-hurdles-remain?utm_medium=rss)
+ - [Intuitive Machine’s lunar landing goes sideways again](https://www.theverge.com/news/625818/athena-moon-lander-intuitive-machines-nasa-sideways)
+ - [Analysis: the $TRUMP memecoin generated $314M from token sales and $36M in fees within three weeks of launch, likely raising conflict of interest concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/250307/p4#a250307p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
