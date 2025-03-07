@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EVE Online studio CCP Games hires former Iceland Central Bank economist for its crypto game, because nothing says &#39;fun&#39; like &#39;removing currency controls and fostering emergent value systems&#39;](https://www.pcgamer.com/games/mmo/eve-online-studio-ccp-games-hires-former-iceland-central-bank-economist-for-its-crypto-game-because-nothing-says-fun-like-removing-currency-controls-and-fostering-emergent-value-systems/)
- - [The trials and tribulations of setting up The Sims 4’s small businesses](https://www.polygon.com/gaming/535696/the-sims-4-hobbies-business-starting-tips)
- - [Tony Hawk&#39;s Pro Skater 3+4 Is Making A Big Change To How THPS4 Works](https://kotaku.com/thps-3-4-tony-hawks-pro-skater-3-4-career-mode-timer-1851768305)<!-- GAME:END -->
+ - [Minecraft Live returns in March with everyone&#39;s favorite kind of content: &#39;exclusive movie content&#39;](https://www.pcgamer.com/games/survival-crafting/minecraft-live-returns-in-march-with-everyones-favorite-kind-of-content-exclusive-movie-content/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [EVE Online studio CCP Games hires former Iceland Central Bank economist for its crypto game, because nothing says &#39;fun&#39; like &#39;removing currency controls and fostering emergent value systems&#39;](https://www.pcgamer.com/games/mmo/eve-online-studio-ccp-games-hires-former-iceland-central-bank-economist-for-its-crypto-game-because-nothing-says-fun-like-removing-currency-controls-and-fostering-emergent-value-systems/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
