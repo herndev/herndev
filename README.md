@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the White House is weighing measures to restrict DeepSeek, including banning its app from US app stores, because of national security concerns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250307/p8#a250307p8)
- - [MacBook Air, Mac Studio, iPad Air and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/07/macbook-air-mac-studio-ipad-air-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [Android 15 QPR2 Beta 3 users now have a way to leave the beta without data loss](https://www.androidauthority.com/android-15-beta-no-data-wipe-update-3533133/)<!-- TECH:END -->
+ - [Samsung’s vision for the Galaxy S25 Edge comes into focus as leaks outline specs and pricing](https://www.androidauthority.com/samsung-galaxy-s25-edge-leaks-3533150/)
+ - [SpaceX’s latest Starship explosion lights up the sky over the Caribbean again](https://www.theverge.com/news/625826/spacex-starship-rocket-launch-explosion-8th-test-flight-delay)
+ - [Reflection AI, which wants to achieve superintelligence through autonomous coding agents, emerges from stealth with a $105M Series A and $25M in seed funding &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250307/p10#a250307p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
