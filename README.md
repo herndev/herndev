@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
- - ⏩ [Indeed.](http://9gag.com/gag/aryAReX)
- - 👉 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)<!-- MEMES:END -->
+ - 💣 [In the 80s patient \u201cGeorge\u201d with severe OCD shot himself in the head attempting suicide. Rather than killing him, the bullet destroyed the part of his brain responsible for OCD.](http://9gag.com/gag/avyeLjO)
+ - ⏩ [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
+ - 👉 [Dat child... taking all the blame](http://9gag.com/gag/aYQOL0w)<!-- MEMES:END -->
 
 ---
 
