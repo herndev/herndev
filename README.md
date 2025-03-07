@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying to make a washing machine land safely on mattress from 5 floors above](http://9gag.com/gag/aqy8rEj)
- - ⏩ [Youtuber found Tony from LC Sign](http://9gag.com/gag/aGy8RMz)
- - 👉 [Shhh!](http://9gag.com/gag/aKG92Lb)<!-- MEMES:END -->
+ - 💣 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
+ - ⏩ [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
+ - 👉 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)<!-- MEMES:END -->
 
 ---
 
