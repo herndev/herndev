@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
- - ⏩ [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
+ - 💣 [I need that mandarin](http://9gag.com/gag/azxPVKq)
+ - ⏩ [W H I P L A S H](http://9gag.com/gag/amoGzLy)
  - 👉 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)<!-- MEMES:END -->
 
 ---
