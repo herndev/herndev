@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [W H I P L A S H](http://9gag.com/gag/amoGzLy)
- - ⏩ [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)
- - 👉 [You F-cking USELESS!](http://9gag.com/gag/aYQOpG2)<!-- MEMES:END -->
+ - 💣 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)
+ - ⏩ [I don&#39;t have a title because I&#39;m no aristocrat](http://9gag.com/gag/aVvEWEn)
+ - 👉 [This is the day, when comarade Stalin made the most beautiful gift to humanity - died and shat his pants.](http://9gag.com/gag/aByL1pQ)<!-- MEMES:END -->
 
 ---
 
