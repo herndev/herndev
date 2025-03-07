@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Star Trek](http://9gag.com/gag/abAOpgX)
- - ⏩ [Shhh!](http://9gag.com/gag/aKG92Lb)
- - 👉 [RIP Camera man](http://9gag.com/gag/aE0VBRp)<!-- MEMES:END -->
+ - 💣 [Where the trust issues started](http://9gag.com/gag/amoGrqo)
+ - ⏩ [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
+ - 👉 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)<!-- MEMES:END -->
 
 ---
 
