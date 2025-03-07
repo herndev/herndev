@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s vision for the Galaxy S25 Edge comes into focus as leaks outline specs and pricing](https://www.androidauthority.com/samsung-galaxy-s25-edge-leaks-3533150/)
- - [SpaceX’s latest Starship explosion lights up the sky over the Caribbean again](https://www.theverge.com/news/625826/spacex-starship-rocket-launch-explosion-8th-test-flight-delay)
- - [Reflection AI, which wants to achieve superintelligence through autonomous coding agents, emerges from stealth with a $105M Series A and $25M in seed funding &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250307/p10#a250307p10)<!-- TECH:END -->
+ - [iMessage has some great animations, and here are my favorites](https://www.androidauthority.com/favorite-apple-imessage-animations-3532389/)
+ - [First Mac Studio M3 Ultra benchmarks significantly outpace the M2 Ultra](https://appleinsider.com/articles/25/03/07/first-mac-studio-m3-ultra-benchmarks-significantly-outpace-the-m2-ultra?utm_medium=rss)
+ - [Apple delays upgraded Siri: it’s taking ‘longer than we thought’](https://www.theverge.com/news/626035/apple-delays-upgraded-siri-intelligence-longer-than-we-thought)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
