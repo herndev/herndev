@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Knights in Tight Spaces is a fantastic follow-up to a deck-building delight](https://www.polygon.com/review/535497/knights-in-tight-spaces-review-ground-shatter)
- - [All the Avowed ending choices and epilogue-affecting decisions](https://www.pcgamer.com/games/rpg/avowed-ending-choice-explained/)
- - [Balatro creator details the mental health crisis brought on by his solo-dev masterpiece](https://www.polygon.com/gaming/536254/localthunk-balatro-developer-diary-post-mental-health)<!-- GAME:END -->
+ - [Battlefield playtest gameplay is leaking all over the internet, and fans seem cautiously but genuinely excited: &#39;Okay, we might be back&#39;](https://www.pcgamer.com/games/fps/battlefield-playtest-gameplay-is-leaking-all-over-the-internet-and-fans-seem-cautiously-but-genuinely-excited-okay-we-might-be-back/)
+ - [24 Games Coming In March We Can&#39;t Wait To Check Out](https://kotaku.com/march-2025-game-release-calendar-mlb-show-assassin-1851767497)
+ - [How to get nightflower pollen in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/535890/nightflower-pollen-where-to-find-location-farm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
