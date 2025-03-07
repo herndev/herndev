@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/azxPr9N)
- - ⏩ [Darth Vader daddy type](http://9gag.com/gag/aKG9gLW)
- - 👉 [Time Flies](http://9gag.com/gag/aE0VRX9)<!-- MEMES:END -->
+ - 💣 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
+ - ⏩ [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)
+ - 👉 [Crazy oldman and hero civilian](http://9gag.com/gag/aE0VR9o)<!-- MEMES:END -->
 
 ---
 
