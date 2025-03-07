@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at McDonald&#39;s new tech initiatives, including the use of edge computing to predict equipment breakdowns and computer vision to ensure order accuracy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250307/p2#a250307p2)
- - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Wayfair Coupons: 70% Off | March 2025](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
+ - [Android’s Linux Terminal app is now widely available on Pixels, and here’s how to get it](https://www.androidauthority.com/android-linux-terminal-app-available-3532999/)
+ - [Best of MWC 2025: Affordable Phones and Cool Camera Concepts](https://www.cnet.com/tech/mobile/best-of-mwc-2025-affordable-phones-and-cool-camera-concepts/#ftag=CAD590a51e)
+ - [A look at McDonald&#39;s new tech initiatives, including the use of edge computing to predict equipment breakdowns and computer vision to ensure order accuracy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250307/p2#a250307p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
