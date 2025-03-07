@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - 💣 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
  - ⏩ [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
- - 👉 [Billionaire Tax Reality...](http://9gag.com/gag/aLne985)<!-- MEMES:END -->
+ - 👉 [What happens in the dentist](http://9gag.com/gag/aW4LWWq)<!-- MEMES:END -->
 
 ---
 
