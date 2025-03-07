@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for March 10 to 14](https://news.xbox.com/en-us/2025/03/07/next-week-on-xbox-new-games-for-march-10-to-14/)
- - [Google is rolling out an ever more AI-heavy search engine mode because &#39;power users want AI responses for even more of their searches&#39;](https://www.pcgamer.com/software/ai/google-is-rolling-out-an-ever-more-ai-heavy-search-engine-mode-because-power-users-want-ai-responses-for-even-more-of-their-searches/)
- - [Split Fiction Director Reacts To &#39;Feminism Propaganda&#39; Comment: &#39;What The F*** Is This?&#39;](https://kotaku.com/split-fiction-metacritic-female-protags-josef-fares-1851768392)<!-- GAME:END -->
+ - [Sudowoodo has become the ire of Arceus ex in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/534905/sudowoodo-ex-deck)
+ - [This Disney Plus Hulu deal gets you four months for the price of one](https://www.polygon.com/good-deals/535903/disney-plus-hulu-deal-basic)
+ - [Avowed&#39;s Best Mace Is Battletrance, The Speediest Of The Heavy Sticks](https://kotaku.com/avowed-best-mace-battletrance-how-to-find-guide-1851768387)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
