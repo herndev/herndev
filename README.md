@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [President Trump wants to kill the $52 billion CHIPS Act: &#39;a horrible, horrible thing&#39;](https://www.pcgamer.com/hardware/president-trump-wants-to-kill-the-usd52-billion-chips-act-a-horrible-horrible-thing/)
  - [Today&#39;s Wordle answer for Friday, March 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-7-2025/)
- - [Man builds Monster Hunter switch axe, complete with working flamethrower, because why not](https://www.pcgamer.com/games/action/man-builds-monster-hunter-switch-axe-complete-with-working-flamethrower-because-why-not/)
- - [Longtime Monster Hunter producer promoted to head of all game development at Capcom](https://www.pcgamer.com/games/longtime-monster-hunter-producer-promoted-to-head-of-all-game-development-at-capcom/)<!-- GAME:END -->
+ - [Man builds Monster Hunter switch axe, complete with working flamethrower, because why not](https://www.pcgamer.com/games/action/man-builds-monster-hunter-switch-axe-complete-with-working-flamethrower-because-why-not/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
