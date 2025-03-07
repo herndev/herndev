@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Mickey 17 is a big middle finger to space-obsessed strongmen](https://www.theverge.com/movie-reviews/625496/mickey-17-review)
- - [Apple dodges a second Apple Watch ban](https://www.theverge.com/news/626246/apple-watch-alivecor-itc-import-ban-averted-wearables)<!-- TECH:END -->
+ - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
+ - [Inside the high-wire business of MrBeast](https://www.theverge.com/command-line-newsletter/626330/mrbeast-business-youtube-feastables-fundraising)
+ - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
