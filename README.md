@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Photos -- managing images and videos on your iPhone, iPad, and Mac](https://appleinsider.com/articles/25/03/07/inside-photos----managing-images-and-videos-on-your-iphone-ipad-and-mac?utm_medium=rss)
- - [Pixel Watches and Buds should have a ‘Check for update’ button, just like phones](https://www.androidauthority.com/pixel-watch-buds-check-for-update-3533076/)
- - [A Brand New Botnet Is Delivering Record-Size DDoS Attacks](https://www.wired.com/story/eleven11bot-botnet-record-size-ddos-attacks/)<!-- TECH:END -->
+ - [Four book logging apps to keep you reading](https://www.theverge.com/tech/625223/book-log-read-goodreads)
+ - [Apple’s chip bumps, big and small](https://www.theverge.com/the-vergecast/625829/apple-ipad-air-macbook-air-vergecast)
+ - [Source: Microsoft has completed training a family of models, codenamed MAI, and is experimenting with swapping out OpenAI&#39;s models in Copilot for the MAI models &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250307/p6#a250307p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
