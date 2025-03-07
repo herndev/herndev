@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
+ - 💣 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
  - ⏩ [Time Flies](http://9gag.com/gag/aE0VRX9)
- - 👉 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/azxPr9N)<!-- MEMES:END -->
 
 ---
 
