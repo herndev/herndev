@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Soo anyone want a mint &gt;:3](http://9gag.com/gag/aAyEp80)
- - ⏩ [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
- - 👉 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)<!-- MEMES:END -->
+ - 💣 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
+ - ⏩ [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - 👉 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)<!-- MEMES:END -->
 
 ---
 
