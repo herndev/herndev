@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Great League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500388/great-league-best-team-meta)
- - [We all deserve better than this](https://www.pcgamer.com/hardware/we-all-deserve-better-than-this/)
- - [All Marvel Rivals maps and modes in season 1.5](https://www.polygon.com/marvel-rivals-guide/491015/maps-modes-list-all-quick-play-competitive)<!-- GAME:END -->
+ - [The official Balatro Timeline documents the history of 2024&#39;s biggest game as its developer went from &#39;obsessed&#39; with making it to &#39;shocked&#39; at the reception](https://www.pcgamer.com/games/card-games/the-official-balatro-timeline-documents-the-history-of-2024s-biggest-game-as-its-developer-went-from-obsessed-with-making-it-to-shocked-at-the-reception/)
+ - [How to get disruptive customers to leave in The Sims 4 Businesses &amp; Hobbies](https://www.pcgamer.com/games/the-sims/sims-4-disruptive-customers-how-to-leave/)
+ - [What is the Dragon element in Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/536437/dragon-element-explained-strengths-weaknesses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
