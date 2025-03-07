@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay calm](http://9gag.com/gag/aLneDKv)
- - ⏩ [This is a very rare case](http://9gag.com/gag/a0eVdoZ)
- - 👉 [Where the trust issues started](http://9gag.com/gag/amoGrqo)<!-- MEMES:END -->
+ - 💣 [Star Trek](http://9gag.com/gag/abAOpgX)
+ - ⏩ [Shhh!](http://9gag.com/gag/aKG92Lb)
+ - 👉 [RIP Camera man](http://9gag.com/gag/aE0VBRp)<!-- MEMES:END -->
 
 ---
 
