@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)
- - ⏩ [I don&#39;t have a title because I&#39;m no aristocrat](http://9gag.com/gag/aVvEWEn)
- - 👉 [This is the day, when comarade Stalin made the most beautiful gift to humanity - died and shat his pants.](http://9gag.com/gag/aByL1pQ)<!-- MEMES:END -->
+ - 💣 [Soo anyone want a mint &gt;:3](http://9gag.com/gag/aAyEp80)
+ - ⏩ [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
+ - 👉 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)<!-- MEMES:END -->
 
 ---
 
