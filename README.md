@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When recycling meets 200 IQ creativity!](http://9gag.com/gag/a5QBZeE)
- - ⏩ [The sexiest housewife in the world ...](http://9gag.com/gag/adBOpeV)
- - 👉 [20. Gallery memeories](http://9gag.com/gag/avyeg7q)<!-- MEMES:END -->
+ - 💣 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
+ - ⏩ [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)
+ - 👉 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)<!-- MEMES:END -->
 
 ---
 
