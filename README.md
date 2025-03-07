@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at McDonald&#39;s new tech initiatives, including the use of edge computing to predict equipment breakdowns and computer vision to ensure order accuracy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250307/p2#a250307p2)
  - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Wayfair Coupons: 70% Off | March 2025](https://www.wired.com/story/wayfair-coupon/)
- - [Nike Promo Codes and Deals: Up to 40% Off](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
+ - [Wayfair Coupons: 70% Off | March 2025](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
