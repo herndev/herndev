@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [At least it&#39;s not NFTs this time: The new Wizardry RPG is a gacha game](https://www.pcgamer.com/games/rpg/at-least-its-not-nfts-this-time-the-new-wizardry-rpg-is-a-gacha-game/)
  - [Today&#39;s Wordle answer for Monday, March 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-10-2025/)
- - [&lpar;For Southeast Asia&rpar; Death Stranding 2: On the Beach launches June 26, Collector’s Edition revealed](https://blog.playstation.com/2025/03/09/20250310-ds/)
- - [Five new Steam games you probably missed &lpar;March 10, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-10-2025/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Death Stranding 2: On the Beach launches June 26, Collector’s Edition revealed](https://blog.playstation.com/2025/03/09/20250310-ds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
