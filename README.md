@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is making some changes you’ll either like or hate &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-ui-changes-2-3533559/)
- - [X experiences intermittent outages early on March 10, including in the US, the UK, France, and India; over 40K US users reported issues on Down Detector &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/250310/p14#a250310p14)
- - [Dow Jones CEO Almar Latour on AI, press freedom, and the future of news](https://www.theverge.com/decoder-podcast-with-nilay-patel/626229/dow-jones-ceo-almar-latour-wsj-interview-ai-journalism)<!-- TECH:END -->
+ - [Why the internet still needs Section 230](https://www.theverge.com/policy/626326/ron-wyden-section-230-history-it-takes-chutzpah-excerpt)
+ - [My Hero Academia: Vigilantes slides onto Crunchyroll in April](https://www.theverge.com/news/626784/my-hero-academic-crunchyroll-premiere-date)
+ - [OnePlus&amp;#8217; signature Alert Slider is ‘evolving’ into a button](https://www.theverge.com/news/626898/oneplus-alert-slider-switch-replacement-configurable-action-button)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
