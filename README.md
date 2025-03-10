@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lego’s new Mario Kart set super-sizes Mario](https://www.theverge.com/news/626716/lego-super-mario-kart-availability)
- - [Nirvana, which uses real-time driving telematics to build insurance policies for truckers, raised an $80M Series C at an $830M valuation, up from $350M in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250310/p11#a250310p11)
- - [iPhone 17 video hints at how fall updates will feel in the hand](https://appleinsider.com/articles/25/03/10/iphone-17-video-hints-at-how-fall-updates-will-feel-in-the-hand?utm_medium=rss)<!-- TECH:END -->
+ - [Google Messages is making some changes you’ll either like or hate &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-ui-changes-2-3533559/)
+ - [X experiences intermittent outages early on March 10, including in the US, the UK, France, and India; over 40K US users reported issues on Down Detector &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/250310/p14#a250310p14)
+ - [Dow Jones CEO Almar Latour on AI, press freedom, and the future of news](https://www.theverge.com/decoder-podcast-with-nilay-patel/626229/dow-jones-ceo-almar-latour-wsj-interview-ai-journalism)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
