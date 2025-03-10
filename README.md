@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asana announces CEO Dustin Moskovitz is retiring, and reports Q4 sales rose 10% YoY to $188.3M, in line with estimates; ASAN drops 25%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250310/p22#a250310p22)
- - [One UI 7 on the Galaxy Z Fold 6 makes app continuity slicker than ever](https://www.androidauthority.com/galaxy-z-fold-6-swipe-app-continuity-3533710/)
- - [Oracle reports Q3 revenue grew 6% YoY to $14.13B, vs. $14.39B est., and cloud revenue rose 23% YoY to $6.2B &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250310/p21#a250310p21)<!-- TECH:END -->
+ - [iOS 18.4 will force users to upgrade to the latest HomeKit architecture](https://appleinsider.com/articles/25/03/10/ios-184-will-force-users-to-upgrade-to-the-latest-homekit-architecture?utm_medium=rss)
+ - [OPM Watchdog Says Review of DOGE Work Is Underway](https://www.wired.com/story/opm-doge-review-underway/)
+ - [Bluesky gets three-minute videos and a filter to help with DM spam](https://www.theverge.com/news/627296/bluesky-three-minute-videos-dm-filter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
