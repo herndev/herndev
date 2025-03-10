@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More than 5 years after launch, Control gets a surprise patch that lets everyone play the Hideo Kojima mission](https://www.pcgamer.com/games/action/more-than-5-years-after-launch-control-gets-a-surprise-patch-that-lets-everyone-play-the-hideo-kojima-mission/)
- - [Split Fiction’s Final Level Has To Be Seen To Be Believed](https://kotaku.com/split-fiction-final-level-mio-zoe-rader-ending-1851768868)
- - [Xbox handheld reportedly set for 2025 release](https://www.polygon.com/xbox/537029/xbox-handheld-report-2025)<!-- GAME:END -->
+ - [Where to find firecell stones in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/536900/firecell-stones-where-to-find)
+ - [An Xbox Handheld Is Reportedly Coming As Early As This Year](https://kotaku.com/xbox-handheld-pc-gaming-next-gen-series-x-microsoft-1851768903)
+ - [The original Verdansk map is returning to Call of Duty: Warzone, to celebrate which we get a soldier crying to Nat King Cole](https://www.pcgamer.com/games/call-of-duty/the-original-verdansk-map-is-returning-to-call-of-duty-warzone-to-celebrate-which-we-get-a-soldier-crying-to-nat-king-cole/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
