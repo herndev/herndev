@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A shoplifter gets knocked out with a bottle of Coke](http://9gag.com/gag/axyvMjL)
- - ⏩ [Manhwa neighbors](http://9gag.com/gag/azxPmON)
- - 👉 [Easy marketing.](http://9gag.com/gag/apRD9z5)<!-- MEMES:END -->
+ - 💣 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
+ - ⏩ [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 👉 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)<!-- MEMES:END -->
 
 ---
 
