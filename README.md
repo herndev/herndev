@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Mario Day deals](https://www.polygon.com/sales-guide/536709/best-mario-mar-10-day-nintendo-switch-deals)
- - [Nvidia says it really has sorted RTX 50-series black screen issues this time around as yet another driver fix finds its way to release](https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-it-really-has-sorted-rtx-50-series-black-screen-issues-this-time-around-as-yet-another-driver-fix-finds-its-way-to-release/)
- - [Lego&#39;s New Mario Set Is The Best One Yet](https://kotaku.com/lego-mario-kart-nintendo-new-set-price-may-mario-day-1851768825)<!-- GAME:END -->
+ - [Magneto Is Marvel Rival&#39;s Vanguard With The Mettle For Metal](https://kotaku.com/marvel-rivals-magneto-tank-guide-how-to-play-1851768817)
+ - [Swen Vincke stamps seal of approval on Stardew Valley mod that yoinks the Baldur&#39;s Gate 3 cast out of D&amp;D and into a cosy pastoral life](https://www.pcgamer.com/games/life-sim/swen-vincke-stamps-seal-of-approval-on-stardew-valley-mod-that-yoinks-the-baldurs-gate-3-cast-out-of-d-and-d-and-into-a-cosy-pastoral-life/)
+ - [Every Super Mario Game Ranked From Worst To Best](https://kotaku.com/nintendo-switch-super-mario-bros-best-ranked-odyssey-1850286446)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
