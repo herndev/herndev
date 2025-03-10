@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
- - ⏩ [I feel this](http://9gag.com/gag/a4PzEgv)
- - 👉 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)<!-- MEMES:END -->
+ - 💣 [Yup.](http://9gag.com/gag/avye55n)
+ - ⏩ [I know this guy is here](http://9gag.com/gag/aD2ndDx)
+ - 👉 [Fake internet lives and real reality](http://9gag.com/gag/a87mEe1)<!-- MEMES:END -->
 
 ---
 
