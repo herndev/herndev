@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where the trust issues started](http://9gag.com/gag/amoGrqo)
- - ⏩ [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
- - 👉 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)<!-- MEMES:END -->
+ - 💣 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
+ - ⏩ [Firing squad is probably the most humane method](http://9gag.com/gag/azxPMMm)
+ - 👉 [This woman won a great man](http://9gag.com/gag/aE0VP8M)<!-- MEMES:END -->
 
 ---
 
