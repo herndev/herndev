@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find firecell stones in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/536900/firecell-stones-where-to-find)
- - [An Xbox Handheld Is Reportedly Coming As Early As This Year](https://kotaku.com/xbox-handheld-pc-gaming-next-gen-series-x-microsoft-1851768903)
- - [The original Verdansk map is returning to Call of Duty: Warzone, to celebrate which we get a soldier crying to Nat King Cole](https://www.pcgamer.com/games/call-of-duty/the-original-verdansk-map-is-returning-to-call-of-duty-warzone-to-celebrate-which-we-get-a-soldier-crying-to-nat-king-cole/)<!-- GAME:END -->
+ - [The Best And Worst Things About The Super Mario Games](https://kotaku.com/super-mario-bros-best-nintendo-switch-odyssey-galaxy-1850356723)
+ - [Where to get bird wyvern gems in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/537213/bird-wyvern-gem-how-to-get)
+ - [How to get ancient wyvern coins in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/536996/ancient-wyvern-coins-how-to-get-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
