@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - ⏩ [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
- - 👉 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)<!-- MEMES:END -->
+ - 💣 [Lmao](http://9gag.com/gag/a5QB1qq)
+ - ⏩ [Addicted to these two](http://9gag.com/gag/aKG9GLO)
+ - 👉 [Ma - ah](http://9gag.com/gag/ayN4NVW)<!-- MEMES:END -->
 
 ---
 
