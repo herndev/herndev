@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup.](http://9gag.com/gag/avye55n)
- - ⏩ [I know this guy is here](http://9gag.com/gag/aD2ndDx)
- - 👉 [Fake internet lives and real reality](http://9gag.com/gag/a87mEe1)<!-- MEMES:END -->
+ - 💣 [I know this guy is here](http://9gag.com/gag/aD2ndDx)
+ - ⏩ [Fake internet lives and real reality](http://9gag.com/gag/a87mEe1)
+ - 👉 [The fact that Aragorn is 87 years old.](http://9gag.com/gag/aD2nDxK)<!-- MEMES:END -->
 
 ---
 
