@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best And Worst Things About The Super Mario Games](https://kotaku.com/super-mario-bros-best-nintendo-switch-odyssey-galaxy-1850356723)
- - [Where to get bird wyvern gems in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/537213/bird-wyvern-gem-how-to-get)
- - [How to get ancient wyvern coins in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/536996/ancient-wyvern-coins-how-to-get-locations)<!-- GAME:END -->
+ - [I’m not sure what’s weirder: that someone made a sequel to a completely forgettable 37-year-old game I played as a kid, or that it was actually worth the wait](https://www.pcgamer.com/games/action/im-not-sure-whats-weirder-that-someone-made-a-sequel-to-a-completely-forgettable-37-year-old-game-i-played-as-a-kid-or-that-it-was-actually-worth-the-wait/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [An Xbox Partner Handheld Is Reportedly Coming As Early As This Year](https://kotaku.com/xbox-handheld-pc-gaming-next-gen-series-x-microsoft-1851768903)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
