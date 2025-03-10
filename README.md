@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego’s largest Mario Kart set is now available to pre-order](https://www.polygon.com/pre-order/536311/lego-mario-kart-standard-maro10-announcement-where-to-buy)
- - [If you&#39;ve captured them for a minute, monsters in Monster Hunter Wilds are legally allowed to leave](https://www.pcgamer.com/games/rpg/if-youve-captured-them-for-a-minute-monsters-in-monster-hunter-wilds-are-legally-allowed-to-leave/)
- - [Razer Handheld Dock Chroma review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/razer-handheld-dock-chroma-review/)<!-- GAME:END -->
+ - [A recently launched and now terminally sideways Moon lander contains Imagine Dragon&#39;s Starfield song, which seems eerily fitting](https://www.pcgamer.com/hardware/a-recently-launched-and-now-terminally-sideways-moon-lander-contains-imagine-dragons-starfield-song-which-seems-eerily-fitting/)
+ - [A lot is going on for Cities: Skylines&#39; 10th anniversary—from freebies to new creator packs—but there&#39;s still a big ol&#39; elephant in the room](https://www.pcgamer.com/games/sim/a-lot-is-going-on-for-cities-skylines-10th-anniversary-from-freebies-to-new-creator-packs-but-theres-still-a-big-ol-elephant-in-the-room/)
+ - [Japanese game producer argues that thick thighs on anime girls are a natural byproduct of economic recession](https://www.pcgamer.com/games/rpg/japanese-game-producer-argues-that-thick-thighs-on-anime-girls-are-a-natural-byproduct-of-economic-recession/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
