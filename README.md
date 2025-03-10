@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
- - ⏩ [Here we go.](http://9gag.com/gag/a9yvEq1)
- - 👉 [Ask 9gag](http://9gag.com/gag/awymZpx)<!-- MEMES:END -->
+ - 💣 [It&#39;s true](http://9gag.com/gag/aVvExL8)
+ - ⏩ [You deserve what you tolerate](http://9gag.com/gag/a7oeoLm)
+ - 👉 [A shoplifter gets knocked out with a bottle of Coke](http://9gag.com/gag/axyvMjL)<!-- MEMES:END -->
 
 ---
 
