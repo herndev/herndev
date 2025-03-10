@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s true](http://9gag.com/gag/aVvExL8)
- - ⏩ [You deserve what you tolerate](http://9gag.com/gag/a7oeoLm)
- - 👉 [A shoplifter gets knocked out with a bottle of Coke](http://9gag.com/gag/axyvMjL)<!-- MEMES:END -->
+ - 💣 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
+ - ⏩ [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
+ - 👉 [Ask 9gag](http://9gag.com/gag/awymZpx)<!-- MEMES:END -->
 
 ---
 
