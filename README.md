@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stripe, Revolut, and other banks and fintechs rush to launch stablecoins; there are ~$210B in stablecoins issued globally, including Tether printing $142B &lpar;Financial Times&rpar;](http://www.techmeme.com/250310/p5#a250310p5)
- - [A look at China&#39;s heavy-handed and sometimes intrusive approach to crack down on telecom and online scams, including intercepting calls and messages &lpar;Bloomberg&rpar;](http://www.techmeme.com/250310/p4#a250310p4)
- - [How neo-Nazi influencers on Telegram formed the Terrorgram Collective and a network of chats and channels, targeted a teen in Slovakia, and groomed him to kill &lpar;ProPublica&rpar;](http://www.techmeme.com/250310/p3#a250310p3)<!-- TECH:END -->
+ - [Pixel 4a is being recalled, and we finally learn about its serious battery risk](https://www.androidauthority.com/pixel-4a-recall-battery-overheating-risk-3533472/)
+ - [Claude Code hands-on: chews through legacy bugs in gnarly old code and a big step for coding assistants, but its form factor is clunky and no multimodal support &lpar;Steve Yegge/@steve_yegge&rpar;](http://www.techmeme.com/250310/p6#a250310p6)
+ - [Gamecube and Wii emulation on Android just got even better with new Dolphin Emulator update](https://www.androidauthority.com/dolphin-emulator-update-release-2503-3533477/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
