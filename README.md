@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I’m not sure what’s weirder: that someone made a sequel to a completely forgettable 37-year-old game I played as a kid, or that it was actually worth the wait](https://www.pcgamer.com/games/action/im-not-sure-whats-weirder-that-someone-made-a-sequel-to-a-completely-forgettable-37-year-old-game-i-played-as-a-kid-or-that-it-was-actually-worth-the-wait/)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [An Xbox Partner Handheld Is Reportedly Coming As Early As This Year](https://kotaku.com/xbox-handheld-pc-gaming-next-gen-series-x-microsoft-1851768903)<!-- GAME:END -->
+ - [&#39;Don&#39;t you know what he did?&#39;: The truth comes out in The Last of Us Season 2 trailer](https://www.pcgamer.com/movies-tv/dont-you-know-what-he-did-the-truth-comes-out-in-the-last-of-us-season-2-trailer/)
+ - [&#39;Creepy,&#39; &#39;ghastly,&#39; &#39;rancid&#39;: Viewers react to leaked video of Sony&#39;s AI-powered Aloy](https://www.pcgamer.com/software/ai/creepy-ghastly-rancid-viewers-react-to-leaked-video-of-sonys-ai-powered-aloy/)
+ - [I’m not sure what’s weirder: that someone made a sequel to a completely forgettable 37-year-old game I played as a kid, or that it was actually worth the wait](https://www.pcgamer.com/games/action/im-not-sure-whats-weirder-that-someone-made-a-sequel-to-a-completely-forgettable-37-year-old-game-i-played-as-a-kid-or-that-it-was-actually-worth-the-wait/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
