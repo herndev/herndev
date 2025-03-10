@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror movies on Netflix right now](https://www.polygon.com/22325729/best-horror-movies-netflix)
- - [The Forever Winter, my favourite extraction shooter, just overhauled its most contentious feature for the second time:  &#39;It was a hell of a rollercoaster to make the adjustment&#39;](https://www.pcgamer.com/games/third-person-shooter/the-forever-winter-my-favourite-extraction-shooter-just-overhauled-its-most-contentious-feature-for-the-second-time-it-was-a-hell-of-a-rollercoaster-to-make-the-adjustment/)
- - [Wanderstop is so much more than just brewing tea — but that part’s good, too](https://www.polygon.com/review/536249/wanderstop-review-ivy-road-annapurna-tea-shop)<!-- GAME:END -->
+ - [Wanderstop, Rise of the Ronin on PC, and the other new games out this week](https://www.polygon.com/gaming/534630/best-new-game-releases-march-10-wanderstop-rise-of-the-ronin)
+ - [Asus ROG Swift PG27UCDM review](https://www.pcgamer.com/hardware/gaming-monitors/asus-rog-swift-pg27ucdm-review/)
+ - [Best food buffs and meals to prepare in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/536644/best-food-buffs-meals-medic-defender)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
