@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The fact that Aragorn is 87 years old.](http://9gag.com/gag/aD2nDxK)
- - ⏩ [Yup.](http://9gag.com/gag/avye55n)
- - 👉 [It&#39;s true](http://9gag.com/gag/aVvExL8)<!-- MEMES:END -->
+ - 💣 [I like when 2 characters with different mentality engage in anything, fight, love, quest, etc...](http://9gag.com/gag/axyvMLn)
+ - ⏩ [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
+ - 👉 [Lmao](http://9gag.com/gag/a5QB1qq)<!-- MEMES:END -->
 
 ---
 
