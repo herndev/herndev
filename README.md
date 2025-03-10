@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warner Bros says it will replace certain DVDs damaged by &#39;disc rot&#39;, but you might not get the same movie you sent in for replacement](https://www.pcgamer.com/hardware/warner-bros-says-it-will-replace-certain-dvds-damaged-by-disc-rot-but-you-might-not-get-the-same-movie-you-sent-in-for-replacement/)
- - [This Amazon-bought fake AMD Ryzen 7 9800X3D is actually a 14-year-old Bulldozer chip with a cheap sticker on it](https://www.pcgamer.com/hardware/processors/this-amazon-bought-fake-amd-ryzen-7-9800x3d-is-actually-a-14-year-old-bulldozer-chip-with-a-cheap-sticker-on-it/)
- - [Stop-motion anime Junk World’s trailer unleashes a zany apocalyptic future](https://www.polygon.com/anime/536773/stop-motion-anime-junk-worlds-trailer-unleashes-a-zany-apocalyptic-future)<!-- GAME:END -->
+ - [The best Mario Day deals](https://www.polygon.com/sales-guide/536709/best-mario-mar-10-day-nintendo-switch-deals)
+ - [Nvidia says it really has sorted RTX 50-series black screen issues this time around as yet another driver fix finds its way to release](https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-it-really-has-sorted-rtx-50-series-black-screen-issues-this-time-around-as-yet-another-driver-fix-finds-its-way-to-release/)
+ - [Lego&#39;s New Mario Set Is The Best One Yet](https://kotaku.com/lego-mario-kart-nintendo-new-set-price-may-mario-day-1851768825)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
