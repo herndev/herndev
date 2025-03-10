@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
- - ⏩ [How Dishwashing Sponges Are Made!](http://9gag.com/gag/awymAKW)
- - 👉 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)<!-- MEMES:END -->
+ - 💣 [Europeans looking at US tech right now](http://9gag.com/gag/aXPNr9D)
+ - ⏩ [I know this guy is here](http://9gag.com/gag/aD2ndDx)
+ - 👉 [Fake internet lives and real reality](http://9gag.com/gag/a87mEe1)<!-- MEMES:END -->
 
 ---
 
