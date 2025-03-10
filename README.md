@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18.4 will force users to upgrade to the latest HomeKit architecture](https://appleinsider.com/articles/25/03/10/ios-184-will-force-users-to-upgrade-to-the-latest-homekit-architecture?utm_medium=rss)
- - [OPM Watchdog Says Review of DOGE Work Is Underway](https://www.wired.com/story/opm-doge-review-underway/)
- - [Bluesky gets three-minute videos and a filter to help with DM spam](https://www.theverge.com/news/627296/bluesky-three-minute-videos-dm-filter)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Ex-Google CEO Eric Schmidt is the newest Big Tech-to-space exec](https://www.theverge.com/news/627365/google-eric-schmidt-relativity-space-ceo)
+ - [Bluesky adds support for three-minute videos, up from the previous one-minute limit, and a new &quot;Chat Requests&quot; feature to screen messages from unknown users &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250310/p25#a250310p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
