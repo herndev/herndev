@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you land in Germany and are greeted by the friendly locals](http://9gag.com/gag/aYQO7Zx)
- - ⏩ [Finally it happened to me, I&#39;m in love.](http://9gag.com/gag/aMVmxzA)
- - 👉 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)<!-- MEMES:END -->
+ - 💣 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)
+ - ⏩ [Different sister](http://9gag.com/gag/aMVmK2R)
+ - 👉 [This game](http://9gag.com/gag/axyvoWL)<!-- MEMES:END -->
 
 ---
 
