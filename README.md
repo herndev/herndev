@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is holding a 50th anniversary and Copilot event in April](https://www.theverge.com/news/627077/microsoft-50th-anniversary-copilot-ai-event)
- - [Sources: CoreWeave has signed a five-year $11.9B contract with OpenAI that will give OpenAI a stake in the cloud computing provider ahead of its IPO &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250310/p18#a250310p18)
- - [Google&amp;#8217;s new AI button in Gmail automatically adds events to Google Calendar](https://www.theverge.com/news/626951/google-calendar-gmail-ai-gemini-automatically-add-events-from-emails)<!-- TECH:END -->
+ - [Apple is planning to make enormous design changes to iOS 19 &amp; macOS 16](https://appleinsider.com/articles/25/03/10/apple-is-planning-to-make-enormous-design-changes-to-ios-19-macos-16?utm_medium=rss)
+ - [Third time&#39;s the charm? EU considers fining Apple over DMA yet again](https://appleinsider.com/articles/25/03/10/third-times-the-charm-eu-considers-fining-apple-over-dma-yet-again?utm_medium=rss)
+ - [What&#39;s Really Happening With Elon Musk and Those ‘Stranded’ Astronauts?](https://www.wired.com/story/elon-musk-stranded-astronauts-nasa-spacex-boeing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
