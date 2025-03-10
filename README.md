@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Razer Handheld Dock Chroma review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/razer-handheld-dock-chroma-review/)
  - [Overwatch 2 is launching another Le Sserafirm collab with &#39;more transformative&#39; skin designs, guided by Blizzard Korea&#39;s keen eye for Korean trends and street style](https://www.pcgamer.com/games/fps/overwatch-2-is-launching-another-le-sserafirm-collab-with-more-transformative-skin-designs-guided-by-blizzard-koreas-keen-eye-for-korean-trends-and-street-style/)
- - [At least it&#39;s not NFTs this time: The new Wizardry RPG is a gacha game](https://www.pcgamer.com/games/rpg/at-least-its-not-nfts-this-time-the-new-wizardry-rpg-is-a-gacha-game/)
- - [Today&#39;s Wordle answer for Monday, March 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-10-2025/)<!-- GAME:END -->
+ - [At least it&#39;s not NFTs this time: The new Wizardry RPG is a gacha game](https://www.pcgamer.com/games/rpg/at-least-its-not-nfts-this-time-the-new-wizardry-rpg-is-a-gacha-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
