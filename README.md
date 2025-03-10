@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)
- - ⏩ [Different sister](http://9gag.com/gag/aMVmK2R)
- - 👉 [This game](http://9gag.com/gag/axyvoWL)<!-- MEMES:END -->
+ - ⏩ [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
+ - 👉 [Finally it happened to me, I&#39;m in love.](http://9gag.com/gag/aMVmxzA)<!-- MEMES:END -->
 
 ---
 
