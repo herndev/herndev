@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Overwatch 2 is launching another Le Sserafirm collab with &#39;more transformative&#39; skin designs, guided by Blizzard Korea&#39;s keen eye for Korean trends and street style](https://www.pcgamer.com/games/fps/overwatch-2-is-launching-another-le-sserafirm-collab-with-more-transformative-skin-designs-guided-by-blizzard-koreas-keen-eye-for-korean-trends-and-street-style/)
  - [At least it&#39;s not NFTs this time: The new Wizardry RPG is a gacha game](https://www.pcgamer.com/games/rpg/at-least-its-not-nfts-this-time-the-new-wizardry-rpg-is-a-gacha-game/)
- - [Today&#39;s Wordle answer for Monday, March 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-10-2025/)
- - [&lpar;For Southeast Asia&rpar; Death Stranding 2: On the Beach launches June 26, Collector’s Edition revealed](https://blog.playstation.com/2025/03/09/20250310-ds/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, March 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-10-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
