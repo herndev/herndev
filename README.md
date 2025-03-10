@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The official Balatro Timeline documents the history of 2024&#39;s biggest game as its developer went from &#39;obsessed&#39; with making it to &#39;shocked&#39; at the reception](https://www.pcgamer.com/games/card-games/the-official-balatro-timeline-documents-the-history-of-2024s-biggest-game-as-its-developer-went-from-obsessed-with-making-it-to-shocked-at-the-reception/)
- - [How to get disruptive customers to leave in The Sims 4 Businesses &amp; Hobbies](https://www.pcgamer.com/games/the-sims/sims-4-disruptive-customers-how-to-leave/)
- - [What is the Dragon element in Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/536437/dragon-element-explained-strengths-weaknesses)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 10, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-10-2025/)
+ - [Death Stranding 2&#39;s PS5 release date is in June, let&#39;s hope it doesn&#39;t take eight months to hit PC this time](https://www.pcgamer.com/games/sim/death-stranding-2s-ps5-release-date-is-in-june-lets-hope-it-doesnt-take-eight-months-to-hit-pc-this-time/)
+ - [You can theoretically beat Doom: The Dark Ages without using a gun, but &#39;You&#39;d have a hard time, that&#39;s for sure,&#39; says the game&#39;s director](https://www.pcgamer.com/games/fps/you-can-theoretically-beat-doom-the-dark-ages-without-using-a-gun-but-youd-have-a-hard-time-thats-for-sure-says-the-games-director/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
