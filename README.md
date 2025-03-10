@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magneto Is Marvel Rival&#39;s Vanguard With The Mettle For Metal](https://kotaku.com/marvel-rivals-magneto-tank-guide-how-to-play-1851768817)
- - [Swen Vincke stamps seal of approval on Stardew Valley mod that yoinks the Baldur&#39;s Gate 3 cast out of D&amp;D and into a cosy pastoral life](https://www.pcgamer.com/games/life-sim/swen-vincke-stamps-seal-of-approval-on-stardew-valley-mod-that-yoinks-the-baldurs-gate-3-cast-out-of-d-and-d-and-into-a-cosy-pastoral-life/)
- - [Every Super Mario Game Ranked From Worst To Best](https://kotaku.com/nintendo-switch-super-mario-bros-best-ranked-odyssey-1850286446)<!-- GAME:END -->
+ - [More than 5 years after launch, Control gets a surprise patch that lets everyone play the Hideo Kojima mission](https://www.pcgamer.com/games/action/more-than-5-years-after-launch-control-gets-a-surprise-patch-that-lets-everyone-play-the-hideo-kojima-mission/)
+ - [Split Fiction’s Final Level Has To Be Seen To Be Believed](https://kotaku.com/split-fiction-final-level-mio-zoe-rader-ending-1851768868)
+ - [Xbox handheld reportedly set for 2025 release](https://www.polygon.com/xbox/537029/xbox-handheld-report-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
