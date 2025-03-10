@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
- - ⏩ [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 👉 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)<!-- MEMES:END -->
+ - 💣 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
+ - ⏩ [I feel this](http://9gag.com/gag/a4PzEgv)
+ - 👉 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)<!-- MEMES:END -->
 
 ---
 
