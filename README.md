@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A recently launched and now terminally sideways Moon lander contains Imagine Dragon&#39;s Starfield song, which seems eerily fitting](https://www.pcgamer.com/hardware/a-recently-launched-and-now-terminally-sideways-moon-lander-contains-imagine-dragons-starfield-song-which-seems-eerily-fitting/)
- - [A lot is going on for Cities: Skylines&#39; 10th anniversary—from freebies to new creator packs—but there&#39;s still a big ol&#39; elephant in the room](https://www.pcgamer.com/games/sim/a-lot-is-going-on-for-cities-skylines-10th-anniversary-from-freebies-to-new-creator-packs-but-theres-still-a-big-ol-elephant-in-the-room/)
- - [Japanese game producer argues that thick thighs on anime girls are a natural byproduct of economic recession](https://www.pcgamer.com/games/rpg/japanese-game-producer-argues-that-thick-thighs-on-anime-girls-are-a-natural-byproduct-of-economic-recession/)<!-- GAME:END -->
+ - [The best horror movies on Netflix right now](https://www.polygon.com/22325729/best-horror-movies-netflix)
+ - [The Forever Winter, my favourite extraction shooter, just overhauled its most contentious feature for the second time:  &#39;It was a hell of a rollercoaster to make the adjustment&#39;](https://www.pcgamer.com/games/third-person-shooter/the-forever-winter-my-favourite-extraction-shooter-just-overhauled-its-most-contentious-feature-for-the-second-time-it-was-a-hell-of-a-rollercoaster-to-make-the-adjustment/)
+ - [Wanderstop is so much more than just brewing tea — but that part’s good, too](https://www.polygon.com/review/536249/wanderstop-review-ivy-road-annapurna-tea-shop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
