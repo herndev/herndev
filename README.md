@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here we go.](http://9gag.com/gag/a9yvEq1)
- - ⏩ [Long sh[i]t but my fav](http://9gag.com/gag/a9yvRm0)
- - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
+ - 💣 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
+ - ⏩ [Here we go.](http://9gag.com/gag/a9yvEq1)
+ - 👉 [Ask 9gag](http://9gag.com/gag/awymZpx)<!-- MEMES:END -->
 
 ---
 
