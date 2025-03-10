@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news about Sony’s PS5 Pro](https://www.theverge.com/24240801/ps5-pro-details-playstation-event-september-2024)
- - [The Tesla protests are getting bigger — and rowdier](https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk)
- - [Fortnite is set to return to Brazilian iPhones](https://www.theverge.com/news/626935/epic-games-fortnite-store-brazil-apple-ios)<!-- TECH:END -->
+ - [Third developer betas of iOS 18.4, other updates land for testing](https://appleinsider.com/articles/25/03/10/third-developer-betas-of-ios-184-other-updates-land-for-testing?utm_medium=rss)
+ - [Can Gaming Save the Apple Vision Pro?](https://www.wired.com/story/can-gaming-save-the-apple-vision-pro/)
+ - [Epic Games insists that Apple flouted its App Store anti-steering injunction](https://appleinsider.com/articles/25/03/10/epic-games-insists-that-apple-flouted-its-app-store-anti-steering-injunction?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
