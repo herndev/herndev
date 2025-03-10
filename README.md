@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is planning to make enormous design changes to iOS 19 &amp; macOS 16](https://appleinsider.com/articles/25/03/10/apple-is-planning-to-make-enormous-design-changes-to-ios-19-macos-16?utm_medium=rss)
- - [Third time&#39;s the charm? EU considers fining Apple over DMA yet again](https://appleinsider.com/articles/25/03/10/third-times-the-charm-eu-considers-fining-apple-over-dma-yet-again?utm_medium=rss)
- - [What&#39;s Really Happening With Elon Musk and Those ‘Stranded’ Astronauts?](https://www.wired.com/story/elon-musk-stranded-astronauts-nasa-spacex-boeing/)<!-- TECH:END -->
+ - [Asana announces CEO Dustin Moskovitz is retiring, and reports Q4 sales rose 10% YoY to $188.3M, in line with estimates; ASAN drops 25%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250310/p22#a250310p22)
+ - [One UI 7 on the Galaxy Z Fold 6 makes app continuity slicker than ever](https://www.androidauthority.com/galaxy-z-fold-6-swipe-app-continuity-3533710/)
+ - [Oracle reports Q3 revenue grew 6% YoY to $14.13B, vs. $14.39B est., and cloud revenue rose 23% YoY to $6.2B &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250310/p21#a250310p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
