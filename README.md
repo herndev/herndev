@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 4a is being recalled, and we finally learn about its serious battery risk](https://www.androidauthority.com/pixel-4a-recall-battery-overheating-risk-3533472/)
- - [Claude Code hands-on: chews through legacy bugs in gnarly old code and a big step for coding assistants, but its form factor is clunky and no multimodal support &lpar;Steve Yegge/@steve_yegge&rpar;](http://www.techmeme.com/250310/p6#a250310p6)
- - [Gamecube and Wii emulation on Android just got even better with new Dolphin Emulator update](https://www.androidauthority.com/dolphin-emulator-update-release-2503-3533477/)<!-- TECH:END -->
+ - [Canadians may never get to use AirPods Pro 2 as hearing aids](https://appleinsider.com/articles/25/03/10/canadians-may-never-get-to-use-airpods-pro-2-as-hearing-aids?utm_medium=rss)
+ - [Detroit-based real estate platform Rocket plans to buy Redfin, a home search service and adtech brokerage, for $1.75B, or $12.50 per share, closing in Q2 or Q3 &lpar;Crystal Tse/Bloomberg&rpar;](http://www.techmeme.com/250310/p8#a250310p8)
+ - [OnePlus’ iconic Alert Slider is going away, and you can blame Apple for it](https://www.androidauthority.com/oneplus-confirms-alert-slider-customizable-button-3533499/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
