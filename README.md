@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why the internet still needs Section 230](https://www.theverge.com/policy/626326/ron-wyden-section-230-history-it-takes-chutzpah-excerpt)
- - [My Hero Academia: Vigilantes slides onto Crunchyroll in April](https://www.theverge.com/news/626784/my-hero-academic-crunchyroll-premiere-date)
- - [OnePlus&amp;#8217; signature Alert Slider is ‘evolving’ into a button](https://www.theverge.com/news/626898/oneplus-alert-slider-switch-replacement-configurable-action-button)<!-- TECH:END -->
+ - [All the news about Sony’s PS5 Pro](https://www.theverge.com/24240801/ps5-pro-details-playstation-event-september-2024)
+ - [The Tesla protests are getting bigger — and rowdier](https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk)
+ - [Fortnite is set to return to Brazilian iPhones](https://www.theverge.com/news/626935/epic-games-fortnite-store-brazil-apple-ios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
