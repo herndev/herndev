@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third developer betas of iOS 18.4, other updates land for testing](https://appleinsider.com/articles/25/03/10/third-developer-betas-of-ios-184-other-updates-land-for-testing?utm_medium=rss)
- - [Can Gaming Save the Apple Vision Pro?](https://www.wired.com/story/can-gaming-save-the-apple-vision-pro/)
- - [Epic Games insists that Apple flouted its App Store anti-steering injunction](https://appleinsider.com/articles/25/03/10/epic-games-insists-that-apple-flouted-its-app-store-anti-steering-injunction?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft is holding a 50th anniversary and Copilot event in April](https://www.theverge.com/news/627077/microsoft-50th-anniversary-copilot-ai-event)
+ - [Sources: CoreWeave has signed a five-year $11.9B contract with OpenAI that will give OpenAI a stake in the cloud computing provider ahead of its IPO &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250310/p18#a250310p18)
+ - [Google&amp;#8217;s new AI button in Gmail automatically adds events to Google Calendar](https://www.theverge.com/news/626951/google-calendar-gmail-ai-gemini-automatically-add-events-from-emails)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
