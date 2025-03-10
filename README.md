@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wanderstop, Rise of the Ronin on PC, and the other new games out this week](https://www.polygon.com/gaming/534630/best-new-game-releases-march-10-wanderstop-rise-of-the-ronin)
- - [Asus ROG Swift PG27UCDM review](https://www.pcgamer.com/hardware/gaming-monitors/asus-rog-swift-pg27ucdm-review/)
- - [Best food buffs and meals to prepare in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/536644/best-food-buffs-meals-medic-defender)<!-- GAME:END -->
+ - [Warner Bros says it will replace certain DVDs damaged by &#39;disc rot&#39;, but you might not get the same movie you sent in for replacement](https://www.pcgamer.com/hardware/warner-bros-says-it-will-replace-certain-dvds-damaged-by-disc-rot-but-you-might-not-get-the-same-movie-you-sent-in-for-replacement/)
+ - [This Amazon-bought fake AMD Ryzen 7 9800X3D is actually a 14-year-old Bulldozer chip with a cheap sticker on it](https://www.pcgamer.com/hardware/processors/this-amazon-bought-fake-amd-ryzen-7-9800x3d-is-actually-a-14-year-old-bulldozer-chip-with-a-cheap-sticker-on-it/)
+ - [Stop-motion anime Junk World’s trailer unleashes a zany apocalyptic future](https://www.polygon.com/anime/536773/stop-motion-anime-junk-worlds-trailer-unleashes-a-zany-apocalyptic-future)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
