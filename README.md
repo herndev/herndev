@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I like when 2 characters with different mentality engage in anything, fight, love, quest, etc...](http://9gag.com/gag/axyvMLn)
- - ⏩ [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
- - 👉 [Lmao](http://9gag.com/gag/a5QB1qq)<!-- MEMES:END -->
+ - 💣 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
+ - ⏩ [How Dishwashing Sponges Are Made!](http://9gag.com/gag/awymAKW)
+ - 👉 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)<!-- MEMES:END -->
 
 ---
 
