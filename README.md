@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
- - ⏩ [I feel this](http://9gag.com/gag/a4PzEgv)
- - 👉 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)<!-- MEMES:END -->
+ - 💣 [Do it!](http://9gag.com/gag/amoGA9j)
+ - ⏩ [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 👉 [Bollywood at its best](http://9gag.com/gag/aPAPgzw)<!-- MEMES:END -->
 
 ---
 
