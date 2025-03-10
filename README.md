@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
- - ⏩ [Firing squad is probably the most humane method](http://9gag.com/gag/azxPMMm)
+ - 💣 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
+ - ⏩ [When you land in Germany and are greeted by the friendly locals](http://9gag.com/gag/aYQO7Zx)
  - 👉 [This woman won a great man](http://9gag.com/gag/aE0VP8M)<!-- MEMES:END -->
 
 ---
