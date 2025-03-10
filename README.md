@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Reusable Water Bottles of 2025, Tested and Loved by WIRED](https://www.wired.com/gallery/best-reusable-water-bottles/)
- - [Apple iPad Air &lpar;M3, 2025&rpar; Review: A Powerful Tablet That Feels Stale](https://www.wired.com/review/apple-ipad-air-m3-2025/)
- - [Six thoughts on Apple’s new M3 iPad Air](https://www.theverge.com/ipad/626647/apple-ipad-air-review-2025)<!-- TECH:END -->
+ - [Lego’s new Mario Kart set super-sizes Mario](https://www.theverge.com/news/626716/lego-super-mario-kart-availability)
+ - [Nirvana, which uses real-time driving telematics to build insurance policies for truckers, raised an $80M Series C at an $830M valuation, up from $350M in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250310/p11#a250310p11)
+ - [iPhone 17 video hints at how fall updates will feel in the hand](https://appleinsider.com/articles/25/03/10/iphone-17-video-hints-at-how-fall-updates-will-feel-in-the-hand?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
