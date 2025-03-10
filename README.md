@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at China&#39;s heavy-handed and sometimes intrusive approach to crack down on telecom and online scams, including intercepting calls and messages &lpar;Bloomberg&rpar;](http://www.techmeme.com/250310/p4#a250310p4)
  - [How neo-Nazi influencers on Telegram formed the Terrorgram Collective and a network of chats and channels, targeted a teen in Slovakia, and groomed him to kill &lpar;ProPublica&rpar;](http://www.techmeme.com/250310/p3#a250310p3)
- - [Foxconn says it built FoxBrain, an in-house reasoning LLM, trained in four weeks with support from Nvidia via its Taiwan-based supercomputer and consulting &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/250310/p2#a250310p2)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, March 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foxconn says it built FoxBrain, an in-house reasoning LLM, trained in four weeks with support from Nvidia via its Taiwan-based supercomputer and consulting &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/250310/p2#a250310p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
