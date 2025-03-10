@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
- - [Inside the high-wire business of MrBeast](https://www.theverge.com/command-line-newsletter/626330/mrbeast-business-youtube-feastables-fundraising)
- - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)<!-- TECH:END -->
+ - [PitchBook: the AI frenzy has led to the fastest investment pace since 2021, with $30B+ invested into startups so far this quarter and $50B more in the works &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250309/p14#a250309p14)
+ - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
+ - [Death Stranding 2 is coming on June 26th](https://www.theverge.com/news/610946/death-stranding-2-trailer-ps5-state-of-play-on-the-beach)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
