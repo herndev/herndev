@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
- - ⏩ [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
- - 👉 [Ask 9gag](http://9gag.com/gag/awymZpx)<!-- MEMES:END -->
+ - 💣 [A shoplifter gets knocked out with a bottle of Coke](http://9gag.com/gag/axyvMjL)
+ - ⏩ [Manhwa neighbors](http://9gag.com/gag/azxPmON)
+ - 👉 [Easy marketing.](http://9gag.com/gag/apRD9z5)<!-- MEMES:END -->
 
 ---
 
