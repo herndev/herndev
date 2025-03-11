@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I got legless last night.](http://9gag.com/gag/a87mAmY)
- - ⏩ [Ma - ah](http://9gag.com/gag/ayN4NVW)
- - 👉 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)<!-- MEMES:END -->
+ - 💣 [Definitely india](http://9gag.com/gag/aPAPZEn)
+ - ⏩ [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
+ - 👉 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)<!-- MEMES:END -->
 
 ---
 
