@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
- - ⏩ [Definitely india](http://9gag.com/gag/aPAPZEn)
- - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
+ - 💣 [Ma - ah](http://9gag.com/gag/ayN4NVW)
+ - ⏩ [Today is this guy 85th birthday!](http://9gag.com/gag/adBOvK2)
+ - 👉 [Classic joke on Omegle](http://9gag.com/gag/aryAmw7)<!-- MEMES:END -->
 
 ---
 
