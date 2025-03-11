@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [TikTok&amp;#8217;s mood music will tell teens to &amp;#8216;wind down&amp;#8217; after 10PM](https://www.theverge.com/news/627589/tiktok-wind-down-calming-music-teen-safety)
- - [Our Favorite Robot Vacuum and Mop Is $300 Off](https://www.wired.com/story/roborock-qrevo-s-deal-march-2025/)<!-- TECH:END -->
+ - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
