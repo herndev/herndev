@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study of eight AI search engines found they provided incorrect citations of news articles in 60%+ of queries; Grok 3 answered 94% of the queries incorrectly &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/250310/p28#a250310p28)
- - [Xiaomi 15 Ultra: My Review After 2 Weeks of Testing It Around Europe](https://www.cnet.com/tech/mobile/xiaomi-15-ultra-my-review-after-2-weeks-of-testing-it-around-europe/#ftag=CAD590a51e)
- - [Deal: The Samsung Smart Monitor M8 doubles as a TV and is $300 off!](https://www.androidauthority.com/samsung-smart-monitor-m8-deal-3533716/)<!-- TECH:END -->
+ - [Musk blames ‘massive cyberattack’ for X outages on Monday: Who’s really behind it?](https://www.androidauthority.com/musk-x-outage-massive-cyberattack-3533825/)
+ - [How to speed up new document creation by using templates on Mac](https://appleinsider.com/inside/iwork/tips/how-to-speed-up-new-document-creation-by-using-templates-on-mac?utm_medium=rss)
+ - [A study of eight AI search engines found they provided incorrect citations of news articles in 60%+ of queries; Grok 3 answered 94% of the queries incorrectly &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/250310/p28#a250310p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
