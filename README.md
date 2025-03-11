@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
- - ⏩ [True colors!](http://9gag.com/gag/ayN4NdW)
+ - 💣 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
+ - ⏩ [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
  - 👉 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)<!-- MEMES:END -->
 
 ---
