@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
- - ⏩ [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
- - 👉 [You know...for kids!](http://9gag.com/gag/aMVmVW1)<!-- MEMES:END -->
+ - 💣 [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)
+ - ⏩ [Definitely india](http://9gag.com/gag/aPAPZEn)
+ - 👉 [Ask 9gag](http://9gag.com/gag/awymZpx)<!-- MEMES:END -->
 
 ---
 
