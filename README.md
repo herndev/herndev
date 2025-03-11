@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok will play ‘calming music’ to remind teens to stop using the app](https://www.theverge.com/news/627589/tiktok-wind-down-calming-music-teen-safety)
- - [Pixel 10 series leaked renders suggest a massive camera upgrade for the base Pixel 10](https://www.androidauthority.com/google-pixel-10-series-leaked-renders-3533965/)
- - [Norm Ai, which develops AI agents focused on regulatory compliance, raised a $48M Series B led by Coatue, bringing its total amount raised to $87M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250311/p24#a250311p24)<!-- TECH:END -->
+ - [TikTok rolls out a new feature to show users under 16 a &quot;wind down&quot; reminder after 10PM, interrupting the feed and playing &quot;calming music to help teens relax&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250311/p26#a250311p26)
+ - [Switch emulation on Android just got multiplayer for the first time](https://www.androidauthority.com/switch-emulator-citron-multiplayer-3534010/)
+ - [Google held back Pixel 4A batteries to avoid overheating risk](https://www.theverge.com/news/627543/google-pixel-4a-battery-update-overheating-recall)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
