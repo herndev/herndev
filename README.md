@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases World Update XIX: Brazil, Guyana, Suriname, and French Guiana](https://www.flightsimulator.com/world-update-19/#new_tab)
- - [You can own pieces of anime history, thanks to a new online auction](https://www.polygon.com/anime/537807/ghibli-totoro-akira-cels-auction)
- - [No Rest for the Wicked developer Moon Studios is now &#39;fully independent&#39; after acquiring the rights to the game from Take-Two](https://www.pcgamer.com/games/rpg/no-rest-for-the-wicked-developer-moon-studios-is-now-fully-independent-after-acquiring-the-rights-to-the-game-from-take-two/)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases Local Legend 20: The CAP-4 Paulistinha](https://www.flightsimulator.com/local-legend-20/#new_tab)
+ - [Gore Magala weakness, location, and strategy in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/537062/gore-magala-weakness-location-how-to-beat)
+ - [Jin Dahaad weakness, location, and strategy in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/537066/jin-dahaad-weakness-location-how-to-beat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
