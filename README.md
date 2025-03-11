@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump just posted a cinematic video of Black Lives Matter Plaza being RIPPED APART by crews outside the White House](http://9gag.com/gag/aKG9A4N)
- - ⏩ [How to deal with scammers](http://9gag.com/gag/awym3Z1)
- - 👉 [I got legless last night.](http://9gag.com/gag/a87mAmY)<!-- MEMES:END -->
+ - 💣 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
+ - ⏩ [True colors!](http://9gag.com/gag/ayN4NdW)
+ - 👉 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)<!-- MEMES:END -->
 
 ---
 
