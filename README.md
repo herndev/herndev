@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus&#39; new monitors purify 90% of airborne dust from your desktop and I&#39;ve definitely seen some gnarly gaming setups that would benefit](https://www.pcgamer.com/hardware/gaming-monitors/asus-new-monitors-purify-90-percent-of-airborne-dust-from-your-desktop-and-ive-definitely-seen-some-gnarly-gaming-setups-that-would-benefit/)
- - [The AMD x Sony collab gave us FSR4 and a version will appear in PlayStation next year, too, having &#39;already started to implement the new neural network on PS5 Pro&#39;](https://www.pcgamer.com/hardware/processors/the-amd-x-sony-collab-gave-us-fsr4-and-a-version-will-appear-in-playstation-next-year-too-having-already-started-to-implement-the-new-neural-network-on-ps5-pro/)
- - [Where to find sticks in Hello Kitty Island Adventure](https://www.pcgamer.com/games/life-sim/hello-kitty-island-adventure-sticks/)<!-- GAME:END -->
+ - [5 great games with dragons to play in 2025](https://www.polygon.com/what-to-play/536691/best-dragon-games-2025)
+ - [Specs for Nvidia&#39;s new RTX 5050, 5060, and 5060 Ti GPUs leak out and that 5060 might actually be half decent. If it&#39;s priced right](https://www.pcgamer.com/hardware/graphics-cards/specs-for-nvidias-new-rtx-5050-5060-and-5060-ti-gpus-leak-out-and-that-5060-might-actually-be-half-decent-if-its-priced-right/)
+ - [Asus&#39; new monitors purify 90% of airborne dust from your desktop and I&#39;ve definitely seen some gnarly gaming setups that would benefit](https://www.pcgamer.com/hardware/gaming-monitors/asus-new-monitors-purify-90-percent-of-airborne-dust-from-your-desktop-and-ive-definitely-seen-some-gnarly-gaming-setups-that-would-benefit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
