@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This UGREEN 300W Portable Power Bank is $90 off today!](https://www.androidauthority.com/ugreen-300w-portable-power-bank-deal-3533717/)
- - [TP-Link Deco BE5000 review: whole-home mesh Wi-Fi 7 on a budget](https://appleinsider.com/articles/25/03/11/tp-link-deco-be5000-review-whole-home-mesh-wi-fi-7-on-a-budget?utm_medium=rss)
- - [Ford announces NACS charger integration for EV Routing in Apple Maps](https://appleinsider.com/articles/25/03/11/ford-announces-nacs-charger-integration-for-ev-routing-in-apple-maps?utm_medium=rss)<!-- TECH:END -->
+ - [A study of eight AI search engines found they provided incorrect citations of news articles in 60%+ of queries; Grok 3 answered 94% of the queries incorrectly &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/250310/p28#a250310p28)
+ - [Deal: The Samsung Smart Monitor M8 doubles as a TV and is $300 off!](https://www.androidauthority.com/samsung-smart-monitor-m8-deal-3533716/)
+ - [This UGREEN 300W Portable Power Bank is $90 off today!](https://www.androidauthority.com/ugreen-300w-portable-power-bank-deal-3533717/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
