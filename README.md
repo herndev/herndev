@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Definitely india](http://9gag.com/gag/aPAPZEn)
- - ⏩ [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
- - 👉 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)<!-- MEMES:END -->
+ - 💣 [`Rizz up.. who?!!` - Dad uses slang to destroy slang](http://9gag.com/gag/a87mAR3)
+ - ⏩ [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 👉 [Superpower by 2020](http://9gag.com/gag/an7ng5B)<!-- MEMES:END -->
 
 ---
 
