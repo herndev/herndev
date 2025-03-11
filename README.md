@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Rizz up.. who?!!` - Dad uses slang to destroy slang](http://9gag.com/gag/a87mAR3)
- - ⏩ [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 👉 [Superpower by 2020](http://9gag.com/gag/an7ng5B)<!-- MEMES:END -->
+ - 💣 [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
+ - ⏩ [Definitely india](http://9gag.com/gag/aPAPZEn)
+ - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
 
 ---
 
