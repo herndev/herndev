@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to deal with scammers](http://9gag.com/gag/awym3Z1)
- - ⏩ [Ma - ah](http://9gag.com/gag/ayN4NVW)
- - 👉 [Classic joke on Omegle](http://9gag.com/gag/aryAmw7)<!-- MEMES:END -->
+ - 💣 [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
+ - ⏩ [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
+ - 👉 [You know...for kids!](http://9gag.com/gag/aMVmVW1)<!-- MEMES:END -->
 
 ---
 
