@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meituan, Ele.me, and other Chinese food delivery companies plan to offer social security benefits to riders after JD&#39;s February move, amid government pressure &lpar;Financial Times&rpar;](http://www.techmeme.com/250311/p6#a250311p6)
- - [Cerebras, Groq, and Big Tech target AI inference to challenge Nvidia; Barclays sees inference capex surpassing training in two years, reaching $208.2B in 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250311/p5#a250311p5)
- - [Seagate and other HDD makers bet on tech like heat-assisted magnetic recording to stay competitive; IDC expects data center HDD spending to hit $22B by 2028 &lpar;John Keilman/Wall Street Journal&rpar;](http://www.techmeme.com/250311/p4#a250311p4)<!-- TECH:END -->
+ - [Here’s how you can fix Chromecast authentication errors before Google does](https://www.androidauthority.com/how-to-fix-chromecast-authentication-errors-workarounds-3533849/)
+ - [Gemini’s upcoming video generation feature may have a catch: Here’s what we found &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-video-generation-feature-limits-3533835/)
+ - [Meituan, Ele.me, and other Chinese food delivery companies plan to offer social security benefits to riders after JD&#39;s February move, amid government pressure &lpar;Financial Times&rpar;](http://www.techmeme.com/250311/p6#a250311p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
