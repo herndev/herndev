@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft guild uses exploits to get world &#39;first&#39; on the game&#39;s new raid, gets banned, puts its name backwards and does it again](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-guild-uses-exploits-to-get-world-first-on-the-games-new-raid-gets-banned-puts-its-name-backwards-and-does-it-again/)
- - [Tokyo Ghoul’s Ken Kaneki is the next Killer in Dead by Daylight](https://www.polygon.com/news/537584/dead-by-daylight-tokyo-ghoul-ken-kaneki-killer)
- - [The best baseball player alive is coming to Fortnite, and so is his dog](https://www.pcgamer.com/games/battle-royale/the-best-baseball-player-alive-is-coming-to-fortnite-and-so-is-his-dog/)<!-- GAME:END -->
+ - [Should Age of Empires and Quake be in the &#39;World Video Game Hall of Fame&#39;? You can vote for them to be inducted this year](https://www.pcgamer.com/games/should-age-of-empires-and-quake-be-in-the-world-video-game-hall-of-fame-you-can-vote-for-them-to-be-inducted-this-year/)
+ - [SpongeBob SquarePants Meme Cards Are Coming To Magic The Gathering](https://kotaku.com/spongebob-squarepants-meme-cards-mtg-magic-crossover-1851769162)
+ - [Crocs coming to Fortnite so you can buy Jibbitz for your Peely](https://www.polygon.com/news/537836/crocs-fortnite-jibbitz-peelys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
