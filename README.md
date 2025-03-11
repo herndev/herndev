@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
- - ⏩ [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
- - 👉 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)<!-- MEMES:END -->
+ - 💣 [Let&#39;s party girl](http://9gag.com/gag/ayN4qXX)
+ - ⏩ [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
+ - 👉 [Apparently he was like an on set dad and always looked after the kids. Such a good actor](http://9gag.com/gag/awymmoy)<!-- MEMES:END -->
 
 ---
 
