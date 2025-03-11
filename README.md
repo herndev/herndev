@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Superpower by 2020](http://9gag.com/gag/an7ng5B)
- - ⏩ [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
- - 👉 [Dark humor](http://9gag.com/gag/aO848b3)<!-- MEMES:END -->
+ - 💣 [Trump just posted a cinematic video of Black Lives Matter Plaza being RIPPED APART by crews outside the White House](http://9gag.com/gag/aKG9A4N)
+ - ⏩ [How to deal with scammers](http://9gag.com/gag/awym3Z1)
+ - 👉 [I got legless last night.](http://9gag.com/gag/a87mAmY)<!-- MEMES:END -->
 
 ---
 
