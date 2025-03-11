@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lmao](http://9gag.com/gag/a5QB1qq)
+ - 💣 [I got legless last night.](http://9gag.com/gag/a87mAmY)
  - ⏩ [Ma - ah](http://9gag.com/gag/ayN4NVW)
- - 👉 [Today is this guy 85th birthday!](http://9gag.com/gag/adBOvK2)<!-- MEMES:END -->
+ - 👉 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)<!-- MEMES:END -->
 
 ---
 
