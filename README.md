@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok rolls out a new feature to show users under 16 a &quot;wind down&quot; reminder after 10PM, interrupting the feed and playing &quot;calming music to help teens relax&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250311/p26#a250311p26)
- - [Switch emulation on Android just got multiplayer for the first time](https://www.androidauthority.com/switch-emulator-citron-multiplayer-3534010/)
- - [Google held back Pixel 4A batteries to avoid overheating risk](https://www.theverge.com/news/627543/google-pixel-4a-battery-update-overheating-recall)<!-- TECH:END -->
+ - [With a tea-making fantasy game, Davey Wreden gets real](https://www.theverge.com/games/627549/wanderstop-davey-wreden-interview)
+ - [OpenAI launches new tools to help developers build AI agents](https://www.theverge.com/news/627556/openai-ai-agents-responses-api-agents-sdk)
+ - [Media Matters sues X to stop lawsuits outside of the US](https://www.theverge.com/news/627665/x-musk-media-matters-lawsuit-damages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
