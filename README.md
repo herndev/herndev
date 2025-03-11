@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how you can fix Chromecast authentication errors before Google does](https://www.androidauthority.com/how-to-fix-chromecast-authentication-errors-workarounds-3533849/)
- - [Gemini’s upcoming video generation feature may have a catch: Here’s what we found &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-video-generation-feature-limits-3533835/)
- - [Meituan, Ele.me, and other Chinese food delivery companies plan to offer social security benefits to riders after JD&#39;s February move, amid government pressure &lpar;Financial Times&rpar;](http://www.techmeme.com/250311/p6#a250311p6)<!-- TECH:END -->
+ - [March Play System update brings new Cast UI, improved smart home connectivity, and more](https://www.androidauthority.com/google-play-system-update-march-2025-3533853/)
+ - [A look at Amazon&#39;s growing array of warehouse robots, from robotic arms to heavy lift units and sorting machines; Amazon Robotics has rolled out 750K+ devices &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250311/p8#a250311p8)
+ - [Sources: Kirkland-based enterprise cybersecurity startup Chainguard is in talks to raise $350M led by Kleiner at a $3.5B valuation, up from $1.1B in July 2024 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250311/p7#a250311p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
