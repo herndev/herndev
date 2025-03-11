@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The creators of the Las Vegas Sphere want to open smaller mini-Spheres](https://www.theverge.com/news/627566/mini-sphere-entertainment-vegas-immersive-venue)
- - [Retroid’s next gaming handheld will have a new, largely untested chipset](https://www.androidauthority.com/retroid-pocket-classic-specs-chipset-3533904/)
- - [What Really Happened With the DDoS Attacks That Took Down X](https://www.wired.com/story/x-ddos-attack-march-2025/)<!-- TECH:END -->
+ - [TikTok will play ‘calming music’ to remind teens to stop using the app](https://www.theverge.com/news/627589/tiktok-wind-down-calming-music-teen-safety)
+ - [Pixel 10 series leaked renders suggest a massive camera upgrade for the base Pixel 10](https://www.androidauthority.com/google-pixel-10-series-leaked-renders-3533965/)
+ - [Norm Ai, which develops AI agents focused on regulatory compliance, raised a $48M Series B led by Coatue, bringing its total amount raised to $87M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250311/p24#a250311p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
