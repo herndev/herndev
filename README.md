@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thailand&#39;s SEC approves Tether&#39;s USDT and Circle&#39;s USDC for exchange trading, with both available in Thailand on March 16, signaling growing stablecoin adoption &lpar;Liz Napolitano/Decrypt&rpar;](http://www.techmeme.com/250311/p2#a250311p2)
- - [ServiceNow says it plans to acquire agentic AI company Moveworks for $2.85B in its largest-ever acquisition, a cash and stock deal set to close in H2 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250311/p1#a250311p1)
- - [Musk blames ‘massive cyberattack’ for X outages on Monday: Who’s really behind it?](https://www.androidauthority.com/musk-x-outage-massive-cyberattack-3533825/)<!-- TECH:END -->
+ - [Seagate and other HDD makers bet on tech like heat-assisted magnetic recording to stay competitive; IDC expects data center HDD spending to hit $22B by 2028 &lpar;John Keilman/Wall Street Journal&rpar;](http://www.techmeme.com/250311/p4#a250311p4)
+ - [Apple next big software move could make Android’s fragmentation even more visible](https://www.androidauthority.com/apple-software-overhaul-should-android-be-worried-3533838/)
+ - [Infinite Uptime, which uses AI and proprietary sensors to offer predictive maintenance solutions for factories, raised a $35M Series C led by Avataar Ventures &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250311/p3#a250311p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
