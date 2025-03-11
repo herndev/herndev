@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Did we get Lumon’s version of Severance’s The You You Are?](https://www.polygon.com/tv/536590/severance-you-are-book-conspiracy-trust-me)
- - [WoW&#39;s nerfed its poor Delve companion into a dwarf-shaped crater after his tank spec made them too easy, and people aren&#39;t happy](https://www.pcgamer.com/games/world-of-warcraft/wows-nerfed-its-poor-delve-companion-into-a-dwarf-shaped-crater-after-his-tank-spec-made-them-too-easy-and-people-arent-happy/)
- - [Last of Us creator Neil Druckmann reveals a ton about his new game, Intergalactic: The Heretic Prophet](https://www.polygon.com/news/537544/neil-druckmann-naughty-dog-intergalactic-heretic-prophet-religion)<!-- GAME:END -->
+ - [BlizzCon Returns In 2026](http://news.blizzard.com/article/24178650/#new_tab)
+ - [PCG&#39;s best city builder of 2024 is adding a map with a gigantic hill in the middle: the perfect spot for your next castle](https://www.pcgamer.com/games/strategy/pcgs-best-city-builder-of-2024-is-adding-a-map-with-a-gigantic-hill-in-the-middle-the-perfect-spot-for-your-next-castle/)
+ - [NZXT H7 Flow review &lpar;2024 Edition&rpar;](https://www.pcgamer.com/hardware/pc-cases/nzxt-h7-flow-review-2024-edition/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
