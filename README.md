@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [&#39;My own voice was driving me f***ing insane&#39;: GTA Vice City actor admits even he couldn&#39;t get past his own, notoriously difficult mission](https://www.pcgamer.com/games/action/my-own-voice-was-driving-me-f-ing-insane-gta-vice-city-actor-admits-even-he-couldnt-get-past-his-own-notoriously-difficult-mission/)
- - [Blue Lock Rivals codes and how to redeem them](https://www.pcgamer.com/games/roblox/blue-lock-rivals-codes/)<!-- GAME:END -->
+ - [Did we get Lumon’s version of Severance’s The You You Are?](https://www.polygon.com/tv/536590/severance-you-are-book-conspiracy-trust-me)
+ - [WoW&#39;s nerfed its poor Delve companion into a dwarf-shaped crater after his tank spec made them too easy, and people aren&#39;t happy](https://www.pcgamer.com/games/world-of-warcraft/wows-nerfed-its-poor-delve-companion-into-a-dwarf-shaped-crater-after-his-tank-spec-made-them-too-easy-and-people-arent-happy/)
+ - [Last of Us creator Neil Druckmann reveals a ton about his new game, Intergalactic: The Heretic Prophet](https://www.polygon.com/news/537544/neil-druckmann-naughty-dog-intergalactic-heretic-prophet-religion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
