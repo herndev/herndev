@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BlizzCon Returns In 2026](http://news.blizzard.com/article/24178650/#new_tab)
- - [PCG&#39;s best city builder of 2024 is adding a map with a gigantic hill in the middle: the perfect spot for your next castle](https://www.pcgamer.com/games/strategy/pcgs-best-city-builder-of-2024-is-adding-a-map-with-a-gigantic-hill-in-the-middle-the-perfect-spot-for-your-next-castle/)
- - [NZXT H7 Flow review &lpar;2024 Edition&rpar;](https://www.pcgamer.com/hardware/pc-cases/nzxt-h7-flow-review-2024-edition/)<!-- GAME:END -->
+ - [Coder faces 10 years&#39; jailtime for creating a &#39;kill switch&#39; that screwed-up his employers&#39; systems when he was laid off](https://www.pcgamer.com/gaming-industry/coder-faces-10-years-jailtime-for-creating-a-kill-switch-that-screwed-up-his-employers-systems-when-he-was-laid-off/)
+ - [New modder tool makes it easier than ever to swap AMD&#39;s FSR 4 scaling for Nvidia&#39;s DLSS or Intel&#39;s XeSS and vice versa](https://www.pcgamer.com/hardware/graphics-cards/new-modder-tool-makes-it-easier-than-ever-to-swap-amds-fsr-4-scaling-for-nvidias-dlss-or-intels-xess-and-vice-versa/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
