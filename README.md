@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [March Play System update brings new Cast UI, improved smart home connectivity, and more](https://www.androidauthority.com/google-play-system-update-march-2025-3533853/)
- - [A look at Amazon&#39;s growing array of warehouse robots, from robotic arms to heavy lift units and sorting machines; Amazon Robotics has rolled out 750K+ devices &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250311/p8#a250311p8)
- - [Sources: Kirkland-based enterprise cybersecurity startup Chainguard is in talks to raise $350M led by Kleiner at a $3.5B valuation, up from $1.1B in July 2024 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250311/p7#a250311p7)<!-- TECH:END -->
+ - [Google Gemini could soon be answering questions about your video uploads &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-video-upload-feature-3533744/)
+ - [These are my 9 favorite watch faces for the OnePlus Watch 3 and 2](https://www.androidauthority.com/best-oneplus-watch-3-faces-3532091/)
+ - [As automation and robotics undergo a revolution, a call to action for the US and the West, which are missing the new labor economy that China is set to capture &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250311/p12#a250311p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
