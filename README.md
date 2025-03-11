@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Mesh raised an $82M Series B, settled mostly in PayPal&#39;s PYUSD stablecoin and led by Paradigm, to expand its stablecoin-based payments settlement network &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250311/p40#a250311p40)
- - [Court filings: Google owns a 14% stake in Anthropic but holds no voting rights, board seats, or board observer rights; it aims to invest $750M more in September &lpar;New York Times&rpar;](http://www.techmeme.com/250311/p39#a250311p39)<!-- TECH:END -->
+ - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
+ - [&#39;Metallica&#39; immersive experience for Apple Vision Pro will be available on March 14](https://appleinsider.com/articles/25/03/11/metallica-immersive-experience-for-apple-vision-pro-will-be-available-on-march-14?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
