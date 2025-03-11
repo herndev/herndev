@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 Edge rumors: Release date, leaked specs, rumored price, and more](https://www.androidauthority.com/samsung-galaxy-s25-edge-3519665/)
- - [Delivery Hero says Uber has terminated its $950M deal to acquire Foodpanda in Taiwan and will pay a ~$250M termination fee after Taiwan&#39;s FTC blocked the deal &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p36#a250311p36)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Mesh raised an $82M Series B, settled mostly in PayPal&#39;s PYUSD stablecoin and led by Paradigm, to expand its stablecoin-based payments settlement network &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250311/p40#a250311p40)
+ - [Court filings: Google owns a 14% stake in Anthropic but holds no voting rights, board seats, or board observer rights; it aims to invest $750M more in September &lpar;New York Times&rpar;](http://www.techmeme.com/250311/p39#a250311p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
