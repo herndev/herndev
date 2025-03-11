@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With a tea-making fantasy game, Davey Wreden gets real](https://www.theverge.com/games/627549/wanderstop-davey-wreden-interview)
- - [OpenAI launches new tools to help developers build AI agents](https://www.theverge.com/news/627556/openai-ai-agents-responses-api-agents-sdk)
- - [Media Matters sues X to stop lawsuits outside of the US](https://www.theverge.com/news/627665/x-musk-media-matters-lawsuit-damages)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [TikTok&amp;#8217;s mood music will tell teens to &amp;#8216;wind down&amp;#8217; after 10PM](https://www.theverge.com/news/627589/tiktok-wind-down-calming-music-teen-safety)
+ - [Our Favorite Robot Vacuum and Mop Is $300 Off](https://www.wired.com/story/roborock-qrevo-s-deal-march-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
