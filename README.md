@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today is this guy 85th birthday!](http://9gag.com/gag/adBOvK2)
+ - 💣 [How to deal with scammers](http://9gag.com/gag/awym3Z1)
  - ⏩ [Ma - ah](http://9gag.com/gag/ayN4NVW)
  - 👉 [Classic joke on Omegle](http://9gag.com/gag/aryAmw7)<!-- MEMES:END -->
 
