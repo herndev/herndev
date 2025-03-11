@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
- - [Global smartwatch shipments fell 7% YoY in 2024, the market&#39;s first ever decline; Apple fell 19% while Huawei grew 35%, Xiaomi grew 135%, and Samsung grew 3% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250311/p16#a250311p16)
- - [Everyone is a loser in the Apple Intelligence race](https://appleinsider.com/articles/25/03/11/everyone-is-a-loser-in-the-apple-intelligence-race?utm_medium=rss)<!-- TECH:END -->
+ - [Apple MacBook Air M4 review: fast, thin and light, great keyboard and touchpad, and excellent battery life, but could use more ports and only a 60Hz screen &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250311/p20#a250311p20)
+ - [Apple MacBook Air &lpar;13-Inch, M4&rpar; Review: More Power For Less Money](https://www.wired.com/review/macbook-air-13-inch-2025/)
+ - [Apple Mac Studio &lpar;M4 Max, 2025&rpar; Review: Small but Mighty](https://www.wired.com/review/apple-mac-studio-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
