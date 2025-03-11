@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 great games with dragons to play in 2025](https://www.polygon.com/what-to-play/536691/best-dragon-games-2025)
- - [Specs for Nvidia&#39;s new RTX 5050, 5060, and 5060 Ti GPUs leak out and that 5060 might actually be half decent. If it&#39;s priced right](https://www.pcgamer.com/hardware/graphics-cards/specs-for-nvidias-new-rtx-5050-5060-and-5060-ti-gpus-leak-out-and-that-5060-might-actually-be-half-decent-if-its-priced-right/)
- - [Asus&#39; new monitors purify 90% of airborne dust from your desktop and I&#39;ve definitely seen some gnarly gaming setups that would benefit](https://www.pcgamer.com/hardware/gaming-monitors/asus-new-monitors-purify-90-percent-of-airborne-dust-from-your-desktop-and-ive-definitely-seen-some-gnarly-gaming-setups-that-would-benefit/)<!-- GAME:END -->
+ - [The Last Of Us Has Us Wishing These 8 TV Shows Were Video Games](https://kotaku.com/tv-show-video-games-paradise-the-last-of-us-the-boys-1851768791)
+ - [Who Is The Best Boarding Squad Leader In Like A Dragon: Pirate Yakuza In Hawaii?](https://kotaku.com/best-squad-leader-like-a-dragon-pirate-yakuza-hawaii-1851769004)
+ - [5 great games with dragons to play in 2025](https://www.polygon.com/what-to-play/536691/best-dragon-games-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
