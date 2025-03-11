@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini could soon be answering questions about your video uploads &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-video-upload-feature-3533744/)
- - [These are my 9 favorite watch faces for the OnePlus Watch 3 and 2](https://www.androidauthority.com/best-oneplus-watch-3-faces-3532091/)
- - [As automation and robotics undergo a revolution, a call to action for the US and the West, which are missing the new labor economy that China is set to capture &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250311/p12#a250311p12)<!-- TECH:END -->
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
+ - [Global smartwatch shipments fell 7% YoY in 2024, the market&#39;s first ever decline; Apple fell 19% while Huawei grew 35%, Xiaomi grew 135%, and Samsung grew 3% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250311/p16#a250311p16)
+ - [Everyone is a loser in the Apple Intelligence race](https://appleinsider.com/articles/25/03/11/everyone-is-a-loser-in-the-apple-intelligence-race?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
