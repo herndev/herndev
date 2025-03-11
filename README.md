@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Should Age of Empires and Quake be in the &#39;World Video Game Hall of Fame&#39;? You can vote for them to be inducted this year](https://www.pcgamer.com/games/should-age-of-empires-and-quake-be-in-the-world-video-game-hall-of-fame-you-can-vote-for-them-to-be-inducted-this-year/)
- - [SpongeBob SquarePants Meme Cards Are Coming To Magic The Gathering](https://kotaku.com/spongebob-squarepants-meme-cards-mtg-magic-crossover-1851769162)
- - [Crocs coming to Fortnite so you can buy Jibbitz for your Peely](https://www.polygon.com/news/537836/crocs-fortnite-jibbitz-peelys)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases World Update XIX: Brazil, Guyana, Suriname, and French Guiana](https://www.flightsimulator.com/world-update-19/#new_tab)
+ - [You can own pieces of anime history, thanks to a new online auction](https://www.polygon.com/anime/537807/ghibli-totoro-akira-cels-auction)
+ - [No Rest for the Wicked developer Moon Studios is now &#39;fully independent&#39; after acquiring the rights to the game from Take-Two](https://www.pcgamer.com/games/rpg/no-rest-for-the-wicked-developer-moon-studios-is-now-fully-independent-after-acquiring-the-rights-to-the-game-from-take-two/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
