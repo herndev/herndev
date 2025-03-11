@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coder faces 10 years&#39; jailtime for creating a &#39;kill switch&#39; that screwed-up his employers&#39; systems when he was laid off](https://www.pcgamer.com/gaming-industry/coder-faces-10-years-jailtime-for-creating-a-kill-switch-that-screwed-up-his-employers-systems-when-he-was-laid-off/)
- - [New modder tool makes it easier than ever to swap AMD&#39;s FSR 4 scaling for Nvidia&#39;s DLSS or Intel&#39;s XeSS and vice versa](https://www.pcgamer.com/hardware/graphics-cards/new-modder-tool-makes-it-easier-than-ever-to-swap-amds-fsr-4-scaling-for-nvidias-dlss-or-intels-xess-and-vice-versa/)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [World of Warcraft guild uses exploits to get world &#39;first&#39; on the game&#39;s new raid, gets banned, puts its name backwards and does it again](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-guild-uses-exploits-to-get-world-first-on-the-games-new-raid-gets-banned-puts-its-name-backwards-and-does-it-again/)
+ - [Tokyo Ghoul’s Ken Kaneki is the next Killer in Dead by Daylight](https://www.polygon.com/news/537584/dead-by-daylight-tokyo-ghoul-ken-kaneki-killer)
+ - [The best baseball player alive is coming to Fortnite, and so is his dog](https://www.pcgamer.com/games/battle-royale/the-best-baseball-player-alive-is-coming-to-fortnite-and-so-is-his-dog/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
