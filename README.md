@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meituan, Ele.me, and other Chinese food delivery companies plan to offer social security benefits to riders after JD&#39;s February move, amid government pressure &lpar;Financial Times&rpar;](http://www.techmeme.com/250311/p6#a250311p6)
  - [Cerebras, Groq, and Big Tech target AI inference to challenge Nvidia; Barclays sees inference capex surpassing training in two years, reaching $208.2B in 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250311/p5#a250311p5)
- - [Seagate and other HDD makers bet on tech like heat-assisted magnetic recording to stay competitive; IDC expects data center HDD spending to hit $22B by 2028 &lpar;John Keilman/Wall Street Journal&rpar;](http://www.techmeme.com/250311/p4#a250311p4)
- - [Apple’s next big software move could make Android’s fragmentation even more visible](https://www.androidauthority.com/apple-software-overhaul-should-android-be-worried-3533838/)<!-- TECH:END -->
+ - [Seagate and other HDD makers bet on tech like heat-assisted magnetic recording to stay competitive; IDC expects data center HDD spending to hit $22B by 2028 &lpar;John Keilman/Wall Street Journal&rpar;](http://www.techmeme.com/250311/p4#a250311p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
