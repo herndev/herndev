@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cerebras, Groq, and Big Tech target AI inference to challenge Nvidia; Barclays sees inference capex surpassing training in two years, reaching $208.2B in 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250311/p5#a250311p5)
  - [Seagate and other HDD makers bet on tech like heat-assisted magnetic recording to stay competitive; IDC expects data center HDD spending to hit $22B by 2028 &lpar;John Keilman/Wall Street Journal&rpar;](http://www.techmeme.com/250311/p4#a250311p4)
- - [Apple next big software move could make Android’s fragmentation even more visible](https://www.androidauthority.com/apple-software-overhaul-should-android-be-worried-3533838/)
- - [Infinite Uptime, which uses AI and proprietary sensors to offer predictive maintenance solutions for factories, raised a $35M Series C led by Avataar Ventures &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250311/p3#a250311p3)<!-- TECH:END -->
+ - [Apple’s next big software move could make Android’s fragmentation even more visible](https://www.androidauthority.com/apple-software-overhaul-should-android-be-worried-3533838/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
