@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s party girl](http://9gag.com/gag/ayN4qXX)
+ - 💣 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
  - ⏩ [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
- - 👉 [Apparently he was like an on set dad and always looked after the kids. Such a good actor](http://9gag.com/gag/awymmoy)<!-- MEMES:END -->
+ - 👉 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)<!-- MEMES:END -->
 
 ---
 
