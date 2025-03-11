@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us Has Us Wishing These 8 TV Shows Were Video Games](https://kotaku.com/tv-show-video-games-paradise-the-last-of-us-the-boys-1851768791)
- - [Who Is The Best Boarding Squad Leader In Like A Dragon: Pirate Yakuza In Hawaii?](https://kotaku.com/best-squad-leader-like-a-dragon-pirate-yakuza-hawaii-1851769004)
- - [5 great games with dragons to play in 2025](https://www.polygon.com/what-to-play/536691/best-dragon-games-2025)<!-- GAME:END -->
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [&#39;My own voice was driving me f***ing insane&#39;: GTA Vice City actor admits even he couldn&#39;t get past his own, notoriously difficult mission](https://www.pcgamer.com/games/action/my-own-voice-was-driving-me-f-ing-insane-gta-vice-city-actor-admits-even-he-couldnt-get-past-his-own-notoriously-difficult-mission/)
+ - [Blue Lock Rivals codes and how to redeem them](https://www.pcgamer.com/games/roblox/blue-lock-rivals-codes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
