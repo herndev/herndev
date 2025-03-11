@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - ⏩ [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
- - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
+ - 💣 [Classic joke on Omegle](http://9gag.com/gag/aryAmw7)
+ - ⏩ [Today is this guy 85th birthday!](http://9gag.com/gag/adBOvK2)
+ - 👉 [Bookmark for later](http://9gag.com/gag/aPAPg4V)<!-- MEMES:END -->
 
 ---
 
