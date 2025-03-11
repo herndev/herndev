@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classic joke on Omegle](http://9gag.com/gag/aryAmw7)
- - ⏩ [Today is this guy 85th birthday!](http://9gag.com/gag/adBOvK2)
- - 👉 [Bookmark for later](http://9gag.com/gag/aPAPg4V)<!-- MEMES:END -->
+ - 💣 [Lmao](http://9gag.com/gag/a5QB1qq)
+ - ⏩ [Ma - ah](http://9gag.com/gag/ayN4NVW)
+ - 👉 [Today is this guy 85th birthday!](http://9gag.com/gag/adBOvK2)<!-- MEMES:END -->
 
 ---
 
