@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases Local Legend 20: The CAP-4 Paulistinha](https://www.flightsimulator.com/local-legend-20/#new_tab)
- - [Gore Magala weakness, location, and strategy in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/537062/gore-magala-weakness-location-how-to-beat)
- - [Jin Dahaad weakness, location, and strategy in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/537066/jin-dahaad-weakness-location-how-to-beat)<!-- GAME:END -->
+ - [Titmouse animation studio announces ‘cartoon delivery service’ on Churp.tv](https://www.polygon.com/tv/537585/churp-subscription-titmouse-animation)
+ - [Here&#39;s a roguelite dungeon crawler Steam reviewers call &#39;a botanical Diablo&#39; and &#39;like Cult of the Lamb&#39; except you manage a mystical garden](https://www.pcgamer.com/games/action/heres-a-roguelite-dungeon-crawler-steam-reviewers-call-a-botanical-diablo-and-like-cult-of-the-lamb-except-you-manage-a-mystical-garden/)
+ - [Oops! Bungie rolled out Destiny 2&#39;s Rite of the Nine event three weeks early, and new loot is already dropping](https://www.pcgamer.com/games/fps/oops-bungie-rolled-out-destiny-2s-rite-of-the-nine-event-three-weeks-early-and-new-loot-is-already-dropping/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
