@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
- - ⏩ [WHERE ARE YOU](https://www.reddit.com/r/funny/comments/1j8vil4/where_are_you/)
- - 👉 [Biggus dickus was famous there](http://9gag.com/gag/aoyVW02)<!-- MEMES:END -->
+ - 💣 [Superpower by 2020](http://9gag.com/gag/an7ng5B)
+ - ⏩ [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
+ - 👉 [Dark humor](http://9gag.com/gag/aO848b3)<!-- MEMES:END -->
 
 ---
 
