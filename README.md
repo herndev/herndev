@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple MacBook Air M4 review: fast, thin and light, great keyboard and touchpad, and excellent battery life, but could use more ports and only a 60Hz screen &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250311/p20#a250311p20)
- - [Apple MacBook Air &lpar;13-Inch, M4&rpar; Review: More Power For Less Money](https://www.wired.com/review/macbook-air-13-inch-2025/)
- - [Apple Mac Studio &lpar;M4 Max, 2025&rpar; Review: Small but Mighty](https://www.wired.com/review/apple-mac-studio-2025/)<!-- TECH:END -->
+ - [The creators of the Las Vegas Sphere want to open smaller mini-Spheres](https://www.theverge.com/news/627566/mini-sphere-entertainment-vegas-immersive-venue)
+ - [Retroid’s next gaming handheld will have a new, largely untested chipset](https://www.androidauthority.com/retroid-pocket-classic-specs-chipset-3533904/)
+ - [What Really Happened With the DDoS Attacks That Took Down X](https://www.wired.com/story/x-ddos-attack-march-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
