@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)
- - ⏩ [Definitely india](http://9gag.com/gag/aPAPZEn)
- - 👉 [Ask 9gag](http://9gag.com/gag/awymZpx)<!-- MEMES:END -->
+ - 💣 [Dark humor](http://9gag.com/gag/aO848b3)
+ - ⏩ [True colors!](http://9gag.com/gag/ayN4NdW)
+ - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
 
 ---
 
