@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
- - ⏩ [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)
- - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
+ - 💣 [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)
+ - ⏩ [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
+ - 👉 [Finally it happened to me, I&#39;m in love.](http://9gag.com/gag/aMVmxzA)<!-- MEMES:END -->
 
 ---
 
