@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Titmouse animation studio announces ‘cartoon delivery service’ on Churp.tv](https://www.polygon.com/tv/537585/churp-subscription-titmouse-animation)
- - [Here&#39;s a roguelite dungeon crawler Steam reviewers call &#39;a botanical Diablo&#39; and &#39;like Cult of the Lamb&#39; except you manage a mystical garden](https://www.pcgamer.com/games/action/heres-a-roguelite-dungeon-crawler-steam-reviewers-call-a-botanical-diablo-and-like-cult-of-the-lamb-except-you-manage-a-mystical-garden/)
- - [Oops! Bungie rolled out Destiny 2&#39;s Rite of the Nine event three weeks early, and new loot is already dropping](https://www.pcgamer.com/games/fps/oops-bungie-rolled-out-destiny-2s-rite-of-the-nine-event-three-weeks-early-and-new-loot-is-already-dropping/)<!-- GAME:END -->
+ - [Rebellion CEO seems kind of awed by major studios making massive videogames: &#39;How do you organize a game that has 2,000 people working on it?&#39;](https://www.pcgamer.com/gaming-industry/rebellion-ceo-seems-kind-of-awed-by-major-studios-making-massive-videogames-how-do-you-organize-a-game-that-has-2-000-people-working-on-it/)
+ - [Netflix’s Devil May Cry is already living up to its source material’s style](https://www.polygon.com/trailer/538114/devil-may-cry-trailer-release-announcement)
+ - [Titmouse animation studio announces ‘cartoon delivery service’ on Churp.tv](https://www.polygon.com/tv/537585/churp-subscription-titmouse-animation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
