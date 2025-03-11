@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Anthropic&#39;s annualized revenue grew from $1B at the end of 2024 to $1.4B in early March; Manus uses tools including Claude 3.7 Sonnet to power its agent &lpar;The Information&rpar;](http://www.techmeme.com/250311/p35#a250311p35)
- - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)
- - [This Is How Measles Kills](https://www.wired.com/story/this-is-how-measles-can-kill-texas-new-mexico-outbreak-vaccines-vitamin-a/)<!-- TECH:END -->
+ - [Samsung Galaxy S25 Edge rumors: Release date, leaked specs, rumored price, and more](https://www.androidauthority.com/samsung-galaxy-s25-edge-3519665/)
+ - [Delivery Hero says Uber has terminated its $950M deal to acquire Foodpanda in Taiwan and will pay a ~$250M termination fee after Taiwan&#39;s FTC blocked the deal &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p36#a250311p36)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
