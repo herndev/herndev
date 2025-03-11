@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dark humor](http://9gag.com/gag/aO848b3)
- - ⏩ [True colors!](http://9gag.com/gag/ayN4NdW)
- - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
+ - 💣 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
+ - ⏩ [WHERE ARE YOU](https://www.reddit.com/r/funny/comments/1j8vil4/where_are_you/)
+ - 👉 [Biggus dickus was famous there](http://9gag.com/gag/aoyVW02)<!-- MEMES:END -->
 
 ---
 
