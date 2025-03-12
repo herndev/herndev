@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, March 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-12-2025/)
  - [The latest Monster Hunter Wilds event quest gives piles of Armor Spheres for hunting a Chatacabra, making this a very bad week to be a frog in the Forbidden Lands](https://www.pcgamer.com/games/action/the-latest-monster-hunter-wilds-event-quest-gives-piles-of-armor-spheres-for-hunting-a-chatacabra-making-this-a-very-bad-week-to-be-a-frog-in-the-forbidden-lands/)
- - [PlayStation Store Mega March promotion starts March 12](https://blog.playstation.com/2025/03/11/playstation-store-mega-march-promotion-starts-march-12/)
  - [PlayStation Store Mega March promotion starts March 12](https://blog.playstation.com/2025/03/11/playstation-store-mega-march-promotion-starts-march-12/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
