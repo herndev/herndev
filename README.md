@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Simpler times](http://9gag.com/gag/a0eVnmO)
- - ⏩ [If you don&#39;t pay you don&#39;t get the bridge](http://9gag.com/gag/amoGxg4)
- - 👉 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)<!-- MEMES:END -->
+ - 💣 [People are people.](http://9gag.com/gag/aqy86xY)
+ - ⏩ [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
+ - 👉 [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)<!-- MEMES:END -->
 
 ---
 
