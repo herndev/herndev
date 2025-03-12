@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft isn’t launching its Xbox handheld this year, but Asus might be](https://www.theverge.com/notepad-microsoft-newsletter/628073/microsoft-xbox-handheld-project-kennan-notepad)
- - [The Violent Rise of ‘No Lives Matter’](https://www.wired.com/story/no-lives-matter-764-violence/)
- - [The US FTC asks a judge to delay its case accusing Amazon of deceptive practices with Amazon Prime, citing staffing shortfalls &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250312/p27#a250312p27)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [FCC chairman asks the public to list every regulation he should remove](https://www.theverge.com/news/628288/fcc-chair-brendan-carr-deregulate-delete)
+ - [A Trump official has been moonlighting as a fashion influencer](https://www.theverge.com/news/628067/opm-fashion-influencer-affiliate-links-mclaurine-pinover)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
