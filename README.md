@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Vacuums for Pet Hair &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-hair-vacuums/)
- - [Censorship: These are the topics Gemini won’t talk about](https://www.androidauthority.com/gemini-censorship-3533925/)
- - [I outsourced my memory to an AI pin and all I got was fanfiction](https://www.theverge.com/reviews/627056/bee-review-ai-wearable)<!-- TECH:END -->
+ - [All this bad AI is wrecking a whole generation of gadgets](https://www.theverge.com/gadgets/628039/bad-ai-gadgets-siri-alexa)
+ - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)
+ - [Pokémon with guns? All the latest on viral gaming hit Palworld](https://www.theverge.com/24048972/palworld-news-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
