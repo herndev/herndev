@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brave bad boy](http://9gag.com/gag/a7oe0Yq)
- - ⏩ [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
- - 👉 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)<!-- MEMES:END -->
+ - 💣 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
+ - ⏩ [Title](http://9gag.com/gag/aqy86g7)
+ - 👉 [Can&#39;t do it any different](http://9gag.com/gag/a1mD51P)<!-- MEMES:END -->
 
 ---
 
