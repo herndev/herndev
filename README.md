@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind&amp;#8217;s new AI models help robots perform physical tasks, even without training](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models)
- - [How to use robotic vacuums with Apple Home &amp; Siri](https://appleinsider.com/inside/apple-home/tips/how-to-use-robotic-vacuums-with-apple-home-siri?utm_medium=rss)
- - [Binance says Abu Dhabi&#39;s MGX acquired a minority stake for $2B, the first institutional investment in the exchange and MGX&#39;s first entry into the crypto &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250312/p24#a250312p24)<!-- TECH:END -->
+ - [The Tile Pro has dropped to its best price ever just in time for spring break](https://www.theverge.com/good-deals/628113/tile-pro-tracker-anker-maggo-usb-c-adapter-deal-sale)
+ - [Genshin Impact on Android is finally adding controller support, four years after iOS](https://www.androidauthority.com/genshin-impact-android-controller-support-update-5-5-3534392/)
+ - [Investigation: AI-powered student monitoring tool Gaggle, used to track ~6M US student, isn&#39;t always secure, and there&#39;s no research showing it increases safety &lpar;Associated Press&rpar;](http://www.techmeme.com/250312/p26#a250312p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
