@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slow &amp; broken media transfers in Google Messages? Google is on it](https://www.androidauthority.com/google-messages-media-sharing-problem-fix-3534212/)
- - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)
- - [Inside Google’s plan to take on the world’s fastest growing smartphone market](https://www.androidauthority.com/google-india-premium-smartphone-market-plans-interview-mike-abary-3533879/)<!-- TECH:END -->
+ - [Spotify says it paid $10B+ in royalties in 2024, &quot;the largest in music history&quot;, making up 60%+ of its $17.13B+ 2024 revenue, with ~1,500 artists earning $1M+ &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/250312/p4#a250312p4)
+ - [Google Photos on Android now gives you more power over your backups](https://www.androidauthority.com/google-photos-undo-device-backup-3534229/)
+ - [Sources: TSMC has pitched Nvidia, AMD, Broadcom, and Qualcomm about taking stakes in a JV to run Intel Foundry; TSMC would hold no more than a 50% stake &lpar;Reuters&rpar;](http://www.techmeme.com/250312/p3#a250312p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
