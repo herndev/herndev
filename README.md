@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Corsair&#39;s Custom Labs is now available in Europe, allowing you to make your gear as cute or ugly as you want and no-one will stop you](https://www.pcgamer.com/hardware/corsairs-custom-labs-is-now-available-in-europe-allowing-you-to-make-your-gear-as-cute-or-ugly-as-you-want-and-no-one-will-stop-you/)
- - [Trump says the United States is already talking to potential TikTok buyers: &#39;We&#39;re dealing with four different groups, and a lot of people want it ... all four are good&#39;](https://www.pcgamer.com/hardware/trump-says-the-united-states-is-already-talking-to-potential-tiktok-buyers-were-dealing-with-four-different-groups-and-a-lot-of-people-want-it-all-four-are-good/)
- - [Expelled! is the most fun you can have being accused of attempted murder](https://www.polygon.com/gaming/537355/expelled-review-inkle-overboard-narrative-mystery-game)<!-- GAME:END -->
+ - [This water-cooled gaming laptop packs a full-size desktop RTX 5090 and even fits in a backpack, but I sure wouldn&#39;t want it in mine](https://www.pcgamer.com/hardware/gaming-laptops/this-water-cooled-laptop-packs-a-full-size-desktop-rtx-5090-and-even-fits-in-a-backpack-but-i-sure-wouldnt-want-it-in-mine/)
+ - [Samsung&#39;s handheld prototype delivers folding phone screens to Switch-like gaming hardware, and I am absolutely here for it](https://www.pcgamer.com/hardware/handheld-gaming-pcs/samsungs-handheld-prototype-delivers-folding-phone-screens-to-switch-like-gaming-hardware-and-i-am-absolutely-here-for-it/)
+ - [Corsair&#39;s Custom Labs is now available in Europe, allowing you to make your gear as cute or ugly as you want and no-one will stop you](https://www.pcgamer.com/hardware/corsairs-custom-labs-is-now-available-in-europe-allowing-you-to-make-your-gear-as-cute-or-ugly-as-you-want-and-no-one-will-stop-you/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
