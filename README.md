@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Princess Mononoke is coming to IMAX for the first time, with two brand-new posters](https://www.polygon.com/anime/537256/princess-mononoke-2025-imax-debut-new-poster)
- - [XFX is letting you add customisable 3D printed wings to its Quicksilver RX 9070-series graphics cards](https://www.pcgamer.com/hardware/graphics-cards/xfx-is-letting-you-add-customisable-3d-printed-wings-to-its-quicksilver-rx-9070-series-graphics-cards/)
- - [Save 22% on the new Avatar: The Last Airbender comics box set](https://www.polygon.com/good-deals/538186/avatar-last-airbender-comics-box-set-sale)<!-- GAME:END -->
+ - [Fielding may not be fun, but it could be more rewarding in MLB The Show 25’s career mode](https://www.polygon.com/sports-games/538047/mlb-the-show-25-fielding-rtts-preview)
+ - [Zenless Zone Zero voice actors replaced as union negotiation remains ‘far apart’ on AI protections](https://www.polygon.com/news/538170/zenless-zoice-zero-voice)
+ - [We&#39;ve just got a first look at Vergil in Netflix&#39;s upcoming Devil May Cry series alongside another key character from Devil May Cry 3](https://www.pcgamer.com/movies-tv/weve-just-got-a-first-look-at-vergil-in-netflixs-upcoming-devil-may-cry-series-alongside-another-key-character-from-devil-may-cry-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
