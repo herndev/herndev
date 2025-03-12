@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This water-cooled gaming laptop packs a full-size desktop RTX 5090 and even fits in a backpack, but I sure wouldn&#39;t want it in mine](https://www.pcgamer.com/hardware/gaming-laptops/this-water-cooled-laptop-packs-a-full-size-desktop-rtx-5090-and-even-fits-in-a-backpack-but-i-sure-wouldnt-want-it-in-mine/)
- - [Samsung&#39;s handheld prototype delivers folding phone screens to Switch-like gaming hardware, and I am absolutely here for it](https://www.pcgamer.com/hardware/handheld-gaming-pcs/samsungs-handheld-prototype-delivers-folding-phone-screens-to-switch-like-gaming-hardware-and-i-am-absolutely-here-for-it/)
- - [Corsair&#39;s Custom Labs is now available in Europe, allowing you to make your gear as cute or ugly as you want and no-one will stop you](https://www.pcgamer.com/hardware/corsairs-custom-labs-is-now-available-in-europe-allowing-you-to-make-your-gear-as-cute-or-ugly-as-you-want-and-no-one-will-stop-you/)<!-- GAME:END -->
+ - [Some Sapphire RX 9070/9070 XT graphics cards have hard-to-spot foam inside that must be removed or it &#39;may result in a decrease in cooling capacity or product failure&#39;](https://www.pcgamer.com/hardware/graphics-cards/some-sapphire-rx-9070-9070-xt-graphics-cards-have-hard-to-spot-foam-inside-that-must-be-removed-or-it-may-result-in-a-decrease-in-cooling-capacity-or-product-failure/)
+ - [Gemma&#39;s English VA is right with us on Monster Hunter Wild&#39;s confusing menus, which makes me feel a little better for having to Google symbols all the time](https://www.pcgamer.com/games/rpg/gemmas-english-va-is-right-with-us-on-monster-hunter-wilds-confusing-menus-which-makes-me-feel-a-little-better-for-having-to-google-symbols-all-the-time/)
+ - [Haunted printers turning on by themselves and printing nonsense has to be one of my favorite Windows 11 bugs ever](https://www.pcgamer.com/software/operating-systems/haunted-printers-turning-on-by-themselves-and-printing-nonsense-has-to-be-one-of-my-favorite-windows-11-bugs-ever/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
