@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)
  - [Rebellion CEO seems kind of awed by major studios making massive videogames: &#39;How do you organize a game that has 2,000 people working on it?&#39;](https://www.pcgamer.com/gaming-industry/rebellion-ceo-seems-kind-of-awed-by-major-studios-making-massive-videogames-how-do-you-organize-a-game-that-has-2-000-people-working-on-it/)
- - [Netflix’s Devil May Cry is already living up to its source material’s style](https://www.polygon.com/trailer/538114/devil-may-cry-trailer-release-announcement)
- - [Titmouse animation studio announces ‘cartoon delivery service’ on Churp.tv](https://www.polygon.com/tv/537585/churp-subscription-titmouse-animation)<!-- GAME:END -->
+ - [Netflix’s Devil May Cry is already living up to its source material’s style](https://www.polygon.com/trailer/538114/devil-may-cry-trailer-release-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
