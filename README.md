@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All this bad AI is wrecking a whole generation of gadgets](https://www.theverge.com/gadgets/628039/bad-ai-gadgets-siri-alexa)
- - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)
- - [Pokémon with guns? All the latest on viral gaming hit Palworld](https://www.theverge.com/24048972/palworld-news-trailers)<!-- TECH:END -->
+ - [Google DeepMind&amp;#8217;s new AI models help robots perform physical tasks, even without training](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models)
+ - [How to use robotic vacuums with Apple Home &amp; Siri](https://appleinsider.com/inside/apple-home/tips/how-to-use-robotic-vacuums-with-apple-home-siri?utm_medium=rss)
+ - [Binance says Abu Dhabi&#39;s MGX acquired a minority stake for $2B, the first institutional investment in the exchange and MGX&#39;s first entry into the crypto &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250312/p24#a250312p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
