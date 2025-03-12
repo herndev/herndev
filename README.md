@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fielding may not be fun, but it could be more rewarding in MLB The Show 25’s career mode](https://www.polygon.com/sports-games/538047/mlb-the-show-25-fielding-rtts-preview)
- - [Zenless Zone Zero voice actors replaced as union negotiation remains ‘far apart’ on AI protections](https://www.polygon.com/news/538170/zenless-zoice-zero-voice)
- - [We&#39;ve just got a first look at Vergil in Netflix&#39;s upcoming Devil May Cry series alongside another key character from Devil May Cry 3](https://www.pcgamer.com/movies-tv/weve-just-got-a-first-look-at-vergil-in-netflixs-upcoming-devil-may-cry-series-alongside-another-key-character-from-devil-may-cry-3/)<!-- GAME:END -->
+ - [Building the light and dark in Wanderstop’s characters](https://www.polygon.com/cozy-gaming/537227/wanderstop-ivy-road-annapurna-davey-wreden-interview)
+ - [&#39;This is essentially a fraudulent project&#39;: Some scientists are firing shots at Microsoft&#39;s recent quantum computing claims](https://www.pcgamer.com/hardware/this-is-essentially-a-fraudulent-project-some-scientists-are-firing-shots-at-microsofts-recent-quantum-computing-claims/)
+ - [This impractical method of getting a 1-second capture time in Monster Hunter Wilds can make you the fastest hunter alive—on paper](https://www.pcgamer.com/games/rpg/this-impractical-method-of-getting-a-1-second-capture-time-in-monster-hunter-wilds-can-make-you-the-fastest-hunter-alive-on-paper/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
