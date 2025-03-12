@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apparently he was like an on set dad and always looked after the kids. Such a good actor](http://9gag.com/gag/awymmoy)
- - ⏩ [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
- - 👉 [Crashing in a 1950s car vs. a modern car](http://9gag.com/gag/aAyEQXZ)<!-- MEMES:END -->
+ - 💣 [This aged well](http://9gag.com/gag/aAyE4xR)
+ - ⏩ [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)
+ - 👉 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)<!-- MEMES:END -->
 
 ---
 
