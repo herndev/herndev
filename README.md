@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate Seven Years of Sea of Thieves this March](https://www.seaofthieves.com/news/this-month-march-2025#new_tab)
- - [After years in development, D&amp;#038;D’s Unreal-powered virtual tabletop still feels off](https://www.polygon.com/dnd-dungeons-dragons/537899/sigil-vtt-review)
- - [The Last Of Us Part III Should Break The Cycle Of Violence](https://kotaku.com/last-of-us-sequel-druckmann-will-there-be-part-3-hbo-1851769299)<!-- GAME:END -->
+ - [How to find Golden Llamas in Fortnite](https://www.polygon.com/fortnite-guide/538131/golden-llama-where-to-find-location-search)
+ - [Pokémon Go Sold To Saudi Government](https://kotaku.com/pokemon-go-scopely-niantic-saudi-arabia-monster-hunter-1851769360)
+ - [The best sci-fi movies to watch on Netflix](https://www.polygon.com/what-to-watch/23411315/best-sci-fi-netflix-movies-watch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
