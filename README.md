@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aqy86g7)
- - ⏩ [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)
- - 👉 [Can&#39;t do it any different](http://9gag.com/gag/a1mD51P)<!-- MEMES:END -->
+ - 💣 [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)
+ - ⏩ [Long Term Investments](http://9gag.com/gag/axyvWMp)
+ - 👉 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)<!-- MEMES:END -->
 
 ---
 
