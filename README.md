@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - ⏩ [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
- - 👉 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)<!-- MEMES:END -->
+ - 💣 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
+ - ⏩ [Apparently he was like an on set dad and always looked after the kids. Such a good actor](http://9gag.com/gag/awymmoy)
+ - 👉 [On January 15, 2019, lone SAS operator Christian Craighead enters the Dusit Hotel in Nairobi, Kenya, in respond to a terrorist attack. This famous photograph was seen on social media and major news outlets around the world.](http://9gag.com/gag/aW4LG24)<!-- MEMES:END -->
 
 ---
 
