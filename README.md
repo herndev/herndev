@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meltdown at US House hearing after chairman called trans Democratic rep &#39;Mr&#39;](http://9gag.com/gag/aRBZM47)
- - ⏩ [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)
- - 👉 [Mr Bean&#39;s enemy got an upgrade!\ud83d\udc80](http://9gag.com/gag/aZZwDO6)<!-- MEMES:END -->
+ - 💣 [Chinese AI agent running 50 social media accounts 24/7 automatically](http://9gag.com/gag/ayN43oy)
+ - ⏩ [Andrew\u2019s Tate\u2019s delusions meet their fate.](http://9gag.com/gag/a9yvq0W)
+ - 👉 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)<!-- MEMES:END -->
 
 ---
 
