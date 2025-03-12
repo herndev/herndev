@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deliveroo exits Hong Kong after tough competition from Foodpanda and Meituan&#39;s Keeta, which has expanded to Saudi Arabia, with 1M weekly users per Sensor Tower &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p7#a250312p7)
- - [Sources: self-driving simulation software provider Applied Intuition is in talks to raise hundreds of millions at a $15B valuation; it reached $400M ARR in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250312/p6#a250312p6)
- - [India&#39;s largest telco Jio Platforms partners with SpaceX to offer Starlink in the country, just hours after rival Airtel announced a similar partnership &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250312/p5#a250312p5)<!-- TECH:END -->
+ - [Bengaluru is becoming an AI talent hub as overseas startups compete with Big Tech; Bain &amp; Co predicts India&#39;s AI talent gap will reach 1M workers by 2027 &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250312/p9#a250312p9)
+ - [A look at UK fintechs Revolut and Monzo&#39;s push to expand in the US, where they face steep challenges in a complex regulatory environment and strong competition &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250312/p8#a250312p8)
+ - [Switching from Google Password Manager? This newly arrived Google feature is a must.](https://www.androidauthority.com/google-password-manager-delete-all-rolling-out-3534237/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
