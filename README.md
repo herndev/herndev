@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)
- - [Rebellion CEO seems kind of awed by major studios making massive videogames: &#39;How do you organize a game that has 2,000 people working on it?&#39;](https://www.pcgamer.com/gaming-industry/rebellion-ceo-seems-kind-of-awed-by-major-studios-making-massive-videogames-how-do-you-organize-a-game-that-has-2-000-people-working-on-it/)
- - [Netflix’s Devil May Cry is already living up to its source material’s style](https://www.polygon.com/trailer/538114/devil-may-cry-trailer-release-announcement)<!-- GAME:END -->
+ - [The latest Monster Hunter Wilds event quest gives piles of Armor Spheres for hunting a Chatacabra, making this a very bad week to be a frog in the Forbidden Lands](https://www.pcgamer.com/games/action/the-latest-monster-hunter-wilds-event-quest-gives-piles-of-armor-spheres-for-hunting-a-chatacabra-making-this-a-very-bad-week-to-be-a-frog-in-the-forbidden-lands/)
+ - [PlayStation Store Mega March promotion starts March 12](https://blog.playstation.com/2025/03/11/playstation-store-mega-march-promotion-starts-march-12/)
+ - [PlayStation Store Mega March promotion starts March 12](https://blog.playstation.com/2025/03/11/playstation-store-mega-march-promotion-starts-march-12/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
