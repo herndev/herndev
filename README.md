@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Estonian startups aim to turn its thriving tech sector into a military-industrial complex, including making autonomous drones, as Europe boosts defense spending &lpar;Ott Tammik/Bloomberg&rpar;](http://www.techmeme.com/250312/p16#a250312p16)
- - [Here’s an early video preview of the upcoming Google app Search AI Mode in action &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-search-ai-mode-video-3534030/)
- - [Sakana CEO David Ha says its AI CUDA Engineer &quot;cheated&quot; to speed up training by 100x and &quot;preliminary results&quot; show it &quot;will be closer to the 10% to 100% level&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250312/p15#a250312p15)<!-- TECH:END -->
+ - [Pokémon Go developer Niantic to sell gaming business to Saudi group](https://www.theverge.com/news/615267/niantic-pokemon-go-scopely-acquisition-deal)
+ - [New T-Mobile promo could soon give you free Starlink satellite messaging, but there’s a catch](https://www.androidauthority.com/t-mobile-starlink-satellite-messaging-new-subscriber-promo-3534319/)
+ - [Alibaba demos R1-Omni, an open-source model that its Tongyi Lab researchers say can read emotions, building on HumanOmni, in a bid to compete with OpenAI &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250312/p19#a250312p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
