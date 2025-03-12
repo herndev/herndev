@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn.. that Hurts ...](http://9gag.com/gag/a9yv5zZ)
- - ⏩ [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)
- - 👉 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)<!-- MEMES:END -->
+ - 💣 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
+ - ⏩ [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
+ - 👉 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)<!-- MEMES:END -->
 
 ---
 
