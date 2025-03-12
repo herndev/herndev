@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese AI agent running 50 social media accounts 24/7 automatically](http://9gag.com/gag/ayN43oy)
- - ⏩ [This aged well](http://9gag.com/gag/aAyE4xR)
- - 👉 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)<!-- MEMES:END -->
+ - 💣 [Simpler times](http://9gag.com/gag/a0eVnmO)
+ - ⏩ [If you don&#39;t pay you don&#39;t get the bridge](http://9gag.com/gag/amoGxg4)
+ - 👉 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)<!-- MEMES:END -->
 
 ---
 
