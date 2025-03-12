@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA plans to launch SpaceX Crew-10 tonight to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [FTC asks to delay Amazon Prime deceptive practices trial](https://www.theverge.com/news/628418/ftc-amazon-prime-deceptive-practices-delay-trial)<!-- TECH:END -->
+ - [Trump is bringing back McCarthyism to go after Mahmoud Khalil](https://www.theverge.com/policy/628411/mahmoud-khalil-immigration-nationality-act-green-card-state-department)
+ - [Adobe reports Q1 revenue up 10% YoY to $5.71B, vs. $5.66B est., Digital Media revenue up 11% to $4.23B, and issues a disappointing outlook for Q2 revenue growth &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250312/p35#a250312p35)
+ - [Intel appoints former board member Lip-Bu Tan as CEO, effective March 18; INTC jumps 11%+ after hours &lpar;Bhanvi Satija/Reuters&rpar;](http://www.techmeme.com/250312/p34#a250312p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
