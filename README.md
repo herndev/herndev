@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump is bringing back McCarthyism to go after Mahmoud Khalil](https://www.theverge.com/policy/628411/mahmoud-khalil-immigration-nationality-act-green-card-state-department)
- - [Adobe reports Q1 revenue up 10% YoY to $5.71B, vs. $5.66B est., Digital Media revenue up 11% to $4.23B, and issues a disappointing outlook for Q2 revenue growth &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250312/p35#a250312p35)
- - [Intel appoints former board member Lip-Bu Tan as CEO, effective March 18; INTC jumps 11%+ after hours &lpar;Bhanvi Satija/Reuters&rpar;](http://www.techmeme.com/250312/p34#a250312p34)<!-- TECH:END -->
+ - [Sources: Supabase, which bills itself as an open-source alternative to Google&#39;s Firebase, is raising $100M+ in a round led by Accel, valuing the company at ~$2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p38#a250312p38)
+ - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)
+ - [Indian police arrest Aleksej Besciokov, the co-founder of Garantex, a Russian crypto exchange sanctioned by the EU and the US, at the request of US authorities &lpar;TechCrunch&rpar;](http://www.techmeme.com/250312/p37#a250312p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
