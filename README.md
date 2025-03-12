@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oh great, the full Inzoi system requirements are posted and I&#39;m barely above the minimum specs so I guess my Zois will be beautifully blurry](https://www.pcgamer.com/games/life-sim/inzoi-system-requirements-pc-specs/)
- - [Zenless Zone Zero voice actors replaced as union negotiation remains ‘far apart’ on AI protections](https://www.polygon.com/news/538170/zenless-zoice-zero-voice)
- - [PS Plus Adds Ubisoft&#39;s Best Game In Years And Some Classic Armored Core](https://kotaku.com/armored-core-prince-of-persia-lost-crown-ps-plus-march-1851769458)<!-- GAME:END -->
+ - [How to capture monsters and endemic life in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/529576/capture-monsters-endemic-life-how-to)
+ - [Mountain Dew Collector Recalls Disastrous Leak That Ruined 100+ Cans](https://kotaku.com/mountain-dew-collector-loses-cans-leak-thrashed-apple-1851769468)
+ - [Dune: Awakening confirms air-to-air combat in ornithopters](https://www.pcgamer.com/games/mmo/dune-awakening-confirms-air-to-air-combat-in-ornithopters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
