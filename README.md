@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Palantir&#39;s stock jumped 350%+ in 2024, founder Alex Karp has sold $1.9B in shares since January 2024; VerityData says his PLTR holdings are worth $12.8B &lpar;Financial Times&rpar;](http://www.techmeme.com/250312/p14#a250312p14)
- - [MelonDS just became the best Nintendo DS emulator on Android with new update](https://www.androidauthority.com/melonds-nintendo-ds-update-1-10-3534310/)
- - [Google’s Motion Cues feature keeps getting better ahead of its release &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-motion-cues-customization-apk-teardown-3534283/)<!-- TECH:END -->
+ - [Estonian startups aim to turn its thriving tech sector into a military-industrial complex, including making autonomous drones, as Europe boosts defense spending &lpar;Ott Tammik/Bloomberg&rpar;](http://www.techmeme.com/250312/p16#a250312p16)
+ - [Here’s an early video preview of the upcoming Google app Search AI Mode in action &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-search-ai-mode-video-3534030/)
+ - [Sakana CEO David Ha says its AI CUDA Engineer &quot;cheated&quot; to speed up training by 100x and &quot;preliminary results&quot; show it &quot;will be closer to the 10% to 100% level&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250312/p15#a250312p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
