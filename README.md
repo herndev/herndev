@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)
- - ⏩ [Long Term Investments](http://9gag.com/gag/axyvWMp)
+ - 💣 [Damn.. that Hurts ...](http://9gag.com/gag/a9yv5zZ)
+ - ⏩ [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)
  - 👉 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)<!-- MEMES:END -->
 
 ---
