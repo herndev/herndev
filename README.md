@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Le Creuset’s Pokémon cookware is finally available in the US](https://www.polygon.com/deals/538308/pokemon-le-creuset-cookware-collection-where-to-buy)
- - [Rise of the Ronin is another crappy PC port, performance patch coming &#39;soon&#39;](https://www.pcgamer.com/games/action/rise-of-the-ronin-is-another-crappy-pc-port-performance-patch-coming-soon/)
- - [Game Companies Want To Be Able To Replace Actors With AI Replicas In The Next Strike, Union Says](https://kotaku.com/game-actor-strike-ai-sag-aftra-zenless-zone-zero-1851769447)<!-- GAME:END -->
+ - [Oh great, the full Inzoi system requirements are posted and I&#39;m barely above the minimum specs so I guess my Zois will be beautifully blurry](https://www.pcgamer.com/games/life-sim/inzoi-system-requirements-pc-specs/)
+ - [Zenless Zone Zero voice actors replaced as union negotiation remains ‘far apart’ on AI protections](https://www.polygon.com/news/538170/zenless-zoice-zero-voice)
+ - [PS Plus Adds Ubisoft&#39;s Best Game In Years And Some Classic Armored Core](https://kotaku.com/armored-core-prince-of-persia-lost-crown-ps-plus-march-1851769458)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
