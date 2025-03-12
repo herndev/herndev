@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [FCC chairman asks the public to list every regulation he should remove](https://www.theverge.com/news/628288/fcc-chair-brendan-carr-deregulate-delete)
- - [A Trump official has been moonlighting as a fashion influencer](https://www.theverge.com/news/628067/opm-fashion-influencer-affiliate-links-mclaurine-pinover)<!-- TECH:END -->
+ - [Snapchat is rolling out AI-powered video lenses](https://www.theverge.com/news/628354/snap-snapchat-ai-video-lenses)
+ - [Sonos abandons its streaming Apple TV rival even as it was in testing](https://appleinsider.com/articles/25/03/12/sonos-abandons-its-streaming-apple-tv-rival-even-as-it-was-in-testing?utm_medium=rss)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
