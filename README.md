@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2WD vs 4WD](http://9gag.com/gag/adBO1LN)
- - ⏩ [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
- - 👉 [Long Term Investments](http://9gag.com/gag/axyvWMp)<!-- MEMES:END -->
+ - 💣 [This high school principal is a legend!](http://9gag.com/gag/azxP2NN)
+ - ⏩ [Squirrel hears thunder and clutches his heart.](http://9gag.com/gag/a4PzzgA)
+ - 👉 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)<!-- MEMES:END -->
 
 ---
 
