@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BeReal CEO Aymeric Roffe says Japan is now the photo sharing app&#39;s second-largest market with over 4.5M MAUs, 83% aged 14 to 27; BeReal has 40M users globally &lpar;Chihiro Ishikawa/Nikkei Asia&rpar;](http://www.techmeme.com/250312/p13#a250312p13)
- - [Thoughts on using LLMs for coding, which can often be difficult and unintuitive, and why &quot;vibe coding&quot; is a fantastic way to explore the capabilities of LLMs &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250312/p12#a250312p12)
- - [Google unveils Gemma 3, the &quot;world&#39;s best single-accelerator model&quot;, running on a single GPU, in 1B, 4B, 12B, and 27B sizes, and says it outperforms Llama-405B &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250312/p11#a250312p11)<!-- TECH:END -->
+ - [After Palantir&#39;s stock jumped 350%+ in 2024, founder Alex Karp has sold $1.9B in shares since January 2024; VerityData says his PLTR holdings are worth $12.8B &lpar;Financial Times&rpar;](http://www.techmeme.com/250312/p14#a250312p14)
+ - [MelonDS just became the best Nintendo DS emulator on Android with new update](https://www.androidauthority.com/melonds-nintendo-ds-update-1-10-3534310/)
+ - [Google’s Motion Cues feature keeps getting better ahead of its release &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-motion-cues-customization-apk-teardown-3534283/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
