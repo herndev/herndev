@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat is rolling out AI-powered video lenses](https://www.theverge.com/news/628354/snap-snapchat-ai-video-lenses)
- - [Sonos abandons its streaming Apple TV rival even as it was in testing](https://appleinsider.com/articles/25/03/12/sonos-abandons-its-streaming-apple-tv-rival-even-as-it-was-in-testing?utm_medium=rss)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
+ - [NASA plans to launch SpaceX Crew-10 tonight to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [FTC asks to delay Amazon Prime deceptive practices trial](https://www.theverge.com/news/628418/ftc-amazon-prime-deceptive-practices-delay-trial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
