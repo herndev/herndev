@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
- - ⏩ [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
- - 👉 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)<!-- MEMES:END -->
+ - 💣 [Apparently he was like an on set dad and always looked after the kids. Such a good actor](http://9gag.com/gag/awymmoy)
+ - ⏩ [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
+ - 👉 [Crashing in a 1950s car vs. a modern car](http://9gag.com/gag/aAyEQXZ)<!-- MEMES:END -->
 
 ---
 
