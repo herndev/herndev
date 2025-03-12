@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Building the light and dark in Wanderstop’s characters](https://www.polygon.com/cozy-gaming/537227/wanderstop-ivy-road-annapurna-davey-wreden-interview)
- - [&#39;This is essentially a fraudulent project&#39;: Some scientists are firing shots at Microsoft&#39;s recent quantum computing claims](https://www.pcgamer.com/hardware/this-is-essentially-a-fraudulent-project-some-scientists-are-firing-shots-at-microsofts-recent-quantum-computing-claims/)
- - [This impractical method of getting a 1-second capture time in Monster Hunter Wilds can make you the fastest hunter alive—on paper](https://www.pcgamer.com/games/rpg/this-impractical-method-of-getting-a-1-second-capture-time-in-monster-hunter-wilds-can-make-you-the-fastest-hunter-alive-on-paper/)<!-- GAME:END -->
+ - [Le Creuset’s Pokémon cookware is finally available in the US](https://www.polygon.com/deals/538308/pokemon-le-creuset-cookware-collection-where-to-buy)
+ - [Rise of the Ronin is another crappy PC port, performance patch coming &#39;soon&#39;](https://www.pcgamer.com/games/action/rise-of-the-ronin-is-another-crappy-pc-port-performance-patch-coming-soon/)
+ - [Game Companies Want To Be Able To Replace Actors With AI Replicas In The Next Strike, Union Says](https://kotaku.com/game-actor-strike-ai-sag-aftra-zenless-zone-zero-1851769447)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
