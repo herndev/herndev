@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon Go developer Niantic to sell gaming business to Saudi group](https://www.theverge.com/news/615267/niantic-pokemon-go-scopely-acquisition-deal)
- - [New T-Mobile promo could soon give you free Starlink satellite messaging, but there’s a catch](https://www.androidauthority.com/t-mobile-starlink-satellite-messaging-new-subscriber-promo-3534319/)
- - [Alibaba demos R1-Omni, an open-source model that its Tongyi Lab researchers say can read emotions, building on HumanOmni, in a bid to compete with OpenAI &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250312/p19#a250312p19)<!-- TECH:END -->
+ - [8 Best Vacuums for Pet Hair &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-hair-vacuums/)
+ - [Censorship: These are the topics Gemini won’t talk about](https://www.androidauthority.com/gemini-censorship-3533925/)
+ - [I outsourced my memory to an AI pin and all I got was fanfiction](https://www.theverge.com/reviews/627056/bee-review-ai-wearable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
