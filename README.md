@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [End of the World Kinda View](http://9gag.com/gag/azxP5bN)
- - ⏩ [Animator did this ON PURPOSE for sure](http://9gag.com/gag/aAyEypL)
- - 👉 [Long Term Investments](http://9gag.com/gag/axyvWMp)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aqy86g7)
+ - ⏩ [Squirrel hears thunder and clutches his heart.](http://9gag.com/gag/a4PzzgA)
+ - 👉 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)<!-- MEMES:END -->
 
 ---
 
