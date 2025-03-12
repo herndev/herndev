@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Some Sapphire RX 9070/9070 XT graphics cards have hard-to-spot foam inside that must be removed or it &#39;may result in a decrease in cooling capacity or product failure&#39;](https://www.pcgamer.com/hardware/graphics-cards/some-sapphire-rx-9070-9070-xt-graphics-cards-have-hard-to-spot-foam-inside-that-must-be-removed-or-it-may-result-in-a-decrease-in-cooling-capacity-or-product-failure/)
- - [Gemma&#39;s English VA is right with us on Monster Hunter Wild&#39;s confusing menus, which makes me feel a little better for having to Google symbols all the time](https://www.pcgamer.com/games/rpg/gemmas-english-va-is-right-with-us-on-monster-hunter-wilds-confusing-menus-which-makes-me-feel-a-little-better-for-having-to-google-symbols-all-the-time/)
- - [Haunted printers turning on by themselves and printing nonsense has to be one of my favorite Windows 11 bugs ever](https://www.pcgamer.com/software/operating-systems/haunted-printers-turning-on-by-themselves-and-printing-nonsense-has-to-be-one-of-my-favorite-windows-11-bugs-ever/)<!-- GAME:END -->
+ - [Celebrate Seven Years of Sea of Thieves this March](https://www.seaofthieves.com/news/this-month-march-2025#new_tab)
+ - [After years in development, D&amp;#038;D’s Unreal-powered virtual tabletop still feels off](https://www.polygon.com/dnd-dungeons-dragons/537899/sigil-vtt-review)
+ - [The Last Of Us Part III Should Break The Cycle Of Violence](https://kotaku.com/last-of-us-sequel-druckmann-will-there-be-part-3-hbo-1851769299)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
