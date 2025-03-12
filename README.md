@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mike Verdu, who joined Netflix in 2021 to launch its game offering and took on a new role as VP of Generative AI for games four months ago, has left the company &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250311/p45#a250311p45)
- - [Google updates Chrome extension policy to ban affiliate link injection without user action or benefit, after allegations Honey stole creators&#39; affiliate revenue &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250311/p44#a250311p44)
- - [Cartesia, which is developing real-time generative AI models for voice AI, raised a $64M Series A led by Kleiner Perkins, taking its total funding to $91M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250311/p43#a250311p43)<!-- TECH:END -->
+ - [Slow &amp; broken media transfers in Google Messages? Google is on it](https://www.androidauthority.com/google-messages-media-sharing-problem-fix-3534212/)
+ - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)
+ - [Inside Google’s plan to take on the world’s fastest growing smartphone market](https://www.androidauthority.com/google-india-premium-smartphone-market-plans-interview-mike-abary-3533879/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
