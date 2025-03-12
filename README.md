@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aqy86g7)
- - ⏩ [Daily dose of stand up comedy, enjoy!](http://9gag.com/gag/aE0VVjM)
- - 👉 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)<!-- MEMES:END -->
+ - 💣 [Brave bad boy](http://9gag.com/gag/a7oe0Yq)
+ - ⏩ [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
+ - 👉 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)<!-- MEMES:END -->
 
 ---
 
