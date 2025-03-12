@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Expelled! is the most fun you can have being accused of attempted murder](https://www.polygon.com/gaming/537355/expelled-review-inkle-overboard-narrative-mystery-game)
- - [Today&#39;s Wordle answer for Wednesday, March 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-12-2025/)
- - [The latest Monster Hunter Wilds event quest gives piles of Armor Spheres for hunting a Chatacabra, making this a very bad week to be a frog in the Forbidden Lands](https://www.pcgamer.com/games/action/the-latest-monster-hunter-wilds-event-quest-gives-piles-of-armor-spheres-for-hunting-a-chatacabra-making-this-a-very-bad-week-to-be-a-frog-in-the-forbidden-lands/)<!-- GAME:END -->
+ - [Corsair&#39;s Custom Labs is now available in Europe, allowing you to make your gear as cute or ugly as you want and no-one will stop you](https://www.pcgamer.com/hardware/corsairs-custom-labs-is-now-available-in-europe-allowing-you-to-make-your-gear-as-cute-or-ugly-as-you-want-and-no-one-will-stop-you/)
+ - [Trump says the United States is already talking to potential TikTok buyers: &#39;We&#39;re dealing with four different groups, and a lot of people want it ... all four are good&#39;](https://www.pcgamer.com/hardware/trump-says-the-united-states-is-already-talking-to-potential-tiktok-buyers-were-dealing-with-four-different-groups-and-a-lot-of-people-want-it-all-four-are-good/)
+ - [Expelled! is the most fun you can have being accused of attempted murder](https://www.polygon.com/gaming/537355/expelled-review-inkle-overboard-narrative-mystery-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
