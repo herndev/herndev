@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I AM mentally that old man.](http://9gag.com/gag/aqy88nZ)
- - ⏩ [Squirrel hears thunder and clutches his heart.](http://9gag.com/gag/a4PzzgA)
- - 👉 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)<!-- MEMES:END -->
+ - 💣 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
+ - ⏩ [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)
+ - 👉 [What I would&#39;ve done.](http://9gag.com/gag/aW4LGRd)<!-- MEMES:END -->
 
 ---
 
