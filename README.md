@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru is becoming an AI talent hub as overseas startups compete with Big Tech; Bain &amp; Co predicts India&#39;s AI talent gap will reach 1M workers by 2027 &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250312/p9#a250312p9)
- - [A look at UK fintechs Revolut and Monzo&#39;s push to expand in the US, where they face steep challenges in a complex regulatory environment and strong competition &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250312/p8#a250312p8)
- - [Switching from Google Password Manager? This newly arrived Google feature is a must.](https://www.androidauthority.com/google-password-manager-delete-all-rolling-out-3534237/)<!-- TECH:END -->
+ - [A look at community apps like Kutumb mobilizing millions of Indians for politics, spreading disinformation, and inciting hate, beyond civil watchdogs&#39; scrutiny &lpar;The Reporters&#39; Collective&rpar;](http://www.techmeme.com/250312/p10#a250312p10)
+ - [Google calls Gemma 3 the most powerful AI model you can run on one GPU](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
