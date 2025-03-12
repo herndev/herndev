@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to capture monsters and endemic life in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/529576/capture-monsters-endemic-life-how-to)
- - [Mountain Dew Collector Recalls Disastrous Leak That Ruined 100+ Cans](https://kotaku.com/mountain-dew-collector-loses-cans-leak-thrashed-apple-1851769468)
- - [Dune: Awakening confirms air-to-air combat in ornithopters](https://www.pcgamer.com/games/mmo/dune-awakening-confirms-air-to-air-combat-in-ornithopters/)<!-- GAME:END -->
+ - [Monster Hunter Wilds Player Reveals Exploit Behind Mysterious 2-Second Monster Capture Time](https://kotaku.com/monster-hunter-wilds-quick-capture-trick-exploit-1851769498)
+ - [World of Warcraft’s upcoming housing system looks surprisingly robust](https://www.polygon.com/gaming/538557/wow-player-housing-furniture-interior-preview)
+ - [How to capture monsters and endemic life in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/529576/capture-monsters-endemic-life-how-to)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
