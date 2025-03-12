@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2WD vs 4WD](http://9gag.com/gag/adBO1LN)
- - ⏩ [Sorry, no potato](http://9gag.com/gag/a9yv5L0)
- - 👉 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aqy86g7)
+ - ⏩ [Daily dose of stand up comedy, enjoy!](http://9gag.com/gag/aE0VVjM)
+ - 👉 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)<!-- MEMES:END -->
 
 ---
 
