@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [&#39;Metallica&#39; immersive experience for Apple Vision Pro will be available on March 14](https://appleinsider.com/articles/25/03/11/metallica-immersive-experience-for-apple-vision-pro-will-be-available-on-march-14?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Honey: all the news about PayPal’s alleged scam coupon app](https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees)
+ - [15-inch MacBook Air &lpar;M4, 2025&rpar; Review: Bluer and Better](https://www.wired.com/review/macbook-air-15-inch-2025/)
+ - [Save 45% on this really cool retro Philips Hue Smart 60W ST19 smart light](https://www.androidauthority.com/retro-philips-hue-smart-60w-st19-smart-light-deal-3534190/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
