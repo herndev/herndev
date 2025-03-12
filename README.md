@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This aged well](http://9gag.com/gag/aAyE4xR)
- - ⏩ [100 Harry Potters vs 1000000 Kermit the frogs](http://9gag.com/gag/aByLLvA)
- - 👉 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)<!-- MEMES:END -->
+ - ⏩ [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/aQzQQBq)
+ - 👉 [Don&#39;t start what you can&#39;t finish](http://9gag.com/gag/aO84Ddy)<!-- MEMES:END -->
 
 ---
 
