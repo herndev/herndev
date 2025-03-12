@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese AI agent running 50 social media accounts 24/7 automatically](http://9gag.com/gag/ayN43oy)
- - ⏩ [Andrew\u2019s Tate\u2019s delusions meet their fate.](http://9gag.com/gag/a9yvq0W)
- - 👉 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)<!-- MEMES:END -->
+ - 💣 [2WD vs 4WD](http://9gag.com/gag/adBO1LN)
+ - ⏩ [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)
+ - 👉 [Long Term Investments](http://9gag.com/gag/axyvWMp)<!-- MEMES:END -->
 
 ---
 
