@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find Golden Llamas in Fortnite](https://www.polygon.com/fortnite-guide/538131/golden-llama-where-to-find-location-search)
- - [Pokémon Go Sold To Saudi Government](https://kotaku.com/pokemon-go-scopely-niantic-saudi-arabia-monster-hunter-1851769360)
- - [The best sci-fi movies to watch on Netflix](https://www.polygon.com/what-to-watch/23411315/best-sci-fi-netflix-movies-watch-stream)<!-- GAME:END -->
+ - [Princess Mononoke is coming to IMAX for the first time, with two brand-new posters](https://www.polygon.com/anime/537256/princess-mononoke-2025-imax-debut-new-poster)
+ - [XFX is letting you add customisable 3D printed wings to its Quicksilver RX 9070-series graphics cards](https://www.pcgamer.com/hardware/graphics-cards/xfx-is-letting-you-add-customisable-3d-printed-wings-to-its-quicksilver-rx-9070-series-graphics-cards/)
+ - [Save 22% on the new Avatar: The Last Airbender comics box set](https://www.polygon.com/good-deals/538186/avatar-last-airbender-comics-box-set-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
