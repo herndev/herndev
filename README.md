@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here comes Intel&#39;s new CEO: a semiconductor veteran that won the same prestigious award as Jensen Huang and Lisa Su](https://www.pcgamer.com/hardware/here-comes-intels-new-ceo-a-semiconductor-veteran-that-won-the-same-prestigious-award-as-jensen-huang-and-lisa-su/)
- - [How to complete the ‘Dyadic Ascension’ quest in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/522569/dyadic-ascension-moment-clarity-taken-osseous-fragment-locations)
- - [How to unlock the Barrow-Dyad Catalyst in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/538297/barrow-dyad-catalyst-how-to-get-unlock)<!-- GAME:END -->
+ - [&#39;Diversify your fashion endgame&#39; with this Kingdom Come: Deliverance 2 mod that gives Henry fly new gambesons, pourpoints, and caftans](https://www.pcgamer.com/games/rpg/diversify-your-fashion-endgame-with-this-kingdom-come-deliverance-2-mod-that-gives-henry-fly-new-gambesons-pourpoints-and-caftans/)
+ - [There&#39;s hope yet for Classic Offensive after its Steam rejection: The team behind the Counter-Strike 1.6 revival mod is in touch with Valve about its &#39;concerns&#39;](https://www.pcgamer.com/games/fps/theres-hope-yet-for-classic-offensive-after-its-steam-rejection-the-team-behind-the-counter-strike-1-6-revival-mod-is-in-touch-with-valve-about-its-concerns/)
+ - [Here comes Intel&#39;s new CEO: a semiconductor veteran that won the same prestigious award as Jensen Huang and Lisa Su](https://www.pcgamer.com/hardware/here-comes-intels-new-ceo-a-semiconductor-veteran-that-won-the-same-prestigious-award-as-jensen-huang-and-lisa-su/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
