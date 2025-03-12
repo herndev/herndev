@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This aged well](http://9gag.com/gag/aAyE4xR)
- - ⏩ [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/aQzQQBq)
- - 👉 [Don&#39;t start what you can&#39;t finish](http://9gag.com/gag/aO84Ddy)<!-- MEMES:END -->
+ - 💣 [Chinese AI agent running 50 social media accounts 24/7 automatically](http://9gag.com/gag/ayN43oy)
+ - ⏩ [This aged well](http://9gag.com/gag/aAyE4xR)
+ - 👉 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)<!-- MEMES:END -->
 
 ---
 
