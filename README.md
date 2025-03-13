@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good idea for older people](http://9gag.com/gag/awym4oW)
- - ⏩ [Sean Lock at 8 out of 10 cats](http://9gag.com/gag/avyexO5)
+ - 💣 [Sean Lock at 8 out of 10 cats](http://9gag.com/gag/avyexO5)
+ - ⏩ [Old school romance](http://9gag.com/gag/aKG9eEg)
  - 👉 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)<!-- MEMES:END -->
 
 ---
