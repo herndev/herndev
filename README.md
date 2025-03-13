@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Trump can’t be trusted with Congress’ new anti-deepfake bill](https://www.theverge.com/decoder-podcast-with-nilay-patel/627868/take-it-down-act-weapon-trump-ncii-deepfakes)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [Companies Might Soon Have to Tell You When Their Products Will Die](https://www.wired.com/story/companies-might-soon-have-to-tell-you-when-their-products-will-die/)<!-- TECH:END -->
+ - [Microsoft’s new Xbox Copilot will act as an AI gaming coach](https://www.theverge.com/news/628666/microsoft-xbox-copilot-for-gaming)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The FTC has enough staff to pursue its case against Amazon after all](https://www.theverge.com/news/628981/ftc-amazon-prime-delay-resource-constraints)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
