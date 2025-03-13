@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magnus Schevin, Athletic legend. Also known as `Sportacus`](http://9gag.com/gag/aVvEm4v)
- - ⏩ [What radicalized you ?](http://9gag.com/gag/a87m21p)
- - 👉 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)<!-- MEMES:END -->
+ - 💣 [Old school romance](http://9gag.com/gag/aKG9eEg)
+ - ⏩ [NOW - Green flames rise from manhole covers on Texas Tech campus. Buildings are being evacuated.](http://9gag.com/gag/aW4L2pZ)
+ - 👉 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)<!-- MEMES:END -->
 
 ---
 
