@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fate: Reawakened gives the nostalgic 20-year-old action RPG series a new lease on life](https://www.pcgamer.com/games/rpg/fate-reawakened-gives-the-nostalgic-20-year-old-action-rpg-series-a-new-lease-on-life/)
- - [Xbox Is Experimenting With An AI Clippy For Gaming To Help Players Out](https://kotaku.com/xbox-ai-copilot-minecraft-overwatch-insider-microsoft-1851769746)
- - [Praise be to the Omnissiah! Warhammer 40,000: Space Marine 3 is officially in development](https://www.pcgamer.com/games/third-person-shooter/praise-be-to-the-omnissiah-warhammer-40-000-space-marine-3-is-officially-in-development/)<!-- GAME:END -->
+ - [Lore of Eora – The Living Lands | A Pillars of Eternity and Avowed Visual Guide](https://www.youtube.com/watch?v=M8Kf0xvcEbA#new_tab)
+ - [Game publisher blames NetEase leaks for implosion in $900M lawsuit](https://www.polygon.com/gaming/538945/prytania-media-crop-circle-possibility-space-netease-lawsuit)
+ - [Disco Elysium Is Coming To Mobile To ‘Captivate The TikTok User’](https://kotaku.com/disco-elysium-tiktok-mobile-app-android-ios-phones-1851769763)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
