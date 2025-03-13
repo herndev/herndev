@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
+ - 💣 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
  - ⏩ [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
- - 👉 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)<!-- MEMES:END -->
+ - 👉 [If you don&#39;t pay you don&#39;t get the bridge](http://9gag.com/gag/amoGxg4)<!-- MEMES:END -->
 
 ---
 
