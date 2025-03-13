@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WinRing0: Why Windows is flagging your PC monitoring and fan control apps as a threat](https://www.theverge.com/report/629259/winring0-windows-defender-fan-control-pc-monitoring-alert-quarantine)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [The Olympics will stay on NBC for at least another decade](https://www.theverge.com/news/629377/olympics-nbc-peacock-rights-deal-2036)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Google releases its proposals for White House&#39;s AI Action Plan, arguing that &quot;fair use and text-and-data mining exceptions&quot; are &quot;critical&quot; to AI development &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250313/p42#a250313p42)
+ - [ViewSonic&#39;s new 5K monitor rivals Apple&#39;s Studio Display for half the price](https://appleinsider.com/articles/25/03/13/viewsonics-new-5k-monitor-rivals-apples-studio-display-for-half-the-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
