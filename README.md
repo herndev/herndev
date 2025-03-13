@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
- - ⏩ [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 👉 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)<!-- MEMES:END -->
+ - 💣 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
+ - ⏩ [Accurate](http://9gag.com/gag/aByLLDx)
+ - 👉 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)<!-- MEMES:END -->
 
 ---
 
