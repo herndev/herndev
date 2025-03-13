@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was intense](http://9gag.com/gag/aRBZ2x7)
- - ⏩ [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
- - 👉 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)<!-- MEMES:END -->
+ - 💣 [Magnus Schevin, Athletic legend. Also known as `Sportacus`](http://9gag.com/gag/aVvEm4v)
+ - ⏩ [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 👉 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)<!-- MEMES:END -->
 
 ---
 
