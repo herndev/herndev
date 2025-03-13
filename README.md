@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Sony’s new RGB backlight tech absolute smokes regular Mini LED TVs](https://www.theverge.com/news/628977/sony-rgb-led-backlight-announced-color-mini-led-tvs)
- - [More Xbox handheld details leak, revealing target price and ASUS involvement](https://www.androidauthority.com/xbox-handheld-oem-price-skus-3534765/)<!-- TECH:END -->
+ - [Apple is lying about Apple Intelligence, John Gruber says -- and he&#39;s right](https://appleinsider.com/articles/25/03/13/apple-is-lying-about-apple-intelligence-john-gruber-says-and-hes-right?utm_medium=rss)
+ - [Cohere debuts Command A, its latest generative AI model for agentic enterprise tasks, with a context length of 256K tokens and requiring just two A100s or H100s &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250313/p37#a250313p37)
+ - [Google makes Gems, its personalized Gemini chatbots, free for all users and offers several premade Gems including Career guide and Coding partner &lpar;Pranob Mehrotra/Android Authority&rpar;](http://www.techmeme.com/250313/p36#a250313p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
