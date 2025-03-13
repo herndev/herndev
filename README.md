@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance 2 now has Steam Workshop support, and of course one of the first mods lets you adjust the &#39;jiggle physics&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-now-has-steam-workshop-support-and-of-course-one-of-the-first-mods-lets-you-adjust-the-jiggle-physics/)
- - [New Hunger Games book excerpt introduces Haymitch’s doomed girlfriend](https://www.polygon.com/books/539433/hunger-games-prequel-book-sunrise-on-the-reaping-excerpt)
- - [Microsoft unveils Copilot for Gaming, an AI-powered &#39;ultimate gaming sidekick&#39; that will let you talk to your console so you don&#39;t have to talk to your friends](https://www.pcgamer.com/software/ai/microsoft-unveils-copilot-for-gaming-an-ai-powered-ultimate-gaming-sidekick-that-will-let-you-talk-to-your-console-so-you-dont-have-to-talk-to-your-friends/)<!-- GAME:END -->
+ - [The first main-series Silent Hill in over 11 years finally has a new trailer](https://www.polygon.com/news/539535/silent-hill-f-trailer-konami-transmission)
+ - [One of my favorite indie RPGs is getting a follow-up made with FromSoftware&#39;s 25-year-old Super Mario Maker for first person dungeon crawlers](https://www.pcgamer.com/games/rpg/one-of-my-favorite-indie-rpgs-is-getting-a-follow-up-made-with-fromsoftwares-25-year-old-super-mario-maker-for-first-person-dungeon-crawlers/)
+ - [Kingdom Come: Deliverance 2 now has Steam Workshop support, and of course one of the first mods lets you adjust the &#39;jiggle physics&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-now-has-steam-workshop-support-and-of-course-one-of-the-first-mods-lets-you-adjust-the-jiggle-physics/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
