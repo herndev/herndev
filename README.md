@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - ⏩ [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
- - 👉 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)<!-- MEMES:END -->
+ - ⏩ [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
+ - 👉 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)<!-- MEMES:END -->
 
 ---
 
