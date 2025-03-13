@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lore of Eora – The Living Lands | A Pillars of Eternity and Avowed Visual Guide](https://www.youtube.com/watch?v=M8Kf0xvcEbA#new_tab)
- - [Game publisher blames NetEase leaks for implosion in $900M lawsuit](https://www.polygon.com/gaming/538945/prytania-media-crop-circle-possibility-space-netease-lawsuit)
- - [Disco Elysium Is Coming To Mobile To ‘Captivate The TikTok User’](https://kotaku.com/disco-elysium-tiktok-mobile-app-android-ios-phones-1851769763)<!-- GAME:END -->
+ - [Watch the Avowed Accolades Trailer](https://www.youtube.com/watch?v=2RXFfYDzZX0#new_tab)
+ - [The best Monster Hunter Wilds mods](https://www.pcgamer.com/games/action/best-monster-hunter-wilds-mods/)
+ - [Oh hell yes: Saber Interactive announces Space Marine 3](https://www.polygon.com/gaming/539292/saber-space-marine-3-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
