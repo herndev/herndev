@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, March 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-13-2025/)
  - [Spectre Divide and its studio are shutting down after just six months: &#39;The industry is in a tough spot right now&#39;](https://www.pcgamer.com/games/fps/spectre-divide-and-its-studio-are-shutting-down-after-just-six-months-the-industry-is-in-a-tough-spot-right-now/)
- - [Dynamax Raikou counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/538377/dynamax-raikou-counters-weakness-tips)
- - [Ubisoft backflips, says Assassin&#39;s Creed Shadows will support Steam Deck at launch, but I doubt I&#39;ll actually want to play it there](https://www.pcgamer.com/games/assassins-creed/ubisoft-backflips-says-assassins-creed-shadows-will-support-steam-deck-at-launch-but-i-doubt-ill-actually-want-to-play-it-there/)<!-- GAME:END -->
+ - [Dynamax Raikou counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/538377/dynamax-raikou-counters-weakness-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
