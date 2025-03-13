@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sean Lock at 8 out of 10 cats](http://9gag.com/gag/avyexO5)
- - ⏩ [Old school romance](http://9gag.com/gag/aKG9eEg)
- - 👉 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)<!-- MEMES:END -->
+ - 💣 [Paid for](http://9gag.com/gag/a34A27N)
+ - ⏩ [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
+ - 👉 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)<!-- MEMES:END -->
 
 ---
 
