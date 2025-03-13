@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Strategic Bitcoin Reserve, to be funded via civil asset forfeitures, goes against bitcoiners&#39; early skepticism of state overreach and market intervention &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250313/p6#a250313p6)
- - [Ernst &amp; Young: German startups raised ~&amp;euro;7B across 755 deals in 2024, up from ~&amp;euro;6B across 861 deals in 2023, but far below the peak of over &amp;euro;17B in 2021 &lpar;Sophie Spiegelberger/Financial Times&rpar;](http://www.techmeme.com/250313/p5#a250313p5)
- - [CoinGecko data shows that daily trading volume of crypto dropped from a peak of $440B in early February to $163B on March 12, a 63% decrease &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250313/p4#a250313p4)<!-- TECH:END -->
+ - [Japanese chipmaker Rapidus has been slow to attract private sector investment, with only around $49M invested so far, compared to $6.23B in state assistance &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250313/p8#a250313p8)
+ - [Analysis: the UK has 29 of Europe&#39;s top 150 startup hubs, followed by Germany with 19; Munich&#39;s UnternehmerTUM, which has incubated 1K+ companies, ranks on top &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250313/p7#a250313p7)
+ - [Samsung may have a surprise audio product launching with the Galaxy Z Fold 7](https://www.androidauthority.com/samsung-bone-conduction-headphones-3534673/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
