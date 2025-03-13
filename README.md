@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Copilot for Gaming Aims to Save You Time, Help You Get Good](https://news.xbox.com/en-us/2025/03/13/new-copilot-for-gaming-save-time-help-get-good/)
- - [Crusader Kings 3 saddles up for a long-awaited return to the east with its first Asian DLC, Khans of the Steppe](https://www.pcgamer.com/games/strategy/crusader-kings-3-saddles-up-for-a-long-awaited-return-to-the-east-with-its-first-asian-dlc-khans-of-the-steppe/)
- - [All Marvel Rivals characters - current and upcoming heroes](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-characters/)<!-- GAME:END -->
+ - [Free Play Days – The Elder Scrolls Online, Unknown 9: Awakening and Session Skate Sim](https://news.xbox.com/en-us/2025/03/13/free-play-days-03-13-2025/)
+ - [Believe it or not, Kraven the Hunter makes a good case for Aaron Taylor-Johnson as James Bond](https://www.polygon.com/opinion/538367/kraven-netflix-aaron-taylor-johnson-bond)
+ - [Pokémon Go ‘Festival of Colors’ 2025 event guide](https://www.polygon.com/pokemon-go-guide/538952/festival-of-colors-2025-timed-research-bruxish-smeargle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
