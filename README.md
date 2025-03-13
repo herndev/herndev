@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NOW - Green flames rise from manhole covers on Texas Tech campus. Buildings are being evacuated.](http://9gag.com/gag/aW4L2pZ)
- - ⏩ [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
+ - 💣 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
+ - ⏩ [Is this true?](http://9gag.com/gag/a0eVV8B)
  - 👉 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)<!-- MEMES:END -->
 
 ---
