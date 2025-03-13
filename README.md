@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia says it&#39;s sold twice as many RTX 50-series cards as RTX 40-series in the first 5 weeks. I&#39;d bloody well hope so given there was essentially just the RTX 4090 for competition](https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-its-sold-twice-as-many-rtx-50-series-cards-as-rtx-40-series-in-the-first-5-weeks-id-bloody-well-hope-so-given-there-was-essentially-just-the-rtx-4090-for-competition/)
- - [I wish Avowed’s brilliant lore reminder feature was in every RPG](https://www.polygon.com/opinion/538601/avowed-lore-reminder-dialogue-history-feature)
- - [I just played Half-Life 2 RTX, a fully ray-traced overhaul of the original, and its meaty headcrabs have me hankering for more](https://www.pcgamer.com/hardware/i-just-played-half-life-2-rtx-a-fully-ray-traced-overhaul-of-the-original-and-its-meaty-headcrabs-have-me-hankering-for-more/)<!-- GAME:END -->
+ - [New, cheaper PS5 bundles come with both Astro Bot games](https://www.polygon.com/deals/536811/astro-bot-ps5-bundle-launch-date-price)
+ - [Assassin’s Creed Shadows will support Steam Deck after all](https://www.polygon.com/news/538818/assassins-creed-shadows-steam-deck-support)
+ - [AI will be crammed in more of the graphics pipeline as Nvidia and Microsoft are bringing AI shading to a DirectX preview next month](https://www.pcgamer.com/hardware/graphics-cards/ai-will-be-crammed-in-more-of-the-graphics-pipeline-as-nvidia-and-microsoft-are-bringing-ai-shading-to-a-directx-preview-next-month/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
