@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New, cheaper PS5 bundles come with both Astro Bot games](https://www.polygon.com/deals/536811/astro-bot-ps5-bundle-launch-date-price)
- - [Assassin’s Creed Shadows will support Steam Deck after all](https://www.polygon.com/news/538818/assassins-creed-shadows-steam-deck-support)
- - [AI will be crammed in more of the graphics pipeline as Nvidia and Microsoft are bringing AI shading to a DirectX preview next month](https://www.pcgamer.com/hardware/graphics-cards/ai-will-be-crammed-in-more-of-the-graphics-pipeline-as-nvidia-and-microsoft-are-bringing-ai-shading-to-a-directx-preview-next-month/)<!-- GAME:END -->
+ - [New Copilot for Gaming Aims to Save You Time, Help You Get Good](https://news.xbox.com/en-us/2025/03/13/new-copilot-for-gaming-save-time-help-get-good/)
+ - [Crusader Kings 3 saddles up for a long-awaited return to the east with its first Asian DLC, Khans of the Steppe](https://www.pcgamer.com/games/strategy/crusader-kings-3-saddles-up-for-a-long-awaited-return-to-the-east-with-its-first-asian-dlc-khans-of-the-steppe/)
+ - [All Marvel Rivals characters - current and upcoming heroes](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-characters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
