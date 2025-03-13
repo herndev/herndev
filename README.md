@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wheel of Time’s latest queer relationship has been a long time coming](https://www.polygon.com/fantasy/538074/wheel-time-aviendha-elayne-love-gay-interview-actress-rafe-judkins)
- - [In a world of WoW Classics and Old School RuneScapes… could Final Fantasy 14 ever do the same?](https://www.pcgamer.com/games/final-fantasy/in-a-world-of-wow-classics-and-old-school-runescapes-could-final-fantasy-14-ever-do-the-same/)
- - [Today&#39;s Wordle answer for Thursday, March 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-13-2025/)<!-- GAME:END -->
+ - [Nvidia says it&#39;s sold twice as many RTX 50-series cards as RTX 40-series in the first 5 weeks. I&#39;d bloody well hope so given there was essentially just the RTX 4090 for competition](https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-its-sold-twice-as-many-rtx-50-series-cards-as-rtx-40-series-in-the-first-5-weeks-id-bloody-well-hope-so-given-there-was-essentially-just-the-rtx-4090-for-competition/)
+ - [I wish Avowed’s brilliant lore reminder feature was in every RPG](https://www.polygon.com/opinion/538601/avowed-lore-reminder-dialogue-history-feature)
+ - [I just played Half-Life 2 RTX, a fully ray-traced overhaul of the original, and its meaty headcrabs have me hankering for more](https://www.pcgamer.com/hardware/i-just-played-half-life-2-rtx-a-fully-ray-traced-overhaul-of-the-original-and-its-meaty-headcrabs-have-me-hankering-for-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
