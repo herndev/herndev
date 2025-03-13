@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joining a group chat could be less of a pain in Google Messages &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-group-chat-link-apk-teardown-3534685/)
- - [Google could soon change the way you answer your phone calls &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-incoming-call-ui-changes-apk-teardown-3534690/)
- - [Alibaba debuts New Quark, an updated app using its flagship Qwen reasoning model, rolling out gradually, as it seeks to keep up with DeepSeek and Chinese rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250313/p13#a250313p13)<!-- TECH:END -->
+ - [Contentious Republican town halls are going viral](https://www.theverge.com/news/628284/republican-town-hall-videos-doge-musk-trump-tiktok)
+ - [Xiaomi plans to preinstall PhonePe&#39;s Indus Appstore on all new smartphones sold in India and replace its GetApps app store with Indus Appstore on existing ones &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250313/p17#a250313p17)
+ - [Vornado Sensa Cribside Heater Review: An Accurate Thermostat](https://www.wired.com/review/vornado-sensa-cribside-heater/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
