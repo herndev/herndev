@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, March 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-march-13/#ftag=CAD590a51e)
  - [How to view installer logs in macOS](https://appleinsider.com/articles/25/03/13/how-to-view-installer-logs-in-macos?utm_medium=rss)
- - [Apple delaying the &quot;more personalized Siri&quot; features of Apple Intelligence, after pitching them at WWDC 2024, squanders the credibility Apple built over decades &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250312/p44#a250312p44)
- - [UiPath shares fell over 15% after the company projected FY 2026 sales of $1.525B to $1.53B, vs. $1.58B estimates; PATH is down 51.6% over the past 12 months &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/250312/p43#a250312p43)<!-- TECH:END -->
+ - [By previewing smarter Siri vaporware at WWDC and the iPhone 16 launch, Apple burned a reputation earned over decades for only promising actual working products &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250312/p44#a250312p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
