@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Contentious Republican town halls are going viral](https://www.theverge.com/news/628284/republican-town-hall-videos-doge-musk-trump-tiktok)
- - [Xiaomi plans to preinstall PhonePe&#39;s Indus Appstore on all new smartphones sold in India and replace its GetApps app store with Indus Appstore on existing ones &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250313/p17#a250313p17)
- - [Vornado Sensa Cribside Heater Review: An Accurate Thermostat](https://www.wired.com/review/vornado-sensa-cribside-heater/)<!-- TECH:END -->
+ - [I still have one big concern about the Samsung Galaxy Z Flip 7](https://www.androidauthority.com/samsung-galaxy-z-flip-7-big-concern-cover-screen-3532785/)
+ - [An iPhone 17 Pro Max metal frame image leak is more about cases](https://appleinsider.com/articles/25/03/13/an-iphone-17-pro-max-metal-frame-image-leak-is-more-about-cases?utm_medium=rss)
+ - [The latest alternative iOS app store in Europe is all about games](https://www.theverge.com/news/628860/skich-ios-app-store-third-party-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
