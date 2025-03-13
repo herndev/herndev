@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, March 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-13-2025/)
- - [Spectre Divide and its studio are shutting down after just six months: &#39;The industry is in a tough spot right now&#39;](https://www.pcgamer.com/games/fps/spectre-divide-and-its-studio-are-shutting-down-after-just-six-months-the-industry-is-in-a-tough-spot-right-now/)
- - [Dynamax Raikou counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/538377/dynamax-raikou-counters-weakness-tips)<!-- GAME:END -->
+ - [Wheel of Time’s latest queer relationship has been a long time coming](https://www.polygon.com/fantasy/538074/wheel-time-aviendha-elayne-love-gay-interview-actress-rafe-judkins)
+ - [In a world of WoW Classics and Old School RuneScapes… could Final Fantasy 14 ever do the same?](https://www.pcgamer.com/games/final-fantasy/in-a-world-of-wow-classics-and-old-school-runescapes-could-final-fantasy-14-ever-do-the-same/)
+ - [Today&#39;s Wordle answer for Thursday, March 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-13-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
