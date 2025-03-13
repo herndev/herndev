@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is lying about Apple Intelligence, John Gruber says -- and he&#39;s right](https://appleinsider.com/articles/25/03/13/apple-is-lying-about-apple-intelligence-john-gruber-says-and-hes-right?utm_medium=rss)
- - [Cohere debuts Command A, its latest generative AI model for agentic enterprise tasks, with a context length of 256K tokens and requiring just two A100s or H100s &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250313/p37#a250313p37)
- - [Google makes Gems, its personalized Gemini chatbots, free for all users and offers several premade Gems including Career guide and Coding partner &lpar;Pranob Mehrotra/Android Authority&rpar;](http://www.techmeme.com/250313/p36#a250313p36)<!-- TECH:END -->
+ - [Mercedes-Benz is hedging its bets with rebooted CLA sedan](https://www.theverge.com/news/628464/mercedes-benz-cla-ev-hybrid-mma-platform)
+ - [Android 16 is getting a major hearing accessibility feature](https://www.theverge.com/tech/628533/android-16-auracast-hearing-aid-support)
+ - [Highway toll text scams are on the rise, and Apple can&#39;t completely stop them](https://appleinsider.com/articles/25/03/13/highway-toll-text-scams-are-on-the-rise-and-apple-cant-completely-stop-them?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
