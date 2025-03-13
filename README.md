@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I still have one big concern about the Samsung Galaxy Z Flip 7](https://www.androidauthority.com/samsung-galaxy-z-flip-7-big-concern-cover-screen-3532785/)
- - [An iPhone 17 Pro Max metal frame image leak is more about cases](https://appleinsider.com/articles/25/03/13/an-iphone-17-pro-max-metal-frame-image-leak-is-more-about-cases?utm_medium=rss)
- - [The latest alternative iOS app store in Europe is all about games](https://www.theverge.com/news/628860/skich-ios-app-store-third-party-gaming)<!-- TECH:END -->
+ - [Why Trump can’t be trusted with Congress’ new anti-deepfake bill](https://www.theverge.com/decoder-podcast-with-nilay-patel/627868/take-it-down-act-weapon-trump-ncii-deepfakes)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [Companies Might Soon Have to Tell You When Their Products Will Die](https://www.wired.com/story/companies-might-soon-have-to-tell-you-when-their-products-will-die/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
