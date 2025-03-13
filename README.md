@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Adding to the Anti-Bot Brigade](http://9gag.com/gag/a1mD5Mv)
- - ⏩ [The art of the deal](http://9gag.com/gag/a7oeenx)
- - 👉 [Brave bad boy](http://9gag.com/gag/a7oe0Yq)<!-- MEMES:END -->
+ - 💣 [Good idea for older people](http://9gag.com/gag/awym4oW)
+ - ⏩ [Sean Lock at 8 out of 10 cats](http://9gag.com/gag/avyexO5)
+ - 👉 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)<!-- MEMES:END -->
 
 ---
 
