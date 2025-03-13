@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Google releases its proposals for White House&#39;s AI Action Plan, arguing that &quot;fair use and text-and-data mining exceptions&quot; are &quot;critical&quot; to AI development &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250313/p42#a250313p42)
- - [ViewSonic&#39;s new 5K monitor rivals Apple&#39;s Studio Display for half the price](https://appleinsider.com/articles/25/03/13/viewsonics-new-5k-monitor-rivals-apples-studio-display-for-half-the-price?utm_medium=rss)<!-- TECH:END -->
+ - [US Mobile reportedly shuts down user for excessive data on its truly unlimited plan; fair or not?](https://www.androidauthority.com/us-mobile-unlimited-plan-changes-3534858/)
+ - [Android 16 Beta 3 gets honest about your battery’s diminishing capacity](https://www.androidauthority.com/android-16-battery-health-3534961/)
+ - [A24’s Opus is a stylish symphony of half-baked ideas](https://www.theverge.com/movie-reviews/628283/a24-opus-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
