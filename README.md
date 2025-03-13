@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Experience Unrelenting Speed with Forza Motorsport Update 18](https://forza.net/news/forza-motorsport-update-18#new_tab)
- - [Heroes &amp;#038; Villains launches new lineup of Critical Role apparel](https://www.polygon.com/deals/538877/heroes-villains-critical-role-mighty-nein-apparel)
- - [Monster Hunter Wilds&#39; best change is to its layered armor, letting me finally run amok with dressup the way I should have always been able to](https://www.pcgamer.com/games/action/monster-hunter-wilds-best-change-is-to-its-layered-armor-letting-me-finally-run-amok-with-dressup-the-way-i-should-have-always-been-able-to/)<!-- GAME:END -->
+ - [Fate: Reawakened gives the nostalgic 20-year-old action RPG series a new lease on life](https://www.pcgamer.com/games/rpg/fate-reawakened-gives-the-nostalgic-20-year-old-action-rpg-series-a-new-lease-on-life/)
+ - [Xbox Is Experimenting With An AI Clippy For Gaming To Help Players Out](https://kotaku.com/xbox-ai-copilot-minecraft-overwatch-insider-microsoft-1851769746)
+ - [Praise be to the Omnissiah! Warhammer 40,000: Space Marine 3 is officially in development](https://www.pcgamer.com/games/third-person-shooter/praise-be-to-the-omnissiah-warhammer-40-000-space-marine-3-is-officially-in-development/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
