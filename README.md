@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft backflips, says Assassin&#39;s Creed Shadows will support Steam Deck at launch, but I doubt I&#39;ll actually want to play it there](https://www.pcgamer.com/games/assassins-creed/ubisoft-backflips-says-assassins-creed-shadows-will-support-steam-deck-at-launch-but-i-doubt-ill-actually-want-to-play-it-there/)
- - [&#39;Diversify your fashion endgame&#39; with this Kingdom Come: Deliverance 2 mod that gives Henry fly new gambesons, pourpoints, and caftans](https://www.pcgamer.com/games/rpg/diversify-your-fashion-endgame-with-this-kingdom-come-deliverance-2-mod-that-gives-henry-fly-new-gambesons-pourpoints-and-caftans/)
- - [There&#39;s hope yet for Classic Offensive after its Steam rejection: The team behind the Counter-Strike 1.6 revival mod is in touch with Valve about its &#39;concerns&#39;](https://www.pcgamer.com/games/fps/theres-hope-yet-for-classic-offensive-after-its-steam-rejection-the-team-behind-the-counter-strike-1-6-revival-mod-is-in-touch-with-valve-about-its-concerns/)<!-- GAME:END -->
+ - [Spectre Divide and its studio are shutting down after just six months: &#39;The industry is in a tough spot right now&#39;](https://www.pcgamer.com/games/fps/spectre-divide-and-its-studio-are-shutting-down-after-just-six-months-the-industry-is-in-a-tough-spot-right-now/)
+ - [Dynamax Raikou counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/538377/dynamax-raikou-counters-weakness-tips)
+ - [Ubisoft backflips, says Assassin&#39;s Creed Shadows will support Steam Deck at launch, but I doubt I&#39;ll actually want to play it there](https://www.pcgamer.com/games/assassins-creed/ubisoft-backflips-says-assassins-creed-shadows-will-support-steam-deck-at-launch-but-i-doubt-ill-actually-want-to-play-it-there/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
