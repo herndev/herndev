@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s new Xbox Copilot will act as an AI gaming coach](https://www.theverge.com/news/628666/microsoft-xbox-copilot-for-gaming)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The FTC has enough staff to pursue its case against Amazon after all](https://www.theverge.com/news/628981/ftc-amazon-prime-delay-resource-constraints)<!-- TECH:END -->
+ - [Sony’s new RGB backlight tech absolute smokes regular Mini LED TVs](https://www.theverge.com/news/628977/sony-rgb-led-backlight-announced-color-mini-led-tvs)
+ - [More Xbox handheld details leak, revealing target price and ASUS involvement](https://www.androidauthority.com/xbox-handheld-oem-price-skus-3534765/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
