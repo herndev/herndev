@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [R YOU OK, R YOU OK!!](http://9gag.com/gag/amoGVn9)
- - ⏩ [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 👉 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)<!-- MEMES:END -->
+ - 💣 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
+ - ⏩ [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 👉 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)<!-- MEMES:END -->
 
 ---
 
