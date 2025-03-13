@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)
- - [Amazon slashes Apple&#39;s MacBook Air to $699.99](https://appleinsider.com/articles/25/03/13/amazon-slashes-apples-macbook-air-to-69999?utm_medium=rss)
- - [Singapore prosecutors say a case in which Singapore-based companies are accused of fraudulently supplying US servers to Malaysia involves $390M in transactions &lpar;Reuters&rpar;](http://www.techmeme.com/250313/p11#a250313p11)<!-- TECH:END -->
+ - [Joining a group chat could be less of a pain in Google Messages &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-group-chat-link-apk-teardown-3534685/)
+ - [Google could soon change the way you answer your phone calls &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-incoming-call-ui-changes-apk-teardown-3534690/)
+ - [Alibaba debuts New Quark, an updated app using its flagship Qwen reasoning model, rolling out gradually, as it seeks to keep up with DeepSeek and Chinese rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250313/p13#a250313p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
