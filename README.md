@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ubisoft backflips, says Assassin&#39;s Creed Shadows will support Steam Deck at launch, but I doubt I&#39;ll actually want to play it there](https://www.pcgamer.com/games/assassins-creed/ubisoft-backflips-says-assassins-creed-shadows-will-support-steam-deck-at-launch-but-i-doubt-ill-actually-want-to-play-it-there/)
  - [&#39;Diversify your fashion endgame&#39; with this Kingdom Come: Deliverance 2 mod that gives Henry fly new gambesons, pourpoints, and caftans](https://www.pcgamer.com/games/rpg/diversify-your-fashion-endgame-with-this-kingdom-come-deliverance-2-mod-that-gives-henry-fly-new-gambesons-pourpoints-and-caftans/)
- - [There&#39;s hope yet for Classic Offensive after its Steam rejection: The team behind the Counter-Strike 1.6 revival mod is in touch with Valve about its &#39;concerns&#39;](https://www.pcgamer.com/games/fps/theres-hope-yet-for-classic-offensive-after-its-steam-rejection-the-team-behind-the-counter-strike-1-6-revival-mod-is-in-touch-with-valve-about-its-concerns/)
- - [Here comes Intel&#39;s new CEO: a semiconductor veteran that won the same prestigious award as Jensen Huang and Lisa Su](https://www.pcgamer.com/hardware/here-comes-intels-new-ceo-a-semiconductor-veteran-that-won-the-same-prestigious-award-as-jensen-huang-and-lisa-su/)<!-- GAME:END -->
+ - [There&#39;s hope yet for Classic Offensive after its Steam rejection: The team behind the Counter-Strike 1.6 revival mod is in touch with Valve about its &#39;concerns&#39;](https://www.pcgamer.com/games/fps/theres-hope-yet-for-classic-offensive-after-its-steam-rejection-the-team-behind-the-counter-strike-1-6-revival-mod-is-in-touch-with-valve-about-its-concerns/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
