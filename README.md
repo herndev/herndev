@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercedes-Benz is hedging its bets with rebooted CLA sedan](https://www.theverge.com/news/628464/mercedes-benz-cla-ev-hybrid-mma-platform)
- - [Android 16 is getting a major hearing accessibility feature](https://www.theverge.com/tech/628533/android-16-auracast-hearing-aid-support)
- - [Highway toll text scams are on the rise, and Apple can&#39;t completely stop them](https://appleinsider.com/articles/25/03/13/highway-toll-text-scams-are-on-the-rise-and-apple-cant-completely-stop-them?utm_medium=rss)<!-- TECH:END -->
+ - [WinRing0: Why Windows is flagging your PC monitoring and fan control apps as a threat](https://www.theverge.com/report/629259/winring0-windows-defender-fan-control-pc-monitoring-alert-quarantine)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - [The Olympics will stay on NBC for at least another decade](https://www.theverge.com/news/629377/olympics-nbc-peacock-rights-deal-2036)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
