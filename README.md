@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spectre Divide and its developer are shutting down](https://www.theverge.com/news/628698/spectre-divide-mountaintop-studios-shutting-down)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)<!-- TECH:END -->
+ - [D-Wave claims it has achieved &quot;quantum supremacy&quot; with its quantum annealing processors; some physicists say classical computers can achieve comparable results &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250312/p42#a250312p42)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 13, #171](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-13-171/#ftag=CAD590a51e)
+ - [NASA&#39;s &#39;Stranded&#39; Astronauts Are About to Come Home to Earth](https://www.cnet.com/science/nasa-stranded-astronauts-suni-williams-and-butch-wilmore-coming-home-from-iss-in-one-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
