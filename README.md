@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of March 13](https://www.polygon.com/gta-online-guides/539317/march-13-weekly-update-events-arms-trafficking)
- - [How to find a tracktail lizard location in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/531820/tracktail-lizards-location-where-to-find)
- - [How to transfer to Pokémon Home from Pokémon Go](https://www.polygon.com/pokemon-go-guide/22549040/home-transfer-app-switch-sword-shield-legendaries)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2 now has Steam Workshop support, and of course one of the first mods lets you adjust the &#39;jiggle physics&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-now-has-steam-workshop-support-and-of-course-one-of-the-first-mods-lets-you-adjust-the-jiggle-physics/)
+ - [New Hunger Games book excerpt introduces Haymitch’s doomed girlfriend](https://www.polygon.com/books/539433/hunger-games-prequel-book-sunrise-on-the-reaping-excerpt)
+ - [Microsoft unveils Copilot for Gaming, an AI-powered &#39;ultimate gaming sidekick&#39; that will let you talk to your console so you don&#39;t have to talk to your friends](https://www.pcgamer.com/software/ai/microsoft-unveils-copilot-for-gaming-an-ai-powered-ultimate-gaming-sidekick-that-will-let-you-talk-to-your-console-so-you-dont-have-to-talk-to-your-friends/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
