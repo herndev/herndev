@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
- - ⏩ [Is this true?](http://9gag.com/gag/a0eVV8B)
- - 👉 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)<!-- MEMES:END -->
+ - 💣 [PIRATE BAY CO-FOUNDER KILLED IN PLANE CRASH - Carl Lundstr\u00f6m, co-founder of The Pirate Bay, has died in a plane crash in Slovenia at age 64.](http://9gag.com/gag/ajPOKy1)
+ - ⏩ [Accurate](http://9gag.com/gag/aByLLDx)
+ - 👉 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)<!-- MEMES:END -->
 
 ---
 
