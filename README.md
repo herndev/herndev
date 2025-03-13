@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Mobile reportedly shuts down user for excessive data on its truly unlimited plan; fair or not?](https://www.androidauthority.com/us-mobile-unlimited-plan-changes-3534858/)
- - [Android 16 Beta 3 gets honest about your battery’s diminishing capacity](https://www.androidauthority.com/android-16-battery-health-3534961/)
- - [A24’s Opus is a stylish symphony of half-baked ideas](https://www.theverge.com/movie-reviews/628283/a24-opus-review)<!-- TECH:END -->
+ - [OpenAI wants the US government to legalize theft to reach the AI promised land](https://appleinsider.com/articles/25/03/13/openai-wants-the-us-government-to-legalize-theft-to-reach-the-ai-promised-land?utm_medium=rss)
+ - [Your existing AirPods could gain a new live translation feature in iOS 19](https://appleinsider.com/articles/25/03/13/your-existing-airpods-could-gain-a-new-live-translation-feature-in-ios-19?utm_medium=rss)
+ - [Curious If Meal Kits Are Cheaper Than Groceries? I Did the Math to Find Out](https://www.cnet.com/health/nutrition/curious-if-meal-kits-are-cheaper-than-groceries-i-did-the-math-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
