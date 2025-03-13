@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the Avowed Accolades Trailer](https://www.youtube.com/watch?v=2RXFfYDzZX0#new_tab)
- - [The best Monster Hunter Wilds mods](https://www.pcgamer.com/games/action/best-monster-hunter-wilds-mods/)
- - [Oh hell yes: Saber Interactive announces Space Marine 3](https://www.polygon.com/gaming/539292/saber-space-marine-3-announcement)<!-- GAME:END -->
+ - [GTA Online update for the week of March 13](https://www.polygon.com/gta-online-guides/539317/march-13-weekly-update-events-arms-trafficking)
+ - [How to find a tracktail lizard location in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/531820/tracktail-lizards-location-where-to-find)
+ - [How to transfer to Pokémon Home from Pokémon Go](https://www.polygon.com/pokemon-go-guide/22549040/home-transfer-app-switch-sword-shield-legendaries)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
