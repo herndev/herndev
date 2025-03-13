@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – The Elder Scrolls Online, Unknown 9: Awakening and Session Skate Sim](https://news.xbox.com/en-us/2025/03/13/free-play-days-03-13-2025/)
- - [Believe it or not, Kraven the Hunter makes a good case for Aaron Taylor-Johnson as James Bond](https://www.polygon.com/opinion/538367/kraven-netflix-aaron-taylor-johnson-bond)
- - [Pokémon Go ‘Festival of Colors’ 2025 event guide](https://www.polygon.com/pokemon-go-guide/538952/festival-of-colors-2025-timed-research-bruxish-smeargle)<!-- GAME:END -->
+ - [Experience Unrelenting Speed with Forza Motorsport Update 18](https://forza.net/news/forza-motorsport-update-18#new_tab)
+ - [Heroes &amp;#038; Villains launches new lineup of Critical Role apparel](https://www.polygon.com/deals/538877/heroes-villains-critical-role-mighty-nein-apparel)
+ - [Monster Hunter Wilds&#39; best change is to its layered armor, letting me finally run amok with dressup the way I should have always been able to](https://www.pcgamer.com/games/action/monster-hunter-wilds-best-change-is-to-its-layered-armor-letting-me-finally-run-amok-with-dressup-the-way-i-should-have-always-been-able-to/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
