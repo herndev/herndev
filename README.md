@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
- - ⏩ [Accurate](http://9gag.com/gag/aByLLDx)
- - 👉 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)<!-- MEMES:END -->
+ - 💣 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
+ - ⏩ [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
+ - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
 
 ---
 
