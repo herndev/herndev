@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese chipmaker Rapidus has been slow to attract private sector investment, with only around $49M invested so far, compared to $6.23B in state assistance &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250313/p8#a250313p8)
- - [Analysis: the UK has 29 of Europe&#39;s top 150 startup hubs, followed by Germany with 19; Munich&#39;s UnternehmerTUM, which has incubated 1K+ companies, ranks on top &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250313/p7#a250313p7)
- - [Samsung may have a surprise audio product launching with the Galaxy Z Fold 7](https://www.androidauthority.com/samsung-bone-conduction-headphones-3534673/)<!-- TECH:END -->
+ - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)
+ - [Amazon slashes Apple&#39;s MacBook Air to $699.99](https://appleinsider.com/articles/25/03/13/amazon-slashes-apples-macbook-air-to-69999?utm_medium=rss)
+ - [Singapore prosecutors say a case in which Singapore-based companies are accused of fraudulently supplying US servers to Malaysia involves $390M in transactions &lpar;Reuters&rpar;](http://www.techmeme.com/250313/p11#a250313p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
