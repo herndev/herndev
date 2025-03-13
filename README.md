@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
- - ⏩ [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
+ - 💣 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
+ - ⏩ [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)
+ - 👉 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)<!-- MEMES:END -->
 
 ---
 
