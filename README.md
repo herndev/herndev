@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, March 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-march-13/#ftag=CAD590a51e)
- - [How to view installer logs in macOS](https://appleinsider.com/articles/25/03/13/how-to-view-installer-logs-in-macos?utm_medium=rss)
- - [By previewing smarter Siri vaporware at WWDC and the iPhone 16 launch, Apple burned a reputation earned over decades for only promising actual working products &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250312/p44#a250312p44)<!-- TECH:END -->
+ - [CoinGecko data shows that daily trading volume of crypto dropped from a peak of $440B in early February to $163B on March 12, a 63% decrease &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250313/p4#a250313p4)
+ - [Revisiting Windows 1.0: how Microsoft’s first desktop gracefully failed](https://www.theverge.com/2012/11/20/3671922/windows-1-0-microsoft-history-desktop-gracefully-failed)
+ - [NordVPN Coupon and Discount Codes: 74% Off](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
