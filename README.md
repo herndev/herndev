@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In its final decision report, the UK CMA finds that Apple and Google&#39;s mobile browser duopoly is &quot;holding back innovation&quot;, but offers no enforcement action &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250312/p39#a250312p39)
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Meta is trying to ‘offload’ kids safety onto app stores with new bills, Google says](https://www.theverge.com/news/628583/google-meta-app-store-age-verification-kids-ssafety-utah)<!-- TECH:END -->
+ - [Spectre Divide and its developer are shutting down](https://www.theverge.com/news/628698/spectre-divide-mountaintop-studios-shutting-down)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
