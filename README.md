@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to London. So much strength.](http://9gag.com/gag/aKG9vvZ)
- - ⏩ [I think we need more Parkour fail videos on 9Gag, what do you think?](http://9gag.com/gag/ayN4WVy)
- - 👉 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)<!-- MEMES:END -->
+ - 💣 [Adding to the Anti-Bot Brigade](http://9gag.com/gag/a1mD5Mv)
+ - ⏩ [The art of the deal](http://9gag.com/gag/a7oeenx)
+ - 👉 [Brave bad boy](http://9gag.com/gag/a7oe0Yq)<!-- MEMES:END -->
 
 ---
 
