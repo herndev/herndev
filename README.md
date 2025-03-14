@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
- - ⏩ [&lpar;Repost&rpar; Still hoping for Tencent to buy Ubisoft](http://9gag.com/gag/aAyEmWZ)
- - 👉 [Tony is on the roll](http://9gag.com/gag/aAyEOvd)<!-- MEMES:END -->
+ - 💣 [Gin tonic](http://9gag.com/gag/a0eVEGd)
+ - ⏩ [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 👉 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)<!-- MEMES:END -->
 
 ---
 
