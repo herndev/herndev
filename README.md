@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [T-Mobile is raising prices on some of its prized legacy plans](https://www.theverge.com/news/629598/t-mobile-legacy-plan-price-increase)
- - [Apple’s AirPods 4 are down to their lowest price to date](https://www.theverge.com/good-deals/629335/apple-airpods-4-earbuds-lowest-price-deal-sale)<!-- TECH:END -->
+ - [Jabees Peace Speaker review: an inexpensive way to listen to audio while you sleep](https://appleinsider.com/articles/25/03/14/jabees-peace-speaker-review-an-inexpensive-way-to-listen-to-audio-while-you-sleep?utm_medium=rss)
+ - [These Are the 10 DOGE Operatives Inside the Social Security Administration](https://www.wired.com/story/doge-operatives-access-social-security-administration/)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
