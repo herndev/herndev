@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
- - ⏩ [What&#39;s your story of an old friend returning?](http://9gag.com/gag/a6Z9p2m)
- - 👉 [Historical photos you&#39;ve &lpar;probably&rpar; never seen before.](http://9gag.com/gag/agmOj0n)<!-- MEMES:END -->
+ - 💣 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
+ - ⏩ [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 👉 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)<!-- MEMES:END -->
 
 ---
 
