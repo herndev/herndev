@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh dear God no](http://9gag.com/gag/ae9O7EB)
- - ⏩ [Life thought](http://9gag.com/gag/a9yvOPm)
- - 👉 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)<!-- MEMES:END -->
+ - 💣 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
+ - ⏩ [What&#39;s your story of an old friend returning?](http://9gag.com/gag/a6Z9p2m)
+ - 👉 [Historical photos you&#39;ve &lpar;probably&rpar; never seen before.](http://9gag.com/gag/agmOj0n)<!-- MEMES:END -->
 
 ---
 
