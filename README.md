@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - ⏩ [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
- - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
+ - 💣 [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - ⏩ [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
+ - 👉 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)<!-- MEMES:END -->
 
 ---
 
