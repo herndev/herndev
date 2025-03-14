@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
- - ⏩ [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
+ - 💣 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
+ - ⏩ [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
+ - 👉 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)<!-- MEMES:END -->
 
 ---
 
