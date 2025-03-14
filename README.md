@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Armorcharm and Powercharm in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/540025/armorcharm-powercharm-how-to-get)
- - [The Electric State should have been a video game](https://www.polygon.com/action/540137/electric-state-netflix-movie-review)
- - [Another live service shooter is getting shut down, this time before it even launched on Steam](https://www.pcgamer.com/games/third-person-shooter/another-live-service-shooter-is-getting-shut-down-this-time-before-it-even-launched-on-steam/)<!-- GAME:END -->
+ - [&#39;It really truly changed my life in every possible way&#39;: Lady Dimitrescu actor says her Resident Evil Village role was just as transformative for her as it was for roughly half the internet in 2021](https://www.pcgamer.com/games/horror/it-really-truly-changed-my-life-in-every-possible-way-lady-dimitrescu-actor-says-her-resident-evil-village-role-was-just-as-transformative-for-her-as-it-was-for-roughly-half-the-internet-in-2021/)
+ - [Monster Hunter Wilds&#39; new gyro controls are a fantastic option for disabled and able-bodied players alike](https://www.pcgamer.com/monster-hunter-wilds-accessibility-options/)
+ - [Kotaku Weekend Guide: 3 Great Games Keeping Us Grounded](https://kotaku.com/game-recommendation-mullet-mad-jack-wanderstop-pokemon-1851770155)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
