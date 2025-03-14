@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The GSMA announces that the latest RCS standard now includes E2EE, enabling encrypted messaging between platforms like Android and iOS for the first time &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250314/p6#a250314p6)
- - [The Silicon Valley Christians Who Want to Build ‘Heaven on Earth’](https://www.wired.com/story/christians-silicon-valley-religion-venture-capital/)
- - [A US bankruptcy court lets 3AC raise its claim against FTX from $120M to $1.53B, despite FTX&#39;s objection that it was too late; 3AC originally filed in June 2023 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250314/p5#a250314p5)<!-- TECH:END -->
+ - [The best spring cleaning tech for 2025: Refresh your home with these smart cleaning gadgets](https://www.androidauthority.com/best-spring-cleaning-2025-3533619/)
+ - [European authorities raided 21 addresses, arrested several people, and sealed two offices in the EU Parliament, as part of a spiraling bribery probe into Huawei &lpar;Politico&rpar;](http://www.techmeme.com/250314/p8#a250314p8)
+ - [Inside Apple Music: how you can get the most out of Apple&#39;s music streaming service](https://appleinsider.com/inside/apple-music/tips/inside-apple-music-how-you-can-get-the-most-out-of-apples-music-streaming-service?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
