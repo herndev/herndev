@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Gemini will replace Google Assistant on Android phones this year, except on phones that run Android 9 or earlier and don&#39;t have at least 2 GB of RAM &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250314/p17#a250314p17)
- - [The Google Assistant era is over; Gemini is coming to your phone whether you like it or not](https://www.androidauthority.com/google-killing-assistant-3535315/)
- - [Google is officially dumping Assistant for Gemini](https://www.theverge.com/news/629904/google-assistant-gemini-moving-on)<!-- TECH:END -->
+ - [Mysterious OnePlus ‘Pagani’ rumors spark theories of a new foldable](https://www.androidauthority.com/oneplus-pagani-rumor-3535322/)
+ - [House GOP subpoenas Big Tech for evidence that Biden made AI woke](https://www.theverge.com/news/629831/subpoena-ai-gop-political-bias)
+ - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
