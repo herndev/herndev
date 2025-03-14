@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SteelSeries QcK Performance mouse pad review](https://www.pcgamer.com/hardware/gaming-mice/steelseries-qck-performance-mouse-pad-review/)
- - [8 great thrillers to watch on Netflix right now](https://www.polygon.com/23402426/best-thrillers-watch-netflix-streaming-movies)
- - [Marvel Rivals&#39; Moon Knight Is A Glass Cannon](https://kotaku.com/marvel-rivals-how-to-play-moon-knight-1851769938)<!-- GAME:END -->
+ - [Next Week on Xbox – New Games for March 17 to 21](https://news.xbox.com/en-us/2025/03/14/next-week-on-xbox-new-games-for-march-17-to-21/)
+ - [A brief guide to the colors of Severance](https://www.polygon.com/tv/539421/severance-season-color-theory-red-green-blue)
+ - [Blox Fruits codes for March 2025](https://www.polygon.com/guides/538890/blox-fruits-codes-list-all-redeem-how-to)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
