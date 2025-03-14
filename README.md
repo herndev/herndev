@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [$100 Xbox gift cards are $85 for the rest of the day](https://www.polygon.com/good-deals/539989/xbox-pc-gift-card-sale)
- - [Severance’s Best Storyline Stole The Show In Season Two’s Penultimate Episode](https://kotaku.com/severance-ep-9-season-2-burt-irving-relationship-gay-1851770084)
- - [The Bazaar could be the future of autobattlers, if it stops strangling itself to death with its own microtransactions](https://www.pcgamer.com/games/roguelike/the-bazaar-could-be-the-future-of-autobattlers-if-it-stops-strangling-itself-to-death-with-its-own-microtransactions/)<!-- GAME:END -->
+ - [New Avowed Update Will Make Your Character More Powerful](https://kotaku.com/new-avowed-update-1-3-patch-notes-talent-points-xbox-pc-1851770102)
+ - [Save on dozens of our favoite TTRPGs at DriveThruRPG](https://www.polygon.com/sales-guide/539861/drivethrurpg-gm-day-cyberpunk-fallout-dune-ttrpg-deals)
+ - [How to get herbivore carapaces in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/539826/herbivore-carapaces-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
