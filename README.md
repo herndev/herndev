@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How trading works in Pokémon TCG Pocket, including trade rules and restrictions](https://www.polygon.com/pokemon-tcg-pocket-guides/515774/trading-how-to-trade-rules-restrictions-offers)
- - [&#39;We&#39;ve been keeping fans waiting for an awfully long time&#39;: We finally got to see more of Silent Hill f and boy, does it look great](https://www.pcgamer.com/games/horror/weve-been-keeping-fans-waiting-for-an-awfully-long-time-we-finally-got-to-see-more-of-silent-hill-f-and-boy-does-it-look-great/)
- - [8 Things I Wish I Knew Before Starting Like A Dragon: Pirate Yakuza In Hawaii](https://kotaku.com/like-a-dragon-pirate-yakuza-in-hawaii-guide-tips-1851769962)<!-- GAME:END -->
+ - [How Hanoi Puzzles: Solid Match is Helping Neurodivergent Children in Brazil](https://news.xbox.com/en-us/2025/03/14/how-hanoi-puzzles-solid-match-helps-children-in-brazil/)
+ - [World&#39;s smallest microcontroller looks like I could easily accidentally inhale it but packs a genuine 32-bit Arm CPU](https://www.pcgamer.com/hardware/processors/worlds-smallest-microcontroller-looks-like-i-could-easily-accidentally-inhale-it-but-packs-a-genuine-32-bit-arm-cpu/)
+ - [Soundcore Liberty 4 Pro review](https://www.pcgamer.com/hardware/earbuds-headphones/soundcore-liberty-4-pro-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
