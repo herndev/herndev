@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
- - ⏩ [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
+ - 💣 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
+ - ⏩ [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
  - 👉 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)<!-- MEMES:END -->
 
 ---
