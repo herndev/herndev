@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 lineup names may be coming into focus](https://appleinsider.com/articles/25/03/14/iphone-17-lineup-names-may-be-coming-into-focus?utm_medium=rss)
- - [Morgan Marquis-Boire, the once-celebrated hacker accused of sexual assaults in 2017, is the undisclosed co-founder of crypto intelligence firm Unciphered &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250314/p14#a250314p14)
- - [Vampire Survivors: our collective obsession with the quirky, genre-defining indie game](https://www.theverge.com/games/23827123/vampire-survivors-news-announcements-updates-dlc-spinoffs)<!-- TECH:END -->
+ - [Nintendo Switch 2 might launch with a PS5-level price tag](https://www.androidauthority.com/nintendo-switch-2-price-forecast-3535238/)
+ - [Reddit will allow users to hide ads from their feeds from an advertiser account for &quot;at least a year&quot;; some users report seeing a daily limit for hiding ads &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250314/p15#a250314p15)
+ - [These new Roombas aren’t the robots I know and love](https://www.theverge.com/smart-home/628900/irobot-roomba-reinvention-pushes-out-invention)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
