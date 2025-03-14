@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best robot vacuum deals right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Flock Safety, maker of computer vision-enabled video surveillance tech for police and businesses, raised $275M at a $7.5B valuation, up from $4.8B a year ago &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250313/p45#a250313p45)
- - [&#39;The Electric State&#39;: How to Stream the New Movie From the Russo Brothers](https://www.cnet.com/tech/services-and-software/the-electric-state-how-to-stream-the-new-movie-from-the-russo-brothers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [T-Mobile is raising prices on some of its prized legacy plans](https://www.theverge.com/news/629598/t-mobile-legacy-plan-price-increase)
+ - [Apple’s AirPods 4 are down to their lowest price to date](https://www.theverge.com/good-deals/629335/apple-airpods-4-earbuds-lowest-price-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
