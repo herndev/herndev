@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox – New Games for March 17 to 21](https://news.xbox.com/en-us/2025/03/14/next-week-on-xbox-new-games-for-march-17-to-21/)
- - [A brief guide to the colors of Severance](https://www.polygon.com/tv/539421/severance-season-color-theory-red-green-blue)
- - [Blox Fruits codes for March 2025](https://www.polygon.com/guides/538890/blox-fruits-codes-list-all-redeem-how-to)<!-- GAME:END -->
+ - [The First New Silent Hill In Over 13 Years Gets The Haunting Reveal Fans Have Been Waiting For](https://kotaku.com/silent-hill-f-trailer-remake-konami-ps5-exclusive-date-1851769984)
+ - [Pokémon TCG Pocket devs promise to eliminate the much loathed Trade Tokens](https://www.polygon.com/news/539651/pokemon-tcg-pocket-trade-rules-token-update)
+ - [Next Week on Xbox – New Games for March 17 to 21](https://news.xbox.com/en-us/2025/03/14/next-week-on-xbox-new-games-for-march-17-to-21/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
