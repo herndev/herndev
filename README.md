@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
- - ⏩ [Going to tell my kids this is Grey&#39;s Anatomy](http://9gag.com/gag/a1mDLgP)
- - 👉 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)<!-- MEMES:END -->
+ - 💣 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
+ - ⏩ [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
+ - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
 
 ---
 
