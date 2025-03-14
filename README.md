@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Experts predict a huge June launch — and a high price — for Switch 2](https://www.polygon.com/nintendo-switch-2/539639/nintendo-switch-2-analysts-launch-price-predictions)
- - [Three lucky folks in India can win the dubious honour of buying an RTX 5080 GPU at Nvidia MSRP](https://www.pcgamer.com/hardware/graphics-cards/three-lucky-folks-in-india-can-win-the-dubious-honour-of-buying-an-rtx-5080-gpu-at-nvidia-msrp/)
- - [Get ready to argue with your weird Uncle on Facebook again. Meta is rolling out its new fact checking solution to it&#39;s 190 million users in the United States](https://www.pcgamer.com/hardware/get-ready-to-argue-with-your-weird-uncle-on-facebook-again-meta-is-rolling-out-its-new-fact-checking-solution-to-its-190-million-users-in-the-united-states/)<!-- GAME:END -->
+ - [Super Nintendo consoles appear to be running ever-so-slightly faster as they age and speedrunning detectives are hot on the case](https://www.pcgamer.com/hardware/super-nintendo-consoles-appear-to-be-running-ever-so-slightly-faster-as-they-age-and-speedrunning-detectives-are-hot-on-the-case/)
+ - [Marvel Rivals&#39; growing roster of heroes scares me, but the game&#39;s director seems sure that all is under control: &#39;Everything is progressing smoothly&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-growing-roster-of-heroes-scares-me-but-the-games-director-seems-sure-that-all-is-under-control-everything-is-progressing-smoothly/)
+ - [Experts predict a huge June launch — and a high price — for Switch 2](https://www.polygon.com/nintendo-switch-2/539639/nintendo-switch-2-analysts-launch-price-predictions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
