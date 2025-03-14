@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The First New Silent Hill In Over 13 Years Gets The Haunting Reveal Fans Have Been Waiting For](https://kotaku.com/silent-hill-f-trailer-remake-konami-ps5-exclusive-date-1851769984)
- - [Pokémon TCG Pocket devs promise to eliminate the much loathed Trade Tokens](https://www.polygon.com/news/539651/pokemon-tcg-pocket-trade-rules-token-update)
- - [Next Week on Xbox – New Games for March 17 to 21](https://news.xbox.com/en-us/2025/03/14/next-week-on-xbox-new-games-for-march-17-to-21/)<!-- GAME:END -->
+ - [How trading works in Pokémon TCG Pocket, including trade rules and restrictions](https://www.polygon.com/pokemon-tcg-pocket-guides/515774/trading-how-to-trade-rules-restrictions-offers)
+ - [&#39;We&#39;ve been keeping fans waiting for an awfully long time&#39;: We finally got to see more of Silent Hill f and boy, does it look great](https://www.pcgamer.com/games/horror/weve-been-keeping-fans-waiting-for-an-awfully-long-time-we-finally-got-to-see-more-of-silent-hill-f-and-boy-does-it-look-great/)
+ - [8 Things I Wish I Knew Before Starting Like A Dragon: Pirate Yakuza In Hawaii](https://kotaku.com/like-a-dragon-pirate-yakuza-in-hawaii-guide-tips-1851769962)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
