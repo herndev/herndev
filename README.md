@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
- - ⏩ [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
- - 👉 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)<!-- MEMES:END -->
+ - 💣 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - ⏩ [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
+ - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
 
 ---
 
