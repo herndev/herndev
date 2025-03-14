@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One ticket please](http://9gag.com/gag/aO84Gm2)
- - ⏩ [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 👉 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)<!-- MEMES:END -->
+ - 💣 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
+ - ⏩ [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 👉 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)<!-- MEMES:END -->
 
 ---
 
