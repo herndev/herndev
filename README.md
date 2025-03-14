@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Motorcycle accident](http://9gag.com/gag/a7oeNAw)
- - ⏩ [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 👉 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)<!-- MEMES:END -->
+ - 💣 [Oh dear God no](http://9gag.com/gag/ae9O7EB)
+ - ⏩ [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 👉 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)<!-- MEMES:END -->
 
 ---
 
