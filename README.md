@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first main-series Silent Hill in over 11 years finally has a new trailer](https://www.polygon.com/news/539535/silent-hill-f-trailer-konami-transmission)
- - [One of my favorite indie RPGs is getting a follow-up made with FromSoftware&#39;s 25-year-old Super Mario Maker for first person dungeon crawlers](https://www.pcgamer.com/games/rpg/one-of-my-favorite-indie-rpgs-is-getting-a-follow-up-made-with-fromsoftwares-25-year-old-super-mario-maker-for-first-person-dungeon-crawlers/)
- - [Kingdom Come: Deliverance 2 now has Steam Workshop support, and of course one of the first mods lets you adjust the &#39;jiggle physics&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-now-has-steam-workshop-support-and-of-course-one-of-the-first-mods-lets-you-adjust-the-jiggle-physics/)<!-- GAME:END -->
+ - [The best deals in the 2025 Steam Spring Sale](https://www.pcgamer.com/games/best-deals-steam-spring-sale-2025/)
+ - [The first main-series Silent Hill in 13 years finally has a new trailer](https://www.polygon.com/news/539535/silent-hill-f-trailer-konami-transmission)
+ - [One of my favorite indie RPGs is getting a follow-up made with FromSoftware&#39;s 25-year-old Super Mario Maker for first person dungeon crawlers](https://www.pcgamer.com/games/rpg/one-of-my-favorite-indie-rpgs-is-getting-a-follow-up-made-with-fromsoftwares-25-year-old-super-mario-maker-for-first-person-dungeon-crawlers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
