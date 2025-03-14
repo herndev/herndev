@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Switch 2 might launch with a PS5-level price tag](https://www.androidauthority.com/nintendo-switch-2-price-forecast-3535238/)
- - [Reddit will allow users to hide ads from their feeds from an advertiser account for &quot;at least a year&quot;; some users report seeing a daily limit for hiding ads &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250314/p15#a250314p15)
- - [These new Roombas aren’t the robots I know and love](https://www.theverge.com/smart-home/628900/irobot-roomba-reinvention-pushes-out-invention)<!-- TECH:END -->
+ - [Google says Gemini will replace Google Assistant on Android phones this year, except on phones that run Android 9 or earlier and don&#39;t have at least 2 GB of RAM &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250314/p17#a250314p17)
+ - [The Google Assistant era is over; Gemini is coming to your phone whether you like it or not](https://www.androidauthority.com/google-killing-assistant-3535315/)
+ - [Google is officially dumping Assistant for Gemini](https://www.theverge.com/news/629904/google-assistant-gemini-moving-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
