@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will soon support encrypted RCS messaging with Android users](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android)
- - [SoftBank plans to buy a former Sharp LCD panel plant in Osaka for ~$676M, sources say to turn it into a data center for jointly developing AI agents with OpenAI &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250314/p4#a250314p4)
- - [Foxconn reports Q4 profit down 13% YoY to ~$1.41B, missing the ~$1.65B estimate, its first quarterly drop since Q2 2023, but forecasts strong Q1 2025 growth &lpar;Reuters&rpar;](http://www.techmeme.com/250314/p3#a250314p3)<!-- TECH:END -->
+ - [The GSMA announces that the latest RCS standard now includes E2EE, enabling encrypted messaging between platforms like Android and iOS for the first time &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250314/p6#a250314p6)
+ - [The Silicon Valley Christians Who Want to Build ‘Heaven on Earth’](https://www.wired.com/story/christians-silicon-valley-religion-venture-capital/)
+ - [A US bankruptcy court lets 3AC raise its claim against FTX from $120M to $1.53B, despite FTX&#39;s objection that it was too late; 3AC originally filed in June 2023 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250314/p5#a250314p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
