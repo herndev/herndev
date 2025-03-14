@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Experts predict a huge June launch — and a high price — for Switch 2](https://www.polygon.com/nintendo-switch-2/539639/nintendo-switch-2-analysts-launch-price-predictions)
  - [Three lucky folks in India can win the dubious honour of buying an RTX 5080 GPU at Nvidia MSRP](https://www.pcgamer.com/hardware/graphics-cards/three-lucky-folks-in-india-can-win-the-dubious-honour-of-buying-an-rtx-5080-gpu-at-nvidia-msrp/)
- - [Get ready to argue with your weird Uncle on Facebook again. Meta is rolling out its new fact checking solution to it&#39;s 190 million users in the United States](https://www.pcgamer.com/hardware/get-ready-to-argue-with-your-weird-uncle-on-facebook-again-meta-is-rolling-out-its-new-fact-checking-solution-to-its-190-million-users-in-the-united-states/)
- - [Fresh leak suggests Intel&#39;s on-again-off-again Arrow Lake CPU refresh is back on the menu &lpar;boys&rpar;](https://www.pcgamer.com/hardware/processors/fresh-leak-suggests-intels-on-again-off-again-arrow-lake-cpu-refresh-is-back-on-the-menu-boys/)<!-- GAME:END -->
+ - [Get ready to argue with your weird Uncle on Facebook again. Meta is rolling out its new fact checking solution to it&#39;s 190 million users in the United States](https://www.pcgamer.com/hardware/get-ready-to-argue-with-your-weird-uncle-on-facebook-again-meta-is-rolling-out-its-new-fact-checking-solution-to-its-190-million-users-in-the-united-states/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
