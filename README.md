@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy is offering Mint Mobile for its lowest price of the year so far](https://www.androidauthority.com/mint-mobile-best-buy-deal-3535199/)
- - [&#39;Ted Lasso&#39; star Jason Sudeikis spills the beans on season 4](https://appleinsider.com/articles/25/03/14/ted-lasso-star-jason-sudeikis-spills-the-beans-on-season-4?utm_medium=rss)
- - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Tesla registrations — and public opinion — are in free fall](https://www.theverge.com/news/629667/tesla-elon-musk-donald-trump-doge-polling-data)
+ - [The DOJ says Rostislav Panev, who is accused of being a key developer for the LockBit ransomware gang, has been extradited from Israel to the US &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250314/p13#a250314p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
