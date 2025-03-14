@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT’s latest update closes the gap against Gemini on Android](https://www.androidauthority.com/chatgpt-default-assistant-on-android-3535089/)
- - [27 Best Housewarming Gifts for 2025](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)
- - [This Galaxy S9 camera feature could finally make a comeback on Galaxy S26 Ultra](https://www.androidauthority.com/samsung-galaxy-s26-ultra-camera-feature-3535064/)<!-- TECH:END -->
+ - [Apple AirPods could get a cool feature Pixel Buds have had for ages](https://www.androidauthority.com/apple-airpods-pixel-buds-feature-leak-3535083/)
+ - [Two activist groups launch a legal challenge against the UK&#39;s bid to force Apple to create a data &quot;backdoor&quot;, arguing it would breach consumers&#39; privacy rights &lpar;Financial Times&rpar;](http://www.techmeme.com/250314/p2#a250314p2)
+ - [ChatGPT’s latest update closes the gap against Gemini on Android](https://www.androidauthority.com/chatgpt-default-assistant-on-android-3535089/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
