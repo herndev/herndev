@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, March 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-14-2025/)
  - [Go ahead and complain the discounts aren&#39;t as steep as they used to be, but Steam just had its biggest year ever for seasonal sales](https://www.pcgamer.com/gaming-industry/go-ahead-and-complain-the-discounts-arent-as-steep-as-they-used-to-be-but-steam-just-had-its-biggest-year-ever-for-seasonal-sales/)
- - [&#39;The future of hardware at Valve is bright&#39;: Valve celebrates the success of Steam Deck and Steam OS](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-future-of-hardware-at-valve-is-bright-valve-celebrates-the-success-of-steam-deck-and-steam-os/)
- - [Shonen blockbuster Gachiakuta comes to Crunchyroll this July](https://www.polygon.com/anime/539360/gachiakuta-trailer-release-date-crunchyroll)<!-- GAME:END -->
+ - [&#39;The future of hardware at Valve is bright&#39;: Valve celebrates the success of Steam Deck and Steam OS](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-future-of-hardware-at-valve-is-bright-valve-celebrates-the-success-of-steam-deck-and-steam-os/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
