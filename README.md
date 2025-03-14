@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Possibility Space owners sue NetEase for $900 million over allegations it spread &#39;false  and defamatory rumors&#39; of fraud at the studio that ultimately forced it to close](https://www.pcgamer.com/gaming-industry/possibility-space-owners-sue-netease-for-usd900-million-over-allegations-it-spread-false-and-defamatory-rumors-of-fraud-at-the-studio-that-ultimately-forced-it-to-close/)
- - [Here’s what Troy Baker did to sound uncannily like Indiana Jones](https://www.polygon.com/gaming/540046/indiana-jones-great-circle-troy-baker-voice-acting)
- - [Which of Nintendo’s internal teams might already be working on Switch 2 games?](https://www.polygon.com/nintendo-switch-2/539478/switch-2-games-nintendo-internal-dev-teams)<!-- GAME:END -->
+ - [How to get Armorcharm and Powercharm in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/540025/armorcharm-powercharm-how-to-get)
+ - [The Electric State should have been a video game](https://www.polygon.com/action/540137/electric-state-netflix-movie-review)
+ - [Another live service shooter is getting shut down, this time before it even launched on Steam](https://www.pcgamer.com/games/third-person-shooter/another-live-service-shooter-is-getting-shut-down-this-time-before-it-even-launched-on-steam/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
