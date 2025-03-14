@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old school romance](http://9gag.com/gag/aKG9eEg)
- - ⏩ [NOW - Green flames rise from manhole covers on Texas Tech campus. Buildings are being evacuated.](http://9gag.com/gag/aW4L2pZ)
- - 👉 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)<!-- MEMES:END -->
+ - 💣 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
+ - ⏩ [Paid for](http://9gag.com/gag/a34A27N)
+ - 👉 [Going to tell my kids this is Grey&#39;s Anatomy](http://9gag.com/gag/a1mDLgP)<!-- MEMES:END -->
 
 ---
 
