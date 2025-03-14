@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best deals in the 2025 Steam Spring Sale](https://www.pcgamer.com/games/best-deals-steam-spring-sale-2025/)
- - [The first main-series Silent Hill in 13 years finally has a new trailer](https://www.polygon.com/news/539535/silent-hill-f-trailer-konami-transmission)
- - [One of my favorite indie RPGs is getting a follow-up made with FromSoftware&#39;s 25-year-old Super Mario Maker for first person dungeon crawlers](https://www.pcgamer.com/games/rpg/one-of-my-favorite-indie-rpgs-is-getting-a-follow-up-made-with-fromsoftwares-25-year-old-super-mario-maker-for-first-person-dungeon-crawlers/)<!-- GAME:END -->
+ - [&#39;The future of hardware at Valve is bright&#39;: Valve celebrates the success of Steam Deck and Steam OS](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-future-of-hardware-at-valve-is-bright-valve-celebrates-the-success-of-steam-deck-and-steam-os/)
+ - [Shonen blockbuster Gachiakuta comes to Crunchyroll this July](https://www.polygon.com/anime/539360/gachiakuta-trailer-release-date-crunchyroll)
+ - [The best deals in the 2025 Steam Spring Sale](https://www.pcgamer.com/games/best-deals-steam-spring-sale-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
