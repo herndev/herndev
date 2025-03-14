@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)
- - ⏩ [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
- - 👉 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)<!-- MEMES:END -->
+ - 💣 [Oh dear God no](http://9gag.com/gag/ae9O7EB)
+ - ⏩ [Life thought](http://9gag.com/gag/a9yvOPm)
+ - 👉 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)<!-- MEMES:END -->
 
 ---
 
