@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Hanoi Puzzles: Solid Match is Helping Neurodivergent Children in Brazil](https://news.xbox.com/en-us/2025/03/14/how-hanoi-puzzles-solid-match-helps-children-in-brazil/)
- - [World&#39;s smallest microcontroller looks like I could easily accidentally inhale it but packs a genuine 32-bit Arm CPU](https://www.pcgamer.com/hardware/processors/worlds-smallest-microcontroller-looks-like-i-could-easily-accidentally-inhale-it-but-packs-a-genuine-32-bit-arm-cpu/)
- - [Soundcore Liberty 4 Pro review](https://www.pcgamer.com/hardware/earbuds-headphones/soundcore-liberty-4-pro-review/)<!-- GAME:END -->
+ - [$100 Xbox gift cards are $85 for the rest of the day](https://www.polygon.com/good-deals/539989/xbox-pc-gift-card-sale)
+ - [Severance’s Best Storyline Stole The Show In Season Two’s Penultimate Episode](https://kotaku.com/severance-ep-9-season-2-burt-irving-relationship-gay-1851770084)
+ - [The Bazaar could be the future of autobattlers, if it stops strangling itself to death with its own microtransactions](https://www.pcgamer.com/games/roguelike/the-bazaar-could-be-the-future-of-autobattlers-if-it-stops-strangling-itself-to-death-with-its-own-microtransactions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
