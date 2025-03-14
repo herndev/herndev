@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirPods could get a cool feature Pixel Buds have had for ages](https://www.androidauthority.com/apple-airpods-pixel-buds-feature-leak-3535083/)
- - [Two activist groups launch a legal challenge against the UK&#39;s bid to force Apple to create a data &quot;backdoor&quot;, arguing it would breach consumers&#39; privacy rights &lpar;Financial Times&rpar;](http://www.techmeme.com/250314/p2#a250314p2)
- - [ChatGPT’s latest update closes the gap against Gemini on Android](https://www.androidauthority.com/chatgpt-default-assistant-on-android-3535089/)<!-- TECH:END -->
+ - [Apple will soon support encrypted RCS messaging with Android users](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android)
+ - [SoftBank plans to buy a former Sharp LCD panel plant in Osaka for ~$676M, sources say to turn it into a data center for jointly developing AI agents with OpenAI &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250314/p4#a250314p4)
+ - [Foxconn reports Q4 profit down 13% YoY to ~$1.41B, missing the ~$1.65B estimate, its first quarterly drop since Q2 2023, but forecasts strong Q1 2025 growth &lpar;Reuters&rpar;](http://www.techmeme.com/250314/p3#a250314p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
