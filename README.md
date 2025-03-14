@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block says it is expanding consumer lending through Cash App Borrow after obtaining FDIC approval to issue loans out of its subsidiary Square Financial Services &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250314/p22#a250314p22)
- - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Samsung Pass holdouts get reminder to switch to Wallet before the app’s imminent demise](https://www.androidauthority.com/samsung-pass-to-wallet-migration-reminder-3535393/)<!-- TECH:END -->
+ - [Watch NASA’s SpaceX Crew-10 mission launch tonight](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [M4 MacBook Air teardown reveals it&#39;s just as easy to repair as its predecessor](https://appleinsider.com/articles/25/03/14/m4-macbook-air-teardown-reveals-its-just-as-easy-to-repair-as-its-predecessor?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
