@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
- - ⏩ [Going to tell my kids this is Grey&#39;s Anatomy](http://9gag.com/gag/a1mDLgP)
- - 👉 [Hired!](http://9gag.com/gag/ajPORg1)<!-- MEMES:END -->
+ - 💣 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
+ - ⏩ [Where do pilots sleep during breaks?](http://9gag.com/gag/a2v8O01)
+ - 👉 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)<!-- MEMES:END -->
 
 ---
 
