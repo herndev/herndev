@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best spring cleaning tech for 2025: Refresh your home with these smart cleaning gadgets](https://www.androidauthority.com/best-spring-cleaning-2025-3533619/)
- - [European authorities raided 21 addresses, arrested several people, and sealed two offices in the EU Parliament, as part of a spiraling bribery probe into Huawei &lpar;Politico&rpar;](http://www.techmeme.com/250314/p8#a250314p8)
- - [Inside Apple Music: how you can get the most out of Apple&#39;s music streaming service](https://appleinsider.com/inside/apple-music/tips/inside-apple-music-how-you-can-get-the-most-out-of-apples-music-streaming-service?utm_medium=rss)<!-- TECH:END -->
+ - [The Beef Tallow Skin Care Trend Smells Like a Scam](https://www.wired.com/story/i-have-beef-with-tallow/)
+ - [T-Mobile is giving out a free voice line, and here’s what you need to know before claiming it](https://www.androidauthority.com/t-mobile-free-voice-line-promotion-3535179/)
+ - [Android could make notifications transparent so you can enjoy your wallpaper](https://www.androidauthority.com/android-16-transparent-notifications-3534100/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
