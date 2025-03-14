@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)
- - ⏩ [No product shrinkage is nearly as infuriating as Magnum\u2019s. This thing was 3 times the size 15 years ago](http://9gag.com/gag/aW4L28K)
- - 👉 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)<!-- MEMES:END -->
+ - 💣 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)
+ - ⏩ [&lpar;Repost&rpar; Still hoping for Tencent to buy Ubisoft](http://9gag.com/gag/aAyEmWZ)
+ - 👉 [Tony is on the roll](http://9gag.com/gag/aAyEOvd)<!-- MEMES:END -->
 
 ---
 
