@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Nintendo consoles appear to be running ever-so-slightly faster as they age and speedrunning detectives are hot on the case](https://www.pcgamer.com/hardware/super-nintendo-consoles-appear-to-be-running-ever-so-slightly-faster-as-they-age-and-speedrunning-detectives-are-hot-on-the-case/)
- - [Marvel Rivals&#39; growing roster of heroes scares me, but the game&#39;s director seems sure that all is under control: &#39;Everything is progressing smoothly&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-growing-roster-of-heroes-scares-me-but-the-games-director-seems-sure-that-all-is-under-control-everything-is-progressing-smoothly/)
- - [Experts predict a huge June launch — and a high price — for Switch 2](https://www.polygon.com/nintendo-switch-2/539639/nintendo-switch-2-analysts-launch-price-predictions)<!-- GAME:END -->
+ - [SteelSeries QcK Performance mouse pad review](https://www.pcgamer.com/hardware/gaming-mice/steelseries-qck-performance-mouse-pad-review/)
+ - [8 great thrillers to watch on Netflix right now](https://www.polygon.com/23402426/best-thrillers-watch-netflix-streaming-movies)
+ - [Marvel Rivals&#39; Moon Knight Is A Glass Cannon](https://kotaku.com/marvel-rivals-how-to-play-moon-knight-1851769938)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
