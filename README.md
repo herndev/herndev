@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mysterious OnePlus ‘Pagani’ rumors spark theories of a new foldable](https://www.androidauthority.com/oneplus-pagani-rumor-3535322/)
- - [House GOP subpoenas Big Tech for evidence that Biden made AI woke](https://www.theverge.com/news/629831/subpoena-ai-gop-political-bias)
- - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)<!-- TECH:END -->
+ - [Rep. Jim Jordan subpoenas 16 companies, including Apple, Meta, and OpenAI, over alleged Biden administration pressure to use AI to &quot;censor lawful speech&quot; &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/250314/p20#a250314p20)
+ - [OpenAI and Google ask the government to let them train AI on content they don’t own](https://www.theverge.com/news/630079/openai-google-copyright-fair-use-exception)
+ - [Anthropic’s plan to win the AI race](https://www.theverge.com/command-line-newsletter/630037/anthropic-plan-win-ai-race-mike-krieger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
