@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Beef Tallow Skin Care Trend Smells Like a Scam](https://www.wired.com/story/i-have-beef-with-tallow/)
- - [T-Mobile is giving out a free voice line, and here’s what you need to know before claiming it](https://www.androidauthority.com/t-mobile-free-voice-line-promotion-3535179/)
- - [Android could make notifications transparent so you can enjoy your wallpaper](https://www.androidauthority.com/android-16-transparent-notifications-3534100/)<!-- TECH:END -->
+ - [Best Buy is offering Mint Mobile for its lowest price of the year so far](https://www.androidauthority.com/mint-mobile-best-buy-deal-3535199/)
+ - [&#39;Ted Lasso&#39; star Jason Sudeikis spills the beans on season 4](https://appleinsider.com/articles/25/03/14/ted-lasso-star-jason-sudeikis-spills-the-beans-on-season-4?utm_medium=rss)
+ - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
