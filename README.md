@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, March 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-14-2025/)
- - [Go ahead and complain the discounts aren&#39;t as steep as they used to be, but Steam just had its biggest year ever for seasonal sales](https://www.pcgamer.com/gaming-industry/go-ahead-and-complain-the-discounts-arent-as-steep-as-they-used-to-be-but-steam-just-had-its-biggest-year-ever-for-seasonal-sales/)
- - [&#39;The future of hardware at Valve is bright&#39;: Valve celebrates the success of Steam Deck and Steam OS](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-future-of-hardware-at-valve-is-bright-valve-celebrates-the-success-of-steam-deck-and-steam-os/)<!-- GAME:END -->
+ - [Three lucky folks in India can win the dubious honour of buying an RTX 5080 GPU at Nvidia MSRP](https://www.pcgamer.com/hardware/graphics-cards/three-lucky-folks-in-india-can-win-the-dubious-honour-of-buying-an-rtx-5080-gpu-at-nvidia-msrp/)
+ - [Get ready to argue with your weird Uncle on Facebook again. Meta is rolling out its new fact checking solution to it&#39;s 190 million users in the United States](https://www.pcgamer.com/hardware/get-ready-to-argue-with-your-weird-uncle-on-facebook-again-meta-is-rolling-out-its-new-fact-checking-solution-to-its-190-million-users-in-the-united-states/)
+ - [Fresh leak suggests Intel&#39;s on-again-off-again Arrow Lake CPU refresh is back on the menu &lpar;boys&rpar;](https://www.pcgamer.com/hardware/processors/fresh-leak-suggests-intels-on-again-off-again-arrow-lake-cpu-refresh-is-back-on-the-menu-boys/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
