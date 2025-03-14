@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch NASA’s SpaceX Crew-10 mission launch tonight](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [M4 MacBook Air teardown reveals it&#39;s just as easy to repair as its predecessor](https://appleinsider.com/articles/25/03/14/m4-macbook-air-teardown-reveals-its-just-as-easy-to-repair-as-its-predecessor?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Watch NASA’s SpaceX Crew-10 mission launch](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [Android&amp;#8217;s Find My Device app can now show you where people are, too](https://www.theverge.com/news/630222/android-march-find-my-device-people-location-sharing-update)
+ - [Streamers court YouTubers for new shows or spinoffs; sources: Amazon made $100M+ in profit on Beast Games and Netflix held talks with Dude Perfect for a series &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250314/p28#a250314p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
