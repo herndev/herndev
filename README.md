@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White people making street food like Indians.](http://9gag.com/gag/aMVmXWx)
- - ⏩ [Paid for](http://9gag.com/gag/a34A27N)
- - 👉 [Going to tell my kids this is Grey&#39;s Anatomy](http://9gag.com/gag/a1mDLgP)<!-- MEMES:END -->
+ - 💣 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
+ - ⏩ [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
+ - 👉 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)<!-- MEMES:END -->
 
 ---
 
