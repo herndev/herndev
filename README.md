@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Avowed Update Will Make Your Character More Powerful](https://kotaku.com/new-avowed-update-1-3-patch-notes-talent-points-xbox-pc-1851770102)
- - [Save on dozens of our favoite TTRPGs at DriveThruRPG](https://www.polygon.com/sales-guide/539861/drivethrurpg-gm-day-cyberpunk-fallout-dune-ttrpg-deals)
- - [How to get herbivore carapaces in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/539826/herbivore-carapaces-how-to-get)<!-- GAME:END -->
+ - [Possibility Space owners sue NetEase for $900 million over allegations it spread &#39;false  and defamatory rumors&#39; of fraud at the studio that ultimately forced it to close](https://www.pcgamer.com/gaming-industry/possibility-space-owners-sue-netease-for-usd900-million-over-allegations-it-spread-false-and-defamatory-rumors-of-fraud-at-the-studio-that-ultimately-forced-it-to-close/)
+ - [Here’s what Troy Baker did to sound uncannily like Indiana Jones](https://www.polygon.com/gaming/540046/indiana-jones-great-circle-troy-baker-voice-acting)
+ - [Which of Nintendo’s internal teams might already be working on Switch 2 games?](https://www.polygon.com/nintendo-switch-2/539478/switch-2-games-nintendo-internal-dev-teams)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
