@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back to sense](http://9gag.com/gag/avyeBRX)
- - ⏩ [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
- - 👉 [A U.S. pilot ejected from a fighter jet after a slow-moving crash.](http://9gag.com/gag/aO84E9D)<!-- MEMES:END -->
+ - 💣 [These guys trying to escape](http://9gag.com/gag/aD2n5eB)
+ - ⏩ [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
+ - 👉 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)<!-- MEMES:END -->
 
 ---
 
