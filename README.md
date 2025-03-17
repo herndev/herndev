@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [Factory reset your buggy Chromecast? Google finally has a fix for you](https://www.androidauthority.com/chromecast-factory-reset-fix-3535815/)
- - [Adobe: traffic from AI sources to US retail sites in February rose 1,200% from July 2024; 39% of US consumers used generative AI for shopping, 53% plan to do so &lpar;Mike Pastore/Search Engine Land&rpar;](http://www.techmeme.com/250317/p26#a250317p26)<!-- TECH:END -->
+ - [Source: Liam Fedus, VP of research in charge of post-training at OpenAI, is leaving the company to found a startup focused on using AI to discover new materials &lpar;The Information&rpar;](http://www.techmeme.com/250317/p27#a250317p27)
+ - [Great savings on the EcoFlow Delta Pro 3, which will keep your home powered](https://www.theverge.com/good-deals/631237/ecoflow-delta-3-pro-power-station-apple-ipad-11th-gen-deal-sale)
+ - [Fitbit’s latest experiment will help you sort out your awful sleep schedule](https://www.androidauthority.com/fitbit-personalized-sleep-schedule-3535794/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
