@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows fast charging is concerning but people use it anyway](https://www.androidauthority.com/survey-fast-charging-people-use-it-3535570/)
- - [A look at &quot;coachbots&quot;, AI-powered virtual coaches like CoachHub&#39;s Aimy and Valence&#39;s Nadia that advise on salary talks, work habits, and role-play conversations &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250317/p6#a250317p6)
- - [Microsoft wants your Android phone’s data to make Copilot better, but is it worth it?](https://www.androidauthority.com/windows-copilot-phone-connection-setting-3535566/)<!-- TECH:END -->
+ - [Carl Lundstrom, who financed file sharing service the Pirate Bay, died in a plane crash in Slovenia; at its peak, the Pirate Bay had an estimated 20M+ users &lpar;Michael Levenson/New York Times&rpar;](http://www.techmeme.com/250317/p9#a250317p9)
+ - [Alphabet spins off Starlink competitor Taara](https://www.theverge.com/news/631049/alphabet-spins-off-starlink-competitor-taara)
+ - [Crypto exchange OKX says it has &quot;temporarily&quot; suspended its DEX aggregator services, used to launder the $1.5B Bybit hack, after reported EU scrutiny under MiCA &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250317/p8#a250317p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
