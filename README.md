@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Trump&amp;#8217;s tariff chaos is already changing global trade](https://www.theverge.com/decoder-podcast-with-nilay-patel/631082/trump-tariffs-iphone-altana-ceo-evan-smith-interview)
- - [Robinhood partners with Kalshi to launch a prediction markets hub in the US for retail traders, starting with bets on the federal funds rate and March Madness &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250317/p19#a250317p19)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
+ - [Microsoft Is Paywalling Notepad and Paint, but Only AI Features](https://www.cnet.com/tech/services-and-software/microsoft-is-paywalling-notepad-and-paint-but-only-ai-features/#ftag=CAD590a51e)
+ - [Bumble rolls out new ID verification in the US, the UK, Australia, France, India, and six other markets, as founder Whitney Wolfe Herd returns as its CEO &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250317/p21#a250317p21)
+ - [Roblox open sources Cube 3D, the first version of its AI foundation model for generating 3D objects, trained on licensed and public datasets and its own data &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250317/p20#a250317p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
