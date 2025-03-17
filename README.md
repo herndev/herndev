@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram&#39;s Pavel Durov has left France, reportedly after a judge authorized him to leave the country for &quot;several weeks&quot;; the investigation is ongoing &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/250317/p24#a250317p24)
- - [Snap’s AR Spectacles now support a virtual keyboard and GPS](https://www.theverge.com/news/631242/snap-augmented-reality-spectacles-gps-gnss-virtual-keyboard-hand-tracking)
- - [Google says its new Linux Terminal feature isn’t a replacement for Android’s desktop mode](https://www.androidauthority.com/android-linux-terminal-purpose-3535765/)<!-- TECH:END -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Big Tech is now slightly less silent on Trump’s tariffs](https://www.theverge.com/news/624849/big-tech-slightly-less-silent-trump-tariffs)
+ - [Fourth iOS 18.4, macOS 15.4 developer beta round begins](https://appleinsider.com/articles/25/03/17/fourth-ios-184-macos-164-developer-beta-round-begins?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
