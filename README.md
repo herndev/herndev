@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Elon Musk targeted 18F, as ex-employees say the GSA&#39;s group focused on increasing bureaucratic efficiency through tech, similar to what DOGE claims to do &lpar;Nick Robins-Early/The Guardian&rpar;](http://www.techmeme.com/250317/p5#a250317p5)
- - [Android Auto could get a ton of AC features, including defrosting &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-hvac-ac-controls-3535547/)
- - [Samsung brings a Galaxy S25 feature to all Galaxy S24 phones with One UI 7 beta 5](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-7-beta-5-3535555/)<!-- TECH:END -->
+ - [Survey shows fast charging is concerning but people use it anyway](https://www.androidauthority.com/survey-fast-charging-people-use-it-3535570/)
+ - [A look at &quot;coachbots&quot;, AI-powered virtual coaches like CoachHub&#39;s Aimy and Valence&#39;s Nadia that advise on salary talks, work habits, and role-play conversations &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250317/p6#a250317p6)
+ - [Microsoft wants your Android phone’s data to make Copilot better, but is it worth it?](https://www.androidauthority.com/windows-copilot-phone-connection-setting-3535566/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
