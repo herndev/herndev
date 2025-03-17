@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, March 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-17-2025/)
  - [Deconstructeam&#39;s next game is about training to shoot a single fireball at an impossible target](https://www.pcgamer.com/games/deconstructeams-next-game-is-about-training-to-shoot-a-single-fireball-at-an-impossible-target/)
- - [We asked two parkour athletes to rate the realism of Assassin&#39;s Creed&#39;s acrobatics, and a surprising &#39;crime against parkour&#39; might actually be one of the most realistic things they saw](https://www.pcgamer.com/games/assassins-creed-parkour-experts-video/)
- - [Five new Steam games you probably missed &lpar;March 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-17-2025/)<!-- GAME:END -->
+ - [We asked two parkour athletes to rate the realism of Assassin&#39;s Creed&#39;s acrobatics, and a surprising &#39;crime against parkour&#39; might actually be one of the most realistic things they saw](https://www.pcgamer.com/games/assassins-creed-parkour-experts-video/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
