@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
- - ⏩ [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
- - 👉 [`Ah yes, monster truck.... wait wtf`](http://9gag.com/gag/a7oeRQz)<!-- MEMES:END -->
+ - 💣 [`Ah yes, monster truck.... wait wtf`](http://9gag.com/gag/a7oeRQz)
+ - ⏩ [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
+ - 👉 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)<!-- MEMES:END -->
 
 ---
 
