@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Big Tech is now slightly less silent on Trump’s tariffs](https://www.theverge.com/news/624849/big-tech-slightly-less-silent-trump-tariffs)
- - [Fourth iOS 18.4, macOS 15.4 developer beta round begins](https://appleinsider.com/articles/25/03/17/fourth-ios-184-macos-164-developer-beta-round-begins?utm_medium=rss)<!-- TECH:END -->
+ - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [Factory reset your buggy Chromecast? Google finally has a fix for you](https://www.androidauthority.com/chromecast-factory-reset-fix-3535815/)
+ - [Adobe: traffic from AI sources to US retail sites in February rose 1,200% from July 2024; 39% of US consumers used generative AI for shopping, 53% plan to do so &lpar;Mike Pastore/Search Engine Land&rpar;](http://www.techmeme.com/250317/p26#a250317p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
