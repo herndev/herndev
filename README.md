@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Deconstructeam&#39;s next game is about training to shoot a single fireball at an impossible target](https://www.pcgamer.com/games/deconstructeams-next-game-is-about-training-to-shoot-a-single-fireball-at-an-impossible-target/)
  - [We asked two parkour athletes to rate the realism of Assassin&#39;s Creed&#39;s acrobatics, and a surprising &#39;crime against parkour&#39; might actually be one of the most realistic things they saw](https://www.pcgamer.com/games/assassins-creed-parkour-experts-video/)
- - [Five new Steam games you probably missed &lpar;March 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-17-2025/)
- - [MechWarrior 5: Clans is getting DLC with playable Elementals and a fight on the outside of a spaceship](https://www.pcgamer.com/games/strategy/mechwarrior-5-clans-is-getting-dlc-with-playable-elementals-and-a-fight-on-the-outside-of-a-spaceship/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-17-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
