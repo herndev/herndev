@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rejuvenate Your Allies With One Of Marvel Rivals&#39; Best Support Characters: Rocket Raccoon](https://kotaku.com/marvel-rivals-rocket-racoon-guide-team-up-abilities-1851770471)
- - [Lenovo Legion Go S &lpar;Windows&rpar; review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-legion-go-s-windows-review/)
- - [Ubisoft reportedly has an anti-harassment plan in place for Assassin&#39;s Creed Shadows developers](https://www.pcgamer.com/games/assassins-creed/ubisoft-reportedly-has-an-anti-harassment-plan-in-place-for-assassins-creed-shadows-developers/)<!-- GAME:END -->
+ - [Discord Is Trying To Burrow Deeper Into The Fabric Of Gaming](https://kotaku.com/discord-sdk-nitro-ads-ipo-profitable-splitgate-2-1851770484)
+ - [How To Change Your Overwatch 2 Username On Battle.net](https://kotaku.com/overwatch-change-username-gamertag-battle-net-xbox-ps5-1851770487)
+ - [&#39;I want to raise this glass to our fans, to our community&#39;: 4A Games celebrates Metro 2033&#39;s 15th anniversary and hints at next Metro game](https://www.pcgamer.com/games/fps/i-want-to-raise-this-glass-to-our-fans-to-our-community-4a-games-celebrates-metro-2033s-15th-anniversary-and-hints-at-next-metro-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
