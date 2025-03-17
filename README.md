@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Mortal Kombat movie will actually feature a Mortal Kombat tournament this time](https://www.polygon.com/mortal-kombat/541045/mortal-kombat-2-movie-tournament-karl-urban-johnny-cage)
- - [Silent Hill 2 remake and Indiana Jones are at historically low prices this Steam Spring Sale—so long as you don&#39;t buy them directly from Steam](https://www.pcgamer.com/games/silent-hill-2-remake-and-indiana-jones-are-at-historically-low-prices-this-steam-spring-sale-so-long-as-you-dont-buy-them-directly-from-steam/)
- - [Pokémon TCG Pocket schedule of events for March 2025](https://www.polygon.com/pokemon-tcg-pocket-guides/522567/schedule-events-all-dates)<!-- GAME:END -->
+ - [Rejuvenate Your Allies With One Of Marvel Rivals&#39; Best Support Characters: Rocket Raccoon](https://kotaku.com/marvel-rivals-rocket-racoon-guide-team-up-abilities-1851770471)
+ - [Lenovo Legion Go S &lpar;Windows&rpar; review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-legion-go-s-windows-review/)
+ - [Ubisoft reportedly has an anti-harassment plan in place for Assassin&#39;s Creed Shadows developers](https://www.pcgamer.com/games/assassins-creed/ubisoft-reportedly-has-an-anti-harassment-plan-in-place-for-assassins-creed-shadows-developers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
