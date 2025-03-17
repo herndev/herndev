@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I feel worried about this art form:&#39; Unsurprisingly, the real Aloy from Horizon isn&#39;t a fan of AI Aloy](https://www.pcgamer.com/gaming-industry/i-feel-worried-about-this-art-form-unsurprisingly-the-real-aloy-from-horizon-isnt-a-fan-of-ai-aloy/)
- - [REPO&#39;s first update will add a new map and a &#39;duck bucket&#39; so we can finally give that pesky quacker a time out](https://www.pcgamer.com/games/survival-crafting/repos-first-update-will-add-a-new-map-and-a-duck-bucket-so-we-can-finally-give-that-pesky-quacker-a-time-out/)
- - [Kraven the Hunter embodies the fatal flaw of Sony’s Spider-Man Universe](https://www.polygon.com/marvel/539850/kraven-hunter-movie-sony-spider-man-potion-comics-origin)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-17-2025/)
+ - [MechWarrior 5: Clans is getting DLC with playable Elementals and a fight on the outside of a spaceship](https://www.pcgamer.com/games/strategy/mechwarrior-5-clans-is-getting-dlc-with-playable-elementals-and-a-fight-on-the-outside-of-a-spaceship/)
+ - [&#39;I feel worried about this art form:&#39; Unsurprisingly, the real Aloy from Horizon isn&#39;t a fan of AI Aloy](https://www.pcgamer.com/gaming-industry/i-feel-worried-about-this-art-form-unsurprisingly-the-real-aloy-from-horizon-isnt-a-fan-of-ai-aloy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
