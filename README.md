@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
- - ⏩ [Asian problem](http://9gag.com/gag/axyvKdL)
- - 👉 [Busty](http://9gag.com/gag/aKG9y31)<!-- MEMES:END -->
+ - 💣 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
+ - ⏩ [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)
+ - 👉 [Made me chuckle](http://9gag.com/gag/aByLer1)<!-- MEMES:END -->
 
 ---
 
