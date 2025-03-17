@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get an Outlaw Keycard in Fortnite](https://www.polygon.com/fortnite-guide/537507/outlaw-keycards-tiers-rewards-all-how-to-upgrade)
- - [Assassin’s Creed Shadows and the other new games out this week](https://www.polygon.com/gaming/537669/best-new-game-releases-march-17-assassins-creed-shadows)
- - [You can grab Undertale for less than $1, as the genre-defining indie RPG beats its all-time player peak for the first time in 10 years](https://www.pcgamer.com/games/rpg/you-can-grab-undertale-for-less-than-usd1-as-the-genre-defining-indie-rpg-beats-its-all-time-player-peak-for-the-first-time-in-10-years/)<!-- GAME:END -->
+ - [A Complete Guide To Weapons in Assassin’s Creed Shadows](https://news.xbox.com/en-us/2025/03/17/assassins-creed-shadows-weapon-guide/)
+ - [Monster Hunter Wilds players wonder if frenzied monsters are a little undercooked, as one slaps a sickly bird into a fine paste in just 25 seconds](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-players-wonder-if-frenzied-monsters-are-a-little-undercooked-as-one-slaps-a-sickly-bird-into-a-fine-paste-in-just-25-seconds/)
+ - [Aloy Voice Actor Ashly Burch &#39;Worried About This Art Form&#39; After Horizon Zero Dawn AI Demo Leaks](https://kotaku.com/ashly-burch-ai-strike-aloy-horizon-zero-dawn-sony-1851770412)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
