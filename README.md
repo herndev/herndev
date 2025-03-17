@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So flimsy](http://9gag.com/gag/adBOzGN)
- - ⏩ [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)
- - 👉 [Apron](http://9gag.com/gag/abAONM9)<!-- MEMES:END -->
+ - 💣 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)
+ - ⏩ [It\u2019s always them](http://9gag.com/gag/a9yveeo)
+ - 👉 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)<!-- MEMES:END -->
 
 ---
 
