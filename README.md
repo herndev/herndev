@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony, which is making a Helldivers 2 movie, is also making a new Starship Troopers movie, but it&#39;s not based on the Starship Troopers movie we already have](https://www.pcgamer.com/movies-tv/sony-which-is-making-a-helldivers-2-movie-is-also-making-a-new-starship-troopers-movie-but-its-not-based-on-the-starship-troopers-movie-we-already-have/)
- - [Ubisoft is reportedly talking to Tencent about creating a new business entity to manage Assassin&#39;s Creed and other big games](https://www.pcgamer.com/gaming-industry/ubisoft-is-reportedly-talking-to-tencent-about-creating-a-new-business-entity-to-manage-assassins-creed-and-other-big-games/)
- - [Moana 2, Better Man, The Electric State on Netflix, and every movie new to streaming this week](https://www.polygon.com/what-to-watch/536623/new-movies-watch-streaming-moana-2-better-man-electric-state-netflix)<!-- GAME:END -->
+ - [&#39;I feel worried about this art form:&#39; Unsurprisingly, the real Aloy from Horizon isn&#39;t a fan of AI Aloy](https://www.pcgamer.com/gaming-industry/i-feel-worried-about-this-art-form-unsurprisingly-the-real-aloy-from-horizon-isnt-a-fan-of-ai-aloy/)
+ - [REPO&#39;s first update will add a new map and a &#39;duck bucket&#39; so we can finally give that pesky quacker a time out](https://www.pcgamer.com/games/survival-crafting/repos-first-update-will-add-a-new-map-and-a-duck-bucket-so-we-can-finally-give-that-pesky-quacker-a-time-out/)
+ - [Kraven the Hunter embodies the fatal flaw of Sony’s Spider-Man Universe](https://www.polygon.com/marvel/539850/kraven-hunter-movie-sony-spider-man-potion-comics-origin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
