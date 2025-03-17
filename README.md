@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku tests customer patience with startup video ads](https://www.theverge.com/news/631392/roku-immediate-video-ads-startup)
- - [Apple may follow the Galaxy S25 Edge’s lead with iPhone 17 Air battery](https://www.androidauthority.com/iphone-17-air-battery-life-3535843/)
- - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)<!-- TECH:END -->
+ - [Donald Trump Held Another Million-Dollar ‘Candlelight’ Dinner—With Elon Musk in Tow](https://www.wired.com/story/trump-million-dollar-candlelight-dinner-elon-musk/)
+ - [CFPB workers are reinstated after a court order, but many still can’t work](https://www.theverge.com/news/631465/cfpb-probationary-employees-court-order-reinstatement)
+ - [AI search is starting to kill Google’s ‘ten blue links’](https://www.theverge.com/ai-artificial-intelligence/631352/ai-search-adobe-analytics-google-perplexity-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
