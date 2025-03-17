@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foldable iPhone and iPad will both launch in 2026, says analyst](https://appleinsider.com/articles/25/03/17/foldable-iphone-and-ipad-will-both-launch-in-2026-says-analyst?utm_medium=rss)
- - [An interview with Snap CEO Evan Spiegel on Snap&#39;s fifth-generation smart glasses, unveiled in September 2024, competing with Apple and Meta, Snap OS, and more &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/250317/p11#a250317p11)
- - [Picking up where Citra left off, a new 3DS emulator is now available to download](https://www.androidauthority.com/azahar-3ds-emulator-android-download-3535591/)<!-- TECH:END -->
+ - [Microsoft accidentally wipes out Copilot in latest Windows 11 update](https://www.theverge.com/news/631053/microsoft-windows-11-update-uninstall-copilot)
+ - [Leaked iPhone 17 metal molds show off new camera protrusions](https://appleinsider.com/articles/25/03/16/leaked-iphone-17-metal-molds-show-off-inbound-camera-bumps?utm_medium=rss)
+ - [Sources: Turkey plans new EU-style rules to rein in major US tech companies, in a bill created by the ruling party and antitrust authority, risking a US clash &lpar;Firat Kozok/Bloomberg&rpar;](http://www.techmeme.com/250317/p12#a250317p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
