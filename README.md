@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed Shadows Devs Reportedly Advised Not To Post About It Amid Harassment Campaign](https://kotaku.com/assassins-creed-shadows-antiwoke-ubisoft-rpg-1851770511)
- - [The Internet Reacts To John Cena’s First Heel Promo As He Nearly Makes A Kid Cry](https://kotaku.com/john-cena-heel-wwe-raw-netflix-kid-crying-1851770500)
- - [The Lord of the Rings illustrated box set is on sale for its lowest price ever](https://www.polygon.com/good-deals/541256/lotr-lord-of-the-rings-illustrated-box-set-sale-amazon)<!-- GAME:END -->
+ - [Long-Lost Xenosaga Spin-Off Has Been Recovered And Shared Online 21 Years Later](https://kotaku.com/xenosaga-pied-piper-jrpg-rom-emulator-translation-1851770526)
+ - [Jonathan Majors Admits To Strangling His Ex-Girlfriend In New Audio Recording](https://kotaku.com/jonathan-majors-grace-jabbari-recording-domestic-abuse-1851770527)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
