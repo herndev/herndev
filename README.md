@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
- - ⏩ [Idiot](http://9gag.com/gag/axyvwLn)
- - 👉 [Gory!](http://9gag.com/gag/aRBZGr7)<!-- MEMES:END -->
+ - 💣 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
+ - ⏩ [Exactly as I remember](http://9gag.com/gag/adBOwOd)
+ - 👉 [I can rest peacefully now](http://9gag.com/gag/amoGwLy)<!-- MEMES:END -->
 
 ---
 
