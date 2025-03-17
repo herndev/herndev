@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Complete Guide To Weapons in Assassin’s Creed Shadows](https://news.xbox.com/en-us/2025/03/17/assassins-creed-shadows-weapon-guide/)
- - [Monster Hunter Wilds players wonder if frenzied monsters are a little undercooked, as one slaps a sickly bird into a fine paste in just 25 seconds](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-players-wonder-if-frenzied-monsters-are-a-little-undercooked-as-one-slaps-a-sickly-bird-into-a-fine-paste-in-just-25-seconds/)
- - [Aloy Voice Actor Ashly Burch &#39;Worried About This Art Form&#39; After Horizon Zero Dawn AI Demo Leaks](https://kotaku.com/ashly-burch-ai-strike-aloy-horizon-zero-dawn-sony-1851770412)<!-- GAME:END -->
+ - [New Mortal Kombat movie will actually feature a Mortal Kombat tournament this time](https://www.polygon.com/mortal-kombat/541045/mortal-kombat-2-movie-tournament-karl-urban-johnny-cage)
+ - [Silent Hill 2 remake and Indiana Jones are at historically low prices this Steam Spring Sale—so long as you don&#39;t buy them directly from Steam](https://www.pcgamer.com/games/silent-hill-2-remake-and-indiana-jones-are-at-historically-low-prices-this-steam-spring-sale-so-long-as-you-dont-buy-them-directly-from-steam/)
+ - [Pokémon TCG Pocket schedule of events for March 2025](https://www.polygon.com/pokemon-tcg-pocket-guides/522567/schedule-events-all-dates)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
