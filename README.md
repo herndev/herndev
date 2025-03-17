@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung teases a new Galaxy S25 Ultra shade: Back in black &lpar;again&rpar;?](https://www.androidauthority.com/samsung-galaxy-s25-ultra-new-color-3535539/)
- - [Some developers say licenses for &quot;open&quot; AI models like Google&#39;s Gemma and Meta&#39;s Llama have limits that restrict commercial use without fear of legal reprisal &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250317/p1#a250317p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 16, #174](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-16-174/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is stripping away more Assistant features from Nest and Android devices](https://www.androidauthority.com/google-assistant-features-removed-nest-android-3535544/)
+ - [South Korea&#39;s Trade Ministry reports chip sales to China fell 31.8% YoY in February, after a 22.5% drop in January, amid tariffs, US controls, and weak demand &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/250317/p3#a250317p3)
+ - [Crusoe, a startup helping build the first data center for Stargate, says it secured a deal with a gas turbine owner to generate 4.5 gigawatts of energy by 2027 &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250317/p2#a250317p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
