@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A rather pleasing Windows 11 update bug automatically uninstalls Copilot and unpins it from the taskbar, which is jolly nice of it](https://www.pcgamer.com/software/windows/a-rather-pleasing-windows-11-update-bug-automatically-uninstalls-copilot-and-unpins-it-from-the-taskbar-which-is-jolly-nice-of-it/)
- - [Valorant dev accepts there&#39;s too much random crap cluttering up the screen: &#39;The balance team generally agrees with this take&#39;](https://www.pcgamer.com/games/fps/valorant-dev-accepts-theres-too-much-random-crap-cluttering-up-the-screen-the-balance-team-generally-agrees-with-this-take/)
- - [New headset reads minds and uses AR, AI and machine learning to help people with locked-in-syndrome communicate with loved ones again](https://www.pcgamer.com/hardware/new-headset-reads-minds-and-uses-ar-ai-and-machine-learning-to-help-people-with-locked-in-syndrome-communicate-with-loved-ones-again/)<!-- GAME:END -->
+ - [KOTOR remake returns for annual tradition of reminding you it&#39;s still alive, but no you can&#39;t hear anything more about it until it comes back next year to say it again](https://www.pcgamer.com/games/rpg/kotor-remake-returns-for-annual-tradition-of-reminding-you-its-still-alive-but-no-you-cant-hear-anything-more-about-it-until-it-comes-back-next-year-to-say-it-again/)
+ - [Pokémon TCG Scalping Is So Bad That Official Stores Are Removing Packaging](https://kotaku.com/pokemon-center-tcg-scalpers-journey-together-1851770342)
+ - [Hitman World of Assassination PS VR2 interview](https://blog.playstation.com/2025/03/17/hitman-world-of-assassination-ps-vr2-qa/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
