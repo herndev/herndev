@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These guys trying to escape](http://9gag.com/gag/aD2n5eB)
- - ⏩ [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
+ - 💣 [Halo music...](http://9gag.com/gag/aD2nKgZ)
+ - ⏩ [Annodizing bolts](http://9gag.com/gag/apRDZQb)
  - 👉 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)<!-- MEMES:END -->
 
 ---
