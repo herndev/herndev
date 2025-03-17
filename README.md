@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
- - ⏩ [Exactly as I remember](http://9gag.com/gag/adBOwOd)
- - 👉 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)<!-- MEMES:END -->
+ - 💣 [Back to sense](http://9gag.com/gag/avyeBRX)
+ - ⏩ [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
+ - 👉 [A U.S. pilot ejected from a fighter jet after a slow-moving crash.](http://9gag.com/gag/aO84E9D)<!-- MEMES:END -->
 
 ---
 
