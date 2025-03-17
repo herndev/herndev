@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retroid Pocket Classic lands a brand new Qualcomm gaming chip: Pre-Orders open tonight!](https://www.androidauthority.com/retroid-pocket-classic-chipset-3535135/)
- - [Discord is plugging directly into games](https://www.theverge.com/news/630823/discord-social-directly-games-sdk)
- - [The OneXSugar asks: what if Nintendo Switch could transform into Nintendo DS?](https://www.theverge.com/news/631005/qualcomm-snapdragon-g3-gen-3-onexsugar-handheld-ayaneo-pocket)<!-- TECH:END -->
+ - [How Trump&amp;#8217;s tariff chaos is already changing global trade](https://www.theverge.com/decoder-podcast-with-nilay-patel/631082/trump-tariffs-iphone-altana-ceo-evan-smith-interview)
+ - [Robinhood partners with Kalshi to launch a prediction markets hub in the US for retail traders, starting with bets on the federal funds rate and March Madness &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250317/p19#a250317p19)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
