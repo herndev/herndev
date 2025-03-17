@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Carl Lundstrom, who financed file sharing service the Pirate Bay, died in a plane crash in Slovenia; at its peak, the Pirate Bay had an estimated 20M+ users &lpar;Michael Levenson/New York Times&rpar;](http://www.techmeme.com/250317/p9#a250317p9)
- - [Alphabet spins off Starlink competitor Taara](https://www.theverge.com/news/631049/alphabet-spins-off-starlink-competitor-taara)
- - [Crypto exchange OKX says it has &quot;temporarily&quot; suspended its DEX aggregator services, used to launder the $1.5B Bybit hack, after reported EU scrutiny under MiCA &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250317/p8#a250317p8)<!-- TECH:END -->
+ - [Foldable iPhone and iPad will both launch in 2026, says analyst](https://appleinsider.com/articles/25/03/17/foldable-iphone-and-ipad-will-both-launch-in-2026-says-analyst?utm_medium=rss)
+ - [An interview with Snap CEO Evan Spiegel on Snap&#39;s fifth-generation smart glasses, unveiled in September 2024, competing with Apple and Meta, Snap OS, and more &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/250317/p11#a250317p11)
+ - [Picking up where Citra left off, a new 3DS emulator is now available to download](https://www.androidauthority.com/azahar-3ds-emulator-android-download-3535591/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
