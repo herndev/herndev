@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft accidentally wipes out Copilot in latest Windows 11 update](https://www.theverge.com/news/631053/microsoft-windows-11-update-uninstall-copilot)
- - [Leaked iPhone 17 metal molds show off new camera protrusions](https://appleinsider.com/articles/25/03/16/leaked-iphone-17-metal-molds-show-off-inbound-camera-bumps?utm_medium=rss)
- - [Sources: Turkey plans new EU-style rules to rein in major US tech companies, in a bill created by the ruling party and antitrust authority, risking a US clash &lpar;Firat Kozok/Bloomberg&rpar;](http://www.techmeme.com/250317/p12#a250317p12)<!-- TECH:END -->
+ - [Retroid Pocket Classic lands a brand new Qualcomm gaming chip: Pre-Orders open tonight!](https://www.androidauthority.com/retroid-pocket-classic-chipset-3535135/)
+ - [Discord is plugging directly into games](https://www.theverge.com/news/630823/discord-social-directly-games-sdk)
+ - [The OneXSugar asks: what if Nintendo Switch could transform into Nintendo DS?](https://www.theverge.com/news/631005/qualcomm-snapdragon-g3-gen-3-onexsugar-handheld-ayaneo-pocket)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
