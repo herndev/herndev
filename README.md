@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bleach Rebirth of Souls: All Three Playable Versions of Protagonist Ichigo Kurosaki Revealed](https://news.xbox.com/en-us/2025/03/17/bleach-rebirth-of-souls-ichigo/)
- - [M. Night Shyamalan&#39;s Weirdest Twists, Ranked From Unnecessary to Unbelievable](https://kotaku.com/m-night-shyamalan-twists-unbreakable-sixth-sense-old-1851770108)
- - [Life is Strange: Double Exposure reportedly a &#39;large loss&#39; for Square Enix, says analyst, who adds: &#39;The company&#39;s IP fundamentally varies too much between good and bad&#39;](https://www.pcgamer.com/games/adventure/life-is-strange-double-exposure-reportedly-a-large-loss-for-square-enix-says-analyst-who-adds-the-companys-ip-fundamentally-varies-too-much-between-good-and-bad/)<!-- GAME:END -->
+ - [How to get an Outlaw Keycard in Fortnite](https://www.polygon.com/fortnite-guide/537507/outlaw-keycards-tiers-rewards-all-how-to-upgrade)
+ - [Assassin’s Creed Shadows and the other new games out this week](https://www.polygon.com/gaming/537669/best-new-game-releases-march-17-assassins-creed-shadows)
+ - [You can grab Undertale for less than $1, as the genre-defining indie RPG beats its all-time player peak for the first time in 10 years](https://www.pcgamer.com/games/rpg/you-can-grab-undertale-for-less-than-usd1-as-the-genre-defining-indie-rpg-beats-its-all-time-player-peak-for-the-first-time-in-10-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
