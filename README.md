@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Liam Fedus, VP of research in charge of post-training at OpenAI, is leaving the company to found a startup focused on using AI to discover new materials &lpar;The Information&rpar;](http://www.techmeme.com/250317/p27#a250317p27)
- - [Great savings on the EcoFlow Delta Pro 3, which will keep your home powered](https://www.theverge.com/good-deals/631237/ecoflow-delta-3-pro-power-station-apple-ipad-11th-gen-deal-sale)
- - [Fitbit’s latest experiment will help you sort out your awful sleep schedule](https://www.androidauthority.com/fitbit-personalized-sleep-schedule-3535794/)<!-- TECH:END -->
+ - [Google has a fix for all of the broken Chromecasts](https://www.theverge.com/news/631393/google-chromecast-broken-fix-untrusted-device-error)
+ - [Mark Rober’s Tesla video was more than a little weird](https://www.theverge.com/tesla/631308/mark-rober-tesla-youtube-autopilot-lidar-fake-claims)
+ - [Sources: Alphabet is in advanced talks to acquire cybersecurity startup Wiz for ~$30B; Alphabet was close to a $23B deal for Wiz last summer before talks ended &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250317/p28#a250317p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
