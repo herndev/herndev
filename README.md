@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dude Perfect and Mark Rober may be the next YouTubers to get big streaming deals](https://www.theverge.com/streaming-wars/630997/youtube-dude-perfect-mark-rober-youtubers-netflix-amazon-deals)
  - [A profile of Chetan Nayak, who leads Microsoft&#39;s Station Q team trying to build a quantum computer; source: Microsoft spends ~$300M annually on quantum research &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p13#a250316p13)
- - [Apple will try to right the Apple Intelligence Siri ship, but don&#39;t expect firings](https://appleinsider.com/articles/25/03/16/apple-will-try-to-right-the-apple-intelligence-siri-ship-but-dont-expect-firings?utm_medium=rss)
- - [SwitchBot’s next smart hub comes with a control knob](https://www.theverge.com/news/630987/switchbot-hub-3-matter-csa-registration)<!-- TECH:END -->
+ - [Best Internet Providers in New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-new-mexico/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
