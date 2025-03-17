@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch NASA’s SpaceX Crew-10 mission launch](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Android&amp;#8217;s Find My Device app can now show you where people are, too](https://www.theverge.com/news/630222/android-march-find-my-device-people-location-sharing-update)
- - [Streamers court YouTubers for new shows or spinoffs; sources: Amazon made $100M+ in profit on Beast Games and Netflix held talks with Dude Perfect for a series &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250314/p28#a250314p28)<!-- TECH:END -->
+ - [A profile of Chetan Nayak, who leads Microsoft&#39;s Station Q team trying to build a quantum computer; source: Microsoft spends ~$300M annually on quantum research &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p13#a250316p13)
+ - [Apple will try to right the Apple Intelligence Siri ship, but don&#39;t expect firings](https://appleinsider.com/articles/25/03/16/apple-will-try-to-right-the-apple-intelligence-siri-ship-but-dont-expect-firings?utm_medium=rss)
+ - [SwitchBot’s next smart hub comes with a control knob](https://www.theverge.com/news/630987/switchbot-hub-3-matter-csa-registration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
