@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [These guys trying to escape](http://9gag.com/gag/aD2n5eB)
- - ⏩ [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
- - 👉 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)<!-- MEMES:END -->
+ - ⏩ [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
+ - 👉 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)<!-- MEMES:END -->
 
 ---
 
