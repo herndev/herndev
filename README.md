@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gin tonic](http://9gag.com/gag/a0eVEGd)
- - ⏩ [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 👉 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)<!-- MEMES:END -->
+ - 💣 [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
+ - ⏩ [Idiot](http://9gag.com/gag/axyvwLn)
+ - 👉 [Gory!](http://9gag.com/gag/aRBZGr7)<!-- MEMES:END -->
 
 ---
 
