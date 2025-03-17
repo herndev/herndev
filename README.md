@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can rest peacefully now](http://9gag.com/gag/amoGwLy)
- - ⏩ [Suffering from success](http://9gag.com/gag/apRDnzM)
- - 👉 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)<!-- MEMES:END -->
+ - 💣 [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)
+ - ⏩ [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
+ - 👉 [Suffering from success](http://9gag.com/gag/apRDnzM)<!-- MEMES:END -->
 
 ---
 
