@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Is Paywalling Notepad and Paint, but Only AI Features](https://www.cnet.com/tech/services-and-software/microsoft-is-paywalling-notepad-and-paint-but-only-ai-features/#ftag=CAD590a51e)
- - [Bumble rolls out new ID verification in the US, the UK, Australia, France, India, and six other markets, as founder Whitney Wolfe Herd returns as its CEO &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250317/p21#a250317p21)
- - [Roblox open sources Cube 3D, the first version of its AI foundation model for generating 3D objects, trained on licensed and public datasets and its own data &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250317/p20#a250317p20)<!-- TECH:END -->
+ - [Apple’s foldable iPhone could be much more expensive than the Galaxy Z Fold 6](https://www.androidauthority.com/apple-foldable-iphone-expensive-3535732/)
+ - [Your Amazon Echo is losing the ability to process Alexa commands on-device](https://www.androidauthority.com/amazon-removing-on-device-processing-alexa-3535595/)
+ - [Google&amp;#8217;s Gemini AI is really good at watermark removal](https://www.theverge.com/news/631203/google-gemini-flash-2-native-image-generation-watermark-removal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
