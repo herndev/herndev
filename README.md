@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This palm-sized PC has removably memory, a flip up screen, and a Ryzen AI 9 HX 370 processor](https://www.pcgamer.com/hardware/processors/this-palm-sized-pc-has-removably-memory-a-flip-up-screen-and-a-ryzen-ai-9-hx-370-processor/)
  - [Today&#39;s Wordle answer for Monday, March 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-17-2025/)
- - [Deconstructeam&#39;s next game is about training to shoot a single fireball at an impossible target](https://www.pcgamer.com/games/deconstructeams-next-game-is-about-training-to-shoot-a-single-fireball-at-an-impossible-target/)
- - [We asked two parkour athletes to rate the realism of Assassin&#39;s Creed&#39;s acrobatics, and a surprising &#39;crime against parkour&#39; might actually be one of the most realistic things they saw](https://www.pcgamer.com/games/assassins-creed-parkour-experts-video/)<!-- GAME:END -->
+ - [Deconstructeam&#39;s next game is about training to shoot a single fireball at an impossible target](https://www.pcgamer.com/games/deconstructeams-next-game-is-about-training-to-shoot-a-single-fireball-at-an-impossible-target/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
