@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
- - ⏩ [They give me the money and I pay the rent. I tell them the owner is a family friend, they also get a friend\u2019s discount.](http://9gag.com/gag/ae9OEYW)
- - 👉 [Made me chuckle](http://9gag.com/gag/aByLer1)<!-- MEMES:END -->
+ - 💣 [View of International Space Station](http://9gag.com/gag/aYQO5r2)
+ - ⏩ [That&#39;s a little funny](http://9gag.com/gag/amoGyx4)
+ - 👉 [Troojan horses tries to get into Poland but Poland is too based for self-deestruction and self-invaasion](http://9gag.com/gag/a1mDjEb)<!-- MEMES:END -->
 
 ---
 
