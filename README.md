@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chris P. Bacon](http://9gag.com/gag/aMVmoeP)
- - ⏩ [How to properly kill a tomato](http://9gag.com/gag/a87mgjY)
- - 👉 [Made me chuckle](http://9gag.com/gag/aByLer1)<!-- MEMES:END -->
+ - 💣 [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
+ - ⏩ [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
+ - 👉 [`Ah yes, monster truck.... wait wtf`](http://9gag.com/gag/a7oeRQz)<!-- MEMES:END -->
 
 ---
 
