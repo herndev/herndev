@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beast Games opens casting for season 2: MrBeast lost a ton of money on season 1 but apparently not enough that he won&#39;t do it again](https://www.pcgamer.com/movies-tv/beast-games-opens-casting-for-season-2-mrbeast-lost-a-ton-of-money-on-season-1-but-apparently-not-enough-that-he-wont-do-it-again/)
- - [Long-Lost Xenosaga Spin-Off Has Been Recovered And Shared Online 21 Years Later](https://kotaku.com/xenosaga-pied-piper-jrpg-rom-emulator-translation-1851770526)
- - [Jonathan Majors Admits To Strangling His Ex-Girlfriend In New Audio Recording](https://kotaku.com/jonathan-majors-grace-jabbari-recording-domestic-abuse-1851770527)<!-- GAME:END -->
+ - [A gorgeous ground-up remake of Counter-Strike 1.6 is on its way to Steam, and one of the game&#39;s original creators says &#39;it really gives me old vibes&#39;](https://www.pcgamer.com/games/fps/a-gorgeous-ground-up-remake-of-counter-strike-1-6-is-on-its-way-to-steam-and-one-of-the-games-original-creators-says-it-really-gives-me-old-vibes/)
+ - [Help, I can&#39;t move forward in this chill crafting RPG because I&#39;m too wrapped up in building bases and making sick tools](https://www.pcgamer.com/games/rpg/help-i-cant-move-forward-in-this-chill-crafting-rpg-because-im-too-wrapped-up-in-building-bases-and-making-sick-tools/)
+ - [There&#39;s a new Portal game and it costs $12,500](https://www.pcgamer.com/games/theres-a-new-portal-game-and-it-costs-usd12-500/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
