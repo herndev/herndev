@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New headset reads minds and uses AR, AI and machine learning to help people with locked-in-syndrome communicate with loved ones again](https://www.pcgamer.com/hardware/new-headset-reads-minds-and-uses-ar-ai-and-machine-learning-to-help-people-with-locked-in-syndrome-communicate-with-loved-ones-again/)
- - [92% of Nvidia users turn on DLSS... if they&#39;ve been lucky enough to bag an RTX 50-series card at launch AND have the Nvidia App installed](https://www.pcgamer.com/hardware/graphics-cards/92-percent-of-nvidia-users-turn-on-dlss-if-theyve-been-lucky-enough-to-bag-an-rtx-50-series-card-at-launch-and-have-the-nvidia-app-installed/)
- - [This palm-sized PC has removably memory, a flip up screen, and a Ryzen AI 9 HX 370 processor](https://www.pcgamer.com/hardware/processors/this-palm-sized-pc-has-removably-memory-a-flip-up-screen-and-a-ryzen-ai-9-hx-370-processor/)<!-- GAME:END -->
+ - [A rather pleasing Windows 11 update bug automatically uninstalls Copilot and unpins it from the taskbar, which is jolly nice of it](https://www.pcgamer.com/software/windows/a-rather-pleasing-windows-11-update-bug-automatically-uninstalls-copilot-and-unpins-it-from-the-taskbar-which-is-jolly-nice-of-it/)
+ - [Valorant dev accepts there&#39;s too much random crap cluttering up the screen: &#39;The balance team generally agrees with this take&#39;](https://www.pcgamer.com/games/fps/valorant-dev-accepts-theres-too-much-random-crap-cluttering-up-the-screen-the-balance-team-generally-agrees-with-this-take/)
+ - [New headset reads minds and uses AR, AI and machine learning to help people with locked-in-syndrome communicate with loved ones again](https://www.pcgamer.com/hardware/new-headset-reads-minds-and-uses-ar-ai-and-machine-learning-to-help-people-with-locked-in-syndrome-communicate-with-loved-ones-again/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
