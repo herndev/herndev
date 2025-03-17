@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
- - ⏩ [Exactly as I remember](http://9gag.com/gag/adBOwOd)
- - 👉 [I can rest peacefully now](http://9gag.com/gag/amoGwLy)<!-- MEMES:END -->
+ - 💣 [I can rest peacefully now](http://9gag.com/gag/amoGwLy)
+ - ⏩ [Suffering from success](http://9gag.com/gag/apRDnzM)
+ - 👉 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)<!-- MEMES:END -->
 
 ---
 
