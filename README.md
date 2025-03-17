@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [KOTOR remake returns for annual tradition of reminding you it&#39;s still alive, but no you can&#39;t hear anything more about it until it comes back next year to say it again](https://www.pcgamer.com/games/rpg/kotor-remake-returns-for-annual-tradition-of-reminding-you-its-still-alive-but-no-you-cant-hear-anything-more-about-it-until-it-comes-back-next-year-to-say-it-again/)
- - [Pokémon TCG Scalping Is So Bad That Official Stores Are Removing Packaging](https://kotaku.com/pokemon-center-tcg-scalpers-journey-together-1851770342)
- - [Hitman World of Assassination PS VR2 interview](https://blog.playstation.com/2025/03/17/hitman-world-of-assassination-ps-vr2-qa/)<!-- GAME:END -->
+ - [Bleach Rebirth of Souls: All Three Playable Versions of Protagonist Ichigo Kurosaki Revealed](https://news.xbox.com/en-us/2025/03/17/bleach-rebirth-of-souls-ichigo/)
+ - [M. Night Shyamalan&#39;s Weirdest Twists, Ranked From Unnecessary to Unbelievable](https://kotaku.com/m-night-shyamalan-twists-unbreakable-sixth-sense-old-1851770108)
+ - [Life is Strange: Double Exposure reportedly a &#39;large loss&#39; for Square Enix, says analyst, who adds: &#39;The company&#39;s IP fundamentally varies too much between good and bad&#39;](https://www.pcgamer.com/games/adventure/life-is-strange-double-exposure-reportedly-a-large-loss-for-square-enix-says-analyst-who-adds-the-companys-ip-fundamentally-varies-too-much-between-good-and-bad/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
