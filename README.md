@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is stripping away more Assistant features from Nest and Android devices](https://www.androidauthority.com/google-assistant-features-removed-nest-android-3535544/)
- - [South Korea&#39;s Trade Ministry reports chip sales to China fell 31.8% YoY in February, after a 22.5% drop in January, amid tariffs, US controls, and weak demand &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/250317/p3#a250317p3)
- - [Crusoe, a startup helping build the first data center for Stargate, says it secured a deal with a gas turbine owner to generate 4.5 gigawatts of energy by 2027 &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250317/p2#a250317p2)<!-- TECH:END -->
+ - [Android Auto could get a ton of AC features, including defrosting &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-hvac-ac-controls-3535547/)
+ - [Samsung brings a Galaxy S25 feature to all Galaxy S24 phones with One UI 7 beta 5](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-7-beta-5-3535555/)
+ - [In an open letter, about 100 EU companies urge lawmakers to take &quot;radical action&quot; to cut reliance on foreign Big Tech by fostering a so-called &quot;Euro stack&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250317/p4#a250317p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
