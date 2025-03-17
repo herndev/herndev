@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They\u2019re not even trying to hide it.](http://9gag.com/gag/an7nPMq)
- - ⏩ [`Ah yes, monster truck.... wait wtf`](http://9gag.com/gag/a7oeRQz)
- - 👉 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)<!-- MEMES:END -->
+ - 💣 [Repost #2025.7](http://9gag.com/gag/aQzQj77)
+ - ⏩ [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
+ - 👉 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)<!-- MEMES:END -->
 
 ---
 
