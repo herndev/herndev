@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surprise](http://9gag.com/gag/a87mgv1)
- - ⏩ [Canadian tv show in `Hot waters` for this skit](http://9gag.com/gag/aByLBnN)
- - 👉 [3 V 1](http://9gag.com/gag/aZZwOAp)<!-- MEMES:END -->
+ - 💣 [Cheers](http://9gag.com/gag/ae9OLxO)
+ - ⏩ [Have you ever seen an ocean made of wood?](http://9gag.com/gag/aE0V9NG)
+ - 👉 [Oi you cheeky bastard!](http://9gag.com/gag/aAyEoq0)<!-- MEMES:END -->
 
 ---
 
