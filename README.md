@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How To Survive Ninja Gaiden 2 Black](https://kotaku.com/ninja-gaiden-black-2-karma-dragon-sword-ultimate-power-1851770833)
  - [Best Master League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/497479/master-league-best-team-meta)
- - [The best Humble deal is exclusive to Polygon readers](https://www.polygon.com/good-deals/542142/humble-choice-march-polygon-promo-sale)
- - [The official Cyberpunk 2077 board game is 36% off for the first time](https://www.polygon.com/good-deals/542227/cyberpunk-2077-gangs-night-city-board-game-sale)<!-- GAME:END -->
+ - [The best Humble deal is exclusive to Polygon readers](https://www.polygon.com/good-deals/542142/humble-choice-march-polygon-promo-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
