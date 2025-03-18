@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Shadows is a gorgeous retread of tired RPG mechanics](https://www.polygon.com/review/541609/assassins-creed-shadows-review)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [God Of War TV Show Writer Says He Gave Up On Trying To Play The Games](https://kotaku.com/god-of-war-tv-ronald-d-moore-battlestar-galactica-1851770751)<!-- GAME:END -->
+ - [Fallout 76: Unleash the Ghoul Within](https://fallout.bethesda.net/en/article/6RGjrKk2xdmERak4XZXhBw/unleash-the-ghoul-within#new_tab)
+ - [Pokémon Go director addresses concerns about its new owners and the future of the game](https://www.polygon.com/pokemon-go/541768/scopely-niantic-interview-michael-steranka)
+ - [Disney Plus’ perpetual 24/7 Simpsons marathon kicks off today](https://www.polygon.com/news/541985/simpsons-24-hour-stream-marathon-disney-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
