@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zenless Zone Zero developer finally embraces its divine domain as the god of jiggle physics, goes mad, adds them to cat balls](https://www.pcgamer.com/games/rpg/zenless-zone-zero-developer-finally-embraces-its-divine-domain-as-the-god-of-jiggle-physics-goes-mad-adds-them-to-cat-balls/)
- - [Space Marine 2 CEO puts the boot into the Saints Row team&#39;s twitching corpse from his private jet: &#39;Who&#39;s going to fund them for the next game after that disaster?&#39;](https://www.pcgamer.com/gaming-industry/space-marine-2-ceo-puts-the-boot-into-the-saints-row-teams-twitching-corpse-from-his-private-jet-whos-going-to-fund-them-for-the-next-game-after-that-disaster/)
- - [Sennheiser says it &#39;will not become a gaming brand&#39; but its new HD 550 are a good excuse to use audiophile headphones for gaming](https://www.pcgamer.com/hardware/gaming-headsets/sennheiser-says-it-will-not-become-a-gaming-brand-but-its-new-hd-550-are-a-good-excuse-to-use-audiophile-headphones-for-gaming/)<!-- GAME:END -->
+ - [The free Half-Life 2 RTX demo is now available](https://www.polygon.com/news/539362/half-life-2-rtx-demo-nvidia)
+ - [Coming to Game Pass: Atomfall, Blizzard Arcade Collection, Mythwrecked: Ambrosia Island, and More](https://news.xbox.com/en-us/2025/03/18/xbox-game-pass-march-2025-wave-2/)
+ - [&#39;I made the world&#39;s worst keyboard&#39;: This YouTuber&#39;s homemade board has over 1,000 keys and types in words, not letters](https://www.pcgamer.com/hardware/gaming-keyboards/i-made-the-worlds-worst-keyboard-this-youtubers-homemade-board-has-over-1-000-keys-and-types-in-words-not-letters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
