@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch the Boeing Starliner astronauts return to Earth today](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Nvidia updates the DGX Station, begins taking reservations for the DGX Spark box, formerly Project Digits, and unveils the RTX PRO workstation and server GPUs &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250318/p42#a250318p42)
- - [Apple Pay expands to Puerto Rico](https://appleinsider.com/articles/25/03/18/apple-pay-expands-to-puerto-rico?utm_medium=rss)<!-- TECH:END -->
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
+ - [Tesla Got a Permit to Operate a Taxi Service in California—but There&#39;s a Catch](https://www.wired.com/story/tesla-got-a-permit-to-operate-a-taxi-service-in-california-but-theres-a-catch/)
+ - [Tesla awarded ride-hail permit in California, a first step for robotaxis](https://www.theverge.com/news/632185/tesla-ride-hail-permit-california-cpuc-robotaxis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
