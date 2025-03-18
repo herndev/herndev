@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ID@Xbox: Developers of All Sizes Are Finding More Success With Xbox – $5 Billion Paid Out to Date](https://news.xbox.com/en-us/2025/03/18/idxbox-developers-finding-success-with-xbox/)
- - [The Samsung 9100 is faster SSD, but its speed isn’t for everyone](https://www.polygon.com/hardware/538861/samsung-9100-pro-pcie5-ssd-speed)
- - [Pokémon Lawsuit Took Palworld Team By Surprise, Says Dev](https://kotaku.com/palworld-pokemon-lawsuit-nintendo-pocketpair-gdc-2025-1851770719)<!-- GAME:END -->
+ - [Towerborne Releases onto Xbox Game Preview and Game Pass on April 29](https://news.xbox.com/en-us/2025/03/18/towerborne-game-pass-xbox-game-preview-release-date/)
+ - [Cities: Skylines 2 celebrates 10 years of Cities with more nuanced homelessness and six new DLCs](https://www.pcgamer.com/games/city-builder/cities-skylines-2-celebrates-10-years-of-cities-with-more-nuanced-homelessness-and-six-new-dlcs/)
+ - [Rockstar hornswoggles lapsed GTAO players with $3 million welcome-back offer that actually requires you to spend money to get most of it](https://www.pcgamer.com/games/grand-theft-auto/rockstar-hornswoggles-lapsed-gtao-players-with-usd3-million-welcome-back-offer-that-actually-requires-you-to-spend-money-to-get-most-of-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
