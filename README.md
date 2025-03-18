@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You gotta go back Marty!](http://9gag.com/gag/aAyEjX0)
- - ⏩ [I guess it&#39;s official. I am a shitty boss.](http://9gag.com/gag/ajPOvyp)
- - 👉 [Yep, rage comics are the best](http://9gag.com/gag/aKG9Zbb)<!-- MEMES:END -->
+ - 💣 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
+ - ⏩ [I don&#39;t have a backyard and fancy bbq, but at least I can make some succulent burgers for me and my wife, which is nice](http://9gag.com/gag/ayN4bDr)
+ - 👉 [This gadget will produce your favourite ambience sound](http://9gag.com/gag/aW4LzX6)<!-- MEMES:END -->
 
 ---
 
