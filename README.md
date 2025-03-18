@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US music subscriptions cross 100 million as digital downloads drop](https://www.theverge.com/news/632045/riaa-music-streaming-revenue-100-million-subscriptions)
- - [Galaxy Z Flip FE launch may be further away than expected, but there’s a silver lining](https://www.androidauthority.com/galaxy-z-flip-fe-exynos-2500-3536244/)
- - [Nvidia says &amp;#8216;the age of generalist robotics is here&amp;#8217;](https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available)<!-- TECH:END -->
+ - [Watch the Boeing Starliner astronauts return to Earth today](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [Nvidia updates the DGX Station, begins taking reservations for the DGX Spark box, formerly Project Digits, and unveils the RTX PRO workstation and server GPUs &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250318/p42#a250318p42)
+ - [Apple Pay expands to Puerto Rico](https://appleinsider.com/articles/25/03/18/apple-pay-expands-to-puerto-rico?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
