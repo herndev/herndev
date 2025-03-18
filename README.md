@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is the big woman still here...](http://9gag.com/gag/aD2neOB)
- - ⏩ [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
- - 👉 [To be 7&#39;3`...](http://9gag.com/gag/a0eVrAz)<!-- MEMES:END -->
+ - 💣 [He cooked him well. The rifle thrown away was the biggest deception](http://9gag.com/gag/aVvEyEv)
+ - ⏩ [Priorities](http://9gag.com/gag/a34A6Gm)
+ - 👉 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)<!-- MEMES:END -->
 
 ---
 
