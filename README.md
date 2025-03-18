@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia announces Dynamo, an &quot;operating system of the AI factory&quot; that it says can boost token output by 30x per GPU when running DeepSeek-R1 on a large cluster &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250318/p35#a250318p35)
- - [JD Vance tries to mend the MAGA-Tech divide](https://www.theverge.com/policy/632006/jd-vance-maga-tech-divide-andreesen-horowitz)
- - [Google Docs is making it easier to digest long reports with new summaries](https://www.androidauthority.com/google-docs-ai-summary-building-block-3536257/)<!-- TECH:END -->
+ - [US music subscriptions cross 100 million as digital downloads drop](https://www.theverge.com/news/632045/riaa-music-streaming-revenue-100-million-subscriptions)
+ - [Galaxy Z Flip FE launch may be further away than expected, but there’s a silver lining](https://www.androidauthority.com/galaxy-z-flip-fe-exynos-2500-3536244/)
+ - [Nvidia says &amp;#8216;the age of generalist robotics is here&amp;#8217;](https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
