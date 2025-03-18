@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It was &#39;super popular to hate Palworld&#39; after launch, says community manager: &#39;A lot of companies might crumble under the threats, under the pressure&#39;](https://www.pcgamer.com/games/survival-crafting/it-was-super-popular-to-hate-palworld-after-launch-says-community-manager-a-lot-of-companies-might-crumble-under-the-threats-under-the-pressure/)
- - [&#39;It was a very depressing day&#39;: Palworld community manager reveals studio&#39;s reaction to Nintendo lawsuit](https://www.pcgamer.com/games/survival-crafting/it-was-a-very-depressing-day-palworld-community-manager-reveals-studios-reaction-to-nintendo-lawsuit/)
- - [A gorgeous ground-up remake of Counter-Strike 1.6 is on its way to Steam, and one of the game&#39;s original creators says &#39;it really gives me old vibes&#39;](https://www.pcgamer.com/games/fps/a-gorgeous-ground-up-remake-of-counter-strike-1-6-is-on-its-way-to-steam-and-one-of-the-games-original-creators-says-it-really-gives-me-old-vibes/)<!-- GAME:END -->
+ - [What time does Assassin’s Creed Shadows release in your time zone?](https://www.polygon.com/assassins-creed-shadows-guides/538277/release-time-date-preload-est-pst-gmt-utc)
+ - [Today&#39;s Wordle answer for Tuesday, March 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-18-2025/)
+ - [Ark 2 is still on: The next Ark expansion &#39;leads into the events of Ark 2,&#39; says Studio Wildcard](https://www.pcgamer.com/games/survival-crafting/ark-2-is-still-on-the-next-ark-expansion-leads-into-the-events-of-ark-2-says-studio-wildcard/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
