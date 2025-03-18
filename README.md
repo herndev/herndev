@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The free Half-Life 2 RTX demo is now available](https://www.polygon.com/news/539362/half-life-2-rtx-demo-nvidia)
- - [Coming to Game Pass: Atomfall, Blizzard Arcade Collection, Mythwrecked: Ambrosia Island, and More](https://news.xbox.com/en-us/2025/03/18/xbox-game-pass-march-2025-wave-2/)
- - [&#39;I made the world&#39;s worst keyboard&#39;: This YouTuber&#39;s homemade board has over 1,000 keys and types in words, not letters](https://www.pcgamer.com/hardware/gaming-keyboards/i-made-the-worlds-worst-keyboard-this-youtubers-homemade-board-has-over-1-000-keys-and-types-in-words-not-letters/)<!-- GAME:END -->
+ - [ID@Xbox: Developers of All Sizes Are Finding More Success With Xbox – $5 Billion Paid Out to Date](https://news.xbox.com/en-us/2025/03/18/idxbox-developers-finding-success-with-xbox/)
+ - [The Samsung 9100 is faster SSD, but its speed isn’t for everyone](https://www.polygon.com/hardware/538861/samsung-9100-pro-pcie5-ssd-speed)
+ - [Pokémon Lawsuit Took Palworld Team By Surprise, Says Dev](https://kotaku.com/palworld-pokemon-lawsuit-nintendo-pocketpair-gdc-2025-1851770719)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
