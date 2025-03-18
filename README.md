@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A gorgeous ground-up remake of Counter-Strike 1.6 is on its way to Steam, and one of the game&#39;s original creators says &#39;it really gives me old vibes&#39;](https://www.pcgamer.com/games/fps/a-gorgeous-ground-up-remake-of-counter-strike-1-6-is-on-its-way-to-steam-and-one-of-the-games-original-creators-says-it-really-gives-me-old-vibes/)
- - [Help, I can&#39;t move forward in this chill crafting RPG because I&#39;m too wrapped up in building bases and making sick tools](https://www.pcgamer.com/games/rpg/help-i-cant-move-forward-in-this-chill-crafting-rpg-because-im-too-wrapped-up-in-building-bases-and-making-sick-tools/)
- - [There&#39;s a new Portal game and it costs $12,500](https://www.pcgamer.com/games/theres-a-new-portal-game-and-it-costs-usd12-500/)<!-- GAME:END -->
+ - [It was &#39;super popular to hate Palworld&#39; after launch, says community manager: &#39;A lot of companies might crumble under the threats, under the pressure&#39;](https://www.pcgamer.com/games/survival-crafting/it-was-super-popular-to-hate-palworld-after-launch-says-community-manager-a-lot-of-companies-might-crumble-under-the-threats-under-the-pressure/)
+ - [&#39;It was a very depressing day&#39;: Palworld community manager reveals studio&#39;s reaction to Nintendo lawsuit](https://www.pcgamer.com/games/survival-crafting/it-was-a-very-depressing-day-palworld-community-manager-reveals-studios-reaction-to-nintendo-lawsuit/)
+ - [A gorgeous ground-up remake of Counter-Strike 1.6 is on its way to Steam, and one of the game&#39;s original creators says &#39;it really gives me old vibes&#39;](https://www.pcgamer.com/games/fps/a-gorgeous-ground-up-remake-of-counter-strike-1-6-is-on-its-way-to-steam-and-one-of-the-games-original-creators-says-it-really-gives-me-old-vibes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
