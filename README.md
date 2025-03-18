@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Tesla Got a Permit to Operate a Taxi Service in California—but There&#39;s a Catch](https://www.wired.com/story/tesla-got-a-permit-to-operate-a-taxi-service-in-california-but-theres-a-catch/)
- - [Tesla awarded ride-hail permit in California, a first step for robotaxis](https://www.theverge.com/news/632185/tesla-ride-hail-permit-california-cpuc-robotaxis)<!-- TECH:END -->
+ - [Sources: investors valued X at $44B in a secondary deal earlier this month; X posted ~$1.2B in adjusted EBITDA in 2024 and is raising $2B in a primary round &lpar;Financial Times&rpar;](http://www.techmeme.com/250318/p46#a250318p46)
+ - [Sources: US Commerce Secretary Howard Lutnick urged civil servants in charge of the $42B rural broadband program to increase the project&#39;s use of Starlink &lpar;Financial Times&rpar;](http://www.techmeme.com/250318/p45#a250318p45)
+ - [Finally! &#39;Stranded&#39; NASA Astronauts Return to Earth on SpaceX Dragon](https://www.cnet.com/science/finally-stranded-nasa-astronauts-return-to-earth-on-spacex-dragon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
