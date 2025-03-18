@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analyst repeats rumor: entire iPhone 17 lineup to get in-house Apple Wi-Fi 7 chips](https://appleinsider.com/articles/25/03/18/analyst-repeats-rumor-entire-iphone-17-lineup-to-get-in-house-apple-wi-fi-7-chips?utm_medium=rss)
- - [Some owners of devices running Roku OS report seeing autoplaying video ads before they can access the home screen; Roku says it is just a test &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250317/p35#a250317p35)
- - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Breaking: Samsung finally locks in One UI 7 release date — Here’s when it’s coming!](https://www.androidauthority.com/samsung-one-ui-7-stable-release-date-3535908/)
+ - [In an open letter to the OSTP, Ben Stiller and 400+ Hollywood creatives urge President Trump to not let Google, OpenAI, and others &quot;exploit&quot; copyrighted works &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250317/p37#a250317p37)
+ - [A critical Apache Tomcat RCE flaw is being exploited, letting attackers take over servers via a PUT request; Wallarm: the attack &quot;requires no authentication&quot; &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250317/p36#a250317p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
