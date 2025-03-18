@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Francisco grants Waymo a temporary permit to map SFO roads with human-driven cars, paving the way for future commercial operations &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250318/p2#a250318p2)
- - [Starlink is now accessible across the White House campus, which was already served by fiber cable, after service was &quot;donated&quot;, as some cite security concerns &lpar;New York Times&rpar;](http://www.techmeme.com/250318/p1#a250318p1)
- - [Sources: Cognition, maker of AI coding assistant Devin, raised hundreds of millions led by 8VC at a ~$4B valuation, doubling its $2B valuation from April 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250317/p38#a250317p38)<!-- TECH:END -->
+ - [LG Promo Codes: Extra 20% Off](https://www.wired.com/story/lg-promo-code/)
+ - [Now there’s a whole review video out for the Pixel 9a!](https://www.androidauthority.com/pixel-9a-review-leak-3535925/)
+ - [Bose Coupon Codes &amp; Discounts: 10% Off](https://www.wired.com/story/bose-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
