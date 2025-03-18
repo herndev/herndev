@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
- - ⏩ [Surprise](http://9gag.com/gag/a87mgv1)
- - 👉 [This one sparks joy too](http://9gag.com/gag/aPAPK7n)<!-- MEMES:END -->
+ - 💣 [Surprise](http://9gag.com/gag/a87mgv1)
+ - ⏩ [Canadian tv show in `Hot waters` for this skit](http://9gag.com/gag/aByLBnN)
+ - 👉 [3 V 1](http://9gag.com/gag/aZZwOAp)<!-- MEMES:END -->
 
 ---
 
