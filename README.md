@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Shellder be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23677312/can-shellder-be-shiny-cloyster)
  - [What time does Assassin’s Creed Shadows release in your time zone?](https://www.polygon.com/assassins-creed-shadows-guides/538277/release-time-date-preload-est-pst-gmt-utc)
- - [Today&#39;s Wordle answer for Tuesday, March 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-18-2025/)
- - [Ark 2 is still on: The next Ark expansion &#39;leads into the events of Ark 2,&#39; says Studio Wildcard](https://www.pcgamer.com/games/survival-crafting/ark-2-is-still-on-the-next-ark-expansion-leads-into-the-events-of-ark-2-says-studio-wildcard/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, March 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-18-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
