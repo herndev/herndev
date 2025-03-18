@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He cooked him well. The rifle thrown away was the biggest deception](http://9gag.com/gag/aVvEyEv)
- - ⏩ [Priorities](http://9gag.com/gag/a34A6Gm)
- - 👉 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)<!-- MEMES:END -->
+ - 💣 [Attack on a Titan](http://9gag.com/gag/aYQO5eq)
+ - ⏩ [Yep, rage comics are the best](http://9gag.com/gag/aKG9Zbb)
+ - 👉 [Priorities](http://9gag.com/gag/a34A6Gm)<!-- MEMES:END -->
 
 ---
 
