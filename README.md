@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
- - ⏩ [I don&#39;t have a backyard and fancy bbq, but at least I can make some succulent burgers for me and my wife, which is nice](http://9gag.com/gag/ayN4bDr)
- - 👉 [This gadget will produce your favourite ambience sound](http://9gag.com/gag/aW4LzX6)<!-- MEMES:END -->
+ - 💣 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
+ - ⏩ [You gotta go back Marty!](http://9gag.com/gag/aAyEjX0)
+ - 👉 [Priorities](http://9gag.com/gag/a34A6Gm)<!-- MEMES:END -->
 
 ---
 
