@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
- - [GM taps Nvidia to boost its embattled self-driving projects](https://www.theverge.com/news/631951/gm-nvidia-gtc-deal-cars-robots-factories)
- - [Stability AI releases Stable Virtual Camera, an AI model with a non-commercial use license that can create &quot;immersive&quot; 3D videos using up to 32 2D images &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250318/p32#a250318p32)<!-- TECH:END -->
+ - [Nvidia announces Dynamo, an &quot;operating system of the AI factory&quot; that it says can boost token output by 30x per GPU when running DeepSeek-R1 on a large cluster &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250318/p35#a250318p35)
+ - [JD Vance tries to mend the MAGA-Tech divide](https://www.theverge.com/policy/632006/jd-vance-maga-tech-divide-andreesen-horowitz)
+ - [Google Docs is making it easier to digest long reports with new summaries](https://www.androidauthority.com/google-docs-ai-summary-building-block-3536257/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
