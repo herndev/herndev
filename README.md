@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Towerborne Releases onto Xbox Game Preview and Game Pass on April 29](https://news.xbox.com/en-us/2025/03/18/towerborne-game-pass-xbox-game-preview-release-date/)
- - [Cities: Skylines 2 celebrates 10 years of Cities with more nuanced homelessness and six new DLCs](https://www.pcgamer.com/games/city-builder/cities-skylines-2-celebrates-10-years-of-cities-with-more-nuanced-homelessness-and-six-new-dlcs/)
- - [Rockstar hornswoggles lapsed GTAO players with $3 million welcome-back offer that actually requires you to spend money to get most of it](https://www.pcgamer.com/games/grand-theft-auto/rockstar-hornswoggles-lapsed-gtao-players-with-usd3-million-welcome-back-offer-that-actually-requires-you-to-spend-money-to-get-most-of-it/)<!-- GAME:END -->
+ - [Assassin’s Creed Shadows is a gorgeous retread of tired RPG mechanics](https://www.polygon.com/review/541609/assassins-creed-shadows-review)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [God Of War TV Show Writer Says He Gave Up On Trying To Play The Games](https://kotaku.com/god-of-war-tv-ronald-d-moore-battlestar-galactica-1851770751)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
