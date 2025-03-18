@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lego announces Pokémon sets are coming next year](https://www.theverge.com/news/631679/lego-pokemon-building-sets-availability)
- - [Taboola strikes a deal with Microsoft to sell display ads for MSN.com, Outlook, Games, Office products, and more, as it expands beyond native advertising &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250318/p21#a250318p21)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Audio Overviews bring one of Google’s most impressive AI tools to Gemini](https://www.androidauthority.com/gemini-audio-overviews-2-3535847/)
+ - [A slew of new HP OmniBooks includes chip bumps and a featherweight Aero](https://www.theverge.com/news/631559/hp-omnibook-x-7-5-3-aero-laptops-announcement-specs)
+ - [Sources: Wiz and Alphabet agree to a $3.2B termination fee in the $32B deal, which lets Wiz run like an independent company if a lengthy antitrust trial happens &lpar;Financial Times&rpar;](http://www.techmeme.com/250318/p23#a250318p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
