@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to set ChatGPT as your default search engine in Safari](https://appleinsider.com/articles/25/03/18/how-to-set-chatgpt-as-your-default-search-engine-in-safari?utm_medium=rss)
  - [Breaking: Samsung finally locks in One UI 7 release date — Here’s when it’s coming!](https://www.androidauthority.com/samsung-one-ui-7-stable-release-date-3535908/)
- - [In an open letter to the OSTP, Ben Stiller and 400+ Hollywood creatives urge President Trump to not let Google, OpenAI, and others &quot;exploit&quot; copyrighted works &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250317/p37#a250317p37)
- - [A critical Apache Tomcat RCE flaw is being exploited, letting attackers take over servers via a PUT request; Wallarm: the attack &quot;requires no authentication&quot; &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250317/p36#a250317p36)<!-- TECH:END -->
+ - [In an open letter to the OSTP, Ben Stiller and 400+ Hollywood creatives urge President Trump to not let Google, OpenAI, and others &quot;exploit&quot; copyrighted works &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250317/p37#a250317p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
