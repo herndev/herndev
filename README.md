@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A former CHIPS Act program officer says Trump repealing the program risks US national security and tariffs alone will not revitalize domestic chip manufacturing &lpar;Mike Schmidt/Financial Times&rpar;](http://www.techmeme.com/250318/p11#a250318p11)
- - [Roku takes ads to the next level by auto-playing them at startup](https://www.androidauthority.com/roku-auto-playing-video-ads-startup-3536011/)
- - [Chicago-based Nerdio, which helps manage remote workers, raised $500M led by General Atlantic at a $1.2B valuation, sources say up from $300M in December 2022 &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250318/p10#a250318p10)<!-- TECH:END -->
+ - [How Trump and Musk built their own reality](https://www.theverge.com/politics/631078/trump-musk-doge-tesla-internet-tv-politics-spectacle)
+ - [Tencent releases five AI tools to turn text or images into 3D visuals and graphics, based on Hunyuan3D-2.0, and plans to integrate DeepSeek&#39;s R1 into WeChat &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p15#a250318p15)
+ - [Don&#39;t Google &#39;Severance&#39; if you&#39;re about to be laid off](https://appleinsider.com/articles/25/03/18/dont-google-severance-if-youre-about-to-be-laid-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
