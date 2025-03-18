@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
- - ⏩ [Oh boy...](http://9gag.com/gag/a4PzX0m)
- - 👉 [So flimsy](http://9gag.com/gag/adBOzGN)<!-- MEMES:END -->
+ - 💣 [Surprise](http://9gag.com/gag/a87mgv1)
+ - ⏩ [2 people walked away from that survey laughing into the sunset](http://9gag.com/gag/ae9OBoB)
+ - 👉 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)<!-- MEMES:END -->
 
 ---
 
