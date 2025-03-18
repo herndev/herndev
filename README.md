@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Survive Ninja Gaiden 2 Black](https://kotaku.com/ninja-gaiden-black-2-karma-dragon-sword-ultimate-power-1851770833)
- - [Best Master League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/497479/master-league-best-team-meta)
- - [The best Humble deal is exclusive to Polygon readers](https://www.polygon.com/good-deals/542142/humble-choice-march-polygon-promo-sale)<!-- GAME:END -->
+ - [Split Fiction Director: Working With EA Is Great, But &#39;Nobody Believes Me&#39;](https://kotaku.com/split-fiction-josef-fares-oscars-why-do-people-hate-ea-1851770885)
+ - [World of Warcraft Classic’s Season of Discovery may be teasing a legendary weapon that players have speculated is in the game for two decades](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-classics-season-of-discovery-may-be-teasing-a-legendary-weapon-that-players-have-speculated-is-in-the-game-for-two-decades/)
+ - [How To Survive Ninja Gaiden 2 Black](https://kotaku.com/ninja-gaiden-black-2-karma-dragon-sword-ultimate-power-1851770833)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
