@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A RevenueCat report, covering data from 75K+ mobile apps and $10B+ in revenue across 1B+ transactions, shows most apps fail to reach $1K/month after two years &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250318/p3#a250318p3)
- - [One UI 7 is coming but your Samsung phone might not get all the AI goodies](https://www.androidauthority.com/samsung-one-ui-7-ai-features-supported-devices-3535929/)
- - [LG Promo Codes: Extra 20% Off](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [PitchBook: China led Asia with 715 AI VC deals in 2024, totaling $7.3B, South Korea followed with 308 deals worth $1.8B, and India with 306 deals totaling $1.7B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250318/p4#a250318p4)
+ - [Google Messages could soon sport an Android 16-inspired look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-preferences-redesign-apk-teardown-3535932/)
+ - [A RevenueCat report, covering data from 75K+ mobile apps and $10B+ in revenue across 1B+ transactions, shows most apps fail to reach $1K/month after two years &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250318/p3#a250318p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
