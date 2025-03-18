@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)
- - ⏩ [You gotta go back Marty!](http://9gag.com/gag/aAyEjX0)
- - 👉 [Priorities](http://9gag.com/gag/a34A6Gm)<!-- MEMES:END -->
+ - 💣 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
+ - ⏩ [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)
+ - 👉 [I guess it&#39;s official. I am a shitty boss.](http://9gag.com/gag/ajPOvyp)<!-- MEMES:END -->
 
 ---
 
