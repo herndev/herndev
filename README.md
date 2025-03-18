@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
- - ⏩ [Molybdenum greese dispenser](http://9gag.com/gag/aRBZq0Q)
- - 👉 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)<!-- MEMES:END -->
+ - 💣 [You gotta go back Marty!](http://9gag.com/gag/aAyEjX0)
+ - ⏩ [I guess it&#39;s official. I am a shitty boss.](http://9gag.com/gag/ajPOvyp)
+ - 👉 [Yep, rage comics are the best](http://9gag.com/gag/aKG9Zbb)<!-- MEMES:END -->
 
 ---
 
