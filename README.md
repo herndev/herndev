@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Split Fiction Director: Working With EA Is Great, But &#39;Nobody Believes Me&#39;](https://kotaku.com/split-fiction-josef-fares-oscars-why-do-people-hate-ea-1851770885)
- - [World of Warcraft Classic’s Season of Discovery may be teasing a legendary weapon that players have speculated is in the game for two decades](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-classics-season-of-discovery-may-be-teasing-a-legendary-weapon-that-players-have-speculated-is-in-the-game-for-two-decades/)
- - [How To Survive Ninja Gaiden 2 Black](https://kotaku.com/ninja-gaiden-black-2-karma-dragon-sword-ultimate-power-1851770833)<!-- GAME:END -->
+ - [After years of playing as stupid, boring humans in Fallout, you can finally channel your inner Walton Goggins and become a ghoul in Fallout 76](https://www.pcgamer.com/games/mmo/after-years-of-playing-as-stupid-boring-humans-in-fallout-you-can-finally-channel-your-inner-walton-goggins-and-become-a-ghoul-in-fallout-76/)
+ - [Hasbro will be ready to share news about the future of Baldur&#39;s Gate &#39;in pretty short order&#39;](https://www.pcgamer.com/games/rpg/hasbro-will-be-ready-to-share-news-about-the-future-of-baldurs-gate-in-pretty-short-order/)
+ - [Split Fiction Director: Working With EA Is Great, But &#39;Nobody Believes Me&#39;](https://kotaku.com/split-fiction-josef-fares-oscars-why-do-people-hate-ea-1851770885)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
