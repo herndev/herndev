@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ahead of its rumored March 19 release, a YouTuber posts a video of an alleged Pixel 9a, showing a flat rear panel, minimal camera bump, and large bezels &lpar;Rajesh Pandey/Android Police&rpar;](http://www.techmeme.com/250318/p6#a250318p6)
- - [BYD announces charging tech that&amp;#8217;s twice as fast as Tesla’s](https://www.theverge.com/news/631552/byd-1000kw-charging-ev-han-l-tang-l-battery)
- - [Tap to Pay on iPhone comes to nine more European countries](https://appleinsider.com/articles/25/03/18/tap-to-pay-on-iphone-comes-to-nine-more-european-countries?utm_medium=rss)<!-- TECH:END -->
+ - [A former CHIPS Act program officer says Trump repealing the program risks US national security and tariffs alone will not revitalize domestic chip manufacturing &lpar;Mike Schmidt/Financial Times&rpar;](http://www.techmeme.com/250318/p11#a250318p11)
+ - [Roku takes ads to the next level by auto-playing them at startup](https://www.androidauthority.com/roku-auto-playing-video-ads-startup-3536011/)
+ - [Chicago-based Nerdio, which helps manage remote workers, raised $500M led by General Atlantic at a $1.2B valuation, sources say up from $300M in December 2022 &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250318/p10#a250318p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
