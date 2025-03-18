@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)
- - ⏩ [It\u2019s always them](http://9gag.com/gag/a9yveeo)
- - 👉 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)<!-- MEMES:END -->
+ - ⏩ [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
+ - 👉 [Apron](http://9gag.com/gag/abAONM9)<!-- MEMES:END -->
 
 ---
 
