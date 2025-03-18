@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)
- - ⏩ [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
- - 👉 [Apron](http://9gag.com/gag/abAONM9)<!-- MEMES:END -->
+ - 💣 [Is the big woman still here...](http://9gag.com/gag/aD2neOB)
+ - ⏩ [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
+ - 👉 [To be 7&#39;3`...](http://9gag.com/gag/a0eVrAz)<!-- MEMES:END -->
 
 ---
 
