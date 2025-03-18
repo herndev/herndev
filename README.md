@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The future of robots is looking ever more meaty as MIT researchers grow first bidirectional muscle tissue machine](https://www.pcgamer.com/hardware/the-future-of-robots-is-looking-ever-more-meaty-as-mit-researchers-grow-first-bidirectional-muscle-tissue-machine/)
- - [Helldivers 2 Borderline Justice Warbond launches March 20](https://blog.playstation.com/2025/03/18/helldivers-2-borderline-justice-warbond-launches-march-20/)
- - [Helldivers 2 Borderline Justice Warbond launches March 20](https://blog.playstation.com/2025/03/18/helldivers-2-borderline-justice-warbond-launches-march-20/)<!-- GAME:END -->
+ - [Zenless Zone Zero developer finally embraces its divine domain as the god of jiggle physics, goes mad, adds them to cat balls](https://www.pcgamer.com/games/rpg/zenless-zone-zero-developer-finally-embraces-its-divine-domain-as-the-god-of-jiggle-physics-goes-mad-adds-them-to-cat-balls/)
+ - [Space Marine 2 CEO puts the boot into the Saints Row team&#39;s twitching corpse from his private jet: &#39;Who&#39;s going to fund them for the next game after that disaster?&#39;](https://www.pcgamer.com/gaming-industry/space-marine-2-ceo-puts-the-boot-into-the-saints-row-teams-twitching-corpse-from-his-private-jet-whos-going-to-fund-them-for-the-next-game-after-that-disaster/)
+ - [Sennheiser says it &#39;will not become a gaming brand&#39; but its new HD 550 are a good excuse to use audiophile headphones for gaming](https://www.pcgamer.com/hardware/gaming-headsets/sennheiser-says-it-will-not-become-a-gaming-brand-but-its-new-hd-550-are-a-good-excuse-to-use-audiophile-headphones-for-gaming/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
