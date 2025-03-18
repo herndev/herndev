@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 76: Unleash the Ghoul Within](https://fallout.bethesda.net/en/article/6RGjrKk2xdmERak4XZXhBw/unleash-the-ghoul-within#new_tab)
- - [Pokémon Go director addresses concerns about its new owners and the future of the game](https://www.polygon.com/pokemon-go/541768/scopely-niantic-interview-michael-steranka)
- - [Disney Plus’ perpetual 24/7 Simpsons marathon kicks off today](https://www.polygon.com/news/541985/simpsons-24-hour-stream-marathon-disney-plus)<!-- GAME:END -->
+ - [Let’s use The Electric State as reminder that art books are Good](https://www.polygon.com/opinion/541746/electric-state-better-art-books-good)
+ - [I&#39;m creeped out by this trailer for a generative AI game about people using an AI-powered app to solve violent crimes in the year 2028 that somehow isn&#39;t a cautionary tale](https://www.pcgamer.com/software/ai/im-creeped-out-by-this-trailer-for-a-generative-ai-game-about-people-using-an-ai-powered-app-to-solve-violent-crimes-in-the-year-2028-that-somehow-isnt-a-cautionary-tale/)
+ - [Fallout 76’s newest update adds player ghouls, live now](https://www.polygon.com/gaming/542151/fallout-76-ghoul-within-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
