@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t have a backyard and fancy bbq, but at least I can make some succulent burgers for me and my wife, which is nice](http://9gag.com/gag/ayN4bDr)
- - ⏩ [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
- - 👉 [LOL, As someone who grew up a kid in the 80&#39;s. I can tell you that this method worked all the time..](http://9gag.com/gag/ajPOpLx)<!-- MEMES:END -->
+ - 💣 [Attack on a Titan](http://9gag.com/gag/aYQO5eq)
+ - ⏩ [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
+ - 👉 [Just finished this masterpiece, need another recommandation](http://9gag.com/gag/awymwzr)<!-- MEMES:END -->
 
 ---
 
