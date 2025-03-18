@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s use The Electric State as reminder that art books are Good](https://www.polygon.com/opinion/541746/electric-state-better-art-books-good)
- - [I&#39;m creeped out by this trailer for a generative AI game about people using an AI-powered app to solve violent crimes in the year 2028 that somehow isn&#39;t a cautionary tale](https://www.pcgamer.com/software/ai/im-creeped-out-by-this-trailer-for-a-generative-ai-game-about-people-using-an-ai-powered-app-to-solve-violent-crimes-in-the-year-2028-that-somehow-isnt-a-cautionary-tale/)
- - [Fallout 76’s newest update adds player ghouls, live now](https://www.polygon.com/gaming/542151/fallout-76-ghoul-within-update)<!-- GAME:END -->
+ - [Best Master League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/497479/master-league-best-team-meta)
+ - [The best Humble deal is exclusive to Polygon readers](https://www.polygon.com/good-deals/542142/humble-choice-march-polygon-promo-sale)
+ - [The official Cyberpunk 2077 board game is 36% off for the first time](https://www.polygon.com/good-deals/542227/cyberpunk-2077-gangs-night-city-board-game-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
