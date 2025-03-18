@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Wiz will join Google Cloud and Wiz&#39;s products will continue to work &quot;across all major clouds&quot;, including AWS, Microsoft Azure, and Oracle Cloud &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/250318/p18#a250318p18)
- - [11 Best Early Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025/)
- - [Exclusive: How Google built the Pixel 10’s Tensor G5 without Samsung’s help](https://www.androidauthority.com/how-google-built-tensor-g5-3535489/)<!-- TECH:END -->
+ - [Nanoleaf’s new immersive backlight kit plugs directly into your PC](https://www.theverge.com/news/631610/nanoleaf-pc-screen-mirror-lightstrip-usb)
+ - [Hundreds of celebrities warn against letting OpenAI and Google &amp;#8216;freely exploit&amp;#8217; Hollywood](https://www.theverge.com/news/631637/celebrities-warn-openai-google-exploit-hollywood)
+ - [Halliday, which helps developers delegate workflows to autonomous systems when creating smart contracts, raised a $20M Series A led by a16z Crypto &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250318/p20#a250318p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
