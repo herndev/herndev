@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audio Overviews bring one of Google’s most impressive AI tools to Gemini](https://www.androidauthority.com/gemini-audio-overviews-2-3535847/)
- - [A slew of new HP OmniBooks includes chip bumps and a featherweight Aero](https://www.theverge.com/news/631559/hp-omnibook-x-7-5-3-aero-laptops-announcement-specs)
- - [Sources: Wiz and Alphabet agree to a $3.2B termination fee in the $32B deal, which lets Wiz run like an independent company if a lengthy antitrust trial happens &lpar;Financial Times&rpar;](http://www.techmeme.com/250318/p23#a250318p23)<!-- TECH:END -->
+ - [A livestream of the Nvidia GTC 2025 keynote at the SAP Center in San Jose, California &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/250318/p29#a250318p29)
+ - [GrubMarket, which offers food logistics AI tools, raised a $50M Series G at a $3.5B+ valuation, up from $1.2B in 2021, and is on track for $2.4B in 2025 revenue &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250318/p28#a250318p28)
+ - [What happened to all the games announced at WWDC 2024](https://appleinsider.com/articles/25/03/18/what-happened-to-all-the-games-announced-at-wwdc-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
