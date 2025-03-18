@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A livestream of the Nvidia GTC 2025 keynote at the SAP Center in San Jose, California &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/250318/p29#a250318p29)
- - [GrubMarket, which offers food logistics AI tools, raised a $50M Series G at a $3.5B+ valuation, up from $1.2B in 2021, and is on track for $2.4B in 2025 revenue &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250318/p28#a250318p28)
- - [What happened to all the games announced at WWDC 2024](https://appleinsider.com/articles/25/03/18/what-happened-to-all-the-games-announced-at-wwdc-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
+ - [GM taps Nvidia to boost its embattled self-driving projects](https://www.theverge.com/news/631951/gm-nvidia-gtc-deal-cars-robots-factories)
+ - [Stability AI releases Stable Virtual Camera, an AI model with a non-commercial use license that can create &quot;immersive&quot; 3D videos using up to 32 2D images &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250318/p32#a250318p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
