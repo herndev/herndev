@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic Chief Product Officer Mike Krieger says the company is preparing enterprise features and discussing voice product launches with &quot;a bunch of partners&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250318/p5#a250318p5)
- - [Best Internet Providers in Jersey City, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-jersey-city-nj/#ftag=CAD590a51e)
- - [PitchBook: China led Asia with 715 AI VC deals in 2024, totaling $7.3B, South Korea followed with 308 deals worth $1.8B, and India with 306 deals totaling $1.7B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250318/p4#a250318p4)<!-- TECH:END -->
+ - [Ahead of its rumored March 19 release, a YouTuber posts a video of an alleged Pixel 9a, showing a flat rear panel, minimal camera bump, and large bezels &lpar;Rajesh Pandey/Android Police&rpar;](http://www.techmeme.com/250318/p6#a250318p6)
+ - [BYD announces charging tech that&amp;#8217;s twice as fast as Tesla’s](https://www.theverge.com/news/631552/byd-1000kw-charging-ev-han-l-tang-l-battery)
+ - [Tap to Pay on iPhone comes to nine more European countries](https://appleinsider.com/articles/25/03/18/tap-to-pay-on-iphone-comes-to-nine-more-european-countries?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
