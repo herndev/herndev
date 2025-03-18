@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surprise](http://9gag.com/gag/a87mgv1)
- - ⏩ [2 people walked away from that survey laughing into the sunset](http://9gag.com/gag/ae9OBoB)
- - 👉 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)<!-- MEMES:END -->
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
+ - ⏩ [Surprise](http://9gag.com/gag/a87mgv1)
+ - 👉 [This one sparks joy too](http://9gag.com/gag/aPAPK7n)<!-- MEMES:END -->
 
 ---
 
