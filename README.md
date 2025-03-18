@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t have a backyard and fancy bbq, but at least I can make some succulent burgers for me and my wife, which is nice](http://9gag.com/gag/ayN4bDr)
- - ⏩ [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
- - 👉 [Halo music...](http://9gag.com/gag/aD2nKgZ)<!-- MEMES:END -->
+ - 💣 [This one sparks joy too](http://9gag.com/gag/aPAPK7n)
+ - ⏩ [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
+ - 👉 [Surprise](http://9gag.com/gag/a87mgv1)<!-- MEMES:END -->
 
 ---
 
