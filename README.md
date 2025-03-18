@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG Promo Codes: Extra 20% Off](https://www.wired.com/story/lg-promo-code/)
- - [Now there’s a whole review video out for the Pixel 9a!](https://www.androidauthority.com/pixel-9a-review-leak-3535925/)
- - [Bose Coupon Codes &amp; Discounts: 10% Off](https://www.wired.com/story/bose-coupon-code/)<!-- TECH:END -->
+ - [A RevenueCat report, covering data from 75K+ mobile apps and $10B+ in revenue across 1B+ transactions, shows most apps fail to reach $1K/month after two years &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250318/p3#a250318p3)
+ - [One UI 7 is coming but your Samsung phone might not get all the AI goodies](https://www.androidauthority.com/samsung-one-ui-7-ai-features-supported-devices-3535929/)
+ - [LG Promo Codes: Extra 20% Off](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
