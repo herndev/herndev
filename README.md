@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Trump and Musk built their own reality](https://www.theverge.com/politics/631078/trump-musk-doge-tesla-internet-tv-politics-spectacle)
- - [Tencent releases five AI tools to turn text or images into 3D visuals and graphics, based on Hunyuan3D-2.0, and plans to integrate DeepSeek&#39;s R1 into WeChat &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p15#a250318p15)
- - [Don&#39;t Google &#39;Severance&#39; if you&#39;re about to be laid off](https://appleinsider.com/articles/25/03/18/dont-google-severance-if-youre-about-to-be-laid-off?utm_medium=rss)<!-- TECH:END -->
+ - [Google says Wiz will join Google Cloud and Wiz&#39;s products will continue to work &quot;across all major clouds&quot;, including AWS, Microsoft Azure, and Oracle Cloud &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/250318/p18#a250318p18)
+ - [11 Best Early Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025/)
+ - [Exclusive: How Google built the Pixel 10’s Tensor G5 without Samsung’s help](https://www.androidauthority.com/how-google-built-tensor-g5-3535489/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
