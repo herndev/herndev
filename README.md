@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
- - ⏩ [LBD](http://9gag.com/gag/ayN4OQM)
- - 👉 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)<!-- MEMES:END -->
+ - 💣 [LBD](http://9gag.com/gag/ayN4OQM)
+ - ⏩ [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - 👉 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)<!-- MEMES:END -->
 
 ---
 
