@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump Held Another Million-Dollar ‘Candlelight’ Dinner—With Elon Musk in Tow](https://www.wired.com/story/trump-million-dollar-candlelight-dinner-elon-musk/)
- - [CFPB workers are reinstated after a court order, but many still can’t work](https://www.theverge.com/news/631465/cfpb-probationary-employees-court-order-reinstatement)
- - [AI search is starting to kill Google’s ‘ten blue links’](https://www.theverge.com/ai-artificial-intelligence/631352/ai-search-adobe-analytics-google-perplexity-openai)<!-- TECH:END -->
+ - [This smart ring promises health insights even Google and Apple haven’t cracked](https://www.androidauthority.com/circular-smart-ring-bp-bg-monitoring-3535890/)
+ - [Sources: US Commerce Department bureaus informed staffers in recent weeks that DeepSeek is banned on their government devices &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250317/p34#a250317p34)
+ - [Amazon sues the US CPSC, accusing it of stretching consumer safety law by ruling Amazon responsible for recalling products sold by third parties on Amazon.com &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250317/p33#a250317p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
