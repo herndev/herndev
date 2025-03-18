@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nanoleaf’s new immersive backlight kit plugs directly into your PC](https://www.theverge.com/news/631610/nanoleaf-pc-screen-mirror-lightstrip-usb)
- - [Hundreds of celebrities warn against letting OpenAI and Google &amp;#8216;freely exploit&amp;#8217; Hollywood](https://www.theverge.com/news/631637/celebrities-warn-openai-google-exploit-hollywood)
- - [Halliday, which helps developers delegate workflows to autonomous systems when creating smart contracts, raised a $20M Series A led by a16z Crypto &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250318/p20#a250318p20)<!-- TECH:END -->
+ - [Lego announces Pokémon sets are coming next year](https://www.theverge.com/news/631679/lego-pokemon-building-sets-availability)
+ - [Taboola strikes a deal with Microsoft to sell display ads for MSN.com, Outlook, Games, Office products, and more, as it expands beyond native advertising &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250318/p21#a250318p21)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
