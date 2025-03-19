@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says more changes to Search in the EU would &quot;reduce traffic to European businesses&quot; and changes to the Play Store may expose users to &quot;malware and fraud&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250319/p37#a250319p37)
- - [There’s a big sale on the Pixel 9 Pro and Pixel 9 Pro XL right now](https://www.theverge.com/good-deals/632645/google-pixel-9-pro-xl-eero-pro-6e-deal-sale)
- - [Microsoft has a new strategy chief to navigate its AI era](https://www.theverge.com/notepad-microsoft-newsletter/632830/microsoft-kathleen-hogan-strategy-chief-notepad)<!-- TECH:END -->
+ - [Apple won&#39;t be forced into allowing third party app marketplaces in Brazil, for now](https://appleinsider.com/articles/25/03/19/apple-wont-be-forced-into-allowing-third-party-app-marketplaces-in-brazil-for-now?utm_medium=rss)
+ - [Report: LG will end its XR product commercialization efforts as it believes the market isn&#39;t growing as quickly as it expected, but will continue R&amp;D efforts &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250319/p39#a250319p39)
+ - [Roborock opens pre-orders for its robot vacuum with an arm](https://www.theverge.com/news/632881/roborock-saros-z70-robot-vacuum-pre-orders-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
