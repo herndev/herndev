@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [LBD](http://9gag.com/gag/ayN4OQM)
- - ⏩ [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
- - 👉 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)<!-- MEMES:END -->
+ - 💣 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - ⏩ [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)
+ - 👉 [Priorities](http://9gag.com/gag/a34A6Gm)<!-- MEMES:END -->
 
 ---
 
