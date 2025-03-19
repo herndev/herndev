@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon says its satellite messaging service is now available to owners of Pixel 9 and Galaxy S25 series phones at no extra charge &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250319/p36#a250319p36)
- - [Plex follows Netflix and everyone else by raising prices](https://www.androidauthority.com/plex-price-hike-3536765/)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
+ - [Google says more changes to Search in the EU would &quot;reduce traffic to European businesses&quot; and changes to the Play Store may expose users to &quot;malware and fraud&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250319/p37#a250319p37)
+ - [There’s a big sale on the Pixel 9 Pro and Pixel 9 Pro XL right now](https://www.theverge.com/good-deals/632645/google-pixel-9-pro-xl-eero-pro-6e-deal-sale)
+ - [Microsoft has a new strategy chief to navigate its AI era](https://www.theverge.com/notepad-microsoft-newsletter/632830/microsoft-kathleen-hogan-strategy-chief-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
