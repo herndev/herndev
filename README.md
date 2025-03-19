@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer launches new Wyvrn game dev platform with automated AI bug tester](https://www.theverge.com/news/632121/razer-wyvrn-developer-ai-qa-gamer-copilot-sensa-haptics-thx)
- - [EU will force Apple to totally expose its iPhone features to all who ask](https://appleinsider.com/articles/25/03/19/eu-will-force-apple-to-totally-expose-its-iphone-features-to-all-who-ask?utm_medium=rss)
- - [Not sold on the Pixel 9a? Visible will give you a free iPhone 16e instead](https://www.androidauthority.com/free-visible-iphone-16e-3536104/)<!-- TECH:END -->
+ - [Google says it is &quot;checking on a component quality issue&quot; for the Pixel 9a, delaying its release from March to sometime in April; pre-orders are not yet open &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250319/p29#a250319p29)
+ - [AT&amp;T and T-Mobile Pixel 9a deals throw in a free pair of Pixel Buds A-Series](https://www.androidauthority.com/att-tmobile-pixel-9a-deals-3536644/)
+ - [Tesla crash victims’ families worried about Musk’s influence over investigations](https://www.theverge.com/news/632562/tesla-crash-victims-usdot-investigation-water-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
