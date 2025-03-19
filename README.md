@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop lying!](http://9gag.com/gag/aD2npdK)
- - ⏩ [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)
- - 👉 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)<!-- MEMES:END -->
+ - 💣 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
+ - ⏩ [Priorities](http://9gag.com/gag/a34A6Gm)
+ - 👉 [Tow truck driver](http://9gag.com/gag/azxPNGz)<!-- MEMES:END -->
 
 ---
 
