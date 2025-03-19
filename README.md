@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The power of Dads!](http://9gag.com/gag/aO846m3)
- - ⏩ [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)
- - 👉 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)<!-- MEMES:END -->
+ - 💣 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
+ - ⏩ [Totally not a coup](http://9gag.com/gag/aPAPOKR)
+ - 👉 [The power of Dads!](http://9gag.com/gag/aO846m3)<!-- MEMES:END -->
 
 ---
 
