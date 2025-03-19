@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Pixel 9a is here: Release date, price, specs, colors, and all the info you need](https://www.androidauthority.com/google-pixel-9a-3479179/)
- - [How a porch piracy gang stole thousands of iPhones in a sophisticated crime spree](https://appleinsider.com/articles/25/03/19/how-a-porch-piracy-gang-stole-thousands-of-iphones-in-a-sophisticated-crime-spree?utm_medium=rss)
- - [The Playdate is about to get a price increase](https://www.theverge.com/news/632418/playdate-price-increase-panic-malaysia)<!-- TECH:END -->
+ - [Razer launches new Wyvrn game dev platform with automated AI bug tester](https://www.theverge.com/news/632121/razer-wyvrn-developer-ai-qa-gamer-copilot-sensa-haptics-thx)
+ - [EU will force Apple to totally expose its iPhone features to all who ask](https://appleinsider.com/articles/25/03/19/eu-will-force-apple-to-totally-expose-its-iphone-features-to-all-who-ask?utm_medium=rss)
+ - [Not sold on the Pixel 9a? Visible will give you a free iPhone 16e instead](https://www.androidauthority.com/free-visible-iphone-16e-3536104/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
