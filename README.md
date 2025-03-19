@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What To Do First Upon Reaching Honolulu In Like A Dragon: Pirate Yakuza In Hawaii](https://kotaku.com/pirate-yakuza-hawaii-honolulu-aloha-links-substories-1851770986)
- - [New Cartoony Zombie Game Is Perfect On Steam Deck](https://kotaku.com/great-game-steam-deck-roguelike-zombieville-steam-cheap-1851771045)
- - [The Antidote To Sephiroth Posting Is Barret Posting](https://kotaku.com/posts-writes-like-sephiroth-barret-final-fantasy-7-1851771054)<!-- GAME:END -->
+ - [Helldivers 2&#39;s Johan Pilestedt says developers need to start taking more risks: &#39;Safe bets are a death sentence for the studios that try to make them&#39;](https://www.pcgamer.com/gaming-industry/helldivers-2s-johan-pilestedt-says-developers-need-to-start-taking-more-risks-safe-bets-are-a-death-sentence-for-the-studios-that-try-to-make-them/)
+ - [Monster Hunter Wilds&#39; Confusing Co-Op Settings, Explained](https://kotaku.com/monster-hunter-wilds-co-op-lobby-link-party-id-1851771071)
+ - [A pair of Split Fiction players will be heading to Sweden for an early look at Hazelight&#39;s next game after completing a secret challenge so tough, some developers can &#39;barely&#39; beat it](https://www.pcgamer.com/games/action/a-pair-of-split-fiction-players-will-be-heading-to-sweden-for-an-early-look-at-hazelights-next-game-after-completing-a-secret-challenge-so-tough-some-developers-can-barely-beat-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
