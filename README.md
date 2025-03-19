@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Update 13: Breast cancer has more than halved after 11 weeks of chemo, having an echo to check my heart and then the second round of drugs start. Happy Wednesday my dudes, f**k you all and see you next week.](http://9gag.com/gag/aO846py)
- - ⏩ [I need a sleep Premium version](http://9gag.com/gag/a9yvQ6m)
- - 👉 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)<!-- MEMES:END -->
+ - 💣 [When your mom farted.](http://9gag.com/gag/aByLDvz)
+ - ⏩ [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - 👉 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)<!-- MEMES:END -->
 
 ---
 
