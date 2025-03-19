@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Google made a $32 billion bet on Wiz](https://www.theverge.com/ai-artificial-intelligence/632167/google-wiz-acquisition-cloud-security-ai)
- - [BlackRock, Microsoft, and Abu Dhabi&amp;apos;s MGX say Nvidia and xAI joined a consortium to build AI infrastructure in the US; investors committed $100B for deployment &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250319/p20#a250319p20)
- - [A look at Israeli spyware company Paragon, which makes Graphite: suspected deployments in Australia, Canada, Cyprus, and others, a WhatsApp zero-click, and more &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/250319/p19#a250319p19)<!-- TECH:END -->
+ - [The Google Pixel 9a is here: Release date, price, specs, colors, and all the info you need](https://www.androidauthority.com/google-pixel-9a-3479179/)
+ - [How a porch piracy gang stole thousands of iPhones in a sophisticated crime spree](https://appleinsider.com/articles/25/03/19/how-a-porch-piracy-gang-stole-thousands-of-iphones-in-a-sophisticated-crime-spree?utm_medium=rss)
+ - [The Playdate is about to get a price increase](https://www.theverge.com/news/632418/playdate-price-increase-panic-malaysia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
