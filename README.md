@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 16e 5G surpasses iPhone 16 in most real-world speed tests](https://appleinsider.com/articles/25/03/19/apples-iphone-16e-5g-surpasses-iphone-16-in-most-real-world-speed-tests?utm_medium=rss)
- - [The EU is betraying iPhone users and weakening privacy for political gain](https://appleinsider.com/articles/25/03/19/the-eu-is-betraying-its-users-and-weakening-their-privacy-for-political-gain?utm_medium=rss)
- - [Pavel Durov says Telegram now has 1B+ MAUs, up from 950M in July 2024, and made $547M in profits in 2024, and calls WhatsApp &quot;a cheap, watered-down imitation&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250319/p34#a250319p34)<!-- TECH:END -->
+ - [Verizon says its satellite messaging service is now available to owners of Pixel 9 and Galaxy S25 series phones at no extra charge &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250319/p36#a250319p36)
+ - [Plex follows Netflix and everyone else by raising prices](https://www.androidauthority.com/plex-price-hike-3536765/)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
