@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, March 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-19-2025/)
  - [Inzoi will cost as much as a Sims 4 expansion pack and until it leaves early access &#39;all DLCs and updates will be free&#39;](https://www.pcgamer.com/games/life-sim/inzoi-will-cost-as-much-as-a-sims-4-expansion-pack-and-until-it-leaves-early-access-all-dlcs-and-updates-will-be-free/)
- - [In good news for Sim-murdering sickos, Inzoi has &#39;16 different types of deaths&#39;](https://www.pcgamer.com/games/life-sim/in-good-news-for-sim-murdering-sickos-inzoi-has-16-different-types-of-deaths/)
- - [The comic book story behind Daredevil’s mystery killer](https://www.polygon.com/marvel/541635/daredevil-born-again-mask-graffiti-subway-serial-killer-muse)<!-- GAME:END -->
+ - [In good news for Sim-murdering sickos, Inzoi has &#39;16 different types of deaths&#39;](https://www.pcgamer.com/games/life-sim/in-good-news-for-sim-murdering-sickos-inzoi-has-16-different-types-of-deaths/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
