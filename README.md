@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
- - ⏩ [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)
- - 👉 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)<!-- MEMES:END -->
+ - 💣 [Tow truck driver](http://9gag.com/gag/azxPNGz)
+ - ⏩ [Oh boy...](http://9gag.com/gag/a4PzX0m)
+ - 👉 [Priorities](http://9gag.com/gag/a34A6Gm)<!-- MEMES:END -->
 
 ---
 
