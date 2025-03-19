@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizards reportedly lays off more D&amp;#038;D staff, this time from the Sigil VTT team](https://www.polygon.com/dnd-dungeons-dragons/542716/wizards-sigil-vtt-layoffs)
- - [Become The Ultimate Stealthy Strategist With Marvel Rivals&#39; Invisible Woman](https://kotaku.com/marvel-rivals-invisible-woman-guide-strategist-1851770956)
- - [Paramount Plus just renewed its best show](https://www.polygon.com/tv/542662/school-spirits-season-3-renewal-announcement-date-release)<!-- GAME:END -->
+ - [Microsoft is finally rolling out its controller-friendly virtual keyboard for a better Windows handheld gaming PC experience](https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsoft-is-finally-rolling-out-its-controller-friendly-virtual-keyboard-for-a-better-windows-handheld-gaming-pc-experience/)
+ - [Expelled! review](https://www.pcgamer.com/games/adventure/expelled-review/)
+ - [The best racing games to play right now](https://www.polygon.com/what-to-play/542481/best-racing-games-play-ps5-xbox-pc-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
