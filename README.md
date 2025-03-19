@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plex is increasing Plex Pass prices for the first time in a decade and making remote playback for personal media a paid feature at $1.99/month or $19.99/year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250319/p33#a250319p33)
- - [Samsung Galaxy S25 Ultra deal: You can still save $300!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-2-3536749/)
- - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 16e 5G surpasses iPhone 16 in most real-world speed tests](https://appleinsider.com/articles/25/03/19/apples-iphone-16e-5g-surpasses-iphone-16-in-most-real-world-speed-tests?utm_medium=rss)
+ - [The EU is betraying iPhone users and weakening privacy for political gain](https://appleinsider.com/articles/25/03/19/the-eu-is-betraying-its-users-and-weakening-their-privacy-for-political-gain?utm_medium=rss)
+ - [Pavel Durov says Telegram now has 1B+ MAUs, up from 950M in July 2024, and made $547M in profits in 2024, and calls WhatsApp &quot;a cheap, watered-down imitation&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250319/p34#a250319p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
