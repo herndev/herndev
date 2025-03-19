@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elio’s alien friend is a very good boy, and I love him](https://www.polygon.com/animation-cartoons/542916/elio-pixar-trailer-glordon-cute-alien)
- - [The United Nations asked Helldivers 2 studio Arrowhead if it&#39;d give a talk on psychological manipulation: ‘Could we brainwash an entire community to fight for a fascist state? … Would we be okay with that? Turns out, yeah’](https://www.pcgamer.com/games/fps/the-united-nations-asked-helldivers-2-studio-arrowhead-if-itd-give-a-talk-on-psychological-manipulation-could-we-brainwash-an-entire-community-to-fight-for-a-fascist-state-would-we-be-okay-with-that-turns-out-yeah/)
- - [D&amp;#038;D suffers more layoffs as Wizards cuts Sigil VTT staff by 90%](https://www.polygon.com/dnd-dungeons-dragons/542716/wizards-sigil-vtt-layoffs)<!-- GAME:END -->
+ - [What To Do First Upon Reaching Honolulu In Like A Dragon: Pirate Yakuza In Hawaii](https://kotaku.com/pirate-yakuza-hawaii-honolulu-aloha-links-substories-1851770986)
+ - [New Cartoony Zombie Game Is Perfect On Steam Deck](https://kotaku.com/great-game-steam-deck-roguelike-zombieville-steam-cheap-1851771045)
+ - [The Antidote To Sephiroth Posting Is Barret Posting](https://kotaku.com/posts-writes-like-sephiroth-barret-final-fantasy-7-1851771054)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
