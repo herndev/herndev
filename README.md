@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tow truck driver](http://9gag.com/gag/azxPNGz)
- - ⏩ [Stop lying!](http://9gag.com/gag/aD2npdK)
- - 👉 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)<!-- MEMES:END -->
+ - 💣 [Thank you joeyswoll](http://9gag.com/gag/aD2nEPw)
+ - ⏩ [Yes, Common sense](http://9gag.com/gag/aQzQ0Rz)
+ - 👉 [I need a sleep Premium version](http://9gag.com/gag/a9yvQ6m)<!-- MEMES:END -->
 
 ---
 
