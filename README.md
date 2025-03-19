@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [It&#39;s so good I think it&#39;s bad for my health](http://9gag.com/gag/azxPWbq)
- - ⏩ [What about me?](http://9gag.com/gag/aYQOX27)
- - 👉 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)<!-- MEMES:END -->
+ - ⏩ [Priorities](http://9gag.com/gag/a34A6Gm)
+ - 👉 [Inspired by nature](http://9gag.com/gag/a87mxne)<!-- MEMES:END -->
 
 ---
 
