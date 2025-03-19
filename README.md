@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony could finally join the 200MP camera party later this year](https://www.androidauthority.com/sony-200mp-camera-sensor-3536463/)
- - [This landmark PS3 emulator for Android just got a massive update](https://www.androidauthority.com/rpcs3-emulator-android-huge-update-3536422/)
- - [Users panic as T-Mobile ‘deletes’ existing free lines after applying new free line promo](https://www.androidauthority.com/t-mobiles-free-line-promo-confusion-3536434/)<!-- TECH:END -->
+ - [Jensen Huang says Nvidia will use co-packaged optical tech in two of its upcoming networking chips for its servers, but wider use will have to wait &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250319/p8#a250319p8)
+ - [RIAA: US paid music streaming subscriptions hit 100M in 2024; streaming revenue grew 4% YoY to $14.9B; revenue from ad-supported services fell 2% to $1.8B &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/250319/p7#a250319p7)
+ - [A look at Waymo&amp;apos;s progress, from Alphabet&amp;apos;s &amp;quot;moonshot&amp;quot; project to achieving commercial deployment in three cities, and its plans for future expansion &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/250319/p6#a250319p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
