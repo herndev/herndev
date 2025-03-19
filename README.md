@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The future of search isn’t Google — and it’s $10 a month](https://www.theverge.com/web/631636/kagi-review-best-search-engine)
- - [Filing: Shopify says it is transitioning its US stock listing to the Nasdaq, nearly 10 years after filing to go public on the NYSE and Toronto Stock Exchange &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250319/p17#a250319p17)
- - [What happened to all the games announced at WWDC 2024](https://appleinsider.com/articles/25/03/18/what-happened-to-all-the-games-announced-at-wwdc-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Why Google made a $32 billion bet on Wiz](https://www.theverge.com/ai-artificial-intelligence/632167/google-wiz-acquisition-cloud-security-ai)
+ - [BlackRock, Microsoft, and Abu Dhabi&amp;apos;s MGX say Nvidia and xAI joined a consortium to build AI infrastructure in the US; investors committed $100B for deployment &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250319/p20#a250319p20)
+ - [A look at Israeli spyware company Paragon, which makes Graphite: suspected deployments in Australia, Canada, Cyprus, and others, a WhatsApp zero-click, and more &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/250319/p19#a250319p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
