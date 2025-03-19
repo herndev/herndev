@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tales from the Loop is everything The Electric State isn’t](https://www.polygon.com/what-to-watch/542232/tales-from-the-loop-streaming-electric-state-netflix)
- - [Game Developers Launch North America&#39;s First Industry-Wide Union Anyone Can Join](https://kotaku.com/game-developer-union-cwa-sega-activision-microsoft-1851770950)
- - [Ruffy and the Riverside launches on PlayStation 5 June 26](https://blog.playstation.com/2025/03/19/ruffy-and-the-riverside-launches-on-playstation-5-june-26/)<!-- GAME:END -->
+ - [Wizards reportedly lays off more D&amp;#038;D staff, this time from the Sigil VTT team](https://www.polygon.com/dnd-dungeons-dragons/542716/wizards-sigil-vtt-layoffs)
+ - [Become The Ultimate Stealthy Strategist With Marvel Rivals&#39; Invisible Woman](https://kotaku.com/marvel-rivals-invisible-woman-guide-strategist-1851770956)
+ - [Paramount Plus just renewed its best show](https://www.polygon.com/tv/542662/school-spirits-season-3-renewal-announcement-date-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
