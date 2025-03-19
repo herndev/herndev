@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)
- - ⏩ [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
- - 👉 [3 V 1](http://9gag.com/gag/aZZwOAp)<!-- MEMES:END -->
+ - 💣 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)
+ - ⏩ [Self-awareness](http://9gag.com/gag/axyvL6M)
+ - 👉 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)<!-- MEMES:END -->
 
 ---
 
