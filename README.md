@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s GTC keynote inevitably went all in on AI but I&#39;m definitely here for the Isaac GR00T robots](https://www.pcgamer.com/hardware/nvidias-gtc-keynote-inevitably-went-all-in-on-ai-but-im-definitely-here-for-the-isaac-gr00t-robots/)
  - [Today&#39;s Wordle answer for Wednesday, March 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-19-2025/)
- - [Inzoi will cost as much as a Sims 4 expansion pack and until it leaves early access &#39;all DLCs and updates will be free&#39;](https://www.pcgamer.com/games/life-sim/inzoi-will-cost-as-much-as-a-sims-4-expansion-pack-and-until-it-leaves-early-access-all-dlcs-and-updates-will-be-free/)
- - [In good news for Sim-murdering sickos, Inzoi has &#39;16 different types of deaths&#39;](https://www.pcgamer.com/games/life-sim/in-good-news-for-sim-murdering-sickos-inzoi-has-16-different-types-of-deaths/)<!-- GAME:END -->
+ - [Inzoi will cost as much as a Sims 4 expansion pack and until it leaves early access &#39;all DLCs and updates will be free&#39;](https://www.pcgamer.com/games/life-sim/inzoi-will-cost-as-much-as-a-sims-4-expansion-pack-and-until-it-leaves-early-access-all-dlcs-and-updates-will-be-free/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
