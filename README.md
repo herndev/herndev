@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tow truck driver](http://9gag.com/gag/azxPNGz)
- - ⏩ [Oh boy...](http://9gag.com/gag/a4PzX0m)
- - 👉 [Priorities](http://9gag.com/gag/a34A6Gm)<!-- MEMES:END -->
+ - 💣 [Update 13: Breast cancer has more than halved after 11 weeks of chemo, having an echo to check my heart and then the second round of drugs start. Happy Wednesday my dudes, f**k you all and see you next week.](http://9gag.com/gag/aO846py)
+ - ⏩ [I need a sleep Premium version](http://9gag.com/gag/a9yvQ6m)
+ - 👉 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)<!-- MEMES:END -->
 
 ---
 
