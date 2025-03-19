@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance 2 sold 5 times more than the original in its first month](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-sold-5-times-more-than-the-original-in-its-first-month/)
- - [Split Fiction Players Complete Super-Secret Level And Win Awesome Prize](https://kotaku.com/split-fiction-secret-level-laser-hell-completed-prize-1851771005)
- - [Best skills in Assassin&#39;s Creed Shadows](https://www.pcgamer.com/games/assassins-creed/ac-shadows-skills-best/)<!-- GAME:END -->
+ - [Elio’s alien friend is a very good boy, and I love him](https://www.polygon.com/animation-cartoons/542916/elio-pixar-trailer-glordon-cute-alien)
+ - [The United Nations asked Helldivers 2 studio Arrowhead if it&#39;d give a talk on psychological manipulation: ‘Could we brainwash an entire community to fight for a fascist state? … Would we be okay with that? Turns out, yeah’](https://www.pcgamer.com/games/fps/the-united-nations-asked-helldivers-2-studio-arrowhead-if-itd-give-a-talk-on-psychological-manipulation-could-we-brainwash-an-entire-community-to-fight-for-a-fascist-state-would-we-be-okay-with-that-turns-out-yeah/)
+ - [D&amp;#038;D suffers more layoffs as Wizards cuts Sigil VTT staff by 90%](https://www.polygon.com/dnd-dungeons-dragons/542716/wizards-sigil-vtt-layoffs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
