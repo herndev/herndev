@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The nail-biting, 100-hour BIOS update stream which garnered 88,000 peak views ends with a cut to black](https://www.pcgamer.com/hardware/100-hour-bios-update-that-garnered-88-000-livestream-views-ends-with-a-cut-to-black/)
- - [This underrated sci-fi horror game has the coolest UI design since Dead Space](https://www.polygon.com/gaming/541810/echo-sci-fi-horror-dead-space-ui)
- - [Pokémon Go Lead Claims Being Run By Saudi-Owned Scopely Won&#39;t Ruin The Game](https://kotaku.com/pokemon-go-niantic-sale-scopely-saudi-arabia-1851770925)<!-- GAME:END -->
+ - [Tales from the Loop is everything The Electric State isn’t](https://www.polygon.com/what-to-watch/542232/tales-from-the-loop-streaming-electric-state-netflix)
+ - [Game Developers Launch North America&#39;s First Industry-Wide Union Anyone Can Join](https://kotaku.com/game-developer-union-cwa-sega-activision-microsoft-1851770950)
+ - [Ruffy and the Riverside launches on PlayStation 5 June 26](https://blog.playstation.com/2025/03/19/ruffy-and-the-riverside-launches-on-playstation-5-june-26/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
