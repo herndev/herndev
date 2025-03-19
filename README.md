@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)
- - ⏩ [Self-awareness](http://9gag.com/gag/axyvL6M)
- - 👉 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)<!-- MEMES:END -->
+ - 💣 [Drugs are bad for you, mmkay?](http://9gag.com/gag/aPAPKVq)
+ - ⏩ [Oh boy...](http://9gag.com/gag/a4PzX0m)
+ - 👉 [Tow truck driver](http://9gag.com/gag/azxPNGz)<!-- MEMES:END -->
 
 ---
 
