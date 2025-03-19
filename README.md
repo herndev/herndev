@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft partners with Swiss startup Inait to deploy an AI model that simulates mammal brain reasoning to advance fields like financial trading and robotics &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250319/p1#a250319p1)
- - [A source details how Google built the Pixel 10&amp;apos;s Tensor G5 chip without Samsung&amp;apos;s help, using in-house and off-the-shelf IP, and partnering with Arm and others &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/250318/p53#a250318p53)
- - [Flashpoint: 3.2B credentials were stolen from organizations in 2024, up 33% YoY, of which 2.1B were compromised using info-stealing malware infecting 23M hosts &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250318/p52#a250318p52)<!-- TECH:END -->
+ - [NordVPN Coupon and Discount Codes: 77% Off](https://www.wired.com/story/nordvpn-coupon/)
+ - [Global VR headset shipments fell 12% YoY in 2024, with Meta&amp;apos;s market share rising to 84%; Vision Pro shipments fell 43% QoQ in Q4, but its enterprise sales grew &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250319/p2#a250319p2)
+ - [Adidas Promo Codes &amp; Deals: Up to 50% Off in March 2025](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
