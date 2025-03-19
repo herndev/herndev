@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drugs are bad for you, mmkay?](http://9gag.com/gag/aPAPKVq)
- - ⏩ [Oh boy...](http://9gag.com/gag/a4PzX0m)
- - 👉 [Tow truck driver](http://9gag.com/gag/azxPNGz)<!-- MEMES:END -->
+ - 💣 [It&#39;s so good I think it&#39;s bad for my health](http://9gag.com/gag/azxPWbq)
+ - ⏩ [What about me?](http://9gag.com/gag/aYQOX27)
+ - 👉 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)<!-- MEMES:END -->
 
 ---
 
