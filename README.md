@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
- - ⏩ [Priorities](http://9gag.com/gag/a34A6Gm)
- - 👉 [Tow truck driver](http://9gag.com/gag/azxPNGz)<!-- MEMES:END -->
+ - 💣 [No no no hail yes](http://9gag.com/gag/aLneYEV)
+ - ⏩ [Tow truck driver](http://9gag.com/gag/azxPNGz)
+ - 👉 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)<!-- MEMES:END -->
 
 ---
 
