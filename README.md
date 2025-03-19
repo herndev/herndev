@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No no no hail yes](http://9gag.com/gag/aLneYEV)
- - ⏩ [Tow truck driver](http://9gag.com/gag/azxPNGz)
- - 👉 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)<!-- MEMES:END -->
+ - 💣 [Tow truck driver](http://9gag.com/gag/azxPNGz)
+ - ⏩ [Stop lying!](http://9gag.com/gag/aD2npdK)
+ - 👉 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)<!-- MEMES:END -->
 
 ---
 
