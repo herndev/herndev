@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The power of Dads!](http://9gag.com/gag/aO846m3)
- - ⏩ [Ah man... noo. She was the chosen one](http://9gag.com/gag/aNDv7xb)
- - 👉 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)<!-- MEMES:END -->
+ - 💣 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)
+ - ⏩ [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
+ - 👉 [Why every time](http://9gag.com/gag/axyvXwY)<!-- MEMES:END -->
 
 ---
 
