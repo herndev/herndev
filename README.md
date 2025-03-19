@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Inzoi will cost as much as a Sims 4 expansion pack and until it leaves early access &#39;all DLCs and updates will be free&#39;](https://www.pcgamer.com/games/life-sim/inzoi-will-cost-as-much-as-a-sims-4-expansion-pack-and-until-it-leaves-early-access-all-dlcs-and-updates-will-be-free/)
  - [In good news for Sim-murdering sickos, Inzoi has &#39;16 different types of deaths&#39;](https://www.pcgamer.com/games/life-sim/in-good-news-for-sim-murdering-sickos-inzoi-has-16-different-types-of-deaths/)
- - [The comic book story behind Daredevil’s mystery killer](https://www.polygon.com/marvel/541635/daredevil-born-again-mask-graffiti-subway-serial-killer-muse)
- - [Nvidia&#39;s expanded Zorah demo tells us how AI is the future of graphics: &#39;There&#39;s no rasterization going on at all. This is all ray traced and the amazing part is that it&#39;s actually faster than rasterizing&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidias-expanded-zorah-demo-tells-us-how-ai-is-the-future-of-graphics-theres-no-rasterization-going-on-at-all-this-is-all-ray-traced-and-the-amazing-part-is-that-its-actually-faster-than-rasterizing/)<!-- GAME:END -->
+ - [The comic book story behind Daredevil’s mystery killer](https://www.polygon.com/marvel/541635/daredevil-born-again-mask-graffiti-subway-serial-killer-muse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
