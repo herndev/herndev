@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NordVPN Coupon and Discount Codes: 77% Off](https://www.wired.com/story/nordvpn-coupon/)
- - [Global VR headset shipments fell 12% YoY in 2024, with Meta&amp;apos;s market share rising to 84%; Vision Pro shipments fell 43% QoQ in Q4, but its enterprise sales grew &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250319/p2#a250319p2)
- - [Adidas Promo Codes &amp; Deals: Up to 50% Off in March 2025](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
+ - [This landmark PS3 emulator for Android just got a massive update](https://www.androidauthority.com/rpcs3-emulator-android-huge-update-3536422/)
+ - [Users panic as T-Mobile ‘deletes’ existing free lines after applying new free line promo](https://www.androidauthority.com/t-mobiles-free-line-promo-confusion-3536434/)
+ - [Current and former employees say the FTC removed 300+ business guidance blogs from the Biden era, including info on AI consumer protection and Big Tech lawsuits &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250319/p5#a250319p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
