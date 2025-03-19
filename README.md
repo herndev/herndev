@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The nail-biting, 100-hour BIOS update stream which garnered 88,000 peak views ends with a cut to black](https://www.pcgamer.com/hardware/100-hour-bios-update-that-garnered-88-000-livestream-views-ends-with-a-cut-to-black/)
  - [This underrated sci-fi horror game has the coolest UI design since Dead Space](https://www.polygon.com/gaming/541810/echo-sci-fi-horror-dead-space-ui)
- - [Pokémon Go Lead Claims Being Run By Saudi-Owned Scopely Won&#39;t Ruin The Game](https://kotaku.com/pokemon-go-niantic-sale-scopely-saudi-arabia-1851770925)
- - [Razer is collaborating on a gaming CAPTCHA to combat AI-powered bots, and of course the first game to use it is the worst Web3 nonsense I&#39;ve ever seen](https://www.pcgamer.com/games/razer-is-collaborating-on-a-gaming-captcha-to-combat-ai-powered-bots-and-of-course-the-first-game-to-use-it-is-the-worst-web3-nonsense-ive-ever-seen/)<!-- GAME:END -->
+ - [Pokémon Go Lead Claims Being Run By Saudi-Owned Scopely Won&#39;t Ruin The Game](https://kotaku.com/pokemon-go-niantic-sale-scopely-saudi-arabia-1851770925)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
