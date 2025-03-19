@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s so good I think it&#39;s bad for my health](http://9gag.com/gag/azxPWbq)
- - ⏩ [Priorities](http://9gag.com/gag/a34A6Gm)
- - 👉 [Inspired by nature](http://9gag.com/gag/a87mxne)<!-- MEMES:END -->
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
+ - ⏩ [When they made good scripts](http://9gag.com/gag/amoGj9d)
+ - 👉 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)<!-- MEMES:END -->
 
 ---
 
