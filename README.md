@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After years of playing as stupid, boring humans in Fallout, you can finally channel your inner Walton Goggins and become a ghoul in Fallout 76](https://www.pcgamer.com/games/mmo/after-years-of-playing-as-stupid-boring-humans-in-fallout-you-can-finally-channel-your-inner-walton-goggins-and-become-a-ghoul-in-fallout-76/)
- - [Hasbro will be ready to share news about the future of Baldur&#39;s Gate &#39;in pretty short order&#39;](https://www.pcgamer.com/games/rpg/hasbro-will-be-ready-to-share-news-about-the-future-of-baldurs-gate-in-pretty-short-order/)
- - [Split Fiction Director: Working With EA Is Great, But &#39;Nobody Believes Me&#39;](https://kotaku.com/split-fiction-josef-fares-oscars-why-do-people-hate-ea-1851770885)<!-- GAME:END -->
+ - [Nvidia&#39;s expanded Zorah demo tells us how AI is the future of graphics: &#39;There&#39;s no rasterization going on at all. This is all ray traced and the amazing part is that it&#39;s actually faster than rasterizing&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidias-expanded-zorah-demo-tells-us-how-ai-is-the-future-of-graphics-theres-no-rasterization-going-on-at-all-this-is-all-ray-traced-and-the-amazing-part-is-that-its-actually-faster-than-rasterizing/)
+ - [Sennheiser says it &#39;will not become a gaming brand&#39; but its new HD 550 are a good excuse to use audiophile headphones for gaming](https://www.pcgamer.com/hardware/gaming-headsets/sennheiser-says-it-will-not-become-a-gaming-brand-but-its-new-hd-550-are-a-good-excuse-to-use-audiophile-headphones-for-gaming/)
+ - [After years of playing as stupid, boring humans in Fallout, you can finally channel your inner Walton Goggins and become a ghoul in Fallout 76](https://www.pcgamer.com/games/mmo/after-years-of-playing-as-stupid-boring-humans-in-fallout-you-can-finally-channel-your-inner-walton-goggins-and-become-a-ghoul-in-fallout-76/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
