@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft is finally rolling out its controller-friendly virtual keyboard for a better Windows handheld gaming PC experience](https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsoft-is-finally-rolling-out-its-controller-friendly-virtual-keyboard-for-a-better-windows-handheld-gaming-pc-experience/)
- - [Expelled! review](https://www.pcgamer.com/games/adventure/expelled-review/)
- - [The best racing games to play right now](https://www.polygon.com/what-to-play/542481/best-racing-games-play-ps5-xbox-pc-switch)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2 sold 5 times more than the original in its first month](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-sold-5-times-more-than-the-original-in-its-first-month/)
+ - [Split Fiction Players Complete Super-Secret Level And Win Awesome Prize](https://kotaku.com/split-fiction-secret-level-laser-hell-completed-prize-1851771005)
+ - [Best skills in Assassin&#39;s Creed Shadows](https://www.pcgamer.com/games/assassins-creed/ac-shadows-skills-best/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
