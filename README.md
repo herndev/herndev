@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hey! Riot added Inscryption into my League of Legends!](https://www.polygon.com/gaming/543175/riot-league-of-legends-demons-hand-card-game)
- - [Johan Pilestedt warns that Helldivers 2 took 4 more years than planned because Arrowhead skipped pre-production and dove right in: &#39;Always do your homework before you start spending millions and millions and millions of dollars in making a game&#39;](https://www.pcgamer.com/games/third-person-shooter/johan-pilestedt-warns-that-helldivers-2-took-4-more-years-than-planned-because-arrowhead-skipped-pre-production-and-dove-right-in-always-do-your-homework-before-you-start-spending-millions-and-millions-and-millions-of-dollars-in-making-a-game/)
- - [Ark: Survival Evolved Fans Can&#39;t Believe How Bad Its Newest Trailer Looks](https://kotaku.com/ark-2-ai-trailer-aquatica-survival-snail-wildcard-1851771102)<!-- GAME:END -->
+ - [This is why the Minecraft movie is called A Minecraft Movie](https://www.pcgamer.com/movies-tv/this-is-why-the-minecraft-movie-is-called-a-minecraft-movie/)
+ - [The warframe with a guitar that shoots fire is out today alongside a bunch of metalcore-inspired skins, cementing Warframe&#39;s spiral into Y2K madness](https://www.pcgamer.com/games/third-person-shooter/the-warframe-with-a-guitar-that-shoots-fire-is-out-today-alongside-a-bunch-of-metalcore-inspired-skins-cementing-warframes-spiral-into-y2k-madness/)
+ - [Ark: Survival Evolved fans blast AI-slop trailer for Aquatica DLC](https://www.polygon.com/news/543122/ark-survival-evolved-aquatica-dlc-ai)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
