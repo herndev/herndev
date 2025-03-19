@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
- - ⏩ [Tow truck driver](http://9gag.com/gag/azxPNGz)
- - 👉 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)<!-- MEMES:END -->
+ - 💣 [The $5 regret](http://9gag.com/gag/aAyKBpd)
+ - ⏩ [Update 13: Breast cancer has more than halved after 11 weeks of chemo, having an echo to check my heart and then the second round of drugs start. Happy Wednesday my dudes, f**k you all and see you next week.](http://9gag.com/gag/aO846py)
+ - 👉 [Elephant mourns death of her companion of 25 years, refuses to leave her side!](http://9gag.com/gag/ae9OXdB)<!-- MEMES:END -->
 
 ---
 
