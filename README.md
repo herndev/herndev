@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang says Nvidia will use co-packaged optical tech in two of its upcoming networking chips for its servers, but wider use will have to wait &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250319/p8#a250319p8)
- - [RIAA: US paid music streaming subscriptions hit 100M in 2024; streaming revenue grew 4% YoY to $14.9B; revenue from ad-supported services fell 2% to $1.8B &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/250319/p7#a250319p7)
- - [A look at Waymo&amp;apos;s progress, from Alphabet&amp;apos;s &amp;quot;moonshot&amp;quot; project to achieving commercial deployment in three cities, and its plans for future expansion &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/250319/p6#a250319p6)<!-- TECH:END -->
+ - [How Dubai and the Middle East embraced drone shows, with the average show using 400+ drones and costing $112K+; the market was worth an estimated $339M in 2023 &lpar;Amar Diwakar/Rest of World&rpar;](http://www.techmeme.com/250319/p11#a250319p11)
+ - [Galaxy Z Fold 7, Flip 7 filings reveal charging speeds, and it’s bad news](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-charging-speed-3536509/)
+ - [Samsung’s One UI 7 is rolling out to Galaxy phones in April](https://www.theverge.com/news/632318/samsung-one-ui-7-rollout-april-galaxy-s24-fold-6-flip-6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
