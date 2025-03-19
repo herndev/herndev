@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft partners with Swiss startup Inait to deploy an AI model that simulates mammal brain reasoning to advance fields like financial trading and robotics &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250319/p1#a250319p1)
  - [A source details how Google built the Pixel 10&amp;apos;s Tensor G5 chip without Samsung&amp;apos;s help, using in-house and off-the-shelf IP, and partnering with Arm and others &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/250318/p53#a250318p53)
- - [Flashpoint: 3.2B credentials were stolen from organizations in 2024, up 33% YoY, of which 2.1B were compromised using info-stealing malware infecting 23M hosts &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250318/p52#a250318p52)
- - [Sources: the real closer for Wiz and Google executives was President Trump&amp;apos;s election, which brought with it the prospect of a friendlier antitrust review &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p51#a250318p51)<!-- TECH:END -->
+ - [Flashpoint: 3.2B credentials were stolen from organizations in 2024, up 33% YoY, of which 2.1B were compromised using info-stealing malware infecting 23M hosts &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250318/p52#a250318p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
