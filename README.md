@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
- - ⏩ [Totally not a coup](http://9gag.com/gag/aPAPOKR)
- - 👉 [The power of Dads!](http://9gag.com/gag/aO846m3)<!-- MEMES:END -->
+ - 💣 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)
+ - ⏩ [How can your bill increase when you&#39;re insured\u203d](http://9gag.com/gag/aZZwA5z)
+ - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
 
 ---
 
