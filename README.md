@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it is &quot;checking on a component quality issue&quot; for the Pixel 9a, delaying its release from March to sometime in April; pre-orders are not yet open &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250319/p29#a250319p29)
- - [AT&amp;T and T-Mobile Pixel 9a deals throw in a free pair of Pixel Buds A-Series](https://www.androidauthority.com/att-tmobile-pixel-9a-deals-3536644/)
- - [Tesla crash victims’ families worried about Musk’s influence over investigations](https://www.theverge.com/news/632562/tesla-crash-victims-usdot-investigation-water-down)<!-- TECH:END -->
+ - [Apple now has to become more like Android, and the company hates it](https://www.androidauthority.com/apple-interoperability-obligations-eu-3536706/)
+ - [Sources: X has raised close to $1B in new equity in a deal that values the company at roughly $32B; Musk also participated in the raise &lpar;Bloomberg&rpar;](http://www.techmeme.com/250319/p32#a250319p32)
+ - [Sources: Nvidia acquires Gretel, which offers synthetic data tools, for more than its most recent $320M valuation; Pitchbook: Gretel had previously raised $67M+ &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250319/p31#a250319p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
