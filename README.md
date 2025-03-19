@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple now has to become more like Android, and the company hates it](https://www.androidauthority.com/apple-interoperability-obligations-eu-3536706/)
- - [Sources: X has raised close to $1B in new equity in a deal that values the company at roughly $32B; Musk also participated in the raise &lpar;Bloomberg&rpar;](http://www.techmeme.com/250319/p32#a250319p32)
- - [Sources: Nvidia acquires Gretel, which offers synthetic data tools, for more than its most recent $320M valuation; Pitchbook: Gretel had previously raised $67M+ &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250319/p31#a250319p31)<!-- TECH:END -->
+ - [Plex is increasing Plex Pass prices for the first time in a decade and making remote playback for personal media a paid feature at $1.99/month or $19.99/year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250319/p33#a250319p33)
+ - [Samsung Galaxy S25 Ultra deal: You can still save $300!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-2-3536749/)
+ - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
