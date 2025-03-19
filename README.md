@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s expanded Zorah demo tells us how AI is the future of graphics: &#39;There&#39;s no rasterization going on at all. This is all ray traced and the amazing part is that it&#39;s actually faster than rasterizing&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidias-expanded-zorah-demo-tells-us-how-ai-is-the-future-of-graphics-theres-no-rasterization-going-on-at-all-this-is-all-ray-traced-and-the-amazing-part-is-that-its-actually-faster-than-rasterizing/)
- - [Sennheiser says it &#39;will not become a gaming brand&#39; but its new HD 550 are a good excuse to use audiophile headphones for gaming](https://www.pcgamer.com/hardware/gaming-headsets/sennheiser-says-it-will-not-become-a-gaming-brand-but-its-new-hd-550-are-a-good-excuse-to-use-audiophile-headphones-for-gaming/)
- - [After years of playing as stupid, boring humans in Fallout, you can finally channel your inner Walton Goggins and become a ghoul in Fallout 76](https://www.pcgamer.com/games/mmo/after-years-of-playing-as-stupid-boring-humans-in-fallout-you-can-finally-channel-your-inner-walton-goggins-and-become-a-ghoul-in-fallout-76/)<!-- GAME:END -->
+ - [In good news for Sim-murdering sickos, Inzoi has &#39;16 different types of deaths&#39;](https://www.pcgamer.com/games/life-sim/in-good-news-for-sim-murdering-sickos-inzoi-has-16-different-types-of-deaths/)
+ - [The comic book story behind Daredevil’s mystery killer](https://www.polygon.com/marvel/541635/daredevil-born-again-mask-graffiti-subway-serial-killer-muse)
+ - [Nvidia&#39;s expanded Zorah demo tells us how AI is the future of graphics: &#39;There&#39;s no rasterization going on at all. This is all ray traced and the amazing part is that it&#39;s actually faster than rasterizing&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidias-expanded-zorah-demo-tells-us-how-ai-is-the-future-of-graphics-theres-no-rasterization-going-on-at-all-this-is-all-ray-traced-and-the-amazing-part-is-that-its-actually-faster-than-rasterizing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
