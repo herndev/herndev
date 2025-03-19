@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you joeyswoll](http://9gag.com/gag/aD2nEPw)
- - ⏩ [Yes, Common sense](http://9gag.com/gag/aQzQ0Rz)
- - 👉 [I need a sleep Premium version](http://9gag.com/gag/a9yvQ6m)<!-- MEMES:END -->
+ - 💣 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - ⏩ [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)
+ - 👉 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)<!-- MEMES:END -->
 
 ---
 
