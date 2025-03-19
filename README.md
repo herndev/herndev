@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your mom farted.](http://9gag.com/gag/aByLDvz)
- - ⏩ [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
- - 👉 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)<!-- MEMES:END -->
+ - 💣 [The power of Dads!](http://9gag.com/gag/aO846m3)
+ - ⏩ [Ah man... noo. She was the chosen one](http://9gag.com/gag/aNDv7xb)
+ - 👉 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)<!-- MEMES:END -->
 
 ---
 
