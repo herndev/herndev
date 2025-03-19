@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple won&#39;t be forced into allowing third party app marketplaces in Brazil, for now](https://appleinsider.com/articles/25/03/19/apple-wont-be-forced-into-allowing-third-party-app-marketplaces-in-brazil-for-now?utm_medium=rss)
- - [Report: LG will end its XR product commercialization efforts as it believes the market isn&#39;t growing as quickly as it expected, but will continue R&amp;D efforts &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250319/p39#a250319p39)
- - [Roborock opens pre-orders for its robot vacuum with an arm](https://www.theverge.com/news/632881/roborock-saros-z70-robot-vacuum-pre-orders-price)<!-- TECH:END -->
+ - [Fired FTC commissioner warns of the ‘corrupting influence of billionaires’](https://www.theverge.com/news/632944/democratic-ftc-commissioner-alvaro-bedoya-tech-billionaires-trump)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Apple won&#39;t be forced into allowing third party app marketplaces in Brazil, for now](https://appleinsider.com/articles/25/03/19/apple-wont-be-forced-into-allowing-third-party-app-marketplaces-in-brazil-for-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
