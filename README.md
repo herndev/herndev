@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Dubai and the Middle East embraced drone shows, with the average show using 400+ drones and costing $112K+; the market was worth an estimated $339M in 2023 &lpar;Amar Diwakar/Rest of World&rpar;](http://www.techmeme.com/250319/p11#a250319p11)
- - [Galaxy Z Fold 7, Flip 7 filings reveal charging speeds, and it’s bad news](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-charging-speed-3536509/)
- - [Samsung’s One UI 7 is rolling out to Galaxy phones in April](https://www.theverge.com/news/632318/samsung-one-ui-7-rollout-april-galaxy-s24-fold-6-flip-6)<!-- TECH:END -->
+ - [Tencent reports Q4 revenue up 11% YoY to ~$23.9B, vs. ~$23.4B est., profit up 90% YoY to ~$7B, vs. ~$6.3B est., and domestic game revenue up 23% YoY to ~$4.6B &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250319/p16#a250319p16)
+ - [How Reddit became a lifeline for US federal workers in recent months, as Trump cuts the workforce; r/fednews gained millions of visitors since January 2025 &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250319/p15#a250319p15)
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
