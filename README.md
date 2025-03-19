@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2&#39;s Johan Pilestedt says developers need to start taking more risks: &#39;Safe bets are a death sentence for the studios that try to make them&#39;](https://www.pcgamer.com/gaming-industry/helldivers-2s-johan-pilestedt-says-developers-need-to-start-taking-more-risks-safe-bets-are-a-death-sentence-for-the-studios-that-try-to-make-them/)
- - [Monster Hunter Wilds&#39; Confusing Co-Op Settings, Explained](https://kotaku.com/monster-hunter-wilds-co-op-lobby-link-party-id-1851771071)
- - [A pair of Split Fiction players will be heading to Sweden for an early look at Hazelight&#39;s next game after completing a secret challenge so tough, some developers can &#39;barely&#39; beat it](https://www.pcgamer.com/games/action/a-pair-of-split-fiction-players-will-be-heading-to-sweden-for-an-early-look-at-hazelights-next-game-after-completing-a-secret-challenge-so-tough-some-developers-can-barely-beat-it/)<!-- GAME:END -->
+ - [Hey! Riot added Inscryption into my League of Legends!](https://www.polygon.com/gaming/543175/riot-league-of-legends-demons-hand-card-game)
+ - [Johan Pilestedt warns that Helldivers 2 took 4 more years than planned because Arrowhead skipped pre-production and dove right in: &#39;Always do your homework before you start spending millions and millions and millions of dollars in making a game&#39;](https://www.pcgamer.com/games/third-person-shooter/johan-pilestedt-warns-that-helldivers-2-took-4-more-years-than-planned-because-arrowhead-skipped-pre-production-and-dove-right-in-always-do-your-homework-before-you-start-spending-millions-and-millions-and-millions-of-dollars-in-making-a-game/)
+ - [Ark: Survival Evolved Fans Can&#39;t Believe How Bad Its Newest Trailer Looks](https://kotaku.com/ark-2-ai-trailer-aquatica-survival-snail-wildcard-1851771102)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
