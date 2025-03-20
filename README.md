@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Assassin’s Creed Shadows guides and walkthroughs](https://www.polygon.com/assassins-creed-shadows-guides/543299/guides-walkthroughs-tips)
  - [Meet Luna, the new AI robot dog who teaches itself using a digital nervous system and software &#39;that allows any machine to learn like humans and animals do&#39;](https://www.pcgamer.com/hardware/meet-luna-the-new-ai-robot-dog-who-teaches-itself-using-a-digital-nervous-system-and-software-that-allows-any-machine-to-learn-like-humans-and-animals-do/)
- - [A single RTX 4090 managed to brute force crack an Akira ransomware attack in just 7 days](https://www.pcgamer.com/hardware/graphics-cards/a-single-rtx-4090-managed-to-brute-force-crack-an-akira-ransomware-attack-in-just-7-days/)
- - [Should you play canon mode in Assassin’s Creed Shadows?](https://www.polygon.com/assassins-creed-shadows-guides/538501/canon-mode-should-you-play)<!-- GAME:END -->
+ - [A single RTX 4090 managed to brute force crack an Akira ransomware attack in just 7 days](https://www.pcgamer.com/hardware/graphics-cards/a-single-rtx-4090-managed-to-brute-force-crack-an-akira-ransomware-attack-in-just-7-days/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
