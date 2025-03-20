@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Construction begins on delayed Apple TV+ studios](https://appleinsider.com/articles/25/03/20/construction-begins-on-delayed-apple-tv-studios?utm_medium=rss)
- - [Filing: CoreWeave is aiming to raise up to $2.7B in its US IPO at a valuation between $27.4B and $32B, selling 49M shares for $47 to $55; Nvidia owns 5.96% &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p30#a250320p30)
- - [X sues Narendra Modi&#39;s government in New Delhi, saying its IT ministry has unlawfully expanded censorship powers to allow the easier removal of online content &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p29#a250320p29)<!-- TECH:END -->
+ - [Threads finally lets you set the following feed as default](https://www.theverge.com/news/633135/threads-limit-replies-followers-custom-feed-default)
+ - [John Giannandrea out as Siri chief, Apple Vision Pro lead in](https://appleinsider.com/articles/25/03/20/john-giannandrea-out-as-siri-chief-apple-vision-pro-lead-in?utm_medium=rss)
+ - [LG shuts down Art Lab, its NFT marketplace for TVs launched in 2022 during the NFT craze; LG Art Lab used the Hedera network and expanded to Ethereum in 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250320/p32#a250320p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
