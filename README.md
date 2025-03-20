@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab this ridiculously overpowered Yasuke armor as soon as possible in Assassin&#39;s Creed Shadows](https://www.pcgamer.com/games/assassins-creed/grab-this-overpowered-yasuke-armor-as-soon-as-possible/)
- - [Balatro&#39;s LocalThunk isn&#39;t &#39;trying to pull a Banksy&#39;, he just &#39;wanted to be left alone to make his game&#39;](https://www.pcgamer.com/games/card-games/balatros-localthunk-isnt-trying-to-pull-a-banksy-he-just-wanted-to-be-left-alone-to-make-his-game/)
- - [This is why the Minecraft movie is called A Minecraft Movie](https://www.pcgamer.com/movies-tv/this-is-why-the-minecraft-movie-is-called-a-minecraft-movie/)<!-- GAME:END -->
+ - [Game dev union marches through industry event to demonstrate that it&#39;s about &#39;taking action and organizing change&#39;](https://www.pcgamer.com/gaming-industry/game-dev-union-marches-through-industry-event-to-demonstrate-that-its-about-taking-action-and-organizing-change/)
+ - [How to get knowledge points in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/538252/knowledge-points-how-to-get-increase-more)
+ - [Should you let Junjiro stay in Assassin’s Creed Shadows?](https://www.polygon.com/assassins-creed-shadows-guides/538584/junjiro-stay-leave-choice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
