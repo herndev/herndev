@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
- - ⏩ [Mattress foam.](http://9gag.com/gag/aAyKYm2)
- - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
+ - 💣 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
+ - ⏩ [You are a champ!](http://9gag.com/gag/aAyKBXZ)
+ - 👉 [The political pendulum will fix our society soon...](http://9gag.com/gag/aZZ8WqV)<!-- MEMES:END -->
 
 ---
 
