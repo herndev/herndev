@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta AI is rolling out in Europe after all](https://www.theverge.com/news/632876/meta-ai-europe-whatsapp-facebook-instagram-rollout)
- - [Baidu denies data breach allegations after a top executive&#39;s teenage daughter leaked users&#39; personal info, including phone numbers, following an online argument &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p4#a250320p4)
- - [Analysis: Etsy&#39;s stock, which peaked during the COVID-19 pandemic, has lost its pandemic-era gains, while eBay&#39;s stock is up ~85% since January 2020 &lpar;Hyunsoo Rim/Sherwood News&rpar;](http://www.techmeme.com/250320/p3#a250320p3)<!-- TECH:END -->
+ - [Sources detail how Jeff Bezos made peace with Trump, with many citing Amazon&#39;s loss of the $10B JEDI contract during Trump&#39;s first term as a watershed moment &lpar;Financial Times&rpar;](http://www.techmeme.com/250320/p7#a250320p7)
+ - [Meta will roll out its AI chatbot with text-only features in the EU this week on WhatsApp, Facebook, Instagram, and Messenger, nearly a year after pausing &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250320/p6#a250320p6)
+ - [Early-stage VC Long Journey Ventures, co-led by Cyan Banister, Arielle Zuckerberg, and Lee Jacobs, debuts with a ~$181.818M fund after five years in stealth &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250320/p5#a250320p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
