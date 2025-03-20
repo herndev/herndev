@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh hell noo](http://9gag.com/gag/aD2nEqO)
+ - 💣 [Damn China at least you removed the blood But it&#39;s extreme](http://9gag.com/gag/ajPO258)
  - ⏩ [Instagram hell](http://9gag.com/gag/aoyVB1x)
- - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
+ - 👉 [Not all cultures are equal](http://9gag.com/gag/a2v0E1Y)<!-- MEMES:END -->
 
 ---
 
