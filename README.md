@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang says Nvidia has not been approached about purchasing a stake in Intel, following a report about a consortium with TSMC to operate Intel&#39;s factories &lpar;Reuters&rpar;](http://www.techmeme.com/250319/p42#a250319p42)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Mortgage Forecast This Week: Fed Holds Rates Steady Amid Economic Uncertainty](https://www.cnet.com/personal-finance/mortgage-forecast-this-week-fed-holds-rates-steady-amid-economic-uncertainty/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deal: Ring Battery Doorbell with Chime bundle cheaper than the doorbell alone](https://www.androidauthority.com/ring-battery-doorbell-ring-chime-deal-3536748/)
+ - [Hands on: Apple Vision Pro guest mode has massively improved since its first iteration](https://appleinsider.com/articles/25/03/20/hands-on-apple-vision-pro-guest-mode-has-massively-improved-since-its-first-iteration?utm_medium=rss)
+ - [Newsletter service Ghost launches support for ActivityPub integration in beta for Ghost&lpar;Pro&rpar; subscribers, letting them share their posts across the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250319/p44#a250319p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
