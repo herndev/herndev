@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google sues alleged scammers over 10,000 fake Maps listings](https://www.theverge.com/news/633601/google-sues-fake-business-scams-maps)
- - [Verizon will no longer offer Disney Plus Premium for $10 a month, as I found out in the oddest way](https://www.androidauthority.com/verizon-disney-premium-increase-3537240/)
- - [Researchers unveil Aardvark, an AI weather prediction system that they say uses thousands of times less computing power and is much faster than current methods &lpar;The Guardian&rpar;](http://www.techmeme.com/250320/p41#a250320p41)<!-- TECH:END -->
+ - [Argentina-based neobank Ual&amp;aacute; raised an additional $66M for its Series E, after an initial raise of $300M led by Allianz X at a $2.75B valuation in November 2024 &lpar;Carolina Millan/Bloomberg&rpar;](http://www.techmeme.com/250320/p43#a250320p43)
+ - [The System Shock 2 remaster comes out June 26th](https://www.theverge.com/pc-gaming/633595/system-shock-2-remaster-xbox-playstation-pc-release-date)
+ - [Motorola’s hottest phones are on sale right now](https://www.androidauthority.com/motorola-razr-plus-2024-razr-2024-g-stylus-5g-2024-deals-3537237/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
