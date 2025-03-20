@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail search is getting smarter so you can find emails faster](https://www.androidauthority.com/gmail-search-most-relevant-3537193/)
- - [Who&#39;s Elon Musk’s Biggest Fan? His Mom](https://www.wired.com/story/uncanny-valley-podcast-elon-musk-mom-maye-musk/)
- - [Threads rolls out new features: ability to set following feed or any custom feed as the default, limit post replies to followers, a better video player, more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250320/p34#a250320p34)<!-- TECH:END -->
+ - [The Pixel 9A&amp;#8217;s version of Gemini is missing a few features](https://www.theverge.com/news/633446/google-pixel-9a-gemini-nano-xxs-ai)
+ - [Zagg’s new tablet dock adds over-sized playback controls to your iPad](https://www.theverge.com/news/633350/zagg-six-port-media-hub-tablet-usb-c-playback-controls)
+ - [Source: Insight Partners is set to reap ~$2.7B from the pending sale of Wiz to Alphabet, a 15.5x return on its invested capital, based on its ~8% stake in Wiz &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250320/p37#a250320p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
