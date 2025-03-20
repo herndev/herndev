@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s stumble with Vision Pro, followed by falling flat on its face with AI, suggests the company may be slipping into a Vista-like drift of poor execution &lpar;Benedict Evans&rpar;](http://www.techmeme.com/250320/p8#a250320p8)
- - [Gboard’s undo/redo buttons are here, and here’s why you’ll want to use them](https://www.androidauthority.com/gboard-undo-redo-buttons-stable-3536912/)
- - [Sources detail how Jeff Bezos made peace with Trump, with many citing Amazon&#39;s loss of the $10B JEDI contract during Trump&#39;s first term as a watershed moment &lpar;Financial Times&rpar;](http://www.techmeme.com/250320/p7#a250320p7)<!-- TECH:END -->
+ - [Andor showrunner Tony Gilroy says the Disney+ show&#39;s scripts will not be released as planned, due to fears that they could be used as AI training data &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250320/p11#a250320p11)
+ - [The latest Flip phone on the market might be the strangest one we’ve seen yet](https://www.androidauthority.com/new-flip-phone-strange-3536946/)
+ - [Analysis: AT&amp;T and Verizon Speedtest users saw higher median download speeds on the iPhone 16e with the C1 modem than the iPhone 16; T-Mobile was the opposite &lpar;Sue Marek/Ookla&rpar;](http://www.techmeme.com/250320/p10#a250320p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
