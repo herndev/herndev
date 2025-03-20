@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could revamp Android’s backup settings with a sleek new look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-backup-settings-new-look-apk-teardown-3537026/)
- - [The Pixel 9a is the smart way to do a slim phone, the Galaxy S25 Edge is not](https://www.androidauthority.com/pixel-9a-slim-phone-vs-galaxy-s25-edge-3535813/)
- - [Best Portable Chargers &lpar;2025&rpar;: iPhones, iPads, Laptops &amp; More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
+ - [How the Tesla brand turned so toxic](https://www.theverge.com/decoder-podcast-with-nilay-patel/633200/tesla-takedown-protest-elon-musk-toxic)
+ - [iPhone 17 Pro dummies show where glass ends and metal begins](https://appleinsider.com/articles/25/03/20/iphone-17-pro-dummies-show-where-glass-ends-and-metal-begins?utm_medium=rss)
+ - [The Digimon franchise is getting a mobile card came of its own](https://www.theverge.com/news/633224/bandai-digimon-alysion-mobile-game-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
