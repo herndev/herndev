@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
- - ⏩ [You are a champ!](http://9gag.com/gag/aAyKBXZ)
- - 👉 [The political pendulum will fix our society soon...](http://9gag.com/gag/aZZ8WqV)<!-- MEMES:END -->
+ - 💣 [You are a champ!](http://9gag.com/gag/aAyKBXZ)
+ - ⏩ [IMDB removed rating from Snow White after falling below 2/10](http://9gag.com/gag/aW4nZAn)
+ - 👉 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)<!-- MEMES:END -->
 
 ---
 
