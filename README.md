@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FBC: Firebreak Isn’t Just Reimagining Control – It’s Reimagining Modern Co-Op Shooters](https://news.xbox.com/en-us/2025/03/20/fbc-firebreak-preview/)
- - [Silent Hill 2 remake devs’ new horror game might scratch that Dead Space itch](https://www.polygon.com/news/543865/bloober-team-cronos-new-dawn-survival-horror)
- - [Alan Wake 2 Devs Designed Their Multiplayer Shooter For People With Kids And Jobs](https://kotaku.com/fbc-firebreak-remedy-co-op-fomo-live-service-preview-1851771133)<!-- GAME:END -->
+ - [Why Nightdive Remastered System Shock 2 Instead of Remaking It](https://news.xbox.com/en-us/2025/03/20/why-nightdive-remastered-system-shock-2-instead-of-remaking-it/)
+ - [Slender: The Arrival VR arrives on PS VR2 May 13](https://blog.playstation.com/2025/03/20/slender-the-arrival-vr-arrives-on-ps-vr2-may-13/)
+ - [Slender: The Arrival VR arrives on PS VR2 May 13](https://blog.playstation.com/2025/03/20/slender-the-arrival-vr-arrives-on-ps-vr2-may-13/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
