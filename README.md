@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
- - ⏩ [Damn China at least you removed the blood But it&#39;s extreme](http://9gag.com/gag/ajPO258)
- - 👉 [We Need To Stop Hapiness Before It Spreads. Like True 9gager Dr Hause.](http://9gag.com/gag/a6Z9WvA)<!-- MEMES:END -->
+ - 💣 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
+ - ⏩ [Lol she crying she sorry after lol](http://9gag.com/gag/an7np5E)
+ - 👉 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)<!-- MEMES:END -->
 
 ---
 
