@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want this to stay on the internet forever](http://9gag.com/gag/aLn4RKz)
- - ⏩ [For real, what\u2019s up with this sh!t?](http://9gag.com/gag/amoGDn4)
- - 👉 [After his divorce, Esposito had to declare bankruptcy, and he considered suicide by arranging his own murder to provide insurance money for his children before being cast in Breaking Bad](http://9gag.com/gag/aGy8WRZ)<!-- MEMES:END -->
+ - 💣 [Elephant mourns death of her companion of 25 years, refuses to leave her side!](http://9gag.com/gag/ae9OXdB)
+ - ⏩ [First Tesla, now Starlink ,bye bye Elon.](http://9gag.com/gag/aKGv4qg)
+ - 👉 [The $5 regret](http://9gag.com/gag/aAyKBpd)<!-- MEMES:END -->
 
 ---
 
