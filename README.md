@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [System Shock 2: 25th Anniversary Remaster out June 26 on PS5, PS4](https://blog.playstation.com/2025/03/20/system-shock-2-25th-anniversary-remaster-out-june-26-on-ps5-ps4/)
- - [Nightdive&#39;s remaster of System Shock 2, the peak of immersive sims, finally has a release date](https://www.pcgamer.com/games/fps/nightdives-remaster-of-system-shock-2-the-peak-of-immersive-sims-finally-has-a-release-date/)
- - [Wizards of the Coast gaming head says Baldur&#39;s Gate 3 &#39;certainly raised the bar&#39; and changed how they think about big budget D&amp;D, but they still want &#39;different entry points&#39; including smaller games](https://www.pcgamer.com/games/rpg/wizards-of-the-coast-gaming-head-says-baldurs-gate-3-certainly-raised-the-bar-and-changed-how-they-think-about-big-budget-d-and-d-but-they-still-want-different-entry-points-including-smaller-games/)<!-- GAME:END -->
+ - [FBC: Firebreak Isn’t Just Reimagining Control – It’s Reimagining Modern Co-Op Shooters](https://news.xbox.com/en-us/2025/03/20/fbc-firebreak-preview/)
+ - [Silent Hill 2 remake devs’ new horror game might scratch that Dead Space itch](https://www.polygon.com/news/543865/bloober-team-cronos-new-dawn-survival-horror)
+ - [Alan Wake 2 Devs Designed Their Multiplayer Shooter For People With Kids And Jobs](https://kotaku.com/fbc-firebreak-remedy-co-op-fomo-live-service-preview-1851771133)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
