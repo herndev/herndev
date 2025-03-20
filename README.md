@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip design software maker Synopsys unveils AgentEngineer, initially letting engineers give AI agents instructions with plans to expand to helping make chips &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250320/p15#a250320p15)
- - [Bakkt names ex-SoftBank rainmaker Akshay Naheta as co-CEO to help turn around the struggling US crypto trading and custody platform; BKKT is down 62%+ in 2025 &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/250320/p14#a250320p14)
- - [Satellite Internet Will Let Us Put AI in Everything](https://www.wired.com/story/satellite-internet-will-let-us-put-ai-in-everything/)<!-- TECH:END -->
+ - [Google could soon expand the Find My Device network with more automatic opt-ins &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-find-my-device-network-automatic-opt-ins-apk-teardown-3536972/)
+ - [US schools spending billions on laptops, an idea supported by technologists and computer makers, has led to students&#39; worsening social skills and test scores &lpar;Michael R. Bloomberg/Bloomberg&rpar;](http://www.techmeme.com/250320/p18#a250320p18)
+ - [7 Best WIRED-Tested Humidifiers for Home and Away &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-humidifiers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
