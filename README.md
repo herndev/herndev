@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to become a ghoul in Fallout 76](https://www.pcgamer.com/games/fallout/76-how-to-become-a-ghoul/)
- - [Assassin’s Creed Shadows guides and walkthroughs](https://www.polygon.com/assassins-creed-shadows-guides/543299/guides-walkthroughs-tips)
- - [Meet Luna, the new AI robot dog who teaches itself using a digital nervous system and software &#39;that allows any machine to learn like humans and animals do&#39;](https://www.pcgamer.com/hardware/meet-luna-the-new-ai-robot-dog-who-teaches-itself-using-a-digital-nervous-system-and-software-that-allows-any-machine-to-learn-like-humans-and-animals-do/)<!-- GAME:END -->
+ - [8 Ways Assassin’s Creed Shadows Breaks Free From Its Predecessors](https://news.xbox.com/en-us/2025/03/20/8-ways-assassins-creed-shadows-breaks-free-from-its-predecessors/)
+ - [Balatro&#39;s first demo could be edited with Notepad to unlock the whole game—the solution? &#39;Bury it as soon as possible&#39; with a &#39;newer, shinier version&#39;](https://www.pcgamer.com/games/roguelike/balatros-first-demo-could-be-edited-with-notepad-to-unlock-the-whole-game-the-solution-bury-it-as-soon-as-possible-with-a-newer-shinier-version/)
+ - [Karl Urban as Johnny Cage and Adeline Rudolph as Kitana look like good additions to the Mortal Kombat 2 movie, but I think a flawless victory is still far from certain](https://www.pcgamer.com/movies-tv/karl-urban-as-johnny-cage-and-adeline-rudolph-as-kitana-look-like-good-additions-to-the-mortal-kombat-2-movie-but-i-think-a-flawless-victory-is-still-far-from-certain/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
