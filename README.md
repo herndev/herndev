@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The $5 regret](http://9gag.com/gag/aAyKBpd)
- - ⏩ [For](http://9gag.com/gag/aGyBYbZ)
- - 👉 [You\u2019re not catching that dog](http://9gag.com/gag/aYQDNQm)<!-- MEMES:END -->
+ - 💣 [Bonk bonk](http://9gag.com/gag/a870LPQ)
+ - ⏩ [How can your bill increase when you&#39;re insured\u203d](http://9gag.com/gag/aZZwA5z)
+ - 👉 [Maybe not the best metaphor](http://9gag.com/gag/aoyVb80)<!-- MEMES:END -->
 
 ---
 
