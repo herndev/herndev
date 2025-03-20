@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU wants Apple to open these iOS features to other gadgets](https://www.theverge.com/news/633493/apple-ios-eu-dma-iphone-interoperability-requirements)
- - [Here&amp;#8217;s the Steam on Xbox evidence Microsoft didn&amp;#8217;t want you to see](https://www.theverge.com/news/633478/microsoft-xbox-steam-games-support-ui)
- - [Your Pixel phone quietly got a big boost in GPU performance in the latest Android update](https://www.androidauthority.com/pixel-phones-gpu-performance-boost-3537248/)<!-- TECH:END -->
+ - [The Pixel 9a is missing this key safety feature from the Pixel 9 series](https://www.androidauthority.com/pixel-9a-satellite-sos-3536849/)
+ - [Segway is recalling over 200,000 electric scooters that can collapse mid-ride](https://www.theverge.com/news/633575/segway-ninebot-electric-scooter-recall-max-g30p-g30lp)
+ - [Comcast and Spectrum join in on the satellite messaging wave](https://www.theverge.com/news/633574/comcast-spectrum-satellite-emergency-messaging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
