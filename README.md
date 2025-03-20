@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are a champ!](http://9gag.com/gag/aAyKBXZ)
- - ⏩ [IMDB removed rating from Snow White after falling below 2/10](http://9gag.com/gag/aW4nZAn)
- - 👉 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)<!-- MEMES:END -->
+ - 💣 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
+ - ⏩ [Hottest black girls ever](http://9gag.com/gag/aKGvzVb)
+ - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
 
 ---
 
