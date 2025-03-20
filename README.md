@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
- - ⏩ [Mondo Duplantis has broken the pole vault world record 11 times, while 10 of them were his own previous records. Every time he breaks the record he receives $100.000 in price money.](http://9gag.com/gag/a9yvQ0W)
- - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
+ - 💣 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
+ - ⏩ [Mattress foam.](http://9gag.com/gag/aAyKYm2)
+ - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
 
 ---
 
