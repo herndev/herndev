@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andor showrunner Tony Gilroy says the Disney+ show&#39;s scripts will not be released as planned, due to fears that they could be used as AI training data &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250320/p11#a250320p11)
- - [The latest Flip phone on the market might be the strangest one we’ve seen yet](https://www.androidauthority.com/new-flip-phone-strange-3536946/)
- - [Analysis: AT&amp;T and Verizon Speedtest users saw higher median download speeds on the iPhone 16e with the C1 modem than the iPhone 16; T-Mobile was the opposite &lpar;Sue Marek/Ookla&rpar;](http://www.techmeme.com/250320/p10#a250320p10)<!-- TECH:END -->
+ - [Chip design software maker Synopsys unveils AgentEngineer, initially letting engineers give AI agents instructions with plans to expand to helping make chips &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250320/p15#a250320p15)
+ - [Bakkt names ex-SoftBank rainmaker Akshay Naheta as co-CEO to help turn around the struggling US crypto trading and custody platform; BKKT is down 62%+ in 2025 &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/250320/p14#a250320p14)
+ - [Satellite Internet Will Let Us Put AI in Everything](https://www.wired.com/story/satellite-internet-will-let-us-put-ai-in-everything/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
