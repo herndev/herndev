@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could soon expand the Find My Device network with more automatic opt-ins &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-find-my-device-network-automatic-opt-ins-apk-teardown-3536972/)
- - [US schools spending billions on laptops, an idea supported by technologists and computer makers, has led to students&#39; worsening social skills and test scores &lpar;Michael R. Bloomberg/Bloomberg&rpar;](http://www.techmeme.com/250320/p18#a250320p18)
- - [7 Best WIRED-Tested Humidifiers for Home and Away &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-humidifiers/)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Temu-owner PDD reports Q4 revenue up 24% YoY to ~$15.3B, below est., and net income up 18% YoY to ~$3.8B, after intensifying domestic competition and US tariffs &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250320/p22#a250320p22)
+ - [Huawei’s new flip phone is weirdly wide](https://www.theverge.com/news/633159/huawei-pura-x-flip-phone-wide-1610-aspect-ratio-harmonyos-next)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
