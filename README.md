@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
- - ⏩ [We Need To Stop Hapiness Before It Spreads. Like True 9gager Dr Hause.](http://9gag.com/gag/a6Z9WvA)
- - 👉 [When your mom farted.](http://9gag.com/gag/aByLDvz)<!-- MEMES:END -->
+ - 💣 [I want this to stay on the internet forever](http://9gag.com/gag/aLn4RKz)
+ - ⏩ [For real, what\u2019s up with this sh!t?](http://9gag.com/gag/amoGDn4)
+ - 👉 [After his divorce, Esposito had to declare bankruptcy, and he considered suicide by arranging his own murder to provide insurance money for his children before being cast in Breaking Bad](http://9gag.com/gag/aGy8WRZ)<!-- MEMES:END -->
 
 ---
 
