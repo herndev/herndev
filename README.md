@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8 Ways Assassin’s Creed Shadows Breaks Free From Its Predecessors](https://news.xbox.com/en-us/2025/03/20/8-ways-assassins-creed-shadows-breaks-free-from-its-predecessors/)
- - [Balatro&#39;s first demo could be edited with Notepad to unlock the whole game—the solution? &#39;Bury it as soon as possible&#39; with a &#39;newer, shinier version&#39;](https://www.pcgamer.com/games/roguelike/balatros-first-demo-could-be-edited-with-notepad-to-unlock-the-whole-game-the-solution-bury-it-as-soon-as-possible-with-a-newer-shinier-version/)
- - [Karl Urban as Johnny Cage and Adeline Rudolph as Kitana look like good additions to the Mortal Kombat 2 movie, but I think a flawless victory is still far from certain](https://www.pcgamer.com/movies-tv/karl-urban-as-johnny-cage-and-adeline-rudolph-as-kitana-look-like-good-additions-to-the-mortal-kombat-2-movie-but-i-think-a-flawless-victory-is-still-far-from-certain/)<!-- GAME:END -->
+ - [‘Singing With the Player’: How Compulsion Games Created South of Midnight’s Incredible Music](https://news.xbox.com/en-us/2025/03/20/south-of-midnight-music-interview/)
+ - [It&#39;s turtle time: Endless Legend 2&#39;s first faction is the fortification-loving Kin of Sheredyn](https://www.pcgamer.com/games/strategy/its-turtle-time-endless-legend-2s-first-faction-is-the-fortification-loving-kin-of-sheredyn/)
+ - [Over 110 players and 10,000 units clash as this free RTS celebrates its growing multiplayer scene with some of the biggest multiplayer battles ever fought](https://www.pcgamer.com/games/strategy/over-110-players-and-10-000-units-clash-as-this-free-rts-celebrates-its-growing-multiplayer-scene-with-some-of-the-biggest-multiplayer-battles-ever-fought/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
