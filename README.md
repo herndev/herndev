@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Etsy&#39;s stock, which peaked during the COVID-19 pandemic, has lost its pandemic-era gains, while eBay&#39;s stock is up ~85% since January 2020 &lpar;Hyunsoo Rim/Sherwood News&rpar;](http://www.techmeme.com/250320/p3#a250320p3)
- - [YouTube is struggling, and it’s not your internet](https://www.androidauthority.com/youtube-144p-quality-issue-3536898/)
- - [Jensen Huang says Nvidia will spend hundreds of billions on US-made chips and electronics over four years as it shifts supply chains amid Trump&#39;s tariff threats &lpar;Financial Times&rpar;](http://www.techmeme.com/250320/p2#a250320p2)<!-- TECH:END -->
+ - [Meta AI is rolling out in Europe after all](https://www.theverge.com/news/632876/meta-ai-europe-whatsapp-facebook-instagram-rollout)
+ - [Baidu denies data breach allegations after a top executive&#39;s teenage daughter leaked users&#39; personal info, including phone numbers, following an online argument &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p4#a250320p4)
+ - [Analysis: Etsy&#39;s stock, which peaked during the COVID-19 pandemic, has lost its pandemic-era gains, while eBay&#39;s stock is up ~85% since January 2020 &lpar;Hyunsoo Rim/Sherwood News&rpar;](http://www.techmeme.com/250320/p3#a250320p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
