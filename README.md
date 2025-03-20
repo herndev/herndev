@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The $5 regret](http://9gag.com/gag/aAyKBpd)
- - ⏩ [Update 13: Breast cancer has more than halved after 11 weeks of chemo, having an echo to check my heart and then the second round of drugs start. Happy Wednesday my dudes, f**k you all and see you next week.](http://9gag.com/gag/aO846py)
- - 👉 [Elephant mourns death of her companion of 25 years, refuses to leave her side!](http://9gag.com/gag/ae9OXdB)<!-- MEMES:END -->
+ - 💣 [For real, what\u2019s up with this sh!t?](http://9gag.com/gag/amoGDn4)
+ - ⏩ [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - 👉 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)<!-- MEMES:END -->
 
 ---
 
