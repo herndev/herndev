@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Exploit Wounds In Monster Hunter Wilds](https://kotaku.com/monster-hunter-wilds-wounds-hunter-mode-solo-co-op-1851771276)
- - [All Assassin&#39;s Creed Shadows Twitch Drops and how to get them](https://www.pcgamer.com/games/assassins-creed/ac-shadows-twitch-drops/)
- - [Getting Half-Life 2 to work on 8 MB of VRAM means turning it into an eerily befitting voidscape: &#39;there were absolutely no effects left&#39;](https://www.pcgamer.com/hardware/graphics-cards/getting-half-life-2-to-work-on-8-mb-of-vram-means-turning-it-into-an-eerily-befitting-voidscape-there-were-absolutely-no-effects-left/)<!-- GAME:END -->
+ - [The best indie games of 2025 so far](https://www.polygon.com/gaming/508068/best-indie-games-2025)
+ - [Assassin&#39;s Creed Shadows has convinced me that Ubisoft will never make a good RPG](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-has-convinced-me-that-ubisoft-will-never-make-a-good-rpg/)
+ - [Animal Crossing: New Horizons is 5. So, uh… when&amp;#8217;s the next?](https://www.polygon.com/animal-crossing/543546/animal-crossing-new-horizons-is-five-today-whens-the-next-one-speculation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
