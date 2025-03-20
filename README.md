@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elephant mourns death of her companion of 25 years, refuses to leave her side!](http://9gag.com/gag/ae9OXdB)
- - ⏩ [First Tesla, now Starlink ,bye bye Elon.](http://9gag.com/gag/aKGv4qg)
- - 👉 [The $5 regret](http://9gag.com/gag/aAyKBpd)<!-- MEMES:END -->
+ - 💣 [Oh hell noo](http://9gag.com/gag/aD2nEqO)
+ - ⏩ [Instagram hell](http://9gag.com/gag/aoyVB1x)
+ - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
 
 ---
 
