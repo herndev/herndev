@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
- - ⏩ [Lol she crying she sorry after lol](http://9gag.com/gag/an7np5E)
- - 👉 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)<!-- MEMES:END -->
+ - 💣 [It&#39;s getting quite realistic...](http://9gag.com/gag/a1m0vn8)
+ - ⏩ [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
 
 ---
 
