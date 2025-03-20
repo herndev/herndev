@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Promise Mascot Agency is Being Built with Accessibility in Mind](https://news.xbox.com/en-us/2025/03/20/how-promise-mascot-agency-built-with-accessibility/)
- - [It&#39;s 2025 And There&#39;s A Fight Over The Future Of The Nintendo 64 Brewing](https://kotaku.com/m64-modretro-palmer-luckey-nintendo-64-analogue-1851771242)
- - [ChatGPT faces legal complaint after a user inputted their own name and found it accused them of made-up crimes](https://www.pcgamer.com/hardware/chatgpt-faces-legal-complaint-after-a-user-inputted-their-own-name-and-found-it-accused-them-of-made-up-crimes/)<!-- GAME:END -->
+ - [How To Exploit Wounds In Monster Hunter Wilds](https://kotaku.com/monster-hunter-wilds-wounds-hunter-mode-solo-co-op-1851771276)
+ - [All Assassin&#39;s Creed Shadows Twitch Drops and how to get them](https://www.pcgamer.com/games/assassins-creed/ac-shadows-twitch-drops/)
+ - [Getting Half-Life 2 to work on 8 MB of VRAM means turning it into an eerily befitting voidscape: &#39;there were absolutely no effects left&#39;](https://www.pcgamer.com/hardware/graphics-cards/getting-half-life-2-to-work-on-8-mb-of-vram-means-turning-it-into-an-eerily-befitting-voidscape-there-were-absolutely-no-effects-left/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
