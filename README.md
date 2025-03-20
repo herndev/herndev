@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bonk bonk](http://9gag.com/gag/a870LPQ)
- - ⏩ [How can your bill increase when you&#39;re insured\u203d](http://9gag.com/gag/aZZwA5z)
- - 👉 [Maybe not the best metaphor](http://9gag.com/gag/aoyVb80)<!-- MEMES:END -->
+ - 💣 [The $5 regret](http://9gag.com/gag/aAyKBpd)
+ - ⏩ [For](http://9gag.com/gag/aGyBYbZ)
+ - 👉 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)<!-- MEMES:END -->
 
 ---
 
