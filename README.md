@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chad warden](http://9gag.com/gag/aByVKGQ)
- - ⏩ [I&#39;m just a title](http://9gag.com/gag/axy62YD)
- - 👉 [You Be Soft](http://9gag.com/gag/aMVP1gA)<!-- MEMES:END -->
+ - 💣 [Exams](http://9gag.com/gag/a0eVmzO)
+ - ⏩ [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
+ - 👉 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)<!-- MEMES:END -->
 
 ---
 
