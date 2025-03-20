@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 9a is missing this key safety feature from the Pixel 9 series](https://www.androidauthority.com/pixel-9a-satellite-sos-3536849/)
- - [Segway is recalling over 200,000 electric scooters that can collapse mid-ride](https://www.theverge.com/news/633575/segway-ninebot-electric-scooter-recall-max-g30p-g30lp)
- - [Comcast and Spectrum join in on the satellite messaging wave](https://www.theverge.com/news/633574/comcast-spectrum-satellite-emergency-messaging)<!-- TECH:END -->
+ - [Google sues alleged scammers over 10,000 fake Maps listings](https://www.theverge.com/news/633601/google-sues-fake-business-scams-maps)
+ - [Verizon will no longer offer Disney Plus Premium for $10 a month, as I found out in the oddest way](https://www.androidauthority.com/verizon-disney-premium-increase-3537240/)
+ - [Researchers unveil Aardvark, an AI weather prediction system that they say uses thousands of times less computing power and is much faster than current methods &lpar;The Guardian&rpar;](http://www.techmeme.com/250320/p41#a250320p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
