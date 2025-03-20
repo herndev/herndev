@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stuff men go through](http://9gag.com/gag/an72q3o)
- - ⏩ [Damn China at least you removed the blood But it&#39;s extreme](http://9gag.com/gag/ajPO258)
- - 👉 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)<!-- MEMES:END -->
+ - 💣 [The $5 regret](http://9gag.com/gag/aAyKBpd)
+ - ⏩ [For](http://9gag.com/gag/aGyBYbZ)
+ - 👉 [You\u2019re not catching that dog](http://9gag.com/gag/aYQDNQm)<!-- MEMES:END -->
 
 ---
 
