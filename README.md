@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Singing With the Player’: How Compulsion Games Created South of Midnight’s Incredible Music](https://news.xbox.com/en-us/2025/03/20/south-of-midnight-music-interview/)
- - [It&#39;s turtle time: Endless Legend 2&#39;s first faction is the fortification-loving Kin of Sheredyn](https://www.pcgamer.com/games/strategy/its-turtle-time-endless-legend-2s-first-faction-is-the-fortification-loving-kin-of-sheredyn/)
- - [Over 110 players and 10,000 units clash as this free RTS celebrates its growing multiplayer scene with some of the biggest multiplayer battles ever fought](https://www.pcgamer.com/games/strategy/over-110-players-and-10-000-units-clash-as-this-free-rts-celebrates-its-growing-multiplayer-scene-with-some-of-the-biggest-multiplayer-battles-ever-fought/)<!-- GAME:END -->
+ - [Free Play Days – Shin Megami Tensei V: Vengeance, Bassmaster Fishing, Warhammer 40,000 Inquisitor and Thief Simulator](https://news.xbox.com/en-us/2025/03/20/free-play-days-03-20-2025/)
+ - [The expert on finding weird places in Skyrim, GTA 5, and others does it out of love](https://www.polygon.com/q-and-a/538684/any-austin-unremarkable-odd-youtube-interview)
+ - [Candy Crush All Stars Tournament Returns with $1 Million Prize Pool Up for Grabs](https://www.prnewswire.com/news-releases/get-your-game-on-the-global-candy-crush-all-stars-tournament-returns-with-1m-prize-pool-up-for-grabs-302407017.html#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
