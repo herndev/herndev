@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Shin Megami Tensei V: Vengeance, Bassmaster Fishing, Warhammer 40,000 Inquisitor and Thief Simulator](https://news.xbox.com/en-us/2025/03/20/free-play-days-03-20-2025/)
- - [The expert on finding weird places in Skyrim, GTA 5, and others does it out of love](https://www.polygon.com/q-and-a/538684/any-austin-unremarkable-odd-youtube-interview)
- - [Candy Crush All Stars Tournament Returns with $1 Million Prize Pool Up for Grabs](https://www.prnewswire.com/news-releases/get-your-game-on-the-global-candy-crush-all-stars-tournament-returns-with-1m-prize-pool-up-for-grabs-302407017.html#new_tab)<!-- GAME:END -->
+ - [How Promise Mascot Agency is Being Built with Accessibility in Mind](https://news.xbox.com/en-us/2025/03/20/how-promise-mascot-agency-built-with-accessibility/)
+ - [It&#39;s 2025 And There&#39;s A Fight Over The Future Of The Nintendo 64 Brewing](https://kotaku.com/m64-modretro-palmer-luckey-nintendo-64-analogue-1851771242)
+ - [ChatGPT faces legal complaint after a user inputted their own name and found it accused them of made-up crimes](https://www.pcgamer.com/hardware/chatgpt-faces-legal-complaint-after-a-user-inputted-their-own-name-and-found-it-accused-them-of-made-up-crimes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
