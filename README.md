@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For real, what\u2019s up with this sh!t?](http://9gag.com/gag/amoGDn4)
- - ⏩ [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
- - 👉 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)<!-- MEMES:END -->
+ - 💣 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
+ - ⏩ [We Need To Stop Hapiness Before It Spreads. Like True 9gager Dr Hause.](http://9gag.com/gag/a6Z9WvA)
+ - 👉 [When your mom farted.](http://9gag.com/gag/aByLDvz)<!-- MEMES:END -->
 
 ---
 
