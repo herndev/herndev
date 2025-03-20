@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
- - ⏩ [I heard that the heroine is a lesbian??? Is that true?](http://9gag.com/gag/a4PNpVd)
- - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
+ - 💣 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
+ - ⏩ [The fart that rules them all](http://9gag.com/gag/axy6N41)
+ - 👉 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)<!-- MEMES:END -->
 
 ---
 
