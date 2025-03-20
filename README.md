@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t be her backup option](http://9gag.com/gag/adBO3KB)
- - ⏩ [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
- - 👉 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)<!-- MEMES:END -->
+ - 💣 [Chad warden](http://9gag.com/gag/aByVKGQ)
+ - ⏩ [When your mom farted.](http://9gag.com/gag/aByLDvz)
+ - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
 
 ---
 
