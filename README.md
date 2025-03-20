@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Tesla brand turned so toxic](https://www.theverge.com/decoder-podcast-with-nilay-patel/633200/tesla-takedown-protest-elon-musk-toxic)
- - [iPhone 17 Pro dummies show where glass ends and metal begins](https://appleinsider.com/articles/25/03/20/iphone-17-pro-dummies-show-where-glass-ends-and-metal-begins?utm_medium=rss)
- - [The Digimon franchise is getting a mobile card came of its own](https://www.theverge.com/news/633224/bandai-digimon-alysion-mobile-game-trailer)<!-- TECH:END -->
+ - [One UI 7 is letting Galaxy users say goodbye to CAPTCHAs](https://www.androidauthority.com/one-ui-7-samsung-internet-automatic-verification-3537065/)
+ - [The TON Foundation raises over $400M from Sequoia Capital, Ribbit, and others via a sale of its Toncoin cryptocurrency, and says there are now 40M+ active users &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250320/p28#a250320p28)
+ - [Get Disney Plus and Hulu bundle for only $2.99/mo for 4 months](https://appleinsider.com/articles/25/03/20/get-disney-plus-and-hulu-bundle-for-only-299mo-for-4-months?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
