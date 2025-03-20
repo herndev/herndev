@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at unannounced disconnections from the grid by data centers, which can occur when they switch to local generators and may cause cascading grid failures &lpar;Tim McLaughlin/Reuters&rpar;](http://www.techmeme.com/250319/p48#a250319p48)
- - [Philadelphia-based Proscia, which provides pathology digitization software, raised $50M led by Insight Partners and others, taking its total funding to $130M &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250319/p47#a250319p47)
- - [How to run Mac OS 9 on Apple Silicon using UTM](https://appleinsider.com/inside/macos/tips/how-to-run-mac-os-9-on-apple-silicon-using-utm?utm_medium=rss)<!-- TECH:END -->
+ - [Analysis: Etsy&#39;s stock, which peaked during the COVID-19 pandemic, has lost its pandemic-era gains, while eBay&#39;s stock is up ~85% since January 2020 &lpar;Hyunsoo Rim/Sherwood News&rpar;](http://www.techmeme.com/250320/p3#a250320p3)
+ - [YouTube is struggling, and it’s not your internet](https://www.androidauthority.com/youtube-144p-quality-issue-3536898/)
+ - [Jensen Huang says Nvidia will spend hundreds of billions on US-made chips and electronics over four years as it shifts supply chains amid Trump&#39;s tariff threats &lpar;Financial Times&rpar;](http://www.techmeme.com/250320/p2#a250320p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
