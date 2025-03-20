@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The GDC Awards’ 2025 Game of the Year winners are rolling in](https://www.polygon.com/events/542599/gdc-awards-2025-winners-igf)
- - [Game dev union marches through industry event to demonstrate that it&#39;s about &#39;taking action and organizing change&#39;](https://www.pcgamer.com/gaming-industry/game-dev-union-marches-through-industry-event-to-demonstrate-that-its-about-taking-action-and-organizing-change/)
- - [How to get knowledge points in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/538252/knowledge-points-how-to-get-increase-more)<!-- GAME:END -->
+ - [Should you play canon mode in Assassin’s Creed Shadows?](https://www.polygon.com/assassins-creed-shadows-guides/538501/canon-mode-should-you-play)
+ - [Today&#39;s Wordle answer for Thursday, March 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-20-2025/)
+ - [The GDC Awards’ 2025 Game of the Year winners are rolling in](https://www.polygon.com/events/542599/gdc-awards-2025-winners-igf)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
