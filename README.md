@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The GDC Awards’ 2025 Game of the Year winners are rolling in](https://www.polygon.com/events/542599/gdc-awards-2025-winners-igf)
  - [Game dev union marches through industry event to demonstrate that it&#39;s about &#39;taking action and organizing change&#39;](https://www.pcgamer.com/gaming-industry/game-dev-union-marches-through-industry-event-to-demonstrate-that-its-about-taking-action-and-organizing-change/)
- - [How to get knowledge points in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/538252/knowledge-points-how-to-get-increase-more)
- - [Should you let Junjiro stay in Assassin’s Creed Shadows?](https://www.polygon.com/assassins-creed-shadows-guides/538584/junjiro-stay-leave-choice)<!-- GAME:END -->
+ - [How to get knowledge points in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/538252/knowledge-points-how-to-get-increase-more)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
