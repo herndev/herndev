@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best indie games of 2025 so far](https://www.polygon.com/gaming/508068/best-indie-games-2025)
- - [Assassin&#39;s Creed Shadows has convinced me that Ubisoft will never make a good RPG](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-has-convinced-me-that-ubisoft-will-never-make-a-good-rpg/)
- - [Animal Crossing: New Horizons is 5. So, uh… when&amp;#8217;s the next?](https://www.polygon.com/animal-crossing/543546/animal-crossing-new-horizons-is-five-today-whens-the-next-one-speculation)<!-- GAME:END -->
+ - [How Developers Have Embraced Xbox Play Anywhere for Their Games](https://news.xbox.com/en-us/2025/03/20/how-developers-embraced-xbox-play-anywhere/)
+ - [This patch for the D&amp;#038;D handbook solves game scheduling problems for good](https://www.polygon.com/tabletop-games/543536/dnd-dungeons-dragons-scheduling-handbook-patch)
+ - [Document Your Journey Through Feudal Japan With Assassin&#39;s Creed Shadows&#39; Excellent Photo Mode](https://kotaku.com/assassins-creed-shadows-photo-mode-settings-1851771334)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
