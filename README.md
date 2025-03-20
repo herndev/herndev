@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Temu-owner PDD reports Q4 revenue up 24% YoY to ~$15.3B, below est., and net income up 18% YoY to ~$3.8B, after intensifying domestic competition and US tariffs &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250320/p22#a250320p22)
- - [Huawei’s new flip phone is weirdly wide](https://www.theverge.com/news/633159/huawei-pura-x-flip-phone-wide-1610-aspect-ratio-harmonyos-next)<!-- TECH:END -->
+ - [Google could revamp Android’s backup settings with a sleek new look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-backup-settings-new-look-apk-teardown-3537026/)
+ - [The Pixel 9a is the smart way to do a slim phone, the Galaxy S25 Edge is not](https://www.androidauthority.com/pixel-9a-slim-phone-vs-galaxy-s25-edge-3535813/)
+ - [Best Portable Chargers &lpar;2025&rpar;: iPhones, iPads, Laptops &amp; More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
