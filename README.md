@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This is why the Minecraft movie is called A Minecraft Movie](https://www.pcgamer.com/movies-tv/this-is-why-the-minecraft-movie-is-called-a-minecraft-movie/)
- - [The warframe with a guitar that shoots fire is out today alongside a bunch of metalcore-inspired skins, cementing Warframe&#39;s spiral into Y2K madness](https://www.pcgamer.com/games/third-person-shooter/the-warframe-with-a-guitar-that-shoots-fire-is-out-today-alongside-a-bunch-of-metalcore-inspired-skins-cementing-warframes-spiral-into-y2k-madness/)
- - [Ark: Survival Evolved fans blast AI-slop trailer for Aquatica DLC](https://www.polygon.com/news/543122/ark-survival-evolved-aquatica-dlc-ai)<!-- GAME:END -->
+ - [Grab this ridiculously overpowered Yasuke armor as soon as possible in Assassin&#39;s Creed Shadows](https://www.pcgamer.com/games/assassins-creed/grab-this-overpowered-yasuke-armor-as-soon-as-possible/)
+ - [Balatro&#39;s LocalThunk isn&#39;t &#39;trying to pull a Banksy&#39;, he just &#39;wanted to be left alone to make his game&#39;](https://www.pcgamer.com/games/card-games/balatros-localthunk-isnt-trying-to-pull-a-banksy-he-just-wanted-to-be-left-alone-to-make-his-game/)
+ - [This is why the Minecraft movie is called A Minecraft Movie](https://www.pcgamer.com/movies-tv/this-is-why-the-minecraft-movie-is-called-a-minecraft-movie/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
