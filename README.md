@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
- - ⏩ [The fart that rules them all](http://9gag.com/gag/axy6N41)
- - 👉 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)<!-- MEMES:END -->
+ - 💣 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
+ - ⏩ [Mondo Duplantis has broken the pole vault world record 11 times, while 10 of them were his own previous records. Every time he breaks the record he receives $100.000 in price money.](http://9gag.com/gag/a9yvQ0W)
+ - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
 
 ---
 
