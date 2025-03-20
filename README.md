@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fired FTC commissioner warns of the ‘corrupting influence of billionaires’](https://www.theverge.com/news/632944/democratic-ftc-commissioner-alvaro-bedoya-tech-billionaires-trump)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Apple won&#39;t be forced into allowing third party app marketplaces in Brazil, for now](https://appleinsider.com/articles/25/03/19/apple-wont-be-forced-into-allowing-third-party-app-marketplaces-in-brazil-for-now?utm_medium=rss)<!-- TECH:END -->
+ - [Jensen Huang says Nvidia has not been approached about purchasing a stake in Intel, following a report about a consortium with TSMC to operate Intel&#39;s factories &lpar;Reuters&rpar;](http://www.techmeme.com/250319/p42#a250319p42)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Mortgage Forecast This Week: Fed Holds Rates Steady Amid Economic Uncertainty](https://www.cnet.com/personal-finance/mortgage-forecast-this-week-fed-holds-rates-steady-amid-economic-uncertainty/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
