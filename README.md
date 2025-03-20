@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn China at least you removed the blood But it&#39;s extreme](http://9gag.com/gag/ajPO258)
- - ⏩ [Instagram hell](http://9gag.com/gag/aoyVB1x)
- - 👉 [Not all cultures are equal](http://9gag.com/gag/a2v0E1Y)<!-- MEMES:END -->
+ - 💣 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
+ - ⏩ [Damn China at least you removed the blood But it&#39;s extreme](http://9gag.com/gag/ajPO258)
+ - 👉 [We Need To Stop Hapiness Before It Spreads. Like True 9gager Dr Hause.](http://9gag.com/gag/a6Z9WvA)<!-- MEMES:END -->
 
 ---
 
