@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Developers Have Embraced Xbox Play Anywhere for Their Games](https://news.xbox.com/en-us/2025/03/20/how-developers-embraced-xbox-play-anywhere/)
- - [This patch for the D&amp;#038;D handbook solves game scheduling problems for good](https://www.polygon.com/tabletop-games/543536/dnd-dungeons-dragons-scheduling-handbook-patch)
- - [Document Your Journey Through Feudal Japan With Assassin&#39;s Creed Shadows&#39; Excellent Photo Mode](https://kotaku.com/assassins-creed-shadows-photo-mode-settings-1851771334)<!-- GAME:END -->
+ - [Marketing guy invents the concept of &#39;Real Steam&#39; to explain why &#39;magic&#39; games, AKA good games, end up selling: &#39;Don&#39;t tell Valve&#39;](https://www.pcgamer.com/gaming-industry/marketing-guy-invents-the-concept-of-real-steam-to-explain-why-magic-games-aka-good-games-end-up-selling-dont-tell-valve/)
+ - [Where to find ‘Cat Island’ in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/543339/cat-island-location-where-to-find)
+ - [&#39;Humans still surpass machines&#39;: Roblox has been using a machine learning voice chat moderation system for a year, but in some cases you just can&#39;t beat real people](https://www.pcgamer.com/software/ai/humans-still-surpass-machines-roblox-has-been-using-a-machine-learning-voice-chat-moderation-system-for-a-year-but-in-some-cases-you-just-cant-beat-real-people/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
