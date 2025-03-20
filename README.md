@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chad warden](http://9gag.com/gag/aByVKGQ)
- - ⏩ [When your mom farted.](http://9gag.com/gag/aByLDvz)
+ - 💣 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - ⏩ [I heard that the heroine is a lesbian??? Is that true?](http://9gag.com/gag/a4PNpVd)
  - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
 
 ---
