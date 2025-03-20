@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marketing guy invents the concept of &#39;Real Steam&#39; to explain why &#39;magic&#39; games, AKA good games, end up selling: &#39;Don&#39;t tell Valve&#39;](https://www.pcgamer.com/gaming-industry/marketing-guy-invents-the-concept-of-real-steam-to-explain-why-magic-games-aka-good-games-end-up-selling-dont-tell-valve/)
- - [Where to find ‘Cat Island’ in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/543339/cat-island-location-where-to-find)
- - [&#39;Humans still surpass machines&#39;: Roblox has been using a machine learning voice chat moderation system for a year, but in some cases you just can&#39;t beat real people](https://www.pcgamer.com/software/ai/humans-still-surpass-machines-roblox-has-been-using-a-machine-learning-voice-chat-moderation-system-for-a-year-but-in-some-cases-you-just-cant-beat-real-people/)<!-- GAME:END -->
+ - [System Shock 2: 25th Anniversary Remaster out June 26 on PS5, PS4](https://blog.playstation.com/2025/03/20/system-shock-2-25th-anniversary-remaster-out-june-26-on-ps5-ps4/)
+ - [Nightdive&#39;s remaster of System Shock 2, the peak of immersive sims, finally has a release date](https://www.pcgamer.com/games/fps/nightdives-remaster-of-system-shock-2-the-peak-of-immersive-sims-finally-has-a-release-date/)
+ - [Wizards of the Coast gaming head says Baldur&#39;s Gate 3 &#39;certainly raised the bar&#39; and changed how they think about big budget D&amp;D, but they still want &#39;different entry points&#39; including smaller games](https://www.pcgamer.com/games/rpg/wizards-of-the-coast-gaming-head-says-baldurs-gate-3-certainly-raised-the-bar-and-changed-how-they-think-about-big-budget-d-and-d-but-they-still-want-different-entry-points-including-smaller-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
