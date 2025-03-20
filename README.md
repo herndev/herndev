@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
- - ⏩ [Hottest black girls ever](http://9gag.com/gag/aKGvzVb)
- - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
+ - 💣 [Chad warden](http://9gag.com/gag/aByVKGQ)
+ - ⏩ [I&#39;m just a title](http://9gag.com/gag/axy62YD)
+ - 👉 [You Be Soft](http://9gag.com/gag/aMVP1gA)<!-- MEMES:END -->
 
 ---
 
