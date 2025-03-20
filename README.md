@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s getting quite realistic...](http://9gag.com/gag/a1m0vn8)
- - ⏩ [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
- - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
+ - 💣 [Stuff men go through](http://9gag.com/gag/an72q3o)
+ - ⏩ [Damn China at least you removed the blood But it&#39;s extreme](http://9gag.com/gag/ajPO258)
+ - 👉 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)<!-- MEMES:END -->
 
 ---
 
