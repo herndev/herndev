@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7 is letting Galaxy users say goodbye to CAPTCHAs](https://www.androidauthority.com/one-ui-7-samsung-internet-automatic-verification-3537065/)
- - [The TON Foundation raises over $400M from Sequoia Capital, Ribbit, and others via a sale of its Toncoin cryptocurrency, and says there are now 40M+ active users &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250320/p28#a250320p28)
- - [Get Disney Plus and Hulu bundle for only $2.99/mo for 4 months](https://appleinsider.com/articles/25/03/20/get-disney-plus-and-hulu-bundle-for-only-299mo-for-4-months?utm_medium=rss)<!-- TECH:END -->
+ - [Construction begins on delayed Apple TV+ studios](https://appleinsider.com/articles/25/03/20/construction-begins-on-delayed-apple-tv-studios?utm_medium=rss)
+ - [Filing: CoreWeave is aiming to raise up to $2.7B in its US IPO at a valuation between $27.4B and $32B, selling 49M shares for $47 to $55; Nvidia owns 5.96% &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p30#a250320p30)
+ - [X sues Narendra Modi&#39;s government in New Delhi, saying its IT ministry has unlawfully expanded censorship powers to allow the easier removal of online content &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p29#a250320p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
