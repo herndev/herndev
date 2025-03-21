@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Like a Dragon series director sums up why sidequests are essential to a great RPG with a single metaphor: &#39;a good main dish alone will not earn you a Michelin star&#39;](https://www.pcgamer.com/games/rpg/like-a-dragon-series-director-sums-up-why-sidequests-are-essential-to-a-great-rpg-with-a-single-metaphor-a-good-main-dish-alone-will-not-earn-you-a-michelin-star/)
- - [Okay, But What If Severance Ended Here?](https://kotaku.com/severance-season-2-finale-helly-mark-gemma-3-renewal-1851771662)
- - [‘The Tea Ceremony’ walkthrough for Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/544503/tea-ceremony-walkthrough-otama-wakasa-choice-bow-bowl)<!-- GAME:END -->
+ - [Wheel World is a Radical Take on Bike Racing](https://news.xbox.com/en-us/2025/03/21/wheel-world-is-a-radical-take-on-bike-racing/)
+ - [Kotaku’s Weekend Guide: 5 Awesome Games To Transport Us To A Better Place](https://kotaku.com/kotaku-games-to-play-assassins-creed-shadows-avowed-1851771673)
+ - [How to get the Mushroomancer skill in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/541884/mushroomancer-skill-how-to-get-use)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
