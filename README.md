@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Outer space inspired DayZ&#39;s Dean Hall to become a modder and game developer, and now he&#39;s making a Kerbal successor called Kitten Space Agency](https://www.pcgamer.com/games/sim/dean-hall-kitten-space-agency-inspiration-gdc-interview/)
- - [Wheel World is a Radical Take on Bike Racing](https://news.xbox.com/en-us/2025/03/21/wheel-world-is-a-radical-take-on-bike-racing/)
- - [Kotaku’s Weekend Guide: 5 Awesome Games To Transport Us To A Better Place](https://kotaku.com/kotaku-games-to-play-assassins-creed-shadows-avowed-1851771673)<!-- GAME:END -->
+ - [Warhammer 40,000: Darktide’s getting a new roguelite wave defense mode that sounds a whole lot like a souped-up take on Killing Floor](https://www.pcgamer.com/games/fps/warhammer-40-000-darktides-getting-a-new-roguelite-wave-defense-mode-that-sounds-a-whole-lot-like-a-souped-up-take-on-killing-floor/)
+ - [&#39;Players don&#39;t explore&#39;: former Grand Theft Auto 6 and Red Dead Online designer lays out the perils of &#39;open world fatigue&#39;](https://www.pcgamer.com/games/action/players-dont-explore-former-grand-theft-auto-6-and-red-dead-online-designer-lays-out-the-perils-of-open-world-fatigue/)
+ - [Nearly 2 years after its last update, the excellent Battle Brothers gets &#39;a bucket load of fixes&#39; and free new content](https://www.pcgamer.com/games/strategy/nearly-2-years-after-its-last-update-the-excellent-battle-brothers-gets-a-bucket-load-of-fixes-and-free-new-content/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
