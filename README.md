@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rammstein video vs $300 million dollar Hollywood](http://9gag.com/gag/amo6LNV)
+ - 💣 [Chickens, plural](http://9gag.com/gag/an72KNz)
  - ⏩ [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 👉 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)<!-- MEMES:END -->
+ - 👉 [This is what I pay the internet for.](http://9gag.com/gag/a5QwdDE)<!-- MEMES:END -->
 
 ---
 
