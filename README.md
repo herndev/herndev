@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 composer recalls stomping around his apartment and channeling &#39;Super Patriotism&#39; to capture Arrowhead&#39;s satirical vision in music: &#39;The satire works because the music believes it&#39;s a pure patriotic love without irony or criticism&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-composer-recalls-stomping-around-his-apartment-and-channeling-super-patriotism-to-capture-arrowheads-satirical-vision-in-music-the-satire-works-because-the-music-believes-its-a-pure-patriotic-love-without-irony-or-criticism/)
- - [REPO dev says it wasn’t actually inspired by Lethal Company, and started as a singleplayer cleaning game: ‘It was nice, but far from what REPO is now’](https://www.pcgamer.com/games/horror/repo-dev-says-it-wasnt-actually-inspired-by-lethal-company-and-started-as-a-singleplayer-cleaning-game-it-was-nice-but-far-from-what-repo-is-now/)
- - [&#39;We made one big mistake&#39;: Destiny 2 developer reveals how a small team dedicated to player retention led to a 20 hour server outage and character rollback](https://www.pcgamer.com/games/fps/we-made-one-big-mistake-destiny-2-developer-reveals-how-a-small-team-dedicated-to-player-retention-led-to-a-20-hour-server-outage-and-character-rollback/)<!-- GAME:END -->
+ - [Like a Dragon series director sums up why sidequests are essential to a great RPG with a single metaphor: &#39;a good main dish alone will not earn you a Michelin star&#39;](https://www.pcgamer.com/games/rpg/like-a-dragon-series-director-sums-up-why-sidequests-are-essential-to-a-great-rpg-with-a-single-metaphor-a-good-main-dish-alone-will-not-earn-you-a-michelin-star/)
+ - [Okay, But What If Severance Ended Here?](https://kotaku.com/severance-season-2-finale-helly-mark-gemma-3-renewal-1851771662)
+ - [‘The Tea Ceremony’ walkthrough for Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/544503/tea-ceremony-walkthrough-otama-wakasa-choice-bow-bowl)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
