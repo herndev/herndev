@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [GOG&#39;s version of Silent Hill 4 has been updated with missing content from the original console game](https://www.pcgamer.com/games/horror/gogs-version-of-silent-hill-4-has-been-updated-with-missing-content-from-the-original-console-game/)
  - [Today&#39;s Wordle answer for Friday, March 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-21-2025/)
- - [Wizards of the Coast throws a bone to players who miss vanilla Magic: The Gathering with a dragon-themed set called Tarkir: Dragonstorm](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-throws-a-bone-to-players-who-miss-vanilla-magic-the-gathering-with-a-dragon-themed-set-called-tarkir-dragonstorm/)
- - [Lonely Mountains: Snow Riders is getting a new mountain next month and a whole bunch more throughout the year, including a game editor](https://www.pcgamer.com/games/racing/lonely-mountains-snow-riders-is-getting-a-new-mountain-next-month-and-a-whole-bunch-more-throughout-the-year-including-a-game-editor/)<!-- GAME:END -->
+ - [Wizards of the Coast throws a bone to players who miss vanilla Magic: The Gathering with a dragon-themed set called Tarkir: Dragonstorm](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-throws-a-bone-to-players-who-miss-vanilla-magic-the-gathering-with-a-dragon-themed-set-called-tarkir-dragonstorm/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
