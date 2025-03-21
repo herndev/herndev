@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;We Don’t Want an AI Demo, We Want Answers’: Federal Workers Grill Trump Appointee During All-Hands](https://www.wired.com/story/gsa-staff-all-hands-meeting-ai/)
- - [This awesome Anker Flat Plug Power Strip 300J is only $20 right now](https://www.androidauthority.com/anker-flat-plug-power-strip-300j-deal-3537236/)
- - [The US SEC says proof-of-work crypto mining doesn&#39;t trigger federal securities laws and mining operators do not need to register their transactions with the SEC &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250320/p44#a250320p44)<!-- TECH:END -->
+ - [At Nvidia&#39;s Quantum Day, Jensen Huang walked back his January comments that cast doubt on the timeline for useful quantum computing and caused a stock selloff &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250320/p45#a250320p45)
+ - [The crypto bars are invading Washington](https://www.theverge.com/cryptocurrency/633590/crypto-bar-pubkey-washington)
+ - [Speediance VeloNix stationary bike review: a solid biking experience for those who can afford it](https://appleinsider.com/articles/25/03/21/speediance-velonix-stationary-bike-review-a-solid-biking-experience-for-those-who-can-afford-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
