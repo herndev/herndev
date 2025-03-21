@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it uncovered 10K+ illegitimate listings, including for fake businesses, on Maps and files a lawsuit against the alleged scammers behind the fraud &lpar;Kara Fellows/CBS News&rpar;](http://www.techmeme.com/250320/p46#a250320p46)
- - [It&#39;s back: Pick up a MacBook Air for $699.99 while supplies last](https://appleinsider.com/articles/25/03/21/its-back-pick-up-a-macbook-air-for-69999-while-supplies-last?utm_medium=rss)
- - [At Nvidia&#39;s Quantum Day, Jensen Huang walked back his January comments that cast doubt on the timeline for useful quantum computing and caused a stock selloff &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250320/p45#a250320p45)<!-- TECH:END -->
+ - [Google Messages preps to fast-forward your forwards &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-media-forwarding-shortcut-apk-teardown-3537331/)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, March 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-21/#ftag=CAD590a51e)
+ - [Denver-based Multiply Mortgage, which provides an AI-based mortgage origination service for tech employees, raised a $23.5M Series A led by Kleiner Perkins &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250320/p47#a250320p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
