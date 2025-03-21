@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Razr Plus 2025 leak shows off stunning new wood panel](https://www.androidauthority.com/motorola-razr-plus-wood-back-3537458/)
- - [Sources: Coinbase is in advanced talks to buy Deribit, the largest bitcoin and ether options trading platform, which was reportedly valued at $4B-$5B in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p22#a250321p22)
- - [Yahoo is selling TechCrunch](https://www.theverge.com/news/633950/yahoo-selling-techcrunch-regent-acquisition)<!-- TECH:END -->
+ - [Hungryroot Meal Kit Review &lpar;2025&rpar;: AI-Guided Menu](https://www.wired.com/review/hungryroot-meal-kit-review/)
+ - [Another rare, functional Apple-1 has sold for $375,000 at auction](https://appleinsider.com/articles/25/03/21/another-rare-functional-apple-1-has-sold-for-375000-at-auction?utm_medium=rss)
+ - [Sources: the UK weighs reducing or abolishing its 2% digital services tax on UK revenue of Big Tech companies by April 2 in an effort to avoid some US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p23#a250321p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
