@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UK being UK](http://9gag.com/gag/aZZ8WQn)
- - ⏩ [F**k Ubisoft, but it&#39;s kinda the streamer&#39;s fault for agreeing to work with them](http://9gag.com/gag/aryXpqX)
- - 👉 [Men only want one thing and it&#39;s](http://9gag.com/gag/aVvKQRd)<!-- MEMES:END -->
+ - 💣 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)
+ - ⏩ [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
+ - 👉 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)<!-- MEMES:END -->
 
 ---
 
