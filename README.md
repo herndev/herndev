@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could get foldable Android phones to adopt this advanced metal alloy for durability](https://www.androidauthority.com/apple-foldable-liquidmetal-hinge-3537426/)
- - [Opening iOS is good news for smartwatches](https://www.theverge.com/news/633765/ios-eu-interoperability-smartwatches-headphones)
- - [Yahoo strikes a deal to sell TechCrunch to media investment firm Regent, which acquired PCWorld publisher Foundry earlier this week &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250321/p17#a250321p17)<!-- TECH:END -->
+ - [Samsung’s One UI 7 release plans somehow just got even more confusing](https://www.androidauthority.com/samsung-one-ui-7-us-date-3537444/)
+ - [What to expect from the M5 MacBook Pro, and when to expect it](https://appleinsider.com/articles/25/03/21/what-to-expect-from-the-m5-macbook-pro-and-when-to-expect-it?utm_medium=rss)
+ - [OnePlus could finally be launching a smaller smartwatch](https://www.androidauthority.com/oneplus-oppo-watch-x2-mini-smartwatch-3537442/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
