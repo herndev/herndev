@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2: The Best Perk Choices For Tank Heroes](https://kotaku.com/overwatch-2-tanks-best-perks-dva-doomfist-hazard-orisa-1851771469)
- - [Suzanne Collins wants to use Hunger Games to fix our media literacy problem](https://www.polygon.com/books/544109/hunger-games-sunrise-on-the-reaping-explained-media-literacy-analysis)
- - [Microsoft announces DirectX Raytracing 1.2 claiming &#39;game changing&#39; performance benefits but it looks like the important stuff is already in Nvidia&#39;s RTX GPUs, even the old ones](https://www.pcgamer.com/hardware/graphics-cards/microsoft-announces-directx-raytracing-1-2-claiming-game-changing-performance-benefits-but-it-looks-like-the-important-stuff-is-already-in-nvidias-rtx-gpus-even-the-old-ones/)<!-- GAME:END -->
+ - [All Assassin&#39;s Creed Shadows Tea Ceremony answers](https://www.pcgamer.com/games/assassins-creed/ac-shadows-tea-ceremony-answers-walkthrough/)
+ - [The best early deals in Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/542763/best-early-amazon-big-spring-deals)
+ - [How to upgrade weapons and armor in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/543840/upgrade-weapons-armor-gear-how-to)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
