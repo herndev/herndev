@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Rebirth’s Costa del Sol gives so much wanderlust it hurts](https://www.polygon.com/gaming/538594/final-fantasy-7-rebirth-costa-del-sol)
- - [Friendship ended with human race: Boffins declare the &#39;meme Turing test&#39; has been passed, and AI is now making funnier captions on average than you useless lumps](https://www.pcgamer.com/gaming-industry/friendship-ended-with-human-race-boffins-declare-the-meme-turing-test-has-been-passed-and-ai-is-now-making-funnier-captions-on-average-than-you-useless-lumps/)
- - [Baldur&#39;s Gate 3&#39;s latest stress test update fixes heartbreaking bug that caused a total party-wipe on Ironman Mode at the game&#39;s final boss, forcing dejected testers to restart the entire game](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3s-latest-stress-test-update-fixes-heartbreaking-bug-that-caused-a-total-party-wipe-on-ironman-mode-at-the-games-final-boss-forcing-dejected-testers-to-restart-the-entire-game/)<!-- GAME:END -->
+ - [Next Week on Xbox – New Games for March 24 – 28](https://news.xbox.com/en-us/2025/03/21/next-week-on-xbox-new-games-for-march-24-28/)
+ - [The best comedy movies to watch on Netflix](https://www.polygon.com/what-to-watch/23316473/best-comedies-netflix-movies-list-watch)
+ - [If you love Severance, you’ll probably love these 6 books, too](https://www.polygon.com/books/543469/books-like-severance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
