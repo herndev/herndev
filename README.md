@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Outer space inspired DayZ&#39;s Dean Hall to become a modder and game developer, and now he&#39;s making a Kerbal successor called Kitten Space Agency](https://www.pcgamer.com/games/sim/dean-hall-kitten-space-agency-inspiration-gdc-interview/)
  - [Wheel World is a Radical Take on Bike Racing](https://news.xbox.com/en-us/2025/03/21/wheel-world-is-a-radical-take-on-bike-racing/)
- - [Kotaku’s Weekend Guide: 5 Awesome Games To Transport Us To A Better Place](https://kotaku.com/kotaku-games-to-play-assassins-creed-shadows-avowed-1851771673)
- - [How to get the Mushroomancer skill in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/541884/mushroomancer-skill-how-to-get-use)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: 5 Awesome Games To Transport Us To A Better Place](https://kotaku.com/kotaku-games-to-play-assassins-creed-shadows-avowed-1851771673)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
