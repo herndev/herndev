@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at LibGen, one of the largest online pirate libraries, with 7.5M+ books and 81M+ research papers, allegedly used by Meta and OpenAI to train AI models &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/250321/p7#a250321p7)
- - [Tencent says it has slowed the pace of its GPU rollout since implementing DeepSeek, and that most of its GPU capex goes toward its ad and gaming businesses &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/250321/p6#a250321p6)
- - [Elara Capital report: Blinkit, Zepto, and Swiggy Instamart are generating $350M to $400M in annualized ad revenue, or ~50% of Amazon India&#39;s FY 2024 ad revenue &lpar;Gaurav Bagur/The Ken&rpar;](http://www.techmeme.com/250321/p5#a250321p5)<!-- TECH:END -->
+ - [Here’s an early look at Gemini’s refreshed UI for attaching files &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/gemini-file-attachment-ui-revamp-apk-3527198/)
+ - [Google Messages could be bringing back a YouTube feature it previously removed &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-bring-back-youtube-pip-apk-teardown-3537350/)
+ - [This upcoming Ultra phone has cameras we probably won’t see on the S26 Ultra](https://www.androidauthority.com/upcoming-ultra-phone-confirmed-camera-specs-3537339/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
