@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mackie CR3.5BT + CR8SBT subwoofer review](https://www.pcgamer.com/hardware/speakers/mackie-cr3-5bt-cr8sbt-subwoofer-review/)
- - [Animal Use Protocol&#39;s dysfunctional chimp-rat alliance drags the Stasis series into a horrible new first-person era](https://www.pcgamer.com/games/horror/animal-use-protocols-dysfunctional-chimp-rat-alliance-drags-the-stasis-series-into-a-horrible-new-first-person-era/)
- - [GOG&#39;s version of Silent Hill 4 has been updated with missing content from the original console game](https://www.pcgamer.com/games/horror/gogs-version-of-silent-hill-4-has-been-updated-with-missing-content-from-the-original-console-game/)<!-- GAME:END -->
+ - [CEO Jensen Huang reveals that Nvidia is now making chips in the USA but will that help with gaming GPU supplies?](https://www.pcgamer.com/hardware/graphics-cards/ceo-jensen-huang-reveals-that-nvidia-is-now-making-chips-in-the-usa-but-will-that-help-with-gaming-gpu-supplies/)
+ - [After Ubi came crawlin&#39; back to Steam, Assassin&#39;s Creed Shadows blasts past a million players in under 24 hours and has already smashed Valhalla&#39;s player record](https://www.pcgamer.com/games/assassins-creed/after-ubi-came-crawlin-back-to-steam-assassins-creed-shadows-blasts-past-a-million-players-in-under-24-hours-and-has-already-smashed-valhallas-player-record/)
+ - [Valve CMO threatened the company would walk away from games if it didn&#39;t own the rights to Half-Life—&#39;It wasn&#39;t an idle threat—we weren&#39;t going to take on all of the risk to make other people rich&#39;](https://www.pcgamer.com/gaming-industry/valve-cmo-threatened-the-company-would-walk-away-from-games-if-it-didnt-own-the-rights-to-half-life-it-wasnt-an-idle-threat-we-werent-going-to-take-on-all-of-the-risk-to-make-other-people-rich/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
