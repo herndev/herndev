@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)
- - ⏩ [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 👉 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/adBO3nM)<!-- MEMES:END -->
+ - 💣 [If someone breaks into your home, the cops prefer if you shoot them](http://9gag.com/gag/avy60Mq)
+ - ⏩ [I&#39;m just a title](http://9gag.com/gag/axy62YD)
+ - 👉 [F**k Ubisoft, but it&#39;s kinda the streamer&#39;s fault for agreeing to work with them](http://9gag.com/gag/aryXpqX)<!-- MEMES:END -->
 
 ---
 
