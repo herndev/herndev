@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hungryroot Meal Kit Review &lpar;2025&rpar;: AI-Guided Menu](https://www.wired.com/review/hungryroot-meal-kit-review/)
- - [Another rare, functional Apple-1 has sold for $375,000 at auction](https://appleinsider.com/articles/25/03/21/another-rare-functional-apple-1-has-sold-for-375000-at-auction?utm_medium=rss)
- - [Sources: the UK weighs reducing or abolishing its 2% digital services tax on UK revenue of Big Tech companies by April 2 in an effort to avoid some US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p23#a250321p23)<!-- TECH:END -->
+ - [Google quietly adds a low-commitment way to use Gemini](https://www.androidauthority.com/google-gemini-login-restriction-3537530/)
+ - [StubHub files for an IPO, with plans to list on the NYSE, and reports a $2.8M loss on $1.77B in revenue in 2024, vs. a $405M profit on $1.37B in revenue in 2023 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250321/p26#a250321p26)
+ - [Perplexity proposes to buy TikTok, says it wants to open source the algorithm and that it is &quot;singularly positioned to rebuild&quot; it &quot;without creating a monopoly&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250321/p25#a250321p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
