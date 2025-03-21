@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps purges over 10,000 fake business profiles](https://www.androidauthority.com/google-maps-fake-business-profiles-3537504/)
- - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Drama over quantum computing&amp;#8217;s future heats up](https://www.theverge.com/tech/633248/beyond-the-hype-of-quantum-computers)<!-- TECH:END -->
+ - [Google says its test removing European news content for 1% of users in eight EU countries found that there was no change to Search ad revenue due to the removal &lpar;Paul Liu/The Keyword&rpar;](http://www.techmeme.com/250321/p29#a250321p29)
+ - [It’s time to squad up in this preview from Apple’s Mythic Quest spinoff series](https://www.theverge.com/news/633884/mythic-quest-side-quest-the-last-raid)
+ - [No DEI allowed for US mergers and acquisitions, says the new FCC chair](https://www.theverge.com/news/634244/fcc-brendan-carr-dei-us-mergers-acquisitions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
