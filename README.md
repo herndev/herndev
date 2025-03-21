@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
- - ⏩ [Stop noticing.](http://9gag.com/gag/aVvKXoM)
- - 👉 [The fart that rules them all](http://9gag.com/gag/axy6N41)<!-- MEMES:END -->
+ - 💣 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
+ - ⏩ [The fart that rules them all](http://9gag.com/gag/axy6N41)
+ - 👉 [This is what I pay the internet for.](http://9gag.com/gag/a5QwdDE)<!-- MEMES:END -->
 
 ---
 
