@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unravel the Dark Fantasy World of Mandragora: Whispers of the Witch Tree](https://news.xbox.com/en-us/2025/03/21/mandragora-whispers-of-the-witch-tree/)
- - [How to play offline single-player in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/542541/how-to-play-offline-single-player)
- - [These Shrek 5 predictions are hysterical because they sound super true](https://www.polygon.com/recommendations/544620/shrek-5-plot-theories)<!-- GAME:END -->
+ - [Helldivers 2 composer recalls stomping around his apartment and channeling &#39;Super Patriotism&#39; to capture Arrowhead&#39;s satirical vision in music: &#39;The satire works because the music believes it&#39;s a pure patriotic love without irony or criticism&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-composer-recalls-stomping-around-his-apartment-and-channeling-super-patriotism-to-capture-arrowheads-satirical-vision-in-music-the-satire-works-because-the-music-believes-its-a-pure-patriotic-love-without-irony-or-criticism/)
+ - [REPO dev says it wasn’t actually inspired by Lethal Company, and started as a singleplayer cleaning game: ‘It was nice, but far from what REPO is now’](https://www.pcgamer.com/games/horror/repo-dev-says-it-wasnt-actually-inspired-by-lethal-company-and-started-as-a-singleplayer-cleaning-game-it-was-nice-but-far-from-what-repo-is-now/)
+ - [&#39;We made one big mistake&#39;: Destiny 2 developer reveals how a small team dedicated to player retention led to a 20 hour server outage and character rollback](https://www.pcgamer.com/games/fps/we-made-one-big-mistake-destiny-2-developer-reveals-how-a-small-team-dedicated-to-player-retention-led-to-a-20-hour-server-outage-and-character-rollback/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
