@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Detective Dotson Puts You in the Shoes of a Reluctant Hero in Modern Day India](https://news.xbox.com/en-us/2025/03/21/detective-dotson-shoes-of-reluctant-hero/)
- - [A Jensen Huang-signed version of this golden Asus RTX 5090 will be auctioned off to support relief efforts for the California wildfires](https://www.pcgamer.com/hardware/graphics-cards/a-jensen-huang-signed-version-of-this-golden-asus-rtx-5090-will-be-auctioned-off-to-support-relief-efforts-for-the-california-wildfires/)
- - [Nvidia CEO sets sights on making &#39;several hundred billion&#39; dollars worth of electronics in the USA over the next four years, increasing the chance of your next GPU being made in America](https://www.pcgamer.com/hardware/graphics-cards/nvidia-ceo-sets-sights-on-making-several-hundred-billion-dollars-worth-of-electronics-in-the-usa-over-the-next-four-years-increasing-the-chance-of-your-next-gpu-being-made-in-america/)<!-- GAME:END -->
+ - [Unravel the Dark Fantasy World of Mandragora: Whispers of the Witch Tree](https://news.xbox.com/en-us/2025/03/21/mandragora-whispers-of-the-witch-tree/)
+ - [How to play offline single-player in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/542541/how-to-play-offline-single-player)
+ - [These Shrek 5 predictions are hysterical because they sound super true](https://www.polygon.com/recommendations/544620/shrek-5-plot-theories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
