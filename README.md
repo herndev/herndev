@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stuff men go through](http://9gag.com/gag/an72q3o)
- - ⏩ [Just left](http://9gag.com/gag/aVvKW1v)
- - 👉 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)<!-- MEMES:END -->
+ - 💣 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
+ - ⏩ [Stop noticing.](http://9gag.com/gag/aVvKXoM)
+ - 👉 [The fart that rules them all](http://9gag.com/gag/axy6N41)<!-- MEMES:END -->
 
 ---
 
