@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google quietly adds a low-commitment way to use Gemini](https://www.androidauthority.com/google-gemini-login-restriction-3537530/)
- - [StubHub files for an IPO, with plans to list on the NYSE, and reports a $2.8M loss on $1.77B in revenue in 2024, vs. a $405M profit on $1.37B in revenue in 2023 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250321/p26#a250321p26)
- - [Perplexity proposes to buy TikTok, says it wants to open source the algorithm and that it is &quot;singularly positioned to rebuild&quot; it &quot;without creating a monopoly&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250321/p25#a250321p25)<!-- TECH:END -->
+ - [Google Maps purges over 10,000 fake business profiles](https://www.androidauthority.com/google-maps-fake-business-profiles-3537504/)
+ - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [Drama over quantum computing&amp;#8217;s future heats up](https://www.theverge.com/tech/633248/beyond-the-hype-of-quantum-computers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
