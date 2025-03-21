@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Assassin&#39;s Creed Shadows Tea Ceremony answers](https://www.pcgamer.com/games/assassins-creed/ac-shadows-tea-ceremony-answers-walkthrough/)
- - [The best early deals in Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/542763/best-early-amazon-big-spring-deals)
- - [How to upgrade weapons and armor in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/543840/upgrade-weapons-armor-gear-how-to)<!-- GAME:END -->
+ - [Detective Dotson Puts You in the Shoes of a Reluctant Hero in Modern Day India](https://news.xbox.com/en-us/2025/03/21/detective-dotson-shoes-of-reluctant-hero/)
+ - [A Jensen Huang-signed version of this golden Asus RTX 5090 will be auctioned off to support relief efforts for the California wildfires](https://www.pcgamer.com/hardware/graphics-cards/a-jensen-huang-signed-version-of-this-golden-asus-rtx-5090-will-be-auctioned-off-to-support-relief-efforts-for-the-california-wildfires/)
+ - [Nvidia CEO sets sights on making &#39;several hundred billion&#39; dollars worth of electronics in the USA over the next four years, increasing the chance of your next GPU being made in America](https://www.pcgamer.com/hardware/graphics-cards/nvidia-ceo-sets-sights-on-making-several-hundred-billion-dollars-worth-of-electronics-in-the-usa-over-the-next-four-years-increasing-the-chance-of-your-next-gpu-being-made-in-america/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
