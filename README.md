@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [By great Nobunaga&#39;s ghost!](http://9gag.com/gag/aZZ8PbQ)
- - ⏩ [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/adBO3nM)
- - 👉 [Sharing my folder #1](http://9gag.com/gag/aD283dx)<!-- MEMES:END -->
+ - 💣 [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)
+ - ⏩ [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 👉 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/adBO3nM)<!-- MEMES:END -->
 
 ---
 
