@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GOG&#39;s version of Silent Hill 4 has been updated with missing content from the original console game](https://www.pcgamer.com/games/horror/gogs-version-of-silent-hill-4-has-been-updated-with-missing-content-from-the-original-console-game/)
- - [Today&#39;s Wordle answer for Friday, March 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-21-2025/)
- - [Wizards of the Coast throws a bone to players who miss vanilla Magic: The Gathering with a dragon-themed set called Tarkir: Dragonstorm](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-throws-a-bone-to-players-who-miss-vanilla-magic-the-gathering-with-a-dragon-themed-set-called-tarkir-dragonstorm/)<!-- GAME:END -->
+ - [Mackie CR3.5BT + CR8SBT subwoofer review](https://www.pcgamer.com/hardware/speakers/mackie-cr3-5bt-cr8sbt-subwoofer-review/)
+ - [Animal Use Protocol&#39;s dysfunctional chimp-rat alliance drags the Stasis series into a horrible new first-person era](https://www.pcgamer.com/games/horror/animal-use-protocols-dysfunctional-chimp-rat-alliance-drags-the-stasis-series-into-a-horrible-new-first-person-era/)
+ - [GOG&#39;s version of Silent Hill 4 has been updated with missing content from the original console game](https://www.pcgamer.com/games/horror/gogs-version-of-silent-hill-4-has-been-updated-with-missing-content-from-the-original-console-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
