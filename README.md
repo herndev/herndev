@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A book excerpt from AI Valley details the 2024 mass defection of staff at Inflection AI, which seemed to be thriving but faced scaling challenges, to Microsoft &lpar;Gary Rivlin/Bloomberg&rpar;](http://www.techmeme.com/250321/p8#a250321p8)
- - [Here’s an early look at Gemini’s refreshed UI for attaching files &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/gemini-file-attachment-ui-revamp-apk-3527198/)
- - [Google Messages could be bringing back a YouTube feature it previously removed &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-bring-back-youtube-pip-apk-teardown-3537350/)<!-- TECH:END -->
+ - [ChatGPT could soon get improved image generation capabilities &lpar;APK teardown&rpar;](https://www.androidauthority.com/chatgpt-reimagined-image-generation-apk-teardown-3537376/)
+ - [Is your Pixel 9’s alarm not working? You aren’t alone.](https://www.androidauthority.com/google-pixel-9-alarms-not-working-3537361/)
+ - [Researchers Rush to Save US Government Data on Trans Youth—Before It Disappears](https://www.wired.com/story/researchers-rush-to-save-data-on-trans-youth-before-it-disappears/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
