@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CEO Jensen Huang reveals that Nvidia is now making chips in the USA but will that help with gaming GPU supplies?](https://www.pcgamer.com/hardware/graphics-cards/ceo-jensen-huang-reveals-that-nvidia-is-now-making-chips-in-the-usa-but-will-that-help-with-gaming-gpu-supplies/)
- - [After Ubi came crawlin&#39; back to Steam, Assassin&#39;s Creed Shadows blasts past a million players in under 24 hours and has already smashed Valhalla&#39;s player record](https://www.pcgamer.com/games/assassins-creed/after-ubi-came-crawlin-back-to-steam-assassins-creed-shadows-blasts-past-a-million-players-in-under-24-hours-and-has-already-smashed-valhallas-player-record/)
- - [Valve CMO threatened the company would walk away from games if it didn&#39;t own the rights to Half-Life—&#39;It wasn&#39;t an idle threat—we weren&#39;t going to take on all of the risk to make other people rich&#39;](https://www.pcgamer.com/gaming-industry/valve-cmo-threatened-the-company-would-walk-away-from-games-if-it-didnt-own-the-rights-to-half-life-it-wasnt-an-idle-threat-we-werent-going-to-take-on-all-of-the-risk-to-make-other-people-rich/)<!-- GAME:END -->
+ - [Final Fantasy 7 Rebirth’s Costa del Sol gives so much wanderlust it hurts](https://www.polygon.com/gaming/538594/final-fantasy-7-rebirth-costa-del-sol)
+ - [Friendship ended with human race: Boffins declare the &#39;meme Turing test&#39; has been passed, and AI is now making funnier captions on average than you useless lumps](https://www.pcgamer.com/gaming-industry/friendship-ended-with-human-race-boffins-declare-the-meme-turing-test-has-been-passed-and-ai-is-now-making-funnier-captions-on-average-than-you-useless-lumps/)
+ - [Baldur&#39;s Gate 3&#39;s latest stress test update fixes heartbreaking bug that caused a total party-wipe on Ironman Mode at the game&#39;s final boss, forcing dejected testers to restart the entire game](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3s-latest-stress-test-update-fixes-heartbreaking-bug-that-caused-a-total-party-wipe-on-ironman-mode-at-the-games-final-boss-forcing-dejected-testers-to-restart-the-entire-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
