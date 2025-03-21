@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Nightdive Remastered System Shock 2 Instead of Remaking It](https://news.xbox.com/en-us/2025/03/20/why-nightdive-remastered-system-shock-2-instead-of-remaking-it/)
- - [Slender: The Arrival VR arrives on PS VR2 May 13](https://blog.playstation.com/2025/03/20/slender-the-arrival-vr-arrives-on-ps-vr2-may-13/)
- - [Slender: The Arrival VR arrives on PS VR2 May 13](https://blog.playstation.com/2025/03/20/slender-the-arrival-vr-arrives-on-ps-vr2-may-13/)<!-- GAME:END -->
+ - [Lonely Mountains: Snow Riders is getting a new mountain next month and a whole bunch more throughout the year, including a game editor](https://www.pcgamer.com/games/racing/lonely-mountains-snow-riders-is-getting-a-new-mountain-next-month-and-a-whole-bunch-more-throughout-the-year-including-a-game-editor/)
+ - [&#39;The Middle East&#39;s answer to Marvel Rivals&#39; is an &#39;AI-powered&#39;, crypto-infused hero shooter that looks like hot garbage](https://www.pcgamer.com/games/third-person-shooter/the-middle-easts-answer-to-marvel-rivals-is-an-ai-powered-crypto-infused-hero-shooter-that-looks-like-hot-garbage/)
+ - [Clair Obscur: Expedition 33&#39;s director was &#39;starving for new turn-based RPGs,&#39; and figured if he wanted them, there would be others out there who&#39;d want to play his game](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-director-was-starving-for-new-turn-based-rpgs-and-figured-if-he-wanted-them-there-would-be-others-out-there-whod-want-to-play-his-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
