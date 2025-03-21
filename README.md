@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A book excerpt from AI Valley details the 2024 mass defection of staff at Inflection AI, which seemed to be thriving but faced scaling challenges, to Microsoft &lpar;Gary Rivlin/Bloomberg&rpar;](http://www.techmeme.com/250321/p8#a250321p8)
  - [Here’s an early look at Gemini’s refreshed UI for attaching files &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/gemini-file-attachment-ui-revamp-apk-3527198/)
- - [Google Messages could be bringing back a YouTube feature it previously removed &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-bring-back-youtube-pip-apk-teardown-3537350/)
- - [This upcoming Ultra phone has cameras we probably won’t see on the S26 Ultra](https://www.androidauthority.com/upcoming-ultra-phone-confirmed-camera-specs-3537339/)<!-- TECH:END -->
+ - [Google Messages could be bringing back a YouTube feature it previously removed &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-bring-back-youtube-pip-apk-teardown-3537350/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
