@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)
- - ⏩ [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
- - 👉 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)<!-- MEMES:END -->
+ - 💣 [Rage from the Archives](http://9gag.com/gag/ayN6EzV)
+ - ⏩ [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 👉 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)<!-- MEMES:END -->
 
 ---
 
