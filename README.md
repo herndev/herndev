@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Exams](http://9gag.com/gag/a0eVmzO)
- - ⏩ [When your mom farted.](http://9gag.com/gag/aByLDvz)
- - 👉 [Hi bros.. Just got the paternity test and found out that my 5yr old son is not mine. My first post cuz im drunk.. Cheers &gt;&lt;](http://9gag.com/gag/a870LDe)<!-- MEMES:END -->
+ - 💣 [UK being UK](http://9gag.com/gag/aZZ8WQn)
+ - ⏩ [F**k Ubisoft, but it&#39;s kinda the streamer&#39;s fault for agreeing to work with them](http://9gag.com/gag/aryXpqX)
+ - 👉 [Men only want one thing and it&#39;s](http://9gag.com/gag/aVvKQRd)<!-- MEMES:END -->
 
 ---
 
