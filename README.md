@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages preps to fast-forward your forwards &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-media-forwarding-shortcut-apk-teardown-3537331/)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, March 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-21/#ftag=CAD590a51e)
- - [Denver-based Multiply Mortgage, which provides an AI-based mortgage origination service for tech employees, raised a $23.5M Series A led by Kleiner Perkins &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250320/p47#a250320p47)<!-- TECH:END -->
+ - [A look at Chinese AI startup Manycore, which develops spatial design software, has filed for a Hong Kong IPO, and reported a $58.3M loss from Q1 to Q3 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p2#a250321p2)
+ - [Shipments of India-manufactured smartphones grew 6% YoY in 2024, with Samsung and Apple accounting for ~94% of exports; Samsung&#39;s India exports grew 13% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250321/p1#a250321p1)
+ - [Google Messages preps to fast-forward your forwards &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-media-forwarding-shortcut-apk-teardown-3537331/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
