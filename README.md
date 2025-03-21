@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
- - ⏩ [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 👉 [Ma man](http://9gag.com/gag/ae9Z08Q)<!-- MEMES:END -->
+ - 💣 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
+ - ⏩ [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)
+ - 👉 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)<!-- MEMES:END -->
 
 ---
 
