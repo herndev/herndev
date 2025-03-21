@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: North Korea is launching a new cybersecurity research unit called Research Center 227 focused on AI-based hacking and stealing digital assets &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250321/p12#a250321p12)
- - [ChatGPT accused of saying an innocent man murdered his children](https://www.theverge.com/news/633700/chatgpt-openai-child-murderer-ai-hallucination-norway-noyb)
- - [Apple striving for better iPhone fold battery life](https://appleinsider.com/articles/25/03/21/apple-striving-for-better-iphone-fold-battery-life?utm_medium=rss)<!-- TECH:END -->
+ - [M4 MacBook Air review: More power than ever, at a lower price point](https://appleinsider.com/articles/25/03/21/m4-macbook-air-review-more-power-than-ever-at-a-lower-price-point?utm_medium=rss)
+ - [The latest Moto G is proof that three bad cameras don’t equal one good one](https://www.androidauthority.com/motorola-moto-g-camera-struggles-3533657/)
+ - [Severance is returning for season 3](https://www.theverge.com/news/633737/severance-apple-tv-plus-season-3-renewal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
