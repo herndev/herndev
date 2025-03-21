@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rage from the Archives](http://9gag.com/gag/ayN6EzV)
- - ⏩ [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 👉 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)<!-- MEMES:END -->
+ - 💣 [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - ⏩ [The fart that rules them all](http://9gag.com/gag/axy6N41)
+ - 👉 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)<!-- MEMES:END -->
 
 ---
 
