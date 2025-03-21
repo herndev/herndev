@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Heathrow airport shutdown creates travel chaos](https://www.theverge.com/news/633687/heathrow-airport-closure-fire-power-outage-flights)
- - [How to Avoid US-Based Digital Services—and Why You Might Want To](https://www.wired.com/story/trump-era-digital-expat/)
- - [Micron Q2: revenue up 38% YoY to $8.05B vs. $7.89B est., net income up 99% to $1.58B, says data center revenue tripled, offers better-than-expected Q3 guidance &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250321/p10#a250321p10)<!-- TECH:END -->
+ - [Report: North Korea is launching a new cybersecurity research unit called Research Center 227 focused on AI-based hacking and stealing digital assets &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250321/p12#a250321p12)
+ - [ChatGPT accused of saying an innocent man murdered his children](https://www.theverge.com/news/633700/chatgpt-openai-child-murderer-ai-hallucination-norway-noyb)
+ - [Apple striving for better iPhone fold battery life](https://appleinsider.com/articles/25/03/21/apple-striving-for-better-iphone-fold-battery-life?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
