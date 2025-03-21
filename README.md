@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - ⏩ [The fart that rules them all](http://9gag.com/gag/axy6N41)
- - 👉 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)<!-- MEMES:END -->
+ - 💣 [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
+ - ⏩ [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 👉 [Ma man](http://9gag.com/gag/ae9Z08Q)<!-- MEMES:END -->
 
 ---
 
