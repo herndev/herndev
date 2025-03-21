@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 MacBook Air review: More power than ever, at a lower price point](https://appleinsider.com/articles/25/03/21/m4-macbook-air-review-more-power-than-ever-at-a-lower-price-point?utm_medium=rss)
- - [The latest Moto G is proof that three bad cameras don’t equal one good one](https://www.androidauthority.com/motorola-moto-g-camera-struggles-3533657/)
- - [Severance is returning for season 3](https://www.theverge.com/news/633737/severance-apple-tv-plus-season-3-renewal)<!-- TECH:END -->
+ - [Severance brought everything together in its season 2 finale](https://www.theverge.com/tv-reviews/633739/severance-season-2-finale-review)
+ - [The Pixel 10 will have faster startup performance thanks to this Android change](https://www.androidauthority.com/pixel-10-startup-performance-3537302/)
+ - [New Apple TV+ studio buildings taking shape in Culver City](https://appleinsider.com/articles/25/03/20/construction-begins-on-delayed-apple-tv-studios?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
