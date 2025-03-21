@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s crazy.](http://9gag.com/gag/a6Z5m0m)
- - ⏩ [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 👉 [There was blood everywhere on the streets...](http://9gag.com/gag/ajPLnWx)<!-- MEMES:END -->
+ - 💣 [Just left](http://9gag.com/gag/aVvKW1v)
+ - ⏩ [I feel you, brother](http://9gag.com/gag/aW4nZEZ)
+ - 👉 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)<!-- MEMES:END -->
 
 ---
 
