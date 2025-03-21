@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ma man](http://9gag.com/gag/ae9Z08Q)
- - ⏩ [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
- - 👉 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)<!-- MEMES:END -->
+ - 💣 [It&#39;s crazy.](http://9gag.com/gag/a6Z5m0m)
+ - ⏩ [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
+ - 👉 [There was blood everywhere on the streets...](http://9gag.com/gag/ajPLnWx)<!-- MEMES:END -->
 
 ---
 
