@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Argentina-based neobank Ual&amp;aacute; raised an additional $66M for its Series E, after an initial raise of $300M led by Allianz X at a $2.75B valuation in November 2024 &lpar;Carolina Millan/Bloomberg&rpar;](http://www.techmeme.com/250320/p43#a250320p43)
- - [The System Shock 2 remaster comes out June 26th](https://www.theverge.com/pc-gaming/633595/system-shock-2-remaster-xbox-playstation-pc-release-date)
- - [Motorola’s hottest phones are on sale right now](https://www.androidauthority.com/motorola-razr-plus-2024-razr-2024-g-stylus-5g-2024-deals-3537237/)<!-- TECH:END -->
+ - [&#39;We Don’t Want an AI Demo, We Want Answers’: Federal Workers Grill Trump Appointee During All-Hands](https://www.wired.com/story/gsa-staff-all-hands-meeting-ai/)
+ - [This awesome Anker Flat Plug Power Strip 300J is only $20 right now](https://www.androidauthority.com/anker-flat-plug-power-strip-300j-deal-3537236/)
+ - [The US SEC says proof-of-work crypto mining doesn&#39;t trigger federal securities laws and mining operators do not need to register their transactions with the SEC &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250320/p44#a250320p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
