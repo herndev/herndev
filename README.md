@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s One UI 7 release plans somehow just got even more confusing](https://www.androidauthority.com/samsung-one-ui-7-us-date-3537444/)
- - [What to expect from the M5 MacBook Pro, and when to expect it](https://appleinsider.com/articles/25/03/21/what-to-expect-from-the-m5-macbook-pro-and-when-to-expect-it?utm_medium=rss)
- - [OnePlus could finally be launching a smaller smartwatch](https://www.androidauthority.com/oneplus-oppo-watch-x2-mini-smartwatch-3537442/)<!-- TECH:END -->
+ - [Motorola Razr Plus 2025 leak shows off stunning new wood panel](https://www.androidauthority.com/motorola-razr-plus-wood-back-3537458/)
+ - [Sources: Coinbase is in advanced talks to buy Deribit, the largest bitcoin and ether options trading platform, which was reportedly valued at $4B-$5B in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p22#a250321p22)
+ - [Yahoo is selling TechCrunch](https://www.theverge.com/news/633950/yahoo-selling-techcrunch-regent-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
