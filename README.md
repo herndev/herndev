@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A dogs hearing](http://9gag.com/gag/ajPLnD0)
- - ⏩ [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
- - 👉 [According to Sun Tzu, if instructions are not clear, the fault lies with the commander](http://9gag.com/gag/aByVQDN)<!-- MEMES:END -->
+ - 💣 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - ⏩ [Ma man](http://9gag.com/gag/ae9Z08Q)
+ - 👉 [HAH! Got eem&#39;](http://9gag.com/gag/a870jj1)<!-- MEMES:END -->
 
 ---
 
