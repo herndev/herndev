@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox – New Games for March 24 – 28](https://news.xbox.com/en-us/2025/03/21/next-week-on-xbox-new-games-for-march-24-28/)
- - [The best comedy movies to watch on Netflix](https://www.polygon.com/what-to-watch/23316473/best-comedies-netflix-movies-list-watch)
- - [If you love Severance, you’ll probably love these 6 books, too](https://www.polygon.com/books/543469/books-like-severance)<!-- GAME:END -->
+ - [Overwatch 2: The Best Perk Choices For Tank Heroes](https://kotaku.com/overwatch-2-tanks-best-perks-dva-doomfist-hazard-orisa-1851771469)
+ - [Suzanne Collins wants to use Hunger Games to fix our media literacy problem](https://www.polygon.com/books/544109/hunger-games-sunrise-on-the-reaping-explained-media-literacy-analysis)
+ - [Microsoft announces DirectX Raytracing 1.2 claiming &#39;game changing&#39; performance benefits but it looks like the important stuff is already in Nvidia&#39;s RTX GPUs, even the old ones](https://www.pcgamer.com/hardware/graphics-cards/microsoft-announces-directx-raytracing-1-2-claiming-game-changing-performance-benefits-but-it-looks-like-the-important-stuff-is-already-in-nvidias-rtx-gpus-even-the-old-ones/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
