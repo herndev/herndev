@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wizards of the Coast throws a bone to players who miss vanilla Magic: The Gathering with a dragon-themed set called Tarkir: Dragonstorm](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-throws-a-bone-to-players-who-miss-vanilla-magic-the-gathering-with-a-dragon-themed-set-called-tarkir-dragonstorm/)
  - [Lonely Mountains: Snow Riders is getting a new mountain next month and a whole bunch more throughout the year, including a game editor](https://www.pcgamer.com/games/racing/lonely-mountains-snow-riders-is-getting-a-new-mountain-next-month-and-a-whole-bunch-more-throughout-the-year-including-a-game-editor/)
- - [&#39;The Middle East&#39;s answer to Marvel Rivals&#39; is an &#39;AI-powered&#39;, crypto-infused hero shooter that looks like hot garbage](https://www.pcgamer.com/games/third-person-shooter/the-middle-easts-answer-to-marvel-rivals-is-an-ai-powered-crypto-infused-hero-shooter-that-looks-like-hot-garbage/)
- - [Clair Obscur: Expedition 33&#39;s director was &#39;starving for new turn-based RPGs,&#39; and figured if he wanted them, there would be others out there who&#39;d want to play his game](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-director-was-starving-for-new-turn-based-rpgs-and-figured-if-he-wanted-them-there-would-be-others-out-there-whod-want-to-play-his-game/)<!-- GAME:END -->
+ - [&#39;The Middle East&#39;s answer to Marvel Rivals&#39; is an &#39;AI-powered&#39;, crypto-infused hero shooter that looks like hot garbage](https://www.pcgamer.com/games/third-person-shooter/the-middle-easts-answer-to-marvel-rivals-is-an-ai-powered-crypto-infused-hero-shooter-that-looks-like-hot-garbage/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
