@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - ⏩ [Ma man](http://9gag.com/gag/ae9Z08Q)
- - 👉 [HAH! Got eem&#39;](http://9gag.com/gag/a870jj1)<!-- MEMES:END -->
+ - 💣 [Ma man](http://9gag.com/gag/ae9Z08Q)
+ - ⏩ [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
+ - 👉 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)<!-- MEMES:END -->
 
 ---
 
