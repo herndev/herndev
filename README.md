@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - ⏩ [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 👉 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/adBO3nM)<!-- MEMES:END -->
+ - 💣 [Heh](http://9gag.com/gag/avy60pn)
+ - ⏩ [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)
+ - 👉 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)<!-- MEMES:END -->
 
 ---
 
