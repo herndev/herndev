@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT could soon get improved image generation capabilities &lpar;APK teardown&rpar;](https://www.androidauthority.com/chatgpt-reimagined-image-generation-apk-teardown-3537376/)
- - [Is your Pixel 9’s alarm not working? You aren’t alone.](https://www.androidauthority.com/google-pixel-9-alarms-not-working-3537361/)
- - [Researchers Rush to Save US Government Data on Trans Youth—Before It Disappears](https://www.wired.com/story/researchers-rush-to-save-data-on-trans-youth-before-it-disappears/)<!-- TECH:END -->
+ - [Heathrow airport shutdown creates travel chaos](https://www.theverge.com/news/633687/heathrow-airport-closure-fire-power-outage-flights)
+ - [How to Avoid US-Based Digital Services—and Why You Might Want To](https://www.wired.com/story/trump-era-digital-expat/)
+ - [Micron Q2: revenue up 38% YoY to $8.05B vs. $7.89B est., net income up 99% to $1.58B, says data center revenue tripled, offers better-than-expected Q3 guidance &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250321/p10#a250321p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
