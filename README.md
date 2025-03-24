@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $150 on a brand-new Samsung Galaxy S25 Plus](https://www.androidauthority.com/samsung-galaxy-s25-plus-deal-3537956/)
- - [Are you cleaning your Pixel Buds Pro 2 wrong? Google reveals the right way](https://www.androidauthority.com/pixel-buds-pro-2-cleaning-steps-3537975/)
- - [How to Delete Your Data From 23andMe](https://www.wired.com/story/how-to-delete-your-data-from-23andme/)<!-- TECH:END -->
+ - [Samsung restores its One UI 7 US release plans as quietly as it took them down](https://www.androidauthority.com/samsung-one-ui-7-us-release-3537999/)
+ - [Trump officials planned a military strike over Signal – with a magazine editor on the line](https://www.theverge.com/news/635042/the-atlantic-pete-hegseth-houthi-signal-group-chat)
+ - [Alleged Snowflake hacker agrees to be extradited to the US](https://www.theverge.com/news/635044/conner-moucka-snowflake-breach-us-extradition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
