@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
- - ⏩ [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
- - 👉 [Finland as a country do not exist !](http://9gag.com/gag/a5QwrLV)<!-- MEMES:END -->
+ - 💣 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
+ - ⏩ [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
 
 ---
 
