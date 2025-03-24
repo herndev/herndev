@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My Hero Academia Final Season is coming to Crunchyroll in October](https://www.polygon.com/anime/545139/my-hero-academia-final-season-trailer-release-date)
- - [The First Berserker: Khazan Is Way Better Than I Expected](https://kotaku.com/first-berserker-khazan-review-anime-soulslike-rpg-1851771917)
- - [One of Valve&#39;s original executives shares a very simple secret to its success: &#39;You can&#39;t use up your credibility&#39; by trying to make bad games work](https://www.pcgamer.com/gaming-industry/one-of-valves-original-executives-shares-a-very-simple-secret-to-its-success-you-cant-use-up-your-credibility-by-trying-to-make-bad-games-work/)<!-- GAME:END -->
+ - [Skyrim realism mod fixes your vampire girlfriend, giving her a voice and look more suited to someone who just got out of a coffin after 2,000 years](https://www.pcgamer.com/games/the-elder-scrolls/skyrim-realism-mod-fixes-your-vampire-girlfriend-giving-her-a-voice-and-look-more-suited-to-someone-who-just-got-out-of-a-coffin-after-2-000-years/)
+ - [‘One of the most atrocious games ever published’ is coming to Steam, and it’s not a joke](https://www.polygon.com/news/545206/big-rigs-over-road-racing-steam-pc-release-date-2025)
+ - [&#39;No real human would go four links deep into a maze of AI-generated nonsense&#39;: Cloudflare&#39;s AI Labyrinth uses decoy pages to trap web-crawling bots and feed them slop &#39;as a defensive weapon&#39;](https://www.pcgamer.com/software/ai/no-real-human-would-go-four-links-deep-into-a-maze-of-ai-generated-nonsense-cloudflares-ai-labyrinth-uses-decoy-pages-to-trap-web-crawling-bots-and-feed-them-slop-as-a-defensive-weapon/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
