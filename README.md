@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
- - ⏩ [It can even go lower!](http://9gag.com/gag/aGyBZwz)
- - 👉 [So, who gets it?](http://9gag.com/gag/a4PNGKm)<!-- MEMES:END -->
+ - 💣 [Pew pew motherf....](http://9gag.com/gag/aGyBDXZ)
+ - ⏩ [Who else did this as a kid?](http://9gag.com/gag/aNDQYAG)
+ - 👉 [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)<!-- MEMES:END -->
 
 ---
 
