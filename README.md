@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pew pew motherf....](http://9gag.com/gag/aGyBDXZ)
- - ⏩ [Who else did this as a kid?](http://9gag.com/gag/aNDQYAG)
- - 👉 [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)<!-- MEMES:END -->
+ - 💣 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
+ - ⏩ [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 👉 [Never thought about.](http://9gag.com/gag/a0e05Md)<!-- MEMES:END -->
 
 ---
 
