@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well...Duh!](http://9gag.com/gag/aO8ZYmy)
- - ⏩ [F**k tech](http://9gag.com/gag/azxK9EK)
- - 👉 [Understandable, have a nice day](http://9gag.com/gag/aVvKYKw)<!-- MEMES:END -->
+ - 💣 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
+ - ⏩ [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
+ - 👉 [Finland as a country do not exist !](http://9gag.com/gag/a5QwrLV)<!-- MEMES:END -->
 
 ---
 
