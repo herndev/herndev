@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blowout deal: Grab Apple&#39;s M3 MacBook Air with 16GB RAM for record low $799](https://appleinsider.com/articles/25/03/24/blowout-deal-grab-apples-m3-macbook-air-with-16gb-ram-for-record-low-799?utm_medium=rss)
- - [Massachusetts&#39; top securities regulator probes Robinhood&#39;s decision to launch a prediction markets hub, after sending the company a subpoena last week &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/250324/p18#a250324p18)
- - [iOS 18.4 RC Is Out: Your iPhone Could Get New Emoji and More Soon](https://www.cnet.com/tech/services-and-software/ios-18-4-rc-is-out-your-iphone-could-get-new-emoji-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ugreen x Genshin Impact charger review: A neat iPhone charging crossover for gamers](https://appleinsider.com/articles/25/03/24/ugreen-x-genshin-impact-charger-review-a-neat-iphone-charging-crossover-for-gamers?utm_medium=rss)
+ - [Apple’s iOS 18.4 update with AI-powered Priority Notifications is almost here](https://www.theverge.com/news/634920/apple-ios-18-4-priority-notifications-release-candidate)
+ - [Babbel deal: Learn new languages for life for just $124.99](https://www.androidauthority.com/babbel-lifetime-subscription-deal-3537957/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
