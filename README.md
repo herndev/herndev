@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coach yanked player\u2019s ponytail after they lost the game](http://9gag.com/gag/aW4nYA4)
- - ⏩ [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
- - 👉 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)<!-- MEMES:END -->
+ - 💣 [That was awesome](http://9gag.com/gag/amo6742)
+ - ⏩ [Demineralized water?](http://9gag.com/gag/aXPVx96)
+ - 👉 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)<!-- MEMES:END -->
 
 ---
 
