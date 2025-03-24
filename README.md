@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Splice CEO Kakul Srivastava on where to draw hard lines around AI in music](https://www.theverge.com/decoder-podcast-with-nilay-patel/632036/splice-ceo-kakul-srivastava-on-why-ai-will-never-replace-human-creativity)
- - [Apple finally brings lossless audio and low-latency audio to AirPods Max](https://appleinsider.com/articles/25/03/24/apple-finally-brings-lossless-audio-and-low-latency-audio-to-airpods-max?utm_medium=rss)
- - [Apple says the AirPods Max will get 24-bit, 48 kHz lossless audio, including Personalized Spatial Audio, and ultra‑low latency in April via a software update &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250324/p11#a250324p11)<!-- TECH:END -->
+ - [Amazon slashes Apple Watch styles to as low as $169 &lpar;save up to $100&rpar;](https://appleinsider.com/articles/25/03/24/amazon-slashes-apple-watch-styles-to-as-low-as-169-save-up-to-100?utm_medium=rss)
+ - [Rivian now has a bedroom to go with its kitchen](https://www.theverge.com/news/634607/rivian-camping-skycamp-mini-ikamper-tent)
+ - [Q&amp;A with Splice CEO Kakul Srivastava on the music creation platform, the economics of creator platforms, why creatives &quot;deserve better&quot; than AI tools, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250324/p13#a250324p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
