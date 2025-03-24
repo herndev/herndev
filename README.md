@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI has gone so heavy with 12V-2x6 power sockets in its latest high-end PSUs that many AMD and Intel graphics cards have no way of being powered](https://www.pcgamer.com/hardware/power-supplies/msi-has-gone-so-heavy-with-12v-2x6-power-sockets-in-its-latest-high-end-psus-that-many-amd-and-intel-graphics-cards-have-no-way-of-being-powered/)
- - [Atomfall Arrives: Six Tips to Survive the Quarantine Zone](https://news.xbox.com/en-us/2025/03/24/atomfall-launch-tips/)
- - [You are Phil Spencer. Which Ubisoft IP do you buy?](https://www.polygon.com/gaming/544628/ubisoft-ip-sale-microsoft-phil-spencer-not-assassins-creed)<!-- GAME:END -->
+ - [Celebrate 20 Years of Forza Motorsport with the Legendary Fujimi Kaido Track](https://forza.net/news/forza-motorsport-20-anniversary/#new_tab)
+ - [Gabe Newell had his eyes on a social network in the &#39;90s that &#39;was not in a games context at all&#39;—meaning Valve-owned social media could&#39;ve been a very real thing](https://www.pcgamer.com/gaming-industry/gabe-newell-had-his-eyes-on-a-social-network-in-the-90s-that-was-not-in-a-games-context-at-all-meaning-valve-owned-social-media-couldve-been-a-very-real-thing/)
+ - [Minecraft Is Getting A Major Visual Upgrade, Flying Mounts, And My Favorite Quality Of Life Feature In Years](https://kotaku.com/minecraft-vibrant-visuals-ghasts-bedrock-edition-1851771891)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
