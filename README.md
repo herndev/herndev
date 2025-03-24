@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
- - ⏩ [\u201cI got slapped for nothing!\u201d](http://9gag.com/gag/aGyBgVG)
- - 👉 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)<!-- MEMES:END -->
+ - 💣 [They didn&#39;t even spare the damn bird](http://9gag.com/gag/aAyKxqg)
+ - ⏩ [________O__o_________](http://9gag.com/gag/awy1A51)
+ - 👉 [It can even go lower!](http://9gag.com/gag/aGyBZwz)<!-- MEMES:END -->
 
 ---
 
