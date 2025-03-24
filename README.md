@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
- - ⏩ [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
- - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
+ - 💣 [Now, blow the candles!](http://9gag.com/gag/a7o0MMb)
+ - ⏩ [F**k tech](http://9gag.com/gag/azxK9EK)
+ - 👉 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)<!-- MEMES:END -->
 
 ---
 
