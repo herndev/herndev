@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
- - ⏩ [How easy it\u2019s to copy keys](http://9gag.com/gag/aMVPjLV)
- - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
+ - 💣 [I\u2019m sure I\u2019ve posted this before, or something similar, but it\u2019s always worth a repost](http://9gag.com/gag/aD28xL9)
+ - ⏩ [F**k tech](http://9gag.com/gag/azxK9EK)
+ - 👉 [Well...Duh!](http://9gag.com/gag/aO8ZYmy)<!-- MEMES:END -->
 
 ---
 
