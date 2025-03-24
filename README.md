@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
- - ⏩ [Demineralized water?](http://9gag.com/gag/aXPVx96)
- - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
+ - 💣 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
+ - ⏩ [\u201cI got slapped for nothing!\u201d](http://9gag.com/gag/aGyBgVG)
+ - 👉 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)<!-- MEMES:END -->
 
 ---
 
