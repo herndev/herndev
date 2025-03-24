@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate 20 Years of Forza Motorsport with the Legendary Fujimi Kaido Track](https://forza.net/news/forza-motorsport-20-anniversary/#new_tab)
- - [Gabe Newell had his eyes on a social network in the &#39;90s that &#39;was not in a games context at all&#39;—meaning Valve-owned social media could&#39;ve been a very real thing](https://www.pcgamer.com/gaming-industry/gabe-newell-had-his-eyes-on-a-social-network-in-the-90s-that-was-not-in-a-games-context-at-all-meaning-valve-owned-social-media-couldve-been-a-very-real-thing/)
- - [Minecraft Is Getting A Major Visual Upgrade, Flying Mounts, And My Favorite Quality Of Life Feature In Years](https://kotaku.com/minecraft-vibrant-visuals-ghasts-bedrock-edition-1851771891)<!-- GAME:END -->
+ - [If you&#39;ve ever wanted to upgrade a laptop with &#39;modular AI units&#39; then Compal might just have the very thing you&#39;re looking for](https://www.pcgamer.com/hardware/gaming-laptops/if-youve-ever-wanted-to-upgrade-a-laptop-with-modular-ai-units-then-compal-might-just-have-the-very-thing-youre-looking-for/)
+ - [TCG Card Shop Simulator finally adds the ability to decorate our stores, and suddenly all my profits are being spent on adorable Pigni posters](https://www.pcgamer.com/games/sim/tcg-card-shop-simulator-finally-adds-the-ability-to-decorate-our-stores-and-suddenly-all-my-profits-are-being-spent-on-adorable-pigni-posters/)
+ - [By the way, you can have a ton of pets in Assassin’s Creed Shadows](https://www.polygon.com/gaming/545165/assassins-creed-shadows-pets-cats-dogs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
