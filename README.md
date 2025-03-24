@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ugreen x Genshin Impact charger review: A neat iPhone charging crossover for gamers](https://appleinsider.com/articles/25/03/24/ugreen-x-genshin-impact-charger-review-a-neat-iphone-charging-crossover-for-gamers?utm_medium=rss)
- - [Apple’s iOS 18.4 update with AI-powered Priority Notifications is almost here](https://www.theverge.com/news/634920/apple-ios-18-4-priority-notifications-release-candidate)
- - [Babbel deal: Learn new languages for life for just $124.99](https://www.androidauthority.com/babbel-lifetime-subscription-deal-3537957/)<!-- TECH:END -->
+ - [Save $150 on a brand-new Samsung Galaxy S25 Plus](https://www.androidauthority.com/samsung-galaxy-s25-plus-deal-3537956/)
+ - [Are you cleaning your Pixel Buds Pro 2 wrong? Google reveals the right way](https://www.androidauthority.com/pixel-buds-pro-2-cleaning-steps-3537975/)
+ - [How to Delete Your Data From 23andMe](https://www.wired.com/story/how-to-delete-your-data-from-23andme/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
