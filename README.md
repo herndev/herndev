@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Shadows has a hidden technique for creating stunningly realistic wind](https://www.polygon.com/news/545610/assassins-creed-shadows-wind-simulation-graphics-technology)
- - [Assassin&#39;s Creed Shadows streamer goes viral after confronting whining commenters: &#39;Normal people don&#39;t get upset about this sh***&#39;](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-streamer-goes-viral-after-confronting-whining-commenters-normal-people-dont-get-upset-about-this-sh/)
- - [‘Heads Will Roll’ walkthrough in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/545204/heads-will-roll-walkthrough-yaya-mitsumune-spare-kill-soldiers)<!-- GAME:END -->
+ - [How to get more rations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/540090/rations-increase-capacity-efficiency-how-to-upgrade)
+ - [All allies in Assassin’s Creed Shadows and how to recruit them](https://www.polygon.com/assassins-creed-shadows-guides/542428/companions-allies-how-to-recruit-all-list)
+ - [Metaphor: ReFantazio battle director says turn-based RPGs can still be just as popular as action RPGs: &#39;I personally believe turn-based games have a long future ahead of them&#39;](https://www.pcgamer.com/games/rpg/metaphor-refantazio-battle-director-says-turn-based-rpgs-can-still-be-just-as-popular-as-action-rpgs-i-personally-believe-turn-based-games-have-a-long-future-ahead-of-them/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
