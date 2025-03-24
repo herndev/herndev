@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
- - ⏩ [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
- - 👉 [Never thought about.](http://9gag.com/gag/a0e05Md)<!-- MEMES:END -->
+ - 💣 [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)
+ - ⏩ [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
+ - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
 
 ---
 
