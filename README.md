@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: South Korean chip startup FuriosaAI rejected an $800M takeover offer from Meta, opting to grow independently instead &lpar;Bloomberg&rpar;](http://www.techmeme.com/250324/p3#a250324p3)
- - [Amazon drops AirPods 4 to $99.99, AirPods Pro 2 to $169.99 ahead of Big Spring Sale](https://appleinsider.com/articles/25/03/24/amazon-drops-airpods-4-to-9999-airpods-pro-2-to-16999-ahead-of-big-spring-sale?utm_medium=rss)
- - [Google TV app may be getting a blue makeover and fresh features &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tv-app-may-be-getting-a-blue-makeover-and-fresh-features-apk-teardown-3537698/)<!-- TECH:END -->
+ - [Malaysia plans to tighten chip rules, says Washington demanded it track high-end Nvidia chips entering the country, suspecting many are ending up in China &lpar;Financial Times&rpar;](http://www.techmeme.com/250324/p4#a250324p4)
+ - [Trump’s Aggression Sours Europe on US Cloud Giants](https://www.wired.com/story/trump-us-cloud-services-europe/)
+ - [Source: South Korean chip startup FuriosaAI rejected an $800M takeover offer from Meta, opting to grow independently instead &lpar;Bloomberg&rpar;](http://www.techmeme.com/250324/p3#a250324p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
