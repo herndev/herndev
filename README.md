@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Space Heater Safety Tips: How Not to Set a Fire](https://www.wired.com/story/space-heater-safety-tips/)
- - [CB Insights: Q1 2025 had 11 startup sales worth $1B+ or more, totaling a record $54.5B, up from two acquisitions worth $1B+ in Q1 2024, totaling $3.2B &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250324/p10#a250324p10)
- - [Teacher training in rural China boosted by Apple donations](https://appleinsider.com/articles/25/03/24/teacher-training-in-rural-china-boosted-by-apple-donations?utm_medium=rss)<!-- TECH:END -->
+ - [Why I spent $225 on an old, outdated Pebble smartwatch](https://www.androidauthority.com/why-i-bought-old-pebble-smartwatch-3537081/)
+ - [GoPro’s anamorphic lens is fun, fuss-free, and now available to buy](https://www.theverge.com/news/634504/gopro-hero-13-black-anamorphic-lens-availability)
+ - [Gemini Live is ready to overtake your Android phone’s power button &lpar;Updated: Better screenshots&rpar;](https://www.androidauthority.com/gemini-live-power-button-gesture-apk-3532321/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
