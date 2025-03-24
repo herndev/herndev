@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft unveils 11 Security Copilot AI agents, five created by partners, that do things like triage phishing and data loss alerts, coming to preview in April &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250324/p15#a250324p15)
- - [How to delete your 23andMe data](https://www.theverge.com/news/634680/23andme-genetic-data-account-deletion-how-to)
- - [Pixel 9a delay sparks speculation of overheating issues, but don’t lose hope](https://www.androidauthority.com/google-pixel-9a-delayed-availability-heat-issue-3537855/)<!-- TECH:END -->
+ - [Alienware’s AW2725DF OLED gaming monitor is a steal at $599.99](https://www.theverge.com/tech/634773/alienware-aw2725df-oled-gaming-monitor-deal-sale)
+ - [HomePod Mini 2 rumors, Nanoleaf monitor lights, &amp; cameras in Matter 1.5 on HomeKit Insider](https://appleinsider.com/articles/25/03/24/homepod-mini-2-rumors-nanoleaf-monitor-lights-cameras-in-matter-15-on-homekit-insider?utm_medium=rss)
+ - [The best PS4 emulator just got a ton of improvements, including HDR support](https://www.androidauthority.com/shadps4-version-update-3537895/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
