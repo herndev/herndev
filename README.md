@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3 devs had to practically remake the game engine to make official modding possible](https://www.pcgamer.com/games/rpg/the-witcher-3-devs-had-to-practically-remake-the-game-engine-to-make-official-modding-possible/)
- - [Indiana Jones Will Let PlayStation 5 Players Punch Nazis In Just A Few Weeks](https://kotaku.com/indiana-jones-ps5-date-voice-troy-baker-great-circle-1851771977)
- - [14 Final Destination Deaths, Ranked From Ludicrous To Chillingly Plausible](https://kotaku.com/final-destination-bloodlines-absurd-deaths-ranked-1851771470)<!-- GAME:END -->
+ - [‘Heads Will Roll’ walkthrough in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/545204/heads-will-roll-walkthrough-yaya-mitsumune-spare-kill-soldiers)
+ - [Orks overtake the Warhammer 40K competitive scene and I&amp;#8217;m so happy for them](https://www.polygon.com/warhammer-40k/545605/40k-orks-more-dakka-meta-nerf)
+ - [How To Level Up Mad Fast In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-level-up-contracts-castle-tera-1851771996)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
