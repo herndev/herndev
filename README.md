@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was awesome](http://9gag.com/gag/amo6742)
- - ⏩ [Demineralized water?](http://9gag.com/gag/aXPVx96)
- - 👉 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)<!-- MEMES:END -->
+ - 💣 [Mars\u2014140 million miles from Earth. And yet, thanks to NASA, we\u2019re seeing it like it\u2019s just around the corner. Sound on!](http://9gag.com/gag/an725r5)
+ - ⏩ [No one reads titles.](http://9gag.com/gag/avy6z2X)
+ - 👉 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)<!-- MEMES:END -->
 
 ---
 
