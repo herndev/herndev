@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces security AI agents to help overwhelmed humans](https://www.theverge.com/news/634598/microsoft-security-copilot-ai-agents)
- - [Apple’s The Studio spins Hollywood chaos into comedic gold](https://www.theverge.com/tv-reviews/627183/the-studio-review-seth-rogen-apple)
- - [DeepSeek releases MIT-licensed DeepSeek-V3-0324, the latest version of their enormous DeepSeek v3 model; the previous DeepSeek v3 version had a custom license &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250324/p14#a250324p14)<!-- TECH:END -->
+ - [Microsoft unveils 11 Security Copilot AI agents, five created by partners, that do things like triage phishing and data loss alerts, coming to preview in April &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250324/p15#a250324p15)
+ - [How to delete your 23andMe data](https://www.theverge.com/news/634680/23andme-genetic-data-account-deletion-how-to)
+ - [Pixel 9a delay sparks speculation of overheating issues, but don’t lose hope](https://www.androidauthority.com/google-pixel-9a-delayed-availability-heat-issue-3537855/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
