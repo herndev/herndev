@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim realism mod fixes your vampire girlfriend, giving her a voice and look more suited to someone who just got out of a coffin after 2,000 years](https://www.pcgamer.com/games/the-elder-scrolls/skyrim-realism-mod-fixes-your-vampire-girlfriend-giving-her-a-voice-and-look-more-suited-to-someone-who-just-got-out-of-a-coffin-after-2-000-years/)
- - [‘One of the most atrocious games ever published’ is coming to Steam, and it’s not a joke](https://www.polygon.com/news/545206/big-rigs-over-road-racing-steam-pc-release-date-2025)
- - [&#39;No real human would go four links deep into a maze of AI-generated nonsense&#39;: Cloudflare&#39;s AI Labyrinth uses decoy pages to trap web-crawling bots and feed them slop &#39;as a defensive weapon&#39;](https://www.pcgamer.com/software/ai/no-real-human-would-go-four-links-deep-into-a-maze-of-ai-generated-nonsense-cloudflares-ai-labyrinth-uses-decoy-pages-to-trap-web-crawling-bots-and-feed-them-slop-as-a-defensive-weapon/)<!-- GAME:END -->
+ - [The Witcher 3 devs had to practically remake the game engine to make official modding possible](https://www.pcgamer.com/games/rpg/the-witcher-3-devs-had-to-practically-remake-the-game-engine-to-make-official-modding-possible/)
+ - [Indiana Jones Will Let PlayStation 5 Players Punch Nazis In Just A Few Weeks](https://kotaku.com/indiana-jones-ps5-date-voice-troy-baker-great-circle-1851771977)
+ - [14 Final Destination Deaths, Ranked From Ludicrous To Chillingly Plausible](https://kotaku.com/final-destination-bloodlines-absurd-deaths-ranked-1851771470)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
