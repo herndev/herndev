@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung restores its One UI 7 US release plans as quietly as it took them down](https://www.androidauthority.com/samsung-one-ui-7-us-release-3537999/)
- - [Trump officials planned a military strike over Signal – with a magazine editor on the line](https://www.theverge.com/news/635042/the-atlantic-pete-hegseth-houthi-signal-group-chat)
- - [Alleged Snowflake hacker agrees to be extradited to the US](https://www.theverge.com/news/635044/conner-moucka-snowflake-breach-us-extradition)<!-- TECH:END -->
+ - [The FBI launched a task force to investigate Tesla attacks](https://www.theverge.com/news/635091/fbi-tesla-task-force-terrorism)
+ - [Researchers say a Next.js flaw that existed for several years could&#39;ve allowed hackers to bypass middleware-based authentication; Vercel patched it on March 18 &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250324/p26#a250324p26)
+ - [Amazon Echo Dot and Pop deals: Save as much as 25%](https://www.androidauthority.com/amazon-echo-dot-pop-deals-2-3537955/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
