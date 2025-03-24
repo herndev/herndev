@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;ve ever wanted to upgrade a laptop with &#39;modular AI units&#39; then Compal might just have the very thing you&#39;re looking for](https://www.pcgamer.com/hardware/gaming-laptops/if-youve-ever-wanted-to-upgrade-a-laptop-with-modular-ai-units-then-compal-might-just-have-the-very-thing-youre-looking-for/)
- - [TCG Card Shop Simulator finally adds the ability to decorate our stores, and suddenly all my profits are being spent on adorable Pigni posters](https://www.pcgamer.com/games/sim/tcg-card-shop-simulator-finally-adds-the-ability-to-decorate-our-stores-and-suddenly-all-my-profits-are-being-spent-on-adorable-pigni-posters/)
- - [By the way, you can have a ton of pets in Assassin’s Creed Shadows](https://www.polygon.com/gaming/545165/assassins-creed-shadows-pets-cats-dogs)<!-- GAME:END -->
+ - [My Hero Academia Final Season is coming to Crunchyroll in October](https://www.polygon.com/anime/545139/my-hero-academia-final-season-trailer-release-date)
+ - [The First Berserker: Khazan Is Way Better Than I Expected](https://kotaku.com/first-berserker-khazan-review-anime-soulslike-rpg-1851771917)
+ - [One of Valve&#39;s original executives shares a very simple secret to its success: &#39;You can&#39;t use up your credibility&#39; by trying to make bad games work](https://www.pcgamer.com/gaming-industry/one-of-valves-original-executives-shares-a-very-simple-secret-to-its-success-you-cant-use-up-your-credibility-by-trying-to-make-bad-games-work/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
