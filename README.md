@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Reid Hoffman on making people AI-curious through his new book Superagency, writing with AI, why AI &quot;gloomers&quot; are wrong, tech&#39;s DEI rollback, and more &lpar;The Guardian&rpar;](http://www.techmeme.com/250324/p6#a250324p6)
- - [An off-Broadway theater in New York is offering AI-powered live translations in 60 languages to attract new audiences, using AI tech from startup Worldly &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250324/p5#a250324p5)
- - [Here’s the controversial origin story of Gemini, complete with lots of racism](https://www.androidauthority.com/google-gemini-origin-story-racism-3537708/)<!-- TECH:END -->
+ - [SAP&#39;s stock rose ~1.6% to give it a ~€314B market cap, passing Danish weight-loss drug maker Novo as Europe&#39;s most valuable public company; SAP is up 42% YTD &lpar;Henry Ren/Bloomberg&rpar;](http://www.techmeme.com/250324/p7#a250324p7)
+ - [23andMe files for bankruptcy as CEO steps down](https://www.theverge.com/news/634497/23andme-chapter-11-bankruptcy-gene-testing)
+ - [7 Simple Mental Health Tips That Can Help You Lead a Happier Life](https://www.cnet.com/health/mental/simple-mental-health-tips-help-lead-happier-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
