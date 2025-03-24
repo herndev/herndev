@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Darktide’s getting a new roguelite wave defense mode that sounds a whole lot like a souped-up take on Killing Floor](https://www.pcgamer.com/games/fps/warhammer-40-000-darktides-getting-a-new-roguelite-wave-defense-mode-that-sounds-a-whole-lot-like-a-souped-up-take-on-killing-floor/)
- - [&#39;Players don&#39;t explore&#39;: former Grand Theft Auto 6 and Red Dead Online designer lays out the perils of &#39;open world fatigue&#39;](https://www.pcgamer.com/games/action/players-dont-explore-former-grand-theft-auto-6-and-red-dead-online-designer-lays-out-the-perils-of-open-world-fatigue/)
- - [Nearly 2 years after its last update, the excellent Battle Brothers gets &#39;a bucket load of fixes&#39; and free new content](https://www.pcgamer.com/games/strategy/nearly-2-years-after-its-last-update-the-excellent-battle-brothers-gets-a-bucket-load-of-fixes-and-free-new-content/)<!-- GAME:END -->
+ - [Silent Hill f is not messing around – now it&#39;s been banned in Australia](https://www.pcgamer.com/games/horror/silent-hill-f-is-not-messing-around-now-its-been-banned-in-australia/)
+ - [&#39;Google must divest the Chrome browser:&#39; DOJ renews call for Google to sell Chrome, and Android could be next](https://www.pcgamer.com/gaming-industry/google-must-divest-the-chrome-browser-doj-renews-call-for-google-to-sell-chrome-and-android-could-be-next/)
+ - [One of the worst games ever made is coming to Steam, but we won&#39;t know how cruel this joke is until we see the price tag](https://www.pcgamer.com/games/racing/one-of-the-worst-games-ever-made-is-coming-to-steam-but-we-wont-know-how-cruel-this-joke-is-until-we-see-the-price-tag/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
