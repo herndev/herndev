@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Android-powered smart glasses might launch sooner than you think](https://www.androidauthority.com/samsung-android-xr-smart-glasses-haean-3537694/)
- - [The daily amount of ETH burned on Ethereum due to transaction fees hit an all-time low on March 22, amid dips in other network metrics like active addresses &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250323/p16#a250323p16)
- - [Retail investors often bear the brunt of losses in the Solana blockchain&#39;s memecoin market, which is plagued by insider trading, rug pulls, and &quot;sniping&quot; &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250323/p15#a250323p15)<!-- TECH:END -->
+ - [A look at the Internet Archive, which sees ~100TB of material uploaded daily and has cataloged ~73K US government website pages that the Trump admin expunged &lpar;Emma Bowman/NPR&rpar;](http://www.techmeme.com/250324/p1#a250324p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 24, #182](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-24-182/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, March 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
