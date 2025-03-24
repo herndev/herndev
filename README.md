@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now, blow the candles!](http://9gag.com/gag/a7o0MMb)
- - ⏩ [F**k tech](http://9gag.com/gag/azxK9EK)
- - 👉 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)<!-- MEMES:END -->
+ - 💣 [F**k tech](http://9gag.com/gag/azxK9EK)
+ - ⏩ [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
+ - 👉 [Flashback](http://9gag.com/gag/a5QwMWE)<!-- MEMES:END -->
 
 ---
 
