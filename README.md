@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m sure I\u2019ve posted this before, or something similar, but it\u2019s always worth a repost](http://9gag.com/gag/aD28xL9)
- - ⏩ [F**k tech](http://9gag.com/gag/azxK9EK)
- - 👉 [Well...Duh!](http://9gag.com/gag/aO8ZYmy)<!-- MEMES:END -->
+ - 💣 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
+ - ⏩ [It can even go lower!](http://9gag.com/gag/aGyBZwz)
+ - 👉 [So, who gets it?](http://9gag.com/gag/a4PNGKm)<!-- MEMES:END -->
 
 ---
 
