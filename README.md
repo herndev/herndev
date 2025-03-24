@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Internet Archive, which sees ~100TB of material uploaded daily and has cataloged ~73K US government website pages that the Trump admin expunged &lpar;Emma Bowman/NPR&rpar;](http://www.techmeme.com/250324/p1#a250324p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 24, #182](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-24-182/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, March 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-24/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: South Korean chip startup FuriosaAI rejected an $800M takeover offer from Meta, opting to grow independently instead &lpar;Bloomberg&rpar;](http://www.techmeme.com/250324/p3#a250324p3)
+ - [Amazon drops AirPods 4 to $99.99, AirPods Pro 2 to $169.99 ahead of Big Spring Sale](https://appleinsider.com/articles/25/03/24/amazon-drops-airpods-4-to-9999-airpods-pro-2-to-16999-ahead-of-big-spring-sale?utm_medium=rss)
+ - [Google TV app may be getting a blue makeover and fresh features &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tv-app-may-be-getting-a-blue-makeover-and-fresh-features-apk-teardown-3537698/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
