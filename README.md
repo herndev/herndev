@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Retail investors often bear the brunt of losses in the Solana blockchain&#39;s memecoin market, which is plagued by insider trading, rug pulls, and &quot;sniping&quot; &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250323/p15#a250323p15)
  - [Google is rolling out new real-time AI video features, including the ability to &quot;see&quot; screens and camera feeds, for Gemini Advanced subscribers &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250323/p14#a250323p14)
- - [Google is rolling out Gemini’s real-time AI video features](https://www.theverge.com/news/634480/google-gemini-live-video-screen-sharing-astra-features-rolling-out)
- - [Research shows a surge in the popularity of deepfake porn services, with the 10 most popular &quot;nudifying&quot; websites receiving 18M views in January 2025 alone &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250323/p13#a250323p13)<!-- TECH:END -->
+ - [Google is rolling out Gemini’s real-time AI video features](https://www.theverge.com/news/634480/google-gemini-live-video-screen-sharing-astra-features-rolling-out)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
