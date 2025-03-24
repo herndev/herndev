@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - ⏩ [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
- - 👉 [Removing a wasp nest with gasoline.](http://9gag.com/gag/aO8ZYg2)<!-- MEMES:END -->
+ - 💣 [Coach yanked player\u2019s ponytail after they lost the game](http://9gag.com/gag/aW4nYA4)
+ - ⏩ [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
+ - 👉 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)<!-- MEMES:END -->
 
 ---
 
