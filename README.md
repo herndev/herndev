@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alienware’s AW2725DF OLED gaming monitor is a steal at $599.99](https://www.theverge.com/tech/634773/alienware-aw2725df-oled-gaming-monitor-deal-sale)
- - [HomePod Mini 2 rumors, Nanoleaf monitor lights, &amp; cameras in Matter 1.5 on HomeKit Insider](https://appleinsider.com/articles/25/03/24/homepod-mini-2-rumors-nanoleaf-monitor-lights-cameras-in-matter-15-on-homekit-insider?utm_medium=rss)
- - [The best PS4 emulator just got a ton of improvements, including HDR support](https://www.androidauthority.com/shadps4-version-update-3537895/)<!-- TECH:END -->
+ - [Blowout deal: Grab Apple&#39;s M3 MacBook Air with 16GB RAM for record low $799](https://appleinsider.com/articles/25/03/24/blowout-deal-grab-apples-m3-macbook-air-with-16gb-ram-for-record-low-799?utm_medium=rss)
+ - [Massachusetts&#39; top securities regulator probes Robinhood&#39;s decision to launch a prediction markets hub, after sending the company a subpoena last week &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/250324/p18#a250324p18)
+ - [iOS 18.4 RC Is Out: Your iPhone Could Get New Emoji and More Soon](https://www.cnet.com/tech/services-and-software/ios-18-4-rc-is-out-your-iphone-could-get-new-emoji-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
