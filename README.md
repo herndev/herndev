@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [People keep putting fake walls in front of Teslas](https://www.theverge.com/news/634130/tesla-fsd-wile-e-coyote-youtube-test-cybertruck)
- - [Gen AI&#39;s Accuracy Problems Aren&#39;t Going Away Anytime Soon, Researchers Say](https://www.cnet.com/tech/services-and-software/gen-ais-accuracy-problems-arent-going-away-anytime-soon-researchers-say/#ftag=CAD590a51e)
- - [Stock Market Volatility: Should We Really Keep Calm and Carry On?](https://www.cnet.com/personal-finance/stock-market-volatility-should-we-really-keep-calm-and-carry-on/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is rolling out new real-time AI video features, including the ability to &quot;see&quot; screens and camera feeds, for Gemini Advanced subscribers &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250323/p14#a250323p14)
+ - [Google is rolling out Gemini’s real-time AI video features](https://www.theverge.com/news/634480/google-gemini-live-video-screen-sharing-astra-features-rolling-out)
+ - [Research shows a surge in the popularity of deepfake porn services, with the 10 most popular &quot;nudifying&quot; websites receiving 18M views in January 2025 alone &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250323/p13#a250323p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
