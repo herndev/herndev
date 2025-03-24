@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mars\u2014140 million miles from Earth. And yet, thanks to NASA, we\u2019re seeing it like it\u2019s just around the corner. Sound on!](http://9gag.com/gag/an725r5)
- - ⏩ [No one reads titles.](http://9gag.com/gag/avy6z2X)
- - 👉 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)<!-- MEMES:END -->
+ - 💣 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)
+ - ⏩ [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)
+ - 👉 [I can fix her](http://9gag.com/gag/a6Z5Nom)<!-- MEMES:END -->
 
 ---
 
