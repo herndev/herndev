@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [MSI has gone so heavy with 12V-2x6 power sockets in its latest high-end PSUs that many AMD and Intel graphics cards have no way of being powered](https://www.pcgamer.com/hardware/power-supplies/msi-has-gone-so-heavy-with-12v-2x6-power-sockets-in-its-latest-high-end-psus-that-many-amd-and-intel-graphics-cards-have-no-way-of-being-powered/)
  - [Atomfall Arrives: Six Tips to Survive the Quarantine Zone](https://news.xbox.com/en-us/2025/03/24/atomfall-launch-tips/)
- - [You are Phil Spencer. Which Ubisoft IP do you buy?](https://www.polygon.com/gaming/544628/ubisoft-ip-sale-microsoft-phil-spencer-not-assassins-creed)
- - [Hollow Knight: Silksong&#39;s Copyright Updated, Fans Enter Newfound Levels Of Excitement, Nation In Chaos](https://kotaku.com/hollow-knight-silksong-release-date-switch-2-update-1851771854)<!-- GAME:END -->
+ - [You are Phil Spencer. Which Ubisoft IP do you buy?](https://www.polygon.com/gaming/544628/ubisoft-ip-sale-microsoft-phil-spencer-not-assassins-creed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
