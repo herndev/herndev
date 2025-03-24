@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Shadow of Mordor&#39;s beloved nemesis system exists because the publisher threw a tantrum about second-hand sales](https://www.pcgamer.com/gaming-industry/shadow-of-mordors-beloved-nemesis-system-exists-because-the-publisher-threw-a-tantrum-about-second-hand-sales/)
  - [Five new Steam games you probably missed &lpar;March 24, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-24-2025/)
- - [Silent Hill f is not messing around – now it&#39;s been banned in Australia](https://www.pcgamer.com/games/horror/silent-hill-f-is-not-messing-around-now-its-been-banned-in-australia/)
- - [&#39;Google must divest the Chrome browser:&#39; DOJ renews call for Google to sell Chrome, and Android could be next](https://www.pcgamer.com/gaming-industry/google-must-divest-the-chrome-browser-doj-renews-call-for-google-to-sell-chrome-and-android-could-be-next/)<!-- GAME:END -->
+ - [Silent Hill f is not messing around – now it&#39;s been banned in Australia](https://www.pcgamer.com/games/horror/silent-hill-f-is-not-messing-around-now-its-been-banned-in-australia/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
