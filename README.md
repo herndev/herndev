@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s Android-powered smart glasses might launch sooner than you think](https://www.androidauthority.com/samsung-android-xr-smart-glasses-haean-3537694/)
  - [The daily amount of ETH burned on Ethereum due to transaction fees hit an all-time low on March 22, amid dips in other network metrics like active addresses &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250323/p16#a250323p16)
- - [Retail investors often bear the brunt of losses in the Solana blockchain&#39;s memecoin market, which is plagued by insider trading, rug pulls, and &quot;sniping&quot; &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250323/p15#a250323p15)
- - [Google is rolling out new real-time AI video features, including the ability to &quot;see&quot; screens and camera feeds, for Gemini Advanced subscribers &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250323/p14#a250323p14)<!-- TECH:END -->
+ - [Retail investors often bear the brunt of losses in the Solana blockchain&#39;s memecoin market, which is plagued by insider trading, rug pulls, and &quot;sniping&quot; &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250323/p15#a250323p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
