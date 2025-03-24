@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k tech](http://9gag.com/gag/azxK9EK)
- - ⏩ [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
- - 👉 [Flashback](http://9gag.com/gag/a5QwMWE)<!-- MEMES:END -->
+ - 💣 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
+ - ⏩ [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
+ - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
 
 ---
 
