@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get more rations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/540090/rations-increase-capacity-efficiency-how-to-upgrade)
- - [All allies in Assassin’s Creed Shadows and how to recruit them](https://www.polygon.com/assassins-creed-shadows-guides/542428/companions-allies-how-to-recruit-all-list)
- - [Metaphor: ReFantazio battle director says turn-based RPGs can still be just as popular as action RPGs: &#39;I personally believe turn-based games have a long future ahead of them&#39;](https://www.pcgamer.com/games/rpg/metaphor-refantazio-battle-director-says-turn-based-rpgs-can-still-be-just-as-popular-as-action-rpgs-i-personally-believe-turn-based-games-have-a-long-future-ahead-of-them/)<!-- GAME:END -->
+ - [Powder enthusiasts seem pretty pleased with new physics-based realistic snowmobile sim Sledders](https://www.pcgamer.com/games/sim/powder-enthusiasts-seem-pretty-pleased-with-new-physics-based-realistic-snowmobile-sim-sledders/)
+ - [Where to find Kuji-Kiri locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/541590/kuji-kiri-locations-all-list-maps-where-to-find)
+ - [As Civilization 7 struggles to keep up with Civ 5 player counts, a new patch is coming tomorrow with still more UI changes and gameplay tweaks](https://www.pcgamer.com/games/strategy/as-civilization-7-struggles-to-keep-up-with-civ-5-player-counts-a-new-patch-is-coming-tomorrow-with-still-more-ui-changes-and-gameplay-tweaks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
