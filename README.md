@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Heads Will Roll’ walkthrough in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/545204/heads-will-roll-walkthrough-yaya-mitsumune-spare-kill-soldiers)
- - [Orks overtake the Warhammer 40K competitive scene and I&amp;#8217;m so happy for them](https://www.polygon.com/warhammer-40k/545605/40k-orks-more-dakka-meta-nerf)
- - [How To Level Up Mad Fast In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-level-up-contracts-castle-tera-1851771996)<!-- GAME:END -->
+ - [Assassin’s Creed Shadows has a hidden technique for creating stunningly realistic wind](https://www.polygon.com/news/545610/assassins-creed-shadows-wind-simulation-graphics-technology)
+ - [Assassin&#39;s Creed Shadows streamer goes viral after confronting whining commenters: &#39;Normal people don&#39;t get upset about this sh***&#39;](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-streamer-goes-viral-after-confronting-whining-commenters-normal-people-dont-get-upset-about-this-sh/)
+ - [‘Heads Will Roll’ walkthrough in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/545204/heads-will-roll-walkthrough-yaya-mitsumune-spare-kill-soldiers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
