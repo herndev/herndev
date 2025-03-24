@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Spring to Life update: everything you need to know about the newest drop](https://www.pcgamer.com/games/survival-crafting/minecraft-spring-to-life-update/)
- - [Playable GTA 6 map nuked without warning by Take-Two lawyers: &#39;My guess is that the map was probably a little too accurate&#39;](https://www.pcgamer.com/games/grand-theft-auto/playable-gta-6-map-nuked-without-warning-by-take-two-lawyers-my-guess-is-that-the-map-was-probably-a-little-too-accurate/)
- - [Noctua&#39;s pumpless &#39;thermosiphon&#39; liquid cooling unit is expected to be released in 2026 and has already given me a free lesson in basic thermodynamics](https://www.pcgamer.com/hardware/cooling/noctuas-pumpless-thermosiphon-liquid-cooling-unit-is-expected-to-be-released-in-2026-and-has-already-given-me-a-free-lesson-in-basic-thermodynamics/)<!-- GAME:END -->
+ - [Atomfall Arrives: Six Tips to Survive the Quarantine Zone](https://news.xbox.com/en-us/2025/03/24/atomfall-launch-tips/)
+ - [You are Phil Spencer. Which Ubisoft IP do you buy?](https://www.polygon.com/gaming/544628/ubisoft-ip-sale-microsoft-phil-spencer-not-assassins-creed)
+ - [Hollow Knight: Silksong&#39;s Copyright Updated, Fans Enter Newfound Levels Of Excitement, Nation In Chaos](https://kotaku.com/hollow-knight-silksong-release-date-switch-2-update-1851771854)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
