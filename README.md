@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
- - ⏩ [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
- - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
+ - 💣 [That was awesome](http://9gag.com/gag/amo6742)
+ - ⏩ [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)
+ - 👉 [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)<!-- MEMES:END -->
 
 ---
 
