@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, March 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-24-2025/)
  - [Shadow of Mordor&#39;s beloved nemesis system exists because the publisher threw a tantrum about second-hand sales](https://www.pcgamer.com/gaming-industry/shadow-of-mordors-beloved-nemesis-system-exists-because-the-publisher-threw-a-tantrum-about-second-hand-sales/)
- - [Five new Steam games you probably missed &lpar;March 24, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-24-2025/)
- - [Silent Hill f is not messing around – now it&#39;s been banned in Australia](https://www.pcgamer.com/games/horror/silent-hill-f-is-not-messing-around-now-its-been-banned-in-australia/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 24, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-24-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
