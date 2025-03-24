@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HP settles the class action lawsuit which claimed its printer updates &#39;act as malware&#39;, avoiding either a big payout or admitting wrongdoing](https://www.pcgamer.com/hardware/hp-settles-the-class-action-lawsuit-which-claimed-its-printer-updates-act-as-malware-avoiding-either-a-big-payout-or-admitting-wrongdoing/)
- - [&#39;For too long, Apple has operated a walled garden around its products&#39;: The EU forces Apple to open its closed system to third parties](https://www.pcgamer.com/hardware/for-too-long-apple-has-operated-a-walled-garden-around-its-products-the-eu-forces-apple-to-open-its-closed-system-to-third-parties/)
- - [The 2012 source code for AlexNet, the precursor to modern AI, is now on Github thanks to Google and the Computer History Museum](https://www.pcgamer.com/hardware/the-2012-source-code-for-alexnet-the-precursor-to-modern-ai-is-now-on-github-thanks-to-google-and-the-computer-history-museum/)<!-- GAME:END -->
+ - [Minecraft Spring to Life update: everything you need to know about the newest drop](https://www.pcgamer.com/games/survival-crafting/minecraft-spring-to-life-update/)
+ - [Playable GTA 6 map nuked without warning by Take-Two lawyers: &#39;My guess is that the map was probably a little too accurate&#39;](https://www.pcgamer.com/games/grand-theft-auto/playable-gta-6-map-nuked-without-warning-by-take-two-lawyers-my-guess-is-that-the-map-was-probably-a-little-too-accurate/)
+ - [Noctua&#39;s pumpless &#39;thermosiphon&#39; liquid cooling unit is expected to be released in 2026 and has already given me a free lesson in basic thermodynamics](https://www.pcgamer.com/hardware/cooling/noctuas-pumpless-thermosiphon-liquid-cooling-unit-is-expected-to-be-released-in-2026-and-has-already-given-me-a-free-lesson-in-basic-thermodynamics/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
