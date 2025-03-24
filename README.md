@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)
- - ⏩ [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
- - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
+ - 💣 [Well...Duh!](http://9gag.com/gag/aO8ZYmy)
+ - ⏩ [F**k tech](http://9gag.com/gag/azxK9EK)
+ - 👉 [Understandable, have a nice day](http://9gag.com/gag/aVvKYKw)<!-- MEMES:END -->
 
 ---
 
