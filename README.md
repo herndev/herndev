@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - ⏩ [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 👉 [This is what I pay the internet for.](http://9gag.com/gag/a5QwdDE)<!-- MEMES:END -->
+ - 💣 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
+ - ⏩ [How easy it\u2019s to copy keys](http://9gag.com/gag/aMVPjLV)
+ - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
 
 ---
 
