@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They didn&#39;t even spare the damn bird](http://9gag.com/gag/aAyKxqg)
- - ⏩ [________O__o_________](http://9gag.com/gag/awy1A51)
- - 👉 [It can even go lower!](http://9gag.com/gag/aGyBZwz)<!-- MEMES:END -->
+ - 💣 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - ⏩ [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
+ - 👉 [Removing a wasp nest with gasoline.](http://9gag.com/gag/aO8ZYg2)<!-- MEMES:END -->
 
 ---
 
