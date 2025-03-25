@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
- - ⏩ [Manson showing Manson and Cage to Cage](http://9gag.com/gag/aGyBZBZ)
- - 👉 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)<!-- MEMES:END -->
+ - 💣 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
+ - ⏩ [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)
+ - 👉 [Nice](http://9gag.com/gag/apR6mOE)<!-- MEMES:END -->
 
 ---
 
