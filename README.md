@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dreamhaven Showcase Recap: All the News From a New Publisher with a Legendary Past](https://news.xbox.com/en-us/2025/03/25/dreamhaven-showcase-recap/)
- - [The Summer Hikaru Died looks both wholesome and utterly terrifying](https://www.polygon.com/anime/546495/summer-hikaru-died-anime-adaptation-manga)
- - [Blizzard co-founder Mike Morhaime&#39;s new company is putting Sea of Thieves-style shenanigans in space with a new crew-based shooter](https://www.pcgamer.com/games/fps/blizzard-co-founder-mike-morhaimes-new-company-is-putting-sea-of-thieves-style-shenanigans-in-space-with-a-new-crew-based-shooter/)<!-- GAME:END -->
+ - [Fortnite finally brings back a fan-favorite mode, but it’s filled with bots](https://www.polygon.com/news/546448/fortnite-og-50-vs-50-ltm-bots)
+ - [How to use energy crystals in REPO](https://www.polygon.com/guides/546262/repo-energy-crystals-use-how-to)
+ - [How to get more scouts in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/539664/scouts-refill-how-to-get-more-increase)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
