@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)
- - ⏩ [Decided to go less clothes today](http://9gag.com/gag/aPAoYdK)
- - 👉 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)<!-- MEMES:END -->
+ - ⏩ [What is going on here?](http://9gag.com/gag/a4PNRQv)
+ - 👉 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)<!-- MEMES:END -->
 
 ---
 
