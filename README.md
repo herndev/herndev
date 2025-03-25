@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC will be on June 9 with iOS 19, Apple Intelligence updates, and more](https://appleinsider.com/articles/25/03/25/wwdc-will-be-on-june-9-and-bring-apple-intelligence-updates?utm_medium=rss)
- - [Anker’s ‘InstaCord’ battery with dual retractable USB-C cables is 20 percent off](https://www.theverge.com/tech/635498/anker-laptop-power-bank-usb-c-deal-amazon-big-spring-sale-2025)
- - [GM-backed &amp;#8216;coast-to-coast&amp;#8217; EV charging network grows to 130 locations](https://www.theverge.com/news/635641/gm-evgo-pilot-truck-stop-ev-charging-network-expansion-i75)<!-- TECH:END -->
+ - [The Kindle Colorsoft is now a far better deal thanks to Amazon’s Big Spring Sale](https://www.theverge.com/tech/635652/amazon-kindle-colorsoft-e-reader-deal-big-spring-sale-2025)
+ - [YouTube is testing a new way to recommend videos while you watch](https://www.androidauthority.com/youtube-premium-march-2025-features-3538387/)
+ - [Gemini 2.5: Meet Google’s most intelligent reasoning model to date](https://www.androidauthority.com/google-announces-new-gemini-model-3538357/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
