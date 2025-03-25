@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - ⏩ [American aircraft carrier off the coast of Hodeida, Yemen.](http://9gag.com/gag/aLn48Vz)
- - 👉 [What is going on here?](http://9gag.com/gag/a4PNRQv)<!-- MEMES:END -->
+ - 💣 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)
+ - ⏩ [Carma.](http://9gag.com/gag/aryXo75)
+ - 👉 [I can&#39;t wait for ozempic to cause sudden heart attacks and clean up all the hypocrites](http://9gag.com/gag/amo6BEj)<!-- MEMES:END -->
 
 ---
 
