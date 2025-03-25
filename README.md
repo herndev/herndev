@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All this just for a moment? Was it worth it?](http://9gag.com/gag/aE0AgPG)
- - ⏩ [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)
- - 👉 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)<!-- MEMES:END -->
+ - 💣 [It&#39;s beautiful](http://9gag.com/gag/azxKMrZ)
+ - ⏩ [I was there Gandalf....](http://9gag.com/gag/ae9ZDYO)
+ - 👉 [Mars\u2014140 million miles from Earth. And yet, thanks to NASA, we\u2019re seeing it like it\u2019s just around the corner. Sound on!](http://9gag.com/gag/an725r5)<!-- MEMES:END -->
 
 ---
 
