@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Kindle Colorsoft is now a far better deal thanks to Amazon’s Big Spring Sale](https://www.theverge.com/tech/635652/amazon-kindle-colorsoft-e-reader-deal-big-spring-sale-2025)
- - [YouTube is testing a new way to recommend videos while you watch](https://www.androidauthority.com/youtube-premium-march-2025-features-3538387/)
- - [Gemini 2.5: Meet Google’s most intelligent reasoning model to date](https://www.androidauthority.com/google-announces-new-gemini-model-3538357/)<!-- TECH:END -->
+ - [Save $100 on the Samsung Galaxy S25!](https://www.androidauthority.com/samsung-galaxy-s25-deal-3488405/)
+ - [Ripple says it agreed to settle a US SEC civil lawsuit over the alleged sale of unregistered securities and pay just $50M of a previously imposed $125M fine &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250325/p33#a250325p33)
+ - [Amazon’s big spring sale is live, and here are the 62 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
