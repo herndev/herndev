@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insane and evil](http://9gag.com/gag/azxKmpN)
- - ⏩ [Game of the year](http://9gag.com/gag/ayN6emb)
- - 👉 [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)<!-- MEMES:END -->
+ - 💣 [What is going on here?](http://9gag.com/gag/a4PNRQv)
+ - ⏩ [Black people celebrating OJ&#39;s verdict in 1995 while white people look upon in shock that an obvious murderer would be acquitted](http://9gag.com/gag/aNDQYVw)
+ - 👉 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)<!-- MEMES:END -->
 
 ---
 
