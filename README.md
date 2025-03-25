@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some EU orgs weigh using Amazon, Google, and Microsoft cloud services over privacy fears under Trump; two European cloud providers say this is driving interest &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250325/p1#a250325p1)
  - [Apple Watch could gain cameras for Visual Intelligence](https://appleinsider.com/articles/25/03/23/apple-watch-could-gain-cameras-to-improve-ai-features?utm_medium=rss)
- - [Alibaba Chairman Joe Tsai warns of a data center bubble, saying the buildout may outpace early AI demand and is starting to look indiscriminate &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250324/p35#a250324p35)
- - [Sources: the European Commission is expected to find that Meta violated the DMA and fine the company hundreds of millions of dollars, possibly over $1B &lpar;Thomas Barrabi/New York Post&rpar;](http://www.techmeme.com/250324/p34#a250324p34)<!-- TECH:END -->
+ - [Alibaba Chairman Joe Tsai warns of a data center bubble, saying the buildout may outpace early AI demand and is starting to look indiscriminate &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250324/p35#a250324p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
