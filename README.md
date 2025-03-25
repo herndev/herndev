@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The biggest Animal Crossing Lego set just got its biggest discount yet](https://www.polygon.com/good-deals/546084/lego-animal-crossing-k-k-slider-amazon-spring-sale)
- - [Monster Hunter Wilds event quests schedule and DLC roadmap](https://www.polygon.com/monster-hunter-wilds-guide/534245/event-quests-schedule-dlc-roadmap)
- - [It Looks Like Sabrina Carpenter Is Coming To Fortnite](https://kotaku.com/fortnite-sabrina-carpenter-icon-skin-leak-festival-1851772197)<!-- GAME:END -->
+ - [How to print D&amp;#038;D’s new gold dragon at home](https://www.polygon.com/gaming/546281/ancient-gold-dragon-3d-print-file-stl-free-download-mz4250)
+ - [World of Warcraft Classic hardcore characters lost to DDoS attacks may get a rare revive](https://www.polygon.com/world-of-warcraft/546151/world-of-warcraft-wow-classic-hardcore-revive-ddos-blizzard)
+ - [Vampire: The Masquerade – Bloodlines 2 won&#39;t have typical RPG romantic relationships, but it will feature &#39;romantic feeding&#39;](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2-wont-have-typical-rpg-romantic-relationships-but-it-will-feature-romantic-feeding/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
