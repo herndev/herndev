@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo plans robotaxi launch in Washington, DC in 2026](https://www.theverge.com/news/634955/waymo-washington-dc-robotaxi-launch-2026)
- - [Nvidia’s AI assistant is here to optimize your gaming PC](https://www.theverge.com/news/635155/nvidia-g-assist-ai-assistant-available-download)
- - [Interviews with 24+ US government workers show many embraced Signal after Trump&#39;s return to office as a tactic to shield communications, impacting transparency &lpar;Washington Post&rpar;](http://www.techmeme.com/250325/p9#a250325p9)<!-- TECH:END -->
+ - [Apple TV+ spends millions to hire &#39;F1&#39; team for UFO thriller](https://appleinsider.com/articles/25/03/25/apple-tv-spends-millions-to-hire-f1-team-for-ufo-thriller?utm_medium=rss)
+ - [TechInsights: the costs of 300mm wafers at TSMC&#39;s Fab 21 near Phoenix, Arizona, are set to be only ~10% higher than those of similar wafers processed in Taiwan &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250325/p14#a250325p14)
+ - [Sources: the European Commission is set to close its year-long probe into Apple&#39;s browser options on iOS after the company made changes to comply with the DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250325/p13#a250325p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
