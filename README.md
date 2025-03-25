@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m convinced being a ghoul in Fallout 76 is the best way to vibe in West Virginia, thanks to these powerful perk cards and my new true love: Radiation](https://www.pcgamer.com/games/fallout/im-convinced-being-a-ghoul-in-fallout-76-is-the-best-way-to-vibe-in-west-virginia-thanks-to-these-powerful-perk-cards-and-my-new-true-love-radiation/)
- - [Ubisoft says don&#39;t compare Assassin&#39;s Creed Shadows&#39; success to Valhalla: The latter launched in Covid&#39;s &#39;perfect storm&#39; and feedback on platforms &#39;less affected by review bombing&#39; is stellar](https://www.pcgamer.com/games/assassins-creed/ubisoft-says-dont-compare-assassins-creed-shadows-success-to-valhalla-the-latter-launched-in-covids-perfect-storm-and-feedback-on-platforms-less-affected-by-review-bombing-is-stellar/)
- - [Go-To Strategies To Survive Atomfall&#39;s Irradiated Wilds](https://kotaku.com/atomfall-survival-stealth-fighting-difficulty-training-1851772235)<!-- GAME:END -->
+ - [Dreamhaven Showcase Recap: All the News From a New Publisher with a Legendary Past](https://news.xbox.com/en-us/2025/03/25/dreamhaven-showcase-recap/)
+ - [The Summer Hikaru Died looks both wholesome and utterly terrifying](https://www.polygon.com/anime/546495/summer-hikaru-died-anime-adaptation-manga)
+ - [Blizzard co-founder Mike Morhaime&#39;s new company is putting Sea of Thieves-style shenanigans in space with a new crew-based shooter](https://www.pcgamer.com/games/fps/blizzard-co-founder-mike-morhaimes-new-company-is-putting-sea-of-thieves-style-shenanigans-in-space-with-a-new-crew-based-shooter/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
