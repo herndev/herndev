@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After punishing my graphics card with Monster Hunter Wilds, I&#39;ve returned to the rock-solid frame rates of my old hunting grounds: Windows XP](https://www.pcgamer.com/games/action/after-punishing-my-graphics-card-with-monster-hunter-wilds-ive-returned-to-the-rock-solid-frame-rates-of-my-old-hunting-grounds-windows-xp/)
- - [Game Informer is back from the dead: &#39;The whole team has returned&#39;](https://www.pcgamer.com/gaming-industry/game-informer-is-back-from-the-dead-the-whole-team-has-returned/)
- - [From Palworld movies to Palworld TV shows: &#39;Everyone under the sun pitched us every idea you can imagine,&#39; says Pocketpair&#39;s communications director](https://www.pcgamer.com/games/survival-crafting/from-palworld-movies-to-palworld-tv-shows-everyone-under-the-sun-pitched-us-every-idea-you-can-imagine-says-pocketpairs-communications-director/)<!-- GAME:END -->
+ - [The best REPO mods](https://www.polygon.com/guides/546341/best-repo-mods-more-players-heads-upgrades-hd)
+ - [Assassin&#39;s Creed Shadows&#39; first hotfix addresses stability issues and a photo mode crash](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-first-hotfix-addresses-stability-issues-and-a-photo-mode-crash/)
+ - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
