@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering&#39;s Tarkir: Dragonstorm set isn&#39;t just about dragons](https://www.pcgamer.com/games/card-games/magic-the-gatherings-tarkir-dragonstorm-set-isnt-just-about-dragons/)
- - [Powder enthusiasts seem pretty pleased with new physics-based realistic snowmobile sim Sledders](https://www.pcgamer.com/games/sim/powder-enthusiasts-seem-pretty-pleased-with-new-physics-based-realistic-snowmobile-sim-sledders/)
- - [Where to find Kuji-Kiri locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/541590/kuji-kiri-locations-all-list-maps-where-to-find)<!-- GAME:END -->
+ - [Can Cutiefly be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/545390/can-cutiefly-be-shiny-ribombee)
+ - [Today&#39;s Wordle answer for Tuesday, March 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-25-2025/)
+ - [Magic: The Gathering&#39;s Tarkir: Dragonstorm set isn&#39;t just about dragons](https://www.pcgamer.com/games/card-games/magic-the-gatherings-tarkir-dragonstorm-set-isnt-just-about-dragons/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
