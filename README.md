@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music is opening its catalog to DJs by integrating with popular DJ software and hardware platforms including Algoriddim&#39;s djay Pro and AlphaTheta &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/250325/p18#a250325p18)
- - [Amazon’s big spring sale is live, and here are the 54 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [AI startup Synthesia says it&#39;s creating a $1M stock pool to pay actors with equity for the use of their likeness, a first for the AI industry &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250325/p17#a250325p17)<!-- TECH:END -->
+ - [Instagram is giving schools a faster way to get students’ posts taken down](https://www.theverge.com/news/634977/instagram-school-partners-prioritize-reports)
+ - [The Trump administration axes funding for climate impacts on health research](https://www.theverge.com/news/635322/health-climate-change-funding-trump-nih-hhs)
+ - [Tesla Takedown: all the news about the protests roiling the automaker](https://www.theverge.com/news/635249/tesla-takedown-protest-stock-elon-musk-future)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
