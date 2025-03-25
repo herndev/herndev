@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is giving schools a faster way to get students’ posts taken down](https://www.theverge.com/news/634977/instagram-school-partners-prioritize-reports)
- - [The Trump administration axes funding for climate impacts on health research](https://www.theverge.com/news/635322/health-climate-change-funding-trump-nih-hhs)
- - [Tesla Takedown: all the news about the protests roiling the automaker](https://www.theverge.com/news/635249/tesla-takedown-protest-stock-elon-musk-future)<!-- TECH:END -->
+ - [Apple Music Classical gets three new features to aid discovery &amp; learning](https://appleinsider.com/articles/25/03/25/apple-music-classical-gets-three-new-features-to-aid-discovery-learning?utm_medium=rss)
+ - [As TikTok faces a US ban on April 5, the ByteDance-owned app has a new ad campaign framing TikTok as a savior of Americans and a champion of small businesses &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/250325/p22#a250325p22)
+ - [Discord’s refreshed UI includes a new overlay and full dark mode](https://www.theverge.com/news/635435/discord-ui-refresh-dark-mode-new-overlay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
