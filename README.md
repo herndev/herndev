@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite OG Makes a &lpar;Lucky&rpar; Landing into Season 3](https://fortnite.com/news/fortnite-og-makes-a-lucky-landing-into-season-3/#new_tab)
- - [When does the Shining Revelry expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/545173/shining-revelry-expansion-release-time-date-edt-pdt-gmt)
- - [Can Cutiefly be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/545390/can-cutiefly-be-shiny-ribombee)<!-- GAME:END -->
+ - [Zenshu was the best kind of love letter to everyone who loves anime too much](https://www.polygon.com/anime/545683/zenshu-review-great-anime-winter-2025-season-finale)
+ - [&#39;It&#39;s a bittersweet victory&#39;: Meta has been forced to stop ad-tracking one individual in the UK after settling a years-long court case](https://www.pcgamer.com/hardware/its-a-bittersweet-victory-meta-has-been-forced-to-stop-ad-tracking-one-individual-in-the-uk-after-settling-a-years-long-court-case/)
+ - [Assassin&#39;s Creed Shadows is a hit and Steam played a &#39;significant role&#39; in that: 27% of activations were on PC and it&#39;s the 2nd-biggest AC launch of all time](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-is-a-hit-and-steam-played-a-significant-role-in-that-27-percent-of-activations-were-on-pc-and-its-the-2nd-biggest-ac-launch-of-all-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
