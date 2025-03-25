@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)
- - ⏩ [What is going on here?](http://9gag.com/gag/a4PNRQv)
- - 👉 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)<!-- MEMES:END -->
+ - 💣 [Cool hobby](http://9gag.com/gag/aO8Z79M)
+ - ⏩ [I don&#39;t make the rules](http://9gag.com/gag/avy6oKM)
+ - 👉 [Mars\u2014140 million miles from Earth. And yet, thanks to NASA, we\u2019re seeing it like it\u2019s just around the corner. Sound on!](http://9gag.com/gag/an725r5)<!-- MEMES:END -->
 
 ---
 
