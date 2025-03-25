@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol.](http://9gag.com/gag/aYQDy0q)
- - ⏩ [Entitled much!?](http://9gag.com/gag/amo65Gj)
- - 👉 [I bet she\u2019s heaps of fun and she loves sports\u2026 Let goofy people be goofy!](http://9gag.com/gag/adBQ8ON)<!-- MEMES:END -->
+ - 💣 [Insane and evil](http://9gag.com/gag/azxKmpN)
+ - ⏩ [Game of the year](http://9gag.com/gag/ayN6emb)
+ - 👉 [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)<!-- MEMES:END -->
 
 ---
 
