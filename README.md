@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Word.](http://9gag.com/gag/a7o0W3r)
- - ⏩ [Lol.](http://9gag.com/gag/aYQDy0q)
+ - 💣 [Lol.](http://9gag.com/gag/aYQDy0q)
+ - ⏩ [My desk buddies](http://9gag.com/gag/a2v07yZ)
  - 👉 [Cool hobby](http://9gag.com/gag/aO8Z79M)<!-- MEMES:END -->
 
 ---
