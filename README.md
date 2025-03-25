@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft: Vibrant Visuals Transforms the Game Into What You’ve Always Imagined in Your Head](https://news.xbox.com/en-us/2025/03/25/minecraft-vibrant-visuals/)
- - [Take A Break From Murderous Revenge With Some Interior Design In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-hideout-customization-unlock-1851772163)
- - [Assassin’s Creed Shadows’ Japanese reviews reframe the historical accuracy debate](https://www.polygon.com/gaming/545774/assassins-creed-shadows-japanese-reviews-reframe-the-historical-accuracy-debate)<!-- GAME:END -->
+ - [The biggest Animal Crossing Lego set just got its biggest discount yet](https://www.polygon.com/good-deals/546084/lego-animal-crossing-k-k-slider-amazon-spring-sale)
+ - [Monster Hunter Wilds event quests schedule and DLC roadmap](https://www.polygon.com/monster-hunter-wilds-guide/534245/event-quests-schedule-dlc-roadmap)
+ - [It Looks Like Sabrina Carpenter Is Coming To Fortnite](https://kotaku.com/fortnite-sabrina-carpenter-icon-skin-leak-festival-1851772197)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
