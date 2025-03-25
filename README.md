@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol.](http://9gag.com/gag/aYQDy0q)
- - ⏩ [My desk buddies](http://9gag.com/gag/a2v07yZ)
- - 👉 [Cool hobby](http://9gag.com/gag/aO8Z79M)<!-- MEMES:END -->
+ - 💣 [That was awesome](http://9gag.com/gag/amo6742)
+ - ⏩ [Nice](http://9gag.com/gag/apR6mOE)
+ - 👉 [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)<!-- MEMES:END -->
 
 ---
 
