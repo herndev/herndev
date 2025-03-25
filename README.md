@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of veteran Googler Liz Reid, who became Head of Search in March 2024 and rolled out major updates like AI Overviews, as Google competes with ChatGPT &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p6#a250325p6)
- - [Qualcomm’s next sub-flagship chip may not be the Snapdragon 8s Elite](https://www.androidauthority.com/qualcomm-snapdragon-8s-gen-4-leak-3538089/)
- - [85 Best Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025-2/)<!-- TECH:END -->
+ - [Waymo plans robotaxi launch in Washington, DC in 2026](https://www.theverge.com/news/634955/waymo-washington-dc-robotaxi-launch-2026)
+ - [Nvidia’s AI assistant is here to optimize your gaming PC](https://www.theverge.com/news/635155/nvidia-g-assist-ai-assistant-available-download)
+ - [Interviews with 24+ US government workers show many embraced Signal after Trump&#39;s return to office as a tactic to shield communications, impacting transparency &lpar;Washington Post&rpar;](http://www.techmeme.com/250325/p9#a250325p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
