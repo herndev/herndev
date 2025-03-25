@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fortnite OG Makes a &lpar;Lucky&rpar; Landing into Season 3](https://fortnite.com/news/fortnite-og-makes-a-lucky-landing-into-season-3/#new_tab)
  - [When does the Shining Revelry expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/545173/shining-revelry-expansion-release-time-date-edt-pdt-gmt)
- - [Can Cutiefly be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/545390/can-cutiefly-be-shiny-ribombee)
- - [Today&#39;s Wordle answer for Tuesday, March 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-25-2025/)<!-- GAME:END -->
+ - [Can Cutiefly be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/545390/can-cutiefly-be-shiny-ribombee)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
