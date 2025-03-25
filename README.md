@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aventon Abound SR review: fat tires, good weight, great tech in a fun e-bike](https://appleinsider.com/articles/25/03/24/aventon-abound-sr-review-fat-tires-good-weight-great-tech-in-a-fun-e-bike?utm_medium=rss)
- - [Sources say that 11x, an AI-powered sales automation startup backed by a16z and Benchmark, has been misrepresenting its customer base and financial performance &lpar;TechCrunch&rpar;](http://www.techmeme.com/250324/p29#a250324p29)
- - [Sources: quantum computing startup PsiQuantum is raising at least $750M led by BlackRock at a $6B pre-money valuation &lpar;Reuters&rpar;](http://www.techmeme.com/250324/p28#a250324p28)<!-- TECH:END -->
+ - [Samsung says its co-CEO Han Jong-hee has died at 63 from cardiac arrest &lpar;Reuters&rpar;](http://www.techmeme.com/250324/p31#a250324p31)
+ - [Trump Officials in Signal Fiasco Attended Secret Mar-a-Lago Dinner Shortly After Celebrating Bombing](https://www.wired.com/story/trump-officials-signal-chat-candlelight-dinner-mar-a-lago-yemen/)
+ - [Act Before They’re Gone, Dozens of 4K Blu-Ray Sets Are $30 off or More During Amazon’s Spring Sale](https://www.cnet.com/tech/prep-for-your-next-movie-night-with-dozens-of-cheap-4k-blu-rays-during-amazons-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
