@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI rolls out Sora powered by GPT-4o to ChatGPT](https://www.theverge.com/openai/635118/chatgpt-sora-ai-image-generation-chatgpt)
- - [Meta rolls out a pilot program on Instagram designed to let US schools flag any potentially rule-violating post or account for prioritized review &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250325/p27#a250325p27)
- - [Amazon’s big spring sale is live, and here are the 60 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [WWDC will be on June 9 with iOS 19, Apple Intelligence updates, and more](https://appleinsider.com/articles/25/03/25/wwdc-will-be-on-june-9-and-bring-apple-intelligence-updates?utm_medium=rss)
+ - [Anker’s ‘InstaCord’ battery with dual retractable USB-C cables is 20 percent off](https://www.theverge.com/tech/635498/anker-laptop-power-bank-usb-c-deal-amazon-big-spring-sale-2025)
+ - [GM-backed &amp;#8216;coast-to-coast&amp;#8217; EV charging network grows to 130 locations](https://www.theverge.com/news/635641/gm-evgo-pilot-truck-stop-ev-charging-network-expansion-i75)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
