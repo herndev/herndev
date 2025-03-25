@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was awesome](http://9gag.com/gag/amo6742)
- - ⏩ [Nice](http://9gag.com/gag/apR6mOE)
- - 👉 [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)<!-- MEMES:END -->
+ - 💣 [Finally.. Someone opened!!](http://9gag.com/gag/awy1oAQ)
+ - ⏩ [Lol.](http://9gag.com/gag/aYQDy0q)
+ - 👉 [I bet she\u2019s heaps of fun and she loves sports\u2026 Let goofy people be goofy!](http://9gag.com/gag/adBQ8ON)<!-- MEMES:END -->
 
 ---
 
