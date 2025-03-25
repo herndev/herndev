@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
- - ⏩ [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)
+ - 💣 [Sky above Croatia right now.](http://9gag.com/gag/abA4GKL)
+ - ⏩ [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)
  - 👉 [Nice](http://9gag.com/gag/apR6mOE)<!-- MEMES:END -->
 
 ---
