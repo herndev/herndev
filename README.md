@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s Big Spring Sale starts now, save up to $400 on Apple products](https://appleinsider.com/articles/25/03/25/amazons-big-spring-sale-starts-now-save-up-to-400-on-apple-products?utm_medium=rss)
  - [A look at the 25-year-old CVE program, which assigns unique IDs to flaws; 413 orgs now report CVEs, with 40K+ reported in 2024, pushing the total past 270K &lpar;Cynthia Brumfield/CyberScoop&rpar;](http://www.techmeme.com/250325/p4#a250325p4)
- - [The impossible PS3 emulator for Android now supports Bluetooth controllers](https://www.androidauthority.com/ps3-emulator-android-bluetooth-controller-3538071/)
- - [A look at Apple&#39;s strategy missteps with TV+, including trying to rival Netflix by building a platform from scratch, using TV+ to boost device sales, and more &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250325/p3#a250325p3)<!-- TECH:END -->
+ - [The impossible PS3 emulator for Android now supports Bluetooth controllers](https://www.androidauthority.com/ps3-emulator-android-bluetooth-controller-3538071/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
