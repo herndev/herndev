@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The 1990&#39;s style is just better.](http://9gag.com/gag/aMVPxyG)
- - ⏩ [Mars\u2014140 million miles from Earth. And yet, thanks to NASA, we\u2019re seeing it like it\u2019s just around the corner. Sound on!](http://9gag.com/gag/an725r5)
- - 👉 [Cool hobby](http://9gag.com/gag/aO8Z79M)<!-- MEMES:END -->
+ - 💣 [Insane and evil](http://9gag.com/gag/azxKmpN)
+ - ⏩ [I can&#39;t wait for ozempic to cause sudden heart attacks and clean up all the hypocrites](http://9gag.com/gag/amo6BEj)
+ - 👉 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)<!-- MEMES:END -->
 
 ---
 
