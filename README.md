@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ spends millions to hire &#39;F1&#39; team for UFO thriller](https://appleinsider.com/articles/25/03/25/apple-tv-spends-millions-to-hire-f1-team-for-ufo-thriller?utm_medium=rss)
- - [TechInsights: the costs of 300mm wafers at TSMC&#39;s Fab 21 near Phoenix, Arizona, are set to be only ~10% higher than those of similar wafers processed in Taiwan &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250325/p14#a250325p14)
- - [Sources: the European Commission is set to close its year-long probe into Apple&#39;s browser options on iOS after the company made changes to comply with the DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250325/p13#a250325p13)<!-- TECH:END -->
+ - [Apple may escape big fine after iPhone browser selection screen changes](https://appleinsider.com/articles/25/03/25/apple-may-escape-big-fine-after-iphone-browser-selection-screen-changes?utm_medium=rss)
+ - [AirFly’s wireless headphone dongle adds volume controls and better sound](https://www.theverge.com/news/634582/twelve-south-airfly-pro-2-wireless-headphone-bluetooth-dongle)
+ - [Otter’s new AI agent can speak up in meetings](https://www.theverge.com/news/635176/otter-ai-voice-activated-meeting-agent-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
