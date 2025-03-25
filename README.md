@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t make the rules](http://9gag.com/gag/avy6oKM)
- - ⏩ [Cool hobby](http://9gag.com/gag/aO8Z79M)
- - 👉 [I was there Gandalf....](http://9gag.com/gag/ae9ZDYO)<!-- MEMES:END -->
+ - 💣 [All this just for a moment? Was it worth it?](http://9gag.com/gag/aE0AgPG)
+ - ⏩ [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)
+ - 👉 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)<!-- MEMES:END -->
 
 ---
 
