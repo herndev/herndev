@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [When does the Shining Revelry expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/545173/shining-revelry-expansion-release-time-date-edt-pdt-gmt)
  - [Can Cutiefly be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/545390/can-cutiefly-be-shiny-ribombee)
- - [Today&#39;s Wordle answer for Tuesday, March 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-25-2025/)
- - [Magic: The Gathering&#39;s Tarkir: Dragonstorm set isn&#39;t just about dragons](https://www.pcgamer.com/games/card-games/magic-the-gatherings-tarkir-dragonstorm-set-isnt-just-about-dragons/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, March 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-25-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
