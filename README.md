@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally.. Someone opened!!](http://9gag.com/gag/awy1oAQ)
- - ⏩ [Lol.](http://9gag.com/gag/aYQDy0q)
+ - 💣 [Lol.](http://9gag.com/gag/aYQDy0q)
+ - ⏩ [Entitled much!?](http://9gag.com/gag/amo65Gj)
  - 👉 [I bet she\u2019s heaps of fun and she loves sports\u2026 Let goofy people be goofy!](http://9gag.com/gag/adBQ8ON)<!-- MEMES:END -->
 
 ---
