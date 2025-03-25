@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 on the Samsung Galaxy S25!](https://www.androidauthority.com/samsung-galaxy-s25-deal-3488405/)
- - [Ripple says it agreed to settle a US SEC civil lawsuit over the alleged sale of unregistered securities and pay just $50M of a previously imposed $125M fine &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250325/p33#a250325p33)
- - [Amazon’s big spring sale is live, and here are the 62 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [Google says its new ‘reasoning’ Gemini AI models are the best ones yet](https://www.theverge.com/news/635502/google-gemini-2-5-reasoning-ai-model)
+ - [Google Play is working on new categories of badges for Android’s very best apps](https://www.androidauthority.com/play-store-badges-2-3538466/)
+ - [In an addendum to the GPT-4o system card, OpenAI says it is not blocking the image generation of adult public figures and that public figures can opt out &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250325/p36#a250325p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
