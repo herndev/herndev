@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI launched a task force to investigate Tesla attacks](https://www.theverge.com/news/635091/fbi-tesla-task-force-terrorism)
- - [Researchers say a Next.js flaw that existed for several years could&#39;ve allowed hackers to bypass middleware-based authentication; Vercel patched it on March 18 &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250324/p26#a250324p26)
- - [Amazon Echo Dot and Pop deals: Save as much as 25%](https://www.androidauthority.com/amazon-echo-dot-pop-deals-2-3537955/)<!-- TECH:END -->
+ - [Aventon Abound SR review: fat tires, good weight, great tech in a fun e-bike](https://appleinsider.com/articles/25/03/24/aventon-abound-sr-review-fat-tires-good-weight-great-tech-in-a-fun-e-bike?utm_medium=rss)
+ - [Sources say that 11x, an AI-powered sales automation startup backed by a16z and Benchmark, has been misrepresenting its customer base and financial performance &lpar;TechCrunch&rpar;](http://www.techmeme.com/250324/p29#a250324p29)
+ - [Sources: quantum computing startup PsiQuantum is raising at least $750M led by BlackRock at a $6B pre-money valuation &lpar;Reuters&rpar;](http://www.techmeme.com/250324/p28#a250324p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
