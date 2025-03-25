@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bambu H2D isn’t just a bigger 3D printer — it’s a laser cutter, pen plotter, and Cricut competitor too](https://www.theverge.com/news/634294/bambu-lab-h2d-3d-printer-laser-pen-blade-price-release-date)
- - [Indirect price increase: AT&amp;T will reportedly reduce its autopay discount for some customers](https://www.androidauthority.com/att-autopay-reduction-3538210/)
- - [Apple faces billions in liability from Trump&#39;s TikTok ban delay](https://appleinsider.com/articles/25/03/25/apple-faces-billions-in-liability-from-trumps-tiktok-ban-delay?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Music is opening its catalog to DJs by integrating with popular DJ software and hardware platforms including Algoriddim&#39;s djay Pro and AlphaTheta &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/250325/p18#a250325p18)
+ - [Amazon’s big spring sale is live, and here are the 54 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [AI startup Synthesia says it&#39;s creating a $1M stock pool to pay actors with equity for the use of their likeness, a first for the AI industry &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250325/p17#a250325p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
