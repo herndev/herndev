@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may escape big fine after iPhone browser selection screen changes](https://appleinsider.com/articles/25/03/25/apple-may-escape-big-fine-after-iphone-browser-selection-screen-changes?utm_medium=rss)
- - [AirFly’s wireless headphone dongle adds volume controls and better sound](https://www.theverge.com/news/634582/twelve-south-airfly-pro-2-wireless-headphone-bluetooth-dongle)
- - [Otter’s new AI agent can speak up in meetings](https://www.theverge.com/news/635176/otter-ai-voice-activated-meeting-agent-availability)<!-- TECH:END -->
+ - [The Bambu H2D isn’t just a bigger 3D printer — it’s a laser cutter, pen plotter, and Cricut competitor too](https://www.theverge.com/news/634294/bambu-lab-h2d-3d-printer-laser-pen-blade-price-release-date)
+ - [Indirect price increase: AT&amp;T will reportedly reduce its autopay discount for some customers](https://www.androidauthority.com/att-autopay-reduction-3538210/)
+ - [Apple faces billions in liability from Trump&#39;s TikTok ban delay](https://appleinsider.com/articles/25/03/25/apple-faces-billions-in-liability-from-trumps-tiktok-ban-delay?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
