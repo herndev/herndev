@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Magic: The Gathering&#39;s Tarkir: Dragonstorm set isn&#39;t just about dragons](https://www.pcgamer.com/games/card-games/magic-the-gatherings-tarkir-dragonstorm-set-isnt-just-about-dragons/)
  - [Powder enthusiasts seem pretty pleased with new physics-based realistic snowmobile sim Sledders](https://www.pcgamer.com/games/sim/powder-enthusiasts-seem-pretty-pleased-with-new-physics-based-realistic-snowmobile-sim-sledders/)
- - [Where to find Kuji-Kiri locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/541590/kuji-kiri-locations-all-list-maps-where-to-find)
- - [As Civilization 7 struggles to keep up with Civ 5 player counts, a new patch is coming tomorrow with still more UI changes and gameplay tweaks](https://www.pcgamer.com/games/strategy/as-civilization-7-struggles-to-keep-up-with-civ-5-player-counts-a-new-patch-is-coming-tomorrow-with-still-more-ui-changes-and-gameplay-tweaks/)<!-- GAME:END -->
+ - [Where to find Kuji-Kiri locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/541590/kuji-kiri-locations-all-list-maps-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
