@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zenshu was the best kind of love letter to everyone who loves anime too much](https://www.polygon.com/anime/545683/zenshu-review-great-anime-winter-2025-season-finale)
- - [&#39;It&#39;s a bittersweet victory&#39;: Meta has been forced to stop ad-tracking one individual in the UK after settling a years-long court case](https://www.pcgamer.com/hardware/its-a-bittersweet-victory-meta-has-been-forced-to-stop-ad-tracking-one-individual-in-the-uk-after-settling-a-years-long-court-case/)
- - [Assassin&#39;s Creed Shadows is a hit and Steam played a &#39;significant role&#39; in that: 27% of activations were on PC and it&#39;s the 2nd-biggest AC launch of all time](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-is-a-hit-and-steam-played-a-significant-role-in-that-27-percent-of-activations-were-on-pc-and-its-the-2nd-biggest-ac-launch-of-all-time/)<!-- GAME:END -->
+ - [Tales of the Shire: A The Lord of The Rings Game – community building and shared meals gameplay details](https://blog.playstation.com/2025/03/25/tales-of-the-shire-a-the-lord-of-the-rings-game-community-building-and-shared-meals-gameplay-details/)
+ - [Designing the Iconic Liquid Metal T-1000 Terminator for Mortal Kombat 1](https://news.xbox.com/en-us/2025/03/25/designing-t1000-terminator-for-mortal-kombat-1/)
+ - [The 10 games that defined the Nintendo Switch](https://www.polygon.com/nintendo/545093/nintendo-switch-most-important-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
