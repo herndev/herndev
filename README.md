@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tales of the Shire: A The Lord of The Rings Game – community building and shared meals gameplay details](https://blog.playstation.com/2025/03/25/tales-of-the-shire-a-the-lord-of-the-rings-game-community-building-and-shared-meals-gameplay-details/)
- - [Designing the Iconic Liquid Metal T-1000 Terminator for Mortal Kombat 1](https://news.xbox.com/en-us/2025/03/25/designing-t1000-terminator-for-mortal-kombat-1/)
- - [The 10 games that defined the Nintendo Switch](https://www.polygon.com/nintendo/545093/nintendo-switch-most-important-games)<!-- GAME:END -->
+ - [Lego’s next Lord of the Rings set takes us to The Shire](https://www.polygon.com/pre-order/545917/lego-lord-of-the-rings-shire-sean-astin-where-to-buy)
+ - [Steel Hunters is like a more tactical Titanfall, but as an extraction shooter it&#39;s undermined by boring loot](https://www.pcgamer.com/games/third-person-shooter/steel-hunters-is-like-a-more-tactical-titanfall-but-as-an-extraction-shooter-its-undermined-by-boring-loot/)
+ - [Tales of the Shire: A The Lord of The Rings Game – community building and shared meals gameplay details](https://blog.playstation.com/2025/03/25/tales-of-the-shire-a-the-lord-of-the-rings-game-community-building-and-shared-meals-gameplay-details/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
