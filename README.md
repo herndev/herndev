@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)
- - ⏩ [Carma.](http://9gag.com/gag/aryXo75)
- - 👉 [I can&#39;t wait for ozempic to cause sudden heart attacks and clean up all the hypocrites](http://9gag.com/gag/amo6BEj)<!-- MEMES:END -->
+ - 💣 [I don&#39;t make the rules](http://9gag.com/gag/avy6oKM)
+ - ⏩ [Cool hobby](http://9gag.com/gag/aO8Z79M)
+ - 👉 [I was there Gandalf....](http://9gag.com/gag/ae9ZDYO)<!-- MEMES:END -->
 
 ---
 
