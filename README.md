@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego’s next Lord of the Rings set takes us to The Shire](https://www.polygon.com/pre-order/545917/lego-lord-of-the-rings-shire-sean-astin-where-to-buy)
- - [Steel Hunters is like a more tactical Titanfall, but as an extraction shooter it&#39;s undermined by boring loot](https://www.pcgamer.com/games/third-person-shooter/steel-hunters-is-like-a-more-tactical-titanfall-but-as-an-extraction-shooter-its-undermined-by-boring-loot/)
- - [Tales of the Shire: A The Lord of The Rings Game – community building and shared meals gameplay details](https://blog.playstation.com/2025/03/25/tales-of-the-shire-a-the-lord-of-the-rings-game-community-building-and-shared-meals-gameplay-details/)<!-- GAME:END -->
+ - [Minecraft: Vibrant Visuals Transforms the Game Into What You’ve Always Imagined in Your Head](https://news.xbox.com/en-us/2025/03/25/minecraft-vibrant-visuals/)
+ - [Take A Break From Murderous Revenge With Some Interior Design In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-hideout-customization-unlock-1851772163)
+ - [Assassin’s Creed Shadows’ Japanese reviews reframe the historical accuracy debate](https://www.polygon.com/gaming/545774/assassins-creed-shadows-japanese-reviews-reframe-the-historical-accuracy-debate)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
