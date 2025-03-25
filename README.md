@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the European Commission is expected to find that Meta violated the DMA and fine the company hundreds of millions of dollars, possibly over $1B &lpar;Thomas Barrabi/New York Post&rpar;](http://www.techmeme.com/250324/p34#a250324p34)
- - [How to build an offline reading library &amp; access articles anytime](https://appleinsider.com/inside/ipad/tips/how-to-build-an-offline-reading-library-access-articles-anytime?utm_medium=rss)
- - [Chinese AI startups revamp business models after DeepSeek&#39;s rise; sources: Zhipu eyes IPO, 01.ai drops pre-training LLMs to sell apps using DeepSeek, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/250324/p33#a250324p33)<!-- TECH:END -->
+ - [Apple Watch could gain cameras for Visual Intelligence](https://appleinsider.com/articles/25/03/23/apple-watch-could-gain-cameras-to-improve-ai-features?utm_medium=rss)
+ - [Alibaba Chairman Joe Tsai warns of a data center bubble, saying the buildout may outpace early AI demand and is starting to look indiscriminate &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250324/p35#a250324p35)
+ - [Sources: the European Commission is expected to find that Meta violated the DMA and fine the company hundreds of millions of dollars, possibly over $1B &lpar;Thomas Barrabi/New York Post&rpar;](http://www.techmeme.com/250324/p34#a250324p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
