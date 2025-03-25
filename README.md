@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sky above Croatia right now.](http://9gag.com/gag/abA4GKL)
- - ⏩ [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)
- - 👉 [Nice](http://9gag.com/gag/apR6mOE)<!-- MEMES:END -->
+ - 💣 [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)
+ - ⏩ [Dead internet](http://9gag.com/gag/aNDQg9v)
+ - 👉 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)<!-- MEMES:END -->
 
 ---
 
