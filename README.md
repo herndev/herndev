@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese AI startups revamp business models after DeepSeek&#39;s rise; sources: Zhipu eyes IPO, 01.ai drops pre-training LLMs to sell apps using DeepSeek, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/250324/p33#a250324p33)
- - [Apple seeds release candidates for iOS 18.4, macOS 15.4](https://appleinsider.com/articles/25/03/24/apple-seeds-release-candidates-for-ios-184-macos-154?utm_medium=rss)
- - [Apple finally brings lossless audio and low-latency audio to AirPods Max](https://appleinsider.com/articles/25/03/24/apple-finally-brings-lossless-audio-and-low-latency-audio-to-airpods-max?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the European Commission is expected to find that Meta violated the DMA and fine the company hundreds of millions of dollars, possibly over $1B &lpar;Thomas Barrabi/New York Post&rpar;](http://www.techmeme.com/250324/p34#a250324p34)
+ - [How to build an offline reading library &amp; access articles anytime](https://appleinsider.com/inside/ipad/tips/how-to-build-an-offline-reading-library-access-articles-anytime?utm_medium=rss)
+ - [Chinese AI startups revamp business models after DeepSeek&#39;s rise; sources: Zhipu eyes IPO, 01.ai drops pre-training LLMs to sell apps using DeepSeek, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/250324/p33#a250324p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
