@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insane and evil](http://9gag.com/gag/azxKmpN)
- - ⏩ [I can&#39;t wait for ozempic to cause sudden heart attacks and clean up all the hypocrites](http://9gag.com/gag/amo6BEj)
+ - 💣 [That was awesome](http://9gag.com/gag/amo6742)
+ - ⏩ [Black people celebrating OJ&#39;s verdict in 1995 while white people look upon in shock that an obvious murderer would be acquitted](http://9gag.com/gag/aNDQYVw)
  - 👉 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)<!-- MEMES:END -->
 
 ---
