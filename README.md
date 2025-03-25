@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite finally brings back a fan-favorite mode, but it’s filled with bots](https://www.polygon.com/news/546448/fortnite-og-50-vs-50-ltm-bots)
- - [How to use energy crystals in REPO](https://www.polygon.com/guides/546262/repo-energy-crystals-use-how-to)
- - [How to get more scouts in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/539664/scouts-refill-how-to-get-more-increase)<!-- GAME:END -->
+ - [Check Out the In-Game Event for A Minecraft Movie](https://www.minecraft.net/article/a-minecraft-movie-live-event#new_tab)
+ - [Armor locations list in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/541239/armor-sets-all-list-locations-how-to-get)
+ - [How to get tranq bombs in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/542544/tranq-bombs-how-to-get-craft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
