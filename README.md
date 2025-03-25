@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Check Out the In-Game Event for A Minecraft Movie](https://www.minecraft.net/article/a-minecraft-movie-live-event#new_tab)
- - [Armor locations list in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/541239/armor-sets-all-list-locations-how-to-get)
- - [How to get tranq bombs in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/542544/tranq-bombs-how-to-get-craft)<!-- GAME:END -->
+ - [After punishing my graphics card with Monster Hunter Wilds, I&#39;ve returned to the rock-solid frame rates of my old hunting grounds: Windows XP](https://www.pcgamer.com/games/action/after-punishing-my-graphics-card-with-monster-hunter-wilds-ive-returned-to-the-rock-solid-frame-rates-of-my-old-hunting-grounds-windows-xp/)
+ - [Game Informer is back from the dead: &#39;The whole team has returned&#39;](https://www.pcgamer.com/gaming-industry/game-informer-is-back-from-the-dead-the-whole-team-has-returned/)
+ - [From Palworld movies to Palworld TV shows: &#39;Everyone under the sun pitched us every idea you can imagine,&#39; says Pocketpair&#39;s communications director](https://www.pcgamer.com/games/survival-crafting/from-palworld-movies-to-palworld-tv-shows-everyone-under-the-sun-pitched-us-every-idea-you-can-imagine-says-pocketpairs-communications-director/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
