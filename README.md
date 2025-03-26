@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insane and evil](http://9gag.com/gag/azxKmpN)
- - ⏩ [Only in America.](http://9gag.com/gag/a340R37)
- - 👉 [Bet you weren&#39;t expecting that intro. Respect yourselves.](http://9gag.com/gag/a4PN31w)<!-- MEMES:END -->
+ - 💣 [Explain pencils](http://9gag.com/gag/aMVPKX1)
+ - ⏩ [Perfection](http://9gag.com/gag/aD28d5w)
+ - 👉 [The perfect necklace doesn&#39;t exist...](http://9gag.com/gag/axy6yVM)<!-- MEMES:END -->
 
 ---
 
