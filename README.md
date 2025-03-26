@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says the iPhone 16 series will be available in Indonesia from April 11, after Jakarta lifted a sales ban following Apple&#39;s $300M+ investment plan &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/250326/p21#a250326p21)
- - [Look Around in Apple Maps imagery will be used to train Apple Intelligence](https://appleinsider.com/articles/25/03/26/look-around-in-apple-maps-imagery-will-be-used-to-train-apple-intelligence?utm_medium=rss)
- - [Gemini 2.5 Pro hands-on: a very strong model with 1M input and 64K output tokens, a January 2025 knowledge cut-off, and very, very impressive coding skills &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250326/p20#a250326p20)<!-- TECH:END -->
+ - [This dumb Gemini limitation makes me want to switch back to Google Assistant](https://www.androidauthority.com/geminis-multiple-calendar-support-limitation-3538240/)
+ - [Sony PlayStation DualSense Edge Controller Review: Gaming Upgrade](https://www.wired.com/review/sony-playstation-dualsense-edge-controller/)
+ - [Studio Ghibli’s archive is the key to its 4K restoration process](https://www.theverge.com/entertainment/634951/studio-ghibli-mononoke-4k-restoration-atsushi-okui)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
