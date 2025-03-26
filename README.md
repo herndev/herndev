@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Avocado Mattress Review: A Comfortable, Eco-Friendly, Organic Mattress](https://www.wired.com/review/avocado-green-mattress/)
- - [Waze says it is removing Google Assistant for iPhone users, citing &quot;ongoing difficulties&quot; with the integration, after recently testing a Gemini-based assistant &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250326/p28#a250326p28)
- - [iOS 19 could go all-in on transparency, and sadly, Android OEMs may just follow along](https://www.androidauthority.com/ios-19-design-refresh-leak-3538717/)<!-- TECH:END -->
+ - [&#39;Severance&#39; editor was all-in on Apple hardware, but not Final Cut Pro](https://appleinsider.com/articles/25/03/26/severance-editor-was-all-in-on-apple-hardware-but-not-final-cut-pro?utm_medium=rss)
+ - [Samsung lays out its timetable for One UI 7 on older Galaxy hardware](https://www.androidauthority.com/samsung-one-ui-7-update-timetable-3538759/)
+ - [That extra button on Nothing’s new phones might soon cost money &lpar;APK teardown&rpar;](https://www.androidauthority.com/nothing-essential-space-subscription-3538293/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
