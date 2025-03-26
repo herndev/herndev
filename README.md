@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT’s new image generator is delayed for free users](https://www.theverge.com/news/636948/openai-chatgpt-image-generation-gpt-4o)
- - [The Galaxy A26 and A36 go on sale in US with Android 15 and 6 years of updates](https://www.androidauthority.com/samsung-galaxy-a26-a36-on-sale-3538877/)
- - [A US federal judge rejects OpenAI&#39;s request to dismiss the NYT&#39;s lawsuit, allowing the main copyright infringement claims to go forward while narrowing the suit &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250326/p36#a250326p36)<!-- TECH:END -->
+ - [Nothing’s colorful, entry-level earbuds have fallen to their best price to date](https://www.theverge.com/tech/636935/nothing-ear-a-wireless-earbuds-amazon-big-spring-sale-2025-deal-sale)
+ - [Trump says he will impose a 25 percent tariff on imported vehicles](https://www.theverge.com/news/637004/trump-auto-tariffs-25-percent)
+ - [xAI&#39;s Grok AI chatbot is now integrated with Telegram for Telegram Premium users, marking Grok&#39;s first big expansion beyond X &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/250326/p38#a250326p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
