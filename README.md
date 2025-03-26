@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Severance&#39; editor was all-in on Apple hardware, but not Final Cut Pro](https://appleinsider.com/articles/25/03/26/severance-editor-was-all-in-on-apple-hardware-but-not-final-cut-pro?utm_medium=rss)
- - [Samsung lays out its timetable for One UI 7 on older Galaxy hardware](https://www.androidauthority.com/samsung-one-ui-7-update-timetable-3538759/)
- - [That extra button on Nothing’s new phones might soon cost money &lpar;APK teardown&rpar;](https://www.androidauthority.com/nothing-essential-space-subscription-3538293/)<!-- TECH:END -->
+ - [Despite some upgrades, this new Google TV box has fans fuming](https://www.androidauthority.com/xiaomi-google-tv-box-s-3rd-gen-3538829/)
+ - [Apple doesn&#39;t appear to have plans to revive the iPhone mini](https://appleinsider.com/articles/25/03/26/apple-doesnt-appear-to-have-plans-to-revive-the-iphone-mini?utm_medium=rss)
+ - [Leaked financial figures: Stripe doubled its free cash flow in 2024 to about $2.2B and grew revenues by about 28% to $5.1B; Chime grew revenues by 31% to $1.7B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250326/p31#a250326p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
