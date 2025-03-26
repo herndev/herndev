@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kaiserpunk melds multiple genres while succeeding in none](https://www.polygon.com/review/546592/kaiserpunk-review-pc)
- - [Don&#39;t panic! The &#39;Do Not Send Voice Recordings&#39; option Amazon just removed was only used by 0.03% of customers and they can still have it](https://www.pcgamer.com/hardware/dont-panic-the-do-not-send-voice-recordings-option-amazon-just-removed-was-only-used-by-0-03-percent-of-customers-and-they-can-still-have-it/)
- - [Intel is reportedly &#39;working to finalize commitments from Nvidia&#39; as a foundry partner, suggesting gaming potential for the 18A node](https://www.pcgamer.com/hardware/processors/intel-is-reportedly-working-to-finalize-commitments-from-nvidia-as-a-foundry-partner-suggesting-gaming-potential-for-the-18a-node/)<!-- GAME:END -->
+ - [Ubisoft scores a legendary ratio against Elon Musk on his own platform—which hopefully marks a final end to all the Assassin&#39;s Creed Shadows&#39; culture war nonsense](https://www.pcgamer.com/games/assassins-creed/ubisoft-scores-a-legendary-ratio-against-elon-musk-on-his-own-platform-which-hopefully-marks-a-final-end-to-all-the-assassins-creed-shadows-culture-war-nonsense/)
+ - [Gran Turismo 7 update 1.57 available today](https://blog.playstation.com/2025/03/26/gran-turismo-7-update-1-57-available-today/)
+ - [12 Of The Biggest Choices We&#39;ve Agonized Over In Games](https://kotaku.com/video-game-best-choices-decisions-mass-effect-witcher-3-1851772314)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
