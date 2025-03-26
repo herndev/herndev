@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, March 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-26-2025/)
  - [The Spring Sale comes to PlayStation Store March 26](https://blog.playstation.com/2025/03/25/the-spring-sale-comes-to-playstation-store-march-26/)
- - [The Spring Sale comes to PlayStation Store March 26](https://blog.playstation.com/2025/03/25/the-spring-sale-comes-to-playstation-store-march-26/)
- - [One year later, City of Heroes&#39; officially recognized fan server has me praying it&#39;s the future of dead MMOs](https://www.pcgamer.com/games/mmo/one-year-later-city-of-heroes-officially-recognized-fan-server-has-me-praying-its-the-future-of-dead-mmos/)<!-- GAME:END -->
+ - [The Spring Sale comes to PlayStation Store March 26](https://blog.playstation.com/2025/03/25/the-spring-sale-comes-to-playstation-store-march-26/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
