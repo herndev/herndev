@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One year later, City of Heroes&#39; officially recognized fan server has me praying it&#39;s the future of dead MMOs](https://www.pcgamer.com/games/mmo/one-year-later-city-of-heroes-officially-recognized-fan-server-has-me-praying-its-the-future-of-dead-mmos/)
- - [The best REPO mods](https://www.polygon.com/guides/546341/best-repo-mods-more-players-heads-upgrades-hd)
- - [Assassin&#39;s Creed Shadows&#39; first hotfix addresses stability issues and a photo mode crash](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-first-hotfix-addresses-stability-issues-and-a-photo-mode-crash/)<!-- GAME:END -->
+ - [The Spring Sale comes to PlayStation Store March 26](https://blog.playstation.com/2025/03/25/the-spring-sale-comes-to-playstation-store-march-26/)
+ - [The Spring Sale comes to PlayStation Store March 26](https://blog.playstation.com/2025/03/25/the-spring-sale-comes-to-playstation-store-march-26/)
+ - [One year later, City of Heroes&#39; officially recognized fan server has me praying it&#39;s the future of dead MMOs](https://www.pcgamer.com/games/mmo/one-year-later-city-of-heroes-officially-recognized-fan-server-has-me-praying-its-the-future-of-dead-mmos/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
