@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&amp;#8217;s on your desk, Jennifer Pattison Tuohy?](https://www.theverge.com/tech/634084/desk-home-office-jennifer-pattison-tuohy)
- - [No Man’s Sky gets prehistoric with Relics expansion](https://www.theverge.com/news/635890/no-mans-sky-relics-update-archaeology)
- - [Amazon’s big spring sale continues, and we found the 72 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [Metaphor: ReFantazio’s elaborate menus are designed to heighten your emotions](https://www.theverge.com/games/636243/metaphor-refantazio-ui-menu-interview-koji-ise)
+ - [The base iPad is finally being left behind](https://www.theverge.com/apple/636335/ipad-2025-11th-generation-review)
+ - [The Nissan Leaf lives on as a compact SUV with a Tesla charge port](https://www.theverge.com/news/636386/nissan-leaf-third-generation-ev-suv-nacs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
