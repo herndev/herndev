@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cristiano Ronaldo is playable in Fatal Fury because reality wasn’t absurd enough already](https://www.polygon.com/news/547300/cristiano-ronaldo-fatal-fury-city-of-the-wolves-snk)
- - [Avengers: Doomsday is looking like a ’00s X-Men reunion — Patrick Stewart and Ian McKellan are back](https://www.polygon.com/marvel/547397/avengers-doomsday-professor-x-magneto-patrick-stewart-ian-mckellen)
- - [Today&#39;s RPG fans are &#39;very sensitive to feeling like they wasted time&#39; when they die, says Metaphor: ReFantazio battle planner—but Atlus still made combat hard anyway](https://www.pcgamer.com/games/rpg/todays-rpg-fans-are-very-sensitive-to-feeling-like-they-wasted-time-when-they-die-says-metaphor-refantazio-battle-planner-but-atlus-still-made-combat-hard-anyway/)<!-- GAME:END -->
+ - [Should you help with the Fukui Curse in Assassin’s Creed Shadows?](https://www.polygon.com/assassins-creed-shadows-guides/547478/fukui-curse-help-refuse)
+ - [Ex-PlayStation Boss Shawn Layden Says He Left Sony In Part Because Of Pivot To Live Service](https://kotaku.com/ps5-shawn-layden-live-service-sony-last-us-online-1851772581)
+ - [Avengers: Doomsday is looking like a ’00s X-Men reunion — Patrick Stewart, Ian McKellan, and more are back](https://www.polygon.com/marvel/547397/avengers-doomsday-professor-x-magneto-patrick-stewart-ian-mckellen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
