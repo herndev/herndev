@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metaphor: ReFantazio’s elaborate menus are designed to heighten your emotions](https://www.theverge.com/games/636243/metaphor-refantazio-ui-menu-interview-koji-ise)
- - [The base iPad is finally being left behind](https://www.theverge.com/apple/636335/ipad-2025-11th-generation-review)
- - [The Nissan Leaf lives on as a compact SUV with a Tesla charge port](https://www.theverge.com/news/636386/nissan-leaf-third-generation-ev-suv-nacs)<!-- TECH:END -->
+ - [Avocado Mattress Review: A Comfortable, Eco-Friendly, Organic Mattress](https://www.wired.com/review/avocado-green-mattress/)
+ - [Waze says it is removing Google Assistant for iPhone users, citing &quot;ongoing difficulties&quot; with the integration, after recently testing a Gemini-based assistant &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250326/p28#a250326p28)
+ - [iOS 19 could go all-in on transparency, and sadly, Android OEMs may just follow along](https://www.androidauthority.com/ios-19-design-refresh-leak-3538717/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
