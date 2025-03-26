@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Game of the year](http://9gag.com/gag/ayN6emb)
- - ⏩ [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
- - 👉 [What daughter?](http://9gag.com/gag/a5Qw19g)<!-- MEMES:END -->
+ - 💣 [Turkish Hairlines sponsored](http://9gag.com/gag/aGyBdWz)
+ - ⏩ [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
+ - 👉 [A masterclass in how not to ride downhill](http://9gag.com/gag/aNDQgMw)<!-- MEMES:END -->
 
 ---
 
