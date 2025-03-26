@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;You&#39;re a very long arm. You steal things. It&#39;s a comedy game,&#39; explains developer of comedy game where you steal things with a very long arm](https://www.pcgamer.com/games/action/youre-a-very-long-arm-you-steal-things-its-a-comedy-game-explains-developer-of-comedy-game-where-you-steal-things-with-a-very-long-arm/)
- - [Pillars of Eternity is getting turn-based combat to mark its 10th anniversary, and that means PC Gamer editors will soon be arguing about combat mechanics again](https://www.pcgamer.com/games/rpg/pillars-of-eternity-is-getting-turn-based-combat-to-mark-its-10th-anniversary-and-that-means-pc-gamer-editors-will-soon-be-arguing-about-combat-mechanics-again/)
- - [Every reveal from Marvel Studios’ five-hour livestream of the Avengers: Doomsday cast](https://www.polygon.com/marvel/547051/avengers-doomsday-cast-announcement-livestream)<!-- GAME:END -->
+ - [Mecha Break developer is considering unlocking all mechs following open beta feedback](https://www.pcgamer.com/games/third-person-shooter/mecha-break-developer-is-considering-unlocking-all-mechs-following-open-beta-feedback/)
+ - [Tomb Raider developer Crystal Dynamics lays off 17 employees &#39;to better align our current business needs and the studio&#39;s future success&#39;](https://www.pcgamer.com/gaming-industry/tomb-raider-developer-crystal-dynamics-lays-off-17-employees-to-better-align-our-current-business-needs-and-the-studios-future-success/)
+ - [Each of Marvel’s Avengers: Doomsday reveals made me a little less excited for Avengers: Doomsday](https://www.polygon.com/marvel/547616/avengers-doomsday-cast-reveal-reaction)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
