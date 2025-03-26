@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
- - ⏩ [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)
+ - ⏩ [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
  - 👉 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)<!-- MEMES:END -->
 
 ---
