@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Selects for March 2025: Spring Into Your Next Adventure](https://news.xbox.com/en-us/2025/03/26/indie-selects-march-2025-id-xbox/)
- - [PlayStation 5 Now Lets You Post Beets In The Group Chat](https://kotaku.com/playstation-5-update-emoji-activity-card-patch-notes-1851772443)
- - [Ubisoft scores a legendary ratio against Elon Musk on his own platform—which hopefully marks a final end to all the Assassin&#39;s Creed Shadows&#39; culture war nonsense](https://www.pcgamer.com/games/assassins-creed/ubisoft-scores-a-legendary-ratio-against-elon-musk-on-his-own-platform-which-hopefully-marks-a-final-end-to-all-the-assassins-creed-shadows-culture-war-nonsense/)<!-- GAME:END -->
+ - [Wildgate: A Deep Space Dive into Moonshot’s Crew-Based Shooter](https://news.xbox.com/en-us/2025/03/26/wildgate-deep-dive-crew-based-shooter/)
+ - [&#39;Ok, so dragon builds are a thing now&#39;: galaxy-brained Helldivers 2 player incinerates a bile titan with a hover pack and a flamethrower](https://www.pcgamer.com/games/action/ok-so-dragon-builds-are-a-thing-now-galaxy-brained-helldivers-2-player-incinerates-a-bile-titan-with-a-hover-pack-and-a-flamethrower/)
+ - [Where to find a signal redirector in Atomfall](https://www.pcgamer.com/games/fps/atomfall-signal-redirector-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
