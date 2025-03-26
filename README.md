@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whoop](http://9gag.com/gag/apR6R58)
- - ⏩ [Cover, cover up everywhere..](http://9gag.com/gag/a5QwQGN)
- - 👉 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)<!-- MEMES:END -->
+ - 💣 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
+ - ⏩ [What daughter?](http://9gag.com/gag/a5Qw19g)
+ - 👉 [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)<!-- MEMES:END -->
 
 ---
 
