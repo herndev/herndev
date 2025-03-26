@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing More In-Game Benefits for Free-to-Play Games with Game Pass](https://news.xbox.com/en-us/2025/03/26/game-pass-free-to-play-benefits/)
- - [The Nintendo Switch traumatized my family and I cannot forgive it](https://www.polygon.com/opinion/543105/the-nintendo-switch-traumatized-my-family-and-i-cannot-forgive-it)
- - [Marvel Studios’ mysterious livestream may be revealing Avengers: Doomsday cast](https://www.polygon.com/marvel/547051/avengers-doomsday-cast-announcement-livestream)<!-- GAME:END -->
+ - [The 19 best board game deals of Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/546315/best-board-game-deals-amazon-big-spring-sale)
+ - [Be The Most Stylish Hunter In The Desert By Changing Your Appearance In Monster Hunter Wilds](https://kotaku.com/monster-hunter-wilds-appearance-cosmetics-transmog-1851772498)
+ - [Don’t expect The Witcher 4 until 2027 at the earliest](https://www.polygon.com/the-witcher/547069/witcher-4-release-date-2026-2027-cd-projekt)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
