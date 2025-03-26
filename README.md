@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wildgate: A Deep Space Dive into Moonshot’s Crew-Based Shooter](https://news.xbox.com/en-us/2025/03/26/wildgate-deep-dive-crew-based-shooter/)
- - [&#39;Ok, so dragon builds are a thing now&#39;: galaxy-brained Helldivers 2 player incinerates a bile titan with a hover pack and a flamethrower](https://www.pcgamer.com/games/action/ok-so-dragon-builds-are-a-thing-now-galaxy-brained-helldivers-2-player-incinerates-a-bile-titan-with-a-hover-pack-and-a-flamethrower/)
- - [Where to find a signal redirector in Atomfall](https://www.pcgamer.com/games/fps/atomfall-signal-redirector-location/)<!-- GAME:END -->
+ - [Introducing More In-Game Benefits for Free-to-Play Games with Game Pass](https://news.xbox.com/en-us/2025/03/26/game-pass-free-to-play-benefits/)
+ - [The Nintendo Switch traumatized my family and I cannot forgive it](https://www.polygon.com/opinion/543105/the-nintendo-switch-traumatized-my-family-and-i-cannot-forgive-it)
+ - [Marvel Studios’ mysterious livestream may be revealing Avengers: Doomsday cast](https://www.polygon.com/marvel/547051/avengers-doomsday-cast-announcement-livestream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
