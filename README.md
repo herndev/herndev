@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, March 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-26-2025/)
- - [The Spring Sale comes to PlayStation Store March 26](https://blog.playstation.com/2025/03/25/the-spring-sale-comes-to-playstation-store-march-26/)
- - [The Spring Sale comes to PlayStation Store March 26](https://blog.playstation.com/2025/03/25/the-spring-sale-comes-to-playstation-store-march-26/)<!-- GAME:END -->
+ - [Now I shall demand the cookies! Proposed new browsing agreement turns the tables and lets users dictate terms to websites](https://www.pcgamer.com/hardware/now-i-shall-demand-the-cookies-proposed-new-browsing-agreement-turns-the-tables-and-lets-users-dictate-terms-to-websites/)
+ - [Former Intel CEO, Pat Gelsinger becomes executive chairman of a &#39;Technology Platform Connecting the Faith Ecosystem&#39; to work on Christian AI using DeepSeek](https://www.pcgamer.com/hardware/former-intel-ceo-pat-gelsinger-becomes-executive-chairman-of-a-technology-platform-connecting-the-faith-ecosystem-to-work-on-christian-ai-using-deepseek/)
+ - [Today&#39;s Wordle answer for Wednesday, March 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-26-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
