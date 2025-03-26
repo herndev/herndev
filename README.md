@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GeoGuessr is coming to Steam after 12 years in your browser](https://www.theverge.com/news/636201/geoguessr-steam-browser-game-early-access)
- - [PS5 owners really want to play Xbox games, as Microsoft tops Sony’s preorder charts](https://www.theverge.com/news/636178/microsoft-playstation-store-ps5-xbox-games-preorder-chart)
- - [I Went Undercover in Crypto’s Answer to ‘Squid Game.’ It Nearly Broke Me](https://www.wired.com/story/crypto-the-game-undercover/)<!-- TECH:END -->
+ - [Apple says the iPhone 16 series will be available in Indonesia from April 11, after Jakarta lifted a sales ban following Apple&#39;s $300M+ investment plan &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/250326/p21#a250326p21)
+ - [Look Around in Apple Maps imagery will be used to train Apple Intelligence](https://appleinsider.com/articles/25/03/26/look-around-in-apple-maps-imagery-will-be-used-to-train-apple-intelligence?utm_medium=rss)
+ - [Gemini 2.5 Pro hands-on: a very strong model with 1M input and 64K output tokens, a January 2025 knowledge cut-off, and very, very impressive coding skills &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250326/p20#a250326p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
