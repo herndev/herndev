@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This dumb Gemini limitation makes me want to switch back to Google Assistant](https://www.androidauthority.com/geminis-multiple-calendar-support-limitation-3538240/)
- - [Sony PlayStation DualSense Edge Controller Review: Gaming Upgrade](https://www.wired.com/review/sony-playstation-dualsense-edge-controller/)
- - [Studio Ghibli’s archive is the key to its 4K restoration process](https://www.theverge.com/entertainment/634951/studio-ghibli-mononoke-4k-restoration-atsushi-okui)<!-- TECH:END -->
+ - [What&amp;#8217;s on your desk, Jennifer Pattison Tuohy?](https://www.theverge.com/tech/634084/desk-home-office-jennifer-pattison-tuohy)
+ - [No Man’s Sky gets prehistoric with Relics expansion](https://www.theverge.com/news/635890/no-mans-sky-relics-update-archaeology)
+ - [Amazon’s big spring sale continues, and we found the 72 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
