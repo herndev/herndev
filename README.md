@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)
- - ⏩ [Dead internet](http://9gag.com/gag/aNDQg9v)
- - 👉 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)<!-- MEMES:END -->
+ - 💣 [Understandable](http://9gag.com/gag/a4PNQy6)
+ - ⏩ [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
+ - 👉 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)<!-- MEMES:END -->
 
 ---
 
