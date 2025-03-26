@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox March Update: In-Game Benefits for Free-to-Play Games, Xbox Cloud Gaming &lpar;Beta&rpar; Updates, and More](https://news.xbox.com/en-us/2025/03/26/xbox-march-update-in-game-benefits-free-to-play-cloud-gaming/)
- - [One Of 2023&#39;s Best Shooters Will Be Free On PS Plus](https://kotaku.com/robocop-rogue-city-fps-rpg-2023-ps-plus-march-2025-free-1851772522)
- - [Old armor continues to fall victim to Final Fantasy 14&#39;s bizarre two-channel dye system, unless you&#39;re super into changing the colour of teeny-tiny eyelets: &#39;Why even bother at this point?&#39;](https://www.pcgamer.com/games/final-fantasy/old-armor-continues-to-fall-victim-to-final-fantasy-14s-bizarre-two-channel-dye-system-unless-youre-super-into-changing-the-colour-of-teeny-tiny-eyelets-why-even-bother-at-this-point/)<!-- GAME:END -->
+ - [Lies of P’s Future Begins with a Journey into the Past](https://news.xbox.com/en-us/2025/03/26/lies-of-ps-future-begins-journey-into-past/)
+ - [The best power bank deals from Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/547103/amazon-big-spring-power-bank-deal)
+ - [A new Game of Thrones RPG is coming to Steam today with a cast of &#39;familiar faces,&#39; which is good because it&#39;s really the only way to tell it&#39;s a GoT game at all](https://www.pcgamer.com/games/rpg/a-new-game-of-thrones-rpg-is-coming-to-steam-today-with-a-cast-of-familiar-faces-which-is-good-because-its-really-the-only-way-to-tell-its-a-got-game-at-all/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
