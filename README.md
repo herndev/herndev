@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
- - ⏩ [What daughter?](http://9gag.com/gag/a5Qw19g)
+ - 💣 [I understood everything!](http://9gag.com/gag/a6Z51Pq)
+ - ⏩ [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
  - 👉 [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)<!-- MEMES:END -->
 
 ---
