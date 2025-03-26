@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Turkish Hairlines sponsored](http://9gag.com/gag/aGyBdWz)
- - ⏩ [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
- - 👉 [A masterclass in how not to ride downhill](http://9gag.com/gag/aNDQgMw)<!-- MEMES:END -->
+ - 💣 [I think I downloaded the right Snow White movie](http://9gag.com/gag/aE0AqZe)
+ - ⏩ [And it has Karl Urban in it](http://9gag.com/gag/a870qVV)
+ - 👉 [I can fix her](http://9gag.com/gag/a6Z5Nom)<!-- MEMES:END -->
 
 ---
 
