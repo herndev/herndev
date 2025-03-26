@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Kaiserpunk melds multiple genres while succeeding in none](https://www.polygon.com/review/546592/kaiserpunk-review-pc)
  - [Don&#39;t panic! The &#39;Do Not Send Voice Recordings&#39; option Amazon just removed was only used by 0.03% of customers and they can still have it](https://www.pcgamer.com/hardware/dont-panic-the-do-not-send-voice-recordings-option-amazon-just-removed-was-only-used-by-0-03-percent-of-customers-and-they-can-still-have-it/)
- - [Intel is reportedly &#39;working to finalize commitments from Nvidia&#39; as a foundry partner, suggesting gaming potential for the 18A node](https://www.pcgamer.com/hardware/processors/intel-is-reportedly-working-to-finalize-commitments-from-nvidia-as-a-foundry-partner-suggesting-gaming-potential-for-the-18a-node/)
- - [Hmmm, upgrades: Nvidia App gets an optional AI assistant and custom DLSS resolution scaling](https://www.pcgamer.com/hardware/graphics-cards/hmmm-upgrades-nvidia-app-gets-an-optional-ai-assistant-and-custom-dlss-resolution-scaling/)<!-- GAME:END -->
+ - [Intel is reportedly &#39;working to finalize commitments from Nvidia&#39; as a foundry partner, suggesting gaming potential for the 18A node](https://www.pcgamer.com/hardware/processors/intel-is-reportedly-working-to-finalize-commitments-from-nvidia-as-a-foundry-partner-suggesting-gaming-potential-for-the-18a-node/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
