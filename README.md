@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think I downloaded the right Snow White movie](http://9gag.com/gag/aE0AqZe)
- - ⏩ [And it has Karl Urban in it](http://9gag.com/gag/a870qVV)
- - 👉 [I can fix her](http://9gag.com/gag/a6Z5Nom)<!-- MEMES:END -->
+ - 💣 [And it has Karl Urban in it](http://9gag.com/gag/a870qVV)
+ - ⏩ [Just discovered this masterpiece of comedy. Highly recommended!!](http://9gag.com/gag/a7o0qnz)
+ - 👉 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)<!-- MEMES:END -->
 
 ---
 
