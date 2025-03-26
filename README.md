@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The aim](http://9gag.com/gag/ae9ZDzq)
- - ⏩ [The hero that you always wanted to be](http://9gag.com/gag/a6Z5ZVb)
- - 👉 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)<!-- MEMES:END -->
+ - 💣 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
+ - ⏩ [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 👉 [Whoop](http://9gag.com/gag/apR6R58)<!-- MEMES:END -->
 
 ---
 
