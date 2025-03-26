@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US adds six subsidiaries of Inspur Group, China&#39;s top cloud provider, and dozens of other Chinese entities to its export blacklist; Inspur was added in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/250326/p1#a250326p1)
- - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)
- - [Microsoft adds ‘deep reasoning’ Copilot AI for research and data analysis](https://www.theverge.com/microsoft/636089/microsoft-365-copilot-reasoning-ai-agents)<!-- TECH:END -->
+ - [Docs: China&#39;s new energy rules could block the use of Nvidia&#39;s H20 chips in new data centers if implemented strictly, risking Nvidia&#39;s $17B/year China business &lpar;Financial Times&rpar;](http://www.techmeme.com/250326/p3#a250326p3)
+ - [Womanizer Coupons: Save 15% in March | WIRED](https://www.wired.com/story/womanizer-coupon/)
+ - [Amazon unveils Interests, an AI search tool for finding products by passion or hobby, rolling out to all US users, and is testing a chatbot called Health AI &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250326/p2#a250326p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
