@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NY-based Silna, which provides healthcare revenue cycle management software, emerges from stealth with a $22M Series A co-led by Accel and Bain and a $5M seed &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250325/p37#a250325p37)
- - [2025 Swift Student Challenge winners to be announced on March 27](https://appleinsider.com/articles/25/03/25/2025-swift-student-challenge-winners-to-be-announced-on-march-27?utm_medium=rss)
- - [Amazon’s big spring sale is live, and here are the 66 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [Anker Laptop Power Bank with 25,000mAh drops to a new record-low price!](https://www.androidauthority.com/anker-laptop-power-bank-25000mah-deal-3538502/)
+ - [Latest iOS 19 redesign rumor hinges on sketchy iMessage mockup](https://appleinsider.com/articles/25/03/25/latest-ios-19-redesign-rumor-hinges-on-sketchy-imessage-mockup?utm_medium=rss)
+ - [It’s Looking More Likely NASA Will Fly the Artemis II Mission](https://www.wired.com/story/as-preps-continue-its-looking-more-likely-nasa-will-fly-the-artemis-ii-mission/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
