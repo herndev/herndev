@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [One year later, City of Heroes&#39; officially recognized fan server has me praying it&#39;s the future of dead MMOs](https://www.pcgamer.com/games/mmo/one-year-later-city-of-heroes-officially-recognized-fan-server-has-me-praying-its-the-future-of-dead-mmos/)
  - [The best REPO mods](https://www.polygon.com/guides/546341/best-repo-mods-more-players-heads-upgrades-hd)
- - [Assassin&#39;s Creed Shadows&#39; first hotfix addresses stability issues and a photo mode crash](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-first-hotfix-addresses-stability-issues-and-a-photo-mode-crash/)
- - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Shadows&#39; first hotfix addresses stability issues and a photo mode crash](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-first-hotfix-addresses-stability-issues-and-a-photo-mode-crash/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
