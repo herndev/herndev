@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Now I shall demand the cookies! Proposed new browsing agreement turns the tables and lets users dictate terms to websites](https://www.pcgamer.com/hardware/now-i-shall-demand-the-cookies-proposed-new-browsing-agreement-turns-the-tables-and-lets-users-dictate-terms-to-websites/)
- - [Former Intel CEO, Pat Gelsinger becomes executive chairman of a &#39;Technology Platform Connecting the Faith Ecosystem&#39; to work on Christian AI using DeepSeek](https://www.pcgamer.com/hardware/former-intel-ceo-pat-gelsinger-becomes-executive-chairman-of-a-technology-platform-connecting-the-faith-ecosystem-to-work-on-christian-ai-using-deepseek/)
- - [Today&#39;s Wordle answer for Wednesday, March 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-26-2025/)<!-- GAME:END -->
+ - [Don&#39;t panic! The &#39;Do Not Send Voice Recordings&#39; option Amazon just removed was only used by 0.03% of customers and they can still have it](https://www.pcgamer.com/hardware/dont-panic-the-do-not-send-voice-recordings-option-amazon-just-removed-was-only-used-by-0-03-percent-of-customers-and-they-can-still-have-it/)
+ - [Intel is reportedly &#39;working to finalize commitments from Nvidia&#39; as a foundry partner, suggesting gaming potential for the 18A node](https://www.pcgamer.com/hardware/processors/intel-is-reportedly-working-to-finalize-commitments-from-nvidia-as-a-foundry-partner-suggesting-gaming-potential-for-the-18a-node/)
+ - [Hmmm, upgrades: Nvidia App gets an optional AI assistant and custom DLSS resolution scaling](https://www.pcgamer.com/hardware/graphics-cards/hmmm-upgrades-nvidia-app-gets-an-optional-ai-assistant-and-custom-dlss-resolution-scaling/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
