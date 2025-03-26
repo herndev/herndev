@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Porsche&amp;#8217;s next Taycan gets an infotainment upgrade — but no new CarPlay](https://www.theverge.com/news/635940/porsche-2026-911-taycan-infotainment-pcm-alexa-carplay)
- - [A look at the origins of RISC architecture, the Arm vs. RISC-V war, and RISC&#39;s lasting impact, as its increasing global adoption risks US companies&#39; dominance &lpar;Jason Kehe/Wired&rpar;](http://www.techmeme.com/250326/p10#a250326p10)
- - [The compact OnePlus 13T could launch soon with a bigger battery than S25 Ultra](https://www.androidauthority.com/oneplus-13t-specs-launch-date-leak-3538558/)<!-- TECH:END -->
+ - [101 Best Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025-2/)
+ - [A cross-party committee of UK MPs casts doubt on the UK&#39;s plan to boost the public sector with AI, citing outdated tech, poor data, and a lack of digital skills &lpar;Delphine Strauss/Financial Times&rpar;](http://www.techmeme.com/250326/p13#a250326p13)
+ - [Beneath Greenland’s Ice Lies a Climate Solution—and a New Geopolitical Battleground](https://www.wired.com/story/beneath-greenlands-ice-lies-a-climate-solution-and-a-new-geopolitical-battleground/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
