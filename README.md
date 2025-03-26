@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 19 best board game deals of Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/546315/best-board-game-deals-amazon-big-spring-sale)
- - [Be The Most Stylish Hunter In The Desert By Changing Your Appearance In Monster Hunter Wilds](https://kotaku.com/monster-hunter-wilds-appearance-cosmetics-transmog-1851772498)
- - [Don’t expect The Witcher 4 until 2027 at the earliest](https://www.polygon.com/the-witcher/547069/witcher-4-release-date-2026-2027-cd-projekt)<!-- GAME:END -->
+ - [Xbox March Update: In-Game Benefits for Free-to-Play Games, Xbox Cloud Gaming &lpar;Beta&rpar; Updates, and More](https://news.xbox.com/en-us/2025/03/26/xbox-march-update-in-game-benefits-free-to-play-cloud-gaming/)
+ - [One Of 2023&#39;s Best Shooters Will Be Free On PS Plus](https://kotaku.com/robocop-rogue-city-fps-rpg-2023-ps-plus-march-2025-free-1851772522)
+ - [Old armor continues to fall victim to Final Fantasy 14&#39;s bizarre two-channel dye system, unless you&#39;re super into changing the colour of teeny-tiny eyelets: &#39;Why even bother at this point?&#39;](https://www.pcgamer.com/games/final-fantasy/old-armor-continues-to-fall-victim-to-final-fantasy-14s-bizarre-two-channel-dye-system-unless-youre-super-into-changing-the-colour-of-teeny-tiny-eyelets-why-even-bother-at-this-point/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
