@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Explain pencils](http://9gag.com/gag/aMVPKX1)
- - ⏩ [Perfection](http://9gag.com/gag/aD28d5w)
- - 👉 [I have hope](http://9gag.com/gag/a1m01RP)<!-- MEMES:END -->
+ - 💣 [Game of the year](http://9gag.com/gag/ayN6emb)
+ - ⏩ [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 👉 [What daughter?](http://9gag.com/gag/a5Qw19g)<!-- MEMES:END -->
 
 ---
 
