@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU&#39;s Huawei corruption probe is looking at alleged gifts like soccer tickets exchanged for political favors; one detainee was a Huawei lobbyist &lpar;Laura Dubois/Financial Times&rpar;](http://www.techmeme.com/250326/p17#a250326p17)
- - [Databricks details Test-time Adaptive Optimization, or TAO, a new approach to boost LLM performance without requiring labeled data, available now to customers &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250326/p16#a250326p16)
- - [Reolink’s wireless camera easily transitions from vanlife to homelife](https://www.theverge.com/reviews/636109/180-degree-wireless-4k-camera-review-vanlife-home-surveillance)<!-- TECH:END -->
+ - [GeoGuessr is coming to Steam after 12 years in your browser](https://www.theverge.com/news/636201/geoguessr-steam-browser-game-early-access)
+ - [PS5 owners really want to play Xbox games, as Microsoft tops Sony’s preorder charts](https://www.theverge.com/news/636178/microsoft-playstation-store-ps5-xbox-games-preorder-chart)
+ - [I Went Undercover in Crypto’s Answer to ‘Squid Game.’ It Nearly Broke Me](https://www.wired.com/story/crypto-the-game-undercover/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
