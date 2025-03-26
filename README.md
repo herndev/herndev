@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google starts gently pushing Drive users to explore all they can do with Gemini](https://www.androidauthority.com/google-drive-gemini-nudges-3538882/)
- - [Some Kindles now let you double-tap anywhere to turn the page](https://www.theverge.com/news/636726/amazon-kindle-paperwhite-colorsoft-update-double-tap-turn-pages)
- - [DNI Tulsi Gabbard told a Congressional hearing that Signal comes &quot;pre-installed&quot; on government devices, hinting at a major shift following the Salt Typhoon hack &lpar;Maggie Miller/Politico&rpar;](http://www.techmeme.com/250326/p34#a250326p34)<!-- TECH:END -->
+ - [ChatGPT’s new image generator is delayed for free users](https://www.theverge.com/news/636948/openai-chatgpt-image-generation-gpt-4o)
+ - [The Galaxy A26 and A36 go on sale in US with Android 15 and 6 years of updates](https://www.androidauthority.com/samsung-galaxy-a26-a36-on-sale-3538877/)
+ - [A US federal judge rejects OpenAI&#39;s request to dismiss the NYT&#39;s lawsuit, allowing the main copyright infringement claims to go forward while narrowing the suit &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250326/p36#a250326p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
