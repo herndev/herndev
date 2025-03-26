@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite some upgrades, this new Google TV box has fans fuming](https://www.androidauthority.com/xiaomi-google-tv-box-s-3rd-gen-3538829/)
- - [Apple doesn&#39;t appear to have plans to revive the iPhone mini](https://appleinsider.com/articles/25/03/26/apple-doesnt-appear-to-have-plans-to-revive-the-iphone-mini?utm_medium=rss)
- - [Leaked financial figures: Stripe doubled its free cash flow in 2024 to about $2.2B and grew revenues by about 28% to $5.1B; Chime grew revenues by 31% to $1.7B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250326/p31#a250326p31)<!-- TECH:END -->
+ - [The Shokz OpenRun Pro 2 are worth their full price, but are more tempting at $30 off](https://www.theverge.com/tech/636668/shokz-bone-conduction-headphones-openrun-pro-2-sale-amazon-spring)
+ - [Starboard Value nominates three directors including its CEO, Jeff Smith, to Autodesk&#39;s board, rekindling its proxy battle with Autodesk over margin concerns &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250326/p32#a250326p32)
+ - [Amazon’s big spring sale continues, and we found the 73 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
