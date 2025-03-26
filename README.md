@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Explain pencils](http://9gag.com/gag/aMVPKX1)
  - ⏩ [Perfection](http://9gag.com/gag/aD28d5w)
- - 👉 [The perfect necklace doesn&#39;t exist...](http://9gag.com/gag/axy6yVM)<!-- MEMES:END -->
+ - 👉 [I have hope](http://9gag.com/gag/a1m01RP)<!-- MEMES:END -->
 
 ---
 
