@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lies of P’s Future Begins with a Journey into the Past](https://news.xbox.com/en-us/2025/03/26/lies-of-ps-future-begins-journey-into-past/)
- - [The best power bank deals from Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/547103/amazon-big-spring-power-bank-deal)
- - [A new Game of Thrones RPG is coming to Steam today with a cast of &#39;familiar faces,&#39; which is good because it&#39;s really the only way to tell it&#39;s a GoT game at all](https://www.pcgamer.com/games/rpg/a-new-game-of-thrones-rpg-is-coming-to-steam-today-with-a-cast-of-familiar-faces-which-is-good-because-its-really-the-only-way-to-tell-its-a-got-game-at-all/)<!-- GAME:END -->
+ - [Cristiano Ronaldo is playable in Fatal Fury because reality wasn’t absurd enough already](https://www.polygon.com/news/547300/cristiano-ronaldo-fatal-fury-city-of-the-wolves-snk)
+ - [Avengers: Doomsday is looking like a ’00s X-Men reunion — Patrick Stewart and Ian McKellan are back](https://www.polygon.com/marvel/547397/avengers-doomsday-professor-x-magneto-patrick-stewart-ian-mckellen)
+ - [Today&#39;s RPG fans are &#39;very sensitive to feeling like they wasted time&#39; when they die, says Metaphor: ReFantazio battle planner—but Atlus still made combat hard anyway](https://www.pcgamer.com/games/rpg/todays-rpg-fans-are-very-sensitive-to-feeling-like-they-wasted-time-when-they-die-says-metaphor-refantazio-battle-planner-but-atlus-still-made-combat-hard-anyway/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
