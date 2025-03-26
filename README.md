@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Understandable](http://9gag.com/gag/a4PNQy6)
- - ⏩ [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
- - 👉 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)<!-- MEMES:END -->
+ - 💣 [This takes forever](http://9gag.com/gag/aqy6y4v)
+ - ⏩ [Explain pencils](http://9gag.com/gag/aMVPKX1)
+ - 👉 [Perfection](http://9gag.com/gag/aD28d5w)<!-- MEMES:END -->
 
 ---
 
