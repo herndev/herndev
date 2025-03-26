@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Shokz OpenRun Pro 2 are worth their full price, but are more tempting at $30 off](https://www.theverge.com/tech/636668/shokz-bone-conduction-headphones-openrun-pro-2-sale-amazon-spring)
- - [Starboard Value nominates three directors including its CEO, Jeff Smith, to Autodesk&#39;s board, rekindling its proxy battle with Autodesk over margin concerns &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250326/p32#a250326p32)
- - [Amazon’s big spring sale continues, and we found the 73 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [YouTube Shorts will count views even if you scroll past](https://www.theverge.com/news/636876/youtube-shorts-views-counting-update)
+ - [Gemini rival Perplexity is copying one of Android’s best features](https://www.androidauthority.com/perplexity-circle-to-search-3538843/)
+ - [YouTube says Shorts views will now be counted each time a video starts to play or replay, rather than only after being watched for a certain number of seconds &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250326/p33#a250326p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
