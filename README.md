@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The aim](http://9gag.com/gag/ae9ZDzq)
- - ⏩ [Whoop](http://9gag.com/gag/apR6R58)
- - 👉 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)<!-- MEMES:END -->
+ - 💣 [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)
+ - ⏩ [Second best](http://9gag.com/gag/aLn412g)
+ - 👉 [Men only want 1 thing and it&#39;s disgusting](http://9gag.com/gag/aRBMXpG)<!-- MEMES:END -->
 
 ---
 
