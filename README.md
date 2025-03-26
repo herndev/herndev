@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: Block lays off 931 employees, or ~8% of staff, and moves 193 managers to individual contributor roles, in its second reorganization in just over a year &lpar;TechCrunch&rpar;](http://www.techmeme.com/250325/p38#a250325p38)
- - [Deal: eufy Security SoloCam S220 with solar charging is 50% off!](https://www.androidauthority.com/eufy-security-solocam-s220-deal-3538501/)
- - [Character.ai can now tell parents which bots their kid is talking to](https://www.theverge.com/news/634974/character-ai-parental-insights-chatbot-report-kids)<!-- TECH:END -->
+ - [Character.AI adds a Parental Insights feature that lets teens send reports of their chatbot usage to their parents, including which bots they are talking to &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250325/p39#a250325p39)
+ - [Apple Savings APY drops to yet another all-time low of 3.75% during economic uncertainty](https://appleinsider.com/articles/25/03/26/apple-savings-apy-drops-to-yet-another-all-time-low-of-375-during-economic-uncertainty?utm_medium=rss)
+ - [Latest iOS 19 mockups &#39;aren&#39;t representative&#39; of true redesign, says other leaker](https://appleinsider.com/articles/25/03/26/latest-ios-19-mockups-arent-representative-of-true-redesign-says-other-leaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
