@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good old times](http://9gag.com/gag/amo6ob2)
- - ⏩ [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
+ - 💣 [Geisha game](http://9gag.com/gag/aD284EG)
+ - ⏩ [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)
  - 👉 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)<!-- MEMES:END -->
 
 ---
