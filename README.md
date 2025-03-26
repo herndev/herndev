@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Shorts will count views even if you scroll past](https://www.theverge.com/news/636876/youtube-shorts-views-counting-update)
- - [Gemini rival Perplexity is copying one of Android’s best features](https://www.androidauthority.com/perplexity-circle-to-search-3538843/)
- - [YouTube says Shorts views will now be counted each time a video starts to play or replay, rather than only after being watched for a certain number of seconds &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250326/p33#a250326p33)<!-- TECH:END -->
+ - [Google starts gently pushing Drive users to explore all they can do with Gemini](https://www.androidauthority.com/google-drive-gemini-nudges-3538882/)
+ - [Some Kindles now let you double-tap anywhere to turn the page](https://www.theverge.com/news/636726/amazon-kindle-paperwhite-colorsoft-update-double-tap-turn-pages)
+ - [DNI Tulsi Gabbard told a Congressional hearing that Signal comes &quot;pre-installed&quot; on government devices, hinting at a major shift following the Salt Typhoon hack &lpar;Maggie Miller/Politico&rpar;](http://www.techmeme.com/250326/p34#a250326p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
