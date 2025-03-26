@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
- - ⏩ [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
- - 👉 [Whoop](http://9gag.com/gag/apR6R58)<!-- MEMES:END -->
+ - 💣 [The aim](http://9gag.com/gag/ae9ZDzq)
+ - ⏩ [Whoop](http://9gag.com/gag/apR6R58)
+ - 👉 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)<!-- MEMES:END -->
 
 ---
 
