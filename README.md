@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers say aggressive AI crawlers are overwhelming open-source infrastructure and disproportionately burdening open-source projects &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250326/p8#a250326p8)
- - [TRAI Chairman Anil Kumar Lahoti says India, with only 1% of global subsea cable landing stations, must expand its subsea cable infrastructure 10x to meet demand &lpar;Karan Mahadik/The Indian Express&rpar;](http://www.techmeme.com/250326/p7#a250326p7)
- - [State and former US officials say satellite internet like Starlink&#39;s may cut upfront costs for the $42B rural broadband program but could cost more long term &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250326/p6#a250326p6)<!-- TECH:END -->
+ - [Porsche&amp;#8217;s next Taycan gets an infotainment upgrade — but no new CarPlay](https://www.theverge.com/news/635940/porsche-2026-911-taycan-infotainment-pcm-alexa-carplay)
+ - [A look at the origins of RISC architecture, the Arm vs. RISC-V war, and RISC&#39;s lasting impact, as its increasing global adoption risks US companies&#39; dominance &lpar;Jason Kehe/Wired&rpar;](http://www.techmeme.com/250326/p10#a250326p10)
+ - [The compact OnePlus 13T could launch soon with a bigger battery than S25 Ultra](https://www.androidauthority.com/oneplus-13t-specs-launch-date-leak-3538558/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
