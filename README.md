@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)
- - ⏩ [Second best](http://9gag.com/gag/aLn412g)
- - 👉 [Men only want 1 thing and it&#39;s disgusting](http://9gag.com/gag/aRBMXpG)<!-- MEMES:END -->
+ - 💣 [The aim](http://9gag.com/gag/ae9ZDzq)
+ - ⏩ [The hero that you always wanted to be](http://9gag.com/gag/a6Z5ZVb)
+ - 👉 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)<!-- MEMES:END -->
 
 ---
 
