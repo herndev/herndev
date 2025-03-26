@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker Laptop Power Bank with 25,000mAh drops to a new record-low price!](https://www.androidauthority.com/anker-laptop-power-bank-25000mah-deal-3538502/)
- - [Latest iOS 19 redesign rumor hinges on sketchy iMessage mockup](https://appleinsider.com/articles/25/03/25/latest-ios-19-redesign-rumor-hinges-on-sketchy-imessage-mockup?utm_medium=rss)
- - [It’s Looking More Likely NASA Will Fly the Artemis II Mission](https://www.wired.com/story/as-preps-continue-its-looking-more-likely-nasa-will-fly-the-artemis-ii-mission/)<!-- TECH:END -->
+ - [Email: Block lays off 931 employees, or ~8% of staff, and moves 193 managers to individual contributor roles, in its second reorganization in just over a year &lpar;TechCrunch&rpar;](http://www.techmeme.com/250325/p38#a250325p38)
+ - [Deal: eufy Security SoloCam S220 with solar charging is 50% off!](https://www.androidauthority.com/eufy-security-solocam-s220-deal-3538501/)
+ - [Character.ai can now tell parents which bots their kid is talking to](https://www.theverge.com/news/634974/character-ai-parental-insights-chatbot-report-kids)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
