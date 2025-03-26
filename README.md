@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
- - ⏩ [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
- - 👉 [Tomorrow](http://9gag.com/gag/a340Re5)<!-- MEMES:END -->
+ - 💣 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
+ - ⏩ [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 👉 [Game of the year](http://9gag.com/gag/ayN6emb)<!-- MEMES:END -->
 
 ---
 
