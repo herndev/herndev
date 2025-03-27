@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
- - ⏩ [I understood everything!](http://9gag.com/gag/a6Z51Pq)
- - 👉 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)<!-- MEMES:END -->
+ - 💣 [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)
+ - ⏩ [Beach it is.](http://9gag.com/gag/azxKxmq)
+ - 👉 [And it was better](http://9gag.com/gag/aByVnAA)<!-- MEMES:END -->
 
 ---
 
