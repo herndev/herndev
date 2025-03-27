@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Play: Bring Glory Home in EA Sports College Football 25, Now on the Play List](https://news.xbox.com/en-us/2025/03/27/ea-play-march-rewards-college-football-25/)
- - [Humanoid robot Neo Gamma gifts Nvidia CEO a studded leather jacket and may even be able to one day wash up a cup without dropping it](https://www.pcgamer.com/hardware/humanoid-robot-neo-gamma-gifts-nvidia-ceo-a-studded-leather-jacket-and-may-even-be-able-to-one-day-wash-up-a-cup-without-dropping-it/)
- - [Everything announced at Nintendo’s new Switch 1 Nintendo Direct](https://www.polygon.com/news/547591/nintendo-direct-march-2025-everything-announced-switch)<!-- GAME:END -->
+ - [Free Play Days – Blindfire, City Transport Simulator: Tram, Big Helmet Heroes, Tiebreak and Make Way](https://news.xbox.com/en-us/2025/03/27/free-play-days-03-27-2025/)
+ - [&#39;Diabolical&#39;: Genshin Impact&#39;s English cast gives new VO the cold shoulder after he frames replacing a striking actor as an &#39;opportunity to carry the flame&#39;](https://www.pcgamer.com/gaming-industry/diabolical-genshin-impacts-english-cast-gives-new-vo-the-cold-shoulder-after-he-frames-replacing-a-striking-actor-as-an-opportunity-to-carry-the-flame/)
+ - [Epic’s 2025 Spring Sale kicks off with some big discounts on recent hits and a pair of cat-themed giveaways](https://www.pcgamer.com/games/epics-2025-spring-sale-kicks-off-with-some-big-discounts-on-recent-hits-and-a-pair-of-cat-themed-giveaways/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
