@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A story similar to the one in \u201cSixth, Sense\u201d happened in Poland, in one of the cleaning companies. A woman had been topping up a colleague&#39;s tea with a toxic substance in her absence for several months. The victim realized and recorded it with a hidden camera.](http://9gag.com/gag/a5Qw63N)
- - ⏩ [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)
- - 👉 [I understood everything!](http://9gag.com/gag/a6Z51Pq)<!-- MEMES:END -->
+ - 💣 [Health science is amazing! A full set of dental implants.](http://9gag.com/gag/aVvKvvd)
+ - ⏩ [A story similar to the one in \u201cSixth, Sense\u201d happened in Poland, in one of the cleaning companies. A woman had been topping up a colleague&#39;s tea with a toxic substance in her absence for several months. The victim realized and recorded it with a hidden camera.](http://9gag.com/gag/a5Qw63N)
+ - 👉 [Even the son of Snow White producer threw rachel zegler under the bus.](http://9gag.com/gag/ae9ZOWj)<!-- MEMES:END -->
 
 ---
 
