@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Little Droid Faces Danger April 10 – Pre-Orders Begin Today](https://news.xbox.com/en-us/2025/03/27/little-droid-faces-danger-april-10-pre-orders-begin-today/)
- - [Getting Terminator 2’s T-1000 into MK1 was both easy and incredibly hard](https://www.polygon.com/mortal-kombat/548208/mk1-terminator-2-t-1000-netherrealm-interview)
- - [Infinity Nikki codes for March 2025](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)<!-- GAME:END -->
+ - [Story of Seasons is doing another Harvest Moon remake and it might be the best the series has ever looked](https://www.pcgamer.com/games/life-sim/story-of-seasons-is-doing-another-harvest-moon-remake-and-it-might-be-the-best-the-series-has-ever-looked/)
+ - [Assassin&#39;s Creed Shadows puts up the &#39;second highest day-one sales revenue in Assassin&#39;s Creed franchise history&#39;](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-puts-up-the-second-highest-day-one-sales-revenue-in-assassins-creed-franchise-history/)
+ - [Fans React To The Best Moment From The New Nintendo Direct](https://kotaku.com/tomodachi-life-living-dream-nintendo-direct-trailer-1851772830)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
