@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Fatal Fury Will Let You Beat The Crap Out Of Cristiano Ronaldo](https://kotaku.com/cristiano-ronaldo-fatal-fury-city-wolves-saudi-arabia-1851772758)
- - [Greedfall 2 aims to turn around a disastrous early access launch with a combat overhaul and a big new boat](https://www.pcgamer.com/games/rpg/greedfall-2-aims-to-turn-around-a-disastrous-early-access-launch-with-a-combat-overhaul-and-a-big-new-boat/)
- - [Look Back director’s new anime short is a lush love letter to Fukushima](https://www.polygon.com/entertainment/548130/look-back-kiyotaka-oshiyama-fukushima-short-film)<!-- GAME:END -->
+ - [Drive Out the Darkness with Sea of Thieves’ Destiny-Inspired Lightbearer Cosmetics](https://news.xbox.com/en-us/2025/03/27/sea-of-thieves-destiny-cosmetics/)
+ - [Tunguska Is Here on Xbox: How to Survive in the Zone as a Ghoul Hunter](https://news.xbox.com/en-us/2025/03/27/tunguska-how-to-survive-as-a-ghoul-hunter/)
+ - [Nintendo Hints At Switch 2 Upgrades For Old Games](https://kotaku.com/nintendo-switch-2-edition-enhanced-ports-upgrade-paid-1851772785)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
