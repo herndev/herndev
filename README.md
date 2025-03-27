@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft&#39;s started swiping good ideas from one of its most popular user-made UI addons, and it&#39;s honestly about time](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-started-swiping-good-ideas-from-one-of-its-most-popular-user-made-ui-addons-and-its-honestly-about-time/)
- - [&#39;We want to increase the cost of silence&#39;: Hunt: Showdown 1896&#39;s latest update brings a new event, a massive list of bugfixes and a tougher challenge for stealthy players](https://www.pcgamer.com/games/fps/we-want-to-increase-the-cost-of-silence-hunt-showdown-1896s-latest-update-brings-a-new-event-a-massive-list-of-bugfixes-and-a-tougher-challenge-for-stealthy-players/)
- - [Mindbending free multimedia adventure ENA: Dream BBQ is out now, has activated all my neurons and opened my third eye](https://www.pcgamer.com/games/adventure/mindbending-free-multimedia-adventure-ena-dream-bbq-is-out-now-has-activated-all-my-neurons-and-opened-my-third-eye/)<!-- GAME:END -->
+ - [Pokémon TCG Pocket&#39;s New Shiny Set Has A Card Locked Inside A $25 Bundle](https://kotaku.com/pokemon-tcg-pocket-shiny-revelry-mewtwo-bundle-gold-1851772662)
+ - [Get Rich Quick In Assassin’s Creed Shadows To Lord Over Feudal Japan](https://kotaku.com/assassins-creed-shadows-mon-treasure-valuables-settsu-1851772640)
+ - [Daredevil: Born Again has my favorite supervillain battle: The Kingpin vs. the 0.1%](https://www.polygon.com/tv/546729/daredevil-kingpin-born-again-fisk-stromwyns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
