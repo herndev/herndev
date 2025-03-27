@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An unannounced Hogwarts Legacy expansion and &#39;definitive edition&#39; have reportedly been cancelled](https://www.pcgamer.com/games/adventure/an-unannounced-hogwarts-legacy-expansion-and-definitive-edition-have-reportedly-been-cancelled/)
- - [The Pokémon Company Yet Again Promises It Will Print More TCG Cards, But...](https://kotaku.com/pokemon-tcg-cards-available-journey-together-stock-1851772771)
- - [Chinese action game Phantom Blade Zero didn&#39;t click for me until I realized its deep commitment to wuxia film authenticity meant I had to relearn how swords work](https://www.pcgamer.com/games/action/chinese-action-game-phantom-blade-zero-didnt-click-for-me-until-i-realized-its-deep-commitment-to-wuxia-film-authenticity-meant-i-had-to-relearn-how-swords-work/)<!-- GAME:END -->
+ - [Studio Ghibli AI image trend floods social media, cheered on by OpenAI and denounced by critics as an insult to Hayao Miyazaki](https://www.pcgamer.com/software/ai/studio-ghibli-ai-image-trend-floods-social-media-cheered-on-by-openai-and-denounced-by-artists-i-cant-think-of-a-worse-artist-to-do-it-to/)
+ - [Marvel Rivals director says a future patch will reduce the shooter&#39;s insatiable hunger for RAM: &#39;It&#39;s a very big problem&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-director-says-a-future-patch-will-reduce-the-shooters-insatiable-hunger-for-ram-its-a-very-big-problem/)
+ - [An unannounced Hogwarts Legacy expansion and &#39;definitive edition&#39; have reportedly been cancelled](https://www.pcgamer.com/games/adventure/an-unannounced-hogwarts-legacy-expansion-and-definitive-edition-have-reportedly-been-cancelled/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
