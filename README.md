@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Anywhere with the New Backbone One Xbox Edition Mobile Controller](https://news.xbox.com/en-us/2025/03/27/backbone-one-xbox-edition-mobile-controller/)
- - [How to craft a pickaxe in Hello Kitty Island Adventure](https://www.pcgamer.com/games/life-sim/hello-kitty-island-adventure-pickaxe-unlock/)
- - [Nvidia RTX 5090 mobile tested: The needle hasn&#39;t moved on performance but this is the first time I&#39;d consider ditching my desktop for a gaming laptop](https://www.pcgamer.com/hardware/gaming-laptops/nvidia-rtx-5090-mobile-tested-the-needle-hasnt-moved-on-performance-but-this-is-the-first-time-id-consider-ditching-my-desktop-for-a-gaming-laptop/)<!-- GAME:END -->
+ - [EA Play: Bring Glory Home in EA Sports College Football 25, Now on the Play List](https://news.xbox.com/en-us/2025/03/27/ea-play-march-rewards-college-football-25/)
+ - [Humanoid robot Neo Gamma gifts Nvidia CEO a studded leather jacket and may even be able to one day wash up a cup without dropping it](https://www.pcgamer.com/hardware/humanoid-robot-neo-gamma-gifts-nvidia-ceo-a-studded-leather-jacket-and-may-even-be-able-to-one-day-wash-up-a-cup-without-dropping-it/)
+ - [Everything announced at Nintendo’s new Switch 1 Nintendo Direct](https://www.polygon.com/news/547591/nintendo-direct-march-2025-everything-announced-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
