@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of US adults: 34% support a TikTok ban, down from 50% in March 2023, and 49% say TikTok is a national security threat, down from 59% in May 2023 &lpar;Colleen McClain/Pew Research Center&rpar;](http://www.techmeme.com/250327/p8#a250327p8)
- - [A huge Galaxy Tab S10 FE series leak reveals specs, renders, and pricing](https://www.androidauthority.com/samsung-galaxy-tab-s10-fe-series-leak-specs-renders-pricing-3539008/)
- - [Vivaldi Browser Now Comes With Proton VPN for Free](https://www.wired.com/story/vivaldi-browser-proton-vpn-integration/)<!-- TECH:END -->
+ - [Uber Shuttle will get you to JFK airport for $10](https://www.theverge.com/news/636662/uber-shuttle-jfk-airport-ten-dollars)
+ - [Q&amp;A with Mike Clark, the chief architect of AMD&#39;s Zen microarchitecture, on x86, ARM, CPUs vs GPUs, Zen 4 to Zen 5, software developers, and more &lpar;Casey Muratori/Computer, Enhance!&rpar;](http://www.techmeme.com/250327/p12#a250327p12)
+ - [A leaked Chinese dataset on &quot;public opinion work&quot; reveals 133,000 entries fed into an LLM designed to automatically flag content deemed sensitive by China &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250327/p11#a250327p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
