@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Total War: Warhammer 3&#39;s army of Cathay has broken containment and is making its way to tabletop Warhammer at last](https://www.pcgamer.com/games/board-games/total-war-warhammer-3s-army-of-cathay-has-broken-containment-and-is-making-its-way-to-tabletop-warhammer-at-last/)
  - [Tickets for PAX Australia 2025 are on sale now](https://www.pcgamer.com/gaming-industry/events-conferences/tickets-for-pax-australia-2025-are-on-sale-now/)
- - [Kingdom Come: Deliverance 2&#39;s masterful quest design can be summed up by one wonderfully weird search for a magic stone](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2s-masterful-quest-design-can-be-summed-up-by-one-wonderfully-weird-search-for-a-magic-stone/)
- - [Kings under the Mountain! 33 Enshrouded players spent 10,000 hours to recreate this iconic location from The Lord of the Rings](https://www.pcgamer.com/games/survival-crafting/kings-under-the-mountain-33-enshrouded-players-spent-10-000-hours-to-recreate-this-iconic-location-from-the-lord-of-the-rings/)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2&#39;s masterful quest design can be summed up by one wonderfully weird search for a magic stone](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2s-masterful-quest-design-can-be-summed-up-by-one-wonderfully-weird-search-for-a-magic-stone/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
