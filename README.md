@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is letting you share a bit of ad-free Premium love](https://www.androidauthority.com/youtube-premium-ad-free-sharing-3539347/)
- - [Trump White House invites a bloc of conservative podcasters as a jab at legacy media](https://www.theverge.com/policy/637890/trump-white-house-podcast-row)
- - [Even More Venmo Accounts Tied to Trump Officials in Signal Group Chat Left Data Public](https://www.wired.com/story/even-more-venmo-accounts-tied-to-trump-officials-in-signal-group-chat-left-data-public/)<!-- TECH:END -->
+ - [Amazon Luna gets EA games and is launching in more countries](https://www.theverge.com/news/637441/amazon-luna-ea-games-star-wars-dead-space)
+ - [Amazon’s big spring sale continues, and we found the 95 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [Sony PlayStation 5 Slim deals: Save $50 and get a free game!](https://www.androidauthority.com/sony-playstation-5-slim-deals-3539322/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
