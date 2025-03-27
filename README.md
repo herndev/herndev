@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satya Nadella: DeepSeek is the new bar for Microsoft’s AI success](https://www.theverge.com/notepad-microsoft-newsletter/637496/microsoft-satya-nadella-deepseek-chatgpt-ai-investments-notepad)
- - [Nintendo’s news app launches with a tiny Switch 2 leak](https://www.theverge.com/news/637523/nintendo-today-switch-2-c-button-leak)
- - [Meta adds a Friends tab on Facebook that will show content just from users&#39; friends, with no recommended posts, as it brings back &quot;OG&quot; Facebook experiences &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250327/p31#a250327p31)<!-- TECH:END -->
+ - [Sam Altman says &quot;our GPUs are melting&quot; due to ChatGPT&#39;s viral image generation and OpenAI plans to temporarily introduce some rate limits &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250327/p34#a250327p34)
+ - [How to turn off Apple Intelligence -- and why you need to keep turning it off](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence----and-keep-turning-it-off?utm_medium=rss)
+ - [YouTube’s new gray bars are ruining full-screen playback on Android &lpar;Update: Fixed in beta&rpar;](https://www.androidauthority.com/youtube-gray-bars-3539194/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
