@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says OpenAI will support Anthropic&#39;s Model Context Protocol, an open-source standard that connects AI models to data for more relevant answers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250327/p2#a250327p2)
- - [Former Intel CEO Pat Gelsinger joins VC firm Playground Global as a GP and the board of portfolio company xLight, which develops lasers for chip manufacturing &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250327/p1#a250327p1)
- - [Nvidia releases G-Assist, an experimental, gaming-centric AI chatbot that runs locally and provides real-time system information for a given game &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250326/p44#a250326p44)<!-- TECH:END -->
+ - [The Trump administration cut $20M in funding from the Bureau of Industry and Security, which oversees chip export controls, representing ~10% of BIS&#39;s budget &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250327/p5#a250327p5)
+ - [Anthropic and Databricks ink a five-year deal, expected to jointly generate $100M in revenue, by selling AI tools to businesses developing their own AI agents &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250327/p4#a250327p4)
+ - [Alibaba releases open-source multimodal AI model Qwen2.5-Omni-7B on Hugging Face and GitHub, saying the model can be deployed on edge devices like smartphones &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250327/p3#a250327p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
