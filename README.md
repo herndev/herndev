@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Pocket&#39;s New Shiny Set Has A Card Locked Inside A $25 Bundle](https://kotaku.com/pokemon-tcg-pocket-shiny-revelry-mewtwo-bundle-gold-1851772662)
- - [Get Rich Quick In Assassin’s Creed Shadows To Lord Over Feudal Japan](https://kotaku.com/assassins-creed-shadows-mon-treasure-valuables-settsu-1851772640)
- - [Daredevil: Born Again has my favorite supervillain battle: The Kingpin vs. the 0.1%](https://www.polygon.com/tv/546729/daredevil-kingpin-born-again-fisk-stromwyns)<!-- GAME:END -->
+ - [Play Anywhere with the New Backbone One Xbox Edition Mobile Controller](https://news.xbox.com/en-us/2025/03/27/backbone-one-xbox-edition-mobile-controller/)
+ - [How to craft a pickaxe in Hello Kitty Island Adventure](https://www.pcgamer.com/games/life-sim/hello-kitty-island-adventure-pickaxe-unlock/)
+ - [Nvidia RTX 5090 mobile tested: The needle hasn&#39;t moved on performance but this is the first time I&#39;d consider ditching my desktop for a gaming laptop](https://www.pcgamer.com/hardware/gaming-laptops/nvidia-rtx-5090-mobile-tested-the-needle-hasnt-moved-on-performance-but-this-is-the-first-time-id-consider-ditching-my-desktop-for-a-gaming-laptop/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
