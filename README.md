@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baseus Nomos MagSafe Battery review: A great &#39;just in case&#39; daily carry battery](https://appleinsider.com/articles/25/03/27/baseus-nomos-magsafe-battery-review-a-great-just-in-case-daily-carry-battery?utm_medium=rss)
- - [Oracle customers confirm the authenticity of data samples shared by a threat actor who allegedly breached Oracle Cloud servers, after Oracle denied the breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250326/p40#a250326p40)
- - [Republicans are still pushing for child safety laws, while Democrats wonder if a weakened FTC can enforce them](https://www.theverge.com/news/637032/kids-online-safety-ftc-firings-trump-house-energy-commerce)<!-- TECH:END -->
+ - [Filing: Dell says it had about 108K employees as of January 31, 2025, down from 120K employees in February 2024, marking a 10% annual reduction in its workforce &lpar;Polly Thompson/Business Insider&rpar;](http://www.techmeme.com/250326/p41#a250326p41)
+ - [Ring Battery Doorbell drops to a new all-time low price](https://www.androidauthority.com/ring-battery-doorbell-deal-3538862/)
+ - [Amazon’s big spring sale continues, and we found the 85 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
