@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer magazine&#39;s new issue is on sale now: Doom: The Dark Ages](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-doom-the-dark-ages/)
  - [Today&#39;s Wordle answer for Thursday, March 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-27-2025/)
- - [Total War: Warhammer 3&#39;s army of Cathay has broken containment and is making its way to tabletop Warhammer at last](https://www.pcgamer.com/games/board-games/total-war-warhammer-3s-army-of-cathay-has-broken-containment-and-is-making-its-way-to-tabletop-warhammer-at-last/)
- - [Tickets for PAX Australia 2025 are on sale now](https://www.pcgamer.com/gaming-industry/events-conferences/tickets-for-pax-australia-2025-are-on-sale-now/)<!-- GAME:END -->
+ - [Total War: Warhammer 3&#39;s army of Cathay has broken containment and is making its way to tabletop Warhammer at last](https://www.pcgamer.com/games/board-games/total-war-warhammer-3s-army-of-cathay-has-broken-containment-and-is-making-its-way-to-tabletop-warhammer-at-last/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
