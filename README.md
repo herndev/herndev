@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)
- - ⏩ [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
- - 👉 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)<!-- MEMES:END -->
+ - 💣 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
+ - ⏩ [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/aLn4poM)
+ - 👉 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)<!-- MEMES:END -->
 
 ---
 
