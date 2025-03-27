@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin adds AI and a subscription tier to its app](https://www.theverge.com/news/636211/garmin-connect-plus-subscription-wearables)
- - [Source: Nvidia is in advanced talks to acquire Lepton AI, which rents Nvidia GPU servers, for several hundred million dollars; Lepton raised $11M in 2023 &lpar;The Information&rpar;](http://www.techmeme.com/250327/p16#a250327p16)
- - [Vivaldi bundles Proton VPN into its web browser](https://www.theverge.com/news/637118/vivaldi-browser-proton-vpn-integration-availability)<!-- TECH:END -->
+ - [Xiaomi&#39;s Poco unveils the £649+ F7 Ultra, with a 6.67&quot; display, Snapdragon 8 Elite, a triple rear camera, 120W wired charging, and IP68, and the £499+ F7 Pro &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250327/p19#a250327p19)
+ - [Manta Sound Sleep Mask Review: A Must-Have for Insomnia](https://www.wired.com/review/manta-sound/)
+ - [Meta VP of Asia Pacific Dan Neary is leaving for personal reasons; the Singapore-based executive joined in 2013, and Meta now has ~1.1B users in the region &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250327/p18#a250327p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
