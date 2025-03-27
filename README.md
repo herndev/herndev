@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Minecraft Movie: New Trailer and Tickets on Sale](https://www.minecraft.net/article/a-minecraft-movie-new-trailer#new_tab)
- - [StarCraft fans taunted by the announcement of a new StarCraft... board game](https://www.pcgamer.com/games/starcraft-fans-taunted-by-the-announcement-of-a-new-starcraft-board-game/)
- - [Nintendo Solves Digital Game Sharing In The Weirdest Way Possible &lpar;Update&rpar;](https://kotaku.com/nintendo-digital-games-virtual-game-cards-vgc-switch-2-1851772706)<!-- GAME:END -->
+ - [Little Droid Faces Danger April 10 – Pre-Orders Begin Today](https://news.xbox.com/en-us/2025/03/27/little-droid-faces-danger-april-10-pre-orders-begin-today/)
+ - [Getting Terminator 2’s T-1000 into MK1 was both easy and incredibly hard](https://www.polygon.com/mortal-kombat/548208/mk1-terminator-2-t-1000-netherrealm-interview)
+ - [Infinity Nikki codes for March 2025](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
