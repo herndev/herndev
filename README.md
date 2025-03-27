@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)
- - ⏩ [... What?](http://9gag.com/gag/avy6WOO)
- - 👉 [Staying tru to the art](http://9gag.com/gag/adBQvy2)<!-- MEMES:END -->
+ - 💣 [Yeah, it&#39;s not easy](http://9gag.com/gag/a0e00oO)
+ - ⏩ [Snow White and the 7 low wage magical Cgi creatures.](http://9gag.com/gag/a7o004L)
+ - 👉 [A perfect plug does not exist](http://9gag.com/gag/abA4xgO)<!-- MEMES:END -->
 
 ---
 
