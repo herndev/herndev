@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mexican TV shows are at another level.](http://9gag.com/gag/a9y5z0W)
- - ⏩ [If Atom Eve was a goth](http://9gag.com/gag/a340163)
- - 👉 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)<!-- MEMES:END -->
+ - 💣 [Former UFC champion Cain Velasquez has been sentenced to 5 years in prison for attempted murder after firing a gun at a man who allegedly molested his son over 100 times at a daycare](http://9gag.com/gag/awy1zmx)
+ - ⏩ [Cover, cover up everywhere..](http://9gag.com/gag/a5QwQGN)
+ - 👉 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)<!-- MEMES:END -->
 
 ---
 
