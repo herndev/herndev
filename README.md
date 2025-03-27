@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
- - ⏩ [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/aLn4poM)
- - 👉 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)<!-- MEMES:END -->
+ - 💣 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
+ - ⏩ [I understood everything!](http://9gag.com/gag/a6Z51Pq)
+ - 👉 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)<!-- MEMES:END -->
 
 ---
 
