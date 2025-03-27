@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search can now plan an entire cross-country trip for you](https://www.androidauthority.com/google-ai-overview-expansion-3539018/)
- - [I Put Nvidia’s RTX 50-Series Laptop GPU to the Test. Here’s What I Found](https://www.wired.com/story/nvidias-rtx-50-series-laptop-gpu/)
- - [Google Maps can soon scan your screenshots to plan your vacation](https://www.theverge.com/news/637137/google-maps-screenshot-searchhotels-travel-features)<!-- TECH:END -->
+ - [Source: CoreWeave plans to cut the size of its IPO to ~$1.5B, offering 37.5M shares at $40 each, down from 49M shares at $47 to $55, a sign of market volatility &lpar;Bloomberg&rpar;](http://www.techmeme.com/250327/p23#a250327p23)
+ - [How to power your Apple devices off-grid with the best portable power station for camping](https://appleinsider.com/articles/25/03/27/how-to-power-your-apple-devices-off-grid-with-the-best-portable-power-station-for-camping?utm_medium=rss)
+ - [TSMC&#39;s US chip fabrication facilities lag five years behind Taiwan](https://appleinsider.com/articles/25/03/27/tsmcs-us-chip-fabrication-facilities-lag-five-years-behind-taiwan?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
