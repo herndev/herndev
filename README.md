@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi&#39;s Poco unveils the £649+ F7 Ultra, with a 6.67&quot; display, Snapdragon 8 Elite, a triple rear camera, 120W wired charging, and IP68, and the £499+ F7 Pro &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250327/p19#a250327p19)
- - [Manta Sound Sleep Mask Review: A Must-Have for Insomnia](https://www.wired.com/review/manta-sound/)
- - [Meta VP of Asia Pacific Dan Neary is leaving for personal reasons; the Singapore-based executive joined in 2013, and Meta now has ~1.1B users in the region &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250327/p18#a250327p18)<!-- TECH:END -->
+ - [Google Search can now plan an entire cross-country trip for you](https://www.androidauthority.com/google-ai-overview-expansion-3539018/)
+ - [I Put Nvidia’s RTX 50-Series Laptop GPU to the Test. Here’s What I Found](https://www.wired.com/story/nvidias-rtx-50-series-laptop-gpu/)
+ - [Google Maps can soon scan your screenshots to plan your vacation](https://www.theverge.com/news/637137/google-maps-screenshot-searchhotels-travel-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
