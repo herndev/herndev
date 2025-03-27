@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia releases G-Assist, an experimental, gaming-centric AI chatbot that runs locally and provides real-time system information for a particular game &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250326/p44#a250326p44)
- - [Flash deal: Grab an M4 Pro Mac mini for $1,199, record low price](https://appleinsider.com/articles/25/03/27/flash-deal-grab-an-m4-pro-mac-mini-for-1199-record-low-price?utm_medium=rss)
- - [Robinhood plans to roll out checking and savings accounts in 2025 for its paying Gold subscribers, aiming to provide more of a private banking-like experience &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250326/p43#a250326p43)<!-- TECH:END -->
+ - [Sam Altman says OpenAI will support Anthropic&#39;s Model Context Protocol, an open-source standard that connects AI models to data for more relevant answers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250327/p2#a250327p2)
+ - [Former Intel CEO Pat Gelsinger joins VC firm Playground Global as a GP and the board of portfolio company xLight, which develops lasers for chip manufacturing &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250327/p1#a250327p1)
+ - [Nvidia releases G-Assist, an experimental, gaming-centric AI chatbot that runs locally and provides real-time system information for a given game &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250326/p44#a250326p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
