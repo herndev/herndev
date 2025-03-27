@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)
- - ⏩ [Beach it is.](http://9gag.com/gag/azxKxmq)
- - 👉 [And it was better](http://9gag.com/gag/aByVnAA)<!-- MEMES:END -->
+ - 💣 [Mexican TV shows are at another level.](http://9gag.com/gag/a9y5z0W)
+ - ⏩ [If Atom Eve was a goth](http://9gag.com/gag/a340163)
+ - 👉 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)<!-- MEMES:END -->
 
 ---
 
