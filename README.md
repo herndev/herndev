@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So you\u2019re telling me I can take a popular meme, transform it into Studio Ghibli style anime](http://9gag.com/gag/aryXAoX)
- - ⏩ [2 guys having a civilized conversation](http://9gag.com/gag/aD286Wx)
- - 👉 [A story similar to the one in \u201cSixth, Sense\u201d happened in Poland, in one of the cleaning companies. A woman had been topping up a colleague&#39;s tea with a toxic substance in her absence for several months. The victim realized and recorded it with a hidden camera.](http://9gag.com/gag/a5Qw63N)<!-- MEMES:END -->
+ - 💣 [Teaching kids about the food](http://9gag.com/gag/aZZ8Dbz)
+ - ⏩ [From Strangers to Spouses](http://9gag.com/gag/aZZ8wQ0)
+ - 👉 [... What?](http://9gag.com/gag/avy6WOO)<!-- MEMES:END -->
 
 ---
 
