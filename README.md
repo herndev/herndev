@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Health science is amazing! A full set of dental implants.](http://9gag.com/gag/aVvKvvd)
- - ⏩ [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - 👉 [A story similar to the one in \u201cSixth, Sense\u201d happened in Poland, in one of the cleaning companies. A woman had been topping up a colleague&#39;s tea with a toxic substance in her absence for several months. The victim realized and recorded it with a hidden camera.](http://9gag.com/gag/a5Qw63N)<!-- MEMES:END -->
+ - 💣 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
+ - ⏩ [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)
+ - 👉 [Absolute units](http://9gag.com/gag/aZZ8ny6)<!-- MEMES:END -->
 
 ---
 
