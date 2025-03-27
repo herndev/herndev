@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Portable Water Dispensers Are the New At-Home Hydration Hack](https://www.cnet.com/news/portable-water-dispensers-are-my-new-at-home-hydration-hack/#ftag=CAD590a51e)
- - [JPMorgan researchers say they have generated and certified truly random numbers using a quantum computer, a world-first with potential security and trading uses &lpar;Isabella Ward/Bloomberg&rpar;](http://www.techmeme.com/250327/p7#a250327p7)
- - [Poll: Is 2025 shaping up to be a more boring year than usual for phones?](https://www.androidauthority.com/2025-boring-smartphones-poll-3538975/)<!-- TECH:END -->
+ - [A survey of US adults: 34% support a TikTok ban, down from 50% in March 2023, and 49% say TikTok is a national security threat, down from 59% in May 2023 &lpar;Colleen McClain/Pew Research Center&rpar;](http://www.techmeme.com/250327/p8#a250327p8)
+ - [A huge Galaxy Tab S10 FE series leak reveals specs, renders, and pricing](https://www.androidauthority.com/samsung-galaxy-tab-s10-fe-series-leak-specs-renders-pricing-3539008/)
+ - [Vivaldi Browser Now Comes With Proton VPN for Free](https://www.wired.com/story/vivaldi-browser-proton-vpn-integration/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
