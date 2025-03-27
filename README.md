@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s colorful, entry-level earbuds have fallen to their best price to date](https://www.theverge.com/tech/636935/nothing-ear-a-wireless-earbuds-amazon-big-spring-sale-2025-deal-sale)
- - [Trump says he will impose a 25 percent tariff on imported vehicles](https://www.theverge.com/news/637004/trump-auto-tariffs-25-percent)
- - [xAI&#39;s Grok AI chatbot is now integrated with Telegram for Telegram Premium users, marking Grok&#39;s first big expansion beyond X &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/250326/p38#a250326p38)<!-- TECH:END -->
+ - [Today’s best power station deals: Anker, Jackery, and DJI](https://www.androidauthority.com/anker-jackery-dji-power-station-deals-2-3538863/)
+ - [Utah&#39;s new law forces tech companies to add age verification, but Apple is already prepared](https://appleinsider.com/articles/25/03/26/utahs-new-law-forces-tech-companies-to-add-age-verification-but-apple-is-already-prepared?utm_medium=rss)
+ - [Google says it plans to develop Android fully in private to streamline the development process but will continue to publish the source code for new releases &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250326/p39#a250326p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
