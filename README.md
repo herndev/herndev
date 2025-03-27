@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Luna gets EA games and is launching in more countries](https://www.theverge.com/news/637441/amazon-luna-ea-games-star-wars-dead-space)
- - [Before Lazarus hits Adult Swim, listen to some of its transcendent music](https://www.theverge.com/news/637174/lazarus-kamasi-wasington-bonobo-floating-points-soundtrack)
- - [Sources: Reddit banned r/WhitePeopleTwitter for 72 hours in February 2025 after Elon Musk messaged CEO Steve Huffman about users threatening DOGE staffers &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250327/p28#a250327p28)<!-- TECH:END -->
+ - [Satya Nadella: DeepSeek is the new bar for Microsoft’s AI success](https://www.theverge.com/notepad-microsoft-newsletter/637496/microsoft-satya-nadella-deepseek-chatgpt-ai-investments-notepad)
+ - [Nintendo’s news app launches with a tiny Switch 2 leak](https://www.theverge.com/news/637523/nintendo-today-switch-2-c-button-leak)
+ - [Meta adds a Friends tab on Facebook that will show content just from users&#39; friends, with no recommended posts, as it brings back &quot;OG&quot; Facebook experiences &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250327/p31#a250327p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
