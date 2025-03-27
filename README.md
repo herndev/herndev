@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah, it&#39;s not easy](http://9gag.com/gag/a0e00oO)
- - ⏩ [So you\u2019re telling me I can take a popular meme, transform it into Studio Ghibli style anime](http://9gag.com/gag/aryXAoX)
- - 👉 [Visiting the British Museum, my disappointment is immeasurable and my day is ruined.](http://9gag.com/gag/aByVVWN)<!-- MEMES:END -->
+ - 💣 [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)
+ - ⏩ [... What?](http://9gag.com/gag/avy6WOO)
+ - 👉 [Staying tru to the art](http://9gag.com/gag/adBQvy2)<!-- MEMES:END -->
 
 ---
 
