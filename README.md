@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - ⏩ [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
- - 👉 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)<!-- MEMES:END -->
+ - 💣 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
+ - ⏩ [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
+ - 👉 [If Atom Eve was a goth](http://9gag.com/gag/a340163)<!-- MEMES:END -->
 
 ---
 
