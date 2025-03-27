@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Story of Seasons is doing another Harvest Moon remake and it might be the best the series has ever looked](https://www.pcgamer.com/games/life-sim/story-of-seasons-is-doing-another-harvest-moon-remake-and-it-might-be-the-best-the-series-has-ever-looked/)
- - [Assassin&#39;s Creed Shadows puts up the &#39;second highest day-one sales revenue in Assassin&#39;s Creed franchise history&#39;](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-puts-up-the-second-highest-day-one-sales-revenue-in-assassins-creed-franchise-history/)
- - [Fans React To The Best Moment From The New Nintendo Direct](https://kotaku.com/tomodachi-life-living-dream-nintendo-direct-trailer-1851772830)<!-- GAME:END -->
+ - [An unannounced Hogwarts Legacy expansion and &#39;definitive edition&#39; have reportedly been cancelled](https://www.pcgamer.com/games/adventure/an-unannounced-hogwarts-legacy-expansion-and-definitive-edition-have-reportedly-been-cancelled/)
+ - [The Pokémon Company Yet Again Promises It Will Print More TCG Cards, But...](https://kotaku.com/pokemon-tcg-cards-available-journey-together-stock-1851772771)
+ - [Chinese action game Phantom Blade Zero didn&#39;t click for me until I realized its deep commitment to wuxia film authenticity meant I had to relearn how swords work](https://www.pcgamer.com/games/action/chinese-action-game-phantom-blade-zero-didnt-click-for-me-until-i-realized-its-deep-commitment-to-wuxia-film-authenticity-meant-i-had-to-relearn-how-swords-work/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
