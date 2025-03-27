@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caterpillar taps Luminar’s lidar for self-driving construction equipment](https://www.theverge.com/news/637238/caterpillar-luminar-lidar-self-driving-construction-equipment)
- - [How to keep your Venmo account private](https://www.theverge.com/how-to/637215/venmo-privacy-how-to)
- - [Nintendo is launching a news app](https://www.theverge.com/news/637319/nintendo-today-news-app)<!-- TECH:END -->
+ - [Amazon Luna gets EA games and is launching in more countries](https://www.theverge.com/news/637441/amazon-luna-ea-games-star-wars-dead-space)
+ - [Before Lazarus hits Adult Swim, listen to some of its transcendent music](https://www.theverge.com/news/637174/lazarus-kamasi-wasington-bonobo-floating-points-soundtrack)
+ - [Sources: Reddit banned r/WhitePeopleTwitter for 72 hours in February 2025 after Elon Musk messaged CEO Steve Huffman about users threatening DOGE staffers &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250327/p28#a250327p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
