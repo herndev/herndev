@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Immunefi: crypto industry lost a record $1.64B in Q1 2025 across 40 incidents, including $1.46B from the Bybit hack, vs. $348.3M across 63 incidents in Q1 2024 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250327/p38#a250327p38)
- - [Apple begins notifying 2025 Swift Student Challenge winners](https://appleinsider.com/articles/25/03/27/apple-begins-notifying-2025-swift-student-challenge-winners?utm_medium=rss)
- - [Epic’s latest free Android games are here to grab: Evoland 2 and Out There – Omega Edition](https://www.androidauthority.com/epic-free-games-3539245/)<!-- TECH:END -->
+ - [All Samsung The Frame TV sizes on sale: Save up to $1,800!](https://www.androidauthority.com/samsung-the-frame-tv-deal-3-3539323/)
+ - [Ploopy upgraded its open-source trackball with better scrolling](https://www.theverge.com/news/637794/ploopyploopy-classic-2-trackball-open-source-upgrade)
+ - [New &#39;Nintendo Today!&#39; app is aimed squarely at Nintendo&#39;s biggest fans](https://appleinsider.com/articles/25/03/27/new-nintendo-today-app-is-aimed-squarely-at-nintendos-biggest-fans?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
