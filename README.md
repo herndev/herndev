@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Portable Water Dispensers Are the New At-Home Hydration Hack](https://www.cnet.com/news/portable-water-dispensers-are-my-new-at-home-hydration-hack/#ftag=CAD590a51e)
  - [JPMorgan researchers say they have generated and certified truly random numbers using a quantum computer, a world-first with potential security and trading uses &lpar;Isabella Ward/Bloomberg&rpar;](http://www.techmeme.com/250327/p7#a250327p7)
- - [Poll: Is 2025 shaping up to be a more boring year than usual for phones?](https://www.androidauthority.com/2025-boring-smartphones-poll-3538975/)
- - [Sources: many new Chinese AI data centers sit unused due to weak demand and DeepSeek-driven shifts; local reports say ~80% of new computing resources are idle &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250327/p6#a250327p6)<!-- TECH:END -->
+ - [Poll: Is 2025 shaping up to be a more boring year than usual for phones?](https://www.androidauthority.com/2025-boring-smartphones-poll-3538975/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
