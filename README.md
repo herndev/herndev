@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says &quot;our GPUs are melting&quot; due to ChatGPT&#39;s viral image generation and OpenAI plans to temporarily introduce some rate limits &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250327/p34#a250327p34)
- - [How to turn off Apple Intelligence -- and why you need to keep turning it off](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence----and-keep-turning-it-off?utm_medium=rss)
- - [YouTube’s new gray bars are ruining full-screen playback on Android &lpar;Update: Fixed in beta&rpar;](https://www.androidauthority.com/youtube-gray-bars-3539194/)<!-- TECH:END -->
+ - [Source: the White House sent a &quot;records retention policy&quot; to DOGE staffers on Monday, reminding them to preserve their Signal messages and disable auto-delete &lpar;Kyle Cheney/Politico&rpar;](http://www.techmeme.com/250327/p37#a250327p37)
+ - [Facebook&amp;#8217;s new Friends-only feed ditches all the algorithmic junk](https://www.theverge.com/news/637668/facebook-friends-only-feed-algorithm)
+ - [Amazon partners with Electronic Arts to bring EA games like Star Wars Jedi: Survivor to cloud gaming service Amazon Luna, which is now available in 14 countries &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250327/p36#a250327p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
