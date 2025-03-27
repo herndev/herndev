@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Former UFC champion Cain Velasquez has been sentenced to 5 years in prison for attempted murder after firing a gun at a man who allegedly molested his son over 100 times at a daycare](http://9gag.com/gag/awy1zmx)
- - ⏩ [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
- - 👉 [Mexican TV shows are at another level.](http://9gag.com/gag/a9y5z0W)<!-- MEMES:END -->
+ - 💣 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - ⏩ [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
+ - 👉 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)<!-- MEMES:END -->
 
 ---
 
