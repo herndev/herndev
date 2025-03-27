@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All Samsung The Frame TV sizes on sale: Save up to $1,800!](https://www.androidauthority.com/samsung-the-frame-tv-deal-3-3539323/)
- - [Ploopy upgraded its open-source trackball with better scrolling](https://www.theverge.com/news/637794/ploopyploopy-classic-2-trackball-open-source-upgrade)
- - [New &#39;Nintendo Today!&#39; app is aimed squarely at Nintendo&#39;s biggest fans](https://appleinsider.com/articles/25/03/27/new-nintendo-today-app-is-aimed-squarely-at-nintendos-biggest-fans?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube is letting you share a bit of ad-free Premium love](https://www.androidauthority.com/youtube-premium-ad-free-sharing-3539347/)
+ - [Trump White House invites a bloc of conservative podcasters as a jab at legacy media](https://www.theverge.com/policy/637890/trump-white-house-podcast-row)
+ - [Even More Venmo Accounts Tied to Trump Officials in Signal Group Chat Left Data Public](https://www.wired.com/story/even-more-venmo-accounts-tied-to-trump-officials-in-signal-group-chat-left-data-public/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
