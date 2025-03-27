@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: the White House sent a &quot;records retention policy&quot; to DOGE staffers on Monday, reminding them to preserve their Signal messages and disable auto-delete &lpar;Kyle Cheney/Politico&rpar;](http://www.techmeme.com/250327/p37#a250327p37)
- - [Facebook&amp;#8217;s new Friends-only feed ditches all the algorithmic junk](https://www.theverge.com/news/637668/facebook-friends-only-feed-algorithm)
- - [Amazon partners with Electronic Arts to bring EA games like Star Wars Jedi: Survivor to cloud gaming service Amazon Luna, which is now available in 14 countries &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250327/p36#a250327p36)<!-- TECH:END -->
+ - [Immunefi: crypto industry lost a record $1.64B in Q1 2025 across 40 incidents, including $1.46B from the Bybit hack, vs. $348.3M across 63 incidents in Q1 2024 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250327/p38#a250327p38)
+ - [Apple begins notifying 2025 Swift Student Challenge winners](https://appleinsider.com/articles/25/03/27/apple-begins-notifying-2025-swift-student-challenge-winners?utm_medium=rss)
+ - [Epic’s latest free Android games are here to grab: Evoland 2 and Out There – Omega Edition](https://www.androidauthority.com/epic-free-games-3539245/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
