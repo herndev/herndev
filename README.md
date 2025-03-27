@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber Shuttle will get you to JFK airport for $10](https://www.theverge.com/news/636662/uber-shuttle-jfk-airport-ten-dollars)
- - [Q&amp;A with Mike Clark, the chief architect of AMD&#39;s Zen microarchitecture, on x86, ARM, CPUs vs GPUs, Zen 4 to Zen 5, software developers, and more &lpar;Casey Muratori/Computer, Enhance!&rpar;](http://www.techmeme.com/250327/p12#a250327p12)
- - [A leaked Chinese dataset on &quot;public opinion work&quot; reveals 133,000 entries fed into an LLM designed to automatically flag content deemed sensitive by China &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250327/p11#a250327p11)<!-- TECH:END -->
+ - [Garmin adds AI and a subscription tier to its app](https://www.theverge.com/news/636211/garmin-connect-plus-subscription-wearables)
+ - [Source: Nvidia is in advanced talks to acquire Lepton AI, which rents Nvidia GPU servers, for several hundred million dollars; Lepton raised $11M in 2023 &lpar;The Information&rpar;](http://www.techmeme.com/250327/p16#a250327p16)
+ - [Vivaldi bundles Proton VPN into its web browser](https://www.theverge.com/news/637118/vivaldi-browser-proton-vpn-integration-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
