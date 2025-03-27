@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, March 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-27-2025/)
  - [Total War: Warhammer 3&#39;s army of Cathay has broken containment and is making its way to tabletop Warhammer at last](https://www.pcgamer.com/games/board-games/total-war-warhammer-3s-army-of-cathay-has-broken-containment-and-is-making-its-way-to-tabletop-warhammer-at-last/)
- - [Tickets for PAX Australia 2025 are on sale now](https://www.pcgamer.com/gaming-industry/events-conferences/tickets-for-pax-australia-2025-are-on-sale-now/)
- - [Kingdom Come: Deliverance 2&#39;s masterful quest design can be summed up by one wonderfully weird search for a magic stone](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2s-masterful-quest-design-can-be-summed-up-by-one-wonderfully-weird-search-for-a-magic-stone/)<!-- GAME:END -->
+ - [Tickets for PAX Australia 2025 are on sale now](https://www.pcgamer.com/gaming-industry/events-conferences/tickets-for-pax-australia-2025-are-on-sale-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
