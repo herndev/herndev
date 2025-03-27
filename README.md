@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mecha Break developer is considering unlocking all mechs following open beta feedback](https://www.pcgamer.com/games/third-person-shooter/mecha-break-developer-is-considering-unlocking-all-mechs-following-open-beta-feedback/)
- - [Tomb Raider developer Crystal Dynamics lays off 17 employees &#39;to better align our current business needs and the studio&#39;s future success&#39;](https://www.pcgamer.com/gaming-industry/tomb-raider-developer-crystal-dynamics-lays-off-17-employees-to-better-align-our-current-business-needs-and-the-studios-future-success/)
- - [Each of Marvel’s Avengers: Doomsday reveals made me a little less excited for Avengers: Doomsday](https://www.polygon.com/marvel/547616/avengers-doomsday-cast-reveal-reaction)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2&#39;s masterful quest design can be summed up by one wonderfully weird search for a magic stone](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2s-masterful-quest-design-can-be-summed-up-by-one-wonderfully-weird-search-for-a-magic-stone/)
+ - [Kings under the Mountain! 33 Enshrouded players spent 10,000 hours to recreate this iconic location from The Lord of the Rings](https://www.pcgamer.com/games/survival-crafting/kings-under-the-mountain-33-enshrouded-players-spent-10-000-hours-to-recreate-this-iconic-location-from-the-lord-of-the-rings/)
+ - [Marvel’s Avengers: Doomsday reveal proves the MCU is just a machine for resurrecting Loki](https://www.polygon.com/marvel/547509/tom-hiddleston-loki-avengers-doomsday-timeline-how)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
