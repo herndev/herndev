@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Drive Out the Darkness with Sea of Thieves’ Destiny-Inspired Lightbearer Cosmetics](https://news.xbox.com/en-us/2025/03/27/sea-of-thieves-destiny-cosmetics/)
- - [Tunguska Is Here on Xbox: How to Survive in the Zone as a Ghoul Hunter](https://news.xbox.com/en-us/2025/03/27/tunguska-how-to-survive-as-a-ghoul-hunter/)
- - [Nintendo Hints At Switch 2 Upgrades For Old Games](https://kotaku.com/nintendo-switch-2-edition-enhanced-ports-upgrade-paid-1851772785)<!-- GAME:END -->
+ - [A Minecraft Movie: New Trailer and Tickets on Sale](https://www.minecraft.net/article/a-minecraft-movie-new-trailer#new_tab)
+ - [StarCraft fans taunted by the announcement of a new StarCraft... board game](https://www.pcgamer.com/games/starcraft-fans-taunted-by-the-announcement-of-a-new-starcraft-board-game/)
+ - [Nintendo Solves Digital Game Sharing In The Weirdest Way Possible &lpar;Update&rpar;](https://kotaku.com/nintendo-digital-games-virtual-game-cards-vgc-switch-2-1851772706)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
