@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Side eye](http://9gag.com/gag/apR6DeE)
- - ⏩ [Thanks to chatgpt Everything is studio Ghibli now. Even lord of the rings.](http://9gag.com/gag/a4PNNR1)
- - 👉 [Just you](http://9gag.com/gag/aqy662M)<!-- MEMES:END -->
+ - 💣 [No more memes](http://9gag.com/gag/aKGvvm6)
+ - ⏩ [Yeah, it&#39;s not easy](http://9gag.com/gag/a0e00oO)
+ - 👉 [It&#39;s that easy?](http://9gag.com/gag/aoyR32e)<!-- MEMES:END -->
 
 ---
 
