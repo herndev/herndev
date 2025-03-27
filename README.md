@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI GeForce RTX 5080 Ventus 3X OC White review](https://www.pcgamer.com/hardware/graphics-cards/msi-geforce-rtx-5080-ventus-3x-oc-white-review/)
- - [PC Gamer magazine&#39;s new issue is on sale now: Doom: The Dark Ages](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-doom-the-dark-ages/)
- - [Today&#39;s Wordle answer for Thursday, March 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-27-2025/)<!-- GAME:END -->
+ - [World of Warcraft&#39;s started swiping good ideas from one of its most popular user-made UI addons, and it&#39;s honestly about time](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-started-swiping-good-ideas-from-one-of-its-most-popular-user-made-ui-addons-and-its-honestly-about-time/)
+ - [&#39;We want to increase the cost of silence&#39;: Hunt: Showdown 1896&#39;s latest update brings a new event, a massive list of bugfixes and a tougher challenge for stealthy players](https://www.pcgamer.com/games/fps/we-want-to-increase-the-cost-of-silence-hunt-showdown-1896s-latest-update-brings-a-new-event-a-massive-list-of-bugfixes-and-a-tougher-challenge-for-stealthy-players/)
+ - [Mindbending free multimedia adventure ENA: Dream BBQ is out now, has activated all my neurons and opened my third eye](https://www.pcgamer.com/games/adventure/mindbending-free-multimedia-adventure-ena-dream-bbq-is-out-now-has-activated-all-my-neurons-and-opened-my-third-eye/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
