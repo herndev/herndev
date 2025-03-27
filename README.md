@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Former UFC champion Cain Velasquez has been sentenced to 5 years in prison for attempted murder after firing a gun at a man who allegedly molested his son over 100 times at a daycare](http://9gag.com/gag/awy1zmx)
- - ⏩ [Cover, cover up everywhere..](http://9gag.com/gag/a5QwQGN)
- - 👉 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)<!-- MEMES:END -->
+ - ⏩ [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
+ - 👉 [Mexican TV shows are at another level.](http://9gag.com/gag/a9y5z0W)<!-- MEMES:END -->
 
 ---
 
