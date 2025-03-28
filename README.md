@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Spidergirl](http://9gag.com/gag/a340Aw8)
- - ⏩ [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
+ - ⏩ [Staying tru to the art](http://9gag.com/gag/adBQvy2)
  - 👉 [Absolute units](http://9gag.com/gag/aZZ8ny6)<!-- MEMES:END -->
 
 ---
