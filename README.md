@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Twitch CEO Emmett Shear, who was OpenAI&#39;s interim CEO in 2023 when Sam Altman was fired, launches Softmax, a startup focused on AI alignment &lpar;Ashlee Vance/Core Memory&rpar;](http://www.techmeme.com/250328/p23#a250328p23)
- - [Side Quest’s creators wanted to tell stories about why people love games](https://www.theverge.com/tv/638323/apple-tv-plus-side-quest-ashly-burch-john-howell-harris-katie-mcelhenney)
- - [A jury finds Frank founder Charlie Javice guilty of defrauding JPMorgan Chase by falsifying Frank user numbers; the charges carry a maximum sentence of 30 years &lpar;Luisa Beltran/Fortune&rpar;](http://www.techmeme.com/250328/p22#a250328p22)<!-- TECH:END -->
+ - [Deal: The new EcoFlow River 3 Plus Power Station is already $100 off!](https://www.androidauthority.com/ecoflow-river-3-plus-power-station-deal-3539714/)
+ - [The Trump administration could green-light deep-sea mining for the first time](https://www.theverge.com/news/638732/battery-mineral-deep-sea-mining-the-metals-company-donald-trump)
+ - [Your Google Meet call is going to look very different soon](https://www.androidauthority.com/google-meet-dynamic-layout-3539680/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
