@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Helldivers 2 is locking out players who use older CPUs](https://www.theverge.com/news/638317/helldivers-2-avx2-cpu-requirement-lockout-sony)
- - [Apple&#39;s folding iPad or MacBook: What to expect, and when it will ship](https://appleinsider.com/articles/25/03/28/apples-folding-ipad-or-macbook-what-to-expect-and-when-it-will-ship?utm_medium=rss)
- - [Musk threatens to sic the government on people ‘pushing’ Tesla ‘propaganda’](https://www.theverge.com/tesla/638174/elon-musk-tesla-protest-free-speech-fox-news)<!-- TECH:END -->
+ - [YouTube tests turning off notifications for channels you don&amp;#8217;t watch](https://www.theverge.com/news/638506/youtube-push-notification-test)
+ - [Google will pay $100M in cash to settle a 2011 lawsuit accusing the company of charging for clicks on ads outside the geographic areas the advertisers targeted &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250328/p20#a250328p20)
+ - [A free Spotify Premium trial just landed for owners of this Android brand](https://www.androidauthority.com/xiaomi-spotify-premium-trial-promotion-3539665/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
