@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [King Arthur wants to automate your sourdough starter](https://www.theverge.com/news/638390/sourdough-starter-king-arthur-flour-firstbuild-indiegogo)
- - [Sources: DOGE aims to migrate all Social Security Administration&#39;s computer systems off COBOL in a matter of months, risking the integrity of the system &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250328/p14#a250328p14)
- - [Apple TV+ documentary &#39;Fight for Glory: 2024 World Series&#39; takes a deep dive into the 2024 World Series](https://appleinsider.com/articles/25/03/28/apple-tv-documentary-fight-for-glory-2024-world-series-takes-a-deep-dive-into-the-2024-world-series?utm_medium=rss)<!-- TECH:END -->
+ - [A beginner’s guide to using Signal](https://www.theverge.com/tech/637926/signal-app-how-to-features-encryption)
+ - [Here’s what military planning usually looks like — and why it doesn’t include Signal](https://www.theverge.com/politics/638419/signal-houthi-group-chat-military-security-scif-encryption)
+ - [Gemini hackers are using its own tools against it](https://www.androidauthority.com/gemini-hack-gemini-3539624/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
