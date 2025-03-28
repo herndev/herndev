@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto’s latest beta brings full Android game support](https://www.theverge.com/news/638059/android-auto-14-1-beta-game-support)
- - [Crypto.com says the US SEC won&#39;t pursue enforcement action; Crypto.com sued the SEC in October after receiving a Wells notice signaling potential charges &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250328/p6#a250328p6)
- - [This new Gboard feature could make it as dumb as the iPhone keyboard &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-hide-punctuation-keys-apk-teardown-3539471/)<!-- TECH:END -->
+ - [Inside Apple News - How to get the most out of your curated news, sports, &amp; puzzles feed](https://appleinsider.com/inside/apple-news/tips/inside-apple-news---how-to-get-the-most-out-of-your-curated-news-sports-puzzles-feed?utm_medium=rss)
+ - [This new minimalist phone costs as much as the Galaxy S25](https://www.androidauthority.com/light-phone-3-sale-3539498/)
+ - [7 Best Sleep Masks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sleep-masks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
