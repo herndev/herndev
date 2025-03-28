@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)
- - ⏩ [Black live or something](http://9gag.com/gag/a9y5XYZ)
- - 👉 [Woman went to the pet store to pick out a new cat, then this happened...](http://9gag.com/gag/aoyRVKw)<!-- MEMES:END -->
+ - 💣 [I am so...](http://9gag.com/gag/a9y5581)
+ - ⏩ [Based](http://9gag.com/gag/awy1d8R)
+ - 👉 [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)<!-- MEMES:END -->
 
 ---
 
