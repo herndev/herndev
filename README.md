@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m collecting the best Amazon Spring Prime Day PC gaming deals like a bargain-hunting treasure goblin](https://www.pcgamer.com/hardware/live/news/spring-prime-day-pc-gaming-deals-2025-live/)
- - [Inzoi lets you customize your entire house down to the last thread, which is great in theory but doesn&#39;t feel good in practice](https://www.pcgamer.com/games/life-sim/inzoi-lets-you-customize-your-entire-house-down-to-the-last-thread-which-is-great-in-theory-but-doesnt-feel-good-in-practice/)
- - [Today&#39;s Wordle answer for Friday, March 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-28-2025/)<!-- GAME:END -->
+ - [As a Warhammer fan of over 20 years, I&#39;ve worked out the 3 rules Amazon needs to follow to make a great Warhammer TV show](https://www.pcgamer.com/games/board-games/as-a-warhammer-fan-of-over-20-years-ive-worked-out-the-3-rules-amazon-needs-to-follow-to-make-a-great-warhammer-tv-show/)
+ - [Venom&#39;s gonna throw it back in Marvel Rivals and there&#39;s nothing any of us can do to stop him](https://www.pcgamer.com/games/third-person-shooter/venoms-gonna-throw-it-back-in-marvel-rivals-and-theres-nothing-any-of-us-can-do-to-stop-him/)
+ - [Elden Ring mega-mod The Convergence redesigns legacy dungeons, improves tutorials and gives its new bosses their own theme music](https://www.pcgamer.com/games/rpg/elden-ring-mega-mod-the-convergence-redesigns-legacy-dungeons-improves-tutorials-and-gives-its-new-bosses-their-own-theme-music/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
