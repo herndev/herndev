@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Sleep For Kaname Date will have us dreaming of AI: The Somnium Files&#39; deranged detective again this July](https://www.pcgamer.com/games/adventure/no-sleep-for-kaname-date-will-have-us-dreaming-of-ai-the-somnium-files-deranged-detective-again-this-july/)
- - [No, Daredevil: Born Again&#39;s Fisk Is Not An Allegory For Trump](https://kotaku.com/daredevil-born-again-fisk-trump-allegory-summary-1851773048)
- - [Yet another Nintendo Direct passes without Silksong news, and if you&#39;re wondering how people are taking it, you must be new here](https://www.pcgamer.com/games/action/yet-another-nintendo-direct-passes-without-silksong-news-and-if-youre-wondering-how-people-are-taking-it-you-must-be-new-here/)<!-- GAME:END -->
+ - [How to get a car in Inzoi](https://www.pcgamer.com/games/life-sim/inzoi-car-how-to-get/)
+ - [How to use InZoi cheat codes and money cheats](https://www.polygon.com/inzoi-guides/548694/cheat-codes-money-list-all)
+ - [How to get frenzy shard in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/547334/frenzy-shard-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
