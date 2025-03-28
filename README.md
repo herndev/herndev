@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
- - ⏩ [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - 👉 [Dora is Lost](http://9gag.com/gag/aryXZbB)<!-- MEMES:END -->
+ - 💣 [Dora is Lost](http://9gag.com/gag/aryXZbB)
+ - ⏩ [Absolute units](http://9gag.com/gag/aZZ8ny6)
+ - 👉 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)<!-- MEMES:END -->
 
 ---
 
