@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dora is Lost](http://9gag.com/gag/aryXZbB)
- - ⏩ [Absolute units](http://9gag.com/gag/aZZ8ny6)
- - 👉 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)<!-- MEMES:END -->
+ - 💣 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - ⏩ [The French plight](http://9gag.com/gag/a5Qw2Vq)
+ - 👉 [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)<!-- MEMES:END -->
 
 ---
 
