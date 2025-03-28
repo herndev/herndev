@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple News - How to get the most out of your curated news, sports, &amp; puzzles feed](https://appleinsider.com/inside/apple-news/tips/inside-apple-news---how-to-get-the-most-out-of-your-curated-news-sports-puzzles-feed?utm_medium=rss)
- - [This new minimalist phone costs as much as the Galaxy S25](https://www.androidauthority.com/light-phone-3-sale-3539498/)
- - [7 Best Sleep Masks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sleep-masks/)<!-- TECH:END -->
+ - [This budget smart ring challenges the Oura Ring and Galaxy Ring at half the price](https://www.androidauthority.com/ringconn-gen-2-air-review-3536329/)
+ - [WhatsApp users can now add music to their status](https://www.theverge.com/news/638063/whatsapp-status-music-song-clips-update)
+ - [OpenAI has a Studio Ghibli problem](https://www.theverge.com/the-vergecast/638084/openai-studio-ghibli-images-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
