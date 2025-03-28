@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A beginner’s guide to using Signal](https://www.theverge.com/tech/637926/signal-app-how-to-features-encryption)
- - [Here’s what military planning usually looks like — and why it doesn’t include Signal](https://www.theverge.com/politics/638419/signal-houthi-group-chat-military-security-scif-encryption)
- - [Gemini hackers are using its own tools against it](https://www.androidauthority.com/gemini-hack-gemini-3539624/)<!-- TECH:END -->
+ - [Helldivers 2 is locking out players who use older CPUs](https://www.theverge.com/news/638317/helldivers-2-avx2-cpu-requirement-lockout-sony)
+ - [Apple&#39;s folding iPad or MacBook: What to expect, and when it will ship](https://appleinsider.com/articles/25/03/28/apples-folding-ipad-or-macbook-what-to-expect-and-when-it-will-ship?utm_medium=rss)
+ - [Musk threatens to sic the government on people ‘pushing’ Tesla ‘propaganda’](https://www.theverge.com/tesla/638174/elon-musk-tesla-protest-free-speech-fox-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
