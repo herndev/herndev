@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, March 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-28-2025/)
- - [One of Square Enix&#39; most underrated PlayStation-era JRPGs just shadow dropped on Steam](https://www.pcgamer.com/games/rpg/one-of-square-enix-most-underrated-playstation-era-jrpgs-just-shadow-dropped-on-steam/)
- - [Grit and Valor - 1949 review](https://www.pcgamer.com/games/roguelike/grit-and-valor-1949-review/)<!-- GAME:END -->
+ - [I&#39;m collecting the best Amazon Spring Prime Day PC gaming deals like a bargain-hunting treasure goblin](https://www.pcgamer.com/hardware/live/news/spring-prime-day-pc-gaming-deals-2025-live/)
+ - [Inzoi lets you customize your entire house down to the last thread, which is great in theory but doesn&#39;t feel good in practice](https://www.pcgamer.com/games/life-sim/inzoi-lets-you-customize-your-entire-house-down-to-the-last-thread-which-is-great-in-theory-but-doesnt-feel-good-in-practice/)
+ - [Today&#39;s Wordle answer for Friday, March 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-28-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
