@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
- - ⏩ [Absolute units](http://9gag.com/gag/aZZ8ny6)
- - 👉 [The French plight](http://9gag.com/gag/a5Qw2Vq)<!-- MEMES:END -->
+ - 💣 [Spidergirl](http://9gag.com/gag/a340Aw8)
+ - ⏩ [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
+ - 👉 [Absolute units](http://9gag.com/gag/aZZ8ny6)<!-- MEMES:END -->
 
 ---
 
