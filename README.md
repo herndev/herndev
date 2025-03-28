@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ever wanted to play games on your Android Auto screen? There’s good news.](https://www.androidauthority.com/android-auto-play-games-screen-3539419/)
  - [Sources: the EU will impose minimal fines on Apple and Meta next week, far below the DMA&#39;s 10% of global turnover cap, to avoid tensions with President Trump &lpar;Financial Times&rpar;](http://www.techmeme.com/250328/p2#a250328p2)
- - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)
- - [Taiwan is investigating 11 Chinese tech firms, including SMIC, which is being probed for allegedly poaching engineers to access the island&#39;s advanced chip tech &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250328/p1#a250328p1)<!-- TECH:END -->
+ - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
