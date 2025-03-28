@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EY: Indians collectively spent 1.1T hours on their smartphones in 2024, averaging five hours daily, with ~70% of the time on social media, gaming, and videos &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/250327/p43#a250327p43)
  - [Our favorite robot vacuum deals from Amazon’s Big Spring Sale](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Infinacore P3 Pro Charger review: Reliable choice for home or travel](https://appleinsider.com/articles/25/03/27/infinacore-p3-pro-charger-review-reliable-choice-for-home-or-travel?utm_medium=rss)
- - [Amazon’s big spring sale continues, and we found the 95 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [Infinacore P3 Pro Charger review: Reliable choice for home or travel](https://appleinsider.com/articles/25/03/27/infinacore-p3-pro-charger-review-reliable-choice-for-home-or-travel?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
