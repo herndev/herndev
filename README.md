@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
- - ⏩ [Woah](http://9gag.com/gag/aMVPmDP)
- - 👉 [I am so...](http://9gag.com/gag/a9y5581)<!-- MEMES:END -->
+ - 💣 [Poor guy is just trying to do his job](http://9gag.com/gag/aPAooxB)
+ - ⏩ [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
+ - 👉 [Woah](http://9gag.com/gag/aMVPmDP)<!-- MEMES:END -->
 
 ---
 
