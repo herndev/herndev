@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A perfect plug does not exist](http://9gag.com/gag/abA4xgO)
- - ⏩ [Man...you need to oil that door...](http://9gag.com/gag/an72x50)
- - 👉 [The French plight](http://9gag.com/gag/a5Qw2Vq)<!-- MEMES:END -->
+ - 💣 [Man...you need to oil that door...](http://9gag.com/gag/an72x50)
+ - ⏩ [The French plight](http://9gag.com/gag/a5Qw2Vq)
+ - 👉 [All is Ghibli](http://9gag.com/gag/aZZ8EKQ)<!-- MEMES:END -->
 
 ---
 
