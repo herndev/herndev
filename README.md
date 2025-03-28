@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show does co-op better than its sports game competitors](https://www.polygon.com/opinion/547297/mlb-the-show-co-op-diamond-dynasty)
- - [How to get a referral code for Inzoi](https://www.pcgamer.com/games/life-sim/inzoi-referral-code/)
- - [Crumbs: ASRock finds &#39;debris&#39; in X870 motherboard accused of toasting AMD Ryzen CPU](https://www.pcgamer.com/hardware/processors/crumbs-asrock-finds-debris-in-x870-motherboard-accused-of-toasting-amd-ryzen-cpu/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for March 31 to April 4](https://news.xbox.com/en-us/2025/03/28/next-week-on-xbox-new-games-for-march-31-to-april-4/)
+ - [The best Lego deals of Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/548021/best-lego-star-wars-animal-crossing-deals-amazon-big-spring)
+ - [All Iron Hand locations and rewards in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/548186/iron-hand-guild-merchant-locations-all-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
