@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am so...](http://9gag.com/gag/a9y5581)
- - ⏩ [Based](http://9gag.com/gag/awy1d8R)
- - 👉 [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)<!-- MEMES:END -->
+ - 💣 [That smile. That damned smile.](http://9gag.com/gag/a0e0EmO)
+ - ⏩ [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)
+ - 👉 [Without hesitation](http://9gag.com/gag/ajPLZvq)<!-- MEMES:END -->
 
 ---
 
