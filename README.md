@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)
- - ⏩ [Side eye](http://9gag.com/gag/apR6DeE)
- - 👉 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)<!-- MEMES:END -->
+ - 💣 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
+ - ⏩ [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - 👉 [Dora is Lost](http://9gag.com/gag/aryXZbB)<!-- MEMES:END -->
 
 ---
 
