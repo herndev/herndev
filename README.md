@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The new EcoFlow River 3 Plus Power Station is already $100 off!](https://www.androidauthority.com/ecoflow-river-3-plus-power-station-deal-3539714/)
- - [The Trump administration could green-light deep-sea mining for the first time](https://www.theverge.com/news/638732/battery-mineral-deep-sea-mining-the-metals-company-donald-trump)
- - [Your Google Meet call is going to look very different soon](https://www.androidauthority.com/google-meet-dynamic-layout-3539680/)<!-- TECH:END -->
+ - [The 30 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
+ - [Elon Musk’s xAI buys Elon Musk’s X for $33 billion on paper](https://www.theverge.com/news/638933/elon-musk-x-xai-acquisition)
+ - [Samsung Galaxy Z Flip FE renders look like the Z Flip 6 all over again](https://www.androidauthority.com/z-flip-fe-renders-3539715/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
