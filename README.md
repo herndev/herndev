@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Poor guy is just trying to do his job](http://9gag.com/gag/aPAooxB)
- - ⏩ [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
- - 👉 [Woah](http://9gag.com/gag/aMVPmDP)<!-- MEMES:END -->
+ - ⏩ [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
+ - 👉 [Spidergirl](http://9gag.com/gag/a340Aw8)<!-- MEMES:END -->
 
 ---
 
