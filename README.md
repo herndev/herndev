@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds&amp;#8217; Gathering Hub NEEDS a Poogie, OK???](https://www.polygon.com/gaming/547536/monster-hunter-wilds-poogie-outfits)
- - [Over 60% of Call of Duty players reported for cheating are on console, but the data says nearly all cheaters are on PC: &#39;We&#39;ve found that many of these reports have been inaccurate&#39;](https://www.pcgamer.com/games/call-of-duty/over-60-percent-of-call-of-duty-players-reported-for-cheating-are-on-console-but-the-data-says-nearly-all-cheaters-are-on-pc-weve-found-that-many-of-these-reports-have-been-inaccurate/)
- - [Assassin’s Creed Shadows is the perfect size](https://www.polygon.com/gaming/549021/assassins-creed-shadows-mirage-valhalla-how-long)<!-- GAME:END -->
+ - [The new game from former Grand Theft Auto producer Leslie Benzies is coming in June, and boy it sure looks like a Rockstar game](https://www.pcgamer.com/games/action/the-new-game-from-former-grand-theft-auto-producer-leslie-benzies-is-coming-in-june-and-boy-it-sure-looks-like-a-rockstar-game/)
+ - [The Woman in the Yard only cares about the ending, so let’s talk about the ending](https://www.polygon.com/horror/549113/woman-in-the-yard-ending-explained-review)
+ - [Monster Hunter Wilds&amp;#8217; Gathering Hub NEEDS a Poogie, OK???](https://www.polygon.com/gaming/547536/monster-hunter-wilds-poogie-outfits)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
