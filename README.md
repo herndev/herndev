@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Minecraft Movie DLC Now Available in the Minecraft Marketplace](https://www.minecraft.net/article/a-minecraft-movie-dlc#new_tab)
- - [The Chaos Theory of the DCF Universe](https://news.xbox.com/en-us/2025/03/28/the-chaos-theory-of-the-dcf-universe/)
- - [Terry’s Other Games answers the question: ‘What if UFO 50, but nonfiction?’](https://www.polygon.com/review/546025/terrys-other-games-review)<!-- GAME:END -->
+ - [All kofun locations and rewards in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/548683/kofun-locations-rewards-all-where-to-find)
+ - [The best armor in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/548552/best-armor-legendary)
+ - [The best weapons in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/548574/best-weapons-legendary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
