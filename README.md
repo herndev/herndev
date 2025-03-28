@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man...you need to oil that door...](http://9gag.com/gag/an72x50)
- - ⏩ [The French plight](http://9gag.com/gag/a5Qw2Vq)
- - 👉 [All is Ghibli](http://9gag.com/gag/aZZ8EKQ)<!-- MEMES:END -->
+ - 💣 [Black live or something](http://9gag.com/gag/a9y5XYZ)
+ - ⏩ [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)
+ - 👉 [2 guys having a civilized conversation](http://9gag.com/gag/aD286Wx)<!-- MEMES:END -->
 
 ---
 
