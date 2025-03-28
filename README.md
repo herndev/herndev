@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan is investigating 11 Chinese tech firms, including SMIC, which is being probed for allegedly poaching engineers to access the island&#39;s advanced chip tech &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250328/p1#a250328p1)
  - [PUBG developer Krafton acquires a &quot;north of 75% stake&quot; in Pune-based gaming studio Nautilus Mobile for $14M in an all-cash deal, its first acquisition in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250327/p46#a250327p46)
- - [Q&amp;A with Snowflake CEO Sridhar Ramaswamy on working at Bell Labs and Google, building Neeva, Snowflake&#39;s business model and its approach to AI, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250327/p45#a250327p45)
- - [Our favorite projector deals from Amazon’s Big Spring Sale](https://www.androidauthority.com/yaber-xgimi-projector-deals-3539321/)<!-- TECH:END -->
+ - [Q&amp;A with Snowflake CEO Sridhar Ramaswamy on working at Bell Labs and Google, building Neeva, Snowflake&#39;s business model and its approach to AI, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250327/p45#a250327p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
