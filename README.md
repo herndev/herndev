@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [One of Square Enix&#39; most underrated PlayStation-era JRPGs just shadow dropped on Steam](https://www.pcgamer.com/games/rpg/one-of-square-enix-most-underrated-playstation-era-jrpgs-just-shadow-dropped-on-steam/)
  - [Grit and Valor - 1949 review](https://www.pcgamer.com/games/roguelike/grit-and-valor-1949-review/)
- - [Studio Ghibli AI image trend floods social media, cheered on by OpenAI and denounced by critics as an insult to Hayao Miyazaki](https://www.pcgamer.com/software/ai/studio-ghibli-ai-image-trend-floods-social-media-cheered-on-by-openai-and-denounced-by-artists-i-cant-think-of-a-worse-artist-to-do-it-to/)
- - [Marvel Rivals director says a future patch will reduce the shooter&#39;s insatiable hunger for RAM: &#39;It&#39;s a very big problem&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-director-says-a-future-patch-will-reduce-the-shooters-insatiable-hunger-for-ram-its-a-very-big-problem/)<!-- GAME:END -->
+ - [Studio Ghibli AI image trend floods social media, cheered on by OpenAI and denounced by critics as an insult to Hayao Miyazaki](https://www.pcgamer.com/software/ai/studio-ghibli-ai-image-trend-floods-social-media-cheered-on-by-openai-and-denounced-by-artists-i-cant-think-of-a-worse-artist-to-do-it-to/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
