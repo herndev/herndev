@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Archetype, whose AI model Newton is trained to analyze output from sensors monitoring the physical world, including cities and factories &lpar;Mark Wilson/Fast Company&rpar;](http://www.techmeme.com/250327/p44#a250327p44)
- - [EY: Indians collectively spent 1.1T hours on their smartphones in 2024, averaging five hours daily, with ~70% of the time on social media, gaming, and videos &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/250327/p43#a250327p43)
- - [Our favorite robot vacuum deals from Amazon’s Big Spring Sale](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
+ - [Q&amp;A with Snowflake CEO Sridhar Ramaswamy on working at Bell Labs and Google, building Neeva, Snowflake&#39;s business model and its approach to AI, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250327/p45#a250327p45)
+ - [Our favorite projector deals from Amazon’s Big Spring Sale](https://www.androidauthority.com/yaber-xgimi-projector-deals-3539321/)
+ - [A look at Archetype, whose AI model Newton is trained to analyze output from sensors monitoring the physical world, including cities and factories &lpar;Mark Wilson/Fast Company&rpar;](http://www.techmeme.com/250327/p44#a250327p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
