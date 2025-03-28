@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get a car in Inzoi](https://www.pcgamer.com/games/life-sim/inzoi-car-how-to-get/)
- - [How to use InZoi cheat codes and money cheats](https://www.polygon.com/inzoi-guides/548694/cheat-codes-money-list-all)
- - [How to get frenzy shard in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/547334/frenzy-shard-how-to-get)<!-- GAME:END -->
+ - [A Minecraft Movie DLC Now Available in the Minecraft Marketplace](https://www.minecraft.net/article/a-minecraft-movie-dlc#new_tab)
+ - [The Chaos Theory of the DCF Universe](https://news.xbox.com/en-us/2025/03/28/the-chaos-theory-of-the-dcf-universe/)
+ - [Terry’s Other Games answers the question: ‘What if UFO 50, but nonfiction?’](https://www.polygon.com/review/546025/terrys-other-games-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
