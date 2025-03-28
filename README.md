@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)
- - ⏩ [The French plight](http://9gag.com/gag/a5Qw2Vq)
- - 👉 [Feeding baby eels.](http://9gag.com/gag/a9y56B0)<!-- MEMES:END -->
+ - 💣 [The French plight](http://9gag.com/gag/a5Qw2Vq)
+ - ⏩ [Woah](http://9gag.com/gag/aMVPmDP)
+ - 👉 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)<!-- MEMES:END -->
 
 ---
 
