@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can now own the most horrifying character in Fullmetal Alchemist](https://www.polygon.com/tv/548951/fullmetal-alchemist-chimera-figurine-nina)
- - [Lord Of The Rings Turned Into Studio Ghibli AI Slop Looks Like Garbage](https://kotaku.com/studio-ghibli-ai-lord-rings-lotr-openai-sora-1851773155)
- - [Path of Exile 2 director says it may not leave early access in 2025: &#39;I want to get it done this year, but we&#39;ll see how things go&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2-director-says-it-may-not-leave-early-access-in-2025-i-want-to-get-it-done-this-year-but-well-see-how-things-go/)<!-- GAME:END -->
+ - [Tired of Call of Duty&#39;s crossover skins? Hash it out in Black Ops 6&#39;s upcoming weed-themed extravaganza featuring &#39;joint operations&#39; and Jay and Silent Bob](https://www.pcgamer.com/games/call-of-duty/tired-of-call-of-dutys-crossover-skins-hash-it-out-in-black-ops-6s-upcoming-weed-themed-extravaganza-featuring-joint-operations-and-jay-and-silent-bob/)
+ - [The best deals on desk  accessory upgrades from the Amazon Big Spring Sale](https://www.polygon.com/sales-guide/548946/best-computer-desk-upgrades-amazon-big-spring-deals)
+ - [The big questions going into the Switch 2 reveal](https://www.polygon.com/analysis/548500/nintendo-switch-2-questions-before-reveal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
