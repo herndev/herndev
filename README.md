@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Luna gets EA games and is launching in more countries](https://www.theverge.com/news/637441/amazon-luna-ea-games-star-wars-dead-space)
- - [Amazon’s big spring sale continues, and we found the 95 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [Sony PlayStation 5 Slim deals: Save $50 and get a free game!](https://www.androidauthority.com/sony-playstation-5-slim-deals-3539322/)<!-- TECH:END -->
+ - [Our favorite robot vacuum deals from Amazon’s Big Spring Sale](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [Infinacore P3 Pro Charger review: Reliable choice for home or travel](https://appleinsider.com/articles/25/03/27/infinacore-p3-pro-charger-review-reliable-choice-for-home-or-travel?utm_medium=rss)
+ - [Amazon’s big spring sale continues, and we found the 95 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
