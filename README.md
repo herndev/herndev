@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new game from former Grand Theft Auto producer Leslie Benzies is coming in June, and boy it sure looks like a Rockstar game](https://www.pcgamer.com/games/action/the-new-game-from-former-grand-theft-auto-producer-leslie-benzies-is-coming-in-june-and-boy-it-sure-looks-like-a-rockstar-game/)
- - [The Woman in the Yard only cares about the ending, so let’s talk about the ending](https://www.polygon.com/horror/549113/woman-in-the-yard-ending-explained-review)
- - [Monster Hunter Wilds&amp;#8217; Gathering Hub NEEDS a Poogie, OK???](https://www.polygon.com/gaming/547536/monster-hunter-wilds-poogie-outfits)<!-- GAME:END -->
+ - [Co-op hit Split Fiction now holds three Guinness World Records that seem destined to be won specifically by co-op hit Split Fiction](https://www.pcgamer.com/games/action/co-op-hit-split-fiction-now-holds-three-guinness-world-records-that-seem-destined-to-be-won-specifically-by-co-op-hit-split-fiction/)
+ - [Mufasa: The Lion King, Queer, Dead Talents Society on Netflix, and every movie new to streaming this week](https://www.polygon.com/what-to-watch/543313/new-movies-watch-streaming-queer-mufasa-the-lion-king-dead-talents-society-netflix)
+ - [Inzoi studio says running over children is &#39;highly inappropriate&#39; after players discover they could launch kids into the next life by pasting them with their cars](https://www.pcgamer.com/games/life-sim/inzoi-studio-says-running-over-children-is-highly-inappropriate-after-players-discover-they-could-launch-kids-into-the-next-life-by-pasting-them-with-their-cars/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
