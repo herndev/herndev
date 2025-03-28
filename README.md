@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The French plight](http://9gag.com/gag/a5Qw2Vq)
- - ⏩ [Woah](http://9gag.com/gag/aMVPmDP)
- - 👉 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)<!-- MEMES:END -->
+ - 💣 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
+ - ⏩ [Absolute units](http://9gag.com/gag/aZZ8ny6)
+ - 👉 [The French plight](http://9gag.com/gag/a5Qw2Vq)<!-- MEMES:END -->
 
 ---
 
