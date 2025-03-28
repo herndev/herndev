@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - ⏩ [The French plight](http://9gag.com/gag/a5Qw2Vq)
- - 👉 [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)<!-- MEMES:END -->
+ - 💣 [WTF! is this even legal? i know sea has diffrent laws, but its still killing people lol.](http://9gag.com/gag/aD28noG)
+ - ⏩ [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)
+ - 👉 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)<!-- MEMES:END -->
 
 ---
 
