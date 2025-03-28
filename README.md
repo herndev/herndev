@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 30 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
- - [Elon Musk’s xAI buys Elon Musk’s X for $33 billion on paper](https://www.theverge.com/news/638933/elon-musk-x-xai-acquisition)
- - [Samsung Galaxy Z Flip FE renders look like the Z Flip 6 all over again](https://www.androidauthority.com/z-flip-fe-renders-3539715/)<!-- TECH:END -->
+ - [Sources: Blackstone is evaluating a small minority investment in TikTok&#39;s US operations, joining the front-running bid by ByteDance&#39;s non-Chinese shareholders &lpar;Reuters&rpar;](http://www.techmeme.com/250328/p29#a250328p29)
+ - [7 Best Bike Locks &lpar;2025&rpar;: Litelok, Abus, Hiplok, KryptoLok Compared](https://www.wired.com/gallery/best-bike-lock/)
+ - [Tired of slow charging? Check out these Anker and UGREEN deals](https://www.androidauthority.com/anker-ugreen-charger-deals-3539713/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
