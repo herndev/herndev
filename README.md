@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That smile. That damned smile.](http://9gag.com/gag/a0e0EmO)
- - ⏩ [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)
- - 👉 [Without hesitation](http://9gag.com/gag/ajPLZvq)<!-- MEMES:END -->
+ - 💣 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
+ - ⏩ [Woah](http://9gag.com/gag/aMVPmDP)
+ - 👉 [I am so...](http://9gag.com/gag/a9y5581)<!-- MEMES:END -->
 
 ---
 
