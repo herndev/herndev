@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor guy is just trying to do his job](http://9gag.com/gag/aPAooxB)
- - ⏩ [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
- - 👉 [Spidergirl](http://9gag.com/gag/a340Aw8)<!-- MEMES:END -->
+ - 💣 [` Mommy tells me I&#39;m a girl` Jeff&#39;s story](http://9gag.com/gag/ayN6YXb)
+ - ⏩ [Spidergirl](http://9gag.com/gag/a340Aw8)
+ - 👉 [All is Ghibli](http://9gag.com/gag/aZZ8EKQ)<!-- MEMES:END -->
 
 ---
 
