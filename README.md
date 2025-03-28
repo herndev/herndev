@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit Health Metrics just got a much-needed makeover](https://www.androidauthority.com/fitbit-app-health-metrics-revamp-3539549/)
- - [Google discontinues Nest Protect smoke alarm and Nest x Yale door lock](https://www.theverge.com/news/638171/google-discontinuing-nest-protect-smoke-alarm-nest-x-yale-smart-lock)
- - [Google says Pixel 9a will launch in the US, Canada, and UK on April 10; the company delayed the phone&#39;s launch to April to check &quot;on a component quality issue&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250328/p13#a250328p13)<!-- TECH:END -->
+ - [King Arthur wants to automate your sourdough starter](https://www.theverge.com/news/638390/sourdough-starter-king-arthur-flour-firstbuild-indiegogo)
+ - [Sources: DOGE aims to migrate all Social Security Administration&#39;s computer systems off COBOL in a matter of months, risking the integrity of the system &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250328/p14#a250328p14)
+ - [Apple TV+ documentary &#39;Fight for Glory: 2024 World Series&#39; takes a deep dive into the 2024 World Series](https://appleinsider.com/articles/25/03/28/apple-tv-documentary-fight-for-glory-2024-world-series-takes-a-deep-dive-into-the-2024-world-series?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
