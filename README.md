@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All kofun locations and rewards in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/548683/kofun-locations-rewards-all-where-to-find)
- - [The best armor in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/548552/best-armor-legendary)
- - [The best weapons in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/548574/best-weapons-legendary)<!-- GAME:END -->
+ - [You can now own the most horrifying character in Fullmetal Alchemist](https://www.polygon.com/tv/548951/fullmetal-alchemist-chimera-figurine-nina)
+ - [Lord Of The Rings Turned Into Studio Ghibli AI Slop Looks Like Garbage](https://kotaku.com/studio-ghibli-ai-lord-rings-lotr-openai-sora-1851773155)
+ - [Path of Exile 2 director says it may not leave early access in 2025: &#39;I want to get it done this year, but we&#39;ll see how things go&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2-director-says-it-may-not-leave-early-access-in-2025-i-want-to-get-it-done-this-year-but-well-see-how-things-go/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
