@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tired of Call of Duty&#39;s crossover skins? Hash it out in Black Ops 6&#39;s upcoming weed-themed extravaganza featuring &#39;joint operations&#39; and Jay and Silent Bob](https://www.pcgamer.com/games/call-of-duty/tired-of-call-of-dutys-crossover-skins-hash-it-out-in-black-ops-6s-upcoming-weed-themed-extravaganza-featuring-joint-operations-and-jay-and-silent-bob/)
- - [The best deals on desk  accessory upgrades from the Amazon Big Spring Sale](https://www.polygon.com/sales-guide/548946/best-computer-desk-upgrades-amazon-big-spring-deals)
- - [The big questions going into the Switch 2 reveal](https://www.polygon.com/analysis/548500/nintendo-switch-2-questions-before-reveal)<!-- GAME:END -->
+ - [Monster Hunter Wilds&amp;#8217; Gathering Hub NEEDS a Poogie, OK???](https://www.polygon.com/gaming/547536/monster-hunter-wilds-poogie-outfits)
+ - [Over 60% of Call of Duty players reported for cheating are on console, but the data says nearly all cheaters are on PC: &#39;We&#39;ve found that many of these reports have been inaccurate&#39;](https://www.pcgamer.com/games/call-of-duty/over-60-percent-of-call-of-duty-players-reported-for-cheating-are-on-console-but-the-data-says-nearly-all-cheaters-are-on-pc-weve-found-that-many-of-these-reports-have-been-inaccurate/)
+ - [Assassin’s Creed Shadows is the perfect size](https://www.polygon.com/gaming/549021/assassins-creed-shadows-mirage-valhalla-how-long)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
