@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AYANEO Pocket ACE is a compact powerhouse with retro charm](https://www.androidauthority.com/ayaneo-pocket-ace-announcement-3539457/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 28, #1378](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-28-1378/#ftag=CAD590a51e)
- - [Women&#39;s March Madness 2025: How to Watch the Sweet 16 Games Today](https://www.cnet.com/tech/services-and-software/womens-march-madness-2025-how-to-watch-the-sweet-16-games-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android Auto’s latest beta brings full Android game support](https://www.theverge.com/news/638059/android-auto-14-1-beta-game-support)
+ - [Crypto.com says the US SEC won&#39;t pursue enforcement action; Crypto.com sued the SEC in October after receiving a Wells notice signaling potential charges &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250328/p6#a250328p6)
+ - [This new Gboard feature could make it as dumb as the iPhone keyboard &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-hide-punctuation-keys-apk-teardown-3539471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
