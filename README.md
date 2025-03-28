@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got butter fingers? The latest Gorilla Glass can withstand lots of drops.](https://www.androidauthority.com/corning-gorilla-glass-ceramic-3539449/)
- - [CoreWeave raised $1.5B in its IPO, selling ~37.5M shares at $40 each, down from a planned 49M shares at $47-$55; source: Nvidia anchored with a ~$250M order &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p4#a250328p4)
- - [How Paul Ginsparg, a Cornell University physics professor, created the digital repository arXiv nearly 35 years ago to help researchers share their preprints &lpar;Sheon Han/Wired&rpar;](http://www.techmeme.com/250328/p3#a250328p3)<!-- TECH:END -->
+ - [The AYANEO Pocket ACE is a compact powerhouse with retro charm](https://www.androidauthority.com/ayaneo-pocket-ace-announcement-3539457/)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 28, #1378](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-28-1378/#ftag=CAD590a51e)
+ - [Women&#39;s March Madness 2025: How to Watch the Sweet 16 Games Today](https://www.cnet.com/tech/services-and-software/womens-march-madness-2025-how-to-watch-the-sweet-16-games-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
