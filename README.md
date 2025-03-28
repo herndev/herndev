@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for March 31 to April 4](https://news.xbox.com/en-us/2025/03/28/next-week-on-xbox-new-games-for-march-31-to-april-4/)
- - [The best Lego deals of Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/548021/best-lego-star-wars-animal-crossing-deals-amazon-big-spring)
- - [All Iron Hand locations and rewards in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/548186/iron-hand-guild-merchant-locations-all-where-to-find)<!-- GAME:END -->
+ - [No Sleep For Kaname Date will have us dreaming of AI: The Somnium Files&#39; deranged detective again this July](https://www.pcgamer.com/games/adventure/no-sleep-for-kaname-date-will-have-us-dreaming-of-ai-the-somnium-files-deranged-detective-again-this-july/)
+ - [No, Daredevil: Born Again&#39;s Fisk Is Not An Allegory For Trump](https://kotaku.com/daredevil-born-again-fisk-trump-allegory-summary-1851773048)
+ - [Yet another Nintendo Direct passes without Silksong news, and if you&#39;re wondering how people are taking it, you must be new here](https://www.pcgamer.com/games/action/yet-another-nintendo-direct-passes-without-silksong-news-and-if-youre-wondering-how-people-are-taking-it-you-must-be-new-here/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
