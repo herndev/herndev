@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As a Warhammer fan of over 20 years, I&#39;ve worked out the 3 rules Amazon needs to follow to make a great Warhammer TV show](https://www.pcgamer.com/games/board-games/as-a-warhammer-fan-of-over-20-years-ive-worked-out-the-3-rules-amazon-needs-to-follow-to-make-a-great-warhammer-tv-show/)
- - [Venom&#39;s gonna throw it back in Marvel Rivals and there&#39;s nothing any of us can do to stop him](https://www.pcgamer.com/games/third-person-shooter/venoms-gonna-throw-it-back-in-marvel-rivals-and-theres-nothing-any-of-us-can-do-to-stop-him/)
- - [Elden Ring mega-mod The Convergence redesigns legacy dungeons, improves tutorials and gives its new bosses their own theme music](https://www.pcgamer.com/games/rpg/elden-ring-mega-mod-the-convergence-redesigns-legacy-dungeons-improves-tutorials-and-gives-its-new-bosses-their-own-theme-music/)<!-- GAME:END -->
+ - [MLB The Show does co-op better than its sports game competitors](https://www.polygon.com/opinion/547297/mlb-the-show-co-op-diamond-dynasty)
+ - [How to get a referral code for Inzoi](https://www.pcgamer.com/games/life-sim/inzoi-referral-code/)
+ - [Crumbs: ASRock finds &#39;debris&#39; in X870 motherboard accused of toasting AMD Ryzen CPU](https://www.pcgamer.com/hardware/processors/crumbs-asrock-finds-debris-in-x870-motherboard-accused-of-toasting-amd-ryzen-cpu/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
