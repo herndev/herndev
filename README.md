@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He won life](http://9gag.com/gag/a1m02O8)
- - ⏩ [Magnitude 7.3 Earthquake happened today &lpar;March 28&rpar; in Bangkok.](http://9gag.com/gag/aVvK20v)
- - 👉 [Thanks to chatgpt Everything is studio Ghibli now. Even lord of the rings.](http://9gag.com/gag/a4PNNR1)<!-- MEMES:END -->
+ - 💣 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)
+ - ⏩ [Black live or something](http://9gag.com/gag/a9y5XYZ)
+ - 👉 [Woman went to the pet store to pick out a new cat, then this happened...](http://9gag.com/gag/aoyRVKw)<!-- MEMES:END -->
 
 ---
 
