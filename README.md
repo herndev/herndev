@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia RTX 5090 mobile GPU:  more efficient and a little faster](https://www.theverge.com/tech/637898/nvidia-rtx-5090-laptop-gpu-impressions-benchmarks-testing-specs)
- - [AppLovin hires a law firm to investigate short sellers&#39; allegations that the mobile ad company&#39;s ad performance numbers are fraudulent &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/250328/p11#a250328p11)
- - [Interviews with Dario Amodei, Daniela Amodei, and other executives about Anthropic&#39;s origin, Claude, why DeepSeek isn&#39;t a threat, reaching AGI safely, more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250328/p10#a250328p10)<!-- TECH:END -->
+ - [Fitbit Health Metrics just got a much-needed makeover](https://www.androidauthority.com/fitbit-app-health-metrics-revamp-3539549/)
+ - [Google discontinues Nest Protect smoke alarm and Nest x Yale door lock](https://www.theverge.com/news/638171/google-discontinuing-nest-protect-smoke-alarm-nest-x-yale-smart-lock)
+ - [Google says Pixel 9a will launch in the US, Canada, and UK on April 10; the company delayed the phone&#39;s launch to April to check &quot;on a component quality issue&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250328/p13#a250328p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
