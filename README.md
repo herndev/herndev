@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
- - ⏩ [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
- - 👉 [Woah](http://9gag.com/gag/aMVPmDP)<!-- MEMES:END -->
+ - 💣 [A perfect plug does not exist](http://9gag.com/gag/abA4xgO)
+ - ⏩ [Man...you need to oil that door...](http://9gag.com/gag/an72x50)
+ - 👉 [The French plight](http://9gag.com/gag/a5Qw2Vq)<!-- MEMES:END -->
 
 ---
 
