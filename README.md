@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Satisfactory 1.1 will have autoconnecting blueprints, vertical splitters, branching hypertube networks, controllers, photo mode, and more](https://www.pcgamer.com/games/survival-crafting/satisfactory-1-1-will-have-autoconnecting-blueprints-vertical-splitters-branching-hypertube-networks-controllers-photo-mode-just-way-too-much-frankly/)
- - [There&#39;s now Call of Duty soap and I&#39;m disappointed to report that none of it is called Soap&#39;s Soap](https://www.pcgamer.com/games/call-of-duty/theres-now-call-of-duty-soap-and-im-disappointed-to-report-that-none-of-it-is-called-soaps-soap/)
- - [At one point, Avowed would have taught us to use magic with an explosive Elder Scrolls reference: &#39;How about we just have a guy on the road that blows himself up&#39;](https://www.pcgamer.com/games/rpg/at-one-point-avowed-would-have-taught-us-to-use-magic-with-an-explosive-elder-scrolls-reference-how-about-we-just-have-a-guy-on-the-road-that-blows-himself-up/)<!-- GAME:END -->
+ - [Nordhold is out now, and one of the year&#39;s most interesting tower defense games](https://www.pcgamer.com/games/strategy/nordhold-is-out-now-and-one-of-the-years-most-interesting-tower-defense-games/)
+ - [Cult classic Rain World has dropped a new expansion about its most mysterious slugcat yet](https://www.pcgamer.com/games/action/cult-classic-rain-world-has-dropped-a-new-expansion-about-its-most-mysterious-slugcat-yet/)
+ - [Five new Steam games you probably missed &lpar;March 31, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-31-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
