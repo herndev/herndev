@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Flashpoint is on sale for its lowest price ever](https://www.polygon.com/good-deals/549515/halo-flashpoint-board-game-amazon-big-spring-sale)
- - [Death of a Unicorn’s director unpacks the film’s swervy ending](https://www.polygon.com/movies/549231/death-of-a-unicorn-ending-explained)
- - [A whole bunch of Korean studios are trying to convince Blizzard to let them make a new StarCraft game, including MMO specialist NCSoft](https://www.pcgamer.com/games/rts/a-whole-bunch-of-korean-studios-are-trying-to-convince-blizzard-to-let-them-make-a-new-starcraft-game-including-mmo-specialist-ncsoft/)<!-- GAME:END -->
+ - [How to use InZoi cheats and other ‘cheats’ so far](https://www.polygon.com/inzoi-guides/548694/cheat-codes-money-list-all)
+ - [Make Sure To Snag These Legendary Weapons In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-new-weapons-shop-legendary-1851773367)
+ - [GTA 6’s next trailer is a ways off because Rockstar wants you hungry, Take-Two CEO says](https://www.polygon.com/gta-grand-theft-auto/549529/grand-theft-auto-6-gta-second-trailer-rockstar-take-two-strauss-zelnick)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
