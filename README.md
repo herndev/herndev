@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)
- - ⏩ [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 👉 [Magic and Crime](http://9gag.com/gag/aByVN5Z)<!-- MEMES:END -->
+ - 💣 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
+ - ⏩ [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)
+ - 👉 [Can\u2019t believe we had this in the 60\u2019s. Scary to Imagine what they have now](http://9gag.com/gag/aGyBbm0)<!-- MEMES:END -->
 
 ---
 
