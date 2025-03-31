@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&#39;Toxic&#39; masculinity wins again.](http://9gag.com/gag/a9y5N3K)
- - ⏩ [Magic and Crime](http://9gag.com/gag/aByVN5Z)
- - 👉 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)<!-- MEMES:END -->
+ - 💣 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)
+ - ⏩ [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 👉 [Magic and Crime](http://9gag.com/gag/aByVN5Z)<!-- MEMES:END -->
 
 ---
 
