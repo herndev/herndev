@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Far-Right Influencers Are Hosting a $10K-per-Person Matchmaking Weekend to Repopulate the Earth](https://www.wired.com/story/natal-conference-matchmaking/)
- - [The Proud Boys and Militias Come to Tesla’s Defense](https://www.wired.com/story/proud-boys-and-militias-come-to-teslas-defense/)
- - [The 30 best Amazon Big Spring Sale deals you can still grab for under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)<!-- TECH:END -->
+ - [Sam Altman says OpenAI is planning to &quot;release a powerful new open-weight language model with reasoning in the coming months&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250331/p35#a250331p35)
+ - [Sam Altman says &quot;we added one million users in the last hour&quot;, following last week&#39;s Images for ChatGPT launch; over the weekend he said &quot;our GPUs are melting&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250331/p34#a250331p34)
+ - [Microsoft expands AI features across Intel and AMD-powered Copilot Plus PCs](https://www.theverge.com/news/640028/microsoft-copilot-plus-pcs-ai-intel-amd-rollout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
