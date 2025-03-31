@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn!!! Ended his career with to that crossover. Old 9gag memes](http://9gag.com/gag/ae9ZqYB)
- - ⏩ [Magic and Crime](http://9gag.com/gag/aByVN5Z)
- - 👉 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)<!-- MEMES:END -->
+ - 💣 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
+ - ⏩ [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
+ - 👉 [Soccer](http://9gag.com/gag/aPAo0VG)<!-- MEMES:END -->
 
 ---
 
