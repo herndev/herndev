@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD completes its $4.9B purchase of data center equipment designer ZT Systems, announced in August 2024, taking on its roughly 1,000 design engineers &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p22#a250331p22)
- - [AirPods Pro hearing aid feature took six years to develop](https://appleinsider.com/articles/25/03/31/airpods-pro-hearing-aid-feature-took-six-years-to-develop?utm_medium=rss)
- - [Last Chance: 109 Best Amazon Spring Sale Deals for March 2025](https://www.wired.com/story/amazon-spring-sale-2025-4/)<!-- TECH:END -->
+ - [Seattle-based Temporal, an open-source microservices orchestration service, raised a $146M Series C led by Tiger Global at a $1.72B post-money valuation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250331/p25#a250331p25)
+ - [Pixel Screenshots is getting a widget, and we have a first look at it &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-screenshots-widget-3539965/)
+ - [Android 16 is getting a little more secure by stealing this iOS feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-inactivity-reboot-android-16-3539949/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
