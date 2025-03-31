@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)
- - ⏩ [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
- - 👉 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)<!-- MEMES:END -->
+ - 💣 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
+ - ⏩ [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)
+ - 👉 [Magic and Crime](http://9gag.com/gag/aByVN5Z)<!-- MEMES:END -->
 
 ---
 
