@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Co-op hit Split Fiction now holds three Guinness World Records that seem destined to be won specifically by co-op hit Split Fiction](https://www.pcgamer.com/games/action/co-op-hit-split-fiction-now-holds-three-guinness-world-records-that-seem-destined-to-be-won-specifically-by-co-op-hit-split-fiction/)
- - [Mufasa: The Lion King, Queer, Dead Talents Society on Netflix, and every movie new to streaming this week](https://www.polygon.com/what-to-watch/543313/new-movies-watch-streaming-queer-mufasa-the-lion-king-dead-talents-society-netflix)
- - [Inzoi studio says running over children is &#39;highly inappropriate&#39; after players discover they could launch kids into the next life by pasting them with their cars](https://www.pcgamer.com/games/life-sim/inzoi-studio-says-running-over-children-is-highly-inappropriate-after-players-discover-they-could-launch-kids-into-the-next-life-by-pasting-them-with-their-cars/)<!-- GAME:END -->
+ - [Satisfactory 1.1 will have autoconnecting blueprints, vertical splitters, branching hypertube networks, controllers, photo mode, and more](https://www.pcgamer.com/games/survival-crafting/satisfactory-1-1-will-have-autoconnecting-blueprints-vertical-splitters-branching-hypertube-networks-controllers-photo-mode-just-way-too-much-frankly/)
+ - [There&#39;s now Call of Duty soap and I&#39;m disappointed to report that none of it is called Soap&#39;s Soap](https://www.pcgamer.com/games/call-of-duty/theres-now-call-of-duty-soap-and-im-disappointed-to-report-that-none-of-it-is-called-soaps-soap/)
+ - [At one point, Avowed would have taught us to use magic with an explosive Elder Scrolls reference: &#39;How about we just have a guy on the road that blows himself up&#39;](https://www.pcgamer.com/games/rpg/at-one-point-avowed-would-have-taught-us-to-use-magic-with-an-explosive-elder-scrolls-reference-how-about-we-just-have-a-guy-on-the-road-that-blows-himself-up/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
