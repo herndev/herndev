@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says OpenAI is planning to &quot;release a powerful new open-weight language model with reasoning in the coming months&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250331/p35#a250331p35)
- - [Sam Altman says &quot;we added one million users in the last hour&quot;, following last week&#39;s Images for ChatGPT launch; over the weekend he said &quot;our GPUs are melting&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250331/p34#a250331p34)
- - [Microsoft expands AI features across Intel and AMD-powered Copilot Plus PCs](https://www.theverge.com/news/640028/microsoft-copilot-plus-pcs-ai-intel-amd-rollout)<!-- TECH:END -->
+ - [Top Officials Placed on Leave After Denying DOGE Access to Federal Payroll Systems](https://www.wired.com/story/doge-access-federal-payroll-systems-officials-leave-interior/)
+ - [Sources: Sesame, which makes realistic AI voice assistants, is in talks to raise $200M+ co-led by Sequoia Capital and Spark Capital, valuing the company at $1B+ &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250331/p37#a250331p37)
+ - [Democratic Senators Call for Privacy Act Reform in Response to DOGE Takeover](https://www.wired.com/story/democratic-senators-privacy-act-reform-doge-takeover/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
