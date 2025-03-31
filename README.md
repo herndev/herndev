@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea-based Wrtn, a free-to-use AI platform with 5M+ users aggregating LLMs like GPT-4, Stable Diffusion 3, and Claude 3, raised a ~$56M extension round &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250331/p2#a250331p2)
- - [No, you’re not going crazy: One of the best Pixel Weather app features is now missing](https://www.androidauthority.com/pixel-weather-map-removed-3539856/)
- - [After Trump signed an EO to end the government&#39;s DEI programs, tech firms like Google are rebranding DEI efforts, using terms like &quot;learning&quot; or &quot;hiring&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/250331/p1#a250331p1)<!-- TECH:END -->
+ - [A look at the race between China and the US to build truly useful humanoid robots, as China lists &quot;embodied&quot; AI as a priority for a $138B state investment fund &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250331/p5#a250331p5)
+ - [Japan earmarks up to ~$5.4B in additional aid for chipmaker Rapidus, which aims to begin mass production of 2nm chips in 2027, a highly ambitious target &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p4#a250331p4)
+ - [Report: 79% of 475 AI experts believe current public perceptions of AI do not match R&amp;D realities, while 76% said scaling current approaches will not yield AGI &lpar;Isaac Schultz/Gizmodo&rpar;](http://www.techmeme.com/250331/p3#a250331p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
