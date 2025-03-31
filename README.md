@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Satisfaction compilation](http://9gag.com/gag/aW4nydq)
- - ⏩ [Better snow white](http://9gag.com/gag/avy6BvZ)
- - 👉 [Hand egg](http://9gag.com/gag/aRBMWZB)<!-- MEMES:END -->
+ - 💣 [Stolen!](http://9gag.com/gag/a870NKe)
+ - ⏩ [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)
+ - 👉 [The ones will understand](http://9gag.com/gag/a340Dy1)<!-- MEMES:END -->
 
 ---
 
