@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Spray foam](http://9gag.com/gag/a870vLZ)
- - ⏩ [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
- - 👉 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)<!-- MEMES:END -->
+ - ⏩ [Right answers only](http://9gag.com/gag/awy1G4r)
+ - 👉 [Frustration](http://9gag.com/gag/aYQD6Lv)<!-- MEMES:END -->
 
 ---
 
