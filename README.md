@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All is Ghibli](http://9gag.com/gag/aZZ8EKQ)
- - ⏩ [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 👉 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)<!-- MEMES:END -->
+ - 💣 [&#39;Toxic&#39; masculinity wins again.](http://9gag.com/gag/a9y5N3K)
+ - ⏩ [Magic and Crime](http://9gag.com/gag/aByVN5Z)
+ - 👉 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)<!-- MEMES:END -->
 
 ---
 
