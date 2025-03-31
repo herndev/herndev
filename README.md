@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Psycho Patrol R, the FPS-Mech sim from the creator of Cruelty Squad, is one of the most challenging, complicated games I&#39;ve ever played⁠—and worth every second it took to figure out its deal](https://www.pcgamer.com/games/fps/psycho-patrol-r-overview-guide/)
- - [&#39;I was surprised, because I loved the trailer&#39;: Jack Black didn&#39;t get all the hate for the first Minecraft movie teaser](https://www.pcgamer.com/movies-tv/i-was-surprised-because-i-loved-the-trailer-jack-black-didnt-get-all-the-hate-for-the-first-minecraft-movie-teaser/)
- - [‘Tea Bowls for Rikyu’ locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/548925/tea-bowls-for-rikyu-locations-where-to-find-all)<!-- GAME:END -->
+ - [&#39;You must have played this before!&#39;: Balatro&#39;s creator impressed bystanders with his Balatro skills at GDC, and nobody knew who he was](https://www.pcgamer.com/games/card-games/you-must-have-played-this-before-balatros-creator-impressed-bystanders-with-his-balatro-skills-at-gdc-and-nobody-knew-who-he-was/)
+ - [Best Schedule 1 mixing station recipes to grow your criminal empire](https://www.pcgamer.com/games/sim/best-schedule-1-mixing-recipes-guide/)
+ - [Rosewater review](https://www.pcgamer.com/games/adventure/rosewater-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
