@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eidos Montreal lays off more employees: &#39;We don’t have the capacity to entirely reallocate them to our other ongoing projects&#39;](https://www.pcgamer.com/gaming-industry/eidos-montreal-lays-off-more-employees-we-dont-have-the-capacity-to-entirely-reallocate-them-to-our-other-ongoing-projects/)
- - [Get Disco Elysium and five other dice-rolling titles for just $13 at Humble](https://www.polygon.com/good-deals/549948/dice-destiny-disco-elysium-citizen-sleeper-humble-bundle-sale)
- - [Dan Da Dan season 1 is coming to Blu-ray in June, available to preorder now](https://www.polygon.com/what-to-buy/549923/dan-da-dan-season-one-bluray-preorder)<!-- GAME:END -->
+ - [Psycho Patrol R, the FPS-Mech sim from the creator of Cruelty Squad, is one of the most challenging, complicated games I&#39;ve ever played⁠—and worth every second it took to figure out its deal](https://www.pcgamer.com/games/fps/psycho-patrol-r-overview-guide/)
+ - [&#39;I was surprised, because I loved the trailer&#39;: Jack Black didn&#39;t get all the hate for the first Minecraft movie teaser](https://www.pcgamer.com/movies-tv/i-was-surprised-because-i-loved-the-trailer-jack-black-didnt-get-all-the-hate-for-the-first-minecraft-movie-teaser/)
+ - [‘Tea Bowls for Rikyu’ locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/548925/tea-bowls-for-rikyu-locations-where-to-find-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
