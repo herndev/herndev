@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld decides it wasn&#39;t April fooling after all, is actually making a visual novel dating sim where you can, uh, &#39;dismember and eat&#39; some of its cast](https://www.pcgamer.com/games/survival-crafting/palworld-decides-it-wasnt-april-fooling-after-all-is-actually-making-a-visual-novel-dating-sim-where-you-can-uh-dismember-and-eat-some-of-its-cast/)
- - [You Probably Missed This Awesome Side Story In Split Fiction](https://kotaku.com/split-fiction-mountain-hike-side-story-location-1851773365)
- - [&#39;When a widespread outage affects devices from starting properly, Microsoft can broadly deploy targeted remediation&#39;: MS introduces &#39;quick machine recovery&#39; for Windows 11](https://www.pcgamer.com/software/windows/when-a-widespread-outage-affects-devices-from-starting-properly-microsoft-can-broadly-deploy-targeted-remediation-ms-introduces-quick-machine-recovery-for-windows-11/)<!-- GAME:END -->
+ - [Halo Flashpoint is on sale for its lowest price ever](https://www.polygon.com/good-deals/549515/halo-flashpoint-board-game-amazon-big-spring-sale)
+ - [Death of a Unicorn’s director unpacks the film’s swervy ending](https://www.polygon.com/movies/549231/death-of-a-unicorn-ending-explained)
+ - [A whole bunch of Korean studios are trying to convince Blizzard to let them make a new StarCraft game, including MMO specialist NCSoft](https://www.pcgamer.com/games/rts/a-whole-bunch-of-korean-studios-are-trying-to-convince-blizzard-to-let-them-make-a-new-starcraft-game-including-mmo-specialist-ncsoft/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
