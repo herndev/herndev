@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Michael Winslow](http://9gag.com/gag/aPAo0ew)
- - ⏩ [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
- - 👉 [Outstanding move](http://9gag.com/gag/aAyKLmd)<!-- MEMES:END -->
+ - 💣 [Spray foam](http://9gag.com/gag/a870vLZ)
+ - ⏩ [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
+ - 👉 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)<!-- MEMES:END -->
 
 ---
 
