@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok, tariffs, and trials: everything happening in tech’s chaotic April](https://www.theverge.com/policy/638779/tariffs-tiktok-ban-meta-google-antitrust-trial-april-trump)
- - [Should you buy the Pixel 9a now or wait for the Pixel 10?](https://www.androidauthority.com/pixel-9a-vs-pixel-10-3535868/)
- - [Amazon&#39;s AGI Lab Reveals Its First Work: Advanced AI Agents](https://www.wired.com/story/amazon-ai-agents-nova-web-browsing/)<!-- TECH:END -->
+ - [AMD completes its $4.9B purchase of data center equipment designer ZT Systems, announced in August 2024, taking on its roughly 1,000 design engineers &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p22#a250331p22)
+ - [AirPods Pro hearing aid feature took six years to develop](https://appleinsider.com/articles/25/03/31/airpods-pro-hearing-aid-feature-took-six-years-to-develop?utm_medium=rss)
+ - [Last Chance: 109 Best Amazon Spring Sale Deals for March 2025](https://www.wired.com/story/amazon-spring-sale-2025-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
