@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s satellite plans could be stalled by Elon Musk&#39;s Starlink](https://appleinsider.com/articles/25/03/31/apples-satellite-plans-could-be-stalled-by-elon-musks-starlink?utm_medium=rss)
- - [Elon Musk and Taylor Swift can now hide details of their private jets](https://www.theverge.com/news/639468/faa-private-jet-trackers-aircraft-registration-information)
- - [7 Best Electric Toothbrushes, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
+ - [TikTok, tariffs, and trials: everything happening in tech’s chaotic April](https://www.theverge.com/policy/638779/tariffs-tiktok-ban-meta-google-antitrust-trial-april-trump)
+ - [Should you buy the Pixel 9a now or wait for the Pixel 10?](https://www.androidauthority.com/pixel-9a-vs-pixel-10-3535868/)
+ - [Amazon&#39;s AGI Lab Reveals Its First Work: Advanced AI Agents](https://www.wired.com/story/amazon-ai-agents-nova-web-browsing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
