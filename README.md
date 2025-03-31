@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 2 and AirPods 4 receive new firmware update](https://appleinsider.com/articles/25/03/31/airpods-pro-2-and-airpods-4-receive-new-firmware-update?utm_medium=rss)
- - [Robot vacuums are getting upgraded support for Apple Home](https://www.theverge.com/news/640059/apple-ios-update-matter-robot-vacuum-roborock-irobot-ecovacs)
- - [Tampa-based ReliaQuest, which provides AI-powered cybersecurity tools, raised $500M+ in a funding round led by EQT, KKR, and FTV Capital, valuing it at $3.4B &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p38#a250331p38)<!-- TECH:END -->
+ - [Trump signs an EO to establish an office within the Commerce Department to facilitate investments above $1B in the US and administer funds from the CHIPS Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p40#a250331p40)
+ - [The 101 best last-minute deals from Amazon’s Big Spring Sale](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [Google Maps is upgrading trip planning with a handy ETA](https://www.androidauthority.com/google-maps-eta-3540128/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
