@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In Kobold’s newest TTRPG, out today, you create your own cozy game](https://www.polygon.com/news/548388/riverbank-kobold-press-ttrpg-backerkit-launch)
- - [RuneScape: Dragonwilds is a new survival game set in the world of the old-school MMO](https://www.polygon.com/news/549372/runescape-dragonwilds-survival-game)
- - [Inzoi players are giving classic Sims townies a big ol&#39; ultra-realistic makeover and I&#39;m floored how good they are](https://www.pcgamer.com/games/life-sim/inzoi-players-are-giving-classic-sims-townies-a-big-ol-ultra-realistic-makeover-and-im-floored-how-good-they-are/)<!-- GAME:END -->
+ - [Palworld decides it wasn&#39;t April fooling after all, is actually making a visual novel dating sim where you can, uh, &#39;dismember and eat&#39; some of its cast](https://www.pcgamer.com/games/survival-crafting/palworld-decides-it-wasnt-april-fooling-after-all-is-actually-making-a-visual-novel-dating-sim-where-you-can-uh-dismember-and-eat-some-of-its-cast/)
+ - [You Probably Missed This Awesome Side Story In Split Fiction](https://kotaku.com/split-fiction-mountain-hike-side-story-location-1851773365)
+ - [&#39;When a widespread outage affects devices from starting properly, Microsoft can broadly deploy targeted remediation&#39;: MS introduces &#39;quick machine recovery&#39; for Windows 11](https://www.pcgamer.com/software/windows/when-a-widespread-outage-affects-devices-from-starting-properly-microsoft-can-broadly-deploy-targeted-remediation-ms-introduces-quick-machine-recovery-for-windows-11/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
