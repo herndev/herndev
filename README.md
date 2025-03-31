@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa Plus just launched in early access, but it&amp;#8217;s missing some features](https://www.theverge.com/news/639697/amazon-alexa-plus-launch-early-access-missing-features)
- - [Amazon Spring Sale deals on Verge staff favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)
- - [Max’s rebranded logo and colors look very HBO](https://www.theverge.com/news/639682/hbo-max-logo-redesign-warner-bros-discovery-streaming)<!-- TECH:END -->
+ - [Galaxy Tab S10 FE and FE Plus may launch very soon, according to retailer leak](https://www.androidauthority.com/galaxy-tab-s10-fe-leaked-date-3539992/)
+ - [Alexa+ will start rolling out to users today; sources: some features demoed in February are slated to arrive in two months, while others will take longer &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250331/p29#a250331p29)
+ - [Plex’s big mobile app revamp is finally landing, just in time for the price hike](https://www.androidauthority.com/plex-mobile-app-rollout-3540014/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
