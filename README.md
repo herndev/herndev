@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how strong Squid&#39;s Ink is in stability and pigment intensity after a week](http://9gag.com/gag/aMVP7yG)
- - ⏩ [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
- - 👉 [2 types of 30+ men](http://9gag.com/gag/ae9Zzzq)<!-- MEMES:END -->
+ - 💣 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
+ - ⏩ [The ones will understand](http://9gag.com/gag/a340Dy1)
+ - 👉 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)<!-- MEMES:END -->
 
 ---
 
