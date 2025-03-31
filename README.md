@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11 now has a publicly available roadmap so you can get to see what forthcoming horrors or awesome features await you](https://www.pcgamer.com/software/windows/windows-11-now-has-a-publicly-available-roadmap-so-you-can-get-to-see-what-forthcoming-horrors-or-awesome-features-await-you/)
- - [Videogame collectibles don&#39;t have to suck, argues seasoned dev: &#39;I&#39;m lookin&#39; at you, Korok Seeds&#39;](https://www.pcgamer.com/games/adventure/videogame-collectibles-dont-have-to-suck-argues-seasoned-dev-im-lookin-at-you-korok-seeds/)
- - [Today&#39;s Wordle answer for Monday, March 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-31-2025/)<!-- GAME:END -->
+ - [Microsoft announces changes to the Blue Screen of Death as rumours of an ominous Black Screen of Death stalk the land](https://www.pcgamer.com/software/operating-systems/microsoft-announces-changes-to-the-blue-screen-of-death-as-rumours-of-an-ominous-black-screen-of-death-stalk-the-land/)
+ - [CEO of GTA 6 publisher Take-Two isn&#39;t worried about AI-generated slop games: &#39;It’s built on data that already exists, it’s backward-looking—big hits are forward-looking&#39;](https://www.pcgamer.com/games/grand-theft-auto/ceo-of-gta-6-publisher-take-two-isnt-worried-about-ai-generated-slop-games-its-built-on-data-that-already-exists-its-backward-looking-big-hits-are-forward-looking/)
+ - [Turns out Inzoi&#39;s inhabitants wear towels in the shower because pixelating them Sims-style was too saucy: &#39;We actually tested this ourselves during development, so you can trust us&#39;](https://www.pcgamer.com/games/life-sim/turns-out-inzois-inhabitants-wear-towels-in-the-shower-because-pixelating-them-sims-style-was-too-saucy-we-actually-tested-this-ourselves-during-development-so-you-can-trust-us/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
