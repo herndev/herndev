@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dwarf Fortress dwarves are &#39;more human than human,&#39; creator says: &#39;They&#39;re allowed to embody bigger emotions. They&#39;re allowed to make bigger mistakes. They&#39;re allowed to do anything&#39;](https://www.pcgamer.com/games/sim/dwarf-fortress-dwarves-are-more-human-than-human-creator-says-theyre-allowed-to-embody-bigger-emotions-theyre-allowed-to-make-bigger-mistakes-theyre-allowed-to-do-anything/)
- - [Nintendo&amp;#8217;s new doomscrolling alternative app has one great feature](https://www.polygon.com/impressions/549801/nintendo-today-app)
- - [RuneScape&#39;s open world survival game adds a new twist to chopping down trees and smashing up rocks: magic](https://www.pcgamer.com/games/survival-crafting/runescapes-open-world-survival-game-adds-a-new-twist-to-chopping-down-trees-and-smashing-up-rocks-magic/)<!-- GAME:END -->
+ - [Eidos Montreal lays off more employees: &#39;We don’t have the capacity to entirely reallocate them to our other ongoing projects&#39;](https://www.pcgamer.com/gaming-industry/eidos-montreal-lays-off-more-employees-we-dont-have-the-capacity-to-entirely-reallocate-them-to-our-other-ongoing-projects/)
+ - [Get Disco Elysium and five other dice-rolling titles for just $13 at Humble](https://www.polygon.com/good-deals/549948/dice-destiny-disco-elysium-citizen-sleeper-humble-bundle-sale)
+ - [Dan Da Dan season 1 is coming to Blu-ray in June, available to preorder now](https://www.polygon.com/what-to-buy/549923/dan-da-dan-season-one-bluray-preorder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
