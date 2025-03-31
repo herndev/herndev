@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo has moved beyond specs](https://www.theverge.com/games/638542/nintendo-switch-2-specs-details-relevance)
- - [Eric and Donald Trump Jr.&#39;s American Data Centers plans to merge with Hut 8&#39;s American Bitcoin and take a 20% stake, aiming to create the world&#39;s largest miner &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p17#a250331p17)
- - [TSMC says its Kaohsiung plant in Taiwan is set to begin 2nm wafer volume production in H2 2025, reaffirming its commitment to Taiwan during its US expansion &lpar;Reuters&rpar;](http://www.techmeme.com/250331/p16#a250331p16)<!-- TECH:END -->
+ - [Apple&#39;s satellite plans could be stalled by Elon Musk&#39;s Starlink](https://appleinsider.com/articles/25/03/31/apples-satellite-plans-could-be-stalled-by-elon-musks-starlink?utm_medium=rss)
+ - [Elon Musk and Taylor Swift can now hide details of their private jets](https://www.theverge.com/news/639468/faa-private-jet-trackers-aircraft-registration-information)
+ - [7 Best Electric Toothbrushes, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
