@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
- - ⏩ [The ones will understand](http://9gag.com/gag/a340Dy1)
- - 👉 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)<!-- MEMES:END -->
+ - 💣 [6.1 million Americans are behind on their mortgage, the highest in 20+ years. Brace for impact.](http://9gag.com/gag/azxKyxK)
+ - ⏩ [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
+ - 👉 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)<!-- MEMES:END -->
 
 ---
 
