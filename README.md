@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even in dogs there are levels](http://9gag.com/gag/aVvKrQK)
- - ⏩ [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
+ - 💣 [Damn!!! Ended his career with to that crossover. Old 9gag memes](http://9gag.com/gag/ae9ZqYB)
+ - ⏩ [Magic and Crime](http://9gag.com/gag/aByVN5Z)
  - 👉 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)<!-- MEMES:END -->
 
 ---
