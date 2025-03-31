@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A true Chad](http://9gag.com/gag/aLn4Ojv)
- - ⏩ [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
- - 👉 [Right answers only](http://9gag.com/gag/awy1G4r)<!-- MEMES:END -->
+ - 💣 [Satisfaction compilation](http://9gag.com/gag/aW4nydq)
+ - ⏩ [Better snow white](http://9gag.com/gag/avy6BvZ)
+ - 👉 [Hand egg](http://9gag.com/gag/aRBMWZB)<!-- MEMES:END -->
 
 ---
 
