@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stolen!](http://9gag.com/gag/a870NKe)
- - ⏩ [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)
- - 👉 [The ones will understand](http://9gag.com/gag/a340Dy1)<!-- MEMES:END -->
+ - 💣 [These were the times](http://9gag.com/gag/aD28Lwd)
+ - ⏩ [That Kemper interview](http://9gag.com/gag/a9y50jm)
+ - 👉 [2 types of 30+ men](http://9gag.com/gag/ae9Zzzq)<!-- MEMES:END -->
 
 ---
 
