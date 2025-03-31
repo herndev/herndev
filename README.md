@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DOOM: The Dark Ages – Going Hands-on with Story, Sandboxes, Mechs, and Dragons](https://news.xbox.com/en-us/2025/03/31/doom-the-dark-ages-preview-story-sandbox-mech-dragon/)
- - [Doom: The Dark Ages could the weird sequel the series needs](https://www.polygon.com/impressions/548875/doom-the-dark-ages-preview-impressions)
- - [The 16 best board game deals of Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/546315/best-board-game-deals-amazon-big-spring-sale)<!-- GAME:END -->
+ - [The best power bank deals from Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/547103/amazon-big-spring-power-bank-deal)
+ - [Let&#39;s Compare And Contrast Monster Hunter Wilds&#39; Heavy And Light Bowguns](https://kotaku.com/monster-hunter-wild-heavy-light-bowgun-differences-best-1851773364)
+ - [The best Lego deals of Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/548021/best-lego-star-wars-animal-crossing-deals-amazon-big-spring)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
