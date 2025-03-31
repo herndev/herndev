@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Motion Cues feature keeps getting better ahead of its release &lpar;Update&rpar;](https://www.androidauthority.com/google-motion-cues-customization-apk-teardown-3534283/)
  - [An analysis finds 170+ violent vigilante attacks since 2023 by US &quot;pedophile hunters&quot;, whose online content has been amplified by websites like Kick and Locals &lpar;New York Times&rpar;](http://www.techmeme.com/250331/p7#a250331p7)
- - [Chinese startup Manus, whose AI agent service is still in the beta testing phase, announces a $39/month Manus Starter plan and an upgraded $199/month Pro tier &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p6#a250331p6)
- - [Apple’s AI Doctor could leave Wear OS in the dust &lpar;if it actually works&rpar;](https://www.androidauthority.com/apple-ai-doctor-watch-iphone-3539858/)<!-- TECH:END -->
+ - [Chinese startup Manus, whose AI agent service is still in the beta testing phase, announces a $39/month Manus Starter plan and an upgraded $199/month Pro tier &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p6#a250331p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
