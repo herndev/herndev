@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use InZoi cheats and other ‘cheats’ so far](https://www.polygon.com/inzoi-guides/548694/cheat-codes-money-list-all)
- - [Make Sure To Snag These Legendary Weapons In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-new-weapons-shop-legendary-1851773367)
- - [GTA 6’s next trailer is a ways off because Rockstar wants you hungry, Take-Two CEO says](https://www.polygon.com/gta-grand-theft-auto/549529/grand-theft-auto-6-gta-second-trailer-rockstar-take-two-strauss-zelnick)<!-- GAME:END -->
+ - [Dwarf Fortress dwarves are &#39;more human than human,&#39; creator says: &#39;They&#39;re allowed to embody bigger emotions. They&#39;re allowed to make bigger mistakes. They&#39;re allowed to do anything&#39;](https://www.pcgamer.com/games/sim/dwarf-fortress-dwarves-are-more-human-than-human-creator-says-theyre-allowed-to-embody-bigger-emotions-theyre-allowed-to-make-bigger-mistakes-theyre-allowed-to-do-anything/)
+ - [Nintendo&amp;#8217;s new doomscrolling alternative app has one great feature](https://www.polygon.com/impressions/549801/nintendo-today-app)
+ - [RuneScape&#39;s open world survival game adds a new twist to chopping down trees and smashing up rocks: magic](https://www.pcgamer.com/games/survival-crafting/runescapes-open-world-survival-game-adds-a-new-twist-to-chopping-down-trees-and-smashing-up-rocks-magic/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
