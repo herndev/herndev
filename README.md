@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the race between China and the US to build truly useful humanoid robots, as China lists &quot;embodied&quot; AI as a priority for a $138B state investment fund &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250331/p5#a250331p5)
- - [Japan earmarks up to ~$5.4B in additional aid for chipmaker Rapidus, which aims to begin mass production of 2nm chips in 2027, a highly ambitious target &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p4#a250331p4)
- - [Report: 79% of 475 AI experts believe current public perceptions of AI do not match R&amp;D realities, while 76% said scaling current approaches will not yield AGI &lpar;Isaac Schultz/Gizmodo&rpar;](http://www.techmeme.com/250331/p3#a250331p3)<!-- TECH:END -->
+ - [An analysis finds 170+ violent vigilante attacks since 2023 by US &quot;pedophile hunters&quot;, whose online content has been amplified by websites like Kick and Locals &lpar;New York Times&rpar;](http://www.techmeme.com/250331/p7#a250331p7)
+ - [Chinese startup Manus, whose AI agent service is still in the beta testing phase, announces a $39/month Manus Starter plan and an upgraded $199/month Pro tier &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p6#a250331p6)
+ - [Apple’s AI Doctor could leave Wear OS in the dust &lpar;if it actually works&rpar;](https://www.androidauthority.com/apple-ai-doctor-watch-iphone-3539858/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
