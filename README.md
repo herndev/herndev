@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, March 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-31-2025/)
- - [Nordhold is out now, and one of the year&#39;s most interesting tower defense games](https://www.pcgamer.com/games/strategy/nordhold-is-out-now-and-one-of-the-years-most-interesting-tower-defense-games/)
- - [Cult classic Rain World has dropped a new expansion about its most mysterious slugcat yet](https://www.pcgamer.com/games/action/cult-classic-rain-world-has-dropped-a-new-expansion-about-its-most-mysterious-slugcat-yet/)<!-- GAME:END -->
+ - [Windows 11 now has a publicly available roadmap so you can get to see what forthcoming horrors or awesome features await you](https://www.pcgamer.com/software/windows/windows-11-now-has-a-publicly-available-roadmap-so-you-can-get-to-see-what-forthcoming-horrors-or-awesome-features-await-you/)
+ - [Videogame collectibles don&#39;t have to suck, argues seasoned dev: &#39;I&#39;m lookin&#39; at you, Korok Seeds&#39;](https://www.pcgamer.com/games/adventure/videogame-collectibles-dont-have-to-suck-argues-seasoned-dev-im-lookin-at-you-korok-seeds/)
+ - [Today&#39;s Wordle answer for Monday, March 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-31-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
