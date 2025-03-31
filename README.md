@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Tab S10 FE and FE Plus may launch very soon, according to retailer leak](https://www.androidauthority.com/galaxy-tab-s10-fe-leaked-date-3539992/)
- - [Alexa+ will start rolling out to users today; sources: some features demoed in February are slated to arrive in two months, while others will take longer &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250331/p29#a250331p29)
- - [Plex’s big mobile app revamp is finally landing, just in time for the price hike](https://www.androidauthority.com/plex-mobile-app-rollout-3540014/)<!-- TECH:END -->
+ - [Apple releases visionOS 2.4 with Apple Intelligence, a Spatial Gallery app that features Apple-curated media, with &quot;new content released regularly&quot;, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250331/p32#a250331p32)
+ - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
+ - [The first Pixel 10 Pro Fold leak is here, and it’s not what we were hoping for](https://www.androidauthority.com/pixel-10-pro-fold-renders-leaked-3540057/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
