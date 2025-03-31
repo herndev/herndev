@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
- - ⏩ [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 👉 [Soccer](http://9gag.com/gag/aPAo0VG)<!-- MEMES:END -->
+ - ⏩ [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)
+ - 👉 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)<!-- MEMES:END -->
 
 ---
 
