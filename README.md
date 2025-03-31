@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lazarus is so stylish, I don’t need to care about its mystery](https://www.polygon.com/anime/548734/lazarus-anime-review-adult-swim-watanabe)
- - [In the market for a split keyboard? Why not chop a regular one in half and then attach it back together with a nightmare of wires, said no-one ever](https://www.pcgamer.com/hardware/gaming-keyboards/in-the-market-for-a-split-keyboard-why-not-chop-a-regular-one-in-half-and-then-attach-it-back-together-with-a-nightmare-of-wires-said-no-one-ever/)
- - [Linus Torvalds admits &#39;pure incompetence&#39; for missing the new Linux 6.14 kernel deadline but all is forgiven as the update is great news for non-Windows gaming](https://www.pcgamer.com/software/linux/linus-torvalds-admits-pure-incompetence-for-missing-the-new-linux-6-14-kernel-deadline-but-all-is-forgiven-as-the-update-is-great-news-for-non-windows-gaming/)<!-- GAME:END -->
+ - [DOOM: The Dark Ages – Going Hands-on with Story, Sandboxes, Mechs, and Dragons](https://news.xbox.com/en-us/2025/03/31/doom-the-dark-ages-preview-story-sandbox-mech-dragon/)
+ - [Doom: The Dark Ages could the weird sequel the series needs](https://www.polygon.com/impressions/548875/doom-the-dark-ages-preview-impressions)
+ - [The 16 best board game deals of Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/546315/best-board-game-deals-amazon-big-spring-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
