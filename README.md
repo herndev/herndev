@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best power bank deals from Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/547103/amazon-big-spring-power-bank-deal)
- - [Let&#39;s Compare And Contrast Monster Hunter Wilds&#39; Heavy And Light Bowguns](https://kotaku.com/monster-hunter-wild-heavy-light-bowgun-differences-best-1851773364)
- - [The best Lego deals of Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/548021/best-lego-star-wars-animal-crossing-deals-amazon-big-spring)<!-- GAME:END -->
+ - [In Kobold’s newest TTRPG, out today, you create your own cozy game](https://www.polygon.com/news/548388/riverbank-kobold-press-ttrpg-backerkit-launch)
+ - [RuneScape: Dragonwilds is a new survival game set in the world of the old-school MMO](https://www.polygon.com/news/549372/runescape-dragonwilds-survival-game)
+ - [Inzoi players are giving classic Sims townies a big ol&#39; ultra-realistic makeover and I&#39;m floored how good they are](https://www.pcgamer.com/games/life-sim/inzoi-players-are-giving-classic-sims-townies-a-big-ol-ultra-realistic-makeover-and-im-floored-how-good-they-are/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
