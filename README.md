@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What was he thinking?!](http://9gag.com/gag/aAyKL7L)
+ - 💣 [A true Chad](http://9gag.com/gag/aLn4Ojv)
  - ⏩ [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
- - 👉 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)<!-- MEMES:END -->
+ - 👉 [Right answers only](http://9gag.com/gag/awy1G4r)<!-- MEMES:END -->
 
 ---
 
