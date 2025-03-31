@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spray foam](http://9gag.com/gag/a870vLZ)
- - ⏩ [Right answers only](http://9gag.com/gag/awy1G4r)
- - 👉 [Frustration](http://9gag.com/gag/aYQD6Lv)<!-- MEMES:END -->
+ - 💣 [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)
+ - ⏩ [Magic and Crime](http://9gag.com/gag/aByVN5Z)
+ - 👉 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)<!-- MEMES:END -->
 
 ---
 
