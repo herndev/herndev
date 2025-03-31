@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Officials Placed on Leave After Denying DOGE Access to Federal Payroll Systems](https://www.wired.com/story/doge-access-federal-payroll-systems-officials-leave-interior/)
- - [Sources: Sesame, which makes realistic AI voice assistants, is in talks to raise $200M+ co-led by Sequoia Capital and Spark Capital, valuing the company at $1B+ &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250331/p37#a250331p37)
- - [Democratic Senators Call for Privacy Act Reform in Response to DOGE Takeover](https://www.wired.com/story/democratic-senators-privacy-act-reform-doge-takeover/)<!-- TECH:END -->
+ - [AirPods Pro 2 and AirPods 4 receive new firmware update](https://appleinsider.com/articles/25/03/31/airpods-pro-2-and-airpods-4-receive-new-firmware-update?utm_medium=rss)
+ - [Robot vacuums are getting upgraded support for Apple Home](https://www.theverge.com/news/640059/apple-ios-update-matter-robot-vacuum-roborock-irobot-ecovacs)
+ - [Tampa-based ReliaQuest, which provides AI-powered cybersecurity tools, raised $500M+ in a funding round led by EQT, KKR, and FTV Capital, valuing it at $3.4B &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p38#a250331p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
