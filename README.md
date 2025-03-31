@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, March 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-31-2025/)
  - [Nordhold is out now, and one of the year&#39;s most interesting tower defense games](https://www.pcgamer.com/games/strategy/nordhold-is-out-now-and-one-of-the-years-most-interesting-tower-defense-games/)
- - [Cult classic Rain World has dropped a new expansion about its most mysterious slugcat yet](https://www.pcgamer.com/games/action/cult-classic-rain-world-has-dropped-a-new-expansion-about-its-most-mysterious-slugcat-yet/)
- - [Five new Steam games you probably missed &lpar;March 31, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-31-2025/)<!-- GAME:END -->
+ - [Cult classic Rain World has dropped a new expansion about its most mysterious slugcat yet](https://www.pcgamer.com/games/action/cult-classic-rain-world-has-dropped-a-new-expansion-about-its-most-mysterious-slugcat-yet/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
