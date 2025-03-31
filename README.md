@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft announces changes to the Blue Screen of Death as rumours of an ominous Black Screen of Death stalk the land](https://www.pcgamer.com/software/operating-systems/microsoft-announces-changes-to-the-blue-screen-of-death-as-rumours-of-an-ominous-black-screen-of-death-stalk-the-land/)
- - [CEO of GTA 6 publisher Take-Two isn&#39;t worried about AI-generated slop games: &#39;It’s built on data that already exists, it’s backward-looking—big hits are forward-looking&#39;](https://www.pcgamer.com/games/grand-theft-auto/ceo-of-gta-6-publisher-take-two-isnt-worried-about-ai-generated-slop-games-its-built-on-data-that-already-exists-its-backward-looking-big-hits-are-forward-looking/)
- - [Turns out Inzoi&#39;s inhabitants wear towels in the shower because pixelating them Sims-style was too saucy: &#39;We actually tested this ourselves during development, so you can trust us&#39;](https://www.pcgamer.com/games/life-sim/turns-out-inzois-inhabitants-wear-towels-in-the-shower-because-pixelating-them-sims-style-was-too-saucy-we-actually-tested-this-ourselves-during-development-so-you-can-trust-us/)<!-- GAME:END -->
+ - [Lazarus is so stylish, I don’t need to care about its mystery](https://www.polygon.com/anime/548734/lazarus-anime-review-adult-swim-watanabe)
+ - [In the market for a split keyboard? Why not chop a regular one in half and then attach it back together with a nightmare of wires, said no-one ever](https://www.pcgamer.com/hardware/gaming-keyboards/in-the-market-for-a-split-keyboard-why-not-chop-a-regular-one-in-half-and-then-attach-it-back-together-with-a-nightmare-of-wires-said-no-one-ever/)
+ - [Linus Torvalds admits &#39;pure incompetence&#39; for missing the new Linux 6.14 kernel deadline but all is forgiven as the update is great news for non-Windows gaming](https://www.pcgamer.com/software/linux/linus-torvalds-admits-pure-incompetence-for-missing-the-new-linux-6-14-kernel-deadline-but-all-is-forgiven-as-the-update-is-great-news-for-non-windows-gaming/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
