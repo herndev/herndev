@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Flip 7 FE looks just like last year’s flagship](https://www.theverge.com/news/639429/samsung-galaxy-z-flip-7-fe-leaks-renders-design-cover-screen)
- - [PumpSwap, a new DEX launched by Pump.fun&#39;s creators, processed $2.43B in cumulative trading volume after just 10 days, shaking up the Solana DEX ecosystem &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250331/p13#a250331p13)
- - [Startup Founder Claims Elon Musk Is Stealing the Name ‘Grok’](https://www.wired.com/story/grok-trademark-dispute-name/)<!-- TECH:END -->
+ - [Nintendo has moved beyond specs](https://www.theverge.com/games/638542/nintendo-switch-2-specs-details-relevance)
+ - [Eric and Donald Trump Jr.&#39;s American Data Centers plans to merge with Hut 8&#39;s American Bitcoin and take a 20% stake, aiming to create the world&#39;s largest miner &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p17#a250331p17)
+ - [TSMC says its Kaohsiung plant in Taiwan is set to begin 2nm wafer volume production in H2 2025, reaffirming its commitment to Taiwan during its US expansion &lpar;Reuters&rpar;](http://www.techmeme.com/250331/p16#a250331p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
