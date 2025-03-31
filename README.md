@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Blackstone is evaluating a small minority investment in TikTok&#39;s US operations, joining the front-running bid by ByteDance&#39;s non-Chinese shareholders &lpar;Reuters&rpar;](http://www.techmeme.com/250328/p29#a250328p29)
- - [7 Best Bike Locks &lpar;2025&rpar;: Litelok, Abus, Hiplok, KryptoLok Compared](https://www.wired.com/gallery/best-bike-lock/)
- - [Tired of slow charging? Check out these Anker and UGREEN deals](https://www.androidauthority.com/anker-ugreen-charger-deals-3539713/)<!-- TECH:END -->
+ - [Many LinkedIn users put part-time job-level effort to maintain their pages; LinkedIn: 85% of FTSE 100 CEOs have a presence on the platform, up from 12% in 2023 &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/250330/p21#a250330p21)
+ - [Keychron Q3 HE review: An excellent compact mechanical keyboard](https://appleinsider.com/articles/25/03/30/keychron-q3-he-review-an-excellent-compact-mechanical-keyboard?utm_medium=rss)
+ - [Apple&#39;s current enterprise offerings are built for single machines and have complex virtualization rules, saddling high-end users with inefficient remote setups &lpar;Ernie Smith/Tedium&rpar;](http://www.techmeme.com/250330/p20#a250330p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
