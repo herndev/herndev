@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle-based Temporal, an open-source microservices orchestration service, raised a $146M Series C led by Tiger Global at a $1.72B post-money valuation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250331/p25#a250331p25)
- - [Pixel Screenshots is getting a widget, and we have a first look at it &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-screenshots-widget-3539965/)
- - [Android 16 is getting a little more secure by stealing this iOS feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-inactivity-reboot-android-16-3539949/)<!-- TECH:END -->
+ - [Alexa Plus just launched in early access, but it&amp;#8217;s missing some features](https://www.theverge.com/news/639697/amazon-alexa-plus-launch-early-access-missing-features)
+ - [Amazon Spring Sale deals on Verge staff favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)
+ - [Max’s rebranded logo and colors look very HBO](https://www.theverge.com/news/639682/hbo-max-logo-redesign-warner-bros-discovery-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
