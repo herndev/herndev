@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memecoins attempting to profit from a man&#39;s suicide highlight Pump.fun&#39;s extreme lack of boundaries; one of the memecoins soared past $2M in total value &lpar;Kevin T. Dugan/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p10#a250331p10)
- - [France&#39;s antitrust regulator fines Apple €150M after a lengthy investigation into how iOS asks to collect user data under ATT and the impact on advertisers &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250331/p9#a250331p9)
- - [Chinese AI startup Zhipu, which secured three rounds of government-backed funding in March 2025, launches a free AI agent, intensifying the domestic AI race &lpar;Reuters&rpar;](http://www.techmeme.com/250331/p8#a250331p8)<!-- TECH:END -->
+ - [Galaxy Z Flip 7 FE looks just like last year’s flagship](https://www.theverge.com/news/639429/samsung-galaxy-z-flip-7-fe-leaks-renders-design-cover-screen)
+ - [PumpSwap, a new DEX launched by Pump.fun&#39;s creators, processed $2.43B in cumulative trading volume after just 10 days, shaking up the Solana DEX ecosystem &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250331/p13#a250331p13)
+ - [Startup Founder Claims Elon Musk Is Stealing the Name ‘Grok’](https://www.wired.com/story/grok-trademark-dispute-name/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
