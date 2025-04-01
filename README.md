@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Mortal Kombat locations in Fortnite](https://www.polygon.com/fortnite-guide/550271/mortal-kombat-map-locations-all-pit-dead-pool-living-forest)
- - [How to change clothes in Schedule 1](https://www.pcgamer.com/games/sim/schedule-1-change-clothes-get/)
- - [Marvel Rivals Season 2 release date, potential characters, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-2-release-date/)<!-- GAME:END -->
+ - [Upcoming Star Wars Game Leaks, Looks A Lot Like XCOM](https://kotaku.com/star-wars-xcom-leak-bruno-ea-bit-reactor-tactics-images-1851774016)
+ - [Schedule 1 just got its 5th patch, teaching its blackjack dealers to no longer let you look at their cards and promising a full-on &#39;1st content update&#39; this weekend](https://www.pcgamer.com/games/sim/schedule-1-just-got-its-5th-patch-teaching-its-blackjack-dealers-to-no-longer-let-you-look-at-their-cards-and-promising-a-full-on-1st-content-update-this-weekend/)
+ - [HP Omen is now making upgrade options, like fans and PSUs, and it makes the gaming PC builder in me quite happy](https://www.pcgamer.com/hardware/cooling/hp-omen-is-now-making-upgrade-options-like-fans-and-psus-and-it-makes-the-gaming-pc-builder-in-me-quite-happy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
