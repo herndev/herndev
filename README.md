@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Finally, an e-bike that charges off USB-C](https://www.theverge.com/news/639681/usb-c-charging-e-bike-ampler-nova-specs-price)
- - [OpenAI&#39;s new image generator, powered by GPT-4o, is now available to all users; Altman last week mentioned a limit of three images per day for free-tier users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250401/p7#a250401p7)
- - [Buyers beware: This OnePlus 13 official case might be a permanent accessory](https://www.androidauthority.com/oneplus-13s-wood-grain-case-issue-3540201/)<!-- TECH:END -->
+ - [ChatGPT’s viral Studio Ghibli-style image generator is now available to all](https://www.androidauthority.com/chatgpt-studio-ghibli-gpt-4o-image-generation-availability-3540233/)
+ - [With Switch 2, Nintendo must do what it has rarely done before: follow one hit console with another; Nintendo has sold 150M+ Switch units since launch in 2017 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250401/p11#a250401p11)
+ - [The US needs a new cybersecurity strategy, but offensive cyber operations are unlikely to deter Chinese state-sponsored hacking and come with significant risk &lpar;Marcus Hutchins/MalwareTech&rpar;](http://www.techmeme.com/250401/p10#a250401p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
