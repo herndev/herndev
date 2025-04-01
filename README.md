@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every movie and show coming to Netflix in April](https://www.polygon.com/entertainment/549164/new-on-netflix-april-2025-movies-tv)
- - [&#39;We were at war with our customers&#39;: Unity&#39;s new CEO talks about arriving to the &#39;insane&#39; post-runtime fee dumpster fire](https://www.pcgamer.com/gaming-industry/game-development/we-were-at-war-with-our-customers-unitys-new-ceo-talks-about-arriving-to-the-insane-post-runtime-fee-dumpster-fire/)
- - [What is the Fortnite Crew Pack skin for April 2025?](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)<!-- GAME:END -->
+ - [How to make Almond Pound Cake in Hello Kitty Island Adventure](https://www.pcgamer.com/games/life-sim/hello-kitty-island-adventure-almond-pound-cake-recipe/)
+ - [Assassin’s Creed Shadows forgets to make learning history fun](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-forgets-to-make-learning-history-fun/)
+ - [Every movie and show coming to Netflix in April](https://www.polygon.com/entertainment/549164/new-on-netflix-april-2025-movies-tv)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
