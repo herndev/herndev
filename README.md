@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go April Fools’ Day 2025 event and April 1 Spotlight Hour guide](https://www.polygon.com/pokemon-go-guide/549703/april-fools-2025-event-poke-ball-spawns-spotlight-hour)
  - [Sensing your Spider-Verse 3 hunger, Sony sets release date, drops teaser images](https://www.polygon.com/animation-cartoons/550215/spider-man-beyond-the-spider-verse-first-look-images)
- - [That is no April Fool’s joke — Rick and Morty really did announce its season premiere date](https://www.polygon.com/tv/550126/rick-morty-season-8-release-date-april-fools-adult-swim-play)
- - [Spider-Man: Brand New Day will put Tom Holland back in the Spidey suit between Avengers movies](https://www.polygon.com/movies/24203068/spider-man-brand-new-day-tom-holland-release-date)<!-- GAME:END -->
+ - [That is no April Fool’s joke — Rick and Morty really did announce its season premiere date](https://www.polygon.com/tv/550126/rick-morty-season-8-release-date-april-fools-adult-swim-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
