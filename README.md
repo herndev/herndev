@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The sacred has been profaned and resanctified](http://9gag.com/gag/aGyBmzz)
- - ⏩ [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
- - 👉 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)<!-- MEMES:END -->
+ - 💣 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
+ - ⏩ [Best friends](http://9gag.com/gag/aPAobmV)
+ - 👉 [Based](http://9gag.com/gag/aByVebz)<!-- MEMES:END -->
 
 ---
 
