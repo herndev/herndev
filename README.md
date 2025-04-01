@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [POV: You enter a random bakery in rural Germany](http://9gag.com/gag/ae9ZBzp)
- - ⏩ [In a parallel universe](http://9gag.com/gag/aryXLqy)
- - 👉 [Rock on girls](http://9gag.com/gag/aW4nXR2)<!-- MEMES:END -->
+ - 💣 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
+ - ⏩ [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
+ - 👉 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)<!-- MEMES:END -->
 
 ---
 
