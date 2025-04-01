@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox players are going to start getting paid to watch ads](https://www.theverge.com/news/640707/roblox-google-rewarded-video-immersive-ads-paying-players)
- - [YouTube suspends two major fake movie trailer channels from its partner program, after a report on how the AI-heavy trailers generated millions in ad revenue &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/250401/p38#a250401p38)
- - [T-Mobile closes Lumos deal after dropping DEI](https://www.theverge.com/news/641068/t-mobile-closes-lumos-deal-after-dropping-dei)<!-- TECH:END -->
+ - [Trump advisor reportedly used personal Gmail for &amp;#8216;sensitive&amp;#8217; military discussions](https://www.theverge.com/news/641144/michael-waltz-gmail-national-security-signal)
+ - [Leaked renders of the Google Pixel 10 Pro Fold show a design similar to its predecessor&#39;s; sources: it will feature a TSMC-made Tensor G5 chip and 16GB of RAM &lpar;Alexander Maxham/Android Headlines&rpar;](http://www.techmeme.com/250401/p40#a250401p40)
+ - [Here&amp;#8217;s more of what you&amp;#8217;ll see through Meta&amp;#8217;s $1,000 smart glasses](https://www.theverge.com/news/641153/meta-hypernova-ray-ban-smart-glasses-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
