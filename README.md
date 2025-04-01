@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)
- - ⏩ [More pocket money](http://9gag.com/gag/an720vE)
- - 👉 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)<!-- MEMES:END -->
+ - 💣 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
+ - ⏩ [These were the times](http://9gag.com/gag/aD28Lwd)
+ - 👉 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)<!-- MEMES:END -->
 
 ---
 
