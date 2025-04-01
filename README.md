@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta VP of AI Research Joelle Pineau says she plans to leave in May 2025 after nearly eight years; she has led the FAIR group since early 2023 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250401/p26#a250401p26)
- - [The FAA hiding private jet details might not stop celebrity jet trackers](https://www.theverge.com/news/640706/faa-private-jet-info-process-wont-stop-online-jet-trackers)
- - [The DOGE Axe Comes for Libraries and Museums](https://www.wired.com/story/institute-museum-library-services-layoffs/)<!-- TECH:END -->
+ - [Apple has just rereleased watchOS 11.4 to the public](https://appleinsider.com/articles/25/04/01/apple-has-just-rereleased-watchos-114-to-the-public?utm_medium=rss)
+ - [Hundreds of scientists accuse Donald Trump of censorship](https://www.theverge.com/news/640664/science-censorship-trump-letter-climate-vaccine-national-academies)
+ - [A US judge rules Arkansas&#39; Social Media Safety Act, which requires minors have parental permission before creating social media accounts, infringes on 1A rights &lpar;Ufonobong Umanah/Bloomberg Law&rpar;](http://www.techmeme.com/250401/p28#a250401p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
