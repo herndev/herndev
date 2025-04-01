@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Inzoi hotfix stops your zois from dying too young, as long as nothing awful happens to them](https://www.pcgamer.com/games/life-sim/inzoi-hotfix-stops-your-zois-from-dying-too-young-as-long-as-nothing-awful-happens-to-them/)
- - [Not just crumbs in the CPU socket: Over 100 AMD 9800X3D chips are now reported to have gone pop and the most by far have died in ASRock motherboards](https://www.pcgamer.com/hardware/processors/not-just-crumbs-in-the-cpu-socket-over-100-amd-9800x3d-chips-are-now-reported-to-have-gone-pop-and-the-most-by-far-have-died-in-asrock-motherboards/)
- - [How to get all secret armor sets in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/550373/secret-armor-sets-hidden-list)<!-- GAME:END -->
+ - [Mecha Break competitor Steel Hunters releases in early access on Steam this week, offering a slower, more tactical free-to-play mech game](https://www.pcgamer.com/games/sim/mecha-break-competitor-steel-hunters-releases-in-early-access-on-steam-this-week-offering-a-slower-more-tactical-free-to-play-mech-game/)
+ - [How the Pokémon Go Pass April works](https://www.polygon.com/pokemon-go-guide/549903/go-pass-april-rewards-changes)
+ - [The First Berserker: Khazan&#39;s Runtime Doesn&#39;t Disappoint](https://kotaku.com/the-first-berserker-khazan-easy-mode-how-long-to-beat-1851773791)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
