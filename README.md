@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Upcoming Star Wars Game Leaks, Looks A Lot Like XCOM](https://kotaku.com/star-wars-xcom-leak-bruno-ea-bit-reactor-tactics-images-1851774016)
- - [Schedule 1 just got its 5th patch, teaching its blackjack dealers to no longer let you look at their cards and promising a full-on &#39;1st content update&#39; this weekend](https://www.pcgamer.com/games/sim/schedule-1-just-got-its-5th-patch-teaching-its-blackjack-dealers-to-no-longer-let-you-look-at-their-cards-and-promising-a-full-on-1st-content-update-this-weekend/)
- - [HP Omen is now making upgrade options, like fans and PSUs, and it makes the gaming PC builder in me quite happy](https://www.pcgamer.com/hardware/cooling/hp-omen-is-now-making-upgrade-options-like-fans-and-psus-and-it-makes-the-gaming-pc-builder-in-me-quite-happy/)<!-- GAME:END -->
+ - [Inzoi hotfix stops your zois from dying too young, as long as nothing awful happens to them](https://www.pcgamer.com/games/life-sim/inzoi-hotfix-stops-your-zois-from-dying-too-young-as-long-as-nothing-awful-happens-to-them/)
+ - [Not just crumbs in the CPU socket: Over 100 AMD 9800X3D chips are now reported to have gone pop and the most by far have died in ASRock motherboards](https://www.pcgamer.com/hardware/processors/not-just-crumbs-in-the-cpu-socket-over-100-amd-9800x3d-chips-are-now-reported-to-have-gone-pop-and-the-most-by-far-have-died-in-asrock-motherboards/)
+ - [How to get all secret armor sets in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/550373/secret-armor-sets-hidden-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
