@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump signs an EO to establish an office within the Commerce Department to facilitate investments above $1B in the US and administer funds from the CHIPS Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p40#a250331p40)
- - [The 101 best last-minute deals from Amazon’s Big Spring Sale](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [Google Maps is upgrading trip planning with a handy ETA](https://www.androidauthority.com/google-maps-eta-3540128/)<!-- TECH:END -->
+ - [Microsoft expands Copilot+ PC features like Live Captions and Cocreator, previously exclusive to models with Snapdragon chips, to models with AMD or Intel chips &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/250331/p43#a250331p43)
+ - [At the Intel Vision conference, CEO Lip-Bu Tan says Intel plans to spin off non-core assets, create new products including custom semiconductors, and more &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250331/p42#a250331p42)
+ - [OpenAI just raised another $40 billion round led by SoftBank](https://www.theverge.com/news/640259/openai-40-billion-softbank-investment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
