@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
- - ⏩ [Best friends](http://9gag.com/gag/aPAobmV)
- - 👉 [Based](http://9gag.com/gag/aByVebz)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/aByVebz)
+ - ⏩ [Quiet quitting](http://9gag.com/gag/aRBMbj7)
+ - 👉 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)<!-- MEMES:END -->
 
 ---
 
