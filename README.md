@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Schedule 1 is great because it knows crafting sucks unless you turn everything into a fun minigame](https://www.pcgamer.com/games/sim/schedule-1-is-great-because-it-knows-crafting-sucks-unless-you-turn-everything-into-a-fun-minigame/)
  - [&#39;You must have played this before!&#39;: Balatro&#39;s creator impressed bystanders with his Balatro skills at GDC, and nobody knew who he was](https://www.pcgamer.com/games/card-games/you-must-have-played-this-before-balatros-creator-impressed-bystanders-with-his-balatro-skills-at-gdc-and-nobody-knew-who-he-was/)
- - [Best Schedule 1 mixing station recipes to grow your criminal empire](https://www.pcgamer.com/games/sim/best-schedule-1-mixing-recipes-guide/)
- - [Rosewater review](https://www.pcgamer.com/games/adventure/rosewater-review/)<!-- GAME:END -->
+ - [Best Schedule 1 mixing station recipes to grow your criminal empire](https://www.pcgamer.com/games/sim/best-schedule-1-mixing-recipes-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
