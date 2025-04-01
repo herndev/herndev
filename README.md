@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Today is the day.](http://9gag.com/gag/apR6ZRn)
- - ⏩ [Chat burn](http://9gag.com/gag/aByV5MO)
- - 👉 [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)<!-- MEMES:END -->
+ - ⏩ [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)
+ - 👉 [2 types of 30+ men](http://9gag.com/gag/ae9Zzzq)<!-- MEMES:END -->
 
 ---
 
