@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 95 best last-minute deals from Amazon’s Big Spring Sale](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [iPhone XS &amp; iPhone XR may not be supported on iOS 19](https://appleinsider.com/articles/25/04/01/iphone-xs-iphone-xr-may-not-be-supported-on-ios-19?utm_medium=rss)
- - [Coinbase&#39;s stock fell 31% in Q1 2025, its worst quarterly performance since FTX collapsed in 2022; nearly every major crypto-linked stock plunged alongside it &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/250331/p46#a250331p46)<!-- TECH:END -->
+ - [Nuphy Kick75 Keyboard review: Hybrid profile keyboard in progress](https://appleinsider.com/articles/25/04/01/nuphy-kick75-keyboard-review-hybrid-profile-keyboard-in-progress?utm_medium=rss)
+ - [Deal: This Samsung monitor is looking too good for just $99.99](https://www.androidauthority.com/deal-samsung-monitor-99-99-3540161/)
+ - [Sources: CaaStle, a clothing inventory monetization platform that had raised $530M+, is almost broke and is accusing its founder of financial misconduct &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250331/p48#a250331p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
