@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
- - ⏩ [Even in dogs there are levels](http://9gag.com/gag/aVvKrQK)
- - 👉 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)<!-- MEMES:END -->
+ - 💣 [POV: You enter a random bakery in rural Germany](http://9gag.com/gag/ae9ZBzp)
+ - ⏩ [In a parallel universe](http://9gag.com/gag/aryXLqy)
+ - 👉 [Rock on girls](http://9gag.com/gag/aW4nXR2)<!-- MEMES:END -->
 
 ---
 
