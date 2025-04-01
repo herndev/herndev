@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [April Fools&amp;#8217; 2025: Dbrand’s new skins let you &amp;#8216;touch grass&amp;#8217; without the hassle of going outside](https://www.theverge.com/news/638284/dbrand-touch-grass-skin-tablet-smartphone-handheld-console)
- - [2025 Mac Studio review: One clear purchase choice for most buyers](https://appleinsider.com/articles/25/04/01/2025-mac-studio-review-one-clear-purchase-choice-for-most-buyers?utm_medium=rss)
- - [Substack says it&amp;#8217;ll legally defend writers &amp;#8216;targeted by the government&amp;#8217;](https://www.theverge.com/news/640495/substack-legally-defend-writers-targeted-by-government)<!-- TECH:END -->
+ - [Computing would be totally different had Apple not been formed 49 years ago, today](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
+ - [Google Docs is updating its tool for writer’s block with support for more languages](https://www.androidauthority.com/google-docs-help-me-create-languages-3540297/)
+ - [The Sonos Arc is down to a new all-time low price](https://www.theverge.com/tech/640560/sonos-arc-second-gen-arlo-video-doorbell-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
