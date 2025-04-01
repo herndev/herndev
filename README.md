@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buy a budget Samsung Galaxy A36 or A26 and save 50% on Buds FE or Fit3](https://www.androidauthority.com/samsung-galaxy-a36-a26-accessory-deals-3540460/)
- - [OWC Thunderbolt docks for Mac have dropped to record low prices, from $149.99](https://appleinsider.com/articles/25/04/01/owc-thunderbolt-docks-for-mac-have-dropped-to-record-low-prices-from-14999?utm_medium=rss)
- - [Sources: WH national security adviser Michael Waltz and other National Security Council members have conducted government affairs over personal Gmail accounts &lpar;John Hudson/Washington Post&rpar;](http://www.techmeme.com/250401/p35#a250401p35)<!-- TECH:END -->
+ - [Roblox players are going to start getting paid to watch ads](https://www.theverge.com/news/640707/roblox-google-rewarded-video-immersive-ads-paying-players)
+ - [YouTube suspends two major fake movie trailer channels from its partner program, after a report on how the AI-heavy trailers generated millions in ad revenue &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/250401/p38#a250401p38)
+ - [T-Mobile closes Lumos deal after dropping DEI](https://www.theverge.com/news/641068/t-mobile-closes-lumos-deal-after-dropping-dei)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
