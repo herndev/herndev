@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 9a will throttle your battery and charging speed whether you like it or not](https://www.androidauthority.com/google-pixel-9a-battery-health-assistance-3540234/)
- - [ChatGPT’s improved image generation is now available for free](https://www.theverge.com/news/640359/chat-gpt-4o-image-generator-ghibli-free-users)
- - [Palworld and PUBG are getting dating sims](https://www.theverge.com/news/640147/palworld-pubg-dating-sims)<!-- TECH:END -->
+ - [The Alan Turing Institute, the UK&#39;s flagship AI agency, plans to focus on defense, environment, and health, after staff criticized its leadership in December &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p15#a250401p15)
+ - [How some UK parents created a &quot;Smartphone Free Childhood&quot; pledge, signed by 124K+ people, after the UK government watered down a bill banning phones in schools &lpar;Megan Specia/New York Times&rpar;](http://www.techmeme.com/250401/p14#a250401p14)
+ - [It’s the moment of truth for Zuckerberg’s Trump bet](https://www.theverge.com/news/640368/mark-zuckerberg-meta-eu-fine-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
