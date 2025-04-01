@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
- - ⏩ [Just a friendly reminder of what we had to deal with before pandemics, war, and existential dread.](http://9gag.com/gag/a870gz6)
+ - 💣 [Just a friendly reminder of what we had to deal with before pandemics, war, and existential dread.](http://9gag.com/gag/a870gz6)
+ - ⏩ [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
  - 👉 [Rock on girls](http://9gag.com/gag/aW4nXR2)<!-- MEMES:END -->
 
 ---
