@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - ⏩ [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
- - 👉 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)<!-- MEMES:END -->
+ - 💣 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
+ - ⏩ [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
+ - 👉 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)<!-- MEMES:END -->
 
 ---
 
