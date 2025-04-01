@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s App Store used to host free VPN apps with ties to China military](https://appleinsider.com/articles/25/04/01/apples-app-store-used-to-host-free-vpn-apps-with-ties-to-china-military?utm_medium=rss)
- - [OnePlus confirms 13T is on the way with very bizarre April Fool’s joke video](https://www.androidauthority.com/oneplus-13t-teaser-3540360/)
- - [Google’s Pixel 10 Pro Fold might be mostly a spec bump](https://www.theverge.com/news/640626/google-pixel-10-pro-fold-leaked-renders-spec-bump)<!-- TECH:END -->
+ - [Meta VP of AI Research Joelle Pineau says she plans to leave in May 2025 after nearly eight years; she has led the FAIR group since early 2023 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250401/p26#a250401p26)
+ - [The FAA hiding private jet details might not stop celebrity jet trackers](https://www.theverge.com/news/640706/faa-private-jet-info-process-wont-stop-online-jet-trackers)
+ - [The DOGE Axe Comes for Libraries and Museums](https://www.wired.com/story/institute-museum-library-services-layoffs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
