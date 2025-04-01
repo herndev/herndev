@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quiet quitting](http://9gag.com/gag/aRBMbj7)
- - ⏩ [2 types of 30+ men](http://9gag.com/gag/ae9Zzzq)
- - 👉 [Today is the day.](http://9gag.com/gag/apR6ZRn)<!-- MEMES:END -->
+ - 💣 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
+ - ⏩ [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
 
 ---
 
