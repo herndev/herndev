@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Computing would be totally different had Apple not been formed 49 years ago, today](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
- - [Google Docs is updating its tool for writer’s block with support for more languages](https://www.androidauthority.com/google-docs-help-me-create-languages-3540297/)
- - [The Sonos Arc is down to a new all-time low price](https://www.theverge.com/tech/640560/sonos-arc-second-gen-arlo-video-doorbell-deal-sale)<!-- TECH:END -->
+ - [Apple&#39;s App Store used to host free VPN apps with ties to China military](https://appleinsider.com/articles/25/04/01/apples-app-store-used-to-host-free-vpn-apps-with-ties-to-china-military?utm_medium=rss)
+ - [OnePlus confirms 13T is on the way with very bizarre April Fool’s joke video](https://www.androidauthority.com/oneplus-13t-teaser-3540360/)
+ - [Google’s Pixel 10 Pro Fold might be mostly a spec bump](https://www.theverge.com/news/640626/google-pixel-10-pro-fold-leaked-renders-spec-bump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
