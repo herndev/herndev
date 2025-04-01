@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the mayor&#39;s house in Schedule 1](https://www.pcgamer.com/games/sim/schedule-1-mayors-house-location/)
- - [After Swen Vincke wagged his finger at a Wizards of the Coast DMCA, Stardew&#39;s Baldur&#39;s Gate 3 mod is back online](https://www.pcgamer.com/games/sim/after-swen-vincke-wagged-his-finger-at-a-wizards-of-the-coast-dmca-stardews-baldurs-gate-3-mod-is-back-online/)
- - [AMD reportedly plots late 2025 launch for desktop version of the nifty little Strix Point APU we like so much in laptops and handhelds](https://www.pcgamer.com/hardware/processors/amd-reportedly-plots-late-2025-launch-for-desktop-version-of-the-nifty-little-strix-point-apu-we-like-so-much-in-laptops-and-handhelds/)<!-- GAME:END -->
+ - [All Mortal Kombat locations in Fortnite](https://www.polygon.com/fortnite-guide/550271/mortal-kombat-map-locations-all-pit-dead-pool-living-forest)
+ - [How to change clothes in Schedule 1](https://www.pcgamer.com/games/sim/schedule-1-change-clothes-get/)
+ - [Marvel Rivals Season 2 release date, potential characters, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-2-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
