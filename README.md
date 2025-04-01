@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get an April Fools’ event flamethrower code in Dress to Impress](https://www.polygon.com/dress-to-impress-guides/548898/dti-april-fools-day-event-flamethrower-code-how-to-get)
- - [One year after surprise launching viral hit Content Warning, Landfall does it again with lightspeed running roguelike Haste](https://www.pcgamer.com/games/action/one-year-after-surprise-launching-viral-hit-content-warning-landfall-does-it-again-with-lightspeed-running-roguelike-haste/)
- - [Overwatch 2’s Amazing Annual April Fools’ Day Mode Is Just As Incredible This Year](https://kotaku.com/overwatch-2-april-fools-day-normalwatch-patch-notes-1851774114)<!-- GAME:END -->
+ - [Get dozens of Delta Green’s Ennie-award winning stories for just $25](https://www.polygon.com/good-deals/550686/delta-green-humble-bundle-sale)
+ - [Inzoi&#39;s game director is &#39;determined to prove that this is not just another early access game&#39; and plans even more hotfixes and communication](https://www.pcgamer.com/games/life-sim/inzois-game-director-is-determined-to-prove-that-this-is-not-just-another-early-access-game-and-plans-even-more-hotfixes-and-communication/)
+ - [A 60 year old videogame just hit its highest player count ever on Steam and I&#39;m pretty sure it&#39;s because people are pirating Schedule 1](https://www.pcgamer.com/games/sim/spacewar-steam-player-count-piracy-pirating-schedule-1/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
