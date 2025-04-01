@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and former Google DeepMind scientists say a tougher vetting process and more bureaucracy at Google&#39;s AI arm have made it harder to publish AI research &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p4#a250401p4)
- - [Sources: SoftBank is seeking a bridge loan of as much as $16.5B to help fund AI investments in the US; the loan may help SoftBank lead a $40B round in OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250401/p3#a250401p3)
- - [Sources: in recent weeks, Meta executives including Mark Zuckerberg have pressed US trade officials to oppose an impending EU fine and cease-and-desist order &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250401/p2#a250401p2)<!-- TECH:END -->
+ - [Finally, an e-bike that charges off USB-C](https://www.theverge.com/news/639681/usb-c-charging-e-bike-ampler-nova-specs-price)
+ - [OpenAI&#39;s new image generator, powered by GPT-4o, is now available to all users; Altman last week mentioned a limit of three images per day for free-tier users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250401/p7#a250401p7)
+ - [Buyers beware: This OnePlus 13 official case might be a permanent accessory](https://www.androidauthority.com/oneplus-13s-wood-grain-case-issue-3540201/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
