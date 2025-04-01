@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a friendly reminder of what we had to deal with before pandemics, war, and existential dread.](http://9gag.com/gag/a870gz6)
- - ⏩ [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
- - 👉 [Rock on girls](http://9gag.com/gag/aW4nXR2)<!-- MEMES:END -->
+ - 💣 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
+ - ⏩ [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 👉 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)<!-- MEMES:END -->
 
 ---
 
