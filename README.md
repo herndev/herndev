@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get dozens of Delta Green’s Ennie-award winning stories for just $25](https://www.polygon.com/good-deals/550686/delta-green-humble-bundle-sale)
- - [Inzoi&#39;s game director is &#39;determined to prove that this is not just another early access game&#39; and plans even more hotfixes and communication](https://www.pcgamer.com/games/life-sim/inzois-game-director-is-determined-to-prove-that-this-is-not-just-another-early-access-game-and-plans-even-more-hotfixes-and-communication/)
- - [A 60 year old videogame just hit its highest player count ever on Steam and I&#39;m pretty sure it&#39;s because people are pirating Schedule 1](https://www.pcgamer.com/games/sim/spacewar-steam-player-count-piracy-pirating-schedule-1/)<!-- GAME:END -->
+ - [All Twisted Tree locations and rewards in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/550152/twisted-tree-locations-where-to-find-all-takahashi-clan)
+ - [The year&amp;#8217;s best Warhammer 40K expansion sold out online. Track it down anyway](https://www.polygon.com/warhammer-40k/550835/kill-team-blood-zeal-review-release-date-price)
+ - [&#39;I&#39;ll believe it when I see it&#39; says Josef Fares about a Split Fiction movie: &#39;There’s a lot of talks, but nothing happens&#39;](https://www.pcgamer.com/movies-tv/ill-believe-it-when-i-see-it-says-josef-fares-about-a-split-fiction-movie-theres-a-lot-of-talks-but-nothing-happens/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
