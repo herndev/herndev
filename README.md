@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
- - ⏩ [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 👉 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)<!-- MEMES:END -->
+ - 💣 [Quiet quitting](http://9gag.com/gag/aRBMbj7)
+ - ⏩ [2 types of 30+ men](http://9gag.com/gag/ae9Zzzq)
+ - 👉 [Today is the day.](http://9gag.com/gag/apR6ZRn)<!-- MEMES:END -->
 
 ---
 
