@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All of the updates about OpenAI](https://www.theverge.com/news/640086/openai-chat-gpt-news-updates)
- - [NFL swaps first-down chains for Sony&amp;#8217;s 8K cameras](https://www.theverge.com/news/640890/nfl-sony-hawk-eye-first-down-chains)
- - [Here are some must-have accessories for your Xbox Series X / S](https://www.theverge.com/21550830/xbox-series-x-s-wireless-controller-ssd-hard-drive-accessories)<!-- TECH:END -->
+ - [Buy a budget Samsung Galaxy A36 or A26 and save 50% on Buds FE or Fit3](https://www.androidauthority.com/samsung-galaxy-a36-a26-accessory-deals-3540460/)
+ - [OWC Thunderbolt docks for Mac have dropped to record low prices, from $149.99](https://appleinsider.com/articles/25/04/01/owc-thunderbolt-docks-for-mac-have-dropped-to-record-low-prices-from-14999?utm_medium=rss)
+ - [Sources: WH national security adviser Michael Waltz and other National Security Council members have conducted government affairs over personal Gmail accounts &lpar;John Hudson/Washington Post&rpar;](http://www.techmeme.com/250401/p35#a250401p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
