@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - ⏩ [Based](http://9gag.com/gag/aByVebz)
- - 👉 [6.1 million Americans are behind on their mortgage, the highest in 20+ years. Brace for impact.](http://9gag.com/gag/azxKyxK)<!-- MEMES:END -->
+ - 💣 [Haters gonna say it&#39;s fake.](http://9gag.com/gag/a870RGp)
+ - ⏩ [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)
+ - 👉 [BLM Murals getting taken down in HD](http://9gag.com/gag/agm7D9g)<!-- MEMES:END -->
 
 ---
 
