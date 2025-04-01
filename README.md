@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marine Le Pen received a 2-year suspended sentence and a 2-year electronic bracelet from the court, with a 5-year ban on running for election, which guarantees her absence from the elections.](http://9gag.com/gag/aPAo2jw)
- - ⏩ [The ones will understand](http://9gag.com/gag/a340Dy1)
- - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
+ - 💣 [Today is the day.](http://9gag.com/gag/apR6ZRn)
+ - ⏩ [Chat burn](http://9gag.com/gag/aByV5MO)
+ - 👉 [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)<!-- MEMES:END -->
 
 ---
 
