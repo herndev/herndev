@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber Karl Jobst to pay more than $230,000 to Donkey Kong record holder Billy Mitchell in defamation ruling](https://www.pcgamer.com/gaming-industry/youtuber-karl-jobst-to-pay-more-than-usd230-000-to-donkey-kong-record-holder-billy-mitchell-in-defamation-ruling/)
- - [Today&#39;s Wordle answer for Tuesday, April 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-1-2025/)
- - [Schedule 1 is great because it knows crafting sucks unless you turn everything into a fun minigame](https://www.pcgamer.com/games/sim/schedule-1-is-great-because-it-knows-crafting-sucks-unless-you-turn-everything-into-a-fun-minigame/)<!-- GAME:END -->
+ - [Sensing your Spider-Verse 3 hunger, Sony sets release date, drops teaser images](https://www.polygon.com/animation-cartoons/550215/spider-man-beyond-the-spider-verse-first-look-images)
+ - [That is no April Fool’s joke — Rick and Morty really did announce its season premiere date](https://www.polygon.com/tv/550126/rick-morty-season-8-release-date-april-fools-adult-swim-play)
+ - [Spider-Man: Brand New Day will put Tom Holland back in the Spidey suit between Avengers movies](https://www.polygon.com/movies/24203068/spider-man-brand-new-day-tom-holland-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
