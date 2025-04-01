@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make Almond Pound Cake in Hello Kitty Island Adventure](https://www.pcgamer.com/games/life-sim/hello-kitty-island-adventure-almond-pound-cake-recipe/)
- - [Assassin’s Creed Shadows forgets to make learning history fun](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-forgets-to-make-learning-history-fun/)
- - [Every movie and show coming to Netflix in April](https://www.polygon.com/entertainment/549164/new-on-netflix-april-2025-movies-tv)<!-- GAME:END -->
+ - [Same plan, different CEO: Intel&#39;s Lip-Bu Tan laments &#39;past mistakes&#39; while promising a brighter &#39;engineering focused&#39; future](https://www.pcgamer.com/hardware/processors/same-plan-different-ceo-intels-lip-bu-tan-laments-past-mistakes-while-promising-a-brighter-engineering-focused-future/)
+ - [Inzoi and The First Berserker Khazan devs suggest ditching the latest Nvidia drivers if you&#39;re running an RTX 40-series graphics card](https://www.pcgamer.com/hardware/graphics-cards/inzoi-and-the-first-beserker-khazan-devs-suggest-ditching-the-latest-nvidia-drivers-if-youre-running-an-rtx-40-series-graphics-card/)
+ - [From World of Warcraft parodist to horror director: John Hsu’s strange path to a terrific Netflix movie](https://www.polygon.com/movies/550005/dead-talents-society-world-of-warcraft-connection-satoshi-kon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
