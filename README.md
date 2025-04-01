@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT’s viral Studio Ghibli-style image generator is now available to all](https://www.androidauthority.com/chatgpt-studio-ghibli-gpt-4o-image-generation-availability-3540233/)
- - [With Switch 2, Nintendo must do what it has rarely done before: follow one hit console with another; Nintendo has sold 150M+ Switch units since launch in 2017 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250401/p11#a250401p11)
- - [The US needs a new cybersecurity strategy, but offensive cyber operations are unlikely to deter Chinese state-sponsored hacking and come with significant risk &lpar;Marcus Hutchins/MalwareTech&rpar;](http://www.techmeme.com/250401/p10#a250401p10)<!-- TECH:END -->
+ - [Uncertainty around high-skilled visas is unsettling Silicon Valley&#39;s immigrant tech community, as tech companies tell employees on visas not to leave the US &lpar;Washington Post&rpar;](http://www.techmeme.com/250401/p12#a250401p12)
+ - [Palworld and PUBG are getting dating sims](https://www.theverge.com/news/640147/palworld-pubg-dating-sims)
+ - [ChatGPT’s viral Studio Ghibli-style image generator is now available to all](https://www.androidauthority.com/chatgpt-studio-ghibli-gpt-4o-image-generation-availability-3540233/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
