@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
- - ⏩ [These were the times](http://9gag.com/gag/aD28Lwd)
- - 👉 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)<!-- MEMES:END -->
+ - ⏩ [Just a friendly reminder of what we had to deal with before pandemics, war, and existential dread.](http://9gag.com/gag/a870gz6)
+ - 👉 [Rock on girls](http://9gag.com/gag/aW4nXR2)<!-- MEMES:END -->
 
 ---
 
