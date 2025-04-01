@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Similarweb: Gemini&#39;s web app had 10.9M average daily visits in March, up 7.4% MoM; Sensor Tower: Claude and Gemini saw activity jump after flagship model debuts &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250401/p30#a250401p30)
- - [Hyundai’s Insteroid is an EV one-off for gamers](https://www.theverge.com/news/640849/hyundai-insteroid-inster-ev-concept-sport)
- - [Runway says its latest AI video model can actually generate consistent scenes and people](https://www.theverge.com/news/640821/runway-gen-4-artificial-intelligence-video-generator-filmmaking)<!-- TECH:END -->
+ - [All of the updates about OpenAI](https://www.theverge.com/news/640086/openai-chat-gpt-news-updates)
+ - [NFL swaps first-down chains for Sony&amp;#8217;s 8K cameras](https://www.theverge.com/news/640890/nfl-sony-hawk-eye-first-down-chains)
+ - [Here are some must-have accessories for your Xbox Series X / S](https://www.theverge.com/21550830/xbox-series-x-s-wireless-controller-ssd-hard-drive-accessories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
