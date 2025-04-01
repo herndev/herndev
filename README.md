@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uncertainty around high-skilled visas is unsettling Silicon Valley&#39;s immigrant tech community, as tech companies tell employees on visas not to leave the US &lpar;Washington Post&rpar;](http://www.techmeme.com/250401/p12#a250401p12)
- - [Palworld and PUBG are getting dating sims](https://www.theverge.com/news/640147/palworld-pubg-dating-sims)
- - [ChatGPT’s viral Studio Ghibli-style image generator is now available to all](https://www.androidauthority.com/chatgpt-studio-ghibli-gpt-4o-image-generation-availability-3540233/)<!-- TECH:END -->
+ - [Pixel 9a will throttle your battery and charging speed whether you like it or not](https://www.androidauthority.com/google-pixel-9a-battery-health-assistance-3540234/)
+ - [ChatGPT’s improved image generation is now available for free](https://www.theverge.com/news/640359/chat-gpt-4o-image-generator-ghibli-free-users)
+ - [Palworld and PUBG are getting dating sims](https://www.theverge.com/news/640147/palworld-pubg-dating-sims)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
