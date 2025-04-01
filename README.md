@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mecha Break competitor Steel Hunters releases in early access on Steam this week, offering a slower, more tactical free-to-play mech game](https://www.pcgamer.com/games/sim/mecha-break-competitor-steel-hunters-releases-in-early-access-on-steam-this-week-offering-a-slower-more-tactical-free-to-play-mech-game/)
- - [How the Pokémon Go Pass April works](https://www.polygon.com/pokemon-go-guide/549903/go-pass-april-rewards-changes)
- - [The First Berserker: Khazan&#39;s Runtime Doesn&#39;t Disappoint](https://kotaku.com/the-first-berserker-khazan-easy-mode-how-long-to-beat-1851773791)<!-- GAME:END -->
+ - [Quick, play Ricochet! Valve fans are trying to break the meager Steam concurrents record for the company&#39;s least-popular game: &#39;Justice must be done&#39;](https://www.pcgamer.com/games/action/ricochet-steam-concurrents-record-attempt/)
+ - [Conan the Destroyer on Netflix is the perfect excuse to relive the golden age of Hollywood’s heavy metal fantasy](https://www.polygon.com/what-to-watch/550615/conan-destroyer-netflix-fantasy-movies-heavy-metal-good)
+ - [&#39;The original Tetris was a survival game&#39;: The man who prised Tetris out of the Soviet system recalls how different it once was](https://www.pcgamer.com/games/the-original-tetris-was-a-survival-game-the-man-who-prised-tetris-out-of-the-soviet-system-recalls-how-different-it-once-was/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
