@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to calculate your home battery needs for the next blackout](https://www.theverge.com/tech/638547/home-backup-power-watt-hours-battery-calculator)
- - [Survey shows the main reason people choose a Pixel phone over other Android phones](https://www.androidauthority.com/why-use-google-pixel-phone-poll-result-3540253/)
- - [Samsung says TM Roh, who oversees mobile, will temporarily step into a broader role overseeing its consumer electronics, after the death of co-CEO Han Jong-Hee &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250401/p17#a250401p17)<!-- TECH:END -->
+ - [watchOS 11.4 was briefly available, and was pulled by Apple [u]](https://appleinsider.com/articles/25/03/31/new-break-through-silent-mode-debuts-watchos-114-fixes-bugs?utm_medium=rss)
+ - [In a new strategy, Amazon plans to release 14 to 16 movies per year in theaters, rivaling other major studios, with most running for 45 days before streaming &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250401/p19#a250401p19)
+ - [Nuphy Kick75 Keyboard review: Hybrid profile keyboard is a work in progress](https://appleinsider.com/articles/25/04/01/nuphy-kick75-keyboard-review-hybrid-profile-keyboard-in-progress?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
