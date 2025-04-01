@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)
- - ⏩ [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
- - 👉 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)<!-- MEMES:END -->
+ - 💣 [Marine Le Pen received a 2-year suspended sentence and a 2-year electronic bracelet from the court, with a 5-year ban on running for election, which guarantees her absence from the elections.](http://9gag.com/gag/aPAo2jw)
+ - ⏩ [The ones will understand](http://9gag.com/gag/a340Dy1)
+ - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
 
 ---
 
