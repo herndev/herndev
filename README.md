@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From dinner plans to DIY: Here’s how our team really uses AI](https://www.androidauthority.com/best-uses-for-ai-3537962/)
- - [How to set up Wi-Fi calling on Android and iPhones](https://www.theverge.com/how-to/640036/wi-fi-calling-android-iphone-how-to)
- - [Gmail is making it easier for businesses to send encrypted emails to anyone](https://www.theverge.com/news/640422/google-gmail-email-encryption-enterprise-beta)<!-- TECH:END -->
+ - [April Fools&amp;#8217; 2025: Dbrand’s new skins let you &amp;#8216;touch grass&amp;#8217; without the hassle of going outside](https://www.theverge.com/news/638284/dbrand-touch-grass-skin-tablet-smartphone-handheld-console)
+ - [2025 Mac Studio review: One clear purchase choice for most buyers](https://appleinsider.com/articles/25/04/01/2025-mac-studio-review-one-clear-purchase-choice-for-most-buyers?utm_medium=rss)
+ - [Substack says it&amp;#8217;ll legally defend writers &amp;#8216;targeted by the government&amp;#8217;](https://www.theverge.com/news/640495/substack-legally-defend-writers-targeted-by-government)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
