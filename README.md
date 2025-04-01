@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Alan Turing Institute, the UK&#39;s flagship AI agency, plans to focus on defense, environment, and health, after staff criticized its leadership in December &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p15#a250401p15)
- - [How some UK parents created a &quot;Smartphone Free Childhood&quot; pledge, signed by 124K+ people, after the UK government watered down a bill banning phones in schools &lpar;Megan Specia/New York Times&rpar;](http://www.techmeme.com/250401/p14#a250401p14)
- - [It’s the moment of truth for Zuckerberg’s Trump bet](https://www.theverge.com/news/640368/mark-zuckerberg-meta-eu-fine-trump)<!-- TECH:END -->
+ - [How to calculate your home battery needs for the next blackout](https://www.theverge.com/tech/638547/home-backup-power-watt-hours-battery-calculator)
+ - [Survey shows the main reason people choose a Pixel phone over other Android phones](https://www.androidauthority.com/why-use-google-pixel-phone-poll-result-3540253/)
+ - [Samsung says TM Roh, who oversees mobile, will temporarily step into a broader role overseeing its consumer electronics, after the death of co-CEO Han Jong-Hee &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250401/p17#a250401p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
