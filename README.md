@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Twisted Tree locations and rewards in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/550152/twisted-tree-locations-where-to-find-all-takahashi-clan)
- - [The year&amp;#8217;s best Warhammer 40K expansion sold out online. Track it down anyway](https://www.polygon.com/warhammer-40k/550835/kill-team-blood-zeal-review-release-date-price)
- - [&#39;I&#39;ll believe it when I see it&#39; says Josef Fares about a Split Fiction movie: &#39;There’s a lot of talks, but nothing happens&#39;](https://www.pcgamer.com/movies-tv/ill-believe-it-when-i-see-it-says-josef-fares-about-a-split-fiction-movie-theres-a-lot-of-talks-but-nothing-happens/)<!-- GAME:END -->
+ - [Call of Duty will finally let console players turn off crossplay to dodge PC cheaters, which is potentially terrible news for all the legit PC players](https://www.pcgamer.com/games/fps/call-of-duty-will-finally-let-console-players-turn-off-crossplay-to-dodge-pc-cheaters-which-is-potentially-terrible-news-for-all-the-legit-pc-players/)
+ - [All romance options in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/542414/romance-options-all-list-how-to-unlock)
+ - [All Jizo Statue locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/550582/jizo-statue-locations-all-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
