@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
- - ⏩ [Nice sis](http://9gag.com/gag/aRBM8eA)
- - 👉 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)<!-- MEMES:END -->
+ - 💣 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
+ - ⏩ [Even in dogs there are levels](http://9gag.com/gag/aVvKrQK)
+ - 👉 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)<!-- MEMES:END -->
 
 ---
 
