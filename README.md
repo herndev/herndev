@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [watchOS 11.4 was briefly available, and was pulled by Apple [u]](https://appleinsider.com/articles/25/03/31/new-break-through-silent-mode-debuts-watchos-114-fixes-bugs?utm_medium=rss)
- - [In a new strategy, Amazon plans to release 14 to 16 movies per year in theaters, rivaling other major studios, with most running for 45 days before streaming &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250401/p19#a250401p19)
- - [Nuphy Kick75 Keyboard review: Hybrid profile keyboard is a work in progress](https://appleinsider.com/articles/25/04/01/nuphy-kick75-keyboard-review-hybrid-profile-keyboard-in-progress?utm_medium=rss)<!-- TECH:END -->
+ - [From dinner plans to DIY: Here’s how our team really uses AI](https://www.androidauthority.com/best-uses-for-ai-3537962/)
+ - [How to set up Wi-Fi calling on Android and iPhones](https://www.theverge.com/how-to/640036/wi-fi-calling-android-iphone-how-to)
+ - [Gmail is making it easier for businesses to send encrypted emails to anyone](https://www.theverge.com/news/640422/google-gmail-email-encryption-enterprise-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
