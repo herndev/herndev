@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has just rereleased watchOS 11.4 to the public](https://appleinsider.com/articles/25/04/01/apple-has-just-rereleased-watchos-114-to-the-public?utm_medium=rss)
- - [Hundreds of scientists accuse Donald Trump of censorship](https://www.theverge.com/news/640664/science-censorship-trump-letter-climate-vaccine-national-academies)
- - [A US judge rules Arkansas&#39; Social Media Safety Act, which requires minors have parental permission before creating social media accounts, infringes on 1A rights &lpar;Ufonobong Umanah/Bloomberg Law&rpar;](http://www.techmeme.com/250401/p28#a250401p28)<!-- TECH:END -->
+ - [Similarweb: Gemini&#39;s web app had 10.9M average daily visits in March, up 7.4% MoM; Sensor Tower: Claude and Gemini saw activity jump after flagship model debuts &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250401/p30#a250401p30)
+ - [Hyundai’s Insteroid is an EV one-off for gamers](https://www.theverge.com/news/640849/hyundai-insteroid-inster-ev-concept-sport)
+ - [Runway says its latest AI video model can actually generate consistent scenes and people](https://www.theverge.com/news/640821/runway-gen-4-artificial-intelligence-video-generator-filmmaking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
