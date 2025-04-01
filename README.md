@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Same plan, different CEO: Intel&#39;s Lip-Bu Tan laments &#39;past mistakes&#39; while promising a brighter &#39;engineering focused&#39; future](https://www.pcgamer.com/hardware/processors/same-plan-different-ceo-intels-lip-bu-tan-laments-past-mistakes-while-promising-a-brighter-engineering-focused-future/)
- - [Inzoi and The First Berserker Khazan devs suggest ditching the latest Nvidia drivers if you&#39;re running an RTX 40-series graphics card](https://www.pcgamer.com/hardware/graphics-cards/inzoi-and-the-first-beserker-khazan-devs-suggest-ditching-the-latest-nvidia-drivers-if-youre-running-an-rtx-40-series-graphics-card/)
- - [From World of Warcraft parodist to horror director: John Hsu’s strange path to a terrific Netflix movie](https://www.polygon.com/movies/550005/dead-talents-society-world-of-warcraft-connection-satoshi-kon)<!-- GAME:END -->
+ - [Where to find the mayor&#39;s house in Schedule 1](https://www.pcgamer.com/games/sim/schedule-1-mayors-house-location/)
+ - [After Swen Vincke wagged his finger at a Wizards of the Coast DMCA, Stardew&#39;s Baldur&#39;s Gate 3 mod is back online](https://www.pcgamer.com/games/sim/after-swen-vincke-wagged-his-finger-at-a-wizards-of-the-coast-dmca-stardews-baldurs-gate-3-mod-is-back-online/)
+ - [AMD reportedly plots late 2025 launch for desktop version of the nifty little Strix Point APU we like so much in laptops and handhelds](https://www.pcgamer.com/hardware/processors/amd-reportedly-plots-late-2025-launch-for-desktop-version-of-the-nifty-little-strix-point-apu-we-like-so-much-in-laptops-and-handhelds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
