@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go April Fools’ Day 2025 event and April 1 Spotlight Hour guide](https://www.polygon.com/pokemon-go-guide/549703/april-fools-2025-event-poke-ball-spawns-spotlight-hour)
- - [Sensing your Spider-Verse 3 hunger, Sony sets release date, drops teaser images](https://www.polygon.com/animation-cartoons/550215/spider-man-beyond-the-spider-verse-first-look-images)
- - [That is no April Fool’s joke — Rick and Morty really did announce its season premiere date](https://www.polygon.com/tv/550126/rick-morty-season-8-release-date-april-fools-adult-swim-play)<!-- GAME:END -->
+ - [Every movie and show coming to Netflix in April](https://www.polygon.com/entertainment/549164/new-on-netflix-april-2025-movies-tv)
+ - [&#39;We were at war with our customers&#39;: Unity&#39;s new CEO talks about arriving to the &#39;insane&#39; post-runtime fee dumpster fire](https://www.pcgamer.com/gaming-industry/game-development/we-were-at-war-with-our-customers-unitys-new-ceo-talks-about-arriving-to-the-insane-post-runtime-fee-dumpster-fire/)
+ - [What is the Fortnite Crew Pack skin for April 2025?](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
