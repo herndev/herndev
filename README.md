@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [YouTuber Karl Jobst to pay more than $230,000 to Donkey Kong record holder Billy Mitchell in defamation ruling](https://www.pcgamer.com/gaming-industry/youtuber-karl-jobst-to-pay-more-than-usd230-000-to-donkey-kong-record-holder-billy-mitchell-in-defamation-ruling/)
  - [Today&#39;s Wordle answer for Tuesday, April 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-1-2025/)
- - [Schedule 1 is great because it knows crafting sucks unless you turn everything into a fun minigame](https://www.pcgamer.com/games/sim/schedule-1-is-great-because-it-knows-crafting-sucks-unless-you-turn-everything-into-a-fun-minigame/)
- - [&#39;You must have played this before!&#39;: Balatro&#39;s creator impressed bystanders with his Balatro skills at GDC, and nobody knew who he was](https://www.pcgamer.com/games/card-games/you-must-have-played-this-before-balatros-creator-impressed-bystanders-with-his-balatro-skills-at-gdc-and-nobody-knew-who-he-was/)<!-- GAME:END -->
+ - [Schedule 1 is great because it knows crafting sucks unless you turn everything into a fun minigame](https://www.pcgamer.com/games/sim/schedule-1-is-great-because-it-knows-crafting-sucks-unless-you-turn-everything-into-a-fun-minigame/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
