@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Haters gonna say it&#39;s fake.](http://9gag.com/gag/a870RGp)
- - ⏩ [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)
- - 👉 [BLM Murals getting taken down in HD](http://9gag.com/gag/agm7D9g)<!-- MEMES:END -->
+ - 💣 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
+ - ⏩ [Based](http://9gag.com/gag/aByVebz)
+ - 👉 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)<!-- MEMES:END -->
 
 ---
 
