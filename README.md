@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
- - ⏩ [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)
- - 👉 [Transaction](http://9gag.com/gag/abA4N1b)<!-- MEMES:END -->
+ - 💣 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
+ - ⏩ [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)
+ - 👉 [Based](http://9gag.com/gag/aByVebz)<!-- MEMES:END -->
 
 ---
 
