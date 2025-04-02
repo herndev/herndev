@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it used its AI-powered Security Copilot to discover previously unknown vulnerabilities in the GRUB2, U-Boot, and Barebox open-source bootloaders &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250401/p41#a250401p41)
- - [You can still save $100 on the Yaber T2 Portable Projector](https://www.androidauthority.com/yaber-t2-projector-deal-2-3540458/)
- - [Visible’s new plan puts Verizon’s to shame](https://www.theverge.com/news/640896/visible-plus-pro-plan-verizon-unlimited-welcome)<!-- TECH:END -->
+ - [Google researchers say DPRK&#39;s IT workers are fraudulently securing positions at companies in Germany, Portugal, and the UK, after facing sanctions in the US &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250401/p42#a250401p42)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Doctor Behind Award-Winning Parkinson’s Research Among Scientists Purged From NIH](https://www.wired.com/story/doctor-breakthrough-parkinsons-research-nih-purge/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
