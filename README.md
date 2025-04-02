@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Game Pass: South of Midnight, Blue Prince, Borderlands 3, and More](https://news.xbox.com/en-us/2025/04/02/xbox-game-pass-april-2025-wave-1/)
- - [A would-be Disco Elysium expansion has leaked online, with lots of details](https://www.polygon.com/gaming/551096/disco-elysium-locust-city-an-elysium-story-zaum-presentation)
- - [AMD says the problem with Ryzen 7 9800X3D chips failing to boot is down to memory compatibility issues and not actually dead CPUs](https://www.pcgamer.com/hardware/processors/amd-says-the-problem-with-ryzen-7-9800x3d-chips-failing-to-boot-is-down-to-memory-compatibility-issues-and-not-actually-dead-cpus/)<!-- GAME:END -->
+ - [New Hyrule Warriors Will Take Fans Inside Zelda: Tears Of The Kingdom&#39;s Imprisoning War](https://kotaku.com/hyrule-warriors-imprisoning-war-zelda-tokt-switch-2-1851774238)
+ - [Switch 2 Online Gets GameCube Games Including Zelda: Wind Waker](https://kotaku.com/switch-2-online-gamecube-games-wind-waker-fzero-classic-1851774234)
+ - [Metroid Prime 4 And Pokémon Legends: Z-A Will Be Cross-Gen On Switch 2](https://kotaku.com/metroid-prime-4-pokemon-legends-z-a-switch-2-edition-1851774226)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
