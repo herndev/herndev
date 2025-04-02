@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The MSI Modern 15 F13M: the modern laptop for modern life](https://www.pcgamer.com/hardware/the-msi-modern-15-f13m-the-modern-laptop-for-modern-life/)
- - [Hollow Knight: Silksong returns as the #1 wishlisted game on Steam after Inzoi&#39;s  release—but is it just keeping the seat warm after 6 years of slowly-gathered hype?](https://www.pcgamer.com/games/action/hollow-knight-silksong-returns-as-the-1-wishlisted-game-on-steam-after-inzois-release-but-is-it-just-keeping-the-seat-warm-after-6-years-of-slowly-gathered-hype/)
- - [Pokémon Go ‘A Dazzling Aria’ Masterwork Research tasks and rewards so far](https://www.polygon.com/pokemon-go-guide/528116/a-dazzling-aria-masterwork-research-shiny-meloetta)<!-- GAME:END -->
+ - [Nab our longest-reigning game of all time and enough branching narratives to keep you busy for the rest of the year for under $15](https://www.pcgamer.com/games/rpg/nab-our-longest-reigning-game-of-all-time-and-enough-branching-narratives-to-keep-you-busy-for-the-rest-of-the-year-for-under-usd15/)
+ - [It&#39;s clear Hasbro, the custodians of D&amp;D, have no idea what to do with Baldur&#39;s Gate 3&#39;s success—but that&#39;s nothing new, it&#39;s spent the past 10 years fumbling the bag](https://www.pcgamer.com/games/rpg/its-clear-hasbro-the-custodians-of-d-and-d-have-no-idea-what-to-do-with-baldurs-gate-3s-success-but-thats-nothing-new-its-spent-the-past-10-years-fumbling-the-bag/)
+ - [The MSI Modern 15 F13M: the modern laptop for modern life](https://www.pcgamer.com/hardware/the-msi-modern-15-f13m-the-modern-laptop-for-modern-life/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
