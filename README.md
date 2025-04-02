@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
- - ⏩ [Peak Ozzy](http://9gag.com/gag/ae9ZwEv)
- - 👉 [Old but Gold](http://9gag.com/gag/a9y5g7j)<!-- MEMES:END -->
+ - 💣 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
+ - ⏩ [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 👉 [Artichoke hearts](http://9gag.com/gag/ae9Z82O)<!-- MEMES:END -->
 
 ---
 
