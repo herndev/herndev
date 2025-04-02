@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars brings back Asajj Ventress and Cad Bane in Tales from the Underworld](https://www.polygon.com/trailer/551624/star-wars-tales-underworld-animated-series-trailer-ventress-cad-bane)
- - [Every Nintendo Switch 2 Launch Game](https://kotaku.com/every-nintendo-switch-2-launch-game-exclusive-mario-1851774354)
- - [All the ways you should prep to pre-order a Nintendo Switch 2](https://www.polygon.com/nintendo-switch-2/551622/switch-2-pre-order-reservation-queue-nintendo)<!-- GAME:END -->
+ - [The Switch 2&#39;s Battery Life Is Worse Than The Original](https://kotaku.com/switch-2-battery-life-steam-deck-compares-4k-60fps-1851774376)
+ - [Psychologist breaks down The Last of Us Part 2&#39;s most traumatic and realistic moments: &#39;Revenge is sweet. Otherwise why would we hold onto it?&#39;](https://www.pcgamer.com/games/action/psychologist-breaks-down-the-last-of-us-part-2s-most-traumatic-and-realistic-moments-revenge-is-sweet-otherwise-why-would-we-hold-onto-it/)
+ - [The must-watch anime to look out for in spring 2025](https://www.polygon.com/entertainment/525621/new-anime-spring-2025-release-calendar-schedule-watch-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
