@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to stop Spotlight hogging disk space on macOS](https://appleinsider.com/inside/macos/tips/how-to-stop-spotlight-hogging-disk-space-on-macos?utm_medium=rss)
  - [Pixel’s lock screen weather glitch showing outdated forecasts &lpar;Updated: Fix incoming&rpar;](https://www.androidauthority.com/pixel-lock-screen-weather-forecast-bug-3540196/)
- - [Sources: AI coding startup Replit is in talks with investors to raise about $200M at a $3B valuation, almost triple its last valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250401/p43#a250401p43)
- - [Google researchers say DPRK&#39;s IT workers are fraudulently securing positions at companies in Germany, Portugal, and the UK, after facing sanctions in the US &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250401/p42#a250401p42)<!-- TECH:END -->
+ - [Sources: AI coding startup Replit is in talks with investors to raise about $200M at a $3B valuation, almost triple its last valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250401/p43#a250401p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
