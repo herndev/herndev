@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
- - ⏩ [Based](http://9gag.com/gag/aByVebz)
- - 👉 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)<!-- MEMES:END -->
+ - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - ⏩ [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 👉 [Initial investigation reveals the collapsed building in Bangkok used low quality rebars.](http://9gag.com/gag/agm7eq1)<!-- MEMES:END -->
 
 ---
 
