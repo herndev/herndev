@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thank You for Five Decades Together – Celebrate Microsoft’s Anniversary with New Dynamic Background, Profile Themes, and More](https://news.xbox.com/en-us/2025/04/02/microsoft-50th-anniversary-dynamic-background-profile-theme/)
- - [Help, my favorite anime couple is getting cockblocked by minding their own business](https://www.polygon.com/anime/550870/apothecary-diaries-jinshi-maomao-cockblocked)
- - [Best Schedule 1 bungalow setup and layout](https://www.pcgamer.com/games/sim/schedule-1-bungalow-setup/)<!-- GAME:END -->
+ - [No one&#39;s making a new BattleTech videogame any time soon, so I&#39;ll console myself with this $18 bundle of stuff for the tabletop RPG](https://www.pcgamer.com/games/strategy/no-ones-making-a-new-battletech-videogame-any-time-soon-so-ill-console-myself-with-this-usd18-bundle-of-stuff-for-the-tabletop-rpg/)
+ - [Schedule 1 is my favourite co-op game of the year because it lets me bully my friends into doing the hard parts for me](https://www.pcgamer.com/games/sim/schedule-1-is-my-favourite-co-op-game-of-the-year-because-it-lets-me-bully-my-friends-into-doing-the-hard-parts-for-me/)
+ - [ASRock B850 Steel Legend Wi-Fi review](https://www.pcgamer.com/hardware/motherboards/asrock-b850-steel-legend-wi-fi-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
