@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Switch 2&#39;s Battery Life Is Worse Than The Original](https://kotaku.com/switch-2-battery-life-steam-deck-compares-4k-60fps-1851774376)
- - [Psychologist breaks down The Last of Us Part 2&#39;s most traumatic and realistic moments: &#39;Revenge is sweet. Otherwise why would we hold onto it?&#39;](https://www.pcgamer.com/games/action/psychologist-breaks-down-the-last-of-us-part-2s-most-traumatic-and-realistic-moments-revenge-is-sweet-otherwise-why-would-we-hold-onto-it/)
- - [The must-watch anime to look out for in spring 2025](https://www.polygon.com/entertainment/525621/new-anime-spring-2025-release-calendar-schedule-watch-streaming)<!-- GAME:END -->
+ - [7 years after its debut, Deltarune chapters 3 and 4 are finally coming in June](https://www.pcgamer.com/games/adventure/7-years-after-its-debut-deltarune-chapters-3-and-4-are-finally-coming-in-june/)
+ - [Support trans rights with this bundle of more than 400 indie TTRPGs for $5](https://www.polygon.com/tabletop-games/551768/support-trans-rights-ohio-ttrpg-bundle-sale)
+ - [A Minecraft Movie review roundup: some say it&#39;s &#39;okay,&#39; others say &#39;it isn&#39;t actively boring&#39;](https://www.pcgamer.com/movies-tv/a-minecraft-movie-review-roundup-some-say-its-okay-others-say-it-isnt-actively-boring/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
