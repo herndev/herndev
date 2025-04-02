@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox will let parents block people on their child’s friends list](https://www.theverge.com/news/641167/roblox-parental-controls-block-friends-experiences)
- - [Seattle-based Gable, which develops enterprise data coordination tech, raised a $20M Series A led by Crane Venture Partners, taking its total funding to $27M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250402/p8#a250402p8)
- - [Google Messages could finally let you text on your own time &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-snooze-apk-teardown-3540590/)<!-- TECH:END -->
+ - [In its first post-IPO earnings, Raspberry Pi reports FY 2024 revenue down 2% YoY to $259.5M, pre-tax profit down 57% YoY to $16.3M, and 1.9M Pi 5 units sold &lpar;Financial Times&rpar;](http://www.techmeme.com/250402/p11#a250402p11)
+ - [Indian investment bank The Rainmaker Group says 36+ Indian tech startups like Flipkart and PhonePe with a combined $100B valuation are set to go public by 2027 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250402/p10#a250402p10)
+ - [The Wikimedia Foundation says base bandwidth demand for downloading Wikimedia Commons multimedia content is up 50% since January 2024, driven by AI crawlers &lpar;Wikimedia&rpar;](http://www.techmeme.com/250402/p9#a250402p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
