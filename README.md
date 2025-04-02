@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The PC game releases we&#39;re most excited about in April](https://www.pcgamer.com/games/pc-game-release-dates-april-2025/)
  - [Call of Duty will finally let console players turn off crossplay to dodge PC cheaters, which is potentially terrible news for all the legit PC players](https://www.pcgamer.com/games/fps/call-of-duty-will-finally-let-console-players-turn-off-crossplay-to-dodge-pc-cheaters-which-is-potentially-terrible-news-for-all-the-legit-pc-players/)
- - [All romance options in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/542414/romance-options-all-list-how-to-unlock)
- - [All Jizo Statue locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/550582/jizo-statue-locations-all-where-to-find)<!-- GAME:END -->
+ - [All romance options in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/542414/romance-options-all-list-how-to-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
