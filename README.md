@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With the Switch 2, it seems like Nintendo is kind of figuring out online](https://www.theverge.com/news/642290/nintendo-switch-2-online-figuring-out-gamechat)
- - [Donald Trump announces tariffs that could raise the price of almost everything you buy](https://www.theverge.com/news/642240/trump-tariffs-imports-apple-manufacturing)
- - [Deal: Google Pixel 9 Pro still at its $699 all-time low price](https://www.androidauthority.com/google-pixel-9-pro-deal-2-3541013/)<!-- TECH:END -->
+ - [Save $110 on the Samsung Galaxy Buds 3 Pro](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-4-3541012/)
+ - [Apple shares drop 7%+ after hours following Trump&#39;s announcement that the US will impose tariffs of 46% on Vietnam, 26% on India, and an additional 34% on China &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250402/p48#a250402p48)
+ - [Tech stocks fall in late trading after Trump announced new tariffs: Amazon drops as much as ~6%, Meta ~5%, Nvidia ~5%, Alphabet ~3%, and Microsoft ~3% &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250402/p47#a250402p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
