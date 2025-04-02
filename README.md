@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
- - ⏩ [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 👉 [Initial investigation reveals the collapsed building in Bangkok used low quality rebars.](http://9gag.com/gag/agm7eq1)<!-- MEMES:END -->
+ - 💣 [Jean-Claude Van Damme dancing &#39;Kickboxer&#39; style](http://9gag.com/gag/aQz7jZ8)
+ - ⏩ [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
+ - 👉 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)<!-- MEMES:END -->
 
 ---
 
