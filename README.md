@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jean-Claude Van Damme dancing &#39;Kickboxer&#39; style](http://9gag.com/gag/aQz7jZ8)
- - ⏩ [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
- - 👉 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)<!-- MEMES:END -->
+ - 💣 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
+ - ⏩ [Seeing them go down on eachother would make me furious](http://9gag.com/gag/aByVzN1)
+ - 👉 [This is how strong Squid&#39;s Ink is in stability and pigment intensity after a week](http://9gag.com/gag/aMVP7yG)<!-- MEMES:END -->
 
 ---
 
