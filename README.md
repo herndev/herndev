@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Press F to pay respect](http://9gag.com/gag/ayN6O0y)
- - ⏩ [`Telling people in poverty to be more entrepreneurial is sick`](http://9gag.com/gag/aVvKNQv)
- - 👉 [Quiet quitting](http://9gag.com/gag/aRBMbj7)<!-- MEMES:END -->
+ - 💣 [Quiet quitting](http://9gag.com/gag/aRBMbj7)
+ - ⏩ [Press F to pay respect](http://9gag.com/gag/ayN6O0y)
+ - 👉 [`Telling people in poverty to be more entrepreneurial is sick`](http://9gag.com/gag/aVvKNQv)<!-- MEMES:END -->
 
 ---
 
