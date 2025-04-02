@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;This is a gift&#39;: Baldur&#39;s Village mod maker says thanks to all &lpar;especially Swen&rpar; and promises more content including an &#39;Astarion&#39;s Ten Hearts event&#39; is on the way](https://www.pcgamer.com/games/life-sim/this-is-a-gift-baldurs-village-mod-maker-says-thanks-to-all-especially-swen-and-promises-more-content-including-an-astarions-ten-hearts-event-is-on-the-way/)
- - [A new Donkey Kong 3D adventure is coming to Switch 2](https://www.polygon.com/nintendo-switch-2/551135/donkey-kong-bananza-switch-2-release-date)
- - [Mario Kart World goes open-world and off-road on Nintendo Switch 2](https://www.polygon.com/nintendo-switch-2/551079/mario-kart-switch-2-release-date-details)<!-- GAME:END -->
+ - [Star Wars brings back Asajj Ventress and Cad Bane in Tales from the Underworld](https://www.polygon.com/trailer/551624/star-wars-tales-underworld-animated-series-trailer-ventress-cad-bane)
+ - [Every Nintendo Switch 2 Launch Game](https://kotaku.com/every-nintendo-switch-2-launch-game-exclusive-mario-1851774354)
+ - [All the ways you should prep to pre-order a Nintendo Switch 2](https://www.polygon.com/nintendo-switch-2/551622/switch-2-pre-order-reservation-queue-nintendo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
