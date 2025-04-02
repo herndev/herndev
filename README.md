@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
- - ⏩ [Quiet quitting](http://9gag.com/gag/aRBMbj7)
- - 👉 [Old but Gold](http://9gag.com/gag/a9y5g7j)<!-- MEMES:END -->
+ - 💣 [RIP ICEMAN](http://9gag.com/gag/a9y5ooZ)
+ - ⏩ [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)
+ - 👉 [Now its worth $10 million](http://9gag.com/gag/axy6qMn)<!-- MEMES:END -->
 
 ---
 
