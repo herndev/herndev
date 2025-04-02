@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm acquires the generative AI division of Vietnamese startup VinAI, following the acquisition of German AI and IoT company Edge Impulse in early March &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250402/p3#a250402p3)
- - [Love the Ray-Ban Meta AI Glasses? A big upgrade is coming with a much bigger price tag](https://www.androidauthority.com/meta-hypernova-smart-glasses-3540551/)
- - [Bybit shutters its NFT marketplace, following a similar decision by NFT marketplace X2Y2; Token Terminal: daily NFT trading volume has dropped 70% YoY to $5.34M &lpar;Adrian Zmudzinski/Cointelegraph&rpar;](http://www.techmeme.com/250402/p2#a250402p2)<!-- TECH:END -->
+ - [Qualcomm says it is weighing an acquisition offer for Alphawave, which has a market cap of ~$1.3B and makes high-speed semiconductor and connectivity technology &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250402/p5#a250402p5)
+ - [Samsung Galaxy S25 Edge launch may be delayed, but not for the reason you think](https://www.androidauthority.com/samsung-galaxy-s25-edge-launch-delayed-3540565/)
+ - [Sources: Arm decided not to pursue a deal after recently seeking to acquire Alphawave, a UK-listed supplier of semiconductor IP that is exploring a sale &lpar;Reuters&rpar;](http://www.techmeme.com/250402/p4#a250402p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
