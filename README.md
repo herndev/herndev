@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18.4 appears to be restoring deleted apps and installing new ones](https://appleinsider.com/articles/25/04/02/ios-184-appears-to-be-restoring-deleted-apps-and-installing-new-ones?utm_medium=rss)
- - [Sony Xperia 1 VII renders leak: This could be the best phone with a headphone jack](https://www.androidauthority.com/sony-xperia-1-vii-renders-3540654/)
- - [Documents: the NLRB froze Janneke Parrish and Cher Scarlett&#39;s cases against Apple pending a review after Trump nominated an Apple attorney as general counsel &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250402/p15#a250402p15)<!-- TECH:END -->
+ - [Tesla’s sales plummet 13 percent as Musk backlash grows](https://www.theverge.com/news/641311/tesla-q1-2025-delivery-production-sales-slump-musk)
+ - [Android 15 blocked Phone Link from mirroring sensitive notifications, but Microsoft has a fix](https://www.androidauthority.com/phone-link-sensitive-notifications-fix-3540158/)
+ - [Adobe launches Premiere Pro’s generative AI video extender](https://www.theverge.com/news/641270/adobe-premiere-pro-generative-extend-generally-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
