@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FromSoftware is making a multiplayer Switch 2 exclusive called The Duskbloods](https://www.theverge.com/news/641335/the-duskbloods-fromsoftware-nintendo-switch-2-exclusive-announcement)
- - [The Switch 2’s Pro Controller adds customizable rear buttons](https://www.theverge.com/news/637833/nintendo-switch-2-pro-controller-details)
- - [Nintendo Switch 2 Is Coming June 5 for $450](https://www.wired.com/story/nintendo-switch-2-release-date-pre-orders/)<!-- TECH:END -->
+ - [Sources: Amazon has put in a bid to acquire all of TikTok, but various parties involved do not appear to be taking it seriously, ahead of the April 5 deadline &lpar;New York Times&rpar;](http://www.techmeme.com/250402/p31#a250402p31)
+ - [A profile of Larry Ellison, now 80 years old with a $175B fortune, as Oracle bids for TikTok US and he puts up most of his son David&#39;s $8B bid to buy Paramount &lpar;New York Times&rpar;](http://www.techmeme.com/250402/p30#a250402p30)
+ - [The Nintendo Switch 2 has a camera accessory for video chats](https://www.theverge.com/news/641352/nintendo-switch-2-camera-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
