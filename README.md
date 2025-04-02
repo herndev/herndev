@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix will offer more languages for subtitles and dubbing when watching on a TV](https://www.theverge.com/news/641206/netflix-subtitles-dubbing-tv-languages)
- - [Hollow Knight: Silksong is launching in 2025](https://www.theverge.com/news/610766/hollow-knight-silksong-release-date-trailer)
- - [GameCube games are coming to Nintendo Switch Online](https://www.theverge.com/news/24339906/nintendo-switch-2-gamecube-nso)<!-- TECH:END -->
+ - [FromSoftware is making a multiplayer Switch 2 exclusive called The Duskbloods](https://www.theverge.com/news/641335/the-duskbloods-fromsoftware-nintendo-switch-2-exclusive-announcement)
+ - [The Switch 2’s Pro Controller adds customizable rear buttons](https://www.theverge.com/news/637833/nintendo-switch-2-pro-controller-details)
+ - [Nintendo Switch 2 Is Coming June 5 for $450](https://www.wired.com/story/nintendo-switch-2-release-date-pre-orders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
