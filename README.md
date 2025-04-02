@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
- - ⏩ [Seeing them go down on eachother would make me furious](http://9gag.com/gag/aByVzN1)
- - 👉 [This is how strong Squid&#39;s Ink is in stability and pigment intensity after a week](http://9gag.com/gag/aMVP7yG)<!-- MEMES:END -->
+ - 💣 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
+ - ⏩ [Peak Ozzy](http://9gag.com/gag/ae9ZwEv)
+ - 👉 [Old but Gold](http://9gag.com/gag/a9y5g7j)<!-- MEMES:END -->
 
 ---
 
