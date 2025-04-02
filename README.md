@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The thing got weirder with every second](http://9gag.com/gag/a0e03DZ)
- - ⏩ [At least he remembered his seatbelt](http://9gag.com/gag/a4PNO0v)
- - 👉 [Old but Gold](http://9gag.com/gag/a9y5g7j)<!-- MEMES:END -->
+ - 💣 [Now its worth $10 million](http://9gag.com/gag/axy6qMn)
+ - ⏩ [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
+ - 👉 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)<!-- MEMES:END -->
 
 ---
 
