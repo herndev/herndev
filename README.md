@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
- - ⏩ [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)
- - 👉 [Based](http://9gag.com/gag/aByVebz)<!-- MEMES:END -->
+ - 💣 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - ⏩ [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
+ - 👉 [What was the plan here?](http://9gag.com/gag/aqy6oAZ)<!-- MEMES:END -->
 
 ---
 
