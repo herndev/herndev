@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 Beta 3.2 arrives with fixes for haptics gone crazy](https://www.androidauthority.com/android-16-beta-3-2-3540997/)
- - [Europol says German and Dutch authorities shut down Kidflix, a CSAM streaming platform with 1.8M+ users between April 2022 and March 2025, on March 11 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250402/p43#a250402p43)
- - [Apple stumbles with latest AirPods Max firmware](https://www.theverge.com/news/642140/apple-airpods-max-lossless-audio-update-delay)<!-- TECH:END -->
+ - [With the Switch 2, it seems like Nintendo is kind of figuring out online](https://www.theverge.com/news/642290/nintendo-switch-2-online-figuring-out-gamechat)
+ - [Donald Trump announces tariffs that could raise the price of almost everything you buy](https://www.theverge.com/news/642240/trump-tariffs-imports-apple-manufacturing)
+ - [Deal: Google Pixel 9 Pro still at its $699 all-time low price](https://www.androidauthority.com/google-pixel-9-pro-deal-2-3541013/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
