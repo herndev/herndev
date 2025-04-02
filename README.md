@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart World&#39;s Breakout Star Is This Awesome Cow](https://kotaku.com/mario-kart-world-moo-moo-meadows-cow-meme-switch-2-1851774370)
- - [A Minecraft Movie Sounds Like A Mess That Might Not Be Terrible](https://kotaku.com/minecraft-movie-reviews-jack-black-jason-mamoa-1851774429)
- - [Everything we know about Nintendo Switch 2 backward compatibility](https://www.polygon.com/nintendo-switch-2/551581/nintendo-switch-2-backward-compatibility-explained)<!-- GAME:END -->
+ - [Stray Gods studio reveals its next game, an &#39;unholy roguelite deckbuilder&#39; about hunting demons in a festering city](https://www.pcgamer.com/games/card-games/stray-gods-studio-reveals-its-next-game-an-unholy-roguelite-deckbuilder-about-hunting-demons-in-a-festering-city/)
+ - [Trump Shocks With Massive New Tariffs That Could Make The Switch 2 Cost More Than $600](https://kotaku.com/switch-2-price-trump-tariffs-vietnam-china-trade-war-1851774438)
+ - [All the new video games launching in 2025](https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
