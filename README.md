@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
- - ⏩ [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
- - 👉 [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)<!-- MEMES:END -->
+ - 💣 [Press F to pay respect](http://9gag.com/gag/ayN6O0y)
+ - ⏩ [`Telling people in poverty to be more entrepreneurial is sick`](http://9gag.com/gag/aVvKNQv)
+ - 👉 [Quiet quitting](http://9gag.com/gag/aRBMbj7)<!-- MEMES:END -->
 
 ---
 
