@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP ICEMAN](http://9gag.com/gag/a9y5ooZ)
- - ⏩ [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)
- - 👉 [Now its worth $10 million](http://9gag.com/gag/axy6qMn)<!-- MEMES:END -->
+ - 💣 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - ⏩ [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 👉 [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)<!-- MEMES:END -->
 
 ---
 
