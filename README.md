@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And everyone is happy on the Matrix](http://9gag.com/gag/amo6ewy)
- - ⏩ [Press F to pay respect](http://9gag.com/gag/ayN6O0y)
- - 👉 [Would you rather?](http://9gag.com/gag/aD28yNx)<!-- MEMES:END -->
+ - 💣 [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
+ - ⏩ [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - 👉 [What was the plan here?](http://9gag.com/gag/aqy6oAZ)<!-- MEMES:END -->
 
 ---
 
