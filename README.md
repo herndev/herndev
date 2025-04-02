@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [7 years after its debut, Deltarune chapters 3 and 4 are finally coming in June](https://www.pcgamer.com/games/adventure/7-years-after-its-debut-deltarune-chapters-3-and-4-are-finally-coming-in-june/)
- - [Support trans rights with this bundle of more than 400 indie TTRPGs for $5](https://www.polygon.com/tabletop-games/551768/support-trans-rights-ohio-ttrpg-bundle-sale)
- - [A Minecraft Movie review roundup: some say it&#39;s &#39;okay,&#39; others say &#39;it isn&#39;t actively boring&#39;](https://www.pcgamer.com/movies-tv/a-minecraft-movie-review-roundup-some-say-its-okay-others-say-it-isnt-actively-boring/)<!-- GAME:END -->
+ - [Mario Kart World&#39;s Breakout Star Is This Awesome Cow](https://kotaku.com/mario-kart-world-moo-moo-meadows-cow-meme-switch-2-1851774370)
+ - [A Minecraft Movie Sounds Like A Mess That Might Not Be Terrible](https://kotaku.com/minecraft-movie-reviews-jack-black-jason-mamoa-1851774429)
+ - [Everything we know about Nintendo Switch 2 backward compatibility](https://www.polygon.com/nintendo-switch-2/551581/nintendo-switch-2-backward-compatibility-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
