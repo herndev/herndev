@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC chair says he’d ‘obey lawful orders’ if Trump asked to drop an antitrust case like Meta&amp;#8217;s](https://www.theverge.com/news/642068/ftc-chair-andrew-ferguson-trump-drop-meta-lawsuit-hypothetical)
- - [Sources: AppLovin has made a bid for TikTok and talked to casino magnate Steve Wynn about backing it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250402/p38#a250402p38)
- - [Adobe updates Premiere Pro with AI-powered features like Generative Extend, which lets users extend clips by two seconds with 4K quality and background audio &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250402/p37#a250402p37)<!-- TECH:END -->
+ - [‘TikTok America,’ Amazon, and other rumors about who might buy TikTok](https://www.theverge.com/news/642158/tiktok-america-ban-amazon-applovin-rumor-deadline)
+ - [Nintendo Switch 2 full hardware specs: Battery life, connectivity, and more](https://www.androidauthority.com/nintendo-switch-2-hardware-specs-3540889/)
+ - [Some Nintendo Switch 2 games will be more expensive](https://www.theverge.com/news/642143/nintendo-switch-2-games-price-expensive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
