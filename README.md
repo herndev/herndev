@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Hyrule Warriors Will Take Fans Inside Zelda: Tears Of The Kingdom&#39;s Imprisoning War](https://kotaku.com/hyrule-warriors-imprisoning-war-zelda-tokt-switch-2-1851774238)
- - [Switch 2 Online Gets GameCube Games Including Zelda: Wind Waker](https://kotaku.com/switch-2-online-gamecube-games-wind-waker-fzero-classic-1851774234)
- - [Metroid Prime 4 And Pokémon Legends: Z-A Will Be Cross-Gen On Switch 2](https://kotaku.com/metroid-prime-4-pokemon-legends-z-a-switch-2-edition-1851774226)<!-- GAME:END -->
+ - [All Switch 2 launch games coming day one](https://www.polygon.com/nintendo-switch-2/550113/launch-games-titles-list-day-one)
+ - [Everything We Saw At The Big Switch 2 Reveal](https://kotaku.com/switch-2-reveal-nintendo-direct-mario-donkey-kong-1851774194)
+ - [New 3D Donkey Kong Adventure Could Be Switch 2&#39;s Mario Odyssey](https://kotaku.com/donkey-kong-bananza-switch-2-trailer-mario-odyssey-1851774243)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
