@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘TikTok America,’ Amazon, and other rumors about who might buy TikTok](https://www.theverge.com/news/642158/tiktok-america-ban-amazon-applovin-rumor-deadline)
- - [Nintendo Switch 2 full hardware specs: Battery life, connectivity, and more](https://www.androidauthority.com/nintendo-switch-2-hardware-specs-3540889/)
- - [Some Nintendo Switch 2 games will be more expensive](https://www.theverge.com/news/642143/nintendo-switch-2-games-price-expensive)<!-- TECH:END -->
+ - [Android 16 Beta 3.2 arrives with fixes for haptics gone crazy](https://www.androidauthority.com/android-16-beta-3-2-3540997/)
+ - [Europol says German and Dutch authorities shut down Kidflix, a CSAM streaming platform with 1.8M+ users between April 2022 and March 2025, on March 11 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250402/p43#a250402p43)
+ - [Apple stumbles with latest AirPods Max firmware](https://www.theverge.com/news/642140/apple-airpods-max-lossless-audio-update-delay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
