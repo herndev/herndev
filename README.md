@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best friends](http://9gag.com/gag/aPAobmV)
- - ⏩ [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
- - 👉 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)<!-- MEMES:END -->
+ - 💣 [Initial investigation reveals the collapsed building in Bangkok used low quality rebars.](http://9gag.com/gag/agm7eq1)
+ - ⏩ [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 👉 [Peak Ozzy](http://9gag.com/gag/ae9ZwEv)<!-- MEMES:END -->
 
 ---
 
