@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now its worth $10 million](http://9gag.com/gag/axy6qMn)
- - ⏩ [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
- - 👉 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)<!-- MEMES:END -->
+ - 💣 [Best friends](http://9gag.com/gag/aPAobmV)
+ - ⏩ [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - 👉 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)<!-- MEMES:END -->
 
 ---
 
