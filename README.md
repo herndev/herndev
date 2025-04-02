@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm says it is weighing an acquisition offer for Alphawave, which has a market cap of ~$1.3B and makes high-speed semiconductor and connectivity technology &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250402/p5#a250402p5)
- - [Samsung Galaxy S25 Edge launch may be delayed, but not for the reason you think](https://www.androidauthority.com/samsung-galaxy-s25-edge-launch-delayed-3540565/)
- - [Sources: Arm decided not to pursue a deal after recently seeking to acquire Alphawave, a UK-listed supplier of semiconductor IP that is exploring a sale &lpar;Reuters&rpar;](http://www.techmeme.com/250402/p4#a250402p4)<!-- TECH:END -->
+ - [Save $100 on Apple&#39;s iPad mini 7 at Amazon, now discounted to $399](https://appleinsider.com/articles/25/04/02/save-100-on-apples-ipad-mini-7-at-amazon-now-discounted-to-399?utm_medium=rss)
+ - [Researchers detail a new AI-powered Probability of Fire model, which they say could outperform the conventional danger forecasts used by wildfire trackers &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250402/p7#a250402p7)
+ - [The next Galaxy Ring could bring a major battery tech upgrade](https://www.androidauthority.com/samsung-galaxy-ring-2-solid-state-battery-3540584/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
