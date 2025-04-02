@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
- - ⏩ [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 👉 [Artichoke hearts](http://9gag.com/gag/ae9Z82O)<!-- MEMES:END -->
+ - 💣 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
+ - ⏩ [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)
+ - 👉 [Transaction](http://9gag.com/gag/abA4N1b)<!-- MEMES:END -->
 
 ---
 
