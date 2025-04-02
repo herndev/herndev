@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micro USB is the bane of my existence](https://www.theverge.com/tech/638566/micro-usb-is-the-worst)
- - [Motorola’s latest mid-ranger features a Pantone-validated display and cameras](https://www.androidauthority.com/motorola-edge-60-fusion-launch-3540623/)
- - [In a March 28 brief, X asked SCOTUS to shield user data from US law enforcement without &quot;probable cause&quot;, in Coinbase user James Harper&#39;s long-running case &lpar;Financial Times&rpar;](http://www.techmeme.com/250402/p13#a250402p13)<!-- TECH:END -->
+ - [iOS 18.4 appears to be restoring deleted apps and installing new ones](https://appleinsider.com/articles/25/04/02/ios-184-appears-to-be-restoring-deleted-apps-and-installing-new-ones?utm_medium=rss)
+ - [Sony Xperia 1 VII renders leak: This could be the best phone with a headphone jack](https://www.androidauthority.com/sony-xperia-1-vii-renders-3540654/)
+ - [Documents: the NLRB froze Janneke Parrish and Cher Scarlett&#39;s cases against Apple pending a review after Trump nominated an Apple attorney as general counsel &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250402/p15#a250402p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
