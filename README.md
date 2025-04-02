@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Weird! That Muse guy has played a serial killer twice](https://www.polygon.com/tv/550581/daredevil-muse-actor-born-again-who)
- - [AVerMedia Elite Go GC313Pro review](https://www.pcgamer.com/hardware/capture-cards/avermedia-elite-go-gc313pro-review/)
- - [What time does Title Update 1 release in  Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/550289/title-update-1-release-time-date-edt-pdt-bst)<!-- GAME:END -->
+ - [The MSI Modern 15 F13M: the modern laptop for modern life](https://www.pcgamer.com/hardware/the-msi-modern-15-f13m-the-modern-laptop-for-modern-life/)
+ - [Hollow Knight: Silksong returns as the #1 wishlisted game on Steam after Inzoi&#39;s  release—but is it just keeping the seat warm after 6 years of slowly-gathered hype?](https://www.pcgamer.com/games/action/hollow-knight-silksong-returns-as-the-1-wishlisted-game-on-steam-after-inzois-release-but-is-it-just-keeping-the-seat-warm-after-6-years-of-slowly-gathered-hype/)
+ - [Pokémon Go ‘A Dazzling Aria’ Masterwork Research tasks and rewards so far](https://www.polygon.com/pokemon-go-guide/528116/a-dazzling-aria-masterwork-research-shiny-meloetta)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
