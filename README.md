@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chef Robotics, which develops AI-powered robotic meal assembly systems, raised a $20.6M Series A led by Avataar Ventures, and an additional $22.5M in debt &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250401/p44#a250401p44)
- - [Google misses deadline for lifesaving Pixel Watch feature, but code hints it’s close](https://www.androidauthority.com/pixel-watch-3-loss-of-pulse-detection-rollout-delay-3540550/)
- - [How to stop Spotlight hogging disk space on macOS](https://appleinsider.com/inside/macos/tips/how-to-stop-spotlight-hogging-disk-space-on-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Qualcomm acquires the generative AI division of Vietnamese startup VinAI, following the acquisition of German AI and IoT company Edge Impulse in early March &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250402/p3#a250402p3)
+ - [Love the Ray-Ban Meta AI Glasses? A big upgrade is coming with a much bigger price tag](https://www.androidauthority.com/meta-hypernova-smart-glasses-3540551/)
+ - [Bybit shutters its NFT marketplace, following a similar decision by NFT marketplace X2Y2; Token Terminal: daily NFT trading volume has dropped 70% YoY to $5.34M &lpar;Adrian Zmudzinski/Cointelegraph&rpar;](http://www.techmeme.com/250402/p2#a250402p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
