@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
- - ⏩ [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
- - 👉 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)<!-- MEMES:END -->
+ - 💣 [The thing got weirder with every second](http://9gag.com/gag/a0e03DZ)
+ - ⏩ [At least he remembered his seatbelt](http://9gag.com/gag/a4PNO0v)
+ - 👉 [Old but Gold](http://9gag.com/gag/a9y5g7j)<!-- MEMES:END -->
 
 ---
 
