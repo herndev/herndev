@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon has put in a bid to acquire all of TikTok, but various parties involved do not appear to be taking it seriously, ahead of the April 5 deadline &lpar;New York Times&rpar;](http://www.techmeme.com/250402/p31#a250402p31)
- - [A profile of Larry Ellison, now 80 years old with a $175B fortune, as Oracle bids for TikTok US and he puts up most of his son David&#39;s $8B bid to buy Paramount &lpar;New York Times&rpar;](http://www.techmeme.com/250402/p30#a250402p30)
- - [The Nintendo Switch 2 has a camera accessory for video chats](https://www.theverge.com/news/641352/nintendo-switch-2-camera-launch)<!-- TECH:END -->
+ - [Find My Device is getting ready for its big UWB precision tracking upgrade &lpar;APK teardown&rpar;](https://www.androidauthority.com/find-my-device-uwb-3540807/)
+ - [Following Google Fi, now Tello also supports RCS on iPhone](https://www.androidauthority.com/tello-rcs-3540824/)
+ - [Best printer 2025: just buy a Brother laser printer, the winner is clear, middle finger in the air](https://www.theverge.com/tech/641940/best-printer-2025-just-buy-a-brother-laser-printer-middle-finger-in-the-air)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
