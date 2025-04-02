@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
- - ⏩ [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
+ - 💣 [And everyone is happy on the Matrix](http://9gag.com/gag/amo6ewy)
+ - ⏩ [Press F to pay respect](http://9gag.com/gag/ayN6O0y)
+ - 👉 [Would you rather?](http://9gag.com/gag/aD28yNx)<!-- MEMES:END -->
 
 ---
 
