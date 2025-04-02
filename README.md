@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 on Apple&#39;s iPad mini 7 at Amazon, now discounted to $399](https://appleinsider.com/articles/25/04/02/save-100-on-apples-ipad-mini-7-at-amazon-now-discounted-to-399?utm_medium=rss)
- - [Researchers detail a new AI-powered Probability of Fire model, which they say could outperform the conventional danger forecasts used by wildfire trackers &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250402/p7#a250402p7)
- - [The next Galaxy Ring could bring a major battery tech upgrade](https://www.androidauthority.com/samsung-galaxy-ring-2-solid-state-battery-3540584/)<!-- TECH:END -->
+ - [Roblox will let parents block people on their child’s friends list](https://www.theverge.com/news/641167/roblox-parental-controls-block-friends-experiences)
+ - [Seattle-based Gable, which develops enterprise data coordination tech, raised a $20M Series A led by Crane Venture Partners, taking its total funding to $27M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250402/p8#a250402p8)
+ - [Google Messages could finally let you text on your own time &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-snooze-apk-teardown-3540590/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
