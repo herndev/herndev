@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Find My Device is getting ready for its big UWB precision tracking upgrade &lpar;APK teardown&rpar;](https://www.androidauthority.com/find-my-device-uwb-3540807/)
- - [Following Google Fi, now Tello also supports RCS on iPhone](https://www.androidauthority.com/tello-rcs-3540824/)
- - [Best printer 2025: just buy a Brother laser printer, the winner is clear, middle finger in the air](https://www.theverge.com/tech/641940/best-printer-2025-just-buy-a-brother-laser-printer-middle-finger-in-the-air)<!-- TECH:END -->
+ - [Sources: Justin Sun bailed out Techteryx&#39;s TrueUSD after $456M in reserves, managed by First Digital, became illiquid; Techteryx says it was a victim of fraud &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250402/p36#a250402p36)
+ - [Cybersecurity Professor Faced China-Funding Inquiry Before Disappearing, Sources Say](https://www.wired.com/story/xiaofeng-wang-indiana-university-research-probe-china/)
+ - [FDUSD stablecoin depegged 9% after Justin Sun raised concerns over Hong Kong-based First Digital Trust&#39;s solvency; Binance alone holds ~$2.2B worth of FDUSD &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250402/p35#a250402p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
