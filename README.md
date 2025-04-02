@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Switch 2 launch games coming day one](https://www.polygon.com/nintendo-switch-2/550113/launch-games-titles-list-day-one)
- - [Everything We Saw At The Big Switch 2 Reveal](https://kotaku.com/switch-2-reveal-nintendo-direct-mario-donkey-kong-1851774194)
- - [New 3D Donkey Kong Adventure Could Be Switch 2&#39;s Mario Odyssey](https://kotaku.com/donkey-kong-bananza-switch-2-trailer-mario-odyssey-1851774243)<!-- GAME:END -->
+ - [Thank You for Five Decades Together – Celebrate Microsoft’s Anniversary with New Dynamic Background, Profile Themes, and More](https://news.xbox.com/en-us/2025/04/02/microsoft-50th-anniversary-dynamic-background-profile-theme/)
+ - [Help, my favorite anime couple is getting cockblocked by minding their own business](https://www.polygon.com/anime/550870/apothecary-diaries-jinshi-maomao-cockblocked)
+ - [Best Schedule 1 bungalow setup and layout](https://www.pcgamer.com/games/sim/schedule-1-bungalow-setup/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
