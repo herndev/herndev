@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In its first post-IPO earnings, Raspberry Pi reports FY 2024 revenue down 2% YoY to $259.5M, pre-tax profit down 57% YoY to $16.3M, and 1.9M Pi 5 units sold &lpar;Financial Times&rpar;](http://www.techmeme.com/250402/p11#a250402p11)
- - [Indian investment bank The Rainmaker Group says 36+ Indian tech startups like Flipkart and PhonePe with a combined $100B valuation are set to go public by 2027 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250402/p10#a250402p10)
- - [The Wikimedia Foundation says base bandwidth demand for downloading Wikimedia Commons multimedia content is up 50% since January 2024, driven by AI crawlers &lpar;Wikimedia&rpar;](http://www.techmeme.com/250402/p9#a250402p9)<!-- TECH:END -->
+ - [Micro USB is the bane of my existence](https://www.theverge.com/tech/638566/micro-usb-is-the-worst)
+ - [Motorola’s latest mid-ranger features a Pantone-validated display and cameras](https://www.androidauthority.com/motorola-edge-60-fusion-launch-3540623/)
+ - [In a March 28 brief, X asked SCOTUS to shield user data from US law enforcement without &quot;probable cause&quot;, in Coinbase user James Harper&#39;s long-running case &lpar;Financial Times&rpar;](http://www.techmeme.com/250402/p13#a250402p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
