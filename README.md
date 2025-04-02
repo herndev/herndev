@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Justin Sun bailed out Techteryx&#39;s TrueUSD after $456M in reserves, managed by First Digital, became illiquid; Techteryx says it was a victim of fraud &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250402/p36#a250402p36)
- - [Cybersecurity Professor Faced China-Funding Inquiry Before Disappearing, Sources Say](https://www.wired.com/story/xiaofeng-wang-indiana-university-research-probe-china/)
- - [FDUSD stablecoin depegged 9% after Justin Sun raised concerns over Hong Kong-based First Digital Trust&#39;s solvency; Binance alone holds ~$2.2B worth of FDUSD &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250402/p35#a250402p35)<!-- TECH:END -->
+ - [FTC chair says he’d ‘obey lawful orders’ if Trump asked to drop an antitrust case like Meta&amp;#8217;s](https://www.theverge.com/news/642068/ftc-chair-andrew-ferguson-trump-drop-meta-lawsuit-hypothetical)
+ - [Sources: AppLovin has made a bid for TikTok and talked to casino magnate Steve Wynn about backing it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250402/p38#a250402p38)
+ - [Adobe updates Premiere Pro with AI-powered features like Generative Extend, which lets users extend clips by two seconds with 4K quality and background audio &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250402/p37#a250402p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
