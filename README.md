@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No one&#39;s making a new BattleTech videogame any time soon, so I&#39;ll console myself with this $18 bundle of stuff for the tabletop RPG](https://www.pcgamer.com/games/strategy/no-ones-making-a-new-battletech-videogame-any-time-soon-so-ill-console-myself-with-this-usd18-bundle-of-stuff-for-the-tabletop-rpg/)
- - [Schedule 1 is my favourite co-op game of the year because it lets me bully my friends into doing the hard parts for me](https://www.pcgamer.com/games/sim/schedule-1-is-my-favourite-co-op-game-of-the-year-because-it-lets-me-bully-my-friends-into-doing-the-hard-parts-for-me/)
- - [ASRock B850 Steel Legend Wi-Fi review](https://www.pcgamer.com/hardware/motherboards/asrock-b850-steel-legend-wi-fi-review/)<!-- GAME:END -->
+ - [&#39;This is a gift&#39;: Baldur&#39;s Village mod maker says thanks to all &lpar;especially Swen&rpar; and promises more content including an &#39;Astarion&#39;s Ten Hearts event&#39; is on the way](https://www.pcgamer.com/games/life-sim/this-is-a-gift-baldurs-village-mod-maker-says-thanks-to-all-especially-swen-and-promises-more-content-including-an-astarions-ten-hearts-event-is-on-the-way/)
+ - [A new Donkey Kong 3D adventure is coming to Switch 2](https://www.polygon.com/nintendo-switch-2/551135/donkey-kong-bananza-switch-2-release-date)
+ - [Mario Kart World goes open-world and off-road on Nintendo Switch 2](https://www.polygon.com/nintendo-switch-2/551079/mario-kart-switch-2-release-date-details)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
