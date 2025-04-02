@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nab our longest-reigning game of all time and enough branching narratives to keep you busy for the rest of the year for under $15](https://www.pcgamer.com/games/rpg/nab-our-longest-reigning-game-of-all-time-and-enough-branching-narratives-to-keep-you-busy-for-the-rest-of-the-year-for-under-usd15/)
- - [It&#39;s clear Hasbro, the custodians of D&amp;D, have no idea what to do with Baldur&#39;s Gate 3&#39;s success—but that&#39;s nothing new, it&#39;s spent the past 10 years fumbling the bag](https://www.pcgamer.com/games/rpg/its-clear-hasbro-the-custodians-of-d-and-d-have-no-idea-what-to-do-with-baldurs-gate-3s-success-but-thats-nothing-new-its-spent-the-past-10-years-fumbling-the-bag/)
- - [The MSI Modern 15 F13M: the modern laptop for modern life](https://www.pcgamer.com/hardware/the-msi-modern-15-f13m-the-modern-laptop-for-modern-life/)<!-- GAME:END -->
+ - [Coming Soon to Game Pass: South of Midnight, Blue Prince, Borderlands 3, and More](https://news.xbox.com/en-us/2025/04/02/xbox-game-pass-april-2025-wave-1/)
+ - [A would-be Disco Elysium expansion has leaked online, with lots of details](https://www.polygon.com/gaming/551096/disco-elysium-locust-city-an-elysium-story-zaum-presentation)
+ - [AMD says the problem with Ryzen 7 9800X3D chips failing to boot is down to memory compatibility issues and not actually dead CPUs](https://www.pcgamer.com/hardware/processors/amd-says-the-problem-with-ryzen-7-9800x3d-chips-failing-to-boot-is-down-to-memory-compatibility-issues-and-not-actually-dead-cpus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
