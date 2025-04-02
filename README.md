@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
- - ⏩ [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
- - 👉 [What was the plan here?](http://9gag.com/gag/aqy6oAZ)<!-- MEMES:END -->
+ - 💣 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - ⏩ [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 👉 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)<!-- MEMES:END -->
 
 ---
 
