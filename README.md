@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s sales plummet 13 percent as Musk backlash grows](https://www.theverge.com/news/641311/tesla-q1-2025-delivery-production-sales-slump-musk)
- - [Android 15 blocked Phone Link from mirroring sensitive notifications, but Microsoft has a fix](https://www.androidauthority.com/phone-link-sensitive-notifications-fix-3540158/)
- - [Adobe launches Premiere Pro’s generative AI video extender](https://www.theverge.com/news/641270/adobe-premiere-pro-generative-extend-generally-available)<!-- TECH:END -->
+ - [Netflix will offer more languages for subtitles and dubbing when watching on a TV](https://www.theverge.com/news/641206/netflix-subtitles-dubbing-tv-languages)
+ - [Hollow Knight: Silksong is launching in 2025](https://www.theverge.com/news/610766/hollow-knight-silksong-release-date-trailer)
+ - [GameCube games are coming to Nintendo Switch Online](https://www.theverge.com/news/24339906/nintendo-switch-2-gamecube-nso)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
