@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Point-And-Click Adventures Of The 21st Century](https://kotaku.com/best-point-and-click-adventure-games-unavowed-norco-1851774003)
- - [How to get V-EGG-etable seeds in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-v-egg-etable-seeds/)
- - [Grand Theft Auto V Coming to Game Pass and PC Game Pass on April 15](https://news.xbox.com/en-us/2025/04/03/grand-theft-auto-v-game-pass-gtav-enhanced-april-15/)<!-- GAME:END -->
+ - [Monstrous 40ft Alligator, Two-Toed Tom Spotted Near New Orleans &lpar;with a Gaming Lounge in His Mouth&rpar;](https://news.xbox.com/en-us/2025/04/03/south-of-midnight-two-toed-tom-partnership-real-life-gator/)
+ - [Jason Momoa adopts bold marketing strat for A Minecraft Movie: Telling everyone he doesn&#39;t let his kids play games or have phones—&#39;I just want them to use their creativity in a different way&#39;](https://www.pcgamer.com/movies-tv/jason-momoa-adopts-bold-marketing-strat-for-a-minecraft-movie-telling-everyone-he-doesnt-let-his-kids-play-games-or-have-phones-i-just-want-them-to-use-their-creativity-in-a-different-way/)
+ - [&#39;We coded day and night for the two months to create the software we had said already existed&#39;: The history of Microsoft reminds me how far we&#39;ve come in just 50 years](https://www.pcgamer.com/hardware/we-coded-day-and-night-for-the-two-months-to-create-the-software-we-had-said-already-existed-the-history-of-microsoft-reminds-me-how-far-weve-come-in-just-50-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
