@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monstrous 40ft Alligator, Two-Toed Tom Spotted Near New Orleans &lpar;with a Gaming Lounge in His Mouth&rpar;](https://news.xbox.com/en-us/2025/04/03/south-of-midnight-two-toed-tom-partnership-real-life-gator/)
- - [Jason Momoa adopts bold marketing strat for A Minecraft Movie: Telling everyone he doesn&#39;t let his kids play games or have phones—&#39;I just want them to use their creativity in a different way&#39;](https://www.pcgamer.com/movies-tv/jason-momoa-adopts-bold-marketing-strat-for-a-minecraft-movie-telling-everyone-he-doesnt-let-his-kids-play-games-or-have-phones-i-just-want-them-to-use-their-creativity-in-a-different-way/)
- - [&#39;We coded day and night for the two months to create the software we had said already existed&#39;: The history of Microsoft reminds me how far we&#39;ve come in just 50 years](https://www.pcgamer.com/hardware/we-coded-day-and-night-for-the-two-months-to-create-the-software-we-had-said-already-existed-the-history-of-microsoft-reminds-me-how-far-weve-come-in-just-50-years/)<!-- GAME:END -->
+ - [R.A. Salvatore reveals his new D&amp;#038;D novel — and why he wanted to follow Drizzt’s daughter Breezy](https://www.polygon.com/books/549760/r-a-salvatore-reveal-finest-edge-of-twilight)
+ - [Megan 2&#39;s First Trailer Is Bonkers And Amazing](https://kotaku.com/megan-2-first-trailer-teaser-release-date-scifi-horror-1851774585)
+ - [Frieren: Beyond Journey’s End, Dan Da Dan lead the 2025 Anime Award nominations](https://www.polygon.com/anime/552268/anime-awards-2025-best-anime-nominees-crunchyroll)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
