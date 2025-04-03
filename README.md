@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Short life expectancy](http://9gag.com/gag/a870B61)
- - ⏩ [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
- - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
+ - 💣 [ANY Orc is memorable in Lotr, EVERY orc is forgettable in Hobbit.](http://9gag.com/gag/aXP4ZjD)
+ - ⏩ [Two types of introductions](http://9gag.com/gag/a4P5pYm)
+ - 👉 [He won the professor award !!](http://9gag.com/gag/a2v0Bm9)<!-- MEMES:END -->
 
 ---
 
