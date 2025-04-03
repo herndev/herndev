@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Witch Watch is the funniest anime I’ve seen all year](https://www.polygon.com/anime/551766/witch-watch-review-funny-netflix-crunchyroll)
- - [Pokémon Go ‘A Striking Shadow’ Marshadow special research tasks and rewards](https://www.polygon.com/pokemon-go-guide/552210/a-striking-shadow-research-marshadow)
- - [How to get all Paldean Tauros breeds in Pokémon Go](https://www.polygon.com/pokemon-go-guide/552194/paldean-tauros-forms-aqua-blaze-combat-breed-iberian-peninsula)<!-- GAME:END -->
+ - [Trump Shocks With Massive New Tariffs That Could Make The Switch 2 Cost More Than $600](https://kotaku.com/switch-2-price-trump-tariffs-vietnam-china-trade-war-1851774438)
+ - [Using the Switch 2’s Joy-Con mouse is only kind of like using a mouse](https://www.polygon.com/nintendo-switch-2/551761/joy-con-switch-2-mouse-hands-on-review)
+ - [Switch 2 won’t kill your hands like Switch 1, but it ain’t perfect](https://www.polygon.com/nintendo-switch-2/551854/switch-2-hands-on-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
