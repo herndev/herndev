@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
- - ⏩ [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
- - 👉 [Artichoke hearts](http://9gag.com/gag/ae9Z82O)<!-- MEMES:END -->
+ - 💣 [I love after bath Massage](http://9gag.com/gag/a9y5gG0)
+ - ⏩ [April Fools\u2026.. NOT!](http://9gag.com/gag/aLn4yr5)
+ - 👉 [...](http://9gag.com/gag/aPAoKoq)<!-- MEMES:END -->
 
 ---
 
