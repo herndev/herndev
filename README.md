@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: You have less than one month left to buy cheap gaming handhelds in the US](https://www.androidauthority.com/gaming-handheld-de-minimis-end-3541160/)
- - [Spotify rolls out new ad tools, including an AI tool in the US and Canada to generate scripts and voiceovers, and pitches itself to advertisers as &quot;nutritional&quot; &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250403/p9#a250403p9)
- - [Amazon is ready to launch its Starlink competitor](https://www.theverge.com/news/642456/amazon-is-ready-to-launch-its-starlink-competitor)<!-- TECH:END -->
+ - [AV1 is supposed to make streaming better, so why isn’t everyone using it?](https://www.theverge.com/tech/635020/av1-streaming-netflix-youtube-google-adoption)
+ - [Google&amp;#8217;s NotebookLM can now find its own sources](https://www.theverge.com/news/642490/google-notebooklm-discover-sources-ai-audio-overviews)
+ - [Sources: Microsoft has halted talks for, or delayed development of, data center projects in Indonesia, the UK, Australia, Illinois, North Dakota, and Wisconsin &lpar;Bloomberg&rpar;](http://www.techmeme.com/250403/p12#a250403p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
