@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Live action](http://9gag.com/gag/adBnyPM)
- - ⏩ [This is a great stick](http://9gag.com/gag/aLn4YMA)
- - 👉 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)<!-- MEMES:END -->
+ - ⏩ [Helper cat is helping](http://9gag.com/gag/azxGgLK)
+ - 👉 [Those legs!](http://9gag.com/gag/aNDVmzb)<!-- MEMES:END -->
 
 ---
 
