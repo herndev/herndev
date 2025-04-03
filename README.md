@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Devil May Cry: The Kotaku Review](https://kotaku.com/devil-may-cry-netflix-review-season-1-dante-lady-vergil-1851774417)
- - [Today&#39;s Wordle answer for Thursday, April 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-3-2025/)
- - [Dimension 20’s season premiere comes with a post-credits surprise](https://www.polygon.com/tv/550779/dimension-20-brennan-mulligan-titan-take-down-credits-scene)<!-- GAME:END -->
+ - [&#39;WE WON!&#39;—It was just 3 &lpar;technically 4&rpar; clips of Silksong news, but the community has fully lost it in joyous rapture](https://www.pcgamer.com/games/we-won-it-was-just-3-technically-4-clips-of-silksong-news-but-the-community-has-fully-lost-it-in-joyous-rapture/)
+ - [REPO monster list: Every terror you can face](https://www.pcgamer.com/games/horror/repo-monsters/)
+ - [Netflix’s Devil May Cry: The Kotaku Review](https://kotaku.com/devil-may-cry-netflix-review-season-1-dante-lady-vergil-1851774417)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
