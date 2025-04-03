@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A natural problem solver.](http://9gag.com/gag/aoyRBpn)
- - ⏩ [Would you rather?](http://9gag.com/gag/aD28yNx)
- - 👉 [That makes sense](http://9gag.com/gag/agm7MNK)<!-- MEMES:END -->
+ - 💣 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)
+ - ⏩ [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
+ - 👉 [Gazan kid telling off Hamas to their faces after they used him as a human shield.](http://9gag.com/gag/aqy6o3p)<!-- MEMES:END -->
 
 ---
 
