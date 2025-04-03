@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s Switch 2 era comes at a price](https://www.theverge.com/games/642868/nintendo-switch-2-price-console-games-accessories)
- - [Tariffs explained: What they are and how they affect smartphones](https://www.androidauthority.com/smartphone-tariffs-3541309/)
- - [Colorful Razr Plus 2025 leak shows off Motorola’s next foldable in multiple hues](https://www.androidauthority.com/motorola-razr-plus-2025-images-leak-3541317/)<!-- TECH:END -->
+ - [Apple&#39;s M2 MacBook Air is down to $749, but stock levels are low](https://appleinsider.com/articles/25/04/03/apples-m2-macbook-air-is-down-to-749-but-stock-levels-are-low?utm_medium=rss)
+ - [Samsung may have already locked in a new launch date for the Galaxy S25 Edge](https://www.androidauthority.com/samsung-galaxy-s25-edge-may-launch-europe-prices-3541313/)
+ - [Google DeepMind outlines its approach to AGI safety in four key areas of risk: misuse, misalignment, mistakes, and structural risks, focusing on the first two &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/250403/p26#a250403p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
