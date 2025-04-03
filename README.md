@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Y2K, now on Max, is worth watching just for its one spectacular cameo](https://www.polygon.com/horror/551637/y2k-streaming-max-fred-durst-cameo-limp-bizkit)
- - [Those Elden Ring Switch 2 extras are coming to PC, and the game&#39;s now sold an incredible 28 million copies](https://www.pcgamer.com/games/those-elden-ring-switch-2-extras-are-coming-to-pc-and-the-games-now-sold-an-incredible-28-million-copies/)
- - [Fear not, potato gamers, the RuneScape Dragonwilds system requirements are pretty light and hallelujah for a new UE5 game that doesn&#39;t require ray tracing](https://www.pcgamer.com/hardware/fear-not-potato-gamers-the-runescape-dragonwilds-system-requirements-are-pretty-light-and-hallelujah-for-a-new-ue5-game-that-doesnt-require-ray-tracing/)<!-- GAME:END -->
+ - [The Best Point-And-Click Adventures Of The 21st Century](https://kotaku.com/best-point-and-click-adventure-games-unavowed-norco-1851774003)
+ - [How to get V-EGG-etable seeds in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-v-egg-etable-seeds/)
+ - [Grand Theft Auto V Coming to Game Pass and PC Game Pass on April 15](https://news.xbox.com/en-us/2025/04/03/grand-theft-auto-v-game-pass-gtav-enhanced-april-15/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
