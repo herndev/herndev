@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - ⏩ [`Do not dare to correct me` moment](http://9gag.com/gag/a6Z50BR)
- - 👉 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)<!-- MEMES:END -->
+ - ⏩ [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
+ - 👉 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)<!-- MEMES:END -->
 
 ---
 
