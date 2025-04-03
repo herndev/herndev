@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyberhaven, whose AI-powered tech lets companies detect when employees use internal data in an unauthorized manner, raised a $100M Series D at a $1B+ valuation &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250403/p7#a250403p7)
- - [T-Mobile will literally give you free money if you break up with your internet provider right now!](https://www.androidauthority.com/t-mobile-home-internet-switch-300-offer-3541122/)
- - [Google Photos tagged the wrong face? It could soon get easier to fix &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-simplify-face-group-management-apk-teardown-3541079/)<!-- TECH:END -->
+ - [PSA: You have less than one month left to buy cheap gaming handhelds in the US](https://www.androidauthority.com/gaming-handheld-de-minimis-end-3541160/)
+ - [Spotify rolls out new ad tools, including an AI tool in the US and Canada to generate scripts and voiceovers, and pitches itself to advertisers as &quot;nutritional&quot; &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250403/p9#a250403p9)
+ - [Amazon is ready to launch its Starlink competitor](https://www.theverge.com/news/642456/amazon-is-ready-to-launch-its-starlink-competitor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
