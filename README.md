@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woooooo](http://9gag.com/gag/aByVpo2)
- - ⏩ [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
- - 👉 [Artichoke hearts](http://9gag.com/gag/ae9Z82O)<!-- MEMES:END -->
+ - 💣 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
+ - ⏩ [April Fools\u2026.. NOT!](http://9gag.com/gag/aLn4yr5)
+ - 👉 [Uninvited Guest](http://9gag.com/gag/a6Z5vyb)<!-- MEMES:END -->
 
 ---
 
