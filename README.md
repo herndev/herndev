@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
- - ⏩ [Two types of introductions](http://9gag.com/gag/a4P5pYm)
- - 👉 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)<!-- MEMES:END -->
+ - 💣 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
+ - ⏩ [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
+ - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
 
 ---
 
