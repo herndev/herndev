@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;WE WON!&#39;—It was just 3 &lpar;technically 4&rpar; clips of Silksong news, but the community has fully lost it in joyous rapture](https://www.pcgamer.com/games/we-won-it-was-just-3-technically-4-clips-of-silksong-news-but-the-community-has-fully-lost-it-in-joyous-rapture/)
- - [REPO monster list: Every terror you can face](https://www.pcgamer.com/games/horror/repo-monsters/)
- - [Netflix’s Devil May Cry: The Kotaku Review](https://kotaku.com/devil-may-cry-netflix-review-season-1-dante-lady-vergil-1851774417)<!-- GAME:END -->
+ - [Witch Watch is the funniest anime I’ve seen all year](https://www.polygon.com/anime/551766/witch-watch-review-funny-netflix-crunchyroll)
+ - [Pokémon Go ‘A Striking Shadow’ Marshadow special research tasks and rewards](https://www.polygon.com/pokemon-go-guide/552210/a-striking-shadow-research-marshadow)
+ - [How to get all Paldean Tauros breeds in Pokémon Go](https://www.polygon.com/pokemon-go-guide/552194/paldean-tauros-forms-aqua-blaze-combat-breed-iberian-peninsula)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
