@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trump Shocks With Massive New Tariffs That Could Make The Switch 2 Cost More Than $600](https://kotaku.com/switch-2-price-trump-tariffs-vietnam-china-trade-war-1851774438)
- - [Using the Switch 2’s Joy-Con mouse is only kind of like using a mouse](https://www.polygon.com/nintendo-switch-2/551761/joy-con-switch-2-mouse-hands-on-review)
- - [Switch 2 won’t kill your hands like Switch 1, but it ain’t perfect](https://www.polygon.com/nintendo-switch-2/551854/switch-2-hands-on-review)<!-- GAME:END -->
+ - [Y2K, now on Max, is worth watching just for its one spectacular cameo](https://www.polygon.com/horror/551637/y2k-streaming-max-fred-durst-cameo-limp-bizkit)
+ - [Those Elden Ring Switch 2 extras are coming to PC, and the game&#39;s now sold an incredible 28 million copies](https://www.pcgamer.com/games/those-elden-ring-switch-2-extras-are-coming-to-pc-and-the-games-now-sold-an-incredible-28-million-copies/)
+ - [Fear not, potato gamers, the RuneScape Dragonwilds system requirements are pretty light and hallelujah for a new UE5 game that doesn&#39;t require ray tracing](https://www.pcgamer.com/hardware/fear-not-potato-gamers-the-runescape-dragonwilds-system-requirements-are-pretty-light-and-hallelujah-for-a-new-ue5-game-that-doesnt-require-ray-tracing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
