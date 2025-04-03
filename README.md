@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)
- - ⏩ [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
+ - 💣 [Uninvited Guest](http://9gag.com/gag/a6Z5vyb)
+ - ⏩ [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
  - 👉 [Gazan kid telling off Hamas to their faces after they used him as a human shield.](http://9gag.com/gag/aqy6o3p)<!-- MEMES:END -->
 
 ---
