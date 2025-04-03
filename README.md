@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A researcher says changes in X&#39;s web app show X plans to let Verified Organizations bid on abandoned X handles with prices ranging from $10,000 to $500,000+ &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250403/p32#a250403p32)
- - [Sources: the EU is preparing penalties against X for breaking the DSA, including demands for product changes and a fine that a source says could surpass $1B &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250403/p31#a250403p31)
- - [Trump’s tariffs put the iPhone in a tough spot](https://www.theverge.com/tech/642769/trump-tariff-smartphone-apple-samsung-google)<!-- TECH:END -->
+ - [Trump&amp;#8217;s tariffs mean you&amp;#8217;ll pay more for all gadgets](https://www.theverge.com/tech/643041/trump-tariff-consumer-electronics-gadgets-smartphones-laptops-wearables)
+ - [Here’s what gaming on Android Auto actually requires](https://www.androidauthority.com/android-auto-gaming-requirements-3541492/)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
