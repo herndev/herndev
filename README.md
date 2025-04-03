@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Thick thighs save lives&#39;: Marvel Rivals players are desperate for Emma Frost to crush them between her thunderous gams when season 2 goes live](https://www.pcgamer.com/games/third-person-shooter/thick-thighs-save-lives-marvel-rivals-players-are-desperate-for-emma-frost-to-crush-them-between-her-thunderous-gams-when-season-2-goes-live/)
- - [I don&#39;t know if Sunderfolk can replace tabletop RPGs, but its smartphone controls feel like a great alternative if your DM&#39;s too exhausted to run a campaign](https://www.pcgamer.com/games/rpg/i-dont-know-if-sunderfolk-can-replace-tabletop-rpgs-but-its-smartphone-controls-feel-like-a-great-alternative-if-your-dms-too-exhausted-to-run-a-campaign/)
- - [This Strange Monster Hunter Wilds Weapon Lets You Team Up With Insects](https://kotaku.com/monster-hunter-wilds-insect-glaive-kinsect-essence-1851774450)<!-- GAME:END -->
+ - [Switch 2 vs. Steam Deck: How Nintendo’s next console measures up](https://www.polygon.com/analysis/510197/switch-2-vs-steam-deck-comparison-specs-hardware)
+ - [Monkey Palace, a Lego tower-building game for the whole family, is 32% off](https://www.polygon.com/good-deals/545234/monkey-palace-amazon-big-spring-sale)
+ - [Based on Capcom&#39;s spotty patch history, you might want to back up your Monster Hunter Wilds save before Title Update 1 hits](https://www.pcgamer.com/games/action/based-on-capcoms-spotty-patch-history-you-might-want-to-back-up-your-monster-hunter-wilds-save-before-title-update-1-hits/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
