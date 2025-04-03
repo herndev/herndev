@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After months of silence, Bungie fires up the Marathon social media machine to tease... well, something](https://www.pcgamer.com/games/fps/after-months-of-silence-bungie-fires-up-the-marathon-social-media-machine-to-tease-well-something/)
- - [Where are all the first-party Switch 2 launch games?](https://www.polygon.com/nintendo-switch-2/552601/switch-2-game-release-first-party-strategy)
- - [Switch 2 Has Physical Game Collectors Freaking Out, And Elden Ring Is A Perfect Example](https://kotaku.com/switch-2-elden-ring-digital-downloads-1851774694)<!-- GAME:END -->
+ - [Tabletop industry in full panic as Trump tariffs are poised to erase decades of growth](https://www.polygon.com/tabletop-games/552558/tabletop-panic-tariffs-on-china-layoffs-bankruptcy-gama)
+ - [South of Midnight review](https://www.pcgamer.com/games/action/south-of-midnight-review/)
+ - [One of the Switch 2&#39;s biggest innovations is &#39;Discord but worse&#39;](https://www.pcgamer.com/hardware/one-of-the-switch-2s-biggest-innovations-is-discord-but-worse/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
