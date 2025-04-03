@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple &amp; Michigan State University partner to boost US manufacturing skills](https://appleinsider.com/articles/25/04/03/apple-michigan-state-university-partner-to-boost-us-manufacturing-skills?utm_medium=rss)
- - [Portland-based Hydrolix, a data lake service that offers a repository for log data, raised an $80M Series C led by QED, bringing its total raised to $148M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250403/p23#a250403p23)
- - [OpenAI and Anthropic are fighting over college students with free AI](https://www.theverge.com/ai-artificial-intelligence/641193/openai-anthropic-education-tool-college)<!-- TECH:END -->
+ - [Nintendo’s Switch 2 era comes at a price](https://www.theverge.com/games/642868/nintendo-switch-2-price-console-games-accessories)
+ - [Tariffs explained: What they are and how they affect smartphones](https://www.androidauthority.com/smartphone-tariffs-3541309/)
+ - [Colorful Razr Plus 2025 leak shows off Motorola’s next foldable in multiple hues](https://www.androidauthority.com/motorola-razr-plus-2025-images-leak-3541317/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
