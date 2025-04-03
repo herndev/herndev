@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
- - ⏩ [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
- - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
+ - 💣 [`Do not dare to correct me` moment](http://9gag.com/gag/a6Z50BR)
+ - ⏩ [From the archives](http://9gag.com/gag/a340ooQ)
+ - 👉 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)<!-- MEMES:END -->
 
 ---
 
