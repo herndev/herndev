@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - ⏩ [Not cool](http://9gag.com/gag/a7o045z)
- - 👉 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)<!-- MEMES:END -->
+ - 💣 [I like this version of Snow White more.](http://9gag.com/gag/aLnGR8W)
+ - ⏩ [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)
+ - 👉 [Helper cat is helping](http://9gag.com/gag/azxGgLK)<!-- MEMES:END -->
 
 ---
 
