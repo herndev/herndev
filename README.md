@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trust issues loading\u2026 this baby\u2019s gonna start reading ingredient labels before taking a sip!](http://9gag.com/gag/aByVApx)
- - ⏩ [Rigged Tax System](http://9gag.com/gag/aW4nzb6)
- - 👉 [Hard to compete with technology](http://9gag.com/gag/abA4ne9)<!-- MEMES:END -->
+ - 💣 [Woooooo](http://9gag.com/gag/aByVpo2)
+ - ⏩ [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
+ - 👉 [Artichoke hearts](http://9gag.com/gag/ae9Z82O)<!-- MEMES:END -->
 
 ---
 
