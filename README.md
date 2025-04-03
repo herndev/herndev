@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indie studio Heart Machine is experimenting with Patreon because ‘money is tough to come by’](https://www.theverge.com/games/640287/heart-machine-patreon-gdc)
- - [If you hate how reverse wireless charging means you can’t use your phone, check this out](https://www.androidauthority.com/reverse-wireless-charging-display-3541276/)
- - [The Blunt Force Trauma of the Trump Tariffs](https://www.wired.com/story/trump-tariffs-penguins/)<!-- TECH:END -->
+ - [YouTube is updating Shorts with TikTok-like editing features](https://www.theverge.com/news/642486/youtube-shorts-new-video-editing-features-tiktok)
+ - [The White House appears to have used an oversimplified calculation that several major AI chatbots recommend to calculate reciprocal tariffs &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250403/p21#a250403p21)
+ - [Donkey Kong Bananza was best in show at the Switch 2 hands-on](https://www.theverge.com/games/642699/donkey-kong-bananza-hands-on-preview-switch-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
