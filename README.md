@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dimension 20’s season premiere comes with a post-credits surprise](https://www.polygon.com/tv/550779/dimension-20-brennan-mulligan-titan-take-down-credits-scene)
  - [Switch 2 Zelda upgrades have achievements, weird GPS voice assistant](https://www.polygon.com/nintendo-switch-2/552070/switch-2-zelda-notes-app-tears-of-the-kingdom-breath-of-the-wild)
- - [Farewell physical media — some Nintendo Switch 2 games aren’t on the carts](https://www.polygon.com/nintendo-switch-2/551614/nintendo-switch-2-game-key-cards)
- - [Shenmue is the most influential game of all time, according to new poll](https://www.polygon.com/news/550231/shenmue-bafta-most-influential-game-all-time)<!-- GAME:END -->
+ - [Farewell physical media — some Nintendo Switch 2 games aren’t on the carts](https://www.polygon.com/nintendo-switch-2/551614/nintendo-switch-2-game-key-cards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
