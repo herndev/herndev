@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Ireland&#39;s DPC will fine TikTok €500M+ before the end of April for illegally shipping European users&#39; data to China, after a lengthy investigation &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250403/p14#a250403p14)
- - [Google Discover’s latest change sits on the thin line between a bug and a feature](https://www.androidauthority.com/google-discover-full-width-redesign-3541194/)
- - [12 Best Umbrellas &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-umbrellas/)<!-- TECH:END -->
+ - [Android 16 could mimic how iOS handles app settings, but it’s not as bad as you think](https://www.androidauthority.com/android-16-app-settings-3540868/)
+ - [We Played With the Nintendo Switch 2. It&#39;s Refined But Unsurprising](https://www.wired.com/story/this-is-the-nintendo-switch-2/)
+ - [Nintendo Switch 2 hands-on: it’s all in the games](https://www.theverge.com/nintendo/642420/nintendo-switch-2-hands-on-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
