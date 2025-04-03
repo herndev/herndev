@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are some sweet Samsung monitor deals for different types of users](https://www.androidauthority.com/samsung-monitor-deals-3541011/)
- - [Epic Games head Tim Sweeney criticizes Apple, calls it a &#39;gangster-style&#39; business](https://appleinsider.com/articles/25/04/02/epic-games-head-tim-sweeney-criticizes-apple-calls-it-a-gangster-style-business?utm_medium=rss)
- - [The White House says &quot;de minimis&quot; exemptions for packages under $800 from China and Hong Kong will end on May 2, affecting Temu, Shein, and other marketplaces &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250402/p49#a250402p49)<!-- TECH:END -->
+ - [Here’s how you can preorder the Nintendo Switch 2 &lpar;or try to&rpar;](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
+ - [Key parts of the US Social Security site have crashed in the past week, as phone support is reduced; report: SSA&#39;s site was down four times in 10 days in March &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/250402/p50#a250402p50)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 3, #396](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-3-396/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
