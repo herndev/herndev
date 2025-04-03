@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 vs. Steam Deck: How Nintendo’s next console measures up](https://www.polygon.com/analysis/510197/switch-2-vs-steam-deck-comparison-specs-hardware)
- - [Monkey Palace, a Lego tower-building game for the whole family, is 32% off](https://www.polygon.com/good-deals/545234/monkey-palace-amazon-big-spring-sale)
- - [Based on Capcom&#39;s spotty patch history, you might want to back up your Monster Hunter Wilds save before Title Update 1 hits](https://www.pcgamer.com/games/action/based-on-capcoms-spotty-patch-history-you-might-want-to-back-up-your-monster-hunter-wilds-save-before-title-update-1-hits/)<!-- GAME:END -->
+ - [After months of silence, Bungie fires up the Marathon social media machine to tease... well, something](https://www.pcgamer.com/games/fps/after-months-of-silence-bungie-fires-up-the-marathon-social-media-machine-to-tease-well-something/)
+ - [Where are all the first-party Switch 2 launch games?](https://www.polygon.com/nintendo-switch-2/552601/switch-2-game-release-first-party-strategy)
+ - [Switch 2 Has Physical Game Collectors Freaking Out, And Elden Ring Is A Perfect Example](https://kotaku.com/switch-2-elden-ring-digital-downloads-1851774694)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
