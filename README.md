@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France says a second EU response to Trump&#39;s tariffs will cover digital services, including those provided by Google, Amazon, Meta, Apple, and Microsoft &lpar;Euractiv&rpar;](http://www.techmeme.com/250403/p28#a250403p28)
- - [Epic’s latest free Android game will have you defending your magical kingdom](https://www.androidauthority.com/epic-games-store-mobile-doodle-kingdom-3541405/)
- - [Amazon can now buy products from other websites for you](https://www.theverge.com/news/642947/amazon-ai-buy-products-other-websites)<!-- TECH:END -->
+ - [Here are the best iPad deals you can get](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Microsoft releases its $350 enterprise Windows 365 Link mini PC in the US, Canada, the UK, Germany, and other countries, after unveiling it in November 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250403/p30#a250403p30)
+ - [TikTok is shutting down its Instagram-like Notes app](https://www.theverge.com/news/643063/tiktok-notes-shutting-down-instagram-rival)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
