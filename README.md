@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AV1 is supposed to make streaming better, so why isn’t everyone using it?](https://www.theverge.com/tech/635020/av1-streaming-netflix-youtube-google-adoption)
- - [Google&amp;#8217;s NotebookLM can now find its own sources](https://www.theverge.com/news/642490/google-notebooklm-discover-sources-ai-audio-overviews)
- - [Sources: Microsoft has halted talks for, or delayed development of, data center projects in Indonesia, the UK, Australia, Illinois, North Dakota, and Wisconsin &lpar;Bloomberg&rpar;](http://www.techmeme.com/250403/p12#a250403p12)<!-- TECH:END -->
+ - [Sources: Ireland&#39;s DPC will fine TikTok €500M+ before the end of April for illegally shipping European users&#39; data to China, after a lengthy investigation &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250403/p14#a250403p14)
+ - [Google Discover’s latest change sits on the thin line between a bug and a feature](https://www.androidauthority.com/google-discover-full-width-redesign-3541194/)
+ - [12 Best Umbrellas &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-umbrellas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
