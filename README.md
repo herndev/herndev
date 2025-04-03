@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is updating Shorts with TikTok-like editing features](https://www.theverge.com/news/642486/youtube-shorts-new-video-editing-features-tiktok)
- - [The White House appears to have used an oversimplified calculation that several major AI chatbots recommend to calculate reciprocal tariffs &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250403/p21#a250403p21)
- - [Donkey Kong Bananza was best in show at the Switch 2 hands-on](https://www.theverge.com/games/642699/donkey-kong-bananza-hands-on-preview-switch-2)<!-- TECH:END -->
+ - [Apple &amp; Michigan State University partner to boost US manufacturing skills](https://appleinsider.com/articles/25/04/03/apple-michigan-state-university-partner-to-boost-us-manufacturing-skills?utm_medium=rss)
+ - [Portland-based Hydrolix, a data lake service that offers a repository for log data, raised an $80M Series C led by QED, bringing its total raised to $148M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250403/p23#a250403p23)
+ - [OpenAI and Anthropic are fighting over college students with free AI](https://www.theverge.com/ai-artificial-intelligence/641193/openai-anthropic-education-tool-college)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
