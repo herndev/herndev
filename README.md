@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, April 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-3-2025/)
  - [Dimension 20’s season premiere comes with a post-credits surprise](https://www.polygon.com/tv/550779/dimension-20-brennan-mulligan-titan-take-down-credits-scene)
- - [Switch 2 Zelda upgrades have achievements, weird GPS voice assistant](https://www.polygon.com/nintendo-switch-2/552070/switch-2-zelda-notes-app-tears-of-the-kingdom-breath-of-the-wild)
- - [Farewell physical media — some Nintendo Switch 2 games aren’t on the carts](https://www.polygon.com/nintendo-switch-2/551614/nintendo-switch-2-game-key-cards)<!-- GAME:END -->
+ - [Switch 2 Zelda upgrades have achievements, weird GPS voice assistant](https://www.polygon.com/nintendo-switch-2/552070/switch-2-zelda-notes-app-tears-of-the-kingdom-breath-of-the-wild)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
