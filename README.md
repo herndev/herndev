@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/agm7W6n)
+ - 💣 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
  - ⏩ [`Do not dare to correct me` moment](http://9gag.com/gag/a6Z50BR)
- - 👉 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)<!-- MEMES:END -->
+ - 👉 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)<!-- MEMES:END -->
 
 ---
 
