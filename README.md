@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&amp;#8217;s miniature Windows 365 Link PC is available to buy now](https://www.theverge.com/news/642594/microsoft-windows-365-link-pc-on-sale)
- - [Google Pixel 10 may make some compromises to fit in its telephoto camera](https://www.androidauthority.com/pixel-10-telephoto-camera-confirmed-3540816/)
- - [&#39;RoboCop: Rogue City&#39; set to storm onto Mac on April 30](https://appleinsider.com/articles/25/04/03/robocop-rogue-city-set-to-storm-onto-mac-on-april-30?utm_medium=rss)<!-- TECH:END -->
+ - [Indie studio Heart Machine is experimenting with Patreon because ‘money is tough to come by’](https://www.theverge.com/games/640287/heart-machine-patreon-gdc)
+ - [If you hate how reverse wireless charging means you can’t use your phone, check this out](https://www.androidauthority.com/reverse-wireless-charging-display-3541276/)
+ - [The Blunt Force Trauma of the Trump Tariffs](https://www.wired.com/story/trump-tariffs-penguins/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
