@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 MacBook Air is down to $749, but stock levels are low](https://appleinsider.com/articles/25/04/03/apples-m2-macbook-air-is-down-to-749-but-stock-levels-are-low?utm_medium=rss)
- - [Samsung may have already locked in a new launch date for the Galaxy S25 Edge](https://www.androidauthority.com/samsung-galaxy-s25-edge-may-launch-europe-prices-3541313/)
- - [Google DeepMind outlines its approach to AGI safety in four key areas of risk: misuse, misalignment, mistakes, and structural risks, focusing on the first two &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/250403/p26#a250403p26)<!-- TECH:END -->
+ - [France says a second EU response to Trump&#39;s tariffs will cover digital services, including those provided by Google, Amazon, Meta, Apple, and Microsoft &lpar;Euractiv&rpar;](http://www.techmeme.com/250403/p28#a250403p28)
+ - [Epic’s latest free Android game will have you defending your magical kingdom](https://www.androidauthority.com/epic-games-store-mobile-doodle-kingdom-3541405/)
+ - [Amazon can now buy products from other websites for you](https://www.theverge.com/news/642947/amazon-ai-buy-products-other-websites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
