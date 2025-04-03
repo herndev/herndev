@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals you can get](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Microsoft releases its $350 enterprise Windows 365 Link mini PC in the US, Canada, the UK, Germany, and other countries, after unveiling it in November 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250403/p30#a250403p30)
- - [TikTok is shutting down its Instagram-like Notes app](https://www.theverge.com/news/643063/tiktok-notes-shutting-down-instagram-rival)<!-- TECH:END -->
+ - [A researcher says changes in X&#39;s web app show X plans to let Verified Organizations bid on abandoned X handles with prices ranging from $10,000 to $500,000+ &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250403/p32#a250403p32)
+ - [Sources: the EU is preparing penalties against X for breaking the DSA, including demands for product changes and a fine that a source says could surpass $1B &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250403/p31#a250403p31)
+ - [Trump’s tariffs put the iPhone in a tough spot](https://www.theverge.com/tech/642769/trump-tariff-smartphone-apple-samsung-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
