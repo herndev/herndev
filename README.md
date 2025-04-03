@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [R.A. Salvatore reveals his new D&amp;#038;D novel — and why he wanted to follow Drizzt’s daughter Breezy](https://www.polygon.com/books/549760/r-a-salvatore-reveal-finest-edge-of-twilight)
- - [Megan 2&#39;s First Trailer Is Bonkers And Amazing](https://kotaku.com/megan-2-first-trailer-teaser-release-date-scifi-horror-1851774585)
- - [Frieren: Beyond Journey’s End, Dan Da Dan lead the 2025 Anime Award nominations](https://www.polygon.com/anime/552268/anime-awards-2025-best-anime-nominees-crunchyroll)<!-- GAME:END -->
+ - [Marvel Rivals Reveals Two New Characters For Its Next Season](https://kotaku.com/marvel-rivals-frost-ultron-characters-xmen-season-2-1851774548)
+ - [Right now is the best time to Wonder Pick in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/551123/sneak-peek-wonder-pick-event)
+ - [The multiplayer shooter with moose-propelled artillery is having an open beta this weekend](https://www.pcgamer.com/games/fps/the-multiplayer-shooter-with-moose-propelled-artillery-is-having-an-open-beta-this-weekend/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
