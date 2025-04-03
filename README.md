@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ANY Orc is memorable in Lotr, EVERY orc is forgettable in Hobbit.](http://9gag.com/gag/aXP4ZjD)
- - ⏩ [Two types of introductions](http://9gag.com/gag/a4P5pYm)
- - 👉 [He won the professor award !!](http://9gag.com/gag/a2v0Bm9)<!-- MEMES:END -->
+ - 💣 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
+ - ⏩ [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
+ - 👉 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)<!-- MEMES:END -->
 
 ---
 
