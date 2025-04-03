@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals Reveals Two New Characters For Its Next Season](https://kotaku.com/marvel-rivals-frost-ultron-characters-xmen-season-2-1851774548)
- - [Right now is the best time to Wonder Pick in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/551123/sneak-peek-wonder-pick-event)
- - [The multiplayer shooter with moose-propelled artillery is having an open beta this weekend](https://www.pcgamer.com/games/fps/the-multiplayer-shooter-with-moose-propelled-artillery-is-having-an-open-beta-this-weekend/)<!-- GAME:END -->
+ - [Our first look at Ultron in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/our-first-look-at-ultron-in-marvel-rivals/)
+ - [Marvel Rivals will soon get new heroes every month](https://www.polygon.com/news/552464/marvel-rivals-new-heroes-every-month-season-3)
+ - [Online multiplayer game study shows frequent sexual harassment, abuse](https://www.polygon.com/gaming/551632/valorant-overwatch-sexual-harassment-study-offenburg-university)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
