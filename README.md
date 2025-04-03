@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uninvited Guest](http://9gag.com/gag/a6Z5vyb)
- - ⏩ [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
- - 👉 [Gazan kid telling off Hamas to their faces after they used him as a human shield.](http://9gag.com/gag/aqy6o3p)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/agm7W6n)
+ - ⏩ [`Do not dare to correct me` moment](http://9gag.com/gag/a6Z50BR)
+ - 👉 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)<!-- MEMES:END -->
 
 ---
 
