@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love after bath Massage](http://9gag.com/gag/a9y5gG0)
- - ⏩ [April Fools\u2026.. NOT!](http://9gag.com/gag/aLn4yr5)
+ - 💣 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
+ - ⏩ [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
  - 👉 [...](http://9gag.com/gag/aPAoKoq)<!-- MEMES:END -->
 
 ---
