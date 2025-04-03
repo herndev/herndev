@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray Gods studio reveals its next game, an &#39;unholy roguelite deckbuilder&#39; about hunting demons in a festering city](https://www.pcgamer.com/games/card-games/stray-gods-studio-reveals-its-next-game-an-unholy-roguelite-deckbuilder-about-hunting-demons-in-a-festering-city/)
- - [Trump Shocks With Massive New Tariffs That Could Make The Switch 2 Cost More Than $600](https://kotaku.com/switch-2-price-trump-tariffs-vietnam-china-trade-war-1851774438)
- - [All the new video games launching in 2025](https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming)<!-- GAME:END -->
+ - [Switch 2 Zelda upgrades have achievements, weird GPS voice assistant](https://www.polygon.com/nintendo-switch-2/552070/switch-2-zelda-notes-app-tears-of-the-kingdom-breath-of-the-wild)
+ - [Farewell physical media — some Nintendo Switch 2 games aren’t on the carts](https://www.polygon.com/nintendo-switch-2/551614/nintendo-switch-2-game-key-cards)
+ - [Shenmue is the most influential game of all time, according to new poll](https://www.polygon.com/news/550231/shenmue-bafta-most-influential-game-all-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
