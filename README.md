@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - ⏩ [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
+ - 💣 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
+ - ⏩ [Two types of introductions](http://9gag.com/gag/a4P5pYm)
  - 👉 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)<!-- MEMES:END -->
 
 ---
