@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US announces a new 34% &quot;reciprocal&quot; tariff rate on almost all products imported from China, going into effect from April 9, 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250402/p51#a250402p51)
- - [Here’s how you can preorder the Nintendo Switch 2 &lpar;or try to&rpar;](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
- - [Key parts of the US Social Security site have crashed in the past week, as phone support is reduced; report: SSA&#39;s site was down four times in 10 days in March &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/250402/p50#a250402p50)<!-- TECH:END -->
+ - [Sources: Google is in advanced talks to rent Nvidia Blackwell AI chips from CoreWeave, highlighting how major Nvidia customers are struggling to get chips &lpar;The Information&rpar;](http://www.techmeme.com/250402/p52#a250402p52)
+ - [How to customize the log window in Console for macOS](https://appleinsider.com/inside/macos/tips/how-to-customize-the-log-window-in-console-for-macos?utm_medium=rss)
+ - [Trump’s Tariffs Could Reshape the US Tech Industry](https://www.wired.com/story/trump-global-tariffs-tech-industry-impacts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
