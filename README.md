@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
- - ⏩ [April Fools\u2026.. NOT!](http://9gag.com/gag/aLn4yr5)
- - 👉 [Uninvited Guest](http://9gag.com/gag/a6Z5vyb)<!-- MEMES:END -->
+ - 💣 [A natural problem solver.](http://9gag.com/gag/aoyRBpn)
+ - ⏩ [Would you rather?](http://9gag.com/gag/aD28yNx)
+ - 👉 [That makes sense](http://9gag.com/gag/agm7MNK)<!-- MEMES:END -->
 
 ---
 
