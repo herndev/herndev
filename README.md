@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AttoTude, which offers THz interconnect tech for AI and hyperscale data centers, raised a $50M Series B, after a $30M Series A and $11M seed in 2024 &lpar;FinSMEs&rpar;](http://www.techmeme.com/250403/p4#a250403p4)
- - [Adaptive Security, which uses AI for simulating cyberthreats, raised $43M co-led by OpenAI and a16z, marking OpenAI&#39;s first investment in a cybersecurity firm &lpar;Laya Neelakandan/CNBC&rpar;](http://www.techmeme.com/250403/p3#a250403p3)
- - [Netscout: DDoS attacks rose from 13M+ in 2023 to ~17M in 2024, becoming a staple of geopolitical conflict as new tech like AI supercharges their power &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250403/p2#a250403p2)<!-- TECH:END -->
+ - [Cyberhaven, whose AI-powered tech lets companies detect when employees use internal data in an unauthorized manner, raised a $100M Series D at a $1B+ valuation &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250403/p7#a250403p7)
+ - [T-Mobile will literally give you free money if you break up with your internet provider right now!](https://www.androidauthority.com/t-mobile-home-internet-switch-300-offer-3541122/)
+ - [Google Photos tagged the wrong face? It could soon get easier to fix &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-simplify-face-group-management-apk-teardown-3541079/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
