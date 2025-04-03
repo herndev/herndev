@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Do not dare to correct me` moment](http://9gag.com/gag/a6Z50BR)
- - ⏩ [From the archives](http://9gag.com/gag/a340ooQ)
- - 👉 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)<!-- MEMES:END -->
+ - 💣 [Short life expectancy](http://9gag.com/gag/a870B61)
+ - ⏩ [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
+ - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
 
 ---
 
