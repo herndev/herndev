@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)
- - ⏩ [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
+ - 💣 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
+ - ⏩ [Not cool](http://9gag.com/gag/a7o045z)
  - 👉 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)<!-- MEMES:END -->
 
 ---
