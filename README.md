@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $110 on the Samsung Galaxy Buds 3 Pro](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-4-3541012/)
- - [Apple shares drop 7%+ after hours following Trump&#39;s announcement that the US will impose tariffs of 46% on Vietnam, 26% on India, and an additional 34% on China &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250402/p48#a250402p48)
- - [Tech stocks fall in late trading after Trump announced new tariffs: Amazon drops as much as ~6%, Meta ~5%, Nvidia ~5%, Alphabet ~3%, and Microsoft ~3% &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250402/p47#a250402p47)<!-- TECH:END -->
+ - [Here are some sweet Samsung monitor deals for different types of users](https://www.androidauthority.com/samsung-monitor-deals-3541011/)
+ - [Epic Games head Tim Sweeney criticizes Apple, calls it a &#39;gangster-style&#39; business](https://appleinsider.com/articles/25/04/02/epic-games-head-tim-sweeney-criticizes-apple-calls-it-a-gangster-style-business?utm_medium=rss)
+ - [The White House says &quot;de minimis&quot; exemptions for packages under $800 from China and Hong Kong will end on May 2, affecting Temu, Shein, and other marketplaces &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250402/p49#a250402p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
