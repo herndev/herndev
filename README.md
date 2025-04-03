@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 could mimic how iOS handles app settings, but it’s not as bad as you think](https://www.androidauthority.com/android-16-app-settings-3540868/)
- - [We Played With the Nintendo Switch 2. It&#39;s Refined But Unsurprising](https://www.wired.com/story/this-is-the-nintendo-switch-2/)
- - [Nintendo Switch 2 hands-on: it’s all in the games](https://www.theverge.com/nintendo/642420/nintendo-switch-2-hands-on-preview)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s miniature Windows 365 Link PC is available to buy now](https://www.theverge.com/news/642594/microsoft-windows-365-link-pc-on-sale)
+ - [Google Pixel 10 may make some compromises to fit in its telephoto camera](https://www.androidauthority.com/pixel-10-telephoto-camera-confirmed-3540816/)
+ - [&#39;RoboCop: Rogue City&#39; set to storm onto Mac on April 30](https://appleinsider.com/articles/25/04/03/robocop-rogue-city-set-to-storm-onto-mac-on-april-30?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
