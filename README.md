@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
- - ⏩ [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
- - 👉 [...](http://9gag.com/gag/aPAoKoq)<!-- MEMES:END -->
+ - 💣 [Trust issues loading\u2026 this baby\u2019s gonna start reading ingredient labels before taking a sip!](http://9gag.com/gag/aByVApx)
+ - ⏩ [Rigged Tax System](http://9gag.com/gag/aW4nzb6)
+ - 👉 [Hard to compete with technology](http://9gag.com/gag/abA4ne9)<!-- MEMES:END -->
 
 ---
 
