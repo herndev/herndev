@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our first look at Ultron in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/our-first-look-at-ultron-in-marvel-rivals/)
- - [Marvel Rivals will soon get new heroes every month](https://www.polygon.com/news/552464/marvel-rivals-new-heroes-every-month-season-3)
- - [Online multiplayer game study shows frequent sexual harassment, abuse](https://www.polygon.com/gaming/551632/valorant-overwatch-sexual-harassment-study-offenburg-university)<!-- GAME:END -->
+ - [&#39;Thick thighs save lives&#39;: Marvel Rivals players are desperate for Emma Frost to crush them between her thunderous gams when season 2 goes live](https://www.pcgamer.com/games/third-person-shooter/thick-thighs-save-lives-marvel-rivals-players-are-desperate-for-emma-frost-to-crush-them-between-her-thunderous-gams-when-season-2-goes-live/)
+ - [I don&#39;t know if Sunderfolk can replace tabletop RPGs, but its smartphone controls feel like a great alternative if your DM&#39;s too exhausted to run a campaign](https://www.pcgamer.com/games/rpg/i-dont-know-if-sunderfolk-can-replace-tabletop-rpgs-but-its-smartphone-controls-feel-like-a-great-alternative-if-your-dms-too-exhausted-to-run-a-campaign/)
+ - [This Strange Monster Hunter Wilds Weapon Lets You Team Up With Insects](https://kotaku.com/monster-hunter-wilds-insect-glaive-kinsect-essence-1851774450)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
