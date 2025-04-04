@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s love affair with old camera tech is holding the Pixel 10 Pro back](https://www.androidauthority.com/photographer-skipping-pixel-10-pro-3538281/)
- - [HMD OffGrid Satellite Communicator Review: Fits in Your Pocket](https://www.wired.com/review/hmd-offgrid-satellite-communicator/)
- - [Apple and iPad birthdays, iOS 18.4, and AI health on the AppleInsider Podcast](https://appleinsider.com/articles/25/04/04/apple-and-ipad-birthdays-ios-184-and-ai-health-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [How Microsoft made it through 50 years](https://www.theverge.com/microsoft/643246/microsoft-50-business-model-cloud-ai)
+ - [Apple Music on Windows finally gets Dolby Atmos support](https://appleinsider.com/articles/25/04/04/apple-music-on-windows-finally-gets-dolby-atmos-support?utm_medium=rss)
+ - [China places some rare earth elements under export restrictions as part of its response to Trump&#39;s tariff package and imposes a 34% retaliatory tariff US goods &lpar;Reuters&rpar;](http://www.techmeme.com/250404/p11#a250404p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
