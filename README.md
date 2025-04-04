@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BCA](http://9gag.com/gag/aoy4mG0)
- - ⏩ [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
- - 👉 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)<!-- MEMES:END -->
+ - 💣 [Short life expectancy](http://9gag.com/gag/a870B61)
+ - ⏩ [This is a great stick](http://9gag.com/gag/aLn4YMA)
+ - 👉 [Sorry boss](http://9gag.com/gag/amo6E84)<!-- MEMES:END -->
 
 ---
 
