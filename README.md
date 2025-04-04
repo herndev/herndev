@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cat Hugs The Lost Dog](http://9gag.com/gag/aMVn2EV)
- - ⏩ [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
+ - 💣 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
+ - ⏩ [Cat Hugs The Lost Dog](http://9gag.com/gag/aMVn2EV)
  - 👉 [Bill Burr ripping through journalists and news media](http://9gag.com/gag/aoy4EnA)<!-- MEMES:END -->
 
 ---
