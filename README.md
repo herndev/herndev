@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Minecraft Movie – Out Now!](https://www.minecraft.net/article/a-minecraft-movie-out-now#new_tab)
- - [Grand Theft Auto 5 crashes into Xbox Game Pass on April 15](https://www.polygon.com/news/553480/grand-theft-auto-5-gta5-xbox-game-pass-gta-online-pc-enhanced)
- - [This First Berserker: Khazan Armor Set Is Perfect For Parrying Builds](https://kotaku.com/first-berserker-khazan-dragonscale-armor-scroll-parry-1851774831)<!-- GAME:END -->
+ - [The Monster Hunter Wilds update added a big, beautiful bird who gives you free stuff, and players are already worshipping it as a benevolent god](https://www.pcgamer.com/games/action/the-monster-hunter-wilds-update-added-a-big-beautiful-bird-who-gives-you-free-stuff-and-players-are-already-worshipping-it-as-a-benevolent-god/)
+ - [The League of Legends trading card game, Riftbound, will launch this year](https://www.pcgamer.com/games/card-games/the-league-of-legends-trading-card-game-riftbound-will-launch-this-year/)
+ - [This 4K gaming monitor is on sale for its lowest price ever](https://www.polygon.com/good-deals/553549/alienware-4k-oled-gaming-monitor-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
