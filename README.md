@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta antitrust case is the first major test of President Trump&#39;s FTC and its chair Andrew Ferguson, a Big Tech critic; Meta is exploring a possible settlement &lpar;Financial Times&rpar;](http://www.techmeme.com/250404/p2#a250404p2)
- - [President Trump reiterates he&#39;s open to tariff relief for China if it approves the sale of TikTok&#39;s US operations; the app faces an April 5 divestment deadline &lpar;Annmarie Hordern/Bloomberg&rpar;](http://www.techmeme.com/250404/p1#a250404p1)
- - [Android 15’s Theft Detection Lock in overreacting, users say](https://www.androidauthority.com/android-15-theft-detection-lock-glitch-3541557/)<!-- TECH:END -->
+ - [Redpanda, which offers companies AI-powered data analytics tools, raised a $100M Series D led by GV, with participation from Lightspeed, at a $1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250404/p4#a250404p4)
+ - [Midjourney begins rolling out V7, its first new AI image model in nearly a year with a &quot;totally different architecture&quot;, a week after OpenAI&#39;s new image tool &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250404/p3#a250404p3)
+ - [ChatGPT Plus is free for a short time: Here’s how to claim it](https://www.androidauthority.com/how-to-get-chatgpt-plus-for-free-3541564/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
