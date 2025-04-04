@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dropout.tv subscriptions are about to get more expensive](https://www.polygon.com/news/553813/dropout-tv-subscription-price-increase)
- - [Kotaku’s Weekend Guide: 5 Games To Welcome In April](https://kotaku.com/kotaku-games-to-play-metal-siege-xenoblade-fortnite-1851774892)
- - [‘Cozy horror’ game The Midnight Walk feels like walking through a Mad God world](https://www.polygon.com/impressions/553831/cozy-horror-game-midnight-walk-release-date)<!-- GAME:END -->
+ - [I loved the Nintendo Switch, but the Switch 2 looks like every other console now: A worse PC with a few exclusive games](https://www.pcgamer.com/gaming-industry/i-loved-the-nintendo-switch-but-the-switch-2-looks-like-every-other-console-now-a-worse-pc-with-a-few-exclusive-games/)
+ - [The Monkey, Black Bag, One of Them Days on Netflix, and every movie new to streaming this week](https://www.polygon.com/what-to-watch/549471/new-movies-watch-streaming-the-monkey-black-bag-one-of-them-days-netflix)
+ - [Trump’s trade war swallowed the Switch 2 — but what happens next?](https://www.polygon.com/nintendo-switch-2/553604/switch-2-pre-order-delay-tariffs-economic-analysis-joost-van-dreunen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
