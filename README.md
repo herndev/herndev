@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Lost Pages and Temples locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/541459/lost-pages-temples-locations-all-list-where-to-find)
- - [Microsoft employee escorted out of 50th anniversary event after protesting sales to Israel: &#39;You have blood on your hands. All of Microsoft has blood on its hands&#39;](https://www.pcgamer.com/software/ai/microsoft-employee-escorted-out-of-50th-anniversary-event-after-protesting-sales-to-israel-you-have-blood-on-your-hands-all-of-microsoft-has-blood-on-its-hands/)
- - [How to catch all 151 Pokémon in Google&amp;#8217;s Pokémon game](https://www.polygon.com/guides/553617/google-pokemon-game-how-to-catch-all)<!-- GAME:END -->
+ - [Dropout.tv subscriptions are about to get more expensive](https://www.polygon.com/news/553813/dropout-tv-subscription-price-increase)
+ - [Kotaku’s Weekend Guide: 5 Games To Welcome In April](https://kotaku.com/kotaku-games-to-play-metal-siege-xenoblade-fortnite-1851774892)
+ - [‘Cozy horror’ game The Midnight Walk feels like walking through a Mad God world](https://www.polygon.com/impressions/553831/cozy-horror-game-midnight-walk-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
