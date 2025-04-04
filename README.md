@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley Eggstravaganza event 2025: everything you need to know](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-eggstravaganza-event/)
- - [Nintendo Halts Switch 2 Pre-Orders Over Trump&#39;s Tariffs](https://kotaku.com/switch-2-preorder-price-tariff-trump-nintendo-1851774764)
- - [Marvel Rivals Fans Are Having Trouble Telling All Of The Blondes Apart](https://kotaku.com/marvel-rivals-emma-frost-invisible-woman-dagger-blondes-1851774781)<!-- GAME:END -->
+ - [How to unlock Mizutsune in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/552276/mizutsune-how-to-unlock)
+ - [Star Wars: Legion is back, promises dozens of new miniatures for fans](https://www.polygon.com/news/553349/star-wars-legion-custom-characters-2025-roadmap-release-date-price)
+ - [Nintendo Halts Switch 2 Pre-Orders Over Trump&#39;s Tariffs](https://kotaku.com/switch-2-preorder-price-tariff-trump-nintendo-1851774764)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
