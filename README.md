@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
- - ⏩ [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
- - 👉 [Live action](http://9gag.com/gag/adBnyPM)<!-- MEMES:END -->
+ - ⏩ [`Always has been`](http://9gag.com/gag/aryXjop)
+ - 👉 [Not cool](http://9gag.com/gag/a7o045z)<!-- MEMES:END -->
 
 ---
 
