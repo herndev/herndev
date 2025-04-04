@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia says its Nintendo Switch 2 chip benefited from &#39;1,000 engineer-years of effort&#39; claiming a 10x performance bump with DLSS and dedicated ray tracing silicon](https://www.pcgamer.com/hardware/handheld-gaming-pcs/nvidia-says-its-nintendo-switch-2-chip-benefited-from-1-000-engineer-years-of-effort-claiming-a-10x-performance-bump-with-dlss-and-dedicated-ray-tracing-silicon/)
- - [How to get spring chocolate in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-spring-chocolate-recipe/)
- - [Inzoi characters will stop abandoning their hot meals and sleeping for hours on end thanks to the latest patch](https://www.pcgamer.com/games/life-sim/inzoi-characters-will-stop-abandoning-their-hot-meals-and-sleeping-for-hours-on-end-thanks-to-the-latest-patch/)<!-- GAME:END -->
+ - [Capcom warned Monster Hunter Wilds players not to cheat on its ranked leaderboards, so of course people are immediately and flagrantly doing just that](https://www.pcgamer.com/games/rpg/capcom-warned-monster-hunter-wilds-players-not-to-cheat-on-its-ranked-leaderboards-so-of-course-people-are-immediately-and-flagrantly-doing-just-that/)
+ - [How to unlock Mizutsune in Monster Hunter Wilds](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-how-to-unlock-mizutsune/)
+ - [Build guns that can bathe entire cities in nuclear fire using the power of math in this explosive roguelike](https://www.pcgamer.com/games/roguelike/build-guns-that-can-bathe-entire-cities-in-nuclear-fire-using-the-power-of-math-in-this-explosive-roguelike/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
