@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
- - ⏩ [BCA](http://9gag.com/gag/aoy4mG0)
- - 👉 [He did it better](http://9gag.com/gag/amomqYj)<!-- MEMES:END -->
+ - 💣 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)
+ - ⏩ [Short life expectancy](http://9gag.com/gag/a870B61)
+ - 👉 [Not cool](http://9gag.com/gag/a7o045z)<!-- MEMES:END -->
 
 ---
 
