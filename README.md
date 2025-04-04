@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
- - ⏩ [Cat Hugs The Lost Dog](http://9gag.com/gag/aMVn2EV)
- - 👉 [Bill Burr ripping through journalists and news media](http://9gag.com/gag/aoy4EnA)<!-- MEMES:END -->
+ - 💣 [Believe it or not, Tariffs.](http://9gag.com/gag/aE0owr9)
+ - ⏩ [This is a great stick](http://9gag.com/gag/aLn4YMA)
+ - 👉 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)<!-- MEMES:END -->
 
 ---
 
