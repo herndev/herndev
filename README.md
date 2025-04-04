@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)
- - ⏩ [Short life expectancy](http://9gag.com/gag/a870B61)
- - 👉 [Not cool](http://9gag.com/gag/a7o045z)<!-- MEMES:END -->
+ - 💣 [BCA](http://9gag.com/gag/aoy4mG0)
+ - ⏩ [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)
+ - 👉 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)<!-- MEMES:END -->
 
 ---
 
