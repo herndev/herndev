@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock Mizutsune in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/552276/mizutsune-how-to-unlock)
- - [Star Wars: Legion is back, promises dozens of new miniatures for fans](https://www.polygon.com/news/553349/star-wars-legion-custom-characters-2025-roadmap-release-date-price)
- - [Nintendo Halts Switch 2 Pre-Orders Over Trump&#39;s Tariffs](https://kotaku.com/switch-2-preorder-price-tariff-trump-nintendo-1851774764)<!-- GAME:END -->
+ - [A Minecraft Movie – Out Now!](https://www.minecraft.net/article/a-minecraft-movie-out-now#new_tab)
+ - [Grand Theft Auto 5 crashes into Xbox Game Pass on April 15](https://www.polygon.com/news/553480/grand-theft-auto-5-gta5-xbox-game-pass-gta-online-pc-enhanced)
+ - [This First Berserker: Khazan Armor Set Is Perfect For Parrying Builds](https://kotaku.com/first-berserker-khazan-dragonscale-armor-scroll-parry-1851774831)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
