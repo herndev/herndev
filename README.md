@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cricket finally adds one of its most-requested features — and it’s better than the competition](https://www.androidauthority.com/cricket-trade-in-3541728/)
- - [Everything we know so far about the Nintendo Switch 2](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
- - [Google Assistant is wreaking havoc on DND settings and making people miss alarms and calls](https://www.androidauthority.com/google-assistant-do-not-disturb-3541703/)<!-- TECH:END -->
+ - [Nintendo delays Switch 2 pre-orders in the US over tariff uncertainty](https://www.androidauthority.com/nintendo-switch-2-pre-order-delay-3541750/)
+ - [Google releases API pricing for Gemini 2.5 Pro: $1.25 per 1M input tokens and $10 for 1M output tokens for prompts up to 200K tokens, its priciest model yet &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250404/p20#a250404p20)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
