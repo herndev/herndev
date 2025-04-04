@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo delays Switch 2 preorders over tariff concerns](https://www.theverge.com/news/643483/nintendo-switch-2-preoders-delayed-tariffs)
- - [Philips Hue bulbs and lighting kits are deeply discounted today only](https://www.theverge.com/tech/643379/philips-hue-bulbs-lightstrips-baseus-usb-c-beats-pill-bluetooth-sale)
- - [Vimeo launches Vimeo Streaming, letting creators launch subscription streaming services without any coding experience and offering features like AI translations &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250404/p12#a250404p12)<!-- TECH:END -->
+ - [Cricket finally adds one of its most-requested features — and it’s better than the competition](https://www.androidauthority.com/cricket-trade-in-3541728/)
+ - [Everything we know so far about the Nintendo Switch 2](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
+ - [Google Assistant is wreaking havoc on DND settings and making people miss alarms and calls](https://www.androidauthority.com/google-assistant-do-not-disturb-3541703/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
