@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Roku streaming device is $20 off right now](https://www.androidauthority.com/roku-ultra-2024-deal-3541463/)
- - [Steve Jackson Games says tariffs are a ‘seismic shift’ for board games](https://www.theverge.com/news/643173/trump-tariffs-steve-jackson-board-game-industry)
- - [TikTok tests TikTok for Artists, which provides musicians with analytics and fan engagement tools, in Australia, New Zealand, Japan, South Korea, and Indonesia &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/250403/p34#a250403p34)<!-- TECH:END -->
+ - [Solace, a healthcare navigation service matching patients with advocates, raised a $60M Series B led by Menlo Ventures; it raised a $14M Series A in August 2024 &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/250403/p36#a250403p36)
+ - [Superman’s latest trailer introduces his team of robot assistants](https://www.theverge.com/news/643100/superman-robots-trailer)
+ - [More Apple chips could be made in US thanks to TSMC &amp; Intel joint venture](https://appleinsider.com/articles/25/04/04/more-apple-chips-could-be-made-in-us-thanks-to-tsmc-intel-joint-venture?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
