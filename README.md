@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will take a $33 billion hit to its bottom line because of Trump tariffs](https://appleinsider.com/articles/25/04/04/apple-will-take-a-33-billion-hit-to-its-bottom-line-because-of-trump-tariffs?utm_medium=rss)
- - [Trump says he will sign an EO to keep TikTok running for an additional 75 days, as a deal &quot;requires more work to ensure all necessary approvals are signed&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250404/p23#a250404p23)
- - [Apple&#39;s canceled Federation Square store lives on in Apple Vision Pro](https://appleinsider.com/articles/25/04/04/apples-canceled-federation-square-store-lives-on-in-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft CEOs interrupted by another employee protestor: &amp;#8216;shame on all of you&amp;#8217;](https://www.theverge.com/news/643777/microsoft-bill-gates-steve-ballmer-satya-nadella-employee-protestor)
+ - [The AI industry doesn’t know if Trump just killed its GPU supply](https://www.theverge.com/tech/643753/gpu-tariffs-nvidia-tsmc-chips-openai)
+ - [Starlink competition is ramping up in Ukraine](https://www.theverge.com/news/643780/ukraine-eutelsat-satellite-internet-germany-starlink-competition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
