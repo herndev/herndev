@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
- - ⏩ [`Always has been`](http://9gag.com/gag/aryXjop)
- - 👉 [Not cool](http://9gag.com/gag/a7o045z)<!-- MEMES:END -->
+ - 💣 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
+ - ⏩ [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
+ - 👉 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)<!-- MEMES:END -->
 
 ---
 
