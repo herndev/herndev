@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft CEOs interrupted by another employee protestor: &amp;#8216;shame on all of you&amp;#8217;](https://www.theverge.com/news/643777/microsoft-bill-gates-steve-ballmer-satya-nadella-employee-protestor)
- - [The AI industry doesn’t know if Trump just killed its GPU supply](https://www.theverge.com/tech/643753/gpu-tariffs-nvidia-tsmc-chips-openai)
- - [Starlink competition is ramping up in Ukraine](https://www.theverge.com/news/643780/ukraine-eutelsat-satellite-internet-germany-starlink-competition)<!-- TECH:END -->
+ - [Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world](https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile)
+ - [Inside DOGE’s AI Push at the Department of Veterans Affairs](https://www.wired.com/story/doge-department-of-veterans-affairs-ai/)
+ - [Apple Intelligence servers might soon rely on a new Japanese chipmaker](https://appleinsider.com/articles/25/04/04/apple-intelligence-servers-might-soon-rely-on-a-new-japanese-chipmaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
