@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar and Keep widgets are getting some much-needed spring cleaning &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-widget-3541258/)
- - [Driver ran away with your package? Uber is working on a solution &lpar;APK teardown&rpar;](https://www.androidauthority.com/uber-package-protection-insurance-apk-teardown-3541581/)
- - [Google hasn&#39;t released safety reports for its latest models, like Gemini 2.5 Pro and 2.0 Flash, raising concerns that it is prioritizing speed over transparency &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250404/p6#a250404p6)<!-- TECH:END -->
+ - [We asked camera companies why their RAW formats are all different and confusing](https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm)
+ - [China retaliates with tariff that matches Trump&amp;#8217;s](https://www.theverge.com/news/643215/china-us-tariffs-34-percent-reciprocal-trump)
+ - [Serious about your retro gaming? This PS2 emulator now tracks true retro trophies](https://www.androidauthority.com/nethersx2-ps2-emulator-retroachievements-3541589/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
