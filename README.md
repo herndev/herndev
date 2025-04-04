@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)
- - ⏩ [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
+ - 💣 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
+ - ⏩ [No national outrage](http://9gag.com/gag/aAy4YQ2)
  - 👉 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)<!-- MEMES:END -->
 
 ---
