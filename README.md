@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RCS setup in Google Messages keeps failing? Here’s how to &lpar;maybe&rpar; fix it](https://www.androidauthority.com/google-messages-rcs-setup-broken-fix-3541616/)
- - [What Is the Meta AI Button in WhatsApp, and How Do I Remove It?](https://www.wired.com/story/what-is-the-meta-ai-button-in-whatsapp-and-how-do-i-remove-it/)
- - [Authors can no longer publish to Apple Books directly from Pages](https://appleinsider.com/articles/25/04/04/authors-can-no-longer-publish-to-apple-books-directly-from-pages?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s love affair with old camera tech is holding the Pixel 10 Pro back](https://www.androidauthority.com/photographer-skipping-pixel-10-pro-3538281/)
+ - [HMD OffGrid Satellite Communicator Review: Fits in Your Pocket](https://www.wired.com/review/hmd-offgrid-satellite-communicator/)
+ - [Apple and iPad birthdays, iOS 18.4, and AI health on the AppleInsider Podcast](https://appleinsider.com/articles/25/04/04/apple-and-ipad-birthdays-ios-184-and-ai-health-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
