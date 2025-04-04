@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&amp;#8217;s tariffs mean you&amp;#8217;ll pay more for all gadgets](https://www.theverge.com/tech/643041/trump-tariff-consumer-electronics-gadgets-smartphones-laptops-wearables)
- - [Here’s what gaming on Android Auto actually requires](https://www.androidauthority.com/android-auto-gaming-requirements-3541492/)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [The best Roku streaming device is $20 off right now](https://www.androidauthority.com/roku-ultra-2024-deal-3541463/)
+ - [Steve Jackson Games says tariffs are a ‘seismic shift’ for board games](https://www.theverge.com/news/643173/trump-tariffs-steve-jackson-board-game-industry)
+ - [TikTok tests TikTok for Artists, which provides musicians with analytics and fan engagement tools, in Australia, New Zealand, Japan, South Korea, and Indonesia &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/250403/p34#a250403p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
