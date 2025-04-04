@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Briefly Censors Nudity In An 11-Year Old Far Cry By Accident](https://kotaku.com/far-cry-4-censorship-nudity-sex-ubisoft-steam-update-1851774869)
- - [Unity CEO rails against the &#39;idiocy&#39; of the metaverse: &#39;I experienced all those new platforms and just thought they were garbage&#39;](https://www.pcgamer.com/gaming-industry/unity-ceo-rails-against-the-idiocy-of-the-metaverse-i-experienced-all-those-new-platforms-and-just-thought-they-were-garbage/)
- - [I&#39;m losing my mind over Inzoi&#39;s massive river sharks](https://www.pcgamer.com/games/life-sim/im-losing-my-mind-over-inzois-massive-river-sharks/)<!-- GAME:END -->
+ - [All Lost Pages and Temples locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/541459/lost-pages-temples-locations-all-list-where-to-find)
+ - [Microsoft employee escorted out of 50th anniversary event after protesting sales to Israel: &#39;You have blood on your hands. All of Microsoft has blood on its hands&#39;](https://www.pcgamer.com/software/ai/microsoft-employee-escorted-out-of-50th-anniversary-event-after-protesting-sales-to-israel-you-have-blood-on-your-hands-all-of-microsoft-has-blood-on-its-hands/)
+ - [How to catch all 151 Pokémon in Google&amp;#8217;s Pokémon game](https://www.polygon.com/guides/553617/google-pokemon-game-how-to-catch-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
