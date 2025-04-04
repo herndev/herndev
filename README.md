@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
- - ⏩ [Live action](http://9gag.com/gag/adBnyPM)
- - 👉 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)<!-- MEMES:END -->
+ - 💣 [Live action](http://9gag.com/gag/adBnyPM)
+ - ⏩ [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
+ - 👉 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)<!-- MEMES:END -->
 
 ---
 
