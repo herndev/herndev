@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How powerful is the Nintendo Switch 2 versus Switch? NVIDIA has the answer.](https://www.androidauthority.com/nvidia-nintendo-switch-2-processor-3541569/)
- - [Nasscom-Zinnov: Indian tech startup funding surged 23% YoY to $7.4B in 2024, with the number of deals up 27% YoY and newly founded startups more than doubling &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250404/p5#a250404p5)
- - [Redpanda, which offers companies AI-powered data analytics tools, raised a $100M Series D led by GV, with participation from Lightspeed, at a $1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250404/p4#a250404p4)<!-- TECH:END -->
+ - [Driver ran away with your package? Uber is working on a solution &lpar;APK teardown&rpar;](https://www.androidauthority.com/uber-package-protection-insurance-apk-teardown-3541581/)
+ - [Google hasn&#39;t released safety reports for its latest models, like Gemini 2.5 Pro and 2.0 Flash, raising concerns that it is prioritizing speed over transparency &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250404/p6#a250404p6)
+ - [Galaxy A55 5G just joined the One UI 7 beta party](https://www.androidauthority.com/samsung-galaxy-a55-5g-one-ui-7-beta-3541577/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
