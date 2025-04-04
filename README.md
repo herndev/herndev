@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo should have cribbed from Valve on how to make a good handheld tech demo](https://www.pcgamer.com/games/nintendo-should-have-cribbed-from-valve-on-how-to-make-a-good-handheld-tech-demo/)
  - [Today&#39;s Wordle answer for Friday, April 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-4-2025/)
- - [The new sneak peek at James Gunn’s Superman movie is a little more Superman torture than I needed](https://www.polygon.com/trailer/552878/superman-movie-sneak-peek-krypto)
- - [Tabletop industry in full panic as Trump tariffs are poised to erase decades of growth](https://www.polygon.com/tabletop-games/552558/tabletop-panic-tariffs-on-china-layoffs-bankruptcy-gama)<!-- GAME:END -->
+ - [The new sneak peek at James Gunn’s Superman movie is a little more Superman torture than I needed](https://www.polygon.com/trailer/552878/superman-movie-sneak-peek-krypto)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
