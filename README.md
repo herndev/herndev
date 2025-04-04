@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked camera companies why their RAW formats are all different and confusing](https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm)
- - [China retaliates with tariff that matches Trump&amp;#8217;s](https://www.theverge.com/news/643215/china-us-tariffs-34-percent-reciprocal-trump)
- - [Serious about your retro gaming? This PS2 emulator now tracks true retro trophies](https://www.androidauthority.com/nethersx2-ps2-emulator-retroachievements-3541589/)<!-- TECH:END -->
+ - [RCS setup in Google Messages keeps failing? Here’s how to &lpar;maybe&rpar; fix it](https://www.androidauthority.com/google-messages-rcs-setup-broken-fix-3541616/)
+ - [What Is the Meta AI Button in WhatsApp, and How Do I Remove It?](https://www.wired.com/story/what-is-the-meta-ai-button-in-whatsapp-and-how-do-i-remove-it/)
+ - [Authors can no longer publish to Apple Books directly from Pages](https://appleinsider.com/articles/25/04/04/authors-can-no-longer-publish-to-apple-books-directly-from-pages?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
