@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
- - ⏩ [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
- - 👉 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)<!-- MEMES:END -->
+ - 💣 [Cat Hugs The Lost Dog](http://9gag.com/gag/aMVn2EV)
+ - ⏩ [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
+ - 👉 [Bill Burr ripping through journalists and news media](http://9gag.com/gag/aoy4EnA)<!-- MEMES:END -->
 
 ---
 
