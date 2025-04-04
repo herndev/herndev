@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bridal](http://9gag.com/gag/an7vq9n)
- - ⏩ [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - 👉 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)<!-- MEMES:END -->
+ - 💣 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
+ - ⏩ [Live action](http://9gag.com/gag/adBnyPM)
+ - 👉 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)<!-- MEMES:END -->
 
 ---
 
