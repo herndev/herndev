@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo delays Switch 2 pre-orders in the US over tariff uncertainty](https://www.androidauthority.com/nintendo-switch-2-pre-order-delay-3541750/)
- - [Google releases API pricing for Gemini 2.5 Pro: $1.25 per 1M input tokens and $10 for 1M output tokens for prompts up to 200K tokens, its priciest model yet &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250404/p20#a250404p20)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
+ - [Apple will take a $33 billion hit to its bottom line because of Trump tariffs](https://appleinsider.com/articles/25/04/04/apple-will-take-a-33-billion-hit-to-its-bottom-line-because-of-trump-tariffs?utm_medium=rss)
+ - [Trump says he will sign an EO to keep TikTok running for an additional 75 days, as a deal &quot;requires more work to ensure all necessary approvals are signed&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250404/p23#a250404p23)
+ - [Apple&#39;s canceled Federation Square store lives on in Apple Vision Pro](https://appleinsider.com/articles/25/04/04/apples-canceled-federation-square-store-lives-on-in-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
