@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world](https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile)
- - [Inside DOGE’s AI Push at the Department of Veterans Affairs](https://www.wired.com/story/doge-department-of-veterans-affairs-ai/)
- - [Apple Intelligence servers might soon rely on a new Japanese chipmaker](https://appleinsider.com/articles/25/04/04/apple-intelligence-servers-might-soon-rely-on-a-new-japanese-chipmaker?utm_medium=rss)<!-- TECH:END -->
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Should you save $250 on the Apple MacBook Air M2, or is a newer model better?](https://www.androidauthority.com/apple-macbook-air-m2-deal-13-3541779/)
+ - [Gotta search ’em all! The original 151 Pokémon are waiting to be caught on Google Search](https://www.androidauthority.com/google-search-pokemon-easter-egg-3541851/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
