@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
- - ⏩ [No national outrage](http://9gag.com/gag/aAy4YQ2)
- - 👉 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)<!-- MEMES:END -->
+ - 💣 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
+ - ⏩ [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
+ - 👉 [Live action](http://9gag.com/gag/adBnyPM)<!-- MEMES:END -->
 
 ---
 
