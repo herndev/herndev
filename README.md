@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Monster Hunter Wilds update added a big, beautiful bird who gives you free stuff, and players are already worshipping it as a benevolent god](https://www.pcgamer.com/games/action/the-monster-hunter-wilds-update-added-a-big-beautiful-bird-who-gives-you-free-stuff-and-players-are-already-worshipping-it-as-a-benevolent-god/)
- - [The League of Legends trading card game, Riftbound, will launch this year](https://www.pcgamer.com/games/card-games/the-league-of-legends-trading-card-game-riftbound-will-launch-this-year/)
- - [This 4K gaming monitor is on sale for its lowest price ever](https://www.polygon.com/good-deals/553549/alienware-4k-oled-gaming-monitor-sale)<!-- GAME:END -->
+ - [Ubisoft Briefly Censors Nudity In An 11-Year Old Far Cry By Accident](https://kotaku.com/far-cry-4-censorship-nudity-sex-ubisoft-steam-update-1851774869)
+ - [Unity CEO rails against the &#39;idiocy&#39; of the metaverse: &#39;I experienced all those new platforms and just thought they were garbage&#39;](https://www.pcgamer.com/gaming-industry/unity-ceo-rails-against-the-idiocy-of-the-metaverse-i-experienced-all-those-new-platforms-and-just-thought-they-were-garbage/)
+ - [I&#39;m losing my mind over Inzoi&#39;s massive river sharks](https://www.pcgamer.com/games/life-sim/im-losing-my-mind-over-inzois-massive-river-sharks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
