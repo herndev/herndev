@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Live action](http://9gag.com/gag/adBnyPM)
- - ⏩ [Bridal](http://9gag.com/gag/an7vq9n)
+ - 💣 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
+ - ⏩ [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
  - 👉 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)<!-- MEMES:END -->
 
 ---
