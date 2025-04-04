@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sounds about right.](http://9gag.com/gag/aryZpD6)
- - ⏩ [Don\u2019t cry! Don\u2019t cry! He\u2019s crying!](http://9gag.com/gag/aMVne0G)
- - 👉 [Being leftist destroys your Brain](http://9gag.com/gag/ae9Vj25)<!-- MEMES:END -->
+ - 💣 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
+ - ⏩ [Live action](http://9gag.com/gag/adBnyPM)
+ - 👉 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)<!-- MEMES:END -->
 
 ---
 
