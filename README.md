@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo should have cribbed from Valve on how to make a good handheld tech demo](https://www.pcgamer.com/games/nintendo-should-have-cribbed-from-valve-on-how-to-make-a-good-handheld-tech-demo/)
- - [Today&#39;s Wordle answer for Friday, April 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-4-2025/)
- - [The new sneak peek at James Gunn’s Superman movie is a little more Superman torture than I needed](https://www.polygon.com/trailer/552878/superman-movie-sneak-peek-krypto)<!-- GAME:END -->
+ - [Nvidia says its Nintendo Switch 2 chip benefited from &#39;1,000 engineer-years of effort&#39; claiming a 10x performance bump with DLSS and dedicated ray tracing silicon](https://www.pcgamer.com/hardware/handheld-gaming-pcs/nvidia-says-its-nintendo-switch-2-chip-benefited-from-1-000-engineer-years-of-effort-claiming-a-10x-performance-bump-with-dlss-and-dedicated-ray-tracing-silicon/)
+ - [How to get spring chocolate in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-spring-chocolate-recipe/)
+ - [Inzoi characters will stop abandoning their hot meals and sleeping for hours on end thanks to the latest patch](https://www.pcgamer.com/games/life-sim/inzoi-characters-will-stop-abandoning-their-hot-meals-and-sleeping-for-hours-on-end-thanks-to-the-latest-patch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
