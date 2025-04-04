@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Live action](http://9gag.com/gag/adBnyPM)
- - ⏩ [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
- - 👉 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)<!-- MEMES:END -->
+ - ⏩ [Bridal](http://9gag.com/gag/an7vq9n)
+ - 👉 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)<!-- MEMES:END -->
 
 ---
 
