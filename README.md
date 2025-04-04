@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Microsoft made it through 50 years](https://www.theverge.com/microsoft/643246/microsoft-50-business-model-cloud-ai)
- - [Apple Music on Windows finally gets Dolby Atmos support](https://appleinsider.com/articles/25/04/04/apple-music-on-windows-finally-gets-dolby-atmos-support?utm_medium=rss)
- - [China places some rare earth elements under export restrictions as part of its response to Trump&#39;s tariff package and imposes a 34% retaliatory tariff US goods &lpar;Reuters&rpar;](http://www.techmeme.com/250404/p11#a250404p11)<!-- TECH:END -->
+ - [Nintendo delays Switch 2 preorders over tariff concerns](https://www.theverge.com/news/643483/nintendo-switch-2-preoders-delayed-tariffs)
+ - [Philips Hue bulbs and lighting kits are deeply discounted today only](https://www.theverge.com/tech/643379/philips-hue-bulbs-lightstrips-baseus-usb-c-beats-pill-bluetooth-sale)
+ - [Vimeo launches Vimeo Streaming, letting creators launch subscription streaming services without any coding experience and offering features like AI translations &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250404/p12#a250404p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
