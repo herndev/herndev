@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome back, Razer: After a PC Gamer gaming laptop showdown, I reckon the Blade 16 is the mobile machine to beat this generation](https://www.pcgamer.com/hardware/gaming-laptops/welcome-back-razer-after-a-pc-gamer-gaming-laptop-showdown-i-reckon-the-blade-16-is-the-mobile-machine-to-beat-this-generation/)
- - [It’s surprisingly hard to find things to do in Assassin’s Creed Shadows’ empty world](https://www.polygon.com/opinion/551914/assassins-creed-shadows-sprawl-boring-walking-quests-yasuke-omi)
- - [Turns out that Alienware&#39;s new upgradeable desktop is only fully upgradeable with an optional $35 conversion kit](https://www.pcgamer.com/hardware/gaming-pcs/turns-out-that-alienwares-new-upgradeable-desktop-is-only-fully-upgradeable-with-an-optional-usd35-conversion-kit/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for April 7 to 11](https://news.xbox.com/en-us/2025/04/04/next-week-on-xbox-new-games-for-april-7-to-11/)
+ - [The Intel-TSMC unholy chip factory alliance rumour re-emerges and this time a &#39;preliminary&#39; deal is said to have been done](https://www.pcgamer.com/hardware/processors/the-intel-tsmc-unholy-chip-factory-alliance-rumour-re-emerges-and-this-time-a-preliminary-deal-is-said-to-have-been-done/)
+ - [Monster Hunter Wilds event quests schedule and DLC roadmap](https://www.polygon.com/monster-hunter-wilds-guide/534245/event-quests-schedule-dlc-roadmap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
