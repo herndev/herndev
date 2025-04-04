@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 7 to 11](https://news.xbox.com/en-us/2025/04/04/next-week-on-xbox-new-games-for-april-7-to-11/)
- - [The Intel-TSMC unholy chip factory alliance rumour re-emerges and this time a &#39;preliminary&#39; deal is said to have been done](https://www.pcgamer.com/hardware/processors/the-intel-tsmc-unholy-chip-factory-alliance-rumour-re-emerges-and-this-time-a-preliminary-deal-is-said-to-have-been-done/)
- - [Monster Hunter Wilds event quests schedule and DLC roadmap](https://www.polygon.com/monster-hunter-wilds-guide/534245/event-quests-schedule-dlc-roadmap)<!-- GAME:END -->
+ - [Nintendo Halts Switch 2 Pre-Orders Over Trump&#39;s Tariffs](https://kotaku.com/switch-2-preorder-price-tariff-trump-nintendo-1851774764)
+ - [Uh oh, Monster Hunter Wilds isn&#39;t messing around anymore—its new high-rank monsters hit hard and often, hopefully putting the difficulty discourse to bed](https://www.pcgamer.com/games/rpg/uh-oh-monster-hunter-wilds-isnt-messing-around-anymore-its-new-high-rank-monsters-hit-hard-and-often-hopefully-putting-the-difficulty-discourse-to-bed/)
+ - [The Nintendo Switch 2 significantly cuts down Breath of the Wild’s load times](https://www.polygon.com/nintendo-switch-2/552759/load-speeds-time-botw-fast-travel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
