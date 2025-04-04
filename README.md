@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Believe it or not, Tariffs.](http://9gag.com/gag/aE0owr9)
- - ⏩ [This is a great stick](http://9gag.com/gag/aLn4YMA)
- - 👉 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)<!-- MEMES:END -->
+ - 💣 [Bill Burr ripping through journalists and news media](http://9gag.com/gag/aoy4EnA)
+ - ⏩ [Don\u2019t cry! Don\u2019t cry! He\u2019s crying!](http://9gag.com/gag/aMVne0G)
+ - 👉 [Captcha failed](http://9gag.com/gag/aqyQmPR)<!-- MEMES:END -->
 
 ---
 
