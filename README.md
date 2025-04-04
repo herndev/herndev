@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Should you save $250 on the Apple MacBook Air M2, or is a newer model better?](https://www.androidauthority.com/apple-macbook-air-m2-deal-13-3541779/)
- - [Gotta search ’em all! The original 151 Pokémon are waiting to be caught on Google Search](https://www.androidauthority.com/google-search-pokemon-easter-egg-3541851/)<!-- TECH:END -->
+ - [Sources: a TikTok deal, which was largely finalized by Wednesday, was put on hold after China indicated it would the reject the deal over Trump&#39;s tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250404/p29#a250404p29)
+ - [TikTok once again scores a last-minute reprieve, because of course it did](https://www.androidauthority.com/tiktok-ban-delay-3541862/)
+ - [The Nasdaq fell 5.8% on the second day following Trump&#39;s tariffs announcement, with Nvidia closing down 7.4%, Apple 7.3%, Netflix 6.7%, Meta 5%, and Amazon 4.2% &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250404/p28#a250404p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
