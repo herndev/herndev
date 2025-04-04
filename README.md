@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redpanda, which offers companies AI-powered data analytics tools, raised a $100M Series D led by GV, with participation from Lightspeed, at a $1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250404/p4#a250404p4)
- - [Midjourney begins rolling out V7, its first new AI image model in nearly a year with a &quot;totally different architecture&quot;, a week after OpenAI&#39;s new image tool &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250404/p3#a250404p3)
- - [ChatGPT Plus is free for a short time: Here’s how to claim it](https://www.androidauthority.com/how-to-get-chatgpt-plus-for-free-3541564/)<!-- TECH:END -->
+ - [How powerful is the Nintendo Switch 2 versus Switch? NVIDIA has the answer.](https://www.androidauthority.com/nvidia-nintendo-switch-2-processor-3541569/)
+ - [Nasscom-Zinnov: Indian tech startup funding surged 23% YoY to $7.4B in 2024, with the number of deals up 27% YoY and newly founded startups more than doubling &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250404/p5#a250404p5)
+ - [Redpanda, which offers companies AI-powered data analytics tools, raised a $100M Series D led by GV, with participation from Lightspeed, at a $1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250404/p4#a250404p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
