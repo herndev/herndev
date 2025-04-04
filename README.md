@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom warned Monster Hunter Wilds players not to cheat on its ranked leaderboards, so of course people are immediately and flagrantly doing just that](https://www.pcgamer.com/games/rpg/capcom-warned-monster-hunter-wilds-players-not-to-cheat-on-its-ranked-leaderboards-so-of-course-people-are-immediately-and-flagrantly-doing-just-that/)
- - [How to unlock Mizutsune in Monster Hunter Wilds](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-how-to-unlock-mizutsune/)
- - [Build guns that can bathe entire cities in nuclear fire using the power of math in this explosive roguelike](https://www.pcgamer.com/games/roguelike/build-guns-that-can-bathe-entire-cities-in-nuclear-fire-using-the-power-of-math-in-this-explosive-roguelike/)<!-- GAME:END -->
+ - [Welcome back, Razer: After a PC Gamer gaming laptop showdown, I reckon the Blade 16 is the mobile machine to beat this generation](https://www.pcgamer.com/hardware/gaming-laptops/welcome-back-razer-after-a-pc-gamer-gaming-laptop-showdown-i-reckon-the-blade-16-is-the-mobile-machine-to-beat-this-generation/)
+ - [It’s surprisingly hard to find things to do in Assassin’s Creed Shadows’ empty world](https://www.polygon.com/opinion/551914/assassins-creed-shadows-sprawl-boring-walking-quests-yasuke-omi)
+ - [Turns out that Alienware&#39;s new upgradeable desktop is only fully upgradeable with an optional $35 conversion kit](https://www.pcgamer.com/hardware/gaming-pcs/turns-out-that-alienwares-new-upgradeable-desktop-is-only-fully-upgradeable-with-an-optional-usd35-conversion-kit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
