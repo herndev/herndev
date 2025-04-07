@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating 11 BAFTA Nominations for Senua’s Saga: Hellblade II with Ninja Theory](https://news.xbox.com/en-us/2025/04/07/senuas-saga-hellblade-2-bafta-ninja-theory/)
- - [&#39;They chewed me up pretty good&#39;: A US plaintiff attempted to use an AI avatar to argue their court case and the judges were far from amused](https://www.pcgamer.com/software/ai/they-chewed-me-up-pretty-good-a-us-plaintiff-attempted-to-use-an-ai-avatar-to-argue-their-court-case-and-the-judges-were-far-from-amused/)
- - [Preppered: an existential platformer is a game that&#39;ll make you pay not just for your choices, but your sucky platforming skills, too](https://www.pcgamer.com/games/action/preppered-an-existential-platformer-is-a-game-thatll-make-you-pay-not-just-for-your-choices-but-your-sucky-platforming-skills-too/)<!-- GAME:END -->
+ - [South of Midnight, Blue Prince, and the other new games out this week](https://www.polygon.com/gaming/550720/best-new-game-releases-april-7-south-of-midnight-blue-prince)
+ - [What time does Honkai Star Rail 3.2 release?](https://www.polygon.com/honkai-star-rail-guides/553222/version-3-2-release-times-maintenance-end)
+ - [You can create plinking, plonking renditions of classic game theme tunes with a sweep of your finger using these 3D-printed fidget toys](https://www.pcgamer.com/hardware/you-can-create-plinking-plonking-renditions-of-classic-game-theme-tunes-with-a-sweep-of-your-finger-using-these-3d-printed-fidget-toys/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
