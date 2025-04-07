@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us, Season 2: The Kotaku Review](https://kotaku.com/last-of-us-season-2-hbo-max-show-review-joel-ellie-abby-1851774661)
- - [G.Skill&#39;s 128 GB golden RAM kit is the first high-capacity set to hit DDR5-8000 speeds and it&#39;s making me reconsider my views on PC hardware bling](https://www.pcgamer.com/hardware/memory/g-skills-128-gb-golden-ram-kit-is-the-first-high-capacity-set-to-hit-ddr5-8000-speeds-and-its-making-me-reconsider-my-views-on-pc-hardware-bling/)
- - [The Death Stranding movie is being written and directed by the guy behind Pig](https://www.pcgamer.com/games/the-death-stranding-movie-is-being-written-and-directed-by-the-guy-behind-pig/)<!-- GAME:END -->
+ - [Learn How Milestone Taught Its Neural AI to Race Off Road](https://news.xbox.com/en-us/2025/04/07/how-milestone-taught-neural-ai-to-race/)
+ - [Microsoft&#39;s 100% AI-generated Quake 2 made us nauseous but John Carmack, the game&#39;s OG coder, is into it: &#39;What? This is impressive research work!&#39;](https://www.pcgamer.com/software/ai/microsofts-100-percent-ai-generated-quake-2-made-us-nauseous-but-john-carmack-the-games-og-coder-loves-it-what-this-is-impressive-research-work/)
+ - [AMD is reportedly plotting an NPU-enabled &#39;Ryzen AI Z2 Extreme&#39; chip for handhelds and we still can&#39;t figure out what it&#39;ll do for us aside from drain more the battery juice](https://www.pcgamer.com/hardware/processors/amd-is-reportedly-plotting-an-npu-enabled-ryzen-ai-z2-extreme-chip-for-handhelds-and-we-still-cant-figure-out-what-itll-do-for-us-aside-from-drain-more-the-battery-juice/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
