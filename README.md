@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The gay cleaning burglar](http://9gag.com/gag/aMVn80X)
- - ⏩ [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)
- - 👉 [Fast Gun Warship Combat](http://9gag.com/gag/amom72X)<!-- MEMES:END -->
+ - 💣 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)
+ - ⏩ [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
+ - 👉 [Life &amp; death](http://9gag.com/gag/aE0oBp9)<!-- MEMES:END -->
 
 ---
 
