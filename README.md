@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is not a fashionable neighborhood, but a graveyard for the Sinaloa cartel.](http://9gag.com/gag/a87DjmZ)
+ - 💣 [When you see your ex in public](http://9gag.com/gag/a6Zn7em)
  - ⏩ [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
- - 👉 [Stupid ass movie](http://9gag.com/gag/azxGrbm)<!-- MEMES:END -->
+ - 👉 [What else did he expect?](http://9gag.com/gag/a1m5d52)<!-- MEMES:END -->
 
 ---
 
