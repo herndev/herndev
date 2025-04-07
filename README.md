@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another Nothing phone is coming this month, just not THAT one](https://www.androidauthority.com/cmf-phone-2-pro-launch-date-3542153/)
- - [Source: AI coding startup Cursor, which has helped permeate &quot;vibe coding&quot;, hit 1M+ DAUs in March 2025, driven largely by word-of-mouth growth &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250407/p8#a250407p8)
- - [That article you shared from Discover? It might be using a mysterious Google URL now](https://www.androidauthority.com/google-discover-shortened-urls-3542126/)<!-- TECH:END -->
+ - [UK iCloud backdoor mandate hearing must be made public -- eventually](https://appleinsider.com/articles/25/04/07/uk-icloud-backdoor-mandate-hearing-must-be-made-public----eventually?utm_medium=rss)
+ - [Global chip stocks drop as the US tariff rout intensifies, extending losses from last week; Nvidia, Intel, ASML, SK Hynix, Infineon, and STMicro all fall &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250407/p11#a250407p11)
+ - [Food for thought: I’ve finally found the best use for Google’s AI Overview](https://www.androidauthority.com/ai-overview-food-3541167/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
