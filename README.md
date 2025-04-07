@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)
- - ⏩ [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
- - 👉 [Life &amp; death](http://9gag.com/gag/aE0oBp9)<!-- MEMES:END -->
+ - 💣 [Is this really a cult?](http://9gag.com/gag/an7vy2V)
+ - ⏩ [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
+ - 👉 [Okay I&#39;m waiting for you degenerates to post the screenshots](http://9gag.com/gag/aNDVW2K)<!-- MEMES:END -->
 
 ---
 
