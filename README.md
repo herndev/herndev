@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonnet&#39;s new xMac &amp; PCIe gear give your Mac mini pro-level expansion](https://appleinsider.com/articles/25/04/07/sonnets-new-xmac-pcie-gear-give-your-mac-mini-pro-level-expansion?utm_medium=rss)
- - [One UI 7 schedule is here! Find out when your Samsung device gets Android 15.](https://www.androidauthority.com/one-ui-7-schedule-korea-3542231/)
- - [Q&amp;A with Nintendo of America VP of Product Bill Trinen on pricing first-party games like Mario Kart World at $80, Joy-Con 2 and using it as a mouse, and more &lpar;Logan Plant/IGN&rpar;](http://www.techmeme.com/250407/p18#a250407p18)<!-- TECH:END -->
+ - [This new AI Mode feature is like Google Lens on steroids](https://www.androidauthority.com/google-search-ai-mode-visual-search-3541964/)
+ - [Google&amp;#8217;s AI Mode can now see and search with images](https://www.theverge.com/news/644363/google-search-ai-mode-multimodal-lens-image-recognition)
+ - [SteelSeries Apex Pro Mini Gen 3: A Hall Effect 60% Keyboard](https://www.wired.com/review/steelseries-apex-pro-mini-gen-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
