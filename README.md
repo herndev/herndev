@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What else did he expect?](http://9gag.com/gag/a1m5d52)
- - ⏩ [The new Central Park 5, wait until the left starts defending them too and later make Netflix documentaries how they&#39;re innocent.](http://9gag.com/gag/a87DpO1)
- - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
+ - 💣 [You need to men the fence with someone](http://9gag.com/gag/ae9VbgO)
+ - ⏩ [And she dress to complain](http://9gag.com/gag/ae9VYZB)
+ - 👉 [We are approaching the one year anniversary for the most incredible moment ever filmed](http://9gag.com/gag/aMVn8r1)<!-- MEMES:END -->
 
 ---
 
