@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UiPath’s Daniel Dines on why he needed to become CEO again](https://www.theverge.com/decoder-podcast-with-nilay-patel/643562/uipath-ceo-daniel-dines-interview-ai-agents-rpa)
- - [Netflix is getting a Peppa Pig mobile game](https://www.theverge.com/news/644019/netflix-peppa-pig-game)
- - [US tech stocks fall for a third session as markets open: Apple, Nvidia, and Tesla drop 6%+ each, Meta and Amazon fall 3%+, and Microsoft and Alphabet fall 1%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250407/p16#a250407p16)<!-- TECH:END -->
+ - [Sonnet&#39;s new xMac &amp; PCIe gear give your Mac mini pro-level expansion](https://appleinsider.com/articles/25/04/07/sonnets-new-xmac-pcie-gear-give-your-mac-mini-pro-level-expansion?utm_medium=rss)
+ - [One UI 7 schedule is here! Find out when your Samsung device gets Android 15.](https://www.androidauthority.com/one-ui-7-schedule-korea-3542231/)
+ - [Q&amp;A with Nintendo of America VP of Product Bill Trinen on pricing first-party games like Mario Kart World at $80, Joy-Con 2 and using it as a mouse, and more &lpar;Logan Plant/IGN&rpar;](http://www.techmeme.com/250407/p18#a250407p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
