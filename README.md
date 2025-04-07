@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make Ghostly Fish Steak in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-make-ghostly-fish-steak-in-disney-dreamlight-valley/)
- - [Dawn of Hunt is Path of Exile 2&#39;s most contentious update, but it&#39;s also the most fun I&#39;ve had with ARPG necromancy, well… ever](https://www.pcgamer.com/games/action/dawn-of-hunt-is-path-of-exile-2s-most-contentious-update-but-its-also-the-most-fun-ive-had-with-arpg-necromancy-well-ever/)
- - [One cable to rule them all: China&#39;s 8K-ready HDMI and DisplayPort competitor supports up to 192 Gbps bandwidth and 480 W power delivery in a single connection](https://www.pcgamer.com/hardware/one-cable-to-rule-them-all-chinas-8k-ready-hdmi-and-displayport-competitor-supports-up-to-192-gbps-bandwidth-and-480-w-power-delivery-in-a-single-connection/)<!-- GAME:END -->
+ - [Check out the beautiful illustrations in Liam O’Brien’s Critical Role fairy tale book](https://www.polygon.com/critical-role/552277/critical-role-der-katzenprinz-order-liam-obrien-preview)
+ - [Former Awesomenauts developers finish the game they were working on when the studio went bankrupt in 2023, and it&#39;ll be free for the first 24 hours after release](https://www.pcgamer.com/games/action/former-awesomenauts-developers-finish-the-game-they-were-working-on-when-the-studio-went-bankrupt-in-2023-and-itll-be-free-for-the-first-24-hours-after-release/)
+ - [Blue Prince Is Like Nothing You’ve Played Before](https://news.xbox.com/en-us/2025/04/07/blue-prince-game-pass-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
