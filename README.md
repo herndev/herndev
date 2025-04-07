@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House’s group chat screwup is even more ridiculous than we thought](https://www.theverge.com/news/644446/white-house-signal-group-chat-blamed-ios-siri-suggestion)
- - [T-Mobile hopes this new free food offer won’t crash and burn like the last one](https://www.androidauthority.com/tmobile-cracker-barrel-food-offer-3542317/)
- - [The see-through Beats Studio Buds Plus are on sale for less than $100](https://www.theverge.com/tech/644500/beats-studio-buds-plus-android-ios-amazon-deal-sale)<!-- TECH:END -->
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
+ - [Promise Thunderbolt 5 enclosures boost speed &amp; storage for Mac creative workflows](https://appleinsider.com/articles/25/04/07/promise-thunderbolt-5-enclosures-boost-speed-storage-for-mac-creative-workflows?utm_medium=rss)
+ - [Apple Vision Pro immersive video library management utility arrives for Mac](https://appleinsider.com/articles/25/04/07/apple-vision-pro-immersive-video-library-management-utility-arrives-for-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
