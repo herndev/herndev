@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo says tariffs aren’t the reason the Switch 2 costs $449.99](https://www.theverge.com/nintendo/643277/nintendo-switch-2-price-tariffs-doug-bowser-interview)
- - [The Switch 2’s GameChat Social Feature Could Revolutionize the Way You Play With Friends](https://www.wired.com/story/the-switch-2s-gamechat-social-feature-could-revolutionize-the-way-you-play-with-friends/)
- - [Nintendo Is ‘Actively Assessing’ What a Trade War Means for the Switch 2](https://www.wired.com/story/nintendo-is-actively-assessing-what-trade-war-means-for-switch-2/)<!-- TECH:END -->
+ - [UiPath’s Daniel Dines on why he needed to become CEO again](https://www.theverge.com/decoder-podcast-with-nilay-patel/643562/uipath-ceo-daniel-dines-interview-ai-agents-rpa)
+ - [Netflix is getting a Peppa Pig mobile game](https://www.theverge.com/news/644019/netflix-peppa-pig-game)
+ - [US tech stocks fall for a third session as markets open: Apple, Nvidia, and Tesla drop 6%+ each, Meta and Amazon fall 3%+, and Microsoft and Alphabet fall 1%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250407/p16#a250407p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
