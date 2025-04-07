@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new AI Mode feature is like Google Lens on steroids](https://www.androidauthority.com/google-search-ai-mode-visual-search-3541964/)
- - [Google&amp;#8217;s AI Mode can now see and search with images](https://www.theverge.com/news/644363/google-search-ai-mode-multimodal-lens-image-recognition)
- - [SteelSeries Apex Pro Mini Gen 3: A Hall Effect 60% Keyboard](https://www.wired.com/review/steelseries-apex-pro-mini-gen-3/)<!-- TECH:END -->
+ - [The White House’s group chat screwup is even more ridiculous than we thought](https://www.theverge.com/news/644446/white-house-signal-group-chat-blamed-ios-siri-suggestion)
+ - [T-Mobile hopes this new free food offer won’t crash and burn like the last one](https://www.androidauthority.com/tmobile-cracker-barrel-food-offer-3542317/)
+ - [The see-through Beats Studio Buds Plus are on sale for less than $100](https://www.theverge.com/tech/644500/beats-studio-buds-plus-android-ios-amazon-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
