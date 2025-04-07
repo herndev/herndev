@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini could soon help you ‘Power up’ your prompts with a tap &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-attachment-interface-redesign-power-up-apk-3542331/)
- - [Whoopsie daisy Bitcoin!](https://www.theverge.com/cryptocurrency/644749/bitcoin-tariff-fall-pricing)
- - [Meta VP of generative AI Ahmad Al-Dahle denies a rumor that the company trained its Llama 4 models on test sets, saying Meta &quot;would never do that&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250407/p27#a250407p27)<!-- TECH:END -->
+ - [Apple could import more iPhones from India due to Trump&#39;s tariffs](https://appleinsider.com/articles/25/04/07/apple-could-import-more-iphones-from-india-due-to-trumps-tariffs?utm_medium=rss)
+ - [Microsoft fires employee protestor who called AI boss a ‘war profiteer’](https://www.theverge.com/news/644769/microsoft-fires-employee-protestor-war-profiteer)
+ - [Apple stock hammered for third consecutive market day, falls on news of more tariffs](https://appleinsider.com/articles/25/04/07/apple-stock-hammered-for-third-consecutive-market-day-falls-on-news-of-more-tariffs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
