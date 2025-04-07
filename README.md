@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - ⏩ [We have to do this](http://9gag.com/gag/a0e6dyQ)
- - 👉 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)<!-- MEMES:END -->
+ - 💣 [And she dress to complain](http://9gag.com/gag/ae9VYZB)
+ - ⏩ [Thanks Eva](http://9gag.com/gag/aPA8MYq)
+ - 👉 [My bees survived the winter.](http://9gag.com/gag/aoy41Ow)<!-- MEMES:END -->
 
 ---
 
