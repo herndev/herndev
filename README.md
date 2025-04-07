@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
- - ⏩ [Mother cat gains the trust of a scared rescue kitten who was abused by it&#39;s previous owners](http://9gag.com/gag/aMVnAYX)
- - 👉 [Verbal Assassin](http://9gag.com/gag/amomrjv)<!-- MEMES:END -->
+ - 💣 [Is this really a cult?](http://9gag.com/gag/an7vy2V)
+ - ⏩ [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)
+ - 👉 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)<!-- MEMES:END -->
 
 ---
 
