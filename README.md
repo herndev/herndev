@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Learn How Milestone Taught Its Neural AI to Race Off Road](https://news.xbox.com/en-us/2025/04/07/how-milestone-taught-neural-ai-to-race/)
- - [Microsoft&#39;s 100% AI-generated Quake 2 made us nauseous but John Carmack, the game&#39;s OG coder, is into it: &#39;What? This is impressive research work!&#39;](https://www.pcgamer.com/software/ai/microsofts-100-percent-ai-generated-quake-2-made-us-nauseous-but-john-carmack-the-games-og-coder-loves-it-what-this-is-impressive-research-work/)
- - [AMD is reportedly plotting an NPU-enabled &#39;Ryzen AI Z2 Extreme&#39; chip for handhelds and we still can&#39;t figure out what it&#39;ll do for us aside from drain more the battery juice](https://www.pcgamer.com/hardware/processors/amd-is-reportedly-plotting-an-npu-enabled-ryzen-ai-z2-extreme-chip-for-handhelds-and-we-still-cant-figure-out-what-itll-do-for-us-aside-from-drain-more-the-battery-juice/)<!-- GAME:END -->
+ - [The turf wars begin: Schedule I is being investigated for possible copyright infringement by the publisher of Drug Dealer Simulator](https://www.pcgamer.com/games/sim/the-turf-wars-begin-schedule-i-is-being-investigated-for-possible-copyright-infringement-by-the-publisher-of-drug-dealer-simulator/)
+ - [Path of Exile 2 players bully Elon Musk during eerie airplane stream](https://www.polygon.com/gaming/554062/path-of-exile-2-players-bully-elon-musk-during-eerie-airplane-stream)
+ - [A Minecraft Movie Contains A Tear-Jerking Tribute To A YouTube Legend](https://kotaku.com/minecraft-movie-technoblade-tribute-pig-crown-1851775077)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
