@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK bans hidden fees imposed by online businesses as well as the use or commissioning of fake reviews, effective April 6, with compliance enforced by the CMA &lpar;Jon Ungoed-Thomas/The Guardian&rpar;](http://www.techmeme.com/250406/p13#a250406p13)
- - [Best Family Phone Plans for 2025](https://www.cnet.com/tech/mobile/best-family-phone-plan/#ftag=CAD590a51e)
- - [DOGE plans now reportedly include an IRS ‘hackathon’](https://www.theverge.com/news/644327/musk-doge-irs-hackathon-taxpayer-data-transfer-cloud)<!-- TECH:END -->
+ - [Nothing’s new Essential Space feature has an essential catch users didn’t see coming](https://www.androidauthority.com/nothing-essential-space-monthly-limit-3542042/)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, April 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-7/#ftag=CAD590a51e)
+ - [The UK bans hidden fees imposed by online businesses as well as the use or commissioning of fake reviews, effective April 6, with compliance enforced by the CMA &lpar;Jon Ungoed-Thomas/The Guardian&rpar;](http://www.techmeme.com/250406/p13#a250406p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
