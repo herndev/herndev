@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Switch 2 Joy-Con Don&#39;t Have Drift-Resistant Hall Effect Sticks And Fans Are Worried](https://kotaku.com/switch-2-joy-cons-no-hall-effect-stick-drift-nintendo-1851775099)
  - [The turf wars begin: Schedule I is being investigated for possible copyright infringement by the publisher of Drug Dealer Simulator](https://www.pcgamer.com/games/sim/the-turf-wars-begin-schedule-i-is-being-investigated-for-possible-copyright-infringement-by-the-publisher-of-drug-dealer-simulator/)
- - [Path of Exile 2 players bully Elon Musk during eerie airplane stream](https://www.polygon.com/gaming/554062/path-of-exile-2-players-bully-elon-musk-during-eerie-airplane-stream)
- - [A Minecraft Movie Contains A Tear-Jerking Tribute To A YouTube Legend](https://kotaku.com/minecraft-movie-technoblade-tribute-pig-crown-1851775077)<!-- GAME:END -->
+ - [Path of Exile 2 players bully Elon Musk during eerie airplane stream](https://www.polygon.com/gaming/554062/path-of-exile-2-players-bully-elon-musk-during-eerie-airplane-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
