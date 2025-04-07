@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 Joy-Con Don&#39;t Have Drift-Resistant Hall Effect Sticks And Fans Are Worried](https://kotaku.com/switch-2-joy-cons-no-hall-effect-stick-drift-nintendo-1851775099)
- - [The turf wars begin: Schedule I is being investigated for possible copyright infringement by the publisher of Drug Dealer Simulator](https://www.pcgamer.com/games/sim/the-turf-wars-begin-schedule-i-is-being-investigated-for-possible-copyright-infringement-by-the-publisher-of-drug-dealer-simulator/)
- - [Path of Exile 2 players bully Elon Musk during eerie airplane stream](https://www.polygon.com/gaming/554062/path-of-exile-2-players-bully-elon-musk-during-eerie-airplane-stream)<!-- GAME:END -->
+ - [How to Mega Evolve and get Mega Energy in Pokémon Go](https://www.polygon.com/pokemon-go-guide/22447919/mega-evolution-list-candy-bonus-buddy-raids)
+ - [We attempted the silliest challenges possible in Hitman](https://www.polygon.com/videos/552494/lets-play-hitman-world-of-assassination-nvidia-gpu-laptop)
+ - [Switch 2 game-key cards won’t be account- or console-locked](https://www.polygon.com/nintendo-switch-2/554236/switch-2-game-key-card-digital-account-console-lock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
