@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Live action](http://9gag.com/gag/adBnyPM)
- - ⏩ [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - 👉 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)<!-- MEMES:END -->
+ - 💣 [I feel ya](http://9gag.com/gag/azxGjpb)
+ - ⏩ [Footage of 12-metre waves that the cruise liner Ocean Explorer was able to endure in the Drake Passage during a powerful storm.](http://9gag.com/gag/ayNW8QM)
+ - 👉 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)<!-- MEMES:END -->
 
 ---
 
