@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing the Season 03 Battle Pass, BlackCell, and New Store Bundles for Call of Duty: Black Ops 6 and Call of Duty: Warzone](https://www.callofduty.com/blog/2025/04/call-of-duty-black-ops-6-warzone-zombies-season-three-battle-pass-blackcell-bundles-intel-drop#new_tab)
- - [Assassin&#39;s Creed Shadows&#39; first major update arrives tomorrow with very good news for your horse](https://www.pcgamer.com/games/action/assassins-creed-shadows-first-major-update-arrives-tomorrow-with-very-good-news-for-your-horse/)
- - [Nintendo Switch 2 cartridges designed to be spit out](https://www.polygon.com/news/554646/nintendo-switch-2-still-taste-bad)<!-- GAME:END -->
+ - [Donkey Kong Bananza leak throws a wrench in the Donkey Kong timeline](https://www.polygon.com/nintendo-switch-2/554164/donkey-kong-bananza-leak-pauline-odd-rock)
+ - [I never actually looked up what Clair Obscur: Expedition 33 is about, and there&#39;s some bonkers RPG lore behind the title](https://www.pcgamer.com/games/rpg/i-never-actually-looked-up-what-clair-obscur-expedition-33-is-about-and-theres-some-bonkers-rpg-lore-behind-the-title/)
+ - [How a hardcore survival game morphed into an open world town-builder where you play as a corgi mech pilot](https://www.pcgamer.com/games/survival-crafting/how-a-hardcore-survival-game-morphed-into-an-open-world-town-builder-where-you-play-as-a-corgi-mech-pilot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
