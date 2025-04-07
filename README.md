@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you see your ex in public](http://9gag.com/gag/a6Zn7em)
- - ⏩ [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 👉 [If you know you know](http://9gag.com/gag/aNDVnRw)<!-- MEMES:END -->
+ - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
+ - ⏩ [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
+ - 👉 [What else did he expect?](http://9gag.com/gag/a1m5d52)<!-- MEMES:END -->
 
 ---
 
