@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We just declared a trade war with the world](https://www.theverge.com/business/643970/trade-war-consequences-crazy)
- - [Sources: StubHub, Klarna, eToro, and adtech group MNTN have paused their IPO plans as President Trump&#39;s trade war upends the global economy &lpar;Fareed Sahloul/Bloomberg&rpar;](http://www.techmeme.com/250404/p31#a250404p31)
- - [Apple stock bloodbath continues after China applies retaliatory tariffs](https://appleinsider.com/articles/25/04/04/apple-stock-bloodbath-continues-after-china-applies-retaliatory-tariffs?utm_medium=rss)<!-- TECH:END -->
+ - [DOGE plans now reportedly include an IRS ‘hackathon’](https://www.theverge.com/news/644327/musk-doge-irs-hackathon-taxpayer-data-transfer-cloud)
+ - [Paris-based Pennylane, which makes cloud-based accounting software, raised €75M, doubling its valuation to €2B, led by Sequoia and with Alphabet among investors &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250406/p12#a250406p12)
+ - [iPhone blamed for including journalist in highly classified bombing plans](https://appleinsider.com/articles/25/04/06/security-advisor-blames-iphone-for-revealing-war-plans?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
