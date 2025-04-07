@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie is finally ready for a Marathon &#39;gameplay reveal&#39;](https://www.pcgamer.com/games/fps/bungie-is-finally-ready-for-a-marathon-gameplay-reveal/)
- - [Today&#39;s Wordle answer for Monday, April 7](https://www.pcgamer.com/games/puzzle/games/puzzle/wordle-answer-today-april-7-2025/)
- - [The mechs of BattleTech will finally fight some proper kaiju in its first-ever spinoff alternate universe](https://www.pcgamer.com/games/board-games/the-mechs-of-battletech-will-finally-fight-some-proper-kaiju-in-its-first-ever-spinoff-alternate-universe/)<!-- GAME:END -->
+ - [Arkane was &#39;devastated&#39; by its cancelled Half-Life 2 Ravenholm game, but the masterclass it got from late visionary artist Viktor Antonov &#39;was pivotal to what would become Arkane later&#39;](https://www.pcgamer.com/games/fps/arkane-was-devastated-by-its-cancelled-half-life-2-ravenholm-game-but-the-masterclass-it-got-from-late-visionary-artist-viktor-antonov-was-pivotal-to-what-would-become-arkane-later/)
+ - [How to make Biryani in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-biryani-recipe/)
+ - [Bungie is finally ready for a Marathon &#39;gameplay reveal&#39;](https://www.pcgamer.com/games/fps/bungie-is-finally-ready-for-a-marathon-gameplay-reveal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
