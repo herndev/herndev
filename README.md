@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And she dress to complain](http://9gag.com/gag/ae9VYZB)
- - ⏩ [Thanks Eva](http://9gag.com/gag/aPA8MYq)
- - 👉 [My bees survived the winter.](http://9gag.com/gag/aoy41Ow)<!-- MEMES:END -->
+ - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
+ - ⏩ [Premature sniperator](http://9gag.com/gag/amom93o)
+ - 👉 [Magnet ear](http://9gag.com/gag/azxGAjx)<!-- MEMES:END -->
 
 ---
 
