@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You need to men the fence with someone](http://9gag.com/gag/ae9VbgO)
- - ⏩ [And she dress to complain](http://9gag.com/gag/ae9VYZB)
- - 👉 [We are approaching the one year anniversary for the most incredible moment ever filmed](http://9gag.com/gag/aMVn8r1)<!-- MEMES:END -->
+ - 💣 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
+ - ⏩ [We have to do this](http://9gag.com/gag/a0e6dyQ)
+ - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
 
 ---
 
