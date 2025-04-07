@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Drug Dealer Simulator is getting review bombed for suing Schedule I, even though it hasn&#39;t actually sued Schedule I yet](https://www.pcgamer.com/games/sim/drug-dealer-simulator-is-getting-review-bombed-for-suing-schedule-i-even-though-it-hasnt-actually-sued-schedule-i-yet/)
- - [Three Essential Tips For South Of Midnight](https://kotaku.com/south-of-midnight-tips-crouton-hard-fights-exploration-1851775078)
- - [South Of Midnight: The Kotaku Review](https://kotaku.com/south-of-midnight-game-pass-xbox-series-pc-south-review-1851775149)<!-- GAME:END -->
+ - [Introducing the Season 03 Battle Pass, BlackCell, and New Store Bundles for Call of Duty: Black Ops 6 and Call of Duty: Warzone](https://www.callofduty.com/blog/2025/04/call-of-duty-black-ops-6-warzone-zombies-season-three-battle-pass-blackcell-bundles-intel-drop#new_tab)
+ - [Assassin&#39;s Creed Shadows&#39; first major update arrives tomorrow with very good news for your horse](https://www.pcgamer.com/games/action/assassins-creed-shadows-first-major-update-arrives-tomorrow-with-very-good-news-for-your-horse/)
+ - [Nintendo Switch 2 cartridges designed to be spit out](https://www.polygon.com/news/554646/nintendo-switch-2-still-taste-bad)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
