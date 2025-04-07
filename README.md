@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: Samsung finally rolls out stable One UI 7 update 7 months after Android 15 release](https://www.androidauthority.com/one-ui-7-stable-rollout-3542053/)
- - [AI is aiding radiologists with tools like tumor-detection algorithms; 75%+ of AI software cleared by the US FDA for medical use is designed to support radiology &lpar;Jamie Friedlander Serrano/Washington Post&rpar;](http://www.techmeme.com/250407/p3#a250407p3)
- - [From Buds 4 to Wireless Z3, here’s what we found out about OnePlus’s future plans &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-audio-products-leak-apk-teardown-3542117/)<!-- TECH:END -->
+ - [TSMC and Foxconn fell by the Taiex exchange&#39;s daily 10% limit on April 7 as US tariffs roil global supply chains; Taiwan&#39;s 32% tariff is among Asia&#39;s highest &lpar;Reuters&rpar;](http://www.techmeme.com/250407/p5#a250407p5)
+ - [Nintendo and Sony fell by 10%+ on April 7 amid a widespread selloff in Japan exacerbated by US tariffs; most Switch hardware is assembled in China and Vietnam &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250407/p4#a250407p4)
+ - [Samsung already sells phones with 8 years of updates, but they’re not for everyone](https://www.androidauthority.com/samsung-phone-eight-years-of-updates-3542132/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
