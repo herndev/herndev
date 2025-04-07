@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Breaking: Samsung finally rolls out stable One UI 7 update 7 months after Android 15 release](https://www.androidauthority.com/one-ui-7-stable-rollout-3542053/)
  - [AI is aiding radiologists with tools like tumor-detection algorithms; 75%+ of AI software cleared by the US FDA for medical use is designed to support radiology &lpar;Jamie Friedlander Serrano/Washington Post&rpar;](http://www.techmeme.com/250407/p3#a250407p3)
- - [From Buds 4 to Wireless Z3, here’s what we found out about OnePlus’s future plans &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-audio-products-leak-apk-teardown-3542117/)
- - [Samsung’s Weather widget is getting plenty of welcome tweaks with One UI 7](https://www.androidauthority.com/samsung-weather-widget-one-ui-7-3542092/)<!-- TECH:END -->
+ - [From Buds 4 to Wireless Z3, here’s what we found out about OnePlus’s future plans &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-audio-products-leak-apk-teardown-3542117/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
