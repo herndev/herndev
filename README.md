@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13T swaps the iconic Alert Slider for this new shortcut key](https://www.androidauthority.com/oneplus-13t-shortcut-key-3542093/)
- - [Sources: OpenAI recently discussed acquiring io Products, a startup Sam Altman has been working on with Jony Ive to develop an AI-powered device, for $500M+ &lpar;The Information&rpar;](http://www.techmeme.com/250407/p1#a250407p1)
- - [Nothing’s new Essential Space feature has an essential catch users didn’t see coming](https://www.androidauthority.com/nothing-essential-space-monthly-limit-3542042/)<!-- TECH:END -->
+ - [Samsung’s Weather widget is getting plenty of welcome tweaks with One UI 7](https://www.androidauthority.com/samsung-weather-widget-one-ui-7-3542092/)
+ - [A look at the ARC-AGI exam designed by French computer scientist François Chollet to show the gulf between AI models&#39; memorized answers and &quot;fluid intelligence&quot; &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/250407/p2#a250407p2)
+ - [OnePlus 13T swaps the iconic Alert Slider for this new shortcut key](https://www.androidauthority.com/oneplus-13t-shortcut-key-3542093/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
