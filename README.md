@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - ⏩ [Premature sniperator](http://9gag.com/gag/amom93o)
- - 👉 [Magnet ear](http://9gag.com/gag/azxGAjx)<!-- MEMES:END -->
+ - 💣 [Absolute cinema](http://9gag.com/gag/a9y8r1W)
+ - ⏩ [Easy as it sound](http://9gag.com/gag/aD2ZjZN)
+ - 👉 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)<!-- MEMES:END -->
 
 ---
 
