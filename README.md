@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [That game jam based on Oblivion&#39;s terrible persuasion wheel actually produced some good, weird ideas](https://www.pcgamer.com/games/that-game-jam-based-on-oblivions-terrible-persuasion-wheel-actually-produced-some-good-weird-ideas/)
- - [The rights to one of the greatest PC games of all time languished in the vault of a Midwestern insurance firm until a frustrated player bugged them about a re-release, &#39;But they asked me if I wanted to do System Shock 3&#39;](https://www.pcgamer.com/games/fps/the-rights-to-one-of-the-greatest-pc-games-of-all-time-languished-in-the-vault-of-a-midwestern-insurance-firm-until-a-frustrated-player-bugged-them-about-a-re-release-but-they-asked-me-if-i-wanted-to-do-system-shock-3/)
- - [Are PC handhelds like Steam Deck really competitors for Switch 2?](https://www.polygon.com/nintendo-switch-2/553131/pc-handhelds-steam-deck-vs-switch-2)<!-- GAME:END -->
+ - [Microsoft unveils AI-generated demo &#39;inspired&#39; by Quake 2 that runs worse than Doom on a calculator, made me nauseous, and demanded untold dollars, energy, and research to make](https://www.pcgamer.com/software/ai/microsoft-unveils-ai-generated-demo-inspired-by-quake-2-that-runs-worse-than-doom-on-a-calculator-made-me-nauseous-and-demanded-untold-dollars-energy-and-research-to-make/)
+ - [You really should play Sultan&#39;s Game, a beautiful, cruel card shuffler which launched on Steam recently](https://www.pcgamer.com/games/card-games/you-really-should-sultans-game-a-beautiful-cruel-card-shuffler-which-launched-on-steam-recently/)
+ - [Five new Steam games you probably missed &lpar;April 7, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-7-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
