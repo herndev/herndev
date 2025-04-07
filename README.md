@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ brings Lumon Industries to life for thousands of &#39;Severance&#39; fans](https://appleinsider.com/articles/25/04/07/apple-tv-brings-lumon-industries-to-life-for-thousands-of-severance-fans?utm_medium=rss)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [The CEO of humanoid robot startup Figure AI, which has raised $700M+ to date, seemingly exaggerated its deployment of robots at BMW in interviews and posts &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250407/p24#a250407p24)<!-- TECH:END -->
+ - [Gemini could soon help you ‘Power up’ your prompts with a tap &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-attachment-interface-redesign-power-up-apk-3542331/)
+ - [Whoopsie daisy Bitcoin!](https://www.theverge.com/cryptocurrency/644749/bitcoin-tariff-fall-pricing)
+ - [Meta VP of generative AI Ahmad Al-Dahle denies a rumor that the company trained its Llama 4 models on test sets, saying Meta &quot;would never do that&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250407/p27#a250407p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
