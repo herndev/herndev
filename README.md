@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this really a cult?](http://9gag.com/gag/an7vy2V)
- - ⏩ [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
- - 👉 [Okay I&#39;m waiting for you degenerates to post the screenshots](http://9gag.com/gag/aNDVW2K)<!-- MEMES:END -->
+ - 💣 [Is there?](http://9gag.com/gag/avyErZW)
+ - ⏩ [Daily chase](http://9gag.com/gag/a0e6dnO)
+ - 👉 [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)<!-- MEMES:END -->
 
 ---
 
