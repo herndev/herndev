@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolute cinema](http://9gag.com/gag/a9y8r1W)
+ - 💣 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
  - ⏩ [Easy as it sound](http://9gag.com/gag/aD2ZjZN)
- - 👉 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)<!-- MEMES:END -->
+ - 👉 [Is this really a cult?](http://9gag.com/gag/an7vy2V)<!-- MEMES:END -->
 
 ---
 
