@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bungie is finally ready for a Marathon &#39;gameplay reveal&#39;](https://www.pcgamer.com/games/fps/bungie-is-finally-ready-for-a-marathon-gameplay-reveal/)
  - [Today&#39;s Wordle answer for Monday, April 7](https://www.pcgamer.com/games/puzzle/games/puzzle/wordle-answer-today-april-7-2025/)
- - [The mechs of BattleTech will finally fight some proper kaiju in its first-ever spinoff alternate universe](https://www.pcgamer.com/games/board-games/the-mechs-of-battletech-will-finally-fight-some-proper-kaiju-in-its-first-ever-spinoff-alternate-universe/)
- - [Microsoft unveils AI-generated demo &#39;inspired&#39; by Quake 2 that runs worse than Doom on a calculator, made me nauseous, and demanded untold dollars, energy, and research to make](https://www.pcgamer.com/software/ai/microsoft-unveils-ai-generated-demo-inspired-by-quake-2-that-runs-worse-than-doom-on-a-calculator-made-me-nauseous-and-demanded-untold-dollars-energy-and-research-to-make/)<!-- GAME:END -->
+ - [The mechs of BattleTech will finally fight some proper kaiju in its first-ever spinoff alternate universe](https://www.pcgamer.com/games/board-games/the-mechs-of-battletech-will-finally-fight-some-proper-kaiju-in-its-first-ever-spinoff-alternate-universe/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
