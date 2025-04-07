@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - ⏩ [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
- - 👉 [What else did he expect?](http://9gag.com/gag/a1m5d52)<!-- MEMES:END -->
+ - ⏩ [We have to do this](http://9gag.com/gag/a0e6dyQ)
+ - 👉 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)<!-- MEMES:END -->
 
 ---
 
