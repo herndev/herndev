@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Mega Evolve and get Mega Energy in Pokémon Go](https://www.polygon.com/pokemon-go-guide/22447919/mega-evolution-list-candy-bonus-buddy-raids)
- - [We attempted the silliest challenges possible in Hitman](https://www.polygon.com/videos/552494/lets-play-hitman-world-of-assassination-nvidia-gpu-laptop)
- - [Switch 2 game-key cards won’t be account- or console-locked](https://www.polygon.com/nintendo-switch-2/554236/switch-2-game-key-card-digital-account-console-lock)<!-- GAME:END -->
+ - [Drug Dealer Simulator is getting review bombed for suing Schedule I, even though it hasn&#39;t actually sued Schedule I yet](https://www.pcgamer.com/games/sim/drug-dealer-simulator-is-getting-review-bombed-for-suing-schedule-i-even-though-it-hasnt-actually-sued-schedule-i-yet/)
+ - [Three Essential Tips For South Of Midnight](https://kotaku.com/south-of-midnight-tips-crouton-hard-fights-exploration-1851775078)
+ - [South Of Midnight: The Kotaku Review](https://kotaku.com/south-of-midnight-game-pass-xbox-series-pc-south-review-1851775149)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
