@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is making it easier to unsubscribe from automated text messages](https://www.androidauthority.com/google-messages-unsubscribe-button-3542411/)
- - [Some Shein and Temu ‘haul video’ creators are stocking up](https://www.theverge.com/creators/644886/shein-temu-haul-creators-stocking-up-tariffs)
- - [Apple Store employees say the past few days have felt like holiday season, as the threat of tariffs and potential price hikes sparked a shopping frenzy &lpar;Bloomberg&rpar;](http://www.techmeme.com/250407/p30#a250407p30)<!-- TECH:END -->
+ - [A flood of panic-buying has started in anticipation of major iPhone price increases](https://appleinsider.com/articles/25/04/07/a-flood-of-panic-buying-has-started-in-anticipation-of-major-iphone-price-increases?utm_medium=rss)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Broadcom announces a share buyback program of up to $10B, set to run through the end of the year; AVGO jumps 3%+ after hours, after closing up 5.37% on Monday &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250407/p33#a250407p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
