@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out the beautiful illustrations in Liam O’Brien’s Critical Role fairy tale book](https://www.polygon.com/critical-role/552277/critical-role-der-katzenprinz-order-liam-obrien-preview)
- - [Former Awesomenauts developers finish the game they were working on when the studio went bankrupt in 2023, and it&#39;ll be free for the first 24 hours after release](https://www.pcgamer.com/games/action/former-awesomenauts-developers-finish-the-game-they-were-working-on-when-the-studio-went-bankrupt-in-2023-and-itll-be-free-for-the-first-24-hours-after-release/)
- - [Blue Prince Is Like Nothing You’ve Played Before](https://news.xbox.com/en-us/2025/04/07/blue-prince-game-pass-xbox/)<!-- GAME:END -->
+ - [Celebrating 11 BAFTA Nominations for Senua’s Saga: Hellblade II with Ninja Theory](https://news.xbox.com/en-us/2025/04/07/senuas-saga-hellblade-2-bafta-ninja-theory/)
+ - [&#39;They chewed me up pretty good&#39;: A US plaintiff attempted to use an AI avatar to argue their court case and the judges were far from amused](https://www.pcgamer.com/software/ai/they-chewed-me-up-pretty-good-a-us-plaintiff-attempted-to-use-an-ai-avatar-to-argue-their-court-case-and-the-judges-were-far-from-amused/)
+ - [Preppered: an existential platformer is a game that&#39;ll make you pay not just for your choices, but your sucky platforming skills, too](https://www.pcgamer.com/games/action/preppered-an-existential-platformer-is-a-game-thatll-make-you-pay-not-just-for-your-choices-but-your-sucky-platforming-skills-too/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
