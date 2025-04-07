@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I feel ya](http://9gag.com/gag/azxGjpb)
- - ⏩ [Footage of 12-metre waves that the cruise liner Ocean Explorer was able to endure in the Drake Passage during a powerful storm.](http://9gag.com/gag/ayNW8QM)
- - 👉 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)<!-- MEMES:END -->
+ - 💣 [This is not a fashionable neighborhood, but a graveyard for the Sinaloa cartel.](http://9gag.com/gag/a87DjmZ)
+ - ⏩ [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
+ - 👉 [Stupid ass movie](http://9gag.com/gag/azxGrbm)<!-- MEMES:END -->
 
 ---
 
