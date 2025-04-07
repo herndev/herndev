@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK iCloud backdoor mandate hearing must be made public -- eventually](https://appleinsider.com/articles/25/04/07/uk-icloud-backdoor-mandate-hearing-must-be-made-public----eventually?utm_medium=rss)
- - [Global chip stocks drop as the US tariff rout intensifies, extending losses from last week; Nvidia, Intel, ASML, SK Hynix, Infineon, and STMicro all fall &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250407/p11#a250407p11)
- - [Food for thought: I’ve finally found the best use for Google’s AI Overview](https://www.androidauthority.com/ai-overview-food-3541167/)<!-- TECH:END -->
+ - [Nintendo says tariffs aren’t the reason the Switch 2 costs $449.99](https://www.theverge.com/nintendo/643277/nintendo-switch-2-price-tariffs-doug-bowser-interview)
+ - [The Switch 2’s GameChat Social Feature Could Revolutionize the Way You Play With Friends](https://www.wired.com/story/the-switch-2s-gamechat-social-feature-could-revolutionize-the-way-you-play-with-friends/)
+ - [Nintendo Is ‘Actively Assessing’ What a Trade War Means for the Switch 2](https://www.wired.com/story/nintendo-is-actively-assessing-what-trade-war-means-for-switch-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
