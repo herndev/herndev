@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you see your ex in public](http://9gag.com/gag/a6Zn7em)
- - ⏩ [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
- - 👉 [What else did he expect?](http://9gag.com/gag/a1m5d52)<!-- MEMES:END -->
+ - 💣 [What else did he expect?](http://9gag.com/gag/a1m5d52)
+ - ⏩ [The new Central Park 5, wait until the left starts defending them too and later make Netflix documentaries how they&#39;re innocent.](http://9gag.com/gag/a87DpO1)
+ - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
 
 ---
 
