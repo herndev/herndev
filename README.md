@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [South of Midnight, Blue Prince, and the other new games out this week](https://www.polygon.com/gaming/550720/best-new-game-releases-april-7-south-of-midnight-blue-prince)
- - [What time does Honkai Star Rail 3.2 release?](https://www.polygon.com/honkai-star-rail-guides/553222/version-3-2-release-times-maintenance-end)
- - [You can create plinking, plonking renditions of classic game theme tunes with a sweep of your finger using these 3D-printed fidget toys](https://www.pcgamer.com/hardware/you-can-create-plinking-plonking-renditions-of-classic-game-theme-tunes-with-a-sweep-of-your-finger-using-these-3d-printed-fidget-toys/)<!-- GAME:END -->
+ - [The Last Of Us, Season 2: The Kotaku Review](https://kotaku.com/last-of-us-season-2-hbo-max-show-review-joel-ellie-abby-1851774661)
+ - [G.Skill&#39;s 128 GB golden RAM kit is the first high-capacity set to hit DDR5-8000 speeds and it&#39;s making me reconsider my views on PC hardware bling](https://www.pcgamer.com/hardware/memory/g-skills-128-gb-golden-ram-kit-is-the-first-high-capacity-set-to-hit-ddr5-8000-speeds-and-its-making-me-reconsider-my-views-on-pc-hardware-bling/)
+ - [The Death Stranding movie is being written and directed by the guy behind Pig](https://www.pcgamer.com/games/the-death-stranding-movie-is-being-written-and-directed-by-the-guy-behind-pig/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
