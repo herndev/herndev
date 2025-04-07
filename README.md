@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC and Foxconn fell by the Taiex exchange&#39;s daily 10% limit on April 7 as US tariffs roil global supply chains; Taiwan&#39;s 32% tariff is among Asia&#39;s highest &lpar;Reuters&rpar;](http://www.techmeme.com/250407/p5#a250407p5)
- - [Nintendo and Sony fell by 10%+ on April 7 amid a widespread selloff in Japan exacerbated by US tariffs; most Switch hardware is assembled in China and Vietnam &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250407/p4#a250407p4)
- - [Samsung already sells phones with 8 years of updates, but they’re not for everyone](https://www.androidauthority.com/samsung-phone-eight-years-of-updates-3542132/)<!-- TECH:END -->
+ - [Another Nothing phone is coming this month, just not THAT one](https://www.androidauthority.com/cmf-phone-2-pro-launch-date-3542153/)
+ - [Source: AI coding startup Cursor, which has helped permeate &quot;vibe coding&quot;, hit 1M+ DAUs in March 2025, driven largely by word-of-mouth growth &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250407/p8#a250407p8)
+ - [That article you shared from Discover? It might be using a mysterious Google URL now](https://www.androidauthority.com/google-discover-shortened-urls-3542126/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
