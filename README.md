@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What else did he expect?](http://9gag.com/gag/a1m5d52)
- - ⏩ [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 👉 [The new Central Park 5, wait until the left starts defending them too and later make Netflix documentaries how they&#39;re innocent.](http://9gag.com/gag/a87DpO1)<!-- MEMES:END -->
+ - 💣 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
+ - ⏩ [Mother cat gains the trust of a scared rescue kitten who was abused by it&#39;s previous owners](http://9gag.com/gag/aMVnAYX)
+ - 👉 [Verbal Assassin](http://9gag.com/gag/amomrjv)<!-- MEMES:END -->
 
 ---
 
