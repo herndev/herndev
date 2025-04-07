@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could import more iPhones from India due to Trump&#39;s tariffs](https://appleinsider.com/articles/25/04/07/apple-could-import-more-iphones-from-india-due-to-trumps-tariffs?utm_medium=rss)
- - [Microsoft fires employee protestor who called AI boss a ‘war profiteer’](https://www.theverge.com/news/644769/microsoft-fires-employee-protestor-war-profiteer)
- - [Apple stock hammered for third consecutive market day, falls on news of more tariffs](https://appleinsider.com/articles/25/04/07/apple-stock-hammered-for-third-consecutive-market-day-falls-on-news-of-more-tariffs?utm_medium=rss)<!-- TECH:END -->
+ - [Google Messages is making it easier to unsubscribe from automated text messages](https://www.androidauthority.com/google-messages-unsubscribe-button-3542411/)
+ - [Some Shein and Temu ‘haul video’ creators are stocking up](https://www.theverge.com/creators/644886/shein-temu-haul-creators-stocking-up-tariffs)
+ - [Apple Store employees say the past few days have felt like holiday season, as the threat of tariffs and potential price hikes sparked a shopping frenzy &lpar;Bloomberg&rpar;](http://www.techmeme.com/250407/p30#a250407p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
