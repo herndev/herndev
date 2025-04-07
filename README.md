@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this really a cult?](http://9gag.com/gag/an7vy2V)
- - ⏩ [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)
- - 👉 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)<!-- MEMES:END -->
+ - 💣 [Friendly reminder...](http://9gag.com/gag/azxGr9x)
+ - ⏩ [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
+ - 👉 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)<!-- MEMES:END -->
 
 ---
 
