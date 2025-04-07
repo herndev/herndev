@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
- - ⏩ [We have to do this](http://9gag.com/gag/a0e6dyQ)
- - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
+ - 💣 [When you see your ex in public](http://9gag.com/gag/a6Zn7em)
+ - ⏩ [Daily chase](http://9gag.com/gag/a0e6dnO)
+ - 👉 [If you know you know](http://9gag.com/gag/aNDVnRw)<!-- MEMES:END -->
 
 ---
 
