@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arkane was &#39;devastated&#39; by its cancelled Half-Life 2 Ravenholm game, but the masterclass it got from late visionary artist Viktor Antonov &#39;was pivotal to what would become Arkane later&#39;](https://www.pcgamer.com/games/fps/arkane-was-devastated-by-its-cancelled-half-life-2-ravenholm-game-but-the-masterclass-it-got-from-late-visionary-artist-viktor-antonov-was-pivotal-to-what-would-become-arkane-later/)
- - [How to make Biryani in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-biryani-recipe/)
- - [Bungie is finally ready for a Marathon &#39;gameplay reveal&#39;](https://www.pcgamer.com/games/fps/bungie-is-finally-ready-for-a-marathon-gameplay-reveal/)<!-- GAME:END -->
+ - [How to make Ghostly Fish Steak in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-make-ghostly-fish-steak-in-disney-dreamlight-valley/)
+ - [Dawn of Hunt is Path of Exile 2&#39;s most contentious update, but it&#39;s also the most fun I&#39;ve had with ARPG necromancy, well… ever](https://www.pcgamer.com/games/action/dawn-of-hunt-is-path-of-exile-2s-most-contentious-update-but-its-also-the-most-fun-ive-had-with-arpg-necromancy-well-ever/)
+ - [One cable to rule them all: China&#39;s 8K-ready HDMI and DisplayPort competitor supports up to 192 Gbps bandwidth and 480 W power delivery in a single connection](https://www.pcgamer.com/hardware/one-cable-to-rule-them-all-chinas-8k-ready-hdmi-and-displayport-competitor-supports-up-to-192-gbps-bandwidth-and-480-w-power-delivery-in-a-single-connection/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
