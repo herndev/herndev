@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Inkitt, a publishing platform that uses AI to create sequels and spinoffs of authors&#39; original work with minimal human input, raising quality concerns &lpar;Vauhini Vara/Bloomberg&rpar;](http://www.techmeme.com/250408/p3#a250408p3)
- - [Here are all the camera features coming to your Samsung phone with One UI 7](https://www.androidauthority.com/samsung-one-ui-7-camera-features-old-phones-3542480/)
- - [A look at the state of AI in 2025 across training and inference costs, carbon footprint, investment activity, bills proposed in the US, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/250408/p2#a250408p2)<!-- TECH:END -->
+ - [Best Internet Providers in Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-michigan/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 9, #668](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-9-668/#ftag=CAD590a51e)
+ - [Zelle App Shuts Down. Here&#39;s How to Still Digitally Send Money for Free](https://www.cnet.com/personal-finance/banking/zelle-app-shuts-down-heres-how-to-still-digitally-send-money-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
