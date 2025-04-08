@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts: the original Switch&#39;s huge success has given Nintendo a high mountain to climb, and the Switch 2 is a massive bet that fans want more of the same &lpar;Financial Times&rpar;](http://www.techmeme.com/250408/p10#a250408p10)
- - [Poll: Can you actually see the difference between FHD and QHD on your phone?](https://www.androidauthority.com/see-difference-fhd-qhd-phone-poll-3542522/)
- - [Interviews with 40 sources describe concerns about Helsing, Europe&#39;s most valuable defense tech startup, including whether it can live up to its €5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250408/p9#a250408p9)<!-- TECH:END -->
+ - [Sources: US officials say DOGE is using AI to surveil at least one federal agency&#39;s communications for anti-Trump sentiment; a source says DOGE is using Signal &lpar;Reuters&rpar;](http://www.techmeme.com/250408/p14#a250408p14)
+ - [Apple may copy a 2013 Galaxy S4 feature for iPhone 17 Pro’s camera](https://www.androidauthority.com/apple-ios-19-leak-dual-camera-recording-3542567/)
+ - [Automate your lawn care with eufy’s new E15 and E18 smart lawn mowers](https://www.androidauthority.com/eufy-e15-and-e18-smart-lawn-mowers-3542508/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
