@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only Fans Stonks](http://9gag.com/gag/aqyQrB7)
- - ⏩ [Friendly reminder...](http://9gag.com/gag/azxGr9x)
- - 👉 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)<!-- MEMES:END -->
+ - 💣 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
+ - ⏩ [Still would](http://9gag.com/gag/aoy4Nx0)
+ - 👉 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)<!-- MEMES:END -->
 
 ---
 
