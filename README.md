@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battle royale interest is shrinking but Fortnite has a larger slice of the pie than ever, according to new industry report](https://www.pcgamer.com/gaming-industry/battle-royale-interest-is-shrinking-but-fortnite-has-a-larger-slice-of-the-pie-than-ever-according-to-new-industry-report/)
- - [One of the biggest games on Steam right now is Bongo Cat, a cat with a hat who smacks your Windows taskbar like a bongo drum when you type](https://www.pcgamer.com/games/life-sim/one-of-the-biggest-games-on-steam-right-now-is-bongo-cat-a-cat-with-a-hat-who-smacks-your-windows-taskbar-like-a-bongo-drum-when-you-type/)
- - [Blue Prince is currently the best-reviewed game of 2025](https://www.pcgamer.com/games/puzzle/blue-prince-is-currently-the-best-reviewed-game-of-2025/)<!-- GAME:END -->
+ - [Balatro creator LocalThunk is throwing his weight around to make sure Blue Prince gets some love at The Game Awards: &#39;Geoff my man I better see Blue Prince as a GOTY nominee&#39;](https://www.pcgamer.com/games/puzzle/balatro-creator-localthunk-is-throwing-his-weight-around-to-make-sure-blue-prince-gets-some-love-at-the-game-awards-geoff-my-man-i-better-see-blue-prince-as-a-goty-nominee/)
+ - [Switch 2 price won’t increase in response to tariffs, analyst says](https://www.polygon.com/nintendo-switch-2/554889/price-tariffs-analyst-forecast)
+ - [Battle royale interest is shrinking but Fortnite has a larger slice of the pie than ever, according to new industry report](https://www.pcgamer.com/gaming-industry/battle-royale-interest-is-shrinking-but-fortnite-has-a-larger-slice-of-the-pie-than-ever-according-to-new-industry-report/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
