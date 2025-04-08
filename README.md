@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with UiPath CEO Daniel Dines on rejoining in May 2024 after stepping down, agentic AI being the future of automation, licensing AI tech, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250407/p39#a250407p39)
  - [T-Mobile’s ‘Family Freedom’ deal will now wipe out your Verizon debt and give you free phones](https://www.androidauthority.com/t-mobiles-family-freedom-deal-3542463/)
- - [LMArena says it&#39;s updating its leaderboard rules after Meta secured the #2 spot with a Llama 4 Maverick version it noted in fine print was not released publicly &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250407/p38#a250407p38)
- - [Leaker wars escalate, Jon Prosser shows alleged iOS 19 redesign](https://appleinsider.com/articles/25/04/07/leaker-wars-escalate-as-jon-prosser-allegedly-shows-entire-ios-19-redesign?utm_medium=rss)<!-- TECH:END -->
+ - [LMArena says it&#39;s updating its leaderboard rules after Meta secured the #2 spot with a Llama 4 Maverick version it noted in fine print was not released publicly &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250407/p38#a250407p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
