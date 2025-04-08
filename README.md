@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with UiPath CEO Daniel Dines on rejoining in May 2024 after stepping down, agentic AI being the future of automation, licensing AI tech, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250407/p39#a250407p39)
- - [T-Mobile’s ‘Family Freedom’ deal will now wipe out your Verizon debt and give you free phones](https://www.androidauthority.com/t-mobiles-family-freedom-deal-3542463/)
- - [LMArena says it&#39;s updating its leaderboard rules after Meta secured the #2 spot with a Llama 4 Maverick version it noted in fine print was not released publicly &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250407/p38#a250407p38)<!-- TECH:END -->
+ - [IBM unveils the z17 mainframe with a Telum II chip, built for 250+ AI use cases and can perform 450B daily inferences, 50% more than z16, available on June 8 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250408/p1#a250408p1)
+ - [It’s the end of the road for the Galaxy S20 series as Samsung ends software updates](https://www.androidauthority.com/samsung-galaxy-s20-software-updates-end-3542466/)
+ - [Facebook, Instagram Fact-Checking Has Ended: What That Means for You](https://www.cnet.com/news/social-media/facebook-instagram-and-threads-will-stop-fact-checking-as-of-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
