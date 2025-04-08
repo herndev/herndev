@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)
- - [Razer pauses direct sales of the upcoming Blade 16 and other laptops in the US as new tariffs loom &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250408/p30#a250408p30)
- - [White House Press Secretary Karoline Leavitt says that President Trump believes the US has the resources and workforce to build iPhones in the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250408/p29#a250408p29)<!-- TECH:END -->
+ - [A Pixel Watch 3 feature that could save your life is here in the US, finally](https://www.androidauthority.com/pixel-watch-3-loss-of-pulse-launch-3542761/)
+ - [Even Streaming Services Might Be Hurt by Trump’s Tariffs](https://www.wired.com/story/even-streaming-services-might-be-hurt-by-trumps-tariffs/)
+ - [The White House says that tariffs on China are set to rise to 104% at 12:01am ET Wednesday after China missed Trump&#39;s deadline to remove its reciprocal tariff &lpar;Elisabeth Buchwald/CNN&rpar;](http://www.techmeme.com/250408/p31#a250408p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
