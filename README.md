@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [What is the Pokémon TCG Pocket meta in April 2025?](https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards)
  - [Can Meditite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/554117/can-meditite-be-shiny-medicham-mega)
- - [Today&#39;s Wordle answer for Tuesday, April 8](https://www.pcgamer.com/games/puzzle/games/puzzle/wordle-answer-today-april-8-2025/)
- - [Cops called as A Minecraft Movie sends kids into chicken jockey frenzies](https://www.pcgamer.com/movies-tv/cops-called-as-a-minecraft-movie-sends-kids-into-chicken-jockey-frenzies/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, April 8](https://www.pcgamer.com/games/puzzle/games/puzzle/wordle-answer-today-april-8-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
