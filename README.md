@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sabrina Carpenter has been revealed as the icon for Fortnite Festival&#39;s eighth season](https://www.pcgamer.com/games/rhythm/sabrina-carpenter-has-been-revealed-as-the-icon-for-fortnite-festivals-eighth-season/)
- - [Why REPO has topped Steam charts and Twitch feeds since launch](https://www.polygon.com/impressions/554398/repo-streamer-social-media-clips-game)
- - [The Last of Us Part 2 proves that 8 GB of VRAM can be enough, even at 4K with maximum settings, so why aren&#39;t more games using the same clever asset-streaming trick?](https://www.pcgamer.com/hardware/graphics-cards/the-last-of-us-part-2-proves-that-8-gb-of-vram-can-be-enough-even-at-4k-with-maximum-settings-so-why-arent-more-games-using-the-same-clever-asset-streaming-trick/)<!-- GAME:END -->
+ - [The Sunless Cell: How Bungie Revived a Fan-Favorite Mission for a Modern Destiny 2](https://news.xbox.com/en-us/2025/04/08/the-sunless-cell-destiny-2-return/)
+ - [Shelter&#39;s developer is now making a cozy decorating game called Twinkleby](https://www.pcgamer.com/games/city-builder/shelters-developer-is-now-making-a-cozy-decorating-game-called-twinkleby/)
+ - [All Nintendo Switch 2 games announced so far, including exclusive games](https://www.polygon.com/nintendo-switch-2/550282/games-list-exclusive-titles-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
