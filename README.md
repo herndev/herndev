@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s belief that iPhone manufacturing could quickly move to the US is wrong](https://appleinsider.com/articles/25/04/08/trumps-belief-that-iphone-manufacturing-could-quickly-move-to-the-us-is-wrong?utm_medium=rss)
- - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [Germany-based Hawk, which offers AI-powered anti-money laundering services, raised a $56M Series C led by One Peak and says it has over 80 customers worldwide &lpar;Cameron Emanuel-Burns/FinTech Futures&rpar;](http://www.techmeme.com/250408/p32#a250408p32)<!-- TECH:END -->
+ - [Aurascape, which offers enterprise security tools to mitigate risks from third-party AI apps, emerges from stealth with $50M from Menlo, Mayfield, and others &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/250408/p34#a250408p34)
+ - [Amazon is already changing its ultra-cheap Temu copycat](https://www.theverge.com/news/645465/amazon-haul-temu-ultra-cheap-tariffs-trump)
+ - [Predator: Killer of Killers teases a most dangerous, multigenerational game in new trailer](https://www.theverge.com/news/645394/predator-killer-of-killers-trailer-reelase-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
