@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
+ - 💣 [Is there?](http://9gag.com/gag/avyErZW)
  - ⏩ [The U.S.S EnterThighs](http://9gag.com/gag/amom2pX)
- - 👉 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)<!-- MEMES:END -->
+ - 👉 [Trump said that the United States and Italy have been allies since the time of Ancient Rome. The translator&#39;s reaction is priceless.](http://9gag.com/gag/a5QGbKg)<!-- MEMES:END -->
 
 ---
 
