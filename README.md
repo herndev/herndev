@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is there?](http://9gag.com/gag/avyErZW)
- - ⏩ [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 👉 [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)<!-- MEMES:END -->
+ - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
+ - ⏩ [The U.S.S EnterThighs](http://9gag.com/gag/amom2pX)
+ - 👉 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)<!-- MEMES:END -->
 
 ---
 
