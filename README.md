@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile just announced another price hike: Here’s what’s changing](https://www.androidauthority.com/another-t-mobile-fee-hike-3542717/)
- - [Snap releases sponsored AI lenses, a new generative AI ad format users can interact with and that is powered by One Snap, its homegrown generative AI tech &lpar;Allison Schiff/AdExchanger&rpar;](http://www.techmeme.com/250408/p28#a250408p28)
- - [YouTube says Nope! to age-gating Balatro videos](https://www.theverge.com/news/645257/youtube-balatro-univeristy-videos-age-gated-localthunk)<!-- TECH:END -->
+ - [The kid-friendly Fitbit Ace has returned to its best price to date](https://www.theverge.com/tech/645178/fitbit-ace-lte-fitness-tracker-apple-watch-se-2022-deal-sale)
+ - [Hades II will launch first for consoles on Nintendo Switch and Switch 2](https://www.theverge.com/news/645303/hades-2-launch-nintendo-switch-consoles)
+ - [CNET Survey: Tariff Fears Are Speeding Up Tech Purchases](https://www.cnet.com/personal-finance/banking/cnet-tariff-survey-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
