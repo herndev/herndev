@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How LLMs, unlike previous transformative tech like the internet, disproportionately benefit regular people, with slower impact in corporations and governments &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250407/p37#a250407p37)
- - [Best Air Fryer Toaster Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
+ - [Leaker wars escalate, Jon Prosser shows alleged iOS 19 redesign](https://appleinsider.com/articles/25/04/07/leaker-wars-escalate-as-jon-prosser-allegedly-shows-entire-ios-19-redesign?utm_medium=rss)
+ - [Meta got caught gaming AI benchmarks](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming)
+ - [How LLMs, unlike previous transformative tech like the internet, disproportionately benefit regular people, with slower impact in corporations and governments &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250407/p37#a250407p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
