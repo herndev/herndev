@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-michigan/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 9, #668](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-9-668/#ftag=CAD590a51e)
- - [Zelle App Shuts Down. Here&#39;s How to Still Digitally Send Money for Free](https://www.cnet.com/personal-finance/banking/zelle-app-shuts-down-heres-how-to-still-digitally-send-money-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo says the Switch 2&#39;s new Game-Key cards, which trigger a game download when loaded, are not tied to a user&#39;s account and can be borrowed or resold &lpar;Darryn Bonthuys/GameSpot&rpar;](http://www.techmeme.com/250408/p5#a250408p5)
+ - [Samsung reports Q1 revenue up ~10% YoY to ~$53.4B and operating profit flat YoY at ~$4.5B, above ~$3.8B est., boosted by Galaxy S25 and legacy DRAM sales &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250408/p4#a250408p4)
+ - [Apple plans another iPhone X style redesign for the iPhone 20](https://appleinsider.com/articles/25/04/06/apple-plans-another-iphone-x-style-redesign-for-the-iphone-20?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
