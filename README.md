@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Choose Your Weapon and Play the Metal Eden Demo Today for Xbox Series X|S](https://news.xbox.com/en-us/2025/04/08/play-metal-eden-demo-today-for-xbox/)
- - [Hades 2 Is Coming To Switch 1 And 2 Before Other Consoles](https://kotaku.com/hades-2-switch-2-exclusivity-pc-steam-1-0-date-1851775233)
- - [MrBeast sues former employee accused of stealing company secrets, installing hidden cameras in office](https://www.polygon.com/news/554784/mrbeast-alleges-data-theft-former-employee-hidden-cameras-office-lawsuit)<!-- GAME:END -->
+ - [South of Midnight – Available Today!](https://www.xbox.com/en-US/games/store/south-of-midnight/9NJCVGS6T30K/0017#new_tab)
+ - [This First Berserker: Khazan Armor Is Perfect For Spectacular Spear Builds](https://kotaku.com/first-berserker-khazan-deep-shadow-armor-scroll-spear-1851775140)
+ - [&#39;Redstone genius&#39; Mumbo Jumbo was originally meant to make &#39;a bunch of crazy booby traps&#39; for A Minecraft Movie, but they were all cut from the film](https://www.pcgamer.com/movies-tv/redstone-genius-mumbo-jumbo-was-originally-meant-to-make-a-bunch-of-crazy-booby-traps-for-a-minecraft-movie-but-they-were-all-cut-from-the-film/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
