@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Donkey Kong Bananza leak throws a wrench in the Donkey Kong timeline](https://www.polygon.com/nintendo-switch-2/554164/donkey-kong-bananza-leak-pauline-odd-rock)
- - [I never actually looked up what Clair Obscur: Expedition 33 is about, and there&#39;s some bonkers RPG lore behind the title](https://www.pcgamer.com/games/rpg/i-never-actually-looked-up-what-clair-obscur-expedition-33-is-about-and-theres-some-bonkers-rpg-lore-behind-the-title/)
- - [How a hardcore survival game morphed into an open world town-builder where you play as a corgi mech pilot](https://www.pcgamer.com/games/survival-crafting/how-a-hardcore-survival-game-morphed-into-an-open-world-town-builder-where-you-play-as-a-corgi-mech-pilot/)<!-- GAME:END -->
+ - [Cops called as A Minecraft Movie sends kids into chicken jockey frenzies](https://www.pcgamer.com/movies-tv/cops-called-as-a-minecraft-movie-sends-kids-into-chicken-jockey-frenzies/)
+ - [I went to Universal’s new $7 billion Epic Universe park early — here’s what I saw](https://www.polygon.com/theme-parks/553995/epic-universe-tour-nintendo-harry-potter-dragon-photos)
+ - [Donkey Kong Bananza leak throws a wrench in the Donkey Kong timeline](https://www.polygon.com/nintendo-switch-2/554164/donkey-kong-bananza-leak-pauline-odd-rock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
