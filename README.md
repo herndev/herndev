@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)
- - ⏩ [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
- - 👉 [Chess](http://9gag.com/gag/aQzA3Pd)<!-- MEMES:END -->
+ - ⏩ [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
+ - 👉 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)<!-- MEMES:END -->
 
 ---
 
