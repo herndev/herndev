@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Highway to Hell: Diablo IV Releases Its First Roadmap](https://news.xbox.com/en-us/2025/04/08/highway-to-hell-diablo-iv-releases-its-first-roadmap/)
- - [How to quick catch in Pokémon Go](https://www.polygon.com/pokemon-go-guide/554242/quick-catch-how-to-tips)
- - [The Best Weapons For Beginners In Monster Hunter Wilds, Ranked](https://kotaku.com/monster-hunter-wilds-best-starting-weapons-sword-bow-1851775277)<!-- GAME:END -->
+ - [Age of Empires IV: Knights of Cross &amp; Rose Expansion Available Now](https://www.ageofempires.com/news/age-of-empires-iv-knights-of-cross-and-rose-available-now/#new_tab)
+ - [2025&#39;s Highest-Rated Metacritic Game Is Also A Game Pass And PS Plus Release This Month](https://kotaku.com/blue-prince-metacritic-game-pass-ps-plus-switch-1851775306)
+ - [Best Huntress starter build in Path of Exile 2](https://www.pcgamer.com/games/action/path-of-exile-2-huntress-build/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
