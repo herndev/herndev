@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Thank goodness, they added auto-follow for your horse in Assassin’s Creed Shadows](https://www.polygon.com/news/554829/assassins-creed-shadows-update-102-patch-notes)
  - [How to get and use Energy Crystals in REPO](https://www.pcgamer.com/games/horror/repo-energy-crystals-how-to-use/)
- - [How To Electrify The Battlefield With Marvel Rivals&#39; Thor](https://kotaku.com/marvel-rivals-thor-thorforce-ultimate-mjolnir-awaken-1851775319)
- - [YouTube is conducting a &#39;platform-wide review&#39; after mistakenly hitting Balatro videos with an age restriction for gambling content](https://www.pcgamer.com/games/youtube-is-conducting-a-platform-wide-review-after-mistakenly-hitting-balatro-videos-with-an-age-restriction-for-gambling-content/)<!-- GAME:END -->
+ - [How To Electrify The Battlefield With Marvel Rivals&#39; Thor](https://kotaku.com/marvel-rivals-thor-thorforce-ultimate-mjolnir-awaken-1851775319)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
