@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Age of Empires IV: Knights of Cross &amp; Rose Expansion Available Now](https://www.ageofempires.com/news/age-of-empires-iv-knights-of-cross-and-rose-available-now/#new_tab)
- - [2025&#39;s Highest-Rated Metacritic Game Is Also A Game Pass And PS Plus Release This Month](https://kotaku.com/blue-prince-metacritic-game-pass-ps-plus-switch-1851775306)
- - [Best Huntress starter build in Path of Exile 2](https://www.pcgamer.com/games/action/path-of-exile-2-huntress-build/)<!-- GAME:END -->
+ - [How to get and use Energy Crystals in REPO](https://www.pcgamer.com/games/horror/repo-energy-crystals-how-to-use/)
+ - [How To Electrify The Battlefield With Marvel Rivals&#39; Thor](https://kotaku.com/marvel-rivals-thor-thorforce-ultimate-mjolnir-awaken-1851775319)
+ - [YouTube is conducting a &#39;platform-wide review&#39; after mistakenly hitting Balatro videos with an age restriction for gambling content](https://www.pcgamer.com/games/youtube-is-conducting-a-platform-wide-review-after-mistakenly-hitting-balatro-videos-with-an-age-restriction-for-gambling-content/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
