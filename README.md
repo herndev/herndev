@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US officials say DOGE is using AI to surveil at least one federal agency&#39;s communications for anti-Trump sentiment; a source says DOGE is using Signal &lpar;Reuters&rpar;](http://www.techmeme.com/250408/p14#a250408p14)
- - [Apple may copy a 2013 Galaxy S4 feature for iPhone 17 Pro’s camera](https://www.androidauthority.com/apple-ios-19-leak-dual-camera-recording-3542567/)
- - [Automate your lawn care with eufy’s new E15 and E18 smart lawn mowers](https://www.androidauthority.com/eufy-e15-and-e18-smart-lawn-mowers-3542508/)<!-- TECH:END -->
+ - [Microsoft’s new Windows 11 Start menu is bigger and fixes a major pain point](https://www.theverge.com/news/645078/microsoft-windows-11-new-start-menu-bigger-redesign)
+ - [Motorola’s stylus phone gets a brighter display, faster charging, and a new SoC](https://www.androidauthority.com/moto-g-stylus-2025-launch-3542510/)
+ - [Asus ROG Flow Z13 &lpar;2025&rpar; Review: The Ultra-Portable Gaming PC](https://www.wired.com/review/asus-rog-flow-z13-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
