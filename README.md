@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me too, time traveller, me too](http://9gag.com/gag/aRBzjq5)
- - ⏩ [Chess](http://9gag.com/gag/aQzA3Pd)
- - 👉 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)<!-- MEMES:END -->
+ - 💣 [Chess](http://9gag.com/gag/aQzA3Pd)
+ - ⏩ [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
+ - 👉 [Red Circle](http://9gag.com/gag/aYQP4Rq)<!-- MEMES:END -->
 
 ---
 
