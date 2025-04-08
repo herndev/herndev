@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;It was just like fire&#39;: Jennifer Coolidge reflects on her chemistry with A Minecraft Movie&#39;s love interest, Nitwit the villager](https://www.pcgamer.com/movies-tv/it-was-just-like-fire-jennifer-coolidge-reflects-on-her-chemistry-with-a-minecraft-movies-love-interest-nitwit-the-villager/)
- - [Am I the only one wondering what&#39;s going to happen to Blade, now that he&#39;s not the new hero for Season 2?](https://www.pcgamer.com/games/third-person-shooter/am-i-the-only-one-wondering-whats-going-to-happen-to-blade-now-that-hes-not-the-new-hero-for-season-2/)
- - [Balatro&#39;s creator has reached poker zen after beating every deck on every difficulty: &#39;All this time playing has killed any negative emotions I had toward it&#39;](https://www.pcgamer.com/games/roguelike/balatros-creator-has-reached-poker-zen-after-beating-every-deck-on-every-difficulty-all-this-time-playing-has-killed-any-negative-emotions-i-had-toward-it/)<!-- GAME:END -->
+ - [Sabrina Carpenter has been revealed as the icon for Fortnite Festival&#39;s eighth season](https://www.pcgamer.com/games/rhythm/sabrina-carpenter-has-been-revealed-as-the-icon-for-fortnite-festivals-eighth-season/)
+ - [Why REPO has topped Steam charts and Twitch feeds since launch](https://www.polygon.com/impressions/554398/repo-streamer-social-media-clips-game)
+ - [The Last of Us Part 2 proves that 8 GB of VRAM can be enough, even at 4K with maximum settings, so why aren&#39;t more games using the same clever asset-streaming trick?](https://www.pcgamer.com/hardware/graphics-cards/the-last-of-us-part-2-proves-that-8-gb-of-vram-can-be-enough-even-at-4k-with-maximum-settings-so-why-arent-more-games-using-the-same-clever-asset-streaming-trick/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
