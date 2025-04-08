@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo is delaying Switch 2 preorders in Canada, too](https://www.theverge.com/news/645240/nintendo-switch-2-canada-preorders-delayed-trump-tariffs)
- - [Rain, which offers an employer-integrated personal finance and earned wage access app, raised a $75M Series B led by Prosus at a $340M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250408/p24#a250408p24)
- - [This simple Verizon trick saved a user $600 across five lines, and it could work for you too](https://www.androidauthority.com/verizon-retention-offer-trick-3542674/)<!-- TECH:END -->
+ - [T-Mobile just announced another price hike: Here’s what’s changing](https://www.androidauthority.com/another-t-mobile-fee-hike-3542717/)
+ - [Snap releases sponsored AI lenses, a new generative AI ad format users can interact with and that is powered by One Snap, its homegrown generative AI tech &lpar;Allison Schiff/AdExchanger&rpar;](http://www.techmeme.com/250408/p28#a250408p28)
+ - [YouTube says Nope! to age-gating Balatro videos](https://www.theverge.com/news/645257/youtube-balatro-univeristy-videos-age-gated-localthunk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
