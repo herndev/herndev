@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life &amp; death](http://9gag.com/gag/aE0oBp9)
- - ⏩ [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
- - 👉 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)<!-- MEMES:END -->
+ - 💣 [Only Fans Stonks](http://9gag.com/gag/aqyQrB7)
+ - ⏩ [Friendly reminder...](http://9gag.com/gag/azxGr9x)
+ - 👉 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)<!-- MEMES:END -->
 
 ---
 
