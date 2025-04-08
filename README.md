@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Balatro&#39;s creator has reached poker zen after beating every deck on every difficulty: &#39;All this time playing has killed any negative emotions I had toward it&#39;](https://www.pcgamer.com/games/roguelike/balatros-creator-has-reached-poker-zen-after-beating-every-deck-on-every-difficulty-all-this-time-playing-has-killed-any-negative-emotions-i-had-toward-it/)
- - [How to get and use Pinnacle Coins in Monster Hunter Wilds](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-pinnacle-coin-use/)
- - [No other card game matters to me now, I only want to collect these middle-aged man cards from Japan](https://www.pcgamer.com/games/card-games/no-other-card-game-matters-to-me-now-i-only-want-to-collect-these-middle-aged-man-cards-from-japan/)<!-- GAME:END -->
+ - [&#39;It was just like fire&#39;: Jennifer Coolidge reflects on her chemistry with A Minecraft Movie&#39;s love interest, Nitwit the villager](https://www.pcgamer.com/movies-tv/it-was-just-like-fire-jennifer-coolidge-reflects-on-her-chemistry-with-a-minecraft-movies-love-interest-nitwit-the-villager/)
+ - [Am I the only one wondering what&#39;s going to happen to Blade, now that he&#39;s not the new hero for Season 2?](https://www.pcgamer.com/games/third-person-shooter/am-i-the-only-one-wondering-whats-going-to-happen-to-blade-now-that-hes-not-the-new-hero-for-season-2/)
+ - [Balatro&#39;s creator has reached poker zen after beating every deck on every difficulty: &#39;All this time playing has killed any negative emotions I had toward it&#39;](https://www.pcgamer.com/games/roguelike/balatros-creator-has-reached-poker-zen-after-beating-every-deck-on-every-difficulty-all-this-time-playing-has-killed-any-negative-emotions-i-had-toward-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
