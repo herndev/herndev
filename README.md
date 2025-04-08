@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is there?](http://9gag.com/gag/avyErZW)
- - ⏩ [The U.S.S EnterThighs](http://9gag.com/gag/amom2pX)
- - 👉 [Trump said that the United States and Italy have been allies since the time of Ancient Rome. The translator&#39;s reaction is priceless.](http://9gag.com/gag/a5QGbKg)<!-- MEMES:END -->
+ - 💣 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
+ - ⏩ [Well no\u2026 but actually yes](http://9gag.com/gag/a9y8Wv0)
+ - 👉 [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)<!-- MEMES:END -->
 
 ---
 
