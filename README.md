@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the state of AI in 2025 across training and inference costs, carbon footprint, investment activity, bills proposed in the US, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/250408/p2#a250408p2)
- - [Gmail’s ‘Help Me Write’ will now help even more people… write](https://www.androidauthority.com/gmail-help-me-write-new-languages-april-2025-3542473/)
- - [Pixel Watch 2 and 3 just got a cool new feature, but not everyone can use it](https://www.androidauthority.com/pixel-watch-scam-detection-3542470/)<!-- TECH:END -->
+ - [A look at Inkitt, a publishing platform that uses AI to create sequels and spinoffs of authors&#39; original work with minimal human input, raising quality concerns &lpar;Vauhini Vara/Bloomberg&rpar;](http://www.techmeme.com/250408/p3#a250408p3)
+ - [Here are all the camera features coming to your Samsung phone with One UI 7](https://www.androidauthority.com/samsung-one-ui-7-camera-features-old-phones-3542480/)
+ - [A look at the state of AI in 2025 across training and inference costs, carbon footprint, investment activity, bills proposed in the US, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/250408/p2#a250408p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
