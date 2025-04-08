@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Balatro creator LocalThunk is throwing his weight around to make sure Blue Prince gets some love at The Game Awards: &#39;Geoff my man I better see Blue Prince as a GOTY nominee&#39;](https://www.pcgamer.com/games/puzzle/balatro-creator-localthunk-is-throwing-his-weight-around-to-make-sure-blue-prince-gets-some-love-at-the-game-awards-geoff-my-man-i-better-see-blue-prince-as-a-goty-nominee/)
- - [Switch 2 price won’t increase in response to tariffs, analyst says](https://www.polygon.com/nintendo-switch-2/554889/price-tariffs-analyst-forecast)
- - [Battle royale interest is shrinking but Fortnite has a larger slice of the pie than ever, according to new industry report](https://www.pcgamer.com/gaming-industry/battle-royale-interest-is-shrinking-but-fortnite-has-a-larger-slice-of-the-pie-than-ever-according-to-new-industry-report/)<!-- GAME:END -->
+ - [&#39;There is no lawsuit&#39; against Schedule I: As negative Steam reviews pile up, Drug Dealer Simulator publisher makes a public plea for peace](https://www.pcgamer.com/games/there-is-no-lawsuit-against-schedule-i-as-negative-steam-reviews-pile-up-drug-dealer-simulator-publisher-makes-a-public-plea-for-peace/)
+ - [‘There were some blatant fuck-ups’: Path of Exile 2 devs address its most disastrous update](https://www.polygon.com/news/555208/path-of-exile-2-dawn-of-the-hunt-rebalance-fix-update)
+ - [Balatro creator LocalThunk is throwing his weight around to make sure Blue Prince gets some love at The Game Awards: &#39;Geoff my man I better see Blue Prince as a GOTY nominee&#39;](https://www.pcgamer.com/games/puzzle/balatro-creator-localthunk-is-throwing-his-weight-around-to-make-sure-blue-prince-gets-some-love-at-the-game-awards-geoff-my-man-i-better-see-blue-prince-as-a-goty-nominee/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
