@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
- - ⏩ [Jean Claude Van Dam unholstering his leg in slow-mo was the stuff of the early 90\u2019s](http://9gag.com/gag/avyEOpO)
- - 👉 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)<!-- MEMES:END -->
+ - 💣 [Trump said that the United States and Italy have been allies since the time of Ancient Rome. The translator&#39;s reaction is priceless.](http://9gag.com/gag/a5QGbKg)
+ - ⏩ [It was an easy question](http://9gag.com/gag/a0e6QpX)
+ - 👉 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)<!-- MEMES:END -->
 
 ---
 
