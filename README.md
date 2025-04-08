@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dodgy report claims Apple Vision Pro 2 arriving by April 2026](https://appleinsider.com/articles/25/04/08/dodgy-report-claims-apple-vision-pro-2-arriving-by-april-2026?utm_medium=rss)
- - [The modifiers](https://www.theverge.com/creators/638649/small-business-ai-tiktok-gopro-upcycle-refurbish)
- - [Is there a ‘right’ way to use AI in art?](https://www.theverge.com/ai-artificial-intelligence/642599/is-there-a-right-way-to-use-ai-in-art)<!-- TECH:END -->
+ - [Nintendo is delaying Switch 2 preorders in Canada, too](https://www.theverge.com/news/645240/nintendo-switch-2-canada-preorders-delayed-trump-tariffs)
+ - [Rain, which offers an employer-integrated personal finance and earned wage access app, raised a $75M Series B led by Prosus at a $340M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250408/p24#a250408p24)
+ - [This simple Verizon trick saved a user $600 across five lines, and it could work for you too](https://www.androidauthority.com/verizon-retention-offer-trick-3542674/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
