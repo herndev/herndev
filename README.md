@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
- - ⏩ [Still would](http://9gag.com/gag/aoy4Nx0)
- - 👉 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)<!-- MEMES:END -->
+ - 💣 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
+ - ⏩ [Jean Claude Van Dam unholstering his leg in slow-mo was the stuff of the early 90\u2019s](http://9gag.com/gag/avyEOpO)
+ - 👉 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)<!-- MEMES:END -->
 
 ---
 
