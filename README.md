@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not my fault my lord](https://www.reddit.com/r/funny/comments/1jubq9s/not_my_fault_my_lord/)
+ - 💣 [Me too, time traveller, me too](http://9gag.com/gag/aRBzjq5)
  - ⏩ [Chess](http://9gag.com/gag/aQzA3Pd)
- - 👉 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)<!-- MEMES:END -->
+ - 👉 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)<!-- MEMES:END -->
 
 ---
 
