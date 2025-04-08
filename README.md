@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Pixel Watch 3 feature that could save your life is here in the US, finally](https://www.androidauthority.com/pixel-watch-3-loss-of-pulse-launch-3542761/)
- - [Even Streaming Services Might Be Hurt by Trump’s Tariffs](https://www.wired.com/story/even-streaming-services-might-be-hurt-by-trumps-tariffs/)
- - [The White House says that tariffs on China are set to rise to 104% at 12:01am ET Wednesday after China missed Trump&#39;s deadline to remove its reciprocal tariff &lpar;Elisabeth Buchwald/CNN&rpar;](http://www.techmeme.com/250408/p31#a250408p31)<!-- TECH:END -->
+ - [Trump&#39;s belief that iPhone manufacturing could quickly move to the US is wrong](https://appleinsider.com/articles/25/04/08/trumps-belief-that-iphone-manufacturing-could-quickly-move-to-the-us-is-wrong?utm_medium=rss)
+ - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [Germany-based Hawk, which offers AI-powered anti-money laundering services, raised a $56M Series C led by One Peak and says it has over 80 customers worldwide &lpar;Cameron Emanuel-Burns/FinTech Futures&rpar;](http://www.techmeme.com/250408/p32#a250408p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
