@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time goes by](http://9gag.com/gag/aQzA14e)
- - ⏩ [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)
- - 👉 [Chilling Time](http://9gag.com/gag/aqyQK0j)<!-- MEMES:END -->
+ - 💣 [Mystery](http://9gag.com/gag/aGyMZX5)
+ - ⏩ [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
+ - 👉 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)<!-- MEMES:END -->
 
 ---
 
