@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Meditite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/554117/can-meditite-be-shiny-medicham-mega)
  - [Today&#39;s Wordle answer for Tuesday, April 8](https://www.pcgamer.com/games/puzzle/games/puzzle/wordle-answer-today-april-8-2025/)
- - [Cops called as A Minecraft Movie sends kids into chicken jockey frenzies](https://www.pcgamer.com/movies-tv/cops-called-as-a-minecraft-movie-sends-kids-into-chicken-jockey-frenzies/)
- - [I went to Universal’s new $7 billion Epic Universe park early — here’s what I saw](https://www.polygon.com/theme-parks/553995/epic-universe-tour-nintendo-harry-potter-dragon-photos)<!-- GAME:END -->
+ - [Cops called as A Minecraft Movie sends kids into chicken jockey frenzies](https://www.pcgamer.com/movies-tv/cops-called-as-a-minecraft-movie-sends-kids-into-chicken-jockey-frenzies/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
