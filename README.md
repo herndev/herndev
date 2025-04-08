@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mystery](http://9gag.com/gag/aGyMZX5)
+ - 💣 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)
  - ⏩ [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
- - 👉 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)<!-- MEMES:END -->
+ - 👉 [I know the perfect gif after the end of this video](http://9gag.com/gag/aVvmqNw)<!-- MEMES:END -->
 
 ---
 
