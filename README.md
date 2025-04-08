@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [South of Midnight – Available Today!](https://www.xbox.com/en-US/games/store/south-of-midnight/9NJCVGS6T30K/0017#new_tab)
- - [This First Berserker: Khazan Armor Is Perfect For Spectacular Spear Builds](https://kotaku.com/first-berserker-khazan-deep-shadow-armor-scroll-spear-1851775140)
- - [&#39;Redstone genius&#39; Mumbo Jumbo was originally meant to make &#39;a bunch of crazy booby traps&#39; for A Minecraft Movie, but they were all cut from the film](https://www.pcgamer.com/movies-tv/redstone-genius-mumbo-jumbo-was-originally-meant-to-make-a-bunch-of-crazy-booby-traps-for-a-minecraft-movie-but-they-were-all-cut-from-the-film/)<!-- GAME:END -->
+ - [Highway to Hell: Diablo IV Releases Its First Roadmap](https://news.xbox.com/en-us/2025/04/08/highway-to-hell-diablo-iv-releases-its-first-roadmap/)
+ - [How to quick catch in Pokémon Go](https://www.polygon.com/pokemon-go-guide/554242/quick-catch-how-to-tips)
+ - [The Best Weapons For Beginners In Monster Hunter Wilds, Ranked](https://kotaku.com/monster-hunter-wilds-best-starting-weapons-sword-bow-1851775277)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
