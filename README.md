@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sunless Cell: How Bungie Revived a Fan-Favorite Mission for a Modern Destiny 2](https://news.xbox.com/en-us/2025/04/08/the-sunless-cell-destiny-2-return/)
- - [Shelter&#39;s developer is now making a cozy decorating game called Twinkleby](https://www.pcgamer.com/games/city-builder/shelters-developer-is-now-making-a-cozy-decorating-game-called-twinkleby/)
- - [All Nintendo Switch 2 games announced so far, including exclusive games](https://www.polygon.com/nintendo-switch-2/550282/games-list-exclusive-titles-all)<!-- GAME:END -->
+ - [Choose Your Weapon and Play the Metal Eden Demo Today for Xbox Series X|S](https://news.xbox.com/en-us/2025/04/08/play-metal-eden-demo-today-for-xbox/)
+ - [Hades 2 Is Coming To Switch 1 And 2 Before Other Consoles](https://kotaku.com/hades-2-switch-2-exclusivity-pc-steam-1-0-date-1851775233)
+ - [MrBeast sues former employee accused of stealing company secrets, installing hidden cameras in office](https://www.polygon.com/news/554784/mrbeast-alleges-data-theft-former-employee-hidden-cameras-office-lawsuit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
