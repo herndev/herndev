@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chess](http://9gag.com/gag/aQzA3Pd)
- - ⏩ [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
- - 👉 [Red Circle](http://9gag.com/gag/aYQP4Rq)<!-- MEMES:END -->
+ - 💣 [Good prank, but how?](http://9gag.com/gag/a6ZnV1L)
+ - ⏩ [It was an easy question](http://9gag.com/gag/a0e6QpX)
+ - 👉 [Dire Wolf cry heard for the first time in 10,000 years after Jurassic Park-like \u201cresurrection\u201d](http://9gag.com/gag/aE0oxNe)<!-- MEMES:END -->
 
 ---
 
