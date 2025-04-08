@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hee hee](http://9gag.com/gag/aD2ZzKx)
- - ⏩ [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
- - 👉 [`You know how to do this, right?` -`Yeah man, I didn&#39;t spend 100$ on gta 6 for nothing`](http://9gag.com/gag/ayNWXLq)<!-- MEMES:END -->
+ - 💣 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)
+ - ⏩ [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
+ - 👉 [Chess](http://9gag.com/gag/aQzA3Pd)<!-- MEMES:END -->
 
 ---
 
