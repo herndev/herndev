@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)
- - ⏩ [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
- - 👉 [I know the perfect gif after the end of this video](http://9gag.com/gag/aVvmqNw)<!-- MEMES:END -->
+ - 💣 [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
+ - ⏩ [Chess](http://9gag.com/gag/aQzA3Pd)
+ - 👉 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)<!-- MEMES:END -->
 
 ---
 
