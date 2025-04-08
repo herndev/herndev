@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thank goodness, they added auto-follow for your horse in Assassin’s Creed Shadows](https://www.polygon.com/news/554829/assassins-creed-shadows-update-102-patch-notes)
- - [How to get and use Energy Crystals in REPO](https://www.pcgamer.com/games/horror/repo-energy-crystals-how-to-use/)
- - [How To Electrify The Battlefield With Marvel Rivals&#39; Thor](https://kotaku.com/marvel-rivals-thor-thorforce-ultimate-mjolnir-awaken-1851775319)<!-- GAME:END -->
+ - [Battle royale interest is shrinking but Fortnite has a larger slice of the pie than ever, according to new industry report](https://www.pcgamer.com/gaming-industry/battle-royale-interest-is-shrinking-but-fortnite-has-a-larger-slice-of-the-pie-than-ever-according-to-new-industry-report/)
+ - [One of the biggest games on Steam right now is Bongo Cat, a cat with a hat who smacks your Windows taskbar like a bongo drum when you type](https://www.pcgamer.com/games/life-sim/one-of-the-biggest-games-on-steam-right-now-is-bongo-cat-a-cat-with-a-hat-who-smacks-your-windows-taskbar-like-a-bongo-drum-when-you-type/)
+ - [Blue Prince is currently the best-reviewed game of 2025](https://www.pcgamer.com/games/puzzle/blue-prince-is-currently-the-best-reviewed-game-of-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
