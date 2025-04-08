@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM unveils the z17 mainframe with a Telum II chip, built for 250+ AI use cases and can perform 450B daily inferences, 50% more than z16, available on June 8 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250408/p1#a250408p1)
- - [It’s the end of the road for the Galaxy S20 series as Samsung ends software updates](https://www.androidauthority.com/samsung-galaxy-s20-software-updates-end-3542466/)
- - [Facebook, Instagram Fact-Checking Has Ended: What That Means for You](https://www.cnet.com/news/social-media/facebook-instagram-and-threads-will-stop-fact-checking-as-of-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gmail’s ‘Help Me Write’ will now help even more people… write](https://www.androidauthority.com/gmail-help-me-write-new-languages-april-2025-3542473/)
+ - [Pixel Watch 2 and 3 just got a cool new feature, but not everyone can use it](https://www.androidauthority.com/pixel-watch-scam-detection-3542470/)
+ - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
