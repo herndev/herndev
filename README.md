@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)
- - ⏩ [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
- - 👉 [LET ME TELL YOU SOMETHING](http://9gag.com/gag/aKGWV4g)<!-- MEMES:END -->
+ - 💣 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
+ - ⏩ [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)
+ - 👉 [Dagestan motorcycle driving license test](http://9gag.com/gag/axyb1MW)<!-- MEMES:END -->
 
 ---
 
