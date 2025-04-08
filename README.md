@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How an unused nuclear power plant became home to a world-class acoustics lab](https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab)
- - [The Narwal Freo Z10: No gimmicks, just fantastic cleaning](https://www.androidauthority.com/narwal-freo-z10-3542378/)
- - [This Galaxy S25 Ultra case gives you more ‘Action buttons’ than an iPhone](https://www.androidauthority.com/pitaka-pinbutton-galaxy-s25-ultra-case-3542631/)<!-- TECH:END -->
+ - [Dodgy report claims Apple Vision Pro 2 arriving by April 2026](https://appleinsider.com/articles/25/04/08/dodgy-report-claims-apple-vision-pro-2-arriving-by-april-2026?utm_medium=rss)
+ - [The modifiers](https://www.theverge.com/creators/638649/small-business-ai-tiktok-gopro-upcycle-refurbish)
+ - [Is there a ‘right’ way to use AI in art?](https://www.theverge.com/ai-artificial-intelligence/642599/is-there-a-right-way-to-use-ai-in-art)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
