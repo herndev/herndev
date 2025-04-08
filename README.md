@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s new Windows 11 Start menu is bigger and fixes a major pain point](https://www.theverge.com/news/645078/microsoft-windows-11-new-start-menu-bigger-redesign)
- - [Motorola’s stylus phone gets a brighter display, faster charging, and a new SoC](https://www.androidauthority.com/moto-g-stylus-2025-launch-3542510/)
- - [Asus ROG Flow Z13 &lpar;2025&rpar; Review: The Ultra-Portable Gaming PC](https://www.wired.com/review/asus-rog-flow-z13-2025/)<!-- TECH:END -->
+ - [How an unused nuclear power plant became home to a world-class acoustics lab](https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab)
+ - [The Narwal Freo Z10: No gimmicks, just fantastic cleaning](https://www.androidauthority.com/narwal-freo-z10-3542378/)
+ - [This Galaxy S25 Ultra case gives you more ‘Action buttons’ than an iPhone](https://www.androidauthority.com/pitaka-pinbutton-galaxy-s25-ultra-case-3542631/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
