@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump said that the United States and Italy have been allies since the time of Ancient Rome. The translator&#39;s reaction is priceless.](http://9gag.com/gag/a5QGbKg)
- - ⏩ [It was an easy question](http://9gag.com/gag/a0e6QpX)
- - 👉 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)<!-- MEMES:END -->
+ - 💣 [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)
+ - ⏩ [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
+ - 👉 [LET ME TELL YOU SOMETHING](http://9gag.com/gag/aKGWV4g)<!-- MEMES:END -->
 
 ---
 
