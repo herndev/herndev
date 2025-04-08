@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the state of AI in 2025 across training and inference costs, carbon footprint, investment activity, bills proposed in the US, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/250408/p2#a250408p2)
  - [Gmail’s ‘Help Me Write’ will now help even more people… write](https://www.androidauthority.com/gmail-help-me-write-new-languages-april-2025-3542473/)
- - [Pixel Watch 2 and 3 just got a cool new feature, but not everyone can use it](https://www.androidauthority.com/pixel-watch-scam-detection-3542470/)
- - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
+ - [Pixel Watch 2 and 3 just got a cool new feature, but not everyone can use it](https://www.androidauthority.com/pixel-watch-scam-detection-3542470/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
