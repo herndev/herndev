@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aurascape, which offers enterprise security tools to mitigate risks from third-party AI apps, emerges from stealth with $50M from Menlo, Mayfield, and others &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/250408/p34#a250408p34)
- - [Amazon is already changing its ultra-cheap Temu copycat](https://www.theverge.com/news/645465/amazon-haul-temu-ultra-cheap-tariffs-trump)
- - [Predator: Killer of Killers teases a most dangerous, multigenerational game in new trailer](https://www.theverge.com/news/645394/predator-killer-of-killers-trailer-reelase-date)<!-- TECH:END -->
+ - [Arduboy creator says his tiny Game Boy won’t survive Trump’s tariffs](https://www.theverge.com/news/645555/arduboy-victim-trump-tariffs-us-china-kevin-bates)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [Spotify shoots down rumors: No ads for Premium, ever](https://www.androidauthority.com/spotify-premium-ad-rumor-3542780/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
