@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
- - ⏩ [Dire Wolf cry heard for the first time in 10,000 years after Jurassic Park-like \u201cresurrection\u201d](http://9gag.com/gag/aE0oxNe)
- - 👉 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)<!-- MEMES:END -->
+ - 💣 [Time goes by](http://9gag.com/gag/aQzA14e)
+ - ⏩ [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)
+ - 👉 [Chilling Time](http://9gag.com/gag/aqyQK0j)<!-- MEMES:END -->
 
 ---
 
