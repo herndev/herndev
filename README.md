@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)
- - ⏩ [Only Fans Stonks](http://9gag.com/gag/aqyQrB7)
- - 👉 [Dire Wolf cry heard for the first time in 10,000 years after Jurassic Park-like \u201cresurrection\u201d](http://9gag.com/gag/aE0oxNe)<!-- MEMES:END -->
+ - 💣 [Not my fault my lord](https://www.reddit.com/r/funny/comments/1jubq9s/not_my_fault_my_lord/)
+ - ⏩ [Chess](http://9gag.com/gag/aQzA3Pd)
+ - 👉 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)<!-- MEMES:END -->
 
 ---
 
