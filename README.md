@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
- - ⏩ [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)
- - 👉 [Dagestan motorcycle driving license test](http://9gag.com/gag/axyb1MW)<!-- MEMES:END -->
+ - 💣 [Elon shit](http://9gag.com/gag/a7oVMzL)
+ - ⏩ [The Return of Vampurr](http://9gag.com/gag/axybz9Y)
+ - 👉 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)<!-- MEMES:END -->
 
 ---
 
