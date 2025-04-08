@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good prank, but how?](http://9gag.com/gag/a6ZnV1L)
- - ⏩ [It was an easy question](http://9gag.com/gag/a0e6QpX)
- - 👉 [Dire Wolf cry heard for the first time in 10,000 years after Jurassic Park-like \u201cresurrection\u201d](http://9gag.com/gag/aE0oxNe)<!-- MEMES:END -->
+ - 💣 [Hee hee](http://9gag.com/gag/aD2ZzKx)
+ - ⏩ [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
+ - 👉 [`You know how to do this, right?` -`Yeah man, I didn&#39;t spend 100$ on gta 6 for nothing`](http://9gag.com/gag/ayNWXLq)<!-- MEMES:END -->
 
 ---
 
