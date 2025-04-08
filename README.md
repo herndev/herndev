@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the Pokémon TCG Pocket meta in April 2025?](https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards)
- - [Can Meditite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/554117/can-meditite-be-shiny-medicham-mega)
- - [Today&#39;s Wordle answer for Tuesday, April 8](https://www.pcgamer.com/games/puzzle/games/puzzle/wordle-answer-today-april-8-2025/)<!-- GAME:END -->
+ - [Balatro&#39;s creator has reached poker zen after beating every deck on every difficulty: &#39;All this time playing has killed any negative emotions I had toward it&#39;](https://www.pcgamer.com/games/roguelike/balatros-creator-has-reached-poker-zen-after-beating-every-deck-on-every-difficulty-all-this-time-playing-has-killed-any-negative-emotions-i-had-toward-it/)
+ - [How to get and use Pinnacle Coins in Monster Hunter Wilds](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-pinnacle-coin-use/)
+ - [No other card game matters to me now, I only want to collect these middle-aged man cards from Japan](https://www.pcgamer.com/games/card-games/no-other-card-game-matters-to-me-now-i-only-want-to-collect-these-middle-aged-man-cards-from-japan/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
