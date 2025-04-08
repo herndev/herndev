@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A flood of panic-buying has started in anticipation of major iPhone price increases](https://appleinsider.com/articles/25/04/07/a-flood-of-panic-buying-has-started-in-anticipation-of-major-iphone-price-increases?utm_medium=rss)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Broadcom announces a share buyback program of up to $10B, set to run through the end of the year; AVGO jumps 3%+ after hours, after closing up 5.37% on Monday &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250407/p33#a250407p33)<!-- TECH:END -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [Memo: the White House orders federal agencies to name chief AI officers and expand the use of AI, rescinding Biden-era orders intended to place AI safeguards &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250407/p36#a250407p36)
+ - [Leaker wars escalate as Jon Prosser allegedly shows entire iOS 19 redesign](https://appleinsider.com/articles/25/04/07/leaker-wars-escalate-as-jon-prosser-allegedly-shows-entire-ios-19-redesign?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
