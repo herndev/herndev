@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The kid-friendly Fitbit Ace has returned to its best price to date](https://www.theverge.com/tech/645178/fitbit-ace-lte-fitness-tracker-apple-watch-se-2022-deal-sale)
- - [Hades II will launch first for consoles on Nintendo Switch and Switch 2](https://www.theverge.com/news/645303/hades-2-launch-nintendo-switch-consoles)
- - [CNET Survey: Tariff Fears Are Speeding Up Tech Purchases](https://www.cnet.com/personal-finance/banking/cnet-tariff-survey-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump’s DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)
+ - [Razer pauses direct sales of the upcoming Blade 16 and other laptops in the US as new tariffs loom &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250408/p30#a250408p30)
+ - [White House Press Secretary Karoline Leavitt says that President Trump believes the US has the resources and workforce to build iPhones in the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250408/p29#a250408p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
