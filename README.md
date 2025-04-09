@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker’s very fast USB-C power bank is 67% off for the first time](https://www.polygon.com/good-deals/556081/ankers-very-fast-usb-c-power-bank-is-67-off-for-the-first-time)
- - [Nintendo Confirms Switch 2 Won&#39;t Have Achievements, And That Sucks](https://kotaku.com/switch-2-nintendo-no-achievements-trophies-xbox-steam-1851775079)
- - [Get Seven Great Boomer Shooters For Just $16](https://kotaku.com/boomer-shooters-fps-sale-humble-bundle-pc-steam-deal-1851775497)<!-- GAME:END -->
+ - [How quickly could Nintendo move Switch 2 production to the U.S.?](https://www.polygon.com/nintendo-switch-2/555749/switch-2-america-usa-production-how-fast-tariffs)
+ - [Path Of Exiles 2 Dev Reflects After Update Gets Review-Bombed: &#39;There Were Some Blatant F***-Ups&#39;](https://kotaku.com/path-exile-2-poe-nerfs-patch-notes-dawn-hunt-1851775526)
+ - [Court denies Build-A-Bear’s request to be sent 3,000 Squishmallows as part of lawsuit](https://www.polygon.com/toys/556065/squishmallows-build-a-bear-copyright-trademark-lawsuit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
