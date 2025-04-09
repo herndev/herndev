@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X&#39;s merger with xAI caps its yearslong turnaround push; sources say X&#39;s revenue fell to $2.6B in 2024, down from $3B in 2023 and about $4.6B in 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250409/p6#a250409p6)
- - [Docs: Canadian telecom Bell is lobbying to block Starlink subsidies, as Canada-US tensions and Musk&#39;s Trump ties put his satellite business under more scrutiny &lpar;Ilya Gridneff/Financial Times&rpar;](http://www.techmeme.com/250409/p5#a250409p5)
- - [The 12 Best Cooling Pillows You Can Buy in 2025](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump’s tariffs are officially in effect, including 104 percent on China](https://www.theverge.com/news/645215/trump-us-tariffs-china-eu)
+ - [That crazy PS3 emulator for Android is dead, but a replacement is already here](https://www.androidauthority.com/ps3-emulator-android-dead-replacement-3542905/)
+ - [X&#39;s merger with xAI caps its yearslong turnaround push; sources say X&#39;s revenue fell to $2.6B in 2024, down from $3B in 2023 and about $4.6B in 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250409/p6#a250409p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
