@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
+ - 💣 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
  - ⏩ [Aaaaaand... there you go. Art of the Deal.](http://9gag.com/gag/aMVnKvV)
- - 👉 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)<!-- MEMES:END -->
+ - 👉 [She wanted to say `I&#39;m a real woman` so bad..](http://9gag.com/gag/aW4vGxA)<!-- MEMES:END -->
 
 ---
 
