@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Superhero girlfriends deserve better than whatever is happening on Daredevil: Born Again](https://www.polygon.com/tv/554956/daredevil-born-again-disney-girlfriend-why)
- - [Holy smokes, something that might actually be useful is coming to Copilot on Windows](https://www.pcgamer.com/software/windows/holy-smokes-something-that-might-actually-be-useful-is-coming-to-copilot-on-windows/)
- - [This estimate that iPhones would cost $3,500 if made in the US has me terrified of tariffs and the concept of a mid-range gaming laptop costing $5,000 and high-end models hitting nearly $15,000](https://www.pcgamer.com/hardware/gaming-laptops/this-estimate-that-iphones-would-cost-usd3-500-if-made-in-the-us-has-me-terrified-of-tariffs-and-the-concept-of-a-mid-range-gaming-laptop-costing-usd5-000-and-high-end-models-hitting-nearly-usd15-000/)<!-- GAME:END -->
+ - [Thank goodness, they added auto-follow for your horse in Assassin’s Creed Shadows](https://www.polygon.com/news/554829/assassins-creed-shadows-update-102-patch-notes)
+ - [Apparently, Jack Black wasn&#39;t the first pick for Steve in A Minecraft Movie—It was meant to go to Matt Berry, according to Hollywood rumours](https://www.pcgamer.com/movies-tv/apparently-jack-black-wasnt-the-first-pick-for-steve-in-a-minecraft-movie-it-was-meant-to-go-to-matt-berry-according-to-hollywood-rumours/)
+ - [Oblivion console commands and cheats for infinite wealth, carry weight, and skill gains](https://www.pcgamer.com/games/rpg/oblivion-console-commands-cheats/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
