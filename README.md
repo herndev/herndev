@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chilling Time](http://9gag.com/gag/aqyQK0j)
- - ⏩ [Time goes by](http://9gag.com/gag/aQzA14e)
- - 👉 [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)<!-- MEMES:END -->
+ - 💣 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)
+ - ⏩ [Mystery](http://9gag.com/gag/aGyMZX5)
+ - 👉 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)<!-- MEMES:END -->
 
 ---
 
