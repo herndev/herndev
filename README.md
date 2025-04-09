@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;It&#39;s the end of an era&#39;: Four years after saying the studio would keep its &#39;identity,&#39; CD Projekt has fully absorbed The Molasses Flood, but it&#39;s still working on The Witcher spinoff Project Sirius](https://www.pcgamer.com/gaming-industry/its-the-end-of-an-era-four-years-after-saying-the-studio-would-keep-its-identity-cd-projekt-has-fully-absorbed-the-molasses-flood-but-its-still-working-on-the-witcher-spinoff-project-sirius/)
- - [9 Things You Might Not Know About The Switch 2](https://kotaku.com/switch-2-c-button-animal-crossing-zelda-friend-codes-1851775334)
- - [What is the the Diablo 4 roadmap for 2025?](https://www.polygon.com/diablo-4-guides/555617/what-is-the-the-diablo-4-roadmap-for-2025)<!-- GAME:END -->
+ - [The Last Of Us Renewed For Season 3 Like We All Expected](https://kotaku.com/the-last-of-us-season-3-hbo-joel-ellie-1851775496)
+ - [They can&#39;t keep getting away with this: Star Citizen has now raised over $800 million after 13 years, and it&#39;s still in alpha](https://www.pcgamer.com/games/mmo/they-cant-keep-getting-away-with-this-star-citizen-has-now-raised-over-usd800-million-after-13-years-and-its-still-in-alpha/)
+ - [I would not stay in a home that willingly displayed this ‘Joel with brick’ Last of Us bust](https://www.polygon.com/opinion/555866/i-would-not-stay-in-a-home-that-willingly-displayed-this-joel-with-brick-last-of-us-bust)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
