@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How quickly could Nintendo move Switch 2 production to the U.S.?](https://www.polygon.com/nintendo-switch-2/555749/switch-2-america-usa-production-how-fast-tariffs)
- - [Path Of Exiles 2 Dev Reflects After Update Gets Review-Bombed: &#39;There Were Some Blatant F***-Ups&#39;](https://kotaku.com/path-exile-2-poe-nerfs-patch-notes-dawn-hunt-1851775526)
- - [Court denies Build-A-Bear’s request to be sent 3,000 Squishmallows as part of lawsuit](https://www.polygon.com/toys/556065/squishmallows-build-a-bear-copyright-trademark-lawsuit)<!-- GAME:END -->
+ - [Murderbot&#39;s Trailer Has Alexander Skarsgård As A Killing Machine With Deadpan Humor](https://kotaku.com/alexander-skarsgard-apple-murderbot-1851775552)
+ - [Early Steam Deck Prototype Seemingly Sold On Ebay For $2,000](https://kotaku.com/steam-deck-prototype-sold-ebay-2000-valve-leak-real-1851775549)
+ - [How quickly could Nintendo move Switch 2 production to the US?](https://www.polygon.com/nintendo-switch-2/555749/switch-2-america-usa-production-how-fast-tariffs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
