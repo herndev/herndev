@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&amp;#8217;s The Frame Pro was never going to be cheap — and it isn&amp;#8217;t](https://www.theverge.com/news/645778/samsungs-the-frame-pro-was-never-going-to-be-cheap-and-it-isnt)
- - [Trump’s new tariffs leave small creators scrambling](https://www.theverge.com/games/645782/trumps-new-tariffs-leave-small-creators-scrambling)
- - [WordPress.com launches an AI website builder to help users create a website via its chat-style interface, available to WordPress users for free &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250409/p33#a250409p33)<!-- TECH:END -->
+ - [Sony seemingly bakes tariff penalty into its new US TV pricing](https://www.theverge.com/news/645832/sony-bravia-ii-oled-5-pricing-tariffs)
+ - [Samsung is adding Gemini to Ballie, and it’s rolling out in the US soon](https://www.androidauthority.com/samsung-ballie-robot-gemini-3543084/)
+ - [Donald Trump Wants to Save the Coal Industry. He&#39;s Too Late](https://www.wired.com/story/donald-trump-wants-to-save-the-coal-industry-hes-too-late/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
