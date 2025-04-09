@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saleswoman explaining the special feature of the car](http://9gag.com/gag/aVvmYVM)
- - ⏩ [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)
- - 👉 [Mystery](http://9gag.com/gag/aGyMZX5)<!-- MEMES:END -->
+ - 💣 [Smurf](http://9gag.com/gag/a0e6QVZ)
+ - ⏩ [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)
+ - 👉 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)<!-- MEMES:END -->
 
 ---
 
