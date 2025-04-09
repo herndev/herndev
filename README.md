@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thank goodness, they added auto-follow for your horse in Assassin’s Creed Shadows](https://www.polygon.com/news/554829/assassins-creed-shadows-update-102-patch-notes)
- - [Apparently, Jack Black wasn&#39;t the first pick for Steve in A Minecraft Movie—It was meant to go to Matt Berry, according to Hollywood rumours](https://www.pcgamer.com/movies-tv/apparently-jack-black-wasnt-the-first-pick-for-steve-in-a-minecraft-movie-it-was-meant-to-go-to-matt-berry-according-to-hollywood-rumours/)
- - [Oblivion console commands and cheats for infinite wealth, carry weight, and skill gains](https://www.pcgamer.com/games/rpg/oblivion-console-commands-cheats/)<!-- GAME:END -->
+ - [The best microSD Express cards for the Switch 2](https://www.polygon.com/what-to-buy/555234/the-best-microsd-express-cards-for-the-switch-2)
+ - [Get 3 months of Apple TV Plus for $9](https://www.polygon.com/good-deals/555512/get-3-months-of-apple-tv-plus-for-9)
+ - [Get Turbo Overkill and six other boomer shooters for just $16](https://www.polygon.com/good-deals/555179/get-turbo-overkill-and-six-other-boomer-shooters-for-just-16)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
