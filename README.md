@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing NotebookLM’s cool podcast summaries to Docs](https://www.androidauthority.com/google-workspace-ai-features-cloud-next-3542874/)
- - [Italy says it is withdrawing its support for STMicro CEO Jean-Marc Chery and his management team as chip demand slumps; Italy and France own nearly 28% &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/250409/p19#a250409p19)
- - [China retaliates with additional 50 percent tariff on US goods, matching Trump’s](https://www.theverge.com/news/645730/china-tariffs-us-retaliatory-84-percent)<!-- TECH:END -->
+ - [At an NRCC event, President Trump says he told TSMC it would pay a tax of up to 100% if it didn&#39;t build its US plants; in March, TSMC said it would invest $100B &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p27#a250409p27)
+ - [How Google used new AI techniques to enhance 90%+ of The Wizard of Oz, released in 1939, to show on the Las Vegas Sphere&#39;s giant screen from August 28, 2025 &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p26#a250409p26)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 9&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-09-2025-3542336/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
