@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
- - ⏩ [The phone thief exercise program](http://9gag.com/gag/a7oVWR2)
- - 👉 [Smurf](http://9gag.com/gag/a0e6QVZ)<!-- MEMES:END -->
+ - 💣 [How and why??](http://9gag.com/gag/a0e6K0d)
+ - ⏩ [Oops : When your Zoom background reveals way more than your lecture notes.](http://9gag.com/gag/aLnGgWx)
+ - 👉 [The voice stays on in bed](http://9gag.com/gag/awyLXN4)<!-- MEMES:END -->
 
 ---
 
