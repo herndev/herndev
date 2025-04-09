@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [At last: Monster Hunter Wilds is willing to kick my ass](https://www.pcgamer.com/games/action/at-last-monster-hunter-wilds-is-willing-to-kick-my-ass/)
  - [&#39;There is no lawsuit&#39; against Schedule I: As negative Steam reviews pile up, Drug Dealer Simulator publisher makes a public plea for peace](https://www.pcgamer.com/games/there-is-no-lawsuit-against-schedule-i-as-negative-steam-reviews-pile-up-drug-dealer-simulator-publisher-makes-a-public-plea-for-peace/)
- - [‘There were some blatant fuck-ups’: Path of Exile 2 devs address its most disastrous update](https://www.polygon.com/news/555208/path-of-exile-2-dawn-of-the-hunt-rebalance-fix-update)
- - [Balatro creator LocalThunk is throwing his weight around to make sure Blue Prince gets some love at The Game Awards: &#39;Geoff my man I better see Blue Prince as a GOTY nominee&#39;](https://www.pcgamer.com/games/puzzle/balatro-creator-localthunk-is-throwing-his-weight-around-to-make-sure-blue-prince-gets-some-love-at-the-game-awards-geoff-my-man-i-better-see-blue-prince-as-a-goty-nominee/)<!-- GAME:END -->
+ - [‘There were some blatant fuck-ups’: Path of Exile 2 devs address its most disastrous update](https://www.polygon.com/news/555208/path-of-exile-2-dawn-of-the-hunt-rebalance-fix-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
