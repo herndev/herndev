@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Market Madness, Manufacturing, and the Liberation Day of It All](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-market-madness/)
- - [Sen. Ron Wyden plans to block the nomination of Sean Plankey to head CISA until the agency releases a 2022 report about security flaws at US telecom companies &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250409/p44#a250409p44)
- - [Trump says the future of AI is powered by coal](https://www.theverge.com/energy/646011/trump-says-the-future-of-ai-is-powered-by-coal)<!-- TECH:END -->
+ - [Framework’s entry-level modular Laptop 12 starts at £499](https://www.theverge.com/news/646031/framework-laptop-12-price-preorder-uk-eu-ca)
+ - [Nasdaq jumps 12% after Trump announced a 90-day tariff pause, with Nvidia up 19%, Apple up 15%, Meta up 15%, Amazon up 12%, Microsoft up 10%, Alphabet up 10% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250409/p46#a250409p46)
+ - [Could the iPhone&#39;s Price Double With Trump&#39;s New 125% Tariff? We Do the Math](https://www.cnet.com/personal-finance/banking/could-iphone-prices-double-after-tariff-hikes-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
