@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos could get another useful way to share content &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-qr-code-sharing-apk-teardown-3542952/)
- - [Statewatch and FOI documents: the UK government is developing a &quot;murder prediction&quot; tool to use personal data of those known to police to find likely killers &lpar;Vikram Dodd/The Guardian&rpar;](http://www.techmeme.com/250409/p10#a250409p10)
- - [Ofcom opens an investigation into a pro-suicide forum, its first using the Online Safety Act; the BBC linked the unnamed forum to 50+ deaths in the UK &lpar;BBC&rpar;](http://www.techmeme.com/250409/p9#a250409p9)<!-- TECH:END -->
+ - [The UK, the US, and other governments publish advisories on China-linked spyware families BadBazaar and Moonshine and highlight legitimate-looking Android apps &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250409/p15#a250409p15)
+ - [Universal is building a UK theme park](https://www.theverge.com/news/645705/universal-studios-uk-theme-park-resort-plans)
+ - [Germany says Google will change how it offers its Maps and Automotive Services to car makers in Europe, including letting them choose rival infotainment options &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p14#a250409p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
