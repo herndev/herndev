@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
- - ⏩ [Chess](http://9gag.com/gag/aQzA3Pd)
- - 👉 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)<!-- MEMES:END -->
+ - 💣 [Time goes by](http://9gag.com/gag/aQzA14e)
+ - ⏩ [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)
+ - 👉 [I should have kept my Yaris](http://9gag.com/gag/amomB4y)<!-- MEMES:END -->
 
 ---
 
