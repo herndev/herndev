@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spice Up Your Dual-Wield Build With The First Berserker: Khazan&#39;s Fallen Guardian Armor Set](https://kotaku.com/first-berserker-khazan-fallen-guardian-armor-dual-wield-1851775462)
- - [The worst game of all time is somehow even worse on Steam](https://www.polygon.com/news/555614/the-worst-game-of-all-time-is-somehow-even-worse-on-steam)
- - [The First Berserker: Khazan&#39;s Bard Armor Is Perfect For Grinding Experience](https://kotaku.com/first-berserker-khazan-bard-armor-set-scroll-location-1851775455)<!-- GAME:END -->
+ - [&#39;It&#39;s the end of an era&#39;: Four years after saying the studio would keep its &#39;identity,&#39; CD Projekt has fully absorbed The Molasses Flood, but it&#39;s still working on The Witcher spinoff Project Sirius](https://www.pcgamer.com/gaming-industry/its-the-end-of-an-era-four-years-after-saying-the-studio-would-keep-its-identity-cd-projekt-has-fully-absorbed-the-molasses-flood-but-its-still-working-on-the-witcher-spinoff-project-sirius/)
+ - [9 Things You Might Not Know About The Switch 2](https://kotaku.com/switch-2-c-button-animal-crossing-zelda-friend-codes-1851775334)
+ - [What is the the Diablo 4 roadmap for 2025?](https://www.polygon.com/diablo-4-guides/555617/what-is-the-the-diablo-4-roadmap-for-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
