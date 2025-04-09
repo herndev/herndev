@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK, the US, and other governments publish advisories on China-linked spyware families BadBazaar and Moonshine and highlight legitimate-looking Android apps &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250409/p15#a250409p15)
- - [Universal is building a UK theme park](https://www.theverge.com/news/645705/universal-studios-uk-theme-park-resort-plans)
- - [Germany says Google will change how it offers its Maps and Automotive Services to car makers in Europe, including letting them choose rival infotainment options &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p14#a250409p14)<!-- TECH:END -->
+ - [Google is bringing NotebookLM’s cool podcast summaries to Docs](https://www.androidauthority.com/google-workspace-ai-features-cloud-next-3542874/)
+ - [Italy says it is withdrawing its support for STMicro CEO Jean-Marc Chery and his management team as chip demand slumps; Italy and France own nearly 28% &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/250409/p19#a250409p19)
+ - [China retaliates with additional 50 percent tariff on US goods, matching Trump’s](https://www.theverge.com/news/645730/china-tariffs-us-retaliatory-84-percent)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
