@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best microSD Express cards for the Switch 2](https://www.polygon.com/what-to-buy/555234/the-best-microsd-express-cards-for-the-switch-2)
- - [Get 3 months of Apple TV Plus for $9](https://www.polygon.com/good-deals/555512/get-3-months-of-apple-tv-plus-for-9)
- - [Get Turbo Overkill and six other boomer shooters for just $16](https://www.polygon.com/good-deals/555179/get-turbo-overkill-and-six-other-boomer-shooters-for-just-16)<!-- GAME:END -->
+ - [Spice Up Your Dual-Wield Build With The First Berserker: Khazan&#39;s Fallen Guardian Armor Set](https://kotaku.com/first-berserker-khazan-fallen-guardian-armor-dual-wield-1851775462)
+ - [The worst game of all time is somehow even worse on Steam](https://www.polygon.com/news/555614/the-worst-game-of-all-time-is-somehow-even-worse-on-steam)
+ - [The First Berserker: Khazan&#39;s Bard Armor Is Perfect For Grinding Experience](https://kotaku.com/first-berserker-khazan-bard-armor-set-scroll-location-1851775455)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
