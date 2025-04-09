@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hacking GoPros to help save the Atlantic’s rarest bird](https://www.theverge.com/tech/642950/gopro-hack-bird-conservation-bermuda-cahow)
- - [Apple stock faces another battering as China &amp; EU fight back against U.S. tariffs](https://appleinsider.com/articles/25/04/09/apple-faces-more-share-price-battering-as-china-fights-back-on-us-tariffs?utm_medium=rss)
- - [Galaxy S26 Ultra could skip the under-display camera, and I couldn’t be happier](https://www.androidauthority.com/samsung-galaxy-s26-ultra-udc-leak-3543012/)<!-- TECH:END -->
+ - [Samsung&amp;#8217;s The Frame Pro was never going to be cheap — and it isn&amp;#8217;t](https://www.theverge.com/news/645778/samsungs-the-frame-pro-was-never-going-to-be-cheap-and-it-isnt)
+ - [Trump’s new tariffs leave small creators scrambling](https://www.theverge.com/games/645782/trumps-new-tariffs-leave-small-creators-scrambling)
+ - [WordPress.com launches an AI website builder to help users create a website via its chat-style interface, available to WordPress users for free &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250409/p33#a250409p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
