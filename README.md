@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
- - ⏩ [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 👉 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)<!-- MEMES:END -->
+ - 💣 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
+ - ⏩ [Aaaaaand... there you go. Art of the Deal.](http://9gag.com/gag/aMVnKvV)
+ - 👉 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)<!-- MEMES:END -->
 
 ---
 
