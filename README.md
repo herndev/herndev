@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the new text effects in Messages on iPhone with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-text-effects-in-messages-on-iphone-with-ios-18?utm_medium=rss)
- - [Apple flew planes full of iPhones to the US to dodge tariffs: What are Android makers up to?](https://www.androidauthority.com/apple-iphones-tariffs-android-impact-3542845/)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-9/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ripple agrees to acquire prime brokerage Hidden Road for $1.25B; Hidden Road plans to use Ripple&#39;s RLUSD stablecoin as collateral across its platform &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/250409/p1#a250409p1)
+ - [Google dropped the April Pixel Watch update only for those who got the March one](https://www.androidauthority.com/pixel-watch-april-2025-update-changelog-availability-3542855/)
+ - [How to use the new text effects in Messages on iPhone with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-text-effects-in-messages-on-iphone-with-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
