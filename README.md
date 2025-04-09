@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
- - ⏩ [Aaaaaand... there you go. Art of the Deal.](http://9gag.com/gag/aMVnKvV)
- - 👉 [She wanted to say `I&#39;m a real woman` so bad..](http://9gag.com/gag/aW4vGxA)<!-- MEMES:END -->
+ - 💣 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - ⏩ [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
+ - 👉 [Legal activities](http://9gag.com/gag/aXP4oQV)<!-- MEMES:END -->
 
 ---
 
