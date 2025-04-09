@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework’s entry-level modular Laptop 12 starts at £499](https://www.theverge.com/news/646031/framework-laptop-12-price-preorder-uk-eu-ca)
- - [Nasdaq jumps 12% after Trump announced a 90-day tariff pause, with Nvidia up 19%, Apple up 15%, Meta up 15%, Amazon up 12%, Microsoft up 10%, Alphabet up 10% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250409/p46#a250409p46)
- - [Could the iPhone&#39;s Price Double With Trump&#39;s New 125% Tariff? We Do the Math](https://www.cnet.com/personal-finance/banking/could-iphone-prices-double-after-tariff-hikes-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [One UI 7 update will bring two new features to Galaxy Z Fold phones](https://www.androidauthority.com/one-ui-7-foldable-features-3543231/)
+ - [BTC jumped 7%+ to ~$83K, while ETH, DOGE, XRP, and SOL gained over 12% as Trump paused some tariffs; Strategy closed up 25%, Robinhood up 24%, Coinbase up 17% &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250409/p48#a250409p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
