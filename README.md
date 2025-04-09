@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [One UI 7 update will bring two new features to Galaxy Z Fold phones](https://www.androidauthority.com/one-ui-7-foldable-features-3543231/)
- - [BTC jumped 7%+ to ~$83K, while ETH, DOGE, XRP, and SOL gained over 12% as Trump paused some tariffs; Strategy closed up 25%, Robinhood up 24%, Coinbase up 17% &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250409/p48#a250409p48)<!-- TECH:END -->
+ - [President Trump directs the DOJ to investigate former CISA director Chris Krebs, who was fired after he contradicted Trump&#39;s baseless 2020 election fraud claims &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250409/p50#a250409p50)
+ - [New Apple Watch ad reveals how the Emergency SOS feature saved a man in Australia](https://appleinsider.com/articles/25/04/09/new-apple-watch-ad-reveals-how-the-emergency-sos-feature-saved-a-man-in-australia?utm_medium=rss)
+ - [Lawmakers are skeptical of Zuckerberg’s commitment to free speech](https://www.theverge.com/news/646288/congress-zuckerberg-wynn-williams-careless-people)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
