@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chess](http://9gag.com/gag/aQzA3Pd)
- - ⏩ [Mystery](http://9gag.com/gag/aGyMZX5)
- - 👉 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)<!-- MEMES:END -->
+ - 💣 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
+ - ⏩ [The phone thief exercise program](http://9gag.com/gag/a7oVWR2)
+ - 👉 [Smurf](http://9gag.com/gag/a0e6QVZ)<!-- MEMES:END -->
 
 ---
 
