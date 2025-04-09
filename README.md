@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Portal remote player system update releases today with Cloud Game Streaming Beta UX enhancements](https://blog.playstation.com/2025/04/09/playstation-portal-remote-player-system-update-releases-today-with-cloud-game-streaming-beta-ux-enhancements/)
- - [Xbox Games Showcase Followed by The Outer Worlds 2 Direct Airs June 8](https://news.xbox.com/en-us/2025/04/09/xbox-games-showcase-2025-outer-worlds-2-direct/)
- - [This mythical crowdfunded indie anime is a must-see, under-the-radar gem](https://www.polygon.com/what-to-watch/555123/michinoku-toge-indie-anime-watch-youtube)<!-- GAME:END -->
+ - [Superhero girlfriends deserve better than whatever is happening on Daredevil: Born Again](https://www.polygon.com/tv/554956/daredevil-born-again-disney-girlfriend-why)
+ - [Holy smokes, something that might actually be useful is coming to Copilot on Windows](https://www.pcgamer.com/software/windows/holy-smokes-something-that-might-actually-be-useful-is-coming-to-copilot-on-windows/)
+ - [This estimate that iPhones would cost $3,500 if made in the US has me terrified of tariffs and the concept of a mid-range gaming laptop costing $5,000 and high-end models hitting nearly $15,000](https://www.pcgamer.com/hardware/gaming-laptops/this-estimate-that-iphones-would-cost-usd3-500-if-made-in-the-us-has-me-terrified-of-tariffs-and-the-concept-of-a-mid-range-gaming-laptop-costing-usd5-000-and-high-end-models-hitting-nearly-usd15-000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
