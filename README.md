@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arduboy creator says his tiny Game Boy won’t survive Trump’s tariffs](https://www.theverge.com/news/645555/arduboy-victim-trump-tariffs-us-china-kevin-bates)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Spotify shoots down rumors: No ads for Premium, ever](https://www.androidauthority.com/spotify-premium-ad-rumor-3542780/)<!-- TECH:END -->
+ - [A look at the rise of &quot;Frankenstein&quot; laptops in India, made by salvaging parts from multiple brands and sold to students, gig workers, and small businesses &lpar;The Verge&rpar;](http://www.techmeme.com/250408/p37#a250408p37)
+ - [You can grab three months of Apple TV Plus for $2.99 a month right now](https://www.theverge.com/tech/645569/apple-tv-plus-streaming-deal-severance-silo-studio-sale)
+ - [Instagram might finally release an iPad app](https://www.theverge.com/news/645625/instagram-ipad-app-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
