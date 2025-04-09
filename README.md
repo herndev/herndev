@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)
- - ⏩ [Mystery](http://9gag.com/gag/aGyMZX5)
- - 👉 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)<!-- MEMES:END -->
+ - 💣 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
+ - ⏩ [Abrupt Lead](http://9gag.com/gag/a87D8KZ)
+ - 👉 [`You know how to do this, right?` -`Yeah man, I didn&#39;t spend 100$ on gta 6 for nothing`](http://9gag.com/gag/ayNWXLq)<!-- MEMES:END -->
 
 ---
 
