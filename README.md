@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time goes by](http://9gag.com/gag/aQzA14e)
- - ⏩ [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)
- - 👉 [I should have kept my Yaris](http://9gag.com/gag/amomB4y)<!-- MEMES:END -->
+ - 💣 [Chilling Time](http://9gag.com/gag/aqyQK0j)
+ - ⏩ [Time goes by](http://9gag.com/gag/aQzA14e)
+ - 👉 [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)<!-- MEMES:END -->
 
 ---
 
