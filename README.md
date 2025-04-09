@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At an NRCC event, President Trump says he told TSMC it would pay a tax of up to 100% if it didn&#39;t build its US plants; in March, TSMC said it would invest $100B &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p27#a250409p27)
- - [How Google used new AI techniques to enhance 90%+ of The Wizard of Oz, released in 1939, to show on the Las Vegas Sphere&#39;s giant screen from August 28, 2025 &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p26#a250409p26)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 9&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-09-2025-3542336/)<!-- TECH:END -->
+ - [Hacking GoPros to help save the Atlantic’s rarest bird](https://www.theverge.com/tech/642950/gopro-hack-bird-conservation-bermuda-cahow)
+ - [Apple stock faces another battering as China &amp; EU fight back against U.S. tariffs](https://appleinsider.com/articles/25/04/09/apple-faces-more-share-price-battering-as-china-fights-back-on-us-tariffs?utm_medium=rss)
+ - [Galaxy S26 Ultra could skip the under-display camera, and I couldn’t be happier](https://www.androidauthority.com/samsung-galaxy-s26-ultra-udc-leak-3543012/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
