@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s tariffs are officially in effect, including 104 percent on China](https://www.theverge.com/news/645215/trump-us-tariffs-china-eu)
- - [That crazy PS3 emulator for Android is dead, but a replacement is already here](https://www.androidauthority.com/ps3-emulator-android-dead-replacement-3542905/)
- - [X&#39;s merger with xAI caps its yearslong turnaround push; sources say X&#39;s revenue fell to $2.6B in 2024, down from $3B in 2023 and about $4.6B in 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250409/p6#a250409p6)<!-- TECH:END -->
+ - [How Unitree and other Chinese humanoid startups are competing with those in the US, fueled by cheaper components, rapid innovation, and state-led financing &lpar;Financial Times&rpar;](http://www.techmeme.com/250409/p8#a250409p8)
+ - [Microsoft starts testing Copilot Vision update that can &amp;#8216;see&amp;#8217; your screen and apps](https://www.theverge.com/news/645666/microsoft-copilot-vision-windows-beta-testing)
+ - [PitchBook: despite a friendlier regulatory environment, crypto VC investments in the US fell 22% QoQ to ~$1.3B in Q1 2025, but rose slightly YoY from $1.1B &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250409/p7#a250409p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
