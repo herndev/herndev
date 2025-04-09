@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us Renewed For Season 3 Like We All Expected](https://kotaku.com/the-last-of-us-season-3-hbo-joel-ellie-1851775496)
- - [They can&#39;t keep getting away with this: Star Citizen has now raised over $800 million after 13 years, and it&#39;s still in alpha](https://www.pcgamer.com/games/mmo/they-cant-keep-getting-away-with-this-star-citizen-has-now-raised-over-usd800-million-after-13-years-and-its-still-in-alpha/)
- - [I would not stay in a home that willingly displayed this ‘Joel with brick’ Last of Us bust](https://www.polygon.com/opinion/555866/i-would-not-stay-in-a-home-that-willingly-displayed-this-joel-with-brick-last-of-us-bust)<!-- GAME:END -->
+ - [Anker’s very fast USB-C power bank is 67% off for the first time](https://www.polygon.com/good-deals/556081/ankers-very-fast-usb-c-power-bank-is-67-off-for-the-first-time)
+ - [Nintendo Confirms Switch 2 Won&#39;t Have Achievements, And That Sucks](https://kotaku.com/switch-2-nintendo-no-achievements-trophies-xbox-steam-1851775079)
+ - [Get Seven Great Boomer Shooters For Just $16](https://kotaku.com/boomer-shooters-fps-sale-humble-bundle-pc-steam-deal-1851775497)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
