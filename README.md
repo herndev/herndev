@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s chaos is threatening the bipartisan movement to break up Big Tech](https://www.theverge.com/politics/645838/trumps-chaos-is-threatening-the-bipartisan-movement-to-break-up-big-tech)
- - [Anthropic launches a $200 per month tier for “power users”](https://www.theverge.com/ai-artificial-intelligence/645842/anthropic-launches-a-200-per-month-tier-for-power-users)
- - [Verizon will offer the Pixel 9a for free starting tomorrow](https://www.androidauthority.com/google-pixel-9a-free-2-3543098/)<!-- TECH:END -->
+ - [Apple is closing its Northbrook store &amp; there won&#39;t be a replacement](https://appleinsider.com/articles/25/04/09/apple-is-closing-its-northbrook-store-there-wont-be-a-replacement?utm_medium=rss)
+ - [Trump announces a &amp;#8217;90-day pause’ on tariffs outside of China](https://www.theverge.com/news/646029/trump-announces-a-90-day-pause-on-tariffs-outside-of-china)
+ - [Trade war escalates: Trump hikes China tariffs to 125%, pauses others for 90 days](https://appleinsider.com/articles/25/04/09/trade-war-escalates-trump-hikes-china-tariffs-to-125-pauses-others-for-90-days?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
