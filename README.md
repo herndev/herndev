@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mystery](http://9gag.com/gag/aGyMZX5)
- - ⏩ [Necessary angle](http://9gag.com/gag/aByPxPA)
+ - 💣 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
+ - ⏩ [Dagestan motorcycle driving license test](http://9gag.com/gag/axyb1MW)
  - 👉 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)<!-- MEMES:END -->
 
 ---
