@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Murderbot&#39;s Trailer Has Alexander Skarsgård As A Killing Machine With Deadpan Humor](https://kotaku.com/alexander-skarsgard-apple-murderbot-1851775552)
- - [Early Steam Deck Prototype Seemingly Sold On Ebay For $2,000](https://kotaku.com/steam-deck-prototype-sold-ebay-2000-valve-leak-real-1851775549)
- - [How quickly could Nintendo move Switch 2 production to the US?](https://www.polygon.com/nintendo-switch-2/555749/switch-2-america-usa-production-how-fast-tariffs)<!-- GAME:END -->
+ - [Xbox Games Showcase returns in June with first-party studios, third-party partners, and a deep dive into The Outer Worlds 2](https://www.pcgamer.com/games/xbox-games-showcase-returns-in-june-with-first-party-studios-third-party-partners-and-a-deep-dive-into-the-outer-worlds-2/)
+ - [The Last of Us is coming back for a third season on HBO](https://www.pcgamer.com/movies-tv/the-last-of-us-is-coming-back-for-a-third-season-on-hbo/)
+ - [Murderbot&#39;s Trailer Has Alexander Skarsgård As A Killing Machine With Deadpan Humor](https://kotaku.com/alexander-skarsgard-apple-murderbot-1851775552)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
