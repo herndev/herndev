@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Corsair&#39;s new website to update firmware means I can finally say goodbye to iCUE](https://www.pcgamer.com/hardware/corsairs-new-website-to-update-firmware-means-i-can-finally-say-goodbye-to-icue/)
  - [Microsoft has now fired the employees who publicly protested the company supplying AI tech to the Israeli military](https://www.pcgamer.com/hardware/microsoft-fires-employees-protesting-israeli-militarys-use-of-companys-ai-tech/)
- - [What time does Marvel Rivals season 2 release in your time zone?](https://www.polygon.com/marvel-rivals-guide/555131/season-2-release-time-date-edt-pdt)
- - [Big Rigs, a strong contender for any &#39;worst games of all time&#39; list, currently has a Mostly Positive user rating on Steam because democracy is broken](https://www.pcgamer.com/games/racing/big-rigs-a-strong-contender-for-any-worst-games-of-all-time-list-currently-has-a-mostly-positive-user-rating-on-steam-because-democracy-is-broken/)<!-- GAME:END -->
+ - [What time does Marvel Rivals season 2 release in your time zone?](https://www.polygon.com/marvel-rivals-guide/555131/season-2-release-time-date-edt-pdt)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
