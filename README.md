@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is closing its Northbrook store &amp; there won&#39;t be a replacement](https://appleinsider.com/articles/25/04/09/apple-is-closing-its-northbrook-store-there-wont-be-a-replacement?utm_medium=rss)
- - [Trump announces a &amp;#8217;90-day pause’ on tariffs outside of China](https://www.theverge.com/news/646029/trump-announces-a-90-day-pause-on-tariffs-outside-of-china)
- - [Trade war escalates: Trump hikes China tariffs to 125%, pauses others for 90 days](https://appleinsider.com/articles/25/04/09/trade-war-escalates-trump-hikes-china-tariffs-to-125-pauses-others-for-90-days?utm_medium=rss)<!-- TECH:END -->
+ - [Gemini can now turn your Google Docs into podcasts](https://www.theverge.com/news/645986/gemini-can-now-turn-your-google-docs-into-podcasts)
+ - [Google announces Agent2Agent, an open interoperability protocol to enable seamless collaboration between AI agents across diverse frameworks and vendors &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250409/p42#a250409p42)
+ - [Smart home device manufacturers are bracing for chaos — again](https://www.theverge.com/smart-home/645927/smart-home-device-manufacturers-are-bracing-for-chaos-again)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
