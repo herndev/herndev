@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
- - ⏩ [Dagestan motorcycle driving license test](http://9gag.com/gag/axyb1MW)
- - 👉 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)<!-- MEMES:END -->
+ - 💣 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)
+ - ⏩ [Saleswoman explaining the special feature of the car](http://9gag.com/gag/aVvmYVM)
+ - 👉 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)<!-- MEMES:END -->
 
 ---
 
