@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2018I\u2019m a minor! 65 years of imprisonment is too harsh\u2019 he says\u2026..](http://9gag.com/gag/a1m5r16)
- - ⏩ [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)
- - 👉 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)<!-- MEMES:END -->
+ - 💣 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
+ - ⏩ [Real estate, huh?](http://9gag.com/gag/aQzAdwq)
+ - 👉 [Our entire lives have been a recession.](http://9gag.com/gag/aGyMgqn)<!-- MEMES:END -->
 
 ---
 
