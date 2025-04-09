@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smurf](http://9gag.com/gag/a0e6QVZ)
- - ⏩ [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)
- - 👉 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)<!-- MEMES:END -->
+ - 💣 [Chess](http://9gag.com/gag/aQzA3Pd)
+ - ⏩ [Mystery](http://9gag.com/gag/aGyMZX5)
+ - 👉 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)<!-- MEMES:END -->
 
 ---
 
