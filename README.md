@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini can now turn your Google Docs into podcasts](https://www.theverge.com/news/645986/gemini-can-now-turn-your-google-docs-into-podcasts)
- - [Google announces Agent2Agent, an open interoperability protocol to enable seamless collaboration between AI agents across diverse frameworks and vendors &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250409/p42#a250409p42)
- - [Smart home device manufacturers are bracing for chaos — again](https://www.theverge.com/smart-home/645927/smart-home-device-manufacturers-are-bracing-for-chaos-again)<!-- TECH:END -->
+ - [Market Madness, Manufacturing, and the Liberation Day of It All](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-market-madness/)
+ - [Sen. Ron Wyden plans to block the nomination of Sean Plankey to head CISA until the agency releases a 2022 report about security flaws at US telecom companies &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250409/p44#a250409p44)
+ - [Trump says the future of AI is powered by coal](https://www.theverge.com/energy/646011/trump-says-the-future-of-ai-is-powered-by-coal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
