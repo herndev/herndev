@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Corsair&#39;s new website to update firmware means I can finally say goodbye to iCUE](https://www.pcgamer.com/hardware/corsairs-new-website-to-update-firmware-means-i-can-finally-say-goodbye-to-icue/)
- - [Microsoft has now fired the employees who publicly protested the company supplying AI tech to the Israeli military](https://www.pcgamer.com/hardware/microsoft-fires-employees-protesting-israeli-militarys-use-of-companys-ai-tech/)
- - [What time does Marvel Rivals season 2 release in your time zone?](https://www.polygon.com/marvel-rivals-guide/555131/season-2-release-time-date-edt-pdt)<!-- GAME:END -->
+ - [Astro Bot dominates surprisingly unsurprising BAFTA Games Awards](https://www.polygon.com/awards/555367/bafta-games-awards-2025-astro-bot)
+ - [Japanese railway turns to 3D printed replacements for ageing shelters that can be built in less than 6 hours](https://www.pcgamer.com/hardware/japanese-railway-turns-to-3d-printed-replacements-for-ageing-shelters-that-can-be-built-in-less-than-6-hours/)
+ - [Trump gave global chipmaking leader TSMC an offer it could not refuse: &#39;All I did is say if you don&#39;t build your plant here you&#39;re gonna pay a big tax... 25, maybe 50, maybe 75, maybe 100%&#39;](https://www.pcgamer.com/hardware/processors/trump-gave-global-chipmaking-leader-tsmc-an-offer-it-could-not-refuse-all-i-did-is-say-if-you-dont-build-your-plant-here-youre-gonna-pay-a-big-tax-25-maybe-50-maybe-75-maybe-100-percent/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
