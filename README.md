@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Unitree and other Chinese humanoid startups are competing with those in the US, fueled by cheaper components, rapid innovation, and state-led financing &lpar;Financial Times&rpar;](http://www.techmeme.com/250409/p8#a250409p8)
- - [Microsoft starts testing Copilot Vision update that can &amp;#8216;see&amp;#8217; your screen and apps](https://www.theverge.com/news/645666/microsoft-copilot-vision-windows-beta-testing)
- - [PitchBook: despite a friendlier regulatory environment, crypto VC investments in the US fell 22% QoQ to ~$1.3B in Q1 2025, but rose slightly YoY from $1.1B &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250409/p7#a250409p7)<!-- TECH:END -->
+ - [Google Photos could get another useful way to share content &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-qr-code-sharing-apk-teardown-3542952/)
+ - [Statewatch and FOI documents: the UK government is developing a &quot;murder prediction&quot; tool to use personal data of those known to police to find likely killers &lpar;Vikram Dodd/The Guardian&rpar;](http://www.techmeme.com/250409/p10#a250409p10)
+ - [Ofcom opens an investigation into a pro-suicide forum, its first using the Online Safety Act; the BBC linked the unnamed forum to 50+ deaths in the UK &lpar;BBC&rpar;](http://www.techmeme.com/250409/p9#a250409p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
