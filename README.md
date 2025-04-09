@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony seemingly bakes tariff penalty into its new US TV pricing](https://www.theverge.com/news/645832/sony-bravia-ii-oled-5-pricing-tariffs)
- - [Samsung is adding Gemini to Ballie, and it’s rolling out in the US soon](https://www.androidauthority.com/samsung-ballie-robot-gemini-3543084/)
- - [Donald Trump Wants to Save the Coal Industry. He&#39;s Too Late](https://www.wired.com/story/donald-trump-wants-to-save-the-coal-industry-hes-too-late/)<!-- TECH:END -->
+ - [Trump’s chaos is threatening the bipartisan movement to break up Big Tech](https://www.theverge.com/politics/645838/trumps-chaos-is-threatening-the-bipartisan-movement-to-break-up-big-tech)
+ - [Anthropic launches a $200 per month tier for “power users”](https://www.theverge.com/ai-artificial-intelligence/645842/anthropic-launches-a-200-per-month-tier-for-power-users)
+ - [Verizon will offer the Pixel 9a for free starting tomorrow](https://www.androidauthority.com/google-pixel-9a-free-2-3543098/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
