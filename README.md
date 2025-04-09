@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Big Rigs, a strong contender for any &#39;worst games of all time&#39; list, currently has a Mostly Positive user rating on Steam because democracy is broken](https://www.pcgamer.com/games/racing/big-rigs-a-strong-contender-for-any-worst-games-of-all-time-list-currently-has-a-mostly-positive-user-rating-on-steam-because-democracy-is-broken/)
- - [Today&#39;s Wordle answer for Wednesday, April 9](https://www.pcgamer.com/games/puzzle/games/wordle-answer-today-april-9-2025/)
- - [Players are breaking the physics of Schedule 1 to escape the cops and explore the sky](https://www.pcgamer.com/games/sim/players-are-breaking-the-physics-of-schedule-1-to-escape-the-cops-and-explore-the-sky/)<!-- GAME:END -->
+ - [Microsoft has now fired the employees who publicly protested the company supplying AI tech to the Israeli military](https://www.pcgamer.com/hardware/microsoft-fires-employees-protesting-israeli-militarys-use-of-companys-ai-tech/)
+ - [What time does Marvel Rivals season 2 release in your time zone?](https://www.polygon.com/marvel-rivals-guide/555131/season-2-release-time-date-edt-pdt)
+ - [Big Rigs, a strong contender for any &#39;worst games of all time&#39; list, currently has a Mostly Positive user rating on Steam because democracy is broken](https://www.pcgamer.com/games/racing/big-rigs-a-strong-contender-for-any-worst-games-of-all-time-list-currently-has-a-mostly-positive-user-rating-on-steam-because-democracy-is-broken/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
