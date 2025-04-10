@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tessell, which offers a multi-cloud database-as-a-service, raised a $60M Series B and plans to launch an AI-based conversational database management service &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250409/p55#a250409p55)
- - [In her Senate testimony, Sarah Wynn-Williams alleged Meta briefed China on US AI efforts, ignored warnings on China potentially accessing US user data, and more &lpar;Barbara Ortutay/Associated Press&rpar;](http://www.techmeme.com/250409/p54#a250409p54)
- - [Alti Play Desk Mat review: A high quality workspace enhancer](https://appleinsider.com/articles/25/04/10/alti-play-desk-mat-review-a-high-quality-workspace-enhancer?utm_medium=rss)<!-- TECH:END -->
+ - [Google introduces Firebase Studio, an AI-powered platform that lets users create custom mobile and web apps, APIs, backends, and frontends from their browser &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250409/p57#a250409p57)
+ - [Waymo readies autonomous cars for first international tests in Japan](https://www.theverge.com/news/645777/waymo-japan-autonomous-test-robotaxi-international)
+ - [Autonomous driving startup Wayve will install its Level 2 advanced driver assistance software in Nissan&#39;s vehicles from 2027, its first global carmaker deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250409/p56#a250409p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
