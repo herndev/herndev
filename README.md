@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Picking up a ride in London these days ..](http://9gag.com/gag/aLnGnov)
- - ⏩ [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
- - 👉 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)<!-- MEMES:END -->
+ - 💣 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
+ - ⏩ [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - 👉 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)<!-- MEMES:END -->
 
 ---
 
