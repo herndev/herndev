@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wonder how it tasted](http://9gag.com/gag/aoy4y4X)
- - ⏩ [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 👉 [Imagine a president tweeting, \u2018This is the right time to buy,\u2019 then pausing the tariffs, and later happily saying how his friends made $2.5 billion and $900 million. How are Americans fine with this?](http://9gag.com/gag/agm8Qrw)<!-- MEMES:END -->
+ - 💣 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
+ - ⏩ [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 👉 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)<!-- MEMES:END -->
 
 ---
 
