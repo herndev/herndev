@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - ⏩ [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 👉 [Legal activities](http://9gag.com/gag/aXP4oQV)<!-- MEMES:END -->
+ - 💣 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
+ - ⏩ [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - 👉 [War is coming boys!](http://9gag.com/gag/aRBz0bG)<!-- MEMES:END -->
 
 ---
 
