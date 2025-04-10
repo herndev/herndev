@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This would be a sign the world is healing](http://9gag.com/gag/awyLy7Q)
- - ⏩ [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
- - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
+ - 💣 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - ⏩ [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
+ - 👉 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)<!-- MEMES:END -->
 
 ---
 
