@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin’s new cycling headlight includes a 4K incident camera](https://www.theverge.com/news/646777/garmin-cycling-varia-vue-headlight-4k-camera-safety-security)
- - [Instagram may finally be coming to iPad after 15 years](https://appleinsider.com/articles/25/04/10/instagram-may-finally-be-coming-to-ipad-after-15-years?utm_medium=rss)
- - [Dodgy report claims Apple Vision Pro 2 arriving by April 2026](https://appleinsider.com/articles/25/04/08/dodgy-report-claims-apple-vision-pro-2-arriving-by-april-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Razer’s PC-to-mobile streaming platform is now available](https://www.theverge.com/news/646810/razer-pc-remote-play-ios-android-game-streaming)
+ - [Some Meta insiders fear FAIR is &quot;dying a slow death&quot; as Joelle Pineau exits; Yann LeCun says it&#39;s &quot;a new beginning&quot; focused on &quot;Advanced Machine Intelligence&quot; &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250410/p45#a250410p45)
+ - [watchOS also rumored to get visionOS design elements](https://appleinsider.com/articles/25/04/10/rumor-repeats-claim-watchos-to-get-visionos-design-elements-makes-wild-ai-claim?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
