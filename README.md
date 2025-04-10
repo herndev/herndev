@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Stockpiling Switch 2s In The U.S. Even Though It Could Still Be Selling Them At A Loss With Current Tariffs](https://kotaku.com/switch-2-stock-tariffs-price-loss-nintendo-sell-out-1851775602)
- - [Alleged Steam Deck Prototype goes up on eBay for almost $3,000](https://www.pcgamer.com/hardware/handheld-gaming-pcs/alleged-steam-deck-prototype-goes-up-on-ebay-for-almost-usd3-000/)
- - [Switch 2 consoles made in Vietnam earmarked for the U.S.](https://www.polygon.com/nintendo-switch-2/556379/us-console-supply-stockpile-vietnam-tariffs)<!-- GAME:END -->
+ - [Free Play Days – Moving Out 2 and Crime Boss: Rockay City](https://news.xbox.com/en-us/2025/04/10/free-play-days-04-10-2025/)
+ - [Now, Riposte! This First Berserker: Khazan Armor Set Boosts Counterattack Damage](https://kotaku.com/first-berserker-khazan-great-general-armor-scroll-1851775621)
+ - [Looks like 8 GB and 16 GB versions of the RX 9060 XT and RTX 5060 Ti are fast approaching, so *please* can we have some affordable graphics cards for a change](https://www.pcgamer.com/hardware/graphics-cards/looks-like-8-gb-and-16-gb-versions-of-the-rx-9060-xt-and-rtx-5060-ti-are-fast-approaching-so-please-can-we-have-some-affordable-graphics-cards-for-a-change/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
