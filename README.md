@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solid, which offers APIs for banking, payments, cards, and crypto products and had raised $81M, files for Chapter 11, citing a &quot;costly&quot; lawsuit with FTV Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250410/p8#a250410p8)
- - [Tel Aviv-based Anecdotes, which helps automate corporate governance, risk, and compliance processes, raised a $30M Series B extension, taking the round to $55M &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/250410/p7#a250410p7)
- - [Artisan, which is building AI sales development representatives, raised a $25M Series A led by Glade Brook Capital, after raising $12M in September 2024 &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250410/p6#a250410p6)<!-- TECH:END -->
+ - [Q&amp;A with CMU professor and OpenAI board member Zico Kolter on CMU&#39;s partnership with Google, the dangers of AI agents interacting with one another, and more &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250410/p9#a250410p9)
+ - [This Ultra flagship has insane cameras, so here’s a crazy 8.7x add-on lens too, because why not](https://www.androidauthority.com/vivo-x200-ultra-add-on-lens-3543355/)
+ - [I Played the Thronglets Game From Black Mirror. Here&#39;s What I Learned](https://www.cnet.com/tech/services-and-software/i-played-thronglets-from-black-mirror-and-heres-what-i-learned/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
