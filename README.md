@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [James Cameron Thinks AI Could Be Necessary To Keep Making Movies Like Dune](https://kotaku.com/james-cameron-ai-terminator-dune-avatar-1851775691)
- - [An old foe returns with The Elder Scrolls Online’s new 2025 adventure](https://blog.playstation.com/2025/04/10/an-old-foe-returns-with-the-elder-scrolls-onlines-new-2025-adventure/)
- - [The Elder Scrolls Online is getting subclassing—which&#39;ll expand its roster of classes to &#39;over 3,000&#39; combinations of mix-and-matched skill lines](https://www.pcgamer.com/games/mmo/the-elder-scrolls-online-is-getting-subclassing-whichll-expand-its-roster-of-classes-to-over-3-000-combinations-of-mix-and-matched-skill-lines/)<!-- GAME:END -->
+ - [All 36 Games We Saw At The Triple-i Spring Indie Showcase Extravaganza](https://kotaku.com/triple-i-initiate-indie-showcase-roguelike-survival-rpg-1851775569)
+ - [How to solve the Laboratory periodic table puzzle in Blue Prince](https://www.polygon.com/blue-prince-guides/556540/laboratory-periodic-table-puzzle-how-to-solve-turn-on-machine)
+ - [Where to find all nymphs in Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/507070/nymph-locations-butterfly-beetles-map)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
