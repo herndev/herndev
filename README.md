@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm](http://9gag.com/gag/aKGWdQb)
- - ⏩ [Dat laugh tho\u2026](http://9gag.com/gag/aPA87Gn)
- - 👉 [War is coming boys!](http://9gag.com/gag/aRBz0bG)<!-- MEMES:END -->
+ - 💣 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
+ - ⏩ [He&#39;s just like me](http://9gag.com/gag/agm8Bvv)
+ - 👉 [Always ready for some coke...](http://9gag.com/gag/a9y8qjm)<!-- MEMES:END -->
 
 ---
 
