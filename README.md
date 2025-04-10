@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
- - ⏩ [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
- - 👉 [Hey mister](http://9gag.com/gag/a7oV1Dz)<!-- MEMES:END -->
+ - 💣 [I wonder how it tasted](http://9gag.com/gag/aoy4y4X)
+ - ⏩ [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 👉 [Imagine a president tweeting, \u2018This is the right time to buy,\u2019 then pausing the tariffs, and later happily saying how his friends made $2.5 billion and $900 million. How are Americans fine with this?](http://9gag.com/gag/agm8Qrw)<!-- MEMES:END -->
 
 ---
 
