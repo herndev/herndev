@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court document: NSO Group&#39;s spyware Pegasus was used to target 1,223 WhatsApp users in 51 countries in a 2019 attack; Mexico led with 456 victims, India had 100 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250409/p58#a250409p58)
- - [Google introduces Firebase Studio, an AI-powered platform that lets users create custom mobile and web apps, APIs, backends, and frontends from their browser &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250409/p57#a250409p57)
- - [Waymo readies autonomous cars for first international tests in Japan](https://www.theverge.com/news/645777/waymo-japan-autonomous-test-robotaxi-international)<!-- TECH:END -->
+ - [Good news, gamers: The Nintendo Switch 2 may have just caught a break in the US](https://www.androidauthority.com/nintendo-switch-2-us-availability-tariffs-3543305/)
+ - [xAI launches an API for Grok 3 and Grok 3 mini with &quot;reasoning&quot; capabilities; Grok 3 costs $3/$15 per million input/output tokens, Grok 3 mini costs $0.30/$0.50 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250410/p2#a250410p2)
+ - [A look at Isomorphic Labs, a life sciences startup spun out of Google DeepMind aiming to &quot;solve all disease&quot; through AI-powered drug discovery &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250410/p1#a250410p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
