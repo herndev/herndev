@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Moving Out 2 and Crime Boss: Rockay City](https://news.xbox.com/en-us/2025/04/10/free-play-days-04-10-2025/)
- - [Now, Riposte! This First Berserker: Khazan Armor Set Boosts Counterattack Damage](https://kotaku.com/first-berserker-khazan-great-general-armor-scroll-1851775621)
- - [Looks like 8 GB and 16 GB versions of the RX 9060 XT and RTX 5060 Ti are fast approaching, so *please* can we have some affordable graphics cards for a change](https://www.pcgamer.com/hardware/graphics-cards/looks-like-8-gb-and-16-gb-versions-of-the-rx-9060-xt-and-rtx-5060-ti-are-fast-approaching-so-please-can-we-have-some-affordable-graphics-cards-for-a-change/)<!-- GAME:END -->
+ - [Atomfall: How Rebellion Created Its Most Accessible Game to Date](https://news.xbox.com/en-us/2025/04/10/atomfall-accessibility/)
+ - [David Fincher&#39;s New Xbox Commercial Has Big PS2 Energy](https://kotaku.com/david-fincher-xbox-rat-live-action-ad-brand-trailer-1851775635)
+ - [Crimson Desert is an unrestrained feast of violence, with a toolkit of moves that&#39;s like a fusion of every action RPG protagonist of the past decade rolled into one](https://www.pcgamer.com/games/rpg/crimson-desert-is-an-unrestrained-feast-of-violence-with-a-toolkit-of-moves-thats-like-a-fusion-of-every-action-rpg-protagonist-of-the-past-decade-rolled-into-one/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
