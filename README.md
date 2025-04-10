@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kids from the Banna tribe in Ethiopia walking on stilts](http://9gag.com/gag/amomv9V)
- - ⏩ [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - 👉 [Hmm](http://9gag.com/gag/aKGWdQb)<!-- MEMES:END -->
+ - 💣 [Hmm](http://9gag.com/gag/aKGWdQb)
+ - ⏩ [Dat laugh tho\u2026](http://9gag.com/gag/aPA87Gn)
+ - 👉 [War is coming boys!](http://9gag.com/gag/aRBz0bG)<!-- MEMES:END -->
 
 ---
 
