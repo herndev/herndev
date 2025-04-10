@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This would be a sign the world is healing](http://9gag.com/gag/awyLy7Q)
+ - 💣 [Picking up a ride in London these days ..](http://9gag.com/gag/aLnGnov)
  - ⏩ [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
- - 👉 [A local tradtion where girls compete to capture a man, and ... ? guess what next](http://9gag.com/gag/abAWrVL)<!-- MEMES:END -->
+ - 👉 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)<!-- MEMES:END -->
 
 ---
 
