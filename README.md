@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Mirror Season 7 review](https://www.pcgamer.com/movies-tv/black-mirror-season-7-review/)
- - [Black Mirror’s Plaything is a great sequel to Bandersnatch because there’s a new game to play, too](https://www.polygon.com/555730/black-mirror-plaything-real-game-thronglets)
- - [Where and when to watch the Triple-i Initiative showcase](https://www.pcgamer.com/gaming-industry/events-conferences/triple-i-initiative-april-2025/)<!-- GAME:END -->
+ - [Some lucky Redditors are getting 50-series cards below MSRP thanks to a weird Walmart quirk](https://www.pcgamer.com/hardware/graphics-cards/some-lucky-redditors-are-getting-50-series-cards-below-msrp-thanks-to-a-weird-walmart-quirk/)
+ - [The Outer Worlds 2: IGN First Kicks Off a Month of Exclusive Coverage](https://www.ign.com/articles/new-gameplay-the-outer-worlds-2-ign-first#new_tab)
+ - [Black Mirror Season 7 review](https://www.pcgamer.com/movies-tv/black-mirror-season-7-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
