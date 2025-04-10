@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SILQ, a new B2B e-commerce firm formed by the merger of Bangladesh-based ShopUp and Saudi Arabia-based Sary, raised $110M co-led by Sanabil and Valar Ventures &lpar;Bloomberg&rpar;](http://www.techmeme.com/250410/p3#a250410p3)
- - [The Pixel 9a is finally available in the US, but not all colors are equal](https://www.androidauthority.com/google-pixel-9a-us-availability-3543333/)
- - [Good news, gamers: The Nintendo Switch 2 may have just caught a break in the US](https://www.androidauthority.com/nintendo-switch-2-us-availability-tariffs-3543305/)<!-- TECH:END -->
+ - [Solid, which offers APIs for banking, payments, cards, and crypto products and had raised $81M, files for Chapter 11, citing a &quot;costly&quot; lawsuit with FTV Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250410/p8#a250410p8)
+ - [Tel Aviv-based Anecdotes, which helps automate corporate governance, risk, and compliance processes, raised a $30M Series B extension, taking the round to $55M &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/250410/p7#a250410p7)
+ - [Artisan, which is building AI sales development representatives, raised a $25M Series A led by Glade Brook Capital, after raising $12M in September 2024 &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250410/p6#a250410p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
