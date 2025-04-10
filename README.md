@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where and when to watch the Triple-i Initiative showcase](https://www.pcgamer.com/gaming-industry/events-conferences/triple-i-initiative-april-2025/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for April: Hogwarts Legacy, Blue Prince, the second episode of Lost Records: Bloom &amp; Rage and more](https://blog.playstation.com/2025/04/09/20250410-psplus/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for April: Hogwarts Legacy, Blue Prince, the second episode of Lost Records: Bloom &amp; Rage and more](https://blog.playstation.com/2025/04/09/20250410-psplus/)<!-- GAME:END -->
+ - [Black Mirror Season 7 review](https://www.pcgamer.com/movies-tv/black-mirror-season-7-review/)
+ - [Black Mirror’s Plaything is a great sequel to Bandersnatch because there’s a new game to play, too](https://www.polygon.com/555730/black-mirror-plaything-real-game-thronglets)
+ - [Where and when to watch the Triple-i Initiative showcase](https://www.pcgamer.com/gaming-industry/events-conferences/triple-i-initiative-april-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
