@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Has Nintendo just set up the original Switch to be the best-selling console of all time?](https://www.polygon.com/nintendo/555598/has-nintendo-just-set-up-the-original-switch-to-be-the-best-selling-console-of-all-time)
- - [New Facebook Tech Will Encourage People To Use Their Phones In Movie Theaters](https://kotaku.com/facebook-meta-phone-theaters-megan-movie-mate-app-chat-1851775568)
- - [Marvel Rivals is launching an &#39;experimental feature&#39; to help players deal with the game&#39;s awful performance and insatiable appetite for RAM](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-launching-an-experimental-feature-to-help-players-deal-with-the-games-awful-performance-and-insatiable-appetite-for-ram/)<!-- GAME:END -->
+ - [Nintendo Stockpiling Switch 2s In The U.S. Even Though It Could Still Be Selling Them At A Loss With Current Tariffs](https://kotaku.com/switch-2-stock-tariffs-price-loss-nintendo-sell-out-1851775602)
+ - [Alleged Steam Deck Prototype goes up on eBay for almost $3,000](https://www.pcgamer.com/hardware/handheld-gaming-pcs/alleged-steam-deck-prototype-goes-up-on-ebay-for-almost-usd3-000/)
+ - [Switch 2 consoles made in Vietnam earmarked for the U.S.](https://www.polygon.com/nintendo-switch-2/556379/us-console-supply-stockpile-vietnam-tariffs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
