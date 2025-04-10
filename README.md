@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 9a looks fine, but the 8a still feels right: Which one wins for you?](https://www.androidauthority.com/pixel-9a-vs-pixel-8a-design-poll-3543442/)
- - [The Samsung Galaxy Tab S10 Plus is the tablet I hate to love… but I do love it](https://www.androidauthority.com/samsung-galaxy-tab-s10-plus-review-3529635/)
- - [Here are the first few pictures I’ve taken with the Google Pixel 9a](https://www.androidauthority.com/google-pixel-9a-sample-gallery-3543128/)<!-- TECH:END -->
+ - [How these guitar modeling companies are recreating rare vintage sounds for the digital age](https://www.theverge.com/creators/643080/guitar-map-modeling)
+ - [Incident.io, which streamlines incident management for organizations with 200+ users, raised a $62M Series B led by Insight, sources say at a ~$400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250410/p25#a250410p25)
+ - [What&amp;#8217;s on your desk, Allison Johnson?](https://www.theverge.com/tech/644860/whats-on-your-desk-allison-johnson)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
