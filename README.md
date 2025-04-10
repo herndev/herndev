@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All 36 Games We Saw At The Triple-i Spring Indie Showcase Extravaganza](https://kotaku.com/triple-i-initiate-indie-showcase-roguelike-survival-rpg-1851775569)
- - [How to solve the Laboratory periodic table puzzle in Blue Prince](https://www.polygon.com/blue-prince-guides/556540/laboratory-periodic-table-puzzle-how-to-solve-turn-on-machine)
- - [Where to find all nymphs in Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/507070/nymph-locations-butterfly-beetles-map)<!-- GAME:END -->
+ - [Lost Ember studio reveals its next game, and dang, it&#39;s got some really good snow](https://www.pcgamer.com/games/adventure/lost-ember-studio-reveals-its-next-game-and-dang-its-got-some-really-good-snow/)
+ - [If Balatro had a hard time convincing rating boards it&#39;s not gambling, then this slot machine roguelite is gonna have twice as much trouble](https://www.pcgamer.com/games/roguelike/if-balatro-had-a-hard-time-convincing-rating-boards-its-not-gambling-then-this-slot-machine-roguelite-is-gonna-have-twice-as-much-trouble/)
+ - [Devs Behind Controversial Sexual Assault Game Defend It, But Say They&#39;re Pulling It From Steam Anyway](https://kotaku.com/no-mercy-sexual-assault-incest-sim-steam-removed-uk-pc-1851775725)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
