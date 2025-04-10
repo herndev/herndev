@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Atomfall: How Rebellion Created Its Most Accessible Game to Date](https://news.xbox.com/en-us/2025/04/10/atomfall-accessibility/)
- - [David Fincher&#39;s New Xbox Commercial Has Big PS2 Energy](https://kotaku.com/david-fincher-xbox-rat-live-action-ad-brand-trailer-1851775635)
- - [Crimson Desert is an unrestrained feast of violence, with a toolkit of moves that&#39;s like a fusion of every action RPG protagonist of the past decade rolled into one](https://www.pcgamer.com/games/rpg/crimson-desert-is-an-unrestrained-feast-of-violence-with-a-toolkit-of-moves-thats-like-a-fusion-of-every-action-rpg-protagonist-of-the-past-decade-rolled-into-one/)<!-- GAME:END -->
+ - [Duskfade – A Journey Through Nostalgia, Loss, and Moving Forward](https://news.xbox.com/en-us/2025/04/10/duskfade-a-journey-through-nostalgia-loss-and-moving-forward/)
+ - [6 years after launch, my favorite action platformer Katana Zero is still getting that long-promised free DLC that&#39;s &#39;nearly the size of the base game&#39;](https://www.pcgamer.com/games/action/6-years-after-launch-my-favorite-action-platformer-katana-zero-is-still-getting-that-long-promised-free-dlc-thats-nearly-the-size-of-the-base-game/)
+ - [Soccer fans should be paying attention to Rematch, the 5v5 game coming this summer from the developer of martial arts hit Sifu](https://www.pcgamer.com/games/sports/soccer-fans-should-be-paying-attention-to-rematch-the-5v5-game-coming-this-summer-from-the-developer-of-martial-arts-hit-sifu/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
