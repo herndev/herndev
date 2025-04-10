@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - ⏩ [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - ⏩ [Owner fills restaurant with fresh water to stop muddy flood waters from entering.](http://9gag.com/gag/aZZQZp9)
  - 👉 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)<!-- MEMES:END -->
 
 ---
