@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos appoints software veteran Hugo Barra to its board, replacing Mike Volpi, who is stepping down after 15 years; Barra is the head of product at /dev/agents &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250410/p40#a250410p40)
- - [Mike Flanagan is adapting Stephen King’s Carrie for Amazon](https://www.theverge.com/news/646606/mike-flanagan-carrie-amazon-series)
- - [Canva is now in the coding and spreadsheet business](https://www.theverge.com/news/646682/canva-visual-suite-2-0-ai-spreadsheets-creative-workspace)<!-- TECH:END -->
+ - [Garmin’s new cycling headlight includes a 4K incident camera](https://www.theverge.com/news/646777/garmin-cycling-varia-vue-headlight-4k-camera-safety-security)
+ - [Instagram may finally be coming to iPad after 15 years](https://appleinsider.com/articles/25/04/10/instagram-may-finally-be-coming-to-ipad-after-15-years?utm_medium=rss)
+ - [Dodgy report claims Apple Vision Pro 2 arriving by April 2026](https://appleinsider.com/articles/25/04/08/dodgy-report-claims-apple-vision-pro-2-arriving-by-april-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
