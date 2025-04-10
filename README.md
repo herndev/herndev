@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is Port Authority police officer Christopher Amoroso on the morning of September 11th, 2001. After saving this pregnant woman, Chris decided to go back in to the Twin Towers for the 5th time to help others escape. He wouldn&#39;t make it out alive.](http://9gag.com/gag/apRP5Ln)
- - ⏩ [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
- - 👉 [Smurf](http://9gag.com/gag/a0e6QVZ)<!-- MEMES:END -->
+ - 💣 [Kids from the Banna tribe in Ethiopia walking on stilts](http://9gag.com/gag/amomv9V)
+ - ⏩ [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - 👉 [Hmm](http://9gag.com/gag/aKGWdQb)<!-- MEMES:END -->
 
 ---
 
