@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge berates AI entrepreneur for using a generated ‘lawyer’ in court](https://www.theverge.com/news/646372/ai-lawyer-artificial-avatar-new-york-court-case-video)
- - [In his annual shareholder letter, Amazon CEO Andy Jassy says the company has to operate like the &quot;world&#39;s largest startup&quot; to stay competitive in AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250410/p22#a250410p22)
- - [China will show fewer US films in response to tariffs](https://www.theverge.com/news/646362/china-reduces-us-film-imports-trump-tariffs)<!-- TECH:END -->
+ - [The Pixel 9a looks fine, but the 8a still feels right: Which one wins for you?](https://www.androidauthority.com/pixel-9a-vs-pixel-8a-design-poll-3543442/)
+ - [The Samsung Galaxy Tab S10 Plus is the tablet I hate to love… but I do love it](https://www.androidauthority.com/samsung-galaxy-tab-s10-plus-review-3529635/)
+ - [Here are the first few pictures I’ve taken with the Google Pixel 9a](https://www.androidauthority.com/google-pixel-9a-sample-gallery-3543128/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
