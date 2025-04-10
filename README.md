@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s 90-day tariff pause gives Nintendo, which opened up 10% on April 10, valuable time to prepare for the Switch 2&#39;s US launch and lifts pricing pressure &lpar;Bloomberg&rpar;](http://www.techmeme.com/250410/p12#a250410p12)
- - [TSMC reports Q1 revenue up ~42% YoY to $25.5B, above est. and its fastest revenue growth since 2022, as electronics makers stockpiled chips ahead of US tariffs &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250410/p11#a250410p11)
- - [Trump&#39;s global tariffs are an opportunity for EU to bolster its tech sector via strategic investments, streamlining regulations, and deepening its single market &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250410/p10#a250410p10)<!-- TECH:END -->
+ - [SentinelLabs: AkiraBot spammers exploited OpenAI&#39;s gpt-4o-mini-based API to create unique messages, bypassing spam filters to target 80K+ sites in four months &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250410/p15#a250410p15)
+ - [Ziroh Labs and the Indian Institute of Technology partner to launch Kompact AI, which they say is an affordable AI system to run large models on standard CPUs &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250410/p14#a250410p14)
+ - [Shopping for an EV or Plug-In Hybrid? Here Are the Ones Built in the US](https://www.wired.com/story/all-the-evs-and-hybrids-built-in-the-us/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
