@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - ⏩ [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
- - 👉 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)<!-- MEMES:END -->
+ - 💣 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)
+ - ⏩ [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
+ - 👉 [Legal activities](http://9gag.com/gag/aXP4oQV)<!-- MEMES:END -->
 
 ---
 
