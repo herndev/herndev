@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Duskfade – A Journey Through Nostalgia, Loss, and Moving Forward](https://news.xbox.com/en-us/2025/04/10/duskfade-a-journey-through-nostalgia-loss-and-moving-forward/)
- - [6 years after launch, my favorite action platformer Katana Zero is still getting that long-promised free DLC that&#39;s &#39;nearly the size of the base game&#39;](https://www.pcgamer.com/games/action/6-years-after-launch-my-favorite-action-platformer-katana-zero-is-still-getting-that-long-promised-free-dlc-thats-nearly-the-size-of-the-base-game/)
- - [Soccer fans should be paying attention to Rematch, the 5v5 game coming this summer from the developer of martial arts hit Sifu](https://www.pcgamer.com/games/sports/soccer-fans-should-be-paying-attention-to-rematch-the-5v5-game-coming-this-summer-from-the-developer-of-martial-arts-hit-sifu/)<!-- GAME:END -->
+ - [EA Play: Supercharge the Action in EA Sports NHL 25 &amp; College Football 25](https://news.xbox.com/en-us/2025/04/10/ea-play-april-nhl-25-college-football-25/)
+ - [Amazon&#39;s Tomb Raider Series Could Be Dead](https://kotaku.com/amazon-tomb-raider-phoebe-waller-bridge-sophie-turner-1851775643)
+ - [&#39;Why just shoot your enemies when you can tear down the world around them?&#39; Battle an endless cycle of evil machines in this FPS that features &#39;total environmental destruction&#39;](https://www.pcgamer.com/games/fps/battle-an-endless-cycle-of-evil-machines-in-this-roguelite-fps-with-infinite-weapon-customization-and-total-environmental-destruction/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
