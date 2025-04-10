@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alti Play Desk Mat review: A high quality workspace enhancer](https://appleinsider.com/articles/25/04/10/alti-play-desk-mat-review-a-high-quality-workspace-enhancer?utm_medium=rss)
- - [The US Senate confirms former SEC Commissioner Paul Atkins as SEC chair, succeeding Gary Gensler; Atkins is widely expected to support crypto-friendly policies &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250409/p53#a250409p53)
- - [OpenAI countersues Elon Musk, claiming harassment and asking a federal judge to stop Musk from any further attacks in a case over OpenAI&#39;s future structure &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250409/p52#a250409p52)<!-- TECH:END -->
+ - [Tessell, which offers a multi-cloud database-as-a-service, raised a $60M Series B and plans to launch an AI-based conversational database management service &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250409/p55#a250409p55)
+ - [In her Senate testimony, Sarah Wynn-Williams alleged Meta briefed China on US AI efforts, ignored warnings on China potentially accessing US user data, and more &lpar;Barbara Ortutay/Associated Press&rpar;](http://www.techmeme.com/250409/p54#a250409p54)
+ - [Alti Play Desk Mat review: A high quality workspace enhancer](https://appleinsider.com/articles/25/04/10/alti-play-desk-mat-review-a-high-quality-workspace-enhancer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
