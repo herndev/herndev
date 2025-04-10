@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - ⏩ [Owner fills restaurant with fresh water to stop muddy flood waters from entering.](http://9gag.com/gag/aZZQZp9)
+ - 💣 [Hey mister](http://9gag.com/gag/a7oV1Dz)
+ - ⏩ [War is coming boys!](http://9gag.com/gag/aRBz0bG)
  - 👉 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)<!-- MEMES:END -->
 
 ---
