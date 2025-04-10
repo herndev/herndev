@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court document: NSO Group&#39;s spyware Pegasus was used to target 1,223 WhatsApp users in 51 countries in a 2019 attack; Mexico led with 456 victims, India had 100 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250409/p58#a250409p58)
  - [Google introduces Firebase Studio, an AI-powered platform that lets users create custom mobile and web apps, APIs, backends, and frontends from their browser &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250409/p57#a250409p57)
- - [Waymo readies autonomous cars for first international tests in Japan](https://www.theverge.com/news/645777/waymo-japan-autonomous-test-robotaxi-international)
- - [Autonomous driving startup Wayve will install its Level 2 advanced driver assistance software in Nissan&#39;s vehicles from 2027, its first global carmaker deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250409/p56#a250409p56)<!-- TECH:END -->
+ - [Waymo readies autonomous cars for first international tests in Japan](https://www.theverge.com/news/645777/waymo-japan-autonomous-test-robotaxi-international)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
