@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s PC-to-mobile streaming platform is now available](https://www.theverge.com/news/646810/razer-pc-remote-play-ios-android-game-streaming)
- - [Some Meta insiders fear FAIR is &quot;dying a slow death&quot; as Joelle Pineau exits; Yann LeCun says it&#39;s &quot;a new beginning&quot; focused on &quot;Advanced Machine Intelligence&quot; &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250410/p45#a250410p45)
- - [watchOS also rumored to get visionOS design elements](https://appleinsider.com/articles/25/04/10/rumor-repeats-claim-watchos-to-get-visionos-design-elements-makes-wild-ai-claim?utm_medium=rss)<!-- TECH:END -->
+ - [Trump’s Trade War Is Strengthening China’s Soft Power](https://www.wired.com/story/china-tariffs-response-trump-retaliation/)
+ - [Google’s April Pixel updates are here, including for the brand-new Pixel 9a](https://www.androidauthority.com/april-2025-pixel-updates-3543728/)
+ - [Deal: Buy an Amazon Echo Pop and get a smart light for under a buck](https://www.androidauthority.com/amazon-echo-pop-smart-light-deal-3543712/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
