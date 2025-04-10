@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Creative Assembly is testing a second round of AI improvements for Total War: Warhammer 3: &#39;We heard you loud and clear&#39;](https://www.pcgamer.com/games/strategy/creative-assembly-is-testing-a-second-round-of-ai-improvements-for-total-war-warhammer-3-we-heard-you-loud-and-clear/)
  - [Every single Oddworld game is available right now for a single, solitary dollar](https://www.pcgamer.com/games/puzzle/every-single-oddworld-game-is-available-right-now-for-a-single-solitary-dollar/)
- - [Schedule 1 is the kind of instant Steam hit that was only ever going to come from a complete rando](https://www.pcgamer.com/games/sim/schedule-1-is-the-kind-of-instant-steam-hit-that-was-only-ever-going-to-come-from-a-complete-rando/)
- - [Video game titles like Super Mario Party Jamboree – Nintendo Switch 2 Edition + Jamboree TV and Kirby and the Forgotten Land – Nintendo Switch 2 Edition + Star-Crossed World are too long and I think Nintendo should do something about it](https://www.polygon.com/nintendo-switch-2/552289/switch-2-game-titles-are-too-long)<!-- GAME:END -->
+ - [Schedule 1 is the kind of instant Steam hit that was only ever going to come from a complete rando](https://www.pcgamer.com/games/sim/schedule-1-is-the-kind-of-instant-steam-hit-that-was-only-ever-going-to-come-from-a-complete-rando/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
