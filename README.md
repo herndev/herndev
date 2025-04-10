@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Some lucky Redditors are getting 50-series cards below MSRP thanks to a weird Walmart quirk](https://www.pcgamer.com/hardware/graphics-cards/some-lucky-redditors-are-getting-50-series-cards-below-msrp-thanks-to-a-weird-walmart-quirk/)
- - [The Outer Worlds 2: IGN First Kicks Off a Month of Exclusive Coverage](https://www.ign.com/articles/new-gameplay-the-outer-worlds-2-ign-first#new_tab)
- - [Black Mirror Season 7 review](https://www.pcgamer.com/movies-tv/black-mirror-season-7-review/)<!-- GAME:END -->
+ - [Former Blizzard president says &#39;I&#39;m not sure where Diablo is going&#39; after Diablo 4 roadmap disappoints: &#39;Don&#39;t ship to check a box&#39;](https://www.pcgamer.com/games/rpg/former-blizzard-president-says-im-not-sure-where-diablo-is-going-after-diablo-4-roadmap-disappoints-dont-ship-to-check-a-box/)
+ - [REPO: how many players can join](https://www.pcgamer.com/games/horror/repo-how-many-players/)
+ - [AMD muddies the laptop CPU waters again with a Zen 4 refresh. So, where are our actual next-gen Zen 5 chips?](https://www.pcgamer.com/hardware/gaming-laptops/amd-muddies-the-laptop-cpu-waters-again-with-a-zen-4-refresh-so-where-are-our-actual-next-gen-zen-5-chips/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
