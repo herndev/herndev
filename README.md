@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with CMU professor and OpenAI board member Zico Kolter on CMU&#39;s partnership with Google, the dangers of AI agents interacting with one another, and more &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250410/p9#a250410p9)
- - [This Ultra flagship has insane cameras, so here’s a crazy 8.7x add-on lens too, because why not](https://www.androidauthority.com/vivo-x200-ultra-add-on-lens-3543355/)
- - [I Played the Thronglets Game From Black Mirror. Here&#39;s What I Learned](https://www.cnet.com/tech/services-and-software/i-played-thronglets-from-black-mirror-and-heres-what-i-learned/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump&#39;s 90-day tariff pause gives Nintendo, which opened up 10% on April 10, valuable time to prepare for the Switch 2&#39;s US launch and lifts pricing pressure &lpar;Bloomberg&rpar;](http://www.techmeme.com/250410/p12#a250410p12)
+ - [TSMC reports Q1 revenue up ~42% YoY to $25.5B, above est. and its fastest revenue growth since 2022, as electronics makers stockpiled chips ahead of US tariffs &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250410/p11#a250410p11)
+ - [Trump&#39;s global tariffs are an opportunity for EU to bolster its tech sector via strategic investments, streamlining regulations, and deepening its single market &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250410/p10#a250410p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
