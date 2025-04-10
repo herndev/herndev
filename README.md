@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SentinelLabs: AkiraBot spammers exploited OpenAI&#39;s gpt-4o-mini-based API to create unique messages, bypassing spam filters to target 80K+ sites in four months &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250410/p15#a250410p15)
- - [Ziroh Labs and the Indian Institute of Technology partner to launch Kompact AI, which they say is an affordable AI system to run large models on standard CPUs &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250410/p14#a250410p14)
- - [Shopping for an EV or Plug-In Hybrid? Here Are the Ones Built in the US](https://www.wired.com/story/all-the-evs-and-hybrids-built-in-the-us/)<!-- TECH:END -->
+ - [Pixel Weather is my favorite weather app; there’s just one problem with it](https://www.androidauthority.com/pixel-weather-favorite-weather-app-one-problem-3541747/)
+ - [This Android flagship chip now supports Bluetooth over 15kms](https://www.androidauthority.com/mediatek-dimensity-9400-plus-3543343/)
+ - [A deep dive on what Trump&#39;s Liberation Day tariffs mean for AI infrastructure: how the tariffs work, the USMCA&#39;s GPU loophole, GPU/XPU global trade, and more &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250410/p20#a250410p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
