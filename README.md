@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The tariff apocalypse has not been canceled](https://www.theverge.com/politics/646604/trump-tariffs-reciprocal-pause-canada-mexico-china-de-minimis)
- - [The OnePlus Watch 3 launches in the US after it was pulled to fix the &quot;Meda in China&quot; typo, but for $500, up from $330 OnePlus had previously announced &lpar;Matt Horne/Android Authority&rpar;](http://www.techmeme.com/250410/p34#a250410p34)
- - [Inside Apple Via del Corso -- Rome&#39;s store that&#39;s also a museum](https://appleinsider.com/articles/25/04/10/inside-apple-via-del-corso----romes-store-thats-also-a-museum?utm_medium=rss)<!-- TECH:END -->
+ - [DoorDash launches robot deliveries in LA and Chicago in partnership with Coco Robotics, whose robots already deliver for DoorDash sub-brand Wolt in Helsinki &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250410/p38#a250410p38)
+ - [The Trump Administration Is Turning Science Against Itself](https://www.wired.com/story/trump-administration-science/)
+ - [Sonos appoints software veteran Hugo Barra to its board after app troubles](https://www.theverge.com/news/646609/sonos-hugo-barra-board-of-directors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
