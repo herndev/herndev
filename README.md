@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She wanted to say `I&#39;m a real woman` so bad..](http://9gag.com/gag/aW4vGxA)
- - ⏩ [It&#39;s True](http://9gag.com/gag/aW4vpj4)
- - 👉 [PERFECT](http://9gag.com/gag/aYQPGeq)<!-- MEMES:END -->
+ - 💣 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)
+ - ⏩ [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - 👉 [Legal activities](http://9gag.com/gag/aXP4oQV)<!-- MEMES:END -->
 
 ---
 
