@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Power up your Pixel: 10 tips and tricks for your Google Pixel 9a](https://www.androidauthority.com/google-pixel-9a-tips-3542270/)
- - [There are several ways to save on a Google Pixel 9A](https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale)
- - [Apple&#39;s high storage prices may be key to mitigating iPhone 17 Pro price rises](https://appleinsider.com/articles/25/04/10/apples-high-storage-prices-may-be-key-to-mitigating-iphone-17-pro-price-rises?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus Watch 3 now costs 50% more in the US, and you can probably guess why](https://www.androidauthority.com/oneplus-watch-3-us-price-increase-3543595/)
+ - [OpenAI gets ready to launch GPT-4.1](https://www.theverge.com/news/646458/openai-gpt-4-1-ai-model)
+ - [Meta says LLMs have historically leaned left and wants to remove that bias with Llama 4 to &quot;understand and articulate both sides of a contentious issue&quot; &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250410/p30#a250410p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
