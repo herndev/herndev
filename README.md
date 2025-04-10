@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How these guitar modeling companies are recreating rare vintage sounds for the digital age](https://www.theverge.com/creators/643080/guitar-map-modeling)
- - [Incident.io, which streamlines incident management for organizations with 200+ users, raised a $62M Series B led by Insight, sources say at a ~$400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250410/p25#a250410p25)
- - [What&amp;#8217;s on your desk, Allison Johnson?](https://www.theverge.com/tech/644860/whats-on-your-desk-allison-johnson)<!-- TECH:END -->
+ - [Power up your Pixel: 10 tips and tricks for your Google Pixel 9a](https://www.androidauthority.com/google-pixel-9a-tips-3542270/)
+ - [There are several ways to save on a Google Pixel 9A](https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale)
+ - [Apple&#39;s high storage prices may be key to mitigating iPhone 17 Pro price rises](https://appleinsider.com/articles/25/04/10/apples-high-storage-prices-may-be-key-to-mitigating-iphone-17-pro-price-rises?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
