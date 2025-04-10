@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Games Showcase returns in June with first-party studios, third-party partners, and a deep dive into The Outer Worlds 2](https://www.pcgamer.com/games/xbox-games-showcase-returns-in-june-with-first-party-studios-third-party-partners-and-a-deep-dive-into-the-outer-worlds-2/)
- - [The Last of Us is coming back for a third season on HBO](https://www.pcgamer.com/movies-tv/the-last-of-us-is-coming-back-for-a-third-season-on-hbo/)
- - [Murderbot&#39;s Trailer Has Alexander Skarsgård As A Killing Machine With Deadpan Humor](https://kotaku.com/alexander-skarsgard-apple-murderbot-1851775552)<!-- GAME:END -->
+ - [Every single Oddworld game is available right now for a single, solitary dollar](https://www.pcgamer.com/games/puzzle/every-single-oddworld-game-is-available-right-now-for-a-single-solitary-dollar/)
+ - [Schedule 1 is the kind of instant Steam hit that was only ever going to come from a complete rando](https://www.pcgamer.com/games/sim/schedule-1-is-the-kind-of-instant-steam-hit-that-was-only-ever-going-to-come-from-a-complete-rando/)
+ - [Video game titles like Super Mario Party Jamboree – Nintendo Switch 2 Edition + Jamboree TV and Kirby and the Forgotten Land – Nintendo Switch 2 Edition + Star-Crossed World are too long and I think Nintendo should do something about it](https://www.polygon.com/nintendo-switch-2/552289/switch-2-game-titles-are-too-long)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
