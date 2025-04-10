@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
- - ⏩ [He&#39;s just like me](http://9gag.com/gag/agm8Bvv)
- - 👉 [Always ready for some coke...](http://9gag.com/gag/a9y8qjm)<!-- MEMES:END -->
+ - 💣 [Hmm](http://9gag.com/gag/aKGWdQb)
+ - ⏩ [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 👉 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)<!-- MEMES:END -->
 
 ---
 
