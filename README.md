@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
- - ⏩ [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 💣 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - ⏩ [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
  - 👉 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)<!-- MEMES:END -->
 
 ---
