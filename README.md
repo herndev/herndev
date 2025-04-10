@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Moreno Valley, California](https://www.cnet.com/home/internet/best-internet-providers-in-moreno-valley-ca/#ftag=CAD590a51e)
- - [President Trump directs the DOJ to investigate former CISA director Chris Krebs, who was fired after he contradicted Trump&#39;s baseless 2020 election fraud claims &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250409/p50#a250409p50)
- - [27 Best Travel Tech Gifts in 2025: Must-Have Gadgets to Bring on Their Next Trip](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alti Play Desk Mat review: A high quality workspace enhancer](https://appleinsider.com/articles/25/04/10/alti-play-desk-mat-review-a-high-quality-workspace-enhancer?utm_medium=rss)
+ - [The US Senate confirms former SEC Commissioner Paul Atkins as SEC chair, succeeding Gary Gensler; Atkins is widely expected to support crypto-friendly policies &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250409/p53#a250409p53)
+ - [OpenAI countersues Elon Musk, claiming harassment and asking a federal judge to stop Musk from any further attacks in a case over OpenAI&#39;s future structure &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250409/p52#a250409p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
