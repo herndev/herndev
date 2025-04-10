@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good news, gamers: The Nintendo Switch 2 may have just caught a break in the US](https://www.androidauthority.com/nintendo-switch-2-us-availability-tariffs-3543305/)
- - [xAI launches an API for Grok 3 and Grok 3 mini with &quot;reasoning&quot; capabilities; Grok 3 costs $3/$15 per million input/output tokens, Grok 3 mini costs $0.30/$0.50 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250410/p2#a250410p2)
- - [A look at Isomorphic Labs, a life sciences startup spun out of Google DeepMind aiming to &quot;solve all disease&quot; through AI-powered drug discovery &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250410/p1#a250410p1)<!-- TECH:END -->
+ - [SILQ, a new B2B e-commerce firm formed by the merger of Bangladesh-based ShopUp and Saudi Arabia-based Sary, raised $110M co-led by Sanabil and Valar Ventures &lpar;Bloomberg&rpar;](http://www.techmeme.com/250410/p3#a250410p3)
+ - [The Pixel 9a is finally available in the US, but not all colors are equal](https://www.androidauthority.com/google-pixel-9a-us-availability-3543333/)
+ - [Good news, gamers: The Nintendo Switch 2 may have just caught a break in the US](https://www.androidauthority.com/nintendo-switch-2-us-availability-tariffs-3543305/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
