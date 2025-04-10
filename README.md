@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
- - ⏩ [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - 👉 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)<!-- MEMES:END -->
+ - 💣 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
+ - ⏩ [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
+ - 👉 [Hey mister](http://9gag.com/gag/a7oV1Dz)<!-- MEMES:END -->
 
 ---
 
