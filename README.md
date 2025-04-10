@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Weather is my favorite weather app; there’s just one problem with it](https://www.androidauthority.com/pixel-weather-favorite-weather-app-one-problem-3541747/)
- - [This Android flagship chip now supports Bluetooth over 15kms](https://www.androidauthority.com/mediatek-dimensity-9400-plus-3543343/)
- - [A deep dive on what Trump&#39;s Liberation Day tariffs mean for AI infrastructure: how the tariffs work, the USMCA&#39;s GPU loophole, GPU/XPU global trade, and more &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250410/p20#a250410p20)<!-- TECH:END -->
+ - [Judge berates AI entrepreneur for using a generated ‘lawyer’ in court](https://www.theverge.com/news/646372/ai-lawyer-artificial-avatar-new-york-court-case-video)
+ - [In his annual shareholder letter, Amazon CEO Andy Jassy says the company has to operate like the &quot;world&#39;s largest startup&quot; to stay competitive in AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250410/p22#a250410p22)
+ - [China will show fewer US films in response to tariffs](https://www.theverge.com/news/646362/china-reduces-us-film-imports-trump-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
