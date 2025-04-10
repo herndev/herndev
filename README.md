@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Play: Supercharge the Action in EA Sports NHL 25 &amp; College Football 25](https://news.xbox.com/en-us/2025/04/10/ea-play-april-nhl-25-college-football-25/)
- - [Amazon&#39;s Tomb Raider Series Could Be Dead](https://kotaku.com/amazon-tomb-raider-phoebe-waller-bridge-sophie-turner-1851775643)
- - [&#39;Why just shoot your enemies when you can tear down the world around them?&#39; Battle an endless cycle of evil machines in this FPS that features &#39;total environmental destruction&#39;](https://www.pcgamer.com/games/fps/battle-an-endless-cycle-of-evil-machines-in-this-roguelite-fps-with-infinite-weapon-customization-and-total-environmental-destruction/)<!-- GAME:END -->
+ - [Amazon&#39;s Tomb Raider series reportedly &#39;dead&#39; after tens of millions in development costs resulted in no script](https://www.pcgamer.com/movies-tv/amazons-tomb-raider-series-reportedly-dead-after-tens-of-millions-in-development-costs-resulted-in-no-script/)
+ - [There’s an official music video for A Minecraft Movie’s lava chicken song, and we’re taking it far too seriously](https://www.polygon.com/movies/556789/a-minecraft-movie-steves-lava-chicken-jack-black-video)
+ - [How to reach Room 46 in Blue Prince](https://www.polygon.com/blue-prince-guides/550468/room-46-how-to-reach-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
