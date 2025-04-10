@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Watch 3 now costs 50% more in the US, and you can probably guess why](https://www.androidauthority.com/oneplus-watch-3-us-price-increase-3543595/)
- - [OpenAI gets ready to launch GPT-4.1](https://www.theverge.com/news/646458/openai-gpt-4-1-ai-model)
- - [Meta says LLMs have historically leaned left and wants to remove that bias with Llama 4 to &quot;understand and articulate both sides of a contentious issue&quot; &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250410/p30#a250410p30)<!-- TECH:END -->
+ - [The tariff apocalypse has not been canceled](https://www.theverge.com/politics/646604/trump-tariffs-reciprocal-pause-canada-mexico-china-de-minimis)
+ - [The OnePlus Watch 3 launches in the US after it was pulled to fix the &quot;Meda in China&quot; typo, but for $500, up from $330 OnePlus had previously announced &lpar;Matt Horne/Android Authority&rpar;](http://www.techmeme.com/250410/p34#a250410p34)
+ - [Inside Apple Via del Corso -- Rome&#39;s store that&#39;s also a museum](https://appleinsider.com/articles/25/04/10/inside-apple-via-del-corso----romes-store-thats-also-a-museum?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
