@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Where and when to watch the Triple-i Initiative showcase](https://www.pcgamer.com/gaming-industry/events-conferences/triple-i-initiative-april-2025/)
  - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for April: Hogwarts Legacy, Blue Prince, the second episode of Lost Records: Bloom &amp; Rage and more](https://blog.playstation.com/2025/04/09/20250410-psplus/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for April: Hogwarts Legacy, Blue Prince, the second episode of Lost Records: Bloom &amp; Rage and more](https://blog.playstation.com/2025/04/09/20250410-psplus/)
- - [Creative Assembly is testing a second round of AI improvements for Total War: Warhammer 3: &#39;We heard you loud and clear&#39;](https://www.pcgamer.com/games/strategy/creative-assembly-is-testing-a-second-round-of-ai-improvements-for-total-war-warhammer-3-we-heard-you-loud-and-clear/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for April: Hogwarts Legacy, Blue Prince, the second episode of Lost Records: Bloom &amp; Rage and more](https://blog.playstation.com/2025/04/09/20250410-psplus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
