@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Blizzard president says &#39;I&#39;m not sure where Diablo is going&#39; after Diablo 4 roadmap disappoints: &#39;Don&#39;t ship to check a box&#39;](https://www.pcgamer.com/games/rpg/former-blizzard-president-says-im-not-sure-where-diablo-is-going-after-diablo-4-roadmap-disappoints-dont-ship-to-check-a-box/)
- - [REPO: how many players can join](https://www.pcgamer.com/games/horror/repo-how-many-players/)
- - [AMD muddies the laptop CPU waters again with a Zen 4 refresh. So, where are our actual next-gen Zen 5 chips?](https://www.pcgamer.com/hardware/gaming-laptops/amd-muddies-the-laptop-cpu-waters-again-with-a-zen-4-refresh-so-where-are-our-actual-next-gen-zen-5-chips/)<!-- GAME:END -->
+ - [Marvel Rivals is launching an &#39;experimental feature&#39; to help players deal with the game&#39;s awful performance and insatiable appetite for RAM](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-launching-an-experimental-feature-to-help-players-deal-with-the-games-awful-performance-and-insatiable-appetite-for-ram/)
+ - [How to complete the Blooming and Blossoming quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-blooming-and-blossoming-quest/)
+ - [Still Wakes the Deep provided the best performance in a videogame in 2024, so I&#39;m happy that it&#39;s finally been shown some love at the Bafta Game Awards](https://www.pcgamer.com/gaming-industry/still-wakes-the-deep-provided-the-best-performance-in-a-videogame-in-2024-so-im-happy-that-its-finally-been-shown-some-love-at-the-bafta-game-awards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
