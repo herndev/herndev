@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
- - ⏩ [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 👉 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)<!-- MEMES:END -->
+ - 💣 [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - ⏩ [Imagine a president tweeting, \u2018This is the right time to buy,\u2019 then pausing the tariffs, and later happily saying how his friends made $2.5 billion and $900 million. How are Americans fine with this?](http://9gag.com/gag/agm8Qrw)
+ - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
 
 ---
 
