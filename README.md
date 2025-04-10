@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm](http://9gag.com/gag/aKGWdQb)
- - ⏩ [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 👉 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)<!-- MEMES:END -->
+ - 💣 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - ⏩ [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
+ - 👉 [War is coming boys!](http://9gag.com/gag/aRBz0bG)<!-- MEMES:END -->
 
 ---
 
