@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s Trade War Is Strengthening China’s Soft Power](https://www.wired.com/story/china-tariffs-response-trump-retaliation/)
- - [Google’s April Pixel updates are here, including for the brand-new Pixel 9a](https://www.androidauthority.com/april-2025-pixel-updates-3543728/)
- - [Deal: Buy an Amazon Echo Pop and get a smart light for under a buck](https://www.androidauthority.com/amazon-echo-pop-smart-light-deal-3543712/)<!-- TECH:END -->
+ - [Razer launches Razer PC Remote Play, which streams PC games to mobile devices running Windows, iOS, iPadOS, or Android at their native resolutions &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250410/p47#a250410p47)
+ - [Apple MacBook Air M2 running out of stock, save $300 while you can!](https://www.androidauthority.com/apple-macbook-air-m2-deal-14-3543711/)
+ - [You can now claim two free mobile game drops from Epic’s store](https://www.androidauthority.com/epic-free-mobile-games-bridge-constructor-3543751/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
