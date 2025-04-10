@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon&#39;s Tomb Raider series reportedly &#39;dead&#39; after tens of millions in development costs resulted in no script](https://www.pcgamer.com/movies-tv/amazons-tomb-raider-series-reportedly-dead-after-tens-of-millions-in-development-costs-resulted-in-no-script/)
- - [There’s an official music video for A Minecraft Movie’s lava chicken song, and we’re taking it far too seriously](https://www.polygon.com/movies/556789/a-minecraft-movie-steves-lava-chicken-jack-black-video)
- - [How to reach Room 46 in Blue Prince](https://www.polygon.com/blue-prince-guides/550468/room-46-how-to-reach-walkthrough)<!-- GAME:END -->
+ - [James Cameron Thinks AI Could Be Necessary To Keep Making Movies Like Dune](https://kotaku.com/james-cameron-ai-terminator-dune-avatar-1851775691)
+ - [An old foe returns with The Elder Scrolls Online’s new 2025 adventure](https://blog.playstation.com/2025/04/10/an-old-foe-returns-with-the-elder-scrolls-onlines-new-2025-adventure/)
+ - [The Elder Scrolls Online is getting subclassing—which&#39;ll expand its roster of classes to &#39;over 3,000&#39; combinations of mix-and-matched skill lines](https://www.pcgamer.com/games/mmo/the-elder-scrolls-online-is-getting-subclassing-whichll-expand-its-roster-of-classes-to-over-3-000-combinations-of-mix-and-matched-skill-lines/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
