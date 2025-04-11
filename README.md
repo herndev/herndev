@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South of Midnight is a game worth hollerin’ about](https://www.theverge.com/games-review/647143/south-of-midnight-review-xbox-compulsion-games)
- - [The Social Security Administration Is Gutting Regional Staff and Shifting All Public Communications to X](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/)
- - [China exempts products from AMD, Nvidia, Intel, Qualcomm, and others that are made by Taiwanese companies like TSMC from the 125% tariff on US products &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250411/p17#a250411p17)<!-- TECH:END -->
+ - [How Google flattened out the Pixel 9a’s camera: from bar, to bump, to ‘dome’](https://www.androidauthority.com/pixel-9a-camera-dome-3544072/)
+ - [You can save up to $1,800 on Samsung’s last-gen Frame TV](https://www.theverge.com/tech/647229/samsung-frame-tv-light-phone-3-preorder-deal-sale)
+ - [Steve Jobs didn&#39;t tolerate yes-men, understood his influence at Pixar](https://appleinsider.com/articles/25/04/11/steve-jobs-didnt-tolerate-yes-men-understood-his-influence-at-pixar?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
