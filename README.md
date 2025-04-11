@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet girl](http://9gag.com/gag/ayNWNRq)
+ - 💣 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
  - ⏩ [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
- - 👉 [\u201cArtax! Don\u2019t let the sadness of the swamp get to you!\u201d](http://9gag.com/gag/apRP6K9)<!-- MEMES:END -->
+ - 👉 [Nightmares](http://9gag.com/gag/a0e6X7q)<!-- MEMES:END -->
 
 ---
 
