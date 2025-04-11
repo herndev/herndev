@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro 2: What the rumor mill sees coming, and when it might arrive](https://appleinsider.com/articles/25/04/11/apple-vision-pro-2-what-the-rumor-mill-sees-coming-and-when-it-might-arrie?utm_medium=rss)
- - [Chrome for Android just got a slick new visual upgrade](https://www.androidauthority.com/chrome-android-edge-to-edge-2-3544034/)
- - [Apple hampered its Siri ambitions by penny-pinching](https://appleinsider.com/articles/25/04/11/apple-hampered-its-siri-ambitions-by-penny-pinching?utm_medium=rss)<!-- TECH:END -->
+ - [Proton Mail is finally getting this highly requested feature](https://www.androidauthority.com/proton-mail-new-android-app-3543986/)
+ - [Buckle up for more subscriptions](https://www.theverge.com/news/647055/garmin-polar-subscriptions-tariffs)
+ - [SmartScout: China-based electronics accessories maker Anker has raised prices by ~18% on a fifth of its products on Amazon, as US starts applying new tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p16#a250411p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
