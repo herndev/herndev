@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)
- - ⏩ [I love lamp ...](http://9gag.com/gag/aVvmved)
- - 👉 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)<!-- MEMES:END -->
+ - 💣 [Ohhhh the Turmanity](http://9gag.com/gag/a87DmX3)
+ - ⏩ [She delivers daily savage beatdowns](http://9gag.com/gag/a5QGwrG)
+ - 👉 [Buster Keaton crazy stunt 1924](http://9gag.com/gag/ayNW4qq)<!-- MEMES:END -->
 
 ---
 
