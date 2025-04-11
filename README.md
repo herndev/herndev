@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Developer of &#39;non-consensual sex&#39; game removes it from Steam entirely after it&#39;s banned in the UK, Canada, and Australia: &#39;We don&#39;t intend to fight the whole world&#39;](https://www.pcgamer.com/games/developer-of-non-consensual-sex-game-removes-it-from-steam-entirely-after-its-banned-in-the-uk-canada-and-australia-we-dont-intend-to-fight-the-whole-world/)
+ - [Developer of &#39;non-consensual sex&#39; game withdraws it from Steam after it&#39;s banned in the UK, Canada, and Australia: &#39;We don&#39;t intend to fight the whole world&#39;](https://www.pcgamer.com/games/developer-of-non-consensual-sex-game-removes-it-from-steam-entirely-after-its-banned-in-the-uk-canada-and-australia-we-dont-intend-to-fight-the-whole-world/)
  - [Roving gangs of Sabrina Carpenters are in Fortnite now](https://www.polygon.com/news/557106/fortnite-sabrina-carpenter-skin-gangs)
  - [Lost Ember studio reveals its next game, and dang, it&#39;s got some really good snow](https://www.pcgamer.com/games/adventure/lost-ember-studio-reveals-its-next-game-and-dang-its-got-some-really-good-snow/)<!-- GAME:END -->
 
