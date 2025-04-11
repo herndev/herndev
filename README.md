@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)
- - ⏩ [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
- - 👉 [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)<!-- MEMES:END -->
+ - 💣 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
+ - ⏩ [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
+ - 👉 [So much winning for oligarchs and friends](http://9gag.com/gag/amom12y)<!-- MEMES:END -->
 
 ---
 
