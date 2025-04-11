@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DOJ charges AI shopping app Nate&#39;s ex-CEO Albert Saniger with fraud, alleging the app relies heavily on human workers in the Philippines; Nate raised $50M+ &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250410/p50#a250410p50)
  - [Oppo launches the Find X8 Ultra in China, with a 6.82&quot; OLED display, Snapdragon 8 Elite chip, 6,100mAh battery, and a quad 50MP camera setup, starting at ~$890 &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250410/p49#a250410p49)
- - [Trump signs measure repealing IRS rules that treat DeFi platforms as brokers and require them to report user data, the first pro-crypto effort to clear Congress &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250410/p48#a250410p48)
- - [Twopan Portable SSD review: Compact but expensive iPhone storage](https://appleinsider.com/articles/25/04/11/twopan-portable-ssd-review-compact-but-expensive-iphone-storage?utm_medium=rss)<!-- TECH:END -->
+ - [Trump signs measure repealing IRS rules that treat DeFi platforms as brokers and require them to report user data, the first pro-crypto effort to clear Congress &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250410/p48#a250410p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
