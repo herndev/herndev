@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)
- - ⏩ [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
+ - 💣 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)
+ - ⏩ [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)
  - 👉 [Legal activities](http://9gag.com/gag/aXP4oQV)<!-- MEMES:END -->
 
 ---
