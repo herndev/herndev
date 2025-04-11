@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to activate the Boiler Room in Blue Prince](https://www.polygon.com/blue-prince-guides/557382/boiler-room-how-to-activate-use)
- - [The modder who fixed Elden Ring’s terrible co-op is back to fix the game that started it all](https://www.polygon.com/news/557559/dark-souls-remastered-seamless-co-op-mod)
- - [Blue Prince tips: 10 useful tricks for mastering the mysterious mansion](https://www.pcgamer.com/games/puzzle/blue-prince-tips/)<!-- GAME:END -->
+ - [1000X Resist, Dredge, and more headline Humble Choice for April](https://www.polygon.com/good-deals/554012/humble-choice-april-free-games-1000x-resist-dredge-tomb-raider)
+ - [Andor Creator Says A Star Wars Horror Project Could Be On The Way](https://kotaku.com/star-wars-horror-andor-season-2-1851775862)
+ - [Switch 2 will end two decades of Nintendo’s awkward voice chat attempts](https://www.polygon.com/nintendo-switch-2/557758/gamechat-voice-chat-history-wii-speak)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
