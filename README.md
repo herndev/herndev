@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Like Quick Tap? Google could make your entire Pixel touch-sensitive.](https://www.androidauthority.com/google-pixel-touch-sensitive-patent-3543862/)
- - [China calls US a &amp;#8216;joke&amp;#8217; as it raises tariff for final time](https://www.theverge.com/news/646949/china-tariff-increase-trump-retaliation-us-joke)
- - [American small-business owners who source goods from overseas, especially from China, and sell them online, face acute uncertainty about the tariffs&#39; impact &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250411/p5#a250411p5)<!-- TECH:END -->
+ - [Madrid-based Jobandtalent, which connects gig workers with companies, raised a $103M Series F at a $1.5B valuation, down from its $500M Series E at $2.35B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250411/p7#a250411p7)
+ - [ChatGPT will now remember your old conversations](https://www.theverge.com/news/646968/openai-chatgpt-long-term-memory-upgrade)
+ - [Razer made a Steam Link alternative, and it plays way more than Steam games](https://www.androidauthority.com/razer-pc-remote-play-launch-3543888/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
