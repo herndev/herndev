@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What would you do ?](http://9gag.com/gag/a9y8qDL)
- - ⏩ [And then Inflation happened](http://9gag.com/gag/a34yAb8)
- - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
+ - 💣 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)
+ - ⏩ [I love lamp ...](http://9gag.com/gag/aVvmved)
+ - 👉 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)<!-- MEMES:END -->
 
 ---
 
