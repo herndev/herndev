@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; The Last of Us Complete hits PS5 today](https://blog.playstation.com/2025/04/11/20250411-tlou/)
  - [How to complete the Cerebro Database event in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-cerebro-database-event/)
- - [Today&#39;s Wordle answer for Friday, April 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-11-2025/)
- - [Schedule 1 player follows NPCs around for a week to reveal their surprisingly thoughtful, dynamic lives](https://www.pcgamer.com/games/sim/schedule-1-player-follows-npcs-around-for-a-week-to-reveal-their-surprisingly-thoughtful-dynamic-lives/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, April 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-11-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
