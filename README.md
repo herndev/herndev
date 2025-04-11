@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/ayNW3bV)
- - ⏩ [You are a battery](http://9gag.com/gag/aKGWG3O)
- - 👉 [Men hungry, men like food, men like women make food. Men simple.](http://9gag.com/gag/a9y8yED)<!-- MEMES:END -->
+ - 💣 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
+ - ⏩ [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - 👉 [Flat is Justice](http://9gag.com/gag/aNDVPN6)<!-- MEMES:END -->
 
 ---
 
