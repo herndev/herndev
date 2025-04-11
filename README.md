@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She feeling proud or not?](http://9gag.com/gag/agm8QXq)
- - ⏩ [Name the game and `that part`](http://9gag.com/gag/aLnGp6z)
- - 👉 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)<!-- MEMES:END -->
+ - 💣 [Hey, are you alright](http://9gag.com/gag/adBnvmD)
+ - ⏩ [Another one from my meme archives to cleanse your feed](http://9gag.com/gag/a7oVOWe)
+ - 👉 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)<!-- MEMES:END -->
 
 ---
 
