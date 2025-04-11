@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And then Inflation happened](http://9gag.com/gag/a34yAb8)
- - ⏩ [She feeling proud or not?](http://9gag.com/gag/agm8QXq)
- - 👉 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)<!-- MEMES:END -->
+ - 💣 [Black history](http://9gag.com/gag/amomGGv)
+ - ⏩ [Well, f**k my Life bois. Apparently I have a tumour near my spine. Already contacted hospital for operation so f**k you and I&#39;ll see you idk](http://9gag.com/gag/aAy4yLL)
+ - 👉 [Buster Keaton crazy stunt 1924](http://9gag.com/gag/ayNW4qq)<!-- MEMES:END -->
 
 ---
 
