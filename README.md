@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report estimates AI energy demands will quadruple in the next few years, with some large planned centres estimated to use the equivalent power of 5,000,000 households](https://www.pcgamer.com/software/ai/report-estimates-ai-energy-demands-will-quadruple-in-the-next-few-years-with-some-large-planned-centres-estimated-to-use-the-equivalent-power-of-5-000-000-households/)
- - [Marvel Rivals has aced Season 2 by giving Emma Frost the ability to choke slam other heroes out of their ultimate abilities](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-has-aced-season-2-by-giving-emma-frost-the-ability-to-choke-slam-other-heroes-out-of-their-ultimate-abilities/)
- - [Reddit has reached a Silksong level of madness over the rumoured Oblivion remake in a fraction of the time](https://www.pcgamer.com/games/the-elder-scrolls/reddit-has-reached-a-silksong-level-of-madness-over-the-rumoured-oblivion-remake-in-a-fraction-of-the-time/)<!-- GAME:END -->
+ - [LEGO Horizon Adventures soundtrack launches on streaming platforms today](https://blog.playstation.com/2025/04/11/lego-horizon-adventures-soundtrack-launches-on-streaming-platforms-today/)
+ - [10 Indie Games Coming to Xbox, and 10 Things You Should Know About Them](https://news.xbox.com/en-us/2025/04/11/id-xbox-developer-sessions-10-indies/)
+ - [Return to Tarkir: The art and craft of the Magic callback set](https://www.polygon.com/mtg-magic-the-gathering/556404/tarkir-dragonstorm-callback-set-rosewater-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
