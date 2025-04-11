@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do ya know](http://9gag.com/gag/aLnGp26)
- - ⏩ [Why the tape?](http://9gag.com/gag/axyb3vn)
- - 👉 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)<!-- MEMES:END -->
+ - 💣 [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - ⏩ [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
+ - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
 
 ---
 
