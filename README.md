@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Marvel Rivals maps and modes in season 2](https://www.polygon.com/marvel-rivals-guide/491015/maps-modes-list-all-quick-play-competitive)
- - [Baldur’s Gate 3’s final major patch goes live April 15](https://www.polygon.com/news/557632/baldurs-gate-3-patch-8-larian-studios-release-date-april-15)
- - [PC Players Spend More On Microtransactions Than Actual Games](https://kotaku.com/pc-gaming-microtransactions-elden-ring-borderlands-4-1851775837)<!-- GAME:END -->
+ - [How to activate the Boiler Room in Blue Prince](https://www.polygon.com/blue-prince-guides/557382/boiler-room-how-to-activate-use)
+ - [The modder who fixed Elden Ring’s terrible co-op is back to fix the game that started it all](https://www.polygon.com/news/557559/dark-souls-remastered-seamless-co-op-mod)
+ - [Blue Prince tips: 10 useful tricks for mastering the mysterious mansion](https://www.pcgamer.com/games/puzzle/blue-prince-tips/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
