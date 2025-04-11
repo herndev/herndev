@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All characters in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/508732/characters-all-roster-full-list)
- - [What is an Ultra Wormhole in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/557220/ultra-wormhole-ultra-beast-list)
- - [Switch 3 rumors are starting up, and I’m already tired](https://www.polygon.com/nintendo-switch-2/557405/switch-2-3-rumors-intel-18a-nintendo)<!-- GAME:END -->
+ - [All Marvel Rivals maps and modes in season 2](https://www.polygon.com/marvel-rivals-guide/491015/maps-modes-list-all-quick-play-competitive)
+ - [Baldur’s Gate 3’s final major patch goes live April 15](https://www.polygon.com/news/557632/baldurs-gate-3-patch-8-larian-studios-release-date-april-15)
+ - [PC Players Spend More On Microtransactions Than Actual Games](https://kotaku.com/pc-gaming-microtransactions-elden-ring-borderlands-4-1851775837)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
