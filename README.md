@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Book Boyfriends’ and ‘Shadow Daddies’: the men cashing in on romantasy](https://www.theverge.com/books/642259/booktok-romantasy-men)
- - [Best Dog Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dog-accessories/)
- - [OnePlus 13 gets customizable battery charging limit with Android 16 update](https://www.androidauthority.com/oneplus-13-customizable-battery-charging-limit-android-16-3543980/)<!-- TECH:END -->
+ - [The Verge is nominated for two Webby Awards — help us win them!](https://www.theverge.com/video/646816/webby-nominations-2025-vergecast-video)
+ - [The moms are thrifting on Instagram](https://www.theverge.com/creators/647027/instagram-resellers-thrifting-sale-shop-preowned-clothing)
+ - [Did Spotify finally fix its endlessly broken shuffle?](https://www.androidauthority.com/spotify-broken-shuffle-possibly-fixed-3544017/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
