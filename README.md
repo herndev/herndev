@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What would you do ?](http://9gag.com/gag/a9y8qDL)
- - ⏩ [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
- - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
+ - 💣 [This would be a sign the world is healing](http://9gag.com/gag/awyLy7Q)
+ - ⏩ [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - 👉 [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)<!-- MEMES:END -->
 
 ---
 
