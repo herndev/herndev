@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What would you do ?](http://9gag.com/gag/a9y8qDL)
- - ⏩ [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)
- - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
+ - 💣 [Who invented this?](http://9gag.com/gag/a87DqAZ)
+ - ⏩ [And then Inflation happened](http://9gag.com/gag/a34yAb8)
+ - 👉 [What would you do ?](http://9gag.com/gag/a9y8qDL)<!-- MEMES:END -->
 
 ---
 
