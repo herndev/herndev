@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Windows 95 start-up sound and the Minecraft soundtrack have been added to the US Library of Congress list of nationally significant recordings](https://www.pcgamer.com/software/operating-systems/the-windows-95-start-up-sound-and-the-minecraft-soundtrack-have-been-added-to-the-us-library-of-congress-list-of-nationally-significant-recordings/)
- - [&lpar;For Southeast Asia&rpar; The Last of Us Complete hits PS5 today](https://blog.playstation.com/2025/04/11/20250411-tlou/)
- - [&lpar;For Southeast Asia&rpar; The Last of Us Complete hits PS5 today](https://blog.playstation.com/2025/04/11/20250411-tlou/)<!-- GAME:END -->
+ - [Report estimates AI energy demands will quadruple in the next few years, with some large planned centres estimated to use the equivalent power of 5,000,000 households](https://www.pcgamer.com/software/ai/report-estimates-ai-energy-demands-will-quadruple-in-the-next-few-years-with-some-large-planned-centres-estimated-to-use-the-equivalent-power-of-5-000-000-households/)
+ - [Marvel Rivals has aced Season 2 by giving Emma Frost the ability to choke slam other heroes out of their ultimate abilities](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-has-aced-season-2-by-giving-emma-frost-the-ability-to-choke-slam-other-heroes-out-of-their-ultimate-abilities/)
+ - [Reddit has reached a Silksong level of madness over the rumoured Oblivion remake in a fraction of the time](https://www.pcgamer.com/games/the-elder-scrolls/reddit-has-reached-a-silksong-level-of-madness-over-the-rumoured-oblivion-remake-in-a-fraction-of-the-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
