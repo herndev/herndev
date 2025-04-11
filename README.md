@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini’s secret ‘Circle Screen’ feature spotted in Google promo video](https://www.androidauthority.com/gemini-circle-screen-feature-leak-3543856/)
- - [The UK’s Top 6 Mattresses in a Box to Improve Your Sleep in 2025](https://www.wired.com/gallery/the-best-mattresses-to-improve-your-sleep-in-2025/)
- - [EC president von der Leyen: the EU may tax Big Tech ad revenue, targeting Meta and Google, if Trump trade talks fail and won&#39;t revisit its &quot;untouchable&quot; rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p4#a250411p4)<!-- TECH:END -->
+ - [Like Quick Tap? Google could make your entire Pixel touch-sensitive.](https://www.androidauthority.com/google-pixel-touch-sensitive-patent-3543862/)
+ - [China calls US a &amp;#8216;joke&amp;#8217; as it raises tariff for final time](https://www.theverge.com/news/646949/china-tariff-increase-trump-retaliation-us-joke)
+ - [American small-business owners who source goods from overseas, especially from China, and sell them online, face acute uncertainty about the tariffs&#39; impact &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250411/p5#a250411p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
