@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Amazon Echo smart speaker is 35% off! &lpar;Glacier White or Twilight Blue&rpar;](https://www.androidauthority.com/amazon-echo-4th-generation-deal-3544094/)
- - [Blue Water Autonomy, which says it is building a 100-ton autonomous naval ship, emerges from stealth with a $14M seed from Eclipse VC, Riot, and Impatient &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/250411/p22#a250411p22)
- - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
+ - [Shopify Workers Are Expected to Use Gen AI at Work. Is Your Job Next?](https://www.cnet.com/tech/services-and-software/shopify-workers-are-expected-to-use-gen-ai-at-work-is-your-job-next/#ftag=CAD590a51e)
+ - [Palantir Is Helping DOGE With a Massive IRS Data Project](https://www.wired.com/story/palantir-doge-irs-mega-api-data/)
+ - [Sources: Ilya Sutskever&#39;s Safe Superintelligence raised $2B led by Greenoaks at a $32B valuation; SSI last raised $1B at a $5B valuation in September 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p24#a250411p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
