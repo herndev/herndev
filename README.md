@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is about to launch Recall for real this time](https://www.theverge.com/news/646911/microsoft-recall-windows-insiders-preview)
  - [Razer launches Razer PC Remote Play, which streams PC games to mobile devices running Windows, iOS, iPadOS, or Android at their native resolutions &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250410/p47#a250410p47)
- - [Apple MacBook Air M2 running out of stock, save $300 while you can!](https://www.androidauthority.com/apple-macbook-air-m2-deal-14-3543711/)
- - [You can now claim two free mobile game drops from Epic’s store](https://www.androidauthority.com/epic-free-mobile-games-bridge-constructor-3543751/)<!-- TECH:END -->
+ - [Apple MacBook Air M2 running out of stock, save $300 while you can!](https://www.androidauthority.com/apple-macbook-air-m2-deal-14-3543711/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
