@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopify Workers Are Expected to Use Gen AI at Work. Is Your Job Next?](https://www.cnet.com/tech/services-and-software/shopify-workers-are-expected-to-use-gen-ai-at-work-is-your-job-next/#ftag=CAD590a51e)
- - [Palantir Is Helping DOGE With a Massive IRS Data Project](https://www.wired.com/story/palantir-doge-irs-mega-api-data/)
- - [Sources: Ilya Sutskever&#39;s Safe Superintelligence raised $2B led by Greenoaks at a $32B valuation; SSI last raised $1B at a $5B valuation in September 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p24#a250411p24)<!-- TECH:END -->
+ - [Revolut plans to add UK stocks to its trading platform as some investors look to diversify away from US equities, and says it has over 800K UK trading customers &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250411/p25#a250411p25)
+ - [Tax Day is almost here: Get Turbotax on sale now!](https://www.androidauthority.com/intuit-turbotax-deals-3544093/)
+ - [Katy Perry Blasts to Space With Blue Origin Monday: How to Watch](https://www.cnet.com/science/space/katy-perry-blasts-to-space-with-blue-origin-monday-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
