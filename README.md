@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge is nominated for two Webby Awards — help us win them!](https://www.theverge.com/video/646816/webby-nominations-2025-vergecast-video)
- - [The moms are thrifting on Instagram](https://www.theverge.com/creators/647027/instagram-resellers-thrifting-sale-shop-preowned-clothing)
- - [Did Spotify finally fix its endlessly broken shuffle?](https://www.androidauthority.com/spotify-broken-shuffle-possibly-fixed-3544017/)<!-- TECH:END -->
+ - [Apple Vision Pro 2: What the rumor mill sees coming, and when it might arrive](https://appleinsider.com/articles/25/04/11/apple-vision-pro-2-what-the-rumor-mill-sees-coming-and-when-it-might-arrie?utm_medium=rss)
+ - [Chrome for Android just got a slick new visual upgrade](https://www.androidauthority.com/chrome-android-edge-to-edge-2-3544034/)
+ - [Apple hampered its Siri ambitions by penny-pinching](https://appleinsider.com/articles/25/04/11/apple-hampered-its-siri-ambitions-by-penny-pinching?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
