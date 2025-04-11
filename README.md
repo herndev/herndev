@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to complete the Cerebro Database event in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-cerebro-database-event/)
  - [Today&#39;s Wordle answer for Friday, April 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-11-2025/)
- - [Schedule 1 player follows NPCs around for a week to reveal their surprisingly thoughtful, dynamic lives](https://www.pcgamer.com/games/sim/schedule-1-player-follows-npcs-around-for-a-week-to-reveal-their-surprisingly-thoughtful-dynamic-lives/)
- - [Developer of &#39;non-consensual sex&#39; game withdraws it from Steam after it&#39;s banned in the UK, Canada, and Australia: &#39;We don&#39;t intend to fight the whole world&#39;](https://www.pcgamer.com/games/developer-of-non-consensual-sex-game-removes-it-from-steam-entirely-after-its-banned-in-the-uk-canada-and-australia-we-dont-intend-to-fight-the-whole-world/)<!-- GAME:END -->
+ - [Schedule 1 player follows NPCs around for a week to reveal their surprisingly thoughtful, dynamic lives](https://www.pcgamer.com/games/sim/schedule-1-player-follows-npcs-around-for-a-week-to-reveal-their-surprisingly-thoughtful-dynamic-lives/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
