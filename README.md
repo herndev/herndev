@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s transformative patch 8, with 12 new subclasses and photo mode, will finally launch next week](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3s-transformative-patch-8-with-12-new-subclasses-and-photo-mode-will-finally-launch-next-week/)
- - [My favorite thing about Blue Prince&#39;s intricate puzzles is that they&#39;re optional—you don&#39;t have to solve most of them to finish the game](https://www.pcgamer.com/games/puzzle/my-favorite-thing-about-blue-princes-intricate-puzzles-is-that-theyre-optional-you-dont-have-to-solve-most-of-them-to-finish-the-game/)
- - [Exquisite Corpses’ assassin TCG aims for the sweet spot between Magic: The Gathering and Ultimate Werewolf](https://www.polygon.com/tabletop-games/556417/exquisite-corpses-comic-card-variant-covers-james-tynion)<!-- GAME:END -->
+ - [All characters in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/508732/characters-all-roster-full-list)
+ - [What is an Ultra Wormhole in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/557220/ultra-wormhole-ultra-beast-list)
+ - [Switch 3 rumors are starting up, and I’m already tired](https://www.polygon.com/nintendo-switch-2/557405/switch-2-3-rumors-intel-18a-nintendo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
