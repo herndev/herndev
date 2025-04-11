@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini’s secret ‘Circle Screen’ feature spotted in Google promo video](https://www.androidauthority.com/gemini-circle-screen-feature-leak-3543856/)
  - [The UK’s Top 6 Mattresses in a Box to Improve Your Sleep in 2025](https://www.wired.com/gallery/the-best-mattresses-to-improve-your-sleep-in-2025/)
- - [EC president von der Leyen: the EU may tax Big Tech ad revenue, targeting Meta and Google, if Trump trade talks fail and won&#39;t revisit its &quot;untouchable&quot; rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p4#a250411p4)
- - [YouTube is working on a new feature to save you from doomscrolling Shorts &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-shorts-daily-timer-3543839/)<!-- TECH:END -->
+ - [EC president von der Leyen: the EU may tax Big Tech ad revenue, targeting Meta and Google, if Trump trade talks fail and won&#39;t revisit its &quot;untouchable&quot; rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p4#a250411p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
