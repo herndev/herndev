@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Famous Physics Experiment Shows Why the Government Should Support ‘Useless’ Science](https://www.wired.com/story/why-the-government-should-support-useless-science/)
- - [Doctor Who’s new companion is going to keep him on his toes](https://www.theverge.com/interview/644708/doctor-whos-new-companion-is-going-to-keep-him-on-his-toes)
- - [How the tech world is responding to tariff chaos](https://www.theverge.com/the-vergecast/647001/tariffs-trump-tech-prices-vergecast)<!-- TECH:END -->
+ - [‘Book Boyfriends’ and ‘Shadow Daddies’: the men cashing in on romantasy](https://www.theverge.com/books/642259/booktok-romantasy-men)
+ - [Best Dog Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dog-accessories/)
+ - [OnePlus 13 gets customizable battery charging limit with Android 16 update](https://www.androidauthority.com/oneplus-13-customizable-battery-charging-limit-android-16-3543980/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
