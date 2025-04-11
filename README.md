@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 14 to 18](https://news.xbox.com/en-us/2025/04/11/next-week-on-xbox-new-games-for-april-14-to-18/)
- - [If you’re a fan of Black Mirror’s ‘San Junipero,’ you definitely should check out season 7’s ‘Hotel Reverie’](https://www.polygon.com/tv/556460/black-mirror-san-junipero-hotel-reverie-queer-love-story)
- - [How to solve the parlor puzzle in Blue Prince](https://www.pcgamer.com/games/puzzle/blue-prince-parlor-puzzle-solution/)<!-- GAME:END -->
+ - [Assassin’s Creed Shadows: Ubisoft deep dives into PS5 Pro updates](https://blog.playstation.com/2025/04/11/assassins-creed-shadows-ubisoft-deep-dives-into-ps5-pro-updates/)
+ - [Oh My God What Is Nintendo Doing](https://kotaku.com/zelda-botw-switch-2-price-dlc-expansion-pass-cyberpunk-1851775786)
+ - [How to get into the antechamber in Blue Prince](https://www.pcgamer.com/games/puzzle/blue-prince-antechamber-unlock/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
