@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ohhhh the Turmanity](http://9gag.com/gag/a87DmX3)
- - ⏩ [She delivers daily savage beatdowns](http://9gag.com/gag/a5QGwrG)
- - 👉 [Buster Keaton crazy stunt 1924](http://9gag.com/gag/ayNW4qq)<!-- MEMES:END -->
+ - 💣 [Sweet girl](http://9gag.com/gag/ayNWNRq)
+ - ⏩ [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
+ - 👉 [\u201cArtax! Don\u2019t let the sadness of the swamp get to you!\u201d](http://9gag.com/gag/apRP6K9)<!-- MEMES:END -->
 
 ---
 
