@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Schedule 1 player follows NPCs around for a week to reveal their surprisingly thoughtful, dynamic lives](https://www.pcgamer.com/games/sim/schedule-1-player-follows-npcs-around-for-a-week-to-reveal-their-surprisingly-thoughtful-dynamic-lives/)
  - [Developer of &#39;non-consensual sex&#39; game withdraws it from Steam after it&#39;s banned in the UK, Canada, and Australia: &#39;We don&#39;t intend to fight the whole world&#39;](https://www.pcgamer.com/games/developer-of-non-consensual-sex-game-removes-it-from-steam-entirely-after-its-banned-in-the-uk-canada-and-australia-we-dont-intend-to-fight-the-whole-world/)
- - [Roving gangs of Sabrina Carpenters are in Fortnite now](https://www.polygon.com/news/557106/fortnite-sabrina-carpenter-skin-gangs)
- - [Lost Ember studio reveals its next game, and dang, it&#39;s got some really good snow](https://www.pcgamer.com/games/adventure/lost-ember-studio-reveals-its-next-game-and-dang-its-got-some-really-good-snow/)<!-- GAME:END -->
+ - [Roving gangs of Sabrina Carpenters are in Fortnite now](https://www.polygon.com/news/557106/fortnite-sabrina-carpenter-skin-gangs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
