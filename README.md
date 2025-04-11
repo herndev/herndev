@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reveals most popular Good Lock modules for customizing your Galaxy phone](https://www.androidauthority.com/samsung-most-popular-good-lock-apps-3543904/)
- - [Sources: Tim Cook approved doubling Apple&#39;s AI chips budget in 2023 after John Giannandrea sought more GPUs, but CFO Luca Maestri cut the increase to under half &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250411/p8#a250411p8)
- - [Sex-Fantasy Chatbots Are Leaking a Constant Stream of Explicit Messages](https://www.wired.com/story/sex-fantasy-chatbots-are-leaking-explicit-messages-every-minute/)<!-- TECH:END -->
+ - [WhatsApp gets a dozen new features inspired by others](https://www.theverge.com/news/646988/whatsapp-chat-video-call-online-status-update)
+ - [Indonesians can again buy the iPhone 16 as ban is finally lifted](https://appleinsider.com/articles/25/04/11/indonesians-can-again-buy-the-iphone-16-as-ban-is-finally-lifted?utm_medium=rss)
+ - [Google Pixel Watch 4 renders leak: What’s new this time?](https://www.androidauthority.com/google-pixel-watch-4-renders-3543932/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
