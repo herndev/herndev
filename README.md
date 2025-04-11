@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This would be a sign the world is healing](http://9gag.com/gag/awyLy7Q)
- - ⏩ [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - 💣 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)
+ - ⏩ [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
  - 👉 [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)<!-- MEMES:END -->
 
 ---
