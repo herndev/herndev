@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp gets a dozen new features inspired by others](https://www.theverge.com/news/646988/whatsapp-chat-video-call-online-status-update)
- - [Indonesians can again buy the iPhone 16 as ban is finally lifted](https://appleinsider.com/articles/25/04/11/indonesians-can-again-buy-the-iphone-16-as-ban-is-finally-lifted?utm_medium=rss)
- - [Google Pixel Watch 4 renders leak: What’s new this time?](https://www.androidauthority.com/google-pixel-watch-4-renders-3543932/)<!-- TECH:END -->
+ - [This Famous Physics Experiment Shows Why the Government Should Support ‘Useless’ Science](https://www.wired.com/story/why-the-government-should-support-useless-science/)
+ - [Doctor Who’s new companion is going to keep him on his toes](https://www.theverge.com/interview/644708/doctor-whos-new-companion-is-going-to-keep-him-on-his-toes)
+ - [How the tech world is responding to tariff chaos](https://www.theverge.com/the-vergecast/647001/tariffs-trump-tech-prices-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
