@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
- - ⏩ [What would you do ?](http://9gag.com/gag/a9y8qDL)
- - 👉 [Flat is Justice](http://9gag.com/gag/aNDVPN6)<!-- MEMES:END -->
+ - 💣 [`The key to a happy life is to accept that you are never actually in control`](http://9gag.com/gag/a9y813m)
+ - ⏩ [Hey mister](http://9gag.com/gag/a7oV1Dz)
+ - 👉 [For the modern audience.](http://9gag.com/gag/aKGWGN6)<!-- MEMES:END -->
 
 ---
 
