@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Black history](http://9gag.com/gag/amomGGv)
- - ⏩ [Well, f**k my Life bois. Apparently I have a tumour near my spine. Already contacted hospital for operation so f**k you and I&#39;ll see you idk](http://9gag.com/gag/aAy4yLL)
- - 👉 [Buster Keaton crazy stunt 1924](http://9gag.com/gag/ayNW4qq)<!-- MEMES:END -->
+ - 💣 [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - ⏩ [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)
+ - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
 
 ---
 
