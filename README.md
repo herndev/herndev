@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Horizon Adventures soundtrack launches on streaming platforms today](https://blog.playstation.com/2025/04/11/lego-horizon-adventures-soundtrack-launches-on-streaming-platforms-today/)
- - [10 Indie Games Coming to Xbox, and 10 Things You Should Know About Them](https://news.xbox.com/en-us/2025/04/11/id-xbox-developer-sessions-10-indies/)
- - [Return to Tarkir: The art and craft of the Magic callback set](https://www.polygon.com/mtg-magic-the-gathering/556404/tarkir-dragonstorm-callback-set-rosewater-interview)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for April 14 to 18](https://news.xbox.com/en-us/2025/04/11/next-week-on-xbox-new-games-for-april-14-to-18/)
+ - [If you’re a fan of Black Mirror’s ‘San Junipero,’ you definitely should check out season 7’s ‘Hotel Reverie’](https://www.polygon.com/tv/556460/black-mirror-san-junipero-hotel-reverie-queer-love-story)
+ - [How to solve the parlor puzzle in Blue Prince](https://www.pcgamer.com/games/puzzle/blue-prince-parlor-puzzle-solution/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
