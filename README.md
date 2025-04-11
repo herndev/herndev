@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hey, are you alright](http://9gag.com/gag/adBnvmD)
- - ⏩ [Another one from my meme archives to cleanse your feed](http://9gag.com/gag/a7oVOWe)
- - 👉 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)<!-- MEMES:END -->
+ - 💣 [You are a battery](http://9gag.com/gag/aKGWG3O)
+ - ⏩ [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
+ - 👉 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)<!-- MEMES:END -->
 
 ---
 
