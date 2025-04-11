@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proton Mail is finally getting this highly requested feature](https://www.androidauthority.com/proton-mail-new-android-app-3543986/)
- - [Buckle up for more subscriptions](https://www.theverge.com/news/647055/garmin-polar-subscriptions-tariffs)
- - [SmartScout: China-based electronics accessories maker Anker has raised prices by ~18% on a fifth of its products on Amazon, as US starts applying new tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p16#a250411p16)<!-- TECH:END -->
+ - [South of Midnight is a game worth hollerin’ about](https://www.theverge.com/games-review/647143/south-of-midnight-review-xbox-compulsion-games)
+ - [The Social Security Administration Is Gutting Regional Staff and Shifting All Public Communications to X](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/)
+ - [China exempts products from AMD, Nvidia, Intel, Qualcomm, and others that are made by Taiwanese companies like TSMC from the 125% tariff on US products &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250411/p17#a250411p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
