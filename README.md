@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are a battery](http://9gag.com/gag/aKGWG3O)
- - ⏩ [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
+ - 💣 [Do ya know](http://9gag.com/gag/aLnGp26)
+ - ⏩ [Why the tape?](http://9gag.com/gag/axyb3vn)
  - 👉 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)<!-- MEMES:END -->
 
 ---
