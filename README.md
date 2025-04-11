@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, April 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-11-2025/)
  - [Schedule 1 player follows NPCs around for a week to reveal their surprisingly thoughtful, dynamic lives](https://www.pcgamer.com/games/sim/schedule-1-player-follows-npcs-around-for-a-week-to-reveal-their-surprisingly-thoughtful-dynamic-lives/)
- - [Developer of &#39;non-consensual sex&#39; game withdraws it from Steam after it&#39;s banned in the UK, Canada, and Australia: &#39;We don&#39;t intend to fight the whole world&#39;](https://www.pcgamer.com/games/developer-of-non-consensual-sex-game-removes-it-from-steam-entirely-after-its-banned-in-the-uk-canada-and-australia-we-dont-intend-to-fight-the-whole-world/)
- - [Roving gangs of Sabrina Carpenters are in Fortnite now](https://www.polygon.com/news/557106/fortnite-sabrina-carpenter-skin-gangs)<!-- GAME:END -->
+ - [Developer of &#39;non-consensual sex&#39; game withdraws it from Steam after it&#39;s banned in the UK, Canada, and Australia: &#39;We don&#39;t intend to fight the whole world&#39;](https://www.pcgamer.com/games/developer-of-non-consensual-sex-game-removes-it-from-steam-entirely-after-its-banned-in-the-uk-canada-and-australia-we-dont-intend-to-fight-the-whole-world/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
