@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Google flattened out the Pixel 9a’s camera: from bar, to bump, to ‘dome’](https://www.androidauthority.com/pixel-9a-camera-dome-3544072/)
- - [You can save up to $1,800 on Samsung’s last-gen Frame TV](https://www.theverge.com/tech/647229/samsung-frame-tv-light-phone-3-preorder-deal-sale)
- - [Steve Jobs didn&#39;t tolerate yes-men, understood his influence at Pixar](https://appleinsider.com/articles/25/04/11/steve-jobs-didnt-tolerate-yes-men-understood-his-influence-at-pixar?utm_medium=rss)<!-- TECH:END -->
+ - [The Samsung Galaxy S25 Ultra is $245 off, if you get it in this color](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-3-3544095/)
+ - [A group of former OpenAI employees file an amicus brief in support of Elon Musk in his lawsuit opposing OpenAI&#39;s for-profit transition &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250411/p20#a250411p20)
+ - [You can run Doom on this $666 collector&amp;#8217;s edition box](https://www.theverge.com/news/647361/doom-limited-run-games-collector-edition-cacodemon-handheld)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
