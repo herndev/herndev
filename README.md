@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Team-Up abilities in Marvel Rivals and how to do them](https://www.polygon.com/marvel-rivals-guide/491013/team-up-abilities-list-all)
- - [Over 1000 Classic PC Games Are Dirt Cheap Right Now On GOG](https://kotaku.com/gog-massive-sale-classic-games-deus-ex-sim-city-fallout-1851775895)
- - [All Marvel Rivals season 2 battle pass skins and rewards](https://www.polygon.com/marvel-rivals-guide/557171/all-skins-season-2-battle-pass-rewards-paid-free-list)<!-- GAME:END -->
+ - [GOG&#39;s &#39;Classics Promo&#39; sale rolls into the weekend with deep discounts on more than 1,000 good old games](https://www.pcgamer.com/games/gogs-classics-promo-sale-rolls-into-the-weekend-with-deep-discounts-on-more-than-1-000-good-old-games/)
+ - [&#39;Let&#39;s just fail quickly this time&#39;: Semiwork took a &#39;big risk&#39; on REPO after its first game took 6 years to make and didn&#39;t sell very well](https://www.pcgamer.com/games/horror/lets-just-fail-quickly-this-time-semiwork-took-a-big-risk-on-repo-after-its-first-game-took-6-years-to-make-and-didnt-sell-very-well/)
+ - [Mickey 17, Novocaine, G20 on Prime Video, and every movie new to streaming this weekend](https://www.polygon.com/entertainment/553970/new-movies-watch-streaming-mickey-17-novocaine-g20-prime-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
