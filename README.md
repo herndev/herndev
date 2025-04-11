@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy S25 Ultra is $245 off, if you get it in this color](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-3-3544095/)
- - [A group of former OpenAI employees file an amicus brief in support of Elon Musk in his lawsuit opposing OpenAI&#39;s for-profit transition &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250411/p20#a250411p20)
- - [You can run Doom on this $666 collector&amp;#8217;s edition box](https://www.theverge.com/news/647361/doom-limited-run-games-collector-edition-cacodemon-handheld)<!-- TECH:END -->
+ - [The Amazon Echo smart speaker is 35% off! &lpar;Glacier White or Twilight Blue&rpar;](https://www.androidauthority.com/amazon-echo-4th-generation-deal-3544094/)
+ - [Blue Water Autonomy, which says it is building a 100-ton autonomous naval ship, emerges from stealth with a $14M seed from Eclipse VC, Riot, and Impatient &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/250411/p22#a250411p22)
+ - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
