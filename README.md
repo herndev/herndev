@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is about to launch Recall for real this time](https://www.theverge.com/news/646911/microsoft-recall-windows-insiders-preview)
- - [Razer launches Razer PC Remote Play, which streams PC games to mobile devices running Windows, iOS, iPadOS, or Android at their native resolutions &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250410/p47#a250410p47)
- - [Apple MacBook Air M2 running out of stock, save $300 while you can!](https://www.androidauthority.com/apple-macbook-air-m2-deal-14-3543711/)<!-- TECH:END -->
+ - [Oppo launches the Find X8 Ultra in China, with a 6.82&quot; OLED display, Snapdragon 8 Elite chip, 6,100mAh battery, and a quad 50MP camera setup, starting at ~$890 &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250410/p49#a250410p49)
+ - [Trump signs measure repealing IRS rules that treat DeFi platforms as brokers and require them to report user data, the first pro-crypto effort to clear Congress &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250410/p48#a250410p48)
+ - [Twopan Portable SSD review: Compact but expensive iPhone storage](https://appleinsider.com/articles/25/04/11/twopan-portable-ssd-review-compact-but-expensive-iphone-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
