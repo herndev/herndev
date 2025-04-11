@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is working on a new feature to save you from doomscrolling Shorts &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-shorts-daily-timer-3543839/)
- - [Despite Trump admin pressure, Apple is unlikely to move iPhone production to the US soon due to facility, labor, and supply chain gaps only Asia can fill now &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250411/p3#a250411p3)
- - [Source: Google laid off hundreds of employees in its platforms and devices unit, which works on Android, Pixel, and Chrome, after offering buyouts in January &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250411/p2#a250411p2)<!-- TECH:END -->
+ - [The UK’s Top 6 Mattresses in a Box to Improve Your Sleep in 2025](https://www.wired.com/gallery/the-best-mattresses-to-improve-your-sleep-in-2025/)
+ - [EC president von der Leyen: the EU may tax Big Tech ad revenue, targeting Meta and Google, if Trump trade talks fail and won&#39;t revisit its &quot;untouchable&quot; rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p4#a250411p4)
+ - [YouTube is working on a new feature to save you from doomscrolling Shorts &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-shorts-daily-timer-3543839/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
