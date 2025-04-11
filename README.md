@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark and Darker finally gets a PvE-exclusive &#39;Adventure Mode&#39;](https://www.pcgamer.com/games/rpg/dark-and-darker-finally-gets-a-pve-exclusive-adventure-mode/)
- - [Blue Prince, an almost perfect puzzle game, still tragically lacks a colorblind mode](https://www.polygon.com/news/557876/blue-prince-colorblind-color-assist-mode-update)
- - [1000XResist, Dredge, and more headline Humble Choice for April](https://www.polygon.com/good-deals/554012/humble-choice-april-free-games-1000x-resist-dredge-tomb-raider)<!-- GAME:END -->
+ - [All Team-Up abilities in Marvel Rivals and how to do them](https://www.polygon.com/marvel-rivals-guide/491013/team-up-abilities-list-all)
+ - [Over 1000 Classic PC Games Are Dirt Cheap Right Now On GOG](https://kotaku.com/gog-massive-sale-classic-games-deus-ex-sim-city-fallout-1851775895)
+ - [All Marvel Rivals season 2 battle pass skins and rewards](https://www.polygon.com/marvel-rivals-guide/557171/all-skins-season-2-battle-pass-rewards-paid-free-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
