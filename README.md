@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Shadows: Ubisoft deep dives into PS5 Pro updates](https://blog.playstation.com/2025/04/11/assassins-creed-shadows-ubisoft-deep-dives-into-ps5-pro-updates/)
- - [Oh My God What Is Nintendo Doing](https://kotaku.com/zelda-botw-switch-2-price-dlc-expansion-pass-cyberpunk-1851775786)
- - [How to get into the antechamber in Blue Prince](https://www.pcgamer.com/games/puzzle/blue-prince-antechamber-unlock/)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s transformative patch 8, with 12 new subclasses and photo mode, will finally launch next week](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3s-transformative-patch-8-with-12-new-subclasses-and-photo-mode-will-finally-launch-next-week/)
+ - [My favorite thing about Blue Prince&#39;s intricate puzzles is that they&#39;re optional—you don&#39;t have to solve most of them to finish the game](https://www.pcgamer.com/games/puzzle/my-favorite-thing-about-blue-princes-intricate-puzzles-is-that-theyre-optional-you-dont-have-to-solve-most-of-them-to-finish-the-game/)
+ - [Exquisite Corpses’ assassin TCG aims for the sweet spot between Magic: The Gathering and Ultimate Werewolf](https://www.polygon.com/tabletop-games/556417/exquisite-corpses-comic-card-variant-covers-james-tynion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
