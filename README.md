@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Google laid off hundreds of employees in its platforms and devices unit, which works on Android, Pixel, and Chrome, after offering buyouts in January &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250411/p2#a250411p2)
- - [Sources: OpenAI recently gave staff and third-party groups just days, vs. several months previously, to evaluate risks and performance of its latest models &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250411/p1#a250411p1)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, April 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube is working on a new feature to save you from doomscrolling Shorts &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-shorts-daily-timer-3543839/)
+ - [Despite Trump admin pressure, Apple is unlikely to move iPhone production to the US soon due to facility, labor, and supply chain gaps only Asia can fill now &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250411/p3#a250411p3)
+ - [Source: Google laid off hundreds of employees in its platforms and devices unit, which works on Android, Pixel, and Chrome, after offering buyouts in January &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250411/p2#a250411p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
