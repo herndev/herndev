@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [1000X Resist, Dredge, and more headline Humble Choice for April](https://www.polygon.com/good-deals/554012/humble-choice-april-free-games-1000x-resist-dredge-tomb-raider)
- - [Andor Creator Says A Star Wars Horror Project Could Be On The Way](https://kotaku.com/star-wars-horror-andor-season-2-1851775862)
- - [Switch 2 will end two decades of Nintendo’s awkward voice chat attempts](https://www.polygon.com/nintendo-switch-2/557758/gamechat-voice-chat-history-wii-speak)<!-- GAME:END -->
+ - [Dark and Darker finally gets a PvE-exclusive &#39;Adventure Mode&#39;](https://www.pcgamer.com/games/rpg/dark-and-darker-finally-gets-a-pve-exclusive-adventure-mode/)
+ - [Blue Prince, an almost perfect puzzle game, still tragically lacks a colorblind mode](https://www.polygon.com/news/557876/blue-prince-colorblind-color-assist-mode-update)
+ - [1000XResist, Dredge, and more headline Humble Choice for April](https://www.polygon.com/good-deals/554012/humble-choice-april-free-games-1000x-resist-dredge-tomb-raider)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
