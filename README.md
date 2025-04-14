@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A short and pitty pp](http://9gag.com/gag/aryZ27X)
- - ⏩ [Pain](http://9gag.com/gag/a87DVbY)
- - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
+ - 💣 [Pain](http://9gag.com/gag/a87DVbY)
+ - ⏩ [Well appreciated](http://9gag.com/gag/agm8j0r)
+ - 👉 [Happy Birthday Ron Perlman 13 April 1950 &lpar;age 75 years&rpar;](http://9gag.com/gag/avyEmGO)<!-- MEMES:END -->
 
 ---
 
