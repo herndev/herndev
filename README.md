@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magic](http://9gag.com/gag/ayNWQQV)
- - ⏩ [When the food is too spicy](http://9gag.com/gag/an7vxEn)
- - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
+ - 💣 [Very Effective](http://9gag.com/gag/aryZ8X0)
+ - ⏩ [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)
+ - 👉 [Lawyer roles](http://9gag.com/gag/an7vDPn)<!-- MEMES:END -->
 
 ---
 
