@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Data sleuth discovers that Sekiro&#39;s inexplicable, skyscraper-sized rope man who gives you a lift to Heaven might have once been a boss fight or level unto itself](https://www.pcgamer.com/games/action/data-sleuth-discovers-that-sekiros-inexplicable-skyscraper-sized-rope-man-who-gives-you-a-lift-to-heaven-might-have-once-been-a-boss-fight-or-level-unto-itself/)
- - [PS5 price to rise in Europe, Australia and New Zealand](https://blog.playstation.com/2025/04/13/ps5-price-to-rise-in-europe-australia-and-new-zealand/)
- - [PS5 price to rise in Europe, Australia and New Zealand](https://blog.playstation.com/2025/04/13/ps5-price-to-rise-in-europe-australia-and-new-zealand/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;April 14, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-14-2025/)
+ - [Eli Roth on why the Borderlands movie sucked: &#39;You can’t prep a movie on that scale over Zoom&#39;](https://www.pcgamer.com/movies-tv/eli-roth-on-why-the-borderlands-movie-sucked-you-cant-prep-a-movie-on-that-scale-over-zoom/)
+ - [Data sleuth discovers that Sekiro&#39;s inexplicable, skyscraper-sized rope man who gives you a lift to Heaven might have once been a boss fight or level unto itself](https://www.pcgamer.com/games/action/data-sleuth-discovers-that-sekiros-inexplicable-skyscraper-sized-rope-man-who-gives-you-a-lift-to-heaven-might-have-once-been-a-boss-fight-or-level-unto-itself/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
