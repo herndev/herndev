@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest Stalker 2 roadmap includes modding improvements, more A-life updates, and letting mutants eat corpses](https://www.pcgamer.com/games/fps/the-latest-stalker-2-roadmap-includes-modding-improvements-more-a-life-updates-and-letting-mutants-eat-corpses/)
- - [A Bunch Of Sega And Bethesda Switch Games Are On Sale Right Now](https://kotaku.com/sega-bethesda-switch-eshop-big-sale-partner-showcase-1851776134)
- - [All the fart jokes in The Lion King are Ernie Sabella’s fault](https://www.polygon.com/movies/558683/the-lion-king-pumbaa-fart-jokes-nathan-lane)<!-- GAME:END -->
+ - [Former Concord dev says &#39;it was gut wrenching to see our project fail&#39; but urges players not to judge Marathon too soon:  &#39;To call this game a failure before it’s even out is wild to me&#39;](https://www.pcgamer.com/games/fps/former-concord-dev-says-it-was-gut-wrenching-to-see-our-project-fail-but-urges-players-not-to-judge-marathon-too-soon-to-call-this-game-a-failure-before-its-even-out-is-wild-to-me/)
+ - [John Boyega Has Talked With Kevin Feige About Joining The MCU](https://kotaku.com/john-boyega-marvel-mcu-kevin-feige-1851776142)
+ - [The latest Stalker 2 roadmap includes modding improvements, more A-life updates, and letting mutants eat corpses](https://www.pcgamer.com/games/fps/the-latest-stalker-2-roadmap-includes-modding-improvements-more-a-life-updates-and-letting-mutants-eat-corpses/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
