@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s ultimate customization app can now be found on the Play Store](https://www.androidauthority.com/samsung-good-lock-play-store-3544482/)
- - [Star Wars is getting a turn-based strategy game called Zero Company](https://www.theverge.com/news/648151/star-wars-zero-company-strategy-game-celebration)
- - [Crypto exchange Kraken begins rolling out commission-free trading for over 11,000 US-listed stocks and ETFs, initially in nine US states and DC &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250414/p24#a250414p24)<!-- TECH:END -->
+ - [OpenAI debuts its GPT-4.1 flagship AI model](https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability)
+ - [OpenAI’s New GPT 4.1 Models Excel at Coding](https://www.wired.com/story/openai-announces-4-1-ai-model-coding/)
+ - [Sony’s excellent WF-1000XM5 earbuds have hit their lowest price ever](https://www.theverge.com/tech/648207/sony-wf-1000xm5-noise-canceling-earbuds-amazon-target-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
