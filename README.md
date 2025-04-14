@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - ⏩ [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 👉 [I got you...](http://9gag.com/gag/ae9VP6m)<!-- MEMES:END -->
+ - 💣 [Rosie looks proud](http://9gag.com/gag/a34ypqv)
+ - ⏩ [Throwback to when we ruled the flippers on pinball machines! This brings them days back](http://9gag.com/gag/a4P5rqy)
+ - 👉 [Trying to get some work done](http://9gag.com/gag/aW4vdLZ)<!-- MEMES:END -->
 
 ---
 
