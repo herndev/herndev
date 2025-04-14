@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
+ - 💣 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
  - ⏩ [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 👉 [How would this work for real](http://9gag.com/gag/aKGWYwg)<!-- MEMES:END -->
+ - 👉 [I got you...](http://9gag.com/gag/ae9VP6m)<!-- MEMES:END -->
 
 ---
 
