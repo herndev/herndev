@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: FTC Chair Andrew Ferguson, Assistant AG Gail Slater, and activist Mike Davis met Trump on April 8 to combat Meta&#39;s lobbying over the FTC antitrust case &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250414/p22#a250414p22)
- - [Q&amp;A with Robinhood co-founder Vlad Tenev on becoming sole CEO, prediction markets, regulatory compliance, sports betting, the American dream, media, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250414/p21#a250414p21)
- - [The Meta Quest 3S just got its first discount](https://www.theverge.com/tech/647954/meta-quest-3s-ps5-sale-deals)<!-- TECH:END -->
+ - [HBO’s Harry Potter TV series has cast its regulars &lpar;not those ones&rpar;](https://www.theverge.com/news/648099/harry-potter-tv-series-hbo-warner-bros-casting-announcement)
+ - [Sources: the European Commission is issuing burner phones and laptops to some US-bound staff to mitigate espionage risks, a move typically reserved for China &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/250414/p23#a250414p23)
+ - [Nvidia starts producing its Blackwell AI chip at TSMC&amp;#8217;s Arizona plant](https://www.theverge.com/news/648086/nvidia-blackwell-ai-tsmc-arizona-plant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
