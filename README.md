@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Trust continues to be tampered with&#39;: A thread about SBMM in the upcoming Battlefield game is the final straw as an EA community manager lets loose on leakers](https://www.pcgamer.com/games/fps/trust-continues-to-be-tampered-with-a-thread-about-sbmm-in-the-upcoming-battlefield-game-is-the-final-straw-as-an-ea-community-manager-lets-loose-on-leakers/)
- - [Hacked Crosswalks Play Biting Satirical Messages Imitating Musk And Zuckerberg](https://kotaku.com/crosswalk-hack-elon-musk-mark-zuckerberg-ai-messages-1851776044)
- - [Monkey Palace, a Lego tower-building game for the whole family, is 72% off](https://www.polygon.com/good-deals/545234/monkey-palace-amazon-big-spring-sale)<!-- GAME:END -->
+ - [How to Recreate A Minecraft Movie in Your Minecraft Game](https://news.xbox.com/en-us/2025/04/14/a-minecraft-movie-recreate-in-game/)
+ - [The Mass Effect And Dragon Age Teams ‘Didn’t Get Along,’ According To Ex-BioWare Dev](https://kotaku.com/dragon-age-mass-effect-bioware-david-gaider-anthem-1851776055)
+ - [App promising a universal shopping experience automated with AI actually used a small army of human workers in the Philippines and Romania instead](https://www.pcgamer.com/software/ai/app-promising-a-universal-shopping-experience-automated-with-ai-actually-used-a-small-army-of-human-workers-in-the-philippines-and-romania-instead/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
