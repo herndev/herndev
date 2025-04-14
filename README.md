@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [&lpar;For Southeast Asia&rpar; Marathon launches September 24 on PS5, Steam, and Xbox Series X|S, gameplay revealed](https://blog.playstation.com/2025/04/13/20250414-marathon-reveal/)
- - [&lpar;For Southeast Asia&rpar; Marathon developer interview: Bungie shares more on its extraction FPS action](https://blog.playstation.com/2025/04/13/20250414-marathon-interview/)
- - [Today&#39;s Wordle answer for Monday, April 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-14-2025/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Marathon launches September 24 on PS5, Steam, and Xbox Series X|S, gameplay revealed](https://blog.playstation.com/2025/04/13/20250414-marathon-reveal/)
+ - [&lpar;For Southeast Asia&rpar; Marathon developer interview: Bungie shares more on its extraction FPS action](https://blog.playstation.com/2025/04/13/20250414-marathon-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
