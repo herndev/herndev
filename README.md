@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s Live Captions are about to get a whole lot noisier &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-expressive-captions-update-3544226/)
- - [Smartphones exempt from crushing US tariffs, but it’s too early to celebrate &lpar;Updated&rpar;](https://www.androidauthority.com/smartphones-electronics-exemption-us-tariffs-china-3544130/)
- - [President Trump told reporters he would announce the tariff rate on imported semiconductors over the next week, giving some flexibility to certain companies &lpar;Reuters&rpar;](http://www.techmeme.com/250413/p17#a250413p17)<!-- TECH:END -->
+ - [A look at the limits of large context LLMs, as their increased latency, higher costs, and reduced usability result in diminishing returns for enterprises &lpar;VentureBeat&rpar;](http://www.techmeme.com/250414/p1#a250414p1)
+ - [Breaking: One UI 7 update halted worldwide](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)
+ - [Android’s Live Captions are about to get a whole lot noisier &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-expressive-captions-update-3544226/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
