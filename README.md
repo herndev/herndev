@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Doodle explains quantum superposition with a kid’s magic trick](https://www.androidauthority.com/google-quantum-doodle-3544549/)
- - [Apple plans to begin on-device, privacy-centric analysis of user data, comparing it to synthetic data, to improve AI, in beta versions of iOS 18.5, macOS 15.5 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250414/p27#a250414p27)
- - [CMF Buds 2 haven’t launched yet, but you can already order them](https://www.androidauthority.com/cmf-buds-2-product-page-3544542/)<!-- TECH:END -->
+ - [Online trading platform Webull closed up 374.72% on its second day of trading following its SPAC merger, giving it a market cap of almost $30B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250414/p28#a250414p28)
+ - [On-device Apple Intelligence training seems to be based on controversial technology](https://appleinsider.com/articles/25/04/14/on-device-apple-intelligence-training-seems-to-be-based-on-controversial-technology?utm_medium=rss)
+ - [Apple&amp;#8217;s complicated plan to improve its AI while protecting privacy](https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
