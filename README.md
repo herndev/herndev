@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Pain](http://9gag.com/gag/a87DVbY)
- - ⏩ [Well appreciated](http://9gag.com/gag/agm8j0r)
- - 👉 [Happy Birthday Ron Perlman 13 April 1950 &lpar;age 75 years&rpar;](http://9gag.com/gag/avyEmGO)<!-- MEMES:END -->
+ - ⏩ [Universal vise](http://9gag.com/gag/agm8j36)
+ - 👉 [I love statistics.](http://9gag.com/gag/aQzAObw)<!-- MEMES:END -->
 
 ---
 
