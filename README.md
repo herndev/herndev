@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Useless invention #69](http://9gag.com/gag/a5QGjxG)
- - ⏩ [Snow White](http://9gag.com/gag/a1m5OwG)
- - 👉 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)<!-- MEMES:END -->
+ - 💣 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
+ - ⏩ [Pain](http://9gag.com/gag/a87DVbY)
+ - 👉 [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)<!-- MEMES:END -->
 
 ---
 
