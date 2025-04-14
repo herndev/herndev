@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How private prison company Geo Group built a lucrative side business making digital tools like smart watches and tracking apps to help ICE surveil immigrants &lpar;New York Times&rpar;](http://www.techmeme.com/250414/p9#a250414p9)
- - [This Retroid Pocket 5 killer packs serious power for just over $200](https://www.androidauthority.com/anbernic-rg-557-price-specs-3544318/)
- - [New Samsung Secure Folder flaw means your photos aren’t so secure after all, but here’s the fix](https://www.androidauthority.com/samsung-secure-folder-second-privacy-flaw-3544321/)<!-- TECH:END -->
+ - [I can’t wait for silicon-carbon batteries to come to the Pixel Watch](https://www.androidauthority.com/silicon-carbon-batteries-smartwatches-3541580/)
+ - [Samsung’s new tablet can run without batteries!](https://www.androidauthority.com/samsung-galaxy-tab-active-5-pro-3544277/)
+ - [African Private Capital Association: VC inflows to Africa fell 22% YoY to $3.6B in 2024, after a 31% YoY drop in 2023; fintechs had 116 deals raising $1.4B &lpar;Ruth Olurounbi/Bloomberg&rpar;](http://www.techmeme.com/250414/p11#a250414p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
