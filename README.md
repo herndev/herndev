@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
- - ⏩ [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
- - 👉 [...](http://9gag.com/gag/aLnGAZA)<!-- MEMES:END -->
+ - 💣 [Useless invention #69](http://9gag.com/gag/a5QGjxG)
+ - ⏩ [Snow White](http://9gag.com/gag/a1m5OwG)
+ - 👉 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)<!-- MEMES:END -->
 
 ---
 
