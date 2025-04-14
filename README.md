@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After 6 years of hype, can Hollow Knight: Silksong really live up to the sky-high expectations?](https://www.pcgamer.com/games/action/after-6-years-of-hype-can-hollow-knight-silksong-really-live-up-to-the-sky-high-expectations/)
- - [Trump administration exempts phones and most computing hardware from tariffs and then says they&#39;re not really exempt, just being lined up for a very special tariff &#39;bucket&#39; of their own](https://www.pcgamer.com/hardware/trump-administration-exempts-phones-and-most-computing-hardware-from-tariffs-and-then-says-theyre-not-really-exempt-just-being-lined-up-for-a-very-special-tariff-bucket-of-their-own/)
- - [Silicon Valley crosswalks hacked to play satirical messages from Musk and Zuckerberg impersonators: &#39;It&#39;s normal to feel uncomfortable or even violated as we forcefully insert AI into every facet of your conscious experience&#39;](https://www.pcgamer.com/hardware/silicon-valley-crosswalks-hacked-to-play-satirical-messages-from-musk-and-zuckerberg-impersonators-its-normal-to-feel-uncomfortable-or-even-violated-as-we-forcefully-insert-ai-into-every-facet-of-your-conscious-experience/)<!-- GAME:END -->
+ - [How Bloom &amp; Rage: Lost Records Tape 2 takes a dark and supernatural turn on April 15](https://blog.playstation.com/2025/04/14/how-bloom-rage-lost-records-tape-2-takes-a-dark-and-supernatural-turn-on-april-15/)
+ - [The best new video games of 2025 so far](https://www.polygon.com/what-to-play/553483/best-new-video-games-2025)
+ - [Best Schedule 1 barn setup and layout](https://www.pcgamer.com/games/sim/schedule-1-barn-setup-best/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
