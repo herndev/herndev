@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple asked suppliers in India, Vietnam, and Thailand to ramp up production earlier in 2025; Indian factory utilization rates are already at the limit &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250414/p5#a250414p5)
- - [Topgolf and Puttshack founders&#39; Poolhouse raised a $34M seed to build a &quot;tech-enabled&quot; version of pool, including via video projections and tracking players &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/250414/p4#a250414p4)
- - [A CD Can Protect Your Money From Economic Turmoil. Today&#39;s CD Rates, April 14, 2025](https://www.cnet.com/personal-finance/banking/a-cd-can-protect-your-money-from-economic-turmoil-todays-cd-rates-april-14-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How private prison company Geo Group built a lucrative side business making digital tools like smart watches and tracking apps to help ICE surveil immigrants &lpar;New York Times&rpar;](http://www.techmeme.com/250414/p9#a250414p9)
+ - [This Retroid Pocket 5 killer packs serious power for just over $200](https://www.androidauthority.com/anbernic-rg-557-price-specs-3544318/)
+ - [New Samsung Secure Folder flaw means your photos aren’t so secure after all, but here’s the fix](https://www.androidauthority.com/samsung-secure-folder-second-privacy-flaw-3544321/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
