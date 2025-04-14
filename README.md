@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta antitrust trial: updates from the monopoly battle with the FTC](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [Earn rewards &amp; boost your health with Apple Watch on April 24](https://appleinsider.com/articles/25/04/14/earn-rewards-boost-your-health-with-apple-watch-on-april-24?utm_medium=rss)
- - [Meta says it plans to train its AI models on public content, like posts and comments, and interactions that users have with its AI in the EU starting this week &lpar;Meta&rpar;](http://www.techmeme.com/250414/p16#a250414p16)<!-- TECH:END -->
+ - [Source: FTC Chair Andrew Ferguson, Assistant AG Gail Slater, and activist Mike Davis met Trump on April 8 to combat Meta&#39;s lobbying over the FTC antitrust case &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250414/p22#a250414p22)
+ - [Q&amp;A with Robinhood co-founder Vlad Tenev on becoming sole CEO, prediction markets, regulatory compliance, sports betting, the American dream, media, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250414/p21#a250414p21)
+ - [The Meta Quest 3S just got its first discount](https://www.theverge.com/tech/647954/meta-quest-3s-ps5-sale-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
