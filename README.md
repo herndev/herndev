@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pain](http://9gag.com/gag/a87DVbY)
- - ⏩ [Universal vise](http://9gag.com/gag/agm8j36)
- - 👉 [I love statistics.](http://9gag.com/gag/aQzAObw)<!-- MEMES:END -->
+ - 💣 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
+ - ⏩ [Hate crime](http://9gag.com/gag/aXP4Rmv)
+ - 👉 [No golf for you, motherf\u00f9cker](http://9gag.com/gag/ae9VmnO)<!-- MEMES:END -->
 
 ---
 
