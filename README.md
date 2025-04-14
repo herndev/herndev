@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait what](http://9gag.com/gag/a9y8m76)
- - ⏩ [Pain](http://9gag.com/gag/a87DVbY)
- - 👉 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)<!-- MEMES:END -->
+ - 💣 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - ⏩ [Snow White](http://9gag.com/gag/a1m5OwG)
+ - 👉 [How would this work for real](http://9gag.com/gag/aKGWYwg)<!-- MEMES:END -->
 
 ---
 
