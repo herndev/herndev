@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [According to David Fincher&#39;s new Xbox ad with an extremely late &#39;90s/early 2000s vibe, you can escape capitalism by buying Xbox games](https://www.pcgamer.com/gaming-industry/according-to-david-finchers-new-xbox-ad-with-an-extremely-late-90s-early-2000s-vibe-you-can-escape-capitalism-by-buying-xbox-games/)
  - [&lpar;For Southeast Asia&rpar; Marathon launches September 24 on PS5, Steam, and Xbox Series X|S, gameplay revealed](https://blog.playstation.com/2025/04/13/20250414-marathon-reveal/)
- - [&lpar;For Southeast Asia&rpar; Marathon launches September 24 on PS5, Steam, and Xbox Series X|S, gameplay revealed](https://blog.playstation.com/2025/04/13/20250414-marathon-reveal/)
- - [&lpar;For Southeast Asia&rpar; Marathon developer interview: Bungie shares more on its extraction FPS action](https://blog.playstation.com/2025/04/13/20250414-marathon-interview/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Marathon launches September 24 on PS5, Steam, and Xbox Series X|S, gameplay revealed](https://blog.playstation.com/2025/04/13/20250414-marathon-reveal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
