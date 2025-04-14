@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
- - ⏩ [Snow White](http://9gag.com/gag/a1m5OwG)
- - 👉 [How would this work for real](http://9gag.com/gag/aKGWYwg)<!-- MEMES:END -->
+ - 💣 [Everybody look..](http://9gag.com/gag/ajPBZj8)
+ - ⏩ [Lawyer roles](http://9gag.com/gag/an7vDPn)
+ - 👉 [Snow White](http://9gag.com/gag/a1m5OwG)<!-- MEMES:END -->
 
 ---
 
