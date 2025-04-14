@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [FTC v. Meta Trial: The Future of Instagram and WhatsApp Is at Stake](https://www.wired.com/story/meta-ftc-trial-begins-instagram-whatsapp/)
  - [People are turning on Elon Musk](https://www.theverge.com/news/647850/elon-musk-americans-unfavorable-views-polls)
- - [A French law requiring adult sites to run age checks and block users under 18 became applicable to sites based in France and outside of the EU on April 11 &lpar;Politico&rpar;](http://www.techmeme.com/250413/p16#a250413p16)<!-- TECH:END -->
+ - [Best Internet Providers in Mankato, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-mankato-mn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
