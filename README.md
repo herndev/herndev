@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - ⏩ [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)
- - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
+ - ⏩ [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - 👉 [How would this work for real](http://9gag.com/gag/aKGWYwg)<!-- MEMES:END -->
 
 ---
 
