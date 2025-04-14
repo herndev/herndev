@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: One UI 7 update halted worldwide &lpar;Update: Possible reason&rpar;](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)
- - [Sony hikes PlayStation 5 prices in Europe, the UK, Australia, and New Zealand, citing a &quot;challenging economic environment&quot;; the PS5 Pro remains the same price &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250414/p3#a250414p3)
- - [PS5 price rises substantially in UK and Europe](https://www.theverge.com/news/647869/sony-ps5-price-rise-uk-europe-australia-new-zealand)<!-- TECH:END -->
+ - [Sources: Apple asked suppliers in India, Vietnam, and Thailand to ramp up production earlier in 2025; Indian factory utilization rates are already at the limit &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250414/p5#a250414p5)
+ - [Topgolf and Puttshack founders&#39; Poolhouse raised a $34M seed to build a &quot;tech-enabled&quot; version of pool, including via video projections and tracking players &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/250414/p4#a250414p4)
+ - [A CD Can Protect Your Money From Economic Turmoil. Today&#39;s CD Rates, April 14, 2025](https://www.cnet.com/personal-finance/banking/a-cd-can-protect-your-money-from-economic-turmoil-todays-cd-rates-april-14-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
