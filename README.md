@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;April 14, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-14-2025/)
- - [Eli Roth on why the Borderlands movie sucked: &#39;You can’t prep a movie on that scale over Zoom&#39;](https://www.pcgamer.com/movies-tv/eli-roth-on-why-the-borderlands-movie-sucked-you-cant-prep-a-movie-on-that-scale-over-zoom/)
- - [Data sleuth discovers that Sekiro&#39;s inexplicable, skyscraper-sized rope man who gives you a lift to Heaven might have once been a boss fight or level unto itself](https://www.pcgamer.com/games/action/data-sleuth-discovers-that-sekiros-inexplicable-skyscraper-sized-rope-man-who-gives-you-a-lift-to-heaven-might-have-once-been-a-boss-fight-or-level-unto-itself/)<!-- GAME:END -->
+ - [Please, The Last of Us, don’t ruin Jackson](https://www.polygon.com/tv/556703/tlou-season-2-jackson-cordyceps-ending)
+ - [The Last of Us’ Stalkers may be even smarter than in the video game](https://www.polygon.com/tv/556829/tlou-season-2-stalker-explainer-hunting-zombie-ellie)
+ - [The Last Of Us Season Two, Episode One Recap: Everybody Hates Joel](https://kotaku.com/last-of-us-hbo-max-season-2-episode-1-recap-review-s2e1-1851775994)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
