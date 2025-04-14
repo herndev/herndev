@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - ⏩ [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
- - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
+ - ⏩ [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 👉 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)<!-- MEMES:END -->
 
 ---
 
