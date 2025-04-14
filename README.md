@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [According to David Fincher&#39;s new Xbox ad with an extremely late &#39;90s/early 2000s vibe, you can escape capitalism by buying Xbox games](https://www.pcgamer.com/gaming-industry/according-to-david-finchers-new-xbox-ad-with-an-extremely-late-90s-early-2000s-vibe-you-can-escape-capitalism-by-buying-xbox-games/)
- - [&lpar;For Southeast Asia&rpar; Marathon launches September 24 on PS5, Steam, and Xbox Series X|S, gameplay revealed](https://blog.playstation.com/2025/04/13/20250414-marathon-reveal/)
- - [&lpar;For Southeast Asia&rpar; Marathon launches September 24 on PS5, Steam, and Xbox Series X|S, gameplay revealed](https://blog.playstation.com/2025/04/13/20250414-marathon-reveal/)<!-- GAME:END -->
+ - [Silicon Valley crosswalks hacked to play satirical messages from Musk and Zuckerberg impersonators: &#39;It&#39;s normal to feel uncomfortable or even violated as we forcefully insert AI into every facet of your conscious experience&#39;](https://www.pcgamer.com/hardware/silicon-valley-crosswalks-hacked-to-play-satirical-messages-from-musk-and-zuckerberg-impersonators-its-normal-to-feel-uncomfortable-or-even-violated-as-we-forcefully-insert-ai-into-every-facet-of-your-conscious-experience/)
+ - [Marvel Rivals players have a new conspiracy theory: Magik and Psylocke&#39;s X-suits make their butts bigger](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-have-a-new-conspiracy-theory-magik-and-psylockes-x-suits-make-their-butts-bigger/)
+ - [Blue Prince was made possible by creator&#39;s Magic: The Gathering fan site: &#39;Now you know why I had to put up a lot of ads&#39;](https://www.pcgamer.com/games/puzzle/blue-prince-was-made-possible-by-creators-magic-the-gathering-fan-site-now-you-know-why-i-had-to-put-up-a-lot-of-ads/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
