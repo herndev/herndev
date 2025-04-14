@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Spring Eggs and Rainbow Eggs in Monster Hunter Now’s ‘Spring Festival’ event](https://www.polygon.com/monster-hunter-now-guides/558156/spring-egg-rainbow-egg-giant-egg-toy)
- - [Disney Dreamlight Valley&#39;s Alice In Wonderland update is dropping next week, but I&#39;m mostly excited about &#39;uncrafting&#39; things](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valleys-alice-in-wonderland-update-is-dropping-next-week-but-im-mostly-excited-about-uncrafting-things/)
- - [Zelda games on Switch 2 will include weapon repairs, but in the most Nintendo way](https://www.polygon.com/nintendo-switch-2/558300/breath-of-the-wild-switch-2-edition-equipment-repairs-zelda-notes)<!-- GAME:END -->
+ - [Turn-Based Tactical RPG King Arthur: Legion IX Launches on May 6, 2025](https://news.xbox.com/en-us/2025/04/14/king-arthur-legion-ix-launches-on-may-6-2025/)
+ - [Five Tips To Level Up Fast In Dynasty Warriors: Origins](https://kotaku.com/dynasty-warriors-origins-level-up-weapons-difficulty-1851776109)
+ - [Star Wars Zero Company, the XCOM-like tactics game being made by ex-Firaxis devs, will be revealed this weekend](https://www.pcgamer.com/games/strategy/star-wars-zero-company-the-xcom-like-tactics-game-being-made-by-ex-firaxis-devs-will-be-revealed-this-weekend/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
