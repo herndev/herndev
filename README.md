@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - ⏩ [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
- - 👉 [I got you...](http://9gag.com/gag/ae9VP6m)<!-- MEMES:END -->
+ - 💣 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
+ - ⏩ [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
+ - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
 
 ---
 
