@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC v. Meta Trial: The Future of Instagram and WhatsApp Is at Stake](https://www.wired.com/story/meta-ftc-trial-begins-instagram-whatsapp/)
- - [People are turning on Elon Musk](https://www.theverge.com/news/647850/elon-musk-americans-unfavorable-views-polls)
- - [Best Internet Providers in Mankato, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-mankato-mn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Smartphones exempt from crushing US tariffs, but it’s too early to celebrate &lpar;Updated&rpar;](https://www.androidauthority.com/smartphones-electronics-exemption-us-tariffs-china-3544130/)
+ - [President Trump told reporters he would announce the tariff rate on imported semiconductors over the next week, giving some flexibility to certain companies &lpar;Reuters&rpar;](http://www.techmeme.com/250413/p17#a250413p17)
+ - [What ‘The Last of Us’ Season Premiere’s Final Moments Really Mean](https://www.wired.com/story/last-of-us-season-2-premiere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
