@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One small gesture gave The Last of Us its best moment](https://www.polygon.com/tv/557659/tlou-season-2-joel-best-scene-gail)
- - [Sony is raising the price of the PS5 &lpar;again&rpar;](https://www.polygon.com/news/558161/ps5-price-increase-new-europe-uk)
- - [User reports melted power cable on an RTX 5070 and now we&#39;re wondering if any RTX 50-series GPU is safe](https://www.pcgamer.com/hardware/graphics-cards/user-reports-melted-power-cable-on-an-rtx-5070-and-now-were-wondering-if-any-rtx-50-series-gpu-is-safe/)<!-- GAME:END -->
+ - [&#39;Trust continues to be tampered with&#39;: A thread about SBMM in the upcoming Battlefield game is the final straw as an EA community manager lets loose on leakers](https://www.pcgamer.com/games/fps/trust-continues-to-be-tampered-with-a-thread-about-sbmm-in-the-upcoming-battlefield-game-is-the-final-straw-as-an-ea-community-manager-lets-loose-on-leakers/)
+ - [Hacked Crosswalks Play Biting Satirical Messages Imitating Musk And Zuckerberg](https://kotaku.com/crosswalk-hack-elon-musk-mark-zuckerberg-ai-messages-1851776044)
+ - [Monkey Palace, a Lego tower-building game for the whole family, is 72% off](https://www.polygon.com/good-deals/545234/monkey-palace-amazon-big-spring-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
