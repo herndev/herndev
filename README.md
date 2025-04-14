@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon&#39;s New Keychain Starter Plushies Are Almost Too Cute](https://kotaku.com/pokemon-center-keychain-starter-plush-plushies-1851776011)
- - [Trump tariffs could mean 25% fewer board game publishers](https://www.polygon.com/news/558274/trump-tariffs-board-game-survey-cardboard-edison-quarter)
- - [How Bethesda turned the radioactive lemon that was Fallout 76 into endless lemonade: &#39;It taught me a lot, as pain does&#39;](https://www.pcgamer.com/games/fallout/how-bethesda-turned-the-radioactive-lemon-that-was-fallout-76-into-endless-lemonade-it-taught-me-a-lot-as-pain-does/)<!-- GAME:END -->
+ - [How to get Spring Eggs and Rainbow Eggs in Monster Hunter Now’s ‘Spring Festival’ event](https://www.polygon.com/monster-hunter-now-guides/558156/spring-egg-rainbow-egg-giant-egg-toy)
+ - [Disney Dreamlight Valley&#39;s Alice In Wonderland update is dropping next week, but I&#39;m mostly excited about &#39;uncrafting&#39; things](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valleys-alice-in-wonderland-update-is-dropping-next-week-but-im-mostly-excited-about-uncrafting-things/)
+ - [Zelda games on Switch 2 will include weapon repairs, but in the most Nintendo way](https://www.polygon.com/nintendo-switch-2/558300/breath-of-the-wild-switch-2-edition-equipment-repairs-zelda-notes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
