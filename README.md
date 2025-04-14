@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Chipolo’s new POP tracker: Is this even better than the Moto Tag?](https://www.androidauthority.com/hands-on-chipolo-pop-bluetooth-tracker-3543061/)
- - [An Open Source Pioneer Wants to Unleash Open Source AI Robots](https://www.wired.com/story/hugging-face-acquires-open-source-robot-startup/)
- - [Lime will recycle bike and scooter batteries with Redwood Materials](https://www.theverge.com/news/646207/lime-redwood-material-battery-recycle-ebike-scooter)<!-- TECH:END -->
+ - [Meta antitrust trial: updates from the monopoly battle with the FTC](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
+ - [Earn rewards &amp; boost your health with Apple Watch on April 24](https://appleinsider.com/articles/25/04/14/earn-rewards-boost-your-health-with-apple-watch-on-april-24?utm_medium=rss)
+ - [Meta says it plans to train its AI models on public content, like posts and comments, and interactions that users have with its AI in the EU starting this week &lpar;Meta&rpar;](http://www.techmeme.com/250414/p16#a250414p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
