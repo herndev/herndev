@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wireless electricity](http://9gag.com/gag/aKGWeXN)
- - ⏩ [Denmark must always prove itself better than the rest of us.](http://9gag.com/gag/an7vxxn)
- - 👉 [Lawyer roles](http://9gag.com/gag/an7vDPn)<!-- MEMES:END -->
+ - 💣 [Magic](http://9gag.com/gag/ayNWQQV)
+ - ⏩ [When the food is too spicy](http://9gag.com/gag/an7vxEn)
+ - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
 
 ---
 
