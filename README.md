@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dancing](http://9gag.com/gag/a5QGq3G)
- - ⏩ [Sorry for the feelings, but my wife died yesterday, and I am broken inside, may God have her in his glory and I will love her forever and ever.](http://9gag.com/gag/ae9VPbB)
- - 👉 [CROOTT](http://9gag.com/gag/azxGB6x)<!-- MEMES:END -->
+ - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - ⏩ [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
+ - 👉 [I got you...](http://9gag.com/gag/ae9VP6m)<!-- MEMES:END -->
 
 ---
 
