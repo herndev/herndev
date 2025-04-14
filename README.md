@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everybody look..](http://9gag.com/gag/ajPBZj8)
- - ⏩ [Lawyer roles](http://9gag.com/gag/an7vDPn)
- - 👉 [Snow White](http://9gag.com/gag/a1m5OwG)<!-- MEMES:END -->
+ - 💣 [Very Effective](http://9gag.com/gag/aryZ8X0)
+ - ⏩ [Do u have light? One second..](http://9gag.com/gag/aoy4LvX)
+ - 👉 [Magic](http://9gag.com/gag/ayNWQQV)<!-- MEMES:END -->
 
 ---
 
