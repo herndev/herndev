@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dealroom: UK-based startups raised £16.2B in 2024, the lowest amount since 2020, as several consider moving their headquarters to the US in search of capital &lpar;Financial Times&rpar;](http://www.techmeme.com/250414/p2#a250414p2)
  - [A look at the limits of large context LLMs, as their increased latency, higher costs, and reduced usability result in diminishing returns for enterprises &lpar;VentureBeat&rpar;](http://www.techmeme.com/250414/p1#a250414p1)
- - [Breaking: One UI 7 update halted worldwide](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)
- - [Android’s Live Captions are about to get a whole lot noisier &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-expressive-captions-update-3544226/)<!-- TECH:END -->
+ - [Breaking: One UI 7 update halted worldwide](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
