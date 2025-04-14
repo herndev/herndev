@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: by 2030, Netflix aims to hit a $1T valuation, earn ~$9B in global ad sales, and double its $39B revenue and triple its $10B operating income from 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250414/p30#a250414p30)
- - [Samsung Pauses One UI 7 Rollout After Bug Locks Users Out of Phones](https://www.cnet.com/tech/services-and-software/samsung-pauses-one-ui-7-rollout-after-bug-locks-users-out-of-phones/#ftag=CAD590a51e)
- - [Best Cheap iPhone 16 Case? These Two $10 Transparent MagSafe Cases Stand Out](https://www.cnet.com/deals/best-cheap-iphone-16-case-these-two-10-transparent-magsafe-cases-stand-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon slashes M4 iPad Pro to $899, save up to $200 on range](https://appleinsider.com/articles/25/04/13/amazon-slashes-m4-ipad-pro-to-899-apple-pencil-pro-99?utm_medium=rss)
+ - [Save $100 on this Apple Watch Series 10, plus grab deals from $169](https://appleinsider.com/articles/25/04/14/save-100-on-this-apple-watch-series-10-plus-grab-deals-from-169?utm_medium=rss)
+ - [Sources: banks are providing Silver Lake $2B in debt for its 51% acquisition of Altera; Intel will receive ~$3.4B in cash from Silver Lake as part of the deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250414/p32#a250414p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
