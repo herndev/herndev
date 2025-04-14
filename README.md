@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silicon Valley crosswalks hacked to play satirical messages from Musk and Zuckerberg impersonators: &#39;It&#39;s normal to feel uncomfortable or even violated as we forcefully insert AI into every facet of your conscious experience&#39;](https://www.pcgamer.com/hardware/silicon-valley-crosswalks-hacked-to-play-satirical-messages-from-musk-and-zuckerberg-impersonators-its-normal-to-feel-uncomfortable-or-even-violated-as-we-forcefully-insert-ai-into-every-facet-of-your-conscious-experience/)
- - [Marvel Rivals players have a new conspiracy theory: Magik and Psylocke&#39;s X-suits make their butts bigger](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-have-a-new-conspiracy-theory-magik-and-psylockes-x-suits-make-their-butts-bigger/)
- - [Blue Prince was made possible by creator&#39;s Magic: The Gathering fan site: &#39;Now you know why I had to put up a lot of ads&#39;](https://www.pcgamer.com/games/puzzle/blue-prince-was-made-possible-by-creators-magic-the-gathering-fan-site-now-you-know-why-i-had-to-put-up-a-lot-of-ads/)<!-- GAME:END -->
+ - [After 6 years of hype, can Hollow Knight: Silksong really live up to the sky-high expectations?](https://www.pcgamer.com/games/action/after-6-years-of-hype-can-hollow-knight-silksong-really-live-up-to-the-sky-high-expectations/)
+ - [Trump administration exempts phones and most computing hardware from tariffs and then says they&#39;re not really exempt, just being lined up for a very special tariff &#39;bucket&#39; of their own](https://www.pcgamer.com/hardware/trump-administration-exempts-phones-and-most-computing-hardware-from-tariffs-and-then-says-theyre-not-really-exempt-just-being-lined-up-for-a-very-special-tariff-bucket-of-their-own/)
+ - [Silicon Valley crosswalks hacked to play satirical messages from Musk and Zuckerberg impersonators: &#39;It&#39;s normal to feel uncomfortable or even violated as we forcefully insert AI into every facet of your conscious experience&#39;](https://www.pcgamer.com/hardware/silicon-valley-crosswalks-hacked-to-play-satirical-messages-from-musk-and-zuckerberg-impersonators-its-normal-to-feel-uncomfortable-or-even-violated-as-we-forcefully-insert-ai-into-every-facet-of-your-conscious-experience/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
