@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI debuts its GPT-4.1 flagship AI model](https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability)
- - [OpenAI’s New GPT 4.1 Models Excel at Coding](https://www.wired.com/story/openai-announces-4-1-ai-model-coding/)
- - [Sony’s excellent WF-1000XM5 earbuds have hit their lowest price ever](https://www.theverge.com/tech/648207/sony-wf-1000xm5-noise-canceling-earbuds-amazon-target-deal-sale)<!-- TECH:END -->
+ - [Apple rebrands its advertising business as &#39;Apple Ads&#39;](https://appleinsider.com/articles/25/04/14/apple-rebrands-its-advertising-business-as-apple-ads?utm_medium=rss)
+ - [Premier League Soccer: Stream Bournemouth vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-fulham-from-anywhere/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bloomington, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-bloomington-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
