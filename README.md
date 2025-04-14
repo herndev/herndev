@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online trading platform Webull closed up 374.72% on its second day of trading following its SPAC merger, giving it a market cap of almost $30B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250414/p28#a250414p28)
- - [On-device Apple Intelligence training seems to be based on controversial technology](https://appleinsider.com/articles/25/04/14/on-device-apple-intelligence-training-seems-to-be-based-on-controversial-technology?utm_medium=rss)
- - [Apple&amp;#8217;s complicated plan to improve its AI while protecting privacy](https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy)<!-- TECH:END -->
+ - [Source: by 2030, Netflix aims to hit a $1T valuation, earn ~$9B in global ad sales, and double its $39B revenue and triple its $10B operating income from 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250414/p30#a250414p30)
+ - [Samsung Pauses One UI 7 Rollout After Bug Locks Users Out of Phones](https://www.cnet.com/tech/services-and-software/samsung-pauses-one-ui-7-rollout-after-bug-locks-users-out-of-phones/#ftag=CAD590a51e)
+ - [Best Cheap iPhone 16 Case? These Two $10 Transparent MagSafe Cases Stand Out](https://www.cnet.com/deals/best-cheap-iphone-16-case-these-two-10-transparent-magsafe-cases-stand-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
