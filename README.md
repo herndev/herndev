@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Recreate A Minecraft Movie in Your Minecraft Game](https://news.xbox.com/en-us/2025/04/14/a-minecraft-movie-recreate-in-game/)
- - [The Mass Effect And Dragon Age Teams ‘Didn’t Get Along,’ According To Ex-BioWare Dev](https://kotaku.com/dragon-age-mass-effect-bioware-david-gaider-anthem-1851776055)
- - [App promising a universal shopping experience automated with AI actually used a small army of human workers in the Philippines and Romania instead](https://www.pcgamer.com/software/ai/app-promising-a-universal-shopping-experience-automated-with-ai-actually-used-a-small-army-of-human-workers-in-the-philippines-and-romania-instead/)<!-- GAME:END -->
+ - [Pokémon&#39;s New Keychain Starter Plushies Are Almost Too Cute](https://kotaku.com/pokemon-center-keychain-starter-plush-plushies-1851776011)
+ - [Trump tariffs could mean 25% fewer board game publishers](https://www.polygon.com/news/558274/trump-tariffs-board-game-survey-cardboard-edison-quarter)
+ - [How Bethesda turned the radioactive lemon that was Fallout 76 into endless lemonade: &#39;It taught me a lot, as pain does&#39;](https://www.pcgamer.com/games/fallout/how-bethesda-turned-the-radioactive-lemon-that-was-fallout-76-into-endless-lemonade-it-taught-me-a-lot-as-pain-does/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
