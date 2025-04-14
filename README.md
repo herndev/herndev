@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Revolut plans to add UK stocks to its trading platform as some investors look to diversify away from US equities, and says it has over 800K UK trading customers &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250411/p25#a250411p25)
- - [Tax Day is almost here: Get Turbotax on sale now!](https://www.androidauthority.com/intuit-turbotax-deals-3544093/)
- - [Katy Perry Blasts to Space With Blue Origin Monday: How to Watch](https://www.cnet.com/science/space/katy-perry-blasts-to-space-with-blue-origin-monday-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FTC v. Meta Trial: The Future of Instagram and WhatsApp Is at Stake](https://www.wired.com/story/meta-ftc-trial-begins-instagram-whatsapp/)
+ - [People are turning on Elon Musk](https://www.theverge.com/news/647850/elon-musk-americans-unfavorable-views-polls)
+ - [A French law requiring adult sites to run age checks and block users under 18 became applicable to sites based in France and outside of the EU on April 11 &lpar;Politico&rpar;](http://www.techmeme.com/250413/p16#a250413p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
