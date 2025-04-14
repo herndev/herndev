@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rosie looks proud](http://9gag.com/gag/a34ypqv)
- - ⏩ [Throwback to when we ruled the flippers on pinball machines! This brings them days back](http://9gag.com/gag/a4P5rqy)
- - 👉 [Trying to get some work done](http://9gag.com/gag/aW4vdLZ)<!-- MEMES:END -->
+ - 💣 [Dancing](http://9gag.com/gag/a5QGq3G)
+ - ⏩ [Sorry for the feelings, but my wife died yesterday, and I am broken inside, may God have her in his glory and I will love her forever and ever.](http://9gag.com/gag/ae9VPbB)
+ - 👉 [CROOTT](http://9gag.com/gag/azxGB6x)<!-- MEMES:END -->
 
 ---
 
