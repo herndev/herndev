@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - ⏩ [Pain](http://9gag.com/gag/a87DVbY)
- - 👉 [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)<!-- MEMES:END -->
+ - ⏩ [Facepalm Spain](http://9gag.com/gag/aVvmRV8)
+ - 👉 [Classic](http://9gag.com/gag/aYQP142)<!-- MEMES:END -->
 
 ---
 
