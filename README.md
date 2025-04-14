@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dealroom: UK-based startups raised £16.2B in 2024, the lowest amount since 2020, as several consider moving their headquarters to the US in search of capital &lpar;Financial Times&rpar;](http://www.techmeme.com/250414/p2#a250414p2)
- - [A look at the limits of large context LLMs, as their increased latency, higher costs, and reduced usability result in diminishing returns for enterprises &lpar;VentureBeat&rpar;](http://www.techmeme.com/250414/p1#a250414p1)
- - [Breaking: One UI 7 update halted worldwide](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)<!-- TECH:END -->
+ - [Breaking: One UI 7 update halted worldwide &lpar;Update: Possible reason&rpar;](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)
+ - [Sony hikes PlayStation 5 prices in Europe, the UK, Australia, and New Zealand, citing a &quot;challenging economic environment&quot;; the PS5 Pro remains the same price &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250414/p3#a250414p3)
+ - [PS5 price rises substantially in UK and Europe](https://www.theverge.com/news/647869/sony-ps5-price-rise-uk-europe-australia-new-zealand)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
