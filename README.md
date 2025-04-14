@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very Effective](http://9gag.com/gag/aryZ8X0)
- - ⏩ [Do u have light? One second..](http://9gag.com/gag/aoy4LvX)
- - 👉 [Magic](http://9gag.com/gag/ayNWQQV)<!-- MEMES:END -->
+ - 💣 [Wireless electricity](http://9gag.com/gag/aKGWeXN)
+ - ⏩ [Denmark must always prove itself better than the rest of us.](http://9gag.com/gag/an7vxxn)
+ - 👉 [Lawyer roles](http://9gag.com/gag/an7vDPn)<!-- MEMES:END -->
 
 ---
 
