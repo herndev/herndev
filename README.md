@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I can’t wait for silicon-carbon batteries to come to the Pixel Watch](https://www.androidauthority.com/silicon-carbon-batteries-smartwatches-3541580/)
- - [Samsung’s new tablet can run without batteries!](https://www.androidauthority.com/samsung-galaxy-tab-active-5-pro-3544277/)
- - [African Private Capital Association: VC inflows to Africa fell 22% YoY to $3.6B in 2024, after a 31% YoY drop in 2023; fintechs had 116 deals raising $1.4B &lpar;Ruth Olurounbi/Bloomberg&rpar;](http://www.techmeme.com/250414/p11#a250414p11)<!-- TECH:END -->
+ - [Hands-on with Chipolo’s new POP tracker: Is this even better than the Moto Tag?](https://www.androidauthority.com/hands-on-chipolo-pop-bluetooth-tracker-3543061/)
+ - [An Open Source Pioneer Wants to Unleash Open Source AI Robots](https://www.wired.com/story/hugging-face-acquires-open-source-robot-startup/)
+ - [Lime will recycle bike and scooter batteries with Redwood Materials](https://www.theverge.com/news/646207/lime-redwood-material-battery-recycle-ebike-scooter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
