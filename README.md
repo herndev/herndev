@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO’s Harry Potter TV series has cast its regulars &lpar;not those ones&rpar;](https://www.theverge.com/news/648099/harry-potter-tv-series-hbo-warner-bros-casting-announcement)
- - [Sources: the European Commission is issuing burner phones and laptops to some US-bound staff to mitigate espionage risks, a move typically reserved for China &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/250414/p23#a250414p23)
- - [Nvidia starts producing its Blackwell AI chip at TSMC&amp;#8217;s Arizona plant](https://www.theverge.com/news/648086/nvidia-blackwell-ai-tsmc-arizona-plant)<!-- TECH:END -->
+ - [Samsung’s ultimate customization app can now be found on the Play Store](https://www.androidauthority.com/samsung-good-lock-play-store-3544482/)
+ - [Star Wars is getting a turn-based strategy game called Zero Company](https://www.theverge.com/news/648151/star-wars-zero-company-strategy-game-celebration)
+ - [Crypto exchange Kraken begins rolling out commission-free trading for over 11,000 US-listed stocks and ETFs, initially in nine US states and DC &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250414/p24#a250414p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
