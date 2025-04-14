@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Turn-Based Tactical RPG King Arthur: Legion IX Launches on May 6, 2025](https://news.xbox.com/en-us/2025/04/14/king-arthur-legion-ix-launches-on-may-6-2025/)
- - [Five Tips To Level Up Fast In Dynasty Warriors: Origins](https://kotaku.com/dynasty-warriors-origins-level-up-weapons-difficulty-1851776109)
- - [Star Wars Zero Company, the XCOM-like tactics game being made by ex-Firaxis devs, will be revealed this weekend](https://www.pcgamer.com/games/strategy/star-wars-zero-company-the-xcom-like-tactics-game-being-made-by-ex-firaxis-devs-will-be-revealed-this-weekend/)<!-- GAME:END -->
+ - [HBO&#39;s The Last Of Us Got One Of The Game&#39;s Best Scenes Early And Nailed It](https://kotaku.com/last-of-us-part-2-season-dance-dina-ellie-scene-ep1-1851776130)
+ - [Overwatch 2&#39;s Stadium mode gameplay trailer somehow looks even more chaotic with whole team nano boosts, multi orbs, and a mini B.O.B.](https://www.pcgamer.com/games/fps/overwatch-2s-stadium-mode-gameplay-trailer-somehow-looks-even-more-chaotic-with-whole-team-nano-boosts-multi-orbs-and-a-mini-b-o-b/)
+ - [The best way to play Blue Prince is to cheat a little](https://www.polygon.com/gaming/558391/blue-prince-cheat-puzzle-solutions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
