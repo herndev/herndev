@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
- - ⏩ [Hate crime](http://9gag.com/gag/aXP4Rmv)
- - 👉 [No golf for you, motherf\u00f9cker](http://9gag.com/gag/ae9VmnO)<!-- MEMES:END -->
+ - ⏩ [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
+ - 👉 [...](http://9gag.com/gag/aLnGAZA)<!-- MEMES:END -->
 
 ---
 
