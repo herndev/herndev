@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - ⏩ [Facepalm Spain](http://9gag.com/gag/aVvmRV8)
- - 👉 [Classic](http://9gag.com/gag/aYQP142)<!-- MEMES:END -->
+ - ⏩ [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)
+ - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
 
 ---
 
