@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HBO&#39;s The Last Of Us Got One Of The Game&#39;s Best Scenes Early And Nailed It](https://kotaku.com/last-of-us-part-2-season-dance-dina-ellie-scene-ep1-1851776130)
- - [Overwatch 2&#39;s Stadium mode gameplay trailer somehow looks even more chaotic with whole team nano boosts, multi orbs, and a mini B.O.B.](https://www.pcgamer.com/games/fps/overwatch-2s-stadium-mode-gameplay-trailer-somehow-looks-even-more-chaotic-with-whole-team-nano-boosts-multi-orbs-and-a-mini-b-o-b/)
- - [The best way to play Blue Prince is to cheat a little](https://www.polygon.com/gaming/558391/blue-prince-cheat-puzzle-solutions)<!-- GAME:END -->
+ - [The latest Stalker 2 roadmap includes modding improvements, more A-life updates, and letting mutants eat corpses](https://www.pcgamer.com/games/fps/the-latest-stalker-2-roadmap-includes-modding-improvements-more-a-life-updates-and-letting-mutants-eat-corpses/)
+ - [A Bunch Of Sega And Bethesda Switch Games Are On Sale Right Now](https://kotaku.com/sega-bethesda-switch-eshop-big-sale-partner-showcase-1851776134)
+ - [All the fart jokes in The Lion King are Ernie Sabella’s fault](https://www.polygon.com/movies/558683/the-lion-king-pumbaa-fart-jokes-nathan-lane)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
