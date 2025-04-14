@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweden will never be the same, downhill from now on Sweden \ud83c\uddf8\ud83c\uddea.](http://9gag.com/gag/aNDV9qb)
- - ⏩ [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)
- - 👉 [I love lamp ...](http://9gag.com/gag/aVvmved)<!-- MEMES:END -->
+ - 💣 [Wait what](http://9gag.com/gag/a9y8m76)
+ - ⏩ [Pain](http://9gag.com/gag/a87DVbY)
+ - 👉 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)<!-- MEMES:END -->
 
 ---
 
