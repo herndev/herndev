@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes M4 iPad Pro to $899, save up to $200 on range](https://appleinsider.com/articles/25/04/13/amazon-slashes-m4-ipad-pro-to-899-apple-pencil-pro-99?utm_medium=rss)
- - [Save $100 on this Apple Watch Series 10, plus grab deals from $169](https://appleinsider.com/articles/25/04/14/save-100-on-this-apple-watch-series-10-plus-grab-deals-from-169?utm_medium=rss)
- - [Sources: banks are providing Silver Lake $2B in debt for its 51% acquisition of Altera; Intel will receive ~$3.4B in cash from Silver Lake as part of the deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250414/p32#a250414p32)<!-- TECH:END -->
+ - [South Korea increases assistance to semiconductor industry by ~25% to $23.25B amid US tariffs, competition with China; the sector represents 21% of its exports &lpar;Reuters&rpar;](http://www.techmeme.com/250414/p35#a250414p35)
+ - [On-device Apple Intelligence training seems to be based on controversial technology](https://appleinsider.com/articles/25/04/14/on-device-apple-intelligence-training-seems-to-be-based-on-controversial-technology?utm_medium=rss)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
