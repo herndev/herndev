@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trans Musicians Are Canceling US Tour Dates Due to Trump’s Gender ID Rules](https://www.wired.com/story/trans-musicians-are-canceling-us-tour-dates-due-to-trumps-gender-id-rules/)
- - [Mark Zuckerberg&#39;s $1B Instagram and $19B WhatsApp deals, central to the FTC&#39;s antitrust case, were mocked at the time, and the trial hinges on hypotheticals &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250415/p21#a250415p21)
- - [FTC v. Meta: Mark Zuckerberg testified about his acquisitions of Instagram and WhatsApp, including a 2012 email exchange rationalizing the apps&#39; acquisition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p20#a250415p20)<!-- TECH:END -->
+ - [Dune: Awakening will slumber for just a bit longer](https://www.theverge.com/news/649025/dune-awakening-delayed-release-date-june)
+ - [Lucid Gravity 2026 Review: Prices, Specs, Availability](https://www.wired.com/review/lucid-gravity-2026/)
+ - [Pixel 9a selfie previews are flickering like mad, but there’s an easy fix](https://www.androidauthority.com/pixel-9a-selfie-bug-3544882/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
