@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temu shut off Google Shopping ads in the US on April 9; its App Store app ranking then plummeted from around third or fourth place to 58th in three days &lpar;Anu Adegbola/Search Engine Land&rpar;](http://www.techmeme.com/250415/p18#a250415p18)
- - [4chan is down after an apparent hack late on April 14; an Imgur post seems to show a hacker gained shell access to 4chan&#39;s hosting server and doxxed some users &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250415/p17#a250415p17)
- - [4chan’s ‘cesspool of the internet’ is down after apparently being hacked](https://www.theverge.com/news/648908/4chan-hacked-down-outage-leak)<!-- TECH:END -->
+ - [Trans Musicians Are Canceling US Tour Dates Due to Trump’s Gender ID Rules](https://www.wired.com/story/trans-musicians-are-canceling-us-tour-dates-due-to-trumps-gender-id-rules/)
+ - [Mark Zuckerberg&#39;s $1B Instagram and $19B WhatsApp deals, central to the FTC&#39;s antitrust case, were mocked at the time, and the trial hinges on hypotheticals &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250415/p21#a250415p21)
+ - [FTC v. Meta: Mark Zuckerberg testified about his acquisitions of Instagram and WhatsApp, including a 2012 email exchange rationalizing the apps&#39; acquisition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p20#a250415p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
