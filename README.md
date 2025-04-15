@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The latest Elden Ring Nightreign character reveal is an aging viking whose hobbies include swigging ale and punching dragons in the jaw](https://www.pcgamer.com/games/rpg/the-latest-elden-ring-nightreign-character-reveal-is-an-aging-viking-whose-hobbies-include-swigging-ale-and-punching-dragons-in-the-jaw/)
  - [Ryan Coogler&#39;s Sinners Has A Strange Connection To Puss In Boots](https://kotaku.com/ryan-coogler-sinners-puss-in-boots-movie-wolf-eyes-1851776333)
- - [Get Ghostrunner and 7 other neon-tinted titles for $14](https://www.polygon.com/good-deals/559213/humble-neon-tinted-cyberpunk-ghostrunner-bundle-sale)
- - [Bethesda Is Selling 2,000 Pieces Of Elder Scrolls Online&#39;s Servers](https://kotaku.com/eso-elder-scrolls-online-server-ram-keepsake-price-july-1851776329)<!-- GAME:END -->
+ - [Get Ghostrunner and 7 other neon-tinted titles for $14](https://www.polygon.com/good-deals/559213/humble-neon-tinted-cyberpunk-ghostrunner-bundle-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
