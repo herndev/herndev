@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hertz says hackers stole customer credit card and driver’s license data](https://www.theverge.com/news/648741/hertz-customer-data-breach-hackers-cleo-vulnerability)
- - [Nvidia&#39;s $500B US spending plan follows a familiar pattern of companies trying to please President Trump and offers few details on what AI gear would be US-made &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250415/p5#a250415p5)
- - [Japan&#39;s FTC orders Google to stop alleged abuse of its market power over local smartphone manufacturers, ahead of high-stakes US trade negotiations this week &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250415/p4#a250415p4)<!-- TECH:END -->
+ - [US satellite startup Astranis and Taiwanese telco Chunghwa plan to launch a dedicated MicroGEO satellite by the end of 2025, with full bandwidth as soon as 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p9#a250415p9)
+ - [FCC Chair Brendan Carr says &quot;allied western democracies&quot; need to focus on China and those &quot;concerned about Starlink&quot; should be more fearful of a Chinese version &lpar;Financial Times&rpar;](http://www.techmeme.com/250415/p8#a250415p8)
+ - [Gemini could clean up how it shares sources, similar to ChatGPT &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/gemini-sources-button-apk-3541226/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
