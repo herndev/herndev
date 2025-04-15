@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lushfoil Photography Sim: Capturing The World’s Beauty Through A New Lens](https://news.xbox.com/en-us/2025/04/15/lushfoil-photography-sim-capturing-the-worlds-beauty-through-a-new-lens/)
- - [How to use the brick press in Schedule 1](https://www.pcgamer.com/games/sim/schedule-1-brick-press/)
- - [Laurence Fishburne Claims Makers Of The Matrix 4 ‘Didn’t Respond Well’ To His Offer To Be In The Film](https://kotaku.com/laurence-fishburne-reason-for-not-being-in-matrix-4-1851776196)<!-- GAME:END -->
+ - [Dune: Awakening delayed to June, but a &#39;large-scale beta weekend&#39; is coming next month](https://www.pcgamer.com/games/mmo/dune-awakening-delayed-to-june-but-a-large-scale-beta-weekend-is-coming-next-month/)
+ - [&#39;This is it. Our final major game patch for Baldur’s Gate 3&#39;: The colossal Patch 8 is finally here, marking the end of &lpar;non-bug fix&rpar; updates for Larian&#39;s triumphant RPG](https://www.pcgamer.com/games/baldurs-gate/this-is-it-our-final-major-game-patch-for-baldurs-gate-3-the-colossal-patch-8-is-finally-here-marking-the-end-of-non-bug-fix-updates-for-larians-triumphant-rpg/)
+ - [Palia&amp;#8217;s new zone, the Elderwood, is accompanied by a console launch](https://www.polygon.com/gaming/558552/palia-elderwood-update-ps5-xbox-series-x)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
