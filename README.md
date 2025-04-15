@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
- - ⏩ [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - 👉 [Why are they doing this?](http://9gag.com/gag/amomRA4)<!-- MEMES:END -->
+ - 💣 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - ⏩ [Why are they doing this?](http://9gag.com/gag/amomRA4)
+ - 👉 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)<!-- MEMES:END -->
 
 ---
 
