@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Google VP of Search Elizabeth Reid on AI Overviews&#39; launch a year ago, the future of AI search, its impact on the ad revenue model, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250415/p3#a250415p3)
- - [Samsung will resume the One UI 7 rollout sooner than you think &lpar;Updated: Confirmed&rpar;](https://www.androidauthority.com/one-ui-7-rollout-resuming-3544322/)
- - [Best Internet Providers in Billings, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-billings-mt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gemini could soon be getting a new trick to automate your future &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-scheduled-actions-apk-teardown-3544727/)
+ - [4 Gut Healing Hacks to Stop Gas &amp; Bloating](https://www.cnet.com/health/medical/4-gut-healing-hacks-to-stop-gas-bloating/#ftag=CAD590a51e)
+ - [An interview with Google VP of Search Elizabeth Reid on AI Overviews&#39; launch a year ago, the future of AI search, its impact on the ad revenue model, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250415/p3#a250415p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
