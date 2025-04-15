@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI may be turning ChatGPT into a social media platform](https://www.androidauthority.com/openai-social-media-platform-chatgpt-3545007/)
- - [Anthropic is reportedly launching a voice AI you can speak to](https://www.theverge.com/news/649175/anthropic-claude-ai-voice-mode-report)
- - [On TikTok, Chinese factories are trolling anxious American shoppers](https://www.theverge.com/tech/649049/tiktok-chinese-factories-tariffs-birkenstock-hermes)<!-- TECH:END -->
+ - [A look at the FCC&#39;s &quot;Delete, Delete, Delete&quot; initiative, meant to identify burdensome rules, as ISPs, broadcasters, and others send in deregulation wishlists &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250415/p29#a250415p29)
+ - [Mark Zuckerberg once suggested wiping all Facebook friends lists to boost usage](https://www.theverge.com/news/649246/mark-zuckerberg-facebook-friends-wipe-reset-meta-antitrust-trial)
+ - [Blackmagic Design says tariffs have made camera price hikes ‘unavoidable’](https://www.theverge.com/news/649225/blackmagic-design-trump-us-tariffs-price-hike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
