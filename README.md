@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Marine 2 update adds the terrifying Trygon and a new mission](https://www.polygon.com/news/559209/space-marine-2-trygon-update-space-wolves-imperial-fists)
- - [The Last Of Us Season 2 Starts Off With An Even Bigger Audience Than Season 1](https://kotaku.com/the-last-of-us-season-2-viewership-joel-ellie-1851776274)
- - [Xbox Game Pass wraps April with Grand Theft Auto 5, Clair Obscur: Expedition 33](https://www.polygon.com/news/559139/xbox-game-pass-april-2025-grand-theft-auto-5-clair-obscur-expedition-33)<!-- GAME:END -->
+ - [Unleash Chaos with Five Tips to Become a Hot Rod Mayhem Champion](https://news.xbox.com/en-us/2025/04/15/five-tips-to-become-a-hot-rod-mayhem-champion/)
+ - [This &#39;Single-Player MMORPG&#39; Is A Good Fit For Introverts](https://kotaku.com/erenshor-single-player-mmorpg-steam-dungeon-party-guild-1851776313)
+ - [Guild Wars is 20 years old now, and that means it&#39;s time for a content update and &#39;the biggest discount in Guild Wars&#39; history&#39;](https://www.pcgamer.com/games/mmo/guild-wars-is-20-years-old-now-and-that-means-its-time-for-a-content-update-and-the-biggest-discount-in-guild-wars-history/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
