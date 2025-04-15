@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new projector has Netflix, FHD output, and is priced in impulse-buy territory](https://www.androidauthority.com/dangbei-n2-mini-3545037/)
- - [The CVE program for tracking security flaws is about to lose federal funding](https://www.theverge.com/news/649314/cve-mitre-funding-vulnerabilities-exposures-funding)
- - [Apple about to launch accessory discount with in-store recycling promotion](https://appleinsider.com/articles/25/04/15/apple-about-to-launch-accessory-discount-with-in-store-recycling-promotion?utm_medium=rss)<!-- TECH:END -->
+ - [Today’s hottest smartphone deals: One of them is free!](https://www.androidauthority.com/samsung-galaxy-s25-uiltra-google-pixel-9a-motorola-razr-2024-deals-3545077/)
+ - [Download the Google Pixel 10 wallpapers here](https://www.androidauthority.com/pixel-10-wallpapers-3545096/)
+ - [ChatGPT now has a section for your AI-generated images](https://www.theverge.com/news/649247/chatgpt-image-library)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
