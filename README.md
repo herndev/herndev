@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - ⏩ [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
- - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
+ - 💣 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)
+ - ⏩ [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 👉 [Exciting!](http://9gag.com/gag/avyEXRq)<!-- MEMES:END -->
 
 ---
 
