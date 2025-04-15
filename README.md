@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Are you ready to rock?&#39; Jack Black randomly appears at A Minecraft Movie showing, but jokes that he wants to see &#39;absolutely no chicken jockeys&#39;](https://www.pcgamer.com/movies-tv/are-you-ready-to-rock-jack-black-randomly-appears-at-a-minecraft-movie-showing-but-jokes-that-he-wants-to-see-absolutely-no-chicken-jockeys/)
- - [Intel is selling its 51% stake in Altera, for presumably a few billion, to private firm with over $104 billion in investments](https://www.pcgamer.com/hardware/intel-is-selling-its-51-percent-stake-in-altera-for-presumably-a-few-billion-to-private-firm-with-over-usd104-billion-in-investments/)
- - [Disney Dreamlight Valley Wonderland Whimsy update: Everything you need to know](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-wonderland-whimsy-update/)<!-- GAME:END -->
+ - [One of the best RPG narratives ever told could have gotten a sequel from Dragon Age&#39;s creator if a single publisher had the good taste to throw money at it](https://www.pcgamer.com/games/rpg/one-of-the-best-rpg-narratives-ever-told-could-have-gotten-a-sequel-from-dragon-ages-creator-if-a-single-publisher-had-the-good-taste-to-throw-money-at-it/)
+ - [How to prepare for the Wonderland Whimsy update in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-wonderland-whimsy-update-how-to-prepare/)
+ - [A Minecraft Movie makes $550 million globally with no signs of slowing down, putting it inches behind dethroning Mario from his box office kingdom](https://www.pcgamer.com/movies-tv/a-minecraft-movie-makes-usd550-million-globally-with-no-signs-of-slowing-down-putting-it-inches-behind-dethroning-mario-from-his-box-office-kingdom/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
