@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - ⏩ [Why are they doing this?](http://9gag.com/gag/amomRA4)
- - 👉 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)<!-- MEMES:END -->
+ - 💣 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
+ - ⏩ [Quick reaction](http://9gag.com/gag/a6ZnGbb)
+ - 👉 [Why are they doing this?](http://9gag.com/gag/amomRA4)<!-- MEMES:END -->
 
 ---
 
