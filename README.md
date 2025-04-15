@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notion Mail is a minimalist but powerful take on email](https://www.theverge.com/apps/648464/notion-mail-email-app)
- - [Google may add a Circle to Search-like feature to Gemini Live, and we tried it out &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-live-circle-to-search-apk-teardown-3544849/)
- - [One of my favorite Galaxy S25 features is available on older phones with One UI 7](https://www.androidauthority.com/one-ui-7-gemini-integration-3544785/)<!-- TECH:END -->
+ - [Temu shut off Google Shopping ads in the US on April 9; its App Store app ranking then plummeted from around third or fourth place to 58th in three days &lpar;Anu Adegbola/Search Engine Land&rpar;](http://www.techmeme.com/250415/p18#a250415p18)
+ - [4chan is down after an apparent hack late on April 14; an Imgur post seems to show a hacker gained shell access to 4chan&#39;s hosting server and doxxed some users &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250415/p17#a250415p17)
+ - [4chan’s ‘cesspool of the internet’ is down after apparently being hacked](https://www.theverge.com/news/648908/4chan-hacked-down-outage-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
