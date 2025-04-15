@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TSMC is close to finalizing specs for a new chip packaging method, known in the industry as &quot;panel-level&quot;, to meet rising demand for powerful AI chips &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250414/p38#a250414p38)
- - [How to use Apple Software Restore to clone your Mac&#39;s drive](https://appleinsider.com/inside/macos/tips/how-to-use-apple-software-restore-to-clone-your-macs-drive?utm_medium=rss)
- - [One UI 7 update halted worldwide &lpar;Updated: More rollout details&rpar;](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)<!-- TECH:END -->
+ - [Forget Live Translate: Google is now using Pixel phones to talk to dolphins](https://www.androidauthority.com/google-dolphin-gemma-3544674/)
+ - [Hot foldable deals: Samsung Galaxy Z Fold 6 vs Google Pixel 9 Pro Fold](https://www.androidauthority.com/samsung-galaxy-z-fold-6-google-pixel-9-pro-fold-deals-2-3544623/)
+ - [Sources: TSMC is close to finalizing specs for a new chip packaging method, known in the industry as &quot;panel-level&quot;, to meet rising demand for powerful AI chips &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250414/p38#a250414p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
