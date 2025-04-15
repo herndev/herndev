@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3: Patch 8 Now Live, Bringing 12 New Subclasses](https://news.xbox.com/en-us/2025/04/15/baldurs-gate-3-patch-8-new-subclasses/)
- - [All Schedule 1 employees and how they work](https://www.pcgamer.com/games/sim/schedule-1-employees-workers/)
- - [Elder Scrolls Oblivion Remake Screenshots Leak Online](https://kotaku.com/elder-scrolls-oblivion-remake-remaster-leak-screenshots-1851776236)<!-- GAME:END -->
+ - [Building Lab Rat: Gwen Frey on Logic, Laughter, and Laser Grids](https://news.xbox.com/en-us/2025/04/15/building-lab-rat-gwen-frey-on-logic-laughter-and-laser-grids/)
+ - [My favourite part of Overwatch 2 Stadium are all the wacky ways you can make Soldier 76 the most annoying hero to walk this planet](https://www.pcgamer.com/games/fps/my-favourite-part-of-overwatch-2-stadium-are-all-the-wacky-ways-you-can-make-soldier-76-the-most-annoying-hero-to-walk-this-planet/)
+ - [Space Marine 2 gets a new mission, weapon, boss fight, and big gameplay changes in its latest major update](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-gets-a-new-mission-weapon-boss-fight-and-big-gameplay-changes-in-its-latest-major-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
