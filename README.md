@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-15/#ftag=CAD590a51e)
- - [Forget Live Translate: Google is now using Pixel phones to talk to dolphins](https://www.androidauthority.com/google-dolphin-gemma-3544674/)
- - [Hot foldable deals: Samsung Galaxy Z Fold 6 vs Google Pixel 9 Pro Fold](https://www.androidauthority.com/samsung-galaxy-z-fold-6-google-pixel-9-pro-fold-deals-2-3544623/)<!-- TECH:END -->
+ - [The OnePlus 13T is a small phone with a huge battery, and it launches next week](https://www.androidauthority.com/oneplus-13t-launch-date-3544699/)
+ - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Gemini can now browse Google Photos on your Android phone, but there’s a catch](https://www.androidauthority.com/google-photos-gemini-integration-rolling-out-3544692/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
