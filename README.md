@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The new Asus ROG NUC is a mini PC with an Arrow Lake CPU and RTX 5080 laptop GPU, and is going to be very, very, VERY expensive](https://www.pcgamer.com/hardware/gaming-pcs/the-new-asus-rog-nuc-is-a-mini-pc-with-an-arrow-lake-cpu-and-rtx-5080-laptop-gpu-and-is-going-to-be-very-very-very-expensive/)
  - [Can Fomantis be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/558273/can-fomantis-be-shiny-lurantis)
- - [Today&#39;s Wordle answer for Tuesday, April 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-15-2025/)
- - [Young men are &#39;playing videogames all day&#39; instead of getting jobs because they can mooch off of free healthcare, claims congressman](https://www.pcgamer.com/games/young-men-are-playing-videogames-all-day-instead-of-getting-jobs-because-they-can-mooch-off-of-free-healthcare-claims-congressman/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, April 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-15-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
