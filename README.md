@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unleash Chaos with Five Tips to Become a Hot Rod Mayhem Champion](https://news.xbox.com/en-us/2025/04/15/five-tips-to-become-a-hot-rod-mayhem-champion/)
- - [This &#39;Single-Player MMORPG&#39; Is A Good Fit For Introverts](https://kotaku.com/erenshor-single-player-mmorpg-steam-dungeon-party-guild-1851776313)
- - [Guild Wars is 20 years old now, and that means it&#39;s time for a content update and &#39;the biggest discount in Guild Wars&#39; history&#39;](https://www.pcgamer.com/games/mmo/guild-wars-is-20-years-old-now-and-that-means-its-time-for-a-content-update-and-the-biggest-discount-in-guild-wars-history/)<!-- GAME:END -->
+ - [The Solo Leveling anime is getting a beautiful Blu-ray to commemorate season 1](https://www.polygon.com/anime/559261/solo-leveling-season-1-blu-ray-limited-edition)
+ - [Arc Raiders, the extraction shooter that might finally bring the genre to the masses, is holding a new playtest at the end of April](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-extraction-shooter-that-might-finally-bring-the-genre-to-the-masses-is-holding-a-new-playtest-at-the-end-of-april/)
+ - [Palia&amp;#8217;s community keep building wonders for the Home Tours board](https://www.polygon.com/nintendo/559337/palia-home-tours-creations-player-creativity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
