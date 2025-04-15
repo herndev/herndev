@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13T is a small phone with a huge battery, and it launches next week](https://www.androidauthority.com/oneplus-13t-launch-date-3544699/)
- - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Gemini can now browse Google Photos on your Android phone, but there’s a catch](https://www.androidauthority.com/google-photos-gemini-integration-rolling-out-3544692/)<!-- TECH:END -->
+ - [At the request of South Korean regulator, Apple blocked 14 and Google blocked 17 crypto apps, including exchanges KuCoin and MEXC, from their app stores &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/250415/p2#a250415p2)
+ - [How to Watch the Lyrids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
+ - [The OnePlus 13T is a small phone with a huge battery, and it launches next week](https://www.androidauthority.com/oneplus-13t-launch-date-3544699/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
