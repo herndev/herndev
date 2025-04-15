@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the FCC&#39;s &quot;Delete, Delete, Delete&quot; initiative, meant to identify burdensome rules, as ISPs, broadcasters, and others send in deregulation wishlists &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250415/p29#a250415p29)
- - [Mark Zuckerberg once suggested wiping all Facebook friends lists to boost usage](https://www.theverge.com/news/649246/mark-zuckerberg-facebook-friends-wipe-reset-meta-antitrust-trial)
- - [Blackmagic Design says tariffs have made camera price hikes ‘unavoidable’](https://www.theverge.com/news/649225/blackmagic-design-trump-us-tariffs-price-hike)<!-- TECH:END -->
+ - [This new projector has Netflix, FHD output, and is priced in impulse-buy territory](https://www.androidauthority.com/dangbei-n2-mini-3545037/)
+ - [The CVE program for tracking security flaws is about to lose federal funding](https://www.theverge.com/news/649314/cve-mitre-funding-vulnerabilities-exposures-funding)
+ - [Apple about to launch accessory discount with in-store recycling promotion](https://appleinsider.com/articles/25/04/15/apple-about-to-launch-accessory-discount-with-in-store-recycling-promotion?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
