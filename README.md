@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea increases assistance to semiconductor industry by ~25% to $23.25B amid US tariffs, competition with China; the sector represents 21% of its exports &lpar;Reuters&rpar;](http://www.techmeme.com/250414/p35#a250414p35)
- - [On-device Apple Intelligence training seems to be based on controversial technology](https://appleinsider.com/articles/25/04/14/on-device-apple-intelligence-training-seems-to-be-based-on-controversial-technology?utm_medium=rss)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Science Corp., which was started by Neuralink co-founder Max Hodak to develop a retina and brain implant system, raised over $100M led by Khosla Ventures &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/250414/p37#a250414p37)
+ - [Anker Solix C1000X review: Useful but noisy large power bank](https://appleinsider.com/articles/25/04/15/anker-solix-c1000x-review-useful-but-noisy-large-power-bank?utm_medium=rss)
+ - [This amazing new Samsung monitor comes with a $300 credit and nearly free insurance](https://www.androidauthority.com/samsung-odyssey-g9-g91f-49-inch-gaming-monitor-deal-3544624/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
