@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)
- - ⏩ [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 👉 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)<!-- MEMES:END -->
+ - 💣 [Rosie looks proud](http://9gag.com/gag/a34ypqv)
+ - ⏩ [Palate Cleanse: This IS Their Job!](http://9gag.com/gag/ajPBMwq)
+ - 👉 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)<!-- MEMES:END -->
 
 ---
 
