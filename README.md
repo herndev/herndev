@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dune: Awakening will slumber for just a bit longer](https://www.theverge.com/news/649025/dune-awakening-delayed-release-date-june)
- - [Lucid Gravity 2026 Review: Prices, Specs, Availability](https://www.wired.com/review/lucid-gravity-2026/)
- - [Pixel 9a selfie previews are flickering like mad, but there’s an easy fix](https://www.androidauthority.com/pixel-9a-selfie-bug-3544882/)<!-- TECH:END -->
+ - [OpenAI may be turning ChatGPT into a social media platform](https://www.androidauthority.com/openai-social-media-platform-chatgpt-3545007/)
+ - [Anthropic is reportedly launching a voice AI you can speak to](https://www.theverge.com/news/649175/anthropic-claude-ai-voice-mode-report)
+ - [On TikTok, Chinese factories are trolling anxious American shoppers](https://www.theverge.com/tech/649049/tiktok-chinese-factories-tariffs-birkenstock-hermes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
