@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What you should know before buying refurbished gadgets](https://www.theverge.com/21258681/refurbished-tech-products-gadgets-how-to-buy-used-repair-e-waste)
- - [Sources: activist investor Elliott has built a position worth $1.5B+ in HPE, making it one of the company&#39;s top five shareholders; HPE is down ~30% in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p13#a250415p13)
- - [Android Phones Will Now Automatically Restart After 3 Days if Untouched. Here&#39;s Why](https://www.cnet.com/tech/mobile/android-phones-will-now-automatically-restart-after-3-days-if-untouched-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Notion Mail is a minimalist but powerful take on email](https://www.theverge.com/apps/648464/notion-mail-email-app)
+ - [Google may add a Circle to Search-like feature to Gemini Live, and we tried it out &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-live-circle-to-search-apk-teardown-3544849/)
+ - [One of my favorite Galaxy S25 features is available on older phones with One UI 7](https://www.androidauthority.com/one-ui-7-gemini-integration-3544785/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
