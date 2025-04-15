@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now you can&#39;t have a hobby either](http://9gag.com/gag/a34ynOm)
- - ⏩ [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 👉 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)<!-- MEMES:END -->
+ - 💣 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - ⏩ [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 👉 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)<!-- MEMES:END -->
 
 ---
 
