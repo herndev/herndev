@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
- - ⏩ [I got you...](http://9gag.com/gag/ae9VP6m)
- - 👉 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)<!-- MEMES:END -->
+ - 💣 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
+ - ⏩ [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)
+ - 👉 [`Money can&#39;t buy happiness.`](http://9gag.com/gag/agm8dZ6)<!-- MEMES:END -->
 
 ---
 
