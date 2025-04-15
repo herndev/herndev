@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Physics says they only need 35 km/h &lpar;22 mph&rpar; to stay on the track &lpar;IG:astrokirsten&rpar;](http://9gag.com/gag/aMVnNqA)
- - ⏩ [Rosie looks proud](http://9gag.com/gag/a34ypqv)
- - 👉 [Palate Cleanse: This IS Their Job!](http://9gag.com/gag/ajPBMwq)<!-- MEMES:END -->
+ - 💣 [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)
+ - ⏩ [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 👉 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)<!-- MEMES:END -->
 
 ---
 
