@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Palate Cleanse: This IS Their Job!](http://9gag.com/gag/ajPBMwq)
- - ⏩ [Physics says they only need 35 km/h &lpar;22 mph&rpar; to stay on the track &lpar;IG:astrokirsten&rpar;](http://9gag.com/gag/aMVnNqA)
- - 👉 [Rosie looks proud](http://9gag.com/gag/a34ypqv)<!-- MEMES:END -->
+ - 💣 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
+ - ⏩ [I got you...](http://9gag.com/gag/ae9VP6m)
+ - 👉 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)<!-- MEMES:END -->
 
 ---
 
