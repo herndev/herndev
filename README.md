@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
- - ⏩ [Would you help him ?](http://9gag.com/gag/a34ypwr)
- - 👉 [Goals....](http://9gag.com/gag/a4P5wmy)<!-- MEMES:END -->
+ - 💣 [Physics says they only need 35 km/h &lpar;22 mph&rpar; to stay on the track &lpar;IG:astrokirsten&rpar;](http://9gag.com/gag/aMVnNqA)
+ - ⏩ [Rosie looks proud](http://9gag.com/gag/a34ypqv)
+ - 👉 [Palate Cleanse: This IS Their Job!](http://9gag.com/gag/ajPBMwq)<!-- MEMES:END -->
 
 ---
 
