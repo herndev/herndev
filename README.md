@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft pulls out of two big data centre deals because it reportedly doesn&#39;t want to support more OpenAI training workloads](https://www.pcgamer.com/hardware/microsoft-pulls-out-of-two-big-data-centre-deals-because-it-reportedly-doesnt-want-to-support-more-openai-training-workloads/)
- - [How to tumble launch in REPO](https://www.pcgamer.com/games/horror/repo-tumble-launch/)
- - [The new Asus ROG NUC is a mini PC with an Arrow Lake CPU and RTX 5080 laptop GPU, and is going to be very, very, VERY expensive](https://www.pcgamer.com/hardware/gaming-pcs/the-new-asus-rog-nuc-is-a-mini-pc-with-an-arrow-lake-cpu-and-rtx-5080-laptop-gpu-and-is-going-to-be-very-very-very-expensive/)<!-- GAME:END -->
+ - [&#39;Are you ready to rock?&#39; Jack Black randomly appears at A Minecraft Movie showing, but jokes that he wants to see &#39;absolutely no chicken jockeys&#39;](https://www.pcgamer.com/movies-tv/are-you-ready-to-rock-jack-black-randomly-appears-at-a-minecraft-movie-showing-but-jokes-that-he-wants-to-see-absolutely-no-chicken-jockeys/)
+ - [Intel is selling its 51% stake in Altera, for presumably a few billion, to private firm with over $104 billion in investments](https://www.pcgamer.com/hardware/intel-is-selling-its-51-percent-stake-in-altera-for-presumably-a-few-billion-to-private-firm-with-over-usd104-billion-in-investments/)
+ - [Disney Dreamlight Valley Wonderland Whimsy update: Everything you need to know](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-wonderland-whimsy-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
