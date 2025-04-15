@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mission accompished](http://9gag.com/gag/ajPBG0w)
- - ⏩ [Rosie looks proud](http://9gag.com/gag/a34ypqv)
- - 👉 [Palate Cleanse: This IS Their Job!](http://9gag.com/gag/ajPBMwq)<!-- MEMES:END -->
+ - 💣 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
+ - ⏩ [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
+ - 👉 [Why are they doing this?](http://9gag.com/gag/amomRA4)<!-- MEMES:END -->
 
 ---
 
