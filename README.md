@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
- - ⏩ [Boys vs Girls after 3 Rounds](http://9gag.com/gag/aRBzypj)
- - 👉 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)<!-- MEMES:END -->
+ - 💣 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
+ - ⏩ [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
+ - 👉 [Chicken can be eating medium rare. Hear me out \u2026](http://9gag.com/gag/axybm0Y)<!-- MEMES:END -->
 
 ---
 
