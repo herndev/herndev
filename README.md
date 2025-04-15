@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Solo Leveling anime is getting a beautiful Blu-ray to commemorate season 1](https://www.polygon.com/anime/559261/solo-leveling-season-1-blu-ray-limited-edition)
- - [Arc Raiders, the extraction shooter that might finally bring the genre to the masses, is holding a new playtest at the end of April](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-extraction-shooter-that-might-finally-bring-the-genre-to-the-masses-is-holding-a-new-playtest-at-the-end-of-april/)
- - [Palia&amp;#8217;s community keep building wonders for the Home Tours board](https://www.polygon.com/nintendo/559337/palia-home-tours-creations-player-creativity)<!-- GAME:END -->
+ - [Ryan Coogler&#39;s Sinners Has A Strange Connection To Puss In Boots](https://kotaku.com/ryan-coogler-sinners-puss-in-boots-movie-wolf-eyes-1851776333)
+ - [Get Ghostrunner and 7 other neon-tinted titles for $14](https://www.polygon.com/good-deals/559213/humble-neon-tinted-cyberpunk-ghostrunner-bundle-sale)
+ - [Bethesda Is Selling 2,000 Pieces Of Elder Scrolls Online&#39;s Servers](https://kotaku.com/eso-elder-scrolls-online-server-ram-keepsake-price-july-1851776329)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
