@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)
- - ⏩ [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 👉 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)<!-- MEMES:END -->
+ - 💣 [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)
+ - ⏩ [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - 👉 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)<!-- MEMES:END -->
 
 ---
 
