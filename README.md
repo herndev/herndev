@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s hottest smartphone deals: One of them is free!](https://www.androidauthority.com/samsung-galaxy-s25-uiltra-google-pixel-9a-motorola-razr-2024-deals-3545077/)
- - [Download the Google Pixel 10 wallpapers here](https://www.androidauthority.com/pixel-10-wallpapers-3545096/)
- - [ChatGPT now has a section for your AI-generated images](https://www.theverge.com/news/649247/chatgpt-image-library)<!-- TECH:END -->
+ - [Skullcandy partners with Bose for its new $99 ANC earbuds](https://www.theverge.com/news/649008/skullcandy-method-360-anc-wireless-earbuds-bose-tuning-bluetooth-headphones)
+ - [Mitre, the nonprofit research organization behind the CVE program, says the US government funding needed to develop and operate CVE will expire on April 16 &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250415/p38#a250415p38)
+ - [The student arrested at his naturalization interview knew it was coming](https://www.theverge.com/policy/649427/ice-arrest-mohsen-mahdawi-citizenship-interview-uscis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
