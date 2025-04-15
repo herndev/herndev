@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - ⏩ [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)
- - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
+ - 💣 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - ⏩ [Boys vs Girls after 3 Rounds](http://9gag.com/gag/aRBzypj)
+ - 👉 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)<!-- MEMES:END -->
 
 ---
 
