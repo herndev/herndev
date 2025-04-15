@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US satellite startup Astranis and Taiwanese telco Chunghwa plan to launch a dedicated MicroGEO satellite by the end of 2025, with full bandwidth as soon as 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p9#a250415p9)
- - [FCC Chair Brendan Carr says &quot;allied western democracies&quot; need to focus on China and those &quot;concerned about Starlink&quot; should be more fearful of a Chinese version &lpar;Financial Times&rpar;](http://www.techmeme.com/250415/p8#a250415p8)
- - [Gemini could clean up how it shares sources, similar to ChatGPT &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/gemini-sources-button-apk-3541226/)<!-- TECH:END -->
+ - [The best wireless Android Auto adapter gets even better and is now cheaper with AAWireless’ Easter discount](https://www.androidauthority.com/aawireless-two-android-auto-adapter-easter-discount-3544756/)
+ - [Polaroid’s new instant camera warns you about exposure and focus issues before you shoot](https://www.theverge.com/news/648398/polaroid-flip-instant-camera-sonar-auto-focus-multi-lens)
+ - [Watch out, Samsung: This new phone has a crazy 8,000mAh silicon-carbon battery](https://www.androidauthority.com/honor-power-3544757/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
