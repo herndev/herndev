@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the best RPG narratives ever told could have gotten a sequel from Dragon Age&#39;s creator if a single publisher had the good taste to throw money at it](https://www.pcgamer.com/games/rpg/one-of-the-best-rpg-narratives-ever-told-could-have-gotten-a-sequel-from-dragon-ages-creator-if-a-single-publisher-had-the-good-taste-to-throw-money-at-it/)
- - [How to prepare for the Wonderland Whimsy update in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-wonderland-whimsy-update-how-to-prepare/)
- - [A Minecraft Movie makes $550 million globally with no signs of slowing down, putting it inches behind dethroning Mario from his box office kingdom](https://www.pcgamer.com/movies-tv/a-minecraft-movie-makes-usd550-million-globally-with-no-signs-of-slowing-down-putting-it-inches-behind-dethroning-mario-from-his-box-office-kingdom/)<!-- GAME:END -->
+ - [Cozy adventure Palia opens its doors May 13 on PS5](https://blog.playstation.com/2025/04/15/cozy-adventure-palia-opens-its-doors-may-13-on-ps5/)
+ - [Coming to Game Pass: Clair Obscur: Expedition 33, Towerborne, Call of Duty: Modern Warfare II, and More](https://news.xbox.com/en-us/2025/04/15/xbox-game-pass-april-2025-wave-2/)
+ - [Nvidia RTX 5060 Ti and RTX 5060 announced, starting from $299: &#39;We can work with our partners to get these out at reasonable prices, which we are doing&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5060-ti-and-rtx-5060-announced-starting-from-usd299-we-can-work-with-our-partners-to-get-these-out-at-reasonable-prices-which-we-are-doing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
