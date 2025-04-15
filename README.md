@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Building Lab Rat: Gwen Frey on Logic, Laughter, and Laser Grids](https://news.xbox.com/en-us/2025/04/15/building-lab-rat-gwen-frey-on-logic-laughter-and-laser-grids/)
- - [My favourite part of Overwatch 2 Stadium are all the wacky ways you can make Soldier 76 the most annoying hero to walk this planet](https://www.pcgamer.com/games/fps/my-favourite-part-of-overwatch-2-stadium-are-all-the-wacky-ways-you-can-make-soldier-76-the-most-annoying-hero-to-walk-this-planet/)
- - [Space Marine 2 gets a new mission, weapon, boss fight, and big gameplay changes in its latest major update](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-gets-a-new-mission-weapon-boss-fight-and-big-gameplay-changes-in-its-latest-major-update/)<!-- GAME:END -->
+ - [Space Marine 2 update adds the terrifying Trygon and a new mission](https://www.polygon.com/news/559209/space-marine-2-trygon-update-space-wolves-imperial-fists)
+ - [The Last Of Us Season 2 Starts Off With An Even Bigger Audience Than Season 1](https://kotaku.com/the-last-of-us-season-2-viewership-joel-ellie-1851776274)
+ - [Xbox Game Pass wraps April with Grand Theft Auto 5, Clair Obscur: Expedition 33](https://www.polygon.com/news/559139/xbox-game-pass-april-2025-grand-theft-auto-5-clair-obscur-expedition-33)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
