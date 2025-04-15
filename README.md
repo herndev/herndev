@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the request of South Korean regulator, Apple blocked 14 and Google blocked 17 crypto apps, including exchanges KuCoin and MEXC, from their app stores &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/250415/p2#a250415p2)
- - [How to Watch the Lyrids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [The OnePlus 13T is a small phone with a huge battery, and it launches next week](https://www.androidauthority.com/oneplus-13t-launch-date-3544699/)<!-- TECH:END -->
+ - [An interview with Google VP of Search Elizabeth Reid on AI Overviews&#39; launch a year ago, the future of AI search, its impact on the ad revenue model, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250415/p3#a250415p3)
+ - [Samsung will resume the One UI 7 rollout sooner than you think &lpar;Updated: Confirmed&rpar;](https://www.androidauthority.com/one-ui-7-rollout-resuming-3544322/)
+ - [Best Internet Providers in Billings, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-billings-mt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
