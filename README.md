@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Young men are &#39;playing videogames all day&#39; instead of getting jobs because they can mooch off of free healthcare, claims congressman](https://www.pcgamer.com/games/young-men-are-playing-videogames-all-day-instead-of-getting-jobs-because-they-can-mooch-off-of-free-healthcare-claims-congressman/)
  - [Balatro&#39;s publisher beat gold stakes and the Jokerless challenge so quickly it even surprised LocalThunk: &#39;How did you do this so fast?&#39;](https://www.pcgamer.com/games/card-games/balatros-publisher-beat-gold-stakes-and-the-jokerless-challenge-so-quickly-it-even-surprised-localthunk-how-did-you-do-this-so-fast/)
- - [My biggest pleasant surprise of 2025 so far has been the free prequel to one of my favorite indie RPGs, made with FromSoft&#39;s 25-year-old game making toolset](https://www.pcgamer.com/games/rpg/my-biggest-pleasant-surprise-of-2025-so-far-has-been-the-free-prequel-to-one-of-my-favorite-indie-rpgs-made-with-fromsofts-25-year-old-game-making-toolset/)
- - [&#39;Oh god&#39;: There&#39;s a buried Steam help page that shows how much money you&#39;ve ever spent on the platform, and you may not want to know](https://www.pcgamer.com/games/steam-total-account-spend/)<!-- GAME:END -->
+ - [My biggest pleasant surprise of 2025 so far has been the free prequel to one of my favorite indie RPGs, made with FromSoft&#39;s 25-year-old game making toolset](https://www.pcgamer.com/games/rpg/my-biggest-pleasant-surprise-of-2025-so-far-has-been-the-free-prequel-to-one-of-my-favorite-indie-rpgs-made-with-fromsofts-25-year-old-game-making-toolset/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
