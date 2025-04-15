@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are they doing this?](http://9gag.com/gag/amomRA4)
- - ⏩ [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
- - 👉 [`Money can&#39;t buy happiness.`](http://9gag.com/gag/agm8dZ6)<!-- MEMES:END -->
+ - 💣 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
+ - ⏩ [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - 👉 [Goals....](http://9gag.com/gag/a4P5wmy)<!-- MEMES:END -->
 
 ---
 
