@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - ⏩ [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
- - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
+ - 💣 [The never-ending pursuit of post-vacation motivation.](http://9gag.com/gag/aoy4GNn)
+ - ⏩ [Weakness disgusts me](http://9gag.com/gag/aAy4q5d)
+ - 👉 [And this is how real depression looks like](http://9gag.com/gag/apRPjZD)<!-- MEMES:END -->
 
 ---
 
