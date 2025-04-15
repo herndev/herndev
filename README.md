@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
- - ⏩ [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
- - 👉 [Chicken can be eating medium rare. Hear me out \u2026](http://9gag.com/gag/axybm0Y)<!-- MEMES:END -->
+ - 💣 [Guys? is that the... you know... the secs?](http://9gag.com/gag/aByPNoD)
+ - ⏩ [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - 👉 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)<!-- MEMES:END -->
 
 ---
 
