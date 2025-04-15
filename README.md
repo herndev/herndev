@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you help him ?](http://9gag.com/gag/a34ypwr)
- - ⏩ [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 👉 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)<!-- MEMES:END -->
+ - 💣 [Now you can&#39;t have a hobby either](http://9gag.com/gag/a34ynOm)
+ - ⏩ [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
+ - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
 
 ---
 
