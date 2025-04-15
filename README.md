@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys? is that the... you know... the secs?](http://9gag.com/gag/aByPNoD)
+ - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
  - ⏩ [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
- - 👉 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)<!-- MEMES:END -->
+ - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
 
 ---
 
