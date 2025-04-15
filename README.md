@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Asus ROG NUC is a mini PC with an Arrow Lake CPU and RTX 5080 laptop GPU, and is going to be very, very, VERY expensive](https://www.pcgamer.com/hardware/gaming-pcs/the-new-asus-rog-nuc-is-a-mini-pc-with-an-arrow-lake-cpu-and-rtx-5080-laptop-gpu-and-is-going-to-be-very-very-very-expensive/)
- - [Can Fomantis be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/558273/can-fomantis-be-shiny-lurantis)
- - [Today&#39;s Wordle answer for Tuesday, April 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-15-2025/)<!-- GAME:END -->
+ - [Microsoft pulls out of two big data centre deals because it reportedly doesn&#39;t want to support more OpenAI training workloads](https://www.pcgamer.com/hardware/microsoft-pulls-out-of-two-big-data-centre-deals-because-it-reportedly-doesnt-want-to-support-more-openai-training-workloads/)
+ - [How to tumble launch in REPO](https://www.pcgamer.com/games/horror/repo-tumble-launch/)
+ - [The new Asus ROG NUC is a mini PC with an Arrow Lake CPU and RTX 5080 laptop GPU, and is going to be very, very, VERY expensive](https://www.pcgamer.com/hardware/gaming-pcs/the-new-asus-rog-nuc-is-a-mini-pc-with-an-arrow-lake-cpu-and-rtx-5080-laptop-gpu-and-is-going-to-be-very-very-very-expensive/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
