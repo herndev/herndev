@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg takes the stand](https://www.theverge.com/policy/648666/mark-zuckerberg-meta-ftc-trial-testimony-instagram)
- - [Breaking: Samsung could resume the One UI 7 rollout sooner than you think](https://www.androidauthority.com/one-ui-7-rollout-resuming-3544322/)
- - [Science Corp., which was started by Neuralink co-founder Max Hodak to develop a retina and brain implant system, raised over $100M led by Khosla Ventures &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/250414/p37#a250414p37)<!-- TECH:END -->
+ - [Sources: TSMC is close to finalizing specs for a new chip packaging method, known in the industry as &quot;panel-level&quot;, to meet rising demand for powerful AI chips &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250414/p38#a250414p38)
+ - [How to use Apple Software Restore to clone your Mac&#39;s drive](https://appleinsider.com/inside/macos/tips/how-to-use-apple-software-restore-to-clone-your-macs-drive?utm_medium=rss)
+ - [One UI 7 update halted worldwide &lpar;Updated: More rollout details&rpar;](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
