@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rosie looks proud](http://9gag.com/gag/a34ypqv)
- - ⏩ [Palate Cleanse: This IS Their Job!](http://9gag.com/gag/ajPBMwq)
- - 👉 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)<!-- MEMES:END -->
+ - 💣 [Mission accompished](http://9gag.com/gag/ajPBG0w)
+ - ⏩ [Rosie looks proud](http://9gag.com/gag/a34ypqv)
+ - 👉 [Palate Cleanse: This IS Their Job!](http://9gag.com/gag/ajPBMwq)<!-- MEMES:END -->
 
 ---
 
