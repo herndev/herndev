@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
- - ⏩ [Quick reaction](http://9gag.com/gag/a6ZnGbb)
- - 👉 [Why are they doing this?](http://9gag.com/gag/amomRA4)<!-- MEMES:END -->
+ - 💣 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
+ - ⏩ [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)
+ - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
 
 ---
 
