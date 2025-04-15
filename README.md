@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-15/#ftag=CAD590a51e)
  - [Forget Live Translate: Google is now using Pixel phones to talk to dolphins](https://www.androidauthority.com/google-dolphin-gemma-3544674/)
- - [Hot foldable deals: Samsung Galaxy Z Fold 6 vs Google Pixel 9 Pro Fold](https://www.androidauthority.com/samsung-galaxy-z-fold-6-google-pixel-9-pro-fold-deals-2-3544623/)
- - [Sources: TSMC is close to finalizing specs for a new chip packaging method, known in the industry as &quot;panel-level&quot;, to meet rising demand for powerful AI chips &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250414/p38#a250414p38)<!-- TECH:END -->
+ - [Hot foldable deals: Samsung Galaxy Z Fold 6 vs Google Pixel 9 Pro Fold](https://www.androidauthority.com/samsung-galaxy-z-fold-6-google-pixel-9-pro-fold-deals-2-3544623/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
