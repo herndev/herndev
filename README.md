@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cozy adventure Palia opens its doors May 13 on PS5](https://blog.playstation.com/2025/04/15/cozy-adventure-palia-opens-its-doors-may-13-on-ps5/)
- - [Coming to Game Pass: Clair Obscur: Expedition 33, Towerborne, Call of Duty: Modern Warfare II, and More](https://news.xbox.com/en-us/2025/04/15/xbox-game-pass-april-2025-wave-2/)
- - [Nvidia RTX 5060 Ti and RTX 5060 announced, starting from $299: &#39;We can work with our partners to get these out at reasonable prices, which we are doing&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5060-ti-and-rtx-5060-announced-starting-from-usd299-we-can-work-with-our-partners-to-get-these-out-at-reasonable-prices-which-we-are-doing/)<!-- GAME:END -->
+ - [Lushfoil Photography Sim: Capturing The World’s Beauty Through A New Lens](https://news.xbox.com/en-us/2025/04/15/lushfoil-photography-sim-capturing-the-worlds-beauty-through-a-new-lens/)
+ - [How to use the brick press in Schedule 1](https://www.pcgamer.com/games/sim/schedule-1-brick-press/)
+ - [Laurence Fishburne Claims Makers Of The Matrix 4 ‘Didn’t Respond Well’ To His Offer To Be In The Film](https://kotaku.com/laurence-fishburne-reason-for-not-being-in-matrix-4-1851776196)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
