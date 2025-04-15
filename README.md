@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The never-ending pursuit of post-vacation motivation.](http://9gag.com/gag/aoy4GNn)
- - ⏩ [Weakness disgusts me](http://9gag.com/gag/aAy4q5d)
- - 👉 [And this is how real depression looks like](http://9gag.com/gag/apRPjZD)<!-- MEMES:END -->
+ - 💣 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
+ - ⏩ [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 👉 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)<!-- MEMES:END -->
 
 ---
 
