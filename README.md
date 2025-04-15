@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
- - ⏩ [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 👉 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)<!-- MEMES:END -->
+ - 💣 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - ⏩ [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
+ - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
 
 ---
 
