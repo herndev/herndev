@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Purple Carrot Meal Kit Review: Worth the Prep Time](https://www.wired.com/review/purple-carrot-meal-kit/)
- - [Samsung’s version of Android Auto has a clever notification trick](https://www.androidauthority.com/samsung-location-based-navigation-3544545/)
- - [Nanoleaf’s new pegboard dock lights up your accessories and room](https://www.theverge.com/news/648318/nanoleaf-pegboard-desk-dock-lighting-charging)<!-- TECH:END -->
+ - [What you should know before buying refurbished gadgets](https://www.theverge.com/21258681/refurbished-tech-products-gadgets-how-to-buy-used-repair-e-waste)
+ - [Sources: activist investor Elliott has built a position worth $1.5B+ in HPE, making it one of the company&#39;s top five shareholders; HPE is down ~30% in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p13#a250415p13)
+ - [Android Phones Will Now Automatically Restart After 3 Days if Untouched. Here&#39;s Why](https://www.cnet.com/tech/mobile/android-phones-will-now-automatically-restart-after-3-days-if-untouched-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
