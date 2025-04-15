@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest Elden Ring Nightreign character reveal is an aging viking whose hobbies include swigging ale and punching dragons in the jaw](https://www.pcgamer.com/games/rpg/the-latest-elden-ring-nightreign-character-reveal-is-an-aging-viking-whose-hobbies-include-swigging-ale-and-punching-dragons-in-the-jaw/)
- - [Ryan Coogler&#39;s Sinners Has A Strange Connection To Puss In Boots](https://kotaku.com/ryan-coogler-sinners-puss-in-boots-movie-wolf-eyes-1851776333)
- - [Get Ghostrunner and 7 other neon-tinted titles for $14](https://www.polygon.com/good-deals/559213/humble-neon-tinted-cyberpunk-ghostrunner-bundle-sale)<!-- GAME:END -->
+ - [What to know about Daredevil: Born Again season 2](https://www.polygon.com/marvel/558725/daredevil-born-again-season-2-release-date-fisk-mayor)
+ - [Phil Spencer says not every game has to have &#39;a movie or a TV show&#39; tie-in, but promises &#39;you&#39;re going to see more&#39; adaptations of Microsoft games](https://www.pcgamer.com/movies-tv/phil-spencer-says-not-every-game-has-to-have-a-movie-or-a-tv-show-tie-in-but-promises-youre-going-to-see-more-adaptations-of-microsoft-games/)
+ - [I can&#39;t believe I&#39;m saying this but Skull and Bones Year 2 is real, and it&#39;s live now](https://www.pcgamer.com/games/action/i-cant-believe-im-saying-this-but-skull-and-bones-year-2-is-real-and-its-live-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
