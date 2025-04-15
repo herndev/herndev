@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Science Corp., which was started by Neuralink co-founder Max Hodak to develop a retina and brain implant system, raised over $100M led by Khosla Ventures &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/250414/p37#a250414p37)
- - [Anker Solix C1000X review: Useful but noisy large power bank](https://appleinsider.com/articles/25/04/15/anker-solix-c1000x-review-useful-but-noisy-large-power-bank?utm_medium=rss)
- - [This amazing new Samsung monitor comes with a $300 credit and nearly free insurance](https://www.androidauthority.com/samsung-odyssey-g9-g91f-49-inch-gaming-monitor-deal-3544624/)<!-- TECH:END -->
+ - [Mark Zuckerberg takes the stand](https://www.theverge.com/policy/648666/mark-zuckerberg-meta-ftc-trial-testimony-instagram)
+ - [Breaking: Samsung could resume the One UI 7 rollout sooner than you think](https://www.androidauthority.com/one-ui-7-rollout-resuming-3544322/)
+ - [Science Corp., which was started by Neuralink co-founder Max Hodak to develop a retina and brain implant system, raised over $100M led by Khosla Ventures &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/250414/p37#a250414p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
