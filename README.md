@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best wireless Android Auto adapter gets even better and is now cheaper with AAWireless’ Easter discount](https://www.androidauthority.com/aawireless-two-android-auto-adapter-easter-discount-3544756/)
- - [Polaroid’s new instant camera warns you about exposure and focus issues before you shoot](https://www.theverge.com/news/648398/polaroid-flip-instant-camera-sonar-auto-focus-multi-lens)
- - [Watch out, Samsung: This new phone has a crazy 8,000mAh silicon-carbon battery](https://www.androidauthority.com/honor-power-3544757/)<!-- TECH:END -->
+ - [Purple Carrot Meal Kit Review: Worth the Prep Time](https://www.wired.com/review/purple-carrot-meal-kit/)
+ - [Samsung’s version of Android Auto has a clever notification trick](https://www.androidauthority.com/samsung-location-based-navigation-3544545/)
+ - [Nanoleaf’s new pegboard dock lights up your accessories and room](https://www.theverge.com/news/648318/nanoleaf-pegboard-desk-dock-lighting-charging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
