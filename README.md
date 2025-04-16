@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s carbon footprint is shrinking](https://www.theverge.com/news/650082/apple-environmental-progress-report-greenhouse-gas-emissions-climate-energy)
- - [Indian EV ride-hailing startup BluSmart appears to have suspended service a day after regulators launched a probe into Gensol, which shares its co-founders &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250416/p47#a250416p47)
- - [Zoom is down](https://www.theverge.com/news/650123/zoom-down-outage-video-calls)<!-- TECH:END -->
+ - [YouTube is testing giant homepage thumbnails, and people really hate it](https://www.androidauthority.com/youtube-large-thumbnails-3545453/)
+ - [Samsung Galaxy Ring 2 wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-ring-2-3543772/)
+ - [Former CISA Director Chris Krebs says he is resigning from SentinelOne to more freely challenge the White House, after Trump directed the DOJ to investigate him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250416/p49#a250416p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
