@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FOI documents: Australian Communications Minister Michelle Rowland gave a personal guarantee to YouTube that it would be exempt from a teen social media ban &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/250416/p15#a250416p15)
- - [Sources: Nvidia did not warn at least some major customers in advance about new US export rules on its H20 chips to China; the US told Nvidia about a week ago &lpar;Reuters&rpar;](http://www.techmeme.com/250416/p14#a250416p14)
- - [WhatsApp could copy Snapchat’s screenshot detection for your status &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-screenshot-detection-apk-teardown-3545163/)<!-- TECH:END -->
+ - [Samsung vs Apple initial 2025 numbers are in, and it’s a surprisingly close contest](https://www.androidauthority.com/global-smartphone-market-share-q1-2025-3545202/)
+ - [Google says it suspended 39.2M US advertiser accounts on its platform in 2024, up over 3x from 12.7M in 2023, and took down 1.8B ads, aided by new AI tools &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250416/p18#a250416p18)
+ - [The &amp;#8216;Oscars of Science&amp;#8217; can&amp;#8217;t take a Trump joke](https://www.theverge.com/news/649558/breakthrough-prize-seth-rogan-trump-joke-removed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
