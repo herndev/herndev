@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, April 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-16-2025/)
  - [What to know about Daredevil: Born Again season 2](https://www.polygon.com/marvel/558725/daredevil-born-again-season-2-release-date-fisk-mayor)
- - [Phil Spencer says not every game has to have &#39;a movie or a TV show&#39; tie-in, but promises &#39;you&#39;re going to see more&#39; adaptations of Microsoft games](https://www.pcgamer.com/movies-tv/phil-spencer-says-not-every-game-has-to-have-a-movie-or-a-tv-show-tie-in-but-promises-youre-going-to-see-more-adaptations-of-microsoft-games/)
- - [I can&#39;t believe I&#39;m saying this but Skull and Bones Year 2 is real, and it&#39;s live now](https://www.pcgamer.com/games/action/i-cant-believe-im-saying-this-but-skull-and-bones-year-2-is-real-and-its-live-now/)<!-- GAME:END -->
+ - [Phil Spencer says not every game has to have &#39;a movie or a TV show&#39; tie-in, but promises &#39;you&#39;re going to see more&#39; adaptations of Microsoft games](https://www.pcgamer.com/movies-tv/phil-spencer-says-not-every-game-has-to-have-a-movie-or-a-tv-show-tie-in-but-promises-youre-going-to-see-more-adaptations-of-microsoft-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
