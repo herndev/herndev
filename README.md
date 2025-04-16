@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
- - ⏩ [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - 👉 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)<!-- MEMES:END -->
+ - 💣 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
+ - ⏩ [Recognize these two?](http://9gag.com/gag/a34yD7r)
+ - 👉 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)<!-- MEMES:END -->
 
 ---
 
