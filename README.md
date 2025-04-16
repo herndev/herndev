@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Biblically accurate Max Verstappen](http://9gag.com/gag/ayNWzgb)
- - ⏩ [Hehe](http://9gag.com/gag/aE0oKEo)
- - 👉 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)<!-- MEMES:END -->
+ - 💣 [TVs back then: immovable giants of status](http://9gag.com/gag/a0e6g4d)
+ - ⏩ [Right man in the wrong place](http://9gag.com/gag/aAy4Lwp)
+ - 👉 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)<!-- MEMES:END -->
 
 ---
 
