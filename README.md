@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
- - ⏩ [Recognize these two?](http://9gag.com/gag/a34yD7r)
- - 👉 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)<!-- MEMES:END -->
+ - 💣 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
+ - ⏩ [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)
+ - 👉 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)<!-- MEMES:END -->
 
 ---
 
