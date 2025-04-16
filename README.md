@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says o3 and o4-mini are its first reasoning models that can use all ChatGPT tools, including web browsing, Python, and image generation &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250416/p41#a250416p41)
- - [Apple releases security updates for iOS 18.4.1, macOS Sequoia 15.4.1](https://appleinsider.com/articles/25/04/16/apple-releases-security-updates-for-ios-1841-macos-sequoia-1541?utm_medium=rss)
- - [OpenAI says o3 and o4-mini represent a significant breakthrough in visual perception by reasoning with images in their chain of thought &lpar;OpenAI&rpar;](http://www.techmeme.com/250416/p40#a250416p40)<!-- TECH:END -->
+ - [Verizon’s best plan might be getting even better, in more ways than one](https://www.androidauthority.com/verizon-ultimate-plan-upgrades-3545426/)
+ - [Sources: the Trump administration plans to eliminate the IRS&#39; free Direct File tax program, after IRS staff were told in mid-March to stop working on it &lpar;Fatima Hussein/Associated Press&rpar;](http://www.techmeme.com/250416/p44#a250416p44)
+ - [Apple releases security updates for iOS 18.4.1, macOS Sequoia 15.4.1](https://appleinsider.com/articles/25/04/16/apple-releases-security-updates-for-ios-1841-macos-sequoia-1541?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
