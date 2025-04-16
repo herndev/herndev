@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stand up for your rights](http://9gag.com/gag/amomKxd)
- - ⏩ [WTF](http://9gag.com/gag/a4P58xZ)
- - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
+ - 💣 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
+ - ⏩ [Stand up for your rights](http://9gag.com/gag/amomKxd)
+ - 👉 [WTF](http://9gag.com/gag/a4P58xZ)<!-- MEMES:END -->
 
 ---
 
