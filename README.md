@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox April Update: Buy Games with the Xbox App on Mobile, Stream Your Own Game on Console, and More](https://news.xbox.com/en-us/2025/04/16/xbox-april-update-buy-games-xbx-app-stream-your-own-game-console/)
- - [The new side-scroller from the developer of Blasphemous isn&#39;t as brutal as you might expect—but it is a seriously satisfying slice of retro ninja action](https://www.pcgamer.com/games/action/the-new-side-scroller-from-the-developer-of-blasphemous-isnt-as-brutal-as-you-might-expect-but-it-is-a-seriously-satisfying-slice-of-retro-ninja-action/)
- - [Scientists have created a random number generator that&#39;s truly random—and no, that&#39;s not an easy thing to do at all](https://www.pcgamer.com/hardware/scientists-have-created-a-random-number-generator-thats-truly-random-and-no-thats-not-easy-at-all/)<!-- GAME:END -->
+ - [Black Mirror’s Thronglets might not be a template, says Netflix Games lead, but it’s the future](https://www.polygon.com/q-and-a/557920/black-mirror-thronglets-netflix-games-secrets)
+ - [How to use the Pump Room to drain the Pool in Blue Prince](https://www.polygon.com/blue-prince-guides/556383/pump-room-how-to-use-drain-water)
+ - [I&#39;m declaring 2025 the year of the ninja: we&#39;re being spoiled with one glorious assassination game after another](https://www.pcgamer.com/games/im-declaring-2025-the-year-of-the-ninja-were-being-spoiled-with-one-glorious-assassination-game-after-another/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
