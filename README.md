@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Maury, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-maury-tn/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-16/#ftag=CAD590a51e)
- - [Indian food delivery and quick commerce platform Swiggy launches Pyng, an online marketplace to let users find verified professionals like financial advisors &lpar;Debaroti Adhikary/Moneycontrol&rpar;](http://www.techmeme.com/250416/p2#a250416p2)<!-- TECH:END -->
+ - [Inside San Francisco-based live-in startup accelerator HF0, whose alumni include OpenSea&#39;s founders; HF0&#39;s latest fund is $100M, up from its previous $16M fund &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/250416/p8#a250416p8)
+ - [European carmakers are increasingly doing deals with Chinese rivals to prevent them from falling behind in core areas such as software and autonomous driving &lpar;Financial Times&rpar;](http://www.techmeme.com/250416/p7#a250416p7)
+ - [BougeRV’s electric wagon is the uphill king and downhill menace](https://www.theverge.com/reviews/648903/bougerv-wagon-cart-review-hill-price-sand)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
