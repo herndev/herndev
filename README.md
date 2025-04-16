@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
- - ⏩ [Stand up for your rights](http://9gag.com/gag/amomKxd)
- - 👉 [WTF](http://9gag.com/gag/a4P58xZ)<!-- MEMES:END -->
+ - 💣 [Right man in the wrong place](http://9gag.com/gag/aAy4Lwp)
+ - ⏩ [Hehe](http://9gag.com/gag/aE0oKEo)
+ - 👉 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)<!-- MEMES:END -->
 
 ---
 
