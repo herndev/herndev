@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - ⏩ [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)
- - 👉 [WTF](http://9gag.com/gag/a4P58xZ)<!-- MEMES:END -->
+ - 💣 [Biblically accurate Max Verstappen](http://9gag.com/gag/ayNWzgb)
+ - ⏩ [Hehe](http://9gag.com/gag/aE0oKEo)
+ - 👉 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)<!-- MEMES:END -->
 
 ---
 
