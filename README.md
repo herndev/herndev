@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women would never know this feeling](http://9gag.com/gag/a4P5mNm)
- - ⏩ [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 👉 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)<!-- MEMES:END -->
+ - 💣 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - ⏩ [WTF](http://9gag.com/gag/a4P58xZ)
+ - 👉 [Recognize these two?](http://9gag.com/gag/a34yD7r)<!-- MEMES:END -->
 
 ---
 
