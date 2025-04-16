@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Next Apple Vision headset may use titanium to cut weight](https://appleinsider.com/articles/25/04/16/next-apple-vision-headset-may-use-titanium-to-cut-weight?utm_medium=rss)
- - [Anker’s new UV printer can create fake wood and paint textures on various materials](https://www.theverge.com/news/649760/anker-eufymake-uv-printer-e1-kickstarter)
- - [Google clarifies what’s happening with Android’s auto-reboot feature](https://www.androidauthority.com/android-auto-reboot-optional-3545366/)<!-- TECH:END -->
+ - [How to set up Do Not Disturb modes on your Android phone](https://www.theverge.com/how-to/649276/do-not-disturb-android-galaxy-how-to)
+ - [OpenAI’s upgraded o3 model can use images when reasoning](https://www.theverge.com/news/649941/openai-o3-o4-mini-model-images-reasoning)
+ - [CVE program gets its funding back, and new foundation promises long-term stability](https://www.androidauthority.com/cve-funding-3545322/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
