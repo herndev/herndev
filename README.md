@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink, which entered Nigeria in January 2023, ranks second among pure-play ISPs with 65K+ Nigerian subscribers in Q3 2024 due to reliable, high-speed access &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250416/p10#a250416p10)
- - [ASML reports Q1 net sales up 46% YoY to €7.74B, vs. €7.8B est., a €2.36B net profit, €3.94B net bookings, below €4.89B est., and warns of tariff uncertainty &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250416/p9#a250416p9)
- - [Samsung’s One UI 8 hands-on shows a disguised One UI 7.1 update](https://www.androidauthority.com/one-ui-8-leaked-build-changes-3545160/)<!-- TECH:END -->
+ - [FOI documents: Australian Communications Minister Michelle Rowland gave a personal guarantee to YouTube that it would be exempt from a teen social media ban &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/250416/p15#a250416p15)
+ - [Sources: Nvidia did not warn at least some major customers in advance about new US export rules on its H20 chips to China; the US told Nvidia about a week ago &lpar;Reuters&rpar;](http://www.techmeme.com/250416/p14#a250416p14)
+ - [WhatsApp could copy Snapchat’s screenshot detection for your status &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-screenshot-detection-apk-teardown-3545163/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
