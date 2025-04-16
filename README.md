@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple cuts more than 60% of its global greenhouse gas emissions](https://appleinsider.com/articles/25/04/16/apple-cuts-more-than-60-of-its-global-greenhouse-gas-emissions?utm_medium=rss)
- - [Spotify is down](https://www.theverge.com/news/649632/spotify-is-down-outage-report-uk-us)
- - [Spotify is down in the US, Europe, and more; users reported issues from 8:00AM ET, and Spotify says it is &quot;aware of the outage&quot; and it is not &quot;a security hack&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250416/p32#a250416p32)<!-- TECH:END -->
+ - [Next Apple Vision headset may use titanium to cut weight](https://appleinsider.com/articles/25/04/16/next-apple-vision-headset-may-use-titanium-to-cut-weight?utm_medium=rss)
+ - [Anker’s new UV printer can create fake wood and paint textures on various materials](https://www.theverge.com/news/649760/anker-eufymake-uv-printer-e1-kickstarter)
+ - [Google clarifies what’s happening with Android’s auto-reboot feature](https://www.androidauthority.com/android-auto-reboot-optional-3545366/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
