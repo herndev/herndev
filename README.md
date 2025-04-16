@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fair enough](http://9gag.com/gag/aVvmrn8)
- - ⏩ [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)
+ - 💣 [Over a game?](http://9gag.com/gag/a87Dvrp)
+ - ⏩ [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
  - 👉 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)<!-- MEMES:END -->
 
 ---
