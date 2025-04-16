@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Galaxy AI tool isn’t available in most countries, and maybe that’s for the best](https://www.androidauthority.com/galaxy-ai-social-composer-3544596/)
- - [Back Market and iFixit Want You to Use Your Phone for at Least 5 Years](https://www.wired.com/story/back-market-ifixit-partnership-repair/)
- - [PNY GeForce RTX 5060 Ti OC Review: High-Definition Gaming](https://www.wired.com/review/pny-geforce-rtx-5060-ti-oc/)<!-- TECH:END -->
+ - [WhatsApp could take a page from Instagram with music cards for status updates &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-status-update-music-cards-apk-teardown-3545244/)
+ - [CISA says it will extend funding to Mitre, which runs the CVE Program, and &quot;there will be no lapse in critical CVE services&quot;, after Mitre said funding expired &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250416/p28#a250416p28)
+ - [Get rewarded for recycling with Apple&#39;s 2025 Earth Day offer](https://appleinsider.com/articles/25/04/16/get-rewarded-for-recycling-with-apples-2025-earth-day-offer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
