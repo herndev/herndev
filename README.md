@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
- - ⏩ [WTF](http://9gag.com/gag/a4P58xZ)
- - 👉 [Recognize these two?](http://9gag.com/gag/a34yD7r)<!-- MEMES:END -->
+ - 💣 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)
+ - ⏩ [Exciting!](http://9gag.com/gag/avyEXRq)
+ - 👉 [When your staircase is more festive than your ornaments](http://9gag.com/gag/aRBz807)<!-- MEMES:END -->
 
 ---
 
