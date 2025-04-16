@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bubble Gum Simulator Infinity codes for April 2025](https://www.polygon.com/roblox-guides/559581/bubble-gum-simulator-infinity-codes-list-all)
- - [Lost Records: Bloom &amp; Rage Ends On A Lovely, If Uneven Note](https://kotaku.com/lost-records-bloom-rage-tape-2-review-dont-nod-swann-1851776436)
- - [Genshin Impact codes for April 2025](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)<!-- GAME:END -->
+ - [Vincent D’Onofrio Already Has Daredevil: Born Again Season 2 Updates](https://kotaku.com/vincent-d-onofrio-daredevil-season-1-finale-season-2-1851776447)
+ - [Bloober Team delivers an ominous warning in the first gameplay trailer for its next game: &#39;Don&#39;t let them merge&#39;](https://www.pcgamer.com/games/horror/bloober-team-delivers-an-ominous-warning-in-the-first-gameplay-trailer-for-its-next-game-dont-let-them-merge/)
+ - [CD Projekt warns against fake Witcher 4 beta test invites: &#39;This is a scam&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-warns-against-fake-witcher-4-beta-test-invites-this-is-a-scam/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
