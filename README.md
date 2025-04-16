@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: chip industry executives told US officials and lawmakers that Trump&#39;s new tariffs could cost US semiconductor equipment makers more than $1B a year &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250415/p39#a250415p39)
- - [Charging accessory deals from UGREEN, ASUS, and Best Buy](https://www.androidauthority.com/charging-accessory-deals-from-ugreen-asus-and-best-buy-3545076/)
- - [Skullcandy partners with Bose for its new $99 ANC earbuds](https://www.theverge.com/news/649008/skullcandy-method-360-anc-wireless-earbuds-bose-tuning-bluetooth-headphones)<!-- TECH:END -->
+ - [Zuckerberg&amp;#8217;s antitrust testimony aired his wildest ideas in Meta&amp;#8217;s history](https://www.theverge.com/policy/649520/zuckerberg-meta-ftc-antitrust-testimony-facebook-history)
+ - [Deal: The amazing Sony WH-1000XM5 headphones are $71.99 off](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-3-3545075/)
+ - [Email: Mark Zuckerberg offered to buy Snapchat for $6B in 2013; Zuckerberg testified that he thought Snapchat &quot;wasn&#39;t growing at the potential that it could&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/250415/p40#a250415p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
