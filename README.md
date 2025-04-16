@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
- - ⏩ [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)
- - 👉 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)<!-- MEMES:END -->
+ - 💣 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)
+ - ⏩ [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
+ - 👉 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)<!-- MEMES:END -->
 
 ---
 
