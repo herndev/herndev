@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remastering Recent Games Is A Pointless, Sisyphean Task](https://kotaku.com/oblivion-remaster-bethesda-remakes-games-preservation-1851776388)
- - [The new Nvidia driver comes with a looooong list of fixes and a dozen of these fix black screen issues](https://www.pcgamer.com/hardware/graphics-cards/the-new-nvidia-driver-comes-with-a-looooong-list-of-fixes-and-a-dozen-of-these-fix-black-screen-issues/)
- - [MrBeast Fans Demand Refunds After ‘Horrible’ Las Vegas Event](https://kotaku.com/mrbeast-jimmy-donaldson-las-vegas-experience-refunds-1851776392)<!-- GAME:END -->
+ - [Xbox April Update: Buy Games with the Xbox App on Mobile, Stream Your Own Game on Console, and More](https://news.xbox.com/en-us/2025/04/16/xbox-april-update-buy-games-xbx-app-stream-your-own-game-console/)
+ - [The new side-scroller from the developer of Blasphemous isn&#39;t as brutal as you might expect—but it is a seriously satisfying slice of retro ninja action](https://www.pcgamer.com/games/action/the-new-side-scroller-from-the-developer-of-blasphemous-isnt-as-brutal-as-you-might-expect-but-it-is-a-seriously-satisfying-slice-of-retro-ninja-action/)
+ - [Scientists have created a random number generator that&#39;s truly random—and no, that&#39;s not an easy thing to do at all](https://www.pcgamer.com/hardware/scientists-have-created-a-random-number-generator-thats-truly-random-and-no-thats-not-easy-at-all/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
