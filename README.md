@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skullcandy partners with Bose for its new $99 ANC earbuds](https://www.theverge.com/news/649008/skullcandy-method-360-anc-wireless-earbuds-bose-tuning-bluetooth-headphones)
- - [Mitre, the nonprofit research organization behind the CVE program, says the US government funding needed to develop and operate CVE will expire on April 16 &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250415/p38#a250415p38)
- - [The student arrested at his naturalization interview knew it was coming](https://www.theverge.com/policy/649427/ice-arrest-mohsen-mahdawi-citizenship-interview-uscis)<!-- TECH:END -->
+ - [Sources: chip industry executives told US officials and lawmakers that Trump&#39;s new tariffs could cost US semiconductor equipment makers more than $1B a year &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250415/p39#a250415p39)
+ - [Charging accessory deals from UGREEN, ASUS, and Best Buy](https://www.androidauthority.com/charging-accessory-deals-from-ugreen-asus-and-best-buy-3545076/)
+ - [Skullcandy partners with Bose for its new $99 ANC earbuds](https://www.theverge.com/news/649008/skullcandy-method-360-anc-wireless-earbuds-bose-tuning-bluetooth-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
