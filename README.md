@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13T stars in first official video that leaves nothing to the imagination](https://www.androidauthority.com/oneplus-13t-teaser-video-reveal-3545131/)
- - [Cape Town-based Stitch, which provides an online payments suite to enterprises, raised a $55M Series B led by QED Investors, bringing its total funding to $107M &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250415/p45#a250415p45)
- - [xAI unveils Grok Studio, a canvas-like tool for its Grok chatbot that can generate and edit documents, run code like Python and JavaScript, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250415/p44#a250415p44)<!-- TECH:END -->
+ - [Goldman Sachs Alternatives acquires India-based HR SaaS company PeopleStrong from Multiples PE, sources say for $130M; Tracxn: Multiples PE held an 84.3% stake &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250416/p1#a250416p1)
+ - [A crucial system behind Android security updates just lost its funding](https://www.androidauthority.com/cve-program-ending-android-impact-3545136/)
+ - [Best Internet Providers in Madison, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-madison-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
