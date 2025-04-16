@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Games Workshop celebrates the birthday of its killer parallelogram, the Land Raider](https://www.pcgamer.com/games/board-games/games-workshop-celebrates-the-birthday-of-its-killer-parallelogram-the-land-raider/)
  - [Wizards of the Coast says &#39;Demand for Tarkir: Dragonstorm has been exceptionally high&#39;](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-says-demand-for-tarkir-dragonstorm-has-been-exceptionally-high/)
- - [Today&#39;s Wordle answer for Wednesday, April 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-16-2025/)
- - [What to know about Daredevil: Born Again season 2](https://www.polygon.com/marvel/558725/daredevil-born-again-season-2-release-date-fisk-mayor)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, April 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-16-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
