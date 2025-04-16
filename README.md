@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys? is that the... you know... the secs?](http://9gag.com/gag/aByPNoD)
- - ⏩ [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)
- - 👉 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)<!-- MEMES:END -->
+ - 💣 [Women would never know this feeling](http://9gag.com/gag/a4P5mNm)
+ - ⏩ [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 👉 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)<!-- MEMES:END -->
 
 ---
 
