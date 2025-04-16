@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The newest Minecraft snapshot makes A Minecraft Movie&#39;s giant Ghast airships into an in-game reality](https://www.pcgamer.com/games/survival-crafting/the-newest-minecraft-snapshot-makes-a-minecraft-movies-giant-ghast-airships-into-an-in-game-reality/)
- - [Erenshor Turns The MMO Experience Into A Surprisingly Fun Single-Player Game](https://kotaku.com/erenshor-mmorpg-fun-single-player-game-1851776472)
- - [Netflix will stream Samurai Jack creator&amp;#8217;s raunchy dog comedy](https://www.polygon.com/animation-cartoons/559888/netflix-genndy-tartakovsky-fixed-adult-animation)<!-- GAME:END -->
+ - [The RuneScape: Dragonwilds early access roadmap lays plans for a new biome, dragon fight, and even more skills to grind](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-roadmap/)
+ - [New Xbox Doom Controller Features Spikes And Blood](https://kotaku.com/doom-dark-ages-xbox-controller-blood-spikes-price-elite-1851776474)
+ - [One of SteelSeries’ best gaming headsets is on sale for its Black Friday price](https://www.polygon.com/good-deals/560051/steelseries-arctis-pro-wireless-gaming-headset-best-buy-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
