@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp could take a page from Instagram with music cards for status updates &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-status-update-music-cards-apk-teardown-3545244/)
- - [CISA says it will extend funding to Mitre, which runs the CVE Program, and &quot;there will be no lapse in critical CVE services&quot;, after Mitre said funding expired &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250416/p28#a250416p28)
- - [Get rewarded for recycling with Apple&#39;s 2025 Earth Day offer](https://appleinsider.com/articles/25/04/16/get-rewarded-for-recycling-with-apples-2025-earth-day-offer?utm_medium=rss)<!-- TECH:END -->
+ - [Apple cuts more than 60% of its global greenhouse gas emissions](https://appleinsider.com/articles/25/04/16/apple-cuts-more-than-60-of-its-global-greenhouse-gas-emissions?utm_medium=rss)
+ - [Spotify is down](https://www.theverge.com/news/649632/spotify-is-down-outage-report-uk-us)
+ - [Spotify is down in the US, Europe, and more; users reported issues from 8:00AM ET, and Spotify says it is &quot;aware of the outage&quot; and it is not &quot;a security hack&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250416/p32#a250416p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
