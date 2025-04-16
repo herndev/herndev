@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chip tariffs could be around the corner as the US starts to probe the &#39;effects on national security&#39; of foreign semiconductor production](https://www.pcgamer.com/hardware/processors/chip-tariffs-could-be-around-the-corner-as-the-us-starts-to-probe-the-effects-on-national-security-of-foreign-semiconductor-production/)
- - [How many players can join RuneScape Dragonwilds?](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-how-many-players/)
- - [How to craft a bow in RuneScape: Dragonwilds](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-bow-craft/)<!-- GAME:END -->
+ - [Nvidia RTX 5060 Ti launch day: Where to buy the new mainstream GeForce RTX 50-series graphics card, including all those at MSRP](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5060-ti-launch-day-where-to-buy-the-new-mainstream-geforce-rtx-50-series-graphics-card-including-all-those-at-msrp/)
+ - [How to deal with the duck in REPO](https://www.pcgamer.com/games/horror/repo-duck-guide/)
+ - [&#39;It was always an option&#39;: Overwatch 2 devs reveal that going third person isn&#39;t as big a leap as some players think](https://www.pcgamer.com/games/third-person-shooter/it-was-always-an-option-overwatch-2-devs-reveal-that-going-third-person-isnt-as-big-a-leap-as-some-players-think/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
