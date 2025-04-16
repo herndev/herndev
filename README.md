@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon’s best plan might be getting even better, in more ways than one](https://www.androidauthority.com/verizon-ultimate-plan-upgrades-3545426/)
- - [Sources: the Trump administration plans to eliminate the IRS&#39; free Direct File tax program, after IRS staff were told in mid-March to stop working on it &lpar;Fatima Hussein/Associated Press&rpar;](http://www.techmeme.com/250416/p44#a250416p44)
- - [Apple releases security updates for iOS 18.4.1, macOS Sequoia 15.4.1](https://appleinsider.com/articles/25/04/16/apple-releases-security-updates-for-ios-1841-macos-sequoia-1541?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s carbon footprint is shrinking](https://www.theverge.com/news/650082/apple-environmental-progress-report-greenhouse-gas-emissions-climate-energy)
+ - [Indian EV ride-hailing startup BluSmart appears to have suspended service a day after regulators launched a probe into Gensol, which shares its co-founders &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250416/p47#a250416p47)
+ - [Zoom is down](https://www.theverge.com/news/650123/zoom-down-outage-video-calls)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
