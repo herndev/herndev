@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia GeForce RTX 5060 Ti 16 GB review &lpar;Palit Infinity 3&rpar;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-geforce-rtx-5060-ti-16-gb-review-palit-infinity-3/)
- - [The best new TV of 2025 so far](https://www.polygon.com/what-to-watch/553485/best-new-tv-2025-shows-series)
- - [Turns out a bit of pixelation won&#39;t cover your back &lpar;or front&rpar; as it&#39;s actually very easy to de-censor videos](https://www.pcgamer.com/hardware/the-pixelate-filter-does-not-have-your-back-or-front-as-its-actually-very-easy-to-de-censor-videos/)<!-- GAME:END -->
+ - [DOOM: The Dark Ages – Arm Yourself with the New Limited Edition Accessories Collection](https://news.xbox.com/en-us/2025/04/16/doom-the-dark-ages-accessories-controller-console-wrap/)
+ - [&#39;I&#39;m honestly scared to go to sleep&#39;: Kingdom Come: Deliverance 2&#39;s hardcore mode is finally here for anyone who wants a &#39;tougher slice of medieval life&#39;](https://www.pcgamer.com/games/rpg/im-honestly-scared-to-go-to-sleep-kingdom-come-deliverance-2s-hardcore-mode-is-finally-here-for-anyone-who-wants-a-tougher-slice-of-medieval-life/)
+ - [Nvidia GeForce RTX 5060 Ti 16 GB review &lpar;Palit Infinity 3&rpar;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-geforce-rtx-5060-ti-16-gb-review-palit-infinity-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
