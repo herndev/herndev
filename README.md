@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
- - ⏩ [Over a game?](http://9gag.com/gag/a87Dvrp)
+ - 💣 [Over a game?](http://9gag.com/gag/a87Dvrp)
+ - ⏩ [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
  - 👉 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)<!-- MEMES:END -->
 
 ---
