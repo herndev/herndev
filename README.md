@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DOOM: The Dark Ages – Arm Yourself with the New Limited Edition Accessories Collection](https://news.xbox.com/en-us/2025/04/16/doom-the-dark-ages-accessories-controller-console-wrap/)
- - [&#39;I&#39;m honestly scared to go to sleep&#39;: Kingdom Come: Deliverance 2&#39;s hardcore mode is finally here for anyone who wants a &#39;tougher slice of medieval life&#39;](https://www.pcgamer.com/games/rpg/im-honestly-scared-to-go-to-sleep-kingdom-come-deliverance-2s-hardcore-mode-is-finally-here-for-anyone-who-wants-a-tougher-slice-of-medieval-life/)
- - [Nvidia GeForce RTX 5060 Ti 16 GB review &lpar;Palit Infinity 3&rpar;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-geforce-rtx-5060-ti-16-gb-review-palit-infinity-3/)<!-- GAME:END -->
+ - [Remastering Recent Games Is A Pointless, Sisyphean Task](https://kotaku.com/oblivion-remaster-bethesda-remakes-games-preservation-1851776388)
+ - [The new Nvidia driver comes with a looooong list of fixes and a dozen of these fix black screen issues](https://www.pcgamer.com/hardware/graphics-cards/the-new-nvidia-driver-comes-with-a-looooong-list-of-fixes-and-a-dozen-of-these-fix-black-screen-issues/)
+ - [MrBeast Fans Demand Refunds After ‘Horrible’ Las Vegas Event](https://kotaku.com/mrbeast-jimmy-donaldson-las-vegas-experience-refunds-1851776392)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
