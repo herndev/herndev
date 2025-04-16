@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Mirror’s Thronglets might not be a template, says Netflix Games lead, but it’s the future](https://www.polygon.com/q-and-a/557920/black-mirror-thronglets-netflix-games-secrets)
- - [How to use the Pump Room to drain the Pool in Blue Prince](https://www.polygon.com/blue-prince-guides/556383/pump-room-how-to-use-drain-water)
- - [I&#39;m declaring 2025 the year of the ninja: we&#39;re being spoiled with one glorious assassination game after another](https://www.pcgamer.com/games/im-declaring-2025-the-year-of-the-ninja-were-being-spoiled-with-one-glorious-assassination-game-after-another/)<!-- GAME:END -->
+ - [Bubble Gum Simulator Infinity codes for April 2025](https://www.polygon.com/roblox-guides/559581/bubble-gum-simulator-infinity-codes-list-all)
+ - [Lost Records: Bloom &amp; Rage Ends On A Lovely, If Uneven Note](https://kotaku.com/lost-records-bloom-rage-tape-2-review-dont-nod-swann-1851776436)
+ - [Genshin Impact codes for April 2025](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
