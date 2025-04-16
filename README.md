@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A reclining bronze effigy of the poet Victor Noir. It is rubbed by women who believe it will bring them a partner and fertility.](http://9gag.com/gag/aVvm5X2)
- - ⏩ [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)
- - 👉 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)<!-- MEMES:END -->
+ - 💣 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
+ - ⏩ [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 👉 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)<!-- MEMES:END -->
 
 ---
 
