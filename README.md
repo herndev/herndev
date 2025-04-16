@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In pursuit of a viral, five-year-old compact camera](https://www.theverge.com/tech/649145/canon-powershot-g7x-iii-tiktok-how-to-buy)
- - [iPhone Fold&#39;s screen resolutions surfaced by a second leaker](https://appleinsider.com/articles/25/04/16/iphone-folds-screen-resolutions-surfaced-by-a-second-leaker?utm_medium=rss)
- - [Data orchestration startup Hammerspace, which counts Nvidia, Meta, Tesla, Palantir, and the DOD as clients, raised $100M, sources say at a $500M+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250416/p21#a250416p21)<!-- TECH:END -->
+ - [This Galaxy AI tool isn’t available in most countries, and maybe that’s for the best](https://www.androidauthority.com/galaxy-ai-social-composer-3544596/)
+ - [Back Market and iFixit Want You to Use Your Phone for at Least 5 Years](https://www.wired.com/story/back-market-ifixit-partnership-repair/)
+ - [PNY GeForce RTX 5060 Ti OC Review: High-Definition Gaming](https://www.wired.com/review/pny-geforce-rtx-5060-ti-oc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
