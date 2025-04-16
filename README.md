@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you help him ?](http://9gag.com/gag/a34ypwr)
- - ⏩ [WTF](http://9gag.com/gag/a4P58xZ)
- - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
+ - 💣 [TVs back then: immovable giants of status](http://9gag.com/gag/a0e6g4d)
+ - ⏩ [Who knew books could break out of jail?](http://9gag.com/gag/an7vZ5b)
+ - 👉 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)<!-- MEMES:END -->
 
 ---
 
