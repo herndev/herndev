@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up Do Not Disturb modes on your Android phone](https://www.theverge.com/how-to/649276/do-not-disturb-android-galaxy-how-to)
- - [OpenAI’s upgraded o3 model can use images when reasoning](https://www.theverge.com/news/649941/openai-o3-o4-mini-model-images-reasoning)
- - [CVE program gets its funding back, and new foundation promises long-term stability](https://www.androidauthority.com/cve-funding-3545322/)<!-- TECH:END -->
+ - [OpenAI says o3 and o4-mini are its first reasoning models that can use all ChatGPT tools, including web browsing, Python, and image generation &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250416/p41#a250416p41)
+ - [Apple releases security updates for iOS 18.4.1, macOS Sequoia 15.4.1](https://appleinsider.com/articles/25/04/16/apple-releases-security-updates-for-ios-1841-macos-sequoia-1541?utm_medium=rss)
+ - [OpenAI says o3 and o4-mini represent a significant breakthrough in visual perception by reasoning with images in their chain of thought &lpar;OpenAI&rpar;](http://www.techmeme.com/250416/p40#a250416p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
