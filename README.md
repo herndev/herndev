@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside San Francisco-based live-in startup accelerator HF0, whose alumni include OpenSea&#39;s founders; HF0&#39;s latest fund is $100M, up from its previous $16M fund &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/250416/p8#a250416p8)
- - [European carmakers are increasingly doing deals with Chinese rivals to prevent them from falling behind in core areas such as software and autonomous driving &lpar;Financial Times&rpar;](http://www.techmeme.com/250416/p7#a250416p7)
- - [BougeRV’s electric wagon is the uphill king and downhill menace](https://www.theverge.com/reviews/648903/bougerv-wagon-cart-review-hill-price-sand)<!-- TECH:END -->
+ - [Starlink, which entered Nigeria in January 2023, ranks second among pure-play ISPs with 65K+ Nigerian subscribers in Q3 2024 due to reliable, high-speed access &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250416/p10#a250416p10)
+ - [ASML reports Q1 net sales up 46% YoY to €7.74B, vs. €7.8B est., a €2.36B net profit, €3.94B net bookings, below €4.89B est., and warns of tariff uncertainty &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250416/p9#a250416p9)
+ - [Samsung’s One UI 8 hands-on shows a disguised One UI 7.1 update](https://www.androidauthority.com/one-ui-8-leaked-build-changes-3545160/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
