@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Copilot can now &amp;#8216;see&amp;#8217; what&amp;#8217;s on your screen in Edge](https://www.theverge.com/news/650259/microsoft-copilot-can-now-see-whats-on-your-screen-in-edge)
- - [Tech stocks plunge amid uncertainty over US tariff plans and China export controls: AMD, Nvidia, and ASML dropped 7%, Applied Materials and Lam Research fell 5% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250416/p50#a250416p50)
- - [DOGE Cuts Pull AmeriCorps Volunteers Off of Disaster Relief Jobs](https://www.wired.com/story/doge-cuts-americorps-volunteers-disaster-relief-jobs/)<!-- TECH:END -->
+ - [FTC v. Meta: Mark Zuckerberg says he considers TikTok the &quot;highest competitive threat&quot; for Facebook and Instagram in the past few years &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/250416/p52#a250416p52)
+ - [Gemini Live’s screensharing feature is now free for Android users](https://www.theverge.com/news/650285/google-gemini-live-screensharing-camera-feature-android-free)
+ - [The US House opens a probe on whether Nvidia knowingly provided AI tech to DeepSeek in violation of US rules and asks Nvidia for details on its Asian customers &lpar;New York Times&rpar;](http://www.techmeme.com/250416/p51#a250416p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
