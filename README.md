@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to craft a bow in RuneScape: Dragonwilds](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-bow-craft/)
  - [Games Workshop celebrates the birthday of its killer parallelogram, the Land Raider](https://www.pcgamer.com/games/board-games/games-workshop-celebrates-the-birthday-of-its-killer-parallelogram-the-land-raider/)
- - [Wizards of the Coast says &#39;Demand for Tarkir: Dragonstorm has been exceptionally high&#39;](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-says-demand-for-tarkir-dragonstorm-has-been-exceptionally-high/)
- - [Today&#39;s Wordle answer for Wednesday, April 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-16-2025/)<!-- GAME:END -->
+ - [Wizards of the Coast says &#39;Demand for Tarkir: Dragonstorm has been exceptionally high&#39;](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-says-demand-for-tarkir-dragonstorm-has-been-exceptionally-high/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
