@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
- - ⏩ [Recognize these two?](http://9gag.com/gag/a34yD7r)
+ - 💣 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
+ - ⏩ [Over a game?](http://9gag.com/gag/a87Dvrp)
  - 👉 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)<!-- MEMES:END -->
 
 ---
