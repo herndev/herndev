@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TVs back then: immovable giants of status](http://9gag.com/gag/a0e6g4d)
- - ⏩ [Right man in the wrong place](http://9gag.com/gag/aAy4Lwp)
- - 👉 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)<!-- MEMES:END -->
+ - 💣 [Stand up for your rights](http://9gag.com/gag/amomKxd)
+ - ⏩ [WTF](http://9gag.com/gag/a4P58xZ)
+ - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
 
 ---
 
