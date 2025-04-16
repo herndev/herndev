@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)
- - ⏩ [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
- - 👉 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)<!-- MEMES:END -->
+ - 💣 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
+ - ⏩ [We\u2019ll just sell beef to the country that worships cows!](http://9gag.com/gag/aZZQoZ3)
+ - 👉 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)<!-- MEMES:END -->
 
 ---
 
