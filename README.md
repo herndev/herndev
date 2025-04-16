@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Right man in the wrong place](http://9gag.com/gag/aAy4Lwp)
- - ⏩ [Hehe](http://9gag.com/gag/aE0oKEo)
- - 👉 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)<!-- MEMES:END -->
+ - 💣 [A reclining bronze effigy of the poet Victor Noir. It is rubbed by women who believe it will bring them a partner and fertility.](http://9gag.com/gag/aVvm5X2)
+ - ⏩ [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)
+ - 👉 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)<!-- MEMES:END -->
 
 ---
 
