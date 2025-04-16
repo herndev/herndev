@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing giant homepage thumbnails, and people really hate it](https://www.androidauthority.com/youtube-large-thumbnails-3545453/)
- - [Samsung Galaxy Ring 2 wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-ring-2-3543772/)
- - [Former CISA Director Chris Krebs says he is resigning from SentinelOne to more freely challenge the White House, after Trump directed the DOJ to investigate him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250416/p49#a250416p49)<!-- TECH:END -->
+ - [Microsoft Copilot can now &amp;#8216;see&amp;#8217; what&amp;#8217;s on your screen in Edge](https://www.theverge.com/news/650259/microsoft-copilot-can-now-see-whats-on-your-screen-in-edge)
+ - [Tech stocks plunge amid uncertainty over US tariff plans and China export controls: AMD, Nvidia, and ASML dropped 7%, Applied Materials and Lam Research fell 5% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250416/p50#a250416p50)
+ - [DOGE Cuts Pull AmeriCorps Volunteers Off of Disaster Relief Jobs](https://www.wired.com/story/doge-cuts-americorps-volunteers-disaster-relief-jobs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
