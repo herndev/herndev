@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vincent D’Onofrio Already Has Daredevil: Born Again Season 2 Updates](https://kotaku.com/vincent-d-onofrio-daredevil-season-1-finale-season-2-1851776447)
- - [Bloober Team delivers an ominous warning in the first gameplay trailer for its next game: &#39;Don&#39;t let them merge&#39;](https://www.pcgamer.com/games/horror/bloober-team-delivers-an-ominous-warning-in-the-first-gameplay-trailer-for-its-next-game-dont-let-them-merge/)
- - [CD Projekt warns against fake Witcher 4 beta test invites: &#39;This is a scam&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-warns-against-fake-witcher-4-beta-test-invites-this-is-a-scam/)<!-- GAME:END -->
+ - [The newest Minecraft snapshot makes A Minecraft Movie&#39;s giant Ghast airships into an in-game reality](https://www.pcgamer.com/games/survival-crafting/the-newest-minecraft-snapshot-makes-a-minecraft-movies-giant-ghast-airships-into-an-in-game-reality/)
+ - [Erenshor Turns The MMO Experience Into A Surprisingly Fun Single-Player Game](https://kotaku.com/erenshor-mmorpg-fun-single-player-game-1851776472)
+ - [Netflix will stream Samurai Jack creator&amp;#8217;s raunchy dog comedy](https://www.polygon.com/animation-cartoons/559888/netflix-genndy-tartakovsky-fixed-adult-animation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
