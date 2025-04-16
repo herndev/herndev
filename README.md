@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to craft a bow in RuneScape: Dragonwilds](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-bow-craft/)
- - [Games Workshop celebrates the birthday of its killer parallelogram, the Land Raider](https://www.pcgamer.com/games/board-games/games-workshop-celebrates-the-birthday-of-its-killer-parallelogram-the-land-raider/)
- - [Wizards of the Coast says &#39;Demand for Tarkir: Dragonstorm has been exceptionally high&#39;](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-says-demand-for-tarkir-dragonstorm-has-been-exceptionally-high/)<!-- GAME:END -->
+ - [Chip tariffs could be around the corner as the US starts to probe the &#39;effects on national security&#39; of foreign semiconductor production](https://www.pcgamer.com/hardware/processors/chip-tariffs-could-be-around-the-corner-as-the-us-starts-to-probe-the-effects-on-national-security-of-foreign-semiconductor-production/)
+ - [How many players can join RuneScape Dragonwilds?](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-how-many-players/)
+ - [How to craft a bow in RuneScape: Dragonwilds](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-bow-craft/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
