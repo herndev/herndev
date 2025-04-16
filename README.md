@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The RuneScape: Dragonwilds early access roadmap lays plans for a new biome, dragon fight, and even more skills to grind](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-roadmap/)
- - [New Xbox Doom Controller Features Spikes And Blood](https://kotaku.com/doom-dark-ages-xbox-controller-blood-spikes-price-elite-1851776474)
- - [One of SteelSeries’ best gaming headsets is on sale for its Black Friday price](https://www.polygon.com/good-deals/560051/steelseries-arctis-pro-wireless-gaming-headset-best-buy-sale)<!-- GAME:END -->
+ - [While World of Warcraft players wait for bad-loot-luck protection, I have a humble suggestion for Blizzard](https://www.pcgamer.com/games/world-of-warcraft/while-world-of-warcraft-players-wait-for-bad-loot-luck-protection-i-have-a-humble-suggestion-for-blizzard/)
+ - [Creator of Charli XCX’s Apple dance sued Roblox over unauthorized use](https://www.polygon.com/gaming/559582/charli-xcx-apple-dance-roblox-lawsuit)
+ - [How to unlock and evolve the Gaze of Gaea in Vampire Survivors](https://www.polygon.com/vampire-survivors-guide/559648/gaze-gaea-how-to-unlock-evolve-embrace)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
