@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goldman Sachs Alternatives acquires India-based HR SaaS company PeopleStrong from Multiples PE, sources say for $130M; Tracxn: Multiples PE held an 84.3% stake &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250416/p1#a250416p1)
- - [A crucial system behind Android security updates just lost its funding](https://www.androidauthority.com/cve-program-ending-android-impact-3545136/)
- - [Best Internet Providers in Madison, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-madison-wi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Maury, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-maury-tn/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-16/#ftag=CAD590a51e)
+ - [Indian food delivery and quick commerce platform Swiggy launches Pyng, an online marketplace to let users find verified professionals like financial advisors &lpar;Debaroti Adhikary/Moneycontrol&rpar;](http://www.techmeme.com/250416/p2#a250416p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
