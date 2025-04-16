@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)
- - ⏩ [Exciting!](http://9gag.com/gag/avyEXRq)
- - 👉 [When your staircase is more festive than your ornaments](http://9gag.com/gag/aRBz807)<!-- MEMES:END -->
+ - 💣 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - ⏩ [WTF](http://9gag.com/gag/a4P58xZ)
+ - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
 
 ---
 
