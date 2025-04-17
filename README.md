@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Increases PS Plus Price In 20+ Countries Following PS5 Price Hike](https://kotaku.com/sony-price-increase-ps-plus-canada-mexico-ps5-tariffs-1851776655)
- - [Lost Records: Bloom &amp; Rage Part 2 Is Short, Shocking, And Strangely Satisfying](https://kotaku.com/lost-records-bloom-rage-part-2-playstation-1851776660)
- - [Dear Activision, please fix this trashy cult classic so everyone can play it](https://www.polygon.com/gaming/560702/prototype-2-pc-port-activision-fix-it)<!-- GAME:END -->
+ - [22-year-old MMO MapleStory is getting the &#39;old school&#39; treatment with the original lead game designer in charge of new classic servers](https://www.pcgamer.com/games/mmo/22-year-old-mmo-maplestory-is-getting-the-old-school-treatment-with-the-original-lead-game-designer-in-charge-of-new-classic-servers/)
+ - [Forget Baldur&#39;s Gate 3&#39;s new subclasses: Patch 8&#39;s most disgusting power gamer combo is the Rock That Makes You Stupid paired with a sneakily revamped level 2 spell](https://www.pcgamer.com/games/baldurs-gate/forget-baldurs-gate-3s-new-subclasses-patch-8s-most-disgusting-power-gamer-combo-is-the-rock-that-makes-you-stupid-paired-with-a-sneakily-revamped-level-2-spell/)
+ - [Path of Exile 2&#39;s 0.2 update wasn&#39;t all bad: The endgame finally feels like it&#39;s headed in the right direction](https://www.pcgamer.com/games/rpg/path-of-exile-2s-0-2-update-wasnt-all-bad-the-endgame-finally-feels-like-its-headed-in-the-right-direction/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
