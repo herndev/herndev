@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework Laptop 13 &lpar;2025&rpar; review: getting better with age](https://www.theverge.com/reviews/650608/framework-laptop-13-review-2025-amd-ryzen-ai-300)
- - [Brendan Carr threatens Comcast over coverage of Abrego Garcia](https://www.theverge.com/news/650664/fcc-brendan-carr-abrego-garcia-coverage-threats)
- - [The DOJ and 17 US states that brought the antitrust case seek to force Google to sell off its &quot;network&quot; ad business, which is ~12% of Alphabet&#39;s total revenue &lpar;Axios&rpar;](http://www.techmeme.com/250417/p23#a250417p23)<!-- TECH:END -->
+ - [New Jersey&#39;s AG sues Discord, alleging the platform&#39;s features to keep children under 13 safe from sexual predators and harmful content are inadequate &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/250417/p26#a250417p26)
+ - [Google has an illegal monopoly on online advertising, judge rules](https://appleinsider.com/articles/25/04/17/google-has-an-illegal-monopoly-on-online-advertising-judge-rules?utm_medium=rss)
+ - [Gemini’s best trick is now rolling out to all Android phones for free! &lpar;Updated&rpar;](https://www.androidauthority.com/gemini-live-with-camera-and-screen-sharing-expansion-3545517/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
