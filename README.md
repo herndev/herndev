@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bird Buddy Pro Review: All Birds, No Bother](https://www.wired.com/review/bird-buddy-pro/)
- - [6 reasons it might finally be time to give up on my 550+ day Duolingo streak](https://www.androidauthority.com/reasons-give-up-duolingo-streak-3543009/)
- - [Here’s your first look at Quick Share’s upcoming major UI redesign &lpar;APK teardown&rpar;](https://www.androidauthority.com/quick-share-redesign-apk-teardown-3545606/)<!-- TECH:END -->
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+ - [Next Apple Vision headset could have a refined battery cable](https://appleinsider.com/articles/25/04/17/next-apple-vision-headset-could-have-a-refined-battery-cable?utm_medium=rss)
+ - [Second time’s the charm? Samsung finally resumes One UI 7 rollout, but don’t get too excited](https://www.androidauthority.com/samsung-resumes-one-ui-7-rollout-home-region-3545643/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
