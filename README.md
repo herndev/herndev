@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can jump freely and rewind in Mario Kart World](https://www.polygon.com/nintendo-switch-2/560322/mario-kart-world-abilities-charge-jump-rewind)
- - [All new items in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/560318/items-list-all-confirmed-new)
- - [28 Years Later&#39;s Trailer Shows A Terrifyingly Weird World Most Zombie Movies Don&#39;t](https://kotaku.com/28-years-later-trailer-horror-zombie-ralph-fiennes-1851776535)<!-- GAME:END -->
+ - [Free Play Days – NBA 2K25 and Skull and Bones](https://news.xbox.com/en-us/2025/04/17/free-play-days-04-17-2025/)
+ - [US-made processor prices could soar if the rumour that TSMC might charge &#39;as much as 30%&#39; more for its Arizona chips pans out](https://www.pcgamer.com/hardware/processors/us-made-processor-prices-could-soar-if-the-rumour-that-tsmc-might-charge-as-much-as-30-percent-more-for-its-arizona-chips-pans-out/)
+ - [New Fantastic Four trailer has a bit of a stretch](https://www.polygon.com/trailer/560411/fantastic-four-first-steps-reed-sue-baby)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
