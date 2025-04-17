@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [22-year-old MMO MapleStory is getting the &#39;old school&#39; treatment with the original lead game designer in charge of new classic servers](https://www.pcgamer.com/games/mmo/22-year-old-mmo-maplestory-is-getting-the-old-school-treatment-with-the-original-lead-game-designer-in-charge-of-new-classic-servers/)
- - [Forget Baldur&#39;s Gate 3&#39;s new subclasses: Patch 8&#39;s most disgusting power gamer combo is the Rock That Makes You Stupid paired with a sneakily revamped level 2 spell](https://www.pcgamer.com/games/baldurs-gate/forget-baldurs-gate-3s-new-subclasses-patch-8s-most-disgusting-power-gamer-combo-is-the-rock-that-makes-you-stupid-paired-with-a-sneakily-revamped-level-2-spell/)
- - [Path of Exile 2&#39;s 0.2 update wasn&#39;t all bad: The endgame finally feels like it&#39;s headed in the right direction](https://www.pcgamer.com/games/rpg/path-of-exile-2s-0-2-update-wasnt-all-bad-the-endgame-finally-feels-like-its-headed-in-the-right-direction/)<!-- GAME:END -->
+ - [Twisted Metal Season 2 Is Bringing Us The Tournament and Two Characters We&#39;ve Been Waiting For](https://kotaku.com/twisted-metal-anthony-mackie-sweet-tooth-mr-grimm-axel-1851776678)
+ - [Rivals Hover League is the new standard for vehicular arena-based combat](https://www.pcgamer.com/games/action/rivals-hover-league-is-the-new-standard-for-vehicular-arena-based-combat/)
+ - [I’ve been consumed by Blue Prince’s true mystery: Where the hell are you supposed to pee?](https://www.polygon.com/opinion/560761/blue-prince-lavatory)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
