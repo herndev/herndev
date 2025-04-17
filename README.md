@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, April 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-17-2025/)
  - [Seth Rogen goes rogue at science awards show to slam tech billionaires for backing Trump: &#39;It&#39;s amazing how much good science you can destroy with $320 million and RFK Jr&#39;](https://www.pcgamer.com/gaming-industry/events-conferences/seth-rogen-goes-rogue-at-science-awards-show-to-slam-tech-billionaires-for-backing-trump-its-amazing-how-much-good-science-you-can-destroy-with-usd320-million-and-rfk-jr/)
- - [Skyblivion fan project lead sends &#39;all love and no hate&#39; to the official Oblivion remaster devs: &#39;This always was a passion project and still is until the end&#39;](https://www.pcgamer.com/games/rpg/skyblivion-fan-project-lead-sends-all-love-and-no-hate-to-the-official-oblivion-remaster-devs-this-always-was-a-passion-project-and-still-is-until-the-end/)
- - [While World of Warcraft players wait for bad-loot-luck protection, I have a humble suggestion for Blizzard](https://www.pcgamer.com/games/world-of-warcraft/while-world-of-warcraft-players-wait-for-bad-loot-luck-protection-i-have-a-humble-suggestion-for-blizzard/)<!-- GAME:END -->
+ - [Skyblivion fan project lead sends &#39;all love and no hate&#39; to the official Oblivion remaster devs: &#39;This always was a passion project and still is until the end&#39;](https://www.pcgamer.com/games/rpg/skyblivion-fan-project-lead-sends-all-love-and-no-hate-to-the-official-oblivion-remaster-devs-this-always-was-a-passion-project-and-still-is-until-the-end/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
