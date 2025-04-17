@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [Next Apple Vision headset could have a refined battery cable](https://appleinsider.com/articles/25/04/17/next-apple-vision-headset-could-have-a-refined-battery-cable?utm_medium=rss)
- - [Second time’s the charm? Samsung finally resumes One UI 7 rollout, but don’t get too excited](https://www.androidauthority.com/samsung-resumes-one-ui-7-rollout-home-region-3545643/)<!-- TECH:END -->
+ - [A US judge says Google acted illegally to maintain a monopoly in some online advertising tech, the second time in a year a court found Google acted illegally &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/250417/p19#a250417p19)
+ - [Google loses adtech monopoly case](https://www.theverge.com/news/650665/google-loses-ad-tech-antitrust-monopoly-lawsuit)
+ - [Leaked email: the US CFPB plans a 50% reduction in supervisory activities and a shift in focus from fintech companies back to traditional banks &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250417/p18#a250417p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
