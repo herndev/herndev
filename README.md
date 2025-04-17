@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woody woodpecker](http://9gag.com/gag/aAy4919)
- - ⏩ [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)
- - 👉 [9gaggers...](http://9gag.com/gag/a9y8GLo)<!-- MEMES:END -->
+ - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - ⏩ [Hehe](http://9gag.com/gag/aE0oKEo)
+ - 👉 [Little lower](http://9gag.com/gag/aKGWZLg)<!-- MEMES:END -->
 
 ---
 
