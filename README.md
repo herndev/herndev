@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Master the Art of Combat in Mandragora: Whispers of the Witch Tree](https://news.xbox.com/en-us/2025/04/17/mandragora-combat-guide/)
- - [The First Berserker: Khazan&#39;s New Game Plus Gives You Access To Sick New Gear And More Ways To Style Your Fit](https://kotaku.com/first-berserker-khazan-new-game-plus-legendary-transmog-1851776611)
- - [MSI RTX 5060 Ti 16G Gaming Trio OC review](https://www.pcgamer.com/hardware/graphics-cards/msi-rtx-5060-ti-16g-gaming-trio-oc-review/)<!-- GAME:END -->
+ - [Building a Soulslike: Why Lords of the Fallen Version 2.0 is Worth Your Time](https://news.xbox.com/en-us/2025/04/17/why-lords-of-the-fallen-version-2-0-is-worth-your-time/)
+ - [The team behind FTL and Into the Breach is making a Playdate game](https://www.polygon.com/news/560659/subset-games-announces-playdate-game)
+ - [One Of Monster Hunter Wilds’ Coolest Techniques Isn’t Even Properly Explained](https://kotaku.com/monster-hunter-wilds-stalwart-guard-weapons-defend-1851776632)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
