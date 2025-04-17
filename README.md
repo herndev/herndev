@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - ⏩ [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
- - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
+ - ⏩ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - 👉 [Stand up for your rights](http://9gag.com/gag/amomKxd)<!-- MEMES:END -->
 
 ---
 
