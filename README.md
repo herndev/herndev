@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global Payments shares plunge 15%+ and FIS shares jump 9%+ after Global Payments said it&#39;s buying Worldpay from FIS and GTCR and selling Issuer Solutions to FIS &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250417/p30#a250417p30)
- - [Sources: Amazon plans to release its first TV streaming device with its Vega OS, used in some Echo devices, in 2025 and is courting publishers to add their apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/250417/p29#a250417p29)
- - [Google Is Once Again Deemed a Monopoly, This Time in Ad Tech](https://www.wired.com/story/judge-rules-google-ad-business-monopoly/)<!-- TECH:END -->
+ - [Former YC President Geoff Ralston launches Safe AI Fund, or SAIF, providing initial funding of $100K with a $10M cap to startups that &quot;enhance AI safety&quot; &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250417/p33#a250417p33)
+ - [The Pixel 9a can now participate in Google’s Android 16 Beta program](https://www.androidauthority.com/pixel-9a-android-16-beta-3545831/)
+ - [Framework Laptop 13 review: it&#39;s modular and customizable, has a great keyboard and improved thermals, but it&#39;s pricey and the screen&#39;s brightness can be better &lpar;Kyle Barr/Gizmodo&rpar;](http://www.techmeme.com/250417/p32#a250417p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
