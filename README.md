@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Building a Soulslike: Why Lords of the Fallen Version 2.0 is Worth Your Time](https://news.xbox.com/en-us/2025/04/17/why-lords-of-the-fallen-version-2-0-is-worth-your-time/)
- - [The team behind FTL and Into the Breach is making a Playdate game](https://www.polygon.com/news/560659/subset-games-announces-playdate-game)
- - [One Of Monster Hunter Wilds’ Coolest Techniques Isn’t Even Properly Explained](https://kotaku.com/monster-hunter-wilds-stalwart-guard-weapons-defend-1851776632)<!-- GAME:END -->
+ - [Sony Increases PS Plus Price In 20+ Countries Following PS5 Price Hike](https://kotaku.com/sony-price-increase-ps-plus-canada-mexico-ps5-tariffs-1851776655)
+ - [Lost Records: Bloom &amp; Rage Part 2 Is Short, Shocking, And Strangely Satisfying](https://kotaku.com/lost-records-bloom-rage-part-2-playstation-1851776660)
+ - [Dear Activision, please fix this trashy cult classic so everyone can play it](https://www.polygon.com/gaming/560702/prototype-2-pc-port-activision-fix-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
