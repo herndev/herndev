@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)
- - [Netflix says co-founder Reed Hastings has left his post as executive chairman to become chairman and non-executive director of the company &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250417/p35#a250417p35)
- - [Netflix revenue rises to $10.5 billion following price hike](https://www.theverge.com/news/650930/netflix-revenue-rises-earnings-q1-2025)<!-- TECH:END -->
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [Tesla&amp;#8217;s spring update activates adaptive high beams that won&amp;#8217;t blind oncoming drivers](https://www.theverge.com/news/651504/tesla-spring-update-2025-adaptive-headlights-ev-route-planning)
+ - [The CFPB Has Been Gutted](https://www.wired.com/story/cfpb-has-been-gutted/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
