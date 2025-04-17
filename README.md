@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - ⏩ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 👉 [Stand up for your rights](http://9gag.com/gag/amomKxd)<!-- MEMES:END -->
+ - 💣 [Summer of protest incoming](http://9gag.com/gag/a0e6ybd)
+ - ⏩ [People who annoy you..](http://9gag.com/gag/aPA8Lxw)
+ - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
 
 ---
 
