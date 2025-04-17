@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My definition of wealth](http://9gag.com/gag/aAy45mZ)
- - ⏩ [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - 👉 [Little dude is going places](http://9gag.com/gag/aAy45PZ)<!-- MEMES:END -->
+ - 💣 [11 minutes feels like 11 Years](http://9gag.com/gag/a9y8w5W)
+ - ⏩ [RUMOR - It seems that JK Rowling is suing Warner Brothers for the rights to Harry Potter, as the studio is looking for a diverse cast for the new version but Rowling prefers a cast more traditional and fait](http://9gag.com/gag/aLnGZ8v)
+ - 👉 [Some good news](http://9gag.com/gag/aqyQPgp)<!-- MEMES:END -->
 
 ---
 
