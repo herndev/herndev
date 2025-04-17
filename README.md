@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Tesla&amp;#8217;s spring update activates adaptive high beams that won&amp;#8217;t blind oncoming drivers](https://www.theverge.com/news/651504/tesla-spring-update-2025-adaptive-headlights-ev-route-planning)
- - [The CFPB Has Been Gutted](https://www.wired.com/story/cfpb-has-been-gutted/)<!-- TECH:END -->
+ - [Deal: This car mount can charge your smartphone wirelessly, and it’s 60% off!](https://www.androidauthority.com/scosche-10w-qi-smartphone-car-mount-deal-3545860/)
+ - [CFPB workers are receiving mass layoff notices](https://www.theverge.com/news/651570/cfpb-layoffs-notices-doge)
+ - [Sources: the CFPB terminated more than 1,400 workers, leaving about 200 employees and effectively gutting the agency that Elon Musk previously said to &quot;delete&quot; &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250417/p38#a250417p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
