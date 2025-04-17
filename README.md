@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [11 minutes feels like 11 Years](http://9gag.com/gag/a9y8w5W)
- - ⏩ [RUMOR - It seems that JK Rowling is suing Warner Brothers for the rights to Harry Potter, as the studio is looking for a diverse cast for the new version but Rowling prefers a cast more traditional and fait](http://9gag.com/gag/aLnGZ8v)
- - 👉 [Some good news](http://9gag.com/gag/aqyQPgp)<!-- MEMES:END -->
+ - 💣 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
+ - ⏩ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
 
 ---
 
