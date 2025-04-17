@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Jersey&#39;s AG sues Discord, alleging the platform&#39;s features to keep children under 13 safe from sexual predators and harmful content are inadequate &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/250417/p26#a250417p26)
- - [Google has an illegal monopoly on online advertising, judge rules](https://appleinsider.com/articles/25/04/17/google-has-an-illegal-monopoly-on-online-advertising-judge-rules?utm_medium=rss)
- - [Gemini’s best trick is now rolling out to all Android phones for free! &lpar;Updated&rpar;](https://www.androidauthority.com/gemini-live-with-camera-and-screen-sharing-expansion-3545517/)<!-- TECH:END -->
+ - [Sources: Tim Cook spoke to US Commerce Secretary Howard Lutnick last week about how tariffs could affect iPhone prices, before Trump exempted Apple products &lpar;Washington Post&rpar;](http://www.techmeme.com/250417/p28#a250417p28)
+ - [Motorola’s next Razr foldable could boast bigger battery, faster charging, and a lot more](https://www.androidauthority.com/moto-razr-plus-2025-specs-3545662/)
+ - [LMArena says it&#39;s starting a company, whose corporate name will be Arena Intelligence, with plans to raise money, and releases a new beta version of its website &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250417/p27#a250417p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
