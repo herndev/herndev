@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung finally rolls out ‘full version’ of One UI 7 for Galaxy S25 series](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-7-april-2025-update-3545520/)
- - [China bans automakers from using &quot;smart driving&quot; or &quot;autonomous driving&quot; in ads for driver-assist tech and tightens scrutiny after a fatal Xiaomi EV crash &lpar;Reuters&rpar;](http://www.techmeme.com/250417/p3#a250417p3)
- - [Newegg Promo Code: 10% Off - April 2025](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
+ - [PSA: Got a weird email from Google? Read this before opening.](https://www.androidauthority.com/google-phishing-email-attack-authenticated-3544190/)
+ - [US community colleges are battling a flood of fake, or bot, students who bilk financial aid by enrolling in online classes and submitting AI-generated work &lpar;Jakob McWhinney/Voice of San Diego&rpar;](http://www.techmeme.com/250417/p6#a250417p6)
+ - [Study: in South Korea, users with active YouTube accounts spent 210 minutes/day on the service in Q4, while Netflix subs spent 96 minutes/day on the streamer &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250417/p5#a250417p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
