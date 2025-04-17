@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – NBA 2K25 and Skull and Bones](https://news.xbox.com/en-us/2025/04/17/free-play-days-04-17-2025/)
- - [US-made processor prices could soar if the rumour that TSMC might charge &#39;as much as 30%&#39; more for its Arizona chips pans out](https://www.pcgamer.com/hardware/processors/us-made-processor-prices-could-soar-if-the-rumour-that-tsmc-might-charge-as-much-as-30-percent-more-for-its-arizona-chips-pans-out/)
- - [New Fantastic Four trailer has a bit of a stretch](https://www.polygon.com/trailer/560411/fantastic-four-first-steps-reed-sue-baby)<!-- GAME:END -->
+ - [Towerborne: Introducing a Spectacular Japanese-Themed Golden Week Event](https://news.xbox.com/en-us/2025/04/17/towerborne-golden-week-event/)
+ - [Ultrakill publisher co-founder throws up hands, jokes &#39;Tarkov has done irreparable f*cking damage to the game industry&#39; because even FromSoftware games are extraction shooters now](https://www.pcgamer.com/gaming-industry/game-development/ultrakill-publisher-co-founder-throws-up-hands-jokes-tarkov-has-done-irreparable-f-cking-damage-to-the-game-industry-because-even-fromsoftware-games-are-extraction-shooters-now/)
+ - [There&#39;s no two ways about it—I love the Lumon blue, retro styling of this Severance-inspired keyboard](https://www.pcgamer.com/hardware/gaming-keyboards/theres-no-two-ways-about-it-i-love-the-retro-styling-of-this-severance-inspired-keyboard/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
