@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 Beta 4 arrives tomorrow](https://www.androidauthority.com/android-16-beta-4-teaser-3545502/)
- - [FTC v. Meta: Mark Zuckerberg says he considers TikTok the &quot;highest competitive threat&quot; for Facebook and Instagram in the past few years &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/250416/p52#a250416p52)
- - [Gemini Live’s screensharing feature is now free for Android users](https://www.theverge.com/news/650285/google-gemini-live-screensharing-camera-feature-android-free)<!-- TECH:END -->
+ - [A US judge grants a permanent injunction against an Ohio law that required platforms to verify users are at least 16 and seek parental consent for younger users &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250416/p55#a250416p55)
+ - [Zuckerberg tells court he made WhatsApp and Instagram better](https://www.theverge.com/policy/650360/mark-zuckerberg-defends-instagram-whatsapp-ftc-meta-antitrust-trial)
+ - [Google is making Gemini Live camera and screen sharing features free for all Android users in the coming weeks after launching them for Advanced users last week &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250416/p54#a250416p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
