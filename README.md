@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)
- - [Bruvi BV-01 Review: Biodegradable Pods, Fast Coffee](https://www.wired.com/review/bruvi-bv-01/)
- - [Everyone hates Garmin’s new paid Connect subscription, and I can’t blame them](https://www.androidauthority.com/everyone-hates-garmins-new-paid-connect-subscription-3544565/)<!-- TECH:END -->
+ - [Bird Buddy Pro Review: All Birds, No Bother](https://www.wired.com/review/bird-buddy-pro/)
+ - [6 reasons it might finally be time to give up on my 550+ day Duolingo streak](https://www.androidauthority.com/reasons-give-up-duolingo-streak-3543009/)
+ - [Here’s your first look at Quick Share’s upcoming major UI redesign &lpar;APK teardown&rpar;](https://www.androidauthority.com/quick-share-redesign-apk-teardown-3545606/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
