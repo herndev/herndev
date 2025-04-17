@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Got a weird email from Google? Read this before opening.](https://www.androidauthority.com/google-phishing-email-attack-authenticated-3544190/)
- - [US community colleges are battling a flood of fake, or bot, students who bilk financial aid by enrolling in online classes and submitting AI-generated work &lpar;Jakob McWhinney/Voice of San Diego&rpar;](http://www.techmeme.com/250417/p6#a250417p6)
- - [Study: in South Korea, users with active YouTube accounts spent 210 minutes/day on the service in Q4, while Netflix subs spent 96 minutes/day on the streamer &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250417/p5#a250417p5)<!-- TECH:END -->
+ - [Workers and researchers say data annotation jobs that many Venezuelans relied on have become scarce and poorly paid with the rise of generative AI &lpar;Laura Rodríguez Salamanca/Rest of World&rpar;](http://www.techmeme.com/250417/p7#a250417p7)
+ - [Gemini could soon be coming to your car with Android Automotive &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-android-automotive-apk-teardown-3545540/)
+ - [Is the Viral TikTok Sleepy Girl Mocktail As Good as It Sounds? We Found Out](https://www.cnet.com/health/sleep/is-the-viral-sleepy-girl-mocktail-as-good-as-it-sounds-we-found-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
