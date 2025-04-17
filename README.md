@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to fast travel in RuneScape: Dragonwilds](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-fast-travel/)
- - [The latest rumoured AMD Ryzen Z2 processor could be used in cheap SteamOS handhelds](https://www.pcgamer.com/hardware/processors/the-latest-rumoured-amd-ryzen-z2-processor-could-be-used-in-cheap-steamos-handhelds/)
- - [One of our favourite last-gen handheld PCs is getting a Ryzen AI HX 370 upgrade and a native landscape display](https://www.pcgamer.com/hardware/handheld-gaming-pcs/one-of-our-favourite-last-gen-handheld-pcs-is-getting-a-ryzen-ai-hx-370-upgrade-and-a-native-landscape-display/)<!-- GAME:END -->
+ - [Marvel Rivals&#39; costume customisation may look cool, but it adds yet another unnecessary step while tacking on even more money to expensive skins](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-costume-customisation-may-look-cool-but-it-adds-yet-another-unnecessary-step-while-tacking-on-even-more-money-to-expensive-skins/)
+ - [How to get unstable molecules in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-unstable-molecules/)
+ - [How to customise costumes in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-costume-customisation-colours/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
