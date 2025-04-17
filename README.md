@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Perplexity is in discussions to integrate its AI assistant on Samsung&#39;s devices and has reached an agreement to preload Perplexity on Motorola&#39;s phones &lpar;Bloomberg&rpar;](http://www.techmeme.com/250416/p57#a250416p57)
- - [Discord requires some UK and Australian users to verify their age by scanning their face or ID to access sensitive material; Discord says it&#39;s &quot;an experiment&quot; &lpar;Chris Scullion/Video Games Chronicle&rpar;](http://www.techmeme.com/250416/p56#a250416p56)
- - [A US judge grants a permanent injunction against an Ohio law that required platforms to verify users are at least 16 and seek parental consent for younger users &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250416/p55#a250416p55)<!-- TECH:END -->
+ - [xAI announces a memory feature for Grok in beta that enables the AI chatbot to remember details from past conversations and give more personalized responses &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250416/p58#a250416p58)
+ - [Samsung phones could soon let you ditch Gemini for this rising AI assistant](https://www.androidauthority.com/samsung-phones-perplexity-assistant-3545515/)
+ - [iPhone 16 Camera Control button -- the ultimate guide](https://appleinsider.com/inside/iphone-16/tips/iphone-16-camera-control-button----the-ultimate-guide?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
