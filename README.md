@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC CEO C. C. Wei says &quot;TSMC is not engaged in any discussion with other companies regarding any joint venture&quot;, after a recent report of a tie-up with Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/250417/p14#a250417p14)
- - [Nvidia CEO Jensen Huang arrived in China on April 16 and visited Beijing on April 17, a source says to meet officials to discuss Trump&#39;s new chip export rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250417/p13#a250417p13)
- - [Polish parcel locker operator InPost acquires UK delivery service Yodel, boosting its UK market share from 2% to ~8% and delivering 300M+ UK parcels annually &lpar;Konrad Krasuski/Bloomberg&rpar;](http://www.techmeme.com/250417/p12#a250417p12)<!-- TECH:END -->
+ - [The Wikimedia Foundation partners with Kaggle to release a dataset of &quot;structured Wikipedia content in English and French&quot; optimized for AI model training &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250417/p15#a250417p15)
+ - [Processor cost could drive prices of the iPhone 18 range up](https://appleinsider.com/articles/25/04/17/processor-cost-could-drive-prices-of-the-iphone-18-range-up?utm_medium=rss)
+ - [Samsung’s One UI 7 rollout could go on even when others start receiving Android 16](https://www.androidauthority.com/samsung-one-ui-7-leaked-rollout-timeline-3545563/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
