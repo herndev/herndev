@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of our favourite last-gen handheld PCs is getting a Ryzen AI HX 370 upgrade and a native landscape display](https://www.pcgamer.com/hardware/handheld-gaming-pcs/one-of-our-favourite-last-gen-handheld-pcs-is-getting-a-ryzen-ai-hx-370-upgrade-and-a-native-landscape-display/)
- - [Android phones will reboot after 3 days of inactivity in new security update, but don&#39;t worry, this is a good thing. Just make sure you know your PIN](https://www.pcgamer.com/hardware/android-phones-will-reboot-after-3-days-of-inactivity-in-new-security-update-but-dont-worry-this-is-a-good-thing-just-make-sure-you-know-your-pin/)
- - [Nintendo take first Japanese Switch modder to court, resulting fine is 400,000% less than the one given to Gary Bowser](https://www.pcgamer.com/hardware/vr-hardware/nintendo-take-first-japanese-switch-modder-to-court-resulting-fine-is-400-000-percent-less-than-the-one-given-to-gary-bowser/)<!-- GAME:END -->
+ - [How to fast travel in RuneScape: Dragonwilds](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-fast-travel/)
+ - [The latest rumoured AMD Ryzen Z2 processor could be used in cheap SteamOS handhelds](https://www.pcgamer.com/hardware/processors/the-latest-rumoured-amd-ryzen-z2-processor-could-be-used-in-cheap-steamos-handhelds/)
+ - [One of our favourite last-gen handheld PCs is getting a Ryzen AI HX 370 upgrade and a native landscape display](https://www.pcgamer.com/hardware/handheld-gaming-pcs/one-of-our-favourite-last-gen-handheld-pcs-is-getting-a-ryzen-ai-hx-370-upgrade-and-a-native-landscape-display/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
