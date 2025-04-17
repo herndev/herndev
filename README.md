@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Strava acquires massively popular Runna app](https://www.theverge.com/tech/648075/strava-runna-acquisition-running-fitness-tech)
- - [Gemini’s best trick is now rolling out to all Pixel phones for free!](https://www.androidauthority.com/gemini-live-with-camera-and-screen-sharing-expansion-3545517/)
- - [Sources: OpenAI and SoftBank are considering investing in the UK for Stargate as part of an international expansion, if the project proves successful in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250417/p2#a250417p2)<!-- TECH:END -->
+ - [Samsung finally rolls out ‘full version’ of One UI 7 for Galaxy S25 series](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-7-april-2025-update-3545520/)
+ - [China bans automakers from using &quot;smart driving&quot; or &quot;autonomous driving&quot; in ads for driver-assist tech and tightens scrutiny after a fatal Xiaomi EV crash &lpar;Reuters&rpar;](http://www.techmeme.com/250417/p3#a250417p3)
+ - [Newegg Promo Code: 10% Off - April 2025](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
