@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tim Cook spoke to US Commerce Secretary Howard Lutnick last week about how tariffs could affect iPhone prices, before Trump exempted Apple products &lpar;Washington Post&rpar;](http://www.techmeme.com/250417/p28#a250417p28)
- - [Motorola’s next Razr foldable could boast bigger battery, faster charging, and a lot more](https://www.androidauthority.com/moto-razr-plus-2025-specs-3545662/)
- - [LMArena says it&#39;s starting a company, whose corporate name will be Arena Intelligence, with plans to raise money, and releases a new beta version of its website &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250417/p27#a250417p27)<!-- TECH:END -->
+ - [Global Payments shares plunge 15%+ and FIS shares jump 9%+ after Global Payments said it&#39;s buying Worldpay from FIS and GTCR and selling Issuer Solutions to FIS &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250417/p30#a250417p30)
+ - [Sources: Amazon plans to release its first TV streaming device with its Vega OS, used in some Echo devices, in 2025 and is courting publishers to add their apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/250417/p29#a250417p29)
+ - [Google Is Once Again Deemed a Monopoly, This Time in Ad Tech](https://www.wired.com/story/judge-rules-google-ad-business-monopoly/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
