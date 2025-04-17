@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sandman season 2 trailer gives us a terrible family reunion and a release date](https://www.polygon.com/trailer/560190/sandman-season-2-release-date-first-look-video)
- - [Corsair Void Wireless V2 review](https://www.pcgamer.com/hardware/gaming-headsets/corsair-void-wireless-v2-review/)
- - [Xbox&#39;s Massive Spring Sale Includes Over 900 Discounted Games](https://kotaku.com/xbox-massive-spring-sale-900-games-best-deals-series-x-1851776501)<!-- GAME:END -->
+ - [You can jump freely and rewind in Mario Kart World](https://www.polygon.com/nintendo-switch-2/560322/mario-kart-world-abilities-charge-jump-rewind)
+ - [All new items in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/560318/items-list-all-confirmed-new)
+ - [28 Years Later&#39;s Trailer Shows A Terrifyingly Weird World Most Zombie Movies Don&#39;t](https://kotaku.com/28-years-later-trailer-horror-zombie-ralph-fiennes-1851776535)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
