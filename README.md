@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
- - ⏩ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
+ - 💣 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
+ - ⏩ [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 👉 [What&#39;s your addiction? Pretty sure you have one](http://9gag.com/gag/ae9VBYb)<!-- MEMES:END -->
 
 ---
 
