@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
+ - 💣 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
  - ⏩ [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - 👉 [What&#39;s your addiction? Pretty sure you have one](http://9gag.com/gag/ae9VBYb)<!-- MEMES:END -->
+ - 👉 [RUMOR - It seems that JK Rowling is suing Warner Brothers for the rights to Harry Potter, as the studio is looking for a diverse cast for the new version but Rowling prefers a cast more traditional and fait](http://9gag.com/gag/aLnGZ8v)<!-- MEMES:END -->
 
 ---
 
