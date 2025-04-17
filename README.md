@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former YC President Geoff Ralston launches Safe AI Fund, or SAIF, providing initial funding of $100K with a $10M cap to startups that &quot;enhance AI safety&quot; &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250417/p33#a250417p33)
- - [The Pixel 9a can now participate in Google’s Android 16 Beta program](https://www.androidauthority.com/pixel-9a-android-16-beta-3545831/)
- - [Framework Laptop 13 review: it&#39;s modular and customizable, has a great keyboard and improved thermals, but it&#39;s pricey and the screen&#39;s brightness can be better &lpar;Kyle Barr/Gizmodo&rpar;](http://www.techmeme.com/250417/p32#a250417p32)<!-- TECH:END -->
+ - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)
+ - [Netflix says co-founder Reed Hastings has left his post as executive chairman to become chairman and non-executive director of the company &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250417/p35#a250417p35)
+ - [Netflix revenue rises to $10.5 billion following price hike](https://www.theverge.com/news/650930/netflix-revenue-rises-earnings-q1-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
