@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Summer of protest incoming](http://9gag.com/gag/a0e6ybd)
- - ⏩ [People who annoy you..](http://9gag.com/gag/aPA8Lxw)
- - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
+ - 💣 [Life is like Chess](http://9gag.com/gag/aYQP5Qm)
+ - ⏩ [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)
+ - 👉 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)<!-- MEMES:END -->
 
 ---
 
