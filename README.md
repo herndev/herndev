@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - ⏩ [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - 👉 [Yup, every night](http://9gag.com/gag/a0e6rQB)<!-- MEMES:END -->
+ - 💣 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - ⏩ [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
+ - 👉 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)<!-- MEMES:END -->
 
 ---
 
