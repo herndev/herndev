@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - ⏩ [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 👉 [Americans unite.](http://9gag.com/gag/aryZYV5)<!-- MEMES:END -->
+ - 💣 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
+ - ⏩ [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 👉 [Yup, every night](http://9gag.com/gag/a0e6rQB)<!-- MEMES:END -->
 
 ---
 
