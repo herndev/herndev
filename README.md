@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
- - ⏩ [GIF](http://9gag.com/gag/aQzAKOw)
+ - 💣 [Two-factor authentication](http://9gag.com/gag/abAWLzL)
+ - ⏩ [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)
  - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
 
 ---
