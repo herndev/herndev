@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twisted Metal Season 2 Is Bringing Us The Tournament and Two Characters We&#39;ve Been Waiting For](https://kotaku.com/twisted-metal-anthony-mackie-sweet-tooth-mr-grimm-axel-1851776678)
- - [Rivals Hover League is the new standard for vehicular arena-based combat](https://www.pcgamer.com/games/action/rivals-hover-league-is-the-new-standard-for-vehicular-arena-based-combat/)
- - [I’ve been consumed by Blue Prince’s true mystery: Where the hell are you supposed to pee?](https://www.polygon.com/opinion/560761/blue-prince-lavatory)<!-- GAME:END -->
+ - [Sinners’ credits scenes give the vampire movie a Return of the King spin](https://www.polygon.com/movies/560848/sinners-mid-post-credits-scenes)
+ - [Rematch, the soccer game from the maker of Sifu and Absolver, is holding an open beta this weekend](https://www.pcgamer.com/games/sports/rematch-the-soccer-game-from-the-maker-of-sifu-and-absolver-is-holding-an-open-beta-this-weekend/)
+ - [PowerWash Simulator just dropped a free update that expands the lore](https://www.polygon.com/news/560832/powerwash-simulator-just-dropped-a-free-update-that-expands-the-lore)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
