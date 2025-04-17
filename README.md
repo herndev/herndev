@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals&#39; costume customisation may look cool, but it adds yet another unnecessary step while tacking on even more money to expensive skins](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-costume-customisation-may-look-cool-but-it-adds-yet-another-unnecessary-step-while-tacking-on-even-more-money-to-expensive-skins/)
- - [How to get unstable molecules in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-unstable-molecules/)
- - [How to customise costumes in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-costume-customisation-colours/)<!-- GAME:END -->
+ - [The Sandman season 2 trailer gives us a terrible family reunion and a release date](https://www.polygon.com/trailer/560190/sandman-season-2-release-date-first-look-video)
+ - [Corsair Void Wireless V2 review](https://www.pcgamer.com/hardware/gaming-headsets/corsair-void-wireless-v2-review/)
+ - [Xbox&#39;s Massive Spring Sale Includes Over 900 Discounted Games](https://kotaku.com/xbox-massive-spring-sale-900-games-best-deals-series-x-1851776501)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
