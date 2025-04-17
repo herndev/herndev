@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Auradine, which manufactures Bitcoin miners and offers AI infrastructure, raised a $153M Series C, with $138M in equity and $15M in debt, led by StepStone Group &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250416/p59#a250416p59)
  - [xAI announces a memory feature for Grok in beta that enables the AI chatbot to remember details from past conversations and give more personalized responses &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250416/p58#a250416p58)
- - [Samsung phones could soon let you ditch Gemini for this rising AI assistant](https://www.androidauthority.com/samsung-phones-perplexity-assistant-3545515/)
- - [iPhone 16 Camera Control button -- the ultimate guide](https://appleinsider.com/inside/iphone-16/tips/iphone-16-camera-control-button----the-ultimate-guide?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung phones could soon let you ditch Gemini for this rising AI assistant](https://www.androidauthority.com/samsung-phones-perplexity-assistant-3545515/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
