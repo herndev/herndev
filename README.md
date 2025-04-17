@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s not a color thing, it&#39;s a culture thing](http://9gag.com/gag/azxGW1m)
- - ⏩ [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 💣 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - ⏩ [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
  - 👉 [Americans unite.](http://9gag.com/gag/aryZYV5)<!-- MEMES:END -->
 
 ---
