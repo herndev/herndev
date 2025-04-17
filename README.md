@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life is like Chess](http://9gag.com/gag/aYQP5Qm)
- - ⏩ [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)
- - 👉 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)<!-- MEMES:END -->
+ - 💣 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
+ - ⏩ [GIF](http://9gag.com/gag/aQzAKOw)
+ - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
 
 ---
 
