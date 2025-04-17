@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wikimedia Foundation partners with Kaggle to release a dataset of &quot;structured Wikipedia content in English and French&quot; optimized for AI model training &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250417/p15#a250417p15)
- - [Processor cost could drive prices of the iPhone 18 range up](https://appleinsider.com/articles/25/04/17/processor-cost-could-drive-prices-of-the-iphone-18-range-up?utm_medium=rss)
- - [Samsung’s One UI 7 rollout could go on even when others start receiving Android 16](https://www.androidauthority.com/samsung-one-ui-7-leaked-rollout-timeline-3545563/)<!-- TECH:END -->
+ - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)
+ - [Bruvi BV-01 Review: Biodegradable Pods, Fast Coffee](https://www.wired.com/review/bruvi-bv-01/)
+ - [Everyone hates Garmin’s new paid Connect subscription, and I can’t blame them](https://www.androidauthority.com/everyone-hates-garmins-new-paid-connect-subscription-3544565/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
