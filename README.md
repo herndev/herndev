@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge says Google acted illegally to maintain a monopoly in some online advertising tech, the second time in a year a court found Google acted illegally &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/250417/p19#a250417p19)
- - [Google loses adtech monopoly case](https://www.theverge.com/news/650665/google-loses-ad-tech-antitrust-monopoly-lawsuit)
- - [Leaked email: the US CFPB plans a 50% reduction in supervisory activities and a shift in focus from fintech companies back to traditional banks &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250417/p18#a250417p18)<!-- TECH:END -->
+ - [Framework Laptop 13 &lpar;2025&rpar; review: getting better with age](https://www.theverge.com/reviews/650608/framework-laptop-13-review-2025-amd-ryzen-ai-300)
+ - [Brendan Carr threatens Comcast over coverage of Abrego Garcia](https://www.theverge.com/news/650664/fcc-brendan-carr-abrego-garcia-coverage-threats)
+ - [The DOJ and 17 US states that brought the antitrust case seek to force Google to sell off its &quot;network&quot; ad business, which is ~12% of Alphabet&#39;s total revenue &lpar;Axios&rpar;](http://www.techmeme.com/250417/p23#a250417p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
