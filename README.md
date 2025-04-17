@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;ve been hit by...](http://9gag.com/gag/aNDV7e3)
- - ⏩ [WTF](http://9gag.com/gag/a4P58xZ)
- - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
+ - 💣 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - ⏩ [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 👉 [Bro is a legend](http://9gag.com/gag/azxGp8Z)<!-- MEMES:END -->
 
 ---
 
