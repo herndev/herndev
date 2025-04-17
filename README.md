@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sinners’ credits scenes give the vampire movie a Return of the King spin](https://www.polygon.com/movies/560848/sinners-mid-post-credits-scenes)
- - [Rematch, the soccer game from the maker of Sifu and Absolver, is holding an open beta this weekend](https://www.pcgamer.com/games/sports/rematch-the-soccer-game-from-the-maker-of-sifu-and-absolver-is-holding-an-open-beta-this-weekend/)
- - [PowerWash Simulator just dropped a free update that expands the lore](https://www.polygon.com/news/560832/powerwash-simulator-just-dropped-a-free-update-that-expands-the-lore)<!-- GAME:END -->
+ - [Co-op submarine survival simulator Barotrauma has a free weekend on Steam, so dive in with friends and experience the most comically horrifying deaths you can imagine](https://www.pcgamer.com/games/survival-crafting/co-op-submarine-survival-simulator-barotrauma-has-a-free-weekend-on-steam-so-dive-in-with-friends-and-experience-the-most-comically-horrifying-deaths-you-can-imagine/)
+ - [Thanks to Baldur&#39;s Gate 3&#39;s new Swashbuckler subclass, it no longer sucks to be a pure Rogue](https://www.pcgamer.com/games/baldurs-gate/thanks-to-baldurs-gate-3s-new-swashbuckler-subclass-it-no-longer-sucks-to-be-a-pure-rogue/)
+ - [Sinners’ credits scenes give the vampire movie a Return of the King spin](https://www.polygon.com/movies/560848/sinners-mid-post-credits-scenes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
