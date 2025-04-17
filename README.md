@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
+ - 💣 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
  - ⏩ [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 👉 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)<!-- MEMES:END -->
+ - 👉 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)<!-- MEMES:END -->
 
 ---
 
