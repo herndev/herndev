@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - ⏩ [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - 👉 [Bro is a legend](http://9gag.com/gag/azxGp8Z)<!-- MEMES:END -->
+ - 💣 [My definition of wealth](http://9gag.com/gag/aAy45mZ)
+ - ⏩ [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 👉 [Little dude is going places](http://9gag.com/gag/aAy45PZ)<!-- MEMES:END -->
 
 ---
 
