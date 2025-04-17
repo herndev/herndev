@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - ⏩ [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - 👉 [RUMOR - It seems that JK Rowling is suing Warner Brothers for the rights to Harry Potter, as the studio is looking for a diverse cast for the new version but Rowling prefers a cast more traditional and fait](http://9gag.com/gag/aLnGZ8v)<!-- MEMES:END -->
+ - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - ⏩ [Wonder why](http://9gag.com/gag/a0e6yQX)
+ - 👉 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)<!-- MEMES:END -->
 
 ---
 
