@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Towerborne: Introducing a Spectacular Japanese-Themed Golden Week Event](https://news.xbox.com/en-us/2025/04/17/towerborne-golden-week-event/)
- - [Ultrakill publisher co-founder throws up hands, jokes &#39;Tarkov has done irreparable f*cking damage to the game industry&#39; because even FromSoftware games are extraction shooters now](https://www.pcgamer.com/gaming-industry/game-development/ultrakill-publisher-co-founder-throws-up-hands-jokes-tarkov-has-done-irreparable-f-cking-damage-to-the-game-industry-because-even-fromsoftware-games-are-extraction-shooters-now/)
- - [There&#39;s no two ways about it—I love the Lumon blue, retro styling of this Severance-inspired keyboard](https://www.pcgamer.com/hardware/gaming-keyboards/theres-no-two-ways-about-it-i-love-the-retro-styling-of-this-severance-inspired-keyboard/)<!-- GAME:END -->
+ - [Master the Art of Combat in Mandragora: Whispers of the Witch Tree](https://news.xbox.com/en-us/2025/04/17/mandragora-combat-guide/)
+ - [The First Berserker: Khazan&#39;s New Game Plus Gives You Access To Sick New Gear And More Ways To Style Your Fit](https://kotaku.com/first-berserker-khazan-new-game-plus-legendary-transmog-1851776611)
+ - [MSI RTX 5060 Ti 16G Gaming Trio OC review](https://www.pcgamer.com/hardware/graphics-cards/msi-rtx-5060-ti-16g-gaming-trio-oc-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
