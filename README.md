@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - ⏩ [Hehe](http://9gag.com/gag/aE0oKEo)
- - 👉 [Little lower](http://9gag.com/gag/aKGWZLg)<!-- MEMES:END -->
+ - 💣 [Haha!](http://9gag.com/gag/agm8eZx)
+ - ⏩ [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)
+ - 👉 [Why?](http://9gag.com/gag/an7voM5)<!-- MEMES:END -->
 
 ---
 
