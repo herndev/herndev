@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workers and researchers say data annotation jobs that many Venezuelans relied on have become scarce and poorly paid with the rise of generative AI &lpar;Laura Rodríguez Salamanca/Rest of World&rpar;](http://www.techmeme.com/250417/p7#a250417p7)
- - [Gemini could soon be coming to your car with Android Automotive &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-android-automotive-apk-teardown-3545540/)
- - [Is the Viral TikTok Sleepy Girl Mocktail As Good as It Sounds? We Found Out](https://www.cnet.com/health/sleep/is-the-viral-sleepy-girl-mocktail-as-good-as-it-sounds-we-found-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Nvidia has privately pushed back against new US export rules, arguing China can already make some H20-level chips; Nvidia sold ~$12B of H20s in FY 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250417/p11#a250417p11)
+ - [In Q1 2025, AI and ML startups raised $73.1B, accounting for 57.9% of global VC funding, with OpenAI&#39;s recent round led by SoftBank contributing $40B &lpar;Jacob Robbins/PitchBook&rpar;](http://www.techmeme.com/250417/p10#a250417p10)
+ - [Smashing, an AI-powered news and social media posts aggregation app by Goodreads co-founder Otis Chandler, shuts down, citing its inability to grow quickly &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250417/p9#a250417p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
