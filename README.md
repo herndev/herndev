@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, April 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-17-2025/)
- - [Seth Rogen goes rogue at science awards show to slam tech billionaires for backing Trump: &#39;It&#39;s amazing how much good science you can destroy with $320 million and RFK Jr&#39;](https://www.pcgamer.com/gaming-industry/events-conferences/seth-rogen-goes-rogue-at-science-awards-show-to-slam-tech-billionaires-for-backing-trump-its-amazing-how-much-good-science-you-can-destroy-with-usd320-million-and-rfk-jr/)
- - [Skyblivion fan project lead sends &#39;all love and no hate&#39; to the official Oblivion remaster devs: &#39;This always was a passion project and still is until the end&#39;](https://www.pcgamer.com/games/rpg/skyblivion-fan-project-lead-sends-all-love-and-no-hate-to-the-official-oblivion-remaster-devs-this-always-was-a-passion-project-and-still-is-until-the-end/)<!-- GAME:END -->
+ - [One of our favourite last-gen handheld PCs is getting a Ryzen AI HX 370 upgrade and a native landscape display](https://www.pcgamer.com/hardware/handheld-gaming-pcs/one-of-our-favourite-last-gen-handheld-pcs-is-getting-a-ryzen-ai-hx-370-upgrade-and-a-native-landscape-display/)
+ - [Android phones will reboot after 3 days of inactivity in new security update, but don&#39;t worry, this is a good thing. Just make sure you know your PIN](https://www.pcgamer.com/hardware/android-phones-will-reboot-after-3-days-of-inactivity-in-new-security-update-but-dont-worry-this-is-a-good-thing-just-make-sure-you-know-your-pin/)
+ - [Nintendo take first Japanese Switch modder to court, resulting fine is 400,000% less than the one given to Gary Bowser](https://www.pcgamer.com/hardware/vr-hardware/nintendo-take-first-japanese-switch-modder-to-court-resulting-fine-is-400-000-percent-less-than-the-one-given-to-gary-bowser/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
