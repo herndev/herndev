@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup, every night](http://9gag.com/gag/a0e6rQB)
- - ⏩ [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
- - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
+ - 💣 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
+ - ⏩ [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - 👉 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)<!-- MEMES:END -->
 
 ---
 
