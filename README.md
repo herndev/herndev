@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - ⏩ [Wonder why](http://9gag.com/gag/a0e6yQX)
- - 👉 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)<!-- MEMES:END -->
+ - 💣 [Yup, every night](http://9gag.com/gag/a0e6rQB)
+ - ⏩ [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
+ - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
 
 ---
 
