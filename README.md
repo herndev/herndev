@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
- - ⏩ [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 👉 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)<!-- MEMES:END -->
+ - 💣 [It&#39;s not a color thing, it&#39;s a culture thing](http://9gag.com/gag/azxGW1m)
+ - ⏩ [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 👉 [Americans unite.](http://9gag.com/gag/aryZYV5)<!-- MEMES:END -->
 
 ---
 
