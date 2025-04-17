@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Auradine, which manufactures Bitcoin miners and offers AI infrastructure, raised a $153M Series C, with $138M in equity and $15M in debt, led by StepStone Group &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250416/p59#a250416p59)
- - [xAI announces a memory feature for Grok in beta that enables the AI chatbot to remember details from past conversations and give more personalized responses &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250416/p58#a250416p58)
- - [Samsung phones could soon let you ditch Gemini for this rising AI assistant](https://www.androidauthority.com/samsung-phones-perplexity-assistant-3545515/)<!-- TECH:END -->
+ - [Strava acquires massively popular Runna app](https://www.theverge.com/tech/648075/strava-runna-acquisition-running-fitness-tech)
+ - [Gemini’s best trick is now rolling out to all Pixel phones for free!](https://www.androidauthority.com/gemini-live-with-camera-and-screen-sharing-expansion-3545517/)
+ - [Sources: OpenAI and SoftBank are considering investing in the UK for Stargate as part of an international expansion, if the project proves successful in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250417/p2#a250417p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
