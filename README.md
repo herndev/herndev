@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iRobot’s Roomba Combo 10 Max is nearly 50 percent off for Verge readers](https://www.theverge.com/tech/651608/roomba-combo-10-max-steelseries-arctis-pro-wireless-headset-deal-sale)
- - [EU puts Apple fine on hold while US trade talks continue](https://appleinsider.com/articles/25/04/18/eu-puts-apple-fine-on-hold-while-us-trade-talks-continue?utm_medium=rss)
- - [Covid.gov now points to a &amp;#8216;lab leak&amp;#8217; conspiracy website](https://www.theverge.com/news/651825/covid-gov-lab-leak-conspiracy-website)<!-- TECH:END -->
+ - [Apple Watch Series 11: What&#39;s expected to arrive this fall](https://appleinsider.com/articles/25/04/18/apple-watch-series-11-whats-expected-to-arrive-this-fall?utm_medium=rss)
+ - [Amazon’s departure from Android could start this year with new TV streamer](https://www.androidauthority.com/amazon-vega-powered-tv-streamer-3546027/)
+ - [Apple Is Planning New Vision Pro Models and Rival to Meta Ray-Ban Glasses, Report Says](https://www.cnet.com/tech/mobile/apple-is-planning-new-vision-pro-models-and-rival-to-meta-ray-ban-glasses-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
