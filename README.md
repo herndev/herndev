@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Power of lightning strikes](http://9gag.com/gag/an7vw9B)
- - ⏩ [He thought he was smart...](http://9gag.com/gag/aMVno01)
- - 👉 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)<!-- MEMES:END -->
+ - 💣 [Woody woodpecker](http://9gag.com/gag/aAy4919)
+ - ⏩ [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
+ - 👉 [Boeing CEO earns $32.8M; while the company spirals downward.](http://9gag.com/gag/agm8z7W)<!-- MEMES:END -->
 
 ---
 
