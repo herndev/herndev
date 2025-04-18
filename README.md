@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Everything, everywhere, all at once.](http://9gag.com/gag/aW4vKQ6)
- - ⏩ [Michael bay directed](http://9gag.com/gag/adBnZ4j)
- - 👉 [I&#39;m going under the knife &lpar;and angle grinder&rpar; in a few hours. F**k you and see you tomorrow. Stay safe.](http://9gag.com/gag/aZZQ6E6)<!-- MEMES:END -->
+ - ⏩ [I&#39;m going under the knife &lpar;and angle grinder&rpar; in a few hours. F**k you and see you tomorrow. Stay safe.](http://9gag.com/gag/aZZQ6E6)
+ - 👉 [Michael bay directed](http://9gag.com/gag/adBnZ4j)<!-- MEMES:END -->
 
 ---
 
