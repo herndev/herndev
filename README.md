@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - ⏩ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 👉 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)<!-- MEMES:END -->
+ - 💣 [Squirrel\u2019s stash of nuts in an antenna](http://9gag.com/gag/aKGWMLN)
+ - ⏩ [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
+ - 👉 [Wonder why](http://9gag.com/gag/a0e6yQX)<!-- MEMES:END -->
 
 ---
 
