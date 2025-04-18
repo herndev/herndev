@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
- - ⏩ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 👉 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)<!-- MEMES:END -->
+ - 💣 [Power of lightning strikes](http://9gag.com/gag/an7vw9B)
+ - ⏩ [He thought he was smart...](http://9gag.com/gag/aMVno01)
+ - 👉 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)<!-- MEMES:END -->
 
 ---
 
