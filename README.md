@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel 9a selfie previews are flickering like mad, but there’s an easy fix &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/pixel-9a-selfie-bug-3544882/)
  - [A look at ways AI is being used to cut carbon emissions: calculating fuel-efficient driving patterns, monitoring grid infrastructure, and more &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/250418/p2#a250418p2)
- - [China&#39;s Q1 2025 smartphone shipments grew 3.3% YoY to 71.6M units; Xiaomi led with 18.6% market share, Apple was the only foreign brand in top 5 with 13.7% &lpar;IDC&rpar;](http://www.techmeme.com/250418/p1#a250418p1)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, April 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China&#39;s Q1 2025 smartphone shipments grew 3.3% YoY to 71.6M units; Xiaomi led with 18.6% market share, Apple was the only foreign brand in top 5 with 13.7% &lpar;IDC&rpar;](http://www.techmeme.com/250418/p1#a250418p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
