@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music borrows a TikTok habit to make liking songs instinctively easier](https://www.androidauthority.com/youtube-music-double-tap-to-like-3545952/)
- - [Ted Sarandos says Netflix talent uses &quot;AI tools to do set references, pre-vis, VFX sequence prep, shot planning&quot; and AI can make movies &quot;10% better&quot; &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250418/p5#a250418p5)
- - [9 Best Curling Irons of 2025, Tested for All Hair Types](https://www.wired.com/gallery/best-curling-iron/)<!-- TECH:END -->
+ - [Did you know: People once put iPhones in microwaves to charge them](https://www.androidauthority.com/did-you-know-iphone-microwave-prank-3544906/)
+ - [EcoFlow’s new Glacier fridge and Wave A/C look like worthy successors](https://www.theverge.com/news/650449/ecoflow-wave-3-glacier-classic-combo-price-date-specs)
+ - [Big Tech is back on trial](https://www.theverge.com/the-vergecast/651733/meta-antitrust-google-adtech-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
