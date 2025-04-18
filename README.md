@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - ⏩ [Woody woodpecker](http://9gag.com/gag/aAy4919)
- - 👉 [Boeing CEO earns $32.8M; while the company spirals downward.](http://9gag.com/gag/agm8z7W)<!-- MEMES:END -->
+ - 💣 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
+ - ⏩ [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
+ - 👉 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)<!-- MEMES:END -->
 
 ---
 
