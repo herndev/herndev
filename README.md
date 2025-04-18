@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MicroSD Express Cards Are Selling Out Because Of The Switch 2](https://kotaku.com/switch-2-microsd-express-cards-sell-out-amazon-best-buy-1851776846)
- - [Dominate Black Ops 6 &amp; Warzone With This Lethal Kilo 141 Loadout](https://kotaku.com/black-ops-6-warzone-kilo-141-how-to-unlock-best-loadout-1851776850)
- - [All Mario Kart World characters confirmed so far](https://www.polygon.com/mario-kart-world-guides/557340/characters-list-all-confirmed-roster-new-returning)<!-- GAME:END -->
+ - [The Pokémon TCG Team Rocket cards showcase everyday crime life](https://www.polygon.com/pokemon-tcg/558971/glory-of-team-rocket-destined-rivals-illustration-rare-art-sir)
+ - [How to use the Freezer to freeze and unfreeze items in Blue Prince](https://www.polygon.com/blue-prince-guides/561115/freezer-unfreeze-thaw-how-to)
+ - [The 28 Years Later Trailer Feels Like The Leftovers Meets Survival Horror](https://kotaku.com/28-years-later-trailer-reaction-leftovers-horror-1851776867)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
