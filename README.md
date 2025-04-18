@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did you know: People once put iPhones in microwaves to charge them](https://www.androidauthority.com/did-you-know-iphone-microwave-prank-3544906/)
- - [EcoFlow’s new Glacier fridge and Wave A/C look like worthy successors](https://www.theverge.com/news/650449/ecoflow-wave-3-glacier-classic-combo-price-date-specs)
- - [Big Tech is back on trial](https://www.theverge.com/the-vergecast/651733/meta-antitrust-google-adtech-vergecast)<!-- TECH:END -->
+ - [Google claims it won half of its monopoly case, and will appeal the rest](https://appleinsider.com/articles/25/04/18/google-claims-it-won-half-of-its-monopoly-case-and-will-appeal-the-rest?utm_medium=rss)
+ - [The humble screenshot might be the key to great AI assistants](https://www.theverge.com/ai-artificial-intelligence/650809/screenshots-apps-ai-pixel-nothing)
+ - [Elon Musk’s SpaceX is reportedly the &amp;#8216;frontrunner&amp;#8217; for Trump&amp;#8217;s missile shield contract](https://www.theverge.com/news/651757/elon-musk-spacex-golden-dome-missile-defense-frontrunner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
