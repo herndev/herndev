@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everything, everywhere, all at once.](http://9gag.com/gag/aW4vKQ6)
- - ⏩ [I&#39;m going under the knife &lpar;and angle grinder&rpar; in a few hours. F**k you and see you tomorrow. Stay safe.](http://9gag.com/gag/aZZQ6E6)
- - 👉 [Michael bay directed](http://9gag.com/gag/adBnZ4j)<!-- MEMES:END -->
+ - 💣 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
+ - ⏩ [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)
+ - 👉 [In a warehouse of a baklava business with 86 branches across Turkey, 11 tons of worm-infested walnut kernels were seized.](http://9gag.com/gag/aYQP3nw)<!-- MEMES:END -->
 
 ---
 
