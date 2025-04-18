@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MAGA-tech situationship](https://www.theverge.com/politics/651439/maga-tech-populism-antitrust-bannon-lina-khan-ftc)
- - [This week’s free Epic Android games come with a special bonus](https://www.androidauthority.com/epic-games-store-on-mobile-special-bonus-3545983/)
- - [Waiting for Nintendo Switch 2 pre-orders? There’s good news and bad news](https://www.androidauthority.com/switch-2-pre-orders-3545998/)<!-- TECH:END -->
+ - [iRobot’s Roomba Combo 10 Max is nearly 50 percent off for Verge readers](https://www.theverge.com/tech/651608/roomba-combo-10-max-steelseries-arctis-pro-wireless-headset-deal-sale)
+ - [EU puts Apple fine on hold while US trade talks continue](https://appleinsider.com/articles/25/04/18/eu-puts-apple-fine-on-hold-while-us-trade-talks-continue?utm_medium=rss)
+ - [Covid.gov now points to a &amp;#8216;lab leak&amp;#8217; conspiracy website](https://www.theverge.com/news/651825/covid-gov-lab-leak-conspiracy-website)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
