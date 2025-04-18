@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google claims it won half of its monopoly case, and will appeal the rest](https://appleinsider.com/articles/25/04/18/google-claims-it-won-half-of-its-monopoly-case-and-will-appeal-the-rest?utm_medium=rss)
- - [The humble screenshot might be the key to great AI assistants](https://www.theverge.com/ai-artificial-intelligence/650809/screenshots-apps-ai-pixel-nothing)
- - [Elon Musk’s SpaceX is reportedly the &amp;#8216;frontrunner&amp;#8217; for Trump&amp;#8217;s missile shield contract](https://www.theverge.com/news/651757/elon-musk-spacex-golden-dome-missile-defense-frontrunner)<!-- TECH:END -->
+ - [The MAGA-tech situationship](https://www.theverge.com/politics/651439/maga-tech-populism-antitrust-bannon-lina-khan-ftc)
+ - [This week’s free Epic Android games come with a special bonus](https://www.androidauthority.com/epic-games-store-on-mobile-special-bonus-3545983/)
+ - [Waiting for Nintendo Switch 2 pre-orders? There’s good news and bad news](https://www.androidauthority.com/switch-2-pre-orders-3545998/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
