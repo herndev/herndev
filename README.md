@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lunar Remastered Collection: How Its Stellar Logo &amp; Package Design Came to Be](https://news.xbox.com/en-us/2025/04/18/lunar-remastered-collection-logo-amp-package-design/)
- - [These horror games are set outside the US, and that’s infinitely more interesting](https://www.polygon.com/gaming/560827/horror-games-around-world-silent-hill-f)
- - [I hope they didn&#39;t make the Oblivion NPCs hot](https://www.pcgamer.com/games/the-elder-scrolls/i-hope-they-didnt-make-the-oblivion-npcs-hot/)<!-- GAME:END -->
+ - [Win a Switch 2 from Polygon!](https://www.polygon.com/nintendo-switch-2/539299/sweepstakes-newsletter-entry-details)
+ - [Mandragora&#39;s Dark Fantasy World Offers A Lengthy Campaign With Tons Of Secrets](https://kotaku.com/mandragora-soulslike-how-long-to-beat-new-game-plus-1851776837)
+ - [Introducing Call of Duty: Mobile Season 4 — Infinity Realm](https://www.callofduty.com/blog/2025/04/call-of-duty-mobile-season-four-infinity-realm-announcement#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
