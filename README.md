@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Target and GameStop announce when their Switch 2 preorders start](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)
- - [Experts say two federal judges declaring Google a monopoly within a year signals a judicial shift toward addressing anticompetitive behavior in digital markets &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250418/p13#a250418p13)
- - [When you report bugs on iOS, some content may be used for AI training](https://appleinsider.com/articles/25/04/18/when-you-report-bugs-on-ios-some-content-may-be-used-for-ai-training?utm_medium=rss)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [DOGE Is Building a Master Database to Surveil and Track Immigrants](https://www.wired.com/story/doge-collecting-immigrant-data-surveil-track/)
+ - [How ‘free’ is a free phone? We’ve done the math, so you don’t have to](https://www.androidauthority.com/how-free-is-a-free-phone-3493368/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
