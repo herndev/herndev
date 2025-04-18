@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws DLC A Pirate&#39;s Fortune announced for May 15](https://www.pcgamer.com/games/action/star-wars-outlaws-dlc-a-pirates-fortune-announced-for-may-15/)
- - [A new Star Wars movie is coming in 2027 from Deadpool &amp;#038; Wolverine’s director](https://www.polygon.com/star-wars/560964/star-wars-starfighter-announcement-deadpool-wolverine-director-2027)
- - [Shawn Levy of Deadpool &amp; Wolverine fame is directing Star Wars: Starfighter, a standalone movie starring Ryan Gosling](https://www.pcgamer.com/movies-tv/shawn-levy-of-deadpool-and-wolverine-fame-is-directing-star-wars-starfighter-a-standalone-movie-starring-ryan-gosling/)<!-- GAME:END -->
+ - [Looks like PCIe 5.0 WD Black SSDs are hopefully definitely maybe possibly on the way, at long last](https://www.pcgamer.com/hardware/ssds/looks-like-pcie-5-0-wd-black-ssds-are-hopefully-definitely-maybe-possibly-on-the-way-at-long-last/)
+ - [Corsair&#39;s custom shop Drop announces possibly the best thing to come out of Starfield](https://www.pcgamer.com/hardware/gaming-keyboards/corsairs-custom-shop-drop-announces-possibly-the-best-thing-to-come-out-of-starfield/)
+ - [Cherry&#39;s new MX Northern Light is its &#39;most refined linear switch to date&#39; and a &#39;love letter to the keyboard community&#39;](https://www.pcgamer.com/hardware/gaming-keyboards/cherrys-new-mx-northern-light-is-its-most-refined-linear-switch-to-date-and-a-love-letter-to-the-keyboard-community/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
