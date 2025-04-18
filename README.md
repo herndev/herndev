@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amerzone: Why Microids Remade this Cult ’90s Adventure Game](https://news.xbox.com/en-us/2025/04/18/amerzone-remake-adventure-game/)
- - [Sunderfolk makes for a surprisingly good virtual tabletop night](https://www.polygon.com/review/560845/sunderfolk-review-pc-switch-ps5-xbox)
- - [Damn, Mario Kart World Looks Awesome](https://kotaku.com/mario-kart-world-screenshots-4k-switch-2-nintendo-price-1851776680)<!-- GAME:END -->
+ - [Switch 2 accessories just got slightly more expensive in the US](https://www.polygon.com/nintendo-switch-2/561021/accessories-price-increase-pre-order)
+ - [Next Week on Xbox: New Games for April 21 to 25](https://news.xbox.com/en-us/2025/04/18/next-week-on-xbox-new-games-for-april-21-to-25/)
+ - [After you watch Sinners, you should read George R.R. Martin’s excellent and underrated vampire novel](https://www.polygon.com/recommendations/559378/sinners-george-r-r-martin-vampires-book-fevre-dream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
