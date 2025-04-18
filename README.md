@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RUMOR - It seems that JK Rowling is suing Warner Brothers for the rights to Harry Potter, as the studio is looking for a diverse cast for the new version but Rowling prefers a cast more traditional and fait](http://9gag.com/gag/aLnGZ8v)
- - ⏩ [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
- - 👉 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)<!-- MEMES:END -->
+ - 💣 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
+ - ⏩ [Female](http://9gag.com/gag/aGyMQm5)
+ - 👉 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)<!-- MEMES:END -->
 
 ---
 
