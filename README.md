@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: This car mount can charge your smartphone wirelessly, and it’s 60% off!](https://www.androidauthority.com/scosche-10w-qi-smartphone-car-mount-deal-3545860/)
- - [CFPB workers are receiving mass layoff notices](https://www.theverge.com/news/651570/cfpb-layoffs-notices-doge)
- - [Sources: the CFPB terminated more than 1,400 workers, leaving about 200 employees and effectively gutting the agency that Elon Musk previously said to &quot;delete&quot; &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250417/p38#a250417p38)<!-- TECH:END -->
+ - [Get this Samsung 43-inch Smart Monitor M7 and a 2TB SSD to save over $220!](https://www.androidauthority.com/samsung-43-inch-smart-monitor-m7-m70d-2tb-t7-ssd-deal-3545859/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 18, #207](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-18-207/#ftag=CAD590a51e)
+ - [Deal: This car mount can charge your smartphone wirelessly, and it’s 60% off!](https://www.androidauthority.com/scosche-10w-qi-smartphone-car-mount-deal-3545860/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
