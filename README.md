@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paying for Gemini Advanced might get easier and cheaper soon for loyal users](https://www.androidauthority.com/gemini-advanced-annual-subscription-plan-in-works-3545924/)
- - [The Samsung Galaxy A36 5G will get updates until 2031, but it already feels outdated to me](https://www.androidauthority.com/samsung-galaxy-a36-review-3542757/)
- - [LG’s Integrated TV Ad Tech Analyzes Your Emotions](https://www.wired.com/story/lg-zenapse-integrated-tv-ads-emotional-analysis/)<!-- TECH:END -->
+ - [YouTube Music borrows a TikTok habit to make liking songs instinctively easier](https://www.androidauthority.com/youtube-music-double-tap-to-like-3545952/)
+ - [Ted Sarandos says Netflix talent uses &quot;AI tools to do set references, pre-vis, VFX sequence prep, shot planning&quot; and AI can make movies &quot;10% better&quot; &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250418/p5#a250418p5)
+ - [9 Best Curling Irons of 2025, Tested for All Hair Types](https://www.wired.com/gallery/best-curling-iron/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
