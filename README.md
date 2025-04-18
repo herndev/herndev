@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insiders, including tech execs, say President Trump&#39;s trade war may hinder the US computing industry by raising costs for building chip fabs and AI data centers &lpar;Financial Times&rpar;](http://www.techmeme.com/250418/p3#a250418p3)
- - [Android 16 is here for more than just Pixels: All these phones can also run the Android 16 beta!](https://www.androidauthority.com/android-16-supported-devices-3545917/)
- - [The $1,799 WYBOT S2 Solar robot can clean an entire swimming pool with just the power of the sun](https://www.androidauthority.com/wybot-s2-solar-robot-pool-cleaner-review-3545144/)<!-- TECH:END -->
+ - [Google breakup, Apple Ads, and Apple Vision Pro 2 on the AppleInsider Podcast](https://appleinsider.com/articles/25/04/18/google-breakup-apple-ads-and-apple-vision-pro-2-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Exaforce, which lets cybersecurity teams work with AI agents to cut false positives and busywork, raised a $75M Series A led by Khosla, Mayfield, and Thomvest &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/250418/p4#a250418p4)
+ - [Inside Apple TV 4K -- the best addition to your TV set](https://appleinsider.com/inside/apple-tv/tips/inside-apple-tv-4k----the-best-addition-to-your-tv-set?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
