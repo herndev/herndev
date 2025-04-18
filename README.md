@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
- - ⏩ [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
- - 👉 [Everything, everywhere, all at once.](http://9gag.com/gag/aW4vKQ6)<!-- MEMES:END -->
+ - 💣 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
+ - ⏩ [Squirrel\u2019s stash of nuts in an antenna](http://9gag.com/gag/aKGWMLN)
+ - 👉 [Snake shedding its skin while being held](http://9gag.com/gag/aByPeGQ)<!-- MEMES:END -->
 
 ---
 
