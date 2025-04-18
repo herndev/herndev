@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Win a Switch 2 from Polygon!](https://www.polygon.com/nintendo-switch-2/539299/sweepstakes-newsletter-entry-details)
- - [Mandragora&#39;s Dark Fantasy World Offers A Lengthy Campaign With Tons Of Secrets](https://kotaku.com/mandragora-soulslike-how-long-to-beat-new-game-plus-1851776837)
- - [Introducing Call of Duty: Mobile Season 4 — Infinity Realm](https://www.callofduty.com/blog/2025/04/call-of-duty-mobile-season-four-infinity-realm-announcement#new_tab)<!-- GAME:END -->
+ - [MicroSD Express Cards Are Selling Out Because Of The Switch 2](https://kotaku.com/switch-2-microsd-express-cards-sell-out-amazon-best-buy-1851776846)
+ - [Dominate Black Ops 6 &amp; Warzone With This Lethal Kilo 141 Loadout](https://kotaku.com/black-ops-6-warzone-kilo-141-how-to-unlock-best-loadout-1851776850)
+ - [All Mario Kart World characters confirmed so far](https://www.polygon.com/mario-kart-world-guides/557340/characters-list-all-confirmed-roster-new-returning)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
