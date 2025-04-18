@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 9a selfie previews are flickering like mad, but there’s an easy fix &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/pixel-9a-selfie-bug-3544882/)
- - [A look at ways AI is being used to cut carbon emissions: calculating fuel-efficient driving patterns, monitoring grid infrastructure, and more &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/250418/p2#a250418p2)
- - [China&#39;s Q1 2025 smartphone shipments grew 3.3% YoY to 71.6M units; Xiaomi led with 18.6% market share, Apple was the only foreign brand in top 5 with 13.7% &lpar;IDC&rpar;](http://www.techmeme.com/250418/p1#a250418p1)<!-- TECH:END -->
+ - [Insiders, including tech execs, say President Trump&#39;s trade war may hinder the US computing industry by raising costs for building chip fabs and AI data centers &lpar;Financial Times&rpar;](http://www.techmeme.com/250418/p3#a250418p3)
+ - [Android 16 is here for more than just Pixels: All these phones can also run the Android 16 beta!](https://www.androidauthority.com/android-16-supported-devices-3545917/)
+ - [The $1,799 WYBOT S2 Solar robot can clean an entire swimming pool with just the power of the sun](https://www.androidauthority.com/wybot-s2-solar-robot-pool-cleaner-review-3545144/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
