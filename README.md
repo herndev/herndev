@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to sign up for the Marathon alpha](https://www.polygon.com/marathon-guides/556546/alpha-how-to-sign-up-dates)
- - [Where to find all Microchips in Blue Prince](https://www.polygon.com/blue-prince-guides/561579/microchips-locations-all-where-to-find)
- - [Early Praise For Sinners Suggests The Genre-Fluid Horror Flick Is An Instant Classic](https://kotaku.com/sinners-early-reviews-ryan-coogler-classic-1851776877)<!-- GAME:END -->
+ - [Rematch passes 100K Steam concurrents in open beta as &#39;Rocket League but with feet&#39; turns out to be a winning idea](https://www.pcgamer.com/games/sports/rematch-passes-100k-steam-concurrents-in-open-beta-as-rocket-league-but-with-feet-turns-out-to-be-a-winning-idea/)
+ - [It looks like Tempest Rising accidentally launched early on Steam for everyone, despite withholding advanced access as a Deluxe Edition pre-order bonus](https://www.pcgamer.com/games/rts/it-looks-like-tempest-rising-accidentally-launched-early-on-steam-for-everyone-despite-withholding-advanced-access-as-a-deluxe-edition-pre-order-bonus/)
+ - [Baldur’s Gate 3 is 20% off to celebrate its last major update](https://www.polygon.com/good-deals/561625/baldurs-gate-3-final-patch-steam-gog-xbox-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
