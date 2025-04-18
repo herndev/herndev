@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CMF Phone 2 Pro shows off its cameras in Nothing’s latest teaser](https://www.androidauthority.com/cmf-phone-2-pro-camera-teaser-3546049/)
- - [Judge pauses mass firing of consumer protection workers](https://www.theverge.com/news/651909/cfpb-terminations-paused-berman-jackson-trump-court-order)
- - [DOGE Is Just Getting Warmed Up](https://www.wired.com/story/doge-is-just-getting-warmed-up-data-immigration/)<!-- TECH:END -->
+ - [Oregon sues Coinbase, alleging it&#39;s selling unregistered securities; Coinbase&#39;s Chief Legal Officer says it&#39;s a &quot;copycat case&quot; of SEC&#39;s now-dropped lawsuit &lpar;Vince Quill/Cointelegraph&rpar;](http://www.techmeme.com/250418/p12#a250418p12)
+ - [Judge Blocks DOGE From Laying Off 90 Percent of CFPB](https://www.wired.com/story/cfpb-terminations-paused-trump/)
+ - [Kia&amp;#8217;s affordable EV4 will still be imported to the US](https://www.theverge.com/news/651998/kia-ev4-new-york-auto-show-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
