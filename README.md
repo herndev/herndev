@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I don&#39;t know why early 2000s internet is suddenly back, but both Ask a Ninja and Homestar Runner have just uploaded new videos](https://www.pcgamer.com/gaming-industry/i-dont-know-why-early-2000s-internet-is-suddenly-back-but-both-ask-a-ninja-and-homestar-runner-have-just-uploaded-new-videos/)
  - [Co-op submarine survival simulator Barotrauma has a free weekend on Steam, so dive in with friends and experience the most comically horrifying deaths you can imagine](https://www.pcgamer.com/games/survival-crafting/co-op-submarine-survival-simulator-barotrauma-has-a-free-weekend-on-steam-so-dive-in-with-friends-and-experience-the-most-comically-horrifying-deaths-you-can-imagine/)
- - [Thanks to Baldur&#39;s Gate 3&#39;s new Swashbuckler subclass, it no longer sucks to be a pure Rogue](https://www.pcgamer.com/games/baldurs-gate/thanks-to-baldurs-gate-3s-new-swashbuckler-subclass-it-no-longer-sucks-to-be-a-pure-rogue/)
- - [Sinners’ credits scenes give the vampire movie a Return of the King spin](https://www.polygon.com/movies/560848/sinners-mid-post-credits-scenes)<!-- GAME:END -->
+ - [Thanks to Baldur&#39;s Gate 3&#39;s new Swashbuckler subclass, it no longer sucks to be a pure Rogue](https://www.pcgamer.com/games/baldurs-gate/thanks-to-baldurs-gate-3s-new-swashbuckler-subclass-it-no-longer-sucks-to-be-a-pure-rogue/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
