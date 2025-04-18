@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigantamax Snorlax counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/559793/gigantamax-snorlax-counters-weakness-tips)
- - [Path of Exile 2 backlash gives Last Epoch a 150,000-player boost as the competing action RPG launches a major update](https://www.pcgamer.com/games/rpg/path-of-exile-2-backlash-gives-last-epoch-a-150-000-player-boost/)
- - [I don&#39;t know why early 2000s internet is suddenly back, but both Ask a Ninja and Homestar Runner have just uploaded new videos](https://www.pcgamer.com/gaming-industry/i-dont-know-why-early-2000s-internet-is-suddenly-back-but-both-ask-a-ninja-and-homestar-runner-have-just-uploaded-new-videos/)<!-- GAME:END -->
+ - [Shawn Levy of Deadpool &amp; Wolverine fame is directing Star Wars: Starfighter, a standalone movie starring Ryan Gosling](https://www.pcgamer.com/movies-tv/shawn-levy-of-deadpool-and-wolverine-fame-is-directing-star-wars-starfighter-a-standalone-movie-starring-ryan-gosling/)
+ - [Today&#39;s Wordle answer for Friday, April 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-18-2025/)
+ - [Gigantamax Snorlax counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/559793/gigantamax-snorlax-counters-weakness-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
