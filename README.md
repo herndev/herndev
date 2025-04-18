@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
- - ⏩ [Keeping things simple.](http://9gag.com/gag/awyL6nx)
- - 👉 [Female](http://9gag.com/gag/aGyMQm5)<!-- MEMES:END -->
+ - 💣 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)
+ - ⏩ [Delivered](http://9gag.com/gag/ae9VLRO)
+ - 👉 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)<!-- MEMES:END -->
 
 ---
 
