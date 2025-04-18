@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - ⏩ [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
- - 👉 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)<!-- MEMES:END -->
+ - 💣 [I see that as a win](http://9gag.com/gag/ayNWGDV)
+ - ⏩ [Americans unite.](http://9gag.com/gag/aryZYV5)
+ - 👉 [The most amazing father and daughters duo](http://9gag.com/gag/aByPe2D)<!-- MEMES:END -->
 
 ---
 
