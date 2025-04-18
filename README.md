@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activate the Power of Play this Earth Day](https://news.xbox.com/en-us/2025/04/18/xbox-power-of-play-earth-day-2025/)
- - [Shinichirō Watanabe hopes Lazarus poses an apocalyptic question we all have to answer](https://www.polygon.com/anime/560472/lazarus-shinichiro-watanabe-interview-music)
- - [Share of the Week: The Last of Us Complete](https://blog.playstation.com/2025/04/18/share-of-the-week-the-last-of-us-complete/)<!-- GAME:END -->
+ - [Lunar Remastered Collection: How Its Stellar Logo &amp; Package Design Came to Be](https://news.xbox.com/en-us/2025/04/18/lunar-remastered-collection-logo-amp-package-design/)
+ - [These horror games are set outside the US, and that’s infinitely more interesting](https://www.polygon.com/gaming/560827/horror-games-around-world-silent-hill-f)
+ - [I hope they didn&#39;t make the Oblivion NPCs hot](https://www.pcgamer.com/games/the-elder-scrolls/i-hope-they-didnt-make-the-oblivion-npcs-hot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
