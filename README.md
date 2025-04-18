@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Squirrel\u2019s stash of nuts in an antenna](http://9gag.com/gag/aKGWMLN)
- - ⏩ [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
- - 👉 [Wonder why](http://9gag.com/gag/a0e6yQX)<!-- MEMES:END -->
+ - 💣 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
+ - ⏩ [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
+ - 👉 [Everything, everywhere, all at once.](http://9gag.com/gag/aW4vKQ6)<!-- MEMES:END -->
 
 ---
 
