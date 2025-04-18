@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)
+ - 💣 [Mt. Everest Death Zone](http://9gag.com/gag/aXP4yAg)
  - ⏩ [This ain\u2019t a rock\u2026This is a gharial, a rare crocodile species on the verge of extinction](http://9gag.com/gag/aLnGZDP)
- - 👉 [I have asked AI to draw itself without canonic human observation and vizualization pattern. How would it draw itself for itself.](http://9gag.com/gag/adBnmYd)<!-- MEMES:END -->
+ - 👉 [Meanwhile in Denmark](http://9gag.com/gag/aD2ZEOZ)<!-- MEMES:END -->
 
 ---
 
