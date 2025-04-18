@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wonder why](http://9gag.com/gag/a0e6yQX)
- - ⏩ [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
+ - 💣 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
+ - ⏩ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
  - 👉 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)<!-- MEMES:END -->
 
 ---
