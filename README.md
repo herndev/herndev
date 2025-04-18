@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 11: What&#39;s expected to arrive this fall](https://appleinsider.com/articles/25/04/18/apple-watch-series-11-whats-expected-to-arrive-this-fall?utm_medium=rss)
- - [Amazon’s departure from Android could start this year with new TV streamer](https://www.androidauthority.com/amazon-vega-powered-tv-streamer-3546027/)
- - [Apple Is Planning New Vision Pro Models and Rival to Meta Ray-Ban Glasses, Report Says](https://www.cnet.com/tech/mobile/apple-is-planning-new-vision-pro-models-and-rival-to-meta-ray-ban-glasses-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CMF Phone 2 Pro shows off its cameras in Nothing’s latest teaser](https://www.androidauthority.com/cmf-phone-2-pro-camera-teaser-3546049/)
+ - [Judge pauses mass firing of consumer protection workers](https://www.theverge.com/news/651909/cfpb-terminations-paused-berman-jackson-trump-court-order)
+ - [DOGE Is Just Getting Warmed Up](https://www.wired.com/story/doge-is-just-getting-warmed-up-data-immigration/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
