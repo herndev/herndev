@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rematch passes 100K Steam concurrents in open beta as &#39;Rocket League but with feet&#39; turns out to be a winning idea](https://www.pcgamer.com/games/sports/rematch-passes-100k-steam-concurrents-in-open-beta-as-rocket-league-but-with-feet-turns-out-to-be-a-winning-idea/)
- - [It looks like Tempest Rising accidentally launched early on Steam for everyone, despite withholding advanced access as a Deluxe Edition pre-order bonus](https://www.pcgamer.com/games/rts/it-looks-like-tempest-rising-accidentally-launched-early-on-steam-for-everyone-despite-withholding-advanced-access-as-a-deluxe-edition-pre-order-bonus/)
- - [Baldur’s Gate 3 is 20% off to celebrate its last major update](https://www.polygon.com/good-deals/561625/baldurs-gate-3-final-patch-steam-gog-xbox-sale)<!-- GAME:END -->
+ - [I don&#39;t know what I expected: Everybody&#39;s just recreating memes in Baldur&#39;s Gate 3&#39;s new photo mode](https://www.pcgamer.com/games/baldurs-gate/i-dont-know-what-i-expected-everybodys-just-recreating-memes-in-baldurs-gate-3s-new-photo-mode/)
+ - [While this paleontologist doesn&#39;t find Elden Ring&#39;s monster designs all that realistic, he was impressed by FromSoft&#39;s subtle storytelling and commitment to &#39;speculative biology&#39;](https://www.pcgamer.com/games/rpg/while-this-paleontologist-doesnt-find-elden-rings-monster-designs-all-that-realistic-he-was-impressed-by-fromsofts-subtle-storytelling-and-commitment-to-speculative-biology/)
+ - [Captain America: Brave New World, Companion, The Room Next Door on Netflix, and every movie new to streaming this weekend](https://www.polygon.com/entertainment/558549/new-movies-watch-streaming-captain-america-brave-new-world-companion-room-next-door-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
