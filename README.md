@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)
- - ⏩ [Delivered](http://9gag.com/gag/ae9VLRO)
- - 👉 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)<!-- MEMES:END -->
+ - 💣 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - ⏩ [Female](http://9gag.com/gag/aGyMQm5)
+ - 👉 [I\u2019d prefer to keep the dogs and deport the Islamists if I\u2019m honest.](http://9gag.com/gag/avyEj8q)<!-- MEMES:END -->
 
 ---
 
