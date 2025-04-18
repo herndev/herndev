@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 accessories just got slightly more expensive in the US](https://www.polygon.com/nintendo-switch-2/561021/accessories-price-increase-pre-order)
- - [Next Week on Xbox: New Games for April 21 to 25](https://news.xbox.com/en-us/2025/04/18/next-week-on-xbox-new-games-for-april-21-to-25/)
- - [After you watch Sinners, you should read George R.R. Martin’s excellent and underrated vampire novel](https://www.polygon.com/recommendations/559378/sinners-george-r-r-martin-vampires-book-fevre-dream)<!-- GAME:END -->
+ - [Nintendo confirms the Switch 2 price is staying at $450 in the US despite tariff turmoil, with preorders starting April 24](https://www.pcgamer.com/hardware/handheld-gaming-pcs/nintendo-confirms-the-switch-2-price-is-staying-at-usd450-in-the-us-despite-tariff-turmoil-with-preorders-starting-april-24/)
+ - [Phil Spencer is &#39;really happy&#39; with Indiana Jones and the Great Circle, hinting there might be more Nazi punching adventures in the future: &#39;We do think there&#39;s life in that franchise&#39;](https://www.pcgamer.com/games/action/phil-spencer-is-really-happy-with-indiana-jones-and-the-great-circle-hinting-there-might-be-more-nazi-punching-adventures-in-the-future-we-do-think-theres-life-in-that-franchise/)
+ - [Switch 2 accessories just got slightly more expensive in the US](https://www.polygon.com/nintendo-switch-2/561021/accessories-price-increase-pre-order)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
