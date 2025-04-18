@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [DOGE Is Building a Master Database to Surveil and Track Immigrants](https://www.wired.com/story/doge-collecting-immigrant-data-surveil-track/)
- - [How ‘free’ is a free phone? We’ve done the math, so you don’t have to](https://www.androidauthority.com/how-free-is-a-free-phone-3493368/)<!-- TECH:END -->
+ - [Projector deals: Save up to $120 on the XGIMI Elfin Flip and MoGo 3 Pro](https://www.androidauthority.com/xgimi-elfin-flip-mogo-3-pro-deals-3546125/)
+ - [The government doesn’t understand Meta](https://www.theverge.com/command-line-newsletter/652191/ftc-meta-antitrust-trial-instagram-whatsapp-network-effects)
+ - [Here’s how Nintendo Switch 2 preorders will work](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
