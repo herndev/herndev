@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
- - ⏩ [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
- - 👉 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)<!-- MEMES:END -->
+ - 💣 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)
+ - ⏩ [Wonder why](http://9gag.com/gag/a0e6yQX)
+ - 👉 [Hol up - here have a chair](http://9gag.com/gag/aRBzdL5)<!-- MEMES:END -->
 
 ---
 
