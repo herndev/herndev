@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After a disastrous recent update and a flurry of attempts to fix it, Path of Exile 2&#39;s next patch will bring &#39;two highly sought after improvements&#39;](https://www.pcgamer.com/games/rpg/after-a-disastrous-recent-update-and-a-flurry-of-attempts-to-fix-it-path-of-exile-2s-next-patch-will-bring-two-highly-sought-after-improvements/)
  - [Looks like PCIe 5.0 WD Black SSDs are hopefully definitely maybe possibly on the way, at long last](https://www.pcgamer.com/hardware/ssds/looks-like-pcie-5-0-wd-black-ssds-are-hopefully-definitely-maybe-possibly-on-the-way-at-long-last/)
- - [Corsair&#39;s custom shop Drop announces possibly the best thing to come out of Starfield](https://www.pcgamer.com/hardware/gaming-keyboards/corsairs-custom-shop-drop-announces-possibly-the-best-thing-to-come-out-of-starfield/)
- - [Cherry&#39;s new MX Northern Light is its &#39;most refined linear switch to date&#39; and a &#39;love letter to the keyboard community&#39;](https://www.pcgamer.com/hardware/gaming-keyboards/cherrys-new-mx-northern-light-is-its-most-refined-linear-switch-to-date-and-a-love-letter-to-the-keyboard-community/)<!-- GAME:END -->
+ - [Corsair&#39;s custom shop Drop announces possibly the best thing to come out of Starfield](https://www.pcgamer.com/hardware/gaming-keyboards/corsairs-custom-shop-drop-announces-possibly-the-best-thing-to-come-out-of-starfield/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
