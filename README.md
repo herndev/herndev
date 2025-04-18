@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
- - ⏩ [Female](http://9gag.com/gag/aGyMQm5)
- - 👉 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)<!-- MEMES:END -->
+ - 💣 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
+ - ⏩ [Keeping things simple.](http://9gag.com/gag/awyL6nx)
+ - 👉 [Female](http://9gag.com/gag/aGyMQm5)<!-- MEMES:END -->
 
 ---
 
