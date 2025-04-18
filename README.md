@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get this Samsung 43-inch Smart Monitor M7 and a 2TB SSD to save over $220!](https://www.androidauthority.com/samsung-43-inch-smart-monitor-m7-m70d-2tb-t7-ssd-deal-3545859/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 18, #207](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-18-207/#ftag=CAD590a51e)
- - [Deal: This car mount can charge your smartphone wirelessly, and it’s 60% off!](https://www.androidauthority.com/scosche-10w-qi-smartphone-car-mount-deal-3545860/)<!-- TECH:END -->
+ - [US consumers are flocking to Chinese shopping apps DHgate and Taobao, which let them buy direct from manufacturers, as Shein and Temu prices rise amid tariffs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250417/p41#a250417p41)
+ - [Rare deal: The Google TV Streamer is on sale for $79!](https://www.androidauthority.com/google-tv-streamer-deal-3545858/)
+ - [Sources: Meta asked Microsoft, Amazon, and others over the past year to fund Llama training costs in exchange for incentives, as part of a &quot;Llama Consortium&quot; &lpar;The Information&rpar;](http://www.techmeme.com/250417/p40#a250417p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
