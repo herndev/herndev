@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - ⏩ [Female](http://9gag.com/gag/aGyMQm5)
- - 👉 [I\u2019d prefer to keep the dogs and deport the Islamists if I\u2019m honest.](http://9gag.com/gag/avyEj8q)<!-- MEMES:END -->
+ - 💣 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - ⏩ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - 👉 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)<!-- MEMES:END -->
 
 ---
 
