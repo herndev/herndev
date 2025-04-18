@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pokémon TCG Team Rocket cards showcase everyday crime life](https://www.polygon.com/pokemon-tcg/558971/glory-of-team-rocket-destined-rivals-illustration-rare-art-sir)
- - [How to use the Freezer to freeze and unfreeze items in Blue Prince](https://www.polygon.com/blue-prince-guides/561115/freezer-unfreeze-thaw-how-to)
- - [The 28 Years Later Trailer Feels Like The Leftovers Meets Survival Horror](https://kotaku.com/28-years-later-trailer-reaction-leftovers-horror-1851776867)<!-- GAME:END -->
+ - [How to sign up for the Marathon alpha](https://www.polygon.com/marathon-guides/556546/alpha-how-to-sign-up-dates)
+ - [Where to find all Microchips in Blue Prince](https://www.polygon.com/blue-prince-guides/561579/microchips-locations-all-where-to-find)
+ - [Early Praise For Sinners Suggests The Genre-Fluid Horror Flick Is An Instant Classic](https://kotaku.com/sinners-early-reviews-ryan-coogler-classic-1851776877)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
