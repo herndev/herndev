@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
- - ⏩ [Squirrel\u2019s stash of nuts in an antenna](http://9gag.com/gag/aKGWMLN)
- - 👉 [Snake shedding its skin while being held](http://9gag.com/gag/aByPeGQ)<!-- MEMES:END -->
+ - 💣 [Everything, everywhere, all at once.](http://9gag.com/gag/aW4vKQ6)
+ - ⏩ [Michael bay directed](http://9gag.com/gag/adBnZ4j)
+ - 👉 [I&#39;m going under the knife &lpar;and angle grinder&rpar; in a few hours. F**k you and see you tomorrow. Stay safe.](http://9gag.com/gag/aZZQ6E6)<!-- MEMES:END -->
 
 ---
 
