@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All honey no juice](http://9gag.com/gag/aRBvQP5)
- - ⏩ [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - 👉 [What Hollywood needs is a female Brokeback Mountain version with Ana de Armas and Sydney Sweeney](http://9gag.com/gag/an7xYy0)<!-- MEMES:END -->
+ - 💣 [Creativity at minds](http://9gag.com/gag/aByERzN)
+ - ⏩ [One glass pane further please, is the exit](http://9gag.com/gag/adBxYvB)
+ - 👉 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)<!-- MEMES:END -->
 
 ---
 
