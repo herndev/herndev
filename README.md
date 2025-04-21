@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - ⏩ [A real normal woman](http://9gag.com/gag/azxObyp)
- - 👉 [Well, yeah](http://9gag.com/gag/aQzmpDe)<!-- MEMES:END -->
+ - 💣 [Well, yeah](http://9gag.com/gag/aQzmpDe)
+ - ⏩ [Popen&#39;t](http://9gag.com/gag/a348735)
+ - 👉 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)<!-- MEMES:END -->
 
 ---
 
