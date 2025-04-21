@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Renting Video Game Consoles Is So Back](https://kotaku.com/ps5-rental-japan-price-geo-1851777045)
- - [Nintendo is going after the leaker behind major Pokémon ‘Teraleak’](https://www.polygon.com/pokemon/561817/pokemon-teraleak-nintendo-discord-subpoena)
- - [Bungie&#39;s classic Myth fantasy tactics series gets the remasters it deserves, courtesy of its community](https://www.pcgamer.com/games/strategy/bungies-classic-myth-fantasy-tactics-series-gets-the-remasters-it-deserves-courtesy-of-its-community/)<!-- GAME:END -->
+ - [Bethesda Finally Confirms Rumored Oblivion Remaster Is Real](https://kotaku.com/bethesda-elder-scrolls-oblivion-remaster-stream-real-1851777087)
+ - [Mark Zuckerberg is so desperate to make Facebook relevant again he considered deleting your entire friends list](https://www.pcgamer.com/hardware/mark-zuckerberg-is-so-desperate-to-make-facebook-relevant-again-he-considered-deleting-your-entire-friends-list/)
+ - [The Internet Reacts To Last Night&#39;s Big Scene In The Last Of Us](https://kotaku.com/last-of-us-hbo-max-show-joel-death-abby-kills-reaction-1851777068)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
