@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I don&#39;t know what I expected: Everybody&#39;s just recreating memes in Baldur&#39;s Gate 3&#39;s new photo mode](https://www.pcgamer.com/games/baldurs-gate/i-dont-know-what-i-expected-everybodys-just-recreating-memes-in-baldurs-gate-3s-new-photo-mode/)
- - [While this paleontologist doesn&#39;t find Elden Ring&#39;s monster designs all that realistic, he was impressed by FromSoft&#39;s subtle storytelling and commitment to &#39;speculative biology&#39;](https://www.pcgamer.com/games/rpg/while-this-paleontologist-doesnt-find-elden-rings-monster-designs-all-that-realistic-he-was-impressed-by-fromsofts-subtle-storytelling-and-commitment-to-speculative-biology/)
- - [Captain America: Brave New World, Companion, The Room Next Door on Netflix, and every movie new to streaming this weekend](https://www.polygon.com/entertainment/558549/new-movies-watch-streaming-captain-america-brave-new-world-companion-room-next-door-netflix)<!-- GAME:END -->
+ - [Palia&#39;s big Elderwood expansion is coming in May with a new zone that reminds me of WoW&#39;s Teldrassil](https://www.pcgamer.com/games/life-sim/palias-big-elderwood-expansion-is-coming-in-may-with-a-new-zone-that-reminds-me-of-wows-teldrassil/)
+ - [Ubisoft has made its colorblindness simulation tool available to any game developer for free](https://www.pcgamer.com/games/ubisoft-has-made-its-colorblindness-simulation-tool-available-to-any-game-developer-for-free/)
+ - [Finally, a climate change solution: This free game lets you shoot a tornado with a shotgun](https://www.pcgamer.com/games/fps/finally-a-climate-change-solution-this-free-game-lets-you-shoot-a-tornado-with-a-shotgun/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
