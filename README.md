@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did he say `thank you`?](http://9gag.com/gag/a2vD5Be)
- - ⏩ [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
- - 👉 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)<!-- MEMES:END -->
+ - 💣 [Two fishermen in Australia caught this bizarre looking fish](http://9gag.com/gag/azxOLKB)
+ - ⏩ [Love makes me shy](http://9gag.com/gag/awyOK78)
+ - 👉 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)<!-- MEMES:END -->
 
 ---
 
