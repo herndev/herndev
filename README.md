@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us made its big twist stronger with one simple story change](https://www.polygon.com/last-of-us/560909/joel-abby-death-game-change-episode-2)
- - [The Last Of Us Season Two, Episode Two Recap: When Wolves Attack](https://kotaku.com/last-of-us-hbo-max-season-2-episode-2-joel-abby-death-1851776976)
- - [New trailer for Doom: The Dark Ages reveals the medieval equivalent of the BFG is a huge crossbow](https://www.pcgamer.com/games/fps/new-trailer-for-doom-the-dark-ages-reveals-the-medieval-equivalent-of-the-bfg-is-a-huge-crossbow/)<!-- GAME:END -->
+ - [What time does the Festival of Accord release in Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/559787/festival-of-accord-blossomdance-release-time-date-edt-pdt)
+ - [Today&#39;s Wordle answer for Monday, April 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-21-2025/)
+ - [The Last of Us made its big twist stronger with one simple story change](https://www.polygon.com/last-of-us/560909/joel-abby-death-game-change-episode-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
