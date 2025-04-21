@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)
- - ⏩ [Day/night](http://9gag.com/gag/aByERDz)
- - 👉 [All honey no juice](http://9gag.com/gag/aRBvQP5)<!-- MEMES:END -->
+ - 💣 [Peak male content](http://9gag.com/gag/aNDBe5b)
+ - ⏩ [Based JK](http://9gag.com/gag/amoxXOj)
+ - 👉 [N..](http://9gag.com/gag/aQzmnEw)<!-- MEMES:END -->
 
 ---
 
