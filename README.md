@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)
- - ⏩ [What would you do?](http://9gag.com/gag/abAx0yE)
- - 👉 [View from below](http://9gag.com/gag/aryxOM0)<!-- MEMES:END -->
+ - 💣 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - ⏩ [Rejected from the small weiner club](http://9gag.com/gag/aD2bjyx)
+ - 👉 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)<!-- MEMES:END -->
 
 ---
 
