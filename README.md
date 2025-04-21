@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We Wanted John Cena To Make History At Wrestlemania 41, But Not Like This](https://kotaku.com/john-cena-cody-rhodes-wrestlemania-41-1851777086)
- - [I&#39;m convinced Bungie won&#39;t say how much Marathon will cost because it doesn&#39;t know how much to charge yet](https://www.pcgamer.com/games/fps/im-convinced-bungie-wont-say-how-much-marathon-will-cost-because-it-doesnt-know-how-much-to-charge-yet/)
- - [Get every Oddworld game for just $1](https://www.polygon.com/good-deals/562276/oddworld-strangers-wrath-fanatical-bundle-sale)<!-- GAME:END -->
+ - [A week after a major hack brought down 4chan and doxxed all its users, it seems like it may be dead for good](https://www.pcgamer.com/games/a-week-after-a-major-hack-brought-down-4chan-and-doxxed-all-its-users-it-seems-like-it-may-be-dead-for-good/)
+ - [‘Please don’t punish others for our mistakes’: Concord dev thinks Marathon deserves a chance](https://www.polygon.com/news/562415/concord-developer-on-bungie-marathon)
+ - [Roblox Has A Community Of Players Who Recreate School Shootings](https://kotaku.com/roblox-school-shootings-columbine-ass-adl-report-kids-1851777207)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
