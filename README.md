@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bongo Cat is the next Banana](https://www.polygon.com/pc/561909/bongo-cat-viral-clicker-game-steam)
- - [Save up to 33% a month with a Max annual plan](https://www.polygon.com/good-deals/561850/hbo-max-last-of-us-annual-subscription-sale)
- - [Zelda speedrunner movie pulled from PBS will air on Twitch first](https://www.polygon.com/gaming/561806/pbs-zelda-speedrunner-film-twitch-premiere)<!-- GAME:END -->
+ - [Andor season 2, You season 5, Étoile, and more new TV this week](https://www.polygon.com/tv/558489/new-netflix-andor-you-etoile-premiere-time)
+ - [If you want to play the next game from the team that made Into the Breach, you&#39;ll need a Playdate](https://www.pcgamer.com/games/action/if-you-want-to-play-the-next-game-from-the-team-that-made-into-the-breach-youll-need-a-playdate/)
+ - [Assassin’s Creed Shadows On Steam Deck Surprised Me More Than Getting Stabbed In The Neck](https://kotaku.com/assassins-creed-shadows-steam-deck-performance-worth-it-1851777121)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
