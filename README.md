@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Day/night](http://9gag.com/gag/aByERDz)
- - ⏩ [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - 👉 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)<!-- MEMES:END -->
+ - 💣 [Well, yeah](http://9gag.com/gag/aQzmpDe)
+ - ⏩ [The date that never ended](http://9gag.com/gag/aRBvVbq)
+ - 👉 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)<!-- MEMES:END -->
 
 ---
 
