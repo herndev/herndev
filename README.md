@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cheapest Netflix plan was perfect for me, until I discovered a Chromecast dealbreaker](https://www.androidauthority.com/netflix-ads-no-chromecast-3542506/)
- - [TSMC says its role in the semiconductor supply chain limits its ability to comply with export rules, after reports its tech was used in Huawei&#39;s Ascend 910B &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250421/p3#a250421p3)
- - [Urevo CyberPad for Home Review: Biggest Incline Ever](https://www.wired.com/review/urevo-cyberpad/)<!-- TECH:END -->
+ - [Sources: Circle, BitGo, and other firms plan to apply for bank charters or licenses, as the Trump administration pushes to bring crypto into mainstream finance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250421/p5#a250421p5)
+ - [The vivo X200 Ultra is here with a bonkers external 8.6x lens, 35mm main camera](https://www.androidauthority.com/vivo-x200-ultra-3546286/)
+ - [The Last of Us ripped off the Band-aid](https://www.theverge.com/tv/651902/the-last-of-us-season-2-joel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
