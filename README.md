@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paul Graham likened Palantir&#39;s ICE work to &quot;infrastructure of the police state&quot;; a Palantir exec said Paul&#39;s view is like Google&#39;s when it killed Project Maven &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250420/p10#a250420p10)
  - [In a clever attack, hackers were able to send phishing emails that appeared to come from &quot;no-reply@google.com&quot;, after a similar attack on PayPal users in March &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/250420/p9#a250420p9)
- - [A deep dive into AI as a normal technology vs. a humanlike intelligence and how major public policy based on controlling superintelligence may make things worse &lpar;Knight First Amendment Institute&rpar;](http://www.techmeme.com/250420/p8#a250420p8)
- - [Pete Hegseth reportedly spilled Yemen attack details in another Signal chat](https://www.theverge.com/news/652434/pete-hegseth-personal-signal-chat-yemen-attack)<!-- TECH:END -->
+ - [A deep dive into AI as a normal technology vs. a humanlike intelligence and how major public policy based on controlling superintelligence may make things worse &lpar;Knight First Amendment Institute&rpar;](http://www.techmeme.com/250420/p8#a250420p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
