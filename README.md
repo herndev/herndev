@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 41 best couch co-op games for Nintendo Switch](https://www.polygon.com/what-to-play/23475572/best-couch-co-op-local-multiplayer-games-nintendo-switch)
- - [The Hundred Line Is Danganronpa And Zero Escape’s Final Form](https://kotaku.com/hundred-line-last-defense-academy-review-danganronpa-1851777031)
- - [One of classic Doom&#39;s most brutal challenge runs is finally conquered after thirteen years of mega-scale demon slaughter](https://www.pcgamer.com/games/fps/one-of-classic-dooms-most-brutal-challenge-runs-is-finally-conquered-after-thirteen-years-of-mega-scale-demon-slaughter/)<!-- GAME:END -->
+ - [Renting Video Game Consoles Is So Back](https://kotaku.com/ps5-rental-japan-price-geo-1851777045)
+ - [Nintendo is going after the leaker behind major Pokémon ‘Teraleak’](https://www.polygon.com/pokemon/561817/pokemon-teraleak-nintendo-discord-subpoena)
+ - [Bungie&#39;s classic Myth fantasy tactics series gets the remasters it deserves, courtesy of its community](https://www.pcgamer.com/games/strategy/bungies-classic-myth-fantasy-tactics-series-gets-the-remasters-it-deserves-courtesy-of-its-community/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
