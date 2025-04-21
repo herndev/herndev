@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High Five](http://9gag.com/gag/aQzmxvW)
- - ⏩ [Did he say `thank you`?](http://9gag.com/gag/a2vD5Be)
- - 👉 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)<!-- MEMES:END -->
+ - 💣 [Did he say `thank you`?](http://9gag.com/gag/a2vD5Be)
+ - ⏩ [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
+ - 👉 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)<!-- MEMES:END -->
 
 ---
 
