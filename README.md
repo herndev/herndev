@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Creativity at minds](http://9gag.com/gag/aByERzN)
- - ⏩ [One glass pane further please, is the exit](http://9gag.com/gag/adBxYvB)
- - 👉 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)<!-- MEMES:END -->
+ - 💣 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
+ - ⏩ [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
+ - 👉 [Netherland](http://9gag.com/gag/aQzmPj8)<!-- MEMES:END -->
 
 ---
 
