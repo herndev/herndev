@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
- - ⏩ [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - 👉 [Netherland](http://9gag.com/gag/aQzmPj8)<!-- MEMES:END -->
+ - 💣 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)
+ - ⏩ [Day/night](http://9gag.com/gag/aByERDz)
+ - 👉 [All honey no juice](http://9gag.com/gag/aRBvQP5)<!-- MEMES:END -->
 
 ---
 
