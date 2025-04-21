@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky starts rolling out blue check verification, initially limiting verification to select organizations and its moderation team &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250421/p8#a250421p8)
- - [Sony’s recent blunder has fans saying ‘This will be my last Xperia phone’](https://www.androidauthority.com/sony-xperia-1-v-resolution-control-3546412/)
- - [Google TV’s Gemini-powered News Briefs are now ready for you to try](https://www.androidauthority.com/google-tv-news-brief-wider-availability-3546401/)<!-- TECH:END -->
+ - [Apple cleans up its image with Apple Intelligence in a new ad spot](https://appleinsider.com/articles/25/04/21/apple-cleans-up-its-image-with-apple-intelligence-in-a-new-ad-spot?utm_medium=rss)
+ - [Google settles an Android TV case with India&#39;s competition regulator, will offer standalone licenses for Play Store and Play Services for Android TVs in India &lpar;NDTV&rpar;](http://www.techmeme.com/250421/p12#a250421p12)
+ - [Uber accused of signing up and charging subscription customers without consent](https://www.theverge.com/news/652673/uber-ftc-lawsuit-subscription-signup-billing-consent)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
