@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You Have to Rent ‘Conclave’ Today, Because Streaming Is Messier Than Ever](https://www.wired.com/story/you-have-to-rent-conclave-today-because-streaming-is-messier-than-ever/)
- - [After Meta blocked news on its platforms in Canada, misleading content from right-wing Facebook pages like Canada Proud has surged ahead of the federal election &lpar;New York Times&rpar;](http://www.techmeme.com/250421/p13#a250421p13)
- - [Sony shows off the PS5 Pro’s liquid metal updates](https://www.theverge.com/news/652556/ps5-pro-teardown-liquid-metal-cooling-changes)<!-- TECH:END -->
+ - [Here’s our first look at Lenovo’s thinner, lighter, next-gen Legion Tab](https://www.androidauthority.com/lenovo-legion-tab-gen-4-teaser-3546501/)
+ - [The FTC just called out Uber’s dark patterns in a new lawsuit](https://www.androidauthority.com/uber-ftc-lawsuit-subscription-tactics-3546515/)
+ - [Airbnb now shows the full cost of a stay, excluding taxes, in search results by default; a Biden-era FTC rule on &quot;junk fees&quot; is set to go into effect on May 12 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250421/p14#a250421p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
