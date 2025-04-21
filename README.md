@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Faith in humanity restored!](http://9gag.com/gag/azxOV4p)
- - ⏩ [High Five](http://9gag.com/gag/aQzmxvW)
- - 👉 [Critical success](http://9gag.com/gag/ayN1LEb)<!-- MEMES:END -->
+ - 💣 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
+ - ⏩ [A real normal woman](http://9gag.com/gag/azxObyp)
+ - 👉 [Well, yeah](http://9gag.com/gag/aQzmpDe)<!-- MEMES:END -->
 
 ---
 
