@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two fishermen in Australia caught this bizarre looking fish](http://9gag.com/gag/azxOLKB)
- - ⏩ [Love makes me shy](http://9gag.com/gag/awyOK78)
- - 👉 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)<!-- MEMES:END -->
+ - 💣 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)
+ - ⏩ [What would you do?](http://9gag.com/gag/abAx0yE)
+ - 👉 [View from below](http://9gag.com/gag/aryxOM0)<!-- MEMES:END -->
 
 ---
 
