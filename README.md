@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos now lets you upgrade your pics to ‘Ultra HDR’ after the fact](https://www.androidauthority.com/google-photos-ultra-hdr-option-rollout-3546251/)
- - [Models like o3 and Gemini 2.5 Pro feel like &quot;Jagged AGI&quot;: unreliable, even at some mundane tasks, but still offering superhuman capabilities in many areas &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250420/p11#a250420p11)
- - [Paul Graham likened Palantir&#39;s ICE work to &quot;infrastructure of the police state&quot;; a Palantir exec said Paul&#39;s view is like Google&#39;s when it killed Project Maven &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250420/p10#a250420p10)<!-- TECH:END -->
+ - [Major blow for cheap handhelds as Anbernic no longer ships to the US](https://www.androidauthority.com/anbernic-suspend-handheld-shipments-us-3545524/)
+ - [Q&amp;A with Dan Kim and Hassan Khan, former officials at the CHIPS Program Office, on subsidizing supply versus coercing demand, the program&#39;s future, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250421/p1#a250421p1)
+ - [Google Photos now lets you upgrade your pics to ‘Ultra HDR’ after the fact](https://www.androidauthority.com/google-photos-ultra-hdr-option-rollout-3546251/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
