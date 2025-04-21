@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A deep dive into AI as a normal technology vs. a humanlike intelligence and how major public policy based on controlling superintelligence may make things worse &lpar;Knight First Amendment Institute&rpar;](http://www.techmeme.com/250420/p8#a250420p8)
  - [Pete Hegseth reportedly spilled Yemen attack details in another Signal chat](https://www.theverge.com/news/652434/pete-hegseth-personal-signal-chat-yemen-attack)
- - [A lot of Logitech products cost more now than two months ago](https://www.theverge.com/logitech/652423/logitech-price-increases-mouse-keyboard-accessories)
- - [After lobbying US Congress to shelve the Senate-passed KOSA bill in 2024, Meta has now made headway in lobbying for an app store age-verification bill &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/250420/p7#a250420p7)<!-- TECH:END -->
+ - [A lot of Logitech products cost more now than two months ago](https://www.theverge.com/logitech/652423/logitech-price-increases-mouse-keyboard-accessories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
