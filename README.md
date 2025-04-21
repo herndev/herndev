@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - ⏩ [Rejected from the small weiner club](http://9gag.com/gag/aD2bjyx)
- - 👉 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)<!-- MEMES:END -->
+ - 💣 [Whoops](http://9gag.com/gag/abAxb98)
+ - ⏩ [View from below](http://9gag.com/gag/aryxOM0)
+ - 👉 [Afraid of what?](http://9gag.com/gag/aAyMd0L)<!-- MEMES:END -->
 
 ---
 
