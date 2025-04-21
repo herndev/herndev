@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak male content](http://9gag.com/gag/aNDBe5b)
- - ⏩ [Based JK](http://9gag.com/gag/amoxXOj)
- - 👉 [N..](http://9gag.com/gag/aQzmnEw)<!-- MEMES:END -->
+ - 💣 [Circus Performer shows you how to fly](http://9gag.com/gag/a87eLr6)
+ - ⏩ [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
+ - 👉 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)<!-- MEMES:END -->
 
 ---
 
