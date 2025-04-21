@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Photos now lets you upgrade your pics to ‘Ultra HDR’ after the fact](https://www.androidauthority.com/google-photos-ultra-hdr-option-rollout-3546251/)
  - [Models like o3 and Gemini 2.5 Pro feel like &quot;Jagged AGI&quot;: unreliable, even at some mundane tasks, but still offering superhuman capabilities in many areas &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250420/p11#a250420p11)
- - [Paul Graham likened Palantir&#39;s ICE work to &quot;infrastructure of the police state&quot;; a Palantir exec said Paul&#39;s view is like Google&#39;s when it killed Project Maven &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250420/p10#a250420p10)
- - [In a clever attack, hackers were able to send phishing emails that appeared to come from &quot;no-reply@google.com&quot;, after a similar attack on PayPal users in March &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/250420/p9#a250420p9)<!-- TECH:END -->
+ - [Paul Graham likened Palantir&#39;s ICE work to &quot;infrastructure of the police state&quot;; a Palantir exec said Paul&#39;s view is like Google&#39;s when it killed Project Maven &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250420/p10#a250420p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
