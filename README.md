@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palia&#39;s big Elderwood expansion is coming in May with a new zone that reminds me of WoW&#39;s Teldrassil](https://www.pcgamer.com/games/life-sim/palias-big-elderwood-expansion-is-coming-in-may-with-a-new-zone-that-reminds-me-of-wows-teldrassil/)
- - [Ubisoft has made its colorblindness simulation tool available to any game developer for free](https://www.pcgamer.com/games/ubisoft-has-made-its-colorblindness-simulation-tool-available-to-any-game-developer-for-free/)
- - [Finally, a climate change solution: This free game lets you shoot a tornado with a shotgun](https://www.pcgamer.com/games/fps/finally-a-climate-change-solution-this-free-game-lets-you-shoot-a-tornado-with-a-shotgun/)<!-- GAME:END -->
+ - [The Last of Us made its big twist stronger with one simple story change](https://www.polygon.com/last-of-us/560909/joel-abby-death-game-change-episode-2)
+ - [The Last Of Us Season Two, Episode Two Recap: When Wolves Attack](https://kotaku.com/last-of-us-hbo-max-season-2-episode-2-joel-abby-death-1851776976)
+ - [New trailer for Doom: The Dark Ages reveals the medieval equivalent of the BFG is a huge crossbow](https://www.pcgamer.com/games/fps/new-trailer-for-doom-the-dark-ages-reveals-the-medieval-equivalent-of-the-bfg-is-a-huge-crossbow/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
