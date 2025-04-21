@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Circle, BitGo, and other firms plan to apply for bank charters or licenses, as the Trump administration pushes to bring crypto into mainstream finance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250421/p5#a250421p5)
- - [The vivo X200 Ultra is here with a bonkers external 8.6x lens, 35mm main camera](https://www.androidauthority.com/vivo-x200-ultra-3546286/)
- - [The Last of Us ripped off the Band-aid](https://www.theverge.com/tv/651902/the-last-of-us-season-2-joel)<!-- TECH:END -->
+ - [EU insists Trump won&#39;t make it back off Apple](https://appleinsider.com/articles/25/04/21/eu-insists-trump-wont-make-it-back-off-apple?utm_medium=rss)
+ - [There’s good news for Retroid customers in the US, bad news for everyone else](https://www.androidauthority.com/retroid-flip-2-classic-pre-orders-us-shipping-3546320/)
+ - [Apple sued for $5M for not recovering data after iPhone theft](https://appleinsider.com/articles/25/04/21/apple-sued-for-5m-for-not-recovering-data-after-iphone-theft?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
