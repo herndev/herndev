@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation 5 Pro Teardown: An inside look at the most advanced PlayStation console to date](https://blog.playstation.com/2025/04/21/playstation-5-pro-teardown-an-inside-look-at-the-most-advanced-playstation-console-to-date/)
- - [There&#39;s no need to overshare on social media now that OpenAI&#39;s new chatbots can pinpoint your location from the tiniest details in images](https://www.pcgamer.com/hardware/theres-no-need-to-overshare-on-social-media-now-that-openais-new-chatbots-can-pinpoint-your-location-from-the-tiniest-details-in-images/)
- - [A high-performance Intel Battlemage gaming GPU has allegedly been spotted and I really want it to be a $400 RTX 5070 killer](https://www.pcgamer.com/hardware/graphics-cards/a-high-performance-intel-battlemage-gaming-gpu-has-allegedly-been-spotted-and-i-really-want-it-to-be-a-usd400-rtx-5070-killer/)<!-- GAME:END -->
+ - [The 41 best couch co-op games for Nintendo Switch](https://www.polygon.com/what-to-play/23475572/best-couch-co-op-local-multiplayer-games-nintendo-switch)
+ - [The Hundred Line Is Danganronpa And Zero Escape’s Final Form](https://kotaku.com/hundred-line-last-defense-academy-review-danganronpa-1851777031)
+ - [One of classic Doom&#39;s most brutal challenge runs is finally conquered after thirteen years of mega-scale demon slaughter](https://www.pcgamer.com/games/fps/one-of-classic-dooms-most-brutal-challenge-runs-is-finally-conquered-after-thirteen-years-of-mega-scale-demon-slaughter/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
