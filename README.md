@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Huawei plans mass shipments of its 910C chip, which combines two 910B chips and is comparable to Nvidia&#39;s H100, to Chinese customers as early as May &lpar;Reuters&rpar;](http://www.techmeme.com/250421/p7#a250421p7)
- - [Valorant’s mobile version is coming to China first](https://www.theverge.com/news/652555/valorant-mobile-china)
- - [Samsung may have delayed the launch of the Galaxy Z Flip FE](https://www.androidauthority.com/galaxy-z-flip-fe-q4-release-3546353/)<!-- TECH:END -->
+ - [Bluesky starts rolling out blue check verification, initially limiting verification to select organizations and its moderation team &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250421/p8#a250421p8)
+ - [Sony’s recent blunder has fans saying ‘This will be my last Xperia phone’](https://www.androidauthority.com/sony-xperia-1-v-resolution-control-3546412/)
+ - [Google TV’s Gemini-powered News Briefs are now ready for you to try](https://www.androidauthority.com/google-tv-news-brief-wider-availability-3546401/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
