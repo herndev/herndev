@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Andor season 2, You season 5, Étoile, and more new TV this week](https://www.polygon.com/tv/558489/new-netflix-andor-you-etoile-premiere-time)
- - [If you want to play the next game from the team that made Into the Breach, you&#39;ll need a Playdate](https://www.pcgamer.com/games/action/if-you-want-to-play-the-next-game-from-the-team-that-made-into-the-breach-youll-need-a-playdate/)
- - [Assassin’s Creed Shadows On Steam Deck Surprised Me More Than Getting Stabbed In The Neck](https://kotaku.com/assassins-creed-shadows-steam-deck-performance-worth-it-1851777121)<!-- GAME:END -->
+ - [Diablo 4 devs say having to keep coming up with menacing names for activities is &#39;probably one of the most difficult design challenges&#39; when you&#39;ve already used up stuff like Helltide and Nightmare Dungeon](https://www.pcgamer.com/games/rpg/diablo-4-devs-say-having-to-keep-coming-up-with-menacing-names-for-activities-is-probably-one-of-the-most-difficult-design-challenges-when-youve-already-used-up-stuff-like-helltide-and-nightmare-dungeon/)
+ - [Delightful undersea soulslike Another Crab&#39;s Treasure just got a huge &#39;Year Of The Crab&#39; update featuring a fully remixed New Game Plus](https://www.pcgamer.com/games/action/delightful-undersea-soulslike-another-crabs-treasure-just-got-a-huge-year-of-the-crab-update-featuring-a-fully-remixed-new-game-plus/)
+ - [Paul Rudd cosplays 1991 Paul Rudd in throwback Switch 2 commercial](https://www.polygon.com/gaming/562063/nintendo-switch-2-paul-rudd-commercial)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
