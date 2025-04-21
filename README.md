@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU insists Trump won&#39;t make it back off Apple](https://appleinsider.com/articles/25/04/21/eu-insists-trump-wont-make-it-back-off-apple?utm_medium=rss)
- - [There’s good news for Retroid customers in the US, bad news for everyone else](https://www.androidauthority.com/retroid-flip-2-classic-pre-orders-us-shipping-3546320/)
- - [Apple sued for $5M for not recovering data after iPhone theft](https://appleinsider.com/articles/25/04/21/apple-sued-for-5m-for-not-recovering-data-after-iphone-theft?utm_medium=rss)<!-- TECH:END -->
+ - [The Verge’s 2025 Mother’s Day gift guide](https://www.theverge.com/tech/647527/best-mothers-day-gift-ideas-2025-mom-tech-gadgets)
+ - [Long Range Matter Devices, Nanoleaf Pegboard Lights, Arlo Updates, &amp; the Best Find My Devices on HomeKit Insider](https://appleinsider.com/articles/25/04/21/long-range-matter-devices-nanoleaf-pegboard-lights-arlo-updates-the-best-find-my-devices-on-homekit-insider?utm_medium=rss)
+ - [Beware of this sneaky Google phishing scam](https://www.theverge.com/news/652509/google-no-reply-dkim-phishing-scam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
