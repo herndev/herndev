@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s our first look at Lenovo’s thinner, lighter, next-gen Legion Tab](https://www.androidauthority.com/lenovo-legion-tab-gen-4-teaser-3546501/)
- - [The FTC just called out Uber’s dark patterns in a new lawsuit](https://www.androidauthority.com/uber-ftc-lawsuit-subscription-tactics-3546515/)
- - [Airbnb now shows the full cost of a stay, excluding taxes, in search results by default; a Biden-era FTC rule on &quot;junk fees&quot; is set to go into effect on May 12 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250421/p14#a250421p14)<!-- TECH:END -->
+ - [Gemini could soon help you ‘Power up’ your prompts with a tap &lpar;Update: Demo&rpar;](https://www.androidauthority.com/gemini-attachment-interface-redesign-power-up-apk-3542331/)
+ - [Judge overseeing hearing on fixing Google&#39;s monopoly questioned if DOJ&#39;s proposal to force a sale of Chrome met the &quot;causation&quot; standard for a structural remedy &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250421/p15#a250421p15)
+ - [The ACLU Is Suing the Government to Get Access to DOGE Records](https://www.wired.com/story/aclu-lawsuit-government-doge-access-sensitive-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
