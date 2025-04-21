@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, yeah](http://9gag.com/gag/aQzmpDe)
- - ⏩ [The date that never ended](http://9gag.com/gag/aRBvVbq)
- - 👉 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)<!-- MEMES:END -->
+ - 💣 [Faith in humanity restored!](http://9gag.com/gag/azxOV4p)
+ - ⏩ [High Five](http://9gag.com/gag/aQzmxvW)
+ - 👉 [Critical success](http://9gag.com/gag/ayN1LEb)<!-- MEMES:END -->
 
 ---
 
