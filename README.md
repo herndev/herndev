@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Next Apple Vision headset could have a refined battery cable](https://appleinsider.com/articles/25/04/17/next-apple-vision-headset-could-have-a-refined-battery-cable?utm_medium=rss)
- - [&#39;Andor&#39; Season 2 Premiere: When to Watch the Star Wars Series](https://www.cnet.com/tech/services-and-software/andor-season-2-premiere-when-to-watch-star-wars-series/#ftag=CAD590a51e)
- - [CFPB to &#39;Deprioritize&#39; Cases Against Predatory Student Loan, Medical Debt and Digital Payment App Practices](https://www.cnet.com/personal-finance/banking/cfpb-to-deprioritize-cases-against-predatory-student-loan-medical-debt-and-digital-payment-app-practices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US v. Google remedies trial opens with the DOJ arguing that Google should be forced to divest Chrome, and Google calling the proposed remedies &quot;extreme&quot; &lpar;Julian Mark/Washington Post&rpar;](http://www.techmeme.com/250421/p18#a250421p18)
+ - [iPhone 17 Pro could be available in Sky Blue, leaker claims](https://appleinsider.com/articles/25/04/21/iphone-17-pro-could-be-available-in-sky-blue-leaker-claims?utm_medium=rss)
+ - [Google Messages is rolling out its new warning for explicit images](https://www.androidauthority.com/google-messages-sensitive-content-warnings-rolling-out-3546586/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
