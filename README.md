@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mt. Everest Death Zone](http://9gag.com/gag/aXP4yAg)
- - ⏩ [This ain\u2019t a rock\u2026This is a gharial, a rare crocodile species on the verge of extinction](http://9gag.com/gag/aLnGZDP)
- - 👉 [Meanwhile in Denmark](http://9gag.com/gag/aD2ZEOZ)<!-- MEMES:END -->
+ - 💣 [Unbelievable Hugo Calderano has just become the first person born in the Americas to win the Table Tennis World Cup. He has just defeated the top1-ranked player in the final, with a stadium in China packed with opposing fans](http://9gag.com/gag/a9ymPqm)
+ - ⏩ [Don&#39;t blink your eyes! \ud83d\udc40](http://9gag.com/gag/azxOgxK)
+ - 👉 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)<!-- MEMES:END -->
 
 ---
 
