@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major blow for cheap handhelds as Anbernic no longer ships to the US](https://www.androidauthority.com/anbernic-suspend-handheld-shipments-us-3545524/)
- - [Q&amp;A with Dan Kim and Hassan Khan, former officials at the CHIPS Program Office, on subsidizing supply versus coercing demand, the program&#39;s future, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250421/p1#a250421p1)
- - [Google Photos now lets you upgrade your pics to ‘Ultra HDR’ after the fact](https://www.androidauthority.com/google-photos-ultra-hdr-option-rollout-3546251/)<!-- TECH:END -->
+ - [Nothing Phone 3 wishlist: All the features I want to see](https://www.androidauthority.com/nothing-phone-3-3387676/)
+ - [WrestleMania 41: How to Rewatch All of the Weekend Matches](https://www.cnet.com/tech/services-and-software/wrestlemania-41-how-to-rewatch-all-of-the-weekend-matches/#ftag=CAD590a51e)
+ - [Major blow for cheap handhelds as Anbernic no longer ships to the US](https://www.androidauthority.com/anbernic-suspend-handheld-shipments-us-3545524/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
