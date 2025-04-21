@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda Finally Confirms Rumored Oblivion Remaster Is Real](https://kotaku.com/bethesda-elder-scrolls-oblivion-remaster-stream-real-1851777087)
- - [Mark Zuckerberg is so desperate to make Facebook relevant again he considered deleting your entire friends list](https://www.pcgamer.com/hardware/mark-zuckerberg-is-so-desperate-to-make-facebook-relevant-again-he-considered-deleting-your-entire-friends-list/)
- - [The Internet Reacts To Last Night&#39;s Big Scene In The Last Of Us](https://kotaku.com/last-of-us-hbo-max-show-joel-death-abby-kills-reaction-1851777068)<!-- GAME:END -->
+ - [Bongo Cat is the next Banana](https://www.polygon.com/pc/561909/bongo-cat-viral-clicker-game-steam)
+ - [Save up to 33% a month with a Max annual plan](https://www.polygon.com/good-deals/561850/hbo-max-last-of-us-annual-subscription-sale)
+ - [Zelda speedrunner movie pulled from PBS will air on Twitch first](https://www.polygon.com/gaming/561806/pbs-zelda-speedrunner-film-twitch-premiere)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
