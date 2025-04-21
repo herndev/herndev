@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chat could soon get a major upgrade with scheduled messages and Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-chat-scheduled-messages-gemini-apk-teardown-3546268/)
- - [A look at the tactile devices from OneCourt, Field of Vision, and Touch2See that help visually impaired spectators follow live sports with their fingers &lpar;Tom Wiggins/Wired&rpar;](http://www.techmeme.com/250421/p2#a250421p2)
- - [This compact flagship is getting bypass charging to go with its giant battery](https://www.androidauthority.com/oneplus-13t-bypass-charging-camera-3546263/)<!-- TECH:END -->
+ - [How to Protect Yourself From Phone Searches at the US Border](https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/)
+ - [This Massive Screen for Live Sports Puts You in the Best Seat in the Stadium](https://www.wired.com/story/cosm-live-sports-immersive-experiences/)
+ - [Meta is ramping up its AI-driven age detection](https://www.theverge.com/news/651826/meta-instagram-age-detection-ai-settings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
