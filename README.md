@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Projector deals: Save up to $120 on the XGIMI Elfin Flip and MoGo 3 Pro](https://www.androidauthority.com/xgimi-elfin-flip-mogo-3-pro-deals-3546125/)
- - [The government doesn’t understand Meta](https://www.theverge.com/command-line-newsletter/652191/ftc-meta-antitrust-trial-instagram-whatsapp-network-effects)
- - [Here’s how Nintendo Switch 2 preorders will work](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)<!-- TECH:END -->
+ - [Pete Hegseth reportedly spilled Yemen attack details in another Signal chat](https://www.theverge.com/news/652434/pete-hegseth-personal-signal-chat-yemen-attack)
+ - [A lot of Logitech products cost more now than two months ago](https://www.theverge.com/logitech/652423/logitech-price-increases-mouse-keyboard-accessories)
+ - [After lobbying US Congress to shelve the Senate-passed KOSA bill in 2024, Meta has now made headway in lobbying for an app store age-verification bill &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/250420/p7#a250420p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
