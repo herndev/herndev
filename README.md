@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unbelievable Hugo Calderano has just become the first person born in the Americas to win the Table Tennis World Cup. He has just defeated the top1-ranked player in the final, with a stadium in China packed with opposing fans](http://9gag.com/gag/a9ymPqm)
- - ⏩ [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
- - 👉 [Day/night](http://9gag.com/gag/aByERDz)<!-- MEMES:END -->
+ - 💣 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
+ - ⏩ [Circus Performer shows you how to fly](http://9gag.com/gag/a87eLr6)
+ - 👉 [Creativity at minds](http://9gag.com/gag/aByERzN)<!-- MEMES:END -->
 
 ---
 
