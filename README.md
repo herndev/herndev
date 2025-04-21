@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dozens of 4K Blu-rays are 3 for $33 at Amazon](https://www.polygon.com/sales-guide/561976/4k-blu-ray-amazon-godzilla-minus-one-deal)
- - [Steam&#39;s latest themed sale is so specific it includes just 0.367% of the 135,000 game library](https://www.pcgamer.com/games/puzzle/steams-latest-themed-sale-is-so-specific-it-includes-just-0-367-percent-of-the-135-000-game-library/)
- - [Amazon&#39;s Awesome &lpar;And Big&rpar; 4K Blu-Ray Sale Is Back](https://kotaku.com/amazon-4k-uhd-bluray-sale-godzilla-joker-3-for-33-deal-1851777167)<!-- GAME:END -->
+ - [Overwatch 2 Stadium details: Everything you need to know about the new mode](https://www.pcgamer.com/games/fps/overwatch-2-stadium/)
+ - [Diablo 4&#39;s lead live game designer says difficulty is &#39;a tricky balance,&#39; but Season 8 should pack more of a punch: &#39;If there isn&#39;t enough challenge, then it just feels like you&#39;re getting candy for free&#39;](https://www.pcgamer.com/games/rpg/diablo-4s-lead-live-game-designer-says-difficulty-is-a-tricky-balance-but-season-8-should-pack-more-of-a-punch-if-there-isnt-enough-challenge-then-it-just-feels-like-youre-getting-candy-for-free/)
+ - [Nintendo Ratchets Up Hunt For Mysterious User Behind Massive Pokémon Leak](https://kotaku.com/pokemon-teraleak-discord-nintendo-hack-leaker-1851777190)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
