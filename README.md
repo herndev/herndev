@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple cleans up its image with Apple Intelligence in a new ad spot](https://appleinsider.com/articles/25/04/21/apple-cleans-up-its-image-with-apple-intelligence-in-a-new-ad-spot?utm_medium=rss)
- - [Google settles an Android TV case with India&#39;s competition regulator, will offer standalone licenses for Play Store and Play Services for Android TVs in India &lpar;NDTV&rpar;](http://www.techmeme.com/250421/p12#a250421p12)
- - [Uber accused of signing up and charging subscription customers without consent](https://www.theverge.com/news/652673/uber-ftc-lawsuit-subscription-signup-billing-consent)<!-- TECH:END -->
+ - [You Have to Rent ‘Conclave’ Today, Because Streaming Is Messier Than Ever](https://www.wired.com/story/you-have-to-rent-conclave-today-because-streaming-is-messier-than-ever/)
+ - [After Meta blocked news on its platforms in Canada, misleading content from right-wing Facebook pages like Canada Proud has surged ahead of the federal election &lpar;New York Times&rpar;](http://www.techmeme.com/250421/p13#a250421p13)
+ - [Sony shows off the PS5 Pro’s liquid metal updates](https://www.theverge.com/news/652556/ps5-pro-teardown-liquid-metal-cooling-changes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
