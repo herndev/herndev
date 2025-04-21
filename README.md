@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Protect Yourself From Phone Searches at the US Border](https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/)
- - [This Massive Screen for Live Sports Puts You in the Best Seat in the Stadium](https://www.wired.com/story/cosm-live-sports-immersive-experiences/)
- - [Meta is ramping up its AI-driven age detection](https://www.theverge.com/news/651826/meta-instagram-age-detection-ai-settings)<!-- TECH:END -->
+ - [The cheapest Netflix plan was perfect for me, until I discovered a Chromecast dealbreaker](https://www.androidauthority.com/netflix-ads-no-chromecast-3542506/)
+ - [TSMC says its role in the semiconductor supply chain limits its ability to comply with export rules, after reports its tech was used in Huawei&#39;s Ascend 910B &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250421/p3#a250421p3)
+ - [Urevo CyberPad for Home Review: Biggest Incline Ever](https://www.wired.com/review/urevo-cyberpad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
