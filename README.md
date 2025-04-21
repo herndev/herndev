@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A high-performance Intel Battlemage gaming GPU has allegedly been spotted and I really want it to be a $400 RTX 5070 killer](https://www.pcgamer.com/hardware/graphics-cards/a-high-performance-intel-battlemage-gaming-gpu-has-allegedly-been-spotted-and-i-really-want-it-to-be-a-usd400-rtx-5070-killer/)
- - [Quick, get in the DeLorean, we&#39;ve got to go back. A new renewable powered battery made of radioactive waste product just dropped, and someone&#39;s gotta tell Doc Brown it&#39;s uranium, not plutonium](https://www.pcgamer.com/hardware/quick-get-in-the-delorean-weve-got-to-go-back-a-new-renewable-powered-battery-made-of-radioactive-waste-product-just-dropped-and-someones-gotta-tell-doc-brown-its-uranium-not-plutonium/)
- - [Robots lose embarrassingly to inferior meatbag humans in a first of its kind half-marathon race](https://www.pcgamer.com/hardware/robots-lose-embarrassingly-to-inferior-meatbag-humans-in-a-first-of-its-kind-half-marathon-race/)<!-- GAME:END -->
+ - [PlayStation 5 Pro Teardown: An inside look at the most advanced PlayStation console to date](https://blog.playstation.com/2025/04/21/playstation-5-pro-teardown-an-inside-look-at-the-most-advanced-playstation-console-to-date/)
+ - [There&#39;s no need to overshare on social media now that OpenAI&#39;s new chatbots can pinpoint your location from the tiniest details in images](https://www.pcgamer.com/hardware/theres-no-need-to-overshare-on-social-media-now-that-openais-new-chatbots-can-pinpoint-your-location-from-the-tiniest-details-in-images/)
+ - [A high-performance Intel Battlemage gaming GPU has allegedly been spotted and I really want it to be a $400 RTX 5070 killer](https://www.pcgamer.com/hardware/graphics-cards/a-high-performance-intel-battlemage-gaming-gpu-has-allegedly-been-spotted-and-i-really-want-it-to-be-a-usd400-rtx-5070-killer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
