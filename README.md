@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2025 Mother’s Day gift guide](https://www.theverge.com/tech/647527/best-mothers-day-gift-ideas-2025-mom-tech-gadgets)
- - [Long Range Matter Devices, Nanoleaf Pegboard Lights, Arlo Updates, &amp; the Best Find My Devices on HomeKit Insider](https://appleinsider.com/articles/25/04/21/long-range-matter-devices-nanoleaf-pegboard-lights-arlo-updates-the-best-find-my-devices-on-homekit-insider?utm_medium=rss)
- - [Beware of this sneaky Google phishing scam](https://www.theverge.com/news/652509/google-no-reply-dkim-phishing-scam)<!-- TECH:END -->
+ - [Sources: Huawei plans mass shipments of its 910C chip, which combines two 910B chips and is comparable to Nvidia&#39;s H100, to Chinese customers as early as May &lpar;Reuters&rpar;](http://www.techmeme.com/250421/p7#a250421p7)
+ - [Valorant’s mobile version is coming to China first](https://www.theverge.com/news/652555/valorant-mobile-china)
+ - [Samsung may have delayed the launch of the Galaxy Z Flip FE](https://www.androidauthority.com/galaxy-z-flip-fe-q4-release-3546353/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
