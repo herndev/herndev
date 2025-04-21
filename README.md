@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)
- - ⏩ [Creativity at minds](http://9gag.com/gag/aByERzN)
- - 👉 [Bad maneuver](http://9gag.com/gag/aoyxZg0)<!-- MEMES:END -->
+ - 💣 [Well damn, vacation ruined.](http://9gag.com/gag/avyxLRX)
+ - ⏩ [Behind the scenes footage of something idk](http://9gag.com/gag/axyOd9L)
+ - 👉 [Day/night](http://9gag.com/gag/aByERDz)<!-- MEMES:END -->
 
 ---
 
