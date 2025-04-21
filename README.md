@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Stadium details: Everything you need to know about the new mode](https://www.pcgamer.com/games/fps/overwatch-2-stadium/)
- - [Diablo 4&#39;s lead live game designer says difficulty is &#39;a tricky balance,&#39; but Season 8 should pack more of a punch: &#39;If there isn&#39;t enough challenge, then it just feels like you&#39;re getting candy for free&#39;](https://www.pcgamer.com/games/rpg/diablo-4s-lead-live-game-designer-says-difficulty-is-a-tricky-balance-but-season-8-should-pack-more-of-a-punch-if-there-isnt-enough-challenge-then-it-just-feels-like-youre-getting-candy-for-free/)
- - [Nintendo Ratchets Up Hunt For Mysterious User Behind Massive Pokémon Leak](https://kotaku.com/pokemon-teraleak-discord-nintendo-hack-leaker-1851777190)<!-- GAME:END -->
+ - [We Wanted John Cena To Make History At Wrestlemania 41, But Not Like This](https://kotaku.com/john-cena-cody-rhodes-wrestlemania-41-1851777086)
+ - [I&#39;m convinced Bungie won&#39;t say how much Marathon will cost because it doesn&#39;t know how much to charge yet](https://www.pcgamer.com/games/fps/im-convinced-bungie-wont-say-how-much-marathon-will-cost-because-it-doesnt-know-how-much-to-charge-yet/)
+ - [Get every Oddworld game for just $1](https://www.polygon.com/good-deals/562276/oddworld-strangers-wrath-fanatical-bundle-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
