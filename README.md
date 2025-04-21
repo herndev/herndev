@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This compact flagship is getting bypass charging to go with its giant battery](https://www.androidauthority.com/oneplus-13t-bypass-charging-camera-3546263/)
- - [Nothing Phone 3 wishlist: All the features I want to see](https://www.androidauthority.com/nothing-phone-3-3387676/)
- - [WrestleMania 41: How to Rewatch All of the Weekend Matches](https://www.cnet.com/tech/services-and-software/wrestlemania-41-how-to-rewatch-all-of-the-weekend-matches/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Chat could soon get a major upgrade with scheduled messages and Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-chat-scheduled-messages-gemini-apk-teardown-3546268/)
+ - [A look at the tactile devices from OneCourt, Field of Vision, and Touch2See that help visually impaired spectators follow live sports with their fingers &lpar;Tom Wiggins/Wired&rpar;](http://www.techmeme.com/250421/p2#a250421p2)
+ - [This compact flagship is getting bypass charging to go with its giant battery](https://www.androidauthority.com/oneplus-13t-bypass-charging-camera-3546263/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
