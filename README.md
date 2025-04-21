@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 devs say having to keep coming up with menacing names for activities is &#39;probably one of the most difficult design challenges&#39; when you&#39;ve already used up stuff like Helltide and Nightmare Dungeon](https://www.pcgamer.com/games/rpg/diablo-4-devs-say-having-to-keep-coming-up-with-menacing-names-for-activities-is-probably-one-of-the-most-difficult-design-challenges-when-youve-already-used-up-stuff-like-helltide-and-nightmare-dungeon/)
- - [Delightful undersea soulslike Another Crab&#39;s Treasure just got a huge &#39;Year Of The Crab&#39; update featuring a fully remixed New Game Plus](https://www.pcgamer.com/games/action/delightful-undersea-soulslike-another-crabs-treasure-just-got-a-huge-year-of-the-crab-update-featuring-a-fully-remixed-new-game-plus/)
- - [Paul Rudd cosplays 1991 Paul Rudd in throwback Switch 2 commercial](https://www.polygon.com/gaming/562063/nintendo-switch-2-paul-rudd-commercial)<!-- GAME:END -->
+ - [Dozens of 4K Blu-rays are 3 for $33 at Amazon](https://www.polygon.com/sales-guide/561976/4k-blu-ray-amazon-godzilla-minus-one-deal)
+ - [Steam&#39;s latest themed sale is so specific it includes just 0.367% of the 135,000 game library](https://www.pcgamer.com/games/puzzle/steams-latest-themed-sale-is-so-specific-it-includes-just-0-367-percent-of-the-135-000-game-library/)
+ - [Amazon&#39;s Awesome &lpar;And Big&rpar; 4K Blu-Ray Sale Is Back](https://kotaku.com/amazon-4k-uhd-bluray-sale-godzilla-joker-3-for-33-deal-1851777167)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
