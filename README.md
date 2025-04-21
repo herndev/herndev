@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini could soon help you ‘Power up’ your prompts with a tap &lpar;Update: Demo&rpar;](https://www.androidauthority.com/gemini-attachment-interface-redesign-power-up-apk-3542331/)
- - [Judge overseeing hearing on fixing Google&#39;s monopoly questioned if DOJ&#39;s proposal to force a sale of Chrome met the &quot;causation&quot; standard for a structural remedy &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250421/p15#a250421p15)
- - [The ACLU Is Suing the Government to Get Access to DOGE Records](https://www.wired.com/story/aclu-lawsuit-government-doge-access-sensitive-data/)<!-- TECH:END -->
+ - [Next Apple Vision headset could have a refined battery cable](https://appleinsider.com/articles/25/04/17/next-apple-vision-headset-could-have-a-refined-battery-cable?utm_medium=rss)
+ - [&#39;Andor&#39; Season 2 Premiere: When to Watch the Star Wars Series](https://www.cnet.com/tech/services-and-software/andor-season-2-premiere-when-to-watch-star-wars-series/#ftag=CAD590a51e)
+ - [CFPB to &#39;Deprioritize&#39; Cases Against Predatory Student Loan, Medical Debt and Digital Payment App Practices](https://www.cnet.com/personal-finance/banking/cfpb-to-deprioritize-cases-against-predatory-student-loan-medical-debt-and-digital-payment-app-practices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
