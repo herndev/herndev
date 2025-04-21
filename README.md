@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All honey no juice](http://9gag.com/gag/aRBvQP5)
- - ⏩ [Circus Performer shows you how to fly](http://9gag.com/gag/a87eLr6)
- - 👉 [Can&#39;t control it!](http://9gag.com/gag/azxOLON)<!-- MEMES:END -->
+ - 💣 [Day/night](http://9gag.com/gag/aByERDz)
+ - ⏩ [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
+ - 👉 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)<!-- MEMES:END -->
 
 ---
 
