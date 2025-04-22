@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinterest is prompting teens to close the app at school](https://www.theverge.com/news/653094/pinterest-school-hours-prompt-minors-focus)
- - [A draft executive order sent to US agencies shows the Trump administration is considering issuing an order to create a policy integrating AI into K-12 education &lpar;Frances Vinall/Washington Post&rpar;](http://www.techmeme.com/250422/p6#a250422p6)
- - [Google Messages preps to fast-forward your forwards &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-messages-media-forwarding-shortcut-apk-teardown-3537331/)<!-- TECH:END -->
+ - [A survey of US teens and parents: 48% of teens say social media harms people their age, up from 32% in 2022, and girls&#39; experiences skew more negative at times &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250422/p8#a250422p8)
+ - [First look: Android 16’s hidden ‘Supervision’ page simplifies web content filtering](https://www.androidauthority.com/android-16-supervision-settings-3546604/)
+ - [Manychat, which offers social messaging tools for brands, raised a $140M Series B led by Summit, after an $18M Series A in 2019, and says it has ~1.5M customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250422/p7#a250422p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
