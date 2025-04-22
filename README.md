@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
- - ⏩ [View from below](http://9gag.com/gag/aryxOM0)
- - 👉 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)<!-- MEMES:END -->
+ - 💣 [Paradox life](http://9gag.com/gag/ajPxNgg)
+ - ⏩ [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 👉 [Afraid of what?](http://9gag.com/gag/aAyMd0L)<!-- MEMES:END -->
 
 ---
 
