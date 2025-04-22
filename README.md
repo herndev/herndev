@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [View from below](http://9gag.com/gag/aryxOM0)
- - ⏩ [In China, for affordable prices, people can rent an entire mall after closing hours for soft gel wars.](http://9gag.com/gag/azxOrWb)
- - 👉 [Whoops](http://9gag.com/gag/abAxb98)<!-- MEMES:END -->
+ - 💣 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
+ - ⏩ [View from below](http://9gag.com/gag/aryxOM0)
+ - 👉 [Subaru Saves](http://9gag.com/gag/a4PAdvZ)<!-- MEMES:END -->
 
 ---
 
