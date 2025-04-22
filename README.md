@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Capcom’s Remaster of Onimusha 2: Samurai’s Destiny Makes a Classic Game Better](https://news.xbox.com/en-us/2025/04/22/onimusha-2-remaster-preview/)
- - [Where to find the Skeleton Key in Oblivion so you can stop breaking all your lockpicks](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-skeleton-key-location/)
- - [Oblivion Remastered doesn&#39;t officially support mods, but the mods are rolling in anyway](https://www.pcgamer.com/games/rpg/oblivion-remastered-doesnt-officially-support-mods-but-the-mods-are-rolling-in-anyway/)<!-- GAME:END -->
+ - [Bethesda gave Oblivion Remastered game keys to the entire Skyblivion development team and &#39;made it clear that they have no intention of shutting down our project&#39;](https://www.pcgamer.com/games/rpg/bethesda-gave-oblivion-remastered-game-keys-to-the-entire-skyblivion-development-team-and-made-it-clear-that-they-have-no-intention-of-shutting-down-our-project/)
+ - [Burden of Command is the World War 2 visual novel I didn&#39;t know I needed](https://www.pcgamer.com/games/strategy/burden-of-command-is-the-world-war-2-visual-novel-i-didnt-know-i-needed/)
+ - [How Capcom’s Remaster of Onimusha 2: Samurai’s Destiny Makes a Classic Game Better](https://news.xbox.com/en-us/2025/04/22/onimusha-2-remaster-preview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
