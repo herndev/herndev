@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;re getting Oblivion Remastered, save $9 by grabbing a Steam key from Fanatical&#39;s day-one sale](https://www.pcgamer.com/games/the-elder-scrolls/if-youre-getting-oblivion-remastered-save-usd9-by-grabbing-a-steam-key-from-fanaticals-day-one-sale/)
- - [Watch us play an entire match of Bungie’s new extraction shooter, Marathon](https://www.polygon.com/news/561955/marathon-full-match-video)
- - [Monster Hunter Wilds event quests schedule and DLC roadmap](https://www.polygon.com/monster-hunter-wilds-guide/534245/event-quests-schedule-dlc-roadmap)<!-- GAME:END -->
+ - [It only took 3 hours for someone to upload the first Oblivion Remastered gooner mod](https://www.pcgamer.com/games/rpg/it-only-took-3-hours-for-someone-to-upload-the-first-oblivion-remastered-gooner-mod/)
+ - [How to cure vampirism in Oblivion or become a vampire on purpose for the nighttime buffs](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-vampirism-cure-benefits/)
+ - [StarCraft 2 Hackers Are Forcing Players To Watch Mass Shooting Videos](https://kotaku.com/starcraft-2-hackers-mass-shooting-video-blizzard-pc-1851777332)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
