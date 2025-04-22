@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Morelull be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24184830/can-morelull-be-shiny-shiinotic)
- - [Today&#39;s Wordle answer for Tuesday, April 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-22-2025/)
- - [How excited are we to replay a shinier version of Oblivion 19 years later?](https://www.pcgamer.com/games/the-elder-scrolls/how-excited-are-we-to-replay-a-shinier-version-of-oblivion-19-years-later/)<!-- GAME:END -->
+ - [AI becoming increasingly central to China&#39;s education reform with plans to bring AI into classes soon](https://www.pcgamer.com/hardware/ai-becoming-increasingly-central-to-chinas-education-reform-with-plans-to-bring-ai-into-classes-soon/)
+ - [Gather around children, let me spin you the tale of NLRB whistleblower vs Musk&#39;s DOGE. It has government espionage, a billionaire megalomaniac, Russian hackers, coverup conspiracies, and even blackmail by drone](https://www.pcgamer.com/hardware/gather-around-children-let-me-spin-you-the-tale-of-nlrb-whistleblower-vs-musks-doge-it-has-government-espionage-a-billionaire-megalomaniac-russian-hackers-coverup-conspiracies-and-even-blackmail-by-drone/)
+ - [Teeny tiny, almost wearable brain-computer interface gets &#39;closer to the source of the signals&#39; by fitting between hair follicles and only lasts between six and 12 hours](https://www.pcgamer.com/hardware/teeny-tiny-almost-wearable-brain-computer-interface-gets-closer-to-the-source-of-the-signals-by-fitting-between-hair-follicles-and-only-lasts-between-six-and-12-hours/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
