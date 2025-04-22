@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google mulls moving Pixel production to beat tariff burden](https://www.androidauthority.com/google-pixel-production-could-move-to-india-3546927/)
- - [OpenAI tells judge it would buy Chrome from Google](https://www.theverge.com/news/653882/openai-chrome-google-us-judge)
- - [Windows 11 is easier to run on an iPad than ever — with some big caveats](https://www.androidauthority.com/windows-11-ipad-3546930/)<!-- TECH:END -->
+ - [Elon Musk says he’ll step back from DOGE starting in May](https://www.theverge.com/news/653928/elon-musk-doge-step-back-tesla-earnings)
+ - [After Tesla&#39;s Earnings Slide, Pressure&#39;s on for Cybercab](https://www.wired.com/story/tesla-earnings-cybercab/)
+ - [Best Graduation Gifts for College Grads in 2025](https://www.cnet.com/news/best-college-graduation-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
