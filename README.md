@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flipkart plans to shift its holding company from Singapore to India as Walmart aims to take it public; Flipkart moved the entity to Singapore in 2011 &lpar;Kashish Tandon/Reuters&rpar;](http://www.techmeme.com/250422/p1#a250422p1)
- - [Samsung’s weather app in One UI 8 is getting a dramatic makeover](https://www.androidauthority.com/samsung-one-ui-8-weather-app-3546624/)
- - [Google is finally fixing Pixel Watch update disparity with a new April update for all!](https://www.androidauthority.com/pixel-watch-april-2025-update-rollout-availability-release-notes-3546618/)<!-- TECH:END -->
+ - [YouTube Music now lets you turn your favorite lyrics into shareable art](https://www.androidauthority.com/youtube-music-share-lyrics-3546634/)
+ - [Samsung Promo Codes: 30% Off | April 2025](https://www.wired.com/story/samsung-promo-codes/)
+ - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
