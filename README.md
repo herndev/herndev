@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Duolingo is getting a chess course](https://www.theverge.com/news/649319/duolingo-chess-course-ios-test)
- - [Here’s our first look at Gemini’s secret video upload feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-video-analysis-apk-3546637/)
- - [Stable One UI 7 update starts rolling out to Galaxy S23 series and more](https://www.androidauthority.com/one-ui-7-update-galaxy-s23-galaxy-s24-fe-galaxy-tab-s10-plus-3546648/)<!-- TECH:END -->
+ - [Best Internet Providers in Ithaca, New York](https://www.cnet.com/home/internet/best-internet-providers-in-ithaca-ny/#ftag=CAD590a51e)
+ - [Knight Takes Pawn. Chess Lessons Are Coming to Duolingo](https://www.cnet.com/tech/services-and-software/knight-takes-pawn-chess-lessons-are-coming-to-duolingo/#ftag=CAD590a51e)
+ - [Duolingo is getting a chess course](https://www.theverge.com/news/649319/duolingo-chess-course-ios-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
