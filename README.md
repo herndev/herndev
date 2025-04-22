@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boss finds out you lied on your resume](http://9gag.com/gag/awyOQAx)
- - ⏩ [Simple as that](http://9gag.com/gag/axyOVpW)
- - 👉 [Whoops](http://9gag.com/gag/abAxb98)<!-- MEMES:END -->
+ - 💣 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
+ - ⏩ [View from below](http://9gag.com/gag/aryxOM0)
+ - 👉 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)<!-- MEMES:END -->
 
 ---
 
