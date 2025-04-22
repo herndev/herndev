@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out opt-in Sensitive Content Warnings in Messages to blur nude images on Android; the System SafetyCore-powered content classification is on-device &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250422/p3#a250422p3)
- - [DOJ v. Google: a Google VP says the company pays Samsung an &quot;enormous sum of money&quot; every month to preinstall Gemini on its devices as part of a two-year deal &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250422/p2#a250422p2)
- - [PSA: You can use your power button for voice typing on Galaxy phones](https://www.androidauthority.com/psa-use-power-button-voice-typing-samsung-galaxy-phones-3546667/)<!-- TECH:END -->
+ - [Pinterest is prompting teens to close the app at school](https://www.theverge.com/news/653094/pinterest-school-hours-prompt-minors-focus)
+ - [A draft executive order sent to US agencies shows the Trump administration is considering issuing an order to create a policy integrating AI into K-12 education &lpar;Frances Vinall/Washington Post&rpar;](http://www.techmeme.com/250422/p6#a250422p6)
+ - [Google Messages preps to fast-forward your forwards &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-messages-media-forwarding-shortcut-apk-teardown-3537331/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
