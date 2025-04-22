@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spring Blooms in Monster Hunter Wilds with the First Seasonal Festival!](https://news.xbox.com/en-us/2025/04/22/monster-hunter-wilds-seasonal-event-spring-blossomdance/)
- - [AI becoming increasingly central to China&#39;s education reform with plans to bring AI into classes soon](https://www.pcgamer.com/hardware/ai-becoming-increasingly-central-to-chinas-education-reform-with-plans-to-bring-ai-into-classes-soon/)
- - [Gather around children, let me spin you the tale of NLRB whistleblower vs Musk&#39;s DOGE. It has government espionage, a billionaire megalomaniac, Russian hackers, coverup conspiracies, and even blackmail by drone](https://www.pcgamer.com/hardware/gather-around-children-let-me-spin-you-the-tale-of-nlrb-whistleblower-vs-musks-doge-it-has-government-espionage-a-billionaire-megalomaniac-russian-hackers-coverup-conspiracies-and-even-blackmail-by-drone/)<!-- GAME:END -->
+ - [The Outlast Trials Season 3 launches today, adding a new enemy and the ability to punish your friends in handmade trials](https://www.pcgamer.com/games/horror/the-outlast-trials-season-3-launches-today-adding-a-new-enemy-and-the-ability-to-punish-your-friends-in-handmade-trials/)
+ - [Overwatch 2 Season 16 finally adds hero bans to competitive play, and it&#39;s really brought out the vindictive side of players: &#39;He’s an annoying unkillable pain in the ass&#39;](https://www.pcgamer.com/games/fps/overwatch-2-season-16-finally-adds-hero-bans-to-competitive-play-and-its-really-brought-out-the-vindictive-side-of-players-hes-an-annoying-unkillable-pain-in-the-ass/)
+ - [Spring Blooms in Monster Hunter Wilds with the First Seasonal Festival!](https://news.xbox.com/en-us/2025/04/22/monster-hunter-wilds-seasonal-event-spring-blossomdance/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
