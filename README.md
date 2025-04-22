@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s where can try to preorder the Nintendo Switch 2 later this week](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
  - [Crypto casinos rival traditional betting groups in scale despite being illegal in most countries, with $81.4B in gross gaming revenue in 2024, up 5x since 2022 &lpar;Marianna Giusti/Financial Times&rpar;](http://www.techmeme.com/250421/p21#a250421p21)
- - [Bluesky starts rolling out blue check verification, initially limiting verification to select organizations and its moderation team &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250421/p20#a250421p20)
- - [A Columbia student suspended over a tool to cheat on job interviews says he&#39;s raised a $5.3M seed for Cluely, which offers an AI tool to &quot;cheat on everything&quot; &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250421/p19#a250421p19)<!-- TECH:END -->
+ - [Lyrids Meteor Shower Peaking Tuesday: Get Outside and Watch the Fireballs](https://www.cnet.com/science/lyrids-meteor-shower-peaking-tuesday-get-outside-and-watch-the-fireballs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
