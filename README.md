@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
- - ⏩ [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/a348jGm)
- - 👉 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)<!-- MEMES:END -->
+ - ⏩ [Sometimes you don&#39;t know what you&#39;ve got till it&#39;s gone](http://9gag.com/gag/aByEwp2)
+ - 👉 [Too many such examples](http://9gag.com/gag/a6ZBbRe)<!-- MEMES:END -->
 
 ---
 
