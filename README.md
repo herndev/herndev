@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s happening again: Oblivion Remastered is selling new horse armor like it&#39;s 2006](https://www.pcgamer.com/games/rpg/its-happening-again-oblivion-remastered-is-selling-new-horse-armor-like-its-2006/)
- - [An &#39;immersive&#39; MrBeast Experience saw disappointed fans left in the lurch for 3 days, fobbed-off with cheap merch, and waiting in hotel rooms for days to receive &#39;a box of chocolates&#39;](https://www.pcgamer.com/hardware/streaming/an-immersive-mrbeast-experience-saw-disappointed-fans-left-in-the-lurch-for-3-days-fobbed-off-with-cheap-merch-and-waiting-in-hotel-rooms-for-days-to-receive-a-box-of-chocolates/)
- - [Welcome back, Oblivion horse armor](https://www.polygon.com/gaming/562733/oblivion-remastered-bethesda-horse-armor-dlc)<!-- GAME:END -->
+ - [Lost Records: Bloom &amp; Rage Tape 2 review](https://www.pcgamer.com/games/adventure/lost-records-bloom-and-rage-tape-2-review/)
+ - [Michael Bay and Sydney Sweeney are making the least likely Sega movie](https://www.polygon.com/news/562889/outrun-movie-michael-bay-sydney-sweeney-sega-universal)
+ - [Why People Are Rushing To Sell Their Xbox Series X To GameStop Right Now](https://kotaku.com/xbox-series-x-gamestop-420-69-deal-1851777335)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
