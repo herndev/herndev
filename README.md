@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Several VCs say they fear Trump&#39;s tariffs could slow down tech investments, further decelerate the market for IPOs, and put some tech startups out of business &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250422/p10#a250422p10)
- - [Apple drops ‘available now’ from Apple Intelligence page](https://www.theverge.com/news/653413/apple-intelligence-available-now-advertising-claim)
- - [T-Mobile unveils new plans, but is there really anything new here that matters?](https://www.androidauthority.com/t-mobile-experience-plans-3546787/)<!-- TECH:END -->
+ - [Snag Apple&#39;s M4 MacBook Air for $929 &amp; save $300 on Samsung 32&quot; M8 monitor &lpar;now $399&rpar;](https://appleinsider.com/articles/25/04/22/snag-apples-m4-macbook-air-for-929-save-300-on-samsung-32-m8-monitor-now-399?utm_medium=rss)
+ - [The US DOJ says Google backed off more restrictive Gemini distribution deals, partly due to its case; Google says rivals talked to Samsung about chatbot deals &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250422/p11#a250422p11)
+ - [The Washington Post will now let ChatGPT summarize its articles](https://www.theverge.com/news/653500/the-washington-post-openai-chatgpt-partnership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
