@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Good Lock restores missing modules but removes three others](https://www.androidauthority.com/samsung-good-lock-module-fix-3546898/)
- - [DOJ v. Google: an OpenAI exec says Google declined to let OpenAI access its search index; a DOJ remedy proposal would make Google share its index with rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p21#a250422p21)
- - [Teen Coder Shuts Down Free Mac App Whisky, Encourages Supporting the Paid Alternative](https://www.wired.com/story/teen-coder-shuts-down-open-source-mac-app-whisky/)<!-- TECH:END -->
+ - [SK Telecom, South Korea&#39;s largest telecom, says hackers accessed USIM-related customer info, potentially useful in SIM swap attacks and targeted surveillance &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250422/p22#a250422p22)
+ - [The Oscars officially don’t care if films use AI](https://www.theverge.com/news/653504/oscars-film-award-rule-change-ai)
+ - [The US hikes tariffs on solar products from Asia](https://www.theverge.com/news/653750/tariffs-solar-us-china-southeast-asia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
