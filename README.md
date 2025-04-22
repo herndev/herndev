@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whoops](http://9gag.com/gag/abAxb98)
+ - 💣 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
  - ⏩ [View from below](http://9gag.com/gag/aryxOM0)
- - 👉 [Afraid of what?](http://9gag.com/gag/aAyMd0L)<!-- MEMES:END -->
+ - 👉 [Meanwhile in London, man arrested by 5 cops and facing jail time for &#39;aggravated communication&#39; and &#39;illegal offensive use of speech&#39; on X](http://9gag.com/gag/aByE3vD)<!-- MEMES:END -->
 
 ---
 
