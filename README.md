@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag Apple&#39;s M4 MacBook Air for $929 &amp; save $300 on Samsung 32&quot; M8 monitor &lpar;now $399&rpar;](https://appleinsider.com/articles/25/04/22/snag-apples-m4-macbook-air-for-929-save-300-on-samsung-32-m8-monitor-now-399?utm_medium=rss)
- - [The US DOJ says Google backed off more restrictive Gemini distribution deals, partly due to its case; Google says rivals talked to Samsung about chatbot deals &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250422/p11#a250422p11)
- - [The Washington Post will now let ChatGPT summarize its articles](https://www.theverge.com/news/653500/the-washington-post-openai-chatgpt-partnership)<!-- TECH:END -->
+ - [Google Fi is launching a $35 / month unlimited plan](https://www.theverge.com/news/653244/google-fi-unlimited-essentials-plan)
+ - [FTC v. Meta: Instagram co-founder Kevin Systrom testifies that &quot;Mark was not investing in Instagram because he believed we were a threat to their growth&quot; &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250422/p19#a250422p19)
+ - [Instagram launches Edits, a &quot;video creation app designed for creators&quot; intended to rival ByteDance&#39;s CapCut app, for free on iOS and Android &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250422/p18#a250422p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
