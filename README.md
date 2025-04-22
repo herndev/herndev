@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We do live in a strange timeline.](http://9gag.com/gag/aAyMD6d)
- - ⏩ [I&#39;m telling you, this meme&#39;s BONKOS!](http://9gag.com/gag/aGyGe1K)
- - 👉 [Change my mind.](http://9gag.com/gag/a9ymA0W)<!-- MEMES:END -->
+ - 💣 [Shes lucky, she can skip school](http://9gag.com/gag/aVvZDYn)
+ - ⏩ [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
+ - 👉 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)<!-- MEMES:END -->
 
 ---
 
