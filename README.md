@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Life was good back then](http://9gag.com/gag/aqyxbdM)
- - ⏩ [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/a348jGm)
- - 👉 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)<!-- MEMES:END -->
+ - ⏩ [Damn..](http://9gag.com/gag/aRBveLQ)
+ - 👉 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)<!-- MEMES:END -->
 
 ---
 
