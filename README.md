@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supabase, an open-source alternative to Google&#39;s Firebase that&#39;s used by 2M+ developers, raises $200M Series D at $2B valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250422/p20#a250422p20)
- - [Has your Pixel 9 gotten worse at recording video recently?](https://www.androidauthority.com/pixel-9-video-quality-3546824/)
- - [The 8 Best Earth Day Deals of 2025](https://www.wired.com/story/earth-day-deals-2025/)<!-- TECH:END -->
+ - [Samsung Good Lock restores missing modules but removes three others](https://www.androidauthority.com/samsung-good-lock-module-fix-3546898/)
+ - [DOJ v. Google: an OpenAI exec says Google declined to let OpenAI access its search index; a DOJ remedy proposal would make Google share its index with rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p21#a250422p21)
+ - [Teen Coder Shuts Down Free Mac App Whisky, Encourages Supporting the Paid Alternative](https://www.wired.com/story/teen-coder-shuts-down-open-source-mac-app-whisky/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
