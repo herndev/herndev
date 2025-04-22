@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is finally fixing Pixel Watch update disparity with a new April update for all!](https://www.androidauthority.com/pixel-watch-april-2025-update-rollout-availability-release-notes-3546618/)
- - [Getting started with ChatGPT&#39;s &#39;Work With Apps on macOS&#39; feature](https://appleinsider.com/articles/25/04/22/getting-started-with-chatgpts-work-with-apps-on-macos-feature?utm_medium=rss)
- - [Third developer betas of iOS 18.5, macOS 15.5 seeded to testers](https://appleinsider.com/articles/25/04/21/third-developer-betas-of-ios-185-macos-155-seeded-to-testers?utm_medium=rss)<!-- TECH:END -->
+ - [Flipkart plans to shift its holding company from Singapore to India as Walmart aims to take it public; Flipkart moved the entity to Singapore in 2011 &lpar;Kashish Tandon/Reuters&rpar;](http://www.techmeme.com/250422/p1#a250422p1)
+ - [Samsung’s weather app in One UI 8 is getting a dramatic makeover](https://www.androidauthority.com/samsung-one-ui-8-weather-app-3546624/)
+ - [Google is finally fixing Pixel Watch update disparity with a new April update for all!](https://www.androidauthority.com/pixel-watch-april-2025-update-rollout-availability-release-notes-3546618/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
