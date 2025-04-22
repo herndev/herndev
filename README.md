@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US v. Google remedies trial opens with the DOJ arguing that Google should be forced to divest Chrome, and Google calling the proposed remedies &quot;extreme&quot; &lpar;Julian Mark/Washington Post&rpar;](http://www.techmeme.com/250421/p18#a250421p18)
- - [iPhone 17 Pro could be available in Sky Blue, leaker claims](https://appleinsider.com/articles/25/04/21/iphone-17-pro-could-be-available-in-sky-blue-leaker-claims?utm_medium=rss)
- - [Google Messages is rolling out its new warning for explicit images](https://www.androidauthority.com/google-messages-sensitive-content-warnings-rolling-out-3546586/)<!-- TECH:END -->
+ - [Crypto casinos rival traditional betting groups in scale despite being illegal in most countries, with $81.4B in gross gaming revenue in 2024, up 5x since 2022 &lpar;Marianna Giusti/Financial Times&rpar;](http://www.techmeme.com/250421/p21#a250421p21)
+ - [Bluesky starts rolling out blue check verification, initially limiting verification to select organizations and its moderation team &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250421/p20#a250421p20)
+ - [A Columbia student suspended over a tool to cheat on job interviews says he&#39;s raised a $5.3M seed for Cluely, which offers an AI tool to &quot;cheat on everything&quot; &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250421/p19#a250421p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
