@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wingspan developer Stonemaier Games intends to sue Trump over tariffs](https://www.polygon.com/tabletop-games/562620/stonemaier-games-trump-tariff-lawsuit-wingspan-developer)
- - [41 Stunning Screenshots From The Elder Scrolls: Oblivion Remastered](https://kotaku.com/elder-scrolls-oblivion-remastered-screenshots-1851777292)
- - [Title: Post Trauma Taxes and Terrifies Xbox Series X|S Players Today](https://news.xbox.com/en-us/2025/04/22/title-post-trauma-terrifies-xbox-series-xs-players-today/)<!-- GAME:END -->
+ - [It&#39;s happening again: Oblivion Remastered is selling new horse armor like it&#39;s 2006](https://www.pcgamer.com/games/rpg/its-happening-again-oblivion-remastered-is-selling-new-horse-armor-like-its-2006/)
+ - [An &#39;immersive&#39; MrBeast Experience saw disappointed fans left in the lurch for 3 days, fobbed-off with cheap merch, and waiting in hotel rooms for days to receive &#39;a box of chocolates&#39;](https://www.pcgamer.com/hardware/streaming/an-immersive-mrbeast-experience-saw-disappointed-fans-left-in-the-lurch-for-3-days-fobbed-off-with-cheap-merch-and-waiting-in-hotel-rooms-for-days-to-receive-a-box-of-chocolates/)
+ - [Welcome back, Oblivion horse armor](https://www.polygon.com/gaming/562733/oblivion-remastered-bethesda-horse-armor-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
