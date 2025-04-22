@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life was good back then](http://9gag.com/gag/aqyxbdM)
- - ⏩ [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 👉 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)<!-- MEMES:END -->
+ - 💣 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
+ - ⏩ [Life was good back then](http://9gag.com/gag/aqyxbdM)
+ - 👉 [Damn..](http://9gag.com/gag/aRBveLQ)<!-- MEMES:END -->
 
 ---
 
