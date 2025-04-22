@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We do live in a strange timeline.](http://9gag.com/gag/aAyMD6d)
- - ⏩ [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - 👉 [Whoops](http://9gag.com/gag/abAxb98)<!-- MEMES:END -->
+ - 💣 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
+ - ⏩ [View from below](http://9gag.com/gag/aryxOM0)
+ - 👉 [Simple as that](http://9gag.com/gag/axyOVpW)<!-- MEMES:END -->
 
 ---
 
