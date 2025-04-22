@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A week after a major hack brought down 4chan and doxxed all its users, it seems like it may be dead for good](https://www.pcgamer.com/games/a-week-after-a-major-hack-brought-down-4chan-and-doxxed-all-its-users-it-seems-like-it-may-be-dead-for-good/)
- - [‘Please don’t punish others for our mistakes’: Concord dev thinks Marathon deserves a chance](https://www.polygon.com/news/562415/concord-developer-on-bungie-marathon)
- - [Roblox Has A Community Of Players Who Recreate School Shootings](https://kotaku.com/roblox-school-shootings-columbine-ass-adl-report-kids-1851777207)<!-- GAME:END -->
+ - [All ‘A New Clue’ book puzzles in Blue Prince and how to solve them](https://www.polygon.com/blue-prince-guides/561038/a-new-clue-book-puzzles-how-to-solve-all-solutions)
+ - [Marvel Rivals&#39; hero gallery UI used to look a lot cooler—but also a lot harder to use](https://www.pcgamer.com/games/fps/marvel-rivals-hero-gallery-ui-used-to-look-a-lot-cooler-but-also-a-lot-harder-to-use/)
+ - [A week after a major hack brought down 4chan and doxxed all its users, it seems like it may be dead for good](https://www.pcgamer.com/games/a-week-after-a-major-hack-brought-down-4chan-and-doxxed-all-its-users-it-seems-like-it-may-be-dead-for-good/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
