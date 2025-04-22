@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music now lets you turn your favorite lyrics into shareable art](https://www.androidauthority.com/youtube-music-share-lyrics-3546634/)
- - [Samsung Promo Codes: 30% Off | April 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
+ - [Duolingo is getting a chess course](https://www.theverge.com/news/649319/duolingo-chess-course-ios-test)
+ - [Here’s our first look at Gemini’s secret video upload feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-video-analysis-apk-3546637/)
+ - [Stable One UI 7 update starts rolling out to Galaxy S23 series and more](https://www.androidauthority.com/one-ui-7-update-galaxy-s23-galaxy-s24-fe-galaxy-tab-s10-plus-3546648/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
