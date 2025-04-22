@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Berserk comes to Sanctuary in Diablo 4 and Diablo Immortal’s first crossover this May](https://www.polygon.com/news/562023/berserk-diablo-4-diablo-immortal-crossover-event-details-costumes-bosses)
- - [Netflix’s Too Hot to Handle mobile games healed my jaded microtransaction-weary heart](https://www.polygon.com/mobile/562174/netflix-too-hot-to-handle-mobile-game-good-visual-novel-mobile-romance)
- - [Days Gone Remastered accessibility features detailed](https://blog.playstation.com/2025/04/22/days-gone-remastered-accessibility-features-detailed/)<!-- GAME:END -->
+ - [Tragedy as Hollywood runs out of videogames to adapt, forced to make OutRun movie fronted by Sydney Sweeney and Michael Bay](https://www.pcgamer.com/movies-tv/tragedy-as-hollywood-runs-out-of-videogames-to-adapt-forced-to-make-outrun-movie-fronted-by-sydney-sweeney-and-michael-bay/)
+ - [REPO&#39;s next update will include matchmaking and expressions, so you no longer have to rely on shouting at your friends when they&#39;ve smashed a valuable](https://www.pcgamer.com/games/horror/repos-next-update-will-include-matchmaking-and-expressions-so-you-no-longer-have-to-rely-on-shouting-at-your-friends-when-theyve-smashed-a-valuable/)
+ - [A new Frostpunk game is coming &#39;as early as 2027&#39; after Frostpunk 2 spearheaded the &#39;highest sales in the company&#39;s history&#39;](https://www.pcgamer.com/games/city-builder/a-new-frostpunk-game-is-coming-as-early-as-2027-after-frostpunk-2-spearheaded-the-highest-sales-in-the-companys-history/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
