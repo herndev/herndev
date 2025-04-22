@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Telecom, South Korea&#39;s largest telecom, says hackers accessed USIM-related customer info, potentially useful in SIM swap attacks and targeted surveillance &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250422/p22#a250422p22)
- - [The Oscars officially don’t care if films use AI](https://www.theverge.com/news/653504/oscars-film-award-rule-change-ai)
- - [The US hikes tariffs on solar products from Asia](https://www.theverge.com/news/653750/tariffs-solar-us-china-southeast-asia)<!-- TECH:END -->
+ - [Google mulls moving Pixel production to beat tariff burden](https://www.androidauthority.com/google-pixel-production-could-move-to-india-3546927/)
+ - [OpenAI tells judge it would buy Chrome from Google](https://www.theverge.com/news/653882/openai-chrome-google-us-judge)
+ - [Windows 11 is easier to run on an iPad than ever — with some big caveats](https://www.androidauthority.com/windows-11-ipad-3546930/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
