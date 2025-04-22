@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Responsibly Dispose of Your Electronics &lpar;2025&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)
- - [T-Mobile is shuffling its high-end plans](https://www.theverge.com/news/652616/t-mobile-experience-more-beyond-unlimited-plans)
- - [Insta360’s new 360-degree action cam lets you replace damaged lenses](https://www.theverge.com/news/652785/insta360-x5-action-camera-replaceable-lens)<!-- TECH:END -->
+ - [The best free apps for video meetings](https://www.theverge.com/21286781/best-video-call-apps-free)
+ - [MacBook shipments soared in 2025 but tariffs played a bigger role](https://appleinsider.com/articles/25/04/22/macbook-shipments-soared-in-2025-but-tariffs-played-a-bigger-role?utm_medium=rss)
+ - [Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
