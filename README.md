@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Morelull be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24184830/can-morelull-be-shiny-shiinotic)
  - [Today&#39;s Wordle answer for Tuesday, April 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-22-2025/)
- - [How excited are we to replay a shinier version of Oblivion 19 years later?](https://www.pcgamer.com/games/the-elder-scrolls/how-excited-are-we-to-replay-a-shinier-version-of-oblivion-19-years-later/)
- - [All ‘A New Clue’ book puzzles in Blue Prince and how to solve them](https://www.polygon.com/blue-prince-guides/561038/a-new-clue-book-puzzles-how-to-solve-all-solutions)<!-- GAME:END -->
+ - [How excited are we to replay a shinier version of Oblivion 19 years later?](https://www.pcgamer.com/games/the-elder-scrolls/how-excited-are-we-to-replay-a-shinier-version-of-oblivion-19-years-later/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
