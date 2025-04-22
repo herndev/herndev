@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn..](http://9gag.com/gag/aRBveLQ)
- - ⏩ [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - 👉 [Simple as that](http://9gag.com/gag/axyOVpW)<!-- MEMES:END -->
+ - 💣 [We do live in a strange timeline.](http://9gag.com/gag/aAyMD6d)
+ - ⏩ [I&#39;m telling you, this meme&#39;s BONKOS!](http://9gag.com/gag/aGyGe1K)
+ - 👉 [Change my mind.](http://9gag.com/gag/a9ymA0W)<!-- MEMES:END -->
 
 ---
 
