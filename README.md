@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says he’ll step back from DOGE starting in May](https://www.theverge.com/news/653928/elon-musk-doge-step-back-tesla-earnings)
- - [After Tesla&#39;s Earnings Slide, Pressure&#39;s on for Cybercab](https://www.wired.com/story/tesla-earnings-cybercab/)
- - [Best Graduation Gifts for College Grads in 2025](https://www.cnet.com/news/best-college-graduation-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US v. Google: OpenAI&#39;s ChatGPT chief, Nick Turley, says the company would be interested in buying Chrome from Google if a federal court orders it to be spun off &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p26#a250422p26)
+ - [This versatile 100W Anker Prime Charger is 41% off!](https://www.androidauthority.com/anker-prime-charger-100w-3-ports-gan-deal-3546953/)
+ - [SAP reports Q1 cloud revenue up 26% YoY to €4.99B, vs. €5.05B est., and adjusted operating income up 58% to €2.5B, beating estimates; SAP jumps 9%+ after hours &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250422/p25#a250422p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
