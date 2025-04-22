@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Records: Bloom &amp; Rage Tape 2 review](https://www.pcgamer.com/games/adventure/lost-records-bloom-and-rage-tape-2-review/)
- - [Michael Bay and Sydney Sweeney are making the least likely Sega movie](https://www.polygon.com/news/562889/outrun-movie-michael-bay-sydney-sweeney-sega-universal)
- - [Why People Are Rushing To Sell Their Xbox Series X To GameStop Right Now](https://kotaku.com/xbox-series-x-gamestop-420-69-deal-1851777335)<!-- GAME:END -->
+ - [If you&#39;re getting Oblivion Remastered, save $9 by grabbing a Steam key from Fanatical&#39;s day-one sale](https://www.pcgamer.com/games/the-elder-scrolls/if-youre-getting-oblivion-remastered-save-usd9-by-grabbing-a-steam-key-from-fanaticals-day-one-sale/)
+ - [Watch us play an entire match of Bungie’s new extraction shooter, Marathon](https://www.polygon.com/news/561955/marathon-full-match-video)
+ - [Monster Hunter Wilds event quests schedule and DLC roadmap](https://www.polygon.com/monster-hunter-wilds-guide/534245/event-quests-schedule-dlc-roadmap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
