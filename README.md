@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
- - ⏩ [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
+ - 💣 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
+ - ⏩ [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/a348jGm)
  - 👉 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)<!-- MEMES:END -->
 
 ---
