@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Change my mind.](http://9gag.com/gag/a9ymA0W)
- - ⏩ [Simple as that](http://9gag.com/gag/axyOVpW)
- - 👉 [Afraid of what?](http://9gag.com/gag/aAyMd0L)<!-- MEMES:END -->
+ - 💣 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
+ - ⏩ [Damn..](http://9gag.com/gag/aRBveLQ)
+ - 👉 [Life was good back then](http://9gag.com/gag/aqyxbdM)<!-- MEMES:END -->
 
 ---
 
