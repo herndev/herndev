@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Outlast Trials Season 3 launches today, adding a new enemy and the ability to punish your friends in handmade trials](https://www.pcgamer.com/games/horror/the-outlast-trials-season-3-launches-today-adding-a-new-enemy-and-the-ability-to-punish-your-friends-in-handmade-trials/)
- - [Overwatch 2 Season 16 finally adds hero bans to competitive play, and it&#39;s really brought out the vindictive side of players: &#39;He’s an annoying unkillable pain in the ass&#39;](https://www.pcgamer.com/games/fps/overwatch-2-season-16-finally-adds-hero-bans-to-competitive-play-and-its-really-brought-out-the-vindictive-side-of-players-hes-an-annoying-unkillable-pain-in-the-ass/)
- - [Spring Blooms in Monster Hunter Wilds with the First Seasonal Festival!](https://news.xbox.com/en-us/2025/04/22/monster-hunter-wilds-seasonal-event-spring-blossomdance/)<!-- GAME:END -->
+ - [Berserk comes to Sanctuary in Diablo 4 and Diablo Immortal’s first crossover this May](https://www.polygon.com/news/562023/berserk-diablo-4-diablo-immortal-crossover-event-details-costumes-bosses)
+ - [Netflix’s Too Hot to Handle mobile games healed my jaded microtransaction-weary heart](https://www.polygon.com/mobile/562174/netflix-too-hot-to-handle-mobile-game-good-visual-novel-mobile-romance)
+ - [Days Gone Remastered accessibility features detailed](https://blog.playstation.com/2025/04/22/days-gone-remastered-accessibility-features-detailed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
