@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It only took 3 hours for someone to upload the first Oblivion Remastered gooner mod](https://www.pcgamer.com/games/rpg/it-only-took-3-hours-for-someone-to-upload-the-first-oblivion-remastered-gooner-mod/)
- - [How to cure vampirism in Oblivion or become a vampire on purpose for the nighttime buffs](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-vampirism-cure-benefits/)
- - [StarCraft 2 Hackers Are Forcing Players To Watch Mass Shooting Videos](https://kotaku.com/starcraft-2-hackers-mass-shooting-video-blizzard-pc-1851777332)<!-- GAME:END -->
+ - [How Capcom’s Remaster of Onimusha 2: Samurai’s Destiny Makes a Classic Game Better](https://news.xbox.com/en-us/2025/04/22/onimusha-2-remaster-preview/)
+ - [Where to find the Skeleton Key in Oblivion so you can stop breaking all your lockpicks](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-skeleton-key-location/)
+ - [Oblivion Remastered doesn&#39;t officially support mods, but the mods are rolling in anyway](https://www.pcgamer.com/games/rpg/oblivion-remastered-doesnt-officially-support-mods-but-the-mods-are-rolling-in-anyway/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
