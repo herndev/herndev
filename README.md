@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hot damn: The Oblivion Remaster is 125 GB, 2600% heavier than the original game from 2006](https://www.pcgamer.com/games/the-elder-scrolls/hot-damn-the-oblivion-remaster-is-125-gb-2600-percent-heavier-than-the-original-game-from-2006/)
- - [Ultron being a Strategist in Marvel Rivals makes perfect sense when you disregard his hatred for humanity and realise that he&#39;s a changed AI](https://www.pcgamer.com/games/third-person-shooter/ultron-being-a-strategist-in-marvel-rivals-makes-perfect-sense-when-you-disregard-his-hatred-for-humanity-and-realise-that-hes-a-changed-ai/)
- - [The Highest-Priced Cards In Pokémon TCG&#39;s Journey Together](https://kotaku.com/pokemon-tcg-journey-together-highest-card-prices-1851777262)<!-- GAME:END -->
+ - [Wingspan developer Stonemaier Games intends to sue Trump over tariffs](https://www.polygon.com/tabletop-games/562620/stonemaier-games-trump-tariff-lawsuit-wingspan-developer)
+ - [41 Stunning Screenshots From The Elder Scrolls: Oblivion Remastered](https://kotaku.com/elder-scrolls-oblivion-remastered-screenshots-1851777292)
+ - [Title: Post Trauma Taxes and Terrifies Xbox Series X|S Players Today](https://news.xbox.com/en-us/2025/04/22/title-post-trauma-terrifies-xbox-series-xs-players-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
