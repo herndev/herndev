@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best free apps for video meetings](https://www.theverge.com/21286781/best-video-call-apps-free)
- - [MacBook shipments soared in 2025 but tariffs played a bigger role](https://appleinsider.com/articles/25/04/22/macbook-shipments-soared-in-2025-but-tariffs-played-a-bigger-role?utm_medium=rss)
- - [Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
+ - [Several VCs say they fear Trump&#39;s tariffs could slow down tech investments, further decelerate the market for IPOs, and put some tech startups out of business &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250422/p10#a250422p10)
+ - [Apple drops ‘available now’ from Apple Intelligence page](https://www.theverge.com/news/653413/apple-intelligence-available-now-advertising-claim)
+ - [T-Mobile unveils new plans, but is there really anything new here that matters?](https://www.androidauthority.com/t-mobile-experience-plans-3546787/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
