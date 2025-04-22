@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Human vs. dog](http://9gag.com/gag/aD2bG6O)
- - ⏩ [Liberals will say it&#39;s a fake.](http://9gag.com/gag/ae9xe0Q)
- - 👉 [This is so beautiful](http://9gag.com/gag/aAyMx32)<!-- MEMES:END -->
+ - 💣 [Change my mind.](http://9gag.com/gag/a9ymA0W)
+ - ⏩ [Simple as that](http://9gag.com/gag/axyOVpW)
+ - 👉 [Afraid of what?](http://9gag.com/gag/aAyMd0L)<!-- MEMES:END -->
 
 ---
 
