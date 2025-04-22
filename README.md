@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shes lucky, she can skip school](http://9gag.com/gag/aVvZDYn)
- - ⏩ [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 👉 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)<!-- MEMES:END -->
+ - 💣 [Human vs. dog](http://9gag.com/gag/aD2bG6O)
+ - ⏩ [Liberals will say it&#39;s a fake.](http://9gag.com/gag/ae9xe0Q)
+ - 👉 [This is so beautiful](http://9gag.com/gag/aAyMx32)<!-- MEMES:END -->
 
 ---
 
