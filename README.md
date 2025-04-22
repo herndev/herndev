@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Fi is launching a $35 / month unlimited plan](https://www.theverge.com/news/653244/google-fi-unlimited-essentials-plan)
- - [FTC v. Meta: Instagram co-founder Kevin Systrom testifies that &quot;Mark was not investing in Instagram because he believed we were a threat to their growth&quot; &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250422/p19#a250422p19)
- - [Instagram launches Edits, a &quot;video creation app designed for creators&quot; intended to rival ByteDance&#39;s CapCut app, for free on iOS and Android &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250422/p18#a250422p18)<!-- TECH:END -->
+ - [Supabase, an open-source alternative to Google&#39;s Firebase that&#39;s used by 2M+ developers, raises $200M Series D at $2B valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250422/p20#a250422p20)
+ - [Has your Pixel 9 gotten worse at recording video recently?](https://www.androidauthority.com/pixel-9-video-quality-3546824/)
+ - [The 8 Best Earth Day Deals of 2025](https://www.wired.com/story/earth-day-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
