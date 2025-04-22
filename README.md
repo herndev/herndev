@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
- - ⏩ [View from below](http://9gag.com/gag/aryxOM0)
- - 👉 [Subaru Saves](http://9gag.com/gag/a4PAdvZ)<!-- MEMES:END -->
+ - 💣 [Meanwhile in London, man arrested by 5 cops and facing jail time for &#39;aggravated communication&#39; and &#39;illegal offensive use of speech&#39; on X](http://9gag.com/gag/aByE3vD)
+ - ⏩ [Not even hold hands?](http://9gag.com/gag/aryxNOX)
+ - 👉 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)<!-- MEMES:END -->
 
 ---
 
