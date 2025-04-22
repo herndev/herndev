@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases City Update 10: United States](https://www.flightsimulator.com/city-update-10-united-states-i/#new_tab)
- - [All Shrine blessings in Blue Prince](https://www.polygon.com/blue-prince-guides/561098/shrine-blessings-list-all-costs-days)
- - [Thrustmaster T598 direct drive racing wheel review](https://www.pcgamer.com/hardware/steering-wheels/thrustmaster-t598-direct-drive-racing-wheel-review/)<!-- GAME:END -->
+ - [Hot damn: The Oblivion Remaster is 125 GB, 2600% heavier than the original game from 2006](https://www.pcgamer.com/games/the-elder-scrolls/hot-damn-the-oblivion-remaster-is-125-gb-2600-percent-heavier-than-the-original-game-from-2006/)
+ - [Ultron being a Strategist in Marvel Rivals makes perfect sense when you disregard his hatred for humanity and realise that he&#39;s a changed AI](https://www.pcgamer.com/games/third-person-shooter/ultron-being-a-strategist-in-marvel-rivals-makes-perfect-sense-when-you-disregard-his-hatred-for-humanity-and-realise-that-hes-a-changed-ai/)
+ - [The Highest-Priced Cards In Pokémon TCG&#39;s Journey Together](https://kotaku.com/pokemon-tcg-journey-together-highest-card-prices-1851777262)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
