@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia announces the general availability of its NeMo platform to build AI agents, supporting Meta&#39;s Llama, Microsoft&#39;s Phi, Google&#39;s Gemma, and Mistral &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250423/p28#a250423p28)
- - [To pinch or not: Survey reveals how people use camera zoom](https://www.androidauthority.com/survey-camera-zoom-habits-3547247/)
- - [The Kindle Colorsoft, Amazon’s first color e-reader, is $55 off](https://www.theverge.com/tech/653291/kindle-colorsoft-signature-edition-amazon-book-sale-2025-deal)<!-- TECH:END -->
+ - [Final Cut Pro support comes to Logitech MX Creative Console](https://appleinsider.com/articles/25/04/23/final-cut-pro-support-comes-to-logitech-mx-creative-console?utm_medium=rss)
+ - [iPhone 16e had stronger demand than iPhone SE 3 did at launch](https://appleinsider.com/articles/25/04/23/iphone-16e-had-stronger-demand-than-iphone-se-3-did-at-launch?utm_medium=rss)
+ - [A deep dive on AMD 2.0: a new sense of urgency, rapid AI software stack progress, a critical talent retention challenge, ROCm lags Nvidia&#39;s CUDA, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250423/p31#a250423p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
