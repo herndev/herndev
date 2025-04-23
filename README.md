@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The creators of Wingspan are &#39;suing the president&#39; to try and save board game publishers from tariff annihilation](https://www.pcgamer.com/games/board-games/the-creators-of-wingspan-are-suing-the-president-to-try-and-save-board-game-publishers-from-tariff-annihilation/)
- - [Framework 13 AMD AI 300-series review](https://www.pcgamer.com/hardware/gaming-laptops/framework-13-amd-ai-300-series-review/)
- - [How Long Of An Journey Are You Signing Up For With Clair Obscur: Expedition 33?](https://kotaku.com/clair-obscur-expedition-33-how-long-to-beat-1851777481)<!-- GAME:END -->
+ - [Team Up Instantly – Sunderfolk’s Mobile Integration Redefines Xbox Co-Op](https://news.xbox.com/en-us/2025/04/23/sunderfolk-mobile-integration-redefines-xbox-co-op/)
+ - [All Oblivion Remastered console commands list and how to use them](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/563421/console-commands-list-all-how-to-use)
+ - [This expansion card for the Xbox series X is on sale for its lowest price ever](https://www.polygon.com/good-deals/563422/xbox-series-x-expansion-card-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
