@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)
- - ⏩ [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
- - 👉 [Dude just entered the cutscene](http://9gag.com/gag/aXP7x7z)<!-- MEMES:END -->
+ - 💣 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
+ - ⏩ [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
+ - 👉 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)<!-- MEMES:END -->
 
 ---
 
