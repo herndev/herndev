@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make Cosmic Exploration macros in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/563439/cosmic-exploration-macros-crafting)
- - [How to master the persuasion minigame in Oblivion so you aren&#39;t constantly eating your words](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-persuasion-minigame/)
- - [The company behind the Wheel of Time series on Amazon is now working on a Wheel of Time open-world RPG](https://www.pcgamer.com/games/rpg/the-company-behind-the-wheel-of-time-series-on-amazon-is-now-working-on-a-wheel-of-time-open-world-rpg/)<!-- GAME:END -->
+ - [Nintendo is trying to force Discord to give up the identity of the person behind last year&#39;s massive Pokémon leak](https://www.pcgamer.com/games/nintendo-is-trying-to-force-discord-to-give-up-the-identity-of-the-person-behind-last-years-massive-pokemon-leak/)
+ - [How to level up in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/563551/level-up-how-to-leveling-system)
+ - [9 Things You Might Not Know About The Switch 2](https://kotaku.com/switch-2-c-button-animal-crossing-zelda-friend-codes-1851775334)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
