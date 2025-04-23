@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A week after a hack, 4chan remains down, apparently pushed off the internet by rival hackers; its toxic legacy carries on across social platforms and culture &lpar;Ryan Broderick/Wired&rpar;](http://www.techmeme.com/250423/p3#a250423p3)
- - [Elon Musk says production of Tesla&#39;s humanoid robot, Optimus, is being affected by China&#39;s recent restrictions on exports of rare earth minerals used in magnets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p2#a250423p2)
- - [Surfshark Promo Codes: 86% Off | April 2025](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
+ - [Google Home updates are finally more transparent and easier to track](https://www.androidauthority.com/google-home-updates-tracking-3547090/)
+ - [Study: models like OpenAI&#39;s o3 outperform expert virologists in wet lab problem-solving, which might accelerate research but could also be abused by bad actors &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/250423/p7#a250423p7)
+ - [UN says the ~$40B cybercrime call center industry, tied to East and Southeast Asian crime syndicates, is expanding globally to regions with weak governance &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/250423/p6#a250423p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
