@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Noxtua, which develops AI tech to research, analyze, and draft legal documents, raised an €80.7M Series B led by C.H. Beck, Germany&#39;s leading legal publisher &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250423/p9#a250423p9)
- - [A look at New Mexico&#39;s efforts to become a quantum computing hub through partnerships between the state, its universities, and national labs and companies &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250423/p8#a250423p8)
- - [Samsung is finally resuming the One UI 7 rollout globally!](https://www.androidauthority.com/samsung-resumes-one-ui-7-rollout-3547123/)<!-- TECH:END -->
+ - [The EU Commission fines Apple €500M and Meta €200M under the DMA and issues cease-and-desist orders; Apple says it will appeal, and Meta says it likely would &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250423/p12#a250423p12)
+ - [Trump Media partners with Crypto.com and Florida-based Yorkville America Digital to launch ETFs by the end of 2025, as it moves into financial services &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/250423/p11#a250423p11)
+ - [Nari Labs unveils Dia, a 1.6B parameter text-to-speech model designed to produce naturalistic dialogue directly from text prompts, built with &quot;zero funding&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250423/p10#a250423p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
