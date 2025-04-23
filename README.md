@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda gave Oblivion Remastered game keys to the entire Skyblivion development team and &#39;made it clear that they have no intention of shutting down our project&#39;](https://www.pcgamer.com/games/rpg/bethesda-gave-oblivion-remastered-game-keys-to-the-entire-skyblivion-development-team-and-made-it-clear-that-they-have-no-intention-of-shutting-down-our-project/)
- - [Burden of Command is the World War 2 visual novel I didn&#39;t know I needed](https://www.pcgamer.com/games/strategy/burden-of-command-is-the-world-war-2-visual-novel-i-didnt-know-i-needed/)
- - [How Capcom’s Remaster of Onimusha 2: Samurai’s Destiny Makes a Classic Game Better](https://news.xbox.com/en-us/2025/04/22/onimusha-2-remaster-preview/)<!-- GAME:END -->
+ - [Onimusha 2: Samurai’s Destiny remastered: Interview with director Motohide Eshiro](https://blog.playstation.com/2025/04/22/onimusha-2-samurais-destiny-remastered-interview-with-director-motohide-eshiro/)
+ - [Onimusha 2: Samurai’s Destiny remastered: Interview with director Motohide Eshiro](https://blog.playstation.com/2025/04/22/onimusha-2-samurais-destiny-remastered-interview-with-director-motohide-eshiro/)
+ - [StarCraft 2 Hackers Are Forcing Players To Watch Mass Shooting Videos](https://kotaku.com/starcraft-2-hackers-mass-shooting-video-blizzard-pc-1851777332)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
