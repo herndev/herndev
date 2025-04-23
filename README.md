@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon-owned Woot slashes Mac mini, iMac to as low as $369.99](https://appleinsider.com/articles/25/04/23/amazon-owned-woot-slashes-mac-mini-imac-to-as-low-as-36999?utm_medium=rss)
- - [Google I/O 2025: Material 3 Expressive, Android 16 for TV, and more confirmed](https://www.androidauthority.com/google-io-2025-session-list-3547384/)
- - [OpenAI brings the tech behind the new ChatGPT image generator to its API, for $5/1M text input tokens, $10/1M image input tokens, and $40/1M image output tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250423/p44#a250423p44)<!-- TECH:END -->
+ - [Senator Warren asks if Apple CEO Tim Cook&#39;s Trump playbook is blatant corruption](https://appleinsider.com/articles/25/04/23/senator-warren-asks-if-apple-ceo-tim-cooks-trump-playbook-is-blatant-corruption?utm_medium=rss)
+ - [TSMC plans to begin production with its A14 fabrication process in 2028 and an intermediary A16 chip process in late 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p49#a250423p49)
+ - [New Jersey sues RealPage, accusing the property management software company and 10 of the state&#39;s largest landlords of conspiring to drive up residential rents &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250423/p48#a250423p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
