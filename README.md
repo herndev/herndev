@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 23, #212](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-23-212/#ftag=CAD590a51e)
  - [US v. Google: OpenAI&#39;s ChatGPT chief, Nick Turley, says the company would be interested in buying Chrome from Google if a federal court orders it to be spun off &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p26#a250422p26)
- - [This versatile 100W Anker Prime Charger is 41% off!](https://www.androidauthority.com/anker-prime-charger-100w-3-ports-gan-deal-3546953/)
- - [SAP reports Q1 cloud revenue up 26% YoY to €4.99B, vs. €5.05B est., and adjusted operating income up 58% to €2.5B, beating estimates; SAP jumps 9%+ after hours &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250422/p25#a250422p25)<!-- TECH:END -->
+ - [Trump Administration Delays Rural Broadband Program By 90 Days](https://www.cnet.com/home/internet/trump-administration-delays-rural-broadband-program-by-90-days/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
