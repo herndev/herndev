@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Cut Pro support comes to Logitech MX Creative Console](https://appleinsider.com/articles/25/04/23/final-cut-pro-support-comes-to-logitech-mx-creative-console?utm_medium=rss)
- - [iPhone 16e had stronger demand than iPhone SE 3 did at launch](https://appleinsider.com/articles/25/04/23/iphone-16e-had-stronger-demand-than-iphone-se-3-did-at-launch?utm_medium=rss)
- - [A deep dive on AMD 2.0: a new sense of urgency, rapid AI software stack progress, a critical talent retention challenge, ROCm lags Nvidia&#39;s CUDA, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250423/p31#a250423p31)<!-- TECH:END -->
+ - [Microsoft’s Xbox app is now available on LG smart TVs](https://www.theverge.com/news/654143/microsoft-xbox-app-lg-smart-tv-cloud-gaming-available-download)
+ - [Elon Musk’s robotaxi fantasy is starting to unravel](https://www.theverge.com/tesla/654253/tesla-robotaxi-elon-musk-earnings-promise-fantasy)
+ - [Intel is boosting the performance of its Arrow Lake CPUs for free](https://www.theverge.com/news/654483/intel-arrow-lake-cpu-200s-boost-free-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
