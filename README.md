@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - ⏩ [Today&#39;s episode of `America` is just fire. United States Secretary of Homeland Security Kristi Noem had her purse stolen in a restaurant in DC. Inside was 3K in cash, her passport and her Homeland Security access card.](http://9gag.com/gag/aZZEgg0)
- - 👉 [Life was good back then](http://9gag.com/gag/aqyxbdM)<!-- MEMES:END -->
+ - 💣 [She&#39;s like a gem among a bunch of pebbles...](http://9gag.com/gag/aAyMDOR)
+ - ⏩ [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)
+ - 👉 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)<!-- MEMES:END -->
 
 ---
 
