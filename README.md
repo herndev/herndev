@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to join the Thieves Guild in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-thieves-guild-join/)
- - [Oblivion Remastered could never &#39;hold up against modern masterpieces like Elden Ring&#39;, according to Ex-Blizzard boss, &#39;I would love to be proven wrong, but I&#39;m not&#39;](https://www.pcgamer.com/games/rpg/oblivion-remastered-could-never-hold-up-against-modern-masterpieces-like-elden-ring-according-to-ex-blizzard-boss-i-would-love-to-be-proven-wrong-but-im-not/)
- - [Intel has released a free &#39;performance boost for low-latency workloads like gaming&#39; for Core Ultra 200S processors](https://www.pcgamer.com/hardware/processors/intel-has-released-a-free-performance-boost-for-low-latency-workloads-like-gaming-for-core-ultra-200s-processors/)<!-- GAME:END -->
+ - [Fallout 3 Remastered seems almost inevitable now, but still a long way off](https://www.pcgamer.com/games/fallout/fallout-3-remastered-seems-almost-inevitable-now-but-still-a-long-way-off/)
+ - [How to sell stolen items in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-sell-stolen-items-fences/)
+ - [Ghost of Yōtei comes to PlayStation 5 on October 2](https://blog.playstation.com/2025/04/23/ghost-of-yotei-comes-to-playstation-5-on-october-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
