@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Onimusha 2: Samurai’s Destiny remastered: Interview with director Motohide Eshiro](https://blog.playstation.com/2025/04/22/onimusha-2-samurais-destiny-remastered-interview-with-director-motohide-eshiro/)
- - [Onimusha 2: Samurai’s Destiny remastered: Interview with director Motohide Eshiro](https://blog.playstation.com/2025/04/22/onimusha-2-samurais-destiny-remastered-interview-with-director-motohide-eshiro/)
- - [StarCraft 2 Hackers Are Forcing Players To Watch Mass Shooting Videos](https://kotaku.com/starcraft-2-hackers-mass-shooting-video-blizzard-pc-1851777332)<!-- GAME:END -->
+ - [SUPER ROBOT WARS Y is set to release on 28 August 2025!](https://blog.playstation.com/2025/04/22/20250423-suparoboy/)
+ - [Andor’s squabbling, stranded rebel group is a small Easter egg — and part of a big picture](https://www.polygon.com/star-wars/562968/andor-rebels-maya-pei-explained)
+ - [Ghorman suddenly feels like the most important Star Wars planet](https://www.polygon.com/star-wars/563181/ghorman-andor-season-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
