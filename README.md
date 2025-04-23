@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Behold! A single QR code containing a miniaturized take on Doom: &#39;literally the entire game&#39;](https://www.pcgamer.com/hardware/behold-a-single-qr-code-containing-a-miniaturized-take-on-doom-literally-the-entire-game/)
- - [Oblivion Remastered doesn’t ‘officially’ support mods](https://www.polygon.com/gaming/563370/oblivion-remastered-no-mod-support-elder-scrolls-4)
- - [Crusader Kings 3 has hit 4 million sales, but all that tells me is that not enough of you have played the best game](https://www.pcgamer.com/games/strategy/crusader-kings-3-has-hit-4-million-sales-but-all-that-tells-me-is-that-not-enough-of-you-have-played-the-best-game/)<!-- GAME:END -->
+ - [Andor is a very serious show that reminds me why I love Star Wars silliness](https://www.polygon.com/star-wars/562903/andor-episode-1-3-review)
+ - [How to break blue rocks in Clair Obsur: Expedition 33](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-blue-rocks-paint-spikes/)
+ - [How to complete the Goblin Diplomacy quest in RuneScape Dragonwilds](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-goblin-diplomacy-quest/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
