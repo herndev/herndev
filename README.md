@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
+ - 💣 [Paddy the Baddy](http://9gag.com/gag/axyO7eM)
  - ⏩ [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
  - 👉 [This is so beautiful](http://9gag.com/gag/aAyMx32)<!-- MEMES:END -->
 
