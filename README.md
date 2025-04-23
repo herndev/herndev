@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox App Now Available on LG Smart TVs](https://news.xbox.com/en-us/2025/04/23/xbox-app-lg-smart-tv-cloud-gaming/)
- - [Anyone can now make plugins for Nvidia&#39;s promising G-Assist AI overlay, with options available for Spotify, Twitch, and more](https://www.pcgamer.com/software/ai/anyone-can-now-make-plugins-for-nvidias-promising-g-assist-ai-overlay-with-options-available-for-spotify-twitch-and-more/)
- - [Clair Obscur: Expedition 33 review](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-review/)<!-- GAME:END -->
+ - [The creators of Wingspan are &#39;suing the president&#39; to try and save board game publishers from tariff annihilation](https://www.pcgamer.com/games/board-games/the-creators-of-wingspan-are-suing-the-president-to-try-and-save-board-game-publishers-from-tariff-annihilation/)
+ - [Framework 13 AMD AI 300-series review](https://www.pcgamer.com/hardware/gaming-laptops/framework-13-amd-ai-300-series-review/)
+ - [How Long Of An Journey Are You Signing Up For With Clair Obscur: Expedition 33?](https://kotaku.com/clair-obscur-expedition-33-how-long-to-beat-1851777481)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
