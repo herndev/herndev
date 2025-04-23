@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After the ship&#39;s captain slaughtered her family, scuttled the boat, and dinghied to safety,\u00a0Terry Jo Duperrault floated 84 hours on a piece of corkboard too small to lay down and without food, water, or shelter. This is the photo beginning the rescue.](http://9gag.com/gag/aQzm1pd)
- - ⏩ [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 👉 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)<!-- MEMES:END -->
+ - 💣 [Thicc](http://9gag.com/gag/aGyGjR7)
+ - ⏩ [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 👉 [Paddy the Baddy](http://9gag.com/gag/axyO7eM)<!-- MEMES:END -->
 
 ---
 
