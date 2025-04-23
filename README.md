@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU Commission fines Apple €500M and Meta €200M under the DMA and issues cease-and-desist orders; Apple says it will appeal, and Meta says it likely would &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250423/p12#a250423p12)
- - [Trump Media partners with Crypto.com and Florida-based Yorkville America Digital to launch ETFs by the end of 2025, as it moves into financial services &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/250423/p11#a250423p11)
- - [Nari Labs unveils Dia, a 1.6B parameter text-to-speech model designed to produce naturalistic dialogue directly from text prompts, built with &quot;zero funding&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250423/p10#a250423p10)<!-- TECH:END -->
+ - [Apple and Meta hit with the EU&amp;#8217;s first DMA antitrust fines](https://www.theverge.com/news/627522/apple-meta-eu-dma-antitrust-fines)
+ - [Upgrading your phone? Google Photos could get a little easier to set up &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-new-onboarding-screen-apk-teardown-3547158/)
+ - [Samsung resumes rolling out One UI 7, per users on Reddit, X, and forums, after pausing it earlier in April, bringing new icons, a new camera UI, and more &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250423/p16#a250423p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
