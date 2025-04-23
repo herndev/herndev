@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Xbox app is now available on LG smart TVs](https://www.theverge.com/news/654143/microsoft-xbox-app-lg-smart-tv-cloud-gaming-available-download)
- - [Elon Musk’s robotaxi fantasy is starting to unravel](https://www.theverge.com/tesla/654253/tesla-robotaxi-elon-musk-earnings-promise-fantasy)
- - [Intel is boosting the performance of its Arrow Lake CPUs for free](https://www.theverge.com/news/654483/intel-arrow-lake-cpu-200s-boost-free-update)<!-- TECH:END -->
+ - [Adobe and Figma tools are getting ChatGPT’s upgraded image generation model](https://www.theverge.com/news/654561/openai-chatgpt-image-generation-model-adobe-figma)
+ - [The Old Guard sequel is coming to Netflix this July](https://www.theverge.com/netflix/654516/the-old-guard-2-premiere-date)
+ - [Court data: Google estimates its Gemini AI chatbot had 35M DAUs and 350M MAUs worldwide as of last month while ChatGPT had 160M DAUs and 600M MAUs &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250423/p38#a250423p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
