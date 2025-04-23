@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Praise the Nine, Oblivion Remastered doesn&#39;t make you grind your minor skills to level efficiently, and increasing Endurance boosts your hit points retroactively](https://www.pcgamer.com/games/rpg/praise-the-nine-oblivion-remastered-doesnt-make-you-grind-your-minor-skills-to-level-efficiently-and-increasing-endurance-boosts-your-hit-points-retroactively/)
  - [Today&#39;s Wordle answer for Wednesday, April 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-23-2025/)
- - [The core of the new Dungeons &amp; Dragons rules have been released into the Creative Commons so you can use them when you publish your own D&amp;D material](https://www.pcgamer.com/games/board-games/the-core-of-the-new-dungeons-and-dragons-rules-have-been-released-into-the-creative-commons-so-you-can-use-them-when-you-publish-your-own-d-and-d-material/)
- - [SUPER ROBOT WARS Y is set to release on 28 August 2025!](https://blog.playstation.com/2025/04/22/20250423-suparoboy/)<!-- GAME:END -->
+ - [The core of the new Dungeons &amp; Dragons rules have been released into the Creative Commons so you can use them when you publish your own D&amp;D material](https://www.pcgamer.com/games/board-games/the-core-of-the-new-dungeons-and-dragons-rules-have-been-released-into-the-creative-commons-so-you-can-use-them-when-you-publish-your-own-d-and-d-material/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
