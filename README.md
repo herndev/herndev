@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is everything and everything is YouTube](https://www.theverge.com/youtube/654240/youtube-future-creators-ai-music-content)
- - [I used the &amp;#8216;cheat on everything&amp;#8217; AI tool and it didn&amp;#8217;t help me cheat on anything](https://www.theverge.com/ai-artificial-intelligence/654223/cheat-on-everything-ai)
- - [London and Tel Aviv-based Cynomi, which offers a &quot;virtual CISO&quot; for SMBs, raised a $37M Series B, sources say at a $140M+ post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250423/p23#a250423p23)<!-- TECH:END -->
+ - [Nvidia announces the general availability of its NeMo platform to build AI agents, supporting Meta&#39;s Llama, Microsoft&#39;s Phi, Google&#39;s Gemma, and Mistral &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250423/p28#a250423p28)
+ - [To pinch or not: Survey reveals how people use camera zoom](https://www.androidauthority.com/survey-camera-zoom-habits-3547247/)
+ - [The Kindle Colorsoft, Amazon’s first color e-reader, is $55 off](https://www.theverge.com/tech/653291/kindle-colorsoft-signature-edition-amazon-book-sale-2025-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
