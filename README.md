@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Meta hit with the EU&amp;#8217;s first DMA antitrust fines](https://www.theverge.com/news/627522/apple-meta-eu-dma-antitrust-fines)
- - [Upgrading your phone? Google Photos could get a little easier to set up &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-new-onboarding-screen-apk-teardown-3547158/)
- - [Samsung resumes rolling out One UI 7, per users on Reddit, X, and forums, after pausing it earlier in April, bringing new icons, a new camera UI, and more &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250423/p16#a250423p16)<!-- TECH:END -->
+ - [This adjustable MagSafe light puts 36,000 colors on the back of your iPhone](https://www.theverge.com/news/653286/harlowe-sol-5-spectra-magsafe-iphone-mobile-light)
+ - [Federal prosecutors are still resigning over Eric Adams](https://www.theverge.com/policy/653926/eric-adams-corruption-sassoon-bove-doj)
+ - [Google Photos could soon save you from downloading photos one-by-one &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-download-multiple-photos-apk-teardown-3547199/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
