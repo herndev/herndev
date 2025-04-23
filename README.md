@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s like a gem among a bunch of pebbles...](http://9gag.com/gag/aAyMDOR)
- - ⏩ [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)
- - 👉 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)<!-- MEMES:END -->
+ - 💣 [10 years later : oh wait, she wasn\u2019t talking about tires being bald](http://9gag.com/gag/a2vDop1)
+ - ⏩ [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
+ - 👉 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)<!-- MEMES:END -->
 
 ---
 
