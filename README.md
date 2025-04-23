@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Didn&#39;t even see it coming](http://9gag.com/gag/aO89BA2)
- - ⏩ [But they say terroism has no religion!](http://9gag.com/gag/a348RdN)
- - 👉 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)<!-- MEMES:END -->
+ - 💣 [New eu requirement for mobile phones](http://9gag.com/gag/a1mVQj2)
+ - ⏩ [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
+ - 👉 [Good boi\u2019s love](http://9gag.com/gag/a348wn3)<!-- MEMES:END -->
 
 ---
 
