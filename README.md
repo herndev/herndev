@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five Essential Tips for Your Adventure in Once Upon a Puppet](https://news.xbox.com/en-us/2025/04/23/five-essential-tips-for-once-upon-a-puppet/)
  - [Blizzard’s latest major Diablo 4 rework targets the battle pass](https://www.polygon.com/diablo/563740/blizzard-diablo-4-season-8-battle-pass-reliquaries)
- - [A Gentle Rain is a cozy board game where you practice mindfulness](https://www.polygon.com/tabletop-games/561327/a-gentle-rain-solo-board-game)
- - [Nintendo is trying to force Discord to give up the identity of the person behind last year&#39;s massive Pokémon leak](https://www.pcgamer.com/games/nintendo-is-trying-to-force-discord-to-give-up-the-identity-of-the-person-behind-last-years-massive-pokemon-leak/)<!-- GAME:END -->
+ - [A Gentle Rain is a cozy board game where you practice mindfulness](https://www.polygon.com/tabletop-games/561327/a-gentle-rain-solo-board-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
