@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home updates are finally more transparent and easier to track](https://www.androidauthority.com/google-home-updates-tracking-3547090/)
- - [Study: models like OpenAI&#39;s o3 outperform expert virologists in wet lab problem-solving, which might accelerate research but could also be abused by bad actors &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/250423/p7#a250423p7)
- - [UN says the ~$40B cybercrime call center industry, tied to East and Southeast Asian crime syndicates, is expanding globally to regions with weak governance &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/250423/p6#a250423p6)<!-- TECH:END -->
+ - [Samsung is finally resuming the One UI 7 rollout globally!](https://www.androidauthority.com/samsung-resumes-one-ui-7-rollout-3547123/)
+ - [OpenAI wants to buy Google Chrome and make it an ‘AI first’ browser](https://www.androidauthority.com/google-chrome-openai-chatgpt-browser-3547082/)
+ - [Logitech’s MX Creative Console now supports Figma and Adobe Lightroom](https://www.theverge.com/news/653708/logitech-mx-creative-console-adobe-lightroom-figma-davinci-resolve-affinity-photo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
