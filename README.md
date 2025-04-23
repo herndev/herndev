@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mantra&#39;s CEO begins burning $80M worth of his OM tokens and plans to burn $80M worth from partners, after a 90% collapse on April 13 erased $5B+ in market value &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250422/p30#a250422p30)
  - [Source: Intel is set to announce plans this week to cut 20%+ of its staff, its first major restructuring under Lip-Bu Tan; it had 108,900 workers in Dec. 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p29#a250422p29)
- - [Instagram co-founder: Zuckerberg saw us as a ‘threat’ to Facebook](https://www.theverge.com/policy/654069/instagram-co-founder-zuckerberg-saw-us-as-a-threat-to-facebook)
- - [Sources: Cantor&#39;s Brandon Lutnick, son of the US commerce secretary, seeks to form a $3B BTC acquisition vehicle with SoftBank, Tether, and Bitfinex as partners &lpar;Financial Times&rpar;](http://www.techmeme.com/250422/p28#a250422p28)<!-- TECH:END -->
+ - [Instagram co-founder: Zuckerberg saw us as a ‘threat’ to Facebook](https://www.theverge.com/policy/654069/instagram-co-founder-zuckerberg-saw-us-as-a-threat-to-facebook)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
