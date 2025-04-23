@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Oversight Board says Meta&#39;s new speech policies were &quot;announced hastily&quot; in January and asks the company to assess the impact on vulnerable user groups &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250423/p1#a250423p1)
- - [20 years ago today, a trip to the zoo started the wild world of YouTube!](https://www.androidauthority.com/youtube-first-video-upload-20th-anniversary-3547053/)
- - [A look at Huawei&#39;s smart driving software unit, which became profitable in 2024 after revenue grew over 5x and is powering car systems by BYD, BMW, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p32#a250422p32)<!-- TECH:END -->
+ - [A week after a hack, 4chan remains down, apparently pushed off the internet by rival hackers; its toxic legacy carries on across social platforms and culture &lpar;Ryan Broderick/Wired&rpar;](http://www.techmeme.com/250423/p3#a250423p3)
+ - [Elon Musk says production of Tesla&#39;s humanoid robot, Optimus, is being affected by China&#39;s recent restrictions on exports of rare earth minerals used in magnets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p2#a250423p2)
+ - [Surfshark Promo Codes: 86% Off | April 2025](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
