@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Huawei&#39;s smart driving software unit, which became profitable in 2024 after revenue grew over 5x and is powering car systems by BYD, BMW, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p32#a250422p32)
- - [Bethesda, Maryland-based AuthMind, which offers observability-based identity protection services to enterprises, raised a $19.3M seed led by Cheyenne Ventures &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250422/p31#a250422p31)
- - [Still waiting for One UI 7? Samsung’s already cooking up One UI 8.5](https://www.androidauthority.com/samsung-one-ui-8-5-update-3547039/)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board says Meta&#39;s new speech policies were &quot;announced hastily&quot; in January and asks the company to assess the impact on vulnerable user groups &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250423/p1#a250423p1)
+ - [20 years ago today, a trip to the zoo started the wild world of YouTube!](https://www.androidauthority.com/youtube-first-video-upload-20th-anniversary-3547053/)
+ - [A look at Huawei&#39;s smart driving software unit, which became profitable in 2024 after revenue grew over 5x and is powering car systems by BYD, BMW, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p32#a250422p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
