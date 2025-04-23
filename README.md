@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oblivion Remastered Game Size Summarized](http://9gag.com/gag/a4PARYy)
- - ⏩ [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
- - 👉 [Thicc](http://9gag.com/gag/aGyGjR7)<!-- MEMES:END -->
+ - 💣 [After the ship&#39;s captain slaughtered her family, scuttled the boat, and dinghied to safety,\u00a0Terry Jo Duperrault floated 84 hours on a piece of corkboard too small to lay down and without food, water, or shelter. This is the photo beginning the rescue.](http://9gag.com/gag/aQzm1pd)
+ - ⏩ [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
+ - 👉 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)<!-- MEMES:END -->
 
 ---
 
