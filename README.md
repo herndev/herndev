@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paddy the Baddy](http://9gag.com/gag/axyO7eM)
- - ⏩ [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
- - 👉 [This is so beautiful](http://9gag.com/gag/aAyMx32)<!-- MEMES:END -->
+ - 💣 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
+ - ⏩ [True romance is in the simple things](http://9gag.com/gag/aryxb2V)
+ - 👉 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)<!-- MEMES:END -->
 
 ---
 
