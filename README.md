@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 3 Remastered seems almost inevitable now, but still a long way off](https://www.pcgamer.com/games/fallout/fallout-3-remastered-seems-almost-inevitable-now-but-still-a-long-way-off/)
- - [How to sell stolen items in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-sell-stolen-items-fences/)
- - [Ghost of Yōtei comes to PlayStation 5 on October 2](https://blog.playstation.com/2025/04/23/ghost-of-yotei-comes-to-playstation-5-on-october-2/)<!-- GAME:END -->
+ - [Behold! A single QR code containing a miniaturized take on Doom: &#39;literally the entire game&#39;](https://www.pcgamer.com/hardware/behold-a-single-qr-code-containing-a-miniaturized-take-on-doom-literally-the-entire-game/)
+ - [Oblivion Remastered doesn’t ‘officially’ support mods](https://www.polygon.com/gaming/563370/oblivion-remastered-no-mod-support-elder-scrolls-4)
+ - [Crusader Kings 3 has hit 4 million sales, but all that tells me is that not enough of you have played the best game](https://www.pcgamer.com/games/strategy/crusader-kings-3-has-hit-4-million-sales-but-all-that-tells-me-is-that-not-enough-of-you-have-played-the-best-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
