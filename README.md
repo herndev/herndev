@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is finally resuming the One UI 7 rollout globally!](https://www.androidauthority.com/samsung-resumes-one-ui-7-rollout-3547123/)
- - [OpenAI wants to buy Google Chrome and make it an ‘AI first’ browser](https://www.androidauthority.com/google-chrome-openai-chatgpt-browser-3547082/)
- - [Logitech’s MX Creative Console now supports Figma and Adobe Lightroom](https://www.theverge.com/news/653708/logitech-mx-creative-console-adobe-lightroom-figma-davinci-resolve-affinity-photo)<!-- TECH:END -->
+ - [Noxtua, which develops AI tech to research, analyze, and draft legal documents, raised an €80.7M Series B led by C.H. Beck, Germany&#39;s leading legal publisher &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250423/p9#a250423p9)
+ - [A look at New Mexico&#39;s efforts to become a quantum computing hub through partnerships between the state, its universities, and national labs and companies &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250423/p8#a250423p8)
+ - [Samsung is finally resuming the One UI 7 rollout globally!](https://www.androidauthority.com/samsung-resumes-one-ui-7-rollout-3547123/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
