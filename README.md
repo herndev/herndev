@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel has released a free &#39;performance boost for low-latency workloads like gaming&#39; for Core Ultra 200S processors](https://www.pcgamer.com/hardware/processors/intel-has-released-a-free-performance-boost-for-low-latency-workloads-like-gaming-for-core-ultra-200s-processors/)
- - [Bugaboo Pocket is a Tamagotchi full of creepy crawlies](https://www.pcgamer.com/games/sim/bugaboo-pocket-is-a-tamagotchi-full-of-creepy-crawlies/)
- - [Old Skies review](https://www.pcgamer.com/games/adventure/old-skies-review/)<!-- GAME:END -->
+ - [How to join the Thieves Guild in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-thieves-guild-join/)
+ - [Oblivion Remastered could never &#39;hold up against modern masterpieces like Elden Ring&#39;, according to Ex-Blizzard boss, &#39;I would love to be proven wrong, but I&#39;m not&#39;](https://www.pcgamer.com/games/rpg/oblivion-remastered-could-never-hold-up-against-modern-masterpieces-like-elden-ring-according-to-ex-blizzard-boss-i-would-love-to-be-proven-wrong-but-im-not/)
+ - [Intel has released a free &#39;performance boost for low-latency workloads like gaming&#39; for Core Ultra 200S processors](https://www.pcgamer.com/hardware/processors/intel-has-released-a-free-performance-boost-for-low-latency-workloads-like-gaming-for-core-ultra-200s-processors/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
