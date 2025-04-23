@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - ⏩ [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
- - 👉 [When you hate your neighbour](http://9gag.com/gag/aAyMep9)<!-- MEMES:END -->
+ - 💣 [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
+ - ⏩ [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
+ - 👉 [This is so beautiful](http://9gag.com/gag/aAyMx32)<!-- MEMES:END -->
 
 ---
 
