@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This adjustable MagSafe light puts 36,000 colors on the back of your iPhone](https://www.theverge.com/news/653286/harlowe-sol-5-spectra-magsafe-iphone-mobile-light)
- - [Federal prosecutors are still resigning over Eric Adams](https://www.theverge.com/policy/653926/eric-adams-corruption-sassoon-bove-doj)
- - [Google Photos could soon save you from downloading photos one-by-one &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-download-multiple-photos-apk-teardown-3547199/)<!-- TECH:END -->
+ - [YouTube is everything and everything is YouTube](https://www.theverge.com/youtube/654240/youtube-future-creators-ai-music-content)
+ - [I used the &amp;#8216;cheat on everything&amp;#8217; AI tool and it didn&amp;#8217;t help me cheat on anything](https://www.theverge.com/ai-artificial-intelligence/654223/cheat-on-everything-ai)
+ - [London and Tel Aviv-based Cynomi, which offers a &quot;virtual CISO&quot; for SMBs, raised a $37M Series B, sources say at a $140M+ post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250423/p23#a250423p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
