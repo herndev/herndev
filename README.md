@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 23, #212](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-23-212/#ftag=CAD590a51e)
- - [US v. Google: OpenAI&#39;s ChatGPT chief, Nick Turley, says the company would be interested in buying Chrome from Google if a federal court orders it to be spun off &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p26#a250422p26)
- - [Trump Administration Delays Rural Broadband Program By 90 Days](https://www.cnet.com/home/internet/trump-administration-delays-rural-broadband-program-by-90-days/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Intel is set to announce plans this week to cut 20%+ of its staff, its first major restructuring under Lip-Bu Tan; it had 108,900 workers in Dec. 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p29#a250422p29)
+ - [Instagram co-founder: Zuckerberg saw us as a ‘threat’ to Facebook](https://www.theverge.com/policy/654069/instagram-co-founder-zuckerberg-saw-us-as-a-threat-to-facebook)
+ - [Sources: Cantor&#39;s Brandon Lutnick, son of the US commerce secretary, seeks to form a $3B BTC acquisition vehicle with SoftBank, Tether, and Bitfinex as partners &lpar;Financial Times&rpar;](http://www.techmeme.com/250422/p28#a250422p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
