@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe and Figma tools are getting ChatGPT’s upgraded image generation model](https://www.theverge.com/news/654561/openai-chatgpt-image-generation-model-adobe-figma)
- - [The Old Guard sequel is coming to Netflix this July](https://www.theverge.com/netflix/654516/the-old-guard-2-premiere-date)
- - [Court data: Google estimates its Gemini AI chatbot had 35M DAUs and 350M MAUs worldwide as of last month while ChatGPT had 160M DAUs and 600M MAUs &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250423/p38#a250423p38)<!-- TECH:END -->
+ - [WhatsApp now lets you block people from exporting your entire chat history](https://www.theverge.com/news/654592/whatsapp-advanced-chat-privacy-block-exporting-chats)
+ - [Pete Buttigieg makes his first foray into the podcast manosphere](https://www.theverge.com/internet-culture/654543/pete-buttigieg-flagrant-podcast)
+ - [Discord co-founder and CEO Jason Citron is stepping down](https://www.theverge.com/news/654594/discord-new-ceo-jason-citron-humam-sakhnini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
