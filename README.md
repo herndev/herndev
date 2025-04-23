@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Up Instantly – Sunderfolk’s Mobile Integration Redefines Xbox Co-Op](https://news.xbox.com/en-us/2025/04/23/sunderfolk-mobile-integration-redefines-xbox-co-op/)
- - [All Oblivion Remastered console commands list and how to use them](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/563421/console-commands-list-all-how-to-use)
- - [This expansion card for the Xbox series X is on sale for its lowest price ever](https://www.polygon.com/good-deals/563422/xbox-series-x-expansion-card-sale)<!-- GAME:END -->
+ - [First Teaser For Predator: Badlands Reveals The Movie&#39;s New Alien Hunter](https://kotaku.com/predator-badlands-teaser-trailer-alien-prey-2-disney-1851777542)
+ - [Don&#39;t worry, Oblivion Remastered&#39;s NPCs are still charmingly ugly, they&#39;re just ugly in next-gen ways](https://www.pcgamer.com/games/the-elder-scrolls/dont-worry-oblivion-remastereds-npcs-are-still-charmingly-ugly-theyre-just-ugly-in-next-gen-ways/)
+ - [How to Become the Bloody Barbarian &lpar;and Other Game-Breaking Builds&rpar; in Soulstone Survivors](https://news.xbox.com/en-us/2025/04/23/soulstone-survivors-demo-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
