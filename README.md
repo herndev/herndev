@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp now lets you block people from exporting your entire chat history](https://www.theverge.com/news/654592/whatsapp-advanced-chat-privacy-block-exporting-chats)
- - [Pete Buttigieg makes his first foray into the podcast manosphere](https://www.theverge.com/internet-culture/654543/pete-buttigieg-flagrant-podcast)
- - [Discord co-founder and CEO Jason Citron is stepping down](https://www.theverge.com/news/654594/discord-new-ceo-jason-citron-humam-sakhnini)<!-- TECH:END -->
+ - [Meta just gave its glasses the power to see and respond like a real assistant](https://www.androidauthority.com/meta-smart-glasses-update-april-2025-3547392/)
+ - [Documents: OpenAI told investors it expects revenues of $125B in 2029 and $174B in 2030, with sales from agents and other products exceeding those from ChatGPT &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250423/p42#a250423p42)
+ - [Sharge’s transparent Shargeek 170 power bank is now only $99](https://www.theverge.com/tech/654590/shargeek-170-power-bank-elder-scrolls-oblivion-remastered-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
