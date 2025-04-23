@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
- - ⏩ [This is the exact opposite of how eyes adjust to light](http://9gag.com/gag/aPAe9gG)
- - 👉 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)<!-- MEMES:END -->
+ - 💣 [She&#39;s like a gem among a bunch of pebbles...](http://9gag.com/gag/aAyMDOR)
+ - ⏩ [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
+ - 👉 [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)<!-- MEMES:END -->
 
 ---
 
