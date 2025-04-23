@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8 Tips to Help You Get Started in Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/04/23/tips-to-get-started-clair-obscur-expedition-33/)
- - [Praise the Nine, Oblivion Remastered doesn&#39;t make you grind your minor skills to level efficiently, and increasing Endurance boosts your hit points retroactively](https://www.pcgamer.com/games/rpg/praise-the-nine-oblivion-remastered-doesnt-make-you-grind-your-minor-skills-to-level-efficiently-and-increasing-endurance-boosts-your-hit-points-retroactively/)
- - [Today&#39;s Wordle answer for Wednesday, April 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-23-2025/)<!-- GAME:END -->
+ - [You don&#39;t need an Oblivion Remaster, you need Boblivion, the mod that makes Oblivion Bob](https://www.pcgamer.com/games/the-elder-scrolls/you-dont-need-an-oblivion-remaster-you-need-boblivion-the-mod-that-makes-oblivion-bob/)
+ - [Clair Obscur: Expedition 33 mime locations and how to beat them](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-mime-locations/)
+ - [8 Tips to Help You Get Started in Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/04/23/tips-to-get-started-clair-obscur-expedition-33/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
