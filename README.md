@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Andor is a very serious show that reminds me why I love Star Wars silliness](https://www.polygon.com/star-wars/562903/andor-episode-1-3-review)
- - [How to break blue rocks in Clair Obsur: Expedition 33](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-blue-rocks-paint-spikes/)
- - [How to complete the Goblin Diplomacy quest in RuneScape Dragonwilds](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-goblin-diplomacy-quest/)<!-- GAME:END -->
+ - [Xbox App Now Available on LG Smart TVs](https://news.xbox.com/en-us/2025/04/23/xbox-app-lg-smart-tv-cloud-gaming/)
+ - [Anyone can now make plugins for Nvidia&#39;s promising G-Assist AI overlay, with options available for Spotify, Twitch, and more](https://www.pcgamer.com/software/ai/anyone-can-now-make-plugins-for-nvidias-promising-g-assist-ai-overlay-with-options-available-for-spotify-twitch-and-more/)
+ - [Clair Obscur: Expedition 33 review](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
