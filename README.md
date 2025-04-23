@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta just gave its glasses the power to see and respond like a real assistant](https://www.androidauthority.com/meta-smart-glasses-update-april-2025-3547392/)
- - [Documents: OpenAI told investors it expects revenues of $125B in 2029 and $174B in 2030, with sales from agents and other products exceeding those from ChatGPT &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250423/p42#a250423p42)
- - [Sharge’s transparent Shargeek 170 power bank is now only $99](https://www.theverge.com/tech/654590/shargeek-170-power-bank-elder-scrolls-oblivion-remastered-deal-sale)<!-- TECH:END -->
+ - [Amazon-owned Woot slashes Mac mini, iMac to as low as $369.99](https://appleinsider.com/articles/25/04/23/amazon-owned-woot-slashes-mac-mini-imac-to-as-low-as-36999?utm_medium=rss)
+ - [Google I/O 2025: Material 3 Expressive, Android 16 for TV, and more confirmed](https://www.androidauthority.com/google-io-2025-session-list-3547384/)
+ - [OpenAI brings the tech behind the new ChatGPT image generator to its API, for $5/1M text input tokens, $10/1M image input tokens, and $40/1M image output tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250423/p44#a250423p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
