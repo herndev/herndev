@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life was good back then](http://9gag.com/gag/aqyxbdM)
- - ⏩ [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
- - 👉 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)<!-- MEMES:END -->
+ - 💣 [Didn&#39;t even see it coming](http://9gag.com/gag/aO89BA2)
+ - ⏩ [But they say terroism has no religion!](http://9gag.com/gag/a348RdN)
+ - 👉 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)<!-- MEMES:END -->
 
 ---
 
