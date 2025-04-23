@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Sinners&#39; Proves Audiences Crave Sex, Vampires—and Fresh Ideas](https://www.wired.com/story/sinners-proves-audiences-crave-sex-vampires-and-fresh-ideas/)
- - [US carriers confirm plans to treat tariffs just like current taxes and fees: Passing them on to you](https://www.androidauthority.com/us-carrier-tariffs-3547522/)
- - [Perplexity wants to buy Chrome if Google has to sell it](https://www.theverge.com/policy/654835/perplexity-google-antitrust-trial-remedies-chrome)<!-- TECH:END -->
+ - [Anker’s first Thunderbolt 5 dock has a built-in power supply](https://www.theverge.com/news/654787/anker-prime-tb5-thunderbolt-5-dock)
+ - [The White House says that fines on Apple and Meta by the EU are a &quot;novel form of economic extortion&quot; that the United States will not tolerate &lpar;Reuters&rpar;](http://www.techmeme.com/250423/p51#a250423p51)
+ - [Starting a vlog is simpler and cheaper with this Sony ZV-1F deal](https://www.androidauthority.com/sony-zv-1f-vlog-camera-deal-3547463/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
