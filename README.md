@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
- - ⏩ [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 👉 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)<!-- MEMES:END -->
+ - 💣 [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)
+ - ⏩ [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
+ - 👉 [Dude just entered the cutscene](http://9gag.com/gag/aXP7x7z)<!-- MEMES:END -->
 
 ---
 
