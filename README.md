@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [10 years later : oh wait, she wasn\u2019t talking about tires being bald](http://9gag.com/gag/a2vDop1)
- - ⏩ [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 👉 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)<!-- MEMES:END -->
+ - 💣 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
+ - ⏩ [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)
+ - 👉 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)<!-- MEMES:END -->
 
 ---
 
