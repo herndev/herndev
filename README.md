@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
- - ⏩ [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 👉 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)<!-- MEMES:END -->
+ - ⏩ [This is the exact opposite of how eyes adjust to light](http://9gag.com/gag/aPAe9gG)
+ - 👉 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)<!-- MEMES:END -->
 
 ---
 
