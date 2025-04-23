@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You don&#39;t need an Oblivion Remaster, you need Boblivion, the mod that makes Oblivion Bob](https://www.pcgamer.com/games/the-elder-scrolls/you-dont-need-an-oblivion-remaster-you-need-boblivion-the-mod-that-makes-oblivion-bob/)
- - [Clair Obscur: Expedition 33 mime locations and how to beat them](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-mime-locations/)
- - [8 Tips to Help You Get Started in Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/04/23/tips-to-get-started-clair-obscur-expedition-33/)<!-- GAME:END -->
+ - [Intel has released a free &#39;performance boost for low-latency workloads like gaming&#39; for Core Ultra 200S processors](https://www.pcgamer.com/hardware/processors/intel-has-released-a-free-performance-boost-for-low-latency-workloads-like-gaming-for-core-ultra-200s-processors/)
+ - [Bugaboo Pocket is a Tamagotchi full of creepy crawlies](https://www.pcgamer.com/games/sim/bugaboo-pocket-is-a-tamagotchi-full-of-creepy-crawlies/)
+ - [Old Skies review](https://www.pcgamer.com/games/adventure/old-skies-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
