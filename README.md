@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Fatal Fury: City of the Wolves’ Two-Lane Battle System Lets You Relive the Glory Days of the Arcade](https://news.xbox.com/en-us/2025/04/24/fatal-fury-city-of-the-wolves-two-lane-battle-system-feature/)
- - [Fallout 3 developer says a remaster would have to improve the &#39;not good&#39; gunplay](https://www.pcgamer.com/games/fallout/fallout-3-developer-says-a-remaster-would-have-to-improve-the-not-good-gunplay/)
- - [Marvel Rivals Support Players Are Going On Strike](https://kotaku.com/marvel-rivals-strategist-support-strike-tiktok-necros-1851777718)<!-- GAME:END -->
+ - [How to pre-order the Nintendo Switch 2 camera and Piranha Plant camera](https://www.polygon.com/pre-order/554163/nintendo-switch-2-camera-where-to-buy)
+ - [How to pre-order the Nintendo Switch 2 Pro controller](https://www.polygon.com/pre-order/554945/switch-2-pro-controller-best-buy-nintendo-walmart)
+ - [After Hyper Light Breaker players loved a secret one run, one life mode sneakily included in an update, Heart Machine is completely overhauling the game to match](https://www.pcgamer.com/games/roguelike/after-hyper-light-breaker-players-loved-a-secret-one-run-one-life-mode-sneakily-included-in-an-update-heart-machine-is-completely-overhauling-the-game-to-match/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
