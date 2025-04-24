@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Towerborne’s Class Mastery Update Deepens a Distinctive Looter Brawler Experience](https://news.xbox.com/en-us/2025/04/24/towerbornes-class-mastery-update/)
- - [Chipmaker TSMC&#39;s new A14 process will apparently offer a &#39;15% speed improvement&#39; but our GPUs won&#39;t be made on it for a while](https://www.pcgamer.com/hardware/processors/chipmaker-tsmcs-new-a14-process-will-apparently-offer-a-15-percent-speed-improvement-but-our-gpus-wont-be-made-on-it-for-a-while/)
- - [All Days Gone NERO Injector locations](https://www.pcgamer.com/games/action/days-gone-nero-injector-locations/)<!-- GAME:END -->
+ - [From Concept to Combat: How Stadium Came to Life in Overwatch 2](https://news.xbox.com/en-us/2025/04/24/overwatch-2-stadium-making-of-tips/)
+ - [The best part of Clair Obscur: Expedition 33 is it explains nothing](https://www.polygon.com/opinion/563990/clair-obscur-expedition-33-no-exposition)
+ - [Nintendo Warns Some Switch 2 Pre-Order Invites Might Not Arrive Until After Launch](https://kotaku.com/switch-2-my-nintendo-store-pre-order-delays-emails-1851777702)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
