@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VW and Uber unveil an ambitious plan to launch a commercial robotaxi service using ID. BUZZ vehicles in US cities over the next decade, starting in LA in 2026 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250424/p17#a250424p17)
- - [Why an old Exynos chip in the Galaxy S25 FE could be the best thing about it](https://www.androidauthority.com/old-exynos-chip-samsung-galaxy-s25-fe-best-thing-about-it-3546810/)
- - [22 Best MacBook Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-macbook-accessories/)<!-- TECH:END -->
+ - [The Napalm Girl Standard](https://www.theverge.com/cs/features/654425/vietnam-war-napalm-girl-photo-free-speech-nick-ut)
+ - [GTA V is Twitch’s most watched game of 2024](https://www.theverge.com/news/655394/gta-5-most-watched-twitch-game-gta-vi)
+ - [Pokémon TCG Pocket’s next expansion is bringing Alola back](https://www.theverge.com/news/655384/pokemon-tcg-pocket-celestial-guardians)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
