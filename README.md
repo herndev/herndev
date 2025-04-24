@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Bluesky restricted access to 72 accounts in Turkey at the government&#39;s request; the accounts are available on third-party apps using the AT Protocol &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250423/p59#a250423p59)
- - [Pixel 7a battery swelling? Google now offers free replacements and cold hard cash](https://www.androidauthority.com/google-pixel-7a-battery-replacement-program-3547568/)
- - [Meta&#39;s Oversight Board rules that two posts disparaging trans women aren&#39;t hate speech, in the first major test since Meta weakened its policies in January &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250423/p58#a250423p58)<!-- TECH:END -->
+ - [Here’s where you can try to preorder the Switch 2 right now](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
+ - [The European Commission says that Meta&#39;s Facebook Marketplace should no longer be designated under the DMA, citing fewer than 10,000 business users in 2024 &lpar;European Commission&rpar;](http://www.techmeme.com/250424/p1#a250424p1)
+ - [Nintendo Switch 2 pre-orders are live in the US: Here’s where to buy yours right now](https://www.androidauthority.com/nintendo-switch-2-pre-orders-live-3547611/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
