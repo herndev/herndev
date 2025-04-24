@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So that\u2019s why\u2026](http://9gag.com/gag/aRBvXzq)
- - ⏩ [I think you may have something here](http://9gag.com/gag/aKG8mX6)
- - 👉 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)<!-- MEMES:END -->
+ - 💣 [I think you may have something here](http://9gag.com/gag/aKG8mX6)
+ - ⏩ [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)
+ - 👉 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)<!-- MEMES:END -->
 
 ---
 
