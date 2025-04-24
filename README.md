@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I got bitten! Here\u2019s the snake! Now give me the antidote quick!](http://9gag.com/gag/aW4oxqA)
- - ⏩ [Crazy power](http://9gag.com/gag/ayN1X48)
- - 👉 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)<!-- MEMES:END -->
+ - 💣 [Bethesda didn&#39;t remaster Oblivion](http://9gag.com/gag/a6ZBEne)
+ - ⏩ [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 👉 [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)<!-- MEMES:END -->
 
 ---
 
