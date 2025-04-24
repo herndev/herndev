@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 Edge launch and release dates leak, including US availability](https://www.androidauthority.com/samsung-galaxy-s25-edge-launch-date-leak-3547648/)
- - [The Play Store now offers a simple way to reduce accidental purchases](https://www.androidauthority.com/google-play-swipe-gesture-purchases-3547622/)
- - [Best Internet Providers in Independence, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-independence-mo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Revolut reports 2024 revenue up 72% YoY to £3.1B, net profit up 149% YoY to £1.1B, and wealth unit revenue up 298% YoY to £506M; its loan book grew 86% to £979M &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250424/p10#a250424p10)
+ - [STMicro reports Q1 revenue down 27.3% YoY to $2.52B, below its $2.51B guidance, and projects Q2 revenue down 16.2% YoY to $2.71B, excluding any tariff changes &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250424/p9#a250424p9)
+ - [A look at the collapse of Stenn, an invoice financing startup that got major banks to unwittingly fund millions in suspect payments and was last valued at $900M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p8#a250424p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
