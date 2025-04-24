@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 1 VII photos reveals that purple is making a comeback](https://www.androidauthority.com/sony-xperia-1-vii-live-photos-3547861/)
- - [Here’s what’s going on with Google’s funny explanations of made-up expressions](https://www.androidauthority.com/google-ai-nonsense-phrases-3547796/)
- - [One UI 7 hits Galaxy Tab S10 tablets in the US earlier than expected](https://www.androidauthority.com/samsung-one-ui-7-galaxy-tab-s10-3547901/)<!-- TECH:END -->
+ - [Remedy&amp;#8217;s multiplayer Control spinoff FBC: Firebreak launches in June](https://www.theverge.com/news/654718/fbc-firebreak-release-date-remedy-control)
+ - [Meta lays off an unspecified number of employees in Reality Labs, affecting Oculus Studios teams and, sources say, staff involved in Meta&#39;s hardware efforts &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250424/p26#a250424p26)
+ - [Now Kia EVs can use Tesla’s Superchargers](https://www.theverge.com/news/655855/kia-tesla-supercharger-access-nacs-ev6-ev9-niro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
