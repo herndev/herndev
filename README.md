@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Acer Chromebook Plus 516 comes with a free year of Google One AI Premium](https://www.androidauthority.com/acer-chromebook-plus-516-deal-3547462/)
- - [&#39;You Can&#39;t Lick a Badger Twice&#39;: Google Failures Highlight a Fundamental AI Flaw](https://www.wired.com/story/google-ai-overviews-meaning/)
- - [SK Hynix reports Q1 revenue up 42% YoY to ~$12.4B, vs. ~$12.1B est, and operating profit up 158% YoY to ~$5.2B, vs. ~$4.6B est., on demand for its HBM chips &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250423/p53#a250423p53)<!-- TECH:END -->
+ - [All Ring Battery Doorbells are on sale!](https://www.androidauthority.com/ring-battery-doorbell-plus-pro-deals-2-3547461/)
+ - [Interfax: Russia&#39;s Central Bank and Finance Ministry plan to launch a crypto exchange for &quot;highly qualified investors&quot; under an experimental legal regime &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250423/p56#a250423p56)
+ - [Auto industry tariffs are doing what now? 24 hours of White House confusion](https://www.theverge.com/transportation/655010/auto-industry-tariffs-white-house-confusion-china-canada)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
