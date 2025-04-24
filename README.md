@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy S25 Edge launch and release dates leak, including US availability](https://www.androidauthority.com/samsung-galaxy-s25-edge-launch-date-leak-3547648/)
  - [The Play Store now offers a simple way to reduce accidental purchases](https://www.androidauthority.com/google-play-swipe-gesture-purchases-3547622/)
- - [Best Internet Providers in Independence, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-independence-mo/#ftag=CAD590a51e)
- - [Videos on TikTok, Instagram, and other apps urging US consumers to buy directly from Chinese factories are surging in popularity, racking up millions of views &lpar;New York Times&rpar;](http://www.techmeme.com/250424/p7#a250424p7)<!-- TECH:END -->
+ - [Best Internet Providers in Independence, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-independence-mo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
