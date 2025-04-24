@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s new Razr Ultra brings the wood back panel back](https://www.theverge.com/gadgets/654846/motorola-razr-ultra-2025-specs-screen-price)
- - [Apple Watch arrived on buyers&#39; wrists 10 years ago](https://appleinsider.com/articles/25/04/24/apple-watch-arrived-on-buyers-wrists-10-years-ago?utm_medium=rss)
- - [GameStop’s Switch 2 preorders started poorly, too](https://www.theverge.com/news/655626/nintendo-switch-2-gamestop-preorder)<!-- TECH:END -->
+ - [Google Photos now lets you quickly enhance or crop images before sharing](https://www.androidauthority.com/google-photos-quick-edit-rollout-3547804/)
+ - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
+ - [Tactical, turn-based RPG &#39;Sunderfolk&#39; uses iPhones, iPads as controllers](https://appleinsider.com/articles/25/04/24/tactical-turn-based-rpg-sunderfolk-uses-iphones-ipads-as-controllers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
