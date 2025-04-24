@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Overview is still &#39;yes, and&#39;-ing completely made up idioms despite Google&#39;s best efforts to restrict it](https://www.pcgamer.com/hardware/ai-overview-is-still-yes-and-ing-completely-made-up-idioms-despite-googles-best-efforts-to-restrict-it/)
- - [How to pre-order the Dbrand Killswitch case for the Nintendo Switch 2](https://www.polygon.com/pre-order/549683/dbrand-killswitch-nintendo-switch-2-announcement-where-to-buy)
- - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
+ - [Free Play Days – Alien: Isolation, Make Way and NHL 25](https://news.xbox.com/en-us/2025/04/24/free-play-days-04-24-2025/)
+ - [I Haven&#39;t Played Pokémon TCG Pocket In Months But Celestial Guardians&#39; Alolan Raichu Might Finally Bring Me Back](https://kotaku.com/pokemon-tcg-pocket-celestial-guardians-alolan-raichu-1851777665)
+ - [How to pre-order the Nintendo Switch 2](https://www.polygon.com/pre-order/544294/nintendo-switch-2-amazon-walmart-gamestop-best-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
