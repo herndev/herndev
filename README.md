@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [From Concept to Combat: How Stadium Came to Life in Overwatch 2](https://news.xbox.com/en-us/2025/04/24/overwatch-2-stadium-making-of-tips/)
- - [The best part of Clair Obscur: Expedition 33 is it explains nothing](https://www.polygon.com/opinion/563990/clair-obscur-expedition-33-no-exposition)
- - [Nintendo Warns Some Switch 2 Pre-Order Invites Might Not Arrive Until After Launch](https://kotaku.com/switch-2-my-nintendo-store-pre-order-delays-emails-1851777702)<!-- GAME:END -->
+ - [How Fatal Fury: City of the Wolves’ Two-Lane Battle System Lets You Relive the Glory Days of the Arcade](https://news.xbox.com/en-us/2025/04/24/fatal-fury-city-of-the-wolves-two-lane-battle-system-feature/)
+ - [Fallout 3 developer says a remaster would have to improve the &#39;not good&#39; gunplay](https://www.pcgamer.com/games/fallout/fallout-3-developer-says-a-remaster-would-have-to-improve-the-not-good-gunplay/)
+ - [Marvel Rivals Support Players Are Going On Strike](https://kotaku.com/marvel-rivals-strategist-support-strike-tiktok-necros-1851777718)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
