@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to pre-order the Nintendo Switch 2 camera and Piranha Plant camera](https://www.polygon.com/pre-order/554163/nintendo-switch-2-camera-where-to-buy)
- - [How to pre-order the Nintendo Switch 2 Pro controller](https://www.polygon.com/pre-order/554945/switch-2-pro-controller-best-buy-nintendo-walmart)
- - [After Hyper Light Breaker players loved a secret one run, one life mode sneakily included in an update, Heart Machine is completely overhauling the game to match](https://www.pcgamer.com/games/roguelike/after-hyper-light-breaker-players-loved-a-secret-one-run-one-life-mode-sneakily-included-in-an-update-heart-machine-is-completely-overhauling-the-game-to-match/)<!-- GAME:END -->
+ - [FBC: Firebreak Follows In Helldivers 2&#39;s Footsteps As It Reveals Release Date, Pricing, And Battle Pass](https://kotaku.com/fbc-firebreak-control-game-pass-helldivers-2-battle-pas-1851777756)
+ - [All the Switch 2 accessories you can pre-order now](https://www.polygon.com/pre-order/554836/switch-2-accessories-controller-wheel-joy-con-camera-case-microsd-express)
+ - [Four new Zelda amiibo are now available to pre-order](https://www.polygon.com/pre-order/562264/zelda-amiibo-switch-2-totk-botw)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
