@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google Messages now uses AI to blur unsolicited nude pics then offers the sender a friendly reminder not to send them in the first place](https://www.pcgamer.com/hardware/google-messages-now-uses-ai-to-blur-unsolicited-nude-pics-then-offers-the-sender-a-friendly-reminder-not-to-send-them-in-the-first-place/)
- - [Sennheiser HD 550 review](https://www.pcgamer.com/hardware/gaming-headsets/sennheiser-hd-550-review/)
- - [All Days Gone Ambush Camp locations](https://www.pcgamer.com/games/action/days-gone-ambush-camp-locations/)<!-- GAME:END -->
+ - [AI Overview is still &#39;yes, and&#39;-ing completely made up idioms despite Google&#39;s best efforts to restrict it](https://www.pcgamer.com/hardware/ai-overview-is-still-yes-and-ing-completely-made-up-idioms-despite-googles-best-efforts-to-restrict-it/)
+ - [How to pre-order the Dbrand Killswitch case for the Nintendo Switch 2](https://www.polygon.com/pre-order/549683/dbrand-killswitch-nintendo-switch-2-announcement-where-to-buy)
+ - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
