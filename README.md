@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lowest price ever: Apple&#39;s M4 MacBook Air &lpar;2025&rpar; falls to $909](https://appleinsider.com/articles/25/04/24/lowest-price-ever-apples-m4-macbook-air-2025-falls-to-909?utm_medium=rss)
- - [On the Apple Watch&#39;s 10th anniversary, a look at how Apple reshaped the watch industry and ushered in a new age of fitness tracking &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/250424/p19#a250424p19)
- - [Samsung says its ‘Screens Everywhere’ approach won&amp;#8217;t mean ads everywhere, for now](https://www.theverge.com/tech/654685/samsung-screens-everywhere-home-appliances-strategy-interview-exclusive)<!-- TECH:END -->
+ - [Motorola’s new Razr Ultra brings the wood back panel back](https://www.theverge.com/gadgets/654846/motorola-razr-ultra-2025-specs-screen-price)
+ - [Apple Watch arrived on buyers&#39; wrists 10 years ago](https://appleinsider.com/articles/25/04/24/apple-watch-arrived-on-buyers-wrists-10-years-ago?utm_medium=rss)
+ - [GameStop’s Switch 2 preorders started poorly, too](https://www.theverge.com/news/655626/nintendo-switch-2-gamestop-preorder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
