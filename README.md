@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - ⏩ [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
- - 👉 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)<!-- MEMES:END -->
+ - 💣 [Fun fact: this is even less inclusive and more discriminatory, as it classifies women&#39;s bodies as second-class.](http://9gag.com/gag/aryxM7V)
+ - ⏩ [O-ho-ho...](http://9gag.com/gag/aAyMgp0)
+ - 👉 [Oblivion Remastered Game Size Summarized](http://9gag.com/gag/a4PARYy)<!-- MEMES:END -->
 
 ---
 
