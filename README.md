@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - ⏩ [I got bitten! Here\u2019s the snake! Now give me the antidote quick!](http://9gag.com/gag/aW4oxqA)
- - 👉 [Your money or your life](http://9gag.com/gag/aVvZ7Ey)<!-- MEMES:END -->
+ - 💣 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
+ - ⏩ [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
+ - 👉 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)<!-- MEMES:END -->
 
 ---
 
