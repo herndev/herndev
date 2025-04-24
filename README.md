@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bantha Poodoo](http://9gag.com/gag/abAxYNE)
- - ⏩ [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - 👉 [Is that your real hair?](http://9gag.com/gag/aW4oEBq)<!-- MEMES:END -->
+ - 💣 [9gaggers hear me out....](http://9gag.com/gag/axyOob1)
+ - ⏩ [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
+ - 👉 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)<!-- MEMES:END -->
 
 ---
 
