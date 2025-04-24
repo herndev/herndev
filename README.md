@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
- - ⏩ [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)
- - 👉 [Remember his dick memes](http://9gag.com/gag/axyO1bY)<!-- MEMES:END -->
+ - 💣 [Well that was unexpected](http://9gag.com/gag/aZZELpV)
+ - ⏩ [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 👉 [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)<!-- MEMES:END -->
 
 ---
 
