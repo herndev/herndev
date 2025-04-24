@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The first rule of fight club\u2026](http://9gag.com/gag/a7o91vz)
- - ⏩ [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
+ - 💣 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
+ - ⏩ [The first rule of fight club\u2026](http://9gag.com/gag/a7o91vz)
  - 👉 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)<!-- MEMES:END -->
 
 ---
