@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, April 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-24-2025/)
  - [Game Week Sale comes to PlayStation Store April 23](https://blog.playstation.com/2025/04/23/20250424-psstore/)
- - [&lpar;For Southeast Asia&rpar; Ghost of Yōtei comes to PlayStation 5 on October 2](https://blog.playstation.com/2025/04/23/20250424-goy/)
- - [Dynamax Entei counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/563912/dynamax-entei-counters-weakness-tips)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Ghost of Yōtei comes to PlayStation 5 on October 2](https://blog.playstation.com/2025/04/23/20250424-goy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
