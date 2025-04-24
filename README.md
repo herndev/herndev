@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you buy a Switch or pre-order a Switch 2?](https://www.polygon.com/24072924/buy-switch-or-switch-2)
- - [Five Essential Tips for Your Adventure in Once Upon a Puppet](https://news.xbox.com/en-us/2025/04/23/five-essential-tips-for-once-upon-a-puppet/)
- - [Blizzard’s latest major Diablo 4 rework targets the battle pass](https://www.polygon.com/diablo/563740/blizzard-diablo-4-season-8-battle-pass-reliquaries)<!-- GAME:END -->
+ - [Dynamax Entei counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/563912/dynamax-entei-counters-weakness-tips)
+ - [Oblivion Remastered is &#39;verified&#39; for Steam Deck, but the original with mods is a far superior handheld experience](https://www.pcgamer.com/hardware/handheld-gaming-pcs/oblivion-remastered-is-verified-for-steam-deck-but-the-original-with-mods-is-a-far-superior-handheld-experience/)
+ - [Should you buy a Switch or pre-order a Switch 2?](https://www.polygon.com/24072924/buy-switch-or-switch-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
