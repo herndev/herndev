@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Revolut reports 2024 revenue up 72% YoY to £3.1B, net profit up 149% YoY to £1.1B, and wealth unit revenue up 298% YoY to £506M; its loan book grew 86% to £979M &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250424/p10#a250424p10)
- - [STMicro reports Q1 revenue down 27.3% YoY to $2.52B, below its $2.51B guidance, and projects Q2 revenue down 16.2% YoY to $2.71B, excluding any tariff changes &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250424/p9#a250424p9)
- - [A look at the collapse of Stenn, an invoice financing startup that got major banks to unwittingly fund millions in suspect payments and was last valued at $900M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p8#a250424p8)<!-- TECH:END -->
+ - [LinkedIn expands its free verification system to the wider web, letting sites display LinkedIn verification, starting with Adobe&#39;s new Content Authenticity app &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250424/p12#a250424p12)
+ - [Adobe unveils its Firefly Image Model 4 and Model 4 Ultra, launches a redesigned Firefly web app, is testing a new Adobe Content Authenticity web app, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250424/p11#a250424p11)
+ - [Best CD Rates - Week of April 21-25, 2025](https://www.cnet.com/personal-finance/banking/best-cd-rates-week-of-april-21-april-25-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
