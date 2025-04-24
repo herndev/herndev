@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seeing masks for sale like this is concerning](http://9gag.com/gag/aMVzV0V)
- - ⏩ [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
- - 👉 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)<!-- MEMES:END -->
+ - 💣 [The first rule of fight club\u2026](http://9gag.com/gag/a7o91vz)
+ - ⏩ [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
+ - 👉 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)<!-- MEMES:END -->
 
 ---
 
