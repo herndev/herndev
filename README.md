@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers hear me out....](http://9gag.com/gag/axyOob1)
- - ⏩ [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
- - 👉 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)<!-- MEMES:END -->
+ - 💣 [Almost Accurate](http://9gag.com/gag/aqyxejL)
+ - ⏩ [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
+ - 👉 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)<!-- MEMES:END -->
 
 ---
 
