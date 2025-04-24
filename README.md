@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
- - ⏩ [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - 👉 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)<!-- MEMES:END -->
+ - 💣 [Seeing masks for sale like this is concerning](http://9gag.com/gag/aMVzV0V)
+ - ⏩ [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
+ - 👉 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)<!-- MEMES:END -->
 
 ---
 
