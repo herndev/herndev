@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sad truth](http://9gag.com/gag/aD2bx07)
- - ⏩ [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
- - 👉 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)<!-- MEMES:END -->
+ - 💣 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - ⏩ [Facepalm](http://9gag.com/gag/a9ymRmo)
+ - 👉 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)<!-- MEMES:END -->
 
 ---
 
