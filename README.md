@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crazy power](http://9gag.com/gag/ayN1X48)
- - ⏩ [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
- - 👉 [I got bitten! Here\u2019s the snake! Now give me the antidote quick!](http://9gag.com/gag/aW4oxqA)<!-- MEMES:END -->
+ - 💣 [Sad truth](http://9gag.com/gag/aD2bx07)
+ - ⏩ [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
+ - 👉 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)<!-- MEMES:END -->
 
 ---
 
