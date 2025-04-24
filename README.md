@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos now lets you quickly enhance or crop images before sharing](https://www.androidauthority.com/google-photos-quick-edit-rollout-3547804/)
- - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
- - [Tactical, turn-based RPG &#39;Sunderfolk&#39; uses iPhones, iPads as controllers](https://appleinsider.com/articles/25/04/24/tactical-turn-based-rpg-sunderfolk-uses-iphones-ipads-as-controllers?utm_medium=rss)<!-- TECH:END -->
+ - [Sony Xperia 1 VII photos reveals that purple is making a comeback](https://www.androidauthority.com/sony-xperia-1-vii-live-photos-3547861/)
+ - [Here’s what’s going on with Google’s funny explanations of made-up expressions](https://www.androidauthority.com/google-ai-nonsense-phrases-3547796/)
+ - [One UI 7 hits Galaxy Tab S10 tablets in the US earlier than expected](https://www.androidauthority.com/samsung-one-ui-7-galaxy-tab-s10-3547901/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
