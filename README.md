@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Oblivion Remastered kept the acting gaffe where its master speech trainer says &#39;Let me do that one again&#39; and repeats their line—It&#39;s even lip-synced now](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-kept-the-acting-gaffe-where-its-master-speech-trainer-says-let-me-do-that-one-again-and-repeats-their-line-its-even-lip-synced-now/)
  - [How to complete the Books with No Pictures quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-books-with-no-pictures-quest-walkthrough/)
- - [I&#39;ve tested Intel&#39;s new 200S Boost mode for its Arrow Lake chips and the verdict is simple: You should enable it immediately](https://www.pcgamer.com/hardware/processors/ive-tested-intels-new-200s-boost-mode-for-its-arrow-lake-chips-and-the-verdict-is-simple-you-should-enable-it-immediately/)
- - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
+ - [I&#39;ve tested Intel&#39;s new 200S Boost mode for its Arrow Lake chips and the verdict is simple: You should enable it immediately](https://www.pcgamer.com/hardware/processors/ive-tested-intels-new-200s-boost-mode-for-its-arrow-lake-chips-and-the-verdict-is-simple-you-should-enable-it-immediately/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
