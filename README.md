@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All Ring Battery Doorbells are on sale!](https://www.androidauthority.com/ring-battery-doorbell-plus-pro-deals-2-3547461/)
- - [Interfax: Russia&#39;s Central Bank and Finance Ministry plan to launch a crypto exchange for &quot;highly qualified investors&quot; under an experimental legal regime &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250423/p56#a250423p56)
- - [Auto industry tariffs are doing what now? 24 hours of White House confusion](https://www.theverge.com/transportation/655010/auto-industry-tariffs-white-house-confusion-china-canada)<!-- TECH:END -->
+ - [Uncertainty returns for Apple as Trump tariff pause halved for countries not making a deal](https://appleinsider.com/articles/25/04/24/uncertainty-returns-for-apple-as-trump-tariff-pause-halved-for-countries-not-making-a-deal?utm_medium=rss)
+ - [Perplexity&#39;s iOS app enables support for the company&#39;s conversational AI voice assistant, letting users ask the chatbot to write emails, set reminders, and more &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250423/p57#a250423p57)
+ - [All Ring Battery Doorbells are on sale!](https://www.androidauthority.com/ring-battery-doorbell-plus-pro-deals-2-3547461/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
