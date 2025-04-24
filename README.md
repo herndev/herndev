@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automatic call recording just got one step closer for US Pixel users &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-automatic-call-recording-notes-apk-teardown-3547655/)
- - [The US Has Spent Over $500,000 on Hyper-Targeted YouTube Ads to Discourage Irregular Migration](https://www.wired.com/story/dhs-youtube-ads-mexico-migration/)
- - [Strava’s new Performance Predictions may be the reality check you need](https://www.androidauthority.com/strava-performance-predictions-3547447/)<!-- TECH:END -->
+ - [VW will deploy ‘thousands’ of robotaxis on Uber’s platform in the US](https://www.theverge.com/news/654780/vw-uber-autonomous-robotaxi-moia-la-2026)
+ - [Framework Laptop 13 review: a matte 3:2 display, AMD&#39;s Ryzen AI CPU is the Laptop 13&#39;s fastest ever, and Copilot+, but some glitchiness and poor battery life &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250424/p16#a250424p16)
+ - [Mac Studio M4 Max review one month later: Costly computing power, worth every cent](https://appleinsider.com/articles/25/04/24/mac-studio-m4-max-review-one-month-later-costly-computing-power-worth-every-cent?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
