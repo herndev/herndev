@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 💣 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
  - ⏩ [Facepalm](http://9gag.com/gag/a9ymRmo)
- - 👉 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)<!-- MEMES:END -->
+ - 👉 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)<!-- MEMES:END -->
 
 ---
 
