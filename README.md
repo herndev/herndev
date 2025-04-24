@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mobile Suit Gundam inspired Attack of the Clones’ biggest moment, and it&amp;#8217;s all thanks to the man behind Jar Jar Binks](https://www.polygon.com/anime/564994/star-wars-attack-of-the-clones-yoda-count-dooku-fight-mobile-suit-gundam-chars-counterattack)
- - [Every game you can pre-order for the Nintendo Switch 2](https://www.polygon.com/pre-order/554243/nintendo-switch-2-games-where-to-buy)
- - [Andor’s opulent wedding sequence mints a ‘galactic hit’ in Star Wars music](https://www.polygon.com/star-wars/563272/andor-wedding-episodes-season-2-mon-mothma-dance)<!-- GAME:END -->
+ - [EA’s terrific draft-day ad has me pumped for College Football 26 and Madden NFL 26](https://www.polygon.com/news/564751/madden-nfl-college-football-26-release-date-ps5-xbox-switch-2-pc)
+ - [Credit where it&#39;s due: Bethesda is being admirably normal by letting modders carry on with their competing Oblivion remaster](https://www.pcgamer.com/games/rpg/credit-where-its-due-bethesda-is-being-admirably-normal-by-letting-modders-carry-on-with-their-competing-oblivion-remaster/)
+ - [What We Loved &lpar;And Hated&rpar; About The Marathon Alpha](https://kotaku.com/marathon-alpha-review-impressions-bungie-extraction-fps-1851777775)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
