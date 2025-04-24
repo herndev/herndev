@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: Vampire: The Masquerade – Bloodlines 2](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-vampire-the-masquerade-bloodlines-2/)
- - [How to pre-order the Dbrand Killswitch case for the Nintendo Switch 2](https://www.polygon.com/pre-order/549683/dbrand-killswitch-nintendo-switch-2-announcement-where-to-buy)
- - [Switch 2 Pre-Orders Are Popping Up On Ebay Already](https://kotaku.com/switch-2-preorders-ebay-resellers-scalpers-nintendo-1851777605)<!-- GAME:END -->
+ - [How to complete the Books with No Pictures quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-books-with-no-pictures-quest-walkthrough/)
+ - [I&#39;ve tested Intel&#39;s new 200S Boost mode for its Arrow Lake chips and the verdict is simple: You should enable it immediately](https://www.pcgamer.com/hardware/processors/ive-tested-intels-new-200s-boost-mode-for-its-arrow-lake-chips-and-the-verdict-is-simple-you-should-enable-it-immediately/)
+ - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
