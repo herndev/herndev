@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - ⏩ [Facepalm](http://9gag.com/gag/a9ymRmo)
- - 👉 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)<!-- MEMES:END -->
+ - 💣 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
+ - ⏩ [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)
+ - 👉 [Remember his dick memes](http://9gag.com/gag/axyO1bY)<!-- MEMES:END -->
 
 ---
 
