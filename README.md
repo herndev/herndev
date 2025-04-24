@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facepalm](http://9gag.com/gag/a9ymRmo)
- - ⏩ [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
- - 👉 [Thicc](http://9gag.com/gag/aGyGjR7)<!-- MEMES:END -->
+ - 💣 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)
+ - ⏩ [Wholesome indeed](http://9gag.com/gag/a6ZBKM8)
+ - 👉 [When math finally justifies itself in the middle of the ocean](http://9gag.com/gag/an7xQrz)<!-- MEMES:END -->
 
 ---
 
