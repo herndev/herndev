@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to pre-order the Nintendo Switch 2](https://www.polygon.com/pre-order/544294/nintendo-switch-2-amazon-walmart-gamestop-best-buy)
- - [How to pre-order extra Joy-Cons for your Switch 2](https://www.polygon.com/pre-order/553095/nintendo-switch-2-joy-con-2-controller-where-to-buy)
- - [How to pre-order the Nintendo Switch 2 camera](https://www.polygon.com/pre-order/554163/nintendo-switch-2-camera-where-to-buy)<!-- GAME:END -->
+ - [Switch 2 Pre-Orders Are Popping Up On Ebay Already](https://kotaku.com/switch-2-preorders-ebay-resellers-scalpers-nintendo-1851777605)
+ - [Switch 2 Preorders Are Live And Pure Chaos](https://kotaku.com/switch-2-preorder-walmart-target-best-buy-nintendo-1851777604)
+ - [How to pre-order the Nintendo Switch 2](https://www.polygon.com/pre-order/544294/nintendo-switch-2-amazon-walmart-gamestop-best-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
