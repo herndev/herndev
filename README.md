@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to pre-order the Dbrand Killswitch case for the Nintendo Switch 2](https://www.polygon.com/pre-order/549683/dbrand-killswitch-nintendo-switch-2-announcement-where-to-buy)
  - [Switch 2 Pre-Orders Are Popping Up On Ebay Already](https://kotaku.com/switch-2-preorders-ebay-resellers-scalpers-nintendo-1851777605)
- - [Switch 2 Preorders Are Live And Pure Chaos](https://kotaku.com/switch-2-preorder-walmart-target-best-buy-nintendo-1851777604)
- - [How to pre-order the Nintendo Switch 2](https://www.polygon.com/pre-order/544294/nintendo-switch-2-amazon-walmart-gamestop-best-buy)<!-- GAME:END -->
+ - [Switch 2 Preorders Are Live And Pure Chaos](https://kotaku.com/switch-2-preorder-walmart-target-best-buy-nintendo-1851777604)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
