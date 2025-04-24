@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: Bluesky restricted access to 72 accounts in Turkey at the government&#39;s request; the accounts are available on third-party apps using the AT Protocol &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250423/p59#a250423p59)
  - [Pixel 7a battery swelling? Google now offers free replacements and cold hard cash](https://www.androidauthority.com/google-pixel-7a-battery-replacement-program-3547568/)
- - [Meta&#39;s Oversight Board rules that two posts disparaging trans women aren&#39;t hate speech, in the first major test since Meta weakened its policies in January &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250423/p58#a250423p58)
- - [Motorola Razr 2025: Latest Details on New Razr Plus and Ultra Flip Phones](https://www.cnet.com/tech/mobile/motorola-razr-2025-razr-plus-ultra-60-flip-phone-news-release-date-price-specs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board rules that two posts disparaging trans women aren&#39;t hate speech, in the first major test since Meta weakened its policies in January &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250423/p58#a250423p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
