@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
- - ⏩ [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 👉 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)<!-- MEMES:END -->
+ - 💣 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
+ - ⏩ [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
+ - 👉 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)<!-- MEMES:END -->
 
 ---
 
