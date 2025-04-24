@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Alien: Isolation, Make Way and NHL 25](https://news.xbox.com/en-us/2025/04/24/free-play-days-04-24-2025/)
- - [I Haven&#39;t Played Pokémon TCG Pocket In Months But Celestial Guardians&#39; Alolan Raichu Might Finally Bring Me Back](https://kotaku.com/pokemon-tcg-pocket-celestial-guardians-alolan-raichu-1851777665)
- - [How to pre-order the Nintendo Switch 2](https://www.polygon.com/pre-order/544294/nintendo-switch-2-amazon-walmart-gamestop-best-buy)<!-- GAME:END -->
+ - [Towerborne’s Class Mastery Update Deepens a Distinctive Looter Brawler Experience](https://news.xbox.com/en-us/2025/04/24/towerbornes-class-mastery-update/)
+ - [Chipmaker TSMC&#39;s new A14 process will apparently offer a &#39;15% speed improvement&#39; but our GPUs won&#39;t be made on it for a while](https://www.pcgamer.com/hardware/processors/chipmaker-tsmcs-new-a14-process-will-apparently-offer-a-15-percent-speed-improvement-but-our-gpus-wont-be-made-on-it-for-a-while/)
+ - [All Days Gone NERO Injector locations](https://www.pcgamer.com/games/action/days-gone-nero-injector-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
