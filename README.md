@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VW will deploy ‘thousands’ of robotaxis on Uber’s platform in the US](https://www.theverge.com/news/654780/vw-uber-autonomous-robotaxi-moia-la-2026)
- - [Framework Laptop 13 review: a matte 3:2 display, AMD&#39;s Ryzen AI CPU is the Laptop 13&#39;s fastest ever, and Copilot+, but some glitchiness and poor battery life &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250424/p16#a250424p16)
- - [Mac Studio M4 Max review one month later: Costly computing power, worth every cent](https://appleinsider.com/articles/25/04/24/mac-studio-m4-max-review-one-month-later-costly-computing-power-worth-every-cent?utm_medium=rss)<!-- TECH:END -->
+ - [VW and Uber unveil an ambitious plan to launch a commercial robotaxi service using ID. BUZZ vehicles in US cities over the next decade, starting in LA in 2026 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250424/p17#a250424p17)
+ - [Why an old Exynos chip in the Galaxy S25 FE could be the best thing about it](https://www.androidauthority.com/old-exynos-chip-samsung-galaxy-s25-fe-best-thing-about-it-3546810/)
+ - [22 Best MacBook Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-macbook-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
