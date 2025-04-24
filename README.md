@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, April 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-24-2025/)
- - [Game Week Sale comes to PlayStation Store April 23](https://blog.playstation.com/2025/04/23/20250424-psstore/)
- - [&lpar;For Southeast Asia&rpar; Ghost of Yōtei comes to PlayStation 5 on October 2](https://blog.playstation.com/2025/04/23/20250424-goy/)<!-- GAME:END -->
+ - [All the Switch 2 accessories you can pre-order now](https://www.polygon.com/pre-order/554836/switch-2-accessories-controller-wheel-joy-con-camera-case-microsd-express)
+ - [How to pre-order Mario Kart World](https://www.polygon.com/pre-order/554983/mario-kart-world-nintendo-switch-2-where-to-buy)
+ - [Today&#39;s Wordle answer for Thursday, April 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-24-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
