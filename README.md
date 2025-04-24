@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uncertainty returns for Apple as Trump tariff pause halved for countries not making a deal](https://appleinsider.com/articles/25/04/24/uncertainty-returns-for-apple-as-trump-tariff-pause-halved-for-countries-not-making-a-deal?utm_medium=rss)
- - [Perplexity&#39;s iOS app enables support for the company&#39;s conversational AI voice assistant, letting users ask the chatbot to write emails, set reminders, and more &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250423/p57#a250423p57)
- - [All Ring Battery Doorbells are on sale!](https://www.androidauthority.com/ring-battery-doorbell-plus-pro-deals-2-3547461/)<!-- TECH:END -->
+ - [Pixel 7a battery swelling? Google now offers free replacements and cold hard cash](https://www.androidauthority.com/google-pixel-7a-battery-replacement-program-3547568/)
+ - [Meta&#39;s Oversight Board rules that two posts disparaging trans women aren&#39;t hate speech, in the first major test since Meta weakened its policies in January &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250423/p58#a250423p58)
+ - [Motorola Razr 2025: Latest Details on New Razr Plus and Ultra Flip Phones](https://www.cnet.com/tech/mobile/motorola-razr-2025-razr-plus-ultra-60-flip-phone-news-release-date-price-specs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
