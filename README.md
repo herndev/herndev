@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s first Thunderbolt 5 dock has a built-in power supply](https://www.theverge.com/news/654787/anker-prime-tb5-thunderbolt-5-dock)
- - [The White House says that fines on Apple and Meta by the EU are a &quot;novel form of economic extortion&quot; that the United States will not tolerate &lpar;Reuters&rpar;](http://www.techmeme.com/250423/p51#a250423p51)
- - [Starting a vlog is simpler and cheaper with this Sony ZV-1F deal](https://www.androidauthority.com/sony-zv-1f-vlog-camera-deal-3547463/)<!-- TECH:END -->
+ - [The new Acer Chromebook Plus 516 comes with a free year of Google One AI Premium](https://www.androidauthority.com/acer-chromebook-plus-516-deal-3547462/)
+ - [&#39;You Can&#39;t Lick a Badger Twice&#39;: Google Failures Highlight a Fundamental AI Flaw](https://www.wired.com/story/google-ai-overviews-meaning/)
+ - [SK Hynix reports Q1 revenue up 42% YoY to ~$12.4B, vs. ~$12.1B est, and operating profit up 158% YoY to ~$5.2B, vs. ~$4.6B est., on demand for its HBM chips &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250423/p53#a250423p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
