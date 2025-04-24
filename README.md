@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remedy&amp;#8217;s multiplayer Control spinoff FBC: Firebreak launches in June](https://www.theverge.com/news/654718/fbc-firebreak-release-date-remedy-control)
- - [Meta lays off an unspecified number of employees in Reality Labs, affecting Oculus Studios teams and, sources say, staff involved in Meta&#39;s hardware efforts &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250424/p26#a250424p26)
- - [Now Kia EVs can use Tesla’s Superchargers](https://www.theverge.com/news/655855/kia-tesla-supercharger-access-nacs-ev6-ev9-niro)<!-- TECH:END -->
+ - [Trump updates Biden’s robo-car crash reporting rule to benefit Tesla](https://www.theverge.com/news/655834/trump-tesla-crash-reporting-rule-adas-nhtsa-sgo)
+ - [The NHTSA plans to ease rules for autonomous vehicles, including loosening crash reporting requirements and simplifying approvals, in changes championed by Musk &lpar;Financial Times&rpar;](http://www.techmeme.com/250424/p28#a250424p28)
+ - [Bowers &amp;#038; Wilkins upgraded our pick for the best sounding wireless headphones](https://www.theverge.com/news/655885/bowers-wilkins-px7-s3-wireless-anc-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
