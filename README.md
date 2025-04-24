@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump updates Biden’s robo-car crash reporting rule to benefit Tesla](https://www.theverge.com/news/655834/trump-tesla-crash-reporting-rule-adas-nhtsa-sgo)
- - [The NHTSA plans to ease rules for autonomous vehicles, including loosening crash reporting requirements and simplifying approvals, in changes championed by Musk &lpar;Financial Times&rpar;](http://www.techmeme.com/250424/p28#a250424p28)
- - [Bowers &amp;#038; Wilkins upgraded our pick for the best sounding wireless headphones](https://www.theverge.com/news/655885/bowers-wilkins-px7-s3-wireless-anc-headphones)<!-- TECH:END -->
+ - [Apple shifts robotics team away from Giannandrea&#39;s AI organization to prioritize hardware](https://appleinsider.com/articles/25/04/24/apple-shifts-robotics-team-away-from-giannandreas-ai-organization-to-prioritize-hardware?utm_medium=rss)
+ - [I got my Switch 2 preorder the old-fashioned way: lining up at GameStop](https://www.theverge.com/games/655949/switch-2-in-person-preorder-gamestop)
+ - [Meta is trying to clean up Facebook spam](https://www.theverge.com/news/655984/meta-reduce-facebook-spam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
