@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dynamax Entei counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/563912/dynamax-entei-counters-weakness-tips)
- - [Oblivion Remastered is &#39;verified&#39; for Steam Deck, but the original with mods is a far superior handheld experience](https://www.pcgamer.com/hardware/handheld-gaming-pcs/oblivion-remastered-is-verified-for-steam-deck-but-the-original-with-mods-is-a-far-superior-handheld-experience/)
- - [Should you buy a Switch or pre-order a Switch 2?](https://www.polygon.com/24072924/buy-switch-or-switch-2)<!-- GAME:END -->
+ - [Game Week Sale comes to PlayStation Store April 23](https://blog.playstation.com/2025/04/23/20250424-psstore/)
+ - [&lpar;For Southeast Asia&rpar; Ghost of Yōtei comes to PlayStation 5 on October 2](https://blog.playstation.com/2025/04/23/20250424-goy/)
+ - [Dynamax Entei counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/563912/dynamax-entei-counters-weakness-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
