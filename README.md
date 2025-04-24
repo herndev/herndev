@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women of principle](http://9gag.com/gag/aMVzEWR)
- - ⏩ [So that\u2019s why\u2026](http://9gag.com/gag/aRBvXzq)
- - 👉 [I think you may have something here](http://9gag.com/gag/aKG8mX6)<!-- MEMES:END -->
+ - 💣 [So that\u2019s why\u2026](http://9gag.com/gag/aRBvXzq)
+ - ⏩ [I think you may have something here](http://9gag.com/gag/aKG8mX6)
+ - 👉 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)<!-- MEMES:END -->
 
 ---
 
