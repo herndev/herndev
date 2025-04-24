@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Napalm Girl Standard](https://www.theverge.com/cs/features/654425/vietnam-war-napalm-girl-photo-free-speech-nick-ut)
- - [GTA V is Twitch’s most watched game of 2024](https://www.theverge.com/news/655394/gta-5-most-watched-twitch-game-gta-vi)
- - [Pokémon TCG Pocket’s next expansion is bringing Alola back](https://www.theverge.com/news/655384/pokemon-tcg-pocket-celestial-guardians)<!-- TECH:END -->
+ - [Lowest price ever: Apple&#39;s M4 MacBook Air &lpar;2025&rpar; falls to $909](https://appleinsider.com/articles/25/04/24/lowest-price-ever-apples-m4-macbook-air-2025-falls-to-909?utm_medium=rss)
+ - [On the Apple Watch&#39;s 10th anniversary, a look at how Apple reshaped the watch industry and ushered in a new age of fitness tracking &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/250424/p19#a250424p19)
+ - [Samsung says its ‘Screens Everywhere’ approach won&amp;#8217;t mean ads everywhere, for now](https://www.theverge.com/tech/654685/samsung-screens-everywhere-home-appliances-strategy-interview-exclusive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
