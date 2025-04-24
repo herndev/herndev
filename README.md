@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shifts robotics team away from Giannandrea&#39;s AI organization to prioritize hardware](https://appleinsider.com/articles/25/04/24/apple-shifts-robotics-team-away-from-giannandreas-ai-organization-to-prioritize-hardware?utm_medium=rss)
- - [I got my Switch 2 preorder the old-fashioned way: lining up at GameStop](https://www.theverge.com/games/655949/switch-2-in-person-preorder-gamestop)
- - [Meta is trying to clean up Facebook spam](https://www.theverge.com/news/655984/meta-reduce-facebook-spam)<!-- TECH:END -->
+ - [The EU Commission says it banned officials from meeting with lobbyists acting on Huawei&#39;s behalf, after the EU Parliament banned Huawei staff from its premises &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250424/p37#a250424p37)
+ - [Get the party started with this amazing JBL PartyBox Club 120 speaker deal!](https://www.androidauthority.com/jbl-partybox-club-120-deal-3547966/)
+ - [Razer Releases a Vertical Edition Ergonomic Mouse](https://www.cnet.com/tech/computing/razer-releases-a-vertical-edition-ergonomic-mouse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
