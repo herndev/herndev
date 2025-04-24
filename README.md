@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think you may have something here](http://9gag.com/gag/aKG8mX6)
- - ⏩ [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)
- - 👉 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)<!-- MEMES:END -->
+ - 💣 [India shows muscles](http://9gag.com/gag/azxO2wq)
+ - ⏩ [If there&#39;s a tail after you - just trop it](http://9gag.com/gag/aoyx512)
+ - 👉 [Bantha Poodoo](http://9gag.com/gag/abAxYNE)<!-- MEMES:END -->
 
 ---
 
