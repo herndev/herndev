@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s 2025 Work Trend Index report, based on a survey of 31,000 people, argues that &quot;Frontier Firms&quot; utilizing agentic AI as digital workers are emerging &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250424/p3#a250424p3)
- - [Where to preorder the Pro 2 controller and other Switch 2 accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
- - [Nintendo Switch 2 preorders were a total mess — at first](https://www.theverge.com/news/654571/nintendo-switch-2-preorders-issues-problems)<!-- TECH:END -->
+ - [The Play Store now offers a simple way to reduce accidental purchases](https://www.androidauthority.com/google-play-swipe-gesture-purchases-3547622/)
+ - [Best Internet Providers in Independence, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-independence-mo/#ftag=CAD590a51e)
+ - [Videos on TikTok, Instagram, and other apps urging US consumers to buy directly from Chinese factories are surging in popularity, racking up millions of views &lpar;New York Times&rpar;](http://www.techmeme.com/250424/p7#a250424p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
