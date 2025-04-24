@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the Switch 2 accessories you can pre-order now](https://www.polygon.com/pre-order/554836/switch-2-accessories-controller-wheel-joy-con-camera-case-microsd-express)
- - [How to pre-order Mario Kart World](https://www.polygon.com/pre-order/554983/mario-kart-world-nintendo-switch-2-where-to-buy)
- - [Today&#39;s Wordle answer for Thursday, April 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-24-2025/)<!-- GAME:END -->
+ - [How to pre-order the Nintendo Switch 2](https://www.polygon.com/pre-order/544294/nintendo-switch-2-amazon-walmart-gamestop-best-buy)
+ - [How to pre-order extra Joy-Cons for your Switch 2](https://www.polygon.com/pre-order/553095/nintendo-switch-2-joy-con-2-controller-where-to-buy)
+ - [How to pre-order the Nintendo Switch 2 camera](https://www.polygon.com/pre-order/554163/nintendo-switch-2-camera-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
