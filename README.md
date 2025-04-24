@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FBC: Firebreak Follows In Helldivers 2&#39;s Footsteps As It Reveals Release Date, Pricing, And Battle Pass](https://kotaku.com/fbc-firebreak-control-game-pass-helldivers-2-battle-pas-1851777756)
- - [All the Switch 2 accessories you can pre-order now](https://www.polygon.com/pre-order/554836/switch-2-accessories-controller-wheel-joy-con-camera-case-microsd-express)
- - [Four new Zelda amiibo are now available to pre-order](https://www.polygon.com/pre-order/562264/zelda-amiibo-switch-2-totk-botw)<!-- GAME:END -->
+ - [Mobile Suit Gundam inspired Attack of the Clones’ biggest moment, and it&amp;#8217;s all thanks to the man behind Jar Jar Binks](https://www.polygon.com/anime/564994/star-wars-attack-of-the-clones-yoda-count-dooku-fight-mobile-suit-gundam-chars-counterattack)
+ - [Every game you can pre-order for the Nintendo Switch 2](https://www.polygon.com/pre-order/554243/nintendo-switch-2-games-where-to-buy)
+ - [Andor’s opulent wedding sequence mints a ‘galactic hit’ in Star Wars music](https://www.polygon.com/star-wars/563272/andor-wedding-episodes-season-2-mon-mothma-dance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
