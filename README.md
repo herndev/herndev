@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)
- - ⏩ [Wholesome indeed](http://9gag.com/gag/a6ZBKM8)
- - 👉 [When math finally justifies itself in the middle of the ocean](http://9gag.com/gag/an7xQrz)<!-- MEMES:END -->
+ - 💣 [Crazy power](http://9gag.com/gag/ayN1X48)
+ - ⏩ [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
+ - 👉 [I got bitten! Here\u2019s the snake! Now give me the antidote quick!](http://9gag.com/gag/aW4oxqA)<!-- MEMES:END -->
 
 ---
 
