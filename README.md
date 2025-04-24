@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s where you can try to preorder the Switch 2 right now](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
- - [The European Commission says that Meta&#39;s Facebook Marketplace should no longer be designated under the DMA, citing fewer than 10,000 business users in 2024 &lpar;European Commission&rpar;](http://www.techmeme.com/250424/p1#a250424p1)
- - [Nintendo Switch 2 pre-orders are live in the US: Here’s where to buy yours right now](https://www.androidauthority.com/nintendo-switch-2-pre-orders-live-3547611/)<!-- TECH:END -->
+ - [Microsoft&#39;s 2025 Work Trend Index report, based on a survey of 31,000 people, argues that &quot;Frontier Firms&quot; utilizing agentic AI as digital workers are emerging &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250424/p3#a250424p3)
+ - [Where to preorder the Pro 2 controller and other Switch 2 accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
+ - [Nintendo Switch 2 preorders were a total mess — at first](https://www.theverge.com/news/654571/nintendo-switch-2-preorders-issues-problems)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
