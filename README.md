@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well that was unexpected](http://9gag.com/gag/aZZELpV)
- - ⏩ [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - 👉 [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)<!-- MEMES:END -->
+ - 💣 [Women of principle](http://9gag.com/gag/aMVzEWR)
+ - ⏩ [So that\u2019s why\u2026](http://9gag.com/gag/aRBvXzq)
+ - 👉 [I think you may have something here](http://9gag.com/gag/aKG8mX6)<!-- MEMES:END -->
 
 ---
 
