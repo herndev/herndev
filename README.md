@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn expands its free verification system to the wider web, letting sites display LinkedIn verification, starting with Adobe&#39;s new Content Authenticity app &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250424/p12#a250424p12)
- - [Adobe unveils its Firefly Image Model 4 and Model 4 Ultra, launches a redesigned Firefly web app, is testing a new Adobe Content Authenticity web app, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250424/p11#a250424p11)
- - [Best CD Rates - Week of April 21-25, 2025](https://www.cnet.com/personal-finance/banking/best-cd-rates-week-of-april-21-april-25-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Automatic call recording just got one step closer for US Pixel users &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-automatic-call-recording-notes-apk-teardown-3547655/)
+ - [The US Has Spent Over $500,000 on Hyper-Targeted YouTube Ads to Discourage Irregular Migration](https://www.wired.com/story/dhs-youtube-ads-mexico-migration/)
+ - [Strava’s new Performance Predictions may be the reality check you need](https://www.androidauthority.com/strava-performance-predictions-3547447/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
