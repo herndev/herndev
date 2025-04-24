@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bethesda didn&#39;t remaster Oblivion](http://9gag.com/gag/a6ZBEne)
- - ⏩ [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - 👉 [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)<!-- MEMES:END -->
+ - 💣 [Facepalm](http://9gag.com/gag/a9ymRmo)
+ - ⏩ [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
+ - 👉 [Thicc](http://9gag.com/gag/aGyGjR7)<!-- MEMES:END -->
 
 ---
 
