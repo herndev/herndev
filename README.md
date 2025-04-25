@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Baby do you remember the money we saved to buy a house?](http://9gag.com/gag/aXP7VjV)
- - ⏩ [Evil human being](http://9gag.com/gag/aKG8AYZ)
- - 👉 [Wait a minute, he got the point](http://9gag.com/gag/aqyxXop)<!-- MEMES:END -->
+ - 💣 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
+ - ⏩ [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
+ - 👉 [Wife material](http://9gag.com/gag/aGyGzDz)<!-- MEMES:END -->
 
 ---
 
