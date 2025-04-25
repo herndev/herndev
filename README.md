@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Capcom&#39;s wonderful Breath of Fire 4 is finally available digitally thanks to GOG—I just wish it wasn&#39;t quite so faithful to a 22-year-old port](https://www.pcgamer.com/games/rpg/capcoms-wonderful-breath-of-fire-4-is-finally-available-digitally-thanks-to-gog-i-just-wish-it-wasnt-quite-so-faithful-to-a-22-year-old-port/)
  - [Making your own upgraded GameBoy PCB is almost as easy as making a grilled cheese sandwich](https://www.pcgamer.com/hardware/making-your-own-upgraded-gameboy-pcb-is-almost-as-easy-as-making-a-grilled-cheese-sandwich/)
- - [World of Warcraft&#39;s latest patch is a bugstravaganza the likes of which I haven&#39;t seen in my 21 years playing WoW](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-latest-patch-is-a-bugstravaganza-the-likes-of-which-i-havent-seen-in-my-21-years-playing-wow/)
- - [Today&#39;s Wordle answer for Friday, April 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-25-2025/)<!-- GAME:END -->
+ - [World of Warcraft&#39;s latest patch is a bugstravaganza the likes of which I haven&#39;t seen in my 21 years playing WoW](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-latest-patch-is-a-bugstravaganza-the-likes-of-which-i-havent-seen-in-my-21-years-playing-wow/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
