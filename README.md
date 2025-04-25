@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new shooter from the former 4A Ukraine studio was supposed to launch today, but instead it got a last-second delay and nobody knows for how long](https://www.pcgamer.com/games/fps/the-new-shooter-from-the-former-4a-ukraine-studio-was-supposed-to-launch-today-but-instead-it-got-a-last-second-delay-and-nobody-knows-for-how-long/)
- - [‘Wisdom of the Ages’ quest steps and walkthrough in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565379/wisdom-ages-walikthrough-fort-bulwark-puzzle-solutions-all)
- - [Green Minecraft Movie Milk Gets Its Color From Chemicals The Government Wants To &#39;Eliminate&#39;](https://kotaku.com/minecraft-movie-creeper-milk-blue-dye-fda-safe-children-1851777905)<!-- GAME:END -->
+ - [Wicked Director And Deadpool Writers Join Split Fiction Movie](https://kotaku.com/split-fiction-movie-director-writer-sydney-chu-deadpool-1851777936)
+ - [How to make Cosmic Exploration macros in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/563439/cosmic-exploration-macros-crafting)
+ - [Modders somehow cranked out a VR mod for Oblivion Remastered mere hours after its surprise launch](https://www.pcgamer.com/games/the-elder-scrolls/modders-somehow-cranked-out-a-vr-mod-for-oblivion-remastered-mere-hours-after-its-surprise-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
