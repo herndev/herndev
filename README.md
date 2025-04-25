@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI expands deep research usage for Plus, Pro, and Team users with an o4-mini-powered lightweight version, which also rolls out to Free users today &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250425/p4#a250425p4)
- - [Baidu rolls out Ernie 4.5 Turbo and X1 Turbo, new versions of its flagship foundation and reasoning models, as it looks to take on Alibaba&#39;s Qwen and DeepSeek &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p3#a250425p3)
- - [Samsung just ‘officially’ leaked the price of the Galaxy S25 Edge!](https://www.androidauthority.com/samsung-galaxy-s25-edge-price-leak-from-samsung-3548051/)<!-- TECH:END -->
+ - [Google confirms Gemini is coming to Wear OS, Android Auto, and more this year](https://www.androidauthority.com/google-confirms-gemini-watches-android-auto-3548054/)
+ - [JD.com&#39;s costly bid to challenge Meituan in food delivery, while the latter enters the e-commerce space, has led to a loss of ~$70B in combined market value &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250425/p5#a250425p5)
+ - [OpenAI expands deep research usage for Plus, Pro, and Team users with an o4-mini-powered lightweight version, which also rolls out to Free users today &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250425/p4#a250425p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
