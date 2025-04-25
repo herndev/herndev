@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boox&amp;#8217;s newest Android e-readers let you take notes](https://www.theverge.com/news/656174/boox-go-7-series-e-ink-e-reader-stylus-color)
- - [US iPhones Made In India Solve Apple&#39;s Tariff Problem, But Not Its China Problem](https://www.wired.com/story/apple-may-shift-to-making-us-iphones-in-india-it-wont-be-easy/)
- - [Google Translate could soon get one-tap search for translated text &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-translate-search-shortcut-apk-3548215/)<!-- TECH:END -->
+ - [CMF is teasing a unique camera accessory for the Phone 2 Pro](https://www.androidauthority.com/cmf-phone-2-pro-lens-accessory-3548232/)
+ - [CalDigit Element 5 Hub review: A fast and reliable Thunderbolt 5 hub with only the essentials](https://appleinsider.com/articles/25/04/25/caldigit-element-5-hub-review-a-fast-and-reliable-thunderbolt-5-hub-with-only-the-essentials?utm_medium=rss)
+ - [Sources: the US pushed back against EU&#39;s AI code of practice; the code is voluntary, still being finalized, and aims to help companies comply with the AI Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p14#a250425p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
