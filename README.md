@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slate Auto’s $25K Electric Pickup Is Here: Pricing, Specs, Range, Release Date](https://www.wired.com/story/slate-auto-electric-pickup/)
- - [The $20,000 American-made electric pickup with no paint, no stereo, and no touchscreen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
- - [Tabletop game companies sue Trump to stop tariffs](https://www.theverge.com/news/656074/trump-tariffs-lawsuit-tabletop-game-companies-stonemaier-princess-awesome)<!-- TECH:END -->
+ - [Sources: the US is conducting a criminal antitrust probe into TP-Link&#39;s pricing strategies and whether the router maker represents a national security threat &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p44#a250424p44)
+ - [This $25,000 Electric Slate Truck Transforms Into an SUV](https://www.cnet.com/roadshow/news/this-25000-slate-electric-truck-transforms-into-an-suv/#ftag=CAD590a51e)
+ - [Keep It Simple: New Slate Truck Could Be Next Year&#39;s Cheapest EV](https://www.cnet.com/roadshow/pictures/keep-it-simple-new-slate-truck-could-be-next-years-cheapest-ev/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
