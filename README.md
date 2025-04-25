@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Look out Galaxy S23 owners, One UI 7 is finally available in the US](https://www.androidauthority.com/galaxy-s23-stable-one-ui-7-rollout-3548364/)
- - [Deliveroo, which listed in London with a £7.6B valuation in 2021, says it received a buyout proposal from DoorDash that would value the company at £2.7B &lpar;Financial Times&rpar;](http://www.techmeme.com/250425/p21#a250425p21)
- - [Sources: Chinese AI startup Manus raised $75M led by Benchmark at a $500M valuation, and plans to expand to markets including the US, Japan, and the Middle East &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p20#a250425p20)<!-- TECH:END -->
+ - [Meta and Booz Allen partner to deploy Space Llama, a fine-tuned version of Llama 3.2, for research aboard the International Space Station National Laboratory &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250425/p24#a250425p24)
+ - [Clair Obscur: Expedition 33 is an audacious RPG with all the right moves](https://www.theverge.com/games-review/656405/clair-obscur-expedition-33-review-xbox-ps5-pc)
+ - [Is this the antidote to America’s truck bloat problem?](https://www.theverge.com/electric-cars/656270/slate-truck-bloat-size-weight-safety-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
