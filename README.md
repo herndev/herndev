@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you hurry, you can pick up a set of these sweet artisan keycaps in all sorts of delicious combinations](https://www.pcgamer.com/hardware/gaming-keyboards/if-you-hurry-you-can-pick-up-a-set-of-these-sweet-artisan-keycaps-in-all-sorts-of-delicious-combinations/)
- - [Here are the best deals you can pick up in Fanatical&#39;s ongoing Level Up sale](https://www.pcgamer.com/games/here-are-the-best-deals-you-can-pick-up-in-fanaticals-ongoing-level-up-sale/)
- - [I&#39;m getting major tool envy from this hard drive converted into a variable speed disc sander and I don&#39;t care who knows it](https://www.pcgamer.com/hardware/hdds/im-getting-major-tool-envy-from-this-hard-drive-converted-into-a-variable-speed-disc-sander-and-i-dont-care-who-knows-it/)<!-- GAME:END -->
+ - [Two of 2024’s most innovative horror movies are now on Hulu](https://www.polygon.com/what-to-watch/564440/in-violent-nature-azrael-hulu-streaming-horror)
+ - [New Intel CEO is looking &#39;for partnership with the industry leader to build purpose-built silicon&#39; for AI, but is he talking about making chips with Nvidia or for OpenAI?](https://www.pcgamer.com/hardware/processors/new-intel-ceo-is-looking-for-partnership-with-the-industry-leader-to-build-purpose-built-silicon-for-ai-but-is-he-talking-about-making-chips-with-nvidia-or-for-openai/)
+ - [Modders have torn apart Oblivion Remastered and found &#39;potential&#39; for proper modding, but without tools from Bethesda we&#39;ll need &#39;a lot of reverse engineering work… before modding can be fully realised&#39;](https://www.pcgamer.com/games/the-elder-scrolls/modders-have-torn-apart-oblivion-remastered-and-found-potential-for-proper-modding-but-without-tools-from-bethesda-well-need-a-lot-of-reverse-engineering-work-before-modding-can-be-fully-realised/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
