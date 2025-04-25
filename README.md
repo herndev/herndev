@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom&#39;s wonderful Breath of Fire 4 is finally available digitally thanks to GOG—I just wish it wasn&#39;t quite so faithful to a 22-year-old port](https://www.pcgamer.com/games/rpg/capcoms-wonderful-breath-of-fire-4-is-finally-available-digitally-thanks-to-gog-i-just-wish-it-wasnt-quite-so-faithful-to-a-22-year-old-port/)
- - [Making your own upgraded GameBoy PCB is almost as easy as making a grilled cheese sandwich](https://www.pcgamer.com/hardware/making-your-own-upgraded-gameboy-pcb-is-almost-as-easy-as-making-a-grilled-cheese-sandwich/)
- - [World of Warcraft&#39;s latest patch is a bugstravaganza the likes of which I haven&#39;t seen in my 21 years playing WoW](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-latest-patch-is-a-bugstravaganza-the-likes-of-which-i-havent-seen-in-my-21-years-playing-wow/)<!-- GAME:END -->
+ - [If you hurry, you can pick up a set of these sweet artisan keycaps in all sorts of delicious combinations](https://www.pcgamer.com/hardware/gaming-keyboards/if-you-hurry-you-can-pick-up-a-set-of-these-sweet-artisan-keycaps-in-all-sorts-of-delicious-combinations/)
+ - [Here are the best deals you can pick up in Fanatical&#39;s ongoing Level Up sale](https://www.pcgamer.com/games/here-are-the-best-deals-you-can-pick-up-in-fanaticals-ongoing-level-up-sale/)
+ - [I&#39;m getting major tool envy from this hard drive converted into a variable speed disc sander and I don&#39;t care who knows it](https://www.pcgamer.com/hardware/hdds/im-getting-major-tool-envy-from-this-hard-drive-converted-into-a-variable-speed-disc-sander-and-i-dont-care-who-knows-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
