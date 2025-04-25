@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
- - ⏩ [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
- - 👉 [Wife material](http://9gag.com/gag/aGyGzDz)<!-- MEMES:END -->
+ - 💣 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
+ - ⏩ [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/avyxemq)
+ - 👉 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)<!-- MEMES:END -->
 
 ---
 
