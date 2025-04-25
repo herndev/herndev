@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bag More Treasure When You Learn How To Lockpick In Oblivion Remastered](https://kotaku.com/oblivion-remastered-lockpicking-minigame-win-skills-1851777900)
- - [How to recruit followers in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565330/followers-list-all-how-to-recruit)
- - [How To Save Cyrodiil By Leveling Up Fast In Oblivion Remastered](https://kotaku.com/oblivion-remastered-level-up-fast-grind-arena-dungeon-1851777893)<!-- GAME:END -->
+ - [The new shooter from the former 4A Ukraine studio was supposed to launch today, but instead it got a last-second delay and nobody knows for how long](https://www.pcgamer.com/games/fps/the-new-shooter-from-the-former-4a-ukraine-studio-was-supposed-to-launch-today-but-instead-it-got-a-last-second-delay-and-nobody-knows-for-how-long/)
+ - [‘Wisdom of the Ages’ quest steps and walkthrough in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565379/wisdom-ages-walikthrough-fort-bulwark-puzzle-solutions-all)
+ - [Green Minecraft Movie Milk Gets Its Color From Chemicals The Government Wants To &#39;Eliminate&#39;](https://kotaku.com/minecraft-movie-creeper-milk-blue-dye-fda-safe-children-1851777905)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
