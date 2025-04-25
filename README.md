@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 28 to May 2](https://news.xbox.com/en-us/2025/04/25/next-week-on-xbox-new-games-for-april-28-to-may-2/)
- - [Tons of great sci-fi and fantasy books are up to 61% off during Amazon’s Book Sale](https://www.polygon.com/sales-guide/559838/sci-fi-fantasy-amazon-book-sale-deals)
- - [Oblivion Remastered modder has already fixed its awful levelled loot system, after very reasonably blacking out in an &#39;incomprehensible fury&#39;](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-modder-has-already-fixed-its-awful-levelled-loot-system-after-very-reasonably-blacking-out-in-an-incomprehensible-fury/)<!-- GAME:END -->
+ - [Best attributes for each character in Clair Obscur: Expedition 33](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-best-attributes-stats/)
+ - [The FBI says cybercriminals were responsible for a record $16,600,000,000 in reported losses last year, up 33% from 2023](https://www.pcgamer.com/software/security/the-fbi-says-cybercriminals-were-responsible-for-a-record-usd16-600-000-000-in-reported-losses-last-year-up-33-percent-from-2023/)
+ - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
