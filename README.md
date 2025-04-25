@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
- - ⏩ [The first rule of fight club\u2026](http://9gag.com/gag/a7o91vz)
- - 👉 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)<!-- MEMES:END -->
+ - 💣 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)
+ - ⏩ [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 👉 [Wife material](http://9gag.com/gag/aGyGzDz)<!-- MEMES:END -->
 
 ---
 
