@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms Gemini is coming to Wear OS, Android Auto, and more this year](https://www.androidauthority.com/google-confirms-gemini-watches-android-auto-3548054/)
- - [JD.com&#39;s costly bid to challenge Meituan in food delivery, while the latter enters the e-commerce space, has led to a loss of ~$70B in combined market value &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250425/p5#a250425p5)
- - [OpenAI expands deep research usage for Plus, Pro, and Team users with an o4-mini-powered lightweight version, which also rolls out to Free users today &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250425/p4#a250425p4)<!-- TECH:END -->
+ - [T-Mobile’s 5G Advanced network is now nationwide, but there’s bad news for Pixel owners](https://www.androidauthority.com/t-mobile-5g-advanced-network-pixel-owners-3548065/)
+ - [Three European scientific funding agencies have put research programs with China on hold since 2021 due to concerns over the country&#39;s Data Security Law &lpar;Andrew Silver/Reuters&rpar;](http://www.techmeme.com/250425/p6#a250425p6)
+ - [Best Internet Providers in Rock Hill, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-rock-hill-sc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
