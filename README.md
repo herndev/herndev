@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to move assembly of all US-sold iPhones, ~60M/year, to India by the end of 2026, as President Trump&#39;s trade war pushes a pivot from China &lpar;Financial Times&rpar;](http://www.techmeme.com/250425/p1#a250425p1)
- - [ChatGPT will now let everyone ‘Deep Research’ anything they want](https://www.androidauthority.com/chatgpt-deep-research-lightweight-expansion-3548045/)
- - [YouTube is testing a new AI Overviews carousel in its search results for queries focused on products and location information, for some US Premium subscribers &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/250424/p45#a250424p45)<!-- TECH:END -->
+ - [OpenAI expands deep research usage for Plus, Pro, and Team users with an o4-mini-powered lightweight version, which also rolls out to Free users today &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250425/p4#a250425p4)
+ - [Baidu rolls out Ernie 4.5 Turbo and X1 Turbo, new versions of its flagship foundation and reasoning models, as it looks to take on Alibaba&#39;s Qwen and DeepSeek &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p3#a250425p3)
+ - [Samsung just ‘officially’ leaked the price of the Galaxy S25 Edge!](https://www.androidauthority.com/samsung-galaxy-s25-edge-price-leak-from-samsung-3548051/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
