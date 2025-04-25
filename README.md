@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches Recall and AI-powered Windows search for Copilot Plus PCs](https://www.theverge.com/news/656106/microsoft-recall-copilot-plus-pc-available)
- - [Google is killing software support for early Nest Thermostats](https://www.theverge.com/news/656332/google-ending-support-nest-thermostats)
- - [Adidas’ 3D-printed shoes are launching globally on May 2nd](https://www.theverge.com/news/656374/adidas-climacool-shoe-3d-printed-global-availability)<!-- TECH:END -->
+ - [Chromebooks could get a boost from Snapdragon X Plus chips soon](https://www.theverge.com/news/656496/chromebook-qualcomm-snapdragon-x-plus)
+ - [Infinity Nikki is coming soon to Steam and will add co-op mode](https://www.theverge.com/games/656486/infinity-nikki-co-op-steam-bubble-season)
+ - [NASA’s Perseverance Rover Finds Strange Rocks on Mars](https://www.wired.com/story/nasa-rover-finds-strange-rocks-on-mars-perseverance-curiosity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
