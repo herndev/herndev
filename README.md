@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo might be willing to sell you a self-driving car, says Sundar Pichai](https://www.theverge.com/news/656267/waymo-self-driving-car-personal-long-term-business-earnings)
- - [CB Insights: fintech startups globally raised a combined $10.3B in Q1, the highest since Q1 2023; 19 US fintech startups have raised over $50M in 2025 so far &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250425/p15#a250425p15)
- - [Get ready for these tiny One UI 7 design quirks to ruin your day](https://www.androidauthority.com/one-ui-7-design-quirks-3548277/)<!-- TECH:END -->
+ - [Microsoft launches Recall and AI-powered Windows search for Copilot Plus PCs](https://www.theverge.com/news/656106/microsoft-recall-copilot-plus-pc-available)
+ - [Google is killing software support for early Nest Thermostats](https://www.theverge.com/news/656332/google-ending-support-nest-thermostats)
+ - [Adidas’ 3D-printed shoes are launching globally on May 2nd](https://www.theverge.com/news/656374/adidas-climacool-shoe-3d-printed-global-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
