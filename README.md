@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact 5.6 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-6-livestream/)
- - [Michael B. Jordan’s Most Badass Physical Performances](https://kotaku.com/michael-b-jordan-sinners-black-panther-fantastic-four-1851777559)
- - [Oblivion struggling to nail 60 fps on my RTX 5090 was not on my 2025 bingo card, but without frame gen Oblivion Remastered&#39;s top settings bring the card to its knees](https://www.pcgamer.com/hardware/graphics-cards/oblivion-struggling-to-nail-60-fps-on-my-rtx-5090-was-not-on-my-2025-bingo-card-but-without-frame-gen-oblivion-remastereds-top-settings-bring-the-card-to-its-knees/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for April 28 to May 2](https://news.xbox.com/en-us/2025/04/25/next-week-on-xbox-new-games-for-april-28-to-may-2/)
+ - [Tons of great sci-fi and fantasy books are up to 61% off during Amazon’s Book Sale](https://www.polygon.com/sales-guide/559838/sci-fi-fantasy-amazon-book-sale-deals)
+ - [Oblivion Remastered modder has already fixed its awful levelled loot system, after very reasonably blacking out in an &#39;incomprehensible fury&#39;](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-modder-has-already-fixed-its-awful-levelled-loot-system-after-very-reasonably-blacking-out-in-an-incomprehensible-fury/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
