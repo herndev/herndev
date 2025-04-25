@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
- - ⏩ [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 👉 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)<!-- MEMES:END -->
+ - 💣 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)
+ - ⏩ [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
+ - 👉 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)<!-- MEMES:END -->
 
 ---
 
