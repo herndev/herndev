@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion Remastered looks so good that I can&#39;t believe I&#39;m saying this: I kinda hope Bethesda remasters Skyrim &lpar;again&rpar; too](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-looks-so-good-that-i-cant-believe-im-saying-this-i-kinda-hope-bethesda-remasters-skyrim-again-too/)
- - [How to join the Dark Brotherhood in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565589/dark-brotherhood-how-to-join)
- - [How to join the Thieves Guild in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565586/thieves-guild-how-to-join)<!-- GAME:END -->
+ - [We can finally play 2006&#39;s flip phone-exclusive Monster Hunter port thanks to the tireless work of game preservationists and fan translators](https://www.pcgamer.com/games/action/we-can-finally-play-2006s-flip-phone-exclusive-monster-hunter-port-thanks-to-the-tireless-work-of-game-preservationists-and-fan-translators/)
+ - [Sunrise on the Reaping proves it: The Hunger Games movies perfected the casting formula](https://www.polygon.com/movies/565534/hunger-games-casting-sunrise-reaping-haymitch)
+ - [Kotaku’s Weekend Guide: 5 Games We’re Psyched To Jump Back Into](https://kotaku.com/kotaku-games-to-play-clair-obscur-oblivion-old-skies-1851777952)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
