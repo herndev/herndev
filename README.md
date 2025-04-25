@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook will reduce the reach of accounts sharing spammy content and make them ineligible for monetization, after Zuckerberg promised a return to &quot;OG Facebook&quot; &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250424/p41#a250424p41)
- - [The Rare Planetary &#39;Smiley Face&#39; in the Stars Is Happening Thursday Into Friday](https://www.cnet.com/news/catch-a-rare-planetary-smiley-face-in-the-stars-this-week-heres-how/#ftag=CAD590a51e)
- - [The US Federal Reserve withdraws guidance requiring banks to seek regulatory approval before engaging in crypto-related activities, joining the FDIC and OCC &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250424/p40#a250424p40)<!-- TECH:END -->
+ - [Netflix rolls out subtitles with just spoken dialog, without audio cues or speaker names, and says ~50% of US viewing hours happen with subtitles or captions on &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250424/p42#a250424p42)
+ - [The best power stations from Jackery and Anker are on sale](https://www.androidauthority.com/jackery-explorer-5000-plus-anker-solix-f3800-plus-deals-3547965/)
+ - [Razer Releases a Vertical Edition Ergonomic Mouse](https://www.cnet.com/tech/computing/razer-releases-a-vertical-edition-ergonomic-mouse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
