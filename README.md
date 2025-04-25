@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants nearly every iPhone 18 sold in the US to come from India](https://appleinsider.com/articles/25/04/25/apple-wants-nearly-every-iphone-18-sold-in-the-us-to-come-from-india?utm_medium=rss)
- - [ChatGPT is getting a &amp;#8216;lightweight&amp;#8217; version of its deep research tool](https://www.theverge.com/news/656142/chatgpt-lightweight-deep-research-free-plus-team-pro)
- - [Baidu CEO Robin Li says demand for text-based models like DeepSeek&#39;s is &quot;shrinking&quot; and claims its model had a higher propensity for &quot;hallucinations&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250425/p9#a250425p9)<!-- TECH:END -->
+ - [How Android 16’s new security mode will stop USB-based attacks](https://www.androidauthority.com/android-16-usb-data-advanced-protection-3548018/)
+ - [Nous, which plans to launch an AI training system on Solana using people&#39;s idle computing power, raised a $50M Series A, a source says at a $1B token valuation &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250425/p11#a250425p11)
+ - [Aviron Victory Treadmill Review: Get Low](https://www.wired.com/review/aviron-victory-treadmill/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
