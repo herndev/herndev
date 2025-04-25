@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta and Booz Allen partner to deploy Space Llama, a fine-tuned version of Llama 3.2, for research aboard the International Space Station National Laboratory &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250425/p24#a250425p24)
- - [Clair Obscur: Expedition 33 is an audacious RPG with all the right moves](https://www.theverge.com/games-review/656405/clair-obscur-expedition-33-review-xbox-ps5-pc)
- - [Is this the antidote to America’s truck bloat problem?](https://www.theverge.com/electric-cars/656270/slate-truck-bloat-size-weight-safety-tech)<!-- TECH:END -->
+ - [Why are companies lining up to buy Chrome?](https://www.theverge.com/chrome/656613/google-chrome-buyers-openai-yahoo-perplexity)
+ - [Nothing Phone 3a is finally getting this missing Android 15 privacy feature](https://www.androidauthority.com/nothing-phone-3a-private-space-3548393/)
+ - [Sources: Microsoft plans to increase the use of third-party firms for selling software to SMBs; in-house sellers will get more training and focus on AI products &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250425/p25#a250425p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
