@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s 5G Advanced network is now nationwide, but there’s bad news for Pixel owners](https://www.androidauthority.com/t-mobile-5g-advanced-network-pixel-owners-3548065/)
- - [Three European scientific funding agencies have put research programs with China on hold since 2021 due to concerns over the country&#39;s Data Security Law &lpar;Andrew Silver/Reuters&rpar;](http://www.techmeme.com/250425/p6#a250425p6)
- - [Best Internet Providers in Rock Hill, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-rock-hill-sc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft made an ad with generative AI and nobody noticed](https://www.theverge.com/news/656104/microsoft-surface-ad-generative-ai-copilot-intel)
+ - [This would have been the perfect time for Motorola to make a new Moto 360 Wear OS watch](https://www.androidauthority.com/motorola-moto-360-wear-os-watch-3548031/)
+ - [Brazil&#39;s AI-based social security app, launched in 2018, has cut bureaucracy in some cases but wrongly rejected hundreds of vulnerable people over minor errors &lpar;Gabriel Daros/Rest of World&rpar;](http://www.techmeme.com/250425/p7#a250425p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
