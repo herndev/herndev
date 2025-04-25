@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s Switch 2 upgrades for Mario Party and Kirby will cost $19.99](https://www.theverge.com/news/656049/nintendo-switch-2-edition-upgrade-pack-price)
- - [IGN and CNET owner Ziff Davis sues OpenAI](https://www.theverge.com/news/656044/ziff-davis-sues-openai-ign-cnet-pcmag)
- - [Intel CEO Lip-Bu Tan announces changes, including an engineering refocus, reductions in unnecessary bureaucracy and workforce, and four-day-per-week RTO policy &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250424/p38#a250424p38)<!-- TECH:END -->
+ - [Facebook will reduce the reach of accounts sharing spammy content and make them ineligible for monetization, after Zuckerberg promised a return to &quot;OG Facebook&quot; &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250424/p41#a250424p41)
+ - [The Rare Planetary &#39;Smiley Face&#39; in the Stars Is Happening Thursday Into Friday](https://www.cnet.com/news/catch-a-rare-planetary-smiley-face-in-the-stars-this-week-heres-how/#ftag=CAD590a51e)
+ - [The US Federal Reserve withdraws guidance requiring banks to seek regulatory approval before engaging in crypto-related activities, joining the FDIC and OCC &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250424/p40#a250424p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
