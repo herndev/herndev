@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)
- - ⏩ [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 👉 [Wife material](http://9gag.com/gag/aGyGzDz)<!-- MEMES:END -->
+ - 💣 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
+ - ⏩ [UK take notes](http://9gag.com/gag/aQzmEYe)
+ - 👉 [Your money or your life](http://9gag.com/gag/aVvZ7Ey)<!-- MEMES:END -->
 
 ---
 
