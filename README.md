@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail gets a slider on Android tablets, AI on the side](https://www.theverge.com/news/656708/gmail-app-gemini-image-generator-workspace-ios-material-3)
- - [GE CYNC Outdoor Smart Plug deal: Make your outdoor electronics smart on the cheap!](https://www.androidauthority.com/ge-cync-smart-plug-deal-3548421/)
- - [Deel sues Rippling for alleged defamation, libel, and deceptive trade practices, says Rippling placed an insider within Deel, is not tax compliant, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250425/p26#a250425p26)<!-- TECH:END -->
+ - [Sources: Butterfly Effect, the Chinese startup behind Manus, has discussed setting up a new HQ outside China, and separating its domestic and global businesses &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/250425/p27#a250425p27)
+ - [Trump DOJ goon threatens Wikipedia](https://www.theverge.com/news/656720/ed-martin-dc-attorney-wikipedia-nonprofit-threat)
+ - [Trump offers a private dinner to his biggest memecoin buyers](https://www.theverge.com/cryptocurrency/656700/trump-contest-meme-coin)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
