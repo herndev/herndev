@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best attributes for each character in Clair Obscur: Expedition 33](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-best-attributes-stats/)
- - [The FBI says cybercriminals were responsible for a record $16,600,000,000 in reported losses last year, up 33% from 2023](https://www.pcgamer.com/software/security/the-fbi-says-cybercriminals-were-responsible-for-a-record-usd16-600-000-000-in-reported-losses-last-year-up-33-percent-from-2023/)
- - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)<!-- GAME:END -->
+ - [How FragPunk’s Shard Cards Are About to Break the Rules for First-Person Shooters](https://news.xbox.com/en-us/2025/04/25/fragpunk-shard-cards-break-the-rules-first-person-shooters/)
+ - [Path of Exile 2 Dawn of the Hunt endgame mechanics explained](https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/)
+ - [Ariana Grande and Travis Scott&amp;#8217;s Fortnite avatars to appear before jury for patent lawsuit](https://www.polygon.com/gaming/565188/epic-games-ariana-grande-travis-scott-fortnite-avatars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
