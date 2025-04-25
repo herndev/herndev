@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After a terrorist attack on india, india decides to stop their water and orders all Pakistanis to go back till Tuesday, all visas are cancelled , borders are closed](http://9gag.com/gag/aByEyG2)
- - ⏩ [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
- - 👉 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)<!-- MEMES:END -->
+ - 💣 [Baby do you remember the money we saved to buy a house?](http://9gag.com/gag/aXP7VjV)
+ - ⏩ [Evil human being](http://9gag.com/gag/aKG8AYZ)
+ - 👉 [Wait a minute, he got the point](http://9gag.com/gag/aqyxXop)<!-- MEMES:END -->
 
 ---
 
