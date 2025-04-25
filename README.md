@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wicked Director And Deadpool Writers Join Split Fiction Movie](https://kotaku.com/split-fiction-movie-director-writer-sydney-chu-deadpool-1851777936)
- - [How to make Cosmic Exploration macros in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/563439/cosmic-exploration-macros-crafting)
- - [Modders somehow cranked out a VR mod for Oblivion Remastered mere hours after its surprise launch](https://www.pcgamer.com/games/the-elder-scrolls/modders-somehow-cranked-out-a-vr-mod-for-oblivion-remastered-mere-hours-after-its-surprise-launch/)<!-- GAME:END -->
+ - [Oblivion Remastered looks so good that I can&#39;t believe I&#39;m saying this: I kinda hope Bethesda remasters Skyrim &lpar;again&rpar; too](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-looks-so-good-that-i-cant-believe-im-saying-this-i-kinda-hope-bethesda-remasters-skyrim-again-too/)
+ - [How to join the Dark Brotherhood in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565589/dark-brotherhood-how-to-join)
+ - [How to join the Thieves Guild in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565586/thieves-guild-how-to-join)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
