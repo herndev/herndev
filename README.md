@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How FragPunk’s Shard Cards Are About to Break the Rules for First-Person Shooters](https://news.xbox.com/en-us/2025/04/25/fragpunk-shard-cards-break-the-rules-first-person-shooters/)
- - [Path of Exile 2 Dawn of the Hunt endgame mechanics explained](https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/)
- - [Ariana Grande and Travis Scott&amp;#8217;s Fortnite avatars to appear before jury for patent lawsuit](https://www.polygon.com/gaming/565188/epic-games-ariana-grande-travis-scott-fortnite-avatars)<!-- GAME:END -->
+ - [Explore Horizon Realms in Forza Horizon 5 – Available Today for Players on All Platforms](https://forza.net/news/forza-horizon-5-ps5-early-access#new_tab)
+ - [Powercolor Radeon RX 9070 GRE pictured which means the new AMD GPU is probably arriving sooner than we expected but it may be restricted to China](https://www.pcgamer.com/hardware/graphics-cards/powercolor-radeon-rx-9070-gre-pictured-which-means-the-new-amd-gpu-is-probably-arriving-sooner-than-we-expected-but-it-may-be-restricted-to-china/)
+ - [Hugo Martin isn&#39;t messing around as he unveils Doom: The Dark Age&#39;s new Cosmic Realm: &#39;Bear witness to the cyclopean architecture of this Lovecraftian dimension!&#39;](https://www.pcgamer.com/games/fps/hugo-martin-isnt-messing-around-as-he-unveils-doom-the-dark-ages-new-cosmic-realm-bear-witness-to-the-cyclopean-architecture-of-this-lovecraftian-dimension/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
