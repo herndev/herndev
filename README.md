@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - ⏩ [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - 👉 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)<!-- MEMES:END -->
+ - 💣 [First time seeing him idiot](http://9gag.com/gag/a348EnQ)
+ - ⏩ [Wait a minute, he got the point](http://9gag.com/gag/aqyxXop)
+ - 👉 [This guy&#39;s DIY audio visualizer](http://9gag.com/gag/aYQMQ3q)<!-- MEMES:END -->
 
 ---
 
