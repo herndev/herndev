@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Two of 2024’s most innovative horror movies are now on Hulu](https://www.polygon.com/what-to-watch/564440/in-violent-nature-azrael-hulu-streaming-horror)
- - [New Intel CEO is looking &#39;for partnership with the industry leader to build purpose-built silicon&#39; for AI, but is he talking about making chips with Nvidia or for OpenAI?](https://www.pcgamer.com/hardware/processors/new-intel-ceo-is-looking-for-partnership-with-the-industry-leader-to-build-purpose-built-silicon-for-ai-but-is-he-talking-about-making-chips-with-nvidia-or-for-openai/)
- - [Modders have torn apart Oblivion Remastered and found &#39;potential&#39; for proper modding, but without tools from Bethesda we&#39;ll need &#39;a lot of reverse engineering work… before modding can be fully realised&#39;](https://www.pcgamer.com/games/the-elder-scrolls/modders-have-torn-apart-oblivion-remastered-and-found-potential-for-proper-modding-but-without-tools-from-bethesda-well-need-a-lot-of-reverse-engineering-work-before-modding-can-be-fully-realised/)<!-- GAME:END -->
+ - [All Genshin Impact 5.6 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-6-livestream/)
+ - [Michael B. Jordan’s Most Badass Physical Performances](https://kotaku.com/michael-b-jordan-sinners-black-panther-fantastic-four-1851777559)
+ - [Oblivion struggling to nail 60 fps on my RTX 5090 was not on my 2025 bingo card, but without frame gen Oblivion Remastered&#39;s top settings bring the card to its knees](https://www.pcgamer.com/hardware/graphics-cards/oblivion-struggling-to-nail-60-fps-on-my-rtx-5090-was-not-on-my-2025-bingo-card-but-without-frame-gen-oblivion-remastereds-top-settings-bring-the-card-to-its-knees/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
