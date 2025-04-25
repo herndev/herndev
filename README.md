@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, April 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-25-2025/)
  - [Every goal and reward in the Phasmophobia Cursed Hollow 2025 event](https://www.pcgamer.com/games/horror/phasmophobia-cursed-hollow/)
- - [Official Xbox Podcast | Deep&lpar;er&rpar; Dive Into Towerborne](https://www.youtube.com/watch?v=V4k-2duv0wk#new_tab)
- - [The Oblivion remaster is so faithful, it still has the secret glitched door to the end of the game that lets you roll credits in under 15 minutes](https://www.pcgamer.com/games/the-elder-scrolls/the-oblivion-remaster-is-so-faithful-it-still-has-the-secret-glitched-door-to-the-end-of-the-game-that-lets-you-roll-credits-in-under-15-minutes/)<!-- GAME:END -->
+ - [Official Xbox Podcast | Deep&lpar;er&rpar; Dive Into Towerborne](https://www.youtube.com/watch?v=V4k-2duv0wk#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
