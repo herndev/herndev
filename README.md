@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - ⏩ [Don&#39;t play with fire](http://9gag.com/gag/a7o9E6w)
- - 👉 [Peaceful people](http://9gag.com/gag/aByEdYN)<!-- MEMES:END -->
+ - 💣 [No context needed](http://9gag.com/gag/aNDBpM0)
+ - ⏩ [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
+ - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
 
 ---
 
