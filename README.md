@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Android 16’s new security mode will stop USB-based attacks](https://www.androidauthority.com/android-16-usb-data-advanced-protection-3548018/)
- - [Nous, which plans to launch an AI training system on Solana using people&#39;s idle computing power, raised a $50M Series A, a source says at a $1B token valuation &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250425/p11#a250425p11)
- - [Aviron Victory Treadmill Review: Get Low](https://www.wired.com/review/aviron-victory-treadmill/)<!-- TECH:END -->
+ - [Boox&amp;#8217;s newest Android e-readers let you take notes](https://www.theverge.com/news/656174/boox-go-7-series-e-ink-e-reader-stylus-color)
+ - [US iPhones Made In India Solve Apple&#39;s Tariff Problem, But Not Its China Problem](https://www.wired.com/story/apple-may-shift-to-making-us-iphones-in-india-it-wont-be-easy/)
+ - [Google Translate could soon get one-tap search for translated text &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-translate-search-shortcut-apk-3548215/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
