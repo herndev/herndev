@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
- - ⏩ [World Map according to Korea in 15th century.](http://9gag.com/gag/agmxAGx)
- - 👉 [Hey :&rpar;](http://9gag.com/gag/awyOMrQ)<!-- MEMES:END -->
+ - 💣 [Nostalgia](http://9gag.com/gag/adBx8KB)
+ - ⏩ [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
+ - 👉 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)<!-- MEMES:END -->
 
 ---
 
