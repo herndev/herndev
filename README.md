@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nostalgia](http://9gag.com/gag/adBx8KB)
- - ⏩ [Sadly it ends](http://9gag.com/gag/aRBvr5j)
- - 👉 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)<!-- MEMES:END -->
+ - 💣 [Really!?](http://9gag.com/gag/a5QzXPr)
+ - ⏩ [New year new me and some coworkers cant handle confidence](http://9gag.com/gag/a6ZBEGN)
+ - 👉 [Peaceful people](http://9gag.com/gag/aByEdYN)<!-- MEMES:END -->
 
 ---
 
