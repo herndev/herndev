@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nostalgia](http://9gag.com/gag/adBx8KB)
- - ⏩ [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
- - 👉 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)<!-- MEMES:END -->
+ - 💣 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
+ - ⏩ [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 👉 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)<!-- MEMES:END -->
 
 ---
 
