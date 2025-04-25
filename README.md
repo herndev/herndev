@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
- - ⏩ [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/avyxemq)
- - 👉 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)<!-- MEMES:END -->
+ - 💣 [The awesome result, when Ubisoft dev manage to escape their terrible company, to create a wonderful game, free from the terrible corpo bullshit](http://9gag.com/gag/ae9x1Kq)
+ - ⏩ [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
+ - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
 
 ---
 
