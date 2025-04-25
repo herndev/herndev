@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every goal and reward in the Phasmophobia Cursed Hollow 2025 event](https://www.pcgamer.com/games/horror/phasmophobia-cursed-hollow/)
  - [Official Xbox Podcast | Deep&lpar;er&rpar; Dive Into Towerborne](https://www.youtube.com/watch?v=V4k-2duv0wk#new_tab)
- - [The Oblivion remaster is so faithful, it still has the secret glitched door to the end of the game that lets you roll credits in under 15 minutes](https://www.pcgamer.com/games/the-elder-scrolls/the-oblivion-remaster-is-so-faithful-it-still-has-the-secret-glitched-door-to-the-end-of-the-game-that-lets-you-roll-credits-in-under-15-minutes/)
- - [EA’s terrific draft-day ad has me pumped for College Football 26 and Madden NFL 26](https://www.polygon.com/news/564751/madden-nfl-college-football-26-release-date-ps5-xbox-switch-2-pc)<!-- GAME:END -->
+ - [The Oblivion remaster is so faithful, it still has the secret glitched door to the end of the game that lets you roll credits in under 15 minutes](https://www.pcgamer.com/games/the-elder-scrolls/the-oblivion-remaster-is-so-faithful-it-still-has-the-secret-glitched-door-to-the-end-of-the-game-that-lets-you-roll-credits-in-under-15-minutes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
