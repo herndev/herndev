@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
- - ⏩ [Dress shoes was putting in work](http://9gag.com/gag/aRBvrb5)
- - 👉 [No context needed](http://9gag.com/gag/aNDBpM0)<!-- MEMES:END -->
+ - 💣 [Cutting wood](http://9gag.com/gag/aAyM0xd)
+ - ⏩ [Oops!](http://9gag.com/gag/aD2b4eO)
+ - 👉 [Good old days...](http://9gag.com/gag/aVvZb8y)<!-- MEMES:END -->
 
 ---
 
