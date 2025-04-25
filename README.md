@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
- - ⏩ [UK take notes](http://9gag.com/gag/aQzmEYe)
- - 👉 [Your money or your life](http://9gag.com/gag/aVvZ7Ey)<!-- MEMES:END -->
+ - ⏩ [Fish sticks are back on the menu](http://9gag.com/gag/a87eGdd)
+ - 👉 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)<!-- MEMES:END -->
 
 ---
 
