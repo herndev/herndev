@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why are companies lining up to buy Chrome?](https://www.theverge.com/chrome/656613/google-chrome-buyers-openai-yahoo-perplexity)
- - [Nothing Phone 3a is finally getting this missing Android 15 privacy feature](https://www.androidauthority.com/nothing-phone-3a-private-space-3548393/)
- - [Sources: Microsoft plans to increase the use of third-party firms for selling software to SMBs; in-house sellers will get more training and focus on AI products &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250425/p25#a250425p25)<!-- TECH:END -->
+ - [Gmail gets a slider on Android tablets, AI on the side](https://www.theverge.com/news/656708/gmail-app-gemini-image-generator-workspace-ios-material-3)
+ - [GE CYNC Outdoor Smart Plug deal: Make your outdoor electronics smart on the cheap!](https://www.androidauthority.com/ge-cync-smart-plug-deal-3548421/)
+ - [Deel sues Rippling for alleged defamation, libel, and deceptive trade practices, says Rippling placed an insider within Deel, is not tax compliant, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250425/p26#a250425p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
