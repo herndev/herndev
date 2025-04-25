@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First time seeing him idiot](http://9gag.com/gag/a348EnQ)
- - ⏩ [Wait a minute, he got the point](http://9gag.com/gag/aqyxXop)
- - 👉 [This guy&#39;s DIY audio visualizer](http://9gag.com/gag/aYQMQ3q)<!-- MEMES:END -->
+ - 💣 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
+ - ⏩ [UK take notes](http://9gag.com/gag/aQzmEYe)
+ - 👉 [After a terrorist attack on india, india decides to stop their water and orders all Pakistanis to go back till Tuesday, all visas are cancelled , borders are closed](http://9gag.com/gag/aByEyG2)<!-- MEMES:END -->
 
 ---
 
