@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebooks could get a boost from Snapdragon X Plus chips soon](https://www.theverge.com/news/656496/chromebook-qualcomm-snapdragon-x-plus)
- - [Infinity Nikki is coming soon to Steam and will add co-op mode](https://www.theverge.com/games/656486/infinity-nikki-co-op-steam-bubble-season)
- - [NASA’s Perseverance Rover Finds Strange Rocks on Mars](https://www.wired.com/story/nasa-rover-finds-strange-rocks-on-mars-perseverance-curiosity/)<!-- TECH:END -->
+ - [Look out Galaxy S23 owners, One UI 7 is finally available in the US](https://www.androidauthority.com/galaxy-s23-stable-one-ui-7-rollout-3548364/)
+ - [Deliveroo, which listed in London with a £7.6B valuation in 2021, says it received a buyout proposal from DoorDash that would value the company at £2.7B &lpar;Financial Times&rpar;](http://www.techmeme.com/250425/p21#a250425p21)
+ - [Sources: Chinese AI startup Manus raised $75M led by Benchmark at a $500M valuation, and plans to expand to markets including the US, Japan, and the Middle East &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p20#a250425p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
