@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vacuuming some wasps](http://9gag.com/gag/avyxzQZ)
- - ⏩ [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
- - 👉 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)<!-- MEMES:END -->
+ - 💣 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
+ - ⏩ [Dress shoes was putting in work](http://9gag.com/gag/aRBvrb5)
+ - 👉 [No context needed](http://9gag.com/gag/aNDBpM0)<!-- MEMES:END -->
 
 ---
 
