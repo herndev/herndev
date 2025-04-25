@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cutting wood](http://9gag.com/gag/aAyM0xd)
- - ⏩ [Oops!](http://9gag.com/gag/aD2b4eO)
- - 👉 [Good old days...](http://9gag.com/gag/aVvZb8y)<!-- MEMES:END -->
+ - 💣 [Nostalgia](http://9gag.com/gag/adBx8KB)
+ - ⏩ [Sadly it ends](http://9gag.com/gag/aRBvr5j)
+ - 👉 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)<!-- MEMES:END -->
 
 ---
 
