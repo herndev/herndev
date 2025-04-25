@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to move assembly of all US-sold iPhones, ~60M/year, to India by the end of 2026, as President Trump&#39;s trade war pushes a pivot from China &lpar;Financial Times&rpar;](http://www.techmeme.com/250425/p1#a250425p1)
  - [ChatGPT will now let everyone ‘Deep Research’ anything they want](https://www.androidauthority.com/chatgpt-deep-research-lightweight-expansion-3548045/)
- - [YouTube is testing a new AI Overviews carousel in its search results for queries focused on products and location information, for some US Premium subscribers &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/250424/p45#a250424p45)
- - [Sources: the US is conducting a criminal antitrust probe into TP-Link&#39;s pricing strategies and whether the router maker represents a national security threat &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p44#a250424p44)<!-- TECH:END -->
+ - [YouTube is testing a new AI Overviews carousel in its search results for queries focused on products and location information, for some US Premium subscribers &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/250424/p45#a250424p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
