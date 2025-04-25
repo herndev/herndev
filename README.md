@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CMF is teasing a unique camera accessory for the Phone 2 Pro](https://www.androidauthority.com/cmf-phone-2-pro-lens-accessory-3548232/)
- - [CalDigit Element 5 Hub review: A fast and reliable Thunderbolt 5 hub with only the essentials](https://appleinsider.com/articles/25/04/25/caldigit-element-5-hub-review-a-fast-and-reliable-thunderbolt-5-hub-with-only-the-essentials?utm_medium=rss)
- - [Sources: the US pushed back against EU&#39;s AI code of practice; the code is voluntary, still being finalized, and aims to help companies comply with the AI Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p14#a250425p14)<!-- TECH:END -->
+ - [Waymo might be willing to sell you a self-driving car, says Sundar Pichai](https://www.theverge.com/news/656267/waymo-self-driving-car-personal-long-term-business-earnings)
+ - [CB Insights: fintech startups globally raised a combined $10.3B in Q1, the highest since Q1 2023; 19 US fintech startups have raised over $50M in 2025 so far &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250425/p15#a250425p15)
+ - [Get ready for these tiny One UI 7 design quirks to ruin your day](https://www.androidauthority.com/one-ui-7-design-quirks-3548277/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
