@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US is conducting a criminal antitrust probe into TP-Link&#39;s pricing strategies and whether the router maker represents a national security threat &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p44#a250424p44)
- - [This $25,000 Electric Slate Truck Transforms Into an SUV](https://www.cnet.com/roadshow/news/this-25000-slate-electric-truck-transforms-into-an-suv/#ftag=CAD590a51e)
- - [Keep It Simple: New Slate Truck Could Be Next Year&#39;s Cheapest EV](https://www.cnet.com/roadshow/pictures/keep-it-simple-new-slate-truck-could-be-next-years-cheapest-ev/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT will now let everyone ‘Deep Research’ anything they want](https://www.androidauthority.com/chatgpt-deep-research-lightweight-expansion-3548045/)
+ - [YouTube is testing a new AI Overviews carousel in its search results for queries focused on products and location information, for some US Premium subscribers &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/250424/p45#a250424p45)
+ - [Sources: the US is conducting a criminal antitrust probe into TP-Link&#39;s pricing strategies and whether the router maker represents a national security threat &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p44#a250424p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
