@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We can finally play 2006&#39;s flip phone-exclusive Monster Hunter port thanks to the tireless work of game preservationists and fan translators](https://www.pcgamer.com/games/action/we-can-finally-play-2006s-flip-phone-exclusive-monster-hunter-port-thanks-to-the-tireless-work-of-game-preservationists-and-fan-translators/)
- - [Sunrise on the Reaping proves it: The Hunger Games movies perfected the casting formula](https://www.polygon.com/movies/565534/hunger-games-casting-sunrise-reaping-haymitch)
- - [Kotaku’s Weekend Guide: 5 Games We’re Psyched To Jump Back Into](https://kotaku.com/kotaku-games-to-play-clair-obscur-oblivion-old-skies-1851777952)<!-- GAME:END -->
+ - [EA&#39;s Skate reboot is always online, and you know what that means](https://www.pcgamer.com/games/sports/eas-skate-reboot-is-always-online-and-you-know-what-that-means/)
+ - [Andor Season 2 Is So Good We Can&#39;t Stop Talking About It](https://kotaku.com/star-wars-andor-season-2-review-discussion-so-good-1851777959)
+ - [Babygirl, No Other Land, Netflix’s Havoc, and every movie new to streaming this weekend](https://www.polygon.com/what-to-watch/561862/new-movies-watch-streaming-babygirl-no-other-land-havoc-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
