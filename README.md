@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix rolls out subtitles with just spoken dialog, without audio cues or speaker names, and says ~50% of US viewing hours happen with subtitles or captions on &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250424/p42#a250424p42)
- - [The best power stations from Jackery and Anker are on sale](https://www.androidauthority.com/jackery-explorer-5000-plus-anker-solix-f3800-plus-deals-3547965/)
- - [Razer Releases a Vertical Edition Ergonomic Mouse](https://www.cnet.com/tech/computing/razer-releases-a-vertical-edition-ergonomic-mouse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Slate Auto’s $25K Electric Pickup Is Here: Pricing, Specs, Range, Release Date](https://www.wired.com/story/slate-auto-electric-pickup/)
+ - [The $20,000 American-made electric pickup with no paint, no stereo, and no touchscreen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
+ - [Tabletop game companies sue Trump to stop tariffs](https://www.theverge.com/news/656074/trump-tariffs-lawsuit-tabletop-game-companies-stonemaier-princess-awesome)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
