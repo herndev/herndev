@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore Horizon Realms in Forza Horizon 5 – Available Today for Players on All Platforms](https://forza.net/news/forza-horizon-5-ps5-early-access#new_tab)
- - [Powercolor Radeon RX 9070 GRE pictured which means the new AMD GPU is probably arriving sooner than we expected but it may be restricted to China](https://www.pcgamer.com/hardware/graphics-cards/powercolor-radeon-rx-9070-gre-pictured-which-means-the-new-amd-gpu-is-probably-arriving-sooner-than-we-expected-but-it-may-be-restricted-to-china/)
- - [Hugo Martin isn&#39;t messing around as he unveils Doom: The Dark Age&#39;s new Cosmic Realm: &#39;Bear witness to the cyclopean architecture of this Lovecraftian dimension!&#39;](https://www.pcgamer.com/games/fps/hugo-martin-isnt-messing-around-as-he-unveils-doom-the-dark-ages-new-cosmic-realm-bear-witness-to-the-cyclopean-architecture-of-this-lovecraftian-dimension/)<!-- GAME:END -->
+ - [Bag More Treasure When You Learn How To Lockpick In Oblivion Remastered](https://kotaku.com/oblivion-remastered-lockpicking-minigame-win-skills-1851777900)
+ - [How to recruit followers in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565330/followers-list-all-how-to-recruit)
+ - [How To Save Cyrodiil By Leveling Up Fast In Oblivion Remastered](https://kotaku.com/oblivion-remastered-level-up-fast-grind-arena-dungeon-1851777893)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
