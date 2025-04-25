@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
- - ⏩ [UK take notes](http://9gag.com/gag/aQzmEYe)
- - 👉 [After a terrorist attack on india, india decides to stop their water and orders all Pakistanis to go back till Tuesday, all visas are cancelled , borders are closed](http://9gag.com/gag/aByEyG2)<!-- MEMES:END -->
+ - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - ⏩ [Don&#39;t play with fire](http://9gag.com/gag/a7o9E6w)
+ - 👉 [Peaceful people](http://9gag.com/gag/aByEdYN)<!-- MEMES:END -->
 
 ---
 
