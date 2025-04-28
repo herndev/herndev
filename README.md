@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA&#39;s Skate reboot is always online, and you know what that means](https://www.pcgamer.com/games/sports/eas-skate-reboot-is-always-online-and-you-know-what-that-means/)
- - [Andor Season 2 Is So Good We Can&#39;t Stop Talking About It](https://kotaku.com/star-wars-andor-season-2-review-discussion-so-good-1851777959)
- - [Babygirl, No Other Land, Netflix’s Havoc, and every movie new to streaming this weekend](https://www.polygon.com/what-to-watch/561862/new-movies-watch-streaming-babygirl-no-other-land-havoc-netflix)<!-- GAME:END -->
+ - [&#39;If the players own the game, they&#39;ll make it fantastic&#39;: Larian CEO Swen Vincke doubles down on defense of Baldur&#39;s Gate 3 Stardew Valley mod and the modding community overall](https://www.pcgamer.com/games/baldurs-gate/if-the-players-own-the-game-theyll-make-it-fantastic-larian-ceo-swen-vincke-doubles-down-on-defense-of-baldurs-gate-3-stardew-valley-mod-and-the-modding-community-overall/)
+ - [&#39;Stories are our bread and butter&#39;: Larian is building a special team to lay out the plot of its games years in advance](https://www.pcgamer.com/games/baldurs-gate/stories-are-our-bread-and-butter-larian-is-building-a-special-team-to-lay-out-the-plot-of-its-games-years-in-advance/)
+ - [Larian boss Swen Vincke says the studio is &#39;deep in the trenches&#39; on its &#39;crazy-ambitious&#39; follow up to Baldur&#39;s Gate 3, hopes to show it off no later than 2030 because &#39;my wife will divorce me if it takes longer&#39;](https://www.pcgamer.com/games/baldurs-gate/larian-boss-swen-vincke-says-the-studio-is-deep-in-the-trenches-on-its-crazy-ambitious-follow-up-to-baldurs-gate-3-hopes-to-show-it-off-no-later-than-2030-because-my-wife-will-divorce-me-if-it-takes-longer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
