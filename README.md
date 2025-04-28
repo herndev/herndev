@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blowtorch vs paper cut with water](http://9gag.com/gag/a87eVQQ)
- - ⏩ [The Sandfall Interactive team who created Clair obscure: Expedition 33...no blue-haired women, no shaved-headed guys with red lipstick. The game is a masterpiece. Coincidence?](http://9gag.com/gag/aRBvy32)
- - 👉 [Whoa. Cool hai...](http://9gag.com/gag/a6ZBGEq)<!-- MEMES:END -->
+ - 💣 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
+ - ⏩ [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
+ - 👉 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)<!-- MEMES:END -->
 
 ---
 
