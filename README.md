@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)
- - ⏩ [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
- - 👉 [The Sandfall Interactive team who created Clair obscure: Expedition 33...no blue-haired women, no shaved-headed guys with red lipstick. The game is a masterpiece. Coincidence?](http://9gag.com/gag/aRBvy32)<!-- MEMES:END -->
+ - 💣 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
+ - ⏩ [Safety always comes first..](http://9gag.com/gag/aLnANYg)
+ - 👉 [Stacey&#39;s Got It Going On](http://9gag.com/gag/aPAeXdR)<!-- MEMES:END -->
 
 ---
 
