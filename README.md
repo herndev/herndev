@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fights India antitrust claims by boasting how much developers have been paid](https://appleinsider.com/articles/25/04/28/apple-fights-india-antitrust-claims-by-boasting-how-much-developers-have-been-paid?utm_medium=rss)
- - [Oxo Rapid Brewer Review &lpar;2025&rpar;: Fast, Tasty Cold Brew](https://www.wired.com/review/oxo-rapid-brewer/)
- - [Poop Drones Are Keeping Sewers Running So Humans Don&#39;t Have to](https://www.wired.com/story/poop-drones-are-keeping-sewers-running-so-humans-dont-have-to/)<!-- TECH:END -->
+ - [Widespread power outage hits Spain and neighboring countries France and Portugal](https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe)
+ - [Apple TV+ hits &#39;Slow Horses&#39; and &#39;Bad Sisters&#39; honored by UK&#39;s Bafta](https://appleinsider.com/articles/25/04/28/apple-tv-hits-slow-horses-and-bad-sisters-honored-by-uks-bafta?utm_medium=rss)
+ - [Spotify says it has paid $100M+ to podcast publishers and creators since January 2025 via a new creator program based on Premium subscriber video engagement &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250428/p7#a250428p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
