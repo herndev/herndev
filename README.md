@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Widespread power outage hits Spain and neighboring countries France and Portugal](https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe)
- - [Apple TV+ hits &#39;Slow Horses&#39; and &#39;Bad Sisters&#39; honored by UK&#39;s Bafta](https://appleinsider.com/articles/25/04/28/apple-tv-hits-slow-horses-and-bad-sisters-honored-by-uks-bafta?utm_medium=rss)
- - [Spotify says it has paid $100M+ to podcast publishers and creators since January 2025 via a new creator program based on Premium subscriber video engagement &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250428/p7#a250428p7)<!-- TECH:END -->
+ - [Netflix’s Tudum 2025 event will stream live next month](https://www.theverge.com/news/656687/netflix-tudum-2025-streaming-date)
+ - [Tel Aviv-based Lightrun, an observability platform that uses AI to identify and debug code in production, raised a $70M Series B co-led by Accel and Insight &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250428/p11#a250428p11)
+ - [Which Instax Camera Should You Buy?](https://www.wired.com/gallery/which-instax-camera-should-you-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
