@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DHL restarts deliveries of international packages worth more than $800](https://www.theverge.com/news/657489/dhl-shipment-resume-us-tariffs-business-to-consumer)
- - [Consumers get ahead of tariffs, Morgan Stanley hikes AAPL price target to $235](https://appleinsider.com/articles/25/04/28/consumers-get-ahead-of-tariffs-morgan-stanley-hikes-aapl-price-target-to-235?utm_medium=rss)
- - [The DJI Phantom is no more](https://www.theverge.com/news/657359/dji-phantom-drone-line-end-of-life-4-pro-advanced)<!-- TECH:END -->
+ - [Around 50% of US adults say AI will have a negative impact on news over the next 20 years; 10% say a positive effect; 59% say AI will lead to fewer journalists &lpar;Michael Lipka/Pew Research Center&rpar;](http://www.techmeme.com/250428/p24#a250428p24)
+ - [GOG is adding some classic Star Wars games to its preservation program](https://www.theverge.com/news/657540/gog-star-wars-game-preservation-program)
+ - [Samsung is bringing back a ‘Classic’ for the Galaxy Watch 8](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-sig-listing-3548829/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
