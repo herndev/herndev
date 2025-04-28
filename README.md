@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch heroes are mechs in the new Gundam Wing crossover](https://www.polygon.com/pc/565419/overwatch-gundam-wing-skins-collab)
- - [UK government says Нет to British companies selling game controllers to Russia, to combat the use of drone attacks](https://www.pcgamer.com/hardware/controllers/uk-government-says-net-to-british-companies-selling-game-controllers-to-russia-to-combat-the-use-of-drone-attacks/)
- - [The Best Star Wars Games Ever Made Are On Sale Right Now](https://kotaku.com/star-wars-games-may-4th-sale-gog-preservation-pc-deals-1851778109)<!-- GAME:END -->
+ - [Every Murderbot book is up to 45% off ahead of the Apple TV Plus show](https://www.polygon.com/good-deals/565807/murderbot-book-deals)
+ - [Wholesome Direct returns in June, packing ‘about 60’ cozy games](https://www.polygon.com/news/565869/wholesome-direct-2025-date-time-cozy-games)
+ - [Bethesda wants you to suggest ideas for Oblivion Remastered, so get over there and tell it to add more shortcut slots and a difficulty between Adept and Expert](https://www.pcgamer.com/games/the-elder-scrolls/bethesda-wants-you-to-suggest-ideas-for-oblivion-remastered-so-get-over-there-and-tell-it-to-add-more-shortcut-slots-and-a-difficulty-between-adept-and-expert/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
