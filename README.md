@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ultra-faithful Oblivion Remastered inexplicably fouls up a key bit of Dark Brotherhood lore with a gussied-up door texture](https://www.pcgamer.com/games/the-elder-scrolls/ultra-faithful-oblivion-remastered-inexplicably-fouls-up-a-key-bit-of-dark-brotherhood-lore-with-a-gussied-up-door-texture/)
- - [Green Minecraft &#39;Creeper Milk&#39; is made with &#39;petroleum-based synthetic dyes&#39; that even the Trump administration wants to ban](https://www.pcgamer.com/games/survival-crafting/green-minecraft-creeper-milk-is-made-with-petroleum-based-synthetic-dyes-that-even-the-trump-administration-wants-to-ban/)
- - [Fill out this PC Gamer brand survey for a chance to win a £250/$300 Amazon voucher](https://www.pcgamer.com/pcgamersurvey/)<!-- GAME:END -->
+ - [Microsoft Recall finally launches for AI PC users, along with some other new features, almost one year after Copilot+ was announced](https://www.pcgamer.com/software/windows/microsoft-recall-finally-launches-for-ai-pc-users-along-with-some-other-new-features-almost-one-year-after-copilot-was-announced/)
+ - [AMD&#39;s RX 9000M-series mobile GPUs are rumoured to top out with an RX 9080M featuring 64 CUs and 16 GB of VRAM](https://www.pcgamer.com/hardware/graphics-cards/amds-rx-9000m-series-mobile-gpus-are-rumoured-to-top-out-with-an-rx-9080m-featuring-64-cus-and-16-gb-of-vram/)
+ - [Ultra-faithful Oblivion Remastered inexplicably fouls up a key bit of Dark Brotherhood lore with a gussied-up door texture](https://www.pcgamer.com/games/the-elder-scrolls/ultra-faithful-oblivion-remastered-inexplicably-fouls-up-a-key-bit-of-dark-brotherhood-lore-with-a-gussied-up-door-texture/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
