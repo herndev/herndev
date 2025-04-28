@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet will finally let you add cards the way you always wanted &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-add-cards-nfc-apk-teardown-3548577/)
- - [How to Watch the Eta Aquariids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [Google Chrome won the browser wars fair and square, and the web will be worse off if Google is forced to sell it, even to atone for ad market monopoly abuses &lpar;David Heinemeier Hansson/HEY&rpar;](http://www.techmeme.com/250428/p3#a250428p3)<!-- TECH:END -->
+ - [German defense startup ARX Robotics, which makes self-driving, modular battlefield robots, raised €31M led by HV Capital and plans to build a plant in England &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250428/p6#a250428p6)
+ - [A deep dive on Apple&#39;s iPhone manufacturing process, including 2,700 parts from 187 suppliers in 28 countries; just 30 suppliers have no presence in China &lpar;Financial Times&rpar;](http://www.techmeme.com/250428/p5#a250428p5)
+ - [Donald Trump Is Already Ruining Christmas](https://www.wired.com/story/christmas-toys-trump-tariffs-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
