@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Predator](http://9gag.com/gag/an7xEjz)
+ - 💣 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
  - ⏩ [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
- - 👉 [Yay for old memes](http://9gag.com/gag/aLnAm6z)<!-- MEMES:END -->
+ - 👉 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)<!-- MEMES:END -->
 
 ---
 
