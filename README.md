@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
- - ⏩ [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
- - 👉 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)<!-- MEMES:END -->
+ - 💣 [Gotta promote the business](http://9gag.com/gag/awyOv3B)
+ - ⏩ [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
+ - 👉 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)<!-- MEMES:END -->
 
 ---
 
