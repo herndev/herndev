@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
- - ⏩ [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
- - 👉 [Yay for old memes](http://9gag.com/gag/aLnAm6z)<!-- MEMES:END -->
+ - ⏩ [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
+ - 👉 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)<!-- MEMES:END -->
 
 ---
 
