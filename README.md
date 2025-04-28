@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What?](http://9gag.com/gag/aYQMqd7)
- - ⏩ [Title go here](http://9gag.com/gag/a0enOWZ)
- - 👉 [French citizen of Bosnian ancestry stabs a muslim in a French mosque. Then takes a cell phone out and records a dying victim while insulting Islam](http://9gag.com/gag/a87ezo6)<!-- MEMES:END -->
+ - 💣 [Time to bring back memes #17](http://9gag.com/gag/a7o9NAb)
+ - ⏩ [Yay for old memes](http://9gag.com/gag/aLnAm6z)
+ - 👉 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)<!-- MEMES:END -->
 
 ---
 
