@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
- - ⏩ [Title go here](http://9gag.com/gag/a0enOWZ)
- - 👉 [They are cooked](http://9gag.com/gag/a6ZBxQA)<!-- MEMES:END -->
+ - 💣 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
+ - ⏩ [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
+ - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
 
 ---
 
