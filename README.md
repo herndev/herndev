@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Butterfly Effect, the Chinese startup behind Manus, has discussed setting up a new HQ outside China, and separating its domestic and global businesses &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/250425/p27#a250425p27)
- - [Trump DOJ goon threatens Wikipedia](https://www.theverge.com/news/656720/ed-martin-dc-attorney-wikipedia-nonprofit-threat)
- - [Trump offers a private dinner to his biggest memecoin buyers](https://www.theverge.com/cryptocurrency/656700/trump-contest-meme-coin)<!-- TECH:END -->
+ - [Geoffrey Hinton fears AI companies are under-investing in safety research, embracing military usage, and sharing model weights while pushing for less regulation &lpar;CBS Mornings on YouTube&rpar;](http://www.techmeme.com/250427/p16#a250427p16)
+ - [A profile of Darktrace CEO Jill Popelka, who joined the British cyber security firm in Jan. 2024 and was at the helm when it was bought by Thoma Bravo for £4.3B &lpar;Anjli Raval/Financial Times&rpar;](http://www.techmeme.com/250427/p15#a250427p15)
+ - [Your Kidneys Deserve Better -- These 13 Superfoods Can Help](https://www.cnet.com/health/nutrition/your-kidneys-deserve-better-these-13-superfoods-can-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
