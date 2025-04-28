@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vance and the Don are allying us with them, happy noises.](http://9gag.com/gag/a9ymVXo)
- - ⏩ [A Movie so bad it drives people who watched it to turn Mad](http://9gag.com/gag/ae9xRPB)
- - 👉 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)<!-- MEMES:END -->
+ - 💣 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
+ - ⏩ [Title go here](http://9gag.com/gag/a0enOWZ)
+ - 👉 [They are cooked](http://9gag.com/gag/a6ZBxQA)<!-- MEMES:END -->
 
 ---
 
