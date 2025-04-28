@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
- - ⏩ [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
- - 👉 [Spreading love without hair](http://9gag.com/gag/aoyx8qg)<!-- MEMES:END -->
+ - 💣 [Go woke, get broke](http://9gag.com/gag/aoyx852)
+ - ⏩ [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
+ - 👉 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)<!-- MEMES:END -->
 
 ---
 
