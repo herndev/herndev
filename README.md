@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Around 50% of US adults say AI will have a negative impact on news over the next 20 years; 10% say a positive effect; 59% say AI will lead to fewer journalists &lpar;Michael Lipka/Pew Research Center&rpar;](http://www.techmeme.com/250428/p24#a250428p24)
- - [GOG is adding some classic Star Wars games to its preservation program](https://www.theverge.com/news/657540/gog-star-wars-game-preservation-program)
- - [Samsung is bringing back a ‘Classic’ for the Galaxy Watch 8](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-sig-listing-3548829/)<!-- TECH:END -->
+ - [Alibaba unveils the Qwen3 family of open-weight &quot;hybrid&quot; AI reasoning models, including Qwen3-235B-A22B, with 235B total parameters and 22B activated parameters &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250428/p26#a250428p26)
+ - [Apple reportedly scraps stronger anti-reflective display planned for iPhone 17](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)
+ - [&amp;#8216;Video games are not manufactured in China,’ Playasia reassures tariff-wary customers](https://www.theverge.com/news/657560/playasia-video-games-manufactured-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
