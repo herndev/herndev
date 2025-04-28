@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t Let Steam&#39;s Latest Sale Push You Around](https://kotaku.com/steam-sale-box-pushing-fest-baba-is-you-sokoban-1851778135)
- - [Something Really Weird &lpar;And Rare&rpar; Is Happening At The Box Office](https://kotaku.com/sinners-box-office-drop-star-wars-revenge-of-the-sith-1851778143)
- - [Elden Ring Nightreign system requirements are good news if you haven&#39;t upgraded your PC since you played Elden Ring](https://www.pcgamer.com/games/action/elden-ring-nightreign-pc-system-requirements/)<!-- GAME:END -->
+ - [Here’s what Donkey Kong Bananza might have looked like with DK’s old design](https://www.polygon.com/nintendo-switch-2/566016/donkey-kong-bananza-old-design-edit)
+ - [Jackson’s residents were right to vote against Ellie](https://www.polygon.com/last-of-us/566008/tlou-ellie-episode-3-leaving-choice-jackson)
+ - [How To Get All Three Tokens In Clair Obscur: Expedition 33&#39;s Party Scene](https://kotaku.com/clair-obscur-33-party-festival-tokens-antoine-answers-1851778153)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
