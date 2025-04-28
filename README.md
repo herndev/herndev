@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
- - ⏩ [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
- - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
+ - ⏩ [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
+ - 👉 [Spreading love without hair](http://9gag.com/gag/aoyx8qg)<!-- MEMES:END -->
 
 ---
 
