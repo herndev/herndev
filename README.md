@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘It was real cat wrangling’: Alex Horne and Greg Davies on Taskmaster’s ‘chaotic’ series 19](https://www.polygon.com/tv/512159/taskmaster-series-19-alex-horne-greg-davies-interview-jason-mantzoukas-american-fans)
- - [And just like that, this fungal &#39;friend group&#39; FPS channeling Deep Rock and Helldivers is at the top of my 2025 wishlist](https://www.pcgamer.com/games/fps/and-just-like-that-this-fungal-friend-group-fps-channeling-deep-rock-and-helldivers-is-at-the-top-of-my-2025-wishlist/)
- - [A mimic monster may come to REPO in the future, but it has to be &#39;really interesting&#39; before it does](https://www.pcgamer.com/games/horror/a-mimic-monster-may-come-to-repo-in-the-future-but-it-has-to-be-really-interesting-before-it-does/)<!-- GAME:END -->
+ - [Overwatch heroes are mechs in the new Gundam Wing crossover](https://www.polygon.com/pc/565419/overwatch-gundam-wing-skins-collab)
+ - [UK government says Нет to British companies selling game controllers to Russia, to combat the use of drone attacks](https://www.pcgamer.com/hardware/controllers/uk-government-says-net-to-british-companies-selling-game-controllers-to-russia-to-combat-the-use-of-drone-attacks/)
+ - [The Best Star Wars Games Ever Made Are On Sale Right Now](https://kotaku.com/star-wars-games-may-4th-sale-gog-preservation-pc-deals-1851778109)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
