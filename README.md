@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2025 Mother’s Day gift guide](https://www.theverge.com/tech/647527/best-mothers-day-gift-ideas-2025-mom-tech-gadgets)
- - [A deep dive on GPT-4o&#39;s tendency to give sycophantic responses, an issue Sam Altman promised to fix and that may be caused by OpenAI optimizing for engagement &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250428/p20#a250428p20)
- - [Last call: Surfshark VPN deals from $1.99/mo end April 30](https://appleinsider.com/articles/25/04/28/last-call-surfshark-vpn-deals-from-199mo-end-april-30?utm_medium=rss)<!-- TECH:END -->
+ - [DHL restarts deliveries of international packages worth more than $800](https://www.theverge.com/news/657489/dhl-shipment-resume-us-tariffs-business-to-consumer)
+ - [Consumers get ahead of tariffs, Morgan Stanley hikes AAPL price target to $235](https://appleinsider.com/articles/25/04/28/consumers-get-ahead-of-tariffs-morgan-stanley-hikes-aapl-price-target-to-235?utm_medium=rss)
+ - [The DJI Phantom is no more](https://www.theverge.com/news/657359/dji-phantom-drone-line-end-of-life-4-pro-advanced)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
