@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skin Deep review](https://www.pcgamer.com/games/fps/skin-deep-review/)
- - [Long-lost Hong Kong action classics from John Woo, Tsui Hark, and more finally getting 4K and digital releases](https://www.polygon.com/action/565452/best-hong-kong-action-classics-4k-restorations)
- - [Did You Catch The Change In The Last Of Us’ Opening Credits This Week?](https://kotaku.com/last-of-us-opening-credits-title-sequence-joel-ellie-1851777889)<!-- GAME:END -->
+ - [Action heroes, normal jobs](https://www.polygon.com/action/551760/action-heroes-normal-jobs-movies-list-ranked)
+ - [What time does Forza Horizon 5 release on PS5?](https://www.polygon.com/guides/565761/forza-horizon-5-ps5-release-time-date)
+ - [This odd but surprisingly well-priced mini ITX motherboard from Minisforum packs an embedded AMD X3D processor](https://www.pcgamer.com/hardware/motherboards/this-odd-but-surprisingly-well-priced-mini-itx-motherboard-from-minisforum-packs-an-embedded-amd-x3d-processor/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
