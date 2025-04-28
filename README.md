@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fired FTC commissioners on fighting for their jobs back](https://www.theverge.com/decoder-podcast-with-nilay-patel/657115/ftc-bedoya-slaughter-trump-fired-supreme-court-interview)
- - [Nothing’s new budget phone has a telephoto lens and a modular camera system](https://www.androidauthority.com/nothing-cmf-phone-2-pro-earbuds-3547838/)
- - [After using the CMF Phone 2 Pro, I can’t believe it costs just $279](https://www.androidauthority.com/cmf-phone-2-pro-review-3548372/)<!-- TECH:END -->
+ - [America is living in tariff limbo](https://www.theverge.com/tech/656695/trump-tariffs-china-canada-mexico-trade-war-anxiety)
+ - [OnePlus backs off its Watch 3’s huge price hike](https://www.theverge.com/news/657170/oneplus-watch-3-price-hike-reversed)
+ - [7 Best Flower Delivery Services of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
