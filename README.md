@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
- - ⏩ [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
+ - 💣 [Vance and the Don are allying us with them, happy noises.](http://9gag.com/gag/a9ymVXo)
+ - ⏩ [A Movie so bad it drives people who watched it to turn Mad](http://9gag.com/gag/ae9xRPB)
  - 👉 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)<!-- MEMES:END -->
 
 ---
