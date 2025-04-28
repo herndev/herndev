@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Alvaro Bedoya and Rebecca Slaughter who Trump fired, likely illegally, as FTC commissioners, on Meta, fighting for privacy, and bribes in the US &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250428/p17#a250428p17)
- - [Shein, Temu Prices Surge as High as 377% Ahead of Tariff Increases](https://www.cnet.com/news/politics/shein-temu-prices-surge-as-high-as-377-ahead-of-tariff-increases/#ftag=CAD590a51e)
- - [Kia Electric Pickup Truck: What We Know So Far About the New EV](https://www.cnet.com/roadshow/news/kia-electric-pickup-truck-what-we-know-so-far-about-the-new-ev/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT is getting better for shopping](https://www.theverge.com/news/656729/openai-chatgpt-search-shopping)
+ - [An Acclaimed Book About Digital Manipulation Was Actually Written by AI](https://www.wired.com/story/an-acclaimed-book-about-digital-manipulation-was-actually-written-by-ai/)
+ - [P-1 AI, which is developing an AI-powered engineering agent and hopes AI can eventually design complex machines, emerges from stealth with $23M in seed funding &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250428/p18#a250428p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
