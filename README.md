@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta promote the business](http://9gag.com/gag/awyOv3B)
- - ⏩ [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
+ - 💣 [Vance and the Don are allying us with them, happy noises.](http://9gag.com/gag/a9ymVXo)
+ - ⏩ [Gotta promote the business](http://9gag.com/gag/awyOv3B)
  - 👉 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)<!-- MEMES:END -->
 
 ---
