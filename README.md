@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)
- - ⏩ [Predator](http://9gag.com/gag/an7xEjz)
- - 👉 [Oh no!](http://9gag.com/gag/aO89pN3)<!-- MEMES:END -->
+ - 💣 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
+ - ⏩ [Is it too late?](http://9gag.com/gag/a87eD0p)
+ - 👉 [LoL](http://9gag.com/gag/a4PAqby)<!-- MEMES:END -->
 
 ---
 
