@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
- - ⏩ [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
- - 👉 [Safety always comes first..](http://9gag.com/gag/aLnANYg)<!-- MEMES:END -->
+ - 💣 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)
+ - ⏩ [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
+ - 👉 [Old stuff is back](http://9gag.com/gag/aryxdn6)<!-- MEMES:END -->
 
 ---
 
