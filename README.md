@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces a special Android event ahead of I/O](https://www.theverge.com/news/656589/google-android-event-io-2025)
- - [Google Pixel Watch 2 plunges to $149.99 in best deal of the year](https://www.androidauthority.com/google-pixel-watch-2-deal-3548714/)
- - [Widespread power outage hits Spain and neighboring countries France and Portugal](https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe)<!-- TECH:END -->
+ - [Neurotech companies are selling your brain data, senators warn](https://www.theverge.com/policy/657202/ftc-letter-senators-neurotech-companies-brain-computer-interface)
+ - [Apple’s most affordable iPad is now the cheapest it’s ever been](https://www.theverge.com/tech/657256/apple-eleventh-generation-ipad-deal-sale)
+ - [The Pixel Watch 2 is now on sale for $100 off](https://www.theverge.com/tech/657220/pixel-watch-apple-ue-buds-sale-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
