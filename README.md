@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, April 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-28-2025/)
  - [The Last of Us’ post-apocalyptic homophobia reveals its shallow setting](https://www.polygon.com/last-of-us/564518/tlou-season-2-seth-homophobia)
- - [The Last Of Us Season Two, Episode Three Recap: On The Road Again](https://kotaku.com/last-of-us-season-2-episode-3-recap-review-ellie-dina-1851778010)
- - [Five new Steam games you probably missed &lpar;April 28, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-28-2025/)<!-- GAME:END -->
+ - [The Last Of Us Season Two, Episode Three Recap: On The Road Again](https://kotaku.com/last-of-us-season-2-episode-3-recap-review-ellie-dina-1851778010)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
