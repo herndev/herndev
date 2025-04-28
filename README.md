@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After a &#39;catastrophic&#39; hack, 4chan has risen from the grave: &#39;No other website can replace it, or this community&#39;](https://www.pcgamer.com/games/after-a-catastrophic-hack-4chan-has-risen-from-the-grave-no-other-website-can-replace-it-or-this-community/)
  - [Today&#39;s Wordle answer for Monday, April 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-28-2025/)
- - [The Last of Us’ post-apocalyptic homophobia reveals its shallow setting](https://www.polygon.com/last-of-us/564518/tlou-season-2-seth-homophobia)
- - [The Last Of Us Season Two, Episode Three Recap: On The Road Again](https://kotaku.com/last-of-us-season-2-episode-3-recap-review-ellie-dina-1851778010)<!-- GAME:END -->
+ - [The Last of Us’ post-apocalyptic homophobia reveals its shallow setting](https://www.polygon.com/last-of-us/564518/tlou-season-2-seth-homophobia)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
