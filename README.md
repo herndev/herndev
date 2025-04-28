@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI tools like Autistic Translator and Goblin Tools are helping those with autism and other neurodiverse people understand social situations &lpar;Andrea Jiménez/Washington Post&rpar;](http://www.techmeme.com/250428/p1#a250428p1)
- - [T-Mobile does the unthinkable: Cuts price for a new service instead of a hike](https://www.androidauthority.com/t-mobile-t-satellite-new-pricing-3548599/)
- - [How to Watch the Eta Aquariids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)<!-- TECH:END -->
+ - [While Big Tech is largely spared from tariffs, small companies making devices like baby monitors face price hikes, shortages, and degrading product quality &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/250428/p2#a250428p2)
+ - [The Galaxy S25 Edge could come with titanium bezels and yet-unreleased Gorilla Glass variant](https://www.androidauthority.com/samsung-galaxy-s25-edge-gorilla-glass-ceramic-2-leak-3548610/)
+ - [How AI tools like Autistic Translator and Goblin Tools are helping those with autism and other neurodiverse people understand social situations &lpar;Andrea Jiménez/Washington Post&rpar;](http://www.techmeme.com/250428/p1#a250428p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
