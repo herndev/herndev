@@ -39,7 +39,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the sprawling network of group chats that began in 2020 as a place for SV leaders to talk candidly, with Marc Andreessen playing a central role &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250427/p18#a250427p18)
+ - [A look at the sprawling network of group chats that surged in 2020 as a place for SV leaders to talk candidly, with Marc Andreessen playing a central role &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250427/p18#a250427p18)
  - [Huawei&#39;s recovery shows the limits of US policies aimed at restricting China, and how those policies can backfire, spurring Chinese firms to innovate and grow &lpar;Samm Sacks/Bloomberg&rpar;](http://www.techmeme.com/250427/p17#a250427p17)
  - [Best Internet Providers in Stamford, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-stamford-ct/#ftag=CAD590a51e)<!-- TECH:END -->
 
