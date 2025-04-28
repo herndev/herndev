@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go woke, get broke](http://9gag.com/gag/aoyx852)
+ - 💣 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)
  - ⏩ [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
- - 👉 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)<!-- MEMES:END -->
+ - 👉 [The Sandfall Interactive team who created Clair obscure: Expedition 33...no blue-haired women, no shaved-headed guys with red lipstick. The game is a masterpiece. Coincidence?](http://9gag.com/gag/aRBvy32)<!-- MEMES:END -->
 
 ---
 
