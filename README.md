@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blowtorch vs paper cut with water](http://9gag.com/gag/a87eVQQ)
- - ⏩ [Go woke, get broke](http://9gag.com/gag/aoyx852)
- - 👉 [Women&#39;s section,` he said. `Easy,` he thought.](http://9gag.com/gag/a5QzqYO)<!-- MEMES:END -->
+ - 💣 [Predator](http://9gag.com/gag/an7xEjz)
+ - ⏩ [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
+ - 👉 [Yay for old memes](http://9gag.com/gag/aLnAm6z)<!-- MEMES:END -->
 
 ---
 
