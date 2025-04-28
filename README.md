@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
- - ⏩ [Is it too late?](http://9gag.com/gag/a87eD0p)
- - 👉 [LoL](http://9gag.com/gag/a4PAqby)<!-- MEMES:END -->
+ - 💣 [Blowtorch vs paper cut with water](http://9gag.com/gag/a87eVQQ)
+ - ⏩ [Go woke, get broke](http://9gag.com/gag/aoyx852)
+ - 👉 [Women&#39;s section,` he said. `Easy,` he thought.](http://9gag.com/gag/a5QzqYO)<!-- MEMES:END -->
 
 ---
 
