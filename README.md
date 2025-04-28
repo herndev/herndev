@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s Tudum 2025 event will stream live next month](https://www.theverge.com/news/656687/netflix-tudum-2025-streaming-date)
- - [Tel Aviv-based Lightrun, an observability platform that uses AI to identify and debug code in production, raised a $70M Series B co-led by Accel and Insight &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250428/p11#a250428p11)
- - [Which Instax Camera Should You Buy?](https://www.wired.com/gallery/which-instax-camera-should-you-buy/)<!-- TECH:END -->
+ - [Fired FTC commissioners on fighting for their jobs back](https://www.theverge.com/decoder-podcast-with-nilay-patel/657115/ftc-bedoya-slaughter-trump-fired-supreme-court-interview)
+ - [Nothing’s new budget phone has a telephoto lens and a modular camera system](https://www.androidauthority.com/nothing-cmf-phone-2-pro-earbuds-3547838/)
+ - [After using the CMF Phone 2 Pro, I can’t believe it costs just $279](https://www.androidauthority.com/cmf-phone-2-pro-review-3548372/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
