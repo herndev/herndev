@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ultra-faithful Oblivion Remastered inexplicably fouls up a key bit of Dark Brotherhood lore with a gussied-up door texture](https://www.pcgamer.com/games/the-elder-scrolls/ultra-faithful-oblivion-remastered-inexplicably-fouls-up-a-key-bit-of-dark-brotherhood-lore-with-a-gussied-up-door-texture/)
  - [Green Minecraft &#39;Creeper Milk&#39; is made with &#39;petroleum-based synthetic dyes&#39; that even the Trump administration wants to ban](https://www.pcgamer.com/games/survival-crafting/green-minecraft-creeper-milk-is-made-with-petroleum-based-synthetic-dyes-that-even-the-trump-administration-wants-to-ban/)
- - [Fill out this PC Gamer brand survey for a chance to win a £250/$300 Amazon voucher](https://www.pcgamer.com/pcgamersurvey/)
- - [When does the Celestial Guardians expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/565202/celestial-guardians-expansion-release-time-date-pdt-edt-bst)<!-- GAME:END -->
+ - [Fill out this PC Gamer brand survey for a chance to win a £250/$300 Amazon voucher](https://www.pcgamer.com/pcgamersurvey/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
