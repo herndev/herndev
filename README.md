@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball: Sparking Zero Is Almost Certainly Coming To Switch 2](https://kotaku.com/dragon-ball-sparking-zero-is-almost-certainly-coming-t-1851778176)
- - [Swen Vincke says Larian didn&#39;t do Baldur&#39;s Gate 3 DLC because the idea is &#39;boring… there&#39;s just no passion&#39;](https://www.pcgamer.com/games/baldurs-gate/swen-vincke-says-larian-didnt-do-baldurs-gate-3-dlc-because-the-idea-is-boring-theres-just-no-passion/)
- - [Here’s what Donkey Kong Bananza might have looked like with DK’s old design](https://www.polygon.com/nintendo-switch-2/566016/donkey-kong-bananza-old-design-edit)<!-- GAME:END -->
+ - [Russia accuses World of Tanks executives of &#39;extremist activities,&#39; moves to seize assets of Russian publisher](https://www.pcgamer.com/games/mmo/russia-accuses-world-of-tanks-executives-of-extremist-activities-moves-to-seize-assets-of-russian-publisher/)
+ - [All ‘Pilgrimage’ wayshrine locations in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/566132/pilgrimage-wayshrines-locations-all-where-to-find-walkthrough)
+ - [Clair Obscur: Expedition 33: The Kotaku Review](https://kotaku.com/clair-obscur-expedition-33-rpg-review-in-progress-1851777402)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
