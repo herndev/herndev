@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT is getting better for shopping](https://www.theverge.com/news/656729/openai-chatgpt-search-shopping)
- - [An Acclaimed Book About Digital Manipulation Was Actually Written by AI](https://www.wired.com/story/an-acclaimed-book-about-digital-manipulation-was-actually-written-by-ai/)
- - [P-1 AI, which is developing an AI-powered engineering agent and hopes AI can eventually design complex machines, emerges from stealth with $23M in seed funding &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250428/p18#a250428p18)<!-- TECH:END -->
+ - [The Verge’s 2025 Mother’s Day gift guide](https://www.theverge.com/tech/647527/best-mothers-day-gift-ideas-2025-mom-tech-gadgets)
+ - [A deep dive on GPT-4o&#39;s tendency to give sycophantic responses, an issue Sam Altman promised to fix and that may be caused by OpenAI optimizing for engagement &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250428/p20#a250428p20)
+ - [Last call: Surfshark VPN deals from $1.99/mo end April 30](https://appleinsider.com/articles/25/04/28/last-call-surfshark-vpn-deals-from-199mo-end-april-30?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
