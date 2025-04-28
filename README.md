@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neurotech companies are selling your brain data, senators warn](https://www.theverge.com/policy/657202/ftc-letter-senators-neurotech-companies-brain-computer-interface)
- - [Apple’s most affordable iPad is now the cheapest it’s ever been](https://www.theverge.com/tech/657256/apple-eleventh-generation-ipad-deal-sale)
- - [The Pixel Watch 2 is now on sale for $100 off](https://www.theverge.com/tech/657220/pixel-watch-apple-ue-buds-sale-deal)<!-- TECH:END -->
+ - [Q&amp;A with Alvaro Bedoya and Rebecca Slaughter who Trump fired, likely illegally, as FTC commissioners, on Meta, fighting for privacy, and bribes in the US &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250428/p17#a250428p17)
+ - [Shein, Temu Prices Surge as High as 377% Ahead of Tariff Increases](https://www.cnet.com/news/politics/shein-temu-prices-surge-as-high-as-377-ahead-of-tariff-increases/#ftag=CAD590a51e)
+ - [Kia Electric Pickup Truck: What We Know So Far About the New EV](https://www.cnet.com/roadshow/news/kia-electric-pickup-truck-what-we-know-so-far-about-the-new-ev/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
