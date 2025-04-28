@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Russia accuses World of Tanks executives of &#39;extremist activities,&#39; moves to seize assets of Russian publisher](https://www.pcgamer.com/games/mmo/russia-accuses-world-of-tanks-executives-of-extremist-activities-moves-to-seize-assets-of-russian-publisher/)
- - [All ‘Pilgrimage’ wayshrine locations in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/566132/pilgrimage-wayshrines-locations-all-where-to-find-walkthrough)
- - [Clair Obscur: Expedition 33: The Kotaku Review](https://kotaku.com/clair-obscur-expedition-33-rpg-review-in-progress-1851777402)<!-- GAME:END -->
+ - [Minecraft Movie Getting New Screenings That Encourage Wild Behavior](https://kotaku.com/minecraft-movie-chicken-jockey-meme-chaos-block-party-1851778197)
+ - [Crusader Kings 3 rides into the Steam best sellers atop a 70% sale and new Mongol-centric DLC](https://www.pcgamer.com/games/sim/crusader-kings-3-rides-into-the-steam-best-sellers-atop-a-70-percent-sale-and-new-mongol-centric-dlc/)
+ - [Where to buy lockpicks in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565791/lockpicks-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
