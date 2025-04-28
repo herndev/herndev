@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Murderbot book is up to 45% off ahead of the Apple TV Plus show](https://www.polygon.com/good-deals/565807/murderbot-book-deals)
- - [Wholesome Direct returns in June, packing ‘about 60’ cozy games](https://www.polygon.com/news/565869/wholesome-direct-2025-date-time-cozy-games)
- - [Bethesda wants you to suggest ideas for Oblivion Remastered, so get over there and tell it to add more shortcut slots and a difficulty between Adept and Expert](https://www.pcgamer.com/games/the-elder-scrolls/bethesda-wants-you-to-suggest-ideas-for-oblivion-remastered-so-get-over-there-and-tell-it-to-add-more-shortcut-slots-and-a-difficulty-between-adept-and-expert/)<!-- GAME:END -->
+ - [Don&#39;t Let Steam&#39;s Latest Sale Push You Around](https://kotaku.com/steam-sale-box-pushing-fest-baba-is-you-sokoban-1851778135)
+ - [Something Really Weird &lpar;And Rare&rpar; Is Happening At The Box Office](https://kotaku.com/sinners-box-office-drop-star-wars-revenge-of-the-sith-1851778143)
+ - [Elden Ring Nightreign system requirements are good news if you haven&#39;t upgraded your PC since you played Elden Ring](https://www.pcgamer.com/games/action/elden-ring-nightreign-pc-system-requirements/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
