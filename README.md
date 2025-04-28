@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [America is living in tariff limbo](https://www.theverge.com/tech/656695/trump-tariffs-china-canada-mexico-trade-war-anxiety)
- - [OnePlus backs off its Watch 3’s huge price hike](https://www.theverge.com/news/657170/oneplus-watch-3-price-hike-reversed)
- - [7 Best Flower Delivery Services of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)<!-- TECH:END -->
+ - [Google announces a special Android event ahead of I/O](https://www.theverge.com/news/656589/google-android-event-io-2025)
+ - [Google Pixel Watch 2 plunges to $149.99 in best deal of the year](https://www.androidauthority.com/google-pixel-watch-2-deal-3548714/)
+ - [Widespread power outage hits Spain and neighboring countries France and Portugal](https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
