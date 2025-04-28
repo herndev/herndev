@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s what Donkey Kong Bananza might have looked like with DK’s old design](https://www.polygon.com/nintendo-switch-2/566016/donkey-kong-bananza-old-design-edit)
- - [Jackson’s residents were right to vote against Ellie](https://www.polygon.com/last-of-us/566008/tlou-ellie-episode-3-leaving-choice-jackson)
- - [How To Get All Three Tokens In Clair Obscur: Expedition 33&#39;s Party Scene](https://kotaku.com/clair-obscur-33-party-festival-tokens-antoine-answers-1851778153)<!-- GAME:END -->
+ - [Dragon Ball: Sparking Zero Is Almost Certainly Coming To Switch 2](https://kotaku.com/dragon-ball-sparking-zero-is-almost-certainly-coming-t-1851778176)
+ - [Swen Vincke says Larian didn&#39;t do Baldur&#39;s Gate 3 DLC because the idea is &#39;boring… there&#39;s just no passion&#39;](https://www.pcgamer.com/games/baldurs-gate/swen-vincke-says-larian-didnt-do-baldurs-gate-3-dlc-because-the-idea-is-boring-theres-just-no-passion/)
+ - [Here’s what Donkey Kong Bananza might have looked like with DK’s old design](https://www.polygon.com/nintendo-switch-2/566016/donkey-kong-bananza-old-design-edit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
