@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;April 28, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-28-2025/)
  - [&#39;If the players own the game, they&#39;ll make it fantastic&#39;: Larian CEO Swen Vincke doubles down on defense of Baldur&#39;s Gate 3 Stardew Valley mod and the modding community overall](https://www.pcgamer.com/games/baldurs-gate/if-the-players-own-the-game-theyll-make-it-fantastic-larian-ceo-swen-vincke-doubles-down-on-defense-of-baldurs-gate-3-stardew-valley-mod-and-the-modding-community-overall/)
- - [&#39;Stories are our bread and butter&#39;: Larian is building a special team to lay out the plot of its games years in advance](https://www.pcgamer.com/games/baldurs-gate/stories-are-our-bread-and-butter-larian-is-building-a-special-team-to-lay-out-the-plot-of-its-games-years-in-advance/)
- - [Larian boss Swen Vincke says the studio is &#39;deep in the trenches&#39; on its &#39;crazy-ambitious&#39; follow up to Baldur&#39;s Gate 3, hopes to show it off no later than 2030 because &#39;my wife will divorce me if it takes longer&#39;](https://www.pcgamer.com/games/baldurs-gate/larian-boss-swen-vincke-says-the-studio-is-deep-in-the-trenches-on-its-crazy-ambitious-follow-up-to-baldurs-gate-3-hopes-to-show-it-off-no-later-than-2030-because-my-wife-will-divorce-me-if-it-takes-longer/)<!-- GAME:END -->
+ - [&#39;Stories are our bread and butter&#39;: Larian is building a special team to lay out the plot of its games years in advance](https://www.pcgamer.com/games/baldurs-gate/stories-are-our-bread-and-butter-larian-is-building-a-special-team-to-lay-out-the-plot-of-its-games-years-in-advance/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
