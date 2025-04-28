@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [While Big Tech is largely spared from tariffs, small companies making devices like baby monitors face price hikes, shortages, and degrading product quality &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/250428/p2#a250428p2)
- - [The Galaxy S25 Edge could come with titanium bezels and yet-unreleased Gorilla Glass variant](https://www.androidauthority.com/samsung-galaxy-s25-edge-gorilla-glass-ceramic-2-leak-3548610/)
- - [How AI tools like Autistic Translator and Goblin Tools are helping those with autism and other neurodiverse people understand social situations &lpar;Andrea Jiménez/Washington Post&rpar;](http://www.techmeme.com/250428/p1#a250428p1)<!-- TECH:END -->
+ - [Google Wallet will finally let you add cards the way you always wanted &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-add-cards-nfc-apk-teardown-3548577/)
+ - [How to Watch the Eta Aquariids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
+ - [Google Chrome won the browser wars fair and square, and the web will be worse off if Google is forced to sell it, even to atone for ad market monopoly abuses &lpar;David Heinemeier Hansson/HEY&rpar;](http://www.techmeme.com/250428/p3#a250428p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
