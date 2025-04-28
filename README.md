@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Action heroes, normal jobs](https://www.polygon.com/action/551760/action-heroes-normal-jobs-movies-list-ranked)
- - [What time does Forza Horizon 5 release on PS5?](https://www.polygon.com/guides/565761/forza-horizon-5-ps5-release-time-date)
- - [This odd but surprisingly well-priced mini ITX motherboard from Minisforum packs an embedded AMD X3D processor](https://www.pcgamer.com/hardware/motherboards/this-odd-but-surprisingly-well-priced-mini-itx-motherboard-from-minisforum-packs-an-embedded-amd-x3d-processor/)<!-- GAME:END -->
+ - [‘It was real cat wrangling’: Alex Horne and Greg Davies on Taskmaster’s ‘chaotic’ series 19](https://www.polygon.com/tv/512159/taskmaster-series-19-alex-horne-greg-davies-interview-jason-mantzoukas-american-fans)
+ - [And just like that, this fungal &#39;friend group&#39; FPS channeling Deep Rock and Helldivers is at the top of my 2025 wishlist](https://www.pcgamer.com/games/fps/and-just-like-that-this-fungal-friend-group-fps-channeling-deep-rock-and-helldivers-is-at-the-top-of-my-2025-wishlist/)
+ - [A mimic monster may come to REPO in the future, but it has to be &#39;really interesting&#39; before it does](https://www.pcgamer.com/games/horror/a-mimic-monster-may-come-to-repo-in-the-future-but-it-has-to-be-really-interesting-before-it-does/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
