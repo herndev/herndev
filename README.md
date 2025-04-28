@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [When does the Celestial Guardians expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/565202/celestial-guardians-expansion-release-time-date-pdt-edt-bst)
  - [After a &#39;catastrophic&#39; hack, 4chan has risen from the grave: &#39;No other website can replace it, or this community&#39;](https://www.pcgamer.com/games/after-a-catastrophic-hack-4chan-has-risen-from-the-grave-no-other-website-can-replace-it-or-this-community/)
- - [Today&#39;s Wordle answer for Monday, April 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-28-2025/)
- - [The Last of Us’ post-apocalyptic homophobia reveals its shallow setting](https://www.polygon.com/last-of-us/564518/tlou-season-2-seth-homophobia)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, April 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-28-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
