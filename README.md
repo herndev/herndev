@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Recall finally launches for AI PC users, along with some other new features, almost one year after Copilot+ was announced](https://www.pcgamer.com/software/windows/microsoft-recall-finally-launches-for-ai-pc-users-along-with-some-other-new-features-almost-one-year-after-copilot-was-announced/)
- - [AMD&#39;s RX 9000M-series mobile GPUs are rumoured to top out with an RX 9080M featuring 64 CUs and 16 GB of VRAM](https://www.pcgamer.com/hardware/graphics-cards/amds-rx-9000m-series-mobile-gpus-are-rumoured-to-top-out-with-an-rx-9080m-featuring-64-cus-and-16-gb-of-vram/)
- - [Ultra-faithful Oblivion Remastered inexplicably fouls up a key bit of Dark Brotherhood lore with a gussied-up door texture](https://www.pcgamer.com/games/the-elder-scrolls/ultra-faithful-oblivion-remastered-inexplicably-fouls-up-a-key-bit-of-dark-brotherhood-lore-with-a-gussied-up-door-texture/)<!-- GAME:END -->
+ - [Skin Deep review](https://www.pcgamer.com/games/fps/skin-deep-review/)
+ - [Long-lost Hong Kong action classics from John Woo, Tsui Hark, and more finally getting 4K and digital releases](https://www.polygon.com/action/565452/best-hong-kong-action-classics-4k-restorations)
+ - [Did You Catch The Change In The Last Of Us’ Opening Credits This Week?](https://kotaku.com/last-of-us-opening-credits-title-sequence-joel-ellie-1851777889)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
