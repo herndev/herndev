@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time to bring back memes #17](http://9gag.com/gag/a7o9NAb)
- - ⏩ [Yay for old memes](http://9gag.com/gag/aLnAm6z)
- - 👉 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)<!-- MEMES:END -->
+ - 💣 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)
+ - ⏩ [Predator](http://9gag.com/gag/an7xEjz)
+ - 👉 [Oh no!](http://9gag.com/gag/aO89pN3)<!-- MEMES:END -->
 
 ---
 
