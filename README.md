@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the sprawling network of group chats that surged in 2020 as a place for SV leaders to talk candidly, with Marc Andreessen playing a central role &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250427/p18#a250427p18)
- - [Huawei&#39;s recovery shows the limits of US policies aimed at restricting China, and how those policies can backfire, spurring Chinese firms to innovate and grow &lpar;Samm Sacks/Bloomberg&rpar;](http://www.techmeme.com/250427/p17#a250427p17)
- - [Best Internet Providers in Stamford, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-stamford-ct/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Interpol&#39;s innovation lab in Singapore for studying cybercrime, digital piracy, and more, and developing new techniques for bringing down criminals &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/250427/p19#a250427p19)
+ - [The Chromecast with Google TV is reborn…with a new name!](https://www.androidauthority.com/thomson-cast-150-chromecast-replacement-3548542/)
+ - [A look at the sprawling network of group chats that surged in 2020 as a place for SV leaders to talk candidly, with Marc Andreessen playing a central role &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250427/p18#a250427p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
