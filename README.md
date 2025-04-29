@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Duolingo CEO Luis von Ahn says the company will &quot;gradually stop using contractors to do work that AI can handle&quot;, as part of a shift to become &quot;AI-first&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250428/p31#a250428p31)
  - [Plans for iPhone 17 anti-reflective &amp; scratch proof display scrapped](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)
- - [Deal: Google Pixel 9 plummets to its all-time low price](https://www.androidauthority.com/google-pixel-9-deal-3548886/)
- - [Critics fear the Take It Down Act, one of the few online safety laws to pass in years, could be weaponized against content the Trump admin or its allies dislike &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250428/p30#a250428p30)<!-- TECH:END -->
+ - [Deal: Google Pixel 9 plummets to its all-time low price](https://www.androidauthority.com/google-pixel-9-deal-3548886/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
