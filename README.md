@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I hope Dune: Awakening&#39;s base-building get weirder and wilder than what we saw in the beta, because it&#39;s going up against decades of killer Dune artwork](https://www.pcgamer.com/games/survival-crafting/i-hope-dune-awakenings-base-building-get-weirder-and-wilder-than-what-we-saw-in-the-beta-because-its-going-up-against-decades-of-killer-dune-artwork/)
  - [Oblivion Remastered has nearly tripled how much Skooma you can chug at once, ringing in a new era of drug-fueled super speed](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-has-nearly-tripled-how-much-skooma-you-can-chug-at-once-ringing-in-a-new-era-of-drug-fueled-super-speed/)
- - [Minecraft Movie Getting New Screenings That Encourage Wild Behavior](https://kotaku.com/minecraft-movie-chicken-jockey-meme-chaos-block-party-1851778197)
- - [Crusader Kings 3 rides into the Steam best sellers atop a 70% sale and new Mongol-centric DLC](https://www.pcgamer.com/games/sim/crusader-kings-3-rides-into-the-steam-best-sellers-atop-a-70-percent-sale-and-new-mongol-centric-dlc/)<!-- GAME:END -->
+ - [Minecraft Movie Getting New Screenings That Encourage Wild Behavior](https://kotaku.com/minecraft-movie-chicken-jockey-meme-chaos-block-party-1851778197)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
