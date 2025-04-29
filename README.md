@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So they are the same in everywhere?](http://9gag.com/gag/ae9xz3Q)
- - ⏩ [Decades ahead of rest of the world](http://9gag.com/gag/aKG8y1Q)
- - 👉 [Nailed it!](http://9gag.com/gag/aYQMvqN)<!-- MEMES:END -->
+ - 💣 [Bluetooth](http://9gag.com/gag/axyO8MD)
+ - ⏩ [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
+ - 👉 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)<!-- MEMES:END -->
 
 ---
 
