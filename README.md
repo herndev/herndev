@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [100.000+ protesters in Ireland against the mass immigration invasion of Ireland](http://9gag.com/gag/amoxpn9)
- - ⏩ [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
- - 👉 [I was there 3000 years ago](http://9gag.com/gag/aYQMZ8v)<!-- MEMES:END -->
+ - 💣 [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
+ - ⏩ [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
+ - 👉 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)<!-- MEMES:END -->
 
 ---
 
