@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
- - ⏩ [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
- - 👉 [Bluetooth](http://9gag.com/gag/axyO8MD)<!-- MEMES:END -->
+ - 💣 [Bots studying for the last 48 hours](http://9gag.com/gag/aAyMqEZ)
+ - ⏩ [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
+ - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
 
 ---
 
