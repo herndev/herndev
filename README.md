@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft remembers it owns Splinter Cell, patches Steam achievements into Blacklist 12 years after it first came out](https://www.pcgamer.com/games/action/ubisoft-remembers-it-owns-splinter-cell-patches-steam-achievements-into-blacklist-12-years-after-it-first-came-out/)
- - [Dragon Age creator says Clair Obscur: Expedition 33 is &#39;kind of to JRPGs what Baldur&#39;s Gate 3 was to CRPGs&#39;](https://www.pcgamer.com/games/rpg/dragon-age-creator-says-clair-obscur-expedition-33-is-kind-of-to-jrpgs-what-baldurs-gate-3-was-to-crpgs/)
- - [Speedy card battler Arcane Rush has just launched a new Gauntlet mode](https://www.pcgamer.com/games/speedy-card-battler-arcane-rush-has-just-launched-a-new-gauntlet-mode/)<!-- GAME:END -->
+ - [&#39;There are currently three Xbox controller prototypes&#39;: New cloud gaming-enabled controller report suggests everything really is an Xbox](https://www.pcgamer.com/hardware/controllers/there-are-currently-three-xbox-controller-prototypes-new-cloud-gaming-enabled-controller-report-suggests-everything-really-is-an-xbox/)
+ - [Borderlands 4 Is Launching 11 Days Earlier Than Planned](https://kotaku.com/borderlands-4-date-moved-up-gta-6-2k-randy-pitchford-1851778271)
+ - [Baldur&#39;s Gate 3 And Nier Automata Directors React To AI Hype](https://kotaku.com/larian-baldurs-gate-3-nier-automata-ai-chatgpt-1851778257)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
