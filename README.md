@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
- - ⏩ [Which movie You Could Watch Over and Over Again Without Getting Bored?, this is mine.](http://9gag.com/gag/a7o9njq)
- - 👉 [That&#39;s not mom](http://9gag.com/gag/a6ZBGz2)<!-- MEMES:END -->
+ - ⏩ [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
+ - 👉 [Oh no!](http://9gag.com/gag/aO89pN3)<!-- MEMES:END -->
 
 ---
 
