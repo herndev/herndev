@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
- - ⏩ [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
- - 👉 [Oh no!](http://9gag.com/gag/aO89pN3)<!-- MEMES:END -->
+ - 💣 [I was there 3000 years ago](http://9gag.com/gag/aYQMZ8v)
+ - ⏩ [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
+ - 👉 [Never trust the older brother...](http://9gag.com/gag/aGyGNvK)<!-- MEMES:END -->
 
 ---
 
