@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Note from Stoic – Towerborne Arrives on Xbox Today](https://news.xbox.com/en-us/2025/04/29/towerborne-launch-xbox/)
- - [Devs lament Oblivion Remastered&#39;s surprise release as Todd Howard eats their lunch: &#39;I noticed a complete stop in game sales from about 2 pm onward on Oblivion day&#39;](https://www.pcgamer.com/games/the-elder-scrolls/devs-lament-oblivion-remastereds-surprise-release-as-todd-howard-eats-their-lunch-i-noticed-a-complete-stop-in-game-sales-from-about-2-pm-onward-on-oblivion-day/)
- - [Elden Ring legend Let Me Solo Her finally played Bloodborne, and came across new levels of pain: &#39;This boss took me more tries than any previous boss&#39;](https://www.pcgamer.com/games/rpg/elden-ring-legend-let-me-solo-her-finally-played-bloodborne-and-came-across-new-levels-of-pain-this-boss-took-me-more-tries-than-any-previous-boss/)<!-- GAME:END -->
+ - [Towerborne Arrives on Xbox Today – Five Tips to Help You “Ace” Your Adventure](https://news.xbox.com/en-us/2025/04/29/towerborne-arrives-on-xbox-today-five-tips-to-help-you-ace-your-adventure/)
+ - [How To Get Every Blossomdance Festival Ticket And Cosmetic In Monster Hunter Wilds&#39; First Limited-Time Event](https://kotaku.com/monster-hunter-wilds-blossomdance-event-tickets-1851778319)
+ - [The Ultimate Beginner’s Guide to Oblivion Remastered: Potions, Guilds, and Free Housing](https://kotaku.com/ultimate-beginner-guide-oblivion-remastered-potions-1851778285)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
