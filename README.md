@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Flappy Bird returns on Android, now without the weird crypto stuff](https://www.polygon.com/news/566791/flappy-bird-android-epic-games-store-web3-crypto)
- - [How to get a free First Order Stormtrooper outfit in Fortnite](https://www.polygon.com/fortnite-guide/565982/free-first-order-stormtrooper-outfit-how-to-get)
- - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)<!-- GAME:END -->
+ - [Stardew Valley Creator Is Focused On Finishing His Next Game](https://kotaku.com/stardew-valley-concerenedape-haunted-chocolatier-update-1851778392)
+ - [Moldwasher Is A Power-Washing Sim For Pixel Art Perverts](https://kotaku.com/power-washing-sim-steam-moldwasher-trailer-1851778382)
+ - [Flappy Bird returns on Android, now without the weird crypto stuff](https://www.polygon.com/news/566791/flappy-bird-android-epic-games-store-web3-crypto)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
