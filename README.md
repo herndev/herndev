@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After getting Stardew Valley to &#39;a good place&#39; with update 1.6, Eric Barone is now fully focused on his next game: &#39;I&#39;m committed to not working on Stardew Valley until I&#39;m done with Haunted Chocolatier&#39;](https://www.pcgamer.com/games/life-sim/after-getting-stardew-valley-to-a-good-place-with-update-1-6-eric-barone-is-now-fully-focused-on-his-next-game-im-committed-to-not-working-on-stardew-valley-until-im-done-with-haunted-chocolatier/)
- - [Altered TCG’s wild new print-on-demand service is now live](https://www.polygon.com/gaming/566638/altered-tcg-print-on-demand-launch-price-availability)
- - [Star Wars: Jedi Studio Doesn&#39;t Mention Layoffs In Announcement About Laying Developers Off](https://kotaku.com/respawn-layoffs-star-wars-jedi-apex-legends-titanfall-1851778330)<!-- GAME:END -->
+ - [Eric Barone says Stardew Valley was about &#39;the fundamentals of human sustenance,&#39; while Haunted Chocolatier is about &#39;what&#39;s next&#39;: &#39;There&#39;s another realm of the human experience&#39;](https://www.pcgamer.com/games/life-sim/eric-barone-says-stardew-valley-was-about-the-fundamentals-of-human-sustenance-while-haunted-chocolatier-is-about-whats-next-theres-another-realm-of-the-human-experience/)
+ - [Titanfall Extraction Shooter Reportedly Canceled As EA Lays Off Hundreds](https://kotaku.com/respawn-layoffs-star-wars-jedi-apex-legends-titanfall-1851778330)
+ - [How to get the Skeleton Key in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/566382/skeleton-key-location-how-to-get-nocturnal-quest-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
