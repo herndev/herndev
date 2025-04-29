@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yellowjackets&#39; Most Disturbing Moments So Far, Ranked](https://kotaku.com/yellowjackets-showtime-cannibals-shauna-lottie-taissa-1851778184)
- - [AMD and Samsung demo 8K 120 Hz gaming and I am really, really struggling to care](https://www.pcgamer.com/hardware/gaming-monitors/amd-and-samsung-demo-8k-120-hz-gaming-and-i-am-really-really-struggling-to-care/)
- - [Nvidia has just released yet another GPU driver hotfix to add further fixes to the other hotfix driver it released last week. And it still hasn&#39;t really fixed things](https://www.pcgamer.com/hardware/graphics-cards/nvidia-has-just-released-yet-another-gpu-driver-hotfix-to-add-further-fixes-to-the-other-hotfix-driver-it-released-last-week-and-it-still-hasnt-really-fixed-things/)<!-- GAME:END -->
+ - [The best new RPG books of 2025 so far](https://www.polygon.com/gaming/566127/best-new-rpg-books-2025)
+ - [With Larian finally at the end of its journey with Baldur&#39;s Gate 3, what do we want next from the new kings of the RPG?](https://www.pcgamer.com/games/baldurs-gate/with-larian-finally-at-the-end-of-its-journey-with-baldurs-gate-3-what-do-we-want-next-from-the-new-kings-of-the-rpg/)
+ - [Fortnite&#39;s rarest collaboration has returned to the store after a 1,794 day absence](https://www.pcgamer.com/games/battle-royale/fortnites-rarest-collaboration-has-returned-to-the-store-after-a-1-794-day-absence/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
