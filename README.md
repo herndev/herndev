@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I hope Dune: Awakening&#39;s base-building get weirder and wilder than what we saw in the beta, because it&#39;s going up against decades of killer Dune artwork](https://www.pcgamer.com/games/survival-crafting/i-hope-dune-awakenings-base-building-get-weirder-and-wilder-than-what-we-saw-in-the-beta-because-its-going-up-against-decades-of-killer-dune-artwork/)
- - [Oblivion Remastered has nearly tripled how much Skooma you can chug at once, ringing in a new era of drug-fueled super speed](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-has-nearly-tripled-how-much-skooma-you-can-chug-at-once-ringing-in-a-new-era-of-drug-fueled-super-speed/)
- - [Minecraft Movie Getting New Screenings That Encourage Wild Behavior](https://kotaku.com/minecraft-movie-chicken-jockey-meme-chaos-block-party-1851778197)<!-- GAME:END -->
+ - [Dark Souls 2 cut content includes a giant enemy crab wearing a castle tower as a shell which you could enter from above for massive damage](https://www.pcgamer.com/games/dark-souls/dark-souls-2-cut-content-includes-a-giant-enemy-crab-wearing-a-castle-tower-as-a-shell-which-you-could-enter-from-above-for-massive-damage/)
+ - [There&#39;s a reason Oblivion Remastered&#39;s new voice actors all sound familiar: It&#39;s a huge Skyrim reunion](https://www.pcgamer.com/games/the-elder-scrolls/theres-a-reason-oblivion-remastereds-new-voice-actors-all-sound-familiar-its-a-huge-skyrim-reunion/)
+ - [I hope Dune: Awakening&#39;s base-building get weirder and wilder than what we saw in the beta, because it&#39;s going up against decades of killer Dune artwork](https://www.pcgamer.com/games/survival-crafting/i-hope-dune-awakenings-base-building-get-weirder-and-wilder-than-what-we-saw-in-the-beta-because-its-going-up-against-decades-of-killer-dune-artwork/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
