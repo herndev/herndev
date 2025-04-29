@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon to display cost of tariffs on products in &#39;hostile and political&#39; act](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
- - [Weapons’ new trailer makes PTA meetings look like a nightmare](https://www.theverge.com/trailers/657798/weapons-new-trailer-makes-pta-meetings-look-like-a-nightmare)
- - [Galaxy S24 Ultra owners are annoyed by wasted space in One UI 7’s status bar](https://www.androidauthority.com/one-ui-7-status-bar-annoyance-3549090/)<!-- TECH:END -->
+ - [Google’s AI podcast maker is now available in over 50 languages](https://www.theverge.com/news/657785/google-audio-overviews-ai-podcasts-50-languages)
+ - [Amazon denies it had plans to be clear about consumer tariff costs](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
+ - [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
