@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK government publishes draft legislation on cryptoassets, set to be finalized later in 2025, and says it will work with US officials on crypto regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250429/p21#a250429p21)
- - [Starlink Gives Away Residential Kit Worth $349 for Free, but There Are Some Catches](https://www.cnet.com/home/internet/starlink-giving-away-residential-kit-worth-349-for-free-but-there-are-some-catches/#ftag=CAD590a51e)
- - [Meta&#39;s New AI App For Phones Is Also Its Hub For Glasses](https://www.cnet.com/tech/services-and-software/metas-new-ai-app-for-phones-is-also-its-hub-for-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon swiftly denies plans to highlight tariff impact on prices](https://www.androidauthority.com/amazon-denies-plan-to-add-tariff-cost-3549131/)
+ - [WhatsApp plans to add cloud-based AI features like message summarization and composition, utilizing a system called Private Processing to maintain data privacy &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250429/p25#a250429p25)
+ - [Sorry Shoppers, Amazon Says Tariff Cost Feature &#39;Is Not Going to Happen&#39;](https://www.cnet.com/tech/services-and-software/sorry-shoppers-amazon-says-tariff-cost-feature-is-not-going-to-happen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
