@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doing my part](http://9gag.com/gag/aO89NXr)
+ - 💣 [Infinite money](http://9gag.com/gag/a1mVODb)
  - ⏩ [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
- - 👉 [They are cooked](http://9gag.com/gag/a6ZBxQA)<!-- MEMES:END -->
+ - 👉 [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)<!-- MEMES:END -->
 
 ---
 
