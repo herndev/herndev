@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [White House calls Amazon ‘hostile’ after report says it will label tariff price hikes](https://www.theverge.com/news/657807/trump-amazon-tariff-hostile-pricing)
  - [Amazon to display cost of tariffs on products in &#39;hostile and political&#39; act](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
- - [Survey reveals just how many of you are &lpar;and aren’t&rpar; paying for Google One](https://www.androidauthority.com/google-one-subscribed-poll-results-3549026/)<!-- TECH:END -->
+ - [Weapons’ new trailer makes PTA meetings look like a nightmare](https://www.theverge.com/trailers/657798/weapons-new-trailer-makes-pta-meetings-look-like-a-nightmare)
+ - [Galaxy S24 Ultra owners are annoyed by wasted space in One UI 7’s status bar](https://www.androidauthority.com/one-ui-7-status-bar-annoyance-3549090/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
