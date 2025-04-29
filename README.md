@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bluetooth](http://9gag.com/gag/axyO8MD)
- - ⏩ [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
- - 👉 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)<!-- MEMES:END -->
+ - ⏩ [Doing my part](http://9gag.com/gag/aO89NXr)
+ - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
 
 ---
 
