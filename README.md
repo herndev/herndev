@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;There are currently three Xbox controller prototypes&#39;: New cloud gaming-enabled controller report suggests everything really is an Xbox](https://www.pcgamer.com/hardware/controllers/there-are-currently-three-xbox-controller-prototypes-new-cloud-gaming-enabled-controller-report-suggests-everything-really-is-an-xbox/)
- - [Borderlands 4 Is Launching 11 Days Earlier Than Planned](https://kotaku.com/borderlands-4-date-moved-up-gta-6-2k-randy-pitchford-1851778271)
- - [Baldur&#39;s Gate 3 And Nier Automata Directors React To AI Hype](https://kotaku.com/larian-baldurs-gate-3-nier-automata-ai-chatgpt-1851778257)<!-- GAME:END -->
+ - [A Note from Stoic – Towerborne Arrives on Xbox Today](https://news.xbox.com/en-us/2025/04/29/towerborne-launch-xbox/)
+ - [Devs lament Oblivion Remastered&#39;s surprise release as Todd Howard eats their lunch: &#39;I noticed a complete stop in game sales from about 2 pm onward on Oblivion day&#39;](https://www.pcgamer.com/games/the-elder-scrolls/devs-lament-oblivion-remastereds-surprise-release-as-todd-howard-eats-their-lunch-i-noticed-a-complete-stop-in-game-sales-from-about-2-pm-onward-on-oblivion-day/)
+ - [Elden Ring legend Let Me Solo Her finally played Bloodborne, and came across new levels of pain: &#39;This boss took me more tries than any previous boss&#39;](https://www.pcgamer.com/games/rpg/elden-ring-legend-let-me-solo-her-finally-played-bloodborne-and-came-across-new-levels-of-pain-this-boss-took-me-more-tries-than-any-previous-boss/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
