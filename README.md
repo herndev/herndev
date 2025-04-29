@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eric Barone says Stardew Valley was about &#39;the fundamentals of human sustenance,&#39; while Haunted Chocolatier is about &#39;what&#39;s next&#39;: &#39;There&#39;s another realm of the human experience&#39;](https://www.pcgamer.com/games/life-sim/eric-barone-says-stardew-valley-was-about-the-fundamentals-of-human-sustenance-while-haunted-chocolatier-is-about-whats-next-theres-another-realm-of-the-human-experience/)
- - [Titanfall Extraction Shooter Reportedly Canceled As EA Lays Off Hundreds](https://kotaku.com/respawn-layoffs-star-wars-jedi-apex-legends-titanfall-1851778330)
- - [How to get the Skeleton Key in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/566382/skeleton-key-location-how-to-get-nocturnal-quest-walkthrough)<!-- GAME:END -->
+ - [Flappy Bird returns on Android, now without the weird crypto stuff](https://www.polygon.com/news/566791/flappy-bird-android-epic-games-store-web3-crypto)
+ - [How to get a free First Order Stormtrooper outfit in Fortnite](https://www.polygon.com/fortnite-guide/565982/free-first-order-stormtrooper-outfit-how-to-get)
+ - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
