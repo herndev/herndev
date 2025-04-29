@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Towerborne Arrives on Xbox Today – Five Tips to Help You “Ace” Your Adventure](https://news.xbox.com/en-us/2025/04/29/towerborne-arrives-on-xbox-today-five-tips-to-help-you-ace-your-adventure/)
- - [How To Get Every Blossomdance Festival Ticket And Cosmetic In Monster Hunter Wilds&#39; First Limited-Time Event](https://kotaku.com/monster-hunter-wilds-blossomdance-event-tickets-1851778319)
- - [The Ultimate Beginner’s Guide to Oblivion Remastered: Potions, Guilds, and Free Housing](https://kotaku.com/ultimate-beginner-guide-oblivion-remastered-potions-1851778285)<!-- GAME:END -->
+ - [Thunderbolts Sounds Like The Best MCU Movie In Years](https://kotaku.com/thunderbolts-mcu-movie-reviews-rotten-tomatoes-score-1851778325)
+ - [Call of Duty: Black Ops 6 and Warzone Season 03 Reloaded: All the Details](https://www.callofduty.com/blog/2025/04/call-of-duty-black-ops-6-warzone-zombies-season-three-reloaded-announcement#new_tab)
+ - [Here&#39;s How Forza Horizon 5 PS5 Players Can Race With Xbox Folks](https://kotaku.com/forza-horizon-5-pc-xbox-ps5-crossplay-cross-save-1851778315)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
