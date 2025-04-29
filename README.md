@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take It Down Act heads to Trump’s desk](https://www.theverge.com/news/657632/take-it-down-act-passes-house-deepfakes)
- - [ExpressVPN review: Simple to use VPN, but powerful](https://appleinsider.com/articles/25/04/29/expressvpn-review-simple-to-use-vpn-but-powerful?utm_medium=rss)
- - [Save $230 on the Samsung Galaxy S25 Ultra, our favorite high-end phone](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-4-3548887/)<!-- TECH:END -->
+ - [Plans for iPhone 17 anti-reflective &amp; scratch proof display scrapped](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)
+ - [Deal: Google Pixel 9 plummets to its all-time low price](https://www.androidauthority.com/google-pixel-9-deal-3548886/)
+ - [Critics fear the Take It Down Act, one of the few online safety laws to pass in years, could be weaponized against content the Trump admin or its allies dislike &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250428/p30#a250428p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
