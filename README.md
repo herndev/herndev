@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Millions of Android apps have disappeared from the Play Store this year, and for good reason](https://www.androidauthority.com/google-play-store-apps-count-may-2025-3549299/)
- - [Sources: Trump officials are considering removing a Biden-era rule that divides the world into tiers that help determine how many AI chips a country can obtain &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250429/p36#a250429p36)
- - [New Apple iPad A16 drops to a new record-low price!](https://www.androidauthority.com/apple-ipad-a16-deal-3-3549297/)<!-- TECH:END -->
+ - [EA lays off staff and cancels a Titanfall game](https://www.theverge.com/news/658468/ea-layoffs-respawn-entertainment-titanfall-canceled)
+ - [Appfigures: Google Play hosts 1.8M apps, down from 3.4M at the beginning of 2024, a 47% decline likely due to raised minimum quality requirements &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250429/p37#a250429p37)
+ - [Lyft’s AI ‘Earnings Assistant’ offers ideas about how drivers can make more money](https://www.theverge.com/news/658195/lyft-ai-earnings-assistant-drivers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
