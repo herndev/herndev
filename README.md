@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla won’t have to report as many Level 2 crashes after Trump’s rule change](https://www.theverge.com/news/657859/tesla-adas-crash-report-nhtsa-sgo-trump-musk)
- - [PSA: That Plex alert saying you need a Remote Watch Pass is likely wrong](https://www.androidauthority.com/plex-remote-watch-pass-bug-3549249/)
- - [Arms race: Apple&#39;s waiting for robotics for US iPhone assembly, says Commerce Secretary](https://appleinsider.com/articles/25/04/29/arms-race-apples-waiting-for-robotics-for-us-iphone-assembly-says-commerce-secretary?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix is streaming a showcase of Hitchcock’s greatest films this June](https://www.theverge.com/news/658321/netflix-hitchcock-movie-showcase-paris-theater)
+ - [The EPA says it still cares about forever chemicals, but health advocates are wary](https://www.theverge.com/news/658244/forever-chemicals-pfas-drinking-water-standards-epa-trump)
+ - [Waiting for the US to get the OnePlus 13T? You’re out of luck](https://www.androidauthority.com/oneplus-13t-us-europe-3549260/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
