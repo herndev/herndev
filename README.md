@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s not mom](http://9gag.com/gag/a6ZBGz2)
- - ⏩ [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
- - 👉 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)<!-- MEMES:END -->
+ - 💣 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
+ - ⏩ [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)
+ - 👉 [They are cooked](http://9gag.com/gag/a6ZBxQA)<!-- MEMES:END -->
 
 ---
 
