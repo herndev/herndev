@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8 could let you easily summarize any online video, and here’s how you can try it out already](https://www.androidauthority.com/samsung-internet-ai-video-summary-one-ui-8-3548974/)
- - [Google tracked 75 zero-day vulnerabilities exploited in the wild in 2024, down from 98 in 2023 but up from 63 in 2022, with government hackers leading the use &lpar;Google Cloud Blog&rpar;](http://www.techmeme.com/250429/p8#a250429p8)
- - [Sources: Scattered Spider carried out a ransomware attack on UK retailer M&amp;S, which employs 64K+ in 1,400 stores, that caused huge disruption starting April 22 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250429/p7#a250429p7)<!-- TECH:END -->
+ - [Entire iPhone 17 lineup rumored to get 12GB RAM](https://appleinsider.com/articles/25/04/29/entire-iphone-17-lineup-rumored-to-get-12gb-ram?utm_medium=rss)
+ - [Apple funds new fire station that covers its Nevada data center](https://appleinsider.com/articles/25/04/29/apple-funds-new-fire-station-that-covers-its-nevada-data-center?utm_medium=rss)
+ - [Best Organic Mattress and Bedding &lpar;2025&rpar;: Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
