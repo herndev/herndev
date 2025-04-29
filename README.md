@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley Creator Is Focused On Finishing His Next Game](https://kotaku.com/stardew-valley-concerenedape-haunted-chocolatier-update-1851778392)
- - [Moldwasher Is A Power-Washing Sim For Pixel Art Perverts](https://kotaku.com/power-washing-sim-steam-moldwasher-trailer-1851778382)
- - [Flappy Bird returns on Android, now without the weird crypto stuff](https://www.polygon.com/news/566791/flappy-bird-android-epic-games-store-web3-crypto)<!-- GAME:END -->
+ - [Splitgate 2 open beta test kicks off in May with a &#39;massive amount of new content&#39;](https://www.pcgamer.com/games/fps/splitgate-2-open-beta-test-kicks-off-in-may-with-a-massive-amount-of-new-content/)
+ - [Best gifts for every character in Hello Kitty Island Adventure](https://www.polygon.com/hello-kitty-island-adventure-guides/566414/best-gifts-list-all-characters-friendship-hearts)
+ - [The Elder Scrolls 4: Oblivion Remastered review](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-4-oblivion-remastered-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
