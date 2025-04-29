@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon swiftly denies plans to highlight tariff impact on prices](https://www.androidauthority.com/amazon-denies-plan-to-add-tariff-cost-3549131/)
- - [WhatsApp plans to add cloud-based AI features like message summarization and composition, utilizing a system called Private Processing to maintain data privacy &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250429/p25#a250429p25)
- - [Sorry Shoppers, Amazon Says Tariff Cost Feature &#39;Is Not Going to Happen&#39;](https://www.cnet.com/tech/services-and-software/sorry-shoppers-amazon-says-tariff-cost-feature-is-not-going-to-happen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chipmaking equipment manufacturer ASM says orders in Q1 rose 14% YoY to €834M, vs. €808M est., but notes demand in non-AI-related segments was &quot;sluggish&quot; &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250429/p29#a250429p29)
+ - [Amazon confirms Prime Day will return in July, but it might look a bit different this year](https://www.androidauthority.com/amazon-prime-day-2025-confirmed-july-3549206/)
+ - [PayPal is expanding PayPal Ads to sell programmatic ads on the open web, using shopping data from its services to help advertisers target ads &lpar;Lauren Johnson/Adweek&rpar;](http://www.techmeme.com/250429/p28#a250429p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
