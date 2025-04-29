@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, April 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-29-2025/)
  - [Dark Souls 2 cut content includes a giant enemy crab wearing a castle tower as a shell which you could enter from above for massive damage](https://www.pcgamer.com/games/dark-souls/dark-souls-2-cut-content-includes-a-giant-enemy-crab-wearing-a-castle-tower-as-a-shell-which-you-could-enter-from-above-for-massive-damage/)
- - [There&#39;s a reason Oblivion Remastered&#39;s new voice actors all sound familiar: It&#39;s a huge Skyrim reunion](https://www.pcgamer.com/games/the-elder-scrolls/theres-a-reason-oblivion-remastereds-new-voice-actors-all-sound-familiar-its-a-huge-skyrim-reunion/)
- - [I hope Dune: Awakening&#39;s base-building get weirder and wilder than what we saw in the beta, because it&#39;s going up against decades of killer Dune artwork](https://www.pcgamer.com/games/survival-crafting/i-hope-dune-awakenings-base-building-get-weirder-and-wilder-than-what-we-saw-in-the-beta-because-its-going-up-against-decades-of-killer-dune-artwork/)<!-- GAME:END -->
+ - [There&#39;s a reason Oblivion Remastered&#39;s new voice actors all sound familiar: It&#39;s a huge Skyrim reunion](https://www.pcgamer.com/games/the-elder-scrolls/theres-a-reason-oblivion-remastereds-new-voice-actors-all-sound-familiar-its-a-huge-skyrim-reunion/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
