@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Safety always comes first..](http://9gag.com/gag/aLnANYg)
- - ⏩ [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
- - 👉 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)<!-- MEMES:END -->
+ - 💣 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
+ - ⏩ [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
+ - 👉 [I bot](http://9gag.com/gag/aYQMnQq)<!-- MEMES:END -->
 
 ---
 
