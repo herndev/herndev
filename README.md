@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best new RPG books of 2025 so far](https://www.polygon.com/gaming/566127/best-new-rpg-books-2025)
- - [With Larian finally at the end of its journey with Baldur&#39;s Gate 3, what do we want next from the new kings of the RPG?](https://www.pcgamer.com/games/baldurs-gate/with-larian-finally-at-the-end-of-its-journey-with-baldurs-gate-3-what-do-we-want-next-from-the-new-kings-of-the-rpg/)
- - [Fortnite&#39;s rarest collaboration has returned to the store after a 1,794 day absence](https://www.pcgamer.com/games/battle-royale/fortnites-rarest-collaboration-has-returned-to-the-store-after-a-1-794-day-absence/)<!-- GAME:END -->
+ - [Ubisoft remembers it owns Splinter Cell, patches Steam achievements into Blacklist 12 years after it first came out](https://www.pcgamer.com/games/action/ubisoft-remembers-it-owns-splinter-cell-patches-steam-achievements-into-blacklist-12-years-after-it-first-came-out/)
+ - [Dragon Age creator says Clair Obscur: Expedition 33 is &#39;kind of to JRPGs what Baldur&#39;s Gate 3 was to CRPGs&#39;](https://www.pcgamer.com/games/rpg/dragon-age-creator-says-clair-obscur-expedition-33-is-kind-of-to-jrpgs-what-baldurs-gate-3-was-to-crpgs/)
+ - [Speedy card battler Arcane Rush has just launched a new Gauntlet mode](https://www.pcgamer.com/games/speedy-card-battler-arcane-rush-has-just-launched-a-new-gauntlet-mode/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
