@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My contribution, Wait for it\u2026\u2026](http://9gag.com/gag/azxOvQN)
- - ⏩ [Another classic from the past](http://9gag.com/gag/a1mVwdv)
- - 👉 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)<!-- MEMES:END -->
+ - 💣 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
+ - ⏩ [Which movie You Could Watch Over and Over Again Without Getting Bored?, this is mine.](http://9gag.com/gag/a7o9njq)
+ - 👉 [That&#39;s not mom](http://9gag.com/gag/a6ZBGz2)<!-- MEMES:END -->
 
 ---
 
