@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was there 3000 years ago](http://9gag.com/gag/aYQMZ8v)
- - ⏩ [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
- - 👉 [Never trust the older brother...](http://9gag.com/gag/aGyGNvK)<!-- MEMES:END -->
+ - 💣 [True love](http://9gag.com/gag/azxODBm)
+ - ⏩ [Tight or not??](http://9gag.com/gag/aoyxDLn)
+ - 👉 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)<!-- MEMES:END -->
 
 ---
 
