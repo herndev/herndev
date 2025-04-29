@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
- - ⏩ [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
- - 👉 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)<!-- MEMES:END -->
+ - 💣 [That&#39;s not mom](http://9gag.com/gag/a6ZBGz2)
+ - ⏩ [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
+ - 👉 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)<!-- MEMES:END -->
 
 ---
 
