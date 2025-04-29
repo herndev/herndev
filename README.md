@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
- - ⏩ [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
- - 👉 [I bot](http://9gag.com/gag/aYQMnQq)<!-- MEMES:END -->
+ - 💣 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
+ - ⏩ [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
+ - 👉 [Bluetooth](http://9gag.com/gag/axyO8MD)<!-- MEMES:END -->
 
 ---
 
