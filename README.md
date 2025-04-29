@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bitcoin mining now just totes unprofitable, costing over $137,000 to mine just one BTC in the US and near $200,000 per coin in Germany](https://www.pcgamer.com/hardware/bitcoin-mining-now-just-totes-unprofitable-costing-over-usd137-000-to-mine-just-one-btc-in-the-us-and-near-usd200-000-per-coin-in-germany/)
- - [Intel says reports of 20k redundancies &#39;inaccurate&#39; and states previous early retirement options robbed them of valuable experience](https://www.pcgamer.com/hardware/intel-says-reports-of-20k-redundancies-inaccurate-and-states-previous-early-retirement-options-robbed-them-of-valuable-experience/)
- - [Taiwan to drop new law restricting TSMC from allowing foreign fabs to produce leading edge nodes after company&#39;s $100 billion investment in US facilities](https://www.pcgamer.com/hardware/taiwan-to-drop-new-law-restricting-tsmc-from-allowing-foreign-fabs-to-produce-leading-edge-nodes-after-companys-usd100-billion-investment-in-us-facilities/)<!-- GAME:END -->
+ - [Yellowjackets&#39; Most Disturbing Moments So Far, Ranked](https://kotaku.com/yellowjackets-showtime-cannibals-shauna-lottie-taissa-1851778184)
+ - [AMD and Samsung demo 8K 120 Hz gaming and I am really, really struggling to care](https://www.pcgamer.com/hardware/gaming-monitors/amd-and-samsung-demo-8k-120-hz-gaming-and-i-am-really-really-struggling-to-care/)
+ - [Nvidia has just released yet another GPU driver hotfix to add further fixes to the other hotfix driver it released last week. And it still hasn&#39;t really fixed things](https://www.pcgamer.com/hardware/graphics-cards/nvidia-has-just-released-yet-another-gpu-driver-hotfix-to-add-further-fixes-to-the-other-hotfix-driver-it-released-last-week-and-it-still-hasnt-really-fixed-things/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
