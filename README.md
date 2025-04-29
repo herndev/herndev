@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google app gets new ‘Activity’ tab for access to search history and more &lpar;Updated: Beta rollout&rpar;](https://www.androidauthority.com/google-app-activity-tab-3497741/)
- - [New Starlink subscription drops hardware price to $0](https://www.theverge.com/news/657659/new-starlink-subscription-drops-hardware-price-to-0)
- - [Here’s how to get one of Samsung’s flagship AI features on your Galaxy phone](https://www.androidauthority.com/get-samsung-browsing-assist-galaxy-phone-3548923/)<!-- TECH:END -->
+ - [YouTube for consoles and TVs is getting a truckload of changes and new features](https://www.androidauthority.com/youtube-console-tv-app-q2-2025-3548935/)
+ - [AYANEO’s latest handheld takes on the Retroid Pocket Mini and Odin 2 Mini](https://www.androidauthority.com/ayaneo-pocket-ace-launch-3548947/)
+ - [Google app gets new ‘Activity’ tab for access to search history and more &lpar;Updated: Beta rollout&rpar;](https://www.androidauthority.com/google-app-activity-tab-3497741/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
