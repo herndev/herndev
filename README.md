@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
- - ⏩ [Which movie You Could Watch Over and Over Again Without Getting Bored?, this is mine.](http://9gag.com/gag/a7o9njq)
- - 👉 [The difference is 2 days](http://9gag.com/gag/a4PAxMv)<!-- MEMES:END -->
+ - 💣 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)
+ - ⏩ [Old but gold!](http://9gag.com/gag/aryx900)
+ - 👉 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)<!-- MEMES:END -->
 
 ---
 
