@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI podcast maker is now available in over 50 languages](https://www.theverge.com/news/657785/google-audio-overviews-ai-podcasts-50-languages)
- - [Amazon denies it had plans to be clear about consumer tariff costs](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
- - [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)<!-- TECH:END -->
+ - [The UK government publishes draft legislation on cryptoassets, set to be finalized later in 2025, and says it will work with US officials on crypto regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250429/p21#a250429p21)
+ - [Starlink Gives Away Residential Kit Worth $349 for Free, but There Are Some Catches](https://www.cnet.com/home/internet/starlink-giving-away-residential-kit-worth-349-for-free-but-there-are-some-catches/#ftag=CAD590a51e)
+ - [Meta&#39;s New AI App For Phones Is Also Its Hub For Glasses](https://www.cnet.com/tech/services-and-software/metas-new-ai-app-for-phones-is-also-its-hub-for-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
