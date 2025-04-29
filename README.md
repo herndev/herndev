@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Entire iPhone 17 lineup rumored to get 12GB RAM](https://appleinsider.com/articles/25/04/29/entire-iphone-17-lineup-rumored-to-get-12gb-ram?utm_medium=rss)
- - [Apple funds new fire station that covers its Nevada data center](https://appleinsider.com/articles/25/04/29/apple-funds-new-fire-station-that-covers-its-nevada-data-center?utm_medium=rss)
- - [Best Organic Mattress and Bedding &lpar;2025&rpar;: Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattresses/)<!-- TECH:END -->
+ - [Bird Buddy’s new nature camera attracts and records more than just birds](https://www.theverge.com/news/657183/bird-buddy-petal-nature-camera-wonder-blocks-insects-plants-pollinators)
+ - [Whatever happened to the Kids Online Safety Act?](https://www.theverge.com/politics/657358/kids-online-safety-100-days-trump-administration)
+ - [Here’s our first look at Android Auto’s upcoming climate control UI &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-climate-controls-demo-3549019/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
