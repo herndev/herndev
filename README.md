@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is streaming a showcase of Hitchcock’s greatest films this June](https://www.theverge.com/news/658321/netflix-hitchcock-movie-showcase-paris-theater)
- - [The EPA says it still cares about forever chemicals, but health advocates are wary](https://www.theverge.com/news/658244/forever-chemicals-pfas-drinking-water-standards-epa-trump)
- - [Waiting for the US to get the OnePlus 13T? You’re out of luck](https://www.androidauthority.com/oneplus-13t-us-europe-3549260/)<!-- TECH:END -->
+ - [Millions of Android apps have disappeared from the Play Store this year, and for good reason](https://www.androidauthority.com/google-play-store-apps-count-may-2025-3549299/)
+ - [Sources: Trump officials are considering removing a Biden-era rule that divides the world into tiers that help determine how many AI chips a country can obtain &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250429/p36#a250429p36)
+ - [New Apple iPad A16 drops to a new record-low price!](https://www.androidauthority.com/apple-ipad-a16-deal-3-3549297/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
