@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True love](http://9gag.com/gag/azxODBm)
- - ⏩ [Tight or not??](http://9gag.com/gag/aoyxDLn)
+ - 💣 [Safety always comes first..](http://9gag.com/gag/aLnANYg)
+ - ⏩ [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
  - 👉 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)<!-- MEMES:END -->
 
 ---
