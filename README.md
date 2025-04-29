@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thunderbolts Sounds Like The Best MCU Movie In Years](https://kotaku.com/thunderbolts-mcu-movie-reviews-rotten-tomatoes-score-1851778325)
- - [Call of Duty: Black Ops 6 and Warzone Season 03 Reloaded: All the Details](https://www.callofduty.com/blog/2025/04/call-of-duty-black-ops-6-warzone-zombies-season-three-reloaded-announcement#new_tab)
- - [Here&#39;s How Forza Horizon 5 PS5 Players Can Race With Xbox Folks](https://kotaku.com/forza-horizon-5-pc-xbox-ps5-crossplay-cross-save-1851778315)<!-- GAME:END -->
+ - [After getting Stardew Valley to &#39;a good place&#39; with update 1.6, Eric Barone is now fully focused on his next game: &#39;I&#39;m committed to not working on Stardew Valley until I&#39;m done with Haunted Chocolatier&#39;](https://www.pcgamer.com/games/life-sim/after-getting-stardew-valley-to-a-good-place-with-update-1-6-eric-barone-is-now-fully-focused-on-his-next-game-im-committed-to-not-working-on-stardew-valley-until-im-done-with-haunted-chocolatier/)
+ - [Altered TCG’s wild new print-on-demand service is now live](https://www.polygon.com/gaming/566638/altered-tcg-print-on-demand-launch-price-availability)
+ - [Star Wars: Jedi Studio Doesn&#39;t Mention Layoffs In Announcement About Laying Developers Off](https://kotaku.com/respawn-layoffs-star-wars-jedi-apex-legends-titanfall-1851778330)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
