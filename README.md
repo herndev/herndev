@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube for consoles and TVs is getting a truckload of changes and new features](https://www.androidauthority.com/youtube-console-tv-app-q2-2025-3548935/)
- - [AYANEO’s latest handheld takes on the Retroid Pocket Mini and Odin 2 Mini](https://www.androidauthority.com/ayaneo-pocket-ace-launch-3548947/)
- - [Google app gets new ‘Activity’ tab for access to search history and more &lpar;Updated: Beta rollout&rpar;](https://www.androidauthority.com/google-app-activity-tab-3497741/)<!-- TECH:END -->
+ - [Hugging Face releases SO-101, a programmable, 3D-printable robotic arm that can pick up and place objects, costing $100 to $500 depending on the supplier &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250429/p3#a250429p3)
+ - [Washington state lawmakers pass new taxes amid a record budget deficit, targeting Amazon, Microsoft, and others to raise $9B+; Gov. Bob Ferguson can now sign &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/250429/p2#a250429p2)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 29, #218](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-29-218/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
