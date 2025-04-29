@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail a growing rift between Sam Altman and Satya Nadella, whose partnership began after a 2018 meeting; Microsoft can block OpenAI&#39;s for-profit move &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250428/p32#a250428p32)
- - [What you should know about Apple&#39;s switch from rsync to openrsync](https://appleinsider.com/inside/macos-sequoia/tips/what-you-should-know-about-apples-switch-from-rsync-to-openrsync?utm_medium=rss)
- - [Chromecast with Google TV just got one of the best features from its expensive successor](https://www.androidauthority.com/chromecast-with-google-tv-home-panel-rollout-3548905/)<!-- TECH:END -->
+ - [Good news, US fans: The Nothing Phone 3 will be available Stateside](https://www.androidauthority.com/nothing-phone-3-us-availability-3548915/)
+ - [Amazon&#39;s Project Kuiper Successfully Launches With 27 Satellites](https://www.cnet.com/science/space/amazons-kuiper-satellite-service-rocket-successfully-launches-competes-with-musks-starlink/#ftag=CAD590a51e)
+ - [Sources detail a growing rift between Sam Altman and Satya Nadella, whose partnership began after a 2018 meeting; Microsoft can block OpenAI&#39;s for-profit move &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250428/p32#a250428p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
