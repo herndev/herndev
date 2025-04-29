@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chipmaking equipment manufacturer ASM says orders in Q1 rose 14% YoY to €834M, vs. €808M est., but notes demand in non-AI-related segments was &quot;sluggish&quot; &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250429/p29#a250429p29)
- - [Amazon confirms Prime Day will return in July, but it might look a bit different this year](https://www.androidauthority.com/amazon-prime-day-2025-confirmed-july-3549206/)
- - [PayPal is expanding PayPal Ads to sell programmatic ads on the open web, using shopping data from its services to help advertisers target ads &lpar;Lauren Johnson/Adweek&rpar;](http://www.techmeme.com/250429/p28#a250429p28)<!-- TECH:END -->
+ - [Tesla won’t have to report as many Level 2 crashes after Trump’s rule change](https://www.theverge.com/news/657859/tesla-adas-crash-report-nhtsa-sgo-trump-musk)
+ - [PSA: That Plex alert saying you need a Remote Watch Pass is likely wrong](https://www.androidauthority.com/plex-remote-watch-pass-bug-3549249/)
+ - [Arms race: Apple&#39;s waiting for robotics for US iPhone assembly, says Commerce Secretary](https://appleinsider.com/articles/25/04/29/arms-race-apples-waiting-for-robotics-for-us-iphone-assembly-says-commerce-secretary?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
