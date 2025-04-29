@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google app gets new ‘Activity’ tab for access to search history and more &lpar;Updated: Beta rollout&rpar;](https://www.androidauthority.com/google-app-activity-tab-3497741/)
  - [New Starlink subscription drops hardware price to $0](https://www.theverge.com/news/657659/new-starlink-subscription-drops-hardware-price-to-0)
- - [Here’s how to get one of Samsung’s flagship AI features on your Galaxy phone](https://www.androidauthority.com/get-samsung-browsing-assist-galaxy-phone-3548923/)
- - [In an open letter, EFF and top security experts urge the Trump admin to end its probe of ex-CISA chief Chris Krebs, calling it political and harmful to security &lpar;Josh Richman/Electronic Frontier ...&rpar;](http://www.techmeme.com/250429/p1#a250429p1)<!-- TECH:END -->
+ - [Here’s how to get one of Samsung’s flagship AI features on your Galaxy phone](https://www.androidauthority.com/get-samsung-browsing-assist-galaxy-phone-3548923/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
