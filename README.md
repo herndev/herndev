@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
+ - 💣 [So they are the same in everywhere?](http://9gag.com/gag/ae9xz3Q)
  - ⏩ [Decades ahead of rest of the world](http://9gag.com/gag/aKG8y1Q)
  - 👉 [Nailed it!](http://9gag.com/gag/aYQMvqN)<!-- MEMES:END -->
 
