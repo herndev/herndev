@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [End-to-end encryption in real life. Children play chinese whispers](http://9gag.com/gag/a348p95)
- - ⏩ [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
- - 👉 [They are cooked](http://9gag.com/gag/a6ZBxQA)<!-- MEMES:END -->
+ - 💣 [Old things](http://9gag.com/gag/aXP7RPd)
+ - ⏩ [Oh no!](http://9gag.com/gag/aO89pN3)
+ - 👉 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)<!-- MEMES:END -->
 
 ---
 
