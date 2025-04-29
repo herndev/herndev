@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good news, US fans: The Nothing Phone 3 will be available Stateside](https://www.androidauthority.com/nothing-phone-3-us-availability-3548915/)
- - [Amazon&#39;s Project Kuiper Successfully Launches With 27 Satellites](https://www.cnet.com/science/space/amazons-kuiper-satellite-service-rocket-successfully-launches-competes-with-musks-starlink/#ftag=CAD590a51e)
- - [Sources detail a growing rift between Sam Altman and Satya Nadella, whose partnership began after a 2018 meeting; Microsoft can block OpenAI&#39;s for-profit move &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250428/p32#a250428p32)<!-- TECH:END -->
+ - [Save up to $1,000 today only on these 14-inch MacBook Pros](https://appleinsider.com/articles/25/04/29/save-up-to-1000-today-only-on-these-14-inch-macbook-pros?utm_medium=rss)
+ - [15% Off Wayfair Promo Code | April 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)
+ - [20% Off DoorDash Promo Code | April 2025](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
