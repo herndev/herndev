@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Abra be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24155512/can-abra-be-shiny-kadabra-alakazam-mega)
- - [Today&#39;s Wordle answer for Tuesday, April 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-29-2025/)
- - [Dark Souls 2 cut content includes a giant enemy crab wearing a castle tower as a shell which you could enter from above for massive damage](https://www.pcgamer.com/games/dark-souls/dark-souls-2-cut-content-includes-a-giant-enemy-crab-wearing-a-castle-tower-as-a-shell-which-you-could-enter-from-above-for-massive-damage/)<!-- GAME:END -->
+ - [Intel says reports of 20k redundancies &#39;inaccurate&#39; and states previous early retirement options robbed them of valuable experience](https://www.pcgamer.com/hardware/intel-says-reports-of-20k-redundancies-inaccurate-and-states-previous-early-retirement-options-robbed-them-of-valuable-experience/)
+ - [Taiwan to drop new law restricting TSMC from allowing foreign fabs to produce leading edge nodes after company&#39;s $100 billion investment in US facilities](https://www.pcgamer.com/hardware/taiwan-to-drop-new-law-restricting-tsmc-from-allowing-foreign-fabs-to-produce-leading-edge-nodes-after-companys-usd100-billion-investment-in-us-facilities/)
+ - [Can Abra be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24155512/can-abra-be-shiny-kadabra-alakazam-mega)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
