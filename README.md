@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hugging Face releases SO-101, a programmable, 3D-printable robotic arm that can pick up and place objects, costing $100 to $500 depending on the supplier &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250429/p3#a250429p3)
- - [Washington state lawmakers pass new taxes amid a record budget deficit, targeting Amazon, Microsoft, and others to raise $9B+; Gov. Bob Ferguson can now sign &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/250429/p2#a250429p2)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 29, #218](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-29-218/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One UI 8 could let you easily summarize any online video, and here’s how you can try it out already](https://www.androidauthority.com/samsung-internet-ai-video-summary-one-ui-8-3548974/)
+ - [Google tracked 75 zero-day vulnerabilities exploited in the wild in 2024, down from 98 in 2023 but up from 63 in 2022, with government hackers leading the use &lpar;Google Cloud Blog&rpar;](http://www.techmeme.com/250429/p8#a250429p8)
+ - [Sources: Scattered Spider carried out a ransomware attack on UK retailer M&amp;S, which employs 64K+ in 1,400 stores, that caused huge disruption starting April 22 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250429/p7#a250429p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
