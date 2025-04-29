@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)
- - ⏩ [Old but gold!](http://9gag.com/gag/aryx900)
- - 👉 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)<!-- MEMES:END -->
+ - 💣 [Doing my part](http://9gag.com/gag/aO89NXr)
+ - ⏩ [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
+ - 👉 [They are cooked](http://9gag.com/gag/a6ZBxQA)<!-- MEMES:END -->
 
 ---
 
