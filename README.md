@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old things](http://9gag.com/gag/aXP7RPd)
- - ⏩ [Oh no!](http://9gag.com/gag/aO89pN3)
- - 👉 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)<!-- MEMES:END -->
+ - 💣 [100.000+ protesters in Ireland against the mass immigration invasion of Ireland](http://9gag.com/gag/amoxpn9)
+ - ⏩ [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
+ - 👉 [I was there 3000 years ago](http://9gag.com/gag/aYQMZ8v)<!-- MEMES:END -->
 
 ---
 
