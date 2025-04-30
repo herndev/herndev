@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Terror atack in this barbershop in sweden . 5 dead. Guess the story .](http://9gag.com/gag/a2vDpmp)
- - ⏩ [IQ left the chat](http://9gag.com/gag/a9ymeRK)
- - 👉 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)<!-- MEMES:END -->
+ - 💣 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - ⏩ [CAR](http://9gag.com/gag/a348DW1)
+ - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
 
 ---
 
