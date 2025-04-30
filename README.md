@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ass ass in](http://9gag.com/gag/avyx4md)
- - ⏩ [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
- - 👉 [Doing my part](http://9gag.com/gag/aO89NXr)<!-- MEMES:END -->
+ - 💣 [Free X-Ray](http://9gag.com/gag/amoxO2V)
+ - ⏩ [Something special for guests](http://9gag.com/gag/a87eNEZ)
+ - 👉 [True love](http://9gag.com/gag/azxODBm)<!-- MEMES:END -->
 
 ---
 
