@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corsair Void Wireless v2 Review: Dolby Atmos on Bigger Heads](https://www.wired.com/review/corsair-void-wireless-v2/)
- - [The DOGE days have just begun](https://www.theverge.com/tech/656704/elon-musk-doge-100-days-recap-list)
- - [Rad Power Bikes’ bestselling RadRunner is getting a Class 3 upgrade](https://www.theverge.com/news/658316/rad-power-bikes-introduces-its-first-class-3-e-bike)<!-- TECH:END -->
+ - [Using Spotify with a VPN? Here’s what the company actually says about it](https://www.androidauthority.com/spotify-vpn-usage-no-account-ban-3549478/)
+ - [Kintsugi, which uses AI to help companies automate their sales tax compliance, raised $18M at a $150M post-money valuation, up from $80M in November 2024 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250430/p25#a250430p25)
+ - [TSMC breaks ground on third plant in Arizona](https://appleinsider.com/articles/25/04/30/tsmc-breaks-ground-on-third-plant-in-arizona?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
