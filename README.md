@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I loved him! I understood him! I was him!](http://9gag.com/gag/a348rYv)
- - ⏩ [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 👉 [Bluetooth](http://9gag.com/gag/axyO8MD)<!-- MEMES:END -->
+ - 💣 [Yes. That.](http://9gag.com/gag/aQzmK2q)
+ - ⏩ [That&#39;s pretty cool](http://9gag.com/gag/a348rDr)
+ - 👉 [Nailed it!](http://9gag.com/gag/aYQMvqN)<!-- MEMES:END -->
 
 ---
 
