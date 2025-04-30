@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doctor or Engineer?](http://9gag.com/gag/aMVz5EW)
- - ⏩ [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
+ - 💣 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
+ - ⏩ [You know the reason...](http://9gag.com/gag/a348DZQ)
+ - 👉 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)<!-- MEMES:END -->
 
 ---
 
