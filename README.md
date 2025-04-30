@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Xbox users](http://9gag.com/gag/aE0WbNN)
- - ⏩ [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
- - 👉 [Free X-Ray](http://9gag.com/gag/amoxO2V)<!-- MEMES:END -->
+ - 💣 [How can you even have such a low IQ?](http://9gag.com/gag/a1mV8W6)
+ - ⏩ [Crushed pelvises](http://9gag.com/gag/amoxOgo)
+ - 👉 [When 98 minutes feels like a masterpiece](http://9gag.com/gag/aD2bre9)<!-- MEMES:END -->
 
 ---
 
