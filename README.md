@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Heavy Play is an elegant alternative to card sleeving’s established dogma](https://www.polygon.com/gaming/567441/heavy-play-card-sleeve-review-deck-box-playmat)
- - [Every house you can buy in Oblivion Remastered, including upgrades and freebies](https://www.pcgamer.com/games/rpg/oblivion-houses/)
- - [&#39;Be more like Larian, less like Activision&#39;: Ex-Call of Duty producer takes his old employer to task for prioritizing FOMO over quality](https://www.pcgamer.com/games/call-of-duty/be-more-like-larian-less-like-activision-ex-call-of-duty-producer-takes-his-old-employer-to-task-for-prioritizing-fomo-over-quality/)<!-- GAME:END -->
+ - [13 Things We Learned About Borderlands 4 After Today&#39;s Big Event](https://kotaku.com/borderlands-4-state-of-play-gearbox-round-up-trailer-1851778578)
+ - [Borderlands 4: revealing Vault Hunter skills, new planet Kairos, and more](https://blog.playstation.com/2025/04/30/borderlands-4-revealing-vault-hunter-skills-new-planet-kairos-and-more/)
+ - [Assassin’s Creed Shadows is getting loads of free post-launch updates](https://www.polygon.com/news/567238/assassins-creed-shadows-updates-expansions-story-new-content)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
