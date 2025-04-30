@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA says it laid off staff and canceled &quot;two early-stage incubation projects&quot;; sources say EA cut 300 to 400 roles and its Respawn unit canceled a Titanfall game &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250430/p14#a250430p14)
- - [Pixel 10 series could finally fix a display issue that’s been bugging users for years](https://www.androidauthority.com/google-pixel-10-series-display-dimming-3549421/)
- - [Sources: Huawei has sold 10+ sets of its AI chip cluster CloudMatrix 384, including to data centers that serve Chinese tech companies, in a bid to rival Nvidia &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p13#a250430p13)<!-- TECH:END -->
+ - [Google Contacts is making it easier to check when you last contacted someone &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-recent-activity-apk-3549425/)
+ - [These are my favorite alternatives to Google’s widgets](https://www.androidauthority.com/google-widget-alternatives-3547147/)
+ - [Adyen reports Q1 net revenue up 22% YoY to €534.7M, below €539.6M est., and processed payment volume up 6% YoY to €314.8B, below est.; ADYEN drops ~5% &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250430/p16#a250430p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
