@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate 2 open beta test kicks off in May with a &#39;massive amount of new content&#39;](https://www.pcgamer.com/games/fps/splitgate-2-open-beta-test-kicks-off-in-may-with-a-massive-amount-of-new-content/)
- - [Best gifts for every character in Hello Kitty Island Adventure](https://www.polygon.com/hello-kitty-island-adventure-guides/566414/best-gifts-list-all-characters-friendship-hearts)
- - [The Elder Scrolls 4: Oblivion Remastered review](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-4-oblivion-remastered-review/)<!-- GAME:END -->
+ - [More than 19,000 NFT images briefly disappeared last week thanks to a server problem](https://www.pcgamer.com/games/more-than-19-000-nft-images-briefly-disappeared-last-week-thanks-to-a-server-problem/)
+ - [I&#39;m honestly shocked, but Arc Raiders is a much more exciting extraction shooter than Marathon](https://www.pcgamer.com/games/third-person-shooter/im-honestly-shocked-but-arc-raiders-is-a-much-more-exciting-extraction-shooter-than-marathon/)
+ - [Splitgate 2 open beta test kicks off in May with a &#39;massive amount of new content&#39;](https://www.pcgamer.com/games/fps/splitgate-2-open-beta-test-kicks-off-in-may-with-a-massive-amount-of-new-content/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
