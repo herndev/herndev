@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: NRAI, India&#39;s largest restaurant body, pauses onboarding of members onto ONDC over the platform&#39;s operational issues and a lack of strategic commitment &lpar;Aryaman Gupta/Moneycontrol&rpar;](http://www.techmeme.com/250430/p4#a250430p4)
- - [TSMC has begun building a third fab in Arizona, announcing the third phase of its US expansion the same day Commerce Secretary Howard Lutnick toured TSMC&#39;s site &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250430/p3#a250430p3)
- - [At LlamaCon, Satya Nadella said 20%-30% of code in Microsoft&#39;s repositories was written by AI and the company was seeing more progress in Python and less in C++ &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250430/p2#a250430p2)<!-- TECH:END -->
+ - [IAB: full-time US digital creator jobs grew from 200,000 in 2020 to 1.5M in 2024; the internet-supported economy accounts for 18% of US GDP, up from 2% in 2008 &lpar;Axios&rpar;](http://www.techmeme.com/250430/p8#a250430p8)
+ - [Flappy Bird is back without that crypto nonsense &lpar;or the original creator&rpar;](https://www.androidauthority.com/flappy-bird-epic-games-store-3548922/)
+ - [Beauhurst: UK equity crowdfunding, once one of fintech&#39;s hottest trends, fell 58% from its 2021 peak to £335M in 2024, and dropped ~60% YoY in Q1 2025 to £42.6M &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250430/p7#a250430p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
