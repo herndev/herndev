@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Free X-Ray](http://9gag.com/gag/amoxO2V)
- - ⏩ [Something special for guests](http://9gag.com/gag/a87eNEZ)
- - 👉 [True love](http://9gag.com/gag/azxODBm)<!-- MEMES:END -->
+ - 💣 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
+ - ⏩ [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
+ - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
 
 ---
 
