@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bluetooth](http://9gag.com/gag/axyO8MD)
- - ⏩ [Doing my part](http://9gag.com/gag/aO89NXr)
- - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
+ - 💣 [Xbox users](http://9gag.com/gag/aE0WbNN)
+ - ⏩ [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
+ - 👉 [Free X-Ray](http://9gag.com/gag/amoxO2V)<!-- MEMES:END -->
 
 ---
 
