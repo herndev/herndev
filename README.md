@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you do a really good job](http://9gag.com/gag/a348r61)
- - ⏩ [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
- - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)<!-- MEMES:END -->
+ - 💣 [High five, little basketball player](http://9gag.com/gag/abAxn8B)
+ - ⏩ [Who takes whom?](http://9gag.com/gag/azxOy3x)
+ - 👉 [It was at this moment](http://9gag.com/gag/a0en3gZ)<!-- MEMES:END -->
 
 ---
 
