@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to solve the age old problem of getting splashed with oil when cooking](http://9gag.com/gag/ayN1K0q)
- - ⏩ [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)<!-- MEMES:END -->
+ - 💣 [Find a girl that looks at you the way... oh never mind](http://9gag.com/gag/aKG8Zdj)
+ - ⏩ [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
+ - 👉 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)<!-- MEMES:END -->
 
 ---
 
