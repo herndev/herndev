@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone users could see Gemini integration this year, Google CEO hints](https://www.androidauthority.com/iphone-gemini-integration-deal-3549714/)
- - [Sources: Ripple has proposed a takeover of Circle for $4B to $5B, a bid that was rejected as too low; Ripple remains interested in Circle &lpar;Bloomberg Tax&rpar;](http://www.techmeme.com/250430/p36#a250430p36)
- - [Nintendo limits a game-sharing loophole as it introduces Virtual Game Cards](https://www.theverge.com/news/659074/nintendo-switch-online-game-sharing-loophole)<!-- TECH:END -->
+ - [Nuvo, a B2B startup that scales trade partnerships by streamlining credit approvals and more, raised a $34M Series A from Sequoia Capital and Spark Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250430/p46#a250430p46)
+ - [Robinhood reports Q1 revenue up 50% YoY to $927M, vs. $920.1M est., crypto transaction revenue up 100% to $252M, increases share buyback authorization by $500M &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/250430/p45#a250430p45)
+ - [Apple sends warnings about mercenary spyware attacks on iOS](https://appleinsider.com/articles/25/04/30/apple-sends-warnings-about-mercenary-spyware-attacks-on-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
