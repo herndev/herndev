@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Using Spotify with a VPN? Here’s what the company actually says about it](https://www.androidauthority.com/spotify-vpn-usage-no-account-ban-3549478/)
- - [Kintsugi, which uses AI to help companies automate their sales tax compliance, raised $18M at a $150M post-money valuation, up from $80M in November 2024 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250430/p25#a250430p25)
- - [TSMC breaks ground on third plant in Arizona](https://appleinsider.com/articles/25/04/30/tsmc-breaks-ground-on-third-plant-in-arizona?utm_medium=rss)<!-- TECH:END -->
+ - [Donald Trump might actually believe these Calibri labels are real MS-13 tattoos](https://www.theverge.com/politics/658612/donald-trump-kilmar-abrego-garcia-tattoos-photoshop)
+ - [iPhone average selling price rises despite shift away from Pro models](https://appleinsider.com/articles/25/04/30/iphone-average-selling-price-rises-despite-shift-away-from-pro-models?utm_medium=rss)
+ - [Boox launches its first color E Ink monitor](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
