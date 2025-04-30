@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Icemag 2 Power Bank review: Flashy, fun, functional](https://appleinsider.com/articles/25/04/30/icemag-2-power-bank-review-flashy-fun-functional?utm_medium=rss)
- - [Samsung reports Q1 revenue up 10% YoY to ~$55.4B, operating profit up 1.2% YoY to ~$4.68B, and chip division operating profit down 42% YoY to ~$770M &lpar;Reuters&rpar;](http://www.techmeme.com/250429/p39#a250429p39)
- - [A Canadian mining company wants Trump’s permission to mine the deep sea](https://www.theverge.com/news/658493/battery-critical-minerals-deep-sea-mining-the-metals-company-permit-donald-trump)<!-- TECH:END -->
+ - [Sources: Apple shuffles its global affairs division, including management of teams for Europe, India, and China, and changes Apple Music&#39;s leadership structure &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250429/p40#a250429p40)
+ - [The Narwal Freo X Ultra vacuum and mop is a total steal at just $699.99](https://www.androidauthority.com/narwal-freo-x-ultra-deal-5-3549295/)
+ - [Icemag 2 Power Bank review: Flashy, fun, functional](https://appleinsider.com/articles/25/04/30/icemag-2-power-bank-review-flashy-fun-functional?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
