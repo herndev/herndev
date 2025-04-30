@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - ⏩ [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
- - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
+ - 💣 [Terror atack in this barbershop in sweden . 5 dead. Guess the story .](http://9gag.com/gag/a2vDpmp)
+ - ⏩ [IQ left the chat](http://9gag.com/gag/a9ymeRK)
+ - 👉 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)<!-- MEMES:END -->
 
 ---
 
