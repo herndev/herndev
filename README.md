@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France accuses Russia of a decade’s worth of high-profile cyberattacks](https://www.theverge.com/politics/658222/france-russia-cyberattacks-fancy-bear-apt28-macron-leaks)
- - [EA lays off staff and cancels a Titanfall game](https://www.theverge.com/news/658468/ea-layoffs-respawn-entertainment-titanfall-canceled)
- - [Appfigures: Google Play hosts 1.8M apps, down from 3.4M at the beginning of 2024, a 47% decline likely due to raised minimum quality requirements &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250429/p37#a250429p37)<!-- TECH:END -->
+ - [Icemag 2 Power Bank review: Flashy, fun, functional](https://appleinsider.com/articles/25/04/30/icemag-2-power-bank-review-flashy-fun-functional?utm_medium=rss)
+ - [Samsung reports Q1 revenue up 10% YoY to ~$55.4B, operating profit up 1.2% YoY to ~$4.68B, and chip division operating profit down 42% YoY to ~$770M &lpar;Reuters&rpar;](http://www.techmeme.com/250429/p39#a250429p39)
+ - [A Canadian mining company wants Trump’s permission to mine the deep sea](https://www.theverge.com/news/658493/battery-critical-minerals-deep-sea-mining-the-metals-company-permit-donald-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
