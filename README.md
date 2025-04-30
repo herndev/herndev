@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump might actually believe these Calibri labels are real MS-13 tattoos](https://www.theverge.com/politics/658612/donald-trump-kilmar-abrego-garcia-tattoos-photoshop)
- - [iPhone average selling price rises despite shift away from Pro models](https://appleinsider.com/articles/25/04/30/iphone-average-selling-price-rises-despite-shift-away-from-pro-models?utm_medium=rss)
- - [Boox launches its first color E Ink monitor](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor)<!-- TECH:END -->
+ - [Pixel Watch Touch Lock is now more locked down than ever, and some users aren’t happy](https://www.androidauthority.com/wear-os-5-1-pixel-watch-touch-lock-3549620/)
+ - [Google confirms it’s close to getting Gemini support on iPhones](https://www.theverge.com/news/658770/google-gemini-apple-iphone-deal-ai)
+ - [Hands on with all four iPhone 17 dummy models](https://appleinsider.com/articles/25/04/30/hands-on-with-all-four-iphone-17-dummy-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
