@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [13 Things We Learned About Borderlands 4 After Today&#39;s Big Event](https://kotaku.com/borderlands-4-state-of-play-gearbox-round-up-trailer-1851778578)
- - [Borderlands 4: revealing Vault Hunter skills, new planet Kairos, and more](https://blog.playstation.com/2025/04/30/borderlands-4-revealing-vault-hunter-skills-new-planet-kairos-and-more/)
- - [Assassin’s Creed Shadows is getting loads of free post-launch updates](https://www.polygon.com/news/567238/assassins-creed-shadows-updates-expansions-story-new-content)<!-- GAME:END -->
+ - [Gearbox is &#39;making rarity matter again&#39; in Borderlands 4 after dropping too many legendaries in Borderlands 3](https://www.pcgamer.com/games/fps/gearbox-is-making-rarity-matter-again-in-borderlands-4-after-dropping-too-many-legendaries-in-borderlands-3/)
+ - [Todd Howard is hiding in Oblivion Remastered, and you can find him and make him fall in love with you](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-todd-howard-easter-egg/)
+ - [13 Things We Learned About Borderlands 4 After Today&#39;s Big Event](https://kotaku.com/borderlands-4-state-of-play-gearbox-round-up-trailer-1851778578)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
