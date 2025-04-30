@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I kind of failed in that particular aspect&#39;: Eric Barone doesn&#39;t understand all the Pierre hate and wishes that he&#39;d been &#39;a little bit more nuanced&#39; when it came to creating JojaMart](https://www.pcgamer.com/games/life-sim/i-kind-of-failed-in-that-particular-aspect-eric-barone-doesnt-understand-all-the-pierre-hate-and-wishes-that-hed-been-a-little-bit-more-nuanced-when-it-came-to-creating-jojamart/)
- - [Stardew Valley creator Eric Barone hasn&#39;t &#39;really&#39; played a lot of other farming and life sims, but he appreciates the impact the game has had on the genre—&#39;it seems to have inspired a lot more people to consider this kind of game&#39;](https://www.pcgamer.com/games/sim/stardew-valley-creator-eric-barone-hasnt-really-played-a-lot-of-other-farming-and-life-sims-but-he-appreciates-the-impact-the-game-has-had-on-the-genre-it-seems-to-have-inspired-a-lot-more-people-to-consider-this-kind-of-game/)
- - [A little power management goes a long way in the latest Intel drivers giving a free 10% fps boost to the MSI Claw AI+ handheld and any other Lunar Lake device](https://www.pcgamer.com/hardware/processors/a-little-power-management-goes-a-long-way-in-the-latest-intel-drivers-giving-a-free-10-percent-fps-boost-to-the-msi-claw-ai-handheld-and-any-other-lunar-lake-device/)<!-- GAME:END -->
+ - [Mobile Suit Gundam GQuuuuuuX’s director on the ‘sense of the Cold War’ he wanted for the series](https://www.polygon.com/anime/565804/mobile-suit-gundam-gquuuuuux-director-interview-msg-flcl)
+ - [You can watch the first two episodes of Star Wars&#39; new animated miniseries early… if you hop on Fortnite](https://www.pcgamer.com/games/battle-royale/you-can-watch-the-first-two-episodes-of-star-wars-new-animated-miniseries-early-if-you-hop-on-fortnite/)
+ - [Microsoft CEO Satya Nadella says AI generates &#39;fantastic&#39; Python code, and that it now creates &#39;maybe 20 - 30% of the code ... in some of our projects&#39;](https://www.pcgamer.com/hardware/microsoft-ceo-satya-nadella-says-ai-generates-fantastic-python-code-and-that-it-now-creates-30-percent-of-the-companys-code/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
