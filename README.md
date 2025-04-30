@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IAB: full-time US digital creator jobs grew from 200,000 in 2020 to 1.5M in 2024; the internet-supported economy accounts for 18% of US GDP, up from 2% in 2008 &lpar;Axios&rpar;](http://www.techmeme.com/250430/p8#a250430p8)
- - [Flappy Bird is back without that crypto nonsense &lpar;or the original creator&rpar;](https://www.androidauthority.com/flappy-bird-epic-games-store-3548922/)
- - [Beauhurst: UK equity crowdfunding, once one of fintech&#39;s hottest trends, fell 58% from its 2021 peak to £335M in 2024, and dropped ~60% YoY in Q1 2025 to £42.6M &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250430/p7#a250430p7)<!-- TECH:END -->
+ - [Samsung says that &quot;growing policy risks&quot; would increase uncertainty for its chip business, while tariffs would raise prices for smartphone components and TVs &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250430/p11#a250430p11)
+ - [Galaxy S24 Ultra owners are annoyed by wasted space in One UI 7’s status bar](https://www.androidauthority.com/one-ui-7-status-bar-annoyance-3549090/)
+ - [Xiaomi unveils open-source AI reasoning model MiMo, joining other Chinese tech leaders hoping to make a splash in the burgeoning AI field endorsed by Beijing &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250430/p10#a250430p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
