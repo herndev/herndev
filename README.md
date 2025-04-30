@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More than 19,000 NFT images briefly disappeared last week thanks to a server problem](https://www.pcgamer.com/games/more-than-19-000-nft-images-briefly-disappeared-last-week-thanks-to-a-server-problem/)
- - [I&#39;m honestly shocked, but Arc Raiders is a much more exciting extraction shooter than Marathon](https://www.pcgamer.com/games/third-person-shooter/im-honestly-shocked-but-arc-raiders-is-a-much-more-exciting-extraction-shooter-than-marathon/)
- - [Splitgate 2 open beta test kicks off in May with a &#39;massive amount of new content&#39;](https://www.pcgamer.com/games/fps/splitgate-2-open-beta-test-kicks-off-in-may-with-a-massive-amount-of-new-content/)<!-- GAME:END -->
+ - [All lost gestrals and rewards in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/566911/lost-gestrals-locations-all-where-to-find)
+ - [Wagon is a 1-bit card-based spiritual successor to survival classic The Oregon Trail, and wastes no time getting right into the cannibalism](https://www.pcgamer.com/games/survival-crafting/wagon-is-a-1-bit-card-based-spiritual-successor-to-survival-classic-the-oregon-trail-and-wastes-no-time-getting-right-into-the-cannibalism/)
+ - [More than 19,000 NFT images briefly disappeared last week thanks to a server problem](https://www.pcgamer.com/games/more-than-19-000-nft-images-briefly-disappeared-last-week-thanks-to-a-server-problem/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
