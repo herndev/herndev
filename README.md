@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elizabeth Warren asks Jeff Bezos if he got any favors for his ‘subservience’ to Trump](https://www.theverge.com/news/658829/elizabeth-warren-jeff-bezos-amazon-trump-tariffs)
- - [Razer PC Remote Play vs Steam Link: PC game streaming to iOS has never been easier](https://appleinsider.com/articles/25/04/30/razer-pc-remote-play-vs-steam-link-pc-game-streaming-to-ios-has-never-been-easier?utm_medium=rss)
- - [OpenAI says its GPT-4o update could be &amp;#8216;uncomfortable, unsettling, and cause distress&amp;#8217;](https://www.theverge.com/news/658850/openai-chatgpt-gpt-4o-update-sycophantic)<!-- TECH:END -->
+ - [Even the biggest names in smartphones are struggling with sagging global demand](https://www.androidauthority.com/global-smartphone-growth-q1-2025-3549659/)
+ - [Bluetti&#39;s covering the cost for your green transition -- plus an all-new solar generator](https://appleinsider.com/articles/25/04/30/bluettis-covering-the-cost-for-your-green-transition----plus-an-all-new-solar-generator?utm_medium=rss)
+ - [Hate paying taxes? This may be your last chance to get a T-Mobile plan without them](https://www.androidauthority.com/t-mobile-go5g-sign-up-3549666/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
