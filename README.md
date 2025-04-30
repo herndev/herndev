@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
- - ⏩ [Something special for guests](http://9gag.com/gag/a87eNEZ)
- - 👉 [Not mine tho](http://9gag.com/gag/aW4oAvK)<!-- MEMES:END -->
+ - 💣 [Terror atack in this barbershop in sweden . 5 dead. Guess the story .](http://9gag.com/gag/a2vDpmp)
+ - ⏩ [I look bad bro](http://9gag.com/gag/a87evRd)
+ - 👉 [From my archives #3](http://9gag.com/gag/azxOv1b)<!-- MEMES:END -->
 
 ---
 
