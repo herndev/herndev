@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RFK Jr.&#39;s HHS Orders Lab Studying Deadly Infectious Diseases to Stop Research](https://www.wired.com/story/hhs-niaid-irf-ebola-disease-research-stop/)
- - [eBay reports Q1 revenue up 1% YoY to $2.59B vs. $2.55B est., forecasts Q2 revenue above est.; CFO Steve Priest to step down in May, with Peggy Alford succeeding &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250430/p52#a250430p52)
- - [Gemini is getting its very own Android widget](https://www.androidauthority.com/gemini-widget-3549775/)<!-- TECH:END -->
+ - [A judge just blew up Apple&amp;#8217;s control of the App Store](https://www.theverge.com/news/659246/apple-epic-app-store-judge-ruling-control)
+ - [In Meta&#39;s earnings call, Mark Zuckerberg says the company plans to add ads to the Meta AI app, plus a paid tier for more compute and functionality &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250430/p54#a250430p54)
+ - [US v. Google: Sundar Pichai said Google expects to strike a Gemini deal with Apple by mid-2025 and Tim Cook told him Apple plans to add more AI models this year &lpar;The Verge&rpar;](http://www.techmeme.com/250430/p53#a250430p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
