@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [What time does Fortnite Chapter 6 Season 3 release?](https://www.polygon.com/fortnite-guide/565773/chapter-6-season-3-star-wars-release-time-c6s3)
  - [Today&#39;s Wordle answer for Wednesday, April 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-30-2025/)
- - [Saw Gerrera is Star Wars at its very best](https://www.polygon.com/star-wars/566318/saw-gerrera-andor-season-2)
- - [All lost gestrals and rewards in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/566911/lost-gestrals-locations-all-where-to-find)<!-- GAME:END -->
+ - [Saw Gerrera is Star Wars at its very best](https://www.polygon.com/star-wars/566318/saw-gerrera-andor-season-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
