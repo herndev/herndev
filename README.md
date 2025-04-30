@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go, Piper](http://9gag.com/gag/aYQMBO2)
- - ⏩ [Bluetooth](http://9gag.com/gag/axyO8MD)
- - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
+ - 💣 [You know the reason...](http://9gag.com/gag/a348DZQ)
+ - ⏩ [Doing my part](http://9gag.com/gag/aO89NXr)
+ - 👉 [So close](http://9gag.com/gag/aD2bqAd)<!-- MEMES:END -->
 
 ---
 
