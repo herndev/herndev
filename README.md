@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch Touch Lock is now more locked down than ever, and some users aren’t happy](https://www.androidauthority.com/wear-os-5-1-pixel-watch-touch-lock-3549620/)
- - [Google confirms it’s close to getting Gemini support on iPhones](https://www.theverge.com/news/658770/google-gemini-apple-iphone-deal-ai)
- - [Hands on with all four iPhone 17 dummy models](https://appleinsider.com/articles/25/04/30/hands-on-with-all-four-iphone-17-dummy-models?utm_medium=rss)<!-- TECH:END -->
+ - [Elizabeth Warren asks Jeff Bezos if he got any favors for his ‘subservience’ to Trump](https://www.theverge.com/news/658829/elizabeth-warren-jeff-bezos-amazon-trump-tariffs)
+ - [Razer PC Remote Play vs Steam Link: PC game streaming to iOS has never been easier](https://appleinsider.com/articles/25/04/30/razer-pc-remote-play-vs-steam-link-pc-game-streaming-to-ios-has-never-been-easier?utm_medium=rss)
+ - [OpenAI says its GPT-4o update could be &amp;#8216;uncomfortable, unsettling, and cause distress&amp;#8217;](https://www.theverge.com/news/658850/openai-chatgpt-gpt-4o-update-sycophantic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
