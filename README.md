@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need To Know About Overwatch 2’s Gundam Wing Collaboration](https://kotaku.com/overwatch-2-gundam-wing-event-challenges-skins-1851778449)
- - [Here&amp;#8217;s how to upload all your Switch data before you sell it for a Switch 2](https://www.polygon.com/nintendo-switch-2/567003/switch-update-backup-upload-data-transfer-console-2)
- - [Nintendo&#39;s Big Switch Update Adds Virtual Game Sharing And More, With One Important Catch](https://kotaku.com/nintendo-switch-2-share-virtual-game-card-firmware-20-0-1851778447)<!-- GAME:END -->
+ - [The Brutal, Unforgiving, and Unforgettable Monstrous Bosses of Wuchang: Fallen Feathers](https://news.xbox.com/en-us/2025/04/30/the-monstrous-bosses-of-wuchang-fallen-feathers/)
+ - [Intel is trying out on-chip water cooling too and I&#39;m just happy I&#39;m not the one having to place liquids so close to expensive electronics](https://www.pcgamer.com/hardware/cooling/intel-is-trying-out-on-chip-water-cooling-too-and-im-just-happy-im-not-the-one-having-to-place-liquids-so-close-to-expensive-electronics/)
+ - [PlayStation Plus Monthly Games for May: Ark: Survival Ascended, Balatro, Warhammer 40,000: Boltgun](https://blog.playstation.com/2025/04/30/playstation-plus-monthly-games-for-may-ark-survival-ascended-balatro-warhammer-40000-boltgun/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
