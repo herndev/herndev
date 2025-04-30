@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On shuffle: Managerial movements for Apple Music, Global Affairs teams](https://appleinsider.com/articles/25/04/30/on-shuffle-managerial-movements-for-apple-music-global-affairs-teams?utm_medium=rss)
- - [Samsung Galaxy phones will get a key calling feature by default with One UI 7](https://www.androidauthority.com/samsung-enable-volte-default-3549444/)
- - [Raycast brings its super-powerful Mac launcher to iOS, sort of](https://www.theverge.com/apple-ios/658265/raycast-ios-launcher)<!-- TECH:END -->
+ - [Corsair Void Wireless v2 Review: Dolby Atmos on Bigger Heads](https://www.wired.com/review/corsair-void-wireless-v2/)
+ - [The DOGE days have just begun](https://www.theverge.com/tech/656704/elon-musk-doge-100-days-recap-list)
+ - [Rad Power Bikes’ bestselling RadRunner is getting a Class 3 upgrade](https://www.theverge.com/news/658316/rad-power-bikes-introduces-its-first-class-3-e-bike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
