@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mobile Suit Gundam GQuuuuuuX’s director on the ‘sense of the Cold War’ he wanted for the series](https://www.polygon.com/anime/565804/mobile-suit-gundam-gquuuuuux-director-interview-msg-flcl)
- - [You can watch the first two episodes of Star Wars&#39; new animated miniseries early… if you hop on Fortnite](https://www.pcgamer.com/games/battle-royale/you-can-watch-the-first-two-episodes-of-star-wars-new-animated-miniseries-early-if-you-hop-on-fortnite/)
- - [Microsoft CEO Satya Nadella says AI generates &#39;fantastic&#39; Python code, and that it now creates &#39;maybe 20 - 30% of the code ... in some of our projects&#39;](https://www.pcgamer.com/hardware/microsoft-ceo-satya-nadella-says-ai-generates-fantastic-python-code-and-that-it-now-creates-30-percent-of-the-companys-code/)<!-- GAME:END -->
+ - [Creepy Redneck Dinosaur Mansion 3 is as delightful as the name implies](https://www.polygon.com/gaming/566596/creepy-redneck-dinosaur-mansion-match-3-review)
+ - [Eric Barone has regrets about not fleshing out Stardew Valley&#39;s characters more, but likes that it&#39;s so open ended since it makes things &#39;more personal&#39; for each player](https://www.pcgamer.com/games/sim/eric-barone-has-regrets-about-not-fleshing-out-stardew-valleys-characters-more-but-likes-that-its-so-open-ended-since-it-makes-things-more-personal-for-each-player/)
+ - [Apex Legends writer gets laid off 24 hours after the character she wrote is revealed, because that&#39;s what the games industry in 2025 looks like](https://www.pcgamer.com/gaming-industry/game-development/apex-legends-writer-gets-laid-off-24-hours-after-the-character-she-wrote-is-revealed-because-thats-what-the-games-industry-in-2025-looks-like/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
