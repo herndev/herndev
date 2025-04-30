@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [When you do a really good job](http://9gag.com/gag/a348r61)
- - ⏩ [When I grow up I will be a pirate](http://9gag.com/gag/aD2bvGG)
- - 👉 [It was at this moment](http://9gag.com/gag/a0en3gZ)<!-- MEMES:END -->
+ - ⏩ [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
+ - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)<!-- MEMES:END -->
 
 ---
 
