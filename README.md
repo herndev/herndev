@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes. That.](http://9gag.com/gag/aQzmK2q)
- - ⏩ [That&#39;s pretty cool](http://9gag.com/gag/a348rDr)
- - 👉 [Nailed it!](http://9gag.com/gag/aYQMvqN)<!-- MEMES:END -->
+ - 💣 [Ass ass in](http://9gag.com/gag/avyx4md)
+ - ⏩ [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
+ - 👉 [Doing my part](http://9gag.com/gag/aO89NXr)<!-- MEMES:END -->
 
 ---
 
