@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are all the partners Intel announced at its 2025 Foundry Direct Connect event but big new customers are notably absent](https://www.pcgamer.com/hardware/here-are-all-the-partners-intel-announced-at-its-2025-foundry-direct-connect-event-but-big-new-customers-are-notably-absent/)
- - [Intel outlines new Foundry roadmap with strong AI focus for new nodes](https://www.pcgamer.com/hardware/intel-outlines-new-foundry-roadmap-with-strong-ai-focus-for-new-nodes/)
- - [Intel introduces its newest employee, Chip the robotic inspector, just after announcing mass human layoffs](https://www.pcgamer.com/hardware/intel-introduces-its-newest-employee-chip-the-robotic-inspector-just-after-announcing-mass-human-layoffs/)<!-- GAME:END -->
+ - [&#39;I kind of failed in that particular aspect&#39;: Eric Barone doesn&#39;t understand all the Pierre hate and wishes that he&#39;d been &#39;a little bit more nuanced&#39; when it came to creating JojaMart](https://www.pcgamer.com/games/life-sim/i-kind-of-failed-in-that-particular-aspect-eric-barone-doesnt-understand-all-the-pierre-hate-and-wishes-that-hed-been-a-little-bit-more-nuanced-when-it-came-to-creating-jojamart/)
+ - [Stardew Valley creator Eric Barone hasn&#39;t &#39;really&#39; played a lot of other farming and life sims, but he appreciates the impact the game has had on the genre—&#39;it seems to have inspired a lot more people to consider this kind of game&#39;](https://www.pcgamer.com/games/sim/stardew-valley-creator-eric-barone-hasnt-really-played-a-lot-of-other-farming-and-life-sims-but-he-appreciates-the-impact-the-game-has-had-on-the-genre-it-seems-to-have-inspired-a-lot-more-people-to-consider-this-kind-of-game/)
+ - [A little power management goes a long way in the latest Intel drivers giving a free 10% fps boost to the MSI Claw AI+ handheld and any other Lunar Lake device](https://www.pcgamer.com/hardware/processors/a-little-power-management-goes-a-long-way-in-the-latest-intel-drivers-giving-a-free-10-percent-fps-boost-to-the-msi-claw-ai-handheld-and-any-other-lunar-lake-device/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
