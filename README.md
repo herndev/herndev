@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creepy Redneck Dinosaur Mansion 3 is as delightful as the name implies](https://www.polygon.com/gaming/566596/creepy-redneck-dinosaur-mansion-match-3-review)
- - [Eric Barone has regrets about not fleshing out Stardew Valley&#39;s characters more, but likes that it&#39;s so open ended since it makes things &#39;more personal&#39; for each player](https://www.pcgamer.com/games/sim/eric-barone-has-regrets-about-not-fleshing-out-stardew-valleys-characters-more-but-likes-that-its-so-open-ended-since-it-makes-things-more-personal-for-each-player/)
- - [Apex Legends writer gets laid off 24 hours after the character she wrote is revealed, because that&#39;s what the games industry in 2025 looks like](https://www.pcgamer.com/gaming-industry/game-development/apex-legends-writer-gets-laid-off-24-hours-after-the-character-she-wrote-is-revealed-because-thats-what-the-games-industry-in-2025-looks-like/)<!-- GAME:END -->
+ - [Indie Selects for April 2025: Fresh but Familiar Vibes](https://news.xbox.com/en-us/2025/04/30/indie-selects-april-2025/)
+ - [&#39;Please give us one more chance&#39;: Infinity Nikki developer grovels in lengthy apology letter following disastrous launch of its newest patch](https://www.pcgamer.com/games/adventure/please-give-us-one-more-chance-infinity-nikki-developer-grovels-in-lengthy-apology-letter-following-disastrous-launch-of-its-newest-patch/)
+ - [&#39;Don&#39;t leave trash on Arrakis&#39;—Dune: Awakening creative director implores players to &#39;clean up your old bases&#39;](https://www.pcgamer.com/games/mmo/dont-leave-trash-on-arrakis-dune-awakening-creative-director-implores-players-to-clean-up-your-old-bases/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
