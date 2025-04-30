@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So they are the same in everywhere?](http://9gag.com/gag/ae9xz3Q)
- - ⏩ [Yes. That.](http://9gag.com/gag/aQzmK2q)
- - 👉 [Nailed it!](http://9gag.com/gag/aYQMvqN)<!-- MEMES:END -->
+ - 💣 [Go, Piper](http://9gag.com/gag/aYQMBO2)
+ - ⏩ [Bluetooth](http://9gag.com/gag/axyO8MD)
+ - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
 
 ---
 
