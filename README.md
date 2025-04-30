@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - ⏩ [CAR](http://9gag.com/gag/a348DW1)
- - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
+ - 💣 [I look bad bro](http://9gag.com/gag/a87evRd)
+ - ⏩ [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
+ - 👉 [Something special for guests](http://9gag.com/gag/a87eNEZ)<!-- MEMES:END -->
 
 ---
 
