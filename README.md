@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Terror atack in this barbershop in sweden . 5 dead. Guess the story .](http://9gag.com/gag/a2vDpmp)
- - ⏩ [I look bad bro](http://9gag.com/gag/a87evRd)
- - 👉 [From my archives #3](http://9gag.com/gag/azxOv1b)<!-- MEMES:END -->
+ - 💣 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
+ - ⏩ [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
+ - 👉 [When I grow up I will be a pirate](http://9gag.com/gag/aD2bvGG)<!-- MEMES:END -->
 
 ---
 
