@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How can you even have such a low IQ?](http://9gag.com/gag/a1mV8W6)
- - ⏩ [Crushed pelvises](http://9gag.com/gag/amoxOgo)
- - 👉 [When 98 minutes feels like a masterpiece](http://9gag.com/gag/aD2bre9)<!-- MEMES:END -->
+ - 💣 [So they are the same in everywhere?](http://9gag.com/gag/ae9xz3Q)
+ - ⏩ [Yes. That.](http://9gag.com/gag/aQzmK2q)
+ - 👉 [Nailed it!](http://9gag.com/gag/aYQMvqN)<!-- MEMES:END -->
 
 ---
 
