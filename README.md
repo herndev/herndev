@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Brutal, Unforgiving, and Unforgettable Monstrous Bosses of Wuchang: Fallen Feathers](https://news.xbox.com/en-us/2025/04/30/the-monstrous-bosses-of-wuchang-fallen-feathers/)
- - [Intel is trying out on-chip water cooling too and I&#39;m just happy I&#39;m not the one having to place liquids so close to expensive electronics](https://www.pcgamer.com/hardware/cooling/intel-is-trying-out-on-chip-water-cooling-too-and-im-just-happy-im-not-the-one-having-to-place-liquids-so-close-to-expensive-electronics/)
- - [PlayStation Plus Monthly Games for May: Ark: Survival Ascended, Balatro, Warhammer 40,000: Boltgun](https://blog.playstation.com/2025/04/30/playstation-plus-monthly-games-for-may-ark-survival-ascended-balatro-warhammer-40000-boltgun/)<!-- GAME:END -->
+ - [Evil Dead Disappears From Stores Just Three Years After Release](https://kotaku.com/evil-dead-delisted-multiplayer-horror-servers-1851778498)
+ - [Outraged Redditors discover they have been subject to a secret chatbot experiment that found AI posts were &#39;three to six times more persuasive&#39; than humans](https://www.pcgamer.com/software/ai/outraged-redditors-discover-they-have-been-subject-to-a-secret-chatbot-experiment-that-found-ai-posts-were-three-to-six-times-more-persuasive-than-humans/)
+ - [Randy Pitchford says Borderlands 4&#39;s new release date &#39;is literally 0% about any other product’s actual or theoretical launch date,&#39; and you know he&#39;s talking about Grand Theft Auto 6](https://www.pcgamer.com/games/fps/randy-pitchford-says-borderlands-4s-new-release-date-is-literally-0-percent-about-any-other-products-actual-or-theoretical-launch-date-and-you-know-hes-talking-about-grand-theft-auto-6/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
