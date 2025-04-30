@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [France accuses Russia of a decade’s worth of high-profile cyberattacks](https://www.theverge.com/politics/658222/france-russia-cyberattacks-fancy-bear-apt28-macron-leaks)
  - [EA lays off staff and cancels a Titanfall game](https://www.theverge.com/news/658468/ea-layoffs-respawn-entertainment-titanfall-canceled)
- - [Appfigures: Google Play hosts 1.8M apps, down from 3.4M at the beginning of 2024, a 47% decline likely due to raised minimum quality requirements &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250429/p37#a250429p37)
- - [Lyft’s AI ‘Earnings Assistant’ offers ideas about how drivers can make more money](https://www.theverge.com/news/658195/lyft-ai-earnings-assistant-drivers)<!-- TECH:END -->
+ - [Appfigures: Google Play hosts 1.8M apps, down from 3.4M at the beginning of 2024, a 47% decline likely due to raised minimum quality requirements &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250429/p37#a250429p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
