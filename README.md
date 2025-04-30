@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know the reason...](http://9gag.com/gag/a348DZQ)
- - ⏩ [Doing my part](http://9gag.com/gag/aO89NXr)
- - 👉 [So close](http://9gag.com/gag/aD2bqAd)<!-- MEMES:END -->
+ - 💣 [I loved him! I understood him! I was him!](http://9gag.com/gag/a348rYv)
+ - ⏩ [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
+ - 👉 [Bluetooth](http://9gag.com/gag/axyO8MD)<!-- MEMES:END -->
 
 ---
 
