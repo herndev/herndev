@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Selects for April 2025: Fresh but Familiar Vibes](https://news.xbox.com/en-us/2025/04/30/indie-selects-april-2025/)
- - [&#39;Please give us one more chance&#39;: Infinity Nikki developer grovels in lengthy apology letter following disastrous launch of its newest patch](https://www.pcgamer.com/games/adventure/please-give-us-one-more-chance-infinity-nikki-developer-grovels-in-lengthy-apology-letter-following-disastrous-launch-of-its-newest-patch/)
- - [&#39;Don&#39;t leave trash on Arrakis&#39;—Dune: Awakening creative director implores players to &#39;clean up your old bases&#39;](https://www.pcgamer.com/games/mmo/dont-leave-trash-on-arrakis-dune-awakening-creative-director-implores-players-to-clean-up-your-old-bases/)<!-- GAME:END -->
+ - [Everything You Need To Know About Overwatch 2’s Gundam Wing Collaboration](https://kotaku.com/overwatch-2-gundam-wing-event-challenges-skins-1851778449)
+ - [Here&amp;#8217;s how to upload all your Switch data before you sell it for a Switch 2](https://www.polygon.com/nintendo-switch-2/567003/switch-update-backup-upload-data-transfer-console-2)
+ - [Nintendo&#39;s Big Switch Update Adds Virtual Game Sharing And More, With One Important Catch](https://kotaku.com/nintendo-switch-2-share-virtual-game-card-firmware-20-0-1851778447)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
