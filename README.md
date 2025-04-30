@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Find a girl that looks at you the way... oh never mind](http://9gag.com/gag/aKG8Zdj)
- - ⏩ [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
- - 👉 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)<!-- MEMES:END -->
+ - 💣 [Doctor or Engineer?](http://9gag.com/gag/aMVz5EW)
+ - ⏩ [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
+ - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
 
 ---
 
