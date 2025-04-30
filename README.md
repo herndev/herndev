@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nuvo, a B2B startup that scales trade partnerships by streamlining credit approvals and more, raised a $34M Series A from Sequoia Capital and Spark Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250430/p46#a250430p46)
- - [Robinhood reports Q1 revenue up 50% YoY to $927M, vs. $920.1M est., crypto transaction revenue up 100% to $252M, increases share buyback authorization by $500M &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/250430/p45#a250430p45)
- - [Apple sends warnings about mercenary spyware attacks on iOS](https://appleinsider.com/articles/25/04/30/apple-sends-warnings-about-mercenary-spyware-attacks-on-ios?utm_medium=rss)<!-- TECH:END -->
+ - [RFK Jr.&#39;s HHS Orders Lab Studying Deadly Infectious Diseases to Stop Research](https://www.wired.com/story/hhs-niaid-irf-ebola-disease-research-stop/)
+ - [eBay reports Q1 revenue up 1% YoY to $2.59B vs. $2.55B est., forecasts Q2 revenue above est.; CFO Steve Priest to step down in May, with Peggy Alford succeeding &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250430/p52#a250430p52)
+ - [Gemini is getting its very own Android widget](https://www.androidauthority.com/gemini-widget-3549775/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
