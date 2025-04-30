@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Contacts is making it easier to check when you last contacted someone &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-recent-activity-apk-3549425/)
- - [These are my favorite alternatives to Google’s widgets](https://www.androidauthority.com/google-widget-alternatives-3547147/)
- - [Adyen reports Q1 net revenue up 22% YoY to €534.7M, below €539.6M est., and processed payment volume up 6% YoY to €314.8B, below est.; ADYEN drops ~5% &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250430/p16#a250430p16)<!-- TECH:END -->
+ - [On shuffle: Managerial movements for Apple Music, Global Affairs teams](https://appleinsider.com/articles/25/04/30/on-shuffle-managerial-movements-for-apple-music-global-affairs-teams?utm_medium=rss)
+ - [Samsung Galaxy phones will get a key calling feature by default with One UI 7](https://www.androidauthority.com/samsung-enable-volte-default-3549444/)
+ - [Raycast brings its super-powerful Mac launcher to iOS, sort of](https://www.theverge.com/apple-ios/658265/raycast-ios-launcher)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
