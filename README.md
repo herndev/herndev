@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
- - ⏩ [You know the reason...](http://9gag.com/gag/a348DZQ)
- - 👉 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)<!-- MEMES:END -->
+ - 💣 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - ⏩ [When I grow up I will be a pirate](http://9gag.com/gag/aD2bvGG)
+ - 👉 [It was at this moment](http://9gag.com/gag/a0en3gZ)<!-- MEMES:END -->
 
 ---
 
