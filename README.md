@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Fortnite Chapter 6 Season 3 release?](https://www.polygon.com/fortnite-guide/565773/chapter-6-season-3-star-wars-release-time-c6s3)
- - [Today&#39;s Wordle answer for Wednesday, April 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-30-2025/)
- - [Saw Gerrera is Star Wars at its very best](https://www.polygon.com/star-wars/566318/saw-gerrera-andor-season-2)<!-- GAME:END -->
+ - [Here are all the partners Intel announced at its 2025 Foundry Direct Connect event but big new customers are notably absent](https://www.pcgamer.com/hardware/here-are-all-the-partners-intel-announced-at-its-2025-foundry-direct-connect-event-but-big-new-customers-are-notably-absent/)
+ - [Intel outlines new Foundry roadmap with strong AI focus for new nodes](https://www.pcgamer.com/hardware/intel-outlines-new-foundry-roadmap-with-strong-ai-focus-for-new-nodes/)
+ - [Intel introduces its newest employee, Chip the robotic inspector, just after announcing mass human layoffs](https://www.pcgamer.com/hardware/intel-introduces-its-newest-employee-chip-the-robotic-inspector-just-after-announcing-mass-human-layoffs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
