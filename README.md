@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Evil Dead Disappears From Stores Just Three Years After Release](https://kotaku.com/evil-dead-delisted-multiplayer-horror-servers-1851778498)
- - [Outraged Redditors discover they have been subject to a secret chatbot experiment that found AI posts were &#39;three to six times more persuasive&#39; than humans](https://www.pcgamer.com/software/ai/outraged-redditors-discover-they-have-been-subject-to-a-secret-chatbot-experiment-that-found-ai-posts-were-three-to-six-times-more-persuasive-than-humans/)
- - [Randy Pitchford says Borderlands 4&#39;s new release date &#39;is literally 0% about any other product’s actual or theoretical launch date,&#39; and you know he&#39;s talking about Grand Theft Auto 6](https://www.pcgamer.com/games/fps/randy-pitchford-says-borderlands-4s-new-release-date-is-literally-0-percent-about-any-other-products-actual-or-theoretical-launch-date-and-you-know-hes-talking-about-grand-theft-auto-6/)<!-- GAME:END -->
+ - [Here’s how Akira, District 9, and British police hats inspired the look of this apocalyptic extraction shooter](https://www.polygon.com/gaming/567242/the-forever-winter-character-design-breakdown-riloe-april-update-skins)
+ - [Nintendo Quietly Made A Big Change To The Nintendo Switch eShop](https://kotaku.com/slop-nintendo-switch-eshop-best-seller-firmware-update-1851778523)
+ - [Evil Dead: The Game is being removed from sale just three years after it launched](https://www.pcgamer.com/games/horror/evil-dead-the-game-is-being-removed-from-sale-just-three-years-after-it-launched/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
