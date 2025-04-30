@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even the biggest names in smartphones are struggling with sagging global demand](https://www.androidauthority.com/global-smartphone-growth-q1-2025-3549659/)
- - [Bluetti&#39;s covering the cost for your green transition -- plus an all-new solar generator](https://appleinsider.com/articles/25/04/30/bluettis-covering-the-cost-for-your-green-transition----plus-an-all-new-solar-generator?utm_medium=rss)
- - [Hate paying taxes? This may be your last chance to get a T-Mobile plan without them](https://www.androidauthority.com/t-mobile-go5g-sign-up-3549666/)<!-- TECH:END -->
+ - [YouTube is testing blurred thumbnails for &amp;#8216;mature content&amp;#8217;](https://www.theverge.com/news/658828/youtube-experiment-test-blurred-thumnail-mature-sexual-content)
+ - [Sonnet Echo 13 Thunderbolt 5 SSD Dock review: Speedy storage, legacy ports, great price](https://appleinsider.com/articles/25/04/30/sonnet-echo-13-thunderbolt-5-ssd-dock-review-speedy-storage-legacy-ports-great-price?utm_medium=rss)
+ - [Poll: What do you think of Android’s upcoming UI overhaul?](https://www.androidauthority.com/poll-what-do-you-think-of-androids-upcoming-ui-overhaul-3549651/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
