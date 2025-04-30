@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [EA Abandons One Of The Longest-Running Racing Franchises After 25 Years](https://kotaku.com/ea-collin-mcrae-rally-race-wrc-dirt-codemasters-ending-1851778534)
  - [Here’s how Akira, District 9, and British police hats inspired the look of this apocalyptic extraction shooter](https://www.polygon.com/gaming/567242/the-forever-winter-character-design-breakdown-riloe-april-update-skins)
- - [Nintendo Quietly Made A Big Change To The Nintendo Switch eShop](https://kotaku.com/slop-nintendo-switch-eshop-best-seller-firmware-update-1851778523)
- - [Evil Dead: The Game is being removed from sale just three years after it launched](https://www.pcgamer.com/games/horror/evil-dead-the-game-is-being-removed-from-sale-just-three-years-after-it-launched/)<!-- GAME:END -->
+ - [Nintendo Quietly Made A Big Change To The Nintendo Switch eShop](https://kotaku.com/slop-nintendo-switch-eshop-best-seller-firmware-update-1851778523)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
