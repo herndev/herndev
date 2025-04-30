@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing blurred thumbnails for &amp;#8216;mature content&amp;#8217;](https://www.theverge.com/news/658828/youtube-experiment-test-blurred-thumnail-mature-sexual-content)
- - [Sonnet Echo 13 Thunderbolt 5 SSD Dock review: Speedy storage, legacy ports, great price](https://appleinsider.com/articles/25/04/30/sonnet-echo-13-thunderbolt-5-ssd-dock-review-speedy-storage-legacy-ports-great-price?utm_medium=rss)
- - [Poll: What do you think of Android’s upcoming UI overhaul?](https://www.androidauthority.com/poll-what-do-you-think-of-androids-upcoming-ui-overhaul-3549651/)<!-- TECH:END -->
+ - [iPhone users could see Gemini integration this year, Google CEO hints](https://www.androidauthority.com/iphone-gemini-integration-deal-3549714/)
+ - [Sources: Ripple has proposed a takeover of Circle for $4B to $5B, a bid that was rejected as too low; Ripple remains interested in Circle &lpar;Bloomberg Tax&rpar;](http://www.techmeme.com/250430/p36#a250430p36)
+ - [Nintendo limits a game-sharing loophole as it introduces Virtual Game Cards](https://www.theverge.com/news/659074/nintendo-switch-online-game-sharing-loophole)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
