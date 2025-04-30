@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I look bad bro](http://9gag.com/gag/a87evRd)
- - ⏩ [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
- - 👉 [Something special for guests](http://9gag.com/gag/a87eNEZ)<!-- MEMES:END -->
+ - 💣 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
+ - ⏩ [Something special for guests](http://9gag.com/gag/a87eNEZ)
+ - 👉 [Not mine tho](http://9gag.com/gag/aW4oAvK)<!-- MEMES:END -->
 
 ---
 
