@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says that &quot;growing policy risks&quot; would increase uncertainty for its chip business, while tariffs would raise prices for smartphone components and TVs &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250430/p11#a250430p11)
- - [Galaxy S24 Ultra owners are annoyed by wasted space in One UI 7’s status bar](https://www.androidauthority.com/one-ui-7-status-bar-annoyance-3549090/)
- - [Xiaomi unveils open-source AI reasoning model MiMo, joining other Chinese tech leaders hoping to make a splash in the burgeoning AI field endorsed by Beijing &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250430/p10#a250430p10)<!-- TECH:END -->
+ - [EA says it laid off staff and canceled &quot;two early-stage incubation projects&quot;; sources say EA cut 300 to 400 roles and its Respawn unit canceled a Titanfall game &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250430/p14#a250430p14)
+ - [Pixel 10 series could finally fix a display issue that’s been bugging users for years](https://www.androidauthority.com/google-pixel-10-series-display-dimming-3549421/)
+ - [Sources: Huawei has sold 10+ sets of its AI chip cluster CloudMatrix 384, including to data centers that serve Chinese tech companies, in a bid to rival Nvidia &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p13#a250430p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
