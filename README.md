@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All lost gestrals and rewards in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/566911/lost-gestrals-locations-all-where-to-find)
- - [Wagon is a 1-bit card-based spiritual successor to survival classic The Oregon Trail, and wastes no time getting right into the cannibalism](https://www.pcgamer.com/games/survival-crafting/wagon-is-a-1-bit-card-based-spiritual-successor-to-survival-classic-the-oregon-trail-and-wastes-no-time-getting-right-into-the-cannibalism/)
- - [More than 19,000 NFT images briefly disappeared last week thanks to a server problem](https://www.pcgamer.com/games/more-than-19-000-nft-images-briefly-disappeared-last-week-thanks-to-a-server-problem/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, April 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-30-2025/)
+ - [Saw Gerrera is Star Wars at its very best](https://www.polygon.com/star-wars/566318/saw-gerrera-andor-season-2)
+ - [All lost gestrals and rewards in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/566911/lost-gestrals-locations-all-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
