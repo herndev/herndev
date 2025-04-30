@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Abandons One Of The Longest-Running Racing Franchises After 25 Years](https://kotaku.com/ea-collin-mcrae-rally-race-wrc-dirt-codemasters-ending-1851778534)
- - [Here’s how Akira, District 9, and British police hats inspired the look of this apocalyptic extraction shooter](https://www.polygon.com/gaming/567242/the-forever-winter-character-design-breakdown-riloe-april-update-skins)
- - [Nintendo Quietly Made A Big Change To The Nintendo Switch eShop](https://kotaku.com/slop-nintendo-switch-eshop-best-seller-firmware-update-1851778523)<!-- GAME:END -->
+ - [Heavy Play is an elegant alternative to card sleeving’s established dogma](https://www.polygon.com/gaming/567441/heavy-play-card-sleeve-review-deck-box-playmat)
+ - [Every house you can buy in Oblivion Remastered, including upgrades and freebies](https://www.pcgamer.com/games/rpg/oblivion-houses/)
+ - [&#39;Be more like Larian, less like Activision&#39;: Ex-Call of Duty producer takes his old employer to task for prioritizing FOMO over quality](https://www.pcgamer.com/games/call-of-duty/be-more-like-larian-less-like-activision-ex-call-of-duty-producer-takes-his-old-employer-to-task-for-prioritizing-fomo-over-quality/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
