@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Terrifying](http://9gag.com/gag/aLnA57M)
- - ⏩ [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 👉 [When you do a really good job](http://9gag.com/gag/a348r61)<!-- MEMES:END -->
+ - 💣 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)
+ - ⏩ [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
+ - 👉 [Super Based. Woman interrupts Muslim Rally at Texas State Capitol.](http://9gag.com/gag/aAyM902)<!-- MEMES:END -->
 
 ---
 
