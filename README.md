@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon sheds staff, editor-in-chief departs following sale to Game Rant owner Valnet](https://www.pcgamer.com/gaming-industry/polygon-sale-valnet/)
- - [Bethesda gives full-throated shout-out to Skyblivion fan remake after giving the whole dev team free Oblivion Remastered keys: &#39;I think what they&#39;re doing is very special&#39;](https://www.pcgamer.com/games/the-elder-scrolls/bethesda-gives-full-throated-shout-out-to-skyblivion-fan-remake-after-giving-the-whole-dev-team-free-oblivion-remastered-keys-i-think-what-theyre-doing-is-very-special/)
- - [Judge Says Apple Exec Lied In Big Fortnite Case And Just Blew The App Store Wide Open](https://kotaku.com/apple-vs-epic-win-lied-fortnite-case-ios-iphone-judge-1851778714)<!-- GAME:END -->
+ - [Fandom Blows Up Giant Bomb](https://kotaku.com/giant-bomb-fandom-dan-ryckert-jeff-grubb-gerstmann-1851778728)
+ - [Gaming website Polygon sheds staff, editor-in-chief departs following sale to Game Rant owner Valnet](https://www.pcgamer.com/gaming-industry/polygon-sale-valnet/)
+ - [Minecraft Movie Song Sets Record as Shortest Track Ever on Billboard Hot 100](https://kotaku.com/jack-black-minecraft-song-steves-lava-chicken-breaks-1851778727)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
