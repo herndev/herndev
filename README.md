@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy hardcore](http://9gag.com/gag/aNDBE16)
- - ⏩ [Waiting for it...](http://9gag.com/gag/aqyxPZv)
- - 👉 [Sweet now i can watch my asian por-um.. political commentary and know what&#39;s going on](http://9gag.com/gag/aO895M2)<!-- MEMES:END -->
+ - 💣 [Who takes whom?](http://9gag.com/gag/azxOy3x)
+ - ⏩ [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)
+ - 👉 [From my archive](http://9gag.com/gag/aAyMAML)<!-- MEMES:END -->
 
 ---
 
