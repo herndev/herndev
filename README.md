@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this a win/win?](http://9gag.com/gag/avyxMnb)
+ - 💣 [Nice view](http://9gag.com/gag/aNDBNDK)
  - ⏩ [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)
- - 👉 [Nice view](http://9gag.com/gag/aNDBNDK)<!-- MEMES:END -->
+ - 👉 [High five, little basketball player](http://9gag.com/gag/abAxn8B)<!-- MEMES:END -->
 
 ---
 
