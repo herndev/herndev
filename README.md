@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SuperShopper](http://9gag.com/gag/a87exMV)
- - ⏩ [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
- - 👉 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)<!-- MEMES:END -->
+ - 💣 [Suffering of being success](http://9gag.com/gag/aGyGXvn)
+ - ⏩ [Terrifying](http://9gag.com/gag/aLnA57M)
+ - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
 
 ---
 
