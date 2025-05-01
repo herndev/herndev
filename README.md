@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Past, Present, and Future of Overwatch 2’s Stadium](https://overwatch.blizzard.com/news/24198087/#new_tab)
- - [Polygon Sold To Valnet And Hit With Mass Layoffs](https://kotaku.com/polygon-sold-vox-media-valnet-layoffs-digital-gaming-1851778655)
- - [Bethesda Thinks Fan Remaster Of Oblivion Is &#39;Very Special&#39; And Supports It](https://kotaku.com/bethesda-oblivion-remastered-skyblivion-mod-support-1851778773)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in May](https://www.pcgamer.com/games/pc-game-release-dates-may-2025/)
+ - [DrLupo admits to cheating in $100,000 online chess tournament, faces brutal backlash from Reddit: &#39;Dude went from &#39;what&#39;s a horsey?&#39; to &#39;I can see 15 moves ahead&#39; in 2 minutes&#39;](https://www.pcgamer.com/games/drlupo-admits-to-cheating-in-usd100-000-online-chess-tournament-faces-brutal-backlash-from-reddit-dude-went-from-whats-a-horsey-to-i-can-see-15-moves-ahead-in-2-minutes/)
+ - [Stadium&#39;s roadmap for Overwatch 2 is planned out for the next three seasons, with more heroes, maps, and custom games on the horizon](https://www.pcgamer.com/games/fps/stadiums-roadmap-for-overwatch-2-is-planned-out-for-the-next-three-seasons-with-more-heroes-maps-and-custom-games-on-the-horizon/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
