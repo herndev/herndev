@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everafter Falls 2.0 – A Year in Listening and Twisting](https://news.xbox.com/en-us/2025/05/01/everafter-falls-2-0/)
- - [Original Oblivion developers gather to watch the 2006 documentary on the making of the game, and Todd Howard sums up the feeling: &#39;This is going to be really f**king awkward, watching this&#39;](https://www.pcgamer.com/games/rpg/original-oblivion-developers-gather-to-watch-the-2006-documentary-on-the-making-of-the-game-and-todd-howard-sums-up-the-feeling-this-is-going-to-be-really-f-king-awkward-watching-this/)
- - [At 34 seconds, Jack Black&#39;s chicken song from A Minecraft Movie just became the shortest ever to crack the Billboard Hot 100](https://www.pcgamer.com/movies-tv/at-34-seconds-jack-blacks-chicken-song-from-a-minecraft-movie-just-became-the-shortest-ever-to-crack-the-billboard-hot-100/)<!-- GAME:END -->
+ - [Polygon sheds staff, editor-in-chief departs following sale to Game Rant owner Valnet](https://www.pcgamer.com/gaming-industry/polygon-sale-valnet/)
+ - [Bethesda gives full-throated shout-out to Skyblivion fan remake after giving the whole dev team free Oblivion Remastered keys: &#39;I think what they&#39;re doing is very special&#39;](https://www.pcgamer.com/games/the-elder-scrolls/bethesda-gives-full-throated-shout-out-to-skyblivion-fan-remake-after-giving-the-whole-dev-team-free-oblivion-remastered-keys-i-think-what-theyre-doing-is-very-special/)
+ - [Judge Says Apple Exec Lied In Big Fortnite Case And Just Blew The App Store Wide Open](https://kotaku.com/apple-vs-epic-win-lied-fortnite-case-ios-iphone-judge-1851778714)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
