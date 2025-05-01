@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinterest rolls out global AI labels to mark images made or edited with generative AI, adding an &quot;AI modified&quot; stamp, via metadata analysis and AI classifiers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250501/p28#a250501p28)
- - [Epic Games vs Apple -- The continuing App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)
- - [Samsung TV Plus is on a mission to never let you pay for live sports channels again](https://www.androidauthority.com/samsung-tv-plus-more-sports-channels-3549902/)<!-- TECH:END -->
+ - [The Galaxy S25 Edge debuts in a couple weeks, but we already know what to expect](https://www.androidauthority.com/samsung-galaxy-s25-edge-specs-leak-3549929/)
+ - [Dub, which lets users trade the same stock as celebrities and politicians like Nancy Pelosi, raised a $30M Series A co-led by Notable Capital and Neo &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250501/p30#a250501p30)
+ - [Fortnite’s Star Wars season will let you fly an X-Wing and use Force Lightning](https://www.theverge.com/news/659347/fortnite-star-wars-galactic-battle-season-battle-pass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
