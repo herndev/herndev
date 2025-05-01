@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Mark Zuckerberg on LlamaCon, Llama API, Meta&#39;s AI opportunity, social networking 2.0, Ray-Bans, Apple, the Meta AI app, tariffs, Reality Labs, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250501/p20#a250501p20)
- - [Uber launches a simpler UI for older adults, offering larger text, easy to find saved destinations, and fewer homescreen buttons; Lyft plans a similar update &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250501/p19#a250501p19)
- - [15 Best Coffee Subscriptions to Keep You Wired &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
+ - [The best 3DS emulator now has a Turbo mode to make grinding less painful](https://www.androidauthority.com/azahar-emulator-3ds-turbo-mode-3549883/)
+ - [Document: a US Army report from April ranks Palantir&#39;s new $178M mobile battlefield intelligence-gathering vehicle and trailer among its top-performing programs &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/250501/p22#a250501p22)
+ - [Therabody TheraFace Mask Review: The Vibrating LED Face Shield](https://www.wired.com/review/therabody-theraface-mask/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
