@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tim Sweeney finally lands a haymaker as US court slams Apple for &#39;obvious cover-up&#39; in major Epic victory that could see Fortnite return to iOS soon](https://www.pcgamer.com/gaming-industry/epic-apple-court-order-2025-injunction/)
  - [Shotgun Cop Man review](https://www.pcgamer.com/games/action/shotgun-cop-man/)
- - [Rusty Lake celebrates 10 years of strangeness with a free game, a new game announcement, a short film, and a big sale](https://www.pcgamer.com/games/adventure/rusty-lake-celebrates-10-years-of-strangeness-with-a-free-game-a-new-game-announcement-a-short-film-and-a-big-sale/)
- - [Gearbox is &#39;making rarity matter again&#39; in Borderlands 4 after dropping too many legendaries in Borderlands 3](https://www.pcgamer.com/games/fps/gearbox-is-making-rarity-matter-again-in-borderlands-4-after-dropping-too-many-legendaries-in-borderlands-3/)<!-- GAME:END -->
+ - [Rusty Lake celebrates 10 years of strangeness with a free game, a new game announcement, a short film, and a big sale](https://www.pcgamer.com/games/adventure/rusty-lake-celebrates-10-years-of-strangeness-with-a-free-game-a-new-game-announcement-a-short-film-and-a-big-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
