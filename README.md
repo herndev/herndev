@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global smartphone shipments rose 0.2% to 296.9M in Q1 2025; Samsung shipped 60.5M units for a 20% market share and Apple shipped 55M units for a 19% share &lpar;Canalys&rpar;](http://www.techmeme.com/250501/p16#a250501p16)
- - [Tesla board denies report it wanted to replace Elon Musk](https://www.theverge.com/news/659396/tesla-new-ceo-elon-musk-replacement-wsj-report-denial)
- - [YouTube’s floating mini player on Android is getting some much-needed design changes](https://www.androidauthority.com/youtube-floating-mini-player-design-tweak-3549849/)<!-- TECH:END -->
+ - [Q&amp;A with Mark Zuckerberg on LlamaCon, Llama API, Meta&#39;s AI opportunity, social networking 2.0, Ray-Bans, Apple, the Meta AI app, tariffs, Reality Labs, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250501/p20#a250501p20)
+ - [Uber launches a simpler UI for older adults, offering larger text, easy to find saved destinations, and fewer homescreen buttons; Lyft plans a similar update &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250501/p19#a250501p19)
+ - [15 Best Coffee Subscriptions to Keep You Wired &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
