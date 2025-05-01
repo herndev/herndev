@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, May 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-1-2025/)
  - [US court slams Apple for &#39;obvious cover-up&#39; in major Epic victory that could see Fortnite return to iOS soon](https://www.pcgamer.com/gaming-industry/epic-apple-court-order-2025-injunction/)
- - [Shotgun Cop Man review](https://www.pcgamer.com/games/action/shotgun-cop-man/)
- - [Rusty Lake celebrates 10 years of strangeness with a free game, a new game announcement, a short film, and a big sale](https://www.pcgamer.com/games/adventure/rusty-lake-celebrates-10-years-of-strangeness-with-a-free-game-a-new-game-announcement-a-short-film-and-a-big-sale/)<!-- GAME:END -->
+ - [Shotgun Cop Man review](https://www.pcgamer.com/games/action/shotgun-cop-man/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
