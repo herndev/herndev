@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [More Intellimouse than eXtreme gamer, Cherry&#39;s new wireless gaming mice give understated office chic in the best possible way](https://www.pcgamer.com/hardware/gaming-keyboards/more-intellimouse-than-extreme-gamer-cherrys-new-wireless-gaming-mice-give-understated-office-chic-in-the-best-possible-way/)
  - [Pokémon Go raid schedule for May 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
- - [FFXIV housing lottery schedule for May 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
- - [Pokémon Go Spotlight Hour schedule for May 2025](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)<!-- GAME:END -->
+ - [FFXIV housing lottery schedule for May 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
