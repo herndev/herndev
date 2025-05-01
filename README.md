@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An oral history from 19 current and former natural language processing researchers of the past five years, including how LLMs and ChatGPT disrupted their fields &lpar;John Pavlus/Quanta Magazine&rpar;](http://www.techmeme.com/250501/p13#a250501p13)
- - [Gruve.ai, which aims to change the traditional IT consultancy model by using AI agents to improve enterprise margins, raised a $20M Series A led by Mayfield &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250501/p12#a250501p12)
- - [Experts say China&#39;s hacking breakthroughs have become more secretive since laws began requiring researchers to report vulnerabilities to the government first &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/250501/p11#a250501p11)<!-- TECH:END -->
+ - [Global smartphone shipments rose 0.2% to 296.9M in Q1 2025; Samsung shipped 60.5M units for a 20% market share and Apple shipped 55M units for a 19% share &lpar;Canalys&rpar;](http://www.techmeme.com/250501/p16#a250501p16)
+ - [Tesla board denies report it wanted to replace Elon Musk](https://www.theverge.com/news/659396/tesla-new-ceo-elon-musk-replacement-wsj-report-denial)
+ - [YouTube’s floating mini player on Android is getting some much-needed design changes](https://www.androidauthority.com/youtube-floating-mini-player-design-tweak-3549849/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
