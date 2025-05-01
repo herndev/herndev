@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Terrifying](http://9gag.com/gag/aLnA57M)
- - ⏩ [From my archive](http://9gag.com/gag/aAyMAML)
- - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
+ - ⏩ [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 👉 [When you do a really good job](http://9gag.com/gag/a348r61)<!-- MEMES:END -->
 
 ---
 
