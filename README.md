@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice view](http://9gag.com/gag/aNDBNDK)
+ - 💣 [When you do a really good job](http://9gag.com/gag/a348r61)
  - ⏩ [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)
- - 👉 [High five, little basketball player](http://9gag.com/gag/abAxn8B)<!-- MEMES:END -->
+ - 👉 [Terrifying](http://9gag.com/gag/aLnA57M)<!-- MEMES:END -->
 
 ---
 
