@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gearbox is &#39;making rarity matter again&#39; in Borderlands 4 after dropping too many legendaries in Borderlands 3](https://www.pcgamer.com/games/fps/gearbox-is-making-rarity-matter-again-in-borderlands-4-after-dropping-too-many-legendaries-in-borderlands-3/)
- - [Todd Howard is hiding in Oblivion Remastered, and you can find him and make him fall in love with you](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-todd-howard-easter-egg/)
- - [13 Things We Learned About Borderlands 4 After Today&#39;s Big Event](https://kotaku.com/borderlands-4-state-of-play-gearbox-round-up-trailer-1851778578)<!-- GAME:END -->
+ - [Shotgun Cop Man review](https://www.pcgamer.com/games/action/shotgun-cop-man/)
+ - [Rusty Lake celebrates 10 years of strangeness with a free game, a new game announcement, a short film, and a big sale](https://www.pcgamer.com/games/adventure/rusty-lake-celebrates-10-years-of-strangeness-with-a-free-game-a-new-game-announcement-a-short-film-and-a-big-sale/)
+ - [Gearbox is &#39;making rarity matter again&#39; in Borderlands 4 after dropping too many legendaries in Borderlands 3](https://www.pcgamer.com/games/fps/gearbox-is-making-rarity-matter-again-in-borderlands-4-after-dropping-too-many-legendaries-in-borderlands-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
