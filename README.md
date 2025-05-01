@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)
- - ⏩ [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
- - 👉 [Super Based. Woman interrupts Muslim Rally at Texas State Capitol.](http://9gag.com/gag/aAyM902)<!-- MEMES:END -->
+ - 💣 [Christian Bale had initially turned down the possibility of appearing in any comic book or superhero films after Batman, seeing the genre as uninteresting. He agreed to take part in \u201cThor: Love and Thunder\u201d after his kids begged him to take the role. His performance outstands all](http://9gag.com/gag/aD2bKP9)
+ - ⏩ [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
 
 ---
 
