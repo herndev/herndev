@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Fans Have Thrown Sombra In Jail](https://kotaku.com/overwatch-2-sombra-hero-bans-season-16-competitive-1851778683)
- - [What&#39;s The Best Class For Beginners In Oblivion Remastered?](https://kotaku.com/oblivion-remastered-best-class-beginners-spellsword-1851778678)
- - [Borderlands 4 looks like more of the same yet again—and in 2025, that&#39;s not enough](https://www.pcgamer.com/games/fps/borderlands-4-looks-like-more-of-the-same-yet-again-and-in-2025-thats-not-enough/)<!-- GAME:END -->
+ - [Everafter Falls 2.0 – A Year in Listening and Twisting](https://news.xbox.com/en-us/2025/05/01/everafter-falls-2-0/)
+ - [Original Oblivion developers gather to watch the 2006 documentary on the making of the game, and Todd Howard sums up the feeling: &#39;This is going to be really f**king awkward, watching this&#39;](https://www.pcgamer.com/games/rpg/original-oblivion-developers-gather-to-watch-the-2006-documentary-on-the-making-of-the-game-and-todd-howard-sums-up-the-feeling-this-is-going-to-be-really-f-king-awkward-watching-this/)
+ - [At 34 seconds, Jack Black&#39;s chicken song from A Minecraft Movie just became the shortest ever to crack the Billboard Hot 100](https://www.pcgamer.com/movies-tv/at-34-seconds-jack-blacks-chicken-song-from-a-minecraft-movie-just-became-the-shortest-ever-to-crack-the-billboard-hot-100/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
