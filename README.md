@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy hardcore](http://9gag.com/gag/aNDBE16)
- - ⏩ [Sweet now i can watch my asian por-um.. political commentary and know what&#39;s going on](http://9gag.com/gag/aO895M2)
- - 👉 [The Trick](http://9gag.com/gag/aLnA75A)<!-- MEMES:END -->
+ - 💣 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
+ - ⏩ [Doctor or Engineer?](http://9gag.com/gag/aMVz5EW)
+ - 👉 [Super Based. Woman interrupts Muslim Rally at Texas State Capitol.](http://9gag.com/gag/aAyM902)<!-- MEMES:END -->
 
 ---
 
