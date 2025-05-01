@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is getting ready to host Elon Musk’s Grok AI model](https://www.theverge.com/notepad-microsoft-newsletter/659535/microsoft-elon-musk-grok-ai-azure-ai-foundry-notepad)
- - [Epic Games says it will take a 0% store fee from developers on their first $1M in revenue per app per year, and plans to let developers launch own webshops &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250501/p38#a250501p38)
- - [LinkedIn will share ad revenue with creators for the first time, starting with 30 B2B creators, and says users now watch 36% more video content than a year ago &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/250501/p37#a250501p37)<!-- TECH:END -->
+ - [Epic Games Store Webshops launches to help iOS developers offer out-of-app purchases](https://appleinsider.com/articles/25/05/01/epic-games-store-webshops-launches-to-help-ios-developers-offer-out-of-app-purchases?utm_medium=rss)
+ - [Game developer Scopely says Monopoly Go! crossed $5B in gross bookings in just 24 months, significantly ahead of the previous benchmark of 40 months &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/250501/p42#a250501p42)
+ - [Epic is offering developers an alternative to Apple&amp;#8217;s in-app purchases](https://www.theverge.com/news/659655/epic-games-store-revenue-share-webshops-apple-in-app-purchases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
