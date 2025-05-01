@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re either gonna die or have a great relationship. Either way you just know she&#39;s gonna try to peg you. Gotta sleep with a pillow strapped around your ass when you sleep now](http://9gag.com/gag/ae9xz2p)
- - ⏩ [High five, little basketball player](http://9gag.com/gag/abAxn8B)
- - 👉 [DAM SON](http://9gag.com/gag/aYQM5dV)<!-- MEMES:END -->
+ - 💣 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - ⏩ [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 👉 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)<!-- MEMES:END -->
 
 ---
 
