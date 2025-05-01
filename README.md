@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Should Andor have killed [redacted]? Let’s discuss](https://www.polygon.com/star-wars/567194/andor-cinta-vel-death-ghorman-bury-your-gays)
- - [Polygon Sold To Valnet And Hit With Mass Layoffs](https://kotaku.com/polygon-sold-vox-media-valnet-layoffs-digital-gaming-1851778655)
- - [The RX 9060 XT rumour mill flip-flops again: we shall have an 8 GB version of AMD&#39;s card after all](https://www.pcgamer.com/hardware/graphics-cards/the-rx-9060-xt-rumour-mill-flip-flops-again-we-shall-have-an-8-gb-version-of-amds-card-after-all/)<!-- GAME:END -->
+ - [Overwatch 2 Fans Have Thrown Sombra In Jail](https://kotaku.com/overwatch-2-sombra-hero-bans-season-16-competitive-1851778683)
+ - [What&#39;s The Best Class For Beginners In Oblivion Remastered?](https://kotaku.com/oblivion-remastered-best-class-beginners-spellsword-1851778678)
+ - [Borderlands 4 looks like more of the same yet again—and in 2025, that&#39;s not enough](https://www.pcgamer.com/games/fps/borderlands-4-looks-like-more-of-the-same-yet-again-and-in-2025-thats-not-enough/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
