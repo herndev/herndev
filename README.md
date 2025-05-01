@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, May 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-1-2025/)
- - [US court slams Apple for &#39;obvious cover-up&#39; in major Epic victory that could see Fortnite return to iOS soon](https://www.pcgamer.com/gaming-industry/epic-apple-court-order-2025-injunction/)
- - [Shotgun Cop Man review](https://www.pcgamer.com/games/action/shotgun-cop-man/)<!-- GAME:END -->
+ - [Pokémon Go raid schedule for May 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
+ - [FFXIV housing lottery schedule for May 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
+ - [Pokémon Go Spotlight Hour schedule for May 2025](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
