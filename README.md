@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S25 Edge debuts in a couple weeks, but we already know what to expect](https://www.androidauthority.com/samsung-galaxy-s25-edge-specs-leak-3549929/)
- - [Dub, which lets users trade the same stock as celebrities and politicians like Nancy Pelosi, raised a $30M Series A co-led by Notable Capital and Neo &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250501/p30#a250501p30)
- - [Fortnite’s Star Wars season will let you fly an X-Wing and use Force Lightning](https://www.theverge.com/news/659347/fortnite-star-wars-galactic-battle-season-battle-pass)<!-- TECH:END -->
+ - [Waymo is still good at avoiding serious death and destruction after 56.7 million miles](https://www.theverge.com/news/658952/waymo-injury-prevention-human-benchmark-study)
+ - [Google is putting AI Mode right in Search](https://www.theverge.com/news/659448/google-ai-mode-search-public-test-us)
+ - [Wikipedia is using &lpar;some&rpar; generative AI now](https://www.theverge.com/ai-artificial-intelligence/659222/wikipedia-generative-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
