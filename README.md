@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suffering of being success](http://9gag.com/gag/aGyGXvn)
- - ⏩ [Terrifying](http://9gag.com/gag/aLnA57M)
- - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
+ - 💣 [Is this a win/win?](http://9gag.com/gag/avyxMnb)
+ - ⏩ [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)
+ - 👉 [Nice view](http://9gag.com/gag/aNDBNDK)<!-- MEMES:END -->
 
 ---
 
