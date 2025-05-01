@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the A Taste of Home quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-a-taste-of-home-quest-walkthrough/)
- - [I spent the day using GameSir&#39;s new GameHub app, potentially corrupting my phone and gaming PC, so you don&#39;t have to](https://www.pcgamer.com/hardware/handheld-gaming-pcs/i-spent-the-day-using-gamesirs-new-gamehub-app-potentially-corrupting-my-phone-and-gaming-pc-so-you-dont-have-to/)
- - [More Intellimouse than eXtreme gamer, Cherry&#39;s new wireless gaming mice give understated office chic in the best possible way](https://www.pcgamer.com/hardware/gaming-keyboards/more-intellimouse-than-extreme-gamer-cherrys-new-wireless-gaming-mice-give-understated-office-chic-in-the-best-possible-way/)<!-- GAME:END -->
+ - [PC gaming can&#39;t stop getting Ws, as Microsoft shares it&#39;s being weighed down by console and hardware revenue woes](https://www.pcgamer.com/gaming-industry/pc-gaming-cant-stop-getting-ws-as-microsoft-shares-its-being-weighed-down-by-console-and-hardware-revenue-woes/)
+ - [FragPunk codes for May 2025](https://www.polygon.com/guides/535817/fragpunk-codes-list-redeem-all)
+ - [&#39;China is right behind us&#39;: Jensen Huang says we need to &#39;accelerate the diffusion of American AI technology around the world&#39;](https://www.pcgamer.com/hardware/china-is-right-behind-us-jensen-huang-says-we-need-to-accelerate-the-diffusion-of-american-ai-technology-around-the-world/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
