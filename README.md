@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you do a really good job](http://9gag.com/gag/a348r61)
- - ⏩ [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 👉 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)<!-- MEMES:END -->
+ - 💣 [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)
+ - ⏩ [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 👉 [Let me guess, yet another fund raiser for the perpetrator to Buy Large Mansions?](http://9gag.com/gag/aNDB7x6)<!-- MEMES:END -->
 
 ---
 
