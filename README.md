@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo is still good at avoiding serious death and destruction after 56.7 million miles](https://www.theverge.com/news/658952/waymo-injury-prevention-human-benchmark-study)
- - [Google is putting AI Mode right in Search](https://www.theverge.com/news/659448/google-ai-mode-search-public-test-us)
- - [Wikipedia is using &lpar;some&rpar; generative AI now](https://www.theverge.com/ai-artificial-intelligence/659222/wikipedia-generative-ai)<!-- TECH:END -->
+ - [Microsoft is getting ready to host Elon Musk’s Grok AI model](https://www.theverge.com/notepad-microsoft-newsletter/659535/microsoft-elon-musk-grok-ai-azure-ai-foundry-notepad)
+ - [Epic Games says it will take a 0% store fee from developers on their first $1M in revenue per app per year, and plans to let developers launch own webshops &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250501/p38#a250501p38)
+ - [LinkedIn will share ad revenue with creators for the first time, starting with 30 B2B creators, and says users now watch 36% more video content than a year ago &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/250501/p37#a250501p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
