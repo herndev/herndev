@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite is coming back to iOS in the US](https://www.theverge.com/news/659271/fortnite-ios-apple-app-store-us-return)
- - [&#39;Fortnite&#39; could return to Apple App Store after Judge finds Apple in violation of injunction](https://appleinsider.com/articles/25/04/30/fortnite-could-return-to-apple-app-store-after-judge-finds-apple-in-violation-of-injunction?utm_medium=rss)
- - [Borderlands 4: Getting the Perfect Roll On Your Favorite Gun Might Be a Lot Harder](https://www.cnet.com/tech/gaming/borderlands-4-getting-the-perfect-roll-on-your-favorite-gun-might-be-a-lot-harder/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AWS launches Nova Premier, which can process text, images, and videos, and is priced at $2.50/1M input tokens and $12.50/1M output tokens, available in Bedrock &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250430/p58#a250430p58)
+ - [Projector deals: I never thought projectors would get so good, portable, and affordable!](https://www.androidauthority.com/xgimi-elfin-flip-xgimi-mogo-3-pro-deals-3549764/)
+ - [Tim Sweeney says Epic plans to submit Fortnite to the US iOS App Store next week and offers a &quot;peace proposal&quot; to end all litigation over App Store policies &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250430/p57#a250430p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
