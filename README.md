@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft just raised prices for Xbox consoles and games](https://www.polygon.com/news/581992/xbox-price-increase-us)
- - [Microsoft Announces Massive Xbox Console Price Hike, Xbox Games To Cost $80](https://kotaku.com/microsoft-xbox-series-x-s-price-increase-may-2025-1851778615)
- - [The untimely demise and belated resurrection of the notorious Captain Blood](https://www.polygon.com/features/567330/captain-blood-interview-sneg-publisher-lost-media-pc-consoles)<!-- GAME:END -->
+ - [Free Play Days – Forza Motorsport and The Escapists](https://news.xbox.com/en-us/2025/05/01/free-play-days-05-01-2025/)
+ - [LG&#39;s new &#39;Hybrid Tandem&#39; tech apparently solves the blue light problem which could mean near-flawless OLED gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/lgs-new-hybrid-tandem-tech-apparently-solves-the-blue-light-problem-which-could-mean-near-flawless-oled-gaming-monitors/)
+ - [This colour E-ink monitor is very pretty but the price means you may be better off strapping 7 Kindle Colorsofts together](https://www.pcgamer.com/hardware/this-colour-e-ink-monitor-is-very-pretty-but-you-might-be-better-off-strapping-7-kindle-colorsofts-together/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
