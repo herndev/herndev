@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice view](http://9gag.com/gag/aNDBNDK)
- - ⏩ [What a cover](http://9gag.com/gag/a87eRBZ)
- - 👉 [A classic!](http://9gag.com/gag/a348XdN)<!-- MEMES:END -->
+ - 💣 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - ⏩ [Nice view](http://9gag.com/gag/aNDBNDK)
+ - 👉 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)<!-- MEMES:END -->
 
 ---
 
