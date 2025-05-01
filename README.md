@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not mine tho](http://9gag.com/gag/aW4oAvK)
- - ⏩ [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 💣 [You&#39;re either gonna die or have a great relationship. Either way you just know she&#39;s gonna try to peg you. Gotta sleep with a pillow strapped around your ass when you sleep now](http://9gag.com/gag/ae9xz2p)
+ - ⏩ [High five, little basketball player](http://9gag.com/gag/abAxn8B)
  - 👉 [DAM SON](http://9gag.com/gag/aYQM5dV)<!-- MEMES:END -->
 
 ---
