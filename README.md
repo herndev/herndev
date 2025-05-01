@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you do a really good job](http://9gag.com/gag/a348r61)
- - ⏩ [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)
- - 👉 [Terrifying](http://9gag.com/gag/aLnA57M)<!-- MEMES:END -->
+ - 💣 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
+ - ⏩ [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 👉 [Meme](http://9gag.com/gag/adBxELd)<!-- MEMES:END -->
 
 ---
 
