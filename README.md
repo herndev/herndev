@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say China&#39;s hacking breakthroughs have become more secretive since laws began requiring researchers to report vulnerabilities to the government first &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/250501/p11#a250501p11)
- - [Norway&#39;s $1.8T oil fund aims to save $400M from its $2B in annual trading costs by using AI to trade more efficiently, and it has already saved nearly $100M &lpar;Financial Times&rpar;](http://www.techmeme.com/250501/p10#a250501p10)
- - [Mark your calendars: Galaxy S25 Edge launch date surfaces again](https://www.androidauthority.com/samsung-galaxy-s25-edge-launch-date-teaser-leak-3549842/)<!-- TECH:END -->
+ - [An oral history from 19 current and former natural language processing researchers of the past five years, including how LLMs and ChatGPT disrupted their fields &lpar;John Pavlus/Quanta Magazine&rpar;](http://www.techmeme.com/250501/p13#a250501p13)
+ - [Gruve.ai, which aims to change the traditional IT consultancy model by using AI agents to improve enterprise margins, raised a $20M Series A led by Mayfield &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250501/p12#a250501p12)
+ - [Experts say China&#39;s hacking breakthroughs have become more secretive since laws began requiring researchers to report vulnerabilities to the government first &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/250501/p11#a250501p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
