@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS launches Nova Premier, which can process text, images, and videos, and is priced at $2.50/1M input tokens and $12.50/1M output tokens, available in Bedrock &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250430/p58#a250430p58)
- - [Projector deals: I never thought projectors would get so good, portable, and affordable!](https://www.androidauthority.com/xgimi-elfin-flip-xgimi-mogo-3-pro-deals-3549764/)
- - [Tim Sweeney says Epic plans to submit Fortnite to the US iOS App Store next week and offers a &quot;peace proposal&quot; to end all litigation over App Store policies &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250430/p57#a250430p57)<!-- TECH:END -->
+ - [Get the Samsung Galaxy S25 Ultra for as low as $499.99!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-5-3549763/)
+ - [Sam Altman&#39;s Eye-Scanning Orb Is Now Coming to the US](https://www.wired.com/story/sam-altman-orb-eyeball-scan-launch-us/)
+ - [Apple says it disagrees with the court&#39;s injunction in its dispute against Epic Games and plans to appeal, but will comply with the order in the meantime &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250430/p60#a250430p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
