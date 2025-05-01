@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games Store Webshops launches to help iOS developers offer out-of-app purchases](https://appleinsider.com/articles/25/05/01/epic-games-store-webshops-launches-to-help-ios-developers-offer-out-of-app-purchases?utm_medium=rss)
- - [Game developer Scopely says Monopoly Go! crossed $5B in gross bookings in just 24 months, significantly ahead of the previous benchmark of 40 months &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/250501/p42#a250501p42)
- - [Epic is offering developers an alternative to Apple&amp;#8217;s in-app purchases](https://www.theverge.com/news/659655/epic-games-store-revenue-share-webshops-apple-in-app-purchases)<!-- TECH:END -->
+ - [Google dusts off Google Voice and adds three-way calling](https://www.theverge.com/news/659719/google-voice-app-update-call-ui-merge-three-way)
+ - [Shokz’ new open headphones don’t care what ear you clip them to](https://www.theverge.com/news/659701/shokz-opendots-one-bluetooth-wireless-headphones-open)
+ - [LinkedIn Games Are Still the Best Part of LinkedIn](https://www.wired.com/story/games-are-still-the-best-part-of-linkedin/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
