@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - ⏩ [Nice view](http://9gag.com/gag/aNDBNDK)
+ - 💣 [SuperShopper](http://9gag.com/gag/a87exMV)
+ - ⏩ [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
  - 👉 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)<!-- MEMES:END -->
 
 ---
