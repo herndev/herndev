@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High five, little basketball player](http://9gag.com/gag/abAxn8B)
- - ⏩ [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)
- - 👉 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)<!-- MEMES:END -->
+ - 💣 [Happy hardcore](http://9gag.com/gag/aNDBE16)
+ - ⏩ [Waiting for it...](http://9gag.com/gag/aqyxPZv)
+ - 👉 [Sweet now i can watch my asian por-um.. political commentary and know what&#39;s going on](http://9gag.com/gag/aO895M2)<!-- MEMES:END -->
 
 ---
 
