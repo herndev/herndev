@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC gaming can&#39;t stop getting Ws, as Microsoft shares it&#39;s being weighed down by console and hardware revenue woes](https://www.pcgamer.com/gaming-industry/pc-gaming-cant-stop-getting-ws-as-microsoft-shares-its-being-weighed-down-by-console-and-hardware-revenue-woes/)
- - [FragPunk codes for May 2025](https://www.polygon.com/guides/535817/fragpunk-codes-list-redeem-all)
- - [&#39;China is right behind us&#39;: Jensen Huang says we need to &#39;accelerate the diffusion of American AI technology around the world&#39;](https://www.pcgamer.com/hardware/china-is-right-behind-us-jensen-huang-says-we-need-to-accelerate-the-diffusion-of-american-ai-technology-around-the-world/)<!-- GAME:END -->
+ - [Turns out that the earliest versions of Windows 7 took longer to load depending on your choice of desktop wallpaper](https://www.pcgamer.com/hardware/turns-out-windows-7-took-longer-to-load-depending-on-your-choice-of-wallpaper/)
+ - [Assassin&#39;s Creed Shadows announces more difficulties, more immersion options, more Jesuits, and a bo staff in its year 1 roadmap](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-announces-more-difficulties-more-immersion-options-more-jesuits-and-a-bo-staff-in-its-year-1-roadmap/)
+ - [Every movie and show coming to Netflix in May](https://www.polygon.com/entertainment/567032/new-on-netflix-may-2025-movies-tv)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
