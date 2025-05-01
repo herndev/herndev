@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Little Language Lessons, three experimental AI tools to help users learn specific phrases in a new language, sound less formal, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250501/p4#a250501p4)
- - [Kadrey v. Meta, centered on the use of LibGen to train Llama AI models, begins Thursday and marks the first big test in the ongoing battle over AI and copyright &lpar;Financial Times&rpar;](http://www.techmeme.com/250501/p3#a250501p3)
- - [Adidas Promo Codes &amp; Deals: 25% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
+ - [EcoFlow Wave 3 review: a portable A/C and heater that&amp;#8217;s better in every way](https://www.theverge.com/reviews/658641/ecoflow-wave-3-air-conditioner-review-vanlife)
+ - [AI tools from Google, LinkedIn, Salesforce, and others are helping job seekers sell their skills, identify new roles, and tailor résumés to different fields &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/250501/p9#a250501p9)
+ - [Alibaba releases Qwen2.5-Omni-3B, a scaled-down 3B-parameter variant of its flagship 7B-parameter multimodal model, designed to run on consumer PCs and laptops &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250501/p8#a250501p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
