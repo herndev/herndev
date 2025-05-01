@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Forza Motorsport and The Escapists](https://news.xbox.com/en-us/2025/05/01/free-play-days-05-01-2025/)
- - [LG&#39;s new &#39;Hybrid Tandem&#39; tech apparently solves the blue light problem which could mean near-flawless OLED gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/lgs-new-hybrid-tandem-tech-apparently-solves-the-blue-light-problem-which-could-mean-near-flawless-oled-gaming-monitors/)
- - [This colour E-ink monitor is very pretty but the price means you may be better off strapping 7 Kindle Colorsofts together](https://www.pcgamer.com/hardware/this-colour-e-ink-monitor-is-very-pretty-but-you-might-be-better-off-strapping-7-kindle-colorsofts-together/)<!-- GAME:END -->
+ - [Should Andor have killed [redacted]? Let’s discuss](https://www.polygon.com/star-wars/567194/andor-cinta-vel-death-ghorman-bury-your-gays)
+ - [Polygon Sold To Valnet And Hit With Mass Layoffs](https://kotaku.com/polygon-sold-vox-media-valnet-layoffs-digital-gaming-1851778655)
+ - [The RX 9060 XT rumour mill flip-flops again: we shall have an 8 GB version of AMD&#39;s card after all](https://www.pcgamer.com/hardware/graphics-cards/the-rx-9060-xt-rumour-mill-flip-flops-again-we-shall-have-an-8-gb-version-of-amds-card-after-all/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
