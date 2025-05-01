@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A judge just blew up Apple&amp;#8217;s control of the App Store](https://www.theverge.com/news/659246/apple-epic-app-store-judge-ruling-control)
- - [In Meta&#39;s earnings call, Mark Zuckerberg says the company plans to add ads to the Meta AI app, plus a paid tier for more compute and functionality &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250430/p54#a250430p54)
- - [US v. Google: Sundar Pichai said Google expects to strike a Gemini deal with Apple by mid-2025 and Tim Cook told him Apple plans to add more AI models this year &lpar;The Verge&rpar;](http://www.techmeme.com/250430/p53#a250430p53)<!-- TECH:END -->
+ - [Fortnite is coming back to iOS in the US](https://www.theverge.com/news/659271/fortnite-ios-apple-app-store-us-return)
+ - [&#39;Fortnite&#39; could return to Apple App Store after Judge finds Apple in violation of injunction](https://appleinsider.com/articles/25/04/30/fortnite-could-return-to-apple-app-store-after-judge-finds-apple-in-violation-of-injunction?utm_medium=rss)
+ - [Borderlands 4: Getting the Perfect Roll On Your Favorite Gun Might Be a Lot Harder](https://www.cnet.com/tech/gaming/borderlands-4-getting-the-perfect-roll-on-your-favorite-gun-might-be-a-lot-harder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
