@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fandom Blows Up Giant Bomb](https://kotaku.com/giant-bomb-fandom-dan-ryckert-jeff-grubb-gerstmann-1851778728)
- - [Gaming website Polygon sheds staff, editor-in-chief departs following sale to Game Rant owner Valnet](https://www.pcgamer.com/gaming-industry/polygon-sale-valnet/)
- - [Minecraft Movie Song Sets Record as Shortest Track Ever on Billboard Hot 100](https://kotaku.com/jack-black-minecraft-song-steves-lava-chicken-breaks-1851778727)<!-- GAME:END -->
+ - [Oblivion is a lot better now that I can read](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-is-a-lot-better-now-that-i-can-read/)
+ - [Polygon Sold To Valnet And Hit With Mass Layoffs](https://kotaku.com/polygon-sold-vox-media-valnet-layoffs-digital-gaming-1851778655)
+ - [Someone Made Marvel Rivals In Overwatch 2, And It Kinda Rules](https://kotaku.com/overwatch-2-workshop-code-marvel-rivals-characters-1851778749)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
