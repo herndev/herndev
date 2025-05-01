@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The untimely demise and belated resurrection of the notorious Captain Blood](https://www.polygon.com/features/567330/captain-blood-interview-sneg-publisher-lost-media-pc-consoles)
- - [&#39;We as the developers do not feel like we are being robbed by anyone&#39;: Drug Dealer Simulator developer says it &#39;would not pursue any legal actions against Schedule 1 in any shape or form&#39; if it had its way](https://www.pcgamer.com/games/sim/we-as-the-developers-do-not-feel-like-we-are-being-robbed-by-anyone-drug-dealer-simulator-developer-says-it-would-not-pursue-any-legal-actions-against-schedule-1-in-any-shape-or-form-if-it-had-its-way/)
- - [Nobody told me you could cheese the hell out of Oblivion Remastered&#39;s lockpicking minigame and I&#39;ve only broken 3 lockpicks since discovering it](https://www.pcgamer.com/games/rpg/nobody-told-me-you-could-cheese-the-hell-out-of-oblivion-remastereds-lockpicking-minigame-and-ive-only-broken-3-lockpicks-since-discovering-it/)<!-- GAME:END -->
+ - [Microsoft just raised prices for Xbox consoles and games](https://www.polygon.com/news/581992/xbox-price-increase-us)
+ - [Microsoft Announces Massive Xbox Console Price Hike, Xbox Games To Cost $80](https://kotaku.com/microsoft-xbox-series-x-s-price-increase-may-2025-1851778615)
+ - [The untimely demise and belated resurrection of the notorious Captain Blood](https://www.polygon.com/features/567330/captain-blood-interview-sneg-publisher-lost-media-pc-consoles)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
