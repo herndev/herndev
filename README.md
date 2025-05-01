@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple doesn’t seem too worried about Trump’s tariffs](https://www.theverge.com/news/659650/apple-q2-2025-earnings-tariffs-app-store)
- - [Roku reports Q1 revenue up 16% YoY to $1.02B vs. $1.01B est., a net loss of $27.4M, compared to $50.9M a year ago, and stops posting streaming household figures &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250501/p54#a250501p54)
- - [Yaber T2 Outdoor Projector drops to record-low price, but you have to hurry!](https://www.androidauthority.com/yaber-t2-projector-deal-3-3550116/)<!-- TECH:END -->
+ - [Everything but iPhone will ship from Vietnam and India in Q3](https://appleinsider.com/articles/25/05/01/everything-but-iphone-will-ship-from-vietnam-and-india-in-q3?utm_medium=rss)
+ - [Amazon’s CEO says the company can weather challenges from tariffs because of how big it is](https://www.theverge.com/news/659868/amazon-ceo-andy-jassy-tariffs)
+ - [Epic Games takes a jab at Apple during victory lap with latest announcement](https://www.androidauthority.com/epic-games-no-store-fee-3550101/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
