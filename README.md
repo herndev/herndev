@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)
- - ⏩ [When you do a really good job](http://9gag.com/gag/a348r61)
- - 👉 [Let me guess, yet another fund raiser for the perpetrator to Buy Large Mansions?](http://9gag.com/gag/aNDB7x6)<!-- MEMES:END -->
+ - 💣 [Terrifying](http://9gag.com/gag/aLnA57M)
+ - ⏩ [From my archive](http://9gag.com/gag/aAyMAML)
+ - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
 
 ---
 
