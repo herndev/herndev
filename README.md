@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
- - ⏩ [Doctor or Engineer?](http://9gag.com/gag/aMVz5EW)
- - 👉 [Super Based. Woman interrupts Muslim Rally at Texas State Capitol.](http://9gag.com/gag/aAyM902)<!-- MEMES:END -->
+ - 💣 [What the](http://9gag.com/gag/aGyG577)
+ - ⏩ [You&#39;re either gonna die or have a great relationship. Either way you just know she&#39;s gonna try to peg you. Gotta sleep with a pillow strapped around your ass when you sleep now](http://9gag.com/gag/ae9xz2p)
+ - 👉 [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)<!-- MEMES:END -->
 
 ---
 
