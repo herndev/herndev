@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple gains market share as smartphone industry flatlines in early 2025](https://appleinsider.com/articles/25/05/01/apple-gains-market-share-as-smartphone-industry-flatlines-in-early-2025?utm_medium=rss)
- - [Microsoft is raising prices on Xbox consoles, controllers, and games worldwide](https://www.theverge.com/news/659430/microsoft-xbox-console-controller-game-price-increases-worldwide)
- - [Gemini Ultra may be on the way as part of a new Google One AI plan](https://www.androidauthority.com/gemini-pro-ultra-subscription-tiers-3549890/)<!-- TECH:END -->
+ - [Pinterest rolls out global AI labels to mark images made or edited with generative AI, adding an &quot;AI modified&quot; stamp, via metadata analysis and AI classifiers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250501/p28#a250501p28)
+ - [Epic Games vs Apple -- The continuing App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)
+ - [Samsung TV Plus is on a mission to never let you pay for live sports channels again](https://www.androidauthority.com/samsung-tv-plus-more-sports-channels-3549902/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
