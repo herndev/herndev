@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Who takes whom?](http://9gag.com/gag/azxOy3x)
- - ⏩ [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)
- - 👉 [From my archive](http://9gag.com/gag/aAyMAML)<!-- MEMES:END -->
+ - ⏩ [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
+ - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
 
 ---
 
