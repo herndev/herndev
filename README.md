@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Caused the European Power Outage?](https://www.wired.com/story/what-caused-the-european-power-outage-spain-blackout/)
- - [Anker’s lightest 45W USB-C charger is already on sale for 26 percent off](https://www.theverge.com/tech/659710/anker-45w-nano-usb-c-charger-skylight-calendar-deal-sale)
- - [Uber and autonomous vehicle operator May Mobility partner to deploy &quot;thousands&quot; of robotaxis across the US, starting in Arlington, Texas, by the end of 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250501/p45#a250501p45)<!-- TECH:END -->
+ - [Apple doesn’t seem too worried about Trump’s tariffs](https://www.theverge.com/news/659650/apple-q2-2025-earnings-tariffs-app-store)
+ - [Roku reports Q1 revenue up 16% YoY to $1.02B vs. $1.01B est., a net loss of $27.4M, compared to $50.9M a year ago, and stops posting streaming household figures &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250501/p54#a250501p54)
+ - [Yaber T2 Outdoor Projector drops to record-low price, but you have to hurry!](https://www.androidauthority.com/yaber-t2-projector-deal-3-3550116/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
