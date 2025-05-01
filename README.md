@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything but iPhone will ship from Vietnam and India in Q3](https://appleinsider.com/articles/25/05/01/everything-but-iphone-will-ship-from-vietnam-and-india-in-q3?utm_medium=rss)
- - [Amazon’s CEO says the company can weather challenges from tariffs because of how big it is](https://www.theverge.com/news/659868/amazon-ceo-andy-jassy-tariffs)
- - [Epic Games takes a jab at Apple during victory lap with latest announcement](https://www.androidauthority.com/epic-games-no-store-fee-3550101/)<!-- TECH:END -->
+ - [Microsoft goes passwordless by default on new accounts](https://www.theverge.com/news/659929/microsoft-passwordless-passkeys-by-default)
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
+ - [A Judge Says Meta’s AI Copyright Case Is About ‘the Next Taylor Swift’](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
