@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google dusts off Google Voice and adds three-way calling](https://www.theverge.com/news/659719/google-voice-app-update-call-ui-merge-three-way)
- - [Shokz’ new open headphones don’t care what ear you clip them to](https://www.theverge.com/news/659701/shokz-opendots-one-bluetooth-wireless-headphones-open)
- - [LinkedIn Games Are Still the Best Part of LinkedIn](https://www.wired.com/story/games-are-still-the-best-part-of-linkedin/)<!-- TECH:END -->
+ - [What Caused the European Power Outage?](https://www.wired.com/story/what-caused-the-european-power-outage-spain-blackout/)
+ - [Anker’s lightest 45W USB-C charger is already on sale for 26 percent off](https://www.theverge.com/tech/659710/anker-45w-nano-usb-c-charger-skylight-calendar-deal-sale)
+ - [Uber and autonomous vehicle operator May Mobility partner to deploy &quot;thousands&quot; of robotaxis across the US, starting in Arlington, Texas, by the end of 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250501/p45#a250501p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
