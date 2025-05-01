@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study from Cohere, Stanford, and others accuses LMArena of helping Meta, OpenAI, Google, and Amazon game its popular crowdsourced AI benchmark Chatbot Arena &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250430/p62#a250430p62)
  - [World&#39;s WLD launches in most of the US, including on Coinbase, starting this week, as Tools for Humanity debuts a portable &quot;orb mini&quot; device for iris scanning &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250430/p61#a250430p61)
- - [Satechi Mac Mini M4 Hub &amp; Stand review: Small, but too tight on bandwidth](https://appleinsider.com/articles/25/05/01/satechi-mac-mini-m4-hub-stand-review-small-but-too-tight-on-bandwidth?utm_medium=rss)
- - [Get the Samsung Galaxy S25 Ultra for as low as $499.99!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-5-3549763/)<!-- TECH:END -->
+ - [Satechi Mac Mini M4 Hub &amp; Stand review: Small, but too tight on bandwidth](https://appleinsider.com/articles/25/05/01/satechi-mac-mini-m4-hub-stand-review-small-but-too-tight-on-bandwidth?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
