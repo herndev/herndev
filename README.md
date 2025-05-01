@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best 3DS emulator now has a Turbo mode to make grinding less painful](https://www.androidauthority.com/azahar-emulator-3ds-turbo-mode-3549883/)
- - [Document: a US Army report from April ranks Palantir&#39;s new $178M mobile battlefield intelligence-gathering vehicle and trailer among its top-performing programs &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/250501/p22#a250501p22)
- - [Therabody TheraFace Mask Review: The Vibrating LED Face Shield](https://www.wired.com/review/therabody-theraface-mask/)<!-- TECH:END -->
+ - [Apple gains market share as smartphone industry flatlines in early 2025](https://appleinsider.com/articles/25/05/01/apple-gains-market-share-as-smartphone-industry-flatlines-in-early-2025?utm_medium=rss)
+ - [Microsoft is raising prices on Xbox consoles, controllers, and games worldwide](https://www.theverge.com/news/659430/microsoft-xbox-console-controller-game-price-increases-worldwide)
+ - [Gemini Ultra may be on the way as part of a new Google One AI plan](https://www.androidauthority.com/gemini-pro-ultra-subscription-tiers-3549890/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
