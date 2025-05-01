@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion is a lot better now that I can read](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-is-a-lot-better-now-that-i-can-read/)
+ - [The Past, Present, and Future of Overwatch 2’s Stadium](https://overwatch.blizzard.com/news/24198087/#new_tab)
  - [Polygon Sold To Valnet And Hit With Mass Layoffs](https://kotaku.com/polygon-sold-vox-media-valnet-layoffs-digital-gaming-1851778655)
- - [Someone Made Marvel Rivals In Overwatch 2, And It Kinda Rules](https://kotaku.com/overwatch-2-workshop-code-marvel-rivals-characters-1851778749)<!-- GAME:END -->
+ - [Bethesda Thinks Fan Remaster Of Oblivion Is &#39;Very Special&#39; And Supports It](https://kotaku.com/bethesda-oblivion-remastered-skyblivion-mod-support-1851778773)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
