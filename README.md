@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who takes whom?](http://9gag.com/gag/azxOy3x)
- - ⏩ [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
- - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
+ - 💣 [Not mine tho](http://9gag.com/gag/aW4oAvK)
+ - ⏩ [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 👉 [DAM SON](http://9gag.com/gag/aYQM5dV)<!-- MEMES:END -->
 
 ---
 
