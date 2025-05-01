@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More Intellimouse than eXtreme gamer, Cherry&#39;s new wireless gaming mice give understated office chic in the best possible way](https://www.pcgamer.com/hardware/gaming-keyboards/more-intellimouse-than-extreme-gamer-cherrys-new-wireless-gaming-mice-give-understated-office-chic-in-the-best-possible-way/)
- - [Pokémon Go raid schedule for May 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
- - [FFXIV housing lottery schedule for May 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
+ - [How to complete the A Taste of Home quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-a-taste-of-home-quest-walkthrough/)
+ - [I spent the day using GameSir&#39;s new GameHub app, potentially corrupting my phone and gaming PC, so you don&#39;t have to](https://www.pcgamer.com/hardware/handheld-gaming-pcs/i-spent-the-day-using-gamesirs-new-gamehub-app-potentially-corrupting-my-phone-and-gaming-pc-so-you-dont-have-to/)
+ - [More Intellimouse than eXtreme gamer, Cherry&#39;s new wireless gaming mice give understated office chic in the best possible way](https://www.pcgamer.com/hardware/gaming-keyboards/more-intellimouse-than-extreme-gamer-cherrys-new-wireless-gaming-mice-give-understated-office-chic-in-the-best-possible-way/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
