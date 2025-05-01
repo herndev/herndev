@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High five, little basketball player](http://9gag.com/gag/abAxn8B)
- - ⏩ [Who takes whom?](http://9gag.com/gag/azxOy3x)
- - 👉 [It was at this moment](http://9gag.com/gag/a0en3gZ)<!-- MEMES:END -->
+ - 💣 [Super Based. Woman interrupts Muslim Rally at Texas State Capitol.](http://9gag.com/gag/aAyM902)
+ - ⏩ [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
+ - 👉 [Who takes whom?](http://9gag.com/gag/azxOy3x)<!-- MEMES:END -->
 
 ---
 
