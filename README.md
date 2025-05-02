@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft goes passwordless by default on new accounts](https://www.theverge.com/news/659929/microsoft-passwordless-passkeys-by-default)
  - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [A Judge Says Meta’s AI Copyright Case Is About ‘the Next Taylor Swift’](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)<!-- TECH:END -->
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [I can not believe you can get a Samsung 70-inch 4K TV for just $399 these days](https://www.androidauthority.com/samsung-70-inch-class-du7200b-crystal-uhd-4k-smart-tv-deal-3550114/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
