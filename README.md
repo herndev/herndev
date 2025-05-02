@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Thing 2025 Needed Was GTA 6](https://kotaku.com/gta-6-delay-may-2026-too-many-games-rockstar-trailer-2-1851778860)
- - [I&amp;#8217;ve never used a more versatile handheld than the Retroid Flip 2](https://www.polygon.com/hardware/566693/ive-never-used-a-more-versatile-handheld-than-the-retroid-flip-2)
- - [Share of the Week: Days Gone Remastered](https://blog.playstation.com/2025/05/02/share-of-the-week-days-gone-remastered/)<!-- GAME:END -->
+ - [The Breach update for No Rest for the Wicked is an overhaul so massive that old save files just won&#39;t cut it](https://www.pcgamer.com/games/rpg/the-breach-update-for-no-rest-for-the-wicked-is-an-overhaul-so-massive-that-old-save-files-just-wont-cut-it/)
+ - [This Is The Best One-Hit-Kill HDR Loadout In Black Ops 6 And Warzone](https://kotaku.com/blops-6-wz-hdr-loadout-class-attachement-gunfighter-1851778887)
+ - [Don&#39;t Wait If You&#39;re Planning To Buy A New PS5](https://kotaku.com/ps5-price-deal-discount-tariffs-xbox-switch-2-trump-1851778878)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
