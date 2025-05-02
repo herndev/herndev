@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - ⏩ [Is this a win/win?](http://9gag.com/gag/avyxMnb)
+ - ⏩ [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
  - 👉 [BBQ](http://9gag.com/gag/aryxj1K)<!-- MEMES:END -->
 
 ---
