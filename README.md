@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuwait cracks down on crypto miners for being a &quot;major&quot; cause of blackouts; energy consumption in the Al-Wafrah region fell by 55% after the crackdown &lpar;Ahmed Hagagy/Reuters&rpar;](http://www.techmeme.com/250502/p4#a250502p4)
- - [New tariffs are now hitting cheap US imports from China](https://www.theverge.com/news/659676/us-de-minimis-expires-trump-import-tariffs-china)
- - [One UI 8 leak indicates Samsung could fix Now Bar oversight on Flip foldables](https://www.androidauthority.com/one-ui-8-animation-now-bar-cover-screen-leak-3550192/)<!-- TECH:END -->
+ - [The Chromecast is back, but not as we know it](https://www.theverge.com/news/660028/thomson-cast-150-chromecast-clone-launch)
+ - [Apple changes App Store rules to allow external purchases](https://www.theverge.com/news/660025/apple-changes-app-store-rules-to-allow-external-purchases)
+ - [The Slowdown at Ports Is a Warning of Rough Economic Seas Ahead](https://www.wired.com/story/maritime-shipping-tariffs-blank-sailings/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
