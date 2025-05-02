@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple lost control of the App Store](https://www.theverge.com/the-vergecast/660098/apple-app-store-payment-rules-epic-meta-google-vergecast)
- - [Inside the App Store: getting the most from Apple&#39;s app marketplaces](https://appleinsider.com/articles/25/05/02/inside-the-app-store-getting-the-most-from-apples-app-marketplaces?utm_medium=rss)
- - [Twilio reports Q1 revenue up 12% YoY to $1.17B, 335K+ active customer accounts vs. 313K+ in Q1 2024, and Q2 revenue forecast above est.; TWLO jumps 8%+ &lpar;Yahoo Finance&rpar;](http://www.techmeme.com/250502/p10#a250502p10)<!-- TECH:END -->
+ - [The cargo-carrying Gitamini robot is getting a Star Wars droid makeover](https://www.theverge.com/news/659576/piaggio-fast-forward-gitamini-cargo-robot-star-wars-disney-lucasfilm-g1t4-m1n1)
+ - [Thunderbolts* is Marvel’s latest attempt at clawing out of an existential void](https://www.theverge.com/movie-reviews/659694/thunderbolts-review)
+ - [The UK FCA plans to ban retail investors from borrowing money to buy cryptocurrencies, as it aims to bring much of the crypto market under its regulatory remit &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/250502/p14#a250502p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
