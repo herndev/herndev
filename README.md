@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expressive theme could extend to Google Services settings, and here’s your first look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-services-settings-expressive-theme-apk-teardown-3550219/)
- - [11 Best Cold-Brew Coffee Makers You Can Buy &lpar;2025&rpar;](https://www.wired.com/story/best-cold-brew-coffee-makers/)
- - [Dozens of YouTube Channels Are Showing AI-Generated Cartoon Gore and Fetish Content](https://www.wired.com/story/dozens-of-youtube-channels-are-showing-ai-generated-cartoon-gore-and-fetish-content/)<!-- TECH:END -->
+ - [Rockstar Games delays the release of Grand Theft Auto VI from fall 2025 to May 26, 2026, says it needs extra time to deliver the expected quality &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250502/p8#a250502p8)
+ - [Tim Cook praises Trump in US tech titan meeting](https://appleinsider.com/articles/25/05/02/tim-cook-praises-trump-in-us-tech-titan-meeting?utm_medium=rss)
+ - [Pinterest users left confused by mass account suspensions](https://www.theverge.com/news/660070/pinterest-mass-account-suspensions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
