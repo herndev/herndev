@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Following its huge win over Apple, Epic says it will take even less money from developers who use its store](https://www.pcgamer.com/gaming-industry/following-its-huge-win-over-apple-epic-says-it-will-take-even-less-money-from-developers-who-use-its-store/)
- - [Grand Theft Auto 6&#39;s delay makes me think we won&#39;t be playing this thing on PC until 2027, or god forbid even 2028](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6s-delay-makes-me-think-we-wont-be-playing-this-thing-on-pc-until-2027-or-god-forbid-even-2028/)
- - [How To Defeat Ultimate Sakapatate in Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-ultimate-sakapatate-boss-1851778901)<!-- GAME:END -->
+ - [Here&#39;s The Emperor From Star Wars Holding An Assault Rifle In Fortnite](https://kotaku.com/star-wars-fortnite-emperor-gun-rifle-fortnite-palpatine-1851778966)
+ - [Kingdom Come: Deliverance 2 actor celebrates the Grand Theft Auto 6 delay: &#39;WE&#39;RE IN WITH A SHOT! GOTY!&#39;](https://www.pcgamer.com/games/kingdom-come-deliverance-2-actor-celebrates-the-grand-theft-auto-6-delay-were-in-with-a-shot-goty/)
+ - [This &#39;narrative simulator&#39; about a delivery driver in deeply rural Russia is giving me serious Mudrunner meets Disco Elysium vibes](https://www.pcgamer.com/games/sim/this-narrative-simulator-about-a-delivery-driver-in-deeply-rural-russia-is-giving-me-serious-mudrunner-meets-disco-elysium-vibes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
