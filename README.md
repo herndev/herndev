@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC game releases we&#39;re most excited about in May](https://www.pcgamer.com/games/pc-game-release-dates-may-2025/)
- - [DrLupo admits to cheating in $100,000 online chess tournament, faces brutal backlash from Reddit: &#39;Dude went from &#39;what&#39;s a horsey?&#39; to &#39;I can see 15 moves ahead&#39; in 2 minutes&#39;](https://www.pcgamer.com/games/drlupo-admits-to-cheating-in-usd100-000-online-chess-tournament-faces-brutal-backlash-from-reddit-dude-went-from-whats-a-horsey-to-i-can-see-15-moves-ahead-in-2-minutes/)
- - [Stadium&#39;s roadmap for Overwatch 2 is planned out for the next three seasons, with more heroes, maps, and custom games on the horizon](https://www.pcgamer.com/games/fps/stadiums-roadmap-for-overwatch-2-is-planned-out-for-the-next-three-seasons-with-more-heroes-maps-and-custom-games-on-the-horizon/)<!-- GAME:END -->
+ - [Oblivion&#39;s one-room waterfront shack is the perfect player home](https://www.pcgamer.com/games/rpg/oblivions-one-room-waterfront-shack-is-the-perfect-player-home/)
+ - [Today&#39;s Wordle answer for Friday, May 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-2-2025/)
+ - [The best Oblivion Remastered mods](https://www.pcgamer.com/games/the-elder-scrolls/best-oblivion-remastered-mods/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
