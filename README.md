@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tower Of London Evolution](http://9gag.com/gag/aqyx3vR)
- - ⏩ [Accountability? Not even once](http://9gag.com/gag/ae9xLdp)
- - 👉 [The birth giver](http://9gag.com/gag/aW4oVqA)<!-- MEMES:END -->
+ - 💣 [Another old artefact. Make this platform great again.](http://9gag.com/gag/ajPx2Xw)
+ - ⏩ [Upvote this ham sandwich, it will give you luck today.](http://9gag.com/gag/aQzmGne)
+ - 👉 [Is there a middle ground anywhere?](http://9gag.com/gag/aNDBy9A)<!-- MEMES:END -->
 
 ---
 
