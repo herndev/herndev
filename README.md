@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good. Happy for you. Very nice.](http://9gag.com/gag/amoxE12)
- - ⏩ [`Maybe little bad technique.`](http://9gag.com/gag/aMVzpwV)
- - 👉 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)<!-- MEMES:END -->
+ - 💣 [Versus](http://9gag.com/gag/aW4oVDK)
+ - ⏩ [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
+ - 👉 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)<!-- MEMES:END -->
 
 ---
 
