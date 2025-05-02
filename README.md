@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini redesign makes it a snap to stay on top of your chat history](https://www.androidauthority.com/google-gemini-web-redesign-infinite-scrolling-chat-history-3550392/)
- - [Mike Waltz Has Somehow Gotten Even Worse at Using Signal](https://www.wired.com/story/mike-waltz-has-somehow-gotten-even-worse-at-using-signal/)
- - [In praise of a special little bag](https://www.theverge.com/gadgets/660409/specialty-bag-pannier-hiking-two-wheel-topo)<!-- TECH:END -->
+ - [A hacking group called DragonForce takes credit for ransomware attacks targeting British retailers M&amp;S, Harrods, and Co-Op over the past two weeks &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250502/p26#a250502p26)
+ - [Firefox could be doomed without Google search deal, says executive](https://www.theverge.com/news/660548/firefox-google-search-revenue-share-doj-antitrust-remedies)
+ - [Google Gemini redesign makes it a snap to stay on top of your chat history](https://www.androidauthority.com/google-gemini-web-redesign-infinite-scrolling-chat-history-3550392/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
