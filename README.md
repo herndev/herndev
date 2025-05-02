@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Let’s rewatch the Grand Theft Auto VI trailer](https://www.theverge.com/news/660233/gta-6-trailer-rewatch-delay)
- - [Trump’s first 100 days: DOGE, tariffs, TikTok, and more](https://www.theverge.com/decoder-podcast-with-nilay-patel/658841/trump-100-days-musk-doge-kosa-tiktok-carr-fcc-tariffs-trade)
- - [Filing: Amazon restructured part of its $8B Anthropic investment from convertible notes into stock in Q1, creating a $3.3B pre-tax gain that boosted its profits &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250502/p17#a250502p17)<!-- TECH:END -->
+ - [Uber partners with Chinese self-driving startup Momenta to launch robotaxi services outside the US and China, starting with Europe in early 2026 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250502/p19#a250502p19)
+ - [Price war: Get Apple&#39;s M4 15-inch MacBook Air for $1,049](https://appleinsider.com/articles/25/05/02/price-war-get-apples-m4-15-inch-macbook-air-for-1049?utm_medium=rss)
+ - [Your Roomba is lazy, and scientists say we should hack them to do more than sit around](https://www.androidauthority.com/roomba-lazy-scientsts-hack-more-useful-3550346/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
