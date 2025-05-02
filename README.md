@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33&#39;s publisher says Oblivion Remastered &#39;didn&#39;t seem to harm us at all&#39;, in fact, it may have helped: &#39;Everybody was thinking and talking about the genre&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-publisher-says-oblivion-remastered-didnt-seem-to-harm-us-at-all-in-fact-it-may-have-helped-everybody-was-thinking-and-talking-about-the-genre/)
- - [Oblivion&#39;s one-room waterfront shack is the perfect player home](https://www.pcgamer.com/games/rpg/oblivions-one-room-waterfront-shack-is-the-perfect-player-home/)
- - [Today&#39;s Wordle answer for Friday, May 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-2-2025/)<!-- GAME:END -->
+ - [Grand Theft Auto 6 delayed until May 2026: &#39;We need this extra time to deliver at the level of quality you expect and deserve&#39;](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-delayed-until-may-2026/)
+ - [Grand Theft Auto 6 Is Delayed To May 2026](https://kotaku.com/gta6-grand-theft-auto-6-release-date-delay-may-2026-1851778799)
+ - [Meta&#39;s AI app wants to &#39;get to know you&#39; and can warn you if you should be &#39;worried about bears&#39;](https://www.pcgamer.com/software/ai/metas-ai-app-wants-to-get-to-know-you-and-can-warn-you-if-you-should-be-worried-about-bears/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
