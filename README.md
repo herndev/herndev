@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s another Pathfinder 2e bundle on Humble with nearly $700 of books for $57, including an adventure that&#39;ll let you go full Mortal Kombat with your friends](https://www.pcgamer.com/games/theres-another-pathfinder-2e-bundle-on-humble-with-nearly-usd700-of-books-for-usd57-including-an-adventure-thatll-let-you-go-full-mortal-kombat-with-your-friends/)
- - [Take-Two shares tank after GTA 6&#39;s delay, CEO Strauss Zelnick assures panicky investors it&#39;ll still make more money than god and it&#39;s &#39;steadfast in our commitment to excellence&#39;](https://www.pcgamer.com/games/grand-theft-auto/take-two-shares-tank-after-gta-6s-delay-ceo-strauss-zelnick-assures-panicky-investors-itll-still-make-more-money-than-god-and-its-steadfast-in-our-commitment-to-excellence/)
- - [US federal judge on Meta&#39;s AI copyright fair use argument: &#39;You are dramatically changing, you might even say obliterating, the market for that person&#39;s work&#39;](https://www.pcgamer.com/software/ai/us-federal-judge-on-metas-ai-copyright-fair-use-argument-you-are-dramatically-changing-you-might-even-say-obliterating-the-market-for-that-persons-work/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for May 5 to 9](https://news.xbox.com/en-us/2025/05/02/next-week-on-xbox-new-games-for-may-5-to-9/)
+ - [Microsoft says it wants to completely ditch passwords as it makes passwordless login the default for all new accounts](https://www.pcgamer.com/software/operating-systems/microsoft-says-it-wants-to-completely-ditch-passwords-as-it-makes-passwordless-login-the-default-for-all-new-accounts/)
+ - [Marvel Rivals Season 2.5 release date, Ultron abilities, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-2-5-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
