@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20% Off DoorDash Promo Code | April 2025](https://www.wired.com/story/doordash-promo-code/)
- - [Memo: the US DOD seeks to secure right-to-repair provisions in Army contracts to access tools, software, and technical data without IP constraints &lpar;Reuters&rpar;](http://www.techmeme.com/250502/p1#a250502p1)
- - [Move over Gemini, Google’s best AI research assistant is getting its own app soon](https://www.androidauthority.com/google-notebooklm-app-3550170/)<!-- TECH:END -->
+ - [Sources: Beijing&#39;s decision to exempt eight types of US-made chips from tariffs came after auto industry lobbying, exposing China&#39;s dependence on US auto chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250502/p2#a250502p2)
+ - [Groupon Promo Codes: 25% Off May 2025](https://www.wired.com/story/groupon-promo-code/)
+ - [25% Off Design Within Reach Promo Code | May 2025](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
