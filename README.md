@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber partners with Chinese self-driving startup Momenta to launch robotaxi services outside the US and China, starting with Europe in early 2026 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250502/p19#a250502p19)
- - [Price war: Get Apple&#39;s M4 15-inch MacBook Air for $1,049](https://appleinsider.com/articles/25/05/02/price-war-get-apples-m4-15-inch-macbook-air-for-1049?utm_medium=rss)
- - [Your Roomba is lazy, and scientists say we should hack them to do more than sit around](https://www.androidauthority.com/roomba-lazy-scientsts-hack-more-useful-3550346/)<!-- TECH:END -->
+ - [iPhone 17 rumors: More speed &amp; ProMotion screen, but no big redesign](https://appleinsider.com/articles/25/05/02/iphone-17-rumors-more-speed-promotion-screen-but-no-big-redesign?utm_medium=rss)
+ - [Sources: Apple is working with Anthropic for a new version of Xcode that will use Claude Sonnet to write, edit, and test code, with plans to roll out internally &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250502/p22#a250502p22)
+ - [Welcome to Sam Altman’s Orb Store](https://www.wired.com/story/sam-altman-orb-store-san-francisco/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
