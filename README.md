@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Clair Obscur: Expedition 33&#39;s publisher says Oblivion Remastered &#39;didn&#39;t seem to harm us at all&#39;, in fact, it may have helped: &#39;Everybody was thinking and talking about the genre&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-publisher-says-oblivion-remastered-didnt-seem-to-harm-us-at-all-in-fact-it-may-have-helped-everybody-was-thinking-and-talking-about-the-genre/)
  - [Oblivion&#39;s one-room waterfront shack is the perfect player home](https://www.pcgamer.com/games/rpg/oblivions-one-room-waterfront-shack-is-the-perfect-player-home/)
- - [Today&#39;s Wordle answer for Friday, May 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-2-2025/)
- - [The best Oblivion Remastered mods](https://www.pcgamer.com/games/the-elder-scrolls/best-oblivion-remastered-mods/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, May 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-2-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
