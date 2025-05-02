@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Foam depot tool](http://9gag.com/gag/a4PAvKw)
- - ⏩ [According to netflix](http://9gag.com/gag/axyOxdK)
- - 👉 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)<!-- MEMES:END -->
+ - 💣 [Tower Of London Evolution](http://9gag.com/gag/aqyx3vR)
+ - ⏩ [Accountability? Not even once](http://9gag.com/gag/ae9xLdp)
+ - 👉 [The birth giver](http://9gag.com/gag/aW4oVqA)<!-- MEMES:END -->
 
 ---
 
