@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice view](http://9gag.com/gag/aNDBNDK)
- - ⏩ [Meme](http://9gag.com/gag/adBxELd)
- - 👉 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)<!-- MEMES:END -->
+ - 💣 [Tower Of London Evolution](http://9gag.com/gag/aqyx3vR)
+ - ⏩ [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 👉 [When coffee orders get more complex than crime investigations](http://9gag.com/gag/aGyGW40)<!-- MEMES:END -->
 
 ---
 
