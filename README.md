@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - ⏩ [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
- - 👉 [BBQ](http://9gag.com/gag/aryxj1K)<!-- MEMES:END -->
+ - 💣 [SuperShopper](http://9gag.com/gag/a87exMV)
+ - ⏩ [At least the dog was carried carefully.](http://9gag.com/gag/aryxYGV)
+ - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
 
 ---
 
