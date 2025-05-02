@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At least the dog was carried carefully.](http://9gag.com/gag/aryxYGV)
- - ⏩ [SuperShopper](http://9gag.com/gag/a87exMV)
- - 👉 [Totally a title about something different](http://9gag.com/gag/aNDBbPr)<!-- MEMES:END -->
+ - 💣 [Accountability? Not even once](http://9gag.com/gag/ae9xLdp)
+ - ⏩ [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)
+ - 👉 [Meme](http://9gag.com/gag/adBxELd)<!-- MEMES:END -->
 
 ---
 
