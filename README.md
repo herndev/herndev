@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rockstar Games delays the release of Grand Theft Auto VI from fall 2025 to May 26, 2026, says it needs extra time to deliver the expected quality &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250502/p8#a250502p8)
- - [Tim Cook praises Trump in US tech titan meeting](https://appleinsider.com/articles/25/05/02/tim-cook-praises-trump-in-us-tech-titan-meeting?utm_medium=rss)
- - [Pinterest users left confused by mass account suspensions](https://www.theverge.com/news/660070/pinterest-mass-account-suspensions)<!-- TECH:END -->
+ - [How Apple lost control of the App Store](https://www.theverge.com/the-vergecast/660098/apple-app-store-payment-rules-epic-meta-google-vergecast)
+ - [Inside the App Store: getting the most from Apple&#39;s app marketplaces](https://appleinsider.com/articles/25/05/02/inside-the-app-store-getting-the-most-from-apples-app-marketplaces?utm_medium=rss)
+ - [Twilio reports Q1 revenue up 12% YoY to $1.17B, 335K+ active customer accounts vs. 313K+ in Q1 2024, and Q2 revenue forecast above est.; TWLO jumps 8%+ &lpar;Yahoo Finance&rpar;](http://www.techmeme.com/250502/p10#a250502p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
