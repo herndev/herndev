@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s next big feature turns your phone into a desktop](https://www.theverge.com/news/660509/android-desktop-mode-16-beta-demo)
- - [Google plans to roll out Gemini next week for children under 13 whose parents use Family Link and says it will not use the under-13 users&#39; data to train its AI &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250502/p23#a250502p23)
- - [You can still snag an Xbox Series X / S before Microsoft’s price hike fully takes effect](https://www.theverge.com/tech/660373/microsoft-xbox-series-x-s-price-hike-dell-walmart-deal-sale)<!-- TECH:END -->
+ - [Google Gemini redesign makes it a snap to stay on top of your chat history](https://www.androidauthority.com/google-gemini-web-redesign-infinite-scrolling-chat-history-3550392/)
+ - [Mike Waltz Has Somehow Gotten Even Worse at Using Signal](https://www.wired.com/story/mike-waltz-has-somehow-gotten-even-worse-at-using-signal/)
+ - [In praise of a special little bag](https://www.theverge.com/gadgets/660409/specialty-bag-pannier-hiking-two-wheel-topo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
