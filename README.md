@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do not REDEEM it !!!!!!](http://9gag.com/gag/a7o9Q2m)
- - ⏩ [The summit queue at Mount Everest](http://9gag.com/gag/aD2bv0K)
- - 👉 [Seems about right](http://9gag.com/gag/aRBvn3j)<!-- MEMES:END -->
+ - 💣 [Nice view](http://9gag.com/gag/aNDBNDK)
+ - ⏩ [It was at this moment](http://9gag.com/gag/a0en3gZ)
+ - 👉 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)<!-- MEMES:END -->
 
 ---
 
