@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tower Of London Evolution](http://9gag.com/gag/aqyx3vR)
- - ⏩ [He knows what he did](http://9gag.com/gag/aGyG32K)
- - 👉 [When coffee orders get more complex than crime investigations](http://9gag.com/gag/aGyGW40)<!-- MEMES:END -->
+ - 💣 [Stare Contest](http://9gag.com/gag/aD2byA7)
+ - ⏩ [Foam depot tool](http://9gag.com/gag/a4PAvKw)
+ - 👉 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)<!-- MEMES:END -->
 
 ---
 
