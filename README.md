@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Ops 6&#39;s CR-56 AMAX Has Terrifying Accuracy If You Spec It Out Right](https://kotaku.com/blops-6-warzone-wz-cr56-loadout-perks-attachments-1851778834)
- - [Nvidia denies &#39;tall tales&#39; that chips are being smuggled in fake baby bumps and alongside live lobsters](https://www.pcgamer.com/hardware/graphics-cards/nvidia-denies-tall-tales-that-chips-are-being-smuggled-in-fake-baby-bumps-and-alongside-live-lobsters/)
- - [I feel like I can finally say we&#39;re at a point where buying new PC gaming gear doesn&#39;t mean settling for less](https://www.pcgamer.com/hardware/i-feel-like-i-can-finally-say-were-at-a-point-where-buying-new-pc-gaming-gear-doesnt-mean-settling-for-less/)<!-- GAME:END -->
+ - [The Last Thing 2025 Needed Was GTA 6](https://kotaku.com/gta-6-delay-may-2026-too-many-games-rockstar-trailer-2-1851778860)
+ - [I&amp;#8217;ve never used a more versatile handheld than the Retroid Flip 2](https://www.polygon.com/hardware/566693/ive-never-used-a-more-versatile-handheld-than-the-retroid-flip-2)
+ - [Share of the Week: Days Gone Remastered](https://blog.playstation.com/2025/05/02/share-of-the-week-days-gone-remastered/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
