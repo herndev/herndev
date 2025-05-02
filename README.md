@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [At least the dog was carried carefully.](http://9gag.com/gag/aryxYGV)
- - ⏩ [Do not REDEEM it !!!!!!](http://9gag.com/gag/a7o9Q2m)
- - 👉 [Accountability? Not even once](http://9gag.com/gag/ae9xLdp)<!-- MEMES:END -->
+ - ⏩ [SuperShopper](http://9gag.com/gag/a87exMV)
+ - 👉 [Totally a title about something different](http://9gag.com/gag/aNDBbPr)<!-- MEMES:END -->
 
 ---
 
