@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Andor Is Only Getting Better As Its Second Season Continues](https://kotaku.com/star-wars-andor-season-2-review-vg-chat-cinta-ghorman-1851778986)
  - [Here&#39;s The Emperor From Star Wars Holding An Assault Rifle In Fortnite](https://kotaku.com/star-wars-fortnite-emperor-gun-rifle-fortnite-palpatine-1851778966)
- - [Kingdom Come: Deliverance 2 actor celebrates the Grand Theft Auto 6 delay: &#39;WE&#39;RE IN WITH A SHOT! GOTY!&#39;](https://www.pcgamer.com/games/kingdom-come-deliverance-2-actor-celebrates-the-grand-theft-auto-6-delay-were-in-with-a-shot-goty/)
- - [This &#39;narrative simulator&#39; about a delivery driver in deeply rural Russia is giving me serious Mudrunner meets Disco Elysium vibes](https://www.pcgamer.com/games/sim/this-narrative-simulator-about-a-delivery-driver-in-deeply-rural-russia-is-giving-me-serious-mudrunner-meets-disco-elysium-vibes/)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2 actor celebrates the Grand Theft Auto 6 delay: &#39;WE&#39;RE IN WITH A SHOT! GOTY!&#39;](https://www.pcgamer.com/games/kingdom-come-deliverance-2-actor-celebrates-the-grand-theft-auto-6-delay-were-in-with-a-shot-goty/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
