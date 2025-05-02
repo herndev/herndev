@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stare Contest](http://9gag.com/gag/aD2byA7)
- - ⏩ [Foam depot tool](http://9gag.com/gag/a4PAvKw)
- - 👉 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)<!-- MEMES:END -->
+ - 💣 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
+ - ⏩ [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 👉 [Good. Happy for you. Very nice.](http://9gag.com/gag/amoxE12)<!-- MEMES:END -->
 
 ---
 
