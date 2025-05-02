@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Accountability? Not even once](http://9gag.com/gag/ae9xLdp)
- - ⏩ [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)
- - 👉 [Meme](http://9gag.com/gag/adBxELd)<!-- MEMES:END -->
+ - 💣 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
+ - ⏩ [Is this a win/win?](http://9gag.com/gag/avyxMnb)
+ - 👉 [BBQ](http://9gag.com/gag/aryxj1K)<!-- MEMES:END -->
 
 ---
 
