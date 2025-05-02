@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the adtech remedy hearing, Google says it&#39;s open to giving competitors access to real-time bidding data from its ad exchange AdX, but it rejects a breakup &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250502/p28#a250502p28)
- - [Source: Anthropic offers to buy back shares from current and former employees, the first transaction of its kind for Anthropic, valuing the startup at $61.5B &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250502/p27#a250502p27)
- - [It sure sounds like chatbots are about to enter their ad era](https://www.androidauthority.com/google-ads-in-chatbot-conversations-3550409/)<!-- TECH:END -->
+ - [Laptop deals: Get a great computer from Apple or Samsung for under $1,000](https://www.androidauthority.com/apple-macbook-air-m4-samsung-galaxy-book4-pro-deals-3550414/)
+ - [Apple Is Moving US iPhone Assembly to India Amid Tariff Turmoil](https://www.cnet.com/tech/mobile/apple-is-moving-us-iphone-assembly-to-india-amid-tariff-turmoil/#ftag=CAD590a51e)
+ - [Google Gemini is coming for your children](https://www.androidauthority.com/google-gemini-is-coming-for-your-children-3550430/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
