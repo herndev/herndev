@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surprise! Carrier-locked Galaxy S25 models are first to get Samsung’s May update](https://www.androidauthority.com/samsung-galaxy-s25-may-2025-update-3550196/)
- - [Missed Care Plus? Samsung is giving select Galaxy owners a second chance to enroll](https://www.androidauthority.com/samsung-care-plus-open-enrollment-2025-3550180/)
- - [A California man pleads guilty to illegally accessing Disney&#39;s Slack channels and stealing 1.1TB of data in 2024; he later posed as hacktivist group &quot;NullBulge&quot; &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250502/p3#a250502p3)<!-- TECH:END -->
+ - [Kuwait cracks down on crypto miners for being a &quot;major&quot; cause of blackouts; energy consumption in the Al-Wafrah region fell by 55% after the crackdown &lpar;Ahmed Hagagy/Reuters&rpar;](http://www.techmeme.com/250502/p4#a250502p4)
+ - [New tariffs are now hitting cheap US imports from China](https://www.theverge.com/news/659676/us-de-minimis-expires-trump-import-tariffs-china)
+ - [One UI 8 leak indicates Samsung could fix Now Bar oversight on Flip foldables](https://www.androidauthority.com/one-ui-8-animation-now-bar-cover-screen-leak-3550192/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
