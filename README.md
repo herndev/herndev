@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cargo-carrying Gitamini robot is getting a Star Wars droid makeover](https://www.theverge.com/news/659576/piaggio-fast-forward-gitamini-cargo-robot-star-wars-disney-lucasfilm-g1t4-m1n1)
- - [Thunderbolts* is Marvel’s latest attempt at clawing out of an existential void](https://www.theverge.com/movie-reviews/659694/thunderbolts-review)
- - [The UK FCA plans to ban retail investors from borrowing money to buy cryptocurrencies, as it aims to bring much of the crypto market under its regulatory remit &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/250502/p14#a250502p14)<!-- TECH:END -->
+ - [One UI 7 is coming in like an avalanche across Galaxy devices in the US](https://www.androidauthority.com/one-ui-7-comes-to-multiple-galaxy-devices-3550279/)
+ - [An investigation finds 70+ content-farm YouTube channels using AI to produce cartoon content featuring gore and child abuse, featuring characters like minions &lpar;Laura Holliday/Wired&rpar;](http://www.techmeme.com/250502/p15#a250502p15)
+ - [Apple&#39;s $900 million tariff bill in Q3 is a sign of Tim Cook&#39;s supply chain mastery](https://appleinsider.com/articles/25/05/02/apples-900-million-tariff-bill-in-q3-is-a-sign-of-tim-cooks-supply-chain-mastery?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
