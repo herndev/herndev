@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another old artefact. Make this platform great again.](http://9gag.com/gag/ajPx2Xw)
+ - 💣 [This black color is making me go crazy](http://9gag.com/gag/an7xAmo)
  - ⏩ [Upvote this ham sandwich, it will give you luck today.](http://9gag.com/gag/aQzmGne)
- - 👉 [Is there a middle ground anywhere?](http://9gag.com/gag/aNDBy9A)<!-- MEMES:END -->
+ - 👉 [Another old artefact. Make this platform great again.](http://9gag.com/gag/ajPx2Xw)<!-- MEMES:END -->
 
 ---
 
