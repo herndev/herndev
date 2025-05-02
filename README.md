@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
- - ⏩ [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 👉 [Meme](http://9gag.com/gag/adBxELd)<!-- MEMES:END -->
+ - 💣 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - ⏩ [Up for anything...](http://9gag.com/gag/ajPxwe8)
+ - 👉 [High five, little basketball player](http://9gag.com/gag/abAxn8B)<!-- MEMES:END -->
 
 ---
 
