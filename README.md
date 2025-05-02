@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Versus](http://9gag.com/gag/aW4oVDK)
- - ⏩ [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - 👉 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)<!-- MEMES:END -->
+ - 💣 [Another old artefact. Make this platform great again.](http://9gag.com/gag/ajPx2Xw)
+ - ⏩ [Perfectly Natural, Happens all the time.](http://9gag.com/gag/a9ym3DD)
+ - 👉 [Saved it without even trying](http://9gag.com/gag/aKG80Lj)<!-- MEMES:END -->
 
 ---
 
