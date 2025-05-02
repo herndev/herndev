@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7 is coming in like an avalanche across Galaxy devices in the US](https://www.androidauthority.com/one-ui-7-comes-to-multiple-galaxy-devices-3550279/)
- - [An investigation finds 70+ content-farm YouTube channels using AI to produce cartoon content featuring gore and child abuse, featuring characters like minions &lpar;Laura Holliday/Wired&rpar;](http://www.techmeme.com/250502/p15#a250502p15)
- - [Apple&#39;s $900 million tariff bill in Q3 is a sign of Tim Cook&#39;s supply chain mastery](https://appleinsider.com/articles/25/05/02/apples-900-million-tariff-bill-in-q3-is-a-sign-of-tim-cooks-supply-chain-mastery?utm_medium=rss)<!-- TECH:END -->
+ - [Let’s rewatch the Grand Theft Auto VI trailer](https://www.theverge.com/news/660233/gta-6-trailer-rewatch-delay)
+ - [Trump’s first 100 days: DOGE, tariffs, TikTok, and more](https://www.theverge.com/decoder-podcast-with-nilay-patel/658841/trump-100-days-musk-doge-kosa-tiktok-carr-fcc-tariffs-trade)
+ - [Filing: Amazon restructured part of its $8B Anthropic investment from convertible notes into stock in Q1, creating a $3.3B pre-tax gain that boosted its profits &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250502/p17#a250502p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
