@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Chromecast is back, but not as we know it](https://www.theverge.com/news/660028/thomson-cast-150-chromecast-clone-launch)
- - [Apple changes App Store rules to allow external purchases](https://www.theverge.com/news/660025/apple-changes-app-store-rules-to-allow-external-purchases)
- - [The Slowdown at Ports Is a Warning of Rough Economic Seas Ahead](https://www.wired.com/story/maritime-shipping-tariffs-blank-sailings/)<!-- TECH:END -->
+ - [Expressive theme could extend to Google Services settings, and here’s your first look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-services-settings-expressive-theme-apk-teardown-3550219/)
+ - [11 Best Cold-Brew Coffee Makers You Can Buy &lpar;2025&rpar;](https://www.wired.com/story/best-cold-brew-coffee-makers/)
+ - [Dozens of YouTube Channels Are Showing AI-Generated Cartoon Gore and Fetish Content](https://www.wired.com/story/dozens-of-youtube-channels-are-showing-ai-generated-cartoon-gore-and-fetish-content/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
