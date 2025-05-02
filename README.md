@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`We have Star Wars at home`](http://9gag.com/gag/a87eg7e)
- - ⏩ [Do not REDEEM it !!!!!!](http://9gag.com/gag/a7o9Q2m)
+ - 💣 [Do not REDEEM it !!!!!!](http://9gag.com/gag/a7o9Q2m)
+ - ⏩ [The summit queue at Mount Everest](http://9gag.com/gag/aD2bv0K)
  - 👉 [Seems about right](http://9gag.com/gag/aRBvn3j)<!-- MEMES:END -->
 
 ---
