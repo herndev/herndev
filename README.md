@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice view](http://9gag.com/gag/aNDBNDK)
- - ⏩ [It was at this moment](http://9gag.com/gag/a0en3gZ)
- - 👉 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)<!-- MEMES:END -->
+ - 💣 [SuperShopper](http://9gag.com/gag/a87exMV)
+ - ⏩ [3D Printed Sherk](http://9gag.com/gag/a9ymG7K)
+ - 👉 [This poor bastard.](http://9gag.com/gag/a0eny7L)<!-- MEMES:END -->
 
 ---
 
