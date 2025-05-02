@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This black color is making me go crazy](http://9gag.com/gag/an7xAmo)
- - ⏩ [Upvote this ham sandwich, it will give you luck today.](http://9gag.com/gag/aQzmGne)
- - 👉 [Another old artefact. Make this platform great again.](http://9gag.com/gag/ajPx2Xw)<!-- MEMES:END -->
+ - 💣 [Good. Happy for you. Very nice.](http://9gag.com/gag/amoxE12)
+ - ⏩ [`Maybe little bad technique.`](http://9gag.com/gag/aMVzpwV)
+ - 👉 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)<!-- MEMES:END -->
 
 ---
 
