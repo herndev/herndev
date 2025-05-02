@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SuperShopper](http://9gag.com/gag/a87exMV)
- - ⏩ [At least the dog was carried carefully.](http://9gag.com/gag/aryxYGV)
- - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
+ - 💣 [Nice view](http://9gag.com/gag/aNDBNDK)
+ - ⏩ [Meme](http://9gag.com/gag/adBxELd)
+ - 👉 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)<!-- MEMES:END -->
 
 ---
 
