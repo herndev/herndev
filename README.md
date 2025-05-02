@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another old artefact. Make this platform great again.](http://9gag.com/gag/ajPx2Xw)
- - ⏩ [Perfectly Natural, Happens all the time.](http://9gag.com/gag/a9ym3DD)
- - 👉 [Saved it without even trying](http://9gag.com/gag/aKG80Lj)<!-- MEMES:END -->
+ - 💣 [When coffee orders get more complex than crime investigations](http://9gag.com/gag/aGyGW40)
+ - ⏩ [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 👉 [One from the archive](http://9gag.com/gag/ae9xXjQ)<!-- MEMES:END -->
 
 ---
 
