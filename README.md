@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for May 5 to 9](https://news.xbox.com/en-us/2025/05/02/next-week-on-xbox-new-games-for-may-5-to-9/)
- - [Microsoft says it wants to completely ditch passwords as it makes passwordless login the default for all new accounts](https://www.pcgamer.com/software/operating-systems/microsoft-says-it-wants-to-completely-ditch-passwords-as-it-makes-passwordless-login-the-default-for-all-new-accounts/)
- - [Marvel Rivals Season 2.5 release date, Ultron abilities, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-2-5-release-date/)<!-- GAME:END -->
+ - [AMD has released the slightly underwhelming official specs of the RX 9070 GRE, y&#39;know, the card you probably can&#39;t buy anyway](https://www.pcgamer.com/hardware/graphics-cards/amd-has-released-the-slightly-underwhelming-official-specs-of-the-rx-9070-gre-yknow-the-card-you-probably-cant-buy-anyway/)
+ - [Fanatical&#39;s running a $3-a-pop Bethesda bundle, so it&#39;s time to finally put down Oblivion Remastered and play Morrowind, the actual best TES game](https://www.pcgamer.com/games/fanaticals-running-a-usd3-a-pop-bethesda-bundle-so-its-time-to-finally-put-down-oblivion-remastered-and-play-morrowind-the-actual-best-tes-game/)
+ - [Parts for that high-performance Intel Battlemage gaming GPU have been spotted again and I still want it to teach Nvidia&#39;s RTX 5070 a $400 pricing lesson](https://www.pcgamer.com/hardware/graphics-cards/parts-for-that-high-performance-intel-battlemage-gaming-gpu-have-been-spotted-again-and-i-still-want-it-to-teach-nvidias-rtx-5070-a-usd400-pricing-lesson/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
