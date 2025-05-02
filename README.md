@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD has released the slightly underwhelming official specs of the RX 9070 GRE, y&#39;know, the card you probably can&#39;t buy anyway](https://www.pcgamer.com/hardware/graphics-cards/amd-has-released-the-slightly-underwhelming-official-specs-of-the-rx-9070-gre-yknow-the-card-you-probably-cant-buy-anyway/)
- - [Fanatical&#39;s running a $3-a-pop Bethesda bundle, so it&#39;s time to finally put down Oblivion Remastered and play Morrowind, the actual best TES game](https://www.pcgamer.com/games/fanaticals-running-a-usd3-a-pop-bethesda-bundle-so-its-time-to-finally-put-down-oblivion-remastered-and-play-morrowind-the-actual-best-tes-game/)
- - [Parts for that high-performance Intel Battlemage gaming GPU have been spotted again and I still want it to teach Nvidia&#39;s RTX 5070 a $400 pricing lesson](https://www.pcgamer.com/hardware/graphics-cards/parts-for-that-high-performance-intel-battlemage-gaming-gpu-have-been-spotted-again-and-i-still-want-it-to-teach-nvidias-rtx-5070-a-usd400-pricing-lesson/)<!-- GAME:END -->
+ - [Black Ops 6&#39;s CR-56 AMAX Has Terrifying Accuracy If You Spec It Out Right](https://kotaku.com/blops-6-warzone-wz-cr56-loadout-perks-attachments-1851778834)
+ - [Nvidia denies &#39;tall tales&#39; that chips are being smuggled in fake baby bumps and alongside live lobsters](https://www.pcgamer.com/hardware/graphics-cards/nvidia-denies-tall-tales-that-chips-are-being-smuggled-in-fake-baby-bumps-and-alongside-live-lobsters/)
+ - [I feel like I can finally say we&#39;re at a point where buying new PC gaming gear doesn&#39;t mean settling for less](https://www.pcgamer.com/hardware/i-feel-like-i-can-finally-say-were-at-a-point-where-buying-new-pc-gaming-gear-doesnt-mean-settling-for-less/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
