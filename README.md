@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you do a really good job](http://9gag.com/gag/a348r61)
- - ⏩ [Up for anything...](http://9gag.com/gag/ajPxwe8)
- - 👉 [High five, little basketball player](http://9gag.com/gag/abAxn8B)<!-- MEMES:END -->
+ - 💣 [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)
+ - ⏩ [Meme](http://9gag.com/gag/adBxELd)
+ - 👉 [Do not REDEEM it !!!!!!](http://9gag.com/gag/a7o9Q2m)<!-- MEMES:END -->
 
 ---
 
