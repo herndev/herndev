@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Auto 6 delayed until May 2026: &#39;We need this extra time to deliver at the level of quality you expect and deserve&#39;](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-delayed-until-may-2026/)
- - [Grand Theft Auto 6 Is Delayed To May 2026](https://kotaku.com/gta6-grand-theft-auto-6-release-date-delay-may-2026-1851778799)
- - [Meta&#39;s AI app wants to &#39;get to know you&#39; and can warn you if you should be &#39;worried about bears&#39;](https://www.pcgamer.com/software/ai/metas-ai-app-wants-to-get-to-know-you-and-can-warn-you-if-you-should-be-worried-about-bears/)<!-- GAME:END -->
+ - [There&#39;s another Pathfinder 2e bundle on Humble with nearly $700 of books for $57, including an adventure that&#39;ll let you go full Mortal Kombat with your friends](https://www.pcgamer.com/games/theres-another-pathfinder-2e-bundle-on-humble-with-nearly-usd700-of-books-for-usd57-including-an-adventure-thatll-let-you-go-full-mortal-kombat-with-your-friends/)
+ - [Take-Two shares tank after GTA 6&#39;s delay, CEO Strauss Zelnick assures panicky investors it&#39;ll still make more money than god and it&#39;s &#39;steadfast in our commitment to excellence&#39;](https://www.pcgamer.com/games/grand-theft-auto/take-two-shares-tank-after-gta-6s-delay-ceo-strauss-zelnick-assures-panicky-investors-itll-still-make-more-money-than-god-and-its-steadfast-in-our-commitment-to-excellence/)
+ - [US federal judge on Meta&#39;s AI copyright fair use argument: &#39;You are dramatically changing, you might even say obliterating, the market for that person&#39;s work&#39;](https://www.pcgamer.com/software/ai/us-federal-judge-on-metas-ai-copyright-fair-use-argument-you-are-dramatically-changing-you-might-even-say-obliterating-the-market-for-that-persons-work/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
