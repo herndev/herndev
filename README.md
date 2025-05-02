@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [I can not believe you can get a Samsung 70-inch 4K TV for just $399 these days](https://www.androidauthority.com/samsung-70-inch-class-du7200b-crystal-uhd-4k-smart-tv-deal-3550114/)<!-- TECH:END -->
+ - [Temu Blocks US Shoppers From Seeing Products Shipped From China](https://www.wired.com/story/temu-local-warehouses-tariffs/)
+ - [Reddit plans to add Reddit Answers, its AI search tool that was launched in beta in December 2024, to its main search bar and says the tool has 1M weekly users &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250501/p62#a250501p62)
+ - [Analysts contradict Apple&#39;s assessment of Q2, suggests pull-forward in demand helped](https://appleinsider.com/articles/25/05/02/analysts-contradict-apples-assessment-of-q2-suggests-pull-forward-in-demand-helped?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
