@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move over Gemini, Google’s best AI research assistant is getting its own app soon](https://www.androidauthority.com/google-notebooklm-app-3550170/)
- - [Apple updates its App Store Guidelines to comply with a US judge&#39;s April 30 injunction, including allowing app developers to link to external payments in the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250501/p66#a250501p66)
- - [Apple&#39;s App Store Guidelines updated to reflect court order over external purchases](https://appleinsider.com/articles/25/05/02/apples-app-store-guidelines-updated-to-reflect-court-order-over-external-purchases?utm_medium=rss)<!-- TECH:END -->
+ - [20% Off DoorDash Promo Code | April 2025](https://www.wired.com/story/doordash-promo-code/)
+ - [Memo: the US DOD seeks to secure right-to-repair provisions in Army contracts to access tools, software, and technical data without IP constraints &lpar;Reuters&rpar;](http://www.techmeme.com/250502/p1#a250502p1)
+ - [Move over Gemini, Google’s best AI research assistant is getting its own app soon](https://www.androidauthority.com/google-notebooklm-app-3550170/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
