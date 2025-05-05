@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thunderbolts*’ writer didn’t know Marvel cut his Taskmaster arc until he saw the movie](https://www.polygon.com/marvel/596372/thunderbolts-taskmaster-death-planned-story-arc)
- - [Survival Tips For Revenge of the Savage Planet, Available Today](https://news.xbox.com/en-us/2025/05/05/survival-tips-for-revenge-of-the-savage-planet-available-today/)
- - [This Doom themed Harley Davidson is the most metal game collab I&#39;ve seen since The Dark Ages](https://www.pcgamer.com/hardware/this-doom-themed-harley-davidson-is-the-most-metal-game-collab-ive-seen-since-the-dark-ages/)<!-- GAME:END -->
+ - [Daemon X Machina: Titanic Scion&#39;s power-suits will let you beat giant monsters to death with their own body parts](https://www.pcgamer.com/games/action/daemon-x-machina-titanic-scions-power-suits-will-let-you-beat-giant-monsters-to-death-with-their-own-body-parts/)
+ - [11 More Mildly Scary Things To Watch If Sinners Is The Right Amount Of Horror For You](https://kotaku.com/sinners-not-that-scary-1851779099)
+ - [This game has 100 endings, and it&#39;s pushing the creators to the brink of bankruptcy](https://www.pcgamer.com/games/rpg/this-game-has-100-endings-and-its-pushing-the-creators-to-the-brink-of-bankruptcy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
