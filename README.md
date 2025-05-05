@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anysphere, maker of AI coding tool Cursor, raised $900M at a $9B valuation, up from $2.5B in January, led by Thrive, with a16z and Accel participating &lpar;Financial Times&rpar;](http://www.techmeme.com/250505/p1#a250505p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 5, #224](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-5-224/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, May 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-5/#ftag=CAD590a51e)
- - [The biggest deepfake porn site on the internet, Mr. Deepfakes, says it is shutting down permanently because a &quot;critical service provider&quot; stopped serving it &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250504/p19#a250504p19)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, May 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
