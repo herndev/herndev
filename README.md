@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switched to Google Fi Essentials but can’t change your Google One plan? You’re not alone](https://www.androidauthority.com/google-fi-essentials-one-3554395/)
- - [Apple files appeal against court ruling that mandated App Store changes](https://appleinsider.com/articles/25/05/05/apple-files-appeal-against-court-ruling-that-mandated-app-store-changes?utm_medium=rss)
- - [Roku suffering from faded 4K and HDR playback after latest update](https://www.androidauthority.com/roku-washed-out-4k-hdr-3552341/)<!-- TECH:END -->
+ - [The modified Signal app used by Mike Waltz was reportedly hacked](https://www.theverge.com/news/661173/telemessage-signal-clone-hacked-mike-waltz)
+ - [Microsoft announces a Gears of War remaster – and it&amp;#8217;s coming to PlayStation, too](https://www.theverge.com/news/661169/gears-of-war-reloaded-remaster-release-date)
+ - [Sources: Google has quietly launched 100 Zeros, a film and TV production initiative aiming to promote a positive view of tech and drive adoption of its products &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/250505/p10#a250505p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
