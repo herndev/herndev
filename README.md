@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warren Buffett never made anything but money -- and friends with Apple](https://appleinsider.com/articles/25/05/05/warren-buffett-never-made-anything-but-money----and-friends-with-apple?utm_medium=rss)
- - [Tether CEO Paolo Ardoino announces Tether AI, an open-source AI runtime that supports USDT and Bitcoin payments without a central point of failure &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250505/p5#a250505p5)
- - [Skype shuts down today, marking the end of an internet era](https://www.androidauthority.com/skype-shut-down-3550668/)<!-- TECH:END -->
+ - [Battery not lasting through the day? This new display tech could be a game changer](https://www.androidauthority.com/next-gen-oled-2025-3550247/)
+ - [EssilorLuxottica Nuance Audio Glasses Review: The Future of Hearing](https://www.wired.com/review/essilorluxottica-nuance-audio-glasses/)
+ - [China launch for Apple Intelligence seemingly delayed to iOS 18.6](https://appleinsider.com/articles/25/05/05/china-launch-for-apple-intelligence-seemingly-delayed-to-ios-186?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
