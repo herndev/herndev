@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [In The Shadow Syndicate you&#39;re a dog detective who shoots people in bullet-time and wears a cursed ring](https://www.pcgamer.com/games/adventure/in-the-shadow-syndicate-youre-a-dog-detective-who-shoots-people-in-bullet-time-and-wears-a-cursed-ring/)
  - [Today&#39;s Wordle answer for Monday, May 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-5-2025/)
- - [The Last Of Us Season Two, Episode Four Recap: U-Haul Lesbian Road Trip](https://kotaku.com/last-us-season-2-episode-4-dina-ellie-isaac-seraphite-1851779062)
- - [75,000 people are playing a fantasy football game where you guess the new pope: &#39;You have to choose 11 cardinals, the ones you think are the most papal&#39;](https://www.pcgamer.com/games/75-000-people-are-playing-a-fantasy-football-game-where-you-guess-the-new-pope-you-have-to-choose-11-cardinals-the-ones-you-think-are-the-most-papal/)<!-- GAME:END -->
+ - [The Last Of Us Season Two, Episode Four Recap: U-Haul Lesbian Road Trip](https://kotaku.com/last-us-season-2-episode-4-dina-ellie-isaac-seraphite-1851779062)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
