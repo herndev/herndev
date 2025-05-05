@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You were deceived](http://9gag.com/gag/a9y2MpZ)
- - ⏩ [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
- - 👉 [Extra Seven Days](http://9gag.com/gag/an7EXK0)<!-- MEMES:END -->
+ - 💣 [Meanwhile 9gaggers reading this news:](http://9gag.com/gag/a872bVO)
+ - ⏩ [Just because](http://9gag.com/gag/an7EK7o)
+ - 👉 [Since old memes are back, maybe healthy to make fun of each other](http://9gag.com/gag/aoyLZOX)<!-- MEMES:END -->
 
 ---
 
