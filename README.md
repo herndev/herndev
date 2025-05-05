@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
- - ⏩ [Indonesian stewardess](http://9gag.com/gag/a342Ppv)
- - 👉 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)<!-- MEMES:END -->
+ - 💣 [The reason bus seats have wild patterns and vibrant colours is to hide how dirty they are](http://9gag.com/gag/aLnmQxA)
+ - ⏩ [WTF](http://9gag.com/gag/a1m2Zy8)
+ - 👉 [Woman is addicted to coffee enema!](http://9gag.com/gag/aoyLZg3)<!-- MEMES:END -->
 
 ---
 
