@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Battery not lasting through the day? This new display tech could be a game changer](https://www.androidauthority.com/next-gen-oled-2025-3550247/)
- - [EssilorLuxottica Nuance Audio Glasses Review: The Future of Hearing](https://www.wired.com/review/essilorluxottica-nuance-audio-glasses/)
- - [China launch for Apple Intelligence seemingly delayed to iOS 18.6](https://appleinsider.com/articles/25/05/05/china-launch-for-apple-intelligence-seemingly-delayed-to-ios-186?utm_medium=rss)<!-- TECH:END -->
+ - [RIP Skype — you were right about almost everything](https://www.theverge.com/microsoft/660985/skype-shuts-down-rip)
+ - [Trump promises 100 percent tariff on movies &amp;#8216;produced in foreign lands&amp;#8217;](https://www.theverge.com/politics/660987/trump-tariff-national-security-foreign-films)
+ - [Apple&#39;s 2025 Pride Collection features a unique Apple Watch Sport Band](https://appleinsider.com/articles/25/05/05/apples-2025-pride-collection-features-a-unique-apple-watch-sport-band?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
