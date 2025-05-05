@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Daemon X Machina: Titanic Scion&#39;s power-suits will let you beat giant monsters to death with their own body parts](https://www.pcgamer.com/games/action/daemon-x-machina-titanic-scions-power-suits-will-let-you-beat-giant-monsters-to-death-with-their-own-body-parts/)
- - [11 More Mildly Scary Things To Watch If Sinners Is The Right Amount Of Horror For You](https://kotaku.com/sinners-not-that-scary-1851779099)
- - [This game has 100 endings, and it&#39;s pushing the creators to the brink of bankruptcy](https://www.pcgamer.com/games/rpg/this-game-has-100-endings-and-its-pushing-the-creators-to-the-brink-of-bankruptcy/)<!-- GAME:END -->
+ - [Trump Launches A Surprise Attack On Anime](https://kotaku.com/trump-hollywood-movie-tariff-anime-studio-ghibli-1851779131)
+ - [PlayStation Store: April 2025’s top downloads](https://blog.playstation.com/2025/05/05/playstation-store-april-2025s-top-downloads/)
+ - [Daemon X Machina: Titanic Scion&#39;s power-suits will let you beat giant monsters to death with their own body parts](https://www.pcgamer.com/games/action/daemon-x-machina-titanic-scions-power-suits-will-let-you-beat-giant-monsters-to-death-with-their-own-body-parts/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
