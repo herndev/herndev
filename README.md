@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wildgate Community Preview Coming May 9!](https://news.xbox.com/en-us/2025/05/05/wildgate-community-preview-coming-may-9/)
- - [After two decades of snacking, World of Warcraft is doing away with vendor food](https://www.pcgamer.com/games/world-of-warcraft/after-two-decades-of-snacking-world-of-warcraft-is-doing-away-with-vendor-food/)
- - [Space Marine 2&#39;s Astartes Overhaul mod brings Terminators to the campaign, NPC Dreadnoughts to operations, and 12-player lobbies](https://www.pcgamer.com/games/action/space-marine-2s-astartes-overhaul-mod-brings-terminators-to-the-campaign-npc-dreadnoughts-to-operations-and-12-player-lobbies/)<!-- GAME:END -->
+ - [Oblivion Remastered is already the third-best-selling game of 2025 in the US, industry analyst says](https://www.pcgamer.com/games/rpg/oblivion-remastered-is-already-the-third-best-selling-game-of-2025-in-the-us-industry-analyst-says/)
+ - [There&#39;s now a free &#39;shareware&#39; version of horde-battling RTS Diplomacy is Not an Option](https://www.pcgamer.com/games/strategy/theres-now-a-free-shareware-version-of-horde-battling-rts-diplomacy-is-not-an-option/)
+ - [This dreary low-poly delivery game pairs Animal Crossing villagers with soul-crushing gig work and I can&#39;t wait to play it](https://www.pcgamer.com/games/sim/this-dreary-low-poly-delivery-game-pairs-animal-crossing-villagers-with-soul-crushing-gig-work-and-i-cant-wait-to-play-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
