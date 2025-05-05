@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some say ChatGPT fueled their loved ones&#39; spiritual delusions; experts warn AI&#39;s human-like chats can exacerbate existing psychological vulnerabilities &lpar;Miles Klee/Rolling Stone&rpar;](http://www.techmeme.com/250505/p4#a250505p4)
- - [Samsung Galaxy Tab S11 series wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-tab-s11-wishlist-3546811/)
- - [If Motorola won’t fix its poor Android updates now, when will it?](https://www.androidauthority.com/when-will-motorola-fix-poor-android-updates-3550048/)<!-- TECH:END -->
+ - [Warren Buffett never made anything but money -- and friends with Apple](https://appleinsider.com/articles/25/05/05/warren-buffett-never-made-anything-but-money----and-friends-with-apple?utm_medium=rss)
+ - [Tether CEO Paolo Ardoino announces Tether AI, an open-source AI runtime that supports USDT and Bitcoin payments without a central point of failure &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250505/p5#a250505p5)
+ - [Skype shuts down today, marking the end of an internet era](https://www.androidauthority.com/skype-shut-down-3550668/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
