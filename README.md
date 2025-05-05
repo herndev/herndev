@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI abandons plan to be controlled by for-profit board](https://www.theverge.com/openai/661303/openai-stays-nonprofit-sam-altman-employee-memo)
- - [Buffalo put a window on its new hard drive so you can see it at work](https://www.theverge.com/news/661244/buffalo-skeleton-hard-disk-drive-hd-skl-transparent-window-lottery)
- - [Here’s your first look at Live for Google AI Mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/ai-mode-live-3553830/)<!-- TECH:END -->
+ - [TeleMessage&#39;s parent company says it is &quot;investigating a potential security incident&quot; and has suspended all of its services &quot;out of an abundance of caution&quot; &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250505/p18#a250505p18)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Sources: General Atlantic is in advanced talks to buy a minority stake in Blackstone-backed Liftoff; the deal would value the mobile app marketing firm at $4B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250505/p17#a250505p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
