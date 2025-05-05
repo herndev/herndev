@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF](http://9gag.com/gag/a1m2Zy8)
- - ⏩ [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
- - 👉 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)<!-- MEMES:END -->
+ - 💣 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
+ - ⏩ [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
+ - 👉 [WTF](http://9gag.com/gag/a1m2Zy8)<!-- MEMES:END -->
 
 ---
 
