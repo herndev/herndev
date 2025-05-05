@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;You can&#39;t escape us&#39;: Devolver plots to release a game on GTA 6&#39;s release date, no matter when that is](https://www.pcgamer.com/games/grand-theft-auto/you-cant-escape-us-devolver-plots-to-release-a-game-on-gta-6s-release-date-no-matter-when-that-is/)
- - [Tales of the Shire embraces a &#39;clutter-core experience&#39; with grid-free decorating for your hobbit house](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-embraces-a-clutter-core-experience-with-grid-free-decorating-for-your-hobbit-house/)
- - [May the 4th brings free and discounted Star Wars games from Prime Gaming, Steam, and more](https://www.pcgamer.com/games/may-the-4th-brings-free-and-discounted-star-wars-games-from-prime-gaming-steam-gog-and-more/)<!-- GAME:END -->
+ - [75,000 people are playing a fantasy football game where you guess the new pope: &#39;You have to choose 11 cardinals, the ones you think are the most papal&#39;](https://www.pcgamer.com/games/75-000-people-are-playing-a-fantasy-football-game-where-you-guess-the-new-pope-you-have-to-choose-11-cardinals-the-ones-you-think-are-the-most-papal/)
+ - [Trump’s ‘100% tariff’ on non-American movies sounds bad for anime](https://www.polygon.com/movies/597689/trump-movie-tariff)
+ - [Five new Steam games you probably missed &lpar;May 5, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-5-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
