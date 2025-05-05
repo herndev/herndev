@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is another](http://9gag.com/gag/aRBoAP7)
- - ⏩ [Celebrate our differences](http://9gag.com/gag/aPAQD4q)
- - 👉 [Oof size : Large](http://9gag.com/gag/a342LE3)<!-- MEMES:END -->
+ - 💣 [Something to drink?](http://9gag.com/gag/amoM84o)
+ - ⏩ [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
+ - 👉 [Post some examples yo](http://9gag.com/gag/aZZjNdV)<!-- MEMES:END -->
 
 ---
 
