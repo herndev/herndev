@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Laptop deals: Get a great computer from Apple or Samsung for under $1,000](https://www.androidauthority.com/apple-macbook-air-m4-samsung-galaxy-book4-pro-deals-3550414/)
- - [Apple Is Moving US iPhone Assembly to India Amid Tariff Turmoil](https://www.cnet.com/tech/mobile/apple-is-moving-us-iphone-assembly-to-india-amid-tariff-turmoil/#ftag=CAD590a51e)
- - [Google Gemini is coming for your children](https://www.androidauthority.com/google-gemini-is-coming-for-your-children-3550430/)<!-- TECH:END -->
+ - [A hacker breaches TeleMessage, which offers modified versions of apps like Signal used by US officials including Mike Waltz, Tulsi Gabbard, JD Vance, and others &lpar;Micah Lee/micahflee&rpar;](http://www.techmeme.com/250504/p18#a250504p18)
+ - [Several Senate Democrats, key to the passage of a landmark stablecoin bill, withdraw support for the bill &quot;as it currently stands&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250504/p17#a250504p17)
+ - [Roku is looking into complaints about washed-out HDR streams](https://www.theverge.com/news/660950/roku-hdr-issues-washed-out-colors-gray)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
