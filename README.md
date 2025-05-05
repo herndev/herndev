@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Motorola won’t fix its poor Android updates now, when will it?](https://www.androidauthority.com/when-will-motorola-fix-poor-android-updates-3550048/)
- - [Google could soon save you from screen-sharing bank scams &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-bank-scam-warning-feature-3550605/)
- - [Slim iPhone will gain a larger screen in 2027, alongside iPhone fold 2](https://appleinsider.com/articles/25/05/05/slim-iphone-will-gain-a-larger-screen-in-2027-alongside-iphone-fold-2?utm_medium=rss)<!-- TECH:END -->
+ - [Some say ChatGPT fueled their loved ones&#39; spiritual delusions; experts warn AI&#39;s human-like chats can exacerbate existing psychological vulnerabilities &lpar;Miles Klee/Rolling Stone&rpar;](http://www.techmeme.com/250505/p4#a250505p4)
+ - [Samsung Galaxy Tab S11 series wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-tab-s11-wishlist-3546811/)
+ - [If Motorola won’t fix its poor Android updates now, when will it?](https://www.androidauthority.com/when-will-motorola-fix-poor-android-updates-3550048/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
