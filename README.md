@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the right questions](http://9gag.com/gag/a7o2yQA)
- - ⏩ [Some reminders for all you 9gaggers out there:](http://9gag.com/gag/aVvLWmP)
- - 👉 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)<!-- MEMES:END -->
+ - 💣 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
+ - ⏩ [Hol tf up](http://9gag.com/gag/aXPWpjd)
+ - 👉 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)<!-- MEMES:END -->
 
 ---
 
