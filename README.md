@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Solar panels cleaning other solar panels](http://9gag.com/gag/ajPZ66Q)
- - ⏩ [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
- - 👉 [Asking the right questions](http://9gag.com/gag/a7o2yQA)<!-- MEMES:END -->
+ - 💣 [For real](http://9gag.com/gag/aRBoQB5)
+ - ⏩ [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
+ - 👉 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)<!-- MEMES:END -->
 
 ---
 
