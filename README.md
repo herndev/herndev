@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tom Cruise Promises Underwater Sequence &#39;Unlike Any Other&#39; In Mission: Impossible – The Final Reckoning](https://kotaku.com/tom-cruise-promises-underwater-sequence-unlike-any-othe-1851779244)
- - [Every tease Marvel still needs to pay off, in theory](https://www.polygon.com/24065485/mcu-post-credits-teases-sequels-rumors)
- - [One-Year Countdown Clock Is Teasing Ecco The Dolphin&#39;s Return](https://kotaku.com/ecco-the-dolphin-remaster-sequel-countdown-clock-teaser-1851779245)<!-- GAME:END -->
+ - [Ecco the Dolphin is getting two remasters and one new title from its original creators](https://www.polygon.com/gaming/597773/ecco-the-dolphin-remaster-tides-of-time-remaster-new-ecco-game)
+ - [An 8,500-hour countdown clock is ticking down to an Ecco the Dolphin remaster and sequel reveal](https://www.pcgamer.com/games/an-8-500-hour-countdown-clock-is-ticking-down-to-an-ecco-the-dolphin-remaster-and-sequel-reveal/)
+ - [V Rising is doing big numbers on Steam after its recent update, plus it&#39;s 50% off](https://www.pcgamer.com/games/survival-crafting/v-rising-is-doing-big-numbers-on-steam-after-its-recent-update-plus-its-50-percent-off/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
