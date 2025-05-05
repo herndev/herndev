@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RIP Skype — you were right about almost everything](https://www.theverge.com/microsoft/660985/skype-shuts-down-rip)
- - [Trump promises 100 percent tariff on movies &amp;#8216;produced in foreign lands&amp;#8217;](https://www.theverge.com/politics/660987/trump-tariff-national-security-foreign-films)
- - [Apple&#39;s 2025 Pride Collection features a unique Apple Watch Sport Band](https://appleinsider.com/articles/25/05/05/apples-2025-pride-collection-features-a-unique-apple-watch-sport-band?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Waymo&#39;s Mesa, AZ plant, producing several retrofitted Jaguars per day and where plans to scale up with Chinese Zeekr vans may be derailed by tariffs &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/250505/p8#a250505p8)
+ - [Apple admits the Q2 surge in imports won&#39;t be enough to stop price hikes](https://appleinsider.com/articles/25/05/05/apple-admits-the-q2-surge-in-imports-wont-be-enough-to-stop-price-hikes?utm_medium=rss)
+ - [The Verge looks back on Skype](https://www.theverge.com/favorites/621864/skype-microsoft-goodbye)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
