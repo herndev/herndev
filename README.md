@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Ops 6 Double XP Weekend Starts Thursday](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-may-8-2025/#ftag=CAD590a51e)
- - [Oops! Google lets Material 3 Expressive details slip out online early](https://www.androidauthority.com/google-material-3-expressive-details-3554486/)
- - [Apple TV+ isn&#39;t micromanagement hell -- for some creatives](https://appleinsider.com/articles/25/05/05/apple-tv-isnt-micromanagement-hell----for-some-creatives?utm_medium=rss)<!-- TECH:END -->
+ - [Google just leaked Android’s new design language](https://www.theverge.com/news/661483/google-leak-material-3-expressive-android-design)
+ - [Google takes a page from Apple’s playbook with new Material 3 Expressive battery icon](https://www.androidauthority.com/google-material-3-expressive-redesign-battery-icon-3554579/)
+ - [Apple iPhone 16E vs. iPhone 15: Which Lower-Cost iPhone Is Best for You?](https://www.cnet.com/tech/mobile/apple-iphone-16e-vs-iphone-15-which-lower-cost-iphone-is-best-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
