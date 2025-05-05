@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s iPhone launch shake-up could make life harder for Android rivals](https://www.androidauthority.com/apple-iphone-release-cycle-change-effect-on-android-3550596/)
  - [Android 16 could introduce an Intrusion Detection feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-16-intrusion-detection-3550583/)
- - [A look at &quot;kidfluencers&quot; in Brazil who promote online get-rich-quick schemes to other children on TikTok, Kwai, and Instagram, amid growing government scrutiny &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250505/p2#a250505p2)
- - [One UI 8 release timeline may have leaked and it’s good news!](https://www.androidauthority.com/one-ui-8-beta-release-3550582/)<!-- TECH:END -->
+ - [A look at &quot;kidfluencers&quot; in Brazil who promote online get-rich-quick schemes to other children on TikTok, Kwai, and Instagram, amid growing government scrutiny &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250505/p2#a250505p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
