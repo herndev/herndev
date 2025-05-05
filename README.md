@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Doom themed Harley Davidson is the most metal game collab I&#39;ve seen since The Dark Ages](https://www.pcgamer.com/hardware/this-doom-themed-harley-davidson-is-the-most-metal-game-collab-ive-seen-since-the-dark-ages/)
  - [In The Shadow Syndicate you&#39;re a dog detective who shoots people in bullet-time and wears a cursed ring](https://www.pcgamer.com/games/adventure/in-the-shadow-syndicate-youre-a-dog-detective-who-shoots-people-in-bullet-time-and-wears-a-cursed-ring/)
- - [Today&#39;s Wordle answer for Monday, May 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-5-2025/)
- - [The Last Of Us Season Two, Episode Four Recap: U-Haul Lesbian Road Trip](https://kotaku.com/last-us-season-2-episode-4-dina-ellie-isaac-seraphite-1851779062)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, May 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-5-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
