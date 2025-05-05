@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - ⏩ [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
- - 👉 [Who knew honesty was an option?](http://9gag.com/gag/aKGez6O)<!-- MEMES:END -->
+ - 💣 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - ⏩ [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
+ - 👉 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)<!-- MEMES:END -->
 
 ---
 
