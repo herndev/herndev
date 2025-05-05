@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8 release timeline may have leaked and it’s good news!](https://www.androidauthority.com/one-ui-8-beta-release-3550582/)
- - [Sources: Anysphere, maker of AI coding tool Cursor, raised $900M at a $9B valuation, up from $2.5B in January, led by Thrive, with a16z and Accel participating &lpar;Financial Times&rpar;](http://www.techmeme.com/250505/p1#a250505p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 5, #224](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-5-224/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 16 could introduce an Intrusion Detection feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-16-intrusion-detection-3550583/)
+ - [A look at &quot;kidfluencers&quot; in Brazil who promote online get-rich-quick schemes to other children on TikTok, Kwai, and Instagram, amid growing government scrutiny &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250505/p2#a250505p2)
+ - [One UI 8 release timeline may have leaked and it’s good news!](https://www.androidauthority.com/one-ui-8-beta-release-3550582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
