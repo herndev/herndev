@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Wave of Change: Celebrating Asian and Pacific Islander Heritage Month](https://news.xbox.com/en-us/2025/05/05/xbox-asian-pacific-islander-heritage-month-2025/)
- - [The first big REPO update is available to test](https://www.pcgamer.com/games/horror/the-first-big-repo-update-is-available-to-test/)
- - [The Hottest Cards In May&#39;s Team Rocket Pokémon TCG Set, Destined Rivals](https://kotaku.com/pokemon-tcg-destined-rivals-price-value-team-rocket-1851779160)<!-- GAME:END -->
+ - [Wildgate Community Preview Coming May 9!](https://news.xbox.com/en-us/2025/05/05/wildgate-community-preview-coming-may-9/)
+ - [After two decades of snacking, World of Warcraft is doing away with vendor food](https://www.pcgamer.com/games/world-of-warcraft/after-two-decades-of-snacking-world-of-warcraft-is-doing-away-with-vendor-food/)
+ - [Space Marine 2&#39;s Astartes Overhaul mod brings Terminators to the campaign, NPC Dreadnoughts to operations, and 12-player lobbies](https://www.pcgamer.com/games/action/space-marine-2s-astartes-overhaul-mod-brings-terminators-to-the-campaign-npc-dreadnoughts-to-operations-and-12-player-lobbies/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
