@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old memes?](http://9gag.com/gag/aRBoPmj)
- - ⏩ [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - 👉 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)<!-- MEMES:END -->
+ - 💣 [Japanese tongue twister](http://9gag.com/gag/a5Q2K9G)
+ - ⏩ [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
+ - 👉 [Old post](http://9gag.com/gag/aND4Z8r)<!-- MEMES:END -->
 
 ---
 
