@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ecco the Dolphin is getting two remasters and one new title from its original creators](https://www.polygon.com/gaming/597773/ecco-the-dolphin-remaster-tides-of-time-remaster-new-ecco-game)
- - [An 8,500-hour countdown clock is ticking down to an Ecco the Dolphin remaster and sequel reveal](https://www.pcgamer.com/games/an-8-500-hour-countdown-clock-is-ticking-down-to-an-ecco-the-dolphin-remaster-and-sequel-reveal/)
- - [V Rising is doing big numbers on Steam after its recent update, plus it&#39;s 50% off](https://www.pcgamer.com/games/survival-crafting/v-rising-is-doing-big-numbers-on-steam-after-its-recent-update-plus-its-50-percent-off/)<!-- GAME:END -->
+ - [Everyone is a boat in this &#39;MOBA meets Vampire Survivors&#39; game inspired by a Warcraft 3 mod](https://www.pcgamer.com/games/moba/everyone-is-a-boat-in-this-moba-meets-vampire-survivors-game-inspired-by-a-warcraft-3-mod/)
+ - [&#39;Henry is worse than the Black Plague&#39;: Kingdom Come: Deliverance 2 studio marks 3 million copies sold with some sobering statistics](https://www.pcgamer.com/games/rpg/henry-is-worse-than-the-black-plague-kingdom-come-deliverance-2-studio-marks-3-million-copies-sold-with-some-sobering-statistics/)
+ - [Skype dead at 22](https://www.pcgamer.com/gaming-industry/skype-dead-at-22/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
