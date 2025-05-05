@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Google just leaked Android’s new design language](https://www.theverge.com/news/661483/google-leak-material-3-expressive-android-design)
- - [Google takes a page from Apple’s playbook with new Material 3 Expressive battery icon](https://www.androidauthority.com/google-material-3-expressive-redesign-battery-icon-3554579/)
- - [Apple iPhone 16E vs. iPhone 15: Which Lower-Cost iPhone Is Best for You?](https://www.cnet.com/tech/mobile/apple-iphone-16e-vs-iphone-15-which-lower-cost-iphone-is-best-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google takes a page from Apple’s playbook with new Material 3 Expressive battery icon](https://www.androidauthority.com/google-material-3-expressive-redesign-battery-icon-3554579/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
