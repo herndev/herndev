@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
- - ⏩ [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
- - 👉 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)<!-- MEMES:END -->
+ - 💣 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
+ - ⏩ [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
+ - 👉 [WTF](http://9gag.com/gag/a1m2Zy8)<!-- MEMES:END -->
 
 ---
 
