@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Last Of Us Season Two, Episode Four Recap: U-Haul Lesbian Road Trip](https://kotaku.com/last-us-season-2-episode-4-dina-ellie-isaac-seraphite-1851779062)
  - [75,000 people are playing a fantasy football game where you guess the new pope: &#39;You have to choose 11 cardinals, the ones you think are the most papal&#39;](https://www.pcgamer.com/games/75-000-people-are-playing-a-fantasy-football-game-where-you-guess-the-new-pope-you-have-to-choose-11-cardinals-the-ones-you-think-are-the-most-papal/)
- - [Trump’s ‘100% tariff’ on non-American movies sounds bad for anime](https://www.polygon.com/movies/597689/trump-movie-tariff)
- - [Five new Steam games you probably missed &lpar;May 5, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-5-2025/)<!-- GAME:END -->
+ - [Trump’s ‘100% tariff’ on non-American movies sounds bad for anime](https://www.polygon.com/movies/597689/trump-movie-tariff)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
