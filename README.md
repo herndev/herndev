@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How I met your mother](http://9gag.com/gag/amoM879)
- - ⏩ [WTF](http://9gag.com/gag/a1m2Zy8)
- - 👉 [Definitely not an old hag](http://9gag.com/gag/aKGez0Q)<!-- MEMES:END -->
+ - 💣 [WTF](http://9gag.com/gag/a1m2Zy8)
+ - ⏩ [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
+ - 👉 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)<!-- MEMES:END -->
 
 ---
 
