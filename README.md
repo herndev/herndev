@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For real](http://9gag.com/gag/aRBoQB5)
- - ⏩ [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
- - 👉 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)<!-- MEMES:END -->
+ - 💣 [How I met your mother](http://9gag.com/gag/amoM879)
+ - ⏩ [WTF](http://9gag.com/gag/a1m2Zy8)
+ - 👉 [Definitely not an old hag](http://9gag.com/gag/aKGez0Q)<!-- MEMES:END -->
 
 ---
 
