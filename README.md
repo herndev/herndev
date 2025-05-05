@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
- - ⏩ [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
- - 👉 [WTF](http://9gag.com/gag/a1m2Zy8)<!-- MEMES:END -->
+ - 💣 [You were deceived](http://9gag.com/gag/a9y2MpZ)
+ - ⏩ [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
+ - 👉 [Extra Seven Days](http://9gag.com/gag/an7EXK0)<!-- MEMES:END -->
 
 ---
 
