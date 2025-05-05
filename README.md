@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When coffee orders get more complex than crime investigations](http://9gag.com/gag/aGyGW40)
- - ⏩ [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
- - 👉 [One from the archive](http://9gag.com/gag/ae9xXjQ)<!-- MEMES:END -->
+ - 💣 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
+ - ⏩ [Indonesian stewardess](http://9gag.com/gag/a342Ppv)
+ - 👉 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)<!-- MEMES:END -->
 
 ---
 
