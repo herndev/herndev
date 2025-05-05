@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Andor Is Only Getting Better As Its Second Season Continues](https://kotaku.com/star-wars-andor-season-2-review-vg-chat-cinta-ghorman-1851778986)
- - [Here&#39;s The Emperor From Star Wars Holding An Assault Rifle In Fortnite](https://kotaku.com/star-wars-fortnite-emperor-gun-rifle-fortnite-palpatine-1851778966)
- - [Kingdom Come: Deliverance 2 actor celebrates the Grand Theft Auto 6 delay: &#39;WE&#39;RE IN WITH A SHOT! GOTY!&#39;](https://www.pcgamer.com/games/kingdom-come-deliverance-2-actor-celebrates-the-grand-theft-auto-6-delay-were-in-with-a-shot-goty/)<!-- GAME:END -->
+ - [&#39;You can&#39;t escape us&#39;: Devolver plots to release a game on GTA 6&#39;s release date, no matter when that is](https://www.pcgamer.com/games/grand-theft-auto/you-cant-escape-us-devolver-plots-to-release-a-game-on-gta-6s-release-date-no-matter-when-that-is/)
+ - [Tales of the Shire embraces a &#39;clutter-core experience&#39; with grid-free decorating for your hobbit house](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-embraces-a-clutter-core-experience-with-grid-free-decorating-for-your-hobbit-house/)
+ - [May the 4th brings free and discounted Star Wars games from Prime Gaming, Steam, and more](https://www.pcgamer.com/games/may-the-4th-brings-free-and-discounted-star-wars-games-from-prime-gaming-steam-gog-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
