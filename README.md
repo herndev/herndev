@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Waymo&#39;s Mesa, AZ plant, producing several retrofitted Jaguars per day and where plans to scale up with Chinese Zeekr vans may be derailed by tariffs &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/250505/p8#a250505p8)
- - [Apple admits the Q2 surge in imports won&#39;t be enough to stop price hikes](https://appleinsider.com/articles/25/05/05/apple-admits-the-q2-surge-in-imports-wont-be-enough-to-stop-price-hikes?utm_medium=rss)
- - [The Verge looks back on Skype](https://www.theverge.com/favorites/621864/skype-microsoft-goodbye)<!-- TECH:END -->
+ - [Switched to Google Fi Essentials but can’t change your Google One plan? You’re not alone](https://www.androidauthority.com/google-fi-essentials-one-3554395/)
+ - [Apple files appeal against court ruling that mandated App Store changes](https://appleinsider.com/articles/25/05/05/apple-files-appeal-against-court-ruling-that-mandated-app-store-changes?utm_medium=rss)
+ - [Roku suffering from faded 4K and HDR playback after latest update](https://www.androidauthority.com/roku-washed-out-4k-hdr-3552341/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
