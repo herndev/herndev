@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic will use an EU account to bring Fortnite back to the US App Store](https://www.theverge.com/news/661237/epic-games-fortnite-apple-us-ios-app-store-eu-account)
- - [Apple files an appeal with the US Ninth Circuit, challenging last week&#39;s ruling that prevents it from charging devs fees on purchases made outside the App Store &lpar;Sarah Jeong/The Verge&rpar;](http://www.techmeme.com/250505/p12#a250505p12)
- - [Apple&#39;s 2025 Pride Collection features a unique Apple Watch Sport Band](https://appleinsider.com/articles/25/05/05/apples-2025-pride-collection-features-a-unique-apple-watch-sport-band?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI abandons plan to be controlled by for-profit board](https://www.theverge.com/openai/661303/openai-stays-nonprofit-sam-altman-employee-memo)
+ - [Buffalo put a window on its new hard drive so you can see it at work](https://www.theverge.com/news/661244/buffalo-skeleton-hard-disk-drive-hd-skl-transparent-window-lottery)
+ - [Here’s your first look at Live for Google AI Mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/ai-mode-live-3553830/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
