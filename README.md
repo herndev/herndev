@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TeleMessage&#39;s parent company says it is &quot;investigating a potential security incident&quot; and has suspended all of its services &quot;out of an abundance of caution&quot; &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250505/p18#a250505p18)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Sources: General Atlantic is in advanced talks to buy a minority stake in Blackstone-backed Liftoff; the deal would value the mobile app marketing firm at $4B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250505/p17#a250505p17)<!-- TECH:END -->
+ - [Black Ops 6 Double XP Weekend Starts Thursday](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-may-8-2025/#ftag=CAD590a51e)
+ - [Oops! Google lets Material 3 Expressive details slip out online early](https://www.androidauthority.com/google-material-3-expressive-details-3554486/)
+ - [Apple TV+ isn&#39;t micromanagement hell -- for some creatives](https://appleinsider.com/articles/25/05/05/apple-tv-isnt-micromanagement-hell----for-some-creatives?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
