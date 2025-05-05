@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gears of War: Reloaded Comes to Xbox Series X|S, Xbox PC, Xbox Cloud Gaming, PlayStation 5 and Steam in Summer 2025](https://news.xbox.com/en-us/2025/05/05/gears-of-war-reloaded-release-date/)
- - [Nintendo Sues Accessory Maker Who Flaunted Console Mockup At The Height Of Switch Leaks](https://kotaku.com/switch-2-accessory-genki-nintendo-lawsuit-leak-ces-2025-1851779140)
- - [Stellaris&#39; new Biogenesis expansion lets you be a sapient planet or home-grow your own cosmic leviathan](https://www.pcgamer.com/games/strategy/stellaris-new-biogenesis-expansion-lets-you-be-a-sapient-planet-or-home-grow-your-own-cosmic-leviathan/)<!-- GAME:END -->
+ - [Forza Motorsport: Meetup at Fujimi Kaido for the Series’ 20th Anniversary](https://forza.net/news/forza-motorsport-update-20#new_tab)
+ - [Fallout 1 &amp; 2 Source Code Still Exists, Despite Orders To Destroy It](https://kotaku.com/fallout-source-code-saved-interplay-cain-order-destroy-1851779159)
+ - [How To Start Forza Horizon 5&#39;s Rally Adventure DLC](https://kotaku.com/forza-horizon-5-rally-adventure-dlc-how-to-start-1851779171)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
