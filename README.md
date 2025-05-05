@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A hacker breaches TeleMessage, which offers modified versions of apps like Signal used by US officials including Mike Waltz, Tulsi Gabbard, JD Vance, and others &lpar;Micah Lee/micahflee&rpar;](http://www.techmeme.com/250504/p18#a250504p18)
- - [Several Senate Democrats, key to the passage of a landmark stablecoin bill, withdraw support for the bill &quot;as it currently stands&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250504/p17#a250504p17)
- - [Roku is looking into complaints about washed-out HDR streams](https://www.theverge.com/news/660950/roku-hdr-issues-washed-out-colors-gray)<!-- TECH:END -->
+ - [The biggest deepfake porn site on the internet, Mr. Deepfakes, says it is shutting down permanently because a &quot;critical service provider&quot; stopped serving it &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250504/p19#a250504p19)
+ - [A hacker breached TeleMessage, which offers modified versions of apps like Signal used by US officials including Mike Waltz, Tulsi Gabbard, JD Vance, and others &lpar;Micah Lee/micahflee&rpar;](http://www.techmeme.com/250504/p18#a250504p18)
+ - [Several Senate Democrats, key to the passage of a landmark stablecoin bill, withdraw support for the bill &quot;as it currently stands&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250504/p17#a250504p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
