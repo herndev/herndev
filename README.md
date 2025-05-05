@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Motorsport: Meetup at Fujimi Kaido for the Series’ 20th Anniversary](https://forza.net/news/forza-motorsport-update-20#new_tab)
- - [Fallout 1 &amp; 2 Source Code Still Exists, Despite Orders To Destroy It](https://kotaku.com/fallout-source-code-saved-interplay-cain-order-destroy-1851779159)
- - [How To Start Forza Horizon 5&#39;s Rally Adventure DLC](https://kotaku.com/forza-horizon-5-rally-adventure-dlc-how-to-start-1851779171)<!-- GAME:END -->
+ - [A Wave of Change: Celebrating Asian and Pacific Islander Heritage Month](https://news.xbox.com/en-us/2025/05/05/xbox-asian-pacific-islander-heritage-month-2025/)
+ - [The first big REPO update is available to test](https://www.pcgamer.com/games/horror/the-first-big-repo-update-is-available-to-test/)
+ - [The Hottest Cards In May&#39;s Team Rocket Pokémon TCG Set, Destined Rivals](https://kotaku.com/pokemon-tcg-destined-rivals-price-value-team-rocket-1851779160)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
