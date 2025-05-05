@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s iPhone launch shake-up could make life harder for Android rivals](https://www.androidauthority.com/apple-iphone-release-cycle-change-effect-on-android-3550596/)
- - [Android 16 could introduce an Intrusion Detection feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-16-intrusion-detection-3550583/)
- - [A look at &quot;kidfluencers&quot; in Brazil who promote online get-rich-quick schemes to other children on TikTok, Kwai, and Instagram, amid growing government scrutiny &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250505/p2#a250505p2)<!-- TECH:END -->
+ - [N64 emulation on the Switch 2 &lpar;almost&rpar; catches up to Android emulators](https://www.androidauthority.com/switch-nso-n64-emulator-rewind-3550617/)
+ - [An interview with Phillip Koskinas, the head of anti-cheat at Riot Games, on the various strategies the company employs to combat cheaters and cheat developers &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250505/p3#a250505p3)
+ - [Apple’s iPhone launch shake-up could make life harder for Android rivals](https://www.androidauthority.com/apple-iphone-release-cycle-change-effect-on-android-3550596/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
