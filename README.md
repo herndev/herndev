@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion Remastered is already the third-best-selling game of 2025 in the US, industry analyst says](https://www.pcgamer.com/games/rpg/oblivion-remastered-is-already-the-third-best-selling-game-of-2025-in-the-us-industry-analyst-says/)
- - [There&#39;s now a free &#39;shareware&#39; version of horde-battling RTS Diplomacy is Not an Option](https://www.pcgamer.com/games/strategy/theres-now-a-free-shareware-version-of-horde-battling-rts-diplomacy-is-not-an-option/)
- - [This dreary low-poly delivery game pairs Animal Crossing villagers with soul-crushing gig work and I can&#39;t wait to play it](https://www.pcgamer.com/games/sim/this-dreary-low-poly-delivery-game-pairs-animal-crossing-villagers-with-soul-crushing-gig-work-and-i-cant-wait-to-play-it/)<!-- GAME:END -->
+ - [Tom Cruise Promises Underwater Sequence &#39;Unlike Any Other&#39; In Mission: Impossible – The Final Reckoning](https://kotaku.com/tom-cruise-promises-underwater-sequence-unlike-any-othe-1851779244)
+ - [Every tease Marvel still needs to pay off, in theory](https://www.polygon.com/24065485/mcu-post-credits-teases-sequels-rumors)
+ - [One-Year Countdown Clock Is Teasing Ecco The Dolphin&#39;s Return](https://kotaku.com/ecco-the-dolphin-remaster-sequel-countdown-clock-teaser-1851779245)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
