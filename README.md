@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese tongue twister](http://9gag.com/gag/a5Q2K9G)
+ - 💣 [That was close grandma](http://9gag.com/gag/aoyLjBg)
  - ⏩ [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
  - 👉 [Old post](http://9gag.com/gag/aND4Z8r)<!-- MEMES:END -->
 
