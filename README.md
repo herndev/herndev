@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [N64 emulation on the Switch 2 &lpar;almost&rpar; catches up to Android emulators](https://www.androidauthority.com/switch-nso-n64-emulator-rewind-3550617/)
- - [An interview with Phillip Koskinas, the head of anti-cheat at Riot Games, on the various strategies the company employs to combat cheaters and cheat developers &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250505/p3#a250505p3)
- - [Apple’s iPhone launch shake-up could make life harder for Android rivals](https://www.androidauthority.com/apple-iphone-release-cycle-change-effect-on-android-3550596/)<!-- TECH:END -->
+ - [If Motorola won’t fix its poor Android updates now, when will it?](https://www.androidauthority.com/when-will-motorola-fix-poor-android-updates-3550048/)
+ - [Google could soon save you from screen-sharing bank scams &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-bank-scam-warning-feature-3550605/)
+ - [Slim iPhone will gain a larger screen in 2027, alongside iPhone fold 2](https://appleinsider.com/articles/25/05/05/slim-iphone-will-gain-a-larger-screen-in-2027-alongside-iphone-fold-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
