@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trump Launches A Surprise Attack On Anime](https://kotaku.com/trump-hollywood-movie-tariff-anime-studio-ghibli-1851779131)
- - [PlayStation Store: April 2025’s top downloads](https://blog.playstation.com/2025/05/05/playstation-store-april-2025s-top-downloads/)
- - [Daemon X Machina: Titanic Scion&#39;s power-suits will let you beat giant monsters to death with their own body parts](https://www.pcgamer.com/games/action/daemon-x-machina-titanic-scions-power-suits-will-let-you-beat-giant-monsters-to-death-with-their-own-body-parts/)<!-- GAME:END -->
+ - [Gears of War: Reloaded Comes to Xbox Series X|S, Xbox PC, Xbox Cloud Gaming, PlayStation 5 and Steam in Summer 2025](https://news.xbox.com/en-us/2025/05/05/gears-of-war-reloaded-release-date/)
+ - [Nintendo Sues Accessory Maker Who Flaunted Console Mockup At The Height Of Switch Leaks](https://kotaku.com/switch-2-accessory-genki-nintendo-lawsuit-leak-ces-2025-1851779140)
+ - [Stellaris&#39; new Biogenesis expansion lets you be a sapient planet or home-grow your own cosmic leviathan](https://www.pcgamer.com/games/strategy/stellaris-new-biogenesis-expansion-lets-you-be-a-sapient-planet-or-home-grow-your-own-cosmic-leviathan/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
