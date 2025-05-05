@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - ⏩ [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
- - 👉 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)<!-- MEMES:END -->
+ - 💣 [Old memes?](http://9gag.com/gag/aRBoPmj)
+ - ⏩ [Hol tf up](http://9gag.com/gag/aXPWpjd)
+ - 👉 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)<!-- MEMES:END -->
 
 ---
 
