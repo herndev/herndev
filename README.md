@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something to drink?](http://9gag.com/gag/amoM84o)
- - ⏩ [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
- - 👉 [Post some examples yo](http://9gag.com/gag/aZZjNdV)<!-- MEMES:END -->
+ - 💣 [How to calm a baby](http://9gag.com/gag/avyRP1X)
+ - ⏩ [Hol tf up](http://9gag.com/gag/aXPWpjd)
+ - 👉 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)<!-- MEMES:END -->
 
 ---
 
