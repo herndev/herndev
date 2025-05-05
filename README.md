@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
- - ⏩ [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
- - 👉 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)<!-- MEMES:END -->
+ - 💣 [Nice save](http://9gag.com/gag/avyRg3E)
+ - ⏩ [What a film tho](http://9gag.com/gag/ajPZ6jw)
+ - 👉 [Asking the right questions](http://9gag.com/gag/a7o2yQA)<!-- MEMES:END -->
 
 ---
 
