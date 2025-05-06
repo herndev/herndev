@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RCs of iOS 18.5, macOS 15.5 arrive as updates near release](https://appleinsider.com/articles/25/05/06/rcs-of-ios-185-macos-155-arrive-as-updates-near-release?utm_medium=rss)
- - [ServiceNow launches ServiceNow CRM to take on Salesforce and automate many common workflow steps and &quot;human middleware&quot; with AI &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250506/p33#a250506p33)
- - [News reader Particle launches on the web, featuring news headlines and AI summaries, key quotes, links to sources, and reader questions answered by AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250506/p32#a250506p32)<!-- TECH:END -->
+ - [An internal Meta report from 2019 found that minors made up 27% of the follow recommendations that Instagram surfaced to &quot;groomers&quot;, vs. 7% to all adults &lpar;Bloomberg&rpar;](http://www.techmeme.com/250506/p36#a250506p36)
+ - [Trump’s Tariffs Won’t Make Hollywood Great Again, but There’s a Plan That Can](https://www.wired.com/story/trumps-tariffs-wont-make-hollywood-great-again-but-theres-a-plan-that-can/)
+ - [The three most-downloaded PS5 games for April in North America and Europe were all Microsoft titles: Minecraft, the Oblivion remaster, and Forza Horizon 5 &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250506/p35#a250506p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
