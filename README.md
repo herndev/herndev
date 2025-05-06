@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
- - ⏩ [N-word Etiquette](http://9gag.com/gag/a1m2XgD)
- - 👉 [I wonder what will happen to Japan if these folks invade.](http://9gag.com/gag/aYQqK4O)<!-- MEMES:END -->
+ - 💣 [The original video](http://9gag.com/gag/aAy2p4Z)
+ - ⏩ [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
+ - 👉 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)<!-- MEMES:END -->
 
 ---
 
