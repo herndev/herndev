@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Doom: The Dark Ages headlines Xbox Game Pass in May](https://www.polygon.com/gaming/597801/xbox-game-pass-may-2025-doom-dark-ages)
- - [Deadlock goes full second breakfast by having another, secret playtest tucked inside the first one—with all-new heroes and a redesign of everyone&#39;s favourite gargoyle gal](https://www.pcgamer.com/games/moba/deadlock-goes-full-second-breakfast-by-having-another-secret-playtest-tucked-inside-the-first-one-with-all-new-heroes-and-a-redesign-of-everyones-favourite-gargoyle-gal/)
- - [GTA 6&#39;s second trailer is here to help numb the pain of it being delayed](https://www.pcgamer.com/games/action/gta-6-got-a-second-trailer-with-more-screen-time-for-both-of-its-protagonists-just-in-time-for-all-of-us-to-numb-the-pain-of-it-being-delayed/)<!-- GAME:END -->
+ - [GTA 6&#39;s preposterously-gorgeous second trailer has me thinking &#39;no-one does it like Rockstar&#39; isn&#39;t just a compliment, but an omen](https://www.pcgamer.com/games/third-person-shooter/gta-6s-preposterously-gorgeous-second-trailer-has-me-thinking-no-one-does-it-like-rockstar-isnt-just-a-compliment-but-an-omen/)
+ - [Apple Mac Studio M4 Max review](https://www.pcgamer.com/hardware/gaming-pcs/apple-mac-studio-m4-max-review/)
+ - [After One Weekend, Marvel Is Spoiling Thunderbolts* As A Bit](https://kotaku.com/thunderbolts-marvel-mcu-new-avengers-spoiler-ending-1851779319)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
