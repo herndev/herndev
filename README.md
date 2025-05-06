@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The GTA 6 map will include a &#39;lush&#39; national park in the mountains featuring &#39;hillbilly mystics and paranoid radicals&#39;](https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-map-will-include-a-lush-national-park-in-the-mountains-featuring-hillbilly-mystics-and-paranoid-radicals/)
- - [The Wait For Battlefield 6 Won&#39;t Be Much Longer With Full Reveal This Summer](https://kotaku.com/battlefield-6-release-date-showcase-ea-1851779462)
- - [Destiny 2 is going from kinda Star Wars to literally Star Wars in new expansion](https://www.polygon.com/news/597887/destiny-2-star-wars-dlc-renegades)<!-- GAME:END -->
+ - [Well that didn&#39;t pan out: Former Rockstar boss said in 2018 that he was glad not to be releasing GTA 6 in the Trump era, but here we are with GTA 6 releasing in the Trump era](https://www.pcgamer.com/games/action/well-that-didnt-pan-out-former-rockstar-boss-said-in-2018-that-he-was-glad-not-to-be-releasing-gta-6-in-the-trump-era-but-here-we-are-with-gta-6-releasing-in-the-trump-era/)
+ - [The new GTA 6 trailer opens with a self-referential gag that reminded me of how wild the 2022 hack was](https://www.pcgamer.com/games/grand-theft-auto/gta-6-trailer-2-leak-joke/)
+ - [The GTA 6 map will include a &#39;lush&#39; national park in the mountains featuring &#39;hillbilly mystics and paranoid radicals&#39;](https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-map-will-include-a-lush-national-park-in-the-mountains-featuring-hillbilly-mystics-and-paranoid-radicals/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
