@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)
- - ⏩ [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
- - 👉 [Post some examples yo](http://9gag.com/gag/aZZjNdV)<!-- MEMES:END -->
+ - 💣 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
+ - ⏩ [Cake](http://9gag.com/gag/a5Q277y)
+ - 👉 [Oof size : Large](http://9gag.com/gag/a342LE3)<!-- MEMES:END -->
 
 ---
 
