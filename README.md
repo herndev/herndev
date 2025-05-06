@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;He&#39;s very good at finding really cool people&#39;: Clair Obscur: Expedition 33&#39;s director found its composer on Soundcloud and lead writer on Reddit](https://www.pcgamer.com/games/rpg/hes-very-good-at-finding-really-cool-people-clair-obscur-expedition-33s-director-found-its-composer-on-soundcloud-and-lead-writer-on-reddit/)
- - [The Month of Meh event is underway in Hello Kitty Island Adventure, finally letting you take photos with a strange man dressed as an egg](https://www.pcgamer.com/games/life-sim/the-month-of-meh-event-is-underway-in-hello-kitty-island-adventure-finally-letting-you-take-photos-with-a-strange-man-dressed-as-an-egg/)
- - [One redditor scored an Nvidia RTX Pro 6000 Blackwell GPU with 3x the memory of a RTX 5090 for only twice the MSRP](https://www.pcgamer.com/hardware/graphics-cards/one-redditor-scored-an-nvidia-rtx-pro-6000-blackwell-gpu-with-3x-the-memory-of-a-rtx-5090-for-only-twice-the-msrp/)<!-- GAME:END -->
+ - [Tales of the Shire wants to make sure &#39;every detail is just right&#39; when starting your hobbit life, but the character creator still looks incredibly disappointing](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-wants-to-make-sure-every-detail-is-just-right-when-starting-your-hobbit-life-but-the-character-creator-still-looks-incredibly-disappointing/)
+ - [Nvidia announces RTX 5060 release date of May 19 for both the $299 desktop GPU and $1,099 gaming laptops](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-rtx-5060-release-date-of-may-19-for-both-the-usd299-desktop-gpu-and-usd1-099-laptops/)
+ - [Coming to Game Pass: DOOM: The Dark Ages, Revenge of the Savage Planet, Dragonball Xenoverse 2, and More](https://news.xbox.com/en-us/2025/05/06/xbox-game-pass-may-2025-wave-1/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
