@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;It is very touching and very stupid&#39;: Katamari Damacy creator can&#39;t wait for us to experience the final scene of his new game](https://www.pcgamer.com/games/adventure/it-is-very-touching-and-very-stupid-katamari-damacy-creator-cant-wait-for-us-to-experience-the-final-scene-of-his-new-game/)
  - [Everyone is a boat in this &#39;MOBA meets Vampire Survivors&#39; game inspired by a Warcraft 3 mod](https://www.pcgamer.com/games/moba/everyone-is-a-boat-in-this-moba-meets-vampire-survivors-game-inspired-by-a-warcraft-3-mod/)
- - [&#39;Henry is worse than the Black Plague&#39;: Kingdom Come: Deliverance 2 studio marks 3 million copies sold with some sobering statistics](https://www.pcgamer.com/games/rpg/henry-is-worse-than-the-black-plague-kingdom-come-deliverance-2-studio-marks-3-million-copies-sold-with-some-sobering-statistics/)
- - [Skype dead at 22](https://www.pcgamer.com/gaming-industry/skype-dead-at-22/)<!-- GAME:END -->
+ - [&#39;Henry is worse than the Black Plague&#39;: Kingdom Come: Deliverance 2 studio marks 3 million copies sold with some sobering statistics](https://www.pcgamer.com/games/rpg/henry-is-worse-than-the-black-plague-kingdom-come-deliverance-2-studio-marks-3-million-copies-sold-with-some-sobering-statistics/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
