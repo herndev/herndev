@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are these kinds of teachers did not show up when I was at school ?](http://9gag.com/gag/axyRG8n)
- - ⏩ [Incredible india](http://9gag.com/gag/aByGYjD)
- - 👉 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)<!-- MEMES:END -->
+ - 💣 [Cake](http://9gag.com/gag/a5Q277y)
+ - ⏩ [Oof size : Large](http://9gag.com/gag/a342LE3)
+ - 👉 [Reality](http://9gag.com/gag/a1m2MB8)<!-- MEMES:END -->
 
 ---
 
