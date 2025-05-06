@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)
- - ⏩ [I see this as a absolutely win](http://9gag.com/gag/a5Q2PLV)
- - 👉 [Reality](http://9gag.com/gag/a1m2MB8)<!-- MEMES:END -->
+ - 💣 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
+ - ⏩ [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
+ - 👉 [Art from hell &lt;3](http://9gag.com/gag/aD2VGPw)<!-- MEMES:END -->
 
 ---
 
