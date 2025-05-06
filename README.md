@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfectly PUUURRRREE](http://9gag.com/gag/a9y27jW)
- - ⏩ [Not what I wanted, but what I deserved](http://9gag.com/gag/aYQqWRm)
- - 👉 [There is another](http://9gag.com/gag/aRBoAP7)<!-- MEMES:END -->
+ - 💣 [Something to drink?](http://9gag.com/gag/amoM84o)
+ - ⏩ [Incredible india](http://9gag.com/gag/aByGYjD)
+ - 👉 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)<!-- MEMES:END -->
 
 ---
 
