@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, May 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-6-2025/)
- - [Squid Game Season 3 teaser respawns Player 456 in the lobby for one more round](https://www.pcgamer.com/movies-tv/squid-game-season-3-teaser-respawns-player-456-in-the-lobby-for-one-more-round/)
- - [&#39;It is very touching and very stupid&#39;: Katamari Damacy creator can&#39;t wait for us to experience the final scene of his new game](https://www.pcgamer.com/games/adventure/it-is-very-touching-and-very-stupid-katamari-damacy-creator-cant-wait-for-us-to-experience-the-final-scene-of-his-new-game/)<!-- GAME:END -->
+ - [One redditor scored an Nvidia RTX Pro 6000 Blackwell GPU with 3x the memory of a RTX 5090 for only twice the MSRP](https://www.pcgamer.com/hardware/graphics-cards/one-redditor-scored-an-nvidia-rtx-pro-6000-blackwell-gpu-with-3x-the-memory-of-a-rtx-5090-for-only-twice-the-msrp/)
+ - [8BitDo announces new Ultimate 2 wireless controller with TMR joysticks and Hall Effect switchable triggers](https://www.pcgamer.com/hardware/8bitdo-announces-new-ultimate-2-wireless-controller-with-tmr-joysticks-and-hall-effect-switchable-triggers/)
+ - [How to watch the Destiny 2 Edge of Fate livestream](https://www.pcgamer.com/games/fps/destiny-2-edge-of-fate-livestream-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
