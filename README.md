@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung may be planning an unusual move for its next Galaxy Watch update](https://www.androidauthority.com/samsung-may-skip-one-ui-7-watch-for-one-ui-8-watch-3554687/)
- - [Google has entered showbiz to convince young people that Android is cool too](https://www.androidauthority.com/google-100-zeroes-production-studio-3554668/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dyson Promo Codes: 20% Off | May 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [Groupon Promo Codes: 25% Off | May 2025](https://www.wired.com/story/groupon-promo-code/)
+ - [Samsung may be planning an unusual move for its next Galaxy Watch update](https://www.androidauthority.com/samsung-may-skip-one-ui-7-watch-for-one-ui-8-watch-3554687/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
