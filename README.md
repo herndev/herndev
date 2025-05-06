@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: TM SGNL, TeleMessage&#39;s modified version of Signal used by senior Trump officials, could send plaintext chat logs to TeleMessage&#39;s archive server &lpar;Micah Lee/micahflee&rpar;](http://www.techmeme.com/250506/p45#a250506p45)
- - [Sonos and Ikea break up, but software updates will continue for Symfonisk hardware](https://appleinsider.com/articles/25/05/06/sonos-and-ikea-break-up-but-software-updates-will-continue-for-symfonisk-hardware?utm_medium=rss)
- - [Be careful what you read about an Elden Ring movie](https://www.theverge.com/news/662200/elden-ring-movie-nexus-point-news-be-careful)<!-- TECH:END -->
+ - [Sources: Legora, whose AI software helps lawyers draft contracts, review and analyze documents, and more, is in talks to raise $85M at a $675M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250506/p48#a250506p48)
+ - [Ember Mug 2 deal: My favorite smart product is $50 off!](https://www.androidauthority.com/ember-mug-2-deal-7-3555036/)
+ - [Meta awarded $167.25 million over Pegasus spyware attack](https://www.theverge.com/news/662242/meta-nso-group-pegasus-whatsapp-hack-damages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
