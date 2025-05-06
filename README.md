@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - ⏩ [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
- - 👉 [Art from hell &lt;3](http://9gag.com/gag/aD2VGPw)<!-- MEMES:END -->
+ - 💣 [Perfectly PUUURRRREE](http://9gag.com/gag/a9y27jW)
+ - ⏩ [Not what I wanted, but what I deserved](http://9gag.com/gag/aYQqWRm)
+ - 👉 [There is another](http://9gag.com/gag/aRBoAP7)<!-- MEMES:END -->
 
 ---
 
