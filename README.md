@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cursed prank](http://9gag.com/gag/aW4bOEK)
- - ⏩ [Mama&#39;s hungry](http://9gag.com/gag/a872jPO)
- - 👉 [Man of Culture](http://9gag.com/gag/aGyAwWG)<!-- MEMES:END -->
+ - 💣 [Is this the color of success?](http://9gag.com/gag/a4P2L06)
+ - ⏩ [Incredible india](http://9gag.com/gag/aByGYjD)
+ - 👉 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)<!-- MEMES:END -->
 
 ---
 
