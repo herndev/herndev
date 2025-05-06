@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to calm a baby](http://9gag.com/gag/avyRP1X)
- - ⏩ [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - 👉 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)<!-- MEMES:END -->
+ - 💣 [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)
+ - ⏩ [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - 👉 [Post some examples yo](http://9gag.com/gag/aZZjNdV)<!-- MEMES:END -->
 
 ---
 
