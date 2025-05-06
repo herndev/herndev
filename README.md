@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 Will Launch With Almost Twice As Many Profile Icons, Including Every Pokémon Starter](https://kotaku.com/nintendo-switch-2-profile-icon-pokemon-starters-pikachu-1851779369)
- - [Microsoft unleashes an AI agent on your unsuspecting Windows settings, but initially only if you have a Snapdragon X-powered PC](https://www.pcgamer.com/software/operating-systems/microsoft-unleashes-an-ai-agent-on-your-unsuspecting-windows-settings-but-initially-only-if-you-have-a-snapdragon-x-powered-pc/)
- - [I&#39;m already totally enamored with Grand Theft Auto 6&#39;s Jason and Lucia, and I&#39;ve had them for less than 5 minutes](https://www.pcgamer.com/games/grand-theft-auto/im-already-totally-enamored-with-grand-theft-auto-6s-jason-and-lucia-and-ive-had-them-for-less-than-5-minutes/)<!-- GAME:END -->
+ - [Elden Ring Is Getting More DLC Over Three Years Later Thanks To Switch 2](https://kotaku.com/elden-ring-dlc-classes-aor-switch-2-ps5-pc-1851779390)
+ - [Starbreeze reclaims Payday 3 publishing rights from Plaion, says it will &#39;significantly accelerate our content development roadmap&#39;](https://www.pcgamer.com/games/fps/starbreeze-reclaims-payday-3-publishing-rights-from-plaion-says-it-will-significantly-accelerate-our-content-development-roadmap/)
+ - [Bungie announces the next four Destiny 2 expansions, and yes, the second one is literally just Star Wars](https://www.pcgamer.com/games/fps/bungie-announces-the-next-four-destiny-2-expansions-and-yes-the-second-one-is-literally-just-star-wars/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
