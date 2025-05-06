@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Google just leaked Android’s new design language](https://www.theverge.com/news/661483/google-leak-material-3-expressive-android-design)
- - [Google takes a page from Apple’s playbook with new Material 3 Expressive battery icon](https://www.androidauthority.com/google-material-3-expressive-redesign-battery-icon-3554579/)<!-- TECH:END -->
+ - [Uber and WeRide plan to expand their robotaxi service to 15 more cities over the next five years, including in Europe, after a December 2024 launch in Abu Dhabi &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250505/p23#a250505p23)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 6, #695](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-6-695/#ftag=CAD590a51e)
+ - [Here’s the first teaser for Squid Game’s third and final season](https://www.theverge.com/news/661560/squid-game-season-3-teaser-trailer-netflix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
