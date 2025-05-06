@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cake](http://9gag.com/gag/a5Q277y)
- - ⏩ [Oof size : Large](http://9gag.com/gag/a342LE3)
- - 👉 [Woke up early today...](http://9gag.com/gag/ajPZDO1)<!-- MEMES:END -->
+ - 💣 [Cursed prank](http://9gag.com/gag/aW4bOEK)
+ - ⏩ [Mama&#39;s hungry](http://9gag.com/gag/a872jPO)
+ - 👉 [Man of Culture](http://9gag.com/gag/aGyAwWG)<!-- MEMES:END -->
 
 ---
 
