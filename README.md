@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber and WeRide plan to expand their robotaxi service to 15 more cities over the next five years, including in Europe, after a December 2024 launch in Abu Dhabi &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250505/p23#a250505p23)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 6, #695](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-6-695/#ftag=CAD590a51e)
- - [Here’s the first teaser for Squid Game’s third and final season](https://www.theverge.com/news/661560/squid-game-season-3-teaser-trailer-netflix)<!-- TECH:END -->
+ - [Sources: Microsoft remains the biggest holdout among investors in OpenAI&#39;s restructuring, and is seeking assurance that changes will protect its $13.75B stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/250505/p25#a250505p25)
+ - [Amazon Echo smart speaker deals are getting hot!](https://www.androidauthority.com/amazon-echo-pop-dot-deals-3554622/)
+ - [Waymo&#39;s Self-Driving Cars Are in a Growing Number of Cities. Here&#39;s Everything to Know](https://www.cnet.com/roadshow/news/waymos-self-driving-cars-are-in-a-growing-number-of-cities-heres-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
