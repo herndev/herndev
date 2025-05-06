@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Choose Your Own Adventure with the New Challenges Mode for PGA Tour 2K25](https://news.xbox.com/en-us/2025/05/06/new-challenges-mode-for-pga-tour-2k25/)
- - [Intel Arc Celestial discrete GPUs have hit pre-silicon validation and that makes me a little more hopeful for their eventual launch](https://www.pcgamer.com/hardware/graphics-cards/intel-arc-celestial-discrete-gpus-have-hit-pre-silicon-validation-and-that-makes-me-a-little-more-hopeful-for-their-eventual-launch/)
- - [GTA 6 Releases Surprise New Trailer](https://kotaku.com/gta-6-grand-theft-auto-vi-new-trailer-rockstar-1851779300)<!-- GAME:END -->
+ - [Doom: The Dark Ages headlines Xbox Game Pass in May](https://www.polygon.com/gaming/597801/xbox-game-pass-may-2025-doom-dark-ages)
+ - [Deadlock goes full second breakfast by having another, secret playtest tucked inside the first one—with all-new heroes and a redesign of everyone&#39;s favourite gargoyle gal](https://www.pcgamer.com/games/moba/deadlock-goes-full-second-breakfast-by-having-another-secret-playtest-tucked-inside-the-first-one-with-all-new-heroes-and-a-redesign-of-everyones-favourite-gargoyle-gal/)
+ - [GTA 6&#39;s second trailer is here to help numb the pain of it being delayed](https://www.pcgamer.com/games/action/gta-6-got-a-second-trailer-with-more-screen-time-for-both-of-its-protagonists-just-in-time-for-all-of-us-to-numb-the-pain-of-it-being-delayed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
