@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Is Getting More DLC Over Three Years Later Thanks To Switch 2](https://kotaku.com/elden-ring-dlc-classes-aor-switch-2-ps5-pc-1851779390)
- - [Starbreeze reclaims Payday 3 publishing rights from Plaion, says it will &#39;significantly accelerate our content development roadmap&#39;](https://www.pcgamer.com/games/fps/starbreeze-reclaims-payday-3-publishing-rights-from-plaion-says-it-will-significantly-accelerate-our-content-development-roadmap/)
- - [Bungie announces the next four Destiny 2 expansions, and yes, the second one is literally just Star Wars](https://www.pcgamer.com/games/fps/bungie-announces-the-next-four-destiny-2-expansions-and-yes-the-second-one-is-literally-just-star-wars/)<!-- GAME:END -->
+ - [The details and takeaways you might&#39;ve missed in the new GTA 6 trailer](https://www.pcgamer.com/games/grand-theft-auto/all-the-takeaways-and-little-details-from-grand-theft-auto-6s-new-trailer/)
+ - [Revenge Of The Savage Planet: 4 Essential Tips To Start Your Journey](https://kotaku.com/revenge-of-the-savage-planet-tips-survey-death-research-1851779406)
+ - [How Long Of A Trip Is Revenge Of The Savage Planet?](https://kotaku.com/revenge-of-the-savage-planet-how-long-to-beat-journey-1851779398)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
