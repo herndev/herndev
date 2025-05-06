@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
- - ⏩ [At the party...](http://9gag.com/gag/a4P2jE1)
- - 👉 [Just look at them](http://9gag.com/gag/aKGeBQ1)<!-- MEMES:END -->
+ - 💣 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
+ - ⏩ [N-word Etiquette](http://9gag.com/gag/a1m2XgD)
+ - 👉 [I wonder what will happen to Japan if these folks invade.](http://9gag.com/gag/aYQqK4O)<!-- MEMES:END -->
 
 ---
 
