@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)
- - ⏩ [N-word Etiquette](http://9gag.com/gag/a1m2XgD)
- - 👉 [Woke up early today...](http://9gag.com/gag/ajPZDO1)<!-- MEMES:END -->
+ - ⏩ [Woke up early today...](http://9gag.com/gag/ajPZDO1)
+ - 👉 [What did he expect?](http://9gag.com/gag/aKGeqZg)<!-- MEMES:END -->
 
 ---
 
