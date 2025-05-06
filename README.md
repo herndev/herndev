@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reacts to the iPhone 17 Air’s rumored Pixel-like design with new video skit](https://www.androidauthority.com/google-react-iphone-17-air-pixel-design-3554724/)
- - [One UI 8 leak suggests Samsung DeX could borrow a lot from Android 16’s desktop mode](https://www.androidauthority.com/one-ui-8-leak-samsung-dex-3554729/)
- - [DoorDash agrees to acquire UK food delivery company Deliveroo in a £2.9B cash deal; Deliveroo has struggled since its London IPO in March 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p2#a250506p2)<!-- TECH:END -->
+ - [One UI 8 might finally fix Secure Folder’s biggest security flaws](https://www.androidauthority.com/one-ui-8-secure-folder-fix-leak-3554753/)
+ - [Microsoft shut down Skype on May 5, capping a remarkable 21-year run for a software that for many embodied the open internet and hit 300M+ users in its heyday &lpar;Leo Sands/Washington Post&rpar;](http://www.techmeme.com/250506/p3#a250506p3)
+ - [Best Early Memorial Day Mattress Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-memorial-day-mattress-sales/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
