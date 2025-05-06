@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s iOS app will use AI to simplify jargon](https://www.theverge.com/news/661695/google-simplify-ai-gemini-feature-ios-app)
- - [Developers Sue Apple for Failing to Comply With In-App Payments Order](https://www.cnet.com/tech/services-and-software/developers-sue-apple-for-failing-to-comply-with-in-app-payments-order/#ftag=CAD590a51e)
- - [DeFi company IntoTheBlock and financial services company Trident Digital announce they are merging to form Sentora and have raised a $25M Series A &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250506/p26#a250506p26)<!-- TECH:END -->
+ - [Samsung says no one should need more than this many alarms](https://www.androidauthority.com/samsung-100-alarm-limit-3554903/)
+ - [Environmental groups: xAI&#39;s Memphis plant now has ~35 gas turbines, and xAI has no Clean Air Act permits; Elon Musk said turbines were necessary to train Grok 3 &lpar;Ariel Wittenberg/Politico&rpar;](http://www.techmeme.com/250506/p30#a250506p30)
+ - [Sonos and Ikea are ending their partnership](https://www.theverge.com/news/661491/sonos-ikea-symfonisk-discontinued)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
