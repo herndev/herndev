@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An internal Meta report from 2019 found that minors made up 27% of the follow recommendations that Instagram surfaced to &quot;groomers&quot;, vs. 7% to all adults &lpar;Bloomberg&rpar;](http://www.techmeme.com/250506/p36#a250506p36)
- - [Trump’s Tariffs Won’t Make Hollywood Great Again, but There’s a Plan That Can](https://www.wired.com/story/trumps-tariffs-wont-make-hollywood-great-again-but-theres-a-plan-that-can/)
- - [The three most-downloaded PS5 games for April in North America and Europe were all Microsoft titles: Minecraft, the Oblivion remaster, and Forza Horizon 5 &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250506/p35#a250506p35)<!-- TECH:END -->
+ - [Google&amp;#8217;s Android battery health indicator is only for the newest Pixels](https://www.theverge.com/news/662129/google-android-16-battery-health)
+ - [Behind on Student Loan Payments? You&#39;re in Danger of Being Sent to Collections](https://www.cnet.com/personal-finance/loans/behind-on-student-loan-payments-youre-in-danger-of-being-sent-to-collections/#ftag=CAD590a51e)
+ - [Minecraft’s VR support is now gone](https://www.theverge.com/news/662128/minecraft-vr-mixed-reality-support-bedrock-update-1-21-80)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
