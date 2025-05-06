@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson Promo Codes: 20% Off | May 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Groupon Promo Codes: 25% Off | May 2025](https://www.wired.com/story/groupon-promo-code/)
- - [Samsung may be planning an unusual move for its next Galaxy Watch update](https://www.androidauthority.com/samsung-may-skip-one-ui-7-watch-for-one-ui-8-watch-3554687/)<!-- TECH:END -->
+ - [DoorDash agrees to buy UK-based food delivery company Deliveroo in a £2.9B deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p2#a250506p2)
+ - [Google Keep is getting a fresh coat of Material 3 Expressive &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-expressive-apk-teardown-3554693/)
+ - [A look at the challenges for mobile telecom operators in the UK, as Revolut, UK holding company Octopus, and others plan new MVNO offerings &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p1#a250506p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
