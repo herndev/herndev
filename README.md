@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tales of the Shire wants to make sure &#39;every detail is just right&#39; when starting your hobbit life, but the character creator still looks incredibly disappointing](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-wants-to-make-sure-every-detail-is-just-right-when-starting-your-hobbit-life-but-the-character-creator-still-looks-incredibly-disappointing/)
- - [Nvidia announces RTX 5060 release date of May 19 for both the $299 desktop GPU and $1,099 gaming laptops](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-rtx-5060-release-date-of-may-19-for-both-the-usd299-desktop-gpu-and-usd1-099-laptops/)
- - [Coming to Game Pass: DOOM: The Dark Ages, Revenge of the Savage Planet, Dragonball Xenoverse 2, and More](https://news.xbox.com/en-us/2025/05/06/xbox-game-pass-may-2025-wave-1/)<!-- GAME:END -->
+ - [Choose Your Own Adventure with the New Challenges Mode for PGA Tour 2K25](https://news.xbox.com/en-us/2025/05/06/new-challenges-mode-for-pga-tour-2k25/)
+ - [Intel Arc Celestial discrete GPUs have hit pre-silicon validation and that makes me a little more hopeful for their eventual launch](https://www.pcgamer.com/hardware/graphics-cards/intel-arc-celestial-discrete-gpus-have-hit-pre-silicon-validation-and-that-makes-me-a-little-more-hopeful-for-their-eventual-launch/)
+ - [GTA 6 Releases Surprise New Trailer](https://kotaku.com/gta-6-grand-theft-auto-vi-new-trailer-rockstar-1851779300)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
