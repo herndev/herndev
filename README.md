@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The World Of GTA 6 Looks Stunning In 70 Completely New Screenshots](https://kotaku.com/gta-6-trailer-2-screenshots-vice-city-map-jason-lucia-1851779375)
- - [Is this South Beach institution actually in GTA 6?](https://www.polygon.com/gta-grand-theft-auto/597843/gta-6-clevelander-hotel-miami-vice-city)
- - [Starfield gets a new beta update on Steam with bug fixes, a &#39;Very Low&#39; display setting, and no new content](https://www.pcgamer.com/games/rpg/starfield-gets-a-new-beta-update-on-steam-with-bug-fixes-a-very-low-display-setting-and-no-new-content/)<!-- GAME:END -->
+ - [The GTA 6 map will include a &#39;lush&#39; national park in the mountains featuring &#39;hillbilly mystics and paranoid radicals&#39;](https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-map-will-include-a-lush-national-park-in-the-mountains-featuring-hillbilly-mystics-and-paranoid-radicals/)
+ - [The Wait For Battlefield 6 Won&#39;t Be Much Longer With Full Reveal This Summer](https://kotaku.com/battlefield-6-release-date-showcase-ea-1851779462)
+ - [Destiny 2 is going from kinda Star Wars to literally Star Wars in new expansion](https://www.polygon.com/news/597887/destiny-2-star-wars-dlc-renegades)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
