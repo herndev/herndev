@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says no one should need more than this many alarms](https://www.androidauthority.com/samsung-100-alarm-limit-3554903/)
- - [Environmental groups: xAI&#39;s Memphis plant now has ~35 gas turbines, and xAI has no Clean Air Act permits; Elon Musk said turbines were necessary to train Grok 3 &lpar;Ariel Wittenberg/Politico&rpar;](http://www.techmeme.com/250506/p30#a250506p30)
- - [Sonos and Ikea are ending their partnership](https://www.theverge.com/news/661491/sonos-ikea-symfonisk-discontinued)<!-- TECH:END -->
+ - [RCs of iOS 18.5, macOS 15.5 arrive as updates near release](https://appleinsider.com/articles/25/05/06/rcs-of-ios-185-macos-155-arrive-as-updates-near-release?utm_medium=rss)
+ - [ServiceNow launches ServiceNow CRM to take on Salesforce and automate many common workflow steps and &quot;human middleware&quot; with AI &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250506/p33#a250506p33)
+ - [News reader Particle launches on the web, featuring news headlines and AI summaries, key quotes, links to sources, and reader questions answered by AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250506/p32#a250506p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
