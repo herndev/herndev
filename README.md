@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Beats Solo 4 headphones are 50% off](https://www.androidauthority.com/beats-solo-4-deal-2-3554621/)
- - [Sources: Microsoft remains the biggest holdout among investors in OpenAI&#39;s restructuring, and is seeking assurance that changes will protect its $13.75B stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/250505/p25#a250505p25)
- - [Amazon Echo smart speaker deals are getting hot!](https://www.androidauthority.com/amazon-echo-pop-dot-deals-3554622/)<!-- TECH:END -->
+ - [How to lock screen rotation on iPad &amp; avoid constant flipping](https://appleinsider.com/inside/ipad/tips/how-to-lock-screen-rotation-on-ipad-avoid-constant-flipping?utm_medium=rss)
+ - [Sensor Tower: Shein&#39;s ad spend rose 35% MoM in France and the UK in April, while Temu&#39;s jumped 40% MoM and 20% MoM respectively, amid Trump&#39;s de minimis ban &lpar;Arriana McLymore/Reuters&rpar;](http://www.techmeme.com/250505/p26#a250505p26)
+ - [Deal: Beats Solo 4 headphones are 50% off](https://www.androidauthority.com/beats-solo-4-deal-2-3554621/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
