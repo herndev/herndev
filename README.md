@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something to drink?](http://9gag.com/gag/amoM84o)
- - ⏩ [Incredible india](http://9gag.com/gag/aByGYjD)
- - 👉 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)<!-- MEMES:END -->
+ - 💣 [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
+ - ⏩ [At the party...](http://9gag.com/gag/a4P2jE1)
+ - 👉 [Just look at them](http://9gag.com/gag/aKGeBQ1)<!-- MEMES:END -->
 
 ---
 
