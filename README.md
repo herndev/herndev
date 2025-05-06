@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft unveils the $899+ Surface Laptop 13, with a smaller 13&quot; display, an 8-core Snapdragon X Plus, 16GB RAM, and up to 512GB of storage, shipping May 20 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250506/p15#a250506p15)
- - [Microsoft’s new Surface devices ditch magnetic charging port for USB-C](https://www.theverge.com/news/660005/microsoft-surface-connect-port-replaced-usb-c-charging)
- - [Amazon now has a &amp;#8216;Get book&amp;#8217; button in its iOS Kindle app](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)<!-- TECH:END -->
+ - [Google could make OnePlus’s Live Alerts even better for sports fans &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-oxygenos-live-alerts-google-app-sports-score-apk-teardown-3554811/)
+ - [Grand Theft Auto VI’s second trailer sets up its Bonnie and Clyde story](https://www.theverge.com/news/24235732/gta-6-grand-theft-auto-trailer)
+ - [Filing: Uber acquires an 85% stake in Turkish food delivery platform Trendyol GO for ~$700M cash, set to close in H2 2025; Trendyol GO had 200M+ orders in 2024 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250506/p23#a250506p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
