@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s attorney says OpenAI&#39;s nonprofit reversal is &quot;a transparent dodge that fails to address the core issues&quot; and &quot;the founding mission remains betrayed&quot; &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250506/p7#a250506p7)
- - [European drone startups Quantum Systems raised €160M, sources say at a €1B+ valuation, and Tekever hit a £1B+ valuation, as VCs pour money into European defense &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p6#a250506p6)
- - [Did you know: Xiaomi phones were &lpar;kinda&rpar; sold in the US for one day](https://www.androidauthority.com/did-you-know-xiaomi-phones-sold-us-carrier-one-day-3545737/)<!-- TECH:END -->
+ - [Orca AI, which offers an autonomous shipping navigation service based on a dataset of 80M+ nautical miles, raised a $72.5M Series B, after raising $23M in 2024 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250506/p12#a250506p12)
+ - [Wonder, which runs Grubhub and Blue Apron, raised $600M led by NEA, a source says at a $7B+ valuation, and CEO Marc Lore says it has $2B+ in revenue &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250506/p11#a250506p11)
+ - [India AirPods manufacturer plans second plant](https://appleinsider.com/articles/25/05/06/india-airpods-manufacturer-plans-second-plant?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
