@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, May 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-6-2025/)
  - [Squid Game Season 3 teaser respawns Player 456 in the lobby for one more round](https://www.pcgamer.com/movies-tv/squid-game-season-3-teaser-respawns-player-456-in-the-lobby-for-one-more-round/)
- - [&#39;It is very touching and very stupid&#39;: Katamari Damacy creator can&#39;t wait for us to experience the final scene of his new game](https://www.pcgamer.com/games/adventure/it-is-very-touching-and-very-stupid-katamari-damacy-creator-cant-wait-for-us-to-experience-the-final-scene-of-his-new-game/)
- - [Everyone is a boat in this &#39;MOBA meets Vampire Survivors&#39; game inspired by a Warcraft 3 mod](https://www.pcgamer.com/games/moba/everyone-is-a-boat-in-this-moba-meets-vampire-survivors-game-inspired-by-a-warcraft-3-mod/)<!-- GAME:END -->
+ - [&#39;It is very touching and very stupid&#39;: Katamari Damacy creator can&#39;t wait for us to experience the final scene of his new game](https://www.pcgamer.com/games/adventure/it-is-very-touching-and-very-stupid-katamari-damacy-creator-cant-wait-for-us-to-experience-the-final-scene-of-his-new-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
