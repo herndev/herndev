@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&amp;#8217;s Android battery health indicator is only for the newest Pixels](https://www.theverge.com/news/662129/google-android-16-battery-health)
- - [Behind on Student Loan Payments? You&#39;re in Danger of Being Sent to Collections](https://www.cnet.com/personal-finance/loans/behind-on-student-loan-payments-youre-in-danger-of-being-sent-to-collections/#ftag=CAD590a51e)
- - [Minecraft’s VR support is now gone](https://www.theverge.com/news/662128/minecraft-vr-mixed-reality-support-bedrock-update-1-21-80)<!-- TECH:END -->
+ - [EA reports Q4 net bookings up 8% YoY to $1.8B, vs. $1.56B est., and forecasts FY 2026 bookings above estimates; EA jumps 5%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250506/p40#a250506p40)
+ - [Google’s May 2025 Pixel update fixes mic recording and Bluetooth pairing](https://www.androidauthority.com/pixel-may-2025-software-update-3554974/)
+ - [AMD reports Q1 revenue up 36% YoY to $7.4B, vs. $7.12B est., Data Center revenue up 57% to $3.7B, vs. $3.66B est., and forecasts Q2 sales above estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250506/p39#a250506p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
