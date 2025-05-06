@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could make OnePlus’s Live Alerts even better for sports fans &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-oxygenos-live-alerts-google-app-sports-score-apk-teardown-3554811/)
- - [Grand Theft Auto VI’s second trailer sets up its Bonnie and Clyde story](https://www.theverge.com/news/24235732/gta-6-grand-theft-auto-trailer)
- - [Filing: Uber acquires an 85% stake in Turkish food delivery platform Trendyol GO for ~$700M cash, set to close in H2 2025; Trendyol GO had 200M+ orders in 2024 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250506/p23#a250506p23)<!-- TECH:END -->
+ - [Developers will have a hard time getting App Store users to buy directly](https://appleinsider.com/articles/25/05/06/developers-will-have-a-hard-time-getting-app-store-users-to-buy-directly?utm_medium=rss)
+ - [Lowest price ever: Save 27% on this Asus ProArt 32-inch display for your Mac](https://appleinsider.com/articles/25/05/06/lowest-price-ever-save-27-on-this-asus-proart-32-inch-display-for-your-mac?utm_medium=rss)
+ - [Apple may revive battery case accessory for iPhone 17 Air](https://appleinsider.com/articles/25/05/03/apple-to-revive-battery-case-accessory-for-iphone-17-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
