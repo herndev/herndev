@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One redditor scored an Nvidia RTX Pro 6000 Blackwell GPU with 3x the memory of a RTX 5090 for only twice the MSRP](https://www.pcgamer.com/hardware/graphics-cards/one-redditor-scored-an-nvidia-rtx-pro-6000-blackwell-gpu-with-3x-the-memory-of-a-rtx-5090-for-only-twice-the-msrp/)
- - [8BitDo announces new Ultimate 2 wireless controller with TMR joysticks and Hall Effect switchable triggers](https://www.pcgamer.com/hardware/8bitdo-announces-new-ultimate-2-wireless-controller-with-tmr-joysticks-and-hall-effect-switchable-triggers/)
- - [How to watch the Destiny 2 Edge of Fate livestream](https://www.pcgamer.com/games/fps/destiny-2-edge-of-fate-livestream-time/)<!-- GAME:END -->
+ - [&#39;He&#39;s very good at finding really cool people&#39;: Clair Obscur: Expedition 33&#39;s director found its composer on Soundcloud and lead writer on Reddit](https://www.pcgamer.com/games/rpg/hes-very-good-at-finding-really-cool-people-clair-obscur-expedition-33s-director-found-its-composer-on-soundcloud-and-lead-writer-on-reddit/)
+ - [The Month of Meh event is underway in Hello Kitty Island Adventure, finally letting you take photos with a strange man dressed as an egg](https://www.pcgamer.com/games/life-sim/the-month-of-meh-event-is-underway-in-hello-kitty-island-adventure-finally-letting-you-take-photos-with-a-strange-man-dressed-as-an-egg/)
+ - [One redditor scored an Nvidia RTX Pro 6000 Blackwell GPU with 3x the memory of a RTX 5090 for only twice the MSRP](https://www.pcgamer.com/hardware/graphics-cards/one-redditor-scored-an-nvidia-rtx-pro-6000-blackwell-gpu-with-3x-the-memory-of-a-rtx-5090-for-only-twice-the-msrp/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
