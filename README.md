@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash agrees to acquire UK food delivery company Deliveroo in a £2.9B cash deal; Deliveroo has struggled since its London IPO in March 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p2#a250506p2)
- - [Google Keep is getting a fresh coat of Material 3 Expressive &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-expressive-apk-teardown-3554693/)
- - [A look at the challenges for mobile telecom operators in the UK, as Revolut, UK holding company Octopus, and others plan new MVNO offerings &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p1#a250506p1)<!-- TECH:END -->
+ - [Google reacts to the iPhone 17 Air’s rumored Pixel-like design with new video skit](https://www.androidauthority.com/google-react-iphone-17-air-pixel-design-3554724/)
+ - [One UI 8 leak suggests Samsung DeX could borrow a lot from Android 16’s desktop mode](https://www.androidauthority.com/one-ui-8-leak-samsung-dex-3554729/)
+ - [DoorDash agrees to acquire UK food delivery company Deliveroo in a £2.9B cash deal; Deliveroo has struggled since its London IPO in March 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p2#a250506p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
