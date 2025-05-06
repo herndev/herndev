@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers will have a hard time getting App Store users to buy directly](https://appleinsider.com/articles/25/05/06/developers-will-have-a-hard-time-getting-app-store-users-to-buy-directly?utm_medium=rss)
- - [Lowest price ever: Save 27% on this Asus ProArt 32-inch display for your Mac](https://appleinsider.com/articles/25/05/06/lowest-price-ever-save-27-on-this-asus-proart-32-inch-display-for-your-mac?utm_medium=rss)
- - [Apple may revive battery case accessory for iPhone 17 Air](https://appleinsider.com/articles/25/05/03/apple-to-revive-battery-case-accessory-for-iphone-17-air?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s iOS app will use AI to simplify jargon](https://www.theverge.com/news/661695/google-simplify-ai-gemini-feature-ios-app)
+ - [Developers Sue Apple for Failing to Comply With In-App Payments Order](https://www.cnet.com/tech/services-and-software/developers-sue-apple-for-failing-to-comply-with-in-app-payments-order/#ftag=CAD590a51e)
+ - [DeFi company IntoTheBlock and financial services company Trident Digital announce they are merging to form Sentora and have raised a $25M Series A &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250506/p26#a250506p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
