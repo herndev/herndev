@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man of Culture](http://9gag.com/gag/aGyAwWG)
- - ⏩ [Shark Cage Disaster](http://9gag.com/gag/ajPZ6Mx)
- - 👉 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)<!-- MEMES:END -->
+ - 💣 [Cake](http://9gag.com/gag/a5Q277y)
+ - ⏩ [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
+ - 👉 [Oof size : Large](http://9gag.com/gag/a342LE3)<!-- MEMES:END -->
 
 ---
 
