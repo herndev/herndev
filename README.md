@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8 might finally fix Secure Folder’s biggest security flaws](https://www.androidauthority.com/one-ui-8-secure-folder-fix-leak-3554753/)
- - [Microsoft shut down Skype on May 5, capping a remarkable 21-year run for a software that for many embodied the open internet and hit 300M+ users in its heyday &lpar;Leo Sands/Washington Post&rpar;](http://www.techmeme.com/250506/p3#a250506p3)
- - [Best Early Memorial Day Mattress Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-memorial-day-mattress-sales/)<!-- TECH:END -->
+ - [Elon Musk&#39;s attorney says OpenAI&#39;s nonprofit reversal is &quot;a transparent dodge that fails to address the core issues&quot; and &quot;the founding mission remains betrayed&quot; &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250506/p7#a250506p7)
+ - [European drone startups Quantum Systems raised €160M, sources say at a €1B+ valuation, and Tekever hit a £1B+ valuation, as VCs pour money into European defense &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p6#a250506p6)
+ - [Did you know: Xiaomi phones were &lpar;kinda&rpar; sold in the US for one day](https://www.androidauthority.com/did-you-know-xiaomi-phones-sold-us-carrier-one-day-3545737/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
