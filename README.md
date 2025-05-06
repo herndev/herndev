@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Orca AI, which offers an autonomous shipping navigation service based on a dataset of 80M+ nautical miles, raised a $72.5M Series B, after raising $23M in 2024 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250506/p12#a250506p12)
- - [Wonder, which runs Grubhub and Blue Apron, raised $600M led by NEA, a source says at a $7B+ valuation, and CEO Marc Lore says it has $2B+ in revenue &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250506/p11#a250506p11)
- - [India AirPods manufacturer plans second plant](https://appleinsider.com/articles/25/05/06/india-airpods-manufacturer-plans-second-plant?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft unveils the $899+ Surface Laptop 13, with a smaller 13&quot; display, an 8-core Snapdragon X Plus, 16GB RAM, and up to 512GB of storage, shipping May 20 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250506/p15#a250506p15)
+ - [Microsoft’s new Surface devices ditch magnetic charging port for USB-C](https://www.theverge.com/news/660005/microsoft-surface-connect-port-replaced-usb-c-charging)
+ - [Amazon now has a &amp;#8216;Get book&amp;#8217; button in its iOS Kindle app](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
