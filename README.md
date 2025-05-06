@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6&#39;s preposterously-gorgeous second trailer has me thinking &#39;no-one does it like Rockstar&#39; isn&#39;t just a compliment, but an omen](https://www.pcgamer.com/games/third-person-shooter/gta-6s-preposterously-gorgeous-second-trailer-has-me-thinking-no-one-does-it-like-rockstar-isnt-just-a-compliment-but-an-omen/)
- - [Apple Mac Studio M4 Max review](https://www.pcgamer.com/hardware/gaming-pcs/apple-mac-studio-m4-max-review/)
- - [After One Weekend, Marvel Is Spoiling Thunderbolts* As A Bit](https://kotaku.com/thunderbolts-marvel-mcu-new-avengers-spoiler-ending-1851779319)<!-- GAME:END -->
+ - [Switch 2 Will Launch With Almost Twice As Many Profile Icons, Including Every Pokémon Starter](https://kotaku.com/nintendo-switch-2-profile-icon-pokemon-starters-pikachu-1851779369)
+ - [Microsoft unleashes an AI agent on your unsuspecting Windows settings, but initially only if you have a Snapdragon X-powered PC](https://www.pcgamer.com/software/operating-systems/microsoft-unleashes-an-ai-agent-on-your-unsuspecting-windows-settings-but-initially-only-if-you-have-a-snapdragon-x-powered-pc/)
+ - [I&#39;m already totally enamored with Grand Theft Auto 6&#39;s Jason and Lucia, and I&#39;ve had them for less than 5 minutes](https://www.pcgamer.com/games/grand-theft-auto/im-already-totally-enamored-with-grand-theft-auto-6s-jason-and-lucia-and-ive-had-them-for-less-than-5-minutes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
