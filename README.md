@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)
- - ⏩ [Woke up early today...](http://9gag.com/gag/ajPZDO1)
- - 👉 [What did he expect?](http://9gag.com/gag/aKGeqZg)<!-- MEMES:END -->
+ - 💣 [Twelve days in, and Clair Obscur: Expedition 33 has crossed two million copies sold](http://9gag.com/gag/aAy2wD9)
+ - ⏩ [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
+ - 👉 [Skype has officially shut down](http://9gag.com/gag/ae9mGPj)<!-- MEMES:END -->
 
 ---
 
