@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The details and takeaways you might&#39;ve missed in the new GTA 6 trailer](https://www.pcgamer.com/games/grand-theft-auto/all-the-takeaways-and-little-details-from-grand-theft-auto-6s-new-trailer/)
- - [Revenge Of The Savage Planet: 4 Essential Tips To Start Your Journey](https://kotaku.com/revenge-of-the-savage-planet-tips-survey-death-research-1851779406)
- - [How Long Of A Trip Is Revenge Of The Savage Planet?](https://kotaku.com/revenge-of-the-savage-planet-how-long-to-beat-journey-1851779398)<!-- GAME:END -->
+ - [Starfield gets a new beta update on Steam with bug fixes, a &#39;Very Low&#39; display setting, and no new content](https://www.pcgamer.com/games/rpg/starfield-gets-a-new-beta-update-on-steam-with-bug-fixes-a-very-low-display-setting-and-no-new-content/)
+ - [Watch the new Grand Theft Auto VI Trailer 2 Now, Coming to Xbox Series X|S on May 26, 2026](https://www.youtube.com/watch?v=Ny9U3VKzROI#new_tab)
+ - [Everything You Need To Know About The Lunar Remastered Collection](https://kotaku.com/lunar-remastered-collection-graphics-how-long-to-beat-1851779415)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
