@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cake](http://9gag.com/gag/a5Q277y)
- - ⏩ [Oof size : Large](http://9gag.com/gag/a342LE3)
- - 👉 [Reality](http://9gag.com/gag/a1m2MB8)<!-- MEMES:END -->
+ - 💣 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
+ - ⏩ [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - 👉 [There is another](http://9gag.com/gag/aRBoAP7)<!-- MEMES:END -->
 
 ---
 
