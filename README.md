@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [India VS Pakistan. Officially, war started now !](http://9gag.com/gag/a2v2rxZ)
- - ⏩ [Mama&#39;s hungry](http://9gag.com/gag/a872jPO)
- - 👉 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)<!-- MEMES:END -->
+ - ⏩ [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
+ - 👉 [Both? Yes, both is good](http://9gag.com/gag/a1m2XAP)<!-- MEMES:END -->
 
 ---
 
