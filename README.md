@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield gets a new beta update on Steam with bug fixes, a &#39;Very Low&#39; display setting, and no new content](https://www.pcgamer.com/games/rpg/starfield-gets-a-new-beta-update-on-steam-with-bug-fixes-a-very-low-display-setting-and-no-new-content/)
- - [Watch the new Grand Theft Auto VI Trailer 2 Now, Coming to Xbox Series X|S on May 26, 2026](https://www.youtube.com/watch?v=Ny9U3VKzROI#new_tab)
- - [Everything You Need To Know About The Lunar Remastered Collection](https://kotaku.com/lunar-remastered-collection-graphics-how-long-to-beat-1851779415)<!-- GAME:END -->
+ - [The World Of GTA 6 Looks Stunning In 70 Completely New Screenshots](https://kotaku.com/gta-6-trailer-2-screenshots-vice-city-map-jason-lucia-1851779375)
+ - [Is this South Beach institution actually in GTA 6?](https://www.polygon.com/gta-grand-theft-auto/597843/gta-6-clevelander-hotel-miami-vice-city)
+ - [Starfield gets a new beta update on Steam with bug fixes, a &#39;Very Low&#39; display setting, and no new content](https://www.pcgamer.com/games/rpg/starfield-gets-a-new-beta-update-on-steam-with-bug-fixes-a-very-low-display-setting-and-no-new-content/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
