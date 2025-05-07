@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [At the party...](http://9gag.com/gag/a4P2jE1)
- - ⏩ [What game is that?](http://9gag.com/gag/aoyLpRe)
- - 👉 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)<!-- MEMES:END -->
+ - ⏩ [Class attending rate 100%](http://9gag.com/gag/azxRAWq)
+ - 👉 [`There are no terrorist camps in Pakistan` Link below in comments](http://9gag.com/gag/aoyLOBw)<!-- MEMES:END -->
 
 ---
 
