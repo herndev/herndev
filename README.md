@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion Remastered mod finally fixes the loot levelling, so no longer do you need to complete quests then wait forever to hand them in](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-mod-finally-fixes-the-loot-levelling-so-no-longer-do-you-need-to-complete-quests-then-wait-forever-to-hand-them-in/)
- - [Netflix will release Poop Cruise this summer](https://www.polygon.com/news/598050/poop-cruise-netflix-good-lord)
- - [Electronic Arts CEO feels &#39;very good&#39; about the next Battlefield&#39;s launch now that Grand Theft Auto 6 is out of the way](https://www.pcgamer.com/games/fps/electronic-arts-ceo-feels-very-good-about-the-next-battlefields-launch-now-that-grand-theft-auto-6-is-out-of-the-way/)<!-- GAME:END -->
+ - [The latest GTA 6 trailer confirmed its most exciting feature: A bunch of logos for pretend companies](https://www.pcgamer.com/games/grand-theft-auto/the-latest-gta-6-trailer-confirmed-its-most-exciting-feature-a-bunch-of-logos-for-pretend-companies/)
+ - [GTA 6&#39;s New Trailer Features A Real Couple For The First Time In Series](https://kotaku.com/gta-6-trailer-2-couple-jason-lucia-vice-city-trailer-2-1851779617)
+ - [Oblivion Remastered mod finally fixes the loot levelling, so no longer do you need to complete quests then wait forever to hand them in](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-mod-finally-fixes-the-loot-levelling-so-no-longer-do-you-need-to-complete-quests-then-wait-forever-to-hand-them-in/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
