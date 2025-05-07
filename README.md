@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, May 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-7-2025/)
  - [Next Level Savings promotion comes to PlayStation Store May 7](https://blog.playstation.com/2025/05/06/next-level-savings-promotion-comes-to-playstation-store-may-7/)
- - [Next Level Savings promotion comes to PlayStation Store May 7](https://blog.playstation.com/2025/05/06/next-level-savings-promotion-comes-to-playstation-store-may-7/)
- - [I really don&#39;t want to cosplay as Darth Vader in Destiny 2, so I&#39;m even more queasy about the announcement of a whole Star Wars-themed expansion](https://www.pcgamer.com/games/third-person-shooter/i-really-dont-want-to-cosplay-as-darth-vader-in-destiny-2-so-im-even-more-queasy-about-the-announcement-of-whole-star-wars-themed-expansion/)<!-- GAME:END -->
+ - [Next Level Savings promotion comes to PlayStation Store May 7](https://blog.playstation.com/2025/05/06/next-level-savings-promotion-comes-to-playstation-store-may-7/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
