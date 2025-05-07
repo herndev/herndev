@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Billion dollar battle: Picking an App Store fight with Apple cost Epic Games greatly](https://appleinsider.com/articles/25/05/07/billion-dollar-battle-picking-an-app-store-fight-with-apple-cost-epic-games-greatly?utm_medium=rss)
- - [These Samsung home screens are weird, funny, and interesting at the same time](https://www.androidauthority.com/one-ui-7-home-up-home-screens-customization-3550209/)
- - [EcoFlow brings its plug-in solar power plant to US homes](https://www.theverge.com/news/661640/ecoflow-stream-us-plug-in-solar-specs-price)<!-- TECH:END -->
+ - [Apple&amp;#8217;s sci-fi epic Foundation is back for season 3 in July](https://www.theverge.com/news/662498/foundation-season-3-date-trailer-apple-tv-plus)
+ - [Silence Speaks Has Created AI-Powered Signing Avatars for the Deaf](https://www.wired.com/story/silence-speaks-deaf-ai-signing/)
+ - [LinkedIn’s new AI search tool lets you describe your ideal job](https://www.theverge.com/news/662490/linkedin-ai-job-search-tool-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
