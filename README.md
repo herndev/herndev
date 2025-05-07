@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome teamLFG to the PlayStation Studios family](https://blog.playstation.com/2025/05/07/welcome-teamlfg-to-the-playstation-studios-family/)
- - [The best games on Apple Arcade right now](https://www.polygon.com/what-to-play/563117/best-apple-arcade-games)
- - [GTA 6 is sexy but we still can’t see the kissing](https://www.polygon.com/opinion/597835/gta-6-trailer-no-kissing)<!-- GAME:END -->
+ - [How to complete the Furniture Fluster quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-furniture-fluster-quest-walkthrough/)
+ - [Could We Be About To Enter A Skippable Boss Fight Utopia?](https://kotaku.com/skip-boss-fight-button-south-of-midnight-soulslike-1851779333)
+ - [Gigabyte&#39;s thermal gel &#39;is crawling out&#39; of place on some RTX 50-series cards](https://www.pcgamer.com/hardware/graphics-cards/gigabytes-thermal-gel-is-crawling-out-of-place-on-some-rtx-50-series-cards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
