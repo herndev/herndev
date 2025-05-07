@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Furniture Fluster quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-furniture-fluster-quest-walkthrough/)
- - [Could We Be About To Enter A Skippable Boss Fight Utopia?](https://kotaku.com/skip-boss-fight-button-south-of-midnight-soulslike-1851779333)
- - [Gigabyte&#39;s thermal gel &#39;is crawling out&#39; of place on some RTX 50-series cards](https://www.pcgamer.com/hardware/graphics-cards/gigabytes-thermal-gel-is-crawling-out-of-place-on-some-rtx-50-series-cards/)<!-- GAME:END -->
+ - [On the prospect of an $80-$90 GTA 6, former PlayStation boss says &#39;it&#39;s an impossible equation&#39; for big-budget studios to keep their prices down](https://www.pcgamer.com/gaming-industry/on-the-prospect-of-an-usd80-usd90-gta-6-former-playstation-boss-says-its-an-impossible-equation-for-big-budget-studios-to-keep-their-prices-down/)
+ - [How to complete the Calmer of Chaos Dreamlight Duty in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-calmer-of-chaos-duty-guide/)
+ - [Fallout 76&#39;s spring limited-time event, The Big Bloom, has begun, which means pollen, allergies, and flower crowns](https://www.pcgamer.com/games/fallout/fallout-76s-spring-limited-time-event-the-big-bloom-has-begun-which-means-pollen-allergies-and-flower-crowns/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
