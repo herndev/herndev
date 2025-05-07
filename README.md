@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Failed robbery attempt of an armored vehicle](http://9gag.com/gag/a6Z2b29)
- - ⏩ [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
- - 👉 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)<!-- MEMES:END -->
+ - 💣 [I wonder what will happen to Japan if these folks invade.](http://9gag.com/gag/aYQqK4O)
+ - ⏩ [Indian railways finds a clever way to stop people from traveling without tickets.](http://9gag.com/gag/ajPZqW1)
+ - 👉 [Comment if you agree](http://9gag.com/gag/a2v24M1)<!-- MEMES:END -->
 
 ---
 
