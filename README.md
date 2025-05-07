@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Setting up your smart home could be a lot easier next time around, thanks to new Matter update](https://www.androidauthority.com/matter-smart-home-setup-3555251/)
- - [Apple’s Eddy Cue: ‘You may not need an iPhone 10 years from now’](https://www.theverge.com/news/662769/apple-iphone-may-not-need-10-years)
- - [Sen. Blumenthal says the Permanent Subcommittee on Investigations opened an inquiry into Trump&#39;s crypto empire, calling his memecoin dinner &quot;pay-for-play&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250507/p35#a250507p35)<!-- TECH:END -->
+ - [Sources: Meta is once again considering facial recognition for its smart glasses and other devices, after abandoning the idea over ethical concerns in 2021 &lpar;The Information&rpar;](http://www.techmeme.com/250507/p36#a250507p36)
+ - [The Trump Administration Sure Is Having Trouble Keeping Its Comms Private](https://www.wired.com/story/uncanny-valley-podcast-trump-administration-government-communications/)
+ - [Setting up your smart home could be a lot easier next time around, thanks to new Matter update](https://www.androidauthority.com/matter-smart-home-setup-3555251/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
