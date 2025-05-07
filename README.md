@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and Asus’ Xbox handheld appears in leaked photos](https://www.theverge.com/news/662440/xbox-handheld-photos-microsoft-asus-rog-ally-2-fcc-listing)
- - [Leaked audio and memos: Uber CEO Dara Khosrowshahi defended increasing the RTO to three days per week at a heated all-hands meeting, saying &quot;it is what it is&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250507/p7#a250507p7)
- - [The AI arms race between employers and jobseekers isn&#39;t going well for anyone, as applicants turn to GenAI to speed up a process that already feels dehumanized &lpar;Sarah O&#39;Connor/Financial Times&rpar;](http://www.techmeme.com/250507/p6#a250507p6)<!-- TECH:END -->
+ - [At a Manhattan event, TikTok executives tried to reassure brands and ad clients, saying &quot;we are absolutely confident&quot; in TikTok &quot;and confident in the future&quot; &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/250507/p14#a250507p14)
+ - [Amazon develops a robot that ‘feels’ touch, just like its human workers](https://www.theverge.com/news/662452/amazon-vulcan-warehouse-robot-sense-touch)
+ - [9 Best Dry Shampoos, Editor Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-dry-shampoos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
