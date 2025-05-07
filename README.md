@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
- - ⏩ [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
- - 👉 [Just look at them](http://9gag.com/gag/aKGeBQ1)<!-- MEMES:END -->
+ - 💣 [Nice one Sam](http://9gag.com/gag/an7EjKo)
+ - ⏩ [Between 1915 and 1926, a mysterious illness swept the world. Victims of Encephalitis Lethargica fell into deep sleep, then woke unable to move or speak. Half a million died or became trapped in their bodies. No one knows what caused it. It hasn&#39;t come back.](http://9gag.com/gag/ajPZAZx)
+ - 👉 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)<!-- MEMES:END -->
 
 ---
 
