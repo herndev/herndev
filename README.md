@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Robinhood plans a blockchain-based platform to let retail investors in Europe trade US securities, and considered partnerships with Arbitrum and Solana &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250507/p38#a250507p38)
- - [Garmin users should start bracing for more subscription-only features](https://www.androidauthority.com/garmin-earnings-call-q1-2025-3555332/)
- - [FTC loses appeal to stop Microsoft’s Activision Blizzard deal that already happened](https://www.theverge.com/news/662883/ftc-appeal-microsoft-activision-deal-acquisition)<!-- TECH:END -->
+ - [Google launched a Gemini app for iPad](https://www.theverge.com/news/662941/google-gemini-ipad-app)
+ - [Sources: OpenAI staffers met with the FDA and two DOGE associates multiple times in recent weeks to discuss a project called cderGPT, likely for drug evaluation &lpar;Wired&rpar;](http://www.techmeme.com/250507/p41#a250507p41)
+ - [Reddit will keep old Reddit online &amp;#8216;as long as people are using it,&amp;#8217; says CEO](https://www.theverge.com/news/662946/reddit-old-online-steve-huffman-spez)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
