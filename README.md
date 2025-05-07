@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launched a Gemini app for iPad](https://www.theverge.com/news/662941/google-gemini-ipad-app)
- - [Sources: OpenAI staffers met with the FDA and two DOGE associates multiple times in recent weeks to discuss a project called cderGPT, likely for drug evaluation &lpar;Wired&rpar;](http://www.techmeme.com/250507/p41#a250507p41)
- - [Reddit will keep old Reddit online &amp;#8216;as long as people are using it,&amp;#8217; says CEO](https://www.theverge.com/news/662946/reddit-old-online-steve-huffman-spez)<!-- TECH:END -->
+ - [NVIDIA follows up last month’s Shield TV hotfix with an update that won’t break your apps](https://www.androidauthority.com/shield-tv-9-2-1-update-3555404/)
+ - [Eddy Cue is fighting to save Apple’s $20 billion paycheck from Google](https://www.theverge.com/policy/662974/google-search-remedies-trial-eddy-cue-apple-deal-ai)
+ - [The best Mother’s Day gifts you can still grab](https://www.theverge.com/tech/662298/best-mothers-day-gifts-last-minute-sale-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
