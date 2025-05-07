@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I really don&#39;t want to cosplay as Darth Vader in Destiny 2, so I&#39;m even more queasy about the announcement of whole Star Wars-themed expansion](https://www.pcgamer.com/games/third-person-shooter/i-really-dont-want-to-cosplay-as-darth-vader-in-destiny-2-so-im-even-more-queasy-about-the-announcement-of-whole-star-wars-themed-expansion/)
- - [The GTA 6 trailer shows Jason and Lucia working out: is Rockstar bringing back some of San Andreas&#39; RPG-lite features?](https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-trailer-shows-jason-and-lucia-working-out-is-rockstar-bringing-back-some-of-san-andreas-rpg-lite-features/)
- - [Well that didn&#39;t pan out: Former Rockstar boss said in 2018 that he was glad not to be releasing GTA 6 in the Trump era, but here we are with GTA 6 releasing in the Trump era](https://www.pcgamer.com/games/action/well-that-didnt-pan-out-former-rockstar-boss-said-in-2018-that-he-was-glad-not-to-be-releasing-gta-6-in-the-trump-era-but-here-we-are-with-gta-6-releasing-in-the-trump-era/)<!-- GAME:END -->
+ - [Next Level Savings promotion comes to PlayStation Store May 7](https://blog.playstation.com/2025/05/06/next-level-savings-promotion-comes-to-playstation-store-may-7/)
+ - [I really don&#39;t want to cosplay as Darth Vader in Destiny 2, so I&#39;m even more queasy about the announcement of a whole Star Wars-themed expansion](https://www.pcgamer.com/games/third-person-shooter/i-really-dont-want-to-cosplay-as-darth-vader-in-destiny-2-so-im-even-more-queasy-about-the-announcement-of-whole-star-wars-themed-expansion/)
+ - [The GTA 6 trailer shows Jason and Lucia working out: is Rockstar bringing back some of San Andreas&#39; RPG-lite features?](https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-trailer-shows-jason-and-lucia-working-out-is-rockstar-bringing-back-some-of-san-andreas-rpg-lite-features/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
