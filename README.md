@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Microsoft shrunk its Surface devices](https://www.theverge.com/notepad-microsoft-newsletter/661617/microsoft-surface-hardware-engineering-labs-tour-notepad)
- - [New report contradicts Tim Cook&#39;s remarks about iPhone panic buying](https://appleinsider.com/articles/25/05/07/new-report-contradicts-tim-cooks-remarks-about-iphone-panic-buying?utm_medium=rss)
- - [How ChatGPT and other AI tools enable systemic cheating in college, unravelling the entire academic project; one student says &quot;the ceiling has been blown off&quot; &lpar;James D. Walsh/New York Magazine&rpar;](http://www.techmeme.com/250507/p28#a250507p28)<!-- TECH:END -->
+ - [US v. Google: Eddy Cue testifies that Apple is &quot;actively looking at&quot; reshaping Safari to focus on AI search and, in a first, Safari searches dropped in April &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p29#a250507p29)
+ - [Tesla&amp;#8217;s cheaper RWD Model Y is now available in the US](https://www.theverge.com/news/662624/tesla-cheaper-rwd-model-y-available-us)
+ - [Say goodbye to Google Fi VPN and hello to VPN by Google](https://www.androidauthority.com/google-fi-vpn-rebranding-3555205/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
