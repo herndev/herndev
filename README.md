@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A dead Chinese Borderlands MMO based is being revived](https://www.pcgamer.com/games/mmo/a-dead-chinese-borderlands-mmo-based-is-being-revived/)
  - [Today&#39;s Wordle answer for Wednesday, May 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-7-2025/)
- - [Next Level Savings promotion comes to PlayStation Store May 7](https://blog.playstation.com/2025/05/06/next-level-savings-promotion-comes-to-playstation-store-may-7/)
  - [Next Level Savings promotion comes to PlayStation Store May 7](https://blog.playstation.com/2025/05/06/next-level-savings-promotion-comes-to-playstation-store-may-7/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
