@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The man gets mangled/run over by a snowplow after saving his nephew&#39;s life. He said he could hear his own bones crunching. Spends months recovering. Only to be offered peanuts to carry a show while they obviously push him out to introduce a female lead. Disney is a ashhowe.](http://9gag.com/gag/apRbpXD)
- - ⏩ [Incredible india](http://9gag.com/gag/aByGYjD)
- - 👉 [Indian railways finds a clever way to stop people from traveling without tickets.](http://9gag.com/gag/ajPZqW1)<!-- MEMES:END -->
+ - 💣 [Between 1915 and 1926, a mysterious illness swept the world. Victims of Encephalitis Lethargica fell into deep sleep, then woke unable to move or speak. Half a million died or became trapped in their bodies. No one knows what caused it. It hasn&#39;t come back.](http://9gag.com/gag/ajPZAZx)
+ - ⏩ [What game is that?](http://9gag.com/gag/aoyLpRe)
+ - 👉 [Nice one Sam](http://9gag.com/gag/an7EjKo)<!-- MEMES:END -->
 
 ---
 
