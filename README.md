@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
  - ⏩ [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/aO8PVGr)
- - 👉 [Watched it so many times and still don\u2019t understand how they did it.](http://9gag.com/gag/aAy2149)<!-- MEMES:END -->
+ - 👉 [At the party...](http://9gag.com/gag/a4P2jE1)<!-- MEMES:END -->
 
 ---
 
