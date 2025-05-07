@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poker Face’s formula wasn’t broke, so Rian Johnson didn’t want to change it](https://www.theverge.com/tv/660370/poker-face-season-2-rian-johnson)
- - [Matter’s latest update brings tap-to-pair setup](https://www.theverge.com/news/662266/matter-spec-update1-4-1-nfc-multi-device-setup)
- - [Memo: CrowdStrike CEO George Kurtz says the company will cut ~500 jobs, or 5% of its global workforce, and expects to incur $36M to $56M in charges &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250507/p19#a250507p19)<!-- TECH:END -->
+ - [Billion dollar battle: Picking an App Store fight with Apple cost Epic Games greatly](https://appleinsider.com/articles/25/05/07/billion-dollar-battle-picking-an-app-store-fight-with-apple-cost-epic-games-greatly?utm_medium=rss)
+ - [These Samsung home screens are weird, funny, and interesting at the same time](https://www.androidauthority.com/one-ui-7-home-up-home-screens-customization-3550209/)
+ - [EcoFlow brings its plug-in solar power plant to US homes](https://www.theverge.com/news/661640/ecoflow-stream-us-plug-in-solar-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
