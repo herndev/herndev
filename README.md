@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At the party...](http://9gag.com/gag/a4P2jE1)
- - ⏩ [Class attending rate 100%](http://9gag.com/gag/azxRAWq)
- - 👉 [`There are no terrorist camps in Pakistan` Link below in comments](http://9gag.com/gag/aoyLOBw)<!-- MEMES:END -->
+ - 💣 [What game is that?](http://9gag.com/gag/aoyLpRe)
+ - ⏩ [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
+ - 👉 [Lol.](http://9gag.com/gag/aVvLe7P)<!-- MEMES:END -->
 
 ---
 
