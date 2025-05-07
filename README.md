@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to get New Land Beyond in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-how-to-get-new-land-beyond/)
  - [Nvidia and MediaTek rumoured to announce new Windows on Arm laptop chips at Computex 2025](https://www.pcgamer.com/hardware/processors/nvidia-and-mediatek-rumoured-to-announce-new-windows-on-arm-laptop-chips-at-computex-2025/)
- - [Grand Theft Auto 6 dropped a whopping 84 brand-new screenshots and illustrations, and here&#39;s every single one](https://www.pcgamer.com/games/grand-theft-auto/gta-6-screenshots/)
- - [Forget megabucks Nvidia GPUs, apparently all you need to run an LLM is a Pentium II CPU from 1997](https://www.pcgamer.com/software/ai/forget-megabucks-nvidia-gpus-apparently-all-you-need-to-run-an-llm-is-a-pentium-ii-cpu-from-1997/)<!-- GAME:END -->
+ - [Grand Theft Auto 6 dropped a whopping 84 brand-new screenshots and illustrations, and here&#39;s every single one](https://www.pcgamer.com/games/grand-theft-auto/gta-6-screenshots/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
