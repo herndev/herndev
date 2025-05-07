@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s sci-fi epic Foundation is back for season 3 in July](https://www.theverge.com/news/662498/foundation-season-3-date-trailer-apple-tv-plus)
- - [Silence Speaks Has Created AI-Powered Signing Avatars for the Deaf](https://www.wired.com/story/silence-speaks-deaf-ai-signing/)
- - [LinkedIn’s new AI search tool lets you describe your ideal job](https://www.theverge.com/news/662490/linkedin-ai-job-search-tool-availability)<!-- TECH:END -->
+ - [How Microsoft shrunk its Surface devices](https://www.theverge.com/notepad-microsoft-newsletter/661617/microsoft-surface-hardware-engineering-labs-tour-notepad)
+ - [New report contradicts Tim Cook&#39;s remarks about iPhone panic buying](https://appleinsider.com/articles/25/05/07/new-report-contradicts-tim-cooks-remarks-about-iphone-panic-buying?utm_medium=rss)
+ - [How ChatGPT and other AI tools enable systemic cheating in college, unravelling the entire academic project; one student says &quot;the ceiling has been blown off&quot; &lpar;James D. Walsh/New York Magazine&rpar;](http://www.techmeme.com/250507/p28#a250507p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
