@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The man gets mangled/run over by a snowplow after saving his nephew&#39;s life. He said he could hear his own bones crunching. Spends months recovering. Only to be offered peanuts to carry a show while they obviously push him out to introduce a female lead. Disney is a ashhowe.](http://9gag.com/gag/apRbpXD)
- - ⏩ [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)
- - 👉 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)<!-- MEMES:END -->
+ - ⏩ [Incredible india](http://9gag.com/gag/aByGYjD)
+ - 👉 [Indian railways finds a clever way to stop people from traveling without tickets.](http://9gag.com/gag/ajPZqW1)<!-- MEMES:END -->
 
 ---
 
