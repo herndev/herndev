@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An AWS survey of 3,739 senior IT decision-makers across nine countries finds 45% plan to prioritize spending on generative AI in 2025, and 30% on cybersecurity &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250506/p49#a250506p49)
- - [&#39;Fortnite&#39; could return to the US App Store by Friday](https://appleinsider.com/articles/25/05/06/fortnite-could-return-to-the-us-app-store-by-friday?utm_medium=rss)
- - [Senate Dems propose ban on presidents investing or endorsing crypto assets](https://www.theverge.com/news/662313/meme-coin-stablecoin-genius-act-corruption-trump)<!-- TECH:END -->
+ - [PSA: You can still get a free $100 gift card with your Google Pixel 9a purchase!](https://www.androidauthority.com/google-pixel-9a-free-100-gift-card-deal-3555034/)
+ - [DOJ seeks to break up Google ad business after illegal monopoly ruling](https://appleinsider.com/articles/25/05/07/doj-seeks-to-break-up-google-ad-business-after-illegal-monopoly-ruling?utm_medium=rss)
+ - [Sources: Senate Democrats are in talks with Republicans about an eleventh-hour effort to try to save the bipartisan GENIUS Act on stablecoin regulation &lpar;Axios&rpar;](http://www.techmeme.com/250506/p50#a250506p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
