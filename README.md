@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Now Bar could get a welcome upgrade in One UI 8](https://www.androidauthority.com/samsung-one-ui-8-now-bar-upgrade-leak-3555116/)
- - [Popular Galaxy 25 features are now arriving on affordable Galaxy A series phones](https://www.androidauthority.com/samsung-galaxy-a56-a36-a26-may-update-3555112/)
- - [A look at the impact of ChatGPT use on energy consumption, as analysis suggests AI usage is still a rounding error on a person&#39;s total electricity footprint &lpar;Hannah Ritchie/Sustainability&rpar;](http://www.techmeme.com/250507/p5#a250507p5)<!-- TECH:END -->
+ - [Microsoft and Asus’ Xbox handheld appears in leaked photos](https://www.theverge.com/news/662440/xbox-handheld-photos-microsoft-asus-rog-ally-2-fcc-listing)
+ - [Leaked audio and memos: Uber CEO Dara Khosrowshahi defended increasing the RTO to three days per week at a heated all-hands meeting, saying &quot;it is what it is&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250507/p7#a250507p7)
+ - [The AI arms race between employers and jobseekers isn&#39;t going well for anyone, as applicants turn to GenAI to speed up a process that already feels dehumanized &lpar;Sarah O&#39;Connor/Financial Times&rpar;](http://www.techmeme.com/250507/p6#a250507p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
