@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget Oblivion Remastered, Play Daggerfall Unity Instead](https://kotaku.com/elder-scrolls-daggerfall-unity-oblivion-remastered-1851779519)
- - [EA Not Planning To Raise Prices On Games Like Nintendo And Xbox](https://kotaku.com/ea-80-games-price-raise-star-wars-madden-xbox-nintendo-1851779534)
- - [Check out this brilliant video breaking open a bricked Nintendo Switch 2 chip to see what makes it tick, and why we&#39;re looking at around Steam Deck GPU performance from the new console](https://www.pcgamer.com/hardware/handheld-gaming-pcs/check-out-this-brilliant-video-breaking-open-a-bricked-nintendo-switch-2-chip-to-see-what-makes-it-tick-and-why-were-looking-at-around-steam-deck-gpu-performance-from-the-new-console/)<!-- GAME:END -->
+ - [Meet the Cast of Empyreal – How Your Choices Can Create A Powerful Ally or Sworn Enemy](https://news.xbox.com/en-us/2025/05/07/meet-the-cast-of-empyreal/)
+ - [Monster Hunter Wilds&#39; Artian Weapons Are Complicated, But Full Of Potential](https://kotaku.com/monster-hunter-wilds-mh-artian-weapons-stats-rng-1851779576)
+ - [This Horror Game Is Perfect For Short Spooky Speedruns](https://kotaku.com/finding-frankie-how-long-to-beat-speed-run-1851779567)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
