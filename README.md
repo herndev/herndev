@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6: Everything we know about Rockstar’s next game](https://www.polygon.com/23952805/gta-6-grand-theft-auto-leaks-release-date-trailer)
- - [Props for the honesty: Tim Sweeney says the reason &#39;people characterize the Epic Games launcher as clunky&#39; is—wait for it—&#39;because the Epic Games launcher is clunky&#39;](https://www.pcgamer.com/gaming-industry/props-for-the-honesty-tim-sweeney-says-the-reason-people-characterize-the-epic-games-launcher-as-clunky-is-wait-for-it-because-the-epic-games-launcher-is-clunky/)
- - [People Can&#39;t Believe How Good The Beer Looks In Grand Theft Auto VI](https://kotaku.com/gta-6-trailer-2-beer-graphics-grand-theft-auto-rockstar-1851779653)<!-- GAME:END -->
+ - [EA thinks it got Battlefield right this time, projecting confidence to investors in advance of a summer reveal: &#39;When we get it right, Battlefield is a giant franchise and often the biggest shooter in the year&#39;](https://www.pcgamer.com/games/fps/ea-thinks-it-got-battlefield-right-this-time-projecting-confidence-to-investors-in-advance-of-a-summer-reveal-when-we-get-it-right-battlefield-is-a-giant-franchise-and-often-the-biggest-shooter-in-the-year/)
+ - [FTC loses bid to block Microsoft&#39;s acquisition of Activision Blizzard, which already happened in 2023](https://www.pcgamer.com/gaming-industry/ftc-loses-bid-to-block-microsofts-acquisition-of-activision-blizzard-which-already-happened-in-2023/)
+ - [Confusion reigns as report of an A24 Elden Ring movie emerges, disappears, and emerges again](https://www.pcgamer.com/games/rpg/confusion-reigns-as-report-of-an-a24-elden-ring-movie-emerges-disappears-and-emerges-again/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
