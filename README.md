@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Art of Warhammer Video Games is a 208-page book covering 30 years of Warhammer games](https://www.pcgamer.com/games/the-art-of-warhammer-video-games-is-a-208-page-book-covering-30-years-of-warhammer-games/)
- - [A dead Chinese Borderlands MMO is being revived](https://www.pcgamer.com/games/mmo/a-dead-chinese-borderlands-mmo-based-is-being-revived/)
- - [Today&#39;s Wordle answer for Wednesday, May 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-7-2025/)<!-- GAME:END -->
+ - [Nvidia and MediaTek rumoured to announce new Windows on Arm laptop chips at Computex 2025](https://www.pcgamer.com/hardware/processors/nvidia-and-mediatek-rumoured-to-announce-new-windows-on-arm-laptop-chips-at-computex-2025/)
+ - [Grand Theft Auto 6 dropped a whopping 84 brand-new screenshots and illustrations, and here&#39;s every single one](https://www.pcgamer.com/games/grand-theft-auto/gta-6-screenshots/)
+ - [Forget megabucks Nvidia GPUs, apparently all you need to run an LLM is a Pentium II CPU from 1997](https://www.pcgamer.com/software/ai/forget-megabucks-nvidia-gpus-apparently-all-you-need-to-run-an-llm-is-a-pentium-ii-cpu-from-1997/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
