@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Legora, whose AI software helps lawyers draft contracts, review and analyze documents, and more, is in talks to raise $85M at a $675M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250506/p48#a250506p48)
- - [Ember Mug 2 deal: My favorite smart product is $50 off!](https://www.androidauthority.com/ember-mug-2-deal-7-3555036/)
- - [Meta awarded $167.25 million over Pegasus spyware attack](https://www.theverge.com/news/662242/meta-nso-group-pegasus-whatsapp-hack-damages)<!-- TECH:END -->
+ - [An AWS survey of 3,739 senior IT decision-makers across nine countries finds 45% plan to prioritize spending on generative AI in 2025, and 30% on cybersecurity &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250506/p49#a250506p49)
+ - [&#39;Fortnite&#39; could return to the US App Store by Friday](https://appleinsider.com/articles/25/05/06/fortnite-could-return-to-the-us-app-store-by-friday?utm_medium=rss)
+ - [Senate Dems propose ban on presidents investing or endorsing crypto assets](https://www.theverge.com/news/662313/meme-coin-stablecoin-genius-act-corruption-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
