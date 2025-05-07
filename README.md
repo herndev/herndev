@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)
- - ⏩ [Just don\u2019t tell your mom](http://9gag.com/gag/a9y2PZ0)
- - 👉 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/aO8PVGr)<!-- MEMES:END -->
+ - 💣 [The S stands for...](http://9gag.com/gag/amoMr8o)
+ - ⏩ [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)
+ - 👉 [Meanwhile in Australia](http://9gag.com/gag/a6Z27yb)<!-- MEMES:END -->
 
 ---
 
