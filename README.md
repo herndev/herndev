@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Periodic Labs, which is building a &quot;ChatGPT for material science&quot;, is seeking to raise hundreds of millions of dollars at a valuation of at least $1B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250506/p52#a250506p52)
- - [A profile of Christian Garrett, co-founder of the Hill and Valley Forum and partner at 137 Ventures, who has become Silicon Valley&#39;s diplomat to Washington, DC &lpar;Margaux MacColl/The San Francisco ...&rpar;](http://www.techmeme.com/250506/p51#a250506p51)
- - [PSA: You can still get a free $100 gift card with your Google Pixel 9a purchase!](https://www.androidauthority.com/google-pixel-9a-free-100-gift-card-deal-3555034/)<!-- TECH:END -->
+ - [Melbourne-based Blinq, which lets users create custom digital business cards and sync contacts with CRM systems, raised a $25M Series A led by Touring Capital &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250506/p53#a250506p53)
+ - [How to turn your living room into a wellness retreat with HomeKit](https://appleinsider.com/inside/homekit/tips/how-to-turn-your-living-room-into-a-wellness-retreat-with-homekit?utm_medium=rss)
+ - [Sources: Periodic Labs, which is building a &quot;ChatGPT for material science&quot;, is seeking to raise hundreds of millions of dollars at a valuation of at least $1B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250506/p52#a250506p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
