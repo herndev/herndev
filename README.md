@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash&#39;s planned takeover of Deliveroo has renewed questions about the UK&#39;s ability to attract and retain large tech listings in the face of NY&#39;s dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250507/p4#a250507p4)
- - [Jeff Bezos and Michael Dell&#39;s family offices have committed $1B in total to Coatue&#39;s new investment fund targeting high-growth public and private tech companies &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250507/p3#a250507p3)
- - [The CFPB says it will stop enforcing a Biden-era rule treating BNPL firms like credit card lenders; Affirm and other BNPL firms had opposed the rule &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250507/p2#a250507p2)<!-- TECH:END -->
+ - [Popular Galaxy 25 features are now arriving on affordable Galaxy A series phones](https://www.androidauthority.com/samsung-galaxy-a56-a36-a26-may-update-3555112/)
+ - [A look at the impact of ChatGPT use on energy consumption, as analysis suggests AI usage is still a rounding error on a person&#39;s total electricity footprint &lpar;Hannah Ritchie/Sustainability&rpar;](http://www.techmeme.com/250507/p5#a250507p5)
+ - [YouTube video uploads stuck at 0%? It’s not just you.](https://www.androidauthority.com/youtube-upload-zero-percent-issue-3555094/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
