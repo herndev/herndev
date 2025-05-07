@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NVIDIA follows up last month’s Shield TV hotfix with an update that won’t break your apps](https://www.androidauthority.com/shield-tv-9-2-1-update-3555404/)
- - [Eddy Cue is fighting to save Apple’s $20 billion paycheck from Google](https://www.theverge.com/policy/662974/google-search-remedies-trial-eddy-cue-apple-deal-ai)
- - [The best Mother’s Day gifts you can still grab](https://www.theverge.com/tech/662298/best-mothers-day-gifts-last-minute-sale-deal)<!-- TECH:END -->
+ - [Samsung finally has a launch date for the Galaxy S25 Edge](https://www.theverge.com/news/662900/samsung-galaxy-unpacked-s25-edge)
+ - [Deal: This 8BitDo Retro Mechanical Keyboard is on sale, but only today!](https://www.androidauthority.com/8bitdo-retro-mechanical-keyboard-deal-3-3555410/)
+ - [Anthropic launches web search on its API for Claude 3.7 Sonnet, 3.5 Sonnet, and 3.5 Haiku at $10/1K searches, giving the models access to up-to-date information &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p46#a250507p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
