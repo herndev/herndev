@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: Eddy Cue testifies that Apple is &quot;actively looking at&quot; reshaping Safari to focus on AI search and, in a first, Safari searches dropped in April &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p29#a250507p29)
- - [Tesla&amp;#8217;s cheaper RWD Model Y is now available in the US](https://www.theverge.com/news/662624/tesla-cheaper-rwd-model-y-available-us)
- - [Say goodbye to Google Fi VPN and hello to VPN by Google](https://www.androidauthority.com/google-fi-vpn-rebranding-3555205/)<!-- TECH:END -->
+ - [Samsung subsidiary Harman has agreed to acquire Masimo&#39;s audio division, which includes the Bowers &amp; Wilkins, Denon, and Polk Audio brands, for $350M &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250507/p33#a250507p33)
+ - [Apple&#39;s Eddy Cue is guessing that the iPhone will eventually be replaced by AI](https://appleinsider.com/articles/25/05/07/apples-eddy-cue-is-guessing-that-the-iphone-will-eventually-be-replaced-by-ai?utm_medium=rss)
+ - [Netflix unveils its ChatGPT-powered search that lets users express preferences using natural phrases, to be rolled out this week to iOS users as an opt-in beta &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250507/p32#a250507p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
