@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [India VS Pakistan. Officially, war started now !](http://9gag.com/gag/a2v2rxZ)
- - ⏩ [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
- - 👉 [Both? Yes, both is good](http://9gag.com/gag/a1m2XAP)<!-- MEMES:END -->
+ - 💣 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
+ - ⏩ [Indian railways finds a clever way to stop people from traveling without tickets.](http://9gag.com/gag/ajPZqW1)
+ - 👉 [Between 1915 and 1926, a mysterious illness swept the world. Victims of Encephalitis Lethargica fell into deep sleep, then woke unable to move or speak. Half a million died or became trapped in their bodies. No one knows what caused it. It hasn&#39;t come back.](http://9gag.com/gag/ajPZAZx)<!-- MEMES:END -->
 
 ---
 
