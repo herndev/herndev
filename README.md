@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet the Cast of Empyreal – How Your Choices Can Create A Powerful Ally or Sworn Enemy](https://news.xbox.com/en-us/2025/05/07/meet-the-cast-of-empyreal/)
- - [Monster Hunter Wilds&#39; Artian Weapons Are Complicated, But Full Of Potential](https://kotaku.com/monster-hunter-wilds-mh-artian-weapons-stats-rng-1851779576)
- - [This Horror Game Is Perfect For Short Spooky Speedruns](https://kotaku.com/finding-frankie-how-long-to-beat-speed-run-1851779567)<!-- GAME:END -->
+ - [Here’s when you can buy the Mace Windu skin in Fortnite](https://www.polygon.com/fortnite/598017/mace-windu-lightsaber-fortnite-leak)
+ - [Every MCU movie, ranked](https://www.polygon.com/23519049/best-marvel-movies-mcu-ranked-worst)
+ - [24 Star Wars Easter Eggs From Andor Season 2](https://kotaku.com/star-wars-easter-eggs-andor-season-2-first-3-episodes-1851777501)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
