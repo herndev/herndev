@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [On the prospect of an $80-$90 GTA 6, former PlayStation boss says &#39;it&#39;s an impossible equation&#39; for big-budget studios to keep their prices down](https://www.pcgamer.com/gaming-industry/on-the-prospect-of-an-usd80-usd90-gta-6-former-playstation-boss-says-its-an-impossible-equation-for-big-budget-studios-to-keep-their-prices-down/)
- - [How to complete the Calmer of Chaos Dreamlight Duty in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-calmer-of-chaos-duty-guide/)
- - [Fallout 76&#39;s spring limited-time event, The Big Bloom, has begun, which means pollen, allergies, and flower crowns](https://www.pcgamer.com/games/fallout/fallout-76s-spring-limited-time-event-the-big-bloom-has-begun-which-means-pollen-allergies-and-flower-crowns/)<!-- GAME:END -->
+ - [Forget Oblivion Remastered, Play Daggerfall Unity Instead](https://kotaku.com/elder-scrolls-daggerfall-unity-oblivion-remastered-1851779519)
+ - [EA Not Planning To Raise Prices On Games Like Nintendo And Xbox](https://kotaku.com/ea-80-games-price-raise-star-wars-madden-xbox-nintendo-1851779534)
+ - [Check out this brilliant video breaking open a bricked Nintendo Switch 2 chip to see what makes it tick, and why we&#39;re looking at around Steam Deck GPU performance from the new console](https://www.pcgamer.com/hardware/handheld-gaming-pcs/check-out-this-brilliant-video-breaking-open-a-bricked-nintendo-switch-2-chip-to-see-what-makes-it-tick-and-why-were-looking-at-around-steam-deck-gpu-performance-from-the-new-console/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
