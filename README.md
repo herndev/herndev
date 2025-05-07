@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The S stands for...](http://9gag.com/gag/amoMr8o)
- - ⏩ [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)
- - 👉 [Meanwhile in Australia](http://9gag.com/gag/a6Z27yb)<!-- MEMES:END -->
+ - 💣 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
+ - ⏩ [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
+ - 👉 [Just look at them](http://9gag.com/gag/aKGeBQ1)<!-- MEMES:END -->
 
 ---
 
