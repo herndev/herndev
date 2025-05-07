@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get New Land Beyond in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-how-to-get-new-land-beyond/)
- - [Nvidia and MediaTek rumoured to announce new Windows on Arm laptop chips at Computex 2025](https://www.pcgamer.com/hardware/processors/nvidia-and-mediatek-rumoured-to-announce-new-windows-on-arm-laptop-chips-at-computex-2025/)
- - [Grand Theft Auto 6 dropped a whopping 84 brand-new screenshots and illustrations, and here&#39;s every single one](https://www.pcgamer.com/games/grand-theft-auto/gta-6-screenshots/)<!-- GAME:END -->
+ - [Welcome teamLFG to the PlayStation Studios family](https://blog.playstation.com/2025/05/07/welcome-teamlfg-to-the-playstation-studios-family/)
+ - [The best games on Apple Arcade right now](https://www.polygon.com/what-to-play/563117/best-apple-arcade-games)
+ - [GTA 6 is sexy but we still can’t see the kissing](https://www.polygon.com/opinion/597835/gta-6-trailer-no-kissing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
