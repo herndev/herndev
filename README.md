@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s Now Bar could get a welcome upgrade in One UI 8](https://www.androidauthority.com/samsung-one-ui-8-now-bar-upgrade-leak-3555116/)
  - [Popular Galaxy 25 features are now arriving on affordable Galaxy A series phones](https://www.androidauthority.com/samsung-galaxy-a56-a36-a26-may-update-3555112/)
- - [A look at the impact of ChatGPT use on energy consumption, as analysis suggests AI usage is still a rounding error on a person&#39;s total electricity footprint &lpar;Hannah Ritchie/Sustainability&rpar;](http://www.techmeme.com/250507/p5#a250507p5)
- - [YouTube video uploads stuck at 0%? It’s not just you.](https://www.androidauthority.com/youtube-upload-zero-percent-issue-3555094/)<!-- TECH:END -->
+ - [A look at the impact of ChatGPT use on energy consumption, as analysis suggests AI usage is still a rounding error on a person&#39;s total electricity footprint &lpar;Hannah Ritchie/Sustainability&rpar;](http://www.techmeme.com/250507/p5#a250507p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
