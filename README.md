@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung subsidiary Harman has agreed to acquire Masimo&#39;s audio division, which includes the Bowers &amp; Wilkins, Denon, and Polk Audio brands, for $350M &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250507/p33#a250507p33)
- - [Apple&#39;s Eddy Cue is guessing that the iPhone will eventually be replaced by AI](https://appleinsider.com/articles/25/05/07/apples-eddy-cue-is-guessing-that-the-iphone-will-eventually-be-replaced-by-ai?utm_medium=rss)
- - [Netflix unveils its ChatGPT-powered search that lets users express preferences using natural phrases, to be rolled out this week to iOS users as an opt-in beta &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250507/p32#a250507p32)<!-- TECH:END -->
+ - [Setting up your smart home could be a lot easier next time around, thanks to new Matter update](https://www.androidauthority.com/matter-smart-home-setup-3555251/)
+ - [Apple’s Eddy Cue: ‘You may not need an iPhone 10 years from now’](https://www.theverge.com/news/662769/apple-iphone-may-not-need-10-years)
+ - [Sen. Blumenthal says the Permanent Subcommittee on Investigations opened an inquiry into Trump&#39;s crypto empire, calling his memecoin dinner &quot;pay-for-play&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250507/p35#a250507p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
