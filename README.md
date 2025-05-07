@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The man gets mangled/run over by a snowplow after saving his nephew&#39;s life. He said he could hear his own bones crunching. Spends months recovering. Only to be offered peanuts to carry a show while they obviously push him out to introduce a female lead. Disney is a ashhowe.](http://9gag.com/gag/apRbpXD)
- - ⏩ [Nice one Sam](http://9gag.com/gag/an7EjKo)
- - 👉 [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)<!-- MEMES:END -->
+ - 💣 [Class attending rate 100%](http://9gag.com/gag/azxRAWq)
+ - ⏩ [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)
+ - 👉 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)<!-- MEMES:END -->
 
 ---
 
