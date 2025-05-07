@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [What game is that?](http://9gag.com/gag/aoyLpRe)
- - ⏩ [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
- - 👉 [Lol.](http://9gag.com/gag/aVvLe7P)<!-- MEMES:END -->
+ - ⏩ [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
+ - 👉 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)<!-- MEMES:END -->
 
 ---
 
