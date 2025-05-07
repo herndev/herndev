@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is once again considering facial recognition for its smart glasses and other devices, after abandoning the idea over ethical concerns in 2021 &lpar;The Information&rpar;](http://www.techmeme.com/250507/p36#a250507p36)
- - [The Trump Administration Sure Is Having Trouble Keeping Its Comms Private](https://www.wired.com/story/uncanny-valley-podcast-trump-administration-government-communications/)
- - [Setting up your smart home could be a lot easier next time around, thanks to new Matter update](https://www.androidauthority.com/matter-smart-home-setup-3555251/)<!-- TECH:END -->
+ - [Sources: Robinhood plans a blockchain-based platform to let retail investors in Europe trade US securities, and considered partnerships with Arbitrum and Solana &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250507/p38#a250507p38)
+ - [Garmin users should start bracing for more subscription-only features](https://www.androidauthority.com/garmin-earnings-call-q1-2025-3555332/)
+ - [FTC loses appeal to stop Microsoft’s Activision Blizzard deal that already happened](https://www.theverge.com/news/662883/ftc-appeal-microsoft-activision-deal-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
