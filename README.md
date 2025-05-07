@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I pride myself on keeping up with Steam&#39;s under-the-radar gems, but April was packed with enough new games to keep me busy for the rest of 2025](https://www.pcgamer.com/games/april-2025-steam-hiddem-gems/)
- - [Here’s when you can buy the Mace Windu skin in Fortnite](https://www.polygon.com/fortnite/598017/mace-windu-lightsaber-fortnite-leak)
- - [Every MCU movie, ranked](https://www.polygon.com/23519049/best-marvel-movies-mcu-ranked-worst)<!-- GAME:END -->
+ - [Oblivion Remastered mod finally fixes the loot levelling, so no longer do you need to complete quests then wait forever to hand them in](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-mod-finally-fixes-the-loot-levelling-so-no-longer-do-you-need-to-complete-quests-then-wait-forever-to-hand-them-in/)
+ - [Netflix will release Poop Cruise this summer](https://www.polygon.com/news/598050/poop-cruise-netflix-good-lord)
+ - [Electronic Arts CEO feels &#39;very good&#39; about the next Battlefield&#39;s launch now that Grand Theft Auto 6 is out of the way](https://www.pcgamer.com/games/fps/electronic-arts-ceo-feels-very-good-about-the-next-battlefields-launch-now-that-grand-theft-auto-6-is-out-of-the-way/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
