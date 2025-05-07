@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest GTA 6 trailer confirmed its most exciting feature: A bunch of logos for pretend companies](https://www.pcgamer.com/games/grand-theft-auto/the-latest-gta-6-trailer-confirmed-its-most-exciting-feature-a-bunch-of-logos-for-pretend-companies/)
- - [GTA 6&#39;s New Trailer Features A Real Couple For The First Time In Series](https://kotaku.com/gta-6-trailer-2-couple-jason-lucia-vice-city-trailer-2-1851779617)
- - [Oblivion Remastered mod finally fixes the loot levelling, so no longer do you need to complete quests then wait forever to hand them in](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-mod-finally-fixes-the-loot-levelling-so-no-longer-do-you-need-to-complete-quests-then-wait-forever-to-hand-them-in/)<!-- GAME:END -->
+ - [GTA 6: Everything we know about Rockstar’s next game](https://www.polygon.com/23952805/gta-6-grand-theft-auto-leaks-release-date-trailer)
+ - [Props for the honesty: Tim Sweeney says the reason &#39;people characterize the Epic Games launcher as clunky&#39; is—wait for it—&#39;because the Epic Games launcher is clunky&#39;](https://www.pcgamer.com/gaming-industry/props-for-the-honesty-tim-sweeney-says-the-reason-people-characterize-the-epic-games-launcher-as-clunky-is-wait-for-it-because-the-epic-games-launcher-is-clunky/)
+ - [People Can&#39;t Believe How Good The Beer Looks In Grand Theft Auto VI](https://kotaku.com/gta-6-trailer-2-beer-graphics-grand-theft-auto-rockstar-1851779653)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
