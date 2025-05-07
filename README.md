@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At a Manhattan event, TikTok executives tried to reassure brands and ad clients, saying &quot;we are absolutely confident&quot; in TikTok &quot;and confident in the future&quot; &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/250507/p14#a250507p14)
- - [Amazon develops a robot that ‘feels’ touch, just like its human workers](https://www.theverge.com/news/662452/amazon-vulcan-warehouse-robot-sense-touch)
- - [9 Best Dry Shampoos, Editor Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-dry-shampoos/)<!-- TECH:END -->
+ - [Poker Face’s formula wasn’t broke, so Rian Johnson didn’t want to change it](https://www.theverge.com/tv/660370/poker-face-season-2-rian-johnson)
+ - [Matter’s latest update brings tap-to-pair setup](https://www.theverge.com/news/662266/matter-spec-update1-4-1-nfc-multi-device-setup)
+ - [Memo: CrowdStrike CEO George Kurtz says the company will cut ~500 jobs, or 5% of its global workforce, and expects to incur $36M to $56M in charges &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250507/p19#a250507p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
