@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What game is that?](http://9gag.com/gag/aoyLpRe)
- - ⏩ [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
- - 👉 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)<!-- MEMES:END -->
+ - 💣 [Another Adventure](http://9gag.com/gag/a2v2o5d)
+ - ⏩ [Technologia xD](http://9gag.com/gag/ayNRxbW)
+ - 👉 [Banned Interview 9/11-Dont talk about it](http://9gag.com/gag/aAy2Pod)<!-- MEMES:END -->
 
 ---
 
