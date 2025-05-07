@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)
+ - 💣 [What did he expect?](http://9gag.com/gag/aKGeqZg)
  - ⏩ [Woke up early today...](http://9gag.com/gag/ajPZDO1)
  - 👉 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)<!-- MEMES:END -->
 
