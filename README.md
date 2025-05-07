@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I pride myself on keeping up with Steam&#39;s under-the-radar gems, but April was packed with enough new games to keep me busy for the rest of 2025](https://www.pcgamer.com/games/april-2025-steam-hiddem-gems/)
  - [Here’s when you can buy the Mace Windu skin in Fortnite](https://www.polygon.com/fortnite/598017/mace-windu-lightsaber-fortnite-leak)
- - [Every MCU movie, ranked](https://www.polygon.com/23519049/best-marvel-movies-mcu-ranked-worst)
- - [24 Star Wars Easter Eggs From Andor Season 2](https://kotaku.com/star-wars-easter-eggs-andor-season-2-first-3-episodes-1851777501)<!-- GAME:END -->
+ - [Every MCU movie, ranked](https://www.polygon.com/23519049/best-marvel-movies-mcu-ranked-worst)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
