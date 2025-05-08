@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Pac-Man Mega Tunnel Battle: Chomp Champs and Still Wakes the Deep](https://news.xbox.com/en-us/2025/05/08/free-play-days-05-08-2025/)
- - [Here&#39;s how long it would take 12 RTX 5090 GPUs to crack your password… and a reminder that just adding more characters still works](https://www.pcgamer.com/software/security/heres-how-long-it-would-take-12-rtx-5090-gpus-to-crack-your-password-and-a-reminder-that-just-adding-more-characters-still-works/)
- - [A Minecraft Movie Available To Stream At Home Without Chicken Jockey Meme Chaos Starting This Month](https://kotaku.com/minecraft-movie-streaming-amazon-chicken-jockey-meme-1851779700)<!-- GAME:END -->
+ - [Mafia 4 Launching In August, Will Cost Only $50](https://kotaku.com/mafia-4-old-country-august-launch-ps5-xbox-50-trailer-1851779729)
+ - [I never thought I&#39;d say this about Alienware but its new Aurora laptops show we&#39;re truly in the sleek and smart era](https://www.pcgamer.com/hardware/gaming-laptops/i-never-thought-id-say-this-about-alienware-but-its-new-aurora-laptops-show-were-truly-in-the-sleek-and-smart-era/)
+ - [Clair Obscur Has A Build So Busted You Can Do Over 3 Billion Damage With It, But Not For Long](https://kotaku.com/clair-obscure-expedition-33-stendahl-maelle-build-nerf-1851779728)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
