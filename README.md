@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)
- - ⏩ [Eminem - Lose Yourself &lpar;Sung by 331 Movies&rpar;](http://9gag.com/gag/aoyLOve)
- - 👉 [In and out](http://9gag.com/gag/a342QgN)<!-- MEMES:END -->
+ - 💣 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - ⏩ [Even a turtleneck can\u2019t hide those](http://9gag.com/gag/amoM7b6)
+ - 👉 [Lol](http://9gag.com/gag/a872oGp)<!-- MEMES:END -->
 
 ---
 
