@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Oblivion&#39;s gloriously exploitable magic is even more busted in the remaster, letting one player turn into a high-speed leap wizard who can cross Cyrodiil in seconds](https://www.pcgamer.com/games/rpg/oblivions-gloriously-exploitable-magic-is-even-more-busted-in-the-remaster-letting-one-player-turn-into-a-high-speed-leap-wizard-who-can-cross-cyrodiil-in-seconds/)
  - [Calling all cozy mystery fans: the follow-up to 2022&#39;s best puzzle game gives you even more ways to play detective](https://www.pcgamer.com/games/puzzle/calling-all-cozy-mystery-fans-the-follow-up-to-2022s-best-puzzle-game-gives-you-even-more-ways-to-play-detective/)
- - [Spanish TV news uses Dark Souls 3 boss fight to illustrate, with 100% accuracy, how the conclave will elect a new Pope](https://www.pcgamer.com/games/rpg/spanish-tv-news-uses-dark-souls-3-boss-fight-to-illustrate-with-100-percent-accuracy-how-the-conclave-will-elect-a-new-pope/)
- - [EA thinks it got Battlefield right this time, projecting confidence to investors in advance of a summer reveal: &#39;When we get it right, Battlefield is a giant franchise and often the biggest shooter in the year&#39;](https://www.pcgamer.com/games/fps/ea-thinks-it-got-battlefield-right-this-time-projecting-confidence-to-investors-in-advance-of-a-summer-reveal-when-we-get-it-right-battlefield-is-a-giant-franchise-and-often-the-biggest-shooter-in-the-year/)<!-- GAME:END -->
+ - [Spanish TV news uses Dark Souls 3 boss fight to illustrate, with 100% accuracy, how the conclave will elect a new Pope](https://www.pcgamer.com/games/rpg/spanish-tv-news-uses-dark-souls-3-boss-fight-to-illustrate-with-100-percent-accuracy-how-the-conclave-will-elect-a-new-pope/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
