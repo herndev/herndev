@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Touched by Jesus](http://9gag.com/gag/a0e1K9X)
- - ⏩ [N O I C E](http://9gag.com/gag/aMVv8ZM)
- - 👉 [Comment if you agree](http://9gag.com/gag/a2v24M1)<!-- MEMES:END -->
+ - 💣 [The World Population divided in two equal parts](http://9gag.com/gag/a6Z2Q4A)
+ - ⏩ [Kid flying with kite](http://9gag.com/gag/a342jme)
+ - 👉 [Technologyaaa](http://9gag.com/gag/axyRDbp)<!-- MEMES:END -->
 
 ---
 
