@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mafia 4 Launching In August, Will Cost Only $50](https://kotaku.com/mafia-4-old-country-august-launch-ps5-xbox-50-trailer-1851779729)
- - [I never thought I&#39;d say this about Alienware but its new Aurora laptops show we&#39;re truly in the sleek and smart era](https://www.pcgamer.com/hardware/gaming-laptops/i-never-thought-id-say-this-about-alienware-but-its-new-aurora-laptops-show-were-truly-in-the-sleek-and-smart-era/)
- - [Clair Obscur Has A Build So Busted You Can Do Over 3 Billion Damage With It, But Not For Long](https://kotaku.com/clair-obscure-expedition-33-stendahl-maelle-build-nerf-1851779728)<!-- GAME:END -->
+ - [Overwatch 2: Introducing Freja – The Most Challenging and Rewarding Hero Yet](https://news.xbox.com/en-us/2025/05/08/overwatch-2-new-hero-introducing-freja/)
+ - [Clair Obscur: Expedition 33&#39;s soundtrack tops Billboard&#39;s Classical Album Chart with 18 million streams since launch](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-soundtrack-tops-billboards-classical-album-chart-with-18-million-streams-since-launch/)
+ - [Grand Theft Auto 6’s Jason Is Gaymers’ Latest Sex Symbol](https://kotaku.com/grand-theft-auto-6-gta6-jason-duval-shirtless-trailer-1851779751)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
