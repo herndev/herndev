@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2: Introducing Freja – The Most Challenging and Rewarding Hero Yet](https://news.xbox.com/en-us/2025/05/08/overwatch-2-new-hero-introducing-freja/)
- - [Clair Obscur: Expedition 33&#39;s soundtrack tops Billboard&#39;s Classical Album Chart with 18 million streams since launch](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-soundtrack-tops-billboards-classical-album-chart-with-18-million-streams-since-launch/)
- - [Grand Theft Auto 6’s Jason Is Gaymers’ Latest Sex Symbol](https://kotaku.com/grand-theft-auto-6-gta6-jason-duval-shirtless-trailer-1851779751)<!-- GAME:END -->
+ - [Tony Hawk’s Pro Skater 3 + 4 Remastered Makes Me Feel Young Again](https://news.xbox.com/en-us/2025/05/08/tony-hawks-pro-skater-3-4-preview/)
+ - [Worst-Case Tariff Scenario Could Hike Game Console Prices By Over 69 Percent](https://kotaku.com/switch-2-ps5-pro-game-console-prices-tariffs-report-1851779765)
+ - [That new Lord of the Rings Gollum movie is coming in 2027](https://www.polygon.com/movies/598144/lotr-gollum-movie-release-date-2027)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
