@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How &quot;AI slop farmer&quot; Jesse Cunningham targets older women on Pinterest and Facebook with AI-generated copies of content from real bloggers and creators &lpar;Maggie Harrison/Futurism&rpar;](http://www.techmeme.com/250508/p11#a250508p11)
- - [Hate One UI 7’s split notification panel? Here’s how to switch back.](https://www.androidauthority.com/samsung-one-ui-7-change-split-notifications-quick-settings-3555517/)
- - [An IBM survey of 2,000 CEOs finds that only 25% of AI initiatives have delivered expected ROI over the last few years, and only 16% have scaled enterprise wide &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250508/p10#a250508p10)<!-- TECH:END -->
+ - [The US OCC says banks can buy and sell customers&#39; crypto assets on their behalf and can outsource crypto custody and trade execution services to third parties &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250508/p16#a250508p16)
+ - [The European Commission is facing pressure from member states, led by Ireland, to require Google, Meta, and others to vet financial ads for potential scams &lpar;Financial Times&rpar;](http://www.techmeme.com/250508/p15#a250508p15)
+ - [New Circle to Search layouts spotted, and Google’s already pushing one live](https://www.androidauthority.com/google-circle-to-search-new-layout-tests-3555528/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
