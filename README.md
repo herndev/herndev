@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Beginner&#39;s Guide To Maelle In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-maelle-build-stance-virtuose-1851779811)
- - [Path of Exile 2’s Huntress Has Powerful Early Game Skills You Should Take Advantage Of](https://kotaku.com/path-of-exile-2-poe-huntress-best-skills-disengage-1851779789)
- - [EB Games is coming back to Canada, &#39;with community, nostalgia, and innovation at its heart&#39;](https://www.pcgamer.com/gaming-industry/eb-games-is-coming-back-to-canada-with-community-nostalgia-and-innovation-at-its-heart/)<!-- GAME:END -->
+ - [Eric Barone says he &#39;might eventually make a Stardew Valley 2,&#39; but not because it&#39;d make a zillion dollars: &#39;I honestly don&#39;t care about money that much&#39;](https://www.pcgamer.com/games/life-sim/eric-barone-says-he-might-eventually-make-a-stardew-valley-2-but-not-because-itd-make-a-zillion-dollars-i-honestly-dont-care-about-money-that-much/)
+ - [Schedule 1&#39;s latest update adds a jukebox, because drugs without music is just kind of a drag, man](https://www.pcgamer.com/games/sim/schedule-1s-latest-update-adds-a-jukebox-because-drugs-without-music-is-just-kind-of-a-drag-man/)
+ - [Dune: Awakening beta weekend release date and times](https://www.pcgamer.com/games/mmo/dune-awakening-beta-release-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
