@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is offering its loyal users a free line, do you qualify?](https://www.androidauthority.com/t-mobile-free-line-2025-3555679/)
- - [Apple is planning smart glasses with and without AR](https://www.theverge.com/news/663600/apple-smart-glasses-chips-ar-chip)
- - [Apple Glass will get custom Apple Silicon tailored for low power &amp; camera control](https://appleinsider.com/articles/25/05/08/apple-glass-will-get-custom-apple-silicon-tailored-for-low-power-camera-control?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Gift for Mom&#39; uses Spatial Video to film a child&#39;s first year](https://appleinsider.com/articles/25/05/08/apples-gift-for-mom-uses-spatial-video-to-film-a-childs-first-year?utm_medium=rss)
+ - [Meta says it will start testing video ads on Threads with a &quot;small number&quot; of advertisers, and &quot;Reels trending ads&quot;, which will be shown next to trending Reels &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250508/p39#a250508p39)
+ - [DOJ and FTC invite the public to complain about Ticketmaster](https://www.theverge.com/news/663670/doj-ftc-ticketmaster-complaints-public-comments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
