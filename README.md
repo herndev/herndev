@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eddy Cue&#39;s disclosure of Apple&#39;s plan to shift its browser to AI systems had a clear goal of downplaying the importance of Apple&#39;s search deal with Google &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250507/p54#a250507p54)
  - [Spotify just dropped meaningful new features for both Premium and free users](https://www.androidauthority.com/spotify-new-features-free-premium-3555475/)
- - [Measles Cases Spread Across US, Mexico and Canada. Learn How to Protect Yourself](https://www.cnet.com/health/medical/measles-cases-spread-across-us-mexico-and-canada-learn-how-to-protect-yourself/#ftag=CAD590a51e)
- - [Bumble reports Q1 revenue down 7.7% YoY to $247.1M, in line with $246.2M est., with Bumble app paying users falling ~1% YoY to 2.7M; BMBL jumps ~7% after hours &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250507/p53#a250507p53)<!-- TECH:END -->
+ - [Measles Cases Spread Across US, Mexico and Canada. Learn How to Protect Yourself](https://www.cnet.com/health/medical/measles-cases-spread-across-us-mexico-and-canada-learn-how-to-protect-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
