@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tony Hawk’s Pro Skater 3 + 4 Remastered Makes Me Feel Young Again](https://news.xbox.com/en-us/2025/05/08/tony-hawks-pro-skater-3-4-preview/)
- - [Worst-Case Tariff Scenario Could Hike Game Console Prices By Over 69 Percent](https://kotaku.com/switch-2-ps5-pro-game-console-prices-tariffs-report-1851779765)
- - [That new Lord of the Rings Gollum movie is coming in 2027](https://www.polygon.com/movies/598144/lotr-gollum-movie-release-date-2027)<!-- GAME:END -->
+ - [A Beginner&#39;s Guide To Maelle In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-maelle-build-stance-virtuose-1851779811)
+ - [Path of Exile 2’s Huntress Has Powerful Early Game Skills You Should Take Advantage Of](https://kotaku.com/path-of-exile-2-poe-huntress-best-skills-disengage-1851779789)
+ - [EB Games is coming back to Canada, &#39;with community, nostalgia, and innovation at its heart&#39;](https://www.pcgamer.com/gaming-industry/eb-games-is-coming-back-to-canada-with-community-nostalgia-and-innovation-at-its-heart/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
