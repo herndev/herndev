@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [With the GPU market a hellscape right now, here are the PC gaming upgrades you actually CAN do](https://www.pcgamer.com/hardware/with-the-gpu-market-a-hellscape-right-now-here-are-the-pc-gaming-upgrades-you-actually-can-do/)
- - [Palworld devs blame Nintendo lawsuit for ‘disappointing’ game changes](https://www.polygon.com/gaming/598094/palworld-changes-nintendo-pokemon-lawsuit-disappointing)
- - [How to complete the Clean Your Room duty in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-clean-your-room-duty-walkthrough/)<!-- GAME:END -->
+ - [Masters of Ceremony Warbond marches into Helldivers 2 May 15](https://blog.playstation.com/2025/05/08/masters-of-ceremony-warbond-marches-into-helldivers-2-may-15/)
+ - [Drop Duchy looks like Tetris, feels like Dicey Dungeons, and pulls you in like Balatro](https://www.polygon.com/impressions/597979/drop-duchy-impressions)
+ - [How to unlock the uncrafting station in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-uncrafting-station-unlock/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
