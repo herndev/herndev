@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [N O I C E](http://9gag.com/gag/aMVv8ZM)
- - ⏩ [Every aviation enthusiasts dream](http://9gag.com/gag/aryqG3d)
- - 👉 [That laugh](http://9gag.com/gag/ajPZEN0)<!-- MEMES:END -->
+ - 💣 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)
+ - ⏩ [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 👉 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)<!-- MEMES:END -->
 
 ---
 
