@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Calling all cozy mystery fans: the follow-up to 2022&#39;s best puzzle game gives you even more ways to play detective](https://www.pcgamer.com/games/puzzle/calling-all-cozy-mystery-fans-the-follow-up-to-2022s-best-puzzle-game-gives-you-even-more-ways-to-play-detective/)
  - [Spanish TV news uses Dark Souls 3 boss fight to illustrate, with 100% accuracy, how the conclave will elect a new Pope](https://www.pcgamer.com/games/rpg/spanish-tv-news-uses-dark-souls-3-boss-fight-to-illustrate-with-100-percent-accuracy-how-the-conclave-will-elect-a-new-pope/)
- - [EA thinks it got Battlefield right this time, projecting confidence to investors in advance of a summer reveal: &#39;When we get it right, Battlefield is a giant franchise and often the biggest shooter in the year&#39;](https://www.pcgamer.com/games/fps/ea-thinks-it-got-battlefield-right-this-time-projecting-confidence-to-investors-in-advance-of-a-summer-reveal-when-we-get-it-right-battlefield-is-a-giant-franchise-and-often-the-biggest-shooter-in-the-year/)
- - [FTC loses bid to block Microsoft&#39;s acquisition of Activision Blizzard, which already happened in 2023](https://www.pcgamer.com/gaming-industry/ftc-loses-bid-to-block-microsofts-acquisition-of-activision-blizzard-which-already-happened-in-2023/)<!-- GAME:END -->
+ - [EA thinks it got Battlefield right this time, projecting confidence to investors in advance of a summer reveal: &#39;When we get it right, Battlefield is a giant franchise and often the biggest shooter in the year&#39;](https://www.pcgamer.com/games/fps/ea-thinks-it-got-battlefield-right-this-time-projecting-confidence-to-investors-in-advance-of-a-summer-reveal-when-we-get-it-right-battlefield-is-a-giant-franchise-and-often-the-biggest-shooter-in-the-year/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
