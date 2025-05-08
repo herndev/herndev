@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Silence Speaks, a British startup that has built an AI-powered sign language avatar capable of accurately translating text to British Sign Language &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/250508/p9#a250508p9)
- - [Samsung is bringing One UI 7’s ‘Now Bar’ and ‘Now Brief’ to Galaxy Watches &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-now-bar-now-brief-galaxy-watch-3555509/)
- - [The Taiwan dollar&#39;s sharpest rally against the US dollar in nearly 40 years raises concerns about the competitiveness and earnings of Taiwanese tech companies &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250508/p8#a250508p8)<!-- TECH:END -->
+ - [How &quot;AI slop farmer&quot; Jesse Cunningham targets older women on Pinterest and Facebook with AI-generated copies of content from real bloggers and creators &lpar;Maggie Harrison/Futurism&rpar;](http://www.techmeme.com/250508/p11#a250508p11)
+ - [Hate One UI 7’s split notification panel? Here’s how to switch back.](https://www.androidauthority.com/samsung-one-ui-7-change-split-notifications-quick-settings-3555517/)
+ - [An IBM survey of 2,000 CEOs finds that only 25% of AI initiatives have delivered expected ROI over the last few years, and only 16% have scaled enterprise wide &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250508/p10#a250508p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
