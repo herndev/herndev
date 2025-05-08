@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US OCC says banks can buy and sell customers&#39; crypto assets on their behalf and can outsource crypto custody and trade execution services to third parties &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250508/p16#a250508p16)
- - [The European Commission is facing pressure from member states, led by Ireland, to require Google, Meta, and others to vet financial ads for potential scams &lpar;Financial Times&rpar;](http://www.techmeme.com/250508/p15#a250508p15)
- - [New Circle to Search layouts spotted, and Google’s already pushing one live](https://www.androidauthority.com/google-circle-to-search-new-layout-tests-3555528/)<!-- TECH:END -->
+ - [Lenovo’s flagship gaming laptop has a 2D / 3D screen and carbon fiber lid](https://www.theverge.com/news/663084/lenovo-legion-9i-18-rtx-5090-2d-3d-gaming-laptop-announcement-specs)
+ - [Rockstar says its new Grand Theft Auto VI trailer was &quot;captured entirely in-game from a PlayStation 5, comprised of equal parts gameplay and cutscenes&quot; &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250508/p18#a250508p18)
+ - [Reddit CEO Steve Huffman says the service will work with &quot;various third-party services&quot; to verify a user&#39;s humanity, after an AI experiment in r/ChangeMyView &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250508/p17#a250508p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
