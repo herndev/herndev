@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another Adventure](http://9gag.com/gag/a2v2o5d)
- - ⏩ [Technologia xD](http://9gag.com/gag/ayNRxbW)
- - 👉 [Banned Interview 9/11-Dont talk about it](http://9gag.com/gag/aAy2Pod)<!-- MEMES:END -->
+ - 💣 [Touched by Jesus](http://9gag.com/gag/a0e1K9X)
+ - ⏩ [N O I C E](http://9gag.com/gag/aMVv8ZM)
+ - 👉 [Comment if you agree](http://9gag.com/gag/a2v24M1)<!-- MEMES:END -->
 
 ---
 
