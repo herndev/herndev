@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The World Population divided in two equal parts](http://9gag.com/gag/a6Z2Q4A)
- - ⏩ [Kid flying with kite](http://9gag.com/gag/a342jme)
- - 👉 [Technologyaaa](http://9gag.com/gag/axyRDbp)<!-- MEMES:END -->
+ - 💣 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)
+ - ⏩ [Another Adventure](http://9gag.com/gag/a2v2o5d)
+ - 👉 [Technologia xD](http://9gag.com/gag/ayNRxbW)<!-- MEMES:END -->
 
 ---
 
