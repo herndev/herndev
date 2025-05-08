@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have nuclear weapons, will go to war. But where?](http://9gag.com/gag/a342QV7)
- - ⏩ [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
- - 👉 [NO THAT&#39;S DANGEROUS! oh....](http://9gag.com/gag/aKGeDOj)<!-- MEMES:END -->
+ - 💣 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
+ - ⏩ [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
+ - 👉 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)<!-- MEMES:END -->
 
 ---
 
