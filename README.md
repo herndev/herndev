@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple asks court to halt App Store rule changes while it appeals](https://www.theverge.com/news/663361/apple-halt-app-store-ruling-appeal)
- - [Pixel users say Google’s image processing is ruining shots. Are you affected?](https://www.androidauthority.com/google-pixel-image-processing-ruining-shots-3555627/)
- - [Analysis: ~67,000 new or small-time crypto investors bought the $TRUMP memecoin but 80% of them bought near the coin&#39;s peak and saw their holdings nosedive &lpar;Washington Post&rpar;](http://www.techmeme.com/250508/p29#a250508p29)<!-- TECH:END -->
+ - [Kickstarter’s new Tariff Manager is now available to campaign creators](https://www.theverge.com/news/662836/kickstarter-pledge-tariff-manager-crowdfunding-now-available)
+ - [Threads was originally going to live inside the Instagram app](https://www.theverge.com/news/663390/threads-app-inside-instagram-mosseri)
+ - [Grab AirPods 4 for $99, Apple Watch for $169, iPad for $299 ahead of Mother&#39;s Day](https://appleinsider.com/articles/25/05/08/grab-airpods-4-for-99-apple-watch-for-169-ipad-for-299-ahead-of-mothers-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
