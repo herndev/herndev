@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Outer Wilds studio finally confirms it&#39;s working on a new game but says it will be &#39;years&#39; before it&#39;s ready to share details](https://www.pcgamer.com/games/adventure/outer-wilds-studio-finally-confirms-its-working-on-a-new-game-but-says-it-will-be-years-before-its-ready-to-share-details/)
- - [Marvel’s X-Men movie may have found its director*](https://www.polygon.com/news/598198/mcu-xmen-movie-director-marvel-studios)
- - [THPS 3+4 Devs Explain Why They Removed 4&#39;s OG Career Mode](https://kotaku.com/thps-3-4-remake-remaster-thps4-original-career-mode-ps5-1851779836)<!-- GAME:END -->
+ - [I couldn&#39;t have played Clair Obscur without its accessibility settings, and now it might be my GOTY](https://www.pcgamer.com/games/rpg/i-couldnt-have-played-clair-obscur-without-its-accessibility-settings-and-now-it-might-be-my-goty/)
+ - [Alien: Rogue Incursion will escape its VR shackles and become a normal bug-hunt shooter later this year](https://www.pcgamer.com/games/fps/alien-rogue-incursion-will-escape-its-vr-shackles-and-become-a-normal-bug-hunt-shooter-later-this-year/)
+ - [How do you get fresh blood in a 22-year-old, infamously impenetrable MMO? EVE Online hopes it&#39;s a &#39;player-created gig economy&#39; that has veterans making missions for newbies: &#39;We&#39;re 100% sure that you will do a better job&#39;](https://www.pcgamer.com/games/mmo/how-do-you-get-fresh-blood-in-a-22-year-old-infamously-impenetrable-mmo-eve-online-devs-hope-its-a-player-driven-player-created-gig-economy-that-has-veterans-making-missions-for-newbies-were-100-percent-sure-that-you-will-do-a-better-job/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
