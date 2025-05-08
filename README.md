@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The new GTA 6 trailer draws on base PS5 footage](https://www.pcgamer.com/games/grand-theft-auto/the-new-gta-6-trailer-draws-on-base-ps5-footage/)
  - [Today&#39;s Wordle answer for Thursday, May 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-8-2025/)
- - [Oblivion&#39;s gloriously exploitable magic is even more busted in the remaster, letting one player turn into a high-speed leap wizard who can cross Cyrodiil in seconds](https://www.pcgamer.com/games/rpg/oblivions-gloriously-exploitable-magic-is-even-more-busted-in-the-remaster-letting-one-player-turn-into-a-high-speed-leap-wizard-who-can-cross-cyrodiil-in-seconds/)
- - [Calling all cozy mystery fans: the follow-up to 2022&#39;s best puzzle game gives you even more ways to play detective](https://www.pcgamer.com/games/puzzle/calling-all-cozy-mystery-fans-the-follow-up-to-2022s-best-puzzle-game-gives-you-even-more-ways-to-play-detective/)<!-- GAME:END -->
+ - [Oblivion&#39;s gloriously exploitable magic is even more busted in the remaster, letting one player turn into a high-speed leap wizard who can cross Cyrodiil in seconds](https://www.pcgamer.com/games/rpg/oblivions-gloriously-exploitable-magic-is-even-more-busted-in-the-remaster-letting-one-player-turn-into-a-high-speed-leap-wizard-who-can-cross-cyrodiil-in-seconds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
