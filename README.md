@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
- - ⏩ [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 👉 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)<!-- MEMES:END -->
+ - 💣 [That laugh](http://9gag.com/gag/ajPZEN0)
+ - ⏩ [Are you not entertained](http://9gag.com/gag/aPAQj4R)
+ - 👉 [They have their own issues](http://9gag.com/gag/adBeK7Q)<!-- MEMES:END -->
 
 ---
 
