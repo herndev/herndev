@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google improves the Gemini experience on the iPad with a native app](https://www.androidauthority.com/google-gemini-ipad-app-3555434/)
- - [Google says it continues to see overall query growth in Search, including an increase in total queries coming from Apple&#39;s devices and platforms &lpar;The Keyword&rpar;](http://www.techmeme.com/250507/p52#a250507p52)
- - [What You Need to Know About Satellite Connectivity in Phones](https://www.cnet.com/tech/mobile/what-you-need-to-know-about-satellite-connectivity-in-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify just dropped meaningful new features for both Premium and free users](https://www.androidauthority.com/spotify-new-features-free-premium-3555475/)
+ - [Measles Cases Spread Across US, Mexico and Canada. Learn How to Protect Yourself](https://www.cnet.com/health/medical/measles-cases-spread-across-us-mexico-and-canada-learn-how-to-protect-yourself/#ftag=CAD590a51e)
+ - [Bumble reports Q1 revenue down 7.7% YoY to $247.1M, in line with $246.2M est., with Bumble app paying users falling ~1% YoY to 2.7M; BMBL jumps ~7% after hours &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250507/p53#a250507p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
