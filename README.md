@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Masters of Ceremony Warbond marches into Helldivers 2 May 15](https://blog.playstation.com/2025/05/08/masters-of-ceremony-warbond-marches-into-helldivers-2-may-15/)
- - [Drop Duchy looks like Tetris, feels like Dicey Dungeons, and pulls you in like Balatro](https://www.polygon.com/impressions/597979/drop-duchy-impressions)
- - [How to unlock the uncrafting station in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-uncrafting-station-unlock/)<!-- GAME:END -->
+ - [Peak Sekiro-like Nine Sols gets a 40% price cut ahead of its 1-year anniversary, and if you&#39;ve ever liked parrying in a videogame, you need to play this thing](https://www.pcgamer.com/games/action/peak-sekiro-like-nine-sols-gets-a-40-percent-price-cut-ahead-of-its-1-year-anniversary-and-if-youve-ever-liked-parrying-in-a-videogame-you-need-to-play-this-thing/)
+ - [Nintendo low-balls its Switch 2 sales estimates, but they’re still huge](https://www.polygon.com/nintendo-switch-2/598100/nintendo-switch-2-sales-forecast)
+ - [Masters of Ceremony Warbond marches into Helldivers 2 May 15](https://blog.playstation.com/2025/05/08/masters-of-ceremony-warbond-marches-into-helldivers-2-may-15/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
