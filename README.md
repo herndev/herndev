@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where can i get one from???](http://9gag.com/gag/amoM54j)
- - ⏩ [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 👉 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)<!-- MEMES:END -->
+ - 💣 [Who?](http://9gag.com/gag/ae9m59b)
+ - ⏩ [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)
+ - 👉 [Eminem - Lose Yourself &lpar;Sung by 331 Movies&rpar;](http://9gag.com/gag/aoyLOve)<!-- MEMES:END -->
 
 ---
 
