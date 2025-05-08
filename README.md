@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Apple seeks to pause the part of the April 30 US federal court ruling that blocked it from charging App Store commissions on outside transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p51#a250507p51)
- - [WisdomAI, which offers AI-powered data analytics from structured, unstructured, and &quot;dirty&quot; data, launches with a $23M seed led by Coatue Ventures &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250507/p50#a250507p50)
- - [The Narwal Freo Z Ultra robot vacuum is at an all-time low price today, and it’s our favorite!](https://www.androidauthority.com/narwal-freo-z-ultra-robot-vacuum-mop-deal-3555409/)<!-- TECH:END -->
+ - [Google improves the Gemini experience on the iPad with a native app](https://www.androidauthority.com/google-gemini-ipad-app-3555434/)
+ - [Google says it continues to see overall query growth in Search, including an increase in total queries coming from Apple&#39;s devices and platforms &lpar;The Keyword&rpar;](http://www.techmeme.com/250507/p52#a250507p52)
+ - [What You Need to Know About Satellite Connectivity in Phones](https://www.cnet.com/tech/mobile/what-you-need-to-know-about-satellite-connectivity-in-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
