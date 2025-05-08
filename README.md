@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: Get four Samsung SmartTag 2 trackers for just $51.99!](https://www.androidauthority.com/samsung-smarttag-2-deal-3555408/)
- - [Your doorbell cam might have just picked up Google Home support](https://www.androidauthority.com/ecobee-camera-google-home-3555819/)
- - [SEC filing: Sterling Anderson, CPO and co-founder of self-driving truck startup Aurora, is resigning effective June 1, and will leave the board on August 31 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250508/p49#a250508p49)<!-- TECH:END -->
+ - [Apple Card holders can get six months of Uber One for free](https://appleinsider.com/articles/25/05/08/apple-card-holders-can-get-six-months-of-uber-one-for-free?utm_medium=rss)
+ - [Senate hearing: Sam Altman says that requiring government approval to release AI would be &quot;disastrous&quot; for the US&#39; lead in AI, a reversal from his 2023 comments &lpar;Washington Post&rpar;](http://www.techmeme.com/250508/p50#a250508p50)
+ - [US Customs and Border Protection Quietly Revokes Protections for Pregnant Women and Infants](https://www.wired.com/story/cbp-rescinds-policies-on-care-of-pregnant-women-infants/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
