@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Simplicity wins!](http://9gag.com/gag/aGyAjmw)
- - ⏩ [Jason Bourne has been found.](http://9gag.com/gag/axyR1LL)
- - 👉 [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)<!-- MEMES:END -->
+ - 💣 [Jason Bourne has been found.](http://9gag.com/gag/axyR1LL)
+ - ⏩ [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)
+ - 👉 [Eminem - Lose Yourself &lpar;Sung by 331 Movies&rpar;](http://9gag.com/gag/aoyLOve)<!-- MEMES:END -->
 
 ---
 
