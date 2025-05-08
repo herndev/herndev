@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The way he feeds the other monkey is so wholesome](http://9gag.com/gag/aLnmj4W)
- - ⏩ [PE guy](http://9gag.com/gag/an7EbQ0)
- - 👉 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)<!-- MEMES:END -->
+ - 💣 [When your ninja skills are too good for stunt doubles](http://9gag.com/gag/amoMBAX)
+ - ⏩ [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 👉 [PE guy](http://9gag.com/gag/an7EbQ0)<!-- MEMES:END -->
 
 ---
 
