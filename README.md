@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung finally has a launch date for the Galaxy S25 Edge](https://www.theverge.com/news/662900/samsung-galaxy-unpacked-s25-edge)
- - [Deal: This 8BitDo Retro Mechanical Keyboard is on sale, but only today!](https://www.androidauthority.com/8bitdo-retro-mechanical-keyboard-deal-3-3555410/)
- - [Anthropic launches web search on its API for Claude 3.7 Sonnet, 3.5 Sonnet, and 3.5 Haiku at $10/1K searches, giving the models access to up-to-date information &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p46#a250507p46)<!-- TECH:END -->
+ - [Singapore’s Vision for AI Safety Bridges the US-China Divide](https://www.wired.com/story/singapore-ai-safety-global-consensus/)
+ - [Samsung plans to launch the Galaxy S25 Edge at a May 12 virtual event at 8pm ET, and reservations for the super-slim device are now open with a $50 credit &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250507/p48#a250507p48)
+ - [Apple Watch Shipments Sharply Decline, Dropping Nearly 20% in 2024](https://www.cnet.com/tech/mobile/apple-watch-shipments-sharply-decline-dropping-nearly-20-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
