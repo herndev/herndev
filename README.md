@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile will give you a free phone with a trade-in, regardless of its condition or your plan](https://www.androidauthority.com/moto-edge-t-mobile-free-3555806/)
- - [Congress votes to pull funding for free Wi-Fi hotspots at schools and libraries](https://www.theverge.com/policy/663612/congress-votes-to-end-fcc-free-wi-fi-hotspots-children-funding)
- - [Celsius Network founder and former CEO Alex Mashinsky is sentenced to 12 years in prison after pleading guilty to commodities fraud and misleading investors &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250508/p43#a250508p43)<!-- TECH:END -->
+ - [States Sue the Government Over Withdrawn EV Charging Station Funds](https://www.cnet.com/roadshow/news/states-sue-the-government-over-withdrawn-ev-charging-station-funds/#ftag=CAD590a51e)
+ - [Celsius Founder Alex Mashinsky Sentenced to 12 Years in Prison](https://www.wired.com/story/celsius-founder-alex-mashinsky-sentenced-to-12-years-in-prison/)
+ - [Affirm reports Q3 revenue up 36% YoY to $783M, vs. $783M est., GMV up 36% to $8.6B, above est., and forecasts Q4 revenue below est.; AFRM drops 7%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250508/p47#a250508p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
