@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)
- - ⏩ [Another Adventure](http://9gag.com/gag/a2v2o5d)
- - 👉 [Technologia xD](http://9gag.com/gag/ayNRxbW)<!-- MEMES:END -->
+ - 💣 [The way he feeds the other monkey is so wholesome](http://9gag.com/gag/aLnmj4W)
+ - ⏩ [PE guy](http://9gag.com/gag/an7EbQ0)
+ - 👉 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)<!-- MEMES:END -->
 
 ---
 
