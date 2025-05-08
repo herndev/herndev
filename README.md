@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whoop wants everyone to give a whoop about the new Whoop 5.0](https://www.theverge.com/news/661773/whoop-5-news-price-specs-battery)
- - [Uneven battery drain killing your Nothing Ear earbuds? You’re not alone](https://www.androidauthority.com/nothing-ear-irregular-battery-drain-3555621/)
- - [Meta&amp;#8217;s new AI glasses could have a &amp;#8216;super-sensing&amp;#8217; mode with facial recognition](https://www.theverge.com/news/663297/meta-live-ai-super-sensing-smart-glasses-facial-recognition-privacy)<!-- TECH:END -->
+ - [Apple asks court to halt App Store rule changes while it appeals](https://www.theverge.com/news/663361/apple-halt-app-store-ruling-appeal)
+ - [Pixel users say Google’s image processing is ruining shots. Are you affected?](https://www.androidauthority.com/google-pixel-image-processing-ruining-shots-3555627/)
+ - [Analysis: ~67,000 new or small-time crypto investors bought the $TRUMP memecoin but 80% of them bought near the coin&#39;s peak and saw their holdings nosedive &lpar;Washington Post&rpar;](http://www.techmeme.com/250508/p29#a250508p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
