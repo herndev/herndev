@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout Season 2 Is Done Filming So Walton Goggins Is Free Once More](https://kotaku.com/fallout-season-2-news-goggins-wrapped-done-filming-2026-1851779855)
- - [&#39;This is not our first rodeo&#39;: Dune: Awakening team confident servers won&#39;t implode at launch](https://www.pcgamer.com/games/survival-crafting/this-is-not-our-first-rodeo-dune-awakening-team-confident-servers-wont-implode-at-launch/)
- - [Quake, GoldenEye, and Tamagotchi inducted into World Video Game Hall of Fame](https://www.polygon.com/news/598175/video-game-hall-of-fame-2025-inductees-new)<!-- GAME:END -->
+ - [Outer Wilds studio finally confirms it&#39;s working on a new game but says it will be &#39;years&#39; before it&#39;s ready to share details](https://www.pcgamer.com/games/adventure/outer-wilds-studio-finally-confirms-its-working-on-a-new-game-but-says-it-will-be-years-before-its-ready-to-share-details/)
+ - [Marvel’s X-Men movie may have found its director*](https://www.polygon.com/news/598198/mcu-xmen-movie-director-marvel-studios)
+ - [THPS 3+4 Devs Explain Why They Removed 4&#39;s OG Career Mode](https://kotaku.com/thps-3-4-remake-remaster-thps4-original-career-mode-ps5-1851779836)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
