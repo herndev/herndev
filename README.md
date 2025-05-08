@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore’s Vision for AI Safety Bridges the US-China Divide](https://www.wired.com/story/singapore-ai-safety-global-consensus/)
- - [Samsung plans to launch the Galaxy S25 Edge at a May 12 virtual event at 8pm ET, and reservations for the super-slim device are now open with a $50 credit &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250507/p48#a250507p48)
- - [Apple Watch Shipments Sharply Decline, Dropping Nearly 20% in 2024](https://www.cnet.com/tech/mobile/apple-watch-shipments-sharply-decline-dropping-nearly-20-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Apple seeks to pause the part of the April 30 US federal court ruling that blocked it from charging App Store commissions on outside transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p51#a250507p51)
+ - [WisdomAI, which offers AI-powered data analytics from structured, unstructured, and &quot;dirty&quot; data, launches with a $23M seed led by Coatue Ventures &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250507/p50#a250507p50)
+ - [The Narwal Freo Z Ultra robot vacuum is at an all-time low price today, and it’s our favorite!](https://www.androidauthority.com/narwal-freo-z-ultra-robot-vacuum-mop-deal-3555409/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
