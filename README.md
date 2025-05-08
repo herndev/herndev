@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That laugh](http://9gag.com/gag/ajPZEN0)
- - ⏩ [Are you not entertained](http://9gag.com/gag/aPAQj4R)
- - 👉 [They have their own issues](http://9gag.com/gag/adBeK7Q)<!-- MEMES:END -->
+ - 💣 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - ⏩ [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)
+ - 👉 [In and out](http://9gag.com/gag/a342QgN)<!-- MEMES:END -->
 
 ---
 
