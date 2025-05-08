@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just downloaded One UI 7? Here are two settings to change immediately](https://www.androidauthority.com/one-ui-7-change-two-things-immediately-quick-settings-lock-screen-3555389/)
- - [SMIC reports Q1 revenue up 28.4% YoY to $2.2B, vs. $2.3B est., profit up 161.9% YoY to $188M, vs. $222.4M est., and says H2 has &quot;opportunities and challenges&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250508/p24#a250508p24)
- - [You can now submit your claims for Apple’s $95 million Siri spying settlement](https://www.theverge.com/news/663166/apple-siri-audio-recording-lawsuit-payout-applications)<!-- TECH:END -->
+ - [Google Maps for iOS uses Gemini to pull places from screenshots](https://appleinsider.com/articles/25/05/08/google-maps-for-ios-uses-gemini-to-pull-places-from-screenshots?utm_medium=rss)
+ - [Q&amp;A with Bill Gates on shutting down the Gates Foundation on December 31, 2045, the Trump administration, USAID, AI drug discovery, AI&#39;s potential, and more &lpar;David Wallace-Wells/New York Times&rpar;](http://www.techmeme.com/250508/p27#a250508p27)
+ - [Gemini’s vs ChatGPT’s Deep Research: For me, the choice is clear](https://www.androidauthority.com/chatgpt-vs-gemini-deep-research-3555202/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
