@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [States Sue the Government Over Withdrawn EV Charging Station Funds](https://www.cnet.com/roadshow/news/states-sue-the-government-over-withdrawn-ev-charging-station-funds/#ftag=CAD590a51e)
- - [Celsius Founder Alex Mashinsky Sentenced to 12 Years in Prison](https://www.wired.com/story/celsius-founder-alex-mashinsky-sentenced-to-12-years-in-prison/)
- - [Affirm reports Q3 revenue up 36% YoY to $783M, vs. $783M est., GMV up 36% to $8.6B, above est., and forecasts Q4 revenue below est.; AFRM drops 7%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250508/p47#a250508p47)<!-- TECH:END -->
+ - [Hot deal: Get four Samsung SmartTag 2 trackers for just $51.99!](https://www.androidauthority.com/samsung-smarttag-2-deal-3555408/)
+ - [Your doorbell cam might have just picked up Google Home support](https://www.androidauthority.com/ecobee-camera-google-home-3555819/)
+ - [SEC filing: Sterling Anderson, CPO and co-founder of self-driving truck startup Aurora, is resigning effective June 1, and will leave the board on August 31 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250508/p49#a250508p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
