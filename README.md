@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eric Barone says he &#39;might eventually make a Stardew Valley 2,&#39; but not because it&#39;d make a zillion dollars: &#39;I honestly don&#39;t care about money that much&#39;](https://www.pcgamer.com/games/life-sim/eric-barone-says-he-might-eventually-make-a-stardew-valley-2-but-not-because-itd-make-a-zillion-dollars-i-honestly-dont-care-about-money-that-much/)
- - [Schedule 1&#39;s latest update adds a jukebox, because drugs without music is just kind of a drag, man](https://www.pcgamer.com/games/sim/schedule-1s-latest-update-adds-a-jukebox-because-drugs-without-music-is-just-kind-of-a-drag-man/)
- - [Dune: Awakening beta weekend release date and times](https://www.pcgamer.com/games/mmo/dune-awakening-beta-release-time/)<!-- GAME:END -->
+ - [Fallout Season 2 Is Done Filming So Walton Goggins Is Free Once More](https://kotaku.com/fallout-season-2-news-goggins-wrapped-done-filming-2026-1851779855)
+ - [&#39;This is not our first rodeo&#39;: Dune: Awakening team confident servers won&#39;t implode at launch](https://www.pcgamer.com/games/survival-crafting/this-is-not-our-first-rodeo-dune-awakening-team-confident-servers-wont-implode-at-launch/)
+ - [Quake, GoldenEye, and Tamagotchi inducted into World Video Game Hall of Fame](https://www.polygon.com/news/598175/video-game-hall-of-fame-2025-inductees-new)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
