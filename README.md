@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Peak Sekiro-like Nine Sols gets a 40% price cut ahead of its 1-year anniversary, and if you&#39;ve ever liked parrying in a videogame, you need to play this thing](https://www.pcgamer.com/games/action/peak-sekiro-like-nine-sols-gets-a-40-percent-price-cut-ahead-of-its-1-year-anniversary-and-if-youve-ever-liked-parrying-in-a-videogame-you-need-to-play-this-thing/)
- - [Nintendo low-balls its Switch 2 sales estimates, but they’re still huge](https://www.polygon.com/nintendo-switch-2/598100/nintendo-switch-2-sales-forecast)
- - [Masters of Ceremony Warbond marches into Helldivers 2 May 15](https://blog.playstation.com/2025/05/08/masters-of-ceremony-warbond-marches-into-helldivers-2-may-15/)<!-- GAME:END -->
+ - [Free Play Days – Pac-Man Mega Tunnel Battle: Chomp Champs and Still Wakes the Deep](https://news.xbox.com/en-us/2025/05/08/free-play-days-05-08-2025/)
+ - [Here&#39;s how long it would take 12 RTX 5090 GPUs to crack your password… and a reminder that just adding more characters still works](https://www.pcgamer.com/software/security/heres-how-long-it-would-take-12-rtx-5090-gpus-to-crack-your-password-and-a-reminder-that-just-adding-more-characters-still-works/)
+ - [A Minecraft Movie Available To Stream At Home Without Chicken Jockey Meme Chaos Starting This Month](https://kotaku.com/minecraft-movie-streaming-amazon-chicken-jockey-meme-1851779700)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
