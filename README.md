@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - ⏩ [Nut your average table trick](http://9gag.com/gag/abABz2L)
- - 👉 [Technologia xD](http://9gag.com/gag/ayNRxbW)<!-- MEMES:END -->
+ - 💣 [Have nuclear weapons, will go to war. But where?](http://9gag.com/gag/a342QV7)
+ - ⏩ [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
+ - 👉 [NO THAT&#39;S DANGEROUS! oh....](http://9gag.com/gag/aKGeDOj)<!-- MEMES:END -->
 
 ---
 
