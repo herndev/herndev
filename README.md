@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jason Bourne has been found.](http://9gag.com/gag/axyR1LL)
- - ⏩ [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)
- - 👉 [Eminem - Lose Yourself &lpar;Sung by 331 Movies&rpar;](http://9gag.com/gag/aoyLOve)<!-- MEMES:END -->
+ - 💣 [Where can i get one from???](http://9gag.com/gag/amoM54j)
+ - ⏩ [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
+ - 👉 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)<!-- MEMES:END -->
 
 ---
 
