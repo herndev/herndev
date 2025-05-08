@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps for iOS uses Gemini to pull places from screenshots](https://appleinsider.com/articles/25/05/08/google-maps-for-ios-uses-gemini-to-pull-places-from-screenshots?utm_medium=rss)
- - [Q&amp;A with Bill Gates on shutting down the Gates Foundation on December 31, 2045, the Trump administration, USAID, AI drug discovery, AI&#39;s potential, and more &lpar;David Wallace-Wells/New York Times&rpar;](http://www.techmeme.com/250508/p27#a250508p27)
- - [Gemini’s vs ChatGPT’s Deep Research: For me, the choice is clear](https://www.androidauthority.com/chatgpt-vs-gemini-deep-research-3555202/)<!-- TECH:END -->
+ - [Whoop wants everyone to give a whoop about the new Whoop 5.0](https://www.theverge.com/news/661773/whoop-5-news-price-specs-battery)
+ - [Uneven battery drain killing your Nothing Ear earbuds? You’re not alone](https://www.androidauthority.com/nothing-ear-irregular-battery-drain-3555621/)
+ - [Meta&amp;#8217;s new AI glasses could have a &amp;#8216;super-sensing&amp;#8217; mode with facial recognition](https://www.theverge.com/news/663297/meta-live-ai-super-sensing-smart-glasses-facial-recognition-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
