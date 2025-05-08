@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33 devs to issue its first nerf to an ability that does 2 billion damage: &#39;We gave it a big damage boost—and clearly overdid it&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-devs-to-issue-its-first-nerf-to-an-ability-that-does-2-billion-damage-we-gave-it-a-big-damage-boost-and-clearly-overdid-it/)
- - [One US politician wants to add trackers to Nvidia&#39;s GPUs so they can be bricked if they go to China](https://www.pcgamer.com/hardware/graphics-cards/one-us-politician-wants-to-add-trackers-to-nvidias-graphics-cards-so-they-can-be-bricked-if-they-end-up-in-china/)
- - [Synergy&#39;s full release has more challenges like tricky soil, illness, and death, which will all slowly tear down your paradise](https://www.pcgamer.com/games/city-builder/synergys-full-release-has-more-challenges-like-tricky-soil-illness-and-death-which-will-all-slowly-tear-down-your-paradise/)<!-- GAME:END -->
+ - [With the GPU market a hellscape right now, here are the PC gaming upgrades you actually CAN do](https://www.pcgamer.com/hardware/with-the-gpu-market-a-hellscape-right-now-here-are-the-pc-gaming-upgrades-you-actually-can-do/)
+ - [Palworld devs blame Nintendo lawsuit for ‘disappointing’ game changes](https://www.polygon.com/gaming/598094/palworld-changes-nintendo-pokemon-lawsuit-disappointing)
+ - [How to complete the Clean Your Room duty in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-clean-your-room-duty-walkthrough/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
