@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Revealing the DualSense wireless controller – Death Stranding 2: On the Beach Limited Edition](https://blog.playstation.com/2025/05/08/20250508-ds/)
- - [&lpar;For Southeast Asia&rpar; Revealing the DualSense wireless controller – Death Stranding 2: On the Beach Limited Edition](https://blog.playstation.com/2025/05/08/20250508-ds/)
- - [Revealing the DualSense wireless controller – Death Stranding 2: On the Beach Limited Edition](https://blog.playstation.com/2025/05/08/revealing-the-dualsense-wireless-controller-death-stranding-2-on-the-beach-limited-edition/)<!-- GAME:END -->
+ - [Clair Obscur: Expedition 33 devs to issue its first nerf to an ability that does 2 billion damage: &#39;We gave it a big damage boost—and clearly overdid it&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-devs-to-issue-its-first-nerf-to-an-ability-that-does-2-billion-damage-we-gave-it-a-big-damage-boost-and-clearly-overdid-it/)
+ - [One US politician wants to add trackers to Nvidia&#39;s GPUs so they can be bricked if they go to China](https://www.pcgamer.com/hardware/graphics-cards/one-us-politician-wants-to-add-trackers-to-nvidias-graphics-cards-so-they-can-be-bricked-if-they-end-up-in-china/)
+ - [Synergy&#39;s full release has more challenges like tricky soil, illness, and death, which will all slowly tear down your paradise](https://www.pcgamer.com/games/city-builder/synergys-full-release-has-more-challenges-like-tricky-soil-illness-and-death-which-will-all-slowly-tear-down-your-paradise/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
