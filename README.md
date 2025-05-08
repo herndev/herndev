@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zero Breeze Mark 3 AC Review: Effective Portable Cooling](https://www.wired.com/review/zero-breeze-mark-3-portable-air-conditioner/)
- - [Analysis: ~66% of US data center projects built or in development since 2022 are in areas with high water stress, with five states having 72% of new facilities &lpar;Bloomberg&rpar;](http://www.techmeme.com/250508/p20#a250508p20)
- - [Tesla finally calls it quits on Cybertruck range extender](https://www.theverge.com/news/663157/tesla-cybertruck-range-extender-cancelled-refunds)<!-- TECH:END -->
+ - [Just downloaded One UI 7? Here are two settings to change immediately](https://www.androidauthority.com/one-ui-7-change-two-things-immediately-quick-settings-lock-screen-3555389/)
+ - [SMIC reports Q1 revenue up 28.4% YoY to $2.2B, vs. $2.3B est., profit up 161.9% YoY to $188M, vs. $222.4M est., and says H2 has &quot;opportunities and challenges&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250508/p24#a250508p24)
+ - [You can now submit your claims for Apple’s $95 million Siri spying settlement](https://www.theverge.com/news/663166/apple-siri-audio-recording-lawsuit-payout-applications)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
