@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still don&#39;t know. Do you like my sword sword...](http://9gag.com/gag/aD2V14d)
- - ⏩ [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)
- - 👉 [In and out](http://9gag.com/gag/a342QgN)<!-- MEMES:END -->
+ - 💣 [Simplicity wins!](http://9gag.com/gag/aGyAjmw)
+ - ⏩ [Jason Bourne has been found.](http://9gag.com/gag/axyR1LL)
+ - 👉 [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)<!-- MEMES:END -->
 
 ---
 
