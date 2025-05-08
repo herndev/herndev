@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kickstarter’s new Tariff Manager is now available to campaign creators](https://www.theverge.com/news/662836/kickstarter-pledge-tariff-manager-crowdfunding-now-available)
- - [Threads was originally going to live inside the Instagram app](https://www.theverge.com/news/663390/threads-app-inside-instagram-mosseri)
- - [Grab AirPods 4 for $99, Apple Watch for $169, iPad for $299 ahead of Mother&#39;s Day](https://appleinsider.com/articles/25/05/08/grab-airpods-4-for-99-apple-watch-for-169-ipad-for-299-ahead-of-mothers-day?utm_medium=rss)<!-- TECH:END -->
+ - [A federal judge in Florida dismisses most claims against celebrities who endorsed FTX, ruling that they were &quot;uninformed&quot; and &quot;reckless&quot; but not fraudulent &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/250508/p35#a250508p35)
+ - [The UK says the Digital Services Tax remains unchanged under the trade deal agreed between the US and the UK, both of which will work on a &quot;digital trade deal&quot; &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/250508/p34#a250508p34)
+ - [Pre-order your new Moto Razr now and go all ‘RazrBerry’ with this free accessory](https://www.androidauthority.com/moto-razr-clicks-best-buy-promo-3555709/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
