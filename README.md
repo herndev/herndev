@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal judge in Florida dismisses most claims against celebrities who endorsed FTX, ruling that they were &quot;uninformed&quot; and &quot;reckless&quot; but not fraudulent &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/250508/p35#a250508p35)
- - [The UK says the Digital Services Tax remains unchanged under the trade deal agreed between the US and the UK, both of which will work on a &quot;digital trade deal&quot; &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/250508/p34#a250508p34)
- - [Pre-order your new Moto Razr now and go all ‘RazrBerry’ with this free accessory](https://www.androidauthority.com/moto-razr-clicks-best-buy-promo-3555709/)<!-- TECH:END -->
+ - [T-Mobile is offering its loyal users a free line, do you qualify?](https://www.androidauthority.com/t-mobile-free-line-2025-3555679/)
+ - [Apple is planning smart glasses with and without AR](https://www.theverge.com/news/663600/apple-smart-glasses-chips-ar-chip)
+ - [Apple Glass will get custom Apple Silicon tailored for low power &amp; camera control](https://appleinsider.com/articles/25/05/08/apple-glass-will-get-custom-apple-silicon-tailored-for-low-power-camera-control?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
