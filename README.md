@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technologia xD](http://9gag.com/gag/ayNRxbW)
- - ⏩ [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 👉 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)<!-- MEMES:END -->
+ - 💣 [N O I C E](http://9gag.com/gag/aMVv8ZM)
+ - ⏩ [Every aviation enthusiasts dream](http://9gag.com/gag/aryqG3d)
+ - 👉 [That laugh](http://9gag.com/gag/ajPZEN0)<!-- MEMES:END -->
 
 ---
 
