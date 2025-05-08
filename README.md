@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The man gets mangled/run over by a snowplow after saving his nephew&#39;s life. He said he could hear his own bones crunching. Spends months recovering. Only to be offered peanuts to carry a show while they obviously push him out to introduce a female lead. Disney is a ashhowe.](http://9gag.com/gag/apRbpXD)
- - ⏩ [Technologia xD](http://9gag.com/gag/ayNRxbW)
- - 👉 [`There are no terrorist camps in Pakistan` Link below in comments](http://9gag.com/gag/aoyLOBw)<!-- MEMES:END -->
+ - 💣 [Technologia xD](http://9gag.com/gag/ayNRxbW)
+ - ⏩ [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
+ - 👉 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)<!-- MEMES:END -->
 
 ---
 
