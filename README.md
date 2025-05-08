@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an email to Instacart employees, Fidji Simo says the new CEO will be an existing member of the management team and she will stay on as Chair of the Board &lpar;Fidji Simo/Instacart Corporate Blog&rpar;](http://www.techmeme.com/250508/p6#a250508p6)
- - [OpenAI hires Instacart CEO Fidji Simo as CEO of Applications, reporting to Sam Altman, who says he&#39;ll stay CEO focusing &quot;on research, compute, and safety&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/250508/p5#a250508p5)
- - [Adidas Promo Codes &amp; Deals: up to 70% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
+ - [A look at Silence Speaks, a British startup that has built an AI-powered sign language avatar capable of accurately translating text to British Sign Language &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/250508/p9#a250508p9)
+ - [Samsung is bringing One UI 7’s ‘Now Bar’ and ‘Now Brief’ to Galaxy Watches &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-now-bar-now-brief-galaxy-watch-3555509/)
+ - [The Taiwan dollar&#39;s sharpest rally against the US dollar in nearly 40 years raises concerns about the competitiveness and earnings of Taiwanese tech companies &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250508/p8#a250508p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
