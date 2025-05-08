@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;Gift for Mom&#39; uses Spatial Video to film a child&#39;s first year](https://appleinsider.com/articles/25/05/08/apples-gift-for-mom-uses-spatial-video-to-film-a-childs-first-year?utm_medium=rss)
- - [Meta says it will start testing video ads on Threads with a &quot;small number&quot; of advertisers, and &quot;Reels trending ads&quot;, which will be shown next to trending Reels &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250508/p39#a250508p39)
- - [DOJ and FTC invite the public to complain about Ticketmaster](https://www.theverge.com/news/663670/doj-ftc-ticketmaster-complaints-public-comments)<!-- TECH:END -->
+ - [T-Mobile will give you a free phone with a trade-in, regardless of its condition or your plan](https://www.androidauthority.com/moto-edge-t-mobile-free-3555806/)
+ - [Congress votes to pull funding for free Wi-Fi hotspots at schools and libraries](https://www.theverge.com/policy/663612/congress-votes-to-end-fcc-free-wi-fi-hotspots-children-funding)
+ - [Celsius Network founder and former CEO Alex Mashinsky is sentenced to 12 years in prison after pleading guilty to commodities fraud and misleading investors &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250508/p43#a250508p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
