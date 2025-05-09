@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
- - ⏩ [He handled the situation well](http://9gag.com/gag/aByGxv1)
- - 👉 [Lol](http://9gag.com/gag/a872oGp)<!-- MEMES:END -->
+ - 💣 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
+ - ⏩ [This is how a broken immigration policy looks like](http://9gag.com/gag/aGyAjLX)
+ - 👉 [Stop thinking](http://9gag.com/gag/aByGxwZ)<!-- MEMES:END -->
 
 ---
 
