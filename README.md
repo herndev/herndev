@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whoop launches Whoop 5.0, its latest screenless wearable, including a medical grade version with Healthspan, showing users how they are aging physiologically &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250509/p8#a250509p8)
- - [Inside Apple Weather: get the most out of Apple&#39;s own forecasting app](https://appleinsider.com/inside/ios-19/tips/inside-apple-weather-get-the-most-out-of-apples-own-forecasting-app?utm_medium=rss)
- - [Spotify’s iPhone app could soon sell audiobooks with links, too](https://www.theverge.com/news/664178/spotify-audiobooks-iphone-ios-external-links-apple)<!-- TECH:END -->
+ - [Apple said to use Brazil for lower-tariff iPhones, despite denials](https://appleinsider.com/articles/25/05/09/apple-said-to-use-brazil-for-lower-tariff-iphones-despite-denials?utm_medium=rss)
+ - [Epic Games says it has submitted Fortnite to the US App Store for review &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250509/p10#a250509p10)
+ - [SF&amp;#8217;s BART expects &amp;#8216;major delays&amp;#8217; after a computer problem ground subways to a halt](https://www.theverge.com/news/664256/sf-bay-area-transit-bart-suspended)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
