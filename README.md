@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bodega cats, trash pandas, and a great white shark: the real stars of the GTA 6 reveal are all the animals hiding in plain sight](https://www.pcgamer.com/games/grand-theft-auto/bodega-cats-trash-pandas-and-a-great-white-shark-the-real-stars-of-the-gta-6-reveal-are-all-the-animals-hiding-in-plain-sight/)
- - [I couldn&#39;t have played Clair Obscur without its accessibility settings, and now it might be my GOTY](https://www.pcgamer.com/games/rpg/i-couldnt-have-played-clair-obscur-without-its-accessibility-settings-and-now-it-might-be-my-goty/)
- - [Alien: Rogue Incursion will escape its VR shackles and become a normal bug-hunt shooter later this year](https://www.pcgamer.com/games/fps/alien-rogue-incursion-will-escape-its-vr-shackles-and-become-a-normal-bug-hunt-shooter-later-this-year/)<!-- GAME:END -->
+ - [D&amp;D&#39;s artificers are getting revised for the 2024 rules update in a book that will also let you play a guy who has a magic GPS and knows where everyone is at all times](https://www.pcgamer.com/games/board-games/d-and-ds-artificers-are-getting-revised-for-the-2024-rules-update-in-a-book-that-will-also-let-you-play-a-guy-who-has-a-magic-gps-and-knows-where-everyone-is-at-all-times/)
+ - [A Chrono Trigger revival seems inevitable at this point, with its creator admitting &#39;I want to do something&#39; after recent mistranslation incident](https://www.pcgamer.com/games/rpg/a-chrono-trigger-revival-seems-inevitable-at-this-point-with-its-creator-admitting-i-want-to-do-something-after-recent-mistranslation-incident/)
+ - [Bodega cats, trash pandas, and a great white shark: the real stars of the GTA 6 reveal are all the animals hiding in plain sight](https://www.pcgamer.com/games/grand-theft-auto/bodega-cats-trash-pandas-and-a-great-white-shark-the-real-stars-of-the-gta-6-reveal-are-all-the-animals-hiding-in-plain-sight/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
