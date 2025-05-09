@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
- - ⏩ [It hurts](http://9gag.com/gag/awydojr)
- - 👉 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)<!-- MEMES:END -->
+ - 💣 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)
+ - ⏩ [He handled the situation well](http://9gag.com/gag/aByGxv1)
+ - 👉 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)<!-- MEMES:END -->
 
 ---
 
