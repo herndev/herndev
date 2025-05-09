@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A software engineer taught AI to hunt bugs by interfacing an LLM with debugging tools and has released the open source code - &quot;It&#39;s like going from hunting with a stone spear to using a guided missile,&quot;](https://www.pcgamer.com/hardware/a-software-engineer-taught-ai-to-hunt-bugs-by-interfacing-an-llm-with-debugging-tools-and-has-released-the-open-source-code-its-like-going-from-hunting-with-a-stone-spear-to-using-a-guided-missile/)
+ - [A software engineer taught AI to hunt bugs by interfacing an LLM with debugging tools and has released the open source code: &#39;It&#39;s like going from hunting with a stone spear to using a guided missile&#39;](https://www.pcgamer.com/hardware/a-software-engineer-taught-ai-to-hunt-bugs-by-interfacing-an-llm-with-debugging-tools-and-has-released-the-open-source-code-its-like-going-from-hunting-with-a-stone-spear-to-using-a-guided-missile/)
  - [Valve is using Steam Deck&#39;s beta build to test 80% battery limit](https://www.pcgamer.com/hardware/valve-is-using-steam-decks-beta-build-to-test-80-percent-battery-limit/)
  - [Razer&#39;s newest gaming headset goes on your chair instead of your head](https://www.pcgamer.com/hardware/razers-newest-gaming-headset-goes-on-your-chair-instead-of-your-head/)<!-- GAME:END -->
 
