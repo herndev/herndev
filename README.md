@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dangerous TikTok Chromebook Challenge: Avoid Sparking a Fire in Your Laptop](https://www.cnet.com/tech/dangerous-tiktok-chromebook-challenge-avoid-sparking-a-fire-in-your-laptop/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 9, #228](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-9-228/#ftag=CAD590a51e)
- - [Some of the coolest chargers are on sale today: Check them out!](https://www.androidauthority.com/anker-sharge-gravastar-charger-deals-3555882/)<!-- TECH:END -->
+ - [Why am I internet-stalking the pope?](https://www.theverge.com/politics/663974/pope-leo-xiv-prevost-social-media-tweets)
+ - [Google Messages begins rolling out “Delete for Everyone” feature](https://www.androidauthority.com/google-messages-delete-for-everyone-beta-rollout-3555908/)
+ - [Broadcom is sending cease-and-desist letters to owners of VMware perpetual licenses with expired support contracts, to get them to buy VMware product bundles &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250508/p55#a250508p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
