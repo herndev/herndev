@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bodega cats, trash pandas, and a great white shark: the real stars of the GTA 6 reveal are all the animals hiding in plain sight](https://www.pcgamer.com/games/grand-theft-auto/bodega-cats-trash-pandas-and-a-great-white-shark-the-real-stars-of-the-gta-6-reveal-are-all-the-animals-hiding-in-plain-sight/)
  - [I couldn&#39;t have played Clair Obscur without its accessibility settings, and now it might be my GOTY](https://www.pcgamer.com/games/rpg/i-couldnt-have-played-clair-obscur-without-its-accessibility-settings-and-now-it-might-be-my-goty/)
- - [Alien: Rogue Incursion will escape its VR shackles and become a normal bug-hunt shooter later this year](https://www.pcgamer.com/games/fps/alien-rogue-incursion-will-escape-its-vr-shackles-and-become-a-normal-bug-hunt-shooter-later-this-year/)
- - [How do you get fresh blood in a 22-year-old, infamously impenetrable MMO? EVE Online hopes it&#39;s a &#39;player-created gig economy&#39; that has veterans making missions for newbies: &#39;We&#39;re 100% sure that you will do a better job&#39;](https://www.pcgamer.com/games/mmo/how-do-you-get-fresh-blood-in-a-22-year-old-infamously-impenetrable-mmo-eve-online-devs-hope-its-a-player-driven-player-created-gig-economy-that-has-veterans-making-missions-for-newbies-were-100-percent-sure-that-you-will-do-a-better-job/)<!-- GAME:END -->
+ - [Alien: Rogue Incursion will escape its VR shackles and become a normal bug-hunt shooter later this year](https://www.pcgamer.com/games/fps/alien-rogue-incursion-will-escape-its-vr-shackles-and-become-a-normal-bug-hunt-shooter-later-this-year/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
