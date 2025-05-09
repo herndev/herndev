@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Limited-Time Charity Humble Bundle Features 8 Xbox Game Studios Games; Proceeds Benefit Gameheads](https://gameheadsoakland.org/gameheads-xboxhumblebundle/#new_tab)
- - [This Soulslike Will Respect Your Time, But Rewards You For Playing It Twice](https://kotaku.com/empyreal-soulslike-how-long-to-beat-new-game-plus-1851779993)
- - [Official PlayStation Podcast Episode 514: 33 and a Third](https://blog.playstation.com/2025/05/09/official-playstation-podcast-episode-514-33-and-a-third/)<!-- GAME:END -->
+ - [Clair Obscur: Expedition 33’s first patch nerfs Maelle](https://www.polygon.com/gaming/598287/clair-obscur-expedition-33-nerfs-maelle-stendhal-patch)
+ - [Blizzard&#39;s Overwatch Team Just Unionized: &#39;What I Want To Protect Most Here Is The People&#39;](https://kotaku.com/overwatch-2-blizzard-team-4-union-microsoft-1851779922)
+ - [Should You Feed The Small Bourgeon In Clair Obscur: Expedition 33?](https://kotaku.com/clair-obscur-expedition-33-bourgeon-skin-attack-find-1851779997)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
