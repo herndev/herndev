@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - ⏩ [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
- - 👉 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)<!-- MEMES:END -->
+ - 💣 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
+ - ⏩ [Who?](http://9gag.com/gag/ae9m59b)
+ - 👉 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)<!-- MEMES:END -->
 
 ---
 
