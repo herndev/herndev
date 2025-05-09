@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube needs a ‘block channel’ option](https://www.androidauthority.com/youtube-block-channel-3547424/)
- - [The 21 Best Early Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)
- - [Running out of memory in Android 16’s Linux Terminal? Try this fix](https://www.androidauthority.com/android-linux-terminal-memory-fix-3555799/)<!-- TECH:END -->
+ - [Gemini Live’s Project Astra features are rolling out more widely. Did you get them yet?](https://www.androidauthority.com/gemini-live-project-astra-features-rolling-out-more-widely-3556053/)
+ - [Netgear Orbi 770 Series Review: Wi-Fi 7 Family Harmony](https://www.wired.com/review/netgear-orbi-770-series/)
+ - [Why Apple is trying to save Google](https://www.theverge.com/the-vergecast/664087/why-apple-is-trying-to-save-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
