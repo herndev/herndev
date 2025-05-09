@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whoop faces backlash after walking back free hardware upgrade promise](https://www.androidauthority.com/whoop-free-upgrade-backlash-3556183/)
- - [Amazon slashes 15-inch MacBook Air M4 &lpar;24GB RAM, 512GB SSD&rpar; to record low $1,434](https://appleinsider.com/articles/25/05/09/amazon-slashes-15-inch-macbook-air-m4-24gb-ram-512gb-ssd-to-record-low-1434?utm_medium=rss)
- - [After everything, Epic Games submits new &#39;Fortnite&#39; to US App Store review](https://appleinsider.com/articles/25/05/09/after-everything-epic-games-submits-new-fortnite-to-us-app-store-review?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone fold: All the rumors about Apple&#39;s first foldable, and when it might launch](https://appleinsider.com/articles/25/05/09/iphone-fold-all-the-rumors-about-apples-first-foldable-and-when-it-might-launch?utm_medium=rss)
+ - [Trump’s Surgeon General Pick Is Tearing the MAHA Movement Apart](https://www.wired.com/story/casey-means-surgeon-general-trump-rfk-controlled-opposition-vaccine/)
+ - [Google agrees to pay $50M to settle a lawsuit accusing it of systemic racial bias against Black employees, covering 4,000+ employees in California and New York &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250509/p13#a250509p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
