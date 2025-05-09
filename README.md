@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Catherine Bell &lpar;1995&rpar;](http://9gag.com/gag/an7E5R5)
- - ⏩ [Nut your average table trick](http://9gag.com/gag/abABz2L)
- - 👉 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)<!-- MEMES:END -->
+ - 💣 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
+ - ⏩ [This is why is taking them so long](http://9gag.com/gag/aLnm09v)
+ - 👉 [In and out](http://9gag.com/gag/a342QgN)<!-- MEMES:END -->
 
 ---
 
