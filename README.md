@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Office Chairs of 2025— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
  - [Gemini Live’s Project Astra features are rolling out more widely. Did you get them yet?](https://www.androidauthority.com/gemini-live-project-astra-features-rolling-out-more-widely-3556053/)
- - [Netgear Orbi 770 Series Review: Wi-Fi 7 Family Harmony](https://www.wired.com/review/netgear-orbi-770-series/)
- - [Why Apple is trying to save Google](https://www.theverge.com/the-vergecast/664087/why-apple-is-trying-to-save-google)<!-- TECH:END -->
+ - [Netgear Orbi 770 Series Review: Wi-Fi 7 Family Harmony](https://www.wired.com/review/netgear-orbi-770-series/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
