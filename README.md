@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MIT researchers debunk one of the greatest misconceptions in science: Eggs are stronger at the sides after all](https://www.pcgamer.com/hardware/mit-researchers-debunk-one-of-the-greatest-misconceptions-in-science-eggs-are-stronger-at-the-sides-after-all/)
- - [Netflix is reportedly removing Black Mirror: Bandersnatch next week](https://www.polygon.com/news/598247/netflix-removing-black-mirror-bandersnatch)
- - [John Cena vs. Randy Orton: A Timeline of Their Iconic Feuds](https://kotaku.com/john-cena-randy-orton-backlash-wwe-championship-1851779827)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for May 12 to 16](https://news.xbox.com/en-us/2025/05/09/next-week-on-xbox-new-games-for-may-12-to-16/)
+ - [The melee-heavy Doom: The Dark Ages is extremely my shit — but it might not be yours](https://www.polygon.com/impressions/598214/doom-the-dark-ages-early-review-impressions)
+ - [HP Omen Max 16 gaming laptop review](https://www.pcgamer.com/hardware/gaming-laptops/hp-omen-max-16-gaming-laptop-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
