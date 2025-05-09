@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)
- - ⏩ [He handled the situation well](http://9gag.com/gag/aByGxv1)
- - 👉 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)<!-- MEMES:END -->
+ - 💣 [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - ⏩ [Who?](http://9gag.com/gag/ae9m59b)
+ - 👉 [The adults responsible for this little kid let her drive a mini car in the middle of the street, leading to some sort of car accident.](http://9gag.com/gag/a1m2rAw)<!-- MEMES:END -->
 
 ---
 
