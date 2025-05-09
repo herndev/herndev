@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - ⏩ [This is how a broken immigration policy looks like](http://9gag.com/gag/aGyAjLX)
- - 👉 [Stop thinking](http://9gag.com/gag/aByGxwZ)<!-- MEMES:END -->
+ - ⏩ [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
+ - 👉 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)<!-- MEMES:END -->
 
 ---
 
