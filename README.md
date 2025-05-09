@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trucker takes their gaming rig on the road inside their big rig &#39;and yes, [I] occasionally play Truck Simulator&#39;](https://www.pcgamer.com/hardware/trucker-takes-their-gaming-rig-on-the-road-inside-their-big-rig-and-yes-i-occasionally-play-truck-simulator/)
- - [This aluminium keyboard feels like it fell straight out of one of my abandoned sci-fi drafts—but thanks to its onboard word counter, I might just finish it now](https://www.pcgamer.com/hardware/gaming-keyboards/this-aluminium-keyboard-feels-like-it-fell-straight-out-of-one-of-my-abandoned-sci-fi-drafts-but-thanks-to-its-onboard-word-counter-i-might-just-finish-it-now/)
- - [Legions of Helldivers 2 players are currently banging their head against a password terminal, as Arrowhead plays coy with a new reveal](https://www.pcgamer.com/games/third-person-shooter/legions-of-helldivers-2-players-are-currently-banging-their-head-against-a-password-terminal-as-arrowhead-plays-coy-with-a-new-reveal/)<!-- GAME:END -->
+ - [All Honkai: Star Rail 3.3 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-3-3-livestream-codes/)
+ - [Oblivion Remastered mod makes being a stealthy murder king easy, boosting your sneak attack damage modifiers from good to Grim Reaper](https://www.pcgamer.com/games/rpg/oblivion-remastered-mod-makes-being-a-stealthy-murder-king-easy-boosting-your-sneak-attack-damage-modifiers-from-good-to-grim-reaper/)
+ - [Clair Obscur: Expedition 33&#39;s first patch reveals the sword that was part of a 2 billion nuke build was doubling all damage by mistake](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-first-patch-reveals-the-sword-that-was-part-of-a-4-billion-nuke-build-was-doubling-all-damage-by-mistake/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
