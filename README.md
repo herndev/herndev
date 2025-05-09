@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung confirms brand-new Gorilla Glass display protection for Galaxy S25 Edge](https://www.androidauthority.com/samsung-galaxy-s25-edge-gorilla-glass-ceramic-2-3555913/)
  - [Why am I internet-stalking the pope?](https://www.theverge.com/politics/663974/pope-leo-xiv-prevost-social-media-tweets)
- - [Google Messages begins rolling out “Delete for Everyone” feature](https://www.androidauthority.com/google-messages-delete-for-everyone-beta-rollout-3555908/)
- - [Broadcom is sending cease-and-desist letters to owners of VMware perpetual licenses with expired support contracts, to get them to buy VMware product bundles &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250508/p55#a250508p55)<!-- TECH:END -->
+ - [Google Messages begins rolling out “Delete for Everyone” feature](https://www.androidauthority.com/google-messages-delete-for-everyone-beta-rollout-3555908/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
