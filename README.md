@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appfigures estimates Apple&#39;s US App Store revenue from commissions was ~$10.1B in 2024, more than doubling from ~$4.76B in 2020 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250509/p4#a250509p4)
- - [Computer Ban Gave the Government Unfair Advantage in Anti-War Activist’s Case, Lawyer Says](https://www.wired.com/story/computer-ban-unfair-mahmoud-khalil-ice/)
- - [Miss the S23 Ultra’s 10x camera? This brand could revive it &lpar;and then some&rpar;](https://www.androidauthority.com/new-phone-revive-s23-ultra-10x-camera-3555998/)<!-- TECH:END -->
+ - [YouTube needs a ‘block channel’ option](https://www.androidauthority.com/youtube-block-channel-3547424/)
+ - [The 21 Best Early Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)
+ - [Running out of memory in Android 16’s Linux Terminal? Try this fix](https://www.androidauthority.com/android-linux-terminal-memory-fix-3555799/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
