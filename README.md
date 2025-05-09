@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung confirms brand-new Gorilla Glass display protection for Galaxy S25 Edge](https://www.androidauthority.com/samsung-galaxy-s25-edge-gorilla-glass-ceramic-2-3555913/)
- - [Why am I internet-stalking the pope?](https://www.theverge.com/politics/663974/pope-leo-xiv-prevost-social-media-tweets)
- - [Google Messages begins rolling out “Delete for Everyone” feature](https://www.androidauthority.com/google-messages-delete-for-everyone-beta-rollout-3555908/)<!-- TECH:END -->
+ - [So many people had no clue this Google app for managing photos and videos existed!](https://www.androidauthority.com/google-gallery-app-existence-surprise-3555934/)
+ - [Surfshark Promo Codes: 87% Off | May 2025](https://www.wired.com/story/surfshark-coupon/)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 9, #1420](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-9-1420/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
