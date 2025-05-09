@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
- - ⏩ [In and out](http://9gag.com/gag/a342QgN)
- - 👉 [Finish him](http://9gag.com/gag/aGyAZ5K)<!-- MEMES:END -->
+ - 💣 [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - ⏩ [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)
+ - 👉 [Women: `Why doesn&#39;t my bf/husband share his feelings me with me?`](http://9gag.com/gag/aE0D2Op)<!-- MEMES:END -->
 
 ---
 
