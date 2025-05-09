@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for May 12 to 16](https://news.xbox.com/en-us/2025/05/09/next-week-on-xbox-new-games-for-may-12-to-16/)
- - [The melee-heavy Doom: The Dark Ages is extremely my shit — but it might not be yours](https://www.polygon.com/impressions/598214/doom-the-dark-ages-early-review-impressions)
- - [HP Omen Max 16 gaming laptop review](https://www.pcgamer.com/hardware/gaming-laptops/hp-omen-max-16-gaming-laptop-review/)<!-- GAME:END -->
+ - [Discover How You Can Train Like A Real Rider In MotoGP 25 With the New Race Off Modes](https://news.xbox.com/en-us/2025/05/09/motogp-25-new-race-off-modes/)
+ - [Overwatch 2 remembers it can collab with videogames outside the Blizzard catalogue, bringing Street Fighter 6 to the battlefield](https://www.pcgamer.com/games/fps/overwatch-2-remembers-it-can-collab-with-videogames-outside-the-blizzard-catalogue-bringing-street-fighter-6-to-the-battlefield/)
+ - [How to play Dune: Awakening multiplayer](https://www.pcgamer.com/games/mmo/dune-awakening-multiplayer-crossplay/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
