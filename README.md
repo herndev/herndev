@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;It was eye-opening&#39;: How a WoW documentary inspired Muscular Dystrophy UK&#39;s Liam Quinn to raise money and build community in the haven of videogames](https://www.pcgamer.com/games/world-of-warcraft/it-was-eye-opening-how-a-wow-documentary-inspired-muscular-dystrophy-uks-liam-quinn-to-raise-money-and-build-community-in-the-haven-of-videogames/)
- - [The Solution To Nintendo’s Ineffective Battle Against Piracy Isn&#39;t Bricking People&#39;s Switches](https://kotaku.com/nintendo-switch-2-piracy-brick-threat-homebrew-1851779895)
- - [One Surprising Switch 2 Launch Game Sold Me On The Mouse Controls](https://kotaku.com/nintendo-switch-2-mouse-controls-joycon-bravely-default-1851779935)<!-- GAME:END -->
+ - [Quake finally makes it into the World Videogame Hall of Fame](https://www.pcgamer.com/games/fps/quake-finally-makes-it-into-the-world-videogame-hall-of-fame/)
+ - [The New Pope Plays Video Games](https://kotaku.com/new-pope-american-leo-wordle-words-with-friends-gamer-1851779977)
+ - [Sure, man: The $200 deluxe edition of the Gex Trilogy remaster includes a 3-foot inflatable Gex and box art from legendary illustrator Yoshitaka Amano](https://www.pcgamer.com/games/adventure/sure-man-the-usd200-deluxe-edition-of-the-gex-trilogy-remaster-includes-a-3-foot-inflatable-gex-and-box-art-from-legendary-illustrator-yoshitaka-amano/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
