@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card holders can get six months of Uber One for free](https://appleinsider.com/articles/25/05/08/apple-card-holders-can-get-six-months-of-uber-one-for-free?utm_medium=rss)
- - [Senate hearing: Sam Altman says that requiring government approval to release AI would be &quot;disastrous&quot; for the US&#39; lead in AI, a reversal from his 2023 comments &lpar;Washington Post&rpar;](http://www.techmeme.com/250508/p50#a250508p50)
- - [US Customs and Border Protection Quietly Revokes Protections for Pregnant Women and Infants](https://www.wired.com/story/cbp-rescinds-policies-on-care-of-pregnant-women-infants/)<!-- TECH:END -->
+ - [Narwal Freo Pro robot drops to a new all-time low price!](https://www.androidauthority.com/narwal-freo-pro-robot-vacuum-mop-deal-3555883/)
+ - [Cloudflare reports Q1 revenue up 27% YoY to $479.1M, vs. $469.3M est., and forecasts Q2 revenue of $500M to $501M, vs. $500.4M est.; NET jumps 8%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/250508/p51#a250508p51)
+ - [Apple seeks $144k in legal fees returned after class action kerfuffle](https://appleinsider.com/articles/25/05/08/apple-seeks-144k-in-legal-fees-returned-after-class-action-kerfuffle?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
