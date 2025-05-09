@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cosplayers](http://9gag.com/gag/azxRMVj)
- - ⏩ [Who?](http://9gag.com/gag/ae9m59b)
- - 👉 [The adults responsible for this little kid let her drive a mini car in the middle of the street, leading to some sort of car accident.](http://9gag.com/gag/a1m2rAw)<!-- MEMES:END -->
+ - 💣 [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
+ - ⏩ [Terry crews attempts to recreate Thierry Henry&#39;s smirk lmao...](http://9gag.com/gag/a1m2R3P)
+ - 👉 [The possibilities](http://9gag.com/gag/ae9mrQj)<!-- MEMES:END -->
 
 ---
 
