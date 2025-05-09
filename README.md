@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A fun way of using magnets](http://9gag.com/gag/agm45Wx)
- - ⏩ [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - 👉 [Tigers like `you see this sheet i put up with`](http://9gag.com/gag/abABrPO)<!-- MEMES:END -->
+ - 💣 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
+ - ⏩ [He handled the situation well](http://9gag.com/gag/aByGxv1)
+ - 👉 [Lol](http://9gag.com/gag/a872oGp)<!-- MEMES:END -->
 
 ---
 
