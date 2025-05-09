@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Office Chairs of 2025— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [Gemini Live’s Project Astra features are rolling out more widely. Did you get them yet?](https://www.androidauthority.com/gemini-live-project-astra-features-rolling-out-more-widely-3556053/)
- - [Netgear Orbi 770 Series Review: Wi-Fi 7 Family Harmony](https://www.wired.com/review/netgear-orbi-770-series/)<!-- TECH:END -->
+ - [Leaked document reveals more about Eufy&amp;#8217;s first smart display](https://www.theverge.com/news/664162/anker-eufy-smart-display-e10-security-live-camera-feed)
+ - [Apple acquisitions hint at Apple Intelligence coming to Calendar, and the factory floor](https://appleinsider.com/articles/25/05/09/apple-acquisitions-hint-at-apple-intelligence-coming-to-calendar-and-the-factory-floor?utm_medium=rss)
+ - [Apple Silicon Mac owners can now take full advantage of some Razer hardware](https://appleinsider.com/articles/25/05/09/apple-silicon-mac-owners-can-now-take-full-advantage-of-some-razer-hardware?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
