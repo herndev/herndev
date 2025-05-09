@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How The Ottawa Hospital reduced clinician burnout using Microsoft&#39;s DAX Copilot, which captures conversations with patients via an app and drafts clinical notes &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250509/p3#a250509p3)
- - [Threads adds dashboard to better explain post and account restrictions](https://www.theverge.com/news/664047/threads-account-status-dashboardvideo-ads-test)
- - [An exciting new Switch emulator launches tomorrow — Here’s how to get it](https://www.androidauthority.com/switch-emulator-eden-alpha-3555962/)<!-- TECH:END -->
+ - [Appfigures estimates Apple&#39;s US App Store revenue from commissions was ~$10.1B in 2024, more than doubling from ~$4.76B in 2020 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250509/p4#a250509p4)
+ - [Computer Ban Gave the Government Unfair Advantage in Anti-War Activist’s Case, Lawyer Says](https://www.wired.com/story/computer-ban-unfair-mahmoud-khalil-ice/)
+ - [Miss the S23 Ultra’s 10x camera? This brand could revive it &lpar;and then some&rpar;](https://www.androidauthority.com/new-phone-revive-s23-ultra-10x-camera-3555998/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
