@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A software engineer taught AI to hunt bugs by interfacing an LLM with debugging tools and has released the open source code: &#39;It&#39;s like going from hunting with a stone spear to using a guided missile&#39;](https://www.pcgamer.com/hardware/a-software-engineer-taught-ai-to-hunt-bugs-by-interfacing-an-llm-with-debugging-tools-and-has-released-the-open-source-code-its-like-going-from-hunting-with-a-stone-spear-to-using-a-guided-missile/)
- - [Valve is using Steam Deck&#39;s beta build to test 80% battery limit](https://www.pcgamer.com/hardware/valve-is-using-steam-decks-beta-build-to-test-80-percent-battery-limit/)
- - [Razer&#39;s newest gaming headset goes on your chair instead of your head](https://www.pcgamer.com/hardware/razers-newest-gaming-headset-goes-on-your-chair-instead-of-your-head/)<!-- GAME:END -->
+ - [Trucker takes their gaming rig on the road inside their big rig &#39;and yes, [I] occasionally play Truck Simulator&#39;](https://www.pcgamer.com/hardware/trucker-takes-their-gaming-rig-on-the-road-inside-their-big-rig-and-yes-i-occasionally-play-truck-simulator/)
+ - [This aluminium keyboard feels like it fell straight out of one of my abandoned sci-fi drafts—but thanks to its onboard word counter, I might just finish it now](https://www.pcgamer.com/hardware/gaming-keyboards/this-aluminium-keyboard-feels-like-it-fell-straight-out-of-one-of-my-abandoned-sci-fi-drafts-but-thanks-to-its-onboard-word-counter-i-might-just-finish-it-now/)
+ - [Legions of Helldivers 2 players are currently banging their head against a password terminal, as Arrowhead plays coy with a new reveal](https://www.pcgamer.com/games/third-person-shooter/legions-of-helldivers-2-players-are-currently-banging-their-head-against-a-password-terminal-as-arrowhead-plays-coy-with-a-new-reveal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
