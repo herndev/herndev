@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony finally breaks the silence on WH-1000XM6 launch date!](https://www.androidauthority.com/sony-wh-1000xm6-launch-date-confirmed-3555961/)
- - [Google is bringing automatic passkey upgrades to Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-automatic-passkey-upgrades-android-apk-teardown-3555935/)
- - [Huawei unveiled its first laptop running HarmonyOS 5, after its Windows license for PCs expired in March 2025; the unnamed laptop uses Huawei&#39;s Celia assistant &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250509/p1#a250509p1)<!-- TECH:END -->
+ - [An exciting new Switch emulator launches tomorrow — Here’s how to get it](https://www.androidauthority.com/switch-emulator-eden-alpha-3555962/)
+ - [Japan&#39;s Panasonic says it will cut 10,000 jobs, including 5,000 roles overseas, and book ~$895M in restructuring charges in the current fiscal year &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/250509/p2#a250509p2)
+ - [One UI 8 Watch isn’t out yet, but here’s its new One UI 7-like charging animation &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-one-ui-8-watch-charging-animation-3555951/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
