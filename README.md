@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
- - ⏩ [Terry crews attempts to recreate Thierry Henry&#39;s smirk lmao...](http://9gag.com/gag/a1m2R3P)
- - 👉 [The possibilities](http://9gag.com/gag/ae9mrQj)<!-- MEMES:END -->
+ - 💣 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
+ - ⏩ [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 👉 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)<!-- MEMES:END -->
 
 ---
 
