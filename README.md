@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [So many people had no clue this Google app for managing photos and videos existed!](https://www.androidauthority.com/google-gallery-app-existence-surprise-3555934/)
- - [Surfshark Promo Codes: 87% Off | May 2025](https://www.wired.com/story/surfshark-coupon/)
- - [Today&#39;s Wordle Hints, Answer and Help for May 9, #1420](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-9-1420/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is bringing automatic passkey upgrades to Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-automatic-passkey-upgrades-android-apk-teardown-3555935/)
+ - [Huawei unveiled its first laptop running HarmonyOS 5, after its Windows license for PCs expired in March 2025; the unnamed laptop uses Huawei&#39;s Celia assistant &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250509/p1#a250509p1)
+ - [So many people had no clue this Google app for managing photos and videos existed!](https://www.androidauthority.com/google-gallery-app-existence-surprise-3555934/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
