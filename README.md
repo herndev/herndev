@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
- - ⏩ [Who?](http://9gag.com/gag/ae9m59b)
- - 👉 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)<!-- MEMES:END -->
+ - 💣 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)
+ - ⏩ [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
+ - 👉 [Antonov cloud divider](http://9gag.com/gag/aQzZRE8)<!-- MEMES:END -->
 
 ---
 
