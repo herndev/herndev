@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube could score big with an exclusive NFL streaming first](https://www.androidauthority.com/youtube-nfl-exclusive-game-stream-3556312/)
- - [The Apple iPad A16 hits new record-low price, but only in one color!](https://www.androidauthority.com/apple-ipad-a16-pink-deal-3556302/)
- - [President Claudia Sheinbaum says Mexico is suing Google for ignoring requests not to call the Gulf of Mexico the Gulf of America on Google Maps in the US &lpar;Danai Nesta Kupemba/BBC&rpar;](http://www.techmeme.com/250509/p19#a250509p19)<!-- TECH:END -->
+ - [Forget Audio Overviews — NotebookLM’s next big feat could be generating Video Overviews](https://www.androidauthority.com/notebooklm-video-overviews-3556291/)
+ - [A profile of Gail Slater, the head of the DOJ&#39;s antitrust unit who has become the leader of the MAGA antitrust movement over Big Tech &quot;censorship&quot; concerns &lpar;Nancy Scola/Politico&rpar;](http://www.techmeme.com/250509/p20#a250509p20)
+ - [Deltarune&amp;#8217;s next chapters will launch alongside the Switch 2](https://www.theverge.com/news/664621/deltarune-nintendo-switch-2-launch-time)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
