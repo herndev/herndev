@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony finally breaks the silence on WH-1000XM6 launch date!](https://www.androidauthority.com/sony-wh-1000xm6-launch-date-confirmed-3555961/)
  - [Google is bringing automatic passkey upgrades to Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-automatic-passkey-upgrades-android-apk-teardown-3555935/)
- - [Huawei unveiled its first laptop running HarmonyOS 5, after its Windows license for PCs expired in March 2025; the unnamed laptop uses Huawei&#39;s Celia assistant &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250509/p1#a250509p1)
- - [So many people had no clue this Google app for managing photos and videos existed!](https://www.androidauthority.com/google-gallery-app-existence-surprise-3555934/)<!-- TECH:END -->
+ - [Huawei unveiled its first laptop running HarmonyOS 5, after its Windows license for PCs expired in March 2025; the unnamed laptop uses Huawei&#39;s Celia assistant &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250509/p1#a250509p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
