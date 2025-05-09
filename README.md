@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The possibilities](http://9gag.com/gag/ae9mrQj)
- - ⏩ [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
- - 👉 [Pretty accurate...](http://9gag.com/gag/aryqGDV)<!-- MEMES:END -->
+ - 💣 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
+ - ⏩ [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
+ - 👉 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)<!-- MEMES:END -->
 
 ---
 
