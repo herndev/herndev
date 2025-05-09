@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man, this gonna be the marvel equivalent of snow white lol](http://9gag.com/gag/avyRzKn)
- - ⏩ [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
- - 👉 [Sadge, only billionaires can afford this game :&#39;&lpar;](http://9gag.com/gag/a4P2731)<!-- MEMES:END -->
+ - 💣 [A fun way of using magnets](http://9gag.com/gag/agm45Wx)
+ - ⏩ [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
+ - 👉 [Tigers like `you see this sheet i put up with`](http://9gag.com/gag/abABrPO)<!-- MEMES:END -->
 
 ---
 
