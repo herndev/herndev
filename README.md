@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
+ - 💣 [Man, this gonna be the marvel equivalent of snow white lol](http://9gag.com/gag/avyRzKn)
  - ⏩ [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
- - 👉 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)<!-- MEMES:END -->
+ - 👉 [Sadge, only billionaires can afford this game :&#39;&lpar;](http://9gag.com/gag/a4P2731)<!-- MEMES:END -->
 
 ---
 
