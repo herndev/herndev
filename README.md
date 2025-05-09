@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone fold: All the rumors about Apple&#39;s first foldable, and when it might launch](https://appleinsider.com/articles/25/05/09/iphone-fold-all-the-rumors-about-apples-first-foldable-and-when-it-might-launch?utm_medium=rss)
- - [Trump’s Surgeon General Pick Is Tearing the MAHA Movement Apart](https://www.wired.com/story/casey-means-surgeon-general-trump-rfk-controlled-opposition-vaccine/)
- - [Google agrees to pay $50M to settle a lawsuit accusing it of systemic racial bias against Black employees, covering 4,000+ employees in California and New York &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250509/p13#a250509p13)<!-- TECH:END -->
+ - [Border agents are going to photograph everyone leaving the US by car](https://www.theverge.com/policy/664433/cbp-photos-facial-recognition-travelers-leaving-us)
+ - [Here’s How to Claim Up to $100 in Apple’s Siri Settlement](https://www.wired.com/story/how-to-submit-your-claim-in-apples-95-million-siri-settlement/)
+ - [Don&amp;#8217;t expect to hear about the Outer Wilds team&amp;#8217;s next game for &amp;#8216;years&amp;#8217;](https://www.theverge.com/news/664445/outer-wilds-developer-mobius-digital-new-game)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
