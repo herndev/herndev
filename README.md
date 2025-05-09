@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33’s first patch nerfs Maelle](https://www.polygon.com/gaming/598287/clair-obscur-expedition-33-nerfs-maelle-stendhal-patch)
- - [Blizzard&#39;s Overwatch Team Just Unionized: &#39;What I Want To Protect Most Here Is The People&#39;](https://kotaku.com/overwatch-2-blizzard-team-4-union-microsoft-1851779922)
- - [Should You Feed The Small Bourgeon In Clair Obscur: Expedition 33?](https://kotaku.com/clair-obscur-expedition-33-bourgeon-skin-attack-find-1851779997)<!-- GAME:END -->
+ - [Co-founder of crypto platform Celsius, which went bust with a billion-dollar hole in its finances, sentenced to 12 years in federal prison for &#39;orchestrating one of the biggest frauds in the crypto industry&#39;](https://www.pcgamer.com/gaming-industry/co-founder-of-crypto-platform-celsius-which-went-bust-with-a-billion-dollar-hole-in-its-finances-sentenced-to-12-years-in-federal-prison-for-orchestrating-one-of-the-biggest-frauds-in-the-crypto-industry/)
+ - [Here&#39;s Why Tony Hawk 4&#39;s Career Mode Is Gone In THPS 3+4](https://kotaku.com/tony-hawk-pro-skater-3-4-career-mode-explained-1851780036)
+ - [Pope Leo confirmed as casual gamer](https://www.polygon.com/news/598349/pope-leo-confirmed-casual-gamer-wordle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
