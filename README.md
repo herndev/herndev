@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who?](http://9gag.com/gag/ae9m59b)
- - ⏩ [21st Season](http://9gag.com/gag/aGyAdZX)
- - 👉 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)<!-- MEMES:END -->
+ - 💣 [4 British women took a ride through Senegal](http://9gag.com/gag/aW4bxgd)
+ - ⏩ [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 👉 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)<!-- MEMES:END -->
 
 ---
 
