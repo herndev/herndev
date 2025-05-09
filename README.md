@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discover How You Can Train Like A Real Rider In MotoGP 25 With the New Race Off Modes](https://news.xbox.com/en-us/2025/05/09/motogp-25-new-race-off-modes/)
- - [Overwatch 2 remembers it can collab with videogames outside the Blizzard catalogue, bringing Street Fighter 6 to the battlefield](https://www.pcgamer.com/games/fps/overwatch-2-remembers-it-can-collab-with-videogames-outside-the-blizzard-catalogue-bringing-street-fighter-6-to-the-battlefield/)
- - [How to play Dune: Awakening multiplayer](https://www.pcgamer.com/games/mmo/dune-awakening-multiplayer-crossplay/)<!-- GAME:END -->
+ - [&#39;It was eye-opening&#39;: How a WoW documentary inspired Muscular Dystrophy UK&#39;s Liam Quinn to raise money and build community in the haven of videogames](https://www.pcgamer.com/games/world-of-warcraft/it-was-eye-opening-how-a-wow-documentary-inspired-muscular-dystrophy-uks-liam-quinn-to-raise-money-and-build-community-in-the-haven-of-videogames/)
+ - [The Solution To Nintendo’s Ineffective Battle Against Piracy Isn&#39;t Bricking People&#39;s Switches](https://kotaku.com/nintendo-switch-2-piracy-brick-threat-homebrew-1851779895)
+ - [One Surprising Switch 2 Launch Game Sold Me On The Mouse Controls](https://kotaku.com/nintendo-switch-2-mouse-controls-joycon-bravely-default-1851779935)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
