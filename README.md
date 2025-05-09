@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He handled the situation well](http://9gag.com/gag/aByGxv1)
+ - 💣 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
  - ⏩ [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
- - 👉 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)<!-- MEMES:END -->
+ - 👉 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)<!-- MEMES:END -->
 
 ---
 
