@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - ⏩ [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
- - 👉 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/a872oGp)
+ - ⏩ [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
+ - 👉 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)<!-- MEMES:END -->
 
 ---
 
