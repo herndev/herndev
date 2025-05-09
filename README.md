@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [4 British women took a ride through Senegal](http://9gag.com/gag/aW4bxgd)
- - ⏩ [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 💣 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
+ - ⏩ [It hurts](http://9gag.com/gag/awydojr)
  - 👉 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)<!-- MEMES:END -->
 
 ---
