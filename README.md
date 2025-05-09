@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6&#39;s Delay Has Reportedly Led To Chaos At Other Studios And Publishers](https://kotaku.com/gta-6-delay-bloomberg-chaos-ea-battlefield-publishers-1851780047)
- - [Epic Is Promising Bonus V-Bucks To Fortnite Players Who Buy Directly From Its Store](https://kotaku.com/fortnite-vbucks-epic-store-rewards-ios-apple-app-1851780057)
- - [Dragon Ball Z: Kakarot is getting the first half of Daima in its next DLC](https://www.polygon.com/gaming/598383/dragon-ball-z-kakarot-is-getting-the-first-half-of-daima-in-its-next-dlc)<!-- GAME:END -->
+ - [Finding Humanity in a Mechanical World](https://news.xbox.com/en-us/2025/05/09/finding-humanity-in-a-mechanical-world/)
+ - [&#39;We heard your feedback&#39;: Funcom just reversed course and opened up the Dune: Awakening beta weekend to anyone who preorders the survival MMO](https://www.pcgamer.com/games/survival-crafting/we-heard-your-feedback-funcom-just-reversed-course-and-opened-up-the-dune-awakening-beta-weekend-to-anyone-who-preorders-the-survival-mmo/)
+ - [Andor&#39;s Latest Episodes Are The Best Yet And We Aren&#39;t Ready For It To End](https://kotaku.com/andor-s2-episode-7-8-9-review-vgchat-recap-star-wars-1851780084)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
