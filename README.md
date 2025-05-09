@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/a872oGp)
- - ⏩ [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
- - 👉 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)<!-- MEMES:END -->
+ - 💣 [Who?](http://9gag.com/gag/ae9m59b)
+ - ⏩ [21st Season](http://9gag.com/gag/aGyAdZX)
+ - 👉 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)<!-- MEMES:END -->
 
 ---
 
