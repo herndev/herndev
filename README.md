@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump illegally fires Democrats on Consumer Product Safety Commission](https://www.theverge.com/news/664498/consumer-product-safety-commission-cpsc-trump-firing)
- - [Sonos CEO: ‘We All Feel Really Terrible’ About the Bungled App Update](https://www.wired.com/story/sonos-ceo-tom-conrad-interview/)
- - [Sources: Snowflake challenger ClickHouse is in talks to raise hundreds of millions led by Khosla Ventures at a $6B valuation, triple its valuation from 2021 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250509/p17#a250509p17)<!-- TECH:END -->
+ - [YouTube could score big with an exclusive NFL streaming first](https://www.androidauthority.com/youtube-nfl-exclusive-game-stream-3556312/)
+ - [The Apple iPad A16 hits new record-low price, but only in one color!](https://www.androidauthority.com/apple-ipad-a16-pink-deal-3556302/)
+ - [President Claudia Sheinbaum says Mexico is suing Google for ignoring requests not to call the Gulf of Mexico the Gulf of America on Google Maps in the US &lpar;Danai Nesta Kupemba/BBC&rpar;](http://www.techmeme.com/250509/p19#a250509p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
