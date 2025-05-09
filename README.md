@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finding Humanity in a Mechanical World](https://news.xbox.com/en-us/2025/05/09/finding-humanity-in-a-mechanical-world/)
- - [&#39;We heard your feedback&#39;: Funcom just reversed course and opened up the Dune: Awakening beta weekend to anyone who preorders the survival MMO](https://www.pcgamer.com/games/survival-crafting/we-heard-your-feedback-funcom-just-reversed-course-and-opened-up-the-dune-awakening-beta-weekend-to-anyone-who-preorders-the-survival-mmo/)
- - [Andor&#39;s Latest Episodes Are The Best Yet And We Aren&#39;t Ready For It To End](https://kotaku.com/andor-s2-episode-7-8-9-review-vgchat-recap-star-wars-1851780084)<!-- GAME:END -->
+ - [Randy Pitchford asks fans to &#39;play the game first&#39; before judging Borderlands 4&#39;s new minimap-free HUD](https://www.pcgamer.com/games/fps/randy-pitchford-asks-fans-to-play-the-game-first-before-judging-borderlands-4s-new-minimap-free-hud/)
+ - [Nearly 200 Overwatch developers at Blizzard form a new union: The Overwatch Gamemakers Guild](https://www.pcgamer.com/gaming-industry/nearly-200-overwatch-developers-at-blizzard-form-a-new-union-the-overwatch-gamemakers-guild/)
+ - [Death Stranding 2 sounds like everything I hoped it&#39;d be](https://www.pcgamer.com/games/action/death-stranding-2-sounds-like-everything-i-hoped-itd-be/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
