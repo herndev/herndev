@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
- - ⏩ [Cosplayers](http://9gag.com/gag/azxRMVj)
- - 👉 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)<!-- MEMES:END -->
+ - 💣 [The possibilities](http://9gag.com/gag/ae9mrQj)
+ - ⏩ [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
+ - 👉 [Pretty accurate...](http://9gag.com/gag/aryqGDV)<!-- MEMES:END -->
 
 ---
 
