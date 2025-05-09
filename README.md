@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
- - ⏩ [This is why is taking them so long](http://9gag.com/gag/aLnm09v)
- - 👉 [In and out](http://9gag.com/gag/a342QgN)<!-- MEMES:END -->
+ - 💣 [He handled the situation well](http://9gag.com/gag/aByGxv1)
+ - ⏩ [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
+ - 👉 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)<!-- MEMES:END -->
 
 ---
 
