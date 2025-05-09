@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Honkai: Star Rail 3.3 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-3-3-livestream-codes/)
- - [Oblivion Remastered mod makes being a stealthy murder king easy, boosting your sneak attack damage modifiers from good to Grim Reaper](https://www.pcgamer.com/games/rpg/oblivion-remastered-mod-makes-being-a-stealthy-murder-king-easy-boosting-your-sneak-attack-damage-modifiers-from-good-to-grim-reaper/)
- - [Clair Obscur: Expedition 33&#39;s first patch reveals the sword that was part of a 2 billion nuke build was doubling all damage by mistake](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-first-patch-reveals-the-sword-that-was-part-of-a-4-billion-nuke-build-was-doubling-all-damage-by-mistake/)<!-- GAME:END -->
+ - [MIT researchers debunk one of the greatest misconceptions in science: Eggs are stronger at the sides after all](https://www.pcgamer.com/hardware/mit-researchers-debunk-one-of-the-greatest-misconceptions-in-science-eggs-are-stronger-at-the-sides-after-all/)
+ - [Netflix is reportedly removing Black Mirror: Bandersnatch next week](https://www.polygon.com/news/598247/netflix-removing-black-mirror-bandersnatch)
+ - [John Cena vs. Randy Orton: A Timeline of Their Iconic Feuds](https://kotaku.com/john-cena-randy-orton-backlash-wwe-championship-1851779827)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
