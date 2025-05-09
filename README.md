@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Quake finally makes it into the World Videogame Hall of Fame](https://www.pcgamer.com/games/fps/quake-finally-makes-it-into-the-world-videogame-hall-of-fame/)
- - [The New Pope Plays Video Games](https://kotaku.com/new-pope-american-leo-wordle-words-with-friends-gamer-1851779977)
- - [Sure, man: The $200 deluxe edition of the Gex Trilogy remaster includes a 3-foot inflatable Gex and box art from legendary illustrator Yoshitaka Amano](https://www.pcgamer.com/games/adventure/sure-man-the-usd200-deluxe-edition-of-the-gex-trilogy-remaster-includes-a-3-foot-inflatable-gex-and-box-art-from-legendary-illustrator-yoshitaka-amano/)<!-- GAME:END -->
+ - [Limited-Time Charity Humble Bundle Features 8 Xbox Game Studios Games; Proceeds Benefit Gameheads](https://gameheadsoakland.org/gameheads-xboxhumblebundle/#new_tab)
+ - [This Soulslike Will Respect Your Time, But Rewards You For Playing It Twice](https://kotaku.com/empyreal-soulslike-how-long-to-beat-new-game-plus-1851779993)
+ - [Official PlayStation Podcast Episode 514: 33 and a Third](https://blog.playstation.com/2025/05/09/official-playstation-podcast-episode-514-33-and-a-third/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
