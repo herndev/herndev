@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Co-founder of crypto platform Celsius, which went bust with a billion-dollar hole in its finances, sentenced to 12 years in federal prison for &#39;orchestrating one of the biggest frauds in the crypto industry&#39;](https://www.pcgamer.com/gaming-industry/co-founder-of-crypto-platform-celsius-which-went-bust-with-a-billion-dollar-hole-in-its-finances-sentenced-to-12-years-in-federal-prison-for-orchestrating-one-of-the-biggest-frauds-in-the-crypto-industry/)
- - [Here&#39;s Why Tony Hawk 4&#39;s Career Mode Is Gone In THPS 3+4](https://kotaku.com/tony-hawk-pro-skater-3-4-career-mode-explained-1851780036)
- - [Pope Leo confirmed as casual gamer](https://www.polygon.com/news/598349/pope-leo-confirmed-casual-gamer-wordle)<!-- GAME:END -->
+ - [GTA 6&#39;s Delay Has Reportedly Led To Chaos At Other Studios And Publishers](https://kotaku.com/gta-6-delay-bloomberg-chaos-ea-battlefield-publishers-1851780047)
+ - [Epic Is Promising Bonus V-Bucks To Fortnite Players Who Buy Directly From Its Store](https://kotaku.com/fortnite-vbucks-epic-store-rewards-ios-apple-app-1851780057)
+ - [Dragon Ball Z: Kakarot is getting the first half of Daima in its next DLC](https://www.polygon.com/gaming/598383/dragon-ball-z-kakarot-is-getting-the-first-half-of-daima-in-its-next-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
