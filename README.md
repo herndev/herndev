@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Border agents are going to photograph everyone leaving the US by car](https://www.theverge.com/policy/664433/cbp-photos-facial-recognition-travelers-leaving-us)
- - [Here’s How to Claim Up to $100 in Apple’s Siri Settlement](https://www.wired.com/story/how-to-submit-your-claim-in-apples-95-million-siri-settlement/)
- - [Don&amp;#8217;t expect to hear about the Outer Wilds team&amp;#8217;s next game for &amp;#8216;years&amp;#8217;](https://www.theverge.com/news/664445/outer-wilds-developer-mobius-digital-new-game)<!-- TECH:END -->
+ - [Trump illegally fires Democrats on Consumer Product Safety Commission](https://www.theverge.com/news/664498/consumer-product-safety-commission-cpsc-trump-firing)
+ - [Sonos CEO: ‘We All Feel Really Terrible’ About the Bungled App Update](https://www.wired.com/story/sonos-ceo-tom-conrad-interview/)
+ - [Sources: Snowflake challenger ClickHouse is in talks to raise hundreds of millions led by Khosla Ventures at a $6B valuation, triple its valuation from 2021 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250509/p17#a250509p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
