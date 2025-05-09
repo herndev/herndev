@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple said to use Brazil for lower-tariff iPhones, despite denials](https://appleinsider.com/articles/25/05/09/apple-said-to-use-brazil-for-lower-tariff-iphones-despite-denials?utm_medium=rss)
- - [Epic Games says it has submitted Fortnite to the US App Store for review &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250509/p10#a250509p10)
- - [SF&amp;#8217;s BART expects &amp;#8216;major delays&amp;#8217; after a computer problem ground subways to a halt](https://www.theverge.com/news/664256/sf-bay-area-transit-bart-suspended)<!-- TECH:END -->
+ - [Whoop faces backlash after walking back free hardware upgrade promise](https://www.androidauthority.com/whoop-free-upgrade-backlash-3556183/)
+ - [Amazon slashes 15-inch MacBook Air M4 &lpar;24GB RAM, 512GB SSD&rpar; to record low $1,434](https://appleinsider.com/articles/25/05/09/amazon-slashes-15-inch-macbook-air-m4-24gb-ram-512gb-ssd-to-record-low-1434?utm_medium=rss)
+ - [After everything, Epic Games submits new &#39;Fortnite&#39; to US App Store review](https://appleinsider.com/articles/25/05/09/after-everything-epic-games-submits-new-fortnite-to-us-app-store-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
