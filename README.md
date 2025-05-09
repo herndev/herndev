@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An exciting new Switch emulator launches tomorrow — Here’s how to get it](https://www.androidauthority.com/switch-emulator-eden-alpha-3555962/)
- - [Japan&#39;s Panasonic says it will cut 10,000 jobs, including 5,000 roles overseas, and book ~$895M in restructuring charges in the current fiscal year &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/250509/p2#a250509p2)
- - [One UI 8 Watch isn’t out yet, but here’s its new One UI 7-like charging animation &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-one-ui-8-watch-charging-animation-3555951/)<!-- TECH:END -->
+ - [How The Ottawa Hospital reduced clinician burnout using Microsoft&#39;s DAX Copilot, which captures conversations with patients via an app and drafts clinical notes &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250509/p3#a250509p3)
+ - [Threads adds dashboard to better explain post and account restrictions](https://www.theverge.com/news/664047/threads-account-status-dashboardvideo-ads-test)
+ - [An exciting new Switch emulator launches tomorrow — Here’s how to get it](https://www.androidauthority.com/switch-emulator-eden-alpha-3555962/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
