@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cairo-based Nawy, Africa&#39;s largest proptech platform combining listings with brokerage services, raised a $52M Series A led by Partech Africa &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250512/p2#a250512p2)
- - [$25 Off DoorDash Promo Code | May 2025](https://www.wired.com/story/doordash-promo-code/)
- - [A look at Foresight, an AI model trained on anonymized NHS data from 57M people in England, which could help predict diseases or forecast hospitalization rates &lpar;Alex Wilkins/New Scientist&rpar;](http://www.techmeme.com/250512/p1#a250512p1)<!-- TECH:END -->
+ - [US and China slash tariffs](https://www.theverge.com/news/664811/us-china-pause-tariffs-90-days)
+ - [A profile of HoYoverse, the creator of Genshin Impact, which is exploring new game genres as its titles begin to cannibalize each other and revenue growth slows &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250512/p3#a250512p3)
+ - [Samsung’s ‘backup plan’ for the Galaxy S25 FE should be its main plan](https://www.androidauthority.com/samsung-galaxy-s25-fe-backup-plan-3556489/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
