@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ &amp; Gordon Ramsey cook up &#39;Knife Edge: Chasing Michelin Stars&#39;](https://appleinsider.com/articles/25/05/12/apple-tv-gordon-ramsey-cook-up-knife-edge-chasing-michelin-stars?utm_medium=rss)
- - [Amazon says the ad tier of Prime Video now reaches 130M+ US customers and it plans AI-powered tools for advertisers on Amazon including contextual ad copy &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250512/p15#a250512p15)
- - [Thinking of leaving T-Mobile? Here’s one bill-lowering trick to try first](https://www.androidauthority.com/t-mobile-improved-retention-offers-3556642/)<!-- TECH:END -->
+ - [Two Men Claiming to Be Trump Appointees Blocked From Entering US Copyright Office](https://www.wired.com/story/us-copyright-office-trump-takeover/)
+ - [Hands on with all the new features in iOS 18.5](https://appleinsider.com/articles/25/05/12/hands-on-with-all-the-new-features-in-ios-185?utm_medium=rss)
+ - [Chegg says subs dropped 31% in Q1 to 3.2M; it will lay off 248 employees, or ~22% of its staff, to cut costs as students keep turning to AI tools like ChatGPT &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250512/p18#a250512p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
