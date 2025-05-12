@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How OpenDNS, Cloudflare, and Google responded to EU court orders to block DNS resolution for pirate sites; OpenDNS left France and Belgium instead of complying &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/250511/p14#a250511p14)
  - [Mexico is suing Google over how it&amp;#8217;s labeling the Gulf of Mexico](https://www.theverge.com/news/664796/mexico-lawsuit-google-gulf-of-mexico-america)
- - [A look at &quot;AI-native&quot; startups, which integrate AI into their workflows and team structures, allowing them to operate with fewer employees and consolidate tasks &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250511/p13#a250511p13)
- - [Apple may release a ‘mostly glass, curved iPhone’ in 2027](https://www.theverge.com/news/664776/apple-curved-glass-iphone-2027)<!-- TECH:END -->
+ - [A look at &quot;AI-native&quot; startups, which integrate AI into their workflows and team structures, allowing them to operate with fewer employees and consolidate tasks &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250511/p13#a250511p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
