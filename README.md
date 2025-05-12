@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Android keep up? A flood of Apple devices could be coming in 2027](https://www.androidauthority.com/apple-2027-product-roadmap-3556685/)
- - [CrowdStrike CEO George Kurtz disclosed last month that he had gifted $1B+ worth of CrowdStrike stock to undisclosed recipients, cutting his voting power to 2.5% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250512/p22#a250512p22)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)<!-- TECH:END -->
+ - [Google is updating its &quot;G&quot; icon for the first time in 10 years, with its four colors now blending together on a gradient &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250512/p23#a250512p23)
+ - [Apple turns to AI for battery management in iOS 19](https://appleinsider.com/articles/25/05/12/apple-turns-to-ai-for-battery-management-in-ios-19?utm_medium=rss)
+ - [C1 modem and more: iOS 18.5 introduces more than 30 different security fixes](https://appleinsider.com/articles/25/05/12/c1-modem-and-more-ios-185-introduces-more-than-30-different-security-fixes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
