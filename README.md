@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Killing Floor 3&#39;s new release date is late July](https://www.pcgamer.com/games/fps/killing-floor-3s-new-release-date-is-late-july/)
- - [Today&#39;s Wordle answer for Monday, May 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-12-2025/)
- - [The Last Of Us Season Two, Episode Five Recap: Seeing Red](https://kotaku.com/last-us-season-2-episode-5-recap-ellie-nora-joel-alive-1851780135)<!-- GAME:END -->
+ - [The Gothic 1 Remake demo has been updated based on fan feedback](https://www.pcgamer.com/games/rpg/the-gothic-1-remake-demo-has-been-updated-based-on-fan-feedback/)
+ - [The tower defense comeback continues with Rift Riff, a &#39;remarkably forgiving&#39; game about interdimensional juice raids](https://www.pcgamer.com/games/strategy/the-tower-defense-comeback-continues-with-rift-riff-a-remarkably-forgiving-game-about-interdimensional-juice-raids/)
+ - [Killing Floor 3&#39;s new release date is late July](https://www.pcgamer.com/games/fps/killing-floor-3s-new-release-date-is-late-july/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
