@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gearbox CEO Randy Pitchford spiels about how wonderful Borderlands 4 is going to be, then gets all coy about the price but jokes &#39;maybe we&#39;ll sell you that minimap that you guys want&#39;](https://www.pcgamer.com/games/fps/gearbox-ceo-randy-pitchford-spiels-about-how-wonderful-borderlands-4-is-going-to-be-then-gets-all-coy-about-the-price-but-jokes-maybe-well-sell-you-that-minimap-that-you-guys-want/)
- - [Arctic Freezer 36 review](https://www.pcgamer.com/hardware/cooling/arctic-freezer-36-review/)
- - [Cooler Master Hyper 612 Apex review](https://www.pcgamer.com/hardware/cooling/cooler-master-hyper-612-apex-review/)<!-- GAME:END -->
+ - [Fallout show actor says they know its &#39;endpoint&#39; and it&#39;s sometime in season 5 or 6, which means we&#39;ve still got loads of time to scream at each other about New Vegas](https://www.pcgamer.com/movies-tv/fallout-show-actor-says-they-know-its-endpoint-and-its-some-time-in-season-5-or-6-which-means-weve-still-got-loads-of-time-to-scream-at-each-other-about-new-vegas/)
+ - [Tekken 8 community livid Fahkumram included in Season 2 DLC](https://www.polygon.com/gaming/598496/tekken-8-fahkumram-season-2-dlc-reactions)
+ - [Clair Obscur: Expedition 33&#39;s director got on the RPG train early, playing FF8 &#39;when my brother and I could barely read&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-director-got-on-the-rpg-train-early-playing-ff8-when-my-brother-and-i-could-barely-read/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
