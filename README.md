@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI image-to-video generator launches on Honor’s new phones](https://www.theverge.com/news/664812/google-honor-ai-image-to-video-gemini)
- - [The US and China agree a deal to lower tariffs for the next 90 days, a sign of easing tensions; the US will cut tariffs on Chinese goods to 30% from 145% &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p4#a250512p4)
- - [US and China slash tariffs](https://www.theverge.com/news/664811/us-china-pause-tariffs-90-days)<!-- TECH:END -->
+ - [Google Messages could offer a quick way to free up space in RCS chats &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-video-delete-button-storage-3556509/)
+ - [US lowers tariffs, making retro gaming handhelds affordable again &lpar;for now&rpar;](https://www.androidauthority.com/retro-gaming-handheld-tariff-decrease-3556526/)
+ - [My X Account Was Hijacked to Sell a Fake WIRED Memecoin. Then Came the Backlash](https://www.wired.com/story/wired-memecoin-scam-hacked-x-account/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
