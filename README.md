@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I did.](http://9gag.com/gag/aRBoZ47)
- - ⏩ [Sorry for the Shitstagram logo](http://9gag.com/gag/aW4b7Nq)
- - 👉 [Two types of girls.](http://9gag.com/gag/aPAQm0R)<!-- MEMES:END -->
+ - 💣 [We have a dinosaur tail is preserved in amber..!!](http://9gag.com/gag/abAB4nE)
+ - ⏩ [Two types of girls.](http://9gag.com/gag/aPAQm0R)
+ - 👉 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)<!-- MEMES:END -->
 
 ---
 
