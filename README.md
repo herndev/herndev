@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One day the silicon in this $7000 Asus RTX 5090 will be worthless, but you&#39;ll still have a whole 6 grams of solid gold to make up for it](https://www.pcgamer.com/hardware/graphics-cards/one-day-the-silicon-in-this-usd7000-asus-rtx-5090-will-be-worthless-but-youll-still-have-a-whole-6-grams-of-solid-gold-to-make-up-for-it/)
- - [A Special Delivery from Hell: Xbox and DOOM Team Up with Prince St. Pizza](https://news.xbox.com/en-us/2025/05/12/delivery-from-hell-xbox-doom-team-up-prince-st-pizza/)
- - [Oblivion Remastered has a new texture error, and this one mucks up a gag from the original game](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-has-a-new-texture-error-and-this-one-mucks-up-a-gag-from-the-original-game/)<!-- GAME:END -->
+ - [Lamborghini and Forza Celebrate FH5 Community with the Revuelto Forza Horizon 5 Edition](https://forza.net/news/forza-horizon-5-lamborghini-revuelto)
+ - [Even in early access, Blacksmith Master is a well forged ingot of cozy management and metalwork](https://www.pcgamer.com/games/survival-crafting/even-in-early-access-blacksmith-master-is-a-well-forged-ingot-of-cozy-management-and-metalwork/)
+ - [Ori Studio Head Says Review Bombing Might Force Studio Closure, Then Takes It All Back](https://kotaku.com/ori-moon-studios-no-rest-for-the-wicked-review-mahler-1851780166)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
