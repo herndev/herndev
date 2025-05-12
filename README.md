@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Last Of Us Season Two, Episode Five Recap: Seeing Red](https://kotaku.com/last-us-season-2-episode-5-recap-ellie-nora-joel-alive-1851780135)
  - [Five new Steam games you probably missed &lpar;May 12, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-12-2025/)
- - [REPO devs are making that new Overcharge mechanic kick in later on—alongside other difficulty scaling](https://www.pcgamer.com/games/horror/repo-devs-are-making-that-new-overcharge-mechanic-kick-in-later-on-alongside-other-difficulty-scaling/)
- - [A unique horror strategy game about drilling for oil released on Steam last week](https://www.pcgamer.com/games/strategy/a-unique-horror-strategy-game-about-drilling-for-oil-released-on-steam-last-week/)<!-- GAME:END -->
+ - [REPO devs are making that new Overcharge mechanic kick in later on—alongside other difficulty scaling](https://www.pcgamer.com/games/horror/repo-devs-are-making-that-new-overcharge-mechanic-kick-in-later-on-alongside-other-difficulty-scaling/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
