@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A unique horror strategy game about drilling for oil released on Steam last week](https://www.pcgamer.com/games/strategy/a-unique-horror-strategy-game-about-drilling-for-oil-released-on-steam-last-week/)
- - [There&#39;s another Risk of Rain 2 expansion on the way](https://www.pcgamer.com/games/roguelike/theres-another-risk-of-rain-2-expansion-on-the-way/)
- - [Can&#39;t wait for Dune: Awakening? Play the Dune TTRPG while you wait for just $1 with this Imperium RPG bundle](https://www.pcgamer.com/games/survival-crafting/cant-wait-for-dune-awakening-play-the-dune-ttrpg-while-you-wait-for-just-usd1-with-this-imperium-rpg-bundle/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;May 12, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-12-2025/)
+ - [REPO devs are making that new Overcharge mechanic kick in later on—alongside other difficulty scaling](https://www.pcgamer.com/games/horror/repo-devs-are-making-that-new-overcharge-mechanic-kick-in-later-on-alongside-other-difficulty-scaling/)
+ - [A unique horror strategy game about drilling for oil released on Steam last week](https://www.pcgamer.com/games/strategy/a-unique-horror-strategy-game-about-drilling-for-oil-released-on-steam-last-week/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
