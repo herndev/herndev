@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [We have a dinosaur tail is preserved in amber..!!](http://9gag.com/gag/abAB4nE)
- - ⏩ [Two types of girls.](http://9gag.com/gag/aPAQm0R)
+ - ⏩ [During last meeting with Zelenski in Prague one of Czech diplomates Tom\u00e1\u0161 Kope\u010dn\u00fd has socks with burning Moskva](http://9gag.com/gag/axyR6wn)
  - 👉 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)<!-- MEMES:END -->
 
 ---
