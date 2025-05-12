@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role announces new miniseries for Daggerheart, its custom D&amp;#038;D competitor](https://www.polygon.com/tabletop-games/598608/critical-role-daggerheart-miniseries-age-of-umbra)
- - [Is that Virtua Fighter Ganondorf?](https://www.polygon.com/news/598553/virtua-fighter-6-wolf-ganondorf-vf5-revo-switch-2-ps5)
- - [ThunderX3 Flex Pro Ergonomic Office Chair review](https://www.pcgamer.com/hardware/gaming-chairs/thunderx3-flex-pro-ergonomic-office-chair-review/)<!-- GAME:END -->
+ - [All Elden Ring Nightreign classes and abilities](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-classes/)
+ - [Doom: The Dark Ages: Five Essential Tips For Becoming Unstoppable](https://kotaku.com/doom-the-dark-ages-tips-difficulty-exploration-shield-1851780268)
+ - [This week is a great time to dive into Paradox’s grand strategy games](https://www.polygon.com/gaming/598529/paradox-games-sale-strategy-4x)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
