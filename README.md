@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We have a dinosaur tail is preserved in amber..!!](http://9gag.com/gag/abAB4nE)
- - ⏩ [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)
- - 👉 [What a clown](http://9gag.com/gag/a872Dop)<!-- MEMES:END -->
+ - 💣 [Remember...](http://9gag.com/gag/a9y28qL)
+ - ⏩ [It looks like Venom&#39;s spawn.](http://9gag.com/gag/aoyL4Be)
+ - 👉 [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)<!-- MEMES:END -->
 
 ---
 
