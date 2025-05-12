@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s gone forever](http://9gag.com/gag/avyREgE)
+ - 💣 [Dirty tart](http://9gag.com/gag/a2v2wOY)
  - ⏩ [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
  - 👉 [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)<!-- MEMES:END -->
 
