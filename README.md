@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weird, weird](http://9gag.com/gag/aByG6Vz)
- - ⏩ [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 👉 [Best seat in the house](http://9gag.com/gag/aQzZQE2)<!-- MEMES:END -->
+ - 💣 [Illinois has 24 schools where not a single child can read at grade level.. zero](http://9gag.com/gag/agm4OWw)
+ - ⏩ [Back when Kevin Smith wasn&#39;t woke...](http://9gag.com/gag/aAy2yYo)
+ - 👉 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)<!-- MEMES:END -->
 
 ---
 
