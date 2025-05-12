@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could use AI to help your iPhone save battery](https://www.theverge.com/news/665249/apple-ios-19-update-conserve-iphone-battery-ai)
- - [One of the best budget tablets just plunged to its lowest price of the year](https://www.androidauthority.com/deal-amazon-fire-hd-10-3556807/)
- - [Philips will let you fix your trimmer with 3D printable parts and accessories](https://www.theverge.com/news/665187/philips-fixables-3d-printing-personal-health-trimmer-oneblade-prura-research-printables)<!-- TECH:END -->
+ - [Apple Card promotion offers users 6% cash back on Nike purchases](https://appleinsider.com/articles/25/05/12/apple-card-promotion-offers-users-6-cash-back-on-nike-purchases?utm_medium=rss)
+ - [Duolingo is replacing hearts with energy](https://www.theverge.com/news/665315/duolingo-hearts-energy-system)
+ - [Trump administration announces &amp;#8216;illegal&amp;#8217; rollback of energy and water efficiency standards](https://www.theverge.com/news/665213/energy-efficiency-standards-rollback-trump-doe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
