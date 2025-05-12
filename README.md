@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did Apple get too big for its own good? With Daring Fireball’s John Gruber](https://www.theverge.com/decoder-podcast-with-nilay-patel/664802/apple-app-store-iphone-ios-fortnite-epic-games-lawsuit)
- - [Sonos &amp; Ikea, Matter update, &amp; the smart garden with BirdBuddy on HomeKit Insider](https://appleinsider.com/articles/25/05/12/sonos-ikea-matter-update-the-smart-garden-with-birdbuddy-on-homekit-insider?utm_medium=rss)
- - [US &amp; China pausing tariffs does not end the needless damage being done to consumers and businesses](https://appleinsider.com/articles/25/05/12/us-china-pausing-tariffs-does-not-end-the-needless-damage-being-done-to-consumers-and-businesses?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s spooky &#39;Mac to School&#39; ads highlight must-have Mac features for students](https://appleinsider.com/articles/25/05/12/apples-spooky-mac-to-school-ads-highlight-must-have-mac-features-for-students?utm_medium=rss)
+ - [Don&amp;#8217;t delete that &amp;#8216;Lopez Voice Assistant&amp;#8217; email — it&amp;#8217;s about Apple&amp;#8217;s Siri settlement](https://www.theverge.com/news/664927/lopez-voice-assistant-emails-apple-siri-spying-settlement)
+ - [Apple&#39;s services revenue trajectory more uncertain than ever](https://appleinsider.com/articles/25/05/12/apples-services-revenue-trajectory-more-uncertain-than-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
