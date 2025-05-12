@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [US senator announces a bill requiring geotracking in high-end GPUs to prevent the Chinese government from wielding the ruinous power of your Nvidia RTX 4090](https://www.pcgamer.com/hardware/graphics-cards/us-senator-announces-a-bill-requiring-geotracking-in-high-end-gpus-to-prevent-the-chinese-government-from-wielding-the-ruinous-power-of-your-nvidia-rtx-4090/)
- - [Clair Obscur: Expedition 33&#39;s Most Heinous Challenges Were Inspired By Final Fantasy X](https://kotaku.com/clair-obscur-expedition-33-gestral-final-fantasy-10-1851780358)
- - [Clair Obscur player tanks their way through the entire game without dodging or parrying to prove a point: You can finish it without &#39;gamer reflexes&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-player-tanks-their-way-through-the-entire-game-without-dodging-or-parrying-to-prove-a-point-you-can-finish-it-without-gamer-reflexes/)<!-- GAME:END -->
+ - [Dune: Awakening&#39;s stabby stunlock PvP exploit is being fixed, says Funcom: &#39;We&#39;ve got this covered&#39;](https://www.pcgamer.com/games/survival-crafting/dune-awakenings-stabby-stunlock-pvp-exploit-is-being-fixed-says-funcom-weve-got-this-covered/)
+ - [Oblivion Remastered has an unleveled, legendary sword you can grab right after leaving the starting sewers⁠—just bring a lot of arrows or magicka potions](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-umbra-sword-location-guide/)
+ - [Switch 2 Will Let You Sacrifice Some Playtime To Keep Your Battery Healthy](https://kotaku.com/switch-2-battery-saver-no-full-charge-feature-playtime-1851780359)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
