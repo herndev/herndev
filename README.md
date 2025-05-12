@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That elf guy](http://9gag.com/gag/aPAQm4V)
- - ⏩ [Weird, weird](http://9gag.com/gag/aByG6Vz)
- - 👉 [Wait... What... How was 2024?](http://9gag.com/gag/aO8P8GD)<!-- MEMES:END -->
+ - 💣 [You are better than this!](http://9gag.com/gag/aqyWXgZ)
+ - ⏩ [Would you ride this one?](http://9gag.com/gag/azxR57p)
+ - 👉 [Absolute cinema](http://9gag.com/gag/ayNR3Oq)<!-- MEMES:END -->
 
 ---
 
