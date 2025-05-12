@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two Men Claiming to Be Trump Appointees Blocked From Entering US Copyright Office](https://www.wired.com/story/us-copyright-office-trump-takeover/)
- - [Hands on with all the new features in iOS 18.5](https://appleinsider.com/articles/25/05/12/hands-on-with-all-the-new-features-in-ios-185?utm_medium=rss)
- - [Chegg says subs dropped 31% in Q1 to 3.2M; it will lay off 248 employees, or ~22% of its staff, to cut costs as students keep turning to AI tools like ChatGPT &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250512/p18#a250512p18)<!-- TECH:END -->
+ - [Can Android keep up? A flood of Apple devices could be coming in 2027](https://www.androidauthority.com/apple-2027-product-roadmap-3556685/)
+ - [CrowdStrike CEO George Kurtz disclosed last month that he had gifted $1B+ worth of CrowdStrike stock to undisclosed recipients, cutting his voting power to 2.5% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250512/p22#a250512p22)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
