@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Foresight, an AI model trained on anonymized NHS data from 57M people in England, which could help predict diseases or forecast hospitalization rates &lpar;Alex Wilkins/New Scientist&rpar;](http://www.techmeme.com/250512/p1#a250512p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 12, #231](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-12-231/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, May 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-12/#ftag=CAD590a51e)
- - [How OpenDNS, Cloudflare, and Google responded to EU court orders to block DNS resolution for pirate sites; OpenDNS left France and Belgium instead of complying &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/250511/p14#a250511p14)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, May 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
