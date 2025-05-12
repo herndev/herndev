@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is updating its &quot;G&quot; icon for the first time in 10 years, with its four colors now blending together on a gradient &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250512/p23#a250512p23)
- - [Apple turns to AI for battery management in iOS 19](https://appleinsider.com/articles/25/05/12/apple-turns-to-ai-for-battery-management-in-ios-19?utm_medium=rss)
- - [C1 modem and more: iOS 18.5 introduces more than 30 different security fixes](https://appleinsider.com/articles/25/05/12/c1-modem-and-more-ios-185-introduces-more-than-30-different-security-fixes?utm_medium=rss)<!-- TECH:END -->
+ - [Apple could use AI to help your iPhone save battery](https://www.theverge.com/news/665249/apple-ios-19-update-conserve-iphone-battery-ai)
+ - [One of the best budget tablets just plunged to its lowest price of the year](https://www.androidauthority.com/deal-amazon-fire-hd-10-3556807/)
+ - [Philips will let you fix your trimmer with 3D printable parts and accessories](https://www.theverge.com/news/665187/philips-fixables-3d-printing-personal-health-trimmer-oneblade-prura-research-printables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
