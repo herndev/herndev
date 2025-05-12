@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages could offer a quick way to free up space in RCS chats &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-video-delete-button-storage-3556509/)
- - [US lowers tariffs, making retro gaming handhelds affordable again &lpar;for now&rpar;](https://www.androidauthority.com/retro-gaming-handheld-tariff-decrease-3556526/)
- - [My X Account Was Hijacked to Sell a Fake WIRED Memecoin. Then Came the Backlash](https://www.wired.com/story/wired-memecoin-scam-hacked-x-account/)<!-- TECH:END -->
+ - [Goodbye, emulators: Native GameCube fan ports are now a reality, starting with Mario Party 4](https://www.androidauthority.com/gamecube-mario-party-4-decompilation-3556510/)
+ - [Sources: SoftBank and OpenAI&#39;s $100B Stargate investment hits snags over tariffs fears; talks with dozens of lenders starting earlier in 2025 yielded no deals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250512/p7#a250512p7)
+ - [Google Keep brings text formatting to the web](https://www.theverge.com/news/664857/google-keep-rich-text-formatting-web-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
