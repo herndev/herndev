@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just changed its ‘G’ logo](https://www.theverge.com/news/664958/google-g-logo-gradient-design-change)
- - [The EPA Will Likely Gut Team That Studies Health Risks From Chemicals](https://www.wired.com/story/epa-iris-health-risks-chemicals-nancy-beck/)
- - [Peacock&amp;#8217;s NBA coverage will add an overlay with live shot stats](https://www.theverge.com/news/664513/peacock-nba-basketball-nbc-overlay-scorecard)<!-- TECH:END -->
+ - [Apple TV+ &amp; Gordon Ramsey cook up &#39;Knife Edge: Chasing Michelin Stars&#39;](https://appleinsider.com/articles/25/05/12/apple-tv-gordon-ramsey-cook-up-knife-edge-chasing-michelin-stars?utm_medium=rss)
+ - [Amazon says the ad tier of Prime Video now reaches 130M+ US customers and it plans AI-powered tools for advertisers on Amazon including contextual ad copy &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250512/p15#a250512p15)
+ - [Thinking of leaving T-Mobile? Here’s one bill-lowering trick to try first](https://www.androidauthority.com/t-mobile-improved-retention-offers-3556642/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
