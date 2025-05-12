@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ouch—Warner Bros throws Suicide Squad: Kill the Justice League under the bus in the most corporate way possible, side-eyes it for closed studios and cancelled games](https://www.pcgamer.com/gaming-industry/ouch-warner-bros-throws-suicide-squad-kill-the-justice-league-under-the-bus-in-the-most-corporate-way-possible-side-eyes-it-for-closed-studios-and-cancelled-games/)
- - [Doom: The Dark Ages is unplayable on handheld gaming PCs at the moment but it&#39;s not because the hardware isn&#39;t good enough](https://www.pcgamer.com/hardware/handheld-gaming-pcs/doom-the-dark-ages-is-unplayable-on-handheld-gaming-pcs-at-the-moment-but-its-not-because-the-hardware-isnt-good-enough/)
- - [Doom: The Dark Ages launch times, release date, and advanced access period](https://www.pcgamer.com/games/action/doom-the-dark-ages-launch-time-release-date/)<!-- GAME:END -->
+ - [Trump administration reportedly fires the head of the US Copyright Office as it tries to tackle AI&#39;s use of copyrighted materials](https://www.pcgamer.com/software/ai/trump-administration-reportedly-fires-the-head-of-the-us-copyright-office-as-it-tries-to-tackle-ais-use-of-copyrighted-materials/)
+ - [Bam Margera is officially returning to Tony Hawk Pro Skater 3 + 4 as a Secret Skater](https://www.pcgamer.com/games/sports/bam-margera-is-officially-returning-to-tony-hawk-pro-skater-3-4-as-a-secret-skater/)
+ - [US and China talk it out at Geneva, agreeing to suspend ultra-high tariffs for 90 days, but PC parts don&#39;t seem to be part of the deal](https://www.pcgamer.com/hardware/us-and-china-talk-it-out-at-geneva-agreeing-to-suspend-ultra-high-tariffs-for-90-days-but-pc-parts-dont-seem-to-be-part-of-the-deal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
