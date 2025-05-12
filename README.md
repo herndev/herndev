@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goodbye, emulators: Native GameCube fan ports are now a reality, starting with Mario Party 4](https://www.androidauthority.com/gamecube-mario-party-4-decompilation-3556510/)
- - [Sources: SoftBank and OpenAI&#39;s $100B Stargate investment hits snags over tariffs fears; talks with dozens of lenders starting earlier in 2025 yielded no deals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250512/p7#a250512p7)
- - [Google Keep brings text formatting to the web](https://www.theverge.com/news/664857/google-keep-rich-text-formatting-web-app)<!-- TECH:END -->
+ - [Indigenous scientists are fighting to protect their data — and their culture](https://www.theverge.com/features/664282/indigenous-data-sovereignty-native-trump-musk-dei)
+ - [Apple&#39;s India imports to the U.S. doubled during April tariff trouble](https://appleinsider.com/articles/25/05/12/apples-india-imports-to-the-us-doubled-during-april-tariff-trouble?utm_medium=rss)
+ - [Israeli quantum computing startup Classiq raised a $110M Series C led by Entree Capital, taking its total funding to $173M since its 2020 founding &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250512/p10#a250512p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
