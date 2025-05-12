@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember...](http://9gag.com/gag/a9y28qL)
- - ⏩ [It looks like Venom&#39;s spawn.](http://9gag.com/gag/aoyL4Be)
- - 👉 [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)<!-- MEMES:END -->
+ - 💣 [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)
+ - ⏩ [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)
+ - 👉 [Remember...](http://9gag.com/gag/a9y28qL)<!-- MEMES:END -->
 
 ---
 
