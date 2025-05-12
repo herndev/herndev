@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ticketmaster announces it will now show the full price of your ticket up front, ahead of the FTC&#39;s ban on junk fees, which goes into effect on May 12 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250512/p29#a250512p29)
  - [Apple Card promotion offers users 6% cash back on Nike purchases](https://appleinsider.com/articles/25/05/12/apple-card-promotion-offers-users-6-cash-back-on-nike-purchases?utm_medium=rss)
- - [Duolingo is replacing hearts with energy](https://www.theverge.com/news/665315/duolingo-hearts-energy-system)
- - [Trump administration announces &amp;#8216;illegal&amp;#8217; rollback of energy and water efficiency standards](https://www.theverge.com/news/665213/energy-efficiency-standards-rollback-trump-doe)<!-- TECH:END -->
+ - [Duolingo is replacing hearts with energy](https://www.theverge.com/news/665315/duolingo-hearts-energy-system)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
