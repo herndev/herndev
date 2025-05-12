@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ouch—Warner Bros throws Suicide Squad: Kill the Justice League under the bus in the most corporate way possible, side-eyes it for closed studios and cancelled games](https://www.pcgamer.com/gaming-industry/ouch-warner-bros-throws-suicide-squad-kill-the-justice-league-under-the-bus-in-the-most-corporate-way-possible-side-eyes-it-for-closed-studios-and-cancelled-games/)
  - [Doom: The Dark Ages is unplayable on handheld gaming PCs at the moment but it&#39;s not because the hardware isn&#39;t good enough](https://www.pcgamer.com/hardware/handheld-gaming-pcs/doom-the-dark-ages-is-unplayable-on-handheld-gaming-pcs-at-the-moment-but-its-not-because-the-hardware-isnt-good-enough/)
- - [Doom: The Dark Ages launch times, release date, and advanced access period](https://www.pcgamer.com/games/action/doom-the-dark-ages-launch-time-release-date/)
- - [The Gothic 1 Remake demo has been updated based on fan feedback](https://www.pcgamer.com/games/rpg/the-gothic-1-remake-demo-has-been-updated-based-on-fan-feedback/)<!-- GAME:END -->
+ - [Doom: The Dark Ages launch times, release date, and advanced access period](https://www.pcgamer.com/games/action/doom-the-dark-ages-launch-time-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
