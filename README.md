@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
- - ⏩ [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
- - 👉 [I think I downloaded the wrong version of the Office](http://9gag.com/gag/aPAQPNQ)<!-- MEMES:END -->
+ - 💣 [New Mexico Police Use Non-Lethal Force to Disarm Armed Boys, 7 and 9](http://9gag.com/gag/aByG6Lz)
+ - ⏩ [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
+ - 👉 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)<!-- MEMES:END -->
 
 ---
 
