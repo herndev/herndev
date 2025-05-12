@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried out Notion Mail but am switching back to Gmail — here’s why](https://www.androidauthority.com/gmail-vs-notion-mail-3556029/)
- - [Hansker Productivity Vertical Gaming Mouse Review: Super Ergonomics](https://www.wired.com/review/hansker-productivity-vertical-gaming-mouse/)
- - [Apple’s Murderbot series is goofy sci-fi with a side of existential crisis](https://www.theverge.com/tv-reviews/664090/murderbot-season-1-review-apple-tv-plus)<!-- TECH:END -->
+ - [Did Apple get too big for its own good? With Daring Fireball’s John Gruber](https://www.theverge.com/decoder-podcast-with-nilay-patel/664802/apple-app-store-iphone-ios-fortnite-epic-games-lawsuit)
+ - [Sonos &amp; Ikea, Matter update, &amp; the smart garden with BirdBuddy on HomeKit Insider](https://appleinsider.com/articles/25/05/12/sonos-ikea-matter-update-the-smart-garden-with-birdbuddy-on-homekit-insider?utm_medium=rss)
+ - [US &amp; China pausing tariffs does not end the needless damage being done to consumers and businesses](https://appleinsider.com/articles/25/05/12/us-china-pausing-tariffs-does-not-end-the-needless-damage-being-done-to-consumers-and-businesses?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
