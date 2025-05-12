@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;re not imagining things: Oblivion Remastered&#39;s standard difficulty is way too easy, a single step up is insanely frustrating, and one modder has the math to prove it](https://www.pcgamer.com/games/the-elder-scrolls/youre-not-imagining-things-oblivion-remastereds-standard-difficulty-is-way-too-easy-a-single-step-up-is-insanely-frustrating-and-one-modder-has-the-math-to-prove-it/)
- - [Nintendo look away: Palworld and other creature collecting games are cheap on Steam right now](https://www.pcgamer.com/software/platforms/steam-creature-collector-sale-palworld/)
- - [Grab These Excellent Upgrades First In Doom: The Dark Ages](https://kotaku.com/doom-the-dark-ages-upgrades-shotgun-flail-pulverizer-1851780282)<!-- GAME:END -->
+ - [Cookie Run: Kingdom codes for May 2025](https://www.polygon.com/guides/598560/cookie-run-kingdom-codes)
+ - [Fans Prepare To Mod The Hell Out Of Stellar Blade After PC Release Date Leaks](https://kotaku.com/stellar-blade-pc-release-date-mods-dlc-nier-outfits-1851780336)
+ - [Pokémon Go ‘Crown Clash’ event guide](https://www.polygon.com/pokemon-go-guide/598654/crown-clash-event-collection-challenge-nidoking-nidoqueen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
