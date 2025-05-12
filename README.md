@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget Audio Overviews — NotebookLM’s next big feat could be generating Video Overviews](https://www.androidauthority.com/notebooklm-video-overviews-3556291/)
- - [A profile of Gail Slater, the head of the DOJ&#39;s antitrust unit who has become the leader of the MAGA antitrust movement over Big Tech &quot;censorship&quot; concerns &lpar;Nancy Scola/Politico&rpar;](http://www.techmeme.com/250509/p20#a250509p20)
- - [Deltarune&amp;#8217;s next chapters will launch alongside the Switch 2](https://www.theverge.com/news/664621/deltarune-nintendo-switch-2-launch-time)<!-- TECH:END -->
+ - [Mexico is suing Google over how it&amp;#8217;s labeling the Gulf of Mexico](https://www.theverge.com/news/664796/mexico-lawsuit-google-gulf-of-mexico-america)
+ - [A look at &quot;AI-native&quot; startups, which integrate AI into their workflows and team structures, allowing them to operate with fewer employees and consolidate tasks &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250511/p13#a250511p13)
+ - [Apple may release a ‘mostly glass, curved iPhone’ in 2027](https://www.theverge.com/news/664776/apple-curved-glass-iphone-2027)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
