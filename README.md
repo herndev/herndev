@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are better than this!](http://9gag.com/gag/aqyWXgZ)
- - ⏩ [Would you ride this one?](http://9gag.com/gag/azxR57p)
- - 👉 [Absolute cinema](http://9gag.com/gag/ayNR3Oq)<!-- MEMES:END -->
+ - 💣 [Weird, weird](http://9gag.com/gag/aByG6Vz)
+ - ⏩ [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
+ - 👉 [Best seat in the house](http://9gag.com/gag/aQzZQE2)<!-- MEMES:END -->
 
 ---
 
