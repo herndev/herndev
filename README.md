@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indigenous scientists are fighting to protect their data — and their culture](https://www.theverge.com/features/664282/indigenous-data-sovereignty-native-trump-musk-dei)
- - [Apple&#39;s India imports to the U.S. doubled during April tariff trouble](https://appleinsider.com/articles/25/05/12/apples-india-imports-to-the-us-doubled-during-april-tariff-trouble?utm_medium=rss)
- - [Israeli quantum computing startup Classiq raised a $110M Series C led by Entree Capital, taking its total funding to $173M since its 2020 founding &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250512/p10#a250512p10)<!-- TECH:END -->
+ - [I tried out Notion Mail but am switching back to Gmail — here’s why](https://www.androidauthority.com/gmail-vs-notion-mail-3556029/)
+ - [Hansker Productivity Vertical Gaming Mouse Review: Super Ergonomics](https://www.wired.com/review/hansker-productivity-vertical-gaming-mouse/)
+ - [Apple’s Murderbot series is goofy sci-fi with a side of existential crisis](https://www.theverge.com/tv-reviews/664090/murderbot-season-1-review-apple-tv-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
