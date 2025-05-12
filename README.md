@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Randy Pitchford asks fans to &#39;play the game first&#39; before judging Borderlands 4&#39;s new minimap-free HUD](https://www.pcgamer.com/games/fps/randy-pitchford-asks-fans-to-play-the-game-first-before-judging-borderlands-4s-new-minimap-free-hud/)
- - [Nearly 200 Overwatch developers at Blizzard form a new union: The Overwatch Gamemakers Guild](https://www.pcgamer.com/gaming-industry/nearly-200-overwatch-developers-at-blizzard-form-a-new-union-the-overwatch-gamemakers-guild/)
- - [Death Stranding 2 sounds like everything I hoped it&#39;d be](https://www.pcgamer.com/games/action/death-stranding-2-sounds-like-everything-i-hoped-itd-be/)<!-- GAME:END -->
+ - [A unique horror strategy game about drilling for oil released on Steam last week](https://www.pcgamer.com/games/strategy/a-unique-horror-strategy-game-about-drilling-for-oil-released-on-steam-last-week/)
+ - [There&#39;s another Risk of Rain 2 expansion on the way](https://www.pcgamer.com/games/roguelike/theres-another-risk-of-rain-2-expansion-on-the-way/)
+ - [Can&#39;t wait for Dune: Awakening? Play the Dune TTRPG while you wait for just $1 with this Imperium RPG bundle](https://www.pcgamer.com/games/survival-crafting/cant-wait-for-dune-awakening-play-the-dune-ttrpg-while-you-wait-for-just-usd1-with-this-imperium-rpg-bundle/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
