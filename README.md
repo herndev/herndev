@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Mexico Police Use Non-Lethal Force to Disarm Armed Boys, 7 and 9](http://9gag.com/gag/aByG6Lz)
- - ⏩ [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
- - 👉 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)<!-- MEMES:END -->
+ - 💣 [Looking at you Big 4.](http://9gag.com/gag/azxRPom)
+ - ⏩ [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
+ - 👉 [I did.](http://9gag.com/gag/aRBoZ47)<!-- MEMES:END -->
 
 ---
 
