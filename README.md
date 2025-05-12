@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Elden Ring Nightreign classes and abilities](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-classes/)
- - [Doom: The Dark Ages: Five Essential Tips For Becoming Unstoppable](https://kotaku.com/doom-the-dark-ages-tips-difficulty-exploration-shield-1851780268)
- - [This week is a great time to dive into Paradox’s grand strategy games](https://www.polygon.com/gaming/598529/paradox-games-sale-strategy-4x)<!-- GAME:END -->
+ - [Play Together Your Way – Lost Twins 2 Co-Op Demo is Out Now on Xbox](https://news.xbox.com/en-us/2025/05/12/lost-twins-2-co-op-demo-is-out-now/)
+ - [Switch 2 has a new charging setting to preserve your battery’s life](https://www.polygon.com/nintendo-switch-2/598661/switch-2-battery-charging-settings-nintendo-today)
+ - [Tony Hawk Also Wants Activision To Remake Underground](https://kotaku.com/tony-hawk-underground-thug-remake-remaster-activision-1851780287)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
