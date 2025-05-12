@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This girl is so precious](http://9gag.com/gag/a2v20vO)
- - ⏩ [Join me on my quest](http://9gag.com/gag/aMVvBjW)
- - 👉 [B*tch STFU](http://9gag.com/gag/ae9mO6Q)<!-- MEMES:END -->
+ - 💣 [I did.](http://9gag.com/gag/aRBoZ47)
+ - ⏩ [Sorry for the Shitstagram logo](http://9gag.com/gag/aW4b7Nq)
+ - 👉 [Two types of girls.](http://9gag.com/gag/aPAQm0R)<!-- MEMES:END -->
 
 ---
 
