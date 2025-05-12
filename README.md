@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looking at you Big 4.](http://9gag.com/gag/azxRPom)
- - ⏩ [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
- - 👉 [I did.](http://9gag.com/gag/aRBoZ47)<!-- MEMES:END -->
+ - 💣 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
+ - ⏩ [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)
+ - 👉 [Two types of girls.](http://9gag.com/gag/aPAQm0R)<!-- MEMES:END -->
 
 ---
 
