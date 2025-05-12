@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dirty tart](http://9gag.com/gag/a2v2wOY)
- - ⏩ [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
- - 👉 [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)<!-- MEMES:END -->
+ - 💣 [This video made me order an air purifier instantly](http://9gag.com/gag/a7o20vz)
+ - ⏩ [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
+ - 👉 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)<!-- MEMES:END -->
 
 ---
 
