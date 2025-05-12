@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)
- - ⏩ [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
- - 👉 [Antonov cloud divider](http://9gag.com/gag/aQzZRE8)<!-- MEMES:END -->
+ - 💣 [Aye on point](http://9gag.com/gag/a872A03)
+ - ⏩ [Looking at you Big 4.](http://9gag.com/gag/azxRPom)
+ - 👉 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)<!-- MEMES:END -->
 
 ---
 
