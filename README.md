@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lamborghini and Forza Celebrate FH5 Community with the Revuelto Forza Horizon 5 Edition](https://forza.net/news/forza-horizon-5-lamborghini-revuelto)
- - [Even in early access, Blacksmith Master is a well forged ingot of cozy management and metalwork](https://www.pcgamer.com/games/survival-crafting/even-in-early-access-blacksmith-master-is-a-well-forged-ingot-of-cozy-management-and-metalwork/)
- - [Ori Studio Head Says Review Bombing Might Force Studio Closure, Then Takes It All Back](https://kotaku.com/ori-moon-studios-no-rest-for-the-wicked-review-mahler-1851780166)<!-- GAME:END -->
+ - [Gearbox CEO Randy Pitchford spiels about how wonderful Borderlands 4 is going to be, then gets all coy about the price but jokes &#39;maybe we&#39;ll sell you that minimap that you guys want&#39;](https://www.pcgamer.com/games/fps/gearbox-ceo-randy-pitchford-spiels-about-how-wonderful-borderlands-4-is-going-to-be-then-gets-all-coy-about-the-price-but-jokes-maybe-well-sell-you-that-minimap-that-you-guys-want/)
+ - [Arctic Freezer 36 review](https://www.pcgamer.com/hardware/cooling/arctic-freezer-36-review/)
+ - [Cooler Master Hyper 612 Apex review](https://www.pcgamer.com/hardware/cooling/cooler-master-hyper-612-apex-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
