@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cookie Run: Kingdom codes for May 2025](https://www.polygon.com/guides/598560/cookie-run-kingdom-codes)
- - [Fans Prepare To Mod The Hell Out Of Stellar Blade After PC Release Date Leaks](https://kotaku.com/stellar-blade-pc-release-date-mods-dlc-nier-outfits-1851780336)
- - [Pokémon Go ‘Crown Clash’ event guide](https://www.polygon.com/pokemon-go-guide/598654/crown-clash-event-collection-challenge-nidoking-nidoqueen)<!-- GAME:END -->
+ - [US senator announces a bill requiring geotracking in high-end GPUs to prevent the Chinese government from wielding the ruinous power of your Nvidia RTX 4090](https://www.pcgamer.com/hardware/graphics-cards/us-senator-announces-a-bill-requiring-geotracking-in-high-end-gpus-to-prevent-the-chinese-government-from-wielding-the-ruinous-power-of-your-nvidia-rtx-4090/)
+ - [Clair Obscur: Expedition 33&#39;s Most Heinous Challenges Were Inspired By Final Fantasy X](https://kotaku.com/clair-obscur-expedition-33-gestral-final-fantasy-10-1851780358)
+ - [Clair Obscur player tanks their way through the entire game without dodging or parrying to prove a point: You can finish it without &#39;gamer reflexes&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-player-tanks-their-way-through-the-entire-game-without-dodging-or-parrying-to-prove-a-point-you-can-finish-it-without-gamer-reflexes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
