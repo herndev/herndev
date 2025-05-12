@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This video made me order an air purifier instantly](http://9gag.com/gag/a7o20vz)
- - ⏩ [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
- - 👉 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)<!-- MEMES:END -->
+ - 💣 [This girl is so precious](http://9gag.com/gag/a2v20vO)
+ - ⏩ [Join me on my quest](http://9gag.com/gag/aMVvBjW)
+ - 👉 [B*tch STFU](http://9gag.com/gag/ae9mO6Q)<!-- MEMES:END -->
 
 ---
 
