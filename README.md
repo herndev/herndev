@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looking at you Big 4.](http://9gag.com/gag/azxRPom)
+ - 💣 [It&#39;s gone forever](http://9gag.com/gag/avyREgE)
  - ⏩ [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
- - 👉 [I did.](http://9gag.com/gag/aRBoZ47)<!-- MEMES:END -->
+ - 👉 [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)<!-- MEMES:END -->
 
 ---
 
