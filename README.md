@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What kind of model is this](http://9gag.com/gag/aO8PPOv)
- - ⏩ [Gotta love New York.](http://9gag.com/gag/aND4Q5G)
+ - 💣 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)
+ - ⏩ [Do you like goth girls?](http://9gag.com/gag/aVvLL38)
  - 👉 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)<!-- MEMES:END -->
 
 ---
