@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)
- - ⏩ [Now that&#39;s a rare insult](http://9gag.com/gag/aND4VEA)
- - 👉 [Men doing his thing](http://9gag.com/gag/aryq3DB)<!-- MEMES:END -->
+ - ⏩ [Men doing his thing](http://9gag.com/gag/aryq3DB)
+ - 👉 [Remember...](http://9gag.com/gag/a9y28qL)<!-- MEMES:END -->
 
 ---
 
