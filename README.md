@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US SEC Chair Paul Atkins says blockchains could enable novel securities use cases and &quot;policymaking will no longer result from ad hoc enforcement actions&quot; &lpar;Christopher Tepedino/Cointelegraph&rpar;](http://www.techmeme.com/250512/p34#a250512p34)
- - [Sony ups its camera game with the launch of the Xperia 1 VII](https://www.androidauthority.com/sony-xperia-1-vii-launch-3555834/)
- - [Galaxy S25 Edge hands-on: the thin design is a breath of fresh air, sturdy, many specs match other S25 phones, but has a 3,900 mAh battery vs. S25&#39;s 4,000 mAh &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/250512/p33#a250512p33)<!-- TECH:END -->
+ - [How to add, remove, and configure Mail accounts in iPadOS 18](https://appleinsider.com/articles/25/05/13/how-to-add-remove-and-configure-mail-accounts-in-ipados-18?utm_medium=rss)
+ - [Fitbit’s AI experiments just leveled up with 3 new health tracking features](https://www.androidauthority.com/fitbit-labs-medical-record-navigator-symptom-checker-unusual-trends-3556924/)
+ - [US SEC Chair Paul Atkins says blockchains could enable novel securities use cases and &quot;policymaking will no longer result from ad hoc enforcement actions&quot; &lpar;Christopher Tepedino/Cointelegraph&rpar;](http://www.techmeme.com/250512/p34#a250512p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
