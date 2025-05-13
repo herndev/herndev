@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM says new battery chemistry will enable 400-mile range EVs](https://www.theverge.com/news/665223/gm-lmr-ev-battery-chemistry-range-miles)
- - [Nvidia CEO Jensen Huang says the company will send AI chips to Saudi Arabia&#39;s Humain for a 500 MW data center buildout, as President Trump visits the kingdom &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p19#a250513p19)
- - [Why one obscure app could help crumble Meta’s empire](https://www.theverge.com/antitrust/665308/meta-ftc-antitrust-trial-market-definition-tiktok-mewe-snap)<!-- TECH:END -->
+ - [This new USB-C dock will allow any Apple Silicon Mac to connect 5 4K displays](https://appleinsider.com/articles/25/05/13/this-new-usb-c-dock-will-allow-any-apple-silicon-mac-to-connect-5-4k-displays?utm_medium=rss)
+ - [Apple will add App Store accessibility labels and new support for brain interface controls](https://www.theverge.com/news/665439/apple-accessibility-updates-ios-macos-vision-pro)
+ - [Right now you can get the Motorola Razr 2025 for free: No long-term commitment required](https://www.androidauthority.com/free-motorola-razr-3557135/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
