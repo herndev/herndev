@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout season 2 teaser trailer confirms a December release, and drives the point home that we&#39;re going to New Vegas](https://www.pcgamer.com/games/fallout/fallout-season-2-teaser-trailer-confirms-a-december-release-and-drives-the-point-home-that-were-going-to-new-vegas/)
- - [Today&#39;s Wordle answer for Tuesday, May 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-13-2025/)
- - [Philips opens official library of 3D printable components to public](https://www.pcgamer.com/hardware/philips-opens-official-library-of-3d-printable-components-to-public/)<!-- GAME:END -->
+ - [This $24 Lucky Miner USB stick is a 210.7 trillion-to-one lottery ticket where the prize is a single BTC](https://www.pcgamer.com/hardware/this-usd24-lucky-miner-usb-stick-is-a-210-7-trillion-to-one-lottery-ticket-where-the-prize-is-a-single-btc/)
+ - [Celebrate 100 years of quantum mechanics by learning about quantum computing](https://www.pcgamer.com/hardware/celebrate-100-years-of-quantum-mechanics-by-learning-about-quantum-computing/)
+ - [Can Sandygast be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/598611/can-sandygast-be-shiny-palossand)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
