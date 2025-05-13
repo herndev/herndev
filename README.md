@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new USB-C dock will allow any Apple Silicon Mac to connect 5 4K displays](https://appleinsider.com/articles/25/05/13/this-new-usb-c-dock-will-allow-any-apple-silicon-mac-to-connect-5-4k-displays?utm_medium=rss)
- - [Apple will add App Store accessibility labels and new support for brain interface controls](https://www.theverge.com/news/665439/apple-accessibility-updates-ios-macos-vision-pro)
- - [Right now you can get the Motorola Razr 2025 for free: No long-term commitment required](https://www.androidauthority.com/free-motorola-razr-3557135/)<!-- TECH:END -->
+ - [Valve will soon let you know if a game is compatible with your SteamOS device](https://www.theverge.com/news/665860/valve-steamos-compatibility-system-rating)
+ - [Apple Music&#39;s Sound Therapy is designed to help you focus and sleep](https://appleinsider.com/articles/25/05/13/apple-musics-sound-therapy-is-designed-to-help-you-focus-and-sleep?utm_medium=rss)
+ - [Prepare for a scam gold rush with the App Store changes](https://appleinsider.com/articles/25/05/13/prepare-for-a-scam-gold-rush-with-the-app-store-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
