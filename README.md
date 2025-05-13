@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hogwarts Legacy, Civilization 7, And More Reveal $10 Upgrade Fees For Switch 2 Improvements](https://kotaku.com/switch-2-upgrade-pack-hogwarts-legacy-civ-7-1851780505)
  - [A Minecraft Movie Is Launching for Home Entertainment!](https://www.minecraft.net/article/a-minecraft-movie-digital%20#new_tab)
- - [A Beginner&#39;s Guide To Mastering Sciel In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-sciel-foretell-twilight-1851780506)
- - [Hogwarts Legacy, Civilization 7, And More Reveal $10 Switch 2 Upgrade Fees](https://kotaku.com/switch-2-upgrade-pack-hogwarts-legacy-civ-7-1851780505)<!-- GAME:END -->
+ - [A Minecraft Movie is out on digital so now your kid can throw popcorn around the living room instead of the theater when the chicken jockey shows up](https://www.pcgamer.com/movies-tv/a-minecraft-movie-is-out-on-digital-so-now-your-kid-can-throw-popcorn-around-the-living-room-instead-of-the-theater-when-the-chicken-jockey-shows-up/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
