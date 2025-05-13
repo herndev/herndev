@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xperia 1 VII is a greatest hits of Sony R&amp;#038;D](https://www.theverge.com/news/665068/sony-xperia-1-vii-alpha-bravia-walkman-release-date-price-specs)
- - [The 24 Best Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)
- - [One UI 8 could let you listen to your Now Brief &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-listen-brief-now-brief-apk-teardown-3556952/)<!-- TECH:END -->
+ - [Google Messages is getting @mentions and we’ve got an early look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-mentions-first-look-3556976/)
+ - [Trump reduces tax on cheap imports from China](https://www.theverge.com/news/665541/trump-reduces-tax-on-cheap-imports-from-china)
+ - [The Xperia 1 VII is a greatest hits of Sony R&amp;#038;D](https://www.theverge.com/news/665068/sony-xperia-1-vii-alpha-bravia-walkman-release-date-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
