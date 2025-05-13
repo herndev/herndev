@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [14 TV Shows Of 2025 You Need To Watch](https://kotaku.com/andor-severance-black-mirror-daredevil-best-tv-shows-1851779606)
- - [The Very Best Cosplay From LVL UP Expo 2025](https://kotaku.com/cosplay-gallery-marvel-rivals-chicken-jockey-lvl-up-1851780221)
- - [Palworld’s next big update is a Terraria collab — something Pokémon would never do](https://www.polygon.com/news/598779/palworlds-tides-of-terraria-update)<!-- GAME:END -->
+ - [RTX 5060 retail listings spotted at Best Buy but I hope they&#39;re a placeholder as only one is at MSRP](https://www.pcgamer.com/hardware/graphics-cards/rtx-5060-retail-listings-spotted-at-best-buy-but-i-hope-theyre-a-placeholder-as-only-one-is-at-msrp/)
+ - [Fallout Season 2 Marches Toward New Vegas As It Teases December Release](https://kotaku.com/fallout-season-2-trailer-new-vegas-season-3-ghoul-lucy-1851780416)
+ - [OpenAI CEO whines to Congress about pesky regulations, once more insists the tech&#39;s impact will be &#39;as big as the internet, maybe bigger&#39;](https://www.pcgamer.com/software/ai/openai-ceo-whines-to-congress-about-pesky-regulations-once-more-insists-the-techs-impact-will-be-as-big-as-the-internet-maybe-bigger/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
