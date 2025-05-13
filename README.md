@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Philips opens official library of 3D printable components to public](https://www.pcgamer.com/hardware/philips-opens-official-library-of-3d-printable-components-to-public/)
  - [&#39;Too many games let their players succeed&#39; says developer of notoriously tough survival RPG Kenshi, and &#39;that&#39;s mind-numbingly boring to me&#39;](https://www.pcgamer.com/games/survival-crafting/too-many-games-let-their-players-succeed-says-developer-of-notoriously-tough-survival-rpg-kenshi-and-thats-mind-numbingly-boring-to-me/)
- - [The SteamOS era is imminent: Valve adds a new compatibility rating for games that’ll run on ‘any device that’s not a Steam Deck’](https://www.pcgamer.com/software/platforms/steamos-compatibility-rating-valve-steam-deck-handhelds/)
- - [Dune: Awakening&#39;s stabby stunlock PvP exploit is being fixed, says Funcom: &#39;We&#39;ve got this covered&#39;](https://www.pcgamer.com/games/survival-crafting/dune-awakenings-stabby-stunlock-pvp-exploit-is-being-fixed-says-funcom-weve-got-this-covered/)<!-- GAME:END -->
+ - [The SteamOS era is imminent: Valve adds a new compatibility rating for games that’ll run on ‘any device that’s not a Steam Deck’](https://www.pcgamer.com/software/platforms/steamos-compatibility-rating-valve-steam-deck-handhelds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
