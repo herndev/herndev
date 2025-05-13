@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RTX 5060 retail listings spotted at Best Buy but I hope they&#39;re a placeholder as only one is at MSRP](https://www.pcgamer.com/hardware/graphics-cards/rtx-5060-retail-listings-spotted-at-best-buy-but-i-hope-theyre-a-placeholder-as-only-one-is-at-msrp/)
- - [Fallout Season 2 Marches Toward New Vegas As It Teases December Release](https://kotaku.com/fallout-season-2-trailer-new-vegas-season-3-ghoul-lucy-1851780416)
- - [OpenAI CEO whines to Congress about pesky regulations, once more insists the tech&#39;s impact will be &#39;as big as the internet, maybe bigger&#39;](https://www.pcgamer.com/software/ai/openai-ceo-whines-to-congress-about-pesky-regulations-once-more-insists-the-techs-impact-will-be-as-big-as-the-internet-maybe-bigger/)<!-- GAME:END -->
+ - [Fallout renewed for season 3 but has ‘season 6 type of endpoint’](https://www.polygon.com/entertainment/598806/fallout-tv-season-2-premier-date-how-many-seasons)
+ - [OG Infinity Ward dev says Call of Duty&#39;s gone the way of The Simpsons: &#39;It kind of feels like they&#39;ve run out of ideas at times&#39;](https://www.pcgamer.com/games/call-of-duty/og-infinity-ward-dev-says-call-of-dutys-gone-the-way-of-the-simpsons-it-kind-of-feels-like-theyve-run-out-of-ideas-at-times/)
+ - [Forget the Tarrasque—tabletop&#39;s biggest bad is now the biblically accurate Bristle Boar, a horrifying Pathfinder 2e monster that only exists because of a typo](https://www.pcgamer.com/games/rpg/forget-the-tarrasque-tabletops-biggest-bad-is-now-the-biblically-accurate-bristle-boar-a-horrifying-pathfinder-2e-monster-that-only-exists-because-of-a-typo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
