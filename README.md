@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One UI 8 could let you listen to your Now Brief &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-listen-brief-now-brief-apk-teardown-3556952/)
  - [Google Messages missing contact photos? You’re not alone](https://www.androidauthority.com/google-messages-contact-photo-bug-3556802/)
- - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Samsung Messages was going to die — but now, big updates are coming! &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-messages-live-location-sharing-reactions-birthday-reminders-3556944/)<!-- TECH:END -->
+ - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
