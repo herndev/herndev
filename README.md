@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI is skipping the US with its most advanced drone yet](https://www.theverge.com/tech/665418/dji-mavic-4-pro-no-us-launch-specs-price-release-date)
- - [Restaurant tech startup Owner.com, which offers AI website building, marketing, and other tools raised $120M co-led by Meritech and Headline at a $1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250513/p10#a250513p10)
- - [Samsung could pull an Apple and drop its Plus flagship for a thin and expensive one](https://www.androidauthority.com/samsung-ditch-galaxy-s26-plus-for-s26-edge-3557017/)<!-- TECH:END -->
+ - [Dallas-based Bestow, which offers underwriting and insurance software to carriers, raised a $120M Series D led by Goldman Sachs and Smith Point Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250513/p16#a250513p16)
+ - [Apple previews new accessibility tools coming to iOS 19, visionOS 3, macOS 16](https://appleinsider.com/articles/25/05/13/apple-previews-new-accessibility-tools-coming-to-ios-19-visionos-3-macos-16?utm_medium=rss)
+ - [Sony Bravia Theater System 6 Review: Great Performance, Odd Design](https://www.wired.com/review/sony-bravia-theater-system-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
