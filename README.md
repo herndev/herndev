@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Jessica Jones is coming back to the MCU in Daredevil: Born Again](https://www.polygon.com/tv/599010/daredevil-born-again-season-2-jessica-jones-marvel)
  - [10 million Monster Hunter Wilds sales helped Capcom post its 8th consecutive year of record profits](https://www.pcgamer.com/gaming-industry/10-million-monster-hunter-wilds-sales-helped-capcom-post-its-8th-consecutive-year-of-record-profits/)
- - [Marvel Rivals is breaking its original battle pass out of the vault for a limited time](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-breaking-its-original-battle-pass-out-of-the-vault-for-a-limited-time/)
- - [Happy 20-year anniversary, Leeroy Jenkins!](https://www.polygon.com/culture/598971/wow-20-year-anniversary-leeroy-jenkins-world-of-warcraft)<!-- GAME:END -->
+ - [Marvel Rivals is breaking its original battle pass out of the vault for a limited time](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-breaking-its-original-battle-pass-out-of-the-vault-for-a-limited-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
