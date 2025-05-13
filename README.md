@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hack the brain](http://9gag.com/gag/aMVvn7P)
- - ⏩ [You never know...](http://9gag.com/gag/aryqX70)
- - 👉 [Remember...](http://9gag.com/gag/a9y28qL)<!-- MEMES:END -->
+ - 💣 [What kind of model is this](http://9gag.com/gag/aO8PPOv)
+ - ⏩ [Gotta love New York.](http://9gag.com/gag/aND4Q5G)
+ - 👉 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)<!-- MEMES:END -->
 
 ---
 
