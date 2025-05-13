@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve&amp;#8217;s SteamOS now has compatibility ratings for devices other than Steam Decks](https://www.polygon.com/hardware/598822/valves-steamos-now-has-compatibility-ratings-for-devices-other-than-steam-decks)
- - [Charting the GTA 6 map: Vice City, Ambrosia, and everything in between](https://www.pcgamer.com/games/grand-theft-auto/gta6-map/)
- - [Where To Find Every &#39;Village Of Khalim&#39; Collectible In Doom: The Dark Ages](https://kotaku.com/doom-dark-ages-village-khalim-collectibles-toy-codex-1851780316)<!-- GAME:END -->
+ - [Microsoft is firing 3% of its staff, totalling just under 7,000 employees](https://www.pcgamer.com/software/operating-systems/microsoft-is-firing-3-percent-of-its-staff-totalling-just-under-7-000-employees/)
+ - [Marvel Rivals Season 0 Battle Pass is available for a limited time](https://www.polygon.com/gaming/598890/marvel-rivals-season-0-battle-pass-is-available-for-a-limited-time)
+ - [Google&#39;s logo has changed, and if the past&#39;s any indication, this might be the most expensive gaussian blur in history](https://www.pcgamer.com/gaming-industry/googles-logo-has-changed-and-if-historys-any-indication-this-might-be-the-most-expensive-gaussian-blur-in-history/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
