@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)
- - ⏩ [Do you like goth girls?](http://9gag.com/gag/aVvLL38)
- - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
+ - 💣 [Reality check](http://9gag.com/gag/amoMMxv)
+ - ⏩ [Where did i saw something like this?](http://9gag.com/gag/aryqxW6)
+ - 👉 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)<!-- MEMES:END -->
 
 ---
 
