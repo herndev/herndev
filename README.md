@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve will soon let you know if a game is compatible with your SteamOS device](https://www.theverge.com/news/665860/valve-steamos-compatibility-system-rating)
- - [Apple Music&#39;s Sound Therapy is designed to help you focus and sleep](https://appleinsider.com/articles/25/05/13/apple-musics-sound-therapy-is-designed-to-help-you-focus-and-sleep?utm_medium=rss)
- - [Prepare for a scam gold rush with the App Store changes](https://appleinsider.com/articles/25/05/13/prepare-for-a-scam-gold-rush-with-the-app-store-changes?utm_medium=rss)<!-- TECH:END -->
+ - [Gemini is coming to Google TV later this year, but the Google TV Streamer has to wait](https://www.androidauthority.com/gemini-on-google-tv-release-timeline-device-availability-3556477/)
+ - [Google adds UWB support to its rebranded Find Hub tracker app](https://www.theverge.com/news/665754/google-uwb-find-hub-rebrand-find-my-device-moto-tag)
+ - [ESPN&amp;#8217;s standalone streaming app launches this fall for $30 a month](https://www.theverge.com/news/666019/espn-standalone-subscription-service-price-disney-plus-hulu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
