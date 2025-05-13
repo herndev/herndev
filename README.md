@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We cannot take any more Sexy Flame Atronach posts&#39;: The Oblivion community is hornyposting so hard about the remaster&#39;s Atronachs that the game&#39;s subreddit had to ban it](https://www.pcgamer.com/games/the-elder-scrolls/we-cannot-take-any-more-sexy-flame-atronach-posts-the-oblivion-community-is-hornyposting-so-hard-about-the-remasters-atronachs-that-the-games-subreddit-had-to-ban-it/)
- - [Final Fantasy 14 vocalist says he&#39;s &#39;so thankful&#39; that composer Masayoshi Soken is &#39;still here and still with us&#39; after battling cancer](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-vocalist-says-hes-so-thankful-that-composer-masayoshi-soken-is-still-here-and-still-with-us-after-battling-cancer/)
- - [&#39;Multiple crises&#39; in Nvidia&#39;s supply chain may see &#39;prices increase across the board&#39; for its GPU partners, making your chances of ever getting an MSRP card pretty damned low](https://www.pcgamer.com/hardware/graphics-cards/multiple-crises-in-nvidias-supply-chain-may-see-prices-increase-across-the-board-for-its-gpu-partners-making-your-chances-of-ever-getting-an-msrp-card-pretty-damned-low/)<!-- GAME:END -->
+ - [14 TV Shows Of 2025 You Need To Watch](https://kotaku.com/andor-severance-black-mirror-daredevil-best-tv-shows-1851779606)
+ - [The Very Best Cosplay From LVL UP Expo 2025](https://kotaku.com/cosplay-gallery-marvel-rivals-chicken-jockey-lvl-up-1851780221)
+ - [Palworld’s next big update is a Terraria collab — something Pokémon would never do](https://www.polygon.com/news/598779/palworlds-tides-of-terraria-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
