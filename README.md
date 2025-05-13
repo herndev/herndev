@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dallas-based Bestow, which offers underwriting and insurance software to carriers, raised a $120M Series D led by Goldman Sachs and Smith Point Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250513/p16#a250513p16)
- - [Apple previews new accessibility tools coming to iOS 19, visionOS 3, macOS 16](https://appleinsider.com/articles/25/05/13/apple-previews-new-accessibility-tools-coming-to-ios-19-visionos-3-macos-16?utm_medium=rss)
- - [Sony Bravia Theater System 6 Review: Great Performance, Odd Design](https://www.wired.com/review/sony-bravia-theater-system-6/)<!-- TECH:END -->
+ - [GM says new battery chemistry will enable 400-mile range EVs](https://www.theverge.com/news/665223/gm-lmr-ev-battery-chemistry-range-miles)
+ - [Nvidia CEO Jensen Huang says the company will send AI chips to Saudi Arabia&#39;s Humain for a 500 MW data center buildout, as President Trump visits the kingdom &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p19#a250513p19)
+ - [Why one obscure app could help crumble Meta’s empire](https://www.theverge.com/antitrust/665308/meta-ftc-antitrust-trial-market-definition-tiktok-mewe-snap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
