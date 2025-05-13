@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where To Find Every &#39;Hebeth&#39; Collectible In Doom: The Dark Ages](https://kotaku.com/doom-dark-ages-hebeth-collectibles-toy-codex-secret-1851780487)
- - [Sinners Is The First Original Film To Achieve This Box Office Milestone In Nearly A Decade](https://kotaku.com/sinners-box-office-original-live-action-200-million-1851780478)
- - [This Factorio-ish sim is threatening to devour hours of my time, and I haven&#39;t even gotten to the part where I make my own starships yet](https://www.pcgamer.com/games/sim/this-factorio-ish-sim-is-threatening-to-devour-hours-of-my-time-and-i-havent-even-gotten-to-the-part-where-i-make-my-own-starships-yet/)<!-- GAME:END -->
+ - [A Minecraft Movie Is Launching for Home Entertainment!](https://www.minecraft.net/article/a-minecraft-movie-digital%20#new_tab)
+ - [A Beginner&#39;s Guide To Mastering Sciel In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-sciel-foretell-twilight-1851780506)
+ - [Hogwarts Legacy, Civilization 7, And More Reveal $10 Switch 2 Upgrade Fees](https://kotaku.com/switch-2-upgrade-pack-hogwarts-legacy-civ-7-1851780505)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
