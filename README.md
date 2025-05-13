@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2026 BMW iX is a best-case-scenario EV](https://www.theverge.com/bmw/665908/2026-bmw-ix-first-drive-refresh-pricing-specs)
- - [Airbnb revamps its app with a Services section featuring personal chefs, trainers, hair stylists, and more; bookings can be made without vacation reservations &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250513/p39#a250513p39)
- - [Airbnb&amp;#8217;s new app has all of your vacation extras in one place](https://www.theverge.com/news/666191/airbnb-new-app-services-experiences)<!-- TECH:END -->
+ - [Valve is making it easier to tell if a game will run on your Steam OS handheld](https://www.androidauthority.com/steam-os-compatibility-rating-3557322/)
+ - [TikTok will let you use an AI prompt to turn a photo into a video](https://www.theverge.com/news/666268/tiktok-ai-alive-prompt-photo-image-video)
+ - [The FCC will investigate EchoStar&#39;s compliance with requirements to build a nationwide 5G network and EchoStar&#39;s use of spectrum, sought by SpaceX and others &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p44#a250513p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
