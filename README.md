@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is getting @mentions and we’ve got an early look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-mentions-first-look-3556976/)
- - [Trump reduces tax on cheap imports from China](https://www.theverge.com/news/665541/trump-reduces-tax-on-cheap-imports-from-china)
- - [The Xperia 1 VII is a greatest hits of Sony R&amp;#038;D](https://www.theverge.com/news/665068/sony-xperia-1-vii-alpha-bravia-walkman-release-date-price-specs)<!-- TECH:END -->
+ - [Dealroom.co: content licensing and data marketplace startups like Pip Labs and ProRata have raised $215M since 2022 to help artists sell content for AI training &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250513/p3#a250513p3)
+ - [US lowers tariffs, but retro gamers are still getting a raw deal &lpar;Update&rpar;](https://www.androidauthority.com/retro-gaming-handheld-tariff-decrease-3556526/)
+ - [SoftBank reports Q4 net profit up 124% YoY to ~$3.5B, a surprise profit and above a ~$182M loss est., due to improving valuations of Alibaba, T-Mobile, and more &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250513/p2#a250513p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
