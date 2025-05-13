@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s pregame Tony Gilroy and Diego Luna’s May 13 Andor livestream Q&amp;#038;A](https://www.polygon.com/star-wars/598764/andor-tony-gilroy-diego-luna-season-2-livestream-where-to-watch)
- - [5,000 pixels per inch, beyond 8K and 15,000 nits: Samsung&#39;s new OLED for VR headsets sounds completely bananas](https://www.pcgamer.com/hardware/gaming-monitors/5-000-pixels-per-inch-beyond-8k-and-15-000-nits-samsungs-new-oled-for-vr-headsets-sounds-completely-bananas/)
- - [Helldivers 2: Illuminate set sights on Super Earth, new enemy types deployed](https://blog.playstation.com/2025/05/13/helldivers-2-illuminate-set-sights-on-super-earth-new-enemy-types-deployed/)<!-- GAME:END -->
+ - [&#39;We cannot take any more Sexy Flame Atronach posts&#39;: The Oblivion community is hornyposting so hard about the remaster&#39;s Atronachs that the game&#39;s subreddit had to ban it](https://www.pcgamer.com/games/the-elder-scrolls/we-cannot-take-any-more-sexy-flame-atronach-posts-the-oblivion-community-is-hornyposting-so-hard-about-the-remasters-atronachs-that-the-games-subreddit-had-to-ban-it/)
+ - [Final Fantasy 14 vocalist says he&#39;s &#39;so thankful&#39; that composer Masayoshi Soken is &#39;still here and still with us&#39; after battling cancer](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-vocalist-says-hes-so-thankful-that-composer-masayoshi-soken-is-still-here-and-still-with-us-after-battling-cancer/)
+ - [&#39;Multiple crises&#39; in Nvidia&#39;s supply chain may see &#39;prices increase across the board&#39; for its GPU partners, making your chances of ever getting an MSRP card pretty damned low](https://www.pcgamer.com/hardware/graphics-cards/multiple-crises-in-nvidias-supply-chain-may-see-prices-increase-across-the-board-for-its-gpu-partners-making-your-chances-of-ever-getting-an-msrp-card-pretty-damned-low/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
