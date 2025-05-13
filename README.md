@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve is making it easier to tell if a game will run on your Steam OS handheld](https://www.androidauthority.com/steam-os-compatibility-rating-3557322/)
- - [TikTok will let you use an AI prompt to turn a photo into a video](https://www.theverge.com/news/666268/tiktok-ai-alive-prompt-photo-image-video)
- - [The FCC will investigate EchoStar&#39;s compliance with requirements to build a nationwide 5G network and EchoStar&#39;s use of spectrum, sought by SpaceX and others &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p44#a250513p44)<!-- TECH:END -->
+ - [Google says it is testing an &quot;AI Mode&quot; button on the Search homepage, replacing the &quot;I&#39;m Feeling Lucky&quot; button, with Labs users &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250513/p46#a250513p46)
+ - [Catch a record price drop on the Spigen GaN III 140W USB-C wall charger](https://www.androidauthority.com/spigen-gan-iii-wall-charger-deal-3557371/)
+ - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
