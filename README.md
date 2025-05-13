@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ticketmaster announces it will now show the full price of your ticket up front, ahead of the FTC&#39;s ban on junk fees, which goes into effect on May 12 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250512/p29#a250512p29)
- - [Apple Card promotion offers users 6% cash back on Nike purchases](https://appleinsider.com/articles/25/05/12/apple-card-promotion-offers-users-6-cash-back-on-nike-purchases?utm_medium=rss)
- - [Duolingo is replacing hearts with energy](https://www.theverge.com/news/665315/duolingo-hearts-energy-system)<!-- TECH:END -->
+ - [After using the Galaxy S25 Edge, I have one word on the brain: ‘Frankenstein’](https://www.androidauthority.com/samsung-galaxy-s25-edge-hands-on-3556744/)
+ - [Samsung’s S25 Edge is a thin phone with two big tradeoffs](https://www.theverge.com/samsung/664844/samsung-galaxy-s25-edge-thin-phone-price-release-date-impressions)
+ - [Fallout’s second season premieres in December and will be followed by a third](https://www.theverge.com/news/665484/fallout-amazon-prime-video-season-2-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
