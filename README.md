@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [AI experts are calling for safety calculations akin to Compton&#39;s A-bomb tests before releasing Artificial Super Intelligences upon humanity](https://www.pcgamer.com/hardware/ai-experts-are-calling-for-safety-calculations-akin-to-comptons-a-bomb-tests-before-releasing-artificial-super-intelligences-upon-humanity/)
  - [This $24 Lucky Miner USB stick is a 210.7 trillion-to-one lottery ticket where the prize is a single BTC](https://www.pcgamer.com/hardware/this-usd24-lucky-miner-usb-stick-is-a-210-7-trillion-to-one-lottery-ticket-where-the-prize-is-a-single-btc/)
- - [Celebrate 100 years of quantum mechanics by learning about quantum computing](https://www.pcgamer.com/hardware/celebrate-100-years-of-quantum-mechanics-by-learning-about-quantum-computing/)
- - [Can Sandygast be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/598611/can-sandygast-be-shiny-palossand)<!-- GAME:END -->
+ - [Celebrate 100 years of quantum mechanics by learning about quantum computing](https://www.pcgamer.com/hardware/celebrate-100-years-of-quantum-mechanics-by-learning-about-quantum-computing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
