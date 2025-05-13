@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dealroom.co: content licensing and data marketplace startups like Pip Labs and ProRata have raised $215M since 2022 to help artists sell content for AI training &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250513/p3#a250513p3)
- - [US lowers tariffs, but retro gamers are still getting a raw deal &lpar;Update&rpar;](https://www.androidauthority.com/retro-gaming-handheld-tariff-decrease-3556526/)
- - [SoftBank reports Q4 net profit up 124% YoY to ~$3.5B, a surprise profit and above a ~$182M loss est., due to improving valuations of Alibaba, T-Mobile, and more &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250513/p2#a250513p2)<!-- TECH:END -->
+ - [Samsung finally made a super-thin flagship — but is thin enough?](https://www.androidauthority.com/samsung-finally-made-a-super-thin-flagship-but-is-thin-enough-3557043/)
+ - [Apple TV+ &amp; Gordon Ramsay cook up &#39;Knife Edge: Chasing Michelin Stars&#39;](https://appleinsider.com/articles/25/05/12/apple-tv-gordon-ramsey-cook-up-knife-edge-chasing-michelin-stars?utm_medium=rss)
+ - [Sources: investors in US chipmaker Wolfspeed offered ~$600M to refinance a large convertible bond coming due in 2026, to pre-empt a potential bankruptcy filing &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/250513/p7#a250513p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
