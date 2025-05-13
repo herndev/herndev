@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Check mate, Zelensky.](http://9gag.com/gag/a9y22NL)
- - ⏩ [What&#39;s this ,a house for ants ?](http://9gag.com/gag/a1m222R)
- - 👉 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)<!-- MEMES:END -->
+ - 💣 [What&#39;s this ,a house for ants ?](http://9gag.com/gag/a1m222R)
+ - ⏩ [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)
+ - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
 
 ---
 
