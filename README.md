@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung finally made a super-thin flagship — but is thin enough?](https://www.androidauthority.com/samsung-finally-made-a-super-thin-flagship-but-is-thin-enough-3557043/)
- - [Apple TV+ &amp; Gordon Ramsay cook up &#39;Knife Edge: Chasing Michelin Stars&#39;](https://appleinsider.com/articles/25/05/12/apple-tv-gordon-ramsey-cook-up-knife-edge-chasing-michelin-stars?utm_medium=rss)
- - [Sources: investors in US chipmaker Wolfspeed offered ~$600M to refinance a large convertible bond coming due in 2026, to pre-empt a potential bankruptcy filing &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/250513/p7#a250513p7)<!-- TECH:END -->
+ - [DJI is skipping the US with its most advanced drone yet](https://www.theverge.com/tech/665418/dji-mavic-4-pro-no-us-launch-specs-price-release-date)
+ - [Restaurant tech startup Owner.com, which offers AI website building, marketing, and other tools raised $120M co-led by Meritech and Headline at a $1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250513/p10#a250513p10)
+ - [Samsung could pull an Apple and drop its Plus flagship for a thin and expensive one](https://www.androidauthority.com/samsung-ditch-galaxy-s26-plus-for-s26-edge-3557017/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
