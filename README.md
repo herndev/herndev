@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)
  - ⏩ [Do you like goth girls?](http://9gag.com/gag/aVvLL38)
- - 👉 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)<!-- MEMES:END -->
+ - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
 
 ---
 
