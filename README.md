@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s this ,a house for ants ?](http://9gag.com/gag/a1m222R)
- - ⏩ [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)
+ - 💣 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)
+ - ⏩ [Doble kill!!!](http://9gag.com/gag/a7o2VzL)
  - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
 
 ---
