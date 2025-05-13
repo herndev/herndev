@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini is coming to Google TV later this year, but the Google TV Streamer has to wait](https://www.androidauthority.com/gemini-on-google-tv-release-timeline-device-availability-3556477/)
- - [Google adds UWB support to its rebranded Find Hub tracker app](https://www.theverge.com/news/665754/google-uwb-find-hub-rebrand-find-my-device-moto-tag)
- - [ESPN&amp;#8217;s standalone streaming app launches this fall for $30 a month](https://www.theverge.com/news/666019/espn-standalone-subscription-service-price-disney-plus-hulu)<!-- TECH:END -->
+ - [Google will add Gemini to Wear OS 6, Android Auto, Google TV, and Android XR later this year &lpar;Guemmy Kim/The Keyword&rpar;](http://www.techmeme.com/250513/p34#a250513p34)
+ - [Slack brings ‘Mark as Read’ button to notifications on Android to save you some time](https://www.androidauthority.com/slack-mark-as-read-notification-button-3557261/)
+ - [PayPal reportedly launches iPhone NFC payments in Germany, after the EU&#39;s DMA forced Apple to open up &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250513/p33#a250513p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
