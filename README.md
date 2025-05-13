@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After using the Galaxy S25 Edge, I have one word on the brain: ‘Frankenstein’](https://www.androidauthority.com/samsung-galaxy-s25-edge-hands-on-3556744/)
- - [Samsung’s S25 Edge is a thin phone with two big tradeoffs](https://www.theverge.com/samsung/664844/samsung-galaxy-s25-edge-thin-phone-price-release-date-impressions)
- - [Fallout’s second season premieres in December and will be followed by a third](https://www.theverge.com/news/665484/fallout-amazon-prime-video-season-2-3)<!-- TECH:END -->
+ - [Galaxy S25 Edge hands-on: the thin design is a breath of fresh air, sturdy, many specs match other S25 phones, but has a 3,900 mAh battery vs. S25&#39;s 4,000 mAh &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/250512/p33#a250512p33)
+ - [Samsung Galaxy S25 Edge is here: Banger or bust?](https://www.androidauthority.com/samsung-galaxy-s25-edge-poll-3556546/)
+ - [Theom, which helps businesses safeguard and track sensitive data, raised a $20M Series A led by Wing VC, after an oversubscribed $16.4M seed round in late 2022 &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/250512/p32#a250512p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
