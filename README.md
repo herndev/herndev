@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft is firing 3% of its staff, totalling just under 7,000 employees](https://www.pcgamer.com/software/operating-systems/microsoft-is-firing-3-percent-of-its-staff-totalling-just-under-7-000-employees/)
- - [Marvel Rivals Season 0 Battle Pass is available for a limited time](https://www.polygon.com/gaming/598890/marvel-rivals-season-0-battle-pass-is-available-for-a-limited-time)
- - [Google&#39;s logo has changed, and if the past&#39;s any indication, this might be the most expensive gaussian blur in history](https://www.pcgamer.com/gaming-industry/googles-logo-has-changed-and-if-historys-any-indication-this-might-be-the-most-expensive-gaussian-blur-in-history/)<!-- GAME:END -->
+ - [Where To Find Every &#39;Hebeth&#39; Collectible In Doom: The Dark Ages](https://kotaku.com/doom-dark-ages-hebeth-collectibles-toy-codex-secret-1851780487)
+ - [Sinners Is The First Original Film To Achieve This Box Office Milestone In Nearly A Decade](https://kotaku.com/sinners-box-office-original-live-action-200-million-1851780478)
+ - [This Factorio-ish sim is threatening to devour hours of my time, and I haven&#39;t even gotten to the part where I make my own starships yet](https://www.pcgamer.com/games/sim/this-factorio-ish-sim-is-threatening-to-devour-hours-of-my-time-and-i-havent-even-gotten-to-the-part-where-i-make-my-own-starships-yet/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
