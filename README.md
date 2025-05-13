@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it is testing an &quot;AI Mode&quot; button on the Search homepage, replacing the &quot;I&#39;m Feeling Lucky&quot; button, with Labs users &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250513/p46#a250513p46)
- - [Catch a record price drop on the Spigen GaN III 140W USB-C wall charger](https://www.androidauthority.com/spigen-gan-iii-wall-charger-deal-3557371/)
- - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)<!-- TECH:END -->
+ - [WhatsApp v. NSO Group: NSO kept targeting WhatsApp users even after Meta sued, it spent $59M on R&amp;D in 2024, and its customers pay ~$3M-$30M to use Pegasus &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250513/p48#a250513p48)
+ - [The wireless GameCube controller for Switch 2 is available to preorder now](https://www.theverge.com/tech/666302/gamecube-switch-2-nintendo-preorder-buy)
+ - [PayPal&#39;s &#39;Tap To Pay&#39; contactless payment feature is now available to iPhone users in Germany](https://appleinsider.com/articles/25/05/13/paypals-tap-to-pay-contactless-payment-feature-is-now-available-to-iphone-users-in-germany?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
