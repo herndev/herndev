@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hack the brain](http://9gag.com/gag/aMVvn7P)
- - ⏩ [So do I](http://9gag.com/gag/agm488n)
- - 👉 [Remember...](http://9gag.com/gag/a9y28qL)<!-- MEMES:END -->
+ - 💣 [So do I](http://9gag.com/gag/agm488n)
+ - ⏩ [Hack the brain](http://9gag.com/gag/aMVvn7P)
+ - 👉 [You never know...](http://9gag.com/gag/aryqX70)<!-- MEMES:END -->
 
 ---
 
