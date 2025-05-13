@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will add Gemini to Wear OS 6, Android Auto, Google TV, and Android XR later this year &lpar;Guemmy Kim/The Keyword&rpar;](http://www.techmeme.com/250513/p34#a250513p34)
- - [Slack brings ‘Mark as Read’ button to notifications on Android to save you some time](https://www.androidauthority.com/slack-mark-as-read-notification-button-3557261/)
- - [PayPal reportedly launches iPhone NFC payments in Germany, after the EU&#39;s DMA forced Apple to open up &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250513/p33#a250513p33)<!-- TECH:END -->
+ - [The 2026 BMW iX is a best-case-scenario EV](https://www.theverge.com/bmw/665908/2026-bmw-ix-first-drive-refresh-pricing-specs)
+ - [Airbnb revamps its app with a Services section featuring personal chefs, trainers, hair stylists, and more; bookings can be made without vacation reservations &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250513/p39#a250513p39)
+ - [Airbnb&amp;#8217;s new app has all of your vacation extras in one place](https://www.theverge.com/news/666191/airbnb-new-app-services-experiences)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
