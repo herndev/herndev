@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp v. NSO Group: NSO kept targeting WhatsApp users even after Meta sued, it spent $59M on R&amp;D in 2024, and its customers pay ~$3M-$30M to use Pegasus &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250513/p48#a250513p48)
- - [The wireless GameCube controller for Switch 2 is available to preorder now](https://www.theverge.com/tech/666302/gamecube-switch-2-nintendo-preorder-buy)
- - [PayPal&#39;s &#39;Tap To Pay&#39; contactless payment feature is now available to iPhone users in Germany](https://appleinsider.com/articles/25/05/13/paypals-tap-to-pay-contactless-payment-feature-is-now-available-to-iphone-users-in-germany?utm_medium=rss)<!-- TECH:END -->
+ - [DJI said Mavic 4 Pro wouldn’t launch in US but these stores are selling it anyhow](https://www.theverge.com/drone/666425/dji-mavic-4-pro-on-sale-preorder-adorama-bh-photo)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [Trump&#39;s acting replacements for the Copyright Office are known to be unfriendly to the tech industry and not the kind of people that AI proponents would support &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/250513/p49#a250513p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
