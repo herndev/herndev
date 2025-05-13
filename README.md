@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Latest News](http://9gag.com/gag/aAy24Lo)
- - ⏩ [Need code for further research.](http://9gag.com/gag/aXPWWe2)
- - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
+ - 💣 [Need code for further research.](http://9gag.com/gag/aXPWWe2)
+ - ⏩ [Are you ready?](http://9gag.com/gag/aryqqN0)
+ - 👉 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)<!-- MEMES:END -->
 
 ---
 
