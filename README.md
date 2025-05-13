@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hogwarts Legacy, Civilization 7, And More Reveal $10 Upgrade Fees For Switch 2 Improvements](https://kotaku.com/switch-2-upgrade-pack-hogwarts-legacy-civ-7-1851780505)
- - [A Minecraft Movie Is Launching for Home Entertainment!](https://www.minecraft.net/article/a-minecraft-movie-digital%20#new_tab)
- - [A Minecraft Movie is out on digital so now your kid can throw popcorn around the living room instead of the theater when the chicken jockey shows up](https://www.pcgamer.com/movies-tv/a-minecraft-movie-is-out-on-digital-so-now-your-kid-can-throw-popcorn-around-the-living-room-instead-of-the-theater-when-the-chicken-jockey-shows-up/)<!-- GAME:END -->
+ - [Even 19 years later, Oblivion&#39;s Whodunit quest is RPG chaos at its best](https://www.pcgamer.com/oblivion-remastered-whodunit-dark-brotherhood/)
+ - [Marvel Rivals Bringing Back Old Battle Passes, But The Price Is Going Up](https://kotaku.com/marvel-rivals-lattice-battle-pass-return-season-0-may-1851780534)
+ - [Hogwarts Legacy, Civilization 7, And More Reveal $10 Upgrade Fees For Switch 2 Improvements](https://kotaku.com/switch-2-upgrade-pack-hogwarts-legacy-civ-7-1851780505)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
