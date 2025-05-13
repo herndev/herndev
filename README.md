@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout renewed for season 3 but has ‘season 6 type of endpoint’](https://www.polygon.com/entertainment/598806/fallout-tv-season-2-premier-date-how-many-seasons)
- - [OG Infinity Ward dev says Call of Duty&#39;s gone the way of The Simpsons: &#39;It kind of feels like they&#39;ve run out of ideas at times&#39;](https://www.pcgamer.com/games/call-of-duty/og-infinity-ward-dev-says-call-of-dutys-gone-the-way-of-the-simpsons-it-kind-of-feels-like-theyve-run-out-of-ideas-at-times/)
- - [Forget the Tarrasque—tabletop&#39;s biggest bad is now the biblically accurate Bristle Boar, a horrifying Pathfinder 2e monster that only exists because of a typo](https://www.pcgamer.com/games/rpg/forget-the-tarrasque-tabletops-biggest-bad-is-now-the-biblically-accurate-bristle-boar-a-horrifying-pathfinder-2e-monster-that-only-exists-because-of-a-typo/)<!-- GAME:END -->
+ - [Valve&amp;#8217;s SteamOS now has compatibility ratings for devices other than Steam Decks](https://www.polygon.com/hardware/598822/valves-steamos-now-has-compatibility-ratings-for-devices-other-than-steam-decks)
+ - [Charting the GTA 6 map: Vice City, Ambrosia, and everything in between](https://www.pcgamer.com/games/grand-theft-auto/gta6-map/)
+ - [Where To Find Every &#39;Village Of Khalim&#39; Collectible In Doom: The Dark Ages](https://kotaku.com/doom-dark-ages-village-khalim-collectibles-toy-codex-1851780316)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
