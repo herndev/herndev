@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Developer app receives an update ahead of WWDC 2025](https://appleinsider.com/articles/25/05/14/apples-developer-app-receives-an-update-ahead-of-wwdc-2025?utm_medium=rss)
- - [The CFPB withdraws its proposal for new rules to more tightly regulate US data brokers and their ability to sell sensitive information about Americans &lpar;Wired&rpar;](http://www.techmeme.com/250514/p37#a250514p37)
- - [Tattoo getting in the way of your smartwatch readings? Try this simple fix](https://www.androidauthority.com/smartwatch-tattoo-workaround-3557722/)<!-- TECH:END -->
+ - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)
+ - [Grok replied with information about South Africa&#39;s &quot;white genocide&quot; when X users asked it to fact-check unrelated topics; the issue appears to have been fixed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250514/p41#a250514p41)
+ - [Microsoft starts testing  ‘Hey, Copilot!’ in Windows](https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
