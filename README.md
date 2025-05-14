@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are you ready?](http://9gag.com/gag/aryqqN0)
- - ⏩ [Bonkers](http://9gag.com/gag/aKGee0j)
- - 👉 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)<!-- MEMES:END -->
+ - 💣 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)
+ - ⏩ [These edits are freaking hilarious](http://9gag.com/gag/a342b75)
+ - 👉 [Bonkers](http://9gag.com/gag/aKGee0j)<!-- MEMES:END -->
 
 ---
 
