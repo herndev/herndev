@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apparently a new &#39;advanced&#39; Zotac Zone will be announced at Computex and it looks like it might use a bespoke Linux OS](https://www.pcgamer.com/hardware/handheld-gaming-pcs/apparently-a-new-advanced-zotac-zone-will-be-announced-at-computex-and-it-looks-like-it-might-use-a-new-bespoke-linux-os/)
- - [Max, formerly HBO Max, to become HBO Max again somehow](https://www.polygon.com/tv/599125/max-rebrand-hbo-max-again)
- - [I was starting to get bored of decorating in cozy games, but the demo of Twinkleby has reminded me that nothing needs to be picture perfect as long as you&#39;re having fun](https://www.pcgamer.com/games/sim/i-was-starting-to-get-bored-of-decorating-in-cozy-games-but-the-demo-of-twinkleby-has-reminded-me-that-nothing-needs-to-be-picture-perfect-as-long-as-youre-having-fun/)<!-- GAME:END -->
+ - [Hideo Kojima has an idea for a game where you age and die, &#39;but no-one would buy it&#39;, then immediately suggests one where you eventually forget how to move](https://www.pcgamer.com/games/hideo-kojima-has-an-idea-for-a-game-where-you-age-and-die-but-no-one-would-buy-it-then-immediately-suggests-one-where-you-eventually-forget-how-to-move/)
+ - [Stonking Half-Life remake Black Mesa is the cheapest it&#39;s ever been on Steam, offering Barney Calhoun in glorious 4K for a mere 2 bucks](https://www.pcgamer.com/games/fps/stonking-half-life-remake-black-mesa-is-the-cheapest-its-ever-been-on-steam-offering-barney-calhoun-in-glorious-4k-for-a-mere-2-bucks/)
+ - [If you&#39;re into ambient rainfaill sounds, why not use headphones with &#39;two half-gallon basins&#39; and plenty of real water sloshing around everywhere](https://www.pcgamer.com/hardware/earbuds-headphones/if-youre-into-ambient-rainfaill-sounds-why-not-use-headphones-with-two-half-gallon-basins-and-plenty-of-real-water-sloshing-around-everywhere/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
