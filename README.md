@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eToro prices its shares at $52 for its IPO, above its expected range of $46 to $50, raising nearly $310M and valuing the company at about $4.2B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250513/p51#a250513p51)
- - [Glass Imaging, which develops AI-powered software to improve digital image quality, raised a $20M Series A led by Insight Partners &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250513/p50#a250513p50)
- - [Apple research reveals potential of future Apple Intelligence tools](https://appleinsider.com/articles/25/05/13/apple-research-reveals-potential-of-future-apple-intelligence-tools?utm_medium=rss)<!-- TECH:END -->
+ - [Former employees, analysts, VCs, and executives detail how DeepSeek works and how it fits into China&#39;s broader AI ambitions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p53#a250513p53)
+ - [GameSir Tarantula Pro review: A solid controller with a funky party trick](https://appleinsider.com/articles/25/05/14/gamesir-tarantula-pro-review-a-solid-controller-with-a-funky-party-trick?utm_medium=rss)
+ - [Meta’s beef with the press flares at its antitrust trial](https://www.theverge.com/politics/666507/meta-tech-press-antitrust-trial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
