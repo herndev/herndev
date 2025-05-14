@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CFBP Quietly Kills Rule to Shield Americans From Data Brokers](https://www.wired.com/story/cfbp-quietly-kills-rule-to-shield-americans-from-data-brokers/)
- - [I used TikTok’s new AI photo tool and now my cat has two heads. Send help](https://www.androidauthority.com/tiktok-ai-alive-hands-on-3557656/)
- - [Stock trading app eToro began trading at $69.69 on Nasdaq after pricing its IPO at $52, above its $46-$50 expected range &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250514/p32#a250514p32)<!-- TECH:END -->
+ - [Switch 2 spec breakdown digs into its processor and GameChat](https://www.theverge.com/news/667094/nintendo-switch-2-specs-digital-foundry)
+ - [Meta releases the Open Molecules 2025 dataset and the Universal Model for Atoms family of models to accelerate the development of new drugs and materials &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250514/p35#a250514p35)
+ - [Trump administration announces &amp;#8216;illegal&amp;#8217; rollback of energy and water efficiency standards](https://www.theverge.com/news/665213/energy-efficiency-standards-rollback-trump-doe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
