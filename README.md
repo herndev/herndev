@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto tests a smarter way to display games on your screen &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-full-screen-changes-3557646/)
- - [Square Enix cancels Kingdom Hearts mobile game](https://www.theverge.com/news/666867/kingdom-hearts-missing-link-canceled)
- - [Google DeepMind unveils AlphaEvolve, a Gemini-powered AI coding agent that designs and optimizes advanced algorithms using an evolutionary framework &lpar;Google DeepMind&rpar;](http://www.techmeme.com/250514/p31#a250514p31)<!-- TECH:END -->
+ - [CFBP Quietly Kills Rule to Shield Americans From Data Brokers](https://www.wired.com/story/cfbp-quietly-kills-rule-to-shield-americans-from-data-brokers/)
+ - [I used TikTok’s new AI photo tool and now my cat has two heads. Send help](https://www.androidauthority.com/tiktok-ai-alive-hands-on-3557656/)
+ - [Stock trading app eToro began trading at $69.69 on Nasdaq after pricing its IPO at $52, above its $46-$50 expected range &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250514/p32#a250514p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
