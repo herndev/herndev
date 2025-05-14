@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16’s new 90:10 split-screen is a game-changer for multitasking](https://www.androidauthority.com/android-16-90-10-split-screen-3557268/)
- - [Uber debuts Route Share, a pooled rides option that is similar to a bus and up to 50% cheaper than UberX, available during commuting hours in SF, NYC, and more &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250514/p28#a250514p28)
- - [Apple inches up share of direct iPhone sales but carriers dominate the field](https://appleinsider.com/articles/25/05/14/apple-inches-up-share-of-direct-iphone-sales-but-carriers-dominate-the-field?utm_medium=rss)<!-- TECH:END -->
+ - [Android Auto tests a smarter way to display games on your screen &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-full-screen-changes-3557646/)
+ - [Square Enix cancels Kingdom Hearts mobile game](https://www.theverge.com/news/666867/kingdom-hearts-missing-link-canceled)
+ - [Google DeepMind unveils AlphaEvolve, a Gemini-powered AI coding agent that designs and optimizes advanced algorithms using an evolutionary framework &lpar;Google DeepMind&rpar;](http://www.techmeme.com/250514/p31#a250514p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
