@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn receives approval from India&#39;s cabinet to build a new $435M semiconductor plant, expected to open in 2027, in a joint venture with IT giant HCL Group &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250514/p43#a250514p43)
- - [Epic has submitted a new version of Fortnite to the US App Store, saying it needs to release a weekly update, after pulling the version it submitted on Friday &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250514/p42#a250514p42)
- - [Elon Musk&#39;s Grok AI Can&#39;t Stop Talking About &#39;White Genocide&#39;](https://www.wired.com/story/grok-white-genocide-elon-musk/)<!-- TECH:END -->
+ - [Apple might let you scroll with your eyes in the Vision Pro](https://www.theverge.com/news/667352/apple-vision-pro-eye-tracking-scrolling-visionos-3)
+ - [The EPA Is Giving Some Forever Chemicals a Pass](https://www.wired.com/story/the-epa-is-giving-some-forever-chemicals-a-pass/)
+ - [Chinese sites like JD.com are offering discounts of up to 2,530 yuan, ~$350, on iPhone 16 models, an effort to spur sales after Q1 shipments fell &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p46#a250514p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
