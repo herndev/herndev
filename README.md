@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will let restaurants highlight specials on their search profiles](https://www.theverge.com/news/666672/google-search-restaurant-profile-whats-happening)
- - [Eargo 8 Hearing Aids Review: Too Expensive](https://www.wired.com/review/eargo-8-hearing-aids/)
- - [With FBC: Firebreak, Remedy wants to tell a different kind of story](https://www.theverge.com/games/665752/fbc-firebreak-preview-interview-remedy-control-ps5-xbox)<!-- TECH:END -->
+ - [AMD approves a new $6B share buyback program, boosting its total repurchase authority to ~$10B, with no termination date; AMD jumps 5%+ &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250514/p25#a250514p25)
+ - [OpenAI says OneDrive and SharePoint users will be able to connect their files to ChatGPT&#39;s Deep Research for analysis, in beta for ChatGPT Plus, Pro, or Team &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/250514/p24#a250514p24)
+ - [Android Auto could move your media buttons, and it has us scratching our heads &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-moved-media-playback-buttons-apk-teardown-3557615/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
