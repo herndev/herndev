@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Fixed](http://9gag.com/gag/adBe2vZ)
- - ⏩ [Trying to imptress](http://9gag.com/gag/aD2VOBx)
- - 👉 [Beware](http://9gag.com/gag/ae9m7mb)<!-- MEMES:END -->
+ - ⏩ [Beware](http://9gag.com/gag/ae9m7mb)
+ - 👉 [These edits are freaking hilarious](http://9gag.com/gag/a342b75)<!-- MEMES:END -->
 
 ---
 
