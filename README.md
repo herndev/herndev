@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Check mate, Zelensky.](http://9gag.com/gag/a9y22NL)
- - ⏩ [Are you ready?](http://9gag.com/gag/aryqqN0)
+ - 💣 [Are you ready?](http://9gag.com/gag/aryqqN0)
+ - ⏩ [Bonkers](http://9gag.com/gag/aKGee0j)
  - 👉 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)<!-- MEMES:END -->
 
 ---
