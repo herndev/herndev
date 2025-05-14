@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FBC: Firebreak – hands-on report](https://blog.playstation.com/2025/05/14/fbc-firebreak-hands-on-report/)
- - [FBC: Firebreak is A High-Octane, Hilarious Shooter Built For Any Skill Level](https://news.xbox.com/en-us/2025/05/14/fbc-firebreak-xbox-preview/)
- - [All 3 original Stalker games get &#39;fully remastered and optimized&#39; versions next week, and I can&#39;t wait to get shredded by an anomaly from the comfort of my sofa](https://www.pcgamer.com/games/fps/all-3-original-stalker-games-get-fully-remastered-and-optimized-versions-next-week-and-i-cant-wait-to-get-shredded-by-an-anomaly-from-the-comfort-of-my-sofa/)<!-- GAME:END -->
+ - [Square Enix kills Kingdom Hearts game Missing Link as part of ‘quantity to quality’ shift](https://www.polygon.com/news/599080/kingdom-hearts-game-canceled-missing-link-square-enix)
+ - [Marvel Studios finally remembers Ironheart, releases long-awaited trailer](https://www.polygon.com/trailer/598982/marvel-ironheart-disney-plus-tv-show-trailer)
+ - [After saying negative reviews &#39;might just cause our death&#39; and &#39;we&#39;ve got a few months left in the oven&#39;, No Rest for the Wicked CEO claims he never said they were in &#39;immediate financial danger&#39;, actually](https://www.pcgamer.com/games/rpg/after-saying-negative-reviews-might-just-cause-our-death-and-weve-got-a-few-months-left-in-the-oven-no-rest-for-the-wicked-ceo-claims-he-never-said-they-were-in-immediate-financial-danger-actually/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
