@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appfigures: mobile gamers spent $65.4B in 2024, up 4% YoY, but less than $4B went to games released in 2024; studios launched 126K games in 2024, down 43% YoY &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250514/p9#a250514p9)
- - [Sources including former staff detail abuse, financial mismanagement, and other issues at AbleGamers, an influential nonprofit promoting gaming accessibility &lpar;Grant Stoner/IGN&rpar;](http://www.techmeme.com/250514/p8#a250514p8)
- - [A profile of Tether&#39;s chief investment officer Richard Heathcote, who manages a $150B asset portfolio and has helped deepen Tether&#39;s ties with Cantor Fitzgerald &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250514/p7#a250514p7)<!-- TECH:END -->
+ - [Sony reports Q4 revenue down 24% YoY to $17.7B, 18.5M PlayStation 5 units sold in FY 24, down from 20.8M in FY 23, and expects a $700M US tariff impact in FY 25 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250514/p11#a250514p11)
+ - [Q&amp;A with Marc Benioff on how AI is disrupting work, Salesforce&#39;s AI agent platform Agentforce, the Trump administration&#39;s tariffs and economic policy, and more &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250514/p10#a250514p10)
+ - [The next Mario movie&amp;#8217;s title got accidentally announced](https://www.theverge.com/news/666569/super-mario-world-movie-sequel-nintendo-universal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
