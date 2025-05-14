@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Indiana Jones or Lara Croft in the new TTRPG Outgunned Adventure](https://www.polygon.com/tabletop-games/599075/indiana-jones-lara-croft-outgunned-adventure-ttrpg-recommended)
- - [Baldur&#39;s Gate 3 Director Predicted Clair Obscur: Expedition 33&#39;s Success At Last Year&#39;s Game Awards](https://kotaku.com/clair-obscur-expedition-33-game-awards-goty-larian-1851780699)
- - [Minecraft finally adds saddles as a crafting item, and it&amp;#8217;s only been 15 years](https://www.polygon.com/news/599197/minecraft-craftable-saddles-update)<!-- GAME:END -->
+ - [A new Marvel Rivals item lets you skip losses in ranked and players worry the climb has become meaningless](https://www.pcgamer.com/games/third-person-shooter/a-new-marvel-rivals-item-lets-you-skip-losses-in-ranked-and-players-worry-the-climb-has-become-meaningless/)
+ - [We Say Goodbye To Andor, One Of The Best TV Shows Of 2025](https://kotaku.com/andor-season-2-ending-vgchat-star-wars-rogue-one-10-12-1851780720)
+ - [You Need To Smash Up These Creepy Wolf Statues In Doom: The Dark Ages&#39; &#39;Ancestral Forge&#39; Level](https://kotaku.com/doom-dark-ages-lion-statues-sorcerer-statue-ancestral-1851780714)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
