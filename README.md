@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s Zoox offers free robotaxi rides to employees and other invited users in Las Vegas, after receiving approval to accept paying customers in Clark County &lpar;Alex Perry/The Information&rpar;](http://www.techmeme.com/250513/p54#a250513p54)
  - [Former employees, analysts, VCs, and executives detail how DeepSeek works and how it fits into China&#39;s broader AI ambitions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p53#a250513p53)
- - [GameSir Tarantula Pro review: A solid controller with a funky party trick](https://appleinsider.com/articles/25/05/14/gamesir-tarantula-pro-review-a-solid-controller-with-a-funky-party-trick?utm_medium=rss)
- - [Meta’s beef with the press flares at its antitrust trial](https://www.theverge.com/politics/666507/meta-tech-press-antitrust-trial)<!-- TECH:END -->
+ - [GameSir Tarantula Pro review: A solid controller with a funky party trick](https://appleinsider.com/articles/25/05/14/gamesir-tarantula-pro-review-a-solid-controller-with-a-funky-party-trick?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
