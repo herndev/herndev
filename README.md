@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix kills Kingdom Hearts game Missing Link as part of ‘quantity to quality’ shift](https://www.polygon.com/news/599080/kingdom-hearts-game-canceled-missing-link-square-enix)
- - [Marvel Studios finally remembers Ironheart, releases long-awaited trailer](https://www.polygon.com/trailer/598982/marvel-ironheart-disney-plus-tv-show-trailer)
- - [After saying negative reviews &#39;might just cause our death&#39; and &#39;we&#39;ve got a few months left in the oven&#39;, No Rest for the Wicked CEO claims he never said they were in &#39;immediate financial danger&#39;, actually](https://www.pcgamer.com/games/rpg/after-saying-negative-reviews-might-just-cause-our-death-and-weve-got-a-few-months-left-in-the-oven-no-rest-for-the-wicked-ceo-claims-he-never-said-they-were-in-immediate-financial-danger-actually/)<!-- GAME:END -->
+ - [Apparently a new &#39;advanced&#39; Zotac Zone will be announced at Computex and it looks like it might use a bespoke Linux OS](https://www.pcgamer.com/hardware/handheld-gaming-pcs/apparently-a-new-advanced-zotac-zone-will-be-announced-at-computex-and-it-looks-like-it-might-use-a-new-bespoke-linux-os/)
+ - [Max, formerly HBO Max, to become HBO Max again somehow](https://www.polygon.com/tv/599125/max-rebrand-hbo-max-again)
+ - [I was starting to get bored of decorating in cozy games, but the demo of Twinkleby has reminded me that nothing needs to be picture perfect as long as you&#39;re having fun](https://www.pcgamer.com/games/sim/i-was-starting-to-get-bored-of-decorating-in-cozy-games-but-the-demo-of-twinkleby-has-reminded-me-that-nothing-needs-to-be-picture-perfect-as-long-as-youre-having-fun/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
