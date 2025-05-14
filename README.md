@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tales of the Shire: everything we know about the cozy hobbit life sim](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-guide/)
- - [&#39;I missed it, I missed it all&#39;: the guy behind the Metal Gear song that goes with everything was &#39;two years&#39; late to the meme because nobody told him about it](https://www.pcgamer.com/games/action/i-missed-it-i-missed-it-all-the-guy-behind-the-metal-gear-song-that-goes-with-everything-was-two-years-late-to-the-meme-because-nobody-told-him-about-it/)
- - [Tony Hawk&#39;s Pro Skater 3 + 4 skater list: everyone confirmed so far](https://www.pcgamer.com/games/sports/tony-hawks-pro-skater-3-4-skater-list/)<!-- GAME:END -->
+ - [FBC: Firebreak – hands-on report](https://blog.playstation.com/2025/05/14/fbc-firebreak-hands-on-report/)
+ - [FBC: Firebreak is A High-Octane, Hilarious Shooter Built For Any Skill Level](https://news.xbox.com/en-us/2025/05/14/fbc-firebreak-xbox-preview/)
+ - [All 3 original Stalker games get &#39;fully remastered and optimized&#39; versions next week, and I can&#39;t wait to get shredded by an anomaly from the comfort of my sofa](https://www.pcgamer.com/games/fps/all-3-original-stalker-games-get-fully-remastered-and-optimized-versions-next-week-and-i-cant-wait-to-get-shredded-by-an-anomaly-from-the-comfort-of-my-sofa/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
