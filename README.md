@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Things to Know Before Taking Flight Into Everspace 2: Wrath of the Ancients](https://news.xbox.com/en-us/2025/05/14/taking-flight-into-everspace-2-wrath-of-the-ancients/)
- - [Oblivion Remastered hero returns to the game&#39;s golden age by spending 7 hours arranging books just to topple them like dominoes](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-hero-returns-to-the-games-golden-age-by-spending-7-hours-arranging-books-just-to-topple-them-like-dominoes/)
- - [Pokémon Go ‘Crown Clash Taken Over’ Special Research and event guide](https://www.polygon.com/pokemon-go-guide/599151/crown-clash-taken-over-team-go-rocket-event)<!-- GAME:END -->
+ - [Play Indiana Jones or Lara Croft in the new TTRPG Outgunned Adventure](https://www.polygon.com/tabletop-games/599075/indiana-jones-lara-croft-outgunned-adventure-ttrpg-recommended)
+ - [Baldur&#39;s Gate 3 Director Predicted Clair Obscur: Expedition 33&#39;s Success At Last Year&#39;s Game Awards](https://kotaku.com/clair-obscur-expedition-33-game-awards-goty-larian-1851780699)
+ - [Minecraft finally adds saddles as a crafting item, and it&amp;#8217;s only been 15 years](https://www.polygon.com/news/599197/minecraft-craftable-saddles-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
