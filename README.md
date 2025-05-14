@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Need code for further research.](http://9gag.com/gag/aXPWWe2)
- - ⏩ [Are you ready?](http://9gag.com/gag/aryqqN0)
- - 👉 [Check mate, Zelensky.](http://9gag.com/gag/a9y22NL)<!-- MEMES:END -->
+ - ⏩ [Check mate, Zelensky.](http://9gag.com/gag/a9y22NL)
+ - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
 
 ---
 
