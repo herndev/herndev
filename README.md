@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toyota confirms the all-electric compact C-HR is coming to the US](https://www.theverge.com/news/666207/toyota-chr-electric-ev-us-photo-specs)
- - [Material 3 on Wear OS is proof we’ll never have square smartwatches again](https://www.androidauthority.com/material-3-wear-os-never-have-square-smartwatches-again-3557369/)
- - [Nvidia&amp;#8217;s flattery of Trump wins reversal of AI chip limits and a Huawei clampdown](https://www.theverge.com/news/666605/nvidias-flattery-of-trump-wins-reversal-of-ai-chip-limits-and-a-huawei-clampdown)<!-- TECH:END -->
+ - [Apple&#39;s 20th anniversary iPhone poised to get advanced screen &amp; battery tech](https://appleinsider.com/articles/25/05/14/apples-20th-anniversary-iphone-poised-to-get-advanced-screen-battery-tech?utm_medium=rss)
+ - [Las Vegas-based TensorWave, which offers AMD-powered cloud infrastructure, raised $100M led by Magnetar and AMD Ventures, taking its total funding to $146.7M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250514/p22#a250514p22)
+ - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
