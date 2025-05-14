@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 QPR1 beta expected to paint the first strokes of Material 3 Expressive](https://www.androidauthority.com/android-16-qpr1-beta-material-3-expressive-3557445/)
- - [Filing: Cantor Equity Partners bought $458.7M in BTC as part of a pending merger with Twenty One Capital, the BTC investment vehicle backed by Tether and others &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250514/p2#a250514p2)
- - [Sea reports Q1 revenue up 29.6% YoY to $4.84B vs $4.89B est., net profit of $403M vs $23M net loss in Q1 2024, and e-commerce revenue up 28.3% YoY to $3.5B &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/250514/p1#a250514p1)<!-- TECH:END -->
+ - [Nothing Phone 3 will finally play in the big leagues with a near-$1,000 price tag](https://www.androidauthority.com/nothing-phone-3-summer-launch-price-reveal-3557454/)
+ - [Microsoft extends support for Microsoft 365 apps on Windows 10 until October 10, 2028, after previously announcing plans to end support by October 14, 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250514/p5#a250514p5)
+ - [Source: Arista plans to acquire Broadcom&#39;s VeloCloud, a provider of SD-WAN tech to telecoms, for less than $1B: VMware bought VeloCloud for ~$450M in 2017 &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/250514/p4#a250514p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
