@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t swap out your pants just yet, Helldivers 2 might be getting another update next week to coincide with the battle for Super Earth](https://www.pcgamer.com/games/third-person-shooter/dont-swap-out-your-pants-just-yet-helldivers-2-might-be-getting-another-update-next-week-to-coincide-with-the-battle-for-super-earth/)
- - [Intel admits it doesn&#39;t have any &#39;significant&#39; commitments from customers to make advanced chips in its fabs](https://www.pcgamer.com/hardware/processors/intel-admits-it-doesnt-have-any-significant-commitments-from-customers-to-make-advanced-chips-in-its-fabs/)
- - [Expert criticizes Gigabyte&#39;s alleged use of &#39;viscous paste with questionable long-term performance&#39; instead of tried and tested GPU cooling solution](https://www.pcgamer.com/hardware/graphics-cards/expert-criticizes-gigabytes-alleged-use-of-viscous-paste-with-questionable-long-term-performance-instead-of-tried-and-tested-gpu-cooling-solution/)<!-- GAME:END -->
+ - [Tales of the Shire: everything we know about the cozy hobbit life sim](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-guide/)
+ - [&#39;I missed it, I missed it all&#39;: the guy behind the Metal Gear song that goes with everything was &#39;two years&#39; late to the meme because nobody told him about it](https://www.pcgamer.com/games/action/i-missed-it-i-missed-it-all-the-guy-behind-the-metal-gear-song-that-goes-with-everything-was-two-years-late-to-the-meme-because-nobody-told-him-about-it/)
+ - [Tony Hawk&#39;s Pro Skater 3 + 4 skater list: everyone confirmed so far](https://www.pcgamer.com/games/sports/tony-hawks-pro-skater-3-4-skater-list/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
