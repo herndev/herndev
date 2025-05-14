@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switch 2 spec breakdown digs into its processor and GameChat](https://www.theverge.com/news/667094/nintendo-switch-2-specs-digital-foundry)
- - [Meta releases the Open Molecules 2025 dataset and the Universal Model for Atoms family of models to accelerate the development of new drugs and materials &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250514/p35#a250514p35)
- - [Trump administration announces &amp;#8216;illegal&amp;#8217; rollback of energy and water efficiency standards](https://www.theverge.com/news/665213/energy-efficiency-standards-rollback-trump-doe)<!-- TECH:END -->
+ - [Apple&#39;s Developer app receives an update ahead of WWDC 2025](https://appleinsider.com/articles/25/05/14/apples-developer-app-receives-an-update-ahead-of-wwdc-2025?utm_medium=rss)
+ - [The CFPB withdraws its proposal for new rules to more tightly regulate US data brokers and their ability to sell sensitive information about Americans &lpar;Wired&rpar;](http://www.techmeme.com/250514/p37#a250514p37)
+ - [Tattoo getting in the way of your smartwatch readings? Try this simple fix](https://www.androidauthority.com/smartwatch-tattoo-workaround-3557722/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
