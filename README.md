@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And yess i got time for that](http://9gag.com/gag/aYQqmNV)
- - ⏩ [This is awesome... Good job, Netflix!](http://9gag.com/gag/aAy2O62)
- - 👉 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)<!-- MEMES:END -->
+ - 💣 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)
+ - ⏩ [N ice haircut](http://9gag.com/gag/abABQoB)
+ - 👉 [I hope the pasta is handmade.](http://9gag.com/gag/aKGeK43)<!-- MEMES:END -->
 
 ---
 
