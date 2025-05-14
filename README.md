@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD approves a new $6B share buyback program, boosting its total repurchase authority to ~$10B, with no termination date; AMD jumps 5%+ &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250514/p25#a250514p25)
- - [OpenAI says OneDrive and SharePoint users will be able to connect their files to ChatGPT&#39;s Deep Research for analysis, in beta for ChatGPT Plus, Pro, or Team &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/250514/p24#a250514p24)
- - [Android Auto could move your media buttons, and it has us scratching our heads &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-moved-media-playback-buttons-apk-teardown-3557615/)<!-- TECH:END -->
+ - [Android 16’s new 90:10 split-screen is a game-changer for multitasking](https://www.androidauthority.com/android-16-90-10-split-screen-3557268/)
+ - [Uber debuts Route Share, a pooled rides option that is similar to a bus and up to 50% cheaper than UberX, available during commuting hours in SF, NYC, and more &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250514/p28#a250514p28)
+ - [Apple inches up share of direct iPhone sales but carriers dominate the field](https://appleinsider.com/articles/25/05/14/apple-inches-up-share-of-direct-iphone-sales-but-carriers-dominate-the-field?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
