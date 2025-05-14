@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideo Kojima has an idea for a game where you age and die, &#39;but no-one would buy it&#39;, then immediately suggests one where you eventually forget how to move](https://www.pcgamer.com/games/hideo-kojima-has-an-idea-for-a-game-where-you-age-and-die-but-no-one-would-buy-it-then-immediately-suggests-one-where-you-eventually-forget-how-to-move/)
- - [Stonking Half-Life remake Black Mesa is the cheapest it&#39;s ever been on Steam, offering Barney Calhoun in glorious 4K for a mere 2 bucks](https://www.pcgamer.com/games/fps/stonking-half-life-remake-black-mesa-is-the-cheapest-its-ever-been-on-steam-offering-barney-calhoun-in-glorious-4k-for-a-mere-2-bucks/)
- - [If you&#39;re into ambient rainfaill sounds, why not use headphones with &#39;two half-gallon basins&#39; and plenty of real water sloshing around everywhere](https://www.pcgamer.com/hardware/earbuds-headphones/if-youre-into-ambient-rainfaill-sounds-why-not-use-headphones-with-two-half-gallon-basins-and-plenty-of-real-water-sloshing-around-everywhere/)<!-- GAME:END -->
+ - [Official Xbox Podcast | Dropping in on Tony Hawk’s Pro Skater 3+4](https://www.youtube.com/watch?v=wUBRoC0rsbU#new_tab)
+ - [Nicolas Cage will play John Madden in Madden NFL film](https://www.polygon.com/movies/599124/nicolas-cage-john-madden-movie)
+ - [How To Start Living Your Best Fantasy Life In RuneScape Dragonwild](https://kotaku.com/runescape-dragonwilds-first-base-woodcutting-cows-camp-1851780655)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
