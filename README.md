@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jessica Jones is coming back to the MCU in Daredevil: Born Again](https://www.polygon.com/tv/599010/daredevil-born-again-season-2-jessica-jones-marvel)
- - [10 million Monster Hunter Wilds sales helped Capcom post its 8th consecutive year of record profits](https://www.pcgamer.com/gaming-industry/10-million-monster-hunter-wilds-sales-helped-capcom-post-its-8th-consecutive-year-of-record-profits/)
- - [Marvel Rivals is breaking its original battle pass out of the vault for a limited time](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-breaking-its-original-battle-pass-out-of-the-vault-for-a-limited-time/)<!-- GAME:END -->
+ - [Doom: The Dark Ages feels like a console game first and PC game second](https://www.pcgamer.com/games/fps/doom-the-dark-ages-feels-like-a-console-game-first-and-pc-game-second/)
+ - [Diablo 4 players discover forbidden power combo that melts everything—including the servers](https://www.pcgamer.com/games/rpg/diablo-4-players-discover-forbidden-power-combo-that-melts-everything-including-the-servers/)
+ - [Jessica Jones is coming back to the MCU in Daredevil: Born Again](https://www.polygon.com/tv/599010/daredevil-born-again-season-2-jessica-jones-marvel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
