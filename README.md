@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside the Nintendo Switch 2 hardware specs](https://www.polygon.com/analysis/509874/nintendo-switch-2-specs-hardware-screen-size)
- - [A new Marvel Rivals item lets you skip losses in ranked and players worry the climb has become meaningless](https://www.pcgamer.com/games/third-person-shooter/a-new-marvel-rivals-item-lets-you-skip-losses-in-ranked-and-players-worry-the-climb-has-become-meaningless/)
- - [We Say Goodbye To Andor, One Of The Best TV Shows Of 2025](https://kotaku.com/andor-season-2-ending-vgchat-star-wars-rogue-one-10-12-1851780720)<!-- GAME:END -->
+ - [False alarm: Valve confirms that nobody hacked into over 89M Steam accounts and that your passwords are safe](https://www.pcgamer.com/software/platforms/false-alarm-valve-confirms-that-nobody-hacked-into-over-89m-steam-accounts-and-that-your-passwords-are-safe/)
+ - [Lucasfilm declares creative bankruptcy with an AI-generated Star Wars film that&#39;s just 2 minutes of mostly-normal animals jumbled together](https://www.pcgamer.com/gaming-industry/lucasfilm-declares-creative-bankruptcy-with-an-ai-generated-star-wars-film-thats-just-2-minutes-of-mostly-normal-animals-jumbled-together/)
+ - [Helldivers 2 has still got it](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-has-still-got-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
