@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)
- - ⏩ [N ice haircut](http://9gag.com/gag/abABQoB)
- - 👉 [I hope the pasta is handmade.](http://9gag.com/gag/aKGeK43)<!-- MEMES:END -->
+ - 💣 [Reality check](http://9gag.com/gag/amoMMxv)
+ - ⏩ [When the artist is as hot as the character she draws](http://9gag.com/gag/aoyLnd0)
+ - 👉 [That escalated quickly..](http://9gag.com/gag/abAB26b)<!-- MEMES:END -->
 
 ---
 
