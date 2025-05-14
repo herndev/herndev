@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Need code for further research.](http://9gag.com/gag/aXPWWe2)
- - ⏩ [Check mate, Zelensky.](http://9gag.com/gag/a9y22NL)
- - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
+ - 💣 [Check mate, Zelensky.](http://9gag.com/gag/a9y22NL)
+ - ⏩ [Are you ready?](http://9gag.com/gag/aryqqN0)
+ - 👉 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)<!-- MEMES:END -->
 
 ---
 
