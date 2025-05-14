@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports Q4 revenue down 24% YoY to $17.7B, 18.5M PlayStation 5 units sold in FY 24, down from 20.8M in FY 23, and expects a $700M US tariff impact in FY 25 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250514/p11#a250514p11)
- - [Q&amp;A with Marc Benioff on how AI is disrupting work, Salesforce&#39;s AI agent platform Agentforce, the Trump administration&#39;s tariffs and economic policy, and more &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250514/p10#a250514p10)
- - [The next Mario movie&amp;#8217;s title got accidentally announced](https://www.theverge.com/news/666569/super-mario-world-movie-sequel-nintendo-universal)<!-- TECH:END -->
+ - [Here’s how Google Circle to Search could be coming to Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-circle-screen-3557330/)
+ - [Sony considers PS5 price hikes to cover Trump’s tariffs](https://www.theverge.com/news/666584/sony-earnings-tariffs-ps5-price-us-manufacturing)
+ - [Tencent reports Q1 revenue up 13% YoY to ~$25B, above ~$24.3B est., net profit up 14% YoY to ~$6.6B, below ~$7.3B est., driven by gaming business growth &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250514/p14#a250514p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
