@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These edits are freaking hilarious](http://9gag.com/gag/a342b75)
- - ⏩ [It aint much, but its honest work](http://9gag.com/gag/aQzZZB7)
- - 👉 [Spot on](http://9gag.com/gag/aD2VX1x)<!-- MEMES:END -->
+ - 💣 [It aint much, but its honest work](http://9gag.com/gag/aQzZZB7)
+ - ⏩ [Spot on](http://9gag.com/gag/aD2VX1x)
+ - 👉 [N ice haircut](http://9gag.com/gag/abABQoB)<!-- MEMES:END -->
 
 ---
 
