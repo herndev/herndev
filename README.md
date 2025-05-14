@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bonkers](http://9gag.com/gag/aKGee0j)
+ - 💣 [Fixed](http://9gag.com/gag/adBe2vZ)
  - ⏩ [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)
  - 👉 [Woman tries to dash without paying, gets faced with a locked door. FULL video since previous OP had first part only](http://9gag.com/gag/aqyWYGR)<!-- MEMES:END -->
 
