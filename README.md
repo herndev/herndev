@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could copy Pinterest with this new feature at I/O](https://www.androidauthority.com/google-pinterest-like-feature-i-o-3557459/)
- - [Nothing Phone 3 will finally play in the big leagues with a near-$1,000 price tag](https://www.androidauthority.com/nothing-phone-3-summer-launch-price-reveal-3557454/)
- - [Microsoft extends support for Microsoft 365 apps on Windows 10 until October 10, 2028, after previously announcing plans to end support by October 14, 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250514/p5#a250514p5)<!-- TECH:END -->
+ - [Appfigures: mobile gamers spent $65.4B in 2024, up 4% YoY, but less than $4B went to games released in 2024; studios launched 126K games in 2024, down 43% YoY &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250514/p9#a250514p9)
+ - [Sources including former staff detail abuse, financial mismanagement, and other issues at AbleGamers, an influential nonprofit promoting gaming accessibility &lpar;Grant Stoner/IGN&rpar;](http://www.techmeme.com/250514/p8#a250514p8)
+ - [A profile of Tether&#39;s chief investment officer Richard Heathcote, who manages a $150B asset portfolio and has helped deepen Tether&#39;s ties with Cantor Fitzgerald &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250514/p7#a250514p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
