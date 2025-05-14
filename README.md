@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Fixed](http://9gag.com/gag/adBe2vZ)
- - ⏩ [Beware](http://9gag.com/gag/ae9m7mb)
- - 👉 [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)<!-- MEMES:END -->
+ - ⏩ [Trying to imptress](http://9gag.com/gag/aD2VOBx)
+ - 👉 [Beware](http://9gag.com/gag/ae9m7mb)<!-- MEMES:END -->
 
 ---
 
