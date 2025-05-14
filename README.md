@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official Xbox Podcast | Dropping in on Tony Hawk’s Pro Skater 3+4](https://www.youtube.com/watch?v=wUBRoC0rsbU#new_tab)
- - [Nicolas Cage will play John Madden in Madden NFL film](https://www.polygon.com/movies/599124/nicolas-cage-john-madden-movie)
- - [How To Start Living Your Best Fantasy Life In RuneScape Dragonwild](https://kotaku.com/runescape-dragonwilds-first-base-woodcutting-cows-camp-1851780655)<!-- GAME:END -->
+ - [12 Games Are Coming To PS Plus Game Catalog Next Week](https://kotaku.com/ps-plus-extra-free-games-may-2025-catalog-stalker-ps5-1851780673)
+ - [Mortal Kombat 1 Definitive Edition launches today, includes all DLC](https://www.polygon.com/gaming/599189/mortal-kombat-1-definitive-edition-launches-today-includes-all-dlc)
+ - [Far Cry 7, Assassin&#39;s Creed Hexe, And More Seemingly Delayed To Create &#39;Best Conditions For Success&#39;](https://kotaku.com/far-cry-7-assassins-creed-hexe-ghost-recon-delay-1851780674)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
