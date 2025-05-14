@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Zoox offers free robotaxi rides to employees and other invited users in Las Vegas, after receiving approval to accept paying customers in Clark County &lpar;Alex Perry/The Information&rpar;](http://www.techmeme.com/250513/p54#a250513p54)
- - [Former employees, analysts, VCs, and executives detail how DeepSeek works and how it fits into China&#39;s broader AI ambitions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p53#a250513p53)
- - [GameSir Tarantula Pro review: A solid controller with a funky party trick](https://appleinsider.com/articles/25/05/14/gamesir-tarantula-pro-review-a-solid-controller-with-a-funky-party-trick?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Baidu plans to test its Apollo Go robotaxi service in Switzerland by the end of the year, its first expansion in Europe, and also launch it in Turkey &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250513/p56#a250513p56)
+ - [Under-display Face ID again rumored for iPhone 18 Pro by accurate leaker](https://appleinsider.com/articles/25/05/14/under-display-face-id-again-rumored-for-iphone-18-pro-by-accurate-leaker?utm_medium=rss)
+ - [How to troubleshoot Wi-Fi problems on iPhone &amp; iPad](https://appleinsider.com/inside/ipados/tips/how-to-troubleshoot-wi-fi-problems-on-iphone-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
