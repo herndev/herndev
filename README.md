@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI said Mavic 4 Pro wouldn’t launch in US but these stores are selling it anyhow](https://www.theverge.com/drone/666425/dji-mavic-4-pro-on-sale-preorder-adorama-bh-photo)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Trump&#39;s acting replacements for the Copyright Office are known to be unfriendly to the tech industry and not the kind of people that AI proponents would support &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/250513/p49#a250513p49)<!-- TECH:END -->
+ - [eToro prices its shares at $52 for its IPO, above its expected range of $46 to $50, raising nearly $310M and valuing the company at about $4.2B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250513/p51#a250513p51)
+ - [Glass Imaging, which develops AI-powered software to improve digital image quality, raised a $20M Series A led by Insight Partners &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250513/p50#a250513p50)
+ - [Apple research reveals potential of future Apple Intelligence tools](https://appleinsider.com/articles/25/05/13/apple-research-reveals-potential-of-future-apple-intelligence-tools?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
