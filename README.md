@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s upcoming OneDrive update bypasses security protocols between business and personal files](https://www.pcgamer.com/software/windows/microsofts-upcoming-onedrive-update-bypasses-security-protocols-between-business-and-personal-files/)
- - [Doom: The Dark Ages feels like a console game first and PC game second](https://www.pcgamer.com/games/fps/doom-the-dark-ages-feels-like-a-console-game-first-and-pc-game-second/)
- - [Diablo 4 players discover forbidden power combo that melts everything—including the servers](https://www.pcgamer.com/games/rpg/diablo-4-players-discover-forbidden-power-combo-that-melts-everything-including-the-servers/)<!-- GAME:END -->
+ - [Xbox and Audeze have teamed up to give our favourite wireless gaming headset for audiophiles a gorgeous floral trim and I am in love with this unusual take on gamer chic](https://www.pcgamer.com/hardware/xbox-and-audeze-have-teamed-up-to-give-our-favourite-wireless-gaming-headset-for-audiophiles-a-gorgeous-floral-trim-and-i-am-in-love-with-this-unusual-take-on-gamer-chic/)
+ - [Today&#39;s Wordle answer for Wednesday, May 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-14-2025/)
+ - [Microsoft&#39;s upcoming OneDrive update bypasses security protocols between business and personal files](https://www.pcgamer.com/software/windows/microsofts-upcoming-onedrive-update-bypasses-security-protocols-between-business-and-personal-files/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
