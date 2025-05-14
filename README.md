@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Google Circle to Search could be coming to Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-circle-screen-3557330/)
- - [Sony considers PS5 price hikes to cover Trump’s tariffs](https://www.theverge.com/news/666584/sony-earnings-tariffs-ps5-price-us-manufacturing)
- - [Tencent reports Q1 revenue up 13% YoY to ~$25B, above ~$24.3B est., net profit up 14% YoY to ~$6.6B, below ~$7.3B est., driven by gaming business growth &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250514/p14#a250514p14)<!-- TECH:END -->
+ - [Toyota confirms the all-electric compact C-HR is coming to the US](https://www.theverge.com/news/666207/toyota-chr-electric-ev-us-photo-specs)
+ - [Material 3 on Wear OS is proof we’ll never have square smartwatches again](https://www.androidauthority.com/material-3-wear-os-never-have-square-smartwatches-again-3557369/)
+ - [Nvidia&amp;#8217;s flattery of Trump wins reversal of AI chip limits and a Huawei clampdown](https://www.theverge.com/news/666605/nvidias-flattery-of-trump-wins-reversal-of-ai-chip-limits-and-a-huawei-clampdown)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
