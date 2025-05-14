@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)
- - [Grok replied with information about South Africa&#39;s &quot;white genocide&quot; when X users asked it to fact-check unrelated topics; the issue appears to have been fixed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250514/p41#a250514p41)
- - [Microsoft starts testing  ‘Hey, Copilot!’ in Windows](https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation)<!-- TECH:END -->
+ - [Foxconn receives approval from India&#39;s cabinet to build a new $435M semiconductor plant, expected to open in 2027, in a joint venture with IT giant HCL Group &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250514/p43#a250514p43)
+ - [Epic has submitted a new version of Fortnite to the US App Store, saying it needs to release a weekly update, after pulling the version it submitted on Friday &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250514/p42#a250514p42)
+ - [Elon Musk&#39;s Grok AI Can&#39;t Stop Talking About &#39;White Genocide&#39;](https://www.wired.com/story/grok-white-genocide-elon-musk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
