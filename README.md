@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Microsoft&#39;s upcoming OneDrive update bypasses security protocols between business and personal files](https://www.pcgamer.com/software/windows/microsofts-upcoming-onedrive-update-bypasses-security-protocols-between-business-and-personal-files/)
  - [Doom: The Dark Ages feels like a console game first and PC game second](https://www.pcgamer.com/games/fps/doom-the-dark-ages-feels-like-a-console-game-first-and-pc-game-second/)
- - [Diablo 4 players discover forbidden power combo that melts everything—including the servers](https://www.pcgamer.com/games/rpg/diablo-4-players-discover-forbidden-power-combo-that-melts-everything-including-the-servers/)
- - [Jessica Jones is coming back to the MCU in Daredevil: Born Again](https://www.polygon.com/tv/599010/daredevil-born-again-season-2-jessica-jones-marvel)<!-- GAME:END -->
+ - [Diablo 4 players discover forbidden power combo that melts everything—including the servers](https://www.pcgamer.com/games/rpg/diablo-4-players-discover-forbidden-power-combo-that-melts-everything-including-the-servers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
