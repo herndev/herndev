@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [12 Games Are Coming To PS Plus Game Catalog Next Week](https://kotaku.com/ps-plus-extra-free-games-may-2025-catalog-stalker-ps5-1851780673)
- - [Mortal Kombat 1 Definitive Edition launches today, includes all DLC](https://www.polygon.com/gaming/599189/mortal-kombat-1-definitive-edition-launches-today-includes-all-dlc)
- - [Far Cry 7, Assassin&#39;s Creed Hexe, And More Seemingly Delayed To Create &#39;Best Conditions For Success&#39;](https://kotaku.com/far-cry-7-assassins-creed-hexe-ghost-recon-delay-1851780674)<!-- GAME:END -->
+ - [Five Things to Know Before Taking Flight Into Everspace 2: Wrath of the Ancients](https://news.xbox.com/en-us/2025/05/14/taking-flight-into-everspace-2-wrath-of-the-ancients/)
+ - [Oblivion Remastered hero returns to the game&#39;s golden age by spending 7 hours arranging books just to topple them like dominoes](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-hero-returns-to-the-games-golden-age-by-spending-7-hours-arranging-books-just-to-topple-them-like-dominoes/)
+ - [Pokémon Go ‘Crown Clash Taken Over’ Special Research and event guide](https://www.polygon.com/pokemon-go-guide/599151/crown-clash-taken-over-team-go-rocket-event)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
