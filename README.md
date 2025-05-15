@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the biggest thing Samsung got wrong with its One UI 7 update](https://www.androidauthority.com/samsung-one-ui-7-surprise-changes-quick-settings-bad-3557232/)
- - [The Belgian Court of Appeal rules the Transparency &amp; Consent Framework, used by Google, Microsoft, Amazon, and much of the internet, is illegal across Europe &lpar;Johnny Ryan/Irish Council ...&rpar;](http://www.techmeme.com/250515/p8#a250515p8)
- - [Here’s how Material 3 Expressive may come to Google Drive &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-drive-expressive-3557753/)<!-- TECH:END -->
+ - [Analysis: Shein cut the average cost of 98 tracked products in the US by ~13% to $5.56 from a peak of $6.38 on May 7, and sent a price drop alert to US users &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p13#a250515p13)
+ - [I had to invent a new word to describe how I feel about Android’s latest Material 3 redesign](https://www.androidauthority.com/describe-material-3-expressive-3557618/)
+ - [9 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
