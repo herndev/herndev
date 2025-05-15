@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Shein cut the average cost of 98 tracked products in the US by ~13% to $5.56 from a peak of $6.38 on May 7, and sent a price drop alert to US users &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p13#a250515p13)
- - [I had to invent a new word to describe how I feel about Android’s latest Material 3 redesign](https://www.androidauthority.com/describe-material-3-expressive-3557618/)
- - [9 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)<!-- TECH:END -->
+ - [A new cold war is brewing over rare earth minerals](https://www.theverge.com/electric-cars/665198/rare-earth-magnet-ev-motor-china-tariff)
+ - [iPhone Fold rumored to get both under-screen and hole-punch cameras](https://appleinsider.com/articles/25/05/15/iphone-fold-rumored-to-get-both-under-screen-and-hole-punch-cameras?utm_medium=rss)
+ - [OpenAI’s flagship GPT-4.1 model is now in ChatGPT](https://www.theverge.com/news/667507/openai-chatgpt-gpt-4-1-ai-model-general-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
