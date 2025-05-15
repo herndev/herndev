@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve responds to Steam leak rumors: &amp;#8216;this was not a breach of Steam systems&amp;#8217;](https://www.theverge.com/news/667426/valve-steam-leak-breach-rumor)
- - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)
- - [Microsoft plans to shut down Bing Search APIs on August 11; a source says the largest customers will retain access, and DuckDuckGo confirms it won&#39;t be affected &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250514/p47#a250514p47)<!-- TECH:END -->
+ - [Uber and delivery service iFood partner to integrate their services into each others&#39; apps in Brazil; Uber ended its Uber Eats service in Brazil in March 2022 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250514/p48#a250514p48)
+ - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
+ - [EA is bringing employees back to the office three days per week](https://www.theverge.com/news/667441/ea-return-to-office-work-hybrid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
