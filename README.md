@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [N ice haircut](http://9gag.com/gag/abABQoB)
- - ⏩ [Decided for a proper dinner while watching a proper movie](http://9gag.com/gag/aGyA7m5)
- - 👉 [Reality check](http://9gag.com/gag/amoMMxv)<!-- MEMES:END -->
+ - 💣 [Decided for a proper dinner while watching a proper movie](http://9gag.com/gag/aGyA7m5)
+ - ⏩ [Reality check](http://9gag.com/gag/amoMMxv)
+ - 👉 [That escalated quickly..](http://9gag.com/gag/abAB26b)<!-- MEMES:END -->
 
 ---
 
