@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jeff Bezos makes his most ghoulish deal yet](https://www.theverge.com/amazon/667916/jeff-bezos-amazon-saudi-arabia-jamal-khashoggi)
- - [Coinbase says ‘rogue’ support agents helped steal customer data](https://www.theverge.com/news/667989/coinbase-rogue-support-agent-customer-data-stolen-breach)
- - [Filing: Anthropic apologizes after one of its expert witnesses cited a fake article hallucinated by Claude in the company&#39;s legal battle with music publishers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250515/p38#a250515p38)<!-- TECH:END -->
+ - [TikTok will show teens guided meditation after 10PM](https://www.theverge.com/news/668051/tiktok-guided-meditation-wind-down-10pm)
+ - [Sources: DOJ is conducting a criminal antitrust probe into whether Live Nation and AEG illegally colluded on concert refunds at the start of the COVID pandemic &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p40#a250515p40)
+ - [The Middle East Has Entered the AI Group Chat](https://www.wired.com/story/trump-middle-east-artificial-intelligence-investments/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
