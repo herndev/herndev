@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube announces Peak Points, a pilot Gemini AI feature that lets advertisers target ads to viewers when they are most engaged with a video &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250515/p6#a250515p6)
- - [Nintendo accidentally improved Switch emulation performance, thanks to Switch 2](https://www.androidauthority.com/mario-kart-8-deluxe-switch-emulation-3557965/)
- - [President Trump says he told Tim Cook that &quot;I don&#39;t want you building in India&quot;, &quot;India can take care of themselves&quot;, and Apple will be &quot;upping&quot; US production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p5#a250515p5)<!-- TECH:END -->
+ - [This is the biggest thing Samsung got wrong with its One UI 7 update](https://www.androidauthority.com/samsung-one-ui-7-surprise-changes-quick-settings-bad-3557232/)
+ - [The Belgian Court of Appeal rules the Transparency &amp; Consent Framework, used by Google, Microsoft, Amazon, and much of the internet, is illegal across Europe &lpar;Johnny Ryan/Irish Council ...&rpar;](http://www.techmeme.com/250515/p8#a250515p8)
+ - [Here’s how Material 3 Expressive may come to Google Drive &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-drive-expressive-3557753/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
