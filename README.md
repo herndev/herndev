@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads follows Instagram with more links in bio](https://www.theverge.com/news/667588/threads-multiple-profile-link-sharing-update)
- - [The 13 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
- - [Apple&#39;s next-generation &#39;CarPlay Ultra&#39; is finally here](https://appleinsider.com/articles/25/05/15/apples-next-generation-carplay-ultra-is-finally-here?utm_medium=rss)<!-- TECH:END -->
+ - [‘Yaaaaaay!’ Google’s latest accessibility tweaks include stretching out captions for emphasis](https://www.androidauthority.com/expressive-captions-3557811/)
+ - [Microsoft’s simplified Surface lineup puts another device on the chopping block](https://www.theverge.com/notepad-microsoft-newsletter/667664/surface-laptop-studio-2-end-of-life-notepad)
+ - [CarPlay Ultra&#39;s first trial reveals a deeply integrated, Apple-like experience](https://appleinsider.com/articles/25/05/15/carplay-ultras-first-trial-reveals-a-deeply-integrated-apple-like-experience?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
