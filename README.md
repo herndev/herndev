@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with FT&#39;s Patrick McGee on his new book Apple in China, which examines Apple&#39;s role in enabling China&#39;s rise; Apple says the book is &quot;full of inaccuracies&quot; &lpar;Issie Lapowsky/Vanity Fair&rpar;](http://www.techmeme.com/250515/p1#a250515p1)
- - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
- - [YouTube’s newest ad strategy is to ruin the best part of a video on purpose](https://www.androidauthority.com/youtube-peak-points-ads-3557905/)<!-- TECH:END -->
+ - [This modern cassette boombox will lure you in with glowing VU meters](https://www.theverge.com/news/667309/we-are-rewind-cassette-boombox-retro-gb-001)
+ - [How Mayo Clinic is using AI to boost efficiency and amplify human abilities in its radiology department, which has an AI team of 40 people and 400+ radiologists &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250515/p3#a250515p3)
+ - [The OnePlus 13 is a great camera phone, and the OnePlus 15 could continue this trend](https://www.androidauthority.com/oneplus-15-camera-specs-leak-3557910/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
