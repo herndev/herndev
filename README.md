@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans Prepare To Mod The Hell Out Of Stellar Blade After PC Release Date Leaks](https://kotaku.com/stellar-blade-pc-release-date-mods-dlc-nier-outfits-1851780336)
- - [The Best Deals From The Epic Store Mega Sale](https://kotaku.com/free-games-best-deals-epic-mega-store-sale-last-of-us-1851780839)
- - [All weapons in Doom: The Dark Ages and how to get them](https://www.polygon.com/doom-dark-ages-guides/599352/weapons-list-all-how-to-get-unlock)<!-- GAME:END -->
+ - [Dune: Awakening beta players extracted nearly 9 million liters of blood last weekend, enough to fill 3 Olympic-size, extremely gross swimming pools](https://www.pcgamer.com/games/survival-crafting/dune-awakening-beta-players-extracted-nearly-9-million-liters-of-blood-last-weekend-enough-to-fill-3-olympic-size-extremely-gross-swimming-pools/)
+ - [Stellar Blade comes to PC next month with new armor to cover up Eve&#39;s woefully exposed ears](https://www.pcgamer.com/games/action/stellar-blade-comes-to-pc-next-month-with-new-armor-to-cover-up-eves-woefully-exposed-ears/)
+ - [Should You Attack Troubadour In Clair Obscur: Expedition 33?](https://kotaku.com/clair-obscur-expedition-33-troubadour-minigame-attack-1851780882)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
