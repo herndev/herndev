@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 dev says it’s starting work on next game, but won’t abandon Helldivers](https://www.polygon.com/gaming/599453/helldivers-2-dev-new-game-in-progress)
- - [Minecraft Will Soon Let You Craft Saddles 15 Years After They Were Added To The Game](https://kotaku.com/minecraft-saddles-craftable-recipe-beta-testing-update-1851780901)
- - [After hearing the king of funny Elder Scrolls clips explain how Oblivion NPCs work, I have a newfound respect for elves who steal food when they&#39;re hungry and husbands who fight their wives&#39; dogs](https://www.pcgamer.com/games/the-elder-scrolls/after-hearing-the-king-of-funny-elder-scrolls-clips-explain-how-oblivion-npcs-work-i-have-a-newfound-respect-for-elves-who-steal-food-when-theyre-hungry-and-husbands-who-fight-their-wives-dogs/)<!-- GAME:END -->
+ - [Avowed lets you replace spiders with orbs in the first of its major updates coming this year](https://www.pcgamer.com/games/rpg/avowed-lets-you-replace-spiders-with-orbs-in-the-first-of-its-major-updates-coming-this-year/)
+ - [Artist accuses Bungie of stealing her designs for Marathon&#39;s art: &#39;I am tired of designers from huge companies moodboarding and parasitising my designs while I struggle to make a living&#39;](https://www.pcgamer.com/games/fps/artist-accuses-bungie-of-stealing-her-designs-for-marathons-art-i-am-tired-of-designers-from-huge-companies-moodboarding-and-parasitising-my-designs-while-i-struggle-to-make-a-living/)
+ - [Final Destination: Bloodlines directors say IMAX viewers will get a version no one else will ever see](https://www.polygon.com/horror/599421/final-destination-bloodlines-directors-interview-special-imax-version)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
