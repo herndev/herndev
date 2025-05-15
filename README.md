@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm’s latest Snapdragon chip brings Wi-Fi audio to the mid-range](https://www.androidauthority.com/qualcomm-snapdragon-7-gen-4-3557455/)
- - [The next wave of smartphones is about to redefine multi-day battery life](https://www.androidauthority.com/smartphone-battery-golden-age-3550331/)
- - [I Tested the Motorola Razr Ultra. It&#39;s Good, but Flipping Expensive](https://www.cnet.com/tech/mobile/i-tested-the-motorola-razr-ultra-its-good-but-flipping-expensive/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Hummer EV can navigate tight spaces with new King Crab rear steering](https://www.theverge.com/news/666650/hummer-ev-king-crab-rear-steering)
+ - [Apple takes on Android Automotive with CarPlay Ultra](https://www.androidauthority.com/apple-carplay-ultra-3558074/)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
