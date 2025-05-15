@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is awesome... Good job, Netflix!](http://9gag.com/gag/aAy2O62)
- - ⏩ [N ice haircut](http://9gag.com/gag/abABQoB)
- - 👉 [Who knew transparency could be so invisible?](http://9gag.com/gag/aByGomZ)<!-- MEMES:END -->
+ - 💣 [N ice haircut](http://9gag.com/gag/abABQoB)
+ - ⏩ [Decided for a proper dinner while watching a proper movie](http://9gag.com/gag/aGyA7m5)
+ - 👉 [Reality check](http://9gag.com/gag/amoMMxv)<!-- MEMES:END -->
 
 ---
 
