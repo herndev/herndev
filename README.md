@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No, Steam wasn’t hacked, and your account details are safe](https://www.polygon.com/news/599302/steam-hack-text-message-data)
- - [All Doom: The Dark Ages missions and how long it takes to beat](https://www.pcgamer.com/games/fps/doom-the-dark-ages-missions-list-how-long/)
- - [AMD all but confirms the RX 9060 XT will be announced on May 21](https://www.pcgamer.com/hardware/graphics-cards/amd-all-but-confirms-the-rx-9060-xt-will-be-announced-on-may-21/)<!-- GAME:END -->
+ - [Ghost of Yōtei: How Sucker Punch chose Hokkaido for the game’s setting](https://blog.playstation.com/2025/05/15/ghost-of-yotei-how-sucker-punch-chose-hokkaido-for-the-games-setting/)
+ - [How To Defeat The Mourner In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-shadows-wheel-mourner-oichi-onryo-1851780729)
+ - [No, Steam wasn’t hacked, and your account details are safe](https://www.polygon.com/news/599302/steam-hack-text-message-data)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
