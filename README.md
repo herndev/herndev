@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reality check](http://9gag.com/gag/amoMMxv)
- - ⏩ [That escalated quickly..](http://9gag.com/gag/abAB26b)
- - 👉 [When the artist is as hot as the character she draws](http://9gag.com/gag/aoyLnd0)<!-- MEMES:END -->
+ - 💣 [N ice haircut](http://9gag.com/gag/abABQoB)
+ - ⏩ [Reality check](http://9gag.com/gag/amoMMxv)
+ - 👉 [That escalated quickly..](http://9gag.com/gag/abAB26b)<!-- MEMES:END -->
 
 ---
 
