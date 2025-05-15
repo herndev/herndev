@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune: Awakening beta players extracted nearly 9 million liters of blood last weekend, enough to fill 3 Olympic-size, extremely gross swimming pools](https://www.pcgamer.com/games/survival-crafting/dune-awakening-beta-players-extracted-nearly-9-million-liters-of-blood-last-weekend-enough-to-fill-3-olympic-size-extremely-gross-swimming-pools/)
- - [Stellar Blade comes to PC next month with new armor to cover up Eve&#39;s woefully exposed ears](https://www.pcgamer.com/games/action/stellar-blade-comes-to-pc-next-month-with-new-armor-to-cover-up-eves-woefully-exposed-ears/)
- - [Should You Attack Troubadour In Clair Obscur: Expedition 33?](https://kotaku.com/clair-obscur-expedition-33-troubadour-minigame-attack-1851780882)<!-- GAME:END -->
+ - [Helldivers 2 dev says it’s starting work on next game, but won’t abandon Helldivers](https://www.polygon.com/gaming/599453/helldivers-2-dev-new-game-in-progress)
+ - [Minecraft Will Soon Let You Craft Saddles 15 Years After They Were Added To The Game](https://kotaku.com/minecraft-saddles-craftable-recipe-beta-testing-update-1851780901)
+ - [After hearing the king of funny Elder Scrolls clips explain how Oblivion NPCs work, I have a newfound respect for elves who steal food when they&#39;re hungry and husbands who fight their wives&#39; dogs](https://www.pcgamer.com/games/the-elder-scrolls/after-hearing-the-king-of-funny-elder-scrolls-clips-explain-how-oblivion-npcs-work-i-have-a-newfound-respect-for-elves-who-steal-food-when-theyre-hungry-and-husbands-who-fight-their-wives-dogs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
