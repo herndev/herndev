@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s newest ad strategy is to ruin the best part of a video on purpose](https://www.androidauthority.com/youtube-peak-points-ads-3557905/)
- - [Pixel Watch quietly gets its first taste of Material 3 Expressive](https://www.androidauthority.com/pixel-watch-material-3-expressive-3557901/)
- - [Meta promotes Benjamin Joe, its longtime VP for Southeast Asia, to VP of Asia Pacific and expands India VP Sandhya Devanathan&#39;s role to include Southeast Asia &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250514/p54#a250514p54)<!-- TECH:END -->
+ - [Q&amp;A with FT&#39;s Patrick McGee on his new book Apple in China, which examines Apple&#39;s role in enabling China&#39;s rise; Apple says the book is &quot;full of inaccuracies&quot; &lpar;Issie Lapowsky/Vanity Fair&rpar;](http://www.techmeme.com/250515/p1#a250515p1)
+ - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
+ - [YouTube’s newest ad strategy is to ruin the best part of a video on purpose](https://www.androidauthority.com/youtube-peak-points-ads-3557905/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
