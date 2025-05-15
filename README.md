@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)
- - ⏩ [Not today](http://9gag.com/gag/avyRm3E)
- - 👉 [Make natural selection great again](http://9gag.com/gag/azxRQBb)<!-- MEMES:END -->
+ - ⏩ [And that he isn&#39;t playing Trump like a fiddle...](http://9gag.com/gag/aVvLBpO)
+ - 👉 [Not today](http://9gag.com/gag/avyRm3E)<!-- MEMES:END -->
 
 ---
 
