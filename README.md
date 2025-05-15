@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It sounds like a six word horror story, but &#39;Ransomware running directly from your CPU&#39; is now a real thing](https://www.pcgamer.com/hardware/processors/it-sounds-like-a-six-word-horror-story-but-ransomware-running-directly-from-your-cpu-is-now-a-real-thing/)
+ - [It sounds like a six-word horror story, but &#39;Ransomware running directly from your CPU&#39; is now a real thing](https://www.pcgamer.com/hardware/processors/it-sounds-like-a-six-word-horror-story-but-ransomware-running-directly-from-your-cpu-is-now-a-real-thing/)
  - [VPN cancels lifetime subscriptions, having previously been unaware it was selling them](https://www.pcgamer.com/hardware/vpn-cancels-lifetime-subscriptions-having-previously-been-unaware-it-was-selling-them/)
  - [Hideo Kojima is heading to Sydney Film Festival for a live discussion with Mad Max creator George Miller](https://www.pcgamer.com/games/action/hideo-kojima-is-heading-to-sydney-film-festival-for-a-live-discussion-with-mad-max-creator-george-miller/)<!-- GAME:END -->
 
