@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avowed lets you replace spiders with orbs in the first of its major updates coming this year](https://www.pcgamer.com/games/rpg/avowed-lets-you-replace-spiders-with-orbs-in-the-first-of-its-major-updates-coming-this-year/)
- - [Artist accuses Bungie of stealing her designs for Marathon&#39;s art: &#39;I am tired of designers from huge companies moodboarding and parasitising my designs while I struggle to make a living&#39;](https://www.pcgamer.com/games/fps/artist-accuses-bungie-of-stealing-her-designs-for-marathons-art-i-am-tired-of-designers-from-huge-companies-moodboarding-and-parasitising-my-designs-while-i-struggle-to-make-a-living/)
- - [Final Destination: Bloodlines directors say IMAX viewers will get a version no one else will ever see](https://www.polygon.com/horror/599421/final-destination-bloodlines-directors-interview-special-imax-version)<!-- GAME:END -->
+ - [PlayStation&#39;s Fairgame$ Reportedly Delayed As Studio Head Leaves](https://kotaku.com/fairgame-ps5-heist-shooter-haven-jade-raymond-delay-1851780961)
+ - [Nintendo Of America President Won&#39;t Commit To Switch 2 Staying $450 After Launch](https://kotaku.com/nintendo-switch-2-450-price-increase-sold-out-tariffs-1851780934)
+ - [GTA 6 Needed More Time To Achieve Vision With &#39;No Limits&#39; And Probably Won&#39;t Be Delayed Again](https://kotaku.com/gta-6-delay-development-red-dead-online-release-date-1851780943)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
