@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Yaaaaaay!’ Google’s latest accessibility tweaks include stretching out captions for emphasis](https://www.androidauthority.com/expressive-captions-3557811/)
- - [Microsoft’s simplified Surface lineup puts another device on the chopping block](https://www.theverge.com/notepad-microsoft-newsletter/667664/surface-laptop-studio-2-end-of-life-notepad)
- - [CarPlay Ultra&#39;s first trial reveals a deeply integrated, Apple-like experience](https://appleinsider.com/articles/25/05/15/carplay-ultras-first-trial-reveals-a-deeply-integrated-apple-like-experience?utm_medium=rss)<!-- TECH:END -->
+ - [Akido Labs, which makes AI assistants for doctors to improve patient treatment efficiency, raised a $60M Series B led by Oak HC/FT &lpar;Madeline Renbarger/Newcomer&rpar;](http://www.techmeme.com/250515/p30#a250515p30)
+ - [Take off your tinfoil hat: Exposure to 5G doesn’t alter your genes, new study finds](https://www.androidauthority.com/5g-study-human-cells-3558167/)
+ - [You can see right through Audio-Technica’s new transparent turntable](https://www.theverge.com/news/667793/audio-technica-vinyl-turntable-at-lpa2-record-player)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
