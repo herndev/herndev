@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Reality check](http://9gag.com/gag/amoMMxv)
- - ⏩ [When the artist is as hot as the character she draws](http://9gag.com/gag/aoyLnd0)
- - 👉 [That escalated quickly..](http://9gag.com/gag/abAB26b)<!-- MEMES:END -->
+ - ⏩ [That escalated quickly..](http://9gag.com/gag/abAB26b)
+ - 👉 [When the artist is as hot as the character she draws](http://9gag.com/gag/aoyLnd0)<!-- MEMES:END -->
 
 ---
 
