@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new cold war is brewing over rare earth minerals](https://www.theverge.com/electric-cars/665198/rare-earth-magnet-ev-motor-china-tariff)
- - [iPhone Fold rumored to get both under-screen and hole-punch cameras](https://appleinsider.com/articles/25/05/15/iphone-fold-rumored-to-get-both-under-screen-and-hole-punch-cameras?utm_medium=rss)
- - [OpenAI’s flagship GPT-4.1 model is now in ChatGPT](https://www.theverge.com/news/667507/openai-chatgpt-gpt-4-1-ai-model-general-availability)<!-- TECH:END -->
+ - [Qualcomm’s latest Snapdragon chip brings Wi-Fi audio to the mid-range](https://www.androidauthority.com/qualcomm-snapdragon-7-gen-4-3557455/)
+ - [The next wave of smartphones is about to redefine multi-day battery life](https://www.androidauthority.com/smartphone-battery-golden-age-3550331/)
+ - [I Tested the Motorola Razr Ultra. It&#39;s Good, but Flipping Expensive](https://www.cnet.com/tech/mobile/i-tested-the-motorola-razr-ultra-its-good-but-flipping-expensive/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
