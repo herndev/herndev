@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Civil war breaks out in Helldivers 2 as players spawn dozens of mechs to crash each other&#39;s games](https://www.pcgamer.com/games/third-person-shooter/civil-war-breaks-out-in-helldivers-2-as-players-spawn-dozens-of-mechs-to-crash-each-others-games/)
  - [PlayStation&#39;s Fairgame$ Reportedly Delayed As Studio Head Leaves](https://kotaku.com/fairgame-ps5-heist-shooter-haven-jade-raymond-delay-1851780961)
- - [Nintendo Of America President Won&#39;t Commit To Switch 2 Staying $450 After Launch](https://kotaku.com/nintendo-switch-2-450-price-increase-sold-out-tariffs-1851780934)
- - [GTA 6 Needed More Time To Achieve Vision With &#39;No Limits&#39; And Probably Won&#39;t Be Delayed Again](https://kotaku.com/gta-6-delay-development-red-dead-online-release-date-1851780943)<!-- GAME:END -->
+ - [Nintendo Of America President Won&#39;t Commit To Switch 2 Staying $450 After Launch](https://kotaku.com/nintendo-switch-2-450-price-increase-sold-out-tariffs-1851780934)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
