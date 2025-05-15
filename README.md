@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD all but confirms the RX 9060 XT will be announced on May 21](https://www.pcgamer.com/hardware/graphics-cards/amd-all-but-confirms-the-rx-9060-xt-will-be-announced-on-may-21/)
- - [The Baldur&#39;s Gate 3 cast got a new set of pre-painted minis and—oh, oh no, oh no no no](https://www.pcgamer.com/games/baldurs-gate/the-baldurs-gate-3-cast-got-a-new-set-of-pre-painted-minis-and-oh-oh-no-oh-no-no-no/)
- - [All free Monopoly Go Dice Links for May 2025](https://www.pcgamer.com/games/board-games/monopoly-go-dice-links/)<!-- GAME:END -->
+ - [No, Steam wasn’t hacked, and your account details are safe](https://www.polygon.com/news/599302/steam-hack-text-message-data)
+ - [All Doom: The Dark Ages missions and how long it takes to beat](https://www.pcgamer.com/games/fps/doom-the-dark-ages-missions-list-how-long/)
+ - [AMD all but confirms the RX 9060 XT will be announced on May 21](https://www.pcgamer.com/hardware/graphics-cards/amd-all-but-confirms-the-rx-9060-xt-will-be-announced-on-may-21/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
