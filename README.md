@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Slayer’s Guide to DOOM: The Dark Ages’ Shield Saw](https://news.xbox.com/en-us/2025/05/15/doom-the-dark-ages-launch-tips-shield/)
- - [Don&#39;t Expect Many Switch 2 Reviews At Launch](https://kotaku.com/switch-2-review-day-one-patch-delay-nintendo-mario-kart-1851780793)
- - [Join Thousands Of Other People Trying To Drive An Imaginary Car To Canada](https://kotaku.com/internet-roadtrip-road-trip-neal-agarwal-fun-1851780768)<!-- GAME:END -->
+ - [Free Play Days – Stranger of Paradise Final Fantasy Origin, Train Sim World 5: Thomas &amp; Friends and House Flipper 2](https://news.xbox.com/en-us/2025/05/15/free-play-days-05-15-2025/)
+ - [For the first time since launch you&#39;ll finally be able to craft saddles in Minecraft](https://www.pcgamer.com/games/survival-crafting/for-the-first-time-since-launch-youll-finally-be-able-to-craft-saddles-in-minecraft/)
+ - [There&#39;s a rug in Oblivion that&#39;s just a real life rug you can get](https://www.pcgamer.com/games/the-elder-scrolls/theres-a-rug-in-oblivion-thats-just-a-real-life-rug-you-can-get/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
