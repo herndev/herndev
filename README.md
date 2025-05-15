@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Which Wear OS smartwatch shape is best, round or square?](https://www.androidauthority.com/smartwatch-shape-poll-3558176/)
- - [Sources: Cohere, which has raised $1B+, was on pace to generate just $70M in revenue annually as of February 2025, after projecting ~$450M in revenue in 2024 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/250515/p34#a250515p34)
- - [YouTube now has a podcast chart, and Joe Rogan is on top](https://www.theverge.com/news/667905/youtube-weekly-podcast-chart-joe-rogan)<!-- TECH:END -->
+ - [Thanks, Trump tariffs, now I gotta replace my phone battery](https://www.theverge.com/apple/667904/trump-tariff-iphone-shortage-battery-repair)
+ - [Neal Mohan says the monetization rate of Shorts hit parity with core YouTube in the US and multiple other countries, and Shorts viewing grew 20% YoY in Q1 2025 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250515/p37#a250515p37)
+ - [Source: hackers bribed enough Coinbase customer service representatives to achieve effectively on-demand access to Coinbase customer information since January &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p36#a250515p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
