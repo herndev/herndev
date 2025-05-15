@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [This is awesome... Good job, Netflix!](http://9gag.com/gag/aAy2O62)
  - ⏩ [N ice haircut](http://9gag.com/gag/abABQoB)
- - 👉 [Reality check](http://9gag.com/gag/amoMMxv)<!-- MEMES:END -->
+ - 👉 [Who knew transparency could be so invisible?](http://9gag.com/gag/aByGomZ)<!-- MEMES:END -->
 
 ---
 
