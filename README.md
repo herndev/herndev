@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leica can now style your iPhone photos to mimic a pro photographer](https://www.theverge.com/news/667379/leica-lux-iphone-camera-app-pro-photographer-filters-greg-williams)
  - [This modern cassette boombox will lure you in with glowing VU meters](https://www.theverge.com/news/667309/we-are-rewind-cassette-boombox-retro-gb-001)
- - [How Mayo Clinic is using AI to boost efficiency and amplify human abilities in its radiology department, which has an AI team of 40 people and 400+ radiologists &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250515/p3#a250515p3)
- - [The OnePlus 13 is a great camera phone, and the OnePlus 15 could continue this trend](https://www.androidauthority.com/oneplus-15-camera-specs-leak-3557910/)<!-- TECH:END -->
+ - [How Mayo Clinic is using AI to boost efficiency and amplify human abilities in its radiology department, which has an AI team of 40 people and 400+ radiologists &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250515/p3#a250515p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
