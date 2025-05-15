@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok will show teens guided meditation after 10PM](https://www.theverge.com/news/668051/tiktok-guided-meditation-wind-down-10pm)
- - [Sources: DOJ is conducting a criminal antitrust probe into whether Live Nation and AEG illegally colluded on concert refunds at the start of the COVID pandemic &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p40#a250515p40)
- - [The Middle East Has Entered the AI Group Chat](https://www.wired.com/story/trump-middle-east-artificial-intelligence-investments/)<!-- TECH:END -->
+ - [Tim Sweeney is mocking Apple for letting Fortnite fakes into the App Store](https://www.theverge.com/news/668101/apple-epic-games-fortnite-tim-sweeney-app-store-fakes)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [YouTube intros new top-podcast chart, letting you see exactly who’s influencing America](https://www.androidauthority.com/youtube-podcast-chart-3558334/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
