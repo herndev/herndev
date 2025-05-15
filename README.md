@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Support Veterans with the Call of Duty Endowment United Force: Tracer Pack &amp; More](https://bit.ly/codeunitedforceblog#new_tab)
- - [Today&#39;s Wordle is the 5th toughest ever, ending streaks for 50% of players](https://www.pcgamer.com/games/puzzle/todays-wordle-is-the-5th-toughest-ever-ending-streaks-for-50-percent-of-players/)
- - [YouTube&#39;s top brains crack making its ads even worse: Using AI to insert commercials at moments you&#39;re &#39;most engaged&#39; with its videos](https://www.pcgamer.com/software/platforms/youtubes-top-brains-crack-making-its-ads-even-worse-using-ai-to-insert-commercials-at-moments-youre-most-engaged-with-its-videos/)<!-- GAME:END -->
+ - [Fans Prepare To Mod The Hell Out Of Stellar Blade After PC Release Date Leaks](https://kotaku.com/stellar-blade-pc-release-date-mods-dlc-nier-outfits-1851780336)
+ - [The Best Deals From The Epic Store Mega Sale](https://kotaku.com/free-games-best-deals-epic-mega-store-sale-last-of-us-1851780839)
+ - [All weapons in Doom: The Dark Ages and how to get them](https://www.polygon.com/doom-dark-ages-guides/599352/weapons-list-all-how-to-get-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
