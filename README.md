@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Stranger of Paradise Final Fantasy Origin, Train Sim World 5: Thomas &amp; Friends and House Flipper 2](https://news.xbox.com/en-us/2025/05/15/free-play-days-05-15-2025/)
- - [For the first time since launch you&#39;ll finally be able to craft saddles in Minecraft](https://www.pcgamer.com/games/survival-crafting/for-the-first-time-since-launch-youll-finally-be-able-to-craft-saddles-in-minecraft/)
- - [There&#39;s a rug in Oblivion that&#39;s just a real life rug you can get](https://www.pcgamer.com/games/the-elder-scrolls/theres-a-rug-in-oblivion-thats-just-a-real-life-rug-you-can-get/)<!-- GAME:END -->
+ - [Xbox Celebrates Global Accessibility Awareness Day](https://news.xbox.com/en-us/2025/05/15/global-accessibility-awareness-day-2025-xbox/)
+ - [With hardware prices in cloud cuckoo land, now&#39;s the time to love the rig you&#39;re with. And here&#39;s how to make that PC love last](https://www.pcgamer.com/hardware/with-hardware-prices-in-cloud-cuckoo-land-nows-the-time-to-love-the-rig-youre-with-and-heres-how-to-make-that-pc-love-last/)
+ - [Incredible news: Stalker 2 fixes corpse-eating and sausage blood in big ol&#39; patch which also gives enemies less of a death wish](https://www.pcgamer.com/games/fps/incredible-news-stalker-2-fixes-corpse-eating-and-sausage-blood-in-big-ol-patch-which-also-gives-enemies-less-of-a-death-wish/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
