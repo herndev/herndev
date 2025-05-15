@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leica can now style your iPhone photos to mimic a pro photographer](https://www.theverge.com/news/667379/leica-lux-iphone-camera-app-pro-photographer-filters-greg-williams)
- - [This modern cassette boombox will lure you in with glowing VU meters](https://www.theverge.com/news/667309/we-are-rewind-cassette-boombox-retro-gb-001)
- - [How Mayo Clinic is using AI to boost efficiency and amplify human abilities in its radiology department, which has an AI team of 40 people and 400+ radiologists &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250515/p3#a250515p3)<!-- TECH:END -->
+ - [YouTube announces Peak Points, a pilot Gemini AI feature that lets advertisers target ads to viewers when they are most engaged with a video &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250515/p6#a250515p6)
+ - [Nintendo accidentally improved Switch emulation performance, thanks to Switch 2](https://www.androidauthority.com/mario-kart-8-deluxe-switch-emulation-3557965/)
+ - [President Trump says he told Tim Cook that &quot;I don&#39;t want you building in India&quot;, &quot;India can take care of themselves&quot;, and Apple will be &quot;upping&quot; US production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p5#a250515p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
