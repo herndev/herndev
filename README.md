@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Akido Labs, which makes AI assistants for doctors to improve patient treatment efficiency, raised a $60M Series B led by Oak HC/FT &lpar;Madeline Renbarger/Newcomer&rpar;](http://www.techmeme.com/250515/p30#a250515p30)
- - [Take off your tinfoil hat: Exposure to 5G doesn’t alter your genes, new study finds](https://www.androidauthority.com/5g-study-human-cells-3558167/)
- - [You can see right through Audio-Technica’s new transparent turntable](https://www.theverge.com/news/667793/audio-technica-vinyl-turntable-at-lpa2-record-player)<!-- TECH:END -->
+ - [Sources: under the Trump administration, the SEC continues investigating whether Coinbase misstated its user numbers by reporting 100M+ &quot;verified users&quot; in 2021 &lpar;New York Times&rpar;](http://www.techmeme.com/250515/p32#a250515p32)
+ - [Pinterest says mass account bans were caused by an ‘internal error’](https://www.theverge.com/news/667837/pinterest-response-mass-account-bans-outrage)
+ - [New Apple videos spotlight how accessibility features empower everyone](https://appleinsider.com/articles/25/05/15/new-apple-videos-spotlight-how-accessibility-features-empower-everyone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
