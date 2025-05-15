@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reality check](http://9gag.com/gag/amoMMxv)
- - ⏩ [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)
+ - 💣 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)
+ - ⏩ [Not today](http://9gag.com/gag/avyRm3E)
  - 👉 [Make natural selection great again](http://9gag.com/gag/azxRQBb)<!-- MEMES:END -->
 
 ---
