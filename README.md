@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huione Guarantee, a Telegram-based black market for crypto scammers and money launderers that enabled $27B+ in transactions, shuts down after mass account bans &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250514/p53#a250514p53)
  - [OpenAI launches the Safety Evaluations Hub, a page showing how the company&#39;s models score on various tests for harmful content, jailbreaks, and hallucinations &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250514/p52#a250514p52)
- - [Austin Russell, the founder and CEO of lidar manufacturer Luminar, resigns following an ethics inquiry and is replaced by former Nuance CEO Paul Ricci &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250514/p51#a250514p51)
- - [Samaya AI, which is building AI models to assist financial analysts, raised a $43.5M Series A led by NEA, with participation from Eric Schmidt and others &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250514/p50#a250514p50)<!-- TECH:END -->
+ - [Austin Russell, the founder and CEO of lidar manufacturer Luminar, resigns following an ethics inquiry and is replaced by former Nuance CEO Paul Ricci &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250514/p51#a250514p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
