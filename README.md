@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [N ice haircut](http://9gag.com/gag/abABQoB)
- - ⏩ [Reality check](http://9gag.com/gag/amoMMxv)
- - 👉 [That escalated quickly..](http://9gag.com/gag/abAB26b)<!-- MEMES:END -->
+ - 💣 [This is awesome... Good job, Netflix!](http://9gag.com/gag/aAy2O62)
+ - ⏩ [N ice haircut](http://9gag.com/gag/abABQoB)
+ - 👉 [Reality check](http://9gag.com/gag/amoMMxv)<!-- MEMES:END -->
 
 ---
 
