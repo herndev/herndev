@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber and delivery service iFood partner to integrate their services into each others&#39; apps in Brazil; Uber ended its Uber Eats service in Brazil in March 2022 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250514/p48#a250514p48)
- - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
- - [EA is bringing employees back to the office three days per week](https://www.theverge.com/news/667441/ea-return-to-office-work-hybrid)<!-- TECH:END -->
+ - [Samaya AI, which is building AI models to assist financial analysts, raised a $43.5M Series A led by NEA, with participation from Eric Schmidt and others &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250514/p50#a250514p50)
+ - [CoreWeave plans to spend $20B to $23B in 2025 on AI infrastructure and data center capacity to meet demand, including from Microsoft; CRWV drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p49#a250514p49)
+ - [I went hands-on with the Samsung Polygon Foldable](https://www.androidauthority.com/samsung-polygon-foldable-hands-on-3557874/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
