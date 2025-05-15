@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: under the Trump administration, the SEC continues investigating whether Coinbase misstated its user numbers by reporting 100M+ &quot;verified users&quot; in 2021 &lpar;New York Times&rpar;](http://www.techmeme.com/250515/p32#a250515p32)
- - [Pinterest says mass account bans were caused by an ‘internal error’](https://www.theverge.com/news/667837/pinterest-response-mass-account-bans-outrage)
- - [New Apple videos spotlight how accessibility features empower everyone](https://appleinsider.com/articles/25/05/15/new-apple-videos-spotlight-how-accessibility-features-empower-everyone?utm_medium=rss)<!-- TECH:END -->
+ - [Poll: Which Wear OS smartwatch shape is best, round or square?](https://www.androidauthority.com/smartwatch-shape-poll-3558176/)
+ - [Sources: Cohere, which has raised $1B+, was on pace to generate just $70M in revenue annually as of February 2025, after projecting ~$450M in revenue in 2024 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/250515/p34#a250515p34)
+ - [YouTube now has a podcast chart, and Joe Rogan is on top](https://www.theverge.com/news/667905/youtube-weekly-podcast-chart-joe-rogan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
