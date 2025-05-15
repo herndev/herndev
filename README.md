@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thanks, Trump tariffs, now I gotta replace my phone battery](https://www.theverge.com/apple/667904/trump-tariff-iphone-shortage-battery-repair)
- - [Neal Mohan says the monetization rate of Shorts hit parity with core YouTube in the US and multiple other countries, and Shorts viewing grew 20% YoY in Q1 2025 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250515/p37#a250515p37)
- - [Source: hackers bribed enough Coinbase customer service representatives to achieve effectively on-demand access to Coinbase customer information since January &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p36#a250515p36)<!-- TECH:END -->
+ - [Jeff Bezos makes his most ghoulish deal yet](https://www.theverge.com/amazon/667916/jeff-bezos-amazon-saudi-arabia-jamal-khashoggi)
+ - [Coinbase says ‘rogue’ support agents helped steal customer data](https://www.theverge.com/news/667989/coinbase-rogue-support-agent-customer-data-stolen-breach)
+ - [Filing: Anthropic apologizes after one of its expert witnesses cited a fake article hallucinated by Claude in the company&#39;s legal battle with music publishers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250515/p38#a250515p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
