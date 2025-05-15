@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Celebrates Global Accessibility Awareness Day](https://news.xbox.com/en-us/2025/05/15/global-accessibility-awareness-day-2025-xbox/)
- - [With hardware prices in cloud cuckoo land, now&#39;s the time to love the rig you&#39;re with. And here&#39;s how to make that PC love last](https://www.pcgamer.com/hardware/with-hardware-prices-in-cloud-cuckoo-land-nows-the-time-to-love-the-rig-youre-with-and-heres-how-to-make-that-pc-love-last/)
- - [Incredible news: Stalker 2 fixes corpse-eating and sausage blood in big ol&#39; patch which also gives enemies less of a death wish](https://www.pcgamer.com/games/fps/incredible-news-stalker-2-fixes-corpse-eating-and-sausage-blood-in-big-ol-patch-which-also-gives-enemies-less-of-a-death-wish/)<!-- GAME:END -->
+ - [Support Veterans with the Call of Duty Endowment United Force: Tracer Pack &amp; More](https://bit.ly/codeunitedforceblog#new_tab)
+ - [Today&#39;s Wordle is the 5th toughest ever, ending streaks for 50% of players](https://www.pcgamer.com/games/puzzle/todays-wordle-is-the-5th-toughest-ever-ending-streaks-for-50-percent-of-players/)
+ - [YouTube&#39;s top brains crack making its ads even worse: Using AI to insert commercials at moments you&#39;re &#39;most engaged&#39; with its videos](https://www.pcgamer.com/software/platforms/youtubes-top-brains-crack-making-its-ads-even-worse-using-ai-to-insert-commercials-at-moments-youre-most-engaged-with-its-videos/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
