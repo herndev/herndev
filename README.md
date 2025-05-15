@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Yōtei: How Sucker Punch chose Hokkaido for the game’s setting](https://blog.playstation.com/2025/05/15/ghost-of-yotei-how-sucker-punch-chose-hokkaido-for-the-games-setting/)
- - [How To Defeat The Mourner In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-shadows-wheel-mourner-oichi-onryo-1851780729)
- - [No, Steam wasn’t hacked, and your account details are safe](https://www.polygon.com/news/599302/steam-hack-text-message-data)<!-- GAME:END -->
+ - [A Slayer’s Guide to DOOM: The Dark Ages’ Shield Saw](https://news.xbox.com/en-us/2025/05/15/doom-the-dark-ages-launch-tips-shield/)
+ - [Don&#39;t Expect Many Switch 2 Reviews At Launch](https://kotaku.com/switch-2-review-day-one-patch-delay-nintendo-mario-kart-1851780793)
+ - [Join Thousands Of Other People Trying To Drive An Imaginary Car To Canada](https://kotaku.com/internet-roadtrip-road-trip-neal-agarwal-fun-1851780768)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
