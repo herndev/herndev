@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [False alarm: Valve confirms that nobody hacked into over 89M Steam accounts and that your passwords are safe](https://www.pcgamer.com/software/platforms/false-alarm-valve-confirms-that-nobody-hacked-into-over-89m-steam-accounts-and-that-your-passwords-are-safe/)
- - [Lucasfilm declares creative bankruptcy with an AI-generated Star Wars film that&#39;s just 2 minutes of mostly-normal animals jumbled together](https://www.pcgamer.com/gaming-industry/lucasfilm-declares-creative-bankruptcy-with-an-ai-generated-star-wars-film-thats-just-2-minutes-of-mostly-normal-animals-jumbled-together/)
- - [Helldivers 2 has still got it](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-has-still-got-it/)<!-- GAME:END -->
+ - [6 beginner&amp;#8217;s tips to face enemies in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599028/beginners-tips-tricks-before-starting)
+ - [Doom: The Dark Ages artillery cannon locations in Siege Part 1](https://www.pcgamer.com/games/fps/doom-the-dark-ages-artillery-cannon-locations-siege-breaker/)
+ - [Doom: The Dark Ages Sentinel Barracks secrets and collectibles](https://www.pcgamer.com/games/fps/doom-the-dark-ages-sentinel-barracks-secrets-collectibles/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
