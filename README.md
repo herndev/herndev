@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hummer EV can navigate tight spaces with new King Crab rear steering](https://www.theverge.com/news/666650/hummer-ev-king-crab-rear-steering)
- - [Apple takes on Android Automotive with CarPlay Ultra](https://www.androidauthority.com/apple-carplay-ultra-3558074/)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Threads follows Instagram with more links in bio](https://www.theverge.com/news/667588/threads-multiple-profile-link-sharing-update)
+ - [The 13 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
+ - [Apple&#39;s next-generation &#39;CarPlay Ultra&#39; is finally here](https://appleinsider.com/articles/25/05/15/apples-next-generation-carplay-ultra-is-finally-here?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
