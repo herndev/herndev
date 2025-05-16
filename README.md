@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lights out](http://9gag.com/gag/a7o2AAw)
- - ⏩ [Decided for a proper dinner while watching a proper movie](http://9gag.com/gag/aGyA7m5)
- - 👉 [This is not a joke.](http://9gag.com/gag/a1m2OGv)<!-- MEMES:END -->
+ - 💣 [When free candy is the ultimate motivator](http://9gag.com/gag/ajPZyqQ)
+ - ⏩ [Close enough ditto](http://9gag.com/gag/azxRQwp)
+ - 👉 [My man had that Reverse card on him](http://9gag.com/gag/aND438r)<!-- MEMES:END -->
 
 ---
 
