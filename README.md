@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump Memecoin Dinner Winners Are Getting Rid of Their Coins](https://www.wired.com/story/the-trump-memecoin-dinner-winners-are-getting-rid-of-their-coins/)
- - [Klarna CEO says its AI agent now handles two-thirds of customer service chats, an equivalent of 800 jobs, but Klarna is hiring workers for higher-end chats &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250516/p17#a250516p17)
- - [Trump is too busy for his own tariff negotiations, so will dictate terms instead](https://appleinsider.com/articles/25/05/16/trump-is-too-busy-for-his-own-tariff-negotiations-so-will-dictate-terms-instead?utm_medium=rss)<!-- TECH:END -->
+ - [Verizon’s $20 billion Frontier acquisition wins FCC approval](https://www.theverge.com/news/668614/verizon-frontier-acquisition-fcc-approval)
+ - [Apple refutes Epic Games claim that it has blocked &#39;Fortnite&#39; worldwide](https://appleinsider.com/articles/25/05/16/apple-refutes-epic-games-claim-that-it-has-blocked-fortnite-worldwide?utm_medium=rss)
+ - [Nothing doesn’t like any of the headphones on the market so it’s making its own](https://www.androidauthority.com/nothing-headphones-coming-this-summer-3558594/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
