@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Call of Duty: Warzone is winding down on mobile](https://www.theverge.com/news/668899/call-of-duty-warzone-mobile-wind-down)
- - [Google’s glorious G glow-up spreads its rainbow across Android](https://www.androidauthority.com/rainbow-g-logo-3558744/)
- - [Source: Cohere crossed an annualized revenue of $100M as of May 2025, following a strategic shift in Q3 2024 to focus on customers in sectors like finance &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250516/p26#a250516p26)<!-- TECH:END -->
+ - [Galaxy Digital, which has traded on the Toronto Stock Exchange since 2020, started trading on the Nasdaq on Friday under the ticker GLXY; the stock closed up 4% &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250516/p28#a250516p28)
+ - [GameStop will have more Switch 2 stock at launch](https://www.theverge.com/news/668918/gamestop-nintendo-switch-2-stock-in-store-online-launch)
+ - [Michael Novogratz says Galaxy Digital is in talks with the US SEC about tokenizing its own stock as well as other equities using its digital-asset platform &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250516/p27#a250516p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
