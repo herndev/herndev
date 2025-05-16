@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite for iOS is unavailable worldwide](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic)
- - [Apple tests EU by adding scare screens to apps using third-party payments [u]](https://appleinsider.com/articles/25/05/15/apple-tests-eu-by-adding-scare-screens-to-apps-using-third-party-payments?utm_medium=rss)
- - [Taiwanese silicon wafer maker GlobalWafers plans to invest $4B in its US manufacturing operations, more than doubling its earlier pledge to $7.5B &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250516/p5#a250516p5)<!-- TECH:END -->
+ - [You didn’t ask for ads in your RCS chat app, but you’re going to get them anyway](https://www.androidauthority.com/iphone-rcs-ads-3558408/)
+ - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [The 11 Best Mattress Toppers We’ve Slept On &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-toppers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
