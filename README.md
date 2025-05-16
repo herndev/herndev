@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Artist Shocked To Find Her Poster Designs From 2017 In Bungie&#39;s Marathon: &#39;A Major Company Has Deemed It Easier To Pay A Designer To Imitate Or Steal My Work Than To Write Me An Email&#39; [Update]](https://kotaku.com/marathon-bungie-art-alpha-gameplay-posters-antireal-1851780911)
  - [Today&#39;s Wordle answer for Friday, May 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-16-2025/)
- - [Steam&#39;s monthly top-seller list is automated now, and goes all the way back to 2004 when it&#39;s just Half-Life 2](https://www.pcgamer.com/software/platforms/steams-monthly-top-seller-list-is-automated-now-and-goes-all-the-way-back-to-2004-when-its-just-half-life-2/)
- - [Here&#39;s the Summer Game Fest 2025 schedule, including where to watch each showcase](https://www.pcgamer.com/gaming-industry/events-conferences/summer-game-fest-2025/)<!-- GAME:END -->
+ - [Steam&#39;s monthly top-seller list is automated now, and goes all the way back to 2004 when it&#39;s just Half-Life 2](https://www.pcgamer.com/software/platforms/steams-monthly-top-seller-list-is-automated-now-and-goes-all-the-way-back-to-2004-when-its-just-half-life-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
