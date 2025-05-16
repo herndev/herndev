@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&amp;#8217;s Command Palette is a powerful launcher for apps, search, and more](https://www.theverge.com/news/668719/microsoft-command-palette-powertoy-launcher)
- - [Apple Pay and Apple Cash experienced an outage on Friday](https://appleinsider.com/articles/25/05/16/apple-pay-and-apple-cash-experienced-an-outage-on-friday?utm_medium=rss)
- - [Xbox is going to let you pin your favorite games on your homescreen](https://www.theverge.com/news/668668/xbox-home-screen-pin-favorite-games-apps-changes-testing)<!-- TECH:END -->
+ - [Save over $500 on a stunning LG Ultragear OLED gaming monitor](https://www.androidauthority.com/lg-ultragear-oled-gaming-monitor-deal-3558702/)
+ - [Nintendo details Switch 2 updates for Switch games](https://www.theverge.com/news/668830/nintendo-switch-2-game-updates)
+ - [An Alabama man is sentenced to 14 months in prison for hacking SEC&#39;s X account in 2024 and posting a false announcement that the SEC had approved bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250516/p24#a250516p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
