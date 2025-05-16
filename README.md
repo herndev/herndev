@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta asks judge to throw out antitrust case mid-trial](https://www.theverge.com/antitrust/668099/meta-ftc-antitrust-motion-partial-findings-instagram-whatsapp)
- - [Windsurf launches SWE-1, its first family of software engineering AI models, claiming its largest model matches Claude 3.5 Sonnet, GPT-4.1, and Gemini 2.5 Pro &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250515/p42#a250515p42)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [Sources: Microsoft stops production of its Surface Laptop Studio 2 and plans to mark the device&#39;s end of life in June, with no plans for a successor &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250515/p44#a250515p44)
+ - [FTC v. Meta: Meta asks the judge to throw out the antitrust case, arguing the FTC failed to prove that Meta is an illegal monopoly after five weeks of trial &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250515/p43#a250515p43)
+ - [McDonald&#39;s Snack Wrap: When Is the Viral Food Favorite Returning? June or July?](https://www.cnet.com/tech/mcdonalds-snack-wrap-when-is-the-viral-food-favorite-returning/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
