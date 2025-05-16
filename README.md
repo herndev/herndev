@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok&amp;#8217;s white genocide fixation caused by &amp;#8216;unauthorized modification&amp;#8217;](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee)
- - [Chrome for Android could soon automatically fill verification codes sent via SMS](https://www.androidauthority.com/chrome-for-android-verification-codes-otps-sms-3558369/)
- - [Sources: President Trump&#39;s Middle East AI deals open rifts with China hawks in his administration over concerns AI chips shipped to the Gulf end up in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p3#a250516p3)<!-- TECH:END -->
+ - [Fortnite for iOS is unavailable worldwide](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic)
+ - [Apple tests EU by adding scare screens to apps using third-party payments [u]](https://appleinsider.com/articles/25/05/15/apple-tests-eu-by-adding-scare-screens-to-apps-using-third-party-payments?utm_medium=rss)
+ - [Taiwanese silicon wafer maker GlobalWafers plans to invest $4B in its US manufacturing operations, more than doubling its earlier pledge to $7.5B &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250516/p5#a250516p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
