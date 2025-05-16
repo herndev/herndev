@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rumours of an Arm-based CPU from AMD just won&#39;t go away as analysts reckon Arm is eating into the PC processor market](https://www.pcgamer.com/hardware/processors/rumours-of-an-arm-based-cpu-from-amd-just-wont-go-away-as-analysts-reckon-arm-is-eating-into-the-pc-processor-market/)
- - [The Stellar Blade PC system requirements are here and even an entry-level graphics card from 2016 can run it](https://www.pcgamer.com/hardware/the-stellar-blade-pc-system-requirements-are-here-and-even-an-entry-level-graphics-card-from-2016-can-run-it/)
- - [Welp, Fortnite&#39;s iOS version is &#39;offline worldwide&#39; after Apple continues to shuffle its feet around bringing the game back to the US App Store](https://www.pcgamer.com/games/battle-royale/welp-fortnites-ios-version-is-offline-worldwide-after-apple-continues-to-shuffle-its-feet-around-bringing-the-game-back-to-the-us-app-store/)<!-- GAME:END -->
+ - [Contract And Cure Vampirism In Oblivion Remastered For The Ultimate Nightlife Experience](https://kotaku.com/oblivion-remastered-become-vampire-vampirism-cure-1851780896)
+ - [Doom: The Dark Ages Sentinel Command Station secrets and collectibles &lpar;Chapter 12&rpar;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-sentinel-command-station-secrets-collectibles-chapter-12/)
+ - [How to complete the Jungle Bungles duty in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-jungle-bungles-walkthrough/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
