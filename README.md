@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the General Grievous skin in Fortnite](https://www.polygon.com/fortnite-guide/599593/general-grievous-skin-unlock-battle-pass-requirements)
- - [The new Acer Nitro PG1 is the first portable monitor I actually want thanks to 4K resolution and up to 144 Hz refresh](https://www.pcgamer.com/hardware/gaming-monitors/the-new-acer-nitro-pg1-is-the-first-portable-monitor-i-actually-want-thanks-to-4k-resolution-and-up-to-144-hz-refresh/)
- - [Avowed 1.4 Update Out Now – Plus the Roadmap to More](https://www.obsidian.net/news/1-4-update#new_tab)<!-- GAME:END -->
+ - [Anima Flux: How to Survive the Dystopia – Top Tips for Playing Solo or in Co-op](https://news.xbox.com/en-us/2025/05/16/anima-flux-top-tips-for-playing/)
+ - [How To Defeat The Noble In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-shadows-defeat-noble-yasuke-or-naoe-1851781051)
+ - [Fortnite added an AI-powered Darth Vader and—surprise—players immediately tricked him into saying slurs](https://www.pcgamer.com/games/battle-royale/fortnite-added-an-ai-powered-darth-vader-and-surprise-players-immediately-tricked-him-into-saying-slurs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
