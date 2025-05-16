@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shanghai-based Synyi AI launches a trial program in Saudi Arabia to let patients see an AI doctor for diagnoses and prescriptions, which a human doctor reviews &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250515/p47#a250515p47)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-16/#ftag=CAD590a51e)
- - [Following Grok&#39;s &quot;white genocide in South Africa&quot; responses on X, xAI says an &quot;unauthorized modification&quot; was made to the Grok response bot&#39;s prompt on May 14 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250515/p46#a250515p46)<!-- TECH:END -->
+ - [One UI 7 adds new controls to a feature that hasn’t changed since One UI 3](https://www.androidauthority.com/one-ui-7-power-saving-options-3558362/)
+ - [MoviePass secures a $100M capital investment from Global Emerging Markets to accelerate the development of Mogul, a fantasy gaming service launched this month &lpar;Brent Lang/Variety&rpar;](http://www.techmeme.com/250515/p48#a250515p48)
+ - [Shanghai-based Synyi AI launches a trial program in Saudi Arabia to let patients see an AI doctor for diagnoses and prescriptions, which a human doctor reviews &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250515/p47#a250515p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
