@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Air may debut advanced silicon battery for more efficient charging](https://appleinsider.com/articles/25/05/16/iphone-17-air-may-debut-advanced-silicon-battery-for-more-efficient-charging?utm_medium=rss)
- - [Spotify adjusts its &quot;plays&quot; metric for podcasts to only appear on episodes with at least 50K plays, updating at specific milestones, like 100K or 1M plays &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250516/p16#a250516p16)
- - [Android 16 could introduce notification ‘Magic Actions’ powered by Gemini](https://www.androidauthority.com/android-16-notification-magic-actions-3558563/)<!-- TECH:END -->
+ - [The Trump Memecoin Dinner Winners Are Getting Rid of Their Coins](https://www.wired.com/story/the-trump-memecoin-dinner-winners-are-getting-rid-of-their-coins/)
+ - [Klarna CEO says its AI agent now handles two-thirds of customer service chats, an equivalent of 800 jobs, but Klarna is hiring workers for higher-end chats &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250516/p17#a250516p17)
+ - [Trump is too busy for his own tariff negotiations, so will dictate terms instead](https://appleinsider.com/articles/25/05/16/trump-is-too-busy-for-his-own-tariff-negotiations-so-will-dictate-terms-instead?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
