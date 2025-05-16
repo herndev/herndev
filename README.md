@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, some good news: The world&#39;s only Warhammer academic conference is returning in September to present more talks like &#39;The ethical implications of the Imperium’s war with chaos and the inverted meaning of order&#39;](https://www.pcgamer.com/games/board-games/finally-some-good-news-the-worlds-only-warhammer-academic-conference-is-returning-in-september-to-present-more-talks-like-the-ethical-implications-of-the-imperiums-war-with-chaos-and-the-inverted-meaning-of-order/)
- - [All secret landing spots for ‘Layover’ in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599655/layover-challenge-secret-landing-spots-all-where-to-find)
- - [The Internet Reacts To AI Darth Vader Saying Wild Things In Fortnite](https://kotaku.com/darth-vader-ai-fortnite-star-wars-james-earl-jones-1851781114)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: 4 Cool Games We’re Vibing With As May Evaporates Before Our Eyes](https://kotaku.com/kotaku-games-to-play-doom-wizordum-doloc-1851781135)
+ - [Where to find Nightmare weapon skins in Doom: The Dark Age](https://www.polygon.com/doom-dark-ages-guides/599037/nightmare-skins-locations-all-where-to-find)
+ - [Finally, some good news: The world&#39;s only Warhammer academic conference is returning in September to present more talks like &#39;The ethical implications of the Imperium’s war with chaos and the inverted meaning of order&#39;](https://www.pcgamer.com/games/board-games/finally-some-good-news-the-worlds-only-warhammer-academic-conference-is-returning-in-september-to-present-more-talks-like-the-ethical-implications-of-the-imperiums-war-with-chaos-and-the-inverted-meaning-of-order/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
