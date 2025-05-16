@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for May 19 to 23](https://news.xbox.com/en-us/2025/05/16/next-week-on-xbox-new-games-for-may-19-to-23/)
- - [They’re still trying to make a Gears of War movie and now David Leitch is involved](https://www.polygon.com/movies/599507/gears-of-war-movie-director-david-leitch)
- - [Take-Two CEO gets all philosophical yet again about GTA 6, says its delay is to support his team&#39;s &#39;search for perfection&#39;](https://www.pcgamer.com/games/grand-theft-auto/take-two-ceo-gets-all-philosophical-yet-again-about-gta-6-says-its-delay-is-to-support-his-teams-search-for-perfection/)<!-- GAME:END -->
+ - [AI Darth Vader Voiced By Fake James Earl Jones Has Been Added To Fortnite And He Already Said &#39;F***&#39;](https://kotaku.com/fortnite-star-wars-ai-darth-vader-james-earl-jones-1851781018)
+ - [An AI James Earl Jones returns as Darth Vader in Fortnite, with permission](https://www.polygon.com/fortnite/599517/an-ai-james-earl-jones-returns-as-darth-vader-in-fortnite-with-permission)
+ - [Police Arrest Man Found With More Than $300K Worth Of Stolen Pokémon Cards](https://kotaku.com/pokemon-cards-arrest-stolen-crimes-police-report-1851781019)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
