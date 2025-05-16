@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Army is getting in on right-to-repair](https://www.theverge.com/news/668414/army-right-to-repair-elizabeth-warren)
- - [Battery failures return to haunt Google’s Pixel A lineup — now the Pixel 6a is catching fire](https://www.androidauthority.com/google-pixel-6a-battery-fire-3558501/)
- - [Japan enacts the Active Cyberdefense Law, which permits the country&#39;s authorities to preemptively engage with adversaries through offensive cyber operations &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/250516/p13#a250516p13)<!-- TECH:END -->
+ - [iPhone 17 Air may debut advanced silicon battery for more efficient charging](https://appleinsider.com/articles/25/05/16/iphone-17-air-may-debut-advanced-silicon-battery-for-more-efficient-charging?utm_medium=rss)
+ - [Spotify adjusts its &quot;plays&quot; metric for podcasts to only appear on episodes with at least 50K plays, updating at specific milestones, like 100K or 1M plays &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250516/p16#a250516p16)
+ - [Android 16 could introduce notification ‘Magic Actions’ powered by Gemini](https://www.androidauthority.com/android-16-notification-magic-actions-3558563/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
