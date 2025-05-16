@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft stops production of its Surface Laptop Studio 2 and plans to mark the device&#39;s end of life in June, with no plans for a successor &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250515/p44#a250515p44)
- - [FTC v. Meta: Meta asks the judge to throw out the antitrust case, arguing the FTC failed to prove that Meta is an illegal monopoly after five weeks of trial &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250515/p43#a250515p43)
- - [McDonald&#39;s Snack Wrap: When Is the Viral Food Favorite Returning? June or July?](https://www.cnet.com/tech/mcdonalds-snack-wrap-when-is-the-viral-food-favorite-returning/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Following Grok&#39;s &quot;white genocide in South Africa&quot; responses on X, xAI says an &quot;unauthorized modification&quot; was made to the Grok response bot&#39;s prompt on May 14 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250515/p46#a250515p46)
+ - [Montana became the first US state to close a data broker loophole that let police buy users&#39; geolocation data and other digital info without a judge&#39;s warrant &lpar;Matthew Guariglia/Electronic Frontier ...&rpar;](http://www.techmeme.com/250515/p45#a250515p45)
+ - [Sources: Microsoft stops production of its Surface Laptop Studio 2 and plans to mark the device&#39;s end of life in June, with no plans for a successor &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250515/p44#a250515p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
