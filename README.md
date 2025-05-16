@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is giving out $5 tickets to the latest Mission Impossible movie, here’s how to get it](https://www.androidauthority.com/t-mobile-tuesday-mission-impossible-deal-3558441/)
- - [Doom: The Dark Ages is for lovers and slayers](https://www.theverge.com/games/667980/doom-the-dark-ages-review-xbox-ps5-pc)
- - [Epic Games says Apple has blocked &#39;Fortnite&#39; from the App Store worldwide](https://appleinsider.com/articles/25/05/16/epic-games-says-apple-has-blocked-fortnite-from-the-app-store-worldwide?utm_medium=rss)<!-- TECH:END -->
+ - [Does Your City Use Chlorine or Chloramine to Treat Its Water?](https://www.wired.com/story/does-your-city-use-chlorine-or-chloramine-to-treat-its-water/)
+ - [Google Calendar is getting closer to its Material 3 Expressive makeover &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-expressive-update-3558226/)
+ - [I let lasers power my smart home — and I don’t want to go back](https://www.theverge.com/tech/663899/wi-charge-alfred-smart-lock-wireless-power-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
