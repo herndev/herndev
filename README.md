@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV’s multiview expansion gets started with ESPN, Bravo, and USA](https://www.androidauthority.com/youtube-tv-espn-bravo-usa-3558722/)
- - [Sources: Binance and Kraken have been targeted by the same type of social engineering hack recently disclosed by Coinbase, but were able to fend off the attacks &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p25#a250516p25)
- - [Something is bricking Nest Hub smart displays, and users aren’t getting much help from Google](https://www.androidauthority.com/nest-hub-problems-3558679/)<!-- TECH:END -->
+ - [Call of Duty: Warzone is winding down on mobile](https://www.theverge.com/news/668899/call-of-duty-warzone-mobile-wind-down)
+ - [Google’s glorious G glow-up spreads its rainbow across Android](https://www.androidauthority.com/rainbow-g-logo-3558744/)
+ - [Source: Cohere crossed an annualized revenue of $100M as of May 2025, following a strategic shift in Q3 2024 to focus on customers in sectors like finance &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250516/p26#a250516p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
