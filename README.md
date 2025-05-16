@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You didn’t ask for ads in your RCS chat app, but you’re going to get them anyway](https://www.androidauthority.com/iphone-rcs-ads-3558408/)
- - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [The 11 Best Mattress Toppers We’ve Slept On &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-toppers/)<!-- TECH:END -->
+ - [T-Mobile is giving out $5 tickets to the latest Mission Impossible movie, here’s how to get it](https://www.androidauthority.com/t-mobile-tuesday-mission-impossible-deal-3558441/)
+ - [Doom: The Dark Ages is for lovers and slayers](https://www.theverge.com/games/667980/doom-the-dark-ages-review-xbox-ps5-pc)
+ - [Epic Games says Apple has blocked &#39;Fortnite&#39; from the App Store worldwide](https://appleinsider.com/articles/25/05/16/epic-games-says-apple-has-blocked-fortnite-from-the-app-store-worldwide?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
