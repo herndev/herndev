@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does Your City Use Chlorine or Chloramine to Treat Its Water?](https://www.wired.com/story/does-your-city-use-chlorine-or-chloramine-to-treat-its-water/)
- - [Google Calendar is getting closer to its Material 3 Expressive makeover &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-expressive-update-3558226/)
- - [I let lasers power my smart home — and I don’t want to go back](https://www.theverge.com/tech/663899/wi-charge-alfred-smart-lock-wireless-power-review)<!-- TECH:END -->
+ - [Capcom goes for deep cuts with latest fighting game collection](https://www.theverge.com/games-review/667921/capcom-fighting-collection-2-review-xbox-switch-steam-ps4)
+ - [Q&amp;A with Wired&#39;s Steven Levy on the evolving relationship between the tech industry and the press, media outlets&#39; licensing deals with AI companies, and more &lpar;Camille Bromley/Columbia Journalism ...&rpar;](http://www.techmeme.com/250516/p12#a250516p12)
+ - [HBO&amp;#8217;s no good very bad rebrand](https://www.theverge.com/the-vergecast/668368/hbo-max-rebrand-carplay-ultra-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
