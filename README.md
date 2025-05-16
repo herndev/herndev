@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chrome for Android could soon automatically fill verification codes sent via SMS](https://www.androidauthority.com/chrome-for-android-verification-codes-otps-sms-3558369/)
  - [Sources: President Trump&#39;s Middle East AI deals open rifts with China hawks in his administration over concerns AI chips shipped to the Gulf end up in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p3#a250516p3)
- - [Sources: Facebook and Instagram face scam ad surge from Asia and Meta is reluctant to add hurdles for ad buyers; Meta says it&#39;s tackling an &quot;epidemic of scams&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250516/p2#a250516p2)
- - [Sony&#39;s Haven Studios head Jade Raymond leaves the company she founded in 2021; sources say some developers worried over its first game&#39;s reception and progress &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250516/p1#a250516p1)<!-- TECH:END -->
+ - [Sources: Facebook and Instagram face scam ad surge from Asia and Meta is reluctant to add hurdles for ad buyers; Meta says it&#39;s tackling an &quot;epidemic of scams&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250516/p2#a250516p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
