@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur&#39;s director has an old YouTube channel full of masterful no-hit Devil May Cry videos because of course he does](https://www.pcgamer.com/games/rpg/clair-obscurs-director-has-an-old-youtube-channel-full-of-masterful-no-hit-devil-may-cry-videos-because-of-course-he-does/)
- - [I did Liberation Day tariffs in Victoria 3, and it all went well until the famine in Colorado, the 2 lost wars with Canada, and the president beating a man to death with a stick](https://www.pcgamer.com/games/strategy/i-did-liberation-day-tariffs-in-victoria-3-and-it-all-went-well-until-the-famine-in-colorado-the-2-lost-wars-with-canada-and-the-president-beating-a-man-to-death-with-a-stick/)
- - [Fortnite players are abusing AI Darth Vader, forcing him to say ‘Skibidi Toilet’ and worse](https://www.polygon.com/news/599687/fortnite-darth-vader-ai-abuse)<!-- GAME:END -->
+ - [Finally, some good news: The world&#39;s only Warhammer academic conference is returning in September to present more talks like &#39;The ethical implications of the Imperium’s war with chaos and the inverted meaning of order&#39;](https://www.pcgamer.com/games/board-games/finally-some-good-news-the-worlds-only-warhammer-academic-conference-is-returning-in-september-to-present-more-talks-like-the-ethical-implications-of-the-imperiums-war-with-chaos-and-the-inverted-meaning-of-order/)
+ - [All secret landing spots for ‘Layover’ in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599655/layover-challenge-secret-landing-spots-all-where-to-find)
+ - [The Internet Reacts To AI Darth Vader Saying Wild Things In Fortnite](https://kotaku.com/darth-vader-ai-fortnite-star-wars-james-earl-jones-1851781114)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
