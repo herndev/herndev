@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Darth Vader Voiced By Fake James Earl Jones Has Been Added To Fortnite And He Already Said &#39;F***&#39;](https://kotaku.com/fortnite-star-wars-ai-darth-vader-james-earl-jones-1851781018)
- - [An AI James Earl Jones returns as Darth Vader in Fortnite, with permission](https://www.polygon.com/fortnite/599517/an-ai-james-earl-jones-returns-as-darth-vader-in-fortnite-with-permission)
- - [Police Arrest Man Found With More Than $300K Worth Of Stolen Pokémon Cards](https://kotaku.com/pokemon-cards-arrest-stolen-crimes-police-report-1851781019)<!-- GAME:END -->
+ - [How to get the General Grievous skin in Fortnite](https://www.polygon.com/fortnite-guide/599593/general-grievous-skin-unlock-battle-pass-requirements)
+ - [The new Acer Nitro PG1 is the first portable monitor I actually want thanks to 4K resolution and up to 144 Hz refresh](https://www.pcgamer.com/hardware/gaming-monitors/the-new-acer-nitro-pg1-is-the-first-portable-monitor-i-actually-want-thanks-to-4k-resolution-and-up-to-144-hz-refresh/)
+ - [Avowed 1.4 Update Out Now – Plus the Roadmap to More](https://www.obsidian.net/news/1-4-update#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
