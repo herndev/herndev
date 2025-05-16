@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save over $500 on a stunning LG Ultragear OLED gaming monitor](https://www.androidauthority.com/lg-ultragear-oled-gaming-monitor-deal-3558702/)
- - [Nintendo details Switch 2 updates for Switch games](https://www.theverge.com/news/668830/nintendo-switch-2-game-updates)
- - [An Alabama man is sentenced to 14 months in prison for hacking SEC&#39;s X account in 2024 and posting a false announcement that the SEC had approved bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250516/p24#a250516p24)<!-- TECH:END -->
+ - [YouTube TV’s multiview expansion gets started with ESPN, Bravo, and USA](https://www.androidauthority.com/youtube-tv-espn-bravo-usa-3558722/)
+ - [Sources: Binance and Kraken have been targeted by the same type of social engineering hack recently disclosed by Coinbase, but were able to fend off the attacks &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p25#a250516p25)
+ - [Something is bricking Nest Hub smart displays, and users aren’t getting much help from Google](https://www.androidauthority.com/nest-hub-problems-3558679/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
