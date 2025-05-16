@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Where to find Valerian in Kingdom: Come Deliverance 2](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-valerian-location/)
  - [Artist Shocked To Find Her Poster Designs From 2017 In Bungie&#39;s Marathon: &#39;A Major Company Has Deemed It Easier To Pay A Designer To Imitate Or Steal My Work Than To Write Me An Email&#39; [Update]](https://kotaku.com/marathon-bungie-art-alpha-gameplay-posters-antireal-1851780911)
- - [Today&#39;s Wordle answer for Friday, May 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-16-2025/)
- - [Steam&#39;s monthly top-seller list is automated now, and goes all the way back to 2004 when it&#39;s just Half-Life 2](https://www.pcgamer.com/software/platforms/steams-monthly-top-seller-list-is-automated-now-and-goes-all-the-way-back-to-2004-when-its-just-half-life-2/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, May 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-16-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
