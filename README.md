@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Sweeney is mocking Apple for letting Fortnite fakes into the App Store](https://www.theverge.com/news/668101/apple-epic-games-fortnite-tim-sweeney-app-store-fakes)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [YouTube intros new top-podcast chart, letting you see exactly who’s influencing America](https://www.androidauthority.com/youtube-podcast-chart-3558334/)<!-- TECH:END -->
+ - [Meta asks judge to throw out antitrust case mid-trial](https://www.theverge.com/antitrust/668099/meta-ftc-antitrust-motion-partial-findings-instagram-whatsapp)
+ - [Windsurf launches SWE-1, its first family of software engineering AI models, claiming its largest model matches Claude 3.5 Sonnet, GPT-4.1, and Gemini 2.5 Pro &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250515/p42#a250515p42)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
