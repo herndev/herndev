@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who knew transparency could be so invisible?](http://9gag.com/gag/aByGomZ)
+ - 💣 [._.](http://9gag.com/gag/a342eme)
  - ⏩ [Big void](http://9gag.com/gag/a2v29YO)
  - 👉 [Lemons](http://9gag.com/gag/aryq9dB)<!-- MEMES:END -->
 
