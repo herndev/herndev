@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Prepare for trouble and make it double` colorized](http://9gag.com/gag/a872Q1p)
- - ⏩ [Not today](http://9gag.com/gag/avyRm3E)
- - 👉 [Make natural selection great again](http://9gag.com/gag/azxRQBb)<!-- MEMES:END -->
+ - 💣 [Who knew transparency could be so invisible?](http://9gag.com/gag/aByGomZ)
+ - ⏩ [Big void](http://9gag.com/gag/a2v29YO)
+ - 👉 [Lemons](http://9gag.com/gag/aryq9dB)<!-- MEMES:END -->
 
 ---
 
