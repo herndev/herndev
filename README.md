@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox 360 reveal was 20 years ago and is a time capsule from a world where Elijah Wood roamed free, MTV was still cool, and giant tech companies paid Pimp My Ride to make hideous custom consoles](https://www.pcgamer.com/gaming-industry/the-xbox-360-reveal-was-20-years-ago-and-is-a-time-capsule-from-a-world-where-elijah-wood-roamed-free-mtv-was-still-cool-and-giant-tech-companies-paid-pimp-my-ride-to-make-hideous-custom-consoles/)
- - [Veteran indie dev says success on Steam these days is impossible to predict: &#39;Why did Balatro take off? You could write a million f***ing essays and none of them will be definitely right&#39;](https://www.pcgamer.com/gaming-industry/veteran-indie-dev-says-success-on-steam-these-days-is-impossible-to-predict-why-did-balatro-take-off-you-could-write-a-million-f-ing-essays-and-none-of-them-will-be-definitely-right/)
- - [The first ever third-party game to come to Steam probably doesn&#39;t get the respect it deserves—mostly because no one remembers it](https://www.pcgamer.com/games/fighting/the-first-ever-third-party-game-to-come-to-steam-probably-doesnt-get-the-respect-it-deserves-mostly-because-no-one-remembers-it/)<!-- GAME:END -->
+ - [33 Immortals: Try Out New Features in the Fourth Playtest from May 20](https://news.xbox.com/en-us/2025/05/16/33-immortals-try-out-new-features-in-the-fourth-playtest-from-may-20/)
+ - [Here’s How To Beat That Damn Lampmaster In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-lampmaster-boss-fight-phase-1851781088)
+ - [Little Kitty, Big City Is Ideal When You Want A Bite-Sized Adventure](https://kotaku.com/little-kitty-big-city-how-long-to-beat-short-games-1851781077)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
