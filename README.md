@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Another Sony live service shooter may be in trouble as Jade Raymond exits the studio making PvP heist sandbox Fairgames](https://www.pcgamer.com/gaming-industry/another-sony-live-service-shooter-may-be-in-trouble-as-jade-raymond-exits-the-studio-making-pvp-heist-sandbox-fairgames/)
  - [Kotaku’s Weekend Guide: 4 Cool Games We’re Vibing With As May Evaporates Before Our Eyes](https://kotaku.com/kotaku-games-to-play-doom-wizordum-doloc-1851781135)
- - [Where to find Nightmare weapon skins in Doom: The Dark Age](https://www.polygon.com/doom-dark-ages-guides/599037/nightmare-skins-locations-all-where-to-find)
- - [Finally, some good news: The world&#39;s only Warhammer academic conference is returning in September to present more talks like &#39;The ethical implications of the Imperium’s war with chaos and the inverted meaning of order&#39;](https://www.pcgamer.com/games/board-games/finally-some-good-news-the-worlds-only-warhammer-academic-conference-is-returning-in-september-to-present-more-talks-like-the-ethical-implications-of-the-imperiums-war-with-chaos-and-the-inverted-meaning-of-order/)<!-- GAME:END -->
+ - [Where to find Nightmare weapon skins in Doom: The Dark Age](https://www.polygon.com/doom-dark-ages-guides/599037/nightmare-skins-locations-all-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
