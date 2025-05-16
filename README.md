@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Capcom goes for deep cuts with latest fighting game collection](https://www.theverge.com/games-review/667921/capcom-fighting-collection-2-review-xbox-switch-steam-ps4)
- - [Q&amp;A with Wired&#39;s Steven Levy on the evolving relationship between the tech industry and the press, media outlets&#39; licensing deals with AI companies, and more &lpar;Camille Bromley/Columbia Journalism ...&rpar;](http://www.techmeme.com/250516/p12#a250516p12)
- - [HBO&amp;#8217;s no good very bad rebrand](https://www.theverge.com/the-vergecast/668368/hbo-max-rebrand-carplay-ultra-vergecast)<!-- TECH:END -->
+ - [The US Army is getting in on right-to-repair](https://www.theverge.com/news/668414/army-right-to-repair-elizabeth-warren)
+ - [Battery failures return to haunt Google’s Pixel A lineup — now the Pixel 6a is catching fire](https://www.androidauthority.com/google-pixel-6a-battery-fire-3558501/)
+ - [Japan enacts the Active Cyberdefense Law, which permits the country&#39;s authorities to preemptively engage with adversaries through offensive cyber operations &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/250516/p13#a250516p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
