@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unironically good advice](http://9gag.com/gag/a872VN1)
+ - 💣 [Lights out](http://9gag.com/gag/a7o2AAw)
  - ⏩ [Decided for a proper dinner while watching a proper movie](http://9gag.com/gag/aGyA7m5)
  - 👉 [This is not a joke.](http://9gag.com/gag/a1m2OGv)<!-- MEMES:END -->
 
