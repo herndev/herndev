@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Contract And Cure Vampirism In Oblivion Remastered For The Ultimate Nightlife Experience](https://kotaku.com/oblivion-remastered-become-vampire-vampirism-cure-1851780896)
- - [Doom: The Dark Ages Sentinel Command Station secrets and collectibles &lpar;Chapter 12&rpar;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-sentinel-command-station-secrets-collectibles-chapter-12/)
- - [How to complete the Jungle Bungles duty in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-jungle-bungles-walkthrough/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for May 19 to 23](https://news.xbox.com/en-us/2025/05/16/next-week-on-xbox-new-games-for-may-19-to-23/)
+ - [They’re still trying to make a Gears of War movie and now David Leitch is involved](https://www.polygon.com/movies/599507/gears-of-war-movie-director-david-leitch)
+ - [Take-Two CEO gets all philosophical yet again about GTA 6, says its delay is to support his team&#39;s &#39;search for perfection&#39;](https://www.pcgamer.com/games/grand-theft-auto/take-two-ceo-gets-all-philosophical-yet-again-about-gta-6-says-its-delay-is-to-support-his-teams-search-for-perfection/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
