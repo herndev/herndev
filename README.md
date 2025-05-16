@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [33 Immortals: Try Out New Features in the Fourth Playtest from May 20](https://news.xbox.com/en-us/2025/05/16/33-immortals-try-out-new-features-in-the-fourth-playtest-from-may-20/)
- - [Here’s How To Beat That Damn Lampmaster In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-lampmaster-boss-fight-phase-1851781088)
- - [Little Kitty, Big City Is Ideal When You Want A Bite-Sized Adventure](https://kotaku.com/little-kitty-big-city-how-long-to-beat-short-games-1851781077)<!-- GAME:END -->
+ - [Clair Obscur&#39;s director has an old YouTube channel full of masterful no-hit Devil May Cry videos because of course he does](https://www.pcgamer.com/games/rpg/clair-obscurs-director-has-an-old-youtube-channel-full-of-masterful-no-hit-devil-may-cry-videos-because-of-course-he-does/)
+ - [I did Liberation Day tariffs in Victoria 3, and it all went well until the famine in Colorado, the 2 lost wars with Canada, and the president beating a man to death with a stick](https://www.pcgamer.com/games/strategy/i-did-liberation-day-tariffs-in-victoria-3-and-it-all-went-well-until-the-famine-in-colorado-the-2-lost-wars-with-canada-and-the-president-beating-a-man-to-death-with-a-stick/)
+ - [Fortnite players are abusing AI Darth Vader, forcing him to say ‘Skibidi Toilet’ and worse](https://www.polygon.com/news/599687/fortnite-darth-vader-ai-abuse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
