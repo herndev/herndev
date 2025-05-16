@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Valerian in Kingdom: Come Deliverance 2](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-valerian-location/)
- - [Artist Shocked To Find Her Poster Designs From 2017 In Bungie&#39;s Marathon: &#39;A Major Company Has Deemed It Easier To Pay A Designer To Imitate Or Steal My Work Than To Write Me An Email&#39; [Update]](https://kotaku.com/marathon-bungie-art-alpha-gameplay-posters-antireal-1851780911)
- - [Today&#39;s Wordle answer for Friday, May 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-16-2025/)<!-- GAME:END -->
+ - [Rumours of an Arm-based CPU from AMD just won&#39;t go away as analysts reckon Arm is eating into the PC processor market](https://www.pcgamer.com/hardware/processors/rumours-of-an-arm-based-cpu-from-amd-just-wont-go-away-as-analysts-reckon-arm-is-eating-into-the-pc-processor-market/)
+ - [The Stellar Blade PC system requirements are here and even an entry-level graphics card from 2016 can run it](https://www.pcgamer.com/hardware/the-stellar-blade-pc-system-requirements-are-here-and-even-an-entry-level-graphics-card-from-2016-can-run-it/)
+ - [Welp, Fortnite&#39;s iOS version is &#39;offline worldwide&#39; after Apple continues to shuffle its feet around bringing the game back to the US App Store](https://www.pcgamer.com/games/battle-royale/welp-fortnites-ios-version-is-offline-worldwide-after-apple-continues-to-shuffle-its-feet-around-bringing-the-game-back-to-the-us-app-store/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
