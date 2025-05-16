@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Anima Flux: How to Survive the Dystopia – Top Tips for Playing Solo or in Co-op](https://news.xbox.com/en-us/2025/05/16/anima-flux-top-tips-for-playing/)
- - [How To Defeat The Noble In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-shadows-defeat-noble-yasuke-or-naoe-1851781051)
- - [Fortnite added an AI-powered Darth Vader and—surprise—players immediately tricked him into saying slurs](https://www.pcgamer.com/games/battle-royale/fortnite-added-an-ai-powered-darth-vader-and-surprise-players-immediately-tricked-him-into-saying-slurs/)<!-- GAME:END -->
+ - [The Xbox 360 reveal was 20 years ago and is a time capsule from a world where Elijah Wood roamed free, MTV was still cool, and giant tech companies paid Pimp My Ride to make hideous custom consoles](https://www.pcgamer.com/gaming-industry/the-xbox-360-reveal-was-20-years-ago-and-is-a-time-capsule-from-a-world-where-elijah-wood-roamed-free-mtv-was-still-cool-and-giant-tech-companies-paid-pimp-my-ride-to-make-hideous-custom-consoles/)
+ - [Veteran indie dev says success on Steam these days is impossible to predict: &#39;Why did Balatro take off? You could write a million f***ing essays and none of them will be definitely right&#39;](https://www.pcgamer.com/gaming-industry/veteran-indie-dev-says-success-on-steam-these-days-is-impossible-to-predict-why-did-balatro-take-off-you-could-write-a-million-f-ing-essays-and-none-of-them-will-be-definitely-right/)
+ - [The first ever third-party game to come to Steam probably doesn&#39;t get the respect it deserves—mostly because no one remembers it](https://www.pcgamer.com/games/fighting/the-first-ever-third-party-game-to-come-to-steam-probably-doesnt-get-the-respect-it-deserves-mostly-because-no-one-remembers-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
