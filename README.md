@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When free candy is the ultimate motivator](http://9gag.com/gag/ajPZyqQ)
- - ⏩ [Close enough ditto](http://9gag.com/gag/azxRQwp)
- - 👉 [My man had that Reverse card on him](http://9gag.com/gag/aND438r)<!-- MEMES:END -->
+ - 💣 [`Prepare for trouble and make it double` colorized](http://9gag.com/gag/a872Q1p)
+ - ⏩ [Not today](http://9gag.com/gag/avyRm3E)
+ - 👉 [Make natural selection great again](http://9gag.com/gag/azxRQBb)<!-- MEMES:END -->
 
 ---
 
