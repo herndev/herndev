@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon’s $20 billion Frontier acquisition wins FCC approval](https://www.theverge.com/news/668614/verizon-frontier-acquisition-fcc-approval)
- - [Apple refutes Epic Games claim that it has blocked &#39;Fortnite&#39; worldwide](https://appleinsider.com/articles/25/05/16/apple-refutes-epic-games-claim-that-it-has-blocked-fortnite-worldwide?utm_medium=rss)
- - [Nothing doesn’t like any of the headphones on the market so it’s making its own](https://www.androidauthority.com/nothing-headphones-coming-this-summer-3558594/)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s Command Palette is a powerful launcher for apps, search, and more](https://www.theverge.com/news/668719/microsoft-command-palette-powertoy-launcher)
+ - [Apple Pay and Apple Cash experienced an outage on Friday](https://appleinsider.com/articles/25/05/16/apple-pay-and-apple-cash-experienced-an-outage-on-friday?utm_medium=rss)
+ - [Xbox is going to let you pin your favorite games on your homescreen](https://www.theverge.com/news/668668/xbox-home-screen-pin-favorite-games-apps-changes-testing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
