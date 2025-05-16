@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, May 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-16-2025/)
  - [Steam&#39;s monthly top-seller list is automated now, and goes all the way back to 2004 when it&#39;s just Half-Life 2](https://www.pcgamer.com/software/platforms/steams-monthly-top-seller-list-is-automated-now-and-goes-all-the-way-back-to-2004-when-its-just-half-life-2/)
- - [Here&#39;s the Summer Game Fest 2025 schedule, including where to watch each showcase](https://www.pcgamer.com/gaming-industry/events-conferences/summer-game-fest-2025/)
- - [Civil war breaks out in Helldivers 2 as players spawn infinite mechs to crash each other&#39;s games](https://www.pcgamer.com/games/third-person-shooter/civil-war-breaks-out-in-helldivers-2-as-players-spawn-dozens-of-mechs-to-crash-each-others-games/)<!-- GAME:END -->
+ - [Here&#39;s the Summer Game Fest 2025 schedule, including where to watch each showcase](https://www.pcgamer.com/gaming-industry/events-conferences/summer-game-fest-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
