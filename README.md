@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
  - ⏩ [Truly impeccable](http://9gag.com/gag/aD2V5xK)
- - 👉 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)<!-- MEMES:END -->
+ - 👉 [He might be an alpha male.](http://9gag.com/gag/a342rZv)<!-- MEMES:END -->
 
 ---
 
