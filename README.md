@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/669520/apple-macbook-air-pro-mac-mini-imac-deals)
- - [LG’s brilliant C4 OLED is more than 50 percent off for Memorial Day](https://www.theverge.com/tech/669721/lg-c4-oled-tv-memorial-day-2025-deal-sale)
- - [Microsoft adds Grok 3 and Grok 3 mini to its Azure AI Foundry service &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250519/p30#a250519p30)<!-- TECH:END -->
+ - [How to manage your bookmarks in Google Chrome](https://www.theverge.com/tech/668874/bookmarks-chrome-how-to)
+ - [Google releases its NotebookLM mobile app](https://www.theverge.com/news/669828/google-releases-its-notebooklm-mobile-app)
+ - [Researchers: GPT-4 was 64.4% more persuasive than humans in one-on-one debates when given basic personal information about the person it was trying to persuade &lpar;Isaac Schultz/Gizmodo&rpar;](http://www.techmeme.com/250519/p34#a250519p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
