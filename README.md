@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Surprise! There Are More Wolf Statues To Smash Up In Doom: The Dark Ages&#39; Kar&#39;Thul Marshes](https://kotaku.com/doom-dark-ages-wolf-statue-locations-wraithstone-1851781357)
- - [$15 Will Get You Every Witcher Game Including One Of The Best RPGs Of The Last Decade](https://kotaku.com/witcher-3-sale-discount-steam-ps5-anniversary-1851781353)
- - [Baldur’s Gate 3 minis are bad enough that WizKids is offering a full refund](https://www.polygon.com/news/599913/baldurs-gate-3-wizkids-minifigs-refund)<!-- GAME:END -->
+ - [SAG-AFTRA files unfair labor practice complaint against Epic over Fortnite&#39;s AI-powered Darth Vader: &#39;We must protect our right to bargain terms and conditions around uses of voice that replace the work of our members&#39;](https://www.pcgamer.com/games/battle-royale/sag-aftra-files-unfair-labor-practice-complaint-against-epic-over-fortnites-ai-powered-darth-vader-we-must-protect-our-right-to-bargain-terms-and-conditions-around-uses-of-voice-that-replace-the-work-of-our-members/)
+ - [The Last Of Us Cut A Beloved Segment From The Museum Scene, But It Looks Like HBO Shot It](https://kotaku.com/last-of-us-dinosaur-museum-scene-set-pedro-pascal-joel-1851781387)
+ - [Diablo 4 player sits back as their 20 large lycanthrope sons tear through one of the hardest dungeons for them](https://www.pcgamer.com/games/rpg/diablo-4-player-sits-back-as-their-20-large-lycanthrope-sons-tear-through-one-of-the-hardest-dungeons-for-them/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
