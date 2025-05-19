@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m actually jealous of the workstation that gets to use this Maxsun graphics card containing two Intel Arc GPUs and 48 GB of VRAM](https://www.pcgamer.com/hardware/graphics-cards/im-actually-jealous-of-the-workstation-that-gets-to-use-this-maxsun-graphics-card-containing-two-intel-arc-gpus-and-48-gb-of-vram/)
- - [Cozy castle builder literally hits next level as Tiny Glade announces stairs, its &#39;biggest and most complicated change&#39; yet](https://www.pcgamer.com/games/city-builder/cozy-castle-builder-literally-hits-next-level-as-tiny-glade-announces-stairs-its-biggest-and-most-complicated-change-yet/)
- - [Jensen says &#39;even Crysis&#39; can run on Nvidia&#39;s RTX Pro Server enterprise platform and now I kinda want one just for funsies](https://www.pcgamer.com/hardware/jensen-says-even-crysis-can-run-on-nvidias-rtx-pro-server-enterprise-platform-and-now-i-kinda-want-one-just-for-funsies/)<!-- GAME:END -->
+ - [How a NASA simulation inspired Clair Obscur’s character lineup](https://www.polygon.com/gaming/599737/expedition-33-characters-gustave-maelle)
+ - [&#39;We are doing our best to resolve most of it&#39;: Stellar Blade&#39;s PC release will be restricted in 130 countries as the devs fight to have it lifted](https://www.pcgamer.com/games/action/we-are-doing-our-best-to-resolve-most-of-it-stellar-blades-pc-release-will-be-restricted-in-130-countries-as-the-devs-fight-to-have-it-lifted/)
+ - [Intel&#39;s next batch of CPUs might still be called Core Ultra 200S, possibly because the Arrow Lake refresh won&#39;t be much of a boost](https://www.pcgamer.com/hardware/processors/intels-next-batch-of-cpus-might-still-be-called-core-ultra-200s-possibly-because-the-arrow-lake-refresh-wont-be-much-of-a-boost/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
