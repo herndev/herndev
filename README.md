@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia RTX 5060 review live: we&#39;ve been black-listed for this review, but I&#39;m a professional so we&#39;re doing this live!](https://www.pcgamer.com/hardware/live/news/nvidia-rtx-5060-review-doing-it-live/)
- - [Black Ops 6’s Best Ladra Loadout Optimizes Mobility And Momentum](https://kotaku.com/call-duty-black-ops-6-warzone-wz-ladra-attachments-1851781095)
- - [There are only 666 of this ROG Astral RTX 5080 Doom Edition being made and I&#39;d go to Hell and back to get one if it wasn&#39;t $2,000](https://www.pcgamer.com/hardware/graphics-cards/there-are-only-666-of-this-rog-astral-rtx-5080-doom-edition-being-made-and-id-go-to-hell-and-back-to-get-one-if-it-wasnt-usd2-000/)<!-- GAME:END -->
+ - [Asus just solved the biggest issue with its BTF graphics cards on most motherboards and in the process found a way to supercharge its GPUs over 600 W](https://www.pcgamer.com/hardware/graphics-cards/asus-just-solved-the-biggest-issue-with-its-btf-graphics-cards-on-most-motherboards-and-in-the-process-found-a-way-to-supercharge-its-gpus-over-600-w/)
+ - [Red Dead Redemption 2 is reportedly coming to Nintendo Switch 2 as early as this year, and a &#39;next-gen update&#39; for other consoles could mean good news for PC players, too](https://www.pcgamer.com/games/action/red-dead-redemption-2-is-reportedly-coming-to-nintendo-switch-2-as-early-as-this-year-and-a-next-gen-update-for-other-consoles-could-mean-good-news-for-pc-players-too/)
+ - [Nvidia&#39;s Jen-Hsun Huang boasts that one spine of its new NVLink Fusion tech can &#39;move more traffic than the entire Internet&#39;](https://www.pcgamer.com/hardware/nvidias-jen-hsun-huang-boasts-that-one-spine-of-its-new-nvlink-fusion-tech-can-move-more-traffic-than-the-entire-internet/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
