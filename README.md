@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone users may finally be able to ditch Siri for Gemini and ChatGPT](https://www.androidauthority.com/apple-digital-assistant-freedom-3558877/)
- - [Experts blame Big Tech lawyers&#39; culture of lawlessness for Amazon, Apple, and Google being accused of abusing legal privilege in antitrust and other court cases &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p4#a250519p4)
- - [Nvidia plans to build an AI supercomputer with Foxconn and Taiwan&#39;s government to support local researchers and enterprises; TSMC plans to use the system &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p3#a250519p3)<!-- TECH:END -->
+ - [All the Samsung Galaxy S25 FE camera specs just leaked](https://www.androidauthority.com/samsung-galaxy-s25-fe-camera-specs-leak-3558891/)
+ - [Ever Wonder What Happens After You Report a Scam? I Did, Too](https://www.cnet.com/tech/services-and-software/ever-wonder-what-happens-after-you-report-a-scam-i-did-too/#ftag=CAD590a51e)
+ - [iPhone users might finally get a taste of Android’s assistant freedom](https://www.androidauthority.com/apple-digital-assistant-freedom-3558877/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
