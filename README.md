@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Anthropic CEO Dario Amodei, who transformed himself from an academic into a CEO; as of mid-April, Anthropic was on track for $2B in annual revenue &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250519/p7#a250519p7)
- - [I still love my Pixel 8 but this annoying issue makes me want to upgrade to the Pixel 9](https://www.androidauthority.com/google-pixel-8-fingerprint-scanner-inconsistency-3558445/)
- - [How the UK&#39;s Met Office, alongside Google DeepMind, Nvidia, Microsoft, IBM, and others, are leveraging AI to enhance weather forecasting accuracy and detail &lpar;Financial Times&rpar;](http://www.techmeme.com/250519/p6#a250519p6)<!-- TECH:END -->
+ - [Regeneron Pharmaceuticals says it will acquire all of 23andMe&#39;s assets, including its Personal Genome Service, for $256M in a bankruptcy auction, closing in Q3 &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p10#a250519p10)
+ - [How to watch Microsoft’s Build 2025 conference](https://www.theverge.com/news/669276/microsoft-build-how-to-watch-livestream-2025)
+ - [OWC&#39;s Thunderbolt 5 Dock arrives with 8K display support](https://appleinsider.com/articles/25/05/19/owcs-thunderbolt-5-dock-arrives-with-8k-display-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
