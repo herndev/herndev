@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus just solved the biggest issue with its BTF graphics cards on most motherboards and in the process found a way to supercharge its GPUs over 600 W](https://www.pcgamer.com/hardware/graphics-cards/asus-just-solved-the-biggest-issue-with-its-btf-graphics-cards-on-most-motherboards-and-in-the-process-found-a-way-to-supercharge-its-gpus-over-600-w/)
- - [Red Dead Redemption 2 is reportedly coming to Nintendo Switch 2 as early as this year, and a &#39;next-gen update&#39; for other consoles could mean good news for PC players, too](https://www.pcgamer.com/games/action/red-dead-redemption-2-is-reportedly-coming-to-nintendo-switch-2-as-early-as-this-year-and-a-next-gen-update-for-other-consoles-could-mean-good-news-for-pc-players-too/)
- - [Nvidia&#39;s Jen-Hsun Huang boasts that one spine of its new NVLink Fusion tech can &#39;move more traffic than the entire Internet&#39;](https://www.pcgamer.com/hardware/nvidias-jen-hsun-huang-boasts-that-one-spine-of-its-new-nvlink-fusion-tech-can-move-more-traffic-than-the-entire-internet/)<!-- GAME:END -->
+ - [The PC Gaming Show returns June 8 with great hosts, amazing games, and a live on-air PC build and giveaway](https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-returns-june-8-with-great-hosts-amazing-games-and-a-live-on-air-pc-build-and-giveaway/)
+ - [Doom: The Dark Ages City of Ry&#39;uul secrets and collectibles &lpar;Chapter 15&rpar;](https://www.pcgamer.com/doom-the-dark-ages-city-of-ry-uul-secrets-collectibles-chapter-15/)
+ - [Infinity Nikki devs have published a notice regarding the abysmal 1.5 update: &quot;To all stylists, we offer our deepest apologies&quot;](https://www.pcgamer.com/games/adventure/infinity-nikki-devs-have-published-a-notice-regarding-the-abysmal-1-5-update-to-all-stylists-we-offer-our-deepest-apologies/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
