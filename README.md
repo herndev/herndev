@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Matrix is coming](http://9gag.com/gag/ae9mwKW)
- - ⏩ [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)
- - 👉 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)<!-- MEMES:END -->
+ - 💣 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)
+ - ⏩ [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
+ - 👉 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)<!-- MEMES:END -->
 
 ---
 
