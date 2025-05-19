@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Taiwan-based Apple supplier Hon Hai plans to inject $1.5B into its India unit via its Singaporean subsidiary, as production shifts away from China &lpar;Twinnie Siu/Bloomberg&rpar;](http://www.techmeme.com/250519/p16#a250519p16)
- - [The Sonos Move 2 is cheaper than ever, just in time for summer](https://www.theverge.com/tech/669416/sonos-move-2-playstation-portal-deal-sale)
- - [One UI 7 battery complaints show no signs of slowing down](https://www.androidauthority.com/samsung-one-ui-7-battery-drain-3558958/)<!-- TECH:END -->
+ - [Salesforce says it is discounting Slack for US agencies, by as much as 90%, through November, following similar deals by Adobe and Google &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p18#a250519p18)
+ - [India iPhone production will be boosted by $1.5B Foxconn investment](https://appleinsider.com/articles/25/05/19/india-iphone-production-will-be-boosted-by-15b-foxconn-investment?utm_medium=rss)
+ - [AMD announces it will sell the server-manufacturing business of recently acquired US-based ZT Systems to Sanmina in a $3B deal &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250519/p17#a250519p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
