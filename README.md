@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Jensen says &#39;even Crysis&#39; can run on Nvidia&#39;s RTX Pro Server enterprise platform and now I kinda want one just for funsies](https://www.pcgamer.com/hardware/jensen-says-even-crysis-can-run-on-nvidias-rtx-pro-server-enterprise-platform-and-now-i-kinda-want-one-just-for-funsies/)
  - [Is it a bird, is it a plane? No, it&#39;s Nvidia&#39;s new Taiwanese office](https://www.pcgamer.com/hardware/is-it-a-bird-is-it-a-plane-no-its-nvidias-new-taiwanese-office/)
- - [Today&#39;s Wordle answer for Monday, May 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-19-2025/)
- - [Five new Steam games you probably missed &lpar;May 19, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-19-2025/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, May 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-19-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
