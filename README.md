@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Truly impeccable](http://9gag.com/gag/aD2V5xK)
- - ⏩ [Paranormal distribution](http://9gag.com/gag/a4P2OQm)
+ - 💣 [Prepare your insulin](http://9gag.com/gag/abABw98)
+ - ⏩ [Now I also have anxiety](http://9gag.com/gag/ae9m8bp)
  - 👉 [He might be an alpha male.](http://9gag.com/gag/a342rZv)<!-- MEMES:END -->
 
 ---
