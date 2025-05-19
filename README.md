@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paranormal distribution](http://9gag.com/gag/a4P2OQm)
- - ⏩ [Truly impeccable](http://9gag.com/gag/aD2V5xK)
+ - 💣 [Truly impeccable](http://9gag.com/gag/aD2V5xK)
+ - ⏩ [Paranormal distribution](http://9gag.com/gag/a4P2OQm)
  - 👉 [He might be an alpha male.](http://9gag.com/gag/a342rZv)<!-- MEMES:END -->
 
 ---
