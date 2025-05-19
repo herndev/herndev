@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Another Sony live service shooter may be in trouble as Jade Raymond exits the studio making PvP heist sandbox Fairgames](https://www.pcgamer.com/gaming-industry/another-sony-live-service-shooter-may-be-in-trouble-as-jade-raymond-exits-the-studio-making-pvp-heist-sandbox-fairgames/)
- - [Kotaku’s Weekend Guide: 4 Cool Games We’re Vibing With As May Evaporates Before Our Eyes](https://kotaku.com/kotaku-games-to-play-doom-wizordum-doloc-1851781135)
- - [Where to find Nightmare weapon skins in Doom: The Dark Age](https://www.polygon.com/doom-dark-ages-guides/599037/nightmare-skins-locations-all-where-to-find)<!-- GAME:END -->
+ - [Sure, why not, the next Dead by Daylight crossover is with Assassin&#39;s Creed Shadows](https://www.pcgamer.com/games/horror/sure-why-not-the-next-dead-by-daylight-crossover-is-with-assassins-creed-shadows/)
+ - [&#39;More darts, more farts&#39;: Rust dev makes &#39;fart darts&#39; for hack week, and you can probably guess what they do](https://www.pcgamer.com/games/survival-crafting/more-darts-more-farts-rust-dev-makes-fart-darts-for-hack-week-and-you-can-probably-guess-what-they-do/)
+ - [One of our most anticipated survival horror stealth games shows off more of its monster juice power-up system, which looks like an unholy cross between Hitman and Mario Odyssey](https://www.pcgamer.com/games/horror/one-of-our-most-anticipated-survival-horror-stealth-games-shows-off-more-of-its-monster-juice-power-up-system-which-looks-like-an-unholy-cross-between-hitman-and-mario-odyssey/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
