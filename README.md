@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the Samsung Galaxy S25 FE camera specs just leaked](https://www.androidauthority.com/samsung-galaxy-s25-fe-camera-specs-leak-3558891/)
- - [Ever Wonder What Happens After You Report a Scam? I Did, Too](https://www.cnet.com/tech/services-and-software/ever-wonder-what-happens-after-you-report-a-scam-i-did-too/#ftag=CAD590a51e)
- - [iPhone users might finally get a taste of Android’s assistant freedom](https://www.androidauthority.com/apple-digital-assistant-freedom-3558877/)<!-- TECH:END -->
+ - [Xiaomi CEO Lei Jun says on Weibo that the company invested ~$1.9B to build its Xring O1 chip and plans to invest $6.9B+ in chip design over the next decade &lpar;Reuters&rpar;](http://www.techmeme.com/250519/p5#a250519p5)
+ - [[Open Thread] Are Google apps still great, or just getting in their own way?](https://www.androidauthority.com/open-thread-are-google-apps-still-great-or-just-getting-in-their-own-way-3558872/)
+ - [All the Samsung Galaxy S25 FE camera specs just leaked](https://www.androidauthority.com/samsung-galaxy-s25-fe-camera-specs-leak-3558891/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
