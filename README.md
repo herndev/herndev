@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Digital, which has traded on the Toronto Stock Exchange since 2020, started trading on the Nasdaq on Friday under the ticker GLXY; the stock closed up 4% &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250516/p28#a250516p28)
- - [GameStop will have more Switch 2 stock at launch](https://www.theverge.com/news/668918/gamestop-nintendo-switch-2-stock-in-store-online-launch)
- - [Michael Novogratz says Galaxy Digital is in talks with the US SEC about tokenizing its own stock as well as other equities using its digital-asset platform &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250516/p27#a250516p27)<!-- TECH:END -->
+ - [Apple&#39;s AI head John Giannandrea isn&#39;t going anywhere, despite delays and stumbles](https://appleinsider.com/articles/25/05/18/apples-ai-head-john-giannandrea-isnt-going-anywhere-despite-delays-and-stumbles?utm_medium=rss)
+ - [Apple is trying to get ‘LLM Siri’ back on track](https://www.theverge.com/news/669238/apple-siri-llm-ai-revamp)
+ - [How the crypto industry is adapting to the recent wave of kidnappings, from more extensive security around conferences, to a rise in personal bodyguards, more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250518/p18#a250518p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
