@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ll just leave it here for the future generation.](http://9gag.com/gag/awyd2mD)
+ - 💣 [Europeans selling Indian street food](http://9gag.com/gag/amoMZgy)
  - ⏩ [Matrix is coming](http://9gag.com/gag/ae9mwKW)
  - 👉 [The Hyundai looks more like a Chrysler Imperial](http://9gag.com/gag/a1m2jj8)<!-- MEMES:END -->
 
