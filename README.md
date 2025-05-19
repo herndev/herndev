@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC Gaming Show returns June 8 with great hosts, amazing games, and a live on-air PC build and giveaway](https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-returns-june-8-with-great-hosts-amazing-games-and-a-live-on-air-pc-build-and-giveaway/)
- - [Doom: The Dark Ages City of Ry&#39;uul secrets and collectibles &lpar;Chapter 15&rpar;](https://www.pcgamer.com/doom-the-dark-ages-city-of-ry-uul-secrets-collectibles-chapter-15/)
- - [Infinity Nikki devs have published a notice regarding the abysmal 1.5 update: &quot;To all stylists, we offer our deepest apologies&quot;](https://www.pcgamer.com/games/adventure/infinity-nikki-devs-have-published-a-notice-regarding-the-abysmal-1-5-update-to-all-stylists-we-offer-our-deepest-apologies/)<!-- GAME:END -->
+ - [The 9 Best Mission: Impossible Stunts, Ranked By How Impossible They Are](https://kotaku.com/mission-impossible-final-reckoning-tom-cruise-stunts-1851780902)
+ - [Nvidia CEO Jensen Huang says &#39;PC gaming is now 30 years old,&#39; and I&#39;m here to say &#39;um, actually&#39;](https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-says-in-keynote-pc-gaming-is-now-30-years-old-and-im-here-to-say-um-actually/)
+ - [Kojima says his next espionage game will keep us waiting another &#39;5 or 6 years&#39;, but then he might finally get around to directing a movie: &#39;I’m getting older, and I would prefer to do it while still young&#39;](https://www.pcgamer.com/gaming-industry/kojima-says-his-next-espionage-game-will-keep-us-waiting-another-5-or-6-years-but-then-he-might-finally-get-around-to-directing-a-movie-im-getting-older-and-i-would-prefer-to-do-it-while-still-young/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
