@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola shares eyebrow-raising Moto Watch Fit pricing](https://www.androidauthority.com/moto-watch-fit-pricing-3559136/)
- - [Now’s your chance to finally pick up Walmart’s affordable 4K Google TV Streamer](https://www.androidauthority.com/onn-4k-plus-online-sales-start-3559129/)
- - [Investigation: New Orleans police secretly scanned city streets with 200+ facial recognition cameras for two years, seemingly defying a 2022 city ordinance &lpar;Washington Post&rpar;](http://www.techmeme.com/250519/p40#a250519p40)<!-- TECH:END -->
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - [SAG-AFTRA files an NLRB unfair labor practice charge against Epic&#39;s Llama Productions for using AI to recreate James Earl Jones&#39; Darth Vader voice in Fortnite &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250519/p42#a250519p42)
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
