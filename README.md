@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Graphiant, a San Jose-based NaaS startup, raised a $19M Series B extension led by Aramco&#39;s Wa&#39;ed and Saudi Telecom&#39;s Tali, bringing the round total to $102M &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/250519/p38#a250519p38)
- - [Is She Really Mad at Me? Maybe ChatGPT Knows](https://www.wired.com/story/using-chatgpt-for-interpersonal-relationship-advice/)
- - [Sources: Circle recently engaged in informal talks to sell itself to Coinbase or Ripple, seeking at least $5B, the valuation it is targeting in a potential IPO &lpar;Luisa Beltran/Fortune&rpar;](http://www.techmeme.com/250519/p37#a250519p37)<!-- TECH:END -->
+ - [Motorola shares eyebrow-raising Moto Watch Fit pricing](https://www.androidauthority.com/moto-watch-fit-pricing-3559136/)
+ - [Now’s your chance to finally pick up Walmart’s affordable 4K Google TV Streamer](https://www.androidauthority.com/onn-4k-plus-online-sales-start-3559129/)
+ - [Investigation: New Orleans police secretly scanned city streets with 200+ facial recognition cameras for two years, seemingly defying a 2022 city ordinance &lpar;Washington Post&rpar;](http://www.techmeme.com/250519/p40#a250519p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
