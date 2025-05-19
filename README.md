@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Fan Game Shut Down After Eight Years Of Development](https://kotaku.com/lego-bionicle-fan-game-masks-of-power-canceled-shutdown-1851781321)
- - [Overwatch 2’s Street Fighter Skins Are A Knockout](https://kotaku.com/overwatch-2-street-fighter-skins-hanzo-ryu-kiriko-juno-1851781308)
- - [The legend who made Oblivion&#39;s Dark Brotherhood infinite has made its Thieves&#39; Guild go on forever as well](https://www.pcgamer.com/games/the-elder-scrolls/the-legend-who-made-oblivions-dark-brotherhood-infinite-has-made-its-thieves-guild-go-on-forever-as-well/)<!-- GAME:END -->
+ - [How To Defeat The Ox In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-ox-boss-naoe-yasuke-nagina-1851781334)
+ - [Fortnite maker charged with unfair labor practice over AI Darth Vader](https://www.polygon.com/fortnite/599871/fortnite-maker-charged-with-unfair-labor-practice-over-ai-darth-vader)
+ - [Vikings, ninja and a WWII pilot become prey in Predator: Killer of Killers trailer](https://www.polygon.com/trailer/599921/predator-killer-of-killers-trailer-hulu-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
