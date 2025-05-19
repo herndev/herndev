@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s What Cyberpunk 2077, Pokémon Scarlet And Violet, And More Look Like On Switch 2](https://kotaku.com/cyberpunk-2077-switch-2-footage-pokemon-violet-scarlet-1851781304)
- - [Overwatch 2’s Street Fighter 6 collab doesn’t disappoint &lpar;unless you wanted a free skin&rpar;](https://www.polygon.com/trailer/599851/overwatch-2-street-fighter-6-collab-skins-price)
- - [Dandadan season 2 looks more chaotic than ever in new trailer](https://www.polygon.com/entertainment/599846/dandadan-season-2-new-trailer-opening-op-theme)<!-- GAME:END -->
+ - [Lego Fan Game Shut Down After Eight Years Of Development](https://kotaku.com/lego-bionicle-fan-game-masks-of-power-canceled-shutdown-1851781321)
+ - [Overwatch 2’s Street Fighter Skins Are A Knockout](https://kotaku.com/overwatch-2-street-fighter-skins-hanzo-ryu-kiriko-juno-1851781308)
+ - [The legend who made Oblivion&#39;s Dark Brotherhood infinite has made its Thieves&#39; Guild go on forever as well](https://www.pcgamer.com/games/the-elder-scrolls/the-legend-who-made-oblivions-dark-brotherhood-infinite-has-made-its-thieves-guild-go-on-forever-as-well/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
