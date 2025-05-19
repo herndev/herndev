@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jensen says &#39;even Crysis&#39; can run on Nvidia&#39;s RTX Pro Server enterprise platform and now I kinda want one just for funsies](https://www.pcgamer.com/hardware/jensen-says-even-crysis-can-run-on-nvidias-rtx-pro-server-enterprise-platform-and-now-i-kinda-want-one-just-for-funsies/)
- - [Is it a bird, is it a plane? No, it&#39;s Nvidia&#39;s new Taiwanese office](https://www.pcgamer.com/hardware/is-it-a-bird-is-it-a-plane-no-its-nvidias-new-taiwanese-office/)
- - [Today&#39;s Wordle answer for Monday, May 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-19-2025/)<!-- GAME:END -->
+ - [I&#39;m actually jealous of the workstation that gets to use this Maxsun graphics card containing two Intel Arc GPUs and 48 GB of VRAM](https://www.pcgamer.com/hardware/graphics-cards/im-actually-jealous-of-the-workstation-that-gets-to-use-this-maxsun-graphics-card-containing-two-intel-arc-gpus-and-48-gb-of-vram/)
+ - [Cozy castle builder literally hits next level as Tiny Glade announces stairs, its &#39;biggest and most complicated change&#39; yet](https://www.pcgamer.com/games/city-builder/cozy-castle-builder-literally-hits-next-level-as-tiny-glade-announces-stairs-its-biggest-and-most-complicated-change-yet/)
+ - [Jensen says &#39;even Crysis&#39; can run on Nvidia&#39;s RTX Pro Server enterprise platform and now I kinda want one just for funsies](https://www.pcgamer.com/hardware/jensen-says-even-crysis-can-run-on-nvidias-rtx-pro-server-enterprise-platform-and-now-i-kinda-want-one-just-for-funsies/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
