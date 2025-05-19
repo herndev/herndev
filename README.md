@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How a NASA simulation inspired Clair Obscur’s character lineup](https://www.polygon.com/gaming/599737/expedition-33-characters-gustave-maelle)
- - [&#39;We are doing our best to resolve most of it&#39;: Stellar Blade&#39;s PC release will be restricted in 130 countries as the devs fight to have it lifted](https://www.pcgamer.com/games/action/we-are-doing-our-best-to-resolve-most-of-it-stellar-blades-pc-release-will-be-restricted-in-130-countries-as-the-devs-fight-to-have-it-lifted/)
- - [Intel&#39;s next batch of CPUs might still be called Core Ultra 200S, possibly because the Arrow Lake refresh won&#39;t be much of a boost](https://www.pcgamer.com/hardware/processors/intels-next-batch-of-cpus-might-still-be-called-core-ultra-200s-possibly-because-the-arrow-lake-refresh-wont-be-much-of-a-boost/)<!-- GAME:END -->
+ - [Nvidia RTX 5060 review live: we&#39;ve been black-listed for this review, but I&#39;m a professional so we&#39;re doing this live!](https://www.pcgamer.com/hardware/live/news/nvidia-rtx-5060-review-doing-it-live/)
+ - [Black Ops 6’s Best Ladra Loadout Optimizes Mobility And Momentum](https://kotaku.com/call-duty-black-ops-6-warzone-wz-ladra-attachments-1851781095)
+ - [There are only 666 of this ROG Astral RTX 5080 Doom Edition being made and I&#39;d go to Hell and back to get one if it wasn&#39;t $2,000](https://www.pcgamer.com/hardware/graphics-cards/there-are-only-666-of-this-rog-astral-rtx-5080-doom-edition-being-made-and-id-go-to-hell-and-back-to-get-one-if-it-wasnt-usd2-000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
