@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [._.](http://9gag.com/gag/a342eme)
- - ⏩ [Big void](http://9gag.com/gag/a2v29YO)
- - 👉 [Lemons](http://9gag.com/gag/aryq9dB)<!-- MEMES:END -->
+ - 💣 [I&#39;ll just leave it here for the future generation.](http://9gag.com/gag/awyd2mD)
+ - ⏩ [Matrix is coming](http://9gag.com/gag/ae9mwKW)
+ - 👉 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)<!-- MEMES:END -->
 
 ---
 
