@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 9 Best Mission: Impossible Stunts, Ranked By How Impossible They Are](https://kotaku.com/mission-impossible-final-reckoning-tom-cruise-stunts-1851780902)
- - [Nvidia CEO Jensen Huang says &#39;PC gaming is now 30 years old,&#39; and I&#39;m here to say &#39;um, actually&#39;](https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-says-in-keynote-pc-gaming-is-now-30-years-old-and-im-here-to-say-um-actually/)
- - [Kojima says his next espionage game will keep us waiting another &#39;5 or 6 years&#39;, but then he might finally get around to directing a movie: &#39;I’m getting older, and I would prefer to do it while still young&#39;](https://www.pcgamer.com/gaming-industry/kojima-says-his-next-espionage-game-will-keep-us-waiting-another-5-or-6-years-but-then-he-might-finally-get-around-to-directing-a-movie-im-getting-older-and-i-would-prefer-to-do-it-while-still-young/)<!-- GAME:END -->
+ - [Here&#39;s What Cyberpunk 2077, Pokémon Scarlet And Violet, And More Look Like On Switch 2](https://kotaku.com/cyberpunk-2077-switch-2-footage-pokemon-violet-scarlet-1851781304)
+ - [Overwatch 2’s Street Fighter 6 collab doesn’t disappoint &lpar;unless you wanted a free skin&rpar;](https://www.polygon.com/trailer/599851/overwatch-2-street-fighter-6-collab-skins-price)
+ - [Dandadan season 2 looks more chaotic than ever in new trailer](https://www.polygon.com/entertainment/599846/dandadan-season-2-new-trailer-opening-op-theme)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
