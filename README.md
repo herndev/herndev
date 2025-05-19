@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi CEO Lei Jun says on Weibo that the company invested ~$1.9B to build its Xring O1 chip and plans to invest $6.9B+ in chip design over the next decade &lpar;Reuters&rpar;](http://www.techmeme.com/250519/p5#a250519p5)
- - [[Open Thread] Are Google apps still great, or just getting in their own way?](https://www.androidauthority.com/open-thread-are-google-apps-still-great-or-just-getting-in-their-own-way-3558872/)
- - [All the Samsung Galaxy S25 FE camera specs just leaked](https://www.androidauthority.com/samsung-galaxy-s25-fe-camera-specs-leak-3558891/)<!-- TECH:END -->
+ - [A profile of Anthropic CEO Dario Amodei, who transformed himself from an academic into a CEO; as of mid-April, Anthropic was on track for $2B in annual revenue &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250519/p7#a250519p7)
+ - [I still love my Pixel 8 but this annoying issue makes me want to upgrade to the Pixel 9](https://www.androidauthority.com/google-pixel-8-fingerprint-scanner-inconsistency-3558445/)
+ - [How the UK&#39;s Met Office, alongside Google DeepMind, Nvidia, Microsoft, IBM, and others, are leveraging AI to enhance weather forecasting accuracy and detail &lpar;Financial Times&rpar;](http://www.techmeme.com/250519/p6#a250519p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
