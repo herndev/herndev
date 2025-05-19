@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [SAG-AFTRA files an NLRB unfair labor practice charge against Epic&#39;s Llama Productions for using AI to recreate James Earl Jones&#39; Darth Vader voice in Fortnite &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250519/p42#a250519p42)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
+ - [Elgato is letting you stick a Stream Deck on anything](https://www.theverge.com/news/669323/elgato-stream-deck-modules-vsd-scissor-switches)
+ - [Deal: The Narwal Freo Pro is the robot vacuum and mop I would buy](https://www.androidauthority.com/narwal-freo-pro-deal-3559167/)
+ - [Huawei launches its first laptops running on HarmonyOS, including the 18-inch foldable MateBook Fold, and is working to make the OS compatible with 2,000+ apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p44#a250519p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
