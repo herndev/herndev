@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Prepare your insulin](http://9gag.com/gag/abABw98)
- - ⏩ [Now I also have anxiety](http://9gag.com/gag/ae9m8bp)
- - 👉 [He might be an alpha male.](http://9gag.com/gag/a342rZv)<!-- MEMES:END -->
+ - ⏩ [He might be an alpha male.](http://9gag.com/gag/a342rZv)
+ - 👉 [Now I also have anxiety](http://9gag.com/gag/ae9m8bp)<!-- MEMES:END -->
 
 ---
 
