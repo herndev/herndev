@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to manage your bookmarks in Google Chrome](https://www.theverge.com/tech/668874/bookmarks-chrome-how-to)
- - [Google releases its NotebookLM mobile app](https://www.theverge.com/news/669828/google-releases-its-notebooklm-mobile-app)
- - [Researchers: GPT-4 was 64.4% more persuasive than humans in one-on-one debates when given basic personal information about the person it was trying to persuade &lpar;Isaac Schultz/Gizmodo&rpar;](http://www.techmeme.com/250519/p34#a250519p34)<!-- TECH:END -->
+ - [Graphiant, a San Jose-based NaaS startup, raised a $19M Series B extension led by Aramco&#39;s Wa&#39;ed and Saudi Telecom&#39;s Tali, bringing the round total to $102M &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/250519/p38#a250519p38)
+ - [Is She Really Mad at Me? Maybe ChatGPT Knows](https://www.wired.com/story/using-chatgpt-for-interpersonal-relationship-advice/)
+ - [Sources: Circle recently engaged in informal talks to sell itself to Coinbase or Ripple, seeking at least $5B, the valuation it is targeting in a potential IPO &lpar;Luisa Beltran/Fortune&rpar;](http://www.techmeme.com/250519/p37#a250519p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
