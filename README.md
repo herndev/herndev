@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Is it a bird, is it a plane? No, it&#39;s Nvidia&#39;s new Taiwanese office](https://www.pcgamer.com/hardware/is-it-a-bird-is-it-a-plane-no-its-nvidias-new-taiwanese-office/)
  - [Today&#39;s Wordle answer for Monday, May 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-19-2025/)
- - [Five new Steam games you probably missed &lpar;May 19, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-19-2025/)
- - [The Last Of Us Season Two, Episode Six Recap: Days Of You And Me](https://kotaku.com/last-of-us-season-2-episode-6-recap-museum-porch-scene-1851781187)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;May 19, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-19-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
