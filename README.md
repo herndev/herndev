@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce says it is discounting Slack for US agencies, by as much as 90%, through November, following similar deals by Adobe and Google &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p18#a250519p18)
- - [India iPhone production will be boosted by $1.5B Foxconn investment](https://appleinsider.com/articles/25/05/19/india-iphone-production-will-be-boosted-by-15b-foxconn-investment?utm_medium=rss)
- - [AMD announces it will sell the server-manufacturing business of recently acquired US-based ZT Systems to Sanmina in a $3B deal &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250519/p17#a250519p17)<!-- TECH:END -->
+ - [Microsoft employee disrupts Satya Nadella’s Build conference keynote](https://www.theverge.com/news/669362/microsoft-employee-protest-build-conference-satya-nadella)
+ - [For its Copilot Studio agents, Microsoft announces a &quot;computer use&quot; feature available in its Frontier program for select US users, WhatsApp integration, more &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250519/p28#a250519p28)
+ - [Bluesky is testing a new ‘live’ indicator, starting with the NBA](https://www.theverge.com/news/669675/bluesky-nba-live-indicator-broadcasts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
