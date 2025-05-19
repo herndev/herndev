@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, May 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-19-2025/)
  - [Five new Steam games you probably missed &lpar;May 19, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-19-2025/)
- - [The Last Of Us Season Two, Episode Six Recap: Days Of You And Me](https://kotaku.com/last-of-us-season-2-episode-6-recap-museum-porch-scene-1851781187)
- - [In its latest update, Enshrouded&#39;s terrifying monsters have players asking &#39;are we the baddies?&#39;](https://www.pcgamer.com/games/survival-crafting/in-its-latest-update-enshroudeds-terrifying-monsters-have-players-asking-are-we-the-baddies/)<!-- GAME:END -->
+ - [The Last Of Us Season Two, Episode Six Recap: Days Of You And Me](https://kotaku.com/last-of-us-season-2-episode-6-recap-museum-porch-scene-1851781187)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
