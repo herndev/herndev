@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He might be an alpha male.](http://9gag.com/gag/a342rZv)
+ - 💣 [The magic is over](http://9gag.com/gag/aW4b3O6)
  - ⏩ [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
  - 👉 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)<!-- MEMES:END -->
 
