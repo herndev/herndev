@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple&#39;s invite-only &#39;University&#39; event for student creators](https://appleinsider.com/articles/25/05/19/inside-apples-invite-only-university-event-for-student-creators?utm_medium=rss)
- - [Hiding documents under the cover of attorney-client privilege is a serious big-tech legal strategy](https://appleinsider.com/articles/25/05/19/hiding-documents-under-the-cover-of-attorney-client-privilege-is-a-serious-big-tech-legal-strategy?utm_medium=rss)
- - [Sesame Street’s next season will stream on Netflix](https://www.theverge.com/news/669424/sesame-street-netflix-streaming)<!-- TECH:END -->
+ - [Filing: Taiwan-based Apple supplier Hon Hai plans to inject $1.5B into its India unit via its Singaporean subsidiary, as production shifts away from China &lpar;Twinnie Siu/Bloomberg&rpar;](http://www.techmeme.com/250519/p16#a250519p16)
+ - [The Sonos Move 2 is cheaper than ever, just in time for summer](https://www.theverge.com/tech/669416/sonos-move-2-playstation-portal-deal-sale)
+ - [One UI 7 battery complaints show no signs of slowing down](https://www.androidauthority.com/samsung-one-ui-7-battery-drain-3558958/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
