@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia unveils NVLink Fusion, letting customers use its NVLink to pair non-Nvidia CPUs or accelerators with Nvidia&#39;s products in their own rack-scale setups &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p2#a250519p2)
- - [A look at Neuralink and other brain-computer interface startups, as the number of people with brain implants is set to double from ~100 in the next 12 months &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p1#a250519p1)
- - [Hate the small Galaxy S25 Edge battery? You’ll laugh at these leaked iPhone 17 Air battery details](https://www.androidauthority.com/iphone-17-air-vs-galaxy-s25-edge-battery-size-thinness-3558841/)<!-- TECH:END -->
+ - [Nvidia plans to build an AI supercomputer with Foxconn and Taiwan&#39;s government to support local researchers and enterprises; TSMC plans to use the system &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p3#a250519p3)
+ - [Some Nest speakers are glowing blue and purple, and there’s a good reason for it](https://www.androidauthority.com/nest-speakers-gemini-colors-3558845/)
+ - [Nvidia unveils NVLink Fusion, letting customers use its NVLink to pair non-Nvidia CPUs or accelerators with Nvidia&#39;s products in their own rack-scale setups &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p2#a250519p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
