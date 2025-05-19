@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft employee disrupts Satya Nadella’s Build conference keynote](https://www.theverge.com/news/669362/microsoft-employee-protest-build-conference-satya-nadella)
- - [For its Copilot Studio agents, Microsoft announces a &quot;computer use&quot; feature available in its Frontier program for select US users, WhatsApp integration, more &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250519/p28#a250519p28)
- - [Bluesky is testing a new ‘live’ indicator, starting with the NBA](https://www.theverge.com/news/669675/bluesky-nba-live-indicator-broadcasts)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/669520/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [LG’s brilliant C4 OLED is more than 50 percent off for Memorial Day](https://www.theverge.com/tech/669721/lg-c4-oled-tv-memorial-day-2025-deal-sale)
+ - [Microsoft adds Grok 3 and Grok 3 mini to its Azure AI Foundry service &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250519/p30#a250519p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
