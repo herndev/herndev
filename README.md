@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Regeneron Pharmaceuticals says it will acquire all of 23andMe&#39;s assets, including its Personal Genome Service, for $256M in a bankruptcy auction, closing in Q3 &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p10#a250519p10)
- - [How to watch Microsoft’s Build 2025 conference](https://www.theverge.com/news/669276/microsoft-build-how-to-watch-livestream-2025)
- - [OWC&#39;s Thunderbolt 5 Dock arrives with 8K display support](https://appleinsider.com/articles/25/05/19/owcs-thunderbolt-5-dock-arrives-with-8k-display-support?utm_medium=rss)<!-- TECH:END -->
+ - [Daniel Moneta from the CSA talks Matter 1.4.1 on HomeKit Insider](https://appleinsider.com/articles/25/05/19/daniel-moneta-from-the-csa-talks-matter-141-on-homekit-insider?utm_medium=rss)
+ - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2025&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)
+ - [Google I/O 2025: how to watch and what to expect](https://www.theverge.com/news/669304/google-io-2025-how-to-watch-expect-livestream-ai-android-xr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
