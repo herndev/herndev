@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia plans to build an AI supercomputer with Foxconn and Taiwan&#39;s government to support local researchers and enterprises; TSMC plans to use the system &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p3#a250519p3)
- - [Some Nest speakers are glowing blue and purple, and there’s a good reason for it](https://www.androidauthority.com/nest-speakers-gemini-colors-3558845/)
- - [Nvidia unveils NVLink Fusion, letting customers use its NVLink to pair non-Nvidia CPUs or accelerators with Nvidia&#39;s products in their own rack-scale setups &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p2#a250519p2)<!-- TECH:END -->
+ - [iPhone users may finally be able to ditch Siri for Gemini and ChatGPT](https://www.androidauthority.com/apple-digital-assistant-freedom-3558877/)
+ - [Experts blame Big Tech lawyers&#39; culture of lawlessness for Amazon, Apple, and Google being accused of abusing legal privilege in antitrust and other court cases &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p4#a250519p4)
+ - [Nvidia plans to build an AI supercomputer with Foxconn and Taiwan&#39;s government to support local researchers and enterprises; TSMC plans to use the system &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p3#a250519p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
