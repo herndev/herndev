@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In its latest update, Enshrouded&#39;s terrifying monsters have players asking &#39;are we the baddies?&#39;](https://www.pcgamer.com/games/survival-crafting/in-its-latest-update-enshroudeds-terrifying-monsters-have-players-asking-are-we-the-baddies/)
- - [There&#39;s a unique game over in Baldur&#39;s Gate 3 you can only get by rolling 20 on a bunch of Constitution saving throws, then being an absolute dunderhead](https://www.pcgamer.com/games/baldurs-gate/theres-a-unique-game-over-in-baldurs-gate-3-you-can-only-get-by-rolling-20-on-a-bunch-of-constitution-saving-throws-then-being-an-absolute-dunderhead/)
- - [Sure, why not, the next Dead by Daylight crossover is with Assassin&#39;s Creed Shadows](https://www.pcgamer.com/games/horror/sure-why-not-the-next-dead-by-daylight-crossover-is-with-assassins-creed-shadows/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;May 19, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-19-2025/)
+ - [The Last Of Us Season Two, Episode Six Recap: Days Of You And Me](https://kotaku.com/last-of-us-season-2-episode-6-recap-museum-porch-scene-1851781187)
+ - [In its latest update, Enshrouded&#39;s terrifying monsters have players asking &#39;are we the baddies?&#39;](https://www.pcgamer.com/games/survival-crafting/in-its-latest-update-enshroudeds-terrifying-monsters-have-players-asking-are-we-the-baddies/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
