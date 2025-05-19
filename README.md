@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Only a fool would pass on The Witcher 3 for 90% off during Steam&#39;s CD Projekt Red Sale](https://www.pcgamer.com/games/rpg/only-a-fool-would-pass-on-the-witcher-3-for-90-percent-off-during-steams-cd-projekt-red-sale/)
- - [Smash Bros. Melee player lost out on $2,000 after heartbreaking Pokémon Stadium glitch](https://www.polygon.com/gaming/600019/smash-bros-melee-player-lost-out-on-2000-after-heartbreaking-pokemon-stadium-glitch)
- - [Where to find Wolf Statues in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599982/wolf-statues-locations-where-to-find-all)<!-- GAME:END -->
+ - [Remembering The Witcher 3&#39;s toughest choices &lpar;and the objectively correct answers&rpar;](https://www.pcgamer.com/games/rpg/remembering-the-witcher-3s-toughest-choices-and-the-objectively-correct-answers/)
+ - [An MVP of ultrawide patches for triple-A games just had their entire library nuked from GitHub, and nobody seems to know why](https://www.pcgamer.com/gaming-industry/an-mvp-of-ultrawide-patches-for-triple-a-games-just-had-their-entire-library-nuked-from-github-and-nobody-seems-to-know-why/)
+ - [Only a fool would pass on The Witcher 3 for 90% off during Steam&#39;s CD Projekt Red Sale](https://www.pcgamer.com/games/rpg/only-a-fool-would-pass-on-the-witcher-3-for-90-percent-off-during-steams-cd-projekt-red-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
