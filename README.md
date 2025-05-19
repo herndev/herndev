@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SAG-AFTRA files unfair labor practice complaint against Epic over Fortnite&#39;s AI-powered Darth Vader: &#39;We must protect our right to bargain terms and conditions around uses of voice that replace the work of our members&#39;](https://www.pcgamer.com/games/battle-royale/sag-aftra-files-unfair-labor-practice-complaint-against-epic-over-fortnites-ai-powered-darth-vader-we-must-protect-our-right-to-bargain-terms-and-conditions-around-uses-of-voice-that-replace-the-work-of-our-members/)
- - [The Last Of Us Cut A Beloved Segment From The Museum Scene, But It Looks Like HBO Shot It](https://kotaku.com/last-of-us-dinosaur-museum-scene-set-pedro-pascal-joel-1851781387)
- - [Diablo 4 player sits back as their 20 large lycanthrope sons tear through one of the hardest dungeons for them](https://www.pcgamer.com/games/rpg/diablo-4-player-sits-back-as-their-20-large-lycanthrope-sons-tear-through-one-of-the-hardest-dungeons-for-them/)<!-- GAME:END -->
+ - [Only a fool would pass on The Witcher 3 for 90% off during Steam&#39;s CD Projekt Red Sale](https://www.pcgamer.com/games/rpg/only-a-fool-would-pass-on-the-witcher-3-for-90-percent-off-during-steams-cd-projekt-red-sale/)
+ - [Smash Bros. Melee player lost out on $2,000 after heartbreaking Pokémon Stadium glitch](https://www.polygon.com/gaming/600019/smash-bros-melee-player-lost-out-on-2000-after-heartbreaking-pokemon-stadium-glitch)
+ - [Where to find Wolf Statues in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599982/wolf-statues-locations-where-to-find-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
