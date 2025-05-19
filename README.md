@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sure, why not, the next Dead by Daylight crossover is with Assassin&#39;s Creed Shadows](https://www.pcgamer.com/games/horror/sure-why-not-the-next-dead-by-daylight-crossover-is-with-assassins-creed-shadows/)
- - [&#39;More darts, more farts&#39;: Rust dev makes &#39;fart darts&#39; for hack week, and you can probably guess what they do](https://www.pcgamer.com/games/survival-crafting/more-darts-more-farts-rust-dev-makes-fart-darts-for-hack-week-and-you-can-probably-guess-what-they-do/)
- - [One of our most anticipated survival horror stealth games shows off more of its monster juice power-up system, which looks like an unholy cross between Hitman and Mario Odyssey](https://www.pcgamer.com/games/horror/one-of-our-most-anticipated-survival-horror-stealth-games-shows-off-more-of-its-monster-juice-power-up-system-which-looks-like-an-unholy-cross-between-hitman-and-mario-odyssey/)<!-- GAME:END -->
+ - [In its latest update, Enshrouded&#39;s terrifying monsters have players asking &#39;are we the baddies?&#39;](https://www.pcgamer.com/games/survival-crafting/in-its-latest-update-enshroudeds-terrifying-monsters-have-players-asking-are-we-the-baddies/)
+ - [There&#39;s a unique game over in Baldur&#39;s Gate 3 you can only get by rolling 20 on a bunch of Constitution saving throws, then being an absolute dunderhead](https://www.pcgamer.com/games/baldurs-gate/theres-a-unique-game-over-in-baldurs-gate-3-you-can-only-get-by-rolling-20-on-a-bunch-of-constitution-saving-throws-then-being-an-absolute-dunderhead/)
+ - [Sure, why not, the next Dead by Daylight crossover is with Assassin&#39;s Creed Shadows](https://www.pcgamer.com/games/horror/sure-why-not-the-next-dead-by-daylight-crossover-is-with-assassins-creed-shadows/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
