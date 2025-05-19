@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Europeans selling Indian street food](http://9gag.com/gag/amoMZgy)
- - ⏩ [Matrix is coming](http://9gag.com/gag/ae9mwKW)
- - 👉 [The Hyundai looks more like a Chrysler Imperial](http://9gag.com/gag/a1m2jj8)<!-- MEMES:END -->
+ - ⏩ [The Hyundai looks more like a Chrysler Imperial](http://9gag.com/gag/a1m2jj8)
+ - 👉 [Matrix is coming](http://9gag.com/gag/ae9mwKW)<!-- MEMES:END -->
 
 ---
 
