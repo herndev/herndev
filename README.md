@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Defeat The Ox In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-ox-boss-naoe-yasuke-nagina-1851781334)
- - [Fortnite maker charged with unfair labor practice over AI Darth Vader](https://www.polygon.com/fortnite/599871/fortnite-maker-charged-with-unfair-labor-practice-over-ai-darth-vader)
- - [Vikings, ninja and a WWII pilot become prey in Predator: Killer of Killers trailer](https://www.polygon.com/trailer/599921/predator-killer-of-killers-trailer-hulu-release-date)<!-- GAME:END -->
+ - [Surprise! There Are More Wolf Statues To Smash Up In Doom: The Dark Ages&#39; Kar&#39;Thul Marshes](https://kotaku.com/doom-dark-ages-wolf-statue-locations-wraithstone-1851781357)
+ - [$15 Will Get You Every Witcher Game Including One Of The Best RPGs Of The Last Decade](https://kotaku.com/witcher-3-sale-discount-steam-ps5-anniversary-1851781353)
+ - [Baldur’s Gate 3 minis are bad enough that WizKids is offering a full refund](https://www.polygon.com/news/599913/baldurs-gate-3-wizkids-minifigs-refund)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
