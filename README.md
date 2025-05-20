@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fight to save a doomed world in the Brazilian D&amp;#038;D 5e setting Skyfall](https://www.polygon.com/dnd-dungeons-dragons/600041/skyfall-brazilian-dnd-5e-setting-kickstarter)
- - [Mission: Impossible&#39;s Secret Weapon Is Luther Stickell](https://kotaku.com/mission-impossible-luther-stickell-ving-rhames-mi8-1851781283)
- - [Raidou Remastered is more of a remake, with a hugely overhauled combat system and no more random encounters](https://www.pcgamer.com/games/rpg/raidou-remastered-is-more-of-a-remake-with-a-hugely-overhauled-combat-system-and-no-more-random-encounters/)<!-- GAME:END -->
+ - [On The Witcher 3&#39;s 10th birthday, join us in celebrating one of the most enduringly brilliant open world RPGs ever made](https://www.pcgamer.com/games/rpg/on-the-witcher-3s-10th-birthday-join-us-in-celebrating-one-of-the-most-enduringly-brilliant-open-world-rpgs-ever-made/)
+ - [After 13 playthroughs, one Elden Ring player is still haunted by a mysterious item, only to be let down by the burden of knowledge](https://www.pcgamer.com/games/rpg/after-13-playthroughs-one-elden-ring-player-is-still-haunted-by-a-mysterious-item-only-to-be-let-down-by-the-burden-of-knowledge/)
+ - [Jurassic World Rebirth trailer revives the most notorious cut book scene from the original movie](https://www.polygon.com/movies/600051/jurassic-world-rebirth-trailer-river-raft-scene-jurassic-park)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
