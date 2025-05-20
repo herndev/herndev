@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung OLED TVs are finally getting Nvidia G-Sync support, should you ever want to hook your rig up to a 60+ inch screen](https://www.pcgamer.com/hardware/gaming-monitors/samsung-oled-tvs-are-finally-getting-nvidia-g-sync-support-should-you-ever-want-to-hook-your-rig-up-to-a-60-inch-screen/)
- - [Helldivers 2: Heart of Democracy update live, brings the fight to the streets of Super Earth](https://blog.playstation.com/2025/05/20/helldivers-2-heart-of-democracy-update-live-brings-the-fight-to-the-streets-of-super-earth/)
- - [Helldivers 2: Heart of Democracy update live, brings the fight to the streets of Super Earth](https://blog.playstation.com/2025/05/20/helldivers-2-heart-of-democracy-update-live-brings-the-fight-to-the-streets-of-super-earth/)<!-- GAME:END -->
+ - [The Corsair Air 5400 offers such a clever and unique approach to CPU cooling, I&#39;m surprised no one did it sooner](https://www.pcgamer.com/hardware/pc-cases/the-corsair-air-5400-offers-such-a-clever-and-unique-approach-to-cpu-cooling-im-surprised-no-one-did-it-sooner/)
+ - [Hints of an exciting new gaming GPU from Intel were just a social media miscommunication and now I&#39;m totally deflated](https://www.pcgamer.com/hardware/graphics-cards/hints-of-an-exciting-new-gaming-gpu-from-intel-were-just-a-social-media-miscommunication-and-now-im-totally-deflated/)
+ - [Helldivers 2&#39;s new update Heart of Democracy finally adds urban city maps, SEAF redshirts to make you look cool, giant Illuminate sky worms, and civilians to protect from friendly fire](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-update-heart-of-democracy-finally-adds-urban-city-maps-seaf-redshirts-to-make-you-look-cool-giant-illuminate-sky-worms-and-civilians-to-protect-from-friendly-fire/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
