@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The machine](http://9gag.com/gag/amoMeQV)
- - ⏩ [Its not perfect but at least it&#39;s not just a lot of spam from bots](http://9gag.com/gag/a9y2xA0)
- - 👉 [Magic](http://9gag.com/gag/aYQq0KO)<!-- MEMES:END -->
+ - 💣 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
+ - ⏩ [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
+ - 👉 [The machine](http://9gag.com/gag/amoMeQV)<!-- MEMES:END -->
 
 ---
 
