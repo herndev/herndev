@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop Is Selling A Ton Of Big Games For Just $15](https://kotaku.com/gamestop-15-30-big-sale-aaa-call-of-duty-ps5-switch-2-1851781564)
- - [THQ Nordic studio that was set to be closed in 2023 somehow escaped the Embracer death spiral and is now working on a new RPG](https://www.pcgamer.com/gaming-industry/thq-nordic-studio-that-was-set-to-be-closed-in-2023-somehow-escaped-the-embracer-death-spiral-and-is-now-working-on-a-new-rpg/)
- - [Cyberpunk 2077’s Sequel Will Return To Night City, As Well As Take Us Somewhere New](https://kotaku.com/cyberpunk-2077-sequel-orion-night-new-city-chicago-cdpr-1851781566)<!-- GAME:END -->
+ - [Avowed director Carrie Patel leaves Obsidian after 12 years to join the Netflix studio behind Oxenfree](https://www.pcgamer.com/gaming-industry/avowed-director-carrie-patel-leaves-obsidian-after-12-years-to-join-the-netflix-studio-behind-oxenfree/)
+ - [All ammo upgrade leaders locations in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/600199/ammo-upgrade-leaders-locations-all-where-to-find)
+ - [&#39;This has been heartbreaking news for our entire team&#39;: Lego nukes Bionicle fangame from orbit after ignoring it for 8 years](https://www.pcgamer.com/games/action/this-has-been-heartbreaking-news-for-our-entire-team-lego-nukes-bionicle-fangame-from-orbit-after-ignoring-it-for-8-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
