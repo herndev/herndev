@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I accidentally forgot to start the Soviet Union in this excellent free game about the Russian Revolution](https://www.pcgamer.com/games/sim/i-accidentally-forgot-to-start-the-soviet-union-in-this-excellent-free-game-about-the-russian-revolution/)
- - [Corsair&#39;s Frame series of PC cases is testing a modular DAC/amp accessory prototype, and I&#39;ll be the first in line to buy one if it makes it to production](https://www.pcgamer.com/hardware/pc-cases/corsairs-frame-series-of-pc-cases-is-testing-a-modular-dac-amp-accessory-prototype-and-ill-be-the-first-in-line-to-buy-one-if-it-makes-it-to-production/)
- - [How To Take Down The Powerful Mizutsune In Monster Hunter Wilds](https://kotaku.com/monster-hunter-wilds-mh-defeat-mizutsune-bubbles-temper-1851781466)<!-- GAME:END -->
+ - [Dragon Ball Daima is Akira Toriyama&amp;#8217;s final gift to Dragon Ball fans](https://www.polygon.com/anime/600092/dragon-ball-daima-is-akira-toriyamas-final-gift-to-dragon-ball-fans)
+ - [At Least A Few Stores Will Have Switch 2 In Stock The Day Of Launch For Fans Without Pre-Orders](https://kotaku.com/switch-2-in-stock-target-best-buy-gamestop-preorder-1851781532)
+ - [The glorious juxtaposition of DOOM: The Dark Ages and Colorful&#39;s furry-friend-themed Meow range of PC goodies is one reason why we love Computex](https://www.pcgamer.com/hardware/the-glorious-juxtaposition-of-doom-the-dark-ages-and-colorfuls-furry-friend-themed-meow-range-of-pc-goodies-is-one-reason-why-we-love-computex/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
