@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Republican lawmakers could soon kill clean energy jobs in their home states](https://www.theverge.com/climate-change/670047/solar-wind-energy-battery-manufacturing-tax-credits-republican-spending-bill)
- - [MEIZU focuses on global expansion with its latest lineup of smartphones](https://www.androidauthority.com/meizu-global-launch-event-smartphones-3559182/)
- - [A look at South Korea&#39;s Bithumb ahead of its 2025 IPO; Kaiko says Bithumb had 36% of the country&#39;s crypto trading in January 2024, up from 11.5% in January 2023 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250520/p2#a250520p2)<!-- TECH:END -->
+ - [Study: autonomous vehicles trained to use &quot;social sensitivity&quot; in assessing the impact of multiple hazards will cause fewer injuries during road accidents &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250520/p4#a250520p4)
+ - [Spotify says Apple approved an update to let users in the US buy individual audiobooks from its iOS app and see audiobook prices, after the Epic v. Apple ruling &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250520/p3#a250520p3)
+ - [The $300 Garmin Vivoactive 6 is the fitness tracker I think most amateur athletes should buy](https://www.androidauthority.com/garmin-vivoactive-6-review-3555092/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
