@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nintendo picked Samsung to make Switch 2 chips, aiming to ramp output and sell 20M+ units by March 2026, a key win for Samsung as it competes with TSMC &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p1#a250520p1)
- - [The new Moto Razr faces an unexpected delay at Verizon](https://www.androidauthority.com/motorola-razr-verizon-delay-3559155/)
- - [Which hidden files you can safely delete from your Mac](https://appleinsider.com/inside/macos/tips/which-hidden-files-you-can-safely-delete-from-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
+ - [15% Off Wayfair Promo Code | May 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)
+ - [Sources: Nintendo picked Samsung to make Switch 2 chips, aiming to ramp output and sell 20M+ units by March 2026, a key win for Samsung as it competes with TSMC &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p1#a250520p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
