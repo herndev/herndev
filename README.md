@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The magic is over](http://9gag.com/gag/aW4b3O6)
- - ⏩ [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
- - 👉 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)<!-- MEMES:END -->
+ - 💣 [The machine](http://9gag.com/gag/amoMeQV)
+ - ⏩ [Learning English](http://9gag.com/gag/a872g7Z)
+ - 👉 [Snu snu](http://9gag.com/gag/aGyA52n)<!-- MEMES:END -->
 
 ---
 
