@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini can now help with your schedule right in Gmail on your phone](https://www.androidauthority.com/gemini-calendar-gmail-mobile-3559660/)
- - [Everything Google Announced at I/O 2025](https://www.wired.com/story/everything-google-announced-at-io-2025/)
- - [Adobe hikes Creative Cloud prices with a rebrand no one asked for](https://appleinsider.com/articles/25/05/20/adobe-hikes-creative-cloud-prices-with-a-rebrand-no-one-asked-for?utm_medium=rss)<!-- TECH:END -->
+ - [Everything arriving today that Google announced at I/O 2025](https://www.androidauthority.com/google-i-o-today-3559639/)
+ - [Chicago Sun-Times publishes made-up books and fake experts in AI debacle](https://www.theverge.com/ai-artificial-intelligence/670510/chicago-sun-times-ai-generated-reading-list)
+ - [Google’s Gemini AI is coming to Chrome](https://www.theverge.com/news/670201/google-gemini-chrome-ai-io-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
