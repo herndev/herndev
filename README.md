@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elgato is letting you stick a Stream Deck on anything](https://www.theverge.com/news/669323/elgato-stream-deck-modules-vsd-scissor-switches)
- - [Deal: The Narwal Freo Pro is the robot vacuum and mop I would buy](https://www.androidauthority.com/narwal-freo-pro-deal-3559167/)
- - [Huawei launches its first laptops running on HarmonyOS, including the 18-inch foldable MateBook Fold, and is working to make the OS compatible with 2,000+ apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p44#a250519p44)<!-- TECH:END -->
+ - [The California Public Utilities Commission approves Waymo&#39;s proposal to expand its services to more parts of the Bay Area, including &quot;nearly all of San Jose&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250519/p45#a250519p45)
+ - [Ring Outdoor Cam Plus discounted for the first time!](https://www.androidauthority.com/ring-outdoor-cam-plus-deal-3559166/)
+ - [Elgato is letting you stick a Stream Deck on anything](https://www.theverge.com/news/669323/elgato-stream-deck-modules-vsd-scissor-switches)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
