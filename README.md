@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The machine](http://9gag.com/gag/amoMeQV)
- - ⏩ [Learning English](http://9gag.com/gag/a872g7Z)
- - 👉 [Snu snu](http://9gag.com/gag/aGyA52n)<!-- MEMES:END -->
+ - 💣 [Snu snu](http://9gag.com/gag/aGyA52n)
+ - ⏩ [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)
+ - 👉 [Reporter knocks over world record Jenga tower](http://9gag.com/gag/aZZj546)<!-- MEMES:END -->
 
 ---
 
