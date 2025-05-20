@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
- - ⏩ [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
- - 👉 [The machine](http://9gag.com/gag/amoMeQV)<!-- MEMES:END -->
+ - 💣 [Saturn didn\u2019t ghost me, society did](http://9gag.com/gag/aPAQ5mB)
+ - ⏩ [This feels right.](http://9gag.com/gag/aoyLXw2)
+ - 👉 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)<!-- MEMES:END -->
 
 ---
 
