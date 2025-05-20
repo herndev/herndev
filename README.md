@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The machine](http://9gag.com/gag/amoMeQV)
- - ⏩ [Rage Comics](http://9gag.com/gag/a342651)
- - 👉 [WTF](http://9gag.com/gag/aYQq567)<!-- MEMES:END -->
+ - 💣 [Also, he doesn\u2019t belong to any political party. He scored 20% in the first round of elections and 54% in the second round. He\u2019s pro EU and single handedly beat the aggresive and favorite to win pro-russian opponent. Let\u2019s go Romania](http://9gag.com/gag/aW4b3xq)
+ - ⏩ [Both? Both..](http://9gag.com/gag/aVvLA28)
+ - 👉 [Sometimes, a man needs to get away from it all for a bit.](http://9gag.com/gag/a9y2g0D)<!-- MEMES:END -->
 
 ---
 
