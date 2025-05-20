@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All your daily thoughts about the Roman Empire have led to this](https://www.polygon.com/trailer/600313/anno-117-pax-romana-gameplay-roman-empire-city-builder)
- - [The length of Sephiroth’s sword in FF7 actually changes, says Tetsuya Nomura](https://www.polygon.com/final-fantasy/600272/sephiroth-sword-length-how-long-tetsuya-nomura-ff7)
- - [Fresh Pokémon Card Madness Has GameStop Limiting Collectors To One Box Each](https://kotaku.com/gamestop-pokemon-prismatic-evolutions-super-collection-1851781623)<!-- GAME:END -->
+ - [Microsoft&#39;s Build conference interrupted by renewed protests over its ties with the Israeli military](https://www.pcgamer.com/gaming-industry/microsofts-build-conference-interrupted-by-renewed-protests-over-its-ties-with-the-israeli-military/)
+ - [Fortnite Is Back On The US App Store After Nearly Five Years Away](https://kotaku.com/fortnite-back-on-the-us-app-store-after-nearly-5-years-1851781635)
+ - [Call Of Duty: Black Ops Dev&#39;s New PlayStation Studio Looking For Artist With &#39;Advanced Expertise&#39; In Generative AI](https://kotaku.com/outlaw-games-playstation-generative-ai-jason-blundell-1851781628)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
