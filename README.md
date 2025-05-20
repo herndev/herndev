@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The California Public Utilities Commission approves Waymo&#39;s proposal to expand its services to more parts of the Bay Area, including &quot;nearly all of San Jose&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250519/p45#a250519p45)
- - [Ring Outdoor Cam Plus discounted for the first time!](https://www.androidauthority.com/ring-outdoor-cam-plus-deal-3559166/)
- - [Elgato is letting you stick a Stream Deck on anything](https://www.theverge.com/news/669323/elgato-stream-deck-modules-vsd-scissor-switches)<!-- TECH:END -->
+ - [MSI’s new Claw A8 is powered by AMD](https://www.theverge.com/news/670096/msi-claw-a8-amd-z2-extreme-computex-2025)
+ - [Save $300 on the Google Pixel 9 Pro Fold](https://www.androidauthority.com/google-pixel-9-pro-fold-deal-3559165/)
+ - [xBloom Studio review: Coffee for those who need control](https://appleinsider.com/articles/25/05/20/xbloom-studio-review-coffee-for-those-who-need-control?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
