@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Republican lawmakers could soon kill clean energy jobs in their home states](https://www.theverge.com/climate-change/670047/solar-wind-energy-battery-manufacturing-tax-credits-republican-spending-bill)
  - [MEIZU focuses on global expansion with its latest lineup of smartphones](https://www.androidauthority.com/meizu-global-launch-event-smartphones-3559182/)
- - [A look at South Korea&#39;s Bithumb as it preps for a 2025 IPO; Kaiko says Bithumb held 36% of the country&#39;s crypto trading in Jan. 2024, up from 11.5% in Jan. 2023 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250520/p2#a250520p2)
- - [Marshall Takes On Sonos With Its First Soundbar](https://www.wired.com/story/marshall-takes-on-sonos-with-its-first-soundbar/)<!-- TECH:END -->
+ - [A look at South Korea&#39;s Bithumb ahead of its 2025 IPO; Kaiko says Bithumb had 36% of the country&#39;s crypto trading in January 2024, up from 11.5% in January 2023 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250520/p2#a250520p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
