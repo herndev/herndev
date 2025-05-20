@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Android 16 QPR1 beta is here for your Pixel with a taste of Material 3 Expressive](https://www.androidauthority.com/android-16-qpr1-beta-1-3557258/)
- - [Google announces new video and image generation models Veo 3 and Imagen 4, alongside a new AI filmmaking tool Flow and expanded access to Lyria 2 &lpar;CNBC&rpar;](http://www.techmeme.com/250520/p33#a250520p33)
- - [Google unveils Stitch, which lets users turn prompt and image inputs into complex UI designs and frontend code, available in Labs and powered by Gemini 2.5 Pro &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250520/p32#a250520p32)<!-- TECH:END -->
+ - [The 15 biggest announcements at Google I/O 2025](https://www.theverge.com/news/669408/google-io-2025-biggest-announcements-ai-gemini)
+ - [Android 16 QPR1 Beta 1 gives you more control over your lock screen clock](https://www.androidauthority.com/android-16-qpr-1-lock-screen-clock-resizing-3557785/)
+ - [Google unveils Gemini in Chrome, which initially works across just two tabs but will eventually support many and be agentic, for Google AI Pro and Ultra users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250520/p42#a250520p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
