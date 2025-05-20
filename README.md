@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Poochyena be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/599838/can-poochyena-be-shiny-mightyena)
- - [Don&#39;t worry, they&#39;re not just adapting blockbusters: this trippy Japanese walking simulator you can get for $4 on Steam has been made into a movie, too](https://www.pcgamer.com/movies-tv/dont-worry-theyre-not-just-adapting-blockbusters-this-trippy-japanese-walking-simulator-you-can-get-for-usd4-on-steam-has-been-made-into-a-movie-too/)
- - [Today&#39;s Wordle answer for Tuesday, May 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-20-2025/)<!-- GAME:END -->
+ - [Samsung OLED TVs are finally getting Nvidia G-Sync support, should you ever want to hook your rig up to a 60+ inch screen](https://www.pcgamer.com/hardware/gaming-monitors/samsung-oled-tvs-are-finally-getting-nvidia-g-sync-support-should-you-ever-want-to-hook-your-rig-up-to-a-60-inch-screen/)
+ - [Helldivers 2: Heart of Democracy update live, brings the fight to the streets of Super Earth](https://blog.playstation.com/2025/05/20/helldivers-2-heart-of-democracy-update-live-brings-the-fight-to-the-streets-of-super-earth/)
+ - [Helldivers 2: Heart of Democracy update live, brings the fight to the streets of Super Earth](https://blog.playstation.com/2025/05/20/helldivers-2-heart-of-democracy-update-live-brings-the-fight-to-the-streets-of-super-earth/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
