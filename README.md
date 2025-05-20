@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saturn didn\u2019t ghost me, society did](http://9gag.com/gag/aPAQ5mB)
- - ⏩ [This feels right.](http://9gag.com/gag/aoyLXw2)
- - 👉 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)<!-- MEMES:END -->
+ - 💣 [Miley Cyrus is now becoming officer Alex Murphy.](http://9gag.com/gag/a342VqN)
+ - ⏩ [The machine](http://9gag.com/gag/amoMeQV)
+ - 👉 [Alpha dog back at its business](http://9gag.com/gag/a872BEZ)<!-- MEMES:END -->
 
 ---
 
