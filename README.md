@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything arriving today that Google announced at I/O 2025](https://www.androidauthority.com/google-i-o-today-3559639/)
- - [Chicago Sun-Times publishes made-up books and fake experts in AI debacle](https://www.theverge.com/ai-artificial-intelligence/670510/chicago-sun-times-ai-generated-reading-list)
- - [Google’s Gemini AI is coming to Chrome](https://www.theverge.com/news/670201/google-gemini-chrome-ai-io-2025)<!-- TECH:END -->
+ - [Sources: US chipmaker Wolfspeed is preparing to file for Chapter 11 bankruptcy within weeks after passing on debt-holder proposals to restructure its debt &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250520/p52#a250520p52)
+ - [Epic Games announces that Fortnite is back on the App Store in the US for iPhone and iPad users, and on the Epic Games Store and AltStore in the EU &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250520/p51#a250520p51)
+ - [After a lengthy legal battle and billion-dollar loss, &#39;Fortnite&#39; is back on iOS](https://appleinsider.com/articles/25/05/20/after-a-lengthy-legal-battle-and-billion-dollar-loss-fortnite-is-back-on-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
