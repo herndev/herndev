@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Miley Cyrus is now becoming officer Alex Murphy.](http://9gag.com/gag/a342VqN)
- - ⏩ [The machine](http://9gag.com/gag/amoMeQV)
- - 👉 [Alpha dog back at its business](http://9gag.com/gag/a872BEZ)<!-- MEMES:END -->
+ - ⏩ [F**k you genetics](http://9gag.com/gag/awydEm4)
+ - 👉 [Getting the full value out of a old bottle of lotion](http://9gag.com/gag/ayNRO7W)<!-- MEMES:END -->
 
 ---
 
