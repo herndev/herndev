@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart quietly released a new 4K Google TV box with Dolby Vision](https://www.theverge.com/news/670444/walmart-google-android-tv-onn-4k-plus)
- - [The Razr Ultra proves flip phones are almost ready](https://www.theverge.com/the-vergecast/670449/razr-ultra-flip-phone-snapchat-vergecast)
- - [Falling China exports signal a major shift in iPhone production &amp; pricing](https://appleinsider.com/articles/25/05/20/falling-china-exports-signal-a-major-shift-in-iphone-production-pricing?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix is turning mobile blockbuster Clash of Clans into an animated series](https://www.theverge.com/news/670547/clash-of-clans-netflix-animated-adaptation)
+ - [Waffle House adds fast EV charging to its 24/7 diners](https://www.theverge.com/news/670214/waffle-house-adds-fast-ev-charging-to-the-menu)
+ - [iPhones are on the menu for Amazon drone delivery](https://www.theverge.com/news/670434/amazon-prime-drone-delivery-approval-iphone-lithium-ion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
