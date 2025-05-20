@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remembering The Witcher 3&#39;s toughest choices &lpar;and the objectively correct answers&rpar;](https://www.pcgamer.com/games/rpg/remembering-the-witcher-3s-toughest-choices-and-the-objectively-correct-answers/)
- - [An MVP of ultrawide patches for triple-A games just had their entire library nuked from GitHub, and nobody seems to know why](https://www.pcgamer.com/gaming-industry/an-mvp-of-ultrawide-patches-for-triple-a-games-just-had-their-entire-library-nuked-from-github-and-nobody-seems-to-know-why/)
- - [Only a fool would pass on The Witcher 3 for 90% off during Steam&#39;s CD Projekt Red Sale](https://www.pcgamer.com/games/rpg/only-a-fool-would-pass-on-the-witcher-3-for-90-percent-off-during-steams-cd-projekt-red-sale/)<!-- GAME:END -->
+ - [A week after launch, my new favorite gungy, Condemned-style horror-brawler has its first patch and the promise of yokai-punching spiked knuckles on the way](https://www.pcgamer.com/games/horror/a-week-after-launch-my-new-favorite-gungy-condemned-style-horror-brawler-has-its-first-patch-and-the-promise-of-yokai-punching-spiked-knuckles-on-the-way/)
+ - [This hardcore driving sim about rebuilding towns after natural disasters is, surprisingly, a super-chill hangout game for up to 4 friends](https://www.pcgamer.com/games/sim/this-hardcore-driving-sim-about-rebuilding-towns-after-natural-disasters-is-surprisingly-a-super-chill-hangout-game-for-up-to-4-friends/)
+ - [Remembering The Witcher 3&#39;s toughest choices &lpar;and the objectively correct answers&rpar;](https://www.pcgamer.com/games/rpg/remembering-the-witcher-3s-toughest-choices-and-the-objectively-correct-answers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
