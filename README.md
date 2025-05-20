@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Which hidden files you can safely delete from your Mac](https://appleinsider.com/inside/macos/tips/which-hidden-files-you-can-safely-delete-from-your-mac?utm_medium=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-20/#ftag=CAD590a51e)
- - [GENIUS Act, a stablecoin bill, advances in the US Senate after a group of Democrats dropped their opposition, marking a major win for the crypto industry &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/250519/p48#a250519p48)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 24, #713](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-24-713/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GENIUS Act, a stablecoin bill, advances in the US Senate after a group of Democrats dropped their opposition, marking a major win for the crypto industry &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/250519/p48#a250519p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
