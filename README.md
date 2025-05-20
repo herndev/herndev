@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A livestream of the Google I/O 2025 keynote &lpar;Google on YouTube&rpar;](http://www.techmeme.com/250520/p24#a250520p24)
- - [A live blog of Google I/O 2025, where announcements about Gemini, Android XR, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/250520/p23#a250520p23)
- - [The most powerful laser in the US recently produced 2 quadrillion watts of power](https://www.theverge.com/news/670781/university-of-michigan-zeus-laser-facility-two-quadrillion-watts-most-powerful)<!-- TECH:END -->
+ - [The first Android 16 QPR1 beta is here for your Pixel with a taste of Material 3 Expressive](https://www.androidauthority.com/android-16-qpr1-beta-1-3557258/)
+ - [Google announces new video and image generation models Veo 3 and Imagen 4, alongside a new AI filmmaking tool Flow and expanded access to Lyria 2 &lpar;CNBC&rpar;](http://www.techmeme.com/250520/p33#a250520p33)
+ - [Google unveils Stitch, which lets users turn prompt and image inputs into complex UI designs and frontend code, available in Labs and powered by Gemini 2.5 Pro &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250520/p32#a250520p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
