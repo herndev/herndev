@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 biggest announcements at Google I/O 2025](https://www.theverge.com/news/669408/google-io-2025-biggest-announcements-ai-gemini)
- - [Android 16 QPR1 Beta 1 gives you more control over your lock screen clock](https://www.androidauthority.com/android-16-qpr-1-lock-screen-clock-resizing-3557785/)
- - [Google unveils Gemini in Chrome, which initially works across just two tabs but will eventually support many and be agentic, for Google AI Pro and Ultra users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250520/p42#a250520p42)<!-- TECH:END -->
+ - [Galaxy Z Fold 7 leak suggests it could give the world’s thinnest foldable a run for its money](https://www.androidauthority.com/galaxy-z-fold-7-cad-dimensions-3559533/)
+ - [Lost in Cult’s new Editions publishing label focuses on art and indie games preservation](https://www.theverge.com/news/671051/lost-in-cult-editions-physical-game-releases)
+ - [New firmware available for AirPods Max with USB-C port](https://appleinsider.com/articles/25/05/20/new-firmware-available-for-airpods-max-with-usb-c-port?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
