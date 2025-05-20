@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Poochyena be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/599838/can-poochyena-be-shiny-mightyena)
  - [Don&#39;t worry, they&#39;re not just adapting blockbusters: this trippy Japanese walking simulator you can get for $4 on Steam has been made into a movie, too](https://www.pcgamer.com/movies-tv/dont-worry-theyre-not-just-adapting-blockbusters-this-trippy-japanese-walking-simulator-you-can-get-for-usd4-on-steam-has-been-made-into-a-movie-too/)
- - [Today&#39;s Wordle answer for Tuesday, May 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-20-2025/)
- - [This new arcade controller from 8BitDo could be your next tournament travel buddy](https://www.pcgamer.com/hardware/this-new-arcade-controller-from-8bitdo-could-be-your-next-tournament-travel-buddy/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, May 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-20-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
