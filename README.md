@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes, a man needs to get away from it all for a bit.](http://9gag.com/gag/a9y2g0D)
- - ⏩ [Do we love old memes?...](http://9gag.com/gag/aKGeQgW)
- - 👉 [Never take dating advise from women\u2026 even your mom She\u2019s still a woman](http://9gag.com/gag/aVvLAXO)<!-- MEMES:END -->
+ - 💣 [From glam to &#39;I need a vacation!&#39;](http://9gag.com/gag/aRBobg7)
+ - ⏩ [The machine](http://9gag.com/gag/amoMeQV)
+ - 👉 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)<!-- MEMES:END -->
 
 ---
 
