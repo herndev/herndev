@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zotac&#39;s trippy, fractal-like PC case has been making me think about life, the universe, and the meaning of PC gaming](https://www.pcgamer.com/hardware/pc-cases/zotacs-trippy-fractal-like-pc-case-has-been-making-me-think-about-life-the-universe-and-the-meaning-of-pc-gaming/)
- - [Will 2025 be the year that CAMM2 memory finally makes a proper entrance? Rambus and Team Group believe it is](https://www.pcgamer.com/hardware/memory/will-2025-be-the-year-that-camm2-memory-finally-makes-a-proper-entrance-rambus-and-team-group-believe-it-is/)
- - [Cooler Master&#39;s new liquid cooler has modular tops, which have been used to show off a crying face on a screen and now I&#39;m sad](https://www.pcgamer.com/hardware/cooling/cooler-masters-new-liquid-cooler-has-modular-tops-which-have-been-used-to-show-off-a-crying-face-on-a-screen-and-now-im-sad/)<!-- GAME:END -->
+ - [Fight to save a doomed world in the Brazilian D&amp;#038;D 5e setting Skyfall](https://www.polygon.com/dnd-dungeons-dragons/600041/skyfall-brazilian-dnd-5e-setting-kickstarter)
+ - [Mission: Impossible&#39;s Secret Weapon Is Luther Stickell](https://kotaku.com/mission-impossible-luther-stickell-ving-rhames-mi8-1851781283)
+ - [Raidou Remastered is more of a remake, with a hugely overhauled combat system and no more random encounters](https://www.pcgamer.com/games/rpg/raidou-remastered-is-more-of-a-remake-with-a-hugely-overhauled-combat-system-and-no-more-random-encounters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
