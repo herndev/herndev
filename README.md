@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is turning mobile blockbuster Clash of Clans into an animated series](https://www.theverge.com/news/670547/clash-of-clans-netflix-animated-adaptation)
- - [Waffle House adds fast EV charging to its 24/7 diners](https://www.theverge.com/news/670214/waffle-house-adds-fast-ev-charging-to-the-menu)
- - [iPhones are on the menu for Amazon drone delivery](https://www.theverge.com/news/670434/amazon-prime-drone-delivery-approval-iphone-lithium-ion)<!-- TECH:END -->
+ - [Google I/O 2025: All the news and announcements](https://www.theverge.com/google/670250/google-io-news-announcements-gemini-ai-android-xr)
+ - [Adobe hikes Creative Cloud prices with a rebrand no one asked for](https://appleinsider.com/articles/25/05/20/adobe-hikes-creative-cloud-prices-with-a-rebrand-no-one-asked-for?utm_medium=rss)
+ - [WWDC 2025 is very soon, and Apple started to detail the schedule](https://appleinsider.com/articles/25/05/20/wwdc-2025-is-very-soon-and-apple-started-to-detail-the-schedule?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
