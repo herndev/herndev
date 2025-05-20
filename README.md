@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Maelle build in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/599822/best-maelle-build-attributes-skills-weapon-luminas-pictos)
- - [Naughty Dog has another new game in the works](https://www.polygon.com/gaming/600169/naughty-dog-new-game-in-progress)
- - [Stellar Blade sequel confirmed, and it might arrive sooner than you think](https://www.polygon.com/news/600113/stellar-blade-2-confirmed)<!-- GAME:END -->
+ - [GameStop Is Selling A Ton Of Big Games For Just $15](https://kotaku.com/gamestop-15-30-big-sale-aaa-call-of-duty-ps5-switch-2-1851781564)
+ - [THQ Nordic studio that was set to be closed in 2023 somehow escaped the Embracer death spiral and is now working on a new RPG](https://www.pcgamer.com/gaming-industry/thq-nordic-studio-that-was-set-to-be-closed-in-2023-somehow-escaped-the-embracer-death-spiral-and-is-now-working-on-a-new-rpg/)
+ - [Cyberpunk 2077’s Sequel Will Return To Night City, As Well As Take Us Somewhere New](https://kotaku.com/cyberpunk-2077-sequel-orion-night-new-city-chicago-cdpr-1851781566)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
