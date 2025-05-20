@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing announces summer launch for its Phone 3 flagship](https://www.androidauthority.com/nothing-phone-3-july-launch-3559290/)
- - [President Trump&#39;s recent Middle East trip helped Elon Musk&#39;s SpaceX and Neuralink to cut deals, deepening Musk&#39;s ties with the region&#39;s autocratic monarchies &lpar;New York Times&rpar;](http://www.techmeme.com/250520/p8#a250520p8)
- - [Chinese government data: smartphone exports including iPhones fell 72% MoM to $688.5M in April, the lowest since 2011, outpacing a 21% drop in overall shipments &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p7#a250520p7)<!-- TECH:END -->
+ - [SignalFire: in 2024, Big Tech employment declined 1.6% in Austin, and startup employment fell 4.9%; Dallas, Houston, Denver, and Toronto also declined &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250520/p12#a250520p12)
+ - [Google&#39;s new Notebook LM app adds an AI research assistant to your iPhone](https://appleinsider.com/articles/25/05/20/googles-new-notebook-lm-app-adds-an-ai-research-assistant-to-your-iphone?utm_medium=rss)
+ - [Apple debuts Apple Vision Pro &#39;Bono: Stories of Surrender&#39; at Cannes](https://appleinsider.com/articles/25/05/20/apple-debuts-apple-vision-pro-bono-stories-of-surrender-at-cannes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
