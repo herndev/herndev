@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Corsair Air 5400 offers such a clever and unique approach to CPU cooling, I&#39;m surprised no one did it sooner](https://www.pcgamer.com/hardware/pc-cases/the-corsair-air-5400-offers-such-a-clever-and-unique-approach-to-cpu-cooling-im-surprised-no-one-did-it-sooner/)
- - [Hints of an exciting new gaming GPU from Intel were just a social media miscommunication and now I&#39;m totally deflated](https://www.pcgamer.com/hardware/graphics-cards/hints-of-an-exciting-new-gaming-gpu-from-intel-were-just-a-social-media-miscommunication-and-now-im-totally-deflated/)
- - [Helldivers 2&#39;s new update Heart of Democracy finally adds urban city maps, SEAF redshirts to make you look cool, giant Illuminate sky worms, and civilians to protect from friendly fire](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-update-heart-of-democracy-finally-adds-urban-city-maps-seaf-redshirts-to-make-you-look-cool-giant-illuminate-sky-worms-and-civilians-to-protect-from-friendly-fire/)<!-- GAME:END -->
+ - [Zotac&#39;s trippy, fractal-like PC case has been making me think about life, the universe, and the meaning of PC gaming](https://www.pcgamer.com/hardware/pc-cases/zotacs-trippy-fractal-like-pc-case-has-been-making-me-think-about-life-the-universe-and-the-meaning-of-pc-gaming/)
+ - [Will 2025 be the year that CAMM2 memory finally makes a proper entrance? Rambus and Team Group believe it is](https://www.pcgamer.com/hardware/memory/will-2025-be-the-year-that-camm2-memory-finally-makes-a-proper-entrance-rambus-and-team-group-believe-it-is/)
+ - [Cooler Master&#39;s new liquid cooler has modular tops, which have been used to show off a crying face on a screen and now I&#39;m sad](https://www.pcgamer.com/hardware/cooling/cooler-masters-new-liquid-cooler-has-modular-tops-which-have-been-used-to-show-off-a-crying-face-on-a-screen-and-now-im-sad/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
