@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google I/O 2025: All the news and announcements](https://www.theverge.com/google/670250/google-io-news-announcements-gemini-ai-android-xr)
- - [Adobe hikes Creative Cloud prices with a rebrand no one asked for](https://appleinsider.com/articles/25/05/20/adobe-hikes-creative-cloud-prices-with-a-rebrand-no-one-asked-for?utm_medium=rss)
- - [WWDC 2025 is very soon, and Apple started to detail the schedule](https://appleinsider.com/articles/25/05/20/wwdc-2025-is-very-soon-and-apple-started-to-detail-the-schedule?utm_medium=rss)<!-- TECH:END -->
+ - [A livestream of the Google I/O 2025 keynote &lpar;Google on YouTube&rpar;](http://www.techmeme.com/250520/p24#a250520p24)
+ - [A live blog of Google I/O 2025, where announcements about Gemini, Android XR, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/250520/p23#a250520p23)
+ - [The most powerful laser in the US recently produced 2 quadrillion watts of power](https://www.theverge.com/news/670781/university-of-michigan-zeus-laser-facility-two-quadrillion-watts-most-powerful)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
