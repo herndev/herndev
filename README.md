@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SignalFire: in 2024, Big Tech employment declined 1.6% in Austin, and startup employment fell 4.9%; Dallas, Houston, Denver, and Toronto also declined &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250520/p12#a250520p12)
- - [Google&#39;s new Notebook LM app adds an AI research assistant to your iPhone](https://appleinsider.com/articles/25/05/20/googles-new-notebook-lm-app-adds-an-ai-research-assistant-to-your-iphone?utm_medium=rss)
- - [Apple debuts Apple Vision Pro &#39;Bono: Stories of Surrender&#39; at Cannes](https://appleinsider.com/articles/25/05/20/apple-debuts-apple-vision-pro-bono-stories-of-surrender-at-cannes?utm_medium=rss)<!-- TECH:END -->
+ - [Nearly half of streaming subscriptions are for plans with ads](https://www.theverge.com/news/670321/streaming-ad-supported-subscriptions-antenna-data)
+ - [Best Bike Helmets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bike-helmets/)
+ - [This top Android brand will still use Snapdragon 8 series chips alongside its in-house option](https://www.androidauthority.com/xiaomi-qualcomm-agreement-snapdragon-3559298/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
