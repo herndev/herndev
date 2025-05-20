@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [On The Witcher 3&#39;s 10th birthday, join us in celebrating one of the most enduringly brilliant open world RPGs ever made](https://www.pcgamer.com/games/rpg/on-the-witcher-3s-10th-birthday-join-us-in-celebrating-one-of-the-most-enduringly-brilliant-open-world-rpgs-ever-made/)
- - [After 13 playthroughs, one Elden Ring player is still haunted by a mysterious item, only to be let down by the burden of knowledge](https://www.pcgamer.com/games/rpg/after-13-playthroughs-one-elden-ring-player-is-still-haunted-by-a-mysterious-item-only-to-be-let-down-by-the-burden-of-knowledge/)
- - [Jurassic World Rebirth trailer revives the most notorious cut book scene from the original movie](https://www.polygon.com/movies/600051/jurassic-world-rebirth-trailer-river-raft-scene-jurassic-park)<!-- GAME:END -->
+ - [I accidentally forgot to start the Soviet Union in this excellent free game about the Russian Revolution](https://www.pcgamer.com/games/sim/i-accidentally-forgot-to-start-the-soviet-union-in-this-excellent-free-game-about-the-russian-revolution/)
+ - [Corsair&#39;s Frame series of PC cases is testing a modular DAC/amp accessory prototype, and I&#39;ll be the first in line to buy one if it makes it to production](https://www.pcgamer.com/hardware/pc-cases/corsairs-frame-series-of-pc-cases-is-testing-a-modular-dac-amp-accessory-prototype-and-ill-be-the-first-in-line-to-buy-one-if-it-makes-it-to-production/)
+ - [How To Take Down The Powerful Mizutsune In Monster Hunter Wilds](https://kotaku.com/monster-hunter-wilds-mh-defeat-mizutsune-bubbles-temper-1851781466)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
