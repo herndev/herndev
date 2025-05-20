@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This new arcade controller from 8BitDo could be your next tournament travel buddy](https://www.pcgamer.com/hardware/this-new-arcade-controller-from-8bitdo-could-be-your-next-tournament-travel-buddy/)
  - [Borderlands is the latest battleground for Steam review bombing, but the justification is extremely flimsy](https://www.pcgamer.com/games/fps/borderlands-is-the-latest-battleground-for-steam-review-bombing-but-the-justification-is-extremely-flimsy/)
- - [A week after launch, my new favorite gungy, Condemned-style horror-brawler has its first patch and the promise of yokai-punching spiked knuckles on the way](https://www.pcgamer.com/games/horror/a-week-after-launch-my-new-favorite-gungy-condemned-style-horror-brawler-has-its-first-patch-and-the-promise-of-yokai-punching-spiked-knuckles-on-the-way/)
- - [This hardcore driving sim about rebuilding towns after natural disasters is, surprisingly, a super-chill hangout game for up to 4 friends](https://www.pcgamer.com/games/sim/this-hardcore-driving-sim-about-rebuilding-towns-after-natural-disasters-is-surprisingly-a-super-chill-hangout-game-for-up-to-4-friends/)<!-- GAME:END -->
+ - [A week after launch, my new favorite gungy, Condemned-style horror-brawler has its first patch and the promise of yokai-punching spiked knuckles on the way](https://www.pcgamer.com/games/horror/a-week-after-launch-my-new-favorite-gungy-condemned-style-horror-brawler-has-its-first-patch-and-the-promise-of-yokai-punching-spiked-knuckles-on-the-way/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
