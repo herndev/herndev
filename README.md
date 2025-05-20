@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: autonomous vehicles trained to use &quot;social sensitivity&quot; in assessing the impact of multiple hazards will cause fewer injuries during road accidents &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250520/p4#a250520p4)
- - [Spotify says Apple approved an update to let users in the US buy individual audiobooks from its iOS app and see audiobook prices, after the Epic v. Apple ruling &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250520/p3#a250520p3)
- - [The $300 Garmin Vivoactive 6 is the fitness tracker I think most amateur athletes should buy](https://www.androidauthority.com/garmin-vivoactive-6-review-3555092/)<!-- TECH:END -->
+ - [Nothing announces summer launch for its Phone 3 flagship](https://www.androidauthority.com/nothing-phone-3-july-launch-3559290/)
+ - [President Trump&#39;s recent Middle East trip helped Elon Musk&#39;s SpaceX and Neuralink to cut deals, deepening Musk&#39;s ties with the region&#39;s autocratic monarchies &lpar;New York Times&rpar;](http://www.techmeme.com/250520/p8#a250520p8)
+ - [Chinese government data: smartphone exports including iPhones fell 72% MoM to $688.5M in April, the lowest since 2011, outpacing a 21% drop in overall shipments &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p7#a250520p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
