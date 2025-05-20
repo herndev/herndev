@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nearly half of streaming subscriptions are for plans with ads](https://www.theverge.com/news/670321/streaming-ad-supported-subscriptions-antenna-data)
- - [Best Bike Helmets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bike-helmets/)
- - [This top Android brand will still use Snapdragon 8 series chips alongside its in-house option](https://www.androidauthority.com/xiaomi-qualcomm-agreement-snapdragon-3559298/)<!-- TECH:END -->
+ - [Walmart quietly released a new 4K Google TV box with Dolby Vision](https://www.theverge.com/news/670444/walmart-google-android-tv-onn-4k-plus)
+ - [The Razr Ultra proves flip phones are almost ready](https://www.theverge.com/the-vergecast/670449/razr-ultra-flip-phone-snapchat-vergecast)
+ - [Falling China exports signal a major shift in iPhone production &amp; pricing](https://appleinsider.com/articles/25/05/20/falling-china-exports-signal-a-major-shift-in-iphone-production-pricing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
