@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avowed director Carrie Patel leaves Obsidian after 12 years to join the Netflix studio behind Oxenfree](https://www.pcgamer.com/gaming-industry/avowed-director-carrie-patel-leaves-obsidian-after-12-years-to-join-the-netflix-studio-behind-oxenfree/)
- - [All ammo upgrade leaders locations in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/600199/ammo-upgrade-leaders-locations-all-where-to-find)
- - [&#39;This has been heartbreaking news for our entire team&#39;: Lego nukes Bionicle fangame from orbit after ignoring it for 8 years](https://www.pcgamer.com/games/action/this-has-been-heartbreaking-news-for-our-entire-team-lego-nukes-bionicle-fangame-from-orbit-after-ignoring-it-for-8-years/)<!-- GAME:END -->
+ - [All your daily thoughts about the Roman Empire have led to this](https://www.polygon.com/trailer/600313/anno-117-pax-romana-gameplay-roman-empire-city-builder)
+ - [The length of Sephiroth’s sword in FF7 actually changes, says Tetsuya Nomura](https://www.polygon.com/final-fantasy/600272/sephiroth-sword-length-how-long-tetsuya-nomura-ff7)
+ - [Fresh Pokémon Card Madness Has GameStop Limiting Collectors To One Box Each](https://kotaku.com/gamestop-pokemon-prismatic-evolutions-super-collection-1851781623)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
