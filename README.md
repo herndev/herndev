@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From glam to &#39;I need a vacation!&#39;](http://9gag.com/gag/aRBobg7)
- - ⏩ [The machine](http://9gag.com/gag/amoMeQV)
- - 👉 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)<!-- MEMES:END -->
+ - 💣 [The machine](http://9gag.com/gag/amoMeQV)
+ - ⏩ [Its not perfect but at least it&#39;s not just a lot of spam from bots](http://9gag.com/gag/a9y2xA0)
+ - 👉 [Magic](http://9gag.com/gag/aYQq0KO)<!-- MEMES:END -->
 
 ---
 
