@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball Daima is Akira Toriyama&amp;#8217;s final gift to Dragon Ball fans](https://www.polygon.com/anime/600092/dragon-ball-daima-is-akira-toriyamas-final-gift-to-dragon-ball-fans)
- - [At Least A Few Stores Will Have Switch 2 In Stock The Day Of Launch For Fans Without Pre-Orders](https://kotaku.com/switch-2-in-stock-target-best-buy-gamestop-preorder-1851781532)
- - [The glorious juxtaposition of DOOM: The Dark Ages and Colorful&#39;s furry-friend-themed Meow range of PC goodies is one reason why we love Computex](https://www.pcgamer.com/hardware/the-glorious-juxtaposition-of-doom-the-dark-ages-and-colorfuls-furry-friend-themed-meow-range-of-pc-goodies-is-one-reason-why-we-love-computex/)<!-- GAME:END -->
+ - [Best Maelle build in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/599822/best-maelle-build-attributes-skills-weapon-luminas-pictos)
+ - [Naughty Dog has another new game in the works](https://www.polygon.com/gaming/600169/naughty-dog-new-game-in-progress)
+ - [Stellar Blade sequel confirmed, and it might arrive sooner than you think](https://www.polygon.com/news/600113/stellar-blade-2-confirmed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
