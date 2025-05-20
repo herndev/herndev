@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 7 leak suggests it could give the world’s thinnest foldable a run for its money](https://www.androidauthority.com/galaxy-z-fold-7-cad-dimensions-3559533/)
- - [Lost in Cult’s new Editions publishing label focuses on art and indie games preservation](https://www.theverge.com/news/671051/lost-in-cult-editions-physical-game-releases)
- - [New firmware available for AirPods Max with USB-C port](https://appleinsider.com/articles/25/05/20/new-firmware-available-for-airpods-max-with-usb-c-port?utm_medium=rss)<!-- TECH:END -->
+ - [Gemini can now help with your schedule right in Gmail on your phone](https://www.androidauthority.com/gemini-calendar-gmail-mobile-3559660/)
+ - [Everything Google Announced at I/O 2025](https://www.wired.com/story/everything-google-announced-at-io-2025/)
+ - [Adobe hikes Creative Cloud prices with a rebrand no one asked for](https://appleinsider.com/articles/25/05/20/adobe-hikes-creative-cloud-prices-with-a-rebrand-no-one-asked-for?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
