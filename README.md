@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD announces the long-awaited RX 9060 XT in 8 GB and 16 GB flavors, starting at $349](https://www.pcgamer.com/hardware/graphics-cards/amd-announces-the-long-awaited-rx-9060-xt-in-8-gb-and-16-gb-flavors-but-pricing-and-some-of-the-key-specs-remain-a-mystery/)
- - [AMD unleashes up to 96 cores of Zen 5 with its new Threadripper 9000 Series chips](https://www.pcgamer.com/hardware/processors/amd-unleashes-up-to-96-cores-of-zen-5-with-its-new-threadripper-9000-series-chips/)
- - [Today&#39;s Wordle answer for Wednesday, May 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-21-2025/)<!-- GAME:END -->
+ - [Cherry debuts new mechanical, magnetic, and inductive switches with a whole new naming scheme to match](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-debuts-new-mechanical-magnetic-and-inductive-switches-with-a-whole-new-naming-scheme-to-match/)
+ - [AMD just gave us our first glimpse of FSR 4&#39;s &#39;Redstone&#39; update, with a host of machine learning-based improvements](https://www.pcgamer.com/hardware/graphics-cards/amd-just-gave-us-our-first-glimpse-of-fsr-4s-redstone-update-with-a-host-of-machine-learning-based-improvements/)
+ - [AMD announces the long-awaited RX 9060 XT starting at $299, says it&#39;s 6% faster than the RTX 5060 Ti at 1440p in 40 games](https://www.pcgamer.com/hardware/graphics-cards/amd-announces-the-long-awaited-rx-9060-xt-in-8-gb-and-16-gb-flavors-but-pricing-and-some-of-the-key-specs-remain-a-mystery/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
