@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu reports Q1 revenue up 3% YoY to ~$4.5B, above ~$4.3B est., and a ~$1B net profit, as the Chinese search giant fends off intensifying competition in AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p18#a250521p18)
- - [New Bacteria Have Been Discovered on a Chinese Space Station](https://www.wired.com/story/bacteria-unknown-on-earth-appears-on-chinese-space-station/)
- - [Microsoft files an amicus brief to support Epic in its App Store fight and blames Apple for its delayed Xbox mobile gaming store, announced in May 2024 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250521/p17#a250521p17)<!-- TECH:END -->
+ - [Calm down - &#39;Airborne&#39; attacks on AirPlay &amp; CarPlay are extremely low-risk for nearly everybody](https://appleinsider.com/articles/25/05/21/calm-down---airborne-attacks-on-airplay-carplay-are-extremely-low-risk-for-nearly-everybody?utm_medium=rss)
+ - [The pursuit of better drugs through orbital space crystals](https://www.theverge.com/space/670339/sierra-space-crystals-merck-dream-chaser-drugs)
+ - [China threatens legal action against anyone enforcing US restrictions on Huawei chips, escalating the US-China tech dispute as the two countries hold meetings &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p24#a250521p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
