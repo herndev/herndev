@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All health upgrade leader locations in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599061/health-upgrade-leader-locations-all-where-to-find)
- - [A Clair Obscur: Expedition 33 dev has formed an anime rivalry with the godlike buildcrafters who only needed &#39;like, one week&#39; to beat his one-hit damage record of 3.4 billion](https://www.pcgamer.com/games/rpg/a-clair-obscur-expedition-33-dev-has-formed-an-anime-rivalry-with-the-godlike-buildcrafters-who-only-needed-like-one-week-to-beat-his-one-hit-damage-record-of-3-4-billion/)
- - [Best Lune build in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/600383/best-lune-build-attributes-skills-weapon-luminas-pictos)<!-- GAME:END -->
+ - [The Battlefield subreddit is an endless feed of leaked Battlefield 6 gameplay, and it might be the best marketing campaign of 2025](https://www.pcgamer.com/games/fps/the-battlefield-subreddit-is-an-endless-feed-of-leaked-battlefield-6-gameplay-and-it-might-be-the-best-marketing-campaign-of-2025/)
+ - [Here&#39;s The GTA 6 Trailer Recreated In San Andreas](https://kotaku.com/gta-6-trailer-ps2-recreation-fan-san-andreas-ps5-1851781843)
+ - [All health upgrade leader locations in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599061/health-upgrade-leader-locations-all-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
