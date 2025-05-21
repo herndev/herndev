@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The heel lock did change my life for good!](http://9gag.com/gag/avyRMRE)
- - ⏩ [Both? Both..](http://9gag.com/gag/aVvLA28)
- - 👉 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)<!-- MEMES:END -->
+ - 💣 [Rage Comics](http://9gag.com/gag/a342651)
+ - ⏩ [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
+ - 👉 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)<!-- MEMES:END -->
 
 ---
 
