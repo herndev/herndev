@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your drive-thru order needs divine intervention](http://9gag.com/gag/aQzZ0dW)
- - ⏩ [The heel lock did change my life for good!](http://9gag.com/gag/avyRMRE)
- - 👉 [Damn mods](http://9gag.com/gag/aryq61d)<!-- MEMES:END -->
+ - 💣 [It should have been me](http://9gag.com/gag/ae9mL7v)
+ - ⏩ [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
+ - 👉 [What we again?](http://9gag.com/gag/abAB93v)<!-- MEMES:END -->
 
 ---
 
