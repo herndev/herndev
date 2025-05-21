@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $400 and keep cool wherever you go with this EcoFlow WAVE 3 AC deal!](https://www.androidauthority.com/ecoflow-wave-3-portable-air-conditioner-deal-3559672/)
- - [McDonald&#39;s Snack Wrap: Is the Viral Food Favorite Returning on July 14?](https://www.cnet.com/tech/mcdonalds-snack-wrap-when-is-the-viral-food-favorite-returning-july-14/#ftag=CAD590a51e)
- - [Apple &amp; Epic agree no in-person court necessary after &#39;Fortnite&#39; restored to App Store](https://appleinsider.com/articles/25/05/20/apple-epic-agree-no-in-person-court-necessary-after-fortnite-restored-to-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Wear OS 5 killed Facer watchfaces, but Wear OS 6 will bring them back to life](https://www.androidauthority.com/facer-wear-os-6-return-3559603/)
+ - [Kalshi withdrew announcements about a collaboration with xAI just hours after CEO Tarek Mansour said the deal would &quot;further take prediction markets mainstream&quot; &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250520/p57#a250520p57)
+ - [Save $400 and keep cool wherever you go with this EcoFlow WAVE 3 AC deal!](https://www.androidauthority.com/ecoflow-wave-3-portable-air-conditioner-deal-3559672/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
