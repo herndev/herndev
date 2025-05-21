@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [1741 days after being kicked off iPhones, Fortnite is back on the US App Store](https://www.pcgamer.com/games/fps/1741-days-after-being-kicked-off-the-apple-app-store-fortnite-is-back-on-iphones-in-the-us/)
- - [The original Polish Witcher comics are available in English if you can get past the way Geralt&#39;s fringe looks like the mustache of a cartoon walrus who is also a circus ringleader](https://www.pcgamer.com/games/rpg/the-original-polish-witcher-comics-are-available-in-english-if-you-can-get-past-the-way-geralts-fringe-looks-like-the-mustache-of-a-cartoon-walrus-who-is-also-a-circus-ringleader/)
- - [Don’t be surprised Guillermo del Toro says his Frankenstein won’t be a horror movie](https://www.polygon.com/horror/600323/guillermo-del-toro-netflix-frankenstein-adaptation-preview)<!-- GAME:END -->
+ - [AMD announces the long-awaited RX 9060 XT in 8 GB and 16 GB flavors, starting at $349](https://www.pcgamer.com/hardware/graphics-cards/amd-announces-the-long-awaited-rx-9060-xt-in-8-gb-and-16-gb-flavors-but-pricing-and-some-of-the-key-specs-remain-a-mystery/)
+ - [AMD unleashes up to 96 cores of Zen 5 with its new Threadripper 9000 Series chips](https://www.pcgamer.com/hardware/processors/amd-unleashes-up-to-96-cores-of-zen-5-with-its-new-threadripper-9000-series-chips/)
+ - [Today&#39;s Wordle answer for Wednesday, May 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-21-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
