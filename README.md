@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Race into EA Sports F1 25 with EA Play Now](https://news.xbox.com/en-us/2025/05/21/ea-play-rewards-may-2025-f1-25-tales-of-kenzera-zau/)
- - [Cherry debuts new mechanical, magnetic, and inductive switches with a whole new naming scheme to match](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-debuts-new-mechanical-magnetic-and-inductive-switches-with-a-whole-new-naming-scheme-to-match/)
- - [AMD just gave us our first glimpse of FSR 4&#39;s &#39;Redstone&#39; update, with a host of machine learning-based improvements](https://www.pcgamer.com/hardware/graphics-cards/amd-just-gave-us-our-first-glimpse-of-fsr-4s-redstone-update-with-a-host-of-machine-learning-based-improvements/)<!-- GAME:END -->
+ - [Next and current banners in Honkai: Star Rail](https://www.pcgamer.com/games/rpg/honkai-star-rail-banner-next-current/)
+ - [Lian Li&#39;s new water cooler with a curved and motorised screen is basically pointless but you&#39;re still going to want one](https://www.pcgamer.com/hardware/cooling/lian-lis-new-water-cooler-with-a-curved-and-motorised-screen-is-basically-pointless-but-youre-still-going-to-want-one/)
+ - [The Scuf Envision Pro and non-Pro will finally get Hall effect from May 29, and if you already own a non-HE one you&#39;ll get a free calibration buff](https://www.pcgamer.com/hardware/controllers/the-scuf-envision-pro-and-non-pro-will-finally-get-hall-effect-from-may-29-and-if-you-already-own-a-non-he-one-youll-get-a-free-calibration-buff/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
