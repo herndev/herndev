@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - ⏩ [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)
- - 👉 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)<!-- MEMES:END -->
+ - 💣 [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)
+ - ⏩ [John Wick](http://9gag.com/gag/a9y2QP0)
+ - 👉 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)<!-- MEMES:END -->
 
 ---
 
