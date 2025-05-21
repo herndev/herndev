@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US chipmaker Wolfspeed is preparing to file for Chapter 11 bankruptcy within weeks after passing on debt-holder proposals to restructure its debt &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250520/p52#a250520p52)
- - [Epic Games announces that Fortnite is back on the App Store in the US for iPhone and iPad users, and on the Epic Games Store and AltStore in the EU &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250520/p51#a250520p51)
- - [After a lengthy legal battle and billion-dollar loss, &#39;Fortnite&#39; is back on iOS](https://appleinsider.com/articles/25/05/20/after-a-lengthy-legal-battle-and-billion-dollar-loss-fortnite-is-back-on-ios?utm_medium=rss)<!-- TECH:END -->
+ - [Apple &amp; Epic agree no in-person court necessary after &#39;Fortnite&#39; restored to App Store](https://appleinsider.com/articles/25/05/20/apple-epic-agree-no-in-person-court-necessary-after-fortnite-restored-to-app-store?utm_medium=rss)
+ - [Waymo co-CEO Tekedra Mawakana says Waymo has reached 10M paid trips, doubling in the past five months, and that the company is not yet profitable &lpar;CNBC&rpar;](http://www.techmeme.com/250520/p56#a250520p56)
+ - [Hands-on with Google&#39;s Android XR Gemini-powered prototype glasses: they are light and comfortable to wear, and the single display in the right lens works well &lpar;Michael L Hicks/Android Central&rpar;](http://www.techmeme.com/250520/p55#a250520p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
