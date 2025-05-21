@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet&#39;s AI translator hands-on: emulates voice and tone, translating with a few seconds of lag, similar to watching an overdubbed foreign-language speaker &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/250521/p13#a250521p13)
- - [Microsoft blames Apple for its delayed Xbox mobile store](https://www.theverge.com/news/671409/microsoft-xbox-mobile-store-delay-apple-epic-court-case)
- - [Abu Dhabi&#39;s TII releases Falcon Arabic, an AI model that it claims can match the performance of models up to 10 times its size, and smaller model Falcon H1 &lpar;Omar El Chmouri/Bloomberg&rpar;](http://www.techmeme.com/250521/p12#a250521p12)<!-- TECH:END -->
+ - [Baidu reports Q1 revenue up 3% YoY to ~$4.5B, above ~$4.3B est., and a ~$1B net profit, as the Chinese search giant fends off intensifying competition in AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p18#a250521p18)
+ - [New Bacteria Have Been Discovered on a Chinese Space Station](https://www.wired.com/story/bacteria-unknown-on-earth-appears-on-chinese-space-station/)
+ - [Microsoft files an amicus brief to support Epic in its App Store fight and blames Apple for its delayed Xbox mobile gaming store, announced in May 2024 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250521/p17#a250521p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
