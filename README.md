@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple &amp; Epic agree no in-person court necessary after &#39;Fortnite&#39; restored to App Store](https://appleinsider.com/articles/25/05/20/apple-epic-agree-no-in-person-court-necessary-after-fortnite-restored-to-app-store?utm_medium=rss)
- - [Waymo co-CEO Tekedra Mawakana says Waymo has reached 10M paid trips, doubling in the past five months, and that the company is not yet profitable &lpar;CNBC&rpar;](http://www.techmeme.com/250520/p56#a250520p56)
- - [Hands-on with Google&#39;s Android XR Gemini-powered prototype glasses: they are light and comfortable to wear, and the single display in the right lens works well &lpar;Michael L Hicks/Android Central&rpar;](http://www.techmeme.com/250520/p55#a250520p55)<!-- TECH:END -->
+ - [Save $400 and keep cool wherever you go with this EcoFlow WAVE 3 AC deal!](https://www.androidauthority.com/ecoflow-wave-3-portable-air-conditioner-deal-3559672/)
+ - [McDonald&#39;s Snack Wrap: Is the Viral Food Favorite Returning on July 14?](https://www.cnet.com/tech/mcdonalds-snack-wrap-when-is-the-viral-food-favorite-returning-july-14/#ftag=CAD590a51e)
+ - [Apple &amp; Epic agree no in-person court necessary after &#39;Fortnite&#39; restored to App Store](https://appleinsider.com/articles/25/05/20/apple-epic-agree-no-in-person-court-necessary-after-fortnite-restored-to-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
