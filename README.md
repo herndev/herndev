@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft adds over 50 ‘Retro Classics’ to Game Pass](https://www.theverge.com/news/672037/microsoft-xbox-game-pass-activision-retro-classics)
- - [Galaxy Watch 8 Classic renders show off its chunky new look](https://www.androidauthority.com/galaxy-watch-8-classic-renders-3560091/)
- - [CoreWeave announces a $2B debt offering, representing a $500M increase from its initial announcement, and says it was five times oversubscribed; CRWV jumps 19% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250521/p45#a250521p45)<!-- TECH:END -->
+ - [Apple used human instructors with Apple Vision Pros to train humanoid robots](https://appleinsider.com/articles/25/05/21/apple-used-human-instructors-with-apple-vision-pros-to-train-humanoid-robots?utm_medium=rss)
+ - [Save $250 on the Samsung Galaxy S25 Ultra!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-7-3560161/)
+ - [Quick Share’s mobile data toggle is finally rolling out](https://www.androidauthority.com/quick-share-mobile-data-3560155/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
