@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [1741 days after being kicked off iPhones, Fortnite is back on the US App Store](https://www.pcgamer.com/games/fps/1741-days-after-being-kicked-off-the-apple-app-store-fortnite-is-back-on-iphones-in-the-us/)
  - [The original Polish Witcher comics are available in English if you can get past the way Geralt&#39;s fringe looks like the mustache of a cartoon walrus who is also a circus ringleader](https://www.pcgamer.com/games/rpg/the-original-polish-witcher-comics-are-available-in-english-if-you-can-get-past-the-way-geralts-fringe-looks-like-the-mustache-of-a-cartoon-walrus-who-is-also-a-circus-ringleader/)
- - [Don’t be surprised Guillermo del Toro says his Frankenstein won’t be a horror movie](https://www.polygon.com/horror/600323/guillermo-del-toro-netflix-frankenstein-adaptation-preview)
- - [Which version of Nicolas Cage will we get in the Madden movie? Boy, I hope it&#39;s the unhinged one](https://www.pcgamer.com/movies-tv/which-version-of-nicolas-cage-will-we-get-in-the-madden-movie-boy-i-hope-its-the-unhinged-one/)<!-- GAME:END -->
+ - [Don’t be surprised Guillermo del Toro says his Frankenstein won’t be a horror movie](https://www.polygon.com/horror/600323/guillermo-del-toro-netflix-frankenstein-adaptation-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
