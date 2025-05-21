@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Calm down - &#39;Airborne&#39; attacks on AirPlay &amp; CarPlay are extremely low-risk for nearly everybody](https://appleinsider.com/articles/25/05/21/calm-down---airborne-attacks-on-airplay-carplay-are-extremely-low-risk-for-nearly-everybody?utm_medium=rss)
- - [The pursuit of better drugs through orbital space crystals](https://www.theverge.com/space/670339/sierra-space-crystals-merck-dream-chaser-drugs)
- - [China threatens legal action against anyone enforcing US restrictions on Huawei chips, escalating the US-China tech dispute as the two countries hold meetings &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p24#a250521p24)<!-- TECH:END -->
+ - [Google is shrinking Pixel phones’ At a Glance widget](https://www.theverge.com/news/671539/at-a-glance-shrinks-google-pixel-widget-android-16-material-3-expressive)
+ - [The 5 coolest things I tried at Google I/O 2025](https://www.androidauthority.com/google-i-o-2025-coolest-things-3559727/)
+ - [Oura rolls out a slew of fitness tracking updates and a handful of new partners](https://www.androidauthority.com/oura-ring-activity-tracking-updates-partnerships-3559848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
