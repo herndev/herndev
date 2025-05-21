@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is Android 16 on Google TV in its current state](https://www.androidauthority.com/google-tv-android-16-for-tv-preview-3559852/)
- - [Android 16 release date: Here’s when you’ll get the next major OS upgrade](https://www.androidauthority.com/android-16-release-date-3495817/)
- - [The best use for AI: You can now turn yourself into an Android Bot by uploading a photo](https://www.androidauthority.com/google-androidify-app-photo-android-bot-3559843/)<!-- TECH:END -->
+ - [Inside China&#39;s &quot;stolen iPhone building&quot;: electronics traders in Shenzhen describe how even remotely locked stolen iPhones can be stripped and sold at a profit &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250521/p10#a250521p10)
+ - [Google says weather apps have &quot;graduated from beta&quot; on Android Auto and Cars with Google built-in, and Android Auto will &quot;soon&quot; get browser and video apps &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250521/p9#a250521p9)
+ - [Indonesian ex-scammers reveal how Southeast Asian scam farms lured them via Facebook and Telegram ads; Indonesia says 6,700+ people were tricked since 2020 &lpar;Linda Yulisman/Rest of World&rpar;](http://www.techmeme.com/250521/p8#a250521p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
