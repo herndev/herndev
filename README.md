@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Assassinate The Fox In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-the-fox-performer-yasuke-naoe-1851781803)
- - [How To Rock The Battlefield As Star-Lord In Marvel Rivals](https://kotaku.com/marvel-rivals-star-lord-ultimate-duelist-adam-warlock-1851781804)
- - [Former Dragon Age writer says Clair Obscur: Expedition 33 and Baldur&#39;s Gate 3 prove &#39;what&#39;s possible when a game is given time to cook&#39;](https://www.pcgamer.com/games/rpg/former-dragon-age-writer-says-clair-obscur-expedition-33-and-baldurs-gate-3-prove-whats-possible-when-a-game-is-given-time-to-cook/)<!-- GAME:END -->
+ - [All health upgrade leader locations in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599061/health-upgrade-leader-locations-all-where-to-find)
+ - [A Clair Obscur: Expedition 33 dev has formed an anime rivalry with the godlike buildcrafters who only needed &#39;like, one week&#39; to beat his one-hit damage record of 3.4 billion](https://www.pcgamer.com/games/rpg/a-clair-obscur-expedition-33-dev-has-formed-an-anime-rivalry-with-the-godlike-buildcrafters-who-only-needed-like-one-week-to-beat-his-one-hit-damage-record-of-3-4-billion/)
+ - [Best Lune build in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/600383/best-lune-build-attributes-skills-weapon-luminas-pictos)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
