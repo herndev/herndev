@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s Build conference interrupted by renewed protests over its ties with the Israeli military](https://www.pcgamer.com/gaming-industry/microsofts-build-conference-interrupted-by-renewed-protests-over-its-ties-with-the-israeli-military/)
- - [Fortnite Is Back On The US App Store After Nearly Five Years Away](https://kotaku.com/fortnite-back-on-the-us-app-store-after-nearly-5-years-1851781635)
- - [Call Of Duty: Black Ops Dev&#39;s New PlayStation Studio Looking For Artist With &#39;Advanced Expertise&#39; In Generative AI](https://kotaku.com/outlaw-games-playstation-generative-ai-jason-blundell-1851781628)<!-- GAME:END -->
+ - [The original Polish Witcher comics are available in English if you can get past the way Geralt&#39;s fringe looks like the mustache of a cartoon walrus who is also a circus ringleader](https://www.pcgamer.com/games/rpg/the-original-polish-witcher-comics-are-available-in-english-if-you-can-get-past-the-way-geralts-fringe-looks-like-the-mustache-of-a-cartoon-walrus-who-is-also-a-circus-ringleader/)
+ - [Don’t be surprised Guillermo del Toro says his Frankenstein won’t be a horror movie](https://www.polygon.com/horror/600323/guillermo-del-toro-netflix-frankenstein-adaptation-preview)
+ - [Which version of Nicolas Cage will we get in the Madden movie? Boy, I hope it&#39;s the unhinged one](https://www.pcgamer.com/movies-tv/which-version-of-nicolas-cage-will-we-get-in-the-madden-movie-boy-i-hope-its-the-unhinged-one/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
