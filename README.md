@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Altman and LoveFrom have been working for two years on a new device to move consumers beyond screens, including headphones and devices with cameras &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250521/p38#a250521p38)
- - [Microsoft blames Apple&#39;s interference for why the Xbox mobile store has failed to launch](https://appleinsider.com/articles/25/05/21/microsoft-blames-apples-interference-for-why-the-xbox-mobile-store-has-failed-to-launch?utm_medium=rss)
- - [Microsoft wants to copy Apple with a Handoff-like feature for Windows and Android](https://www.androidauthority.com/windows-11-cross-device-resume-3560011/)<!-- TECH:END -->
+ - [Did WhatsApp really need Meta?](https://www.theverge.com/antitrust/671831/meta-whatsapp-founder-brian-acton-testimony-antitrust-trial-ftc)
+ - [OpenAI&#39;s Big Bet That Jony Ive Can Make AI Hardware Work](https://www.wired.com/story/jony-ive-open-ai-hardware-io/)
+ - [Google’s Android Chief Hopes Its ‘New Era’ Will Get People to Ditch Their iPhones](https://www.wired.com/story/googles-android-chief-hopes-its-new-era-will-get-people-to-ditch-their-iphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
