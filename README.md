@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What we again?](http://9gag.com/gag/abAB93v)
- - ⏩ [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
- - 👉 [The machine](http://9gag.com/gag/amoMeQV)<!-- MEMES:END -->
+ - 💣 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
+ - ⏩ [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
+ - 👉 [Guy being a saver](http://9gag.com/gag/aqyWqAv)<!-- MEMES:END -->
 
 ---
 
