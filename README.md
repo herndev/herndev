@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox May Update: Retro Classics Come to Xbox Game Pass, PC Gaming Updates, and More](https://news.xbox.com/en-us/2025/05/21/xbox-may-update-retro-classics-pc-gaming-updates/)
- - [Hate RGB software but still want all the pretty LEDs on your AIO cooler? Lian Li might just have the very thing for you](https://www.pcgamer.com/hardware/cooling/hate-rgb-software-but-still-want-all-the-pretty-leds-on-your-aio-cooler-lian-li-might-just-have-the-very-thing-for-you/)
- - [All weapons in Doom: The Dark Ages and how to get them](https://www.polygon.com/doom-dark-ages-guides/599352/weapons-list-all-how-to-get-unlock)<!-- GAME:END -->
+ - [Mastering Blades of Fire’s Combat System](https://news.xbox.com/en-us/2025/05/21/mastering-blades-of-fires-combat-system/)
+ - [Mario Kart World Was Going To Be A Switch Game But The System Couldn&#39;t Handle It](https://kotaku.com/mario-kart-world-switch-2-2017-mk8-60fps-open-world-1851781695)
+ - [JDM: Japanese Drift Master review](https://www.pcgamer.com/games/racing/jdm-japanese-drift-master-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
