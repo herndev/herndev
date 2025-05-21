@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did WhatsApp really need Meta?](https://www.theverge.com/antitrust/671831/meta-whatsapp-founder-brian-acton-testimony-antitrust-trial-ftc)
- - [OpenAI&#39;s Big Bet That Jony Ive Can Make AI Hardware Work](https://www.wired.com/story/jony-ive-open-ai-hardware-io/)
- - [Google’s Android Chief Hopes Its ‘New Era’ Will Get People to Ditch Their iPhones](https://www.wired.com/story/googles-android-chief-hopes-its-new-era-will-get-people-to-ditch-their-iphones/)<!-- TECH:END -->
+ - [Windows 95 chime composer Brian Eno denounces Microsoft for its ties to Israeli government](https://www.theverge.com/news/671864/brian-eno-windows-95-chime-microsoft-israel-palestine-statement)
+ - [Google has a new tool to help detect AI-generated content](https://www.theverge.com/news/672013/google-synthid-detector-ai-generated-content-watermark-i-o-2025)
+ - [Toyota&amp;#8217;s new Rav4 plug-in hybrid lets you fast charge the battery](https://www.theverge.com/news/671999/toyota-rav4-2026-redesign-all-hybrid-fast-charging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
