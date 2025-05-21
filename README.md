@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next and current banners in Honkai: Star Rail](https://www.pcgamer.com/games/rpg/honkai-star-rail-banner-next-current/)
- - [Lian Li&#39;s new water cooler with a curved and motorised screen is basically pointless but you&#39;re still going to want one](https://www.pcgamer.com/hardware/cooling/lian-lis-new-water-cooler-with-a-curved-and-motorised-screen-is-basically-pointless-but-youre-still-going-to-want-one/)
- - [The Scuf Envision Pro and non-Pro will finally get Hall effect from May 29, and if you already own a non-HE one you&#39;ll get a free calibration buff](https://www.pcgamer.com/hardware/controllers/the-scuf-envision-pro-and-non-pro-will-finally-get-hall-effect-from-may-29-and-if-you-already-own-a-non-he-one-youll-get-a-free-calibration-buff/)<!-- GAME:END -->
+ - [If you ever wanted to stick a screen inside your PC case Lian Li&#39;s just shown off something surprisingly affordable for you](https://www.pcgamer.com/hardware/pc-cases/if-you-ever-wanted-to-stick-a-screen-inside-your-pc-case-lian-lis-just-shown-off-something-surprisingly-affordable-for-you/)
+ - [&#39;That&#39;s it, pre-order cancelled&#39;: GTA 6 investigators have managed to find the one slip-up in the second trailer, and it&#39;s pretty illuminating](https://www.pcgamer.com/games/action/thats-it-pre-order-cancelled-gta-6-investigators-have-managed-to-find-the-one-slip-up-in-the-second-trailer-and-its-pretty-illuminating/)
+ - [Marvel Rivals&#39; new Chrono Shield Cards item has divided players and reminded me that some people should just stay in Bronze](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-new-chrono-shield-cards-item-has-divided-players-and-reminded-me-that-some-people-should-just-stay-in-bronze/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
