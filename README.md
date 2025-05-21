@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
- - ⏩ [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
- - 👉 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)<!-- MEMES:END -->
+ - 💣 [The Marauder](http://9gag.com/gag/aW4br9x)
+ - ⏩ [Both? Both..](http://9gag.com/gag/aVvLA28)
+ - 👉 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)<!-- MEMES:END -->
 
 ---
 
