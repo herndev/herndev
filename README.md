@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside China&#39;s &quot;stolen iPhone building&quot;: electronics traders in Shenzhen describe how even remotely locked stolen iPhones can be stripped and sold at a profit &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250521/p10#a250521p10)
- - [Google says weather apps have &quot;graduated from beta&quot; on Android Auto and Cars with Google built-in, and Android Auto will &quot;soon&quot; get browser and video apps &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250521/p9#a250521p9)
- - [Indonesian ex-scammers reveal how Southeast Asian scam farms lured them via Facebook and Telegram ads; Indonesia says 6,700+ people were tricked since 2020 &lpar;Linda Yulisman/Rest of World&rpar;](http://www.techmeme.com/250521/p8#a250521p8)<!-- TECH:END -->
+ - [Google Meet&#39;s AI translator hands-on: emulates voice and tone, translating with a few seconds of lag, similar to watching an overdubbed foreign-language speaker &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/250521/p13#a250521p13)
+ - [Microsoft blames Apple for its delayed Xbox mobile store](https://www.theverge.com/news/671409/microsoft-xbox-mobile-store-delay-apple-epic-court-case)
+ - [Abu Dhabi&#39;s TII releases Falcon Arabic, an AI model that it claims can match the performance of models up to 10 times its size, and smaller model Falcon H1 &lpar;Omar El Chmouri/Bloomberg&rpar;](http://www.techmeme.com/250521/p12#a250521p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
