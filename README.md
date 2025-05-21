@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mastering Blades of Fire’s Combat System](https://news.xbox.com/en-us/2025/05/21/mastering-blades-of-fires-combat-system/)
- - [Mario Kart World Was Going To Be A Switch Game But The System Couldn&#39;t Handle It](https://kotaku.com/mario-kart-world-switch-2-2017-mk8-60fps-open-world-1851781695)
- - [JDM: Japanese Drift Master review](https://www.pcgamer.com/games/racing/jdm-japanese-drift-master-review/)<!-- GAME:END -->
+ - [Xbox Just Added 50+ Classic Activision Games To Game Pass](https://kotaku.com/xbox-retro-classics-app-activision-blizzard-games-free-1851781736)
+ - [&#39;It doesn&#39;t feel like Blade Runner&#39;: Cyberpunk&#39;s creator teases one of the Cyberpunk 2077 sequel&#39;s new locations, saying that &#39;it feels more like Chicago gone wrong&#39;](https://www.pcgamer.com/games/rpg/it-doesnt-feel-like-blade-runner-cyberpunks-creator-teases-one-of-the-cyberpunk-2077-sequels-new-locations-saying-that-it-feels-more-like-chicago-gone-wrong/)
+ - [Xbox Game Pass is finally getting 2024&amp;#8217;s best JRPG](https://www.polygon.com/entertainment/600442/xbox-game-pass-late-may-2025-releases)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
