@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)
- - ⏩ [When your drive-thru order needs divine intervention](http://9gag.com/gag/aQzZ0dW)
- - 👉 [Knowing we are totally free tomorrow](http://9gag.com/gag/a872ZBQ)<!-- MEMES:END -->
+ - 💣 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
+ - ⏩ [What we again?](http://9gag.com/gag/abAB93v)
+ - 👉 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)<!-- MEMES:END -->
 
 ---
 
