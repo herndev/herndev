@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
- - ⏩ [What we again?](http://9gag.com/gag/abAB93v)
+ - ⏩ [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
  - 👉 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)<!-- MEMES:END -->
 
 ---
