@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you want to heal your 9gag feed, delete these users. This graph was not made by me, but I feel it is of public service to share it...](http://9gag.com/gag/avyR32n)
- - ⏩ [\u201cManual\u201d clock in Amsterdam airport](http://9gag.com/gag/aYQqXnV)
- - 👉 [Ah, British humor](http://9gag.com/gag/aoyLbme)<!-- MEMES:END -->
+ - 💣 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
+ - ⏩ [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
+ - 👉 [._.&lpar;florkofcows&rpar;](http://9gag.com/gag/a7o2R6L)<!-- MEMES:END -->
 
 ---
 
