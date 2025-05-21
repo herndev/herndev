@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When math leaves you puzzled... and amused](http://9gag.com/gag/awydEoD)
- - ⏩ [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 👉 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)<!-- MEMES:END -->
+ - 💣 [When your drive-thru order needs divine intervention](http://9gag.com/gag/aQzZ0dW)
+ - ⏩ [The heel lock did change my life for good!](http://9gag.com/gag/avyRMRE)
+ - 👉 [Damn mods](http://9gag.com/gag/aryq61d)<!-- MEMES:END -->
 
 ---
 
