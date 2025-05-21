@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rage Comics](http://9gag.com/gag/a342651)
+ - 💣 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
  - ⏩ [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 👉 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)<!-- MEMES:END -->
+ - 👉 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)<!-- MEMES:END -->
 
 ---
 
