@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volvo will be the first to install Google’s Gemini in its cars](https://www.theverge.com/news/670954/volvo-google-gemini-ai-cars-android-automotive)
- - [Google&#39;s I/O keynote was both scary and chill, a fever dream of sizzle reels selling how AI changes everything, even search, and can give users superpowers &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250521/p6#a250521p6)
- - [Experts warn Trump&#39;s trade policies risk US dominance in digital services, often uncounted by traditional statistics, as the EU considers retaliatory tariffs &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250521/p5#a250521p5)<!-- TECH:END -->
+ - [This is Android 16 on Google TV in its current state](https://www.androidauthority.com/google-tv-android-16-for-tv-preview-3559852/)
+ - [Android 16 release date: Here’s when you’ll get the next major OS upgrade](https://www.androidauthority.com/android-16-release-date-3495817/)
+ - [The best use for AI: You can now turn yourself into an Android Bot by uploading a photo](https://www.androidauthority.com/google-androidify-app-photo-android-bot-3559843/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
