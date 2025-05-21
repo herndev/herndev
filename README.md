@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Energy efficiency rollbacks could cost Americans $43 billion in higher utility bills](https://www.theverge.com/news/671615/energy-efficiency-rollbakcs-electricity-costs-utility-bills-analysis)
- - [In a joint statement, the US, France, Germany, and eight other countries say Russia has stepped up cyber attacks on firms aiding Ukraine, often via Fancy Bear &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250521/p35#a250521p35)
- - [Google tests bringing ads to AI Mode, both below responses as well as &quot;integrated into&quot; them, and expands ads in AI Overviews to desktop in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250521/p34#a250521p34)<!-- TECH:END -->
+ - [Sources: Sam Altman and LoveFrom have been working for two years on a new device to move consumers beyond screens, including headphones and devices with cameras &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250521/p38#a250521p38)
+ - [Microsoft blames Apple&#39;s interference for why the Xbox mobile store has failed to launch](https://appleinsider.com/articles/25/05/21/microsoft-blames-apples-interference-for-why-the-xbox-mobile-store-has-failed-to-launch?utm_medium=rss)
+ - [Microsoft wants to copy Apple with a Handoff-like feature for Windows and Android](https://www.androidauthority.com/windows-11-cross-device-resume-3560011/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
