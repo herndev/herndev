@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Just Added 50+ Classic Activision Games To Game Pass](https://kotaku.com/xbox-retro-classics-app-activision-blizzard-games-free-1851781736)
- - [&#39;It doesn&#39;t feel like Blade Runner&#39;: Cyberpunk&#39;s creator teases one of the Cyberpunk 2077 sequel&#39;s new locations, saying that &#39;it feels more like Chicago gone wrong&#39;](https://www.pcgamer.com/games/rpg/it-doesnt-feel-like-blade-runner-cyberpunks-creator-teases-one-of-the-cyberpunk-2077-sequels-new-locations-saying-that-it-feels-more-like-chicago-gone-wrong/)
- - [Xbox Game Pass is finally getting 2024&amp;#8217;s best JRPG](https://www.polygon.com/entertainment/600442/xbox-game-pass-late-may-2025-releases)<!-- GAME:END -->
+ - [Celebrate ten years of The Witcher 3 by finally reading the books](https://www.polygon.com/the-witcher/600589/the-witcher-3-anniversary-read-the-books)
+ - [Pokémon Go ‘Fuzzy Fighter’ paid Special Research — is it worth it?](https://www.polygon.com/pokemon-go-guide/534404/fuzzy-fighter-special-research-steps-worth-it-kubfu)
+ - [Call of Duty: Black Ops 6 and Warzone Season 04: Full Intel Revealed!](https://www.callofduty.com/blog/2025/05/call-of-duty-black-ops-6-warzone-zombies-season-four-full-intel-revealed#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
