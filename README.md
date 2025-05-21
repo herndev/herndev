@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
- - ⏩ [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
- - 👉 [._.&lpar;florkofcows&rpar;](http://9gag.com/gag/a7o2R6L)<!-- MEMES:END -->
+ - 💣 [That fast](http://9gag.com/gag/aND4xZv)
+ - ⏩ [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
+ - 👉 [Turn to page 394](http://9gag.com/gag/aKGeR3j)<!-- MEMES:END -->
 
 ---
 
