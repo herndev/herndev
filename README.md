@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Game Of The Year Contender Is Passing Right Under People&#39;s Noses](https://kotaku.com/hundred-line-last-defense-academy-steam-switch-reviews-1851781786)
- - [Bring back the coolest animated series &lpar;and coolest animated sword&rpar; of 1981](https://www.polygon.com/opinion/600665/80s-cartoon-reboot-blackstar-star-wars-he-man-connections)
- - [Escape From the 21st Century is the best kind of gamer-movie nonsense](https://www.polygon.com/trailer/600653/escape-from-the-21st-century-first-look-trailer)<!-- GAME:END -->
+ - [How To Assassinate The Fox In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-the-fox-performer-yasuke-naoe-1851781803)
+ - [How To Rock The Battlefield As Star-Lord In Marvel Rivals](https://kotaku.com/marvel-rivals-star-lord-ultimate-duelist-adam-warlock-1851781804)
+ - [Former Dragon Age writer says Clair Obscur: Expedition 33 and Baldur&#39;s Gate 3 prove &#39;what&#39;s possible when a game is given time to cook&#39;](https://www.pcgamer.com/games/rpg/former-dragon-age-writer-says-clair-obscur-expedition-33-and-baldurs-gate-3-prove-whats-possible-when-a-game-is-given-time-to-cook/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
