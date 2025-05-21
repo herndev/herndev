@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It should have been me](http://9gag.com/gag/ae9mL7v)
- - ⏩ [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 👉 [What we again?](http://9gag.com/gag/abAB93v)<!-- MEMES:END -->
+ - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - ⏩ [Its not perfect but at least it&#39;s not just a lot of spam from bots](http://9gag.com/gag/a9y2xA0)
+ - 👉 [A meme was born](http://9gag.com/gag/agm4Wqg)<!-- MEMES:END -->
 
 ---
 
