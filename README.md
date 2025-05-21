@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Miley Cyrus is now becoming officer Alex Murphy.](http://9gag.com/gag/a342VqN)
- - ⏩ [F**k you genetics](http://9gag.com/gag/awydEm4)
- - 👉 [Getting the full value out of a old bottle of lotion](http://9gag.com/gag/ayNRO7W)<!-- MEMES:END -->
+ - 💣 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
+ - ⏩ [You are the father](http://9gag.com/gag/aRBoYE2)
+ - 👉 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)<!-- MEMES:END -->
 
 ---
 
