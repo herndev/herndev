@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
- - ⏩ [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
- - 👉 [Do we love old memes?...](http://9gag.com/gag/aKGeQgW)<!-- MEMES:END -->
+ - 💣 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)
+ - ⏩ [When your drive-thru order needs divine intervention](http://9gag.com/gag/aQzZ0dW)
+ - 👉 [Knowing we are totally free tomorrow](http://9gag.com/gag/a872ZBQ)<!-- MEMES:END -->
 
 ---
 
