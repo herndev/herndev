@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you ever wanted to stick a screen inside your PC case Lian Li&#39;s just shown off something surprisingly affordable for you](https://www.pcgamer.com/hardware/pc-cases/if-you-ever-wanted-to-stick-a-screen-inside-your-pc-case-lian-lis-just-shown-off-something-surprisingly-affordable-for-you/)
- - [&#39;That&#39;s it, pre-order cancelled&#39;: GTA 6 investigators have managed to find the one slip-up in the second trailer, and it&#39;s pretty illuminating](https://www.pcgamer.com/games/action/thats-it-pre-order-cancelled-gta-6-investigators-have-managed-to-find-the-one-slip-up-in-the-second-trailer-and-its-pretty-illuminating/)
- - [Marvel Rivals&#39; new Chrono Shield Cards item has divided players and reminded me that some people should just stay in Bronze](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-new-chrono-shield-cards-item-has-divided-players-and-reminded-me-that-some-people-should-just-stay-in-bronze/)<!-- GAME:END -->
+ - [Is there any sword cooler than a living sword?](https://www.polygon.com/culture/600310/living-swords-in-games-rule)
+ - [Coming to Game Pass: Metaphor ReFantazio, The Division 2, Tales of Kenzera: Zau, and More](https://news.xbox.com/en-us/2025/05/21/xbox-game-pass-may-2025-wave-2/)
+ - [Noctua aims to release its first liquid CPU cooler in 2026, working with Asetek to make the quietest water pump around, though it&#39;s not the thermosiphon project](https://www.pcgamer.com/hardware/cooling/noctua-aims-to-release-its-first-liquid-cpu-cooler-in-2026-working-with-asetek-to-make-the-quietest-water-pump-around-though-its-not-the-thermosiphon-project/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
