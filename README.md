@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It should have been me](http://9gag.com/gag/ae9mL7v)
- - ⏩ [She got him good.](http://9gag.com/gag/aGyAWV0)
- - 👉 [A meme was born](http://9gag.com/gag/agm4Wqg)<!-- MEMES:END -->
+ - 💣 [What we again?](http://9gag.com/gag/abAB93v)
+ - ⏩ [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
+ - 👉 [The machine](http://9gag.com/gag/amoMeQV)<!-- MEMES:END -->
 
 ---
 
