@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS 5 killed Facer watchfaces, but Wear OS 6 will bring them back to life](https://www.androidauthority.com/facer-wear-os-6-return-3559603/)
- - [Kalshi withdrew announcements about a collaboration with xAI just hours after CEO Tarek Mansour said the deal would &quot;further take prediction markets mainstream&quot; &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250520/p57#a250520p57)
- - [Save $400 and keep cool wherever you go with this EcoFlow WAVE 3 AC deal!](https://www.androidauthority.com/ecoflow-wave-3-portable-air-conditioner-deal-3559672/)<!-- TECH:END -->
+ - [Google announces Firebase AI Logic, combining Vertex AI and Genkit tools to more easily integrate AI into apps, and adds Figma import support in Firebase Studio &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250520/p59#a250520p59)
+ - [AMD’s new RX 9060 XT looks set to challenge Nvidia’s RTX 5060](https://www.theverge.com/news/670285/amd-radeon-rx-9060-xt-announcement-computex)
+ - [Washington Gov. Bob Ferguson approves controversial new taxes expanding the state&#39;s sales tax on companies providing digital services, starting in October 2025 &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250520/p58#a250520p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
