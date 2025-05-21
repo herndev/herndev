@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warhammer 40K: Space Marine 2 is a glorious co-op shooter that’s now cheaper than ever](https://www.theverge.com/tech/671571/warhammer-40k-space-marine-2-lg-oled-microsd-card-deal-sale)
- - [Google teases an Android desktop mode, made with Samsung’s help](https://www.theverge.com/news/671577/google-android-desktop-mode-samsung-dex)
- - [Filed, which uses AI to automate tax professionals&#39; low-value tasks, raised $17.2M across seed and preseed led by Northzone, Day One Ventures, and others &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250521/p27#a250521p27)<!-- TECH:END -->
+ - [I just downloaded the Android 16 QPR1 Beta on my Pixel. Here’s how you can get it, too](https://www.androidauthority.com/android-16-qpr1-beta-how-download-3559947/)
+ - [Darren Aronofsky’s Caught Stealing looks like one for the Baby Driver fans](https://www.theverge.com/trailers/671610/caught-stealing-trailer-premiere-date)
+ - [WWDC 25 visionOS 3 wishlist: what we&#39;d like to see next for Apple Vision Pro](https://appleinsider.com/articles/25/05/21/wwdc-25-visionos-3-wishlist-what-wed-like-to-see-next-for-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
