@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is stuffing even more ads into its AI results](https://www.theverge.com/news/671514/google-ai-mode-overviews-ads-expansion)
- - [AI model ranking project LMArena spins off from UC Berkeley and raises a $100M seed led by a16z and UC Investments, sources say at a $600M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p31#a250521p31)
- - [Sources and docs: a &quot;major lapse&quot; at Thoma Bravo&#39;s Opexus, which helps US agencies manage investigations and FOIA, let two convicted hackers delete databases &lpar;Jason Leopold/Bloomberg&rpar;](http://www.techmeme.com/250521/p30#a250521p30)<!-- TECH:END -->
+ - [Energy efficiency rollbacks could cost Americans $43 billion in higher utility bills](https://www.theverge.com/news/671615/energy-efficiency-rollbakcs-electricity-costs-utility-bills-analysis)
+ - [In a joint statement, the US, France, Germany, and eight other countries say Russia has stepped up cyber attacks on firms aiding Ukraine, often via Fancy Bear &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250521/p35#a250521p35)
+ - [Google tests bringing ads to AI Mode, both below responses as well as &quot;integrated into&quot; them, and expands ads in AI Overviews to desktop in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250521/p34#a250521p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
