@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Marauder](http://9gag.com/gag/aW4br9x)
+ - 💣 [The heel lock did change my life for good!](http://9gag.com/gag/avyRMRE)
  - ⏩ [Both? Both..](http://9gag.com/gag/aVvLA28)
  - 👉 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)<!-- MEMES:END -->
 
