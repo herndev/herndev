@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 95 chime composer Brian Eno denounces Microsoft for its ties to Israeli government](https://www.theverge.com/news/671864/brian-eno-windows-95-chime-microsoft-israel-palestine-statement)
- - [Google has a new tool to help detect AI-generated content](https://www.theverge.com/news/672013/google-synthid-detector-ai-generated-content-watermark-i-o-2025)
- - [Toyota&amp;#8217;s new Rav4 plug-in hybrid lets you fast charge the battery](https://www.theverge.com/news/671999/toyota-rav4-2026-redesign-all-hybrid-fast-charging)<!-- TECH:END -->
+ - [Microsoft adds over 50 ‘Retro Classics’ to Game Pass](https://www.theverge.com/news/672037/microsoft-xbox-game-pass-activision-retro-classics)
+ - [Galaxy Watch 8 Classic renders show off its chunky new look](https://www.androidauthority.com/galaxy-watch-8-classic-renders-3560091/)
+ - [CoreWeave announces a $2B debt offering, representing a $500M increase from its initial announcement, and says it was five times oversubscribed; CRWV jumps 19% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250521/p45#a250521p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
