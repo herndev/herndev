@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Senua’s Saga: Hellblade II Comes to PlayStation 5 This Summer](https://senuassaga.com/news/hellblade-2-comes-to-ps5/#new_tab)
- - [&#39;AH can we please keep them&#39;: Helldivers 2 players have fully imprinted onto the game&#39;s new SEAF troops like they&#39;re a bunch of kittens up for adoption](https://www.pcgamer.com/games/third-person-shooter/ah-can-we-please-keep-them-helldivers-2-players-have-fully-imprinted-onto-the-games-new-seaf-troops-like-theyre-a-bunch-of-kittens-up-for-adoption/)
- - [Hellblade 2 coming to PS5 with ‘new features’](https://www.polygon.com/playstation/600399/hellblade-2-ps5-port-release-date)<!-- GAME:END -->
+ - [Xbox May Update: Retro Classics Come to Xbox Game Pass, PC Gaming Updates, and More](https://news.xbox.com/en-us/2025/05/21/xbox-may-update-retro-classics-pc-gaming-updates/)
+ - [Hate RGB software but still want all the pretty LEDs on your AIO cooler? Lian Li might just have the very thing for you](https://www.pcgamer.com/hardware/cooling/hate-rgb-software-but-still-want-all-the-pretty-leds-on-your-aio-cooler-lian-li-might-just-have-the-very-thing-for-you/)
+ - [All weapons in Doom: The Dark Ages and how to get them](https://www.polygon.com/doom-dark-ages-guides/599352/weapons-list-all-how-to-get-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
