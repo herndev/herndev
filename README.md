@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gearbox boss Randy Pitchford wades back into the Borderlands 4 pricing controversy: &#39;Game budgets are increasing ... it&#39;s getting gnarly out there&#39;](https://www.pcgamer.com/games/fps/gearbox-boss-randy-pitchford-wades-back-into-the-borderlands-4-pricing-controversy-game-budgets-are-increasing-its-getting-gnarly-out-there/)
- - [The Witcher 3&#39;s development took CDPR from &#39;How do we escape annihilation?&#39; to having Sony on speed-dial](https://www.pcgamer.com/games/the-witcher/the-witcher-3s-development-took-cdpr-from-how-do-we-escape-annihilation-to-having-sony-on-speed-dial/)
- - [How to evolve Kubfu into Urshifu in Pokémon Go — should you pick Single or Rapid Strike?](https://www.polygon.com/pokemon-go-guide/600294/evolve-kubfu-dynamax-urshifu-single-rapid-strike)<!-- GAME:END -->
+ - [A Game Of The Year Contender Is Passing Right Under People&#39;s Noses](https://kotaku.com/hundred-line-last-defense-academy-steam-switch-reviews-1851781786)
+ - [Bring back the coolest animated series &lpar;and coolest animated sword&rpar; of 1981](https://www.polygon.com/opinion/600665/80s-cartoon-reboot-blackstar-star-wars-he-man-connections)
+ - [Escape From the 21st Century is the best kind of gamer-movie nonsense](https://www.polygon.com/trailer/600653/escape-from-the-21st-century-first-look-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
