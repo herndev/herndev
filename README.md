@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD announces Zen 5-based Threadripper 9000 CPUs with up to 96 cores, along with RDNA 4-based Radeon AI Pro R9700 workstation GPU, both slated to launch in July &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250521/p1#a250521p1)
  - [Zhejiang, home to Alibaba and DeepSeek, publishes an AI policy that expects companies in the AI supply chain to make $138B+ in total operating revenues by 2027 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250520/p60#a250520p60)
- - [Android 16 QPR1 Beta 1 brings lock screen clock customization to Pixel Tablet](https://www.androidauthority.com/android-16-qpr1-beta-1-pixel-tablet-lock-screen-clock-customization-3559736/)
- - [Google announces Firebase AI Logic, combining Vertex AI and Genkit tools to more easily integrate AI into apps, and adds Figma import support in Firebase Studio &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250520/p59#a250520p59)<!-- TECH:END -->
+ - [Android 16 QPR1 Beta 1 brings lock screen clock customization to Pixel Tablet](https://www.androidauthority.com/android-16-qpr1-beta-1-pixel-tablet-lock-screen-clock-customization-3559736/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
