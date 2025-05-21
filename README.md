@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - ⏩ [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
- - 👉 [Guy being a saver](http://9gag.com/gag/aqyWqAv)<!-- MEMES:END -->
+ - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - ⏩ [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)
+ - 👉 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)<!-- MEMES:END -->
 
 ---
 
