@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is shrinking Pixel phones’ At a Glance widget](https://www.theverge.com/news/671539/at-a-glance-shrinks-google-pixel-widget-android-16-material-3-expressive)
- - [The 5 coolest things I tried at Google I/O 2025](https://www.androidauthority.com/google-i-o-2025-coolest-things-3559727/)
- - [Oura rolls out a slew of fitness tracking updates and a handful of new partners](https://www.androidauthority.com/oura-ring-activity-tracking-updates-partnerships-3559848/)<!-- TECH:END -->
+ - [Warhammer 40K: Space Marine 2 is a glorious co-op shooter that’s now cheaper than ever](https://www.theverge.com/tech/671571/warhammer-40k-space-marine-2-lg-oled-microsd-card-deal-sale)
+ - [Google teases an Android desktop mode, made with Samsung’s help](https://www.theverge.com/news/671577/google-android-desktop-mode-samsung-dex)
+ - [Filed, which uses AI to automate tax professionals&#39; low-value tasks, raised $17.2M across seed and preseed led by Northzone, Day One Ventures, and others &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250521/p27#a250521p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
