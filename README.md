@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - ⏩ [Its not perfect but at least it&#39;s not just a lot of spam from bots](http://9gag.com/gag/a9y2xA0)
+ - 💣 [It should have been me](http://9gag.com/gag/ae9mL7v)
+ - ⏩ [She got him good.](http://9gag.com/gag/aGyAWV0)
  - 👉 [A meme was born](http://9gag.com/gag/agm4Wqg)<!-- MEMES:END -->
 
 ---
