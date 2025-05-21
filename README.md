@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are the father](http://9gag.com/gag/aRBoYE2)
- - ⏩ [Getting the full value out of a old bottle of lotion](http://9gag.com/gag/ayNRO7W)
- - 👉 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)<!-- MEMES:END -->
+ - 💣 [If you want to heal your 9gag feed, delete these users. This graph was not made by me, but I feel it is of public service to share it...](http://9gag.com/gag/avyR32n)
+ - ⏩ [\u201cManual\u201d clock in Amsterdam airport](http://9gag.com/gag/aYQqXnV)
+ - 👉 [Ah, British humor](http://9gag.com/gag/aoyLbme)<!-- MEMES:END -->
 
 ---
 
