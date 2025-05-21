@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I just downloaded the Android 16 QPR1 Beta on my Pixel. Here’s how you can get it, too](https://www.androidauthority.com/android-16-qpr1-beta-how-download-3559947/)
- - [Darren Aronofsky’s Caught Stealing looks like one for the Baby Driver fans](https://www.theverge.com/trailers/671610/caught-stealing-trailer-premiere-date)
- - [WWDC 25 visionOS 3 wishlist: what we&#39;d like to see next for Apple Vision Pro](https://appleinsider.com/articles/25/05/21/wwdc-25-visionos-3-wishlist-what-wed-like-to-see-next-for-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Google is stuffing even more ads into its AI results](https://www.theverge.com/news/671514/google-ai-mode-overviews-ads-expansion)
+ - [AI model ranking project LMArena spins off from UC Berkeley and raises a $100M seed led by a16z and UC Investments, sources say at a $600M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p31#a250521p31)
+ - [Sources and docs: a &quot;major lapse&quot; at Thoma Bravo&#39;s Opexus, which helps US agencies manage investigations and FOIA, let two convicted hackers delete databases &lpar;Jason Leopold/Bloomberg&rpar;](http://www.techmeme.com/250521/p30#a250521p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
