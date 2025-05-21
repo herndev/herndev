@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate ten years of The Witcher 3 by finally reading the books](https://www.polygon.com/the-witcher/600589/the-witcher-3-anniversary-read-the-books)
- - [Pokémon Go ‘Fuzzy Fighter’ paid Special Research — is it worth it?](https://www.polygon.com/pokemon-go-guide/534404/fuzzy-fighter-special-research-steps-worth-it-kubfu)
- - [Call of Duty: Black Ops 6 and Warzone Season 04: Full Intel Revealed!](https://www.callofduty.com/blog/2025/05/call-of-duty-black-ops-6-warzone-zombies-season-four-full-intel-revealed#new_tab)<!-- GAME:END -->
+ - [Gearbox boss Randy Pitchford wades back into the Borderlands 4 pricing controversy: &#39;Game budgets are increasing ... it&#39;s getting gnarly out there&#39;](https://www.pcgamer.com/games/fps/gearbox-boss-randy-pitchford-wades-back-into-the-borderlands-4-pricing-controversy-game-budgets-are-increasing-its-getting-gnarly-out-there/)
+ - [The Witcher 3&#39;s development took CDPR from &#39;How do we escape annihilation?&#39; to having Sony on speed-dial](https://www.pcgamer.com/games/the-witcher/the-witcher-3s-development-took-cdpr-from-how-do-we-escape-annihilation-to-having-sony-on-speed-dial/)
+ - [How to evolve Kubfu into Urshifu in Pokémon Go — should you pick Single or Rapid Strike?](https://www.polygon.com/pokemon-go-guide/600294/evolve-kubfu-dynamax-urshifu-single-rapid-strike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
