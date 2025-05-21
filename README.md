@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Is there any sword cooler than a living sword?](https://www.polygon.com/culture/600310/living-swords-in-games-rule)
- - [Coming to Game Pass: Metaphor ReFantazio, The Division 2, Tales of Kenzera: Zau, and More](https://news.xbox.com/en-us/2025/05/21/xbox-game-pass-may-2025-wave-2/)
- - [Noctua aims to release its first liquid CPU cooler in 2026, working with Asetek to make the quietest water pump around, though it&#39;s not the thermosiphon project](https://www.pcgamer.com/hardware/cooling/noctua-aims-to-release-its-first-liquid-cpu-cooler-in-2026-working-with-asetek-to-make-the-quietest-water-pump-around-though-its-not-the-thermosiphon-project/)<!-- GAME:END -->
+ - [Senua’s Saga: Hellblade II Comes to PlayStation 5 This Summer](https://senuassaga.com/news/hellblade-2-comes-to-ps5/#new_tab)
+ - [&#39;AH can we please keep them&#39;: Helldivers 2 players have fully imprinted onto the game&#39;s new SEAF troops like they&#39;re a bunch of kittens up for adoption](https://www.pcgamer.com/games/third-person-shooter/ah-can-we-please-keep-them-helldivers-2-players-have-fully-imprinted-onto-the-games-new-seaf-troops-like-theyre-a-bunch-of-kittens-up-for-adoption/)
+ - [Hellblade 2 coming to PS5 with ‘new features’](https://www.polygon.com/playstation/600399/hellblade-2-ps5-port-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
