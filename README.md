@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Mission: Impossible is a comedy wearing a convincing disguise](https://www.theverge.com/movie-reviews/671534/mission-impossible-the-final-reckoning-review)
- - [3D Instagram photos are coming to Meta Quest headsets](https://www.theverge.com/news/672897/meta-instagram-3d-quest-vr-headsets-v77-update-navigator)
- - [Google Wallet will now alert you about your ticket or pass right when you need it](https://www.androidauthority.com/google-wallet-nearby-passes-notification-3560426/)<!-- TECH:END -->
+ - [Apollo Research, which Anthropic partnered with to test Opus 4, recommended against deploying an early version due to its tendency to &quot;scheme&quot; and deceive &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250522/p44#a250522p44)
+ - [Anthropic says Opus 4 will use an email tool to &quot;whistleblow&quot; if it detects users doing something &quot;egregiously evil&quot;, like marketing a drug based on faked data &lpar;Sam Bowman/@sleepinyourhat&rpar;](http://www.techmeme.com/250522/p43#a250522p43)
+ - [Save $300 on the awesome LG StandbyME Go portable monitor](https://www.androidauthority.com/lg-standbyme-go-portable-monitor-deal-3560496/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
