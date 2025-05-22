@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
+ - 💣 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
  - ⏩ [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
- - 👉 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)<!-- MEMES:END -->
+ - 👉 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)<!-- MEMES:END -->
 
 ---
 
