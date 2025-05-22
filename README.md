@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - ⏩ [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
+ - 💣 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
+ - ⏩ [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
+ - 👉 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)<!-- MEMES:END -->
 
 ---
 
