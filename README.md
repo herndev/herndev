@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - ⏩ [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
- - 👉 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)<!-- MEMES:END -->
+ - 💣 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
+ - ⏩ [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
+ - 👉 [The goodest boi](http://9gag.com/gag/aqyW3XZ)<!-- MEMES:END -->
 
 ---
 
