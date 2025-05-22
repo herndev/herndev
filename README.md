@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Hearts’ dual Keyblades, Oblivion and Oathkeeper, are the perfect analogy for its story](https://www.polygon.com/gaming/600663/kingdom-hearts-kh-best-keyblades-oblivion-oathkeeper)
- - [Mission: Impossible&#39;s 19 Best Characters, Ranked By Irreplaceability](https://kotaku.com/mission-impossible-characters-luther-owen-ethan-ilsa-1851781537)
- - [This incredible Monster Hunter Wilds PC custom build has something your rig definitely doesn&#39;t: an RTX 5070 Ti GPU sword](https://www.pcgamer.com/hardware/pc-cases/this-incredible-monster-hunter-wilds-pc-custom-build-has-something-your-rig-doesnt-an-rtx-5070-ti-gpu-sword/)<!-- GAME:END -->
+ - [Celebrate 10 Years of Killing Monsters With Special Edition The Witcher 3: Wild Hunt Xbox Controllers](https://news.xbox.com/en-us/2025/05/22/the-witcher-3-wild-hunt-10th-anniversary-xbox-controllers/)
+ - [This retro PC case has a big red button and a turnkey and it hits me square in the chest with nostalgia](https://www.pcgamer.com/hardware/pc-cases/this-retro-pc-case-has-a-big-red-button-and-a-turnkey-and-it-hits-me-square-in-the-chest-with-nostalgia/)
+ - [Kingdom Hearts’ dual Keyblades, Oblivion and Oathkeeper, are the perfect analogy for its story](https://www.polygon.com/gaming/600663/kingdom-hearts-kh-best-keyblades-oblivion-oathkeeper)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
