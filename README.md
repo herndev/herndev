@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fujifilm’s X Half camera is so dedicated to the analog vibes, it can’t shoot RAW](https://www.theverge.com/news/672268/fujifilm-x-half-digital-compact-camera-fixed-lens-analog-price-specs)
- - [An NY jury convicts Braden John Karony, the former CEO of cryptocurrency company SafeMoon, of conspiracy to defraud the US, money laundering, and wire fraud &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/250522/p2#a250522p2)
- - [Marcos Galperin, founder and CEO of Latin American e-commerce giant MercadoLibre, will step down in late 2025 and be replaced by commerce head Ariel Szarfsztejn &lpar;Andre Romani/Reuters&rpar;](http://www.techmeme.com/250522/p1#a250522p1)<!-- TECH:END -->
+ - [Takeaways from Computex 2025: little focus on consumer AI, Chinese AI and chip advances loom large, Intel and Nvidia courting Taiwanese partners, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250522/p6#a250522p6)
+ - [Sources: Telegram told investors ahead of a ~$1.5B bond offering that revenue reached $1.4B in 2024, up from $343M in 2023, and net profit reached $540M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p5#a250522p5)
+ - [Microsoft researchers and others detail Aurora, an AI weather model they say makes accurate 10-day forecasts faster and at smaller scales than many other models &lpar;Rebecca Dzombak/New York Times&rpar;](http://www.techmeme.com/250522/p4#a250522p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
