@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
- - ⏩ [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 👉 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)<!-- MEMES:END -->
+ - 💣 [A pair of pair of scissors goes hard](http://9gag.com/gag/aO8Pg86)
+ - ⏩ [Baiting your opponent to get your autograph](http://9gag.com/gag/a872rAO)
+ - 👉 [Little advice](http://9gag.com/gag/awydqxR)<!-- MEMES:END -->
 
 ---
 
