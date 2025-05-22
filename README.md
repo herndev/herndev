@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - ⏩ [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
- - 👉 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)<!-- MEMES:END -->
+ - 💣 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
+ - ⏩ [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
+ - 👉 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)<!-- MEMES:END -->
 
 ---
 
