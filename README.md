@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A delayed review, a controversial GOTY pick, and Big Geralt: PC Gamer&#39;s strange 10-year relationship with The Witcher 3](https://www.pcgamer.com/games/the-witcher/a-delayed-review-a-controversial-goty-pick-and-big-geralt-pc-gamers-strange-10-year-relationship-with-the-witcher-3/)
  - [The Battlefield subreddit is an endless feed of leaked Battlefield 6 gameplay, and it might be the best marketing campaign of 2025](https://www.pcgamer.com/games/fps/the-battlefield-subreddit-is-an-endless-feed-of-leaked-battlefield-6-gameplay-and-it-might-be-the-best-marketing-campaign-of-2025/)
- - [Here&#39;s The GTA 6 Trailer Recreated In San Andreas](https://kotaku.com/gta-6-trailer-ps2-recreation-fan-san-andreas-ps5-1851781843)
- - [All health upgrade leader locations in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599061/health-upgrade-leader-locations-all-where-to-find)<!-- GAME:END -->
+ - [Here&#39;s The GTA 6 Trailer Recreated In San Andreas](https://kotaku.com/gta-6-trailer-ps2-recreation-fan-san-andreas-ps5-1851781843)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
