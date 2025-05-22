@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A delayed review, a controversial GOTY pick, and Big Geralt: PC Gamer&#39;s strange 10-year relationship with The Witcher 3](https://www.pcgamer.com/games/the-witcher/a-delayed-review-a-controversial-goty-pick-and-big-geralt-pc-gamers-strange-10-year-relationship-with-the-witcher-3/)
- - [The Battlefield subreddit is an endless feed of leaked Battlefield 6 gameplay, and it might be the best marketing campaign of 2025](https://www.pcgamer.com/games/fps/the-battlefield-subreddit-is-an-endless-feed-of-leaked-battlefield-6-gameplay-and-it-might-be-the-best-marketing-campaign-of-2025/)
- - [Here&#39;s The GTA 6 Trailer Recreated In San Andreas](https://kotaku.com/gta-6-trailer-ps2-recreation-fan-san-andreas-ps5-1851781843)<!-- GAME:END -->
+ - [Final Fantasy 15&#39;s longest boss fight is coming to Magic: The Gathering, hopefully it won&#39;t take 30 days to defeat](https://www.pcgamer.com/games/card-games/final-fantasy-15s-longest-boss-fight-is-coming-to-magic-the-gathering-hopefully-it-wont-take-30-days-to-defeat/)
+ - [Mafia: The Old Country: all the key details on the gritty gangster prequel](https://www.pcgamer.com/games/action/mafia-the-old-country-guide/)
+ - [World of Warcraft game director details which combat add-ons are safe and which will be eliminated in the coming purge](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-game-director-details-which-combat-add-ons-are-safe-and-which-will-be-eliminated-in-the-coming-purge/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
