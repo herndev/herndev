@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blaze a Trail of Destruction in Sea of Thieves Season 16](https://www.seaofthieves.com/news/season16-launch#new_tab)
- - [Original Space Marine Getting 4K Remaster, But Will Skip PS5](https://kotaku.com/w40k-space-marine-1-remaster-4k-remake-xbox-no-ps5-port-1851781996)
- - [One Of 2025&#39;s Top-Rated Games Finally Has A Fix For Its Soul Crushing Save Bug On PS5](https://kotaku.com/blue-prince-ps5-save-bug-crash-patch-update-1851781990)<!-- GAME:END -->
+ - [Lynked: Banner of the Spark – Blending Hack-and-Slash with Town-Building to Make a ‘Rogue-Life’ Game](https://news.xbox.com/en-us/2025/05/22/lynked-banner-of-the-spark/)
+ - [GeoGuessr withdraws from Esports World Cup following furious blowback from the community over Saudi Arabia&#39;s human rights record](https://www.pcgamer.com/games/puzzle/geoguessr-withdraws-from-esports-world-cup-following-furious-blowback-from-the-community-over-saudi-arabias-human-rights-record/)
+ - [Blaze a Trail of Destruction in Sea of Thieves Season 16](https://www.seaofthieves.com/news/season16-launch#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
