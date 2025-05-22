@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate 10 Years of Killing Monsters With Special Edition The Witcher 3: Wild Hunt Xbox Controllers](https://news.xbox.com/en-us/2025/05/22/the-witcher-3-wild-hunt-10th-anniversary-xbox-controllers/)
- - [This retro PC case has a big red button and a turnkey and it hits me square in the chest with nostalgia](https://www.pcgamer.com/hardware/pc-cases/this-retro-pc-case-has-a-big-red-button-and-a-turnkey-and-it-hits-me-square-in-the-chest-with-nostalgia/)
- - [Kingdom Hearts’ dual Keyblades, Oblivion and Oathkeeper, are the perfect analogy for its story](https://www.polygon.com/gaming/600663/kingdom-hearts-kh-best-keyblades-oblivion-oathkeeper)<!-- GAME:END -->
+ - [Free Play Days – Warhammer Takeover Featuring 8 Games](https://news.xbox.com/en-us/2025/05/22/free-play-days-warhammer-takeover-2025/)
+ - [Capcom wants you to throw hands as Akuma in Monster Hunter Wilds](https://www.polygon.com/news/600797/monster-hunter-wilds-street-fighter-collab-akuma-armor)
+ - [NZXT H3 Flow case review](https://www.pcgamer.com/hardware/pc-cases/nzxt-h3-flow-case-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
