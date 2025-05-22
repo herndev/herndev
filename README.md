@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Takeaways from Computex 2025: little focus on consumer AI, Chinese AI and chip advances loom large, Intel and Nvidia courting Taiwanese partners, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250522/p6#a250522p6)
- - [Sources: Telegram told investors ahead of a ~$1.5B bond offering that revenue reached $1.4B in 2024, up from $343M in 2023, and net profit reached $540M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p5#a250522p5)
- - [Microsoft researchers and others detail Aurora, an AI weather model they say makes accurate 10-day forecasts faster and at smaller scales than many other models &lpar;Rebecca Dzombak/New York Times&rpar;](http://www.techmeme.com/250522/p4#a250522p4)<!-- TECH:END -->
+ - [Developers can finally pull that buggy app update from the Play Store](https://www.androidauthority.com/google-play-store-stop-app-updates-3560252/)
+ - [How animation startup Toonstar uses its AI tools to make animated content up to 90% cheaper than traditional methods; its YouTube series has 30M weekly viewers &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/250522/p8#a250522p8)
+ - [An overview of major streamers&#39; revenues, subscriber churn, cancellation rates, shares of US TV viewing time, and shares of US sports TV rights deals since 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250522/p7#a250522p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
