@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M&amp;S CEO Stuart Machin says hackers accessed the UK retailer&#39;s systems using social engineering tactics via a third-party supplier, putting M&amp;S &quot;on its backside&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p17#a250522p17)
- - [Tantalizing details of Jony Ive&#39;s AI device leak after OpenAI meeting](https://appleinsider.com/articles/25/05/22/tantalizing-details-of-jony-ives-ai-device-leak-after-openai-meeting?utm_medium=rss)
- - [FTC v. Meta: Meta rested its case on May 21 after four days of arguments, including that it faces hefty competition and helped build Instagram and WhatsApp &lpar;New York Times&rpar;](http://www.techmeme.com/250522/p16#a250522p16)<!-- TECH:END -->
+ - [What if Tesla made a Slate-like EV instead of the Cybertruck?](https://www.theverge.com/tesla/672120/slate-truck-tesla-cybertruck-what-if)
+ - [Galaxy S26 camera details just got clearer and murkier at the same time](https://www.androidauthority.com/samsung-galaxy-s26-main-camera-leak-3560311/)
+ - [Apple is making a five-part documentary on Martin Scorsese](https://www.theverge.com/news/672393/apple-tv-plus-martin-scorsese-documentary)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
