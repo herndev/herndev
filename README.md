@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This origami-powered shape-shifting device could provide VR gamers with unique tactile feedback](https://www.pcgamer.com/hardware/vr-hardware/this-origami-powered-shape-shifting-device-could-provide-vr-gamers-with-unique-tactile-feedback/)
  - [Today&#39;s Wordle answer for Thursday, May 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-22-2025/)
- - [In an uncontroversial move that will bother no one, Lies of P is getting an easy mode](https://www.pcgamer.com/games/rpg/in-an-uncontroversial-move-that-will-bother-no-one-lies-of-p-is-getting-an-easy-mode/)
- - [Gigantamax Machamp counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/600112/gigantamax-machamp-counters-weakness-tips)<!-- GAME:END -->
+ - [In an uncontroversial move that will bother no one, Lies of P is getting an easy mode](https://www.pcgamer.com/games/rpg/in-an-uncontroversial-move-that-will-bother-no-one-lies-of-p-is-getting-an-easy-mode/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
