@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s pure darkness...](http://9gag.com/gag/axyPENK)
- - ⏩ [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
- - 👉 [. . .](http://9gag.com/gag/aPAQOoR)<!-- MEMES:END -->
+ - 💣 [Yeah, he looks happy](http://9gag.com/gag/amoMjr9)
+ - ⏩ [. . .](http://9gag.com/gag/aPAQOoR)
+ - 👉 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)<!-- MEMES:END -->
 
 ---
 
