@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yikes, that hit deep!](http://9gag.com/gag/amoMjj2)
- - ⏩ [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
- - 👉 [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)<!-- MEMES:END -->
+ - 💣 [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)
+ - ⏩ [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
+ - 👉 [The goodest boi](http://9gag.com/gag/aqyW3XZ)<!-- MEMES:END -->
 
 ---
 
