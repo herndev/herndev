@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
- - ⏩ [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
- - 👉 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)<!-- MEMES:END -->
+ - 💣 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
+ - ⏩ [John Wick](http://9gag.com/gag/a9y2QP0)
+ - 👉 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)<!-- MEMES:END -->
 
 ---
 
