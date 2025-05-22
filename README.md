@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The dark Pac-Man Metroidvania secretly has what I can only describe as Pac-Man Championship Edition 3 hidden inside of it](https://www.polygon.com/news/600899/shadow-labyrinth-pac-man-championship-edition-3-maze)
- - [In this new medieval city builder that launched on Steam today, build a sprawling town with the help of companions who level up and train their own apprentices](https://www.pcgamer.com/games/city-builder/in-this-new-medieval-city-builder-that-launched-on-steam-today-build-a-sprawling-town-with-the-help-of-companions-who-level-up-and-train-their-own-apprentices/)
- - [Ultron announced alongside new team-up attacks as part of Marvel Rivals Season 2.5](https://www.polygon.com/news/600880/ultron-announced-alongside-new-team-up-attacks-as-part-of-marvel-rivals-season-2-5)<!-- GAME:END -->
+ - [Blaze a Trail of Destruction in Sea of Thieves Season 16](https://www.seaofthieves.com/news/season16-launch#new_tab)
+ - [Original Space Marine Getting 4K Remaster, But Will Skip PS5](https://kotaku.com/w40k-space-marine-1-remaster-4k-remake-xbox-no-ps5-port-1851781996)
+ - [One Of 2025&#39;s Top-Rated Games Finally Has A Fix For Its Soul Crushing Save Bug On PS5](https://kotaku.com/blue-prince-ps5-save-bug-crash-patch-update-1851781990)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
