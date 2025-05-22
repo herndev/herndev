@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers can finally pull that buggy app update from the Play Store](https://www.androidauthority.com/google-play-store-stop-app-updates-3560252/)
- - [How animation startup Toonstar uses its AI tools to make animated content up to 90% cheaper than traditional methods; its YouTube series has 30M weekly viewers &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/250522/p8#a250522p8)
- - [An overview of major streamers&#39; revenues, subscriber churn, cancellation rates, shares of US TV viewing time, and shares of US sports TV rights deals since 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250522/p7#a250522p7)<!-- TECH:END -->
+ - [Verizon wants to lock your phones for 6 months or longer, instead of 60 days](https://www.androidauthority.com/verizon-phone-unlocking-rule-petition-3560268/)
+ - [Lenovo reports Q4 revenue up 23% to $16.98B, vs. $15.6B est., and net profit down 64% YoY to ~$90M, below $225.8M est., reflecting AI and PC market competition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250522/p10#a250522p10)
+ - [China is catching up with the US in AI, robotics, and other sectors, driven by an R&amp;D spending rise, hitting $500B in 2024, up 3x since Xi took office in 2012 &lpar;Brian Spegele/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p9#a250522p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
