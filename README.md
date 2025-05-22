@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Warhammer Takeover Featuring 8 Games](https://news.xbox.com/en-us/2025/05/22/free-play-days-warhammer-takeover-2025/)
- - [Capcom wants you to throw hands as Akuma in Monster Hunter Wilds](https://www.polygon.com/news/600797/monster-hunter-wilds-street-fighter-collab-akuma-armor)
- - [NZXT H3 Flow case review](https://www.pcgamer.com/hardware/pc-cases/nzxt-h3-flow-case-review/)<!-- GAME:END -->
+ - [All Wolf Statue locations and rewards in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599982/wolf-statues-locations-where-to-find-all)
+ - [Should You Attack Demineur In Clair Obscur: Expedition 33?](https://kotaku.com/clair-obscur-expedition-33-lune-weapon-demineur-mine-1851781921)
+ - [This ginormous caricature of a CPU cooler screen just about sums up Computex 2025, I think](https://www.pcgamer.com/hardware/cooling/this-ginormous-caricature-of-a-cpu-cooler-screen-just-about-sums-up-computex-2025-i-think/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
