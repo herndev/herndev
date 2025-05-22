@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lynked: Banner of the Spark – Blending Hack-and-Slash with Town-Building to Make a ‘Rogue-Life’ Game](https://news.xbox.com/en-us/2025/05/22/lynked-banner-of-the-spark/)
- - [GeoGuessr withdraws from Esports World Cup following furious blowback from the community over Saudi Arabia&#39;s human rights record](https://www.pcgamer.com/games/puzzle/geoguessr-withdraws-from-esports-world-cup-following-furious-blowback-from-the-community-over-saudi-arabias-human-rights-record/)
- - [Blaze a Trail of Destruction in Sea of Thieves Season 16](https://www.seaofthieves.com/news/season16-launch#new_tab)<!-- GAME:END -->
+ - [Google CEO pitches dystopia where no one communicates with their friends anymore because AI&#39;s writing our emails, claims this makes you &#39;a better friend&#39;](https://www.pcgamer.com/gaming-industry/google-ceo-pitches-dystopia-where-no-one-communicates-with-their-friends-anymore-because-ais-writing-our-emails-claims-this-makes-you-a-better-friend/)
+ - [This &#39;stealthvania&#39; is like if Prince of Persia never gave up on 2D and narrated your every move](https://www.pcgamer.com/games/action/this-stealthvania-is-like-if-prince-of-persia-never-gave-up-on-2d-and-narrated-your-every-move/)
+ - [&#39;It&#39;s the definition of insanity here&#39;: The Battlefield subreddit&#39;s good vibes nosedive into outrage after DICE announces there&#39;ll be no class weapon restrictions in Battlefield 6](https://www.pcgamer.com/games/fps/its-the-definition-of-insanity-here-the-battlefield-subreddits-good-vibes-nosedive-into-outrage-after-dice-announces-therell-be-no-class-weapon-restrictions-in-battlefield-6/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
