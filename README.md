@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What if Tesla made a Slate-like EV instead of the Cybertruck?](https://www.theverge.com/tesla/672120/slate-truck-tesla-cybertruck-what-if)
- - [Galaxy S26 camera details just got clearer and murkier at the same time](https://www.androidauthority.com/samsung-galaxy-s26-main-camera-leak-3560311/)
- - [Apple is making a five-part documentary on Martin Scorsese](https://www.theverge.com/news/672393/apple-tv-plus-martin-scorsese-documentary)<!-- TECH:END -->
+ - [LG’s Blazingly Brilliant G5 OLED Is the Pacesetter for Best TV of the Year](https://www.wired.com/review/lg-g5/)
+ - [A security researcher finds an exposed Elastic database with 184M records, including login credentials for Apple, Meta, Google, and others; its owner is unknown &lpar;Wired&rpar;](http://www.techmeme.com/250522/p21#a250522p21)
+ - [It’s official: The Nothing Phone 1 won’t get Android 16](https://www.androidauthority.com/nothing-phone-1-no-more-os-updates-3560327/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
