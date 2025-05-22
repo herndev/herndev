@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon wants to lock your phones for 6 months or longer, instead of 60 days](https://www.androidauthority.com/verizon-phone-unlocking-rule-petition-3560268/)
- - [Lenovo reports Q4 revenue up 23% to $16.98B, vs. $15.6B est., and net profit down 64% YoY to ~$90M, below $225.8M est., reflecting AI and PC market competition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250522/p10#a250522p10)
- - [China is catching up with the US in AI, robotics, and other sectors, driven by an R&amp;D spending rise, hitting $500B in 2024, up 3x since Xi took office in 2012 &lpar;Brian Spegele/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p9#a250522p9)<!-- TECH:END -->
+ - [Google is using its extensive data on users to give its AI models an advantage over OpenAI and Anthropic, starting with its opt-in Gemini with personalization &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250522/p13#a250522p13)
+ - [Running app Strava raised new funding at a $2.2B valuation including debt, up from $1.5B after raising $110M in November 2020, and nears $500M in ARR &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p12#a250522p12)
+ - [This nifty trick makes Android 16’s resizable Quick Settings even better](https://www.androidauthority.com/android-16-quick-settings-trick-3560263/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
