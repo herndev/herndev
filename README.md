@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - ⏩ [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
- - 👉 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)<!-- MEMES:END -->
+ - 💣 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
+ - ⏩ [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - 👉 [Guy being a saver](http://9gag.com/gag/aqyWqAv)<!-- MEMES:END -->
 
 ---
 
