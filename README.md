@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big thanks to all of you degenerates for laughs and memes &lpar;not propaganda&rpar; F you and see you tomorrow](http://9gag.com/gag/a87wdR6)
- - ⏩ [Liberal women.](http://9gag.com/gag/aLnmqjP)
- - 👉 [Who knew parking lots could be this bright?](http://9gag.com/gag/awy4Nd4)<!-- MEMES:END -->
+ - 💣 [Giggity](http://9gag.com/gag/apRAEdE)
+ - ⏩ [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
+ - 👉 [The goodest boi](http://9gag.com/gag/aqyW3XZ)<!-- MEMES:END -->
 
 ---
 
