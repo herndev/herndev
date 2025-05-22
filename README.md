@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Home APIs are gaining Gemini intelligence](https://www.theverge.com/news/672404/google-home-apis-gemini-intelligence-nest-smart-home)
- - [Microsoft is racing to build an AI ‘agent factory’](https://www.theverge.com/notepad-microsoft-newsletter/672598/microsoft-ai-agent-factory-jay-parikh-interview)
- - [Sources: the US DOJ recently told Google it is examining whether Google structured an agreement with Character.AI to avoid formal government merger scrutiny &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250522/p28#a250522p28)<!-- TECH:END -->
+ - [Google’s AI product names are confusing as hell](https://www.theverge.com/tech/671116/google-ai-product-names-confusing-gemini-deepmind-astra)
+ - [Flying this summer? Make sure you’re aware of this new rule about portable chargers](https://www.androidauthority.com/southwest-new-rule-portable-batteries-3560438/)
+ - [Rode’s tiny wireless mic can now connect directly to your iPhone without a dongle](https://www.theverge.com/news/672777/rode-wireless-micro-microphone-bluetooth-direct-connect-iphone-ios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
