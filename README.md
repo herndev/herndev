@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s first smart glasses could arrive next year](https://www.theverge.com/news/673030/apple-ai-smart-glasses-2026-launch-rumor)
- - [Google will soon let you test Android 16’s new Desktop Mode on your phone](https://www.androidauthority.com/android-16-desktop-mode-testing-3560574/)
- - [Pro-AI, pro-pollution, pro-surveillance: what you should know about Trump’s budget](https://www.theverge.com/news/673015/trump-big-beautiful-bill-budget-reconciliation-ai-border-energy)<!-- TECH:END -->
+ - [Xiaomi’s new PU7 spells trouble for Tesla in China](https://www.theverge.com/news/673023/xiaomi-pu7-ev-suv-china-tesla-model-y)
+ - [Android Automotive is expanding its app catalog for cars with the largest displays](https://www.androidauthority.com/android-automotive-large-screen-app-compatibility-3560588/)
+ - [Leaked memo: YouTube hired longtime Disney executive Justin Connolly to serve as its global head of media and sports, a newly created position &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250522/p49#a250522p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
