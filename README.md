@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This $6,000 professional grade direct transfer printer comes with plenty of viruses for no extra cost, unless it also steals your crypto](https://www.pcgamer.com/hardware/processors/this-usd6-000-professional-grade-direct-transfer-printer-comes-with-plenty-of-viruses-for-no-extra-cost-unless-it-also-steals-your-crypto/)
  - [This origami-powered shape-shifting device could provide VR gamers with unique tactile feedback](https://www.pcgamer.com/hardware/vr-hardware/this-origami-powered-shape-shifting-device-could-provide-vr-gamers-with-unique-tactile-feedback/)
- - [Today&#39;s Wordle answer for Thursday, May 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-22-2025/)
- - [In an uncontroversial move that will bother no one, Lies of P is getting an easy mode](https://www.pcgamer.com/games/rpg/in-an-uncontroversial-move-that-will-bother-no-one-lies-of-p-is-getting-an-easy-mode/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, May 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-22-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
