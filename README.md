@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FTC drops a case that sought to block Microsoft&#39;s $69B purchase of Activision Blizzard, saying that pursuing the case was not in the public interest &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250522/p52#a250522p52)
- - [Valve’s huge Steam Deck update is now ready for everyone, including rival AMD handhelds](https://www.theverge.com/news/673114/valves-huge-steam-deck-update-is-now-ready-for-everyone-including-rival-amd-handhelds)
- - [FTC drops case against Microsoft’s Activision Blizzard deal](https://www.theverge.com/news/673123/ftc-drops-case-microsoft-activision-blizzard-acquisition)<!-- TECH:END -->
+ - [YouTube hires longtime Disney exec to head up live sports](https://www.theverge.com/news/673139/youtube-disney-justin-connolly-sports-media-head)
+ - [Tech CEOs are using AI to replace themselves](https://www.theverge.com/news/673194/tech-ceos-zoom-klarna-replace-earnings)
+ - [Ricoh is finally making a GR IV camera, and it&amp;#8217;s coming in the fall](https://www.theverge.com/news/673127/ricoh-gr-iv-street-photography-camera-specs-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
