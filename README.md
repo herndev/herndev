@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Giggity](http://9gag.com/gag/apRAEdE)
- - ⏩ [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
- - 👉 [The goodest boi](http://9gag.com/gag/aqyW3XZ)<!-- MEMES:END -->
+ - 💣 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
+ - ⏩ [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
+ - 👉 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)<!-- MEMES:END -->
 
 ---
 
