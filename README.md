@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apollo Research, which Anthropic partnered with to test Opus 4, recommended against deploying an early version due to its tendency to &quot;scheme&quot; and deceive &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250522/p44#a250522p44)
- - [Anthropic says Opus 4 will use an email tool to &quot;whistleblow&quot; if it detects users doing something &quot;egregiously evil&quot;, like marketing a drug based on faked data &lpar;Sam Bowman/@sleepinyourhat&rpar;](http://www.techmeme.com/250522/p43#a250522p43)
- - [Save $300 on the awesome LG StandbyME Go portable monitor](https://www.androidauthority.com/lg-standbyme-go-portable-monitor-deal-3560496/)<!-- TECH:END -->
+ - [Apple’s first smart glasses could arrive next year](https://www.theverge.com/news/673030/apple-ai-smart-glasses-2026-launch-rumor)
+ - [Google will soon let you test Android 16’s new Desktop Mode on your phone](https://www.androidauthority.com/android-16-desktop-mode-testing-3560574/)
+ - [Pro-AI, pro-pollution, pro-surveillance: what you should know about Trump’s budget](https://www.theverge.com/news/673015/trump-big-beautiful-bill-budget-reconciliation-ai-border-energy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
