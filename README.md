@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fear not, RTX 50-series owners, because ASRock&#39;s new PSUs have extra thermal sensors to shut off overheating GPU power cables](https://www.pcgamer.com/hardware/power-supplies/fear-not-rtx-50-series-owners-because-asrocks-new-psus-have-extra-thermal-sensors-to-shut-off-overheating-gpu-power-cables/)
- - [Betrayal at House on the Hill is getting an It-themed expansion](https://www.polygon.com/board-games/600786/betrayal-at-house-on-the-hill-it-pennywise)
- - [Next and current banners in Wuthering Waves](https://www.pcgamer.com/games/rpg/wuthering-waves-banner-next-current/)<!-- GAME:END -->
+ - [This incredible Monster Hunter Wilds PC custom build has something your rig definitely doesn&#39;t: an RTX 5070 Ti GPU sword](https://www.pcgamer.com/hardware/pc-cases/this-incredible-monster-hunter-wilds-pc-custom-build-has-something-your-rig-doesnt-an-rtx-5070-ti-gpu-sword/)
+ - [Hisense C2 Ultra projector review](https://www.pcgamer.com/hardware/gaming-monitors/hisense-c2-ultra-projector-review/)
+ - [Monster Hunter Wilds has announced a collaboration with Street Fighter 6, letting you dress up as Akuma and embark on a new side mission](https://www.pcgamer.com/games/action/monster-hunter-wilds-has-announced-a-collaboration-with-street-fighter-6-letting-you-dress-up-as-akuma-and-embark-on-a-new-side-mission/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
