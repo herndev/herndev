@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind says Gemini Diffusion, an experimental text diffusion model demoed at Google I/O and available by waitlist, generates 1,000-2,000 tokens/second &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250521/p54#a250521p54)
- - [OpenAI updates its Responses API for building agentic applications to include remote MCP server support, image generation and Code Interpreter tools, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250521/p53#a250521p53)
- - [Innocn 49Q1R 49-inch OLED monitor review: A display confused by some strange compromises](https://appleinsider.com/articles/25/05/22/innocn-49q1r-49-inch-oled-monitor-review-a-display-confused-by-some-strange-compromises?utm_medium=rss)<!-- TECH:END -->
+ - [Nansen: the 220 winners of Trump&#39;s May 22 dinner contest spent $394M total on the $TRUMP token, with the top seven spending $10M+ each and a third $1M+ each &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250521/p56#a250521p56)
+ - [I Tried Out Dyson’s New PencilVac. Here’s What You Need to Know](https://www.wired.com/story/dyson-pencilvac-cordless-vacuum-2025/)
+ - [Hot battery deals for all budgets and needs: Anker, GRECELL, and CUKTECH](https://www.androidauthority.com/battery-power-station-deals-anker-grecell-cuktech-3560159/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
