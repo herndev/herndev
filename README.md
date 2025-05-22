@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah, he looks happy](http://9gag.com/gag/amoMjr9)
- - ⏩ [. . .](http://9gag.com/gag/aPAQOoR)
- - 👉 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)<!-- MEMES:END -->
+ - 💣 [Yikes, that hit deep!](http://9gag.com/gag/amoMjj2)
+ - ⏩ [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
+ - 👉 [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)<!-- MEMES:END -->
 
 ---
 
