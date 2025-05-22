@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - ⏩ [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
- - 👉 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)<!-- MEMES:END -->
+ - 💣 [A pair of pair of scissors goes hard](http://9gag.com/gag/aO8Pg86)
+ - ⏩ [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
+ - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
 
 ---
 
