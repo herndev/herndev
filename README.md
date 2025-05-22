@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This woman has hematohidrosis, a rare condition where blood is excreted through the sweat glands](http://9gag.com/gag/aE0DrXK)
- - ⏩ [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
- - 👉 [Little advice](http://9gag.com/gag/awydqxR)<!-- MEMES:END -->
+ - 💣 [Big thanks to all of you degenerates for laughs and memes &lpar;not propaganda&rpar; F you and see you tomorrow](http://9gag.com/gag/a87wdR6)
+ - ⏩ [Liberal women.](http://9gag.com/gag/aLnmqjP)
+ - 👉 [Who knew parking lots could be this bright?](http://9gag.com/gag/awy4Nd4)<!-- MEMES:END -->
 
 ---
 
