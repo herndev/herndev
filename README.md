@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google CEO pitches dystopia where no one communicates with their friends anymore because AI&#39;s writing our emails, claims this makes you &#39;a better friend&#39;](https://www.pcgamer.com/gaming-industry/google-ceo-pitches-dystopia-where-no-one-communicates-with-their-friends-anymore-because-ais-writing-our-emails-claims-this-makes-you-a-better-friend/)
- - [This &#39;stealthvania&#39; is like if Prince of Persia never gave up on 2D and narrated your every move](https://www.pcgamer.com/games/action/this-stealthvania-is-like-if-prince-of-persia-never-gave-up-on-2d-and-narrated-your-every-move/)
- - [&#39;It&#39;s the definition of insanity here&#39;: The Battlefield subreddit&#39;s good vibes nosedive into outrage after DICE announces there&#39;ll be no class weapon restrictions in Battlefield 6](https://www.pcgamer.com/games/fps/its-the-definition-of-insanity-here-the-battlefield-subreddits-good-vibes-nosedive-into-outrage-after-dice-announces-therell-be-no-class-weapon-restrictions-in-battlefield-6/)<!-- GAME:END -->
+ - [Super People, the &#39;PUBG with superpowers&#39; battle royale that closed in 2023, is somehow back from the dead and doing a closed beta test in June](https://www.pcgamer.com/games/battle-royale/super-people-the-pubg-with-superpowers-battle-royale-that-closed-in-2023-is-somehow-back-from-the-dead-and-doing-a-closed-beta-test-in-june/)
+ - [The original Space Marine is getting a re-release with 4K and crossplay, and the orks wear all black now for some reason](https://www.pcgamer.com/games/third-person-shooter/the-original-space-marine-is-getting-a-re-release-with-4k-and-crossplay-and-the-orks-wear-all-black-now-for-some-reason/)
+ - [Every Mission: Impossible Video Game, Ever](https://kotaku.com/mission-impossible-games-ps2-n64-mobile-final-reckoning-1851781905)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
