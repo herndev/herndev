@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 7 Plus and iPhone 8 are now on Apple&#39;s &#39;vintage products&#39; list](https://appleinsider.com/articles/25/05/21/the-iphone-7-plus-and-iphone-8-are-now-on-apples-vintage-products-list?utm_medium=rss)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Are Character AI&amp;#8217;s chatbots protected speech? One court isn&amp;#8217;t sure](https://www.theverge.com/law/672209/character-ai-lawsuit-ruling-first-amendment)<!-- TECH:END -->
+ - [Bitcoin reached a new all-time high, surpassing $110,000 and breaking its January record, after slumping to $74,000 in April &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250521/p52#a250521p52)
+ - [Signal says it will block by default screenshots of its Windows 11 desktop app due to the privacy risks of Microsoft&#39;s Recall; users can enable them in settings &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250521/p51#a250521p51)
+ - [Need an SD card? Check out this Samsung EVO Select deal!](https://www.androidauthority.com/samsung-evo-select-micro-sd-deal-3560160/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
