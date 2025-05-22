@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The writing is on the wall in first trailer for Netflix&amp;#8217;s new OceanGate documentary](https://www.theverge.com/trailers/672438/netflix-titan-oceangate-disaster-trailer-premiere-date)
- - [Inside the making of ASML&#39;s High NA: the latest-gen EUV machine costs $400M+, has four modules, is assembled in the Netherlands, and five units have shipped &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/250522/p22#a250522p22)
- - [This retro gaming handheld can now livestream directly to Discord](https://www.androidauthority.com/modretro-chromatic-discord-streaming-3559908/)<!-- TECH:END -->
+ - [Verizon wants to wait longer before unlocking your phone](https://www.theverge.com/news/672565/verizon-fcc-phone-unlocking-requirement)
+ - [Your iCloud password could be newly exposed from a giant password leak](https://appleinsider.com/articles/25/05/22/your-icloud-password-could-be-newly-exposed-from-a-giant-password-leak?utm_medium=rss)
+ - [The Best Sleeping Pads For Campgrounds—Our Comfiest Picks &lpar;2025&rpar;](https://www.wired.com/gallery/best-camping-sleeping-pads/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
