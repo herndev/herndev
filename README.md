@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super People, the &#39;PUBG with superpowers&#39; battle royale that closed in 2023, is somehow back from the dead and doing a closed beta test in June](https://www.pcgamer.com/games/battle-royale/super-people-the-pubg-with-superpowers-battle-royale-that-closed-in-2023-is-somehow-back-from-the-dead-and-doing-a-closed-beta-test-in-june/)
- - [The original Space Marine is getting a re-release with 4K and crossplay, and the orks wear all black now for some reason](https://www.pcgamer.com/games/third-person-shooter/the-original-space-marine-is-getting-a-re-release-with-4k-and-crossplay-and-the-orks-wear-all-black-now-for-some-reason/)
- - [Every Mission: Impossible Video Game, Ever](https://kotaku.com/mission-impossible-games-ps2-n64-mobile-final-reckoning-1851781905)<!-- GAME:END -->
+ - [I bet you haven’t seen a first-person shooter quite like this](https://www.polygon.com/gaming/601052/mouse-pi-for-hire-six-one-indie-showcase)
+ - [Elden Ring Nightreign director says the game was built for squads of three and &#39;doesn&#39;t collapse if it&#39;s a solo player,&#39; but admits that duos have gone &#39;kind of overlooked&#39;](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-director-says-the-game-was-built-for-squads-of-three-and-doesnt-collapse-if-its-a-solo-player-but-admits-that-duos-have-gone-kind-of-overlooked/)
+ - [11 Big Announcements From The Warhammer Skulls Showcase That Have Us Excited](https://kotaku.com/11-big-announcements-from-the-warhammer-skulls-showcase-1851782063)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
