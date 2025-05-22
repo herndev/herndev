@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)
+ - 💣 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
  - ⏩ [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
- - 👉 [The goodest boi](http://9gag.com/gag/aqyW3XZ)<!-- MEMES:END -->
+ - 👉 [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)<!-- MEMES:END -->
 
 ---
 
