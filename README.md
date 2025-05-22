@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s Blazingly Brilliant G5 OLED Is the Pacesetter for Best TV of the Year](https://www.wired.com/review/lg-g5/)
- - [A security researcher finds an exposed Elastic database with 184M records, including login credentials for Apple, Meta, Google, and others; its owner is unknown &lpar;Wired&rpar;](http://www.techmeme.com/250522/p21#a250522p21)
- - [It’s official: The Nothing Phone 1 won’t get Android 16](https://www.androidauthority.com/nothing-phone-1-no-more-os-updates-3560327/)<!-- TECH:END -->
+ - [The writing is on the wall in first trailer for Netflix&amp;#8217;s new OceanGate documentary](https://www.theverge.com/trailers/672438/netflix-titan-oceangate-disaster-trailer-premiere-date)
+ - [Inside the making of ASML&#39;s High NA: the latest-gen EUV machine costs $400M+, has four modules, is assembled in the Netherlands, and five units have shipped &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/250522/p22#a250522p22)
+ - [This retro gaming handheld can now livestream directly to Discord](https://www.androidauthority.com/modretro-chromatic-discord-streaming-3559908/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
