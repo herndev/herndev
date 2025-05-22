@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A pair of pair of scissors goes hard](http://9gag.com/gag/aO8Pg86)
- - ⏩ [Baiting your opponent to get your autograph](http://9gag.com/gag/a872rAO)
+ - 💣 [This woman has hematohidrosis, a rare condition where blood is excreted through the sweat glands](http://9gag.com/gag/aE0DrXK)
+ - ⏩ [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
  - 👉 [Little advice](http://9gag.com/gag/awydqxR)<!-- MEMES:END -->
 
 ---
