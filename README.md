@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
- - ⏩ [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
- - 👉 [The goodest boi](http://9gag.com/gag/aqyW3XZ)<!-- MEMES:END -->
+ - 💣 [When Earth&#39;s curves prove a point](http://9gag.com/gag/aLnX6nv)
+ - ⏩ [When gaming becomes a full-time job](http://9gag.com/gag/aQz261r)
+ - 👉 [Just lose it](http://9gag.com/gag/avyRb8n)<!-- MEMES:END -->
 
 ---
 
