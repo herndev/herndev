@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A pair of pair of scissors goes hard](http://9gag.com/gag/aO8Pg86)
- - ⏩ [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
+ - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - ⏩ [The goodest boi](http://9gag.com/gag/aqyW3XZ)
  - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
 
 ---
