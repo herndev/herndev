@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jason Momoa&#39;s videogame movie streak won&#39;t end here, he&#39;s already in talks to star in Street Fighter alongside 3 other big names](https://www.pcgamer.com/movies-tv/jason-momoas-videogame-movie-streak-wont-end-here-hes-already-in-talks-to-star-in-street-fighter-alongside-3-other-big-names/)
- - [The Last of Us showrunner confirms it&#39;ll take 4 seasons to wrap things up: &quot;there&#39;s no way to complete this narrative in a 3rd season&quot;](https://www.pcgamer.com/movies-tv/the-last-of-us-showrunner-confirms-itll-take-4-seasons-to-wrap-things-up-theres-no-way-to-complete-this-narrative-in-a-3rd-season/)
- - [PC Gamer magazine&#39;s new issue is on sale now: The Witcher 3: Wild Hunt – 10th anniversary](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-the-witcher-3-wild-hunt-10th-anniversary/)<!-- GAME:END -->
+ - [Fear not, RTX 50-series owners, because ASRock&#39;s new PSUs have extra thermal sensors to shut off overheating GPU power cables](https://www.pcgamer.com/hardware/power-supplies/fear-not-rtx-50-series-owners-because-asrocks-new-psus-have-extra-thermal-sensors-to-shut-off-overheating-gpu-power-cables/)
+ - [Betrayal at House on the Hill is getting an It-themed expansion](https://www.polygon.com/board-games/600786/betrayal-at-house-on-the-hill-it-pennywise)
+ - [Next and current banners in Wuthering Waves](https://www.pcgamer.com/games/rpg/wuthering-waves-banner-next-current/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
