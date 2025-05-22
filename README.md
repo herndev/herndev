@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi’s new PU7 spells trouble for Tesla in China](https://www.theverge.com/news/673023/xiaomi-pu7-ev-suv-china-tesla-model-y)
- - [Android Automotive is expanding its app catalog for cars with the largest displays](https://www.androidauthority.com/android-automotive-large-screen-app-compatibility-3560588/)
- - [Leaked memo: YouTube hired longtime Disney executive Justin Connolly to serve as its global head of media and sports, a newly created position &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250522/p49#a250522p49)<!-- TECH:END -->
+ - [The US FTC drops a case that sought to block Microsoft&#39;s $69B purchase of Activision Blizzard, saying that pursuing the case was not in the public interest &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250522/p52#a250522p52)
+ - [Valve’s huge Steam Deck update is now ready for everyone, including rival AMD handhelds](https://www.theverge.com/news/673114/valves-huge-steam-deck-update-is-now-ready-for-everyone-including-rival-amd-handhelds)
+ - [FTC drops case against Microsoft’s Activision Blizzard deal](https://www.theverge.com/news/673123/ftc-drops-case-microsoft-activision-blizzard-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
