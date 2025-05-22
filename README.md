@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is using its extensive data on users to give its AI models an advantage over OpenAI and Anthropic, starting with its opt-in Gemini with personalization &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250522/p13#a250522p13)
- - [Running app Strava raised new funding at a $2.2B valuation including debt, up from $1.5B after raising $110M in November 2020, and nears $500M in ARR &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p12#a250522p12)
- - [This nifty trick makes Android 16’s resizable Quick Settings even better](https://www.androidauthority.com/android-16-quick-settings-trick-3560263/)<!-- TECH:END -->
+ - [M&amp;S CEO Stuart Machin says hackers accessed the UK retailer&#39;s systems using social engineering tactics via a third-party supplier, putting M&amp;S &quot;on its backside&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p17#a250522p17)
+ - [Tantalizing details of Jony Ive&#39;s AI device leak after OpenAI meeting](https://appleinsider.com/articles/25/05/22/tantalizing-details-of-jony-ives-ai-device-leak-after-openai-meeting?utm_medium=rss)
+ - [FTC v. Meta: Meta rested its case on May 21 after four days of arguments, including that it faces hefty competition and helped build Instagram and WhatsApp &lpar;New York Times&rpar;](http://www.techmeme.com/250522/p16#a250522p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
