@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI product names are confusing as hell](https://www.theverge.com/tech/671116/google-ai-product-names-confusing-gemini-deepmind-astra)
- - [Flying this summer? Make sure you’re aware of this new rule about portable chargers](https://www.androidauthority.com/southwest-new-rule-portable-batteries-3560438/)
- - [Rode’s tiny wireless mic can now connect directly to your iPhone without a dongle](https://www.theverge.com/news/672777/rode-wireless-micro-microphone-bluetooth-direct-connect-iphone-ios)<!-- TECH:END -->
+ - [The new Mission: Impossible is a comedy wearing a convincing disguise](https://www.theverge.com/movie-reviews/671534/mission-impossible-the-final-reckoning-review)
+ - [3D Instagram photos are coming to Meta Quest headsets](https://www.theverge.com/news/672897/meta-instagram-3d-quest-vr-headsets-v77-update-navigator)
+ - [Google Wallet will now alert you about your ticket or pass right when you need it](https://www.androidauthority.com/google-wallet-nearby-passes-notification-3560426/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
