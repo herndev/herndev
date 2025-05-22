@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When Earth&#39;s curves prove a point](http://9gag.com/gag/aLnX6nv)
- - ⏩ [When gaming becomes a full-time job](http://9gag.com/gag/aQz261r)
- - 👉 [Just lose it](http://9gag.com/gag/avyRb8n)<!-- MEMES:END -->
+ - 💣 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
+ - ⏩ [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
+ - 👉 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)<!-- MEMES:END -->
 
 ---
 
