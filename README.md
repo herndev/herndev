@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
- - ⏩ [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 👉 [Guy being a saver](http://9gag.com/gag/aqyWqAv)<!-- MEMES:END -->
+ - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
+ - ⏩ [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
+ - 👉 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)<!-- MEMES:END -->
 
 ---
 
