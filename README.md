@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
- - ⏩ [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
- - 👉 [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)<!-- MEMES:END -->
+ - 💣 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
+ - ⏩ [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
+ - 👉 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)<!-- MEMES:END -->
 
 ---
 
