@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Wolf Statue locations and rewards in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599982/wolf-statues-locations-where-to-find-all)
- - [Should You Attack Demineur In Clair Obscur: Expedition 33?](https://kotaku.com/clair-obscur-expedition-33-lune-weapon-demineur-mine-1851781921)
- - [This ginormous caricature of a CPU cooler screen just about sums up Computex 2025, I think](https://www.pcgamer.com/hardware/cooling/this-ginormous-caricature-of-a-cpu-cooler-screen-just-about-sums-up-computex-2025-i-think/)<!-- GAME:END -->
+ - [The dark Pac-Man Metroidvania secretly has what I can only describe as Pac-Man Championship Edition 3 hidden inside of it](https://www.polygon.com/news/600899/shadow-labyrinth-pac-man-championship-edition-3-maze)
+ - [In this new medieval city builder that launched on Steam today, build a sprawling town with the help of companions who level up and train their own apprentices](https://www.pcgamer.com/games/city-builder/in-this-new-medieval-city-builder-that-launched-on-steam-today-build-a-sprawling-town-with-the-help-of-companions-who-level-up-and-train-their-own-apprentices/)
+ - [Ultron announced alongside new team-up attacks as part of Marvel Rivals Season 2.5](https://www.polygon.com/news/600880/ultron-announced-alongside-new-team-up-attacks-as-part-of-marvel-rivals-season-2-5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
