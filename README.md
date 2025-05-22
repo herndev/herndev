@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms Android 16’s flashiest trick is not just reserved for Pixel phones](https://www.androidauthority.com/android-16-live-updates-supported-devices-list-3560227/)
- - [Leaked recording: Sam Altman told staff that OpenAI aims to ship 100M AI &quot;companion&quot; devices, with the goal of releasing a device by late next year &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250521/p60#a250521p60)
- - [NYC-based Siro, which offers AI-powered coaching for sales reps, raised a $50M Series B led by SignalFire, bringing its total raised to $75M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250521/p59#a250521p59)<!-- TECH:END -->
+ - [Fujifilm’s X Half camera is so dedicated to the analog vibes, it can’t shoot RAW](https://www.theverge.com/news/672268/fujifilm-x-half-digital-compact-camera-fixed-lens-analog-price-specs)
+ - [An NY jury convicts Braden John Karony, the former CEO of cryptocurrency company SafeMoon, of conspiracy to defraud the US, money laundering, and wire fraud &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/250522/p2#a250522p2)
+ - [Marcos Galperin, founder and CEO of Latin American e-commerce giant MercadoLibre, will step down in late 2025 and be replaced by commerce head Ariel Szarfsztejn &lpar;Andre Romani/Reuters&rpar;](http://www.techmeme.com/250522/p1#a250522p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
