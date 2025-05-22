@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin reached a new all-time high, surpassing $110,000 and breaking its January record, after slumping to $74,000 in April &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250521/p52#a250521p52)
- - [Signal says it will block by default screenshots of its Windows 11 desktop app due to the privacy risks of Microsoft&#39;s Recall; users can enable them in settings &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250521/p51#a250521p51)
- - [Need an SD card? Check out this Samsung EVO Select deal!](https://www.androidauthority.com/samsung-evo-select-micro-sd-deal-3560160/)<!-- TECH:END -->
+ - [Google DeepMind says Gemini Diffusion, an experimental text diffusion model demoed at Google I/O and available by waitlist, generates 1,000-2,000 tokens/second &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250521/p54#a250521p54)
+ - [OpenAI updates its Responses API for building agentic applications to include remote MCP server support, image generation and Code Interpreter tools, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250521/p53#a250521p53)
+ - [Innocn 49Q1R 49-inch OLED monitor review: A display confused by some strange compromises](https://appleinsider.com/articles/25/05/22/innocn-49q1r-49-inch-oled-monitor-review-a-display-confused-by-some-strange-compromises?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
