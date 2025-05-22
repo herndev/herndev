@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon wants to wait longer before unlocking your phone](https://www.theverge.com/news/672565/verizon-fcc-phone-unlocking-requirement)
- - [Your iCloud password could be newly exposed from a giant password leak](https://appleinsider.com/articles/25/05/22/your-icloud-password-could-be-newly-exposed-from-a-giant-password-leak?utm_medium=rss)
- - [The Best Sleeping Pads For Campgrounds—Our Comfiest Picks &lpar;2025&rpar;](https://www.wired.com/gallery/best-camping-sleeping-pads/)<!-- TECH:END -->
+ - [Google’s Home APIs are gaining Gemini intelligence](https://www.theverge.com/news/672404/google-home-apis-gemini-intelligence-nest-smart-home)
+ - [Microsoft is racing to build an AI ‘agent factory’](https://www.theverge.com/notepad-microsoft-newsletter/672598/microsoft-ai-agent-factory-jay-parikh-interview)
+ - [Sources: the US DOJ recently told Google it is examining whether Google structured an agreement with Character.AI to avoid formal government merger scrutiny &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250522/p28#a250522p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
