@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 15&#39;s longest boss fight is coming to Magic: The Gathering, hopefully it won&#39;t take 30 days to defeat](https://www.pcgamer.com/games/card-games/final-fantasy-15s-longest-boss-fight-is-coming-to-magic-the-gathering-hopefully-it-wont-take-30-days-to-defeat/)
- - [Mafia: The Old Country: all the key details on the gritty gangster prequel](https://www.pcgamer.com/games/action/mafia-the-old-country-guide/)
- - [World of Warcraft game director details which combat add-ons are safe and which will be eliminated in the coming purge](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-game-director-details-which-combat-add-ons-are-safe-and-which-will-be-eliminated-in-the-coming-purge/)<!-- GAME:END -->
+ - [In an uncontroversial move that will bother no one, Lies of P is getting an easy mode](https://www.pcgamer.com/games/rpg/in-an-uncontroversial-move-that-will-bother-no-one-lies-of-p-is-getting-an-easy-mode/)
+ - [Gigantamax Machamp counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/600112/gigantamax-machamp-counters-weakness-tips)
+ - [Final Fantasy 15&#39;s longest boss fight is coming to Magic: The Gathering, hopefully it won&#39;t take 30 days to defeat](https://www.pcgamer.com/games/card-games/final-fantasy-15s-longest-boss-fight-is-coming-to-magic-the-gathering-hopefully-it-wont-take-30-days-to-defeat/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
