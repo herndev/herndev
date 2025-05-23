@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tempopo: How to Create Your Own Music in the Melody Garden](https://news.xbox.com/en-us/2025/05/23/tempopo-melody-garden-guide/)
- - [I&#39;ve swapped Windows for the latest SteamOS build on my Legion Go S and I&#39;m not going back](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ive-swapped-windows-for-the-latest-steamos-build-on-my-legion-go-s-and-im-not-going-back/)
- - [A Live-Action Elden Ring Movie Is Coming And No One&#39;s Quite Sure How To Feel About It](https://kotaku.com/elden-ring-movie-alex-garland-live-action-miyazaki-1851782134)<!-- GAME:END -->
+ - [Capcom Staff Pick Their Favorite Ally Reactions in Onimusha 2: Samurai’s Destiny](https://news.xbox.com/en-us/2025/05/23/capcom-staff-picks-favorite-ally-reactions-of-onimusha-2-samurais-destiny/)
+ - [This XCOM-style strategy game dares to ask: What if Napoleon Bonaparte was a woman who had an army of battlemechs?](https://www.pcgamer.com/games/strategy/this-xcom-style-strategy-game-dares-to-ask-what-if-napoleon-bonaparte-was-a-woman-who-had-an-army-of-battlemechs/)
+ - [If there was one non-AI Computex trend this year it&#39;s that everything needs a damned screen in or on it](https://www.pcgamer.com/hardware/gaming-monitors/if-there-was-one-non-ai-computex-trend-this-year-its-that-everything-needs-a-damned-screen-in-or-on-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
