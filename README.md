@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Text to Absolute Cinema, Veo3](http://9gag.com/gag/a872ryQ)
- - ⏩ [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 👉 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)<!-- MEMES:END -->
+ - 💣 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
+ - ⏩ [Dark humor at its finest](http://9gag.com/gag/a9yXbX1)
+ - 👉 [So, again I&#39;m asking you](http://9gag.com/gag/a1mLA7D)<!-- MEMES:END -->
 
 ---
 
