@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - ⏩ [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
- - 👉 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)<!-- MEMES:END -->
+ - 💣 [Dangerous](http://9gag.com/gag/a6Zpyw8)
+ - ⏩ [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
+ - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
 
 ---
 
