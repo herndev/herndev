@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord might use AI to help you catch up on conversations](https://www.theverge.com/apps/673208/discord-ai-forums-anniversary-gamechat)
- - [This new chip took everyone by surprise, but you’ll have to hold your horses on availability](https://www.androidauthority.com/no-xiaomi-xring-01-phones-global-markets-3560667/)
- - [Here’s how Samsung’s Antioxidant Index feature will work with Galaxy Watches &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-health-antioxidant-index-measurement-apk-teardown-3560656/)<!-- TECH:END -->
+ - [Nike returns to Amazon after a six-year hiatus](https://www.theverge.com/news/673370/nike-amazon-return-six-years-wholesaler)
+ - [It&#39;s National Don&#39;t Fry Day. Here&#39;s How to Check Your Skin for Signs of Cancer](https://www.cnet.com/health/medical/national-dont-fry-day-what-know-checking-skin-cancer/#ftag=CAD590a51e)
+ - [[Open Thread] Google may have changed the face of visual media forever, but is it for the good?](https://www.androidauthority.com/open-thread-google-veo-3-3560686/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
