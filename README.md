@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
- - ⏩ [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
- - 👉 [The progression of ALS](http://9gag.com/gag/a342oBe)<!-- MEMES:END -->
+ - 💣 [Food for reckoning](http://9gag.com/gag/aNDReb4)
+ - ⏩ [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
+ - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
 
 ---
 
