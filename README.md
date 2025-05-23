@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney&#39;s 23 Best And Most Memorable Songs Ever, Ranked](https://kotaku.com/disneys-23-best-and-most-memorable-songs-ever-ranked-1851781965)
- - [Introducing Call of Duty: Mobile Season 5 – Primal Reckoning](https://www.callofduty.com/blog/2025/05/call-of-duty-mobile-season-five-primal-reckoning#new_tab)
- - [Turns out, Mario Kart 8 has been gaslighting everyone for a decade](https://www.polygon.com/news/601168/mario-kart-8-200cc-true-speed)<!-- GAME:END -->
+ - [You&#39;re Gonna Want to Play Onimusha 2: Samurai&#39;s Destiny More Than Once](https://kotaku.com/onimusha-2-samurai-how-long-to-beat-multiple-endings-1851782224)
+ - [Some Switch 2 Games Will Support A USB Mouse](https://kotaku.com/switch-2-joy-con-controls-usb-mouse-keyboard-feature-1851782216)
+ - [Five Important Tips For Staying Alive In Onimusha 2: Samurai&#39;s Destiny](https://kotaku.com/onimusha-2-impale-orbs-save-weapons-samurai-nobunaga-1851782207)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
