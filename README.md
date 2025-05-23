@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Paradox is bringing back White Wolf for tabletop RPGs and at least one videogame](https://www.pcgamer.com/games/rpg/paradox-is-bringing-back-white-wolf-for-tabletop-rpgs-and-at-least-one-videogame/)
  - [Overwatch 2’s new hero bans probably mean changes for Sombra, Zarya, and others](https://www.polygon.com/news/601367/overwatch-2-hero-bans-changes-zarya-sombra)
- - [Most players &#39;know next to nothing about how games are made&#39;: New Blood devs sound off on gamedev misconceptions](https://www.pcgamer.com/gaming-industry/most-players-know-next-to-nothing-about-how-games-are-made-new-blood-devs-sound-off-on-gamedev-misconceptions/)
- - [Kotaku’s Weekend Guide: 3 Cool Games We’re Playing After An Impossible Week](https://kotaku.com/kotaku-games-to-play-bionic-bay-sleeper-metroid-prime-1851782270)<!-- GAME:END -->
+ - [Most players &#39;know next to nothing about how games are made&#39;: New Blood devs sound off on gamedev misconceptions](https://www.pcgamer.com/gaming-industry/most-players-know-next-to-nothing-about-how-games-are-made-new-blood-devs-sound-off-on-gamedev-misconceptions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
