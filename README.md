@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;re Gonna Want to Play Onimusha 2: Samurai&#39;s Destiny More Than Once](https://kotaku.com/onimusha-2-samurai-how-long-to-beat-multiple-endings-1851782224)
- - [Some Switch 2 Games Will Support A USB Mouse](https://kotaku.com/switch-2-joy-con-controls-usb-mouse-keyboard-feature-1851782216)
- - [Five Important Tips For Staying Alive In Onimusha 2: Samurai&#39;s Destiny](https://kotaku.com/onimusha-2-impale-orbs-save-weapons-samurai-nobunaga-1851782207)<!-- GAME:END -->
+ - [&#39;We&#39;re gonna do right by you&#39;: Splitgate 2 CEO apologizes for server meltdown after the open beta goes live](https://www.pcgamer.com/games/fps/were-gonna-do-right-by-you-splitgate-2-ceo-apologizes-for-server-meltdown-after-the-open-beta-goes-live/)
+ - [Best Verso build in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/601154/best-verso-build-attributes-skills-weapon-luminas-pictos)
+ - [Valve adds SteamOS support for its Steam Deck rivals](https://www.polygon.com/hardware/601144/valve-adds-steamos-support-for-its-steam-deck-rivals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
