@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dark humor at its finest](http://9gag.com/gag/a9yXbX1)
- - ⏩ [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
- - 👉 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)<!-- MEMES:END -->
+ - 💣 [Worker walking on a wind turbine](http://9gag.com/gag/aPAQNzB)
+ - ⏩ [Hey Dave remember when you pretended to throw the ball and I was looking for it.? Well here you go asshole](http://9gag.com/gag/a0e1m4d)
+ - 👉 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)<!-- MEMES:END -->
 
 ---
 
