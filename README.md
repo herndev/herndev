@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Laggy Google TV device? New ones are about to get worse, thanks to Google.](https://www.androidauthority.com/google-tv-low-ram-tvs-3560651/)
- - [Google’s Veo 3 Is generating mind-blowing AI videos: Here are the craziest ones yet!](https://www.androidauthority.com/google-veo-3-best-ai-videos-3560650/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 23, #242](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-23-242/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Discord might use AI to help you catch up on conversations](https://www.theverge.com/apps/673208/discord-ai-forums-anniversary-gamechat)
+ - [This new chip took everyone by surprise, but you’ll have to hold your horses on availability](https://www.androidauthority.com/no-xiaomi-xring-01-phones-global-markets-3560667/)
+ - [Here’s how Samsung’s Antioxidant Index feature will work with Galaxy Watches &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-health-antioxidant-index-measurement-apk-teardown-3560656/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
