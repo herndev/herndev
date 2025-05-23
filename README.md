@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, May 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-23-2025/)
  - [Warhammer 40,000&#39;s space dwarfs will make their videogame debut in turn-based tactics sequel Mechanicus 2 this year](https://www.pcgamer.com/games/strategy/warhammer-40-000s-space-dwarfs-will-make-their-videogame-debut-in-turn-based-tactics-sequel-mechanicus-2-this-year/)
- - [Every Marvel movie and TV release set for 2025 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)
- - [Elden Ring movie coming from Civil War and Annihilation director](https://www.polygon.com/movies/598330/elden-ring-movie-alex-garland-a24)<!-- GAME:END -->
+ - [Every Marvel movie and TV release set for 2025 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
