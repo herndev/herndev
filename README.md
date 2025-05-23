@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Laggy Google TV device? New ones are about to get worse, thanks to Google.](https://www.androidauthority.com/google-tv-low-ram-tvs-3560651/)
  - [Google’s Veo 3 Is generating mind-blowing AI videos: Here are the craziest ones yet!](https://www.androidauthority.com/google-veo-3-best-ai-videos-3560650/)
- - [PitchBook: emerging managers in VC, defined as those with three or fewer funds, raised $17B in the US in 2024, down from $64B in 2021, and $4.7B so far in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p2#a250523p2)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 23, #242](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-23-242/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
