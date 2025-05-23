@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube hires longtime Disney exec to head up live sports](https://www.theverge.com/news/673139/youtube-disney-justin-connolly-sports-media-head)
- - [Tech CEOs are using AI to replace themselves](https://www.theverge.com/news/673194/tech-ceos-zoom-klarna-replace-earnings)
- - [Ricoh is finally making a GR IV camera, and it&amp;#8217;s coming in the fall](https://www.theverge.com/news/673127/ricoh-gr-iv-street-photography-camera-specs-announcement)<!-- TECH:END -->
+ - [Where to preorder the Pro 2 controller and other Switch 2 accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
+ - [Marvel&amp;#8217;s next two Avengers have been delayed](https://www.theverge.com/news/673265/marvel-studios-avengers-doomsday-secret-wars-delayed)
+ - [Fire Breaks Out at a Data Center Leased by Elon Musk’s X](https://www.wired.com/story/elon-musk-x-datacenter-fire/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
