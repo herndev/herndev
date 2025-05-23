@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 Edge review: a fresh take on the baseline model with its thin design and a good 200-megapixel camera but mediocre battery life and high price &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/250523/p13#a250523p13)
- - [Aqara can help expand your Apple Home to other ecosystems with Matter](https://appleinsider.com/articles/25/05/23/aqara-can-help-expand-your-apple-home-to-other-ecosystems-with-matter?utm_medium=rss)
- - [Sony made its shooting grip better for creators working without a crew](https://www.theverge.com/news/673508/sony-gpvpt3-multi-function-shooting-grip-camera-alpha-series-vlogging)<!-- TECH:END -->
+ - [Vestaboard’s Note is a smaller, cheaper version of its hypnotic split-flap display](https://www.theverge.com/news/673559/vestaboard-note-split-flap-mechanical-display)
+ - [Here’s how you can get a Nintendo Switch 2 at launch — or at least try to](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
+ - [Sources: Tim Cook called Texas Gov. Greg Abbott last week urging a veto or changes to a bill requiring Apple to verify users&#39; ages on its devices &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250523/p15#a250523p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
