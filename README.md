@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says Operator, its AI agent that can use the web to perform tasks, will soon use a model based on o3 after previously using a custom version of GPT-4o &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250523/p19#a250523p19)
- - [Material 3 Expressive’s approach to dynamic app color is sounding better and better](https://www.androidauthority.com/material-3-expressive-color-3560841/)
- - [The FAA is taking extra precautions for SpaceX’s next Starship test flight](https://www.theverge.com/news/673709/spacex-starship-super-heavy-booster-rocket-faa-test-flight-nine)<!-- TECH:END -->
+ - [Apple tested M3 Ultra MacBook Pro, early iOS 18 code leaks](https://appleinsider.com/articles/25/05/23/apple-tested-m3-ultra-macbook-pro-early-ios-18-code-leaks?utm_medium=rss)
+ - [President Trump says that the tariffs he has threatened against Apple would also be aimed at &quot;Samsung and anybody that makes that product&quot; &lpar;Jennifer A Dlouhy/Bloomberg&rpar;](http://www.techmeme.com/250523/p21#a250523p21)
+ - [Apple is hitting back in the war over internet age-gating](https://www.theverge.com/internet-censorship/673771/apple-texas-age-verification-law-objection-tim-cook)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
