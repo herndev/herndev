@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10% Off Canon Promo Code and Coupons](https://www.wired.com/story/canon-promo-code/)
- - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
- - [An interview with Niantic CEO John Hanke on the company selling its games business, pivoting to enterprise AI, returning to its digital mapping roots, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250523/p1#a250523p1)<!-- TECH:END -->
+ - [Laggy Google TV device? New ones are about to get worse, thanks to Google.](https://www.androidauthority.com/google-tv-low-ram-tvs-3560651/)
+ - [Google’s Veo 3 Is generating mind-blowing AI videos: Here are the craziest ones yet!](https://www.androidauthority.com/google-veo-3-best-ai-videos-3560650/)
+ - [PitchBook: emerging managers in VC, defined as those with three or fewer funds, raised $17B in the US in 2024, down from $64B in 2021, and $4.7B so far in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p2#a250523p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
