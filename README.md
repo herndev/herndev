@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tom the Mime Brings the Best Vibe](http://9gag.com/gag/aPAXw2Q)
- - ⏩ [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
- - 👉 [She just doesn&#39;t understand the drip.](http://9gag.com/gag/a7oN5gx)<!-- MEMES:END -->
+ - 💣 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
+ - ⏩ [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
+ - 👉 [The progression of ALS](http://9gag.com/gag/a342oBe)<!-- MEMES:END -->
 
 ---
 
