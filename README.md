@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Switch 2 will let you plug in an actual mouse, thank goodness](https://www.polygon.com/nintendo-switch-2/601403/joy-con-2-real-mouse-usb-will-work)
- - [Konami re-recorded the Snake Eater theme for Metal Gear Solid Delta, but don&#39;t worry—it&#39;s still the same excellent vocalist belting &quot;Snaaaaaaaaake Eaaaterrrrrrrrr&quot;](https://www.pcgamer.com/games/action/konami-re-recorded-the-snake-eater-theme-for-metal-gear-solid-delta-but-dont-worry-its-still-the-same-excellent-vocalist-belting-snaaaaaaaaake-eaaaterrrrrrrrr/)
- - [How to hide in hiding spots in Fortnite](https://www.polygon.com/fortnite-guide/601334/hiding-spots-how-to-hide-where-locations-best)<!-- GAME:END -->
+ - [Overwatch 2’s new hero bans probably mean changes for Sombra, Zarya, and others](https://www.polygon.com/news/601367/overwatch-2-hero-bans-changes-zarya-sombra)
+ - [Most players &#39;know next to nothing about how games are made&#39;: New Blood devs sound off on gamedev misconceptions](https://www.pcgamer.com/gaming-industry/most-players-know-next-to-nothing-about-how-games-are-made-new-blood-devs-sound-off-on-gamedev-misconceptions/)
+ - [Kotaku’s Weekend Guide: 3 Cool Games We’re Playing After An Impossible Week](https://kotaku.com/kotaku-games-to-play-bionic-bay-sleeper-metroid-prime-1851782270)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
