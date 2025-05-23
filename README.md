@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon has canceled its Wheel of Time series](https://www.theverge.com/news/673899/amazon-wheel-of-time-canceled)
- - [Good news, bad news: Garmin smartwatches get several new features, but not all of them are free](https://www.androidauthority.com/garmin-smartwatches-get-several-new-features-3560948/)
- - [AirPods, AirPods Pro, AirPods Max: What to expect from Apple&#39;s future audio accessories](https://appleinsider.com/articles/25/05/23/airpods-airpods-pro-airpods-max-what-to-expect-from-apples-future-audio-accessories?utm_medium=rss)<!-- TECH:END -->
+ - [WHOOP’s new high-end fitness tracker is just straight-up dying all over the place](https://www.androidauthority.com/whoop-mg-failures-3560936/)
+ - [Forget streaming; this upcoming Android wants to full-on emulate your favorite PC games](https://www.androidauthority.com/redmagic-10s-pro-pc-emulator-3560991/)
+ - [Presidential seals, ‘light vetting,’ $100,000 gem-encrusted watches, and a Marriott afterparty](https://www.theverge.com/politics/673870/trump-meme-coin-dinner-justin-sun-watch-presidential-seal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
