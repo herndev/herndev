@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shop Like a Supervillian](https://www.wired.com/story/gear-shop-like-a-supervillain/)
- - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)
- - [Trump threatens 25% tariff on iPhones, but your Android phone isn’t safe either](https://www.androidauthority.com/president-trump-25-percent-tariff-threat-apple-3560749/)<!-- TECH:END -->
+ - [Samsung Galaxy S25 Edge review: a fresh take on the baseline model with its thin design and a good 200-megapixel camera but mediocre battery life and high price &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/250523/p13#a250523p13)
+ - [Aqara can help expand your Apple Home to other ecosystems with Matter](https://appleinsider.com/articles/25/05/23/aqara-can-help-expand-your-apple-home-to-other-ecosystems-with-matter?utm_medium=rss)
+ - [Sony made its shooting grip better for creators working without a crew](https://www.theverge.com/news/673508/sony-gpvpt3-multi-function-shooting-grip-camera-alpha-series-vlogging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
