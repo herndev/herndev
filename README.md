@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fujifilm X Half hands-on: Whimsical, refreshing and simply fun](https://www.theverge.com/tech/673538/fujifilm-x-half-camera-hands-on)
- - [How the China-U.S. trade fight is putting your device purchases at risk](https://appleinsider.com/articles/25/05/23/how-the-china-us-trade-fight-is-putting-your-device-purchases-at-risk?utm_medium=rss)
- - [Elon Musk Says He&#39;ll Step Back From the Government. DOGE Isn&#39;t Going Anywhere](https://www.wired.com/story/elon-musk-stepping-back-doge-final-form/)<!-- TECH:END -->
+ - [OpenAI says Operator, its AI agent that can use the web to perform tasks, will soon use a model based on o3 after previously using a custom version of GPT-4o &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250523/p19#a250523p19)
+ - [Material 3 Expressive’s approach to dynamic app color is sounding better and better](https://www.androidauthority.com/material-3-expressive-color-3560841/)
+ - [The FAA is taking extra precautions for SpaceX’s next Starship test flight](https://www.theverge.com/news/673709/spacex-starship-super-heavy-booster-rocket-faa-test-flight-nine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
