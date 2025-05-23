@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A hornet attacking a bees nest is swarmed by hundreds of bees protecting the hive](http://9gag.com/gag/amoMjK9)
- - ⏩ [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
- - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
+ - 💣 [Dark humor at its finest](http://9gag.com/gag/a9yXbX1)
+ - ⏩ [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
+ - 👉 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)<!-- MEMES:END -->
 
 ---
 
