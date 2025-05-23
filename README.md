@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: CommScope is exploring a sale of its broadband connectivity and cable arm CCS for up to $10B, seeking to unload assets to repay debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p23#a250523p23)
- - [Just as feared, White House confirms 25% tariffs will impact Samsung and other phone makers](https://www.androidauthority.com/samsung-25-tariffs-3560954/)
- - [Trump tries to ban Harvard from enrolling international students](https://www.theverge.com/policy/673759/harvard-international-students-trump-dhs-sevis)<!-- TECH:END -->
+ - [Amazon has canceled its Wheel of Time series](https://www.theverge.com/news/673899/amazon-wheel-of-time-canceled)
+ - [Good news, bad news: Garmin smartwatches get several new features, but not all of them are free](https://www.androidauthority.com/garmin-smartwatches-get-several-new-features-3560948/)
+ - [AirPods, AirPods Pro, AirPods Max: What to expect from Apple&#39;s future audio accessories](https://appleinsider.com/articles/25/05/23/airpods-airpods-pro-airpods-max-what-to-expect-from-apples-future-audio-accessories?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
