@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tested M3 Ultra MacBook Pro, early iOS 18 code leaks](https://appleinsider.com/articles/25/05/23/apple-tested-m3-ultra-macbook-pro-early-ios-18-code-leaks?utm_medium=rss)
- - [President Trump says that the tariffs he has threatened against Apple would also be aimed at &quot;Samsung and anybody that makes that product&quot; &lpar;Jennifer A Dlouhy/Bloomberg&rpar;](http://www.techmeme.com/250523/p21#a250523p21)
- - [Apple is hitting back in the war over internet age-gating](https://www.theverge.com/internet-censorship/673771/apple-texas-age-verification-law-objection-tim-cook)<!-- TECH:END -->
+ - [Sources: CommScope is exploring a sale of its broadband connectivity and cable arm CCS for up to $10B, seeking to unload assets to repay debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p23#a250523p23)
+ - [Just as feared, White House confirms 25% tariffs will impact Samsung and other phone makers](https://www.androidauthority.com/samsung-25-tariffs-3560954/)
+ - [Trump tries to ban Harvard from enrolling international students](https://www.theverge.com/policy/673759/harvard-international-students-trump-dhs-sevis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
