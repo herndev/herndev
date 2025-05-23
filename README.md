@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Sheets for Every Bed and Budget, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-bedsheets/)
- - [NotebookLM is my favorite AI tool, but wow, its Android version is bad!](https://www.androidauthority.com/notebooklm-android-app-3560318/)
- - [Vietnam orders ISPs to block Telegram over its failure to prevent illegal content and activities, including fraud, drug sales and suspected terrorism on the app &lpar;Francesca Stevens/Bloomberg&rpar;](http://www.techmeme.com/250523/p4#a250523p4)<!-- TECH:END -->
+ - [Inside Pages for Mac -- how to get the most out of Apple&#39;s best writing tool](https://appleinsider.com/articles/25/05/23/inside-pages-for-mac----how-to-get-the-most-out-of-apples-best-writing-tool?utm_medium=rss)
+ - [Trump demands 25% tariff on any iPhone not made in the US](https://appleinsider.com/articles/25/05/23/trump-demands-25-tariff-on-any-iphone-not-made-in-the-us?utm_medium=rss)
+ - [Trump threatens Apple with a 25 percent iPhone tariff](https://www.theverge.com/news/673424/trump-apple-iphone-tariff-25-percent-india)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
