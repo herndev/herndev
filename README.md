@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The voice actor for FF14&#39;s Alphinaud finally reaches Heavensward, sees his own work after 10 years in all its &#39;jumpscare&#39; glory](https://www.pcgamer.com/games/final-fantasy/the-voice-actor-for-ff14s-alphinaud-finally-reaches-heavensward-sees-his-own-work-after-10-years-in-all-its-jumpscare-glory/)
- - [If you never played the original The Witcher RPG then here&#39;s a heads-up—the censorship-free Enhanced Edition is now dirt cheap](https://www.pcgamer.com/games/the-witcher/if-you-never-played-the-original-the-witcher-rpg-then-heres-a-heads-up-the-censorship-free-enhanced-edition-is-now-dirt-cheap/)
- - [PNY and Palit have stolen my heart at Computex with their clean and shiny RTX 50-series graphics cards](https://www.pcgamer.com/hardware/graphics-cards/pny-and-palit-have-stolen-my-heart-at-computex-with-their-clean-and-shiny-rtx-50-series-graphics-cards/)<!-- GAME:END -->
+ - [Noctua finally cracks the case market with a fan-equipped chassis that &#39;can substantially reduce noise&#39; and now I want an all-Noctua rig](https://www.pcgamer.com/hardware/pc-cases/noctua-finally-cracks-the-case-market-with-a-fan-equipped-chassis-that-can-substantially-reduce-noise-and-now-i-want-an-all-noctua-rig/)
+ - [&#39;We&#39;ll call you back&#39;: BioWare&#39;s first impression of The Witcher 1 was a bad demo, followed by CDPR declaring that they wanted to &#39;create the best RPG game ever&#39;](https://www.pcgamer.com/games/the-witcher/well-call-you-back-biowares-first-impression-of-the-witcher-1-was-a-bad-demo-followed-by-cdpr-declaring-that-they-wanted-to-create-the-best-rpg-game-ever/)
+ - [Marvel delays both upcoming Avengers movies](https://www.polygon.com/marvel/601082/avengers-doomsday-secret-wars-delayed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
