@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nike returns to Amazon after a six-year hiatus](https://www.theverge.com/news/673370/nike-amazon-return-six-years-wholesaler)
- - [It&#39;s National Don&#39;t Fry Day. Here&#39;s How to Check Your Skin for Signs of Cancer](https://www.cnet.com/health/medical/national-dont-fry-day-what-know-checking-skin-cancer/#ftag=CAD590a51e)
- - [[Open Thread] Google may have changed the face of visual media forever, but is it for the good?](https://www.androidauthority.com/open-thread-google-veo-3-3560686/)<!-- TECH:END -->
+ - [Best Sheets for Every Bed and Budget, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-bedsheets/)
+ - [NotebookLM is my favorite AI tool, but wow, its Android version is bad!](https://www.androidauthority.com/notebooklm-android-app-3560318/)
+ - [Vietnam orders ISPs to block Telegram over its failure to prevent illegal content and activities, including fraud, drug sales and suspected terrorism on the app &lpar;Francesca Stevens/Bloomberg&rpar;](http://www.techmeme.com/250523/p4#a250523p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
