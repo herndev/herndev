@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I bet you haven’t seen a first-person shooter quite like this](https://www.polygon.com/gaming/601052/mouse-pi-for-hire-six-one-indie-showcase)
- - [Elden Ring Nightreign director says the game was built for squads of three and &#39;doesn&#39;t collapse if it&#39;s a solo player,&#39; but admits that duos have gone &#39;kind of overlooked&#39;](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-director-says-the-game-was-built-for-squads-of-three-and-doesnt-collapse-if-its-a-solo-player-but-admits-that-duos-have-gone-kind-of-overlooked/)
- - [11 Big Announcements From The Warhammer Skulls Showcase That Have Us Excited](https://kotaku.com/11-big-announcements-from-the-warhammer-skulls-showcase-1851782063)<!-- GAME:END -->
+ - [It&#39;s real: A live-action Elden Ring movie from A24 and Alex Garland is in the works](https://www.pcgamer.com/movies-tv/elden-ring-movie-announcement/)
+ - [&#39;We hear you&#39;: RoadCraft dev will address early negative feedback with hotfixes, free new vehicles, and a &#39;Hard Mode&#39; with systems like fuel management](https://www.pcgamer.com/games/sim/we-hear-you-roadcraft-dev-will-address-early-negative-feedback-with-hotfixes-free-new-vehicles-and-a-hard-mode-with-systems-like-fuel-management/)
+ - [I bet you haven’t seen a first-person shooter quite like this](https://www.polygon.com/gaming/601052/mouse-pi-for-hire-six-one-indie-showcase)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
