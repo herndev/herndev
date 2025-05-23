@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: companies co-owned by JPMorgan Chase, BOA, Citigroup, Wells Fargo, and other large commercial banks are exploring whether to issue a joint stablecoin &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250522/p57#a250522p57)
- - [Bluesky lets &quot;notable and authentic&quot; accounts apply for blue check verification and enables select organizations to become Trusted Verifiers to verify others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250522/p56#a250522p56)
- - [Keychron K15 Max review: Low-profile and quiet Alice ergonomic keyboard](https://appleinsider.com/articles/25/05/23/keychron-k15-max-review-low-profile-and-quiet-alice-ergonomic-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [UK-based R3, a blockchain tech developer for financial institutions, partners with the Solana Foundation to let R3 customers use the Solana blockchain &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250522/p58#a250522p58)
+ - [Marvel Rivals&#39; Sharknado Team-Up Ability Cements the Game&#39;s Fun Direction](https://www.cnet.com/tech/gaming/marvel-rivals-sharknado-team-up-ability-cements-the-games-fun-direction/#ftag=CAD590a51e)
+ - [Sources: companies co-owned by JPMorgan Chase, BOA, Citigroup, Wells Fargo, and other large commercial banks are exploring whether to issue a joint stablecoin &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250522/p57#a250522p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
