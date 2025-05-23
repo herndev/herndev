@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [FTC drops 2-year case against Microsoft&#39;s $68.7 billion acquisition of Activision Blizzard](https://www.pcgamer.com/hardware/ftc-drops-2-year-case-against-microsofts-usd68-7-billion-acquisition-of-activision-blizzard/)
  - [Akuma Joins Monster Hunter Wilds for a Street Fighter 6 Collaboration](https://news.xbox.com/en-us/2025/05/23/monster-hunter-wilds-street-fighter-6-akuma-collaboration-crossover/)
- - [HTC Vive makes impending tariffs a sales event, giving US consumers one last chance to jump into VR before the price hikes](https://www.pcgamer.com/hardware/vr-hardware/htc-vive-makes-impending-tariffs-a-sales-event-giving-us-consumers-one-last-chance-to-jump-into-vr-before-the-price-hikes/)
- - [Valve certifies the Lenovo Legion Go S for SteamOS, improves AMD compatibility, controller support, and officially brings 80% limiting to SteamOS in 3.7.8 update](https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-certifies-the-lenovo-legion-go-s-for-steamos-improves-amd-compatibility-controller-support-and-officially-brings-80-percent-limiting-to-steamos-in-3-7-8-update/)<!-- GAME:END -->
+ - [HTC Vive makes impending tariffs a sales event, giving US consumers one last chance to jump into VR before the price hikes](https://www.pcgamer.com/hardware/vr-hardware/htc-vive-makes-impending-tariffs-a-sales-event-giving-us-consumers-one-last-chance-to-jump-into-vr-before-the-price-hikes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
