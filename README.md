@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Attack on Titan’s Global Impact Award is vindication after the undeserved backlash](https://www.polygon.com/opinion/601039/attack-on-titan-finale-backlash-crunchyroll-award)
- - [The SteelSeries Arctis Nova Pro Wireless headset is now at the best price I&#39;ve seen at only $229](https://www.pcgamer.com/hardware/gaming-headsets/the-steelseries-arctis-nova-pro-wireless-headset-is-now-at-the-best-price-ive-seen-at-only-usd229/)
- - [Tom Cruise&#39;s Hair In Every Mission: Impossible Movie, Ranked](https://kotaku.com/mission-impossible-ethan-haircut-best-hair-long-mi2-1851782046)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for May 26 to 30](https://news.xbox.com/en-us/2025/05/23/next-week-on-xbox-new-games-for-may-26-to-30/)
+ - [&#39;They listened! They listened!&#39;: Stalker restores Soviet monument after angry fans tanked its Steam reviews, and they couldn&#39;t be happier](https://www.pcgamer.com/games/fps/they-listened-they-listened-stalker-restores-soviet-monument-after-angry-fans-tanked-its-steam-reviews-and-they-couldnt-be-happier/)
+ - [The Elden Ring movie director already made the best video game-brained movie](https://www.polygon.com/opinion/601104/elden-ring-alex-garland-dredd-video-game-movies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
