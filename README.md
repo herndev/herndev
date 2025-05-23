@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We&#39;re gonna do right by you&#39;: Splitgate 2 CEO apologizes for server meltdown after the open beta goes live](https://www.pcgamer.com/games/fps/were-gonna-do-right-by-you-splitgate-2-ceo-apologizes-for-server-meltdown-after-the-open-beta-goes-live/)
- - [Best Verso build in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/601154/best-verso-build-attributes-skills-weapon-luminas-pictos)
- - [Valve adds SteamOS support for its Steam Deck rivals](https://www.polygon.com/hardware/601144/valve-adds-steamos-support-for-its-steam-deck-rivals)<!-- GAME:END -->
+ - [The Switch 2 will let you plug in an actual mouse, thank goodness](https://www.polygon.com/nintendo-switch-2/601403/joy-con-2-real-mouse-usb-will-work)
+ - [Konami re-recorded the Snake Eater theme for Metal Gear Solid Delta, but don&#39;t worry—it&#39;s still the same excellent vocalist belting &quot;Snaaaaaaaaake Eaaaterrrrrrrrr&quot;](https://www.pcgamer.com/games/action/konami-re-recorded-the-snake-eater-theme-for-metal-gear-solid-delta-but-dont-worry-its-still-the-same-excellent-vocalist-belting-snaaaaaaaaake-eaaaterrrrrrrrr/)
+ - [How to hide in hiding spots in Fortnite](https://www.polygon.com/fortnite-guide/601334/hiding-spots-how-to-hide-where-locations-best)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
