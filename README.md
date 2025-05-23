@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worker walking on a wind turbine](http://9gag.com/gag/aPAQNzB)
- - ⏩ [Hey Dave remember when you pretended to throw the ball and I was looking for it.? Well here you go asshole](http://9gag.com/gag/a0e1m4d)
- - 👉 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)<!-- MEMES:END -->
+ - 💣 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
+ - ⏩ [A refined gentlemen](http://9gag.com/gag/a7o24B2)
+ - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
 
 ---
 
