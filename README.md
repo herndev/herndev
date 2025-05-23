@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Noctua finally cracks the case market with a fan-equipped chassis that &#39;can substantially reduce noise&#39; and now I want an all-Noctua rig](https://www.pcgamer.com/hardware/pc-cases/noctua-finally-cracks-the-case-market-with-a-fan-equipped-chassis-that-can-substantially-reduce-noise-and-now-i-want-an-all-noctua-rig/)
- - [&#39;We&#39;ll call you back&#39;: BioWare&#39;s first impression of The Witcher 1 was a bad demo, followed by CDPR declaring that they wanted to &#39;create the best RPG game ever&#39;](https://www.pcgamer.com/games/the-witcher/well-call-you-back-biowares-first-impression-of-the-witcher-1-was-a-bad-demo-followed-by-cdpr-declaring-that-they-wanted-to-create-the-best-rpg-game-ever/)
- - [Marvel delays both upcoming Avengers movies](https://www.polygon.com/marvel/601082/avengers-doomsday-secret-wars-delayed)<!-- GAME:END -->
+ - [Attack on Titan’s Global Impact Award is vindication after the undeserved backlash](https://www.polygon.com/opinion/601039/attack-on-titan-finale-backlash-crunchyroll-award)
+ - [The SteelSeries Arctis Nova Pro Wireless headset is now at the best price I&#39;ve seen at only $229](https://www.pcgamer.com/hardware/gaming-headsets/the-steelseries-arctis-nova-pro-wireless-headset-is-now-at-the-best-price-ive-seen-at-only-usd229/)
+ - [Tom Cruise&#39;s Hair In Every Mission: Impossible Movie, Ranked](https://kotaku.com/mission-impossible-ethan-haircut-best-hair-long-mi2-1851782046)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
