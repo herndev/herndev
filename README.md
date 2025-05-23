@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The logic seems... flawed.](http://9gag.com/gag/avyvgZO)
- - ⏩ [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)
- - 👉 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)<!-- MEMES:END -->
+ - 💣 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - ⏩ [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)
+ - 👉 [Still one of the best loops I&#39;ve ever seen](http://9gag.com/gag/aMVXrbW)<!-- MEMES:END -->
 
 ---
 
