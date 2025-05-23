@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Staff Pick Their Favorite Ally Reactions in Onimusha 2: Samurai’s Destiny](https://news.xbox.com/en-us/2025/05/23/capcom-staff-picks-favorite-ally-reactions-of-onimusha-2-samurais-destiny/)
- - [This XCOM-style strategy game dares to ask: What if Napoleon Bonaparte was a woman who had an army of battlemechs?](https://www.pcgamer.com/games/strategy/this-xcom-style-strategy-game-dares-to-ask-what-if-napoleon-bonaparte-was-a-woman-who-had-an-army-of-battlemechs/)
- - [If there was one non-AI Computex trend this year it&#39;s that everything needs a damned screen in or on it](https://www.pcgamer.com/hardware/gaming-monitors/if-there-was-one-non-ai-computex-trend-this-year-its-that-everything-needs-a-damned-screen-in-or-on-it/)<!-- GAME:END -->
+ - [Starfield: New Watchtower Creation Adds Faction, Ship Attachments and More](https://bethesda.net/en/game/starfield/article/5Titm0FxMBpO7YQvPmrQTw/starfields-may-update#new_tab)
+ - [Best Monoco build in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/600974/best-monoco-build-attributes-skills-weapon-luminas-pictos)
+ - [How To Change Alma’s Outfit And Glasses In Monster Hunter Wilds](https://kotaku.com/monster-hunter-wilds-mh-alma-glasses-outfit-1851782067)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
