@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vestaboard’s Note is a smaller, cheaper version of its hypnotic split-flap display](https://www.theverge.com/news/673559/vestaboard-note-split-flap-mechanical-display)
- - [Here’s how you can get a Nintendo Switch 2 at launch — or at least try to](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
- - [Sources: Tim Cook called Texas Gov. Greg Abbott last week urging a veto or changes to a bill requiring Apple to verify users&#39; ages on its devices &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250523/p15#a250523p15)<!-- TECH:END -->
+ - [Fujifilm X Half hands-on: Whimsical, refreshing and simply fun](https://www.theverge.com/tech/673538/fujifilm-x-half-camera-hands-on)
+ - [How the China-U.S. trade fight is putting your device purchases at risk](https://appleinsider.com/articles/25/05/23/how-the-china-us-trade-fight-is-putting-your-device-purchases-at-risk?utm_medium=rss)
+ - [Elon Musk Says He&#39;ll Step Back From the Government. DOGE Isn&#39;t Going Anywhere](https://www.wired.com/story/elon-musk-stepping-back-doge-final-form/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
