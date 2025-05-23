@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: companies co-owned by JPMorgan Chase, BOA, Citigroup, Wells Fargo, and other large commercial banks are exploring whether to issue a joint stablecoin &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250522/p57#a250522p57)
  - [Bluesky lets &quot;notable and authentic&quot; accounts apply for blue check verification and enables select organizations to become Trusted Verifiers to verify others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250522/p56#a250522p56)
- - [Keychron K15 Max review: Low-profile and quiet Alice ergonomic keyboard](https://appleinsider.com/articles/25/05/23/keychron-k15-max-review-low-profile-and-quiet-alice-ergonomic-keyboard?utm_medium=rss)
- - [Valve releases SteamOS 3.7.8, adding support for the Lenovo Legion Go S, a recovery image to install SteamOS on other AMD handhelds like the ROG Ally, and more &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250522/p55#a250522p55)<!-- TECH:END -->
+ - [Keychron K15 Max review: Low-profile and quiet Alice ergonomic keyboard](https://appleinsider.com/articles/25/05/23/keychron-k15-max-review-low-profile-and-quiet-alice-ergonomic-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
