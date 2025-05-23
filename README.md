@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield: New Watchtower Creation Adds Faction, Ship Attachments and More](https://bethesda.net/en/game/starfield/article/5Titm0FxMBpO7YQvPmrQTw/starfields-may-update#new_tab)
- - [Best Monoco build in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/600974/best-monoco-build-attributes-skills-weapon-luminas-pictos)
- - [How To Change Alma’s Outfit And Glasses In Monster Hunter Wilds](https://kotaku.com/monster-hunter-wilds-mh-alma-glasses-outfit-1851782067)<!-- GAME:END -->
+ - [Disney&#39;s 23 Best And Most Memorable Songs Ever, Ranked](https://kotaku.com/disneys-23-best-and-most-memorable-songs-ever-ranked-1851781965)
+ - [Introducing Call of Duty: Mobile Season 5 – Primal Reckoning](https://www.callofduty.com/blog/2025/05/call-of-duty-mobile-season-five-primal-reckoning#new_tab)
+ - [Turns out, Mario Kart 8 has been gaslighting everyone for a decade](https://www.polygon.com/news/601168/mario-kart-8-200cc-true-speed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
