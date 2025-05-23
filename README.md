@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dangerous](http://9gag.com/gag/a6Zpyw8)
- - ⏩ [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
- - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
+ - 💣 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
+ - ⏩ [An ad made on a $500 AI app credit. Production like this typically cost $500,000 when using real actors](http://9gag.com/gag/ae923G5)
+ - 👉 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)<!-- MEMES:END -->
 
 ---
 
