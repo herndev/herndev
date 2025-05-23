@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve certifies the Lenovo Legion Go S for SteamOS, improves AMD compatibility, controller support, and officially brings 80% limiting to SteamOS in 3.7.8 update](https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-certifies-the-lenovo-legion-go-s-for-steamos-improves-amd-compatibility-controller-support-and-officially-brings-80-percent-limiting-to-steamos-in-3-7-8-update/)
- - [Three Warhammer games are free to keep as part of this year&#39;s Warhammer Skulls event](https://www.pcgamer.com/games/three-warhammer-games-are-free-to-keep-as-part-of-this-years-warhammer-skulls-event/)
- - [Light No Fire: Everything we know about Hello Games&#39; planet-sized survival game](https://www.pcgamer.com/games/survival-crafting/light-no-fire-guide/)<!-- GAME:END -->
+ - [Akuma Joins Monster Hunter Wilds for a Street Fighter 6 Collaboration](https://news.xbox.com/en-us/2025/05/23/monster-hunter-wilds-street-fighter-6-akuma-collaboration-crossover/)
+ - [HTC Vive makes impending tariffs a sales event, giving US consumers one last chance to jump into VR before the price hikes](https://www.pcgamer.com/hardware/vr-hardware/htc-vive-makes-impending-tariffs-a-sales-event-giving-us-consumers-one-last-chance-to-jump-into-vr-before-the-price-hikes/)
+ - [Valve certifies the Lenovo Legion Go S for SteamOS, improves AMD compatibility, controller support, and officially brings 80% limiting to SteamOS in 3.7.8 update](https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-certifies-the-lenovo-legion-go-s-for-steamos-improves-amd-compatibility-controller-support-and-officially-brings-80-percent-limiting-to-steamos-in-3-7-8-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
