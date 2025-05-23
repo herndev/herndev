@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
- - ⏩ [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
- - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
+ - 💣 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - ⏩ [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
+ - 👉 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)<!-- MEMES:END -->
 
 ---
 
