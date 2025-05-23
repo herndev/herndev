@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Three Warhammer games are free to keep as part of this year&#39;s Warhammer Skulls event](https://www.pcgamer.com/games/three-warhammer-games-are-free-to-keep-as-part-of-this-years-warhammer-skulls-event/)
  - [Light No Fire: Everything we know about Hello Games&#39; planet-sized survival game](https://www.pcgamer.com/games/survival-crafting/light-no-fire-guide/)
- - [Today&#39;s Wordle answer for Friday, May 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-23-2025/)
- - [Warhammer 40,000&#39;s space dwarfs will make their videogame debut in turn-based tactics sequel Mechanicus 2 this year](https://www.pcgamer.com/games/strategy/warhammer-40-000s-space-dwarfs-will-make-their-videogame-debut-in-turn-based-tactics-sequel-mechanicus-2-this-year/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, May 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-23-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
