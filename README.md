@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WHOOP’s new high-end fitness tracker is just straight-up dying all over the place](https://www.androidauthority.com/whoop-mg-failures-3560936/)
- - [Forget streaming; this upcoming Android wants to full-on emulate your favorite PC games](https://www.androidauthority.com/redmagic-10s-pro-pc-emulator-3560991/)
- - [Presidential seals, ‘light vetting,’ $100,000 gem-encrusted watches, and a Marriott afterparty](https://www.theverge.com/politics/673870/trump-meme-coin-dinner-justin-sun-watch-presidential-seal)<!-- TECH:END -->
+ - [Android phones are surviving stuff they really shouldn’t right now](https://www.androidauthority.com/galaxy-s23-ultra-survives-underwater-3561020/)
+ - [Freedom of the Press Foundation Threatens Legal Action if Paramount Settles With Trump Over &#39;60 Minutes&#39; Interview](https://www.wired.com/story/freedom-of-the-press-foundation-paramount-trump-settlement/)
+ - [NBA Playoffs 2025: How to Watch Pacers vs. Knicks Game 2 Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-pacers-vs-knicks-game-2-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
