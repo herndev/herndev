@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where to preorder the Pro 2 controller and other Switch 2 accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
- - [Marvel&amp;#8217;s next two Avengers have been delayed](https://www.theverge.com/news/673265/marvel-studios-avengers-doomsday-secret-wars-delayed)
- - [Fire Breaks Out at a Data Center Leased by Elon Musk’s X](https://www.wired.com/story/elon-musk-x-datacenter-fire/)<!-- TECH:END -->
+ - [Bluesky lets &quot;notable and authentic&quot; accounts apply for blue check verification and enables select organizations to become Trusted Verifiers to verify others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250522/p56#a250522p56)
+ - [Keychron K15 Max review: Low-profile and quiet Alice ergonomic keyboard](https://appleinsider.com/articles/25/05/23/keychron-k15-max-review-low-profile-and-quiet-alice-ergonomic-keyboard?utm_medium=rss)
+ - [Valve releases SteamOS 3.7.8, adding support for the Lenovo Legion Go S, a recovery image to install SteamOS on other AMD handhelds like the ROG Ally, and more &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250522/p55#a250522p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
