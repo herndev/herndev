@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s next Pixel needs faster silicon, now that China is building beasts like this](https://www.androidauthority.com/xring-o1-vs-tensor-g5-3560358/)
- - [Glitch is basically shutting down](https://www.theverge.com/news/673457/glitch-coding-platform-shutting-down)
- - [Trump hosted a gala dinner for the top buyers of his memecoin, including Justin Sun, and reaffirmed his commitment to making the US the world&#39;s &quot;crypto capital&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250523/p9#a250523p9)<!-- TECH:END -->
+ - [Shop Like a Supervillian](https://www.wired.com/story/gear-shop-like-a-supervillain/)
+ - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)
+ - [Trump threatens 25% tariff on iPhones, but your Android phone isn’t safe either](https://www.androidauthority.com/president-trump-25-percent-tariff-threat-apple-3560749/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
