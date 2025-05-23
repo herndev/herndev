@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Food for reckoning](http://9gag.com/gag/aNDReb4)
- - ⏩ [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
- - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
+ - 💣 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
+ - ⏩ [Food for reckoning](http://9gag.com/gag/aNDReb4)
+ - 👉 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)<!-- MEMES:END -->
 
 ---
 
