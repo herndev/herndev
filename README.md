@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How does this work?](http://9gag.com/gag/a9yXMA0)
- - ⏩ [Nixon checks if Brezhnev is signing the document, which Brezhnev turns into a joke](http://9gag.com/gag/a2v2QB1)
- - 👉 [An ad made on a $500 AI app credit. Production like this typically cost $500,000 when using real actors](http://9gag.com/gag/ae923G5)<!-- MEMES:END -->
+ - 💣 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)
+ - ⏩ [Giggity](http://9gag.com/gag/apRAEdE)
+ - 👉 [Nixon checks if Brezhnev is signing the document, which Brezhnev turns into a joke](http://9gag.com/gag/a2v2QB1)<!-- MEMES:END -->
 
 ---
 
