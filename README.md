@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for May 26 to 30](https://news.xbox.com/en-us/2025/05/23/next-week-on-xbox-new-games-for-may-26-to-30/)
- - [&#39;They listened! They listened!&#39;: Stalker restores Soviet monument after angry fans tanked its Steam reviews, and they couldn&#39;t be happier](https://www.pcgamer.com/games/fps/they-listened-they-listened-stalker-restores-soviet-monument-after-angry-fans-tanked-its-steam-reviews-and-they-couldnt-be-happier/)
- - [The Elden Ring movie director already made the best video game-brained movie](https://www.polygon.com/opinion/601104/elden-ring-alex-garland-dredd-video-game-movies)<!-- GAME:END -->
+ - [Tempopo: How to Create Your Own Music in the Melody Garden](https://news.xbox.com/en-us/2025/05/23/tempopo-melody-garden-guide/)
+ - [I&#39;ve swapped Windows for the latest SteamOS build on my Legion Go S and I&#39;m not going back](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ive-swapped-windows-for-the-latest-steamos-build-on-my-legion-go-s-and-im-not-going-back/)
+ - [A Live-Action Elden Ring Movie Is Coming And No One&#39;s Quite Sure How To Feel About It](https://kotaku.com/elden-ring-movie-alex-garland-live-action-miyazaki-1851782134)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
