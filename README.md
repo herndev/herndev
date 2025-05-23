@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
- - ⏩ [Undercover footage smuggled out of North Korea shows reporter Kim Dong-cheol briefly interviewing a homeless 23-year-old girl in rural North Korea.](http://9gag.com/gag/aqyWvoR)
- - 👉 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)<!-- MEMES:END -->
+ - 💣 [Text to Absolute Cinema, Veo3](http://9gag.com/gag/a872ryQ)
+ - ⏩ [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 👉 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)<!-- MEMES:END -->
 
 ---
 
