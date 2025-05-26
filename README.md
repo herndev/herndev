@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Full Pixel 10 wallpaper collection leaked: Download them all here!](https://www.androidauthority.com/google-pixel-10-wallpapers-3561126/)
  - [Highlights from the system prompts of Claude Opus 4 and Claude Sonnet 4, including model safety, avoiding sycophancy, and not regurgitating copyrighted content &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250525/p17#a250525p17)
- - [Tools like Microsoft Copilot are helping execs, managers, and staff quickly catch up on work after a vacation by triaging emails and summarizing Slack threads &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250525/p16#a250525p16)
- - [Study: users in China&#39;s Henan province were on average denied access to 5x more websites than a typical Chinese internet user between Nov. 2023 and March 2025 &lpar;Amy Hawkins/The Guardian&rpar;](http://www.techmeme.com/250525/p15#a250525p15)<!-- TECH:END -->
+ - [Tools like Microsoft Copilot are helping execs, managers, and staff quickly catch up on work after a vacation by triaging emails and summarizing Slack threads &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250525/p16#a250525p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
