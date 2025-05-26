@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [NetherRealm says it&#39;s done releasing major updates for Mortal Kombat 1: &#39;Our team … needs to shift focus to the next project&#39;](https://www.pcgamer.com/games/fighting/netherrealm-says-its-done-releasing-major-updates-for-mortal-kombat-1-our-team-needs-to-shift-focus-to-the-next-project/)
  - [Morrowind with every texture deleted is a beautiful magenta fever dream](https://www.pcgamer.com/games/the-elder-scrolls/morrowind-with-every-texture-deleted-is-a-beautiful-magenta-fever-dream/)
- - [10 superheroes who deserve to star in their own AAA games](https://www.polygon.com/comics/600993/superhero-video-games-we-need)
- - [The best videogame RPGs are really tabletop RPGs in disguise—and that might just be their secret sauce](https://www.pcgamer.com/games/rpg/the-best-videogame-rpgs-are-really-tabletop-rpgs-in-disguise-and-that-might-just-be-their-secret-sauce/)<!-- GAME:END -->
+ - [10 superheroes who deserve to star in their own AAA games](https://www.polygon.com/comics/600993/superhero-video-games-we-need)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
