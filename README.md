@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Full Pixel 10 wallpaper collection leaked: Download them all here!](https://www.androidauthority.com/google-pixel-10-wallpapers-3561126/)
- - [Highlights from the system prompts of Claude Opus 4 and Claude Sonnet 4, including model safety, avoiding sycophancy, and not regurgitating copyrighted content &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250525/p17#a250525p17)
- - [Tools like Microsoft Copilot are helping execs, managers, and staff quickly catch up on work after a vacation by triaging emails and summarizing Slack threads &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250525/p16#a250525p16)<!-- TECH:END -->
+ - [Pixel 10 colorways leak: Say hello to ‘Limoncello’](https://www.androidauthority.com/pixel-10-colors-3561134/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 26, #245](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-26-245/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 26, #715](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-26-715/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
