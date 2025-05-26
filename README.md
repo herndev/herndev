@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
- - ⏩ [AGI is here.](http://9gag.com/gag/abA2My8)
- - 👉 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)<!-- MEMES:END -->
+ - 💣 [The Emperor protects](http://9gag.com/gag/a87wo9d)
+ - ⏩ [Emergency Medical situation game changer?](http://9gag.com/gag/aO81dEE)
+ - 👉 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)<!-- MEMES:END -->
 
 ---
 
