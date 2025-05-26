@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No emulator required: Star Fox 64 fan port now available on Steam Deck and Switch](https://www.androidauthority.com/star-fox-64-steam-deck-switch-3561301/)
- - [Survey shows Gmail users would gladly sacrifice features for more privacy](https://www.androidauthority.com/gmail-proton-mail-privacy-poll-result-3561277/)
- - [Meta&#39;s AI team is facing a talent drain, with just three of the 14 authors credited on the landmark 2023 Llama paper still at Meta; several joined Mistral &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/250526/p13#a250526p13)<!-- TECH:END -->
+ - [A database tracking instances where lawyers got caught presenting AI hallucinations shows that, of 116 cases dating back to June 2023, 20 occurred this month &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p15#a250526p15)
+ - [Gemini’s working on a nice usability upgrade for its text responses &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-sharing-text-responses-3561309/)
+ - [The EU says Shein&#39;s practices breach rules against false discounts, deceptive product labels, and more, and warn that it could face fines if it doesn&#39;t comply &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250526/p14#a250526p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
