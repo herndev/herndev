@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2025 Roku Smart TV gets first price drop in Amazon Memorial Day sale](https://www.androidauthority.com/2025-roku-smart-tv-deal-3561330/)
- - [A database tracking instances where lawyers got caught presenting AI hallucinations shows that, of 116 cases dating back to June 2023, 20 occurred this month &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p15#a250526p15)
- - [Gemini’s working on a nice usability upgrade for its text responses &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-sharing-text-responses-3561309/)<!-- TECH:END -->
+ - [Nikon’s cameras are about to get more expensive in the US because of tariffs](https://www.theverge.com/news/674481/nikon-camera-imaging-products-price-increase-adjustment-june-tariffs)
+ - [People are using ChatGPT for unsparing assessments of their looks, with many also asking the chatbot to create plans to &quot;glow up&quot; their appearance &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/250526/p16#a250526p16)
+ - [2025 Roku Smart TV gets first price drop in Amazon Memorial Day sale](https://www.androidauthority.com/2025-roku-smart-tv-deal-3561330/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
