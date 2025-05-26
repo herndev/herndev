@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us Season Two, Episode Seven Recap: Abby Road](https://kotaku.com/last-of-us-season-2-episode-7-finale-recap-abby-jesse-1851782357)
- - [Five new Steam games you probably missed &lpar;May 26, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-26-2025/)
- - [&#39;They&#39;re very determined, suddenly, to see your game fail&#39;: Former Dragon Age writer calls out &#39;anti-fans&#39; who bet on games failing before launch](https://www.pcgamer.com/games/dragon-age/theyre-very-determined-suddenly-to-see-your-game-fail-former-dragon-age-writer-calls-out-anti-fans-who-bet-on-games-failing-before-launch/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, May 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-26-2025/)
+ - [Total War: Warhammer 3 DLC Tides of Torment promises to add a treacherous mutant and finally give Warhammer&#39;s smartest troll his due](https://www.pcgamer.com/games/strategy/total-war-warhammer-3-dlc-tides-of-torment-promises-to-add-a-treacherous-mutant-and-finally-give-warhammers-smartest-troll-his-due/)
+ - [‘Never say never’: The Last of Us writers say Joel could return in new seasons](https://www.polygon.com/entertainment/601534/last-of-us-joel-future-season-3-beyond)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
