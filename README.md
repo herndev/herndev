@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Car HUDs Are Bad. Jaguar Land Rover Is Testing Tech to Change That](https://www.wired.com/story/car-huds-are-bad-jaguar-land-rover-is-testing-tech-to-change-that/)
- - [Chinese food delivery giant Meituan reports Q1 revenue up 18.1% to ~$12.1B, vs. $12B est., net profit up 87.3% YoY to ~$1.4B, as it expands outside China &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250526/p5#a250526p5)
- - [At its Build conference, Microsoft sought to show its key role in the AI industry, with Sam Altman, Elon Musk, and Jensen Huang making virtual appearances &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250526/p4#a250526p4)<!-- TECH:END -->
+ - [24 Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-3/)
+ - [A Starter Guide to Protecting Your Data From Hackers and Corporations](https://www.wired.com/story/guide-protect-data-from-hackers-corporations/)
+ - [Sources: Tim Cook declined a WH invitation to join Jensen Huang and others on Trump&#39;s Middle East trip, during which Trump criticized Cook and praised Huang &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250526/p6#a250526p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
