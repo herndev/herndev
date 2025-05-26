@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Paradox is bringing back White Wolf for tabletop RPGs and at least one videogame](https://www.pcgamer.com/games/rpg/paradox-is-bringing-back-white-wolf-for-tabletop-rpgs-and-at-least-one-videogame/)
- - [Overwatch 2’s new hero bans probably mean changes for Sombra, Zarya, and others](https://www.polygon.com/news/601367/overwatch-2-hero-bans-changes-zarya-sombra)
- - [Most players &#39;know next to nothing about how games are made&#39;: New Blood devs sound off on gamedev misconceptions](https://www.pcgamer.com/gaming-industry/most-players-know-next-to-nothing-about-how-games-are-made-new-blood-devs-sound-off-on-gamedev-misconceptions/)<!-- GAME:END -->
+ - [Desktop Survivors 98 is an action roguelike that moves at the speed of your mouse, which is to say pretty fast](https://www.pcgamer.com/games/roguelike/desktop-survivors-98-is-an-action-roguelike-that-moves-at-the-speed-of-your-mouse-which-is-to-say-pretty-fast/)
+ - [Warhammer 40,000 games Darktide and Rogue Trader enjoyed a sales bump due to the popularity of Space Marine 2](https://www.pcgamer.com/games/warhammer-40-000-games-darktide-and-rogue-trader-enjoyed-a-sales-bump-due-to-the-popularity-of-space-marine-2/)
+ - [&#39;Majority of gamers are still playing at 1080p&#39;: AMD chief claims there&#39;s still a place for 8GB GPUs, and he&#39;s got a point](https://www.pcgamer.com/hardware/graphics-cards/majority-of-gamers-are-still-playing-at-1080p-amd-chief-claims-theres-still-a-place-for-8gb-gpus-and-hes-got-a-point/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
