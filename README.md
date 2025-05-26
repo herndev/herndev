@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8 could help you become a better runner, one level at a time](https://www.androidauthority.com/one-ui-8-running-coach-leak-3561196/)
- - [We’ve got access to Veo 3, so give us your ideas for videos!](https://www.androidauthority.com/google-veo-3-community-ideas-3561148/)
- - [If the Pixel 10 doesn’t have great battery life, there really is no saving Tensor](https://www.androidauthority.com/google-pixel-10-weakness-save-tensor-3561182/)<!-- TECH:END -->
+ - [Nintendo&amp;#8217;s bold new era is full of safe bets](https://www.theverge.com/nintendo/671949/nintendo-switch-2-era-risks)
+ - [Spotify is trying out a new way to help you find fresh music](https://www.androidauthority.com/spotify-sub-genre-chips-test-3561238/)
+ - [The 14 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
