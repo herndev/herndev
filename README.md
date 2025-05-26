@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
- - ⏩ [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
- - 👉 [In the other news grass is green](http://9gag.com/gag/a2vboRY)<!-- MEMES:END -->
+ - 💣 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)
+ - ⏩ [Sad rock music](http://9gag.com/gag/aoy8NE2)
+ - 👉 [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)<!-- MEMES:END -->
 
 ---
 
