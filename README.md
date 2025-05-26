@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ghost rider - jackass version](http://9gag.com/gag/aLnX8Pv)
- - ⏩ [Writers&#39; go-to move.](http://9gag.com/gag/agm2V1K)
- - 👉 [He really forgot she was there.](http://9gag.com/gag/a2vb5mZ)<!-- MEMES:END -->
+ - 💣 [Usurper!](http://9gag.com/gag/aKGYBRZ)
+ - ⏩ [In my neighborhood at Barcelona, someone tried to erase the women\u2019s faces by drawing hijabs over them but the community is fighting back, carefully removing the paint and restoring the original artwork.](http://9gag.com/gag/aPAX9DP)
+ - 👉 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)<!-- MEMES:END -->
 
 ---
 
