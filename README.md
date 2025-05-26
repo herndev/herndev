@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A month after Electronic Arts mashed the brakes, WRC rally racing games are coming back with a &#39;complete reboot&#39; under a new publisher](https://www.pcgamer.com/games/racing/a-month-after-electronic-arts-mashed-the-brakes-wrc-rally-racing-games-are-coming-back-with-a-complete-reboot-under-a-new-publisher/)
  - [Gabe Newell co-founded a neuroscience company in 2019 and its first brain chip is expected to ship later this year](https://www.pcgamer.com/hardware/gabe-newell-co-founded-a-neuroscience-company-in-2019-and-its-first-brain-chip-is-expected-to-ship-later-this-year/)
- - [NetherRealm says it&#39;s done releasing major updates for Mortal Kombat 1: &#39;Our team … needs to shift focus to the next project&#39;](https://www.pcgamer.com/games/fighting/netherrealm-says-its-done-releasing-major-updates-for-mortal-kombat-1-our-team-needs-to-shift-focus-to-the-next-project/)
- - [Morrowind with every texture deleted is a beautiful magenta fever dream](https://www.pcgamer.com/games/the-elder-scrolls/morrowind-with-every-texture-deleted-is-a-beautiful-magenta-fever-dream/)<!-- GAME:END -->
+ - [NetherRealm says it&#39;s done releasing major updates for Mortal Kombat 1: &#39;Our team … needs to shift focus to the next project&#39;](https://www.pcgamer.com/games/fighting/netherrealm-says-its-done-releasing-major-updates-for-mortal-kombat-1-our-team-needs-to-shift-focus-to-the-next-project/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
