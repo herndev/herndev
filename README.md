@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
- - ⏩ [Give this man a raise.](http://9gag.com/gag/aoy82Lg)
- - 👉 [Pizza has arrived.](http://9gag.com/gag/aryBOG6)<!-- MEMES:END -->
+ - 💣 [The commitment is real](http://9gag.com/gag/aLnXD56)
+ - ⏩ [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
+ - 👉 [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)<!-- MEMES:END -->
 
 ---
 
