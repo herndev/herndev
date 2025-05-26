@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android phones are surviving stuff they really shouldn’t right now](https://www.androidauthority.com/galaxy-s23-ultra-survives-underwater-3561020/)
- - [Freedom of the Press Foundation Threatens Legal Action if Paramount Settles With Trump Over &#39;60 Minutes&#39; Interview](https://www.wired.com/story/freedom-of-the-press-foundation-paramount-trump-settlement/)
- - [NBA Playoffs 2025: How to Watch Pacers vs. Knicks Game 2 Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-pacers-vs-knicks-game-2-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tools like Microsoft Copilot are helping execs, managers, and staff quickly catch up on work after a vacation by triaging emails and summarizing Slack threads &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250525/p16#a250525p16)
+ - [Study: users in China&#39;s Henan province were on average denied access to 5x more websites than a typical Chinese internet user between Nov. 2023 and March 2025 &lpar;Amy Hawkins/The Guardian&rpar;](http://www.techmeme.com/250525/p15#a250525p15)
+ - [Source: the main topic at WWDC will be a redesigned software interface, dubbed Solarium, for all of Apple&#39;s operating systems, including tvOS and watchOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250525/p14#a250525p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
