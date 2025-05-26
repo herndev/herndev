@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This type of shit happens often](http://9gag.com/gag/ae92bbO)
- - ⏩ [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)
- - 👉 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)<!-- MEMES:END -->
+ - ⏩ [Always the Deadly lemons](http://9gag.com/gag/awy4nxW)
+ - 👉 [That quote hit different, for real.](http://9gag.com/gag/awy4Qxr)<!-- MEMES:END -->
 
 ---
 
