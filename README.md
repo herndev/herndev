@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)
- - ⏩ [Sad rock music](http://9gag.com/gag/aoy8NE2)
- - 👉 [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)<!-- MEMES:END -->
+ - 💣 [Dave Chappelle always has a way with words.](http://9gag.com/gag/ayNQXW8)
+ - ⏩ [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)
+ - 👉 [Return to monke](http://9gag.com/gag/azxZXXb)<!-- MEMES:END -->
 
 ---
 
