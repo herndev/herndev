@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Escape from Duckov is coming back with a new demo](https://www.pcgamer.com/games/survival-crafting/escape-from-duckov-is-coming-back-with-a-new-demo/)
- - [Rick and Morty’s phone-charger dystopia was inspired by a Dan Harmon Valentine’s Day gift](https://www.polygon.com/tv/600901/rick-and-morty-season-8-episode-1-dan-harmon-interview)
- - [Today&#39;s Wordle answer for Monday, May 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-26-2025/)<!-- GAME:END -->
+ - [Oblivion Remastered is great and all, but Morrowind remains the Bethesda RPG that I could play forever](https://www.pcgamer.com/games/rpg/oblivion-remastered-is-great-and-all-but-morrowind-remains-the-bethesda-rpg-that-i-could-play-forever/)
+ - [It turns out the gigantic rats you have to kill in so many RPG quests are totally real, and now I need to apologise to RPG designers](https://www.pcgamer.com/games/rpg/it-turns-out-the-gigantic-rats-you-have-to-kill-in-so-many-rpg-quests-are-totally-real-and-now-i-need-to-apologise-to-rpg-designers/)
+ - [Escape from Duckov is coming back with a new demo](https://www.pcgamer.com/games/survival-crafting/escape-from-duckov-is-coming-back-with-a-new-demo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
