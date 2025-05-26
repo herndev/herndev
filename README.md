@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2025 Roku Smart TV gets first price drop in Amazon Memorial Day sale](https://www.androidauthority.com/2025-roku-smart-tv-deal-3561330/)
  - [A database tracking instances where lawyers got caught presenting AI hallucinations shows that, of 116 cases dating back to June 2023, 20 occurred this month &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p15#a250526p15)
- - [Gemini’s working on a nice usability upgrade for its text responses &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-sharing-text-responses-3561309/)
- - [The EU says Shein&#39;s practices breach rules against false discounts, deceptive product labels, and more, and warn that it could face fines if it doesn&#39;t comply &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250526/p14#a250526p14)<!-- TECH:END -->
+ - [Gemini’s working on a nice usability upgrade for its text responses &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-sharing-text-responses-3561309/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
