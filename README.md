@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was there...](http://9gag.com/gag/a34Wj41)
- - ⏩ [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
- - 👉 [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)<!-- MEMES:END -->
+ - 💣 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
+ - ⏩ [Give this man a raise.](http://9gag.com/gag/aoy82Lg)
+ - 👉 [Pizza has arrived.](http://9gag.com/gag/aryBOG6)<!-- MEMES:END -->
 
 ---
 
