@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 colorways leak: Say hello to ‘Limoncello’](https://www.androidauthority.com/pixel-10-colors-3561134/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 26, #245](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-26-245/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 26, #715](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-26-715/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia&#39;s WiseTech agrees to buy US cloud logistics firm E2open for $2.1B including debt, offering $3.30 per share, a 24.5% premium on E2open&#39;s May 23 close &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/250526/p1#a250526p1)
+ - [Google caught filming Pixel 10 ad on Vancouver beach](https://www.androidauthority.com/pixel-10-ad-shoot-leak-3561139/)
+ - [Pixel 10 colorways leak: Say hello to ‘Limoncello’](https://www.androidauthority.com/pixel-10-colors-3561134/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
