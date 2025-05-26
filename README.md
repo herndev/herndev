@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could use the best chipmaker all the way until Pixel 14](https://www.androidauthority.com/google-tsmc-pixel-14-3561153/)
- - [PSA: Your old Fire TV devices will soon lose Netflix support](https://www.androidauthority.com/old-fire-tv-devices-will-soon-lose-netflix-support-3561149/)
- - [OpenAI sets up a legal entity in South Korea and plans a Seoul office, its third in Asia, and says the country has the most paying ChatGPT users outside the US &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250526/p2#a250526p2)<!-- TECH:END -->
+ - [The Milky Way Has a Mysterious ‘Broken Bone’](https://www.wired.com/story/the-milky-way-has-a-mysterious-broken-bone-nasa/)
+ - [Sources: SoftBank&#39;s Masayoshi Son pitched a joint US-Japan sovereign fund to top DC and Tokyo officials to back large tech and infrastructure projects in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250526/p3#a250526p3)
+ - [Google could use the best chipmaker all the way until Pixel 14](https://www.androidauthority.com/google-tsmc-pixel-14-3561153/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
