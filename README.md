@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rick and Morty’s phone-charger dystopia was inspired by a Dan Harmon Valentine’s Day gift](https://www.polygon.com/tv/600901/rick-and-morty-season-8-episode-1-dan-harmon-interview)
  - [Today&#39;s Wordle answer for Monday, May 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-26-2025/)
- - [Total War: Warhammer 3 DLC Tides of Torment promises to add a treacherous mutant and finally give Warhammer&#39;s smartest troll his due](https://www.pcgamer.com/games/strategy/total-war-warhammer-3-dlc-tides-of-torment-promises-to-add-a-treacherous-mutant-and-finally-give-warhammers-smartest-troll-his-due/)
- - [‘Never say never’: The Last of Us writers say Joel could return in new seasons](https://www.polygon.com/entertainment/601534/last-of-us-joel-future-season-3-beyond)<!-- GAME:END -->
+ - [Total War: Warhammer 3 DLC Tides of Torment promises to add a treacherous mutant and finally give Warhammer&#39;s smartest troll his due](https://www.pcgamer.com/games/strategy/total-war-warhammer-3-dlc-tides-of-torment-promises-to-add-a-treacherous-mutant-and-finally-give-warhammers-smartest-troll-his-due/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
