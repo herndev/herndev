@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
- - ⏩ [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
- - 👉 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)<!-- MEMES:END -->
+ - 💣 [Ghost rider - jackass version](http://9gag.com/gag/aLnX8Pv)
+ - ⏩ [Writers&#39; go-to move.](http://9gag.com/gag/agm2V1K)
+ - 👉 [He really forgot she was there.](http://9gag.com/gag/a2vb5mZ)<!-- MEMES:END -->
 
 ---
 
