@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Desktop Survivors 98 is an action roguelike that moves at the speed of your mouse, which is to say pretty fast](https://www.pcgamer.com/games/roguelike/desktop-survivors-98-is-an-action-roguelike-that-moves-at-the-speed-of-your-mouse-which-is-to-say-pretty-fast/)
- - [Warhammer 40,000 games Darktide and Rogue Trader enjoyed a sales bump due to the popularity of Space Marine 2](https://www.pcgamer.com/games/warhammer-40-000-games-darktide-and-rogue-trader-enjoyed-a-sales-bump-due-to-the-popularity-of-space-marine-2/)
- - [&#39;Majority of gamers are still playing at 1080p&#39;: AMD chief claims there&#39;s still a place for 8GB GPUs, and he&#39;s got a point](https://www.pcgamer.com/hardware/graphics-cards/majority-of-gamers-are-still-playing-at-1080p-amd-chief-claims-theres-still-a-place-for-8gb-gpus-and-hes-got-a-point/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;May 26, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-26-2025/)
+ - [&#39;They&#39;re very determined, suddenly, to see your game fail&#39;: Former Dragon Age writer calls out &#39;anti-fans&#39; who bet on games failing before launch](https://www.pcgamer.com/games/dragon-age/theyre-very-determined-suddenly-to-see-your-game-fail-former-dragon-age-writer-calls-out-anti-fans-who-bet-on-games-failing-before-launch/)
+ - [A Roblox farming game made by a teenager &#39;in like three days&#39; had 8.9 million players online at the same time—Steam peaked at 11.5 million across all games on the same day](https://www.pcgamer.com/games/survival-crafting/a-roblox-farming-game-made-by-a-teenager-in-like-three-days-had-8-9-million-players-online-at-the-same-time-steam-peaked-at-11-5-million-across-all-games-on-the-same-day/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
