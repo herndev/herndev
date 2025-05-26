@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
- - ⏩ [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 👉 [Svalbard](http://9gag.com/gag/aD2XjVw)<!-- MEMES:END -->
+ - 💣 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
+ - ⏩ [AGI is here.](http://9gag.com/gag/abA2My8)
+ - 👉 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)<!-- MEMES:END -->
 
 ---
 
