@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google caught filming Pixel 10 ad on Vancouver beach](https://www.androidauthority.com/pixel-10-ad-shoot-leak-3561139/)
- - [Pixel 10 colorways leak: Say hello to ‘Limoncello’](https://www.androidauthority.com/pixel-10-colors-3561134/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 26, #245](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-26-245/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google could use the best chipmaker all the way until Pixel 14](https://www.androidauthority.com/google-tsmc-pixel-14-3561153/)
+ - [PSA: Your old Fire TV devices will soon lose Netflix support](https://www.androidauthority.com/old-fire-tv-devices-will-soon-lose-netflix-support-3561149/)
+ - [OpenAI sets up a legal entity in South Korea and plans a Seoul office, its third in Asia, and says the country has the most paying ChatGPT users outside the US &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250526/p2#a250526p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
