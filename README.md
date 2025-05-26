@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Byond game engine suffers a weeks-long DDoS attack, apparently because a wanna-be Bond villain is trying to force it to go open source: &#39;Attacks on Byond servers are a symptom of your obstinance&#39;](https://www.pcgamer.com/games/byond-game-engine-suffers-a-weeks-long-ddos-attack-apparently-because-a-wanna-be-bond-villain-is-trying-to-force-it-to-go-open-source-attacks-on-byond-servers-are-a-symptom-of-your-obstinance/)
  - [Pick up the Left 4 Dead games for cheaper than a pack of gum in the new Steam sale that&#39;s all about zombies, and also vampires](https://www.pcgamer.com/games/pick-up-the-left-4-dead-games-for-cheaper-than-a-pack-of-gum-in-the-new-steam-sale-thats-all-about-zombies-and-also-vampires/)
- - [A month after Electronic Arts mashed the brakes, WRC rally racing games are coming back with a &#39;complete reboot&#39; under a new publisher](https://www.pcgamer.com/games/racing/a-month-after-electronic-arts-mashed-the-brakes-wrc-rally-racing-games-are-coming-back-with-a-complete-reboot-under-a-new-publisher/)
- - [Gabe Newell co-founded a neuroscience company in 2019 and its first brain chip is expected to ship later this year](https://www.pcgamer.com/hardware/gabe-newell-co-founded-a-neuroscience-company-in-2019-and-its-first-brain-chip-is-expected-to-ship-later-this-year/)<!-- GAME:END -->
+ - [A month after Electronic Arts mashed the brakes, WRC rally racing games are coming back with a &#39;complete reboot&#39; under a new publisher](https://www.pcgamer.com/games/racing/a-month-after-electronic-arts-mashed-the-brakes-wrc-rally-racing-games-are-coming-back-with-a-complete-reboot-under-a-new-publisher/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
