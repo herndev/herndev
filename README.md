@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In the other news grass is green](http://9gag.com/gag/a2vboRY)
- - ⏩ [Return to monke](http://9gag.com/gag/azxZXXb)
- - 👉 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)<!-- MEMES:END -->
+ - 💣 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
+ - ⏩ [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)
+ - 👉 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)<!-- MEMES:END -->
 
 ---
 
