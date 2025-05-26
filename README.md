@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pick up the Left 4 Dead games for cheaper than a pack of gum in the new Steam sale that&#39;s all about zombies, and also vampires](https://www.pcgamer.com/games/pick-up-the-left-4-dead-games-for-cheaper-than-a-pack-of-gum-in-the-new-steam-sale-thats-all-about-zombies-and-also-vampires/)
  - [A month after Electronic Arts mashed the brakes, WRC rally racing games are coming back with a &#39;complete reboot&#39; under a new publisher](https://www.pcgamer.com/games/racing/a-month-after-electronic-arts-mashed-the-brakes-wrc-rally-racing-games-are-coming-back-with-a-complete-reboot-under-a-new-publisher/)
- - [Gabe Newell co-founded a neuroscience company in 2019 and its first brain chip is expected to ship later this year](https://www.pcgamer.com/hardware/gabe-newell-co-founded-a-neuroscience-company-in-2019-and-its-first-brain-chip-is-expected-to-ship-later-this-year/)
- - [NetherRealm says it&#39;s done releasing major updates for Mortal Kombat 1: &#39;Our team … needs to shift focus to the next project&#39;](https://www.pcgamer.com/games/fighting/netherrealm-says-its-done-releasing-major-updates-for-mortal-kombat-1-our-team-needs-to-shift-focus-to-the-next-project/)<!-- GAME:END -->
+ - [Gabe Newell co-founded a neuroscience company in 2019 and its first brain chip is expected to ship later this year](https://www.pcgamer.com/hardware/gabe-newell-co-founded-a-neuroscience-company-in-2019-and-its-first-brain-chip-is-expected-to-ship-later-this-year/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
