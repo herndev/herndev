@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just another day at the office.](http://9gag.com/gag/aMVXAQX)
- - ⏩ [Fair enough..](http://9gag.com/gag/aD2Xorx)
- - 👉 [AGI is here.](http://9gag.com/gag/abA2My8)<!-- MEMES:END -->
+ - 💣 [I was there...](http://9gag.com/gag/a34Wj41)
+ - ⏩ [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
+ - 👉 [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)<!-- MEMES:END -->
 
 ---
 
