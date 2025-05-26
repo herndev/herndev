@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
- - ⏩ [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)
- - 👉 [Still one of the best loops I&#39;ve ever seen](http://9gag.com/gag/aMVXrbW)<!-- MEMES:END -->
+ - 💣 [He really forgot she was there.](http://9gag.com/gag/a2vb5mZ)
+ - ⏩ [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)
+ - 👉 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)<!-- MEMES:END -->
 
 ---
 
