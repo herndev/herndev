@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The commitment is real](http://9gag.com/gag/aLnXD56)
- - ⏩ [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)
- - 👉 [Fight me you coward](http://9gag.com/gag/an7DymV)<!-- MEMES:END -->
+ - 💣 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
+ - ⏩ [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
+ - 👉 [In the other news grass is green](http://9gag.com/gag/a2vboRY)<!-- MEMES:END -->
 
 ---
 
