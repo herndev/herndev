@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion Remastered is great and all, but Morrowind remains the Bethesda RPG that I could play forever](https://www.pcgamer.com/games/rpg/oblivion-remastered-is-great-and-all-but-morrowind-remains-the-bethesda-rpg-that-i-could-play-forever/)
- - [It turns out the gigantic rats you have to kill in so many RPG quests are totally real, and now I need to apologise to RPG designers](https://www.pcgamer.com/games/rpg/it-turns-out-the-gigantic-rats-you-have-to-kill-in-so-many-rpg-quests-are-totally-real-and-now-i-need-to-apologise-to-rpg-designers/)
- - [Escape from Duckov is coming back with a new demo](https://www.pcgamer.com/games/survival-crafting/escape-from-duckov-is-coming-back-with-a-new-demo/)<!-- GAME:END -->
+ - [Oblivion Remastered player gets flung in jail for 20 million days just for some petty crime](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-player-gets-flung-in-jail-for-20-million-days-just-for-some-petty-crime/)
+ - [Magic: The Gathering’s Final Fantasy set is bringing tears to the table with an FF14 card](https://www.polygon.com/mtg-magic-the-gathering/601095/magic-the-gatherings-final-fantasy-set-is-bringing-tears-to-the-table-with-an-ff14-card)
+ - [Parries and timed blocks are the future of action games—and they&#39;ve got a place in turn-based RPGs like Clair Obscur: Expedition 33, too](https://www.pcgamer.com/games/action/mag-407-why-i-love-the-parries-and-timed-blocks-of-sekiro-nine-sols-and-clair-obscur-expedition-33/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
