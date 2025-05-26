@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [American Heathcare](http://9gag.com/gag/azxZrxb)
- - ⏩ [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
- - 👉 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)<!-- MEMES:END -->
+ - 💣 [Just another day at the office.](http://9gag.com/gag/aMVXAQX)
+ - ⏩ [Fair enough..](http://9gag.com/gag/aD2Xorx)
+ - 👉 [AGI is here.](http://9gag.com/gag/abA2My8)<!-- MEMES:END -->
 
 ---
 
