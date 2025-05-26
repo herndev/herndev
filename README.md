@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo&amp;#8217;s bold new era is full of safe bets](https://www.theverge.com/nintendo/671949/nintendo-switch-2-era-risks)
- - [Spotify is trying out a new way to help you find fresh music](https://www.androidauthority.com/spotify-sub-genre-chips-test-3561238/)
- - [The 14 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [Nick Clegg says asking artists for use permission would ‘kill’ the AI industry](https://www.theverge.com/news/674366/nick-clegg-uk-ai-artists-policy-letter)
+ - [Jony Ive + OpenAI in the smart home, SwitchBot Hub 3, &amp; ThorBolt X1 on HomeKit Insider](https://appleinsider.com/articles/25/05/26/jony-ive-openai-in-the-smart-home-switchbot-hub-3-thorbolt-x1-on-homekit-insider?utm_medium=rss)
+ - [JioHotstar has grown its subscriber base from 50M in March to over 280M in May, driven by IPL cricket streams, nearing Netflix&#39;s global subscriber count of 300M &lpar;Financial Times&rpar;](http://www.techmeme.com/250526/p9#a250526p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
