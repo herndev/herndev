@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-3/)
- - [A Starter Guide to Protecting Your Data From Hackers and Corporations](https://www.wired.com/story/guide-protect-data-from-hackers-corporations/)
- - [Sources: Tim Cook declined a WH invitation to join Jensen Huang and others on Trump&#39;s Middle East trip, during which Trump criticized Cook and praised Huang &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250526/p6#a250526p6)<!-- TECH:END -->
+ - [One UI 8 could help you become a better runner, one level at a time](https://www.androidauthority.com/one-ui-8-running-coach-leak-3561196/)
+ - [We’ve got access to Veo 3, so give us your ideas for videos!](https://www.androidauthority.com/google-veo-3-community-ideas-3561148/)
+ - [If the Pixel 10 doesn’t have great battery life, there really is no saving Tensor](https://www.androidauthority.com/google-pixel-10-weakness-save-tensor-3561182/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
