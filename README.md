@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pick up Apple&#39;s M4 Mac mini with 512GB SSD for just $699](https://appleinsider.com/articles/25/05/26/pick-up-apples-m4-mac-mini-with-512gb-ssd-for-just-699?utm_medium=rss)
- - [Tim Cook marks Memorial Day with remembrance, and a message of gratitude](https://appleinsider.com/articles/25/05/26/tim-cook-marks-memorial-day-with-rememberance-and-a-message-of-gratitude?utm_medium=rss)
- - [CB Insights: VC investment in voice AI startups rose from $315M in 2022 to $2.1B in 2024, driven by growing business adoption of voice AI agents in call centers &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250526/p10#a250526p10)<!-- TECH:END -->
+ - [No emulator required: Star Fox 64 fan port now available on Steam Deck and Switch](https://www.androidauthority.com/star-fox-64-steam-deck-switch-3561301/)
+ - [Survey shows Gmail users would gladly sacrifice features for more privacy](https://www.androidauthority.com/gmail-proton-mail-privacy-poll-result-3561277/)
+ - [Meta&#39;s AI team is facing a talent drain, with just three of the 14 authors credited on the landmark 2023 Llama paper still at Meta; several joined Mistral &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/250526/p13#a250526p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
