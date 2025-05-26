@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Last Of Us Season Two, Episode Seven Recap: Abby Road](https://kotaku.com/last-of-us-season-2-episode-7-finale-recap-abby-jesse-1851782357)
  - [Five new Steam games you probably missed &lpar;May 26, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-26-2025/)
- - [&#39;They&#39;re very determined, suddenly, to see your game fail&#39;: Former Dragon Age writer calls out &#39;anti-fans&#39; who bet on games failing before launch](https://www.pcgamer.com/games/dragon-age/theyre-very-determined-suddenly-to-see-your-game-fail-former-dragon-age-writer-calls-out-anti-fans-who-bet-on-games-failing-before-launch/)
- - [A Roblox farming game made by a teenager &#39;in like three days&#39; had 8.9 million players online at the same time—Steam peaked at 11.5 million across all games on the same day](https://www.pcgamer.com/games/survival-crafting/a-roblox-farming-game-made-by-a-teenager-in-like-three-days-had-8-9-million-players-online-at-the-same-time-steam-peaked-at-11-5-million-across-all-games-on-the-same-day/)<!-- GAME:END -->
+ - [&#39;They&#39;re very determined, suddenly, to see your game fail&#39;: Former Dragon Age writer calls out &#39;anti-fans&#39; who bet on games failing before launch](https://www.pcgamer.com/games/dragon-age/theyre-very-determined-suddenly-to-see-your-game-fail-former-dragon-age-writer-calls-out-anti-fans-who-bet-on-games-failing-before-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
