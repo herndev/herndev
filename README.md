@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Milky Way Has a Mysterious ‘Broken Bone’](https://www.wired.com/story/the-milky-way-has-a-mysterious-broken-bone-nasa/)
- - [Sources: SoftBank&#39;s Masayoshi Son pitched a joint US-Japan sovereign fund to top DC and Tokyo officials to back large tech and infrastructure projects in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250526/p3#a250526p3)
- - [Google could use the best chipmaker all the way until Pixel 14](https://www.androidauthority.com/google-tsmc-pixel-14-3561153/)<!-- TECH:END -->
+ - [Car HUDs Are Bad. Jaguar Land Rover Is Testing Tech to Change That](https://www.wired.com/story/car-huds-are-bad-jaguar-land-rover-is-testing-tech-to-change-that/)
+ - [Chinese food delivery giant Meituan reports Q1 revenue up 18.1% to ~$12.1B, vs. $12B est., net profit up 87.3% YoY to ~$1.4B, as it expands outside China &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250526/p5#a250526p5)
+ - [At its Build conference, Microsoft sought to show its key role in the AI industry, with Sam Altman, Elon Musk, and Jensen Huang making virtual appearances &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250526/p4#a250526p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
