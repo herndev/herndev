@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dave Chappelle always has a way with words.](http://9gag.com/gag/ayNQXW8)
- - ⏩ [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)
- - 👉 [Return to monke](http://9gag.com/gag/azxZXXb)<!-- MEMES:END -->
+ - 💣 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
+ - ⏩ [I was there...](http://9gag.com/gag/a34Wj41)
+ - 👉 [How can you take a shower in 5 seconds?](http://9gag.com/gag/ae92bNW)<!-- MEMES:END -->
 
 ---
 
