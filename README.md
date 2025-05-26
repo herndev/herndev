@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nick Clegg says asking artists for use permission would ‘kill’ the AI industry](https://www.theverge.com/news/674366/nick-clegg-uk-ai-artists-policy-letter)
+ - [The Last of Us opens up a whole new perspective for its next season](https://www.theverge.com/hbo/673868/the-last-of-us-season-2-finale-hbo)
  - [Jony Ive + OpenAI in the smart home, SwitchBot Hub 3, &amp; ThorBolt X1 on HomeKit Insider](https://appleinsider.com/articles/25/05/26/jony-ive-openai-in-the-smart-home-switchbot-hub-3-thorbolt-x1-on-homekit-insider?utm_medium=rss)
- - [JioHotstar has grown its subscriber base from 50M in March to over 280M in May, driven by IPL cricket streams, nearing Netflix&#39;s global subscriber count of 300M &lpar;Financial Times&rpar;](http://www.techmeme.com/250526/p9#a250526p9)<!-- TECH:END -->
+ - [Dolphin Researchers Win $100,000 AI Prize for Studying Their Whistling](https://www.cnet.com/science/dolphin-researchers-win-100000-ai-prize-for-studying-their-whistling/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
