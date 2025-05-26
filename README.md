@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s most important new app may finally be getting tablet friendly &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-tablet-3561343/)
- - [The top-spec 2025 MacBook Air just hit a record-low price in the holiday sales](https://www.androidauthority.com/2025-macbook-air-deal-3561345/)
- - [Nikon’s cameras are about to get more expensive in the US because of tariffs](https://www.theverge.com/news/674481/nikon-camera-imaging-products-price-increase-adjustment-june-tariffs)<!-- TECH:END -->
+ - [Poll: Have you changed the battery on your phone?](https://www.androidauthority.com/poll-changed-phone-battery-3561360/)
+ - [Sources, including 30+ current and former Meta employees and 10+ US officials, detail Mark Zuckerberg&#39;s embrace of Trump, which has yet to pay major dividends &lpar;Bloomberg&rpar;](http://www.techmeme.com/250526/p17#a250526p17)
+ - [Google’s most important new app may finally be getting tablet friendly &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-tablet-3561343/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
