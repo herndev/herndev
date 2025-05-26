@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nikon’s cameras are about to get more expensive in the US because of tariffs](https://www.theverge.com/news/674481/nikon-camera-imaging-products-price-increase-adjustment-june-tariffs)
- - [People are using ChatGPT for unsparing assessments of their looks, with many also asking the chatbot to create plans to &quot;glow up&quot; their appearance &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/250526/p16#a250526p16)
- - [2025 Roku Smart TV gets first price drop in Amazon Memorial Day sale](https://www.androidauthority.com/2025-roku-smart-tv-deal-3561330/)<!-- TECH:END -->
+ - [Google’s most important new app may finally be getting tablet friendly &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-tablet-3561343/)
+ - [The top-spec 2025 MacBook Air just hit a record-low price in the holiday sales](https://www.androidauthority.com/2025-macbook-air-deal-3561345/)
+ - [Nikon’s cameras are about to get more expensive in the US because of tariffs](https://www.theverge.com/news/674481/nikon-camera-imaging-products-price-increase-adjustment-june-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
