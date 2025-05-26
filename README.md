@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big BOOM!](http://9gag.com/gag/aO81z0D)
- - ⏩ [In an alternative reality](http://9gag.com/gag/azxZjjm)
- - 👉 [Pizza has arrived.](http://9gag.com/gag/aryBOG6)<!-- MEMES:END -->
+ - 💣 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
+ - ⏩ [Usurper!](http://9gag.com/gag/aKGYBRZ)
+ - 👉 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)<!-- MEMES:END -->
 
 ---
 
