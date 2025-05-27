@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail an exploit in GitHub&#39;s official MCP server that lets hackers trick an LLM agent into leaking private information about the MCP user &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p20#a250526p20)
  - [The top contributor to X&#39;s Community Notes is Web3 Antivirus, a startup that uses an automated process to flag crypto scam posts and has posted 52,000 times &lpar;Alexios Mantzarlis/Indicator&rpar;](http://www.techmeme.com/250526/p19#a250526p19)
- - [Scam victims in Singapore lost a total of ~$858M last year, up 70% YoY; most are contacted via Meta-owned apps, and deepfakes in scams are increasingly common &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/250526/p18#a250526p18)
- - [Poll: Have you changed the battery on your phone?](https://www.androidauthority.com/poll-changed-phone-battery-3561360/)<!-- TECH:END -->
+ - [Scam victims in Singapore lost a total of ~$858M last year, up 70% YoY; most are contacted via Meta-owned apps, and deepfakes in scams are increasingly common &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/250526/p18#a250526p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
