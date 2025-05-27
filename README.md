@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More than 60% of Capcom&#39;s digital game sales last year were on PC](https://www.pcgamer.com/gaming-industry/more-than-60-percent-of-capcoms-digital-game-sales-last-year-were-on-pc/)
- - [Dead by Daylight update schedule: The Year 10 roadmap includes a Five Nights at Freddy&#39;s crossover and Walking Dead tease](https://www.pcgamer.com/games/horror/dead-by-daylight-update-roadmap/)
- - [Only One First-Party Nintendo Game Won&#39;t Work On Switch 2](https://kotaku.com/nintendo-switch-2-backward-compatibility-old-games-list-1851782589)<!-- GAME:END -->
+ - [What time does Elden Ring Neightreign release?](https://www.polygon.com/elden-ring-nightreign-guides/601729/release-time-date-edt-pdt-bst)
+ - [DC And Marvel Doing Crossover Comic For The First Time In Over 20 Years](https://kotaku.com/dc-marvel-daredevil-batman-crossover-comic-release-date-1851782609)
+ - [A beginner’s guide for FFXIV’s Occult Crescent](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601754/occult-crescent-unlock-beginners-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
