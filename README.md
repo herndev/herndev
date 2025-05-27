@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MOZA releases replica Essenza SCV12 wheel , giving us poors a chance at going hands on with a Lamborghini](https://www.pcgamer.com/hardware/moza-releases-replica-essenza-scv12-wheel-giving-us-poors-a-chance-at-going-hands-on-with-a-lamborghini/)
- - [Can Golett be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/600960/can-golett-be-shiny-golurk)
- - [Today&#39;s Wordle answer for Tuesday, May 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-27-2025/)<!-- GAME:END -->
+ - [MSI shows off new weirdly flat PinSafe Design motherboards at Computex, possibly saving lives.](https://www.pcgamer.com/hardware/msi-shows-off-new-weirdly-flat-pinsafe-design-motherboards-at-computex-possibly-saving-lives/)
+ - [MOZA releases replica Essenza SCV12 wheel, giving us poors a chance at going hands on with a Lamborghini](https://www.pcgamer.com/hardware/moza-releases-replica-essenza-scv12-wheel-giving-us-poors-a-chance-at-going-hands-on-with-a-lamborghini/)
+ - [Can Golett be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/600960/can-golett-be-shiny-golurk)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
