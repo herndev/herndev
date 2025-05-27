@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Aureole – Wings of Hope is a high-speed, nifty platformer where you wrangle a supersonic, physics-based ring to eventually thwart a jacked devil](https://www.pcgamer.com/games/action/aureole-wings-of-hope-is-a-high-speed-nifty-platformer-where-you-wrangle-a-supersonic-physics-based-ring-to-eventually-thwart-a-jacked-devil/)
- - [HBO’s Harry Potter TV show has found its Harry, Hermione, and Ron](https://www.polygon.com/entertainment/601707/harry-potter-tv-show-cast-harry-hermione-ron-hbo)
- - [Dulcet-voiced Sony tech god Mark Cerny is better than you at Balatro, joins the 0.1% of players to platinum the whole game](https://www.pcgamer.com/games/roguelike/dulcet-voiced-sony-tech-god-mark-cerny-is-better-than-you-at-balatro-joins-the-0-1-percent-of-players-to-platinum-the-whole-game/)<!-- GAME:END -->
+ - [Switch 2 packaging is probably going to confuse people, retail workers say](https://www.polygon.com/nintendo-switch-2/601726/switch-2-packaging-confusing-retail)
+ - [Pump noise, what pump noise? Asetek&#39;s new liquid cooler pump is so quiet &#39;it&#39;s on a level where you can&#39;t hear it&#39;](https://www.pcgamer.com/hardware/cooling/pump-noise-what-pump-noise-aseteks-new-liquid-cooler-pump-is-so-quiet-its-on-a-level-where-you-cant-hear-it/)
+ - [Assassin&#39;s Creed Shadows has Dead By Daylight content in it now for reasons fathomless to man](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-has-dead-by-daylight-content-in-it-now-for-reasons-fathomless-to-man/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
