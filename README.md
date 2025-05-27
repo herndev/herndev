@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Okay Australia, showing off those fully engaged brains](http://9gag.com/gag/a4PqbWm)
- - ⏩ [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 👉 [The Emperor protects](http://9gag.com/gag/a87wo9d)<!-- MEMES:END -->
+ - 💣 [AGI is here.](http://9gag.com/gag/abA2My8)
+ - ⏩ [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
+ - 👉 [Return to monke](http://9gag.com/gag/azxZXXb)<!-- MEMES:END -->
 
 ---
 
