@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead by Daylight: Five Nights At Freddy’s Brings Freddy Fazbear’s Pizzeria To The Fog](https://news.xbox.com/en-us/2025/05/27/dead-by-daylight-five-nights-at-freddys/)
- - [Someone&#39;s Unboxing A Switch 2 But Claims It Needs A Day-One Patch To Work](https://kotaku.com/switch-2-unboxing-day-one-patch-nintendo-youtube-review-1851782563)
- - [OlliOlli World and Rollerdrome are back on Steam after being delisted 4 months ago when 2K sold off Private Division](https://www.pcgamer.com/games/olliolli-world-and-rollerdrome-are-back-on-steam-after-being-delisted-4-months-ago-when-2k-sold-off-private-division/)<!-- GAME:END -->
+ - [More than 60% of Capcom&#39;s digital game sales last year were on PC](https://www.pcgamer.com/gaming-industry/more-than-60-percent-of-capcoms-digital-game-sales-last-year-were-on-pc/)
+ - [Dead by Daylight update schedule: The Year 10 roadmap includes a Five Nights at Freddy&#39;s crossover and Walking Dead tease](https://www.pcgamer.com/games/horror/dead-by-daylight-update-roadmap/)
+ - [Only One First-Party Nintendo Game Won&#39;t Work On Switch 2](https://kotaku.com/nintendo-switch-2-backward-compatibility-old-games-list-1851782589)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
