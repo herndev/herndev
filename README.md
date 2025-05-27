@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla is set to launch its robotaxi service in Austin in June, but city officials say they are still awaiting important information regarding safety protocols &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250527/p2#a250527p2)
  - [First look at Google’s new ‘Images’ tab: A Pinterest clone in the making &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-images-tab-pinterest-like-feature-apk-teardown-3561382/)
- - [Apple might finally catch up to Samsung’s megapixel madness](https://www.androidauthority.com/apple-copy-samsung-testing-200mp-camera-3561378/)
- - [Taiwan is ramping up its defense drone push with help from startups like Coretronic, as giants like TSMC and Foxconn hold back due to a smaller local market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p1#a250527p1)<!-- TECH:END -->
+ - [Apple might finally catch up to Samsung’s megapixel madness](https://www.androidauthority.com/apple-copy-samsung-testing-200mp-camera-3561378/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
