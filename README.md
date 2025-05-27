@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 packaging is probably going to confuse people, retail workers say](https://www.polygon.com/nintendo-switch-2/601726/switch-2-packaging-confusing-retail)
- - [Pump noise, what pump noise? Asetek&#39;s new liquid cooler pump is so quiet &#39;it&#39;s on a level where you can&#39;t hear it&#39;](https://www.pcgamer.com/hardware/cooling/pump-noise-what-pump-noise-aseteks-new-liquid-cooler-pump-is-so-quiet-its-on-a-level-where-you-cant-hear-it/)
- - [Assassin&#39;s Creed Shadows has Dead By Daylight content in it now for reasons fathomless to man](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-has-dead-by-daylight-content-in-it-now-for-reasons-fathomless-to-man/)<!-- GAME:END -->
+ - [The CIA operated a network of gaming sites and even a Star Wars fanpage that were part of one of its worst-ever intelligence catastrophes](https://www.pcgamer.com/gaming-industry/the-cia-operated-a-network-of-gaming-sites-and-even-a-star-wars-fanpage-that-were-part-of-one-of-its-worst-ever-intelligence-catastrophes/)
+ - [Target Leaves Dozens Of Switch 2 Consoles Locked In A Cage On The Store Floor](https://kotaku.com/target-switch-2-consoles-cage-early-store-floor-walmart-1851782518)
+ - [The PS5 Pro Is Currently Cheaper Than A 2TB Xbox Series X](https://kotaku.com/ps5-pro-sale-discount-cheap-xbox-series-x-2tb-1851782516)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
