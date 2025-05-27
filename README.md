@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
- - ⏩ [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
- - 👉 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)<!-- MEMES:END -->
+ - 💣 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - ⏩ [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
+ - 👉 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)<!-- MEMES:END -->
 
 ---
 
