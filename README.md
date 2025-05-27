@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stablecoin operator Circle files for an NYSE IPO and plans to offer 24M shares at $24 to $26 each, raising up to nearly $250M; Cathie Wood&#39;s ARK may buy $150M &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/250527/p14#a250527p14)
- - [OnePlus phones are getting AI tools that are bound to make Galaxy and Pixel fans jealous](https://www.androidauthority.com/oneplus-ai-suite-announcement-3561441/)
- - [OnePlus takes a page from Nothing with its newest feature](https://www.androidauthority.com/oneplus-ai-plus-mind-3561402/)<!-- TECH:END -->
+ - [Starlink Wars: Elon Musk still battling Apple over iPhone satellite connectivity](https://appleinsider.com/articles/25/05/27/starlink-wars-elon-musk-still-battling-apple-over-iphone-satellite-connectivity?utm_medium=rss)
+ - [App Store protected users from $9 billion in fraud over five years](https://appleinsider.com/articles/25/05/27/app-store-protected-users-from-9-billion-in-fraud-over-five-years?utm_medium=rss)
+ - [With the Switch, technology finally caught up to Nintendo](https://www.theverge.com/games/671323/nintendo-switch-2-wii-u-technology-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
