@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)
- - ⏩ [Never discussed, never addressed](http://9gag.com/gag/aW42m43)
- - 👉 [Family friendly jokes](http://9gag.com/gag/aQz212K)<!-- MEMES:END -->
+ - 💣 [Keannu x ana](http://9gag.com/gag/a4PqRgy)
+ - ⏩ [The Emperor protects](http://9gag.com/gag/a87wo9d)
+ - 👉 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)<!-- MEMES:END -->
 
 ---
 
