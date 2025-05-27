@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Quest I &amp; II HD-2D Remake launches October 30 on PS5](https://blog.playstation.com/2025/05/27/dragon-quest-i-ii-hd-2d-remake-launches-october-30-on-ps5/)
- - [Dragon Quest I &amp; II HD-2D Remake launches October 30 on PS5](https://blog.playstation.com/2025/05/27/dragon-quest-i-ii-hd-2d-remake-launches-october-30-on-ps5/)
- - [Zoom&#39;s Eric Yuan becomes second CEO to use AI avatar on important investment call, ahead of the platform&#39;s new custom avatar addon release](https://www.pcgamer.com/hardware/zooms-eric-yuan-becomes-second-ceo-to-use-ai-avatar-on-important-investment-call-ahead-of-the-platforms-new-custom-avatar-addon-release/)<!-- GAME:END -->
+ - [After 4 years, Final Fantasy 14 finally has a new exploration zone in the Occult Crescent—and even if I&#39;d have liked one sooner, I can&#39;t wait to get stuck in](https://www.pcgamer.com/games/final-fantasy/after-4-years-final-fantasy-14-finally-has-a-new-exploration-zone-in-the-occult-crescent-and-even-if-id-have-liked-one-sooner-i-cant-wait-to-get-stuck-in/)
+ - [Honkai: Star Rail Saber materials and kit](https://www.pcgamer.com/games/rpg/honkai-star-rail-saber-materials-kit/)
+ - [Honkai: Star Rail Phainon materials and kit](https://www.pcgamer.com/games/rpg/honkai-star-rail-phainon-materials-kit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
