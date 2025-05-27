@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi reports Q1 revenue up ~50% YoY to ~$15.5B, above ~$15.17B est., as it invests heavily in autonomous EVs and growing its smartphone business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p7#a250527p7)
- - [The Browser Company says it is pivoting away from its Arc browser to build AI-native browser Dia, citing Arc&#39;s complexity and limited mass-market appeal &lpar;Keeping Tabs by The Browser Company&rpar;](http://www.techmeme.com/250527/p6#a250527p6)
- - [This new Pixel 9 rival offers a 7,000mAh battery, 120W charging, and a fully-cooled back](https://www.androidauthority.com/realme-gt7-launch-3561401/)<!-- TECH:END -->
+ - [Poll: What do you want most from the Pixel 10’s chip?](https://www.androidauthority.com/what-want-google-pixel-10-chip-poll-3561420/)
+ - [European industrial groups Schneider, Siemens, ABB, and Legrand collectively added €151B in market value due to AI demand after ChatGPT&#39;s November 2022 launch &lpar;Financial Times&rpar;](http://www.techmeme.com/250527/p10#a250527p10)
+ - [These are the 6 Google apps I always install on a new Samsung phone](https://www.androidauthority.com/6-google-apps-on-samsung-phone-3558136/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
