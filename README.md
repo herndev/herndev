@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Road rage is evolving, just not in a good way.](http://9gag.com/gag/aPAXYyq)
- - ⏩ [Dad vs Kids: Extreme Edition](http://9gag.com/gag/aGy2e60)
- - 👉 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)<!-- MEMES:END -->
+ - 💣 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
+ - ⏩ [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
+ - 👉 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)<!-- MEMES:END -->
 
 ---
 
