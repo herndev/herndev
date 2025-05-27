@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AGI is here.](http://9gag.com/gag/abA2My8)
- - ⏩ [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
- - 👉 [Return to monke](http://9gag.com/gag/azxZXXb)<!-- MEMES:END -->
+ - 💣 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)
+ - ⏩ [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
+ - 👉 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)<!-- MEMES:END -->
 
 ---
 
