@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Computex 2025 made me realise I have no time for extravagant PC parts, just give me a simple, solid design and function](https://www.pcgamer.com/hardware/computex-2025-made-me-realise-i-have-no-time-for-extravagant-pc-parts-just-give-me-a-simple-solid-design-and-function/)
- - [I&#39;ve seen every PC case that Computex has to offer and this new Havn chassis is my top pick thanks to its abnormally large fans, front grille and airflow optimisation](https://www.pcgamer.com/hardware/pc-cases/ive-seen-every-pc-case-that-computex-has-to-offer-and-this-new-havn-chassis-is-my-top-pick-thanks-to-its-abnormally-large-fans-front-grille-and-airflow-optimisation/)
- - [After 4 years, Final Fantasy 14 finally has a new exploration zone in the Occult Crescent—and even if I&#39;d have liked one sooner, I can&#39;t wait to get stuck in](https://www.pcgamer.com/games/final-fantasy/after-4-years-final-fantasy-14-finally-has-a-new-exploration-zone-in-the-occult-crescent-and-even-if-id-have-liked-one-sooner-i-cant-wait-to-get-stuck-in/)<!-- GAME:END -->
+ - [A fabric-covered PC case was not on my Computex 2025 bingo card but I&#39;m surprisingly into it](https://www.pcgamer.com/hardware/pc-cases/a-fabric-covered-pc-case-was-not-on-my-computex-2025-bingo-card-but-im-surprisingly-into-it/)
+ - [Choose whether to forgive a soul or condemn one in the creepy solo TTRPG Sin Eater](https://www.polygon.com/tabletop-games/600537/sin-eater-rpg-kickstarter-launch)
+ - [Nearly 4 years into early access, Timberborn makers say they’ll take ‘as much time as we need’](https://www.polygon.com/gaming/601349/timberborn-early-access-full-release-update-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
