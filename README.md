@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play’s latest security change may break many Android apps for some power users](https://www.androidauthority.com/google-play-integrity-hardware-attestation-3561592/)
- - [Remakes of the first two Dragon Quest games launch in October](https://www.theverge.com/news/674848/dragon-quest-1-2-remake-release-date)
- - [The best Memorial Day deals you can still grab](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)<!-- TECH:END -->
+ - [A future iPhone may get a 200MP camera -- eventually](https://appleinsider.com/articles/25/05/27/a-future-iphone-may-get-a-200mp-camera----eventually?utm_medium=rss)
+ - [If algorithms radicalize a mass shooter, are companies to blame?](https://www.theverge.com/policy/674869/buffalo-shooting-lawsuit-meta-reddit-4chan-google-amazon-section-230-everytown)
+ - [Sources: Neuralink raised $600M at a $9B pre-money valuation; PitchBook: the company was valued at $3.5B in late 2023 &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/250527/p25#a250527p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
