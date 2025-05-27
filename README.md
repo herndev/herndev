@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you, my GTX 1050. Thank you for still functioning and working well to this day.](http://9gag.com/gag/azxZ1Kb)
- - ⏩ [Little moments](http://9gag.com/gag/avyvOWO)
- - 👉 [I would like Yu-Gi-Oh! cards.](http://9gag.com/gag/aZZ27en)<!-- MEMES:END -->
+ - 💣 [That chicken is NOT amused.](http://9gag.com/gag/a4Pq3L6)
+ - ⏩ [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
+ - 👉 [Good news boys. After hundreds of thousands of years of evolution, we have progress.](http://9gag.com/gag/aryBgEX)<!-- MEMES:END -->
 
 ---
 
