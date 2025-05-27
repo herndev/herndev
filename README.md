@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
- - ⏩ [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
- - 👉 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)<!-- MEMES:END -->
+ - 💣 [Okay Australia, showing off those fully engaged brains](http://9gag.com/gag/a4PqbWm)
+ - ⏩ [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
+ - 👉 [The Emperor protects](http://9gag.com/gag/a87wo9d)<!-- MEMES:END -->
 
 ---
 
