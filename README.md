@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Quest Day is Here – How the Iconic RPG Series Gained Legendary Status](https://news.xbox.com/en-us/2025/05/27/dragon-quest-day-2025/)
- - [Cities: Skylines 2 can&#39;t catch a break, as the long-awaited Bridges and Ports expansion is delayed again](https://www.pcgamer.com/games/city-builder/cities-skylines-2-cant-catch-a-break-as-the-long-awaited-bridges-and-ports-expansion-is-delayed-again/)
- - [Disney scores record-breaking $183 million opening with a movie meant for Disney Plus](https://www.polygon.com/news/601667/lilo-stitch-box-office-disney)<!-- GAME:END -->
+ - [Aureole – Wings of Hope is a high-speed, nifty platformer where you wrangle a supersonic, physics-based ring to eventually thwart a jacked devil](https://www.pcgamer.com/games/action/aureole-wings-of-hope-is-a-high-speed-nifty-platformer-where-you-wrangle-a-supersonic-physics-based-ring-to-eventually-thwart-a-jacked-devil/)
+ - [HBO’s Harry Potter TV show has found its Harry, Hermione, and Ron](https://www.polygon.com/entertainment/601707/harry-potter-tv-show-cast-harry-hermione-ron-hbo)
+ - [Dulcet-voiced Sony tech god Mark Cerny is better than you at Balatro, joins the 0.1% of players to platinum the whole game](https://www.pcgamer.com/games/roguelike/dulcet-voiced-sony-tech-god-mark-cerny-is-better-than-you-at-balatro-joins-the-0-1-percent-of-players-to-platinum-the-whole-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
