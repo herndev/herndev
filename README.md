@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Baseball is totally safe, look at that arm](http://9gag.com/gag/abA2zMp)
- - ⏩ [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
- - 👉 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)<!-- MEMES:END -->
+ - 💣 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - ⏩ [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 👉 [Well, technically...](http://9gag.com/gag/aoy8e13)<!-- MEMES:END -->
 
 ---
 
