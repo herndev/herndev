@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Zoom&#39;s Eric Yuan becomes second CEO to use AI avatar on important investment call, ahead of the platform&#39;s new custom avatar addon release](https://www.pcgamer.com/hardware/zooms-eric-yuan-becomes-second-ceo-to-use-ai-avatar-on-important-investment-call-ahead-of-the-platforms-new-custom-avatar-addon-release/)
  - [MSI shows off new weirdly flat PinSafe Design motherboards at Computex, possibly saving lives.](https://www.pcgamer.com/hardware/msi-shows-off-new-weirdly-flat-pinsafe-design-motherboards-at-computex-possibly-saving-lives/)
- - [MOZA releases replica Essenza SCV12 wheel, giving us poors a chance at going hands on with a Lamborghini](https://www.pcgamer.com/hardware/moza-releases-replica-essenza-scv12-wheel-giving-us-poors-a-chance-at-going-hands-on-with-a-lamborghini/)
- - [Can Golett be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/600960/can-golett-be-shiny-golurk)<!-- GAME:END -->
+ - [MOZA releases replica Essenza SCV12 wheel, giving us poors a chance at going hands on with a Lamborghini](https://www.pcgamer.com/hardware/moza-releases-replica-essenza-scv12-wheel-giving-us-poors-a-chance-at-going-hands-on-with-a-lamborghini/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
