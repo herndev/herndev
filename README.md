@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Elden Ring Neightreign release?](https://www.polygon.com/elden-ring-nightreign-guides/601729/release-time-date-edt-pdt-bst)
- - [DC And Marvel Doing Crossover Comic For The First Time In Over 20 Years](https://kotaku.com/dc-marvel-daredevil-batman-crossover-comic-release-date-1851782609)
- - [A beginner’s guide for FFXIV’s Occult Crescent](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601754/occult-crescent-unlock-beginners-tips)<!-- GAME:END -->
+ - [Physics-based survival city-builder All Will Fall is having an open beta test in June](https://www.pcgamer.com/games/city-builder/physics-based-survival-city-builder-all-will-fall-is-having-an-open-beta-test-in-june/)
+ - [Sorry, nightfarers: Elden Ring Nightreign does not have crossplay](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-crossplay-pc-ps5/)
+ - [What time does Elden Ring Nightreign release?](https://www.polygon.com/elden-ring-nightreign-guides/601729/release-time-date-edt-pdt-bst)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
