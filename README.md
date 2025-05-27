@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Return to monke](http://9gag.com/gag/azxZXXb)
- - ⏩ [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
- - 👉 [AGI is here.](http://9gag.com/gag/abA2My8)<!-- MEMES:END -->
+ - 💣 [Road rage is evolving, just not in a good way.](http://9gag.com/gag/aPAXYyq)
+ - ⏩ [Dad vs Kids: Extreme Edition](http://9gag.com/gag/aGy2e60)
+ - 👉 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)<!-- MEMES:END -->
 
 ---
 
