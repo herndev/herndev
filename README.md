@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One UI 8 beta is coming soon: Who’s getting it, where, and how you can join](https://www.androidauthority.com/one-ui-8-beta-availability-eligible-devices-how-to-join-3561374/)
  - [California&#39;s population is growing again, rising 0.6% in 2024, with the H-1B visa program being one of the drivers, helping offset the residents who are leaving &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250526/p21#a250526p21)
- - [Survey shows users are ready to ditch Gmail for this ultra-private email service](https://www.androidauthority.com/gmail-proton-mail-privacy-poll-result-3561277/)
- - [Researchers detail an exploit in GitHub&#39;s official MCP server that lets hackers trick an LLM agent into leaking private information about the MCP user &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p20#a250526p20)<!-- TECH:END -->
+ - [Survey shows users are ready to ditch Gmail for this ultra-private email service](https://www.androidauthority.com/gmail-proton-mail-privacy-poll-result-3561277/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
