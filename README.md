@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Law firm sees opportunity to sue over Apple delaying Siri improvements](https://appleinsider.com/articles/25/05/27/law-firm-sees-opportunity-to-sue-over-apple-delaying-siri-improvements?utm_medium=rss)
- - [Google may soon give you more control over how your Calendar data is shared &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-calendar-permissions-3535211/)
- - [SpAItial, which is building text-to-3D environment generation tools, raised a $13M seed led by Earlybird and plans to license its foundation model to developers &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250527/p12#a250527p12)<!-- TECH:END -->
+ - [Stablecoin operator Circle files for an NYSE IPO and plans to offer 24M shares at $24 to $26 each, raising up to nearly $250M; Cathie Wood&#39;s ARK may buy $150M &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/250527/p14#a250527p14)
+ - [OnePlus phones are getting AI tools that are bound to make Galaxy and Pixel fans jealous](https://www.androidauthority.com/oneplus-ai-suite-announcement-3561441/)
+ - [OnePlus takes a page from Nothing with its newest feature](https://www.androidauthority.com/oneplus-ai-plus-mind-3561402/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
