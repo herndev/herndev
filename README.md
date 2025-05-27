@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Fench....](http://9gag.com/gag/a2vbZMY)
- - ⏩ [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
- - 👉 [When people cant tell the difference between AI and 3D anymore](http://9gag.com/gag/azxZX8b)<!-- MEMES:END -->
+ - 💣 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
+ - ⏩ [Japan understood the assignment.](http://9gag.com/gag/a6ZpOyb)
+ - 👉 [The Emperor protects](http://9gag.com/gag/a87wo9d)<!-- MEMES:END -->
 
 ---
 
