@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
- - ⏩ [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - ⏩ [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
  - 👉 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)<!-- MEMES:END -->
 
 ---
