@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The CIA operated a network of gaming sites and even a Star Wars fanpage that were part of one of its worst-ever intelligence catastrophes](https://www.pcgamer.com/gaming-industry/the-cia-operated-a-network-of-gaming-sites-and-even-a-star-wars-fanpage-that-were-part-of-one-of-its-worst-ever-intelligence-catastrophes/)
- - [Target Leaves Dozens Of Switch 2 Consoles Locked In A Cage On The Store Floor](https://kotaku.com/target-switch-2-consoles-cage-early-store-floor-walmart-1851782518)
- - [The PS5 Pro Is Currently Cheaper Than A 2TB Xbox Series X](https://kotaku.com/ps5-pro-sale-discount-cheap-xbox-series-x-2tb-1851782516)<!-- GAME:END -->
+ - [The Whirlwind Barbarian Reigns Supreme Once More In Diablo IV Season 8](https://kotaku.com/diablo-4-season-8-best-class-barbarian-whirlwind-build-1851782512)
+ - [Enhance Your Monster Hunter Wilds Builds With The Best Weapon And Mantle Pairings](https://kotaku.com/monster-hunter-wilds-mh-mantle-weapon-corrupted-evasion-1851782497)
+ - [How To Master The Versatile And Deadly Accurate Hawkeye In Marvel Rivals](https://kotaku.com/marvel-rivals-hawkeye-guide-play-ultimate-duelist-1851782494)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
