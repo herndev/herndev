@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A future iPhone may get a 200MP camera -- eventually](https://appleinsider.com/articles/25/05/27/a-future-iphone-may-get-a-200mp-camera----eventually?utm_medium=rss)
- - [If algorithms radicalize a mass shooter, are companies to blame?](https://www.theverge.com/policy/674869/buffalo-shooting-lawsuit-meta-reddit-4chan-google-amazon-section-230-everytown)
- - [Sources: Neuralink raised $600M at a $9B pre-money valuation; PitchBook: the company was valued at $3.5B in late 2023 &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/250527/p25#a250527p25)<!-- TECH:END -->
+ - [eBay is cutting more than 200 jobs at TCGplayer](https://www.theverge.com/news/675116/ebay-tcgplayer-200-jobs-layoffs-syracuse)
+ - [Apple acquires tiny two-person &#39;Sneaky Sasquatch&#39; developer RAC7](https://appleinsider.com/articles/25/05/27/apple-acquires-tiny-two-person-sneaky-sasquatch-developer-rac7?utm_medium=rss)
+ - [Memo: the Trump admin pauses new student visa interviews as it mulls requiring all foreign students applying to study in the US to undergo social media vetting &lpar;Nahal Toosi/Politico&rpar;](http://www.techmeme.com/250527/p28#a250527p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
