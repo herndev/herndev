@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California&#39;s population is growing again, rising 0.6% in 2024, with the H-1B visa program being one of the drivers, helping offset the residents who are leaving &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250526/p21#a250526p21)
  - [Survey shows users are ready to ditch Gmail for this ultra-private email service](https://www.androidauthority.com/gmail-proton-mail-privacy-poll-result-3561277/)
- - [Researchers detail an exploit in GitHub&#39;s official MCP server that lets hackers trick an LLM agent into leaking private information about the MCP user &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p20#a250526p20)
- - [The top contributor to X&#39;s Community Notes is Web3 Antivirus, a startup that uses an automated process to flag crypto scam posts and has posted 52,000 times &lpar;Alexios Mantzarlis/Indicator&rpar;](http://www.techmeme.com/250526/p19#a250526p19)<!-- TECH:END -->
+ - [Researchers detail an exploit in GitHub&#39;s official MCP server that lets hackers trick an LLM agent into leaking private information about the MCP user &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p20#a250526p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
