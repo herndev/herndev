@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
- - ⏩ [Japan understood the assignment.](http://9gag.com/gag/a6ZpOyb)
- - 👉 [The Emperor protects](http://9gag.com/gag/a87wo9d)<!-- MEMES:END -->
+ - 💣 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
+ - ⏩ [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
+ - 👉 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)<!-- MEMES:END -->
 
 ---
 
