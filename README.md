@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, May 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-27-2025/)
  - [Byond game engine suffers a weeks-long DDoS attack, apparently because a wanna-be Bond villain is trying to force it to go open source: &#39;Attacks on Byond servers are a symptom of your obstinance&#39;](https://www.pcgamer.com/games/byond-game-engine-suffers-a-weeks-long-ddos-attack-apparently-because-a-wanna-be-bond-villain-is-trying-to-force-it-to-go-open-source-attacks-on-byond-servers-are-a-symptom-of-your-obstinance/)
- - [Pick up the Left 4 Dead games for cheaper than a pack of gum in the new Steam sale that&#39;s all about zombies, and also vampires](https://www.pcgamer.com/games/pick-up-the-left-4-dead-games-for-cheaper-than-a-pack-of-gum-in-the-new-steam-sale-thats-all-about-zombies-and-also-vampires/)
- - [A month after Electronic Arts mashed the brakes, WRC rally racing games are coming back with a &#39;complete reboot&#39; under a new publisher](https://www.pcgamer.com/games/racing/a-month-after-electronic-arts-mashed-the-brakes-wrc-rally-racing-games-are-coming-back-with-a-complete-reboot-under-a-new-publisher/)<!-- GAME:END -->
+ - [Pick up the Left 4 Dead games for cheaper than a pack of gum in the new Steam sale that&#39;s all about zombies, and also vampires](https://www.pcgamer.com/games/pick-up-the-left-4-dead-games-for-cheaper-than-a-pack-of-gum-in-the-new-steam-sale-thats-all-about-zombies-and-also-vampires/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
