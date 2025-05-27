@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Subnautica is coming to Android, and you won’t have to wait long to dive in](https://www.androidauthority.com/subnautica-mobile-announcement-3561513/)
- - [Meta launches a dedicated iPad app for WhatsApp &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250527/p18#a250527p18)
- - [The PS5 will be cheaper than the Switch 2 for a limited time](https://www.theverge.com/news/674677/ps5-sale-summer-2025-us-sony-play-days-summer-game-fest)<!-- TECH:END -->
+ - [India now leads iPhone exports to the U.S. as trade war reshapes supply chains](https://appleinsider.com/articles/25/05/27/india-now-leads-iphone-exports-to-the-us-as-trade-war-reshapes-supply-chains?utm_medium=rss)
+ - [Google’s getting some new voices on your phone &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-voice-search-new-voices-3561504/)
+ - [The deluxe Scott Pilgrim graphic novel box set is cheaper than ever](https://www.theverge.com/tech/674534/scott-pilgrim-graphic-novels-box-set-google-pixel-watch-2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
