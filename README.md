@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - ⏩ [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
- - 👉 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)<!-- MEMES:END -->
+ - 💣 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
+ - ⏩ [Origin compilation - how many did you actually know?](http://9gag.com/gag/aO8109M)
+ - 👉 [Mission Impossible: Stadium Edition](http://9gag.com/gag/aGy2Zew)<!-- MEMES:END -->
 
 ---
 
