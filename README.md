@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Whirlwind Barbarian Reigns Supreme Once More In Diablo IV Season 8](https://kotaku.com/diablo-4-season-8-best-class-barbarian-whirlwind-build-1851782512)
- - [Enhance Your Monster Hunter Wilds Builds With The Best Weapon And Mantle Pairings](https://kotaku.com/monster-hunter-wilds-mh-mantle-weapon-corrupted-evasion-1851782497)
- - [How To Master The Versatile And Deadly Accurate Hawkeye In Marvel Rivals](https://kotaku.com/marvel-rivals-hawkeye-guide-play-ultimate-duelist-1851782494)<!-- GAME:END -->
+ - [Dead by Daylight: Five Nights At Freddy’s Brings Freddy Fazbear’s Pizzeria To The Fog](https://news.xbox.com/en-us/2025/05/27/dead-by-daylight-five-nights-at-freddys/)
+ - [Someone&#39;s Unboxing A Switch 2 But Claims It Needs A Day-One Patch To Work](https://kotaku.com/switch-2-unboxing-day-one-patch-nintendo-youtube-review-1851782563)
+ - [OlliOlli World and Rollerdrome are back on Steam after being delisted 4 months ago when 2K sold off Private Division](https://www.pcgamer.com/games/olliolli-world-and-rollerdrome-are-back-on-steam-after-being-delisted-4-months-ago-when-2k-sold-off-private-division/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
