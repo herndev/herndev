@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FTC&#39;s antitrust trial against Meta ends; Judge James Boasberg, who is presiding over the case, says he will work &quot;expeditiously&quot; to issue an opinion &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250527/p31#a250527p31)
- - [Google Photos finally starts letting you manually add pics to stacks](https://www.androidauthority.com/google-photos-stack-manual-3561665/)
- - [Dedicated Apple Games app could be revealed during WWDC 2025](https://appleinsider.com/articles/25/05/27/dedicated-apple-games-app-could-be-revealed-during-wwdc-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Apple acquires RAC7, the two-person studio behind the popular Apple Arcade game Sneaky Sasquatch, marking its first acquisition of a video game studio &lpar;Giovanni Colantonio/Digital Trends&rpar;](http://www.techmeme.com/250527/p34#a250527p34)
+ - [Google sets the timetable for killing off the very last of Duo](https://www.androidauthority.com/google-killing-duo-3561700/)
+ - [Texas passes App Store age verification law, despite Tim Cook&#39;s concerns](https://appleinsider.com/articles/25/05/27/texas-passes-app-store-age-verification-law-despite-tim-cooks-concerns?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
