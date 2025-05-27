@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink Wars: Elon Musk still battling Apple over iPhone satellite connectivity](https://appleinsider.com/articles/25/05/27/starlink-wars-elon-musk-still-battling-apple-over-iphone-satellite-connectivity?utm_medium=rss)
- - [App Store protected users from $9 billion in fraud over five years](https://appleinsider.com/articles/25/05/27/app-store-protected-users-from-9-billion-in-fraud-over-five-years?utm_medium=rss)
- - [With the Switch, technology finally caught up to Nintendo](https://www.theverge.com/games/671323/nintendo-switch-2-wii-u-technology-games)<!-- TECH:END -->
+ - [Subnautica is coming to Android, and you won’t have to wait long to dive in](https://www.androidauthority.com/subnautica-mobile-announcement-3561513/)
+ - [Meta launches a dedicated iPad app for WhatsApp &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250527/p18#a250527p18)
+ - [The PS5 will be cheaper than the Switch 2 for a limited time](https://www.theverge.com/news/674677/ps5-sale-summer-2025-us-sony-play-days-summer-game-fest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
