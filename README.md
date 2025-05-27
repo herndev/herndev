@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan is ramping up its defense drone push with help from startups like Coretronic, as giants like TSMC and Foxconn hold back due to a smaller local market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p1#a250527p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 27, #246](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-27-246/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First look at Google’s new ‘Images’ tab: A Pinterest clone in the making &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-images-tab-pinterest-like-feature-apk-teardown-3561382/)
+ - [Apple might finally catch up to Samsung’s megapixel madness](https://www.androidauthority.com/apple-copy-samsung-testing-200mp-camera-3561378/)
+ - [Taiwan is ramping up its defense drone push with help from startups like Coretronic, as giants like TSMC and Foxconn hold back due to a smaller local market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p1#a250527p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
