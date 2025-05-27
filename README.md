@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay is cutting more than 200 jobs at TCGplayer](https://www.theverge.com/news/675116/ebay-tcgplayer-200-jobs-layoffs-syracuse)
- - [Apple acquires tiny two-person &#39;Sneaky Sasquatch&#39; developer RAC7](https://appleinsider.com/articles/25/05/27/apple-acquires-tiny-two-person-sneaky-sasquatch-developer-rac7?utm_medium=rss)
- - [Memo: the Trump admin pauses new student visa interviews as it mulls requiring all foreign students applying to study in the US to undergo social media vetting &lpar;Nahal Toosi/Politico&rpar;](http://www.techmeme.com/250527/p28#a250527p28)<!-- TECH:END -->
+ - [Sources: Apple plans a dedicated app for video games to replace Game Center and come preinstalled on iPhone, iPad, Mac, and Apple TV devices later this year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250527/p29#a250527p29)
+ - [Qualcomm study unsurprisingly says Qualcomm modems beat Apple&#39;s C1](https://appleinsider.com/articles/25/05/27/qualcomm-study-unsurprisingly-says-qualcomm-modems-beat-apples-c1?utm_medium=rss)
+ - [You Can&#39;t Screenshot Switch 2 Footage From Nintendo Today App](https://www.cnet.com/tech/gaming/you-cant-screenshot-switch-2-footage-from-nintendo-today-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
