@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla is set to launch its robotaxi service in Austin in June, but city officials say they are still awaiting important information regarding safety protocols &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250527/p2#a250527p2)
- - [First look at Google’s new ‘Images’ tab: A Pinterest clone in the making &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-images-tab-pinterest-like-feature-apk-teardown-3561382/)
- - [Apple might finally catch up to Samsung’s megapixel madness](https://www.androidauthority.com/apple-copy-samsung-testing-200mp-camera-3561378/)<!-- TECH:END -->
+ - [PopSockets’ new Kick-Out Grip can finally prop your phone up vertically](https://www.theverge.com/news/674371/popsockets-kick-out-grip-portrait-stand-vertical-magsafe)
+ - [India&#39;s crypto industry is lobbying for tax cuts on domestic trading, hoping to seize on New Delhi&#39;s softening crypto stance as it negotiates a US trade deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250527/p5#a250527p5)
+ - [Google is planning a big Tensor shakeup. Too little, too late?](https://www.androidauthority.com/google-tensor-shakeup-open-thread-3561405/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
