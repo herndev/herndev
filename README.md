@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
- - ⏩ [Origin compilation - how many did you actually know?](http://9gag.com/gag/aO8109M)
- - 👉 [Mission Impossible: Stadium Edition](http://9gag.com/gag/aGy2Zew)<!-- MEMES:END -->
+ - 💣 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)
+ - ⏩ [Never discussed, never addressed](http://9gag.com/gag/aW42m43)
+ - 👉 [Family friendly jokes](http://9gag.com/gag/aQz212K)<!-- MEMES:END -->
 
 ---
 
