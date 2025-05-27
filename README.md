@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
- - ⏩ [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 👉 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)<!-- MEMES:END -->
+ - ⏩ [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
+ - 👉 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)<!-- MEMES:END -->
 
 ---
 
