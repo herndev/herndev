@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PopSockets’ new Kick-Out Grip can finally prop your phone up vertically](https://www.theverge.com/news/674371/popsockets-kick-out-grip-portrait-stand-vertical-magsafe)
- - [India&#39;s crypto industry is lobbying for tax cuts on domestic trading, hoping to seize on New Delhi&#39;s softening crypto stance as it negotiates a US trade deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250527/p5#a250527p5)
- - [Google is planning a big Tensor shakeup. Too little, too late?](https://www.androidauthority.com/google-tensor-shakeup-open-thread-3561405/)<!-- TECH:END -->
+ - [Xiaomi reports Q1 revenue up ~50% YoY to ~$15.5B, above ~$15.17B est., as it invests heavily in autonomous EVs and growing its smartphone business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p7#a250527p7)
+ - [The Browser Company says it is pivoting away from its Arc browser to build AI-native browser Dia, citing Arc&#39;s complexity and limited mass-market appeal &lpar;Keeping Tabs by The Browser Company&rpar;](http://www.techmeme.com/250527/p6#a250527p6)
+ - [This new Pixel 9 rival offers a 7,000mAh battery, 120W charging, and a fully-cooled back](https://www.androidauthority.com/realme-gt7-launch-3561401/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
