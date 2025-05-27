@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - ⏩ [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - 👉 [Family friendly jokes](http://9gag.com/gag/aQz212K)<!-- MEMES:END -->
+ - 💣 [Thank you, my GTX 1050. Thank you for still functioning and working well to this day.](http://9gag.com/gag/azxZ1Kb)
+ - ⏩ [Little moments](http://9gag.com/gag/avyvOWO)
+ - 👉 [I would like Yu-Gi-Oh! cards.](http://9gag.com/gag/aZZ27en)<!-- MEMES:END -->
 
 ---
 
