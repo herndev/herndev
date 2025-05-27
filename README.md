@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CDPR didn&#39;t put harsh themes in Cyberpunk 2077 or The Witcher 3 &#39;for the sake of edginess&#39;, but because &#39;you&#39;re probably not making art&#39; if the devs are never challenged](https://www.pcgamer.com/games/the-witcher/cdpr-didnt-put-harsh-themes-in-cyberpunk-2077-or-the-witcher-3-for-the-sake-of-edginess-but-because-youre-probably-not-making-art-if-the-devs-are-never-challenged/)
- - [PlayStation Plus’ free June games include a great Jet Set Radio homage](https://www.polygon.com/news/601648/playstation-plus-june-2025-free-games-ps4-ps5)
- - [Dragon Age creator says EA execs thought BioWare fans would eat whatever slop they were given since &#39;the nerds in the cave would always show up for an RPG, because it was an RPG&#39;](https://www.pcgamer.com/games/rpg/dragon-age-creator-says-ea-execs-thought-bioware-fans-would-eat-whatever-slop-they-were-given-since-the-nerds-in-the-cave-would-always-show-up-for-an-rpg-because-it-was-an-rpg/)<!-- GAME:END -->
+ - [Dragon Quest Day is Here – How the Iconic RPG Series Gained Legendary Status](https://news.xbox.com/en-us/2025/05/27/dragon-quest-day-2025/)
+ - [Cities: Skylines 2 can&#39;t catch a break, as the long-awaited Bridges and Ports expansion is delayed again](https://www.pcgamer.com/games/city-builder/cities-skylines-2-cant-catch-a-break-as-the-long-awaited-bridges-and-ports-expansion-is-delayed-again/)
+ - [Disney scores record-breaking $183 million opening with a movie meant for Disney Plus](https://www.polygon.com/news/601667/lilo-stitch-box-office-disney)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
