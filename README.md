@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keannu x ana](http://9gag.com/gag/a4PqRgy)
- - ⏩ [The Emperor protects](http://9gag.com/gag/a87wo9d)
- - 👉 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)<!-- MEMES:END -->
+ - 💣 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
+ - ⏩ [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 👉 [Family friendly jokes](http://9gag.com/gag/aQz212K)<!-- MEMES:END -->
 
 ---
 
