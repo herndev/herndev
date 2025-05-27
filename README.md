@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India now leads iPhone exports to the U.S. as trade war reshapes supply chains](https://appleinsider.com/articles/25/05/27/india-now-leads-iphone-exports-to-the-us-as-trade-war-reshapes-supply-chains?utm_medium=rss)
- - [Google’s getting some new voices on your phone &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-voice-search-new-voices-3561504/)
- - [The deluxe Scott Pilgrim graphic novel box set is cheaper than ever](https://www.theverge.com/tech/674534/scott-pilgrim-graphic-novels-box-set-google-pixel-watch-2-deal-sale)<!-- TECH:END -->
+ - [Google Play’s latest security change may break many Android apps for some power users](https://www.androidauthority.com/google-play-integrity-hardware-attestation-3561592/)
+ - [Remakes of the first two Dragon Quest games launch in October](https://www.theverge.com/news/674848/dragon-quest-1-2-remake-release-date)
+ - [The best Memorial Day deals you can still grab](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
