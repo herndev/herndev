@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: What do you want most from the Pixel 10’s chip?](https://www.androidauthority.com/what-want-google-pixel-10-chip-poll-3561420/)
- - [European industrial groups Schneider, Siemens, ABB, and Legrand collectively added €151B in market value due to AI demand after ChatGPT&#39;s November 2022 launch &lpar;Financial Times&rpar;](http://www.techmeme.com/250527/p10#a250527p10)
- - [These are the 6 Google apps I always install on a new Samsung phone](https://www.androidauthority.com/6-google-apps-on-samsung-phone-3558136/)<!-- TECH:END -->
+ - [Law firm sees opportunity to sue over Apple delaying Siri improvements](https://appleinsider.com/articles/25/05/27/law-firm-sees-opportunity-to-sue-over-apple-delaying-siri-improvements?utm_medium=rss)
+ - [Google may soon give you more control over how your Calendar data is shared &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-calendar-permissions-3535211/)
+ - [SpAItial, which is building text-to-3D environment generation tools, raised a $13M seed led by Earlybird and plans to license its foundation model to developers &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250527/p12#a250527p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
