@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Emperor protects](http://9gag.com/gag/a87wo9d)
- - ⏩ [Emergency Medical situation game changer?](http://9gag.com/gag/aO81dEE)
+ - 💣 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
+ - ⏩ [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
  - 👉 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)<!-- MEMES:END -->
 
 ---
