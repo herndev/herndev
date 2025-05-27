@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8 beta is coming soon: Who’s getting it, where, and how you can join](https://www.androidauthority.com/one-ui-8-beta-availability-eligible-devices-how-to-join-3561374/)
- - [California&#39;s population is growing again, rising 0.6% in 2024, with the H-1B visa program being one of the drivers, helping offset the residents who are leaving &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250526/p21#a250526p21)
- - [Survey shows users are ready to ditch Gmail for this ultra-private email service](https://www.androidauthority.com/gmail-proton-mail-privacy-poll-result-3561277/)<!-- TECH:END -->
+ - [Taiwan is ramping up its defense drone push with help from startups like Coretronic, as giants like TSMC and Foxconn hold back due to a smaller local market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p1#a250527p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 27, #246](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-27-246/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
