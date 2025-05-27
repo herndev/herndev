@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - ⏩ [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 👉 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)<!-- MEMES:END -->
+ - 💣 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
+ - ⏩ [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 👉 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)<!-- MEMES:END -->
 
 ---
 
