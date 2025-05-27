@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple acquires RAC7, the two-person studio behind the popular Apple Arcade game Sneaky Sasquatch, marking its first acquisition of a video game studio &lpar;Giovanni Colantonio/Digital Trends&rpar;](http://www.techmeme.com/250527/p34#a250527p34)
- - [Google sets the timetable for killing off the very last of Duo](https://www.androidauthority.com/google-killing-duo-3561700/)
- - [Texas passes App Store age verification law, despite Tim Cook&#39;s concerns](https://appleinsider.com/articles/25/05/27/texas-passes-app-store-age-verification-law-despite-tim-cooks-concerns?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Invites now lets you share content &amp; sites with a new Link tile](https://appleinsider.com/articles/25/05/27/apple-invites-now-lets-you-share-content-sites-with-a-new-link-tile?utm_medium=rss)
+ - [Circle aims to raise up to $624M in its US IPO, offering 24M shares at $24-$26 each, valuing it at ~$5.65B, or ~$6.7B fully diluted, at the top of the range &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p36#a250527p36)
+ - [Zscaler agrees to acquire Red Canary, a provider of managed detection and response services, for an undisclosed sum; the deal is expected to close in August &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/250527/p35#a250527p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
