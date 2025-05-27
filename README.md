@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
- - ⏩ [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
- - 👉 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)<!-- MEMES:END -->
+ - 💣 [Return to monke](http://9gag.com/gag/azxZXXb)
+ - ⏩ [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
+ - 👉 [AGI is here.](http://9gag.com/gag/abA2My8)<!-- MEMES:END -->
 
 ---
 
