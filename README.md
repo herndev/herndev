@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - ⏩ [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
- - 👉 [Well, technically...](http://9gag.com/gag/aoy8e13)<!-- MEMES:END -->
+ - 💣 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)
+ - ⏩ [Keannu x ana](http://9gag.com/gag/a4PqRgy)
+ - 👉 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)<!-- MEMES:END -->
 
 ---
 
