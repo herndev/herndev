@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tile trackers are being fully integrated into Life360](https://www.theverge.com/news/675912/tile-bluetooth-trackers-fully-integrated-with-life360-app)
- - [Nvidia reports H20 sales of $4.6B in Q1 but says it was unable to ship $2.5B of chips due to new export rules, and it expects a loss of $8B in H20 revenue in Q2 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250528/p41#a250528p41)
- - [Apple may shake up its OS branding by taking this idea from Samsung](https://www.androidauthority.com/apple-considers-os-rebrand-3562201/)<!-- TECH:END -->
+ - [A Kaiser Permanente systems outage has pharmacies relying on pen and paper](https://www.theverge.com/news/676141/kaiser-permanente-outage-pharmacies-pen-paper)
+ - [Use Tile’s Bluetooth trackers? Don’t be surprised if you’re soon pushed to this app](https://www.androidauthority.com/life360-tile-3562225/)
+ - [X says it&#39;s pausing the encrypted DMs feature to &quot;work on making some improvements&quot;; users can view previous encrypted DMs but cannot send new ones &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250528/p42#a250528p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
