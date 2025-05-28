@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logic Pro update brings improved beats and audio fidelity to Mac and iPad](https://appleinsider.com/articles/25/05/28/logic-pro-update-brings-improved-beats-and-audio-fidelity-to-mac-and-ipad?utm_medium=rss)
- - [Sony’s ringing in the Switch 2 launch with PS5 deals](https://www.theverge.com/tech/675179/ps5-pro-bundle-dualsense-console-deal-sale)
- - [I just downloaded the One UI 8 beta on my Galaxy S25. Here’s how you can, too](https://www.androidauthority.com/how-download-samsung-one-ui-8-beta-3561920/)<!-- TECH:END -->
+ - [The Nintendo Switch’s complicated legacy with indie games](https://www.theverge.com/nintendo/671658/nintendo-switch-indie-games-eshop-legacy)
+ - [Don’t Google “Is it 2025?” unless you want to laugh at the state of AI](https://www.androidauthority.com/google-search-ai-overview-doesnt-know-the-year-3561764/)
+ - [Ford recalls over 1 million vehicles for glitchy rearview cameras](https://www.theverge.com/news/675570/ford-recall-1-million-vehicles-rearview-cameras)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
