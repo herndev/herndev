@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who did it best](http://9gag.com/gag/aO81r2N)
- - ⏩ [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
- - 👉 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)<!-- MEMES:END -->
+ - 💣 [Maybe they had a point?](http://9gag.com/gag/aPAX7GP)
+ - ⏩ [Respect for this legend who prioritized family.](http://9gag.com/gag/aO8138N)
+ - 👉 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)<!-- MEMES:END -->
 
 ---
 
