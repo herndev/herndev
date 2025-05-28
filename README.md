@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s Carl Pei predicts future phones will run on a single app. Do you agree?](https://www.androidauthority.com/nothing-carl-pei-smartphone-apps-future-3561731/)
- - [Chinese state-backed Hygon, which makes server CPUs, and server maker Sugon have agreed to merge; Hygon has a market cap of ~$43.9B, while Sugon&#39;s is ~$12.6B &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250528/p2#a250528p2)
- - [T-Mobile Responds to New App Setting That Records Your Phone&#39;s Screen](https://www.cnet.com/tech/mobile/t-mobile-responds-to-new-app-setting-that-records-your-phones-screen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Humain, Saudi Arabia&#39;s new state-owned AI company, says it is seeking investment from US tech companies and investors, and plans to launch a $10B VC fund &lpar;Financial Times&rpar;](http://www.techmeme.com/250528/p3#a250528p3)
+ - [30% Off Design Within Reach Promo Code | June 2025](https://www.wired.com/story/design-within-reach-promo-code/)
+ - [Home Depot Promo Codes &amp; Coupons: 50% Off](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
