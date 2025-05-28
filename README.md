@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos adds Pixel-exclusive AI features to redesigned editor](https://www.theverge.com/news/675469/google-photos-editor-ai-tool-suggestions-update)
- - [LexisNexis leaked social security numbers and other personal data of over 364,000 people](https://www.theverge.com/news/675702/lexisnexis-data-broker-breach-social-security-numbers)
- - [One UI 8 gives you quick access to earbud controls on the lock screen](https://www.androidauthority.com/one-ui-8-earbud-controls-lock-screen-shortcut-3561969/)<!-- TECH:END -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/670552/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [10 Best Juicers &lpar;2025&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicer/)
+ - [iPhone satellite features arrive in Mexico to bridge signal gaps](https://appleinsider.com/articles/25/05/28/iphone-satellite-features-arrive-in-mexico-to-bridge-signal-gaps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
