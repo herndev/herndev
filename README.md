@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft Classic returns to Mists of Pandaria this July—marking a chance to return to the beloved expansion without the gulp frog melodrama](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-classic-returns-to-mists-of-pandaria-this-july-marking-a-chance-to-return-to-the-beloved-expansion-without-the-gulp-frog-melodrama/)
- - [The Internet Reacts To The Last Of Us’ Second Season Finale](https://kotaku.com/last-of-us-season-2-reaction-finale-abby-ellie-jesse-1851782620)
- - [Discord asks users to ponder its Orbs, an earnable currency you can use to buy Nitro](https://www.pcgamer.com/gaming-industry/discord-asks-users-to-ponder-its-orbs-an-earnable-currency-you-can-use-to-buy-nitro/)<!-- GAME:END -->
+ - [Elden Ring Nightreign review](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-review/)
+ - [Elden Ring Nightreign PC performance analysis: A bare-bones console port with glitches a-plenty](https://www.pcgamer.com/hardware/elden-ring-nightreign-pc-performance-analysis-a-bare-bones-console-port-with-glitches-a-plenty/)
+ - [Samsung&#39;s new Peltier cooling tech is more efficient and less wasteful and could be a great for keeping a power-hungry CPU chilly](https://www.pcgamer.com/hardware/cooling/samsungs-new-peltier-cooling-tech-is-more-efficient-and-less-wasteful-and-could-be-a-great-for-keeping-a-power-hungry-cpu-chilly/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
