@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds’ Electric Wyvern Is Harder To Beat In Its New Form, But It Can Be Done](https://kotaku.com/monster-hunter-wilds-mh-mon-hun-arch-tempered-rey-dau-1851782762)
- - [Black Panther Game Cancelled As EA Shuts Down Studio By Ex-Monolith Devs](https://kotaku.com/black-panther-ea-cliffhanger-monolith-productions-1851782787)
- - [Over 200 PS5 Games Are On Sale Right Now On The PlayStation Store](https://kotaku.com/ps5-psn-large-2025-sale-days-of-play-astro-bot-forza-1851782766)<!-- GAME:END -->
+ - [Switch 2 Is Shaping Up To Be The Port Machine The Original Never Was](https://kotaku.com/switch-2-ports-cyberpunk-2077-ps4-ps5-xbox-dlss-outlaws-1851782817)
+ - [Everything You Need to Know To Get into Magic the Gathering&#39;s Final Fantasy Set](https://kotaku.com/magic-gatheirng-final-fantasy-cloud-sephiroth-pack-set-1851782830)
+ - [EA cancels Black Panther game, closes developer Cliffhanger Games](https://www.polygon.com/news/602118/black-panther-canceled-ea-cliffhanger-games-closed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
