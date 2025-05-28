@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/670552/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [10 Best Juicers &lpar;2025&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicer/)
- - [iPhone satellite features arrive in Mexico to bridge signal gaps](https://appleinsider.com/articles/25/05/28/iphone-satellite-features-arrive-in-mexico-to-bridge-signal-gaps?utm_medium=rss)<!-- TECH:END -->
+ - [Don’t panic: Google is still working on splitting Quick Settings, but it’ll be optional](https://www.androidauthority.com/android-16-qpr1-split-quick-settings-3562165/)
+ - [Sources: Apple&#39;s next operating systems will be called iOS 26, macOS 26, watchOS 26, and more, as it plans a rebrand with numbers based on the upcoming year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250528/p31#a250528p31)
+ - [Secure Folder on One UI 8 is easier to use and safer than ever](https://www.androidauthority.com/secure-folder-one-ui-8-3562051/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
