@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-Dragon Age lead hopes Vampire: The Masquerade – Bloodlines 2 pulls an &#39;Expedition 33 or Baldur&#39;s Gate 3&#39; by leaning into the combat-light, roleplaying-heavy gameplay of the tabletop version](https://www.pcgamer.com/games/rpg/ex-dragon-age-lead-hopes-vampire-the-masquerade-bloodlines-2-pulls-an-expedition-33-or-baldurs-gate-3-by-leaning-into-the-combat-light-roleplaying-heavy-gameplay-of-the-tabletop-version/)
- - [As US tariff uncertainty continues, Nvidia&#39;s RTX 5090 dips under MSRP in the UK and EU](https://www.pcgamer.com/hardware/graphics-cards/as-us-tariff-uncertainty-continues-nvidias-rtx-5090-dips-under-msrp-in-the-uk-and-eu/)
- - [Clair Obscur: Expedition 33 sells 3.3 million copies in 33 days, in case you needed any more evidence we&#39;re living in a simulation](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-sells-3-3-million-copies-in-33-days-in-case-you-needed-any-more-evidence-were-living-in-a-simulation/)<!-- GAME:END -->
+ - [World of Warcraft Classic returns to Mists of Pandaria this July—marking a chance to return to the beloved expansion without the gulp frog melodrama](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-classic-returns-to-mists-of-pandaria-this-july-marking-a-chance-to-return-to-the-beloved-expansion-without-the-gulp-frog-melodrama/)
+ - [The Internet Reacts To The Last Of Us’ Second Season Finale](https://kotaku.com/last-of-us-season-2-reaction-finale-abby-ellie-jesse-1851782620)
+ - [Discord asks users to ponder its Orbs, an earnable currency you can use to buy Nitro](https://www.pcgamer.com/gaming-industry/discord-asks-users-to-ponder-its-orbs-an-earnable-currency-you-can-use-to-buy-nitro/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
