@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humain, Saudi Arabia&#39;s new state-owned AI company, says it is seeking investment from US tech companies and investors, and plans to launch a $10B VC fund &lpar;Financial Times&rpar;](http://www.techmeme.com/250528/p3#a250528p3)
- - [30% Off Design Within Reach Promo Code | June 2025](https://www.wired.com/story/design-within-reach-promo-code/)
- - [Home Depot Promo Codes &amp; Coupons: 50% Off](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [A profile of Byju&#39;s CEO Byju Raveendran, who refuses to take responsibility for the edtech company&#39;s implosion and is accused of hiding $533M from US lenders &lpar;Yudhijit Bhattacharjee/Rest of World&rpar;](http://www.techmeme.com/250528/p8#a250528p8)
+ - [Qualcomm shares study showing Androids beat iPhone 16e on 5G](https://www.androidauthority.com/qualcomm-report-apple-modem-speeds-3561740/)
+ - [A look at Tools for Humanity, cofounded by Sam Altman, as the company plans to deploy 7,500 iris-scanning Orbs across the US over the next 12 months &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250528/p7#a250528p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
