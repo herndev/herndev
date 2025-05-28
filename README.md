@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung confirms stable One UI 8 rollout plans](https://www.androidauthority.com/samsung-one-ui-8-stable-rollout-schedule-3561818/)
- - [Google One is getting a fresh coat of paint for Android 16 &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-one-is-getting-a-fresh-coat-of-paint-for-android-16-apk-teardown-3561755/)
- - [Sources: Nvidia suppliers Foxconn, Inventec, Dell, and Wistron made breakthroughs to resolve issues from 2024 that delayed Blackwell AI server &quot;rack&quot; shipments &lpar;Financial Times&rpar;](http://www.techmeme.com/250528/p12#a250528p12)<!-- TECH:END -->
+ - [Samsung just made customer support easier for all Galaxy phone owners](https://www.androidauthority.com/samsung-customer-support-feature-all-galaxy-phones-3561836/)
+ - [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)
+ - [PSA: You need to update this 3DS emulator to avoid a security risk](https://www.androidauthority.com/azahar-3ds-emulator-security-update-3561822/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
