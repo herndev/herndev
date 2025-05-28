@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nintendo Switch’s complicated legacy with indie games](https://www.theverge.com/nintendo/671658/nintendo-switch-indie-games-eshop-legacy)
- - [Don’t Google “Is it 2025?” unless you want to laugh at the state of AI](https://www.androidauthority.com/google-search-ai-overview-doesnt-know-the-year-3561764/)
- - [Ford recalls over 1 million vehicles for glitchy rearview cameras](https://www.theverge.com/news/675570/ford-recall-1-million-vehicles-rearview-cameras)<!-- TECH:END -->
+ - [You can track Satechi’s new glasses case using Apple’s Find My network](https://www.theverge.com/news/674870/satechi-findall-tracker-glasses-luggage-tag-card-keychain-apple-find-my-network)
+ - [CD Projekt Red is moving forward with Cyberpunk 2](https://www.theverge.com/news/675651/cd-projekt-red-cyberpunk-2-project-orion)
+ - [&#39;Grand Theft Auto&#39; Publisher Swaps DEI for &#39;Diversity of Thought&#39; in Annual Report](https://www.wired.com/story/grand-theft-autos-publisher-abandons-dei-for-diversity-of-thought-in-annual-report/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
