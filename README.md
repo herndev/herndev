@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
- - ⏩ [I sometimes can&#39;t tell whether it&#39;s AI or not anymore](http://9gag.com/gag/aVv231v)
- - 👉 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)<!-- MEMES:END -->
+ - 💣 [Maybe they had a point?](http://9gag.com/gag/aPAX7GP)
+ - ⏩ [My dad&#39;s old wallet is basically a magic trick](http://9gag.com/gag/aRB27Ry)
+ - 👉 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)<!-- MEMES:END -->
 
 ---
 
