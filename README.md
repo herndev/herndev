@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The &#39;most powerful creature in the game&#39; is about to be unleashed into Lethal Company as part of its first update in months](https://www.pcgamer.com/games/horror/the-most-powerful-creature-in-the-game-is-about-to-be-unleashed-into-lethal-company-as-part-of-its-first-update-in-months/)
  - [When does the Extradimensional Crisis expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/600836/extradimensional-crisis-expansion-release-time-date-pdt-edt-bst)
- - [Today&#39;s Wordle answer for Wednesday, May 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-28-2025/)
- - [&lpar;For Southeast Asia&rpar; Celebrate Days of Play 2025 starting on May 28](https://blog.playstation.com/2025/05/27/20250528-dop/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, May 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-28-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
