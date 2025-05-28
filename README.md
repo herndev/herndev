@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 Is Shaping Up To Be The Port Machine The Original Never Was](https://kotaku.com/switch-2-ports-cyberpunk-2077-ps4-ps5-xbox-dlss-outlaws-1851782817)
- - [Everything You Need to Know To Get into Magic the Gathering&#39;s Final Fantasy Set](https://kotaku.com/magic-gatheirng-final-fantasy-cloud-sephiroth-pack-set-1851782830)
- - [EA cancels Black Panther game, closes developer Cliffhanger Games](https://www.polygon.com/news/602118/black-panther-canceled-ea-cliffhanger-games-closed)<!-- GAME:END -->
+ - [Someone Take Away Randy Pitchford&#39;s Phone](https://kotaku.com/borderlands-4-randy-pitchford-gearbox-80-real-fan-post-1851782855)
+ - [If you&#39;re &#39;scared of PvP&#39;, don&#39;t worry: Dune: Awakening&#39;s endgame deep desert area has a PvE zone, too](https://www.pcgamer.com/games/survival-crafting/if-youre-scared-of-pvp-dont-worry-dune-awakenings-massive-deep-desert-has-a-pve-zone-too/)
+ - [MindsEye co-CEO claims there&#39;s a &#39;concerted effort&#39; to trash the game ahead of its release: &#39;I do KNOW that there are bot farms posting negative comments and dislikes&#39;](https://www.pcgamer.com/games/third-person-shooter/mindseye-co-ceo-claims-theres-a-concerted-effort-to-trash-the-game-ahead-of-its-release-i-do-know-that-there-are-bot-farms-posting-negative-comments-and-dislikes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
