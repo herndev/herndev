@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Byju&#39;s CEO Byju Raveendran, who refuses to take responsibility for the edtech company&#39;s implosion and is accused of hiding $533M from US lenders &lpar;Yudhijit Bhattacharjee/Rest of World&rpar;](http://www.techmeme.com/250528/p8#a250528p8)
- - [Qualcomm shares study showing Androids beat iPhone 16e on 5G](https://www.androidauthority.com/qualcomm-report-apple-modem-speeds-3561740/)
- - [A look at Tools for Humanity, cofounded by Sam Altman, as the company plans to deploy 7,500 iris-scanning Orbs across the US over the next 12 months &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250528/p7#a250528p7)<!-- TECH:END -->
+ - [Indian documents and emails: CCTV makers clashed with Indian regulators over rules requiring government labs to assess hardware, software, and source code &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250528/p11#a250528p11)
+ - [A look at Sea-Lion, a $52M Singapore government-backed AI initiative developing LLMs attuned to the societal and cultural nuances of the Southeast Asian region &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250528/p10#a250528p10)
+ - [Breaking: One UI 8 beta starts rolling out for the Galaxy S25 series](https://www.androidauthority.com/samsung-one-ui-8-first-beta-rolling-out-3561776/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
