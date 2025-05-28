@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Master Nature&#39;s Wrath As Storm In Marvel Rivals](https://kotaku.com/marvel-rivals-how-to-play-storm-ultimate-duelist-1851782739)
- - [Cyberpunk 2, which is now officially called Cyberpunk 2, has entered pre-production, but don&#39;t expect it out before 2030](https://www.pcgamer.com/games/rpg/cyberpunk-2-which-is-now-officially-called-cyberpunk-2-has-entered-pre-production-but-dont-expect-it-out-before-2030/)
- - [Nintendo solved the scalper problem for Switch 2 — but not for everyone](https://www.polygon.com/opinion/602009/switch-2-scalper-resell-problem-fix)<!-- GAME:END -->
+ - [Rematch – Final Beta Available May 28-31!](https://news.xbox.com/en-us/2025/05/28/rematch-final-beta-available-may-28-31/)
+ - [The Best Class For Last Epoch’s Second Season Is A Time-Warping, Hammer-Swinging Powerhouse](https://kotaku.com/last-epoch-season-2-best-class-sentinel-void-knight-1851782757)
+ - [How To Defeat Renoir In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-renoir-boss-mansion-verso-1851782747)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
