@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Red flag spotted at the zoo entrance.](http://9gag.com/gag/aLnXwdv)
- - ⏩ [Peak engineering right here](http://9gag.com/gag/aXP2Yzz)
- - 👉 [Work hard](http://9gag.com/gag/aAyXb82)<!-- MEMES:END -->
+ - 💣 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
+ - ⏩ [Red flag spotted at the zoo entrance.](http://9gag.com/gag/aLnXwdv)
+ - 👉 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)<!-- MEMES:END -->
 
 ---
 
