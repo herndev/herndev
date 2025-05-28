@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe they had a point?](http://9gag.com/gag/aPAX7GP)
- - ⏩ [My dad&#39;s old wallet is basically a magic trick](http://9gag.com/gag/aRB27Ry)
- - 👉 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)<!-- MEMES:END -->
+ - 💣 [Fookin etiquette](http://9gag.com/gag/a34WR5Q)
+ - ⏩ [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
+ - 👉 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)<!-- MEMES:END -->
 
 ---
 
