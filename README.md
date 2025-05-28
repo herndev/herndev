@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Is Art\u2026 I Think?](http://9gag.com/gag/avyvAZq)
- - ⏩ [Respect for this legend who prioritized family.](http://9gag.com/gag/aO8138N)
- - 👉 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)<!-- MEMES:END -->
+ - 💣 [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)
+ - ⏩ [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
+ - 👉 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)<!-- MEMES:END -->
 
 ---
 
