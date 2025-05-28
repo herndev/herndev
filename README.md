@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
- - ⏩ [Red flag spotted at the zoo entrance.](http://9gag.com/gag/aLnXwdv)
- - 👉 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)<!-- MEMES:END -->
+ - 💣 [When the food hits the water...](http://9gag.com/gag/aRB2XBG)
+ - ⏩ [From the archives](http://9gag.com/gag/aryBMg0)
+ - 👉 [Been there](http://9gag.com/gag/aGy2gqG)<!-- MEMES:END -->
 
 ---
 
