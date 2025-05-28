@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s getting some new voices on your phone &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-voice-search-new-voices-3561504/)
- - [Sources: Unacademy cofounder Gaurav Munjal is stepping down as CEO, as the company pivots to in-person coaching centers and its Duolingo-like learning app &lpar;Samidha Sharma/The Economic Times&rpar;](http://www.techmeme.com/250527/p41#a250527p41)
- - [How to use MacDisk software to read vintage Mac floppies on your Windows PC](https://appleinsider.com/inside/macos/tips/how-to-use-macdisk-software-to-read-vintage-mac-floppies-on-your-windows-pc?utm_medium=rss)<!-- TECH:END -->
+ - [Nothing’s Carl Pei predicts future phones will run on a single app. Do you agree?](https://www.androidauthority.com/nothing-carl-pei-smartphone-apps-future-3561731/)
+ - [Chinese state-backed Hygon, which makes server CPUs, and server maker Sugon have agreed to merge; Hygon has a market cap of ~$43.9B, while Sugon&#39;s is ~$12.6B &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250528/p2#a250528p2)
+ - [T-Mobile Responds to New App Setting That Records Your Phone&#39;s Screen](https://www.cnet.com/tech/mobile/t-mobile-responds-to-new-app-setting-that-records-your-phones-screen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
