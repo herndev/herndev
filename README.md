@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe they had a point?](http://9gag.com/gag/aPAX7GP)
- - ⏩ [Respect for this legend who prioritized family.](http://9gag.com/gag/aO8138N)
- - 👉 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)<!-- MEMES:END -->
+ - 💣 [Been there](http://9gag.com/gag/aGy2gqG)
+ - ⏩ [Bubbleception](http://9gag.com/gag/aGy2Z5z)
+ - 👉 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)<!-- MEMES:END -->
 
 ---
 
