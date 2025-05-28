@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Massagers for People Who Don’t Have Time to Relax &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-massagers/)
- - [Pavel Durov says Telegram and xAI agreed a one-year deal to distribute Grok; Telegram will get $300M in cash and equity from xAI and 50% of subscription revenue &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250528/p22#a250528p22)
- - [Keita Takahashi returns with the whimsically weird To a T](https://www.theverge.com/games-review/674577/to-a-t-review-keita-takahashi-ps5-xbox-pc)<!-- TECH:END -->
+ - [Logic Pro update brings improved beats and audio fidelity to Mac and iPad](https://appleinsider.com/articles/25/05/28/logic-pro-update-brings-improved-beats-and-audio-fidelity-to-mac-and-ipad?utm_medium=rss)
+ - [Sony’s ringing in the Switch 2 launch with PS5 deals](https://www.theverge.com/tech/675179/ps5-pro-bundle-dualsense-console-deal-sale)
+ - [I just downloaded the One UI 8 beta on my Galaxy S25. Here’s how you can, too](https://www.androidauthority.com/how-download-samsung-one-ui-8-beta-3561920/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
