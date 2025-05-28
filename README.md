@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s getting some new voices on your phone &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-voice-search-new-voices-3561504/)
  - [Sources: Unacademy cofounder Gaurav Munjal is stepping down as CEO, as the company pivots to in-person coaching centers and its Duolingo-like learning app &lpar;Samidha Sharma/The Economic Times&rpar;](http://www.techmeme.com/250527/p41#a250527p41)
- - [How to use MacDisk software to read vintage Mac floppies on your Windows PC](https://appleinsider.com/inside/macos/tips/how-to-use-macdisk-software-to-read-vintage-mac-floppies-on-your-windows-pc?utm_medium=rss)
- - [The EU has published its April 23 decision to fine Apple €500M for DMA non-compliance; Apple has until end of June to be in compliance or face periodic fines &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250527/p40#a250527p40)<!-- TECH:END -->
+ - [How to use MacDisk software to read vintage Mac floppies on your Windows PC](https://appleinsider.com/inside/macos/tips/how-to-use-macdisk-software-to-read-vintage-mac-floppies-on-your-windows-pc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
