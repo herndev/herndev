@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
- - ⏩ [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
- - 👉 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)<!-- MEMES:END -->
+ - 💣 [Just a casual day in the backyard...](http://9gag.com/gag/ajPKEpQ)
+ - ⏩ [Well, technically...](http://9gag.com/gag/aoy8e13)
+ - 👉 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)<!-- MEMES:END -->
 
 ---
 
