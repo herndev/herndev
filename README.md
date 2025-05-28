@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian documents and emails: CCTV makers clashed with Indian regulators over rules requiring government labs to assess hardware, software, and source code &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250528/p11#a250528p11)
- - [A look at Sea-Lion, a $52M Singapore government-backed AI initiative developing LLMs attuned to the societal and cultural nuances of the Southeast Asian region &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250528/p10#a250528p10)
- - [Breaking: One UI 8 beta starts rolling out for the Galaxy S25 series](https://www.androidauthority.com/samsung-one-ui-8-first-beta-rolling-out-3561776/)<!-- TECH:END -->
+ - [Samsung confirms stable One UI 8 rollout plans](https://www.androidauthority.com/samsung-one-ui-8-stable-rollout-schedule-3561818/)
+ - [Google One is getting a fresh coat of paint for Android 16 &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-one-is-getting-a-fresh-coat-of-paint-for-android-16-apk-teardown-3561755/)
+ - [Sources: Nvidia suppliers Foxconn, Inventec, Dell, and Wistron made breakthroughs to resolve issues from 2024 that delayed Blackwell AI server &quot;rack&quot; shipments &lpar;Financial Times&rpar;](http://www.techmeme.com/250528/p12#a250528p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
