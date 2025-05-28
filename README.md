@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Elder Scroll 6 will be disaster](http://9gag.com/gag/a0eE7Az)
- - ⏩ [Husband sets up a demonstration for his wife to answer why men miss the \ud83d\udebd on occasion](http://9gag.com/gag/aGy2pVz)
- - 👉 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)<!-- MEMES:END -->
+ - ⏩ [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
+ - 👉 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)<!-- MEMES:END -->
 
 ---
 
