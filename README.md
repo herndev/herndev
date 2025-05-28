@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t panic: Google is still working on splitting Quick Settings, but it’ll be optional](https://www.androidauthority.com/android-16-qpr1-split-quick-settings-3562165/)
- - [Sources: Apple&#39;s next operating systems will be called iOS 26, macOS 26, watchOS 26, and more, as it plans a rebrand with numbers based on the upcoming year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250528/p31#a250528p31)
- - [Secure Folder on One UI 8 is easier to use and safer than ever](https://www.androidauthority.com/secure-folder-one-ui-8-3562051/)<!-- TECH:END -->
+ - [Spotify is adding a Following feed for podcasts](https://www.theverge.com/news/676024/spotify-podcasts-following-feed-home-recommendations)
+ - [Apple rumored to release iOS 26 at WWDC, instead of iOS 19](https://appleinsider.com/articles/25/05/28/apple-rumored-to-release-ios-26-at-wwdc-instead-of-ios-19?utm_medium=rss)
+ - [You can start testing Xbox’s new Copilot chatbot in the mobile app right now](https://www.androidauthority.com/xbox-copilot-for-gaming-3562128/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
