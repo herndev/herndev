@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elder Scroll 6 will be disaster](http://9gag.com/gag/a0eE7Az)
- - ⏩ [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
- - 👉 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)<!-- MEMES:END -->
+ - 💣 [Red flag spotted at the zoo entrance.](http://9gag.com/gag/aLnXwdv)
+ - ⏩ [Peak engineering right here](http://9gag.com/gag/aXP2Yzz)
+ - 👉 [Work hard](http://9gag.com/gag/aAyXb82)<!-- MEMES:END -->
 
 ---
 
