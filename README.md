@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is adding a Following feed for podcasts](https://www.theverge.com/news/676024/spotify-podcasts-following-feed-home-recommendations)
- - [Apple rumored to release iOS 26 at WWDC, instead of iOS 19](https://appleinsider.com/articles/25/05/28/apple-rumored-to-release-ios-26-at-wwdc-instead-of-ios-19?utm_medium=rss)
- - [You can start testing Xbox’s new Copilot chatbot in the mobile app right now](https://www.androidauthority.com/xbox-copilot-for-gaming-3562128/)<!-- TECH:END -->
+ - [Apple may shake up its OS branding by taking this idea from Samsung](https://www.androidauthority.com/apple-considers-os-rebrand-3562201/)
+ - [Opera announces Opera Neon, an AI &quot;agentic browser&quot; that performs tasks on users&#39; behalf, describing it as a &quot;premium subscription product&quot; behind a waitlist &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250528/p40#a250528p40)
+ - [Salesforce reports Q1 revenue up 8% YoY to $9.83B, vs. $9.75B est., and raises its FY 2026 revenue forecast to between $41B and $41.3B &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250528/p39#a250528p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
