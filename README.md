@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Been there](http://9gag.com/gag/aGy2gqG)
- - ⏩ [Bubbleception](http://9gag.com/gag/aGy2Z5z)
- - 👉 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)<!-- MEMES:END -->
+ - 💣 [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)
+ - ⏩ [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
+ - 👉 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)<!-- MEMES:END -->
 
 ---
 
