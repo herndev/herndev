@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The &#39;most powerful creature in the game&#39; is about to be unleashed into Lethal Company as part of its first update in months](https://www.pcgamer.com/games/horror/the-most-powerful-creature-in-the-game-is-about-to-be-unleashed-into-lethal-company-as-part-of-its-first-update-in-months/)
- - [When does the Extradimensional Crisis expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/600836/extradimensional-crisis-expansion-release-time-date-pdt-edt-bst)
- - [Today&#39;s Wordle answer for Wednesday, May 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-28-2025/)<!-- GAME:END -->
+ - [Clair Obscur: Expedition 33 sells 3.3 million copies in 33 days, in case you needed any more evidence we&#39;re living in a simulation](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-sells-3-3-million-copies-in-33-days-in-case-you-needed-any-more-evidence-were-living-in-a-simulation/)
+ - [A new farming sim has entered the ring, except you&#39;re a cowboy on a ranch and you have shootouts with bandits and rob trains](https://www.pcgamer.com/games/sim/a-new-farming-sim-has-entered-the-ring-except-youre-a-cowboy-on-a-ranch-and-you-have-shootouts-with-bandits-and-rob-trains/)
+ - [Honkai: Star Rail Archer materials and kit](https://www.pcgamer.com/games/rpg/honkai-star-rail-archer-materials-kit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
