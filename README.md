@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
- - ⏩ [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
- - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
+ - 💣 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)
+ - ⏩ [Husband sets up a demonstration for his wife to answer why men miss the \ud83d\udebd on occasion](http://9gag.com/gag/aGy2pVz)
+ - 👉 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)<!-- MEMES:END -->
 
 ---
 
