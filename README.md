@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Been there](http://9gag.com/gag/aGy2gqG)
+ - 💣 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
  - ⏩ [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
- - 👉 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)<!-- MEMES:END -->
+ - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
 
 ---
 
