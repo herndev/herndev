@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, May 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-28-2025/)
  - [&lpar;For Southeast Asia&rpar; Celebrate Days of Play 2025 starting on May 28](https://blog.playstation.com/2025/05/27/20250528-dop/)
- - [Physics-based survival city-builder All Will Fall is having an open beta test in June](https://www.pcgamer.com/games/city-builder/physics-based-survival-city-builder-all-will-fall-is-having-an-open-beta-test-in-june/)
- - [Sorry, nightfarers: Elden Ring Nightreign does not have crossplay](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-crossplay-pc-ps5/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Celebrate Days of Play 2025 starting on May 28](https://blog.playstation.com/2025/05/27/20250528-dop/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
