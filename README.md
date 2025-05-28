@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)
- - ⏩ [Keannu x ana](http://9gag.com/gag/a4PqRgy)
- - 👉 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)<!-- MEMES:END -->
+ - 💣 [China, we have a problem](http://9gag.com/gag/aAyXgoE)
+ - ⏩ [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)
+ - 👉 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)<!-- MEMES:END -->
 
 ---
 
