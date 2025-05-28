@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock Phantom Jobs in FFXIV’s Occult Crescent](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/602044/phantom-jobs-unlock-occult-crescent)
- - [Switch 2 Startup And Menu Settings Appear Online As Early Player Shows Off Console In &#39;Code Red&#39; Leak For Nintendo](https://kotaku.com/nintendo-switch-2-menu-settings-firmware-day-one-patch-1851782656)
- - [Final Destination: Bloodlines directors clear up fans’ two biggest questions](https://www.polygon.com/horror/602031/final-destination-bloodlines-ending-explained-directors-spoilers-erik-death)<!-- GAME:END -->
+ - [Monster Hunter Wilds’ Electric Wyvern Is Harder To Beat In Its New Form, But It Can Be Done](https://kotaku.com/monster-hunter-wilds-mh-mon-hun-arch-tempered-rey-dau-1851782762)
+ - [Black Panther Game Cancelled As EA Shuts Down Studio By Ex-Monolith Devs](https://kotaku.com/black-panther-ea-cliffhanger-monolith-productions-1851782787)
+ - [Over 200 PS5 Games Are On Sale Right Now On The PlayStation Store](https://kotaku.com/ps5-psn-large-2025-sale-days-of-play-astro-bot-forza-1851782766)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
