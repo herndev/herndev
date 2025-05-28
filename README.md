@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung just made customer support easier for all Galaxy phone owners](https://www.androidauthority.com/samsung-customer-support-feature-all-galaxy-phones-3561836/)
- - [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)
- - [PSA: You need to update this 3DS emulator to avoid a security risk](https://www.androidauthority.com/azahar-3ds-emulator-security-update-3561822/)<!-- TECH:END -->
+ - [Surface Laptop 13-inch review: a little less for a little less](https://www.theverge.com/reviews/671554/microsoft-surface-laptop-13-inch-review)
+ - [AirPods Max vs Sony XM6 - Over-ear headphones shootout](https://appleinsider.com/inside/airpods-max/vs/airpods-max-vs-sony-xm6---over-ear-headphones-shootout?utm_medium=rss)
+ - [Apple launches its Self Service Repair program for the iPad lineup, a first, and plans to bring the program to Canada in summer, the 34th country to offer it &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/250528/p18#a250528p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
