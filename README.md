@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fookin etiquette](http://9gag.com/gag/a34WR5Q)
- - ⏩ [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
- - 👉 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)<!-- MEMES:END -->
+ - 💣 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
+ - ⏩ [Took me 3 sec to guess](http://9gag.com/gag/a9yXp5Z)
+ - 👉 [Been there](http://9gag.com/gag/aGy2gqG)<!-- MEMES:END -->
 
 ---
 
