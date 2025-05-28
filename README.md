@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Bark Ages Returns — Raising Hell for a Good Cause](https://news.xbox.com/en-us/2025/05/28/doom-bark-ages-charity-t-shirt/)
- - [Listening to Google&#39;s CEO talking about what about the future of AI holds just reinforces the fact that nobody can know what the future of AI holds](https://www.pcgamer.com/software/ai/listening-to-googles-ceo-talking-what-about-the-future-of-ai-holds-just-reinforces-that-nobody-can-know-what-the-future-of-ai-holds/)
- - [Elden Ring Nightreign Is A Bizarre Experiment In Fortnite-ification I Can&#39;t Stop Thinking About](https://kotaku.com/elden-ring-nightreign-review-in-progress-difficulty-1851782700)<!-- GAME:END -->
+ - [How To Master Nature&#39;s Wrath As Storm In Marvel Rivals](https://kotaku.com/marvel-rivals-how-to-play-storm-ultimate-duelist-1851782739)
+ - [Cyberpunk 2, which is now officially called Cyberpunk 2, has entered pre-production, but don&#39;t expect it out before 2030](https://www.pcgamer.com/games/rpg/cyberpunk-2-which-is-now-officially-called-cyberpunk-2-has-entered-pre-production-but-dont-expect-it-out-before-2030/)
+ - [Nintendo solved the scalper problem for Switch 2 — but not for everyone](https://www.polygon.com/opinion/602009/switch-2-scalper-resell-problem-fix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
