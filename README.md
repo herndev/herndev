@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33 sells 3.3 million copies in 33 days, in case you needed any more evidence we&#39;re living in a simulation](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-sells-3-3-million-copies-in-33-days-in-case-you-needed-any-more-evidence-were-living-in-a-simulation/)
- - [A new farming sim has entered the ring, except you&#39;re a cowboy on a ranch and you have shootouts with bandits and rob trains](https://www.pcgamer.com/games/sim/a-new-farming-sim-has-entered-the-ring-except-youre-a-cowboy-on-a-ranch-and-you-have-shootouts-with-bandits-and-rob-trains/)
- - [Honkai: Star Rail Archer materials and kit](https://www.pcgamer.com/games/rpg/honkai-star-rail-archer-materials-kit/)<!-- GAME:END -->
+ - [Ex-Dragon Age lead hopes Vampire: The Masquerade – Bloodlines 2 pulls an &#39;Expedition 33 or Baldur&#39;s Gate 3&#39; by leaning into the combat-light, roleplaying-heavy gameplay of the tabletop version](https://www.pcgamer.com/games/rpg/ex-dragon-age-lead-hopes-vampire-the-masquerade-bloodlines-2-pulls-an-expedition-33-or-baldurs-gate-3-by-leaning-into-the-combat-light-roleplaying-heavy-gameplay-of-the-tabletop-version/)
+ - [As US tariff uncertainty continues, Nvidia&#39;s RTX 5090 dips under MSRP in the UK and EU](https://www.pcgamer.com/hardware/graphics-cards/as-us-tariff-uncertainty-continues-nvidias-rtx-5090-dips-under-msrp-in-the-uk-and-eu/)
+ - [Clair Obscur: Expedition 33 sells 3.3 million copies in 33 days, in case you needed any more evidence we&#39;re living in a simulation](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-sells-3-3-million-copies-in-33-days-in-case-you-needed-any-more-evidence-were-living-in-a-simulation/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
