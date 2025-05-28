@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rematch – Final Beta Available May 28-31!](https://news.xbox.com/en-us/2025/05/28/rematch-final-beta-available-may-28-31/)
- - [The Best Class For Last Epoch’s Second Season Is A Time-Warping, Hammer-Swinging Powerhouse](https://kotaku.com/last-epoch-season-2-best-class-sentinel-void-knight-1851782757)
- - [How To Defeat Renoir In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-renoir-boss-mansion-verso-1851782747)<!-- GAME:END -->
+ - [How to unlock Phantom Jobs in FFXIV’s Occult Crescent](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/602044/phantom-jobs-unlock-occult-crescent)
+ - [Switch 2 Startup And Menu Settings Appear Online As Early Player Shows Off Console In &#39;Code Red&#39; Leak For Nintendo](https://kotaku.com/nintendo-switch-2-menu-settings-firmware-day-one-patch-1851782656)
+ - [Final Destination: Bloodlines directors clear up fans’ two biggest questions](https://www.polygon.com/horror/602031/final-destination-bloodlines-ending-explained-directors-spoilers-erik-death)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
