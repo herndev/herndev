@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So what kind of nese are you?](http://9gag.com/gag/aMVXZGA)
- - ⏩ [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
- - 👉 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)<!-- MEMES:END -->
+ - 💣 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
+ - ⏩ [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
+ - 👉 [Bubbleception](http://9gag.com/gag/aGy2Z5z)<!-- MEMES:END -->
 
 ---
 
