@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
- - ⏩ [Took me 3 sec to guess](http://9gag.com/gag/a9yXp5Z)
- - 👉 [Been there](http://9gag.com/gag/aGy2gqG)<!-- MEMES:END -->
+ - 💣 [Who did it best](http://9gag.com/gag/aO81r2N)
+ - ⏩ [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
+ - 👉 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)<!-- MEMES:END -->
 
 ---
 
