@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China, we have a problem](http://9gag.com/gag/aAyXgoE)
- - ⏩ [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)
- - 👉 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)<!-- MEMES:END -->
+ - 💣 [So what kind of nese are you?](http://9gag.com/gag/aMVXZGA)
+ - ⏩ [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 👉 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)<!-- MEMES:END -->
 
 ---
 
