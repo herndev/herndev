@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign review](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-review/)
- - [Elden Ring Nightreign PC performance analysis: A bare-bones console port with glitches a-plenty](https://www.pcgamer.com/hardware/elden-ring-nightreign-pc-performance-analysis-a-bare-bones-console-port-with-glitches-a-plenty/)
- - [Samsung&#39;s new Peltier cooling tech is more efficient and less wasteful and could be a great for keeping a power-hungry CPU chilly](https://www.pcgamer.com/hardware/cooling/samsungs-new-peltier-cooling-tech-is-more-efficient-and-less-wasteful-and-could-be-a-great-for-keeping-a-power-hungry-cpu-chilly/)<!-- GAME:END -->
+ - [Testing for Copilot for Gaming &lpar;Beta&rpar; Begins Rolling Out on Mobile Devices Today](https://news.xbox.com/en-us/2025/05/28/copilot-gaming-test-xbox-android-ios/)
+ - [Computex 2025 showed that innovation in PC hardware often involves sticking a screen on something but don&#39;t let that distract you from the genuine improvements underneath](https://www.pcgamer.com/hardware/computex-2025-showed-that-innovation-in-pc-hardware-often-involves-sticking-a-screen-on-something-but-dont-let-that-distract-you-from-the-genuine-improvements-underneath/)
+ - [Windows pack-in classic Space Cadet Pinball has been unofficially ported to Android devices—and it&#39;s free](https://www.pcgamer.com/hardware/windows-pack-in-classic-space-cadet-pinball-has-been-unofficially-ported-to-android-devices-and-its-free/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
