@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surface Laptop 13-inch review: a little less for a little less](https://www.theverge.com/reviews/671554/microsoft-surface-laptop-13-inch-review)
- - [AirPods Max vs Sony XM6 - Over-ear headphones shootout](https://appleinsider.com/inside/airpods-max/vs/airpods-max-vs-sony-xm6---over-ear-headphones-shootout?utm_medium=rss)
- - [Apple launches its Self Service Repair program for the iPad lineup, a first, and plans to bring the program to Canada in summer, the 34th country to offer it &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/250528/p18#a250528p18)<!-- TECH:END -->
+ - [7 Best Massagers for People Who Don’t Have Time to Relax &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-massagers/)
+ - [Pavel Durov says Telegram and xAI agreed a one-year deal to distribute Grok; Telegram will get $300M in cash and equity from xAI and 50% of subscription revenue &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250528/p22#a250528p22)
+ - [Keita Takahashi returns with the whimsically weird To a T](https://www.theverge.com/games-review/674577/to-a-t-review-keita-takahashi-ps5-xbox-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
