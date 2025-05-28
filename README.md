@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can track Satechi’s new glasses case using Apple’s Find My network](https://www.theverge.com/news/674870/satechi-findall-tracker-glasses-luggage-tag-card-keychain-apple-find-my-network)
- - [CD Projekt Red is moving forward with Cyberpunk 2](https://www.theverge.com/news/675651/cd-projekt-red-cyberpunk-2-project-orion)
- - [&#39;Grand Theft Auto&#39; Publisher Swaps DEI for &#39;Diversity of Thought&#39; in Annual Report](https://www.wired.com/story/grand-theft-autos-publisher-abandons-dei-for-diversity-of-thought-in-annual-report/)<!-- TECH:END -->
+ - [Google Photos adds Pixel-exclusive AI features to redesigned editor](https://www.theverge.com/news/675469/google-photos-editor-ai-tool-suggestions-update)
+ - [LexisNexis leaked social security numbers and other personal data of over 364,000 people](https://www.theverge.com/news/675702/lexisnexis-data-broker-breach-social-security-numbers)
+ - [One UI 8 gives you quick access to earbud controls on the lock screen](https://www.androidauthority.com/one-ui-8-earbud-controls-lock-screen-shortcut-3561969/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
