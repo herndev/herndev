@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chalk, which lets enterprises input proprietary data into AI and ML models quickly for inference, raised a $50M Series A led by Felicis at a $500M valuation &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250529/p12#a250529p12)
- - [Migrant Filipino workers in Taiwan&#39;s chip industry say job brokers control everything from paychecks to dorm beds, leaving them feeling trapped and exploited &lpar;Rest of World&rpar;](http://www.techmeme.com/250529/p11#a250529p11)
- - [Elon Musk Says He&#39;ll Step Back From the Government. DOGE Isn&#39;t Going Anywhere](https://www.wired.com/story/elon-musk-stepping-back-doge-final-form/)<!-- TECH:END -->
+ - [Pixel 10 could retain key safety feature despite modem shakeup &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-10-satellite-connectivity-apk-teardown-3562288/)
+ - [Sources: the Trump administration suspends sales of more US tech, including chips and jet engines, in response to China&#39;s critical mineral export restrictions &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/250529/p18#a250529p18)
+ - [Source: Victoria&#39;s Secret stops some office operations and tells staff to avoid using its tech amid a &quot;security incident&quot; that also disrupted its website &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p17#a250529p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
