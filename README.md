@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone Take Away Randy Pitchford&#39;s Phone](https://kotaku.com/borderlands-4-randy-pitchford-gearbox-80-real-fan-post-1851782855)
- - [If you&#39;re &#39;scared of PvP&#39;, don&#39;t worry: Dune: Awakening&#39;s endgame deep desert area has a PvE zone, too](https://www.pcgamer.com/games/survival-crafting/if-youre-scared-of-pvp-dont-worry-dune-awakenings-massive-deep-desert-has-a-pve-zone-too/)
- - [MindsEye co-CEO claims there&#39;s a &#39;concerted effort&#39; to trash the game ahead of its release: &#39;I do KNOW that there are bot farms posting negative comments and dislikes&#39;](https://www.pcgamer.com/games/third-person-shooter/mindseye-co-ceo-claims-theres-a-concerted-effort-to-trash-the-game-ahead-of-its-release-i-do-know-that-there-are-bot-farms-posting-negative-comments-and-dislikes/)<!-- GAME:END -->
+ - [&#39;The absolute sincere truth is that I don&#39;t want anyone to pay any more than they should or are comfortable with&#39;: Randy Pitchford&#39;s latest post on the Borderlands pricing controversy is a whole dang essay](https://www.pcgamer.com/games/fps/the-absolute-sincere-truth-is-that-i-dont-want-anyone-to-pay-any-more-than-they-should-or-are-comfortable-with-randy-pitchfords-latest-post-on-the-borderlands-pricing-controversy-is-a-whole-dang-essay/)
+ - [Arc Raiders: All the key details on the most exciting extraction shooter of 2025](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-guide/)
+ - [Someone Take Away Randy Pitchford&#39;s Phone](https://kotaku.com/borderlands-4-randy-pitchford-gearbox-80-real-fan-post-1851782855)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
