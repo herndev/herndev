@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
- - ⏩ [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
- - 👉 [Another saturday morning](http://9gag.com/gag/a9yX1rm)<!-- MEMES:END -->
+ - 💣 [He already had enough](http://9gag.com/gag/apRAgmp)
+ - ⏩ [Been there](http://9gag.com/gag/aGy2gqG)
+ - 👉 [What a surprise...](http://9gag.com/gag/a6Zp14e)<!-- MEMES:END -->
 
 ---
 
