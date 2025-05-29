@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [4 years after being delisted, Lost Planet 2 finally got a Steam update to remove Games for Windows Live—but it also removed online multiplayer and blew up everyone&#39;s saves](https://www.pcgamer.com/games/action/4-years-after-being-delisted-lost-planet-2-finally-got-a-steam-update-to-remove-games-for-windows-live-but-it-also-removed-online-multiplayer-and-blew-up-everyones-saves/)
- - [A Little Roguelike Fun: Cryptmaster’s Deckbuilder in the Anniversary Update](https://news.xbox.com/en-us/2025/05/29/cryptmaster-anniversary-update/)
- - [Peacemaker Season 2 Will Feature A Whole New Dancing Intro](https://kotaku.com/peacemaker-dancing-musical-intro-new-season-2-dc-hbo-1851782964)<!-- GAME:END -->
+ - [Helldivers 2 Players Are Pulling Off Incredible Feats In A Last-Ditch Effort To Save Super Earth](https://kotaku.com/helldivers-2-eos-prosperity-china-steam-reviews-1851782983)
+ - [The Game Informer archive just got upgraded with its entire backlog, so go experience the eye-melting world of &#39;90s game advertising](https://www.pcgamer.com/games/the-game-informer-archive-just-got-upgraded-with-its-entire-backlog-so-go-experience-the-eye-melting-world-of-90s-game-advertising/)
+ - [GameStop Doubles Down On Crypto With Massive Bitcoin Purchase As Stores Close](https://kotaku.com/gamestop-500-million-bitcoin-purchase-stores-close-1851782982)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
