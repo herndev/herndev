@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GreyNoise researchers detail a novel botnet infecting 9K+ routers from Asus and others with a persistent SSH backdoor, enabling access after reboots and updates &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250529/p4#a250529p4)
- - [Sources: X covered some losses usually borne by banks when seven lenders, including Morgan Stanley, sold $1.2B of its debt at 98 cents on the dollar in April &lpar;Financial Times&rpar;](http://www.techmeme.com/250529/p3#a250529p3)
- - [Gumroad founder Sahil Lavingia on working as a DOGE software engineer for the VA, says he was let go after his Fast Company interview was published &lpar;Sahil Lavingia&rpar;](http://www.techmeme.com/250529/p2#a250529p2)<!-- TECH:END -->
+ - [Google Play Store’s new AI feature can instantly answer all your app questions](https://www.androidauthority.com/google-play-store-ask-play-about-this-app-rolling-out-3562259/)
+ - [A look at YouTube&#39;s changes to become viewers&#39; preferred TV service and to appeal more to advertisers, and at creators&#39; push into sitcoms, like Alan&#39;s Universe &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250529/p9#a250529p9)
+ - [Google Messages finally has an easy way to see who has RCS](https://www.androidauthority.com/google-messages-rcs-labels-badges-released-3562254/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
