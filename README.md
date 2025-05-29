@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Call of Duty: Black Ops 6 &lpar;MP &amp; Zombies Only&rpar;, The Division 2, ARK: Survival Ascended, and More](https://news.xbox.com/en-us/2025/05/29/free-play-days-05-29-2025/)
- - [All Fantasy Life i: The Girl Who Steals Time gift codes](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-codes/)
- - [Elden Ring Nightreign Gets A Fittingly Opaque Day-One Patch](https://kotaku.com/elden-ring-nightreign-day-one-patch-notes-solo-balance-1851782908)<!-- GAME:END -->
+ - [Get Connected: Indie Selects for May 2025](https://news.xbox.com/en-us/2025/05/29/indie-selects-may-2025-id-xbox/)
+ - [Manor Lords meets Total War in web3 strategy game BLOCKLORDS](https://www.pcgamer.com/games/manor-lords-meets-total-war-in-web3-strategy-game-blocklords/)
+ - [Is it a chair? Is it a PC? Actually, this stealth PC build is both—and probably very toasty](https://www.pcgamer.com/hardware/pc-cases/is-it-a-chair-is-it-a-pc-this-stealth-pc-build-is-both-and-probably-very-toasty/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
