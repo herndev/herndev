@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch 2 needs to let us become Pokémon again](https://www.polygon.com/opinion/602175/nintendo-switch-2-pokemon-mystery-dungeon-bring-it-back)
- - [Mount &amp; Blade 2: Bannerlord&#39;s big naval expansion is delayed: &#39;After taking a hard look at where things stand, it became clear we won’t be ready&#39;](https://www.pcgamer.com/games/sim/mount-and-blade-2-bannerlords-big-naval-expansion-is-delayed-after-taking-a-hard-look-at-where-things-stand-it-became-clear-we-wont-be-ready/)
- - [The Nintendo Switch Phone App Just Got A Lot Better](https://kotaku.com/nintendo-switch-2-app-update-screenshots-upload-qr-code-1851782946)<!-- GAME:END -->
+ - [A Little Roguelike Fun: Cryptmaster’s Deckbuilder in the Anniversary Update](https://news.xbox.com/en-us/2025/05/29/cryptmaster-anniversary-update/)
+ - [After a year and a half of updates, WoW Classic&#39;s Season of Discovery is finally winding down in favor of something new: &#39;We need to get in the proverbial kitchen and cook&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-a-year-and-a-half-of-updates-wow-classics-season-of-discovery-is-finally-winding-down-in-favor-of-something-new-we-need-to-get-in-the-proverbial-kitchen-and-cook/)
+ - [Wuchang: Fallen Feathers – a closer look at the Soulslike combat](https://blog.playstation.com/2025/05/29/wuchang-fallen-feathers-a-closer-look-at-the-soulslike-combat/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
