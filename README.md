@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo preps for Switch 2 with a better way to share screenshots to your phone](https://www.androidauthority.com/nintendo-switch-app-gets-update-3562527/)
- - [Dell reports Q1 revenue up 5% YoY to $23.38B, vs. $23.14B est., forecasts Q2 revenue above est., and raises its FY 2026 profit forecast on demand for AI systems &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250529/p41#a250529p41)
- - [Google AI Overviews Says It&#39;s Still 2024](https://www.wired.com/story/google-ai-overviews-says-its-still-2024/)<!-- TECH:END -->
+ - [Filing: the US SEC voluntarily dismissed its 2023 lawsuit against Binance and CZ that accused them of diverting customer funds, misleading investors, and more &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250529/p43#a250529p43)
+ - [Another Top Musk Lieutenant Appears to Be Leaving DOGE](https://www.wired.com/story/nicole-hollander-top-musk-lieutenant-leaving-doge/)
+ - [YouTube plans to roll out Google Lens integration to Shorts in the coming weeks, allowing users to search for elements within Shorts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250529/p42#a250529p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
