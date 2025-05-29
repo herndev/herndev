@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Animal Crossing: New Horizons was a glimpse at Nintendo’s online future](https://www.theverge.com/games/674523/animal-crossing-new-horizons-nintendo-switch-live-service)
- - [How private equity kills companies and communities](https://www.theverge.com/decoder-podcast-with-nilay-patel/676106/bad-company-private-equity-megan-greenwell-book-interview)
- - [A Kaiser Permanente systems outage had pharmacies relying on pen and paper](https://www.theverge.com/news/676141/kaiser-permanente-outage-pharmacies-pen-paper)<!-- TECH:END -->
+ - [Apple&#39;s new study highlights App Store&#39;s role in global commerce](https://appleinsider.com/articles/25/05/29/apples-new-study-highlights-app-stores-role-in-global-commerce?utm_medium=rss)
+ - [Senators probe whether RealPage pushed state AI law ban](https://www.theverge.com/news/676378/senator-realpage-budget-reconciliation-bill-involvement)
+ - [Finally: Google is making theme packs to help you customize your Pixel phone](https://www.androidauthority.com/google-pixel-themes-leak-3562392/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
