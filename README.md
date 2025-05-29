@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: the US SEC voluntarily dismissed its 2023 lawsuit against Binance and CZ that accused them of diverting customer funds, misleading investors, and more &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250529/p43#a250529p43)
- - [Another Top Musk Lieutenant Appears to Be Leaving DOGE](https://www.wired.com/story/nicole-hollander-top-musk-lieutenant-leaving-doge/)
- - [YouTube plans to roll out Google Lens integration to Shorts in the coming weeks, allowing users to search for elements within Shorts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250529/p42#a250529p42)<!-- TECH:END -->
+ - [Marvell reports Q1 revenue up 63% YoY to $1.9B, vs. $1.88B est., data center revenue up 76% YoY to $1.44B, and forecasts Q2 revenue above est. on AI chip demand &lpar;Priyanka G/Reuters&rpar;](http://www.techmeme.com/250529/p44#a250529p44)
+ - [AI models analyzing audio from AirPods could determine a user&#39;s heart rate](https://appleinsider.com/articles/25/05/29/ai-models-analyzing-audio-from-airpods-could-determine-a-users-heart-rate?utm_medium=rss)
+ - [Deal: Record 50% price drop on the Google Pixel Watch 2](https://www.androidauthority.com/google-pixel-watch-2-lte-deal-3562606/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
