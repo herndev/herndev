@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ProtonVPN review: Private VPN connectivity, excellent value](https://appleinsider.com/articles/25/05/29/protonvpn-review-private-vpn-connectivity-excellent-value?utm_medium=rss)
- - [Samsung releases the first One UI 8 beta for Galaxy S25, S25+, and S25 Ultra, with an updated Quick Share and more, in South Korea, the US, and other regions &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250528/p44#a250528p44)
- - [macOS 26 may not support 2018 MacBook Pros, 2019 iMacs, or the iMac Pro](https://appleinsider.com/articles/25/05/28/macos-26-may-not-support-2018-macbook-pros-2019-imacs-or-the-imac-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft opens Windows Update to any third-party app that needs to be updated, letting developers sign up for a private preview of a new orchestration platform &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250528/p47#a250528p47)
+ - [Elon Musk departs the Trump administration as a &quot;special government employee&quot;, defending DOGE&#39;s mission to reduce wasteful government spending &lpar;Zachary Basu/Axios&rpar;](http://www.techmeme.com/250528/p46#a250528p46)
+ - [Trump &#39;Liberation Day&#39; tariffs blocked by U.S. trade court](https://appleinsider.com/articles/25/05/29/trump-liberation-day-tariffs-blocked-by-us-trade-court?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
