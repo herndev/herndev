@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigantamax Rillaboom counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/601980/gigantamax-rillaboom-counters-weakness-tips)
- - [This narrative thriller takes place in a fictional &#39;80s OS, and the devs obsessed over keeping just the right amount of old school jank: &#39;We did retain the dial-up modem&#39;](https://www.pcgamer.com/games/adventure/this-narrative-thriller-takes-place-in-a-fictional-80s-os-and-the-devs-obsessed-over-keeping-just-the-right-amount-of-old-school-jank-we-did-retain-the-dial-up-modem/)
- - [FromSoft leans into the nu-metal vibes and goes full Evanescence with the Elden Ring Nightreign launch trailer](https://www.pcgamer.com/games/action/fromsoft-leans-into-the-nu-metal-vibes-and-goes-full-evanescence-with-the-elden-ring-nightreign-launch-trailer/)<!-- GAME:END -->
+ - [Top-down modded Morrowind lets you experience Vvardenfell like it&#39;s Baldur&#39;s Gate](https://www.pcgamer.com/games/rpg/top-down-modded-morrowind-lets-you-experience-vvardenfell-like-its-baldurs-gate/)
+ - [Today&#39;s Wordle answer for Thursday, May 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-29-2025/)
+ - [Gigantamax Rillaboom counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/601980/gigantamax-rillaboom-counters-weakness-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
