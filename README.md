@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 could retain key safety feature despite modem shakeup &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-10-satellite-connectivity-apk-teardown-3562288/)
- - [Sources: the Trump administration suspends sales of more US tech, including chips and jet engines, in response to China&#39;s critical mineral export restrictions &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/250529/p18#a250529p18)
- - [Source: Victoria&#39;s Secret stops some office operations and tells staff to avoid using its tech amid a &quot;security incident&quot; that also disrupted its website &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p17#a250529p17)<!-- TECH:END -->
+ - [Hyundai’s new EV factory is teeming with robots — and wariness about the future](https://www.theverge.com/electric-cars/675597/hyundais-new-ev-factory-is-teeming-with-robots-and-wariness-about-the-future)
+ - [Beijing-based Kuaishou updates its Kling video-generation tool to cut the cost and time to create clips, and says it can generate 1080p videos in under a minute &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250529/p22#a250529p22)
+ - [7 Best Sunrise Alarm Clocks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
