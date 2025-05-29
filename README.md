@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve tested all the best camera phones of 2025: These are my top picks](https://www.androidauthority.com/best-camera-phone-3557160/)
- - [You can currently get Visible for as little as $20 a month, but only while this promo lasts](https://www.androidauthority.com/visible-promo-3562063/)
- - [One UI 8 makes living with multiple alarms a whole lot easier](https://www.androidauthority.com/one-ui-8-alarm-group-widget-upgrades-3562312/)<!-- TECH:END -->
+ - [The best use cases for each ChatGPT model](https://www.androidauthority.com/chat-gpt-model-guide-3558568/)
+ - [Tested: Nvidia’s GeForce Now just breathed new life into my Steam Deck](https://www.theverge.com/pc-gaming/676167/nvidia-geforce-now-steam-deck-test-hands-on)
+ - [DeepSeek says its R1 update can perform mathematics, programming, and general logic better than the previous version, and comes close to o3 and Gemini 2.5 Pro &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250529/p26#a250529p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
