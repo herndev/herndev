@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Been there](http://9gag.com/gag/aGy2gqG)
- - ⏩ [From the archives](http://9gag.com/gag/aryBMg0)
- - 👉 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)<!-- MEMES:END -->
+ - 💣 [Game store employees are not ready for these trade-ins](http://9gag.com/gag/aryBnKy)
+ - ⏩ [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
+ - 👉 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)<!-- MEMES:END -->
 
 ---
 
