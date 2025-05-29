@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Heavy Riffs, Heavy Hits – Kramer and DOOM: The Dark Ages Team Up to Launch Custom Guitars](https://news.xbox.com/en-us/2025/05/29/doom-kramer-guitars-giveaway/)
- - [Razer releases AI plugin for game engines to assist with logging bugs and Quality Assurance testing in games](https://www.pcgamer.com/hardware/razer-releases-ai-plugin-for-game-engines-to-assist-with-logging-bugs-and-quality-assurance-testing-in-games/)
- - [A mod that lets you play Half-Life 2 multiplayer as the mercs from Team Fortress 2 is coming to Steam](https://www.pcgamer.com/games/fps/a-mod-that-lets-you-play-half-life-2-multiplayer-as-the-mercs-from-team-fortress-2-is-coming-to-steam/)<!-- GAME:END -->
+ - [Texas Senate to vote on bill that restricts social media access for children, while parental consent for app downloads will be required from next year](https://www.pcgamer.com/hardware/texas-senate-to-vote-on-bill-that-restricts-social-media-access-for-children-while-parental-consent-for-app-downloads-will-be-required-from-next-year/)
+ - [Elden Ring Nightreign launch times and release date](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-launch-times-and-release-date/)
+ - [Heavy Riffs, Heavy Hits – Kramer and DOOM: The Dark Ages Team Up to Launch Custom Guitars](https://news.xbox.com/en-us/2025/05/29/doom-kramer-guitars-giveaway/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
