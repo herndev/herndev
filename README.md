@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Players Are Pulling Off Incredible Feats In A Last-Ditch Effort To Save Super Earth](https://kotaku.com/helldivers-2-eos-prosperity-china-steam-reviews-1851782983)
- - [The Game Informer archive just got upgraded with its entire backlog, so go experience the eye-melting world of &#39;90s game advertising](https://www.pcgamer.com/games/the-game-informer-archive-just-got-upgraded-with-its-entire-backlog-so-go-experience-the-eye-melting-world-of-90s-game-advertising/)
- - [GameStop Doubles Down On Crypto With Massive Bitcoin Purchase As Stores Close](https://kotaku.com/gamestop-500-million-bitcoin-purchase-stores-close-1851782982)<!-- GAME:END -->
+ - [How to get a Dawntrail &lpar;Phantom&rpar; relic weapon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements)
+ - [Almost Every Call Of Duty Game Is On Sale Right Now On Steam](https://kotaku.com/call-of-duty-steam-activision-sale-2025-pc-black-ops-6-1851783000)
+ - [Helldivers 2 Players Are Pulling Off Incredible Feats In A Last-Ditch Effort To Save Super Earth](https://kotaku.com/helldivers-2-eos-prosperity-china-steam-reviews-1851782983)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
