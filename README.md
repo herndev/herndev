@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He already had enough](http://9gag.com/gag/apRAgmp)
- - ⏩ [Been there](http://9gag.com/gag/aGy2gqG)
- - 👉 [What a surprise...](http://9gag.com/gag/a6Zp14e)<!-- MEMES:END -->
+ - 💣 [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)
+ - ⏩ [Fine](http://9gag.com/gag/aMVXxv1)
+ - 👉 [The level of oblivious is astounding.](http://9gag.com/gag/a2vbWVO)<!-- MEMES:END -->
 
 ---
 
