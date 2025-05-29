@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
- - ⏩ [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)
- - 👉 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)<!-- MEMES:END -->
+ - 💣 [Yeah it&#39;s a repost. It&#39;s been too long since I saw it here.](http://9gag.com/gag/a2vbv7w)
+ - ⏩ [Someone reminded me of this gem in the comments..](http://9gag.com/gag/aByXdqP)
+ - 👉 [Peak adulting right here.](http://9gag.com/gag/an7DOeB)<!-- MEMES:END -->
 
 ---
 
