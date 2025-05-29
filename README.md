@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;Severance&#39; could be the start of something bigger](https://appleinsider.com/articles/25/05/29/apples-severance-could-be-the-start-of-something-bigger?utm_medium=rss)
- - [Instagram isn&amp;#8217;t just for square photos anymore](https://www.theverge.com/news/676549/instagram-3-4-aspect-ratio-photos-phones-square-rectangle)
- - [Job postings: Amazon has a new ZeroOne team focused on inventing &quot;breakthrough&quot; consumer products, and led by former Microsoft executive J Allard &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250529/p35#a250529p35)<!-- TECH:END -->
+ - [AI could consume more power than Bitcoin by the end of 2025](https://www.theverge.com/climate-change/676528/ai-data-center-energy-forecast-bitcoin-mining)
+ - [YouTube will let you search for things you see in Shorts](https://www.theverge.com/news/676631/youtube-shorts-google-lens-search)
+ - [No login needed: Microsoft file sharing on Android picks up one of Google Drive’s handiest features](https://www.androidauthority.com/microsoft-anonymous-file-sharing-android-3562457/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
