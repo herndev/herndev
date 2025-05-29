@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store’s new AI feature can instantly answer all your app questions](https://www.androidauthority.com/google-play-store-ask-play-about-this-app-rolling-out-3562259/)
- - [A look at YouTube&#39;s changes to become viewers&#39; preferred TV service and to appeal more to advertisers, and at creators&#39; push into sitcoms, like Alan&#39;s Universe &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250529/p9#a250529p9)
- - [Google Messages finally has an easy way to see who has RCS](https://www.androidauthority.com/google-messages-rcs-labels-badges-released-3562254/)<!-- TECH:END -->
+ - [Chalk, which lets enterprises input proprietary data into AI and ML models quickly for inference, raised a $50M Series A led by Felicis at a $500M valuation &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250529/p12#a250529p12)
+ - [Migrant Filipino workers in Taiwan&#39;s chip industry say job brokers control everything from paychecks to dorm beds, leaving them feeling trapped and exploited &lpar;Rest of World&rpar;](http://www.techmeme.com/250529/p11#a250529p11)
+ - [Elon Musk Says He&#39;ll Step Back From the Government. DOGE Isn&#39;t Going Anywhere](https://www.wired.com/story/elon-musk-stepping-back-doge-final-form/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
