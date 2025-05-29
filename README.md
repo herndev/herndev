@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
- - ⏩ [From the archives](http://9gag.com/gag/aryBMg0)
- - 👉 [He already had enough](http://9gag.com/gag/apRAgmp)<!-- MEMES:END -->
+ - 💣 [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - ⏩ [He already had enough](http://9gag.com/gag/apRAgmp)
+ - 👉 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)<!-- MEMES:END -->
 
 ---
 
