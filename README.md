@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
- - ⏩ [Crooks](http://9gag.com/gag/a2vb78d)
- - 👉 [Florida woman strikes again](http://9gag.com/gag/aByXgZz)<!-- MEMES:END -->
+ - 💣 [The level of oblivious is astounding.](http://9gag.com/gag/a2vbWVO)
+ - ⏩ [Harvard Business School got a lesson in business.](http://9gag.com/gag/aZZ2ynp)
+ - 👉 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)<!-- MEMES:END -->
 
 ---
 
