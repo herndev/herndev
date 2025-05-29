@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Kaiser Permanente systems outage has pharmacies relying on pen and paper](https://www.theverge.com/news/676141/kaiser-permanente-outage-pharmacies-pen-paper)
- - [Use Tile’s Bluetooth trackers? Don’t be surprised if you’re soon pushed to this app](https://www.androidauthority.com/life360-tile-3562225/)
- - [X says it&#39;s pausing the encrypted DMs feature to &quot;work on making some improvements&quot;; users can view previous encrypted DMs but cannot send new ones &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250528/p42#a250528p42)<!-- TECH:END -->
+ - [ProtonVPN review: Private VPN connectivity, excellent value](https://appleinsider.com/articles/25/05/29/protonvpn-review-private-vpn-connectivity-excellent-value?utm_medium=rss)
+ - [Samsung releases the first One UI 8 beta for Galaxy S25, S25+, and S25 Ultra, with an updated Quick Share and more, in South Korea, the US, and other regions &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250528/p44#a250528p44)
+ - [macOS 26 may not support 2018 MacBook Pros, 2019 iMacs, or the iMac Pro](https://appleinsider.com/articles/25/05/28/macos-26-may-not-support-2018-macbook-pros-2019-imacs-or-the-imac-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
