@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail factors that weakened Elon Musk&#39;s alliance with President Trump, including his frustrations with Trump&#39;s tariffs and his disillusionment with DC &lpar;New York Times&rpar;](http://www.techmeme.com/250528/p48#a250528p48)
  - [Microsoft opens Windows Update to any third-party app that needs to be updated, letting developers sign up for a private preview of a new orchestration platform &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250528/p47#a250528p47)
- - [Elon Musk departs the Trump administration as a &quot;special government employee&quot;, defending DOGE&#39;s mission to reduce wasteful government spending &lpar;Zachary Basu/Axios&rpar;](http://www.techmeme.com/250528/p46#a250528p46)
- - [Trump &#39;Liberation Day&#39; tariffs blocked by U.S. trade court](https://appleinsider.com/articles/25/05/29/trump-liberation-day-tariffs-blocked-by-us-trade-court?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk departs the Trump administration as a &quot;special government employee&quot;, defending DOGE&#39;s mission to reduce wasteful government spending &lpar;Zachary Basu/Axios&rpar;](http://www.techmeme.com/250528/p46#a250528p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
