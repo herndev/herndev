@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The level of oblivious is astounding.](http://9gag.com/gag/a2vbWVO)
- - ⏩ [What a surprise...](http://9gag.com/gag/a6Zp14e)
- - 👉 [Crooks](http://9gag.com/gag/a2vb78d)<!-- MEMES:END -->
+ - 💣 [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - ⏩ [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
+ - 👉 [From the archives](http://9gag.com/gag/aryBMg0)<!-- MEMES:END -->
 
 ---
 
