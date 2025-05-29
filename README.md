@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the food hits the water...](http://9gag.com/gag/aRB2XBG)
- - ⏩ [From the archives](http://9gag.com/gag/aryBMg0)
- - 👉 [Been there](http://9gag.com/gag/aGy2gqG)<!-- MEMES:END -->
+ - 💣 [Faster than The Flash!](http://9gag.com/gag/ae92DdQ)
+ - ⏩ [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
+ - 👉 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)<!-- MEMES:END -->
 
 ---
 
