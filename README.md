@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Forget saving thousands for the newest iPhone. One hacker has turned his NES Zapper gun from Duck Hunt into a laser driven wireless phone](https://www.pcgamer.com/hardware/forget-saving-thousands-for-the-newest-iphone-one-hacker-has-turned-his-nes-zapper-gun-from-duck-hunt-into-a-laser-driven-wireless-phone/)
  - [Teenage Mutant Ninja Turtles: Empire City is a TMNT parkour-action game for VR](https://www.pcgamer.com/games/vr/teenage-mutant-ninja-turtles-empire-city-is-a-tmnt-parkour-action-game-for-vr/)
- - [Corsair&#39;s new One i600 mini PC packs an RTX 5080 into a stunning understated wood panel case](https://www.pcgamer.com/hardware/corsairs-new-one-i600-mini-pc-packs-an-rtx-5080-into-a-stunning-understated-wood-panel-case/)
- - [Top-down modded Morrowind lets you experience Vvardenfell like it&#39;s Baldur&#39;s Gate](https://www.pcgamer.com/games/rpg/top-down-modded-morrowind-lets-you-experience-vvardenfell-like-its-baldurs-gate/)<!-- GAME:END -->
+ - [Corsair&#39;s new One i600 mini PC packs an RTX 5080 into a stunning understated wood panel case](https://www.pcgamer.com/hardware/corsairs-new-one-i600-mini-pc-packs-an-rtx-5080-into-a-stunning-understated-wood-panel-case/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
