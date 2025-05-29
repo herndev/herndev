@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SteamOS puts the pressure on Microsoft’s Xbox-branded handheld](https://www.theverge.com/notepad-microsoft-newsletter/676258/microsoft-xbox-handheld-windows-steamos-notepad)
- - [espresso Pro 15 review: The ultimate 4K portable display for Mac &amp; iPad users](https://appleinsider.com/articles/25/05/29/espresso-pro-15-review-the-ultimate-4k-portable-display-for-mac-ipad-users?utm_medium=rss)
- - [Filing: virtual chronic care company Omada Health plans to raise up to $158M in its IPO, selling shares for $18 to $20 and aiming for an up to ~$1.1B market cap &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250529/p32#a250529p32)<!-- TECH:END -->
+ - [The ‘beige Amazon influencer’ lawsuit is headed for dismissal](https://www.theverge.com/news/676357/amazon-influencer-lawsuit-beige-clean-girl-copyright-dismissed)
+ - [Sonos Ace headphones plunge $120 to all-time low price](https://www.androidauthority.com/sonos-ace-headphones-deal-3562424/)
+ - [Samsung prepares Game Booster for One UI 8 with huge feature-packed update](https://www.androidauthority.com/samsung-game-booster-one-ui-8-features-3562356/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
