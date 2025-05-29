@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a SCOTUS brief, the Trump administration backs Cox&#39;s argument that ISPs shouldn&#39;t have to terminate customers based on unproven copyright infringement claims &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250528/p51#a250528p51)
- - [Google confirms that Instagram battery drain you’ve noticed on your phones is real](https://www.androidauthority.com/google-instagram-battery-drain-advisory-3562233/)
- - [Hex, which provides a tool for finding correlations between data points, building predictive models, and running experiments, raised a $70M Series C led by Avra &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250528/p50#a250528p50)<!-- TECH:END -->
+ - [One UI 8 finally expands support for an Android 15 feature sorely missed on One UI 7](https://www.androidauthority.com/one-ui-8-predictive-back-gesture-samsung-apps-3562244/)
+ - [Source: Delaware&#39;s AG is hiring an investment bank to independently value the equity that OpenAI&#39;s nonprofit parent will hold in the new for-profit entity &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250529/p1#a250529p1)
+ - [In a SCOTUS brief, the Trump administration backs Cox&#39;s argument that ISPs shouldn&#39;t have to terminate customers based on unproven copyright infringement claims &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250528/p51#a250528p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
