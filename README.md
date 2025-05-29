@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
- - ⏩ [What a surprise...](http://9gag.com/gag/a6Zp14e)
- - 👉 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
+ - 💣 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
+ - ⏩ [He already had enough](http://9gag.com/gag/apRAgmp)
+ - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
 
 ---
 
