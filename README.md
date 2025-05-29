@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Tour Through the Breathtaking World of Metaphor: ReFantazio, Available Today with Game Pass](https://news.xbox.com/en-us/2025/05/29/tour-breathtaking-world-of-metaphor-refantazio/)
- - [GeForce Now finally gets a native app for the Steam Deck, solving what was our biggest complaint with the streaming service on Valve&#39;s plucky handheld](https://www.pcgamer.com/hardware/geforce-now-finally-gets-a-native-app-on-steam-deck-solving-our-biggest-complaint-with-the-streaming-service-on-valves-plucky-handheld/)
- - [The RX 9070 XT might not be the truly mid-range graphics card I&#39;m still dreaming of but it turned my latest sci-fi PC build into a frame rate menace](https://www.pcgamer.com/hardware/gaming-pcs/the-rx-9070-xt-might-not-be-the-truly-mid-range-graphics-card-im-still-dreaming-of-but-it-turned-my-latest-sci-fi-pc-build-into-a-frame-rate-menace/)<!-- GAME:END -->
+ - [PowerWash Simulator: The Muckingham Files Part 6 and New Special Pack Bundles Coming to Xbox](https://news.xbox.com/en-us/2025/05/29/powerwash-simulator-the-muckingham-files-part-6-new-bundles/)
+ - [Morrowind&#39;s new city from Tamriel Rebuilt is &#39;Bigger than any playable Elder Scrolls city in general,&#39; and a single hero made its exterior](https://www.pcgamer.com/games/the-elder-scrolls/morrowinds-new-city-from-tamriel-rebuilt-is-bigger-than-any-playable-elder-scrolls-city-in-general-and-a-single-hero-made-its-exterior/)
+ - [Final Fantasy 14&#39;s Occult Crescent makes the game feel like an MMO again](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-occult-crescent-makes-the-game-feel-like-an-mmo-again/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
