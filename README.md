@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Top-down modded Morrowind lets you experience Vvardenfell like it&#39;s Baldur&#39;s Gate](https://www.pcgamer.com/games/rpg/top-down-modded-morrowind-lets-you-experience-vvardenfell-like-its-baldurs-gate/)
- - [Today&#39;s Wordle answer for Thursday, May 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-29-2025/)
- - [Gigantamax Rillaboom counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/601980/gigantamax-rillaboom-counters-weakness-tips)<!-- GAME:END -->
+ - [Teenage Mutant Ninja Turtles: Empire City is a TMNT parkour-action game for VR](https://www.pcgamer.com/games/vr/teenage-mutant-ninja-turtles-empire-city-is-a-tmnt-parkour-action-game-for-vr/)
+ - [Corsair&#39;s new One i600 mini PC packs an RTX 5080 into a stunning understated wood panel case](https://www.pcgamer.com/hardware/corsairs-new-one-i600-mini-pc-packs-an-rtx-5080-into-a-stunning-understated-wood-panel-case/)
+ - [Top-down modded Morrowind lets you experience Vvardenfell like it&#39;s Baldur&#39;s Gate](https://www.pcgamer.com/games/rpg/top-down-modded-morrowind-lets-you-experience-vvardenfell-like-its-baldurs-gate/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
