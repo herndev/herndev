@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IQ ?](http://9gag.com/gag/ae92D2B)
- - ⏩ [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
- - 👉 [Sounds about right](http://9gag.com/gag/aNDRDeG)<!-- MEMES:END -->
+ - 💣 [Seems legit. Sign me up](http://9gag.com/gag/apRAg9n)
+ - ⏩ [Polish in natural habitat](http://9gag.com/gag/aW4240d)
+ - 👉 [Time for some wisdom from Tony!](http://9gag.com/gag/azxZe8K)<!-- MEMES:END -->
 
 ---
 
