@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s Hopper GPUs are now dead to the Chinese market after export controls that made the company take a &#39;multibillion-dollar write-off&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidias-hopper-gpus-are-now-dead-to-the-chinese-market-after-export-controls-that-made-the-company-take-a-multibillion-dollar-write-off/)
  - [Texas Senate to vote on bill that restricts social media access for children, while parental consent for app downloads will be required from next year](https://www.pcgamer.com/hardware/texas-senate-to-vote-on-bill-that-restricts-social-media-access-for-children-while-parental-consent-for-app-downloads-will-be-required-from-next-year/)
- - [Elden Ring Nightreign launch times and release date](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-launch-times-and-release-date/)
- - [Heavy Riffs, Heavy Hits – Kramer and DOOM: The Dark Ages Team Up to Launch Custom Guitars](https://news.xbox.com/en-us/2025/05/29/doom-kramer-guitars-giveaway/)<!-- GAME:END -->
+ - [Elden Ring Nightreign launch times and release date](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-launch-times-and-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
