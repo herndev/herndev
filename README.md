@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time for some wisdom from Tony!](http://9gag.com/gag/azxZe8K)
- - ⏩ [Polish in natural habitat](http://9gag.com/gag/aW4240d)
- - 👉 [Gearing up](http://9gag.com/gag/a4PqPYm)<!-- MEMES:END -->
+ - 💣 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
+ - ⏩ [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)
+ - 👉 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)<!-- MEMES:END -->
 
 ---
 
