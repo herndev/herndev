@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best use cases for each ChatGPT model](https://www.androidauthority.com/chat-gpt-model-guide-3558568/)
- - [Tested: Nvidia’s GeForce Now just breathed new life into my Steam Deck](https://www.theverge.com/pc-gaming/676167/nvidia-geforce-now-steam-deck-test-hands-on)
- - [DeepSeek says its R1 update can perform mathematics, programming, and general logic better than the previous version, and comes close to o3 and Gemini 2.5 Pro &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250529/p26#a250529p26)<!-- TECH:END -->
+ - [Animal Crossing: New Horizons was a glimpse at Nintendo’s online future](https://www.theverge.com/games/674523/animal-crossing-new-horizons-nintendo-switch-live-service)
+ - [How private equity kills companies and communities](https://www.theverge.com/decoder-podcast-with-nilay-patel/676106/bad-company-private-equity-megan-greenwell-book-interview)
+ - [A Kaiser Permanente systems outage had pharmacies relying on pen and paper](https://www.theverge.com/news/676141/kaiser-permanente-outage-pharmacies-pen-paper)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
