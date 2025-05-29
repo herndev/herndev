@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
- - ⏩ [He already had enough](http://9gag.com/gag/apRAgmp)
- - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
+ - 💣 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
+ - ⏩ [From the archives](http://9gag.com/gag/aryBMg0)
+ - 👉 [He already had enough](http://9gag.com/gag/apRAgmp)<!-- MEMES:END -->
 
 ---
 
