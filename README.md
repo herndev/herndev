@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Chinese community valiantly holds the line to save &#39;Super China,&#39; then flogs Arrowhead with negative Steam reviews for capping liberty at 99.9783%](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-chinese-community-valiantly-holds-the-line-to-save-super-china-then-flogs-arrowhead-with-negative-steam-reviews-for-capping-liberty-at-99-9783-percent/)
- - [A beginner’s guide for FFXIV’s Occult Crescent](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601754/occult-crescent-unlock-beginners-tips)
- - [Elden Ring Nightreign Gets A Fittingly Opaque Day-One Patch And A Warning About Framerate Issues On PC](https://kotaku.com/elden-ring-nightreign-day-one-patch-notes-solo-balance-1851782908)<!-- GAME:END -->
+ - [How To Defeat...Whatever The Hell Maris Is In Nightreign](https://kotaku.com/elden-ring-night-reign-maris-boss-bubbles-melee-ranged-1851782996)
+ - [How To Defeat Libra, Nightreign&#39;s Madness-Inducing Boss](https://kotaku.com/elden-ring-night-reign-libra-madness-orb-sigil-phase-1851782989)
+ - [How To Take Down Gladius, Elden Ring Nightreign&#39;s First Nightlord](https://kotaku.com/elden-ring-nightreign-gladius-nightlord-three-fire-1851782973)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
