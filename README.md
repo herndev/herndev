@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Faster than The Flash!](http://9gag.com/gag/ae92DdQ)
- - ⏩ [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
- - 👉 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)<!-- MEMES:END -->
+ - 💣 [Been there](http://9gag.com/gag/aGy2gqG)
+ - ⏩ [From the archives](http://9gag.com/gag/aryBMg0)
+ - 👉 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)<!-- MEMES:END -->
 
 ---
 
