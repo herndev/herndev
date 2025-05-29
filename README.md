@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The gypsy trap worked](http://9gag.com/gag/ae925yb)
- - ⏩ [Fine](http://9gag.com/gag/aMVXxv1)
- - 👉 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)<!-- MEMES:END -->
+ - 💣 [The level of oblivious is astounding.](http://9gag.com/gag/a2vbWVO)
+ - ⏩ [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - 👉 [Crooks](http://9gag.com/gag/a2vb78d)<!-- MEMES:END -->
 
 ---
 
