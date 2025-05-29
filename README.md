@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)
- - ⏩ [Fine](http://9gag.com/gag/aMVXxv1)
- - 👉 [The level of oblivious is astounding.](http://9gag.com/gag/a2vbWVO)<!-- MEMES:END -->
+ - 💣 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
+ - ⏩ [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
+ - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
 
 ---
 
