@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PowerWash Simulator: The Muckingham Files Part 6 and New Special Pack Bundles Coming to Xbox](https://news.xbox.com/en-us/2025/05/29/powerwash-simulator-the-muckingham-files-part-6-new-bundles/)
- - [Morrowind&#39;s new city from Tamriel Rebuilt is &#39;Bigger than any playable Elder Scrolls city in general,&#39; and a single hero made its exterior](https://www.pcgamer.com/games/the-elder-scrolls/morrowinds-new-city-from-tamriel-rebuilt-is-bigger-than-any-playable-elder-scrolls-city-in-general-and-a-single-hero-made-its-exterior/)
- - [Final Fantasy 14&#39;s Occult Crescent makes the game feel like an MMO again](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-occult-crescent-makes-the-game-feel-like-an-mmo-again/)<!-- GAME:END -->
+ - [Free Play Days – Call of Duty: Black Ops 6 &lpar;MP &amp; Zombies Only&rpar;, The Division 2, ARK: Survival Ascended, and More](https://news.xbox.com/en-us/2025/05/29/free-play-days-05-29-2025/)
+ - [All Fantasy Life i: The Girl Who Steals Time gift codes](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-codes/)
+ - [Elden Ring Nightreign Gets A Fittingly Opaque Day-One Patch](https://kotaku.com/elden-ring-nightreign-day-one-patch-notes-solo-balance-1851782908)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
