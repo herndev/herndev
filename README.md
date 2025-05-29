@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get a Dawntrail &lpar;Phantom&rpar; relic weapon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements)
- - [Almost Every Call Of Duty Game Is On Sale Right Now On Steam](https://kotaku.com/call-of-duty-steam-activision-sale-2025-pc-black-ops-6-1851783000)
- - [Helldivers 2 Players Are Pulling Off Incredible Feats In A Last-Ditch Effort To Save Super Earth](https://kotaku.com/helldivers-2-eos-prosperity-china-steam-reviews-1851782983)<!-- GAME:END -->
+ - [Helldivers 2 Chinese community valiantly holds the line to save &#39;Super China,&#39; then flogs Arrowhead with negative Steam reviews for capping liberty at 99.9783%](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-chinese-community-valiantly-holds-the-line-to-save-super-china-then-flogs-arrowhead-with-negative-steam-reviews-for-capping-liberty-at-99-9783-percent/)
+ - [A beginner’s guide for FFXIV’s Occult Crescent](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601754/occult-crescent-unlock-beginners-tips)
+ - [Elden Ring Nightreign Gets A Fittingly Opaque Day-One Patch And A Warning About Framerate Issues On PC](https://kotaku.com/elden-ring-nightreign-day-one-patch-notes-solo-balance-1851782908)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
