@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah it&#39;s a repost. It&#39;s been too long since I saw it here.](http://9gag.com/gag/a2vbv7w)
- - ⏩ [Someone reminded me of this gem in the comments..](http://9gag.com/gag/aByXdqP)
- - 👉 [Peak adulting right here.](http://9gag.com/gag/an7DOeB)<!-- MEMES:END -->
+ - 💣 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - ⏩ [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
+ - 👉 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)<!-- MEMES:END -->
 
 ---
 
