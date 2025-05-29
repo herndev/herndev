@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s Hopper GPUs are now dead to the Chinese market after export controls that made the company take a &#39;multibillion-dollar write-off&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidias-hopper-gpus-are-now-dead-to-the-chinese-market-after-export-controls-that-made-the-company-take-a-multibillion-dollar-write-off/)
- - [Texas Senate to vote on bill that restricts social media access for children, while parental consent for app downloads will be required from next year](https://www.pcgamer.com/hardware/texas-senate-to-vote-on-bill-that-restricts-social-media-access-for-children-while-parental-consent-for-app-downloads-will-be-required-from-next-year/)
- - [Elden Ring Nightreign launch times and release date](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-launch-times-and-release-date/)<!-- GAME:END -->
+ - [A Tour Through the Breathtaking World of Metaphor: ReFantazio, Available Today with Game Pass](https://news.xbox.com/en-us/2025/05/29/tour-breathtaking-world-of-metaphor-refantazio/)
+ - [GeForce Now finally gets a native app for the Steam Deck, solving what was our biggest complaint with the streaming service on Valve&#39;s plucky handheld](https://www.pcgamer.com/hardware/geforce-now-finally-gets-a-native-app-on-steam-deck-solving-our-biggest-complaint-with-the-streaming-service-on-valves-plucky-handheld/)
+ - [The RX 9070 XT might not be the truly mid-range graphics card I&#39;m still dreaming of but it turned my latest sci-fi PC build into a frame rate menace](https://www.pcgamer.com/hardware/gaming-pcs/the-rx-9070-xt-might-not-be-the-truly-mid-range-graphics-card-im-still-dreaming-of-but-it-turned-my-latest-sci-fi-pc-build-into-a-frame-rate-menace/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
