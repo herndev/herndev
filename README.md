@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new study highlights App Store&#39;s role in global commerce](https://appleinsider.com/articles/25/05/29/apples-new-study-highlights-app-stores-role-in-global-commerce?utm_medium=rss)
- - [Senators probe whether RealPage pushed state AI law ban](https://www.theverge.com/news/676378/senator-realpage-budget-reconciliation-bill-involvement)
- - [Finally: Google is making theme packs to help you customize your Pixel phone](https://www.androidauthority.com/google-pixel-themes-leak-3562392/)<!-- TECH:END -->
+ - [SteamOS puts the pressure on Microsoft’s Xbox-branded handheld](https://www.theverge.com/notepad-microsoft-newsletter/676258/microsoft-xbox-handheld-windows-steamos-notepad)
+ - [espresso Pro 15 review: The ultimate 4K portable display for Mac &amp; iPad users](https://appleinsider.com/articles/25/05/29/espresso-pro-15-review-the-ultimate-4k-portable-display-for-mac-ipad-users?utm_medium=rss)
+ - [Filing: virtual chronic care company Omada Health plans to raise up to $158M in its IPO, selling shares for $18 to $20 and aiming for an up to ~$1.1B market cap &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250529/p32#a250529p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
