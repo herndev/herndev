@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seems legit. Sign me up](http://9gag.com/gag/apRAg9n)
- - ⏩ [Polish in natural habitat](http://9gag.com/gag/aW4240d)
- - 👉 [Time for some wisdom from Tony!](http://9gag.com/gag/azxZe8K)<!-- MEMES:END -->
+ - 💣 [Polish in natural habitat](http://9gag.com/gag/aW4240d)
+ - ⏩ [Gearing up](http://9gag.com/gag/a4PqPYm)
+ - 👉 [Someone reminded me of this gem in the comments..](http://9gag.com/gag/aByXdqP)<!-- MEMES:END -->
 
 ---
 
