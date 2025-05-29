@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai’s new EV factory is teeming with robots — and wariness about the future](https://www.theverge.com/electric-cars/675597/hyundais-new-ev-factory-is-teeming-with-robots-and-wariness-about-the-future)
- - [Beijing-based Kuaishou updates its Kling video-generation tool to cut the cost and time to create clips, and says it can generate 1080p videos in under a minute &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250529/p22#a250529p22)
- - [7 Best Sunrise Alarm Clocks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)<!-- TECH:END -->
+ - [I’ve tested all the best camera phones of 2025: These are my top picks](https://www.androidauthority.com/best-camera-phone-3557160/)
+ - [You can currently get Visible for as little as $20 a month, but only while this promo lasts](https://www.androidauthority.com/visible-promo-3562063/)
+ - [One UI 8 makes living with multiple alarms a whole lot easier](https://www.androidauthority.com/one-ui-8-alarm-group-widget-upgrades-3562312/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
