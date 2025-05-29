@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail factors that weakened Elon Musk&#39;s alliance with President Trump, including his frustrations with Trump&#39;s tariffs and his disillusionment with DC &lpar;New York Times&rpar;](http://www.techmeme.com/250528/p48#a250528p48)
- - [Microsoft opens Windows Update to any third-party app that needs to be updated, letting developers sign up for a private preview of a new orchestration platform &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250528/p47#a250528p47)
- - [Elon Musk departs the Trump administration as a &quot;special government employee&quot;, defending DOGE&#39;s mission to reduce wasteful government spending &lpar;Zachary Basu/Axios&rpar;](http://www.techmeme.com/250528/p46#a250528p46)<!-- TECH:END -->
+ - [In a SCOTUS brief, the Trump administration backs Cox&#39;s argument that ISPs shouldn&#39;t have to terminate customers based on unproven copyright infringement claims &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250528/p51#a250528p51)
+ - [Google confirms that Instagram battery drain you’ve noticed on your phones is real](https://www.androidauthority.com/google-instagram-battery-drain-advisory-3562233/)
+ - [Hex, which provides a tool for finding correlations between data points, building predictive models, and running experiments, raised a $70M Series C led by Avra &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250528/p50#a250528p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
