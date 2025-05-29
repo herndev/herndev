@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [4 years after being delisted, Lost Planet 2 finally got a Steam update to remove Games for Windows Live—but it also removed online multiplayer and blew up everyone&#39;s saves](https://www.pcgamer.com/games/action/4-years-after-being-delisted-lost-planet-2-finally-got-a-steam-update-to-remove-games-for-windows-live-but-it-also-removed-online-multiplayer-and-blew-up-everyones-saves/)
  - [A Little Roguelike Fun: Cryptmaster’s Deckbuilder in the Anniversary Update](https://news.xbox.com/en-us/2025/05/29/cryptmaster-anniversary-update/)
- - [After a year and a half of updates, WoW Classic&#39;s Season of Discovery is finally winding down in favor of something new: &#39;We need to get in the proverbial kitchen and cook&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-a-year-and-a-half-of-updates-wow-classics-season-of-discovery-is-finally-winding-down-in-favor-of-something-new-we-need-to-get-in-the-proverbial-kitchen-and-cook/)
- - [Wuchang: Fallen Feathers – a closer look at the Soulslike combat](https://blog.playstation.com/2025/05/29/wuchang-fallen-feathers-a-closer-look-at-the-soulslike-combat/)<!-- GAME:END -->
+ - [Peacemaker Season 2 Will Feature A Whole New Dancing Intro](https://kotaku.com/peacemaker-dancing-musical-intro-new-season-2-dc-hbo-1851782964)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
