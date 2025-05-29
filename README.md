@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ‘beige Amazon influencer’ lawsuit is headed for dismissal](https://www.theverge.com/news/676357/amazon-influencer-lawsuit-beige-clean-girl-copyright-dismissed)
- - [Sonos Ace headphones plunge $120 to all-time low price](https://www.androidauthority.com/sonos-ace-headphones-deal-3562424/)
- - [Samsung prepares Game Booster for One UI 8 with huge feature-packed update](https://www.androidauthority.com/samsung-game-booster-one-ui-8-features-3562356/)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Severance&#39; could be the start of something bigger](https://appleinsider.com/articles/25/05/29/apples-severance-could-be-the-start-of-something-bigger?utm_medium=rss)
+ - [Instagram isn&amp;#8217;t just for square photos anymore](https://www.theverge.com/news/676549/instagram-3-4-aspect-ratio-photos-phones-square-rectangle)
+ - [Job postings: Amazon has a new ZeroOne team focused on inventing &quot;breakthrough&quot; consumer products, and led by former Microsoft executive J Allard &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250529/p35#a250529p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
