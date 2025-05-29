@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI could consume more power than Bitcoin by the end of 2025](https://www.theverge.com/climate-change/676528/ai-data-center-energy-forecast-bitcoin-mining)
- - [YouTube will let you search for things you see in Shorts](https://www.theverge.com/news/676631/youtube-shorts-google-lens-search)
- - [No login needed: Microsoft file sharing on Android picks up one of Google Drive’s handiest features](https://www.androidauthority.com/microsoft-anonymous-file-sharing-android-3562457/)<!-- TECH:END -->
+ - [Sources: the Trump administration is looking to change the AI Safety Institute&#39;s name to the Center for AI Safety and Leadership in the coming days &lpar;Axios&rpar;](http://www.techmeme.com/250529/p40#a250529p40)
+ - [OnlyFans Turbocharged Sex Work. Now Its Founder Is Targeting the Whole Influencer Economy](https://www.wired.com/story/onlyfans-turbocharged-sex-work-now-its-founder-is-targeting-the-whole-influencer-economy/)
+ - [Trump&#39;s Crackdown on Foreign Student Visas Could Derail Critical AI Research](https://www.wired.com/story/trump-administration-foreign-student-visa-brain-drain/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
