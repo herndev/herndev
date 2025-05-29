@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The level of oblivious is astounding.](http://9gag.com/gag/a2vbWVO)
- - ⏩ [Harvard Business School got a lesson in business.](http://9gag.com/gag/aZZ2ynp)
+ - 💣 [The gypsy trap worked](http://9gag.com/gag/ae925yb)
+ - ⏩ [Fine](http://9gag.com/gag/aMVXxv1)
  - 👉 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)<!-- MEMES:END -->
 
 ---
