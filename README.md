@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The absolute sincere truth is that I don&#39;t want anyone to pay any more than they should or are comfortable with&#39;: Randy Pitchford&#39;s latest post on the Borderlands pricing controversy is a whole dang essay](https://www.pcgamer.com/games/fps/the-absolute-sincere-truth-is-that-i-dont-want-anyone-to-pay-any-more-than-they-should-or-are-comfortable-with-randy-pitchfords-latest-post-on-the-borderlands-pricing-controversy-is-a-whole-dang-essay/)
- - [Arc Raiders: All the key details on the most exciting extraction shooter of 2025](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-guide/)
- - [Someone Take Away Randy Pitchford&#39;s Phone](https://kotaku.com/borderlands-4-randy-pitchford-gearbox-80-real-fan-post-1851782855)<!-- GAME:END -->
+ - [Gigantamax Rillaboom counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/601980/gigantamax-rillaboom-counters-weakness-tips)
+ - [This narrative thriller takes place in a fictional &#39;80s OS, and the devs obsessed over keeping just the right amount of old school jank: &#39;We did retain the dial-up modem&#39;](https://www.pcgamer.com/games/adventure/this-narrative-thriller-takes-place-in-a-fictional-80s-os-and-the-devs-obsessed-over-keeping-just-the-right-amount-of-old-school-jank-we-did-retain-the-dial-up-modem/)
+ - [FromSoft leans into the nu-metal vibes and goes full Evanescence with the Elden Ring Nightreign launch trailer](https://www.pcgamer.com/games/action/fromsoft-leans-into-the-nu-metal-vibes-and-goes-full-evanescence-with-the-elden-ring-nightreign-launch-trailer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
