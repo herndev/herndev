@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Connected: Indie Selects for May 2025](https://news.xbox.com/en-us/2025/05/29/indie-selects-may-2025-id-xbox/)
- - [Manor Lords meets Total War in web3 strategy game BLOCKLORDS](https://www.pcgamer.com/games/manor-lords-meets-total-war-in-web3-strategy-game-blocklords/)
- - [Is it a chair? Is it a PC? Actually, this stealth PC build is both—and probably very toasty](https://www.pcgamer.com/hardware/pc-cases/is-it-a-chair-is-it-a-pc-this-stealth-pc-build-is-both-and-probably-very-toasty/)<!-- GAME:END -->
+ - [Nintendo Switch 2 needs to let us become Pokémon again](https://www.polygon.com/opinion/602175/nintendo-switch-2-pokemon-mystery-dungeon-bring-it-back)
+ - [Mount &amp; Blade 2: Bannerlord&#39;s big naval expansion is delayed: &#39;After taking a hard look at where things stand, it became clear we won’t be ready&#39;](https://www.pcgamer.com/games/sim/mount-and-blade-2-bannerlords-big-naval-expansion-is-delayed-after-taking-a-hard-look-at-where-things-stand-it-became-clear-we-wont-be-ready/)
+ - [The Nintendo Switch Phone App Just Got A Lot Better](https://kotaku.com/nintendo-switch-2-app-update-screenshots-upload-qr-code-1851782946)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
