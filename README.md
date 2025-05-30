@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
- - ⏩ [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
- - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
+ - 💣 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - ⏩ [Let him cook](http://9gag.com/gag/aXP2nN2)
+ - 👉 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
 
 ---
 
