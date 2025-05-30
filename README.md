@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
- - ⏩ [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
- - 👉 [Let him cook](http://9gag.com/gag/aXP2nN2)<!-- MEMES:END -->
+ - 💣 [This is the AI we need, not another bot spamming replies.](http://9gag.com/gag/aByXZKx)
+ - ⏩ [I can relate](http://9gag.com/gag/apRA31E)
+ - 👉 [Lego Simpsons Meme](http://9gag.com/gag/amoV1Ov)<!-- MEMES:END -->
 
 ---
 
