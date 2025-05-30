@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC drops Binance lawsuit in yet another gift to crypto](https://www.theverge.com/news/676949/sec-binance-lawsuit-dropped-crypto-trump-administration)
- - [&#39;Your Friends and Neighbors&#39; creator Jonathan Tropper to stay with Apple under new deal](https://appleinsider.com/articles/25/05/30/your-friends-and-neighbors-creator-jonathan-tropper-to-stay-with-apple-under-new-deal?utm_medium=rss)
- - [One of the greatest platformers of all time is currently free on Android](https://www.androidauthority.com/limbo-free-android-3562728/)<!-- TECH:END -->
+ - [President Trump lashes out at China for violating new trade agreement](https://appleinsider.com/articles/25/05/30/president-trump-lashes-out-at-china-for-violating-new-trade-agreement?utm_medium=rss)
+ - [Is Using a Stair Machine the Same as Climbing Stairs?](https://www.wired.com/story/is-using-a-stair-machine-the-same-as-climbing-stairs/)
+ - [Nintendo’s Switch era took Pokémon collecting to the next level](https://www.theverge.com/nintendo/675590/nintendo-switch-pokemon-home-legends-za-generation-x)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
