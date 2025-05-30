@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign&#39;s best feature is its extra mobility—but it&#39;s not even that good, and Sekiro does it better](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-best-feature-is-its-extra-mobility-but-its-not-even-that-good-and-sekiro-does-it-better/)
- - [Atomfall Story Expansion Arrives Next Week – Dare You Visit Wicked Isle?](https://news.xbox.com/en-us/2025/05/30/atomfall-story-expansion-wicked-isle/)
- - [Clair Obscur: Expedition 33&amp;#8217;s story hits even harder the second time around](https://www.polygon.com/opinion/602333/clair-obscur-expedition-33-story-replay)<!-- GAME:END -->
+ - [How to Survive Your First Run in Elden Ring Nightreign](https://news.xbox.com/en-us/2025/05/30/elden-ring-nightreign-tips-guide/)
+ - [The Drifter might be the most chilling point-and-click of the year](https://www.polygon.com/horror/602439/the-drifter-demo-impressions-pc-steam-deck)
+ - [The President Is Dead &lpar;In Helldivers 2&rpar;](https://kotaku.com/helldivers-2-president-kia-dss-battle-station-victory-1851783082)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
