@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rematch: All the key details on the 5v5 football game from the masterminds behind Sifu](https://www.pcgamer.com/games/action/rematch-guide/)
- - [Elden Ring Nightreign guide: all our advice for surviving the night in one place](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-guide/)
- - [The Drifter is a grimy point &#39;n&#39; click adventure mixing bleak sci-fi with low-budget Aussie schlock, and there&#39;s a demo out now](https://www.pcgamer.com/games/adventure/the-drifter-is-a-grimy-point-n-click-adventure-mixing-bleak-sci-fi-with-low-budget-aussie-schlock-and-theres-a-demo-out-now/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, May 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-30-2025/)
+ - [Clair Obscur: Expedition 33 didn’t invent Final Frenchtasy or the J&#39;RPG: the newly dubbed subgenre has a long and complicated history](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-didnt-invent-final-frenchtasy-or-the-jrpg-the-newly-dubbed-subgenre-has-a-long-and-complicated-history/)
+ - [Rematch: All the key details on the 5v5 football game from the masterminds behind Sifu](https://www.pcgamer.com/games/action/rematch-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
