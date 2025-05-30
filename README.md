@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Canceled Black Panther Game Reportedly Used A Nemesis-Like System For A Showdown With The Skrull](https://kotaku.com/black-panther-nemesis-skrull-canceled-secret-invasion-1851783183)
- - [New King Of The Hill Intro Implies A Lot Has Changed In Season 14](https://kotaku.com/king-of-the-hill-intro-season-14-revival-hulu-august-1851783175)
- - [Six Albums To Rip And Tear To After You&#39;ve Finished Doom: The Dark Ages](https://kotaku.com/doom-the-dark-ages-argent-metal-behemoth-dimmu-borgir-1851783167)<!-- GAME:END -->
+ - [Elden Ring Nightreign Is About To Become Easier For Solo Players](https://kotaku.com/elden-ring-nightreign-patch-102-solo-changes-runes-ps5-1851783188)
+ - [If you&#39;re playing Elden Ring Nightreign solo, every merchant carries a revive item, you can carry two at once, and there are more solo QoL changes coming next week](https://www.pcgamer.com/games/roguelike/if-youre-playing-elden-ring-nightreign-solo-every-merchant-carries-a-revive-item-you-can-carry-two-at-once-and-there-are-more-solo-qol-changes-coming-next-week/)
+ - [ZeniMax QA union reaches a tentative contract agreement with Microsoft including &#39;substantial across-the-board wage increases,&#39; worker protections, and more](https://www.pcgamer.com/gaming-industry/zenimax-qa-union-reaches-a-tentative-contract-agreement-with-microsoft-including-substantial-across-the-board-wage-increases-worker-protections-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
