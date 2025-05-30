@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the food hits the water...](http://9gag.com/gag/aRB2XBG)
- - ⏩ [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
- - 👉 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)<!-- MEMES:END -->
+ - 💣 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)
+ - ⏩ [Magellan](http://9gag.com/gag/a5QjQXy)
+ - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
 
 ---
 
