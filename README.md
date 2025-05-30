@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You Should Be Pinging Loot For Your Pals In Nightreign](https://kotaku.com/elden-ring-nightreign-loot-ping-multiplayer-cooperative-1851783150)
- - [Let&#39;s Get You Some More Stonesword Keys In Elden Ring Nightreign](https://kotaku.com/elden-ring-nightreign-stonesword-key-locations-castle-1851783141)
- - [Severance&#39;s Future Could Include Video Game, TV Show Spin-Offs](https://kotaku.com/severance-video-game-ben-stiller-adam-scott-spinoff-1851783116)<!-- GAME:END -->
+ - [Canceled Black Panther Game Reportedly Used A Nemesis-Like System For A Showdown With The Skrull](https://kotaku.com/black-panther-nemesis-skrull-canceled-secret-invasion-1851783183)
+ - [New King Of The Hill Intro Implies A Lot Has Changed In Season 14](https://kotaku.com/king-of-the-hill-intro-season-14-revival-hulu-august-1851783175)
+ - [Six Albums To Rip And Tear To After You&#39;ve Finished Doom: The Dark Ages](https://kotaku.com/doom-the-dark-ages-argent-metal-behemoth-dimmu-borgir-1851783167)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
