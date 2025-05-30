@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - 💣 [When the food hits the water...](http://9gag.com/gag/aRB2XBG)
  - ⏩ [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
  - 👉 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)<!-- MEMES:END -->
 
