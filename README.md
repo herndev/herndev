@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only in Japan](http://9gag.com/gag/apRA9AE)
- - ⏩ [This scene will never not be funny.](http://9gag.com/gag/aRB2r9q)
- - 👉 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)<!-- MEMES:END -->
+ - 💣 [One of the greatest comedians](http://9gag.com/gag/aW424YA)
+ - ⏩ [Peak adulting right here.](http://9gag.com/gag/an7DOeB)
+ - 👉 [Marry her](http://9gag.com/gag/aoy8Wbg)<!-- MEMES:END -->
 
 ---
 
