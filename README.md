@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hugging Face unveils two open-source humanoid robots, the $3,000 full-sized HopeJR and a $250-$300 Reachy Mini desktop unit, expected to ship by the end of 2025 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250530/p1#a250530p1)
  - [Two rival Amazon influencers seek to dismiss their 2024 copyright case, where one accused the other of posting similar promotional content for the same products &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250529/p49#a250529p49)
- - [Cerby, which provides an identity security automation service to help secure &quot;unmanageable&quot; and nonstandard enterprise apps, raised a $40M Series B led by DTCP &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250529/p48#a250529p48)
- - [The US Department of Energy says its Doudna supercomputer, due in 2026, will use Nvidia&#39;s latest Vera Rubin chips built into liquid-cooled servers by Dell &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250529/p47#a250529p47)<!-- TECH:END -->
+ - [Cerby, which provides an identity security automation service to help secure &quot;unmanageable&quot; and nonstandard enterprise apps, raised a $40M Series B led by DTCP &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250529/p48#a250529p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
