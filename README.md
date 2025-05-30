@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the greatest comedians](http://9gag.com/gag/aW424YA)
- - ⏩ [Peak adulting right here.](http://9gag.com/gag/an7DOeB)
- - 👉 [Marry her](http://9gag.com/gag/aoy8Wbg)<!-- MEMES:END -->
+ - 💣 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - ⏩ [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)
+ - 👉 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)<!-- MEMES:END -->
 
 ---
 
