@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will put the always-on display to good use in Wear OS 6](https://www.androidauthority.com/wear-os-6-always-on-display-controls-3562692/)
- - [Sources say Alibaba, Tencent, Baidu, and other Chinese companies are testing domestic alternatives as they deal with a dwindling stockpile of Nvidia processors &lpar;Financial Times&rpar;](http://www.techmeme.com/250530/p3#a250530p3)
- - [Google’s AI Overview now correctly answers it’s 2025, but leaves us with major trust issues](https://www.androidauthority.com/google-search-ai-overview-year-bug-fixed-3562697/)<!-- TECH:END -->
+ - [Do any prepaid US carriers offer truly unlimited data? Well, it depends on how you define it](https://www.androidauthority.com/prepaid-carriers-truly-unlimited-3529792/)
+ - [Can’t Afford an Ebike? Borrow One for Free From a Lending Library](https://www.wired.com/story/ebike-lending-libraries/)
+ - [12 Best Travel Adapters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
