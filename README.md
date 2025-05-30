@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Captain America: Brave New World, The Wild Robot, Lost in Starlight, and every movie new to streaming this weekend](https://www.polygon.com/movies/601382/new-movies-watch-streaming-captain-america-brave-new-world-wild-robot-lost-in-starlight)
- - [How to play Recluse in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602567/reculse-build-best-how-to-play)
- - [How to play Duchess in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602474/duchess-build-best-how-to-play)<!-- GAME:END -->
+ - [Bethesda Devs Win Major Union Contract At Microsoft After Threatening Strike](https://kotaku.com/bethesda-devs-win-first-ever-union-contact-at-a-major-g-1851783142)
+ - [Ubisoft marks 10 years of trolling Splinter Cell fans with a new tease and I can&#39;t believe I&#39;m saying this but they used the wrong picture of Sam Fisher](https://www.pcgamer.com/games/action/ubisoft-marks-10-year-of-trolling-splinter-cell-fans-with-a-new-tease-and-i-cant-believe-im-saying-this-but-they-used-the-wrong-picture-of-sam-fisher/)
+ - [Path of Exile 2 director says GGG is learning from its mistakes while supporting 2 games at once: &#39;If you want to lock the date, you can&#39;t lock the features&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2-director-says-ggg-is-learning-from-its-mistakes-while-supporting-2-games-at-once-if-you-want-to-lock-the-date-you-cant-lock-the-features/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
