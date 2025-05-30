@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A new t-shirt](http://9gag.com/gag/a9yXE4L)
- - ⏩ [Sometimes you just wake up with some fresh hate for Rose](https://www.reddit.com/r/funny/comments/1kywruu/sometimes_you_just_wake_up_with_some_fresh_hate/)
- - 👉 [Only in Japan](http://9gag.com/gag/apRA9AE)<!-- MEMES:END -->
+ - 💣 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)
+ - ⏩ [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
+ - 👉 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)<!-- MEMES:END -->
 
 ---
 
