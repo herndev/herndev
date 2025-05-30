@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Bike Locks &lpar;2025&rpar;: Kryptonite, Litelok, Abus, Hiplok, Compared](https://www.wired.com/gallery/best-bike-lock/)
- - [Snorkel AI, which pivoted from data labeling to building AI evaluation tools, raised a $100M Series D led by Addition at a $1.3B valuation, up from $1B in 2021 &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250530/p10#a250530p10)
- - [Elden Ring Nightreign Patch 1.02 Aims to Fix Brutal Solo Difficulty](https://www.cnet.com/tech/gaming/elden-ring-nightreign-patch-1-02-aims-to-fix-brutal-solo-difficulty/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s AI Overview now correctly answers it’s 2025, but leaves us with major trust issues](https://www.androidauthority.com/google-search-ai-overview-year-bug-fixed-3562697/)
+ - [Don’t Google “Is it 2025?” unless you want to laugh at the state of AI &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/google-search-ai-overview-doesnt-know-the-year-3561764/)
+ - [Can’t find Google’s button to ring your missing phone? Here’s where it moved](https://www.androidauthority.com/find-phone-ring-3562828/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
