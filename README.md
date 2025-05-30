@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)
- - ⏩ [Magellan](http://9gag.com/gag/a5QjQXy)
- - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
+ - 💣 [A supervillain is born](http://9gag.com/gag/aLnXvr6)
+ - ⏩ [Gardening is `easy`.](http://9gag.com/gag/aZZ2rpn)
+ - 👉 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
 
 ---
 
