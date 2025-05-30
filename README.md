@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for June 2 to 6](https://news.xbox.com/en-us/2025/05/30/next-week-on-xbox-new-games-for-june-2-to-6/)
- - [A graphical history of id Tech: Three decades of cutting-edge graphics and game engine technologies](https://www.pcgamer.com/hardware/a-graphical-history-of-id-tech-three-decades-of-cutting-edge-graphics-and-game-engine-technologies/)
- - [How to beat Caligo in Elden Ring Nightreign: Fissure in the Fog boss guide](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-caligo-boss-guide-fissure-in-the-fog/)<!-- GAME:END -->
+ - [Elden Ring Nightreign&amp;#8217;s first big patch will make the game very slightly easier for solo players](https://www.polygon.com/news/602489/elden-ring-nightreign-solo-play-patch-102)
+ - [It&#39;s taken the genius behind Elden Ring&#39;s seamless co-op mod less than 24 hours to get a working prototype going for Nightreign, allowing 2-person matches](https://www.pcgamer.com/games/rpg/its-taken-the-genius-behind-elden-rings-seamless-co-op-mod-less-than-24-hours-to-get-a-working-prototype-going-for-nightreign-allowing-2-person-matches/)
+ - [Civilization 7&#39;s senior historian once deleted Civ 6&#39;s massive Civilopedia, replacing every entry with a single warmongering emperor: &#39;The entire folder just went, and I looked, and it was just my one little entry&#39;](https://www.pcgamer.com/games/strategy/civilization-7s-senior-historian-once-deleted-civ-6s-massive-civilopedia-replacing-every-entry-with-a-single-warmongering-emperor-the-entire-folder-just-went-and-i-looked-and-it-was-just-my-one-little-entry/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
