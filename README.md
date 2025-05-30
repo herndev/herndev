@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump lashes out at China for violating new trade agreement](https://appleinsider.com/articles/25/05/30/president-trump-lashes-out-at-china-for-violating-new-trade-agreement?utm_medium=rss)
- - [Is Using a Stair Machine the Same as Climbing Stairs?](https://www.wired.com/story/is-using-a-stair-machine-the-same-as-climbing-stairs/)
- - [Nintendo’s Switch era took Pokémon collecting to the next level](https://www.theverge.com/nintendo/675590/nintendo-switch-pokemon-home-legends-za-generation-x)<!-- TECH:END -->
+ - [Elden Ring Nightreign may be co-op, but I&amp;#8217;m having a blast solo](https://www.theverge.com/games/676805/elden-ring-nightreign-review-fromsoftware-elden-ring)
+ - [Source: Chime&#39;s IPO is expected to price at ~$11B, down from its $25B private valuation in 2021; every VC-backed IPO in the past 12 months has been a down round &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250530/p9#a250530p9)
+ - [Apple&#39;s 15-inch MacBook Air M4 just dipped to a new low price](https://appleinsider.com/articles/25/05/30/apples-15-inch-macbook-air-m4-just-dipped-to-a-new-low-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
