@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign Is About To Become Easier For Solo Players](https://kotaku.com/elden-ring-nightreign-patch-102-solo-changes-runes-ps5-1851783188)
- - [If you&#39;re playing Elden Ring Nightreign solo, every merchant carries a revive item, you can carry two at once, and there are more solo QoL changes coming next week](https://www.pcgamer.com/games/roguelike/if-youre-playing-elden-ring-nightreign-solo-every-merchant-carries-a-revive-item-you-can-carry-two-at-once-and-there-are-more-solo-qol-changes-coming-next-week/)
- - [ZeniMax QA union reaches a tentative contract agreement with Microsoft including &#39;substantial across-the-board wage increases,&#39; worker protections, and more](https://www.pcgamer.com/gaming-industry/zenimax-qa-union-reaches-a-tentative-contract-agreement-with-microsoft-including-substantial-across-the-board-wage-increases-worker-protections-and-more/)<!-- GAME:END -->
+ - [How to get Stonesword Keys to unlock Evergaol in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602575/stonesword-keys-how-to-get-unlock-evergaol)
+ - [Elden Ring Nightreign Modder Rushes Out Duos Mode To Save Friendless Tarnished](https://kotaku.com/elden-ring-nightreign-duos-mod-seamless-coop-pc-1851783200)
+ - [How to upgrade to legendary weapons in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602495/legendary-weapons-how-to-upgrade-special-smithing-table-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
