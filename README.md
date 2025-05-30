@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony has reportedly started outsourcing Xperia phone production](https://www.androidauthority.com/sony-outsources-xperia-production-3562983/)
- - [Sources: Abridge, which uses AI to transcribe medical chats, is raising $300M led by a16z at a $5.3B valuation, up from $2.75B in February when it raised $250M &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250530/p20#a250530p20)
- - [The Absolute Best Air Fryer Money Can Buy Has One Key Feature Most Others Don&#39;t](https://www.cnet.com/home/kitchen-and-household/the-best-air-fryer-weve-tested-has-one-unique-feature-that-others-dont/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Young people sue Donald Trump over climate change](https://www.theverge.com/news/677537/youth-climate-change-lawsuit-trump-executive-orders)
+ - [Deal: The latest 2TB iPad Pro is $400 cheaper right now](https://www.androidauthority.com/2tb-ipad-pro-m4-deal-3563044/)
+ - [Grindr&amp;#8217;s new Right Now feature brings a spicy live feed to the hookup app](https://www.theverge.com/news/677134/grindr-right-now-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
