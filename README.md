@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Shorts are about to get some Google Lens magic](https://www.androidauthority.com/youtube-shorts-google-lens-integration-3562645/)
- - [Meta says it has cut US content removal mistakes by half since its January policy changes, without broadly exposing users to more offensive content than before &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250530/p2#a250530p2)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [2025’s best-selling Android phone just got even better with the One UI 7 update](https://www.androidauthority.com/samsung-galaxy-a16-5g-one-ui-7-update-3562683/)
+ - [Google Phone’s incoming call screen could get a facelift you can choose &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-incoming-call-ui-choice-apk-teardown-3562662/)
+ - [Poll: What do you look for in the best camera phones?](https://www.androidauthority.com/look-for-best-camera-phones-poll-3562675/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
