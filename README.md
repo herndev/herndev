@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automattic says it will resume contributing to the WordPress project, after announcing a pause in April &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250530/p18#a250530p18)
- - [A Hacker May Have Deepfaked Trump’s Chief of Staff in a Phishing Campaign](https://www.wired.com/story/trump-chief-staff-susie-wiles-hacker-phishing-impersonation/)
- - [Sources: Trump administration plans to expand Entity List restrictions to cover subsidiaries of Chinese companies, aiming to block workarounds via new offshoots &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p17#a250530p17)<!-- TECH:END -->
+ - [T-Mobile&#39;s best iPhone deal yet nets you a free iPhone 16 Pro, exclusive benefits &amp; more](https://appleinsider.com/articles/25/05/30/t-mobiles-best-iphone-deal-yet-nets-you-a-free-iphone-16-pro-exclusive-benefits-more?utm_medium=rss)
+ - [Microsoft releases a bold new update for Notepad](https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support)
+ - [Q&amp;A with Mary Meeker on publishing her first Trends report since 2019, its focus on the AI revolution, why OpenAI may have an insurmountable lead, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250530/p19#a250530p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
