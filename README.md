@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Survive Your First Run in Elden Ring Nightreign](https://news.xbox.com/en-us/2025/05/30/elden-ring-nightreign-tips-guide/)
- - [The Drifter might be the most chilling point-and-click of the year](https://www.polygon.com/horror/602439/the-drifter-demo-impressions-pc-steam-deck)
- - [The President Is Dead &lpar;In Helldivers 2&rpar;](https://kotaku.com/helldivers-2-president-kia-dss-battle-station-victory-1851783082)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for June 2 to 6](https://news.xbox.com/en-us/2025/05/30/next-week-on-xbox-new-games-for-june-2-to-6/)
+ - [A graphical history of id Tech: Three decades of cutting-edge graphics and game engine technologies](https://www.pcgamer.com/hardware/a-graphical-history-of-id-tech-three-decades-of-cutting-edge-graphics-and-game-engine-technologies/)
+ - [How to beat Caligo in Elden Ring Nightreign: Fissure in the Fog boss guide](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-caligo-boss-guide-fissure-in-the-fog/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
