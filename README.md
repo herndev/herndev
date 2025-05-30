@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let him cook](http://9gag.com/gag/aXP2nN2)
- - ⏩ [I would take her for spin](http://9gag.com/gag/ayNQ2Oy)
- - 👉 [This scene will never not be funny.](http://9gag.com/gag/aRB2r9q)<!-- MEMES:END -->
+ - 💣 [Relaxing on the bottom shelf.](http://9gag.com/gag/aqyzX4M)
+ - ⏩ [What is an immigrant](http://9gag.com/gag/abA2vKL)
+ - 👉 [Marry her](http://9gag.com/gag/aoy8Wbg)<!-- MEMES:END -->
 
 ---
 
