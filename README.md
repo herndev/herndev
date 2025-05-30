@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two rival Amazon influencers seek to dismiss their 2024 copyright case, where one accused the other of posting similar promotional content for the same products &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250529/p49#a250529p49)
  - [Cerby, which provides an identity security automation service to help secure &quot;unmanageable&quot; and nonstandard enterprise apps, raised a $40M Series B led by DTCP &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250529/p48#a250529p48)
- - [The US Department of Energy says its Doudna supercomputer, due in 2026, will use Nvidia&#39;s latest Vera Rubin chips built into liquid-cooled servers by Dell &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250529/p47#a250529p47)
- - [Trump tariffs return until June 9 after appeals court stays injunction](https://appleinsider.com/articles/25/05/30/trump-tariffs-return-until-june-9-after-court-stays-trade-court-injunction?utm_medium=rss)<!-- TECH:END -->
+ - [The US Department of Energy says its Doudna supercomputer, due in 2026, will use Nvidia&#39;s latest Vera Rubin chips built into liquid-cooled servers by Dell &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250529/p47#a250529p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
