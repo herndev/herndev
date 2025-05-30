@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - ⏩ [Let him cook](http://9gag.com/gag/aXP2nN2)
- - 👉 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
+ - 💣 [A supervillain is born](http://9gag.com/gag/aLnXvr6)
+ - ⏩ [Tickles tickles](http://9gag.com/gag/ae929rO)
+ - 👉 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)<!-- MEMES:END -->
 
 ---
 
