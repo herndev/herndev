@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)
- - ⏩ [This scene will never not be funny.](http://9gag.com/gag/aRB2r9q)
- - 👉 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)<!-- MEMES:END -->
+ - 💣 [Let him cook](http://9gag.com/gag/aXP2nN2)
+ - ⏩ [I would take her for spin](http://9gag.com/gag/ayNQ2Oy)
+ - 👉 [This scene will never not be funny.](http://9gag.com/gag/aRB2r9q)<!-- MEMES:END -->
 
 ---
 
