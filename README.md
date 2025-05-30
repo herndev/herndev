@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mi\u00e9rcoles de resucitacion cardiopulmonar](http://9gag.com/gag/a7oN142)
- - ⏩ [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
- - 👉 [A new t-shirt](http://9gag.com/gag/a9yXE4L)<!-- MEMES:END -->
+ - 💣 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
+ - ⏩ [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)
+ - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
 
 ---
 
