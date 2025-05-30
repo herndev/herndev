@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)
- - ⏩ [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
- - 👉 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)<!-- MEMES:END -->
+ - 💣 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
+ - ⏩ [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
 
 ---
 
