@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Stonesword Keys to unlock Evergaol in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602575/stonesword-keys-how-to-get-unlock-evergaol)
- - [Elden Ring Nightreign Modder Rushes Out Duos Mode To Save Friendless Tarnished](https://kotaku.com/elden-ring-nightreign-duos-mod-seamless-coop-pc-1851783200)
- - [How to upgrade to legendary weapons in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602495/legendary-weapons-how-to-upgrade-special-smithing-table-location)<!-- GAME:END -->
+ - [Captain America: Brave New World, The Wild Robot, Lost in Starlight, and every movie new to streaming this weekend](https://www.polygon.com/movies/601382/new-movies-watch-streaming-captain-america-brave-new-world-wild-robot-lost-in-starlight)
+ - [How to play Recluse in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602567/reculse-build-best-how-to-play)
+ - [How to play Duchess in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602474/duchess-build-best-how-to-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
