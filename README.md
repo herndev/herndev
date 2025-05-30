@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI Overview now correctly answers it’s 2025, but leaves us with major trust issues](https://www.androidauthority.com/google-search-ai-overview-year-bug-fixed-3562697/)
- - [Don’t Google “Is it 2025?” unless you want to laugh at the state of AI &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/google-search-ai-overview-doesnt-know-the-year-3561764/)
- - [Can’t find Google’s button to ring your missing phone? Here’s where it moved](https://www.androidauthority.com/find-phone-ring-3562828/)<!-- TECH:END -->
+ - [Two former Polygon writers are starting a new site](https://www.theverge.com/news/675764/polygon-guides-writers-big-friendly-guide-new-site)
+ - [NYT reports Elon Musk&amp;#8217;s drug use went &amp;#8216;well beyond occasional&amp;#8217; in 2024](https://www.theverge.com/news/677130/elon-musk-ketamine-nyt-report)
+ - [Google starts letting Android 16 testers try Advanced Protection mode for maximum phone security](https://www.androidauthority.com/android-16-beta-advanced-protection-mode-3562906/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
