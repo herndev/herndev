@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
- - ⏩ [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)
- - 👉 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)<!-- MEMES:END -->
+ - 💣 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
+ - ⏩ [Don\u2019t tell mom](http://9gag.com/gag/ae9244O)
+ - 👉 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)<!-- MEMES:END -->
 
 ---
 
