@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mi\u00e9rcoles de resucitacion cardiopulmonar](http://9gag.com/gag/a7oN142)
- - ⏩ [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
- - 👉 [A new t-shirt](http://9gag.com/gag/a9yXE4L)<!-- MEMES:END -->
+ - 💣 [A new t-shirt](http://9gag.com/gag/a9yXE4L)
+ - ⏩ [Sometimes you just wake up with some fresh hate for Rose](https://www.reddit.com/r/funny/comments/1kywruu/sometimes_you_just_wake_up_with_some_fresh_hate/)
+ - 👉 [Only in Japan](http://9gag.com/gag/apRA9AE)<!-- MEMES:END -->
 
 ---
 
