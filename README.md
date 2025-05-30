@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rematch: All the key details on the 5v5 football game from the masterminds behind Sifu](https://www.pcgamer.com/games/action/rematch-guide/)
  - [Elden Ring Nightreign guide: all our advice for surviving the night in one place](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-guide/)
- - [The Drifter is a grimy point &#39;n&#39; click adventure mixing bleak sci-fi with low-budget Aussie schlock, and there&#39;s a demo out now](https://www.pcgamer.com/games/adventure/the-drifter-is-a-grimy-point-n-click-adventure-mixing-bleak-sci-fi-with-low-budget-aussie-schlock-and-theres-a-demo-out-now/)
- - [Dune: Awakening&#39;s player guilds will be able to pass some pretty OP server-wide laws—including one that means you&#39;ll lose everything when defeated in deep desert PvP](https://www.pcgamer.com/games/survival-crafting/dune-awakenings-player-guilds-will-be-able-to-pass-some-pretty-op-server-wide-laws-including-one-that-means-youll-lose-everything-when-defeated-in-deep-desert-pvp/)<!-- GAME:END -->
+ - [The Drifter is a grimy point &#39;n&#39; click adventure mixing bleak sci-fi with low-budget Aussie schlock, and there&#39;s a demo out now](https://www.pcgamer.com/games/adventure/the-drifter-is-a-grimy-point-n-click-adventure-mixing-bleak-sci-fi-with-low-budget-aussie-schlock-and-theres-a-demo-out-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
