@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign&amp;#8217;s first big patch will make the game very slightly easier for solo players](https://www.polygon.com/news/602489/elden-ring-nightreign-solo-play-patch-102)
- - [It&#39;s taken the genius behind Elden Ring&#39;s seamless co-op mod less than 24 hours to get a working prototype going for Nightreign, allowing 2-person matches](https://www.pcgamer.com/games/rpg/its-taken-the-genius-behind-elden-rings-seamless-co-op-mod-less-than-24-hours-to-get-a-working-prototype-going-for-nightreign-allowing-2-person-matches/)
- - [Civilization 7&#39;s senior historian once deleted Civ 6&#39;s massive Civilopedia, replacing every entry with a single warmongering emperor: &#39;The entire folder just went, and I looked, and it was just my one little entry&#39;](https://www.pcgamer.com/games/strategy/civilization-7s-senior-historian-once-deleted-civ-6s-massive-civilopedia-replacing-every-entry-with-a-single-warmongering-emperor-the-entire-folder-just-went-and-i-looked-and-it-was-just-my-one-little-entry/)<!-- GAME:END -->
+ - [35 Years Ago Today, Garfield&#39;s Owner Didn&#39;t Drink Dog Semen](https://kotaku.com/garfield-drink-dog-semen-owner-cum-jim-davis-interview-1851783121)
+ - [The Witcher 3 is getting &#39;one more patch&#39; that will add cross-platform mod support](https://www.pcgamer.com/games/rpg/the-witcher-3-is-getting-one-more-patch-that-will-add-cross-platform-mod-support/)
+ - [Bethesda Devs Win First-Ever Union Contract In The Country At A Major Gaming Company After Threatening Strike](https://kotaku.com/bethesda-devs-win-first-ever-union-contact-at-a-major-g-1851783142)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
