@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft has sidelined its native Xbox handheld to focus on improving Windows 11 gaming performance for devices like the Asus model debuting in 2025 &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250529/p45#a250529p45)
- - [Meta’s ‘Free Expression’ Push Results In Far Fewer Content Takedowns](https://www.wired.com/story/meta-content-moderation-changes-decrease-removals/)
- - [The Trump Administration Wants to Create an ‘Office of Remigration’](https://www.wired.com/story/trump-office-remigration-state-department-europe-far-right/)<!-- TECH:END -->
+ - [The US Department of Energy says its Doudna supercomputer, due in 2026, will use Nvidia&#39;s latest Vera Rubin chips built into liquid-cooled servers by Dell &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250529/p47#a250529p47)
+ - [Trump tariffs return until June 9 after appeals court stays injunction](https://appleinsider.com/articles/25/05/30/trump-tariffs-return-until-june-9-after-court-stays-trade-court-injunction?utm_medium=rss)
+ - [Black Forest Labs releases Flux.1 Kontext, a suite of AI models that let users generate and edit images using both text and images as inputs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250529/p46#a250529p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
