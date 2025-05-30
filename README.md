@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Young people sue Donald Trump over climate change](https://www.theverge.com/news/677537/youth-climate-change-lawsuit-trump-executive-orders)
- - [Deal: The latest 2TB iPad Pro is $400 cheaper right now](https://www.androidauthority.com/2tb-ipad-pro-m4-deal-3563044/)
- - [Grindr&amp;#8217;s new Right Now feature brings a spicy live feed to the hookup app](https://www.theverge.com/news/677134/grindr-right-now-ai)<!-- TECH:END -->
+ - [US v. Google: during closing arguments, a judge queried both sides on ideas to limit Google&#39;s monopoly in search and said he expects to issue a ruling in August &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250530/p22#a250530p22)
+ - [The CDC Opposes RFK Jr.&#39;s COVID Vaccine Guidance, Saying Children &#39;May Receive&#39; Their Shots](https://www.cnet.com/health/medical/cdc-opposes-rfk-jr-covid-vaccine-guidance-children-may-receive-shots/#ftag=CAD590a51e)
+ - [Young people sue Donald Trump over climate change](https://www.theverge.com/news/677537/youth-climate-change-lawsuit-trump-executive-orders)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
