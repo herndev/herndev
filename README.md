@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Phanteks Eclipse G400A review](https://www.pcgamer.com/hardware/pc-cases/phanteks-eclipse-g400a-review/)
- - [Hot off making the biggest city in any Elder Scrolls game, Tamriel Rebuilt is already eyeing one &#39;Twice the size&#39;](https://www.pcgamer.com/games/the-elder-scrolls/hot-off-making-the-biggest-city-in-any-elder-scrolls-game-tamriel-rebuilt-is-already-eyeing-one-twice-the-size/)
- - [Nvidia&#39;s Jen-Hsun Huang says Chinese competitors are &#39;quite formidable&#39; just days after the announcement of a Chinese RTX 4060-level GPU powering up](https://www.pcgamer.com/hardware/graphics-cards/nvidias-jen-hsun-huang-says-chinese-competitors-are-quite-formidable-just-days-after-the-announcement-of-a-chinese-rtx-4060-level-gpu-powering-up/)<!-- GAME:END -->
+ - [Elden Ring Nightreign&#39;s best feature is its extra mobility—but it&#39;s not even that good, and Sekiro does it better](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-best-feature-is-its-extra-mobility-but-its-not-even-that-good-and-sekiro-does-it-better/)
+ - [Atomfall Story Expansion Arrives Next Week – Dare You Visit Wicked Isle?](https://news.xbox.com/en-us/2025/05/30/atomfall-story-expansion-wicked-isle/)
+ - [Clair Obscur: Expedition 33&amp;#8217;s story hits even harder the second time around](https://www.polygon.com/opinion/602333/clair-obscur-expedition-33-story-replay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
