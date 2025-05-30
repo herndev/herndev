@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - ⏩ [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
- - 👉 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)<!-- MEMES:END -->
+ - 💣 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)
+ - ⏩ [This scene will never not be funny.](http://9gag.com/gag/aRB2r9q)
+ - 👉 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)<!-- MEMES:END -->
 
 ---
 
