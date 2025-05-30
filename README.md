@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
- - ⏩ [Let him cook](http://9gag.com/gag/aXP2nN2)
- - 👉 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)<!-- MEMES:END -->
+ - 💣 [Only in Japan](http://9gag.com/gag/apRA9AE)
+ - ⏩ [This scene will never not be funny.](http://9gag.com/gag/aRB2r9q)
+ - 👉 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)<!-- MEMES:END -->
 
 ---
 
