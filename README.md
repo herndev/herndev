@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elden Ring Nightreign may be co-op, but I&amp;#8217;m having a blast solo](https://www.theverge.com/games/676805/elden-ring-nightreign-review-fromsoftware-elden-ring)
- - [Source: Chime&#39;s IPO is expected to price at ~$11B, down from its $25B private valuation in 2021; every VC-backed IPO in the past 12 months has been a down round &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250530/p9#a250530p9)
- - [Apple&#39;s 15-inch MacBook Air M4 just dipped to a new low price](https://appleinsider.com/articles/25/05/30/apples-15-inch-macbook-air-m4-just-dipped-to-a-new-low-price?utm_medium=rss)<!-- TECH:END -->
+ - [8 Best Bike Locks &lpar;2025&rpar;: Kryptonite, Litelok, Abus, Hiplok, Compared](https://www.wired.com/gallery/best-bike-lock/)
+ - [Snorkel AI, which pivoted from data labeling to building AI evaluation tools, raised a $100M Series D led by Addition at a $1.3B valuation, up from $1B in 2021 &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250530/p10#a250530p10)
+ - [Elden Ring Nightreign Patch 1.02 Aims to Fix Brutal Solo Difficulty](https://www.cnet.com/tech/gaming/elden-ring-nightreign-patch-1-02-aims-to-fix-brutal-solo-difficulty/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
