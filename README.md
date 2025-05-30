@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail’s AI summaries now appear automatically](https://www.theverge.com/news/676933/gmail-ai-summaries-workspace-android-ios)
- - [Tired of Waking Up to Pee? 5 Tips for More Sleep, Less Bathroom Breaks](https://www.cnet.com/health/sleep/tired-waking-up-pee-tips-more-sleep-less-bathroom-breaks/#ftag=CAD590a51e)
- - [2025’s best-selling Android phone just got even better with the One UI 7 update](https://www.androidauthority.com/samsung-galaxy-a16-5g-one-ui-7-update-3562683/)<!-- TECH:END -->
+ - [Google will put the always-on display to good use in Wear OS 6](https://www.androidauthority.com/wear-os-6-always-on-display-controls-3562692/)
+ - [Sources say Alibaba, Tencent, Baidu, and other Chinese companies are testing domestic alternatives as they deal with a dwindling stockpile of Nvidia processors &lpar;Financial Times&rpar;](http://www.techmeme.com/250530/p3#a250530p3)
+ - [Google’s AI Overview now correctly answers it’s 2025, but leaves us with major trust issues](https://www.androidauthority.com/google-search-ai-overview-year-bug-fixed-3562697/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
