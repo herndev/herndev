@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do any prepaid US carriers offer truly unlimited data? Well, it depends on how you define it](https://www.androidauthority.com/prepaid-carriers-truly-unlimited-3529792/)
- - [Can’t Afford an Ebike? Borrow One for Free From a Lending Library](https://www.wired.com/story/ebike-lending-libraries/)
- - [12 Best Travel Adapters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
+ - [SEC drops Binance lawsuit in yet another gift to crypto](https://www.theverge.com/news/676949/sec-binance-lawsuit-dropped-crypto-trump-administration)
+ - [&#39;Your Friends and Neighbors&#39; creator Jonathan Tropper to stay with Apple under new deal](https://appleinsider.com/articles/25/05/30/your-friends-and-neighbors-creator-jonathan-tropper-to-stay-with-apple-under-new-deal?utm_medium=rss)
+ - [One of the greatest platformers of all time is currently free on Android](https://www.androidauthority.com/limbo-free-android-3562728/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
