@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, May 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-30-2025/)
- - [Clair Obscur: Expedition 33 didn’t invent Final Frenchtasy or the J&#39;RPG: the newly dubbed subgenre has a long and complicated history](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-didnt-invent-final-frenchtasy-or-the-jrpg-the-newly-dubbed-subgenre-has-a-long-and-complicated-history/)
- - [Rematch: All the key details on the 5v5 football game from the masterminds behind Sifu](https://www.pcgamer.com/games/action/rematch-guide/)<!-- GAME:END -->
+ - [Hot off making the biggest city in any Elder Scrolls game, Tamriel Rebuilt is already eyeing one &#39;Twice the size&#39;](https://www.pcgamer.com/games/the-elder-scrolls/hot-off-making-the-biggest-city-in-any-elder-scrolls-game-tamriel-rebuilt-is-already-eyeing-one-twice-the-size/)
+ - [Nvidia&#39;s Jen-Hsun Huang says Chinese competitors are &#39;quite formidable&#39; just days after the announcement of a Chinese RTX 4060-level GPU powering up](https://www.pcgamer.com/hardware/graphics-cards/nvidias-jen-hsun-huang-says-chinese-competitors-are-quite-formidable-just-days-after-the-announcement-of-a-chinese-rtx-4060-level-gpu-powering-up/)
+ - [A game claiming the backing of Russia&#39;s military just popped up on Steam: &#39;I understand Ukrainian players don&#39;t like us&#39;](https://www.pcgamer.com/games/strategy/a-game-claiming-the-backing-of-russias-military-just-popped-up-on-steam-i-understand-ukrainian-players-dont-like-us/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
