@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relaxing on the bottom shelf.](http://9gag.com/gag/aqyzX4M)
- - ⏩ [What is an immigrant](http://9gag.com/gag/abA2vKL)
- - 👉 [Marry her](http://9gag.com/gag/aoy8Wbg)<!-- MEMES:END -->
+ - 💣 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
+ - ⏩ [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
+ - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
 
 ---
 
