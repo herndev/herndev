@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2025’s best-selling Android phone just got even better with the One UI 7 update](https://www.androidauthority.com/samsung-galaxy-a16-5g-one-ui-7-update-3562683/)
- - [Google Phone’s incoming call screen could get a facelift you can choose &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-incoming-call-ui-choice-apk-teardown-3562662/)
- - [Poll: What do you look for in the best camera phones?](https://www.androidauthority.com/look-for-best-camera-phones-poll-3562675/)<!-- TECH:END -->
+ - [Gmail’s AI summaries now appear automatically](https://www.theverge.com/news/676933/gmail-ai-summaries-workspace-android-ios)
+ - [Tired of Waking Up to Pee? 5 Tips for More Sleep, Less Bathroom Breaks](https://www.cnet.com/health/sleep/tired-waking-up-pee-tips-more-sleep-less-bathroom-breaks/#ftag=CAD590a51e)
+ - [2025’s best-selling Android phone just got even better with the One UI 7 update](https://www.androidauthority.com/samsung-galaxy-a16-5g-one-ui-7-update-3562683/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
