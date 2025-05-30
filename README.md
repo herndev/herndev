@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [35 Years Ago Today, Garfield&#39;s Owner Didn&#39;t Drink Dog Semen](https://kotaku.com/garfield-drink-dog-semen-owner-cum-jim-davis-interview-1851783121)
- - [The Witcher 3 is getting &#39;one more patch&#39; that will add cross-platform mod support](https://www.pcgamer.com/games/rpg/the-witcher-3-is-getting-one-more-patch-that-will-add-cross-platform-mod-support/)
- - [Bethesda Devs Win First-Ever Union Contract In The Country At A Major Gaming Company After Threatening Strike](https://kotaku.com/bethesda-devs-win-first-ever-union-contact-at-a-major-g-1851783142)<!-- GAME:END -->
+ - [You Should Be Pinging Loot For Your Pals In Nightreign](https://kotaku.com/elden-ring-nightreign-loot-ping-multiplayer-cooperative-1851783150)
+ - [Let&#39;s Get You Some More Stonesword Keys In Elden Ring Nightreign](https://kotaku.com/elden-ring-nightreign-stonesword-key-locations-castle-1851783141)
+ - [Severance&#39;s Future Could Include Video Game, TV Show Spin-Offs](https://kotaku.com/severance-video-game-ben-stiller-adam-scott-spinoff-1851783116)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
