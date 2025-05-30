@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
- - ⏩ [The video was given to the police and he now faces a possible suspension of his license.](http://9gag.com/gag/avyvyPX)
- - 👉 [I would take her for spin](http://9gag.com/gag/ayNQ2Oy)<!-- MEMES:END -->
+ - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
+ - ⏩ [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
+ - 👉 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)<!-- MEMES:END -->
 
 ---
 
