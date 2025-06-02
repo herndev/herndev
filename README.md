@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed: Black Flag remake is such a badly kept secret it&#39;s been leaked by a statue maker who just assumed we all knew it was coming](https://www.pcgamer.com/games/assassins-creed/assassins-creed-black-flag-remake-is-such-a-badly-kept-secret-its-been-leaked-by-a-statue-maker-who-just-assumed-we-all-knew-it-was-coming/)
- - [Hitman Studio Finally Reveals A Bit More About Its Upcoming James Bond Game](https://kotaku.com/james-bond-007-first-light-hitman-ioi-teaser-trailer-1851783339)
- - [IO Interactive’s Project 007 has a new name: 007 First Light](https://www.polygon.com/gaming/602818/project-007-game-new-name-007-first-light)<!-- GAME:END -->
+ - [Dune: Awakening will have private servers at launch where players can disable taxes and enable &#39;free for all&#39; PvP](https://www.pcgamer.com/games/survival-crafting/dune-awakening-will-have-private-servers-at-launch-where-players-can-disable-taxes-and-enable-free-for-all-pvp/)
+ - [Elden Ring Nightreign: A Beginner&#39;s Guide To Mastering Ironeye](https://kotaku.com/elden-ring-nightreign-iron-eye-single-shot-mark-ranged-1851783356)
+ - [How DOOM: The Bark Ages Supports Animal Welfare Organizations](https://news.microsoft.com/source/shortform/doom-the-bark-ages-bethesda-id-xbox-pets/#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
