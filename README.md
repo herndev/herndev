@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Face the Horrors of the Ocean in Submersed 2: The Hive, on Xbox Today](https://news.xbox.com/en-us/2025/06/02/submersed-2-the-hive-on-xbox-today/)
- - [Voice Of John Redcorn In King Of The Hill Killed In Shooting](https://kotaku.com/john-redcorn-actor-joss-dead-shooting-king-of-the-hill-1851783386)
- - [Gen V Season 2 Will Build Upon The Boys&#39; Superhero Military](https://kotaku.com/gen-v-season-2-trailer-homelander-amazon-news-1851783362)<!-- GAME:END -->
+ - [Some Great Batman Games Are Super Cheap Right Now On Steam](https://kotaku.com/batman-dc-arkham-city-sale-steam-suicide-squad-watchman-1851783394)
+ - [Every Big Summer Gaming Showcase Happening This Week And How To Watch](https://kotaku.com/summer-game-fest-2025-nintendo-direct-playstation-1851783402)
+ - [Trial begins in France this week for 3 former Ubisoft executives facing accusations of &#39;moral and sexual harassment&#39;](https://www.pcgamer.com/gaming-industry/trial-begins-in-france-this-week-for-3-former-ubisoft-executives-facing-accusations-of-moral-and-sexual-harassment/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
