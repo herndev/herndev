@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Investing in future payouts.](http://9gag.com/gag/a0eE6YZ)
- - ⏩ [How North Korea monitors their citizens through their phones](http://9gag.com/gag/aZZ2866)
- - 👉 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)<!-- MEMES:END -->
+ - 💣 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)
+ - ⏩ [Footage going around of Ukrainian drones being launched from parked truck trailers in the far east of Russia today &lpar;and then hitting nearby military airfields&rpar;, crazy! &lpar;Also footage going around of the trailers self-destructing after launches were finished!&rpar;](http://9gag.com/gag/amoVxy4)
+ - 👉 [That&#39;s one enthusiastic high-five](http://9gag.com/gag/amoVMPV)<!-- MEMES:END -->
 
 ---
 
