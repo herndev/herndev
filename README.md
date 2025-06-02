@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, June 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-2-2025/)
  - [D&amp;D podcasters 3D printed a giant model of Castle Ravenloft, from Curse of Strahd, and it&#39;s truly beautiful](https://www.pcgamer.com/games/d-and-d-podcasters-3d-printed-a-giant-model-of-castle-ravenloft-from-curse-of-strahd-and-its-truly-beautiful/)
- - [Five new Steam games you probably missed &lpar;June 2, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-2-2025/)
- - [XWVM, the X-Wing mod that lets you play the Star Wars classic remade in Unity, is finally available to download](https://www.pcgamer.com/games/sim/xwvm-the-x-wing-mod-that-lets-you-play-the-star-wars-classic-remade-in-unity-is-finally-available-to-download/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;June 2, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-2-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
