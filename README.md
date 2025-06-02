@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new Android apps and games for June 2025](https://www.androidauthority.com/new-android-apps-658839/)
- - [A look at Russian GRU Unit 29155&#39;s hacking department, which started out in 2012, and its involvement in cyber warfare and disinformation campaigns &lpar;The Insider&rpar;](http://www.techmeme.com/250602/p2#a250602p2)
- - [Ever wanted a camera on your Wear OS watch? Well, it’s happening.](https://www.androidauthority.com/wear-os-watch-camera-leak-3563087/)<!-- TECH:END -->
+ - [Sources: Meta aims to help brands fully create and target ads using AI by the end of 2026, including images and budgetary goals, building on its current tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250602/p3#a250602p3)
+ - [Now Playing could get this feature that it should have had from the start &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-now-playing-tile-apk-teardown-3563095/)
+ - [28 Years Later honors digital heritage with a 20-camera iPhone rig](https://www.theverge.com/news/677914/28-years-later-iphone-20-rig-danny-boyle-camcorder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
