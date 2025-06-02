@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
- - ⏩ [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
- - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
+ - 💣 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
+ - ⏩ [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
+ - 👉 [Love this sport](http://9gag.com/gag/aD2XbgB)<!-- MEMES:END -->
 
 ---
 
