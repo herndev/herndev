@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We Have Each Other: Celebrating Pride Through Play](https://news.xbox.com/en-us/2025/06/02/xbox-pride-2025/)
- - [Clair Obscur: Expedition 33&#39;s tremendously messed-up endings aren&#39;t what I&#39;d hoped for—and I hope Sandfall keeps it that way](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-tremendously-messed-up-endings-arent-what-id-hoped-for-and-i-hope-sandfall-keeps-it-that-way/)
- - [Wednesday Season 2&#39;s First Six Minutes Shows A More Powerful Wednesday Addams](https://kotaku.com/wednesday-season-2-haley-joel-osment-lady-gaga-netflix-1851783328)<!-- GAME:END -->
+ - [Assassin&#39;s Creed: Black Flag remake is such a badly kept secret it&#39;s been leaked by a statue maker who just assumed we all knew it was coming](https://www.pcgamer.com/games/assassins-creed/assassins-creed-black-flag-remake-is-such-a-badly-kept-secret-its-been-leaked-by-a-statue-maker-who-just-assumed-we-all-knew-it-was-coming/)
+ - [Hitman Studio Finally Reveals A Bit More About Its Upcoming James Bond Game](https://kotaku.com/james-bond-007-first-light-hitman-ioi-teaser-trailer-1851783339)
+ - [IO Interactive’s Project 007 has a new name: 007 First Light](https://www.polygon.com/gaming/602818/project-007-game-new-name-007-first-light)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
