@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
- - ⏩ [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
- - 👉 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)<!-- MEMES:END -->
+ - 💣 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
+ - ⏩ [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
+ - 👉 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)<!-- MEMES:END -->
 
 ---
 
