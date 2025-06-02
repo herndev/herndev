@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the AI we need, not another bot spamming replies.](http://9gag.com/gag/aByXZKx)
- - ⏩ [I can relate](http://9gag.com/gag/apRA31E)
- - 👉 [Lego Simpsons Meme](http://9gag.com/gag/amoV1Ov)<!-- MEMES:END -->
+ - 💣 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)
+ - ⏩ [Oysters clean water in 1 hour](http://9gag.com/gag/awy414D)
+ - 👉 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)<!-- MEMES:END -->
 
 ---
 
