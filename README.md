@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas Right to Repair bill passes, heads to the governor’s desk](https://www.theverge.com/law/678334/right-to-repair-texas-hb-2963)
- - [Deal: Meater Plus smart thermometer drops to a record-low price](https://www.androidauthority.com/meater-plus-deal-3563388/)
- - [007 First Light: Here&#39;s What James Bond Might Be Up to in His Next Game, Based Mostly on My Hopes and Dreams](https://www.cnet.com/culture/entertainment/007-first-light-heres-what-james-bond-might-be-up-to-in-his-next-game-based-mostly-on-my-hopes-and-dreams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netic, which sells an AI platform that helps home services firms automate client outreach and handle calls, raised $20M from Greylock, Founders Fund, and others &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p26#a250602p26)
+ - [Robot deals: Narwal Freo X Ultra and Freo Pro drop to record-low prices!](https://www.androidauthority.com/narwal-freo-x-ultra-freo-pro-robot-vacuum-mop-deals-3563387/)
+ - [Microsoft will finally stop bugging Windows users about Edge — but only in Europe](https://www.theverge.com/news/678350/microsoft-dma-windows-10-11-bing-edge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
