@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you ?](http://9gag.com/gag/ajPKxwq)
- - ⏩ [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
+ - 💣 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
+ - ⏩ [Investing in future payouts.](http://9gag.com/gag/a0eE6YZ)
  - 👉 [That was way too close](http://9gag.com/gag/aO819Kr)<!-- MEMES:END -->
 
 ---
