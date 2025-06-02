@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)
- - ⏩ [Stonks](http://9gag.com/gag/aPAXX6B)
- - 👉 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)<!-- MEMES:END -->
+ - 💣 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
+ - ⏩ [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
+ - 👉 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)<!-- MEMES:END -->
 
 ---
 
