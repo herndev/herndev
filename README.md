@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That rock really said &#39;Final Destination&#39;.](http://9gag.com/gag/a7oNV0r)
- - ⏩ [Timmy&#39;s got other plans for Vicky](http://9gag.com/gag/aD2XVd7)
- - 👉 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)<!-- MEMES:END -->
+ - 💣 [Would you ?](http://9gag.com/gag/ajPKxwq)
+ - ⏩ [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
+ - 👉 [That&#39;s one enthusiastic high-five](http://9gag.com/gag/amoVMPV)<!-- MEMES:END -->
 
 ---
 
