@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)
- - [iPhone 16e selling well in Europe but can&#39;t beat its cheaper siblings](https://appleinsider.com/articles/25/06/02/iphone-16e-selling-well-in-europe-but-cant-beat-its-cheaper-siblings?utm_medium=rss)
- - [Pixel 10 series ringtones just leaked early, and you can download them right away](https://www.androidauthority.com/google-pixel-10-series-ringtone-download-3563153/)<!-- TECH:END -->
+ - [The Verge hires Hayden Field as senior AI reporter](https://www.theverge.com/press-room/677945/the-verge-hires-hayden-field-as-senior-ai-reporter)
+ - [Hands on with ThorBolt X1 &amp; Brilliant Gen 2, plus more smart home news on HomeKit Insider](https://appleinsider.com/articles/25/06/02/hands-on-with-thorbolt-x1-brilliant-gen-2-plus-more-smart-home-news-on-homekit-insider?utm_medium=rss)
+ - [A UK government trial with 20K+ civil servants using Microsoft&#39;s Copilot AI for three months found a 26 minute average daily time saving, or two weeks per year &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250602/p14#a250602p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
