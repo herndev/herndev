@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s another terrifying trailer for that creepy retro survival horror game that&#39;s half FMV, half pixel-art](https://www.pcgamer.com/games/horror/heres-another-terrifying-trailer-for-that-creepy-retro-survival-horror-game-thats-half-fmv-half-pixel-art/)
- - [Today&#39;s Wordle answer for Monday, June 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-2-2025/)
- - [D&amp;D podcasters 3D printed a giant model of Castle Ravenloft, from Curse of Strahd, and it&#39;s truly beautiful](https://www.pcgamer.com/games/d-and-d-podcasters-3d-printed-a-giant-model-of-castle-ravenloft-from-curse-of-strahd-and-its-truly-beautiful/)<!-- GAME:END -->
+ - [How to get salt in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-salt-location/)
+ - [Someone&#39;s already completed a solo Elden Ring Nightreign run at level 1 and, as is tradition, the power of status effects pulled through](https://www.pcgamer.com/games/rpg/someones-already-completed-a-solo-elden-ring-nightreign-run-at-level-1-and-as-is-tradition-the-power-of-status-effects-pulled-through/)
+ - [How to unlock multiplayer in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-multiplayer-unlock/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
