@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best new Android apps and games for June 2025](https://www.androidauthority.com/new-android-apps-658839/)
  - [A look at Russian GRU Unit 29155&#39;s hacking department, which started out in 2012, and its involvement in cyber warfare and disinformation campaigns &lpar;The Insider&rpar;](http://www.techmeme.com/250602/p2#a250602p2)
- - [Ever wanted a camera on your Wear OS watch? Well, it’s happening.](https://www.androidauthority.com/wear-os-watch-camera-leak-3563087/)
- - [Samsung could turn the Galaxy S26 series into Perplexity phones](https://www.androidauthority.com/samsung-perplexity-integration-galaxy-s26-3563079/)<!-- TECH:END -->
+ - [Ever wanted a camera on your Wear OS watch? Well, it’s happening.](https://www.androidauthority.com/wear-os-watch-camera-leak-3563087/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
