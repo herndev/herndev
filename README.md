@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s WWDC keynote YouTube page is now live](https://appleinsider.com/articles/25/06/02/apples-wwdc-keynote-youtube-page-is-now-live?utm_medium=rss)
- - [PayPal is killing Google Wallet integration for users in the US](https://www.androidauthority.com/paypal-killing-google-wallet-integration-3563325/)
- - [How to use an old injection trick to turn Apple Writing Tools into a chatbot](https://appleinsider.com/inside/ios-18/tips/how-to-use-an-old-injection-trick-to-turn-apple-writing-tools-into-a-chatbot?utm_medium=rss)<!-- TECH:END -->
+ - [The Sonos Ace have hit their best price to date ahead of Father’s Day](https://www.theverge.com/tech/678138/sonos-ace-headphones-arc-ultra-fathers-day-2025-deal-sale)
+ - [Pixel 10 Pro prototype surfaces with Tensor G5 details](https://www.androidauthority.com/pixel-10-pro-prototype-surfaces-3563324/)
+ - [You Can&#39;t Charge Devices in Your Carry-On Bag on Southwest Airlines Anymore. What You Need to Know](https://www.cnet.com/tech/you-cant-charge-devices-in-your-carry-on-bag-on-southwest-airlines-anymore-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
