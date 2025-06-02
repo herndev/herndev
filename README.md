@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s some ninja move](http://9gag.com/gag/apRAAGB)
- - ⏩ [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
+ - 💣 [Sentence](http://9gag.com/gag/aqyzWoP)
+ - ⏩ [Love this sport](http://9gag.com/gag/aD2XbgB)
  - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
 
 ---
