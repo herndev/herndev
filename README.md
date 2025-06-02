@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet is losing access to PayPal](https://www.theverge.com/news/678301/google-wallet-paypal-losing-access)
- - [FDA debuts agency-wide AI tool meant to help scientific reviewers and others streamline their work and, soon, to identify high-priority targets for inspections &lpar;Maya Goldman/Axios&rpar;](http://www.techmeme.com/250602/p21#a250602p21)
- - [Google Pixel 9a discounted for the first time!](https://www.androidauthority.com/google-pixel-9a-deal-2-3563389/)<!-- TECH:END -->
+ - [Texas Right to Repair bill passes, heads to the governor’s desk](https://www.theverge.com/law/678334/right-to-repair-texas-hb-2963)
+ - [Deal: Meater Plus smart thermometer drops to a record-low price](https://www.androidauthority.com/meater-plus-deal-3563388/)
+ - [007 First Light: Here&#39;s What James Bond Might Be Up to in His Next Game, Based Mostly on My Hopes and Dreams](https://www.cnet.com/culture/entertainment/007-first-light-heres-what-james-bond-might-be-up-to-in-his-next-game-based-mostly-on-my-hopes-and-dreams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
