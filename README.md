@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 reasons why I switched from Chrome to Brave](https://www.androidauthority.com/why-i-switched-from-chrome-to-brave-3561491/)
- - [The best Nintendo 3DS emulator on Android just got even better](https://www.androidauthority.com/3ds-emulator-azahar-2122-3563104/)
- - [An interview with Jony Ive and Laurene Powell Jobs on tech&#39;s next chapter, meeting in 1997, Steve Jobs, Apple, Powell Jobs&#39; io investment in 2019, AI, and more &lpar;Matthew Garrahan/Financial Times&rpar;](http://www.techmeme.com/250602/p8#a250602p8)<!-- TECH:END -->
+ - [Germany&#39;s Federal Cartel Office warns Amazon that its price controls for marketplace retailers likely violate national and EU laws, in preliminary findings &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/250602/p11#a250602p11)
+ - [Here’s a better look at Gmail’s Material 3 Expressive makeover, rolling out to some users](https://www.androidauthority.com/gmail-material-3-expressive-better-look-3563125/)
+ - [This one Spotify change made it way harder to jam out on my runs](https://www.androidauthority.com/spotify-create-tab-inconvenience-3562796/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
