@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let&#39;s Get You Some More Smithing Stones In Nightreign](https://kotaku.com/elden-ring-nightreign-find-smithing-stones-blue-purple-1851783373)
- - [PSA: Some Switch 2 Pre-Orders Are Being Canceled](https://kotaku.com/switch-2-pre-order-canceled-order-target-walmart-june-5-1851783357)
- - [PS5 shooter goes from 5 players to bestseller after devs defend game](https://www.polygon.com/news/602867/hypercharge-ps5-shooter-bestseller-devs-defend-game)<!-- GAME:END -->
+ - [Face the Horrors of the Ocean in Submersed 2: The Hive, on Xbox Today](https://news.xbox.com/en-us/2025/06/02/submersed-2-the-hive-on-xbox-today/)
+ - [Voice Of John Redcorn In King Of The Hill Killed In Shooting](https://kotaku.com/john-redcorn-actor-joss-dead-shooting-king-of-the-hill-1851783386)
+ - [Gen V Season 2 Will Build Upon The Boys&#39; Superhero Military](https://kotaku.com/gen-v-season-2-trailer-homelander-amazon-news-1851783362)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
