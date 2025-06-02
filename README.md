@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s another terrifying trailer for that creepy retro survival horror game that&#39;s half FMV, half pixel-art](https://www.pcgamer.com/games/horror/heres-another-terrifying-trailer-for-that-creepy-retro-survival-horror-game-thats-half-fmv-half-pixel-art/)
  - [Today&#39;s Wordle answer for Monday, June 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-2-2025/)
- - [D&amp;D podcasters 3D printed a giant model of Castle Ravenloft, from Curse of Strahd, and it&#39;s truly beautiful](https://www.pcgamer.com/games/d-and-d-podcasters-3d-printed-a-giant-model-of-castle-ravenloft-from-curse-of-strahd-and-its-truly-beautiful/)
- - [Five new Steam games you probably missed &lpar;June 2, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-2-2025/)<!-- GAME:END -->
+ - [D&amp;D podcasters 3D printed a giant model of Castle Ravenloft, from Curse of Strahd, and it&#39;s truly beautiful](https://www.pcgamer.com/games/d-and-d-podcasters-3d-printed-a-giant-model-of-castle-ravenloft-from-curse-of-strahd-and-its-truly-beautiful/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
