@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lethal Company&#39;s biggest update for months is finally out, and with it comes the much awaited first look at a new monster](https://www.pcgamer.com/games/horror/lethal-companys-biggest-update-for-months-is-finally-out-and-with-it-comes-the-much-awaited-first-look-at-a-new-monster/)
- - [89-year-old Skyrim Grandma starts streaming Oblivion Remastered, has to deal with its mystifying lockpicking minigame and &#39;absolutely ugly movement&#39; just like we did in 2006](https://www.pcgamer.com/games/the-elder-scrolls/89-year-old-skyrim-grandma-starts-streaming-oblivion-remastered-has-to-deal-with-its-mystifying-lockpicking-minigame-and-absolutely-ugly-movement-just-like-we-did-in-2006/)
- - [How to get salt in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-salt-location/)<!-- GAME:END -->
+ - [American RuneScape players are recreating the Boston Tea Party after Jagex hiked taxes: &#39;They took a page from the British Empire, rather poetic from a British game&#39;](https://www.pcgamer.com/games/mmo/american-old-school-runescape-players-are-recreating-the-boston-tea-party-after-jagex-hiked-taxes-they-took-a-page-from-the-british-empire-rather-poetic-from-a-british-game/)
+ - [This cult science fiction book is the only novel that really got AI right](https://www.polygon.com/ai-artificial-intelligence/602661/best-science-fiction-book-about-ai-analysis-john-varley-steel-beach)
+ - [How to Watch the Xbox Games Showcase and The Outer Worlds 2 Direct on Sunday](https://news.xbox.com/en-us/2025/06/02/xbox-games-showcase-2025-outer-worlds-2-direct-how-to-watch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
