@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you ?](http://9gag.com/gag/ajPKxwq)
- - ⏩ [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
- - 👉 [That&#39;s one enthusiastic high-five](http://9gag.com/gag/amoVMPV)<!-- MEMES:END -->
+ - 💣 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
+ - ⏩ [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
+ - 👉 [I&#39;m shocked. SHOCKED!](http://9gag.com/gag/a34WWL3)<!-- MEMES:END -->
 
 ---
 
