@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sentence](http://9gag.com/gag/aqyzWoP)
- - ⏩ [Love this sport](http://9gag.com/gag/aD2XbgB)
- - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
+ - 💣 [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)
+ - ⏩ [Stonks](http://9gag.com/gag/aPAXX6B)
+ - 👉 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)<!-- MEMES:END -->
 
 ---
 
