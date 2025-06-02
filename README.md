@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Long time user here, never posted. But yesterday i lost my best friend to cancer after 10 years together. Im on my way to have him cremated, just wanted some of you guys to see how beautiful he was. F**king hurts, i just hope he&#39;s chasing sticks somewhere.](http://9gag.com/gag/avyvdgM)
- - ⏩ [When you still have 55 mins left](http://9gag.com/gag/aAyXXXg)
- - 👉 [We need him back!](http://9gag.com/gag/axyPP7M)<!-- MEMES:END -->
+ - 💣 [That&#39;s some ninja move](http://9gag.com/gag/apRAAGB)
+ - ⏩ [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
+ - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
 
 ---
 
