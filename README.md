@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - ⏩ [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
- - 👉 [I&#39;m shocked. SHOCKED!](http://9gag.com/gag/a34WWL3)<!-- MEMES:END -->
+ - ⏩ [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
+ - 👉 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)<!-- MEMES:END -->
 
 ---
 
