@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda Devs Win Major Union Contract At Microsoft After Threatening Strike](https://kotaku.com/bethesda-devs-win-first-ever-union-contact-at-a-major-g-1851783142)
- - [Ubisoft marks 10 years of trolling Splinter Cell fans with a new tease and I can&#39;t believe I&#39;m saying this but they used the wrong picture of Sam Fisher](https://www.pcgamer.com/games/action/ubisoft-marks-10-year-of-trolling-splinter-cell-fans-with-a-new-tease-and-i-cant-believe-im-saying-this-but-they-used-the-wrong-picture-of-sam-fisher/)
- - [Path of Exile 2 director says GGG is learning from its mistakes while supporting 2 games at once: &#39;If you want to lock the date, you can&#39;t lock the features&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2-director-says-ggg-is-learning-from-its-mistakes-while-supporting-2-games-at-once-if-you-want-to-lock-the-date-you-cant-lock-the-features/)<!-- GAME:END -->
+ - [Apple is reportedly creating its own Steam-like game launcher, but it&#39;s still missing the key to making gaming on Mac great](https://www.pcgamer.com/gaming-industry/apple-is-reportedly-creating-its-own-steam-like-game-launcher-but-its-still-missing-the-key-to-making-gaming-on-mac-great/)
+ - [Elden Ring Nightreign&#39;s Wylder can not only rocket jump with his explosive ultimate, he can grappling hook combo into it to fly around like an offstage Smash Bros. character](https://www.pcgamer.com/games/action/elden-ring-nightreigns-wylder-can-not-only-rocket-jump-with-his-explosive-ultimate-he-can-grappling-hook-combo-into-it-to-fly-around-like-an-offstage-smash-bros-character/)
+ - [&#39;We wish to express our deepest regret&#39;: Bulletstorm and Outriders dev People Can Fly suspends unannounced projects in yet another wave of gaming layoffs](https://www.pcgamer.com/gaming-industry/game-development/we-wish-to-express-our-deepest-regret-bulletstorm-and-outriders-dev-people-can-fly-suspends-unannounced-projects-in-yet-another-wave-of-gaming-layoffs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
