@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get salt in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-salt-location/)
- - [Someone&#39;s already completed a solo Elden Ring Nightreign run at level 1 and, as is tradition, the power of status effects pulled through](https://www.pcgamer.com/games/rpg/someones-already-completed-a-solo-elden-ring-nightreign-run-at-level-1-and-as-is-tradition-the-power-of-status-effects-pulled-through/)
- - [How to unlock multiplayer in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-multiplayer-unlock/)<!-- GAME:END -->
+ - [Lethal Company&#39;s biggest update for months is finally out, and with it comes the much awaited first look at a new monster](https://www.pcgamer.com/games/horror/lethal-companys-biggest-update-for-months-is-finally-out-and-with-it-comes-the-much-awaited-first-look-at-a-new-monster/)
+ - [89-year-old Skyrim Grandma starts streaming Oblivion Remastered, has to deal with its mystifying lockpicking minigame and &#39;absolutely ugly movement&#39; just like we did in 2006](https://www.pcgamer.com/games/the-elder-scrolls/89-year-old-skyrim-grandma-starts-streaming-oblivion-remastered-has-to-deal-with-its-mystifying-lockpicking-minigame-and-absolutely-ugly-movement-just-like-we-did-in-2006/)
+ - [How to get salt in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-salt-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
