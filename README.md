@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
- - ⏩ [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
- - 👉 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)<!-- MEMES:END -->
+ - ⏩ [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
+ - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
 
 ---
 
