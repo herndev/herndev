@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
- - ⏩ [Would you ?](http://9gag.com/gag/ajPKxwq)
- - 👉 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)<!-- MEMES:END -->
+ - 💣 [So the median homebuyer is... perpetually 1968?](http://9gag.com/gag/a2vbyee)
+ - ⏩ [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
+ - 👉 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)<!-- MEMES:END -->
 
 ---
 
