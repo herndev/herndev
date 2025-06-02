@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This runway deep in the Amazon rainforest appeared out of nowhere, what do you think it\u2019s used for?](http://9gag.com/gag/aMVXnX6)
- - ⏩ [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
- - 👉 [Love this sport](http://9gag.com/gag/aD2XbgB)<!-- MEMES:END -->
+ - 💣 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
+ - ⏩ [Would you ?](http://9gag.com/gag/ajPKxwq)
+ - 👉 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)<!-- MEMES:END -->
 
 ---
 
