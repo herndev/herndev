@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: during closing arguments, a judge queried both sides on ideas to limit Google&#39;s monopoly in search and said he expects to issue a ruling in August &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250530/p22#a250530p22)
- - [The CDC Opposes RFK Jr.&#39;s COVID Vaccine Guidance, Saying Children &#39;May Receive&#39; Their Shots](https://www.cnet.com/health/medical/cdc-opposes-rfk-jr-covid-vaccine-guidance-children-may-receive-shots/#ftag=CAD590a51e)
- - [Young people sue Donald Trump over climate change](https://www.theverge.com/news/677537/youth-climate-change-lawsuit-trump-executive-orders)<!-- TECH:END -->
+ - [Sources: Samsung and Perplexity in talks about an investment, preloading Perplexity&#39;s app on Samsung devices, adding its search to Samsung&#39;s browser, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250601/p10#a250601p10)
+ - [9 New Movies on Netflix We Can&#39;t Wait to Watch This June](https://www.cnet.com/tech/services-and-software/9-new-movies-on-netflix-we-cant-wait-to-watch-this-june/#ftag=CAD590a51e)
+ - [10 Great Horror Movies to Watch on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/10-great-horror-movies-to-watch-on-prime-video-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
