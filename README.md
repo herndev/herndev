@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The complexity of mods we can make just shot up big time&#39;: Oblivion Remastered modders breach a new frontier even without Bethesda support—making it play nice with Lua scripts](https://www.pcgamer.com/games/the-elder-scrolls/the-complexity-of-mods-we-can-make-just-shot-up-big-time-oblivion-remastered-modders-breach-a-new-frontier-even-without-bethesda-support-making-it-play-nice-with-lua-scripts/)
- - [I can’t quit Elden Ring Nightreign — no, literally](https://www.polygon.com/elden-ring/602785/elden-ring-nightrein-quitting-matchmaking-problems)
- - [While Many Elden Ring Nightreign Players Are Getting Utterly Demolished, Some Are Already Pulling Off Incredible Stunts](https://kotaku.com/elden-ring-nightreign-solo-fulghor-heolstor-executor-1851783313)<!-- GAME:END -->
+ - [We Have Each Other: Celebrating Pride Through Play](https://news.xbox.com/en-us/2025/06/02/xbox-pride-2025/)
+ - [Clair Obscur: Expedition 33&#39;s tremendously messed-up endings aren&#39;t what I&#39;d hoped for—and I hope Sandfall keeps it that way](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-tremendously-messed-up-endings-arent-what-id-hoped-for-and-i-hope-sandfall-keeps-it-that-way/)
+ - [Wednesday Season 2&#39;s First Six Minutes Shows A More Powerful Wednesday Addams](https://kotaku.com/wednesday-season-2-haley-joel-osment-lady-gaga-netflix-1851783328)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
