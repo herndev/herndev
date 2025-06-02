@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Some Great Batman Games Are Super Cheap Right Now On Steam](https://kotaku.com/batman-dc-arkham-city-sale-steam-suicide-squad-watchman-1851783394)
- - [Every Big Summer Gaming Showcase Happening This Week And How To Watch](https://kotaku.com/summer-game-fest-2025-nintendo-direct-playstation-1851783402)
- - [Trial begins in France this week for 3 former Ubisoft executives facing accusations of &#39;moral and sexual harassment&#39;](https://www.pcgamer.com/gaming-industry/trial-begins-in-france-this-week-for-3-former-ubisoft-executives-facing-accusations-of-moral-and-sexual-harassment/)<!-- GAME:END -->
+ - [Jonathan Joss, who appeared in Cyberpunk 2077 and Red Dead Redemption, shot dead in Texas](https://www.pcgamer.com/games/jonathan-joss-who-appeared-in-cyberpunk-2077-and-red-dead-redemption-shot-dead-in-texas/)
+ - [Recluse Remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602968/recluse-remembrance-walkthrough-steps-rewards)
+ - [Singleplayer Elden Ring Nightreign is no longer hell to play, but it&#39;s still a compromised game of 30-minute boss runbacks](https://www.pcgamer.com/games/action/singleplayer-elden-ring-nightreign-is-no-longer-hell-to-play-but-its-still-a-compromised-game-of-30-minute-boss-runbacks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
