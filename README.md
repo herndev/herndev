@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge hires Hayden Field as senior AI reporter](https://www.theverge.com/press-room/677945/the-verge-hires-hayden-field-as-senior-ai-reporter)
- - [Hands on with ThorBolt X1 &amp; Brilliant Gen 2, plus more smart home news on HomeKit Insider](https://appleinsider.com/articles/25/06/02/hands-on-with-thorbolt-x1-brilliant-gen-2-plus-more-smart-home-news-on-homekit-insider?utm_medium=rss)
- - [A UK government trial with 20K+ civil servants using Microsoft&#39;s Copilot AI for three months found a 26 minute average daily time saving, or two weeks per year &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250602/p14#a250602p14)<!-- TECH:END -->
+ - [Panasonic’s 65-inch OLED TV is a great Father’s Day deal at $997](https://www.theverge.com/tech/677961/panasonic-oled-tv-4k-blu-ray-ps5-anker-battery-deal-sale)
+ - [People Can Fly cancels two projects and will lay off workers](https://www.theverge.com/news/678017/people-can-fly-cancelled-projects-square-enix)
+ - [T-Mobile is giving away Slurpees, burgers, wings, and a $90K prize for its 9th birthday bash](https://www.androidauthority.com/t-mobile-tuesday-nine-year-thankiversary-celebration-3563187/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
