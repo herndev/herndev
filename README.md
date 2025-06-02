@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta aims to help brands fully create and target ads using AI by the end of 2026, including images and budgetary goals, building on its current tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250602/p3#a250602p3)
- - [Now Playing could get this feature that it should have had from the start &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-now-playing-tile-apk-teardown-3563095/)
- - [28 Years Later honors digital heritage with a 20-camera iPhone rig](https://www.theverge.com/news/677914/28-years-later-iphone-20-rig-danny-boyle-camcorder)<!-- TECH:END -->
+ - [5 reasons why I switched from Chrome to Brave](https://www.androidauthority.com/why-i-switched-from-chrome-to-brave-3561491/)
+ - [The best Nintendo 3DS emulator on Android just got even better](https://www.androidauthority.com/3ds-emulator-azahar-2122-3563104/)
+ - [An interview with Jony Ive and Laurene Powell Jobs on tech&#39;s next chapter, meeting in 1997, Steve Jobs, Apple, Powell Jobs&#39; io investment in 2019, AI, and more &lpar;Matthew Garrahan/Financial Times&rpar;](http://www.techmeme.com/250602/p8#a250602p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
