@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best Nightlords bosses order in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603005/best-nightlords-order-boss-list-all)
  - [Jonathan Joss, who appeared in Cyberpunk 2077 and Red Dead Redemption, shot dead in Texas](https://www.pcgamer.com/games/jonathan-joss-who-appeared-in-cyberpunk-2077-and-red-dead-redemption-shot-dead-in-texas/)
- - [Recluse Remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602968/recluse-remembrance-walkthrough-steps-rewards)
- - [Singleplayer Elden Ring Nightreign is no longer hell to play, but it&#39;s still a compromised game of 30-minute boss runbacks](https://www.pcgamer.com/games/action/singleplayer-elden-ring-nightreign-is-no-longer-hell-to-play-but-its-still-a-compromised-game-of-30-minute-boss-runbacks/)<!-- GAME:END -->
+ - [Recluse Remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602968/recluse-remembrance-walkthrough-steps-rewards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
