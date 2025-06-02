@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neuralink raised a $650M Series E from ARK Invest, Founders Fund, G42, Human Capital, Sequoia, Thrive, and others; it was reportedly valued at ~$9B pre-money &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250602/p18#a250602p18)
- - [Best Internet Providers in Columbia, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-columbia-sc/#ftag=CAD590a51e)
- - [Classic &#39;Doom&#39; now playable on Apple Network Server](https://appleinsider.com/articles/25/06/02/classic-doom-now-playable-on-apple-network-server?utm_medium=rss)<!-- TECH:END -->
+ - [Google Wallet is losing access to PayPal](https://www.theverge.com/news/678301/google-wallet-paypal-losing-access)
+ - [FDA debuts agency-wide AI tool meant to help scientific reviewers and others streamline their work and, soon, to identify high-priority targets for inspections &lpar;Maya Goldman/Axios&rpar;](http://www.techmeme.com/250602/p21#a250602p21)
+ - [Google Pixel 9a discounted for the first time!](https://www.androidauthority.com/google-pixel-9a-deal-2-3563389/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
