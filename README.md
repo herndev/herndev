@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Jedi director is now working on a D&amp;#038;D video game](https://www.polygon.com/dnd-dungeons-dragons/602732/dnd-video-game-star-wars-jedi-director-giant-skull)
- - [Elden Ring&#39;s first major patch sees FromSoft belatedly admit singleplayer is all sorts of unfair, adds an auto-resurrect and buffs the levelling curve](https://www.pcgamer.com/games/rpg/elden-rings-first-major-patch-sees-fromsoft-belatedly-admit-singleplayer-is-all-sorts-of-unfair-adds-an-auto-resurrect-and-buffs-the-levelling-curve/)
- - [Pokémon Cafes To Serve Incredible-Looking Plate Of Food That Can Mega Evolve Before Your Eyes](https://kotaku.com/pokemon-cafe-charizard-curry-mega-ampharos-ar-app-1851783296)<!-- GAME:END -->
+ - [&#39;The complexity of mods we can make just shot up big time&#39;: Oblivion Remastered modders breach a new frontier even without Bethesda support—making it play nice with Lua scripts](https://www.pcgamer.com/games/the-elder-scrolls/the-complexity-of-mods-we-can-make-just-shot-up-big-time-oblivion-remastered-modders-breach-a-new-frontier-even-without-bethesda-support-making-it-play-nice-with-lua-scripts/)
+ - [I can’t quit Elden Ring Nightreign — no, literally](https://www.polygon.com/elden-ring/602785/elden-ring-nightrein-quitting-matchmaking-problems)
+ - [While Many Elden Ring Nightreign Players Are Getting Utterly Demolished, Some Are Already Pulling Off Incredible Stunts](https://kotaku.com/elden-ring-nightreign-solo-fulghor-heolstor-executor-1851783313)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
