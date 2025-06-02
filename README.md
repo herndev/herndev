@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So the median homebuyer is... perpetually 1968?](http://9gag.com/gag/a2vbyee)
- - ⏩ [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
+ - 💣 [That rock really said &#39;Final Destination&#39;.](http://9gag.com/gag/a7oNV0r)
+ - ⏩ [Timmy&#39;s got other plans for Vicky](http://9gag.com/gag/aD2XVd7)
  - 👉 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)<!-- MEMES:END -->
 
 ---
