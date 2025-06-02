@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Panasonic’s 65-inch OLED TV is a great Father’s Day deal at $997](https://www.theverge.com/tech/677961/panasonic-oled-tv-4k-blu-ray-ps5-anker-battery-deal-sale)
- - [People Can Fly cancels two projects and will lay off workers](https://www.theverge.com/news/678017/people-can-fly-cancelled-projects-square-enix)
- - [T-Mobile is giving away Slurpees, burgers, wings, and a $90K prize for its 9th birthday bash](https://www.androidauthority.com/t-mobile-tuesday-nine-year-thankiversary-celebration-3563187/)<!-- TECH:END -->
+ - [X aims to roll out an &quot;XChat&quot; messaging feature &quot;with encryption, vanishing messages and the ability to send any kind of file&quot; to all users this week &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250602/p15#a250602p15)
+ - [Nothing Phone 3 pricing leaks, and it’s not as expensive as we feared](https://www.androidauthority.com/nothing-phone-3-price-3563231/)
+ - [YouTube is gamifying livestream engagement with this new test](https://www.androidauthority.com/youtube-livestream-leaderboard-3563171/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
