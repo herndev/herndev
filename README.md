@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune: Awakening will have private servers at launch where players can disable taxes and enable &#39;free for all&#39; PvP](https://www.pcgamer.com/games/survival-crafting/dune-awakening-will-have-private-servers-at-launch-where-players-can-disable-taxes-and-enable-free-for-all-pvp/)
- - [Elden Ring Nightreign: A Beginner&#39;s Guide To Mastering Ironeye](https://kotaku.com/elden-ring-nightreign-iron-eye-single-shot-mark-ranged-1851783356)
- - [How DOOM: The Bark Ages Supports Animal Welfare Organizations](https://news.microsoft.com/source/shortform/doom-the-bark-ages-bethesda-id-xbox-pets/#new_tab)<!-- GAME:END -->
+ - [Let&#39;s Get You Some More Smithing Stones In Nightreign](https://kotaku.com/elden-ring-nightreign-find-smithing-stones-blue-purple-1851783373)
+ - [PSA: Some Switch 2 Pre-Orders Are Being Canceled](https://kotaku.com/switch-2-pre-order-canceled-order-target-walmart-june-5-1851783357)
+ - [PS5 shooter goes from 5 players to bestseller after devs defend game](https://www.polygon.com/news/602867/hypercharge-ps5-shooter-bestseller-devs-defend-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
