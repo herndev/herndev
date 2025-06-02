@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)
- - ⏩ [Oysters clean water in 1 hour](http://9gag.com/gag/awy414D)
- - 👉 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)<!-- MEMES:END -->
+ - 💣 [Investing in future payouts.](http://9gag.com/gag/a0eE6YZ)
+ - ⏩ [You guys might have been right after all..](http://9gag.com/gag/aVv2Kyw)
+ - 👉 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)<!-- MEMES:END -->
 
 ---
 
