@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
- - ⏩ [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
- - 👉 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)<!-- MEMES:END -->
+ - 💣 [This runway deep in the Amazon rainforest appeared out of nowhere, what do you think it\u2019s used for?](http://9gag.com/gag/aMVXnX6)
+ - ⏩ [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
+ - 👉 [Love this sport](http://9gag.com/gag/aD2XbgB)<!-- MEMES:END -->
 
 ---
 
