@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could turn the Galaxy S26 series into Perplexity phones](https://www.androidauthority.com/samsung-perplexity-integration-galaxy-s26-3563079/)
- - [A deep dive into Apple TV&#39;s privacy features shows that Apple&#39;s streaming device is more private than the vast majority of alternatives, save for dumb TVs &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250602/p1#a250602p1)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, June 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Russian GRU Unit 29155&#39;s hacking department, which started out in 2012, and its involvement in cyber warfare and disinformation campaigns &lpar;The Insider&rpar;](http://www.techmeme.com/250602/p2#a250602p2)
+ - [Ever wanted a camera on your Wear OS watch? Well, it’s happening.](https://www.androidauthority.com/wear-os-watch-camera-leak-3563087/)
+ - [Samsung could turn the Galaxy S26 series into Perplexity phones](https://www.androidauthority.com/samsung-perplexity-integration-galaxy-s26-3563079/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
