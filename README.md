@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X aims to roll out an &quot;XChat&quot; messaging feature &quot;with encryption, vanishing messages and the ability to send any kind of file&quot; to all users this week &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250602/p15#a250602p15)
- - [Nothing Phone 3 pricing leaks, and it’s not as expensive as we feared](https://www.androidauthority.com/nothing-phone-3-price-3563231/)
- - [YouTube is gamifying livestream engagement with this new test](https://www.androidauthority.com/youtube-livestream-leaderboard-3563171/)<!-- TECH:END -->
+ - [How to use an old injection trick to turn Apple Writing Tools into a chatbot](https://appleinsider.com/inside/ios-18/tips/how-to-use-an-old-injection-trick-to-turn-apple-writing-tools-into-a-chatbot?utm_medium=rss)
+ - [Gen V returns to Amazon for season 2 this September](https://www.theverge.com/news/678130/gen-v-season-2-premiere-date-september-17)
+ - [Google’s Pixel 10 phones will reportedly launch on August 13th](https://www.theverge.com/news/678088/google-pixel-10-release-date-launch-august)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
