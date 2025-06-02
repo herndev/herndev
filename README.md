@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany&#39;s Federal Cartel Office warns Amazon that its price controls for marketplace retailers likely violate national and EU laws, in preliminary findings &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/250602/p11#a250602p11)
- - [Here’s a better look at Gmail’s Material 3 Expressive makeover, rolling out to some users](https://www.androidauthority.com/gmail-material-3-expressive-better-look-3563125/)
- - [This one Spotify change made it way harder to jam out on my runs](https://www.androidauthority.com/spotify-create-tab-inconvenience-3562796/)<!-- TECH:END -->
+ - [14 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)
+ - [iPhone 16e selling well in Europe but can&#39;t beat its cheaper siblings](https://appleinsider.com/articles/25/06/02/iphone-16e-selling-well-in-europe-but-cant-beat-its-cheaper-siblings?utm_medium=rss)
+ - [Pixel 10 series ringtones just leaked early, and you can download them right away](https://www.androidauthority.com/google-pixel-10-series-ringtone-download-3563153/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
