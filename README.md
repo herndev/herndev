@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [American RuneScape players are recreating the Boston Tea Party after Jagex hiked taxes: &#39;They took a page from the British Empire, rather poetic from a British game&#39;](https://www.pcgamer.com/games/mmo/american-old-school-runescape-players-are-recreating-the-boston-tea-party-after-jagex-hiked-taxes-they-took-a-page-from-the-british-empire-rather-poetic-from-a-british-game/)
- - [This cult science fiction book is the only novel that really got AI right](https://www.polygon.com/ai-artificial-intelligence/602661/best-science-fiction-book-about-ai-analysis-john-varley-steel-beach)
- - [How to Watch the Xbox Games Showcase and The Outer Worlds 2 Direct on Sunday](https://news.xbox.com/en-us/2025/06/02/xbox-games-showcase-2025-outer-worlds-2-direct-how-to-watch/)<!-- GAME:END -->
+ - [Star Wars Jedi director is now working on a D&amp;#038;D video game](https://www.polygon.com/dnd-dungeons-dragons/602732/dnd-video-game-star-wars-jedi-director-giant-skull)
+ - [Elden Ring&#39;s first major patch sees FromSoft belatedly admit singleplayer is all sorts of unfair, adds an auto-resurrect and buffs the levelling curve](https://www.pcgamer.com/games/rpg/elden-rings-first-major-patch-sees-fromsoft-belatedly-admit-singleplayer-is-all-sorts-of-unfair-adds-an-auto-resurrect-and-buffs-the-levelling-curve/)
+ - [Pokémon Cafes To Serve Incredible-Looking Plate Of Food That Can Mega Evolve Before Your Eyes](https://kotaku.com/pokemon-cafe-charizard-curry-mega-ampharos-ar-app-1851783296)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
