@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)
- - ⏩ [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
- - 👉 [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)<!-- MEMES:END -->
+ - 💣 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
+ - ⏩ [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
+ - 👉 [The real work behind your tequila shot](http://9gag.com/gag/aXP2Wxz)<!-- MEMES:END -->
 
 ---
 
