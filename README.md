@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unreal&#39;s MetaHuman Animator can generate surprisingly lifelike animation with just your phone and it&#39;s now integrated directly into Unreal Engine 5.6](https://www.pcgamer.com/hardware/unreals-metahuman-animator-can-generate-surprisingly-lifelike-animation-with-just-your-phone-and-its-now-integrated-directly-into-unreal-engine-5-6/)
- - [The &#39;main goal&#39; for Epic Games&#39; new Unreal 5.6 engine is more performance on the PS5 and that should be good news for gaming on affordable PC hardware](https://www.pcgamer.com/hardware/the-main-goal-for-epic-games-new-unreal-5-6-engine-is-more-performance-on-the-ps5-and-that-should-be-good-news-for-gaming-on-affordable-pc-hardware/)
- - [Penguins confront Lovecraftian cosmic horror in the next game from the developers of Umurangi Generation](https://www.pcgamer.com/games/adventure/penguins-confront-lovecraftian-cosmic-horror-in-the-next-game-from-the-developers-of-umurangi-generation/)<!-- GAME:END -->
+ - [Check Out the Adidas x Minecraft Collab](https://www.minecraft.net/article/adidas-x-minecraft#new_tab)
+ - [Elden Ring Nightreign Night Aspect boss guide: How to beat Heolstor the Nightlord](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-heolstor-boss-guide-night-aspect/)
+ - [Elden Ring: Nightreign bucks the extraction trend, but it would have been a better game if it hadn&#39;t](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-bucks-the-extraction-trend-but-it-would-have-been-a-better-game-if-it-hadnt/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
