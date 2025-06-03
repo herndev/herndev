@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch the PC Gaming Show 2025](https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-2025/)
- - [Elden Ring fans find Nightreign item secret so good it sounds like a glitch](https://www.polygon.com/guides/603152/elden-ring-bolus-effects-stack-secret)
- - [Witcher 4 shown running on PS5 in stunning new demo footage](https://www.polygon.com/the-witcher/603127/the-witcher-4-new-demo-ps5-state-of-unreal)<!-- GAME:END -->
+ - [Unreal&#39;s MetaHuman Animator can generate surprisingly lifelike animation with just your phone and it&#39;s now integrated directly into Unreal Engine 5.6](https://www.pcgamer.com/hardware/unreals-metahuman-animator-can-generate-surprisingly-lifelike-animation-with-just-your-phone-and-its-now-integrated-directly-into-unreal-engine-5-6/)
+ - [The &#39;main goal&#39; for Epic Games&#39; new Unreal 5.6 engine is more performance on the PS5 and that should be good news for gaming on affordable PC hardware](https://www.pcgamer.com/hardware/the-main-goal-for-epic-games-new-unreal-5-6-engine-is-more-performance-on-the-ps5-and-that-should-be-good-news-for-gaming-on-affordable-pc-hardware/)
+ - [Penguins confront Lovecraftian cosmic horror in the next game from the developers of Umurangi Generation](https://www.pcgamer.com/games/adventure/penguins-confront-lovecraftian-cosmic-horror-in-the-next-game-from-the-developers-of-umurangi-generation/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
