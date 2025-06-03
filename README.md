@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Torchlight 3 studio Echtra Games, acquired by Zynga in 2021 to help it move into PC and console gaming, is being closed without doing that](https://www.pcgamer.com/gaming-industry/torchlight-3-studio-echtra-games-acquired-by-zynga-in-2021-to-help-it-move-into-pc-and-console-gaming-is-being-closed-without-doing-that/)
  - [Best Nightlords bosses order in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603005/best-nightlords-order-boss-list-all)
- - [Jonathan Joss, who appeared in Cyberpunk 2077 and Red Dead Redemption, shot dead in Texas](https://www.pcgamer.com/games/jonathan-joss-who-appeared-in-cyberpunk-2077-and-red-dead-redemption-shot-dead-in-texas/)
- - [Recluse Remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602968/recluse-remembrance-walkthrough-steps-rewards)<!-- GAME:END -->
+ - [Jonathan Joss, who appeared in Cyberpunk 2077 and Red Dead Redemption, shot dead in Texas](https://www.pcgamer.com/games/jonathan-joss-who-appeared-in-cyberpunk-2077-and-red-dead-redemption-shot-dead-in-texas/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
