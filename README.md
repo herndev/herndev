@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jajaja! Microsoft finally gives up pestering EU users about goddamn Edge](https://www.pcgamer.com/gaming-industry/jajaja-microsoft-finally-gives-up-pestering-eu-users-about-goddamn-edge/)
- - [FF14 unofficial census finds what we were all pretty much feeling—before patch 7.25, Dawntrail&#39;s playerbase has likely been on the decline](https://www.pcgamer.com/games/final-fantasy/ff14-unofficial-census-finds-what-we-were-all-pretty-much-feeling-before-patch-7-25-dawntrails-playerbase-has-likely-been-on-the-decline/)
- - [Elden Ring Nightreign is finally getting Duo Expeditions as FromSoftware caves into pleas from players who can only find one other friend to match with](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-is-finally-getting-duo-expeditions-as-fromsoftware-caves-into-pleas-from-players-who-can-only-find-one-other-friend-to-match-with/)<!-- GAME:END -->
+ - [Nintendo Appears To Be Shipping Stores &#39;Out Of Stock&#39; Signs For Switch 2](https://kotaku.com/nintendo-switch-2-out-of-stock-pre-orders-launch-1851783435)
+ - [State of Play returns June 4](https://blog.playstation.com/2025/06/03/state-of-play-returns-june-4/)
+ - [Elden Ring Nightreign Augur boss guide: How to beat Maris](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-maris-boss-guide-augur/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
