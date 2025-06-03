@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Appears To Be Shipping Stores &#39;Out Of Stock&#39; Signs For Switch 2](https://kotaku.com/nintendo-switch-2-out-of-stock-pre-orders-launch-1851783435)
- - [State of Play returns June 4](https://blog.playstation.com/2025/06/03/state-of-play-returns-june-4/)
- - [Elden Ring Nightreign Augur boss guide: How to beat Maris](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-maris-boss-guide-augur/)<!-- GAME:END -->
+ - [Nintendo Switch 2 Welcome Tour pulls off at least one neat magic trick](https://www.polygon.com/nintendo-switch-2/603061/welcome-tour-preview-hands-on)
+ - [Nintendo’s GameChat isn’t revolutionary, but it’s a smart addition to Switch 2](https://www.polygon.com/nintendo-switch-2/603080/nintendo-switch-2-gamechat-smart-addition)
+ - [Sony Reveals Last-Minute PlayStation Showcase Ahead Of Summer Game Fest](https://kotaku.com/playstation-ps5-summer-showcase-state-play-wolverine-1851783458)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
