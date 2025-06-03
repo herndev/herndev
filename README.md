@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
- - [Indeed says CEO Chris Hyams is stepping down, replaced by parent Recruit Holdings CEO Hisayuki &quot;Deko&quot; Idekoba, who is returning to the role after six years &lpar;Chester Dawson/Bloomberg&rpar;](http://www.techmeme.com/250603/p13#a250603p13)
- - [This new Xperia Play-like sliding handheld can emulate PS2, Gamecube, and more](https://www.androidauthority.com/anbernic-rg-slide-performance-3563611/)<!-- TECH:END -->
+ - [Huawei Pura X review: the ~$1,050, China-only clamshell is Huawei&#39;s first flagship running HarmonyOS 5, with novel ergonomics and an incomplete app ecosystem &lpar;Bloomberg&rpar;](http://www.techmeme.com/250603/p17#a250603p17)
+ - [Nvidia&amp;#8217;s app now has a light mode if you want to be flash banged](https://www.theverge.com/news/678510/nvidia-app-windows-light-mode-features)
+ - [Aventon Level 3 Review: A Fantastic First Electric Bike](https://www.wired.com/review/aventon-level-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
