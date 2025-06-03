@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei Pura X review: the ~$1,050, China-only clamshell is Huawei&#39;s first flagship running HarmonyOS 5, with novel ergonomics and an incomplete app ecosystem &lpar;Bloomberg&rpar;](http://www.techmeme.com/250603/p17#a250603p17)
- - [Nvidia&amp;#8217;s app now has a light mode if you want to be flash banged](https://www.theverge.com/news/678510/nvidia-app-windows-light-mode-features)
- - [Aventon Level 3 Review: A Fantastic First Electric Bike](https://www.wired.com/review/aventon-level-3/)<!-- TECH:END -->
+ - [Mario Kart World’s designers had to rethink everything to make it open world](https://www.theverge.com/interview/678097/mario-kart-world-nintendo-switch-2-interview-kosuke-yabuki)
+ - [How to watch WWDC 2025 on iPhone, Mac, Apple TV &amp; web](https://appleinsider.com/inside/wwdc/tips/how-to-watch-wwdc-2025-on-iphone-mac-apple-tv-web?utm_medium=rss)
+ - [Apple TV+ &#39;Slow Horses&#39; season 5 will start soon](https://appleinsider.com/articles/25/06/03/apple-tv-slow-horses-season-5-will-start-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
