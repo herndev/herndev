@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)
  - ⏩ [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
- - 👉 [When the beef is so serious you gotta call the President.](http://9gag.com/gag/awy4Y9r)<!-- MEMES:END -->
+ - 👉 [A little bookmark fun](http://9gag.com/gag/aKGYO0j)<!-- MEMES:END -->
 
 ---
 
