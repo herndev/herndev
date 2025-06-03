@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More likely to be released?](http://9gag.com/gag/aByXE6A)
- - ⏩ [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)
- - 👉 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)<!-- MEMES:END -->
+ - 💣 [When your masseuse takes the &#39;deep tissue&#39; request seriously.](http://9gag.com/gag/a1mLVO8)
+ - ⏩ [Sentence](http://9gag.com/gag/aqyzWoP)
+ - 👉 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)<!-- MEMES:END -->
 
 ---
 
