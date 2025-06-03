@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany&#39;s data protection commission fines Vodafone a record €45M due to data privacy violations linked to malicious behavior by third-party sales agents &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/250603/p9#a250603p9)
- - [Bing lets you use OpenAI’s Sora video generator for free](https://www.theverge.com/news/678446/microsoft-bing-video-creator-openai-sora-ai-generator)
- - [I created a Samsung Routine to fix the Google Play Store’s biggest failure](https://www.androidauthority.com/samsung-routine-update-play-store-apps-3561947/)<!-- TECH:END -->
+ - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
+ - [Indeed says CEO Chris Hyams is stepping down, replaced by parent Recruit Holdings CEO Hisayuki &quot;Deko&quot; Idekoba, who is returning to the role after six years &lpar;Chester Dawson/Bloomberg&rpar;](http://www.techmeme.com/250603/p13#a250603p13)
+ - [This new Xperia Play-like sliding handheld can emulate PS2, Gamecube, and more](https://www.androidauthority.com/anbernic-rg-slide-performance-3563611/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
