@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
- - ⏩ [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)
- - 👉 [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)<!-- MEMES:END -->
+ - 💣 [More likely to be released?](http://9gag.com/gag/aByXE6A)
+ - ⏩ [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)
+ - 👉 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)<!-- MEMES:END -->
 
 ---
 
