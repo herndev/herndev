@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Heh wife material](http://9gag.com/gag/aQz2y3e)
+ - 💣 [Sentence](http://9gag.com/gag/aqyzWoP)
  - ⏩ [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - 👉 [Waiting for the little sister to spill the tea...](http://9gag.com/gag/aGy2OxX)<!-- MEMES:END -->
+ - 👉 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)<!-- MEMES:END -->
 
 ---
 
