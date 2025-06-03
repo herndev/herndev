@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 16 QPR1 will suggest photo wallpapers of your loved ones from Google Photos](https://www.androidauthority.com/google-pixel-android-16-qpr1-google-photos-curated-wallpaper-3563545/)
  - [A look at Walmart&#39;s use of automation to grow sales without adding staff, as analysts say its efforts raise questions about the future of US retail labor &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/250603/p4#a250603p4)
- - [YouTube confirms Android app bug affecting navigation bar](https://www.androidauthority.com/youtube-app-navigation-bar-bug-3563549/)
- - [The Galaxy Z Fold 7 might skip Qi 2’s best feature, and that’s a shame](https://www.androidauthority.com/samsung-galaxy-z-fold-7-qi-2-3563524/)<!-- TECH:END -->
+ - [YouTube confirms Android app bug affecting navigation bar](https://www.androidauthority.com/youtube-app-navigation-bar-bug-3563549/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
