@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, June 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-3-2025/)
  - [Torchlight 3 studio Echtra Games, acquired by Zynga in 2021 to help it move into PC and console gaming, is being closed without doing that](https://www.pcgamer.com/gaming-industry/torchlight-3-studio-echtra-games-acquired-by-zynga-in-2021-to-help-it-move-into-pc-and-console-gaming-is-being-closed-without-doing-that/)
- - [Best Nightlords bosses order in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603005/best-nightlords-order-boss-list-all)
- - [Jonathan Joss, who appeared in Cyberpunk 2077 and Red Dead Redemption, shot dead in Texas](https://www.pcgamer.com/games/jonathan-joss-who-appeared-in-cyberpunk-2077-and-red-dead-redemption-shot-dead-in-texas/)<!-- GAME:END -->
+ - [Best Nightlords bosses order in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603005/best-nightlords-order-boss-list-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
