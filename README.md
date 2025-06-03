@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Not a T-Mobile subscriber? You can still try its satellite beta right now](https://www.androidauthority.com/t-mobile-satellite-beta-unlocked-phones-3563505/)
- - [CEO C.C. Wei says TSMC expects record profit in 2025 despite geopolitical, tariff, and FX risks, and confirms it&#39;s not building a fab in the Middle East &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250603/p3#a250603p3)
- - [Best Internet Providers in Louisville, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-louisville-ky/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Walmart&#39;s use of automation to grow sales without adding staff, as analysts say its efforts raise questions about the future of US retail labor &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/250603/p4#a250603p4)
+ - [YouTube confirms Android app bug affecting navigation bar](https://www.androidauthority.com/youtube-app-navigation-bar-bug-3563549/)
+ - [The Galaxy Z Fold 7 might skip Qi 2’s best feature, and that’s a shame](https://www.androidauthority.com/samsung-galaxy-z-fold-7-qi-2-3563524/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
