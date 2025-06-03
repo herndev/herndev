@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can’t change Activity Zones on your Nest Cam? Google’s working on a fix](https://www.androidauthority.com/nest-cam-activity-zone-glitch-3563842/)
- - [Forget the gimbal: Pixel 10 leak hints that you won’t have to worry about shaky video](https://www.androidauthority.com/pixel-10-image-stabilization-upgrade-3563829/)
- - [The Witcher 4 tech demo ran on a base PS5 to ‘show how much we can optimize’](https://www.theverge.com/games/678895/the-witcher-4-ue5-tech-demo-ps5-interview)<!-- TECH:END -->
+ - [CrowdStrike reports Q1 revenue up 20% YoY to $1.1B, in line with est., forecasts Q2 revenue below est., approves a $1B share buyback; CRWD drops 6%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/250603/p34#a250603p34)
+ - [HPE reports Q2 revenue up 6% YoY to $7.63B, vs. $7.46B est., Server revenue up 6% YoY to $4.1B, and says it expects a reduced impact from tariffs this year &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250603/p33#a250603p33)
+ - [Anker’s new outdoor wireless speaker vibrates to shake off dust and sand](https://www.theverge.com/news/678980/anker-soundcore-boom-3i-rugged-outdoor-bluetooth-waterproof-speaker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
