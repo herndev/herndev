@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)
- - ⏩ [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
- - 👉 [A little bookmark fun](http://9gag.com/gag/aKGYO0j)<!-- MEMES:END -->
+ - 💣 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
+ - ⏩ [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)
+ - 👉 [Yeeeeeeah...](http://9gag.com/gag/aoy88y3)<!-- MEMES:END -->
 
 ---
 
