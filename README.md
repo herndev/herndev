@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retroid fans are losing their minds over potential dual-screened handheld teaser](https://www.androidauthority.com/retroid-dual-screen-handheld-3563713/)
- - [The Polestar 4 now comes from South Korea instead of China](https://www.theverge.com/news/678655/polestar-4-2026-south-korea-manufacture-china)
- - [iFixit is retroactively giving the Nintendo Switch a 4/10 on repairability](https://www.theverge.com/news/678622/ifixit-nerfs-nintendo-switch-repair-score-battery-drift)<!-- TECH:END -->
+ - [What colors will the Galaxy Z Flip 7, Flip 7 FE, and Fold 7 come in? This leak may have the answer](https://www.androidauthority.com/samsung-galaxy-foldables-leaked-colors-3563744/)
+ - [Nintendo says it didn&#39;t send any Switch 2 review units to outlets as &quot;important features and updates&quot; will only be available via an update on its June 5 launch &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/250603/p26#a250603p26)
+ - [Android 16 QPR1 may stop HDR ‘flashbangs’ with enhanced brightness controls](https://www.androidauthority.com/android-16-qpr1-enhanced-hdr-brightness-setting-3563653/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
