@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch 2 Welcome Tour pulls off at least one neat magic trick](https://www.polygon.com/nintendo-switch-2/603061/welcome-tour-preview-hands-on)
- - [Nintendo’s GameChat isn’t revolutionary, but it’s a smart addition to Switch 2](https://www.polygon.com/nintendo-switch-2/603080/nintendo-switch-2-gamechat-smart-addition)
- - [Sony Reveals Last-Minute PlayStation Showcase Ahead Of Summer Game Fest](https://kotaku.com/playstation-ps5-summer-showcase-state-play-wolverine-1851783458)<!-- GAME:END -->
+ - [How to watch the PC Gaming Show 2025](https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-2025/)
+ - [Elden Ring fans find Nightreign item secret so good it sounds like a glitch](https://www.polygon.com/guides/603152/elden-ring-bolus-effects-stack-secret)
+ - [Witcher 4 shown running on PS5 in stunning new demo footage](https://www.polygon.com/the-witcher/603127/the-witcher-4-new-demo-ps5-state-of-unreal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
