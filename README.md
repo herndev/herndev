@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My face exactly](http://9gag.com/gag/a2vb2Qp)
- - ⏩ [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - 👉 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)<!-- MEMES:END -->
+ - 💣 [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)
+ - ⏩ [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
+ - 👉 [When the beef is so serious you gotta call the President.](http://9gag.com/gag/awy4Y9r)<!-- MEMES:END -->
 
 ---
 
