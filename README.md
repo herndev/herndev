@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Section 13 Brings Twin-stick Action, Co-Op Chaos, and Roguelite Replayability](https://news.xbox.com/en-us/2025/06/03/section-13-twin-stick-co-op-roguelite-replayability/)
- - [Tiny Bookshop made me miss being a bookseller](https://www.polygon.com/impressions/602985/tiny-bookshop-cozy-game)
- - [Here’s how Street Fighter 2 figures into 2025’s weirdest action-comedy](https://www.polygon.com/movies/603045/street-fighter-2-escape-from-the-21st-century-clip)<!-- GAME:END -->
+ - [Here&#39;s when Dune: Awakening pre-loads and unlocks in your time zone](https://www.pcgamer.com/games/survival-crafting/dune-awakening-preload-time-release-date/)
+ - [Three new horror games I can’t wait to get my sweaty palms on](https://www.polygon.com/gaming/603303/horror-game-awards-showcase-best-trailers-games)
+ - [Where The Biplane Stunt Ranks Among The Most Impossible Mission: Impossible Stunts Of All Time](https://kotaku.com/mission-impossible-final-reckoning-tom-cruise-stunts-1851780902)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
