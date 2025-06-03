@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - ⏩ [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)
- - 👉 [Yeeeeeeah...](http://9gag.com/gag/aoy88y3)<!-- MEMES:END -->
+ - 💣 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
+ - ⏩ [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)
+ - 👉 [Just kidding... Its sports](http://9gag.com/gag/ae9222p)<!-- MEMES:END -->
 
 ---
 
