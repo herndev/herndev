@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dublin-based cross-border payment startup NomuPay raised a $40M Series C at a $290M valuation, following a $37M Series B at a $200M valuation in January 2025 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250603/p6#a250603p6)
- - [Survey shows people think this change could fix Google’s Tensor problems](https://www.androidauthority.com/google-tensor-change-fix-problems-survey-results-3563562/)
- - [TSMC CEO C. C. Wei blames worsening traffic for delays in expanding its new Japan facility, and reaffirms plans to spend $100B in Arizona in the next five years &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250603/p5#a250603p5)<!-- TECH:END -->
+ - [Germany&#39;s data protection commission fines Vodafone a record €45M due to data privacy violations linked to malicious behavior by third-party sales agents &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/250603/p9#a250603p9)
+ - [Bing lets you use OpenAI’s Sora video generator for free](https://www.theverge.com/news/678446/microsoft-bing-video-creator-openai-sora-ai-generator)
+ - [I created a Samsung Routine to fix the Google Play Store’s biggest failure](https://www.androidauthority.com/samsung-routine-update-play-store-apps-3561947/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
