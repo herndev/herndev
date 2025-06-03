@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces new Windows changes in response to the DMA for EEA users, including Edge not prompting users to set it as the default unless it is opened &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250602/p28#a250602p28)
- - [Apple could buoy Apple TV+ with MLB Sunday Night Baseball streaming rights](https://appleinsider.com/articles/25/06/02/apple-could-increase-mlb-presence-with-sunday-night-game-streaming?utm_medium=rss)
- - [Sources: the FTC is investigating whether roughly a dozen advertising and advocacy groups violated antitrust law by coordinating boycotts among advertisers &lpar;New York Times&rpar;](http://www.techmeme.com/250602/p27#a250602p27)<!-- TECH:END -->
+ - [Google is ending PayPal account integration in Google Wallet for US users, effective June 13, after stopping new PayPal account linking in April &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250602/p31#a250602p31)
+ - [Microsoft, Google, CrowdStrike, and Palo Alto plan a public glossary of state-sponsored hacking groups to ease confusion over the spread of unofficial aliases &lpar;Reuters&rpar;](http://www.techmeme.com/250602/p30#a250602p30)
+ - [Sources: Elon Musk is selling $5B in debt for xAI at a double-digit interest rate, with demand already exceeding $3.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250602/p29#a250602p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
