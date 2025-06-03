@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps on Android Auto is getting smarter about using all your vehicle’s screens](https://www.androidauthority.com/google-maps-navigation-pop-up-3563864/)
- - [Samsung Galaxy S25 Ultra drops to its record-low price again!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-8-3563914/)
- - [FCC investigation looms over EchoStar’s missed interest payments and a new satellite](https://www.theverge.com/news/679023/dish-network-echostar-interest-payments-tv-satellite-fcc-investigation-spacex)<!-- TECH:END -->
+ - [A federal judge temporarily blocks Florida from enforcing a law banning social media accounts for children under 14, saying the law is &quot;likely unconstitutional&quot; &lpar;Kate Payne/Associated Press&rpar;](http://www.techmeme.com/250603/p38#a250603p38)
+ - [OpenAI updates its coding agent Codex with internet access, turned off by default, and expands availability to ChatGPT Plus users &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250603/p37#a250603p37)
+ - [Jeopardy! and Wheel of Fortune are headed to streaming](https://www.theverge.com/news/679056/jeopardy-wheel-of-fortune-hulu-peacock-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
