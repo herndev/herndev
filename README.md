@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stonks](http://9gag.com/gag/aPAXX6B)
- - ⏩ [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - 👉 [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)<!-- MEMES:END -->
+ - 💣 [Parkour!](http://9gag.com/gag/aGy2OYz)
+ - ⏩ [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)
+ - 👉 [I&#39;m shocked. SHOCKED!](http://9gag.com/gag/a34WWL3)<!-- MEMES:END -->
 
 ---
 
