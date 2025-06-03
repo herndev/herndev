@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - ⏩ [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
- - 👉 [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)<!-- MEMES:END -->
+ - 💣 [When the beef is so serious you gotta call the President.](http://9gag.com/gag/awy4Y9r)
+ - ⏩ [Hell yeah](http://9gag.com/gag/an7DDVn)
+ - 👉 [Well, maybe it pays for some people...](http://9gag.com/gag/a34Wbye)<!-- MEMES:END -->
 
 ---
 
