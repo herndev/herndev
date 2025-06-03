@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro A20 chip rumored to get radical redesign, 2nm fab process](https://appleinsider.com/articles/25/06/03/iphone-18-pro-a20-chip-rumored-to-get-radical-redesign-2nm-fab-process?utm_medium=rss)
- - [Google&amp;#8217;s NotebookLM now lets you share your notebook — and AI podcasts — publicly](https://www.theverge.com/news/678915/google-notebooklm-share-public-link)
- - [TechCrunch has shut down its operations in Europe; one former staffer says new owner Regent thought &quot;international startup coverage wasn&#39;t essential&quot; &lpar;Sifted&rpar;](http://www.techmeme.com/250603/p30#a250603p30)<!-- TECH:END -->
+ - [Can’t change Activity Zones on your Nest Cam? Google’s working on a fix](https://www.androidauthority.com/nest-cam-activity-zone-glitch-3563842/)
+ - [Forget the gimbal: Pixel 10 leak hints that you won’t have to worry about shaky video](https://www.androidauthority.com/pixel-10-image-stabilization-upgrade-3563829/)
+ - [The Witcher 4 tech demo ran on a base PS5 to ‘show how much we can optimize’](https://www.theverge.com/games/678895/the-witcher-4-ue5-tech-demo-ps5-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
