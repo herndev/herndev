@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to fish in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-how-to-fish/)
- - [Today&#39;s Wordle answer for Tuesday, June 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-3-2025/)
- - [Torchlight 3 studio Echtra Games, acquired by Zynga in 2021 to help it move into PC and console gaming, is being closed without doing that](https://www.pcgamer.com/gaming-industry/torchlight-3-studio-echtra-games-acquired-by-zynga-in-2021-to-help-it-move-into-pc-and-console-gaming-is-being-closed-without-doing-that/)<!-- GAME:END -->
+ - [How to get Celestia&#39;s Gifts in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-celestias-gifts-location/)
+ - [Hell is Us system requirements require an RTX 4090 and upscaling for 4K at 30 fps, which sounds pretty hellish for my gaming PC](https://www.pcgamer.com/hardware/hell-is-us-system-requirements-require-an-rtx-4090-and-upscaling-for-4k-at-30-fps-which-sounds-pretty-hellish-for-my-gaming-pc/)
+ - [How to get animal hide in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-animal-hide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
