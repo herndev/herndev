@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What colors will the Galaxy Z Flip 7, Flip 7 FE, and Fold 7 come in? This leak may have the answer](https://www.androidauthority.com/samsung-galaxy-foldables-leaked-colors-3563744/)
- - [Nintendo says it didn&#39;t send any Switch 2 review units to outlets as &quot;important features and updates&quot; will only be available via an update on its June 5 launch &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/250603/p26#a250603p26)
- - [Android 16 QPR1 may stop HDR ‘flashbangs’ with enhanced brightness controls](https://www.androidauthority.com/android-16-qpr1-enhanced-hdr-brightness-setting-3563653/)<!-- TECH:END -->
+ - [Apple Design Award winners for 2025 include Balatro, Watch Duty](https://appleinsider.com/articles/25/06/03/apple-design-award-winners-for-2025-include-balatro-watch-duty?utm_medium=rss)
+ - [Google looks like it’s sticking with Samsung for the Pixel 10 modem, after all](https://www.androidauthority.com/pixel-10-modem-3563728/)
+ - [Verge readers can get a rare discount on the smartphone-sized Boox Palma 2 e-reader](https://www.theverge.com/tech/678830/boox-palma-2-wellbots-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
