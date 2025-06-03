@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Celestia&#39;s Gifts in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-celestias-gifts-location/)
- - [Hell is Us system requirements require an RTX 4090 and upscaling for 4K at 30 fps, which sounds pretty hellish for my gaming PC](https://www.pcgamer.com/hardware/hell-is-us-system-requirements-require-an-rtx-4090-and-upscaling-for-4k-at-30-fps-which-sounds-pretty-hellish-for-my-gaming-pc/)
- - [How to get animal hide in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-animal-hide/)<!-- GAME:END -->
+ - [Jajaja! Microsoft finally gives up pestering EU users about goddamn Edge](https://www.pcgamer.com/gaming-industry/jajaja-microsoft-finally-gives-up-pestering-eu-users-about-goddamn-edge/)
+ - [FF14 unofficial census finds what we were all pretty much feeling—before patch 7.25, Dawntrail&#39;s playerbase has likely been on the decline](https://www.pcgamer.com/games/final-fantasy/ff14-unofficial-census-finds-what-we-were-all-pretty-much-feeling-before-patch-7-25-dawntrails-playerbase-has-likely-been-on-the-decline/)
+ - [Elden Ring Nightreign is finally getting Duo Expeditions as FromSoftware caves into pleas from players who can only find one other friend to match with](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-is-finally-getting-duo-expeditions-as-fromsoftware-caves-into-pleas-from-players-who-can-only-find-one-other-friend-to-match-with/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
