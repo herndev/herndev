@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your masseuse takes the &#39;deep tissue&#39; request seriously.](http://9gag.com/gag/a1mLVO8)
- - ⏩ [Sentence](http://9gag.com/gag/aqyzWoP)
- - 👉 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)<!-- MEMES:END -->
+ - 💣 [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)
+ - ⏩ [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
+ - 👉 [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)<!-- MEMES:END -->
 
 ---
 
