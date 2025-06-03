@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok isn’t really working right now](https://www.theverge.com/news/678410/tiktok-is-not-loading-outage-comments-error-edgesuiite)
- - [A software developer explains how LLMs, especially AI agents, help automate tedious coding tasks and addresses concerns like hallucinations, job loss, and more &lpar;Thomas Ptacek/Fly&rpar;](http://www.techmeme.com/250602/p33#a250602p33)
- - [iPhone 17 Air Rumors and Leaks: Could a Skinny Outpace the Base?](https://www.cnet.com/tech/mobile/every-iphone-17-air-rumor-what-to-know-about-a-slim-new-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sensor Tower: daily US users of PDD Holdings&#39; Temu fell by 58% in May; the US closed the &quot;de minimis&quot; loophole on May 2, and Temu then slashed its ad spending &lpar;Reuters&rpar;](http://www.techmeme.com/250603/p1#a250603p1)
+ - [Samsung’s new ‘Precious’ may not be ready for a 2025 launch](https://www.androidauthority.com/samsung-galaxy-ring-2-development-3563474/)
+ - [TikTok isn’t really working right now](https://www.theverge.com/news/678410/tiktok-is-not-loading-outage-comments-error-edgesuiite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
