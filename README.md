@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is ending PayPal account integration in Google Wallet for US users, effective June 13, after stopping new PayPal account linking in April &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250602/p31#a250602p31)
- - [Microsoft, Google, CrowdStrike, and Palo Alto plan a public glossary of state-sponsored hacking groups to ease confusion over the spread of unofficial aliases &lpar;Reuters&rpar;](http://www.techmeme.com/250602/p30#a250602p30)
- - [Sources: Elon Musk is selling $5B in debt for xAI at a double-digit interest rate, with demand already exceeding $3.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250602/p29#a250602p29)<!-- TECH:END -->
+ - [Aerones, which makes robots that can service wind turbines in about half the time of humans, raised $62M led by Activate Capital and S2G Investments &lpar;Virginia Furness/Reuters&rpar;](http://www.techmeme.com/250602/p32#a250602p32)
+ - [&#39;A Beautiful Boost&#39;: Lake Tahoe Reps Are Thrilled by Apple&#39;s Reported New Mac OS Name](https://www.cnet.com/tech/computing/apples-macos-reveal-at-wwdc-what-the-new-tahoe-name-says-about-whats-coming/#ftag=CAD590a51e)
+ - [Apple Reportedly Changing Numbering System For iOS, Choosing Tahoe for Mac OS Name](https://www.cnet.com/tech/services-and-software/apple-reportedly-changing-software-naming-ios-26-not-ios-19-is-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
