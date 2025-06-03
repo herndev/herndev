@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic is bringing AI Darth Vader’s tech to Fortnite creators](https://www.theverge.com/news/678399/epic-games-fortnite-ai-darth-vaders-tech-creators)
- - [Apple’s 2024 M4 MacBook Pro with a 1TB SSD has never been this cheap](https://www.theverge.com/tech/678617/apple-macbook-pro-m4-1tb-laptop-deal-sale-amazon)
- - [Tel Aviv-based Speedata, which is designing analytics processing units for big data workloads, raised a $44M Series B, aims to showcase its first APU this month &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250603/p21#a250603p21)<!-- TECH:END -->
+ - [Retroid fans are losing their minds over potential dual-screened handheld teaser](https://www.androidauthority.com/retroid-dual-screen-handheld-3563713/)
+ - [The Polestar 4 now comes from South Korea instead of China](https://www.theverge.com/news/678655/polestar-4-2026-south-korea-manufacture-china)
+ - [iFixit is retroactively giving the Nintendo Switch a 4/10 on repairability](https://www.theverge.com/news/678622/ifixit-nerfs-nintendo-switch-repair-score-battery-drift)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
