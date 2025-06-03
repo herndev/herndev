@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 QPR1 will suggest photo wallpapers of your loved ones from Google Photos](https://www.androidauthority.com/google-pixel-android-16-qpr1-google-photos-curated-wallpaper-3563545/)
- - [A look at Walmart&#39;s use of automation to grow sales without adding staff, as analysts say its efforts raise questions about the future of US retail labor &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/250603/p4#a250603p4)
- - [YouTube confirms Android app bug affecting navigation bar](https://www.androidauthority.com/youtube-app-navigation-bar-bug-3563549/)<!-- TECH:END -->
+ - [Dublin-based cross-border payment startup NomuPay raised a $40M Series C at a $290M valuation, following a $37M Series B at a $200M valuation in January 2025 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250603/p6#a250603p6)
+ - [Survey shows people think this change could fix Google’s Tensor problems](https://www.androidauthority.com/google-tensor-change-fix-problems-survey-results-3563562/)
+ - [TSMC CEO C. C. Wei blames worsening traffic for delays in expanding its new Japan facility, and reaffirms plans to spend $100B in Arizona in the next five years &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250603/p5#a250603p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
