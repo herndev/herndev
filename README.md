@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Pathologic 3 trailer gives players a closer look at the Bachelor’s campaign](https://www.polygon.com/pc/603391/new-pathologic-3-trailer)
- - [What time does Dune: Awakening release in early access?](https://www.polygon.com/dune-awakening-guides/603369/release-time-early-access-start-date)
- - [Death Stranding 2: All the key details on the next game from Hideo Kojima](https://www.pcgamer.com/death-stranding-2-guide/)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in June](https://www.pcgamer.com/games/pc-game-release-dates-june-2025/)
+ - [Metal Gear Solid Delta: Snake Eater: All the key details on the remake of a PS2 classic](https://www.pcgamer.com/games/action/metal-gear-solid-delta-guide/)
+ - [Alan Tudyk, master of disguise, just faced his greatest challenge](https://www.polygon.com/tv/603309/alan-tudyk-directing-debut-tv-resident-alien-season-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
