@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mario Kart World’s designers had to rethink everything to make it open world](https://www.theverge.com/interview/678097/mario-kart-world-nintendo-switch-2-interview-kosuke-yabuki)
- - [How to watch WWDC 2025 on iPhone, Mac, Apple TV &amp; web](https://appleinsider.com/inside/wwdc/tips/how-to-watch-wwdc-2025-on-iphone-mac-apple-tv-web?utm_medium=rss)
- - [Apple TV+ &#39;Slow Horses&#39; season 5 will start soon](https://appleinsider.com/articles/25/06/03/apple-tv-slow-horses-season-5-will-start-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Epic is bringing AI Darth Vader’s tech to Fortnite creators](https://www.theverge.com/news/678399/epic-games-fortnite-ai-darth-vaders-tech-creators)
+ - [Apple’s 2024 M4 MacBook Pro with a 1TB SSD has never been this cheap](https://www.theverge.com/tech/678617/apple-macbook-pro-m4-1tb-laptop-deal-sale-amazon)
+ - [Tel Aviv-based Speedata, which is designing analytics processing units for big data workloads, raised a $44M Series B, aims to showcase its first APU this month &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250603/p21#a250603p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
