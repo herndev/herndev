@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My face exactly](http://9gag.com/gag/a2vb2Qp)
- - ⏩ [Waiting for the little sister to spill the tea...](http://9gag.com/gag/aGy2OxX)
- - 👉 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)<!-- MEMES:END -->
+ - 💣 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
+ - ⏩ [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
+ - 👉 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)<!-- MEMES:END -->
 
 ---
 
