@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the beef is so serious you gotta call the President.](http://9gag.com/gag/awy4Y9r)
- - ⏩ [Hell yeah](http://9gag.com/gag/an7DDVn)
- - 👉 [Well, maybe it pays for some people...](http://9gag.com/gag/a34Wbye)<!-- MEMES:END -->
+ - 💣 [Heh wife material](http://9gag.com/gag/aQz2y3e)
+ - ⏩ [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
+ - 👉 [Waiting for the little sister to spill the tea...](http://9gag.com/gag/aGy2OxX)<!-- MEMES:END -->
 
 ---
 
