@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)
- - ⏩ [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - 👉 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)<!-- MEMES:END -->
+ - 💣 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
+ - ⏩ [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
+ - 👉 [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)<!-- MEMES:END -->
 
 ---
 
