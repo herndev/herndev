@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sentence](http://9gag.com/gag/aqyzWoP)
- - ⏩ [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - 👉 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)<!-- MEMES:END -->
+ - 💣 [My face exactly](http://9gag.com/gag/a2vb2Qp)
+ - ⏩ [Waiting for the little sister to spill the tea...](http://9gag.com/gag/aGy2OxX)
+ - 👉 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)<!-- MEMES:END -->
 
 ---
 
