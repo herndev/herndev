@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike reports Q1 revenue up 20% YoY to $1.1B, in line with est., forecasts Q2 revenue below est., approves a $1B share buyback; CRWD drops 6%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/250603/p34#a250603p34)
- - [HPE reports Q2 revenue up 6% YoY to $7.63B, vs. $7.46B est., Server revenue up 6% YoY to $4.1B, and says it expects a reduced impact from tariffs this year &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250603/p33#a250603p33)
- - [Anker’s new outdoor wireless speaker vibrates to shake off dust and sand](https://www.theverge.com/news/678980/anker-soundcore-boom-3i-rugged-outdoor-bluetooth-waterproof-speaker)<!-- TECH:END -->
+ - [Google Maps on Android Auto is getting smarter about using all your vehicle’s screens](https://www.androidauthority.com/google-maps-navigation-pop-up-3563864/)
+ - [Samsung Galaxy S25 Ultra drops to its record-low price again!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-8-3563914/)
+ - [FCC investigation looms over EchoStar’s missed interest payments and a new satellite](https://www.theverge.com/news/679023/dish-network-echostar-interest-payments-tv-satellite-fcc-investigation-spacex)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
