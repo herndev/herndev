@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
+ - 💣 [My friend trying to flex but accidentally destroying the evidence.](http://9gag.com/gag/axyPPVK)
  - ⏩ [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - 👉 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)<!-- MEMES:END -->
+ - 👉 [My face exactly](http://9gag.com/gag/a2vb2Qp)<!-- MEMES:END -->
 
 ---
 
