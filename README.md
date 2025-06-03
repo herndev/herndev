@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to fish in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-how-to-fish/)
  - [Today&#39;s Wordle answer for Tuesday, June 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-3-2025/)
- - [Torchlight 3 studio Echtra Games, acquired by Zynga in 2021 to help it move into PC and console gaming, is being closed without doing that](https://www.pcgamer.com/gaming-industry/torchlight-3-studio-echtra-games-acquired-by-zynga-in-2021-to-help-it-move-into-pc-and-console-gaming-is-being-closed-without-doing-that/)
- - [Best Nightlords bosses order in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603005/best-nightlords-order-boss-list-all)<!-- GAME:END -->
+ - [Torchlight 3 studio Echtra Games, acquired by Zynga in 2021 to help it move into PC and console gaming, is being closed without doing that](https://www.pcgamer.com/gaming-industry/torchlight-3-studio-echtra-games-acquired-by-zynga-in-2021-to-help-it-move-into-pc-and-console-gaming-is-being-closed-without-doing-that/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
