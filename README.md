@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to change skins in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602062/change-outfits-appearance-how-to-unlock)
- - [Mario Kart World&#39;s Map Is Much Bigger Than You Might Expect](https://kotaku.com/mario-kart-world-map-size-bigger-gta-v-forza-horizon-5-1851783488)
- - [All skins in Elden Ring Nightreign and how to unlock them](https://www.polygon.com/elden-ring-nightreign-guides/603116/skins-list-all-how-to-unlock)<!-- GAME:END -->
+ - [Section 13 Brings Twin-stick Action, Co-Op Chaos, and Roguelite Replayability](https://news.xbox.com/en-us/2025/06/03/section-13-twin-stick-co-op-roguelite-replayability/)
+ - [Tiny Bookshop made me miss being a bookseller](https://www.polygon.com/impressions/602985/tiny-bookshop-cozy-game)
+ - [Here’s how Street Fighter 2 figures into 2025’s weirdest action-comedy](https://www.polygon.com/movies/603045/street-fighter-2-escape-from-the-21st-century-clip)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
