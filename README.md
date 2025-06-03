@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Check Out the Adidas x Minecraft Collab](https://www.minecraft.net/article/adidas-x-minecraft#new_tab)
- - [Elden Ring Nightreign Night Aspect boss guide: How to beat Heolstor the Nightlord](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-heolstor-boss-guide-night-aspect/)
- - [Elden Ring: Nightreign bucks the extraction trend, but it would have been a better game if it hadn&#39;t](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-bucks-the-extraction-trend-but-it-would-have-been-a-better-game-if-it-hadnt/)<!-- GAME:END -->
+ - [How to change skins in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602062/change-outfits-appearance-how-to-unlock)
+ - [Mario Kart World&#39;s Map Is Much Bigger Than You Might Expect](https://kotaku.com/mario-kart-world-map-size-bigger-gta-v-forza-horizon-5-1851783488)
+ - [All skins in Elden Ring Nightreign and how to unlock them](https://www.polygon.com/elden-ring-nightreign-guides/603116/skins-list-all-how-to-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
