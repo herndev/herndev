@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
- - ⏩ [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - 👉 [The real work behind your tequila shot](http://9gag.com/gag/aXP2Wxz)<!-- MEMES:END -->
+ - 💣 [My face exactly](http://9gag.com/gag/a2vb2Qp)
+ - ⏩ [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
+ - 👉 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)<!-- MEMES:END -->
 
 ---
 
