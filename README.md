@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Design Award winners for 2025 include Balatro, Watch Duty](https://appleinsider.com/articles/25/06/03/apple-design-award-winners-for-2025-include-balatro-watch-duty?utm_medium=rss)
- - [Google looks like it’s sticking with Samsung for the Pixel 10 modem, after all](https://www.androidauthority.com/pixel-10-modem-3563728/)
- - [Verge readers can get a rare discount on the smartphone-sized Boox Palma 2 e-reader](https://www.theverge.com/tech/678830/boox-palma-2-wellbots-deal-sale)<!-- TECH:END -->
+ - [iPhone 18 Pro A20 chip rumored to get radical redesign, 2nm fab process](https://appleinsider.com/articles/25/06/03/iphone-18-pro-a20-chip-rumored-to-get-radical-redesign-2nm-fab-process?utm_medium=rss)
+ - [Google&amp;#8217;s NotebookLM now lets you share your notebook — and AI podcasts — publicly](https://www.theverge.com/news/678915/google-notebooklm-share-public-link)
+ - [TechCrunch has shut down its operations in Europe; one former staffer says new owner Regent thought &quot;international startup coverage wasn&#39;t essential&quot; &lpar;Sifted&rpar;](http://www.techmeme.com/250603/p30#a250603p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
