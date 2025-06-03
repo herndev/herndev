@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My friend trying to flex but accidentally destroying the evidence.](http://9gag.com/gag/axyPPVK)
- - ⏩ [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - 👉 [My face exactly](http://9gag.com/gag/a2vb2Qp)<!-- MEMES:END -->
+ - 💣 [3 Days](http://9gag.com/gag/aD2XQp9)
+ - ⏩ [An open challenge to the universe, manifested in questionable facial hair choices.](http://9gag.com/gag/a4PqWeA)
+ - 👉 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)<!-- MEMES:END -->
 
 ---
 
