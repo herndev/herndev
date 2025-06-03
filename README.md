@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - ⏩ [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)
- - 👉 [The real work behind your tequila shot](http://9gag.com/gag/aXP2Wxz)<!-- MEMES:END -->
+ - 💣 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
+ - ⏩ [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)
+ - 👉 [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)<!-- MEMES:END -->
 
 ---
 
