@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s when Dune: Awakening pre-loads and unlocks in your time zone](https://www.pcgamer.com/games/survival-crafting/dune-awakening-preload-time-release-date/)
- - [Three new horror games I can’t wait to get my sweaty palms on](https://www.polygon.com/gaming/603303/horror-game-awards-showcase-best-trailers-games)
- - [Where The Biplane Stunt Ranks Among The Most Impossible Mission: Impossible Stunts Of All Time](https://kotaku.com/mission-impossible-final-reckoning-tom-cruise-stunts-1851780902)<!-- GAME:END -->
+ - [New Pathologic 3 trailer gives players a closer look at the Bachelor’s campaign](https://www.polygon.com/pc/603391/new-pathologic-3-trailer)
+ - [What time does Dune: Awakening release in early access?](https://www.polygon.com/dune-awakening-guides/603369/release-time-early-access-start-date)
+ - [Death Stranding 2: All the key details on the next game from Hideo Kojima](https://www.pcgamer.com/death-stranding-2-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
