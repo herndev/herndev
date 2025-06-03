@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netic, which sells an AI platform that helps home services firms automate client outreach and handle calls, raised $20M from Greylock, Founders Fund, and others &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p26#a250602p26)
- - [Robot deals: Narwal Freo X Ultra and Freo Pro drop to record-low prices!](https://www.androidauthority.com/narwal-freo-x-ultra-freo-pro-robot-vacuum-mop-deals-3563387/)
- - [Microsoft will finally stop bugging Windows users about Edge — but only in Europe](https://www.theverge.com/news/678350/microsoft-dma-windows-10-11-bing-edge)<!-- TECH:END -->
+ - [Microsoft announces new Windows changes in response to the DMA for EEA users, including Edge not prompting users to set it as the default unless it is opened &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250602/p28#a250602p28)
+ - [Apple could buoy Apple TV+ with MLB Sunday Night Baseball streaming rights](https://appleinsider.com/articles/25/06/02/apple-could-increase-mlb-presence-with-sunday-night-game-streaming?utm_medium=rss)
+ - [Sources: the FTC is investigating whether roughly a dozen advertising and advocacy groups violated antitrust law by coordinating boycotts among advertisers &lpar;New York Times&rpar;](http://www.techmeme.com/250602/p27#a250602p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
