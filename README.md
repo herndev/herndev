@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
+ - 💣 [Blud only took 3 seconds to turncoat](http://9gag.com/gag/aZZ2RMV)
  - ⏩ [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)
- - 👉 [Just kidding... Its sports](http://9gag.com/gag/ae9222p)<!-- MEMES:END -->
+ - 👉 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)<!-- MEMES:END -->
 
 ---
 
