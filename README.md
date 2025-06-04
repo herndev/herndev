@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Radeon RX 9060 XT 16 GB review &lpar;XFX Swift&rpar;](https://www.pcgamer.com/hardware/graphics-cards/amd-radeon-rx-9060-xt-16-gb-review-xfx-swift/)
- - [Gran Turismo World Series 2025 Round 1 takes place in London this Saturday](https://blog.playstation.com/2025/06/04/gran-turismo-world-series-2025-round-1-takes-place-in-london-this-saturday/)
- - [Gran Turismo World Series 2025 Round 1 takes place in London this Saturday](https://blog.playstation.com/2025/06/04/gran-turismo-world-series-2025-round-1-takes-place-in-london-this-saturday/)<!-- GAME:END -->
+ - [Switch 2 Launch Day: Everything Happening As Fans Finally Go Hands-On With Nintendo&#39;s New Console](https://kotaku.com/switch-2-preorder-day-one-update-live-eshop-mario-kart-1851783549)
+ - [If you didn’t get a Switch 2 pre-order, don’t despair: it sounds like retailers will have unprecedented stock](https://www.polygon.com/nintendo-switch-2/603232/gamestop-best-buy-target-walmart-costco-switch-2-stock-no-pre-order)
+ - [DeepMind boss &#39;would pay thousands of dollars per month&#39; to get rid of his email, so Google is working on a next-gen Gmail AI that will answer them in &#39;your style—and maybe make some of the easier decisions&#39; for you](https://www.pcgamer.com/software/ai/deepmind-boss-would-pay-thousands-of-dollars-per-month-to-get-rid-of-his-email-so-google-is-working-on-a-next-gen-gmail-ai-that-will-answer-them-in-your-style-and-maybe-make-some-of-the-easier-decisions-for-you/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
