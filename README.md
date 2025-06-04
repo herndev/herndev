@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
- - ⏩ [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 👉 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)<!-- MEMES:END -->
+ - 💣 [Task failed successfully](http://9gag.com/gag/aoy8dWA)
+ - ⏩ [Well damn](http://9gag.com/gag/aXP2dGP)
+ - 👉 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)<!-- MEMES:END -->
 
 ---
 
