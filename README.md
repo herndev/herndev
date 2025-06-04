@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TSMC boss claims the chipmaker doesn&#39;t need to pick winners to work with, just wait patiently &#39;because they will all come to us in the end&#39;](https://www.pcgamer.com/hardware/processors/tsmc-boss-claims-the-chipmaker-doesnt-need-to-pick-winners-to-work-with-just-wait-patiently-because-they-will-all-come-to-us-in-the-end/)
- - [The UK House of Lords denies the government&#39;s AI bill for &#39;state sanctioned theft&#39; of copyrighted data for the fourth time](https://www.pcgamer.com/software/ai/the-uk-house-of-lords-denies-the-governments-ai-bill-for-state-sanctioned-theft-of-copyrighted-data-for-the-fourth-time/)
- - [Blumhouse is developing your next favorite video game movie: Phasmophobia](https://www.polygon.com/news/603402/phasmophobia-movie-blumhouse-atomic-monster)<!-- GAME:END -->
+ - [Linux enjoys a small usage uptick with Steam users, though at 2.69% it still has a long way to go to topple Windows](https://www.pcgamer.com/hardware/handheld-gaming-pcs/linux-enjoys-a-small-usage-uptick-with-steam-users-though-at-2-69-percent-it-still-has-a-long-way-to-go-to-topple-windows/)
+ - [&#39;I want you to have the confidence to give it a try&#39;: Elden Ring Nightreign&#39;s combat director politely tells you to git gud, says he&#39;s beat all the game&#39;s bosses, solo, without relics](https://www.pcgamer.com/games/rpg/i-want-you-to-have-the-confidence-to-give-it-a-try-elden-ring-nightreigns-combat-director-politely-tells-you-to-git-gud-says-hes-beat-all-the-games-bosses-solo-without-relics/)
+ - [TSMC boss claims the chipmaker doesn&#39;t need to pick winners to work with, just wait patiently &#39;because they will all come to us in the end&#39;](https://www.pcgamer.com/hardware/processors/tsmc-boss-claims-the-chipmaker-doesnt-need-to-pick-winners-to-work-with-just-wait-patiently-because-they-will-all-come-to-us-in-the-end/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
