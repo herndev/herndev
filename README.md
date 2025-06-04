@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT can now read your Google Drive and Dropbox](https://www.theverge.com/news/679580/chatgpt-google-drive-dropbox-meeting-notes)
- - [AT&amp;T just launched a new plan that may be perfect for your parents](https://www.androidauthority.com/att-55-plus-plan-launch-3564181/)
- - [Trump trade war delays Apple Intelligence&#39;s debut in China](https://appleinsider.com/articles/25/06/04/trump-trade-war-delays-apple-intelligences-debut-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [Reddit sues Anthropic, alleging it accessed Reddit 100K+ times after saying it had stopped; Reddit has reached formal licensing deals with OpenAI and Google &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p33#a250604p33)
+ - [OpenAI rolls out connectors for services like Dropbox and OneDrive for ChatGPT Team, Enterprise, and Edu users; MCP support is coming to Pro, Team, Enterprise &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250604/p32#a250604p32)
+ - [OpenAI says it has 3M &quot;paying business users&quot;, up from 2M in February; ChatGPT Team users can now use a &quot;record mode&quot; for taking notes during meetings &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250604/p31#a250604p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
