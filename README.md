@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Gifts for Coworkers Under $50, Curated by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-coworkers/)
- - [iPhone XS, iPhone XR probably won&#39;t have iOS 26 support](https://appleinsider.com/articles/25/06/04/iphone-xs-iphone-xr-probably-wont-have-ios-26-support?utm_medium=rss)
- - [AMC signs a deal with Runway to use its tech to generate marketing images and pre-visualize unproduced shows, the first cable player to work with Runway &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250604/p25#a250604p25)<!-- TECH:END -->
+ - [Figma will let your AI access its design servers](https://www.theverge.com/news/679439/figma-dev-mode-mcp-server-beta-release)
+ - [Anker’s latest portable power station packs enough energy to run your fridge for days](https://www.androidauthority.com/ankers-latest-portable-power-station-packs-enough-energy-to-run-your-fridge-for-days-3564165/)
+ - [No surprise - iPhone &amp; iPad anchor Apple&#39;s ecosystem](https://appleinsider.com/articles/25/06/04/no-surprise---iphone-ipad-anchor-apples-ecosystem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
