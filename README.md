@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;You shall main Wylder Spooderman&#39;: An Elden Ring Nightreign player has found the best Wylder setup 55 hours in, letting them use their grappling hook every 4 seconds](https://www.pcgamer.com/games/rpg/you-shall-main-wylder-spooderman-an-elden-ring-nightreign-player-has-found-the-best-wylder-setup-55-hours-in-letting-them-use-their-grappling-hook-every-4-seconds/)
  - [Linux enjoys a small usage uptick with Steam users, though at 2.69% it still has a long way to go to topple Windows](https://www.pcgamer.com/hardware/handheld-gaming-pcs/linux-enjoys-a-small-usage-uptick-with-steam-users-though-at-2-69-percent-it-still-has-a-long-way-to-go-to-topple-windows/)
- - [&#39;I want you to have the confidence to give it a try&#39;: Elden Ring Nightreign&#39;s combat director politely tells you to git gud, says he&#39;s beat all the game&#39;s bosses, solo, without relics](https://www.pcgamer.com/games/rpg/i-want-you-to-have-the-confidence-to-give-it-a-try-elden-ring-nightreigns-combat-director-politely-tells-you-to-git-gud-says-hes-beat-all-the-games-bosses-solo-without-relics/)
- - [TSMC boss claims the chipmaker doesn&#39;t need to pick winners to work with, just wait patiently &#39;because they will all come to us in the end&#39;](https://www.pcgamer.com/hardware/processors/tsmc-boss-claims-the-chipmaker-doesnt-need-to-pick-winners-to-work-with-just-wait-patiently-because-they-will-all-come-to-us-in-the-end/)<!-- GAME:END -->
+ - [&#39;I want you to have the confidence to give it a try&#39;: Elden Ring Nightreign&#39;s combat director politely tells you to git gud, says he&#39;s beat all the game&#39;s bosses, solo, without relics](https://www.pcgamer.com/games/rpg/i-want-you-to-have-the-confidence-to-give-it-a-try-elden-ring-nightreigns-combat-director-politely-tells-you-to-git-gud-says-hes-beat-all-the-games-bosses-solo-without-relics/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
