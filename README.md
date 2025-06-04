@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple appeal to pause injunction enforcement allowing external linking fails](https://appleinsider.com/articles/25/06/04/apple-appeal-to-pause-injunction-enforcement-allowing-external-linking-fails?utm_medium=rss)
- - [Elon Musk discovers Trump doesn’t stay bought](https://www.theverge.com/elon-musk/679970/musk-trump-beautiful-bill-spat)
- - [Apple ordered to keep web links in the App Store](https://www.theverge.com/news/679946/apple-rejected-court-attempt-to-stop-app-store-web-links)<!-- TECH:END -->
+ - [The US DOJ seized ~145 domains and crypto linked to BidenCash, a dark web market that made $17M+ in revenue since 2022 by selling stolen credit cards and more &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/250604/p44#a250604p44)
+ - [Qualcomm CEO downplays importance of Apple relationship after C1 modem](https://appleinsider.com/articles/25/06/04/qualcomm-ceo-downplays-importance-of-apple-relationship-after-c1-modem?utm_medium=rss)
+ - [Your Apple Watch Might Not Be as Accurate as You Think, New Study Finds](https://www.cnet.com/health/fitness/your-apple-watch-might-not-be-as-accurate-as-you-think-new-study-finds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
