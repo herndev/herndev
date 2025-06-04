@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why did they fail?](http://9gag.com/gag/aAyXOBd)
- - ⏩ [Ghetto high.](http://9gag.com/gag/aW42RbZ)
+ - 💣 [Never let them know your next move!](http://9gag.com/gag/a7oNA1L)
+ - ⏩ [Disney](http://9gag.com/gag/aZZ2zXX)
  - 👉 [3 Days](http://9gag.com/gag/aD2XQp9)<!-- MEMES:END -->
 
 ---
