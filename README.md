@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
- - ⏩ [Why did they fail?](http://9gag.com/gag/aAyXOBd)
- - 👉 [Let them fight](http://9gag.com/gag/aqyzzzp)<!-- MEMES:END -->
+ - 💣 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
+ - ⏩ [3 Days](http://9gag.com/gag/aD2XQp9)
+ - 👉 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)<!-- MEMES:END -->
 
 ---
 
