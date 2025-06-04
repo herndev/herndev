@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windsurf says Anthropic is limiting its direct access to its AI models, including the newest Claude 4 family and the highly popular Claude 3 models &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250603/p43#a250603p43)
  - [Need a charge? Check out these charger deals from Anker and UGREEN](https://www.androidauthority.com/anker-ugreen-charger-deals-2-3563912/)
- - [Asana reports Q1 revenue of $187.3M, vs. $185.5M est., up 9% YoY vs. 26% last year, and adjusted EPS of $0.05, vs. $0.02 est.; ASAN falls 8%+ after hours &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250603/p42#a250603p42)
- - [Source: ~1,000 people have left the CISA during the second Trump administration, including 750+ taking a buyout, cutting CISA&#39;s workforce by nearly a third &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250603/p41#a250603p41)<!-- TECH:END -->
+ - [Asana reports Q1 revenue of $187.3M, vs. $185.5M est., up 9% YoY vs. 26% last year, and adjusted EPS of $0.05, vs. $0.02 est.; ASAN falls 8%+ after hours &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250603/p42#a250603p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
