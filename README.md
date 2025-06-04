@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Seeker in Metaphor: ReFantazio is more than a class — it’s a manifesto](https://www.polygon.com/gaming/601893/metaphor-refantazio-seeker-archetype-explained)
- - [No Man&#39;s Sky just got another mondo update and I think it&#39;s a management game now?](https://www.pcgamer.com/games/sim/no-mans-sky-just-got-another-mondo-update-and-i-think-its-a-management-game-now/)
- - [Marvel claims this Fantastic Four Galactus popcorn bucket is the ‘universe&amp;#8217;s biggest’](https://www.polygon.com/movies/603709/fantastic-four-popcorn-bucket-galactus)<!-- GAME:END -->
+ - [Support Ukrainian hospitals with this bundle of more than 250 indie RPGs for $8](https://www.polygon.com/tabletop-games/603795/support-ukrainian-hospitals-ttrpg-bundle-sale)
+ - [Fortnite gets big enhancements for Switch 2](https://www.polygon.com/fortnite/603773/fortnite-gets-big-enhancements-for-switch-2)
+ - [Fantastic Four Director Says Doctor Doom Isn&#39;t In His Film](https://kotaku.com/fantastic-four-first-steps-doctor-doom-marvel-rdj-1851783584)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
