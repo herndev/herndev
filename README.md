@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You have eight weeks to save your inactive Samsung account](https://www.theverge.com/news/679171/samsung-inactive-account-deletion-policy-date)
- - [This classic Google Search feature could be making its way to Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-autocomplete-apk-teardown-3564033/)
- - [Photos and partial footage of an FSD-enabled Tesla sideswiping a parked vehicle and hitting a woman in November 2023 shows FSD&#39;s limits; the NHTSA is probing it &lpar;Bloomberg&rpar;](http://www.techmeme.com/250604/p14#a250604p14)<!-- TECH:END -->
+ - [What I learned when I helped my mother move: some personal insights](https://www.theverge.com/tech/675936/moving-stress-real-estate-how-to)
+ - [A lot more AI characters are coming to Fortnite](https://www.theverge.com/fortnite/679077/epic-games-fortnite-creators-ai-npcs-darth-vader)
+ - [Google Translate could soon get one-tap search for translated text &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-translate-search-shortcut-apk-3548215/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
