@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let them fight](http://9gag.com/gag/aqyzzzp)
- - ⏩ [Many such cases.](http://9gag.com/gag/aO81RG3)
- - 👉 [Can&#39;t wait](http://9gag.com/gag/a87wwqp)<!-- MEMES:END -->
+ - 💣 [Many such cases.](http://9gag.com/gag/aO81RG3)
+ - ⏩ [Blud only took 3 seconds to turncoat](http://9gag.com/gag/aZZ2RMV)
+ - 👉 [Let them fight](http://9gag.com/gag/aqyzzzp)<!-- MEMES:END -->
 
 ---
 
