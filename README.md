@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock’s $2,600 robot vacuum with a mechanical arm is an incredible flex with a weird price tag](https://www.androidauthority.com/roborock-saros-z70-review-3558359/)
- - [You can now ask Google Drive to catch you up on file changes your colleagues made](https://www.androidauthority.com/you-can-now-ask-google-drive-to-catch-you-up-on-file-changes-your-colleagues-made-3564088/)
- - [Here’s how Android 16 QPR1 may let you double tap your Pixel’s screen to turn it off](https://www.androidauthority.com/double-tap-to-turn-off-pixel-screen-android-16-qpr1-3563905/)<!-- TECH:END -->
+ - [The Nintendo Switch 2 is here: all of the launch news](https://www.theverge.com/news/676901/nintendo-switch-2-launch-here)
+ - [Alleged Mint Mobile promotional email wants you to switch to T-Mobile to save more](https://www.androidauthority.com/t-mobile-mint-switch-3563769/)
+ - [Microsoft launches a free cybersecurity program for European governments to boost defenses against AI-enhanced threats, particularly state-sponsored attacks &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/250604/p21#a250604p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
