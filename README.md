@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nintendo Switch 2 is here: all of the launch news](https://www.theverge.com/news/676901/nintendo-switch-2-launch-here)
- - [Alleged Mint Mobile promotional email wants you to switch to T-Mobile to save more](https://www.androidauthority.com/t-mobile-mint-switch-3563769/)
- - [Microsoft launches a free cybersecurity program for European governments to boost defenses against AI-enhanced threats, particularly state-sponsored attacks &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/250604/p21#a250604p21)<!-- TECH:END -->
+ - [15 Best Gifts for Coworkers Under $50, Curated by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-coworkers/)
+ - [iPhone XS, iPhone XR probably won&#39;t have iOS 26 support](https://appleinsider.com/articles/25/06/04/iphone-xs-iphone-xr-probably-wont-have-ios-26-support?utm_medium=rss)
+ - [AMC signs a deal with Runway to use its tech to generate marketing images and pre-visualize unproduced shows, the first cable player to work with Runway &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250604/p25#a250604p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
