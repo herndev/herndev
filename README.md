@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I wasn&#39;t expecting a FromSoftware game, of all things, to be so gut-bustingly funny—but just like Helldivers 2, Elden Ring Nightreign turns death into a punchline](https://www.pcgamer.com/games/rpg/i-wasnt-expecting-a-fromsoftware-game-of-all-things-to-be-so-gut-bustingly-funny-but-just-like-helldivers-2-elden-ring-nightreign-turns-death-into-a-punchline/)
- - [Nintendo’s Switch 2 launch push hasn’t gone well. Does it matter?](https://www.polygon.com/nintendo-switch-2/603539/switch-2-launch-release-failures)
- - [How To Defeat Gnoster, Nightreign&#39;s Dual-Bug Boss Battle](https://kotaku.com/elden-ring-nightreign-gnoster-moth-boss-defeat-fire-1851783579)<!-- GAME:END -->
+ - [The Seeker in Metaphor: ReFantazio is more than a class — it’s a manifesto](https://www.polygon.com/gaming/601893/metaphor-refantazio-seeker-archetype-explained)
+ - [No Man&#39;s Sky just got another mondo update and I think it&#39;s a management game now?](https://www.pcgamer.com/games/sim/no-mans-sky-just-got-another-mondo-update-and-i-think-its-a-management-game-now/)
+ - [Marvel claims this Fantastic Four Galactus popcorn bucket is the ‘universe&amp;#8217;s biggest’](https://www.polygon.com/movies/603709/fantastic-four-popcorn-bucket-galactus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
