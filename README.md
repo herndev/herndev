@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What I learned when I helped my mother move: some personal insights](https://www.theverge.com/tech/675936/moving-stress-real-estate-how-to)
- - [A lot more AI characters are coming to Fortnite](https://www.theverge.com/fortnite/679077/epic-games-fortnite-creators-ai-npcs-darth-vader)
- - [Google Translate could soon get one-tap search for translated text &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-translate-search-shortcut-apk-3548215/)<!-- TECH:END -->
+ - [Roborock’s $2,600 robot vacuum with a mechanical arm is an incredible flex with a weird price tag](https://www.androidauthority.com/roborock-saros-z70-review-3558359/)
+ - [You can now ask Google Drive to catch you up on file changes your colleagues made](https://www.androidauthority.com/you-can-now-ask-google-drive-to-catch-you-up-on-file-changes-your-colleagues-made-3564088/)
+ - [Here’s how Android 16 QPR1 may let you double tap your Pixel’s screen to turn it off](https://www.androidauthority.com/double-tap-to-turn-off-pixel-screen-android-16-qpr1-3563905/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
