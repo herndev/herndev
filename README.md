@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma will let your AI access its design servers](https://www.theverge.com/news/679439/figma-dev-mode-mcp-server-beta-release)
- - [Anker’s latest portable power station packs enough energy to run your fridge for days](https://www.androidauthority.com/ankers-latest-portable-power-station-packs-enough-energy-to-run-your-fridge-for-days-3564165/)
- - [No surprise - iPhone &amp; iPad anchor Apple&#39;s ecosystem](https://appleinsider.com/articles/25/06/04/no-surprise---iphone-ipad-anchor-apples-ecosystem?utm_medium=rss)<!-- TECH:END -->
+ - [ChatGPT can now read your Google Drive and Dropbox](https://www.theverge.com/news/679580/chatgpt-google-drive-dropbox-meeting-notes)
+ - [AT&amp;T just launched a new plan that may be perfect for your parents](https://www.androidauthority.com/att-55-plus-plan-launch-3564181/)
+ - [Trump trade war delays Apple Intelligence&#39;s debut in China](https://appleinsider.com/articles/25/06/04/trump-trade-war-delays-apple-intelligences-debut-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
