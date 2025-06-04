@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Many such cases.](http://9gag.com/gag/aO81RG3)
- - ⏩ [The internet responds to Tinder&#39;s height filter debate.](http://9gag.com/gag/a87wKnd)
- - 👉 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)<!-- MEMES:END -->
+ - 💣 [Are they even human?](http://9gag.com/gag/abA2E0X)
+ - ⏩ [War](http://9gag.com/gag/a5Qj5DL)
+ - 👉 [The troll toll](http://9gag.com/gag/aW42RvA)<!-- MEMES:END -->
 
 ---
 
