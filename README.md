@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to set up your Switch 2 and transfer data from Switch 1](https://www.polygon.com/nintendo-switch-2/603835/setup-switch-data-transfer-how-to)
- - [Switch 2 Launch Day: Everything Happening As Fans Finally Go Hands-On With Nintendo&#39;s New Console](https://kotaku.com/switch-2-preorder-day-one-update-live-eshop-mario-kart-1851783549)
- - [Duchess Remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603705/duchess-remembrance-walkthrough-steps-rewards)<!-- GAME:END -->
+ - [A &#39;vast medieval sandbox&#39; with a former Cyberpunk 2077 designer working on it may be revealed at Summer Game Fest, but there&#39;s a twist: the studio is really into generative AI](https://www.pcgamer.com/games/rpg/raw-power-games-medieval-sandbox-sgf/)
+ - [Balatro doesn&#39;t have microtransactions for a very good reason: &#39;It makes me want to put my computer in the dishwasher and set it to pots and pans,&quot; Localthunk says](https://www.pcgamer.com/games/card-games/balatro-doesnt-have-microtransactions-for-a-very-good-reason-it-makes-me-want-to-put-my-computer-in-the-dishwasher-and-set-it-to-pots-and-pans-localthunk-says/)
+ - [Ironeye remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603569/ironeye-remembrance-walkthrough-steps-rewards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
