@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A &#39;vast medieval sandbox&#39; with a former Cyberpunk 2077 designer working on it may be revealed at Summer Game Fest, but there&#39;s a twist: the studio is really into generative AI](https://www.pcgamer.com/games/rpg/raw-power-games-medieval-sandbox-sgf/)
- - [Balatro doesn&#39;t have microtransactions for a very good reason: &#39;It makes me want to put my computer in the dishwasher and set it to pots and pans,&quot; Localthunk says](https://www.pcgamer.com/games/card-games/balatro-doesnt-have-microtransactions-for-a-very-good-reason-it-makes-me-want-to-put-my-computer-in-the-dishwasher-and-set-it-to-pots-and-pans-localthunk-says/)
- - [Ironeye remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603569/ironeye-remembrance-walkthrough-steps-rewards)<!-- GAME:END -->
+ - [Nioh 3 stars the first Tokugawa Shogun, and it&#39;s coming in 2026—for PlayStation, at least](https://www.pcgamer.com/games/rpg/nioh-3-stars-the-first-tokugawa-shogun-and-its-coming-in-2026-for-playstation-at-least/)
+ - [Sword of the Sea launches August 19 on PS5 as part of PlayStation Plus Game Catalog](https://blog.playstation.com/2025/06/04/sword-of-the-sea-launches-august-19-on-ps5-as-part-of-playstation-plus-game-catalog/)
+ - [State of Play: Ghost of Yōtei gameplay deep dive coming July 2025](https://blog.playstation.com/2025/06/04/state-of-play-ghost-of-yotei-gameplay-deep-dive-coming-july-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
