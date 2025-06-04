@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart’s $20 Onn TV boxes from 2021 and 2023 are also getting their Android TV 14 update](https://www.androidauthority.com/walmart-cheap-onn-4k-box-android-tv-14-3564024/)
- - [Nokia, Nvidia, Safran, and 40+ organizations plan to build an EU-funded unmanned drone project to protect critical infrastructure, set to launch in three years &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250604/p11#a250604p11)
- - [Why I’m not worried about the Nothing Phone 3’s big price increase](https://www.androidauthority.com/nothing-phone-3-price-increase-not-worried-why-3563681/)<!-- TECH:END -->
+ - [You have eight weeks to save your inactive Samsung account](https://www.theverge.com/news/679171/samsung-inactive-account-deletion-policy-date)
+ - [This classic Google Search feature could be making its way to Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-autocomplete-apk-teardown-3564033/)
+ - [Photos and partial footage of an FSD-enabled Tesla sideswiping a parked vehicle and hitting a woman in November 2023 shows FSD&#39;s limits; the NHTSA is probing it &lpar;Bloomberg&rpar;](http://www.techmeme.com/250604/p14#a250604p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
