@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never let them know your next move!](http://9gag.com/gag/a7oNA1L)
- - ⏩ [Disney](http://9gag.com/gag/aZZ2zXX)
- - 👉 [3 Days](http://9gag.com/gag/aD2XQp9)<!-- MEMES:END -->
+ - 💣 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
+ - ⏩ [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
+ - 👉 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)<!-- MEMES:END -->
 
 ---
 
