@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What would your ultimate Galaxy Ultra foldable look like?](https://www.androidauthority.com/samsung-ultra-foldable-open-thread-3564005/)
  - [How Morgan Stanley is using its DevGen.AI tool, built in-house on OpenAI&#39;s GPT models, to translate legacy code into modern coding languages &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p9#a250604p9)
- - [The Google Pixel 10 series isn’t launching on August 13, after all](https://www.androidauthority.com/google-pixel-10-new-launch-date-3563984/)
- - [Sources: Thrive and Capital Group visited China to study its AI scene, joining a wave of US investors rekindling interest in China after DeepSeek&#39;s advances &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/250604/p8#a250604p8)<!-- TECH:END -->
+ - [The Google Pixel 10 series isn’t launching on August 13, after all](https://www.androidauthority.com/google-pixel-10-new-launch-date-3563984/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
