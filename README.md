@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Driver hours are driver hours](http://9gag.com/gag/avyvmzd)
- - ⏩ [Monday](http://9gag.com/gag/a7oNnbe)
- - 👉 [Expectation and reality](http://9gag.com/gag/a0eEEEB)<!-- MEMES:END -->
+ - 💣 [Let them fight](http://9gag.com/gag/aqyzzzp)
+ - ⏩ [Many such cases.](http://9gag.com/gag/aO81RG3)
+ - 👉 [Can&#39;t wait](http://9gag.com/gag/a87wwqp)<!-- MEMES:END -->
 
 ---
 
