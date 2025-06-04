@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic&#39;s Upcoming Kart Racer Will Include Minecraft And SpongeBob Characters](https://kotaku.com/sonic-racing-crossworlds-leak-mario-kart-spongebob-1851783558)
- - [Elden Ring Nightreign haters need to pick up this 10-year-old masterpiece](https://www.polygon.com/gaming/602971/elden-ring-nightreign-haters-need-to-pick-up-this-10-year-old-masterpiece)
- - [Google search&#39;s AI overviews are awful, but here&#39;s a browser extension that gets rid of them](https://www.pcgamer.com/hardware/google-searchs-ai-overviews-are-awful-but-heres-a-browser-extension-that-gets-rid-of-them/)<!-- GAME:END -->
+ - [I wasn&#39;t expecting a FromSoftware game, of all things, to be so gut-bustingly funny—but just like Helldivers 2, Elden Ring Nightreign turns death into a punchline](https://www.pcgamer.com/games/rpg/i-wasnt-expecting-a-fromsoftware-game-of-all-things-to-be-so-gut-bustingly-funny-but-just-like-helldivers-2-elden-ring-nightreign-turns-death-into-a-punchline/)
+ - [Nintendo’s Switch 2 launch push hasn’t gone well. Does it matter?](https://www.polygon.com/nintendo-switch-2/603539/switch-2-launch-release-failures)
+ - [How To Defeat Gnoster, Nightreign&#39;s Dual-Bug Boss Battle](https://kotaku.com/elden-ring-nightreign-gnoster-moth-boss-defeat-fire-1851783579)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
