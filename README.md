@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surgeon in Rome successfully operates on a patient 8000km away in Beijing using a remote-controlled robot.](http://9gag.com/gag/apRAYP8)
- - ⏩ [Many such cases.](http://9gag.com/gag/aO81RG3)
- - 👉 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)<!-- MEMES:END -->
+ - 💣 [Should i call you.. mister?](http://9gag.com/gag/aPAXXzw)
+ - ⏩ [Waiting for the little sister to spill the tea...](http://9gag.com/gag/aGy2OxX)
+ - 👉 [Disney](http://9gag.com/gag/aZZ2zXX)<!-- MEMES:END -->
 
 ---
 
