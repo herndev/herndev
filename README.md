@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Illustration of the historical special operation of the SBU `Web`](http://9gag.com/gag/aD2XQDZ)
- - ⏩ [Posting meme origins until I get bored or die](http://9gag.com/gag/ajPKy5p)
- - 👉 [Driver hours are driver hours](http://9gag.com/gag/avyvmzd)<!-- MEMES:END -->
+ - 💣 [Louder then the reallity](http://9gag.com/gag/avyvvvW)
+ - ⏩ [Disney](http://9gag.com/gag/aZZ2zXX)
+ - 👉 [Why did they fail?](http://9gag.com/gag/aAyXOBd)<!-- MEMES:END -->
 
 ---
 
