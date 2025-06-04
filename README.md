@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [visionOS 26 at WWDC rumored to have a big emphasis on gaming](https://appleinsider.com/articles/25/06/04/visionos-26-at-wwdc-rumored-to-have-a-big-emphasis-on-gaming?utm_medium=rss)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [Here’s what’s inside Meta’s experimental new AR glasses](https://www.theverge.com/news/679707/meta-aria-gen-2-upgrades-specs-ai)<!-- TECH:END -->
+ - [US removes &amp;#8216;safety&amp;#8217; from AI Safety Institute](https://www.theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change)
+ - [Filing: CrowdStrike says the DOJ and SEC have requested information about the July 2024 outage caused by an update and about its revenue recognition practices &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p35#a250604p35)
+ - [Could This Cash Back Card Dethrone the American Express Blue Cash Preferred for Best Grocery Card?](https://www.cnet.com/personal-finance/could-this-cash-back-card-dethrone-the-blue-cash-preferred-from-american-express-for-best-grocery-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
