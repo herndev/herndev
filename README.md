@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Great tablet deals from Apple and Amazon!](https://www.androidauthority.com/apple-ipad-a16-amazon-fire-max-11-tablet-deals-3563913/)
- - [Qualcomm releases patches to fix a series of vulnerabilities in dozens of chips, including three zero-days that &quot;may be under limited, targeted exploitation&quot; &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250603/p40#a250603p40)
- - [Five more iOS 26 features leak from a reliable source](https://appleinsider.com/articles/25/06/03/five-more-ios-26-features-leak-from-a-reliable-source?utm_medium=rss)<!-- TECH:END -->
+ - [Source: ~1,000 people have left the CISA during the second Trump administration, including 750+ taking a buyout, cutting CISA&#39;s workforce by nearly a third &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250603/p41#a250603p41)
+ - [Epomaker Split65 keyboard review: A unique design that will split opinion](https://appleinsider.com/articles/25/06/04/epomaker-split65-keyboard-review-a-unique-design-that-will-split-opinion?utm_medium=rss)
+ - [Samsung Teases Ultra-Grade Foldable Phone With a &#39;Powerful Camera,&#39; AI Tools](https://www.cnet.com/tech/mobile/samsung-teases-ultra-grade-foldable-phone-with-a-powerful-camera-ai-tools/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
