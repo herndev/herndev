@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Two FCC commissioners announce they&#39;ll depart this week, creating three vacancies on the five-member panel amid a probe into EchoStar&#39;s 5G service obligations &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250604/p39#a250604p39)
- - [Sources: Chinese hackers breached a US telecom company in the summer of 2023, a year before US officials and cybersecurity firms detected the Salt Typhoon hacks &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/250604/p38#a250604p38)<!-- TECH:END -->
+ - [Apple appeal to pause injunction enforcement allowing external linking fails](https://appleinsider.com/articles/25/06/04/apple-appeal-to-pause-injunction-enforcement-allowing-external-linking-fails?utm_medium=rss)
+ - [Elon Musk discovers Trump doesn’t stay bought](https://www.theverge.com/elon-musk/679970/musk-trump-beautiful-bill-spat)
+ - [Apple ordered to keep web links in the App Store](https://www.theverge.com/news/679946/apple-rejected-court-attempt-to-stop-app-store-web-links)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
