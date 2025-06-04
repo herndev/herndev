@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Say goodbye to streaming apps on the Switch 2](https://www.polygon.com/nintendo-switch-2/603464/tv-streaming-apps-hulu-crunchyroll)
- - [AMC Will Soon Start Adding More Commercials Before The Movie Starts](https://kotaku.com/amc-more-commercials-ads-trailers-before-movie-starts-1851783616)
- - [Mii characters are now genderless on Nintendo Switch 2](https://www.polygon.com/nintendo-switch-2/603805/switch-2-genderless-mii)<!-- GAME:END -->
+ - [How to set up your Switch 2 and transfer data from Switch 1](https://www.polygon.com/nintendo-switch-2/603835/setup-switch-data-transfer-how-to)
+ - [Switch 2 Launch Day: Everything Happening As Fans Finally Go Hands-On With Nintendo&#39;s New Console](https://kotaku.com/switch-2-preorder-day-one-update-live-eshop-mario-kart-1851783549)
+ - [Duchess Remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603705/duchess-remembrance-walkthrough-steps-rewards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
