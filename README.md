@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nioh 3 stars the first Tokugawa Shogun, and it&#39;s coming in 2026—for PlayStation, at least](https://www.pcgamer.com/games/rpg/nioh-3-stars-the-first-tokugawa-shogun-and-its-coming-in-2026-for-playstation-at-least/)
- - [Sword of the Sea launches August 19 on PS5 as part of PlayStation Plus Game Catalog](https://blog.playstation.com/2025/06/04/sword-of-the-sea-launches-august-19-on-ps5-as-part-of-playstation-plus-game-catalog/)
- - [State of Play: Ghost of Yōtei gameplay deep dive coming July 2025](https://blog.playstation.com/2025/06/04/state-of-play-ghost-of-yotei-gameplay-deep-dive-coming-july-2025/)<!-- GAME:END -->
+ - [An all-new Thief game was announced during State of Play, but it&#39;s a VR game so who cares](https://www.pcgamer.com/games/vr/an-all-new-thief-game-was-announced-during-state-of-play-but-its-a-vr-game-so-who-cares/)
+ - [Silent Hill f is coming in September, so here&#39;s a deeply disturbing new trailer to give you something to think about while you wait](https://www.pcgamer.com/games/horror/silent-hill-f-is-coming-in-september-so-heres-a-deeply-disturbing-new-trailer-to-give-you-something-to-think-about-while-you-wait/)
+ - [Everything We Saw During Sony&#39;s Big State Of Play](https://kotaku.com/everything-announced-all-trailers-state-of-play-ps5-ps4-1851783654)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
