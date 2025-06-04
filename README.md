@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blumhouse is developing your next favorite video game movie: Phasmophobia](https://www.polygon.com/news/603402/phasmophobia-movie-blumhouse-atomic-monster)
- - [Spooky friend-time ghost-em-up Phasmophobia is the next videogame to get the movie treatment](https://www.pcgamer.com/games/horror/spooky-friend-time-ghost-em-up-phasmophobia-is-the-next-videogame-to-get-the-movie-treatment/)
- - [The new Arctis Nova 3 looks like SteelSeries is min-maxing the midranged headset with both hardware and software](https://www.pcgamer.com/hardware/gaming-keyboards/the-new-arctis-nova-3-looks-like-steelseries-is-min-maxing-the-midranged-headset-with-both-hardware-and-software/)<!-- GAME:END -->
+ - [TSMC boss claims the chipmaker doesn&#39;t need to pick winners to work with, just wait patiently &#39;because they will all come to us in the end&#39;](https://www.pcgamer.com/hardware/processors/tsmc-boss-claims-the-chipmaker-doesnt-need-to-pick-winners-to-work-with-just-wait-patiently-because-they-will-all-come-to-us-in-the-end/)
+ - [The UK House of Lords denies the government&#39;s AI bill for &#39;state sanctioned theft&#39; of copyrighted data for the fourth time](https://www.pcgamer.com/software/ai/the-uk-house-of-lords-denies-the-governments-ai-bill-for-state-sanctioned-theft-of-copyrighted-data-for-the-fourth-time/)
+ - [Blumhouse is developing your next favorite video game movie: Phasmophobia](https://www.polygon.com/news/603402/phasmophobia-movie-blumhouse-atomic-monster)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
