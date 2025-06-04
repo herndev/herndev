@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 Launch Day: Everything Happening As Fans Finally Go Hands-On With Nintendo&#39;s New Console](https://kotaku.com/switch-2-preorder-day-one-update-live-eshop-mario-kart-1851783549)
- - [If you didn’t get a Switch 2 pre-order, don’t despair: it sounds like retailers will have unprecedented stock](https://www.polygon.com/nintendo-switch-2/603232/gamestop-best-buy-target-walmart-costco-switch-2-stock-no-pre-order)
- - [DeepMind boss &#39;would pay thousands of dollars per month&#39; to get rid of his email, so Google is working on a next-gen Gmail AI that will answer them in &#39;your style—and maybe make some of the easier decisions&#39; for you](https://www.pcgamer.com/software/ai/deepmind-boss-would-pay-thousands-of-dollars-per-month-to-get-rid-of-his-email-so-google-is-working-on-a-next-gen-gmail-ai-that-will-answer-them-in-your-style-and-maybe-make-some-of-the-easier-decisions-for-you/)<!-- GAME:END -->
+ - [Sonic&#39;s Upcoming Kart Racer Will Include Minecraft And SpongeBob Characters](https://kotaku.com/sonic-racing-crossworlds-leak-mario-kart-spongebob-1851783558)
+ - [Elden Ring Nightreign haters need to pick up this 10-year-old masterpiece](https://www.polygon.com/gaming/602971/elden-ring-nightreign-haters-need-to-pick-up-this-10-year-old-masterpiece)
+ - [Google search&#39;s AI overviews are awful, but here&#39;s a browser extension that gets rid of them](https://www.pcgamer.com/hardware/google-searchs-ai-overviews-are-awful-but-heres-a-browser-extension-that-gets-rid-of-them/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
