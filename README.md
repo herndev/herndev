@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The troll toll](http://9gag.com/gag/aW42RvA)
- - ⏩ [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 👉 [Just needed one more outlet...](http://9gag.com/gag/ayNQPoy)<!-- MEMES:END -->
+ - 💣 [Surgeon in Rome successfully operates on a patient 8000km away in Beijing using a remote-controlled robot.](http://9gag.com/gag/apRAYP8)
+ - ⏩ [Many such cases.](http://9gag.com/gag/aO81RG3)
+ - 👉 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)<!-- MEMES:END -->
 
 ---
 
