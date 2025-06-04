@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What would your ultimate Galaxy Ultra foldable look like?](https://www.androidauthority.com/samsung-ultra-foldable-open-thread-3564005/)
- - [How Morgan Stanley is using its DevGen.AI tool, built in-house on OpenAI&#39;s GPT models, to translate legacy code into modern coding languages &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p9#a250604p9)
- - [The Google Pixel 10 series isn’t launching on August 13, after all](https://www.androidauthority.com/google-pixel-10-new-launch-date-3563984/)<!-- TECH:END -->
+ - [The sequel to the world’s lightest foldable could embarrass the Z Fold 7 Ultra](https://www.androidauthority.com/vivo-x-fold-5-light-thin-3564009/)
+ - [An interview with Gaia Marcus, director of the UK-based think tank Ada Lovelace Institute, on AI regulation in the UK and Europe, AI safety, bias, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250604/p10#a250604p10)
+ - [Luxus Couples Vibrator Review: Magnetic Attraction](https://www.wired.com/review/luxus-couples-vibrator/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
