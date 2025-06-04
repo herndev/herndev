@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal judge temporarily blocks Florida from enforcing a law banning social media accounts for children under 14, saying the law is &quot;likely unconstitutional&quot; &lpar;Kate Payne/Associated Press&rpar;](http://www.techmeme.com/250603/p38#a250603p38)
- - [OpenAI updates its coding agent Codex with internet access, turned off by default, and expands availability to ChatGPT Plus users &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250603/p37#a250603p37)
- - [Jeopardy! and Wheel of Fortune are headed to streaming](https://www.theverge.com/news/679056/jeopardy-wheel-of-fortune-hulu-peacock-streaming)<!-- TECH:END -->
+ - [Great tablet deals from Apple and Amazon!](https://www.androidauthority.com/apple-ipad-a16-amazon-fire-max-11-tablet-deals-3563913/)
+ - [Qualcomm releases patches to fix a series of vulnerabilities in dozens of chips, including three zero-days that &quot;may be under limited, targeted exploitation&quot; &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250603/p40#a250603p40)
+ - [Five more iOS 26 features leak from a reliable source](https://appleinsider.com/articles/25/06/03/five-more-ios-26-features-leak-from-a-reliable-source?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
