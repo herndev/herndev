@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The sequel to the world’s lightest foldable could embarrass the Z Fold 7 Ultra](https://www.androidauthority.com/vivo-x-fold-5-light-thin-3564009/)
- - [An interview with Gaia Marcus, director of the UK-based think tank Ada Lovelace Institute, on AI regulation in the UK and Europe, AI safety, bias, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250604/p10#a250604p10)
- - [Luxus Couples Vibrator Review: Magnetic Attraction](https://www.wired.com/review/luxus-couples-vibrator/)<!-- TECH:END -->
+ - [Walmart’s $20 Onn TV boxes from 2021 and 2023 are also getting their Android TV 14 update](https://www.androidauthority.com/walmart-cheap-onn-4k-box-android-tv-14-3564024/)
+ - [Nokia, Nvidia, Safran, and 40+ organizations plan to build an EU-funded unmanned drone project to protect critical infrastructure, set to launch in three years &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250604/p11#a250604p11)
+ - [Why I’m not worried about the Nothing Phone 3’s big price increase](https://www.androidauthority.com/nothing-phone-3-price-increase-not-worried-why-3563681/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
