@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon Violet and Scarlet’s Switch 2 update is as good as it looks](https://www.theverge.com/nintendo/679031/pokemon-violet-scarlet-switch-2-update-hands-on)
- - [NYSE Arca files with the SEC to list a Bitcoin ETF linked to Trump Media and Technology Group, the parent company of Truth Social and Truth.fi &lpar;Vildana Hajric/Bloomberg&rpar;](http://www.techmeme.com/250603/p44#a250603p44)
- - [Windsurf says Anthropic is limiting its direct access to its AI models, including the newest Claude 4 family and the highly popular Claude 3 models &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250603/p43#a250603p43)<!-- TECH:END -->
+ - [CEO Alex Bouaziz says Deel crossed $1B annual revenue run rate in Q1 2025 and has allocated an M&amp;A budget of between $200M and $500M in 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250604/p3#a250604p3)
+ - [A bipartisan group of over 260 US state legislators sign a letter opposing a federal budget bill provision that bans states from enforcing AI laws for 10 years &lpar;Sophia Fox-Sowell/StateScoop&rpar;](http://www.techmeme.com/250604/p2#a250604p2)
+ - [Court filing: Deel alleges Rippling&#39;s &quot;competitive intelligence manager&quot; Brett Alexander Johnson posed as a customer to access Deel&#39;s product and business info &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250604/p1#a250604p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
