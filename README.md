@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CEO Alex Bouaziz says Deel crossed $1B annual revenue run rate in Q1 2025 and has allocated an M&amp;A budget of between $200M and $500M in 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250604/p3#a250604p3)
- - [A bipartisan group of over 260 US state legislators sign a letter opposing a federal budget bill provision that bans states from enforcing AI laws for 10 years &lpar;Sophia Fox-Sowell/StateScoop&rpar;](http://www.techmeme.com/250604/p2#a250604p2)
- - [Court filing: Deel alleges Rippling&#39;s &quot;competitive intelligence manager&quot; Brett Alexander Johnson posed as a customer to access Deel&#39;s product and business info &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250604/p1#a250604p1)<!-- TECH:END -->
+ - [Chinese startup Butterfly Effect&#39;s Manus launches text-to-video generation tool in early access for paid users, with plans to roll it out for free to all users &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250604/p6#a250604p6)
+ - [AI coding startups are at risk of being disrupted by Google, Microsoft, and OpenAI; source: Microsoft&#39;s GitHub Copilot grew to over $500M in revenue last year &lpar;Reuters&rpar;](http://www.techmeme.com/250604/p5#a250604p5)
+ - [Sources: Toronto-based AI startup Cohere is seeking to raise $500M+ at a valuation of over $5.5B; it raised a $500M Series D at a $5.5B valuation in July 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250604/p4#a250604p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
