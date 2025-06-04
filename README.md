@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should i call you.. mister?](http://9gag.com/gag/aPAXXzw)
- - ⏩ [Waiting for the little sister to spill the tea...](http://9gag.com/gag/aGy2OxX)
- - 👉 [Disney](http://9gag.com/gag/aZZ2zXX)<!-- MEMES:END -->
+ - 💣 [Many such cases.](http://9gag.com/gag/aO81RG3)
+ - ⏩ [The internet responds to Tinder&#39;s height filter debate.](http://9gag.com/gag/a87wKnd)
+ - 👉 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)<!-- MEMES:END -->
 
 ---
 
