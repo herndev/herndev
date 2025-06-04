@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Expectation and reality](http://9gag.com/gag/a0eEEEB)
- - ⏩ [Monday](http://9gag.com/gag/a7oNnbe)
- - 👉 [Housing market reality check.](http://9gag.com/gag/aPAXrEP)<!-- MEMES:END -->
+ - 💣 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
+ - ⏩ [Why did they fail?](http://9gag.com/gag/aAyXOBd)
+ - 👉 [Let them fight](http://9gag.com/gag/aqyzzzp)<!-- MEMES:END -->
 
 ---
 
