@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Task failed successfully](http://9gag.com/gag/aoy8dWA)
- - ⏩ [Well damn](http://9gag.com/gag/aXP2dGP)
- - 👉 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)<!-- MEMES:END -->
+ - 💣 [Thats wild, bro](http://9gag.com/gag/aKGYLNN)
+ - ⏩ [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
+ - 👉 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)<!-- MEMES:END -->
 
 ---
 
