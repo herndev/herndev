@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never let them know your next move!](http://9gag.com/gag/a7oNA1L)
+ - 💣 [Why did they fail?](http://9gag.com/gag/aAyXOBd)
  - ⏩ [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - 👉 [War](http://9gag.com/gag/a5Qj5DL)<!-- MEMES:END -->
+ - 👉 [3 Days](http://9gag.com/gag/aD2XQp9)<!-- MEMES:END -->
 
 ---
 
