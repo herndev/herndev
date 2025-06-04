@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US removes &amp;#8216;safety&amp;#8217; from AI Safety Institute](https://www.theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change)
- - [Filing: CrowdStrike says the DOJ and SEC have requested information about the July 2024 outage caused by an update and about its revenue recognition practices &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p35#a250604p35)
- - [Could This Cash Back Card Dethrone the American Express Blue Cash Preferred for Best Grocery Card?](https://www.cnet.com/personal-finance/could-this-cash-back-card-dethrone-the-blue-cash-preferred-from-american-express-for-best-grocery-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Two FCC commissioners announce they&#39;ll depart this week, creating three vacancies on the five-member panel amid a probe into EchoStar&#39;s 5G service obligations &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250604/p39#a250604p39)
+ - [Sources: Chinese hackers breached a US telecom company in the summer of 2023, a year before US officials and cybersecurity firms detected the Salt Typhoon hacks &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/250604/p38#a250604p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
