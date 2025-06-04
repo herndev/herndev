@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - ⏩ [3 Days](http://9gag.com/gag/aD2XQp9)
- - 👉 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)<!-- MEMES:END -->
+ - 💣 [Driver hours are driver hours](http://9gag.com/gag/avyvmzd)
+ - ⏩ [Monday](http://9gag.com/gag/a7oNnbe)
+ - 👉 [Expectation and reality](http://9gag.com/gag/a0eEEEB)<!-- MEMES:END -->
 
 ---
 
