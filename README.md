@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Louder then the reallity](http://9gag.com/gag/avyvvvW)
- - ⏩ [Disney](http://9gag.com/gag/aZZ2zXX)
- - 👉 [Why did they fail?](http://9gag.com/gag/aAyXOBd)<!-- MEMES:END -->
+ - 💣 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - ⏩ [The internet responds to Tinder&#39;s height filter debate.](http://9gag.com/gag/a87wKnd)
+ - 👉 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)<!-- MEMES:END -->
 
 ---
 
