@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Many such cases.](http://9gag.com/gag/aO81RG3)
- - ⏩ [Blud only took 3 seconds to turncoat](http://9gag.com/gag/aZZ2RMV)
- - 👉 [Let them fight](http://9gag.com/gag/aqyzzzp)<!-- MEMES:END -->
+ - 💣 [Illustration of the historical special operation of the SBU `Web`](http://9gag.com/gag/aD2XQDZ)
+ - ⏩ [Posting meme origins until I get bored or die](http://9gag.com/gag/ajPKy5p)
+ - 👉 [Driver hours are driver hours](http://9gag.com/gag/avyvmzd)<!-- MEMES:END -->
 
 ---
 
