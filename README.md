@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Support Ukrainian hospitals with this bundle of more than 250 indie RPGs for $8](https://www.polygon.com/tabletop-games/603795/support-ukrainian-hospitals-ttrpg-bundle-sale)
- - [Fortnite gets big enhancements for Switch 2](https://www.polygon.com/fortnite/603773/fortnite-gets-big-enhancements-for-switch-2)
- - [Fantastic Four Director Says Doctor Doom Isn&#39;t In His Film](https://kotaku.com/fantastic-four-first-steps-doctor-doom-marvel-rdj-1851783584)<!-- GAME:END -->
+ - [Say goodbye to streaming apps on the Switch 2](https://www.polygon.com/nintendo-switch-2/603464/tv-streaming-apps-hulu-crunchyroll)
+ - [AMC Will Soon Start Adding More Commercials Before The Movie Starts](https://kotaku.com/amc-more-commercials-ads-trailers-before-movie-starts-1851783616)
+ - [Mii characters are now genderless on Nintendo Switch 2](https://www.polygon.com/nintendo-switch-2/603805/switch-2-genderless-mii)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
