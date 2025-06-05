@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - ⏩ [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
- - 👉 [What](http://9gag.com/gag/aGy26E6)<!-- MEMES:END -->
+ - 💣 [Psycho](http://9gag.com/gag/abA2KRB)
+ - ⏩ [Bro listen carefully, he isn&#39;t cat](http://9gag.com/gag/an7Ddmo)
+ - 👉 [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)<!-- MEMES:END -->
 
 ---
 
