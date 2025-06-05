@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Play: EA Sports FC 25 Is Coming to Game Pass Ultimate with EA Play](https://news.xbox.com/en-us/2025/06/05/ea-play-ea-sports-fc-25/)
- - [Can I play Switch 2 games on my Switch 1?](https://www.polygon.com/nintendo-switch-2/604204/can-i-play-switch-2-games-on-my-switch-1)
- - [Guilty as Sock may be the only game where you can sue Master Chief for indecent exposure and then write sensational articles about Mr. Bean committing financial fraud](https://www.pcgamer.com/games/guilty-as-sock-may-be-the-only-game-where-you-can-sue-master-chief-for-indecent-exposure-and-then-write-sensational-articles-about-mr-bean-committing-financial-fraud/)<!-- GAME:END -->
+ - [Elden Ring Nightreign: A Beginner&#39;s Guide To Raider](https://kotaku.com/elden-ring-nightreign-raiden-ultimate-art-strength-1851783752)
+ - [After GTA 6&#39;s Delay, September Has Filled Up With A Ton Of Games](https://kotaku.com/gta-6-delay-september-fall-game-release-state-of-play-1851783740)
+ - [The Internet Reacts To A New Marvel Fighting Game Without Capcom](https://kotaku.com/marvel-tokon-fighting-souls-vs-capcom-state-of-play-ps5-1851783734)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
