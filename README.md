@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
- - ⏩ [Never let them know your next move!](http://9gag.com/gag/a7oNA1L)
- - 👉 [War](http://9gag.com/gag/a5Qj5DL)<!-- MEMES:END -->
+ - 💣 [Give him a hand](http://9gag.com/gag/a2vbGV9)
+ - ⏩ [War](http://9gag.com/gag/a5Qj5DL)
+ - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
 
 ---
 
