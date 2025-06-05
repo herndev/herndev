@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - ⏩ [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
- - 👉 [Just needed one more outlet...](http://9gag.com/gag/ayNQPoy)<!-- MEMES:END -->
+ - 💣 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
+ - ⏩ [Donaldinio, there&#39;s a phone call for you.](http://9gag.com/gag/aD2XNDd)
+ - 👉 [I feel the force between my legs](http://9gag.com/gag/a2vbjbZ)<!-- MEMES:END -->
 
 ---
 
