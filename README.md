@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
- - ⏩ [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
- - 👉 [3 years and still here](http://9gag.com/gag/aZZ2vXn)<!-- MEMES:END -->
+ - 💣 [Donaldinio, there&#39;s a phone call for you.](http://9gag.com/gag/aD2XNDd)
+ - ⏩ [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 👉 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)<!-- MEMES:END -->
 
 ---
 
