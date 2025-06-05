@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
- - ⏩ [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - 👉 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)<!-- MEMES:END -->
+ - 💣 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
+ - ⏩ [Magical.](http://9gag.com/gag/a2vb911)
+ - 👉 [Even older by now](http://9gag.com/gag/aZZ2vM6)<!-- MEMES:END -->
 
 ---
 
