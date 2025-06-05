@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - ⏩ [Even older by now](http://9gag.com/gag/aZZ2vM6)
- - 👉 [And we have a winner](http://9gag.com/gag/aGy2oX5)<!-- MEMES:END -->
+ - ⏩ [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
+ - 👉 [What](http://9gag.com/gag/aGy26E6)<!-- MEMES:END -->
 
 ---
 
