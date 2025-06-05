@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of Circle jumped 124%, opening at $69.50 on the NYSE, after the stablecoin company raised almost $1.1B in an IPO &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250605/p32#a250605p32)
- - [Midea is recalling its U-shaped air conditioners because of potential mold growth](https://www.theverge.com/news/680570/midea-u-shaped-smart-window-air-conditioner-recall-refund)
- - [Nintendo’s GameCube Controller for the Switch 2 is back in stock](https://www.theverge.com/tech/673515/nintendo-switch-2-gamecube-controller-launch-restock)<!-- TECH:END -->
+ - [Users demand a big discount to pay for subscriptions out of the App Store](https://appleinsider.com/articles/25/06/05/users-demand-a-big-discount-to-pay-for-subscriptions-out-of-the-app-store?utm_medium=rss)
+ - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
+ - [How to make the most of Google Keep](https://www.theverge.com/24073806/google-keep-how-to-note-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
