@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - ⏩ [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - 👉 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)<!-- MEMES:END -->
+ - 💣 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
+ - ⏩ [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 👉 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)<!-- MEMES:END -->
 
 ---
 
