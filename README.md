@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New study reveals where the Apple Watch gets fitness data right -- and wrong](https://appleinsider.com/articles/25/06/05/new-study-reveals-where-the-apple-watch-gets-fitness-data-right----and-wrong?utm_medium=rss)
- - [Apple leaning heavier on Tata, with iPhone repair shift from Wistron](https://appleinsider.com/articles/25/06/05/apple-leaning-heavier-on-tata-with-iphone-repair-shift-from-wistron?utm_medium=rss)
- - [Anthropic unveils a new set of Claude Gov models tailored for US national security customers and designed to be applied to planning, analysis, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250605/p25#a250605p25)<!-- TECH:END -->
+ - [&#39;Angry Birds&#39;, &#39;Kingdom Rush&#39;, and more come to Apple Arcade in July](https://appleinsider.com/articles/25/06/05/angry-birds-kingdom-rush-and-more-come-to-apple-arcade-in-july?utm_medium=rss)
+ - [Belkin’s Switch 2 case protects and recharges](https://www.theverge.com/news/680463/belkin-nintendo-switch-2-charging-case-battery)
+ - [Nothing’s first pair of headphones now has a concrete launch date](https://www.androidauthority.com/nothing-headphone-1-launch-date-3564594/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
