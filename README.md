@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Users demand a big discount to pay for subscriptions out of the App Store](https://appleinsider.com/articles/25/06/05/users-demand-a-big-discount-to-pay-for-subscriptions-out-of-the-app-store?utm_medium=rss)
- - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
- - [How to make the most of Google Keep](https://www.theverge.com/24073806/google-keep-how-to-note-app)<!-- TECH:END -->
+ - [Wing and Walmart are bringing drone delivery to 100 new stores](https://www.theverge.com/news/680723/walmart-wing-drone-delivery-expand-cities-100-stores)
+ - [&#39;Sniper Elite 5&#39; brings brutal WWII action to iPhone, iPad, and Mac in 2026](https://appleinsider.com/articles/25/06/05/sniper-elite-5-brings-brutal-wwii-action-to-iphone-ipad-and-mac-in-2026?utm_medium=rss)
+ - [Trump says Elon Musk &quot;went CRAZY&quot; and that canceling his government contracts is &quot;the easiest way to save money&quot;, as their One Big Beautiful bill feud escalates &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250605/p37#a250605p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
