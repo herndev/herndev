@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China’s rare earth restrictions halt first auto industry production lines](https://www.theverge.com/news/680247/auto-manufacturing-halt-cars-china-rare-earth-minerals-magnets)
- - [Nintendo launches the Switch 2 globally, with long queues outside stores and midnight openings; analysts expect Nintendo to sell 15M to 20M Switch 2 units &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250605/p11#a250605p11)
- - [Some creatives and academics are rejecting AI on environmental and ethical grounds, and describe the pressure they feel to use AI to &quot;keep up&quot; with others &lpar;Emine Saner/The Guardian&rpar;](http://www.techmeme.com/250605/p10#a250605p10)<!-- TECH:END -->
+ - [Hollywood insiders report widespread off-the-books AI experimentation in studios, often hidden due to avoid backlash, despite union contracts limiting AI use &lpar;Lila Shapiro/Vulture&rpar;](http://www.techmeme.com/250605/p14#a250605p14)
+ - [Sensor Tower: Temu&#39;s US DAUs fell 52% in May compared to March, while Shein&#39;s dropped 25%, amid the US&#39; China tariffs and the closure of &quot;de minimis&quot; loophole &lpar;Karen Gilchrist/CNBC&rpar;](http://www.techmeme.com/250605/p13#a250605p13)
+ - [I’m worried Samsung will make a critical mistake with the Galaxy Z Fold Ultra](https://www.androidauthority.com/samsung-galaxy-z-fold-ultra-critical-mistake-worried-3564156/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
