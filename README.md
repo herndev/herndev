@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Angry Birds&#39;, &#39;Kingdom Rush&#39;, and more come to Apple Arcade in July](https://appleinsider.com/articles/25/06/05/angry-birds-kingdom-rush-and-more-come-to-apple-arcade-in-july?utm_medium=rss)
- - [Belkin’s Switch 2 case protects and recharges](https://www.theverge.com/news/680463/belkin-nintendo-switch-2-charging-case-battery)
- - [Nothing’s first pair of headphones now has a concrete launch date](https://www.androidauthority.com/nothing-headphone-1-launch-date-3564594/)<!-- TECH:END -->
+ - [Bounce lets you move from Bluesky to Mastodon without losing followers](https://www.theverge.com/news/678928/bounce-bluesky-mastodon-bridgy-fed-tool-followers)
+ - [Narwal’s Freo X Ultra, one of our favorite robovacs, is 60 percent off](https://www.theverge.com/tech/680505/narwhal-freo-x-ultra-robot-vacuum-jbl-go-4-deal-sale)
+ - [Anthropic CEO says a 10-year moratorium on AI regulation is &quot;far too blunt an instrument&quot; and calls for US federal transparency standards for AI companies &lpar;Dario Amodei/New York Times&rpar;](http://www.techmeme.com/250605/p28#a250605p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
