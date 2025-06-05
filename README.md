@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lime renews vows with Uber ahead of busy summer season](https://www.theverge.com/news/679783/lime-renews-vows-with-uber-ahead-of-its-busy-summer-season)
- - [A look at Nintendo&#39;s US marketing, from targeting young boys in the 1980s to avant-garde GameCube ads in 2001, as its Switch 2 ads focus on online communal play &lpar;New York Times&rpar;](http://www.techmeme.com/250605/p17#a250605p17)
- - [8 Best Espresso Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-espresso-machines/)<!-- TECH:END -->
+ - [The cursed world of AI kiss and hug apps](https://www.theverge.com/ai-artificial-intelligence/679295/ai-hug-kiss-video-apps-deepfakes)
+ - [Source: Apple expands its Tata partnership in India by assigning it the iPhone and MacBook after-sales repair business, taking over from Taiwan&#39;s Wistron &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/250605/p20#a250605p20)
+ - [Lime and Uber sign a new multiyear deal to let Uber feature Lime&#39;s shared bikes and scooters on its ridehail app; the deal was set to expire in 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250605/p19#a250605p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
