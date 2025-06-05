@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Udon, publisher of Street Fighter, Mega Man, Elden Ring, and other videogame comics and art books, is the latest to cut ties with bankrupt distributor Diamond Comics](https://www.pcgamer.com/gaming-industry/udon-publisher-of-street-fighter-mega-man-elden-ring-and-other-videogame-comics-and-art-books-is-the-latest-to-cut-ties-with-bankrupt-distributor-diamond-comics/)
- - [Today&#39;s Wordle answer for Thursday, June 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-5-2025/)
- - [Gigantamax Cinderace counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/602940/gigantamax-cinderace-counters-weakness-tips)<!-- GAME:END -->
+ - [Apparently there&#39;s going to be a Sam Altman movie about his Lazarus-like career stumble, which I&#39;m sure I&#39;ll reluctantly watch on a plane at some point](https://www.pcgamer.com/hardware/apparently-theres-going-to-be-a-sam-altman-movie-about-his-lazarus-like-career-stumble-which-im-sure-ill-reluctantly-watch-on-a-plane-at-some-point/)
+ - [Helldivers 2 Force of Law Warbond launches June 12](https://blog.playstation.com/2025/06/05/helldivers-2-force-of-law-warbond-launches-june-12/)
+ - [Helldivers 2 Force of Law Warbond launches June 12](https://blog.playstation.com/2025/06/05/helldivers-2-force-of-law-warbond-launches-june-12/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
