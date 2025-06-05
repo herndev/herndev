@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign has a boss hiding on the top of its castles and there&#39;s a trick to getting up there fast](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-has-a-boss-hiding-on-the-top-of-its-castles-and-theres-a-trick-to-getting-up-there-fast/)
- - [The New Persona 5 Spin-Off Is Sapping My Excitement With Gacha Mechanics](https://kotaku.com/persona-5-the-phantom-x-gacha-rolls-preview-mobile-pc-1851783773)
- - [&#39;The last one wasn&#39;t the last one&#39;: CD Projekt has cyber punked us again, announcing another surprise update for Cyberpunk 2077](https://www.pcgamer.com/games/rpg/the-last-one-wasnt-the-last-one-cd-projekt-has-cyber-punked-us-again-announcing-another-surprise-update-for-cyberpunk-2077/)<!-- GAME:END -->
+ - [This MMO can run Doom: EVE Frontier is so moddable, players are building entire games within its space survival sandbox, and the devs say it&#39;s just the beginning](https://www.pcgamer.com/games/mmo/this-mmo-can-run-doom-eve-frontier-is-so-moddable-players-are-building-entire-games-within-its-space-survival-sandbox-and-the-devs-say-its-just-the-beginning/)
+ - [How to unlock all outfits in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/603767/outfits-unlock-requiremenets-list-all-how-to)
+ - [Don&#39;t Make This Mistake When Setting Up Your Switch 2](https://kotaku.com/switch-2-system-transfer-setup-skip-animal-crossing-1851783784)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
