@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 Launch Day: Everything Happening As Fans Finally Go Hands-On With Nintendo&#39;s New Console](https://kotaku.com/switch-2-preorder-day-one-update-live-eshop-mario-kart-1851783549)
- - [Lego unveils 1,376-piece One Piece pirate ship and much more from Luffy’s crew](https://www.polygon.com/anime/604109/lego-one-piece-sets-preorder-release-date)
- - [If you love Baldur&amp;#8217;s Gate 3, don&amp;#8217;t miss these two classic D&amp;#038;D RPGs now on Xbox Game Pass](https://www.polygon.com/baldurs-gate/604108/baldurs-gate-1-2-xbox-game-pass)<!-- GAME:END -->
+ - [EA Play: EA Sports FC 25 Is Coming to Game Pass Ultimate with EA Play](https://news.xbox.com/en-us/2025/06/05/ea-play-ea-sports-fc-25/)
+ - [Can I play Switch 2 games on my Switch 1?](https://www.polygon.com/nintendo-switch-2/604204/can-i-play-switch-2-games-on-my-switch-1)
+ - [Guilty as Sock may be the only game where you can sue Master Chief for indecent exposure and then write sensational articles about Mr. Bean committing financial fraud](https://www.pcgamer.com/games/guilty-as-sock-may-be-the-only-game-where-you-can-sue-master-chief-for-indecent-exposure-and-then-write-sensational-articles-about-mr-bean-committing-financial-fraud/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
