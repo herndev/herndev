@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Udon, publisher of Street Fighter, Mega Man, Elden Ring, and other videogame comics and art books, is the latest to cut ties with bankrupt distributor Diamond Comics](https://www.pcgamer.com/gaming-industry/udon-publisher-of-street-fighter-mega-man-elden-ring-and-other-videogame-comics-and-art-books-is-the-latest-to-cut-ties-with-bankrupt-distributor-diamond-comics/)
  - [Today&#39;s Wordle answer for Thursday, June 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-5-2025/)
- - [Gigantamax Cinderace counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/602940/gigantamax-cinderace-counters-weakness-tips)
- - [&#39;The will to resist is in your hands&#39;: Final Fantasy Tactics director makes statement on the political backdrop of the original and the &#39;inequality and division&#39; that persists today](https://www.pcgamer.com/games/final-fantasy/the-will-to-resist-is-in-your-hands-final-fantasy-tactics-director-makes-statement-on-the-political-backdrop-of-the-original-and-the-inequality-and-division-that-persists-today/)<!-- GAME:END -->
+ - [Gigantamax Cinderace counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/602940/gigantamax-cinderace-counters-weakness-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
