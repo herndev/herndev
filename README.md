@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An all-new Thief game was announced during State of Play, but it&#39;s a VR game so who cares](https://www.pcgamer.com/games/vr/an-all-new-thief-game-was-announced-during-state-of-play-but-its-a-vr-game-so-who-cares/)
- - [Silent Hill f is coming in September, so here&#39;s a deeply disturbing new trailer to give you something to think about while you wait](https://www.pcgamer.com/games/horror/silent-hill-f-is-coming-in-september-so-heres-a-deeply-disturbing-new-trailer-to-give-you-something-to-think-about-while-you-wait/)
- - [Everything We Saw During Sony&#39;s Big State Of Play](https://kotaku.com/everything-announced-all-trailers-state-of-play-ps5-ps4-1851783654)<!-- GAME:END -->
+ - [If an NPC hates you in this adventure from the makers of Road 96, it&#39;s probably because another player was mean to them earlier](https://www.pcgamer.com/games/adventure/if-an-npc-hates-you-in-this-adventure-from-the-makers-of-road-96-its-probably-because-another-player-was-mean-to-them-earlier/)
+ - [State of Play June 2025: all announcements, trailers](https://blog.playstation.com/2025/06/04/state-of-play-june-2025-all-announcements-trailers/)
+ - [State of Play June 2025: all announcements, trailers](https://blog.playstation.com/2025/06/04/state-of-play-june-2025-all-announcements-trailers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
