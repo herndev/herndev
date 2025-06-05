@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Broadcom reports Q2 revenue up 20% YoY to $15B, vs. $14.96B est., net income up 134% YoY to $4.97B, and sales from the AI industry up 46% YoY to $4.4B+ &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250605/p39#a250605p39)
- - [Google’s latest experiment gives you advice from the mentor you always wished you had](https://www.androidauthority.com/google-portraits-gemini-3564749/)
- - [PSA: Google Pixel 9a is still at an al-time low price!](https://www.androidauthority.com/google-pixel-9a-deal-3-3564745/)<!-- TECH:END -->
+ - [Deal: Buy a Samsung Galaxy Ring and get a free $100 gift card](https://www.androidauthority.com/samsung-galaxy-ring-deal-3-3564744/)
+ - [Here are three new apps building out the open social web](https://www.theverge.com/news/680895/fediverse-fediforum-2025-open-social-web-apps)
+ - [After the Switch 2, there&amp;#8217;s no going back to the old eShop](https://www.theverge.com/news/680893/nintendo-switch-2-eshop-faster)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
