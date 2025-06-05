@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fill the Marathon-shaped hole in your life with Supplice, the best prog-heavy boomer shooter you&#39;ve never heard of](https://www.pcgamer.com/games/fps/fill-the-marathon-shaped-hole-in-your-life-with-supplice-the-best-prog-heavy-boomer-shooter-youve-never-heard-of/)
- - [Elden Ring Nightreign: A Beginner&#39;s Guide To Mastering Recluse](https://kotaku.com/elden-ring-nightreign-recluse-magic-fp-residue-cocktail-1851783591)
- - [Final Fantasy Tactics Is One Of The Best Games Ever And It&#39;s Getting A Remaster This September](https://kotaku.com/final-fantasy-tactics-remake-switch-2-ps5-2d-hd-1851783601)<!-- GAME:END -->
+ - [Free Play Days – Dragon Ball Xenoverse 2, A Little to the Left and Hell Let Loose](https://news.xbox.com/en-us/2025/06/05/free-play-days-06-05-2025/)
+ - [Best Dune: Awakening class mentor, homeworld, and caste to pick during character creation](https://www.pcgamer.com/games/mmo/dune-awakening-best-class-mentor-homeworld-caste/)
+ - [Russia assures World of Tanks players they won&#39;t end up in prison as it takes full control of the studio in charge of it domestically, accusing it of funnelling funds to Ukraine](https://www.pcgamer.com/games/mmo/russia-assures-world-of-tanks-players-they-wont-end-up-in-prison-as-it-takes-full-control-of-the-studio-in-charge-of-it-domestically-accusing-it-of-funnelling-funds-to-ukraine/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
