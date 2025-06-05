@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - ⏩ [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 👉 [Enough internet for today](http://9gag.com/gag/ajPKyyw)<!-- MEMES:END -->
+ - ⏩ [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
+ - 👉 [Just needed one more outlet...](http://9gag.com/gag/ayNQPoy)<!-- MEMES:END -->
 
 ---
 
