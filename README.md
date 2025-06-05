@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign: A Beginner&#39;s Guide To Raider](https://kotaku.com/elden-ring-nightreign-raiden-ultimate-art-strength-1851783752)
- - [After GTA 6&#39;s Delay, September Has Filled Up With A Ton Of Games](https://kotaku.com/gta-6-delay-september-fall-game-release-state-of-play-1851783740)
- - [The Internet Reacts To A New Marvel Fighting Game Without Capcom](https://kotaku.com/marvel-tokon-fighting-souls-vs-capcom-state-of-play-ps5-1851783734)<!-- GAME:END -->
+ - [Breath of the Wild and Tears of the Kingdom load significantly faster on Switch 2](https://www.polygon.com/nintendo-switch-2/604235/breath-of-the-wild-botw-tears-of-the-kingdom-totk-load-times)
+ - [How Many Hammer Smashes Does It Take To Break A Switch 2?](https://kotaku.com/switch-2-screen-break-joycon-snap-protection-durability-1851783767)
+ - [Elden Ring Nightreign players have figured out how to guarantee you always reach max level by the time you fight your run&#39;s Nightlord, but unfortunately it&#39;s super boring](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-players-have-figured-out-how-to-guarantee-you-always-reach-max-level-by-the-time-you-fight-your-runs-nightlord-but-unfortunately-its-super-boring/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
