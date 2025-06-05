@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Dragon Ball Xenoverse 2, A Little to the Left and Hell Let Loose](https://news.xbox.com/en-us/2025/06/05/free-play-days-06-05-2025/)
- - [Best Dune: Awakening class mentor, homeworld, and caste to pick during character creation](https://www.pcgamer.com/games/mmo/dune-awakening-best-class-mentor-homeworld-caste/)
- - [Russia assures World of Tanks players they won&#39;t end up in prison as it takes full control of the studio in charge of it domestically, accusing it of funnelling funds to Ukraine](https://www.pcgamer.com/games/mmo/russia-assures-world-of-tanks-players-they-wont-end-up-in-prison-as-it-takes-full-control-of-the-studio-in-charge-of-it-domestically-accusing-it-of-funnelling-funds-to-ukraine/)<!-- GAME:END -->
+ - [Switch 2 Launch Day: Everything Happening As Fans Finally Go Hands-On With Nintendo&#39;s New Console](https://kotaku.com/switch-2-preorder-day-one-update-live-eshop-mario-kart-1851783549)
+ - [Lego unveils 1,376-piece One Piece pirate ship and much more from Luffy’s crew](https://www.polygon.com/anime/604109/lego-one-piece-sets-preorder-release-date)
+ - [If you love Baldur&amp;#8217;s Gate 3, don&amp;#8217;t miss these two classic D&amp;#038;D RPGs now on Xbox Game Pass](https://www.polygon.com/baldurs-gate/604108/baldurs-gate-1-2-xbox-game-pass)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
