@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get iron in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-iron-location/)
- - [How to get wool in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-wool-location/)
- - [Apparently there&#39;s going to be a Sam Altman movie about his Lazarus-like career stumble, which I&#39;m sure I&#39;ll reluctantly watch on a plane at some point](https://www.pcgamer.com/hardware/apparently-theres-going-to-be-a-sam-altman-movie-about-his-lazarus-like-career-stumble-which-im-sure-ill-reluctantly-watch-on-a-plane-at-some-point/)<!-- GAME:END -->
+ - [One bored GTA 6 fan managed to recreate Jason&#39;s house in Far Cry 5 Arcade, and it&#39;s almost a shot-for-shot recreation](https://www.pcgamer.com/games/rpg/one-bored-gta-6-fan-managed-to-recreate-jasons-house-in-far-cry-5-arcade-and-its-almost-a-shot-for-shot-recreation/)
+ - [&#39;When&#39;s Marvel?&#39; Next year, as Guilty Gear studio Arc System Works takes the classic superhero tag-team fighter for a ride with a new 4v4 format](https://www.pcgamer.com/games/fighting/whens-marvel-next-year-as-guilty-gear-studio-arc-system-works-takes-the-classic-superhero-tag-team-fighter-for-a-ride-with-a-new-4v4-format/)
+ - [Thief VR is a huge slap on the face and kick in the teeth for everyone who has been waiting for more than a decade to return to the City](https://www.pcgamer.com/games/vr/thief-vr-is-a-huge-slap-on-the-face-and-kick-in-the-teeth-for-everyone-who-has-been-waiting-for-more-than-a-decade-to-return-to-the-city/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
