@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it disrupted 10 malicious operations in the past three months, including four that likely originated in China and targeted multiple countries &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/250605/p24#a250605p24)
- - [Best Bike Lights, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bike-lights/)
- - [App Store contributed $1.3 trillion to global economy in 2024](https://appleinsider.com/articles/25/06/05/app-store-contributed-13-trillion-to-global-economy-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [New study reveals where the Apple Watch gets fitness data right -- and wrong](https://appleinsider.com/articles/25/06/05/new-study-reveals-where-the-apple-watch-gets-fitness-data-right----and-wrong?utm_medium=rss)
+ - [Apple leaning heavier on Tata, with iPhone repair shift from Wistron](https://appleinsider.com/articles/25/06/05/apple-leaning-heavier-on-tata-with-iphone-repair-shift-from-wistron?utm_medium=rss)
+ - [Anthropic unveils a new set of Claude Gov models tailored for US national security customers and designed to be applied to planning, analysis, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250605/p25#a250605p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
