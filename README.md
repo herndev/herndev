@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If an NPC hates you in this adventure from the makers of Road 96, it&#39;s probably because another player was mean to them earlier](https://www.pcgamer.com/games/adventure/if-an-npc-hates-you-in-this-adventure-from-the-makers-of-road-96-its-probably-because-another-player-was-mean-to-them-earlier/)
- - [State of Play June 2025: all announcements, trailers](https://blog.playstation.com/2025/06/04/state-of-play-june-2025-all-announcements-trailers/)
- - [State of Play June 2025: all announcements, trailers](https://blog.playstation.com/2025/06/04/state-of-play-june-2025-all-announcements-trailers/)<!-- GAME:END -->
+ - [Gigantamax Cinderace counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/602940/gigantamax-cinderace-counters-weakness-tips)
+ - [&#39;The will to resist is in your hands&#39;: Final Fantasy Tactics director makes statement on the political backdrop of the original and the &#39;inequality and division&#39; that persists today](https://www.pcgamer.com/games/final-fantasy/the-will-to-resist-is-in-your-hands-final-fantasy-tactics-director-makes-statement-on-the-political-backdrop-of-the-original-and-the-inequality-and-division-that-persists-today/)
+ - [Bloodstained is back after 6 years with 3D cutscenes that look like they&#39;re from a different era of videogames](https://www.pcgamer.com/games/action/bloodstained-is-back-after-6-years-with-3d-cutscenes-that-look-like-theyre-from-a-different-era-of-videogames/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
