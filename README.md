@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollywood insiders report widespread off-the-books AI experimentation in studios, often hidden due to avoid backlash, despite union contracts limiting AI use &lpar;Lila Shapiro/Vulture&rpar;](http://www.techmeme.com/250605/p14#a250605p14)
- - [Sensor Tower: Temu&#39;s US DAUs fell 52% in May compared to March, while Shein&#39;s dropped 25%, amid the US&#39; China tariffs and the closure of &quot;de minimis&quot; loophole &lpar;Karen Gilchrist/CNBC&rpar;](http://www.techmeme.com/250605/p13#a250605p13)
- - [I’m worried Samsung will make a critical mistake with the Galaxy Z Fold Ultra](https://www.androidauthority.com/samsung-galaxy-z-fold-ultra-critical-mistake-worried-3564156/)<!-- TECH:END -->
+ - [Lime renews vows with Uber ahead of busy summer season](https://www.theverge.com/news/679783/lime-renews-vows-with-uber-ahead-of-its-busy-summer-season)
+ - [A look at Nintendo&#39;s US marketing, from targeting young boys in the 1980s to avant-garde GameCube ads in 2001, as its Switch 2 ads focus on online communal play &lpar;New York Times&rpar;](http://www.techmeme.com/250605/p17#a250605p17)
+ - [8 Best Espresso Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-espresso-machines/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
