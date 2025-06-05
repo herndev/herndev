@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)
- - ⏩ [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - 👉 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)<!-- MEMES:END -->
+ - 💣 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
+ - ⏩ [Never let them know your next move!](http://9gag.com/gag/a7oNA1L)
+ - 👉 [War](http://9gag.com/gag/a5Qj5DL)<!-- MEMES:END -->
 
 ---
 
