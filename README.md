@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Breath of the Wild and Tears of the Kingdom load significantly faster on Switch 2](https://www.polygon.com/nintendo-switch-2/604235/breath-of-the-wild-botw-tears-of-the-kingdom-totk-load-times)
- - [How Many Hammer Smashes Does It Take To Break A Switch 2?](https://kotaku.com/switch-2-screen-break-joycon-snap-protection-durability-1851783767)
- - [Elden Ring Nightreign players have figured out how to guarantee you always reach max level by the time you fight your run&#39;s Nightlord, but unfortunately it&#39;s super boring](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-players-have-figured-out-how-to-guarantee-you-always-reach-max-level-by-the-time-you-fight-your-runs-nightlord-but-unfortunately-its-super-boring/)<!-- GAME:END -->
+ - [Elden Ring Nightreign has a boss hiding on the top of its castles and there&#39;s a trick to getting up there fast](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-has-a-boss-hiding-on-the-top-of-its-castles-and-theres-a-trick-to-getting-up-there-fast/)
+ - [The New Persona 5 Spin-Off Is Sapping My Excitement With Gacha Mechanics](https://kotaku.com/persona-5-the-phantom-x-gacha-rolls-preview-mobile-pc-1851783773)
+ - [&#39;The last one wasn&#39;t the last one&#39;: CD Projekt has cyber punked us again, announcing another surprise update for Cyberpunk 2077](https://www.pcgamer.com/games/rpg/the-last-one-wasnt-the-last-one-cd-projekt-has-cyber-punked-us-again-announcing-another-surprise-update-for-cyberpunk-2077/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
