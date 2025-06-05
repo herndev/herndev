@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Tactics Is One Of The Best Games Ever And It&#39;s Getting A Remaster This September](https://kotaku.com/final-fantasy-tactics-remake-switch-2-ps5-2d-hd-1851783601)
- - [Coming to Game Pass: EA Sports FC 25, The Alters, FBC: Firebreak, and More](https://news.xbox.com/en-us/2025/06/05/xbox-game-pass-june-2025-wave-1/)
- - [The 7 Most Jaw-Dropping Money In The Bank Cash-Ins](https://kotaku.com/money-in-the-bank-wwe-john-cena-cm-punk-cody-rhodes-1851783517)<!-- GAME:END -->
+ - [Fill the Marathon-shaped hole in your life with Supplice, the best prog-heavy boomer shooter you&#39;ve never heard of](https://www.pcgamer.com/games/fps/fill-the-marathon-shaped-hole-in-your-life-with-supplice-the-best-prog-heavy-boomer-shooter-youve-never-heard-of/)
+ - [Elden Ring Nightreign: A Beginner&#39;s Guide To Mastering Recluse](https://kotaku.com/elden-ring-nightreign-recluse-magic-fp-residue-cocktail-1851783591)
+ - [Final Fantasy Tactics Is One Of The Best Games Ever And It&#39;s Getting A Remaster This September](https://kotaku.com/final-fantasy-tactics-remake-switch-2-ps5-2d-hd-1851783601)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
