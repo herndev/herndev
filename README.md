@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cursed world of AI kiss and hug apps](https://www.theverge.com/ai-artificial-intelligence/679295/ai-hug-kiss-video-apps-deepfakes)
- - [Source: Apple expands its Tata partnership in India by assigning it the iPhone and MacBook after-sales repair business, taking over from Taiwan&#39;s Wistron &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/250605/p20#a250605p20)
- - [Lime and Uber sign a new multiyear deal to let Uber feature Lime&#39;s shared bikes and scooters on its ridehail app; the deal was set to expire in 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250605/p19#a250605p19)<!-- TECH:END -->
+ - [OpenAI says it disrupted 10 malicious operations in the past three months, including four that likely originated in China and targeted multiple countries &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/250605/p24#a250605p24)
+ - [Best Bike Lights, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bike-lights/)
+ - [App Store contributed $1.3 trillion to global economy in 2024](https://appleinsider.com/articles/25/06/05/app-store-contributed-13-trillion-to-global-economy-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
