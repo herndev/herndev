@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro listen carefully, he isn&#39;t cat](http://9gag.com/gag/an7Ddmo)
- - ⏩ [Psycho](http://9gag.com/gag/abA2KRB)
- - 👉 [A tick does the trick.](http://9gag.com/gag/azxZBQZ)<!-- MEMES:END -->
+ - 💣 [What](http://9gag.com/gag/aGy26E6)
+ - ⏩ [Gonna unload this truck real quick](http://9gag.com/gag/agm2jOr)
+ - 👉 [Myke. At 13 yo. MF looks like he already got 3 kids.](http://9gag.com/gag/aW42dw2)<!-- MEMES:END -->
 
 ---
 
