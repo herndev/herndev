@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - ⏩ [Magical.](http://9gag.com/gag/a2vb911)
- - 👉 [Even older by now](http://9gag.com/gag/aZZ2vM6)<!-- MEMES:END -->
+ - ⏩ [Even older by now](http://9gag.com/gag/aZZ2vM6)
+ - 👉 [And we have a winner](http://9gag.com/gag/aGy2oX5)<!-- MEMES:END -->
 
 ---
 
