@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Source: Amazon is developing software for humanoid robots to deliver packages and is near completion of an indoor &quot;humanoid park&quot; in San Francisco to test them &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250604/p48#a250604p48)
- - [The witchhunt is on in Wicked: For Good&amp;#8217;s first trailer](https://www.theverge.com/trailers/680142/wicked-for-good-trailler)
- - [MongoDB reports Q1 revenue up 22% YoY to $549M, vs. $527.5M est., net loss down 54% to $37.6M, and increases its full-year guidance; MDB up 14%+ after hours &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250604/p47#a250604p47)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-5/#ftag=CAD590a51e)
+ - [The witchhunt is on in Wicked: For Good&amp;#8217;s first trailer](https://www.theverge.com/trailers/680142/wicked-for-good-trailler)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
