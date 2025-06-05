@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This MMO can run Doom: EVE Frontier is so moddable, players are building entire games within its space survival sandbox, and the devs say it&#39;s just the beginning](https://www.pcgamer.com/games/mmo/this-mmo-can-run-doom-eve-frontier-is-so-moddable-players-are-building-entire-games-within-its-space-survival-sandbox-and-the-devs-say-its-just-the-beginning/)
- - [How to unlock all outfits in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/603767/outfits-unlock-requiremenets-list-all-how-to)
- - [Don&#39;t Make This Mistake When Setting Up Your Switch 2](https://kotaku.com/switch-2-system-transfer-setup-skip-animal-crossing-1851783784)<!-- GAME:END -->
+ - [Next and current banners in Genshin Impact](https://www.pcgamer.com/games/rpg/genshin-impact-banner-next-current/)
+ - [Get Every Borderlands Game And All The DLC For Only $35 On Steam](https://kotaku.com/borderlands-2-free-big-pc-franchise-steam-sale-3-dlc-1851783794)
+ - [Borderlands 2 is free to keep on Steam and it&#39;s getting review-bombed at the same time because of, uh, the EULA?](https://www.pcgamer.com/games/fps/borderlands-2-is-free-to-keep-on-steam-and-its-getting-review-bombed-at-the-same-time-because-of-uh-the-eula/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
