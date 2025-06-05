@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 13s debuts with a Gemini feature not even Pixels have](https://www.androidauthority.com/oneplus-13s-gemini-lock-screen-shortcut-3564203/)
  - [Volvo’s new seatbelts use real-time data to adapt to different body types](https://www.theverge.com/news/679359/volvo-seatbelt-adapt-body-type-sensor-ota)
- - [Xiaomi Smart Band 10 leaks in full, from renders to specs](https://www.androidauthority.com/xiaomi-smart-band-10-leak-3564444/)
- - [Counterpoint has revised its 2025 global smartphone shipment growth forecast to 1.9% YoY, down from 4.2%, citing &quot;renewed uncertainties surrounding US tariffs&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250605/p9#a250605p9)<!-- TECH:END -->
+ - [Xiaomi Smart Band 10 leaks in full, from renders to specs](https://www.androidauthority.com/xiaomi-smart-band-10-leak-3564444/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
