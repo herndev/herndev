@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wing and Walmart are bringing drone delivery to 100 new stores](https://www.theverge.com/news/680723/walmart-wing-drone-delivery-expand-cities-100-stores)
- - [&#39;Sniper Elite 5&#39; brings brutal WWII action to iPhone, iPad, and Mac in 2026](https://appleinsider.com/articles/25/06/05/sniper-elite-5-brings-brutal-wwii-action-to-iphone-ipad-and-mac-in-2026?utm_medium=rss)
- - [Trump says Elon Musk &quot;went CRAZY&quot; and that canceling his government contracts is &quot;the easiest way to save money&quot;, as their One Big Beautiful bill feud escalates &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250605/p37#a250605p37)<!-- TECH:END -->
+ - [Broadcom reports Q2 revenue up 20% YoY to $15B, vs. $14.96B est., net income up 134% YoY to $4.97B, and sales from the AI industry up 46% YoY to $4.4B+ &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250605/p39#a250605p39)
+ - [Google’s latest experiment gives you advice from the mentor you always wished you had](https://www.androidauthority.com/google-portraits-gemini-3564749/)
+ - [PSA: Google Pixel 9a is still at an al-time low price!](https://www.androidauthority.com/google-pixel-9a-deal-3-3564745/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
