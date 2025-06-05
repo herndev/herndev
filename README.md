@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One bored GTA 6 fan managed to recreate Jason&#39;s house in Far Cry 5 Arcade, and it&#39;s almost a shot-for-shot recreation](https://www.pcgamer.com/games/rpg/one-bored-gta-6-fan-managed-to-recreate-jasons-house-in-far-cry-5-arcade-and-its-almost-a-shot-for-shot-recreation/)
- - [&#39;When&#39;s Marvel?&#39; Next year, as Guilty Gear studio Arc System Works takes the classic superhero tag-team fighter for a ride with a new 4v4 format](https://www.pcgamer.com/games/fighting/whens-marvel-next-year-as-guilty-gear-studio-arc-system-works-takes-the-classic-superhero-tag-team-fighter-for-a-ride-with-a-new-4v4-format/)
- - [Thief VR is a huge slap on the face and kick in the teeth for everyone who has been waiting for more than a decade to return to the City](https://www.pcgamer.com/games/vr/thief-vr-is-a-huge-slap-on-the-face-and-kick-in-the-teeth-for-everyone-who-has-been-waiting-for-more-than-a-decade-to-return-to-the-city/)<!-- GAME:END -->
+ - [Final Fantasy Tactics Is One Of The Best Games Ever And It&#39;s Getting A Remaster This September](https://kotaku.com/final-fantasy-tactics-remake-switch-2-ps5-2d-hd-1851783601)
+ - [Coming to Game Pass: EA Sports FC 25, The Alters, FBC: Firebreak, and More](https://news.xbox.com/en-us/2025/06/05/xbox-game-pass-june-2025-wave-1/)
+ - [The 7 Most Jaw-Dropping Money In The Bank Cash-Ins](https://kotaku.com/money-in-the-bank-wwe-john-cena-cm-punk-cody-rhodes-1851783517)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
