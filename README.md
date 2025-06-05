@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apparently there&#39;s going to be a Sam Altman movie about his Lazarus-like career stumble, which I&#39;m sure I&#39;ll reluctantly watch on a plane at some point](https://www.pcgamer.com/hardware/apparently-theres-going-to-be-a-sam-altman-movie-about-his-lazarus-like-career-stumble-which-im-sure-ill-reluctantly-watch-on-a-plane-at-some-point/)
- - [Helldivers 2 Force of Law Warbond launches June 12](https://blog.playstation.com/2025/06/05/helldivers-2-force-of-law-warbond-launches-june-12/)
- - [Helldivers 2 Force of Law Warbond launches June 12](https://blog.playstation.com/2025/06/05/helldivers-2-force-of-law-warbond-launches-june-12/)<!-- GAME:END -->
+ - [How to get iron in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-iron-location/)
+ - [How to get wool in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-wool-location/)
+ - [Apparently there&#39;s going to be a Sam Altman movie about his Lazarus-like career stumble, which I&#39;m sure I&#39;ll reluctantly watch on a plane at some point](https://www.pcgamer.com/hardware/apparently-theres-going-to-be-a-sam-altman-movie-about-his-lazarus-like-career-stumble-which-im-sure-ill-reluctantly-watch-on-a-plane-at-some-point/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
