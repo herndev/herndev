@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Psycho](http://9gag.com/gag/abA2KRB)
- - ⏩ [Gonna unload this truck real quick](http://9gag.com/gag/agm2jOr)
- - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
+ - 💣 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
+ - ⏩ [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
+ - 👉 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)<!-- MEMES:END -->
 
 ---
 
