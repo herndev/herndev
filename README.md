@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ seized ~145 domains and crypto linked to BidenCash, a dark web market that made $17M+ in revenue since 2022 by selling stolen credit cards and more &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/250604/p44#a250604p44)
- - [Qualcomm CEO downplays importance of Apple relationship after C1 modem](https://appleinsider.com/articles/25/06/04/qualcomm-ceo-downplays-importance-of-apple-relationship-after-c1-modem?utm_medium=rss)
- - [Your Apple Watch Might Not Be as Accurate as You Think, New Study Finds](https://www.cnet.com/health/fitness/your-apple-watch-might-not-be-as-accurate-as-you-think-new-study-finds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: OpenAI seeks to block a May 13 court order requiring it to preserve all ChatGPT logs, including deleted chats, arguing it poses a risk to users&#39; privacy &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250604/p45#a250604p45)
+ - [Sony State of Play: 007 First Light, Marvel Tokon and Everything Announced](https://www.cnet.com/tech/gaming/sony-state-of-play-007-first-light-marvel-tokon-and-everything-announced/#ftag=CAD590a51e)
+ - [007 First Light Makes a Bold Move by Retelling Bond&#39;s Origin Story](https://www.cnet.com/tech/gaming/007-first-light-makes-a-bold-move-by-retelling-bonds-origin-story/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
