@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13s debuts with a Gemini feature not even Pixels have](https://www.androidauthority.com/oneplus-13s-gemini-lock-screen-shortcut-3564203/)
- - [Volvo’s new seatbelts use real-time data to adapt to different body types](https://www.theverge.com/news/679359/volvo-seatbelt-adapt-body-type-sensor-ota)
- - [Xiaomi Smart Band 10 leaks in full, from renders to specs](https://www.androidauthority.com/xiaomi-smart-band-10-leak-3564444/)<!-- TECH:END -->
+ - [China’s rare earth restrictions halt first auto industry production lines](https://www.theverge.com/news/680247/auto-manufacturing-halt-cars-china-rare-earth-minerals-magnets)
+ - [Nintendo launches the Switch 2 globally, with long queues outside stores and midnight openings; analysts expect Nintendo to sell 15M to 20M Switch 2 units &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250605/p11#a250605p11)
+ - [Some creatives and academics are rejecting AI on environmental and ethical grounds, and describe the pressure they feel to use AI to &quot;keep up&quot; with others &lpar;Emine Saner/The Guardian&rpar;](http://www.techmeme.com/250605/p10#a250605p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
