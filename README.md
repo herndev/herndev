@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: OpenAI seeks to block a May 13 court order requiring it to preserve all ChatGPT logs, including deleted chats, arguing it poses a risk to users&#39; privacy &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250604/p45#a250604p45)
- - [Sony State of Play: 007 First Light, Marvel Tokon and Everything Announced](https://www.cnet.com/tech/gaming/sony-state-of-play-007-first-light-marvel-tokon-and-everything-announced/#ftag=CAD590a51e)
- - [007 First Light Makes a Bold Move by Retelling Bond&#39;s Origin Story](https://www.cnet.com/tech/gaming/007-first-light-makes-a-bold-move-by-retelling-bonds-origin-story/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MongoDB reports Q1 revenue up 22% YoY to $549M, vs. $527.5M est., net loss down 54% to $37.6M, and increases its full-year guidance; MDB up 14%+ after hours &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250604/p47#a250604p47)
+ - [Wobkey Crush 80 Reboot Lite mechanical keyboard review: Toned down with easy access](https://appleinsider.com/articles/25/06/05/wobkey-crush-80-reboot-lite-mechanical-keyboard-review-toned-down-with-easy-access?utm_medium=rss)
+ - [Document: Xiaohongshu, a TikTok alternative known in the US as Rednote, has surged to a $26B valuation based on recent market transactions via a GSR fund &lpar;Echo Wong/Bloomberg&rpar;](http://www.techmeme.com/250604/p46#a250604p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
