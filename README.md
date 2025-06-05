@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bounce lets you move from Bluesky to Mastodon without losing followers](https://www.theverge.com/news/678928/bounce-bluesky-mastodon-bridgy-fed-tool-followers)
- - [Narwal’s Freo X Ultra, one of our favorite robovacs, is 60 percent off](https://www.theverge.com/tech/680505/narwhal-freo-x-ultra-robot-vacuum-jbl-go-4-deal-sale)
- - [Anthropic CEO says a 10-year moratorium on AI regulation is &quot;far too blunt an instrument&quot; and calls for US federal transparency standards for AI companies &lpar;Dario Amodei/New York Times&rpar;](http://www.techmeme.com/250605/p28#a250605p28)<!-- TECH:END -->
+ - [Shares of Circle jumped 124%, opening at $69.50 on the NYSE, after the stablecoin company raised almost $1.1B in an IPO &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250605/p32#a250605p32)
+ - [Midea is recalling its U-shaped air conditioners because of potential mold growth](https://www.theverge.com/news/680570/midea-u-shaped-smart-window-air-conditioner-recall-refund)
+ - [Nintendo’s GameCube Controller for the Switch 2 is back in stock](https://www.theverge.com/tech/673515/nintendo-switch-2-gamecube-controller-launch-restock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
