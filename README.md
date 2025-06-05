@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give him a hand](http://9gag.com/gag/a2vbGV9)
- - ⏩ [War](http://9gag.com/gag/a5Qj5DL)
+ - 💣 [Psycho](http://9gag.com/gag/abA2KRB)
+ - ⏩ [Gonna unload this truck real quick](http://9gag.com/gag/agm2jOr)
  - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
 
 ---
