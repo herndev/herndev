@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pan-European consumer group BEUC files a complaint with the EC against Shein over its alleged use of &quot;dark patterns&quot;, after targeting Temu in 2024 &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/250605/p6#a250605p6)
- - [Edinburgh-based Wordsmith, whose AI tools help legal teams automate contract and policy reviews, raised a $25M Series A led by Index Ventures &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250605/p5#a250605p5)
- - [20% HP Coupon Code &amp; Deals | June 2025](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
+ - [Volvo’s new seatbelts use real-time data to adapt to different body types](https://www.theverge.com/news/679359/volvo-seatbelt-adapt-body-type-sensor-ota)
+ - [Xiaomi Smart Band 10 leaks in full, from renders to specs](https://www.androidauthority.com/xiaomi-smart-band-10-leak-3564444/)
+ - [Counterpoint has revised its 2025 global smartphone shipment growth forecast to 1.9% YoY, down from 4.2%, citing &quot;renewed uncertainties surrounding US tariffs&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250605/p9#a250605p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
