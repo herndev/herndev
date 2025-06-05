@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
- - ⏩ [What](http://9gag.com/gag/aGy26E6)
- - 👉 [Masturbator in chief](http://9gag.com/gag/amoVKMy)<!-- MEMES:END -->
+ - 💣 [Breaking: Trump and Elon](http://9gag.com/gag/a7oNmex)
+ - ⏩ [Let them fight](http://9gag.com/gag/a7oNBLx)
+ - 👉 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
 
 ---
 
