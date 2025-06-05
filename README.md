@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
  - ⏩ [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
- - 👉 [I feel the force between my legs](http://9gag.com/gag/a2vbjbZ)<!-- MEMES:END -->
+ - 👉 [3 years and still here](http://9gag.com/gag/aZZ2vXn)<!-- MEMES:END -->
 
 ---
 
