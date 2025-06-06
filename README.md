@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Breaking: Trump and Elon](http://9gag.com/gag/a7oNmex)
- - ⏩ [Let them fight](http://9gag.com/gag/a7oNBLx)
- - 👉 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
+ - 💣 [Laugh](http://9gag.com/gag/aLnXr3g)
+ - ⏩ [Activating his superpower](http://9gag.com/gag/a2vbjV1)
+ - 👉 [.....](http://9gag.com/gag/aVv24xK)<!-- MEMES:END -->
 
 ---
 
