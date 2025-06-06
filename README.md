@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google should learn from this rumored Apple Watch app upgrade](https://www.androidauthority.com/apple-watch-third-party-apps-control-center-3564865/)
- - [An interview with ASML CEO Christophe Fouquet, as the company navigates political instability in The Netherlands and abroad and the impacts of Trump&#39;s trade war &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250606/p4#a250606p4)
- - [PSP emulator PPSSPP just made online multiplayer easy for these games](https://www.androidauthority.com/ppsspp-update-1-19-multiplayer-3564834/)<!-- TECH:END -->
+ - [Leak reveals which Apple Watches will get watchOS 26](https://appleinsider.com/articles/25/06/06/leak-reveals-which-apple-watches-will-get-watchos-26?utm_medium=rss)
+ - [Spotify brings playlists, podcasts, and audiobooks to United flights](https://www.theverge.com/news/681113/united-airlines-spotify-audiobooks-podcasts-playlists)
+ - [Samsung Galaxy A26 and Galaxy A36 Review: Fine but Dull Budget Phones](https://www.wired.com/review/samsung-galaxy-a26-and-galaxy-a36/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
