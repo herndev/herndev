@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mission to Zyxx’s creators are laughing their way through the sci-fi spinoff boom](https://www.theverge.com/interview/680526/mission-to-zyxx-the-young-old-derf-chronicles-alden-ford-seth-lind-interview)
- - [A probe found hundreds of ads for &quot;nudify&quot; apps on Meta platforms; Meta removed the ads, and says those behind the apps constantly evolve to avoid detection &lpar;Emmet Lyons/CBS News&rpar;](http://www.techmeme.com/250606/p11#a250606p11)
- - [Breath of the Wild’s Switch 2 enhancements have me exploring Hyrule all over again](https://www.theverge.com/nintendo/681361/nintendo-switch-2-zelda-breath-of-the-wild-edition)<!-- TECH:END -->
+ - [X names Polymarket as its official prediction market partner, with plans to combine Polymarket predictions with X data to deliver live insights &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250606/p13#a250606p13)
+ - [Google is teaming up with Roblox for a new Play Points experience](https://www.androidauthority.com/google-play-points-roblox-3565071/)
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
