@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy S25 Edge is a big phone with small phone energy](https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen)
- - [How to maximize your privacy using Signal calls and chat](https://www.theverge.com/tech/680712/signal-how-to-call-chat-username-privacy)
- - [The Vergecast’s WWDC 2025 preview](https://www.theverge.com/the-vergecast/681147/wwdc-2025-apple-preview-vergecast)<!-- TECH:END -->
+ - [4 reasons why I’ll never switch from Android to iOS](https://www.androidauthority.com/reasons-never-switch-android-to-ios-3564866/)
+ - [Google’s Quick Share could soon play even nicer with Samsung’s Quick Share &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-samsung-quick-share-intercept-download-links-apk-teardown-3564968/)
+ - [UPDF 2.0 is a next-level AI PDF editor available across every platform, available now](https://appleinsider.com/articles/25/06/06/updf-20-is-a-next-level-ai-pdf-editor-available-across-every-platform-available-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
