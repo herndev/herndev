@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best ways to digitize your documents](https://www.theverge.com/how-to/674826/digitize-photos-apple-google-pdf)
- - [Every HomePod should still be compatible with HomePod Software 26](https://appleinsider.com/articles/25/06/06/every-homepod-should-still-be-compatible-with-homepod-software-26?utm_medium=rss)
- - [Google Home is getting even dumber: Now thermostat voice commands are broken](https://www.androidauthority.com/google-home-turn-off-thermostat-broken-command-3564894/)<!-- TECH:END -->
+ - [The Samsung Galaxy S25 Edge is a big phone with small phone energy](https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen)
+ - [How to maximize your privacy using Signal calls and chat](https://www.theverge.com/tech/680712/signal-how-to-call-chat-username-privacy)
+ - [The Vergecast’s WWDC 2025 preview](https://www.theverge.com/the-vergecast/681147/wwdc-2025-apple-preview-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
