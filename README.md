@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Gachiakuta trailer is loud and angry as the anime adaptation should be](https://www.polygon.com/anime/604354/gachiakuta-trailer)
  - [Next and current banners in Genshin Impact](https://www.pcgamer.com/games/rpg/genshin-impact-banner-next-current/)
- - [Get Every Borderlands Game And All The DLC For Only $35 On Steam](https://kotaku.com/borderlands-2-free-big-pc-franchise-steam-sale-3-dlc-1851783794)
- - [Borderlands 2 is free to keep on Steam and it&#39;s getting review-bombed at the same time because of, uh, the EULA?](https://www.pcgamer.com/games/fps/borderlands-2-is-free-to-keep-on-steam-and-its-getting-review-bombed-at-the-same-time-because-of-uh-the-eula/)<!-- GAME:END -->
+ - [Get Every Borderlands Game And All The DLC For Only $35 On Steam](https://kotaku.com/borderlands-2-free-big-pc-franchise-steam-sale-3-dlc-1851783794)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
