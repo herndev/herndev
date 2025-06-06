@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move over regular flagships, the first dust-resistant and waterproof foldable is coming](https://www.androidauthority.com/dust-proof-water-resistant-foldable-phone-3564828/)
- - [6 Best Clitoral Suction Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-clitoral-suction-toys/)
- - [Samsung just &lpar;accidentally?&rpar; confirmed the Galaxy Z Flip 7, Fold 7](https://www.androidauthority.com/samsung-accidentally-confirm-galaxy-z-flip-7-fold-7-3564809/)<!-- TECH:END -->
+ - [Google should learn from this rumored Apple Watch app upgrade](https://www.androidauthority.com/apple-watch-third-party-apps-control-center-3564865/)
+ - [An interview with ASML CEO Christophe Fouquet, as the company navigates political instability in The Netherlands and abroad and the impacts of Trump&#39;s trade war &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250606/p4#a250606p4)
+ - [PSP emulator PPSSPP just made online multiplayer easy for these games](https://www.androidauthority.com/ppsspp-update-1-19-multiplayer-3564834/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
