@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - ⏩ [Let them fight](http://9gag.com/gag/a7oNBLx)
+ - 💣 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
+ - ⏩ [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
  - 👉 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)<!-- MEMES:END -->
 
 ---
