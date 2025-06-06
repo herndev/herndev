@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [I don\u2019t know how USA citizens can wake up in the morning for another episode of national embarrassment.](http://9gag.com/gag/a6ZpgBm)
  - ⏩ [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
- - 👉 [Techno music intensifies...](http://9gag.com/gag/aAyX5Ro)<!-- MEMES:END -->
+ - 👉 [The story of Adam and Eve](http://9gag.com/gag/aRB29dy)<!-- MEMES:END -->
 
 ---
 
