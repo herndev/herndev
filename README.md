@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Overcome with joy receiving a husky puppy for his birthday](http://9gag.com/gag/a9yX42W)
- - ⏩ [Even noble knights deserve a break from the scrolls](http://9gag.com/gag/aoy8o9x)
- - 👉 [He gave him a traditional name](http://9gag.com/gag/aGy26qX)<!-- MEMES:END -->
+ - 💣 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
+ - ⏩ [Let them fight](http://9gag.com/gag/a7oNBLx)
+ - 👉 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)<!-- MEMES:END -->
 
 ---
 
