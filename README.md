@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Link Respects Women](https://kotaku.com/legend-zelda-tears-kingdom-switch-2-zelda-notes-app-1851783900)
- - [A24 launches bizarre website to connect horror movies Talk to Me, Bring Her Back](https://www.polygon.com/horror/604581/talk-to-me-bring-her-back-connections-black-angel-tapes-website)
- - [&#39;Forever cherished for who you were and what you helped achieve&#39;: 10 years after his death, Larian Studios pays tribute to composer Kirill Pokrovsky](https://www.pcgamer.com/games/forever-cherished-for-who-you-were-and-what-you-helped-achieve-10-years-after-his-death-larian-studios-pays-tribute-to-composer-kirill-pokrovsky/)<!-- GAME:END -->
+ - [Switch 2 Is Selling Out But Nintendo Believes It Can &#39;Meet The Demand&#39; Through The Holiday](https://kotaku.com/switch-2-out-of-stock-gamestop-best-buy-walmart-target-1851783914)
+ - [Mario Kart World Players Are Pulling Off Some Incredible Stunts After Only One Day](https://kotaku.com/mario-kart-world-switch-2-clips-stunts-rewind-wall-1851783907)
+ - [All Mario Kart World kart and vehicle list](https://www.polygon.com/mario-kart-world-guides/604371/kart-vehicle-unlock-stats-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
