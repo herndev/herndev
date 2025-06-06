@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 Is Selling Out But Nintendo Believes It Can &#39;Meet The Demand&#39; Through The Holiday](https://kotaku.com/switch-2-out-of-stock-gamestop-best-buy-walmart-target-1851783914)
- - [Mario Kart World Players Are Pulling Off Some Incredible Stunts After Only One Day](https://kotaku.com/mario-kart-world-switch-2-clips-stunts-rewind-wall-1851783907)
- - [All Mario Kart World kart and vehicle list](https://www.polygon.com/mario-kart-world-guides/604371/kart-vehicle-unlock-stats-list)<!-- GAME:END -->
+ - [Lies of P: Overture out today, full gameplay details revealed](https://blog.playstation.com/2025/06/06/lies-of-p-overture-out-today-full-gameplay-details-revealed/)
+ - [Sega Throws Shade At Mario Kart While Showing Off Sonic Racing: Crossworlds](https://kotaku.com/sonic-racing-crossworlds-sgf-trailer-yakuza-persona-1851783930)
+ - [Sonic Racing dev calls out Mario Kart World](https://www.polygon.com/news/604754/sonic-racing-crossworlds-mario-kart-world-callout)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
