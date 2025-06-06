@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to watch the Xbox Games Showcase 2025 and Outer Worlds 2 Direct](https://www.polygon.com/events/603555/xbox-showcase-2025-where-to-watch-start-times-outer-worlds-2-direct)
- - [&#39;John Nightreign doesn&#39;t have a face&#39;: YouTuber manages to uncover all but one of Elden Ring Nightreign&#39;s hidden Nightfarer faces, &#39;leaving his appearance a mystery&#39;](https://www.pcgamer.com/games/rpg/john-nightreign-doesnt-have-a-face-youtuber-manages-to-uncover-all-but-one-of-elden-ring-nightreigns-hidden-nightfarer-faces-leaving-his-appearance-a-mystery/)
- - [Ro-Souls 3 is &#39;a sharp and precise recreation&#39; of Dark Souls 3 in Roblox, and it&#39;s training up a whole new generation of soulslike demons](https://www.pcgamer.com/games/rpg/ro-souls-3-is-a-sharp-and-precise-recreation-of-dark-souls-3-in-roblox-and-its-training-up-a-whole-new-generation-of-soulslike-demons/)<!-- GAME:END -->
+ - [GOALS – Xbox Insider Playtest is Available Today!](https://news.xbox.com/en-us/2025/06/06/goals-xbox-insider-playtest-is-available-today/)
+ - [Mario Kart World: Four Essential Tips To Improve Your Racing Skills](https://kotaku.com/mario-kart-world-best-tips-boxes-coins-grinding-drift-1851783857)
+ - [Resident Alien is finally leaning into science fiction, with time travel, cyborgs, and alien abductions](https://www.polygon.com/tv/604472/resident-alien-season-4-interviews-science-fiction-twists)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
