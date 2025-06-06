@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [YES , i am interested](http://9gag.com/gag/a6ZpgjN)
- - ⏩ [My Childhood Hero and inspiration -the Queen of the N\u00fcrburgring.](http://9gag.com/gag/aQz2bye)
- - 👉 [I don\u2019t know how USA citizens can wake up in the morning for another episode of national embarrassment.](http://9gag.com/gag/a6ZpgBm)<!-- MEMES:END -->
+ - 💣 [Maybe keep the window closed](http://9gag.com/gag/avyvXBX)
+ - ⏩ [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
+ - 👉 [I would stay](http://9gag.com/gag/a0eEDgq)<!-- MEMES:END -->
 
 ---
 
