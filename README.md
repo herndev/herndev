@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 reasons why I’ll never switch from Android to iOS](https://www.androidauthority.com/reasons-never-switch-android-to-ios-3564866/)
- - [Google’s Quick Share could soon play even nicer with Samsung’s Quick Share &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-samsung-quick-share-intercept-download-links-apk-teardown-3564968/)
- - [UPDF 2.0 is a next-level AI PDF editor available across every platform, available now](https://appleinsider.com/articles/25/06/06/updf-20-is-a-next-level-ai-pdf-editor-available-across-every-platform-available-now?utm_medium=rss)<!-- TECH:END -->
+ - [8BitDo’s controllers will work with the Switch 2 after a firmware update](https://www.theverge.com/news/681153/8bitdo-controller-gamepad-nintendo-switch-2-compatible-firmware-update)
+ - [Inside Voice Memos: getting the most out of Apple&#39;s most overlooked app](https://appleinsider.com/inside/ios-18/tips/inside-voice-memos-getting-the-most-out-of-apples-most-overlooked-app?utm_medium=rss)
+ - [Here are the biggest Nintendo Switch 2 launch games you can buy](https://www.theverge.com/tech/681178/nintendo-switch-2-launch-games-how-to-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
