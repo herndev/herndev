@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Access-Ability Summer Showcase returns with the latest in accessible games](https://www.theverge.com/games/679542/access-ability-summer-showcase-2025-best-games-trailers)
- - [Dedicated Games app in iOS 26 will try to help users play together &amp; find new titles](https://appleinsider.com/articles/25/06/06/dedicated-games-app-in-ios-26-will-try-to-help-users-play-together-find-new-titles?utm_medium=rss)
- - [VA used a DOGE AI tool by Gumroad founder Sahil Lavingia that hallucinated contract sizes to cancel 24+ deals; Lavingia says &quot;mistakes were made&quot; &lpar;ProPublica&rpar;](http://www.techmeme.com/250606/p10#a250606p10)<!-- TECH:END -->
+ - [Mission to Zyxx’s creators are laughing their way through the sci-fi spinoff boom](https://www.theverge.com/interview/680526/mission-to-zyxx-the-young-old-derf-chronicles-alden-ford-seth-lind-interview)
+ - [A probe found hundreds of ads for &quot;nudify&quot; apps on Meta platforms; Meta removed the ads, and says those behind the apps constantly evolve to avoid detection &lpar;Emmet Lyons/CBS News&rpar;](http://www.techmeme.com/250606/p11#a250606p11)
+ - [Breath of the Wild’s Switch 2 enhancements have me exploring Hyrule all over again](https://www.theverge.com/nintendo/681361/nintendo-switch-2-zelda-breath-of-the-wild-edition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
