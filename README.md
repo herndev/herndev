@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini now lets you schedule tasks ahead of time](https://www.androidauthority.com/gemini-scheduled-actions-rollout-3565152/)
- - [&#39;100% Stupid&#39;: MAGA World Is Cautiously Turning on Elon Musk](https://www.wired.com/story/100-stupid-maga-trump-cautiously-turning-elon-musk/)
- - [iPadOS 26 at WWDC 25: Bold design rumors, Multitasking changes, more](https://appleinsider.com/articles/25/06/06/ipados-26-at-wwdc-25-bold-design-rumors-multitasking-changes-more?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube has once again figured out how to stop some of your favorite ways to block ads](https://www.androidauthority.com/youtube-ad-blocker-crackdown-continues-3565165/)
+ - [A new scam is targeting iPhone users with fake traffic fines](https://appleinsider.com/articles/25/06/06/a-new-scam-is-targeting-iphone-users-with-fake-traffic-fines?utm_medium=rss)
+ - [Google Gemini can now handle scheduled tasks like an assistant](https://www.theverge.com/news/681762/google-gemini-scheduled-actions-planned-tasks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
