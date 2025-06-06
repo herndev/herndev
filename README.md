@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let them fight](http://9gag.com/gag/a7oNBLx)
- - ⏩ [Magical.](http://9gag.com/gag/a2vb911)
- - 👉 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
+ - 💣 [Grab the popcorn!](http://9gag.com/gag/aKGYZ33)
+ - ⏩ [And we have a winner](http://9gag.com/gag/aGy2oX5)
+ - 👉 [France VPN subscription](http://9gag.com/gag/aLnXVPA)<!-- MEMES:END -->
 
 ---
 
