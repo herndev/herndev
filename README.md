@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Oirbo: How to Explore a Seamless World](https://news.xbox.com/en-us/2025/06/05/oirbo-how-to-explore-a-seamless-world/)
  - [The Gachiakuta trailer is loud and angry as the anime adaptation should be](https://www.polygon.com/anime/604354/gachiakuta-trailer)
- - [Next and current banners in Genshin Impact](https://www.pcgamer.com/games/rpg/genshin-impact-banner-next-current/)
- - [Get Every Borderlands Game And All The DLC For Only $35 On Steam](https://kotaku.com/borderlands-2-free-big-pc-franchise-steam-sale-3-dlc-1851783794)<!-- GAME:END -->
+ - [Next and current banners in Genshin Impact](https://www.pcgamer.com/games/rpg/genshin-impact-banner-next-current/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
