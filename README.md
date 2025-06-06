@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This camo-wrapped RTX 5060 has a real nostalgic flair, but I prefer the screen-integrated prototype GPU MSI showed me at Computex 2025](https://www.pcgamer.com/hardware/graphics-cards/this-camo-wrapped-rtx-5060-has-a-real-nostalgic-flair-but-i-prefer-the-screen-integrated-prototype-gpu-msi-showed-me-at-computex-2025/)
- - [How to watch the Summer Game Fest livestream](https://www.pcgamer.com/games/how-to-watch-the-summer-game-fest-livestream/)
- - [Today&#39;s Wordle answer for Friday, June 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-6-2025/)<!-- GAME:END -->
+ - [Marvel Tōkon&amp;#8217;s anime inspirations flip the script on the Capcom era](https://www.polygon.com/gaming/604203/marvel-tokon-anime-inspirations-capcom-xmen)
+ - [Sneeze and this incredibly tiny postage-stamp-sized Atari computer recreation is a goner](https://www.pcgamer.com/hardware/sneeze-and-this-incredibly-tiny-postage-stamp-sized-atari-computer-recreation-is-a-goner/)
+ - [Elden Ring Nightreign servers shut down this morning &#39;to improve expedition matchmaking&#39; but it&#39;s royally screwed some unprepared players](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-servers-shut-down-this-morning-to-improve-expedition-matchmaking-but-its-royally-screwed-some-unprepared-players/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
