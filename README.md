@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grab the popcorn!](http://9gag.com/gag/aKGYZ33)
- - ⏩ [And we have a winner](http://9gag.com/gag/aGy2oX5)
- - 👉 [France VPN subscription](http://9gag.com/gag/aLnXVPA)<!-- MEMES:END -->
+ - 💣 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
+ - ⏩ [Lmao](http://9gag.com/gag/avyvDBO)
+ - 👉 [Magical.](http://9gag.com/gag/a2vb911)<!-- MEMES:END -->
 
 ---
 
