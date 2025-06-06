@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don\u2019t know how USA citizens can wake up in the morning for another episode of national embarrassment.](http://9gag.com/gag/a6ZpgBm)
- - ⏩ [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
- - 👉 [The story of Adam and Eve](http://9gag.com/gag/aRB29dy)<!-- MEMES:END -->
+ - 💣 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
+ - ⏩ [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
+ - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
 
 ---
 
