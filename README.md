@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lies of P: Overture out today, full gameplay details revealed](https://blog.playstation.com/2025/06/06/lies-of-p-overture-out-today-full-gameplay-details-revealed/)
- - [Sega Throws Shade At Mario Kart While Showing Off Sonic Racing: Crossworlds](https://kotaku.com/sonic-racing-crossworlds-sgf-trailer-yakuza-persona-1851783930)
- - [Sonic Racing dev calls out Mario Kart World](https://www.polygon.com/news/604754/sonic-racing-crossworlds-mario-kart-world-callout)<!-- GAME:END -->
+ - [Resident Evil 9 Executive Producer Announces He&#39;s Not Ready To Announce It Just Yet](https://kotaku.com/re9-resident-evil-9-trailer-teaser-sgf-summer-game-fest-1851783941)
+ - [Wildgate, the match-based Sea of Thieves in space from Mike Morhaime&#39;s new game company, launches this July](https://www.pcgamer.com/games/action/wildgate-the-match-based-sea-of-thieves-in-space-from-mike-morhaimes-new-game-company-launches-this-july/)
+ - [Mads Mikkelsen is reprising his Casino Royale role to become Hitman&#39;s next elusive target](https://www.pcgamer.com/games/action/mads-mikkelsen-is-reprising-his-casino-royale-role-to-become-hitmans-next-elusive-target/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
