@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That dog was like `you just saw that too right?`](http://9gag.com/gag/aQz2N2w)
- - ⏩ [Mic drop](http://9gag.com/gag/axyP8wM)
- - 👉 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
+ - 💣 [Overcome with joy receiving a husky puppy for his birthday](http://9gag.com/gag/a9yX42W)
+ - ⏩ [Even noble knights deserve a break from the scrolls](http://9gag.com/gag/aoy8o9x)
+ - 👉 [He gave him a traditional name](http://9gag.com/gag/aGy26qX)<!-- MEMES:END -->
 
 ---
 
