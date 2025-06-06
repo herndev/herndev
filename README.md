@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is appealing a court order in the NYT case requiring it to keep ChatGPT outputs indefinitely, saying it conflicts with its privacy commitments to users &lpar;Reuters&rpar;](http://www.techmeme.com/250606/p2#a250606p2)
- - [Peacock Promo Code &amp; Deals: 16% Off June 2025](https://www.wired.com/story/peacock-promo-code/)
- - [Thread AI, which offers a composable infrastructure platform to help companies build AI workflows, raised a $20M Series A led by Greycroft &lpar;Fortune&rpar;](http://www.techmeme.com/250606/p1#a250606p1)<!-- TECH:END -->
+ - [Samsung just &lpar;accidentally?&rpar; confirmed the Galaxy Z Flip 7, Fold 7](https://www.androidauthority.com/samsung-accidentally-confirm-galaxy-z-flip-7-fold-7-3564809/)
+ - [How spyware, posing as an app from a humanitarian organization, spread among Syrian army officers via Telegram, and fueled the collapse of the Assad regime &lpar;Mobile Hacker&rpar;](http://www.techmeme.com/250606/p3#a250606p3)
+ - [OpenAI is appealing a court order in the NYT case requiring it to keep ChatGPT outputs indefinitely, saying it conflicts with its privacy commitments to users &lpar;Reuters&rpar;](http://www.techmeme.com/250606/p2#a250606p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
