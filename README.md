@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zenless Zone Zero: Out on Xbox Now](https://www.xbox.com/en-us/games/store/zenless-zone-zero/9n4x0wfz2stm#new_tab)
- - [How to fast travel in Dune: Awakening](https://www.pcgamer.com/games/mmo/dune-awakening-fast-travel/)
- - [Epic CEO Tim Sweeney takes yet another victory lap after Apple&#39;s latest appeal fails: &#39;The long national nightmare of the Apple tax is ended&#39;](https://www.pcgamer.com/gaming-industry/epic-ceo-tim-sweeney-takes-yet-another-victory-lap-after-apples-latest-appeal-fails-the-long-national-nightmare-of-the-apple-tax-is-ended/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for June 9 to 13](https://news.xbox.com/en-us/2025/06/06/next-week-on-xbox-new-games-for-june-9-to-13/)
+ - [A Gamestop store has reportedly been stapling customer receipts to Switch 2 boxes and puncturing holes in the screens](https://www.pcgamer.com/hardware/handheld-gaming-pcs/a-gamestop-store-has-reportedly-been-stapling-customer-receipts-to-switch-2-boxes-and-puncturing-holes-in-the-screens/)
+ - [Half-Life 2 becomes a loot-hoarding roguelike dungeon crawl in this Next Fest mod demo](https://www.pcgamer.com/games/fps/half-life-2-becomes-a-loot-hoarding-roguelike-dungeon-crawl-in-this-next-fest-mod-demo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
