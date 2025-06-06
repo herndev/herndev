@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley&#39;s Peter Pan update is coming in two weeks, alongside a shiny new Star Path and the ability to level up your animal companions](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valleys-peter-pan-update-is-coming-in-two-weeks-alongside-a-shiny-new-star-path-and-the-ability-to-level-up-your-animal-companions/)
- - [Fans Desperate For Half-Life 3 Are Tracking Gabe Newell&#39;s Superyacht In Hopes Of Manifesting A Summer Game Fest Miracle](https://kotaku.com/half-life-3-leak-sgf-2025-rumor-gabe-newell-yacht-1851783832)
- - [Celebrate Diablo IV’s 2nd Anniversary!](https://news.blizzard.com/article/24209999#new_tab)<!-- GAME:END -->
+ - [Where to watch the Xbox Games Showcase 2025 and Outer Worlds 2 Direct](https://www.polygon.com/events/603555/xbox-showcase-2025-where-to-watch-start-times-outer-worlds-2-direct)
+ - [&#39;John Nightreign doesn&#39;t have a face&#39;: YouTuber manages to uncover all but one of Elden Ring Nightreign&#39;s hidden Nightfarer faces, &#39;leaving his appearance a mystery&#39;](https://www.pcgamer.com/games/rpg/john-nightreign-doesnt-have-a-face-youtuber-manages-to-uncover-all-but-one-of-elden-ring-nightreigns-hidden-nightfarer-faces-leaving-his-appearance-a-mystery/)
+ - [Ro-Souls 3 is &#39;a sharp and precise recreation&#39; of Dark Souls 3 in Roblox, and it&#39;s training up a whole new generation of soulslike demons](https://www.pcgamer.com/games/rpg/ro-souls-3-is-a-sharp-and-precise-recreation-of-dark-souls-3-in-roblox-and-its-training-up-a-whole-new-generation-of-soulslike-demons/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
