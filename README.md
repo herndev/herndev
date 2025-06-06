@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shield Technology Partners, which provides an AI-enabled managed IT service platform, launches with over $100M from Thrive Holdings and ZBS Partners &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250605/p43#a250605p43)
  - [An interview with Runway CEO Cris Valenzuela on expediting the movie-making process, copyright cases, why using Runway is like using a camera, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250605/p42#a250605p42)
- - [Silicon Valley Is Starting to Pick Sides in Musk and Trump’s Breakup](https://www.wired.com/story/musk-trump-feud-venture-capitalists-pick-sides/)
- - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
+ - [Silicon Valley Is Starting to Pick Sides in Musk and Trump’s Breakup](https://www.wired.com/story/musk-trump-feud-venture-capitalists-pick-sides/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
