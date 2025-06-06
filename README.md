@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for June 9 to 13](https://news.xbox.com/en-us/2025/06/06/next-week-on-xbox-new-games-for-june-9-to-13/)
- - [A Gamestop store has reportedly been stapling customer receipts to Switch 2 boxes and puncturing holes in the screens](https://www.pcgamer.com/hardware/handheld-gaming-pcs/a-gamestop-store-has-reportedly-been-stapling-customer-receipts-to-switch-2-boxes-and-puncturing-holes-in-the-screens/)
- - [Half-Life 2 becomes a loot-hoarding roguelike dungeon crawl in this Next Fest mod demo](https://www.pcgamer.com/games/fps/half-life-2-becomes-a-loot-hoarding-roguelike-dungeon-crawl-in-this-next-fest-mod-demo/)<!-- GAME:END -->
+ - [The long-awaited successor to cult hit &#39;anti-RPG&#39; Moon hits Steam later this year](https://www.pcgamer.com/games/rpg/the-long-awaited-successor-to-cult-hit-anti-rpg-moon-hits-steam-later-this-year/)
+ - [Black Myth: Wukong is finally coming to Xbox](https://www.polygon.com/gaming/604366/black-myth-wukong-xbox-release-coming)
+ - [How to use blood purifiers in Dune: Awakening](https://www.pcgamer.com/games/mmo/dune-awakening-blood-purifiers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
