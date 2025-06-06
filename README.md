@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tune in to Summer Game Fest 2025](https://www.youtube.com/watch?v=-Hr6Q2hln_M#new_tab)
- - [7 Things We Love And 4 Things We Hate About The Switch 2](https://kotaku.com/switch-2-review-best-things-list-hate-love-nintendo-1851783873)
- - [Summer Game Fest 2025: All the news, trailers, and world premieres](https://www.polygon.com/news/604402/summer-game-fest-2025-sgf-news-trailers-premieres-list)<!-- GAME:END -->
+ - [Link Respects Women](https://kotaku.com/legend-zelda-tears-kingdom-switch-2-zelda-notes-app-1851783900)
+ - [A24 launches bizarre website to connect horror movies Talk to Me, Bring Her Back](https://www.polygon.com/horror/604581/talk-to-me-bring-her-back-connections-black-angel-tapes-website)
+ - [&#39;Forever cherished for who you were and what you helped achieve&#39;: 10 years after his death, Larian Studios pays tribute to composer Kirill Pokrovsky](https://www.pcgamer.com/games/forever-cherished-for-who-you-were-and-what-you-helped-achieve-10-years-after-his-death-larian-studios-pays-tribute-to-composer-kirill-pokrovsky/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
