@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
- - ⏩ [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
- - 👉 [What](http://9gag.com/gag/aGy26E6)<!-- MEMES:END -->
+ - 💣 [Divorce is so messy](http://9gag.com/gag/a34WgRN)
+ - ⏩ [My Childhood Hero and inspiration -the Queen of the N\u00fcrburgring.](http://9gag.com/gag/aQz2bye)
+ - 👉 [Fu*k Your Shit](http://9gag.com/gag/amoVynj)<!-- MEMES:END -->
 
 ---
 
