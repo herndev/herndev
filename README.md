@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Virtual chronic care company Omada Health closed up 21% in its Nasdaq debut after raising about $150M in its IPO, valuing the company at just over $1B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250606/p21#a250606p21)
- - [iFixit Says Switch 2 Is Probably Still Drift Prone](https://www.wired.com/story/ifixit-says-switch-2-is-probably-still-drift-prone/)
- - [TikTok dodges U.S. ban -- again -- as Trump administration pushes deadline back](https://appleinsider.com/articles/25/06/06/tiktok-dodges-us-ban----again----as-trump-administration-pushes-deadline-back?utm_medium=rss)<!-- TECH:END -->
+ - [Summer Game Fest 2025: all the news, trailers, and announcements](https://www.theverge.com/games/679598/summer-game-fest-2025-trailers-news)
+ - [The Nintendo Switch 2 is here: all of the launch news](https://www.theverge.com/news/676901/nintendo-switch-2-launch-here)
+ - [Killer Inn is Square Enix’s new ‘murder mystery action’ game](https://www.theverge.com/news/680731/killer-inn-square-enix-murder-mystery-action-game-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
