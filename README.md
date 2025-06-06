@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Summer Game Fest 2025: all the news, trailers, and announcements](https://www.theverge.com/games/679598/summer-game-fest-2025-trailers-news)
- - [The Nintendo Switch 2 is here: all of the launch news](https://www.theverge.com/news/676901/nintendo-switch-2-launch-here)
- - [Killer Inn is Square Enix’s new ‘murder mystery action’ game](https://www.theverge.com/news/680731/killer-inn-square-enix-murder-mystery-action-game-trailer)<!-- TECH:END -->
+ - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Wu-Tang Clan’s new video game project is ‘for the culture’](https://www.theverge.com/games/681702/wu-tang-clan-rise-of-the-deciever-summer-game-fest)
+ - [Ray-Ban Meta Glasses drop to a record-low price!](https://www.androidauthority.com/ray-ban-meta-glasses-deal-3565262/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
