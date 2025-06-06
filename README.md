@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hahahahahaha. This just keeps getting better and better](http://9gag.com/gag/aE0Xjqp)
- - ⏩ [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
- - 👉 [Activating his superpower](http://9gag.com/gag/a2vbjV1)<!-- MEMES:END -->
+ - 💣 [Magical.](http://9gag.com/gag/a2vb911)
+ - ⏩ [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
+ - 👉 [Explaining the situation to the police](http://9gag.com/gag/a4PqBAp)<!-- MEMES:END -->
 
 ---
 
