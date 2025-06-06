@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The long-awaited successor to cult hit &#39;anti-RPG&#39; Moon hits Steam later this year](https://www.pcgamer.com/games/rpg/the-long-awaited-successor-to-cult-hit-anti-rpg-moon-hits-steam-later-this-year/)
- - [Black Myth: Wukong is finally coming to Xbox](https://www.polygon.com/gaming/604366/black-myth-wukong-xbox-release-coming)
- - [How to use blood purifiers in Dune: Awakening](https://www.pcgamer.com/games/mmo/dune-awakening-blood-purifiers/)<!-- GAME:END -->
+ - [Disney Dreamlight Valley&#39;s Peter Pan update is coming in two weeks, alongside a shiny new Star Path and the ability to level up your animal companions](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valleys-peter-pan-update-is-coming-in-two-weeks-alongside-a-shiny-new-star-path-and-the-ability-to-level-up-your-animal-companions/)
+ - [Fans Desperate For Half-Life 3 Are Tracking Gabe Newell&#39;s Superyacht In Hopes Of Manifesting A Summer Game Fest Miracle](https://kotaku.com/half-life-3-leak-sgf-2025-rumor-gabe-newell-yacht-1851783832)
+ - [Celebrate Diablo IV’s 2nd Anniversary!](https://news.blizzard.com/article/24209999#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
