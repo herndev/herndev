@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe keep the window closed](http://9gag.com/gag/avyvXBX)
- - ⏩ [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
- - 👉 [I would stay](http://9gag.com/gag/a0eEDgq)<!-- MEMES:END -->
+ - 💣 [I don\u2019t know how USA citizens can wake up in the morning for another episode of national embarrassment.](http://9gag.com/gag/a6ZpgBm)
+ - ⏩ [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
+ - 👉 [Techno music intensifies...](http://9gag.com/gag/aAyX5Ro)<!-- MEMES:END -->
 
 ---
 
