@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What](http://9gag.com/gag/aGy26E6)
+ - 💣 [That dog was like `you just saw that too right?`](http://9gag.com/gag/aQz2N2w)
  - ⏩ [Mic drop](http://9gag.com/gag/axyP8wM)
- - 👉 [That dog was like `you just saw that too right?`](http://9gag.com/gag/aQz2N2w)<!-- MEMES:END -->
+ - 👉 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
 
 ---
 
