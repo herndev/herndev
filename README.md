@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magical.](http://9gag.com/gag/a2vb911)
- - ⏩ [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
- - 👉 [Explaining the situation to the police](http://9gag.com/gag/a4PqBAp)<!-- MEMES:END -->
+ - 💣 [A smooth ride through Switzerland&#39;s new bike tunnel.](http://9gag.com/gag/aXP2Gv9)
+ - ⏩ [When You Have a Friend Like That!](http://9gag.com/gag/ayNQZ4b)
+ - 👉 [I feel the force between my legs](http://9gag.com/gag/a2vbjbZ)<!-- MEMES:END -->
 
 ---
 
