@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Psycho](http://9gag.com/gag/abA2KRB)
- - ⏩ [When You Have a Friend Like That!](http://9gag.com/gag/ayNQZ4b)
- - 👉 [I feel the force between my legs](http://9gag.com/gag/a2vbjbZ)<!-- MEMES:END -->
+ - 💣 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
+ - ⏩ [Enid](http://9gag.com/gag/agm26xg)
+ - 👉 [Let them fight](http://9gag.com/gag/a7oNBLx)<!-- MEMES:END -->
 
 ---
 
