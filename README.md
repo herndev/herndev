@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
- - ⏩ [Enid](http://9gag.com/gag/agm26xg)
- - 👉 [Let them fight](http://9gag.com/gag/a7oNBLx)<!-- MEMES:END -->
+ - 💣 [Banned from pub](http://9gag.com/gag/azxZoeZ)
+ - ⏩ [Activating his superpower](http://9gag.com/gag/a2vbjV1)
+ - 👉 [Myke. At 13 yo. MF looks like he already got 3 kids.](http://9gag.com/gag/aW42dw2)<!-- MEMES:END -->
 
 ---
 
