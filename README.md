@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8BitDo’s controllers will work with the Switch 2 after a firmware update](https://www.theverge.com/news/681153/8bitdo-controller-gamepad-nintendo-switch-2-compatible-firmware-update)
- - [Inside Voice Memos: getting the most out of Apple&#39;s most overlooked app](https://appleinsider.com/inside/ios-18/tips/inside-voice-memos-getting-the-most-out-of-apples-most-overlooked-app?utm_medium=rss)
- - [Here are the biggest Nintendo Switch 2 launch games you can buy](https://www.theverge.com/tech/681178/nintendo-switch-2-launch-games-how-to-buy)<!-- TECH:END -->
+ - [The Access-Ability Summer Showcase returns with the latest in accessible games](https://www.theverge.com/games/679542/access-ability-summer-showcase-2025-best-games-trailers)
+ - [Dedicated Games app in iOS 26 will try to help users play together &amp; find new titles](https://appleinsider.com/articles/25/06/06/dedicated-games-app-in-ios-26-will-try-to-help-users-play-together-find-new-titles?utm_medium=rss)
+ - [VA used a DOGE AI tool by Gumroad founder Sahil Lavingia that hallucinated contract sizes to cancel 24+ deals; Lavingia says &quot;mistakes were made&quot; &lpar;ProPublica&rpar;](http://www.techmeme.com/250606/p10#a250606p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
