@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube has once again figured out how to stop some of your favorite ways to block ads](https://www.androidauthority.com/youtube-ad-blocker-crackdown-continues-3565165/)
- - [A new scam is targeting iPhone users with fake traffic fines](https://appleinsider.com/articles/25/06/06/a-new-scam-is-targeting-iphone-users-with-fake-traffic-fines?utm_medium=rss)
- - [Google Gemini can now handle scheduled tasks like an assistant](https://www.theverge.com/news/681762/google-gemini-scheduled-actions-planned-tasks)<!-- TECH:END -->
+ - [Virtual chronic care company Omada Health closed up 21% in its Nasdaq debut after raising about $150M in its IPO, valuing the company at just over $1B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250606/p21#a250606p21)
+ - [iFixit Says Switch 2 Is Probably Still Drift Prone](https://www.wired.com/story/ifixit-says-switch-2-is-probably-still-drift-prone/)
+ - [TikTok dodges U.S. ban -- again -- as Trump administration pushes deadline back](https://appleinsider.com/articles/25/06/06/tiktok-dodges-us-ban----again----as-trump-administration-pushes-deadline-back?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
