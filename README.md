@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak reveals which Apple Watches will get watchOS 26](https://appleinsider.com/articles/25/06/06/leak-reveals-which-apple-watches-will-get-watchos-26?utm_medium=rss)
- - [Spotify brings playlists, podcasts, and audiobooks to United flights](https://www.theverge.com/news/681113/united-airlines-spotify-audiobooks-podcasts-playlists)
- - [Samsung Galaxy A26 and Galaxy A36 Review: Fine but Dull Budget Phones](https://www.wired.com/review/samsung-galaxy-a26-and-galaxy-a36/)<!-- TECH:END -->
+ - [The best ways to digitize your documents](https://www.theverge.com/how-to/674826/digitize-photos-apple-google-pdf)
+ - [Every HomePod should still be compatible with HomePod Software 26](https://appleinsider.com/articles/25/06/06/every-homepod-should-still-be-compatible-with-homepod-software-26?utm_medium=rss)
+ - [Google Home is getting even dumber: Now thermostat voice commands are broken](https://www.androidauthority.com/google-home-turn-off-thermostat-broken-command-3564894/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
