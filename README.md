@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X names Polymarket as its official prediction market partner, with plans to combine Polymarket predictions with X data to deliver live insights &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250606/p13#a250606p13)
- - [Google is teaming up with Roblox for a new Play Points experience](https://www.androidauthority.com/google-play-points-roblox-3565071/)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
+ - [Gemini now lets you schedule tasks ahead of time](https://www.androidauthority.com/gemini-scheduled-actions-rollout-3565152/)
+ - [&#39;100% Stupid&#39;: MAGA World Is Cautiously Turning on Elon Musk](https://www.wired.com/story/100-stupid-maga-trump-cautiously-turning-elon-musk/)
+ - [iPadOS 26 at WWDC 25: Bold design rumors, Multitasking changes, more](https://appleinsider.com/articles/25/06/06/ipados-26-at-wwdc-25-bold-design-rumors-multitasking-changes-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
