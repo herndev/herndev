@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Tōkon&amp;#8217;s anime inspirations flip the script on the Capcom era](https://www.polygon.com/gaming/604203/marvel-tokon-anime-inspirations-capcom-xmen)
- - [Sneeze and this incredibly tiny postage-stamp-sized Atari computer recreation is a goner](https://www.pcgamer.com/hardware/sneeze-and-this-incredibly-tiny-postage-stamp-sized-atari-computer-recreation-is-a-goner/)
- - [Elden Ring Nightreign servers shut down this morning &#39;to improve expedition matchmaking&#39; but it&#39;s royally screwed some unprepared players](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-servers-shut-down-this-morning-to-improve-expedition-matchmaking-but-its-royally-screwed-some-unprepared-players/)<!-- GAME:END -->
+ - [Zenless Zone Zero: Out on Xbox Now](https://www.xbox.com/en-us/games/store/zenless-zone-zero/9n4x0wfz2stm#new_tab)
+ - [How to fast travel in Dune: Awakening](https://www.pcgamer.com/games/mmo/dune-awakening-fast-travel/)
+ - [Epic CEO Tim Sweeney takes yet another victory lap after Apple&#39;s latest appeal fails: &#39;The long national nightmare of the Apple tax is ended&#39;](https://www.pcgamer.com/gaming-industry/epic-ceo-tim-sweeney-takes-yet-another-victory-lap-after-apples-latest-appeal-fails-the-long-national-nightmare-of-the-apple-tax-is-ended/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
