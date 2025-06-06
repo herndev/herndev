@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GOALS – Xbox Insider Playtest is Available Today!](https://news.xbox.com/en-us/2025/06/06/goals-xbox-insider-playtest-is-available-today/)
- - [Mario Kart World: Four Essential Tips To Improve Your Racing Skills](https://kotaku.com/mario-kart-world-best-tips-boxes-coins-grinding-drift-1851783857)
- - [Resident Alien is finally leaning into science fiction, with time travel, cyborgs, and alien abductions](https://www.polygon.com/tv/604472/resident-alien-season-4-interviews-science-fiction-twists)<!-- GAME:END -->
+ - [Tune in to Summer Game Fest 2025](https://www.youtube.com/watch?v=-Hr6Q2hln_M#new_tab)
+ - [7 Things We Love And 4 Things We Hate About The Switch 2](https://kotaku.com/switch-2-review-best-things-list-hate-love-nintendo-1851783873)
+ - [Summer Game Fest 2025: All the news, trailers, and world premieres](https://www.polygon.com/news/604402/summer-game-fest-2025-sgf-news-trailers-premieres-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
