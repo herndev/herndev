@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
- - ⏩ [Lmao](http://9gag.com/gag/avyvDBO)
- - 👉 [Magical.](http://9gag.com/gag/a2vb911)<!-- MEMES:END -->
+ - 💣 [What](http://9gag.com/gag/aGy26E6)
+ - ⏩ [Mic drop](http://9gag.com/gag/axyP8wM)
+ - 👉 [That dog was like `you just saw that too right?`](http://9gag.com/gag/aQz2N2w)<!-- MEMES:END -->
 
 ---
 
