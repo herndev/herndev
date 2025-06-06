@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Live gets real-time captions for more discreet conversations](https://www.androidauthority.com/gemini-live-live-captions-rollout-3564739/)
- - [Elon Musk&#39;s Feud With President Trump Wipes $152 Billion Off Tesla’s Market Cap](https://www.wired.com/story/musk-trump-breakup-tesla-stock-price/)
- - [AMD says it has acquired the team behind AI inference chip developer Untether AI, a day after announcing it acquired AI software optimization startup Brium &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/250605/p40#a250605p40)<!-- TECH:END -->
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+ - [Cellebrite acquires iPhone virtualization firm Corellium for $200M](https://appleinsider.com/articles/25/06/05/cellebrite-acquires-iphone-virtualization-firm-corellium-for-200m?utm_medium=rss)
+ - [Gemini Live gets real-time captions for more discreet conversations](https://www.androidauthority.com/gemini-live-live-captions-rollout-3564739/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
