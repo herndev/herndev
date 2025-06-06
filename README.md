@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - ⏩ [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - 👉 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)<!-- MEMES:END -->
+ - 💣 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
+ - ⏩ [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
+ - 👉 [What](http://9gag.com/gag/aGy26E6)<!-- MEMES:END -->
 
 ---
 
