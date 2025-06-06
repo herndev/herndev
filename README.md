@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What](http://9gag.com/gag/aGy26E6)
- - ⏩ [Psycho](http://9gag.com/gag/abA2KRB)
+ - 💣 [Let them fight](http://9gag.com/gag/a7oNBLx)
+ - ⏩ [Magical.](http://9gag.com/gag/a2vb911)
  - 👉 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
 
 ---
