@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pro gamer move](http://9gag.com/gag/aXP2yK2)
- - ⏩ [Gets the death star in the divorce](http://9gag.com/gag/aAyXobR)
- - 👉 [Your typical day in summer](http://9gag.com/gag/a9yX9mW)<!-- MEMES:END -->
+ - 💣 [Well played](http://9gag.com/gag/aGy24Pz)
+ - ⏩ [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
+ - 👉 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)<!-- MEMES:END -->
 
 ---
 
