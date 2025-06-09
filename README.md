@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
+ - 💣 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
  - ⏩ [When your joke sails right over their heads](http://9gag.com/gag/a5Qj0KO)
- - 👉 [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)<!-- MEMES:END -->
+ - 👉 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)<!-- MEMES:END -->
 
 ---
 
