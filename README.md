@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [15 year old Smokey crossed the bridge today. If you have a sec, please let him know he was a good boy.](http://9gag.com/gag/aryBLP0)
- - ⏩ [Someone made a penny floor but messed up the spelling.](http://9gag.com/gag/aVv2AXv)
- - 👉 [How to build Doors](http://9gag.com/gag/a6ZpRjA)<!-- MEMES:END -->
+ - 💣 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
+ - ⏩ [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)
+ - 👉 [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)<!-- MEMES:END -->
 
 ---
 
