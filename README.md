@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seagate’s new 4TB Xbox expansion card costs more than the Xbox Series S](https://www.theverge.com/news/681254/seagate-4tb-xbox-storage-expansion-card)
- - [Xbox Ally X hands-on: AMD Ryzen AI Z2 Extreme APU, 24GB of RAM, and a 1TB SSD, 1080p games run at 60 FPS with no issues, a slimmed down Windows OS, and more &lpar;IGN&rpar;](http://www.techmeme.com/250609/p13#a250609p13)
- - [Apple Intelligence battery management may debut with iPhone 17 Air](https://appleinsider.com/articles/25/06/09/apple-intelligence-battery-management-may-debut-with-iphone-17-air?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Now Brief’s next feature is one for the hydro homies](https://www.androidauthority.com/samsung-now-brief-water-3565484/)
+ - [Typhur Dome 2 Review &lpar;2025&rpar;: Fast and Bulbous](https://www.wired.com/review/typhur-dome-2-air-fryer/)
+ - [WWDC smart home wishlist, hands on with Find My devices, &amp; Nanoleaf CEO Gimmy Chu on HomeKit Insider](https://appleinsider.com/articles/25/06/09/wwdc-smart-home-wishlist-hands-on-with-find-my-devices-nanoleaf-ceo-gimmy-chu-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
