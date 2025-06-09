@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - ⏩ [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)
- - 👉 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)<!-- MEMES:END -->
+ - 💣 [When you take the costume contest very seriously](http://9gag.com/gag/a2vb6dd)
+ - ⏩ [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 👉 [Lmao who made this](http://9gag.com/gag/a1mL306)<!-- MEMES:END -->
 
 ---
 
