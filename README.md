@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 MacBook Air returns to all-time best $799 price](https://appleinsider.com/articles/25/06/09/m4-macbook-air-returns-to-all-time-best-799-price?utm_medium=rss)
- - [YouTube has loosened its content moderation policies](https://www.theverge.com/news/682784/youtube-loosens-moderation-policies-videos-public-interest)
- - [Play along with the WWDC 2025 bingo game](https://appleinsider.com/articles/25/06/09/play-along-with-the-wwdc-2025-bingo-game?utm_medium=rss)<!-- TECH:END -->
+ - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
+ - [Apple&#39;s Games subdomain surfaces just before WWDC 2025 keynote](https://appleinsider.com/articles/25/06/09/apples-games-subdomain-surfaces-just-before-wwdc-2025-keynote?utm_medium=rss)
+ - [Q&amp;A with Taskrabbit CEO Ania Smith on the Ikea-owned platform&#39;s history, Taskers earning up to $50/hour, AI assistants, zero fees, high suburban use, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250609/p17#a250609p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
