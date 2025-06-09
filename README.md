@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
- - [What iPhones and iPads will run iOS 26 &amp; iPadOS 26](https://appleinsider.com/articles/25/06/09/what-iphones-and-ipads-will-run-ios-26-ipados-26?utm_medium=rss)
- - [Apple WWDC 2025: the 13 biggest announcements](https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26)<!-- TECH:END -->
+ - [Apple’s Liquid Glass redesign doesn’t look like much](https://www.theverge.com/apple/682833/apples-liquid-glass-redesign-doesnt-look-like-much)
+ - [Liquid Glass tvOS redesign is restricted to second-generation Apple TV 4K and later](https://appleinsider.com/articles/25/06/09/liquid-glass-tvos-redesign-is-restricted-to-second-generation-apple-tv-4k-and-later?utm_medium=rss)
+ - [Apple CarPlay is getting widgets and message tapbacks this fall with iOS 26](https://www.theverge.com/news/683644/carplay-apple-ios-26-widgets-live-activities-tapbacks-wwdc-25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
