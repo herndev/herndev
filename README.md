@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The not so bright idea](http://9gag.com/gag/avyvN05)
- - ⏩ [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)
- - 👉 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)<!-- MEMES:END -->
+ - 💣 [Bra](http://9gag.com/gag/aLnXy85)
+ - ⏩ [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
+ - 👉 [The ultimate test of internet culture knowledge.](http://9gag.com/gag/abA2n1b)<!-- MEMES:END -->
 
 ---
 
