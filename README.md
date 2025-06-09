@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - ⏩ [When the lime hits different](http://9gag.com/gag/aXP26pP)
- - 👉 [The not so bright idea](http://9gag.com/gag/avyvN05)<!-- MEMES:END -->
+ - 💣 [15 year old Smokey crossed the bridge today. If you have a sec, please let him know he was a good boy.](http://9gag.com/gag/aryBLP0)
+ - ⏩ [Someone made a penny floor but messed up the spelling.](http://9gag.com/gag/aVv2AXv)
+ - 👉 [How to build Doors](http://9gag.com/gag/a6ZpRjA)<!-- MEMES:END -->
 
 ---
 
