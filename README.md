@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, June 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-9-2025/)
  - [Use watery powers to explore a fantastical desert in Fading Echo](https://www.pcgamer.com/games/action/use-watery-powers-to-explore-a-fantastical-desert-in-fading-echo/)
- - [Blind Descent is an upcoming survival game about a hidden world deep beneath the surface of Mars](https://www.pcgamer.com/games/survival-crafting/blind-descent-is-an-upcoming-survival-game-about-a-hidden-world-deep-beneath-the-surface-of-mars/)
- - [Ninja Action at its Finest!](https://blog.playstation.com/2025/06/08/20250609-shinobi/)<!-- GAME:END -->
+ - [Blind Descent is an upcoming survival game about a hidden world deep beneath the surface of Mars](https://www.pcgamer.com/games/survival-crafting/blind-descent-is-an-upcoming-survival-game-about-a-hidden-world-deep-beneath-the-surface-of-mars/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
