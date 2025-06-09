@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm agrees to acquire UK-listed Alphawave, which makes high-speed chip and connectivity tech for data centers, for $2.4B in cash, set to close in Q1 2026 &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250609/p3#a250609p3)
- - [An interview with Duolingo CEO Luis von Ahn on criticism after Duolingo went &quot;AI-first&quot;, parasocial interactions with &quot;personality&quot;-infused chatbots, and more &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250609/p2#a250609p2)
- - [The main issue with Windows handhelds is Windows, but the Xbox ROG Ally tries to fix that](https://www.androidauthority.com/xbox-rog-ally-3565410/)<!-- TECH:END -->
+ - [Alibaba, Tencent, and other Chinese AI companies temporarily disabled chatbot functions like image recognition during China&#39;s annual college entrance exams &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250609/p6#a250609p6)
+ - [Pixel VIPs app makes an early appearance on the Play Store](https://www.androidauthority.com/pixel-vips-app-listing-play-store-3565421/)
+ - [Getty&#39;s copyright lawsuit against Stability AI begins at London&#39;s High Court, accusing it of unlawfully scraping millions of images; Stability denies the claims &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250609/p5#a250609p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
