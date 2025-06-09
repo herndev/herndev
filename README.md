@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
- - ⏩ [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
+ - 💣 [Showing off strength goes wrong](http://9gag.com/gag/a0eEBRd)
+ - ⏩ [The saddest sight of the year](http://9gag.com/gag/awy4pV8)
  - 👉 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)<!-- MEMES:END -->
 
 ---
