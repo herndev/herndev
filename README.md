@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That mouse is about to have a very bad time.](http://9gag.com/gag/ajPKp1w)
- - ⏩ [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)
- - 👉 [Just keep riding through the water](http://9gag.com/gag/aO81L7E)<!-- MEMES:END -->
+ - 💣 [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
+ - ⏩ [When your joke sails right over their heads](http://9gag.com/gag/a5Qj0KO)
+ - 👉 [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)<!-- MEMES:END -->
 
 ---
 
