@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox is headed to handhelds but its gaming-first UI will also land on existing ROG Ally and ROG Ally X and &#39;other Windows handhelds starting next year&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/xbox-is-headed-to-handhelds-but-its-gaming-first-ui-will-also-land-on-existing-rog-ally-and-rog-ally-x-and-other-windows-handhelds-starting-next-year/)
- - [Of course, Team Cherry didn&#39;t deign to tell anyone that Hollow Knight: Silksong is arriving before Christmas in a weekend of showcases—but via a random Discord message](https://www.pcgamer.com/games/action/of-course-team-cherry-didnt-deign-to-tell-anyone-that-hollow-knight-silksong-is-arriving-before-christmas-in-a-weekend-of-showcases-but-via-a-random-discord-message/)
- - [The Witcher 3 once had a suicide mission ending &#39;inspired by Mass Effect 2,&#39; a quest where Geralt joined the Wild Hunt, and a version of its vampire-focused Blood and Wine DLC without vampires](https://www.pcgamer.com/games/the-witcher/the-witcher-3-once-had-a-suicide-mission-ending-inspired-by-mass-effect-2-a-quest-where-geralt-joined-the-wild-hunt-and-a-version-of-its-vampire-focused-blood-and-wine-dlc-without-vampires/)<!-- GAME:END -->
+ - [I grabbed the free demo of dark new fantasy RPG The Fall of Avalon: Tainted Grail and, boy, does it take Bethesda back to school](https://www.pcgamer.com/games/rpg/i-grabbed-the-free-demo-of-dark-new-fantasy-rpg-the-fall-of-avalon-tainted-grail-and-boy-does-it-take-bethesda-back-to-school/)
+ - [Nintendo made a fantastic Mario Kart, but a half-baked World](https://www.polygon.com/review/605637/mario-kart-world-review-nintendo-switch-2)
+ - [Lian Li&#39;s new Hydroshift AIO cooler doesn&#39;t work properly on some motherboards but it will send you a replacement part if you can&#39;t get around the issue in the BIOS](https://www.pcgamer.com/hardware/cooling/lian-lis-new-hydroshift-aio-cooler-doesnt-work-properly-on-some-motherboards-but-it-will-send-you-a-replacement-part-if-you-cant-get-around-the-issue-in-the-bios/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
