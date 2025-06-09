@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Now Brief’s next feature is one for the hydro homies](https://www.androidauthority.com/samsung-now-brief-water-3565484/)
- - [Typhur Dome 2 Review &lpar;2025&rpar;: Fast and Bulbous](https://www.wired.com/review/typhur-dome-2-air-fryer/)
- - [WWDC smart home wishlist, hands on with Find My devices, &amp; Nanoleaf CEO Gimmy Chu on HomeKit Insider](https://appleinsider.com/articles/25/06/09/wwdc-smart-home-wishlist-hands-on-with-find-my-devices-nanoleaf-ceo-gimmy-chu-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch Apple’s WWDC 2025 keynote](https://www.theverge.com/news/680467/apple-wwdc-2025-keynote-livestream-ios-macos-how-to-watch)
+ - [Apple WWDC 2025 Live: The Keynote Could Bring New Changes to Apple&#39;s Devices](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)
+ - [Samsung Now Brief’s next feature is one for the hydro homies](https://www.androidauthority.com/samsung-now-brief-water-3565484/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
