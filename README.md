@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The main issue with Windows handhelds is Windows, but the Xbox ROG Ally tries to fix that](https://www.androidauthority.com/xbox-rog-ally-3565410/)
- - [Apple WWDC 2025 Live: The Keynote Could Bring New Changes to Apple&#39;s Devices](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)
- - [Cloudflare open sourced an OAuth library mostly written by Claude, showing how AI handles mechanical implementation while humans guide with context and judgment &lpar;Max Mitchell&rpar;](http://www.techmeme.com/250609/p1#a250609p1)<!-- TECH:END -->
+ - [Qualcomm agrees to acquire UK-listed Alphawave, which makes high-speed chip and connectivity tech for data centers, for $2.4B in cash, set to close in Q1 2026 &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250609/p3#a250609p3)
+ - [An interview with Duolingo CEO Luis von Ahn on criticism after Duolingo went &quot;AI-first&quot;, parasocial interactions with &quot;personality&quot;-infused chatbots, and more &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250609/p2#a250609p2)
+ - [The main issue with Windows handhelds is Windows, but the Xbox ROG Ally tries to fix that](https://www.androidauthority.com/xbox-rog-ally-3565410/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
