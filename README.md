@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba, Tencent, and other Chinese AI companies temporarily disabled chatbot functions like image recognition during China&#39;s annual college entrance exams &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250609/p6#a250609p6)
- - [Pixel VIPs app makes an early appearance on the Play Store](https://www.androidauthority.com/pixel-vips-app-listing-play-store-3565421/)
- - [Getty&#39;s copyright lawsuit against Stability AI begins at London&#39;s High Court, accusing it of unlawfully scraping millions of images; Stability denies the claims &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250609/p5#a250609p5)<!-- TECH:END -->
+ - [Documents: since mid-December 2024, YouTube told moderators to prioritize &quot;freedom of expression&quot; over potential harm, exempting political and culture videos &lpar;New York Times&rpar;](http://www.techmeme.com/250609/p10#a250609p10)
+ - [Lab-grown salmon gets FDA approval](https://www.theverge.com/news/682621/wildtype-salmon-fda-approval-lab-grown-cultivated-fish)
+ - [Miss the LG V60’s second screen? This Dual Screen add-on might be the next best thing](https://www.androidauthority.com/retroid-dual-screen-price-specs-3565433/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
