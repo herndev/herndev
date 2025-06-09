@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
- - ⏩ [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)
- - 👉 [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)<!-- MEMES:END -->
+ - 💣 [A massive donation with a skeptical twist.](http://9gag.com/gag/aE0X9ex)
+ - ⏩ [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
+ - 👉 [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)<!-- MEMES:END -->
 
 ---
 
