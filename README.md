@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
- - ⏩ [Know your Metal](http://9gag.com/gag/ayNQjw8)
- - 👉 [Someone made a penny floor but messed up the spelling.](http://9gag.com/gag/aVv2AXv)<!-- MEMES:END -->
+ - 💣 [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - ⏩ [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)
+ - 👉 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)<!-- MEMES:END -->
 
 ---
 
