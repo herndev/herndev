@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A historical comparison meme.](http://9gag.com/gag/aKGYow1)
- - ⏩ [X-ray of extreme sport athlete Travis Pastrana](http://9gag.com/gag/aKGYoG6)
+ - 💣 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
+ - ⏩ [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)
  - 👉 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)<!-- MEMES:END -->
 
 ---
