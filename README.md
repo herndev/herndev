@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Deeper Look at High On Life 2 – Coming to Game Pass This Winter!](https://news.xbox.com/en-us/2025/06/09/high-on-life-2-weapons-xbox-games-showcase/)
- - [Elden Ring Nightreign’s rarest item could be hiding the game’s biggest secret](https://www.polygon.com/culture/605679/elden-ring-nightreign-cord-end-secret-door-twigs)
- - [Beautify Your Nail Gun In Black Ops 6 With High-End Cosmetic Camos](https://kotaku.com/black-ops-6-cod-wz-nail-gun-cosmetics-season-3-3-5-1851784119)<!-- GAME:END -->
+ - [Xbox Games Showcase Deep Dive: The Outer Worlds 2](https://youtu.be/rlvQ-TKA3xI?si=6KmKMVvf6Ll_oMfP#new_tab)
+ - [How Mario Kart World’s weight classes work](https://www.polygon.com/mario-kart-world-guides/605739/weight-classes-all-characters-list-sizes)
+ - [Monster Hunter Wilds’ Has A Giant Fluff Ball Of A Bird You Should Score Items From](https://kotaku.com/monster-hunter-wilds-mh-giant-downy-crake-location-item-1851784123)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
