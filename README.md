@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ninja Action at its Finest!](https://blog.playstation.com/2025/06/08/20250609-shinobi/)
- - [Ninja Action at its Finest!](https://blog.playstation.com/2025/06/08/20250609-shinobi/)
- - [Will Call Of Duty: Black Ops 7 Come To Switch 2?](https://kotaku.com/will-call-of-duty-black-ops-7-come-to-switch-2-1851784023)<!-- GAME:END -->
+ - [Use watery powers to explore a fantastical desert in Fading Echo](https://www.pcgamer.com/games/action/use-watery-powers-to-explore-a-fantastical-desert-in-fading-echo/)
+ - [Blind Descent is an upcoming survival game about a hidden world deep beneath the surface of Mars](https://www.pcgamer.com/games/survival-crafting/blind-descent-is-an-upcoming-survival-game-about-a-hidden-world-deep-beneath-the-surface-of-mars/)
+ - [Ninja Action at its Finest!](https://blog.playstation.com/2025/06/08/20250609-shinobi/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
