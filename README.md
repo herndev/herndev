@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
- - ⏩ [Mexican Henry Cavill Will Steal Your Girl](http://9gag.com/gag/axyPL92)
- - 👉 [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)<!-- MEMES:END -->
+ - 💣 [Mexican Henry Cavill Will Steal Your Girl](http://9gag.com/gag/axyPL92)
+ - ⏩ [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)
+ - 👉 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)<!-- MEMES:END -->
 
 ---
 
