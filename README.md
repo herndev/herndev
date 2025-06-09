@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Report 4](http://9gag.com/gag/aMVXo4R)
- - ⏩ [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
- - 👉 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)<!-- MEMES:END -->
+ - 💣 [Pro gamer move](http://9gag.com/gag/aXP2yK2)
+ - ⏩ [Gets the death star in the divorce](http://9gag.com/gag/aAyXobR)
+ - 👉 [Your typical day in summer](http://9gag.com/gag/a9yX9mW)<!-- MEMES:END -->
 
 ---
 
