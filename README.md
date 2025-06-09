@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
- - ⏩ [When your joke sails right over their heads](http://9gag.com/gag/a5Qj0KO)
- - 👉 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)<!-- MEMES:END -->
+ - ⏩ [Know your Metal](http://9gag.com/gag/ayNQjw8)
+ - 👉 [Someone made a penny floor but messed up the spelling.](http://9gag.com/gag/aVv2AXv)<!-- MEMES:END -->
 
 ---
 
