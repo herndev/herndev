@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 9 Executive Producer Announces He&#39;s Not Ready To Announce It Just Yet](https://kotaku.com/re9-resident-evil-9-trailer-teaser-sgf-summer-game-fest-1851783941)
- - [Wildgate, the match-based Sea of Thieves in space from Mike Morhaime&#39;s new game company, launches this July](https://www.pcgamer.com/games/action/wildgate-the-match-based-sea-of-thieves-in-space-from-mike-morhaimes-new-game-company-launches-this-july/)
- - [Mads Mikkelsen is reprising his Casino Royale role to become Hitman&#39;s next elusive target](https://www.pcgamer.com/games/action/mads-mikkelsen-is-reprising-his-casino-royale-role-to-become-hitmans-next-elusive-target/)<!-- GAME:END -->
+ - [Will Call Of Duty: Black Ops 7 Come To Switch 2?](https://kotaku.com/will-call-of-duty-black-ops-7-come-to-switch-2-1851784023)
+ - [Every game, trailer, and announcement in the PC Gaming Show 2025](https://www.pcgamer.com/gaming-industry/events-conferences/every-game-trailer-and-announcement-in-the-pc-gaming-show-2025/)
+ - [Wanderburg is Howl&#39;s Moving Castle if it were a roguelike where you duke it out as a castle on wheels](https://www.pcgamer.com/games/roguelike/wanderburg-is-howls-moving-castle-if-it-were-a-roguelike-where-you-duke-it-out-as-a-castle-on-wheels/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
