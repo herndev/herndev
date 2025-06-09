@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Games Showcase Deep Dive: The Outer Worlds 2](https://youtu.be/rlvQ-TKA3xI?si=6KmKMVvf6Ll_oMfP#new_tab)
- - [How Mario Kart World’s weight classes work](https://www.polygon.com/mario-kart-world-guides/605739/weight-classes-all-characters-list-sizes)
- - [Monster Hunter Wilds’ Has A Giant Fluff Ball Of A Bird You Should Score Items From](https://kotaku.com/monster-hunter-wilds-mh-giant-downy-crake-location-item-1851784123)<!-- GAME:END -->
+ - [&#39;If Hitman is a single-minded killer and basically the bad guy of the game, Bond is the hero&#39;: IO Interactive talks about shifting priorities for its upcoming 007 game](https://www.pcgamer.com/games/action/if-hitman-is-a-single-minded-killer-and-basically-the-bad-guy-of-the-game-bond-is-the-hero-io-interactive-talks-about-shifting-priorities-for-its-upcoming-007-game/)
+ - [Summer Game Fest Shows That The PS4 Ain&#39;t Dead Yet](https://kotaku.com/summer-game-fest-ps4-games-sonic-call-of-duty-xbox-one-1851784019)
+ - [Introducing ‘The Rig’: Everything under the hood of the PC Gaming Show’s top of the line PC build](https://www.pcgamer.com/hardware/introducing-the-rig-everything-under-the-hood-of-the-pc-gaming-shows-top-of-the-line-pc-build/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
