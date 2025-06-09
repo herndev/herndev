@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3 once had a suicide mission ending &#39;inspired by Mass Effect 2,&#39; a quest where Geralt joined the Wild Hunt, and a version of its vampire-focused Blood and Wine DLC without vampires](https://www.pcgamer.com/games/the-witcher/the-witcher-3-once-had-a-suicide-mission-ending-inspired-by-mass-effect-2-a-quest-where-geralt-joined-the-wild-hunt-and-a-version-of-its-vampire-focused-blood-and-wine-dlc-without-vampires/)
- - [Switch 2 teardown shows that Nintendo hasn&#39;t learned a single lesson from the OG Switch when it comes to repairing it](https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-teardown-shows-that-nintendo-hasnt-learned-a-single-lesson-from-the-og-switch-when-it-comes-to-repairing-it/)
- - [Awaysis, from the makers of the underrated Galak-Z, was inspired by the slapstick physics action of Gang Beasts having one glaring omission—it needed a giant sword](https://www.pcgamer.com/games/action/awaysis-from-the-makers-of-the-underrated-galak-z-was-inspired-by-the-slapstick-physics-action-of-gang-beasts-having-one-glaring-omission-it-needed-a-giant-sword/)<!-- GAME:END -->
+ - [Xbox is headed to handhelds but its gaming-first UI will also land on existing ROG Ally and ROG Ally X and &#39;other Windows handhelds starting next year&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/xbox-is-headed-to-handhelds-but-its-gaming-first-ui-will-also-land-on-existing-rog-ally-and-rog-ally-x-and-other-windows-handhelds-starting-next-year/)
+ - [Of course, Team Cherry didn&#39;t deign to tell anyone that Hollow Knight: Silksong is arriving before Christmas in a weekend of showcases—but via a random Discord message](https://www.pcgamer.com/games/action/of-course-team-cherry-didnt-deign-to-tell-anyone-that-hollow-knight-silksong-is-arriving-before-christmas-in-a-weekend-of-showcases-but-via-a-random-discord-message/)
+ - [The Witcher 3 once had a suicide mission ending &#39;inspired by Mass Effect 2,&#39; a quest where Geralt joined the Wild Hunt, and a version of its vampire-focused Blood and Wine DLC without vampires](https://www.pcgamer.com/games/the-witcher/the-witcher-3-once-had-a-suicide-mission-ending-inspired-by-mass-effect-2-a-quest-where-geralt-joined-the-wild-hunt-and-a-version-of-its-vampire-focused-blood-and-wine-dlc-without-vampires/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
