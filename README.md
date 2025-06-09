@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Showing off strength goes wrong](http://9gag.com/gag/a0eEBRd)
- - ⏩ [The saddest sight of the year](http://9gag.com/gag/awy4pV8)
- - 👉 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)<!-- MEMES:END -->
+ - 💣 [A historical comparison meme.](http://9gag.com/gag/aKGYow1)
+ - ⏩ [X-ray of extreme sport athlete Travis Pastrana](http://9gag.com/gag/aKGYoG6)
+ - 👉 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)<!-- MEMES:END -->
 
 ---
 
