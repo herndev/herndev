@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
- - ⏩ [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
- - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
+ - 💣 [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
+ - ⏩ [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
+ - 👉 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)<!-- MEMES:END -->
 
 ---
 
