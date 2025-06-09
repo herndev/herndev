@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Report 4](http://9gag.com/gag/aMVXo4R)
- - ⏩ [Call me maybe](http://9gag.com/gag/an7DPwo)
- - 👉 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)<!-- MEMES:END -->
+ - ⏩ [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
+ - 👉 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)<!-- MEMES:END -->
 
 ---
 
