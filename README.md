@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you take the costume contest very seriously](http://9gag.com/gag/a2vb6dd)
- - ⏩ [The not so bright idea](http://9gag.com/gag/avyvN05)
- - 👉 [Lmao who made this](http://9gag.com/gag/a1mL306)<!-- MEMES:END -->
+ - 💣 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
+ - ⏩ [When the lime hits different](http://9gag.com/gag/aXP26pP)
+ - 👉 [The not so bright idea](http://9gag.com/gag/avyvN05)<!-- MEMES:END -->
 
 ---
 
