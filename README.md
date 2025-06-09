@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [“Meat” the Future in Super Meat Boy 3D: How Sluggerfly Balanced Nostalgia and Innovation](https://news.xbox.com/en-us/2025/06/09/super-meat-boy-3d-xbox-games-showcase/)
- - [New Death Stranding 2 footage revealed at Summer Game Fest premiere](https://www.polygon.com/news/604600/death-stranding-2-footage-premiere-summer-game-fest)
- - [Splitgate 2 Boss Says $80 Skin Bundle &#39;Slipped Through The Cracks&#39;](https://kotaku.com/splitgate-2-skin-bundle-prices-call-duty-maga-hat-1851784073)<!-- GAME:END -->
+ - [Resonance: A Plague Tale Legacy Takes the Beloved Series in a New, Exhilarating Direction](https://news.xbox.com/en-us/2025/06/09/resonance-plague-tale-legacy-xbox-games-showcase/)
+ - [I spoke with Arm about PC gaming and was told that Windows software compatibility is &#39;largely a solved problem&#39;](https://www.pcgamer.com/hardware/processors/i-spoke-with-arm-about-pc-gaming-and-was-told-that-windows-software-compatibility-is-largely-a-solved-problem/)
+ - [Even when he&#39;s meant to be talking about watches, Henry Cavill&#39;s downright giddy over producing Warhammer 40k&#39;s upcoming Amazon series, says it&#39;s &#39;a challenge I&#39;m enjoying enormously&#39;](https://www.pcgamer.com/movies-tv/even-when-hes-meant-to-be-talking-about-watches-henry-cavills-downright-giddy-over-producing-warhammer-40ks-upcoming-amazon-series-says-its-a-challenge-im-enjoying-enormously/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
