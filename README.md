@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;If Hitman is a single-minded killer and basically the bad guy of the game, Bond is the hero&#39;: IO Interactive talks about shifting priorities for its upcoming 007 game](https://www.pcgamer.com/games/action/if-hitman-is-a-single-minded-killer-and-basically-the-bad-guy-of-the-game-bond-is-the-hero-io-interactive-talks-about-shifting-priorities-for-its-upcoming-007-game/)
- - [Summer Game Fest Shows That The PS4 Ain&#39;t Dead Yet](https://kotaku.com/summer-game-fest-ps4-games-sonic-call-of-duty-xbox-one-1851784019)
- - [Introducing ‘The Rig’: Everything under the hood of the PC Gaming Show’s top of the line PC build](https://www.pcgamer.com/hardware/introducing-the-rig-everything-under-the-hood-of-the-pc-gaming-shows-top-of-the-line-pc-build/)<!-- GAME:END -->
+ - [Black Ops 7, Invincible Vs &amp; More — Here Are The 5 Games That Stole Microsoft’s Show](https://kotaku.com/black-ops-7-invincible-vs-5-games-stole-microsoft-show-1851784143)
+ - [Dune Awakening base building guide: Best locations and design tips](https://www.pcgamer.com/games/mmo/dune-awakening-best-base-locations-building-guide/)
+ - [How to unlock characters in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/603321/unlock-characters-all-how-to-methods)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
