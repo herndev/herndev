@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Will Call Of Duty: Black Ops 7 Come To Switch 2?](https://kotaku.com/will-call-of-duty-black-ops-7-come-to-switch-2-1851784023)
- - [Every game, trailer, and announcement in the PC Gaming Show 2025](https://www.pcgamer.com/gaming-industry/events-conferences/every-game-trailer-and-announcement-in-the-pc-gaming-show-2025/)
- - [Wanderburg is Howl&#39;s Moving Castle if it were a roguelike where you duke it out as a castle on wheels](https://www.pcgamer.com/games/roguelike/wanderburg-is-howls-moving-castle-if-it-were-a-roguelike-where-you-duke-it-out-as-a-castle-on-wheels/)<!-- GAME:END -->
+ - [Ninja Action at its Finest!](https://blog.playstation.com/2025/06/08/20250609-shinobi/)
+ - [Ninja Action at its Finest!](https://blog.playstation.com/2025/06/08/20250609-shinobi/)
+ - [Will Call Of Duty: Black Ops 7 Come To Switch 2?](https://kotaku.com/will-call-of-duty-black-ops-7-come-to-switch-2-1851784023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
