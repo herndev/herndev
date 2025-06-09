@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
- - [Apple&#39;s Games subdomain surfaces just before WWDC 2025 keynote](https://appleinsider.com/articles/25/06/09/apples-games-subdomain-surfaces-just-before-wwdc-2025-keynote?utm_medium=rss)
- - [Q&amp;A with Taskrabbit CEO Ania Smith on the Ikea-owned platform&#39;s history, Taskers earning up to $50/hour, AI assistants, zero fees, high suburban use, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250609/p17#a250609p17)<!-- TECH:END -->
+ - [A livestream of Apple&#39;s WWDC 2025 keynote &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/250609/p20#a250609p20)
+ - [A live blog of WWDC, where OS redesigns, new naming conventions, and more are expected, after failing to deliver on Apple Intelligence, unveiled at WWDC 2024 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250609/p19#a250609p19)
+ - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
