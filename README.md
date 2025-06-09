@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Liquid Glass redesign doesn’t look like much](https://www.theverge.com/apple/682833/apples-liquid-glass-redesign-doesnt-look-like-much)
- - [Liquid Glass tvOS redesign is restricted to second-generation Apple TV 4K and later](https://appleinsider.com/articles/25/06/09/liquid-glass-tvos-redesign-is-restricted-to-second-generation-apple-tv-4k-and-later?utm_medium=rss)
- - [Apple CarPlay is getting widgets and message tapbacks this fall with iOS 26](https://www.theverge.com/news/683644/carplay-apple-ios-26-widgets-live-activities-tapbacks-wwdc-25)<!-- TECH:END -->
+ - [Be strong, let everyone else risk their devices and data with the new betas](https://appleinsider.com/articles/25/06/09/be-strong-let-everyone-else-risk-their-devices-and-data-with-the-new-betas?utm_medium=rss)
+ - [The biggest changes coming to your iPhone with iOS 26](https://www.theverge.com/news/683738/apple-iphone-ios-26-changes-liquid-glass-wwdc-2025)
+ - [US prosecutors charge Iurii Gugnin, founder of US-based crypto payments service Evita Pay, with laundering $500M+, including to sanctioned Russian entities &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250609/p40#a250609p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
