@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
- - ⏩ [The not so bright idea](http://9gag.com/gag/avyvN05)
- - 👉 [Call me maybe](http://9gag.com/gag/an7DPwo)<!-- MEMES:END -->
+ - 💣 [Report 4](http://9gag.com/gag/aMVXo4R)
+ - ⏩ [Call me maybe](http://9gag.com/gag/an7DPwo)
+ - 👉 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)<!-- MEMES:END -->
 
 ---
 
