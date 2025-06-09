@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Awaysis, from the makers of the underrated Galak-Z, was inspired by the slapstick physics action of Gang Beasts having one glaring omission—it needed a giant sword](https://www.pcgamer.com/games/action/awaysis-from-the-makers-of-the-underrated-galak-z-was-inspired-by-the-slapstick-physics-action-of-gang-beasts-having-one-glaring-omission-it-needed-a-giant-sword/)
  - [Every videogame showcase is a PC gaming show now](https://www.pcgamer.com/gaming-industry/every-videogame-showcase-is-a-pc-gaming-show-now/)
- - [Today&#39;s Wordle answer for Monday, June 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-9-2025/)
- - [Use watery powers to explore a fantastical desert in Fading Echo](https://www.pcgamer.com/games/action/use-watery-powers-to-explore-a-fantastical-desert-in-fading-echo/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, June 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-9-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
