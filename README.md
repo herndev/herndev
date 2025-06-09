@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26 brings big changes to Music, Maps, and Wallet](https://appleinsider.com/articles/25/06/09/ios-26-brings-big-changes-to-music-maps-and-wallet?utm_medium=rss)
- - [iOS 26 and macOS Tahoe are coming this fall](https://www.theverge.com/news/675819/ios-26-macos-tahoe-26-release-date-apple-wwdc-2025)
- - [iOS 26 is here with Liquid Glass redesign, new Camera, and Apple Intelligence promises](https://appleinsider.com/articles/25/06/09/ios-26-is-here-with-liquid-glass-redesign-new-camera-and-apple-intelligence-promises?utm_medium=rss)<!-- TECH:END -->
+ - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
+ - [What iPhones and iPads will run iOS 26 &amp; iPadOS 26](https://appleinsider.com/articles/25/06/09/what-iphones-and-ipads-will-run-ios-26-ipados-26?utm_medium=rss)
+ - [Apple WWDC 2025: the 13 biggest announcements](https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
