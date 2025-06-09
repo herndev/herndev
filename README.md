@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resonance: A Plague Tale Legacy Takes the Beloved Series in a New, Exhilarating Direction](https://news.xbox.com/en-us/2025/06/09/resonance-plague-tale-legacy-xbox-games-showcase/)
- - [I spoke with Arm about PC gaming and was told that Windows software compatibility is &#39;largely a solved problem&#39;](https://www.pcgamer.com/hardware/processors/i-spoke-with-arm-about-pc-gaming-and-was-told-that-windows-software-compatibility-is-largely-a-solved-problem/)
- - [Even when he&#39;s meant to be talking about watches, Henry Cavill&#39;s downright giddy over producing Warhammer 40k&#39;s upcoming Amazon series, says it&#39;s &#39;a challenge I&#39;m enjoying enormously&#39;](https://www.pcgamer.com/movies-tv/even-when-hes-meant-to-be-talking-about-watches-henry-cavills-downright-giddy-over-producing-warhammer-40ks-upcoming-amazon-series-says-its-a-challenge-im-enjoying-enormously/)<!-- GAME:END -->
+ - [A Grounded Take on Dark Fantasy &amp; Vampires – Story, Design and Combat in The Blood of Dawnwalker](https://news.xbox.com/en-us/2025/06/09/the-blood-of-dawnwalker-details-xbox-games-showcase/)
+ - [D&amp;#038;D’s next big game won’t play anything like BG3 — and with the director of Jedi: Survivor, that’s the point](https://www.polygon.com/dnd-dungeons-dragons/605631/dnd-video-game-giant-skull-wizards-interview)
+ - [Techland boss says Dying Light 2 &#39;forgot&#39; what made the series special, but Dying Light: The Beast gets back on track: &#39;For us, this really is Dying Light 3&#39;](https://www.pcgamer.com/games/action/techland-boss-says-dying-light-2-forgot-what-made-the-series-special-but-dying-light-the-beast-gets-back-on-track-for-us-this-really-is-dying-light-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
