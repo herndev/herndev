@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare open sourced an OAuth library mostly written by Claude, showing how AI handles mechanical implementation while humans guide with context and judgment &lpar;Max Mitchell&rpar;](http://www.techmeme.com/250609/p1#a250609p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 9, #259](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-9-259/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, June 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-9/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The main issue with Windows handhelds is Windows, but the Xbox ROG Ally tries to fix that](https://www.androidauthority.com/xbox-rog-ally-3565410/)
+ - [Apple WWDC 2025 Live: The Keynote Could Bring New Changes to Apple&#39;s Devices](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)
+ - [Cloudflare open sourced an OAuth library mostly written by Claude, showing how AI handles mechanical implementation while humans guide with context and judgment &lpar;Max Mitchell&rpar;](http://www.techmeme.com/250609/p1#a250609p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
