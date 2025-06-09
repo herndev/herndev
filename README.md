@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Wu-Tang Clan’s new video game project is ‘for the culture’](https://www.theverge.com/games/681702/wu-tang-clan-rise-of-the-deciever-summer-game-fest)
- - [Ray-Ban Meta Glasses drop to a record-low price!](https://www.androidauthority.com/ray-ban-meta-glasses-deal-3565262/)<!-- TECH:END -->
+ - [CB Insights: VCs and private equity firms poured $3.1B to fund 144 deals in the LA area in Q1 2025, up from $2.7B in Q1 2024 and $1.4B in Q1 2023 &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/250608/p16#a250608p16)
+ - [Apple WWDC 2025 Live: The Keynote Could Bring New Changes to Apple&#39;s Devices](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)
+ - [Black Ops 7 Dives Back Into the Shadows With Mason and Menendez](https://www.cnet.com/tech/gaming/black-ops-7-dives-back-into-the-shadows-with-mason-and-menendez/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
