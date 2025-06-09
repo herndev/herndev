@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: since mid-December 2024, YouTube told moderators to prioritize &quot;freedom of expression&quot; over potential harm, exempting political and culture videos &lpar;New York Times&rpar;](http://www.techmeme.com/250609/p10#a250609p10)
- - [Lab-grown salmon gets FDA approval](https://www.theverge.com/news/682621/wildtype-salmon-fda-approval-lab-grown-cultivated-fish)
- - [Miss the LG V60’s second screen? This Dual Screen add-on might be the next best thing](https://www.androidauthority.com/retroid-dual-screen-price-specs-3565433/)<!-- TECH:END -->
+ - [Seagate’s new 4TB Xbox expansion card costs more than the Xbox Series S](https://www.theverge.com/news/681254/seagate-4tb-xbox-storage-expansion-card)
+ - [Xbox Ally X hands-on: AMD Ryzen AI Z2 Extreme APU, 24GB of RAM, and a 1TB SSD, 1080p games run at 60 FPS with no issues, a slimmed down Windows OS, and more &lpar;IGN&rpar;](http://www.techmeme.com/250609/p13#a250609p13)
+ - [Apple Intelligence battery management may debut with iPhone 17 Air](https://appleinsider.com/articles/25/06/09/apple-intelligence-battery-management-may-debut-with-iphone-17-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
