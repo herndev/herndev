@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bra](http://9gag.com/gag/aLnXy85)
- - ⏩ [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
- - 👉 [The ultimate test of internet culture knowledge.](http://9gag.com/gag/abA2n1b)<!-- MEMES:END -->
+ - 💣 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
+ - ⏩ [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 👉 [Call me maybe](http://9gag.com/gag/an7DPwo)<!-- MEMES:END -->
 
 ---
 
