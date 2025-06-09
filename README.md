@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Atlus promises it hasn&#39;t forgotten how to make new Persona games, says it&#39;s &#39;actively preparing for&#39; something I&#39;d bet money is Persona 6](https://www.pcgamer.com/games/rpg/atlus-promises-it-hasnt-forgotten-how-to-make-new-persona-games-says-its-actively-preparing-for-something-id-bet-money-is-persona-6/)
- - [Move over Ashcroft, Resident Evil 9 will have its T-virus poster boy back in the limelight according to notable Resi leaker: &#39;Leon Kennedy is not the only playable character but he is the main character&#39;](https://www.pcgamer.com/games/horror/move-over-ashcroft-resident-evil-9-will-have-its-t-virus-poster-boy-back-in-the-limelight-according-to-notable-resi-leaker-leon-kennedy-is-not-the-only-playable-character-but-he-is-the-main-character/)
- - [I grabbed the free demo of dark new fantasy RPG The Fall of Avalon: Tainted Grail and, boy, does it take Bethesda back to school](https://www.pcgamer.com/games/rpg/i-grabbed-the-free-demo-of-dark-new-fantasy-rpg-the-fall-of-avalon-tainted-grail-and-boy-does-it-take-bethesda-back-to-school/)<!-- GAME:END -->
+ - [“Meat” the Future in Super Meat Boy 3D: How Sluggerfly Balanced Nostalgia and Innovation](https://news.xbox.com/en-us/2025/06/09/super-meat-boy-3d-xbox-games-showcase/)
+ - [New Death Stranding 2 footage revealed at Summer Game Fest premiere](https://www.polygon.com/news/604600/death-stranding-2-footage-premiere-summer-game-fest)
+ - [Splitgate 2 Boss Says $80 Skin Bundle &#39;Slipped Through The Cracks&#39;](https://kotaku.com/splitgate-2-skin-bundle-prices-call-duty-maga-hat-1851784073)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
