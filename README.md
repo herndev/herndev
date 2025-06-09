@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Ops 7, Invincible Vs &amp; More — Here Are The 5 Games That Stole Microsoft’s Show](https://kotaku.com/black-ops-7-invincible-vs-5-games-stole-microsoft-show-1851784143)
- - [Dune Awakening base building guide: Best locations and design tips](https://www.pcgamer.com/games/mmo/dune-awakening-best-base-locations-building-guide/)
- - [How to unlock characters in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/603321/unlock-characters-all-how-to-methods)<!-- GAME:END -->
+ - [I Miss When Handheld Gaming Was Its Own Thing](https://kotaku.com/xbox-handheld-rog-ally-x-preview-impressions-asus-pc-1851784152)
+ - [Update These Five Switch 2 Settings Before You Start Playing](https://kotaku.com/switch-2-settings-hdr-charging-internet-sleep-mode-1851784149)
+ - [All character weight classes in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/605739/weight-classes-all-characters-list-sizes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
