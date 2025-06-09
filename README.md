@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A livestream of Apple&#39;s WWDC 2025 keynote &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/250609/p20#a250609p20)
- - [A live blog of WWDC, where OS redesigns, new naming conventions, and more are expected, after failing to deliver on Apple Intelligence, unveiled at WWDC 2024 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250609/p19#a250609p19)
- - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)<!-- TECH:END -->
+ - [iOS 26 brings big changes to Music, Maps, and Wallet](https://appleinsider.com/articles/25/06/09/ios-26-brings-big-changes-to-music-maps-and-wallet?utm_medium=rss)
+ - [iOS 26 and macOS Tahoe are coming this fall](https://www.theverge.com/news/675819/ios-26-macos-tahoe-26-release-date-apple-wwdc-2025)
+ - [iOS 26 is here with Liquid Glass redesign, new Camera, and Apple Intelligence promises](https://appleinsider.com/articles/25/06/09/ios-26-is-here-with-liquid-glass-redesign-new-camera-and-apple-intelligence-promises?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
