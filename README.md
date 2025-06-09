@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Be strong, let everyone else risk their devices and data with the new betas](https://appleinsider.com/articles/25/06/09/be-strong-let-everyone-else-risk-their-devices-and-data-with-the-new-betas?utm_medium=rss)
- - [The biggest changes coming to your iPhone with iOS 26](https://www.theverge.com/news/683738/apple-iphone-ios-26-changes-liquid-glass-wwdc-2025)
- - [US prosecutors charge Iurii Gugnin, founder of US-based crypto payments service Evita Pay, with laundering $500M+, including to sanctioned Russian entities &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250609/p40#a250609p40)<!-- TECH:END -->
+ - [Apple says macOS 26 Tahoe will be the last release of macOS that supports Intel Macs, with future macOS versions only available to Apple Silicon Macs &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250609/p41#a250609p41)
+ - [iOS 26’s new ‘adaptive power’ mode dials back performance to save battery](https://www.theverge.com/news/683797/ios-26s-new-adaptive-power-mode-dials-back-performance-to-save-battery)
+ - [You make all your iPhone icons clear in iOS 26 -- if you want to](https://appleinsider.com/articles/25/06/09/you-make-all-your-iphone-icons-clear-in-ios-26----if-you-want-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
