@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mexican Henry Cavill Will Steal Your Girl](http://9gag.com/gag/axyPL92)
- - ⏩ [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)
- - 👉 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)<!-- MEMES:END -->
+ - 💣 [That mouse is about to have a very bad time.](http://9gag.com/gag/ajPKp1w)
+ - ⏩ [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)
+ - 👉 [Just keep riding through the water](http://9gag.com/gag/aO81L7E)<!-- MEMES:END -->
 
 ---
 
