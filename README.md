@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Grounded Take on Dark Fantasy &amp; Vampires – Story, Design and Combat in The Blood of Dawnwalker](https://news.xbox.com/en-us/2025/06/09/the-blood-of-dawnwalker-details-xbox-games-showcase/)
- - [D&amp;#038;D’s next big game won’t play anything like BG3 — and with the director of Jedi: Survivor, that’s the point](https://www.polygon.com/dnd-dungeons-dragons/605631/dnd-video-game-giant-skull-wizards-interview)
- - [Techland boss says Dying Light 2 &#39;forgot&#39; what made the series special, but Dying Light: The Beast gets back on track: &#39;For us, this really is Dying Light 3&#39;](https://www.pcgamer.com/games/action/techland-boss-says-dying-light-2-forgot-what-made-the-series-special-but-dying-light-the-beast-gets-back-on-track-for-us-this-really-is-dying-light-3/)<!-- GAME:END -->
+ - [A Deeper Look at High On Life 2 – Coming to Game Pass This Winter!](https://news.xbox.com/en-us/2025/06/09/high-on-life-2-weapons-xbox-games-showcase/)
+ - [Elden Ring Nightreign’s rarest item could be hiding the game’s biggest secret](https://www.polygon.com/culture/605679/elden-ring-nightreign-cord-end-secret-door-twigs)
+ - [Beautify Your Nail Gun In Black Ops 6 With High-End Cosmetic Camos](https://kotaku.com/black-ops-6-cod-wz-nail-gun-cosmetics-season-3-3-5-1851784119)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
