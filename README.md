@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Apple’s WWDC 2025 keynote](https://www.theverge.com/news/680467/apple-wwdc-2025-keynote-livestream-ios-macos-how-to-watch)
- - [Apple WWDC 2025 Live: The Keynote Could Bring New Changes to Apple&#39;s Devices](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)
- - [Samsung Now Brief’s next feature is one for the hydro homies](https://www.androidauthority.com/samsung-now-brief-water-3565484/)<!-- TECH:END -->
+ - [M4 MacBook Air returns to all-time best $799 price](https://appleinsider.com/articles/25/06/09/m4-macbook-air-returns-to-all-time-best-799-price?utm_medium=rss)
+ - [YouTube has loosened its content moderation policies](https://www.theverge.com/news/682784/youtube-loosens-moderation-policies-videos-public-interest)
+ - [Play along with the WWDC 2025 bingo game](https://appleinsider.com/articles/25/06/09/play-along-with-the-wwdc-2025-bingo-game?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
