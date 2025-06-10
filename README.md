@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Repost 6](http://9gag.com/gag/aAyX8OR)
- - ⏩ [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 👉 [Star Wars be like](http://9gag.com/gag/aMVXgAX)<!-- MEMES:END -->
+ - 💣 [Ohhh so this is what thanos meant when he said `you aren&#39;t the only one cursed with knowledge`](http://9gag.com/gag/aE0X9Yn)
+ - ⏩ [Long danger noodles takes time to yawn](http://9gag.com/gag/aNDR7d0)
+ - 👉 [Report 4](http://9gag.com/gag/aMVXo4R)<!-- MEMES:END -->
 
 ---
 
