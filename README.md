@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Mudang: Two Hearts Fuses Storytelling and Stealth to Deliver a Captivating Action-Adventure Game](https://news.xbox.com/en-us/2025/06/10/mudang-two-hearts-details-xbox-games-showcase/)
- - [All Switch games with Switch 2 backwards compatibility issues](https://www.polygon.com/nintendo-switch-2/605908/backward-compatability-list-games-issues-all)
- - [What time does Stellar Blade release on PC?](https://www.polygon.com/guides/605820/stellar-blade-pc-release-time-date-edt-pdt)<!-- GAME:END -->
+ - [Despite its new easy mode, Lies of P will get a &#39;difficulty reduction&#39; in a future update because too many players are getting wrecked by the DLC](https://www.pcgamer.com/games/action/despite-its-new-easy-mode-lies-of-p-will-get-a-difficulty-reduction-in-a-future-update-because-too-many-players-are-getting-wrecked-by-the-dlc/)
+ - [The THPS 3+4 Demo Is Great, And People Are Already Pulling Off More Than 100 Million-Point Combos In It](https://kotaku.com/thps-3-4-demo-review-huge-combos-million-points-bam-ps5-1851784238)
+ - [Please, For The Love Of God, Defeat All Illuminate Stingrays In Helldivers 2](https://kotaku.com/helldivers-2-illuminate-stingrays-recoilless-spear-1851784247)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
