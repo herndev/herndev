@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads is finally getting DMs](https://www.theverge.com/news/684120/threads-direct-messaging-inbox-dm-test-availability)
- - [How Local Capture immediately turns iPad into a podcasting studio](https://appleinsider.com/articles/25/06/10/how-local-capture-immediately-turns-ipad-into-a-podcasting-studio?utm_medium=rss)
- - [Republicans are determined to make you pay more for gas](https://www.theverge.com/policy/683596/cafe-fuel-economy-usdot-nhtsa-ev-duffy-republican)<!-- TECH:END -->
+ - [Mario Kart World is the perfect Switch 2 launch game](https://www.theverge.com/games-review/684518/mario-kart-world-review-nintendo-switch-2)
+ - [Apple&#39;s AutoMix in macOS 26 isn&#39;t a house DJ, but is a good FM radio simulator](https://appleinsider.com/articles/25/06/10/apples-automix-in-macos-26-isnt-a-house-dj-but-is-a-good-fm-radio-simulator?utm_medium=rss)
+ - [The Trump administration appears to be planning its own chatbot](https://www.theverge.com/news/684579/ai-api-trump-administration-doge-gsa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
