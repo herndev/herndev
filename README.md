@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As far as action RPGs where you&#39;re a girl with a big sword go, this one isn&#39;t half bad](https://www.pcgamer.com/games/action/as-far-as-action-rpgs-where-youre-a-girl-with-a-big-sword-go-this-one-isnt-half-bad/)
- - [28 Movie Tie-In Popcorn Buckets We Loved &lpar;And Hated&rpar;](https://kotaku.com/dune-popcorn-bucket-barbie-ghostbusters-best-worst-1851336690)
- - [Bosch star Titus Welliver is Van Helsing in a radical reimagining of Dracula](https://www.polygon.com/trailer/606114/abrahams-boys-dracula-van-helsing-bosch-titus-welliver)<!-- GAME:END -->
+ - [Incredibles 3’s new director raises some early concerns about where Pixar is headed](https://www.polygon.com/opinion/606145/incredibles-3-peter-sohn-brad-bird-pixar-concerns)
+ - [28 Movie Tie-In Popcorn Buckets We Love &lpar;And Hate&rpar;](https://kotaku.com/dune-popcorn-bucket-barbie-ghostbusters-best-worst-1851336690)
+ - [&#39;It&#39;s the year of Obsidian&#39;: The Outer Wilds 2 game director says the studio isn&#39;t worried about releasing another RPG in the same year as Avowed](https://www.pcgamer.com/games/rpg/its-the-year-of-obsidian-the-outer-wilds-2-game-director-says-the-studio-isnt-worried-about-releasing-another-rpg-in-the-same-year-as-avowed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
