@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK retailer M&amp;S begins accepting online orders again, seven weeks after disclosing a sustained cyberattack that cost it up to £300M in this financial year &lpar;Laura Onita/Financial Times&rpar;](http://www.techmeme.com/250610/p5#a250610p5)
- - [ChatGPT is having some issues](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)
- - [Apple&#39;s Biggest Reveals at WWDC 2025: iOS 26, Liquid Glass Design and Call Screening](https://www.cnet.com/tech/services-and-software/everything-announced-at-apple-wwdc-2025-new-ios-ipados-macos-visionos-tvos-watchos-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Starling&amp;#8217;s AI banking tool shows you how much you&amp;#8217;re wasting on McDonald’s](https://www.theverge.com/news/684121/starling-bank-ai-tool-enhanced-search-spending-habits)
+ - [IBM plans to build IBM Quantum Starling, a &quot;fault-tolerant&quot; quantum computer with 20,000x the power of today&#39;s quantum computers, in New York state by 2029 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250610/p9#a250610p9)
+ - [The UK plans to launch an autonomous taxi trial in London in spring 2026, a year earlier than planned; Uber and Wayve will partner to operate the service &lpar;Financial Times&rpar;](http://www.techmeme.com/250610/p8#a250610p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
