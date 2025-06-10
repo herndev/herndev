@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)
- - ⏩ [Show us your best cursed images!](http://9gag.com/gag/a4PqX61)
- - 👉 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)<!-- MEMES:END -->
+ - 💣 [Your typical day in summer](http://9gag.com/gag/a9yX9mW)
+ - ⏩ [I did not see that coming](http://9gag.com/gag/adB2EZZ)
+ - 👉 [The 1904 Olympic marathon was an absolute disasterclass in organization.](http://9gag.com/gag/aNDR6yr)<!-- MEMES:END -->
 
 ---
 
