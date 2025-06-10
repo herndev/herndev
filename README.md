@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox&amp;#8217;s new handheld is a surprisingly comfortable way to play Gears](https://www.theverge.com/games/684247/xbox-ally-x-hands-on-gears-of-war-reloaded)
- - [iOS 26 adds satellite weather updates for offline iPhone users](https://appleinsider.com/articles/25/06/10/ios-26-adds-satellite-weather-updates-for-offline-iphone-users?utm_medium=rss)
- - [Microsoft is moving its Build conference out of Seattle for 2026](https://www.theverge.com/news/684313/microsoft-build-conference-2026-location)<!-- TECH:END -->
+ - [Threads is finally getting DMs](https://www.theverge.com/news/684120/threads-direct-messaging-inbox-dm-test-availability)
+ - [How Local Capture immediately turns iPad into a podcasting studio](https://appleinsider.com/articles/25/06/10/how-local-capture-immediately-turns-ipad-into-a-podcasting-studio?utm_medium=rss)
+ - [Republicans are determined to make you pay more for gas](https://www.theverge.com/policy/683596/cafe-fuel-economy-usdot-nhtsa-ev-duffy-republican)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
