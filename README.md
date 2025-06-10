@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When internet tutorials meet reality](http://9gag.com/gag/aVv2Aw8)
- - ⏩ [In Hungary, if you are part of a visiting CPAC delegation, you have priority over an ambulance using emergency signals.](http://9gag.com/gag/aYQ13BO)
- - 👉 [Just another day in Las Vegas, apparently](http://9gag.com/gag/aRB2bY7)<!-- MEMES:END -->
+ - 💣 [Repost 6](http://9gag.com/gag/aAyX8OR)
+ - ⏩ [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
+ - 👉 [Star Wars be like](http://9gag.com/gag/aMVXgAX)<!-- MEMES:END -->
 
 ---
 
