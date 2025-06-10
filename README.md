@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo suspends operations in downtown Los Angeles after at least five vehicles were destroyed during riots; it continues to operate in other parts of the city &lpar;Caroline Petrow-Cohen/Los Angeles Times&rpar;](http://www.techmeme.com/250609/p44#a250609p44)
- - [Disney closes its deal with Comcast to buy out NBCUniversal&#39;s 33% stake in Hulu, paying an additional $439M, after agreeing in 2023 to pay $8.61B &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250609/p43#a250609p43)
- - [We&#39;ve Finally Reached the End of the Road for Intel Macs](https://www.wired.com/story/macos-tahoe-last-update-for-intel-macs/)<!-- TECH:END -->
+ - [Turnkey, which builds low-level infrastructure for digital wallets used to store and manage crypto, raised a $30M Series B led by Bain Capital Crypto &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250609/p45#a250609p45)
+ - [macOS 27 will be the last operating system to fully support Rosetta 2](https://appleinsider.com/articles/25/06/10/macos-27-will-be-the-last-operating-system-to-fully-support-rosetta-2?utm_medium=rss)
+ - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
