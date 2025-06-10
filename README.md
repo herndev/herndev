@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mario Kart World is the perfect Switch 2 launch game](https://www.theverge.com/games-review/684518/mario-kart-world-review-nintendo-switch-2)
- - [Apple&#39;s AutoMix in macOS 26 isn&#39;t a house DJ, but is a good FM radio simulator](https://appleinsider.com/articles/25/06/10/apples-automix-in-macos-26-isnt-a-house-dj-but-is-a-good-fm-radio-simulator?utm_medium=rss)
- - [The Trump administration appears to be planning its own chatbot](https://www.theverge.com/news/684579/ai-api-trump-administration-doge-gsa)<!-- TECH:END -->
+ - [Android 16 reduces notification clutter with this simple but needed change](https://www.androidauthority.com/android-16-force-group-notifications-3565400/)
+ - [Android 16 has arrived with iPhone-style Live Updates](https://www.theverge.com/news/684601/android-16-launch-live-updates-notifications)
+ - [The best last-minute deals you can grab before Father’s Day](https://www.theverge.com/tech/682877/best-fathers-day-deals-sales-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
