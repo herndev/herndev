@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Incredibles 3’s new director raises some early concerns about where Pixar is headed](https://www.polygon.com/opinion/606145/incredibles-3-peter-sohn-brad-bird-pixar-concerns)
- - [28 Movie Tie-In Popcorn Buckets We Love &lpar;And Hate&rpar;](https://kotaku.com/dune-popcorn-bucket-barbie-ghostbusters-best-worst-1851336690)
- - [&#39;It&#39;s the year of Obsidian&#39;: The Outer Wilds 2 game director says the studio isn&#39;t worried about releasing another RPG in the same year as Avowed](https://www.pcgamer.com/games/rpg/its-the-year-of-obsidian-the-outer-wilds-2-game-director-says-the-studio-isnt-worried-about-releasing-another-rpg-in-the-same-year-as-avowed/)<!-- GAME:END -->
+ - [Splitgate 2 boss apologizes for the &#39;division&#39; caused by his MAGA-style hat but still insists it wasn&#39;t meant to be political: &#39;There&#39;s division in the community, and for that I am truly sorry&#39;](https://www.pcgamer.com/games/fps/splitgate-2-boss-apologizes-for-the-division-caused-by-his-maga-style-hat-but-still-insists-it-wasnt-meant-to-be-political-theres-division-in-the-community-and-for-that-i-am-truly-sorry/)
+ - [19 beginner’s tips before you start Dune: Awakening](https://www.polygon.com/dune-awakening-guides/606195/beginners-tips-tricks-before-you-start)
+ - [World&#39;s most patient Nightreign players discover they can kill a boss by ringing an incredibly annoying bell 80 times](https://www.pcgamer.com/games/rpg/worlds-most-patient-nightreign-players-discover-they-can-kill-a-boss-by-ringing-an-incredibly-annoying-bell-80-times/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
