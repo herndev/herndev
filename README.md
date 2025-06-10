@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Splatoon is getting a Switch 2 spinoff, and a big Splatoon 3 update](https://www.theverge.com/news/684199/splatoon-raiders-switch-2-spinoff)
- - [Investigation: Russian network engineer Viktor Vedeneev controls thousands of Telegram IP addresses and maintains its servers; his companies have FSB links &lpar;Roman Anin/OCCRP&rpar;](http://www.techmeme.com/250610/p15#a250610p15)
- - [It’s time for OnePlus tablets to copy the iPad](https://www.androidauthority.com/oneplus-tablets-copy-ipad-3563786/)<!-- TECH:END -->
+ - [Sources: OpenAI plans to add Google Cloud to meet its growing needs for computing capacity, a surprising collaboration; source: the deal was finalized in May &lpar;Reuters&rpar;](http://www.techmeme.com/250610/p17#a250610p17)
+ - [New iOS 26 setting prevents audio automatically jumping from AirPods to car speakers](https://appleinsider.com/articles/25/06/10/new-ios-26-setting-prevents-audio-automatically-jumping-from-airpods-to-car-speakers?utm_medium=rss)
+ - [This powerful dual-screen handheld is part Nintendo DS, part gaming laptop](https://www.androidauthority.com/ayaneo-flip-1s-ds-announcement-3565915/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
