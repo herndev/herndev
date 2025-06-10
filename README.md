@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Webtoon and Dark Horse bring Cyberpunk 2077, Critical Role, The Witcher, and Legend of Korra to the platform](https://www.polygon.com/comics/605789/webtoon-dark-horse-comics-cyberpunk-2077-critical-role-the-witcher-legend-of-korra)
- - [Post-Larian Wizards of the Coast threatens us with more &#39;CRPGs that are going to be as serious as BG3&#39;](https://www.pcgamer.com/games/baldurs-gate/post-larian-wizards-of-the-coast-threatens-us-with-more-crpgs-that-are-going-to-be-as-serious-as-bg3/)
- - [After 10 months, SAG-AFTRA union has reached a &#39;tentative agreement&#39; with major companies including EA, Warner Bros, and Epic over AI voice acting protections](https://www.pcgamer.com/gaming-industry/after-10-months-sag-aftra-union-has-reached-a-tentative-agreement-with-major-companies-including-ea-warner-bros-and-epic-over-ai-voice-acting-protections/)<!-- GAME:END -->
+ - [Lost in Random: The Eternal Die is a welcome entry to roguelike canon](https://www.polygon.com/review/603328/lost-in-random-eternal-die-roguelike)
+ - [Lost Records: Bloom &amp; Rage&#39;s Full Story Is A Perfect Runtime For A Dramatic, &#39;90s-Themed Weekend In](https://kotaku.com/lost-records-bloom-and-rage-full-story-length-how-long-1851784113)
+ - [Webtoon and Dark Horse bring Cyberpunk 2077, Critical Role, The Witcher, and Legend of Korra to the platform](https://www.polygon.com/comics/605789/webtoon-dark-horse-comics-cyberpunk-2077-critical-role-the-witcher-legend-of-korra)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
