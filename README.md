@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [MSI MPG 322URX gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/msi-mpg-322urx-gaming-monitor-review/)
  - [Today&#39;s Wordle answer for Tuesday, June 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-10-2025/)
- - [Lisan al-Gaib! Sandworm-riding isn&#39;t a feature in Dune: Awakening, but players are doing it anyway](https://www.pcgamer.com/games/mmo/lisan-al-gaib-sandworm-riding-isnt-a-feature-in-dune-awakening-but-players-are-doing-it-anyway/)
- - [Apple&#39;s new UI for Macs and iPhones &#39;combines the optical qualities of glass with a fluidity only Apple can achieve,&#39; but it sure looks like an awful lot like Windows Vista circa 2007](https://www.pcgamer.com/software/windows/apples-new-ui-for-macs-and-iphones-combines-the-optical-qualities-of-glass-with-a-fluidity-only-apple-can-achieve-but-it-sure-looks-like-an-awful-lot-like-windows-vista-circa-2007/)<!-- GAME:END -->
+ - [Lisan al-Gaib! Sandworm-riding isn&#39;t a feature in Dune: Awakening, but players are doing it anyway](https://www.pcgamer.com/games/mmo/lisan-al-gaib-sandworm-riding-isnt-a-feature-in-dune-awakening-but-players-are-doing-it-anyway/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
