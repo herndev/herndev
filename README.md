@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get carbide scraps in Dune: Awakening](https://www.pcgamer.com/games/mmo/dune-awakening-carbide-scraps-locations/)
- - [How to get diamondine dust in Dune: Awakening](https://www.pcgamer.com/games/mmo/dune-awakening-diamondine-dust-locations/)
- - [Kinesis mWave keyboard review](https://www.pcgamer.com/hardware/gaming-keyboards/kinesis-mwave-keyboard-review/)<!-- GAME:END -->
+ - [Invincible VS: A Brutal, Stylish, Accessible Fighting Experience](https://news.xbox.com/en-us/2025/06/10/invincible-vs-fighting-game-preview-xbox-games-showcase/)
+ - [Outer Worlds 2 devs wanted the sequel to be less ‘one-note’](https://www.polygon.com/gaming/605841/outer-worlds-2-developer-interview-sgf-2025)
+ - [For Invincible VS, Skybound found a team of fighting game vets who are also Invincible fans](https://www.polygon.com/preview/605933/invincible-vs-developer-interview-quarter-up)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
