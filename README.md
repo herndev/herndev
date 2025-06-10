@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What power!](http://9gag.com/gag/aE0XLOe)
- - ⏩ [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
- - 👉 [Bra](http://9gag.com/gag/aLnXy85)<!-- MEMES:END -->
+ - 💣 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
+ - ⏩ [What power!](http://9gag.com/gag/aE0XLOe)
+ - 👉 [The incredible blue light inside a nuclear reactor core is mesmerizing.](http://9gag.com/gag/ae92vy5)<!-- MEMES:END -->
 
 ---
 
