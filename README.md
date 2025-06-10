@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Analysis of X&#39;s new XChat shows that X can probably decrypt users&#39; messages, as it holds users&#39; private keys on its servers &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/250609/p47#a250609p47)
  - [‘Beautiful’ and ‘Hard to Read’: Designers React to Apple’s Liquid Glass Update](https://www.wired.com/story/designers-react-to-apple-liquid-glass/)
- - [A day of LA anti-ICE protests in photos](https://www.theverge.com/policy/683824/los-angeles-ice-union-protest-photos)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
