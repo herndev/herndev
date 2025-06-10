@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
- - ⏩ [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)
- - 👉 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)<!-- MEMES:END -->
+ - 💣 [Aero Glass never stood a chance..](https://www.reddit.com/r/funny/comments/1l7zek0/aero_glass_never_stood_a_chance/)
+ - ⏩ [That did not go as planned](http://9gag.com/gag/aZZ2eB3)
+ - 👉 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)<!-- MEMES:END -->
 
 ---
 
