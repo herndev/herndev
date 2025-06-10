@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 wants to make your next phone trade-in process a lot faster](https://www.androidauthority.com/android-16-trade-in-mode-3566274/)
- - [Memo: Google offers voluntary buyouts to US staff in the knowledge and information organization, which includes core search and much of the ads organization &lpar;The Information&rpar;](http://www.techmeme.com/250610/p30#a250610p30)
- - [Snap has sunk $3 billion into AR Specs it hopes it can actually convince you to wear](https://www.androidauthority.com/snap-ar-specs-announced-3566211/)<!-- TECH:END -->
+ - [Twenty-seven states and DC sue 23andMe to oppose the sale of DNA data from its customers without their direct consent &lpar;Rylee Kirk/New York Times&rpar;](http://www.techmeme.com/250610/p32#a250610p32)
+ - [If you were underwhelmed by WWDC 2025, you&#39;re not alone](https://appleinsider.com/articles/25/06/10/if-you-were-underwhelmed-by-wwdc-2025-youre-not-alone?utm_medium=rss)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
