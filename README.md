@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aero Glass never stood a chance..](https://www.reddit.com/r/funny/comments/1l7zek0/aero_glass_never_stood_a_chance/)
- - ⏩ [That did not go as planned](http://9gag.com/gag/aZZ2eB3)
- - 👉 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)<!-- MEMES:END -->
+ - 💣 [What happened](http://9gag.com/gag/ajPKzwx)
+ - ⏩ [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
+ - 👉 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)<!-- MEMES:END -->
 
 ---
 
