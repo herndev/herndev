@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Invincible VS: A Brutal, Stylish, Accessible Fighting Experience](https://news.xbox.com/en-us/2025/06/10/invincible-vs-fighting-game-preview-xbox-games-showcase/)
- - [Outer Worlds 2 devs wanted the sequel to be less ‘one-note’](https://www.polygon.com/gaming/605841/outer-worlds-2-developer-interview-sgf-2025)
- - [For Invincible VS, Skybound found a team of fighting game vets who are also Invincible fans](https://www.polygon.com/preview/605933/invincible-vs-developer-interview-quarter-up)<!-- GAME:END -->
+ - [Planet of Lana II: This Ambitious Sequel Doubles the Size and Scope of the Original](https://news.xbox.com/en-us/2025/06/10/planet-of-lana-2-details-sequel-xbox-games-showcase/)
+ - [After 15 months and 3,800 hours of &#39;worst case&#39; usage, one independent test finds OLED burn-in is now almost a non-issue](https://www.pcgamer.com/hardware/gaming-monitors/after-15-months-and-3-800-hours-of-worst-case-usage-one-independent-test-finds-oled-burn-in-is-now-almost-a-non-issue/)
+ - [I couldn&#39;t picture how Death Howl, a soulslike deckbuilder, could possibly marry the two genres—until I played its Steam Next Fest demo](https://www.pcgamer.com/games/rpg/i-couldnt-picture-how-death-howl-a-soulslike-deckbuilder-could-possibly-marry-the-two-genres-until-i-played-its-steam-next-fest-demo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
