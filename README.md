@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 does GameCube nostalgia right with hidden startup sound Easter eggs](https://www.polygon.com/nintendo-switch-2/605827/gamecube-logo-startup-easter-egg)
- - [13 years after it was first teased, and 2 months after committing to a 2025 release, Mewgenics is delayed into 2026](https://www.pcgamer.com/games/rpg/13-years-after-it-was-first-teased-and-2-months-after-committing-to-a-2025-release-mewgenics-is-delayed-into-2026/)
- - [Elden Ring Nightreign has an ultra-rare item with a 0.035% chance to drop and players are convinced it&#39;s the key to the game&#39;s biggest secret](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-has-an-ultra-rare-item-with-a-0-035-percent-chance-to-drop-and-players-are-convinced-its-the-key-to-the-games-biggest-secret/)<!-- GAME:END -->
+ - [Lisan al-Gaib! Sandworm-riding isn&#39;t a feature in Dune: Awakening, but players are doing it anyway](https://www.pcgamer.com/games/mmo/lisan-al-gaib-sandworm-riding-isnt-a-feature-in-dune-awakening-but-players-are-doing-it-anyway/)
+ - [Apple&#39;s new UI for Macs and iPhones &#39;combines the optical qualities of glass with a fluidity only Apple can achieve,&#39; but it sure looks like an awful lot like Windows Vista circa 2007](https://www.pcgamer.com/software/windows/apples-new-ui-for-macs-and-iphones-combines-the-optical-qualities-of-glass-with-a-fluidity-only-apple-can-achieve-but-it-sure-looks-like-an-awful-lot-like-windows-vista-circa-2007/)
+ - [Switch 2 does GameCube nostalgia right with hidden startup sound Easter eggs](https://www.polygon.com/nintendo-switch-2/605827/gamecube-logo-startup-easter-egg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
