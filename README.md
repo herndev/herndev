@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
- - ⏩ [Make it make sense.](http://9gag.com/gag/aYQ18B7)
- - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
+ - 💣 [What power!](http://9gag.com/gag/aE0XLOe)
+ - ⏩ [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
+ - 👉 [Bra](http://9gag.com/gag/aLnXy85)<!-- MEMES:END -->
 
 ---
 
