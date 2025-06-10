@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visual Intelligence in iOS 26 makes screenshots useful, not just saved](https://appleinsider.com/articles/25/06/10/visual-intelligence-in-ios-26-makes-screenshots-useful-not-just-saved?utm_medium=rss)
- - [OpenAI announces an 80% price drop for its o3 model and a &quot;flex&quot; mode for synchronous processing that charges $5 for input and $20 for output per million tokens &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250610/p28#a250610p28)
- - [The Top New Features in Apple’s iOS 26 and iPadOS 26](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)<!-- TECH:END -->
+ - [Android 16 wants to make your next phone trade-in process a lot faster](https://www.androidauthority.com/android-16-trade-in-mode-3566274/)
+ - [Memo: Google offers voluntary buyouts to US staff in the knowledge and information organization, which includes core search and much of the ads organization &lpar;The Information&rpar;](http://www.techmeme.com/250610/p30#a250610p30)
+ - [Snap has sunk $3 billion into AR Specs it hopes it can actually convince you to wear](https://www.androidauthority.com/snap-ar-specs-announced-3566211/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
