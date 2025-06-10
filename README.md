@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 reduces notification clutter with this simple but needed change](https://www.androidauthority.com/android-16-force-group-notifications-3565400/)
- - [Android 16 has arrived with iPhone-style Live Updates](https://www.theverge.com/news/684601/android-16-launch-live-updates-notifications)
- - [The best last-minute deals you can grab before Father’s Day](https://www.theverge.com/tech/682877/best-fathers-day-deals-sales-2025)<!-- TECH:END -->
+ - [Visual Intelligence in iOS 26 makes screenshots useful, not just saved](https://appleinsider.com/articles/25/06/10/visual-intelligence-in-ios-26-makes-screenshots-useful-not-just-saved?utm_medium=rss)
+ - [OpenAI announces an 80% price drop for its o3 model and a &quot;flex&quot; mode for synchronous processing that charges $5 for input and $20 for output per million tokens &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250610/p28#a250610p28)
+ - [The Top New Features in Apple’s iOS 26 and iPadOS 26](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
