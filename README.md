@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 on the GoPro HERO13 Black action camera!](https://www.androidauthority.com/gopro-hero13-black-deal-2-3566246/)
- - [Online trading platform Webull will now allow US retail investors to bet on the future prices of bitcoin and ethereum through a partnership with Kalshi &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250610/p34#a250610p34)
- - [Why Can&#39;t I Get a Job Right Now? 9 Expert Tips to Stand Out to Recruiters](https://www.cnet.com/personal-finance/banking/why-cant-i-get-a-job-right-now-9-expert-tips-to-stand-out-to-recruiters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Altman claims an &quot;average&quot; ChatGPT query uses about 0.34 watt-hours and about 0.000085 gallons of water, or &quot;roughly one fifteenth of a teaspoon&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250610/p37#a250610p37)
+ - [The latest Android 16 QPR1 beta finally organizes Android’s messy sound settings](https://www.androidauthority.com/android-16-qpr1-sound-settings-organized-3566322/)
+ - [Sam Altman says &quot;intelligence and energy&quot;, the &quot;limiters on human progress&quot;, will be abundant in the 2030s, and superintelligence should be widely distributed &lpar;Sam Altman&rpar;](http://www.techmeme.com/250610/p36#a250610p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
