@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Planet of Lana II: This Ambitious Sequel Doubles the Size and Scope of the Original](https://news.xbox.com/en-us/2025/06/10/planet-of-lana-2-details-sequel-xbox-games-showcase/)
- - [After 15 months and 3,800 hours of &#39;worst case&#39; usage, one independent test finds OLED burn-in is now almost a non-issue](https://www.pcgamer.com/hardware/gaming-monitors/after-15-months-and-3-800-hours-of-worst-case-usage-one-independent-test-finds-oled-burn-in-is-now-almost-a-non-issue/)
- - [I couldn&#39;t picture how Death Howl, a soulslike deckbuilder, could possibly marry the two genres—until I played its Steam Next Fest demo](https://www.pcgamer.com/games/rpg/i-couldnt-picture-how-death-howl-a-soulslike-deckbuilder-could-possibly-marry-the-two-genres-until-i-played-its-steam-next-fest-demo/)<!-- GAME:END -->
+ - [Aphelion: Learn More About the Exploration and Emotions Behind This Brand-New Sci-Fi Adventure](https://news.xbox.com/en-us/2025/06/10/aphelion-dont-nod-xbox-games-showcase/)
+ - [David Lynch&#39;s Cancelled Netflix Series Would Have Been So Good, Says Former Colleague](https://kotaku.com/david-lynch-netflix-unrecorded-night-mulholland-drive-1851784216)
+ - [What are the new map and weapon loot pool changes in Fortnite Chapter 6 Season 3?](https://www.polygon.com/fortnite-guide/605980/chapter-6-season-3-new-map-weapons-loot-poi)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
