@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost in Random: The Eternal Die is a welcome entry to roguelike canon](https://www.polygon.com/review/603328/lost-in-random-eternal-die-roguelike)
- - [Lost Records: Bloom &amp; Rage&#39;s Full Story Is A Perfect Runtime For A Dramatic, &#39;90s-Themed Weekend In](https://kotaku.com/lost-records-bloom-and-rage-full-story-length-how-long-1851784113)
- - [Webtoon and Dark Horse bring Cyberpunk 2077, Critical Role, The Witcher, and Legend of Korra to the platform](https://www.polygon.com/comics/605789/webtoon-dark-horse-comics-cyberpunk-2077-critical-role-the-witcher-legend-of-korra)<!-- GAME:END -->
+ - [How to get carbide scraps in Dune: Awakening](https://www.pcgamer.com/games/mmo/dune-awakening-carbide-scraps-locations/)
+ - [How to get diamondine dust in Dune: Awakening](https://www.pcgamer.com/games/mmo/dune-awakening-diamondine-dust-locations/)
+ - [Kinesis mWave keyboard review](https://www.pcgamer.com/hardware/gaming-keyboards/kinesis-mwave-keyboard-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
