@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twenty-seven states and DC sue 23andMe to oppose the sale of DNA data from its customers without their direct consent &lpar;Rylee Kirk/New York Times&rpar;](http://www.techmeme.com/250610/p32#a250610p32)
- - [If you were underwhelmed by WWDC 2025, you&#39;re not alone](https://appleinsider.com/articles/25/06/10/if-you-were-underwhelmed-by-wwdc-2025-youre-not-alone?utm_medium=rss)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
+ - [Save $100 on the GoPro HERO13 Black action camera!](https://www.androidauthority.com/gopro-hero13-black-deal-2-3566246/)
+ - [Online trading platform Webull will now allow US retail investors to bet on the future prices of bitcoin and ethereum through a partnership with Kalshi &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250610/p34#a250610p34)
+ - [Why Can&#39;t I Get a Job Right Now? 9 Expert Tips to Stand Out to Recruiters](https://www.cnet.com/personal-finance/banking/why-cant-i-get-a-job-right-now-9-expert-tips-to-stand-out-to-recruiters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
