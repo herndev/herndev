@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI plans to add Google Cloud to meet its growing needs for computing capacity, a surprising collaboration; source: the deal was finalized in May &lpar;Reuters&rpar;](http://www.techmeme.com/250610/p17#a250610p17)
- - [New iOS 26 setting prevents audio automatically jumping from AirPods to car speakers](https://appleinsider.com/articles/25/06/10/new-ios-26-setting-prevents-audio-automatically-jumping-from-airpods-to-car-speakers?utm_medium=rss)
- - [This powerful dual-screen handheld is part Nintendo DS, part gaming laptop](https://www.androidauthority.com/ayaneo-flip-1s-ds-announcement-3565915/)<!-- TECH:END -->
+ - [Xbox&amp;#8217;s new handheld is a surprisingly comfortable way to play Gears](https://www.theverge.com/games/684247/xbox-ally-x-hands-on-gears-of-war-reloaded)
+ - [iOS 26 adds satellite weather updates for offline iPhone users](https://appleinsider.com/articles/25/06/10/ios-26-adds-satellite-weather-updates-for-offline-iphone-users?utm_medium=rss)
+ - [Microsoft is moving its Build conference out of Seattle for 2026](https://www.theverge.com/news/684313/microsoft-build-conference-2026-location)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
