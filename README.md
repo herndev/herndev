@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When internet tutorials meet reality](http://9gag.com/gag/aVv2Aw8)
- - ⏩ [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
- - 👉 [What power!](http://9gag.com/gag/aE0XLOe)<!-- MEMES:END -->
+ - 💣 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
+ - ⏩ [Mum&#39;s gift policy is strict](http://9gag.com/gag/aAyXoog)
+ - 👉 [The not so bright idea](http://9gag.com/gag/avyvN05)<!-- MEMES:END -->
 
 ---
 
