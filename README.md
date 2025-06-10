@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Travel tips for every kind of traveler, and one for the rest of us.](http://9gag.com/gag/apRAO8W)
- - ⏩ [Can you Skip to the Civil War already, plz](http://9gag.com/gag/aPAXN6V)
- - 👉 [Childhoodmemories](http://9gag.com/gag/awy4Rq1)<!-- MEMES:END -->
+ - 💣 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
+ - ⏩ [Make it make sense.](http://9gag.com/gag/aYQ18B7)
+ - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
 
 ---
 
