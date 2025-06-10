@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Aphelion: Learn More About the Exploration and Emotions Behind This Brand-New Sci-Fi Adventure](https://news.xbox.com/en-us/2025/06/10/aphelion-dont-nod-xbox-games-showcase/)
- - [David Lynch&#39;s Cancelled Netflix Series Would Have Been So Good, Says Former Colleague](https://kotaku.com/david-lynch-netflix-unrecorded-night-mulholland-drive-1851784216)
- - [What are the new map and weapon loot pool changes in Fortnite Chapter 6 Season 3?](https://www.polygon.com/fortnite-guide/605980/chapter-6-season-3-new-map-weapons-loot-poi)<!-- GAME:END -->
+ - [How Mudang: Two Hearts Fuses Storytelling and Stealth to Deliver a Captivating Action-Adventure Game](https://news.xbox.com/en-us/2025/06/10/mudang-two-hearts-details-xbox-games-showcase/)
+ - [All Switch games with Switch 2 backwards compatibility issues](https://www.polygon.com/nintendo-switch-2/605908/backward-compatability-list-games-issues-all)
+ - [What time does Stellar Blade release on PC?](https://www.polygon.com/guides/605820/stellar-blade-pc-release-time-date-edt-pdt)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
