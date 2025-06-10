@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ohhh so this is what thanos meant when he said `you aren&#39;t the only one cursed with knowledge`](http://9gag.com/gag/aE0X9Yn)
- - ⏩ [Long danger noodles takes time to yawn](http://9gag.com/gag/aNDR7d0)
- - 👉 [Report 4](http://9gag.com/gag/aMVXo4R)<!-- MEMES:END -->
+ - 💣 [No argument needed here......](http://9gag.com/gag/awy463B)
+ - ⏩ [Grave Digger putting on a show](http://9gag.com/gag/aKGYQZN)
+ - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
 
 ---
 
