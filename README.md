@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite its new easy mode, Lies of P will get a &#39;difficulty reduction&#39; in a future update because too many players are getting wrecked by the DLC](https://www.pcgamer.com/games/action/despite-its-new-easy-mode-lies-of-p-will-get-a-difficulty-reduction-in-a-future-update-because-too-many-players-are-getting-wrecked-by-the-dlc/)
- - [The THPS 3+4 Demo Is Great, And People Are Already Pulling Off More Than 100 Million-Point Combos In It](https://kotaku.com/thps-3-4-demo-review-huge-combos-million-points-bam-ps5-1851784238)
- - [Please, For The Love Of God, Defeat All Illuminate Stingrays In Helldivers 2](https://kotaku.com/helldivers-2-illuminate-stingrays-recoilless-spear-1851784247)<!-- GAME:END -->
+ - [As far as action RPGs where you&#39;re a girl with a big sword go, this one isn&#39;t half bad](https://www.pcgamer.com/games/action/as-far-as-action-rpgs-where-youre-a-girl-with-a-big-sword-go-this-one-isnt-half-bad/)
+ - [28 Movie Tie-In Popcorn Buckets We Loved &lpar;And Hated&rpar;](https://kotaku.com/dune-popcorn-bucket-barbie-ghostbusters-best-worst-1851336690)
+ - [Bosch star Titus Welliver is Van Helsing in a radical reimagining of Dracula](https://www.polygon.com/trailer/606114/abrahams-boys-dracula-van-helsing-bosch-titus-welliver)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
