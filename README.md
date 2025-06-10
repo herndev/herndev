@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make it make sense.](http://9gag.com/gag/aYQ18B7)
- - ⏩ [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
+ - 💣 [When internet tutorials meet reality](http://9gag.com/gag/aVv2Aw8)
+ - ⏩ [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
+ - 👉 [What power!](http://9gag.com/gag/aE0XLOe)<!-- MEMES:END -->
 
 ---
 
