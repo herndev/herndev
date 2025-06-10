@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Dangerous Truth About the ‘Nonlethal’ Weapons Used Against LA Protesters](https://www.wired.com/story/non-lethal-weapons-la-protests/)
- - [Apple WWDC 2025: the 13 biggest announcements](https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26)
- - [Biggest Apple Announcements From WWDC 2025: Liquid Glass, iOS 26, New Camera App Look and Much More](https://www.cnet.com/tech/services-and-software/everything-announced-at-apple-wwdc-2025-new-ios-ipados-macos-visionos-tvos-watchos-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Waymo suspends operations in downtown Los Angeles after at least five vehicles were destroyed during riots; it continues to operate in other parts of the city &lpar;Caroline Petrow-Cohen/Los Angeles Times&rpar;](http://www.techmeme.com/250609/p44#a250609p44)
+ - [Disney closes its deal with Comcast to buy out NBCUniversal&#39;s 33% stake in Hulu, paying an additional $439M, after agreeing in 2023 to pay $8.61B &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250609/p43#a250609p43)
+ - [We&#39;ve Finally Reached the End of the Road for Intel Macs](https://www.wired.com/story/macos-tahoe-last-update-for-intel-macs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
