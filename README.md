@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 💣 [Asking the real questions](http://9gag.com/gag/avyvYRX)
  - ⏩ [The not so bright idea](http://9gag.com/gag/avyvN05)
- - 👉 [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)<!-- MEMES:END -->
+ - 👉 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)<!-- MEMES:END -->
 
 ---
 
