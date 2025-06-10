@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starling&amp;#8217;s AI banking tool shows you how much you&amp;#8217;re wasting on McDonald’s](https://www.theverge.com/news/684121/starling-bank-ai-tool-enhanced-search-spending-habits)
- - [IBM plans to build IBM Quantum Starling, a &quot;fault-tolerant&quot; quantum computer with 20,000x the power of today&#39;s quantum computers, in New York state by 2029 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250610/p9#a250610p9)
- - [The UK plans to launch an autonomous taxi trial in London in spring 2026, a year earlier than planned; Uber and Wayve will partner to operate the service &lpar;Financial Times&rpar;](http://www.techmeme.com/250610/p8#a250610p8)<!-- TECH:END -->
+ - [The Verge staff on the Switch 2: what we love and what we don’t](https://www.theverge.com/nintendo/682075/verge-staffers-react-nintendo-switch-2)
+ - [Similarweb: Google&#39;s AI tools are significantly cutting organic search traffic to news publishers; traffic to BI, HuffPost, and WaPo is down 50%+ in three years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250610/p13#a250610p13)
+ - [iPadOS 26 fixes nearly everything wrong with the platform after everyone already left](https://appleinsider.com/articles/25/06/10/ipados-26-fixes-nearly-everything-wrong-with-the-platform-after-everyone-already-left?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
