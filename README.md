@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Instant Regret](http://9gag.com/gag/aByXD81)
- - ⏩ [Mum&#39;s gift policy is strict](http://9gag.com/gag/aAyXoog)
- - 👉 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)<!-- MEMES:END -->
+ - 💣 [Travel tips for every kind of traveler, and one for the rest of us.](http://9gag.com/gag/apRAO8W)
+ - ⏩ [Can you Skip to the Civil War already, plz](http://9gag.com/gag/aPAXN6V)
+ - 👉 [Childhoodmemories](http://9gag.com/gag/awy4Rq1)<!-- MEMES:END -->
 
 ---
 
