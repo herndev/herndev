@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
+ - 💣 [Instant Regret](http://9gag.com/gag/aByXD81)
  - ⏩ [Mum&#39;s gift policy is strict](http://9gag.com/gag/aAyXoog)
- - 👉 [The not so bright idea](http://9gag.com/gag/avyvN05)<!-- MEMES:END -->
+ - 👉 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)<!-- MEMES:END -->
 
 ---
 
