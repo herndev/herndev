@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge staff on the Switch 2: what we love and what we don’t](https://www.theverge.com/nintendo/682075/verge-staffers-react-nintendo-switch-2)
- - [Similarweb: Google&#39;s AI tools are significantly cutting organic search traffic to news publishers; traffic to BI, HuffPost, and WaPo is down 50%+ in three years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250610/p13#a250610p13)
- - [iPadOS 26 fixes nearly everything wrong with the platform after everyone already left](https://appleinsider.com/articles/25/06/10/ipados-26-fixes-nearly-everything-wrong-with-the-platform-after-everyone-already-left?utm_medium=rss)<!-- TECH:END -->
+ - [Splatoon is getting a Switch 2 spinoff, and a big Splatoon 3 update](https://www.theverge.com/news/684199/splatoon-raiders-switch-2-spinoff)
+ - [Investigation: Russian network engineer Viktor Vedeneev controls thousands of Telegram IP addresses and maintains its servers; his companies have FSB links &lpar;Roman Anin/OCCRP&rpar;](http://www.techmeme.com/250610/p15#a250610p15)
+ - [It’s time for OnePlus tablets to copy the iPad](https://www.androidauthority.com/oneplus-tablets-copy-ipad-3563786/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
