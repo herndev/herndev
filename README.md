@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Hungary, if you are part of a visiting CPAC delegation, you have priority over an ambulance using emergency signals.](http://9gag.com/gag/aYQ13BO)
- - ⏩ [Hard to believe](http://9gag.com/gag/aXP2Dgz)
- - 👉 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)<!-- MEMES:END -->
+ - 💣 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - ⏩ [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 👉 [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)<!-- MEMES:END -->
 
 ---
 
