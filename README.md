@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [French policeman used talent to find illegaly bought sheep, waiting for the A\u00efd slaughter.](http://9gag.com/gag/aByXq1Z)
- - ⏩ [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
+ - 💣 [In Hungary, if you are part of a visiting CPAC delegation, you have priority over an ambulance using emergency signals.](http://9gag.com/gag/aYQ13BO)
+ - ⏩ [Hard to believe](http://9gag.com/gag/aXP2Dgz)
  - 👉 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)<!-- MEMES:END -->
 
 ---
