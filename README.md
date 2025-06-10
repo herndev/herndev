@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring Nightreign update aims to fix one Nightlord boss tanking your framerate—the other from going berserk and mashing you into paste with &#39;72 consecutive attacks&#39;](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-update-aims-to-fix-one-nightlord-boss-tanking-your-framerate-the-other-from-going-berserk-and-mashing-you-into-paste-with-72-consecutive-attacks/)
  - [MSI MPG 322URX gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/msi-mpg-322urx-gaming-monitor-review/)
- - [Today&#39;s Wordle answer for Tuesday, June 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-10-2025/)
- - [Lisan al-Gaib! Sandworm-riding isn&#39;t a feature in Dune: Awakening, but players are doing it anyway](https://www.pcgamer.com/games/mmo/lisan-al-gaib-sandworm-riding-isnt-a-feature-in-dune-awakening-but-players-are-doing-it-anyway/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, June 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-10-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
