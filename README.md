@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your typical day in summer](http://9gag.com/gag/a9yX9mW)
- - ⏩ [I did not see that coming](http://9gag.com/gag/adB2EZZ)
- - 👉 [The 1904 Olympic marathon was an absolute disasterclass in organization.](http://9gag.com/gag/aNDR6yr)<!-- MEMES:END -->
+ - 💣 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - ⏩ [The 1904 Olympic marathon was an absolute disasterclass in organization.](http://9gag.com/gag/aNDR6yr)
+ - 👉 [Twitter is not](http://9gag.com/gag/aNDR6NG)<!-- MEMES:END -->
 
 ---
 
