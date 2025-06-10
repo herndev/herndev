@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happened](http://9gag.com/gag/ajPKzwx)
- - ⏩ [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
- - 👉 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)<!-- MEMES:END -->
+ - 💣 [Make it make sense.](http://9gag.com/gag/aYQ18B7)
+ - ⏩ [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
+ - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
 
 ---
 
