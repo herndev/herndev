@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The 1904 Olympic marathon was an absolute disasterclass in organization.](http://9gag.com/gag/aNDR6yr)
- - ⏩ [Gets the death star in the divorce](http://9gag.com/gag/aAyXobR)
- - 👉 [Your typical day in summer](http://9gag.com/gag/a9yX9mW)<!-- MEMES:END -->
+ - 💣 [When internet tutorials meet reality](http://9gag.com/gag/aVv2Aw8)
+ - ⏩ [In Hungary, if you are part of a visiting CPAC delegation, you have priority over an ambulance using emergency signals.](http://9gag.com/gag/aYQ13BO)
+ - 👉 [Just another day in Las Vegas, apparently](http://9gag.com/gag/aRB2bY7)<!-- MEMES:END -->
 
 ---
 
