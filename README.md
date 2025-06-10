@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 19 is now iOS 26. Should Google follow suit with Android?](https://www.androidauthority.com/apple-wwdc-open-thread-3565832/)
- - [Samsung says the Galaxy Z Fold 7 is the thinnest, lightest, and most advanced foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-7-thinnest-lightest-3565818/)
- - [SEC Chair Paul Atkins says the agency is working on an &quot;innovation exemption&quot; to boost onchain product creation and support Trump&#39;s vision of a US crypto hub &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250610/p1#a250610p1)<!-- TECH:END -->
+ - [Nothing to see here: Leaked Nothing Phone 3 render confirms death of the Glyph](https://www.androidauthority.com/nothing-phone-3-leaked-render-3565839/)
+ - [WPP Media expects ad revenue from user-generated content and platforms like YouTube and TikTok to surpass that from traditional media for the first time in 2025 &lpar;Michael Savage/The Guardian&rpar;](http://www.techmeme.com/250610/p4#a250610p4)
+ - [The UK Accelerates Its Self-Driving Car Ambitions](https://www.wired.com/story/uk-self-driving-car-ambitions-wayve-uber/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
