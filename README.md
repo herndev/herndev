@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [French policeman used talent to find illegaly bought sheep, waiting for the A\u00efd slaughter.](http://9gag.com/gag/aByXq1Z)
- - ⏩ [Show us your best cursed images!](http://9gag.com/gag/a4PqX61)
- - 👉 [Hard to believe](http://9gag.com/gag/aXP2Dgz)<!-- MEMES:END -->
+ - ⏩ [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
+ - 👉 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)<!-- MEMES:END -->
 
 ---
 
