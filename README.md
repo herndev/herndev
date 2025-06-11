@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Peter Thiel-backed crypto exchange Bullish has confidentially filed for a US IPO amid surging demand for digital assets under the Trump administration &lpar;Financial Times&rpar;](http://www.techmeme.com/250610/p42#a250610p42)
- - [Nintendo says it sold 3.5M Switch 2 consoles globally in its first four days, a record for any of its hardware; Nintendo aims to sell 15M units by March 2026 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250610/p41#a250610p41)
- - [GitLab reports Q1 revenue up 27% YoY to $214.5M, vs. $213.2M est., net loss of $36.3M, vs. $55.5M last year, raises earnings outlook; GTLB down 12%+ after hours &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250610/p40#a250610p40)<!-- TECH:END -->
+ - [Salesforce is restricting third-party companies from long-term indexing and storing of Slack messages, which would hamper rival enterprise AI firms like Glean &lpar;The Information&rpar;](http://www.techmeme.com/250611/p2#a250611p2)
+ - [Laurel, which uses AI to map how workers spend time by integrating with tools like Slack and Outlook, raised a $100M Series C led by IVP at a $510M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250611/p1#a250611p1)
+ - [Sources: Peter Thiel-backed crypto exchange Bullish has confidentially filed for a US IPO amid surging demand for digital assets under the Trump administration &lpar;Financial Times&rpar;](http://www.techmeme.com/250610/p42#a250610p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
