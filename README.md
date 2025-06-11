@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - ⏩ [Make it make sense.](http://9gag.com/gag/aYQ18B7)
- - 👉 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)<!-- MEMES:END -->
+ - 💣 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - ⏩ [Karen gets disappointed](http://9gag.com/gag/a9yXo9o)
+ - 👉 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)<!-- MEMES:END -->
 
 ---
 
