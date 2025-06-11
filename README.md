@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think i had a pretty great 4th date.](http://9gag.com/gag/aAyXWv9)
- - ⏩ [He really wanted those numbers](http://9gag.com/gag/aByORwx)
+ - 💣 [I give it 3 month max before we hear stories of people&#39;s grandparents being tricked by fake AI news clips](http://9gag.com/gag/aQzO6jK)
+ - ⏩ [Oh Britain \u2026 What have you done.](http://9gag.com/gag/axyYdzW)
  - 👉 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)<!-- MEMES:END -->
 
 ---
