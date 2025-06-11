@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Plus tax](http://9gag.com/gag/adBo009)
- - ⏩ [Metal](http://9gag.com/gag/aLnXq0V)
- - 👉 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/avydpeb)
+ - ⏩ [When they try to hide the assets](http://9gag.com/gag/an7DA30)
+ - 👉 [Metal](http://9gag.com/gag/aLnXq0V)<!-- MEMES:END -->
 
 ---
 
