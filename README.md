@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The war is on for Congress’ AI law ban](https://www.theverge.com/ai-artificial-intelligence/684924/congress-big-beautiful-bill-state-ai-law-ban-pushback)
- - [Android 16 QPR1 lets you close all your apps super quick, but should you?](https://www.androidauthority.com/android-16-qpr1-recents-menu-close-apps-quickly-3566508/)
- - [Filing: Disney and NBCUniversal sue Midjourney in California, accusing it of direct and secondary copyright infringement; they say talks with Midjourney failed &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250611/p26#a250611p26)<!-- TECH:END -->
+ - [Liquid Glass is more than skin deep on macOS Tahoe](https://appleinsider.com/articles/25/06/11/liquid-glass-is-more-than-skin-deep-on-macos-tahoe?utm_medium=rss)
+ - [Missing Android 16’s Pixel VIPs widget? You’re not alone](https://www.androidauthority.com/pixel-vips-widget-missing-3566498/)
+ - [Blowout special: Apple&#39;s M3 Pro MacBook Pro plunges to $1,499](https://appleinsider.com/articles/25/06/11/blowout-special-apples-m3-pro-macbook-pro-plunges-to-1499?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
