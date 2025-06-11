@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve played 2 hours of MindsEye and it&#39;s not great so far, I&#39;m afraid](https://www.pcgamer.com/games/action/mindseye-launch-impressions/)
+ - [I&#39;ve played 2 hours of MindsEye and it&#39;s pretty bad so far, I&#39;m afraid](https://www.pcgamer.com/games/action/mindseye-launch-impressions/)
  - [Today&#39;s Wordle answer for Wednesday, June 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-11-2025/)
  - [I&#39;ve played my share of cozy games, and Tales of the Shire is definitely one for the maximalist decorators](https://www.pcgamer.com/games/life-sim/ive-played-my-share-of-cozy-games-and-tales-of-the-shire-is-definitely-one-for-the-maximalist-decorators/)<!-- GAME:END -->
 
