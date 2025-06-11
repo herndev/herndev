@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Experimental New Dating Site Matches Singles Based on Their Browser Histories](https://www.wired.com/story/an-experimental-new-dating-site-matches-singles-based-on-their-browser-histories/)
- - [Amazon MGM Studios says it will have a $1B slate in 2026 and release 20 movies; 10 will have theatrical runs and will not be exclusive to Prime Video thereafter &lpar;Stewart Clarke/Deadline&rpar;](http://www.techmeme.com/250611/p34#a250611p34)
- - [How Waymo Handles Footage From Events Like the LA Immigration Protests](https://www.wired.com/story/waymo-data-privacy-protests-los-angeles/)<!-- TECH:END -->
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
+ - [Circle to Search is making it easier to get to your song search history &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-new-buttons-3566626/)
+ - [FCC’s last Democratic commissioner doesn’t know why Trump hasn’t fired her yet](https://www.theverge.com/policy/685599/fcc-commissioner-democrat-anna-gomez-trump-carr-first-amendment-tour)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
