@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock characters in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/603321/unlock-characters-all-how-to-methods)
- - [How to build a Blood Purifier in Dune: Awakening](https://www.polygon.com/dune-awakening-guides/606391/blood-purifier-how-to-build-unlock)
- - [This absurd trolley conductor simulator gave me 3 separate Steam achievements for throwing grandmas from a moving public transportation vehicle](https://www.pcgamer.com/games/sim/this-absurd-trolley-conductor-simulator-gave-me-3-separate-steam-achievements-for-throwing-grandmas-from-a-moving-public-transportation-vehicle/)<!-- GAME:END -->
+ - [Escaping With Wyvern Eggs In Monster Hunter Wilds Is Easier Than You Think](https://kotaku.com/monster-hunter-wilds-wyvern-eggs-carry-break-rathian-1851784354)
+ - [Demonschool feels like Into the Breach meets Persona, with a horror twist](https://www.polygon.com/impressions/606056/demonschool-demo-impressions)
+ - [How to play the Gears of War: Reloaded beta, plus full beta schedule](https://www.polygon.com/gears-war-reloaded-guides/605804/beta-dates-schedule-times-how-to-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
