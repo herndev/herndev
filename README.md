@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six: Siege X is out today, meaning one of the best tactical shooters ever made is now free-to-play](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-is-out-today-meaning-one-of-the-best-tactical-shooters-ever-made-is-now-free-to-play/)
- - [Gran Turismo World Series 2025 Round 1 recap – great racing in London](https://blog.playstation.com/2025/06/11/gran-turismo-world-series-2025-round-1-recap-great-racing-in-london/)
- - [Team behind Sonic the Hedgehog films to adapt The Midnight Walk for TV, film](https://www.polygon.com/news/605968/midnight-walk-tv-film-adaptation-story-kitchen)<!-- GAME:END -->
+ - [Phil Spencer Xbox Games Showcase Interview – The Official Xbox Podcast](https://youtu.be/mw26FdfkUDM?si=alrLm4oS_SXzl1s0#new_tab)
+ - [US aviation is another industry looking to finally wave goodbye to frightfully persistent floppy disks](https://www.pcgamer.com/hardware/us-aviation-is-another-industry-looking-to-finally-wave-goodbye-to-frightfully-persistent-floppy-disks/)
+ - [Mixtape Is a Box of Surprises that Plays Like a Classic Teen Movie](https://news.xbox.com/en-us/2025/06/11/mixtape-hands-on-preview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
