@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I built a focused, productive One UI 7 home screen using its most chaotic feature](https://www.androidauthority.com/one-ui-7-home-setup-3564030/)
- - [HP reveals $24,999 hardware created just for Google Beam](https://www.theverge.com/news/684859/hp-dimension-google-beam-3d-video-communication)
- - [Israeli data security startup Cyera raised $540M led by Georgian, Greenoaks, and Lightspeed at a $6B valuation, up from $3B in November 2024 after raising $300M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250611/p18#a250611p18)<!-- TECH:END -->
+ - [Don’t be fooled by Android 16’s release — the big changes are still coming](https://www.androidauthority.com/dont-be-fooled-by-android-16-big-changes-still-coming-3565516/)
+ - [President Trump says a trade framework with China &quot;is done, subject to final approval with President Xi and me&quot;, and the US tariff rate would be 55% &quot;total&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p20#a250611p20)
+ - [The first Google Beam device can be yours for just $24,999 &lpar;Beam license sold separately&rpar;](https://www.androidauthority.com/first-google-beam-device-3566467/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
