@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Twitch streamer and YouTuber Ross Minor, blind since age 8, who is an advocate and consultant for blind-accessible video games like Sea of Thieves &lpar;Dexter Thomas/Wired&rpar;](http://www.techmeme.com/250611/p14#a250611p14)
- - [Android 16 QPR1 Beta 2 just made an iOS-style change to your status bar](https://www.androidauthority.com/android-16-qpr1-beta-2-wi-fi-mobile-network-status-bar-icon-3566382/)
- - [Amazon is about to be flooded with AI-generated video ads](https://www.theverge.com/news/685160/amazon-ads-ai-video-generator-us-launch-availability)<!-- TECH:END -->
+ - [I built a focused, productive One UI 7 home screen using its most chaotic feature](https://www.androidauthority.com/one-ui-7-home-setup-3564030/)
+ - [HP reveals $24,999 hardware created just for Google Beam](https://www.theverge.com/news/684859/hp-dimension-google-beam-3d-video-communication)
+ - [Israeli data security startup Cyera raised $540M led by Georgian, Greenoaks, and Lightspeed at a $6B valuation, up from $3B in November 2024 after raising $300M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250611/p18#a250611p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
