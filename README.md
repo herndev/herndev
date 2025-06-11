@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does The Alters release, and is it on Game Pass?](https://www.polygon.com/guides/603701/alters-release-time-date-edt-pdt)
- - [Haunted Chocolatier will be bigger than Stardew Valley, but that&#39;s all I can tell you because Eric Barone literally only said 10 words](https://www.pcgamer.com/games/sim/haunted-chocolatier-will-be-bigger-than-stardew-valley-but-thats-all-i-can-tell-you-because-eric-barone-literally-only-said-10-words/)
- - [Clair Obscur: Expedition 33 makes its Story Mode even easier—or, if you feel like a true sicko, enough optional modifiers to make killing superboss Simon take over 2.8 actual years](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-makes-its-story-mode-even-easier-or-if-you-feel-like-a-true-sicko-enough-optional-modifiers-to-make-killing-superboss-simon-take-over-2-8-actual-years/)<!-- GAME:END -->
+ - [Rainbow Six: Siege X is out today, meaning one of the best tactical shooters ever made is now free-to-play](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-is-out-today-meaning-one-of-the-best-tactical-shooters-ever-made-is-now-free-to-play/)
+ - [Gran Turismo World Series 2025 Round 1 recap – great racing in London](https://blog.playstation.com/2025/06/11/gran-turismo-world-series-2025-round-1-recap-great-racing-in-london/)
+ - [Team behind Sonic the Hedgehog films to adapt The Midnight Walk for TV, film](https://www.polygon.com/news/605968/midnight-walk-tv-film-adaptation-story-kitchen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
