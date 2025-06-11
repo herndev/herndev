@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It wasn&#39;t discovered until after the sale went through. There&#39;s nothing for it lads, Im stuck with it.](http://9gag.com/gag/aVv2npP)
- - ⏩ [Make it make sense.](http://9gag.com/gag/aYQ18B7)
- - 👉 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)<!-- MEMES:END -->
+ - 💣 [Guess what day it is!](http://9gag.com/gag/aLndR2A)
+ - ⏩ [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)
+ - 👉 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)<!-- MEMES:END -->
 
 ---
 
