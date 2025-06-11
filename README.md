@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Praise be, my visionOS 26 persona is significantly less cursed!](https://www.theverge.com/hands-on/684697/visionos-26-personas-vision-pro-xr-headsets-apple-hands-on)
- - [The Switch 2’s GameChat is my new meeting room](https://www.theverge.com/video/685229/nintendo-switch-2-gamechat-c-button-mario-kart)
- - [DoorDash acquires adtech company Symbiosys for $175M, as part of a major update to its ad business that now generates $1B+ annually &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250611/p22#a250611p22)<!-- TECH:END -->
+ - [The war is on for Congress’ AI law ban](https://www.theverge.com/ai-artificial-intelligence/684924/congress-big-beautiful-bill-state-ai-law-ban-pushback)
+ - [Android 16 QPR1 lets you close all your apps super quick, but should you?](https://www.androidauthority.com/android-16-qpr1-recents-menu-close-apps-quickly-3566508/)
+ - [Filing: Disney and NBCUniversal sue Midjourney in California, accusing it of direct and secondary copyright infringement; they say talks with Midjourney failed &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250611/p26#a250611p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
