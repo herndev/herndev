@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jack Rae, a principal researcher at Google DeepMind, is expected to join Meta&#39;s &quot;superintelligence&quot; team, as well as an ML lead from Sesame AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p32#a250611p32)
- - [Disney and Universal Sue AI Company Midjourney for Copyright Infringement](https://www.wired.com/story/disney-universal-sue-midjourney/)
- - [The Wikimedia Foundation pauses an experiment that showed Wikipedia users AI-generated summaries at the top of some articles, following an editor backlash &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250611/p31#a250611p31)<!-- TECH:END -->
+ - [An Experimental New Dating Site Matches Singles Based on Their Browser Histories](https://www.wired.com/story/an-experimental-new-dating-site-matches-singles-based-on-their-browser-histories/)
+ - [Amazon MGM Studios says it will have a $1B slate in 2026 and release 20 movies; 10 will have theatrical runs and will not be exclusive to Prime Video thereafter &lpar;Stewart Clarke/Deadline&rpar;](http://www.techmeme.com/250611/p34#a250611p34)
+ - [How Waymo Handles Footage From Events Like the LA Immigration Protests](https://www.wired.com/story/waymo-data-privacy-protests-los-angeles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
