@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Aniimo: Breaking Down This Beautiful Creature Collector – Sign Up for a Closed Beta!](https://news.xbox.com/en-us/2025/06/11/aniimo-details-xbox-games-showcase/)
- - [All Unstable Exotic Weapons in Fortnite and how to get them](https://www.polygon.com/fortnite-guide/606356/unstable-exotic-weapons-all-how-to-get)
- - [Everything we know after Resident Evil Requiem’s big reveal](https://www.polygon.com/horror/606304/everything-we-know-after-resident-evil-requiems-big-reveal)<!-- GAME:END -->
+ - [There Are No Ghosts at the Grand: Renovate by Day, Hunt Ghosts by Night](https://news.xbox.com/en-us/2025/06/11/there-are-no-ghosts-at-the-grand-details-xbox-games-showcase/)
+ - [New report details Dragon Age: The Veilguard&#39;s ugly failure through live service flip-flops, rewrites, and conflicts with Mass Effect](https://www.pcgamer.com/games/rpg/new-report-details-dragon-age-the-veilguards-ugly-failure-through-live-service-flip-flops-rewrites-and-conflicts-with-mass-effect/)
+ - [Aniimo: Breaking Down This Beautiful Creature Collector – Sign Up for a Closed Beta!](https://news.xbox.com/en-us/2025/06/11/aniimo-details-xbox-games-showcase/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
