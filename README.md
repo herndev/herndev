@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Liquid Glass is more than skin deep on macOS Tahoe](https://appleinsider.com/articles/25/06/11/liquid-glass-is-more-than-skin-deep-on-macos-tahoe?utm_medium=rss)
- - [Missing Android 16’s Pixel VIPs widget? You’re not alone](https://www.androidauthority.com/pixel-vips-widget-missing-3566498/)
- - [Blowout special: Apple&#39;s M3 Pro MacBook Pro plunges to $1,499](https://appleinsider.com/articles/25/06/11/blowout-special-apples-m3-pro-macbook-pro-plunges-to-1499?utm_medium=rss)<!-- TECH:END -->
+ - [Taboola&amp;#8217;s clickbaity chumbox is evolving into an AI chatbot](https://www.theverge.com/news/685538/taboola-clickbait-chumbox-ai-chatbot)
+ - [Apple Music iOS 26 update brings motion, color &amp; depth to the iPhone Lock Screen](https://appleinsider.com/articles/25/06/11/apple-music-ios-26-update-brings-motion-color-depth-to-the-iphone-lock-screen?utm_medium=rss)
+ - [Apple makes Child Accounts in iOS 26 safer with new management tools](https://appleinsider.com/articles/25/06/11/apple-makes-child-accounts-in-ios-26-safer-with-new-management-tools?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
