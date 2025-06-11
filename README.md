@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There Are No Ghosts at the Grand: Renovate by Day, Hunt Ghosts by Night](https://news.xbox.com/en-us/2025/06/11/there-are-no-ghosts-at-the-grand-details-xbox-games-showcase/)
- - [New report details Dragon Age: The Veilguard&#39;s ugly failure through live service flip-flops, rewrites, and conflicts with Mass Effect](https://www.pcgamer.com/games/rpg/new-report-details-dragon-age-the-veilguards-ugly-failure-through-live-service-flip-flops-rewrites-and-conflicts-with-mass-effect/)
- - [Aniimo: Breaking Down This Beautiful Creature Collector – Sign Up for a Closed Beta!](https://news.xbox.com/en-us/2025/06/11/aniimo-details-xbox-games-showcase/)<!-- GAME:END -->
+ - [How to unlock characters in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/603321/unlock-characters-all-how-to-methods)
+ - [How to build a Blood Purifier in Dune: Awakening](https://www.polygon.com/dune-awakening-guides/606391/blood-purifier-how-to-build-unlock)
+ - [This absurd trolley conductor simulator gave me 3 separate Steam achievements for throwing grandmas from a moving public transportation vehicle](https://www.pcgamer.com/games/sim/this-absurd-trolley-conductor-simulator-gave-me-3-separate-steam-achievements-for-throwing-grandmas-from-a-moving-public-transportation-vehicle/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
