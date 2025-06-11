@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AndaSeat Novis gaming chair review](https://www.pcgamer.com/hardware/gaming-chairs/andaseat-novis-gaming-chair-review/)
- - [Microsoft previews new super-sized Start menu for Windows 11](https://www.pcgamer.com/software/windows/microsoft-previews-new-super-sized-start-menu-for-windows-11/)
- - [Persona 4 Revival: Everything we know about the return to Inaba](https://www.pcgamer.com/games/rpg/persona-4-revival-guide/)<!-- GAME:END -->
+ - [What time does The Alters release, and is it on Game Pass?](https://www.polygon.com/guides/603701/alters-release-time-date-edt-pdt)
+ - [Haunted Chocolatier will be bigger than Stardew Valley, but that&#39;s all I can tell you because Eric Barone literally only said 10 words](https://www.pcgamer.com/games/sim/haunted-chocolatier-will-be-bigger-than-stardew-valley-but-thats-all-i-can-tell-you-because-eric-barone-literally-only-said-10-words/)
+ - [Clair Obscur: Expedition 33 makes its Story Mode even easier—or, if you feel like a true sicko, enough optional modifiers to make killing superboss Simon take over 2.8 actual years](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-makes-its-story-mode-even-easier-or-if-you-feel-like-a-true-sicko-enough-optional-modifiers-to-make-killing-superboss-simon-take-over-2-8-actual-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
