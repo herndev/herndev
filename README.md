@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Living the dream, castle and cats included.](http://9gag.com/gag/abA2jjr)
- - ⏩ [That&#39;s not quite what we meant by &#39;off-road capabilities&#39;.](http://9gag.com/gag/ae97KK5)
- - 👉 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)<!-- MEMES:END -->
+ - 💣 [Instant Regret](http://9gag.com/gag/aByXD81)
+ - ⏩ [Forever and always.](http://9gag.com/gag/agmErnn)
+ - 👉 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)<!-- MEMES:END -->
 
 ---
 
