@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forever and always.](http://9gag.com/gag/agmErnn)
- - ⏩ [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)
- - 👉 [French policeman used talent to find illegaly bought sheep, waiting for the A\u00efd slaughter.](http://9gag.com/gag/aByXq1Z)<!-- MEMES:END -->
+ - 💣 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)
+ - ⏩ [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
+ - 👉 [Decided by mere milliseconds, an incredible race finish.](http://9gag.com/gag/axyPxGK)<!-- MEMES:END -->
 
 ---
 
