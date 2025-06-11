@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t be fooled by Android 16’s release — the big changes are still coming](https://www.androidauthority.com/dont-be-fooled-by-android-16-big-changes-still-coming-3565516/)
- - [President Trump says a trade framework with China &quot;is done, subject to final approval with President Xi and me&quot;, and the US tariff rate would be 55% &quot;total&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p20#a250611p20)
- - [The first Google Beam device can be yours for just $24,999 &lpar;Beam license sold separately&rpar;](https://www.androidauthority.com/first-google-beam-device-3566467/)<!-- TECH:END -->
+ - [Praise be, my visionOS 26 persona is significantly less cursed!](https://www.theverge.com/hands-on/684697/visionos-26-personas-vision-pro-xr-headsets-apple-hands-on)
+ - [The Switch 2’s GameChat is my new meeting room](https://www.theverge.com/video/685229/nintendo-switch-2-gamechat-c-button-mario-kart)
+ - [DoorDash acquires adtech company Symbiosys for $175M, as part of a major update to its ad business that now generates $1B+ annually &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250611/p22#a250611p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
