@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It doesn&#39;t have to make sense, just push it](http://9gag.com/gag/aNDR6Dr)
- - ⏩ [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
- - 👉 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)<!-- MEMES:END -->
+ - 💣 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
+ - ⏩ [Our queen](http://9gag.com/gag/ajPWQrp)
+ - 👉 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)<!-- MEMES:END -->
 
 ---
 
