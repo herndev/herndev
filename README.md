@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You’re not imagining it: Mario Kart World’s NPC difficulty can be diabolical](https://www.polygon.com/gaming/606473/mario-kart-world-adaptive-ai-difficulty-drift-rubberbanding)
- - [11-Month Battle Over AI Finally Ends As Striking Game Actors Reach Tentative Deal](https://kotaku.com/sag-aftra-strike-voice-actor-game-darth-vader-1851784189)
- - [How to unlock Mirror Mode in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/606442/mirror-mode-how-to-unlock-requirements)<!-- GAME:END -->
+ - [&#39;We encourage you to live with your choices, but if you want to change it, you can:&#39; Supermassive explains why it&#39;s adding a flowchart to its narrative horror with Directive 8020](https://www.pcgamer.com/games/horror/we-encourage-you-to-live-with-your-choices-but-if-you-want-to-change-it-you-can-supermassive-explains-why-its-adding-a-flowchart-to-its-narrative-horror-with-directive-8020/)
+ - [Where to find the Holtzman Amplifier in Dune: Awakening](https://www.polygon.com/dune-awakening-guides/606520/holtzman-amplifier-where-to-find-location)
+ - [How to watch Konami’s Press Start showcase for Naked Snake and Silent Hill news](https://www.polygon.com/news/606447/konami-press-start-games-showcase)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
