@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says Tesla&#39;s robotaxi service will &quot;tentatively&quot; begin on June 22 in Austin, with first autonomous deliveries of a car to a customer&#39;s home on June 28 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250610/p39#a250610p39)
- - [President Emmanuel Macron says France will ban social media access for children under 15 within &quot;a few months&quot; if it is not done at the European level &lpar;Gavin Blackburn/Euronews&rpar;](http://www.techmeme.com/250610/p38#a250610p38)
- - [Craig Federighi confirms Apple’s first attempt at an AI Siri wasn’t good enough](https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025)<!-- TECH:END -->
+ - [GitLab reports Q1 revenue up 27% YoY to $214.5M, vs. $213.2M est., net loss of $36.3M, vs. $55.5M last year, raises full-year earnings outlook; GTLB falls 12%+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250610/p40#a250610p40)
+ - [Anyone Can Now Access the Largest Space Map Ever Created. Here&#39;s How](https://www.cnet.com/science/space/anyone-can-now-access-the-largest-space-map-ever-created-heres-how/#ftag=CAD590a51e)
+ - [Elon Musk says Tesla&#39;s robotaxi service will &quot;tentatively&quot; begin on June 22 in Austin, with first autonomous deliveries of a car to a customer&#39;s home on June 28 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250610/p39#a250610p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
