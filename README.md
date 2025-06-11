@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8BitDo Ultimate 2 Wireless review](https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-2-wireless-review/)
- - [Date Everything turns everyday household objects into gorgeous love interests, and now I can&#39;t look at my refrigerator the same way](https://www.pcgamer.com/games/sim/date-everything-turns-everyday-household-objects-into-gorgeous-love-interests-and-now-i-cant-look-at-my-refrigerator-the-same-way/)
- - [I&#39;ve played 2 hours of MindsEye and it&#39;s pretty bad so far, I&#39;m afraid](https://www.pcgamer.com/games/action/mindseye-launch-impressions/)<!-- GAME:END -->
+ - [AndaSeat Novis gaming chair review](https://www.pcgamer.com/hardware/gaming-chairs/andaseat-novis-gaming-chair-review/)
+ - [Microsoft previews new super-sized Start menu for Windows 11](https://www.pcgamer.com/software/windows/microsoft-previews-new-super-sized-start-menu-for-windows-11/)
+ - [Persona 4 Revival: Everything we know about the return to Inaba](https://www.pcgamer.com/games/rpg/persona-4-revival-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
