@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - ⏩ [Karen gets disappointed](http://9gag.com/gag/a9yXo9o)
+ - 💣 [Eider ducks](http://9gag.com/gag/a5QqpgN)
+ - ⏩ [Forever and always.](http://9gag.com/gag/agmErnn)
  - 👉 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)<!-- MEMES:END -->
 
 ---
