@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
- - ⏩ [I also never wanted a babysitter](http://9gag.com/gag/a4PqD5Q)
- - 👉 [What power!](http://9gag.com/gag/aE0XLOe)<!-- MEMES:END -->
+ - 💣 [Forever and always.](http://9gag.com/gag/agmErnn)
+ - ⏩ [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)
+ - 👉 [French policeman used talent to find illegaly bought sheep, waiting for the A\u00efd slaughter.](http://9gag.com/gag/aByXq1Z)<!-- MEMES:END -->
 
 ---
 
