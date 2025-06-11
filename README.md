@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taboola&amp;#8217;s clickbaity chumbox is evolving into an AI chatbot](https://www.theverge.com/news/685538/taboola-clickbait-chumbox-ai-chatbot)
- - [Apple Music iOS 26 update brings motion, color &amp; depth to the iPhone Lock Screen](https://appleinsider.com/articles/25/06/11/apple-music-ios-26-update-brings-motion-color-depth-to-the-iphone-lock-screen?utm_medium=rss)
- - [Apple makes Child Accounts in iOS 26 safer with new management tools](https://appleinsider.com/articles/25/06/11/apple-makes-child-accounts-in-ios-26-safer-with-new-management-tools?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Jack Rae, a principal researcher at Google DeepMind, is expected to join Meta&#39;s &quot;superintelligence&quot; team, as well as an ML lead from Sesame AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p32#a250611p32)
+ - [Disney and Universal Sue AI Company Midjourney for Copyright Infringement](https://www.wired.com/story/disney-universal-sue-midjourney/)
+ - [The Wikimedia Foundation pauses an experiment that showed Wikipedia users AI-generated summaries at the top of some articles, following an editor backlash &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250611/p31#a250611p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
