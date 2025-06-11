@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
- - ⏩ [Our queen](http://9gag.com/gag/ajPWQrp)
- - 👉 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)<!-- MEMES:END -->
+ - 💣 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
+ - ⏩ [I also never wanted a babysitter](http://9gag.com/gag/a4PqD5Q)
+ - 👉 [What power!](http://9gag.com/gag/aE0XLOe)<!-- MEMES:END -->
 
 ---
 
