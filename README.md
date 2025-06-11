@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Escaping With Wyvern Eggs In Monster Hunter Wilds Is Easier Than You Think](https://kotaku.com/monster-hunter-wilds-wyvern-eggs-carry-break-rathian-1851784354)
- - [Demonschool feels like Into the Breach meets Persona, with a horror twist](https://www.polygon.com/impressions/606056/demonschool-demo-impressions)
- - [How to play the Gears of War: Reloaded beta, plus full beta schedule](https://www.polygon.com/gears-war-reloaded-guides/605804/beta-dates-schedule-times-how-to-play)<!-- GAME:END -->
+ - [You’re not imagining it: Mario Kart World’s NPC difficulty can be diabolical](https://www.polygon.com/gaming/606473/mario-kart-world-adaptive-ai-difficulty-drift-rubberbanding)
+ - [11-Month Battle Over AI Finally Ends As Striking Game Actors Reach Tentative Deal](https://kotaku.com/sag-aftra-strike-voice-actor-game-darth-vader-1851784189)
+ - [How to unlock Mirror Mode in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/606442/mirror-mode-how-to-unlock-requirements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
