@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
- - ⏩ [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
- - 👉 [England has fallen](http://9gag.com/gag/a6ZpWMq)<!-- MEMES:END -->
+ - 💣 [I think i had a pretty great 4th date.](http://9gag.com/gag/aAyXWv9)
+ - ⏩ [He really wanted those numbers](http://9gag.com/gag/aByORwx)
+ - 👉 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)<!-- MEMES:END -->
 
 ---
 
