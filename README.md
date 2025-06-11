@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/avydpeb)
- - ⏩ [When they try to hide the assets](http://9gag.com/gag/an7DA30)
- - 👉 [Metal](http://9gag.com/gag/aLnXq0V)<!-- MEMES:END -->
+ - 💣 [It wasn&#39;t discovered until after the sale went through. There&#39;s nothing for it lads, Im stuck with it.](http://9gag.com/gag/aVv2npP)
+ - ⏩ [He really wanted those numbers](http://9gag.com/gag/aByORwx)
+ - 👉 [Internal dialogue](http://9gag.com/gag/avydpxO)<!-- MEMES:END -->
 
 ---
 
