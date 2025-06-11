@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says &quot;I regret some of my posts about President Trump last week. They went too far&quot;; Trump said he had no interest in repairing the relationship &lpar;Andrés R. Martínez/New York Times&rpar;](http://www.techmeme.com/250611/p9#a250611p9)
- - [Hong Kong invokes its national security law to ban Taiwanese-made mobile game Reversed Front: Bonfire, marking the first known use of the law to block a game &lpar;Alan Wong/Bloomberg&rpar;](http://www.techmeme.com/250611/p8#a250611p8)
- - [President Trump&#39;s spending bill could limit local control over zoning and environmental regulations for AI data centers, worrying state lawmakers &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/250611/p7#a250611p7)<!-- TECH:END -->
+ - [New &#39;F1&#39; trailer brings roaring engines and a pounding soundtrack to life with haptic feedback](https://appleinsider.com/articles/25/06/11/new-f1-trailer-brings-roaring-engines-and-a-pounding-soundtrack-to-life-with-haptic-feedback?utm_medium=rss)
+ - [Whole Foods supplier United Natural Foods says it is working to restore its systems by June 15 after a cyberattack, leaving empty shelves and stalled forklifts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p10#a250611p10)
+ - [Artificial Intelligence Is Unlocking the Secrets of Black Holes](https://www.wired.com/story/artificial-intelligence-is-unlocking-the-secrets-of-black-holes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
