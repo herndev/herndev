@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - ⏩ [Mistakes were made](http://9gag.com/gag/axyPp8b)
+ - 💣 [It doesn&#39;t have to make sense, just push it](http://9gag.com/gag/aNDR6Dr)
+ - ⏩ [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
  - 👉 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)<!-- MEMES:END -->
 
 ---
