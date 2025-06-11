@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We encourage you to live with your choices, but if you want to change it, you can:&#39; Supermassive explains why it&#39;s adding a flowchart to its narrative horror with Directive 8020](https://www.pcgamer.com/games/horror/we-encourage-you-to-live-with-your-choices-but-if-you-want-to-change-it-you-can-supermassive-explains-why-its-adding-a-flowchart-to-its-narrative-horror-with-directive-8020/)
- - [Where to find the Holtzman Amplifier in Dune: Awakening](https://www.polygon.com/dune-awakening-guides/606520/holtzman-amplifier-where-to-find-location)
- - [How to watch Konami’s Press Start showcase for Naked Snake and Silent Hill news](https://www.polygon.com/news/606447/konami-press-start-games-showcase)<!-- GAME:END -->
+ - [MindsEye hotfix promised for the end of this week as Steam rating sinks back down to &#39;mostly negative&#39;](https://www.pcgamer.com/games/third-person-shooter/mindseye-hotfix-promised-for-the-end-of-this-week-as-steam-rating-sinks-back-down-to-mostly-negative/)
+ - [Videogame voice actors strike &#39;suspended&#39; following agreement with game companies: &#39;All SAG-AFTRA members are instructed to return to work&#39;](https://www.pcgamer.com/gaming-industry/videogame-voice-actors-strike-suspended-following-agreement-with-game-companies-all-sag-aftra-members-are-instructed-to-return-to-work/)
+ - [Steam review bombs can be harmful, says Mecha Break dev, but it had a positive takeaway after Chinese players hammered the beta: &#39;We underestimated players&#39; passion to get into our game&#39;](https://www.pcgamer.com/games/action/mecha-break-playtest-review-bomb-response/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
