@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve played 2 hours of MindsEye and it&#39;s pretty bad so far, I&#39;m afraid](https://www.pcgamer.com/games/action/mindseye-launch-impressions/)
- - [Today&#39;s Wordle answer for Wednesday, June 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-11-2025/)
- - [I&#39;ve played my share of cozy games, and Tales of the Shire is definitely one for the maximalist decorators](https://www.pcgamer.com/games/life-sim/ive-played-my-share-of-cozy-games-and-tales-of-the-shire-is-definitely-one-for-the-maximalist-decorators/)<!-- GAME:END -->
+ - [8BitDo Ultimate 2 Wireless review](https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-2-wireless-review/)
+ - [Date Everything turns everyday household objects into gorgeous love interests, and now I can&#39;t look at my refrigerator the same way](https://www.pcgamer.com/games/sim/date-everything-turns-everyday-household-objects-into-gorgeous-love-interests-and-now-i-cant-look-at-my-refrigerator-the-same-way/)
+ - [I&#39;ve played 2 hours of MindsEye and it&#39;s pretty bad so far, I&#39;m afraid](https://www.pcgamer.com/games/action/mindseye-launch-impressions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
