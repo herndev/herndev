@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate 2 boss apologizes for the &#39;division&#39; caused by his MAGA-style hat but still insists it wasn&#39;t meant to be political: &#39;There&#39;s division in the community, and for that I am truly sorry&#39;](https://www.pcgamer.com/games/fps/splitgate-2-boss-apologizes-for-the-division-caused-by-his-maga-style-hat-but-still-insists-it-wasnt-meant-to-be-political-theres-division-in-the-community-and-for-that-i-am-truly-sorry/)
- - [19 beginner’s tips before you start Dune: Awakening](https://www.polygon.com/dune-awakening-guides/606195/beginners-tips-tricks-before-you-start)
- - [World&#39;s most patient Nightreign players discover they can kill a boss by ringing an incredibly annoying bell 80 times](https://www.pcgamer.com/games/rpg/worlds-most-patient-nightreign-players-discover-they-can-kill-a-boss-by-ringing-an-incredibly-annoying-bell-80-times/)<!-- GAME:END -->
+ - [A big Civilization 7 is on the way with &#39;large and huge maps,&#39; Steam Workshop support, and a promise to keep working on it](https://www.pcgamer.com/games/strategy/a-big-civilization-7-is-on-the-way-with-large-and-huge-maps-steam-workshop-support-and-a-promise-to-keep-working-on-it/)
+ - [Mecha Break will have interactive space toilets because its developer wants to emphasize that players &#39;are acting as a pilot and not the mech itself&#39;](https://www.pcgamer.com/games/action/mecha-break-will-have-interactive-space-toilets-because-its-developer-wants-to-emphasize-that-players-are-acting-as-a-pilot-and-not-the-mech-itself/)
+ - [Splitgate 2 boss apologizes for the &#39;division&#39; caused by his MAGA-style hat but still insists it wasn&#39;t meant to be political: &#39;There&#39;s division in the community, and for that I am truly sorry&#39;](https://www.pcgamer.com/games/fps/splitgate-2-boss-apologizes-for-the-division-caused-by-his-maga-style-hat-but-still-insists-it-wasnt-meant-to-be-political-theres-division-in-the-community-and-for-that-i-am-truly-sorry/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
