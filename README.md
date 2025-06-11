@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think i had a pretty great 4th date.](http://9gag.com/gag/aAyXWv9)
- - ⏩ [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
- - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
+ - 💣 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - ⏩ [Mistakes were made](http://9gag.com/gag/axyPp8b)
+ - 👉 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)<!-- MEMES:END -->
 
 ---
 
