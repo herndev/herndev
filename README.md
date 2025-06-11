@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New &#39;F1&#39; trailer brings roaring engines and a pounding soundtrack to life with haptic feedback](https://appleinsider.com/articles/25/06/11/new-f1-trailer-brings-roaring-engines-and-a-pounding-soundtrack-to-life-with-haptic-feedback?utm_medium=rss)
- - [Whole Foods supplier United Natural Foods says it is working to restore its systems by June 15 after a cyberattack, leaving empty shelves and stalled forklifts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p10#a250611p10)
- - [Artificial Intelligence Is Unlocking the Secrets of Black Holes](https://www.wired.com/story/artificial-intelligence-is-unlocking-the-secrets-of-black-holes/)<!-- TECH:END -->
+ - [A profile of Twitch streamer and YouTuber Ross Minor, blind since age 8, who is an advocate and consultant for blind-accessible video games like Sea of Thieves &lpar;Dexter Thomas/Wired&rpar;](http://www.techmeme.com/250611/p14#a250611p14)
+ - [Android 16 QPR1 Beta 2 just made an iOS-style change to your status bar](https://www.androidauthority.com/android-16-qpr1-beta-2-wi-fi-mobile-network-status-bar-icon-3566382/)
+ - [Amazon is about to be flooded with AI-generated video ads](https://www.theverge.com/news/685160/amazon-ads-ai-video-generator-us-launch-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
