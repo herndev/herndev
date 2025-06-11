@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
- - ⏩ [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
- - 👉 [Forever and always.](http://9gag.com/gag/agmErnn)<!-- MEMES:END -->
+ - 💣 [Mistakes were made](http://9gag.com/gag/axyPp8b)
+ - ⏩ [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - 👉 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)<!-- MEMES:END -->
 
 ---
 
