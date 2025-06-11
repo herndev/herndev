@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [Circle to Search is making it easier to get to your song search history &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-new-buttons-3566626/)
- - [FCC’s last Democratic commissioner doesn’t know why Trump hasn’t fired her yet](https://www.theverge.com/policy/685599/fcc-commissioner-democrat-anna-gomez-trump-carr-first-amendment-tour)<!-- TECH:END -->
+ - [London-based OneBalance, which lets developers integrate crypto features into their apps, raised a $20M Series A led by Cyber Fund and Blockchain Capital &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250611/p40#a250611p40)
+ - [Warning: Google will soon nerf the Pixel 6a’s battery due to an overheating issue](https://www.androidauthority.com/pixel-6a-battery-overheating-warning-3566640/)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
