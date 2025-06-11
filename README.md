@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman claims an &quot;average&quot; ChatGPT query uses about 0.34 watt-hours and about 0.000085 gallons of water, or &quot;roughly one fifteenth of a teaspoon&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250610/p37#a250610p37)
- - [The latest Android 16 QPR1 beta finally organizes Android’s messy sound settings](https://www.androidauthority.com/android-16-qpr1-sound-settings-organized-3566322/)
- - [Sam Altman says &quot;intelligence and energy&quot;, the &quot;limiters on human progress&quot;, will be abundant in the 2030s, and superintelligence should be widely distributed &lpar;Sam Altman&rpar;](http://www.techmeme.com/250610/p36#a250610p36)<!-- TECH:END -->
+ - [Craig Federighi confirms Apple’s first attempt at an AI Siri wasn’t good enough](https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025)
+ - [ChatGPT’s daylong outage is nearly fixed](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)
+ - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
