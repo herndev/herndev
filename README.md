@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Craig Federighi confirms Apple’s first attempt at an AI Siri wasn’t good enough](https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025)
- - [ChatGPT’s daylong outage is nearly fixed](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)
- - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)<!-- TECH:END -->
+ - [Elon Musk says Tesla&#39;s robotaxi service will &quot;tentatively&quot; begin on June 22 in Austin, with first autonomous deliveries of a car to a customer&#39;s home on June 28 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250610/p39#a250610p39)
+ - [President Emmanuel Macron says France will ban social media access for children under 15 within &quot;a few months&quot; if it is not done at the European level &lpar;Gavin Blackburn/Euronews&rpar;](http://www.techmeme.com/250610/p38#a250610p38)
+ - [Craig Federighi confirms Apple’s first attempt at an AI Siri wasn’t good enough](https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
