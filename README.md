@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your phone won’t be powering Xreal’s upcoming Android XR glasses](https://www.androidauthority.com/xreal-project-aura-tethered-puck-3566760/)
- - [Apple Home is expanding its energy management features](https://www.theverge.com/news/685733/apple-home-energykit-energy-management-ios26-wwdc)
- - [Android 16 QPR1 Beta 2 Wallpaper Studio offers a home for its best customization tools](https://www.androidauthority.com/wallpaper-studio-3566758/)<!-- TECH:END -->
+ - [A majority of six of the 11 judges on Brazil&#39;s Supreme Court have voted to hold social media companies liable for some types of users&#39; content seen as illegal &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/250611/p42#a250611p42)
+ - [This Hilarious Prime Video Caper Flips the Script on British Crime Drama](https://www.cnet.com/tech/services-and-software/this-hilarious-prime-video-caper-flips-the-script-on-british-crime-drama/#ftag=CAD590a51e)
+ - [Yes, an iPhone Could Cost More Than $2,200 With Tariffs. Should You Buy One Now?](https://www.cnet.com/personal-finance/taxes/yes-an-iphone-could-cost-more-than-2200-with-tariffs-should-you-buy-one-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
