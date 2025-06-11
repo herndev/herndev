@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based OneBalance, which lets developers integrate crypto features into their apps, raised a $20M Series A led by Cyber Fund and Blockchain Capital &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250611/p40#a250611p40)
- - [Warning: Google will soon nerf the Pixel 6a’s battery due to an overheating issue](https://www.androidauthority.com/pixel-6a-battery-overheating-warning-3566640/)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [Your phone won’t be powering Xreal’s upcoming Android XR glasses](https://www.androidauthority.com/xreal-project-aura-tethered-puck-3566760/)
+ - [Apple Home is expanding its energy management features](https://www.theverge.com/news/685733/apple-home-energykit-energy-management-ios26-wwdc)
+ - [Android 16 QPR1 Beta 2 Wallpaper Studio offers a home for its best customization tools](https://www.androidauthority.com/wallpaper-studio-3566758/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
