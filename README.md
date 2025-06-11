@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We Played Resident Evil Requiem – In First and Third Person Modes](https://news.xbox.com/en-us/2025/06/11/resident-evil-requiem-hands-on-preview-first-third-person/)
- - [Stephen King&#39;s The Institute Always Read Like A TV Pilot, And Now It&#39;s A TV Series](https://kotaku.com/stephen-king-the-institute-mgm-tv-series-trailer-1851784311)
- - [Razer&#39;s first barebones kit is a big win for keyboard nerds and is cheaper than Corsair&#39;s new one](https://www.pcgamer.com/hardware/gaming-keyboards/razers-first-barebones-kit-is-a-big-win-for-keyboard-nerds-and-is-cheaper-than-corsairs-new-one/)<!-- GAME:END -->
+ - [At Fate’s End: The Spiritfarer Team’s Next Game Invites You to Fight the Ones You Love](https://news.xbox.com/en-us/2025/06/11/at-fates-end-spiritfarer-xbox-games-showcase/)
+ - [OpenAI head Sam Altman claims a single ChatGPT query uses ‘one 15th of a teaspoon’ of water but that doesn&#39;t put AI&#39;s environmental impact in the clear](https://www.pcgamer.com/software/ai/openai-head-sam-altman-claims-a-single-chatgpt-query-uses-one-15th-of-a-teaspoon-of-water-but-that-doesnt-put-ais-environmental-impact-in-the-clear/)
+ - [Steven Universe sequel Lars of the Stars coming to Prime Video](https://www.polygon.com/animation-cartoons/606310/steven-universe-sequel-lars-of-the-stars-prime-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
