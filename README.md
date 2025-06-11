@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)
- - ⏩ [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
- - 👉 [Decided by mere milliseconds, an incredible race finish.](http://9gag.com/gag/axyPxGK)<!-- MEMES:END -->
+ - 💣 [Living the dream, castle and cats included.](http://9gag.com/gag/abA2jjr)
+ - ⏩ [That&#39;s not quite what we meant by &#39;off-road capabilities&#39;.](http://9gag.com/gag/ae97KK5)
+ - 👉 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)<!-- MEMES:END -->
 
 ---
 
