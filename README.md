@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [At Fate’s End: The Spiritfarer Team’s Next Game Invites You to Fight the Ones You Love](https://news.xbox.com/en-us/2025/06/11/at-fates-end-spiritfarer-xbox-games-showcase/)
- - [OpenAI head Sam Altman claims a single ChatGPT query uses ‘one 15th of a teaspoon’ of water but that doesn&#39;t put AI&#39;s environmental impact in the clear](https://www.pcgamer.com/software/ai/openai-head-sam-altman-claims-a-single-chatgpt-query-uses-one-15th-of-a-teaspoon-of-water-but-that-doesnt-put-ais-environmental-impact-in-the-clear/)
- - [Steven Universe sequel Lars of the Stars coming to Prime Video](https://www.polygon.com/animation-cartoons/606310/steven-universe-sequel-lars-of-the-stars-prime-video)<!-- GAME:END -->
+ - [Aniimo: Breaking Down This Beautiful Creature Collector – Sign Up for a Closed Beta!](https://news.xbox.com/en-us/2025/06/11/aniimo-details-xbox-games-showcase/)
+ - [All Unstable Exotic Weapons in Fortnite and how to get them](https://www.polygon.com/fortnite-guide/606356/unstable-exotic-weapons-all-how-to-get)
+ - [Everything we know after Resident Evil Requiem’s big reveal](https://www.polygon.com/horror/606304/everything-we-know-after-resident-evil-requiems-big-reveal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
