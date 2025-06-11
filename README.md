@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eider ducks](http://9gag.com/gag/a5QqpgN)
- - ⏩ [Forever and always.](http://9gag.com/gag/agmErnn)
- - 👉 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)<!-- MEMES:END -->
+ - 💣 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
+ - ⏩ [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
+ - 👉 [Forever and always.](http://9gag.com/gag/agmErnn)<!-- MEMES:END -->
 
 ---
 
