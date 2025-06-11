@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I give it 3 month max before we hear stories of people&#39;s grandparents being tricked by fake AI news clips](http://9gag.com/gag/aQzO6jK)
- - ⏩ [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - 👉 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)<!-- MEMES:END -->
+ - 💣 [Plus tax](http://9gag.com/gag/adBo009)
+ - ⏩ [Metal](http://9gag.com/gag/aLnXq0V)
+ - 👉 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)<!-- MEMES:END -->
 
 ---
 
