@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Phil Spencer Xbox Games Showcase Interview – The Official Xbox Podcast](https://youtu.be/mw26FdfkUDM?si=alrLm4oS_SXzl1s0#new_tab)
- - [US aviation is another industry looking to finally wave goodbye to frightfully persistent floppy disks](https://www.pcgamer.com/hardware/us-aviation-is-another-industry-looking-to-finally-wave-goodbye-to-frightfully-persistent-floppy-disks/)
- - [Mixtape Is a Box of Surprises that Plays Like a Classic Teen Movie](https://news.xbox.com/en-us/2025/06/11/mixtape-hands-on-preview/)<!-- GAME:END -->
+ - [We Played Resident Evil Requiem – In First and Third Person Modes](https://news.xbox.com/en-us/2025/06/11/resident-evil-requiem-hands-on-preview-first-third-person/)
+ - [Stephen King&#39;s The Institute Always Read Like A TV Pilot, And Now It&#39;s A TV Series](https://kotaku.com/stephen-king-the-institute-mgm-tv-series-trailer-1851784311)
+ - [Razer&#39;s first barebones kit is a big win for keyboard nerds and is cheaper than Corsair&#39;s new one](https://www.pcgamer.com/hardware/gaming-keyboards/razers-first-barebones-kit-is-a-big-win-for-keyboard-nerds-and-is-cheaper-than-corsairs-new-one/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
