@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [It wasn&#39;t discovered until after the sale went through. There&#39;s nothing for it lads, Im stuck with it.](http://9gag.com/gag/aVv2npP)
- - ⏩ [He really wanted those numbers](http://9gag.com/gag/aByORwx)
- - 👉 [Internal dialogue](http://9gag.com/gag/avydpxO)<!-- MEMES:END -->
+ - ⏩ [Make it make sense.](http://9gag.com/gag/aYQ18B7)
+ - 👉 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)<!-- MEMES:END -->
 
 ---
 
