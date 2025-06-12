@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, June 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-12-2025/)
  - [Gigantamax Inteleon counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/606143/gigantamax-inteleon-counters-weaknesses-battle-tips)
- - [Solasta 2 is switching to D&amp;D 5th edition&#39;s 2024 rules update](https://www.pcgamer.com/games/rpg/solasta-2-is-switching-to-d-and-d-5th-editions-2024-rules-update/)
- - [An Elden Ring Nightreign dataminer dove into the numbers to prove that reaching max level isn&#39;t as strong as it seems](https://www.pcgamer.com/games/rpg/an-elden-ring-nightreign-dataminer-dove-into-the-numbers-to-prove-that-reaching-max-level-isnt-as-strong-as-it-seems/)<!-- GAME:END -->
+ - [Solasta 2 is switching to D&amp;D 5th edition&#39;s 2024 rules update](https://www.pcgamer.com/games/rpg/solasta-2-is-switching-to-d-and-d-5th-editions-2024-rules-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
