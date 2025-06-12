@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has set an internal release target of spring 2026 for its delayed upgrade of Siri, as part of an iOS 26.4 software update &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250612/p39#a250612p39)
- - [Internal docs: Fidelity, TPG, Sequoia, and others are buying ~$250M worth of shares in xAI under a tender offer valuing it at $113B; Fidelity is purchasing $20M &lpar;New York Times&rpar;](http://www.techmeme.com/250612/p38#a250612p38)
- - [Bose upgraded the adaptive ANC on its new QuietComfort Ultra earbuds](https://www.theverge.com/news/686448/bose-quietcomfort-ultra-gen2-wireless-earbuds-anc-soundlink-plus-micro-speakers)<!-- TECH:END -->
+ - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Trump’s protest threats raise surveillance alarms around his military parade](https://www.theverge.com/politics/686492/trump-military-parade-surveillance-protests-free-speech)
+ - [The Meta AI App Lets You ‘Discover’ People’s Bizarrely Personal Chats](https://www.wired.com/story/meta-artificial-intelligence-chatbot-conversations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
