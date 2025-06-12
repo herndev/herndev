@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ve got 99 problems, but black mold ain&#39;t one &lpar;anymore&rpar;...](http://9gag.com/gag/a2vLzwO)
- - ⏩ [Women](http://9gag.com/gag/aQzO60d)
- - 👉 [Friendship](http://9gag.com/gag/ayNY74M)<!-- MEMES:END -->
+ - 💣 [Witty title](http://9gag.com/gag/agmE3ZW)
+ - ⏩ [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 👉 [G*rls be like](http://9gag.com/gag/ae9735q)<!-- MEMES:END -->
 
 ---
 
