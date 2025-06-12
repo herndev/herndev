@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This UI animation is definitely overengineered.](http://9gag.com/gag/ary21nB)
- - ⏩ [How would they not know? They had a time machine!](http://9gag.com/gag/ajPKb4g)
- - 👉 [Title](http://9gag.com/gag/avydpeb)<!-- MEMES:END -->
+ - 💣 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)
+ - ⏩ [Listen to this sweet talking bird](http://9gag.com/gag/ae92XdW)
+ - 👉 [Internal dialogue](http://9gag.com/gag/avydpxO)<!-- MEMES:END -->
 
 ---
 
