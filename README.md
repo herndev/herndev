@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Xbox Games Showcase Deep Dive: Grounded 2](https://www.youtube.com/watch?v=f_MpCHtM6U0)
  - [Today&#39;s Wordle answer for Thursday, June 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-12-2025/)
- - [Gigantamax Inteleon counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/606143/gigantamax-inteleon-counters-weaknesses-battle-tips)
- - [Solasta 2 is switching to D&amp;D 5th edition&#39;s 2024 rules update](https://www.pcgamer.com/games/rpg/solasta-2-is-switching-to-d-and-d-5th-editions-2024-rules-update/)<!-- GAME:END -->
+ - [Gigantamax Inteleon counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/606143/gigantamax-inteleon-counters-weaknesses-battle-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
