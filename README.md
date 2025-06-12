@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She should take the hint](http://9gag.com/gag/avydgpd)
- - ⏩ [This is the AI we actually need](http://9gag.com/gag/aByOKxD)
- - 👉 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)<!-- MEMES:END -->
+ - 💣 [TACO move](http://9gag.com/gag/a87KM8Z)
+ - ⏩ [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
+ - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
 
 ---
 
