@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Konami announces Metal Gear Delta will include a new multiplayer mode, but don&#39;t expect Metal Gear Online 4 because &#39;the landscape of multiplayer games has changed a lot&#39;](https://www.pcgamer.com/games/konami-announces-metal-gear-delta-will-include-a-new-multiplayer-mode-but-dont-expect-metal-gear-online-4-because-the-landscape-of-multiplayer-games-has-changed-a-lot/)
- - [How to fix the broken battery charge indicator on the Switch 2](https://www.polygon.com/nintendo-switch-2/606638/battery-charge-indicator-broken-how-to-fix)
- - [Code Vein 2 made me realize what I&#39;ve always wanted in a Souls game: a sick motorcycle](https://www.pcgamer.com/games/action/code-vein-2-made-me-realize-what-ive-always-wanted-in-a-souls-game-a-sick-motorcycle/)<!-- GAME:END -->
+ - [Onimusha: Way of the Sword was the best thing I saw at Summer Game Fest](https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-was-the-best-thing-i-saw-at-summer-game-fest/)
+ - [How To Date And Marry Your Way To Your Soul Zoi In InZOI](https://kotaku.com/inzoi-dating-married-relationship-events-true-love-1851784422)
+ - [10 Ironheart Cameos That Make Too Much Sense Not To Happen](https://kotaku.com/ironheart-ironman-riri-williams-marvel-1851784361)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
