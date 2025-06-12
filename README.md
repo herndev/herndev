@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion Remastered has ruined me for Skyrim](https://www.polygon.com/opinion/606136/oblivion-remastered-ruined-me-for-skyrim)
- - [Jurassic World Evolution 3&#39;s system requirements are graciously breezy and don&#39;t require a dino-sized SSD](https://www.pcgamer.com/hardware/jurassic-world-evolution-3s-system-requirements-are-graciously-breezy-and-dont-require-a-dino-sized-ssd/)
- - [Some RTX 50-series gamers with EVGA motherboards are having to physically tape their graphics cards to boot up their PC](https://www.pcgamer.com/hardware/graphics-cards/some-rtx-50-series-gamers-with-evga-motherboards-are-having-to-physically-tape-their-graphics-cards-to-boot-up-their-pc/)<!-- GAME:END -->
+ - [There’s so much to untangle from the the ending of Sinners](https://www.polygon.com/horror/605824/a-re-vamped-look-at-the-real-ending-of-ryan-cooglers-sinners)
+ - [Here Are Our Favorite Cosplay Fits From Comic Con London 2025](https://kotaku.com/mcm-comic-con-london-cosplay-best-outfits-arcane-1851784391)
+ - [Elden Ring Nightreign: A Beginner&#39;s Guide To Mastering The Executor](https://kotaku.com/elden-ring-nightreign-executor-beast-dexterity-arcane-1851784376)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
