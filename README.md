@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s new mobile controller can stretch wide enough to fit an iPad Pro](https://www.theverge.com/news/686013/razer-kishi-v3-xl-ipad-pro-air-android-hands-on-gaming)
- - [John Deere has to face the FTC&amp;#8217;s right-to-repair lawsuit](https://www.theverge.com/news/686074/john-deere-ftc-right-to-repair-lawsuit-must-face)
- - [Save $100 on Apple’s latest iPad Air with the M3 chip](https://www.theverge.com/tech/686039/ipad-air-meta-quest-3s-assassins-creed-shadows-deal-sale)<!-- TECH:END -->
+ - [Microsoft’s new Copilot Vision can ‘see’ your apps on Windows](https://www.theverge.com/news/685963/microsoft-copilot-vision-windows-launch)
+ - [Google tests new segmented Pixel Launcher search bar design in the latest Android 16 QPR1 beta](https://www.androidauthority.com/android-16-qpr1-beta-2-segmented-search-bar-3567059/)
+ - [Grab AirPods 4 for $99 or AirPods Pro 2 for $169 during Amazon&#39;s earbuds sale](https://appleinsider.com/articles/25/06/12/grab-airpods-4-for-99-or-airpods-pro-2-for-169-during-amazons-earbuds-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
