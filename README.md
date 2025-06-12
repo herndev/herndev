@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pragmata Brings a Thrillingly New Idea to Third-Person Shooters](https://news.xbox.com/en-us/2025/06/12/pragmata-hands-on-preview/)
- - [Trump&#39;s AI czar echoes Jen-Hsun, says China&#39;s AI models are &#39;maybe three to six months&#39; behind the US—while also arguing for ever fewer AI regulations in the US](https://www.pcgamer.com/software/ai/trumps-ai-czar-echoes-jen-hsun-says-chinas-ai-models-are-maybe-three-to-six-months-behind-the-us-while-also-arguing-for-ever-fewer-ai-regulations-in-the-us/)
- - [Metal Gear Solid 3: Snake Eater Is Getting An All New Multiplayer Mode Over 20 Years Later](https://kotaku.com/metal-gear-solid-3-delta-snake-eater-fox-hunt-online-1851784404)<!-- GAME:END -->
+ - [&#39;I don&#39;t actually play horror games&#39;: Phasmophobia&#39;s lead developer had no intention of making a horror game but still kicked off a whole new genre](https://www.pcgamer.com/games/horror/i-dont-actually-play-horror-games-phasmophobias-lead-developer-had-no-intention-of-making-a-horror-game-but-still-kicked-off-a-whole-new-genre/)
+ - [Nintendo Switch 2 review: the latest gaming handheld, from a PC Gamer&#39;s perspective](https://www.pcgamer.com/hardware/nintendo-switch-2-review/)
+ - [This Minesweeper roguelike is a chaotic corporate nightmare, and I love it](https://www.pcgamer.com/games/roguelike/this-minesweeper-roguelike-is-a-chaotic-corporate-nightmare-and-i-love-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
