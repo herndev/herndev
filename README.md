@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Some RTX 50-series gamers with EVGA motherboards are having to physically tape their graphics cards to boot up their PC](https://www.pcgamer.com/hardware/graphics-cards/some-rtx-50-series-gamers-with-evga-motherboards-are-having-to-physically-tape-their-graphics-cards-to-boot-up-their-pc/)
  - [Xbox Games Showcase Deep Dive: Grounded 2](https://www.youtube.com/watch?v=f_MpCHtM6U0)
- - [Today&#39;s Wordle answer for Thursday, June 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-12-2025/)
- - [Gigantamax Inteleon counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/606143/gigantamax-inteleon-counters-weaknesses-battle-tips)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, June 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-12-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
