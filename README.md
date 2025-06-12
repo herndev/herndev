@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fujifilm’s new X-E5 is one of its sleekest mirrorless cameras yet](https://www.theverge.com/news/685782/fujifilm-xe5-mirrorless-camera-x100-price-specs)
- - [SAG-AFTRA ends the 300+ day video game actors strike after reaching a tentative deal for a new Interactive Media Agreement with the major video game companies &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/250612/p12#a250612p12)
- - [How an AI assistant developed by Brazilian nonprofit NoHarm is helping pharmacists in remote Amazon clinics process prescriptions more quickly and catch errors &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250612/p11#a250612p11)<!-- TECH:END -->
+ - [Visa: stablecoin transaction volumes hit $752B in May, up from $409B in May 2024, and wallets that regularly send and receive payments hit a record 46M average &lpar;Financial Times&rpar;](http://www.techmeme.com/250612/p16#a250612p16)
+ - [First PS3 emulator hits the Play Store, goes open-source &lpar;kind of&rpar;](https://www.androidauthority.com/aps3e-play-store-open-source-3566922/)
+ - [Gemini and Glassnode research: centralized treasuries, including governments, ETFs, and public companies, now control 30.9% of bitcoin&#39;s circulating supply &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250612/p15#a250612p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
