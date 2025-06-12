@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs&#39; famous Stanford speech is 20 years old, and newly remastered](https://appleinsider.com/articles/25/06/12/steve-jobs-famous-stanford-speech-is-20-years-old-and-newly-remastered?utm_medium=rss)
- - [How to Avoid Scams and Shoddy Wares on Amazon &lpar;2025&rpar;](https://www.wired.com/story/how-shop-safe-amazon/)
- - [New report about Apple&#39;s 10 main challenges ignores two main factors](https://appleinsider.com/articles/25/06/12/new-report-about-apples-10-main-challenges-ignores-two-main-factors?utm_medium=rss)<!-- TECH:END -->
+ - [Razer’s new mobile controller can stretch wide enough to fit an iPad Pro](https://www.theverge.com/news/686013/razer-kishi-v3-xl-ipad-pro-air-android-hands-on-gaming)
+ - [John Deere has to face the FTC&amp;#8217;s right-to-repair lawsuit](https://www.theverge.com/news/686074/john-deere-ftc-right-to-repair-lawsuit-must-face)
+ - [Save $100 on Apple’s latest iPad Air with the M3 chip](https://www.theverge.com/tech/686039/ipad-air-meta-quest-3s-assassins-creed-shadows-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
