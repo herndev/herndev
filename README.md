@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s new Copilot Vision can ‘see’ your apps on Windows](https://www.theverge.com/news/685963/microsoft-copilot-vision-windows-launch)
- - [Google tests new segmented Pixel Launcher search bar design in the latest Android 16 QPR1 beta](https://www.androidauthority.com/android-16-qpr1-beta-2-segmented-search-bar-3567059/)
- - [Grab AirPods 4 for $99 or AirPods Pro 2 for $169 during Amazon&#39;s earbuds sale](https://appleinsider.com/articles/25/06/12/grab-airpods-4-for-99-or-airpods-pro-2-for-169-during-amazons-earbuds-sale?utm_medium=rss)<!-- TECH:END -->
+ - [Lyft ramps up its ad business with three new ad formats; CEO David Risher said that Lyft is on track to reach a $100M annualized ad revenue run rate by 2025 end &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250612/p28#a250612p28)
+ - [Check your Anker power bank -- a fire risk prompted a major recall](https://appleinsider.com/articles/25/06/12/check-your-anker-power-bank----a-fire-risk-prompted-a-major-recall?utm_medium=rss)
+ - [Google Pixel 10 may fail to live up to our MagSafe dreams, after all](https://www.androidauthority.com/pixel-10-magnets-3567047/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
