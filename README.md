@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I don&#39;t actually play horror games&#39;: Phasmophobia&#39;s lead developer had no intention of making a horror game but still kicked off a whole new genre](https://www.pcgamer.com/games/horror/i-dont-actually-play-horror-games-phasmophobias-lead-developer-had-no-intention-of-making-a-horror-game-but-still-kicked-off-a-whole-new-genre/)
- - [Nintendo Switch 2 review: the latest gaming handheld, from a PC Gamer&#39;s perspective](https://www.pcgamer.com/hardware/nintendo-switch-2-review/)
- - [This Minesweeper roguelike is a chaotic corporate nightmare, and I love it](https://www.pcgamer.com/games/roguelike/this-minesweeper-roguelike-is-a-chaotic-corporate-nightmare-and-i-love-it/)<!-- GAME:END -->
+ - [Konami announces Metal Gear Delta will include a new multiplayer mode, but don&#39;t expect Metal Gear Online 4 because &#39;the landscape of multiplayer games has changed a lot&#39;](https://www.pcgamer.com/games/konami-announces-metal-gear-delta-will-include-a-new-multiplayer-mode-but-dont-expect-metal-gear-online-4-because-the-landscape-of-multiplayer-games-has-changed-a-lot/)
+ - [How to fix the broken battery charge indicator on the Switch 2](https://www.polygon.com/nintendo-switch-2/606638/battery-charge-indicator-broken-how-to-fix)
+ - [Code Vein 2 made me realize what I&#39;ve always wanted in a Souls game: a sick motorcycle](https://www.pcgamer.com/games/action/code-vein-2-made-me-realize-what-ive-always-wanted-in-a-souls-game-a-sick-motorcycle/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
