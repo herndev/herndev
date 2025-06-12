@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Witty title](http://9gag.com/gag/agmE3ZW)
- - ⏩ [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 👉 [G*rls be like](http://9gag.com/gag/ae9735q)<!-- MEMES:END -->
+ - 💣 [Bro is going through it](http://9gag.com/gag/azxYgOj)
+ - ⏩ [This is his villain origin story](http://9gag.com/gag/a5QqKdV)
+ - 👉 [Friendship](http://9gag.com/gag/ayNY74M)<!-- MEMES:END -->
 
 ---
 
