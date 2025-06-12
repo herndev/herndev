@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft ramps up its ad business with three new ad formats; CEO David Risher said that Lyft is on track to reach a $100M annualized ad revenue run rate by 2025 end &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250612/p28#a250612p28)
- - [Check your Anker power bank -- a fire risk prompted a major recall](https://appleinsider.com/articles/25/06/12/check-your-anker-power-bank----a-fire-risk-prompted-a-major-recall?utm_medium=rss)
- - [Google Pixel 10 may fail to live up to our MagSafe dreams, after all](https://www.androidauthority.com/pixel-10-magnets-3567047/)<!-- TECH:END -->
+ - [Apple &amp; Google profit as Chinese VPNs collect your private data](https://appleinsider.com/articles/25/06/12/apple-google-profit-as-chinese-vpns-collect-your-private-data?utm_medium=rss)
+ - [Social Media Is Now a DIY Alert System for ICE Raids](https://www.wired.com/story/the-rise-of-social-media-as-a-diy-alert-system-for-ice-raids/)
+ - [Google’s excellent TV Streamer &lpar;4K&rpar; is on sale just in time for Father’s Day](https://www.theverge.com/tech/686231/google-tv-streamer-4k-fathers-day-2025-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
