@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When they try to hide the assets](http://9gag.com/gag/an7DA30)
- - ⏩ [A business model of outsourcing decision making and accountability.](http://9gag.com/gag/ajPK2Nx)
- - 👉 [This UI animation is definitely overengineered.](http://9gag.com/gag/ary21nB)<!-- MEMES:END -->
+ - 💣 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
+ - ⏩ [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
+ - 👉 [Title](http://9gag.com/gag/avydpeb)<!-- MEMES:END -->
 
 ---
 
