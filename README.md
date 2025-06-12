@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
- - ⏩ [She should take the hint](http://9gag.com/gag/avydgpd)
- - 👉 [A questionable decision.](http://9gag.com/gag/aAyORzR)<!-- MEMES:END -->
+ - 💣 [I&#39;ve got 99 problems, but black mold ain&#39;t one &lpar;anymore&rpar;...](http://9gag.com/gag/a2vLzwO)
+ - ⏩ [Women](http://9gag.com/gag/aQzO60d)
+ - 👉 [Friendship](http://9gag.com/gag/ayNY74M)<!-- MEMES:END -->
 
 ---
 
