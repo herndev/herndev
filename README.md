@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Filming workouts draws criticism](http://9gag.com/gag/azxY7ej)
- - ⏩ [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)
- - 👉 [Not a big fan](http://9gag.com/gag/amopN8X)<!-- MEMES:END -->
+ - 💣 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)
+ - ⏩ [The hair is counting down](http://9gag.com/gag/aByOR72)
+ - 👉 [Plus tax](http://9gag.com/gag/adBo009)<!-- MEMES:END -->
 
 ---
 
