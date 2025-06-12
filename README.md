@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [FromSoftware left hints for Elden Ring Nightreign&#39;s enhanced bosses update in the files and modders have already dug them up](https://www.pcgamer.com/games/rpg/fromsoftware-left-hints-for-elden-ring-nightreigns-enhanced-bosses-update-in-the-files-and-modders-have-already-dug-them-up/)
  - [Where to find trial locations in Dune Awakening](https://www.polygon.com/dune-awakening-guides/606703/trials-locations-all-where-to-find)
- - [All Stellar Blade outfits and how to unlock them](https://www.polygon.com/guides/606252/stellar-blade-outfits-list-all-unlock-how-to)
- - [How to repair vehicles, items, and buildings in Dune: Awakening](https://www.polygon.com/dune-awakening-guides/606688/repair-how-to-vehicles-items-buildings)<!-- GAME:END -->
+ - [All Stellar Blade outfits and how to unlock them](https://www.polygon.com/guides/606252/stellar-blade-outfits-list-all-unlock-how-to)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
