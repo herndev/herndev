@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion Remastered’s Best Side Quest Is A World Within A World](https://kotaku.com/oblivion-remastered-brush-with-death-painting-quest-1851784432)
- - [The Last of Us season 2 writer says ridiculed ‘dad’ line just popped into his head](https://www.polygon.com/last-of-us/606673/ellie-im-going-to-be-a-dad-tlou-season-2-line-mazin)
- - [Clair Obscur: Expedition 33: How To Solve The Esoteric Ruins Maze](https://kotaku.com/clair-obscur-expedition-33-esoteric-ruins-maze-portier-1851784425)<!-- GAME:END -->
+ - [Crimson Desert Made Me Crash Out](https://kotaku.com/crimson-desert-preview-summer-game-fest-sgf-action-rpg-1851784440)
+ - [Spine is a gun-fu love letter that wants to make you feel as OP as John Wick](https://www.pcgamer.com/games/third-person-shooter/spine-is-a-gun-fu-love-letter-that-wants-to-make-you-feel-as-op-as-john-wick/)
+ - [Oblivion Remastered’s Best Side Quest Is A World Within A World](https://kotaku.com/oblivion-remastered-brush-with-death-painting-quest-1851784432)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
