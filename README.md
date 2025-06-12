@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TACO move](http://9gag.com/gag/a87KM8Z)
- - ⏩ [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
- - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
+ - 💣 [I didn&#39;t know you could use this meme this way...](http://9gag.com/gag/agmEvnn)
+ - ⏩ [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 👉 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)<!-- MEMES:END -->
 
 ---
 
