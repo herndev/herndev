@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There’s so much to untangle from the the ending of Sinners](https://www.polygon.com/horror/605824/a-re-vamped-look-at-the-real-ending-of-ryan-cooglers-sinners)
- - [Here Are Our Favorite Cosplay Fits From Comic Con London 2025](https://kotaku.com/mcm-comic-con-london-cosplay-best-outfits-arcane-1851784391)
- - [Elden Ring Nightreign: A Beginner&#39;s Guide To Mastering The Executor](https://kotaku.com/elden-ring-nightreign-executor-beast-dexterity-arcane-1851784376)<!-- GAME:END -->
+ - [FBC: Firebreak developers discuss the inspiration and challenges creating their first multiplayer title](https://blog.playstation.com/2025/06/12/fbc-firebreak-developers-discuss-the-inspiration-and-challenges-creating-their-first-multiplayer-title/)
+ - [&#39;Most chairs labeled as &#39;gaming&#39; chairs are simply budget task chairs with colorful accent stripes&#39;: here&#39;s what annoys industry experts the most about gaming chairs](https://www.pcgamer.com/hardware/gaming-chairs/most-chairs-labeled-as-gaming-chairs-are-simply-budget-task-chairs-with-colorful-accent-stripes-heres-what-annoys-industry-experts-the-most-about-gaming-chairs/)
+ - [Metal Gear Solid Delta trailer shows off Fox Hunt multiplayer mode, Ape Escape, boss battles, and more](https://www.polygon.com/gaming/606577/metal-gear-solid-delta-trailer-fox-hunt-multiplayer-mode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
