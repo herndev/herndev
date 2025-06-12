@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Some RTX 50-series gamers with EVGA motherboards are having to physically tape their graphics cards to boot up their PC](https://www.pcgamer.com/hardware/graphics-cards/some-rtx-50-series-gamers-with-evga-motherboards-are-having-to-physically-tape-their-graphics-cards-to-boot-up-their-pc/)
- - [Xbox Games Showcase Deep Dive: Grounded 2](https://www.youtube.com/watch?v=f_MpCHtM6U0)
- - [Today&#39;s Wordle answer for Thursday, June 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-12-2025/)<!-- GAME:END -->
+ - [Oblivion Remastered has ruined me for Skyrim](https://www.polygon.com/opinion/606136/oblivion-remastered-ruined-me-for-skyrim)
+ - [Jurassic World Evolution 3&#39;s system requirements are graciously breezy and don&#39;t require a dino-sized SSD](https://www.pcgamer.com/hardware/jurassic-world-evolution-3s-system-requirements-are-graciously-breezy-and-dont-require-a-dino-sized-ssd/)
+ - [Some RTX 50-series gamers with EVGA motherboards are having to physically tape their graphics cards to boot up their PC](https://www.pcgamer.com/hardware/graphics-cards/some-rtx-50-series-gamers-with-evga-motherboards-are-having-to-physically-tape-their-graphics-cards-to-boot-up-their-pc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
