@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple &amp; Google profit as Chinese VPNs collect your private data](https://appleinsider.com/articles/25/06/12/apple-google-profit-as-chinese-vpns-collect-your-private-data?utm_medium=rss)
- - [Social Media Is Now a DIY Alert System for ICE Raids](https://www.wired.com/story/the-rise-of-social-media-as-a-diy-alert-system-for-ice-raids/)
- - [Google’s excellent TV Streamer &lpar;4K&rpar; is on sale just in time for Father’s Day](https://www.theverge.com/tech/686231/google-tv-streamer-4k-fathers-day-2025-deal-sale)<!-- TECH:END -->
+ - [Pinterest is adding third-party influencer content to its feeds](https://www.theverge.com/news/685830/pinterest-ltk-affiliate-shopping-content-creators)
+ - [iOS 26 adds voicemail spam reporting &amp; new screening tools](https://appleinsider.com/articles/25/06/12/ios-26-adds-voicemail-spam-reporting-new-screening-tools?utm_medium=rss)
+ - [AMD unveils its new MI350X and MI355X GPUs for AI workloads, claiming up to 4x AI compute performance and 35x inference gains over the prior-gen MI300X &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250612/p32#a250612p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
