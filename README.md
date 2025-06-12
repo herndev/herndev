@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Adult taste buds hit different](http://9gag.com/gag/a0eM9mZ)
- - ⏩ [I&#39;ve got 99 problems, but black mold ain&#39;t one &lpar;anymore&rpar;...](http://9gag.com/gag/a2vLzwO)
- - 👉 [Women](http://9gag.com/gag/aQzO60d)<!-- MEMES:END -->
+ - 💣 [Pauline is on to something](http://9gag.com/gag/a7opvQb)
+ - ⏩ [Friendship](http://9gag.com/gag/ayNY74M)
+ - 👉 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)<!-- MEMES:END -->
 
 ---
 
