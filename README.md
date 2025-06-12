@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Databricks says it expects to generate $3.7B in annualized revenue by July, up 50% YoY, with nearly 50 of its 15,000+ customers spending over $10M annually &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250612/p1#a250612p1)
  - [Klarna’s CEO is now taking your calls — over an AI hotline](https://www.theverge.com/news/685814/klarna-ceo-calls-ai-hotline)
- - [An Interpol-led law enforcement action in 26 countries disrupted infostealer operations, leading to takedowns of 20K+ malicious IPs and domains and 32 arrests &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250611/p48#a250611p48)
- - [tvOS 26 adopts Thread 1.4 for an improved Apple Home experience](https://appleinsider.com/articles/25/06/12/tvos-26-adopts-thread-14-for-an-improved-apple-home-experience?utm_medium=rss)<!-- TECH:END -->
+ - [An Interpol-led law enforcement action in 26 countries disrupted infostealer operations, leading to takedowns of 20K+ malicious IPs and domains and 32 arrests &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250611/p48#a250611p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
