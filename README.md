@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MindsEye hotfix promised for the end of this week as Steam rating sinks back down to &#39;mostly negative&#39;](https://www.pcgamer.com/games/third-person-shooter/mindseye-hotfix-promised-for-the-end-of-this-week-as-steam-rating-sinks-back-down-to-mostly-negative/)
- - [Videogame voice actors strike &#39;suspended&#39; following agreement with game companies: &#39;All SAG-AFTRA members are instructed to return to work&#39;](https://www.pcgamer.com/gaming-industry/videogame-voice-actors-strike-suspended-following-agreement-with-game-companies-all-sag-aftra-members-are-instructed-to-return-to-work/)
- - [Steam review bombs can be harmful, says Mecha Break dev, but it had a positive takeaway after Chinese players hammered the beta: &#39;We underestimated players&#39; passion to get into our game&#39;](https://www.pcgamer.com/games/action/mecha-break-playtest-review-bomb-response/)<!-- GAME:END -->
+ - [An Elden Ring Nightreign dataminer dove into the numbers to prove that reaching max level isn&#39;t as strong as it seems](https://www.pcgamer.com/games/rpg/an-elden-ring-nightreign-dataminer-dove-into-the-numbers-to-prove-that-reaching-max-level-isnt-as-strong-as-it-seems/)
+ - [Netflix’s science fiction romance Our Times breaks the time travel movie rules](https://www.polygon.com/sci-fi/606543/netflix-our-times-review-time-travel-science-fiction)
+ - [MindsEye hotfix promised for the end of this week as Steam rating sinks back down to &#39;mostly negative&#39;](https://www.pcgamer.com/games/third-person-shooter/mindseye-hotfix-promised-for-the-end-of-this-week-as-steam-rating-sinks-back-down-to-mostly-negative/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
