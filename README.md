@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crimson Desert Made Me Crash Out](https://kotaku.com/crimson-desert-preview-summer-game-fest-sgf-action-rpg-1851784440)
- - [Spine is a gun-fu love letter that wants to make you feel as OP as John Wick](https://www.pcgamer.com/games/third-person-shooter/spine-is-a-gun-fu-love-letter-that-wants-to-make-you-feel-as-op-as-john-wick/)
- - [Oblivion Remastered’s Best Side Quest Is A World Within A World](https://kotaku.com/oblivion-remastered-brush-with-death-painting-quest-1851784432)<!-- GAME:END -->
+ - [Where to find trial locations in Dune Awakening](https://www.polygon.com/dune-awakening-guides/606703/trials-locations-all-where-to-find)
+ - [All Stellar Blade outfits and how to unlock them](https://www.polygon.com/guides/606252/stellar-blade-outfits-list-all-unlock-how-to)
+ - [How to repair vehicles, items, and buildings in Dune: Awakening](https://www.polygon.com/dune-awakening-guides/606688/repair-how-to-vehicles-items-buildings)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
