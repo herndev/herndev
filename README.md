@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Onimusha: Way of the Sword was the best thing I saw at Summer Game Fest](https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-was-the-best-thing-i-saw-at-summer-game-fest/)
- - [How To Date And Marry Your Way To Your Soul Zoi In InZOI](https://kotaku.com/inzoi-dating-married-relationship-events-true-love-1851784422)
- - [10 Ironheart Cameos That Make Too Much Sense Not To Happen](https://kotaku.com/ironheart-ironman-riri-williams-marvel-1851784361)<!-- GAME:END -->
+ - [Oblivion Remastered’s Best Side Quest Is A World Within A World](https://kotaku.com/oblivion-remastered-brush-with-death-painting-quest-1851784432)
+ - [The Last of Us season 2 writer says ridiculed ‘dad’ line just popped into his head](https://www.polygon.com/last-of-us/606673/ellie-im-going-to-be-a-dad-tlou-season-2-line-mazin)
+ - [Clair Obscur: Expedition 33: How To Solve The Esoteric Ruins Maze](https://kotaku.com/clair-obscur-expedition-33-esoteric-ruins-maze-portier-1851784425)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
