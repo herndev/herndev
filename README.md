@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)
- - ⏩ [This UI animation is definitely overengineered.](http://9gag.com/gag/ary21nB)
- - 👉 [Friendship](http://9gag.com/gag/ayNY74M)<!-- MEMES:END -->
+ - 💣 [He&#39;s good](http://9gag.com/gag/axyYdvb)
+ - ⏩ [The hair is counting down](http://9gag.com/gag/aByOR72)
+ - 👉 [A questionable decision.](http://9gag.com/gag/aAyORzR)<!-- MEMES:END -->
 
 ---
 
