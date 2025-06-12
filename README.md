@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s good](http://9gag.com/gag/axyYdvb)
- - ⏩ [The hair is counting down](http://9gag.com/gag/aByOR72)
+ - 💣 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
+ - ⏩ [She should take the hint](http://9gag.com/gag/avydgpd)
  - 👉 [A questionable decision.](http://9gag.com/gag/aAyORzR)<!-- MEMES:END -->
 
 ---
