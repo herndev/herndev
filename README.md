@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Databricks says it expects to generate $3.7B in annualized revenue by July, up 50% YoY, with nearly 50 of its 15,000+ customers spending over $10M annually &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250612/p1#a250612p1)
- - [Klarna’s CEO is now taking your calls — over an AI hotline](https://www.theverge.com/news/685814/klarna-ceo-calls-ai-hotline)
- - [An Interpol-led law enforcement action in 26 countries disrupted infostealer operations, leading to takedowns of 20K+ malicious IPs and domains and 32 arrests &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250611/p48#a250611p48)<!-- TECH:END -->
+ - [An interview with Craig Federighi on the new multitasking UI in iPadOS 26, problems with Stage Manager, and why the iPad&#39;s Mac-style multitasking took so long &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250612/p4#a250612p4)
+ - [London-based Definely, whose AI tools help law firms draft and review legal contracts, raised a $30M Series B led by Revaia, with Clio and others participating &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250612/p3#a250612p3)
+ - [Tel Aviv-based Tastewise, which uses gen AI to automate sales and marketing for food and beverage companies, raised a $50M Series B led by Telus Global Ventures &lpar;Ryan Barwick/Axios&rpar;](http://www.techmeme.com/250612/p2#a250612p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
