@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess what day it is!](http://9gag.com/gag/aLndR2A)
- - ⏩ [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)
- - 👉 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)<!-- MEMES:END -->
+ - 💣 [Military helicopter flies low through downtown Los Angeles.](http://9gag.com/gag/aXP2DKP)
+ - ⏩ [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
+ - 👉 [Internal dialogue](http://9gag.com/gag/avydpxO)<!-- MEMES:END -->
 
 ---
 
