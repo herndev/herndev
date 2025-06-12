@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After three days with iOS 26, I’m amazed by Apple’s Liquid Glass redesign, but I have concerns](https://www.androidauthority.com/apple-ios-26-hands-on-3565901/)
- - [AOSP isn’t dead, but Google just landed a huge blow to custom ROM developers](https://www.androidauthority.com/google-not-killing-aosp-3566882/)
- - [A look at Apple&#39;s vision for Apple TV+ and its film business, as Tim Cook says the company&#39;s $200M+ bet on the F1 movie is about more than selling iPhones &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/250612/p8#a250612p8)<!-- TECH:END -->
+ - [Samsung scores a win in Galaxy S22 throttling saga, but it still deceived customers](https://www.androidauthority.com/samsung-galaxy-s22-throttling-gos-court-win-3566892/)
+ - [The US prosecution of quant trader Richard Ho could define how quant algorithms can become stolen property and have a major impact on Wall Street&#39;s talent war &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250612/p9#a250612p9)
+ - [Moto Tag finally gets precise UWB location tracking](https://www.theverge.com/news/685943/moto-tag-finally-gets-precise-uwb-location-tracking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
