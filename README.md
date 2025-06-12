@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FBC: Firebreak developers discuss the inspiration and challenges creating their first multiplayer title](https://blog.playstation.com/2025/06/12/fbc-firebreak-developers-discuss-the-inspiration-and-challenges-creating-their-first-multiplayer-title/)
- - [&#39;Most chairs labeled as &#39;gaming&#39; chairs are simply budget task chairs with colorful accent stripes&#39;: here&#39;s what annoys industry experts the most about gaming chairs](https://www.pcgamer.com/hardware/gaming-chairs/most-chairs-labeled-as-gaming-chairs-are-simply-budget-task-chairs-with-colorful-accent-stripes-heres-what-annoys-industry-experts-the-most-about-gaming-chairs/)
- - [Metal Gear Solid Delta trailer shows off Fox Hunt multiplayer mode, Ape Escape, boss battles, and more](https://www.polygon.com/gaming/606577/metal-gear-solid-delta-trailer-fox-hunt-multiplayer-mode)<!-- GAME:END -->
+ - [Our favorite secret rares from Pokémon TCG’s Black Bolt and White Flare set](https://www.polygon.com/pokemon-tcg/605981/black-bolt-white-flare-secret-illustrated-rare)
+ - [The relaxing cute world of Fantasy Life i: The Girl Who Steals Time ignited my hardcore side](https://www.polygon.com/opinion/606553/fantasy-life-i-the-girl-who-steals-time-cooking-minigame-hardcore)
+ - [I think it&#39;s a safe bet The Witcher 4 will run just as well as its tech demo after talking with UE5 devs and analyzing Unreal Fest tech data](https://www.pcgamer.com/hardware/i-think-its-a-safe-bet-the-witcher-4-will-run-just-as-well-as-its-tech-demo-after-talking-with-ue5-devs-and-analyzing-unreal-fest-tech-data/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
