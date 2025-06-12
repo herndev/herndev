@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
- - ⏩ [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
- - 👉 [Title](http://9gag.com/gag/avydpeb)<!-- MEMES:END -->
+ - 💣 [The hair is counting down](http://9gag.com/gag/aByOR72)
+ - ⏩ [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)
+ - 👉 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)<!-- MEMES:END -->
 
 ---
 
