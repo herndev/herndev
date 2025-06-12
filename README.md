@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro is going through it](http://9gag.com/gag/azxYgOj)
- - ⏩ [This is his villain origin story](http://9gag.com/gag/a5QqKdV)
- - 👉 [Friendship](http://9gag.com/gag/ayNY74M)<!-- MEMES:END -->
+ - 💣 [She should take the hint](http://9gag.com/gag/avydgpd)
+ - ⏩ [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
+ - 👉 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)<!-- MEMES:END -->
 
 ---
 
