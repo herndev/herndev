@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)
- - ⏩ [The hair is counting down](http://9gag.com/gag/aByOR72)
- - 👉 [Plus tax](http://9gag.com/gag/adBo009)<!-- MEMES:END -->
+ - 💣 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
+ - ⏩ [Friendship](http://9gag.com/gag/ayNY74M)
+ - 👉 [Women](http://9gag.com/gag/aQzO60d)<!-- MEMES:END -->
 
 ---
 
