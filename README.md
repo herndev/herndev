@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinterest is adding third-party influencer content to its feeds](https://www.theverge.com/news/685830/pinterest-ltk-affiliate-shopping-content-creators)
- - [iOS 26 adds voicemail spam reporting &amp; new screening tools](https://appleinsider.com/articles/25/06/12/ios-26-adds-voicemail-spam-reporting-new-screening-tools?utm_medium=rss)
- - [AMD unveils its new MI350X and MI355X GPUs for AI workloads, claiming up to 4x AI compute performance and 35x inference gains over the prior-gen MI300X &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250612/p32#a250612p32)<!-- TECH:END -->
+ - [A massive Google Cloud outage messed up Google Home, Spotify, and other services](https://www.theverge.com/news/686365/cloudflare-spotify-google-home-is-down-outage-offline)
+ - [Sources: Scale AI plans to promote Chief Strategy Officer Jason Droege to CEO, replacing Alexandr Wang, who is set to join Meta after its investment in Scale AI &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250612/p36#a250612p36)
+ - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
