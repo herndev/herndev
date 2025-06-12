@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Merino Wool T-Shirts &lpar;2025&rpar;, Tried On and Tested](https://www.wired.com/gallery/best-merino-wool-t-shirts/)
- - [Pixel phones may finally get native flashlight brightness controls, years after Samsung and Apple](https://www.androidauthority.com/pixel-flashlight-brightness-control-3566780/)
- - [Kickstarter-funded films are coming to Tubi](https://www.theverge.com/news/684374/tubi-kickstarter-initiative)<!-- TECH:END -->
+ - [Steve Jobs&#39; famous Stanford speech is 20 years old, and newly remastered](https://appleinsider.com/articles/25/06/12/steve-jobs-famous-stanford-speech-is-20-years-old-and-newly-remastered?utm_medium=rss)
+ - [How to Avoid Scams and Shoddy Wares on Amazon &lpar;2025&rpar;](https://www.wired.com/story/how-shop-safe-amazon/)
+ - [New report about Apple&#39;s 10 main challenges ignores two main factors](https://appleinsider.com/articles/25/06/12/new-report-about-apples-10-main-challenges-ignores-two-main-factors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
