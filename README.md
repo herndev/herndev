@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favorite secret rares from Pokémon TCG’s Black Bolt and White Flare set](https://www.polygon.com/pokemon-tcg/605981/black-bolt-white-flare-secret-illustrated-rare)
- - [The relaxing cute world of Fantasy Life i: The Girl Who Steals Time ignited my hardcore side](https://www.polygon.com/opinion/606553/fantasy-life-i-the-girl-who-steals-time-cooking-minigame-hardcore)
- - [I think it&#39;s a safe bet The Witcher 4 will run just as well as its tech demo after talking with UE5 devs and analyzing Unreal Fest tech data](https://www.pcgamer.com/hardware/i-think-its-a-safe-bet-the-witcher-4-will-run-just-as-well-as-its-tech-demo-after-talking-with-ue5-devs-and-analyzing-unreal-fest-tech-data/)<!-- GAME:END -->
+ - [Pragmata Brings a Thrillingly New Idea to Third-Person Shooters](https://news.xbox.com/en-us/2025/06/12/pragmata-hands-on-preview/)
+ - [Trump&#39;s AI czar echoes Jen-Hsun, says China&#39;s AI models are &#39;maybe three to six months&#39; behind the US—while also arguing for ever fewer AI regulations in the US](https://www.pcgamer.com/software/ai/trumps-ai-czar-echoes-jen-hsun-says-chinas-ai-models-are-maybe-three-to-six-months-behind-the-us-while-also-arguing-for-ever-fewer-ai-regulations-in-the-us/)
+ - [Metal Gear Solid 3: Snake Eater Is Getting An All New Multiplayer Mode Over 20 Years Later](https://kotaku.com/metal-gear-solid-3-delta-snake-eater-fox-hunt-online-1851784404)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
