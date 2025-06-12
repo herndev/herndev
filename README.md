@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Military helicopter flies low through downtown Los Angeles.](http://9gag.com/gag/aXP2DKP)
- - ⏩ [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
- - 👉 [Internal dialogue](http://9gag.com/gag/avydpxO)<!-- MEMES:END -->
+ - 💣 [This UI animation is definitely overengineered.](http://9gag.com/gag/ary21nB)
+ - ⏩ [How would they not know? They had a time machine!](http://9gag.com/gag/ajPKb4g)
+ - 👉 [Title](http://9gag.com/gag/avydpeb)<!-- MEMES:END -->
 
 ---
 
