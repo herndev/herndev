@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
+ - 💣 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
  - ⏩ [What a thoughtful man](http://9gag.com/gag/aD2O0K7)
- - 👉 [A final yellow card for the road](http://9gag.com/gag/abA2jLp)<!-- MEMES:END -->
+ - 👉 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)<!-- MEMES:END -->
 
 ---
 
