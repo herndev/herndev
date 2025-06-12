@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung scores a win in Galaxy S22 throttling saga, but it still deceived customers](https://www.androidauthority.com/samsung-galaxy-s22-throttling-gos-court-win-3566892/)
- - [The US prosecution of quant trader Richard Ho could define how quant algorithms can become stolen property and have a major impact on Wall Street&#39;s talent war &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250612/p9#a250612p9)
- - [Moto Tag finally gets precise UWB location tracking](https://www.theverge.com/news/685943/moto-tag-finally-gets-precise-uwb-location-tracking)<!-- TECH:END -->
+ - [Fujifilm’s new X-E5 is one of its sleekest mirrorless cameras yet](https://www.theverge.com/news/685782/fujifilm-xe5-mirrorless-camera-x100-price-specs)
+ - [SAG-AFTRA ends the 300+ day video game actors strike after reaching a tentative deal for a new Interactive Media Agreement with the major video game companies &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/250612/p12#a250612p12)
+ - [How an AI assistant developed by Brazilian nonprofit NoHarm is helping pharmacists in remote Amazon clinics process prescriptions more quickly and catch errors &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250612/p11#a250612p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
