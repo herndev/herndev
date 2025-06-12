@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Alters brings Kojima-esque weirdness to a tale of sci-fi survival](https://www.theverge.com/games-review/685213/the-alters-review-ps5-xbox-steam)
- - [One UI 8 beta 2 fixes Samsung’s supersized widgets](https://www.androidauthority.com/one-ui-8-4x4-widget-size-fix-3566963/)
- - [Spain-based Multiverse Computing, which makes tools to compress LLMs by up to 95% using &quot;quantum-inspired&quot; networks, raised a €189M Series B and has 100 clients &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250612/p19#a250612p19)<!-- TECH:END -->
+ - [Best Merino Wool T-Shirts &lpar;2025&rpar;, Tried On and Tested](https://www.wired.com/gallery/best-merino-wool-t-shirts/)
+ - [Pixel phones may finally get native flashlight brightness controls, years after Samsung and Apple](https://www.androidauthority.com/pixel-flashlight-brightness-control-3566780/)
+ - [Kickstarter-funded films are coming to Tubi](https://www.theverge.com/news/684374/tubi-kickstarter-initiative)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
