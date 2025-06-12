@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [She should take the hint](http://9gag.com/gag/avydgpd)
- - ⏩ [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
- - 👉 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)<!-- MEMES:END -->
+ - ⏩ [This is the AI we actually need](http://9gag.com/gag/aByOKxD)
+ - 👉 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)<!-- MEMES:END -->
 
 ---
 
