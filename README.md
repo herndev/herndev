@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
- - ⏩ [What a thoughtful man](http://9gag.com/gag/aD2O0K7)
- - 👉 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)<!-- MEMES:END -->
+ - 💣 [Filming workouts draws criticism](http://9gag.com/gag/azxY7ej)
+ - ⏩ [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)
+ - 👉 [Not a big fan](http://9gag.com/gag/amopN8X)<!-- MEMES:END -->
 
 ---
 
