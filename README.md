@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)
- - ⏩ [The hair is counting down](http://9gag.com/gag/aByOR72)
- - 👉 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)<!-- MEMES:END -->
+ - 💣 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
+ - ⏩ [What a thoughtful man](http://9gag.com/gag/aD2O0K7)
+ - 👉 [A final yellow card for the road](http://9gag.com/gag/abA2jLp)<!-- MEMES:END -->
 
 ---
 
