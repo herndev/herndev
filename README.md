@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A massive Google Cloud outage messed up Google Home, Spotify, and other services](https://www.theverge.com/news/686365/cloudflare-spotify-google-home-is-down-outage-offline)
- - [Sources: Scale AI plans to promote Chief Strategy Officer Jason Droege to CEO, replacing Alexandr Wang, who is set to join Meta after its investment in Scale AI &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250612/p36#a250612p36)
- - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)<!-- TECH:END -->
+ - [Sources: Apple has set an internal release target of spring 2026 for its delayed upgrade of Siri, as part of an iOS 26.4 software update &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250612/p39#a250612p39)
+ - [Internal docs: Fidelity, TPG, Sequoia, and others are buying ~$250M worth of shares in xAI under a tender offer valuing it at $113B; Fidelity is purchasing $20M &lpar;New York Times&rpar;](http://www.techmeme.com/250612/p38#a250612p38)
+ - [Bose upgraded the adaptive ANC on its new QuietComfort Ultra earbuds](https://www.theverge.com/news/686448/bose-quietcomfort-ultra-gen2-wireless-earbuds-anc-soundlink-plus-micro-speakers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
