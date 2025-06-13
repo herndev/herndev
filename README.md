@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Gemini AI will summarize PDFs for you when you open them](https://www.theverge.com/news/686684/google-gemini-ai-workspace-pdf-form-summary-features)
- - [Pixar is heading back to Italy for its next big film](https://www.theverge.com/news/686671/pixar-gatto-release-window-toy-story-5-concept-art)
- - [USDOT wants more self-driving cars without pedals or steering wheels](https://www.theverge.com/news/686662/usdot-nhtsa-autonomous-vehicle-exemption-streamline-duffy)<!-- TECH:END -->
+ - [Craig Federighi says macOS would ruin what makes the iPad special](https://appleinsider.com/articles/25/06/13/craig-federighi-says-macos-would-ruin-what-makes-the-ipad-special?utm_medium=rss)
+ - [CBP&#39;s Predator Drone Flights Over LA Are a Dangerous Escalation](https://www.wired.com/story/cbp-predator-drone-flights-la-protests/)
+ - [This Android notification exploit could trick you into opening some very unfriendly links](https://www.androidauthority.com/android-notifications-link-security-issue-3567466/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
