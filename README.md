@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pass me dat ass](http://9gag.com/gag/aVvVORO)
- - ⏩ [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 👉 [Fact](http://9gag.com/gag/avydpNW)<!-- MEMES:END -->
+ - 💣 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - ⏩ [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
+ - 👉 [Power generator engine](http://9gag.com/gag/aYQAeVV)<!-- MEMES:END -->
 
 ---
 
