@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leaving a serious trail behind.](http://9gag.com/gag/a2vLmnD)
- - ⏩ [Race](http://9gag.com/gag/an7rKYz)
- - 👉 [Tell me more.](http://9gag.com/gag/aMVOwGx)<!-- MEMES:END -->
+ - 💣 [TACO move](http://9gag.com/gag/a87KM8Z)
+ - ⏩ [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
+ - 👉 [Robert Downey Jr](http://9gag.com/gag/axyY2pL)<!-- MEMES:END -->
 
 ---
 
