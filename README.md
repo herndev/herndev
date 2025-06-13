@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Android notification exploit could trick you into opening some very unfriendly links &lpar;Updated&rpar;](https://www.androidauthority.com/android-notifications-link-security-issue-3567466/)
- - [Google Meet’s Companion mode is finally ready for Android’s biggest screens](https://www.androidauthority.com/meet-companion-mode-tablet-3567639/)
- - [A White House memo says David Sacks and Craft Ventures are divesting holdings in AI companies and hyperscalers like xAI and Meta &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250613/p21#a250613p21)<!-- TECH:END -->
+ - [Anker SOLIX EverFrost 2 40L electric cooler drops to its all-time low price](https://www.androidauthority.com/anker-solix-everfrost-2-40l-deal-3567633/)
+ - [Sources: Google, Scale AI&#39;s largest customer, plans to cut ties with the company after the Meta deal; Microsoft, OpenAI, and xAI also plan to step back &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p23#a250613p23)
+ - [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
