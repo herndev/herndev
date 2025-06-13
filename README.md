@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout Shelter: Celebrate A Decade in The Vault, Together](https://bethesda.net/en/article/6zT9anWe9yLVqi1F6gGPms/fallout-shelter-10th-anniversary#new_tab)
- - [Mio: Memories in Orbit has all the wonder of playing Inside for the first time and its devs are working hard to make it even better](https://www.pcgamer.com/games/action/mio-memories-in-orbit-has-all-the-wonder-of-playing-inside-for-the-first-time-and-its-devs-are-working-hard-to-make-it-even-better/)
- - [A Hot-Fix Is On The Way For MindsEye&#39;s Frustrating CPR Mini-Game](https://kotaku.com/mindseye-cpr-mini-game-hot-fix-coming-1851784478)<!-- GAME:END -->
+ - [Capcom credits Netflix&amp;#8217;s Devil May Cry anime with helping DMC 5 push past 10 million sales](https://www.polygon.com/anime/606809/capcom-netflix-devil-may-cry-5-anime-10-million-sales)
+ - [PlayStation Says Marathon Is Learning From Concord&#39;s Mistakes As It Doubles-Down On Live Service Gaming As A &#39;Key Strategic Pillar&#39;](https://kotaku.com/marathon-concord-sony-live-service-ps5-hermen-hulst-1851784483)
+ - [&#39;225,000,000,000 attacks per day&#39;: Computer users and gamers are significantly more at risk of cybercrime than at any other time in the past](https://www.pcgamer.com/software/security/225-000-000-000-attacks-per-day-computer-users-and-gamers-are-significantly-more-at-risk-of-cybercrime-than-at-any-other-time-in-the-past/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
