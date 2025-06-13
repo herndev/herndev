@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The streamer is in big trouble now](http://9gag.com/gag/azxYAPK)
- - ⏩ [Precisely where the bedroom was](http://9gag.com/gag/adBoXQ2)
- - 👉 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)<!-- MEMES:END -->
+ - 💣 [Bad economy](http://9gag.com/gag/aLndKNV)
+ - ⏩ [Survivor](http://9gag.com/gag/aD2Oood)
+ - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
 
 ---
 
