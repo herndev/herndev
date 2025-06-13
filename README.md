@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 is the continuity candidate that might just win](https://www.polygon.com/nintendo-switch-2/606757/review)
- - [Wikipedia pauses AI summary experiment after editors say it &#39;would do immediate and irreversible harm to our readers and to our reputation as a decently trustworthy and serious source&#39;](https://www.pcgamer.com/software/ai/wikipedia-pauses-ai-summary-experiment-after-editors-say-it-would-do-immediate-and-irreversible-harm-to-our-readers-and-to-our-reputation-as-a-decently-trustworthy-and-serious-source/)
- - [Cities: Skylines 2&#39;s latest patch has introduced quays and piers after seeing players using makeshift substitutes: &#39;We know how challenging they can be to build&#39;](https://www.pcgamer.com/games/city-builder/cities-skylines-2s-latest-patch-has-introduced-quays-and-piers-after-seeing-players-using-makeshift-substitutes-we-know-how-challenging-they-can-be-to-build/)<!-- GAME:END -->
+ - [The spiritual sequel to Coraline is getting a 3D release for Halloween](https://www.polygon.com/movies/606771/paranorman-release-2025-coraline-success)
+ - [Xbox Continues Quietly Abandoning Physical Games](https://kotaku.com/xbox-rog-ally-physical-code-outer-worlds-1851784446)
+ - [Switch 2 is the continuity candidate that might just win](https://www.polygon.com/nintendo-switch-2/606757/review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
