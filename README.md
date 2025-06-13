@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam is finally adding native support for Macs with Apple Silicon](https://www.theverge.com/news/686658/steam-native-apple-silicon-app)
- - [The new Pebble watch’s mobile app will also work with some old Pebble watches](https://www.theverge.com/news/686652/pebble-smartwatch-core-2-duo-time-ios-android-app)
- - [iPadOS 26 graphing tool gets an upgrade adding interactive 3D](https://appleinsider.com/articles/25/06/13/ipados-26-graphing-tool-gets-an-upgrade-adding-interactive-3d?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s Gemini AI will summarize PDFs for you when you open them](https://www.theverge.com/news/686684/google-gemini-ai-workspace-pdf-form-summary-features)
+ - [Pixar is heading back to Italy for its next big film](https://www.theverge.com/news/686671/pixar-gatto-release-window-toy-story-5-concept-art)
+ - [USDOT wants more self-driving cars without pedals or steering wheels](https://www.theverge.com/news/686662/usdot-nhtsa-autonomous-vehicle-exemption-streamline-duffy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
