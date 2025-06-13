@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just released the first major Snapseed update in years](https://www.theverge.com/news/686625/google-first-major-snapseed-update-years)
- - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)
- - [5 apps I install on every new phone](https://www.androidauthority.com/apps-i-install-on-every-new-phone-3564498/)<!-- TECH:END -->
+ - [Steam is finally adding native support for Macs with Apple Silicon](https://www.theverge.com/news/686658/steam-native-apple-silicon-app)
+ - [The new Pebble watch’s mobile app will also work with some old Pebble watches](https://www.theverge.com/news/686652/pebble-smartwatch-core-2-duo-time-ios-android-app)
+ - [iPadOS 26 graphing tool gets an upgrade adding interactive 3D](https://appleinsider.com/articles/25/06/13/ipados-26-graphing-tool-gets-an-upgrade-adding-interactive-3d?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
