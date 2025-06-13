@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro is going through it](http://9gag.com/gag/azxYgOj)
- - ⏩ [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 👉 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)<!-- MEMES:END -->
+ - 💣 [Ahh yes how to fix `Squeeking breaks` sure it works/ repost](http://9gag.com/gag/azxYEZK)
+ - ⏩ [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 👉 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)<!-- MEMES:END -->
 
 ---
 
