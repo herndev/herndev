@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ahh yes how to fix `Squeeking breaks` sure it works/ repost](http://9gag.com/gag/azxYEZK)
- - ⏩ [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
- - 👉 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)<!-- MEMES:END -->
+ - 💣 [Germans showing emotions](http://9gag.com/gag/aLnd94P)
+ - ⏩ [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)
+ - 👉 [Asking your friend to hang out in the 90s](http://9gag.com/gag/axyYjA2)<!-- MEMES:END -->
 
 ---
 
