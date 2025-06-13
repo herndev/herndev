@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung snuck in a surprise for its latest SmartThings app update](https://www.androidauthority.com/samsung-smartthings-mobile-app-update-3567514/)
- - [Google&amp;#8217;s test turns search results into an AI-generated podcast](https://www.theverge.com/news/686904/google-audio-overviews-ai-podcast-search)
- - [Apple slips out a quiet iOS 26 beta 1 update with a new build](https://appleinsider.com/articles/25/06/13/apple-slips-out-a-quiet-ios-26-beta-1-update-with-a-new-build?utm_medium=rss)<!-- TECH:END -->
+ - [Mel Brooks is returning for Spaceballs 2](https://www.theverge.com/news/687056/spaceballs-2-mel-brooks-yogurt-returning-2027)
+ - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
+ - [Gemini in Google Drive gets right to the point with automatic PDF summaries](https://www.androidauthority.com/google-drive-gemini-pdf-summaries-3567472/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
