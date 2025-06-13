@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Germans showing emotions](http://9gag.com/gag/aLnd94P)
- - ⏩ [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)
- - 👉 [Asking your friend to hang out in the 90s](http://9gag.com/gag/axyYjA2)<!-- MEMES:END -->
+ - 💣 [A man`s man](http://9gag.com/gag/aPA144K)
+ - ⏩ [Ahh yes how to fix `Squeeking breaks` sure it works/ repost](http://9gag.com/gag/azxYEZK)
+ - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
 
 ---
 
