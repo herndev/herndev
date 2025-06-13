@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve does its homework the night before deadline: Switches Steam to run on Mac chips right as Apple announces it&#39;s ditching Intel for good](https://www.pcgamer.com/software/platforms/valve-does-its-homework-the-night-before-deadline-switches-steam-to-run-on-mac-chips-right-as-apple-announces-its-ditching-intel-for-good/)
- - [Would-be Sims competitor Inzoi&#39;s publisher says Steam concurrents aren&#39;t as important as sales, which is only technically correct](https://www.pcgamer.com/games/life-sim/would-be-sims-competitor-inzois-publisher-says-steam-concurrents-arent-as-important-as-sales-which-is-only-technically-correct/)
- - [Redditor handcrafts retrofuturistic set up that wouldn&#39;t look out of place on the set of Alien, with precisely zero 3D printing involved](https://www.pcgamer.com/hardware/pc-cases/redditor-handcrafts-retrofuturistic-set-up-that-wouldnt-look-out-of-place-on-the-set-of-alien-and-none-of-it-is-3d-printed/)<!-- GAME:END -->
+ - [Switch 2 is the continuity candidate that might just win](https://www.polygon.com/nintendo-switch-2/606757/review)
+ - [Wikipedia pauses AI summary experiment after editors say it &#39;would do immediate and irreversible harm to our readers and to our reputation as a decently trustworthy and serious source&#39;](https://www.pcgamer.com/software/ai/wikipedia-pauses-ai-summary-experiment-after-editors-say-it-would-do-immediate-and-irreversible-harm-to-our-readers-and-to-our-reputation-as-a-decently-trustworthy-and-serious-source/)
+ - [Cities: Skylines 2&#39;s latest patch has introduced quays and piers after seeing players using makeshift substitutes: &#39;We know how challenging they can be to build&#39;](https://www.pcgamer.com/games/city-builder/cities-skylines-2s-latest-patch-has-introduced-quays-and-piers-after-seeing-players-using-makeshift-substitutes-we-know-how-challenging-they-can-be-to-build/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
