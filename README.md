@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Pinnacle Bosses in Path of Exile: Secrets of the Atlas, and Tips To Take Them On](https://news.xbox.com/en-us/2025/06/13/new-pinnacle-bosses-in-path-of-exile-secrets-of-the-atlas/)
- - [Elden Ring Nightreign players are going feral for the Revenant](https://www.polygon.com/culture/606986/elden-ring-nightreign-revenant-la-creatura-memes-fan-art)
- - [Fortnite adds Hank Hill and other cartoon dad skins for Father’s Day](https://www.polygon.com/news/606291/hank-hill-cleveland-brown-bob-belcher-skins-fathers-day)<!-- GAME:END -->
+ - [Oil rig horror game Still Wakes the Deep is going underwater in a surprise story expansion that arrives next week](https://www.pcgamer.com/games/horror/oil-rig-horror-game-still-wakes-the-deep-is-going-underwater-in-a-surprise-story-expansion-that-arrives-next-week/)
+ - [GTA Online&#39;s Money Fronts update is basically Breaking Bad minus the meth](https://www.pcgamer.com/games/grand-theft-auto/gta-onlines-money-fronts-update-is-basically-breaking-bad-minus-the-meth/)
+ - [How to find and get Flour Sand in Dune: Awakening](https://www.polygon.com/dune-awakening-guides/607018/flour-sand-locations-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
