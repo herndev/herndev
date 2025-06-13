@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Op&#39;s favourite gym, oh wait I&#39;m Op. Anyone for the gym? No homo](http://9gag.com/gag/a2vLz1Y)
- - ⏩ [Witty title](http://9gag.com/gag/agmE3ZW)
+ - 💣 [Been a long time](http://9gag.com/gag/adBo6D9)
+ - ⏩ [TACO move](http://9gag.com/gag/a87KM8Z)
  - 👉 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)<!-- MEMES:END -->
 
 ---
