@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - ⏩ [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
+ - 💣 [Bro is going through it](http://9gag.com/gag/azxYgOj)
+ - ⏩ [Somebody fact check this](http://9gag.com/gag/an7rXQE)
  - 👉 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)<!-- MEMES:END -->
 
 ---
