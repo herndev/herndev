@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wuchang: Fallen Feathers made me grapple with the parry vs. dodge conundrum](https://www.pcgamer.com/games/action/wuchang-fallen-feathers-made-me-grapple-with-the-parry-vs-dodge-conundrum/)
- - [A rumor that Nier: Automata&#39;s character designs were censored for Western audiences came from a mistranslation, creators say](https://www.pcgamer.com/games/action/a-rumor-that-nier-automatas-character-designs-were-censored-for-western-audiences-came-from-a-mistranslation-creators-say/)
- - [Where to find Erythrite Crystals in Dune: Awakening](https://www.polygon.com/dune-awakening-guides/606958/erythrite-cyrstal-location-where-to-find)<!-- GAME:END -->
+ - [New Pinnacle Bosses in Path of Exile: Secrets of the Atlas, and Tips To Take Them On](https://news.xbox.com/en-us/2025/06/13/new-pinnacle-bosses-in-path-of-exile-secrets-of-the-atlas/)
+ - [Elden Ring Nightreign players are going feral for the Revenant](https://www.polygon.com/culture/606986/elden-ring-nightreign-revenant-la-creatura-memes-fan-art)
+ - [Fortnite adds Hank Hill and other cartoon dad skins for Father’s Day](https://www.polygon.com/news/606291/hank-hill-cleveland-brown-bob-belcher-skins-fathers-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
