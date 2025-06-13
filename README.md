@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Luna, best girl](http://9gag.com/gag/aVvVQov)
- - ⏩ [G*rls be like](http://9gag.com/gag/ae9735q)
- - 👉 [Survivor](http://9gag.com/gag/aD2Oood)<!-- MEMES:END -->
+ - 💣 [Op&#39;s favourite gym, oh wait I&#39;m Op. Anyone for the gym? No homo](http://9gag.com/gag/a2vLz1Y)
+ - ⏩ [Witty title](http://9gag.com/gag/agmE3ZW)
+ - 👉 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)<!-- MEMES:END -->
 
 ---
 
