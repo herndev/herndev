@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
- - ⏩ [Luna, best girl](http://9gag.com/gag/aVvVQov)
- - 👉 [Bad economy](http://9gag.com/gag/aLndKNV)<!-- MEMES:END -->
+ - 💣 [The streamer is in big trouble now](http://9gag.com/gag/azxYAPK)
+ - ⏩ [Precisely where the bedroom was](http://9gag.com/gag/adBoXQ2)
+ - 👉 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)<!-- MEMES:END -->
 
 ---
 
