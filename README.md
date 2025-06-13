@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple redirects 97% of Indian-made iPhones to the US to lessen tariffs](https://appleinsider.com/articles/25/06/13/apple-redirects-97-of-indian-made-iphones-to-the-us-to-lessen-tariffs?utm_medium=rss)
- - [Sources: Tencent is in early talks to acquire Nexon, the South Korean gaming giant behind Dungeon &amp; Fighter Mobile; Tencent pursued a Nexon acquisition in 2019 &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/250613/p8#a250613p8)
- - [First look: The Pixel Camera is next to get a Material 3 Expressive redesign &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-camera-expressive-redesign-teardown-3567371/)<!-- TECH:END -->
+ - [Google just released the first major Snapseed update in years](https://www.theverge.com/news/686625/google-first-major-snapseed-update-years)
+ - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)
+ - [5 apps I install on every new phone](https://www.androidauthority.com/apps-i-install-on-every-new-phone-3564498/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
