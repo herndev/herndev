@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The spiritual sequel to Coraline is getting a 3D release for Halloween](https://www.polygon.com/movies/606771/paranorman-release-2025-coraline-success)
- - [Xbox Continues Quietly Abandoning Physical Games](https://kotaku.com/xbox-rog-ally-physical-code-outer-worlds-1851784446)
- - [Switch 2 is the continuity candidate that might just win](https://www.polygon.com/nintendo-switch-2/606757/review)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for June 16 to 20](https://news.xbox.com/en-us/2025/06/13/next-week-on-xbox-new-games-for-june-16-to-20/)
+ - [Intel&#39;s mythical Big Battlemage GPU pops up in the MESA Linux driver making a launch later this year that little bit more likely](https://www.pcgamer.com/hardware/graphics-cards/intels-mythical-big-battlemage-gpu-pops-up-in-the-mesa-linux-driver-making-a-launch-later-this-year-that-little-bit-more-likely/)
+ - [&#39;We have people working on fixing the goomba stomping&#39;—Dune: Awakening&#39;s PvP is getting dominated by packs of rabid ornithopter pilots squishing their enemies](https://www.pcgamer.com/games/survival-crafting/we-have-people-working-on-fixing-the-goomba-stomping-dune-awakenings-pvp-is-getting-dominated-by-packs-of-rabid-ornithopter-pilots-squishing-their-enemies/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
