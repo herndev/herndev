@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel Camera update may have killed this handy sharing feature](https://www.androidauthority.com/pixel-camera-social-share-shortcut-3567343/)
  - [Has the Pixel battery drama ruined your perception of Google’s phones?](https://www.androidauthority.com/pixel-battery-issues-open-thread-3567354/)
- - [First PS3 emulator hits the Play Store, goes open-source](https://www.androidauthority.com/aps3e-play-store-open-source-3566922/)
- - [Betting platform Kalshi aired a fully AI-generated 30-second ad during the NBA Finals, reportedly made in 2-3 days with 300-400 generations using Google&#39;s Veo 3 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p5#a250613p5)<!-- TECH:END -->
+ - [First PS3 emulator hits the Play Store, goes open-source](https://www.androidauthority.com/aps3e-play-store-open-source-3566922/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
