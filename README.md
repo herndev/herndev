@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It could be 2026 before all your Thread border routers work together](https://www.theverge.com/news/686512/apple-thread-1-4-tvos-26-matter-google-amazon)
- - [Apple &amp; Google profit as Chinese VPNs collect your private data](https://appleinsider.com/articles/25/06/12/apple-google-profit-as-chinese-vpns-collect-your-private-data?utm_medium=rss)
- - [Apple&#39;s AI ambitions go beyond Siri LLM with Knowledge chatbot and always-on AI copilot](https://appleinsider.com/articles/25/06/12/apples-ai-ambitions-go-beyond-siri-llm-with-knowledge-chatbot-and-always-on-ai-copilot?utm_medium=rss)<!-- TECH:END -->
+ - [BlueAnt Soundblade under-monitor speaker drops to a record-low price!](https://www.androidauthority.com/blueant-soundblade-speaker-deal-3566671/)
+ - [The Steve Jobs Archive shares stories, videos, and notes of his famous commencement speech](https://www.theverge.com/news/686524/steve-jobs-archive-stanford-commencement-speech-20th-anniversary)
+ - [Google Cloud suffered an outage on Thursday, affecting many of its customers; Cloudflare, Spotify, Discord, Snapchat, and others experienced service disruptions &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250612/p42#a250612p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
