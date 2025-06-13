@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dune: Awakening players have found a devious way to grief each other outside of PvP zones](https://www.pcgamer.com/games/mmo/dune-awakening-players-have-found-a-devious-way-to-grief-each-other-outside-of-pvp-zones/)
  - [FromSoftware left hints for Elden Ring Nightreign&#39;s enhanced bosses update in the files and modders have already dug them up](https://www.pcgamer.com/games/rpg/fromsoftware-left-hints-for-elden-ring-nightreigns-enhanced-bosses-update-in-the-files-and-modders-have-already-dug-them-up/)
- - [Where to find trial locations in Dune Awakening](https://www.polygon.com/dune-awakening-guides/606703/trials-locations-all-where-to-find)
- - [All Stellar Blade outfits and how to unlock them](https://www.polygon.com/guides/606252/stellar-blade-outfits-list-all-unlock-how-to)<!-- GAME:END -->
+ - [Where to find trial locations in Dune Awakening](https://www.polygon.com/dune-awakening-guides/606703/trials-locations-all-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
