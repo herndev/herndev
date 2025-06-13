@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - ⏩ [A man`s man](http://9gag.com/gag/aPA144K)
- - 👉 [Leather stamping](http://9gag.com/gag/a1mEp3P)<!-- MEMES:END -->
+ - 💣 [Pass me dat ass](http://9gag.com/gag/aVvVORO)
+ - ⏩ [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 👉 [Fact](http://9gag.com/gag/avydpNW)<!-- MEMES:END -->
 
 ---
 
