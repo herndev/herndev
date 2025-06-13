@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stellar Blade is doing better numbers than almost every other PlayStation port on Steam, and it&#39;s probably not just because of the nude mods](https://www.pcgamer.com/games/action/stellar-blade-is-doing-better-numbers-than-almost-every-other-playstation-port-on-steam-and-its-probably-not-just-because-of-the-nude-mods/)
- - [Today&#39;s Wordle answer for Friday, June 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-13-2025/)
- - [Steam&#39;s store now lets you search for games by accessibility features like &#39;narrated game menus&#39; and &#39;adjustable difficulty&#39;, and more than 5,000 games have already added their accessibility details to the database](https://www.pcgamer.com/gaming-industry/steams-store-now-lets-you-search-for-games-by-accessibility-features-like-narrated-game-menus-and-adjustable-difficulty-and-more-than-5-000-games-have-already-added-their-accessibility-details-to-the-database/)<!-- GAME:END -->
+ - [Valve does its homework the night before deadline: Switches Steam to run on Mac chips right as Apple announces it&#39;s ditching Intel for good](https://www.pcgamer.com/software/platforms/valve-does-its-homework-the-night-before-deadline-switches-steam-to-run-on-mac-chips-right-as-apple-announces-its-ditching-intel-for-good/)
+ - [Would-be Sims competitor Inzoi&#39;s publisher says Steam concurrents aren&#39;t as important as sales, which is only technically correct](https://www.pcgamer.com/games/life-sim/would-be-sims-competitor-inzois-publisher-says-steam-concurrents-arent-as-important-as-sales-which-is-only-technically-correct/)
+ - [Redditor handcrafts retrofuturistic set up that wouldn&#39;t look out of place on the set of Alien, with precisely zero 3D printing involved](https://www.pcgamer.com/hardware/pc-cases/redditor-handcrafts-retrofuturistic-set-up-that-wouldnt-look-out-of-place-on-the-set-of-alien-and-none-of-it-is-3d-printed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
