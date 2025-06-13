@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Been a long time](http://9gag.com/gag/adBo6D9)
- - ⏩ [TACO move](http://9gag.com/gag/a87KM8Z)
- - 👉 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)<!-- MEMES:END -->
+ - 💣 [TACO move](http://9gag.com/gag/a87KM8Z)
+ - ⏩ [Bro is going through it](http://9gag.com/gag/azxYgOj)
+ - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
 
 ---
 
