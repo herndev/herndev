@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A man`s man](http://9gag.com/gag/aPA144K)
- - ⏩ [Ahh yes how to fix `Squeeking breaks` sure it works/ repost](http://9gag.com/gag/azxYEZK)
- - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
+ - 💣 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
+ - ⏩ [Luna, best girl](http://9gag.com/gag/aVvVQov)
+ - 👉 [Bad economy](http://9gag.com/gag/aLndKNV)<!-- MEMES:END -->
 
 ---
 
