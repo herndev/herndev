@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
- - ⏩ [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
- - 👉 [Power generator engine](http://9gag.com/gag/aYQAeVV)<!-- MEMES:END -->
+ - 💣 [Pass me dat ass](http://9gag.com/gag/aVvVORO)
+ - ⏩ [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
+ - 👉 [Makes sense](http://9gag.com/gag/agmEvQv)<!-- MEMES:END -->
 
 ---
 
