@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home’s latest bug: Setting an alarm for this time is nearly impossible](https://www.androidauthority.com/google-home-alarm-bug-3567380/)
- - [A Mattress Testing Expert Breaks Down Natural and Organic Certifications &lpar;2025&rpar;](https://www.wired.com/story/organic-mattress-and-bedding-certifications/)
- - [I finally found the perfect 3-in-1 chargers for my Google Pixel devices](https://www.androidauthority.com/swanscout-708g2-710g2-review-3565192/)<!-- TECH:END -->
+ - [Apple redirects 97% of Indian-made iPhones to the US to lessen tariffs](https://appleinsider.com/articles/25/06/13/apple-redirects-97-of-indian-made-iphones-to-the-us-to-lessen-tariffs?utm_medium=rss)
+ - [Sources: Tencent is in early talks to acquire Nexon, the South Korean gaming giant behind Dungeon &amp; Fighter Mobile; Tencent pursued a Nexon acquisition in 2019 &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/250613/p8#a250613p8)
+ - [First look: The Pixel Camera is next to get a Material 3 Expressive redesign &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-camera-expressive-redesign-teardown-3567371/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
