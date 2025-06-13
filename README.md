@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s raining swag! You can redeem your Play Points for a new Android plushie and more](https://www.androidauthority.com/google-play-points-merch-3567629/)
- - [Google Clock starts drip-feeding its big Material 3 Expressive makeover](https://www.androidauthority.com/google-clock-material-3-expressive-tweaks-3567619/)
- - [Samsung Galaxy Buds 3 Pro deal: Here’s a record-low price!](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-5-3567634/)<!-- TECH:END -->
+ - [This Android notification exploit could trick you into opening some very unfriendly links &lpar;Updated&rpar;](https://www.androidauthority.com/android-notifications-link-security-issue-3567466/)
+ - [Google Meet’s Companion mode is finally ready for Android’s biggest screens](https://www.androidauthority.com/meet-companion-mode-tablet-3567639/)
+ - [A White House memo says David Sacks and Craft Ventures are divesting holdings in AI companies and hyperscalers like xAI and Meta &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250613/p21#a250613p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
