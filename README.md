@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reorganizes its healthcare business into six &quot;pillars&quot; to simplify its structure, following executive departures and its struggles in the market &lpar;CNBC&rpar;](http://www.techmeme.com/250613/p14#a250613p14)
- - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
- - [Kwikset’s newest smart lock gets almost everything right](https://www.theverge.com/smart-home-review/679903/kwikset-halo-select-smart-lock-review)<!-- TECH:END -->
+ - [Samsung snuck in a surprise for its latest SmartThings app update](https://www.androidauthority.com/samsung-smartthings-mobile-app-update-3567514/)
+ - [Google&amp;#8217;s test turns search results into an AI-generated podcast](https://www.theverge.com/news/686904/google-audio-overviews-ai-podcast-search)
+ - [Apple slips out a quiet iOS 26 beta 1 update with a new build](https://appleinsider.com/articles/25/06/13/apple-slips-out-a-quiet-ios-26-beta-1-update-with-a-new-build?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
