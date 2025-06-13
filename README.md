@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TACO move](http://9gag.com/gag/a87KM8Z)
- - ⏩ [This is his villain origin story](http://9gag.com/gag/a5QqKdV)
- - 👉 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)<!-- MEMES:END -->
+ - 💣 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - ⏩ [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 👉 [A man`s man](http://9gag.com/gag/aPA144K)<!-- MEMES:END -->
 
 ---
 
