@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Craig Federighi says macOS would ruin what makes the iPad special](https://appleinsider.com/articles/25/06/13/craig-federighi-says-macos-would-ruin-what-makes-the-ipad-special?utm_medium=rss)
- - [CBP&#39;s Predator Drone Flights Over LA Are a Dangerous Escalation](https://www.wired.com/story/cbp-predator-drone-flights-la-protests/)
- - [This Android notification exploit could trick you into opening some very unfriendly links](https://www.androidauthority.com/android-notifications-link-security-issue-3567466/)<!-- TECH:END -->
+ - [Amazon reorganizes its healthcare business into six &quot;pillars&quot; to simplify its structure, following executive departures and its struggles in the market &lpar;CNBC&rpar;](http://www.techmeme.com/250613/p14#a250613p14)
+ - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
+ - [Kwikset’s newest smart lock gets almost everything right](https://www.theverge.com/smart-home-review/679903/kwikset-halo-select-smart-lock-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
