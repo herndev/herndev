@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [TACO move](http://9gag.com/gag/a87KM8Z)
- - ⏩ [Bro is going through it](http://9gag.com/gag/azxYgOj)
- - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
+ - ⏩ [Witty title](http://9gag.com/gag/agmE3ZW)
+ - 👉 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)<!-- MEMES:END -->
 
 ---
 
