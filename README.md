@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapseed sprouts its first new growth in years, as major update blooms](https://www.androidauthority.com/snapseed-version-3-rolls-out-for-ios-3567582/)
- - [Google’s latest experiment brings NotebookLM’s best features to Search](https://www.androidauthority.com/audio-overviews-search-3567575/)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
+ - [It’s raining swag! You can redeem your Play Points for a new Android plushie and more](https://www.androidauthority.com/google-play-points-merch-3567629/)
+ - [Google Clock starts drip-feeding its big Material 3 Expressive makeover](https://www.androidauthority.com/google-clock-material-3-expressive-tweaks-3567619/)
+ - [Samsung Galaxy Buds 3 Pro deal: Here’s a record-low price!](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-5-3567634/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
