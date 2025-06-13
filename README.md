@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TACO move](http://9gag.com/gag/a87KM8Z)
- - ⏩ [Witty title](http://9gag.com/gag/agmE3ZW)
- - 👉 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)<!-- MEMES:END -->
+ - 💣 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
+ - ⏩ [TACO move](http://9gag.com/gag/a87KM8Z)
+ - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
 
 ---
 
