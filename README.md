@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - ⏩ [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
- - 👉 [A man`s man](http://9gag.com/gag/aPA144K)<!-- MEMES:END -->
+ - ⏩ [A man`s man](http://9gag.com/gag/aPA144K)
+ - 👉 [Leather stamping](http://9gag.com/gag/a1mEp3P)<!-- MEMES:END -->
 
 ---
 
