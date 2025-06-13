@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom credits Netflix&amp;#8217;s Devil May Cry anime with helping DMC 5 push past 10 million sales](https://www.polygon.com/anime/606809/capcom-netflix-devil-may-cry-5-anime-10-million-sales)
- - [PlayStation Says Marathon Is Learning From Concord&#39;s Mistakes As It Doubles-Down On Live Service Gaming As A &#39;Key Strategic Pillar&#39;](https://kotaku.com/marathon-concord-sony-live-service-ps5-hermen-hulst-1851784483)
- - [&#39;225,000,000,000 attacks per day&#39;: Computer users and gamers are significantly more at risk of cybercrime than at any other time in the past](https://www.pcgamer.com/software/security/225-000-000-000-attacks-per-day-computer-users-and-gamers-are-significantly-more-at-risk-of-cybercrime-than-at-any-other-time-in-the-past/)<!-- GAME:END -->
+ - [Seven years later, Nintendo fans beat Switch game even the devs didn’t](https://www.polygon.com/features/606810/switch-1-2-plate-spin-mini-game-nintendo-dev)
+ - [Xbox handheld rumoured to be &#39;essentially cancelled&#39; but the new Asus Xbox Ally is actually a preview of all future Xbox consoles, not just handhelds](https://www.pcgamer.com/hardware/handheld-gaming-pcs/xbox-handheld-rumoured-to-be-essentially-cancelled-but-the-new-asus-xbox-ally-is-actually-a-preview-of-all-future-xbox-consoles-not-just-handhelds/)
+ - [Pixar&#39;s Next Big Movie Is Bringing Back Bloopers](https://kotaku.com/pixar-disney-bloopers-outtakes-elio-return-toy-story-2-1851784489)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
