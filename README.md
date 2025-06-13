@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Seven years later, Nintendo fans beat Switch game even the devs didn’t](https://www.polygon.com/features/606810/switch-1-2-plate-spin-mini-game-nintendo-dev)
- - [Xbox handheld rumoured to be &#39;essentially cancelled&#39; but the new Asus Xbox Ally is actually a preview of all future Xbox consoles, not just handhelds](https://www.pcgamer.com/hardware/handheld-gaming-pcs/xbox-handheld-rumoured-to-be-essentially-cancelled-but-the-new-asus-xbox-ally-is-actually-a-preview-of-all-future-xbox-consoles-not-just-handhelds/)
- - [Pixar&#39;s Next Big Movie Is Bringing Back Bloopers](https://kotaku.com/pixar-disney-bloopers-outtakes-elio-return-toy-story-2-1851784489)<!-- GAME:END -->
+ - [This strategy roguelike is like trying to fight off an alien invasion with a bunch of PCs from the late 1970s](https://www.pcgamer.com/games/strategy/this-strategy-roguelike-is-like-trying-to-fight-off-an-alien-invasion-with-a-bunch-of-pcs-from-the-late-1970s/)
+ - [MindsEye team deploys first hotfix as they scramble to make the dang thing work](https://www.polygon.com/news/606850/mindseye-patch-update-hotfix)
+ - [Dune: Awakening Helicopters Are &#39;Goomba Stomping&#39; Players And The Devs Are Working On A Fix](https://kotaku.com/dune-awakening-ornithopters-reddit-1851784501)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
