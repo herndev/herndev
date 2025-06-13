@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Camera update may have killed this handy sharing feature](https://www.androidauthority.com/pixel-camera-social-share-shortcut-3567343/)
- - [Has the Pixel battery drama ruined your perception of Google’s phones?](https://www.androidauthority.com/pixel-battery-issues-open-thread-3567354/)
- - [First PS3 emulator hits the Play Store, goes open-source](https://www.androidauthority.com/aps3e-play-store-open-source-3566922/)<!-- TECH:END -->
+ - [PCIe 7.0 is coming, but not soon, and not for you](https://www.theverge.com/news/686560/pcie-7-0-specification-launch-bandwith-speed)
+ - [Nintendo Switch 2 review: great build quality, better haptics, and improved performance for Switch 1 games, but weak battery life and only a few launch titles &lpar;The Shortcut&rpar;](http://www.techmeme.com/250613/p6#a250613p6)
+ - [This Chinese Spacecraft Is Traveling to One of Earth’s Quasi-Moons](https://www.wired.com/story/chinese-spacecraft-earths-quasi-moons-china-tianwen-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
