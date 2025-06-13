@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This strategy roguelike is like trying to fight off an alien invasion with a bunch of PCs from the late 1970s](https://www.pcgamer.com/games/strategy/this-strategy-roguelike-is-like-trying-to-fight-off-an-alien-invasion-with-a-bunch-of-pcs-from-the-late-1970s/)
- - [MindsEye team deploys first hotfix as they scramble to make the dang thing work](https://www.polygon.com/news/606850/mindseye-patch-update-hotfix)
- - [Dune: Awakening Helicopters Are &#39;Goomba Stomping&#39; Players And The Devs Are Working On A Fix](https://kotaku.com/dune-awakening-ornithopters-reddit-1851784501)<!-- GAME:END -->
+ - [Tony Hawk’s Pro Skater 3 + 4 — Returning Skaters](https://www.tonyhawkthegame.com/blog/2025/06/tony-hawk-pro-skater-three-four-returning-skaters#new_tab)
+ - [Gooner game of the year Stellar Blade&#39;s mods are 41% smut, ensuring gamers will never see the light of heaven](https://www.pcgamer.com/games/action/gooner-game-of-the-year-stellar-blades-mods-are-41-percent-smut-ensuring-gamers-will-never-see-the-light-of-heaven/)
+ - [Marathon isn’t going to be another Concord, Sony insists](https://www.polygon.com/gaming/606886/marathon-isnt-going-to-be-another-concord-sony-insists)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
