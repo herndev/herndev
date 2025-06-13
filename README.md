@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mel Brooks is returning for Spaceballs 2](https://www.theverge.com/news/687056/spaceballs-2-mel-brooks-yogurt-returning-2027)
- - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
- - [Gemini in Google Drive gets right to the point with automatic PDF summaries](https://www.androidauthority.com/google-drive-gemini-pdf-summaries-3567472/)<!-- TECH:END -->
+ - [Snapseed sprouts its first new growth in years, as major update blooms](https://www.androidauthority.com/snapseed-version-3-rolls-out-for-ios-3567582/)
+ - [Google’s latest experiment brings NotebookLM’s best features to Search](https://www.androidauthority.com/audio-overviews-search-3567575/)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
