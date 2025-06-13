@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Stellar Blade is doing better numbers than almost every other PlayStation port on Steam, and it&#39;s probably not just because of the nude mods](https://www.pcgamer.com/games/action/stellar-blade-is-doing-better-numbers-than-almost-every-other-playstation-port-on-steam-and-its-probably-not-just-because-of-the-nude-mods/)
  - [Today&#39;s Wordle answer for Friday, June 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-13-2025/)
- - [Steam&#39;s store now lets you search for games by accessibility features like &#39;narrated game menus&#39; and &#39;adjustable difficulty&#39;, and more than 5,000 games have already added their accessibility details to the database](https://www.pcgamer.com/gaming-industry/steams-store-now-lets-you-search-for-games-by-accessibility-features-like-narrated-game-menus-and-adjustable-difficulty-and-more-than-5-000-games-have-already-added-their-accessibility-details-to-the-database/)
- - [Dune: Awakening players have found a devious way to grief each other outside of PvP zones](https://www.pcgamer.com/games/mmo/dune-awakening-players-have-found-a-devious-way-to-grief-each-other-outside-of-pvp-zones/)<!-- GAME:END -->
+ - [Steam&#39;s store now lets you search for games by accessibility features like &#39;narrated game menus&#39; and &#39;adjustable difficulty&#39;, and more than 5,000 games have already added their accessibility details to the database](https://www.pcgamer.com/gaming-industry/steams-store-now-lets-you-search-for-games-by-accessibility-features-like-narrated-game-menus-and-adjustable-difficulty-and-more-than-5-000-games-have-already-added-their-accessibility-details-to-the-database/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
