@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
- - ⏩ [TACO move](http://9gag.com/gag/a87KM8Z)
- - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
+ - 💣 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - ⏩ [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
+ - 👉 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)<!-- MEMES:END -->
 
 ---
 
