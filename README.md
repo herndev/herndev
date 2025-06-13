@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for June 16 to 20](https://news.xbox.com/en-us/2025/06/13/next-week-on-xbox-new-games-for-june-16-to-20/)
- - [Intel&#39;s mythical Big Battlemage GPU pops up in the MESA Linux driver making a launch later this year that little bit more likely](https://www.pcgamer.com/hardware/graphics-cards/intels-mythical-big-battlemage-gpu-pops-up-in-the-mesa-linux-driver-making-a-launch-later-this-year-that-little-bit-more-likely/)
- - [&#39;We have people working on fixing the goomba stomping&#39;—Dune: Awakening&#39;s PvP is getting dominated by packs of rabid ornithopter pilots squishing their enemies](https://www.pcgamer.com/games/survival-crafting/we-have-people-working-on-fixing-the-goomba-stomping-dune-awakenings-pvp-is-getting-dominated-by-packs-of-rabid-ornithopter-pilots-squishing-their-enemies/)<!-- GAME:END -->
+ - [Fallout Shelter: Celebrate A Decade in The Vault, Together](https://bethesda.net/en/article/6zT9anWe9yLVqi1F6gGPms/fallout-shelter-10th-anniversary#new_tab)
+ - [Mio: Memories in Orbit has all the wonder of playing Inside for the first time and its devs are working hard to make it even better](https://www.pcgamer.com/games/action/mio-memories-in-orbit-has-all-the-wonder-of-playing-inside-for-the-first-time-and-its-devs-are-working-hard-to-make-it-even-better/)
+ - [A Hot-Fix Is On The Way For MindsEye&#39;s Frustrating CPR Mini-Game](https://kotaku.com/mindseye-cpr-mini-game-hot-fix-coming-1851784478)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
