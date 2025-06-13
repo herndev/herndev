@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tony Hawk’s Pro Skater 3 + 4 — Returning Skaters](https://www.tonyhawkthegame.com/blog/2025/06/tony-hawk-pro-skater-three-four-returning-skaters#new_tab)
- - [Gooner game of the year Stellar Blade&#39;s mods are 41% smut, ensuring gamers will never see the light of heaven](https://www.pcgamer.com/games/action/gooner-game-of-the-year-stellar-blades-mods-are-41-percent-smut-ensuring-gamers-will-never-see-the-light-of-heaven/)
- - [Marathon isn’t going to be another Concord, Sony insists](https://www.polygon.com/gaming/606886/marathon-isnt-going-to-be-another-concord-sony-insists)<!-- GAME:END -->
+ - [PlayStation Studios boss admits Marathon response has been &#39;varied&#39; but says Sony is taking steps to ensure it&#39;s &#39;not going to make the same mistakes&#39; it did with Concord](https://www.pcgamer.com/games/fps/playstation-studios-boss-admits-marathon-response-has-been-varied-but-says-sony-is-taking-steps-to-ensure-its-not-going-to-make-the-same-mistakes-it-did-with-concord/)
+ - [All skill trainer locations in Dune: Awakening, including basic and advanced](https://www.polygon.com/dune-awakening-guides/606856/skill-trainer-locations-all-basic-advanced-where-to-find)
+ - [Tony Hawk’s Pro Skater 3 + 4 — Returning Skaters](https://www.tonyhawkthegame.com/blog/2025/06/tony-hawk-pro-skater-three-four-returning-skaters#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
