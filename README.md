@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta announces a $14.3B investment in Scale AI and hires CEO Alexandr Wang to help oversee its AI efforts; source: Scale AI&#39;s post-money valuation is $29B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250612/p44#a250612p44)
- - [Your Wear OS smartwatch will now warn you when an earthquake is about to happen](https://www.androidauthority.com/wear-os-earthquake-alerts-rolling-out-3567283/)
- - [Meta is paying $14 billion to catch up in the AI race](https://www.theverge.com/meta/685711/meta-scale-ai-ceo-alexandr-wang)<!-- TECH:END -->
+ - [Cloud computing startup Crusoe plans to buy ~$400M worth of AI chips from AMD to rent to customers for its US data center that will come online by fall &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250612/p45#a250612p45)
+ - [Power station deal: The GRECELL T300 is just $121.49 right now!](https://www.androidauthority.com/grecell-t300-power-station-deal-3567282/)
+ - [Meta announces a $14.3B investment in Scale AI and hires CEO Alexandr Wang to help oversee its AI efforts; source: Scale AI&#39;s post-money valuation is $29B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250612/p44#a250612p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
