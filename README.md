@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this true?](http://9gag.com/gag/aNDOrOw)
- - ⏩ [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
- - 👉 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)<!-- MEMES:END -->
+ - 💣 [Luna, best girl](http://9gag.com/gag/aVvVQov)
+ - ⏩ [G*rls be like](http://9gag.com/gag/ae9735q)
+ - 👉 [Survivor](http://9gag.com/gag/aD2Oood)<!-- MEMES:END -->
 
 ---
 
