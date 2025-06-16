@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple restarts its developer betas with iOS 18.6, macOS 15.6](https://appleinsider.com/articles/25/06/16/apple-restarts-its-developer-betas-with-ios-186-macos-156?utm_medium=rss)
- - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)
- - [The Meta AI app now shows a warning prompt before users share content to the public feed, after reports of users accidentally sharing chats with personal info &lpar;Katie Notopoulos/Business Insider&rpar;](http://www.techmeme.com/250616/p22#a250616p22)<!-- TECH:END -->
+ - [Justin Sun takes crypto company public — reportedly with help from Eric Trump](https://www.theverge.com/news/687854/justin-sun-tron-nasdaq-trump-family)
+ - [The US Defense Department awards a one-year $200M contract to OpenAI to develop AI tools for addressing challenges in &quot;warfighting and enterprise domains&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250616/p23#a250616p23)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
