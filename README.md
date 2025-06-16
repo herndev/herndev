@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here comes the AI sponcon](https://www.theverge.com/news/684572/tiktok-ai-advertising-videos-try-on-product-placement)
- - [Trump wants to put his name on your phone now](https://www.androidauthority.com/trump-mobile-service-3567733/)
- - [Play Store search tab pops with color in latest Material 3 Expressive refresh](https://www.androidauthority.com/google-play-store-material-3-expressive-icons-3567720/)<!-- TECH:END -->
+ - [Your next phone could run on Trump Mobile](https://www.theverge.com/news/687418/trump-mobile-network-t1-trademark-application)
+ - [Google Home’s latest bug: Setting an alarm for this time is nearly impossible &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/google-home-alarm-bug-3567380/)
+ - [OnePlus 15 leak teases big changes, and not everyone’s going to be happy](https://www.androidauthority.com/oneplus-15-leak-display-camera-changes-3567730/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
