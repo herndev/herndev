@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ultimate male coping mechanism](http://9gag.com/gag/awyYA9r)
+ - 💣 [Like there were any girls here.](http://9gag.com/gag/an7rMME)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [The feeling of getting your own space](http://9gag.com/gag/a5QqRZG)<!-- MEMES:END -->
+ - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
 
 ---
 
