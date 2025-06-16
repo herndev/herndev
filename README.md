@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
+ - 💣 [Editors at PC Gamer = very angry!](http://9gag.com/gag/an7r9g5)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
+ - 👉 [Gottem](http://9gag.com/gag/aVvV34O)<!-- MEMES:END -->
 
 ---
 
