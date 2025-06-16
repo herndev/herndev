@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Play: EA Sports FC 25 Is Now Available with Game Pass Ultimate](https://news.xbox.com/en-us/2025/06/16/ea-play-ea-sports-fc-25-june-rewards/)
- - [The Villainous Vile Lair In Oblivion Remastered Is Perfect For Vampiric Playthroughs](https://kotaku.com/elder-scrolls-oblivion-remastered-vile-lair-vampire-1851784570)
- - [The Witcher 4 is being developed with a ‘console-first’ mindset, CDPR devs say](https://www.polygon.com/the-witcher/607130/the-witcher-4-console-first-mindset-developed-cdpr)<!-- GAME:END -->
+ - [Deconstructing Robots at Midnight](https://news.xbox.com/en-us/2025/06/16/deconstructing-robots-at-midnight/)
+ - [&#39;Do it fast, do it dirty&#39;: The Witcher 4&#39;s narrative director discusses the studio&#39;s philosophy and what made The Witcher 3 so great](https://www.pcgamer.com/games/the-witcher/do-it-fast-do-it-dirty-the-witcher-4s-narrative-director-discusses-the-studios-philosophy-and-what-made-the-witcher-3-so-great/)
+ - [PowerColor Alphyn AM10 Wireless Gaming Mouse review](https://www.pcgamer.com/hardware/gaming-mice/powercolor-alphyn-am10-wireless-gaming-mouse-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
