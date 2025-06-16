@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump wants to put his name on your phone now &lpar;Update: Official&rpar;](https://www.androidauthority.com/trump-mobile-service-3567733/)
- - [A small update to Visual Intelligence in iOS 26 makes a giant difference in usability](https://appleinsider.com/articles/25/06/16/a-small-update-to-visual-intelligence-in-ios-26-makes-a-giant-difference-in-usability?utm_medium=rss)
- - [Trump Media and Technology Group files an S-1 with the US SEC to launch a spot Bitcoin and Ethereum ETF, allocating 75% to bitcoin and 25% to ether &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250616/p14#a250616p14)<!-- TECH:END -->
+ - [Flash deal: M4 Mac mini drops to $499 in today&#39;s price war](https://appleinsider.com/articles/25/06/16/flash-deal-m4-mac-mini-drops-to-499-in-todays-price-war?utm_medium=rss)
+ - [Apple stuck with $58M fine after Dutch court rules it broke antitrust law](https://appleinsider.com/articles/25/06/16/apple-stuck-with-58m-fine-after-dutch-court-rules-it-broke-antitrust-law?utm_medium=rss)
+ - [Gemini overlay tries out a new look with a splash of Google colors &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-overlay-google-colors-3567834/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
