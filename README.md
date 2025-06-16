@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deconstructing Robots at Midnight](https://news.xbox.com/en-us/2025/06/16/deconstructing-robots-at-midnight/)
- - [&#39;Do it fast, do it dirty&#39;: The Witcher 4&#39;s narrative director discusses the studio&#39;s philosophy and what made The Witcher 3 so great](https://www.pcgamer.com/games/the-witcher/do-it-fast-do-it-dirty-the-witcher-4s-narrative-director-discusses-the-studios-philosophy-and-what-made-the-witcher-3-so-great/)
- - [PowerColor Alphyn AM10 Wireless Gaming Mouse review](https://www.pcgamer.com/hardware/gaming-mice/powercolor-alphyn-am10-wireless-gaming-mouse-review/)<!-- GAME:END -->
+ - [Three Essential Tips To Restore The World Around You In Roadcraft](https://kotaku.com/roadcraft-awd-routes-scrap-construction-materials-nav-1851784584)
+ - [Rematch Launching Without Crossplay, Disappointing Many Players](https://kotaku.com/rematch-does-it-have-crossplay-launch-no-xbox-ps5-pc-1851784595)
+ - [Top D&amp;#038;D designers join Critical Role after quitting Wizards of the Coast](https://www.polygon.com/dnd-dungeons-dragons/607177/critical-role-darrington-press-chris-perkins-jeremy-crawford-dnd-wizards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
