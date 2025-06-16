@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - 💣 [Chinese wood](http://9gag.com/gag/aXPKY96)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [Saab was living in 2090 back in 1990](http://9gag.com/gag/aLndg0z)<!-- MEMES:END -->
+ - 👉 [Gottem](http://9gag.com/gag/aVvV34O)<!-- MEMES:END -->
 
 ---
 
