@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [CD Projekt Red says The Witcher 4 will be a &#39;more console-first development&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-red-says-the-witcher-4-will-be-a-more-console-first-development/)
  - [Today&#39;s Wordle answer for Monday, June 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-16-2025/)
- - [Hello Games fans enter the early stages of Silksong syndrome after Light No Fire is a Summer Game Fest no-show](https://www.pcgamer.com/games/survival-crafting/hello-games-fans-enter-the-early-stages-of-silksong-syndrome-after-light-no-fire-is-a-summer-game-fest-no-show/)
- - [Five Nights At Freddy&#39;s still going strong: The latest game briefly grappled with Dune over Steam&#39;s top seller spot](https://www.pcgamer.com/games/horror/five-nights-at-freddys-still-going-strong-the-latest-game-briefly-grappled-with-dune-over-steams-top-seller-spot/)<!-- GAME:END -->
+ - [Hello Games fans enter the early stages of Silksong syndrome after Light No Fire is a Summer Game Fest no-show](https://www.pcgamer.com/games/survival-crafting/hello-games-fans-enter-the-early-stages-of-silksong-syndrome-after-light-no-fire-is-a-summer-game-fest-no-show/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
