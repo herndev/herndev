@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, June 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-16-2025/)
  - [Hello Games fans enter the early stages of Silksong syndrome after Light No Fire is a Summer Game Fest no-show](https://www.pcgamer.com/games/survival-crafting/hello-games-fans-enter-the-early-stages-of-silksong-syndrome-after-light-no-fire-is-a-summer-game-fest-no-show/)
- - [Five Nights At Freddy&#39;s still going strong: The latest game briefly grappled with Dune over Steam&#39;s top seller spot](https://www.pcgamer.com/games/horror/five-nights-at-freddys-still-going-strong-the-latest-game-briefly-grappled-with-dune-over-steams-top-seller-spot/)
- - [Klei&#39;s next game will make a side-scrolling survival crafter out of Oxygen Not Included&#39;s detailed fluid and heat physics](https://www.pcgamer.com/games/survival-crafting/kleis-next-game-will-make-a-side-scrolling-survival-crafter-out-of-oxygen-not-includeds-detailed-fluid-and-heat-physics/)<!-- GAME:END -->
+ - [Five Nights At Freddy&#39;s still going strong: The latest game briefly grappled with Dune over Steam&#39;s top seller spot](https://www.pcgamer.com/games/horror/five-nights-at-freddys-still-going-strong-the-latest-game-briefly-grappled-with-dune-over-steams-top-seller-spot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
