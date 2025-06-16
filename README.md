@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 update breaks button and gesture navigation for some Pixel users](https://www.androidauthority.com/pixel-unresponsive-navigation-android-16-3567818/)
- - [Google Discover may finally stop hiding the links it shares &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-discover-link-shorteners-3567842/)
- - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)<!-- TECH:END -->
+ - [Threads will let you hide spoilers in your posts](https://www.theverge.com/news/687655/threads-hide-spoilers-test-launch)
+ - [7 Best Electric Toothbrushes, Tested For Two Weeks Each &lpar;2025&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)
+ - [EchoStar&#39;s stock jumps 45%+ after a report said EchoStar&#39;s chairman met Trump, a day after meeting FCC&#39;s Carr; EchoStar faces FCC spectrum license uncertainty &lpar;Monica Alleven/Fierce Network&rpar;](http://www.techmeme.com/250616/p18#a250616p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
