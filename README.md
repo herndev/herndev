@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The napping gene is strong in this family.](http://9gag.com/gag/aXPKYe2)
+ - 💣 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)<!-- MEMES:END -->
+ - 👉 [Heimlich](http://9gag.com/gag/aMVOZPP)<!-- MEMES:END -->
 
 ---
 
