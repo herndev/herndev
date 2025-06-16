@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads will let you hide spoilers in your posts](https://www.theverge.com/news/687655/threads-hide-spoilers-test-launch)
- - [7 Best Electric Toothbrushes, Tested For Two Weeks Each &lpar;2025&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)
- - [EchoStar&#39;s stock jumps 45%+ after a report said EchoStar&#39;s chairman met Trump, a day after meeting FCC&#39;s Carr; EchoStar faces FCC spectrum license uncertainty &lpar;Monica Alleven/Fierce Network&rpar;](http://www.techmeme.com/250616/p18#a250616p18)<!-- TECH:END -->
+ - [Pixel 10 camera leak reveals Google’s trick for better close-ups](https://www.androidauthority.com/pixel-10-tele-macro-3567952/)
+ - [9 Urgent Questions About Trump Mobile and the Gold T1 Smartphone](https://www.wired.com/story/9-urgent-questions-about-trump-mobile-and-the-gold-t1-smartphone/)
+ - [‘Psyop’: How Far-Right Conspiracy Theories About the Minnesota Shooting Evolved to Protect MAGA](https://www.wired.com/story/psyop-far-right-conspiracy-theories-minnesota-shooting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
