@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oil rig horror game Still Wakes the Deep is going underwater in a surprise story expansion that arrives next week](https://www.pcgamer.com/games/horror/oil-rig-horror-game-still-wakes-the-deep-is-going-underwater-in-a-surprise-story-expansion-that-arrives-next-week/)
- - [GTA Online&#39;s Money Fronts update is basically Breaking Bad minus the meth](https://www.pcgamer.com/games/grand-theft-auto/gta-onlines-money-fronts-update-is-basically-breaking-bad-minus-the-meth/)
- - [How to find and get Flour Sand in Dune: Awakening](https://www.polygon.com/dune-awakening-guides/607018/flour-sand-locations-how-to-get)<!-- GAME:END -->
+ - [Klei&#39;s next game will make a side-scrolling survival crafter out of Oxygen Not Included&#39;s detailed fluid and heat physics](https://www.pcgamer.com/games/survival-crafting/kleis-next-game-will-make-a-side-scrolling-survival-crafter-out-of-oxygen-not-includeds-detailed-fluid-and-heat-physics/)
+ - [One of the world&#39;s biggest board game companies has just done the equivalent of Sega selling Sonic to Nintendo](https://www.pcgamer.com/games/board-games/one-of-the-worlds-biggest-board-game-companies-has-just-done-the-equivalent-of-sega-selling-sonic-to-nintendo/)
+ - [Google is experimenting with AI-generated podcast-like audio summaries at the top of its search results](https://www.pcgamer.com/gaming-industry/google-is-experimenting-with-ai-generated-podcast-like-audio-summaries-at-the-top-of-its-search-results/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
