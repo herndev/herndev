@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
- - ⏩ [Gottem](http://9gag.com/gag/aVvV34O)
- - 👉 [The little we know](http://9gag.com/gag/a0eMbgZ)<!-- MEMES:END -->
+ - 💣 [That last comment though](http://9gag.com/gag/aD2OgRK)
+ - ⏩ [This dog knows how to make your day better](http://9gag.com/gag/aGyOePX)
+ - 👉 [Now imagine doing this on acid.](http://9gag.com/gag/aVvV0m2)<!-- MEMES:END -->
 
 ---
 
