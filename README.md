@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Comparing Ironheart To Breaking Bad Is So Absurd We Can&#39;t Stop Imagining It](https://kotaku.com/ironheart-riri-williams-breaking-bad-walter-white-1851784602)
- - [Nintendo&#39;s Mysterious Absence From Amazon Ends With No Explanation](https://kotaku.com/amazon-switch-2-nintendo-mario-donkey-kong-pre-orders-1851784603)
- - [What time does Genshin Impact 5.7 release?](https://www.polygon.com/genshin-impact-guides/607168/version-5-7-release-times-maintenance)<!-- GAME:END -->
+ - [Nintendo&#39;s Crackdown On Switch 2 Piracy Has Already Begun](https://kotaku.com/switch-2-piracy-nintendo-mig-ban-roms-mario-kart-1851784610)
+ - [Prince of Persia: Sands of Time remake still theoretically on track for 2026, Ubisoft tells skeptics](https://www.polygon.com/gaming/607232/prince-of-persia-sands-of-time-remake-update-ubisoft)
+ - [Netflix’s new reality show is Pokémon Snap with sharks](https://www.polygon.com/tv/607170/netflix-all-the-sharks-pokemon-snap-inspired)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
