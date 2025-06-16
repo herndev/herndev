@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Pinnacle Bosses in Path of Exile: Secrets of the Atlas, and Tips To Take Them On](https://news.xbox.com/en-us/2025/06/16/new-pinnacle-bosses-in-path-of-exile-secrets-of-the-atlas/)
- - [Elden Ring Nightreign has a new exploit which allows you and your friends to duplicate weapons and talismans until you&#39;re just as godly as the Nightlords](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-has-a-new-exploit-which-allows-you-and-your-friends-to-duplicate-weapons-and-talismans-until-youre-just-as-godly-as-the-nightlords/)
- - [Stutters and hitches in Unreal Engine 5 games should become rarer over time due to Epic&#39;s continuous updates, but we&#39;ll still see them for a while because of the way games are made](https://www.pcgamer.com/hardware/graphics-cards/stutters-and-hitches-in-unreal-engine-5-games-should-become-rarer-over-time-due-to-epics-continuous-updates-but-well-still-see-them-for-a-while-because-of-the-way-games-are-made/)<!-- GAME:END -->
+ - [Latest beta version of Windows 11 gets the AI agent that Microsoft promised it would add: A search tool that works](https://www.pcgamer.com/software/windows/latest-beta-version-of-windows-11-gets-the-ai-agent-that-microsoft-promised-it-would-add-a-search-tool-that-works/)
+ - [The new Windows 11 Insider release has a weird bug where it plays the Windows Vista start-up music instead of the current one](https://www.pcgamer.com/software/windows/well-this-is-a-new-one-the-new-windows-11-insider-release-has-a-weird-bug-where-it-plays-the-windows-vista-start-up-music-instead-of-the-current-one/)
+ - [An RTX 3080 Ti 20 GB engineering sample has been spotted on eBay for $2,000, proving Nvidia plays with all the goodies we never get](https://www.pcgamer.com/hardware/graphics-cards/an-rtx-3080-ti-20-gb-engineering-sample-has-been-spotted-on-ebay-for-usd2-000-proving-nvidia-plays-with-all-the-goodies-we-never-get/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
