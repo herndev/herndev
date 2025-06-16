@@ -39,8 +39,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford’s new modified Mustang Mach-E is ready to fly up Pikes Peak](https://www.theverge.com/ford-motor-company/686912/ford-pikes-peak-super-mustang-mach-e-ev-demonstrator)
- - [Apple says there&#39;s no chatbot -- but Shortcuts in iOS 26 says otherwise](https://appleinsider.com/articles/25/06/16/apple-says-theres-no-chatbot----but-shortcuts-in-ios-26-says-otherwise?utm_medium=rss)
+ - [Android 16 update breaks button and gesture navigation for some Pixel users](https://www.androidauthority.com/pixel-unresponsive-navigation-android-16-3567818/)
+ - [Google Discover may finally stop hiding the links it shares &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-discover-link-shorteners-3567842/)
  - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
