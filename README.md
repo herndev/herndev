@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Play Store search tab pops with color in latest Material 3 Expressive refresh](https://www.androidauthority.com/google-play-store-material-3-expressive-icons-3567720/)
- - [Aspora, which makes financial tools like remittance services for the Indian diaspora, raised a $50M Series B co-led by Sequoia and Greylock at a $500M valuation &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250616/p1#a250616p1)
- - [The Fitbit app just got a quiet Pixel Watch-inspired makeover](https://www.androidauthority.com/fitbit-app-new-settings-page-3567716/)<!-- TECH:END -->
+ - [Here comes the AI sponcon](https://www.theverge.com/news/684572/tiktok-ai-advertising-videos-try-on-product-placement)
+ - [Trump wants to put his name on your phone now](https://www.androidauthority.com/trump-mobile-service-3567733/)
+ - [Play Store search tab pops with color in latest Material 3 Expressive refresh](https://www.androidauthority.com/google-play-store-material-3-expressive-icons-3567720/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
