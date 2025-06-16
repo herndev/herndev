@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: M4 Mac mini drops to $499 in today&#39;s price war](https://appleinsider.com/articles/25/06/16/flash-deal-m4-mac-mini-drops-to-499-in-todays-price-war?utm_medium=rss)
- - [Apple stuck with $58M fine after Dutch court rules it broke antitrust law](https://appleinsider.com/articles/25/06/16/apple-stuck-with-58m-fine-after-dutch-court-rules-it-broke-antitrust-law?utm_medium=rss)
- - [Gemini overlay tries out a new look with a splash of Google colors &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-overlay-google-colors-3567834/)<!-- TECH:END -->
+ - [Ford’s new modified Mustang Mach-E is ready to fly up Pikes Peak](https://www.theverge.com/ford-motor-company/686912/ford-pikes-peak-super-mustang-mach-e-ev-demonstrator)
+ - [Apple says there&#39;s no chatbot -- but Shortcuts in iOS 26 says otherwise](https://appleinsider.com/articles/25/06/16/apple-says-theres-no-chatbot----but-shortcuts-in-ios-26-says-otherwise?utm_medium=rss)
+ - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
