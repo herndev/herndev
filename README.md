@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The situation so far...](http://9gag.com/gag/amopvP4)
+ - 💣 [The napping gene is strong in this family.](http://9gag.com/gag/aXPKYe2)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)<!-- MEMES:END -->
+ - 👉 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)<!-- MEMES:END -->
 
 ---
 
