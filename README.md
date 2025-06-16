@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like there were any girls here.](http://9gag.com/gag/an7rMME)
+ - 💣 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
+ - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
 
 ---
 
