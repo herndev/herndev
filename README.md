@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo&#39;s Crackdown On Switch 2 Piracy Has Already Begun](https://kotaku.com/switch-2-piracy-nintendo-mig-ban-roms-mario-kart-1851784610)
- - [Prince of Persia: Sands of Time remake still theoretically on track for 2026, Ubisoft tells skeptics](https://www.polygon.com/gaming/607232/prince-of-persia-sands-of-time-remake-update-ubisoft)
- - [Netflix’s new reality show is Pokémon Snap with sharks](https://www.polygon.com/tv/607170/netflix-all-the-sharks-pokemon-snap-inspired)<!-- GAME:END -->
+ - [Mario Kart World has more ways to dodge a blue shell than you realize](https://www.polygon.com/nintendo-switch-2/607236/mario-kart-world-how-to-dodge-blue-shells)
+ - [Pentiment and Fallout: New Vegas designer Josh Sawyer isn&#39;t usually a fan of RPG romances, but thinks Cyberpunk 2077 nailed it: &#39;If I were gonna base romances on anything, I&#39;d probably do something like that&#39;](https://www.pcgamer.com/games/rpg/pentiment-and-fallout-new-vegas-designer-josh-sawyer-isnt-usually-a-fan-of-rpg-romances-but-thinks-cyberpunk-2077-nailed-it-if-i-were-gonna-base-romances-on-anything-id-probably-do-something-like-that/)
+ - [Nintendo&#39;s Crackdown On Switch 2 Piracy Has Already Begun](https://kotaku.com/switch-2-piracy-nintendo-mig-ban-roms-mario-kart-1851784610)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
