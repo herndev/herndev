@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Latest beta version of Windows 11 gets the AI agent that Microsoft promised it would add: A search tool that works](https://www.pcgamer.com/software/windows/latest-beta-version-of-windows-11-gets-the-ai-agent-that-microsoft-promised-it-would-add-a-search-tool-that-works/)
- - [The new Windows 11 Insider release has a weird bug where it plays the Windows Vista start-up music instead of the current one](https://www.pcgamer.com/software/windows/well-this-is-a-new-one-the-new-windows-11-insider-release-has-a-weird-bug-where-it-plays-the-windows-vista-start-up-music-instead-of-the-current-one/)
- - [An RTX 3080 Ti 20 GB engineering sample has been spotted on eBay for $2,000, proving Nvidia plays with all the goodies we never get](https://www.pcgamer.com/hardware/graphics-cards/an-rtx-3080-ti-20-gb-engineering-sample-has-been-spotted-on-ebay-for-usd2-000-proving-nvidia-plays-with-all-the-goodies-we-never-get/)<!-- GAME:END -->
+ - [ChatGPT asked to play an Atari 2600 at chess then &#39;got absolutely wrecked on the beginner level&#39;](https://www.pcgamer.com/games/chatgpt-asked-to-play-an-atari-2600-at-chess-then-got-absolutely-wrecked-on-the-beginner-level/)
+ - [A June Nintendo Direct Devoted Entirely To The Next Big Switch 2 Game Is On The Way](https://kotaku.com/nintendo-direct-switch-2-donkey-kong-bananaza-june-1851784552)
+ - [The writer behind Stray and &lpar;checks notes&rpar; wrestler and actor Dave Bautista are making a game where you get to play as a cat assassin &#39;in a gritty neo-noir world&#39;](https://www.pcgamer.com/games/roguelike/the-writer-behind-stray-and-checks-notes-wrestler-and-actor-dave-bautista-are-making-a-game-where-you-get-to-play-as-a-cat-assassin-in-a-gritty-neo-noir-world/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
