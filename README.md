@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI is just another productivity tool and the productivity gains will be limited; for lasting economic expansion, AI must catalyze new industries and initiatives &lpar;Carl Benedikt Frey/Financial Times&rpar;](http://www.techmeme.com/250616/p12#a250616p12)
- - [How polls in iOS 26 Messages app makes group planning easier](https://appleinsider.com/articles/25/06/16/how-polls-in-ios-26-messages-app-makes-group-planning-easier?utm_medium=rss)
- - [Circle to Search could be getting an AI Mode upgrade, and here’s what it looks like &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-ai-mode-demo-apk-teardown-3567787/)<!-- TECH:END -->
+ - [Trump wants to put his name on your phone now &lpar;Update: Official&rpar;](https://www.androidauthority.com/trump-mobile-service-3567733/)
+ - [A small update to Visual Intelligence in iOS 26 makes a giant difference in usability](https://appleinsider.com/articles/25/06/16/a-small-update-to-visual-intelligence-in-ios-26-makes-a-giant-difference-in-usability?utm_medium=rss)
+ - [Trump Media and Technology Group files an S-1 with the US SEC to launch a spot Bitcoin and Ethereum ETF, allocating 75% to bitcoin and 25% to ether &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250616/p14#a250616p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
