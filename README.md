@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 3 now rumored to launch in 2026](https://appleinsider.com/articles/25/06/16/airpods-pro-3-now-rumored-to-launch-in-2026?utm_medium=rss)
- - [WhatsApp rolls out ads in its Updates tab, a first for the app, and will collect some data to target the ads, but says it has no plans to put ads in chats &lpar;New York Times&rpar;](http://www.techmeme.com/250616/p11#a250616p11)
- - [Packed with seven drivers, you’ll enjoy a seamless audio experience with the Kiwi Ears Septet](https://www.androidauthority.com/kiwi-ears-septet-3567092/)<!-- TECH:END -->
+ - [AI is just another productivity tool and the productivity gains will be limited; for lasting economic expansion, AI must catalyze new industries and initiatives &lpar;Carl Benedikt Frey/Financial Times&rpar;](http://www.techmeme.com/250616/p12#a250616p12)
+ - [How polls in iOS 26 Messages app makes group planning easier](https://appleinsider.com/articles/25/06/16/how-polls-in-ios-26-messages-app-makes-group-planning-easier?utm_medium=rss)
+ - [Circle to Search could be getting an AI Mode upgrade, and here’s what it looks like &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-ai-mode-demo-apk-teardown-3567787/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
