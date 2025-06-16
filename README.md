@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Three Essential Tips To Restore The World Around You In Roadcraft](https://kotaku.com/roadcraft-awd-routes-scrap-construction-materials-nav-1851784584)
- - [Rematch Launching Without Crossplay, Disappointing Many Players](https://kotaku.com/rematch-does-it-have-crossplay-launch-no-xbox-ps5-pc-1851784595)
- - [Top D&amp;#038;D designers join Critical Role after quitting Wizards of the Coast](https://www.polygon.com/dnd-dungeons-dragons/607177/critical-role-darrington-press-chris-perkins-jeremy-crawford-dnd-wizards)<!-- GAME:END -->
+ - [What time does Genshin Impact 5.7 release?](https://www.polygon.com/genshin-impact-guides/607168/version-5-7-release-times-maintenance)
+ - [New Switch 2 Players, Here Are 17 Essential Cyberpunk 2077 Side-Quests You Don’t Want To Miss](https://kotaku.com/cyberpunk-2077-side-quests-panam-dream-on-sinnerman-1850875179)
+ - [The Bell Bearing Hunter boss fight is terrorizing Elden Ring Nightreign players](https://www.polygon.com/culture/607176/elden-ring-nightreign-bell-bearing-hunter-how-to-beat-weaknesses-build-strategy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
