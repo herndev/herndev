@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker SOLIX EverFrost 2 40L electric cooler drops to its all-time low price](https://www.androidauthority.com/anker-solix-everfrost-2-40l-deal-3567633/)
- - [Sources: Google, Scale AI&#39;s largest customer, plans to cut ties with the company after the Meta deal; Microsoft, OpenAI, and xAI also plan to step back &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p23#a250613p23)
- - [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)<!-- TECH:END -->
+ - [Dygma Raise 2 review: A split keyboard with a too hefty price](https://appleinsider.com/articles/25/06/15/dygma-raise-2-review-a-split-keyboard-with-a-hefty-price?utm_medium=rss)
+ - [Berlin-based Knowunity, an AI-powered learning platform with 20M+ users in 15 countries, raised a €27M Series B led by XAnge, bringing its total funding to €45M &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250615/p18#a250615p18)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 16, #470](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-16-470/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
