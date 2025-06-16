@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft is rolling out its first glow up in years tomorrow](https://www.pcgamer.com/games/survival-crafting/minecraft-is-rolling-out-its-first-glow-up-in-years-tomorrow/)
- - [Stellar Blade&#39;s director throws down the gauntlet at modders, whose &#39;firepower is still weak&#39;—all the sexy costumes are cool, he just also wants mods that &#39;expand the user’s play experience&#39;](https://www.pcgamer.com/games/action/stellar-blades-director-throws-down-the-gauntlet-at-modders-whose-firepower-is-still-weak-all-the-sexy-costumes-are-cool-he-just-also-wants-mods-that-expand-the-users-play-experience/)
- - [Yes, that was the original voice of Garrett in the trailer for Thief VR](https://www.pcgamer.com/games/vr/yes-that-was-the-original-voice-of-garrett-in-the-trailer-for-thief-vr/)<!-- GAME:END -->
+ - [New Pinnacle Bosses in Path of Exile: Secrets of the Atlas, and Tips To Take Them On](https://news.xbox.com/en-us/2025/06/16/new-pinnacle-bosses-in-path-of-exile-secrets-of-the-atlas/)
+ - [Elden Ring Nightreign has a new exploit which allows you and your friends to duplicate weapons and talismans until you&#39;re just as godly as the Nightlords](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-has-a-new-exploit-which-allows-you-and-your-friends-to-duplicate-weapons-and-talismans-until-youre-just-as-godly-as-the-nightlords/)
+ - [Stutters and hitches in Unreal Engine 5 games should become rarer over time due to Epic&#39;s continuous updates, but we&#39;ll still see them for a while because of the way games are made](https://www.pcgamer.com/hardware/graphics-cards/stutters-and-hitches-in-unreal-engine-5-games-should-become-rarer-over-time-due-to-epics-continuous-updates-but-well-still-see-them-for-a-while-because-of-the-way-games-are-made/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
