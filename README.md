@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That last comment though](http://9gag.com/gag/aD2OgRK)
- - ⏩ [This dog knows how to make your day better](http://9gag.com/gag/aGyOePX)
- - 👉 [Now imagine doing this on acid.](http://9gag.com/gag/aVvV0m2)<!-- MEMES:END -->
+ - 💣 [Editors at PC Gamer = very angry!](http://9gag.com/gag/an7r9g5)
+ - ⏩ [You have to at least watch a few birthing videos in your lifetime.](http://9gag.com/gag/ae97eM5)
+ - 👉 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)<!-- MEMES:END -->
 
 ---
 
