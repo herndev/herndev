@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Klei&#39;s next game will make a side-scrolling survival crafter out of Oxygen Not Included&#39;s detailed fluid and heat physics](https://www.pcgamer.com/games/survival-crafting/kleis-next-game-will-make-a-side-scrolling-survival-crafter-out-of-oxygen-not-includeds-detailed-fluid-and-heat-physics/)
- - [One of the world&#39;s biggest board game companies has just done the equivalent of Sega selling Sonic to Nintendo](https://www.pcgamer.com/games/board-games/one-of-the-worlds-biggest-board-game-companies-has-just-done-the-equivalent-of-sega-selling-sonic-to-nintendo/)
- - [Google is experimenting with AI-generated podcast-like audio summaries at the top of its search results](https://www.pcgamer.com/gaming-industry/google-is-experimenting-with-ai-generated-podcast-like-audio-summaries-at-the-top-of-its-search-results/)<!-- GAME:END -->
+ - [Hello Games fans enter the early stages of Silksong syndrome after Light No Fire is a Summer Game Fest no-show](https://www.pcgamer.com/games/survival-crafting/hello-games-fans-enter-the-early-stages-of-silksong-syndrome-after-light-no-fire-is-a-summer-game-fest-no-show/)
+ - [Five Nights At Freddy&#39;s still going strong: The latest game briefly grappled with Dune over Steam&#39;s top seller spot](https://www.pcgamer.com/games/horror/five-nights-at-freddys-still-going-strong-the-latest-game-briefly-grappled-with-dune-over-steams-top-seller-spot/)
+ - [Klei&#39;s next game will make a side-scrolling survival crafter out of Oxygen Not Included&#39;s detailed fluid and heat physics](https://www.pcgamer.com/games/survival-crafting/kleis-next-game-will-make-a-side-scrolling-survival-crafter-out-of-oxygen-not-includeds-detailed-fluid-and-heat-physics/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
