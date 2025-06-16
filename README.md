@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese wood](http://9gag.com/gag/aXPKY96)
+ - 💣 [Gottem](http://9gag.com/gag/aVvV34O)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [Gottem](http://9gag.com/gag/aVvV34O)<!-- MEMES:END -->
+ - 👉 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)<!-- MEMES:END -->
 
 ---
 
