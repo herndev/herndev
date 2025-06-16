@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yes, that was the original voice of Garrett in the trailer for Thief VR](https://www.pcgamer.com/games/vr/yes-that-was-the-original-voice-of-garrett-in-the-trailer-for-thief-vr/)
- - [CD Projekt Red says The Witcher 4 will be a &#39;more console-first development&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-red-says-the-witcher-4-will-be-a-more-console-first-development/)
- - [Today&#39;s Wordle answer for Monday, June 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-16-2025/)<!-- GAME:END -->
+ - [Minecraft is rolling out its first glow up in years tomorrow](https://www.pcgamer.com/games/survival-crafting/minecraft-is-rolling-out-its-first-glow-up-in-years-tomorrow/)
+ - [Stellar Blade&#39;s director throws down the gauntlet at modders, whose &#39;firepower is still weak&#39;—all the sexy costumes are cool, he just also wants mods that &#39;expand the user’s play experience&#39;](https://www.pcgamer.com/games/action/stellar-blades-director-throws-down-the-gauntlet-at-modders-whose-firepower-is-still-weak-all-the-sexy-costumes-are-cool-he-just-also-wants-mods-that-expand-the-users-play-experience/)
+ - [Yes, that was the original voice of Garrett in the trailer for Thief VR](https://www.pcgamer.com/games/vr/yes-that-was-the-original-voice-of-garrett-in-the-trailer-for-thief-vr/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
