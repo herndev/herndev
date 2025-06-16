@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Heimlich](http://9gag.com/gag/aMVOZPP)
+ - 💣 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [I have no idea why 9gaggers complain about sitting in meetings](http://9gag.com/gag/aoyYePg)<!-- MEMES:END -->
+ - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
 
 ---
 
