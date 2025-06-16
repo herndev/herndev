@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your next phone could run on Trump Mobile](https://www.theverge.com/news/687418/trump-mobile-network-t1-trademark-application)
- - [Google Home’s latest bug: Setting an alarm for this time is nearly impossible &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/google-home-alarm-bug-3567380/)
- - [OnePlus 15 leak teases big changes, and not everyone’s going to be happy](https://www.androidauthority.com/oneplus-15-leak-display-camera-changes-3567730/)<!-- TECH:END -->
+ - [TikTok rolls out new AI ad features, including the ability for marketers to use text or images to create AI-generated video, as part of its Symphony ad suite &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250616/p3#a250616p3)
+ - [Trump Touts China Trade Deal: Tariffs Back to Square One, Still Historically High](https://www.cnet.com/personal-finance/trump-touts-china-trade-deal-tariffs-back-to-square-one-still-historically-high/#ftag=CAD590a51e)
+ - [Microsoft accidentally swapped Windows 11’s startup sound with Vista’s](https://www.theverge.com/news/687417/microsoft-windows-11-startup-sound-boot-windows-vista-replacement-mistake-dev-channel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
