@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TACO move](http://9gag.com/gag/a87KM8Z)
- - ⏩ [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
- - 👉 [Robert Downey Jr](http://9gag.com/gag/axyY2pL)<!-- MEMES:END -->
+ - 💣 [Finding a lost engagement ring on the beach for a grateful couple.](http://9gag.com/gag/a2vLZbZ)
+ - ⏩ [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
+ - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
 
 ---
 
