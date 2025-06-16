@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch 8 series never looked better in this new leak](https://www.androidauthority.com/galaxy-watch-8-new-images-3567994/)
- - [Your WhatsApp Status view is about to get ads](https://www.androidauthority.com/whatsapp-status-ads-3567882/)
- - [Sources: OpenAI and Microsoft talks have become so fraught that OpenAI execs discussed accusing Microsoft of anticompetitive behavior before federal regulators &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250616/p21#a250616p21)<!-- TECH:END -->
+ - [Apple restarts its developer betas with iOS 18.6, macOS 15.6](https://appleinsider.com/articles/25/06/16/apple-restarts-its-developer-betas-with-ios-186-macos-156?utm_medium=rss)
+ - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)
+ - [The Meta AI app now shows a warning prompt before users share content to the public feed, after reports of users accidentally sharing chats with personal info &lpar;Katie Notopoulos/Business Insider&rpar;](http://www.techmeme.com/250616/p22#a250616p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
