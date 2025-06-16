@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fitbit app just got a quiet Pixel Watch-inspired makeover](https://www.androidauthority.com/fitbit-app-new-settings-page-3567716/)
- - [Anker’s Soundcore Sleep earbuds finally feature active noise canceling](https://www.theverge.com/news/686034/anker-soundcore-sleep-a30-wireless-earbuds-anc-active-noise-canceling)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 16, #266](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-16-266/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Play Store search tab pops with color in latest Material 3 Expressive refresh](https://www.androidauthority.com/google-play-store-material-3-expressive-icons-3567720/)
+ - [Aspora, which makes financial tools like remittance services for the Indian diaspora, raised a $50M Series B co-led by Sequoia and Greylock at a $500M valuation &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250616/p1#a250616p1)
+ - [The Fitbit app just got a quiet Pixel Watch-inspired makeover](https://www.androidauthority.com/fitbit-app-new-settings-page-3567716/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
