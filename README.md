@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Editors at PC Gamer = very angry!](http://9gag.com/gag/an7r9g5)
- - ⏩ [You have to at least watch a few birthing videos in your lifetime.](http://9gag.com/gag/ae97eM5)
- - 👉 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)<!-- MEMES:END -->
+ - 💣 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
+ - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
+ - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
 
 ---
 
