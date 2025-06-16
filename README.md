@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ChatGPT asked to play an Atari 2600 at chess then &#39;got absolutely wrecked on the beginner level&#39;](https://www.pcgamer.com/games/chatgpt-asked-to-play-an-atari-2600-at-chess-then-got-absolutely-wrecked-on-the-beginner-level/)
- - [A June Nintendo Direct Devoted Entirely To The Next Big Switch 2 Game Is On The Way](https://kotaku.com/nintendo-direct-switch-2-donkey-kong-bananaza-june-1851784552)
- - [The writer behind Stray and &lpar;checks notes&rpar; wrestler and actor Dave Bautista are making a game where you get to play as a cat assassin &#39;in a gritty neo-noir world&#39;](https://www.pcgamer.com/games/roguelike/the-writer-behind-stray-and-checks-notes-wrestler-and-actor-dave-bautista-are-making-a-game-where-you-get-to-play-as-a-cat-assassin-in-a-gritty-neo-noir-world/)<!-- GAME:END -->
+ - [Both Stellar Blade and Dune: Awakening shot into Steam&#39;s top 100 with new concurrent player peaks yesterday](https://www.pcgamer.com/games/both-stellar-blade-and-dune-awakening-shot-into-steams-top-100-with-new-concurrent-player-peaks-yesterday/)
+ - [The Highest Prices You Can Get For Pokémon TCG&#39;s Destined Rivals](https://kotaku.com/pokemon-tcg-destined-rivals-highest-price-cards-mewtwo-1851784564)
+ - [Disney Dreamlight Valley The Storybook Vale Part 2: The Unwritten Realms – Everything you need to know about the second half of the DLC](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-the-storybook-vale-the-unwritten-realms-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
