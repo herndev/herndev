@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart World has more ways to dodge a blue shell than you realize](https://www.polygon.com/nintendo-switch-2/607236/mario-kart-world-how-to-dodge-blue-shells)
- - [Pentiment and Fallout: New Vegas designer Josh Sawyer isn&#39;t usually a fan of RPG romances, but thinks Cyberpunk 2077 nailed it: &#39;If I were gonna base romances on anything, I&#39;d probably do something like that&#39;](https://www.pcgamer.com/games/rpg/pentiment-and-fallout-new-vegas-designer-josh-sawyer-isnt-usually-a-fan-of-rpg-romances-but-thinks-cyberpunk-2077-nailed-it-if-i-were-gonna-base-romances-on-anything-id-probably-do-something-like-that/)
- - [Nintendo&#39;s Crackdown On Switch 2 Piracy Has Already Begun](https://kotaku.com/switch-2-piracy-nintendo-mig-ban-roms-mario-kart-1851784610)<!-- GAME:END -->
+ - [Clair Obscur: Expedition 33 studio teases possible &#39;new content&#39; and more language support: &#39;It&#39;s very much on our radar&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-studio-teases-possible-new-content-and-more-language-support-its-very-much-on-our-radar/)
+ - [Funcom says its working on &#39;a bunch of changes&#39; for Dune: Awakening PvP after player calls out the survival MMO&#39;s &#39;biggest issue&#39;](https://www.pcgamer.com/games/mmo/funcom-says-its-working-on-a-bunch-of-changes-for-dune-awakening-pvp-after-player-calls-out-the-survival-mmos-biggest-issue/)
+ - [Nintendo Switch 2 hackers say they’re already getting banned](https://www.polygon.com/news/607288/nintendo-switch-2-hacker-ban-console-account)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
