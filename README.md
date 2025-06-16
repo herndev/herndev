@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
+ - 💣 [Heimlich](http://9gag.com/gag/aMVOZPP)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [An unbelievable way to score a basket](http://9gag.com/gag/ajPW8y1)<!-- MEMES:END -->
+ - 👉 [I have no idea why 9gaggers complain about sitting in meetings](http://9gag.com/gag/aoyYePg)<!-- MEMES:END -->
 
 ---
 
