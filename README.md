@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese wood](http://9gag.com/gag/aXPKY96)
- - ⏩ [Remembering David Vetter, the boy who lived in a sterile environment due to a rare immune deficiency.](http://9gag.com/gag/aXPKqn9)
- - 👉 [My dude saw his life pass before his eyes](http://9gag.com/gag/adBo7n9)<!-- MEMES:END -->
+ - 💣 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - ⏩ [Gottem](http://9gag.com/gag/aVvV34O)
+ - 👉 [The little we know](http://9gag.com/gag/a0eMbgZ)<!-- MEMES:END -->
 
 ---
 
