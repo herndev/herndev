@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows people are deeply divided over Pixel battery issues](https://www.androidauthority.com/pixel-battery-issues-survey-result-3567772/)
- - [OnePlus announces the Nord 5 and four more products](https://www.theverge.com/news/687441/oneplus-nord5-ce5-buds4-pad-lite-watch3)
- - [Chinese state media: researchers successfully implanted a brain-computer interface in a tetraplegia patient in March, the second country after the US to do so &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250616/p5#a250616p5)<!-- TECH:END -->
+ - [Apple may need to acquire AI firms to boost Apple Intelligence](https://appleinsider.com/articles/25/06/16/apple-may-need-to-acquire-ai-firms-to-boost-apple-intelligence?utm_medium=rss)
+ - [What&#39;s new with iPad app windows in iPadOS 26, and how they work](https://appleinsider.com/inside/ipados-26/tips/whats-new-with-ipad-app-windows-in-ipados-26-and-how-they-work?utm_medium=rss)
+ - [Amazon Ads and Roku sign a new ad initiative to give media buyers access to 80%+ of US connected-TV households, set to launch by Q4 2025, using Amazon&#39;s DSP &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250616/p6#a250616p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
