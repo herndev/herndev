@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 camera leak reveals Google’s trick for better close-ups](https://www.androidauthority.com/pixel-10-tele-macro-3567952/)
- - [9 Urgent Questions About Trump Mobile and the Gold T1 Smartphone](https://www.wired.com/story/9-urgent-questions-about-trump-mobile-and-the-gold-t1-smartphone/)
- - [‘Psyop’: How Far-Right Conspiracy Theories About the Minnesota Shooting Evolved to Protect MAGA](https://www.wired.com/story/psyop-far-right-conspiracy-theories-minnesota-shooting/)<!-- TECH:END -->
+ - [Galaxy Watch 8 series never looked better in this new leak](https://www.androidauthority.com/galaxy-watch-8-new-images-3567994/)
+ - [Your WhatsApp Status view is about to get ads](https://www.androidauthority.com/whatsapp-status-ads-3567882/)
+ - [Sources: OpenAI and Microsoft talks have become so fraught that OpenAI execs discussed accusing Microsoft of anticompetitive behavior before federal regulators &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250616/p21#a250616p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
