@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That package better be good.](http://9gag.com/gag/aKGOjEg)
+ - 💣 [Safety first, I guess?](http://9gag.com/gag/a4PWGry)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [Like there were any girls here.](http://9gag.com/gag/an7rMME)<!-- MEMES:END -->
+ - 👉 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)<!-- MEMES:END -->
 
 ---
 
