@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may need to acquire AI firms to boost Apple Intelligence](https://appleinsider.com/articles/25/06/16/apple-may-need-to-acquire-ai-firms-to-boost-apple-intelligence?utm_medium=rss)
- - [What&#39;s new with iPad app windows in iPadOS 26, and how they work](https://appleinsider.com/inside/ipados-26/tips/whats-new-with-ipad-app-windows-in-ipados-26-and-how-they-work?utm_medium=rss)
- - [Amazon Ads and Roku sign a new ad initiative to give media buyers access to 80%+ of US connected-TV households, set to launch by Q4 2025, using Amazon&#39;s DSP &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250616/p6#a250616p6)<!-- TECH:END -->
+ - [AirPods Pro 3 now rumored to launch in 2026](https://appleinsider.com/articles/25/06/16/airpods-pro-3-now-rumored-to-launch-in-2026?utm_medium=rss)
+ - [WhatsApp rolls out ads in its Updates tab, a first for the app, and will collect some data to target the ads, but says it has no plans to put ads in chats &lpar;New York Times&rpar;](http://www.techmeme.com/250616/p11#a250616p11)
+ - [Packed with seven drivers, you’ll enjoy a seamless audio experience with the Kiwi Ears Septet](https://www.androidauthority.com/kiwi-ears-septet-3567092/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
