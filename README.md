@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Genshin Impact 5.7 release?](https://www.polygon.com/genshin-impact-guides/607168/version-5-7-release-times-maintenance)
- - [New Switch 2 Players, Here Are 17 Essential Cyberpunk 2077 Side-Quests You Don’t Want To Miss](https://kotaku.com/cyberpunk-2077-side-quests-panam-dream-on-sinnerman-1850875179)
- - [The Bell Bearing Hunter boss fight is terrorizing Elden Ring Nightreign players](https://www.polygon.com/culture/607176/elden-ring-nightreign-bell-bearing-hunter-how-to-beat-weaknesses-build-strategy)<!-- GAME:END -->
+ - [Marvel Comparing Ironheart To Breaking Bad Is So Absurd We Can&#39;t Stop Imagining It](https://kotaku.com/ironheart-riri-williams-breaking-bad-walter-white-1851784602)
+ - [Nintendo&#39;s Mysterious Absence From Amazon Ends With No Explanation](https://kotaku.com/amazon-switch-2-nintendo-mario-donkey-kong-pre-orders-1851784603)
+ - [What time does Genshin Impact 5.7 release?](https://www.polygon.com/genshin-impact-guides/607168/version-5-7-release-times-maintenance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
