@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finding a lost engagement ring on the beach for a grateful couple.](http://9gag.com/gag/a2vLZbZ)
- - ⏩ [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
- - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
+ - 💣 [Chinese wood](http://9gag.com/gag/aXPKY96)
+ - ⏩ [Remembering David Vetter, the boy who lived in a sterile environment due to a rare immune deficiency.](http://9gag.com/gag/aXPKqn9)
+ - 👉 [My dude saw his life pass before his eyes](http://9gag.com/gag/adBo7n9)<!-- MEMES:END -->
 
 ---
 
