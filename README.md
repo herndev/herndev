@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Both Stellar Blade and Dune: Awakening shot into Steam&#39;s top 100 with new concurrent player peaks yesterday](https://www.pcgamer.com/games/both-stellar-blade-and-dune-awakening-shot-into-steams-top-100-with-new-concurrent-player-peaks-yesterday/)
- - [The Highest Prices You Can Get For Pokémon TCG&#39;s Destined Rivals](https://kotaku.com/pokemon-tcg-destined-rivals-highest-price-cards-mewtwo-1851784564)
- - [Disney Dreamlight Valley The Storybook Vale Part 2: The Unwritten Realms – Everything you need to know about the second half of the DLC](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-the-storybook-vale-the-unwritten-realms-release-date/)<!-- GAME:END -->
+ - [EA Play: EA Sports FC 25 Is Now Available with Game Pass Ultimate](https://news.xbox.com/en-us/2025/06/16/ea-play-ea-sports-fc-25-june-rewards/)
+ - [The Villainous Vile Lair In Oblivion Remastered Is Perfect For Vampiric Playthroughs](https://kotaku.com/elder-scrolls-oblivion-remastered-vile-lair-vampire-1851784570)
+ - [The Witcher 4 is being developed with a ‘console-first’ mindset, CDPR devs say](https://www.polygon.com/the-witcher/607130/the-witcher-4-console-first-mindset-developed-cdpr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
