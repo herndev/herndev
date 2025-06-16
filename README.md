@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
+ - 💣 [That package better be good.](http://9gag.com/gag/aKGOjEg)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
+ - 👉 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)<!-- MEMES:END -->
 
 ---
 
