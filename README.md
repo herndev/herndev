@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s all about perspective, even in the Mushroom Kingdom.](http://9gag.com/gag/awyYQ3r)
+ - 💣 [That package better be good.](http://9gag.com/gag/aKGOjEg)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [That package better be good.](http://9gag.com/gag/aKGOjEg)<!-- MEMES:END -->
+ - 👉 [Like there were any girls here.](http://9gag.com/gag/an7rMME)<!-- MEMES:END -->
 
 ---
 
