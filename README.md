@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok rolls out new AI ad features, including the ability for marketers to use text or images to create AI-generated video, as part of its Symphony ad suite &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250616/p3#a250616p3)
- - [Trump Touts China Trade Deal: Tariffs Back to Square One, Still Historically High](https://www.cnet.com/personal-finance/trump-touts-china-trade-deal-tariffs-back-to-square-one-still-historically-high/#ftag=CAD590a51e)
- - [Microsoft accidentally swapped Windows 11’s startup sound with Vista’s](https://www.theverge.com/news/687417/microsoft-windows-11-startup-sound-boot-windows-vista-replacement-mistake-dev-channel)<!-- TECH:END -->
+ - [Survey shows people are deeply divided over Pixel battery issues](https://www.androidauthority.com/pixel-battery-issues-survey-result-3567772/)
+ - [OnePlus announces the Nord 5 and four more products](https://www.theverge.com/news/687441/oneplus-nord5-ce5-buds4-pad-lite-watch3)
+ - [Chinese state media: researchers successfully implanted a brain-computer interface in a tetraplegia patient in March, the second country after the US to do so &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250616/p5#a250616p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
