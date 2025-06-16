@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Editors at PC Gamer = very angry!](http://9gag.com/gag/an7r9g5)
+ - 💣 [The ultimate male coping mechanism](http://9gag.com/gag/awyYA9r)
  - ⏩ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [Gottem](http://9gag.com/gag/aVvV34O)<!-- MEMES:END -->
+ - 👉 [The feeling of getting your own space](http://9gag.com/gag/a5QqRZG)<!-- MEMES:END -->
 
 ---
 
