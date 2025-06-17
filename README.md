@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Justin Sun takes crypto company public — reportedly with help from Eric Trump](https://www.theverge.com/news/687854/justin-sun-tron-nasdaq-trump-family)
- - [The US Defense Department awards a one-year $200M contract to OpenAI to develop AI tools for addressing challenges in &quot;warfighting and enterprise domains&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250616/p23#a250616p23)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [2025 Digital News Report: social media overtakes TV as the top news source in the US, with 54% accessing news via social media and video apps, vs. 50% for TV &lpar;Nieman Lab&rpar;](http://www.techmeme.com/250616/p25#a250616p25)
+ - [The US Senate&#39;s draft tax bill would raise the CHIPS Act&#39;s tax credit for semiconductor factories from 25% to 30% until the tax break expires at the end of 2026 &lpar;Alicia Diaz/Bloomberg&rpar;](http://www.techmeme.com/250616/p24#a250616p24)
+ - [Justin Sun takes crypto company public — reportedly with help from Eric Trump](https://www.theverge.com/news/687854/justin-sun-tron-nasdaq-trump-family)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
