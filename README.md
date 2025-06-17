@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft: Vibrant Visuals and Chase the Skies Drop Out Now](https://www.minecraft.net/article/chase-the-skies-and-vibrant-visuals-playable-today#new_tab)
- - [Who the heck is Evelyn? Why a custom Baldur&#39;s Gate 3 character with millions of TikTok likes keeps getting confused for an actual NPC](https://www.pcgamer.com/games/rpg/baldurs-gate-3-evelyn/)
- - [The Final Fantasy Tactics Remaster Had To Be Brute-Forced Into Existence And Makes Some Controversial Cuts](https://kotaku.com/the-final-fantasy-tactics-remaster-had-to-be-brute-forc-1851784636)<!-- GAME:END -->
+ - [Your Switch 2 games might look worse than they’re supposed to](https://www.polygon.com/nintendo-switch-2/607394/hdr-settings-how-to-fix)
+ - [Diablo 4 players are accidentally misclicking their way to being $7.50&#39;s worth of platinum poorer, thanks to its reliquary system&#39;s crummy UI design](https://www.pcgamer.com/games/rpg/diablo-4-players-are-accidentally-misclicking-their-way-to-being-usd7-50s-worth-of-platinum-poorer-thanks-to-its-reliquary-systems-crummy-ui-design/)
+ - [Mario Kart World Is More Fun When You&#39;re Grinding Rails And Riding Walls](https://kotaku.com/mario-kart-world-rail-wall-charge-jump-ride-switch-2-1851784648)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
