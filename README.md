@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, that didn&#39;t go as planned.](http://9gag.com/gag/aqyYGw7)
- - ⏩ [Uff good one](http://9gag.com/gag/aLndwZP)
- - 👉 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)<!-- MEMES:END -->
+ - 💣 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
+ - ⏩ [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 👉 [Cute!](http://9gag.com/gag/a1mERE8)<!-- MEMES:END -->
 
 ---
 
