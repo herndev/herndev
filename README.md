@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFC just got a serious range boost, and your next smartwatch is going to love it](https://www.androidauthority.com/nfc-release-15-3568205/)
- - [This iPhone feature is the only reason I haven’t switched back to a Pixel phone](https://www.androidauthority.com/android-vs-ios-stacked-widgets-3567106/)
- - [eBay and Vestiaire Collective Want an Exemption from Trump’s Tariffs](https://www.wired.com/story/tariffs-secondhand-shopping-china-surprise/)<!-- TECH:END -->
+ - [Adobe Firefly adds mobile app, new AI models &amp; mood boards](https://appleinsider.com/articles/25/06/17/adobe-firefly-adds-mobile-app-new-ai-models-mood-boards?utm_medium=rss)
+ - [Try This Free Version of Microsoft Office That Runs in Your Browser](https://www.wired.com/story/microsoft-365-free-version-of-microsoft-office-that-runs-in-your-browser/)
+ - [Adobe made a mobile app for its Firefly generative AI tools](https://www.theverge.com/news/688080/adobe-firefly-ai-app-iphone-ios-android-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
