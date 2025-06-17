@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox + AMD: Powering the Next Generation of Xbox](https://youtu.be/VOCtRanwXrA#new_tab)
- - [Disney+ Removes Sci-Fi Film Because Of Controversial Rat-Drowning Scene](https://kotaku.com/disney-removes-the-abyss-censorship-rat-drown-scene-uk-1851784654)
- - [FBC: Firebreak doesn&#39;t have the eldritch chaos I had hoped for so I&#39;m going back to one of my favourite games that you&#39;ve never played](https://www.pcgamer.com/games/fps/fbc-firebreak-doesnt-have-the-eldritch-chaos-i-had-hoped-for-so-im-going-back-to-one-of-my-favourite-games-that-youve-never-played/)<!-- GAME:END -->
+ - [PlayStation&#39;s New Traveling Concert Sounds Cool, But Needs More Classics](https://kotaku.com/playstation-concert-last-us-god-war-horizon-ghost-1851784665)
+ - [Here’s when you can play EA’s Skate in early access](https://www.polygon.com/gaming/607460/skate-4-early-access-playtesting-release-date)
+ - [Stellar Blade sold a million units in 3 days on PC and you can mostly thank Chinese players](https://www.pcgamer.com/games/action/stellar-blade-sold-a-million-units-in-3-days-on-pc-and-you-can-mostly-thank-chinese-players/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
