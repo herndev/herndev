@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
- - ⏩ [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
- - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
+ - 💣 [Space is Cold](http://9gag.com/gag/a4PW32Q)
+ - ⏩ [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
+ - 👉 [Oh well](http://9gag.com/gag/a9yOEw6)<!-- MEMES:END -->
 
 ---
 
