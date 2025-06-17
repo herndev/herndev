@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
- - ⏩ [Space is Cold](http://9gag.com/gag/a4PW32Q)
- - 👉 [This image unlocks a very specific core memory.](http://9gag.com/gag/a6ZjELq)<!-- MEMES:END -->
+ - 💣 [Hear me out...](http://9gag.com/gag/a0eM7bv)
+ - ⏩ [The napping gene is strong in this family.](http://9gag.com/gag/aXPKYe2)
+ - 👉 [Have you ever seen a fish having an X-ray?](http://9gag.com/gag/aW4DY1q)<!-- MEMES:END -->
 
 ---
 
