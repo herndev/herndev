@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh well](http://9gag.com/gag/a9yOEw6)
- - ⏩ [Human face](http://9gag.com/gag/ae975BQ)
- - 👉 [My new workout video.](http://9gag.com/gag/awyYoQD)<!-- MEMES:END -->
+ - 💣 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - ⏩ [Art of gravity](http://9gag.com/gag/an7r9Ro)
+ - 👉 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)<!-- MEMES:END -->
 
 ---
 
