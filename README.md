@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation’s concert series is coming to the US](https://www.theverge.com/news/688613/playstation-the-concert-series-tour-us)
- - [Mastodon updates its terms to prohibit AI model training starting July 1, and enforces a new age limit of 16 for users globally &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250617/p32#a250617p32)
- - [Gmail starts testing Material 3 Expressive redesign on Wear OS](https://www.androidauthority.com/gmail-material-3-expressive-wear-os-3568348/)<!-- TECH:END -->
+ - [Amazon CEO says it will cut jobs due to AI&amp;#8217;s ‘efficiency’](https://www.theverge.com/news/688679/amazon-ceo-andy-jassy-ai-efficiency)
+ - [Fossil fuels are an insurance disaster](https://www.theverge.com/news/688616/insurance-heatwave-plastic-pollution-climate-change-fossil-fuels-report)
+ - [Sources: xAI is burning through $1B/month and expects to burn through ~$13B in 2025; revenues are expected to be just $500M this year, rising to $2B+ next year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p34#a250617p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
