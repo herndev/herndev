@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D&#39;s Jeremy Crawford and Chris Perkins un-retire, change teams to Critical Role&#39;s Darrington Press after a combined 46 years at Wizards of the Coast, leaving jaws dropped](https://www.pcgamer.com/gaming-industry/d-and-ds-jeremy-crawford-and-chris-perkins-un-retire-change-teams-to-critical-roles-darrington-press-after-a-combined-46-years-at-wizards-of-the-coast-leaving-jaws-dropped/)
- - [I tried out some of Elden Ring Nightreign&#39;s player-made shortcuts for the Crater event and all I got was fried in lava](https://www.pcgamer.com/games/rpg/i-tried-out-some-of-elden-ring-nightreigns-player-made-shortcuts-for-the-crater-event-and-all-i-got-was-fried-in-lava/)
- - [Borderlands 4 system requirements demand 8 CPU cores and 8 GB of VRAM but the reality is probably a bit more forgiving than that](https://www.pcgamer.com/hardware/borderlands-4-system-requirements-demand-8-cpu-cores-and-8-gb-of-vram-but-the-reality-is-probably-a-bit-more-forgiving-than-that/)<!-- GAME:END -->
+ - [Coming to Game Pass: Rematch, Warcraft I &amp; II: Remastered, Warcraft III: Reforged, Call of Duty: WWII, and More](https://news.xbox.com/en-us/2025/06/17/xbox-game-pass-june-2025-wave-2/)
+ - [Here&amp;#8217;s what happened in the original Death Stranding in just 6 minutes](https://www.polygon.com/gaming/607375/death-stranding-recap-story-video-playstation)
+ - [Intel&#39;s next-gen Nova Lake CPU rumoured to get up to 52 cores, over double the count of Arrow Lake across all segments](https://www.pcgamer.com/hardware/processors/intels-next-gen-nova-lake-cpu-rumoured-to-get-up-to-52-cores-over-double-the-count-of-arrow-lake-across-all-segments/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
