@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fafo is sweet](http://9gag.com/gag/avydooW)
- - ⏩ [Oh well](http://9gag.com/gag/a9yOEw6)
- - 👉 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)<!-- MEMES:END -->
+ - 💣 [Understood.](http://9gag.com/gag/aE0OpQn)
+ - ⏩ [Human face](http://9gag.com/gag/ae975BQ)
+ - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
 
 ---
 
