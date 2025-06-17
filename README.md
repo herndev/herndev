@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hades 2 Gets Longest Patch Notes Ever In Last Major Update Before 1.0 Launch Finally Arrives Later This Year](https://kotaku.com/hades-2-unseen-update-patch-notes-1-0-date-switch-2-1851784684)
- - [Dune: Awakening’s busted respawn left me naked and alone in the middle of nowhere](https://www.polygon.com/gaming/607305/dune-awakening-sandworm-respawn-at-base)
- - [Dark and Darker will be purged from Epic Games Store libraries later this year, but it&#39;s still available on Steam for now](https://www.pcgamer.com/games/dark-and-darker-will-be-purged-from-epic-games-store-libraries-later-this-year-but-its-still-available-on-steam-for-now/)<!-- GAME:END -->
+ - [Game Pass Is Getting Three Warcrafts, A Call Of Duty, And More This Month](https://kotaku.com/xbox-game-pass-coming-june-2025-warcraft-call-of-duty-1851784692)
+ - [After What EA Did To BioWare, The Battlefield X Mass Effect Crossover Gives Me The Ick](https://kotaku.com/battlefield-2042-mass-effect-cosmetics-gun-armor-dlc-1851784693)
+ - [Hades 2 marches closer to full release with the Unseen Update](https://www.polygon.com/gaming/607551/hades-2-final-update-v1-release-supergiant-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
