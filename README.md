@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney and Amazon partner to let media buyers using Amazon&#39;s DSP have better tools to target consumers on ad-tier programming across Disney+, Hulu, and ESPN+ &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/250617/p18#a250617p18)
- - [Blue Prince is coming to Mac](https://www.theverge.com/news/688242/blue-prince-mac-support-steam-soundtrack)
- - [Apple&#39;s Home Hub smart home display leaks in iOS beta code](https://appleinsider.com/articles/25/06/17/apples-home-hub-smart-home-display-leaks-in-ios-beta-code?utm_medium=rss)<!-- TECH:END -->
+ - [Satechi’s new SSD enclosure matches the Mac Mini](https://www.theverge.com/news/681467/satechi-usb4-slim-nvme-ssd-enclosure-apple-mac-mini)
+ - [Peak Design’s new portable pro tripods can support up to 40 pounds of camera gear](https://www.theverge.com/news/686352/peak-design-pro-lite-tall-tripod-professional-photography)
+ - [Peak Design Pro Tripod review: a leg up over the original](https://www.theverge.com/uncategorized/688001/peak-design-pro-tripod-review-a-leg-up-over-the-original)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
