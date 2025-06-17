@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
- - ⏩ [Understood.](http://9gag.com/gag/aE0OpQn)
- - 👉 [My new workout video.](http://9gag.com/gag/awyYoQD)<!-- MEMES:END -->
+ - 💣 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
+ - ⏩ [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
+ - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
 
 ---
 
