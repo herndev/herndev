@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Heimlich](http://9gag.com/gag/aMVOZPP)
- - ⏩ [Understood.](http://9gag.com/gag/aE0OpQn)
- - 👉 [Art of gravity](http://9gag.com/gag/an7r9Ro)<!-- MEMES:END -->
+ - 💣 [Understood.](http://9gag.com/gag/aE0OpQn)
+ - ⏩ [Traveling with Trevor](http://9gag.com/gag/an7r92B)
+ - 👉 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)<!-- MEMES:END -->
 
 ---
 
