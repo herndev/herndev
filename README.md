@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh well](http://9gag.com/gag/a9yOEw6)
- - ⏩ [Cute!](http://9gag.com/gag/a1mERE8)
- - 👉 [Hear me out...](http://9gag.com/gag/a0eM7bv)<!-- MEMES:END -->
+ - 💣 [Well, that didn&#39;t go as planned.](http://9gag.com/gag/aqyYGw7)
+ - ⏩ [Uff good one](http://9gag.com/gag/aLndwZP)
+ - 👉 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)<!-- MEMES:END -->
 
 ---
 
