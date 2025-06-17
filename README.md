@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Switch 2 games might look worse than they’re supposed to](https://www.polygon.com/nintendo-switch-2/607394/hdr-settings-how-to-fix)
- - [Diablo 4 players are accidentally misclicking their way to being $7.50&#39;s worth of platinum poorer, thanks to its reliquary system&#39;s crummy UI design](https://www.pcgamer.com/games/rpg/diablo-4-players-are-accidentally-misclicking-their-way-to-being-usd7-50s-worth-of-platinum-poorer-thanks-to-its-reliquary-systems-crummy-ui-design/)
- - [Mario Kart World Is More Fun When You&#39;re Grinding Rails And Riding Walls](https://kotaku.com/mario-kart-world-rail-wall-charge-jump-ride-switch-2-1851784648)<!-- GAME:END -->
+ - [Xbox + AMD: Powering the Next Generation of Xbox](https://youtu.be/VOCtRanwXrA#new_tab)
+ - [Disney+ Removes Sci-Fi Film Because Of Controversial Rat-Drowning Scene](https://kotaku.com/disney-removes-the-abyss-censorship-rat-drown-scene-uk-1851784654)
+ - [FBC: Firebreak doesn&#39;t have the eldritch chaos I had hoped for so I&#39;m going back to one of my favourite games that you&#39;ve never played](https://www.pcgamer.com/games/fps/fbc-firebreak-doesnt-have-the-eldritch-chaos-i-had-hoped-for-so-im-going-back-to-one-of-my-favourite-games-that-youve-never-played/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
