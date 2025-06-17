@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He had second thought about his job as a priest.](http://9gag.com/gag/ayNYowW)
- - ⏩ [Incredible quick thinking from a young student](http://9gag.com/gag/abAQrXr)
- - 👉 [Art of gravity](http://9gag.com/gag/an7r9Ro)<!-- MEMES:END -->
+ - 💣 [Dreamgirl](http://9gag.com/gag/awyYAA4)
+ - ⏩ [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
+ - 👉 [He had second thought about his job as a priest.](http://9gag.com/gag/ayNYowW)<!-- MEMES:END -->
 
 ---
 
