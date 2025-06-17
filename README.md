@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
- - ⏩ [Dreamgirl](http://9gag.com/gag/awyYAA4)
- - 👉 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)<!-- MEMES:END -->
+ - 💣 [Human face](http://9gag.com/gag/ae975BQ)
+ - ⏩ [The Dude sees straight through it!!](http://9gag.com/gag/aByOmZ2)
+ - 👉 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)<!-- MEMES:END -->
 
 ---
 
