@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Atlantic is making a big push into games](https://www.theverge.com/news/687721/the-atlantic-games-hub-bracket-city)
- - [Meta launches generative AI tools in its Advantage+ suite for advertisers and agencies at Cannes, including to turn still images into videos and Virtual Try-On &lpar;Mark Mwachiro/Adweek&rpar;](http://www.techmeme.com/250617/p9#a250617p9)
- - [Brad Pitt and Tim Cook gatecrash &#39;Severance&#39; event to promote &#39;F1&#39;](https://appleinsider.com/articles/25/06/17/brad-pitt-and-tim-cook-gatecrash-severance-event-to-promote-f1?utm_medium=rss)<!-- TECH:END -->
+ - [NFC just got a serious range boost, and your next smartwatch is going to love it](https://www.androidauthority.com/nfc-release-15-3568205/)
+ - [This iPhone feature is the only reason I haven’t switched back to a Pixel phone](https://www.androidauthority.com/android-vs-ios-stacked-widgets-3567106/)
+ - [eBay and Vestiaire Collective Want an Exemption from Trump’s Tariffs](https://www.wired.com/story/tariffs-secondhand-shopping-china-surprise/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
