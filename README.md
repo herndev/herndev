@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation&#39;s New Traveling Concert Sounds Cool, But Needs More Classics](https://kotaku.com/playstation-concert-last-us-god-war-horizon-ghost-1851784665)
- - [Here’s when you can play EA’s Skate in early access](https://www.polygon.com/gaming/607460/skate-4-early-access-playtesting-release-date)
- - [Stellar Blade sold a million units in 3 days on PC and you can mostly thank Chinese players](https://www.pcgamer.com/games/action/stellar-blade-sold-a-million-units-in-3-days-on-pc-and-you-can-mostly-thank-chinese-players/)<!-- GAME:END -->
+ - [&#39;I can&#39;t even hit anything&#39;: Path of Exile player watches helplessly as his mercenary wipes out screens of enemies before he can even reach them](https://www.pcgamer.com/games/rpg/i-cant-even-hit-anything-path-of-exile-player-watches-helplessly-as-his-mercenary-wipes-out-screens-of-enemies-before-he-can-even-reach-them/)
+ - [Bungie delays Marathon indefinitely](https://www.polygon.com/news/607525/bungie-delays-marathon-release-date)
+ - [Turns out that fantasy Factorio is a pretty good idea, and if you doubt me try the MoteMancer demo](https://www.pcgamer.com/games/sim/turns-out-that-fantasy-factorio-is-a-pretty-good-idea-and-if-you-doubt-me-try-the-motemancer-demo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
