@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33 studio teases possible &#39;new content&#39; and more language support: &#39;It&#39;s very much on our radar&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-studio-teases-possible-new-content-and-more-language-support-its-very-much-on-our-radar/)
- - [Funcom says its working on &#39;a bunch of changes&#39; for Dune: Awakening PvP after player calls out the survival MMO&#39;s &#39;biggest issue&#39;](https://www.pcgamer.com/games/mmo/funcom-says-its-working-on-a-bunch-of-changes-for-dune-awakening-pvp-after-player-calls-out-the-survival-mmos-biggest-issue/)
- - [Nintendo Switch 2 hackers say they’re already getting banned](https://www.polygon.com/news/607288/nintendo-switch-2-hacker-ban-console-account)<!-- GAME:END -->
+ - [Rainbow Six Siege is more popular and better than ever. That&#39;s one point for &#39;make something actually unique and stick with it,&#39; zero points for &#39;give up and lay everyone off&#39;](https://www.pcgamer.com/games/fps/rainbow-six-siege-is-more-popular-and-better-than-ever-thats-one-point-for-make-something-actually-unique-and-stick-with-it-zero-points-for-give-up-and-lay-everyone-off/)
+ - [This &#39;tediously accurate&#39; map of our solar system with the moon scaled to a single pixel would still take 665 monitors laid end-to-end to show all at once](https://www.pcgamer.com/gaming-industry/this-tediously-accurate-map-of-our-solar-system-with-the-moon-scaled-to-a-single-pixel-would-still-take-665-monitors-laid-end-to-end-to-show-all-at-once/)
+ - [Honkai: Star Rail publisher sues player for streaming a new character on Discord before its official release](https://www.pcgamer.com/games/honkai-star-rail-publisher-sues-player-for-streaming-a-new-character-on-discord-before-its-official-release/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
