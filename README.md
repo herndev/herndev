@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Space is Cold](http://9gag.com/gag/a4PW32Q)
- - ⏩ [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
- - 👉 [Oh well](http://9gag.com/gag/a9yOEw6)<!-- MEMES:END -->
+ - 💣 [Fafo is sweet](http://9gag.com/gag/avydooW)
+ - ⏩ [Oh well](http://9gag.com/gag/a9yOEw6)
+ - 👉 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)<!-- MEMES:END -->
 
 ---
 
