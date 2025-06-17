@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Rematch, Warcraft I &amp; II: Remastered, Warcraft III: Reforged, Call of Duty: WWII, and More](https://news.xbox.com/en-us/2025/06/17/xbox-game-pass-june-2025-wave-2/)
- - [Here&amp;#8217;s what happened in the original Death Stranding in just 6 minutes](https://www.polygon.com/gaming/607375/death-stranding-recap-story-video-playstation)
- - [Intel&#39;s next-gen Nova Lake CPU rumoured to get up to 52 cores, over double the count of Arrow Lake across all segments](https://www.pcgamer.com/hardware/processors/intels-next-gen-nova-lake-cpu-rumoured-to-get-up-to-52-cores-over-double-the-count-of-arrow-lake-across-all-segments/)<!-- GAME:END -->
+ - [Minecraft: Vibrant Visuals and Chase the Skies Drop Out Now](https://www.minecraft.net/article/chase-the-skies-and-vibrant-visuals-playable-today#new_tab)
+ - [Who the heck is Evelyn? Why a custom Baldur&#39;s Gate 3 character with millions of TikTok likes keeps getting confused for an actual NPC](https://www.pcgamer.com/games/rpg/baldurs-gate-3-evelyn/)
+ - [The Final Fantasy Tactics Remaster Had To Be Brute-Forced Into Existence And Makes Some Controversial Cuts](https://kotaku.com/the-final-fantasy-tactics-remaster-had-to-be-brute-forc-1851784636)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
