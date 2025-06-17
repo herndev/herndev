@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Communist Manifesto – A Visual Novel review](https://www.pcgamer.com/games/visual-novel/the-communist-manifesto-a-visual-novel-review/)
- - [Can Solosis be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/607262/can-solosis-be-shiny-duosion-reuniclus)
- - [Today&#39;s Wordle answer for Tuesday, June 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-17-2025/)<!-- GAME:END -->
+ - [Borderlands 4 system requirements demand 8 CPU cores and 8 GB of VRAM but the reality is probably a bit more forgiving than that](https://www.pcgamer.com/hardware/borderlands-4-system-requirements-demand-8-cpu-cores-and-8-gb-of-vram-but-the-reality-is-probably-a-bit-more-forgiving-than-that/)
+ - [Playing FBC: Firebreak felt like taking on a second job](https://www.polygon.com/review/607291/fbc-firebreak-pc-ps5-xbox)
+ - [FBC: Firebreak best weapons tier list](https://www.pcgamer.com/games/fps/fbc-firebreak-best-weapon-tier-list/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
