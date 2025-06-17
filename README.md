@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dreamgirl](http://9gag.com/gag/awyYAA4)
- - ⏩ [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
- - 👉 [He had second thought about his job as a priest.](http://9gag.com/gag/ayNYowW)<!-- MEMES:END -->
+ - 💣 [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
+ - ⏩ [Dreamgirl](http://9gag.com/gag/awyYAA4)
+ - 👉 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)<!-- MEMES:END -->
 
 ---
 
