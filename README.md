@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and AMD announce a &quot;strategic, multi-year partnership&quot; to design custom silicon for a number of devices, including next-generation Xbox consoles &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250617/p29#a250617p29)
- - [Sources: Meta and EssilorLuxottica plan AI-powered smart glasses under Oakley and Prada brands; they will be aimed at athletes, and the Oakleys may cost ~$360 &lpar;CNBC&rpar;](http://www.techmeme.com/250617/p28#a250617p28)
- - [Facebook renames its Videos tab as the Reels tab and says all videos on its platform will soon be shared as reels, regardless of their length or orientation &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250617/p27#a250617p27)<!-- TECH:END -->
+ - [PlayStation’s concert series is coming to the US](https://www.theverge.com/news/688613/playstation-the-concert-series-tour-us)
+ - [Mastodon updates its terms to prohibit AI model training starting July 1, and enforces a new age limit of 16 for users globally &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250617/p32#a250617p32)
+ - [Gmail starts testing Material 3 Expressive redesign on Wear OS](https://www.androidauthority.com/gmail-material-3-expressive-wear-os-3568348/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
