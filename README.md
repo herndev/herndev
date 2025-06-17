@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Communist Manifesto – A Visual Novel review](https://www.pcgamer.com/games/visual-novel/the-communist-manifesto-a-visual-novel-review/)
  - [Can Solosis be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/607262/can-solosis-be-shiny-duosion-reuniclus)
- - [Today&#39;s Wordle answer for Tuesday, June 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-17-2025/)
- - [Game of Thrones RTS has a dragon R&amp;D team dedicated to answering burning questions like &#39;do the dragons explode when they die?&#39;](https://www.pcgamer.com/games/rts/game-of-thrones-rts-has-a-dragon-r-and-d-team-dedicated-to-answering-burning-questions-like-do-the-dragons-explode-when-they-die/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, June 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-17-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
