@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola confirms Android 16 is coming to these phones](https://www.androidauthority.com/motorola-android-16-phones-3568155/)
- - [Survey: US employees who use AI at work at least a few times per year rises from 21% in 2023 to 40% in 2025, and 19% report frequently using AI, up from 11% &lpar;Ryan Pendell/Gallup&rpar;](http://www.techmeme.com/250617/p4#a250617p4)
- - [Amazon Prime Day Swells to a 4-Day Event, With Tariffs Still Looming Large](https://www.cnet.com/tech/amazon-prime-day-swells-to-a-4-day-event-with-tariffs-still-looming-large/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Studies: women are 25% less likely than men to have basic digital skills, are more likely to be in automation-threatened jobs, and use ChatGPT less at work &lpar;Isabel Berwick/Financial Times&rpar;](http://www.techmeme.com/250617/p6#a250617p6)
+ - [Apple could be coming for your Nest Hub with the HomePad](https://www.androidauthority.com/apple-homepad-leak-3568164/)
+ - [Amazon Prime Day 2025 dates announced with an Alexa Plus hack to shop smarter](https://www.androidauthority.com/amazon-prime-day-2025-dates-deals-offers-3568173/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
