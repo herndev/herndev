@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download these now free retro mobile games before Sega removes them](https://www.theverge.com/news/688167/sega-retro-games-forever-program-free-download-ios-android-crazy-taxi-sonic)
- - [Apple&#39;s Back to School sale returns, but there are better deals](https://appleinsider.com/articles/25/06/17/apples-back-to-school-sale-returns-but-there-are-better-deals?utm_medium=rss)
- - [Sources: Elon Musk&#39;s xAI is in talks to raise $4.3B via an equity investment on top of the $5B it has recently been trying to borrow from debt investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p16#a250617p16)<!-- TECH:END -->
+ - [Disney and Amazon partner to let media buyers using Amazon&#39;s DSP have better tools to target consumers on ad-tier programming across Disney+, Hulu, and ESPN+ &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/250617/p18#a250617p18)
+ - [Blue Prince is coming to Mac](https://www.theverge.com/news/688242/blue-prince-mac-support-steam-soundtrack)
+ - [Apple&#39;s Home Hub smart home display leaks in iOS beta code](https://appleinsider.com/articles/25/06/17/apples-home-hub-smart-home-display-leaks-in-ios-beta-code?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
