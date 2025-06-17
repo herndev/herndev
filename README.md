@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
- - ⏩ [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
- - 👉 [Understood.](http://9gag.com/gag/aE0OpQn)<!-- MEMES:END -->
+ - 💣 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - ⏩ [Art of gravity](http://9gag.com/gag/an7r9Ro)
+ - 👉 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)<!-- MEMES:END -->
 
 ---
 
