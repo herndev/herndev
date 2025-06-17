@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motorola confirms Android 16 is coming to these phones](https://www.androidauthority.com/motorola-android-16-phones-3568155/)
  - [Survey: US employees who use AI at work at least a few times per year rises from 21% in 2023 to 40% in 2025, and 19% report frequently using AI, up from 11% &lpar;Ryan Pendell/Gallup&rpar;](http://www.techmeme.com/250617/p4#a250617p4)
- - [Google just made an iPhone tease the Pixel 10 in its latest ‘Best Phones Forever’ ad](https://www.androidauthority.com/google-best-phones-forever-pixel-10-teaser-3568149/)
- - [Nothing Phone 3 leak reveals it’s not a full-blown flagship after all](https://www.androidauthority.com/nothing-phone-3-processor-3568136/)<!-- TECH:END -->
+ - [Amazon Prime Day Swells to a 4-Day Event, With Tariffs Still Looming Large](https://www.cnet.com/tech/amazon-prime-day-swells-to-a-4-day-event-with-tariffs-still-looming-large/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
