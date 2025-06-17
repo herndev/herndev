@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Studies: women are 25% less likely than men to have basic digital skills, are more likely to be in automation-threatened jobs, and use ChatGPT less at work &lpar;Isabel Berwick/Financial Times&rpar;](http://www.techmeme.com/250617/p6#a250617p6)
- - [Apple could be coming for your Nest Hub with the HomePad](https://www.androidauthority.com/apple-homepad-leak-3568164/)
- - [Amazon Prime Day 2025 dates announced with an Alexa Plus hack to shop smarter](https://www.androidauthority.com/amazon-prime-day-2025-dates-deals-offers-3568173/)<!-- TECH:END -->
+ - [The Atlantic is making a big push into games](https://www.theverge.com/news/687721/the-atlantic-games-hub-bracket-city)
+ - [Meta launches generative AI tools in its Advantage+ suite for advertisers and agencies at Cannes, including to turn still images into videos and Virtual Try-On &lpar;Mark Mwachiro/Adweek&rpar;](http://www.techmeme.com/250617/p9#a250617p9)
+ - [Brad Pitt and Tim Cook gatecrash &#39;Severance&#39; event to promote &#39;F1&#39;](https://appleinsider.com/articles/25/06/17/brad-pitt-and-tim-cook-gatecrash-severance-event-to-promote-f1?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
