@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s new with iPad app windows in iPadOS 26, and how they work](https://appleinsider.com/inside/ipados-26/tips/whats-new-with-ipad-app-windows-in-ipados-26-and-how-they-work?utm_medium=rss)
- - [Who is really behind the Trump Mobile T1 phone?](https://www.theverge.com/tech/687800/trump-t1-phone-suspects-revvl-ulefone-doogee)
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)<!-- TECH:END -->
+ - [A fix is on the way for Android 16’s broken navigation buttons and gestures](https://www.androidauthority.com/android-16-nav-bug-fix-3568338/)
+ - [Nabla, which offers an AI copilot for doctors and other medical staff, raised a $70M Series C led by HV Capital and says it now supports 85K+ clinicians &lpar;Judy Rider/Crunchbase News&rpar;](http://www.techmeme.com/250617/p25#a250617p25)
+ - [Microsoft’s next-gen Xbox has an AMD chip inside and is ‘not locked to a single store’](https://www.theverge.com/news/688407/microsoft-next-gen-xbox-cloud-amd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
