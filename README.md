@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hear me out...](http://9gag.com/gag/a0eM7bv)
- - ⏩ [The napping gene is strong in this family.](http://9gag.com/gag/aXPKYe2)
- - 👉 [Have you ever seen a fish having an X-ray?](http://9gag.com/gag/aW4DY1q)<!-- MEMES:END -->
+ - 💣 [He had second thought about his job as a priest.](http://9gag.com/gag/ayNYowW)
+ - ⏩ [Incredible quick thinking from a young student](http://9gag.com/gag/abAQrXr)
+ - 👉 [Art of gravity](http://9gag.com/gag/an7r9Ro)<!-- MEMES:END -->
 
 ---
 
