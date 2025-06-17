@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [German defense tech startup Helsing raised €600M led by Daniel Ek&#39;s Prima Materia, sources say at a €12B valuation, bringing its total funding to €1.37B &lpar;Financial Times&rpar;](http://www.techmeme.com/250617/p3#a250617p3)
- - [Amazon plans to hold Prime Day 2025 from July 8 until July 11, lasting four days instead of the usual two and open for Prime members &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/250617/p2#a250617p2)
- - [48-hour Deal Zone: Save up to $500 on Apple&#39;s latest MacBook Pro &amp; Mac Studio](https://appleinsider.com/articles/25/06/17/48-hour-deal-zone-save-up-to-500-on-apples-latest-macbook-pro-mac-studio?utm_medium=rss)<!-- TECH:END -->
+ - [Survey: US employees who use AI at work at least a few times per year rises from 21% in 2023 to 40% in 2025, and 19% report frequently using AI, up from 11% &lpar;Ryan Pendell/Gallup&rpar;](http://www.techmeme.com/250617/p4#a250617p4)
+ - [Google just made an iPhone tease the Pixel 10 in its latest ‘Best Phones Forever’ ad](https://www.androidauthority.com/google-best-phones-forever-pixel-10-teaser-3568149/)
+ - [Nothing Phone 3 leak reveals it’s not a full-blown flagship after all](https://www.androidauthority.com/nothing-phone-3-processor-3568136/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
