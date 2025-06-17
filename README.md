@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Human face](http://9gag.com/gag/ae975BQ)
- - ⏩ [The Dude sees straight through it!!](http://9gag.com/gag/aByOmZ2)
- - 👉 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)<!-- MEMES:END -->
+ - 💣 [Understood.](http://9gag.com/gag/aE0OpQn)
+ - ⏩ [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
+ - 👉 [Hear me out...](http://9gag.com/gag/a0eM7bv)<!-- MEMES:END -->
 
 ---
 
