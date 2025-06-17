@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Is Getting Three Warcrafts, A Call Of Duty, And More This Month](https://kotaku.com/xbox-game-pass-coming-june-2025-warcraft-call-of-duty-1851784692)
- - [After What EA Did To BioWare, The Battlefield X Mass Effect Crossover Gives Me The Ick](https://kotaku.com/battlefield-2042-mass-effect-cosmetics-gun-armor-dlc-1851784693)
- - [Hades 2 marches closer to full release with the Unseen Update](https://www.polygon.com/gaming/607551/hades-2-final-update-v1-release-supergiant-games)<!-- GAME:END -->
+ - [How to use the scanner in The Alters](https://www.polygon.com/guides/607360/alters-scanner-how-to-use)
+ - [How to get Minerals in The Alters](https://www.polygon.com/guides/607403/alters-minerals-where-to-find-how-to-get)
+ - [How to get Organics in The Alters](https://www.polygon.com/guides/607343/alters-organics-how-to-get-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
