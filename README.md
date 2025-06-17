@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Understood.](http://9gag.com/gag/aE0OpQn)
- - ⏩ [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
- - 👉 [Hear me out...](http://9gag.com/gag/a0eM7bv)<!-- MEMES:END -->
+ - 💣 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
+ - ⏩ [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
+ - 👉 [Understood.](http://9gag.com/gag/aE0OpQn)<!-- MEMES:END -->
 
 ---
 
