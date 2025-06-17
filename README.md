@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Traveling with Trevor](http://9gag.com/gag/an7r92B)
- - ⏩ [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 👉 [Understood.](http://9gag.com/gag/aE0OpQn)<!-- MEMES:END -->
+ - 💣 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
+ - ⏩ [Understood.](http://9gag.com/gag/aE0OpQn)
+ - 👉 [My new workout video.](http://9gag.com/gag/awyYoQD)<!-- MEMES:END -->
 
 ---
 
