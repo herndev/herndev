@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Understood.](http://9gag.com/gag/aE0OpQn)
- - ⏩ [Traveling with Trevor](http://9gag.com/gag/an7r92B)
- - 👉 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)<!-- MEMES:END -->
+ - 💣 [Traveling with Trevor](http://9gag.com/gag/an7r92B)
+ - ⏩ [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 👉 [Understood.](http://9gag.com/gag/aE0OpQn)<!-- MEMES:END -->
 
 ---
 
