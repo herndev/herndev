@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4 system requirements demand 8 CPU cores and 8 GB of VRAM but the reality is probably a bit more forgiving than that](https://www.pcgamer.com/hardware/borderlands-4-system-requirements-demand-8-cpu-cores-and-8-gb-of-vram-but-the-reality-is-probably-a-bit-more-forgiving-than-that/)
- - [Playing FBC: Firebreak felt like taking on a second job](https://www.polygon.com/review/607291/fbc-firebreak-pc-ps5-xbox)
- - [FBC: Firebreak best weapons tier list](https://www.pcgamer.com/games/fps/fbc-firebreak-best-weapon-tier-list/)<!-- GAME:END -->
+ - [D&amp;D&#39;s Jeremy Crawford and Chris Perkins un-retire, change teams to Critical Role&#39;s Darrington Press after a combined 46 years at Wizards of the Coast, leaving jaws dropped](https://www.pcgamer.com/gaming-industry/d-and-ds-jeremy-crawford-and-chris-perkins-un-retire-change-teams-to-critical-roles-darrington-press-after-a-combined-46-years-at-wizards-of-the-coast-leaving-jaws-dropped/)
+ - [I tried out some of Elden Ring Nightreign&#39;s player-made shortcuts for the Crater event and all I got was fried in lava](https://www.pcgamer.com/games/rpg/i-tried-out-some-of-elden-ring-nightreigns-player-made-shortcuts-for-the-crater-event-and-all-i-got-was-fried-in-lava/)
+ - [Borderlands 4 system requirements demand 8 CPU cores and 8 GB of VRAM but the reality is probably a bit more forgiving than that](https://www.pcgamer.com/hardware/borderlands-4-system-requirements-demand-8-cpu-cores-and-8-gb-of-vram-but-the-reality-is-probably-a-bit-more-forgiving-than-that/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
