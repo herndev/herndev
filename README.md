@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Journal app is coming to iPad and Mac in iPadOS 26 and macOS Tahoe and gains features like multiple journals, map view, inline images, and more &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250617/p36#a250617p36)
- - [Spotted: Google Maps on Wear OS is testing an Expressive new UI](https://www.androidauthority.com/google-maps-wear-os-material-3-expressive-3568461/)
- - [Pano AI, which uses AI and computer vision to offer active wildfire detection, raised a $44M Series B led by Giant Ventures, bringing its total funding to $89M &lpar;Marc Vartabedian/Wall Street Journal&rpar;](http://www.techmeme.com/250617/p35#a250617p35)<!-- TECH:END -->
+ - [Trump is giving TikTok another ban extension](https://www.theverge.com/news/688252/tiktok-ban-trump-extension-deal)
+ - [Sources: Substack is pitching investors on a round between $50M and $100M that would value it above its ~$700M last round price, and is generating ~$45M in ARR &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/250617/p40#a250617p40)
+ - [Senate confirms Trump’s FCC pick, Olivia Trusty](https://www.theverge.com/news/688824/olivia-trusty-fcc-senate-confirmation-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
