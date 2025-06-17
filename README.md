@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use the scanner in The Alters](https://www.polygon.com/guides/607360/alters-scanner-how-to-use)
- - [How to get Minerals in The Alters](https://www.polygon.com/guides/607403/alters-minerals-where-to-find-how-to-get)
- - [How to get Organics in The Alters](https://www.polygon.com/guides/607343/alters-organics-how-to-get-where-to-find)<!-- GAME:END -->
+ - [Ball hogs and &#39;wannabe Messis&#39; are already the heels of the Rematch community: &#39;Coach should run out onto the field and beat them with a stick&#39;](https://www.pcgamer.com/games/sports/ball-hogs-and-wannabe-messis-are-already-the-heels-of-the-rematch-community-coach-should-run-out-onto-the-field-and-beat-them-with-a-stick/)
+ - [Ubisoft slows free currency gain in Rainbow Six Siege X to a pathetic crawl, then immediately drops its most expensive skin in 10 years](https://www.pcgamer.com/games/fps/ubisoft-slows-free-currency-gain-in-rainbow-six-siege-x-to-a-pathetic-crawl-then-immediately-drops-its-most-expensive-skin-in-10-years/)
+ - [15 beginner’s tips before you start FBC: Firebreak](https://www.polygon.com/guides/607582/fbc-firebreak-beginner-tips-tricks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
