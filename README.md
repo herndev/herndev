@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tinder now lets you go on double dates](https://www.theverge.com/news/687609/tinder-double-date-launch-us)
- - [Move over Ray-Ban, Oakley Meta glasses are arriving this Friday](https://www.androidauthority.com/oakley-meta-glasses-launch-date-3568053/)
- - [Minnesota Shooting Suspect Allegedly Used Data Broker Sites to Find Targets’ Addresses](https://www.wired.com/story/minnesota-lawmaker-shootings-people-search-data-brokers/)<!-- TECH:END -->
+ - [Amazon Prime Day stretches to four days of deals this year](https://www.theverge.com/news/685299/amazon-prime-day-2025-dates-when)
+ - [An unlikely source just confirmed the Exynos 2500 and its extraterrestrial feature](https://www.androidauthority.com/samsung-exynos-2500-confirmed-3568064/)
+ - [TheMinerMag: median cost to mine a bitcoin is expected to rise 9.4% QoQ in Q2 2025 to $70K, up from $52K in Q4 2024, squeezing margins for less efficient miners &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/250617/p1#a250617p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
