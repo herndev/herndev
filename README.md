@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Solosis be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/607262/can-solosis-be-shiny-duosion-reuniclus)
  - [Today&#39;s Wordle answer for Tuesday, June 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-17-2025/)
- - [Game of Thrones RTS has a dragon R&amp;D team dedicated to answering burning questions like &#39;do the dragons explode when they die?&#39;](https://www.pcgamer.com/games/rts/game-of-thrones-rts-has-a-dragon-r-and-d-team-dedicated-to-answering-burning-questions-like-do-the-dragons-explode-when-they-die/)
- - [Rainbow Six Siege is more popular and better than ever. That&#39;s one point for &#39;make something actually unique and stick with it,&#39; zero points for &#39;give up and lay everyone off&#39;](https://www.pcgamer.com/games/fps/rainbow-six-siege-is-more-popular-and-better-than-ever-thats-one-point-for-make-something-actually-unique-and-stick-with-it-zero-points-for-give-up-and-lay-everyone-off/)<!-- GAME:END -->
+ - [Game of Thrones RTS has a dragon R&amp;D team dedicated to answering burning questions like &#39;do the dragons explode when they die?&#39;](https://www.pcgamer.com/games/rts/game-of-thrones-rts-has-a-dragon-r-and-d-team-dedicated-to-answering-burning-questions-like-do-the-dragons-explode-when-they-die/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
