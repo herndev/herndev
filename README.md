@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Understood.](http://9gag.com/gag/aE0OpQn)
- - ⏩ [Human face](http://9gag.com/gag/ae975BQ)
- - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
+ - 💣 [Oh well](http://9gag.com/gag/a9yOEw6)
+ - ⏩ [Cute!](http://9gag.com/gag/a1mERE8)
+ - 👉 [Hear me out...](http://9gag.com/gag/a0eM7bv)<!-- MEMES:END -->
 
 ---
 
