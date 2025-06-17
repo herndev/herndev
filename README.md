@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi’s new SSD enclosure matches the Mac Mini](https://www.theverge.com/news/681467/satechi-usb4-slim-nvme-ssd-enclosure-apple-mac-mini)
- - [Peak Design’s new portable pro tripods can support up to 40 pounds of camera gear](https://www.theverge.com/news/686352/peak-design-pro-lite-tall-tripod-professional-photography)
- - [Peak Design Pro Tripod review: a leg up over the original](https://www.theverge.com/uncategorized/688001/peak-design-pro-tripod-review-a-leg-up-over-the-original)<!-- TECH:END -->
+ - [What&#39;s new with iPad app windows in iPadOS 26, and how they work](https://appleinsider.com/inside/ipados-26/tips/whats-new-with-ipad-app-windows-in-ipados-26-and-how-they-work?utm_medium=rss)
+ - [Who is really behind the Trump Mobile T1 phone?](https://www.theverge.com/tech/687800/trump-t1-phone-suspects-revvl-ulefone-doogee)
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
