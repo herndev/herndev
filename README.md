@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
- - ⏩ [Art of gravity](http://9gag.com/gag/an7r9Ro)
- - 👉 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)<!-- MEMES:END -->
+ - 💣 [Heimlich](http://9gag.com/gag/aMVOZPP)
+ - ⏩ [Understood.](http://9gag.com/gag/aE0OpQn)
+ - 👉 [Art of gravity](http://9gag.com/gag/an7r9Ro)<!-- MEMES:END -->
 
 ---
 
