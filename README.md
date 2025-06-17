@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I can&#39;t even hit anything&#39;: Path of Exile player watches helplessly as his mercenary wipes out screens of enemies before he can even reach them](https://www.pcgamer.com/games/rpg/i-cant-even-hit-anything-path-of-exile-player-watches-helplessly-as-his-mercenary-wipes-out-screens-of-enemies-before-he-can-even-reach-them/)
- - [Bungie delays Marathon indefinitely](https://www.polygon.com/news/607525/bungie-delays-marathon-release-date)
- - [Turns out that fantasy Factorio is a pretty good idea, and if you doubt me try the MoteMancer demo](https://www.pcgamer.com/games/sim/turns-out-that-fantasy-factorio-is-a-pretty-good-idea-and-if-you-doubt-me-try-the-motemancer-demo/)<!-- GAME:END -->
+ - [Hades 2 Gets Longest Patch Notes Ever In Last Major Update Before 1.0 Launch Finally Arrives Later This Year](https://kotaku.com/hades-2-unseen-update-patch-notes-1-0-date-switch-2-1851784684)
+ - [Dune: Awakening’s busted respawn left me naked and alone in the middle of nowhere](https://www.polygon.com/gaming/607305/dune-awakening-sandworm-respawn-at-base)
+ - [Dark and Darker will be purged from Epic Games Store libraries later this year, but it&#39;s still available on Steam for now](https://www.pcgamer.com/games/dark-and-darker-will-be-purged-from-epic-games-store-libraries-later-this-year-but-its-still-available-on-steam-for-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
