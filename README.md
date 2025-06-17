@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
- - ⏩ [Expedition 33 OST comments are fire](http://9gag.com/gag/aW4DxLK)
- - 👉 [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)<!-- MEMES:END -->
+ - 💣 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
+ - ⏩ [Space is Cold](http://9gag.com/gag/a4PW32Q)
+ - 👉 [This image unlocks a very specific core memory.](http://9gag.com/gag/a6ZjELq)<!-- MEMES:END -->
 
 ---
 
