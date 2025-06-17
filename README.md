@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Game of Thrones RTS has a dragon R&amp;D team dedicated to answering burning questions like &#39;do the dragons explode when they die?&#39;](https://www.pcgamer.com/games/rts/game-of-thrones-rts-has-a-dragon-r-and-d-team-dedicated-to-answering-burning-questions-like-do-the-dragons-explode-when-they-die/)
  - [Rainbow Six Siege is more popular and better than ever. That&#39;s one point for &#39;make something actually unique and stick with it,&#39; zero points for &#39;give up and lay everyone off&#39;](https://www.pcgamer.com/games/fps/rainbow-six-siege-is-more-popular-and-better-than-ever-thats-one-point-for-make-something-actually-unique-and-stick-with-it-zero-points-for-give-up-and-lay-everyone-off/)
- - [This &#39;tediously accurate&#39; map of our solar system with the moon scaled to a single pixel would still take 665 monitors laid end-to-end to show all at once](https://www.pcgamer.com/gaming-industry/this-tediously-accurate-map-of-our-solar-system-with-the-moon-scaled-to-a-single-pixel-would-still-take-665-monitors-laid-end-to-end-to-show-all-at-once/)
- - [Honkai: Star Rail publisher sues player for streaming a new character on Discord before its official release](https://www.pcgamer.com/games/honkai-star-rail-publisher-sues-player-for-streaming-a-new-character-on-discord-before-its-official-release/)<!-- GAME:END -->
+ - [This &#39;tediously accurate&#39; map of our solar system with the moon scaled to a single pixel would still take 665 monitors laid end-to-end to show all at once](https://www.pcgamer.com/gaming-industry/this-tediously-accurate-map-of-our-solar-system-with-the-moon-scaled-to-a-single-pixel-would-still-take-665-monitors-laid-end-to-end-to-show-all-at-once/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
