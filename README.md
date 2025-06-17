@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Firefly adds mobile app, new AI models &amp; mood boards](https://appleinsider.com/articles/25/06/17/adobe-firefly-adds-mobile-app-new-ai-models-mood-boards?utm_medium=rss)
- - [Try This Free Version of Microsoft Office That Runs in Your Browser](https://www.wired.com/story/microsoft-365-free-version-of-microsoft-office-that-runs-in-your-browser/)
- - [Adobe made a mobile app for its Firefly generative AI tools](https://www.theverge.com/news/688080/adobe-firefly-ai-app-iphone-ios-android-availability)<!-- TECH:END -->
+ - [Download these now free retro mobile games before Sega removes them](https://www.theverge.com/news/688167/sega-retro-games-forever-program-free-download-ios-android-crazy-taxi-sonic)
+ - [Apple&#39;s Back to School sale returns, but there are better deals](https://appleinsider.com/articles/25/06/17/apples-back-to-school-sale-returns-but-there-are-better-deals?utm_medium=rss)
+ - [Sources: Elon Musk&#39;s xAI is in talks to raise $4.3B via an equity investment on top of the $5B it has recently been trying to borrow from debt investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p16#a250617p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
