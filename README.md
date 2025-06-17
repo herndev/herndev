@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2025 Digital News Report: social media overtakes TV as the top news source in the US, with 54% accessing news via social media and video apps, vs. 50% for TV &lpar;Nieman Lab&rpar;](http://www.techmeme.com/250616/p25#a250616p25)
- - [The US Senate&#39;s draft tax bill would raise the CHIPS Act&#39;s tax credit for semiconductor factories from 25% to 30% until the tax break expires at the end of 2026 &lpar;Alicia Diaz/Bloomberg&rpar;](http://www.techmeme.com/250616/p24#a250616p24)
- - [Justin Sun takes crypto company public — reportedly with help from Eric Trump](https://www.theverge.com/news/687854/justin-sun-tron-nasdaq-trump-family)<!-- TECH:END -->
+ - [Memo: Intel&#39;s manufacturing VP said Intel plans to cut 15%-20% of staff, starting in July, &quot;to meet our affordability challenges and current financial position&quot; &lpar;Mike Rogoway/Oregonian&rpar;](http://www.techmeme.com/250616/p26#a250616p26)
+ - [Personas compared: a much more natural digital you on Apple Vision Pro](https://appleinsider.com/articles/25/06/17/personas-compared-a-much-more-natural-digital-you-on-apple-vision-pro?utm_medium=rss)
+ - [2025 Digital News Report: social media overtakes TV as the top news source in the US, with 54% accessing news via social media and video apps, vs. 50% for TV &lpar;Nieman Lab&rpar;](http://www.techmeme.com/250616/p25#a250616p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
