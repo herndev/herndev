@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Minnesota Shooting Suspect Allegedly Used Data Broker Sites to Find Targets&#39; Addresses](https://www.wired.com/story/minnesota-lawmaker-shootings-people-search-data-brokers/)
- - [Sources: OpenAI wants Microsoft to take a ~33% stake in exchange for giving up future profit rights, and seeks to revise its exclusive cloud deal with Microsoft &lpar;The Information&rpar;](http://www.techmeme.com/250616/p27#a250616p27)
- - [Memo: Intel&#39;s manufacturing VP said Intel plans to cut 15%-20% of staff, starting in July, &quot;to meet our affordability challenges and current financial position&quot; &lpar;Mike Rogoway/Oregonian&rpar;](http://www.techmeme.com/250616/p26#a250616p26)<!-- TECH:END -->
+ - [Move over Ray-Ban, Oakley Meta glasses are arriving this Friday](https://www.androidauthority.com/oakley-meta-glasses-launch-date-3568053/)
+ - [Minnesota Shooting Suspect Allegedly Used Data Broker Sites to Find Targets’ Addresses](https://www.wired.com/story/minnesota-lawmaker-shootings-people-search-data-brokers/)
+ - [Sources: OpenAI wants Microsoft to take a ~33% stake in exchange for giving up future profit rights, and seeks to revise its exclusive cloud deal with Microsoft &lpar;The Information&rpar;](http://www.techmeme.com/250616/p27#a250616p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
