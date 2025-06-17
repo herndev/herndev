@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
- - ⏩ [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 👉 [Cute!](http://9gag.com/gag/a1mERE8)<!-- MEMES:END -->
+ - 💣 [Not on my watch](http://9gag.com/gag/amop5Ed)
+ - ⏩ [This post makes me laugh hard after seeing it.. CCTO](http://9gag.com/gag/aE0Op5e)
+ - 👉 [This laser welding is incredibly fast and clean.](http://9gag.com/gag/aByOgvP)<!-- MEMES:END -->
 
 ---
 
