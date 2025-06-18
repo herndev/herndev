@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man has been walking around the world for 27 years and just reached Europe. What an incredible journey.](http://9gag.com/gag/aKGO6jW)
- - ⏩ [Remember when kids just disappeared for hours?](http://9gag.com/gag/aYQAoo0)
- - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
+ - 💣 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - ⏩ [I gotcha back](http://9gag.com/gag/aqyYj9v)
+ - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
 
 ---
 
