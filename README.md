@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is Blitz Royale in Fortnite?](https://www.polygon.com/fortnite-guide/607902/blitz-royale-explained-what-is-full-schedule)
- - [Hades 2 finally reveals Narcissus, and he’s more scandalous than anyone imagined](https://www.polygon.com/gaming/607878/hades-2-narcissus-art-reveal-placeholder-unseen-update-greek-myth)
- - [28 Years Later breathes new life into zombie horror yet again](https://www.polygon.com/horror/607770/28-years-later-review)<!-- GAME:END -->
+ - [Hunt: Showdown 1896 goes offline for a day after its latest update caused so many problems Crytek had to remove it completely](https://www.pcgamer.com/games/fps/hunt-showdown-1896-goes-offline-for-a-day-after-its-latest-update-caused-so-many-problems-crytek-had-to-remove-it-completely/)
+ - [Hideo Kojima says the Clair Obscur: Expedition 33 development team is his &#39;ideal&#39; size: &#39;They only have like 33 team members and a dog&#39;](https://www.pcgamer.com/gaming-industry/hideo-kojima-says-the-clair-obscur-expedition-33-development-team-is-his-ideal-size-they-only-have-like-33-team-members-and-a-dog/)
+ - [What is Blitz Royale in Fortnite?](https://www.polygon.com/fortnite-guide/607902/blitz-royale-explained-what-is-full-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
