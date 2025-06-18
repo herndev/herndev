@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I gotcha back](http://9gag.com/gag/aqyYj9v)
- - ⏩ [The golden days](http://9gag.com/gag/aGyOE4n)
- - 👉 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
+ - 💣 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)
+ - ⏩ [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
+ - 👉 [I gotcha back](http://9gag.com/gag/aqyYj9v)<!-- MEMES:END -->
 
 ---
 
