@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
- - ⏩ [For everybody who missed it, day two. Right one is very very few more green. Lets try those `life Hacks`. Science b*tch!](http://9gag.com/gag/abAQAAE)
- - 👉 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)<!-- MEMES:END -->
+ - 💣 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
+ - ⏩ [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
+ - 👉 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)<!-- MEMES:END -->
 
 ---
 
