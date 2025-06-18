@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yes, Your Switch 2 Has A Lock Screen And You Should Use It](https://kotaku.com/nintendo-switch-2-lock-passcode-pin-system-private-1851784740)
- - [Elden Ring Nightreign update boosts those rare madness weapon drops](https://www.polygon.com/elden-ring/607706/nightreign-patch-libra-madness-weakness-weapon-gear)
- - [Dune: Awakening patch fixes the ornithopter &#39;goomba stomp&#39; problem in PvP, just not in the way I expected](https://www.pcgamer.com/games/mmo/dune-awakening-patch-fixes-the-ornithopter-goomba-stomp-problem-in-pvp-just-not-in-the-way-i-expected/)<!-- GAME:END -->
+ - [Nintendo Doesn&#39;t Worry About Donkey Kong Lore And Neither Should You](https://kotaku.com/donkey-kong-bananza-direct-lore-pauline-cranky-kong-how-1851784745)
+ - [One Of Marvel’s Most Exciting Games Right Now Isn’t A Hero Shooter Or Fighting Game](https://kotaku.com/marvel-cosmic-invasion-preview-beat-em-up-tribute-games-1851784757)
+ - [RuneScape player pulls off a personal Shawshank Redemption: Grinds his way out of one-zone house arrest by grinding a raid 2,000 times over 10,000 hours: &#39;It was all worth it&#39;](https://www.pcgamer.com/games/mmo/runescape-player-pulls-off-a-personal-shawshank-redemption-grinds-his-way-out-of-one-zone-house-arrest-by-grinding-a-raid-2-000-times-over-10-000-hours-it-was-all-worth-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
