@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even after 10 years that valkyrian scream still gives me chills](http://9gag.com/gag/aPA1g4n)
- - ⏩ [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
- - 👉 [Logistics are getting complicated](http://9gag.com/gag/ajPWVnp)<!-- MEMES:END -->
+ - 💣 [I gotcha back](http://9gag.com/gag/aqyYj9v)
+ - ⏩ [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 👉 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
 
 ---
 
