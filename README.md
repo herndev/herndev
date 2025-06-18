@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DOJ announces the seizure of $225.3M in crypto, the largest-ever US seizure of cryptocurrency linked to confidence schemes known as &quot;pig butchering&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250618/p33#a250618p33)
- - [How Safari in iOS 26 &amp; macOS 26 puts content first with Liquid Glass UI changes](https://appleinsider.com/articles/25/06/18/how-safari-in-ios-26-macos-26-puts-content-first-with-liquid-glass-ui-changes?utm_medium=rss)
- - [YouTube is plugging Veo 3 AI videos directly into Shorts](https://www.theverge.com/news/689474/youtube-veo-3-ai-videos-shorts)<!-- TECH:END -->
+ - [Klarna launches a $40/month unlimited mobile plan in the US via a partnership with telecom services startup Gigs, following similar offerings by Revolut and N26 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250618/p34#a250618p34)
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
+ - [The Fed&#39;s on Pause, but You Shouldn&#39;t Be. 4 Smart Financial Moves to Make Today](https://www.cnet.com/personal-finance/banking/the-feds-on-pause-but-you-shouldnt-be-4-smart-financial-moves-to-make-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
