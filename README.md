@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keep accidentally opening Chrome tabs in new groups? There’s an easy fix](https://www.androidauthority.com/chrome-tab-group-open-3568783/)
- - [Texas Instruments plans to spend $60B+ on US semiconductor plants, including two new factories in Texas, and says its long-term spending plan remains unchanged &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p37#a250618p37)
- - [T-Mobile Debuts New Prepaid Plans With 5-Year Price Guarantee](https://www.cnet.com/tech/mobile/t-mobile-debuts-new-prepaid-plans-with-5-year-price-guarantee/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab Apple&#39;s M4 MacBook Air for $829 now through June 19](https://appleinsider.com/articles/25/06/18/grab-apples-m4-macbook-air-for-829-now-through-june-19?utm_medium=rss)
+ - [Midjourney launches V1, its first AI video generation model, letting subscribers animate images via its website; video jobs will cost ~8x more than image jobs &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250618/p39#a250618p39)
+ - [Here&#39;s What to Know if a TikTok Sale Never Goes Through](https://www.cnet.com/tech/services-and-software/heres-what-to-know-if-a-tiktok-sale-never-goes-through/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
