@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eufy’s new smart display keeps an eye on your security cams](https://www.theverge.com/news/688998/eufy-smart-display-e10-price-availability)
- - [Wyze says its security cameras deserve your trust again](https://www.theverge.com/news/688864/wyze-launches-verifiedview-protections-security-camera-footage)
- - [VanMoof’s co-founders have a new e-bike coming from Raleigh](https://www.theverge.com/e-bikes/688967/vanmoof-raleigh-carlier-ties-taco-e-bike)<!-- TECH:END -->
+ - [This smart light has party speaker aspirations](https://www.theverge.com/smart-home-review/688790/govee-table-lamp-2-pro-sound-jbl-review-smart-light-bluetooth-speaker)
+ - [Framework Laptop 12 review: plastic fantastic](https://www.theverge.com/reviews/688959/framework-laptop-12-review-modular-touchscreen-intel)
+ - [OpenAI says it is phasing out its work with Scale AI, in which Meta invested billions; Scale accounted for a small fraction of OpenAI&#39;s overall data needs &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250618/p28#a250618p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
