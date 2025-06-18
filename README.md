@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Catholic Church&#39;s decade-long dialogue with Silicon Valley on AI, as Pope Leo prepares to make AI&#39;s potential threat to humanity a signature issue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250618/p3#a250618p3)
- - [Sources: lobbyists for Amazon, Google, Microsoft, and Meta back a campaign for a 10-year US state AI regulation ban, a move dividing the AI industry and the GOP &lpar;Financial Times&rpar;](http://www.techmeme.com/250618/p2#a250618p2)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, June 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-june-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung could soon put some Galaxy Watch features behind a paywall](https://www.androidauthority.com/samsung-health-subscription-3568540/)
+ - [A look at embedded and immersion chip-cooling tech; industry sources indicate Nvidia is mulling 6,000W to 9,000W TDP for its next-gen GPUs, up from ~1,200W now &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250618/p7#a250618p7)
+ - [JD.com founder Richard Liu calls the past five years the company&#39;s &quot;darkest period&quot; and vows to speed up overseas expansion and challenge Meituan in new areas &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p6#a250618p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
