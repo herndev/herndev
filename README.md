@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think every now and then this needs to be &lpar;re&rpar;posted for the ones who missed it](http://9gag.com/gag/a0eM4bO)
- - ⏩ [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
- - 👉 [James was trying to warn us back then.](http://9gag.com/gag/aqyYyPL)<!-- MEMES:END -->
+ - 💣 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - ⏩ [For everybody who missed it, day two. Right one is very very few more green. Lets try those `life Hacks`. Science b*tch!](http://9gag.com/gag/abAQAAE)
+ - 👉 [Proven Locks](http://9gag.com/gag/a87K79p)<!-- MEMES:END -->
 
 ---
 
