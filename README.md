@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What happens when you feed AI nothing](https://www.theverge.com/ai-artificial-intelligence/688576/feed-ai-nothing)
- - [Netflix will air traditional TV channels inside its app in France](https://www.theverge.com/news/689022/netflix-tf1-group-carriage-deal-tv-channels)
- - [Meta, Amazon, and more want 10-year ban on states regulating AI](https://appleinsider.com/articles/25/06/18/meta-amazon-and-more-want-10-year-ban-on-states-regulating-ai?utm_medium=rss)<!-- TECH:END -->
+ - [Indigo is a new camera app by the guys who made the Pixel and Google Camera apps](https://www.androidauthority.com/adobe-indigo-pixel-camera-google-camera-3568599/)
+ - [Android may soon recommend you use an ‘optimized’ voice assistant — here’s what that really means](https://www.androidauthority.com/android-recommended-assistant-3568465/)
+ - [4 Best Smart Glasses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
