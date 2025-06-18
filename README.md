@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
- - ⏩ [I gotcha back](http://9gag.com/gag/aqyYj9v)
- - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
+ - 💣 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
+ - ⏩ [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
 
 ---
 
