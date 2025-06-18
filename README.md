@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Doesn&#39;t Worry About Donkey Kong Lore And Neither Should You](https://kotaku.com/donkey-kong-bananza-direct-lore-pauline-cranky-kong-how-1851784745)
- - [One Of Marvel’s Most Exciting Games Right Now Isn’t A Hero Shooter Or Fighting Game](https://kotaku.com/marvel-cosmic-invasion-preview-beat-em-up-tribute-games-1851784757)
- - [RuneScape player pulls off a personal Shawshank Redemption: Grinds his way out of one-zone house arrest by grinding a raid 2,000 times over 10,000 hours: &#39;It was all worth it&#39;](https://www.pcgamer.com/games/mmo/runescape-player-pulls-off-a-personal-shawshank-redemption-grinds-his-way-out-of-one-zone-house-arrest-by-grinding-a-raid-2-000-times-over-10-000-hours-it-was-all-worth-it/)<!-- GAME:END -->
+ - [The Elder Scrolls Online: Seasons of the Worm Cult Part 1 is Available Now](https://www.elderscrollsonline.com/en-us/news/post/68093#new_tab)
+ - [Vin Diesel needs to make a sequel to his movie blowing up on Netflix](https://www.polygon.com/action/607707/vin-diesel-the-last-witch-hunter-sequel)
+ - [Date Everything claims to be a dating sim, but it doesn&#39;t love or understand its own genre](https://www.pcgamer.com/games/life-sim/date-everything-claims-to-be-a-dating-sim-but-it-doesnt-love-or-understand-its-own-genre/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
