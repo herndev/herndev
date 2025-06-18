@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
- - ⏩ [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
- - 👉 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)<!-- MEMES:END -->
+ - 💣 [God Damn](http://9gag.com/gag/aQzOXN7)
+ - ⏩ [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
+ - 👉 [Proven Locks](http://9gag.com/gag/a87K79p)<!-- MEMES:END -->
 
 ---
 
