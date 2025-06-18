@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
- - ⏩ [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
- - 👉 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)<!-- MEMES:END -->
+ - 💣 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)
+ - ⏩ [The level of detail in this drawing is incredible, especially the transition.](http://9gag.com/gag/azxYM4Z)
+ - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
 
 ---
 
