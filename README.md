@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin’s new sleep-tracking armband lasts a full week between charges](https://www.theverge.com/news/688438/garmin-index-sleep-monitor-smart-arm-band-tracker)
- - [Galaxy Watch 8 leak reveals potential color options for all three models](https://www.androidauthority.com/galaxy-watch-8-series-colors-leak-3568594/)
- - [UBS confirms data was stolen in a cyberattack on supplier Chain IQ, which said it and 19 other companies were targeted; Swiss media says it impacts 130K+ staff &lpar;Noele Illien/Bloomberg&rpar;](http://www.techmeme.com/250618/p16#a250618p16)<!-- TECH:END -->
+ - [What happens when you feed AI nothing](https://www.theverge.com/ai-artificial-intelligence/688576/feed-ai-nothing)
+ - [Netflix will air traditional TV channels inside its app in France](https://www.theverge.com/news/689022/netflix-tf1-group-carriage-deal-tv-channels)
+ - [Meta, Amazon, and more want 10-year ban on states regulating AI](https://appleinsider.com/articles/25/06/18/meta-amazon-and-more-want-10-year-ban-on-states-regulating-ai?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
