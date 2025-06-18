@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The golden days](http://9gag.com/gag/aGyOE4n)
- - ⏩ [This post makes me laugh hard after seeing it.. CCTO](http://9gag.com/gag/aE0Op5e)
- - 👉 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)<!-- MEMES:END -->
+ - 💣 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
+ - ⏩ [Definitely NOT As Seen On TV.](http://9gag.com/gag/ary2nzX)
+ - 👉 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)<!-- MEMES:END -->
 
 ---
 
