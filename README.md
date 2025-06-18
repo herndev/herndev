@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s compact look for Gemini Live isn’t even out, and it’s already getting better &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-overlay-3568499/)
- - [Nothing Headphone 1 price leaks, and it’s cheaper than Apple, Sony’s best](https://www.androidauthority.com/nothing-headphone-1-price-leak-3568583/)
- - [AWS says Anthropic&#39;s Claude Opus 4 launched on its Trainium2 GPUs, and Project Rainier, AWS&#39; supercomputer built for Anthropic, uses 500K+ Trainium2 chips &lpar;Kristina Partsinevelos/CNBC&rpar;](http://www.techmeme.com/250618/p12#a250618p12)<!-- TECH:END -->
+ - [Garmin’s new sleep-tracking armband lasts a full week between charges](https://www.theverge.com/news/688438/garmin-index-sleep-monitor-smart-arm-band-tracker)
+ - [Galaxy Watch 8 leak reveals potential color options for all three models](https://www.androidauthority.com/galaxy-watch-8-series-colors-leak-3568594/)
+ - [UBS confirms data was stolen in a cyberattack on supplier Chain IQ, which said it and 19 other companies were targeted; Swiss media says it impacts 130K+ staff &lpar;Noele Illien/Bloomberg&rpar;](http://www.techmeme.com/250618/p16#a250618p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
