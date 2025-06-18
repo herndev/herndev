@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indigo is a new camera app by the guys who made the Pixel and Google Camera apps](https://www.androidauthority.com/adobe-indigo-pixel-camera-google-camera-3568599/)
- - [Android may soon recommend you use an ‘optimized’ voice assistant — here’s what that really means](https://www.androidauthority.com/android-recommended-assistant-3568465/)
- - [4 Best Smart Glasses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)<!-- TECH:END -->
+ - [Eufy’s new smart display keeps an eye on your security cams](https://www.theverge.com/news/688998/eufy-smart-display-e10-price-availability)
+ - [Wyze says its security cameras deserve your trust again](https://www.theverge.com/news/688864/wyze-launches-verifiedview-protections-security-camera-footage)
+ - [VanMoof’s co-founders have a new e-bike coming from Raleigh](https://www.theverge.com/e-bikes/688967/vanmoof-raleigh-carlier-ties-taco-e-bike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
