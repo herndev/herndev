@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klarna launches a $40/month unlimited mobile plan in the US via a partnership with telecom services startup Gigs, following similar offerings by Revolut and N26 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250618/p34#a250618p34)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [The Fed&#39;s on Pause, but You Shouldn&#39;t Be. 4 Smart Financial Moves to Make Today](https://www.cnet.com/personal-finance/banking/the-feds-on-pause-but-you-shouldnt-be-4-smart-financial-moves-to-make-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Keep accidentally opening Chrome tabs in new groups? There’s an easy fix](https://www.androidauthority.com/chrome-tab-group-open-3568783/)
+ - [Texas Instruments plans to spend $60B+ on US semiconductor plants, including two new factories in Texas, and says its long-term spending plan remains unchanged &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p37#a250618p37)
+ - [T-Mobile Debuts New Prepaid Plans With 5-Year Price Guarantee](https://www.cnet.com/tech/mobile/t-mobile-debuts-new-prepaid-plans-with-5-year-price-guarantee/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
