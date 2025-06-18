@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smart light has party speaker aspirations](https://www.theverge.com/smart-home-review/688790/govee-table-lamp-2-pro-sound-jbl-review-smart-light-bluetooth-speaker)
- - [Framework Laptop 12 review: plastic fantastic](https://www.theverge.com/reviews/688959/framework-laptop-12-review-modular-touchscreen-intel)
- - [OpenAI says it is phasing out its work with Scale AI, in which Meta invested billions; Scale accounted for a small fraction of OpenAI&#39;s overall data needs &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250618/p28#a250618p28)<!-- TECH:END -->
+ - [Waymo’s robotaxis are coming back to New York City](https://www.theverge.com/news/689093/waymo-nyc-permit-autonomous-testing-new-york-state)
+ - [Google tests real-time AI voice chats in Search](https://www.theverge.com/news/689212/google-search-live-ai-mode-test)
+ - [Some Animal Crossing Lego sets are cheaper than ever](https://www.theverge.com/tech/689129/animal-crossing-lego-macbook-air-motorola-edge-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
