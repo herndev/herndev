@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An upcoming slasher will use mocap from a ballerina for combat](https://www.polygon.com/gaming/607577/tsarevna-ballet-combat-slasher-game-announced)
- - [Donkey Kong Bananza&#39;s Direct Reveals A Truly Smashing Game](https://kotaku.com/donkey-kong-bananza-direct-nintendo-switch-2-exclusive-1851784723)
- - [Dark day for humanity as Gex Trilogy achieves &#39;huge success,&#39; patches in its cursed EU voices from Red Dwarf&#39;s Cat and the &#39;Ding dong&#39; guy](https://www.pcgamer.com/games/action/dark-day-for-humanity-as-gex-trilogy-achieves-huge-success-patches-in-its-cursed-eu-voices-from-red-dwarfs-cat-and-the-ding-dong-guy/)<!-- GAME:END -->
+ - [Survival game AETHUS sees you rebuilding a sci-fi colony after the ravages of galactic capitalism—and forging a new kind of future from the wreckage](https://www.pcgamer.com/games/survival-crafting/survival-game-aethus-sees-you-rebuilding-a-sci-fi-colony-after-the-ravages-of-galactic-capitalism-and-forging-a-new-kind-of-future-from-the-wreckage/)
+ - [&#39;The winds of change are blowing&#39;: After 159 days Marvel Rivals has finally nerfed Storm, albeit not by much](https://www.pcgamer.com/games/third-person-shooter/the-winds-of-change-are-blowing-after-159-days-marvel-rivals-has-finally-nerfed-storm-albeit-not-by-much/)
+ - [This retro sleeper build hides one of the top mini PCs inside and I wish I had the tools and patience to game like it&#39;s the &#39;90s](https://www.pcgamer.com/hardware/gaming-pcs/this-retro-sleeper-build-hides-one-of-the-top-mini-pcs-inside-and-i-wish-i-had-the-tools-and-patience-to-game-like-its-the-90s/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
