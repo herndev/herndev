@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
- - ⏩ [Definitely NOT As Seen On TV.](http://9gag.com/gag/ary2nzX)
- - 👉 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)<!-- MEMES:END -->
+ - 💣 [We got Leo dating a 27 year old before we got GTA VI](http://9gag.com/gag/aByOy91)
+ - ⏩ [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
+ - 👉 [I gotcha back](http://9gag.com/gag/aqyYj9v)<!-- MEMES:END -->
 
 ---
 
