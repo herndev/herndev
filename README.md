@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Survival game AETHUS sees you rebuilding a sci-fi colony after the ravages of galactic capitalism—and forging a new kind of future from the wreckage](https://www.pcgamer.com/games/survival-crafting/survival-game-aethus-sees-you-rebuilding-a-sci-fi-colony-after-the-ravages-of-galactic-capitalism-and-forging-a-new-kind-of-future-from-the-wreckage/)
- - [&#39;The winds of change are blowing&#39;: After 159 days Marvel Rivals has finally nerfed Storm, albeit not by much](https://www.pcgamer.com/games/third-person-shooter/the-winds-of-change-are-blowing-after-159-days-marvel-rivals-has-finally-nerfed-storm-albeit-not-by-much/)
- - [This retro sleeper build hides one of the top mini PCs inside and I wish I had the tools and patience to game like it&#39;s the &#39;90s](https://www.pcgamer.com/hardware/gaming-pcs/this-retro-sleeper-build-hides-one-of-the-top-mini-pcs-inside-and-i-wish-i-had-the-tools-and-patience-to-game-like-its-the-90s/)<!-- GAME:END -->
+ - [Yes, Your Switch 2 Has A Lock Screen And You Should Use It](https://kotaku.com/nintendo-switch-2-lock-passcode-pin-system-private-1851784740)
+ - [Elden Ring Nightreign update boosts those rare madness weapon drops](https://www.polygon.com/elden-ring/607706/nightreign-patch-libra-madness-weakness-weapon-gear)
+ - [Dune: Awakening patch fixes the ornithopter &#39;goomba stomp&#39; problem in PvP, just not in the way I expected](https://www.pcgamer.com/games/mmo/dune-awakening-patch-fixes-the-ornithopter-goomba-stomp-problem-in-pvp-just-not-in-the-way-i-expected/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
