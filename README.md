@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)
- - ⏩ [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
- - 👉 [I gotcha back](http://9gag.com/gag/aqyYj9v)<!-- MEMES:END -->
+ - 💣 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - ⏩ [This post makes me laugh hard after seeing it.. CCTO](http://9gag.com/gag/aE0Op5e)
+ - 👉 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)<!-- MEMES:END -->
 
 ---
 
