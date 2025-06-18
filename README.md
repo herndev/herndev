@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump is giving TikTok another ban extension](https://www.theverge.com/news/688252/tiktok-ban-trump-extension-deal)
- - [Sources: Substack is pitching investors on a round between $50M and $100M that would value it above its ~$700M last round price, and is generating ~$45M in ARR &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/250617/p40#a250617p40)
- - [Senate confirms Trump’s FCC pick, Olivia Trusty](https://www.theverge.com/news/688824/olivia-trusty-fcc-senate-confirmation-trump)<!-- TECH:END -->
+ - [The Iranian government says it has restricted internet access in response to Israeli cyberattacks; some Western communication apps have reportedly been blocked &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250617/p43#a250617p43)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [On a podcast, Sam Altman said Meta made &quot;giant offers to a lot of people on our team&quot;, like $100M signing bonuses, and &quot;none of our best people&quot; have accepted &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250617/p42#a250617p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
