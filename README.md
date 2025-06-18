@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo’s robotaxis are coming back to New York City](https://www.theverge.com/news/689093/waymo-nyc-permit-autonomous-testing-new-york-state)
- - [Google tests real-time AI voice chats in Search](https://www.theverge.com/news/689212/google-search-live-ai-mode-test)
- - [Some Animal Crossing Lego sets are cheaper than ever](https://www.theverge.com/tech/689129/animal-crossing-lego-macbook-air-motorola-edge-deal-sale)<!-- TECH:END -->
+ - [Google rolls out the ability to have back-and-forth voice conversations with AI Mode, available in the Google app by tapping the Live button &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250618/p30#a250618p30)
+ - [Apple partner Texas Instruments is spending $60 B on chip production in the US](https://appleinsider.com/articles/25/06/18/apple-partner-texas-instruments-is-spending-60-b-on-chip-production-in-the-us?utm_medium=rss)
+ - [Waymo applied for a NYC permit to test its cars with safety drivers and plans to start collecting mapping data with manually driven cars in Manhattan in July &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250618/p29#a250618p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
