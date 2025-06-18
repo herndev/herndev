@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Digging Deeper: The Inspirations Behind Still Wakes the Deep: Siren’s Rest](https://news.xbox.com/en-us/2025/06/18/still-wakes-the-deep-sirens-rest-dlc-inspirations/)
- - [Borderlands 4 hands-on: Yeah, it&#39;s just &#39;more Borderlands,&#39; but Gearbox&#39;s consistency is respectable and there&#39;s a cool hoverbike](https://www.pcgamer.com/games/fps/borderlands-4-hands-on-preview/)
- - [Watch the new Nintendo Direct all about Donkey Kong Bananza](https://www.polygon.com/gaming/607067/nintendo-donkey-kong-bananza-new-direct-reveal)<!-- GAME:END -->
+ - [An upcoming slasher will use mocap from a ballerina for combat](https://www.polygon.com/gaming/607577/tsarevna-ballet-combat-slasher-game-announced)
+ - [Donkey Kong Bananza&#39;s Direct Reveals A Truly Smashing Game](https://kotaku.com/donkey-kong-bananza-direct-nintendo-switch-2-exclusive-1851784723)
+ - [Dark day for humanity as Gex Trilogy achieves &#39;huge success,&#39; patches in its cursed EU voices from Red Dwarf&#39;s Cat and the &#39;Ding dong&#39; guy](https://www.pcgamer.com/games/action/dark-day-for-humanity-as-gex-trilogy-achieves-huge-success-patches-in-its-cursed-eu-voices-from-red-dwarfs-cat-and-the-ding-dong-guy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
