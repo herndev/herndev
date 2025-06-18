@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out the ability to upload videos in the Gemini app for both free and paid accounts across Android and iOS; the feature is not yet live on the web &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250617/p46#a250617p46)
- - [Nothing Phone 3 will get the company’s best software update promise to date](https://www.androidauthority.com/nothing-phone-3-software-updates-3568533/)
- - [I&#39;m an Anime Collector. 3 AI Phone Features I Used While Visiting Tokyo](https://www.cnet.com/tech/services-and-software/im-an-anime-collector-3-ai-phone-features-i-used-while-visiting-tokyo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, June 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-june-18/#ftag=CAD590a51e)
+ - [Investigation: healthcare exchanges in Nevada, Maine, Massachusetts, and Rhode Island share sensitive data with Google, LinkedIn, and Snapchat via web trackers &lpar;The Markup&rpar;](http://www.techmeme.com/250618/p1#a250618p1)
+ - [Google rolls out the ability to upload videos in the Gemini app for both free and paid accounts across Android and iOS; the feature is not yet live on the web &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250617/p46#a250617p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
