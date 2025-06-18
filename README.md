@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of LA-based Whatnot, a livestream marketplace valued at ~$5B, which has raised $700M+ since 2019 and expects its GMV to grow 100%+ YoY to $6B+ in 2025 &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250618/p9#a250618p9)
  - [Samsung could soon put some Galaxy Watch features behind a paywall](https://www.androidauthority.com/samsung-health-subscription-3568540/)
- - [A look at embedded and immersion chip-cooling tech; industry sources indicate Nvidia is mulling 6,000W to 9,000W TDP for its next-gen GPUs, up from ~1,200W now &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250618/p7#a250618p7)
- - [JD.com founder Richard Liu calls the past five years the company&#39;s &quot;darkest period&quot; and vows to speed up overseas expansion and challenge Meituan in new areas &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p6#a250618p6)<!-- TECH:END -->
+ - [A look at embedded and immersion chip-cooling tech; industry sources indicate Nvidia is mulling 6,000W to 9,000W TDP for its next-gen GPUs, up from ~1,200W now &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250618/p7#a250618p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
