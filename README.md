@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Walmart plans to leverage its $2.3B Vizio acquisition to push shoppable TV experiences; Walmart&#39;s ad business had just $4.4B of sales in FY 2025 &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/250617/p44#a250617p44)
  - [The Iranian government says it has restricted internet access in response to Israeli cyberattacks; some Western communication apps have reportedly been blocked &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250617/p43#a250617p43)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [On a podcast, Sam Altman said Meta made &quot;giant offers to a lot of people on our team&quot;, like $100M signing bonuses, and &quot;none of our best people&quot; have accepted &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250617/p42#a250617p42)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
