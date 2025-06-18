@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - ⏩ [For everybody who missed it, day two. Right one is very very few more green. Lets try those `life Hacks`. Science b*tch!](http://9gag.com/gag/abAQAAE)
- - 👉 [Proven Locks](http://9gag.com/gag/a87K79p)<!-- MEMES:END -->
+ - 💣 [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
+ - ⏩ [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/aD2O7AZ)
+ - 👉 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)<!-- MEMES:END -->
 
 ---
 
