@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, June 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-18-2025/)
  - [No wonder it took so long to rerelease Final Fantasy Tactics—the source code was lost: &#39;Keeping that kind of data wasn&#39;t a normal thing to do at the time&#39;](https://www.pcgamer.com/games/strategy/no-wonder-it-took-so-long-to-rerelease-final-fantasy-tactics-the-source-code-was-lost-keeping-that-kind-of-data-wasnt-a-normal-thing-to-do-at-the-time/)
- - [Splitgate 2 review](https://www.pcgamer.com/games/fps/splitgate-2-review/)
- - [PlayStation Store’s Mid-Year Deals promotion live June 18](https://blog.playstation.com/2025/06/17/playstation-stores-mid-year-deals-promotion-live-june-18/)<!-- GAME:END -->
+ - [Splitgate 2 review](https://www.pcgamer.com/games/fps/splitgate-2-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
