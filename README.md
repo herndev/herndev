@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ball hogs and &#39;wannabe Messis&#39; are already the heels of the Rematch community: &#39;Coach should run out onto the field and beat them with a stick&#39;](https://www.pcgamer.com/games/sports/ball-hogs-and-wannabe-messis-are-already-the-heels-of-the-rematch-community-coach-should-run-out-onto-the-field-and-beat-them-with-a-stick/)
- - [Ubisoft slows free currency gain in Rainbow Six Siege X to a pathetic crawl, then immediately drops its most expensive skin in 10 years](https://www.pcgamer.com/games/fps/ubisoft-slows-free-currency-gain-in-rainbow-six-siege-x-to-a-pathetic-crawl-then-immediately-drops-its-most-expensive-skin-in-10-years/)
- - [15 beginner’s tips before you start FBC: Firebreak](https://www.polygon.com/guides/607582/fbc-firebreak-beginner-tips-tricks)<!-- GAME:END -->
+ - [No wonder it took so long to rerelease Final Fantasy Tactics—the source code was lost: &#39;Keeping that kind of data wasn&#39;t a normal thing to do at the time&#39;](https://www.pcgamer.com/games/strategy/no-wonder-it-took-so-long-to-rerelease-final-fantasy-tactics-the-source-code-was-lost-keeping-that-kind-of-data-wasnt-a-normal-thing-to-do-at-the-time/)
+ - [Splitgate 2 review](https://www.pcgamer.com/games/fps/splitgate-2-review/)
+ - [PlayStation Store’s Mid-Year Deals promotion live June 18](https://blog.playstation.com/2025/06/17/playstation-stores-mid-year-deals-promotion-live-june-18/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
