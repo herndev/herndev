@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
- - ⏩ [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
- - 👉 [Respect in the ring](http://9gag.com/gag/a0eMNyL)<!-- MEMES:END -->
+ - 💣 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - ⏩ [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
+ - 👉 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)<!-- MEMES:END -->
 
 ---
 
