@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Walmart plans to leverage its $2.3B Vizio acquisition to push shoppable TV experiences; Walmart&#39;s ad business had just $4.4B of sales in FY 2025 &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/250617/p44#a250617p44)
- - [The Iranian government says it has restricted internet access in response to Israeli cyberattacks; some Western communication apps have reportedly been blocked &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250617/p43#a250617p43)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [The NAACP intends to sue xAI over the natural gas turbines at its Memphis data center, which it claims are polluting nearby predominantly Black neighborhoods &lpar;Hiroko Tabuchi/New York Times&rpar;](http://www.techmeme.com/250617/p45#a250617p45)
+ - [Senate passes GENIUS stablecoin bill in a win for the crypto industry](https://www.theverge.com/cryptocurrency/688903/genius-act-stablecoin-senate-federal-crypto-regulation)
+ - [How Walmart plans to leverage its $2.3B Vizio acquisition to push shoppable TV experiences; Walmart&#39;s ad business had just $4.4B of sales in FY 2025 &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/250617/p44#a250617p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
