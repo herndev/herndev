@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)
- - ⏩ [The level of detail in this drawing is incredible, especially the transition.](http://9gag.com/gag/azxYM4Z)
- - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
+ - 💣 [Even after 10 years that valkyrian scream still gives me chills](http://9gag.com/gag/aPA1g4n)
+ - ⏩ [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
+ - 👉 [Logistics are getting complicated](http://9gag.com/gag/ajPWVnp)<!-- MEMES:END -->
 
 ---
 
