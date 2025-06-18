@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We got Leo dating a 27 year old before we got GTA VI](http://9gag.com/gag/aByOy91)
- - ⏩ [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
- - 👉 [I gotcha back](http://9gag.com/gag/aqyYj9v)<!-- MEMES:END -->
+ - 💣 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
+ - ⏩ [For everybody who missed it, day two. Right one is very very few more green. Lets try those `life Hacks`. Science b*tch!](http://9gag.com/gag/abAQAAE)
+ - 👉 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)<!-- MEMES:END -->
 
 ---
 
