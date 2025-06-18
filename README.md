@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
- - ⏩ [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
- - 👉 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)<!-- MEMES:END -->
+ - 💣 [This man has been walking around the world for 27 years and just reached Europe. What an incredible journey.](http://9gag.com/gag/aKGO6jW)
+ - ⏩ [Remember when kids just disappeared for hours?](http://9gag.com/gag/aYQAoo0)
+ - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
 
 ---
 
