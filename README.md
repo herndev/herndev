@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Apple&#39;s M4 MacBook Air for $829 now through June 19](https://appleinsider.com/articles/25/06/18/grab-apples-m4-macbook-air-for-829-now-through-june-19?utm_medium=rss)
- - [Midjourney launches V1, its first AI video generation model, letting subscribers animate images via its website; video jobs will cost ~8x more than image jobs &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250618/p39#a250618p39)
- - [Here&#39;s What to Know if a TikTok Sale Never Goes Through](https://www.cnet.com/tech/services-and-software/heres-what-to-know-if-a-tiktok-sale-never-goes-through/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US State Department restarts student visa interviews and requires all applicants to make their social media accounts public for vetting by US embassies &lpar;Washington Post&rpar;](http://www.techmeme.com/250618/p40#a250618p40)
+ - [Samsung Galaxy S25 Edge hits a new record-low price!](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-4-3567963/)
+ - [16 billion logins discovered across exposed datasets, but don&#39;t panic](https://appleinsider.com/articles/25/06/18/16-billion-logins-discovered-across-exposed-datasets-but-dont-panic?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
