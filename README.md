@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not on my watch](http://9gag.com/gag/amop5Ed)
- - ⏩ [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
- - 👉 [Film crew makes a tough call to save trapped penguins from a deadly gully.](http://9gag.com/gag/adBo8oB)<!-- MEMES:END -->
+ - 💣 [Bro pranked a kid as he wrapped brussel sprouts as Ferrero Rocher for trick and treat . The kids mom lost her cool as her kid is crying](http://9gag.com/gag/aAyOg82)
+ - ⏩ [Understood.](http://9gag.com/gag/aE0OpQn)
+ - 👉 [Brid vs Tiger](http://9gag.com/gag/aVvVwzO)<!-- MEMES:END -->
 
 ---
 
