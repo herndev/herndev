@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Elder Scrolls Online: Seasons of the Worm Cult Part 1 is Available Now](https://www.elderscrollsonline.com/en-us/news/post/68093#new_tab)
- - [Vin Diesel needs to make a sequel to his movie blowing up on Netflix](https://www.polygon.com/action/607707/vin-diesel-the-last-witch-hunter-sequel)
- - [Date Everything claims to be a dating sim, but it doesn&#39;t love or understand its own genre](https://www.pcgamer.com/games/life-sim/date-everything-claims-to-be-a-dating-sim-but-it-doesnt-love-or-understand-its-own-genre/)<!-- GAME:END -->
+ - [Ara: History Untold’s Biggest Update and First DLC Available Today for Xbox PC and Steam](https://news.xbox.com/en-us/2025/06/18/ara-history-untold-biggest-update-first-dlc-available-today/)
+ - [Spider-Man: Animated Series’ notorious cliffhanger will be resolved in a new Marvel comic](https://www.polygon.com/marvel/607773/spider-man-animated-series-notorious-cliffhanger-will-be-resolved-in-a-new-marvel-comic)
+ - [Death Stranding is getting a second movie adaptation](https://www.polygon.com/news/607716/death-stranding-animated-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
