@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Raidou Remastered: The Mystery of the Soulless Army review](https://www.pcgamer.com/games/rpg/raidou-remastered-the-mystery-of-the-soulless-army-review/)
  - [Get Ready to Shred: New Details on Tony Hawk’s Pro Skater 3 + 4, Plus Play the Foundry Demo Today](https://www.tonyhawkthegame.com/blog/2025/06/tony-hawk-pro-skater-three-four-launch-ramp-up#new_tab)
- - [WhatsApp really is good, so Meta&#39;s had enough of that and is now &#39;monetising the periphery&#39; with new ads that try to make it more like Instagram](https://www.pcgamer.com/gaming-industry/whatsapp-really-is-good-so-metas-had-enough-of-that-and-is-now-monetising-the-periphery-with-new-ads-that-try-to-make-it-more-like-instagram/)
- - [Elon Musk&#39;s latest gaming take is ruthlessly mocked by Bioshock fans: &#39;Probably thinks Andrew Ryan was the hero&#39;](https://www.pcgamer.com/games/elon-musks-latest-gaming-take-is-ruthlessly-mocked-by-bioshock-fans-probably-thinks-andrew-ryan-was-the-hero/)<!-- GAME:END -->
+ - [WhatsApp really is good, so Meta&#39;s had enough of that and is now &#39;monetising the periphery&#39; with new ads that try to make it more like Instagram](https://www.pcgamer.com/gaming-industry/whatsapp-really-is-good-so-metas-had-enough-of-that-and-is-now-monetising-the-periphery-with-new-ads-that-try-to-make-it-more-like-instagram/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
