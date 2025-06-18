@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Endgame Gear OP1w 4K review](https://www.pcgamer.com/hardware/gaming-mice/endgame-gear-op1w-4k-review/)
- - [Endgame Gear XM2w 4K review](https://www.pcgamer.com/hardware/gaming-mice/endgame-gear-xm2w-4k-review/)
- - [It&#39;s time to update Asus Armoury Crate, folks—the latest vulnerability could allow hackers to compromise your Windows OS](https://www.pcgamer.com/hardware/its-time-to-update-asus-armoury-crate-folks-the-latest-vulnerability-could-allow-hackers-to-compromise-your-os/)<!-- GAME:END -->
+ - [Digging Deeper: The Inspirations Behind Still Wakes the Deep: Siren’s Rest](https://news.xbox.com/en-us/2025/06/18/still-wakes-the-deep-sirens-rest-dlc-inspirations/)
+ - [Borderlands 4 hands-on: Yeah, it&#39;s just &#39;more Borderlands,&#39; but Gearbox&#39;s consistency is respectable and there&#39;s a cool hoverbike](https://www.pcgamer.com/games/fps/borderlands-4-hands-on-preview/)
+ - [Watch the new Nintendo Direct all about Donkey Kong Bananza](https://www.polygon.com/gaming/607067/nintendo-donkey-kong-bananza-new-direct-reveal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
