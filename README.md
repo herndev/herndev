@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, June 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-18-2025/)
- - [No wonder it took so long to rerelease Final Fantasy Tactics—the source code was lost: &#39;Keeping that kind of data wasn&#39;t a normal thing to do at the time&#39;](https://www.pcgamer.com/games/strategy/no-wonder-it-took-so-long-to-rerelease-final-fantasy-tactics-the-source-code-was-lost-keeping-that-kind-of-data-wasnt-a-normal-thing-to-do-at-the-time/)
- - [Splitgate 2 review](https://www.pcgamer.com/games/fps/splitgate-2-review/)<!-- GAME:END -->
+ - [You aren&#39;t just imagining things: Elden Ring Nightreign player confirms it&#39;s 6x harder to revive someone at 3 bars when compared to 1, because FromSoftware&#39;s UI is basically lying to you](https://www.pcgamer.com/games/rpg/you-arent-just-imagining-things-elden-ring-nightreign-player-confirms-its-6x-harder-to-revive-someone-at-3-bars-when-compared-to-1-because-fromsoftwares-ui-is-basically-lying-to-you/)
+ - [An ex-Apple Vision Pro engineer turned a Steam Deck into an all-in-one keyboard for XR, and now you can too](https://www.pcgamer.com/hardware/an-ex-apple-vision-pro-engineer-turned-a-steam-deck-into-an-all-in-one-keyboard-for-xr-and-now-you-can-too/)
+ - [Today&#39;s Wordle answer for Wednesday, June 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-18-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
