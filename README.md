@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro pranked a kid as he wrapped brussel sprouts as Ferrero Rocher for trick and treat . The kids mom lost her cool as her kid is crying](http://9gag.com/gag/aAyOg82)
- - ⏩ [Understood.](http://9gag.com/gag/aE0OpQn)
- - 👉 [Brid vs Tiger](http://9gag.com/gag/aVvVwzO)<!-- MEMES:END -->
+ - 💣 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
+ - ⏩ [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
+ - 👉 [Respect in the ring](http://9gag.com/gag/a0eMNyL)<!-- MEMES:END -->
 
 ---
 
