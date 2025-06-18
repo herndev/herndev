@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Google rolls out the ability to upload videos in the Gemini app for both free and paid accounts across Android and iOS; the feature is not yet live on the web &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250617/p46#a250617p46)
  - [Nothing Phone 3 will get the company’s best software update promise to date](https://www.androidauthority.com/nothing-phone-3-software-updates-3568533/)
- - [The NAACP intends to sue xAI over the natural gas turbines at its Memphis data center, which it claims are polluting nearby predominantly Black neighborhoods &lpar;Hiroko Tabuchi/New York Times&rpar;](http://www.techmeme.com/250617/p45#a250617p45)<!-- TECH:END -->
+ - [I&#39;m an Anime Collector. 3 AI Phone Features I Used While Visiting Tokyo](https://www.cnet.com/tech/services-and-software/im-an-anime-collector-3-ai-phone-features-i-used-while-visiting-tokyo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
