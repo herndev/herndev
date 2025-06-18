@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Not on my watch](http://9gag.com/gag/amop5Ed)
- - ⏩ [This post makes me laugh hard after seeing it.. CCTO](http://9gag.com/gag/aE0Op5e)
- - 👉 [This laser welding is incredibly fast and clean.](http://9gag.com/gag/aByOgvP)<!-- MEMES:END -->
+ - ⏩ [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
+ - 👉 [Film crew makes a tough call to save trapped penguins from a deadly gully.](http://9gag.com/gag/adBo8oB)<!-- MEMES:END -->
 
 ---
 
