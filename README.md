@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
- - ⏩ [I gotcha back](http://9gag.com/gag/aqyYj9v)
- - 👉 [Oh well](http://9gag.com/gag/a9yOEw6)<!-- MEMES:END -->
+ - 💣 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
+ - ⏩ [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
+ - 👉 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)<!-- MEMES:END -->
 
 ---
 
