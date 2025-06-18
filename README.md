@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ara: History Untold’s Biggest Update and First DLC Available Today for Xbox PC and Steam](https://news.xbox.com/en-us/2025/06/18/ara-history-untold-biggest-update-first-dlc-available-today/)
- - [Spider-Man: Animated Series’ notorious cliffhanger will be resolved in a new Marvel comic](https://www.polygon.com/marvel/607773/spider-man-animated-series-notorious-cliffhanger-will-be-resolved-in-a-new-marvel-comic)
- - [Death Stranding is getting a second movie adaptation](https://www.polygon.com/news/607716/death-stranding-animated-movie)<!-- GAME:END -->
+ - [Get Ready to Shred: New Details on Tony Hawk’s Pro Skater 3 + 4, Plus Play the Foundry Demo Today](https://www.tonyhawkthegame.com/blog/2025/06/tony-hawk-pro-skater-three-four-launch-ramp-up#new_tab)
+ - [WhatsApp really is good, so Meta&#39;s had enough of that and is now &#39;monetising the periphery&#39; with new ads that try to make it more like Instagram](https://www.pcgamer.com/gaming-industry/whatsapp-really-is-good-so-metas-had-enough-of-that-and-is-now-monetising-the-periphery-with-new-ads-that-try-to-make-it-more-like-instagram/)
+ - [Elon Musk&#39;s latest gaming take is ruthlessly mocked by Bioshock fans: &#39;Probably thinks Andrew Ryan was the hero&#39;](https://www.pcgamer.com/games/elon-musks-latest-gaming-take-is-ruthlessly-mocked-by-bioshock-fans-probably-thinks-andrew-ryan-was-the-hero/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
