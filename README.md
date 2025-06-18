@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nothing Phone 3’s surprise chipset announcement is actually great news. Here’s why](https://www.androidauthority.com/nothing-phone-3-surprise-chipset-great-news-why-3568285/)
- - [The European Commission accuses Chinese marketplace AliExpress of failing to tackle illegal products on its platform, in preliminary findings under the DSA &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250618/p10#a250618p10)
- - [Samsung could charge for new Health features, but would you hit subscribe?](https://www.androidauthority.com/samsung-health-subscription-open-thread-3568577/)<!-- TECH:END -->
+ - [Google’s compact look for Gemini Live isn’t even out, and it’s already getting better &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-overlay-3568499/)
+ - [Nothing Headphone 1 price leaks, and it’s cheaper than Apple, Sony’s best](https://www.androidauthority.com/nothing-headphone-1-price-leak-3568583/)
+ - [AWS says Anthropic&#39;s Claude Opus 4 launched on its Trainium2 GPUs, and Project Rainier, AWS&#39; supercomputer built for Anthropic, uses 500K+ Trainium2 chips &lpar;Kristina Partsinevelos/CNBC&rpar;](http://www.techmeme.com/250618/p12#a250618p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
