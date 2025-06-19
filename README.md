@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam is adding screen reader support and other accessibility tools](https://www.theverge.com/games/689922/steam-is-adding-screen-reader-support-and-other-accessibility-tools)
- - [AI residencies are trying to change the conversation around artificial art](https://www.theverge.com/ai-artificial-intelligence/689693/ai-art-residencies-get-artists-using-generative-tech)
- - [Don’t give me hope: Spotify’s long-awaited lossless tier shows signs of life again](https://www.androidauthority.com/spotify-lossless-leaks-once-again-3569043/)<!-- TECH:END -->
+ - [FBC: Firebreak is missing Control’s weird charm](https://www.theverge.com/games-review/689333/fbc-firebreak-review-xbox-ps5-steam)
+ - [Here are the price-matching policies for Best Buy, GameStop, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
+ - [Nothing Phone 3 says goodbye to Glyph Interface, hello to Glyph Matrix](https://www.androidauthority.com/nothing-phone-3-glyph-matrix-teaser-3569071/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
