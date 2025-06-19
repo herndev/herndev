@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PlayStation&#39;s attempt to summarize the plot of Death Stranding in six minutes is heroic and doomed](https://www.pcgamer.com/games/action/playstations-attempt-to-summarize-the-plot-of-death-stranding-in-six-minutes-is-heroic-and-doomed/)
  - [10 years later, no one has replicated Rocket League&#39;s mojo](https://www.pcgamer.com/games/sports/10-years-later-no-one-has-replicated-rocket-leagues-mojo/)
- - [How to maximize Money Fronts profits in GTA Online](https://www.pcgamer.com/games/grand-theft-auto/gta-online-money-fronts-guide-maximize-profits/)
- - [Sword of the Sea fuses Journey with Tony Hawk to make a pro skater game that feels as good as it looks](https://www.pcgamer.com/games/action/sword-of-the-sea-fuses-journey-with-tony-hawk-to-make-a-pro-skater-game-that-feels-as-good-as-it-looks/)<!-- GAME:END -->
+ - [How to maximize Money Fronts profits in GTA Online](https://www.pcgamer.com/games/grand-theft-auto/gta-online-money-fronts-guide-maximize-profits/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
