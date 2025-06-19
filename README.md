@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Miami-based Payabli, which provides software companies with an embedded payments platform, raised a $28M Series B led by Fika Ventures and QED Investors &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250619/p34#a250619p34)
  - [Decade-old &#39;Shot on iPhone&#39; ad campaign awarded at Cannes Lions](https://appleinsider.com/articles/25/06/19/decade-old-shot-on-iphone-ad-campaign-awarded-at-cannes-lions?utm_medium=rss)
- - [Samsung Galaxy S25 FE leak points to thinner bezels](https://www.androidauthority.com/samsung-galaxy-s25-fe-first-look-3569328/)
- - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)<!-- TECH:END -->
+ - [Seattle Sounders vs. Atlético Madrid From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/seattle-sounders-vs-atletico-madrid-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
