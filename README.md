@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Someone robbed $1.4 million worth of Nintendo Switch 2 consoles and disappeared in thin air](https://www.androidauthority.com/nintendo-switch-2-heist-3568936/)
- - [Samsung is trying to figure out why it lost Pixel 10 chip production, but we all know why](https://www.androidauthority.com/samsung-pixel-chip-analysis-3568913/)
- - [A look at the lack of consensus in the tech industry on what AGI is, whether LLMs are the best path to it, and what AGI might look like if or when it arrives &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250619/p9#a250619p9)<!-- TECH:END -->
+ - [An interview with Craig Federighi on the journey to iPadOS&#39; new windowing system and menu bar, the iPad&#39;s essence as a &quot;magical piece of glass&quot;, and more &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/250619/p11#a250619p11)
+ - [This simple app lets you run your Steam games on Android, no streaming required](https://www.androidauthority.com/gamenative-play-steam-games-android-3568963/)
+ - [MIT researchers unveil Self-Adapting LLMs, a framework that enables LLMs to keep improving by generating their own training data based on the input received &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250619/p10#a250619p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
