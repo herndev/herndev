@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 💣 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
  - ⏩ [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
+ - 👉 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)<!-- MEMES:END -->
 
 ---
 
