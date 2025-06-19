@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)
+ - 💣 [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
  - ⏩ [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [Sold!](http://9gag.com/gag/apRYRj9)<!-- MEMES:END -->
+ - 👉 [Proven Locks](http://9gag.com/gag/a87K79p)<!-- MEMES:END -->
 
 ---
 
