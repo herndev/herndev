@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Claw machine deckbuilder Dungeon Clawler grabbed my attention](https://www.polygon.com/gaming/607727/dungeon-clawler-roguelike-recommendation)
  - [Switch 2’s non-Nintendo games are flopping for so many reasons](https://www.polygon.com/608015/nintendo-switch-2-third-party-game-sales)
- - [How to complete ‘Skillet’s Scheme’ in Fortnite](https://www.polygon.com/fortnite-guide/607991/skillets-scheme-how-to-complete-quest)
- - [OpenAI supremo Sam Altman says he &#39;doesn&#39;t know how&#39; he would have taken care of his baby without the help of ChatGPT](https://www.pcgamer.com/software/ai/openai-supremo-sam-altman-says-he-doesnt-know-how-he-would-have-taken-care-of-his-baby-without-the-help-of-chatgpt/)<!-- GAME:END -->
+ - [How to complete ‘Skillet’s Scheme’ in Fortnite](https://www.polygon.com/fortnite-guide/607991/skillets-scheme-how-to-complete-quest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
