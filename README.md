@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)
- - [Spotify may finally let you import music without jumping through hoops &lpar;APK teardown&rpar;](https://www.androidauthority.com/spotify-import-music-tool-3569226/)
- - [Will Android ‘App Cast’ let you stream apps from device to device? &lpar;APK teardown&rpar;](https://www.androidauthority.com/app-cast-3569244/)<!-- TECH:END -->
+ - [Decade-old &#39;Shot on iPhone&#39; ad campaign awarded at Cannes Lions](https://appleinsider.com/articles/25/06/19/decade-old-shot-on-iphone-ad-campaign-awarded-at-cannes-lions?utm_medium=rss)
+ - [Samsung Galaxy S25 FE leak points to thinner bezels](https://www.androidauthority.com/samsung-galaxy-s25-fe-first-look-3569328/)
+ - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
