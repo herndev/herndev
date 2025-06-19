@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/a9yOyb6)
- - ⏩ [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
- - 👉 [The daily commute struggle is real, and apparently involves Mario.](http://9gag.com/gag/aByO2bZ)<!-- MEMES:END -->
+ - 💣 [CVS Worker](http://9gag.com/gag/a5QqQ4g)
+ - ⏩ [God Damn](http://9gag.com/gag/aQzOXN7)
+ - 👉 [Florence granting a last wish](http://9gag.com/gag/aZZznm6)<!-- MEMES:END -->
 
 ---
 
