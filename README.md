@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOJ files to seize $225 million in crypto from scammers](https://www.theverge.com/news/689956/doj-tether-cryptocurrency-investment-pig-butchering-scam-seizure)
- - [Samsung’s next foldables look crazy thin in this new leak](https://www.androidauthority.com/galaxy-z-fold-7-flip-7-colors-3569094/)
- - [Eero’s speedy Pro 6E mesh system is on sale with a gift card for $200 off](https://www.theverge.com/tech/689687/eero-6e-router-system-anker-six-port-desktop-charger-deal-sale)<!-- TECH:END -->
+ - [Apple won&#39;t be fined right away if it misses EU anti-steering compliance deadline](https://appleinsider.com/articles/25/06/19/apple-wont-be-fined-right-away-if-it-misses-eu-anti-steering-compliance-deadline?utm_medium=rss)
+ - [European satellite company Eutelsat raised €1.35B, including €717M from France, to build out its fleet of satellites to rival Starlink; France&#39;s stake is ~30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250619/p29#a250619p29)
+ - [Midjourney launches an AI video generator](https://www.theverge.com/news/690055/midjourney-ai-video-generator-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
