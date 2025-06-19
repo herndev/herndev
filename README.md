@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As the possibility of war looms in the Middle East, clips of Arma 3 and War Thunder are being used as propaganda, and even the Israeli military&#39;s having to clarify &#39;the footage is fake&#39;](https://www.pcgamer.com/games/as-the-possibility-of-war-looms-in-the-middle-east-clips-of-arma-3-and-war-thunder-are-being-used-as-propaganda-and-even-the-israeli-militarys-having-to-clarify-the-footage-is-fake/)
- - [After a disastrous patch day, Hunt: Showdown 1896&#39;s 2.4 update is live for real now](https://www.pcgamer.com/games/fps/after-a-disastrous-patch-day-hunt-showdown-1896s-2-4-update-is-live-for-real-now/)
- - [Hitchcock’s only R-rated movies are on Netflix and make a wild double feature](https://www.polygon.com/608082/psycho-netflix-frenzy-alfred-hitchcock-r-rated-movies)<!-- GAME:END -->
+ - [Fortnite’s new mode is perfect for iPhone and terrible for Apple](https://www.polygon.com/impressions/608094/epics-biggest-flex-on-apple-a-killer-fortnite-mode-for-phones)
+ - [All Monoco outfits in Clair Obscur: Expedition 33 and how to unlock them](https://www.polygon.com/clair-obscur-expedition-33-guides/607830/monoco-outfits-hairstyles-all-how-to-unlock)
+ - [All Lune outfits in Clair Obscur: Expedition 33 and how to unlock them](https://www.polygon.com/clair-obscur-expedition-33-guides/607765/lune-outfits-hairstyles-all-how-to-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
