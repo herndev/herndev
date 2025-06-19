@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, June 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-19-2025/)
  - [PlayStation&#39;s attempt to summarize the plot of Death Stranding in six minutes is heroic and doomed](https://www.pcgamer.com/games/action/playstations-attempt-to-summarize-the-plot-of-death-stranding-in-six-minutes-is-heroic-and-doomed/)
- - [10 years later, no one has replicated Rocket League&#39;s mojo](https://www.pcgamer.com/games/sports/10-years-later-no-one-has-replicated-rocket-leagues-mojo/)
- - [How to maximize Money Fronts profits in GTA Online](https://www.pcgamer.com/games/grand-theft-auto/gta-online-money-fronts-guide-maximize-profits/)<!-- GAME:END -->
+ - [10 years later, no one has replicated Rocket League&#39;s mojo](https://www.pcgamer.com/games/sports/10-years-later-no-one-has-replicated-rocket-leagues-mojo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
