@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe launches a new ‘computational photography’ camera app for iPhones](https://www.theverge.com/news/690115/adobe-project-indigo-camera-app-marc-levoy)
- - [Miami-based Pelico, which offers a supply chain orchestration platform, raised a $40M Series B led by General Catalyst, bringing its total funding to $72M &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250619/p33#a250619p33)
- - [iPhone &#39;Flip&#39;: The Apple Foldable Is Still Rumored To Come in 2026](https://www.cnet.com/tech/mobile/the-changes-are-subtle-but-could-fundamentally-change-the-way-a-lot-of-small-businesses-operate-moving-forward/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)
+ - [Spotify may finally let you import music without jumping through hoops &lpar;APK teardown&rpar;](https://www.androidauthority.com/spotify-import-music-tool-3569226/)
+ - [Will Android ‘App Cast’ let you stream apps from device to device? &lpar;APK teardown&rpar;](https://www.androidauthority.com/app-cast-3569244/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
