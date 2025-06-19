@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sold!](http://9gag.com/gag/apRYRj9)
+ - 💣 [The golden days](http://9gag.com/gag/aGyOE4n)
  - ⏩ [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [Is it ?](http://9gag.com/gag/awyYgBR)<!-- MEMES:END -->
+ - 👉 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)<!-- MEMES:END -->
 
 ---
 
