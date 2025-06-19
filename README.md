@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer magazine&#39;s new issue is on sale now: Painkiller](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-painkiller/)
  - [Elden Ring Nightreign&#39;s first enhanced boss just dropped out of nowhere, and there&#39;s an extremely useful new NPC too](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-first-enhanced-boss-just-dropped-out-of-nowhere-and-theres-an-extremely-useful-new-npc-too/)
- - [Today&#39;s Wordle answer for Thursday, June 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-19-2025/)
- - [PlayStation&#39;s attempt to summarize the plot of Death Stranding in six minutes is heroic and doomed](https://www.pcgamer.com/games/action/playstations-attempt-to-summarize-the-plot-of-death-stranding-in-six-minutes-is-heroic-and-doomed/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, June 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-19-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
