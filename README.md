@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Summer Game Fest’s best games were small and personal](https://www.theverge.com/games/689708/summer-game-fests-best-games-were-small-and-personal)
- - [Fleet, which offers open-source device management tools for OSes, various networks, VPNs, and more, raised a $27M Series B led by Ten Eleven Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250619/p22#a250619p22)
- - [Punch-hole camera, under-screen Face ID still expected with iPhone 18 Pro](https://appleinsider.com/articles/25/06/19/punch-hole-camera-under-screen-face-id-still-expected-with-iphone-18-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Steam is adding screen reader support and other accessibility tools](https://www.theverge.com/games/689922/steam-is-adding-screen-reader-support-and-other-accessibility-tools)
+ - [AI residencies are trying to change the conversation around artificial art](https://www.theverge.com/ai-artificial-intelligence/689693/ai-art-residencies-get-artists-using-generative-tech)
+ - [Don’t give me hope: Spotify’s long-awaited lossless tier shows signs of life again](https://www.androidauthority.com/spotify-lossless-leaks-once-again-3569043/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
