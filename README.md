@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proven Locks](http://9gag.com/gag/a87K79p)
+ - 💣 [The golden days](http://9gag.com/gag/aGyOE4n)
  - ⏩ [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [Genius move](http://9gag.com/gag/a4PW6z1)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
 
 ---
 
