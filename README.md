@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to delete an Instagram account in iOS 26](https://appleinsider.com/inside/iphone/tips/how-to-delete-an-instagram-account-in-ios-16?utm_medium=rss)
- - [OpenAI warns that its upcoming models could pose a higher risk of enabling the creation of biological weapons and says it is stepping up testing of such models &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250618/p45#a250618p45)
- - [Huge TV deal: This 75-inch Toshiba 4K smart TV is only $399.99!](https://www.androidauthority.com/toshiba-75-inch-class-c350-series-led-4k-uhd-smart-fire-tv-deal-3568858/)<!-- TECH:END -->
+ - [Scale AI emphasizes that it remains an independent company and says Meta will not have access to Scale&#39;s internal systems or customers&#39; confidential information &lpar;Scale AI&rpar;](http://www.techmeme.com/250619/p3#a250619p3)
+ - [Scale AI&#39;s rivals like Snorkel AI, Labelbox, and Turing report rising interest from clients concerned about Scale&#39;s independence after Meta&#39;s $14.3B investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/250619/p2#a250619p2)
+ - [Careem, Uber&#39;s ride-hailing MENA arm, will suspend its decade-old Pakistan service on July 18, citing economic challenges, competition, and capital constraints &lpar;Ariba Shahid/Reuters&rpar;](http://www.techmeme.com/250619/p1#a250619p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
