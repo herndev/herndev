@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
- - ⏩ [James was trying to warn us back then.](http://9gag.com/gag/aqyYyPL)
- - 👉 [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/aD2O7AZ)<!-- MEMES:END -->
+ - 💣 [Biker stops female hit n runner](http://9gag.com/gag/ae974jW)
+ - ⏩ [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)
+ - 👉 [The golden days](http://9gag.com/gag/aGyOE4n)<!-- MEMES:END -->
 
 ---
 
