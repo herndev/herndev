@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
+ - 💣 [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)
  - ⏩ [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [The golden days](http://9gag.com/gag/aGyOE4n)<!-- MEMES:END -->
+ - 👉 [Sold!](http://9gag.com/gag/apRYRj9)<!-- MEMES:END -->
 
 ---
 
