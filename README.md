@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitchcock’s only R-rated movies are on Netflix and make a wild double feature](https://www.polygon.com/608082/psycho-netflix-frenzy-alfred-hitchcock-r-rated-movies)
- - [Dune: Awakening AMA promises changes coming to PvP: &#39;We want the experience to be reliable, responsive, and clearly understood&#39;](https://www.pcgamer.com/games/survival-crafting/dune-awakening-ama-promises-changes-coming-to-pvp-we-want-the-experience-to-be-reliable-responsive-and-clearly-understood/)
- - [Claw machine deckbuilder Dungeon Clawler grabbed my attention](https://www.polygon.com/gaming/607727/dungeon-clawler-roguelike-recommendation)<!-- GAME:END -->
+ - [As the possibility of war looms in the Middle East, clips of Arma 3 and War Thunder are being used as propaganda, and even the Israeli military&#39;s having to clarify &#39;the footage is fake&#39;](https://www.pcgamer.com/games/as-the-possibility-of-war-looms-in-the-middle-east-clips-of-arma-3-and-war-thunder-are-being-used-as-propaganda-and-even-the-israeli-militarys-having-to-clarify-the-footage-is-fake/)
+ - [After a disastrous patch day, Hunt: Showdown 1896&#39;s 2.4 update is live for real now](https://www.pcgamer.com/games/fps/after-a-disastrous-patch-day-hunt-showdown-1896s-2-4-update-is-live-for-real-now/)
+ - [Hitchcock’s only R-rated movies are on Netflix and make a wild double feature](https://www.polygon.com/608082/psycho-netflix-frenzy-alfred-hitchcock-r-rated-movies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
