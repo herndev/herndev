@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [CVS Worker](http://9gag.com/gag/a5QqQ4g)
- - ⏩ [God Damn](http://9gag.com/gag/aQzOXN7)
- - 👉 [Florence granting a last wish](http://9gag.com/gag/aZZznm6)<!-- MEMES:END -->
+ - 💣 [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
+ - ⏩ [James was trying to warn us back then.](http://9gag.com/gag/aqyYyPL)
+ - 👉 [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/aD2O7AZ)<!-- MEMES:END -->
 
 ---
 
