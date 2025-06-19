@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [10 years later, no one has replicated Rocket League&#39;s mojo](https://www.pcgamer.com/games/sports/10-years-later-no-one-has-replicated-rocket-leagues-mojo/)
  - [How to maximize Money Fronts profits in GTA Online](https://www.pcgamer.com/games/grand-theft-auto/gta-online-money-fronts-guide-maximize-profits/)
- - [Sword of the Sea fuses Journey with Tony Hawk to make a pro skater game that feels as good as it looks](https://www.pcgamer.com/games/action/sword-of-the-sea-fuses-journey-with-tony-hawk-to-make-a-pro-skater-game-that-feels-as-good-as-it-looks/)
- - [World of Warcraft players are convinced Blizzard is dropping hints about a major update to a 9-year-old class](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-players-are-convinced-blizzard-is-dropping-hints-about-a-major-update-to-a-9-year-old-class/)<!-- GAME:END -->
+ - [Sword of the Sea fuses Journey with Tony Hawk to make a pro skater game that feels as good as it looks](https://www.pcgamer.com/games/action/sword-of-the-sea-fuses-journey-with-tony-hawk-to-make-a-pro-skater-game-that-feels-as-good-as-it-looks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
