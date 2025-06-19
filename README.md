@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [9 beginner’s tips before you start playing Rematch](https://www.polygon.com/guides/607583/rematch-beginners-tips-before-you-start)
  - [&#39;Couldn&#39;t afford a PC so I drew one&#39; says one Redditor after drawing a God-tier cel shaded case mod for his kids to play Minecraft on](https://www.pcgamer.com/hardware/pc-cases/couldnt-afford-a-pc-so-i-drew-one-says-one-redditor-after-drawing-a-god-tier-cel-shaded-case-mod-for-his-kids-to-play-minecraft-on/)
- - [PC Gamer magazine&#39;s new issue is on sale now: Painkiller](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-painkiller/)
- - [Elden Ring Nightreign&#39;s first enhanced boss just dropped out of nowhere, and there&#39;s an extremely useful new NPC too](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-first-enhanced-boss-just-dropped-out-of-nowhere-and-theres-an-extremely-useful-new-npc-too/)<!-- GAME:END -->
+ - [PC Gamer magazine&#39;s new issue is on sale now: Painkiller](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-painkiller/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
