@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
+ - 💣 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)
  - ⏩ [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)<!-- MEMES:END -->
+ - 👉 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)<!-- MEMES:END -->
 
 ---
 
