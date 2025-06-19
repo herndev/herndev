@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [An incredible act of kindness leads to well-deserved recognition. Leading with heart.](http://9gag.com/gag/aGyOLM0)
  - ⏩ [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)<!-- MEMES:END -->
+ - 👉 [The golden days](http://9gag.com/gag/aGyOE4n)<!-- MEMES:END -->
 
 ---
 
