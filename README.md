@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI is changing ChatGPT Enterprise&#39;s pricing structure to include a credits system, moving from a fixed price, to give companies more leeway &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250619/p19#a250619p19)
- - [A new study of 14 open-source LLMs: larger models use exponentially more energy and produce more greenhouse gas emissions, but do not always give better answers &lpar;Sachi Kitajima Mulkey/New York Times&rpar;](http://www.techmeme.com/250619/p18#a250619p18)
- - [I tried to replace my aging Pixelbook with an iPad on iPadOS 26; here’s how it went](https://www.androidauthority.com/hands-on-with-ipados-26-as-a-mini-laptop-replacement-3567856/)<!-- TECH:END -->
+ - [Summer Game Fest’s best games were small and personal](https://www.theverge.com/games/689708/summer-game-fests-best-games-were-small-and-personal)
+ - [Fleet, which offers open-source device management tools for OSes, various networks, VPNs, and more, raised a $27M Series B led by Ten Eleven Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250619/p22#a250619p22)
+ - [Punch-hole camera, under-screen Face ID still expected with iPhone 18 Pro](https://appleinsider.com/articles/25/06/19/punch-hole-camera-under-screen-face-id-still-expected-with-iphone-18-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
