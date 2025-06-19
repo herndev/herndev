@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Claw machine deckbuilder Dungeon Clawler grabbed my attention](https://www.polygon.com/gaming/607727/dungeon-clawler-roguelike-recommendation)
- - [Switch 2’s non-Nintendo games are flopping for so many reasons](https://www.polygon.com/608015/nintendo-switch-2-third-party-game-sales)
- - [How to complete ‘Skillet’s Scheme’ in Fortnite](https://www.polygon.com/fortnite-guide/607991/skillets-scheme-how-to-complete-quest)<!-- GAME:END -->
+ - [Hitchcock’s only R-rated movies are on Netflix and make a wild double feature](https://www.polygon.com/608082/psycho-netflix-frenzy-alfred-hitchcock-r-rated-movies)
+ - [Dune: Awakening AMA promises changes coming to PvP: &#39;We want the experience to be reliable, responsive, and clearly understood&#39;](https://www.pcgamer.com/games/survival-crafting/dune-awakening-ama-promises-changes-coming-to-pvp-we-want-the-experience-to-be-reliable-responsive-and-clearly-understood/)
+ - [Claw machine deckbuilder Dungeon Clawler grabbed my attention](https://www.polygon.com/gaming/607727/dungeon-clawler-roguelike-recommendation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
