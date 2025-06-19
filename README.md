@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iran&#39;s largest crypto exchange Nobitex says it was hacked, and pro-Israel group Predatory Sparrow claims responsibility; Elliptic: $90M+ was stolen and &quot;burned&quot; &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250618/p43#a250618p43)
- - [Meta is adding support for passkeys on Facebook&#39;s iOS and Android apps &quot;soon&quot;, and will begin rolling out passkeys to Messenger &quot;in the coming months&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250618/p42#a250618p42)
- - [Save $250 on the Samsung Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-9-3568859/)<!-- TECH:END -->
+ - [Huge TV deal: This 75-inch Toshiba 4K smart TV is only $399.99!](https://www.androidauthority.com/toshiba-75-inch-class-c350-series-led-4k-uhd-smart-fire-tv-deal-3568858/)
+ - [Multiplier, which acquires accounting services firms and scales them with AI, raised $27.5M across a seed and Series A, with the latter led by Lightspeed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250618/p44#a250618p44)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
