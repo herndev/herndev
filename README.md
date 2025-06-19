@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FBC: Firebreak is missing Control’s weird charm](https://www.theverge.com/games-review/689333/fbc-firebreak-review-xbox-ps5-steam)
- - [Here are the price-matching policies for Best Buy, GameStop, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [Nothing Phone 3 says goodbye to Glyph Interface, hello to Glyph Matrix](https://www.androidauthority.com/nothing-phone-3-glyph-matrix-teaser-3569071/)<!-- TECH:END -->
+ - [Snag Apple&#39;s M4 Mac mini for $469 in early Prime Day price war](https://appleinsider.com/articles/25/06/19/snag-apples-m4-mac-mini-for-469-in-early-prime-day-price-war?utm_medium=rss)
+ - [Gemini Space is coming to Pixel phones, and it could be Google’s take on Samsung’s Now Bar](https://www.androidauthority.com/pixel-gemini-space-leak-3569136/)
+ - [The secondhand Switch 2 market is already a minefield of bricked consoles](https://www.androidauthority.com/used-nintendo-switch-2-bricked-3569050/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
