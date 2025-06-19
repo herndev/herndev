@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eufy&amp;#8217;s X10 Pro Omni mopping robovac has returned to its best price to date](https://www.theverge.com/tech/689275/eufy-x10-pro-omni-mopping-robot-vacuum-deal-sale)
- - [The Irish Data Protection Commission says Meta told it that WhatsApp ads &quot;won&#39;t be launching&quot; in the EU &quot;until 2026&quot;; WhatsApp says ads are coming &quot;gradually&quot; &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250619/p31#a250619p31)
- - [Files by Google is getting a little more of that Material 3 Expressive flair &lpar;APK teardown&rpar;](https://www.androidauthority.com/files-material-3-expressive-3569163/)<!-- TECH:END -->
+ - [Tesla&#39;s robotaxi service will launch in Austin with just ~10 cars that are geofenced to avoid complex intersections and monitored by backup teleoperators &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250619/p32#a250619p32)
+ - [Spotify&amp;#8217;s HiFi lossless streaming might really, finally, actually be coming soon](https://www.theverge.com/news/690107/spotify-lossless-streaming-hifi-music-pro-spicetify)
+ - [Files iPadOS 26 vs iPadOS 18: Refinements &amp; speed improvements make Files actually usable](https://appleinsider.com/inside/ipados-26/vs/files-ipados-26-vs-ipados-18-refinements-speed-improvements-make-files-actually-usable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
