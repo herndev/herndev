@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag Apple&#39;s M4 Mac mini for $469 in early Prime Day price war](https://appleinsider.com/articles/25/06/19/snag-apples-m4-mac-mini-for-469-in-early-prime-day-price-war?utm_medium=rss)
- - [Gemini Space is coming to Pixel phones, and it could be Google’s take on Samsung’s Now Bar](https://www.androidauthority.com/pixel-gemini-space-leak-3569136/)
- - [The secondhand Switch 2 market is already a minefield of bricked consoles](https://www.androidauthority.com/used-nintendo-switch-2-bricked-3569050/)<!-- TECH:END -->
+ - [DOJ files to seize $225 million in crypto from scammers](https://www.theverge.com/news/689956/doj-tether-cryptocurrency-investment-pig-butchering-scam-seizure)
+ - [Samsung’s next foldables look crazy thin in this new leak](https://www.androidauthority.com/galaxy-z-fold-7-flip-7-colors-3569094/)
+ - [Eero’s speedy Pro 6E mesh system is on sale with a gift card for $200 off](https://www.theverge.com/tech/689687/eero-6e-router-system-anker-six-port-desktop-charger-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
