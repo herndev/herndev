@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Dead by Daylight, Headbangers: Rhythm Royale, Trailmakers and Synduality Echo of Ada](https://news.xbox.com/en-us/2025/06/19/free-play-days-06-19-2025/)
- - [The Nintendo Console Launches, Ranked From Worst To Best](https://kotaku.com/nintendo-switch-2-console-launch-wii-gamecube-nes-snes-1851784781)
- - [A player-made Libra deals cheat sheet for Elden Ring Nightreign reveals when you should and shouldn&#39;t make a deal with the goat devil](https://www.pcgamer.com/games/rpg/a-player-made-libra-deals-cheat-sheet-for-elden-ring-nightreign-reveals-when-you-should-and-shouldnt-make-a-deal-with-the-goat-devil/)<!-- GAME:END -->
+ - [Raidou Reborn: How Atlus’ Newest Detective RPG Is So Much More than a Remaster](https://news.xbox.com/en-us/2025/06/19/raidou-shin-megami-tensei-remaster/)
+ - [Turtle Beach Stealth 600 &lpar;Gen 3&rpar; review](https://www.pcgamer.com/hardware/gaming-headsets/turtle-beach-stealth-600-gen-3-review/)
+ - [My new favorite budget gaming keyboard proves the best gaming keebs don&#39;t have to be $200 enthusiast slabs of switches](https://www.pcgamer.com/hardware/gaming-keyboards/my-new-favorite-budget-gaming-keyboard-proves-the-best-gaming-keebs-dont-have-to-be-usd200-enthusiast-slabs-of-switches/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
