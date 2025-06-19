@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Shark Movies to Sink Your Teeth Into &lpar;That Aren’t Jaws&rpar;](https://kotaku.com/jaws-50th-anniversary-sharknado-the-meg-open-water-bait-1851784734)
- - [The Switch 2’s Joy-Con controllers are a step up in &lpar;almost&rpar; every way](https://www.polygon.com/review/607759/joy-con-2-nintendo-switch-2)
- - [Intel claims 18A, the node Pat bet the company on, is either 25% faster or 38% more efficient than Intel 3. Though that&#39;s a node Intel didn&#39;t have enough faith in to release for desktops or laptops](https://www.pcgamer.com/hardware/processors/intel-claims-18a-the-node-pat-bet-the-company-on-is-either-25-percent-faster-or-38-percent-more-efficient-than-intel-3-though-thats-a-node-intel-didnt-have-enough-faith-in-to-release-for-desktops-or-laptops/)<!-- GAME:END -->
+ - [Xbox and AMD: Advancing the Next Generation of Gaming Together](https://news.xbox.com/en-us/2025/06/19/xbox-amd-next-generation-xbox/)
+ - [Tips For Playing The Magic: the Gathering x Final Fantasy VII Commander Deck](https://kotaku.com/magic-the-gathering-mtg-final-fantasy-7-cloud-tifa-1851784756)
+ - [Elden Ring Nightreign just got harder](https://www.polygon.com/news/607966/elden-ring-nightreign-update-everdark-sovereign)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
