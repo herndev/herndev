@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox and AMD: Advancing the Next Generation of Gaming Together](https://news.xbox.com/en-us/2025/06/19/xbox-amd-next-generation-xbox/)
- - [Tips For Playing The Magic: the Gathering x Final Fantasy VII Commander Deck](https://kotaku.com/magic-the-gathering-mtg-final-fantasy-7-cloud-tifa-1851784756)
- - [Elden Ring Nightreign just got harder](https://www.polygon.com/news/607966/elden-ring-nightreign-update-everdark-sovereign)<!-- GAME:END -->
+ - [Free Play Days – Dead by Daylight, Headbangers: Rhythm Royale, Trailmakers and Synduality Echo of Ada](https://news.xbox.com/en-us/2025/06/19/free-play-days-06-19-2025/)
+ - [The Nintendo Console Launches, Ranked From Worst To Best](https://kotaku.com/nintendo-switch-2-console-launch-wii-gamecube-nes-snes-1851784781)
+ - [A player-made Libra deals cheat sheet for Elden Ring Nightreign reveals when you should and shouldn&#39;t make a deal with the goat devil](https://www.pcgamer.com/games/rpg/a-player-made-libra-deals-cheat-sheet-for-elden-ring-nightreign-reveals-when-you-should-and-shouldnt-make-a-deal-with-the-goat-devil/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
