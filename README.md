@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Raidou Reborn: How Atlus’ Newest Detective RPG Is So Much More than a Remaster](https://news.xbox.com/en-us/2025/06/19/raidou-shin-megami-tensei-remaster/)
- - [Turtle Beach Stealth 600 &lpar;Gen 3&rpar; review](https://www.pcgamer.com/hardware/gaming-headsets/turtle-beach-stealth-600-gen-3-review/)
- - [My new favorite budget gaming keyboard proves the best gaming keebs don&#39;t have to be $200 enthusiast slabs of switches](https://www.pcgamer.com/hardware/gaming-keyboards/my-new-favorite-budget-gaming-keyboard-proves-the-best-gaming-keebs-dont-have-to-be-usd200-enthusiast-slabs-of-switches/)<!-- GAME:END -->
+ - [Switch 2’s non-Nintendo games are flopping for so many reasons](https://www.polygon.com/608015/nintendo-switch-2-third-party-game-sales)
+ - [How to complete ‘Skillet’s Scheme’ in Fortnite](https://www.polygon.com/fortnite-guide/607991/skillets-scheme-how-to-complete-quest)
+ - [OpenAI supremo Sam Altman says he &#39;doesn&#39;t know how&#39; he would have taken care of his baby without the help of ChatGPT](https://www.pcgamer.com/software/ai/openai-supremo-sam-altman-says-he-doesnt-know-how-he-would-have-taken-care-of-his-baby-without-the-help-of-chatgpt/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
