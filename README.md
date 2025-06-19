@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scale AI emphasizes that it remains an independent company and says Meta will not have access to Scale&#39;s internal systems or customers&#39; confidential information &lpar;Scale AI&rpar;](http://www.techmeme.com/250619/p3#a250619p3)
- - [Scale AI&#39;s rivals like Snorkel AI, Labelbox, and Turing report rising interest from clients concerned about Scale&#39;s independence after Meta&#39;s $14.3B investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/250619/p2#a250619p2)
- - [Careem, Uber&#39;s ride-hailing MENA arm, will suspend its decade-old Pakistan service on July 18, citing economic challenges, competition, and capital constraints &lpar;Ariba Shahid/Reuters&rpar;](http://www.techmeme.com/250619/p1#a250619p1)<!-- TECH:END -->
+ - [SoftBank-backed Spotter, which fronts cash to YouTubers for a cut of revenue, is facing significant challenges due to YouTube&#39;s shift toward Shorts, and more &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/250619/p6#a250619p6)
+ - [This new foldable will outslim the Galaxy Z Fold 7, and it’s launching first!](https://www.androidauthority.com/honor-magic-v5-launch-date-3568911/)
+ - [Report: Google&#39;s move from Samsung to TSMC for the Tensor G5 chip in the upcoming Pixel 10 series was a &quot;shock&quot; and a wake-up call for Samsung&#39;s foundry efforts &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250619/p5#a250619p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
