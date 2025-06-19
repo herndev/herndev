@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the final form of success.](http://9gag.com/gag/azxY29m)
+ - 💣 [Proven Locks](http://9gag.com/gag/a87K79p)
  - ⏩ [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)<!-- MEMES:END -->
+ - 👉 [Genius move](http://9gag.com/gag/a4PW6z1)<!-- MEMES:END -->
 
 ---
 
