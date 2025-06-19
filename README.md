@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 💣 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
  - ⏩ [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)<!-- MEMES:END -->
+ - 👉 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)<!-- MEMES:END -->
 
 ---
 
