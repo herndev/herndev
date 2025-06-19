@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US State Department restarts student visa interviews and requires all applicants to make their social media accounts public for vetting by US embassies &lpar;Washington Post&rpar;](http://www.techmeme.com/250618/p40#a250618p40)
- - [Samsung Galaxy S25 Edge hits a new record-low price!](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-4-3567963/)
- - [16 billion logins discovered across exposed datasets, but don&#39;t panic](https://appleinsider.com/articles/25/06/18/16-billion-logins-discovered-across-exposed-datasets-but-dont-panic?utm_medium=rss)<!-- TECH:END -->
+ - [Save $250 on the Samsung Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-9-3568859/)
+ - [Wix acquires Base44, which lets users build apps from text prompts, for $80M; Base44 was founded by a solo entrepreneur six months ago and employs six people &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/250618/p41#a250618p41)
+ - [I&#39;m Talking Back to Google&#39;s New Search Live Mode for AI Convos About Big Events](https://www.cnet.com/tech/mobile/im-talking-back-to-googles-new-search-live-mode-for-ai-convos-about-big-events/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
