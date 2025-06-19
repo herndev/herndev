@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An incredible act of kindness leads to well-deserved recognition. Leading with heart.](http://9gag.com/gag/aGyOLM0)
+ - 💣 [Proven Locks](http://9gag.com/gag/a87K79p)
  - ⏩ [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [The golden days](http://9gag.com/gag/aGyOE4n)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
 
 ---
 
