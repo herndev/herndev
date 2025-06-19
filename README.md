@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s new mode is perfect for iPhone and terrible for Apple](https://www.polygon.com/impressions/608094/epics-biggest-flex-on-apple-a-killer-fortnite-mode-for-phones)
- - [All Monoco outfits in Clair Obscur: Expedition 33 and how to unlock them](https://www.polygon.com/clair-obscur-expedition-33-guides/607830/monoco-outfits-hairstyles-all-how-to-unlock)
- - [All Lune outfits in Clair Obscur: Expedition 33 and how to unlock them](https://www.polygon.com/clair-obscur-expedition-33-guides/607765/lune-outfits-hairstyles-all-how-to-unlock)<!-- GAME:END -->
+ - [Stellaris updates are going to start coming more slowly, because new patches are causing new problems and QA testers can&#39;t keep up](https://www.pcgamer.com/games/strategy/stellaris-updates-are-going-to-start-coming-more-slowly-because-new-patches-are-causing-new-problems-and-qa-testers-cant-keep-up/)
+ - [Rematch launched without crossplay because of &#39;unforeseen technical complexities&#39; and Sloclap is sorry, but it&#39;s a hit on Steam anyway](https://www.pcgamer.com/games/sports/rematch-launched-without-crossplay-because-of-unforeseen-technical-complexities-and-sloclap-is-sorry-but-its-a-hit-on-steam-anyway/)
+ - [World of Warcraft dataminers dug up its biggest boss ever: A new 3,806-foot-tall horror who could crush its capital cities in one step](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-dataminers-dug-up-its-biggest-boss-ever-a-new-3-806-foot-tall-horror-who-could-crush-its-capital-cities-in-one-step/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
