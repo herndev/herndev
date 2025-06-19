@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to delete an Instagram account in iOS 26](https://appleinsider.com/inside/iphone/tips/how-to-delete-an-instagram-account-in-ios-16?utm_medium=rss)
  - [OpenAI warns that its upcoming models could pose a higher risk of enabling the creation of biological weapons and says it is stepping up testing of such models &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250618/p45#a250618p45)
- - [Huge TV deal: This 75-inch Toshiba 4K smart TV is only $399.99!](https://www.androidauthority.com/toshiba-75-inch-class-c350-series-led-4k-uhd-smart-fire-tv-deal-3568858/)
- - [Multiplier, which acquires accounting services firms and scales them with AI, raised $27.5M across a seed and Series A, with the latter led by Lightspeed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250618/p44#a250618p44)<!-- TECH:END -->
+ - [Huge TV deal: This 75-inch Toshiba 4K smart TV is only $399.99!](https://www.androidauthority.com/toshiba-75-inch-class-c350-series-led-4k-uhd-smart-fire-tv-deal-3568858/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
