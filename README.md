@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hunt: Showdown 1896 goes offline for a day after its latest update caused so many problems Crytek had to remove it completely](https://www.pcgamer.com/games/fps/hunt-showdown-1896-goes-offline-for-a-day-after-its-latest-update-caused-so-many-problems-crytek-had-to-remove-it-completely/)
- - [Hideo Kojima says the Clair Obscur: Expedition 33 development team is his &#39;ideal&#39; size: &#39;They only have like 33 team members and a dog&#39;](https://www.pcgamer.com/gaming-industry/hideo-kojima-says-the-clair-obscur-expedition-33-development-team-is-his-ideal-size-they-only-have-like-33-team-members-and-a-dog/)
- - [What is Blitz Royale in Fortnite?](https://www.polygon.com/fortnite-guide/607902/blitz-royale-explained-what-is-full-schedule)<!-- GAME:END -->
+ - [How to maximize Money Fronts profits in GTA Online](https://www.pcgamer.com/games/grand-theft-auto/gta-online-money-fronts-guide-maximize-profits/)
+ - [Sword of the Sea fuses Journey with Tony Hawk to make a pro skater game that feels as good as it looks](https://www.pcgamer.com/games/action/sword-of-the-sea-fuses-journey-with-tony-hawk-to-make-a-pro-skater-game-that-feels-as-good-as-it-looks/)
+ - [World of Warcraft players are convinced Blizzard is dropping hints about a major update to a 9-year-old class](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-players-are-convinced-blizzard-is-dropping-hints-about-a-major-update-to-a-9-year-old-class/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
