@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [9 beginner’s tips before you start playing Rematch](https://www.polygon.com/guides/607583/rematch-beginners-tips-before-you-start)
- - [&#39;Couldn&#39;t afford a PC so I drew one&#39; says one Redditor after drawing a God-tier cel shaded case mod for his kids to play Minecraft on](https://www.pcgamer.com/hardware/pc-cases/couldnt-afford-a-pc-so-i-drew-one-says-one-redditor-after-drawing-a-god-tier-cel-shaded-case-mod-for-his-kids-to-play-minecraft-on/)
- - [PC Gamer magazine&#39;s new issue is on sale now: Painkiller](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-painkiller/)<!-- GAME:END -->
+ - [How to unlock Peter Pan in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-peter-pan-unlock/)
+ - [XCOM 2 is $2.40, and its excellent DLC War of the Chosen ain&#39;t far off—making the all-time tactical strategy great cheaper than takeout](https://www.pcgamer.com/games/strategy/xcom-2-is-usd2-40-and-its-excellent-dlc-war-of-the-chosen-aint-far-off-making-the-all-time-tactical-strategy-great-cheaper-than-takeout/)
+ - [9 beginner’s tips before you start playing Rematch](https://www.polygon.com/guides/607583/rematch-beginners-tips-before-you-start)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
