@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An MIT study of 54 ChatGPT users: using it for SAT essays led to the lowest brain engagement and poorer neural performance than using Google or writing unaided &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/250619/p15#a250619p15)
- - [A look at China&#39;s efforts to grow its &quot;low-altitude economy&quot;, or airspace below 1,000 meters, by leveraging its strengths in drone production and R&amp;D &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250619/p14#a250619p14)
- - [As a Pixel fan, I tried the new iPhone app made by Google’s camera team, and it’s fantastic](https://www.androidauthority.com/indigo-camera-app-hands-on-3568751/)<!-- TECH:END -->
+ - [Source: OpenAI is changing ChatGPT Enterprise&#39;s pricing structure to include a credits system, moving from a fixed price, to give companies more leeway &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250619/p19#a250619p19)
+ - [A new study of 14 open-source LLMs: larger models use exponentially more energy and produce more greenhouse gas emissions, but do not always give better answers &lpar;Sachi Kitajima Mulkey/New York Times&rpar;](http://www.techmeme.com/250619/p18#a250619p18)
+ - [I tried to replace my aging Pixelbook with an iPad on iPadOS 26; here’s how it went](https://www.androidauthority.com/hands-on-with-ipados-26-as-a-mini-laptop-replacement-3567856/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
