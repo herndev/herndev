@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock Peter Pan in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-peter-pan-unlock/)
- - [XCOM 2 is $2.40, and its excellent DLC War of the Chosen ain&#39;t far off—making the all-time tactical strategy great cheaper than takeout](https://www.pcgamer.com/games/strategy/xcom-2-is-usd2-40-and-its-excellent-dlc-war-of-the-chosen-aint-far-off-making-the-all-time-tactical-strategy-great-cheaper-than-takeout/)
- - [9 beginner’s tips before you start playing Rematch](https://www.polygon.com/guides/607583/rematch-beginners-tips-before-you-start)<!-- GAME:END -->
+ - [Intel claims 18A, the node Pat bet the company on, is either 25% faster or 38% more efficient than Intel 3. Though that&#39;s a node Intel didn&#39;t have enough faith in to release for desktops or laptops](https://www.pcgamer.com/hardware/processors/intel-claims-18a-the-node-pat-bet-the-company-on-is-either-25-percent-faster-or-38-percent-more-efficient-than-intel-3-though-thats-a-node-intel-didnt-have-enough-faith-in-to-release-for-desktops-or-laptops/)
+ - [Return to Silent Hill finally has a release date, and there&#39;s not long left to wait now](https://www.pcgamer.com/movies-tv/return-to-silent-hill-finally-has-a-release-date-and-theres-not-long-left-to-wait-now/)
+ - [How to unlock Peter Pan in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-peter-pan-unlock/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
