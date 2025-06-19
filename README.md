@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
+ - 💣 [Gesichert R\u00e4\u00e4chts](http://9gag.com/gag/apRY3gB)
  - ⏩ [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [Proven Locks](http://9gag.com/gag/a87K79p)<!-- MEMES:END -->
+ - 👉 [Does anyone else think george martin is just lazy?](http://9gag.com/gag/aD2O7mw)<!-- MEMES:END -->
 
 ---
 
