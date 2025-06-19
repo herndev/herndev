@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Someone robbed $1.4 million worth of Nintendo Switch 2 consoles and disappeared in thin air](https://www.androidauthority.com/nintendo-switch-2-heist-3568936/)
  - [Samsung is trying to figure out why it lost Pixel 10 chip production, but we all know why](https://www.androidauthority.com/samsung-pixel-chip-analysis-3568913/)
- - [A look at the lack of consensus in the tech industry on what AGI is, whether LLMs are the best path to it, and what AGI might look like if or when it arrives &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250619/p9#a250619p9)
- - [Study: US kids who said their social media, phone, or video game use was &quot;addictive&quot; were 2x-3x more likely to have thoughts of suicide or self-harm by age 14 &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250619/p8#a250619p8)<!-- TECH:END -->
+ - [A look at the lack of consensus in the tech industry on what AGI is, whether LLMs are the best path to it, and what AGI might look like if or when it arrives &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250619/p9#a250619p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
