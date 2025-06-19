@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Craig Federighi on the journey to iPadOS&#39; new windowing system and menu bar, the iPad&#39;s essence as a &quot;magical piece of glass&quot;, and more &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/250619/p11#a250619p11)
- - [This simple app lets you run your Steam games on Android, no streaming required](https://www.androidauthority.com/gamenative-play-steam-games-android-3568963/)
- - [MIT researchers unveil Self-Adapting LLMs, a framework that enables LLMs to keep improving by generating their own training data based on the input received &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250619/p10#a250619p10)<!-- TECH:END -->
+ - [An MIT study of 54 ChatGPT users: using it for SAT essays led to the lowest brain engagement and poorer neural performance than using Google or writing unaided &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/250619/p15#a250619p15)
+ - [A look at China&#39;s efforts to grow its &quot;low-altitude economy&quot;, or airspace below 1,000 meters, by leveraging its strengths in drone production and R&amp;D &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250619/p14#a250619p14)
+ - [As a Pixel fan, I tried the new iPhone app made by Google’s camera team, and it’s fantastic](https://www.androidauthority.com/indigo-camera-app-hands-on-3568751/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
