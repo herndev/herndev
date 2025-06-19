@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple won&#39;t be fined right away if it misses EU anti-steering compliance deadline](https://appleinsider.com/articles/25/06/19/apple-wont-be-fined-right-away-if-it-misses-eu-anti-steering-compliance-deadline?utm_medium=rss)
- - [European satellite company Eutelsat raised €1.35B, including €717M from France, to build out its fleet of satellites to rival Starlink; France&#39;s stake is ~30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250619/p29#a250619p29)
- - [Midjourney launches an AI video generator](https://www.theverge.com/news/690055/midjourney-ai-video-generator-launch)<!-- TECH:END -->
+ - [Eufy&amp;#8217;s X10 Pro Omni mopping robovac has returned to its best price to date](https://www.theverge.com/tech/689275/eufy-x10-pro-omni-mopping-robot-vacuum-deal-sale)
+ - [The Irish Data Protection Commission says Meta told it that WhatsApp ads &quot;won&#39;t be launching&quot; in the EU &quot;until 2026&quot;; WhatsApp says ads are coming &quot;gradually&quot; &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250619/p31#a250619p31)
+ - [Files by Google is getting a little more of that Material 3 Expressive flair &lpar;APK teardown&rpar;](https://www.androidauthority.com/files-material-3-expressive-3569163/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
