@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess he was cut off.](http://9gag.com/gag/aYQAEGq)
- - ⏩ [Let&#39;s see if the empowered feminist want to take this job](http://9gag.com/gag/a6ZjZr8)
- - 👉 [Random](http://9gag.com/gag/awyYgo8)<!-- MEMES:END -->
+ - 💣 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
+ - ⏩ [The only solution](http://9gag.com/gag/aYQAOeV)
+ - 👉 [Challenge Accepted!](http://9gag.com/gag/aPA1mDV)<!-- MEMES:END -->
 
 ---
 
