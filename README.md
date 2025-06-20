@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for June 23 to 27](https://news.xbox.com/en-us/2025/06/20/next-week-on-xbox-new-games-for-june-23-to-27/)
- - [What Would Flynn Do? Making Disney’s Tron: Catalyst the Right Way](https://news.xbox.com/en-us/2025/06/20/tron-catalyst/)
- - [AMD just mentioned an as yet unreleased Ryzen X3D chip that could become the budget gaming CPU of champions](https://www.pcgamer.com/hardware/processors/amd-just-mentioned-an-as-yet-unreleased-ryzen-x3d-chip-that-could-become-the-budget-gaming-cpu-of-champions/)<!-- GAME:END -->
+ - [Elden Ring Nightreign Players Who Thought They Could Finally Walk Away Are Getting Demolished But Its Surprise New Boss](https://kotaku.com/elden-ring-nightreign-gaping-jaw-everdark-sovereign-1851784820)
+ - [Honkai: Star Rail 3.4 livestream codes](https://www.polygon.com/honkai-star-rail-guides/608023/3-4-livestream-codes-redeem-stellar-jade)
+ - [Wikipedia Is The Latest Place To Join The Daily Gaming Craze](https://kotaku.com/wikipedia-game-wordle-new-york-times-daily-puzzles-1851784815)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
