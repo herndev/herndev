@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [“A Minecraft Movie” Now Streaming on Max](https://www.max.com/movies/minecraft-movie/05eee581-3112-4515-b17f-219ff6265ef8#new_tab)
- - [Oblivion is a very funny game but the Skyblivion remake may not be, and you can blame the quality of Skyrim&#39;s &#39;streamlined&#39; engine for that](https://www.pcgamer.com/games/rpg/oblivion-is-a-very-funny-game-but-the-skyblivion-remake-may-not-be-and-you-can-blame-the-quality-of-skyrims-streamlined-engine-for-that/)
- - [Final Fantasy 14 to finally be playable thanks to new hat technology](https://www.polygon.com/news/608333/final-fantasy-14-hrothgar-viera-headgear)<!-- GAME:END -->
+ - [Final Destination: Bloodlines, A Minecraft Movie, Love Me, and every movie new to streaming this weekend](https://www.polygon.com/movies/608170/what-to-watch-this-weekend-6-20-2025-final-destination-bloodlines-a-minecraft-movie)
+ - [Baldur&#39;s Gate 3 Karlach actor Samantha Béart was initially turned down for roles like &#39;Goblin 49,&#39; but 2 years later they were hired &#39;within a day&#39; of their audition as &#39;the muscle mummy we know and love&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-karlach-actor-samantha-beart-was-initially-turned-down-for-roles-like-goblin-49-but-2-years-later-they-were-hired-within-a-day-of-their-audition-as-the-muscle-mummy-we-know-and-love/)
+ - [Monster Hunter Wilds has been hit by over 2,000 negative Steam reviews in the last week as players lose hope that Capcom will fix its egregious performance issues](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-has-been-hit-by-over-2-000-negative-steam-reviews-in-the-last-week-as-players-lose-hope-that-capcom-will-fix-its-egregious-performance-issues/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
