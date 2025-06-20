@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The pilot&#39;s office view at night](http://9gag.com/gag/ae974wq)
- - ⏩ [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
- - 👉 [Bro is in a league of his own. That gal not even comes close. A true chameleon \ud83c\udfad](http://9gag.com/gag/a1mEN9b)<!-- MEMES:END -->
+ - 💣 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
+ - ⏩ [Be one step ahead](http://9gag.com/gag/agmEm6K)
+ - 👉 [Math joke](http://9gag.com/gag/avydyzM)<!-- MEMES:END -->
 
 ---
 
