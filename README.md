@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GOG says it won&#39;t repeat its ill-fated Daggerfall GOG Cut with its new one-click modding program, not least because it can send more than one message a day to modders now](https://www.pcgamer.com/software/platforms/gog-says-it-wont-repeat-its-ill-fated-daggerfall-gog-cut-with-its-new-one-click-modding-program-not-least-because-it-can-send-more-than-one-message-a-day-to-modders-now/)
- - [&#39;We just kept geeking out&#39;: Skyblivion devs were invited to Bethesda HQ and ended up spending the whole day talking about modding with the team and Todd Howard](https://www.pcgamer.com/games/the-elder-scrolls/we-just-kept-geeking-out-skyblivion-devs-were-invited-to-bethesda-hq-and-ended-up-spending-the-whole-day-talking-about-modding-with-the-team-and-todd-howard/)
- - [Oblivion&#39;s dungeons suck, Skyblivion is making them better: &#39;That&#39;s where the power of a proper remake comes from&#39;](https://www.pcgamer.com/games/the-elder-scrolls/oblivions-dungeons-suck-skyblivion-is-making-them-better-thats-where-the-power-of-a-proper-remake-comes-from/)<!-- GAME:END -->
+ - [What Would Flynn Do? Making Disney’s Tron: Catalyst the Right Way](https://news.xbox.com/en-us/2025/06/20/tron-catalyst/)
+ - [AMD just mentioned an as yet unreleased Ryzen X3D chip that could become the budget gaming CPU of champions](https://www.pcgamer.com/hardware/processors/amd-just-mentioned-an-as-yet-unreleased-ryzen-x3d-chip-that-could-become-the-budget-gaming-cpu-of-champions/)
+ - [Final Fantasy 14 is making it easier to enter its latest dungeon so you can stop spending half an hour playing &#39;instance gacha&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-is-making-it-easier-to-enter-its-latest-dungeon-so-you-can-stop-spending-half-an-hour-playing-instance-gacha/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
