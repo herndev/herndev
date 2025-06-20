@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter to CEO Aravind Srinivas, the BBC says it has evidence Perplexity&#39;s default model used its content and seeks &quot;a proposal for financial compensation&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250620/p1#a250620p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 20, #270](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-20-270/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, June 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s upcoming earthquake warning system goes beyond what Google offers](https://www.androidauthority.com/samsung-galaxy-earthquake-warning-3569372/)
+ - [Here’s My Experience With 5 Cheap Gadgets I Bought From AliExpress](https://www.cnet.com/home/smart-home/experience-buying-cheap-gadgets-from-aliexpress/#ftag=CAD590a51e)
+ - [In a letter to CEO Aravind Srinivas, the BBC says it has evidence Perplexity&#39;s default model used its content and seeks &quot;a proposal for financial compensation&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250620/p1#a250620p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
