@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
- - ⏩ [Soon](http://9gag.com/gag/axyYvZD)
- - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
+ - 💣 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
+ - ⏩ [Now f**k off and see you tomorrow](http://9gag.com/gag/ae97O5W)
+ - 👉 [Day 4 the stem of the right one gets dark and i think it will start to rotten. Bad News for the `life hack`](http://9gag.com/gag/a7op0vA)<!-- MEMES:END -->
 
 ---
 
