@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gangsta Rap](http://9gag.com/gag/agmEOyW)
- - ⏩ [The only solution](http://9gag.com/gag/aYQAOeV)
- - 👉 [British thoughts here..](http://9gag.com/gag/ae971Ev)<!-- MEMES:END -->
+ - 💣 [British thoughts here..](http://9gag.com/gag/ae971Ev)
+ - ⏩ [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
+ - 👉 [Advice For Single Men](http://9gag.com/gag/a1mE7D6)<!-- MEMES:END -->
 
 ---
 
