@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s SK Group and AWS will invest ~$5.1B including $4B from AWS to build a 100 MW AI data center in Ulsan by 2029, and plan to expand capacity to 1 GW &lpar;Reuters&rpar;](http://www.techmeme.com/250620/p5#a250620p5)
- - [Israeli authorities urge citizens to turn off home cameras, and say Iran is tapping into security cameras in Israel to gather real-time intelligence for attacks &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250620/p4#a250620p4)
- - [Best Internet Providers in Colorado Springs, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-colorado-springs-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Texas’ hands-off approach to autonomous vehicles gave Tesla an opening](https://www.theverge.com/tesla/689286/tesla-robotaxi-austin-texas-law-regulation-safety)
+ - [Sources: Foxconn and Nvidia are in talks to deploy humanoid robots at a new Foxconn factory in Houston by Q1 2026 to produce Nvidia AI servers &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250620/p6#a250620p6)
+ - [Can we trust Google Maps to get us anywhere anymore?](https://www.androidauthority.com/google-maps-lost-open-thread-3569494/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
