@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion&#39;s dungeons suck, Skyblivion is making them better: &#39;That&#39;s where the power of a proper remake comes from&#39;](https://www.pcgamer.com/games/the-elder-scrolls/oblivions-dungeons-suck-skyblivion-is-making-them-better-thats-where-the-power-of-a-proper-remake-comes-from/)
- - [FF14 &#39;stalker plugin&#39; PlayerScope shut down after creator says they were sent a cease &amp; desist—though that&#39;s not quite the end of it](https://www.pcgamer.com/games/final-fantasy/ff14-stalker-plugin-playerscope-shut-down-after-creator-says-they-were-sent-a-cease-and-desist-though-thats-not-quite-the-end-of-it/)
- - [These 7 games need a remaster, and they need it now](https://www.pcgamer.com/games/these-7-games-need-a-remaster-and-they-need-it-now/)<!-- GAME:END -->
+ - [GOG says it won&#39;t repeat its ill-fated Daggerfall GOG Cut with its new one-click modding program, not least because it can send more than one message a day to modders now](https://www.pcgamer.com/software/platforms/gog-says-it-wont-repeat-its-ill-fated-daggerfall-gog-cut-with-its-new-one-click-modding-program-not-least-because-it-can-send-more-than-one-message-a-day-to-modders-now/)
+ - [&#39;We just kept geeking out&#39;: Skyblivion devs were invited to Bethesda HQ and ended up spending the whole day talking about modding with the team and Todd Howard](https://www.pcgamer.com/games/the-elder-scrolls/we-just-kept-geeking-out-skyblivion-devs-were-invited-to-bethesda-hq-and-ended-up-spending-the-whole-day-talking-about-modding-with-the-team-and-todd-howard/)
+ - [Oblivion&#39;s dungeons suck, Skyblivion is making them better: &#39;That&#39;s where the power of a proper remake comes from&#39;](https://www.pcgamer.com/games/the-elder-scrolls/oblivions-dungeons-suck-skyblivion-is-making-them-better-thats-where-the-power-of-a-proper-remake-comes-from/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
