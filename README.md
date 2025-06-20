@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s upcoming earthquake warning system goes beyond what Google offers](https://www.androidauthority.com/samsung-galaxy-earthquake-warning-3569372/)
- - [Here’s My Experience With 5 Cheap Gadgets I Bought From AliExpress](https://www.cnet.com/home/smart-home/experience-buying-cheap-gadgets-from-aliexpress/#ftag=CAD590a51e)
- - [In a letter to CEO Aravind Srinivas, the BBC says it has evidence Perplexity&#39;s default model used its content and seeks &quot;a proposal for financial compensation&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250620/p1#a250620p1)<!-- TECH:END -->
+ - [Samsung Galaxy S25 Edge sales are going exactly how you expected](https://www.androidauthority.com/samsung-galaxy-s25-edge-sales-report-3569387/)
+ - [Cloudflare CEO Matthew Prince said Google&#39;s ratio of pages crawled per visitor sent to a publisher fell from 2:1 10 years ago to 6:1 six months ago to 18:1 now &lpar;Christine Wang/Axios&rpar;](http://www.techmeme.com/250620/p2#a250620p2)
+ - [Samsung’s upcoming earthquake warning system goes beyond what Google offers](https://www.androidauthority.com/samsung-galaxy-earthquake-warning-3569372/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
