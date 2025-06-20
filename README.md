@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Makes sense](http://9gag.com/gag/aE0O0DM)
- - ⏩ [Soon](http://9gag.com/gag/axyYvZD)
- - 👉 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)<!-- MEMES:END -->
+ - 💣 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
+ - ⏩ [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)
+ - 👉 [Math joke](http://9gag.com/gag/avydyzM)<!-- MEMES:END -->
 
 ---
 
