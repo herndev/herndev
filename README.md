@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go ‘Yamper’s Paw Prints’ event guide](https://www.polygon.com/pokemon-go-guide/608029/yampers-paw-prints-event-timed-research-premium)
  - [Stellaris updates are going to start coming more slowly, because new patches are causing new problems and QA testers can&#39;t keep up](https://www.pcgamer.com/games/strategy/stellaris-updates-are-going-to-start-coming-more-slowly-because-new-patches-are-causing-new-problems-and-qa-testers-cant-keep-up/)
- - [Rematch launched without crossplay because of &#39;unforeseen technical complexities&#39; and Sloclap is sorry, but it&#39;s a hit on Steam anyway](https://www.pcgamer.com/games/sports/rematch-launched-without-crossplay-because-of-unforeseen-technical-complexities-and-sloclap-is-sorry-but-its-a-hit-on-steam-anyway/)
- - [World of Warcraft dataminers dug up its biggest boss ever: A new 3,806-foot-tall horror who could crush its capital cities in one step](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-dataminers-dug-up-its-biggest-boss-ever-a-new-3-806-foot-tall-horror-who-could-crush-its-capital-cities-in-one-step/)<!-- GAME:END -->
+ - [Rematch launched without crossplay because of &#39;unforeseen technical complexities&#39; and Sloclap is sorry, but it&#39;s a hit on Steam anyway](https://www.pcgamer.com/games/sports/rematch-launched-without-crossplay-because-of-unforeseen-technical-complexities-and-sloclap-is-sorry-but-its-a-hit-on-steam-anyway/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
