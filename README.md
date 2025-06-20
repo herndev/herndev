@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, June 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-20-2025/)
- - [Eight minutes of footage from an unfinished open world D&amp;D game has leaked](https://www.pcgamer.com/games/rpg/eight-minutes-of-footage-from-an-unfinished-open-world-d-and-d-game-has-leaked/)
- - [Pokémon Go ‘Yamper’s Paw Prints’ event guide](https://www.polygon.com/pokemon-go-guide/608029/yampers-paw-prints-event-timed-research-premium)<!-- GAME:END -->
+ - [Oblivion&#39;s dungeons suck, Skyblivion is making them better: &#39;That&#39;s where the power of a proper remake comes from&#39;](https://www.pcgamer.com/games/the-elder-scrolls/oblivions-dungeons-suck-skyblivion-is-making-them-better-thats-where-the-power-of-a-proper-remake-comes-from/)
+ - [FF14 &#39;stalker plugin&#39; PlayerScope shut down after creator says they were sent a cease &amp; desist—though that&#39;s not quite the end of it](https://www.pcgamer.com/games/final-fantasy/ff14-stalker-plugin-playerscope-shut-down-after-creator-says-they-were-sent-a-cease-and-desist-though-thats-not-quite-the-end-of-it/)
+ - [These 7 games need a remaster, and they need it now](https://www.pcgamer.com/games/these-7-games-need-a-remaster-and-they-need-it-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
