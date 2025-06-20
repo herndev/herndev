@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seriously, What Is ‘Superintelligence’?](https://www.wired.com/story/uncanny-valley-podcast-superintelligence/)
- - [NYC announces new minimum-pay rules for rideshare drivers, settling on a 5% increase after Uber and Lyft strongly opposed a proposed 6.1% pay hike &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250620/p19#a250620p19)
- - [28 Years Later is a bleak fever dream with rage pumping through its veins](https://www.theverge.com/movie-reviews/689645/28-years-later-review)<!-- TECH:END -->
+ - [The best Apple deals you can shop ahead of Amazon Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
+ - [Google Pixel Stand &lpar;2nd Gen&rpar; deal: We’ve never seen it this cheap!](https://www.androidauthority.com/google-pixel-stand-2nd-gen-deal-3569727/)
+ - [Nothing Phone 1 gets a feature-packed encore before the final curtain falls](https://www.androidauthority.com/nothing-phone-1-update-june-2025-3569754/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
