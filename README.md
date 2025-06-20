@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Soon](http://9gag.com/gag/axyYvZD)
- - ⏩ [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 👉 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)<!-- MEMES:END -->
+ - 💣 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
+ - ⏩ [Soon](http://9gag.com/gag/axyYvZD)
+ - 👉 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)<!-- MEMES:END -->
 
 ---
 
