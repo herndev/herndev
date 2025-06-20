@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
+ - 💣 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
  - ⏩ [Soon](http://9gag.com/gag/axyYvZD)
- - 👉 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)<!-- MEMES:END -->
+ - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
 
 ---
 
