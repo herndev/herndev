@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, June 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-20-2025/)
  - [Eight minutes of footage from an unfinished open world D&amp;D game has leaked](https://www.pcgamer.com/games/rpg/eight-minutes-of-footage-from-an-unfinished-open-world-d-and-d-game-has-leaked/)
- - [Pokémon Go ‘Yamper’s Paw Prints’ event guide](https://www.polygon.com/pokemon-go-guide/608029/yampers-paw-prints-event-timed-research-premium)
- - [Stellaris updates are going to start coming more slowly, because new patches are causing new problems and QA testers can&#39;t keep up](https://www.pcgamer.com/games/strategy/stellaris-updates-are-going-to-start-coming-more-slowly-because-new-patches-are-causing-new-problems-and-qa-testers-cant-keep-up/)<!-- GAME:END -->
+ - [Pokémon Go ‘Yamper’s Paw Prints’ event guide](https://www.polygon.com/pokemon-go-guide/608029/yampers-paw-prints-event-timed-research-premium)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
