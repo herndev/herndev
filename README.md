@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Math joke](http://9gag.com/gag/avydyzM)
- - ⏩ [Be one step ahead](http://9gag.com/gag/agmEm6K)
- - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
+ - 💣 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - ⏩ [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
+ - 👉 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)<!-- MEMES:END -->
 
 ---
 
