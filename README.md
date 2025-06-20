@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Next Week on Xbox: New Games for June 23 to 27](https://news.xbox.com/en-us/2025/06/20/next-week-on-xbox-new-games-for-june-23-to-27/)
  - [What Would Flynn Do? Making Disney’s Tron: Catalyst the Right Way](https://news.xbox.com/en-us/2025/06/20/tron-catalyst/)
- - [AMD just mentioned an as yet unreleased Ryzen X3D chip that could become the budget gaming CPU of champions](https://www.pcgamer.com/hardware/processors/amd-just-mentioned-an-as-yet-unreleased-ryzen-x3d-chip-that-could-become-the-budget-gaming-cpu-of-champions/)
- - [Final Fantasy 14 is making it easier to enter its latest dungeon so you can stop spending half an hour playing &#39;instance gacha&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-is-making-it-easier-to-enter-its-latest-dungeon-so-you-can-stop-spending-half-an-hour-playing-instance-gacha/)<!-- GAME:END -->
+ - [AMD just mentioned an as yet unreleased Ryzen X3D chip that could become the budget gaming CPU of champions](https://www.pcgamer.com/hardware/processors/amd-just-mentioned-an-as-yet-unreleased-ryzen-x3d-chip-that-could-become-the-budget-gaming-cpu-of-champions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
