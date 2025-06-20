@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
- - ⏩ [The only solution](http://9gag.com/gag/aYQAOeV)
- - 👉 [Challenge Accepted!](http://9gag.com/gag/aPA1mDV)<!-- MEMES:END -->
+ - 💣 [The pilot&#39;s office view at night](http://9gag.com/gag/ae974wq)
+ - ⏩ [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 👉 [Bro is in a league of his own. That gal not even comes close. A true chameleon \ud83c\udfad](http://9gag.com/gag/a1mEN9b)<!-- MEMES:END -->
 
 ---
 
