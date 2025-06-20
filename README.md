@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gigabyte Radeon RX 9060 XT Review: Great Value Gaming](https://www.wired.com/review/amd-radeon-rx-9060-xt/)
- - [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)
- - [Five ways iPadOS 26 turns iPad into a productivity powerhouse](https://appleinsider.com/articles/25/06/20/five-ways-ipados-26-turns-ipad-into-a-productivity-powerhouse?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft is blocking Google Chrome through its family safety feature](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)
+ - [Tesla’s first robotaxi rides will have a ‘safety monitor’ in the passenger seat](https://www.theverge.com/news/690245/tesla-robotaxi-rides-launch-safety-monitor-passenger-seat)
+ - [T-Mobile may soon offer 36 month installment plans, versus the current 24-month default](https://www.androidauthority.com/t-mobile-36-month-installment-3569523/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
