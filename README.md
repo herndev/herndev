@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First day at work](http://9gag.com/gag/aRBOZj5)
- - ⏩ [When Mom&#39;s feeling adventurous and wants to ride down the slide:](http://9gag.com/gag/a6ZjDqm)
- - 👉 [Grass is all he needed](http://9gag.com/gag/an7rnqB)<!-- MEMES:END -->
+ - 💣 [The pilot&#39;s office view at night](http://9gag.com/gag/ae974wq)
+ - ⏩ [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
+ - 👉 [Makes sense](http://9gag.com/gag/aE0O0DM)<!-- MEMES:END -->
 
 ---
 
