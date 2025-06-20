@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta tried to buy Safe Superintelligence earlier this year; Zuckerberg moved to recruit SSI CEO Daniel Gross after Ilya Sutskever rebuffed the offer &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/250619/p35#a250619p35)
- - [It&#39;s not just you, Apple Intelligence is down](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)
- - [TikTok ban enforcement delayed another 90 days to September 17](https://appleinsider.com/articles/25/06/19/tiktok-ban-delayed-another-90-days-to-september-17?utm_medium=rss)<!-- TECH:END -->
+ - [Milan-based Jet HR, which provides all-in-one payroll and HR services to SMBs, raised €25M led by Base10 Partners, bringing its total funding to about €42M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250619/p36#a250619p36)
+ - [Hot deals: High-capacity power banks that are still portable](https://www.androidauthority.com/powkey-anker-grecell-battery-deals-3569270/)
+ - [PSG vs. Botafogo From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/psg-vs-botafogo-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
