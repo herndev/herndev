@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It wasn&#39;t just you, Apple Intelligence was down [u]](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)
- - [Apple MacBook Air M4 sale: Save $170 on the best laptop for most people!](https://www.androidauthority.com/apple-macbook-air-m4-deal-2-3569269/)
- - [A government-backed tech trial in Australia finds user age checks are technologically possible, clearing the way for a social media ban for under-16s this year &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/250619/p37#a250619p37)<!-- TECH:END -->
+ - [How to use Siri to get answers from ChatGPT](https://appleinsider.com/articles/25/02/11/how-to-use-siri-to-get-answers-from-chatgpt?utm_medium=rss)
+ - [Sources: Foxconn plans to make iPhone enclosures in India and is looking to set up a new unit in Tamil Nadu; only Tata is currently making enclosures in India &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/250619/p38#a250619p38)
+ - [It wasn&#39;t just you, Apple Intelligence was down [u]](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
