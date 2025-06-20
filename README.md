@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
- - ⏩ [Now f**k off and see you tomorrow](http://9gag.com/gag/ae97O5W)
- - 👉 [Day 4 the stem of the right one gets dark and i think it will start to rotten. Bad News for the `life hack`](http://9gag.com/gag/a7op0vA)<!-- MEMES:END -->
+ - 💣 [Slide](http://9gag.com/gag/a4PWzvp)
+ - ⏩ [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
+ - 👉 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)<!-- MEMES:END -->
 
 ---
 
