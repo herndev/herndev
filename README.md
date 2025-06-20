@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - ⏩ [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
- - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
+ - 💣 [Gangsta Rap](http://9gag.com/gag/agmEOyW)
+ - ⏩ [The only solution](http://9gag.com/gag/aYQAOeV)
+ - 👉 [British thoughts here..](http://9gag.com/gag/ae971Ev)<!-- MEMES:END -->
 
 ---
 
