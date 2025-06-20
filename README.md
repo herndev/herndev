@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slide](http://9gag.com/gag/a4PWzvp)
- - ⏩ [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
- - 👉 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)<!-- MEMES:END -->
+ - 💣 [See, not a problem. We do not need censored stuff.](http://9gag.com/gag/a34b5Y8)
+ - ⏩ [First day at work](http://9gag.com/gag/aRBOZj5)
+ - 👉 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)<!-- MEMES:END -->
 
 ---
 
