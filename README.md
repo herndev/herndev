@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klarna is making an unexpected move into the mobile carrier space](https://www.androidauthority.com/klarna-announces-mobile-plan-3569534/)
- - [3 Best Thermal Brush, Tested and Reviewed by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/best-thermal-brush/)
- - [What Lt. Col. Boz and a Band of Tech Exec Brothers Will Do in the Army](https://www.wired.com/story/what-lt-col-boz-and-big-techs-enlisted-execs-will-do-in-the-army/)<!-- TECH:END -->
+ - [The eufy Omni E28 is a handy 2-in-1 robot vacuum and deep cleaner](https://www.androidauthority.com/eufy-robot-vacuum-omni-e28-review-3560169/)
+ - [Silicon Valley is pushing senators to follow the House in reviving a favorable tax benefit that disappeared because of a US tax law Section 174 change in 2017 &lpar;Axios&rpar;](http://www.techmeme.com/250620/p11#a250620p11)
+ - [How to find the best deals during Amazon’s four-day Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
