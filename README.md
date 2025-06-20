@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart World fans are bagging races in a fight for last place](https://www.polygon.com/nintendo-switch-2/608274/mario-kart-world-sandbagging-strategy-how-it-works-nintendo-switch-2)
- - [All Scale-Bearing Merchant deals and choices in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/608308/scale-bearing-merchant-deals-choices-all)
- - [007 First Light: All the key details on IO Interactive&#39;s upcoming stealth action game](https://www.pcgamer.com/games/action/007-first-light-guide/)<!-- GAME:END -->
+ - [“A Minecraft Movie” Now Streaming on Max](https://www.max.com/movies/minecraft-movie/05eee581-3112-4515-b17f-219ff6265ef8#new_tab)
+ - [Oblivion is a very funny game but the Skyblivion remake may not be, and you can blame the quality of Skyrim&#39;s &#39;streamlined&#39; engine for that](https://www.pcgamer.com/games/rpg/oblivion-is-a-very-funny-game-but-the-skyblivion-remake-may-not-be-and-you-can-blame-the-quality-of-skyrims-streamlined-engine-for-that/)
+ - [Final Fantasy 14 to finally be playable thanks to new hat technology](https://www.polygon.com/news/608333/final-fantasy-14-hrothgar-viera-headgear)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
