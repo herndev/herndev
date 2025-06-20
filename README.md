@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [007 First Light: All the key details on IO Interactive&#39;s upcoming stealth action game](https://www.pcgamer.com/games/action/007-first-light-guide/)
- - [Grounded 2: All the key details on the shrunken survival-crafter](https://www.pcgamer.com/games/survival-crafting/grounded-2-guide/)
- - [Balatro creator gets &#39;a taste of my own medicine&#39; as he struggles in vain to score the game&#39;s hardest achievement](https://www.pcgamer.com/games/balatro-creator-gets-a-taste-of-my-own-medicine-as-he-struggles-in-vain-to-score-the-games-hardest-achievement/)<!-- GAME:END -->
+ - [Mario Kart World fans are bagging races in a fight for last place](https://www.polygon.com/nintendo-switch-2/608274/mario-kart-world-sandbagging-strategy-how-it-works-nintendo-switch-2)
+ - [All Scale-Bearing Merchant deals and choices in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/608308/scale-bearing-merchant-deals-choices-all)
+ - [007 First Light: All the key details on IO Interactive&#39;s upcoming stealth action game](https://www.pcgamer.com/games/action/007-first-light-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
