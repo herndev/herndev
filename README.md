@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The pilot&#39;s office view at night](http://9gag.com/gag/ae974wq)
- - ⏩ [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
- - 👉 [Makes sense](http://9gag.com/gag/aE0O0DM)<!-- MEMES:END -->
+ - 💣 [Makes sense](http://9gag.com/gag/aE0O0DM)
+ - ⏩ [Soon](http://9gag.com/gag/axyYvZD)
+ - 👉 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)<!-- MEMES:END -->
 
 ---
 
