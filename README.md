@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trump extends TikTok sale deadline in the US yet again, leaving the whole situation feeling &#39;less like a ticking clock and more like a looped ringtone… political Groundhog Day&#39;](https://www.pcgamer.com/gaming-industry/trump-extends-tiktok-sale-deadline-in-the-us-yet-again-leaving-the-whole-situation-feeling-less-like-a-ticking-clock-and-more-like-a-looped-ringtone-political-groundhog-day/)
- - [I&#39;ve already found the best fishing game in Steam&#39;s Fishing Fest, Scale the Depths, which lets you feed fish to Nessie in Loch Ness and hunt for the mythic Beithir](https://www.pcgamer.com/games/ive-already-found-the-best-fishing-game-in-steams-fishing-fest-scale-the-depths-which-lets-you-feed-fish-to-nessie-in-loch-ness-and-hunt-for-the-mythic-beithir/)
- - [Sprite + Tea Review: This Crap Needs To Be Outlawed](https://kotaku.com/sprite-tea-review-is-it-good-soda-taste-spritetea-1851784841)<!-- GAME:END -->
+ - [007 First Light: All the key details on IO Interactive&#39;s upcoming stealth action game](https://www.pcgamer.com/games/action/007-first-light-guide/)
+ - [Grounded 2: All the key details on the shrunken survival-crafter](https://www.pcgamer.com/games/survival-crafting/grounded-2-guide/)
+ - [Balatro creator gets &#39;a taste of my own medicine&#39; as he struggles in vain to score the game&#39;s hardest achievement](https://www.pcgamer.com/games/balatro-creator-gets-a-taste-of-my-own-medicine-as-he-struggles-in-vain-to-score-the-games-hardest-achievement/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
