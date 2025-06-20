@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)
- - ⏩ [Soon](http://9gag.com/gag/axyYvZD)
- - 👉 [Miss Polonia pageant. No diversity at all. I hope for #7 to win](http://9gag.com/gag/a0eMoKQ)<!-- MEMES:END -->
+ - 💣 [Soon](http://9gag.com/gag/axyYvZD)
+ - ⏩ [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 👉 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)<!-- MEMES:END -->
 
 ---
 
