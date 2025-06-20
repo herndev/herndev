@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Reddit is exploring Tools for Humanity&#39;s World ID identity system to allow users to verify that they are unique individuals while remaining anonymous &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250620/p12#a250620p12)
- - [The Linkind EP6 Smart Hexagon Panels turn boring walls into amazing light shows](https://www.androidauthority.com/linkind-ep6-smart-hexagon-panels-review-3568907/)
- - [Do athletes need smart glasses? Meta and Oakley think so](https://www.androidauthority.com/oakley-meta-hstn-ai-glasses-3569598/)<!-- TECH:END -->
+ - [Grab Apple&#39;s 1TB M4 MacBook Pro for $1,599 during month-end sale](https://appleinsider.com/articles/25/06/20/grab-apples-1tb-m4-macbook-pro-for-1599-during-month-end-sale?utm_medium=rss)
+ - [Check out Pixel’s new AI Mode home screen shortcut &lpar;Update: Rolling out widely&rpar;](https://www.androidauthority.com/pixel-launcher-ai-mode-shortcut-apk-3564577/)
+ - [This Galaxy Z Fold 7 dummy puts its ultra-thin design into perspective](https://www.androidauthority.com/samsung-galaxy-z-fold-7-dummy-video-3569653/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
