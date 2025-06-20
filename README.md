@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple devices in EU getting repair scores &amp; battery life labels](https://appleinsider.com/articles/25/06/20/apple-devices-in-eu-getting-repair-scores-battery-life-labels?utm_medium=rss)
- - [Uber expands its data-labeling platform Uber AI Solutions to 30 countries, and adds new offerings like tools for developing AI agents and ready-to-use datasets &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250620/p17#a250620p17)
- - [AirPods &amp; AirPods Pro in iOS 26 hands on: Camera control, new notifications, and more](https://appleinsider.com/articles/25/06/20/airpods-airpods-pro-in-ios-26-hands-on-camera-control-new-notifications-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Seriously, What Is ‘Superintelligence’?](https://www.wired.com/story/uncanny-valley-podcast-superintelligence/)
+ - [NYC announces new minimum-pay rules for rideshare drivers, settling on a 5% increase after Uber and Lyft strongly opposed a proposed 6.1% pay hike &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250620/p19#a250620p19)
+ - [28 Years Later is a bleak fever dream with rage pumping through its veins](https://www.theverge.com/movie-reviews/689645/28-years-later-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
