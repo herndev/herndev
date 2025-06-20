@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Texas’ hands-off approach to autonomous vehicles gave Tesla an opening](https://www.theverge.com/tesla/689286/tesla-robotaxi-austin-texas-law-regulation-safety)
- - [Sources: Foxconn and Nvidia are in talks to deploy humanoid robots at a new Foxconn factory in Houston by Q1 2026 to produce Nvidia AI servers &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250620/p6#a250620p6)
- - [Can we trust Google Maps to get us anywhere anymore?](https://www.androidauthority.com/google-maps-lost-open-thread-3569494/)<!-- TECH:END -->
+ - [Gigabyte Radeon RX 9060 XT Review: Great Value Gaming](https://www.wired.com/review/amd-radeon-rx-9060-xt/)
+ - [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)
+ - [Five ways iPadOS 26 turns iPad into a productivity powerhouse](https://appleinsider.com/articles/25/06/20/five-ways-ipados-26-turns-ipad-into-a-productivity-powerhouse?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
