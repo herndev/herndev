@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8 could give screenshots an HDR glow-up that was missing from betas](https://www.androidauthority.com/one-ui-8-hdr-screenshots-closed-beta-3569415/)
- - [Nothing Headphone 1 images leak, showing a retro-futuristic cassette-inspired look](https://www.androidauthority.com/nothing-headphone-1-images-leak-3569402/)
- - [Best Internet Providers in Tampa, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tampa-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gemini’s new video analysis feature is here, but there’s more coming &lpar;Updated: Widely rolling out&rpar;](https://www.androidauthority.com/gemini-new-video-analysis-feature-3568561/)
+ - [Thought Z Fold 7 renders were hot? Here’s a look at the actual thinnest foldable in the world](https://www.androidauthority.com/honor-magic-v5-images-3569421/)
+ - [I’ve reviewed phones for 10 years. The Galaxy Z Fold 7 may be the first foldable I actually buy](https://www.androidauthority.com/galaxy-z-fold-7-first-foldable-phone-i-might-buy-3569102/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
