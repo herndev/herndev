@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 Edge sales are going exactly how you expected](https://www.androidauthority.com/samsung-galaxy-s25-edge-sales-report-3569387/)
- - [Cloudflare CEO Matthew Prince said Google&#39;s ratio of pages crawled per visitor sent to a publisher fell from 2:1 10 years ago to 6:1 six months ago to 18:1 now &lpar;Christine Wang/Axios&rpar;](http://www.techmeme.com/250620/p2#a250620p2)
- - [Samsung’s upcoming earthquake warning system goes beyond what Google offers](https://www.androidauthority.com/samsung-galaxy-earthquake-warning-3569372/)<!-- TECH:END -->
+ - [One UI 8 could give screenshots an HDR glow-up that was missing from betas](https://www.androidauthority.com/one-ui-8-hdr-screenshots-closed-beta-3569415/)
+ - [Nothing Headphone 1 images leak, showing a retro-futuristic cassette-inspired look](https://www.androidauthority.com/nothing-headphone-1-images-leak-3569402/)
+ - [Best Internet Providers in Tampa, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tampa-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
