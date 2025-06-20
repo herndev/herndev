@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
- - ⏩ [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
- - 👉 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)<!-- MEMES:END -->
+ - 💣 [Math joke](http://9gag.com/gag/avydyzM)
+ - ⏩ [Be one step ahead](http://9gag.com/gag/agmEm6K)
+ - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
 
 ---
 
