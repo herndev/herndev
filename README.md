@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a letter to CEO Aravind Srinivas, the BBC says it has evidence Perplexity&#39;s default model used its content and seeks &quot;a proposal for financial compensation&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250620/p1#a250620p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 20, #270](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-20-270/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, June 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-20/#ftag=CAD590a51e)
- - [How to use Siri to get answers from ChatGPT](https://appleinsider.com/articles/25/02/11/how-to-use-siri-to-get-answers-from-chatgpt?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, June 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-20/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
