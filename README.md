@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign Players Who Thought They Could Finally Walk Away Are Getting Demolished But Its Surprise New Boss](https://kotaku.com/elden-ring-nightreign-gaping-jaw-everdark-sovereign-1851784820)
- - [Honkai: Star Rail 3.4 livestream codes](https://www.polygon.com/honkai-star-rail-guides/608023/3-4-livestream-codes-redeem-stellar-jade)
- - [Wikipedia Is The Latest Place To Join The Daily Gaming Craze](https://kotaku.com/wikipedia-game-wordle-new-york-times-daily-puzzles-1851784815)<!-- GAME:END -->
+ - [Bounty Star is a Cozy, Post-Apocalyptic Mech Brawler Brimming with Charm](https://news.xbox.com/en-us/2025/06/20/bounty-star-is-a-cozy-post-apocalyptic-mech-brawler-brimming-with-charm/)
+ - [How Long Will It Take You To Crack The Case In Raidou Remastered?](https://kotaku.com/raidou-remastered-ps2-how-long-beat-demons-difficulty-1851784829)
+ - [SanDisk Extreme Pro 2 TB external SSD review](https://www.pcgamer.com/hardware/ssds/sandisk-extreme-pro-2-tb-external-ssd-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
