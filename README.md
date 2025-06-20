@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini’s new video analysis feature is here, but there’s more coming &lpar;Updated: Widely rolling out&rpar;](https://www.androidauthority.com/gemini-new-video-analysis-feature-3568561/)
- - [Thought Z Fold 7 renders were hot? Here’s a look at the actual thinnest foldable in the world](https://www.androidauthority.com/honor-magic-v5-images-3569421/)
- - [I’ve reviewed phones for 10 years. The Galaxy Z Fold 7 may be the first foldable I actually buy](https://www.androidauthority.com/galaxy-z-fold-7-first-foldable-phone-i-might-buy-3569102/)<!-- TECH:END -->
+ - [South Korea&#39;s SK Group and AWS will invest ~$5.1B including $4B from AWS to build a 100 MW AI data center in Ulsan by 2029, and plan to expand capacity to 1 GW &lpar;Reuters&rpar;](http://www.techmeme.com/250620/p5#a250620p5)
+ - [Israeli authorities urge citizens to turn off home cameras, and say Iran is tapping into security cameras in Israel to gather real-time intelligence for attacks &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250620/p4#a250620p4)
+ - [Best Internet Providers in Colorado Springs, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-colorado-springs-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
