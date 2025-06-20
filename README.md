@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Destination: Bloodlines, A Minecraft Movie, Love Me, and every movie new to streaming this weekend](https://www.polygon.com/movies/608170/what-to-watch-this-weekend-6-20-2025-final-destination-bloodlines-a-minecraft-movie)
- - [Baldur&#39;s Gate 3 Karlach actor Samantha Béart was initially turned down for roles like &#39;Goblin 49,&#39; but 2 years later they were hired &#39;within a day&#39; of their audition as &#39;the muscle mummy we know and love&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-karlach-actor-samantha-beart-was-initially-turned-down-for-roles-like-goblin-49-but-2-years-later-they-were-hired-within-a-day-of-their-audition-as-the-muscle-mummy-we-know-and-love/)
- - [Monster Hunter Wilds has been hit by over 2,000 negative Steam reviews in the last week as players lose hope that Capcom will fix its egregious performance issues](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-has-been-hit-by-over-2-000-negative-steam-reviews-in-the-last-week-as-players-lose-hope-that-capcom-will-fix-its-egregious-performance-issues/)<!-- GAME:END -->
+ - [Elden Ring Nightreign player completes their &#39;solo gremlin challenge&#39;, clearing every boss in a row as its squishiest character](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-player-completes-their-solo-gremlin-challenge-clearing-every-boss-in-a-row-as-its-squishiest-character/)
+ - [Rematch surpasses 1 million players in its first day of full release](https://www.pcgamer.com/games/sports/rematch-surpasses-1-million-players-in-its-first-day-of-full-release/)
+ - [28 Years Later&amp;#8217;s ending is basically a post-credits scene for the trilogy’s next movie](https://www.polygon.com/horror/608187/28-years-laters-ending-post-credits-sequel-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
