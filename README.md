@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple deals you can shop ahead of Amazon Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [Google Pixel Stand &lpar;2nd Gen&rpar; deal: We’ve never seen it this cheap!](https://www.androidauthority.com/google-pixel-stand-2nd-gen-deal-3569727/)
- - [Nothing Phone 1 gets a feature-packed encore before the final curtain falls](https://www.androidauthority.com/nothing-phone-1-update-june-2025-3569754/)<!-- TECH:END -->
+ - [Apple execs may be newly considering buying AI firm Perplexity](https://appleinsider.com/articles/25/06/20/apple-execs-may-be-newly-considering-buying-ai-firm-perplexity?utm_medium=rss)
+ - [Sources: Apple execs have held internal discussions about bidding for, or partnering with, Perplexity, seeking to address the need for more AI talent and tech &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250620/p23#a250620p23)
+ - [Cluely, which wants to help users &quot;cheat on everything&quot;, including job interviews and exams, raised a $15M Series A led by a16z, two months after a $5.3M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250620/p22#a250620p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
