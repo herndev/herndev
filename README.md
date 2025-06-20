@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Apple&#39;s 1TB M4 MacBook Pro for $1,599 during month-end sale](https://appleinsider.com/articles/25/06/20/grab-apples-1tb-m4-macbook-pro-for-1599-during-month-end-sale?utm_medium=rss)
- - [Check out Pixel’s new AI Mode home screen shortcut &lpar;Update: Rolling out widely&rpar;](https://www.androidauthority.com/pixel-launcher-ai-mode-shortcut-apk-3564577/)
- - [This Galaxy Z Fold 7 dummy puts its ultra-thin design into perspective](https://www.androidauthority.com/samsung-galaxy-z-fold-7-dummy-video-3569653/)<!-- TECH:END -->
+ - [Apple devices in EU getting repair scores &amp; battery life labels](https://appleinsider.com/articles/25/06/20/apple-devices-in-eu-getting-repair-scores-battery-life-labels?utm_medium=rss)
+ - [Uber expands its data-labeling platform Uber AI Solutions to 30 countries, and adds new offerings like tools for developing AI agents and ready-to-use datasets &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250620/p17#a250620p17)
+ - [AirPods &amp; AirPods Pro in iOS 26 hands on: Camera control, new notifications, and more](https://appleinsider.com/articles/25/06/20/airpods-airpods-pro-in-ios-26-hands-on-camera-control-new-notifications-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
