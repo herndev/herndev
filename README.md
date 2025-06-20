@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bounty Star is a Cozy, Post-Apocalyptic Mech Brawler Brimming with Charm](https://news.xbox.com/en-us/2025/06/20/bounty-star-is-a-cozy-post-apocalyptic-mech-brawler-brimming-with-charm/)
- - [How Long Will It Take You To Crack The Case In Raidou Remastered?](https://kotaku.com/raidou-remastered-ps2-how-long-beat-demons-difficulty-1851784829)
- - [SanDisk Extreme Pro 2 TB external SSD review](https://www.pcgamer.com/hardware/ssds/sandisk-extreme-pro-2-tb-external-ssd-review/)<!-- GAME:END -->
+ - [Trump extends TikTok sale deadline in the US yet again, leaving the whole situation feeling &#39;less like a ticking clock and more like a looped ringtone… political Groundhog Day&#39;](https://www.pcgamer.com/gaming-industry/trump-extends-tiktok-sale-deadline-in-the-us-yet-again-leaving-the-whole-situation-feeling-less-like-a-ticking-clock-and-more-like-a-looped-ringtone-political-groundhog-day/)
+ - [I&#39;ve already found the best fishing game in Steam&#39;s Fishing Fest, Scale the Depths, which lets you feed fish to Nessie in Loch Ness and hunt for the mythic Beithir](https://www.pcgamer.com/games/ive-already-found-the-best-fishing-game-in-steams-fishing-fest-scale-the-depths-which-lets-you-feed-fish-to-nessie-in-loch-ness-and-hunt-for-the-mythic-beithir/)
+ - [Sprite + Tea Review: This Crap Needs To Be Outlawed](https://kotaku.com/sprite-tea-review-is-it-good-soda-taste-spritetea-1851784841)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
