@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is blocking Google Chrome through its family safety feature](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)
- - [Tesla’s first robotaxi rides will have a ‘safety monitor’ in the passenger seat](https://www.theverge.com/news/690245/tesla-robotaxi-rides-launch-safety-monitor-passenger-seat)
- - [T-Mobile may soon offer 36 month installment plans, versus the current 24-month default](https://www.androidauthority.com/t-mobile-36-month-installment-3569523/)<!-- TECH:END -->
+ - [Klarna is making an unexpected move into the mobile carrier space](https://www.androidauthority.com/klarna-announces-mobile-plan-3569534/)
+ - [3 Best Thermal Brush, Tested and Reviewed by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/best-thermal-brush/)
+ - [What Lt. Col. Boz and a Band of Tech Exec Brothers Will Do in the Army](https://www.wired.com/story/what-lt-col-boz-and-big-techs-enlisted-execs-will-do-in-the-army/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
