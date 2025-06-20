@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Milan-based Jet HR, which provides all-in-one payroll and HR services to SMBs, raised €25M led by Base10 Partners, bringing its total funding to about €42M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250619/p36#a250619p36)
- - [Hot deals: High-capacity power banks that are still portable](https://www.androidauthority.com/powkey-anker-grecell-battery-deals-3569270/)
- - [PSG vs. Botafogo From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/psg-vs-botafogo-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It wasn&#39;t just you, Apple Intelligence was down [u]](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)
+ - [Apple MacBook Air M4 sale: Save $170 on the best laptop for most people!](https://www.androidauthority.com/apple-macbook-air-m4-deal-2-3569269/)
+ - [A government-backed tech trial in Australia finds user age checks are technologically possible, clearing the way for a social media ban for under-16s this year &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/250619/p37#a250619p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
