@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 💣 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
  - ⏩ [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
- - 👉 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)<!-- MEMES:END -->
+ - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
 
 ---
 
