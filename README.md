@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - ⏩ [Slide](http://9gag.com/gag/a4PWzvp)
- - 👉 [Where are the drug dealers](http://9gag.com/gag/an7rR30)<!-- MEMES:END -->
+ - 💣 [Now f**k off and see you tomorrow](http://9gag.com/gag/ae97O5W)
+ - ⏩ [Cop who was controversially fired last month for his `robust` apprehension of a knife-carrying criminal after failing to treat him with &#39;courtesy and respect&#39; - didn&#39;t think twice about putting himself in harm&#39;s way again to tackle another thief n held him down till police arrive](http://9gag.com/gag/ae97ZwB)
+ - 👉 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)<!-- MEMES:END -->
 
 ---
 
