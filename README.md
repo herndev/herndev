@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
- - ⏩ [Where are the drug dealers](http://9gag.com/gag/an7rR30)
- - 👉 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)<!-- MEMES:END -->
+ - 💣 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - ⏩ [Slide](http://9gag.com/gag/a4PWzvp)
+ - 👉 [Where are the drug dealers](http://9gag.com/gag/an7rR30)<!-- MEMES:END -->
 
 ---
 
