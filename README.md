@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)
- - ⏩ [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)<!-- MEMES:END -->
+ - 💣 [I guess he was cut off.](http://9gag.com/gag/aYQAEGq)
+ - ⏩ [Let&#39;s see if the empowered feminist want to take this job](http://9gag.com/gag/a6ZjZr8)
+ - 👉 [Random](http://9gag.com/gag/awyYgo8)<!-- MEMES:END -->
 
 ---
 
