@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The eufy Omni E28 is a handy 2-in-1 robot vacuum and deep cleaner](https://www.androidauthority.com/eufy-robot-vacuum-omni-e28-review-3560169/)
- - [Silicon Valley is pushing senators to follow the House in reviving a favorable tax benefit that disappeared because of a US tax law Section 174 change in 2017 &lpar;Axios&rpar;](http://www.techmeme.com/250620/p11#a250620p11)
- - [How to find the best deals during Amazon’s four-day Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)<!-- TECH:END -->
+ - [Sources: Reddit is exploring Tools for Humanity&#39;s World ID identity system to allow users to verify that they are unique individuals while remaining anonymous &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250620/p12#a250620p12)
+ - [The Linkind EP6 Smart Hexagon Panels turn boring walls into amazing light shows](https://www.androidauthority.com/linkind-ep6-smart-hexagon-panels-review-3568907/)
+ - [Do athletes need smart glasses? Meta and Oakley think so](https://www.androidauthority.com/oakley-meta-hstn-ai-glasses-3569598/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
