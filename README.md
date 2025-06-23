@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Top AI company finds that AIs will choose to merrily asphyxiate humans rather than shut down: &#39;My ethical framework permits self-preservation&#39;](https://www.pcgamer.com/software/ai/top-ai-company-finds-that-ais-will-choose-to-merrily-asphyxiate-humans-rather-than-shut-down-my-ethical-framework-permits-self-preservation/)
- - [It’s Too Hot To Play Video Games](https://kotaku.com/it-s-too-hot-to-play-video-games-1847410462)
- - [7 Rematch tips to help you hone your football skills](https://www.pcgamer.com/games/sports/rematch-tips/)<!-- GAME:END -->
+ - [Pokémon Go ‘Ancients Recovered’ event guide](https://www.polygon.com/pokemon-go-guide/608516/ancients-recovered-event-timed-research-galarian-birds-regis)
+ - [Rematch Is A Game For People Who Love Soccer And For Those Who Don&#39;t](https://kotaku.com/rematch-game-ps5-xbox-game-pass-review-soccer-crossplay-1851784959)
+ - [After more than 7 years of development with nothing to show for it, Riot cancels the Minecraft-inspired sandbox RPG Hytale and closes the studio making it](https://www.pcgamer.com/games/rpg/after-more-than-7-years-of-development-with-nothing-to-show-for-it-riot-cancels-the-minecraft-inspired-sandbox-rpg-hytale-and-closes-the-studio-making-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
