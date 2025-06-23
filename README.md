@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bridging tradition and technology](http://9gag.com/gag/aGyO7eK)
- - ⏩ [Nice](http://9gag.com/gag/aByOX8z)
- - 👉 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)<!-- MEMES:END -->
+ - 💣 [I&#39;d never drive in that however the engineering of these things is impressive. Black Hole roller coaster in Gardaland.](http://9gag.com/gag/aGyOAq0)
+ - ⏩ [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
 
 ---
 
