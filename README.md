@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega just accidentally leaked its own sales numbers, and somehow Sonic Frontiers sold more than the last two mainline Yakuzas combined, but Persona 5&#39;s putting the rest of the stable to shame](https://www.pcgamer.com/gaming-industry/sega-just-accidentally-leaked-its-own-sales-numbers-and-somehow-sonic-frontiers-sold-more-than-the-last-two-mainline-yakuzas-combined-but-persona-5s-putting-the-rest-of-the-stable-to-shame/)
- - [Elden Ring Nightreign modders are already going ham with custom skins, including Optimus Prime, Stellar Blade&#39;s Eve, and my #1 most-wanted outfit from Dark Souls](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-modders-are-already-going-ham-with-custom-skins-including-optimus-prime-stellar-blades-eve-and-my-1-most-wanted-outfit-from-dark-souls/)
- - [A criminally underrated action game with a soundtrack I&#39;m still listening to 9 years later is on sale for just 2 bucks on Steam, and I already bought it again](https://www.pcgamer.com/games/action/a-criminally-underrated-action-game-with-a-soundtrack-im-still-listening-to-9-years-later-is-on-sale-for-just-2-bucks-on-steam-and-i-already-bought-it-again/)<!-- GAME:END -->
+ - [One gamer got so tired of waiting for Valve, he made his own &#39;Steam Controller 2&#39; out of Steam Deck parts, and it even splits in half like Switch Joy-Cons](https://www.pcgamer.com/hardware/one-gamer-got-so-tired-of-waiting-for-valve-he-made-his-own-steam-controller-2-out-of-steam-deck-parts-and-it-even-splits-in-half-like-switch-joy-cons/)
+ - [Magic: The Gathering&#39;s science-fantasy set adds spacecraft, and a rules change for the Commander format](https://www.pcgamer.com/games/card-games/magic-the-gatherings-science-fantasy-set-adds-spacecraft-and-a-rules-change-for-the-commander-format/)
+ - [Five new Steam games you probably missed &lpar;June 23, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-23-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
