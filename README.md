@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Death Stranding 2 launch times and release date](https://www.pcgamer.com/games/action/death-stranding-2-launch-times-and-release-date/)
  - [Grim Dawn&#39;s next expansion will be honkin&#39; huge, with 54 new bosses and more than 380 new unique items, it takes up &#39;approximately 3.55sq. km&#39;](https://www.pcgamer.com/games/rpg/grim-dawns-next-expansion-will-be-honkin-huge-with-54-new-bosses-and-more-than-380-new-unique-items-it-takes-up-approximately-3-55sq-km/)
- - [The emulator that lets you play NES games in 3D has left early access on Steam](https://www.pcgamer.com/software/platforms/the-emulator-that-lets-you-play-nes-games-in-3d-has-left-early-access-on-steam/)
- - [Today&#39;s Wordle answer for Monday, June 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-23-2025/)<!-- GAME:END -->
+ - [The emulator that lets you play NES games in 3D has left early access on Steam](https://www.pcgamer.com/software/platforms/the-emulator-that-lets-you-play-nes-games-in-3d-has-left-early-access-on-steam/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
