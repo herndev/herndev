@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s robotaxi is live: here are some of the first reactions.](https://www.theverge.com/news/690846/tesla-robotaxi-first-reaction-austin)
- - [OpenAI and Jony Ive&amp;#8217;s &amp;#8216;io&amp;#8217; brand has vanished, but their AI hardware deal remains](https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware)
- - [What Satellite Images Reveal About the US Bombing of Iran&#39;s Nuclear Sites](https://www.wired.com/story/iran-fordow-nuclear-site-satellite-images-damage/)<!-- TECH:END -->
+ - [A US judge let an age-discrimination claim, focused on an application-screening algorithm, proceed as a collective action against HR software company Workday &lpar;Lauren Weber/Wall Street Journal&rpar;](http://www.techmeme.com/250622/p14#a250622p14)
+ - [How to Watch Man City vs. Al Ain From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-man-city-vs-al-ain-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
+ - [Tesla’s robotaxi is live: here are some of the first reactions.](https://www.theverge.com/news/690846/tesla-robotaxi-first-reaction-austin)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
