@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft adds Steam games to its Xbox PC app on Windows](https://www.theverge.com/news/690967/microsoft-xbox-app-windows-steam-games-aggregated-library-support-beta)
- - [All-screen iPhone without notch won&#39;t come until 2030](https://appleinsider.com/articles/25/06/23/all-screen-iphone-without-notch-wont-come-until-2030?utm_medium=rss)
- - [Amazon launches its second batch of 27 Kuiper satellites to low Earth orbit via a ULA rocket, taking the total in orbit to 54 of its planned 3,236 constellation &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250623/p17#a250623p17)<!-- TECH:END -->
+ - [Save up to $400 on Apple&#39;s MacBook Air with month-end price drops](https://appleinsider.com/articles/25/06/23/save-up-to-400-on-apples-macbook-air-with-month-end-price-drops?utm_medium=rss)
+ - [Snowcap Compute, which is working on building AI computing chips using superconducting tech, raised a $23M seed and says Pat Gelsinger will join its board &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250623/p20#a250623p20)
+ - [$1,400 can get you a powerful &lpar;and huge&rpar; HP Omen laptop with an RTX 5070](https://www.theverge.com/tech/691109/hp-omen-5070-gaming-laptop-silent-hill-2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
