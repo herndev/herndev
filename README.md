@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice](http://9gag.com/gag/aByOX8z)
- - ⏩ [Surprise inside the wall](http://9gag.com/gag/a5Qqqqq)
+ - 💣 [Very human design](http://9gag.com/gag/aGyOAZn)
+ - ⏩ [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)
  - 👉 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)<!-- MEMES:END -->
 
 ---
