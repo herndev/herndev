@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is giving your Chromebook Plus its own version of Circle to Search](https://www.androidauthority.com/chromebook-plus-new-ai-features-3569606/)
- - [It’s a Chromebook thing: Hands-on with new ChromeOS AI features](https://www.androidauthority.com/google-chromebook-plus-ai-hands-on-3569227/)
- - [Chromebook Plus laptops like Lenovo’s sleek, new 14-incher are getting free Gemini AI features](https://www.theverge.com/news/690885/google-chromeos-gemini-ai-select-to-search-lenovo-chromebook-plus-14)<!-- TECH:END -->
+ - [Hinge CEO Justin McLeod says dating AI chatbots is ‘playing with fire’](https://www.theverge.com/decoder-podcast-with-nilay-patel/687683/hinge-ceo-justin-mcleod-dating-app-ai-relationships-tinder)
+ - [Hinge is planning its own mobile payment system to avoid App Store fees](https://www.theverge.com/news/687822/hinge-mobile-payment-system-apple-app-store-fee-decoder)
+ - [Sources: Google reduces its Google TV and Android TV budget by 10% and cuts Android TV and Google TV&#39;s ~300 employees by up to 25%, as it focuses on YouTube &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/250623/p12#a250623p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
