@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Daredevil Actor Completely Flabbergasted By The Public Response To His Clair Obscur Voice Work](https://kotaku.com/clair-obscur-expedition-33-charlie-cox-gustave-voice-1851784940)
- - [Resident game industry weirdo Yoko Taro laments that there aren&#39;t as many &#39;weird&#39; people making videogames as there used to be](https://www.pcgamer.com/gaming-industry/resident-game-industry-weirdo-yoko-taro-laments-that-there-arent-as-many-weird-people-making-videogames-as-there-used-to-be/)
- - [Xbox-themed Quest 3S has been spotted ready for release and if you close your eyes and imagine what an Xbox-themed Quest 3S looks like, bingo](https://www.pcgamer.com/games/vr/xbox-themed-quest-3s-has-been-spotted-ready-for-release-and-if-you-close-your-eyes-and-imagine-what-an-xbox-themed-quest-3s-looks-like-bingo/)<!-- GAME:END -->
+ - [Mario Kart 64&#39;s Unofficial PC Port Is Amazing](https://kotaku.com/mario-kart-64-pc-port-native-emulation-legal-nintendo-1851784946)
+ - [The 9 Marvel Characters Who Deserve TV Shows Like Ironheart](https://kotaku.com/marvel-tv-sentry-captain-carter-ironheart-hulk-phoenix-1851784907)
+ - [AI Translation Of Smash Bros. Director&#39;s Comments About AI Misses Nuance, Sparks Outrage](https://kotaku.com/ai-translation-of-smash-bros-directors-comments-about-1851784945)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
