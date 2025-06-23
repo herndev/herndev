@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Probably his first day](http://9gag.com/gag/aPA1eNG)
- - ⏩ [Forget leg day. Do this.](http://9gag.com/gag/avydxAq)
- - 👉 [Keeping a promise after 7 years, this is true friendship.](http://9gag.com/gag/adBoxrB)<!-- MEMES:END -->
+ - 💣 [He\u2019s now the leader of the moneys and can make with all the females \u2026.. and males.](http://9gag.com/gag/ayNYRbM)
+ - ⏩ [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)
+ - 👉 [Wait, did it just swallow that whole bone?](http://9gag.com/gag/adBoxBM)<!-- MEMES:END -->
 
 ---
 
