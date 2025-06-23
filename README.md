@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram Purged Chinese Crypto Scam Markets—Then Watched as They Rebuilt](https://www.wired.com/story/telegram-purged-chinese-crypto-scam-markets-then-let-them-rebuild/)
- - [Decagon, which offers AI-powered customer service agents for enterprises, raised a $131M Series C co-led by Accel and a16z at a $1.5B valuation &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250623/p24#a250623p24)
- - [Fiserv aims to launch its own stablecoin by 2025&#39;s end, and partners with PayPal and Circle to develop new products for financial institutions and merchants &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250623/p23#a250623p23)<!-- TECH:END -->
+ - [Super Micro plans to raise $2B from the sale of convertible bonds to repurchase shares, as well as to fund growth and business expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p28#a250623p28)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Google’s pulling money away from Android TV and Google TV](https://www.androidauthority.com/android-tv-budget-cuts-3570068/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
