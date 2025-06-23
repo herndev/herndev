@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [It might be too hot to play your Switch 2 on-the-go this week](https://www.polygon.com/nintendo-switch-2/608464/heat-wave-warnings-2025)
  - [Pokémon Go ‘Ancients Recovered’ event guide](https://www.polygon.com/pokemon-go-guide/608516/ancients-recovered-event-timed-research-galarian-birds-regis)
- - [Rematch Is A Game For People Who Love Soccer And For Those Who Don&#39;t](https://kotaku.com/rematch-game-ps5-xbox-game-pass-review-soccer-crossplay-1851784959)
- - [After more than 7 years of development with nothing to show for it, Riot cancels the Minecraft-inspired sandbox RPG Hytale and closes the studio making it](https://www.pcgamer.com/games/rpg/after-more-than-7-years-of-development-with-nothing-to-show-for-it-riot-cancels-the-minecraft-inspired-sandbox-rpg-hytale-and-closes-the-studio-making-it/)<!-- GAME:END -->
+ - [Rematch Is A Game For People Who Love Soccer And For Those Who Don&#39;t](https://kotaku.com/rematch-game-ps5-xbox-game-pass-review-soccer-crossplay-1851784959)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
