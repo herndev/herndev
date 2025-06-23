@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Death Stranding 2 is much more approachable, if you’re prepared](https://www.theverge.com/games-review/690468/death-stranding-2-review-ps5)
- - [Watch this person play The Witcher 3 on their Galaxy Watch Ultra](https://www.androidauthority.com/samsung-galaxy-watch-ultra-pc-game-geforce-now-3569969/)
- - [Sources: Apple is locked in last-minute EU negotiations over App Store changes to avoid fines set for this week, and is expected to offer &quot;steering&quot; concessions &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250623/p8#a250623p8)<!-- TECH:END -->
+ - [Google is giving your Chromebook Plus its own version of Circle to Search](https://www.androidauthority.com/chromebook-plus-new-ai-features-3569606/)
+ - [It’s a Chromebook thing: Hands-on with new ChromeOS AI features](https://www.androidauthority.com/google-chromebook-plus-ai-hands-on-3569227/)
+ - [Chromebook Plus laptops like Lenovo’s sleek, new 14-incher are getting free Gemini AI features](https://www.theverge.com/news/690885/google-chromeos-gemini-ai-select-to-search-lenovo-chromebook-plus-14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
