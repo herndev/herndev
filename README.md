@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sanmai, which wants to build an AI-powered ultrasound device that costs less than $500 to help treat mental health conditions, raised $12M led by Reid Hoffman &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p29#a250623p29)
- - [Apple&#39;s second developer betas for iOS 26, iPadOS 26, macOS 26 have arrived](https://appleinsider.com/articles/25/06/23/apples-second-developer-betas-for-ios-26-ipados-26-macos-26-have-arrived?utm_medium=rss)
- - [Super Micro plans to raise $2B from the sale of convertible bonds to repurchase shares, as well as to fund growth and business expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p28#a250623p28)<!-- TECH:END -->
+ - [Deal: This really cool UGREEN charger drops in price for the first time!](https://www.androidauthority.com/ugreen-45w-3-in-1-gan-usb-c-charger-with-retractable-cable-deal-3570190/)
+ - [New York’s getting a new nuclear power plant](https://www.theverge.com/news/691431/nuclear-power-plant-new-york-advanced-reactor)
+ - [What&#39;s new in iOS 26 beta 2: New ringtone, Control Center tweak, recovery assistant and more](https://appleinsider.com/articles/25/06/23/whats-new-in-ios-26-beta-2-new-ringtone-control-center-tweak-recovery-assistant-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
