@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
- - ⏩ [Surprise inside the wall](http://9gag.com/gag/a5Qqqqq)
- - 👉 [They predicted it](http://9gag.com/gag/azxYREz)<!-- MEMES:END -->
+ - 💣 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
+ - ⏩ [Nice](http://9gag.com/gag/aByOX8z)
+ - 👉 [Probably his first day](http://9gag.com/gag/aPA1eNG)<!-- MEMES:END -->
 
 ---
 
