@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Long Of A Job Is Cyberpunk 2077: Ultimate Edition?](https://kotaku.com/cyberpunk-2077-ultimate-switch-2-phantom-liberty-long-1851784912)
- - [Three Essential Tips For Those Jumping Into Breath Of The Wild For The First Time On Switch 2](https://kotaku.com/zelda-breath-of-the-wild-botw-switch-2-upgrade-tips-new-1851784911)
- - [There’s Never Been A Better Time To Play The Best Digimon Game](https://kotaku.com/digimon-story-cyber-sleuth-switch-pc-sale-hacker-memory-1851784914)<!-- GAME:END -->
+ - [Daredevil Actor Completely Flabbergasted By The Public Response To His Clair Obscur Voice Work](https://kotaku.com/clair-obscur-expedition-33-charlie-cox-gustave-voice-1851784940)
+ - [Resident game industry weirdo Yoko Taro laments that there aren&#39;t as many &#39;weird&#39; people making videogames as there used to be](https://www.pcgamer.com/gaming-industry/resident-game-industry-weirdo-yoko-taro-laments-that-there-arent-as-many-weird-people-making-videogames-as-there-used-to-be/)
+ - [Xbox-themed Quest 3S has been spotted ready for release and if you close your eyes and imagine what an Xbox-themed Quest 3S looks like, bingo](https://www.pcgamer.com/games/vr/xbox-themed-quest-3s-has-been-spotted-ready-for-release-and-if-you-close-your-eyes-and-imagine-what-an-xbox-themed-quest-3s-looks-like-bingo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
