@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: This really cool UGREEN charger drops in price for the first time!](https://www.androidauthority.com/ugreen-45w-3-in-1-gan-usb-c-charger-with-retractable-cable-deal-3570190/)
- - [New York’s getting a new nuclear power plant](https://www.theverge.com/news/691431/nuclear-power-plant-new-york-advanced-reactor)
- - [What&#39;s new in iOS 26 beta 2: New ringtone, Control Center tweak, recovery assistant and more](https://appleinsider.com/articles/25/06/23/whats-new-in-ios-26-beta-2-new-ringtone-control-center-tweak-recovery-assistant-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Verizon is offering a free line for 36 months to select customers, but what’s the catch?](https://www.androidauthority.com/verizon-free-line-promo-3570092/)
+ - [Trump&amp;#8217;s FTC will approve an ad merger — with a gift to Elon Musk’s X](https://www.theverge.com/policy/691520/ftc-omnicom-interpublic-group-merger-advertiser-boycott-political-ideology)
+ - [Salesforce launches Agentforce 3 with an observability tool called Command Center and MCP support, and says 8,000 customers have signed up to deploy Agentforce &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250623/p35#a250623p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
