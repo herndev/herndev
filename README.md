@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TACO](http://9gag.com/gag/abAQ2Er)
- - ⏩ [Parking](http://9gag.com/gag/an7rrvb)
- - 👉 [Absolute cinema](http://9gag.com/gag/a34bb83)<!-- MEMES:END -->
+ - 💣 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
+ - ⏩ [Probably his first day](http://9gag.com/gag/aPA1eNG)
+ - 👉 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)<!-- MEMES:END -->
 
 ---
 
