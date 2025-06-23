@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [VRider SBK races onto PS VR2 June 27](https://blog.playstation.com/2025/06/23/vrider-sbk-races-onto-ps-vr2-june-27/)
- - [Beware: That Pre-Owned Switch 2 You&#39;re Thinking About Buying Might Already Be Bricked](https://kotaku.com/nintendo-switch-2-pre-owned-online-error-walmart-1851784892)
- - [Genshin Impact Ineffa materials and kit](https://www.pcgamer.com/games/rpg/genshin-impact-ineffa-materials-kit/)<!-- GAME:END -->
+ - [MindsEye Maker Reportedly Facing Mass Layoff As Players Seek Refunds](https://kotaku.com/mindseye-layoffs-refunds-steam-reviews-gta-everywhere-1851784902)
+ - [Cyberpunk 2077&#39;s surprise 2.3 patch gets a surprise delay as CDPR needs some time to aim &#39;for a scope similar to Update 2.2&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2077s-surprise-2-3-patch-gets-a-surprise-delay-as-cdpr-needs-some-time-to-aim-for-a-scope-similar-to-update-2-2/)
+ - [Balatro creator finally gets the last harrowing achievement he needed to 100% complete his own game, now feels &#39;better equipped&#39; to design its upcoming expansion](https://www.pcgamer.com/games/roguelike/balatro-creator-finally-gets-the-last-harrowing-achievement-he-needed-to-100-percent-complete-his-own-game-now-feels-better-equipped-to-design-its-upcoming-expansion/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
