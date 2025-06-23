@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MindsEye Maker Reportedly Facing Mass Layoff As Players Seek Refunds](https://kotaku.com/mindseye-layoffs-refunds-steam-reviews-gta-everywhere-1851784902)
- - [Cyberpunk 2077&#39;s surprise 2.3 patch gets a surprise delay as CDPR needs some time to aim &#39;for a scope similar to Update 2.2&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2077s-surprise-2-3-patch-gets-a-surprise-delay-as-cdpr-needs-some-time-to-aim-for-a-scope-similar-to-update-2-2/)
- - [Balatro creator finally gets the last harrowing achievement he needed to 100% complete his own game, now feels &#39;better equipped&#39; to design its upcoming expansion](https://www.pcgamer.com/games/roguelike/balatro-creator-finally-gets-the-last-harrowing-achievement-he-needed-to-100-percent-complete-his-own-game-now-feels-better-equipped-to-design-its-upcoming-expansion/)<!-- GAME:END -->
+ - [Xbox Insiders – Aggregated Gaming Library is Coming to the Xbox PC app](https://news.xbox.com/en-us/2025/06/23/xbox-insiders-aggregated-gaming-library-is-coming-to-the-xbox-pc-app/)
+ - [Xbox June Update: Copilot for Gaming Available for Testing on Mobile, Aggregated Gaming Library, and More](https://news.xbox.com/en-us/2025/06/23/xbox-june-update-copilot-for-gaming-aggregated-gaming-library/)
+ - [Monster Hunter Wilds: How To Avoid Playing With Other People](https://kotaku.com/monster-hunter-wilds-mh-npc-palico-multiplayer-off-1851784906)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
