@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 vs Pixel vs Galaxy: The camera shootout you need to see](https://www.androidauthority.com/oneplus-13-camera-shootout-3568684/)
- - [OnePlus 15 leak shows why the Galaxy S26 series urgently needs silicon-carbon batteries](https://www.androidauthority.com/oneplus-15-battery-leak-3569929/)
- - [A profile of Katie Haun, a former federal prosecutor turned a16z partner who later founded Haun Ventures and believes the GENIUS Act will make stablecoins safer &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250623/p5#a250623p5)<!-- TECH:END -->
+ - [Tesla quietly launches its robotaxi service in Austin, with ~10 vehicles and a human safety driver; Elon Musk says customers will pay &quot;a $4.20 flat fee&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p6#a250623p6)
+ - [The Largest Camera Ever Built Releases Its First Images of the Cosmos](https://www.wired.com/story/opening-of-the-vera-rubin-observatory/)
+ - [Samsung reveals Exynos 2500, the chip behind its leaked Flip 7 shakeup](https://www.androidauthority.com/samsung-exynos-2500-3569948/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
