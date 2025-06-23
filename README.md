@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sorry, Hideo Kojima, but everyone is going to like Death Stranding 2](https://www.polygon.com/impressions/608093/death-stranding-2-playtest-gameplay-kojima-controversial)
- - [Linus Torvalds has apparently met Bill Gates for the first time in person and before you ask, no he didn&#39;t clock him in the face](https://www.pcgamer.com/software/operating-systems/linus-torvalds-has-apparently-met-bill-gates-for-the-first-time-in-person-and-before-you-ask-no-he-didnt-clock-him-in-the-face/)
- - [Final Fantasy 14 is doing what it should have done 6 years ago and fulfilling its promise to let every race wear hats](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-is-doing-what-it-should-have-done-6-years-ago-and-fulfilling-its-promise-to-let-every-race-wear-hats/)<!-- GAME:END -->
+ - [VRider SBK races onto PS VR2 June 27](https://blog.playstation.com/2025/06/23/vrider-sbk-races-onto-ps-vr2-june-27/)
+ - [Beware: That Pre-Owned Switch 2 You&#39;re Thinking About Buying Might Already Be Bricked](https://kotaku.com/nintendo-switch-2-pre-owned-online-error-walmart-1851784892)
+ - [Genshin Impact Ineffa materials and kit](https://www.pcgamer.com/games/rpg/genshin-impact-ineffa-materials-kit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
