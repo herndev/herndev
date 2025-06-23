@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suddenly my keys look amazing](http://9gag.com/gag/a9yOmm0)
- - ⏩ [Wait, did it just swallow that whole bone?](http://9gag.com/gag/adBoxBM)
- - 👉 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)<!-- MEMES:END -->
+ - 💣 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
+ - ⏩ [And how was your summer vacation flight?](http://9gag.com/gag/aO8RR83)
+ - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
 
 ---
 
