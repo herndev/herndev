@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hinge CEO Justin McLeod says dating AI chatbots is ‘playing with fire’](https://www.theverge.com/decoder-podcast-with-nilay-patel/687683/hinge-ceo-justin-mcleod-dating-app-ai-relationships-tinder)
- - [Hinge is planning its own mobile payment system to avoid App Store fees](https://www.theverge.com/news/687822/hinge-mobile-payment-system-apple-app-store-fee-decoder)
- - [Sources: Google reduces its Google TV and Android TV budget by 10% and cuts Android TV and Google TV&#39;s ~300 employees by up to 25%, as it focuses on YouTube &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/250623/p12#a250623p12)<!-- TECH:END -->
+ - [Microsoft adds Steam games to its Xbox PC app on Windows](https://www.theverge.com/news/690967/microsoft-xbox-app-windows-steam-games-aggregated-library-support-beta)
+ - [All-screen iPhone without notch won&#39;t come until 2030](https://appleinsider.com/articles/25/06/23/all-screen-iphone-without-notch-wont-come-until-2030?utm_medium=rss)
+ - [Amazon launches its second batch of 27 Kuiper satellites to low Earth orbit via a ULA rocket, taking the total in orbit to 54 of its planned 3,236 constellation &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250623/p17#a250623p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
