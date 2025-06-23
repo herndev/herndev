@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forget leg day. Do this.](http://9gag.com/gag/avydxAq)
- - ⏩ [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
+ - 💣 [Suddenly my keys look amazing](http://9gag.com/gag/a9yOmm0)
+ - ⏩ [Wait, did it just swallow that whole bone?](http://9gag.com/gag/adBoxBM)
  - 👉 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)<!-- MEMES:END -->
 
 ---
