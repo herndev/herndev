@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
- - ⏩ [Good clean fun](http://9gag.com/gag/an7rEEB)
- - 👉 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)<!-- MEMES:END -->
+ - 💣 [Bridging tradition and technology](http://9gag.com/gag/aGyO7eK)
+ - ⏩ [Nice](http://9gag.com/gag/aByOX8z)
+ - 👉 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)<!-- MEMES:END -->
 
 ---
 
