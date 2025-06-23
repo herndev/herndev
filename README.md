@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google app is now home to your Pinterest-like personalized image feed](https://www.androidauthority.com/google-app-images-tab-rollout-3569923/)
- - [The music industry is developing tools to detect AI-generated music across the music pipeline, with a focus on licensing and control rather than takedowns &lpar;Jack Buehrer/The Verge&rpar;](http://www.techmeme.com/250623/p4#a250623p4)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, June 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 13 vs Pixel vs Galaxy: The camera shootout you need to see](https://www.androidauthority.com/oneplus-13-camera-shootout-3568684/)
+ - [OnePlus 15 leak shows why the Galaxy S26 series urgently needs silicon-carbon batteries](https://www.androidauthority.com/oneplus-15-battery-leak-3569929/)
+ - [A profile of Katie Haun, a former federal prosecutor turned a16z partner who later founded Haun Ventures and believes the GENIUS Act will make stablecoins safer &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250623/p5#a250623p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
