@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Steam Deck OLED is back in stock](https://www.theverge.com/news/691604/steam-deck-oled-valve-in-stock)
- - [New in macOS Tahoe beta 2: Menu bar background toggle, revamped Finder icon](https://appleinsider.com/articles/25/06/23/new-in-macos-tahoe-beta-2-menu-bar-background-toggle-revamped-finder-icon?utm_medium=rss)
- - [T-Mobile’s T-Satellite service launches nationwide on July 23, what can you expect?](https://www.androidauthority.com/t-mobiles-t-satellite-service-3570240/)<!-- TECH:END -->
+ - [Samsung confirms Unpacked for early July](https://www.theverge.com/news/691662/samsung-unpacked-july-ultra-foldable)
+ - [T-Mobile’s satellite service officially launches in July](https://www.theverge.com/tech/691521/t-mobile-satellite-service-starlink-launch-date)
+ - [Nintendo’s GameCube controller for the Switch 2 is available once again](https://www.theverge.com/tech/691562/nintendo-wireless-gamecube-controller-switch-2-restock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
