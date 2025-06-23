@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at BeeHome, an AI-powered robotic beehive developed by Beewise, which has raised ~$170M and helps reduce losses by monitoring colony health in real time &lpar;Brian Kahn/Bloomberg&rpar;](http://www.techmeme.com/250623/p1#a250623p1)
  - [Behind Mark Zuckerberg&#39;s sweeping recruitment effort for Meta&#39;s Superintelligence lab, including hundreds of reach outs, $100M+ offers and counter offers, more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250622/p18#a250622p18)
- - [Inside Disney&#39;s plan to limit AI companies&#39; use of its IP, which led Disney and Comcast to sue Midjourney; Disney is also in talks with companies like OpenAI &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250622/p17#a250622p17)
- - [Wolfspeed, a NC-based chipmaker for EVs, says it made a deal with creditors to reduce its ~$6.5B debt in a bankruptcy package that nearly wipes out shareholders &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/250622/p16#a250622p16)<!-- TECH:END -->
+ - [Inside Disney&#39;s plan to limit AI companies&#39; use of its IP, which led Disney and Comcast to sue Midjourney; Disney is also in talks with companies like OpenAI &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250622/p17#a250622p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
