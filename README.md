@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parking](http://9gag.com/gag/an7rrvb)
- - ⏩ [This Panda is not like the others](http://9gag.com/gag/aW4DDdA)
- - 👉 [Trump should take out the UK next..](http://9gag.com/gag/a9yOO10)<!-- MEMES:END -->
+ - 💣 [Nice](http://9gag.com/gag/aByOX8z)
+ - ⏩ [Surprise inside the wall](http://9gag.com/gag/a5Qqqqq)
+ - 👉 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)<!-- MEMES:END -->
 
 ---
 
