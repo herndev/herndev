@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very human design](http://9gag.com/gag/aGyOAZn)
- - ⏩ [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)
- - 👉 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)<!-- MEMES:END -->
+ - 💣 [Sir Your Wunk Appears To Be All Nose](http://9gag.com/gag/aoyYY73)
+ - ⏩ [Trump should take out the UK next..](http://9gag.com/gag/a9yOO10)
+ - 👉 [Parking](http://9gag.com/gag/an7rrvb)<!-- MEMES:END -->
 
 ---
 
