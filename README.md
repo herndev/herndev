@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta held talks to buy Thinking Machines, Perplexity, and Safe Superintelligence](https://www.theverge.com/command-line-newsletter/690720/meta-buy-thinking-machines-perplexity-safe-superintelligence)
- - [Q&amp;A with Yoshua Bengio on his nonprofit LawZero focusing on AI safety, its research direction, risks of increasingly capable and autonomous AI systems, and more &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/250620/p24#a250620p24)
- - [Google Drive for Android gets a video player upgrade and better upload tools](https://www.androidauthority.com/google-drive-android-video-player-uploads-3569793/)<!-- TECH:END -->
+ - [Tesla’s robotaxi is live: here are some of the first reactions.](https://www.theverge.com/news/690846/tesla-robotaxi-first-reaction-austin)
+ - [OpenAI and Jony Ive&amp;#8217;s &amp;#8216;io&amp;#8217; brand has vanished, but their AI hardware deal remains](https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware)
+ - [What Satellite Images Reveal About the US Bombing of Iran&#39;s Nuclear Sites](https://www.wired.com/story/iran-fordow-nuclear-site-satellite-images-damage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
