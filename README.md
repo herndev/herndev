@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
- - ⏩ [Probably his first day](http://9gag.com/gag/aPA1eNG)
- - 👉 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)<!-- MEMES:END -->
+ - 💣 [Sometimes the old ways are the best ways. Or cheapest.](http://9gag.com/gag/aD2OVBw)
+ - ⏩ [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 👉 [Nice](http://9gag.com/gag/aByOX8z)<!-- MEMES:END -->
 
 ---
 
