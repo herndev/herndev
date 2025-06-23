@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome conversation](http://9gag.com/gag/a9yOmGW)
- - ⏩ [Caught another one on camera](http://9gag.com/gag/ayNYRjp)
- - 👉 [I Regret Nothing](http://9gag.com/gag/ae97xRQ)<!-- MEMES:END -->
+ - 💣 [That looks like ...](http://9gag.com/gag/aE0ODpn)
+ - ⏩ [Main-character syndrome](http://9gag.com/gag/aYQA15V)
+ - 👉 [Day 6! Right one looks a little bit better but i think she was it from the begining. &lpar;Banana for scale&rpar;](http://9gag.com/gag/amopVx6)<!-- MEMES:END -->
 
 ---
 
