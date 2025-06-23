@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart 64&#39;s Unofficial PC Port Is Amazing](https://kotaku.com/mario-kart-64-pc-port-native-emulation-legal-nintendo-1851784946)
- - [The 9 Marvel Characters Who Deserve TV Shows Like Ironheart](https://kotaku.com/marvel-tv-sentry-captain-carter-ironheart-hulk-phoenix-1851784907)
- - [AI Translation Of Smash Bros. Director&#39;s Comments About AI Misses Nuance, Sparks Outrage](https://kotaku.com/ai-translation-of-smash-bros-directors-comments-about-1851784945)<!-- GAME:END -->
+ - [The Blood of Dawnwalker 20-minute gameplay trailer shows off Dishonored-style teleportation and a man getting popped like a zit by an angry vampire boss](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-20-minute-gameplay-trailer-shows-off-dishonored-style-teleportation-and-a-man-getting-popped-like-a-zit-by-an-angry-vampire-boss/)
+ - [I&#39;m not built for whatever I heard in Phasmophobia&#39;s Chronicle update, which adds terrifying new sounds you can&#39;t afford to run from](https://www.pcgamer.com/games/horror/im-not-built-for-whatever-i-heard-in-phasmophobias-chronicle-update-which-adds-terrifying-new-sounds-you-cant-afford-to-run-from/)
+ - [Why is everyone playing Star Wars Battlefront 2?](https://www.polygon.com/news/608528/star-wars-battlefront-2-trend-peak-players-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
