@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic adds a new draft format perfect for Commander groups](https://www.polygon.com/mtg-magic-the-gathering/608423/mtg-new-draft-format-pick-two-commander-groups)
- - [Lies of P: Overture devs actually rewarded for making a solid DLC in rare industry W: Getting a bonus, 2 weeks vacation, and a free Switch 2](https://www.pcgamer.com/games/rpg/lies-of-p-overture-devs-actually-rewarded-for-making-a-solid-dlc-in-rare-industry-w-getting-a-bonus-2-weeks-vacation-and-a-free-switch-2/)
- - [OpenAI&#39;s CEO Sam Altman airs his thoughts on ads in ChatGPT: &#39;I&#39;m not totally against it...I think ads on Instagram, kinda cool&#39;](https://www.pcgamer.com/software/ai/openais-ceo-sam-altman-airs-his-thoughts-on-ads-in-chatgpt-im-not-totally-against-it-i-think-ads-on-instagram-kinda-cool/)<!-- GAME:END -->
+ - [Sorry, Hideo Kojima, but everyone is going to like Death Stranding 2](https://www.polygon.com/impressions/608093/death-stranding-2-playtest-gameplay-kojima-controversial)
+ - [Linus Torvalds has apparently met Bill Gates for the first time in person and before you ask, no he didn&#39;t clock him in the face](https://www.pcgamer.com/software/operating-systems/linus-torvalds-has-apparently-met-bill-gates-for-the-first-time-in-person-and-before-you-ask-no-he-didnt-clock-him-in-the-face/)
+ - [Final Fantasy 14 is doing what it should have done 6 years ago and fulfilling its promise to let every race wear hats](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-is-doing-what-it-should-have-done-6-years-ago-and-fulfilling-its-promise-to-let-every-race-wear-hats/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
