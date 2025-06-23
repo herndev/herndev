@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That looks like ...](http://9gag.com/gag/aE0ODpn)
- - ⏩ [Main-character syndrome](http://9gag.com/gag/aYQA15V)
- - 👉 [Day 6! Right one looks a little bit better but i think she was it from the begining. &lpar;Banana for scale&rpar;](http://9gag.com/gag/amopVx6)<!-- MEMES:END -->
+ - 💣 [Probably his first day](http://9gag.com/gag/aPA1eNG)
+ - ⏩ [Forget leg day. Do this.](http://9gag.com/gag/avydxAq)
+ - 👉 [Keeping a promise after 7 years, this is true friendship.](http://9gag.com/gag/adBoxrB)<!-- MEMES:END -->
 
 ---
 
