@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign player completes their &#39;solo gremlin challenge&#39;, clearing every boss in a row as its squishiest character](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-player-completes-their-solo-gremlin-challenge-clearing-every-boss-in-a-row-as-its-squishiest-character/)
- - [Rematch surpasses 1 million players in its first day of full release](https://www.pcgamer.com/games/sports/rematch-surpasses-1-million-players-in-its-first-day-of-full-release/)
- - [28 Years Later&amp;#8217;s ending is basically a post-credits scene for the trilogy’s next movie](https://www.polygon.com/horror/608187/28-years-laters-ending-post-credits-sequel-explained)<!-- GAME:END -->
+ - [Sega just accidentally leaked its own sales numbers, and somehow Sonic Frontiers sold more than the last two mainline Yakuzas combined, but Persona 5&#39;s putting the rest of the stable to shame](https://www.pcgamer.com/gaming-industry/sega-just-accidentally-leaked-its-own-sales-numbers-and-somehow-sonic-frontiers-sold-more-than-the-last-two-mainline-yakuzas-combined-but-persona-5s-putting-the-rest-of-the-stable-to-shame/)
+ - [Elden Ring Nightreign modders are already going ham with custom skins, including Optimus Prime, Stellar Blade&#39;s Eve, and my #1 most-wanted outfit from Dark Souls](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-modders-are-already-going-ham-with-custom-skins-including-optimus-prime-stellar-blades-eve-and-my-1-most-wanted-outfit-from-dark-souls/)
+ - [A criminally underrated action game with a soundtrack I&#39;m still listening to 9 years later is on sale for just 2 bucks on Steam, and I already bought it again](https://www.pcgamer.com/games/action/a-criminally-underrated-action-game-with-a-soundtrack-im-still-listening-to-9-years-later-is-on-sale-for-just-2-bucks-on-steam-and-i-already-bought-it-again/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
