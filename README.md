@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insiders – Aggregated Gaming Library is Coming to the Xbox PC app](https://news.xbox.com/en-us/2025/06/23/xbox-insiders-aggregated-gaming-library-is-coming-to-the-xbox-pc-app/)
- - [Xbox June Update: Copilot for Gaming Available for Testing on Mobile, Aggregated Gaming Library, and More](https://news.xbox.com/en-us/2025/06/23/xbox-june-update-copilot-for-gaming-aggregated-gaming-library/)
- - [Monster Hunter Wilds: How To Avoid Playing With Other People](https://kotaku.com/monster-hunter-wilds-mh-npc-palico-multiplayer-off-1851784906)<!-- GAME:END -->
+ - [How Long Of A Job Is Cyberpunk 2077: Ultimate Edition?](https://kotaku.com/cyberpunk-2077-ultimate-switch-2-phantom-liberty-long-1851784912)
+ - [Three Essential Tips For Those Jumping Into Breath Of The Wild For The First Time On Switch 2](https://kotaku.com/zelda-breath-of-the-wild-botw-switch-2-upgrade-tips-new-1851784911)
+ - [There’s Never Been A Better Time To Play The Best Digimon Game](https://kotaku.com/digimon-story-cyber-sleuth-switch-pc-sale-hacker-memory-1851784914)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
