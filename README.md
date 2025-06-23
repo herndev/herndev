@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
- - ⏩ [Nice](http://9gag.com/gag/aByOX8z)
- - 👉 [Probably his first day](http://9gag.com/gag/aPA1eNG)<!-- MEMES:END -->
+ - 💣 [TACO](http://9gag.com/gag/abAQ2Er)
+ - ⏩ [Parking](http://9gag.com/gag/an7rrvb)
+ - 👉 [Absolute cinema](http://9gag.com/gag/a34bb83)<!-- MEMES:END -->
 
 ---
 
