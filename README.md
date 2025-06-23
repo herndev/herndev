@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon’s Project 624 looks heavy on hype, light on perks in new leak](https://www.androidauthority.com/verizon-project-624-leaked-info-3569954/)
- - [Watch a video &amp; download Apple&#39;s presentation to get your parents to buy you a Mac [U]](https://appleinsider.com/articles/25/06/20/watch-a-video-download-apples-presentation-to-get-your-parents-to-buy-you-a-mac?utm_medium=rss)
- - [China&#39;s Electric Vehicle Factories Have Become Tourist Hotspots](https://www.wired.com/story/china-electric-vehicle-factory-tours-xiaomi/)<!-- TECH:END -->
+ - [Death Stranding 2 is much more approachable, if you’re prepared](https://www.theverge.com/games-review/690468/death-stranding-2-review-ps5)
+ - [Watch this person play The Witcher 3 on their Galaxy Watch Ultra](https://www.androidauthority.com/samsung-galaxy-watch-ultra-pc-game-geforce-now-3569969/)
+ - [Sources: Apple is locked in last-minute EU negotiations over App Store changes to avoid fines set for this week, and is expected to offer &quot;steering&quot; concessions &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250623/p8#a250623p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
