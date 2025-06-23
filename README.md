@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Stranding 2 launch times and release date](https://www.pcgamer.com/games/action/death-stranding-2-launch-times-and-release-date/)
- - [Grim Dawn&#39;s next expansion will be honkin&#39; huge, with 54 new bosses and more than 380 new unique items, it takes up &#39;approximately 3.55sq. km&#39;](https://www.pcgamer.com/games/rpg/grim-dawns-next-expansion-will-be-honkin-huge-with-54-new-bosses-and-more-than-380-new-unique-items-it-takes-up-approximately-3-55sq-km/)
- - [The emulator that lets you play NES games in 3D has left early access on Steam](https://www.pcgamer.com/software/platforms/the-emulator-that-lets-you-play-nes-games-in-3d-has-left-early-access-on-steam/)<!-- GAME:END -->
+ - [Magic adds a new draft format perfect for Commander groups](https://www.polygon.com/mtg-magic-the-gathering/608423/mtg-new-draft-format-pick-two-commander-groups)
+ - [Lies of P: Overture devs actually rewarded for making a solid DLC in rare industry W: Getting a bonus, 2 weeks vacation, and a free Switch 2](https://www.pcgamer.com/games/rpg/lies-of-p-overture-devs-actually-rewarded-for-making-a-solid-dlc-in-rare-industry-w-getting-a-bonus-2-weeks-vacation-and-a-free-switch-2/)
+ - [OpenAI&#39;s CEO Sam Altman airs his thoughts on ads in ChatGPT: &#39;I&#39;m not totally against it...I think ads on Instagram, kinda cool&#39;](https://www.pcgamer.com/software/ai/openais-ceo-sam-altman-airs-his-thoughts-on-ads-in-chatgpt-im-not-totally-against-it-i-think-ads-on-instagram-kinda-cool/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
