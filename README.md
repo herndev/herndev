@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon is offering a free line for 36 months to select customers, but what’s the catch?](https://www.androidauthority.com/verizon-free-line-promo-3570092/)
- - [Trump&amp;#8217;s FTC will approve an ad merger — with a gift to Elon Musk’s X](https://www.theverge.com/policy/691520/ftc-omnicom-interpublic-group-merger-advertiser-boycott-political-ideology)
- - [Salesforce launches Agentforce 3 with an observability tool called Command Center and MCP support, and says 8,000 customers have signed up to deploy Agentforce &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250623/p35#a250623p35)<!-- TECH:END -->
+ - [The Steam Deck OLED is back in stock](https://www.theverge.com/news/691604/steam-deck-oled-valve-in-stock)
+ - [New in macOS Tahoe beta 2: Menu bar background toggle, revamped Finder icon](https://appleinsider.com/articles/25/06/23/new-in-macos-tahoe-beta-2-menu-bar-background-toggle-revamped-finder-icon?utm_medium=rss)
+ - [T-Mobile’s T-Satellite service launches nationwide on July 23, what can you expect?](https://www.androidauthority.com/t-mobiles-t-satellite-service-3570240/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
