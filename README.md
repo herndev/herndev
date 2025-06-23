@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This upcoming Galaxy Z Fold 7 rival is thinner than a pack of gum](https://www.androidauthority.com/galaxy-z-fold-7-rival-thin-3569905/)
- - [Samsung’s affordable Galaxy Buds Core are coming this week, but the US may miss out](https://www.androidauthority.com/samsung-galaxy-buds-core-launch-date-3569910/)
- - [Sources: Revolut CEO Nik Storonsky could get a multibillion-dollar payout if he drives the fintech&#39;s valuation to ~$150B, under an Elon Musk-style pay deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p3#a250623p3)<!-- TECH:END -->
+ - [Google app is now home to your Pinterest-like personalized image feed](https://www.androidauthority.com/google-app-images-tab-rollout-3569923/)
+ - [The music industry is developing tools to detect AI-generated music across the music pipeline, with a focus on licensing and control rather than takedowns &lpar;Jack Buehrer/The Verge&rpar;](http://www.techmeme.com/250623/p4#a250623p4)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, June 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
