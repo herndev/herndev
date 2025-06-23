@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
- - ⏩ [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
- - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
+ - 💣 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - ⏩ [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
+ - 👉 [9 times gravity](http://9gag.com/gag/a7oppyq)<!-- MEMES:END -->
 
 ---
 
