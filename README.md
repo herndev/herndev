@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge let an age-discrimination claim, focused on an application-screening algorithm, proceed as a collective action against HR software company Workday &lpar;Lauren Weber/Wall Street Journal&rpar;](http://www.techmeme.com/250622/p14#a250622p14)
- - [How to Watch Man City vs. Al Ain From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-man-city-vs-al-ain-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [Tesla’s robotaxi is live: here are some of the first reactions.](https://www.theverge.com/news/690846/tesla-robotaxi-first-reaction-austin)<!-- TECH:END -->
+ - [Inside Disney&#39;s plan to limit AI companies&#39; use of its IP, which led Disney and Comcast to sue Midjourney; Disney is also in talks with companies like OpenAI &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250622/p17#a250622p17)
+ - [Wolfspeed, a NC-based chipmaker for EVs, says it made a deal with creditors to reduce its ~$6.5B debt in a bankruptcy package that nearly wipes out shareholders &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/250622/p16#a250622p16)
+ - [How AI is enabling a &quot;botscaling&quot; era in Silicon Valley, where companies achieve high revenue per employee with minimal headcount &lpar;Walter Frick/Bloomberg&rpar;](http://www.techmeme.com/250622/p15#a250622p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
