@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
- - ⏩ [And how was your summer vacation flight?](http://9gag.com/gag/aO8RR83)
- - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
+ - 💣 [Nailed it.](http://9gag.com/gag/a87Kwpp)
+ - ⏩ [Main-character syndrome](http://9gag.com/gag/aYQA15V)
+ - 👉 [Darth Maul &lpar;Ray Park&rpar; still got it.](http://9gag.com/gag/a87KwP3)<!-- MEMES:END -->
 
 ---
 
