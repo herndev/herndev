@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9 times gravity](http://9gag.com/gag/a7oppyq)
- - ⏩ [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 💣 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
+ - ⏩ [Good clean fun](http://9gag.com/gag/an7rEEB)
  - 👉 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)<!-- MEMES:END -->
 
 ---
