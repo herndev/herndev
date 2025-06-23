@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI-Jony Ive AI hardware venture hits trademark snag over brand name](https://www.androidauthority.com/open-ai-jony-ive-io-trademark-dispute-3569900/)
- - [Texas becomes the third US state to approve a public crypto reserve, allowing direct purchases of assets averaging $500B+ in market cap over 24 months &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250623/p2#a250623p2)
- - [A look at BeeHome, an AI-powered robotic beehive developed by Beewise, which has raised ~$170M and helps reduce losses by monitoring colony health in real time &lpar;Brian Kahn/Bloomberg&rpar;](http://www.techmeme.com/250623/p1#a250623p1)<!-- TECH:END -->
+ - [This upcoming Galaxy Z Fold 7 rival is thinner than a pack of gum](https://www.androidauthority.com/galaxy-z-fold-7-rival-thin-3569905/)
+ - [Samsung’s affordable Galaxy Buds Core are coming this week, but the US may miss out](https://www.androidauthority.com/samsung-galaxy-buds-core-launch-date-3569910/)
+ - [Sources: Revolut CEO Nik Storonsky could get a multibillion-dollar payout if he drives the fintech&#39;s valuation to ~$150B, under an Elon Musk-style pay deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p3#a250623p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
