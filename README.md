@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It might be too hot to play your Switch 2 on-the-go this week](https://www.polygon.com/nintendo-switch-2/608464/heat-wave-warnings-2025)
- - [Pokémon Go ‘Ancients Recovered’ event guide](https://www.polygon.com/pokemon-go-guide/608516/ancients-recovered-event-timed-research-galarian-birds-regis)
- - [Rematch Is A Game For People Who Love Soccer And For Those Who Don&#39;t](https://kotaku.com/rematch-game-ps5-xbox-game-pass-review-soccer-crossplay-1851784959)<!-- GAME:END -->
+ - [Rematch review](https://www.pcgamer.com/games/sports/rematch-review/)
+ - [9 Peak beginner’s tips to know before starting](https://www.polygon.com/guides/608514/peak-game-tips-tricks-beginners-before-you-start)
+ - [Bloodlines 2 developer The Chinese Room has laid off employees, but Paradox says the game is still coming in October](https://www.pcgamer.com/gaming-industry/bloodlines-2-developer-the-chinese-room-has-laid-off-employees-but-paradox-says-the-game-is-still-coming-in-october/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
