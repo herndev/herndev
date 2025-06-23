@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes the old ways are the best ways. Or cheapest.](http://9gag.com/gag/aD2OVBw)
- - ⏩ [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
- - 👉 [Nice](http://9gag.com/gag/aByOX8z)<!-- MEMES:END -->
+ - 💣 [Parking](http://9gag.com/gag/an7rrvb)
+ - ⏩ [This Panda is not like the others](http://9gag.com/gag/aW4DDdA)
+ - 👉 [Trump should take out the UK next..](http://9gag.com/gag/a9yOO10)<!-- MEMES:END -->
 
 ---
 
