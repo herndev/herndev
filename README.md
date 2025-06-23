@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sir Your Wunk Appears To Be All Nose](http://9gag.com/gag/aoyYY73)
- - ⏩ [Trump should take out the UK next..](http://9gag.com/gag/a9yOO10)
- - 👉 [Parking](http://9gag.com/gag/an7rrvb)<!-- MEMES:END -->
+ - 💣 [9 times gravity](http://9gag.com/gag/a7oppyq)
+ - ⏩ [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 👉 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)<!-- MEMES:END -->
 
 ---
 
