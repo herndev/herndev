@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla quietly launches its robotaxi service in Austin, with ~10 vehicles and a human safety driver; Elon Musk says customers will pay &quot;a $4.20 flat fee&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p6#a250623p6)
- - [The Largest Camera Ever Built Releases Its First Images of the Cosmos](https://www.wired.com/story/opening-of-the-vera-rubin-observatory/)
- - [Samsung reveals Exynos 2500, the chip behind its leaked Flip 7 shakeup](https://www.androidauthority.com/samsung-exynos-2500-3569948/)<!-- TECH:END -->
+ - [Verizon’s Project 624 looks heavy on hype, light on perks in new leak](https://www.androidauthority.com/verizon-project-624-leaked-info-3569954/)
+ - [Watch a video &amp; download Apple&#39;s presentation to get your parents to buy you a Mac [U]](https://appleinsider.com/articles/25/06/20/watch-a-video-download-apples-presentation-to-get-your-parents-to-buy-you-a-mac?utm_medium=rss)
+ - [China&#39;s Electric Vehicle Factories Have Become Tourist Hotspots](https://www.wired.com/story/china-electric-vehicle-factory-tours-xiaomi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
