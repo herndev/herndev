@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $400 on Apple&#39;s MacBook Air with month-end price drops](https://appleinsider.com/articles/25/06/23/save-up-to-400-on-apples-macbook-air-with-month-end-price-drops?utm_medium=rss)
- - [Snowcap Compute, which is working on building AI computing chips using superconducting tech, raised a $23M seed and says Pat Gelsinger will join its board &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250623/p20#a250623p20)
- - [$1,400 can get you a powerful &lpar;and huge&rpar; HP Omen laptop with an RTX 5070](https://www.theverge.com/tech/691109/hp-omen-5070-gaming-laptop-silent-hill-2-deal-sale)<!-- TECH:END -->
+ - [Telegram Purged Chinese Crypto Scam Markets—Then Watched as They Rebuilt](https://www.wired.com/story/telegram-purged-chinese-crypto-scam-markets-then-let-them-rebuild/)
+ - [Decagon, which offers AI-powered customer service agents for enterprises, raised a $131M Series C co-led by Accel and a16z at a $1.5B valuation &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250623/p24#a250623p24)
+ - [Fiserv aims to launch its own stablecoin by 2025&#39;s end, and partners with PayPal and Circle to develop new products for financial institutions and merchants &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250623/p23#a250623p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
