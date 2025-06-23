@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d never drive in that however the engineering of these things is impressive. Black Hole roller coaster in Gardaland.](http://9gag.com/gag/aGyOAq0)
- - ⏩ [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
- - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
+ - 💣 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
+ - ⏩ [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
+ - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
 
 ---
 
