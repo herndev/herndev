@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More people should wish their friends a good night](http://9gag.com/gag/a7opnxA)
- - ⏩ [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - 👉 [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)<!-- MEMES:END -->
+ - 💣 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
+ - ⏩ [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 👉 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)<!-- MEMES:END -->
 
 ---
 
