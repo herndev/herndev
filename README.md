@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [When does the Eevee Grove expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/608446/eevee-grove-expansion-release-time-date-pdt-edt-bst)
  - [Today&#39;s Wordle answer for Tuesday, June 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-24-2025/)
- - [Dune: Awakening review](https://www.pcgamer.com/games/mmo/dune-awakening-review/)
- - [Clockwork Revolution: All the key details on InXile&#39;s steampunk FPS RPG](https://www.pcgamer.com/games/rpg/clockwork-revolution-guide/)<!-- GAME:END -->
+ - [Dune: Awakening review](https://www.pcgamer.com/games/mmo/dune-awakening-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
