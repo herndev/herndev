@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He thought its bait and was prolly right](http://9gag.com/gag/avyd9vn)
- - ⏩ [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 👉 [Then let all of them work](http://9gag.com/gag/aD2OQMx)<!-- MEMES:END -->
+ - 💣 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - ⏩ [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)
+ - 👉 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)<!-- MEMES:END -->
 
 ---
 
