@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA says it has provisionally found Google meets the legal tests to designate it with &quot;strategic market status&quot; in general search and search advertising &lpar;Financial Times&rpar;](http://www.techmeme.com/250624/p2#a250624p2)
- - [NordVPN Coupon and Discount Codes: 76% Off](https://www.wired.com/story/nordvpn-coupon/)
- - [Galaxy S26 Ultra, S26 Edge spotted: Is the ‘Plus’ model really going away?](https://www.androidauthority.com/samsung-galaxy-s26-ultra-galaxy-s26-edge-imei-listing-3570312/)<!-- TECH:END -->
+ - [Raleigh One e-bike launches with VanMoof DNA](https://www.theverge.com/news/690922/raleigh-one-vanmoof-e-bike-carlier-price-date)
+ - [Here how the Nothing Phone 3’s new Glyph Matrix will work](https://www.androidauthority.com/nothing-phone-3-glyph-matrix-features-3570323/)
+ - [Should You Buy an Induction or Electric Stove? Here’s How to Make the Right Choice](https://www.cnet.com/news/should-you-buy-an-induction-or-electric-stove-heres-how-to-decide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
