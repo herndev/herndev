@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little fun dinner](http://9gag.com/gag/a9yOVYm)
- - ⏩ [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
- - 👉 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)<!-- MEMES:END -->
+ - 💣 [When the comments section is funnier than the tattoo itself](http://9gag.com/gag/aD2OPRd)
+ - ⏩ [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 👉 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)<!-- MEMES:END -->
 
 ---
 
