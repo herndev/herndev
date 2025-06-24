@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&amp;#8216;I won&amp;#8217;t do it&amp;#8217;: Death Stranding 2&amp;#8217;s first big choice is scaring streamers but shouldn&amp;#8217;t scare you](https://www.polygon.com/gaming/608747/death-stranding-2-i-wont-do-it-choice-fragile)
- - [What time does Persona 5: The Phantom X release?](https://www.polygon.com/guides/608542/persona-5-phantom-x-p5x-release-time-date-edt-pdt-bst)
- - [Norman Reedus Looks More Like Norman Reedus In Death Stranding 2](https://kotaku.com/death-stranding-2-norman-reedus-graphics-comparison-ps5-1851785026)<!-- GAME:END -->
+ - [It&#39;s been so long since I played a 30 fps console game, it took me a week to realize Death Stranding 2 was literally giving me headaches](https://www.pcgamer.com/games/action/its-been-so-long-since-i-played-a-30-fps-console-game-it-took-me-a-week-to-realize-death-stranding-2-was-literally-giving-me-headaches/)
+ - [What’s left for Switch 2 in 2025?](https://www.polygon.com/nintendo-switch-2/608748/new-2025-games-release-dates-metroid-kirby)
+ - [&amp;#8216;I won&amp;#8217;t do it&amp;#8217;: Death Stranding 2&amp;#8217;s first big choice is scaring streamers but shouldn&amp;#8217;t scare you](https://www.polygon.com/gaming/608747/death-stranding-2-i-wont-do-it-choice-fragile)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
