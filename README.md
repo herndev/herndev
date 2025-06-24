@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Metro by T-Mobile celebrates ‘Best Network’ title with more high-speed data for all](https://www.androidauthority.com/metro-by-t-mobile-data-increase-3570308/)
- - [Q&amp;A with Hinge CEO Justin McLeod on why AI companionship is like junk food, plans for a Hinge mobile payment system to avoid App Store fees, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250623/p42#a250623p42)
- - [OpenAI’s first AI device with Jony Ive won’t be a wearable](https://www.theverge.com/openai/691737/openai-jony-ive-chatgpt-io-ai-device-wearable-headphone-lyo-lawsuit)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-24/#ftag=CAD590a51e)
+ - [Q&amp;A with Hinge CEO Justin McLeod on why AI companionship is like junk food, plans for a Hinge mobile payment system to avoid App Store fees, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250623/p42#a250623p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
