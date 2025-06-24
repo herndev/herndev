@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Researchers develop a new technique to bond GaN transistors to a silicon chip, with the ultimate goal of having more powerful and efficient wireless transmitters](https://www.pcgamer.com/hardware/researchers-develop-a-new-technique-to-bond-gan-transistors-to-a-silicon-chip-with-the-ultimate-goal-of-having-more-powerful-and-efficient-wireless-transmitters/)
- - [Windows 11 gets a fresh new Start menu and it&#39;s one of the most useful changes to the UI in yonks](https://www.pcgamer.com/software/windows/windows-11-gets-a-fresh-new-start-menu-and-its-one-of-the-most-useful-changes-to-the-ui-in-yonks/)
- - [When does the Eevee Grove expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/608446/eevee-grove-expansion-release-time-date-pdt-edt-bst)<!-- GAME:END -->
+ - [&#39;I&#39;m gonna crash out&#39;: New climbing game Peak has sold 1 million copies in less than a week, outperforming its developer&#39;s most popular game](https://www.pcgamer.com/games/im-gonna-crash-out-new-climbing-game-peak-has-sold-1-million-copies-in-less-than-a-week-outperforming-its-developers-most-popular-game/)
+ - [Goodbye 12VHPWR meltgate? Asus shows its cable-hiding BTF tech is capable of handling more power than an RTX 5090 will ever use](https://www.pcgamer.com/hardware/graphics-cards/goodbye-12vhpwr-meltgate-asus-shows-its-cable-hiding-btf-tech-is-capable-of-handling-more-power-than-an-rtx-5090-will-ever-use/)
+ - [Modders plonk Executor into Elden Ring because if FromSoftware won&#39;t give us Sekiro: Shadows Die Twice 2, we&#39;ll do it ourselves](https://www.pcgamer.com/games/rpg/modders-plonk-executor-into-elden-ring-because-if-fromsoftware-wont-give-us-sekiro-shadows-die-twice-2-well-do-it-ourselves/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
