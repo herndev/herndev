@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the comments section is funnier than the tattoo itself](http://9gag.com/gag/aD2OPRd)
- - ⏩ [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 👉 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)<!-- MEMES:END -->
+ - 💣 [The perfect response does exist.](http://9gag.com/gag/a34bnr3)
+ - ⏩ [And I was thinking Old\u202fSpice has f**ked up ads](http://9gag.com/gag/agmEdvK)
+ - 👉 [He&#39;s losing it](http://9gag.com/gag/a5QqxjV)<!-- MEMES:END -->
 
 ---
 
