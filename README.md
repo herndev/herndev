@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9 times gravity](http://9gag.com/gag/a7oppyq)
- - ⏩ [Some things just hit harder than others.](http://9gag.com/gag/aRBOoYG)
- - 👉 [Whiskey: Apparently very effective against bacteria.](http://9gag.com/gag/abAQ23L)<!-- MEMES:END -->
+ - 💣 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - ⏩ [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 👉 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)<!-- MEMES:END -->
 
 ---
 
