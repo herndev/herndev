@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Titan 2 is a modernized BlackBerry with 5G, Android, and a second screen](https://www.theverge.com/news/691938/titan-2-smartphone-keyboard-blackberry-5g-android-15)
- - [This 55-inch QLED TV is on sale for $565 and looks like a picture frame when it isn’t being used](https://www.theverge.com/tech/692220/iffalcon-qled-mural-tv-gamesir-g8-galileo-controller-deal-sale)
- - [Google Pixel 10 leak points to some disappointing feature omissions](https://www.androidauthority.com/google-pixel-10-vapor-chamber-3570540/)<!-- TECH:END -->
+ - [Sources: Walmart has opened a &quot;dark store&quot; warehouse in Dallas and plans to add another in Bentonville, Arkansas, as it tests ways to speed up online deliveries &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/250624/p33#a250624p33)
+ - [Find My, Mail, Photos and iWork hit by iCloud outage](https://appleinsider.com/articles/25/06/24/find-my-mail-photos-and-iwork-hit-by-icloud-outage?utm_medium=rss)
+ - [Save $25 on the Anker Laptop Power Bank and keep all your devices juiced up](https://www.androidauthority.com/anker-laptop-power-bank-deal-3570545/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
