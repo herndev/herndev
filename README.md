@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [War Thunder players have done it again: Yet another restricted document is leaked to win a forum argument](https://www.pcgamer.com/games/war-thunder-players-have-done-it-again-yet-another-restricted-document-is-leaked-to-win-a-forum-argument/)
- - [Jurassic World Evolution 3 Devs Remove AI-Generated Art After Fans Yell At Them A Lot](https://kotaku.com/jurassic-world-evolution-3-ai-art-portraits-removed-pc-1851785006)
- - [Here&#39;s our very first look at the Rogue Trooper movie Warcraft director Duncan Jones said he was doing 7 years ago](https://www.pcgamer.com/movies-tv/heres-our-very-first-look-at-the-rogue-trooper-movie-warcraft-director-duncan-jones-said-he-was-doing-7-years-ago/)<!-- GAME:END -->
+ - [Welcome to Carnevale – Little Nightmares III Gets to the Meat of the Matter](https://news.xbox.com/en-us/2025/06/24/little-nightmares-iii-carnevale-level/)
+ - [Doing a victory lap, Dune: Awakening publisher reveals that 1 million players have already huffed 6 billion grams of spice](https://www.pcgamer.com/games/survival-crafting/doing-a-victory-lap-dune-awakening-publisher-reveals-that-1-million-players-have-already-huffed-6-billion-grams-of-spice/)
+ - [This Switch 2 Accessory Is Making Fans Drop Their Consoles And The Manufacturer&#39;s Response Is Only Making Things Worse](https://kotaku.com/switch-2-dbrand-killswitch-case-joy-con-magnets-instock-1851785019)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
