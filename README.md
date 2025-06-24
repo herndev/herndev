@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
- - ⏩ [Landlord says its just water stain from the fridge. Completely normal](http://9gag.com/gag/aByOORA)
- - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
+ - 💣 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - ⏩ [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aMVOyxG)
+ - 👉 [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)<!-- MEMES:END -->
 
 ---
 
