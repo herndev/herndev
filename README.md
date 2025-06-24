@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Come you little shit! Say hello to my little friend!](http://9gag.com/gag/aByOXZA)
- - ⏩ [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
- - 👉 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)<!-- MEMES:END -->
+ - 💣 [More people should wish their friends a good night](http://9gag.com/gag/a7opnxA)
+ - ⏩ [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - 👉 [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)<!-- MEMES:END -->
 
 ---
 
