@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A nasal spray company wants to make it harder for the FTC to police health claims](https://www.theverge.com/policy/692327/xlear-ftc-lawsuit-covid-health-claims-consumer-protection)
- - [Apple MacBook Air M4 deals: Both the 13-inch and 15-inch models are on sale!](https://www.androidauthority.com/apple-macbook-air-m4-deal-3-3570544/)
- - [Sources: 19-year-old Edward Coristine, who has gone by &quot;Big Balls&quot; online and was one of the first technologists hired as part of DOGE, has resigned &lpar;Wired&rpar;](http://www.techmeme.com/250624/p36#a250624p36)<!-- TECH:END -->
+ - [&#39;Fortnite&#39; antisteering mandate punishment &#39;fundamentally unfair&#39; says Apple](https://appleinsider.com/articles/25/06/24/apple-calls-punitive-judgement-over-injunction-violation-fundamentally-unfair?utm_medium=rss)
+ - [Fortnite Meets Squid Game: Here&#39;s How to Get Free Twitch Drops, Plus New Skin Prices](https://www.cnet.com/tech/gaming/fortnite-squid-game-free-skins-twitch-drops-prices-release-date-time/#ftag=CAD590a51e)
+ - [Scale AI used Google Docs to track work for customers like Google, Meta, and xAI, and left confidential AI training documents accessible to anyone with the link &lpar;Business Insider&rpar;](http://www.techmeme.com/250624/p37#a250624p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
