@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After about a bazillion user requests, Windows finally lets you move the audio volume pop-up](https://www.pcgamer.com/software/windows/after-about-a-bazillion-user-requests-windows-finally-lets-you-move-the-audio-volume-pop-up/)
- - [You will soon be able to open non-Xbox games from the Xbox app, which could be a great way to further avoid the Epic Games Store](https://www.pcgamer.com/hardware/you-will-soon-be-able-to-open-non-xbox-games-from-the-xbox-app-which-could-be-a-great-way-to-further-avoid-the-epic-games-store/)
- - [I&#39;ve just wrapped up testing with the best new PC fan I&#39;ve used in a long time: Noctua&#39;s NF-A12x25 G2](https://www.pcgamer.com/hardware/ive-just-wrapped-up-testing-with-the-best-new-pc-fan-ive-used-in-a-long-time-noctuas-nf-a12x25-g2/)<!-- GAME:END -->
+ - [Unveiling the Limited Edition Meta Quest 3S Xbox Edition](https://news.xbox.com/en-us/2025/06/24/meta-quest-3s-xbox-edition/)
+ - [This VR headset is an Xbox](https://www.polygon.com/news/608449/xbox-vr-meta-quest-3s-headset)
+ - [Five Essential Tips For Tackling Dynasty Warriors: Origins&#39; Ultimate Difficulty](https://kotaku.com/dynasty-warriors-origins-ultimate-warrior-difficulty-1851784933)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
