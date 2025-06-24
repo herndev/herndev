@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Carnevale – Little Nightmares III Gets to the Meat of the Matter](https://news.xbox.com/en-us/2025/06/24/little-nightmares-iii-carnevale-level/)
- - [Doing a victory lap, Dune: Awakening publisher reveals that 1 million players have already huffed 6 billion grams of spice](https://www.pcgamer.com/games/survival-crafting/doing-a-victory-lap-dune-awakening-publisher-reveals-that-1-million-players-have-already-huffed-6-billion-grams-of-spice/)
- - [This Switch 2 Accessory Is Making Fans Drop Their Consoles And The Manufacturer&#39;s Response Is Only Making Things Worse](https://kotaku.com/switch-2-dbrand-killswitch-case-joy-con-magnets-instock-1851785019)<!-- GAME:END -->
+ - [Brilliance of the Pioneers of the Stealth Genre Recaptured by an Indie Game](https://news.xbox.com/en-us/2025/06/24/stealth-genre-recaptured-by-an-indie-game/)
+ - [Little Nightmares III launches Oct 10 on PS5 &amp; PS4, Carnevale level revealed](https://blog.playstation.com/2025/06/24/little-nightmares-iii-launches-oct-10-on-ps5-ps4-carnevale-level-revealed/)
+ - [Five Essential Tips for Escaping Together in How 2 Escape: Lost Submarine](https://news.xbox.com/en-us/2025/06/24/tips-for-how-2-escape-lost-submarine/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
