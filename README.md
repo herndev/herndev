@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The perfect response does exist.](http://9gag.com/gag/a34bnr3)
- - ⏩ [And I was thinking Old\u202fSpice has f**ked up ads](http://9gag.com/gag/agmEdvK)
- - 👉 [He&#39;s losing it](http://9gag.com/gag/a5QqxjV)<!-- MEMES:END -->
+ - 💣 [Your average 9gagger](http://9gag.com/gag/aRBONgG)
+ - ⏩ [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)
+ - 👉 [He is pissed](http://9gag.com/gag/awyY81W)<!-- MEMES:END -->
 
 ---
 
