@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I&#39;m gonna crash out&#39;: New climbing game Peak has sold 1 million copies in less than a week, outperforming its developer&#39;s most popular game](https://www.pcgamer.com/games/im-gonna-crash-out-new-climbing-game-peak-has-sold-1-million-copies-in-less-than-a-week-outperforming-its-developers-most-popular-game/)
- - [Goodbye 12VHPWR meltgate? Asus shows its cable-hiding BTF tech is capable of handling more power than an RTX 5090 will ever use](https://www.pcgamer.com/hardware/graphics-cards/goodbye-12vhpwr-meltgate-asus-shows-its-cable-hiding-btf-tech-is-capable-of-handling-more-power-than-an-rtx-5090-will-ever-use/)
- - [Modders plonk Executor into Elden Ring because if FromSoftware won&#39;t give us Sekiro: Shadows Die Twice 2, we&#39;ll do it ourselves](https://www.pcgamer.com/games/rpg/modders-plonk-executor-into-elden-ring-because-if-fromsoftware-wont-give-us-sekiro-shadows-die-twice-2-well-do-it-ourselves/)<!-- GAME:END -->
+ - [After about a bazillion user requests, Windows finally lets you move the audio volume pop-up](https://www.pcgamer.com/software/windows/after-about-a-bazillion-user-requests-windows-finally-lets-you-move-the-audio-volume-pop-up/)
+ - [You will soon be able to open non-Xbox games from the Xbox app, which could be a great way to further avoid the Epic Games Store](https://www.pcgamer.com/hardware/you-will-soon-be-able-to-open-non-xbox-games-from-the-xbox-app-which-could-be-a-great-way-to-further-avoid-the-epic-games-store/)
+ - [I&#39;ve just wrapped up testing with the best new PC fan I&#39;ve used in a long time: Noctua&#39;s NF-A12x25 G2](https://www.pcgamer.com/hardware/ive-just-wrapped-up-testing-with-the-best-new-pc-fan-ive-used-in-a-long-time-noctuas-nf-a12x25-g2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
