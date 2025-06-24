@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome on Android is finally making a long-awaited UI change over a year after iOS](https://www.androidauthority.com/chrome-android-bottom-address-bar-3570198/)
- - [Philips Hue is raising prices in the US ‘as a direct result of tariffs’](https://www.theverge.com/news/692130/philips-hue-us-tariffs-smart-lighting-price-increase)
- - [Krysten Ritter Returns as Jessica Jones in &#39;Daredevil: Born Again&#39;: What We Know So Far](https://www.cnet.com/tech/services-and-software/krysten-ritter-returns-as-jessica-jones-in-daredevil-born-again-what-we-know-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A new Android 14 update is now available for Chromecast with Google TV](https://www.androidauthority.com/chromecast-with-google-tv-android-14-2-3570485/)
+ - [Countdown to Prime Day: Best deals on Apple deliver up to $400 off](https://appleinsider.com/articles/25/06/24/countdown-to-prime-day-best-deals-on-apple-deliver-up-to-400-off?utm_medium=rss)
+ - [Verizon is giving away free swag to mark its customer support upgrades — here’s how to get in on it](https://www.androidauthority.com/verizon-customer-support-upgrade-freebie-3570417/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
