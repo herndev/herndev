@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - ⏩ [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)
- - 👉 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)<!-- MEMES:END -->
+ - 💣 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
+ - ⏩ [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - 👉 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)<!-- MEMES:END -->
 
 ---
 
