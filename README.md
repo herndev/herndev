@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - ⏩ [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
- - 👉 [9 times gravity](http://9gag.com/gag/a7oppyq)<!-- MEMES:END -->
+ - 💣 [He thought its bait and was prolly right](http://9gag.com/gag/avyd9vn)
+ - ⏩ [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 👉 [Then let all of them work](http://9gag.com/gag/aD2OQMx)<!-- MEMES:END -->
 
 ---
 
