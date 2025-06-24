@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cowabunga! Essential Tips for TMNT: Splintered Fate](https://news.xbox.com/en-us/2025/06/24/essential-tips-for-tmnt-splintered-fate/)
- - [Security mitigations in Intel&#39;s GPUs rob up to 20% of their compute performance but it&#39;s unlikely to be a problem in games](https://www.pcgamer.com/hardware/graphics-cards/security-mitigations-in-intels-gpus-rob-up-to-20-percent-of-their-compute-performance-but-its-unlikely-to-be-a-problem-in-games/)
- - [A Sonic theme park? SEGA is eying possibilities](https://www.polygon.com/news/608646/sonic-the-hedgehog-theme-park-usa-sega-possible)<!-- GAME:END -->
+ - [Who needs Bethesda? Oblivion Remastered modders have cooked up FO4-style settlement placing even without official support](https://www.pcgamer.com/games/the-elder-scrolls/who-needs-bethesda-oblivion-remastered-modders-have-cooked-up-fo4-style-settlement-placing-even-without-official-support/)
+ - [Biwin Black Opal X570 Pro 2 TB review](https://www.pcgamer.com/hardware/ssds/biwin-black-opal-x570-pro-2-tb-review/)
+ - [Tiny anime girl cyberprison billing itself as a &#39;customizable 3D digital soulmate&#39; reaches its Kickstarter funding goal in minutes](https://www.pcgamer.com/software/ai/tiny-anime-girl-cyberprison-billing-itself-as-a-customizable-3d-digital-soulmate-reaches-its-kickstarter-funding-goal-in-minutes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
