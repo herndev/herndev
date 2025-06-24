@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Broadway is embracing large-scale, high-resolution videos and projectors as an integrated narrative tool aided by AI, as some creatives worry about overuse &lpar;Michael Paulson/New York Times&rpar;](http://www.techmeme.com/250624/p5#a250624p5)
- - [The Linux Foundation unveils the Agent2Agent project, with founding members including Google Cloud, AWS, and Microsoft; Google donated the protocol spec and SDK &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250624/p4#a250624p4)
- - [Verizon&#39;s Project 624 Is an AI-Powered Customer Service Initiative](https://www.cnet.com/tech/mobile/verizons-project-624-is-an-ai-powered-customer-service-initiative/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Waymo’s robotaxis are now available on the Uber app in Atlanta](https://www.theverge.com/news/691101/waymo-uber-robotaxi-atlanta-launch)
+ - [Five years of Apple Silicon: How Apple continues to revolutionize chips](https://appleinsider.com/articles/25/04/23/five-years-of-apple-silicon-how-apple-continues-to-revolutionize-chips?utm_medium=rss)
+ - [Inside Amazon&#39;s Indiana data center complex: built for Anthropic with plans for ~30 centers, consuming 2.2GW of power and millions of gallons of water per year &lpar;New York Times&rpar;](http://www.techmeme.com/250624/p9#a250624p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
