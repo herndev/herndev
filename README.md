@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - ⏩ [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)
- - 👉 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)<!-- MEMES:END -->
+ - 💣 [9 times gravity](http://9gag.com/gag/a7oppyq)
+ - ⏩ [Some things just hit harder than others.](http://9gag.com/gag/aRBOoYG)
+ - 👉 [Whiskey: Apparently very effective against bacteria.](http://9gag.com/gag/abAQ23L)<!-- MEMES:END -->
 
 ---
 
