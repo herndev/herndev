@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Who needs Bethesda? Oblivion Remastered modders have cooked up FO4-style settlement placing even without official support](https://www.pcgamer.com/games/the-elder-scrolls/who-needs-bethesda-oblivion-remastered-modders-have-cooked-up-fo4-style-settlement-placing-even-without-official-support/)
- - [Biwin Black Opal X570 Pro 2 TB review](https://www.pcgamer.com/hardware/ssds/biwin-black-opal-x570-pro-2-tb-review/)
- - [Tiny anime girl cyberprison billing itself as a &#39;customizable 3D digital soulmate&#39; reaches its Kickstarter funding goal in minutes](https://www.pcgamer.com/software/ai/tiny-anime-girl-cyberprison-billing-itself-as-a-customizable-3d-digital-soulmate-reaches-its-kickstarter-funding-goal-in-minutes/)<!-- GAME:END -->
+ - [War Thunder players have done it again: Yet another restricted document is leaked to win a forum argument](https://www.pcgamer.com/games/war-thunder-players-have-done-it-again-yet-another-restricted-document-is-leaked-to-win-a-forum-argument/)
+ - [Jurassic World Evolution 3 Devs Remove AI-Generated Art After Fans Yell At Them A Lot](https://kotaku.com/jurassic-world-evolution-3-ai-art-portraits-removed-pc-1851785006)
+ - [Here&#39;s our very first look at the Rogue Trooper movie Warcraft director Duncan Jones said he was doing 7 years ago](https://www.pcgamer.com/movies-tv/heres-our-very-first-look-at-the-rogue-trooper-movie-warcraft-director-duncan-jones-said-he-was-doing-7-years-ago/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
