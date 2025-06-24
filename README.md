@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Living on the edge, one laundry load at a time.](http://9gag.com/gag/a2vLxrZ)
- - ⏩ [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)
- - 👉 [Then let all of them work](http://9gag.com/gag/aD2OQMx)<!-- MEMES:END -->
+ - 💣 [Little fun dinner](http://9gag.com/gag/a9yOVYm)
+ - ⏩ [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
+ - 👉 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)<!-- MEMES:END -->
 
 ---
 
