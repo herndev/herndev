@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Walmart has opened a &quot;dark store&quot; warehouse in Dallas and plans to add another in Bentonville, Arkansas, as it tests ways to speed up online deliveries &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/250624/p33#a250624p33)
- - [Find My, Mail, Photos and iWork hit by iCloud outage](https://appleinsider.com/articles/25/06/24/find-my-mail-photos-and-iwork-hit-by-icloud-outage?utm_medium=rss)
- - [Save $25 on the Anker Laptop Power Bank and keep all your devices juiced up](https://www.androidauthority.com/anker-laptop-power-bank-deal-3570545/)<!-- TECH:END -->
+ - [A nasal spray company wants to make it harder for the FTC to police health claims](https://www.theverge.com/policy/692327/xlear-ftc-lawsuit-covid-health-claims-consumer-protection)
+ - [Apple MacBook Air M4 deals: Both the 13-inch and 15-inch models are on sale!](https://www.androidauthority.com/apple-macbook-air-m4-deal-3-3570544/)
+ - [Sources: 19-year-old Edward Coristine, who has gone by &quot;Big Balls&quot; online and was one of the first technologists hired as part of DOGE, has resigned &lpar;Wired&rpar;](http://www.techmeme.com/250624/p36#a250624p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
