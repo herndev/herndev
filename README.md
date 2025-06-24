@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I skipped every Death Stranding cutscene and I&amp;#8217;ll do it again](https://www.theverge.com/games/690231/death-stranding-cutscenes-skip)
- - [What a set of knockoff headphones taught me about headphones — and knockoffs](https://www.theverge.com/gadgets/691928/tiktok-shop-picun-f8-airpods-max-headphones)
- - [Sources: Microsoft is planning a round of Xbox layoffs next week, with managers expecting substantial cuts, the fourth big layoff at Xbox in the past 18 months &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250624/p17#a250624p17)<!-- TECH:END -->
+ - [With on-board Netflix and 4K triple-laser output, this Google TV projector is ready for movie night](https://www.androidauthority.com/dangbei-mp1-max-3568418/)
+ - [Creative clash halts production of Matthew McConaughey &amp; Woody Harrelson Apple TV+ show](https://appleinsider.com/articles/25/06/24/creative-clash-halts-production-of-matthew-mcconaughey-woody-harrelson-apple-tv-show?utm_medium=rss)
+ - [Feds wise up and ban WhatsApp, might shift to Apple Messages](https://appleinsider.com/articles/25/06/24/feds-wise-up-and-ban-whatsapp-might-shift-to-apple-messages?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
