@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rematch review](https://www.pcgamer.com/games/sports/rematch-review/)
- - [9 Peak beginner’s tips to know before starting](https://www.polygon.com/guides/608514/peak-game-tips-tricks-beginners-before-you-start)
- - [Bloodlines 2 developer The Chinese Room has laid off employees, but Paradox says the game is still coming in October](https://www.pcgamer.com/gaming-industry/bloodlines-2-developer-the-chinese-room-has-laid-off-employees-but-paradox-says-the-game-is-still-coming-in-october/)<!-- GAME:END -->
+ - [Dune: Awakening review](https://www.pcgamer.com/games/mmo/dune-awakening-review/)
+ - [Clockwork Revolution: All the key details on InXile&#39;s steampunk FPS RPG](https://www.pcgamer.com/games/rpg/clockwork-revolution-guide/)
+ - [What time does Death Stranding 2 release, and can you play early access?](https://www.polygon.com/guides/608476/death-stranding-2-release-time-date-edt-pdt)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
