@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With on-board Netflix and 4K triple-laser output, this Google TV projector is ready for movie night](https://www.androidauthority.com/dangbei-mp1-max-3568418/)
- - [Creative clash halts production of Matthew McConaughey &amp; Woody Harrelson Apple TV+ show](https://appleinsider.com/articles/25/06/24/creative-clash-halts-production-of-matthew-mcconaughey-woody-harrelson-apple-tv-show?utm_medium=rss)
- - [Feds wise up and ban WhatsApp, might shift to Apple Messages](https://appleinsider.com/articles/25/06/24/feds-wise-up-and-ban-whatsapp-might-shift-to-apple-messages?utm_medium=rss)<!-- TECH:END -->
+ - [Nomad’s minimalist MagSafe wallet has a tracking card built in](https://www.theverge.com/news/691253/nomad-tracking-card-magsafe-leather-mag-wallet-apple-find-my)
+ - [YouTube Music solves the offline lyrics problem that Apple Music and Spotify still haven’t](https://www.androidauthority.com/youtube-music-offline-lyrics-3570424/)
+ - [These battery-powered 4K cameras record 24/7](https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
