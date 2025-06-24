@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raleigh One e-bike launches with VanMoof DNA](https://www.theverge.com/news/690922/raleigh-one-vanmoof-e-bike-carlier-price-date)
- - [Here how the Nothing Phone 3’s new Glyph Matrix will work](https://www.androidauthority.com/nothing-phone-3-glyph-matrix-features-3570323/)
- - [Should You Buy an Induction or Electric Stove? Here’s How to Make the Right Choice](https://www.cnet.com/news/should-you-buy-an-induction-or-electric-stove-heres-how-to-decide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at 2025&#39;s AI models and what&#39;s ahead: OpenAI&#39;s o3 is a breakthrough, AI agents will improve randomly and in leaps, but scaling parameters will slow down &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/250624/p3#a250624p3)
+ - [Samsung just leaked its own Galaxy Z Flip 7, Z Fold 7 colors, including exclusive shade](https://www.androidauthority.com/samsung-leaks-galaxy-z-flip-7-z-fold-7-colors-3570324/)
+ - [Raleigh One e-bike launches with VanMoof DNA](https://www.theverge.com/news/690922/raleigh-one-vanmoof-e-bike-carlier-price-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
