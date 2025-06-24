@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Goldman Sachs launches a generative AI assistant firmwide to boost productivity; around 10,000 employees are already using the GS AI Assistant &lpar;Reuters&rpar;](http://www.techmeme.com/250623/p40#a250623p40)
- - [Samsung schedules its next Galaxy Unpacked event for July 9 at 10am ET in Brooklyn, where AI updates, the Galaxy Z Fold 7, and Galaxy Z Flip 7 are expected &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250623/p39#a250623p39)
- - [Samsung’s next Unpacked is official: Here’s what’s coming and when](https://www.androidauthority.com/samsung-unpacked-2025-date-announcement-what-to-expect-3569896/)<!-- TECH:END -->
+ - [Epomaker Magcore 87 keyboard review: A chunky, heavy, inductive gaming keyboard](https://appleinsider.com/articles/25/06/24/epomaker-magcore-87-keyboard-review-a-chunky-heavy-inductive-gaming-keyboard?utm_medium=rss)
+ - [Court filings from in-ear hardware startup iyO&#39;s trademark dispute lawsuit against OpenAI detail OpenAI and io&#39;s early work on in-ear hardware devices &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250623/p41#a250623p41)
+ - [Yale’s new Google Home smart lock is here — but it costs more thanks to tariffs](https://www.theverge.com/news/691695/google-nest-yale-smart-lock-with-matter-price-release-date-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
