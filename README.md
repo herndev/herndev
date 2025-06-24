@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Android phone could soon buzz when your Fitbit is charged &lpar;APK teardown&rpar;](https://www.androidauthority.com/fitbit-android-full-charge-notifications-apk-teardown-3570340/)
- - [Adobe&#39;s New Firefly AI App Lets You Try AI Image and Video Generation for Free](https://www.cnet.com/tech/services-and-software/adobes-new-firefly-ai-app-lets-you-try-ai-image-and-video-generation-for-free/#ftag=CAD590a51e)
- - [A look at 2025&#39;s AI models and what&#39;s ahead: OpenAI&#39;s o3 is a breakthrough, AI agents will improve randomly and in leaps, but scaling parameters will slow down &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/250624/p3#a250624p3)<!-- TECH:END -->
+ - [How Broadway is embracing large-scale, high-resolution videos and projectors as an integrated narrative tool aided by AI, as some creatives worry about overuse &lpar;Michael Paulson/New York Times&rpar;](http://www.techmeme.com/250624/p5#a250624p5)
+ - [The Linux Foundation unveils the Agent2Agent project, with founding members including Google Cloud, AWS, and Microsoft; Google donated the protocol spec and SDK &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250624/p4#a250624p4)
+ - [Verizon&#39;s Project 624 Is an AI-Powered Customer Service Initiative](https://www.cnet.com/tech/mobile/verizons-project-624-is-an-ai-powered-customer-service-initiative/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
