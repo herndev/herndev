@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unveiling the Limited Edition Meta Quest 3S Xbox Edition](https://news.xbox.com/en-us/2025/06/24/meta-quest-3s-xbox-edition/)
- - [This VR headset is an Xbox](https://www.polygon.com/news/608449/xbox-vr-meta-quest-3s-headset)
- - [Five Essential Tips For Tackling Dynasty Warriors: Origins&#39; Ultimate Difficulty](https://kotaku.com/dynasty-warriors-origins-ultimate-warrior-difficulty-1851784933)<!-- GAME:END -->
+ - [Just when you thought Intel&#39;s branding couldn&#39;t get any worse, a report says the company plans to outsource marketing to a consultancy using AI](https://www.pcgamer.com/hardware/processors/just-when-you-thought-intels-branding-couldnt-get-any-worse-a-report-says-the-company-plans-to-outsource-marketing-to-a-consultancy-using-ai/)
+ - [5 Reasons Why 2K Needs To Bring Back College Hoops](https://kotaku.com/2k-college-hoops-ea-college-football-26-1851784967)
+ - [Unveiling the Limited Edition Meta Quest 3S Xbox Edition](https://news.xbox.com/en-us/2025/06/24/meta-quest-3s-xbox-edition/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
