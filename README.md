@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Just when you thought Intel&#39;s branding couldn&#39;t get any worse, a report says the company plans to outsource marketing to a consultancy using AI](https://www.pcgamer.com/hardware/processors/just-when-you-thought-intels-branding-couldnt-get-any-worse-a-report-says-the-company-plans-to-outsource-marketing-to-a-consultancy-using-ai/)
- - [5 Reasons Why 2K Needs To Bring Back College Hoops](https://kotaku.com/2k-college-hoops-ea-college-football-26-1851784967)
- - [Unveiling the Limited Edition Meta Quest 3S Xbox Edition](https://news.xbox.com/en-us/2025/06/24/meta-quest-3s-xbox-edition/)<!-- GAME:END -->
+ - [Asus ROG Zephyrus G14 &lpar;2025&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g14-2025-review/)
+ - [Razer Blade 14 &lpar;2025&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/razer-blade-14-2025-review/)
+ - [System Shock 2&#39;s remaster is delayed for everyone but you and me](https://www.pcgamer.com/games/rpg/system-shock-2s-remaster-is-delayed-for-everyone-but-you-and-me/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
