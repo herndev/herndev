@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Earth adds old Street View captures to rewind time from the street level](https://www.theverge.com/news/691525/google-earth-historical-street-view-imagery)
- - [Google, the Earth Fire Alliance, and Muon Space&#39;s Fire Sat aims to launch 52 satellites by 2029 to detect wildfires globally and will make the data accessible &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/250624/p13#a250624p13)
- - [iPad Pro bezels could shrink more with OLED film changes](https://appleinsider.com/articles/25/06/24/ipad-pro-bezels-could-shrink-more-with-oled-film-changes?utm_medium=rss)<!-- TECH:END -->
+ - [8BitDo’s controllers will work with the Switch 2 after a firmware update](https://www.theverge.com/news/681153/8bitdo-controller-gamepad-nintendo-switch-2-compatible-firmware-update)
+ - [Yale’s new Smart Lock with Matter is the perfect smart home upgrade for people with app fatigue](https://www.androidauthority.com/yale-smart-lock-matter-3569699/)
+ - [The Groove Thing Is a Bluetooth Speaker and Vibrator Combo, Because Why Not?](https://www.wired.com/story/the-groove-thing-is-a-bluetooth-speaker-and-vibrator-combo-because-why-not/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
