@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metro by T-Mobile celebrates ‘Best Network’ title with more high-speed data for all](https://www.androidauthority.com/metro-by-t-mobile-data-increase-3570308/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-24/#ftag=CAD590a51e)
- - [Q&amp;A with Hinge CEO Justin McLeod on why AI companionship is like junk food, plans for a Hinge mobile payment system to avoid App Store fees, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250623/p42#a250623p42)<!-- TECH:END -->
+ - [The UK CMA says it has provisionally found Google meets the legal tests to designate it with &quot;strategic market status&quot; in general search and search advertising &lpar;Financial Times&rpar;](http://www.techmeme.com/250624/p2#a250624p2)
+ - [NordVPN Coupon and Discount Codes: 76% Off](https://www.wired.com/story/nordvpn-coupon/)
+ - [Galaxy S26 Ultra, S26 Edge spotted: Is the ‘Plus’ model really going away?](https://www.androidauthority.com/samsung-galaxy-s26-ultra-galaxy-s26-edge-imei-listing-3570312/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
