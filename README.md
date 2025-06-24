@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus ROG Zephyrus G14 &lpar;2025&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g14-2025-review/)
- - [Razer Blade 14 &lpar;2025&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/razer-blade-14-2025-review/)
- - [System Shock 2&#39;s remaster is delayed for everyone but you and me](https://www.pcgamer.com/games/rpg/system-shock-2s-remaster-is-delayed-for-everyone-but-you-and-me/)<!-- GAME:END -->
+ - [Cowabunga! Essential Tips for TMNT: Splintered Fate](https://news.xbox.com/en-us/2025/06/24/essential-tips-for-tmnt-splintered-fate/)
+ - [Security mitigations in Intel&#39;s GPUs rob up to 20% of their compute performance but it&#39;s unlikely to be a problem in games](https://www.pcgamer.com/hardware/graphics-cards/security-mitigations-in-intels-gpus-rob-up-to-20-percent-of-their-compute-performance-but-its-unlikely-to-be-a-problem-in-games/)
+ - [A Sonic theme park? SEGA is eying possibilities](https://www.polygon.com/news/608646/sonic-the-hedgehog-theme-park-usa-sega-possible)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
