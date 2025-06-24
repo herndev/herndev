@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Metro by T-Mobile celebrates ‘Best Network’ title with more high-speed data for all](https://www.androidauthority.com/metro-by-t-mobile-data-increase-3570308/)
  - [Q&amp;A with Hinge CEO Justin McLeod on why AI companionship is like junk food, plans for a Hinge mobile payment system to avoid App Store fees, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250623/p42#a250623p42)
- - [OpenAI’s first AI device with Jony Ive won’t be a wearable](https://www.theverge.com/openai/691737/openai-jony-ive-chatgpt-io-ai-device-wearable-headphone-lyo-lawsuit)
- - [Epomaker Magcore 87 keyboard review: A chunky, heavy, inductive gaming keyboard](https://appleinsider.com/articles/25/06/24/epomaker-magcore-87-keyboard-review-a-chunky-heavy-inductive-gaming-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI’s first AI device with Jony Ive won’t be a wearable](https://www.theverge.com/openai/691737/openai-jony-ive-chatgpt-io-ai-device-wearable-headphone-lyo-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
