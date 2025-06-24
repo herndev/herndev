@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI’s first AI device with Jony Ive won’t be a wearable](https://www.theverge.com/openai/691737/openai-jony-ive-chatgpt-io-ai-device-wearable-headphone-lyo-lawsuit)
  - [Epomaker Magcore 87 keyboard review: A chunky, heavy, inductive gaming keyboard](https://appleinsider.com/articles/25/06/24/epomaker-magcore-87-keyboard-review-a-chunky-heavy-inductive-gaming-keyboard?utm_medium=rss)
- - [Court filings from in-ear hardware startup iyO&#39;s trademark dispute lawsuit against OpenAI detail OpenAI and io&#39;s early work on in-ear hardware devices &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250623/p41#a250623p41)
- - [Yale’s new Google Home smart lock is here — but it costs more thanks to tariffs](https://www.theverge.com/news/691695/google-nest-yale-smart-lock-with-matter-price-release-date-specs)<!-- TECH:END -->
+ - [Court filings from in-ear hardware startup iyO&#39;s trademark dispute lawsuit against OpenAI detail OpenAI and io&#39;s early work on in-ear hardware devices &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250623/p41#a250623p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
