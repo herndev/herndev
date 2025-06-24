@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
- - ⏩ [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - 👉 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)<!-- MEMES:END -->
+ - 💣 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - ⏩ [And how was your summer vacation flight?](http://9gag.com/gag/aO8RR83)
+ - 👉 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)<!-- MEMES:END -->
 
 ---
 
