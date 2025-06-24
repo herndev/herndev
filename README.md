@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)
- - ⏩ [Living on the edge, one laundry load at a time.](http://9gag.com/gag/a2vLxrZ)
- - 👉 [Anti-Bezos protest in Venice for his wedding. Not even that subtle.](http://9gag.com/gag/azxYQgK)<!-- MEMES:END -->
+ - 💣 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - ⏩ [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)
+ - 👉 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)<!-- MEMES:END -->
 
 ---
 
