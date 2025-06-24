@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Android 14 update is now available for Chromecast with Google TV](https://www.androidauthority.com/chromecast-with-google-tv-android-14-2-3570485/)
- - [Countdown to Prime Day: Best deals on Apple deliver up to $400 off](https://appleinsider.com/articles/25/06/24/countdown-to-prime-day-best-deals-on-apple-deliver-up-to-400-off?utm_medium=rss)
- - [Verizon is giving away free swag to mark its customer support upgrades — here’s how to get in on it](https://www.androidauthority.com/verizon-customer-support-upgrade-freebie-3570417/)<!-- TECH:END -->
+ - [Courts say AI training on copyrighted material is legal](https://appleinsider.com/articles/25/06/24/courts-say-ai-training-on-copyrighted-material-is-legal?utm_medium=rss)
+ - [Netflix is letting go of some of its best indie games](https://www.theverge.com/news/692227/netflix-games-delisting-hades-braid-gaming-strategy)
+ - [Chrome for Android is rolling out a feature that lets users move the address bar to the bottom of the screen, after it launched for iOS users in 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250624/p26#a250624p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
