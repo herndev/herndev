@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - ⏩ [And how was your summer vacation flight?](http://9gag.com/gag/aO8RR83)
- - 👉 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)<!-- MEMES:END -->
+ - 💣 [Living on the edge, one laundry load at a time.](http://9gag.com/gag/a2vLxrZ)
+ - ⏩ [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)
+ - 👉 [Then let all of them work](http://9gag.com/gag/aD2OQMx)<!-- MEMES:END -->
 
 ---
 
