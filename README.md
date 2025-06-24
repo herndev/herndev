@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Courts say AI training on copyrighted material is legal](https://appleinsider.com/articles/25/06/24/courts-say-ai-training-on-copyrighted-material-is-legal?utm_medium=rss)
- - [Netflix is letting go of some of its best indie games](https://www.theverge.com/news/692227/netflix-games-delisting-hades-braid-gaming-strategy)
- - [Chrome for Android is rolling out a feature that lets users move the address bar to the bottom of the screen, after it launched for iOS users in 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250624/p26#a250624p26)<!-- TECH:END -->
+ - [The Titan 2 is a modernized BlackBerry with 5G, Android, and a second screen](https://www.theverge.com/news/691938/titan-2-smartphone-keyboard-blackberry-5g-android-15)
+ - [This 55-inch QLED TV is on sale for $565 and looks like a picture frame when it isn’t being used](https://www.theverge.com/tech/692220/iffalcon-qled-mural-tv-gamesir-g8-galileo-controller-deal-sale)
+ - [Google Pixel 10 leak points to some disappointing feature omissions](https://www.androidauthority.com/google-pixel-10-vapor-chamber-3570540/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
