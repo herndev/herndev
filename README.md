@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad’s minimalist MagSafe wallet has a tracking card built in](https://www.theverge.com/news/691253/nomad-tracking-card-magsafe-leather-mag-wallet-apple-find-my)
- - [YouTube Music solves the offline lyrics problem that Apple Music and Spotify still haven’t](https://www.androidauthority.com/youtube-music-offline-lyrics-3570424/)
- - [These battery-powered 4K cameras record 24/7](https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible)<!-- TECH:END -->
+ - [Chrome on Android is finally making a long-awaited UI change over a year after iOS](https://www.androidauthority.com/chrome-android-bottom-address-bar-3570198/)
+ - [Philips Hue is raising prices in the US ‘as a direct result of tariffs’](https://www.theverge.com/news/692130/philips-hue-us-tariffs-smart-lighting-price-increase)
+ - [Krysten Ritter Returns as Jessica Jones in &#39;Daredevil: Born Again&#39;: What We Know So Far](https://www.cnet.com/tech/services-and-software/krysten-ritter-returns-as-jessica-jones-in-daredevil-born-again-what-we-know-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
