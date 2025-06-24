@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
- - ⏩ [9 times gravity](http://9gag.com/gag/a7oppyq)
+ - 💣 [Horror](http://9gag.com/gag/aRBODXG)
+ - ⏩ [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
  - 👉 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)<!-- MEMES:END -->
 
 ---
