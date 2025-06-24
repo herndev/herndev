@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Brilliance of the Pioneers of the Stealth Genre Recaptured by an Indie Game](https://news.xbox.com/en-us/2025/06/24/stealth-genre-recaptured-by-an-indie-game/)
- - [Little Nightmares III launches Oct 10 on PS5 &amp; PS4, Carnevale level revealed](https://blog.playstation.com/2025/06/24/little-nightmares-iii-launches-oct-10-on-ps5-ps4-carnevale-level-revealed/)
- - [Five Essential Tips for Escaping Together in How 2 Escape: Lost Submarine](https://news.xbox.com/en-us/2025/06/24/tips-for-how-2-escape-lost-submarine/)<!-- GAME:END -->
+ - [&amp;#8216;I won&amp;#8217;t do it&amp;#8217;: Death Stranding 2&amp;#8217;s first big choice is scaring streamers but shouldn&amp;#8217;t scare you](https://www.polygon.com/gaming/608747/death-stranding-2-i-wont-do-it-choice-fragile)
+ - [What time does Persona 5: The Phantom X release?](https://www.polygon.com/guides/608542/persona-5-phantom-x-p5x-release-time-date-edt-pdt-bst)
+ - [Norman Reedus Looks More Like Norman Reedus In Death Stranding 2](https://kotaku.com/death-stranding-2-norman-reedus-graphics-comparison-ps5-1851785026)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
