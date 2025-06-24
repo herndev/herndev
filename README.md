@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8BitDo’s controllers will work with the Switch 2 after a firmware update](https://www.theverge.com/news/681153/8bitdo-controller-gamepad-nintendo-switch-2-compatible-firmware-update)
- - [Yale’s new Smart Lock with Matter is the perfect smart home upgrade for people with app fatigue](https://www.androidauthority.com/yale-smart-lock-matter-3569699/)
- - [The Groove Thing Is a Bluetooth Speaker and Vibrator Combo, Because Why Not?](https://www.wired.com/story/the-groove-thing-is-a-bluetooth-speaker-and-vibrator-combo-because-why-not/)<!-- TECH:END -->
+ - [I skipped every Death Stranding cutscene and I&amp;#8217;ll do it again](https://www.theverge.com/games/690231/death-stranding-cutscenes-skip)
+ - [What a set of knockoff headphones taught me about headphones — and knockoffs](https://www.theverge.com/gadgets/691928/tiktok-shop-picun-f8-airpods-max-headphones)
+ - [Sources: Microsoft is planning a round of Xbox layoffs next week, with managers expecting substantial cuts, the fourth big layoff at Xbox in the past 18 months &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250624/p17#a250624p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
