@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo’s robotaxis are now available on the Uber app in Atlanta](https://www.theverge.com/news/691101/waymo-uber-robotaxi-atlanta-launch)
- - [Five years of Apple Silicon: How Apple continues to revolutionize chips](https://appleinsider.com/articles/25/04/23/five-years-of-apple-silicon-how-apple-continues-to-revolutionize-chips?utm_medium=rss)
- - [Inside Amazon&#39;s Indiana data center complex: built for Anthropic with plans for ~30 centers, consuming 2.2GW of power and millions of gallons of water per year &lpar;New York Times&rpar;](http://www.techmeme.com/250624/p9#a250624p9)<!-- TECH:END -->
+ - [Google Earth adds old Street View captures to rewind time from the street level](https://www.theverge.com/news/691525/google-earth-historical-street-view-imagery)
+ - [Google, the Earth Fire Alliance, and Muon Space&#39;s Fire Sat aims to launch 52 satellites by 2029 to detect wildfires globally and will make the data accessible &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/250624/p13#a250624p13)
+ - [iPad Pro bezels could shrink more with OLED film changes](https://appleinsider.com/articles/25/06/24/ipad-pro-bezels-could-shrink-more-with-oled-film-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
