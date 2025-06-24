@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
- - ⏩ [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
- - 👉 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)<!-- MEMES:END -->
+ - 💣 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
+ - ⏩ [9 times gravity](http://9gag.com/gag/a7oppyq)
+ - 👉 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)<!-- MEMES:END -->
 
 ---
 
