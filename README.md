@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at 2025&#39;s AI models and what&#39;s ahead: OpenAI&#39;s o3 is a breakthrough, AI agents will improve randomly and in leaps, but scaling parameters will slow down &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/250624/p3#a250624p3)
- - [Samsung just leaked its own Galaxy Z Flip 7, Z Fold 7 colors, including exclusive shade](https://www.androidauthority.com/samsung-leaks-galaxy-z-flip-7-z-fold-7-colors-3570324/)
- - [Raleigh One e-bike launches with VanMoof DNA](https://www.theverge.com/news/690922/raleigh-one-vanmoof-e-bike-carlier-price-date)<!-- TECH:END -->
+ - [Your Android phone could soon buzz when your Fitbit is charged &lpar;APK teardown&rpar;](https://www.androidauthority.com/fitbit-android-full-charge-notifications-apk-teardown-3570340/)
+ - [Adobe&#39;s New Firefly AI App Lets You Try AI Image and Video Generation for Free](https://www.cnet.com/tech/services-and-software/adobes-new-firefly-ai-app-lets-you-try-ai-image-and-video-generation-for-free/#ftag=CAD590a51e)
+ - [A look at 2025&#39;s AI models and what&#39;s ahead: OpenAI&#39;s o3 is a breakthrough, AI agents will improve randomly and in leaps, but scaling parameters will slow down &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/250624/p3#a250624p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
