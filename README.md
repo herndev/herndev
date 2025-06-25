@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Indie Game Summer Cookout is Here: Indie Selects for June 2025](https://news.xbox.com/en-us/2025/06/25/indie-selects-june-2025/)
- - [Diablo 4 Is Free For PS Plus Subscribers In July As Sony Hints At Upcoming Price Hike](https://kotaku.com/ps-plus-2025-diablo-4-kof-15-price-monster-hunter-wilds-1851785063)
- - [WoW snaps up one of FF14&#39;s best features by letting players choose how many particle effects they want swamping their screens during raids](https://www.pcgamer.com/games/world-of-warcraft/wow-snaps-up-one-of-ff14s-best-features-by-letting-players-choose-how-many-particle-effects-they-want-swamping-their-screens-during-raids/)<!-- GAME:END -->
+ - [Stalker 2&#39;s 1.5 mega-patch just dropped and GSC says A-Life is back, baby](https://www.pcgamer.com/games/fps/stalker-2s-1-5-mega-patch-just-dropped-and-gsc-says-a-life-is-back-baby/)
+ - [Hellblade 2 finally gets that long-awaited PS5 release date](https://www.polygon.com/gaming/608881/hellblade-2-ps5-release-date-specs)
+ - [Disco Elysium studio took sci-fi survival game The Alters and made it fashion](https://www.polygon.com/culture/608746/zaum-atelier-alters-11-bit-studios-fashion-clothing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
