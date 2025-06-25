@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [McLaren and Logitech G sign multi-year partnership deal to develop pro-quality racing sim hardware](https://www.pcgamer.com/hardware/mclaren-and-logitech-g-sign-multi-year-partnership-deal-to-develop-pro-quality-racing-sim-hardware/)
  - [Today&#39;s Wordle answer for Wednesday, June 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-25-2025/)
- - [&lpar;For Southeast Asia&rpar; RAIDOU Remastered: The Mystery of the Soulless Army will be released tomorrow, on June 19! Conjure Demons to Vanquish Demons Make way for Raidou Kuzunoha, Devil Summoner!](https://blog.playstation.com/2025/06/24/20250625-raidou/)
  - [&lpar;For Southeast Asia&rpar; RAIDOU Remastered: The Mystery of the Soulless Army will be released tomorrow, on June 19! Conjure Demons to Vanquish Demons Make way for Raidou Kuzunoha, Devil Summoner!](https://blog.playstation.com/2025/06/24/20250625-raidou/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
