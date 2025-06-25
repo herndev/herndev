@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested 12 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [WhatsApp launches optional Meta AI-generated summaries of unread messages in the US; Meta can&#39;t read the messages and summaries are hidden from other chat users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250625/p26#a250625p26)
- - [Countdown to Prime Day: Best deals on Apple deliver up to $400 off](https://appleinsider.com/articles/25/06/24/countdown-to-prime-day-best-deals-on-apple-deliver-up-to-400-off?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro will help get to the bottom of colonoscopy cancer detection](https://appleinsider.com/articles/25/06/25/apple-vision-pro-will-help-get-to-the-bottom-of-colonoscopy-cancer-detection?utm_medium=rss)
+ - [Google may give the Pixel 10 a bigger battery and faster charging](https://www.androidauthority.com/pixel-10-rumored-battery-specs-3570961/)
+ - [License plate reader company Flock has stopped US agencies from accessing cameras in CA, IL, and VA after reports of lookups related to ICE and an abortion case &lpar;404 Media&rpar;](http://www.techmeme.com/250625/p27#a250625p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
