@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yeston&#39;s adorable single fan RTX 5060 adorned with tiny little bears is almost cute enough to make me want a mini gaming PC](https://www.pcgamer.com/hardware/graphics-cards/yestons-adorable-single-fan-rtx-5060-adorned-with-tiny-little-bears-is-almost-cute-enough-to-make-me-want-a-mini-gaming-pc/)
- - [Can you save your progress in Peak?](https://www.pcgamer.com/games/sim/peak-how-to-save/)
- - [Sins of the Horadrim Arrives in Diablo IV on July 1](https://news.blizzard.com/en-gb/article/24215863/purge-the-sins-of-the-horadrim#new_tab)<!-- GAME:END -->
+ - [FromSoftware to make the most brutal boss in Elden Ring Nightreign even harder, as Fulghor gets picked to be the next Everdark Sovereign](https://www.pcgamer.com/games/rpg/fromsoftware-to-make-the-most-brutal-boss-in-elden-ring-nightreign-even-harder-as-fulghor-gets-picked-to-be-the-next-everdark-sovereign/)
+ - [&#39;The fans had no influence&#39; on Karlach&#39;s improved Baldur&#39;s Gate 3 ending, says voice actor Samantha Béart—Larian had to dodge Starfield, but it was &#39;very much planned&#39;](https://www.pcgamer.com/games/baldurs-gate/the-fans-had-no-influence-on-karlachs-improved-baldurs-gate-3-ending-says-voice-actor-samantha-beart-larian-had-to-dodge-starfield-but-it-was-very-much-planned/)
+ - [How to remove ticks in Peak](https://www.pcgamer.com/games/sim/peak-remove-ticks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
