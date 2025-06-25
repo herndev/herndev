@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your average 9gagger](http://9gag.com/gag/aRBONgG)
- - ⏩ [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)
- - 👉 [He is pissed](http://9gag.com/gag/awyY81W)<!-- MEMES:END -->
+ - 💣 [But but... vacation. she needed one](http://9gag.com/gag/a1mExzP)
+ - ⏩ [Butt!](http://9gag.com/gag/a87KXbY)
+ - 👉 [Poor guy didn&#39;t even cheated a day in his life](http://9gag.com/gag/aE0OO5x)<!-- MEMES:END -->
 
 ---
 
