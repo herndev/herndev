@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The photographer using AI to reconstruct stories lost to censorship](https://www.theverge.com/ai-artificial-intelligence/688648/almagul-menlibayeva-ai-reimagining-censored-government-work)
- - [Apple’s sports app now shows tennis scores](https://www.theverge.com/news/692872/apples-sports-app-now-shows-tennis-scores)
- - [Best Binoculars &lpar;2025&rpar;: Zeiss, Swarovski, Leica](https://www.wired.com/story/best-binoculars/)<!-- TECH:END -->
+ - [Google unpacks what went into Phone’s Material 3 Expressive revamp](https://www.androidauthority.com/google-phone-app-redesign-3570925/)
+ - [Samsung’s next budget earbuds sound like they have incredible battery life](https://www.androidauthority.com/galaxy-buds-core-listing-3570886/)
+ - [Google’s Find Hub network is unreliable, but this simple change could fix it](https://www.androidauthority.com/google-find-hub-setup-screen-3570944/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
