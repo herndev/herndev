@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairphone Gen 6 is here with a modular design that gives you even more freedom](https://www.androidauthority.com/fairphone-gen-6-3570315/)
- - [The smaller Fairphone 6 introduces swappable accessories](https://www.theverge.com/news/692248/fairphone-6-smartphone-repairable-modular-accessories-murena)
- - [Gallup: ~60% of 2,232 teachers at US K-12 public schools say they used AI tools in the past school year; regular users estimate weekly time savings of 5.9 hours &lpar;Jocelyn Gecker/Associated Press&rpar;](http://www.techmeme.com/250625/p7#a250625p7)<!-- TECH:END -->
+ - [10 Best Protein Powders of 2025, Tested &amp; Reviewed by WIRED](https://www.wired.com/gallery/best-protein-powders/)
+ - [French payments group Worldline&#39;s stock drops 20%+ after European journalism network EIC reports alleging that the company covered up customer fraud &lpar;Bloomberg&rpar;](http://www.techmeme.com/250625/p8#a250625p8)
+ - [Galaxy Z Flip 7 FE price leaks: Should you buy last year’s Flip instead?](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-price-leak-3570710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
