@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - ⏩ [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
- - 👉 [Just aim properly](http://9gag.com/gag/ary2dBK)<!-- MEMES:END -->
+ - 💣 [Just aim properly](http://9gag.com/gag/ary2dBK)
+ - ⏩ [Butt!](http://9gag.com/gag/a87KXbY)
+ - 👉 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)<!-- MEMES:END -->
 
 ---
 
