@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Razr Ultra deal: Get a free upgrade to 1TB of storage](https://www.androidauthority.com/motorola-razr-ultra-deal-3571050/)
- - [This MacBook upgrade program starts at just $33.28/month](https://appleinsider.com/articles/25/06/25/this-macbook-upgrade-program-starts-at-just-3328month?utm_medium=rss)
- - [Report: French authorities arrested four individuals allegedly involved in operating the BreachForums cybercrime forum on Monday and one in February &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250625/p31#a250625p31)<!-- TECH:END -->
+ - [HDMI 2.2 arrives with 16K video and 96Gbps bandwidth support](https://appleinsider.com/articles/25/06/25/hdmi-22-arrives-with-16k-video-and-96gbps-bandwidth-support?utm_medium=rss)
+ - [Asana names LaunchDarkly CEO Dan Rogers as its new CEO starting on July 21, replacing co-founder Dustin Moskovitz, who is retiring and will remain board chair &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250625/p33#a250625p33)
+ - [Trump Phone website trades ‘Made in the USA’ claim for patriotic vibes](https://www.androidauthority.com/trump-t1-phone-drops-made-in-usa-claim-3571069/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
