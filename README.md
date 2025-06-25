@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips Hue lighting will be more expensive starting July 1st, but you can save on them now](https://www.theverge.com/tech/692821/philips-hue-light-bulbs-price-increase-deal-sale)
- - [Aaron Sorkin is making a sequel to The Social Network](https://www.theverge.com/news/693198/the-social-network-part-ii-aaron-sorkin-sony-facebook)
- - [Android 16 QPR1 Beta 2.1 is ready for testers with a few choice bugfixes](https://www.androidauthority.com/android-16-qpr1-beta-2-1-3571027/)<!-- TECH:END -->
+ - [Motorola Razr Ultra deal: Get a free upgrade to 1TB of storage](https://www.androidauthority.com/motorola-razr-ultra-deal-3571050/)
+ - [This MacBook upgrade program starts at just $33.28/month](https://appleinsider.com/articles/25/06/25/this-macbook-upgrade-program-starts-at-just-3328month?utm_medium=rss)
+ - [Report: French authorities arrested four individuals allegedly involved in operating the BreachForums cybercrime forum on Monday and one in February &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250625/p31#a250625p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
