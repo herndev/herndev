@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Gift from Terry](http://9gag.com/gag/a5QqymG)
- - ⏩ [Groooooooooooovy.](http://9gag.com/gag/aVvV4P8)
- - 👉 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aMVOyxG)<!-- MEMES:END -->
+ - 💣 [The strange historical case of Bobby Dunbar and the identity revealed by DNA.](http://9gag.com/gag/aO8RGOM)
+ - ⏩ [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
+ - 👉 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)<!-- MEMES:END -->
 
 ---
 
