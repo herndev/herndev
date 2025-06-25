@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just aim properly](http://9gag.com/gag/ary2dBK)
- - ⏩ [Butt!](http://9gag.com/gag/a87KXbY)
- - 👉 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)<!-- MEMES:END -->
+ - 💣 [Guess this is our boomer phase in the making.](http://9gag.com/gag/axyY4Qn)
+ - ⏩ [Kids will always keep you on your toes with the things they say.](http://9gag.com/gag/abAQEBB)
+ - 👉 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)<!-- MEMES:END -->
 
 ---
 
