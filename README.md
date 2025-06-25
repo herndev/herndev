@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia frees REvil hackers after sentencing](https://www.theverge.com/news/692582/russia-revil-hacker-group-ransomware-sentencing)
- - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
- - [Google is bringing Gemini CLI to developers&amp;#8217; terminals](https://www.theverge.com/news/692517/google-gemini-cli-ai-agent-dev-terminal)<!-- TECH:END -->
+ - [The Nintendo Switch 2 will be available for Walmart Plus subscribers today at 9pm Eastern](https://www.theverge.com/tech/691359/nintendo-switch-2-console-restock-walmart-plus-exclusive)
+ - [Discord is working on a Windows on Arm app](https://www.theverge.com/news/692551/discord-windows-on-arm-app-arm64-version-development)
+ - [Bumble plans to cut 30% of its workforce, or about 240 roles, and invest the ~$40M saved annually into new product and tech development; BMBL rises 20%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250625/p16#a250625p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
