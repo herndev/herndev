@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess this is our boomer phase in the making.](http://9gag.com/gag/axyY4Qn)
- - ⏩ [Kids will always keep you on your toes with the things they say.](http://9gag.com/gag/abAQEBB)
- - 👉 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)<!-- MEMES:END -->
+ - 💣 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
+ - ⏩ [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - 👉 [Mini Heart Attack](http://9gag.com/gag/a87KVKd)<!-- MEMES:END -->
 
 ---
 
