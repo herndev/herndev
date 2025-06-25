@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New York City might get its first gamer mayor: Years before winning the Democratic primary, 11-year old Zohran Mamdani had his heart set on SimCity 3000](https://www.pcgamer.com/games/sim/new-york-city-might-get-its-first-gamer-mayor-years-before-winning-the-democratic-primary-11-year-old-zohran-mamdani-had-his-heart-set-on-simcity-3000/)
- - [What is I Am Your Beast, You Ask? Let’s Ask the Developers](https://news.xbox.com/en-us/2025/06/25/i-am-your-beast-lets-ask-the-developers/)
- - [Hearthstone&#39;s first in-game pet is only available via a gacha mechanic that will cost most players a whopping 158 bucks](https://www.pcgamer.com/games/card-games/hearthstones-first-in-game-pet-is-only-available-via-a-gacha-mechanic-that-will-cost-most-players-a-whopping-158-bucks/)<!-- GAME:END -->
+ - [How to get free Crowned Sword Energy and Crowned Shield Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/608858/crowned-sword-shield-energy-how-to-get-free-codes)
+ - [That was quick! Funcom is already testing a version of Dune: Awakening where the Deep Desert is only 50% PvP](https://www.pcgamer.com/games/mmo/that-was-quick-funcom-is-already-testing-a-version-of-dune-awakening-where-the-deep-desert-is-only-50-percent-pvp/)
+ - [Jack Black’s taking the piss in Tony Hawk’s Pro Skater 3+4](https://www.polygon.com/gaming/609047/jack-black-tony-hawks-pro-skater-3-4-remaster-officer-dick-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
