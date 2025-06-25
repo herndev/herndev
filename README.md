@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
- - ⏩ [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - 👉 [Mini Heart Attack](http://9gag.com/gag/a87KVKd)<!-- MEMES:END -->
+ - 💣 [Kids will always keep you on your toes with the things they say.](http://9gag.com/gag/abAQEBB)
+ - ⏩ [Weird ornament](http://9gag.com/gag/aXPKR4g)
+ - 👉 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)<!-- MEMES:END -->
 
 ---
 
