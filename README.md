@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nintendo Switch 2 will be available for Walmart Plus subscribers today at 9pm Eastern](https://www.theverge.com/tech/691359/nintendo-switch-2-console-restock-walmart-plus-exclusive)
- - [Discord is working on a Windows on Arm app](https://www.theverge.com/news/692551/discord-windows-on-arm-app-arm64-version-development)
- - [Bumble plans to cut 30% of its workforce, or about 240 roles, and invest the ~$40M saved annually into new product and tech development; BMBL rises 20%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250625/p16#a250625p16)<!-- TECH:END -->
+ - [Here’s a running list of all of Tesla’s robotaxi mishaps so far](https://www.theverge.com/news/692639/tesla-robotaxi-mistake-wrong-lane-phantom-braking)
+ - [Centific, an AI &quot;data foundry&quot; that works with businesses to develop, train, and deploy their AI models, raised a $60M Series A led by Granite Asia &lpar;Nicholas Gordon/Fortune&rpar;](http://www.techmeme.com/250625/p19#a250625p19)
+ - [Before Wimbledon, Tennis finally gets some love in Apple Sports](https://appleinsider.com/articles/25/06/25/before-wimbledon-tennis-finally-gets-some-love-in-apple-sports?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
