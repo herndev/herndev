@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: of 750 data brokers registered in at least one US state, many failed to register in other states with transparency laws, undermining consumer privacy &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/250624/p41#a250624p41)
  - [A surge in AI-generated résumés is overwhelming employers, who are turning to AI screening and interviewing tools to assess responses and rank candidates &lpar;Sarah Kessler/New York Times&rpar;](http://www.techmeme.com/250624/p40#a250624p40)
- - [Ironheart believes the children are the future](https://www.theverge.com/marvel/691168/ironheart-believes-children-are-the-future)
- - [How to Watch ES Tunis vs. Chelsea From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-es-tunis-vs-chelsea-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Ironheart&#39; Review: Marvel Series Is Not Too Heavy, but It&#39;s Not Too Light, Either](https://www.cnet.com/tech/services-and-software/ironheart-review-marvel-series-is-not-too-heavy-but-not-too-light-either/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
