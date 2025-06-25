@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro will help get to the bottom of colonoscopy cancer detection](https://appleinsider.com/articles/25/06/25/apple-vision-pro-will-help-get-to-the-bottom-of-colonoscopy-cancer-detection?utm_medium=rss)
- - [Google may give the Pixel 10 a bigger battery and faster charging](https://www.androidauthority.com/pixel-10-rumored-battery-specs-3570961/)
- - [License plate reader company Flock has stopped US agencies from accessing cameras in CA, IL, and VA after reports of lookups related to ICE and an abortion case &lpar;404 Media&rpar;](http://www.techmeme.com/250625/p27#a250625p27)<!-- TECH:END -->
+ - [Philips Hue lighting will be more expensive starting July 1st, but you can save on them now](https://www.theverge.com/tech/692821/philips-hue-light-bulbs-price-increase-deal-sale)
+ - [Aaron Sorkin is making a sequel to The Social Network](https://www.theverge.com/news/693198/the-social-network-part-ii-aaron-sorkin-sony-facebook)
+ - [Android 16 QPR1 Beta 2.1 is ready for testers with a few choice bugfixes](https://www.androidauthority.com/android-16-qpr1-beta-2-1-3571027/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
