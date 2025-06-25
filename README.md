@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Find My, Mail, Photos and iWork hit by iCloud outage Tuesday](https://appleinsider.com/articles/25/06/24/find-my-mail-photos-and-iwork-hit-by-icloud-outage?utm_medium=rss)
- - [Berlin-based Synthflow, a no-code service letting enterprises build and deploy customized voice AI customer service agents, raised a $20M Series A led by Accel &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250624/p39#a250624p39)
- - [DJI ‘remains committed to the US market’ as shelves go bare of drones](https://www.theverge.com/report/692398/dji-drones-out-of-stock-best-buy-amazon-deny-us-exit)<!-- TECH:END -->
+ - [A surge in AI-generated résumés is overwhelming employers, who are turning to AI screening and interviewing tools to assess responses and rank candidates &lpar;Sarah Kessler/New York Times&rpar;](http://www.techmeme.com/250624/p40#a250624p40)
+ - [Ironheart believes the children are the future](https://www.theverge.com/marvel/691168/ironheart-believes-children-are-the-future)
+ - [How to Watch ES Tunis vs. Chelsea From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-es-tunis-vs-chelsea-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
