@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Horror](http://9gag.com/gag/aRBODXG)
- - ⏩ [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
- - 👉 [Just aim properly](http://9gag.com/gag/ary2dBK)<!-- MEMES:END -->
+ - 💣 [That snap was faster than expected](http://9gag.com/gag/awyYexB)
+ - ⏩ [Just aim properly](http://9gag.com/gag/ary2dBK)
+ - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
 
 ---
 
