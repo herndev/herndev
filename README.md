@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [McLaren and Logitech G sign multi-year partnership deal to develop pro-quality racing sim hardware](https://www.pcgamer.com/hardware/mclaren-and-logitech-g-sign-multi-year-partnership-deal-to-develop-pro-quality-racing-sim-hardware/)
- - [Today&#39;s Wordle answer for Wednesday, June 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-25-2025/)
- - [&lpar;For Southeast Asia&rpar; RAIDOU Remastered: The Mystery of the Soulless Army will be released tomorrow, on June 19! Conjure Demons to Vanquish Demons Make way for Raidou Kuzunoha, Devil Summoner!](https://blog.playstation.com/2025/06/24/20250625-raidou/)<!-- GAME:END -->
+ - [U.S. House of Representatives memo reveals WhatsApp has been banned from employee devices, citing &quot;a high risk to users due to the lack of transparency in how it protects user data&quot; and security concerns](https://www.pcgamer.com/hardware/u-s-house-of-representatives-memo-reveals-whatsapp-has-been-banned-from-employee-devices-citing-a-high-risk-to-users-due-to-the-lack-of-transparency-in-how-it-protects-user-data-and-security-concerns/)
+ - [Amazon announces three-year $54 billion investment into warehouse facilities, infrastucture, and wages throughout Britain](https://www.pcgamer.com/hardware/amazon-announces-three-year-usd54-billion-investment-into-warehouse-facilities-infrastucture-and-wages-throughout-britain/)
+ - [McLaren and Logitech G sign multi-year partnership deal to develop pro-quality racing sim hardware](https://www.pcgamer.com/hardware/mclaren-and-logitech-g-sign-multi-year-partnership-deal-to-develop-pro-quality-racing-sim-hardware/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
