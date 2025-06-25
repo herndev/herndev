@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After too many ‘hat sets,’ Magic is getting back to real worldbuilding with Edge of Eternities](https://www.polygon.com/mtg-magic-the-gathering/608804/edge-of-eternities-lore-setting-original-unique)
- - [The Nvidia Blackwell guide to DOOM: The Dark Ages best settings](https://www.pcgamer.com/hardware/graphics-cards/the-nvidia-blackwell-guide-to-doom-the-dark-ages-best-settings/)
- - [I turn my back for one second and now Assassin&#39;s Creed Shadows has Critical Role in it](https://www.pcgamer.com/games/assassins-creed/i-turn-my-back-for-one-second-and-now-assassins-creed-shadows-has-critical-role-in-it/)<!-- GAME:END -->
+ - [Gran Turismo 7 Update 1.60 available today](https://blog.playstation.com/2025/06/25/gran-turismo-7-update-1-60-available-today/)
+ - [Senua’s Saga: Hellblade II Enhanced Arrives August 12](https://news.xbox.com/en-us/2025/06/25/senuas-saga-hellblade-ii-enhanced-update/)
+ - [John Cena’s Heel Run: 3 Things We Like and 3 Things We Don’t](https://kotaku.com/john-cena-heel-cody-rhodes-r-truth-night-of-champions-1851785024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
