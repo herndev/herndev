@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7 Update 1.60 available today](https://blog.playstation.com/2025/06/25/gran-turismo-7-update-1-60-available-today/)
- - [Senua’s Saga: Hellblade II Enhanced Arrives August 12](https://news.xbox.com/en-us/2025/06/25/senuas-saga-hellblade-ii-enhanced-update/)
- - [John Cena’s Heel Run: 3 Things We Like and 3 Things We Don’t](https://kotaku.com/john-cena-heel-cody-rhodes-r-truth-night-of-champions-1851785024)<!-- GAME:END -->
+ - [Rust Console Edition Gets an Xbox Series X|S Upgrade – Free for Existing Players](https://news.xbox.com/en-us/2025/06/25/rust-console-edition-xbox-series-x-s-upgrade-free/)
+ - [The final Fantastic Four trailer looks like a tragedy](https://www.polygon.com/movies/608828/fantastic-four-trailer-galactus-silver-surfer-reveal)
+ - [Sloclap shoots, then scores as Rematch hits 3 million players, proving there&#39;s a surprising overlap between sports and fighting game fans](https://www.pcgamer.com/games/action/sloclap-shoots-then-scores-as-rematch-hits-3-million-players-proving-theres-a-surprising-overlap-between-sports-and-fighting-game-fans/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
