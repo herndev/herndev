@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That snap was faster than expected](http://9gag.com/gag/awyYexB)
- - ⏩ [Just aim properly](http://9gag.com/gag/ary2dBK)
- - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
+ - 💣 [Mini Heart Attack](http://9gag.com/gag/a87KVKd)
+ - ⏩ [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - 👉 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)<!-- MEMES:END -->
 
 ---
 
