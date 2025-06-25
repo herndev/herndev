@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sell The Right Things In Monster Hunter Wilds To Stay Rich](https://kotaku.com/monster-hunter-wilds-mh-zenny-trade-in-material-1851785064)
- - [This Is The Most Devastating Way I&#39;ve Ever Seen A Show Announce It Was Canceled](https://kotaku.com/tiny-chef-nickelodeon-canceled-season-3-kristen-bell-1851785074)
- - [Overwatch 2’s Latest Bug May Be The Most Disruptive The Game’s Ever Had](https://kotaku.com/overwatch-2-season-17-perk-bug-all-perks-glitch-equip-1851785076)<!-- GAME:END -->
+ - [GI Joe is coming to Overwatch 2, and the Cobra Commander pick is perfect](https://www.polygon.com/gaming/608959/overwatch-2-gi-joe-skins-event)
+ - [Ironheart Has A Deep Connection To The Beginning Of The Marvel Cinematic Universe](https://kotaku.com/ironheart-iron-man-obidiah-stane-ezekiel-stane-disney-1851785091)
+ - [Introducing Call of Duty: Mobile Season 6 — Gundams Arrive](https://www.callofduty.com/blog/2025/06/call-of-duty-mobile-season-six-gundams-arrive#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
