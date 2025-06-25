@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FromSoftware to make the most brutal boss in Elden Ring Nightreign even harder, as Fulghor gets picked to be the next Everdark Sovereign](https://www.pcgamer.com/games/rpg/fromsoftware-to-make-the-most-brutal-boss-in-elden-ring-nightreign-even-harder-as-fulghor-gets-picked-to-be-the-next-everdark-sovereign/)
- - [&#39;The fans had no influence&#39; on Karlach&#39;s improved Baldur&#39;s Gate 3 ending, says voice actor Samantha Béart—Larian had to dodge Starfield, but it was &#39;very much planned&#39;](https://www.pcgamer.com/games/baldurs-gate/the-fans-had-no-influence-on-karlachs-improved-baldurs-gate-3-ending-says-voice-actor-samantha-beart-larian-had-to-dodge-starfield-but-it-was-very-much-planned/)
- - [How to remove ticks in Peak](https://www.pcgamer.com/games/sim/peak-remove-ticks/)<!-- GAME:END -->
+ - [After too many ‘hat sets,’ Magic is getting back to real worldbuilding with Edge of Eternities](https://www.polygon.com/mtg-magic-the-gathering/608804/edge-of-eternities-lore-setting-original-unique)
+ - [The Nvidia Blackwell guide to DOOM: The Dark Ages best settings](https://www.pcgamer.com/hardware/graphics-cards/the-nvidia-blackwell-guide-to-doom-the-dark-ages-best-settings/)
+ - [I turn my back for one second and now Assassin&#39;s Creed Shadows has Critical Role in it](https://www.pcgamer.com/games/assassins-creed/i-turn-my-back-for-one-second-and-now-assassins-creed-shadows-has-critical-role-in-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
