@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GI Joe is coming to Overwatch 2, and the Cobra Commander pick is perfect](https://www.polygon.com/gaming/608959/overwatch-2-gi-joe-skins-event)
- - [Ironheart Has A Deep Connection To The Beginning Of The Marvel Cinematic Universe](https://kotaku.com/ironheart-iron-man-obidiah-stane-ezekiel-stane-disney-1851785091)
- - [Introducing Call of Duty: Mobile Season 6 — Gundams Arrive](https://www.callofduty.com/blog/2025/06/call-of-duty-mobile-season-six-gundams-arrive#new_tab)<!-- GAME:END -->
+ - [What is I Am Your Beast, You Ask? Let’s Ask the Developers](https://news.xbox.com/en-us/2025/06/25/i-am-your-beast-lets-ask-the-developers/)
+ - [Hearthstone&#39;s first in-game pet is only available via a gacha mechanic that will cost most players a whopping 158 bucks](https://www.pcgamer.com/games/card-games/hearthstones-first-in-game-pet-is-only-available-via-a-gacha-mechanic-that-will-cost-most-players-a-whopping-158-bucks/)
+ - [We Are Getting An Official X-Files Lego Set And It Looks Great](https://kotaku.com/x-files-official-lego-set-90s-wallace-and-gromit-mulder-1851785096)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
