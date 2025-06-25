@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rust Console Edition Gets an Xbox Series X|S Upgrade – Free for Existing Players](https://news.xbox.com/en-us/2025/06/25/rust-console-edition-xbox-series-x-s-upgrade-free/)
- - [The final Fantastic Four trailer looks like a tragedy](https://www.polygon.com/movies/608828/fantastic-four-trailer-galactus-silver-surfer-reveal)
- - [Sloclap shoots, then scores as Rematch hits 3 million players, proving there&#39;s a surprising overlap between sports and fighting game fans](https://www.pcgamer.com/games/action/sloclap-shoots-then-scores-as-rematch-hits-3-million-players-proving-theres-a-surprising-overlap-between-sports-and-fighting-game-fans/)<!-- GAME:END -->
+ - [The Indie Game Summer Cookout is Here: Indie Selects for June 2025](https://news.xbox.com/en-us/2025/06/25/indie-selects-june-2025/)
+ - [Diablo 4 Is Free For PS Plus Subscribers In July As Sony Hints At Upcoming Price Hike](https://kotaku.com/ps-plus-2025-diablo-4-kof-15-price-monster-hunter-wilds-1851785063)
+ - [WoW snaps up one of FF14&#39;s best features by letting players choose how many particle effects they want swamping their screens during raids](https://www.pcgamer.com/games/world-of-warcraft/wow-snaps-up-one-of-ff14s-best-features-by-letting-players-choose-how-many-particle-effects-they-want-swamping-their-screens-during-raids/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
