@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the medicine ball decides to fight back](http://9gag.com/gag/a34beMm)
+ - 💣 [Just aim properly](http://9gag.com/gag/ary2dBK)
  - ⏩ [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
  - 👉 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)<!-- MEMES:END -->
 
