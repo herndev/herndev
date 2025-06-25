@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a letter to staff, CEO Eddie Wu says Alibaba is merging its food delivery platform Ele.me and online travel agency Fliggy into its core e-commerce business &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/250625/p1#a250625p1)
  - [Andy Konwinski, co-founder of Databricks and Perplexity, launches the nonprofit Laude Institute, self-funded with $100M for grants to AI projects and labs &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250624/p42#a250624p42)
- - [Report highlights uncomfortable truths about Tump Mobile and its T1 Phone](https://www.androidauthority.com/trump-mobile-t1-phone-uncomfortable-truths-3570639/)
- - [Analysis: of 750 data brokers registered in at least one US state, many failed to register in other states with transparency laws, undermining consumer privacy &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/250624/p41#a250624p41)<!-- TECH:END -->
+ - [Report highlights uncomfortable truths about Tump Mobile and its T1 Phone](https://www.androidauthority.com/trump-mobile-t1-phone-uncomfortable-truths-3570639/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
