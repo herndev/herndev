@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The strange historical case of Bobby Dunbar and the identity revealed by DNA.](http://9gag.com/gag/aO8RGOM)
- - ⏩ [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 👉 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)<!-- MEMES:END -->
+ - 💣 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - ⏩ [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
+ - 👉 [Just aim properly](http://9gag.com/gag/ary2dBK)<!-- MEMES:END -->
 
 ---
 
