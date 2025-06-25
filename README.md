@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Veloretti just made one of the best e-bikes lighter and cheaper](https://www.theverge.com/news/692505/veloretti-two-lite-ivy-ace-belt-price-specs)
- - [9 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
- - [Paris-based Zama, which is developing fully homomorphic encryption tech for blockchain and AI apps, raised a $57M Series B at a $1B+ valuation &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250625/p10#a250625p10)<!-- TECH:END -->
+ - [Can’t change smart light colors with Google Assistant? You’re not alone](https://www.androidauthority.com/google-home-bug-smart-light-colors-3570721/)
+ - [Nothing Phone 3 battery, charging specs leak, and it beats the S25 Ultra](https://www.androidauthority.com/nothing-phone-3-specs-leak-filing-3570751/)
+ - [8 Best Water Leak Detectors &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
