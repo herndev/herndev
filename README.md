@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, June 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-25-2025/)
  - [&lpar;For Southeast Asia&rpar; RAIDOU Remastered: The Mystery of the Soulless Army will be released tomorrow, on June 19! Conjure Demons to Vanquish Demons Make way for Raidou Kuzunoha, Devil Summoner!](https://blog.playstation.com/2025/06/24/20250625-raidou/)
- - [&lpar;For Southeast Asia&rpar; RAIDOU Remastered: The Mystery of the Soulless Army will be released tomorrow, on June 19! Conjure Demons to Vanquish Demons Make way for Raidou Kuzunoha, Devil Summoner!](https://blog.playstation.com/2025/06/24/20250625-raidou/)
- - [Ironheart won’t make Riri Williams Marvel’s next Tony Stark](https://www.polygon.com/marvel/608523/ironheart-review-riri-williams-not-next-tony-stark)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; RAIDOU Remastered: The Mystery of the Soulless Army will be released tomorrow, on June 19! Conjure Demons to Vanquish Demons Make way for Raidou Kuzunoha, Devil Summoner!](https://blog.playstation.com/2025/06/24/20250625-raidou/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
