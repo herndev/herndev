@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
- - ⏩ [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
- - 👉 [Monkey](http://9gag.com/gag/a0eMxed)<!-- MEMES:END -->
+ - 💣 [Why the F is thisna movie???](http://9gag.com/gag/aVvV1yP)
+ - ⏩ [A Gift from Terry](http://9gag.com/gag/a5QqymG)
+ - 👉 [Grandma&#39;s a killer](http://9gag.com/gag/aGyOoX0)<!-- MEMES:END -->
 
 ---
 
