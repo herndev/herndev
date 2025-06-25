@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet finally lets you fix your custom passes without deleting them first](https://www.androidauthority.com/google-wallet-edit-custom-passes-3570654/)
- - [How AI is reshaping the perfume industry, as fragrance tech startup Osmo promises 48-hour sample turnarounds and incumbents like DSM-Firmenich embrace the tech &lpar;Arabelle Sicardi/The Verge&rpar;](http://www.techmeme.com/250625/p6#a250625p6)
- - [Daydream, which raised a $50M seed in June 2024 to build a generative AI shopping agent for fashion, launches in beta, with an app expected later this summer &lpar;Hilary Milnes/Vogue Business&rpar;](http://www.techmeme.com/250625/p5#a250625p5)<!-- TECH:END -->
+ - [Fairphone Gen 6 is here with a modular design that gives you even more freedom](https://www.androidauthority.com/fairphone-gen-6-3570315/)
+ - [The smaller Fairphone 6 introduces swappable accessories](https://www.theverge.com/news/692248/fairphone-6-smartphone-repairable-modular-accessories-murena)
+ - [Gallup: ~60% of 2,232 teachers at US K-12 public schools say they used AI tools in the past school year; regular users estimate weekly time savings of 5.9 hours &lpar;Jocelyn Gecker/Associated Press&rpar;](http://www.techmeme.com/250625/p7#a250625p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
