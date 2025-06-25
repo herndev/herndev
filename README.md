@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stalker 2&#39;s 1.5 mega-patch just dropped and GSC says A-Life is back, baby](https://www.pcgamer.com/games/fps/stalker-2s-1-5-mega-patch-just-dropped-and-gsc-says-a-life-is-back-baby/)
- - [Hellblade 2 finally gets that long-awaited PS5 release date](https://www.polygon.com/gaming/608881/hellblade-2-ps5-release-date-specs)
- - [Disco Elysium studio took sci-fi survival game The Alters and made it fashion](https://www.polygon.com/culture/608746/zaum-atelier-alters-11-bit-studios-fashion-clothing)<!-- GAME:END -->
+ - [Sell The Right Things In Monster Hunter Wilds To Stay Rich](https://kotaku.com/monster-hunter-wilds-mh-zenny-trade-in-material-1851785064)
+ - [This Is The Most Devastating Way I&#39;ve Ever Seen A Show Announce It Was Canceled](https://kotaku.com/tiny-chef-nickelodeon-canceled-season-3-kristen-bell-1851785074)
+ - [Overwatch 2’s Latest Bug May Be The Most Disruptive The Game’s Ever Had](https://kotaku.com/overwatch-2-season-17-perk-bug-all-perks-glitch-equip-1851785076)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
