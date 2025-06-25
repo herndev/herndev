@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The strange historical case of Bobby Dunbar and the identity revealed by DNA.](http://9gag.com/gag/aO8RGOM)
- - ⏩ [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
- - 👉 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)<!-- MEMES:END -->
+ - 💣 [When the medicine ball decides to fight back](http://9gag.com/gag/a34beMm)
+ - ⏩ [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
+ - 👉 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)<!-- MEMES:END -->
 
 ---
 
