@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring’s descriptive alerts take the guesswork out of checking your camera feed](https://www.androidauthority.com/ring-video-descriptions-announced-3570856/)
- - [Before Wimbledon, Tennis finally gets some love in Apple Sports](https://appleinsider.com/articles/25/06/25/before-wimbledon-tennis-finally-gets-some-love-in-apple-sports?utm_medium=rss)
- - [AirTags 2 rumors: greater Precision Finding range, better battery, and when it&#39;ll ship](https://appleinsider.com/articles/25/06/25/airtags-2-rumors-greater-precision-finding-range-better-battery-and-when-itll-ship?utm_medium=rss)<!-- TECH:END -->
+ - [The photographer using AI to reconstruct stories lost to censorship](https://www.theverge.com/ai-artificial-intelligence/688648/almagul-menlibayeva-ai-reimagining-censored-government-work)
+ - [Apple’s sports app now shows tennis scores](https://www.theverge.com/news/692872/apples-sports-app-now-shows-tennis-scores)
+ - [Best Binoculars &lpar;2025&rpar;: Zeiss, Swarovski, Leica](https://www.wired.com/story/best-binoculars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
