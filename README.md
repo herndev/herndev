@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can’t change smart light colors with Google Assistant? You’re not alone](https://www.androidauthority.com/google-home-bug-smart-light-colors-3570721/)
- - [Nothing Phone 3 battery, charging specs leak, and it beats the S25 Ultra](https://www.androidauthority.com/nothing-phone-3-specs-leak-filing-3570751/)
- - [8 Best Water Leak Detectors &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)<!-- TECH:END -->
+ - [Russia frees REvil hackers after sentencing](https://www.theverge.com/news/692582/russia-revil-hacker-group-ransomware-sentencing)
+ - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
+ - [Google is bringing Gemini CLI to developers&amp;#8217; terminals](https://www.theverge.com/news/692517/google-gemini-cli-ai-agent-dev-terminal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
