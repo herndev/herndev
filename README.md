@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get free Crowned Sword Energy and Crowned Shield Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/608858/crowned-sword-shield-energy-how-to-get-free-codes)
- - [That was quick! Funcom is already testing a version of Dune: Awakening where the Deep Desert is only 50% PvP](https://www.pcgamer.com/games/mmo/that-was-quick-funcom-is-already-testing-a-version-of-dune-awakening-where-the-deep-desert-is-only-50-percent-pvp/)
- - [Jack Black’s taking the piss in Tony Hawk’s Pro Skater 3+4](https://www.polygon.com/gaming/609047/jack-black-tony-hawks-pro-skater-3-4-remaster-officer-dick-trailer)<!-- GAME:END -->
+ - [Bullying works once again: Jurassic World Evolution 3 is ditching its AI-generated scientist portraits after receiving backlash for sparing the wrong expense](https://www.pcgamer.com/games/sim/bullying-works-once-again-jurassic-world-evolution-3-is-ditching-its-ai-generated-scientist-portraits-after-receiving-backlash-for-sparing-the-wrong-expense/)
+ - [Stalker 2 artist kickstarts the Zone Kit modding scene with a flood of glorious nonsense mods featuring Shrek, CJ, and—you guessed it—Thomas the Tank Engine](https://www.pcgamer.com/games/fps/stalker-2-artist-kickstarts-the-zone-kit-modding-scene-with-a-flood-of-glorious-nonsense-mods-featuring-shrek-cj-and-you-guessed-it-thomas-the-tank-engine/)
+ - [New Xbox 360 Update Adds More Ads 20 Years After Launch](https://kotaku.com/xbox-360-console-update-more-ads-20-years-old-series-x-1851785111)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
