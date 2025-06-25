@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
- - ⏩ [I think his reaction is totally legit](http://9gag.com/gag/a7opPgA)
+ - 💣 [Burn the witch](http://9gag.com/gag/aE0OjGG)
+ - ⏩ [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
  - 👉 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)<!-- MEMES:END -->
 
 ---
