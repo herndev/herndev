@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unpacks what went into Phone’s Material 3 Expressive revamp](https://www.androidauthority.com/google-phone-app-redesign-3570925/)
- - [Samsung’s next budget earbuds sound like they have incredible battery life](https://www.androidauthority.com/galaxy-buds-core-listing-3570886/)
- - [Google’s Find Hub network is unreliable, but this simple change could fix it](https://www.androidauthority.com/google-find-hub-setup-screen-3570944/)<!-- TECH:END -->
+ - [I tested 12 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
+ - [WhatsApp launches optional Meta AI-generated summaries of unread messages in the US; Meta can&#39;t read the messages and summaries are hidden from other chat users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250625/p26#a250625p26)
+ - [Countdown to Prime Day: Best deals on Apple deliver up to $400 off](https://appleinsider.com/articles/25/06/24/countdown-to-prime-day-best-deals-on-apple-deliver-up-to-400-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
