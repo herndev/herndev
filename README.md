@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Protein Powders of 2025, Tested &amp; Reviewed by WIRED](https://www.wired.com/gallery/best-protein-powders/)
- - [French payments group Worldline&#39;s stock drops 20%+ after European journalism network EIC reports alleging that the company covered up customer fraud &lpar;Bloomberg&rpar;](http://www.techmeme.com/250625/p8#a250625p8)
- - [Galaxy Z Flip 7 FE price leaks: Should you buy last year’s Flip instead?](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-price-leak-3570710/)<!-- TECH:END -->
+ - [Veloretti just made one of the best e-bikes lighter and cheaper](https://www.theverge.com/news/692505/veloretti-two-lite-ivy-ace-belt-price-specs)
+ - [9 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
+ - [Paris-based Zama, which is developing fully homomorphic encryption tech for blockchain and AI apps, raised a $57M Series B at a $1B+ valuation &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250625/p10#a250625p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
