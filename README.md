@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Burn the witch](http://9gag.com/gag/aE0OjGG)
- - ⏩ [From my Collection 027](http://9gag.com/gag/aLndbV5)
- - 👉 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)<!-- MEMES:END -->
+ - 💣 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - ⏩ [The floor is lava](http://9gag.com/gag/a6ZjeoL)
+ - 👉 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)<!-- MEMES:END -->
 
 ---
 
