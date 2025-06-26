@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic releases preliminary results showing users who discuss emotional issues with Claude tend to grow more positive as conversations progress &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250626/p13#a250626p13)
- - [This app tells me I’m going to die 5 times a day, and I love it](https://www.androidauthority.com/wecroak-app-going-to-die-3564711/)
- - [Amazon launches at-home diagnostic services in six Indian cities in partnership with Orange Health Labs, marking its entry into India&#39;s diagnostics market &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/250626/p12#a250626p12)<!-- TECH:END -->
+ - [How much do you trust Google with the data you provide it?](https://www.androidauthority.com/google-data-privacy-open-thread-3571217/)
+ - [New iPhone Fold leak reveals cameras, but does it beat the Galaxy Z Fold 7?](https://www.androidauthority.com/iphone-fold-rumor-dual-cameras-leak-3571174/)
+ - [This hidden Gemini trick has completely changed how I use Google Calendar](https://www.androidauthority.com/gemini-trick-changed-how-i-use-google-calendar-3570476/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
