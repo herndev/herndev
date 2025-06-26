@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monkey](http://9gag.com/gag/a0eMxed)
- - ⏩ [Butt!](http://9gag.com/gag/a87KXbY)
+ - 💣 [Burn the witch](http://9gag.com/gag/aE0OjGG)
+ - ⏩ [From my Collection 027](http://9gag.com/gag/aLndbV5)
  - 👉 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)<!-- MEMES:END -->
 
 ---
