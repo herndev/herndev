@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HDMI 2.2 arrives with 16K video and 96Gbps bandwidth support](https://appleinsider.com/articles/25/06/25/hdmi-22-arrives-with-16k-video-and-96gbps-bandwidth-support?utm_medium=rss)
- - [Asana names LaunchDarkly CEO Dan Rogers as its new CEO starting on July 21, replacing co-founder Dustin Moskovitz, who is retiring and will remain board chair &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250625/p33#a250625p33)
- - [Trump Phone website trades ‘Made in the USA’ claim for patriotic vibes](https://www.androidauthority.com/trump-t1-phone-drops-made-in-usa-claim-3571069/)<!-- TECH:END -->
+ - [FHFA Director William Pulte orders Fannie Mae and Freddie Mac to explore crypto as an asset for single-family mortgage applications without converting it to USD &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250625/p35#a250625p35)
+ - [Take the CUKTECH 10 Power Bank home for a mere $27.99](https://www.androidauthority.com/cuktech-10-power-bank-deal-3-3571049/)
+ - [Anthropic now lets Claude app users build, host, and share AI-powered apps directly in Claude via Artifacts, launching in beta on Free, Pro, and Max tiers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250625/p34#a250625p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
