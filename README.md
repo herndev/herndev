@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US senators reintroduce the bipartisan Open App Markets Act to challenge Apple&#39;s and Google&#39;s grip on app stores; the 2021 version never made it to a floor vote &lpar;Amber Neely/AppleInsider&rpar;](http://www.techmeme.com/250625/p39#a250625p39)
- - [A group of authors sue Microsoft in a NY federal court, claiming the company used nearly 200,000 pirated books without permission to train its Megatron AI model &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250625/p38#a250625p38)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Meta has poached three OpenAI researchers, Lucas Beyer, Alexander Kolesnikov, and Xiaohua Zhai, for its superintelligence efforts &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250626/p1#a250626p1)
+ - [You’re not alone: This email from Google’s Gemini team was concerning &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/gemini-apps-activity-email-july-7-3570651/)
+ - [US senators reintroduce the bipartisan Open App Markets Act to challenge Apple&#39;s and Google&#39;s grip on app stores; the 2021 version never made it to a floor vote &lpar;Amber Neely/AppleInsider&rpar;](http://www.techmeme.com/250625/p39#a250625p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
