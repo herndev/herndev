@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Where to find the Inventor in Death Stranding 2](https://www.polygon.com/guides/609184/death-stranding-2-ds2-where-to-find-inventor-location)
  - [Watch the new Capcom Spotlight for a closer look at Resident Evil 9, Pragmata, and more](https://www.polygon.com/news/607978/capcom-spotlight-june-26-pragmata-resident-evil-9-monster-hunter-wilds)
- - [Persona 5 The Phantom X classroom answers and questions](https://www.polygon.com/guides/609183/persona-5-phantom-x-p5x-classroom-answers-questions)
- - [Dune director Denis Villeneuve will direct the next Bond film for Amazon MGM, despite already being attached to four other upcoming films, including Cleopatra](https://www.pcgamer.com/movies-tv/dune-director-denis-villeneuve-will-direct-the-next-bond-film-for-amazon-mgm-despite-already-being-attached-to-four-other-upcoming-films-including-cleopatra/)<!-- GAME:END -->
+ - [Persona 5 The Phantom X classroom answers and questions](https://www.polygon.com/guides/609183/persona-5-phantom-x-p5x-classroom-answers-questions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
