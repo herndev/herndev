@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
- - ⏩ [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 👉 [No translation needed](http://9gag.com/gag/ae97PpO)<!-- MEMES:END -->
+ - 💣 [A loooot of work. I did it only one time. Works.](http://9gag.com/gag/aW4De06)
+ - ⏩ [Grandma&#39;s a killer](http://9gag.com/gag/aGyOoX0)
+ - 👉 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)<!-- MEMES:END -->
 
 ---
 
