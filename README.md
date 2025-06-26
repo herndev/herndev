@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Supercell makes Brawl Stars available on WeChat and says Clash Royale is &quot;currently being developed&quot; for a September launch on the WeChat mini-game platform &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250625/p37#a250625p37)
  - [US prosecutors charge Kai West, who is known as IntelBroker and was arrested in February in France, with conspiring to steal data from dozens of companies &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250625/p36#a250625p36)
- - [This amazing Samsung gaming monitor is $300 off and comes with a free headset!](https://www.androidauthority.com/samsung-odyssey-oled-g9-g91sd-49-inch-curved-gaming-monitor-free-jbl-quantum-one-deal-3571048/)
- - [100,000 Mattresses Sold on Amazon Are Being Recalled Due to Fire Risk. Here’s What You Should Know](https://www.cnet.com/health/sleep/100000-mattresses-sold-on-amazon-are-recalled-due-to-fire-risk-heres-what-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This amazing Samsung gaming monitor is $300 off and comes with a free headset!](https://www.androidauthority.com/samsung-odyssey-oled-g9-g91sd-49-inch-curved-gaming-monitor-free-jbl-quantum-one-deal-3571048/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
