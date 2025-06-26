@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workers at Google, TikTok, Adobe, Dropbox, CrowdStrike, and other tech firms recount how managers used AI to justify firing them, speed up their work, and more &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250626/p22#a250626p22)
- - [Kraken launches Krak, a P2P payments app that lets users send funds across 110 countries using 300+ assets, including crypto, stablecoins, and fiat currencies &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250626/p21#a250626p21)
- - [Improve Your Mood and Feel Happier With These 7 Simple Daily Habits](https://www.cnet.com/health/mental/lead-a-happier-life-with-these-7-simple-daily-habits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Insta360’s new $110 Flow 2 gimbal sacrifices some useful pro features](https://www.theverge.com/news/693565/insta360-flow-2-smartphone-gimbal-ai-deep-track-stabilized)
+ - [The BBC is launching a paywall in the US](https://www.theverge.com/news/693566/bbc-online-tv-content-paywall-subscription-us)
+ - [6 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
