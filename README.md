@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search launches what could be its most useful experiment in years: Preferred Sources](https://www.androidauthority.com/preferred-sources-3571457/)
- - [Check out these Nothing Phone 3 renders showing off its black and white colorways](https://www.androidauthority.com/nothing-phone-3-high-quality-renders-3571458/)
- - [Apple overhauls EU App Store to comply with DMA: developers can push offers and alt payments, and the Core Technology Fee will be swapped for tiered commission &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250626/p36#a250626p36)<!-- TECH:END -->
+ - [Apple overhauls EU App Store rules following penalty](https://www.theverge.com/news/693512/apple-eu-dma-app-store-concessions)
+ - [Swift, a coding language developed by Apple, is working to add Android support; Android apps are generally coded in Kotlin &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250626/p38#a250626p38)
+ - [Xfinity is dropping data caps and making its internet plans simpler](https://www.androidauthority.com/comcast-xfinity-new-internet-plans-3571524/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
