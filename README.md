@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthros Chair V2 Review: Surprisingly Great](https://www.wired.com/review/anthros-chair-v2/)
- - [HDMI 2.2 will support 16K video at 60Hz](https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k)
- - [Easier not being green: Why I ditched Bissell for the Tineco CARPET ONE Cruiser](https://www.androidauthority.com/tineco-carpet-one-cruiser-vs-bissell-big-green-3569237/)<!-- TECH:END -->
+ - [Workers at Google, TikTok, Adobe, Dropbox, CrowdStrike, and other tech firms recount how managers used AI to justify firing them, speed up their work, and more &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250626/p22#a250626p22)
+ - [Kraken launches Krak, a P2P payments app that lets users send funds across 110 countries using 300+ assets, including crypto, stablecoins, and fiat currencies &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250626/p21#a250626p21)
+ - [Improve Your Mood and Feel Happier With These 7 Simple Daily Habits](https://www.cnet.com/health/mental/lead-a-happier-life-with-these-7-simple-daily-habits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
