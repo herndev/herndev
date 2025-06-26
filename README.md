@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FHFA Director William Pulte orders Fannie Mae and Freddie Mac to explore crypto as an asset for single-family mortgage applications without converting it to USD &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250625/p35#a250625p35)
- - [Take the CUKTECH 10 Power Bank home for a mere $27.99](https://www.androidauthority.com/cuktech-10-power-bank-deal-3-3571049/)
- - [Anthropic now lets Claude app users build, host, and share AI-powered apps directly in Claude via Artifacts, launching in beta on Free, Pro, and Max tiers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250625/p34#a250625p34)<!-- TECH:END -->
+ - [US prosecutors charge Kai West, who is known as IntelBroker and was arrested in February in France, with conspiring to steal data from dozens of companies &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250625/p36#a250625p36)
+ - [This amazing Samsung gaming monitor is $300 off and comes with a free headset!](https://www.androidauthority.com/samsung-odyssey-oled-g9-g91sd-49-inch-curved-gaming-monitor-free-jbl-quantum-one-deal-3571048/)
+ - [100,000 Mattresses Sold on Amazon Are Being Recalled Due to Fire Risk. Here’s What You Should Know](https://www.cnet.com/health/sleep/100000-mattresses-sold-on-amazon-are-recalled-due-to-fire-risk-heres-what-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
