@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A loooot of work. I did it only one time. Works.](http://9gag.com/gag/aW4De06)
- - ⏩ [Grandma&#39;s a killer](http://9gag.com/gag/aGyOoX0)
- - 👉 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)<!-- MEMES:END -->
+ - 💣 [The dogs and farmer bravely defend the sheep from a bear.](http://9gag.com/gag/an7rW0E)
+ - ⏩ [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 👉 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)<!-- MEMES:END -->
 
 ---
 
