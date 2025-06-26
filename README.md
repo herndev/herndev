@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A different perspective](http://9gag.com/gag/aKGOyzZ)
- - ⏩ [Butt!](http://9gag.com/gag/a87KXbY)
- - 👉 [Mastering the art of the public air biscuit](http://9gag.com/gag/aVvV4WK)<!-- MEMES:END -->
+ - 💣 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
+ - ⏩ [Well it worked\u2026](http://9gag.com/gag/amopKZy)
+ - 👉 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)<!-- MEMES:END -->
 
 ---
 
