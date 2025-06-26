@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI is ruining houseplant communities online](https://www.theverge.com/ai-artificial-intelligence/691355/ai-is-ruining-houseplant-communities-online)
- - [Indonesia changes rules to require e-commerce platforms like TikTok Shop to withhold income tax from sellers, instead of asking sellers to pay the government &lpar;Grace Sihombing/Bloomberg&rpar;](http://www.techmeme.com/250626/p17#a250626p17)
- - [Google Wallet is making it easier to create custom passes on Android](https://www.androidauthority.com/google-wallet-share-sheet-target-3571085/)<!-- TECH:END -->
+ - [Anthros Chair V2 Review: Surprisingly Great](https://www.wired.com/review/anthros-chair-v2/)
+ - [HDMI 2.2 will support 16K video at 60Hz](https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k)
+ - [Easier not being green: Why I ditched Bissell for the Tineco CARPET ONE Cruiser](https://www.androidauthority.com/tineco-carpet-one-cruiser-vs-bissell-big-green-3569237/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
