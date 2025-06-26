@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Inventor in Death Stranding 2](https://www.polygon.com/guides/609184/death-stranding-2-ds2-where-to-find-inventor-location)
- - [Watch the new Capcom Spotlight for a closer look at Resident Evil 9, Pragmata, and more](https://www.polygon.com/news/607978/capcom-spotlight-june-26-pragmata-resident-evil-9-monster-hunter-wilds)
- - [Persona 5 The Phantom X classroom answers and questions](https://www.polygon.com/guides/609183/persona-5-phantom-x-p5x-classroom-answers-questions)<!-- GAME:END -->
+ - [Lost Records developer Don&#39;t Nod Montreal lays off an undisclosed number of employees](https://www.pcgamer.com/gaming-industry/lost-records-developer-dont-nod-montreal-lays-off-an-undisclosed-number-of-employees/)
+ - [How to get free Crowned Sword Energy and Crowned Shield Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/608858/crowned-sword-shield-energy-how-to-get-free-codes)
+ - [Target Making Up For Bungled Switch 2 Deliveries With $50 Gift Cards](https://kotaku.com/target-switch-2-late-delivery-gift-card-eshop-nintendo-1851785182)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
