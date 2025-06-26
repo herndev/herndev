@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta wins AI copyright suit before it could go to a jury as the &#39;plaintiffs made the wrong arguments&#39;](https://www.pcgamer.com/software/ai/meta-wins-ai-copyright-suit-before-it-could-go-to-a-jury-as-the-plaintiffs-made-the-wrong-arguments/)
- - [Peak has now sold 2 million copies in just 9 days, as the devs reveal what&#39;s next for this co-op climbing game: &#39;Let&#39;s talk about what we&#39;re cooking&#39;](https://www.pcgamer.com/games/adventure/peak-has-now-sold-2-million-copies-in-just-9-days-as-the-devs-reveal-whats-next-for-this-co-op-climbing-game-lets-talk-about-what-were-cooking/)
- - [Nvidia marketing goes into overdrive mode with claims that the new RTX 5050 is over 6000% faster than the GTX 1050 thanks to DLSS](https://www.pcgamer.com/hardware/graphics-cards/nvidia-marketing-goes-into-overdrive-mode-with-claims-that-the-new-rtx-5050-is-over-6000-percent-faster-than-the-gtx-1050-thanks-to-dlss/)<!-- GAME:END -->
+ - [Research team shares new method for sucking gold out of old PC hardware, making some progress towards shrinking our mountains of e-waste one day](https://www.pcgamer.com/hardware/research-team-shares-new-method-for-sucking-gold-out-of-old-pc-hardware-that-might-one-day-do-something-about-those-mountains-of-e-waste/)
+ - [Ironheart promotes AI besties and I think it&amp;#8217;s kinda dangerous](https://www.polygon.com/entertainment/608942/marvel-ironheart-promotes-ai-riri-natalie-dangerous)
+ - [MindsEye Is An Incredibly Boring And Confusing Mess](https://kotaku.com/mindseye-review-bad-ps5-update-boring-open-world-pc-gta-1851785108)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
