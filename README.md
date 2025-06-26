@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
- - ⏩ [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 👉 [Red Flags Already](http://9gag.com/gag/axyYQ6W)<!-- MEMES:END -->
+ - 💣 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
+ - ⏩ [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 👉 [No translation needed](http://9gag.com/gag/ae97PpO)<!-- MEMES:END -->
 
 ---
 
