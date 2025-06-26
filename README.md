@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Gemini Live tricks make your calendar and notes easier to access](https://www.androidauthority.com/google-gemini-live-calendar-keep-tasks-maps-access-3571127/)
- - [Kraken secures a MiCA license from the Central Bank of Ireland to offer crypto services across the EU, following Coinbase&#39;s approval in Luxembourg last week &lpar;Callan Quinn/Decrypt&rpar;](http://www.techmeme.com/250626/p11#a250626p11)
- - [Pixel setup could soon include a key step to keep scammers off your phone calls &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-setup-scam-detection-call-screen-apk-teardown-3571146/)<!-- TECH:END -->
+ - [Anthropic releases preliminary results showing users who discuss emotional issues with Claude tend to grow more positive as conversations progress &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250626/p13#a250626p13)
+ - [This app tells me I’m going to die 5 times a day, and I love it](https://www.androidauthority.com/wecroak-app-going-to-die-3564711/)
+ - [Amazon launches at-home diagnostic services in six Indian cities in partnership with Orange Health Labs, marking its entry into India&#39;s diagnostics market &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/250626/p12#a250626p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
