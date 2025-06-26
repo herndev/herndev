@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We&#39;ve outgrown the need for BioShock, but you can get the whole trilogy plus Mafia 1, 2, and 3 for a mere $18 right now](https://www.pcgamer.com/games/weve-outgrown-the-need-for-bioshock-but-you-can-get-the-whole-trilogy-plus-mafia-1-2-and-3-for-a-mere-usd18-right-now/)
- - [Rematch players are flopping about like schools of flying fish because—and I tested this—it&#39;s actually faster](https://www.pcgamer.com/games/sports/rematch-players-are-flopping-about-like-schools-of-flying-fish-because-and-i-tested-this-its-actually-faster/)
- - [How many players can join Peak?](https://www.pcgamer.com/games/sim/peak-players/)<!-- GAME:END -->
+ - [Meta wins AI copyright suit before it could go to a jury as the &#39;plaintiffs made the wrong arguments&#39;](https://www.pcgamer.com/software/ai/meta-wins-ai-copyright-suit-before-it-could-go-to-a-jury-as-the-plaintiffs-made-the-wrong-arguments/)
+ - [Peak has now sold 2 million copies in just 9 days, as the devs reveal what&#39;s next for this co-op climbing game: &#39;Let&#39;s talk about what we&#39;re cooking&#39;](https://www.pcgamer.com/games/adventure/peak-has-now-sold-2-million-copies-in-just-9-days-as-the-devs-reveal-whats-next-for-this-co-op-climbing-game-lets-talk-about-what-were-cooking/)
+ - [Nvidia marketing goes into overdrive mode with claims that the new RTX 5050 is over 6000% faster than the GTX 1050 thanks to DLSS](https://www.pcgamer.com/hardware/graphics-cards/nvidia-marketing-goes-into-overdrive-mode-with-claims-that-the-new-rtx-5050-is-over-6000-percent-faster-than-the-gtx-1050-thanks-to-dlss/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
