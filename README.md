@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [J.P. Morgan trims Apple stock target to $230 citing iPhone &amp; Services weaknesses](https://appleinsider.com/articles/25/06/26/jp-morgan-trims-apple-stock-target-to-230-citing-iphone-services-weaknesses?utm_medium=rss)
- - [Sources: Meta is in advanced talks to buy PlayAI, which uses AI to replicate voices for interfaces that are as &quot;responsive as a conversation between two people&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p32#a250626p32)
- - [Disney Just Threw a Punch in a Major AI Fight](https://www.wired.com/story/uncanny-valley-podcast-disney-just-threw-a-punch-in-a-major-ai-fight/)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s Xbox PC launcher gets going with Steam, Epic, and other games showing up](https://www.theverge.com/hands-on/693772/xbox-app-windows-steam-games-integration-epic-games-battle-net)
+ - [The Xbox 360 dashboard just got updated&amp;#8230; to advertise newer Xboxes](https://www.theverge.com/news/693631/microsoft-xbox-360-dashboard-software-update-ads)
+ - [Sources: Senate Parliamentarian raised concerns that the tax bill&#39;s ban on states from enforcing AI regulations may violate Senate rules, advising a rewrite &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p33#a250626p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
