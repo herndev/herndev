@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Records developer Don&#39;t Nod Montreal lays off an undisclosed number of employees](https://www.pcgamer.com/gaming-industry/lost-records-developer-dont-nod-montreal-lays-off-an-undisclosed-number-of-employees/)
- - [How to get free Crowned Sword Energy and Crowned Shield Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/608858/crowned-sword-shield-energy-how-to-get-free-codes)
- - [Target Making Up For Bungled Switch 2 Deliveries With $50 Gift Cards](https://kotaku.com/target-switch-2-late-delivery-gift-card-eshop-nintendo-1851785182)<!-- GAME:END -->
+ - [Resident Evil Requiem Producer Masato Kumazawa Q&amp;A](https://blog.playstation.com/2025/06/26/resident-evil-requiem-producer-masato-kumazawa-qa/)
+ - [Riot decides that allowing sports betting sponsorships in top-tier League of Legends and Valorant esports is a good idea](https://www.pcgamer.com/gaming-industry/riot-decides-that-allowing-sports-betting-sponsorships-in-top-tier-league-of-legends-and-valorant-esports-is-a-good-idea/)
+ - [Nintendo’s having a summer sale if you want to fill up your Switch 2 storage](https://www.polygon.com/nintendo-switch-2/609417/nintendo-summer-sale-switch-games-eshop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
