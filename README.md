@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 6 and Warzone Season 04 Reloaded – Full Debriefing](https://www.callofduty.com/blog/2025/06/call-of-duty-black-ops-6-warzone-zombies-season-four-reloaded#new_tab)
- - [Disney Just Announced A Lilo And Stitch Sequel is Happening](https://kotaku.com/lilo-and-stitch-2-sequel-announced-teaser-disney-626-1851785144)
- - [Intel&#39;s next-gen Nova Lake CPUs rumoured to take on AMD&#39;s X3D CPUs at last thanks to gaming-friendly cache memory tile](https://www.pcgamer.com/hardware/processors/intels-next-gen-nova-lake-cpus-rumoured-to-take-on-amds-x3d-cpus-at-last-thanks-to-gaming-friendly-cache-memory-tile/)<!-- GAME:END -->
+ - [From Fur to Fury: The Legacy of Diablo’s Druid Class](https://news.xbox.com/en-us/2025/06/26/the-legacy-of-diablos-druid-class/)
+ - [The Pixar Movies, Ranked From Worst To Best](https://kotaku.com/pixar-best-movies-toy-story-nemo-incredibles-inside-out-1851785148)
+ - [Zacian counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485702/zacian-counters-weakness-best-moveset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
