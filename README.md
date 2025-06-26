@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How much do you trust Google with the data you provide it?](https://www.androidauthority.com/google-data-privacy-open-thread-3571217/)
- - [New iPhone Fold leak reveals cameras, but does it beat the Galaxy Z Fold 7?](https://www.androidauthority.com/iphone-fold-rumor-dual-cameras-leak-3571174/)
- - [This hidden Gemini trick has completely changed how I use Google Calendar](https://www.androidauthority.com/gemini-trick-changed-how-i-use-google-calendar-3570476/)<!-- TECH:END -->
+ - [AI is ruining houseplant communities online](https://www.theverge.com/ai-artificial-intelligence/691355/ai-is-ruining-houseplant-communities-online)
+ - [Indonesia changes rules to require e-commerce platforms like TikTok Shop to withhold income tax from sellers, instead of asking sellers to pay the government &lpar;Grace Sihombing/Bloomberg&rpar;](http://www.techmeme.com/250626/p17#a250626p17)
+ - [Google Wallet is making it easier to create custom passes on Android](https://www.androidauthority.com/google-wallet-share-sheet-target-3571085/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
