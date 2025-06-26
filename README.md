@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The dogs and farmer bravely defend the sheep from a bear.](http://9gag.com/gag/an7rW0E)
- - ⏩ [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 👉 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)<!-- MEMES:END -->
+ - 💣 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - ⏩ [Sustainability is for the little people](http://9gag.com/gag/axyYQz2)
+ - 👉 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)<!-- MEMES:END -->
 
 ---
 
