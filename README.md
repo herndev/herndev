@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [From Fur to Fury: The Legacy of Diablo’s Druid Class](https://news.xbox.com/en-us/2025/06/26/the-legacy-of-diablos-druid-class/)
- - [The Pixar Movies, Ranked From Worst To Best](https://kotaku.com/pixar-best-movies-toy-story-nemo-incredibles-inside-out-1851785148)
- - [Zacian counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485702/zacian-counters-weakness-best-moveset)<!-- GAME:END -->
+ - [Karlach’s fiery voice actor is taking on the role of an aquatic shapeshifter](https://www.polygon.com/gaming/609306/bg3-karlach-voice-actor-aquatic-shape-shifter-fading-echo)
+ - [The Poop Cruise has exploded onto the Netflix charts](https://www.polygon.com/movies/609337/poop-cruise-netflix-review)
+ - [This Is The Most Devastating Way I&#39;ve Ever Seen A Show Announce It Was Canceled](https://kotaku.com/tiny-chef-nickelodeon-canceled-season-3-kristen-bell-1851785074)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
