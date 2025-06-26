@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Considering the paradox of progress and work.](http://9gag.com/gag/aMVO6qA)
- - ⏩ [The daily struggle is real](http://9gag.com/gag/axyYeqb)
- - 👉 [Butt!](http://9gag.com/gag/a87KXbY)<!-- MEMES:END -->
+ - 💣 [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
+ - ⏩ [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
 
 ---
 
