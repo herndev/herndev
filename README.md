@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
- - ⏩ [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
+ - 💣 [A different perspective](http://9gag.com/gag/aKGOyzZ)
+ - ⏩ [Butt!](http://9gag.com/gag/a87KXbY)
+ - 👉 [Mastering the art of the public air biscuit](http://9gag.com/gag/aVvV4WK)<!-- MEMES:END -->
 
 ---
 
