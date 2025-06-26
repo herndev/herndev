@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
- - ⏩ [Well it worked\u2026](http://9gag.com/gag/amopKZy)
- - 👉 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)<!-- MEMES:END -->
+ - 💣 [This is Juliana Marins before she fell. Thick fog hinders the SAR](http://9gag.com/gag/a5QqyWo)
+ - ⏩ [They should have tried confidence](http://9gag.com/gag/aE0Oyeo)
+ - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
 
 ---
 
