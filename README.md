@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the protagonist’s canon name in Persona 5 The Phantom X?](https://www.polygon.com/guides/609030/persona-5-phantom-x-p5x-canon-protagonist-name-change-how-to)
- - [Persona 5 The Phantom X contract gacha banners, explained](https://www.polygon.com/guides/609063/persona-5-phantom-x-p5x-gacha-banners-pity-contracts)
- - [Today&#39;s Wordle answer for Thursday, June 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-26-2025/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for July &amp; a big thank you to players for 15 wonderful years](https://blog.playstation.com/2025/06/25/20250626-psplus/)
+ - [Thief VR producer says &#39;VR is a natural fit for an immersive sim&#39;](https://www.pcgamer.com/games/vr/thief-vr-producer-says-vr-is-a-natural-fit-for-an-immersive-sim/)
+ - [Netherlands takes Sony to court over digital-only walled garden callegedly costing 1.7m ciitizens 435 million euros since 2013](https://www.pcgamer.com/hardware/netherlands-takes-sony-to-court-over-digital-only-walled-garden-callegedly-costing-1-7m-ciitizens-435-million-euros-since-2013/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
