@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Karlach’s fiery voice actor is taking on the role of an aquatic shapeshifter](https://www.polygon.com/gaming/609306/bg3-karlach-voice-actor-aquatic-shape-shifter-fading-echo)
- - [The Poop Cruise has exploded onto the Netflix charts](https://www.polygon.com/movies/609337/poop-cruise-netflix-review)
- - [This Is The Most Devastating Way I&#39;ve Ever Seen A Show Announce It Was Canceled](https://kotaku.com/tiny-chef-nickelodeon-canceled-season-3-kristen-bell-1851785074)<!-- GAME:END -->
+ - [Watch the new Capcom Spotlight for a closer look at Resident Evil 9, Pragmata, and more](https://www.polygon.com/news/607978/capcom-spotlight-june-26-pragmata-resident-evil-9-monster-hunter-wilds)
+ - [Persona 5 The Phantom X classroom answers and questions](https://www.polygon.com/guides/609183/persona-5-phantom-x-p5x-classroom-answers-questions)
+ - [Dune director Denis Villeneuve will direct the next Bond film for Amazon MGM, despite already being attached to four other upcoming films, including Cleopatra](https://www.pcgamer.com/movies-tv/dune-director-denis-villeneuve-will-direct-the-next-bond-film-for-amazon-mgm-despite-already-being-attached-to-four-other-upcoming-films-including-cleopatra/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
