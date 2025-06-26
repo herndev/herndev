@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Pixels are banned in one of Google’s biggest markets, and more could follow](https://www.androidauthority.com/google-pixel-phone-sales-ban-major-market-3571133/)
  - [Pixel phones might finally be getting this highly requested feature in India &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-call-screening-india-apk-teardown-3571136/)
- - [How online fandom communities are advocating against AI, including protesting companies scraping fanfic content for AI training and opposing AI-generated fanfic &lpar;Decca Muldowney/The Verge&rpar;](http://www.techmeme.com/250626/p9#a250626p9)
- - [Sony says its PlayStation Plus three-tier overhaul has &quot;surpassed our expectations&quot; and that the $160/year Premium tier has grown 18% in the past 12 months &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250626/p8#a250626p8)<!-- TECH:END -->
+ - [How online fandom communities are advocating against AI, including protesting companies scraping fanfic content for AI training and opposing AI-generated fanfic &lpar;Decca Muldowney/The Verge&rpar;](http://www.techmeme.com/250626/p9#a250626p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
