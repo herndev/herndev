@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The collapse of the bridge in China](http://9gag.com/gag/aD2ONzK)
- - ⏩ [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 👉 [When the comments section is funnier than the tattoo itself](http://9gag.com/gag/aD2OPRd)<!-- MEMES:END -->
+ - 💣 [Ultimate camper](http://9gag.com/gag/aMVODGG)
+ - ⏩ [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
+ - 👉 [145 people &lpar;mostly white french girls&rpar; were pricked with needles with unknown substance in France during a nationwide music festival over the weekend.](http://9gag.com/gag/ajPWdxw)<!-- MEMES:END -->
 
 ---
 
