@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - ⏩ [The floor is lava](http://9gag.com/gag/a6ZjeoL)
- - 👉 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)<!-- MEMES:END -->
+ - 💣 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
+ - ⏩ [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 👉 [Red Flags Already](http://9gag.com/gag/axyYQ6W)<!-- MEMES:END -->
 
 ---
 
