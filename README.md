@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple overhauls EU App Store rules following penalty](https://www.theverge.com/news/693512/apple-eu-dma-app-store-concessions)
- - [Swift, a coding language developed by Apple, is working to add Android support; Android apps are generally coded in Kotlin &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250626/p38#a250626p38)
- - [Xfinity is dropping data caps and making its internet plans simpler](https://www.androidauthority.com/comcast-xfinity-new-internet-plans-3571524/)<!-- TECH:END -->
+ - [Patent troll lawsuit against Apple &amp; Qualcomm will remain in Texas](https://appleinsider.com/articles/25/06/26/patent-troll-lawsuit-against-apple-qualcomm-will-remain-in-texas?utm_medium=rss)
+ - [Google’s new and improved Ask Photos is back on track — and rolling out now!](https://www.androidauthority.com/ask-photos-3571537/)
+ - [Reserve your upcoming Samsung foldable phone and get $50 off](https://www.androidauthority.com/reserve-samsung-galaxy-z-fold-7-flip-7-3571515/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
