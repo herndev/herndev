@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Burn the witch](http://9gag.com/gag/aE0OjGG)
+ - 💣 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
  - ⏩ [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
- - 👉 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)<!-- MEMES:END -->
+ - 👉 [Monkey](http://9gag.com/gag/a0eMxed)<!-- MEMES:END -->
 
 ---
 
