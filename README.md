@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This month 25 years ago in PC gaming, our biggest concerns were pro gaming, moral panics about violent games… and we still thought Halo was a PC exclusive](https://www.pcgamer.com/gaming-industry/this-month-25-years-ago-in-pc-gaming-our-biggest-concerns-were-pro-gaming-moral-panics-about-violent-games-and-we-still-thought-halo-was-a-pc-exclusive/)
- - [Exclusive: New god game Demiurgos puts you in control of a famous deity trying to outplay other gods on a cosmic tabletop version of earth](https://www.pcgamer.com/games/strategy/god-game-demiurgos-puts-you-in-control-of-a-famous-deity-trying-to-outplay-other-gods-on-a-cosmic-tabletop-version-of-earth/)
- - [Jagex CEO breaks glass, hits PR emergency button by promising an end to a &#39;tainted RuneScape 3&#39; via microtransaction overhaul](https://www.pcgamer.com/games/mmo/jagex-ceo-breaks-glass-hits-pr-emergency-button-by-promising-an-end-to-a-tainted-runescape-3-via-microtransaction-overhaul/)<!-- GAME:END -->
+ - [Free Play Days – Spotlight | UFC 5](https://news.xbox.com/en-us/2025/06/26/free-play-days-spotlight-ufc-5/)
+ - [Erenshor is a simulated MMO built for singleplayer by a single person](https://www.pcgamer.com/games/rpg/erenshor-is-a-simulated-mmo-built-for-singleplayer-by-a-single-person/)
+ - [&#39;Artificial intelligence is going to displace millions and millions of workers&#39; says Bernie Sanders, so might as well take a four-day week](https://www.pcgamer.com/software/ai/artificial-intelligence-is-going-to-displace-millions-and-millions-of-workers-says-bernie-sanders-so-might-as-well-take-a-four-day-week/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
