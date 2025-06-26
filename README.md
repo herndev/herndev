@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
- - ⏩ [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
- - 👉 [Monkey](http://9gag.com/gag/a0eMxed)<!-- MEMES:END -->
+ - 💣 [The collapse of the bridge in China](http://9gag.com/gag/aD2ONzK)
+ - ⏩ [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 👉 [When the comments section is funnier than the tattoo itself](http://9gag.com/gag/aD2OPRd)<!-- MEMES:END -->
 
 ---
 
