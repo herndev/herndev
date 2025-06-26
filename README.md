@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 years after it launched, one of the best roguelikes of all time gets a surprise update on Steam with quality of life improvements and a new controls menu](https://www.pcgamer.com/games/roguelike/10-years-after-it-launched-one-of-the-best-roguelikes-of-all-time-gets-a-surprise-update-on-steam-with-quality-of-life-improvements-and-a-new-controls-menu/)
- - [FTC issues $126 million in Fortnite refunds, gives eligible players an extra 2 weeks to apply for their money back](https://www.pcgamer.com/games/ftc-issues-usd126-million-in-fortnite-refunds-gives-eligible-players-an-extra-2-weeks-to-apply-for-their-money-back/)
- - [The Social Network Part II Is Happening, And Facebook Probably Won’t Like It](https://kotaku.com/the-social-network-zuckerberg-aaron-sorkin-facebook-1851785118)<!-- GAME:END -->
+ - [What is the protagonist’s canon name in Persona 5 The Phantom X?](https://www.polygon.com/guides/609030/persona-5-phantom-x-p5x-canon-protagonist-name-change-how-to)
+ - [Persona 5 The Phantom X contract gacha banners, explained](https://www.polygon.com/guides/609063/persona-5-phantom-x-p5x-gacha-banners-pity-contracts)
+ - [Today&#39;s Wordle answer for Thursday, June 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-26-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
