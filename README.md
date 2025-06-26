@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FragPunk Season 2 Brings Transformative Updates, Including a New Lancer](https://news.xbox.com/en-us/2025/06/26/fragpunk-season-2/)
- - [Lenovo Legion Go S SteamOS review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-legion-go-s-steamos-review/)
- - [Ahead of Marvel Rivals Season 3, NetEase is making it easier for losing teams to end their own suffering](https://www.pcgamer.com/games/third-person-shooter/ahead-of-marvel-rivals-season-3-netease-is-making-it-easier-for-losing-teams-to-end-their-own-suffering/)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 and Warzone Season 04 Reloaded – Full Debriefing](https://www.callofduty.com/blog/2025/06/call-of-duty-black-ops-6-warzone-zombies-season-four-reloaded#new_tab)
+ - [Disney Just Announced A Lilo And Stitch Sequel is Happening](https://kotaku.com/lilo-and-stitch-2-sequel-announced-teaser-disney-626-1851785144)
+ - [Intel&#39;s next-gen Nova Lake CPUs rumoured to take on AMD&#39;s X3D CPUs at last thanks to gaming-friendly cache memory tile](https://www.pcgamer.com/hardware/processors/intels-next-gen-nova-lake-cpus-rumoured-to-take-on-amds-x3d-cpus-at-last-thanks-to-gaming-friendly-cache-memory-tile/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
