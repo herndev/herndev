@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for July &amp; a big thank you to players for 15 wonderful years](https://blog.playstation.com/2025/06/25/20250626-psplus/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for July &amp; a big thank you to players for 15 wonderful years](https://blog.playstation.com/2025/06/25/20250626-psplus/)
- - [Thief VR producer says &#39;VR is a natural fit for an immersive sim&#39;](https://www.pcgamer.com/games/vr/thief-vr-producer-says-vr-is-a-natural-fit-for-an-immersive-sim/)<!-- GAME:END -->
+ - [Intel commences mass layoffs with over 100 Californian employees, including around 45 engineers in efforts to shed $500 million in operating costs this year](https://www.pcgamer.com/hardware/intel-commences-mass-layoffs-with-over-100-californian-employees-including-around-45-engineers-in-efforts-to-shed-usd500-million-in-operating-costs-this-year/)
+ - [Corsair introduces PC case fans with &#39;reverse rotors&#39; which apparently help those LEDs shine without obstruction](https://www.pcgamer.com/hardware/cooling/corsair-introduces-pc-case-fans-with-reverse-rotors-which-apparently-help-those-leds-shine-without-obstruction/)
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for July &amp; a big thank you to players for 15 wonderful years](https://blog.playstation.com/2025/06/25/20250626-psplus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
