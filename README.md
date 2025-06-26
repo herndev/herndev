@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rapid unboxing](http://9gag.com/gag/agmEZbK)
- - ⏩ [Women](http://9gag.com/gag/a34beyQ)
- - 👉 [Well it worked\u2026](http://9gag.com/gag/amopKZy)<!-- MEMES:END -->
+ - 💣 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)
+ - ⏩ [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
+ - 👉 [On street parking](http://9gag.com/gag/aD2O9dN)<!-- MEMES:END -->
 
 ---
 
