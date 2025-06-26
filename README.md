@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)
- - ⏩ [Goodness the daughter suffered too much \ud83d\udc80](http://9gag.com/gag/awyY9o4)
- - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
+ - 💣 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - ⏩ [Red Flags Already](http://9gag.com/gag/axyYQ6W)
+ - 👉 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)<!-- MEMES:END -->
 
 ---
 
