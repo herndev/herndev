@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insta360’s new $110 Flow 2 gimbal sacrifices some useful pro features](https://www.theverge.com/news/693565/insta360-flow-2-smartphone-gimbal-ai-deep-track-stabilized)
- - [The BBC is launching a paywall in the US](https://www.theverge.com/news/693566/bbc-online-tv-content-paywall-subscription-us)
- - [6 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)<!-- TECH:END -->
+ - [What is an Xbox?](https://www.theverge.com/notepad-microsoft-newsletter/693576/microsoft-next-gen-xbox-steam-notepad)
+ - [The Trump Phone Is Already a Lot Different From Last Week](https://www.wired.com/story/the-trump-phone-is-already-a-lot-different-from-last-week/)
+ - [Samsung announces 2025 monitors with preorder discounts of up to $300 off](https://appleinsider.com/articles/25/06/26/samsung-announces-2025-monitors-with-preorder-discounts-of-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
