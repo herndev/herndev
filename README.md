@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This is Juliana Marins before she fell. Thick fog hinders the SAR](http://9gag.com/gag/a5QqyWo)
- - ⏩ [They should have tried confidence](http://9gag.com/gag/aE0Oyeo)
- - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
+ - ⏩ [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)
+ - 👉 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)<!-- MEMES:END -->
 
 ---
 
