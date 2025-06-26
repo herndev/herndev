@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Research team shares new method for sucking gold out of old PC hardware, making some progress towards shrinking our mountains of e-waste one day](https://www.pcgamer.com/hardware/research-team-shares-new-method-for-sucking-gold-out-of-old-pc-hardware-that-might-one-day-do-something-about-those-mountains-of-e-waste/)
- - [Ironheart promotes AI besties and I think it&amp;#8217;s kinda dangerous](https://www.polygon.com/entertainment/608942/marvel-ironheart-promotes-ai-riri-natalie-dangerous)
- - [MindsEye Is An Incredibly Boring And Confusing Mess](https://kotaku.com/mindseye-review-bad-ps5-update-boring-open-world-pc-gta-1851785108)<!-- GAME:END -->
+ - [This month 25 years ago in PC gaming, our biggest concerns were pro gaming, moral panics about violent games… and we still thought Halo was a PC exclusive](https://www.pcgamer.com/gaming-industry/this-month-25-years-ago-in-pc-gaming-our-biggest-concerns-were-pro-gaming-moral-panics-about-violent-games-and-we-still-thought-halo-was-a-pc-exclusive/)
+ - [Exclusive: New god game Demiurgos puts you in control of a famous deity trying to outplay other gods on a cosmic tabletop version of earth](https://www.pcgamer.com/games/strategy/god-game-demiurgos-puts-you-in-control-of-a-famous-deity-trying-to-outplay-other-gods-on-a-cosmic-tabletop-version-of-earth/)
+ - [Jagex CEO breaks glass, hits PR emergency button by promising an end to a &#39;tainted RuneScape 3&#39; via microtransaction overhaul](https://www.pcgamer.com/games/mmo/jagex-ceo-breaks-glass-hits-pr-emergency-button-by-promising-an-end-to-a-tainted-runescape-3-via-microtransaction-overhaul/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
