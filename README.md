@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - ⏩ [Red Flags Already](http://9gag.com/gag/axyYQ6W)
- - 👉 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)<!-- MEMES:END -->
+ - 💣 [Considering the paradox of progress and work.](http://9gag.com/gag/aMVO6qA)
+ - ⏩ [The daily struggle is real](http://9gag.com/gag/axyYeqb)
+ - 👉 [Butt!](http://9gag.com/gag/a87KXbY)<!-- MEMES:END -->
 
 ---
 
