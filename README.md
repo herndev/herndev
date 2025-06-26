@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - ⏩ [Sustainability is for the little people](http://9gag.com/gag/axyYQz2)
- - 👉 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)<!-- MEMES:END -->
+ - 💣 [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)
+ - ⏩ [Goodness the daughter suffered too much \ud83d\udc80](http://9gag.com/gag/awyY9o4)
+ - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
 
 ---
 
