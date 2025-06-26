@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&amp;#8217;s Xbox PC launcher gets going with Steam, Epic, and other games showing up](https://www.theverge.com/hands-on/693772/xbox-app-windows-steam-games-integration-epic-games-battle-net)
- - [The Xbox 360 dashboard just got updated&amp;#8230; to advertise newer Xboxes](https://www.theverge.com/news/693631/microsoft-xbox-360-dashboard-software-update-ads)
- - [Sources: Senate Parliamentarian raised concerns that the tax bill&#39;s ban on states from enforcing AI regulations may violate Senate rules, advising a rewrite &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p33#a250626p33)<!-- TECH:END -->
+ - [Google Search launches what could be its most useful experiment in years: Preferred Sources](https://www.androidauthority.com/preferred-sources-3571457/)
+ - [Check out these Nothing Phone 3 renders showing off its black and white colorways](https://www.androidauthority.com/nothing-phone-3-high-quality-renders-3571458/)
+ - [Apple overhauls EU App Store to comply with DMA: developers can push offers and alt payments, and the Core Technology Fee will be swapped for tiered commission &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250626/p36#a250626p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
