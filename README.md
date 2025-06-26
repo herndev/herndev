@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watch a T-cell take on a cancer cell in this microscopic battle.](http://9gag.com/gag/ajPWdqp)
- - ⏩ [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
- - 👉 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)<!-- MEMES:END -->
+ - 💣 [Monkey](http://9gag.com/gag/a0eMxed)
+ - ⏩ [Butt!](http://9gag.com/gag/a87KXbY)
+ - 👉 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)<!-- MEMES:END -->
 
 ---
 
