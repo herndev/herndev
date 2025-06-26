@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patent troll lawsuit against Apple &amp; Qualcomm will remain in Texas](https://appleinsider.com/articles/25/06/26/patent-troll-lawsuit-against-apple-qualcomm-will-remain-in-texas?utm_medium=rss)
- - [Google’s new and improved Ask Photos is back on track — and rolling out now!](https://www.androidauthority.com/ask-photos-3571537/)
- - [Reserve your upcoming Samsung foldable phone and get $50 off](https://www.androidauthority.com/reserve-samsung-galaxy-z-fold-7-flip-7-3571515/)<!-- TECH:END -->
+ - [New Zealand-based Halter, which provides smart collars and geofencing software for the dairy industry, raised a $100M Series D led by Bond at a $1B valuation &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250626/p40#a250626p40)
+ - [Save 15% on this SIMO Solis Lite hotspot and get 1GB monthly for free](https://www.androidauthority.com/simo-solis-lite-4g-lte-mobile-hotspot-free-1gb-monthly-deal-3571514/)
+ - [AirPods Pro 3 possibly referenced in updated codebase](https://appleinsider.com/articles/25/06/26/airpods-pro-3-possibly-referenced-in-updated-codebase?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
