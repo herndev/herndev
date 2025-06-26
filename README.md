@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese automaker Geely&#39;s ride-hailing arm CaoCao raised $236M in a Hong Kong IPO, listing 19% below its offer price; its market cap was $2.42B as of Wednesday &lpar;Kensaku Ihara/Nikkei Asia&rpar;](http://www.techmeme.com/250626/p2#a250626p2)
- - [Google clears the air on Gemini email, says ‘this update is good for users’](https://www.androidauthority.com/google-gemini-email-clarification-3571115/)
- - [Sources: Meta has poached three OpenAI researchers, Lucas Beyer, Alexander Kolesnikov, and Xiaohua Zhai, for its superintelligence efforts &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250626/p1#a250626p1)<!-- TECH:END -->
+ - [A look at Tokyo-based Nittobo, currently the only supplier in the world of the highest-end &quot;T-glass&quot;, a material essential for making high-powered AI servers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250626/p6#a250626p6)
+ - [Reddit CEO Steve Huffman warns against companies trying to game the site with AI-generated content, saying &quot;human verification is top of mind for us right now&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250626/p5#a250626p5)
+ - [Creative Commons debuts CC Signals, a framework that will allow dataset holders to detail how their content can or cannot be reused for training AI models &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250626/p4#a250626p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
