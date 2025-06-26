@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is Juliana Marins before she fell. Thick fog hinders the SAR](http://9gag.com/gag/a5QqyWo)
- - ⏩ [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)
- - 👉 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)<!-- MEMES:END -->
+ - 💣 [Rapid unboxing](http://9gag.com/gag/agmEZbK)
+ - ⏩ [Women](http://9gag.com/gag/a34beyQ)
+ - 👉 [Well it worked\u2026](http://9gag.com/gag/amopKZy)<!-- MEMES:END -->
 
 ---
 
