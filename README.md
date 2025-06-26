@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel commences mass layoffs with over 100 Californian employees, including around 45 engineers in efforts to shed $500 million in operating costs this year](https://www.pcgamer.com/hardware/intel-commences-mass-layoffs-with-over-100-californian-employees-including-around-45-engineers-in-efforts-to-shed-usd500-million-in-operating-costs-this-year/)
- - [Corsair introduces cheaper PC case fans with &#39;reverse rotors&#39; which help those LEDs shine without obstruction](https://www.pcgamer.com/hardware/cooling/corsair-introduces-pc-case-fans-with-reverse-rotors-which-apparently-help-those-leds-shine-without-obstruction/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for July &amp; a big thank you to players for 15 wonderful years](https://blog.playstation.com/2025/06/25/20250626-psplus/)<!-- GAME:END -->
+ - [We&#39;ve outgrown the need for BioShock, but you can get the whole trilogy plus Mafia 1, 2, and 3 for a mere $18 right now](https://www.pcgamer.com/games/weve-outgrown-the-need-for-bioshock-but-you-can-get-the-whole-trilogy-plus-mafia-1-2-and-3-for-a-mere-usd18-right-now/)
+ - [Rematch players are flopping about like schools of flying fish because—and I tested this—it&#39;s actually faster](https://www.pcgamer.com/games/sports/rematch-players-are-flopping-about-like-schools-of-flying-fish-because-and-i-tested-this-its-actually-faster/)
+ - [How many players can join Peak?](https://www.pcgamer.com/games/sim/peak-players/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
