@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Spotlight | UFC 5](https://news.xbox.com/en-us/2025/06/26/free-play-days-spotlight-ufc-5/)
- - [Erenshor is a simulated MMO built for singleplayer by a single person](https://www.pcgamer.com/games/rpg/erenshor-is-a-simulated-mmo-built-for-singleplayer-by-a-single-person/)
- - [&#39;Artificial intelligence is going to displace millions and millions of workers&#39; says Bernie Sanders, so might as well take a four-day week](https://www.pcgamer.com/software/ai/artificial-intelligence-is-going-to-displace-millions-and-millions-of-workers-says-bernie-sanders-so-might-as-well-take-a-four-day-week/)<!-- GAME:END -->
+ - [FragPunk Season 2 Brings Transformative Updates, Including a New Lancer](https://news.xbox.com/en-us/2025/06/26/fragpunk-season-2/)
+ - [Lenovo Legion Go S SteamOS review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-legion-go-s-steamos-review/)
+ - [Ahead of Marvel Rivals Season 3, NetEase is making it easier for losing teams to end their own suffering](https://www.pcgamer.com/games/third-person-shooter/ahead-of-marvel-rivals-season-3-netease-is-making-it-easier-for-losing-teams-to-end-their-own-suffering/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
