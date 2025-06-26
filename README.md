@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is an Xbox?](https://www.theverge.com/notepad-microsoft-newsletter/693576/microsoft-next-gen-xbox-steam-notepad)
- - [The Trump Phone Is Already a Lot Different From Last Week](https://www.wired.com/story/the-trump-phone-is-already-a-lot-different-from-last-week/)
- - [Samsung announces 2025 monitors with preorder discounts of up to $300 off](https://appleinsider.com/articles/25/06/26/samsung-announces-2025-monitors-with-preorder-discounts-of-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
+ - [New fear unlocked: Your brand-new phone could turn into this moldy mess](https://www.androidauthority.com/moldy-phone-3571392/)
+ - [Source: Meta has hired highly influential OpenAI researcher Trapit Bansal to work on its AI reasoning models under the company&#39;s new AI superintelligence unit &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250626/p28#a250626p28)
+ - [Heybike Alpha review: Off-road eBike fun](https://appleinsider.com/articles/25/06/26/heybike-alpha-review-off-road-ebike-fun?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
