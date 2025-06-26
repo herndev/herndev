@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Pixels are banned in one of Google’s biggest markets, and more could follow](https://www.androidauthority.com/google-pixel-phone-sales-ban-major-market-3571133/)
- - [Pixel phones might finally be getting this highly requested feature in India &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-call-screening-india-apk-teardown-3571136/)
- - [How online fandom communities are advocating against AI, including protesting companies scraping fanfic content for AI training and opposing AI-generated fanfic &lpar;Decca Muldowney/The Verge&rpar;](http://www.techmeme.com/250626/p9#a250626p9)<!-- TECH:END -->
+ - [New Gemini Live tricks make your calendar and notes easier to access](https://www.androidauthority.com/google-gemini-live-calendar-keep-tasks-maps-access-3571127/)
+ - [Kraken secures a MiCA license from the Central Bank of Ireland to offer crypto services across the EU, following Coinbase&#39;s approval in Luxembourg last week &lpar;Callan Quinn/Decrypt&rpar;](http://www.techmeme.com/250626/p11#a250626p11)
+ - [Pixel setup could soon include a key step to keep scammers off your phone calls &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-setup-scam-detection-call-screen-apk-teardown-3571146/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
