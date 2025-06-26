@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ultimate camper](http://9gag.com/gag/aMVODGG)
- - ⏩ [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
- - 👉 [145 people &lpar;mostly white french girls&rpar; were pricked with needles with unknown substance in France during a nationwide music festival over the weekend.](http://9gag.com/gag/ajPWdxw)<!-- MEMES:END -->
+ - 💣 [Well it worked\u2026](http://9gag.com/gag/amopKZy)
+ - ⏩ [Just aim properly](http://9gag.com/gag/ary2dBK)
+ - 👉 [The strange historical case of Bobby Dunbar and the identity revealed by DNA.](http://9gag.com/gag/aO8RGOM)<!-- MEMES:END -->
 
 ---
 
