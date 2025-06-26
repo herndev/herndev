@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta has poached three OpenAI researchers, Lucas Beyer, Alexander Kolesnikov, and Xiaohua Zhai, for its superintelligence efforts &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250626/p1#a250626p1)
- - [You’re not alone: This email from Google’s Gemini team was concerning &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/gemini-apps-activity-email-july-7-3570651/)
- - [US senators reintroduce the bipartisan Open App Markets Act to challenge Apple&#39;s and Google&#39;s grip on app stores; the 2021 version never made it to a floor vote &lpar;Amber Neely/AppleInsider&rpar;](http://www.techmeme.com/250625/p39#a250625p39)<!-- TECH:END -->
+ - [Chinese automaker Geely&#39;s ride-hailing arm CaoCao raised $236M in a Hong Kong IPO, listing 19% below its offer price; its market cap was $2.42B as of Wednesday &lpar;Kensaku Ihara/Nikkei Asia&rpar;](http://www.techmeme.com/250626/p2#a250626p2)
+ - [Google clears the air on Gemini email, says ‘this update is good for users’](https://www.androidauthority.com/google-gemini-email-clarification-3571115/)
+ - [Sources: Meta has poached three OpenAI researchers, Lucas Beyer, Alexander Kolesnikov, and Xiaohua Zhai, for its superintelligence efforts &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250626/p1#a250626p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
