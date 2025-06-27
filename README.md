@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s tax bill expands Qualified Small Business Stock benefits for VCs, founders, startup staff, including increasing maximum tax-free gains from $10M to $15M &lpar;Ben Steverman/Bloomberg&rpar;](http://www.techmeme.com/250627/p19#a250627p19)
- - [So Long, Blue Screen of Death. Amazingly, You&#39;ll Be Missed](https://www.wired.com/story/so-long-blue-screen-of-death-amazingly-youll-be-missed/)
- - [Pokemon TCG Pocket&#39;s Eevee Grove Expansion Has Convinced My Partner to Play](https://www.cnet.com/tech/gaming/pokemon-tcg-pockets-eevee-grove-expansion-has-convinced-my-partner-to-play/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Maps makes starting a collaborative list less confusing](https://www.androidauthority.com/google-maps-share-sheet-update-3571897/)
+ - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
+ - [Substack Is Having a Moment—Again. But Time Is Running Out](https://www.wired.com/story/substack-is-having-a-moment-again-but-time-is-running-out/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
