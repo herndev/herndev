@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jump into Mecha Break on Xbox and Enjoy Exclusive Cosmetics with Game Pass](https://news.xbox.com/en-us/2025/06/27/mecha-break-xbox-game-pass-perks/)
- - [&#39;We were super confident in third-person&#39;: Overwatch 2 Stadium devs love the new perspective but understand it&#39;s not to everyone&#39;s liking, &#39;A decade of muscle memory exits&#39;](https://www.pcgamer.com/games/third-person-shooter/we-were-super-confident-in-third-person-overwatch-2-stadium-devs-love-the-new-perspective-but-understand-its-not-to-everyones-liking-a-decade-of-muscle-memory-exits/)
- - [Developers of Linux distro Fedora propose dropping 32-bit support entirely, but it&#39;s being claimed that the change &#39;would kill off projects like Bazzite entirely&#39;](https://www.pcgamer.com/software/linux/developers-of-linux-distro-fedora-propose-dropping-32-bit-support-entirely-but-its-being-claimed-that-the-change-would-kill-off-projects-like-bazzite-entirely/)<!-- GAME:END -->
+ - [How Dying Light: The Beast Combines Open World and Survival Horror To Maximize Player Freedom](https://news.xbox.com/en-us/2025/06/27/dying-light-the-beast-maximize-player-freedom/)
+ - [Razer Joro &amp; Basilisk Mobile review](https://www.pcgamer.com/hardware/gaming-mice/razer-joro-and-basilisk-mobile-review/)
+ - [Call me Victor Kermit Kiam, cos I liked this mobo so much I built my new gaming PC around it](https://www.pcgamer.com/hardware/motherboards/call-me-victor-kermit-kiam-cos-i-liked-this-mobo-so-much-i-built-my-new-gaming-pc-around-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
