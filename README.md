@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first addition to Switch 2’s GameCube library is a Mario multiplayer classic](https://www.polygon.com/nintendo-switch-2/609462/gamecube-super-mario-strikers-switch-online)
- - [Deus Ex lead Warren Spector pops up to remind everyone he didn&#39;t make the game alone in a cave, wish you a happy 25th anniversary, and get me wondering if something Deus Ex-related is happening behind the scenes](https://www.pcgamer.com/games/rpg/deus-ex-lead-warren-spector-pops-up-to-remind-everyone-he-didnt-make-the-game-alone-in-a-cave-wish-you-a-happy-25th-anniversary-and-get-me-wondering-if-something-deus-ex-related-is-happening-behind-the-scenes/)
- - [Want size and speed in your SSD? Micron&#39;s new 2600 boasts &#39;up to 63% faster sequential write and 49% faster random write speeds&#39; than the competition](https://www.pcgamer.com/hardware/ssds/want-size-and-speed-in-your-ssd-microns-new-2600-boasts-up-to-63-percent-faster-sequential-write-and-49-percent-faster-random-write-speeds-than-the-competition/)<!-- GAME:END -->
+ - [Kunitsu-Gami: Path Of The Goddess&#39; Recent Update Makes It Perfect For The Switch 2](https://kotaku.com/kunitsu-gami-path-goddess-how-long-to-beat-switch-2-1851785162)
+ - [The new version of Logitech&#39;s glorious MX Master makes an appearance in the EU Intellectual Property Office database, pointing to an imminent release](https://www.pcgamer.com/hardware/gaming-mice/the-new-version-of-logitechs-glorious-mx-master-makes-an-appearance-in-the-eu-intellectual-property-office-database-pointing-to-an-imminent-release/)
+ - [Nacon Revolution X Unlimited review](https://www.pcgamer.com/hardware/controllers/nacon-revolution-x-unlimited-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
