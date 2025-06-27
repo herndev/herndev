@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - ⏩ [So white its using a subaru...](http://9gag.com/gag/amopwQ6)
- - 👉 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)<!-- MEMES:END -->
+ - 💣 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
+ - ⏩ [Well, this is not what I expected in the bathroom](http://9gag.com/gag/ary20V0)
+ - 👉 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)<!-- MEMES:END -->
 
 ---
 
