@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sir Butter of Fridge](https://www.reddit.com/r/funny/comments/1llu8je/sir_butter_of_fridge/)
- - ⏩ [Imagine seeing this inside your school classroom.](https://www.reddit.com/r/memes/comments/1llu728/imagine_seeing_this_inside_your_school_classroom/)
- - 👉 [Grandma is a hacker!](https://www.reddit.com/r/funny/comments/1lltwr7/grandma_is_a_hacker/)<!-- MEMES:END -->
+ - 💣 [Hmm ! seems like a interesting gadget](https://www.reddit.com/r/memes/comments/1llvfm9/hmm_seems_like_a_interesting_gadget/)
+ - ⏩ [So far not so good](https://www.reddit.com/r/memes/comments/1llvbxv/so_far_not_so_good/)
+ - 👉 [Me every time](https://www.reddit.com/r/memes/comments/1llv74d/me_every_time/)<!-- MEMES:END -->
 
 ---
 
