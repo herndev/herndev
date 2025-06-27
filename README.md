@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds&#39; Next Big Update Promises New Content And More Fixes As Steam Rating Tanks](https://kotaku.com/monster-hunter-wilds-title-2-patch-notes-steam-reviews-1851785248)
- - [The Helldivers 2 review bomb cape is finally here, a year after PSN backlash](https://www.polygon.com/gaming/609611/helldivers-2-review-bomb-cape)
- - [Dark Souls 2 player beats its hardest boss on NG+7 by wearing his clothes and committing seppuku 47 times](https://www.pcgamer.com/games/rpg/dark-souls-2-player-beats-its-hardest-boss-on-ng-7-by-wearing-his-clothes-and-committing-seppuku-47-times/)<!-- GAME:END -->
+ - [Everything You Need To Know About Death Stranding 2&#39;s Multiplayer Features](https://kotaku.com/death-stranding-2-chiral-network-multiplayer-connect-1851785246)
+ - [Randy Pitchford makes people mad again by warning that Borderlands 4 will take even longer to get deep discounts than Borderland 3 did](https://www.pcgamer.com/games/fps/randy-pitchford-makes-people-mad-again-by-warning-that-borderlands-4-will-take-even-longer-to-get-deep-discounts-than-borderland-3-did/)
+ - [Helldivers 2 players celebrate victory over Sony as the &#39;review bomb&#39; cape finally appears in the game: &#39;We won the biggest and longest running Major Order in the game to date&#39;](https://www.pcgamer.com/games/helldivers-2-players-celebrate-victory-over-sony-as-the-review-bomb-cape-finally-appears-in-the-game-we-won-the-biggest-and-longest-running-major-order-in-the-game-to-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
