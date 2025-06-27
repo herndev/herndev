@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Porn age-gating is the future of the internet, thanks to the Supreme Court](https://www.theverge.com/internet-censorship/686042/supreme-court-fsc-paxton-porn-age-verification-ruling)
- - [SCOTUS upholds a broadband subsidy program for low-income users, schools, and others, rejecting claims that its funding mechanism is unconstitutional &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250627/p16#a250627p16)
- - [US Supreme Court Upholds Texas Porn ID Law](https://www.wired.com/story/us-supreme-court-porn-age-verification-decision-2025/)<!-- TECH:END -->
+ - [Adobe’s new camera app is making me rethink phone photography](https://www.theverge.com/tech/694014/adobe-project-indigo-camera-app-hands-on-hdr)
+ - [Anthropic launches the Anthropic Economic Futures Program to bolster research on the impacts of AI and encourage new proposals on how to mitigate the downsides &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250627/p18#a250627p18)
+ - [Tesla loses key execs but hires a new one from GM’s failed robotaxi company](https://www.theverge.com/news/694301/tesla-executives-gm-cruise-hire-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
