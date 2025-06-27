@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Weekend Guide: Bid Farewell To June With 5 Great Games](https://kotaku.com/kotaku-games-to-play-stranding-tlou-digimon-mtg-1851785272)
- - [Diablo 4&#39;s old and forgotten dungeons will be renovated into loot-packed marathons that culminate with a duel against a familiar boss in its next season](https://www.pcgamer.com/games/rpg/diablo-4s-old-and-forgotten-dungeons-will-be-renovated-into-loot-packed-marathons-that-culminate-with-a-duel-against-a-familiar-boss-in-its-next-season/)
- - [Fortnite cheater wins $6,850 in competitive tournaments, gets caught, now owes Epic $175,000](https://www.pcgamer.com/games/battle-royale/fortnite-cheater-wins-usd6-850-in-competitive-tournaments-gets-caught-now-owes-epic-usd175-000/)<!-- GAME:END -->
+ - [New Vegas lead Josh Sawyer thinks turn-based combat fell off in the 2000s due to a lack of &#39;tactical variation&#39;: Even Fallout 1 would &#39;get to the point where you&#39;re always doing nut shots and eye shots&#39;](https://www.pcgamer.com/games/fallout/new-vegas-lead-josh-sawyer-thinks-turn-based-combat-fell-off-in-the-2000s-due-to-a-lack-of-tactical-variation-even-fallout-1-would-get-to-the-point-where-youre-always-doing-nut-shots-and-eye-shots/)
+ - [Dave the Diver In the Jungle DLC is delayed, but the free Godzilla Content Pack is back and Ichiban Kasuga has extended his vacation until the end of 2026](https://www.pcgamer.com/games/adventure/dave-the-diver-in-the-jungle-dlc-is-delayed-but-the-free-godzilla-content-pack-is-back-and-ichiban-kasuga-has-extended-his-vacation-until-the-end-of-2026/)
+ - [How to raise Porter Grade stats in Death Stranding 2](https://www.polygon.com/guides/609744/death-stranding-2-ds2-porter-grade-stats-increase)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
