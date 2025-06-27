@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always the same ending](http://9gag.com/gag/a7op6Ym)
- - ⏩ [On street parking](http://9gag.com/gag/aD2O9dN)
- - 👉 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)<!-- MEMES:END -->
+ - 💣 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
+ - ⏩ [WTF, Donal Trump just posted this video with this song](http://9gag.com/gag/aMVODEP)
+ - 👉 [Always the same ending](http://9gag.com/gag/a7op6Ym)<!-- MEMES:END -->
 
 ---
 
