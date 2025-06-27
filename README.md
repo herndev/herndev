@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - ⏩ [Women](http://9gag.com/gag/a34beyQ)
- - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
+ - 💣 [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - ⏩ [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
+ - 👉 [Bros playing the long game...](http://9gag.com/gag/ajPWMbq)<!-- MEMES:END -->
 
 ---
 
