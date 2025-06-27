@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba unveils text-to-image and image-to-image generation model Qwen VLo, with progressive generation tech, which shows the image creation process &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250627/p14#a250627p14)
- - [Apple researchers work to stop AI from taking actions you didn&#39;t approve](https://appleinsider.com/articles/25/06/27/apple-researchers-work-to-stop-ai-from-taking-actions-you-didnt-approve?utm_medium=rss)
- - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)<!-- TECH:END -->
+ - [Porn age-gating is the future of the internet, thanks to the Supreme Court](https://www.theverge.com/internet-censorship/686042/supreme-court-fsc-paxton-porn-age-verification-ruling)
+ - [SCOTUS upholds a broadband subsidy program for low-income users, schools, and others, rejecting claims that its funding mechanism is unconstitutional &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250627/p16#a250627p16)
+ - [US Supreme Court Upholds Texas Porn ID Law](https://www.wired.com/story/us-supreme-court-porn-age-verification-decision-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
