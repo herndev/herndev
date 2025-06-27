@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - ⏩ [The dogs and farmer bravely defend the sheep from a bear.](http://9gag.com/gag/an7rW0E)
- - 👉 [On street parking](http://9gag.com/gag/aD2O9dN)<!-- MEMES:END -->
+ - 💣 [Always the same ending](http://9gag.com/gag/a7op6Ym)
+ - ⏩ [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)
+ - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
 
 ---
 
