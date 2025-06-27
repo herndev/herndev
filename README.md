@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google fully releases Gemma 3n, an open-source, multimodal AI model that can run on as little as 2GB of memory; the model was previously available as a preview &lpar;David Uzondu/Neowin&rpar;](http://www.techmeme.com/250626/p43#a250626p43)
- - [19-year-old Edward Coristine, a DOGE staffer known as &quot;Big Balls&quot; online, has joined the Social Security Administration days after resigning from the GSA &lpar;Wired&rpar;](http://www.techmeme.com/250626/p42#a250626p42)
- - [Ember Mug 2 smart mug plummets to new record-low price!](https://www.androidauthority.com/ember-mug-2-deal-8-3571513/)<!-- TECH:END -->
+ - [Dinari, which offers blockchain-based US stocks, secures a broker-dealer registration to become the first tokenized equity platform to secure approval in the US &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250626/p46#a250626p46)
+ - [Palantir signs a deal with The Nuclear Company under which the startup will pay Palantir $100M over five years to develop AI software for the nuclear industry &lpar;Miquela Thornton/Bloomberg&rpar;](http://www.techmeme.com/250626/p45#a250626p45)
+ - [Apple Store Perth City opens in Australia](https://appleinsider.com/articles/25/06/27/apple-store-perth-city-opens-in-australia?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
