@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Runway is going to let people generate video games with AI](https://www.theverge.com/ai-artificial-intelligence/694531/runway-ai-video-games-generate)
- - [OpenAI’s Unreleased AGI Paper Could Complicate Microsoft Negotiations](https://www.wired.com/story/openai-five-levels-agi-paper-microsoft-negotiations/)
- - [Trump’s ‘big beautiful bill’ could mean slower Wi-Fi for you](https://www.theverge.com/news/694479/senate-bill-reduce-capacity-6ghz-wifi-band)<!-- TECH:END -->
+ - [Logitech says all its webcams work with Nintendo Switch 2, save one](https://www.theverge.com/news/694565/logitech-webcams-work-with-nintendo-switch-2)
+ - [Google Photos won’t downgrade your edited HDR pictures to SDR anymore](https://www.androidauthority.com/google-photos-hdr-improvements-3571977/)
+ - [The Nothing Phone 3 might have the weirdest camera design out there](https://www.theverge.com/news/694635/nothing-phone-3-camera-design-weird)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
