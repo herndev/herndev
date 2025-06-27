@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite cheater wins $6,850 in competitive tournaments, gets caught, now owes Epic $175,000](https://www.pcgamer.com/games/battle-royale/fortnite-cheater-wins-usd6-850-in-competitive-tournaments-gets-caught-now-owes-epic-usd175-000/)
- - [How Long Will It Take To Connect All Of Australia In Death Stranding 2?](https://kotaku.com/death-stranding-2-how-long-to-beat-sequel-story-hltb-1851785232)
- - [These Two Cool Mass Effect Mods Look Like The Perfect Way To Revisit A Classic Trilogy](https://kotaku.com/mass-effect-legendary-best-mods-le3-spectre-1851785265)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: Bid Farewell To June With 5 Great Games](https://kotaku.com/kotaku-games-to-play-stranding-tlou-digimon-mtg-1851785272)
+ - [Diablo 4&#39;s old and forgotten dungeons will be renovated into loot-packed marathons that culminate with a duel against a familiar boss in its next season](https://www.pcgamer.com/games/rpg/diablo-4s-old-and-forgotten-dungeons-will-be-renovated-into-loot-packed-marathons-that-culminate-with-a-duel-against-a-familiar-boss-in-its-next-season/)
+ - [Fortnite cheater wins $6,850 in competitive tournaments, gets caught, now owes Epic $175,000](https://www.pcgamer.com/games/battle-royale/fortnite-cheater-wins-usd6-850-in-competitive-tournaments-gets-caught-now-owes-epic-usd175-000/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
