@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aura Triple Boost 14 Pro review: Three portable monitors on any Apple Silicon Mac](https://appleinsider.com/articles/25/06/26/aura-triple-boost-14-pro-review-three-portable-monitors-on-any-apple-silicon-mac?utm_medium=rss)
- - [Google is rolling out its AI-powered &amp;#8216;Ask Photos&amp;#8217; search again – and it has a speed boost](https://www.theverge.com/news/694016/google-ask-photos-ai-gemini-search-speed-latency-boost)
- - [Sources: UK mobile bank Starling is looking to buy a nationally chartered bank with ~$2B of assets in the US as it seeks to expand in the country &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250626/p41#a250626p41)<!-- TECH:END -->
+ - [Google fully releases Gemma 3n, an open-source, multimodal AI model that can run on as little as 2GB of memory; the model was previously available as a preview &lpar;David Uzondu/Neowin&rpar;](http://www.techmeme.com/250626/p43#a250626p43)
+ - [19-year-old Edward Coristine, a DOGE staffer known as &quot;Big Balls&quot; online, has joined the Social Security Administration days after resigning from the GSA &lpar;Wired&rpar;](http://www.techmeme.com/250626/p42#a250626p42)
+ - [Ember Mug 2 smart mug plummets to new record-low price!](https://www.androidauthority.com/ember-mug-2-deal-8-3571513/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
