@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Comfortable With the Frigidaire 35 Pint Dehumidifier](https://www.wired.com/review/frigidaire-35-pint-dehumidifier/)
- - [Vornado EVDC300 Humidifier Review: Smart, but Only for Small Rooms](https://www.wired.com/review/vornado-evdc300-humidifier/)
- - [Plantaform Smart Indoor Garden Review: Rewarding but Risky](https://www.wired.com/review/plantaform-smart-indoor-garden/)<!-- TECH:END -->
+ - [One UI 8 could make Now Brief even more useful with these additions](https://www.androidauthority.com/samsung-now-brief-one-ui-8-3571648/)
+ - [At a &quot;couples retreat&quot; for human-AI pairs, users of services like Replika and Nomi grapple with the virtual reality and emotional limits of their partners &lpar;Sam Apple/Wired&rpar;](http://www.techmeme.com/250627/p4#a250627p4)
+ - [Best Internet Providers in Fresno, California](https://www.cnet.com/home/internet/best-internet-providers-in-fresno-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
