@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She does it all!!!](http://9gag.com/gag/amopQX2)
- - ⏩ [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
- - 👉 [Bros playing the long game...](http://9gag.com/gag/ajPWMbq)<!-- MEMES:END -->
+ - 💣 [It\u2019s time for you to shared your most cursed image](http://9gag.com/gag/ayNYm4q)
+ - ⏩ [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 👉 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)<!-- MEMES:END -->
 
 ---
 
