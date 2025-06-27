@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe’s new camera app is making me rethink phone photography](https://www.theverge.com/tech/694014/adobe-project-indigo-camera-app-hands-on-hdr)
- - [Anthropic launches the Anthropic Economic Futures Program to bolster research on the impacts of AI and encourage new proposals on how to mitigate the downsides &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250627/p18#a250627p18)
- - [Tesla loses key execs but hires a new one from GM’s failed robotaxi company](https://www.theverge.com/news/694301/tesla-executives-gm-cruise-hire-elon-musk)<!-- TECH:END -->
+ - [Trump&#39;s tax bill expands Qualified Small Business Stock benefits for VCs, founders, startup staff, including increasing maximum tax-free gains from $10M to $15M &lpar;Ben Steverman/Bloomberg&rpar;](http://www.techmeme.com/250627/p19#a250627p19)
+ - [So Long, Blue Screen of Death. Amazingly, You&#39;ll Be Missed](https://www.wired.com/story/so-long-blue-screen-of-death-amazingly-youll-be-missed/)
+ - [Pokemon TCG Pocket&#39;s Eevee Grove Expansion Has Convinced My Partner to Play](https://www.cnet.com/tech/gaming/pokemon-tcg-pockets-eevee-grove-expansion-has-convinced-my-partner-to-play/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
