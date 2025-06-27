@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Endless Legend 2 will let you play as refugees from the first game&#39;s coolest faction: a collection of vampire ghosts trapped in fancy armour](https://www.pcgamer.com/games/strategy/endless-legend-2-will-let-you-play-as-refugees-from-the-first-games-coolest-faction-a-collection-of-vampire-ghosts-trapped-in-fancy-armour/)
- - [Colorful launches quirky Meow series GPUs with a bright orange RTX 5050 covered in cats](https://www.pcgamer.com/hardware/graphics-cards/colorful-launches-quirky-meow-series-gpus-with-a-bright-orange-rtx-5050-covered-in-cats/)
- - [Getty drops primary claims against Stable Diffusion in AI lawsuit after &#39;failing to establish a sufficient connection between the infringing acts and the UK jurisdiction for copyright law to bite&#39;](https://www.pcgamer.com/hardware/getty-drops-primary-claims-against-stable-diffusion-in-ai-lawsuit-after-failing-to-establish-a-sufficient-connection-between-the-infringing-acts-and-the-uk-jurisdiction-for-copyright-law-to-bite/)<!-- GAME:END -->
+ - [Deus Ex lead Warren Spector pops up to remind everyone he didn&#39;t make the game alone in a cave, wish you a happy 25th anniversary, and get me wondering if something Deus Ex-related is happening behind the scenes](https://www.pcgamer.com/games/rpg/deus-ex-lead-warren-spector-pops-up-to-remind-everyone-he-didnt-make-the-game-alone-in-a-cave-wish-you-a-happy-25th-anniversary-and-get-me-wondering-if-something-deus-ex-related-is-happening-behind-the-scenes/)
+ - [Want size and speed in your SSD? Micron&#39;s new 2600 boasts &#39;up to 63% faster sequential write and 49% faster random write speeds&#39; than the competition](https://www.pcgamer.com/hardware/ssds/want-size-and-speed-in-your-ssd-microns-new-2600-boasts-up-to-63-percent-faster-sequential-write-and-49-percent-faster-random-write-speeds-than-the-competition/)
+ - [Every item in Peak and what they do](https://www.pcgamer.com/games/sim/peak-items/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
