@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OPPO Reno14 5G gives you every excuse to ditch your iPhone](https://www.androidauthority.com/oppo-reno14-5g-global-launch-3568775/)
- - [European Commission says Meta has proposed limited changes to its pay-or-consent ad model, and Meta faces daily fines if it determines they are not sufficient &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p5#a250627p5)
- - [If you’re using Android 16, you should turn on this important security feature ASAP](https://www.androidauthority.com/android-16-advanced-protection-hands-on-3569651/)<!-- TECH:END -->
+ - [Is Google readying a rival to iOS’ Contact Poster? &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-calling-cards-apk-teardown-3571685/)
+ - [I have yet to find any Android tablet that I love more than the Pixel Tablet](https://www.androidauthority.com/pixel-tablet-best-android-tablet-2-3571337/)
+ - [Germany deems DeepSeek as illegal content after it is unable to address data security concerns, and asks Apple and Google to block it from their app stores &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p6#a250627p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
