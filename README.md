@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sheeeeesh](http://9gag.com/gag/azxYy5b)
- - ⏩ [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)
- - 👉 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)<!-- MEMES:END -->
+ - 💣 [Sir Butter of Fridge](https://www.reddit.com/r/funny/comments/1llu8je/sir_butter_of_fridge/)
+ - ⏩ [Imagine seeing this inside your school classroom.](https://www.reddit.com/r/memes/comments/1llu728/imagine_seeing_this_inside_your_school_classroom/)
+ - 👉 [Grandma is a hacker!](https://www.reddit.com/r/funny/comments/1lltwr7/grandma_is_a_hacker/)<!-- MEMES:END -->
 
 ---
 
