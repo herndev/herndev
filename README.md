@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Doppl app took off my socks](https://www.theverge.com/news/694087/google-doppl-app-test-launch-ai)
- - [Apple just bought another Bay Area campus for $350 million](https://appleinsider.com/articles/25/06/27/apple-just-bought-another-bay-area-campus-for-350-million?utm_medium=rss)
- - [This smart smoke alarm could be a worthy Nest Protect replacement](https://www.theverge.com/news/694101/place-smart-smoke-co-alarm-gentex-home-safety-system-price-specs-release-date)<!-- TECH:END -->
+ - [Alibaba unveils text-to-image and image-to-image generation model Qwen VLo, with progressive generation tech, which shows the image creation process &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250627/p14#a250627p14)
+ - [Apple researchers work to stop AI from taking actions you didn&#39;t approve](https://appleinsider.com/articles/25/06/27/apple-researchers-work-to-stop-ai-from-taking-actions-you-didnt-approve?utm_medium=rss)
+ - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
