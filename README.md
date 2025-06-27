@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Zealand-based Halter, which provides smart collars and geofencing software for the dairy industry, raised a $100M Series D led by Bond at a $1B valuation &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250626/p40#a250626p40)
- - [Save 15% on this SIMO Solis Lite hotspot and get 1GB monthly for free](https://www.androidauthority.com/simo-solis-lite-4g-lte-mobile-hotspot-free-1gb-monthly-deal-3571514/)
- - [AirPods Pro 3 possibly referenced in updated codebase](https://appleinsider.com/articles/25/06/26/airpods-pro-3-possibly-referenced-in-updated-codebase?utm_medium=rss)<!-- TECH:END -->
+ - [Aura Triple Boost 14 Pro review: Three portable monitors on any Apple Silicon Mac](https://appleinsider.com/articles/25/06/26/aura-triple-boost-14-pro-review-three-portable-monitors-on-any-apple-silicon-mac?utm_medium=rss)
+ - [Google is rolling out its AI-powered &amp;#8216;Ask Photos&amp;#8217; search again – and it has a speed boost](https://www.theverge.com/news/694016/google-ask-photos-ai-gemini-search-speed-latency-boost)
+ - [Sources: UK mobile bank Starling is looking to buy a nationally chartered bank with ~$2B of assets in the US as it seeks to expand in the country &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250626/p41#a250626p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
