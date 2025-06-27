@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps makes starting a collaborative list less confusing](https://www.androidauthority.com/google-maps-share-sheet-update-3571897/)
- - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
- - [Substack Is Having a Moment—Again. But Time Is Running Out](https://www.wired.com/story/substack-is-having-a-moment-again-but-time-is-running-out/)<!-- TECH:END -->
+ - [Runway is going to let people generate video games with AI](https://www.theverge.com/ai-artificial-intelligence/694531/runway-ai-video-games-generate)
+ - [OpenAI’s Unreleased AGI Paper Could Complicate Microsoft Negotiations](https://www.wired.com/story/openai-five-levels-agi-paper-microsoft-negotiations/)
+ - [Trump’s ‘big beautiful bill’ could mean slower Wi-Fi for you](https://www.theverge.com/news/694479/senate-bill-reduce-capacity-6ghz-wifi-band)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
