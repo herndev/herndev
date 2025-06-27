@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - ⏩ [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - 👉 [She does it all!!!](http://9gag.com/gag/amopQX2)<!-- MEMES:END -->
+ - 💣 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - ⏩ [No denture adventure](http://9gag.com/gag/aVvV5Gv)
+ - 👉 [Just some numbers..](http://9gag.com/gag/azxYyVB)<!-- MEMES:END -->
 
 ---
 
