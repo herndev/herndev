@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s Talk About Why Some Folks Are Really Unhappy With The Switch 2’s Screen](https://kotaku.com/nintendo-switch-2-screen-hdr-response-time-1851785261)
- - [How to fast travel in Death Stranding 2](https://www.polygon.com/guides/609687/death-stranding-2-fast-travel-unlock-magellan-evaluation)
- - [9 Movies And TV Shows With Competitions As Twisted As Squid Game](https://kotaku.com/squid-game-season-3-netflix-saw-black-mirror-circle-1851785257)<!-- GAME:END -->
+ - [Fortnite cheater wins $6,850 in competitive tournaments, gets caught, now owes Epic $175,000](https://www.pcgamer.com/games/battle-royale/fortnite-cheater-wins-usd6-850-in-competitive-tournaments-gets-caught-now-owes-epic-usd175-000/)
+ - [How Long Will It Take To Connect All Of Australia In Death Stranding 2?](https://kotaku.com/death-stranding-2-how-long-to-beat-sequel-story-hltb-1851785232)
+ - [These Two Cool Mass Effect Mods Look Like The Perfect Way To Revisit A Classic Trilogy](https://kotaku.com/mass-effect-legendary-best-mods-le3-spectre-1851785265)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
