@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s time for you to shared your most cursed image](http://9gag.com/gag/ayNYm4q)
- - ⏩ [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
- - 👉 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)<!-- MEMES:END -->
+ - 💣 [They should have tried confidence](http://9gag.com/gag/aE0Oyeo)
+ - ⏩ [Funny but Sad](http://9gag.com/gag/abAQLqb)
+ - 👉 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)<!-- MEMES:END -->
 
 ---
 
