@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They should have tried confidence](http://9gag.com/gag/aE0Oyeo)
- - ⏩ [Funny but Sad](http://9gag.com/gag/abAQLqb)
- - 👉 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)<!-- MEMES:END -->
+ - 💣 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)
+ - ⏩ [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 👉 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)<!-- MEMES:END -->
 
 ---
 
