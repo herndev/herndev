@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Short circuit explained](http://9gag.com/gag/a87Kg5Y)
- - ⏩ [Watching this artwork emerge is captivating](http://9gag.com/gag/awyY2M8)
- - 👉 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)<!-- MEMES:END -->
+ - 💣 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - ⏩ [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 👉 [She does it all!!!](http://9gag.com/gag/amopQX2)<!-- MEMES:END -->
 
 ---
 
