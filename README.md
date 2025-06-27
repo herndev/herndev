@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best deals in the 2025 Steam Summer Sale](https://www.pcgamer.com/games/the-best-deals-in-the-2025-steam-summer-sale/)
  - [The Sims 4 Enchanted by Nature expansion adds emotionally draining fairies and a whole lotta green](https://www.pcgamer.com/games/the-sims/sims-4-enchanted-by-nature-release-date-and-trailer/)
- - [Rainbow Six Siege X director says free currency gain has been &#39;buffed&#39; after complaints: &#39;The goal wasn&#39;t to make it a harder grind for players&#39;](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-director-says-free-currency-gain-has-been-buffed-after-complaints-the-goal-wasnt-to-make-it-a-harder-grind-for-players/)
- - [Monster Hunter Wilds’ second free title update brings fierce new monsters and more June 30](https://blog.playstation.com/2025/06/26/monster-hunter-wilds-second-free-title-update-brings-fierce-new-monsters-and-more-june-30/)<!-- GAME:END -->
+ - [Rainbow Six Siege X director says free currency gain has been &#39;buffed&#39; after complaints: &#39;The goal wasn&#39;t to make it a harder grind for players&#39;](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-director-says-free-currency-gain-has-been-buffed-after-complaints-the-goal-wasnt-to-make-it-a-harder-grind-for-players/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
