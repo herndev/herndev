@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Yes, the protagonist of Baby Steps does have a juicy butt: &#39;Every animator winds up a little bit arse-focused,&#39; says Bennett Foddy](https://www.pcgamer.com/games/yes-the-protagonist-of-baby-steps-does-have-a-juicy-butt-every-animator-winds-up-a-little-bit-arse-focused-says-bennett-foddy/)
  - [Today&#39;s Wordle answer for Friday, June 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-27-2025/)
- - [The best deals in the 2025 Steam Summer Sale](https://www.pcgamer.com/games/the-best-deals-in-the-2025-steam-summer-sale/)
- - [The Sims 4 Enchanted by Nature expansion adds emotionally draining fairies and a whole lotta green](https://www.pcgamer.com/games/the-sims/sims-4-enchanted-by-nature-release-date-and-trailer/)<!-- GAME:END -->
+ - [The best deals in the 2025 Steam Summer Sale](https://www.pcgamer.com/games/the-best-deals-in-the-2025-steam-summer-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
