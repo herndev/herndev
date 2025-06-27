@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)
- - ⏩ [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 👉 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)<!-- MEMES:END -->
+ - 💣 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - ⏩ [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
+ - 👉 [New fear unlocked &lpar;no pun intended&rpar;](http://9gag.com/gag/ajPWGG8)<!-- MEMES:END -->
 
 ---
 
