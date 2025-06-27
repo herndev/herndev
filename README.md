@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm ! seems like a interesting gadget](https://www.reddit.com/r/memes/comments/1llvfm9/hmm_seems_like_a_interesting_gadget/)
- - ⏩ [So far not so good](https://www.reddit.com/r/memes/comments/1llvbxv/so_far_not_so_good/)
- - 👉 [Me every time](https://www.reddit.com/r/memes/comments/1llv74d/me_every_time/)<!-- MEMES:END -->
+ - 💣 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - ⏩ [So white its using a subaru...](http://9gag.com/gag/amopwQ6)
+ - 👉 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)<!-- MEMES:END -->
 
 ---
 
