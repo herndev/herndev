@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - ⏩ [Well, this is not what I expected in the bathroom](http://9gag.com/gag/ary20V0)
- - 👉 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)<!-- MEMES:END -->
+ - 💣 [Short circuit explained](http://9gag.com/gag/a87Kg5Y)
+ - ⏩ [Watching this artwork emerge is captivating](http://9gag.com/gag/awyY2M8)
+ - 👉 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)<!-- MEMES:END -->
 
 ---
 
