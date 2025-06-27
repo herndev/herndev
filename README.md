@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Graphic artists in China push back on AI and its averaging effect](https://www.theverge.com/ai-artificial-intelligence/688645/graphic-artists-china-ai)
- - [Five productivity-enhancing iOS 26 features that are perfect for business users](https://appleinsider.com/articles/25/06/27/five-productivity-enhancing-ios-26-features-that-are-perfect-for-business-users?utm_medium=rss)
- - [Mattress Shopping Terms to Know &lpar;2025&rpar;](https://www.wired.com/story/mattress-shopping-terms-to-know/)<!-- TECH:END -->
+ - [12 Best Standing Desks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
+ - [PitchBook: US VC investment in AI startups rose 33% QoQ to $65B in Q1, up 550% from the quarter prior to ChatGPT&#39;s 2022 release &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250627/p10#a250627p10)
+ - [5 apps I recommend to every savvy investor](https://www.androidauthority.com/best-investment-apps-i-recommend-3570702/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
