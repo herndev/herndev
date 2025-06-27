@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Requiem Producer Masato Kumazawa Q&amp;A](https://blog.playstation.com/2025/06/26/resident-evil-requiem-producer-masato-kumazawa-qa/)
- - [Riot decides that allowing sports betting sponsorships in top-tier League of Legends and Valorant esports is a good idea](https://www.pcgamer.com/gaming-industry/riot-decides-that-allowing-sports-betting-sponsorships-in-top-tier-league-of-legends-and-valorant-esports-is-a-good-idea/)
- - [Nintendo’s having a summer sale if you want to fill up your Switch 2 storage](https://www.polygon.com/nintendo-switch-2/609417/nintendo-summer-sale-switch-games-eshop)<!-- GAME:END -->
+ - [Rainbow Six Siege X director says free currency gain has been &#39;buffed&#39; after complaints: &#39;The goal wasn&#39;t to make it a harder grind for players&#39;](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-director-says-free-currency-gain-has-been-buffed-after-complaints-the-goal-wasnt-to-make-it-a-harder-grind-for-players/)
+ - [Monster Hunter Wilds’ second free title update brings fierce new monsters and more June 30](https://blog.playstation.com/2025/06/26/monster-hunter-wilds-second-free-title-update-brings-fierce-new-monsters-and-more-june-30/)
+ - [Monster Hunter Wilds’ second free title update brings fierce new monsters and more June 30](https://blog.playstation.com/2025/06/26/monster-hunter-wilds-second-free-title-update-brings-fierce-new-monsters-and-more-june-30/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
