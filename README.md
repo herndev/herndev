@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi launches cut-price Smart Band 10 in global markets](https://www.androidauthority.com/xiaomi-smart-band-10-launch-3571185/)
- - [Best Internet Providers in Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-rhode-island/#ftag=CAD590a51e)
- - [There’s a new Google app on the block and it’s all about fashion](https://www.androidauthority.com/google-doppl-3571667/)<!-- TECH:END -->
+ - [The OPPO Reno14 5G gives you every excuse to ditch your iPhone](https://www.androidauthority.com/oppo-reno14-5g-global-launch-3568775/)
+ - [European Commission says Meta has proposed limited changes to its pay-or-consent ad model, and Meta faces daily fines if it determines they are not sufficient &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p5#a250627p5)
+ - [If you’re using Android 16, you should turn on this important security feature ASAP](https://www.androidauthority.com/android-16-advanced-protection-hands-on-3569651/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
