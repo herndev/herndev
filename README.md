@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, June 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-27-2025/)
  - [The best deals in the 2025 Steam Summer Sale](https://www.pcgamer.com/games/the-best-deals-in-the-2025-steam-summer-sale/)
- - [The Sims 4 Enchanted by Nature expansion adds emotionally draining fairies and a whole lotta green](https://www.pcgamer.com/games/the-sims/sims-4-enchanted-by-nature-release-date-and-trailer/)
- - [Rainbow Six Siege X director says free currency gain has been &#39;buffed&#39; after complaints: &#39;The goal wasn&#39;t to make it a harder grind for players&#39;](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-director-says-free-currency-gain-has-been-buffed-after-complaints-the-goal-wasnt-to-make-it-a-harder-grind-for-players/)<!-- GAME:END -->
+ - [The Sims 4 Enchanted by Nature expansion adds emotionally draining fairies and a whole lotta green](https://www.pcgamer.com/games/the-sims/sims-4-enchanted-by-nature-release-date-and-trailer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
