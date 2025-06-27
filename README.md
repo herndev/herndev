@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need To Know About Death Stranding 2&#39;s Multiplayer Features](https://kotaku.com/death-stranding-2-chiral-network-multiplayer-connect-1851785246)
- - [Randy Pitchford makes people mad again by warning that Borderlands 4 will take even longer to get deep discounts than Borderland 3 did](https://www.pcgamer.com/games/fps/randy-pitchford-makes-people-mad-again-by-warning-that-borderlands-4-will-take-even-longer-to-get-deep-discounts-than-borderland-3-did/)
- - [Helldivers 2 players celebrate victory over Sony as the &#39;review bomb&#39; cape finally appears in the game: &#39;We won the biggest and longest running Major Order in the game to date&#39;](https://www.pcgamer.com/games/helldivers-2-players-celebrate-victory-over-sony-as-the-review-bomb-cape-finally-appears-in-the-game-we-won-the-biggest-and-longest-running-major-order-in-the-game-to-date/)<!-- GAME:END -->
+ - [Let’s Talk About Why Some Folks Are Really Unhappy With The Switch 2’s Screen](https://kotaku.com/nintendo-switch-2-screen-hdr-response-time-1851785261)
+ - [How to fast travel in Death Stranding 2](https://www.polygon.com/guides/609687/death-stranding-2-fast-travel-unlock-magellan-evaluation)
+ - [9 Movies And TV Shows With Competitions As Twisted As Squid Game](https://kotaku.com/squid-game-season-3-netflix-saw-black-mirror-circle-1851785257)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
