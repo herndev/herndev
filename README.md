@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Dying Light: The Beast Combines Open World and Survival Horror To Maximize Player Freedom](https://news.xbox.com/en-us/2025/06/27/dying-light-the-beast-maximize-player-freedom/)
- - [Razer Joro &amp; Basilisk Mobile review](https://www.pcgamer.com/hardware/gaming-mice/razer-joro-and-basilisk-mobile-review/)
- - [Call me Victor Kermit Kiam, cos I liked this mobo so much I built my new gaming PC around it](https://www.pcgamer.com/hardware/motherboards/call-me-victor-kermit-kiam-cos-i-liked-this-mobo-so-much-i-built-my-new-gaming-pc-around-it/)<!-- GAME:END -->
+ - [Monster Hunter Wilds&#39; Next Big Update Promises New Content And More Fixes As Steam Rating Tanks](https://kotaku.com/monster-hunter-wilds-title-2-patch-notes-steam-reviews-1851785248)
+ - [The Helldivers 2 review bomb cape is finally here, a year after PSN backlash](https://www.polygon.com/gaming/609611/helldivers-2-review-bomb-cape)
+ - [Dark Souls 2 player beats its hardest boss on NG+7 by wearing his clothes and committing seppuku 47 times](https://www.pcgamer.com/games/rpg/dark-souls-2-player-beats-its-hardest-boss-on-ng-7-by-wearing-his-clothes-and-committing-seppuku-47-times/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
