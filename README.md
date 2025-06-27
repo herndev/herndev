@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - ⏩ [WTF, Donal Trump just posted this video with this song](http://9gag.com/gag/aMVODEP)
- - 👉 [Always the same ending](http://9gag.com/gag/a7op6Ym)<!-- MEMES:END -->
+ - 💣 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - ⏩ [The dogs and farmer bravely defend the sheep from a bear.](http://9gag.com/gag/an7rW0E)
+ - 👉 [On street parking](http://9gag.com/gag/aD2O9dN)<!-- MEMES:END -->
 
 ---
 
