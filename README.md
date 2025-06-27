@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Redwood Materials is giving old EV batteries a second life as microgrids](https://www.theverge.com/news/693726/redwood-materials-is-giving-old-ev-batteries-a-second-life-as-microgrids)
  - [Google has been banned from selling the Pixel 7 in Japan due to a patent dispute related to 4G connectivity; further bans against the Pixel 8 and 9 are possible &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250626/p48#a250626p48)
- - [Meta says it’s winning the talent war with OpenAI](https://www.theverge.com/command-line-newsletter/694028/meta-openai-100-million-bonus-talent-war)
- - [Elon Musk says X will charge for ads &quot;based on vertical size&quot;, with an ad taking up the whole screen costing more than one that takes up a quarter of the screen &lpar;Matt Swider/The Shortcut&rpar;](http://www.techmeme.com/250626/p47#a250626p47)<!-- TECH:END -->
+ - [Meta says it’s winning the talent war with OpenAI](https://www.theverge.com/command-line-newsletter/694028/meta-openai-100-million-bonus-talent-war)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
