@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - ⏩ [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
- - 👉 [New fear unlocked &lpar;no pun intended&rpar;](http://9gag.com/gag/ajPWGG8)<!-- MEMES:END -->
+ - 💣 [Sheeeeesh](http://9gag.com/gag/azxYy5b)
+ - ⏩ [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)
+ - 👉 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)<!-- MEMES:END -->
 
 ---
 
