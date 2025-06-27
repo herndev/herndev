@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kunitsu-Gami: Path Of The Goddess&#39; Recent Update Makes It Perfect For The Switch 2](https://kotaku.com/kunitsu-gami-path-goddess-how-long-to-beat-switch-2-1851785162)
- - [The new version of Logitech&#39;s glorious MX Master makes an appearance in the EU Intellectual Property Office database, pointing to an imminent release](https://www.pcgamer.com/hardware/gaming-mice/the-new-version-of-logitechs-glorious-mx-master-makes-an-appearance-in-the-eu-intellectual-property-office-database-pointing-to-an-imminent-release/)
- - [Nacon Revolution X Unlimited review](https://www.pcgamer.com/hardware/controllers/nacon-revolution-x-unlimited-review/)<!-- GAME:END -->
+ - [Jump into Mecha Break on Xbox and Enjoy Exclusive Cosmetics with Game Pass](https://news.xbox.com/en-us/2025/06/27/mecha-break-xbox-game-pass-perks/)
+ - [&#39;We were super confident in third-person&#39;: Overwatch 2 Stadium devs love the new perspective but understand it&#39;s not to everyone&#39;s liking, &#39;A decade of muscle memory exits&#39;](https://www.pcgamer.com/games/third-person-shooter/we-were-super-confident-in-third-person-overwatch-2-stadium-devs-love-the-new-perspective-but-understand-its-not-to-everyones-liking-a-decade-of-muscle-memory-exits/)
+ - [Developers of Linux distro Fedora propose dropping 32-bit support entirely, but it&#39;s being claimed that the change &#39;would kill off projects like Bazzite entirely&#39;](https://www.pcgamer.com/software/linux/developers-of-linux-distro-fedora-propose-dropping-32-bit-support-entirely-but-its-being-claimed-that-the-change-would-kill-off-projects-like-bazzite-entirely/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
