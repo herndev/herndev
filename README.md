@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Google readying a rival to iOS’ Contact Poster? &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-calling-cards-apk-teardown-3571685/)
- - [I have yet to find any Android tablet that I love more than the Pixel Tablet](https://www.androidauthority.com/pixel-tablet-best-android-tablet-2-3571337/)
- - [Germany deems DeepSeek as illegal content after it is unable to address data security concerns, and asks Apple and Google to block it from their app stores &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p6#a250627p6)<!-- TECH:END -->
+ - [Graphic artists in China push back on AI and its averaging effect](https://www.theverge.com/ai-artificial-intelligence/688645/graphic-artists-china-ai)
+ - [Five productivity-enhancing iOS 26 features that are perfect for business users](https://appleinsider.com/articles/25/06/27/five-productivity-enhancing-ios-26-features-that-are-perfect-for-business-users?utm_medium=rss)
+ - [Mattress Shopping Terms to Know &lpar;2025&rpar;](https://www.wired.com/story/mattress-shopping-terms-to-know/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
