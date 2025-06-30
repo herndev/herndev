@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)
+ - 💣 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
  - ⏩ [He looks concerned](http://9gag.com/gag/aRBOqYj)
- - 👉 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)<!-- MEMES:END -->
+ - 👉 [Would you blame him?](http://9gag.com/gag/aNDOEXv)<!-- MEMES:END -->
 
 ---
 
