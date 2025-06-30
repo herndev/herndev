@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic tested Claude&#39;s ability to manage a physical &quot;storefront&quot; to mixed results, as the AI struggled with pricing strategy and inventory management &lpar;Ryan Daws/AI News&rpar;](http://www.techmeme.com/250627/p27#a250627p27)
- - [How vulnerable is critical infrastructure to cyberattack in the US?](https://www.theverge.com/cyber-security/693588/cybersecurity-cyberattack-critical-infrastructure-war-expert-iran)
- - [AlgoLaser Pixi Smart Laser Engraver review: Compact engraving for small workshops](https://appleinsider.com/articles/25/06/27/algolaser-pixi-smart-laser-engraver-review-compact-engraving-for-small-workshops?utm_medium=rss)<!-- TECH:END -->
+ - [Spinwheel, which helps fintech companies and banks authenticate users, automate data retrieval, and facilitate payments, raised a $30M Series A led by F-Prime &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250629/p23#a250629p23)
+ - [Kuo expects Apple to mass produce a Vision Pro with M5 in Q3 2025, a Vision Air in Q3 2027, a Vision Pro with a new design and XR glasses in H2 2028, and more &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250629/p22#a250629p22)
+ - [Early Prime Day iPad deals roll in, offering prices as low as $299](https://appleinsider.com/articles/25/06/29/early-prime-day-ipad-deals-roll-in-offering-prices-as-low-as-299?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
