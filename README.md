@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
- - ⏩ [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 👉 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)<!-- MEMES:END -->
+ - 💣 [Termites incredible defense system. Scary!](http://9gag.com/gag/a9yO9Ao)
+ - ⏩ [90s kids.](http://9gag.com/gag/aQzOwrr)
+ - 👉 [Peak male content](http://9gag.com/gag/aGyOWQK)<!-- MEMES:END -->
 
 ---
 
