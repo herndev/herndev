@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Termites incredible defense system. Scary!](http://9gag.com/gag/a9yO9Ao)
- - ⏩ [90s kids.](http://9gag.com/gag/aQzOwrr)
- - 👉 [Peak male content](http://9gag.com/gag/aGyOWQK)<!-- MEMES:END -->
+ - 💣 [Just trying to help out in the snow](http://9gag.com/gag/aE0OLLe)
+ - ⏩ [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
 
 ---
 
