@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jim Chanos, who famously shorted Enron, calls Michael Saylor&#39;s bitcoin strategy &quot;financial gibberish&quot;, as Saylor inspires several copycats like Trump Media &lpar;Peter Whoriskey/Washington Post&rpar;](http://www.techmeme.com/250630/p3#a250630p3)
  - [US lawmakers call for federal probe into OnePlus](https://www.androidauthority.com/oneplus-probe-us-3572172/)
- - [How India is carving out space for high-end manufacturing, including a $2.5B Foxconn iPhone factory in Devanahalli, near Bengaluru, aiming to create 40K jobs &lpar;New York Times&rpar;](http://www.techmeme.com/250630/p2#a250630p2)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, June 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How India is carving out space for high-end manufacturing, including a $2.5B Foxconn iPhone factory in Devanahalli, near Bengaluru, aiming to create 40K jobs &lpar;New York Times&rpar;](http://www.techmeme.com/250630/p2#a250630p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
