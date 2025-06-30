@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
+ - 💣 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)
  - ⏩ [He looks concerned](http://9gag.com/gag/aRBOqYj)
- - 👉 [The look of disappointment on his face](http://9gag.com/gag/a7opRQx)<!-- MEMES:END -->
+ - 👉 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)<!-- MEMES:END -->
 
 ---
 
