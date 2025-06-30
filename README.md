@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft to change Windows&#39;s infamous Blue Screen of Death to something much darker in response to last year&#39;s CloudStrike crashes](https://www.pcgamer.com/hardware/microsoft-to-change-windowss-infamous-blue-screen-of-death-to-something-much-darker-in-response-to-last-years-cloudstrike-crashes/)
- - [If you&#39;re curious about the crazy-ambitious space survival game from the makers of EVE Online, it&#39;s got a free trial running through the next week and change](https://www.pcgamer.com/games/mmo/if-youre-curious-about-the-crazy-ambitious-space-survival-game-from-the-makers-of-eve-online-its-got-a-free-trial-running-through-the-next-week-and-change/)
- - [Five new Steam games you probably missed &lpar;June 30, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-30-2025/)<!-- GAME:END -->
+ - [Apple responds to $570 million in EU fines with new tiered comission and tax for App developers which Epic boss Tim Sweeney says are &#39;blatantly unlawful in both Europe and the United States&#39;](https://www.pcgamer.com/hardware/apple-responds-to-usd570-million-in-eu-fines-with-new-tiered-comission-and-tax-for-app-developers-which-epic-boss-tim-sweeney-says-are-blatantly-unlawful-in-both-europe-and-the-united-states/)
+ - [Moza&#39;s new flight sim ecosystem features five new pieces of hardware aiming to bring high-end simming to mid-range budgets](https://www.pcgamer.com/hardware/mozas-new-flight-sim-ecosystem-features-five-new-pieces-of-hardware-aiming-to-bring-high-end-simming-to-mid-range-budgets/)
+ - [Microsoft to change Windows&#39;s infamous Blue Screen of Death to something much darker in response to last year&#39;s CloudStrike crashes](https://www.pcgamer.com/hardware/microsoft-to-change-windowss-infamous-blue-screen-of-death-to-something-much-darker-in-response-to-last-years-cloudstrike-crashes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
