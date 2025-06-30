@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Microsoft to change Windows&#39;s infamous Blue Screen of Death to something much darker in response to last year&#39;s CloudStrike crashes](https://www.pcgamer.com/hardware/microsoft-to-change-windowss-infamous-blue-screen-of-death-to-something-much-darker-in-response-to-last-years-cloudstrike-crashes/)
  - [If you&#39;re curious about the crazy-ambitious space survival game from the makers of EVE Online, it&#39;s got a free trial running through the next week and change](https://www.pcgamer.com/games/mmo/if-youre-curious-about-the-crazy-ambitious-space-survival-game-from-the-makers-of-eve-online-its-got-a-free-trial-running-through-the-next-week-and-change/)
- - [Five new Steam games you probably missed &lpar;June 30, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-30-2025/)
- - [Facebook users say they&#39;ve caught the app analyzing their camera roll with Meta AI⁠ without their knowledge—here&#39;s how to make sure it doesn&#39;t happen](https://www.pcgamer.com/gaming-industry/facebook-users-say-theyve-caught-the-app-analyzing-their-camera-roll-with-meta-ai-without-their-knowledge-heres-how-to-make-sure-it-doesnt-happen/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;June 30, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-30-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
