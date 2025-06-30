@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How the X-Men ’97 team preserved — and tweaked — the classic Marvel designs for max nostalgia](https://www.polygon.com/609925/x-men-97-art-book-exclusive-storm-cyclops-concept)
- - [How to forge Clerk Vambraces in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-clerk-vambraces-new-fashion-old-feelings/)
- - [Our Favorite Cosplay From Dream Con 2025](https://kotaku.com/dream-con-2025-cosplay-x-men-megan-thee-stallion-1851785306)<!-- GAME:END -->
+ - [Ryan Gosling Goes On A Spectacular Sci-Fi Journey In First Trailer For Project Hail Mary](https://kotaku.com/project-hail-mary-trailer-ryan-gosling-andy-weir-1851785317)
+ - [&#39;Oblivion Remastered with guns&#39; becomes reality as modder jury-rigs a literal Glock into the game and shoots up an Oblivion Tower with it](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-with-guns-becomes-reality-as-modder-jury-rigs-a-literal-glock-into-the-game-and-shoots-up-an-oblivion-tower-with-it/)
+ - [Buggy Warhammer 40K: Space Marine Remaster Gets Upgrade Discount And Refunds As Fans Trash It](https://kotaku.com/warhammer-40k-space-marine-master-crafted-refunds-ps5-1851785318)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
