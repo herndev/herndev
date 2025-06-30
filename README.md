@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally, a practical use for superpowers.](http://9gag.com/gag/an7r6y5)
- - ⏩ [Finally some senses.](http://9gag.com/gag/aW4DzV3)
- - 👉 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)<!-- MEMES:END -->
+ - 💣 [6 people jump on car to escape pit bull but it doesn&#39;t give up](http://9gag.com/gag/a0eM2pB)
+ - ⏩ [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
+ - 👉 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)<!-- MEMES:END -->
 
 ---
 
