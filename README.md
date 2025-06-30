@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just trying to help out in the snow](http://9gag.com/gag/aE0OLLe)
- - ⏩ [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
+ - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - ⏩ [A reunion nobody expected](http://9gag.com/gag/azxY00B)
+ - 👉 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)<!-- MEMES:END -->
 
 ---
 
