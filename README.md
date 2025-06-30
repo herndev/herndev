@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spinwheel, which helps fintech companies and banks authenticate users, automate data retrieval, and facilitate payments, raised a $30M Series A led by F-Prime &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250629/p23#a250629p23)
- - [Kuo expects Apple to mass produce a Vision Pro with M5 in Q3 2025, a Vision Air in Q3 2027, a Vision Pro with a new design and XR glasses in H2 2028, and more &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250629/p22#a250629p22)
- - [Early Prime Day iPad deals roll in, offering prices as low as $299](https://appleinsider.com/articles/25/06/29/early-prime-day-ipad-deals-roll-in-offering-prices-as-low-as-299?utm_medium=rss)<!-- TECH:END -->
+ - [A profile of OnlyFans&#39; secretive founder Leo Radvinsky, as the platform&#39;s parent company is considering a sale for as much as $8B, according to sources &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250629/p25#a250629p25)
+ - [China&#39;s tech giants are ramping up M&amp;A and investment deals as the government shifts its stance to support the tech industry, particularly in areas like AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250629/p24#a250629p24)
+ - [Spinwheel, which helps fintech companies and banks authenticate users, automate data retrieval, and facilitate payments, raised a $30M Series A led by F-Prime &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250629/p23#a250629p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
