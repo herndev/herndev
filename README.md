@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
- - [Rapid7 finds eight vulnerabilities, including one remotely-exploitable flaw that cannot be fixed via firmware patch, affecting 689 models of Brother printers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250630/p32#a250630p32)<!-- TECH:END -->
+ - [Levelpath, which provides AI-powered enterprise procurement services, raised a $55M Series B led by Battery Ventures, bringing its total funding to $100M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250630/p35#a250630p35)
+ - [Best Internet Providers in Orange, California](https://www.cnet.com/home/internet/best-internet-providers-in-orange-ca/#ftag=CAD590a51e)
+ - [US chipmaker Wolfspeed files for Chapter 11 to enact a creditor-backed plan to slash $4.6B in debt; it expects to emerge out of bankruptcy by the end of Q3 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250630/p34#a250630p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
