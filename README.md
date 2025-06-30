@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how the Play Store will soon make it easier to track download progress &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-download-progress-notification-apk-3572440/)
- - [Google Play Store preps a small but welcome UI change &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-account-switcher-apk-teardown-3572450/)
- - [Tumblr’s move to WordPress and fediverse integration is ‘on hold’](https://www.theverge.com/news/695124/tumblr-wordpress-automattic-fediverse-integration-on-hold-decoder)<!-- TECH:END -->
+ - [Google Calendar now has an Apple Watch app](https://www.theverge.com/news/695165/google-calendar-apple-watch-app-watchos)
+ - [Experts raise concerns that Malta&#39;s expedited MiCA licensing process may lack sufficient enforcement and oversight; OKX received a MiCA license in four days &lpar;CoinDesk&rpar;](http://www.techmeme.com/250630/p20#a250630p20)
+ - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
