@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Vegas lead Josh Sawyer thinks turn-based combat fell off in the 2000s due to a lack of &#39;tactical variation&#39;: Even Fallout 1 would &#39;get to the point where you&#39;re always doing nut shots and eye shots&#39;](https://www.pcgamer.com/games/fallout/new-vegas-lead-josh-sawyer-thinks-turn-based-combat-fell-off-in-the-2000s-due-to-a-lack-of-tactical-variation-even-fallout-1-would-get-to-the-point-where-youre-always-doing-nut-shots-and-eye-shots/)
- - [Dave the Diver In the Jungle DLC is delayed, but the free Godzilla Content Pack is back and Ichiban Kasuga has extended his vacation until the end of 2026](https://www.pcgamer.com/games/adventure/dave-the-diver-in-the-jungle-dlc-is-delayed-but-the-free-godzilla-content-pack-is-back-and-ichiban-kasuga-has-extended-his-vacation-until-the-end-of-2026/)
- - [How to raise Porter Grade stats in Death Stranding 2](https://www.polygon.com/guides/609744/death-stranding-2-ds2-porter-grade-stats-increase)<!-- GAME:END -->
+ - [Facebook users say they&#39;ve caught the app analyzing their camera roll with Meta AI⁠ without their knowledge—here&#39;s how to make sure it doesn&#39;t happen](https://www.pcgamer.com/gaming-industry/facebook-users-say-theyve-caught-the-app-analyzing-their-camera-roll-with-meta-ai-without-their-knowledge-heres-how-to-make-sure-it-doesnt-happen/)
+ - [Deltarune&#39;s Tenna was first envisioned in 3D almost a decade ago in a delightfully janky prototype](https://www.pcgamer.com/games/rpg/deltarunes-tenna-was-first-envisioned-in-3d-almost-a-decade-ago-in-a-delightfully-janky-prototype/)
+ - [A rising Peak lifts all boats as climbing sim Cairn breaks 500k demo downloads after endorsement from mountaineering megahit Peak&#39;s devs](https://www.pcgamer.com/games/survival-crafting/a-rising-peak-lifts-all-boats-as-climbing-sim-cairn-breaks-500k-demo-downloads-after-endorsement-from-mountaineering-megahit-peaks-devs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
