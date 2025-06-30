@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s over fellow men... should we show our chocolate starfish too instead working 9 to 5?...](http://9gag.com/gag/a2vLB5D)
- - ⏩ [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
- - 👉 [Moments before death](http://9gag.com/gag/a1mE9xw)<!-- MEMES:END -->
+ - 💣 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
+ - ⏩ [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 👉 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)<!-- MEMES:END -->
 
 ---
 
