@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [6 people jump on car to escape pit bull but it doesn&#39;t give up](http://9gag.com/gag/a0eM2pB)
- - ⏩ [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
- - 👉 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)<!-- MEMES:END -->
+ - 💣 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
+ - ⏩ [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)
+ - 👉 [Peak male content](http://9gag.com/gag/aGyOWQK)<!-- MEMES:END -->
 
 ---
 
