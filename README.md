@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ryan Gosling Goes On A Spectacular Sci-Fi Journey In First Trailer For Project Hail Mary](https://kotaku.com/project-hail-mary-trailer-ryan-gosling-andy-weir-1851785317)
- - [&#39;Oblivion Remastered with guns&#39; becomes reality as modder jury-rigs a literal Glock into the game and shoots up an Oblivion Tower with it](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-with-guns-becomes-reality-as-modder-jury-rigs-a-literal-glock-into-the-game-and-shoots-up-an-oblivion-tower-with-it/)
- - [Buggy Warhammer 40K: Space Marine Remaster Gets Upgrade Discount And Refunds As Fans Trash It](https://kotaku.com/warhammer-40k-space-marine-master-crafted-refunds-ps5-1851785318)<!-- GAME:END -->
+ - [Free-to-Play Extraction Shooter Delta Force Coming to Xbox Series X|S on August 19](https://news.xbox.com/en-us/2025/06/30/free-to-play-delta-force-coming-to-xbox-august-19/)
+ - [Overwatch 2’s Newest Addition Can’t Seem To Please Anyone](https://kotaku.com/overwatch-2-new-map-voting-season-17-patch-push-escort-1851785326)
+ - [What time does Honkai Star Rail 3.4 release?](https://www.polygon.com/honkai-star-rail-guides/609961/version-3-4-release-times-maintenance-end)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
