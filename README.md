@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify will let users personalize the genre of Discover Weekly playlists](https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres)
- - [The White House announces an AI Education Pledge with commitments from 60+ companies to provide AI education materials to K-12 students over the next four years &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250630/p5#a250630p5)
- - [Chrome on Android might borrow NotebookLM’s best feature](https://www.androidauthority.com/google-chrome-android-audio-overviews-3572189/)<!-- TECH:END -->
+ - [PitchBook: Australian startups raised $3.4B in 2024, down from 2021&#39;s $6.5B peak; 39% of early-stage capital in Australia came from overseas vs. 21% in the US &lpar;Benicia Tan/Bloomberg&rpar;](http://www.techmeme.com/250630/p6#a250630p6)
+ - [13 Best French Presses &lpar;2025&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-press/)
+ - [Gmail is getting even more Material 3 Expressive UI changes &lpar;APK teardown&rpar;](https://www.androidauthority.com/gmail-expressive-redesign-apk-teardown-3572169/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
