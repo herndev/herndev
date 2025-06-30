@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon denies 61 million customer records for sale online are legitimate](https://appleinsider.com/articles/25/06/30/verizon-denies-61-million-customer-records-for-sale-online-are-legitimate?utm_medium=rss)
- - [Microsoft says its new AI tool diagnoses diseases with 80% accuracy vs. doctors&#39; 20%; Mustafa Suleyman calls it a &quot;step toward medical superintelligence&quot; &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250630/p14#a250630p14)
- - [Nomad MagSafe wallet, Hue price hikes, &amp; Brilliant comeback on HomeKit Insider](https://appleinsider.com/articles/25/06/30/nomad-magsafe-wallet-hue-price-hikes-brilliant-comeback-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s how the Play Store will soon make it easier to track download progress &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-download-progress-notification-apk-3572440/)
+ - [Google Play Store preps a small but welcome UI change &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-account-switcher-apk-teardown-3572450/)
+ - [Tumblr’s move to WordPress and fediverse integration is ‘on hold’](https://www.theverge.com/news/695124/tumblr-wordpress-automattic-fediverse-integration-on-hold-decoder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
