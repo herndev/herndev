@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 of my favorite tech purchases, besides my Pixel](https://www.androidauthority.com/my-favorite-tech-products-3572114/)
- - [Lenovo Chromebook Plus 14 Review: A Game-Changer](https://www.wired.com/review/lenovo-chromebook-plus-14/)
- - [Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors](https://www.wired.com/story/microsoft-medical-superintelligence-diagnosis/)<!-- TECH:END -->
+ - [Why Automattic CEO Matt Mullenweg went to war over WordPress](https://www.theverge.com/decoder-podcast-with-nilay-patel/693052/automattic-ceo-matt-mullenweg-wordpress-drama-wp-engine-open-source)
+ - [Apple Music&#39;s birthday specials include a 500 most-streamed songs countdown](https://appleinsider.com/articles/25/06/30/apple-musics-birthday-specials-include-a-500-most-streamed-songs-countdown?utm_medium=rss)
+ - [Apple is reportedly working on a bunch of new XR devices](https://www.theverge.com/news/694953/apple-xr-devices-vision-pro-smart-glasses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
