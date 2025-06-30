@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock Lagiacrus in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-lagiacrus-quest/)
- - [Crisis averted—Blizzard quickly axes busted Diablo 4 build that turned players into teleporting gods of destruction on the PTR, because it was &#39;basically eclipsing everything else&#39;](https://www.pcgamer.com/games/rpg/crisis-averted-blizzard-quickly-axes-busted-diablo-4-build-that-turned-players-into-teleporting-gods-of-destruction-on-the-ptr-because-it-was-basically-eclipsing-everything-else/)
- - [Ubisoft can&#39;t button its yap about the not-so-secret Black Flag remake—now Edward Kenway&#39;s voice actor is telling AC4 fans &#39;You might have to beat it again&#39;](https://www.pcgamer.com/games/assassins-creed/ubisoft-cant-button-its-yap-about-the-not-so-secret-black-flag-remake-now-edward-kenways-voice-actor-is-telling-ac4-fans-you-might-have-to-beat-it-again/)<!-- GAME:END -->
+ - [&#39;What&#39;s the most chaotic evil thing we can make?&#39;: Overwatch 2 devs are seeing just how far they can push Stadium&#39;s fights, but will reign it in for the sake of player sanity](https://www.pcgamer.com/games/third-person-shooter/whats-the-most-chaotic-evil-thing-we-can-make-overwatch-2-devs-are-seeing-just-how-far-they-can-push-stadiums-fights-but-will-reign-it-in-for-the-sake-of-player-sanity/)
+ - [How to get better seeds in Grow a Garden](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-better-seeds/)
+ - [How to unlock Lagiacrus in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-lagiacrus-quest/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
