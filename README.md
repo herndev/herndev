@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watching this artwork emerge is captivating](http://9gag.com/gag/awyY2M8)
- - ⏩ [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
- - 👉 [That looks like ...](http://9gag.com/gag/a9yOw8o)<!-- MEMES:END -->
+ - 💣 [Nope. why?](http://9gag.com/gag/aoyYQ7x)
+ - ⏩ [Shhh](http://9gag.com/gag/a5QqYOO)
+ - 👉 [So we all cousins](http://9gag.com/gag/a7opYre)<!-- MEMES:END -->
 
 ---
 
