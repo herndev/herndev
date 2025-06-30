@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proton lawsuit targets Apple&#39;s grip on iPhone apps &amp; payments](https://appleinsider.com/articles/25/06/30/proton-lawsuit-targets-apples-grip-on-iphone-apps-payments?utm_medium=rss)
- - [Date Everything will make you see your favorite household objects in a sexy new light](https://www.theverge.com/games/695123/date-everything-review-sassy-chap-games)
- - [What&amp;#8217;s on your desk, Kallie Plagge?](https://www.theverge.com/tech/693207/home-office-desk-keychron-logitech-pikachu)<!-- TECH:END -->
+ - [The US takes down a North Korean operation that, from 2021 to 2024, impersonated 80+ people to get remote jobs at 100+ US firms, using &quot;laptop farms&quot; in the US &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250630/p25#a250630p25)
+ - [The new Crucial X10 1TB Portable SSD just got a 41% price drop](https://www.androidauthority.com/crucial-x10-1tb-portable-ssd-deal-3572520/)
+ - [Analyst Says Apple Has Big Vision Pro Plans For 2027, Including Smart Glasses](https://www.cnet.com/tech/computing/analyst-says-apple-has-big-vision-pro-plans-for-2027-including-smart-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
