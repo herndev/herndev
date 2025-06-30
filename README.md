@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mexico City-based digital bank Klar raised a $190M Series C led by General Atlantic, including $170M in equity and $20M in debt, valuing the company at $800M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250630/p30#a250630p30)
- - [The 36 Best Deals From REI&#39;s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
- - [The Nintendo Switch 2 will be available in-store at Best Buy on July 1st](https://www.theverge.com/tech/695273/nintendo-switch-2-in-store-restock-best-buy)<!-- TECH:END -->
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+ - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
+ - [Rapid7 finds eight vulnerabilities, including one remotely-exploitable flaw that cannot be fixed via firmware patch, affecting 689 models of Brother printers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250630/p32#a250630p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
