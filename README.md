@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Singapore case of fraudulant AI chip shipments to China in wake of U.S. fears of military use has been adjounred until August](https://www.pcgamer.com/hardware/singapore-case-of-fraudulant-ai-chip-shipments-to-china-in-wake-of-u-s-fears-of-military-use-has-been-adjounred-until-august/)
- - [Great moments in PC gaming: When the party in a tactics RPG start to really feel like your guys](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-when-the-party-in-a-tactics-rpg-start-to-really-feel-like-your-guys/)
- - [Denmark to introduce law giving individuals automatic copyright over their own likeness in effort to tackle AI and deepfakes](https://www.pcgamer.com/hardware/denmark-to-introduce-law-giving-individuals-automatic-copyright-over-their-own-likeness-in-effort-to-tackle-ai-and-deepfakes/)<!-- GAME:END -->
+ - [How to unlock Lagiacrus in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-lagiacrus-quest/)
+ - [Crisis averted—Blizzard quickly axes busted Diablo 4 build that turned players into teleporting gods of destruction on the PTR, because it was &#39;basically eclipsing everything else&#39;](https://www.pcgamer.com/games/rpg/crisis-averted-blizzard-quickly-axes-busted-diablo-4-build-that-turned-players-into-teleporting-gods-of-destruction-on-the-ptr-because-it-was-basically-eclipsing-everything-else/)
+ - [Ubisoft can&#39;t button its yap about the not-so-secret Black Flag remake—now Edward Kenway&#39;s voice actor is telling AC4 fans &#39;You might have to beat it again&#39;](https://www.pcgamer.com/games/assassins-creed/ubisoft-cant-button-its-yap-about-the-not-so-secret-black-flag-remake-now-edward-kenways-voice-actor-is-telling-ac4-fans-you-might-have-to-beat-it-again/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
