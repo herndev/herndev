@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - ⏩ [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
- - 👉 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)<!-- MEMES:END -->
+ - 💣 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)
+ - ⏩ [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
+ - 👉 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)<!-- MEMES:END -->
 
 ---
 
