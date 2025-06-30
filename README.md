@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lens paralax, allowing us to see through objects](http://9gag.com/gag/agmEP5w)
- - ⏩ [Movie is `Split` by M. Night Ramalam Ding Dong](http://9gag.com/gag/aRBO535)
- - 👉 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)<!-- MEMES:END -->
+ - 💣 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
+ - ⏩ [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
+ - 👉 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)<!-- MEMES:END -->
 
 ---
 
