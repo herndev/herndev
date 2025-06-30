@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Treasure Tail Zoshigaya’ quest walkthrough in Persona 5 The Phantom X](https://www.polygon.com/persona-5-phantom-x-guides/610070/p5x-orange-tabby-treasure-tail-locations-zoshigaya-cat)
- - [Halo&#39;s Future Will Be Revealed...In October, Says Xbox](https://kotaku.com/halo-wc-october-remake-remaster-news-trailer-rumor-xbox-1851785384)
- - [A Short Hike dev &#39;sort of&#39; cancels Paper Mario-inspired game, but decides to let everyone play a demo of it anyway: &#39;I figured maybe sharing the demo is better than nothing&#39;](https://www.pcgamer.com/games/rpg/a-short-hike-dev-sort-of-cancels-paper-mario-inspired-game-but-decides-to-let-everyone-play-a-demo-of-it-anyway-i-figured-maybe-sharing-the-demo-is-better-than-nothing/)<!-- GAME:END -->
+ - [Space Marine 2 will celebrate its first anniversary with a &#39;large-scale update&#39; in September, and another year of free and paid content is on the way](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-will-celebrate-its-first-anniversary-with-a-large-scale-update-in-september-and-another-year-of-free-and-paid-content-is-on-the-way/)
+ - [&#39;They told me to destroy&#39; my backups, Fallout creator Tim Cain says: &#39;People high up at companies take authority but no responsibility&#39; for game preservation](https://www.pcgamer.com/games/fallout/they-told-me-to-destroy-my-backups-fallout-creator-tim-cain-says-people-high-up-at-companies-take-authority-but-no-responsibility-for-game-preservation/)
+ - [PSA: Death Stranding 2 tells you exactly what gear every character unlocks](https://www.pcgamer.com/games/action/psa-death-stranding-2-tells-you-exactly-what-gear-every-character-unlocks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
