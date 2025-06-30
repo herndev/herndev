@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joby delivers first aircraft to Dubai as air taxi service nears launch](https://www.theverge.com/news/694515/joby-delivers-first-aircraft-to-dubai-as-air-taxi-service-nears-launch)
- - [Bank of Korea temporarily halts preparations for the second phase of its pilot initiative testing program for a central bank digital currency, scheduled for Q4 &lpar;Soo-Hyang Choi/Bloomberg&rpar;](http://www.techmeme.com/250630/p9#a250630p9)
- - [Samsung One UI 8 beta brings Now Bar to Galaxy Watches](https://www.androidauthority.com/samsung-one-ui-8-beta-now-bar-galaxy-watch-3572267/)<!-- TECH:END -->
+ - [5 of my favorite tech purchases, besides my Pixel](https://www.androidauthority.com/my-favorite-tech-products-3572114/)
+ - [Lenovo Chromebook Plus 14 Review: A Game-Changer](https://www.wired.com/review/lenovo-chromebook-plus-14/)
+ - [Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors](https://www.wired.com/story/microsoft-medical-superintelligence-diagnosis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
