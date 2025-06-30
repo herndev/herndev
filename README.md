@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple responds to $570 million in EU fines with new tiered comission and tax for App developers which Epic boss Tim Sweeney says are &#39;blatantly unlawful in both Europe and the United States&#39;](https://www.pcgamer.com/hardware/apple-responds-to-usd570-million-in-eu-fines-with-new-tiered-comission-and-tax-for-app-developers-which-epic-boss-tim-sweeney-says-are-blatantly-unlawful-in-both-europe-and-the-united-states/)
- - [Moza&#39;s new flight sim ecosystem features five new pieces of hardware aiming to bring high-end simming to mid-range budgets](https://www.pcgamer.com/hardware/mozas-new-flight-sim-ecosystem-features-five-new-pieces-of-hardware-aiming-to-bring-high-end-simming-to-mid-range-budgets/)
- - [Microsoft to change Windows&#39;s infamous Blue Screen of Death to something much darker in response to last year&#39;s CloudStrike crashes](https://www.pcgamer.com/hardware/microsoft-to-change-windowss-infamous-blue-screen-of-death-to-something-much-darker-in-response-to-last-years-cloudstrike-crashes/)<!-- GAME:END -->
+ - [Singapore case of fraudulant AI chip shipments to China in wake of U.S. fears of military use has been adjounred until August](https://www.pcgamer.com/hardware/singapore-case-of-fraudulant-ai-chip-shipments-to-china-in-wake-of-u-s-fears-of-military-use-has-been-adjounred-until-august/)
+ - [Great moments in PC gaming: When the party in a tactics RPG start to really feel like your guys](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-when-the-party-in-a-tactics-rpg-start-to-really-feel-like-your-guys/)
+ - [Denmark to introduce law giving individuals automatic copyright over their own likeness in effort to tackle AI and deepfakes](https://www.pcgamer.com/hardware/denmark-to-introduce-law-giving-individuals-automatic-copyright-over-their-own-likeness-in-effort-to-tackle-ai-and-deepfakes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
