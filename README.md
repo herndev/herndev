@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nope. why?](http://9gag.com/gag/aoyYQ7x)
- - ⏩ [Shhh](http://9gag.com/gag/a5QqYOO)
- - 👉 [So we all cousins](http://9gag.com/gag/a7opYre)<!-- MEMES:END -->
+ - 💣 [Finally some senses.](http://9gag.com/gag/aW4DzV3)
+ - ⏩ [Finally, a practical use for superpowers.](http://9gag.com/gag/an7r6y5)
+ - 👉 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)<!-- MEMES:END -->
 
 ---
 
