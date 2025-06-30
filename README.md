@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Studio Behind The Alters Responds To Generative AI Allegations: &#39;This Was Never Intended To Be Part Of The Final Release&#39;](https://kotaku.com/the-alters-gen-ai-slop-scifi-management-sim-11bit-1851785372)
- - [Hypixel Studios founder says he&#39;ll &#39;reach out&#39; to Riot about taking over Hytale: &#39;I am even down to put $25 million by myself to finish Hytale, that’s how much I believe in it&#39;](https://www.pcgamer.com/games/rpg/hypixel-studios-founder-says-hell-reach-out-to-riot-about-taking-over-hytale-i-am-even-down-to-put-usd25-million-by-myself-to-finish-hytale-thats-how-much-i-believe-in-it/)
- - [These Are The Most Essential Recipes For Breath Of The Wild](https://kotaku.com/zelda-breath-of-the-wild-botw-recipes-switch-2-mushroom-1851785344)<!-- GAME:END -->
+ - [Eric Barone clarifies he&#39;s just &#39;open to entertaining the idea&#39; of saving Hytale, but he&#39;s not pursuing it himself because he&#39;s completely focused on Haunted Chocolatier](https://www.pcgamer.com/games/rpg/eric-barone-clarifies-hes-just-open-to-entertaining-the-idea-of-saving-hytale-but-hes-not-pursuing-it-himself-because-hes-completely-focused-on-haunted-chocolatier/)
+ - [Monster Hunter Wilds Has Three Armor Variants With Subtle, But Important Differences](https://kotaku.com/monster-hunter-wilds-mhw-armor-alpha-beta-gamma-arch-1851785351)
+ - [Palworld just got a huge Terraria-themed update, which as it turns out is a lot less ridiculous than Silent Bob in Warzone](https://www.pcgamer.com/games/survival-crafting/palworld-just-got-a-huge-terraria-themed-update-which-as-it-turns-out-is-a-lot-less-ridiculous-than-silent-bob-in-warzone/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
