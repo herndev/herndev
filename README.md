@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free-to-Play Extraction Shooter Delta Force Coming to Xbox Series X|S on August 19](https://news.xbox.com/en-us/2025/06/30/free-to-play-delta-force-coming-to-xbox-august-19/)
- - [Overwatch 2’s Newest Addition Can’t Seem To Please Anyone](https://kotaku.com/overwatch-2-new-map-voting-season-17-patch-push-escort-1851785326)
- - [What time does Honkai Star Rail 3.4 release?](https://www.polygon.com/honkai-star-rail-guides/609961/version-3-4-release-times-maintenance-end)<!-- GAME:END -->
+ - [Counterwatch isn&#39;t in the cards for Overwatch 2&#39;s Stadium mode: &#39;No hero swapping has been one of the core foundational pillars&#39;](https://www.pcgamer.com/games/third-person-shooter/counterwatch-isnt-in-the-cards-for-overwatch-2s-stadium-mode-no-hero-swapping-has-been-one-of-the-core-foundational-pillars/)
+ - [Even Tony Hawk is nostalgic for Tony Hawk, hears your THUG remake wishes](https://www.polygon.com/gaming/609962/tony-hawks-pro-skater-3-4-frosted-flakes-tony-tiger)
+ - [Psych-rock band The Velvet Sundown racks up well over 400,000 Spotify listens within a month, but very quickly turns out to be AI-generated](https://www.pcgamer.com/software/ai/psych-rock-band-the-velvet-sundown-racks-up-well-over-400-000-spotify-listens-within-a-month-but-turns-out-to-be-ai-generated/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
