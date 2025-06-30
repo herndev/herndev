@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
- - ⏩ [He looks concerned](http://9gag.com/gag/aRBOqYj)
- - 👉 [Would you blame him?](http://9gag.com/gag/aNDOEXv)<!-- MEMES:END -->
+ - 💣 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
+ - ⏩ [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
+ - 👉 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)<!-- MEMES:END -->
 
 ---
 
