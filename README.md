@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nope. why?](http://9gag.com/gag/aoyYQ7x)
+ - 💣 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
  - ⏩ [He looks concerned](http://9gag.com/gag/aRBOqYj)
- - 👉 [Would you blame him?](http://9gag.com/gag/aNDOEXv)<!-- MEMES:END -->
+ - 👉 [The look of disappointment on his face](http://9gag.com/gag/a7opRQx)<!-- MEMES:END -->
 
 ---
 
