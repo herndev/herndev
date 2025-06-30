@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s foldable lineup might get bigger than expected at Unpacked](https://www.androidauthority.com/samsung-triple-folding-phone-unpacked-launch-availability-details-3572164/)
- - [Sensor Tower: Temu&#39;s US MAU fell 51% to 40.2M from March to June, while Shein&#39;s dropped 12% to 41.4M, amid the US&#39; China tariffs and &quot;de minimis&quot; closure &lpar;Financial Times&rpar;](http://www.techmeme.com/250630/p1#a250630p1)
- - [How thin is the Galaxy Z Fold 7? New leak claims it’s nearly record-breaking](https://www.androidauthority.com/samsung-galaxy-z-fold-7-galaxy-z-flip-7-dimensions-specs-3572159/)<!-- TECH:END -->
+ - [US lawmakers call for federal probe into OnePlus](https://www.androidauthority.com/oneplus-probe-us-3572172/)
+ - [How India is carving out space for high-end manufacturing, including a $2.5B Foxconn iPhone factory in Devanahalli, near Bengaluru, aiming to create 40K jobs &lpar;New York Times&rpar;](http://www.techmeme.com/250630/p2#a250630p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, June 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
