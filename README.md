@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eric Barone clarifies he&#39;s just &#39;open to entertaining the idea&#39; of saving Hytale, but he&#39;s not pursuing it himself because he&#39;s completely focused on Haunted Chocolatier](https://www.pcgamer.com/games/rpg/eric-barone-clarifies-hes-just-open-to-entertaining-the-idea-of-saving-hytale-but-hes-not-pursuing-it-himself-because-hes-completely-focused-on-haunted-chocolatier/)
- - [Monster Hunter Wilds Has Three Armor Variants With Subtle, But Important Differences](https://kotaku.com/monster-hunter-wilds-mhw-armor-alpha-beta-gamma-arch-1851785351)
- - [Palworld just got a huge Terraria-themed update, which as it turns out is a lot less ridiculous than Silent Bob in Warzone](https://www.pcgamer.com/games/survival-crafting/palworld-just-got-a-huge-terraria-themed-update-which-as-it-turns-out-is-a-lot-less-ridiculous-than-silent-bob-in-warzone/)<!-- GAME:END -->
+ - [‘Treasure Tail Zoshigaya’ quest walkthrough in Persona 5 The Phantom X](https://www.polygon.com/persona-5-phantom-x-guides/610070/p5x-orange-tabby-treasure-tail-locations-zoshigaya-cat)
+ - [Halo&#39;s Future Will Be Revealed...In October, Says Xbox](https://kotaku.com/halo-wc-october-remake-remaster-news-trailer-rumor-xbox-1851785384)
+ - [A Short Hike dev &#39;sort of&#39; cancels Paper Mario-inspired game, but decides to let everyone play a demo of it anyway: &#39;I figured maybe sharing the demo is better than nothing&#39;](https://www.pcgamer.com/games/rpg/a-short-hike-dev-sort-of-cancels-paper-mario-inspired-game-but-decides-to-let-everyone-play-a-demo-of-it-anyway-i-figured-maybe-sharing-the-demo-is-better-than-nothing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
