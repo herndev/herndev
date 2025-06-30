@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;What&#39;s the most chaotic evil thing we can make?&#39;: Overwatch 2 devs are seeing just how far they can push Stadium&#39;s fights, but will reign it in for the sake of player sanity](https://www.pcgamer.com/games/third-person-shooter/whats-the-most-chaotic-evil-thing-we-can-make-overwatch-2-devs-are-seeing-just-how-far-they-can-push-stadiums-fights-but-will-reign-it-in-for-the-sake-of-player-sanity/)
- - [How to get better seeds in Grow a Garden](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-better-seeds/)
- - [How to unlock Lagiacrus in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-lagiacrus-quest/)<!-- GAME:END -->
+ - [I made the most heroic choice in BG3 and suffered the consequences](https://www.polygon.com/baldurs-gate/609891/worst-ending-most-eroic-choices-illithid)
+ - [Persona 5: The Phantom X tier list for the best characters](https://www.pcgamer.com/games/rpg/persona-5-the-phantom-x-tier-list-best-characters/)
+ - [Specs rumours for the Super versions of Nvidia&#39;s RTX 5070 cards kick off with more VRAM being the main dish of the day](https://www.pcgamer.com/hardware/graphics-cards/specs-rumours-for-the-super-versions-of-nvidias-rtx-5070-cards-kick-off-with-more-vram-being-the-main-dish-of-the-day/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
