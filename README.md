@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These Hidden Button Shortcuts Make Monster Hunter Wilds A Lot More Convenient](https://kotaku.com/monster-hunter-wilds-buttons-skip-carve-slinger-gather-1851785338)
- - [Original Switch Getting Mysterious &#39;Price Change&#39; In Canada 8 Years After Launch As Gaming Gets More Expensive](https://kotaku.com/nintendo-switch-price-cut-canada-ps-plus-game-pass-1851785360)
- - [What time does Diablo 4 season 9 release in your time zone?](https://www.polygon.com/diablo-4-guides/609973/season-9-release-time-date-sins-of-horadrim)<!-- GAME:END -->
+ - [Studio Behind The Alters Responds To Generative AI Allegations: &#39;This Was Never Intended To Be Part Of The Final Release&#39;](https://kotaku.com/the-alters-gen-ai-slop-scifi-management-sim-11bit-1851785372)
+ - [Hypixel Studios founder says he&#39;ll &#39;reach out&#39; to Riot about taking over Hytale: &#39;I am even down to put $25 million by myself to finish Hytale, that’s how much I believe in it&#39;](https://www.pcgamer.com/games/rpg/hypixel-studios-founder-says-hell-reach-out-to-riot-about-taking-over-hytale-i-am-even-down-to-put-usd25-million-by-myself-to-finish-hytale-thats-how-much-i-believe-in-it/)
+ - [These Are The Most Essential Recipes For Breath Of The Wild](https://kotaku.com/zelda-breath-of-the-wild-botw-recipes-switch-2-mushroom-1851785344)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
