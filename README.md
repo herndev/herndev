@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
- - ⏩ [Peak male content](http://9gag.com/gag/aGyOWQK)
- - 👉 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)<!-- MEMES:END -->
+ - 💣 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - ⏩ [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
+ - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
 
 ---
 
