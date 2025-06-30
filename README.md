@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Counterwatch isn&#39;t in the cards for Overwatch 2&#39;s Stadium mode: &#39;No hero swapping has been one of the core foundational pillars&#39;](https://www.pcgamer.com/games/third-person-shooter/counterwatch-isnt-in-the-cards-for-overwatch-2s-stadium-mode-no-hero-swapping-has-been-one-of-the-core-foundational-pillars/)
- - [Even Tony Hawk is nostalgic for Tony Hawk, hears your THUG remake wishes](https://www.polygon.com/gaming/609962/tony-hawks-pro-skater-3-4-frosted-flakes-tony-tiger)
- - [Psych-rock band The Velvet Sundown racks up well over 400,000 Spotify listens within a month, but very quickly turns out to be AI-generated](https://www.pcgamer.com/software/ai/psych-rock-band-the-velvet-sundown-racks-up-well-over-400-000-spotify-listens-within-a-month-but-turns-out-to-be-ai-generated/)<!-- GAME:END -->
+ - [Nintendo And Amazon Deny Being In An Ongoing Switch 2 Feud](https://kotaku.com/switch-2-amazon-pokemon-za-donkey-kong-preorder-1851785352)
+ - [EA Reviving College Basketball Series After College Football Broke Records](https://kotaku.com/ea-college-basketball-march-madness-return-2028-ps5-1851785339)
+ - [Squid Game Series Finale Sets Up Its David Fincher Era](https://kotaku.com/cate-blanchett-squid-game-finale-david-fincher-1851785337)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
