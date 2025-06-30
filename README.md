@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Updating my Pixel Watch was a nightmare until I did these tricks](https://www.androidauthority.com/update-google-pixel-watch-steps-3571878/)
- - [Roborock Prime Day deals: Affordable and powerful, the Qrevo and Q Series robot vacuums can do it all](https://www.androidauthority.com/roborock-prime-day-2025-3571588/)
- - [The first One UI 8 Watch beta is rolling out now!](https://www.androidauthority.com/samsung-one-ui-8-watch-beta-1-released-3572215/)<!-- TECH:END -->
+ - [Spotify will let users personalize the genre of Discover Weekly playlists](https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres)
+ - [The White House announces an AI Education Pledge with commitments from 60+ companies to provide AI education materials to K-12 students over the next four years &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250630/p5#a250630p5)
+ - [Chrome on Android might borrow NotebookLM’s best feature](https://www.androidauthority.com/google-chrome-android-audio-overviews-3572189/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
