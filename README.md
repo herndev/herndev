@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar now has an Apple Watch app](https://www.theverge.com/news/695165/google-calendar-apple-watch-app-watchos)
- - [Experts raise concerns that Malta&#39;s expedited MiCA licensing process may lack sufficient enforcement and oversight; OKX received a MiCA license in four days &lpar;CoinDesk&rpar;](http://www.techmeme.com/250630/p20#a250630p20)
- - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)<!-- TECH:END -->
+ - [Proton lawsuit targets Apple&#39;s grip on iPhone apps &amp; payments](https://appleinsider.com/articles/25/06/30/proton-lawsuit-targets-apples-grip-on-iphone-apps-payments?utm_medium=rss)
+ - [Date Everything will make you see your favorite household objects in a sexy new light](https://www.theverge.com/games/695123/date-everything-review-sassy-chap-games)
+ - [What&amp;#8217;s on your desk, Kallie Plagge?](https://www.theverge.com/tech/693207/home-office-desk-keychron-logitech-pikachu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
