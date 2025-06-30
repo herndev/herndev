@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How thin is the Galaxy Z Fold 7? New leak claims it’s nearly record-breaking](https://www.androidauthority.com/samsung-galaxy-z-fold-7-galaxy-z-flip-7-dimensions-specs-3572159/)
  - [GOP Senators agree to change a provision in the tax bill from a 10-year ban on state AI regulation to a 5-year ban with carve outs for issues such as copyrights &lpar;Bloomberg&rpar;](http://www.techmeme.com/250629/p28#a250629p28)
- - [Sources: the US DHS, in partnership with DOGE, has built the first-ever searchable national citizenship data system, pulling from SSA and immigration databases &lpar;NPR&rpar;](http://www.techmeme.com/250629/p27#a250629p27)
- - [Canada rescinds its Digital Services Tax &quot;in anticipation of&quot; a trade deal with the US, with trade talks resuming; the tax was set to go into effect on Monday &lpar;Associated Press&rpar;](http://www.techmeme.com/250629/p26#a250629p26)<!-- TECH:END -->
+ - [Sources: the US DHS, in partnership with DOGE, has built the first-ever searchable national citizenship data system, pulling from SSA and immigration databases &lpar;NPR&rpar;](http://www.techmeme.com/250629/p27#a250629p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
