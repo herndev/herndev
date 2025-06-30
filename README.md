@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - ⏩ [A reunion nobody expected](http://9gag.com/gag/azxY00B)
- - 👉 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)<!-- MEMES:END -->
+ - 💣 [Lens paralax, allowing us to see through objects](http://9gag.com/gag/agmEP5w)
+ - ⏩ [Movie is `Split` by M. Night Ramalam Ding Dong](http://9gag.com/gag/aRBO535)
+ - 👉 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)<!-- MEMES:END -->
 
 ---
 
