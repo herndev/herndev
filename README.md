@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
- - ⏩ [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 👉 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)<!-- MEMES:END -->
+ - 💣 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
+ - ⏩ [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 👉 [Peak male content](http://9gag.com/gag/aGyOWQK)<!-- MEMES:END -->
 
 ---
 
