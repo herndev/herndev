@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I made the most heroic choice in BG3 and suffered the consequences](https://www.polygon.com/baldurs-gate/609891/worst-ending-most-eroic-choices-illithid)
- - [Persona 5: The Phantom X tier list for the best characters](https://www.pcgamer.com/games/rpg/persona-5-the-phantom-x-tier-list-best-characters/)
- - [Specs rumours for the Super versions of Nvidia&#39;s RTX 5070 cards kick off with more VRAM being the main dish of the day](https://www.pcgamer.com/hardware/graphics-cards/specs-rumours-for-the-super-versions-of-nvidias-rtx-5070-cards-kick-off-with-more-vram-being-the-main-dish-of-the-day/)<!-- GAME:END -->
+ - [How the X-Men ’97 team preserved — and tweaked — the classic Marvel designs for max nostalgia](https://www.polygon.com/609925/x-men-97-art-book-exclusive-storm-cyclops-concept)
+ - [How to forge Clerk Vambraces in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-clerk-vambraces-new-fashion-old-feelings/)
+ - [Our Favorite Cosplay From Dream Con 2025](https://kotaku.com/dream-con-2025-cosplay-x-men-megan-thee-stallion-1851785306)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
