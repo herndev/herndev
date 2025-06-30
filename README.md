@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)
- - ⏩ [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
- - 👉 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)<!-- MEMES:END -->
+ - 💣 [Finally, a practical use for superpowers.](http://9gag.com/gag/an7r6y5)
+ - ⏩ [Finally some senses.](http://9gag.com/gag/aW4DzV3)
+ - 👉 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)<!-- MEMES:END -->
 
 ---
 
