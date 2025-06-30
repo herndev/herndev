@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - 💣 [It&#39;s over fellow men... should we show our chocolate starfish too instead working 9 to 5?...](http://9gag.com/gag/a2vLB5D)
  - ⏩ [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
- - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
+ - 👉 [Moments before death](http://9gag.com/gag/a1mE9xw)<!-- MEMES:END -->
 
 ---
 
