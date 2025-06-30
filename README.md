@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: Australian startups raised $3.4B in 2024, down from 2021&#39;s $6.5B peak; 39% of early-stage capital in Australia came from overseas vs. 21% in the US &lpar;Benicia Tan/Bloomberg&rpar;](http://www.techmeme.com/250630/p6#a250630p6)
- - [13 Best French Presses &lpar;2025&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-press/)
- - [Gmail is getting even more Material 3 Expressive UI changes &lpar;APK teardown&rpar;](https://www.androidauthority.com/gmail-expressive-redesign-apk-teardown-3572169/)<!-- TECH:END -->
+ - [Joby delivers first aircraft to Dubai as air taxi service nears launch](https://www.theverge.com/news/694515/joby-delivers-first-aircraft-to-dubai-as-air-taxi-service-nears-launch)
+ - [Bank of Korea temporarily halts preparations for the second phase of its pilot initiative testing program for a central bank digital currency, scheduled for Q4 &lpar;Soo-Hyang Choi/Bloomberg&rpar;](http://www.techmeme.com/250630/p9#a250630p9)
+ - [Samsung One UI 8 beta brings Now Bar to Galaxy Watches](https://www.androidauthority.com/samsung-one-ui-8-beta-now-bar-galaxy-watch-3572267/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
