@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
- - ⏩ [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)
- - 👉 [Peak male content](http://9gag.com/gag/aGyOWQK)<!-- MEMES:END -->
+ - 💣 [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
+ - ⏩ [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - 👉 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)<!-- MEMES:END -->
 
 ---
 
