@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Termites incredible defense system. Scary!](http://9gag.com/gag/a9yO9Ao)
- - ⏩ [Finally, a practical use for superpowers.](http://9gag.com/gag/an7r6y5)
- - 👉 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)<!-- MEMES:END -->
+ - 💣 [Nope. why?](http://9gag.com/gag/aoyYQ7x)
+ - ⏩ [He looks concerned](http://9gag.com/gag/aRBOqYj)
+ - 👉 [Would you blame him?](http://9gag.com/gag/aNDOEXv)<!-- MEMES:END -->
 
 ---
 
