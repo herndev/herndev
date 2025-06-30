@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US takes down a North Korean operation that, from 2021 to 2024, impersonated 80+ people to get remote jobs at 100+ US firms, using &quot;laptop farms&quot; in the US &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250630/p25#a250630p25)
- - [The new Crucial X10 1TB Portable SSD just got a 41% price drop](https://www.androidauthority.com/crucial-x10-1tb-portable-ssd-deal-3572520/)
- - [Analyst Says Apple Has Big Vision Pro Plans For 2027, Including Smart Glasses](https://www.cnet.com/tech/computing/analyst-says-apple-has-big-vision-pro-plans-for-2027-including-smart-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The government’s Apple antitrust lawsuit is still on](https://www.theverge.com/news/695350/apple-loses-dismissal-of-doj-antitrust-lawsuit)
+ - [Apple rumored to be in talks with Anthropic and OpenAI about powering new Siri](https://appleinsider.com/articles/25/06/30/apple-rumored-to-be-in-talks-with-anthropic-and-openai-about-powering-new-siri?utm_medium=rss)
+ - [X hires Nikita Bier, the serial entrepreneur who was behind polling startup TBH and teen-focused social network Gas, as its new head of product &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250630/p28#a250630p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
