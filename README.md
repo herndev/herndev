@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Automattic CEO Matt Mullenweg went to war over WordPress](https://www.theverge.com/decoder-podcast-with-nilay-patel/693052/automattic-ceo-matt-mullenweg-wordpress-drama-wp-engine-open-source)
- - [Apple Music&#39;s birthday specials include a 500 most-streamed songs countdown](https://appleinsider.com/articles/25/06/30/apple-musics-birthday-specials-include-a-500-most-streamed-songs-countdown?utm_medium=rss)
- - [Apple is reportedly working on a bunch of new XR devices](https://www.theverge.com/news/694953/apple-xr-devices-vision-pro-smart-glasses)<!-- TECH:END -->
+ - [Verizon denies 61 million customer records for sale online are legitimate](https://appleinsider.com/articles/25/06/30/verizon-denies-61-million-customer-records-for-sale-online-are-legitimate?utm_medium=rss)
+ - [Microsoft says its new AI tool diagnoses diseases with 80% accuracy vs. doctors&#39; 20%; Mustafa Suleyman calls it a &quot;step toward medical superintelligence&quot; &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250630/p14#a250630p14)
+ - [Nomad MagSafe wallet, Hue price hikes, &amp; Brilliant comeback on HomeKit Insider](https://appleinsider.com/articles/25/06/30/nomad-magsafe-wallet-hue-price-hikes-brilliant-comeback-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
