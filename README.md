@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How thin is the Galaxy Z Fold 7? New leak claims it’s nearly record-breaking](https://www.androidauthority.com/samsung-galaxy-z-fold-7-galaxy-z-flip-7-dimensions-specs-3572159/)
- - [GOP Senators agree to change a provision in the tax bill from a 10-year ban on state AI regulation to a 5-year ban with carve outs for issues such as copyrights &lpar;Bloomberg&rpar;](http://www.techmeme.com/250629/p28#a250629p28)
- - [Sources: the US DHS, in partnership with DOGE, has built the first-ever searchable national citizenship data system, pulling from SSA and immigration databases &lpar;NPR&rpar;](http://www.techmeme.com/250629/p27#a250629p27)<!-- TECH:END -->
+ - [Samsung’s foldable lineup might get bigger than expected at Unpacked](https://www.androidauthority.com/samsung-triple-folding-phone-unpacked-launch-availability-details-3572164/)
+ - [Sensor Tower: Temu&#39;s US MAU fell 51% to 40.2M from March to June, while Shein&#39;s dropped 12% to 41.4M, amid the US&#39; China tariffs and &quot;de minimis&quot; closure &lpar;Financial Times&rpar;](http://www.techmeme.com/250630/p1#a250630p1)
+ - [How thin is the Galaxy Z Fold 7? New leak claims it’s nearly record-breaking](https://www.androidauthority.com/samsung-galaxy-z-fold-7-galaxy-z-flip-7-dimensions-specs-3572159/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
