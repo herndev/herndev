@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo And Amazon Deny Being In An Ongoing Switch 2 Feud](https://kotaku.com/switch-2-amazon-pokemon-za-donkey-kong-preorder-1851785352)
- - [EA Reviving College Basketball Series After College Football Broke Records](https://kotaku.com/ea-college-basketball-march-madness-return-2028-ps5-1851785339)
- - [Squid Game Series Finale Sets Up Its David Fincher Era](https://kotaku.com/cate-blanchett-squid-game-finale-david-fincher-1851785337)<!-- GAME:END -->
+ - [These Hidden Button Shortcuts Make Monster Hunter Wilds A Lot More Convenient](https://kotaku.com/monster-hunter-wilds-buttons-skip-carve-slinger-gather-1851785338)
+ - [Original Switch Getting Mysterious &#39;Price Change&#39; In Canada 8 Years After Launch As Gaming Gets More Expensive](https://kotaku.com/nintendo-switch-price-cut-canada-ps-plus-game-pass-1851785360)
+ - [What time does Diablo 4 season 9 release in your time zone?](https://www.polygon.com/diablo-4-guides/609973/season-9-release-time-date-sins-of-horadrim)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
