@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s over fellow men... should we show our chocolate starfish too instead working 9 to 5?...](http://9gag.com/gag/a2vLB5D)
- - ⏩ [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
- - 👉 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)<!-- MEMES:END -->
+ - 💣 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - ⏩ [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
+ - 👉 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)<!-- MEMES:END -->
 
 ---
 
