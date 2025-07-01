@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Xbox hardware is dead&#39; and &#39;there&#39;s literally no reason to buy&#39; the ROG Xbox Ally handheld says founding member of the OG Xbox team](https://www.pcgamer.com/hardware/xbox-hardware-is-dead-and-theres-literally-no-reason-to-buy-the-rog-xbox-ally-handheld-says-founding-member-of-the-og-xbox-team/)
- - [Commodore&#39;s been bought by a YouTuber who&#39;s re-assembling key execs and already teasing new hardware](https://www.pcgamer.com/gaming-industry/commodores-been-bought-by-a-youtuber-whos-re-assembling-key-execs-and-already-teasing-new-hardware/)
- - [How to get bees in Grow a Garden and what they do](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-bees/)<!-- GAME:END -->
+ - [Nexus Mods will soon require age verification for UK and EU users looking for its treasure trove of adult mods](https://www.pcgamer.com/games/nexus-mods-will-soon-require-age-verification-for-uk-and-eu-users-looking-for-its-treasure-trove-of-adult-mods/)
+ - [Deus Ex was a hard sell because, among other things, the Thief devs thought &#39;if you give players a gun, they won&#39;t sneak&#39;](https://www.pcgamer.com/games/rpg/deus-ex-was-a-hard-sell-because-among-other-things-the-thief-devs-thought-if-you-give-players-a-gun-they-wont-sneak/)
+ - [Clair Obscur: Expedition 33: Should You Spare Chalier?](https://kotaku.com/clair-obscur-expedition-33-chalier-attack-blanche-1851785353)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
