@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Youtuber PewDiePie is going all in on deGoogling and the Steam Deck is one of the surprising tools that&#39;s helping him to &#39;escape&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/youtuber-pewdiepie-is-going-all-in-on-degoogling-and-the-steam-deck-is-one-of-the-surprising-tools-thats-helping-him-to-escape/)
- - [Randy Pitchford asks fans if they&#39;d swallow future Borderlands exclusivity deals, almost 10,000 people say just put your damn games on Steam](https://www.pcgamer.com/games/fps/randy-pitchford-asks-fans-if-theyd-swallow-future-borderlands-exclusivity-deals-almost-10-000-people-say-just-put-your-damn-games-on-steam/)
- - [Pokémon Go ‘9th Anniversary Party’ event guide](https://www.polygon.com/pokemon-go-guide/610230/9th-anniversary-party-timed-research-field-perks-party-hat)<!-- GAME:END -->
+ - [How Tusk Love, the most popular romance novel in Critical Role’s D&amp;#038;D setting, became a real book](https://www.polygon.com/critical-role/610358/tusk-love-critical-role-interview)
+ - [&#39;Give me more of that&#39;: Monster Hunter Wilds players have discovered its returning monsters got hands, and they&#39;re thrilled to be getting clobbered](https://www.pcgamer.com/games/action/give-me-more-of-that-monster-hunter-wilds-players-have-discovered-its-returning-monsters-got-hands-and-theyre-thrilled-to-be-getting-clobbered/)
+ - [Let Me Tell You About The ‘Subway Slammer’ Persona Fans Love To Hate](https://kotaku.com/persona-5-phantom-x-subway-slammer-villain-clips-gacha-1851785428)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
