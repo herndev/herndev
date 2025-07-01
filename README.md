@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
- - ⏩ [He sustained a serious injury. But now he qualifies for the Super Paralympics!](http://9gag.com/gag/amopE7j)
+ - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - ⏩ [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
  - 👉 [Poor girl lol](http://9gag.com/gag/a1mEz28)<!-- MEMES:END -->
 
 ---
