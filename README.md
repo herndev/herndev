@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Please Don&#39;t Rush Through Blue Prince](https://kotaku.com/blue-prince-how-long-to-beat-room-46-tutorial-puzzles-1851785424)
- - [Palworld guide—Exploring the Terraria update, breeding combos, and crafting](https://www.pcgamer.com/games/survival-crafting/palworld-guide/)
- - [Death Stranding 2&#39;s ending explained &lpar;to the extent humanly possible&rpar;](https://www.pcgamer.com/games/action/death-stranding-2-ending-explained/)<!-- GAME:END -->
+ - [Where to find Academy Tech Lab locations in Fortnite](https://www.polygon.com/fortnite-guide/610309/academy-tech-lab-locations-c6s3-hero-rank)
+ - [Donkey Kong Bananza Does The One Thing I&#39;ve Wanted For Decades: Stickerbush Symphony And Bramble Blast Back Together Again](https://kotaku.com/donkey-kong-bananza-stickerbush-symphony-bramble-blast-1851785457)
+ - [Two Of The Biggest Names In Video Game Acting Star In A New Psychological Horror Game](https://kotaku.com/dead-take-ben-starr-neil-newbon-live-action-horror-game-1851785456)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
