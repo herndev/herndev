@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Author&#39;s petition requesting publishers swear off AI recieves over 1,000 signatures in first 24 hours](https://www.pcgamer.com/hardware/authors-petition-requesting-publishers-swear-off-ai-recieves-over-1-000-signatures-in-first-24-hours/)
- - [Today&#39;s Wordle answer for Tuesday, July 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-1-2025/)
- - [The first autonomous robot football match happened in China and it&#39;s like watching drunk toddlers with fewer ethical setbacks](https://www.pcgamer.com/hardware/the-first-autonomous-robot-football-match-happened-in-china-and-its-like-watching-drunk-toddlers-with-fewer-ethical-setbacks/)<!-- GAME:END -->
+ - [Pokémon Go raid schedule for July 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
+ - [FFXIV housing lottery schedule for June 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
+ - [Pokémon Go Spotlight Hour schedule for July 2025](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
