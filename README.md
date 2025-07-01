@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
- - ⏩ [Friends just being themselves](http://9gag.com/gag/aXPKDEz)
- - 👉 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)<!-- MEMES:END -->
+ - 💣 [Wait, is that what&#39;s happening?](http://9gag.com/gag/ary81vp)
+ - ⏩ [Not all heroes wear capes.](http://9gag.com/gag/apRYeEM)
+ - 👉 [Real friends](http://9gag.com/gag/aLndYmg)<!-- MEMES:END -->
 
 ---
 
