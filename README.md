@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I just can’t imagine using YouTube Music, so why do you?](https://www.androidauthority.com/youtube-music-streaming-open-thread-3572791/)
- - [7 Best Streaming Devices for TVs &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-4k-streaming-devices/)
- - [Google is playing a dangerous game with the Pixel 10 Pro](https://www.androidauthority.com/google-pixel-10-pro-dangerous-game-3572514/)<!-- TECH:END -->
+ - [Newark’s air traffic outages were just the tip of the iceberg](https://www.theverge.com/planes/693562/newark-air-traffic-outages-faa-obsolete-tech)
+ - [Google Keep’s Material 3 Expressive makeover is starting to roll out](https://www.androidauthority.com/google-keep-material-3-expressive-roll-out-3572767/)
+ - [Amazon Busted Down My Gate and Refused to Pay. The Device Would Have Saved Me $500](https://www.cnet.com/news/amazon-busted-down-my-gate-and-refused-to-pay-this-device-could-have-saved-me-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
