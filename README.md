@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Photos iOS 26 vs iOS 18: Small changes, huge impact](https://appleinsider.com/inside/ios-26/vs/photos-ios-26-vs-ios-18-small-changes-huge-impact?utm_medium=rss)
- - [Sam Altman Slams Meta’s AI Talent Poaching Spree: &#39;Missionaries Will Beat Mercenaries&#39;](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
- - [Laptop Mag is shutting down](https://www.theverge.com/news/695969/laptop-mag-shutdown-future-plc)<!-- TECH:END -->
+ - [Grammarly wants to become an ‘AI productivity platform’](https://www.theverge.com/news/696056/grammarly-acquires-superhuman-email-app-ai-platform)
+ - [Sonos is offering a refurbished Era 100 for just $119](https://www.theverge.com/tech/696045/sonos-era-100-refurbished-google-pixel-fold-deal-sale)
+ - [Here’s What Mark Zuckerberg Is Offering Top AI Talent](https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
