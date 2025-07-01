@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Maybe stick to regular basketball for now](http://9gag.com/gag/an7rLAo)
- - ⏩ [Good](http://9gag.com/gag/a6ZjWpA)
- - 👉 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)<!-- MEMES:END -->
+ - ⏩ [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - 👉 [Good](http://9gag.com/gag/a6ZjWpA)<!-- MEMES:END -->
 
 ---
 
