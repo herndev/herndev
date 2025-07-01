@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Someone brought Flappy Bird back to Android, but there’s a good reason you shouldn’t download it](https://www.androidauthority.com/flappy-bird-android-new-version-dont-download-why-3572402/)
- - [These Google Nest speakers are getting three new voices](https://www.androidauthority.com/google-nest-speakers-gemini-assistant-new-voices-3572700/)
- - [The Senate votes 99-1 to remove a Trump tax bill provision that would have barred states from regulating AI if they got funding from a $500M broadband program &lpar;Bloomberg&rpar;](http://www.techmeme.com/250701/p3#a250701p3)<!-- TECH:END -->
+ - [Cloudflare will now block AI crawlers by default](https://www.theverge.com/news/695501/cloudflare-block-ai-crawlers-default)
+ - [Google warns that the DMA is hampering innovation for EU users, asks regulators for more detailed guidance and critics to provide evidence to prove their case &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250701/p5#a250701p5)
+ - [One UI 8 preps all-new ‘Alert Center’ for smarter privacy and security alerts &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-one-ui-8-alert-center-3572678/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
