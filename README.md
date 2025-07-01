@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: three US Treasury hacks in the past five years were due to a failure to deploy basic security measures, as DOGE cuts further weaken the agency &lpar;Bloomberg&rpar;](http://www.techmeme.com/250630/p36#a250630p36)
- - [Steam can now show you how much frame generation changes your games](https://www.theverge.com/news/695543/valve-steam-performance-monitor-frame-generation-frame-rates)
- - [AT&amp;#038;T says &amp;#8216;our network&amp;#8217; wasn&amp;#8217;t to blame for Trump&amp;#8217;s troubled conference call](https://www.theverge.com/news/695536/att-trump-network-conference-call)<!-- TECH:END -->
+ - [Senator Blackburn Pulls Support for AI Moratorium in Trump’s ‘Big Beautiful Bill’ Amid Backlash](https://www.wired.com/story/ai-moratorium-trump-megabill-blackburn/)
+ - [Microsoft&#39;s &#39;Blue Screen of Death&#39; Dies After 40 Years of Memes, Jokes, T-Shirts](https://www.cnet.com/tech/services-and-software/microsofts-blue-screen-of-death-dies-after-40-years-of-memes-jokes-t-shirts/#ftag=CAD590a51e)
+ - [What&#39;s a Heat Dome? The Scary Weather Phenomenon Is Making Things Hotter](https://www.cnet.com/news/what-is-a-heat-dome-the-scary-weather-phenomenon-returns-to-kick-off-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
