@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam adds an in-game performance monitor so you can brag about hitting 900 FPS in Deus Ex](https://www.pcgamer.com/games/steam-adds-an-in-game-performance-monitor-so-you-can-brag-about-hitting-900-fps-in-deus-ex/)
- - [The end is probably nigh for full Windows driver support for GTX 10, 9 and 7 Series graphics cards as Nvidia announces that its next major Linux driver fork will be its last for those GPUs](https://www.pcgamer.com/hardware/graphics-cards/the-end-is-probably-nigh-for-full-windows-driver-support-for-gtx-10-9-and-7-series-graphics-cards-as-nvidia-announces-that-its-next-major-linux-driver-fork-will-be-its-last-for-those-gpus/)
- - [Right to repair bill in Texas has been signed into law after winning by a landslide victory, with not a single vote against it](https://www.pcgamer.com/hardware/right-to-repair-bill-in-texas-has-been-signed-into-law-after-winning-by-a-landslide-victory-with-not-a-single-vote-against-it/)<!-- GAME:END -->
+ - [BG3 might be the last hurrah for the era of the Hexblade, as D&amp;D&#39;s 2024 rules revamp tries to dethrone the king of multiclass dips](https://www.pcgamer.com/games/rpg/bg3-might-be-the-last-hurrah-for-the-era-of-the-hexblade-as-d-and-ds-2024-rules-revamp-tries-to-dethrone-the-king-of-multiclass-dips/)
+ - [Anker recalls a number of power banks amid safety fears, though it says that &#39;the likelihood of malfunction is considered minimal&#39;](https://www.pcgamer.com/hardware/anker-recalls-a-number-of-power-banks-amid-safety-fears-though-it-says-that-the-likelihood-of-malfunction-is-considered-minimal/)
+ - [Good guy GSC wordlessly deletes ads in Stalker remaster menus with itsy-bitsy new patch](https://www.pcgamer.com/games/fps/good-guy-gsc-wordlessly-deletes-ads-in-stalker-remaster-menus-with-itsy-bitsy-new-patch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
