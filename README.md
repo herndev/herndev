@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Donkey Kong Bananza is being made by the Super Mario Odyssey team](https://www.polygon.com/nintendo-switch-2/609042/donkey-kong-bananza-developer-super-mario-odyssey-team)
- - [Coming to Game Pass: Tony Hawk’s Pro Skater 3 + 4, Minami Lane, Ultimate Chicken Horse, and More](https://news.xbox.com/en-us/2025/07/01/xbox-game-pass-july-2025-wave-1/)
- - [There’s a Fantastic Four-flavored milk drink now &lpar;superpowers not included&rpar;](https://www.polygon.com/marvel/609756/trumoo-team-up-fantastic-four-flavored-milk-drink)<!-- GAME:END -->
+ - [&#39;Xbox hardware is dead&#39; and &#39;there&#39;s literally no reason to buy&#39; the ROG Xbox Ally handheld says founding member of the OG Xbox team](https://www.pcgamer.com/hardware/xbox-hardware-is-dead-and-theres-literally-no-reason-to-buy-the-rog-xbox-ally-handheld-says-founding-member-of-the-og-xbox-team/)
+ - [Commodore&#39;s been bought by a YouTuber who&#39;s re-assembling key execs and already teasing new hardware](https://www.pcgamer.com/gaming-industry/commodores-been-bought-by-a-youtuber-whos-re-assembling-key-execs-and-already-teasing-new-hardware/)
+ - [How to get bees in Grow a Garden and what they do](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-bees/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
