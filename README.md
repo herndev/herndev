@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
- - ⏩ [Preparation is keyes](http://9gag.com/gag/avydYXM)
- - 👉 [That forbidden frequency hits different.](http://9gag.com/gag/a6ZjPN9)<!-- MEMES:END -->
+ - 💣 [Underrated Waterworld](http://9gag.com/gag/aAyOWMo)
+ - ⏩ [Wow..](http://9gag.com/gag/a87KZed)
+ - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
 
 ---
 
