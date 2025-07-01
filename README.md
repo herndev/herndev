@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Echo Frames drop to a new record-low price, saving you $200!](https://www.androidauthority.com/amazon-echo-frames-deal-3573049/)
- - [X opens up to Community Notes written by AI bots](https://www.theverge.com/news/696210/x-community-notes-ai-note-writers)
- - [Nothing unveils the $799 Phone 3, with a 6.7&quot; AMOLED display, Snapdragon 8s Gen 4 chip, three 50MP rear cameras, and the $299 Headphone 1, both shipping July 15 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250701/p24#a250701p24)<!-- TECH:END -->
+ - [Sources: Palmer Luckey is preparing to launch Erebor, a US bank backed by Joe Lonsdale and other tech investors to serve startups, including crypto businesses &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250701/p26#a250701p26)
+ - [A California jury rules Google is liable in a 2019 class action lawsuit over collecting information from users&#39; devices without permission and must pay $314.6M+ &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250701/p25#a250701p25)
+ - [Figma is going public](https://www.theverge.com/news/696253/figma-ipo-public-filing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
