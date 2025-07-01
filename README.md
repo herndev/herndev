@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds&#39; Superman Dive Is Your Best Defensive Technique, If You Use It Correctly](https://kotaku.com/monster-hunter-wilds-mhw-diving-defense-roll-1851785410)
- - [I&#39;m diagnosing survivors of a zombie apocalypse and only occasionally mistaking cold symptoms for the zombie plague in this military base management sim](https://www.pcgamer.com/games/sim/im-diagnosing-survivors-of-a-zombie-apocalypse-and-only-occasionally-mistaking-cold-symptoms-for-the-zombie-plague-in-this-military-base-management-sim/)
- - [&#39;It makes me cringe every time&#39;: 25 years after Diablo 2 reshaped the RPG landscape, Diablo creator David Brevik still thinks its stamina bar sucks](https://www.pcgamer.com/games/rpg/it-makes-me-cringe-every-time-25-years-after-diablo-2-reshaped-the-rpg-landscape-diablo-creator-david-brevik-still-thinks-its-stamina-bar-sucks/)<!-- GAME:END -->
+ - [Death Stranding 2 is too damn easy](https://www.pcgamer.com/games/action/death-stranding-2-is-too-damn-easy/)
+ - [Destiny 2 just got weird: Launch trailer leans hard into time travel and looks more like a Control crossover](https://www.pcgamer.com/games/fps/destiny-2-just-got-weird-launch-trailer-leans-hard-into-time-travel-and-looks-more-like-a-control-crossover/)
+ - [A new WoW event boosts ultra-rare item drop rates tenfold, which admittedly isn&#39;t a huge difference when the starting number is 0.5%](https://www.pcgamer.com/games/world-of-warcraft/a-new-wow-event-boosts-ultra-rare-item-drop-rates-tenfold-which-admittedly-isnt-a-huge-difference-when-the-starting-number-is-0-5-percent/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
