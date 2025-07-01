@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
- - ⏩ [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 👉 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)<!-- MEMES:END -->
+ - 💣 [Hero K9 Rocky being rushed to safety by his team.](http://9gag.com/gag/a7opQyb)
+ - ⏩ [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 👉 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)<!-- MEMES:END -->
 
 ---
 
