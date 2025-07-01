@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Underrated Waterworld](http://9gag.com/gag/aAyOWMo)
- - ⏩ [Wow..](http://9gag.com/gag/a87KZed)
- - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
+ - 💣 [Peak male content](http://9gag.com/gag/aGyOWQK)
+ - ⏩ [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 👉 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)<!-- MEMES:END -->
 
 ---
 
