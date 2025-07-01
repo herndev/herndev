@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;#038;T now lets you lock down your account to prevent SIM swapping attacks](https://www.theverge.com/news/695916/att-account-lock-sim-swapping-attack)
- - [Apple imported a lot of Macs in Q1, but don&#39;t believe marketshare increase claims yet](https://appleinsider.com/articles/25/07/01/apple-imported-a-lot-of-macs-in-q1-but-dont-believe-marketshare-increase-claims-yet?utm_medium=rss)
- - [Poll: Do you like AI music?](https://www.androidauthority.com/poll-do-you-like-ai-music-3572933/)<!-- TECH:END -->
+ - [Photos iOS 26 vs iOS 18: Small changes, huge impact](https://appleinsider.com/inside/ios-26/vs/photos-ios-26-vs-ios-18-small-changes-huge-impact?utm_medium=rss)
+ - [Sam Altman Slams Meta’s AI Talent Poaching Spree: &#39;Missionaries Will Beat Mercenaries&#39;](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
+ - [Laptop Mag is shutting down](https://www.theverge.com/news/695969/laptop-mag-shutdown-future-plc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
