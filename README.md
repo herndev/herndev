@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads now has DMs](https://www.theverge.com/news/695743/threads-dms-direct-messaging-launch)
- - [Tiny but mighty: This cheap projector promises big movie nights without the big price](https://www.androidauthority.com/yaber-t1-pro-launch-3572811/)
- - [Sources: data labeling company Surge AI aims to raise up to $1B, targeting a $15B+ valuation; Surge AI had $1B+ in 2024 revenue, vs. Scale AI&#39;s reported $870M &lpar;Reuters&rpar;](http://www.techmeme.com/250701/p15#a250701p15)<!-- TECH:END -->
+ - [AT&amp;#038;T now lets you lock down your account to prevent SIM swapping attacks](https://www.theverge.com/news/695916/att-account-lock-sim-swapping-attack)
+ - [Apple imported a lot of Macs in Q1, but don&#39;t believe marketshare increase claims yet](https://appleinsider.com/articles/25/07/01/apple-imported-a-lot-of-macs-in-q1-but-dont-believe-marketshare-increase-claims-yet?utm_medium=rss)
+ - [Poll: Do you like AI music?](https://www.androidauthority.com/poll-do-you-like-ai-music-3572933/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
