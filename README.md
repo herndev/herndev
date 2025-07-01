@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - ⏩ [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)
- - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
+ - 💣 [A legendary final meal](http://9gag.com/gag/aRBO5jy)
+ - ⏩ [It&#39;s over fellow men... should we show our chocolate starfish too instead working 9 to 5?...](http://9gag.com/gag/a2vLB5D)
+ - 👉 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)<!-- MEMES:END -->
 
 ---
 
