@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - ⏩ [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
+ - 💣 [Friend of the year.](http://9gag.com/gag/aRBR602)
+ - ⏩ [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
+ - 👉 [Good](http://9gag.com/gag/a6ZjWpA)<!-- MEMES:END -->
 
 ---
 
