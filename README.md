@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Newark’s air traffic outages were just the tip of the iceberg](https://www.theverge.com/planes/693562/newark-air-traffic-outages-faa-obsolete-tech)
- - [Google Keep’s Material 3 Expressive makeover is starting to roll out](https://www.androidauthority.com/google-keep-material-3-expressive-roll-out-3572767/)
- - [Amazon Busted Down My Gate and Refused to Pay. The Device Would Have Saved Me $500](https://www.cnet.com/news/amazon-busted-down-my-gate-and-refused-to-pay-this-device-could-have-saved-me-500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Running Man mixes mayhem and humor in first trailer](https://www.theverge.com/news/695608/the-running-man-trailer-edgar-wright)
+ - [The movie and TV tech we actually want to use](https://www.theverge.com/the-vergecast/693593/best-tech-movies-tv-shows-vergecast)
+ - [‘Donkey Kong Bananza’ Could be the Next Killer Game the Switch 2 Needs](https://www.wired.com/story/donkey-kong-bananza-could-be-the-next-killer-game-switch-2-needs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
