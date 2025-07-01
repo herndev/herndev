@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
- - ⏩ [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
- - 👉 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)<!-- MEMES:END -->
+ - 💣 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - ⏩ [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
+ - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
 
 ---
 
