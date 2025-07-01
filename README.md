@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait, is that what&#39;s happening?](http://9gag.com/gag/ary81vp)
- - ⏩ [Not all heroes wear capes.](http://9gag.com/gag/apRYeEM)
- - 👉 [Real friends](http://9gag.com/gag/aLndYmg)<!-- MEMES:END -->
+ - 💣 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - ⏩ [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
+ - 👉 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)<!-- MEMES:END -->
 
 ---
 
