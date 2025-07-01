@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
- - ⏩ [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 👉 [Poor girl lol](http://9gag.com/gag/a1mEz28)<!-- MEMES:END -->
+ - 💣 [Poor girl lol](http://9gag.com/gag/a1mEz28)
+ - ⏩ [Good](http://9gag.com/gag/a6ZjWpA)
+ - 👉 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)<!-- MEMES:END -->
 
 ---
 
