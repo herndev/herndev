@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grammarly wants to become an ‘AI productivity platform’](https://www.theverge.com/news/696056/grammarly-acquires-superhuman-email-app-ai-platform)
- - [Sonos is offering a refurbished Era 100 for just $119](https://www.theverge.com/tech/696045/sonos-era-100-refurbished-google-pixel-fold-deal-sale)
- - [Here’s What Mark Zuckerberg Is Offering Top AI Talent](https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/)<!-- TECH:END -->
+ - [Next Apple TV+ dramedy will be &#39;I&#39;m Glad My Mom Died&#39; starring Jennifer Aniston](https://appleinsider.com/articles/25/07/01/next-apple-tv-dramedy-will-be-im-glad-my-mom-died-starring-jennifer-aniston?utm_medium=rss)
+ - [Figma files for an IPO, plans to trade on the NYSE under FIG, and reports Q1 revenue increased 46% YoY to $228.2M and net income grew from $13.5M to $44.9M YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250701/p22#a250701p22)
+ - [Source: Mark Zuckerberg has, on 10+ occasions, offered to pay AI research talent up to $300M over four years, with $100M+ in compensation for the first year &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250701/p21#a250701p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
