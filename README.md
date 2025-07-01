@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Running Man mixes mayhem and humor in first trailer](https://www.theverge.com/news/695608/the-running-man-trailer-edgar-wright)
- - [The movie and TV tech we actually want to use](https://www.theverge.com/the-vergecast/693593/best-tech-movies-tv-shows-vergecast)
- - [‘Donkey Kong Bananza’ Could be the Next Killer Game the Switch 2 Needs](https://www.wired.com/story/donkey-kong-bananza-could-be-the-next-killer-game-switch-2-needs/)<!-- TECH:END -->
+ - [Sharp pencils for hard times](https://www.theverge.com/tech/695081/blackwing-pencil-sharpener-favorite)
+ - [AMC now warns moviegoers to expect &amp;#8217;25-30 minutes&amp;#8217; of ads](https://www.theverge.com/news/695611/amc-theatres-movie-preshow-ads-warning)
+ - [Grammarly Adds Superhuman Email App to Build an AI Suite for Users, Report Says](https://www.cnet.com/tech/services-and-software/grammarly-adds-superhuman-email-app-to-build-an-ai-suite-for-users-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
