@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33: How To Earn The &#39;Aiding The Enemy&#39; Achievement](https://kotaku.com/clair-obscur-expedition-33-aiding-the-enemy-blanche-1851785361)
- - [My best friend is a gaming mouse: An ode to the finest rodent around, the Logitech G Pro X Superlight](https://www.pcgamer.com/hardware/gaming-mice/my-best-friend-is-a-gaming-mouse-an-ode-to-the-finest-rodent-around-the-logitech-g-pro-x-superlight/)
- - [Some Of Our Favorite Hidden Indie Gems Are In The Big Steam Sale](https://kotaku.com/indie-games-steam-summer-sale-wizordum-master-key-1851785399)<!-- GAME:END -->
+ - [Youtuber PewDiePie is going all in on deGoogling and the Steam Deck is one of the surprising tools that&#39;s helping him to &#39;escape&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/youtuber-pewdiepie-is-going-all-in-on-degoogling-and-the-steam-deck-is-one-of-the-surprising-tools-thats-helping-him-to-escape/)
+ - [Randy Pitchford asks fans if they&#39;d swallow future Borderlands exclusivity deals, almost 10,000 people say just put your damn games on Steam](https://www.pcgamer.com/games/fps/randy-pitchford-asks-fans-if-theyd-swallow-future-borderlands-exclusivity-deals-almost-10-000-people-say-just-put-your-damn-games-on-steam/)
+ - [Pokémon Go ‘9th Anniversary Party’ event guide](https://www.polygon.com/pokemon-go-guide/610230/9th-anniversary-party-timed-research-field-perks-party-hat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
