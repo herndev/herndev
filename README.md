@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
- - ⏩ [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
- - 👉 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)<!-- MEMES:END -->
+ - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - ⏩ [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)
+ - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
 
 ---
 
