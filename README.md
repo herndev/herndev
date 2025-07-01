@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
- - ⏩ [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
- - 👉 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)<!-- MEMES:END -->
+ - 💣 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - ⏩ [Friends just being themselves](http://9gag.com/gag/aXPKDEz)
+ - 👉 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)<!-- MEMES:END -->
 
 ---
 
