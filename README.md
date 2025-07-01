@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare will now block AI crawlers by default](https://www.theverge.com/news/695501/cloudflare-block-ai-crawlers-default)
- - [Google warns that the DMA is hampering innovation for EU users, asks regulators for more detailed guidance and critics to provide evidence to prove their case &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250701/p5#a250701p5)
- - [One UI 8 preps all-new ‘Alert Center’ for smarter privacy and security alerts &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-one-ui-8-alert-center-3572678/)<!-- TECH:END -->
+ - [I just can’t imagine using YouTube Music, so why do you?](https://www.androidauthority.com/youtube-music-streaming-open-thread-3572791/)
+ - [7 Best Streaming Devices for TVs &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-4k-streaming-devices/)
+ - [Google is playing a dangerous game with the Pixel 10 Pro](https://www.androidauthority.com/google-pixel-10-pro-dangerous-game-3572514/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
