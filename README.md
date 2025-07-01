@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe stick to regular basketball for now](http://9gag.com/gag/an7rLAo)
- - ⏩ [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
- - 👉 [Good](http://9gag.com/gag/a6ZjWpA)<!-- MEMES:END -->
+ - 💣 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
+ - ⏩ [He sustained a serious injury. But now he qualifies for the Super Paralympics!](http://9gag.com/gag/amopE7j)
+ - 👉 [Poor girl lol](http://9gag.com/gag/a1mEz28)<!-- MEMES:END -->
 
 ---
 
