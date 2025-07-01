@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You Can&#39;t Afford to Be Fooled by the Chase Sapphire Reserve&#39;s Apple Perks and 100K Bonus](https://www.cnet.com/personal-finance/you-cant-afford-to-be-fooled-by-the-chase-sapphire-reserves-apple-perks-and-100k-bonus/#ftag=CAD590a51e)
- - [Google makes it easier to let friends and kids control your smart home](https://www.theverge.com/news/696189/google-home-member-admin-kids-launch)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
+ - [Amazon Echo Frames drop to a new record-low price, saving you $200!](https://www.androidauthority.com/amazon-echo-frames-deal-3573049/)
+ - [X opens up to Community Notes written by AI bots](https://www.theverge.com/news/696210/x-community-notes-ai-note-writers)
+ - [Nothing unveils the $799 Phone 3, with a 6.7&quot; AMOLED display, Snapdragon 8s Gen 4 chip, three 50MP rear cameras, and the $299 Headphone 1, both shipping July 15 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250701/p24#a250701p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
