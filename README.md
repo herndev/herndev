@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first autonomous robot football match happened in China and it&#39;s like watching drunk toddlers with fewer ethical setbacks](https://www.pcgamer.com/hardware/the-first-autonomous-robot-football-match-happened-in-china-and-its-like-watching-drunk-toddlers-with-fewer-ethical-setbacks/)
- - [Resident Evil Requiem: all the key details on RE9&#39;s return to Raccoon City](https://www.pcgamer.com/games/resident-evil/re-requiem-re9-guide/)
- - [Space Marine 2 will celebrate its first anniversary with a &#39;large-scale update&#39; in September, and another year of free and paid content is on the way](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-will-celebrate-its-first-anniversary-with-a-large-scale-update-in-september-and-another-year-of-free-and-paid-content-is-on-the-way/)<!-- GAME:END -->
+ - [Author&#39;s petition requesting publishers swear off AI recieves over 1,000 signatures in first 24 hours](https://www.pcgamer.com/hardware/authors-petition-requesting-publishers-swear-off-ai-recieves-over-1-000-signatures-in-first-24-hours/)
+ - [Today&#39;s Wordle answer for Tuesday, July 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-1-2025/)
+ - [The first autonomous robot football match happened in China and it&#39;s like watching drunk toddlers with fewer ethical setbacks](https://www.pcgamer.com/hardware/the-first-autonomous-robot-football-match-happened-in-china-and-its-like-watching-drunk-toddlers-with-fewer-ethical-setbacks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
