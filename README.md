@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - ⏩ [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
- - 👉 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)<!-- MEMES:END -->
+ - 💣 [Maybe stick to regular basketball for now](http://9gag.com/gag/an7rLAo)
+ - ⏩ [Good](http://9gag.com/gag/a6ZjWpA)
+ - 👉 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)<!-- MEMES:END -->
 
 ---
 
