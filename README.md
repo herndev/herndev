@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8’s Now Brief will make sure you don’t miss a birthday again](https://www.androidauthority.com/samsung-now-brief-birthdays-3572696/)
- - [An interview with Claude AI product lead Scott White on Claude Code writing 90% of its own code, MCP, coding being accessible to non-technical workers, and more &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250701/p2#a250701p2)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Someone brought Flappy Bird back to Android, but there’s a good reason you shouldn’t download it](https://www.androidauthority.com/flappy-bird-android-new-version-dont-download-why-3572402/)
+ - [These Google Nest speakers are getting three new voices](https://www.androidauthority.com/google-nest-speakers-gemini-assistant-new-voices-3572700/)
+ - [The Senate votes 99-1 to remove a Trump tax bill provision that would have barred states from regulating AI if they got funding from a $500M broadband program &lpar;Bloomberg&rpar;](http://www.techmeme.com/250701/p3#a250701p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
