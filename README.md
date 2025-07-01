@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sharp pencils for hard times](https://www.theverge.com/tech/695081/blackwing-pencil-sharpener-favorite)
- - [AMC now warns moviegoers to expect &amp;#8217;25-30 minutes&amp;#8217; of ads](https://www.theverge.com/news/695611/amc-theatres-movie-preshow-ads-warning)
- - [Grammarly Adds Superhuman Email App to Build an AI Suite for Users, Report Says](https://www.cnet.com/tech/services-and-software/grammarly-adds-superhuman-email-app-to-build-an-ai-suite-for-users-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to safely maintain, use, and dispose of your power banks](https://www.theverge.com/tech/692218/power-banks-safety-disposal-how-to)
+ - [AI researcher salaries are steadily rising, with total pay packages of $500K to $2M at Big Tech for mid to senior level staffers, up from $400K to $900K in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/250701/p12#a250701p12)
+ - [Future Apple Vision Pro headsets may use software trick to protect users from motion sickness](https://appleinsider.com/articles/25/07/01/future-apple-vision-pro-headsets-may-use-software-trick-to-protect-users-from-motion-sickness?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
