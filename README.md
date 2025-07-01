@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The first autonomous robot football match happened in China and it&#39;s like watching drunk toddlers with fewer ethical setbacks](https://www.pcgamer.com/hardware/the-first-autonomous-robot-football-match-happened-in-china-and-its-like-watching-drunk-toddlers-with-fewer-ethical-setbacks/)
  - [Resident Evil Requiem: all the key details on RE9&#39;s return to Raccoon City](https://www.pcgamer.com/games/resident-evil/re-requiem-re9-guide/)
- - [Space Marine 2 will celebrate its first anniversary with a &#39;large-scale update&#39; in September, and another year of free and paid content is on the way](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-will-celebrate-its-first-anniversary-with-a-large-scale-update-in-september-and-another-year-of-free-and-paid-content-is-on-the-way/)
- - [&#39;They told me to destroy&#39; my backups, Fallout creator Tim Cain says: &#39;People high up at companies take authority but no responsibility&#39; for game preservation](https://www.pcgamer.com/games/fallout/they-told-me-to-destroy-my-backups-fallout-creator-tim-cain-says-people-high-up-at-companies-take-authority-but-no-responsibility-for-game-preservation/)<!-- GAME:END -->
+ - [Space Marine 2 will celebrate its first anniversary with a &#39;large-scale update&#39; in September, and another year of free and paid content is on the way](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-will-celebrate-its-first-anniversary-with-a-large-scale-update-in-september-and-another-year-of-free-and-paid-content-is-on-the-way/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
