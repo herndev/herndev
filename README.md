@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All celebrity cameos and cast in Death Stranding 2: On the Beach](https://www.polygon.com/guides/609570/death-stranding-2-cameos-celebrities-cast-all-where-to-find)
  - [Death Stranding 2 is too damn easy](https://www.pcgamer.com/games/action/death-stranding-2-is-too-damn-easy/)
- - [Destiny 2 just got weird: Launch trailer leans hard into time travel and looks more like a Control crossover](https://www.pcgamer.com/games/fps/destiny-2-just-got-weird-launch-trailer-leans-hard-into-time-travel-and-looks-more-like-a-control-crossover/)
- - [A new WoW event boosts ultra-rare item drop rates tenfold, which admittedly isn&#39;t a huge difference when the starting number is 0.5%](https://www.pcgamer.com/games/world-of-warcraft/a-new-wow-event-boosts-ultra-rare-item-drop-rates-tenfold-which-admittedly-isnt-a-huge-difference-when-the-starting-number-is-0-5-percent/)<!-- GAME:END -->
+ - [Destiny 2 just got weird: Launch trailer leans hard into time travel and looks more like a Control crossover](https://www.pcgamer.com/games/fps/destiny-2-just-got-weird-launch-trailer-leans-hard-into-time-travel-and-looks-more-like-a-control-crossover/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
