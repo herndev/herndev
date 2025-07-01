@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hero K9 Rocky being rushed to safety by his team.](http://9gag.com/gag/a7opQyb)
- - ⏩ [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
- - 👉 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)<!-- MEMES:END -->
+ - 💣 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
+ - ⏩ [Preparation is keyes](http://9gag.com/gag/avydYXM)
+ - 👉 [That forbidden frequency hits different.](http://9gag.com/gag/a6ZjPN9)<!-- MEMES:END -->
 
 ---
 
