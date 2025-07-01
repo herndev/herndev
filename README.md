@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak male content](http://9gag.com/gag/aGyOWQK)
- - ⏩ [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 👉 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)<!-- MEMES:END -->
+ - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - ⏩ [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
+ - 👉 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)<!-- MEMES:END -->
 
 ---
 
