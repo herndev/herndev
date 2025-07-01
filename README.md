@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to safely maintain, use, and dispose of your power banks](https://www.theverge.com/tech/692218/power-banks-safety-disposal-how-to)
- - [AI researcher salaries are steadily rising, with total pay packages of $500K to $2M at Big Tech for mid to senior level staffers, up from $400K to $900K in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/250701/p12#a250701p12)
- - [Future Apple Vision Pro headsets may use software trick to protect users from motion sickness](https://appleinsider.com/articles/25/07/01/future-apple-vision-pro-headsets-may-use-software-trick-to-protect-users-from-motion-sickness?utm_medium=rss)<!-- TECH:END -->
+ - [Threads now has DMs](https://www.theverge.com/news/695743/threads-dms-direct-messaging-launch)
+ - [Tiny but mighty: This cheap projector promises big movie nights without the big price](https://www.androidauthority.com/yaber-t1-pro-launch-3572811/)
+ - [Sources: data labeling company Surge AI aims to raise up to $1B, targeting a $15B+ valuation; Surge AI had $1B+ in 2024 revenue, vs. Scale AI&#39;s reported $870M &lpar;Reuters&rpar;](http://www.techmeme.com/250701/p15#a250701p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
