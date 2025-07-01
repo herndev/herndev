@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Academy Tech Lab locations in Fortnite](https://www.polygon.com/fortnite-guide/610309/academy-tech-lab-locations-c6s3-hero-rank)
- - [Donkey Kong Bananza Does The One Thing I&#39;ve Wanted For Decades: Stickerbush Symphony And Bramble Blast Back Together Again](https://kotaku.com/donkey-kong-bananza-stickerbush-symphony-bramble-blast-1851785457)
- - [Two Of The Biggest Names In Video Game Acting Star In A New Psychological Horror Game](https://kotaku.com/dead-take-ben-starr-neil-newbon-live-action-horror-game-1851785456)<!-- GAME:END -->
+ - [Monster Hunter Wilds&#39; Superman Dive Is Your Best Defensive Technique, If You Use It Correctly](https://kotaku.com/monster-hunter-wilds-mhw-diving-defense-roll-1851785410)
+ - [I&#39;m diagnosing survivors of a zombie apocalypse and only occasionally mistaking cold symptoms for the zombie plague in this military base management sim](https://www.pcgamer.com/games/sim/im-diagnosing-survivors-of-a-zombie-apocalypse-and-only-occasionally-mistaking-cold-symptoms-for-the-zombie-plague-in-this-military-base-management-sim/)
+ - [&#39;It makes me cringe every time&#39;: 25 years after Diablo 2 reshaped the RPG landscape, Diablo creator David Brevik still thinks its stamina bar sucks](https://www.pcgamer.com/games/rpg/it-makes-me-cringe-every-time-25-years-after-diablo-2-reshaped-the-rpg-landscape-diablo-creator-david-brevik-still-thinks-its-stamina-bar-sucks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
