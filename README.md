@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - ⏩ [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 👉 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)<!-- MEMES:END -->
+ - 💣 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
+ - ⏩ [Sundress season rules.](http://9gag.com/gag/aQzO0jd)
+ - 👉 [The state of World of Warcraft](http://9gag.com/gag/awyYRMB)<!-- MEMES:END -->
 
 ---
 
