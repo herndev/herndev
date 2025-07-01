@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BG3 might be the last hurrah for the era of the Hexblade, as D&amp;D&#39;s 2024 rules revamp tries to dethrone the king of multiclass dips](https://www.pcgamer.com/games/rpg/bg3-might-be-the-last-hurrah-for-the-era-of-the-hexblade-as-d-and-ds-2024-rules-revamp-tries-to-dethrone-the-king-of-multiclass-dips/)
- - [Anker recalls a number of power banks amid safety fears, though it says that &#39;the likelihood of malfunction is considered minimal&#39;](https://www.pcgamer.com/hardware/anker-recalls-a-number-of-power-banks-amid-safety-fears-though-it-says-that-the-likelihood-of-malfunction-is-considered-minimal/)
- - [Good guy GSC wordlessly deletes ads in Stalker remaster menus with itsy-bitsy new patch](https://www.pcgamer.com/games/fps/good-guy-gsc-wordlessly-deletes-ads-in-stalker-remaster-menus-with-itsy-bitsy-new-patch/)<!-- GAME:END -->
+ - [Donkey Kong Bananza is being made by the Super Mario Odyssey team](https://www.polygon.com/nintendo-switch-2/609042/donkey-kong-bananza-developer-super-mario-odyssey-team)
+ - [Coming to Game Pass: Tony Hawk’s Pro Skater 3 + 4, Minami Lane, Ultimate Chicken Horse, and More](https://news.xbox.com/en-us/2025/07/01/xbox-game-pass-july-2025-wave-1/)
+ - [There’s a Fantastic Four-flavored milk drink now &lpar;superpowers not included&rpar;](https://www.polygon.com/marvel/609756/trumoo-team-up-fantastic-four-flavored-milk-drink)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
