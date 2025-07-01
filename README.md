@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mecha Break launch times and release date](https://www.pcgamer.com/games/third-person-shooter/mecha-break-launch-time-release-date/)
- - [Ryan Coogler’s Sinners is making Black history yet again](https://www.polygon.com/entertainment/610104/sinners-ryan-coogler-black-american-sign-language)
- - [Incredible neural implant translates neural activity into speech almost instantly by focussing on sound production instead of word choice](https://www.pcgamer.com/hardware/incredible-neural-implant-translates-neural-activity-into-speech-almost-instantly-by-focussing-on-sound-production-instead-of-word-choice/)<!-- GAME:END -->
+ - [Steam adds an in-game performance monitor so you can brag about hitting 900 FPS in Deus Ex](https://www.pcgamer.com/games/steam-adds-an-in-game-performance-monitor-so-you-can-brag-about-hitting-900-fps-in-deus-ex/)
+ - [The end is probably nigh for full Windows driver support for GTX 10, 9 and 7 Series graphics cards as Nvidia announces that its next major Linux driver fork will be its last for those GPUs](https://www.pcgamer.com/hardware/graphics-cards/the-end-is-probably-nigh-for-full-windows-driver-support-for-gtx-10-9-and-7-series-graphics-cards-as-nvidia-announces-that-its-next-major-linux-driver-fork-will-be-its-last-for-those-gpus/)
+ - [Right to repair bill in Texas has been signed into law after winning by a landslide victory, with not a single vote against it](https://www.pcgamer.com/hardware/right-to-repair-bill-in-texas-has-been-signed-into-law-after-winning-by-a-landslide-victory-with-not-a-single-vote-against-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
