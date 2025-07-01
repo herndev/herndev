@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet gets a fresh coat of Material 3 Expressive with latest Play System update](https://www.androidauthority.com/google-wallet-material-3-expressive-3572652/)
- - [Amazon says it has deployed over 1M robots in its warehouses, its most ever and close to its human workforce, with 75% of global deliveries aided by robotics &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/250630/p38#a250630p38)
- - [After criticism, Sen. Blackburn backs off her own AI compromise for the tax bill, saying &quot;we can&#39;t block states from making laws that protect their citizens&quot; &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250630/p37#a250630p37)<!-- TECH:END -->
+ - [How to use a spare keyboard or numpad as a macropad in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-a-spare-keyboard-or-numpad-as-a-macropad-in-macos?utm_medium=rss)
+ - [Oura Ring 5 wishlist: All the features I want to see](https://www.androidauthority.com/oura-ring-5-3572645/)
+ - [Google Wallet gets a fresh coat of Material 3 Expressive with latest Play System update](https://www.androidauthority.com/google-wallet-material-3-expressive-3572652/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
