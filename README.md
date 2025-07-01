@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
- - ⏩ [Sundress season rules.](http://9gag.com/gag/aQzO0jd)
- - 👉 [The state of World of Warcraft](http://9gag.com/gag/awyYRMB)<!-- MEMES:END -->
+ - 💣 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
+ - ⏩ [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
+ - 👉 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)<!-- MEMES:END -->
 
 ---
 
