@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Friend of the year.](http://9gag.com/gag/aRBR602)
- - ⏩ [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
- - 👉 [Good](http://9gag.com/gag/a6ZjWpA)<!-- MEMES:END -->
+ - 💣 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
+ - ⏩ [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
+ - 👉 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)<!-- MEMES:END -->
 
 ---
 
