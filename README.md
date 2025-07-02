@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Mecha Break Twitch Drops and how to get them](https://www.pcgamer.com/games/third-person-shooter/mecha-break-twitch-drops/)
- - [How to redeem Mecha Break codes](https://www.pcgamer.com/games/third-person-shooter/mecha-break-codes/)
- - [Mecha Break events schedule and rewards](https://www.pcgamer.com/games/third-person-shooter/mecha-break-events-schedule/)<!-- GAME:END -->
+ - [How I keep my PC and desktop clean with cuddly cats all around me: a $20 handheld air blower](https://www.pcgamer.com/hardware/how-i-keep-my-pc-and-desktop-clean-with-cuddly-cats-all-around-me-a-usd20-handheld-air-blower/)
+ - [Intel&#39;s ex-CEO said he bet the company on the 18A node but now a new report claims Intel is pushing customers to next-gen 14A instead](https://www.pcgamer.com/hardware/processors/intels-ex-ceo-said-he-bet-the-company-on-the-18a-node-but-now-a-new-report-claims-intel-is-pushing-customers-to-next-gen-14a-instead/)
+ - [When Microsoft finally pulls the plug on Windows 10 its successor will be four years old, and for three of those, it was never the OS of choice amongst Steam users](https://www.pcgamer.com/software/windows/when-microsoft-finally-pulls-the-plug-on-windows-10-its-successor-will-be-four-years-old-and-for-three-of-those-it-was-never-the-os-of-choice-amongst-steam-users/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
