@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: crypto ventures have added at least $620M to President Trump&#39;s fortune in months, overshadowing traditional real estate licensing deals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p23#a250702p23)
- - [Three former Ubisoft executives are convicted of sexual and psychological harassment](https://www.theverge.com/games/696996/ubisoft-me-too-former-executive-convictions)
- - [Amazon is offering a like-new Kindle Paperwhite 2024 for just $107](https://www.theverge.com/tech/696906/kindle-paperwhite-refurbished-deal-sale)<!-- TECH:END -->
+ - [How Nintendo locked down the Switch 2’s USB-C port and broke third-party docking](https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption)
+ - [You Can Still See the Aurora Borealis Tonight. Here&#39;s Where the Brightest Lights Will Glow](https://www.cnet.com/science/space/you-can-still-see-the-aurora-borealis-tonight-heres-where-the-brightest-lights-will-glow/#ftag=CAD590a51e)
+ - [Phil Spencer isn’t retiring as the chief of Xbox ‘anytime soon’](https://www.theverge.com/news/696922/phil-spencer-xbox-microsoft-gaming-retiring)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
