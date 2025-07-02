@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Emulating split-screen PS2 games &lpar;and more&rpar; just got a lot easier](https://www.androidauthority.com/ps2-games-split-screen-emulation-fix-3573187/)
  - [Google hit with $314m fine for collecting data from idle Android phones without permission](https://www.androidauthority.com/google-314-million-verdict-misuse-android-user-data-3573164/)
- - [Best Internet Providers in Utah](https://www.cnet.com/home/internet/best-internet-providers-in-utah/#ftag=CAD590a51e)
- - [A deep dive into Oracle&#39;s data center strategy and its emergence as an AI computing powerhouse, amid questions about the sustainability of the GPU business &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250702/p8#a250702p8)<!-- TECH:END -->
+ - [Best Internet Providers in Utah](https://www.cnet.com/home/internet/best-internet-providers-in-utah/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
