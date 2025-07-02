@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Neil Druckmann Exits The Last Of Us Show](https://kotaku.com/last-of-us-hbo-season-3-neil-druckmann-leaves-show-1851785539)
- - [Microsoft cancels Perfect Dark reboot, shuts down studio](https://www.polygon.com/gaming/606229/perfect-dark-reboot-canceled-xbox-initiative)
- - [&#39;Instantly lost all desire to even start&#39;: Mecha Break&#39;s Steam rating lands at an early &#39;Mixed&#39; as players realize the beta&#39;s customization options have been turned into MTX fodder](https://www.pcgamer.com/games/action/instantly-lost-all-desire-to-even-start-mecha-breaks-steam-rating-lands-at-an-early-mixed-as-players-realize-the-betas-customization-options-have-been-turned-into-mtx-fodder/)<!-- GAME:END -->
+ - [A Bunch Of Big PS5 Games Are On Sale Right Now](https://kotaku.com/ps5-psn-summer-july-sale-best-biggest-deals-discounts-1851785543)
+ - [Neil Druckmann exits HBO’s The Last of Us ahead of season 3](https://www.polygon.com/news/610657/neil-druckmann-exits-the-last-of-us-hbo-season-3)
+ - [Anger Foot is just funny enough to distract you from how challenging it is](https://www.polygon.com/impressions/610559/anger-foot-impression-gameplay-difficulty-humor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
