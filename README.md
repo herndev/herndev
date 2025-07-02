@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
- - ⏩ [Fellow pupil](http://9gag.com/gag/aAyvR1g)
- - 👉 [Good](http://9gag.com/gag/a6ZjWpA)<!-- MEMES:END -->
+ - 💣 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
+ - ⏩ [So dumb and stupid...who would design a revolving door like that?!](http://9gag.com/gag/aRBR68Q)
+ - 👉 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)<!-- MEMES:END -->
 
 ---
 
