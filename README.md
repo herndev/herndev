@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite review bombing, ‘censored’ shooter becomes a Steam top seller](https://www.polygon.com/news/610685/ready-or-not-steam-pc-review-bombing-console-certification)
- - [High on Life 2: all the key details on the wacky FPS&#39;s squanchin&#39; sequel](https://www.pcgamer.com/games/fps/high-on-life-2-guide/)
- - [Magic: The Gathering x Final Fantasy: How To Play Tidus&#39; FFX Deck](https://kotaku.com/magic-the-gathering-mtg-final-fantasy-ffx-tidus-yuna-1851785520)<!-- GAME:END -->
+ - [Quiz time! Can you guess which games these 10 ridiculous patch notes are from?](https://www.pcgamer.com/games/quiz-time-can-you-guess-which-games-these-10-ridiculous-patch-notes-are-from/)
+ - [Mario Kart World: How To Unlock Every Baby Outfit](https://kotaku.com/mario-kart-world-baby-outfits-mario-peach-rosalina-luig-1851785553)
+ - [Buy Now, Pay Later Is Coming To Free-To-Play Games Like Fortnite](https://kotaku.com/buy-now-pay-later-xsolla-fortnite-burrito-payment-plan-1851785550)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
