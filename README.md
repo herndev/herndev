@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
- - ⏩ [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
- - 👉 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)<!-- MEMES:END -->
+ - ⏩ [Now you are gey](http://9gag.com/gag/amopDDo)
+ - 👉 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)<!-- MEMES:END -->
 
 ---
 
