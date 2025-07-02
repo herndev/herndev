@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emulating split-screen PS2 games &lpar;and more&rpar; just got a lot easier](https://www.androidauthority.com/ps2-games-split-screen-emulation-fix-3573187/)
- - [Google hit with $314m fine for collecting data from idle Android phones without permission](https://www.androidauthority.com/google-314-million-verdict-misuse-android-user-data-3573164/)
- - [Best Internet Providers in Utah](https://www.cnet.com/home/internet/best-internet-providers-in-utah/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy S26 could be getting not one, but two battery upgrades](https://www.androidauthority.com/samsung-galaxy-26-battery-tech-upgrade-3573190/)
+ - [Alibaba plans $7B in delivery and shopping subsidies over the next 12 months, opens Singapore AI hub, and plans new data centers in Malaysia and the Philippines &lpar;Tracy Qu/Wall Street Journal&rpar;](http://www.techmeme.com/250702/p9#a250702p9)
+ - [Emulating split-screen PS2 games &lpar;and more&rpar; just got a lot easier](https://www.androidauthority.com/ps2-games-split-screen-emulation-fix-3573187/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
