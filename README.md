@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take the tediousness out of pool care with the Beatbot AquaSense 2 series](https://www.androidauthority.com/beatbot-aquasense-2-series-prime-day-3573072/)
- - [23 Best MagSafe Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)
- - [After years of rumors, Apple now has a production prototype iPhone fold](https://appleinsider.com/articles/25/07/02/after-years-of-rumors-apple-now-has-a-prototype-iphone-fold?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft is laying off as many as 9,000 employees](https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox)
+ - [Messages iOS 26 vs iOS 18: Playful, useful changes](https://appleinsider.com/inside/ios-26/vs/messages-ios-26-vs-ios-18-playful-useful-changes?utm_medium=rss)
+ - [Insurers Aren’t Saying Whether They’ll Cover Vaccines for Kids if Government Stops Recommending Them](https://www.wired.com/story/insurers-wont-say-if-theyll-pay-for-childhood-vaccines-dropped-from-recommended-schedule/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
