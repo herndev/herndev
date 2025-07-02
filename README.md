@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lorde’s new CD is so transparent that stereos can’t even read it](https://www.theverge.com/news/696805/lorde-virgin-album-transparent-cd-wont-play)
- - [TikTok users are posting AI-generated videos, seemingly made with Google&#39;s Veo 3, depicting racist and antisemitic tropes that have garnered millions of views &lpar;Abbie Richards/Media Matters for America&rpar;](http://www.techmeme.com/250702/p20#a250702p20)
- - [ICEBlock, an app for reporting sightings of ICE officials, was the top free app in the US App Store on Tuesday; the app claims to collect no personal data &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250702/p19#a250702p19)<!-- TECH:END -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/695529/best-ipad-deals-apple)
+ - [Mandatory battery throttling is coming for more Pixels with poor battery health &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-battery-health-assistance-mandatory-apk-teardown-3573263/)
+ - [Google’s mandatory Pixel 6a battery management starts arriving next week](https://www.androidauthority.com/pixel-6a-battery-limit-3573411/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
