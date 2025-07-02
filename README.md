@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Michael VS Jackson](http://9gag.com/gag/aXPKDB9)
- - ⏩ [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
- - 👉 [Now you are gey](http://9gag.com/gag/amopDDo)<!-- MEMES:END -->
+ - 💣 [Recycling](http://9gag.com/gag/a34NYBQ)
+ - ⏩ [Good](http://9gag.com/gag/a6ZjWpA)
+ - 👉 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)<!-- MEMES:END -->
 
 ---
 
