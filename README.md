@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Recycling](http://9gag.com/gag/a34NYBQ)
- - ⏩ [Good](http://9gag.com/gag/a6ZjWpA)
- - 👉 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)<!-- MEMES:END -->
+ - 💣 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
+ - ⏩ [Listen up](http://9gag.com/gag/azx4gQb)
+ - 👉 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)<!-- MEMES:END -->
 
 ---
 
