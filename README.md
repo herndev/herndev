@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, July 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-2-2025/)
  - [Ironheart finally brought a long-anticipated Marvel character into the MCU](https://www.polygon.com/marvel/610474/ironheart-mephisto-cameo-first-appearance-explained-sacha-baron-cohen)
- - [The PC game releases we&#39;re most excited about in July](https://www.pcgamer.com/games/july-2025-pc-game-release-calendar/)
- - [&#39;Patient gaming&#39; only gets more attractive when $70 games get heavy Steam sale discounts just months after launch](https://www.pcgamer.com/gaming-industry/patient-gaming-steam-sales-2025/)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in July](https://www.pcgamer.com/games/july-2025-pc-game-release-calendar/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
