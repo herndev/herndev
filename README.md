@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI gets serious about portable power](https://www.theverge.com/news/691111/dji-power-2000-station-price-date)
- - [Google Photos sees several app improvements](https://www.theverge.com/news/696480/google-photos-sees-several-app-improvements)
- - [iPhone owners emailed to apply for Siri privacy lawsuit&#39;s $95M settlement](https://appleinsider.com/articles/25/05/04/iphone-owners-emailed-to-apply-for-siri-privacy-lawsuits-95m-settlement?utm_medium=rss)<!-- TECH:END -->
+ - [Google quietly revamps Android’s permission dialogs for a sleeker design for some](https://www.androidauthority.com/android-16-permissions-dialog-redesign-3573255/)
+ - [Google Messages is hiding a useful text formatting feature from users](https://www.androidauthority.com/google-messages-text-formatting-hidden-3573107/)
+ - [Business Class Ain’t What It Used to Be. Don’t Tell First Class](https://www.wired.com/story/business-class-gets-upgrade/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
