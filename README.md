@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Quiz time! Can you guess which games these 10 ridiculous patch notes are from?](https://www.pcgamer.com/games/quiz-time-can-you-guess-which-games-these-10-ridiculous-patch-notes-are-from/)
- - [Mario Kart World: How To Unlock Every Baby Outfit](https://kotaku.com/mario-kart-world-baby-outfits-mario-peach-rosalina-luig-1851785553)
- - [Buy Now, Pay Later Is Coming To Free-To-Play Games Like Fortnite](https://kotaku.com/buy-now-pay-later-xsolla-fortnite-burrito-payment-plan-1851785550)<!-- GAME:END -->
+ - [Blizzard ends new content development for Warcraft Rumble and lays off staff: Former employee says &#39;most&#39; of the team has been let go](https://www.pcgamer.com/gaming-industry/blizzard-ends-new-content-development-for-warcraft-rumble-and-lays-off-staff-former-employee-says-most-of-the-team-has-been-let-go/)
+ - [Persona 5: The Phantom X Revelation Cards, explained](https://www.polygon.com/persona-5-phantom-x-guides/610482/revelation-cards-space-effects-sets-how-to-get-p5x)
+ - [When is the next Pokémon Presents?](https://www.polygon.com/pokemon/610583/pokemon-presents-july-2025-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
