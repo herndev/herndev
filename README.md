@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock Inferno, Serenith, and Stellaris in Mecha Break](https://www.pcgamer.com/games/third-person-shooter/mecha-break-inferno-serenith-stellaris-unlock/)
- - [Mecha Break tier list for the best Strikers](https://www.pcgamer.com/games/third-person-shooter/mecha-break-tier-list-best-strikers/)
- - [Today&#39;s Wordle answer for Wednesday, July 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-2-2025/)<!-- GAME:END -->
+ - [Free-to-play mech brawler Mecha Break has attracted 50,000 players within 10 minutes of launching, proving our appetite for giant robots remains insatiable](https://www.pcgamer.com/games/action/free-to-play-mech-brawler-mecha-break-has-attracted-50-000-players-within-10-minutes-of-launching-proving-our-appetite-for-giant-robots-remains-insatiable/)
+ - [Mecha Break is an easy way into the mecha genre, but lacks necessary depth](https://www.polygon.com/gaming/610297/mecha-break-impressions-mech-game)
+ - [How to get mods in Mecha Break](https://www.polygon.com/guides/610370/mecha-break-mods-unlock-add-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
