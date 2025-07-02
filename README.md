@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Nintendo locked down the Switch 2’s USB-C port and broke third-party docking](https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption)
- - [You Can Still See the Aurora Borealis Tonight. Here&#39;s Where the Brightest Lights Will Glow](https://www.cnet.com/science/space/you-can-still-see-the-aurora-borealis-tonight-heres-where-the-brightest-lights-will-glow/#ftag=CAD590a51e)
- - [Phil Spencer isn’t retiring as the chief of Xbox ‘anytime soon’](https://www.theverge.com/news/696922/phil-spencer-xbox-microsoft-gaming-retiring)<!-- TECH:END -->
+ - [Prepare to Share All Your Pics With Meta If You Turn On Facebook&#39;s New AI Photo Tool](https://www.cnet.com/tech/services-and-software/prepare-to-share-all-your-pics-with-meta-if-you-turn-on-facebooks-new-ai-photo-tool/#ftag=CAD590a51e)
+ - [Google’s fix for Pixel 6A battery overheating issues arrives next week](https://www.theverge.com/news/697103/google-android16-update-pixel-6a-battery-overheating-fix-july-8)
+ - [Ripple has applied for a national banking license, which would place Ripple&#39;s dollar-backed stablecoin, RLUSD, under the US OCC&#39;s regulatory remit &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250702/p27#a250702p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
