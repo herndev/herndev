@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may need to lower MagSafe in iPhone 17 to fit hugely larger camera bumps](https://appleinsider.com/articles/25/07/02/apple-may-need-to-lower-magsafe-in-iphone-17-to-fit-hugely-larger-camera-bumps?utm_medium=rss)
- - [A French court finds three ex-Ubisoft executives, including the chief creative officer, guilty of enabling a culture of sexual and psychological harassment &lpar;Angelique Chrisafis/The Guardian&rpar;](http://www.techmeme.com/250702/p18#a250702p18)
- - [Nothing’s Android 16 update will arrive before the end of the quarter as Nothing OS 4.0](https://www.androidauthority.com/nothing-os-4-release-timeline-3573293/)<!-- TECH:END -->
+ - [Lorde’s new CD is so transparent that stereos can’t even read it](https://www.theverge.com/news/696805/lorde-virgin-album-transparent-cd-wont-play)
+ - [TikTok users are posting AI-generated videos, seemingly made with Google&#39;s Veo 3, depicting racist and antisemitic tropes that have garnered millions of views &lpar;Abbie Richards/Media Matters for America&rpar;](http://www.techmeme.com/250702/p20#a250702p20)
+ - [ICEBlock, an app for reporting sightings of ICE officials, was the top free app in the US App Store on Tuesday; the app claims to collect no personal data &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250702/p19#a250702p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
