@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor girl lol](http://9gag.com/gag/a1mEz28)
- - ⏩ [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
- - 👉 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)<!-- MEMES:END -->
+ - 💣 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - ⏩ [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
+ - 👉 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)<!-- MEMES:END -->
 
 ---
 
