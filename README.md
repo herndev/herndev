@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 could be getting not one, but two battery upgrades](https://www.androidauthority.com/samsung-galaxy-26-battery-tech-upgrade-3573190/)
- - [Alibaba plans $7B in delivery and shopping subsidies over the next 12 months, opens Singapore AI hub, and plans new data centers in Malaysia and the Philippines &lpar;Tracy Qu/Wall Street Journal&rpar;](http://www.techmeme.com/250702/p9#a250702p9)
- - [Emulating split-screen PS2 games &lpar;and more&rpar; just got a lot easier](https://www.androidauthority.com/ps2-games-split-screen-emulation-fix-3573187/)<!-- TECH:END -->
+ - [Paramount agrees to pay Trump $16 million, clearing way for multibillion-dollar merger](https://www.theverge.com/news/696422/paramount-settlement-trump-cbs-lawsuit)
+ - [This Samsung phone still hasn’t launched in the US, but it’s making waves worldwide](https://www.androidauthority.com/samsung-phone-europe-sales-us-release-3573212/)
+ - [A US judge rules that Huawei must face criminal charges in an indictment alleging racketeering, stealing trade secrets, and bank fraud tied to Iran sanctions &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250702/p10#a250702p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
