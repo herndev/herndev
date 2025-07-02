@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
- - ⏩ [Now you are gey](http://9gag.com/gag/amopDDo)
- - 👉 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)<!-- MEMES:END -->
+ - 💣 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)
+ - ⏩ [Peak bathroom design](http://9gag.com/gag/aBy499O)
+ - 👉 [Riding through the parade with style](http://9gag.com/gag/a34bo18)<!-- MEMES:END -->
 
 ---
 
