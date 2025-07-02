@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google quietly revamps Android’s permission dialogs for a sleeker design for some](https://www.androidauthority.com/android-16-permissions-dialog-redesign-3573255/)
- - [Google Messages is hiding a useful text formatting feature from users](https://www.androidauthority.com/google-messages-text-formatting-hidden-3573107/)
- - [Business Class Ain’t What It Used to Be. Don’t Tell First Class](https://www.wired.com/story/business-class-gets-upgrade/)<!-- TECH:END -->
+ - [Take the tediousness out of pool care with the Beatbot AquaSense 2 series](https://www.androidauthority.com/beatbot-aquasense-2-series-prime-day-3573072/)
+ - [23 Best MagSafe Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)
+ - [After years of rumors, Apple now has a production prototype iPhone fold](https://appleinsider.com/articles/25/07/02/after-years-of-rumors-apple-now-has-a-prototype-iphone-fold?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
