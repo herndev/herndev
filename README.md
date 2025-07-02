@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prepare to Share All Your Pics With Meta If You Turn On Facebook&#39;s New AI Photo Tool](https://www.cnet.com/tech/services-and-software/prepare-to-share-all-your-pics-with-meta-if-you-turn-on-facebooks-new-ai-photo-tool/#ftag=CAD590a51e)
- - [Google’s fix for Pixel 6A battery overheating issues arrives next week](https://www.theverge.com/news/697103/google-android16-update-pixel-6a-battery-overheating-fix-july-8)
- - [Ripple has applied for a national banking license, which would place Ripple&#39;s dollar-backed stablecoin, RLUSD, under the US OCC&#39;s regulatory remit &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250702/p27#a250702p27)<!-- TECH:END -->
+ - [How to use an iPad as a screen for the Nintendo Switch 2](https://appleinsider.com/inside/ipad/tips/how-to-use-an-ipad-as-a-screen-for-the-nintendo-switch-2?utm_medium=rss)
+ - [Zone 2 Cardio: Pros, Cons and Tips From Experts](https://www.cnet.com/health/fitness/zone-2-cardio-pros-cons-and-tips-from-experts/#ftag=CAD590a51e)
+ - [Blizzard is winding down support for its Warcraft mobile game](https://www.theverge.com/news/697128/warcraft-rumble-maintenance-mode-microsoft-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
