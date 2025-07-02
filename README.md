@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering x Final Fantasy: How to Play Y&#39;shtola&#39;s Commander Deck](https://kotaku.com/magic-the-gathering-mtg-final-fantasy-ff14-y-shtola-1851785513)
- - [I&#39;ve finally found a budget Gen 5 SSD I can recommend, a cool, calm, and collected drive available for a very reasonable sum](https://www.pcgamer.com/hardware/ssds/ive-finally-found-a-budget-gen-5-ssd-i-can-recommend-a-cool-calm-and-collected-drive-available-for-a-very-reasonable-sum/)
- - [OpenAI execs whine about the New York Times lawsuit and user privacy during live NYT event, get roasted by NYT journalist: &#39;It must be really hard when someone does something with your data you don&#39;t want them to&#39;](https://www.pcgamer.com/software/ai/openai-execs-whine-about-the-new-york-times-lawsuit-during-live-nyt-event-get-served-by-nyt-journalist-it-must-be-really-hard-when-someone-does-something-with-your-data-you-dont-want-them-to/)<!-- GAME:END -->
+ - [Lonely Mountains: Snow Riders Gets Some New Tricks up its Sleeve](https://news.xbox.com/en-us/2025/07/02/lonely-mountains-snow-riders-gets-new-tricks/)
+ - [Ironheart Just Introduced Doctor Doom’s Worst Nightmare](https://kotaku.com/marvel-ironheart-mephisto-avengers-doomsday-1851785532)
+ - [How to fight the Moon Lord in Palworld](https://www.polygon.com/palworld-guides/610287/moon-lord-summon-fight-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
