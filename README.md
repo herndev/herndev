@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
- - ⏩ [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
- - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
+ - 💣 [Poor girl lol](http://9gag.com/gag/a1mEz28)
+ - ⏩ [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
+ - 👉 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)<!-- MEMES:END -->
 
 ---
 
