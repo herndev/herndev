@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How I keep my PC and desktop clean with cuddly cats all around me: a $20 handheld air blower](https://www.pcgamer.com/hardware/how-i-keep-my-pc-and-desktop-clean-with-cuddly-cats-all-around-me-a-usd20-handheld-air-blower/)
- - [Intel&#39;s ex-CEO said he bet the company on the 18A node but now a new report claims Intel is pushing customers to next-gen 14A instead](https://www.pcgamer.com/hardware/processors/intels-ex-ceo-said-he-bet-the-company-on-the-18a-node-but-now-a-new-report-claims-intel-is-pushing-customers-to-next-gen-14a-instead/)
- - [When Microsoft finally pulls the plug on Windows 10 its successor will be four years old, and for three of those, it was never the OS of choice amongst Steam users](https://www.pcgamer.com/software/windows/when-microsoft-finally-pulls-the-plug-on-windows-10-its-successor-will-be-four-years-old-and-for-three-of-those-it-was-never-the-os-of-choice-amongst-steam-users/)<!-- GAME:END -->
+ - [Xbox VR might be my handheld of choice](https://www.polygon.com/gaming/610167/xbox-vr-handheld-quest-3s-game-pass)
+ - [How to change character in Mecha Break](https://www.pcgamer.com/games/third-person-shooter/mecha-break-change-character-appearance/)
+ - [To the surprise of nobody, sales of the 16 GB RTX 5060 Ti at retailer Mindfactory outstrip the 8 GB version by a factor of 16](https://www.pcgamer.com/hardware/graphics-cards/to-the-surprise-of-nobody-sales-of-the-16-gb-rtx-5060-ti-at-retailer-mindfactory-outstrip-the-8-gb-version-by-a-factor-of-16/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
