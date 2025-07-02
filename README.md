@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative](https://www.wired.com/story/subscriber-only-livestream-replay-chatbot-basics-beginner-advice-for-claude/)
- - [Google Now returns? Gemini Space could bring a Daily Hub feature to Pixels &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-space-daily-hub-apk-teardown-3573200/)
- - [Sources: Foxconn recalled 300+ Chinese engineers from its Indian iPhone factories over the past two months, a blow for Apple as it ramps up iPhone 17 production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p11#a250702p11)<!-- TECH:END -->
+ - [DJI gets serious about portable power](https://www.theverge.com/news/691111/dji-power-2000-station-price-date)
+ - [Google Photos sees several app improvements](https://www.theverge.com/news/696480/google-photos-sees-several-app-improvements)
+ - [iPhone owners emailed to apply for Siri privacy lawsuit&#39;s $95M settlement](https://appleinsider.com/articles/25/05/04/iphone-owners-emailed-to-apply-for-siri-privacy-lawsuits-95m-settlement?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
