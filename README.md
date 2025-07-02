@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
- - ⏩ [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
- - 👉 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)<!-- MEMES:END -->
+ - 💣 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
+ - ⏩ [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
+ - 👉 [Delusion](http://9gag.com/gag/aByOD3N)<!-- MEMES:END -->
 
 ---
 
