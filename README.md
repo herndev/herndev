@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, July 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-2/#ftag=CAD590a51e)
- - [Tired of surprise plan changes? AT&amp;T’s new Wireless Account Lock feature has you covered](https://www.androidauthority.com/att-wireless-account-lock-3573133/)
- - [Sources: Intel is considering ending marketing of its 18A process to new clients and writing off investments, focusing instead on 14A to compete with TSMC &lpar;Reuters&rpar;](http://www.techmeme.com/250701/p30#a250701p30)<!-- TECH:END -->
+ - [TikTok launches its e-commerce platform, TikTok Shop, in Japan, marking its 17th market, following launches in the US, the UK, Malaysia, Thailand, and others &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/250702/p3#a250702p3)
+ - [Qantas discloses a data breach after hackers gained access to a third-party platform with personal data of 6M customers, but says no financial info was exposed &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250702/p2#a250702p2)
+ - [Google ends its Recipe Quick View pilot, which showed full recipes directly in search results, after some bloggers feared it would reduce traffic to their sites &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p1#a250702p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
