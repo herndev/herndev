@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
- - ⏩ [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
- - 👉 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)<!-- MEMES:END -->
+ - 💣 [Michael VS Jackson](http://9gag.com/gag/aXPKDB9)
+ - ⏩ [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
+ - 👉 [Now you are gey](http://9gag.com/gag/amopDDo)<!-- MEMES:END -->
 
 ---
 
