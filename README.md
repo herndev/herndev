@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPad deals you can get right now](https://www.theverge.com/695529/best-ipad-deals-apple)
- - [Mandatory battery throttling is coming for more Pixels with poor battery health &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-battery-health-assistance-mandatory-apk-teardown-3573263/)
- - [Google’s mandatory Pixel 6a battery management starts arriving next week](https://www.androidauthority.com/pixel-6a-battery-limit-3573411/)<!-- TECH:END -->
+ - [Analysis: crypto ventures have added at least $620M to President Trump&#39;s fortune in months, overshadowing traditional real estate licensing deals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p23#a250702p23)
+ - [Three former Ubisoft executives are convicted of sexual and psychological harassment](https://www.theverge.com/games/696996/ubisoft-me-too-former-executive-convictions)
+ - [Amazon is offering a like-new Kindle Paperwhite 2024 for just $107](https://www.theverge.com/tech/696906/kindle-paperwhite-refurbished-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
