@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
- - ⏩ [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
- - 👉 [Delusion](http://9gag.com/gag/aByOD3N)<!-- MEMES:END -->
+ - 💣 [Remembering the midnight the world&#39;s computers were supposed to crash.](http://9gag.com/gag/aAyOWYd)
+ - ⏩ [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - 👉 [Movie is `Split` by M. Night Ramalam Ding Dong](http://9gag.com/gag/aRBO535)<!-- MEMES:END -->
 
 ---
 
