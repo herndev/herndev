@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tamagotchi Plaza cured my insomnia](https://www.polygon.com/gaming/610456/tamagotchi-plaza-impressions-switch-2)
- - [How to get Mission Tokens in Mecha Break](https://www.pcgamer.com/games/third-person-shooter/mecha-break-mission-tokens-points/)
- - [How to get Matrix Credits in Mecha Break](https://www.pcgamer.com/games/third-person-shooter/mecha-break-matrix-credits/)<!-- GAME:END -->
+ - [Final Fantasy 14 is fast-tracking one of my most-anticipated fixes, releasing an entire month earlier than expected](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-is-fast-tracking-one-of-my-most-anticipated-fixes-releasing-an-entire-month-earlier-than-expected/)
+ - [Rare’s Everwild canceled amid layoffs at Xbox](https://www.polygon.com/news/610607/rare-everwild-canceled-xbox-game-studios-layoffs)
+ - [Persona 5: The Phantom X has blessed the community with a new sh**posting mascot so corny it eclipses the nuance around the real-world issues he represents](https://www.pcgamer.com/games/rpg/persona-5-the-phantom-x-has-blessed-the-community-with-a-new-sh-posting-mascot-so-corny-it-eclipses-the-nuance-around-the-real-world-issues-he-represents/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
