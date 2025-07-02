@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount agrees to pay Trump $16 million, clearing way for multibillion-dollar merger](https://www.theverge.com/news/696422/paramount-settlement-trump-cbs-lawsuit)
- - [This Samsung phone still hasn’t launched in the US, but it’s making waves worldwide](https://www.androidauthority.com/samsung-phone-europe-sales-us-release-3573212/)
- - [A US judge rules that Huawei must face criminal charges in an indictment alleging racketeering, stealing trade secrets, and bank fraud tied to Iran sanctions &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250702/p10#a250702p10)<!-- TECH:END -->
+ - [Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative](https://www.wired.com/story/subscriber-only-livestream-replay-chatbot-basics-beginner-advice-for-claude/)
+ - [Google Now returns? Gemini Space could bring a Daily Hub feature to Pixels &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-space-daily-hub-apk-teardown-3573200/)
+ - [Sources: Foxconn recalled 300+ Chinese engineers from its Indian iPhone factories over the past two months, a blow for Apple as it ramps up iPhone 17 production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p11#a250702p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
