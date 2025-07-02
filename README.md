@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Listen up](http://9gag.com/gag/azx4gQb)
- - ⏩ [Get woke, go broke.](http://9gag.com/gag/awyYqyr)
- - 👉 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)<!-- MEMES:END -->
+ - 💣 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
+ - ⏩ [Now you are gey](http://9gag.com/gag/amopDDo)
+ - 👉 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)<!-- MEMES:END -->
 
 ---
 
