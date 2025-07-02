@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
- - ⏩ [So dumb and stupid...who would design a revolving door like that?!](http://9gag.com/gag/aRBR68Q)
- - 👉 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)<!-- MEMES:END -->
+ - ⏩ [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - 👉 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)<!-- MEMES:END -->
 
 ---
 
