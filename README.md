@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox VR might be my handheld of choice](https://www.polygon.com/gaming/610167/xbox-vr-handheld-quest-3s-game-pass)
- - [How to change character in Mecha Break](https://www.pcgamer.com/games/third-person-shooter/mecha-break-change-character-appearance/)
- - [To the surprise of nobody, sales of the 16 GB RTX 5060 Ti at retailer Mindfactory outstrip the 8 GB version by a factor of 16](https://www.pcgamer.com/hardware/graphics-cards/to-the-surprise-of-nobody-sales-of-the-16-gb-rtx-5060-ti-at-retailer-mindfactory-outstrip-the-8-gb-version-by-a-factor-of-16/)<!-- GAME:END -->
+ - [Mecha Break ranks explained](https://www.pcgamer.com/games/third-person-shooter/mecha-break-ranks-list/)
+ - [Fans are calling Death Stranding 2 the first ‘real’ PS5 game, but what does that mean?](https://www.polygon.com/gaming/610250/death-stranding-2-on-the-beach-real-ps5-game-ps6-graphics)
+ - [After more than a year of conflict woes between Bigscreen Beyond VR headsets, Nvidia GPUs and Linux, there&#39;s good news at long last as a fix is nearly in sight](https://www.pcgamer.com/hardware/vr-hardware/after-more-than-a-year-of-conflict-woes-between-bigscreen-beyond-vr-headsets-nvidia-gpus-and-linux-theres-good-news-at-long-last-as-a-fix-is-nearly-in-sight/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
