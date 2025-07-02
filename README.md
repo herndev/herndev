@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use an iPad as a screen for the Nintendo Switch 2](https://appleinsider.com/inside/ipad/tips/how-to-use-an-ipad-as-a-screen-for-the-nintendo-switch-2?utm_medium=rss)
- - [Zone 2 Cardio: Pros, Cons and Tips From Experts](https://www.cnet.com/health/fitness/zone-2-cardio-pros-cons-and-tips-from-experts/#ftag=CAD590a51e)
- - [Blizzard is winding down support for its Warcraft mobile game](https://www.theverge.com/news/697128/warcraft-rumble-maintenance-mode-microsoft-layoffs)<!-- TECH:END -->
+ - [Carrera Smart Glasses drop to a new record-low price, nearly half off](https://www.androidauthority.com/carrera-smart-glasses-deal-3573509/)
+ - [Racist videos made with AI are going viral on TikTok](https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok)
+ - [Microsoft&#39;s &#39;Blue Screen of Death&#39; Dies After 40 Years: Meet Its Replacement](https://www.cnet.com/tech/services-and-software/microsofts-blue-screen-of-death-dies-after-40-years-of-memes-jokes-t-shirts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
