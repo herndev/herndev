@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 is fast-tracking one of my most-anticipated fixes, releasing an entire month earlier than expected](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-is-fast-tracking-one-of-my-most-anticipated-fixes-releasing-an-entire-month-earlier-than-expected/)
- - [Rare’s Everwild canceled amid layoffs at Xbox](https://www.polygon.com/news/610607/rare-everwild-canceled-xbox-game-studios-layoffs)
- - [Persona 5: The Phantom X has blessed the community with a new sh**posting mascot so corny it eclipses the nuance around the real-world issues he represents](https://www.pcgamer.com/games/rpg/persona-5-the-phantom-x-has-blessed-the-community-with-a-new-sh-posting-mascot-so-corny-it-eclipses-the-nuance-around-the-real-world-issues-he-represents/)<!-- GAME:END -->
+ - [Magic: The Gathering x Final Fantasy: How to Play Y&#39;shtola&#39;s Commander Deck](https://kotaku.com/magic-the-gathering-mtg-final-fantasy-ff14-y-shtola-1851785513)
+ - [I&#39;ve finally found a budget Gen 5 SSD I can recommend, a cool, calm, and collected drive available for a very reasonable sum](https://www.pcgamer.com/hardware/ssds/ive-finally-found-a-budget-gen-5-ssd-i-can-recommend-a-cool-calm-and-collected-drive-available-for-a-very-reasonable-sum/)
+ - [OpenAI execs whine about the New York Times lawsuit and user privacy during live NYT event, get roasted by NYT journalist: &#39;It must be really hard when someone does something with your data you don&#39;t want them to&#39;](https://www.pcgamer.com/software/ai/openai-execs-whine-about-the-new-york-times-lawsuit-during-live-nyt-event-get-served-by-nyt-journalist-it-must-be-really-hard-when-someone-does-something-with-your-data-you-dont-want-them-to/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
