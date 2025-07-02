@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
- - ⏩ [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
- - 👉 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)<!-- MEMES:END -->
+ - 💣 [Poor girl lol](http://9gag.com/gag/a1mEz28)
+ - ⏩ [Bad scientist doing bad science](http://9gag.com/gag/aqyY3wp)
+ - 👉 [A legendary final meal](http://9gag.com/gag/aRBO5jy)<!-- MEMES:END -->
 
 ---
 
