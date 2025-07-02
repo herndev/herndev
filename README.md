@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
- - ⏩ [Listen up](http://9gag.com/gag/azx4gQb)
- - 👉 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)<!-- MEMES:END -->
+ - 💣 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
+ - ⏩ [Fellow pupil](http://9gag.com/gag/aAyvR1g)
+ - 👉 [Good](http://9gag.com/gag/a6ZjWpA)<!-- MEMES:END -->
 
 ---
 
