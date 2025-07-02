@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free-to-play mech brawler Mecha Break has attracted 50,000 players within 10 minutes of launching, proving our appetite for giant robots remains insatiable](https://www.pcgamer.com/games/action/free-to-play-mech-brawler-mecha-break-has-attracted-50-000-players-within-10-minutes-of-launching-proving-our-appetite-for-giant-robots-remains-insatiable/)
- - [Mecha Break is an easy way into the mecha genre, but lacks necessary depth](https://www.polygon.com/gaming/610297/mecha-break-impressions-mech-game)
- - [How to get mods in Mecha Break](https://www.polygon.com/guides/610370/mecha-break-mods-unlock-add-how-to-get)<!-- GAME:END -->
+ - [All Mecha Break Twitch Drops and how to get them](https://www.pcgamer.com/games/third-person-shooter/mecha-break-twitch-drops/)
+ - [How to redeem Mecha Break codes](https://www.pcgamer.com/games/third-person-shooter/mecha-break-codes/)
+ - [Mecha Break events schedule and rewards](https://www.pcgamer.com/games/third-person-shooter/mecha-break-events-schedule/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
