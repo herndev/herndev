@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)
- - ⏩ [So dumb and stupid...who would design a revolving door like that?!](http://9gag.com/gag/aRBR68Q)
- - 👉 [Recycling](http://9gag.com/gag/a34NYBQ)<!-- MEMES:END -->
+ - 💣 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
+ - ⏩ [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
+ - 👉 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)<!-- MEMES:END -->
 
 ---
 
