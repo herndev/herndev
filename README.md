@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
- - ⏩ [Bad scientist doing bad science](http://9gag.com/gag/aqyY3wp)
- - 👉 [Good](http://9gag.com/gag/a6ZjWpA)<!-- MEMES:END -->
+ - 💣 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
+ - ⏩ [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - 👉 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)<!-- MEMES:END -->
 
 ---
 
