@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is laying off as many as 9,000 employees](https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox)
- - [Messages iOS 26 vs iOS 18: Playful, useful changes](https://appleinsider.com/inside/ios-26/vs/messages-ios-26-vs-ios-18-playful-useful-changes?utm_medium=rss)
- - [Insurers Aren’t Saying Whether They’ll Cover Vaccines for Kids if Government Stops Recommending Them](https://www.wired.com/story/insurers-wont-say-if-theyll-pay-for-childhood-vaccines-dropped-from-recommended-schedule/)<!-- TECH:END -->
+ - [Apple may need to lower MagSafe in iPhone 17 to fit hugely larger camera bumps](https://appleinsider.com/articles/25/07/02/apple-may-need-to-lower-magsafe-in-iphone-17-to-fit-hugely-larger-camera-bumps?utm_medium=rss)
+ - [A French court finds three ex-Ubisoft executives, including the chief creative officer, guilty of enabling a culture of sexual and psychological harassment &lpar;Angelique Chrisafis/The Guardian&rpar;](http://www.techmeme.com/250702/p18#a250702p18)
+ - [Nothing’s Android 16 update will arrive before the end of the quarter as Nothing OS 4.0](https://www.androidauthority.com/nothing-os-4-release-timeline-3573293/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
