@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)
- - ⏩ [Peak bathroom design](http://9gag.com/gag/aBy499O)
- - 👉 [Riding through the parade with style](http://9gag.com/gag/a34bo18)<!-- MEMES:END -->
+ - 💣 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
+ - ⏩ [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
+ - 👉 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)<!-- MEMES:END -->
 
 ---
 
