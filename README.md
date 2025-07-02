@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lonely Mountains: Snow Riders Gets Some New Tricks up its Sleeve](https://news.xbox.com/en-us/2025/07/02/lonely-mountains-snow-riders-gets-new-tricks/)
- - [Ironheart Just Introduced Doctor Doom’s Worst Nightmare](https://kotaku.com/marvel-ironheart-mephisto-avengers-doomsday-1851785532)
- - [How to fight the Moon Lord in Palworld](https://www.polygon.com/palworld-guides/610287/moon-lord-summon-fight-location)<!-- GAME:END -->
+ - [Neil Druckmann Exits The Last Of Us Show](https://kotaku.com/last-of-us-hbo-season-3-neil-druckmann-leaves-show-1851785539)
+ - [Microsoft cancels Perfect Dark reboot, shuts down studio](https://www.polygon.com/gaming/606229/perfect-dark-reboot-canceled-xbox-initiative)
+ - [&#39;Instantly lost all desire to even start&#39;: Mecha Break&#39;s Steam rating lands at an early &#39;Mixed&#39; as players realize the beta&#39;s customization options have been turned into MTX fodder](https://www.pcgamer.com/games/action/instantly-lost-all-desire-to-even-start-mecha-breaks-steam-rating-lands-at-an-early-mixed-as-players-realize-the-betas-customization-options-have-been-turned-into-mtx-fodder/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
