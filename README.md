@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mecha Break ranks explained](https://www.pcgamer.com/games/third-person-shooter/mecha-break-ranks-list/)
- - [Fans are calling Death Stranding 2 the first ‘real’ PS5 game, but what does that mean?](https://www.polygon.com/gaming/610250/death-stranding-2-on-the-beach-real-ps5-game-ps6-graphics)
- - [After more than a year of conflict woes between Bigscreen Beyond VR headsets, Nvidia GPUs and Linux, there&#39;s good news at long last as a fix is nearly in sight](https://www.pcgamer.com/hardware/vr-hardware/after-more-than-a-year-of-conflict-woes-between-bigscreen-beyond-vr-headsets-nvidia-gpus-and-linux-theres-good-news-at-long-last-as-a-fix-is-nearly-in-sight/)<!-- GAME:END -->
+ - [Tamagotchi Plaza cured my insomnia](https://www.polygon.com/gaming/610456/tamagotchi-plaza-impressions-switch-2)
+ - [How to get Mission Tokens in Mecha Break](https://www.pcgamer.com/games/third-person-shooter/mecha-break-mission-tokens-points/)
+ - [How to get Matrix Credits in Mecha Break](https://www.pcgamer.com/games/third-person-shooter/mecha-break-matrix-credits/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
