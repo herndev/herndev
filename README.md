@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor girl lol](http://9gag.com/gag/a1mEz28)
- - ⏩ [Good](http://9gag.com/gag/a6ZjWpA)
- - 👉 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)<!-- MEMES:END -->
+ - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - ⏩ [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
+ - 👉 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)<!-- MEMES:END -->
 
 ---
 
