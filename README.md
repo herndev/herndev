@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Bunch Of Big PS5 Games Are On Sale Right Now](https://kotaku.com/ps5-psn-summer-july-sale-best-biggest-deals-discounts-1851785543)
- - [Neil Druckmann exits HBO’s The Last of Us ahead of season 3](https://www.polygon.com/news/610657/neil-druckmann-exits-the-last-of-us-hbo-season-3)
- - [Anger Foot is just funny enough to distract you from how challenging it is](https://www.polygon.com/impressions/610559/anger-foot-impression-gameplay-difficulty-humor)<!-- GAME:END -->
+ - [Despite review bombing, ‘censored’ shooter becomes a Steam top seller](https://www.polygon.com/news/610685/ready-or-not-steam-pc-review-bombing-console-certification)
+ - [High on Life 2: all the key details on the wacky FPS&#39;s squanchin&#39; sequel](https://www.pcgamer.com/games/fps/high-on-life-2-guide/)
+ - [Magic: The Gathering x Final Fantasy: How To Play Tidus&#39; FFX Deck](https://kotaku.com/magic-the-gathering-mtg-final-fantasy-ffx-tidus-yuna-1851785520)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
