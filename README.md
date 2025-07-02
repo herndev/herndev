@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor girl lol](http://9gag.com/gag/a1mEz28)
+ - 💣 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
  - ⏩ [Bad scientist doing bad science](http://9gag.com/gag/aqyY3wp)
- - 👉 [A legendary final meal](http://9gag.com/gag/aRBO5jy)<!-- MEMES:END -->
+ - 👉 [Good](http://9gag.com/gag/a6ZjWpA)<!-- MEMES:END -->
 
 ---
 
