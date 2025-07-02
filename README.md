@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ironheart finally brought a long-anticipated Marvel character into the MCU](https://www.polygon.com/marvel/610474/ironheart-mephisto-cameo-first-appearance-explained-sacha-baron-cohen)
  - [The PC game releases we&#39;re most excited about in July](https://www.pcgamer.com/games/july-2025-pc-game-release-calendar/)
- - [&#39;Patient gaming&#39; only gets more attractive when $70 games get heavy Steam sale discounts just months after launch](https://www.pcgamer.com/gaming-industry/patient-gaming-steam-sales-2025/)
- - [All celebrity cameos and cast in Death Stranding 2: On the Beach](https://www.polygon.com/guides/609570/death-stranding-2-cameos-celebrities-cast-all-where-to-find)<!-- GAME:END -->
+ - [&#39;Patient gaming&#39; only gets more attractive when $70 games get heavy Steam sale discounts just months after launch](https://www.pcgamer.com/gaming-industry/patient-gaming-steam-sales-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
