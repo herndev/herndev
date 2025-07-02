@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Intel is considering ending marketing of its 18A process to new clients and writing off investments, focusing instead on 14A to compete with TSMC &lpar;Reuters&rpar;](http://www.techmeme.com/250701/p30#a250701p30)
- - [How to use search and other features in the iOS 18 Journal app](https://appleinsider.com/inside/ios-18/tips/how-to-use-search-and-other-new-features-in-the-ios-18-journal-app?utm_medium=rss)
- - [Google Photos is getting a brand-new Photo view, but Android users will have to wait](https://www.androidauthority.com/google-photos-redesigned-photo-view-3573126/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, July 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-2/#ftag=CAD590a51e)
+ - [Tired of surprise plan changes? AT&amp;T’s new Wireless Account Lock feature has you covered](https://www.androidauthority.com/att-wireless-account-lock-3573133/)
+ - [Sources: Intel is considering ending marketing of its 18A process to new clients and writing off investments, focusing instead on 14A to compete with TSMC &lpar;Reuters&rpar;](http://www.techmeme.com/250701/p30#a250701p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
