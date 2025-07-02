@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remembering the midnight the world&#39;s computers were supposed to crash.](http://9gag.com/gag/aAyOWYd)
- - ⏩ [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
- - 👉 [Movie is `Split` by M. Night Ramalam Ding Dong](http://9gag.com/gag/aRBO535)<!-- MEMES:END -->
+ - 💣 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
+ - ⏩ [Suspicious](http://9gag.com/gag/azxY68q)
+ - 👉 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)<!-- MEMES:END -->
 
 ---
 
