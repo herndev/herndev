@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A guide to the best sci-fi streaming this summer](https://www.theverge.com/streaming-wars/695388/summer-sci-fi-streaming-2025-murderbot-alien-earth)
- - [Apple Product identifiers have leaked every Mac release through 2026](https://appleinsider.com/articles/25/07/03/apple-product-identifiers-have-leaked-every-mac-release-through-2026?utm_medium=rss)
- - [Best Family Phone Plans for 2025](https://www.cnet.com/tech/mobile/best-family-phone-plan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung&#39;s One UI 8 build animation files show its future tri-fold phone, with three rear panels and two inward-folding hinges, rumored to be the Galaxy G Fold &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/250703/p18#a250703p18)
+ - [Fight me! $799 is a great price for the Nothing Phone 3](https://www.androidauthority.com/nothing-phone-3-price-is-right-3573261/)
+ - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
