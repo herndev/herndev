@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung tri-fold’s eye-watering price tag may not be the only thing stopping you from buying it](https://www.androidauthority.com/samsung-galaxy-g-fold-leaked-specs-pricing-availability-3573749/)
- - [Deerhoof did not want its music ‘funding AI battle tech’ — so it ditched Spotify](https://www.theverge.com/ai-artificial-intelligence/697337/deerhoof-greg-saunier-spotify-ai)
- - [The Open Platform, a key TON developer that is behind Telegram&#39;s Wallet, raised a $28.5M Series A at a $1B valuation, bringing its total funding to $70M+ &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250703/p22#a250703p22)<!-- TECH:END -->
+ - [Paramount Plus slashes prices to $2 for two months](https://www.theverge.com/tech/697560/paramount-plus-star-trek-strange-new-worlds-deal-sale)
+ - [Apple’s colorful Watch Solo Loop bands are up to 70 percent off now](https://www.theverge.com/tech/697526/apple-watch-band-solo-loop-prime-day-deal-sale)
+ - [Apple Music iOS 26 vs iOS 18: AutoMix, Liquid Glass, and lyrics in your language](https://appleinsider.com/inside/apple-music/vs/apple-music-ios-26-vs-ios-18-automix-liquid-glass-and-lyrics-in-your-language?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
