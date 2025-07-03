@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ups, they did it again.](http://9gag.com/gag/aYQRbrO)
- - ⏩ [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
- - 👉 [Marriage](http://9gag.com/gag/amoRN6V)<!-- MEMES:END -->
+ - 💣 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
+ - ⏩ [Fellow beer enthusiast](http://9gag.com/gag/a2vOY1Z)
+ - 👉 [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)<!-- MEMES:END -->
 
 ---
 
