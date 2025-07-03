@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
- - ⏩ [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
- - 👉 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)<!-- MEMES:END -->
+ - 💣 [Will you eat that...?](http://9gag.com/gag/ajPRrEG)
+ - ⏩ [Fellow pupil](http://9gag.com/gag/aAyvR1g)
+ - 👉 [One piece](http://9gag.com/gag/aKGKw6j)<!-- MEMES:END -->
 
 ---
 
