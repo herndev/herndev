@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Temu version](http://9gag.com/gag/ajPR660)
+ - 💣 [That&#39;ll buff out](http://9gag.com/gag/aD2QRgK)
  - ⏩ [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
- - 👉 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)<!-- MEMES:END -->
+ - 👉 [Marriage](http://9gag.com/gag/amoRN6V)<!-- MEMES:END -->
 
 ---
 
