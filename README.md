@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Datadog is joining the S&amp;P 500, replacing Juniper Networks after HPE acquired Juniper, before trading on July 9; DDOG jumps 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250702/p30#a250702p30)
- - [xAI has been granted a permit to operate 15 gas turbines at its Memphis campus until 2027, despite protests and a potential NAACP lawsuit over air pollution &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/250702/p29#a250702p29)
- - [Deal: Narwal Fro Pro robot cleaner plummets to $400, a new record-low price](https://www.androidauthority.com/narwal-fro-pro-robot-vacuum-mop-deal-3573508/)<!-- TECH:END -->
+ - [Save $350 on a spec’d out Samsung Galaxy Book 5 Pro laptop](https://www.androidauthority.com/samsung-galaxy-book-5-pro-deal-3573507/)
+ - [Siemens says it has restored full access to its chip design software for its Chinese clients after the Trump admin lifted export curbs, initially imposed in May &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250702/p31#a250702p31)
+ - [Datadog is joining the S&amp;P 500, replacing Juniper Networks after HPE acquired Juniper, before trading on July 9; DDOG jumps 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250702/p30#a250702p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
