@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin&#39;s implied volatility declined to the lowest level in two years, showing decreased price swings and trading between $93K to $111K in the past two months &lpar;Kirk Ogunrinde/Bloomberg&rpar;](http://www.techmeme.com/250703/p9#a250703p9)
- - [Similarweb: since the launch of Google&#39;s AI Overviews, the number of news searches that result in no click-throughs grew from 56% in May 2024 to 69% in May 2025 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250703/p8#a250703p8)
- - [This crazy thin foldable embarrasses the Galaxy Z Fold 7 even before its launch](https://www.androidauthority.com/honor-magic-v5-worlds-slimmest-foldable-launched-3573639/)<!-- TECH:END -->
+ - [Researchers detail Centaur, a modified version of Llama trained on 10M+ responses from 160 psychological experiments, in an attempt to mimic human cognition &lpar;Carl Zimmer/New York Times&rpar;](http://www.techmeme.com/250703/p12#a250703p12)
+ - [Exclusive: One UI 8 gives us our first look at Samsung’s upcoming tri-fold phone](https://www.androidauthority.com/samsung-galaxy-g-fold-exclusive-animation-leak-3573652/)
+ - [Google’s customizable Gemini chatbots are now in Docs, Sheets, and Gmail](https://www.theverge.com/news/697352/google-gemini-gems-workspace-apps-docs-gmail)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
