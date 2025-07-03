@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Chinese universities are using AI detection tools to screen papers, but false positives force students to &quot;dumb down&quot; content or pay for rewriting services &lpar;Peiyue Wu/Rest of World&rpar;](http://www.techmeme.com/250702/p32#a250702p32)
- - [Save $350 on a spec’d out Samsung Galaxy Book 5 Pro laptop](https://www.androidauthority.com/samsung-galaxy-book-5-pro-deal-3573507/)
- - [Siemens says it has restored full access to its chip design software for its Chinese clients after the Trump admin lifted export curbs, initially imposed in May &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250702/p31#a250702p31)<!-- TECH:END -->
+ - [US Mobile’s firecracker $249 Pixel 9 deal is coming back for the Fourth of July](https://www.androidauthority.com/us-mobile-pixel-9-249-dollars-july-4-deal-3573584/)
+ - [Baidu overhauls its search engine with AI features and a voice function in its most sweeping revamp in years, and rolls out its first image-to-video model &lpar;Bloomberg&rpar;](http://www.techmeme.com/250703/p1#a250703p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, July 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-july-3/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
