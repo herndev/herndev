@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doraemon live action](http://9gag.com/gag/ary8pbX)
- - ⏩ [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)
- - 👉 [BANGER!](http://9gag.com/gag/ayNv568)<!-- MEMES:END -->
+ - 💣 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
+ - ⏩ [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 👉 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)<!-- MEMES:END -->
 
 ---
 
