@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Companies need to stop shoehorning AI where it doesn&#39;t belong.](http://9gag.com/gag/aRBRQeB)
- - ⏩ [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 👉 [Always when he win](http://9gag.com/gag/adBR0qB)<!-- MEMES:END -->
+ - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - ⏩ [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
+ - 👉 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)<!-- MEMES:END -->
 
 ---
 
