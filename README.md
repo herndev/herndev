@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Again?!!!](http://9gag.com/gag/awyebrx)
- - ⏩ [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
- - 👉 [Fellow weeb, your wife is waiting...](http://9gag.com/gag/aXPRpnb)<!-- MEMES:END -->
+ - 💣 [I did that once](http://9gag.com/gag/a4PwKx6)
+ - ⏩ [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)
+ - 👉 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)<!-- MEMES:END -->
 
 ---
 
