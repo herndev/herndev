@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mixpanel founder Suhail Doshi calls out Soham Parekh, who he says &quot;works at 3-4 startups at the same time&quot; and has &quot;been preying on YC companies and more&quot; &lpar;Bhavya Sukheja/NDTV&rpar;](http://www.techmeme.com/250703/p15#a250703p15)
- - [ASML, Mistral, SAP, and 110+ European companies urge the EU to delay the implementation of its AI Act, saying it puts the bloc&#39;s AI ambitions at risk &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250703/p14#a250703p14)
- - [12 Best Coffee Subscriptions &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
+ - [A guide to the best sci-fi streaming this summer](https://www.theverge.com/streaming-wars/695388/summer-sci-fi-streaming-2025-murderbot-alien-earth)
+ - [Apple Product identifiers have leaked every Mac release through 2026](https://appleinsider.com/articles/25/07/03/apple-product-identifiers-have-leaked-every-mac-release-through-2026?utm_medium=rss)
+ - [Best Family Phone Plans for 2025](https://www.cnet.com/tech/mobile/best-family-phone-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
