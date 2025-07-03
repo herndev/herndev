@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite Protests, Elon Musk Secures Air Permit for xAI](https://www.wired.com/story/xai-data-center-air-pollution-permit/)
- - [The best Apple deals you can shop ahead of Amazon Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [Carrera Smart Glasses drop to a new record-low price, nearly half off](https://www.androidauthority.com/carrera-smart-glasses-deal-3573509/)<!-- TECH:END -->
+ - [Datadog is joining the S&amp;P 500, replacing Juniper Networks after HPE acquired Juniper, before trading on July 9; DDOG jumps 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250702/p30#a250702p30)
+ - [xAI has been granted a permit to operate 15 gas turbines at its Memphis campus until 2027, despite protests and a potential NAACP lawsuit over air pollution &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/250702/p29#a250702p29)
+ - [Deal: Narwal Fro Pro robot cleaner plummets to $400, a new record-low price](https://www.androidauthority.com/narwal-fro-pro-robot-vacuum-mop-deal-3573508/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
