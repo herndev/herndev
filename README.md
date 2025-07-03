@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doraemon live action](http://9gag.com/gag/ary8pbX)
- - ⏩ [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)
- - 👉 [BANGER!](http://9gag.com/gag/ayNv568)<!-- MEMES:END -->
+ - 💣 [The Last Rizz Bender](http://9gag.com/gag/aAyvBnL)
+ - ⏩ [So dumb and stupid...who would design a revolving door like that?!](http://9gag.com/gag/aRBR68Q)
+ - 👉 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)<!-- MEMES:END -->
 
 ---
 
