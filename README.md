@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;ll buff out](http://9gag.com/gag/aD2QRgK)
- - ⏩ [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
- - 👉 [Marriage](http://9gag.com/gag/amoRN6V)<!-- MEMES:END -->
+ - 💣 [Again?!!!](http://9gag.com/gag/awyebrx)
+ - ⏩ [Doraemon live action](http://9gag.com/gag/ary8pbX)
+ - 👉 [Can relate](http://9gag.com/gag/aBy49yP)<!-- MEMES:END -->
 
 ---
 
