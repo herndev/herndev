@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The commitment was real](http://9gag.com/gag/aqyDZnR)
- - ⏩ [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 👉 [American Dream](http://9gag.com/gag/aBy4QpQ)<!-- MEMES:END -->
+ - 💣 [Recycling](http://9gag.com/gag/a34NYBQ)
+ - ⏩ [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
+ - 👉 [Found them](http://9gag.com/gag/ary8pW7)<!-- MEMES:END -->
 
 ---
 
