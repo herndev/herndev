@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Original Doom Designer&#39;s New FPS Is The Latest Casualty Of The Xbox Cuts](https://kotaku.com/john-brenda-romero-games-fps-doom-xbox-bethesda-1851785577)
- - [Capcom&#39;s financials show that embracing Steam has paid off handsomely: It now accounts for a third of all the publisher&#39;s revenue](https://www.pcgamer.com/games/capcoms-financials-show-that-embracing-steam-has-paid-off-handsomely-it-now-accounts-for-a-third-of-all-the-publishers-revenue/)
- - [Massive PS5 Hit Helldivers 2 Is Coming To Xbox This August As Console Exclusivity Wall Comes Down](https://kotaku.com/helldivers-2-xbox-series-x-s-release-date-ps5-exclusive-1851785573)<!-- GAME:END -->
+ - [Google Veo 3 users long to immerse themselves in the worlds of their AI-generated videos, seemingly forgetting entire videogame genres already exist](https://www.pcgamer.com/software/ai/google-veo-3-users-long-to-immerse-themselves-in-the-cyberpunk-world-of-their-ai-generated-videos-seemingly-forgetting-entire-videogame-genre-already-exists/)
+ - [How to get the Moonlit mutation in Grow a Garden](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-moonlit-mutation-fruit/)
+ - [Peak devs accidentally released a patch that &#39;made a number of players totally unable to play&#39; so now there&#39;s a new public beta Steam branch for everyone to mess around in safely](https://www.pcgamer.com/games/adventure/peak-devs-accidentally-released-a-patch-that-made-a-number-of-players-totally-unable-to-play-so-now-theres-a-new-public-beta-steam-branch-for-everyone-to-mess-around-in-safely/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
