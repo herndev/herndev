@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Again?!!!](http://9gag.com/gag/awyebrx)
- - ⏩ [Employee of the month energy.](http://9gag.com/gag/ary8eq7)
- - 👉 [Live for the walk!!](http://9gag.com/gag/avy90zb)<!-- MEMES:END -->
+ - 💣 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - ⏩ [American Dream](http://9gag.com/gag/aBy4QpQ)
+ - 👉 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)<!-- MEMES:END -->
 
 ---
 
