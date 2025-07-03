@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
+ - 💣 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
  - ⏩ [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 👉 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)<!-- MEMES:END -->
+ - 👉 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)<!-- MEMES:END -->
 
 ---
 
