@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Stranding 2 dials back the most stressful thing about the first game](https://www.polygon.com/opinion/610632/death-stranding-2-bb-lou-crying-controller-speaker)
- - [Mecha Break factions explained](https://www.pcgamer.com/games/third-person-shooter/mecha-break-factions/)
- - [2023&#39;s true GOTY has had its name and assets jacked by &#39;some kind of crypto scam,&#39; while bootlickers assure the dev it&#39;s actually great publicity](https://www.pcgamer.com/games/sim/2023s-true-goty-has-had-its-entire-style-jacked-by-some-kind-of-crypto-scam-while-bootlickers-assure-the-dev-its-actually-great-publicity/)<!-- GAME:END -->
+ - [Helldivers 2 is Coming to Xbox on August 26: Pre-Order Today](https://news.xbox.com/en-us/2025/07/03/helldivers-2-xbox-release-date-pre-order/)
+ - [Batman Ninja vs. Yakuza League is a hilariously chaotic mashup of DC Comics and anime tropes](https://www.polygon.com/anime/610759/batman-ninja-vs-yakuza-league-anime-review)
+ - [Hyte&#39;s iconic new Wing Gundam Zero case is going to grab your eyeballs first, but it&#39;s these fresh-looking keycaps I really want](https://www.pcgamer.com/hardware/pc-cases/hytes-iconic-new-wing-gundam-zero-case-is-going-to-grab-your-eyeballs-first-but-its-these-fresh-looking-keycaps-i-really-want/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
