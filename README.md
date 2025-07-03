@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
- - ⏩ [Listen up](http://9gag.com/gag/azx4gQb)
- - 👉 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)<!-- MEMES:END -->
+ - 💣 [Doraemon live action](http://9gag.com/gag/ary8pbX)
+ - ⏩ [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)
+ - 👉 [BANGER!](http://9gag.com/gag/ayNv568)<!-- MEMES:END -->
 
 ---
 
