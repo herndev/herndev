@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI is making it easier to create VTubers and faceless voiceover channels, fueling a flood of virtual creators on YouTube and TikTok amid concerns over AI slop &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250703/p6#a250703p6)
- - [Stale or strategic? Galaxy S26 Ultra’s camera and battery specs could disappoint fans](https://www.androidauthority.com/samsung-galaxy-s26-ultra-camera-battery-spec-leak-3573646/)
- - [One UI 8 will let you add a Dynamic Effect to photos, but what’s the point?](https://www.androidauthority.com/one-ui-8-dynamic-effect-3573643/)<!-- TECH:END -->
+ - [Bitcoin&#39;s implied volatility declined to the lowest level in two years, showing decreased price swings and trading between $93K to $111K in the past two months &lpar;Kirk Ogunrinde/Bloomberg&rpar;](http://www.techmeme.com/250703/p9#a250703p9)
+ - [Similarweb: since the launch of Google&#39;s AI Overviews, the number of news searches that result in no click-throughs grew from 56% in May 2024 to 69% in May 2025 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250703/p8#a250703p8)
+ - [This crazy thin foldable embarrasses the Galaxy Z Fold 7 even before its launch](https://www.androidauthority.com/honor-magic-v5-worlds-slimmest-foldable-launched-3573639/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
