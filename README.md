@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
- - ⏩ [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
+ - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - ⏩ [Listen up](http://9gag.com/gag/azx4gQb)
  - 👉 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)<!-- MEMES:END -->
 
 ---
