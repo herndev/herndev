@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need to Know About The Hatch, Roblox’s Biggest Egg Hunt Yet](https://news.xbox.com/en-us/2025/07/03/roblox-the-hatch-egg-hunt-event/)
- - [Romero Games&#39; new shooter loses funding, the studio may be closing, and it looks like Microsoft is to blame](https://www.pcgamer.com/gaming-industry/romero-games-new-shooter-loses-funding-the-studio-may-be-closing-and-it-looks-like-microsoft-is-to-blame/)
- - [This whack-a-mole with floppy disks running on an Amiga looks equal parts hilarious and surprisingly difficult](https://www.pcgamer.com/hardware/this-whack-a-mole-with-floppy-disks-running-on-an-amiga-looks-equal-parts-hilarious-and-surprisingly-difficult/)<!-- GAME:END -->
+ - [Battlefield 6 Reportedly Has A Massive Budget Of Over $400 Million](https://kotaku.com/battlefield-6-400-budget-struggles-report-ea-dice-1851785587)
+ - [Founder of world&#39;s biggest mod site hits back at fans angry about upcoming age verification for NSFW mods: &#39;The law is the law and Nexus Mods will, and must, follow the law&#39;](https://www.pcgamer.com/gaming-industry/founder-of-worlds-biggest-mod-site-hits-back-at-fans-angry-about-upcoming-age-verification-for-nsfw-mods-the-law-is-the-law-and-nexus-mods-will-and-must-follow-the-law/)
+ - [Elden Ring Nightreign&#39;s New Superpowered Moth Boss Keeps Breaking](https://kotaku.com/elden-ring-nightreign-sentient-pest-bug-hotfix-patch-1851785592)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
