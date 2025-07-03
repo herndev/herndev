@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I did that once](http://9gag.com/gag/a4PwKx6)
- - ⏩ [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)
- - 👉 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)<!-- MEMES:END -->
+ - 💣 [Ups, they did it again.](http://9gag.com/gag/aYQRbrO)
+ - ⏩ [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
+ - 👉 [Marriage](http://9gag.com/gag/amoRN6V)<!-- MEMES:END -->
 
 ---
 
