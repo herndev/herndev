@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google Veo 3 users long to immerse themselves in the worlds of their AI-generated videos, seemingly forgetting entire videogame genres already exist](https://www.pcgamer.com/software/ai/google-veo-3-users-long-to-immerse-themselves-in-the-cyberpunk-world-of-their-ai-generated-videos-seemingly-forgetting-entire-videogame-genre-already-exists/)
- - [How to get the Moonlit mutation in Grow a Garden](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-moonlit-mutation-fruit/)
- - [Peak devs accidentally released a patch that &#39;made a number of players totally unable to play&#39; so now there&#39;s a new public beta Steam branch for everyone to mess around in safely](https://www.pcgamer.com/games/adventure/peak-devs-accidentally-released-a-patch-that-made-a-number-of-players-totally-unable-to-play-so-now-theres-a-new-public-beta-steam-branch-for-everyone-to-mess-around-in-safely/)<!-- GAME:END -->
+ - [Everything You Need to Know About The Hatch, Roblox’s Biggest Egg Hunt Yet](https://news.xbox.com/en-us/2025/07/03/roblox-the-hatch-egg-hunt-event/)
+ - [Romero Games&#39; new shooter loses funding, the studio may be closing, and it looks like Microsoft is to blame](https://www.pcgamer.com/gaming-industry/romero-games-new-shooter-loses-funding-the-studio-may-be-closing-and-it-looks-like-microsoft-is-to-blame/)
+ - [This whack-a-mole with floppy disks running on an Amiga looks equal parts hilarious and surprisingly difficult](https://www.pcgamer.com/hardware/this-whack-a-mole-with-floppy-disks-running-on-an-amiga-looks-equal-parts-hilarious-and-surprisingly-difficult/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
