@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whoop MG review: a big whoop for a small crowd](https://www.theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health)
- - [Best AI app for Mac to enhance, denoise &amp; upscale videos to 4K clarity [Giveaway]](https://appleinsider.com/articles/25/07/03/best-ai-app-for-mac-to-enhance-denoise-upscale-videos-to-4k-clarity-giveaway?utm_medium=rss)
- - [Helldivers 2 is the first PlayStation-published Xbox game](https://www.theverge.com/news/697430/helldivers-2-xbox-playstation-published-release-date)<!-- TECH:END -->
+ - [Samsung tri-fold’s eye-watering price tag may not be the only thing stopping you from buying it](https://www.androidauthority.com/samsung-galaxy-g-fold-leaked-specs-pricing-availability-3573749/)
+ - [Deerhoof did not want its music ‘funding AI battle tech’ — so it ditched Spotify](https://www.theverge.com/ai-artificial-intelligence/697337/deerhoof-greg-saunier-spotify-ai)
+ - [The Open Platform, a key TON developer that is behind Telegram&#39;s Wallet, raised a $28.5M Series A at a $1B valuation, bringing its total funding to $70M+ &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250703/p22#a250703p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
