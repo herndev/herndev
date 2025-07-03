@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 16 push delivers rare growth in China&#39;s cooling market](https://appleinsider.com/articles/25/07/03/apples-iphone-16-push-delivers-rare-growth-in-chinas-cooling-market?utm_medium=rss)
- - [Ilya Sutskever becomes the CEO of Safe Superintelligence, the AI startup he co-founded after leaving OpenAI; Meta reportedly poached previous CEO Daniel Gross &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250703/p26#a250703p26)
- - [E Ink is turning the laptop touchpad into an e-reader for AI apps](https://www.theverge.com/news/697688/eink-epaper-touchpad-laptop-intel-ai-pcs)<!-- TECH:END -->
+ - [Founders Fund-backed Ondo Finance and Pantera Capital launch a $250M fund to invest in real-world asset tokenization projects via equity stakes and tokens &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250703/p28#a250703p28)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [AWS showdown: Apple once considered providing cloud services to developers](https://appleinsider.com/articles/25/07/03/aws-showdown-apple-once-considered-providing-cloud-services-to-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
