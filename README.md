@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out its Veo 3 video generation model to Google&#39;s AI Pro subscribers in more than 159 countries, with a cap of three videos per day &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250703/p29#a250703p29)
- - [Google is testing a smaller, more reachable Gemini overlay on tablets](https://www.androidauthority.com/gemini-overlay-tablet-redesign-3573900/)
- - [Walmart’s Android 14 update for Onn devices returns after widespread bricking issues](https://www.androidauthority.com/walmart-onn-android-14-update-fix-3573835/)<!-- TECH:END -->
+ - [The Person in Charge of Testing Tech for US Spies Has Resigned](https://www.wired.com/story/iarpa-director-resigns-odni/)
+ - [London-based Hived, which offers an AI-based logistics and parcel delivery service, raised a $42M Series B led by NordicNinja &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250703/p31#a250703p31)
+ - [Apple to reveal tariff-stricken Q3 results on July 31](https://appleinsider.com/articles/25/07/03/apple-to-reveal-tariff-stricken-q3-results-on-july-31?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
