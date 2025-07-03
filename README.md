@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Will you eat that...?](http://9gag.com/gag/ajPRrEG)
- - ⏩ [Fellow pupil](http://9gag.com/gag/aAyvR1g)
- - 👉 [One piece](http://9gag.com/gag/aKGKw6j)<!-- MEMES:END -->
+ - 💣 [The commitment was real](http://9gag.com/gag/aqyDZnR)
+ - ⏩ [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
+ - 👉 [American Dream](http://9gag.com/gag/aBy4QpQ)<!-- MEMES:END -->
 
 ---
 
