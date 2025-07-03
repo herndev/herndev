@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 is Coming to Xbox on August 26: Pre-Order Today](https://news.xbox.com/en-us/2025/07/03/helldivers-2-xbox-release-date-pre-order/)
- - [Batman Ninja vs. Yakuza League is a hilariously chaotic mashup of DC Comics and anime tropes](https://www.polygon.com/anime/610759/batman-ninja-vs-yakuza-league-anime-review)
- - [Hyte&#39;s iconic new Wing Gundam Zero case is going to grab your eyeballs first, but it&#39;s these fresh-looking keycaps I really want](https://www.pcgamer.com/hardware/pc-cases/hytes-iconic-new-wing-gundam-zero-case-is-going-to-grab-your-eyeballs-first-but-its-these-fresh-looking-keycaps-i-really-want/)<!-- GAME:END -->
+ - [Original Doom Designer&#39;s New FPS Is The Latest Casualty Of The Xbox Cuts](https://kotaku.com/john-brenda-romero-games-fps-doom-xbox-bethesda-1851785577)
+ - [Capcom&#39;s financials show that embracing Steam has paid off handsomely: It now accounts for a third of all the publisher&#39;s revenue](https://www.pcgamer.com/games/capcoms-financials-show-that-embracing-steam-has-paid-off-handsomely-it-now-accounts-for-a-third-of-all-the-publishers-revenue/)
+ - [Massive PS5 Hit Helldivers 2 Is Coming To Xbox This August As Console Exclusivity Wall Comes Down](https://kotaku.com/helldivers-2-xbox-series-x-s-release-date-ps5-exclusive-1851785573)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
