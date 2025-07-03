@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s One UI 8 build animation files show its future tri-fold phone, with three rear panels and two inward-folding hinges, rumored to be the Galaxy G Fold &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/250703/p18#a250703p18)
- - [Fight me! $799 is a great price for the Nothing Phone 3](https://www.androidauthority.com/nothing-phone-3-price-is-right-3573261/)
- - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)<!-- TECH:END -->
+ - [Whoop MG review: a big whoop for a small crowd](https://www.theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health)
+ - [Best AI app for Mac to enhance, denoise &amp; upscale videos to 4K clarity [Giveaway]](https://appleinsider.com/articles/25/07/03/best-ai-app-for-mac-to-enhance-denoise-upscale-videos-to-4k-clarity-giveaway?utm_medium=rss)
+ - [Helldivers 2 is the first PlayStation-published Xbox game](https://www.theverge.com/news/697430/helldivers-2-xbox-playstation-published-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
