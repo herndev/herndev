@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Founders Fund-backed Ondo Finance and Pantera Capital launch a $250M fund to invest in real-world asset tokenization projects via equity stakes and tokens &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250703/p28#a250703p28)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [AWS showdown: Apple once considered providing cloud services to developers](https://appleinsider.com/articles/25/07/03/aws-showdown-apple-once-considered-providing-cloud-services-to-developers?utm_medium=rss)<!-- TECH:END -->
+ - [Google rolls out its Veo 3 video generation model to Google&#39;s AI Pro subscribers in more than 159 countries, with a cap of three videos per day &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250703/p29#a250703p29)
+ - [Google is testing a smaller, more reachable Gemini overlay on tablets](https://www.androidauthority.com/gemini-overlay-tablet-redesign-3573900/)
+ - [Walmart’s Android 14 update for Onn devices returns after widespread bricking issues](https://www.androidauthority.com/walmart-onn-android-14-update-fix-3573835/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
