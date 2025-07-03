@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Buy Now, Pay Later Is Coming To Free-To-Play Games Like Fortnite](https://kotaku.com/buy-now-pay-later-xsolla-fortnite-burrito-payment-plan-1851785550)
  - [Diablo 4 has finally given dungeons their teeth back and the loot hunt has never been more satisfying](https://www.pcgamer.com/games/rpg/diablo-4-has-finally-given-dungeons-their-teeth-back-and-the-loot-hunt-has-never-been-more-satisfying/)
- - [Today&#39;s Dune: Awakening patch notes are as long as a sandworm, with more than 300 changes, bug fixes, and squashed exploits](https://www.pcgamer.com/games/mmo/todays-dune-awakening-patch-notes-are-as-long-as-a-sandworm-with-more-than-300-changes-bug-fixes-and-squashed-exploits/)
- - [Blizzard ends new content development for Warcraft Rumble and lays off staff: Former employee says &#39;most&#39; of the team has been let go](https://www.pcgamer.com/gaming-industry/blizzard-ends-new-content-development-for-warcraft-rumble-and-lays-off-staff-former-employee-says-most-of-the-team-has-been-let-go/)<!-- GAME:END -->
+ - [Today&#39;s Dune: Awakening patch notes are as long as a sandworm, with more than 300 changes, bug fixes, and squashed exploits](https://www.pcgamer.com/games/mmo/todays-dune-awakening-patch-notes-are-as-long-as-a-sandworm-with-more-than-300-changes-bug-fixes-and-squashed-exploits/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
