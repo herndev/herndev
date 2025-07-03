@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suicidal fish](http://9gag.com/gag/azx4LQB)
- - ⏩ [American Dream](http://9gag.com/gag/aBy4QpQ)
- - 👉 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)<!-- MEMES:END -->
+ - 💣 [Again?!!!](http://9gag.com/gag/awyebrx)
+ - ⏩ [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
+ - 👉 [Fellow weeb, your wife is waiting...](http://9gag.com/gag/aXPRpnb)<!-- MEMES:END -->
 
 ---
 
