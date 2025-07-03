@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ups, they did it again.](http://9gag.com/gag/aYQRbrO)
- - ⏩ [Not guilty in 3 main charges..guilty in 2 &lpar;less important&rpar; and lawyer asking for 1 mil bail.. i guess if you are rich, everything is possible](http://9gag.com/gag/aW4RZP6)
- - 👉 [That&#39;ll buff out](http://9gag.com/gag/aD2QRgK)<!-- MEMES:END -->
+ - 💣 [Temu version](http://9gag.com/gag/ajPR660)
+ - ⏩ [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 👉 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)<!-- MEMES:END -->
 
 ---
 
