@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Synergy Bonds and romance candidates in Persona 5 The Phantom X](https://www.polygon.com/persona-5-phantom-x-guides/610797/p5x-romance-synergy-bonds-social-links-confidants)
- - [&#39;There has to be a better way than this&#39;: Game developers call Microsoft&#39;s latest layoffs &#39;a colossal waste of talent&#39; from a publisher that seems like it&#39;s in &#39;a death spiral&#39;](https://www.pcgamer.com/gaming-industry/there-has-to-be-a-better-way-than-this-game-developers-call-microsofts-latest-layoffs-a-colossal-waste-of-talent-from-a-publisher-that-seems-like-its-in-a-death-spiral/)
- - [12 Years After Launch, GTA V Is Finally Arriving In Two More Countries](https://kotaku.com/gta-v-officially-launching-in-saudi-arabia-12-years-aft-1851785628)<!-- GAME:END -->
+ - [Best gifts to give characters in Persona 5 The Phantom X](https://www.polygon.com/persona-5-phantom-x-guides/610722/best-preferred-gifts-give-p5x-synergy)
+ - [Stop Killing Games surges past its goals, but a possible signature spoofing campaign could cause trouble: &#39;&#39;This is not a Change.org petition. This is a government process&#39;](https://www.pcgamer.com/gaming-industry/stop-killing-games-surges-past-its-goals-but-a-possible-signature-spoofing-campaign-could-cause-trouble-this-is-not-a-change-org-petition-this-is-a-government-process/)
+ - [Before cancelling ZeniMax&#39;s Destiny-style MMO shooter, Xbox executives reportedly enjoyed early demos so much that the controller had to be pulled from Phil Spencer&#39;s hands](https://www.pcgamer.com/gaming-industry/before-cancelling-zenimaxs-destiny-style-mmo-shooter-xbox-executives-reportedly-enjoyed-early-demos-so-much-that-the-controller-had-to-be-pulled-from-phil-spencers-hands/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
