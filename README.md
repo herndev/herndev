@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [X&#39;s latest terrible idea allows AI chatbots to propose community notes—you&#39;ll likely start seeing them in your feed later this month](https://www.pcgamer.com/software/ai/xs-latest-terrible-idea-allows-ai-chatbots-to-propose-community-notes-youll-likely-start-seeing-them-in-your-feed-later-this-month/)
- - [Today&#39;s Wordle answer for Thursday, July 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-3-2025/)
- - [Buy Now, Pay Later Is Coming To Free-To-Play Games Like Fortnite](https://kotaku.com/buy-now-pay-later-xsolla-fortnite-burrito-payment-plan-1851785550)<!-- GAME:END -->
+ - [This designer has created a Frankenstein&#39;s monster by strapping two Nintendo Joy-Cons onto the Framework 12 and they&#39;re letting you do the same too](https://www.pcgamer.com/hardware/handheld-gaming-pcs/this-designer-has-created-a-frankensteins-monster-by-strapping-two-nintendo-joy-cons-onto-the-framework-12-and-theyre-letting-you-do-the-same-too/)
+ - [The Legion Go S SteamOS is completing the Steam Deck&#39;s mission to make handheld PC gaming genuinely convenient](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-legion-go-s-steamos-is-completing-the-steam-decks-mission-to-make-handheld-pc-gaming-genuinely-convenient/)
+ - [X&#39;s latest terrible idea allows AI chatbots to propose community notes—you&#39;ll likely start seeing them in your feed later this month](https://www.pcgamer.com/software/ai/xs-latest-terrible-idea-allows-ai-chatbots-to-propose-community-notes-youll-likely-start-seeing-them-in-your-feed-later-this-month/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
