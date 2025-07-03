@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marriage](http://9gag.com/gag/amoRN6V)
- - ⏩ [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
- - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
+ - 💣 [Again?!!!](http://9gag.com/gag/awyebrx)
+ - ⏩ [Employee of the month energy.](http://9gag.com/gag/ary8eq7)
+ - 👉 [Live for the walk!!](http://9gag.com/gag/avy90zb)<!-- MEMES:END -->
 
 ---
 
