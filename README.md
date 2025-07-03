@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Recycling](http://9gag.com/gag/a34NYBQ)
- - ⏩ [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
- - 👉 [Found them](http://9gag.com/gag/ary8pW7)<!-- MEMES:END -->
+ - 💣 [Marriage](http://9gag.com/gag/amoRN6V)
+ - ⏩ [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
 
 ---
 
