@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
- - ⏩ [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
- - 👉 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)<!-- MEMES:END -->
+ - 💣 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
+ - ⏩ [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
+ - 👉 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)<!-- MEMES:END -->
 
 ---
 
