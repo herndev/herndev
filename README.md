@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Again?!!!](http://9gag.com/gag/awyebrx)
- - ⏩ [Doraemon live action](http://9gag.com/gag/ary8pbX)
- - 👉 [Can relate](http://9gag.com/gag/aBy49yP)<!-- MEMES:END -->
+ - 💣 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
+ - ⏩ [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
+ - 👉 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)<!-- MEMES:END -->
 
 ---
 
