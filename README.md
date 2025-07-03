@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Chinese universities are using AI detection tools to screen papers, but false positives force students to &quot;dumb down&quot; content or pay for rewriting services &lpar;Peiyue Wu/Rest of World&rpar;](http://www.techmeme.com/250702/p32#a250702p32)
  - [Save $350 on a spec’d out Samsung Galaxy Book 5 Pro laptop](https://www.androidauthority.com/samsung-galaxy-book-5-pro-deal-3573507/)
- - [Siemens says it has restored full access to its chip design software for its Chinese clients after the Trump admin lifted export curbs, initially imposed in May &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250702/p31#a250702p31)
- - [Datadog is joining the S&amp;P 500, replacing Juniper Networks after HPE acquired Juniper, before trading on July 9; DDOG jumps 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250702/p30#a250702p30)<!-- TECH:END -->
+ - [Siemens says it has restored full access to its chip design software for its Chinese clients after the Trump admin lifted export curbs, initially imposed in May &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250702/p31#a250702p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
