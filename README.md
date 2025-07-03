@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail Centaur, a modified version of Llama trained on 10M+ responses from 160 psychological experiments, in an attempt to mimic human cognition &lpar;Carl Zimmer/New York Times&rpar;](http://www.techmeme.com/250703/p12#a250703p12)
- - [Exclusive: One UI 8 gives us our first look at Samsung’s upcoming tri-fold phone](https://www.androidauthority.com/samsung-galaxy-g-fold-exclusive-animation-leak-3573652/)
- - [Google’s customizable Gemini chatbots are now in Docs, Sheets, and Gmail](https://www.theverge.com/news/697352/google-gemini-gems-workspace-apps-docs-gmail)<!-- TECH:END -->
+ - [Mixpanel founder Suhail Doshi calls out Soham Parekh, who he says &quot;works at 3-4 startups at the same time&quot; and has &quot;been preying on YC companies and more&quot; &lpar;Bhavya Sukheja/NDTV&rpar;](http://www.techmeme.com/250703/p15#a250703p15)
+ - [ASML, Mistral, SAP, and 110+ European companies urge the EU to delay the implementation of its AI Act, saying it puts the bloc&#39;s AI ambitions at risk &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250703/p14#a250703p14)
+ - [12 Best Coffee Subscriptions &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
