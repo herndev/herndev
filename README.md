@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This designer has created a Frankenstein&#39;s monster by strapping two Nintendo Joy-Cons onto the Framework 12 and they&#39;re letting you do the same too](https://www.pcgamer.com/hardware/handheld-gaming-pcs/this-designer-has-created-a-frankensteins-monster-by-strapping-two-nintendo-joy-cons-onto-the-framework-12-and-theyre-letting-you-do-the-same-too/)
- - [The Legion Go S SteamOS is completing the Steam Deck&#39;s mission to make handheld PC gaming genuinely convenient](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-legion-go-s-steamos-is-completing-the-steam-decks-mission-to-make-handheld-pc-gaming-genuinely-convenient/)
- - [X&#39;s latest terrible idea allows AI chatbots to propose community notes—you&#39;ll likely start seeing them in your feed later this month](https://www.pcgamer.com/software/ai/xs-latest-terrible-idea-allows-ai-chatbots-to-propose-community-notes-youll-likely-start-seeing-them-in-your-feed-later-this-month/)<!-- GAME:END -->
+ - [Death Stranding 2 dials back the most stressful thing about the first game](https://www.polygon.com/opinion/610632/death-stranding-2-bb-lou-crying-controller-speaker)
+ - [Mecha Break factions explained](https://www.pcgamer.com/games/third-person-shooter/mecha-break-factions/)
+ - [2023&#39;s true GOTY has had its name and assets jacked by &#39;some kind of crypto scam,&#39; while bootlickers assure the dev it&#39;s actually great publicity](https://www.pcgamer.com/games/sim/2023s-true-goty-has-had-its-entire-style-jacked-by-some-kind-of-crypto-scam-while-bootlickers-assure-the-dev-its-actually-great-publicity/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
