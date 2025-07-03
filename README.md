@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Carrera Smart Glasses drop to a new record-low price, nearly half off](https://www.androidauthority.com/carrera-smart-glasses-deal-3573509/)
- - [Racist videos made with AI are going viral on TikTok](https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok)
- - [Microsoft&#39;s &#39;Blue Screen of Death&#39; Dies After 40 Years: Meet Its Replacement](https://www.cnet.com/tech/services-and-software/microsofts-blue-screen-of-death-dies-after-40-years-of-memes-jokes-t-shirts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Despite Protests, Elon Musk Secures Air Permit for xAI](https://www.wired.com/story/xai-data-center-air-pollution-permit/)
+ - [The best Apple deals you can shop ahead of Amazon Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
+ - [Carrera Smart Glasses drop to a new record-low price, nearly half off](https://www.androidauthority.com/carrera-smart-glasses-deal-3573509/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
