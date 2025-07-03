@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount Plus slashes prices to $2 for two months](https://www.theverge.com/tech/697560/paramount-plus-star-trek-strange-new-worlds-deal-sale)
- - [Apple’s colorful Watch Solo Loop bands are up to 70 percent off now](https://www.theverge.com/tech/697526/apple-watch-band-solo-loop-prime-day-deal-sale)
- - [Apple Music iOS 26 vs iOS 18: AutoMix, Liquid Glass, and lyrics in your language](https://appleinsider.com/inside/apple-music/vs/apple-music-ios-26-vs-ios-18-automix-liquid-glass-and-lyrics-in-your-language?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 17 Pro Max rumored to get a larger battery, but don&#39;t expect longer life](https://appleinsider.com/articles/25/07/03/iphone-17-pro-max-rumored-to-get-a-larger-battery-but-dont-expect-longer-life?utm_medium=rss)
+ - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)
+ - [Trump’s ‘Big Beautiful Bill’ Would Leave Millions Without Health Insurance](https://www.wired.com/story/trumps-big-beautiful-bill-would-leave-millions-without-health-insurance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
