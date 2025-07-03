@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OK, Phoenix’s gameplay in Marvel Rivals looks terrifying](https://www.polygon.com/news/610913/marvel-rivals-phoenix-jean-grey-terrifying)
- - [Xbox Invites Developers To AI Roundtable The Same Day It Does Mass Layoffs](https://kotaku.com/microsoft-gen-ai-idxbox-layoffs-npc-chatgpt-1851785609)
- - [Mecha Break has the best character creator I’ve seen in ages](https://www.polygon.com/gaming/610910/mecha-break-has-the-best-character-creator-ive-seen-in-ages)<!-- GAME:END -->
+ - [Best Strikers mechs tier list in Mecha Break](https://www.polygon.com/guides/610808/mecha-break-best-strikers-mechs-tier-list)
+ - [All Palworld Pals, types, and skills in the Paldeck](https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck)
+ - [Brace yourself: Hades 2 just got what &#39;will likely be our final patch&#39; before full release](https://www.pcgamer.com/games/roguelike/brace-yourself-hades-2-just-got-what-will-likely-be-our-final-patch-before-full-release/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
