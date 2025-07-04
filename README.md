@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In South Africa people install security gates inside their homes to protect their bedrooms](http://9gag.com/gag/ayNv0Rp)
- - ⏩ [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
- - 👉 [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)<!-- MEMES:END -->
+ - 💣 [Instant Trigger](http://9gag.com/gag/aAyvVMp)
+ - ⏩ [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
 
 ---
 
