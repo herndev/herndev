@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
- - ⏩ [Press f](http://9gag.com/gag/agmKvPq)
- - 👉 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)<!-- MEMES:END -->
+ - 💣 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
+ - ⏩ [America, United States of America and USA don&#39;t count](http://9gag.com/gag/abAR03B)
+ - 👉 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)<!-- MEMES:END -->
 
 ---
 
