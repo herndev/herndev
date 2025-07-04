@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s Hardware Survey continues to prove gamers don&#39;t have much free storage, and I am unfortunately among them](https://www.pcgamer.com/hardware/steams-hardware-survey-continues-to-prove-gamers-dont-have-much-free-storage-and-i-am-unfortunately-among-them/)
- - [Today&#39;s Wordle answer for Friday, July 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-4-2025/)
- - [Call of Duty: Black Ops 7 – All the key details on the next Call of Duty](https://www.pcgamer.com/games/call-of-duty/black-ops-7-guide/)<!-- GAME:END -->
+ - [Xbox exec suffers bout of terminal LinkedIn brain, suggests folks laid off by Microsoft use AI to &#39;reduce the emotional and cognitive load that comes with job loss&#39;](https://www.pcgamer.com/gaming-industry/game-development/xbox-exec-suffers-bout-of-terminal-linkedin-brain-suggests-folks-laid-off-by-microsoft-use-ai-to-reduce-the-emotional-and-cognitive-load-that-comes-with-job-loss/)
+ - [Gachiakuta goes places I’ve never seen in an anime series, and that’s an instant win](https://www.polygon.com/recommends/610721/gachiakuta-anime-review-premiere-dark-shonen)
+ - [Steam&#39;s Hardware Survey continues to prove gamers don&#39;t have much free storage, and I am unfortunately among them](https://www.pcgamer.com/hardware/steams-hardware-survey-continues-to-prove-gamers-dont-have-much-free-storage-and-i-am-unfortunately-among-them/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
