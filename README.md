@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Instant Trigger](http://9gag.com/gag/aAyvVMp)
- - ⏩ [Suicidal fish](http://9gag.com/gag/azx4LQB)
- - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
+ - 💣 [Guys...](http://9gag.com/gag/aKGKB31)
+ - ⏩ [In South Africa people install security gates inside their homes to protect their bedrooms](http://9gag.com/gag/ayNv0Rp)
+ - 👉 [How well does this work on atms? Asking for a friend](http://9gag.com/gag/axymNwp)<!-- MEMES:END -->
 
 ---
 
