@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [In the wake of Perfect Dark&#39;s cancellation, Joanna Dark&#39;s voice actor urges fans to help save the series: &#39;Agent Dark doesn’t give up and neither should any of you&#39;](https://www.pcgamer.com/gaming-industry/in-the-wake-of-perfect-darks-cancellation-joanna-darks-voice-actor-urges-fans-to-help-save-the-series-agent-dark-doesnt-give-up-and-neither-should-any-of-you/)
  - [Hideo Kojima&#39;s mysterious OD reportedly escapes the cancellation axe at Microsoft](https://www.pcgamer.com/gaming-industry/hideo-kojimas-mysterious-od-reportedly-escapes-the-cancellation-axe-at-microsoft/)
- - [CWA union derides Microsoft layoffs when ‘the company is prospering’: &#39;We are living through a moment of profound corporate consolidation and disruption&#39;](https://www.pcgamer.com/gaming-industry/cwa-union-derides-microsoft-layoffs-when-the-company-is-prospering-we-are-living-through-a-moment-of-profound-corporate-consolidation-and-disruption/)
- - [The 12 best Switch 2 games](https://www.polygon.com/what-to-play/611102/best-switch-2-games)<!-- GAME:END -->
+ - [CWA union derides Microsoft layoffs when ‘the company is prospering’: &#39;We are living through a moment of profound corporate consolidation and disruption&#39;](https://www.pcgamer.com/gaming-industry/cwa-union-derides-microsoft-layoffs-when-the-company-is-prospering-we-are-living-through-a-moment-of-profound-corporate-consolidation-and-disruption/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
