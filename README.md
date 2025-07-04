@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
+ - 💣 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)
  - ⏩ [Guys...](http://9gag.com/gag/aKGKB31)
- - 👉 [ZERO!](http://9gag.com/gag/a5Q57wV)<!-- MEMES:END -->
+ - 👉 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)<!-- MEMES:END -->
 
 ---
 
