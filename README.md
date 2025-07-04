@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia&#39;s deal to buy CentML, which offers tools to optimize the running of AI models on chips, could exceed $400M; CentML raised a $27M seed in 2023 &lpar;Murad Hemmadi/The Logic&rpar;](http://www.techmeme.com/250704/p10#a250704p10)
  - [Doc: UK&#39;s Independent Publishers Alliance files an antitrust complaint with EU and the UK CMA against Google, alleging misuse of web content for AI Overviews &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250704/p9#a250704p9)
- - [Ten best Mac games to buy during the Steam Summer Sale](https://appleinsider.com/articles/25/07/04/ten-best-mac-games-to-buy-during-the-steam-summer-sale?utm_medium=rss)
- - [Can Whole Body Vibration Plates Actually Help You Lose Weight? We Asked Fitness Experts](https://www.cnet.com/health/fitness/can-whole-body-vibration-plates-actually-help-you-lose-weight-we-asked-fitness-experts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ten best Mac games to buy during the Steam Summer Sale](https://appleinsider.com/articles/25/07/04/ten-best-mac-games-to-buy-during-the-steam-summer-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
