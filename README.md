@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As companies like SpaceX, Stripe, and OpenAI stay private longer, tokenized stocks on blockchains offer a way for the public to access lucrative private markets &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250704/p3#a250704p3)
- - [The Lymow One robot lawn mower can do it all, and this Prime Day is the best time to get one](https://www.androidauthority.com/lymow-one-prime-day-3573819/)
- - [Pixel Watch 4 leak reveals every color and band option that is coming this year](https://www.androidauthority.com/pixel-watch-4-color-band-leak-3573991/)<!-- TECH:END -->
+ - [I test all the best Android phones every year, and these are the ones you should buy in 2025](https://www.androidauthority.com/best-android-phone-3563254/)
+ - [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
+ - [As companies like SpaceX, Stripe, and OpenAI stay private longer, tokenized stocks on blockchains offer a way for the public to access lucrative private markets &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250704/p3#a250704p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
