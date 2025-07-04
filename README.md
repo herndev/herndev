@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In South Africa people install security gates inside their homes to protect their bedrooms](http://9gag.com/gag/ayNv0Rp)
- - ⏩ [The first bottle definitely had style](http://9gag.com/gag/ary8ppd)
- - 👉 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)<!-- MEMES:END -->
+ - 💣 [My dog ran away and ended up having a better Friday night than me](http://9gag.com/gag/aMVqb86)
+ - ⏩ [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)
+ - 👉 [That escalated quickly](http://9gag.com/gag/aLnWQAz)<!-- MEMES:END -->
 
 ---
 
