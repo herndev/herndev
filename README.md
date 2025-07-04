@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hideo Kojima&#39;s mysterious OD reportedly escapes the cancellation axe at Microsoft](https://www.pcgamer.com/gaming-industry/hideo-kojimas-mysterious-od-reportedly-escapes-the-cancellation-axe-at-microsoft/)
  - [CWA union derides Microsoft layoffs when ‘the company is prospering’: &#39;We are living through a moment of profound corporate consolidation and disruption&#39;](https://www.pcgamer.com/gaming-industry/cwa-union-derides-microsoft-layoffs-when-the-company-is-prospering-we-are-living-through-a-moment-of-profound-corporate-consolidation-and-disruption/)
- - [The 12 best Switch 2 games](https://www.polygon.com/what-to-play/611102/best-switch-2-games)
- - [Perfect Dark dev shoots down claim the ace-looking reveal was fake: &#39;It&#39;s probably more real than you think&#39;](https://www.pcgamer.com/games/fps/perfect-dark-developer-shoots-down-claims-the-ace-looking-reveal-was-fake-its-probably-more-real-than-you-think/)<!-- GAME:END -->
+ - [The 12 best Switch 2 games](https://www.polygon.com/what-to-play/611102/best-switch-2-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
