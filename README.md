@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
- - ⏩ [Fellow beer enthusiast](http://9gag.com/gag/a2vOY1Z)
- - 👉 [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)<!-- MEMES:END -->
+ - ⏩ [My dog ran away and ended up having a better Friday night than me](http://9gag.com/gag/aMVqb86)
+ - 👉 [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)<!-- MEMES:END -->
 
 ---
 
