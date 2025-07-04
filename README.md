@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Wonderful, which develops customer support AI agents for businesses in non-English speaking countries, raised a $34M seed led by Index Ventures &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250703/p37#a250703p37)
- - [DOJ lack of TikTok ban enforcement appears to be due to broad Article II interpretation](https://appleinsider.com/articles/25/07/04/doj-lack-of-tiktok-ban-enforcement-appears-to-be-due-to-broad-article-ii-interpretation?utm_medium=rss)
- - [Sources: Samsung is delaying completion of its Texas fab due to a lack of customers; the plant was meant to come online in 2024 before being pushed to 2026 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250703/p36#a250703p36)<!-- TECH:END -->
+ - [Meta said it supports proposals for an EU-wide age of digital adulthood, below which minors would need parental consent to use social media &lpar;Brian O&#39;Donovan/RTÉ&rpar;](http://www.techmeme.com/250704/p1#a250704p1)
+ - [Young, not dumb, and broke? Amazon is giving you 6 months of Prime for free](https://www.androidauthority.com/amazon-prime-for-young-adults-free-six-month-trial-3573970/)
+ - [Tel Aviv-based Wonderful, which develops customer support AI agents for businesses in non-English speaking countries, raised a $34M seed led by Index Ventures &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250703/p37#a250703p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
