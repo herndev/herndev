@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - ⏩ [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
- - 👉 [Japan&#39;s defense is simply unreal, pulling off impossible saves.](http://9gag.com/gag/aRBRgV2)<!-- MEMES:END -->
+ - 💣 [This couldn&#39;t be staged](http://9gag.com/gag/aLnWK8W)
+ - ⏩ [The hunt for the legendary Moose Boy microchip Easter egg is finally over.](http://9gag.com/gag/a87VbGd)
+ - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
 
 ---
 
