@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Perfect Dark dev shoots down claim the ace-looking reveal was fake: &#39;It&#39;s probably more real than you think&#39;](https://www.pcgamer.com/games/fps/perfect-dark-developer-shoots-down-claims-the-ace-looking-reveal-was-fake-its-probably-more-real-than-you-think/)
- - [Fortnite hints at making its hottest new mode permanent by asking fans what they want next](https://www.pcgamer.com/games/battle-royale/fortnite-blitz-royale-permanent-mode-hint/)
- - [J-pop icon LiSA sees herself in the anime movie Perfect Blue](https://www.polygon.com/anime/610720/lisa-jpop-anime-perfect-blue-spy-family)<!-- GAME:END -->
+ - [CWA union derides Microsoft layoffs when ‘the company is prospering’: &#39;We are living through a moment of profound corporate consolidation and disruption&#39;](https://www.pcgamer.com/gaming-industry/cwa-union-derides-microsoft-layoffs-when-the-company-is-prospering-we-are-living-through-a-moment-of-profound-corporate-consolidation-and-disruption/)
+ - [The 12 best Switch 2 games](https://www.polygon.com/what-to-play/611102/best-switch-2-games)
+ - [Perfect Dark dev shoots down claim the ace-looking reveal was fake: &#39;It&#39;s probably more real than you think&#39;](https://www.pcgamer.com/games/fps/perfect-dark-developer-shoots-down-claims-the-ace-looking-reveal-was-fake-its-probably-more-real-than-you-think/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
