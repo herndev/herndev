@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best MagSafe Wireless Chargers &lpar;2025&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
- - [Sources: Google plans to propose a price comparison box at the top of search results in EU, featuring ranked options from competitors, to avoid DMA fines &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250704/p6#a250704p6)
- - [Siri&#39;s future, the original iPhone&#39;s past, and Apple Music&#39;s birthday on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/04/siris-future-the-original-iphones-past-and-apple-musics-birthday-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [T-Mobile starts offering an $830 trade-in discount if you don’t mind locking yourself in](https://www.androidauthority.com/t-mobile-loyalty-trade-in-discount-3574071/)
+ - [GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)
+ - [Sources: the US plans to restrict shipments of AI chips to Malaysia and Thailand, as part of an effort to crack down on suspected chip smuggling into China &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250704/p7#a250704p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
