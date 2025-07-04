@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
- - ⏩ [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
- - 👉 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)<!-- MEMES:END -->
+ - 💣 [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)
+ - ⏩ [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
+ - 👉 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)<!-- MEMES:END -->
 
 ---
 
