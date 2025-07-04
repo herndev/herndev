@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)
- - ⏩ [Guys...](http://9gag.com/gag/aKGKB31)
- - 👉 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)<!-- MEMES:END -->
+ - 💣 [That&#39;s sweet](http://9gag.com/gag/ae9RG9O)
+ - ⏩ [Hmm this is make sense](http://9gag.com/gag/axymjRL)
+ - 👉 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)<!-- MEMES:END -->
 
 ---
 
