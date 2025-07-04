@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My dog ran away and ended up having a better Friday night than me](http://9gag.com/gag/aMVqb86)
- - ⏩ [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)
- - 👉 [That escalated quickly](http://9gag.com/gag/aLnWQAz)<!-- MEMES:END -->
+ - 💣 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - ⏩ [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
+ - 👉 [Japan&#39;s defense is simply unreal, pulling off impossible saves.](http://9gag.com/gag/aRBRgV2)<!-- MEMES:END -->
 
 ---
 
