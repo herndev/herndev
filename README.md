@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The One Big Beautiful Bill approved by Congress allows immediate deduction of US software labor; foreign R&amp;D still must be amortized over 15 years &lpar;KBKG&rpar;](http://www.techmeme.com/250704/p12#a250704p12)
- - [Sony’s got an Xperia 1 VII problem so bad, it had to temporarily halt sales](https://www.androidauthority.com/xperia-1-vii-sales-stop-3574202/)
- - [4th of July Apple sale: Save up to $800 on hardware, monitors &amp; more](https://appleinsider.com/articles/25/07/04/4th-of-july-apple-sale-save-up-to-800-on-hardware-monitors-more?utm_medium=rss)<!-- TECH:END -->
+ - [Our favorite budget robot vacuum is $150 off!](https://www.androidauthority.com/eureka-e20-plus-robot-vacuum-deal-3574232/)
+ - [President Trump signs the One Big Beautiful Bill, which allows immediate deduction of US software labor; foreign R&amp;D still must be amortized over 15 years &lpar;KBKG&rpar;](http://www.techmeme.com/250704/p12#a250704p12)
+ - [Sony’s got an Xperia 1 VII problem so bad, it had to temporarily halt sales](https://www.androidauthority.com/xperia-1-vii-sales-stop-3574202/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
