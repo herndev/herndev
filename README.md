@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
- - ⏩ [America, United States of America and USA don&#39;t count](http://9gag.com/gag/abAR03B)
- - 👉 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)<!-- MEMES:END -->
+ - 💣 [Watch the cognitive dissonance kick in](http://9gag.com/gag/a1mOYyb)
+ - ⏩ [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
+ - 👉 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)<!-- MEMES:END -->
 
 ---
 
