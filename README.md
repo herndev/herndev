@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)
- - ⏩ [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
- - 👉 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)<!-- MEMES:END -->
+ - 💣 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)
+ - ⏩ [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
+ - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
 
 ---
 
