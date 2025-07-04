@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Happy Indie-Penance Day! Here Are 10 Amazing Indie Games You&#39;ve Never Heard Of Before](https://kotaku.com/indiepenance-day-indie-games-demo-steam-wishlist-1851785644)
- - [Aniplex announces new Resident Evil mobile game](https://www.polygon.com/news/611092/new-resident-evil-mobile-game-survivor-unit)
- - [A &#39;little educational game for middle-schoolers&#39; left DayZ&#39;s creators obsessed, inspired, and embroiled in a contentious presidential campaign: &#39;It&#39;s 4.5 years later, and I&#39;m still talking about this story&#39;](https://www.pcgamer.com/games/survival-crafting/a-little-educational-game-for-middle-schoolers-left-dayzs-creators-obsessed-inspired-and-embroiled-in-a-contentious-presidential-campaign-its-4-5-years-later-and-im-still-talking-about-this-story/)<!-- GAME:END -->
+ - [Picking the best GPU of 2025 has been the biggest challenge of my near 20-year PC gaming tech testing career. Now my brain hurts](https://www.pcgamer.com/hardware/graphics-cards/picking-the-best-gpu-of-2025-has-been-the-biggest-challenge-of-my-near-20-year-pc-gaming-tech-testing-career-now-my-brain-hurts/)
+ - [The Silksong subreddit is conducting elaborate ritual ban sacrifices in an attempt to cure &#39;silksanity&#39; and secure the game&#39;s release](https://www.pcgamer.com/games/action/the-silksong-subreddit-is-conducting-elaborate-ritual-ban-sacrifices-in-an-attempt-to-cure-silksanity-and-secure-the-games-release/)
+ - [Valve&#39;s reported profit-per-head from Steam commissions is out there, and at $3.5 million per employee it makes Apple and Facebook look like a lemonade stand](https://www.pcgamer.com/gaming-industry/valves-reported-profit-per-head-from-steam-commissions-is-out-there-and-at-usd3-5-million-per-employee-it-makes-apple-and-facebook-look-like-a-lemonade-stand/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
