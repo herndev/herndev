@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Samsung’s smartwatch market share drops, more than ever is riding on the Galaxy Watch 8](https://www.androidauthority.com/samsung-smartwatch-sales-3574169/)
- - [Best Pillows for Back Sleepers, Tested by a Sleep Expert](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)
- - [Sources: Nvidia&#39;s deal to buy CentML, which offers tools to optimize the running of AI models on chips, could exceed $400M; CentML raised a $27M seed in 2023 &lpar;Murad Hemmadi/The Logic&rpar;](http://www.techmeme.com/250704/p10#a250704p10)<!-- TECH:END -->
+ - [Sony’s got an Xperia 1 VII problem so bad, it had to temporarily halt sales](https://www.androidauthority.com/xperia-1-vii-sales-stop-3574202/)
+ - [4th of July Apple sale: Save up to $800 on hardware, monitors &amp; more](https://appleinsider.com/articles/25/07/04/4th-of-july-apple-sale-save-up-to-800-on-hardware-monitors-more?utm_medium=rss)
+ - [UK minister instructs the Turing AI institute, which has lately focused on responsible AI and ethics, to prioritize national security and defense instead &lpar;Joshua Nevett/BBC&rpar;](http://www.techmeme.com/250704/p11#a250704p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
