@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Friday, July 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-july-4/#ftag=CAD590a51e)
- - [Meta said it supports proposals for an EU-wide age of digital adulthood, below which minors would need parental consent to use social media &lpar;Brian O&#39;Donovan/RTÉ&rpar;](http://www.techmeme.com/250704/p1#a250704p1)
- - [Young, not dumb, and broke? Amazon is giving you 6 months of Prime for free](https://www.androidauthority.com/amazon-prime-for-young-adults-free-six-month-trial-3573970/)<!-- TECH:END -->
+ - [The Loop Micro is my new favorite bicycle phone mount](https://www.theverge.com/reviews/697356/loop-micro-best-bike-mount-review)
+ - [A look at Scattered Spider, a group of mainly young UK and US hackers using targeted social engineering to gain access to company systems and install ransomware &lpar;Wired&rpar;](http://www.techmeme.com/250704/p2#a250704p2)
+ - [Slate Auto’s electric pickup is no longer ‘under $20,000’ — thanks, Donald](https://www.theverge.com/news/698315/slate-autos-electric-pickup-is-no-longer-under-20000-thanks-donald)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
