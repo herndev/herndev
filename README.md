@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dog bite](http://9gag.com/gag/aO8pbp2)
- - ⏩ [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)
- - 👉 [That escalated quickly](http://9gag.com/gag/aLnWQAz)<!-- MEMES:END -->
+ - 💣 [In South Africa people install security gates inside their homes to protect their bedrooms](http://9gag.com/gag/ayNv0Rp)
+ - ⏩ [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
+ - 👉 [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)<!-- MEMES:END -->
 
 ---
 
