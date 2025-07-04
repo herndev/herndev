@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watch the cognitive dissonance kick in](http://9gag.com/gag/a1mOYyb)
- - ⏩ [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
- - 👉 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)<!-- MEMES:END -->
+ - 💣 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
+ - ⏩ [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
+ - 👉 [Suicidal fish](http://9gag.com/gag/azx4LQB)<!-- MEMES:END -->
 
 ---
 
