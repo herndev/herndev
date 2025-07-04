@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam&#39;s Hardware Survey continues to prove gamers don&#39;t have much free storage, and I am unfortunately among them](https://www.pcgamer.com/hardware/steams-hardware-survey-continues-to-prove-gamers-dont-have-much-free-storage-and-i-am-unfortunately-among-them/)
  - [Today&#39;s Wordle answer for Friday, July 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-4-2025/)
- - [Call of Duty: Black Ops 7 – All the key details on the next Call of Duty](https://www.pcgamer.com/games/call-of-duty/black-ops-7-guide/)
- - [Surprise! The Anthem servers are still running—but they won&#39;t be after January 12](https://www.pcgamer.com/games/third-person-shooter/surprise-the-anthem-servers-are-still-running-but-they-wont-be-after-january-12/)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 7 – All the key details on the next Call of Duty](https://www.pcgamer.com/games/call-of-duty/black-ops-7-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
