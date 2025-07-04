@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
- - ⏩ [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
- - 👉 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)<!-- MEMES:END -->
+ - 💣 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
+ - ⏩ [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
+ - 👉 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)<!-- MEMES:END -->
 
 ---
 
