@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile starts offering an $830 trade-in discount if you don’t mind locking yourself in](https://www.androidauthority.com/t-mobile-loyalty-trade-in-discount-3574071/)
- - [GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)
- - [Sources: the US plans to restrict shipments of AI chips to Malaysia and Thailand, as part of an effort to crack down on suspected chip smuggling into China &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250704/p7#a250704p7)<!-- TECH:END -->
+ - [Early look at EU energy labels suggest no IP rating upgrade for Galaxy Z Fold 7 and Flip 7](https://www.androidauthority.com/galaxy-z-fold-7-flip-7-eu-energy-labels-3574048/)
+ - [Tim Cook isn&#39;t going to get fired, and Steve Jobs isn&#39;t rolling over in his grave](https://appleinsider.com/articles/25/07/04/tim-cook-isnt-going-to-get-fired-and-steve-jobs-isnt-rolling-over-in-his-grave?utm_medium=rss)
+ - [Laid-off workers should use AI to manage their emotions, says Xbox exec](https://www.theverge.com/news/698468/xbox-exec-reccommends-ai-to-laid-off-staff)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
