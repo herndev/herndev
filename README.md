@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As companies like SpaceX, Stripe, and OpenAI stay private longer, tokenized stocks on blockchains offer a way for the public to access lucrative private markets &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250704/p3#a250704p3)
  - [The Lymow One robot lawn mower can do it all, and this Prime Day is the best time to get one](https://www.androidauthority.com/lymow-one-prime-day-3573819/)
- - [Pixel Watch 4 leak reveals every color and band option that is coming this year](https://www.androidauthority.com/pixel-watch-4-color-band-leak-3573991/)
- - [Google Messages could give profile pages a dash of Material 3 Expressive personality &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-profile-pages-material-3-expressive-apk-teardown-3573978/)<!-- TECH:END -->
+ - [Pixel Watch 4 leak reveals every color and band option that is coming this year](https://www.androidauthority.com/pixel-watch-4-color-band-leak-3573991/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
