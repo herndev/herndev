@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Call of Duty: Black Ops 7 – All the key details on the next Call of Duty](https://www.pcgamer.com/games/call-of-duty/black-ops-7-guide/)
  - [Surprise! The Anthem servers are still running—but they won&#39;t be after January 12](https://www.pcgamer.com/games/third-person-shooter/surprise-the-anthem-servers-are-still-running-but-they-wont-be-after-january-12/)
- - [I played 10 free Steam demos this week: here are the 5 games that made it onto my wishlist](https://www.pcgamer.com/games/i-played-10-free-steam-demos-this-week-here-are-the-5-games-that-made-it-onto-my-wishlist/)
- - [Best gifts to give characters in Persona 5 The Phantom X](https://www.polygon.com/persona-5-phantom-x-guides/610722/best-preferred-gifts-give-p5x-synergy)<!-- GAME:END -->
+ - [I played 10 free Steam demos this week: here are the 5 games that made it onto my wishlist](https://www.pcgamer.com/games/i-played-10-free-steam-demos-this-week-here-are-the-5-games-that-made-it-onto-my-wishlist/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
