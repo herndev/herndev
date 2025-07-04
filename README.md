@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, July 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-july-4/#ftag=CAD590a51e)
  - [Meta said it supports proposals for an EU-wide age of digital adulthood, below which minors would need parental consent to use social media &lpar;Brian O&#39;Donovan/RTÉ&rpar;](http://www.techmeme.com/250704/p1#a250704p1)
- - [Young, not dumb, and broke? Amazon is giving you 6 months of Prime for free](https://www.androidauthority.com/amazon-prime-for-young-adults-free-six-month-trial-3573970/)
- - [Tel Aviv-based Wonderful, which develops customer support AI agents for businesses in non-English speaking countries, raised a $34M seed led by Index Ventures &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250703/p37#a250703p37)<!-- TECH:END -->
+ - [Young, not dumb, and broke? Amazon is giving you 6 months of Prime for free](https://www.androidauthority.com/amazon-prime-for-young-adults-free-six-month-trial-3573970/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
