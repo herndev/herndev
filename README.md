@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages could give profile pages a dash of Material 3 Expressive personality &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-profile-pages-material-3-expressive-apk-teardown-3573978/)
- - [One UI 8 will take Samsung’s Audio Eraser to the next level](https://www.androidauthority.com/one-ui-8-audio-eraser-live-3573979/)
- - [The Loop Micro is my new favorite bicycle phone mount](https://www.theverge.com/reviews/697356/loop-micro-best-bike-mount-review)<!-- TECH:END -->
+ - [The Lymow One robot lawn mower can do it all, and this Prime Day is the best time to get one](https://www.androidauthority.com/lymow-one-prime-day-3573819/)
+ - [Pixel Watch 4 leak reveals every color and band option that is coming this year](https://www.androidauthority.com/pixel-watch-4-color-band-leak-3573991/)
+ - [Google Messages could give profile pages a dash of Material 3 Expressive personality &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-profile-pages-material-3-expressive-apk-teardown-3573978/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
