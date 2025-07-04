@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox exec suffers bout of terminal LinkedIn brain, suggests folks laid off by Microsoft use AI to &#39;reduce the emotional and cognitive load that comes with job loss&#39;](https://www.pcgamer.com/gaming-industry/game-development/xbox-exec-suffers-bout-of-terminal-linkedin-brain-suggests-folks-laid-off-by-microsoft-use-ai-to-reduce-the-emotional-and-cognitive-load-that-comes-with-job-loss/)
- - [Gachiakuta goes places I’ve never seen in an anime series, and that’s an instant win](https://www.polygon.com/recommends/610721/gachiakuta-anime-review-premiere-dark-shonen)
- - [Steam&#39;s Hardware Survey continues to prove gamers don&#39;t have much free storage, and I am unfortunately among them](https://www.pcgamer.com/hardware/steams-hardware-survey-continues-to-prove-gamers-dont-have-much-free-storage-and-i-am-unfortunately-among-them/)<!-- GAME:END -->
+ - [9 Signs That The MCU Has Lost Its Way](https://kotaku.com/marvel-cinematic-universe-phase-5-marvel-comics-1851785555)
+ - [Peak re-releases its next update aimed at improving stability and reassures players &#39;we don&#39;t have any issue with sharing video content, including modded stuff&#39;](https://www.pcgamer.com/games/adventure/peak-re-releases-its-next-update-aimed-at-improving-stability-and-reassures-players-we-dont-have-any-issue-with-sharing-video-content-including-modded-stuff/)
+ - [OLED is the must-have gaming monitor tech and I&#39;ve got some great early Prime Day deals for you](https://www.pcgamer.com/hardware/gaming-monitors/oled-is-the-must-have-gaming-monitor-tech-and-ive-got-some-great-early-prime-day-deals-for-you/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
