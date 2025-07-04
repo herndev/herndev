@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In the wake of Perfect Dark&#39;s cancellation, Joanna Dark&#39;s voice actor urges fans to help save the series: &#39;Agent Dark doesn’t give up and neither should any of you&#39;](https://www.pcgamer.com/gaming-industry/in-the-wake-of-perfect-darks-cancellation-joanna-darks-voice-actor-urges-fans-to-help-save-the-series-agent-dark-doesnt-give-up-and-neither-should-any-of-you/)
- - [Hideo Kojima&#39;s mysterious OD reportedly escapes the cancellation axe at Microsoft](https://www.pcgamer.com/gaming-industry/hideo-kojimas-mysterious-od-reportedly-escapes-the-cancellation-axe-at-microsoft/)
- - [CWA union derides Microsoft layoffs when ‘the company is prospering’: &#39;We are living through a moment of profound corporate consolidation and disruption&#39;](https://www.pcgamer.com/gaming-industry/cwa-union-derides-microsoft-layoffs-when-the-company-is-prospering-we-are-living-through-a-moment-of-profound-corporate-consolidation-and-disruption/)<!-- GAME:END -->
+ - [Deep Rock Galactic board game Kickstarter pulls in nearly $1 million in 1 day for a trio of new expansions](https://www.pcgamer.com/games/board-games/deep-rock-galactic-board-game-kickstarter-pulls-in-nearly-usd1-million-in-1-day-for-a-trio-of-new-expansions/)
+ - [Ratatan, the new rhythm game from the designer of Patapon, delays early access release in response to negative demo feedback](https://www.pcgamer.com/games/rhythm/ratatan-the-new-rhythm-game-from-the-designer-of-patapon-delays-early-access-release-in-response-to-negative-demo-feedback/)
+ - [In the wake of Perfect Dark&#39;s cancellation, Joanna Dark&#39;s voice actor urges fans to help save the series: &#39;Agent Dark doesn’t give up and neither should any of you&#39;](https://www.pcgamer.com/gaming-industry/in-the-wake-of-perfect-darks-cancellation-joanna-darks-voice-actor-urges-fans-to-help-save-the-series-agent-dark-doesnt-give-up-and-neither-should-any-of-you/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
