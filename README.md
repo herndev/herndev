@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says he believes in &quot;techno-capitalism&quot; and is &quot;politically homeless&quot; as Democrats no longer encourage a &quot;culture of innovation and entrepreneurship&quot; &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250704/p8#a250704p8)
- - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Early look at EU energy labels suggest no IP rating upgrade for Galaxy Z Fold 7 and Flip 7](https://www.androidauthority.com/galaxy-z-fold-7-flip-7-eu-energy-labels-3574048/)<!-- TECH:END -->
+ - [Doc: UK&#39;s Independent Publishers Alliance files an antitrust complaint with EU and the UK CMA against Google, alleging misuse of web content for AI Overviews &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250704/p9#a250704p9)
+ - [Ten best Mac games to buy during the Steam Summer Sale](https://appleinsider.com/articles/25/07/04/ten-best-mac-games-to-buy-during-the-steam-summer-sale?utm_medium=rss)
+ - [Can Whole Body Vibration Plates Actually Help You Lose Weight? We Asked Fitness Experts](https://www.cnet.com/health/fitness/can-whole-body-vibration-plates-actually-help-you-lose-weight-we-asked-fitness-experts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
