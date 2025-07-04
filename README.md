@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri&#39;s future, the original iPhone&#39;s past, and Apple Music&#39;s birthday on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/04/siris-future-the-original-iphones-past-and-apple-musics-birthday-on-the-appleinsider-podcast?utm_medium=rss)
- - [The American system of democracy has crashed](https://www.theverge.com/policy/697301/trump-supreme-court-founding-fathers-july-4)
- - [Google expands Material 3 Expressive redesign to more Android settings](https://www.androidauthority.com/material-3-expressive-more-android-settings-3574011/)<!-- TECH:END -->
+ - [15 Best MagSafe Wireless Chargers &lpar;2025&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
+ - [Sources: Google plans to propose a price comparison box at the top of search results in EU, featuring ranked options from competitors, to avoid DMA fines &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250704/p6#a250704p6)
+ - [Siri&#39;s future, the original iPhone&#39;s past, and Apple Music&#39;s birthday on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/04/siris-future-the-original-iphones-past-and-apple-musics-birthday-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
