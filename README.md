@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys...](http://9gag.com/gag/aKGKB31)
- - ⏩ [In South Africa people install security gates inside their homes to protect their bedrooms](http://9gag.com/gag/ayNv0Rp)
- - 👉 [How well does this work on atms? Asking for a friend](http://9gag.com/gag/axymNwp)<!-- MEMES:END -->
+ - 💣 [Dog bite](http://9gag.com/gag/aO8pbp2)
+ - ⏩ [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)
+ - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
 
 ---
 
