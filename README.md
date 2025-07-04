@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
- - ⏩ [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
- - 👉 [Suicidal fish](http://9gag.com/gag/azx4LQB)<!-- MEMES:END -->
+ - 💣 [Mom..Dad..I need to tell you something..](https://www.reddit.com/r/funny/comments/1lrp48z/momdadi_need_to_tell_you_something/)
+ - ⏩ [Great Epic Finish](http://9gag.com/gag/aAyvrKg)
+ - 👉 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)<!-- MEMES:END -->
 
 ---
 
