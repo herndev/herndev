@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [9 Signs That The MCU Has Lost Its Way](https://kotaku.com/marvel-cinematic-universe-phase-5-marvel-comics-1851785555)
- - [Peak re-releases its next update aimed at improving stability and reassures players &#39;we don&#39;t have any issue with sharing video content, including modded stuff&#39;](https://www.pcgamer.com/games/adventure/peak-re-releases-its-next-update-aimed-at-improving-stability-and-reassures-players-we-dont-have-any-issue-with-sharing-video-content-including-modded-stuff/)
- - [OLED is the must-have gaming monitor tech and I&#39;ve got some great early Prime Day deals for you](https://www.pcgamer.com/hardware/gaming-monitors/oled-is-the-must-have-gaming-monitor-tech-and-ive-got-some-great-early-prime-day-deals-for-you/)<!-- GAME:END -->
+ - [Next Week on Xbox – New Games for July 7-11](https://news.xbox.com/en-us/2025/07/04/next-week-on-xbox-new-games-for-july-7-11/)
+ - [What really goes into fine-tuning a roguelike, according to Lost in Random: The Eternal Die director](https://www.polygon.com/gaming/610928/lost-random-eternal-die-roguelike-developer-insights)
+ - [Resident Evil Requiem Connects To A Lost Classic](https://kotaku.com/resident-evil-requiem-9-outbreak-ashcroft-alyssa-grace-1851785638)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
