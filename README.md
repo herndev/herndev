@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I test all the best Android phones every year, and these are the ones you should buy in 2025](https://www.androidauthority.com/best-android-phone-3563254/)
- - [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
- - [As companies like SpaceX, Stripe, and OpenAI stay private longer, tokenized stocks on blockchains offer a way for the public to access lucrative private markets &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250704/p3#a250704p3)<!-- TECH:END -->
+ - [This is not a tattoo robot](https://www.theverge.com/robot/697890/tattoo-robot)
+ - [Is the Nothing Phone 3 worth it? Survey reveals surprising consumer sentiment](https://www.androidauthority.com/nothing-phone-3-price-poll-results-3574008/)
+ - [New Galaxy Z Fold 7 leaks may give first real look at Samsung’s slimmer foldable](https://www.theverge.com/news/698372/samsung-galaxy-z-fold-7-photo-leaks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
