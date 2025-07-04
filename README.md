@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox – New Games for July 7-11](https://news.xbox.com/en-us/2025/07/04/next-week-on-xbox-new-games-for-july-7-11/)
- - [What really goes into fine-tuning a roguelike, according to Lost in Random: The Eternal Die director](https://www.polygon.com/gaming/610928/lost-random-eternal-die-roguelike-developer-insights)
- - [Resident Evil Requiem Connects To A Lost Classic](https://kotaku.com/resident-evil-requiem-9-outbreak-ashcroft-alyssa-grace-1851785638)<!-- GAME:END -->
+ - [Happy Indie-Penance Day! Here Are 10 Amazing Indie Games You&#39;ve Never Heard Of Before](https://kotaku.com/indiepenance-day-indie-games-demo-steam-wishlist-1851785644)
+ - [Aniplex announces new Resident Evil mobile game](https://www.polygon.com/news/611092/new-resident-evil-mobile-game-survivor-unit)
+ - [A &#39;little educational game for middle-schoolers&#39; left DayZ&#39;s creators obsessed, inspired, and embroiled in a contentious presidential campaign: &#39;It&#39;s 4.5 years later, and I&#39;m still talking about this story&#39;](https://www.pcgamer.com/games/survival-crafting/a-little-educational-game-for-middle-schoolers-left-dayzs-creators-obsessed-inspired-and-embroiled-in-a-contentious-presidential-campaign-its-4-5-years-later-and-im-still-talking-about-this-story/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
