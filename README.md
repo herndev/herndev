@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Out of the blue: How a Quake blog turned PC gaming news site has stayed a haven from &#39;internet enshittification&#39; for nearly 30 years](https://www.pcgamer.com/gaming-industry/out-of-the-blue-how-a-quake-blog-turned-pc-gaming-news-site-has-stayed-a-haven-from-internet-enshittification-for-nearly-30-years/)
- - [Michael Madsen, the voice of Dishonored&#39;s supernatural assassin Daud, has died](https://www.pcgamer.com/games/michael-madsen-the-voice-of-dishonoreds-supernatural-assassin-daud-has-died/)
- - [I don&#39;t need 64 GB of RAM but I am tempted when prices are as low as they are right now for genuinely speedy sticks](https://www.pcgamer.com/hardware/memory/i-dont-need-64-gb-of-ram-but-i-am-tempted-when-prices-are-as-low-as-they-are-right-now-for-genuinely-speedy-sticks/)<!-- GAME:END -->
+ - [Perfect Dark dev shoots down claim the ace-looking reveal was fake: &#39;It&#39;s probably more real than you think&#39;](https://www.pcgamer.com/games/fps/perfect-dark-developer-shoots-down-claims-the-ace-looking-reveal-was-fake-its-probably-more-real-than-you-think/)
+ - [Fortnite hints at making its hottest new mode permanent by asking fans what they want next](https://www.pcgamer.com/games/battle-royale/fortnite-blitz-royale-permanent-mode-hint/)
+ - [J-pop icon LiSA sees herself in the anime movie Perfect Blue](https://www.polygon.com/anime/610720/lisa-jpop-anime-perfect-blue-spy-family)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
