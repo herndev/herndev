@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Counterpoint Research: Apple&#39;s iPhone sales in China grew 8% YoY in Q2 2025, the first time Apple has recorded growth in China since Q2 2023 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250703/p34#a250703p34)
- - [Daniel Gross is leaving Safe Superintelligence, the AI startup he co-founded with Ilya Sutskever, to join Meta&#39;s new superintelligence lab &lpar;Bloomberg&rpar;](http://www.techmeme.com/250703/p33#a250703p33)
- - [Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies](https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/)<!-- TECH:END -->
+ - [Amazon devices go on sale ahead of Prime Day: Here are the hottest deals!](https://www.androidauthority.com/amazon-deals-before-prime-day-3573935/)
+ - [FOIA docs: the Trump administration claimed broad authority to nullify laws in letters to tech firms releasing them of legal liability related to the TikTok ban &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/250703/p35#a250703p35)
+ - [The White House’s favorite source of pro-Trump news is … the White House’s YouTube channel](https://www.theverge.com/politics/698148/white-house-wire-youtube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
