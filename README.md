@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom..Dad..I need to tell you something..](https://www.reddit.com/r/funny/comments/1lrp48z/momdadi_need_to_tell_you_something/)
- - ⏩ [Great Epic Finish](http://9gag.com/gag/aAyvrKg)
- - 👉 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)<!-- MEMES:END -->
+ - 💣 [The scale of this ant city is mind-blowing](http://9gag.com/gag/a4PwYK1)
+ - ⏩ [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)
+ - 👉 [This guy will die in valor](http://9gag.com/gag/aD2Qo6O)<!-- MEMES:END -->
 
 ---
 
