@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is not a tattoo robot](https://www.theverge.com/robot/697890/tattoo-robot)
- - [Is the Nothing Phone 3 worth it? Survey reveals surprising consumer sentiment](https://www.androidauthority.com/nothing-phone-3-price-poll-results-3574008/)
- - [New Galaxy Z Fold 7 leaks may give first real look at Samsung’s slimmer foldable](https://www.theverge.com/news/698372/samsung-galaxy-z-fold-7-photo-leaks)<!-- TECH:END -->
+ - [Siri&#39;s future, the original iPhone&#39;s past, and Apple Music&#39;s birthday on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/04/siris-future-the-original-iphones-past-and-apple-musics-birthday-on-the-appleinsider-podcast?utm_medium=rss)
+ - [The American system of democracy has crashed](https://www.theverge.com/policy/697301/trump-supreme-court-founding-fathers-july-4)
+ - [Google expands Material 3 Expressive redesign to more Android settings](https://www.androidauthority.com/material-3-expressive-more-android-settings-3574011/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
