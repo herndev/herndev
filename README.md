@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So simple yet so useful](http://9gag.com/gag/aVvReo8)
+ - 💣 [Service chicken](http://9gag.com/gag/agmKqeW)
  - ⏩ [Count of hole dipping](http://9gag.com/gag/aAyvddp)
- - 👉 [They understood the assignment](http://9gag.com/gag/aAyvPZo)<!-- MEMES:END -->
+ - 👉 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
 
 ---
 
