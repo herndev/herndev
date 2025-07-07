@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn... Lightning struck a field, and more than 25 cows were electrocuted.](http://9gag.com/gag/aZZRmLz)
- - ⏩ [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
- - 👉 [Lol](http://9gag.com/gag/a6ZGobm)<!-- MEMES:END -->
+ - 💣 [Hope the kids like it, glad they made this](http://9gag.com/gag/a7onM3w)
+ - ⏩ [Damn... Lightning struck a field, and more than 25 cows were electrocuted.](http://9gag.com/gag/aZZRmLz)
+ - 👉 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)<!-- MEMES:END -->
 
 ---
 
