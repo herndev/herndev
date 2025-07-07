@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Turn over](http://9gag.com/gag/aqyDrnP)
- - ⏩ [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
- - 👉 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)<!-- MEMES:END -->
+ - 💣 [So simple yet so useful](http://9gag.com/gag/aVvReo8)
+ - ⏩ [Count of hole dipping](http://9gag.com/gag/aAyvddp)
+ - 👉 [They understood the assignment](http://9gag.com/gag/aAyvPZo)<!-- MEMES:END -->
 
 ---
 
