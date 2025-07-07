@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to London.](http://9gag.com/gag/a87V8A1)
- - ⏩ [How dare you to touch my hooman?](http://9gag.com/gag/aKGKjej)
- - 👉 [Cool bike man](http://9gag.com/gag/aQzy3d7)<!-- MEMES:END -->
+ - 💣 [I am the weapon](http://9gag.com/gag/aAyvx7E)
+ - ⏩ [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)
+ - 👉 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)<!-- MEMES:END -->
 
 ---
 
