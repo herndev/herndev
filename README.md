@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)
- - ⏩ [Dispicable.](http://9gag.com/gag/aAyvx20)
- - 👉 [I am the weapon](http://9gag.com/gag/aAyvx7E)<!-- MEMES:END -->
+ - 💣 [Poland - Hold the Fort!](http://9gag.com/gag/avy9O8n)
+ - ⏩ [Cool bike man](http://9gag.com/gag/aQzy3d7)
+ - 👉 [What a creative way to repurpose old toys.](http://9gag.com/gag/a5Q5bDN)<!-- MEMES:END -->
 
 ---
 
