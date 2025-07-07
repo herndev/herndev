@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
- - ⏩ [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
- - 👉 [I am the weapon](http://9gag.com/gag/aAyvx7E)<!-- MEMES:END -->
+ - 💣 [Welcome to London.](http://9gag.com/gag/a87V8A1)
+ - ⏩ [How dare you to touch my hooman?](http://9gag.com/gag/aKGKjej)
+ - 👉 [Cool bike man](http://9gag.com/gag/aQzy3d7)<!-- MEMES:END -->
 
 ---
 
