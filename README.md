@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - ⏩ [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)
+ - 💣 [When road rage driver meets road calm driver.](http://9gag.com/gag/aXPRgX2)
+ - ⏩ [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
  - 👉 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)<!-- MEMES:END -->
 
 ---
