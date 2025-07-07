@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s sweet](http://9gag.com/gag/ae9RG9O)
- - ⏩ [Hmm this is make sense](http://9gag.com/gag/axymjRL)
- - 👉 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)<!-- MEMES:END -->
+ - 💣 [Turn over](http://9gag.com/gag/aqyDrnP)
+ - ⏩ [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
+ - 👉 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)<!-- MEMES:END -->
 
 ---
 
