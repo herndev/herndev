@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 actor Samantha Béart says people don&#39;t realise how awful Karlach was before the events of the game: &#39;I think she was a piece of work in hell&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-actor-samantha-beart-says-people-dont-realise-how-awful-karlach-was-before-the-events-of-the-game-i-think-she-was-a-piece-of-work-in-hell/)
- - [Rematch players are still crashing out over &#39;self-absorbed&#39; ball hogs, and while I do get it, I can&#39;t help but wonder if some zen is in order](https://www.pcgamer.com/games/sports/rematch-players-are-still-crashing-out-over-self-absorbed-ball-hogs-and-while-i-do-get-it-i-cant-help-but-wonder-if-some-zen-is-in-order/)
- - [Grow a Garden has added new pets, mutations, and a seed even better than the Candy Blossom as part of its newest update](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-has-added-new-pets-mutations-and-a-seed-even-better-than-the-candy-blossom-as-part-of-its-newest-update/)<!-- GAME:END -->
+ - [The Finest Cosplay Appearing At Dokomi 2025](https://kotaku.com/dokomi-cosplay-germany-league-of-legends-clair-obscur-1851785688)
+ - [I hit one of Australia&#39;s biggest retro fares and PC gaming was nowhere to be seen, though collectors told me that&#39;s down to one of its major retro strengths](https://www.pcgamer.com/hardware/i-hit-one-of-australias-biggest-retro-fares-and-pc-gaming-was-nowhere-to-be-seen-though-collectors-told-me-thats-down-to-one-of-its-major-retro-strengths/)
+ - [Baldur&#39;s Gate 3 actor Samantha Béart says people don&#39;t realise how awful Karlach was before the events of the game: &#39;I think she was a piece of work in hell&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-actor-samantha-beart-says-people-dont-realise-how-awful-karlach-was-before-the-events-of-the-game-i-think-she-was-a-piece-of-work-in-hell/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
