@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the holistic health advice meets real-world trauma.](http://9gag.com/gag/avy98NM)
- - ⏩ [Showtime](http://9gag.com/gag/abARzdb)
- - 👉 [Male Privilege](http://9gag.com/gag/a34NQnm)<!-- MEMES:END -->
+ - 💣 [Hope the kids like it, glad they made this](http://9gag.com/gag/a7onM3w)
+ - ⏩ [Dispicable.](http://9gag.com/gag/aAyvx20)
+ - 👉 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)<!-- MEMES:END -->
 
 ---
 
