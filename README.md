@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at various responses to AI firms&#39; scraping, like open source Anubis that uses cryptographic JavaScript challenges, Cloudflare&#39;s &quot;link mazes&quot;, and more &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250707/p18#a250707p18)
- - [Last call: Fortnite players only have two days left to claim their settlement payout](https://www.androidauthority.com/fortnite-settlement-claims-closing-3574629/)
- - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
+ - [‘Anthem’ Is the Latest Video Game Casualty. What Should End-of-Life Care Look Like for Games?](https://www.wired.com/story/bioware-anthem-shuttered-stop-killing-games/)
+ - [Google Pixel 9a price drops to its record-low price of $449](https://www.androidauthority.com/google-pixel-9a-deal-4-3573934/)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
