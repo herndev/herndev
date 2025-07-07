@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
- - ⏩ [Count of hole dipping](http://9gag.com/gag/aAyvddp)
- - 👉 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)<!-- MEMES:END -->
+ - 💣 [Is this heresy?](http://9gag.com/gag/avy9ORq)
+ - ⏩ [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
+ - 👉 [Welcome to London.](http://9gag.com/gag/a87V8A1)<!-- MEMES:END -->
 
 ---
 
