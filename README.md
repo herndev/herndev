@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hangzhou, home to DeepSeek and Alibaba, has become a hub for Chinese AI startups, with the suburb Liangzhu emerging as a hotspot for coders in their 20s and 30s &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250707/p1#a250707p1)
  - [Spotify Jam comes to Android Auto so your whole car can DJ](https://www.androidauthority.com/spotify-android-auto-jam-update-3574297/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, July 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-july-7/#ftag=CAD590a51e)
- - [How the US government launched a revamped online system in September 2024 to simplify passport renewal, which is already handling nearly 50% of all renewals &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/250706/p18#a250706p18)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, July 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-july-7/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
