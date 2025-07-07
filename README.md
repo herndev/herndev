@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Charge into EA Sports College Football 26 with EA Play Now](https://news.xbox.com/en-us/2025/07/07/ea-play-rewards-july-college-football-26/)
- - [18 TV Shows Of 2025 You Need To Watch](https://kotaku.com/andor-severance-black-mirror-daredevil-best-tv-shows-1851779606)
- - [Every Status Effect In Bravely Default: Flying Fairy HD, And How To Cure It](https://kotaku.com/bravely-default-flying-fairy-hd-status-paralysis-sleep-1851785720)<!-- GAME:END -->
+ - [Final Fantasy 9 fans are eating well this year](https://www.polygon.com/gaming/611293/final-fantasy-9-remake-merch-anniversary)
+ - [Every Mario Kart World Track Has A Closed-Circuit Version, But It&#39;s Not Easy To Play Them](https://kotaku.com/mario-kart-world-closed-circuit-play-vs-time-trial-1851785731)
+ - [The Jurassic World movies just had their Last Jedi ‘nope’ moment](https://www.polygon.com/analysis/611222/jurassic-world-rebirth-star-wars-the-last-jedi-walkback)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
