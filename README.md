@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple researching AI agent that can describe Street View scenes to the blind](https://appleinsider.com/articles/25/07/07/apple-researching-ai-agent-that-can-describe-street-view-scenes-to-the-blind?utm_medium=rss)
- - [Nintendo wants to keep ‘traditional approach&amp;#8217; to development as costs skyrocket](https://www.theverge.com/news/699429/nintendo-switch-2-game-development-costs)
- - [Wicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movie](https://www.theverge.com/news/699463/mattel-hot-wheels-live-action-movie-jon-m-chu-director)<!-- TECH:END -->
+ - [Best Window Air Conditioners 2025: 10 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
+ - [Dynamic Island again rumored to change with iPhone 17](https://appleinsider.com/articles/25/07/07/dynamic-island-again-rumored-to-change-with-iphone-17?utm_medium=rss)
+ - [15 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
