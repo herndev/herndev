@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
- - ⏩ [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)
- - 👉 [Count of hole dipping](http://9gag.com/gag/aAyvddp)<!-- MEMES:END -->
+ - 💣 [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)
+ - ⏩ [Dispicable.](http://9gag.com/gag/aAyvx20)
+ - 👉 [I am the weapon](http://9gag.com/gag/aAyvx7E)<!-- MEMES:END -->
 
 ---
 
