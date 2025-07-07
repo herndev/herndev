@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on videos confirm the truth about Galaxy Z Fold 7 and Flip 7 leaks](https://www.androidauthority.com/galaxy-z-fold-7-flip-7-hands-on-video-leak-3574322/)
- - [An analysis of Crunchbase and PitchBook data shows that in 2025 so far at least 36 tech startups hit a $1B+ valuation, including seven in June and six in May &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250707/p7#a250707p7)
- - [Galaxy S26 Ultra leak reveals camera and design upgrades, but not the one you asked for](https://www.androidauthority.com/samsung-galaxy-s26-ultra-camera-design-upgrade-leak-3574334/)<!-- TECH:END -->
+ - [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)
+ - [Experts say ransomware group DragonForce, which targeted M&amp;S, Harrods, and the Co-op, started a turf war with rival RansomHub, potentially bringing more hacks &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250707/p8#a250707p8)
+ - [Windows 11 has finally overtaken Windows 10 as the most used desktop OS](https://www.theverge.com/news/699161/microsoft-windows-11-usage-milestone-windows-10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
