@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, July 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-7-2025/)
  - [At the request of South Korea, Valve pulled a mod from Steam that glorified the country&#39;s military dictatorship](https://www.pcgamer.com/gaming-industry/at-the-request-of-south-korea-valve-pulled-a-mod-from-steam-that-glorified-the-countrys-military-dictatorship/)
- - [&#39;The transfer of user data by DeepSeek to China is unlawful&#39;: Germany calls for Google and Apple to remove the AI app from their stores](https://www.pcgamer.com/software/ai/the-transfer-of-user-data-by-deepseek-to-china-is-unlawful-germany-calls-for-google-and-apple-to-remove-the-ai-app-from-their-stores/)
- - [Romero Games reportedly met with Microsoft just a day before the publisher pulled funding for the studio, and there was &#39;no mention&#39; of the decision that put over 100 people out of work](https://www.pcgamer.com/games/fps/romero-games-reportedly-met-with-microsoft-just-a-day-before-the-publisher-pulled-funding-for-the-studio-and-there-was-no-mention-of-the-decision-that-put-over-100-people-out-of-work/)<!-- GAME:END -->
+ - [&#39;The transfer of user data by DeepSeek to China is unlawful&#39;: Germany calls for Google and Apple to remove the AI app from their stores](https://www.pcgamer.com/software/ai/the-transfer-of-user-data-by-deepseek-to-china-is-unlawful-germany-calls-for-google-and-apple-to-remove-the-ai-app-from-their-stores/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
