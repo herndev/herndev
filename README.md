@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Night City lives on&#39;—Cyberpunk: Edgerunners season 2 teaser trailer may give us our first glimpse at the series&#39; next protagonist](https://www.pcgamer.com/movies-tv/night-city-lives-on-cyberpunk-edgerunners-season-2-teaser-trailer-may-give-us-our-first-glimpse-at-the-series-next-protagonist/)
- - [Fans Think Smash Bros. 64 Is Coming To Switch Online Thanks To Months-Old Blurry Backgrounds](https://kotaku.com/smash-bros-64-switch-2-online-donkey-kong-glover-1851785699)
- - [Summer Games Done Quick 2025 is now live—kicking off a full week of speedruns and goofs to raise money for Doctors Without Borders](https://www.pcgamer.com/gaming-industry/events-conferences/summer-games-done-quick-2025-is-now-live-kicking-off-a-full-week-of-speedruns-and-goofs-to-raise-money-for-doctors-without-borders/)<!-- GAME:END -->
+ - [5 Essential Tips For Getting Started In Bravely Default: Flying Fairy HD](https://kotaku.com/bravely-default-remaster-flying-fairy-hd-brave-norende-1851785709)
+ - [Cyberpunk: Edgerunners Is Getting A Second Season, And The Writer Can&#39;t Wait To &#39;Make The Whole World Sad&#39;](https://kotaku.com/cyberpunk-edgerunners-season-2-netflix-studio-trigger-1851785703)
+ - [The Bubbline romance comes back to life in a brand new Adventure Time comic](https://www.polygon.com/entertainment/611131/adventure-time-comic-bubbline-college-bubblegum-marceline)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
