@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
- - ⏩ [This dad&#39;s reaction to his child being anemic is both hilarious and terrifying. The sardine threat is next level parenting.](http://9gag.com/gag/aLnWD3z)
- - 👉 [Service chicken](http://9gag.com/gag/agmKqeW)<!-- MEMES:END -->
+ - 💣 [Service chicken](http://9gag.com/gag/agmKqeW)
+ - ⏩ [Talk about an unexpected landing strip. Incredible piloting skills on display.](http://9gag.com/gag/ae9R6wB)
+ - 👉 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
 
 ---
 
