@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our favorite budget robot vacuum is $150 off!](https://www.androidauthority.com/eureka-e20-plus-robot-vacuum-deal-3574232/)
- - [President Trump signs the One Big Beautiful Bill, which allows immediate deduction of US software labor; foreign R&amp;D still must be amortized over 15 years &lpar;KBKG&rpar;](http://www.techmeme.com/250704/p12#a250704p12)
- - [Sony’s got an Xperia 1 VII problem so bad, it had to temporarily halt sales](https://www.androidauthority.com/xperia-1-vii-sales-stop-3574202/)<!-- TECH:END -->
+ - [USA vs. Mexico Livestream: How to Watch CONCACAF Gold Cup 2025 Final Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/usa-vs-mexico-livestream-how-to-watch-concacaf-gold-cup-2025-final-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [A look at the US Secret Service&#39;s GIOC, which sources say helped seize ~$400M in digital assets over the past decade through crypto scam investigations globally &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/250706/p15#a250706p15)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 7, #1479](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-7-1479/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
