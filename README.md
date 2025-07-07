@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A reasonable response](http://9gag.com/gag/axymVNp)
- - ⏩ [What the nani!](http://9gag.com/gag/aNDj1q6)
- - 👉 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)<!-- MEMES:END -->
+ - 💣 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
+ - ⏩ [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
+ - 👉 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)<!-- MEMES:END -->
 
 ---
 
