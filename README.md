@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 9 fans are eating well this year](https://www.polygon.com/gaming/611293/final-fantasy-9-remake-merch-anniversary)
- - [Every Mario Kart World Track Has A Closed-Circuit Version, But It&#39;s Not Easy To Play Them](https://kotaku.com/mario-kart-world-closed-circuit-play-vs-time-trial-1851785731)
- - [The Jurassic World movies just had their Last Jedi ‘nope’ moment](https://www.polygon.com/analysis/611222/jurassic-world-rebirth-star-wars-the-last-jedi-walkback)<!-- GAME:END -->
+ - [Vintage Story aims to save a piece of Hytale by hiring former Hypixel developers to create a new &#39;Adventure Mode&#39; for the hardcore survival game](https://www.pcgamer.com/games/survival-crafting/vintage-story-aims-to-save-a-piece-of-hytale-by-hiring-former-hypixel-developers-to-create-a-new-adventure-mode-for-the-hardcore-survival-game/)
+ - [The Rainbow Road master is back with a new record in Mario Kart World](https://www.polygon.com/nintendo-switch-2/611310/mario-kart-world-rainbow-road-record-twitch)
+ - [The Jurassic Park franchise could have been a lot worse — and there’s proof](https://www.polygon.com/entertainment/611242/jurassic-park-jaws-steven-spielberg-franchise-comparison)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
