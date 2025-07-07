@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Obsidian stuck to some fantasy conventions for Pillars of Eternity and Avowed because that&#39;s what people want: &#39;&#39;I didn&#39;t want to completely flip it and say, oh you want to play an elf? F**k you, this isn&#39;t your daddy&#39;s elf&#39;](https://www.pcgamer.com/games/rpg/obsidian-stuck-to-some-fantasy-conventions-for-pillars-of-eternity-and-avowed-because-thats-what-people-want-i-didnt-want-to-completely-flip-it-and-say-oh-you-want-to-play-an-elf-f-k-you-this-isnt-your-daddys-elf/)
- - [I convinced myself that I could easily win Squid Game, but after putting myself through the Roblox version it&#39;s clear that I absolutely would not walk away champion](https://www.pcgamer.com/games/survival-crafting/i-convinced-myself-that-i-could-easily-win-squid-game-but-after-putting-myself-through-the-roblox-version-its-clear-that-i-absolutely-would-not-walk-away-champion/)
- - [Jurassic World Rebirth Devours Box Office With Massive Opening Haul](https://kotaku.com/jurassic-world-rebirth-box-office-scarlett-johansson-1851785708)<!-- GAME:END -->
+ - [Charge into EA Sports College Football 26 with EA Play Now](https://news.xbox.com/en-us/2025/07/07/ea-play-rewards-july-college-football-26/)
+ - [18 TV Shows Of 2025 You Need To Watch](https://kotaku.com/andor-severance-black-mirror-daredevil-best-tv-shows-1851779606)
+ - [Every Status Effect In Bravely Default: Flying Fairy HD, And How To Cure It](https://kotaku.com/bravely-default-flying-fairy-hd-status-paralysis-sleep-1851785720)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
