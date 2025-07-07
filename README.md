@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Finest Cosplay Appearing At Dokomi 2025](https://kotaku.com/dokomi-cosplay-germany-league-of-legends-clair-obscur-1851785688)
- - [I hit one of Australia&#39;s biggest retro fares and PC gaming was nowhere to be seen, though collectors told me that&#39;s down to one of its major retro strengths](https://www.pcgamer.com/hardware/i-hit-one-of-australias-biggest-retro-fares-and-pc-gaming-was-nowhere-to-be-seen-though-collectors-told-me-thats-down-to-one-of-its-major-retro-strengths/)
- - [Baldur&#39;s Gate 3 actor Samantha Béart says people don&#39;t realise how awful Karlach was before the events of the game: &#39;I think she was a piece of work in hell&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-actor-samantha-beart-says-people-dont-realise-how-awful-karlach-was-before-the-events-of-the-game-i-think-she-was-a-piece-of-work-in-hell/)<!-- GAME:END -->
+ - [&#39;Night City lives on&#39;—Cyberpunk: Edgerunners season 2 teaser trailer may give us our first glimpse at the series&#39; next protagonist](https://www.pcgamer.com/movies-tv/night-city-lives-on-cyberpunk-edgerunners-season-2-teaser-trailer-may-give-us-our-first-glimpse-at-the-series-next-protagonist/)
+ - [Fans Think Smash Bros. 64 Is Coming To Switch Online Thanks To Months-Old Blurry Backgrounds](https://kotaku.com/smash-bros-64-switch-2-online-donkey-kong-glover-1851785699)
+ - [Summer Games Done Quick 2025 is now live—kicking off a full week of speedruns and goofs to raise money for Doctors Without Borders](https://www.pcgamer.com/gaming-industry/events-conferences/summer-games-done-quick-2025-is-now-live-kicking-off-a-full-week-of-speedruns-and-goofs-to-raise-money-for-doctors-without-borders/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
