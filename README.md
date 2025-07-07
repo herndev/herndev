@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Romero Games Says It’s Not Dead, But Looking For A New Publisher After Xbox Layoffs](https://kotaku.com/romero-games-xbox-layoffs-shut-down-canceled-game-1851785765)
- - [EA is reportedly betting the farm on a Battlefield 6 battle royale mode modeled after Call of Duty: Warzone](https://www.pcgamer.com/games/fps/ea-is-reportedly-betting-the-farm-on-a-battlefield-6-battle-royale-mode-modeled-after-call-of-duty-warzone/)
- - [&#39;Infinite damage&#39; strikes again as Diablo 4 players overthrow the tyranny of mathematics with an exploit that grants sorcerers the power of the gods: &#39;No way that they leave that in the game&#39;](https://www.pcgamer.com/games/rpg/infinite-damage-strikes-again-as-diablo-4-players-overthrow-the-tyranny-of-mathematics-with-an-exploit-that-grants-sorcerers-the-power-of-the-gods-no-way-that-they-leave-that-in-the-game/)<!-- GAME:END -->
+ - [Mecha Break’s futuristic details extend deep into the bathroom](https://www.polygon.com/gaming/611377/mecha-breaks-futuristic-details-extend-deep-into-the-bathroom)
+ - [Today&#39;s Dune: Awakening patch takes another sidestep away from the PvP-heavy endgame](https://www.pcgamer.com/games/mmo/todays-dune-awakening-patch-takes-another-sidestep-away-from-the-pvp-heavy-endgame/)
+ - [Sorry, but the ‘best’ Mario Kart World kart is ugly](https://www.polygon.com/nintendo-switch-2/611373/mario-kart-world-what-is-the-best-kart-baby-blooper)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
