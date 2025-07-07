@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s tariff woes continue in Trump&#39;s letters to world leaders](https://appleinsider.com/articles/25/07/07/apples-tariff-woes-continue-in-trumps-letters-to-world-leaders?utm_medium=rss)
- - [In iOS 26 beta 3, Apple dials back the degree of transparency in many UI elements, following user complaints about Liquid Glass &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250707/p17#a250707p17)
- - [Everything you want to know about the Galaxy Z Fold 7, Flip 7, and Flip 7 FE just leaked](https://www.androidauthority.com/galaxy-z-fold-7-flip-7-flip-7-fe-specs-3574562/)<!-- TECH:END -->
+ - [Squid Game Creator Reveals Alternate Ending That Fans Say Should&#39;ve Been the Real One](https://www.cnet.com/tech/services-and-software/squid-game-creator-reveals-alternate-ending-that-fans-say-shouldve-been-the-real-one/#ftag=CAD590a51e)
+ - [Get $200 to Spend on Tomorrow&#39;s Prime Day Sale With the Prime Visa](https://www.cnet.com/personal-finance/credit-cards/get-200-to-spend-on-tomorrows-prime-day-sale-with-the-prime-visa/#ftag=CAD590a51e)
+ - [The next Switch 2 restock kicks off at 7PM ET online at Walmart](https://www.theverge.com/games/685578/nintendo-switch-2-restock-walmart-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
