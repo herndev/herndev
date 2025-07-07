@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mecha Break’s futuristic details extend deep into the bathroom](https://www.polygon.com/gaming/611377/mecha-breaks-futuristic-details-extend-deep-into-the-bathroom)
- - [Today&#39;s Dune: Awakening patch takes another sidestep away from the PvP-heavy endgame](https://www.pcgamer.com/games/mmo/todays-dune-awakening-patch-takes-another-sidestep-away-from-the-pvp-heavy-endgame/)
- - [Sorry, but the ‘best’ Mario Kart World kart is ugly](https://www.polygon.com/nintendo-switch-2/611373/mario-kart-world-what-is-the-best-kart-baby-blooper)<!-- GAME:END -->
+ - [A Pokémon fan got the Pope to sign his Popplio card](https://www.polygon.com/culture/611394/pokemon-popplio-pope-leo-card-autograph)
+ - [Romero Games is not closed: &#39;We are doing everything in our power to ensure that it does not come to that&#39;](https://www.pcgamer.com/gaming-industry/romero-games-is-not-closed-we-are-doing-everything-in-our-power-to-ensure-that-it-does-not-come-to-that/)
+ - [&#39;Hi modders &amp;#60;3&#39;: Peak devs know we&#39;re using mods to break past the 4-player limit, and they&#39;re so cool with it they&#39;re even fixing mod-specific bugs](https://www.pcgamer.com/games/adventure/hi-modders-peak-devs-know-were-using-mods-to-break-past-the-4-player-limit-and-theyre-so-cool-with-it-theyre-even-fixing-mod-specific-bugs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
