@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Window Air Conditioners 2025: 10 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
- - [Dynamic Island again rumored to change with iPhone 17](https://appleinsider.com/articles/25/07/07/dynamic-island-again-rumored-to-change-with-iphone-17?utm_medium=rss)
- - [15 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
+ - [Tesla’s real struggles have only just begun](https://www.theverge.com/tesla/699431/tesla-musk-trump-ev-regulatory-credit-loss)
+ - [Get an AirTag for $19.99 or 4 for $67.99 with Prime Day deals](https://appleinsider.com/articles/25/07/07/apple-airtag-4-pack-plunges-to-6799-for-prime-day-2025?utm_medium=rss)
+ - [The 8 Best Travel Pillows &lpar;2025&rpar;, Tested on Planes](https://www.wired.com/gallery/best-travel-pillows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
