@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deep Rock Galactic board game Kickstarter pulls in nearly $1 million in 1 day for a trio of new expansions](https://www.pcgamer.com/games/board-games/deep-rock-galactic-board-game-kickstarter-pulls-in-nearly-usd1-million-in-1-day-for-a-trio-of-new-expansions/)
- - [Ratatan, the new rhythm game from the designer of Patapon, delays early access release in response to negative demo feedback](https://www.pcgamer.com/games/rhythm/ratatan-the-new-rhythm-game-from-the-designer-of-patapon-delays-early-access-release-in-response-to-negative-demo-feedback/)
- - [In the wake of Perfect Dark&#39;s cancellation, Joanna Dark&#39;s voice actor urges fans to help save the series: &#39;Agent Dark doesn’t give up and neither should any of you&#39;](https://www.pcgamer.com/gaming-industry/in-the-wake-of-perfect-darks-cancellation-joanna-darks-voice-actor-urges-fans-to-help-save-the-series-agent-dark-doesnt-give-up-and-neither-should-any-of-you/)<!-- GAME:END -->
+ - [&#39;The transfer of user data by DeepSeek to China is unlawful&#39;: Germany calls for Google and Apple to remove the AI app from their stores](https://www.pcgamer.com/software/ai/the-transfer-of-user-data-by-deepseek-to-china-is-unlawful-germany-calls-for-google-and-apple-to-remove-the-ai-app-from-their-stores/)
+ - [Romero Games reportedly met with Microsoft just a day before the publisher pulled funding for the studio, and there was &#39;no mention&#39; of the decision that put over 100 people out of work](https://www.pcgamer.com/games/fps/romero-games-reportedly-met-with-microsoft-just-a-day-before-the-publisher-pulled-funding-for-the-studio-and-there-was-no-mention-of-the-decision-that-put-over-100-people-out-of-work/)
+ - [&#39;There are no plans to drop support for SteamOS&#39;: The Finals devs commit to Steam Deck and Linux players despite new kernel-level anti-cheat](https://www.pcgamer.com/games/fps/there-are-no-plans-to-drop-support-for-steamos-the-finals-devs-commit-to-steam-deck-and-linux-players-despite-new-kernel-level-anti-cheat/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
