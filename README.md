@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
- - ⏩ [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
- - 👉 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)<!-- MEMES:END -->
+ - 💣 [Damn... Lightning struck a field, and more than 25 cows were electrocuted.](http://9gag.com/gag/aZZRmLz)
+ - ⏩ [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
+ - 👉 [Lol](http://9gag.com/gag/a6ZGobm)<!-- MEMES:END -->
 
 ---
 
