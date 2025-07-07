@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hope the kids like it, glad they made this](http://9gag.com/gag/a7onM3w)
- - ⏩ [Dispicable.](http://9gag.com/gag/aAyvx20)
- - 👉 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)<!-- MEMES:END -->
+ - 💣 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
+ - ⏩ [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)
+ - 👉 [Insert title](http://9gag.com/gag/a87Voqe)<!-- MEMES:END -->
 
 ---
 
