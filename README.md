@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How SharkNinja took over the home, with CEO Mark Barrocas](https://www.theverge.com/decoder-podcast-with-nilay-patel/695613/sharkninja-ceo-mark-barrocas-interview-flexflame-grill-home-appliance)
- - [DOJ goes after US citizen for developing anti-ICE app](https://appleinsider.com/articles/25/07/07/doj-goes-after-us-citizen-for-developing-anti-ice-app?utm_medium=rss)
- - [Samsung boosts SmartThings with AI routines &amp; expanded Apple support](https://appleinsider.com/articles/25/07/07/samsung-boosts-smartthings-with-ai-routines-expanded-apple-support?utm_medium=rss)<!-- TECH:END -->
+ - [Android is finally adding a search bar to its Photo Picker to help you find images faster](https://www.androidauthority.com/photo-picker-search-bar-rolling-out-3574489/)
+ - [Amazon slashes AirPods Pro 2 to $159.99 for Prime Day](https://appleinsider.com/articles/25/07/07/amazon-slashes-airpods-pro-2-to-15999-for-prime-day?utm_medium=rss)
+ - [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
