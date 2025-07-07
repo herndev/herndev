@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hope the kids like it, glad they made this](http://9gag.com/gag/a7onM3w)
- - ⏩ [Damn... Lightning struck a field, and more than 25 cows were electrocuted.](http://9gag.com/gag/aZZRmLz)
- - 👉 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)<!-- MEMES:END -->
+ - 💣 [When the holistic health advice meets real-world trauma.](http://9gag.com/gag/avy98NM)
+ - ⏩ [Showtime](http://9gag.com/gag/abARzdb)
+ - 👉 [Male Privilege](http://9gag.com/gag/a34NQnm)<!-- MEMES:END -->
 
 ---
 
