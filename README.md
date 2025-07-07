@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squid Game Creator Reveals Alternate Ending That Fans Say Should&#39;ve Been the Real One](https://www.cnet.com/tech/services-and-software/squid-game-creator-reveals-alternate-ending-that-fans-say-shouldve-been-the-real-one/#ftag=CAD590a51e)
- - [Get $200 to Spend on Tomorrow&#39;s Prime Day Sale With the Prime Visa](https://www.cnet.com/personal-finance/credit-cards/get-200-to-spend-on-tomorrows-prime-day-sale-with-the-prime-visa/#ftag=CAD590a51e)
- - [The next Switch 2 restock kicks off at 7PM ET online at Walmart](https://www.theverge.com/games/685578/nintendo-switch-2-restock-walmart-availability)<!-- TECH:END -->
+ - [A look at various responses to AI firms&#39; scraping, like open source Anubis that uses cryptographic JavaScript challenges, Cloudflare&#39;s &quot;link mazes&quot;, and more &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250707/p18#a250707p18)
+ - [Last call: Fortnite players only have two days left to claim their settlement payout](https://www.androidauthority.com/fortnite-settlement-claims-closing-3574629/)
+ - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
