@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somewhere in china](http://9gag.com/gag/an7GyAV)
- - ⏩ [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)
- - 👉 [Service chicken](http://9gag.com/gag/agmKqeW)<!-- MEMES:END -->
+ - 💣 [A reasonable response](http://9gag.com/gag/axymVNp)
+ - ⏩ [What the nani!](http://9gag.com/gag/aNDj1q6)
+ - 👉 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)<!-- MEMES:END -->
 
 ---
 
