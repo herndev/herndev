@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poland - Hold the Fort!](http://9gag.com/gag/avy9O8n)
- - ⏩ [Cool bike man](http://9gag.com/gag/aQzy3d7)
- - 👉 [What a creative way to repurpose old toys.](http://9gag.com/gag/a5Q5bDN)<!-- MEMES:END -->
+ - 💣 [Somewhere in china](http://9gag.com/gag/an7GyAV)
+ - ⏩ [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)
+ - 👉 [Service chicken](http://9gag.com/gag/agmKqeW)<!-- MEMES:END -->
 
 ---
 
