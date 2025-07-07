@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [INIU upgrades world’s smallest 10,000mAh 45W fast-charging power bank with new colors and tech](https://www.androidauthority.com/iniu-p50-power-bank-3574379/)
- - [What the iPhone 17 Pro looks like with moved MagSafe &amp; Apple logo](https://appleinsider.com/articles/25/07/07/what-the-iphone-17-pro-looks-like-with-moved-magsafe-apple-logo?utm_medium=rss)
- - [Stat Counter: Windows 11 had a 50.9% share of the Windows market on July 4, ahead of Windows 10&#39;s 46.2%; the OS, released in 2021, only had a &lt;10% share in 2022 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250707/p10#a250707p10)<!-- TECH:END -->
+ - [CoreWeave says it agreed to acquire bitcoin miner Core Scientific in a ~$9B all-stock deal, set to close in Q4 2025, to expand its AI data center capacity &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250707/p11#a250707p11)
+ - [Now you can just tell SmartThings how to automate your home](https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines)
+ - [Fifth Avenue Apple Store hit with Trump environmental protest graffiti](https://appleinsider.com/articles/25/07/07/fifth-avenue-apple-store-hit-with-trump-environmental-protest-graffiti?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
