@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PE firm TPG completes its $7.6B acquisition of the remaining 70% stake in DirecTV from AT&amp;T, marking AT&amp;T&#39;s exit from media &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250707/p12#a250707p12)
- - [Why Jolly Ranchers Are Banned in the UK but Not the US](https://www.wired.com/story/why-jolly-ranchers-are-banned-in-the-uk-but-not-the-us-moah-mosh-gras/)
- - [Google’s At a Glance weather icons are getting a controversial minimalist makeover](https://www.androidauthority.com/at-a-glance-colorless-weather-icons-3574450/)<!-- TECH:END -->
+ - [Apple researching AI agent that can describe Street View scenes to the blind](https://appleinsider.com/articles/25/07/07/apple-researching-ai-agent-that-can-describe-street-view-scenes-to-the-blind?utm_medium=rss)
+ - [Nintendo wants to keep ‘traditional approach&amp;#8217; to development as costs skyrocket](https://www.theverge.com/news/699429/nintendo-switch-2-game-development-costs)
+ - [Wicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movie](https://www.theverge.com/news/699463/mattel-hot-wheels-live-action-movie-jon-m-chu-director)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
