@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this heresy?](http://9gag.com/gag/avy9ORq)
- - ⏩ [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
- - 👉 [Welcome to London.](http://9gag.com/gag/a87V8A1)<!-- MEMES:END -->
+ - 💣 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
+ - ⏩ [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
+ - 👉 [I am the weapon](http://9gag.com/gag/aAyvx7E)<!-- MEMES:END -->
 
 ---
 
