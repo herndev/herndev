@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android is finally adding a search bar to its Photo Picker to help you find images faster](https://www.androidauthority.com/photo-picker-search-bar-rolling-out-3574489/)
- - [Amazon slashes AirPods Pro 2 to $159.99 for Prime Day](https://appleinsider.com/articles/25/07/07/amazon-slashes-airpods-pro-2-to-15999-for-prime-day?utm_medium=rss)
- - [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)<!-- TECH:END -->
+ - [PE firm TPG completes its $7.6B acquisition of the remaining 70% stake in DirecTV from AT&amp;T, marking AT&amp;T&#39;s exit from media &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250707/p12#a250707p12)
+ - [Why Jolly Ranchers Are Banned in the UK but Not the US](https://www.wired.com/story/why-jolly-ranchers-are-banned-in-the-uk-but-not-the-us-moah-mosh-gras/)
+ - [Google’s At a Glance weather icons are getting a controversial minimalist makeover](https://www.androidauthority.com/at-a-glance-colorless-weather-icons-3574450/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
