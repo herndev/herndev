@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vintage Story aims to save a piece of Hytale by hiring former Hypixel developers to create a new &#39;Adventure Mode&#39; for the hardcore survival game](https://www.pcgamer.com/games/survival-crafting/vintage-story-aims-to-save-a-piece-of-hytale-by-hiring-former-hypixel-developers-to-create-a-new-adventure-mode-for-the-hardcore-survival-game/)
- - [The Rainbow Road master is back with a new record in Mario Kart World](https://www.polygon.com/nintendo-switch-2/611310/mario-kart-world-rainbow-road-record-twitch)
- - [The Jurassic Park franchise could have been a lot worse — and there’s proof](https://www.polygon.com/entertainment/611242/jurassic-park-jaws-steven-spielberg-franchise-comparison)<!-- GAME:END -->
+ - [Capcom cancels a presentation on Monster Hunter Wilds performance at CEDEC 2025 amid ongoing developer harassment](https://www.pcgamer.com/games/action/capcom-cancels-a-presentation-on-monster-hunter-wilds-performance-at-cedec-2025-amid-ongoing-developer-harassment/)
+ - [Dune: Awakening: Is Fast Travel Worth It?](https://kotaku.com/dune-awakening-fast-travel-solaris-ornithopter-pilot-1851785740)
+ - [You Have Until Wednesday To Take Out Nightreign&#39;s Everdark Soverign, Gnoster](https://kotaku.com/elden-ring-nightreign-es-gnoster-faurtis-animus-1851785752)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
