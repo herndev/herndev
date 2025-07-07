@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, July 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-7-2025/)
- - [At the request of South Korea, Valve pulled a mod from Steam that glorified the country&#39;s military dictatorship](https://www.pcgamer.com/gaming-industry/at-the-request-of-south-korea-valve-pulled-a-mod-from-steam-that-glorified-the-countrys-military-dictatorship/)
- - [&#39;The transfer of user data by DeepSeek to China is unlawful&#39;: Germany calls for Google and Apple to remove the AI app from their stores](https://www.pcgamer.com/software/ai/the-transfer-of-user-data-by-deepseek-to-china-is-unlawful-germany-calls-for-google-and-apple-to-remove-the-ai-app-from-their-stores/)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 actor Samantha Béart says people don&#39;t realise how awful Karlach was before the events of the game: &#39;I think she was a piece of work in hell&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-actor-samantha-beart-says-people-dont-realise-how-awful-karlach-was-before-the-events-of-the-game-i-think-she-was-a-piece-of-work-in-hell/)
+ - [Rematch players are still crashing out over &#39;self-absorbed&#39; ball hogs, and while I do get it, I can&#39;t help but wonder if some zen is in order](https://www.pcgamer.com/games/sports/rematch-players-are-still-crashing-out-over-self-absorbed-ball-hogs-and-while-i-do-get-it-i-cant-help-but-wonder-if-some-zen-is-in-order/)
+ - [Grow a Garden has added new pets, mutations, and a seed even better than the Candy Blossom as part of its newest update](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-has-added-new-pets-mutations-and-a-seed-even-better-than-the-candy-blossom-as-part-of-its-newest-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
