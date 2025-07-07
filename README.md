@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s real struggles have only just begun](https://www.theverge.com/tesla/699431/tesla-musk-trump-ev-regulatory-credit-loss)
- - [Get an AirTag for $19.99 or 4 for $67.99 with Prime Day deals](https://appleinsider.com/articles/25/07/07/apple-airtag-4-pack-plunges-to-6799-for-prime-day-2025?utm_medium=rss)
- - [The 8 Best Travel Pillows &lpar;2025&rpar;, Tested on Planes](https://www.wired.com/gallery/best-travel-pillows/)<!-- TECH:END -->
+ - [Apple&#39;s tariff woes continue in Trump&#39;s letters to world leaders](https://appleinsider.com/articles/25/07/07/apples-tariff-woes-continue-in-trumps-letters-to-world-leaders?utm_medium=rss)
+ - [In iOS 26 beta 3, Apple dials back the degree of transparency in many UI elements, following user complaints about Liquid Glass &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250707/p17#a250707p17)
+ - [Everything you want to know about the Galaxy Z Fold 7, Flip 7, and Flip 7 FE just leaked](https://www.androidauthority.com/galaxy-z-fold-7-flip-7-flip-7-fe-specs-3574562/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
