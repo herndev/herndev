@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom cancels a presentation on Monster Hunter Wilds performance at CEDEC 2025 amid ongoing developer harassment](https://www.pcgamer.com/games/action/capcom-cancels-a-presentation-on-monster-hunter-wilds-performance-at-cedec-2025-amid-ongoing-developer-harassment/)
- - [Dune: Awakening: Is Fast Travel Worth It?](https://kotaku.com/dune-awakening-fast-travel-solaris-ornithopter-pilot-1851785740)
- - [You Have Until Wednesday To Take Out Nightreign&#39;s Everdark Soverign, Gnoster](https://kotaku.com/elden-ring-nightreign-es-gnoster-faurtis-animus-1851785752)<!-- GAME:END -->
+ - [Romero Games Says It’s Not Dead, But Looking For A New Publisher After Xbox Layoffs](https://kotaku.com/romero-games-xbox-layoffs-shut-down-canceled-game-1851785765)
+ - [EA is reportedly betting the farm on a Battlefield 6 battle royale mode modeled after Call of Duty: Warzone](https://www.pcgamer.com/games/fps/ea-is-reportedly-betting-the-farm-on-a-battlefield-6-battle-royale-mode-modeled-after-call-of-duty-warzone/)
+ - [&#39;Infinite damage&#39; strikes again as Diablo 4 players overthrow the tyranny of mathematics with an exploit that grants sorcerers the power of the gods: &#39;No way that they leave that in the game&#39;](https://www.pcgamer.com/games/rpg/infinite-damage-strikes-again-as-diablo-4-players-overthrow-the-tyranny-of-mathematics-with-an-exploit-that-grants-sorcerers-the-power-of-the-gods-no-way-that-they-leave-that-in-the-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
