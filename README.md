@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the US government launched a revamped online system in September 2024 to simplify passport renewal, which is already handling nearly 50% of all renewals &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/250706/p18#a250706p18)
- - [After Elon Musk announced a US political party called the America Party, Donald Trump called Musk a &quot;TRAIN WRECK&quot; fueled by discontent over EV subsidies ending &lpar;The Guardian&rpar;](http://www.techmeme.com/250706/p17#a250706p17)
- - [Tokyo-based Sakana AI details a new Monte Carlo tree search-based technique that lets multiple LLMs cooperate on a single task, outperforming individual models &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/250706/p16#a250706p16)<!-- TECH:END -->
+ - [Spotify Jam comes to Android Auto so your whole car can DJ](https://www.androidauthority.com/spotify-android-auto-jam-update-3574297/)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, July 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-july-7/#ftag=CAD590a51e)
+ - [How the US government launched a revamped online system in September 2024 to simplify passport renewal, which is already handling nearly 50% of all renewals &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/250706/p18#a250706p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
