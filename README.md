@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Service chicken](http://9gag.com/gag/agmKqeW)
- - ⏩ [Talk about an unexpected landing strip. Incredible piloting skills on display.](http://9gag.com/gag/ae9R6wB)
- - 👉 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
+ - 💣 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
+ - ⏩ [Count of hole dipping](http://9gag.com/gag/aAyvddp)
+ - 👉 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)<!-- MEMES:END -->
 
 ---
 
