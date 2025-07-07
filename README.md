@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s Capgemini plans to acquire US-listed IT outsourcing company WNS for $3.3B in cash, seeking to boost its agentic AI services; WNS serves 600+ clients &lpar;Bloomberg&rpar;](http://www.techmeme.com/250707/p5#a250707p5)
- - [On-the-job learning in fields like law and banking faces a dual threat as hybrid work limits juniors&#39; exposure to seniors and gen AI replaces key routine tasks &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250707/p4#a250707p4)
- - [Meituan says daily orders on its instant delivery service surpassed 120M on July 5, setting an all-time high, with food orders accounting for 100M of them &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250707/p3#a250707p3)<!-- TECH:END -->
+ - [Hands-on videos confirm the truth about Galaxy Z Fold 7 and Flip 7 leaks](https://www.androidauthority.com/galaxy-z-fold-7-flip-7-hands-on-video-leak-3574322/)
+ - [An analysis of Crunchbase and PitchBook data shows that in 2025 so far at least 36 tech startups hit a $1B+ valuation, including seven in June and six in May &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250707/p7#a250707p7)
+ - [Galaxy S26 Ultra leak reveals camera and design upgrades, but not the one you asked for](https://www.androidauthority.com/samsung-galaxy-s26-ultra-camera-design-upgrade-leak-3574334/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
