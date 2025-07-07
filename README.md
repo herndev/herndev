@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [At the request of South Korea, Valve pulled a mod from Steam that glorified the country&#39;s military dictatorship](https://www.pcgamer.com/gaming-industry/at-the-request-of-south-korea-valve-pulled-a-mod-from-steam-that-glorified-the-countrys-military-dictatorship/)
  - [&#39;The transfer of user data by DeepSeek to China is unlawful&#39;: Germany calls for Google and Apple to remove the AI app from their stores](https://www.pcgamer.com/software/ai/the-transfer-of-user-data-by-deepseek-to-china-is-unlawful-germany-calls-for-google-and-apple-to-remove-the-ai-app-from-their-stores/)
- - [Romero Games reportedly met with Microsoft just a day before the publisher pulled funding for the studio, and there was &#39;no mention&#39; of the decision that put over 100 people out of work](https://www.pcgamer.com/games/fps/romero-games-reportedly-met-with-microsoft-just-a-day-before-the-publisher-pulled-funding-for-the-studio-and-there-was-no-mention-of-the-decision-that-put-over-100-people-out-of-work/)
- - [&#39;There are no plans to drop support for SteamOS&#39;: The Finals devs commit to Steam Deck and Linux players despite new kernel-level anti-cheat](https://www.pcgamer.com/games/fps/there-are-no-plans-to-drop-support-for-steamos-the-finals-devs-commit-to-steam-deck-and-linux-players-despite-new-kernel-level-anti-cheat/)<!-- GAME:END -->
+ - [Romero Games reportedly met with Microsoft just a day before the publisher pulled funding for the studio, and there was &#39;no mention&#39; of the decision that put over 100 people out of work](https://www.pcgamer.com/games/fps/romero-games-reportedly-met-with-microsoft-just-a-day-before-the-publisher-pulled-funding-for-the-studio-and-there-was-no-mention-of-the-decision-that-put-over-100-people-out-of-work/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
