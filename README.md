@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am the weapon](http://9gag.com/gag/aAyvx7E)
- - ⏩ [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)
- - 👉 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)<!-- MEMES:END -->
+ - 💣 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
+ - ⏩ [Welcome to London.](http://9gag.com/gag/a87V8A1)
+ - 👉 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)<!-- MEMES:END -->
 
 ---
 
