@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
- - ⏩ [Welcome to London.](http://9gag.com/gag/a87V8A1)
- - 👉 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)<!-- MEMES:END -->
+ - 💣 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
+ - ⏩ [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)
+ - 👉 [Count of hole dipping](http://9gag.com/gag/aAyvddp)<!-- MEMES:END -->
 
 ---
 
