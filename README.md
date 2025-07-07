@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Essential Tips For Getting Started In Bravely Default: Flying Fairy HD](https://kotaku.com/bravely-default-remaster-flying-fairy-hd-brave-norende-1851785709)
- - [Cyberpunk: Edgerunners Is Getting A Second Season, And The Writer Can&#39;t Wait To &#39;Make The Whole World Sad&#39;](https://kotaku.com/cyberpunk-edgerunners-season-2-netflix-studio-trigger-1851785703)
- - [The Bubbline romance comes back to life in a brand new Adventure Time comic](https://www.polygon.com/entertainment/611131/adventure-time-comic-bubbline-college-bubblegum-marceline)<!-- GAME:END -->
+ - [Obsidian stuck to some fantasy conventions for Pillars of Eternity and Avowed because that&#39;s what people want: &#39;&#39;I didn&#39;t want to completely flip it and say, oh you want to play an elf? F**k you, this isn&#39;t your daddy&#39;s elf&#39;](https://www.pcgamer.com/games/rpg/obsidian-stuck-to-some-fantasy-conventions-for-pillars-of-eternity-and-avowed-because-thats-what-people-want-i-didnt-want-to-completely-flip-it-and-say-oh-you-want-to-play-an-elf-f-k-you-this-isnt-your-daddys-elf/)
+ - [I convinced myself that I could easily win Squid Game, but after putting myself through the Roblox version it&#39;s clear that I absolutely would not walk away champion](https://www.pcgamer.com/games/survival-crafting/i-convinced-myself-that-i-could-easily-win-squid-game-but-after-putting-myself-through-the-roblox-version-its-clear-that-i-absolutely-would-not-walk-away-champion/)
+ - [Jurassic World Rebirth Devours Box Office With Massive Opening Haul](https://kotaku.com/jurassic-world-rebirth-box-office-scarlett-johansson-1851785708)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
