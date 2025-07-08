@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smart savings on the Samsung Galaxy Ring: Now just $299.99 in record drop](https://www.androidauthority.com/samsung-galaxy-ring-prime-day-3575087/)
- - [Gemini’s new rainbow-colored overlay box is rolling out to beta testers](https://www.androidauthority.com/gemini-rainbow-overlay-3575074/)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)<!-- TECH:END -->
+ - [Prime Day spotlight: BLUETTI Elite 100 V2 is the new 1kWh power champion](https://www.androidauthority.com/bluetti-elite-100-v2-power-station-3573524/)
+ - [Waymo introduces teen accounts for the first time in Phoenix](https://www.theverge.com/news/699580/waymo-teen-account-phoenix)
+ - [Amazon&#39;s iPad Prime Day sale drops prices to as low as $279 &amp; saves you up to $300](https://appleinsider.com/articles/25/07/08/amazons-ipad-prime-day-sale-drops-prices-to-as-low-as-279-saves-you-up-to-300?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
