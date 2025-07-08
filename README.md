@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the Ghost of Yōtei State of Play gameplay deep dive on July 10](https://blog.playstation.com/2025/07/08/watch-the-ghost-of-yotei-state-of-play-gameplay-deep-dive-on-july-10/)
- - [Forget the blue shell: Mario Kart World&amp;#8217;s lightning is the true villain](https://www.polygon.com/nintendo-switch-2/611376/mario-kart-world-lightning-bolt-vs-blue-shell)
- - [&#39;Knowing Steam players are hoarders explains why you give Valve that 30%,&#39; analyst tells devs: &#39;You get access to a bunch of drunken sailors who spend money irresponsibly&#39;](https://www.pcgamer.com/gaming-industry/knowing-steam-players-are-hoarders-explains-why-you-give-valve-that-30-percent-analyst-tells-devs-you-get-access-to-a-bunch-of-drunken-sailors-who-spend-money-irresponsibly/)<!-- GAME:END -->
+ - [The Pope Just Blessed A Holographic Pokémon Card](https://kotaku.com/pope-leo-xiv-pokemon-card-autograph-popplio-meme-1851785788)
+ - [PROMO: Girls’ Frontline 2: Exilium Gears Up With Limited-Time Drops And Anime Expo Activation](https://kotaku.com/girls-frontline-2-exilium-anime-expo-limited-drop-1851785787)
+ - [This brilliant dark and moody cyberpunk city builder is my kind of cosy game—and for less than $7 you might as well see if it&#39;s yours too](https://www.pcgamer.com/games/city-builder/this-brilliant-dark-and-moody-cyberpunk-city-builder-is-my-kind-of-cosy-game-and-for-less-than-usd7-you-might-as-well-see-if-its-yours-too/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
