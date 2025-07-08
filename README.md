@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Train a dragon or play a unicorn with the new D&amp;#038;D Pets &amp;#038; Sidekicks book](https://www.polygon.com/dnd-dungeons-dragons/611529/dnd-pets-sidekicks-kickstarter)
- - [You Can Unlock Bam Margera In THPS 3+4 Without Even Skating](https://kotaku.com/thps-3-4-bam-margera-how-to-unlock-easy-fast-tip-guide-1851785804)
- - [Switch 2 is a massive hit. So where’s all the conversation about it?](https://www.polygon.com/nintendo-switch-2/611518/one-month-analysis-hype)<!-- GAME:END -->
+ - [Somber Echoes is A Fresh Take on Metroidvania, Inspired By Ancient Greek Tragedy](https://news.xbox.com/en-us/2025/07/08/somber-echoes-metroidvania-inspired-by-ancient-greek-tragedy/)
+ - [The Expanse: Osiris Reborn devs welcome all the Mass Effect comparisons](https://www.polygon.com/gaming/611007/expanse-osiris-reborn-mass-effect-comparisons)
+ - [The Best Uses Of Rewind In Mario Kart World](https://kotaku.com/mario-kart-world-when-how-to-rewind-switch-2-1851785829)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
