@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s tariff woes continue in Trump&#39;s letters to world leaders](https://appleinsider.com/articles/25/07/07/apples-tariff-woes-continue-in-trumps-letters-to-world-leaders?utm_medium=rss)
- - [Real-world Google Pixel 10 Pro images just leaked from an unlikely place](https://www.androidauthority.com/google-pixel-10-pro-real-world-image-leak-3574973/)
- - [Android may soon use AI to organize your phone’s notifications](https://www.androidauthority.com/android-notification-organizer-leak-3574662/)<!-- TECH:END -->
+ - [French chipmaker SiPearl raised a €130M Series A from Taiwan&#39;s Cathay Venture and others to develop its Arm-based Rhea1 AI chip, set to feature 80 cores &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250708/p11#a250708p11)
+ - [22 Best MacBook Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-macbook-accessories/)
+ - [Nothing Phone &lpar;3&rpar; Review: The Designer Phone](https://www.wired.com/review/nothing-phone-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
