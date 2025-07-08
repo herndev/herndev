@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [French chipmaker SiPearl raised a €130M Series A from Taiwan&#39;s Cathay Venture and others to develop its Arm-based Rhea1 AI chip, set to feature 80 cores &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250708/p11#a250708p11)
- - [22 Best MacBook Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-macbook-accessories/)
- - [Nothing Phone &lpar;3&rpar; Review: The Designer Phone](https://www.wired.com/review/nothing-phone-3/)<!-- TECH:END -->
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [Moonvalley releases Marey, its fully licensed AI video model, available for $14.99, $34.99, or $149.99/month; 80% of its footage is from independent filmmakers &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/250708/p13#a250708p13)
+ - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
