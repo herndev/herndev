@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When road rage driver meets road calm driver.](http://9gag.com/gag/aXPRgX2)
- - ⏩ [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
- - 👉 [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)<!-- MEMES:END -->
+ - 💣 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - ⏩ [Honeybee venom is showing promise in the fight against aggressive breast cancer cells. This is a significant step forward in medical research.](http://9gag.com/gag/aQzye3K)
+ - 👉 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)<!-- MEMES:END -->
 
 ---
 
