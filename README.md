@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Anthem’ Is the Latest Video Game Casualty. What Should End-of-Life Care Look Like for Games?](https://www.wired.com/story/bioware-anthem-shuttered-stop-killing-games/)
- - [Google Pixel 9a price drops to its record-low price of $449](https://www.androidauthority.com/google-pixel-9a-deal-4-3573934/)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
+ - [Meta poaches Apple Intelligence executive amid larger leadership restructure](https://appleinsider.com/articles/25/07/07/meta-poaches-apple-intelligence-executive-amid-larger-leadership-restructure?utm_medium=rss)
+ - [Quantum computing company IonQ raised $1B via a sale of stock and warrants to Heights Capital Management, an affiliate of Susquehanna International Group &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250707/p20#a250707p20)
+ - [‘Anthem’ Is the Latest Video Game Casualty. What Should End-of-Life Care Look Like for Games?](https://www.wired.com/story/bioware-anthem-shuttered-stop-killing-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
