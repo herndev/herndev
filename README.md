@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
- - ⏩ [Did you know ...](http://9gag.com/gag/aZZRygX)
- - 👉 [Insert title](http://9gag.com/gag/a87Voqe)<!-- MEMES:END -->
+ - ⏩ [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
+ - 👉 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)<!-- MEMES:END -->
 
 ---
 
