@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No shots needed](http://9gag.com/gag/amoR5Rd)
- - ⏩ [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 👉 [The ultimate test of patience and quick thinking](http://9gag.com/gag/aVvR77K)<!-- MEMES:END -->
+ - 💣 [Nobody was prepared for this](http://9gag.com/gag/aNDj0jr)
+ - ⏩ [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - 👉 [Million miles away](http://9gag.com/gag/aYQRYzm)<!-- MEMES:END -->
 
 ---
 
