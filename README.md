@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US appeals court blocks FTC&#39;s &quot;click-to-cancel&quot; rule, which was set to take effect on July 14, saying it failed to conduct a preliminary cost-benefit analysis &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250708/p28#a250708p28)
- - [GlobalFoundries agrees to acquire MIPS, a developer of RISC-V-based solutions and IP, with the deal expected to close in H2 2025 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250708/p27#a250708p27)
- - [Google releases July’s Pixel software update with bad news for the Pixel 6a](https://www.androidauthority.com/pixel-update-july-2025-pixel-6a-3575316/)<!-- TECH:END -->
+ - [Apple&amp;#8217;s design team will report to Tim Cook](https://www.theverge.com/news/701705/apple-tim-cook-design-team-report)
+ - [Supreme Court gives Trump the green light to cut down the federal workforce](https://www.theverge.com/policy/701646/supreme-court-decision-federal-workers-trump-layoffs)
+ - [After Musk said Grok was improved &quot;significantly&quot;, Grok wrote numerous antisemitic posts, sometimes without any clear prompting; some posts were later deleted &lpar;NBC News&rpar;](http://www.techmeme.com/250708/p31#a250708p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
