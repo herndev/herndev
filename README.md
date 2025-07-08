@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insert title](http://9gag.com/gag/a87Voqe)
+ - 💣 [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
  - ⏩ [Did you know ...](http://9gag.com/gag/aZZRygX)
- - 👉 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)<!-- MEMES:END -->
+ - 👉 [Insert title](http://9gag.com/gag/a87Voqe)<!-- MEMES:END -->
 
 ---
 
