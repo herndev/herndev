@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, July 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-8-2025/)
  - [Farming Simulator 25 finally figures out what the rest of us already knew: you gotta have some fishing in your farming game](https://www.pcgamer.com/games/sim/farming-simulator-25-finally-figures-out-what-the-rest-of-us-already-knew-you-gotta-have-some-fishing-in-your-farming-game/)
- - [OLED burn-in anxiety will ruin my sanity long before it ruins my monitor](https://www.pcgamer.com/hardware/oled-burn-in-anxiety-will-ruin-my-sanity-long-before-it-ruins-my-monitor/)
- - [15 hidden gems in the Steam Summer Sale you&#39;ve still got time to grab](https://www.pcgamer.com/games/15-hidden-gems-in-the-steam-summer-sale-youve-still-got-time-to-grab/)<!-- GAME:END -->
+ - [OLED burn-in anxiety will ruin my sanity long before it ruins my monitor](https://www.pcgamer.com/hardware/oled-burn-in-anxiety-will-ruin-my-sanity-long-before-it-ruins-my-monitor/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
