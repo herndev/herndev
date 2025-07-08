@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reveals One UI 8’s major security upgrades, coming first to Fold 7, Flip 7](https://www.androidauthority.com/samsung-knox-upgrades-one-ui-8-3574843/)
- - [The data industry is consolidating, with Databricks&#39; $1B Neon purchase, Salesforce&#39;s $8B Informatica deal, and more, fueled by the need for quality data for AI &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250708/p2#a250708p2)
- - [10% Home Depot Promo Codes &amp; Coupons | July 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [OnePlus announces Nord 5 and Nord CE 5 with specs tuned to global markets](https://www.androidauthority.com/oneplus-nord-5-nord-ce-5-launch-global-3574399/)
+ - [Microsoft’s Copilot Plus features might arrive on desktop PCs later this year](https://www.theverge.com/news/700294/intel-arrow-lake-refresh-npu-microsoft-copilot-plus-pc-features)
+ - [5 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
