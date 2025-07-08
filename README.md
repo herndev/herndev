@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
- - ⏩ [Million miles away](http://9gag.com/gag/aYQRYzm)
- - 👉 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)<!-- MEMES:END -->
+ - 💣 [Who drop it](http://9gag.com/gag/aVvRYoM)
+ - ⏩ [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - 👉 [Well.well.well](http://9gag.com/gag/azx41Pz)<!-- MEMES:END -->
 
 ---
 
