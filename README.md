@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who drop it](http://9gag.com/gag/aVvRYoM)
- - ⏩ [Damn you mom](http://9gag.com/gag/axym7Qb)
- - 👉 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)<!-- MEMES:END -->
+ - 💣 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - ⏩ [No shots needed](http://9gag.com/gag/amoR5Rd)
+ - 👉 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)<!-- MEMES:END -->
 
 ---
 
