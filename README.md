@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [When road rage driver meets road calm driver.](http://9gag.com/gag/aXPRgX2)
- - ⏩ [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
- - 👉 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)<!-- MEMES:END -->
+ - ⏩ [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
+ - 👉 [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)<!-- MEMES:END -->
 
 ---
 
