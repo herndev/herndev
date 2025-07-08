@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who drop it](http://9gag.com/gag/aVvRYoM)
- - ⏩ [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - 💣 [Removing a beaver dam is a tough job, but someone&#39;s gotta do it](http://9gag.com/gag/aE0Z2wM)
+ - ⏩ [Who drop it](http://9gag.com/gag/aVvRYoM)
  - 👉 [Well.well.well](http://9gag.com/gag/azx41Pz)<!-- MEMES:END -->
 
 ---
