@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus announces Nord 5 and Nord CE 5 with specs tuned to global markets](https://www.androidauthority.com/oneplus-nord-5-nord-ce-5-launch-global-3574399/)
- - [Microsoft’s Copilot Plus features might arrive on desktop PCs later this year](https://www.theverge.com/news/700294/intel-arrow-lake-refresh-npu-microsoft-copilot-plus-pc-features)
- - [5 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025/)<!-- TECH:END -->
+ - [Prime Day deals: AirPods 4 plunge to $89, AirPods Pro 2 hit record low $149](https://appleinsider.com/articles/25/07/08/prime-day-deals-airpods-4-plunge-to-89-airpods-pro-2-hit-record-low-149?utm_medium=rss)
+ - [Aqara Prime Day deals get you up to 38% off Apple Home cameras, locks, sensors](https://appleinsider.com/articles/25/07/08/aqara-prime-day-deals-get-you-up-to-38-off-apple-home-cameras-locks-sensors?utm_medium=rss)
+ - [OnePlus launches five products: the midrange €449 Nord 5 smartphone, the €349 Nord CE 5, a smaller €299 Watch 3 wearable, the €119 Buds 4, and the €229 Pad Lite &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250708/p5#a250708p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
