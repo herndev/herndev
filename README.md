@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Removing a beaver dam is a tough job, but someone&#39;s gotta do it](http://9gag.com/gag/aE0Z2wM)
- - ⏩ [Who drop it](http://9gag.com/gag/aVvRYoM)
- - 👉 [Well.well.well](http://9gag.com/gag/azx41Pz)<!-- MEMES:END -->
+ - 💣 [The German national football team 20 years ago.](http://9gag.com/gag/an7GgjB)
+ - ⏩ [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
+ - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
 
 ---
 
