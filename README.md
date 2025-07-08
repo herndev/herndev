@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon gets the green light to sell the Nintendo Switch 2](https://www.theverge.com/news/701385/amazon-nintendo-switch-2-listings)
- - [Here are 55 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
- - [TSA to finally end its dumb shoe removal policy for airport security](https://www.theverge.com/news/701279/tsa-shoe-removal-end-airport-security)<!-- TECH:END -->
+ - [Gmail&amp;#8217;s new tab is made for unsubscribing from emails](https://www.theverge.com/news/701282/gmail-manage-email-subscriptions-unsubscribe)
+ - [Samsung’s S90D OLED TV is at its lowest price ever for Prime Day and it’s great for gaming](https://www.theverge.com/tech/701376/amazon-prime-day-samsung-s90d-oled-tv)
+ - [Samsung Galaxy A36 5G hits its best price yet at $299.99 &lpar;25% off&rpar;](https://www.androidauthority.com/samsung-galaxy-a36-5g-deal-3575169/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
