@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No shots needed](http://9gag.com/gag/amoR5Rd)
- - ⏩ [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)
+ - 💣 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
+ - ⏩ [Million miles away](http://9gag.com/gag/aYQRYzm)
  - 👉 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)<!-- MEMES:END -->
 
 ---
