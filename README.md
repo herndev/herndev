@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why does this massive Galaxy Z Fold 7 leak not mention the S Pen at all?](https://www.androidauthority.com/z-fold-7-s-pen-3575174/)
- - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
- - [You can use sous vide to help iPhone repairs, but please don&#39;t](https://appleinsider.com/articles/25/07/08/you-can-use-sous-vide-to-help-iphone-repairs-but-please-dont?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon gets the green light to sell the Nintendo Switch 2](https://www.theverge.com/news/701385/amazon-nintendo-switch-2-listings)
+ - [Here are 55 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
+ - [TSA to finally end its dumb shoe removal policy for airport security](https://www.theverge.com/news/701279/tsa-shoe-removal-end-airport-security)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
