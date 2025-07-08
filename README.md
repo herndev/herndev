@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ten](http://9gag.com/gag/a87VoMp)
- - ⏩ [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)
- - 👉 [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)<!-- MEMES:END -->
+ - 💣 [Ulala](http://9gag.com/gag/azx414Z)
+ - ⏩ [A true king](http://9gag.com/gag/aBy40YZ)
+ - 👉 [Bring back the bloopers, Pixar! We miss the laughs and the behind-the-scenes fun.](http://9gag.com/gag/a1mOQAG)<!-- MEMES:END -->
 
 ---
 
