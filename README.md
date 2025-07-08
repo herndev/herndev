@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bayonetta creator is demanding an apology after voice acting controversy](https://www.polygon.com/news/611602/bayonetta-3-hideki-kamiya-helena-taylor-voice-acting-controversy-response)
- - [How to get Hisuian Zorua and Hisuian Zoroark in Pokémon Go](https://www.polygon.com/pokemon-go-guide/611527/how-to-get-hisuian-zorua-zoroark)
- - [The best gaming deals of Amazon Prime Day 2025](https://www.polygon.com/gaming/611626/amazon-prime-day-best-gaming-deals-2025)<!-- GAME:END -->
+ - [Blue Prince somehow makes for an incredible esport](https://www.polygon.com/gaming/611430/blue-prince-summer-games-done-quick-2025)
+ - [The Pope got gifted one Pokémon card, signed another, and thought it was all a great laugh: &#39;He began showing it off to the guards&#39;](https://www.pcgamer.com/games/the-pope-got-gifted-a-pokemon-card-signed-another-and-thought-it-was-all-a-great-laugh-he-began-showing-it-off-to-the-guards/)
+ - [Jeffrey Wright’s Dispatch performance surprised developer AdHoc Studio in the best way](https://www.polygon.com/gaming/611609/dispatch-jeffrey-wright-chase-superhero-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
