@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)
- - ⏩ [The Geh effect is real](http://9gag.com/gag/aBy4mrQ)
- - 👉 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)<!-- MEMES:END -->
+ - 💣 [Insert title](http://9gag.com/gag/a87Voqe)
+ - ⏩ [Did you know ...](http://9gag.com/gag/aZZRygX)
+ - 👉 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)<!-- MEMES:END -->
 
 ---
 
