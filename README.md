@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This striking two-toned mini PC features a fully customised fanless cooling system for Framework and AMD&#39;s new Halo Strix motherboards](https://www.pcgamer.com/hardware/this-striking-two-toned-mini-pc-features-a-fully-customised-fanless-cooling-system-for-framework-and-amds-new-halo-strix-motherboards/)
- - [Today&#39;s Wordle answer for Tuesday, July 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-8-2025/)
- - [Farming Simulator 25 finally figures out what the rest of us already knew: you gotta have some fishing in your farming game](https://www.pcgamer.com/games/sim/farming-simulator-25-finally-figures-out-what-the-rest-of-us-already-knew-you-gotta-have-some-fishing-in-your-farming-game/)<!-- GAME:END -->
+ - [UK looking to revamp defense laws as undersea cable sabotage and cyber attacks create &#39;gray zone threats&#39;](https://www.pcgamer.com/hardware/uk-looking-to-revamp-defense-laws-as-undersea-cable-sabotage-and-cyber-attacks-create-gray-zone-threats/)
+ - [Racks packing Nvidia&#39;s newest and shiniest AI supercomputer Blackwell Ultra cards have just been deployed by CoreWeave](https://www.pcgamer.com/hardware/racks-packing-nvidias-newst-and-shiniest-ai-supercomputer-blackwell-ultra-cards-have-just-been-deployed-by-coreweave/)
+ - [This striking two-toned mini PC features a fully customised fanless cooling system for Framework and AMD&#39;s new Halo Strix motherboards](https://www.pcgamer.com/hardware/this-striking-two-toned-mini-pc-features-a-fully-customised-fanless-cooling-system-for-framework-and-amds-new-halo-strix-motherboards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
