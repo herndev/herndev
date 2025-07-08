@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung reveals One UI 8’s major security upgrades, coming first to Fold 7, Flip 7](https://www.androidauthority.com/samsung-knox-upgrades-one-ui-8-3574843/)
  - [The data industry is consolidating, with Databricks&#39; $1B Neon purchase, Salesforce&#39;s $8B Informatica deal, and more, fueled by the need for quality data for AI &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250708/p2#a250708p2)
- - [10% Home Depot Promo Codes &amp; Coupons | July 2025](https://www.wired.com/story/home-depot-promo-code/)
- - [Sources: OpenAI tightened security, adding biometric checks in offices and isolating sensitive systems, to protect model weights and other IP from espionage &lpar;Financial Times&rpar;](http://www.techmeme.com/250708/p1#a250708p1)<!-- TECH:END -->
+ - [10% Home Depot Promo Codes &amp; Coupons | July 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
