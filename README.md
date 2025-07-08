@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
- - ⏩ [Million miles away](http://9gag.com/gag/aYQRYzm)
- - 👉 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)<!-- MEMES:END -->
+ - 💣 [No shots needed](http://9gag.com/gag/amoR5Rd)
+ - ⏩ [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 👉 [The ultimate test of patience and quick thinking](http://9gag.com/gag/aVvR77K)<!-- MEMES:END -->
 
 ---
 
