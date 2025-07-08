@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get four Apple AirTags for the price of three](https://www.theverge.com/tech/698693/apple-airtags-best-buy-amazon-prime-day-deal-sale)
- - [Brilliant: How the smart home company navigated a tumultuous bankruptcy](https://appleinsider.com/articles/25/07/08/brilliant-how-the-smart-home-company-navigated-a-tumultuous-bankruptcy?utm_medium=rss)
- - [ReserveOne, a cryptocurrency holding company with bitcoin, ethereum, and Solana, plans to list on the Nasdaq through a SPAC deal expected to raise $1B+ &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250708/p16#a250708p16)<!-- TECH:END -->
+ - [Smart savings on the Samsung Galaxy Ring: Now just $299.99 in record drop](https://www.androidauthority.com/samsung-galaxy-ring-prime-day-3575087/)
+ - [Gemini’s new rainbow-colored overlay box is rolling out to beta testers](https://www.androidauthority.com/gemini-rainbow-overlay-3575074/)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
