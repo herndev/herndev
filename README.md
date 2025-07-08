@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
- - ⏩ [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
- - 👉 [Who drop it](http://9gag.com/gag/aVvRYoM)<!-- MEMES:END -->
+ - 💣 [No shots needed](http://9gag.com/gag/amoR5Rd)
+ - ⏩ [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)
+ - 👉 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)<!-- MEMES:END -->
 
 ---
 
