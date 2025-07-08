@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Narwal Freo Z Ultra robot plummets to a new all-time low price](https://www.androidauthority.com/narwal-freo-z-ultra-deal-3-3574802/)
- - [Samsung projects Q2 operating profit down 56% YoY to $3.3B, vs. $4.5B est., due to struggles in its chip business stemming from US export controls for China &lpar;Reuters&rpar;](http://www.techmeme.com/250707/p22#a250707p22)
- - [An open letter signed by 602 founders, VCs, and more urges Sequoia act after Shaun Maguire said Zohran Mamdani &quot;comes from a culture that lies about everything&quot; &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250707/p21#a250707p21)<!-- TECH:END -->
+ - [Kingston IronKey Vault Privacy 80 Encrypted SSD review: Ultra-secure SSD with hard drive speed](https://appleinsider.com/articles/25/07/08/kingston-ironkey-vault-privacy-80-encrypted-ssd-review-ultra-secure-ssd-with-hard-drive-speed?utm_medium=rss)
+ - [Fifth Circuit agrees with Apple over NLRB in World Trade Center store union busting case](https://appleinsider.com/articles/25/07/08/fifth-circuit-agrees-with-apple-over-nlrb-in-world-trade-center-store-union-busting-case?utm_medium=rss)
+ - [Prime Day deals: AirPods 4 plunge to $89, AirPods Pro 2 hit record low $149](https://appleinsider.com/articles/25/07/08/prime-day-deals-airpods-4-plunge-to-89-airpods-pro-2-hit-record-low-149?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
