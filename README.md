@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day deals: AirPods 4 plunge to $89, AirPods Pro 2 hit record low $149](https://appleinsider.com/articles/25/07/08/prime-day-deals-airpods-4-plunge-to-89-airpods-pro-2-hit-record-low-149?utm_medium=rss)
- - [Aqara Prime Day deals get you up to 38% off Apple Home cameras, locks, sensors](https://appleinsider.com/articles/25/07/08/aqara-prime-day-deals-get-you-up-to-38-off-apple-home-cameras-locks-sensors?utm_medium=rss)
- - [OnePlus launches five products: the midrange €449 Nord 5 smartphone, the €349 Nord CE 5, a smaller €299 Watch 3 wearable, the €119 Buds 4, and the €229 Pad Lite &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250708/p5#a250708p5)<!-- TECH:END -->
+ - [Bluesky rolls out Activity Notifications, letting users receive notifications of new posts and replies from selected accounts, as it expands its sports presence &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250708/p8#a250708p8)
+ - [5 Best Prime Day TV Deals for All Budgets &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tv-deals-july-2025/)
+ - [As Amazon Prime Day begins, some merchants say they can&#39;t afford to offer discounts due to Trump&#39;s tariffs; Adobe expects $23.8B in sales across the four days &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250708/p7#a250708p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
