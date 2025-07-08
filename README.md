@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
- - ⏩ [Ulala](http://9gag.com/gag/azx414Z)
- - 👉 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)<!-- MEMES:END -->
+ - 💣 [Dispicable.](http://9gag.com/gag/aAyvx20)
+ - ⏩ [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)
+ - 👉 [Insert title](http://9gag.com/gag/a87Voqe)<!-- MEMES:END -->
 
 ---
 
