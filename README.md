@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
+ - 💣 [Hard reality.](http://9gag.com/gag/azx4X3b)
  - ⏩ [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
- - 👉 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)<!-- MEMES:END -->
+ - 👉 [Ulala](http://9gag.com/gag/azx414Z)<!-- MEMES:END -->
 
 ---
 
