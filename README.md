@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Played The Horse Girl Gacha Game That&#39;s Taking The Internet By Storm, And I Get It](https://kotaku.com/umamusume-pretty-derby-horse-girl-gacha-game-ludwig-1851785849)
- - [Three Excellent Tracks To Snap Photos On In Mario Kart World](https://kotaku.com/mario-kart-world-photo-mode-focus-capture-share-phone-1851785814)
- - [Blue Prince somehow makes for an incredible esport](https://www.polygon.com/gaming/611430/blue-prince-summer-games-done-quick-2025)<!-- GAME:END -->
+ - [This competitive Blue Prince speedrun from SGDQ 2025 is the pinnacle of human athleticism](https://www.pcgamer.com/games/puzzle/this-competitive-blue-prince-speedrun-from-sgdq-2025-is-the-pinnacle-of-human-athleticism/)
+ - [For the next 2 weeks Destiny 2 is completely free to play, even the stuff you normally have to pay for](https://www.pcgamer.com/games/fps/for-the-next-2-weeks-destiny-2-is-completely-free-to-play-even-the-stuff-you-normally-have-to-pay-for/)
+ - [The Early Superman Reactions From Critics Are In, And They&#39;re Mixed](https://kotaku.com/james-gunn-superman-movie-dcu-critic-internet-reactions-1851785857)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
