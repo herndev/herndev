@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Pokémon fan got the Pope to sign his Popplio card](https://www.polygon.com/culture/611394/pokemon-popplio-pope-leo-card-autograph)
- - [Romero Games is not closed: &#39;We are doing everything in our power to ensure that it does not come to that&#39;](https://www.pcgamer.com/gaming-industry/romero-games-is-not-closed-we-are-doing-everything-in-our-power-to-ensure-that-it-does-not-come-to-that/)
- - [&#39;Hi modders &amp;#60;3&#39;: Peak devs know we&#39;re using mods to break past the 4-player limit, and they&#39;re so cool with it they&#39;re even fixing mod-specific bugs](https://www.pcgamer.com/games/adventure/hi-modders-peak-devs-know-were-using-mods-to-break-past-the-4-player-limit-and-theyre-so-cool-with-it-theyre-even-fixing-mod-specific-bugs/)<!-- GAME:END -->
+ - [OLED burn-in anxiety will ruin my sanity long before it ruins my monitor](https://www.pcgamer.com/hardware/oled-burn-in-anxiety-will-ruin-my-sanity-long-before-it-ruins-my-monitor/)
+ - [15 hidden gems in the Steam Summer Sale you&#39;ve still got time to grab](https://www.pcgamer.com/games/15-hidden-gems-in-the-steam-summer-sale-youve-still-got-time-to-grab/)
+ - [A Pokémon fan got the Pope to sign his Popplio card](https://www.polygon.com/culture/611394/pokemon-popplio-pope-leo-card-autograph)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
