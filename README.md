@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pope Just Blessed A Holographic Pokémon Card](https://kotaku.com/pope-leo-xiv-pokemon-card-autograph-popplio-meme-1851785788)
- - [PROMO: Girls’ Frontline 2: Exilium Gears Up With Limited-Time Drops And Anime Expo Activation](https://kotaku.com/girls-frontline-2-exilium-anime-expo-limited-drop-1851785787)
- - [This brilliant dark and moody cyberpunk city builder is my kind of cosy game—and for less than $7 you might as well see if it&#39;s yours too](https://www.pcgamer.com/games/city-builder/this-brilliant-dark-and-moody-cyberpunk-city-builder-is-my-kind-of-cosy-game-and-for-less-than-usd7-you-might-as-well-see-if-its-yours-too/)<!-- GAME:END -->
+ - [Play a fly with a short lifespan and a long bucket list in Time Flies](https://www.polygon.com/gaming/609669/time-flies-game-release-date)
+ - [Oblivion Remastered glitches are the gift that keep on giving](https://www.polygon.com/culture/611517/the-elder-scrolls-oblivion-remaster-glitches-septim-hotel-apples)
+ - [Here Are Five Things That Offer The Lighthearted Distraction We All Need Right Now](https://kotaku.com/saints-row-4-homestar-runner-sherlock-holmes-1851785792)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
