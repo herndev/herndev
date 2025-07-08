@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Marvel Rivals digs its heels into the gooner dirt as it reveals five new swimsuit skins, giving the people what they want: Punisher in a Speedo](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-digs-its-heels-into-the-gooner-dirt-as-it-reveals-five-new-swimsuit-skins-giving-the-people-what-they-want-punisher-in-a-speedo/)
  - [Borderlands 4 certainly looks like it&#39;s taking its story more seriously: &#39;We wanted to go back to this sense of dread about the villain of our game&#39;](https://www.pcgamer.com/games/rpg/borderlands-4-certainly-looks-like-its-taking-its-story-more-seriously-we-wanted-to-go-back-to-this-sense-of-dread-about-the-villain-of-our-game/)
- - [Marvel Rivals&#39; most exciting change in Season 3 is removing the need to grind the game every single day](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-most-exciting-change-in-season-3-is-removing-the-need-to-grind-the-game-every-single-day/)
- - [Turn your wall into the ultimate PC gaming display with these Prime Day Valerion projector deals](https://www.pcgamer.com/hardware/turn-your-wall-into-the-ultimate-pc-gaming-display-with-these-prime-day-valerion-projector-deals/)<!-- GAME:END -->
+ - [Marvel Rivals&#39; most exciting change in Season 3 is removing the need to grind the game every single day](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-most-exciting-change-in-season-3-is-removing-the-need-to-grind-the-game-every-single-day/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
