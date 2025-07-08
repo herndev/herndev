@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Amazon Prime Day deals on Thunderbolt docks &amp; storage enclosures for Mac](https://appleinsider.com/articles/25/07/08/best-amazon-prime-day-deals-on-thunderbolt-docks-storage-enclosures-for-mac?utm_medium=rss)
- - [One of Tim Cook’s possible successors is leaving Apple](https://www.theverge.com/news/701576/apple-coo-jeff-williams-retiring-sabih-khan)
- - [Apple says COO Jeff Williams will retire later this year, and Sabih Khan, Apple&#39;s SVP of Operations, will take over much of his role later this month &lpar;CNBC&rpar;](http://www.techmeme.com/250708/p25#a250708p25)<!-- TECH:END -->
+ - [A US appeals court blocks FTC&#39;s &quot;click-to-cancel&quot; rule, which was set to take effect on July 14, saying it failed to conduct a preliminary cost-benefit analysis &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250708/p28#a250708p28)
+ - [GlobalFoundries agrees to acquire MIPS, a developer of RISC-V-based solutions and IP, with the deal expected to close in H2 2025 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250708/p27#a250708p27)
+ - [Google releases July’s Pixel software update with bad news for the Pixel 6a](https://www.androidauthority.com/pixel-update-july-2025-pixel-6a-3575316/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
