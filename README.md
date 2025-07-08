@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail&amp;#8217;s new tab is made for unsubscribing from emails](https://www.theverge.com/news/701282/gmail-manage-email-subscriptions-unsubscribe)
- - [Samsung’s S90D OLED TV is at its lowest price ever for Prime Day and it’s great for gaming](https://www.theverge.com/tech/701376/amazon-prime-day-samsung-s90d-oled-tv)
- - [Samsung Galaxy A36 5G hits its best price yet at $299.99 &lpar;25% off&rpar;](https://www.androidauthority.com/samsung-galaxy-a36-5g-deal-3575169/)<!-- TECH:END -->
+ - [Best Amazon Prime Day deals on Thunderbolt docks &amp; storage enclosures for Mac](https://appleinsider.com/articles/25/07/08/best-amazon-prime-day-deals-on-thunderbolt-docks-storage-enclosures-for-mac?utm_medium=rss)
+ - [One of Tim Cook’s possible successors is leaving Apple](https://www.theverge.com/news/701576/apple-coo-jeff-williams-retiring-sabih-khan)
+ - [Apple says COO Jeff Williams will retire later this year, and Sabih Khan, Apple&#39;s SVP of Operations, will take over much of his role later this month &lpar;CNBC&rpar;](http://www.techmeme.com/250708/p25#a250708p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
