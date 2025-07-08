@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dispicable.](http://9gag.com/gag/aAyvx20)
- - ⏩ [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)
- - 👉 [Insert title](http://9gag.com/gag/a87Voqe)<!-- MEMES:END -->
+ - 💣 [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)
+ - ⏩ [The Geh effect is real](http://9gag.com/gag/aBy4mrQ)
+ - 👉 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)<!-- MEMES:END -->
 
 ---
 
