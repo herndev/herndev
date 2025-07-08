@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - ⏩ [Honeybee venom is showing promise in the fight against aggressive breast cancer cells. This is a significant step forward in medical research.](http://9gag.com/gag/aQzye3K)
- - 👉 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)<!-- MEMES:END -->
+ - 💣 [Ten](http://9gag.com/gag/a87VoMp)
+ - ⏩ [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)
+ - 👉 [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)<!-- MEMES:END -->
 
 ---
 
