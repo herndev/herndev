@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play a fly with a short lifespan and a long bucket list in Time Flies](https://www.polygon.com/gaming/609669/time-flies-game-release-date)
- - [Oblivion Remastered glitches are the gift that keep on giving](https://www.polygon.com/culture/611517/the-elder-scrolls-oblivion-remaster-glitches-septim-hotel-apples)
- - [Here Are Five Things That Offer The Lighthearted Distraction We All Need Right Now](https://kotaku.com/saints-row-4-homestar-runner-sherlock-holmes-1851785792)<!-- GAME:END -->
+ - [Train a dragon or play a unicorn with the new D&amp;#038;D Pets &amp;#038; Sidekicks book](https://www.polygon.com/dnd-dungeons-dragons/611529/dnd-pets-sidekicks-kickstarter)
+ - [You Can Unlock Bam Margera In THPS 3+4 Without Even Skating](https://kotaku.com/thps-3-4-bam-margera-how-to-unlock-easy-fast-tip-guide-1851785804)
+ - [Switch 2 is a massive hit. So where’s all the conversation about it?](https://www.polygon.com/nintendo-switch-2/611518/one-month-analysis-hype)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
