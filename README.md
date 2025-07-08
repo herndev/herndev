@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day spotlight: BLUETTI Elite 100 V2 is the new 1kWh power champion](https://www.androidauthority.com/bluetti-elite-100-v2-power-station-3573524/)
- - [Waymo introduces teen accounts for the first time in Phoenix](https://www.theverge.com/news/699580/waymo-teen-account-phoenix)
- - [Amazon&#39;s iPad Prime Day sale drops prices to as low as $279 &amp; saves you up to $300](https://appleinsider.com/articles/25/07/08/amazons-ipad-prime-day-sale-drops-prices-to-as-low-as-279-saves-you-up-to-300?utm_medium=rss)<!-- TECH:END -->
+ - [Why does this massive Galaxy Z Fold 7 leak not mention the S Pen at all?](https://www.androidauthority.com/z-fold-7-s-pen-3575174/)
+ - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
+ - [You can use sous vide to help iPhone repairs, but please don&#39;t](https://appleinsider.com/articles/25/07/08/you-can-use-sous-vide-to-help-iphone-repairs-but-please-dont?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
