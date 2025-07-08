@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals digs its heels into the gooner dirt as it reveals five new swimsuit skins, giving the people what they want: Punisher in a Speedo](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-digs-its-heels-into-the-gooner-dirt-as-it-reveals-five-new-swimsuit-skins-giving-the-people-what-they-want-punisher-in-a-speedo/)
- - [Borderlands 4 certainly looks like it&#39;s taking its story more seriously: &#39;We wanted to go back to this sense of dread about the villain of our game&#39;](https://www.pcgamer.com/games/rpg/borderlands-4-certainly-looks-like-its-taking-its-story-more-seriously-we-wanted-to-go-back-to-this-sense-of-dread-about-the-villain-of-our-game/)
- - [Marvel Rivals&#39; most exciting change in Season 3 is removing the need to grind the game every single day](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-most-exciting-change-in-season-3-is-removing-the-need-to-grind-the-game-every-single-day/)<!-- GAME:END -->
+ - [Watch the Ghost of Yōtei State of Play gameplay deep dive on July 10](https://blog.playstation.com/2025/07/08/watch-the-ghost-of-yotei-state-of-play-gameplay-deep-dive-on-july-10/)
+ - [Forget the blue shell: Mario Kart World&amp;#8217;s lightning is the true villain](https://www.polygon.com/nintendo-switch-2/611376/mario-kart-world-lightning-bolt-vs-blue-shell)
+ - [&#39;Knowing Steam players are hoarders explains why you give Valve that 30%,&#39; analyst tells devs: &#39;You get access to a bunch of drunken sailors who spend money irresponsibly&#39;](https://www.pcgamer.com/gaming-industry/knowing-steam-players-are-hoarders-explains-why-you-give-valve-that-30-percent-analyst-tells-devs-you-get-access-to-a-bunch-of-drunken-sailors-who-spend-money-irresponsibly/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
