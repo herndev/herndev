@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Somber Echoes is A Fresh Take on Metroidvania, Inspired By Ancient Greek Tragedy](https://news.xbox.com/en-us/2025/07/08/somber-echoes-metroidvania-inspired-by-ancient-greek-tragedy/)
- - [The Expanse: Osiris Reborn devs welcome all the Mass Effect comparisons](https://www.polygon.com/gaming/611007/expanse-osiris-reborn-mass-effect-comparisons)
- - [The Best Uses Of Rewind In Mario Kart World](https://kotaku.com/mario-kart-world-when-how-to-rewind-switch-2-1851785829)<!-- GAME:END -->
+ - [Bayonetta creator is demanding an apology after voice acting controversy](https://www.polygon.com/news/611602/bayonetta-3-hideki-kamiya-helena-taylor-voice-acting-controversy-response)
+ - [How to get Hisuian Zorua and Hisuian Zoroark in Pokémon Go](https://www.polygon.com/pokemon-go-guide/611527/how-to-get-hisuian-zorua-zoroark)
+ - [The best gaming deals of Amazon Prime Day 2025](https://www.polygon.com/gaming/611626/amazon-prime-day-best-gaming-deals-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
