@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [Moonvalley releases Marey, its fully licensed AI video model, available for $14.99, $34.99, or $149.99/month; 80% of its footage is from independent filmmakers &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/250708/p13#a250708p13)
- - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)<!-- TECH:END -->
+ - [Get four Apple AirTags for the price of three](https://www.theverge.com/tech/698693/apple-airtags-best-buy-amazon-prime-day-deal-sale)
+ - [Brilliant: How the smart home company navigated a tumultuous bankruptcy](https://appleinsider.com/articles/25/07/08/brilliant-how-the-smart-home-company-navigated-a-tumultuous-bankruptcy?utm_medium=rss)
+ - [ReserveOne, a cryptocurrency holding company with bitcoin, ethereum, and Solana, plans to list on the Nasdaq through a SPAC deal expected to raise $1B+ &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250708/p16#a250708p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
