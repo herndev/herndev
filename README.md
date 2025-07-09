@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The famous sample from Linkin Park&#39;s Faint](http://9gag.com/gag/aD2QYKK)
- - ⏩ [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
- - 👉 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)<!-- MEMES:END -->
+ - 💣 [I think it was worth a try](http://9gag.com/gag/aVvR70M)
+ - ⏩ [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
+ - 👉 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)<!-- MEMES:END -->
 
 ---
 
