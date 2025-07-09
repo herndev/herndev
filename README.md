@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whatever you do, don’t buy these two Google smartwatches on Prime Day](https://www.androidauthority.com/dont-buy-these-google-smartwatches-prime-day-2025-3574611/)
- - [Thread count: Ikea is stitching together a smarter home](https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy)
- - [Ikea’s latest speaker lamp ditches Sonos for Spotify and inexpensive Bluetooth](https://www.theverge.com/news/702104/ikeas-latest-speaker-lamp-ditches-sonos-for-spotify-and-inexpensive-bluetooth)<!-- TECH:END -->
+ - [Google rolls out a new Gmail feature to manage subscriptions, showing a list of emails delivered via active subscriptions, sorted by the most frequent senders &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250709/p11#a250709p11)
+ - [Prime Day Picks From People Who Obsessively Test Gear &amp; Track Prices](https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/)
+ - [Apple supplier Lens Technology, one of the top smartphone part makers, raised ~$608M in its Hong Kong IPO, as the Chinese company looks to expand overseas &lpar;Peggy Ye/Nikkei Asia&rpar;](http://www.techmeme.com/250709/p10#a250709p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
