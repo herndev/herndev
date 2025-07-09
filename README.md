@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
- - ⏩ [Que bueno que lo que nos gusta es ver hombres ricos.](http://9gag.com/gag/a0eO79n)
- - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
+ - 💣 [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
+ - ⏩ [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)
+ - 👉 [Just as I pirated this meme.](http://9gag.com/gag/aVvRvdn)<!-- MEMES:END -->
 
 ---
 
