@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
- - ⏩ [Test? And take](http://9gag.com/gag/ae9Rg5m)
- - 👉 [I think its great](http://9gag.com/gag/a6ZGE98)<!-- MEMES:END -->
+ - 💣 [The famous sample from Linkin Park&#39;s Faint](http://9gag.com/gag/aD2QYKK)
+ - ⏩ [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
+ - 👉 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)<!-- MEMES:END -->
 
 ---
 
