@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [The 200 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
- - [Eero 7 Max mesh router review: The best kind of Wi-Fi overkill](https://appleinsider.com/articles/25/07/09/eero-7-max-mesh-router-review-the-best-kind-of-wi-fi-overkill?utm_medium=rss)<!-- TECH:END -->
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025/)
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
