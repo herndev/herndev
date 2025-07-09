@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Missing the nostalgic tactility of VHS? This bring it back with this elegant DIY project using NFC and ESPhome](https://www.pcgamer.com/hardware/missing-the-nostalgic-tactility-of-vhs-this-bring-it-back-with-this-elegant-diy-project-using-nfc-and-esphome/)
- - [For the first time this generation U.S. retailers are listing Nvidia RTX 50 series graphics cards below MSRP](https://www.pcgamer.com/hardware/for-the-first-time-this-generation-u-s-retailers-are-listing-nvidia-rtx-50-series-graphics-cards-below-msrp/)
- - [New Arrow Lake refresh rumours confirm addition of NPU to bring Microsoft&#39;s Copilot+ AI features to desktop machines](https://www.pcgamer.com/hardware/new-arrow-lake-refresh-rumours-confirm-addition-of-npr-to-bring-microsofts-copilot-ai-features-to-desktop-machines/)<!-- GAME:END -->
+ - [HP to implement CarFax inspired data collector to log lifetime use and health of PCs](https://www.pcgamer.com/hardware/hp-to-implement-carfax-inspired-data-collector-to-log-lifetime-use-and-health-of-pcs/)
+ - [Missing the nostalgic tactility of VHS? Bring it back with this elegant DIY project using NFC and ESPhome](https://www.pcgamer.com/hardware/missing-the-nostalgic-tactility-of-vhs-this-bring-it-back-with-this-elegant-diy-project-using-nfc-and-esphome/)
+ - [For the first time this generation U.S. retailers are listing Nvidia RTX 50 series graphics cards below MSRP](https://www.pcgamer.com/hardware/for-the-first-time-this-generation-u-s-retailers-are-listing-nvidia-rtx-50-series-graphics-cards-below-msrp/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
