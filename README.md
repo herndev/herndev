@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia becomes first company ever to hit a $4 trillion market cap &lpar;yes that&#39;s &#39;trillion&#39; with a &#39;T&#39;&rpar;](https://www.pcgamer.com/games/nvidia-becomes-first-company-ever-to-hit-a-usd4-trillion-market-cap-yes-thats-trillion-with-a-t/)
- - [Everything In Destiny 2 Is Free Right Now If You Can Convince Anyone To Play With You](https://kotaku.com/destiny-2-free-final-shape-edge-fate-expansion-ps5-1851785927)
- - [Robert Downey Jr. Explains How Ironheart Fit An Entire MCU Movie Into One Episode](https://kotaku.com/robert-downey-jr-ironheart-iron-man-mcu-disney-plus-1851785928)<!-- GAME:END -->
+ - [The Rarest Mario Kart Track Is Playable Once More](https://kotaku.com/mario-kart-rarest-track-piranha-plant-pipeline-mk-tour-1851785920)
+ - [How Dispatch survived COVID-19 and evolved into a familiar Telltale-like game](https://www.polygon.com/gaming/611909/dispatch-preview-adhoc-interview)
+ - [KPop Demon Hunters Is Worth The Hype](https://kotaku.com/kpop-demon-hunters-soundtrack-netflix-animated-stream-1851785935)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
