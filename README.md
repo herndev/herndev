@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qantas confirms personal info of 5.7M customers were held on the system compromised in a recent cyberattack, including names, email addresses, and phone numbers &lpar;Stephanie Chalmers/ABC&rpar;](http://www.techmeme.com/250709/p2#a250709p2)
- - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
- - [Sources: Apple is in talks to acquire US streaming rights for Formula 1 following the success of F1 the Movie, which has grossed ~$300M at the box office &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p1#a250709p1)<!-- TECH:END -->
+ - [Google is now rolling out a fix for buggy Pixel lock screens after Android 16](https://www.androidauthority.com/google-pixel-lock-screen-bugs-android-16-fix-3575478/)
+ - [CA state Senator Scott Wiener releases amendments to SB 53, which has transparency requirements for AI companies but omits SB 1047&#39;s provision on liability &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250709/p5#a250709p5)
+ - [Federal prosecutors accuse two US men of operating and promoting OmegaPro, a crypto multi-level marketing scheme that allegedly defrauded victims of $650M+ &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250709/p4#a250709p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
