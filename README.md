@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Will Text You the Best Prime Day Deals Directly to Your Phone -- for Free](https://www.cnet.com/tech/services-and-software/i-will-text-you-the-best-prime-day-deals-directly-to-your-phone-for-free/#ftag=CAD590a51e)
- - [ThinkBroadband: 78% of UK properties have access to full-fiber broadband, up from 12% in Jan. 2020, which experts credit to Ofcom&#39;s 2021 pro-competition push &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p7#a250709p7)
- - [Beats headphones &amp; earbuds on sale with Prime Day savings up to 53% off](https://appleinsider.com/articles/25/07/09/beats-headphones-earbuds-on-sale-with-prime-day-savings-up-to-53-off?utm_medium=rss)<!-- TECH:END -->
+ - [Whatever you do, don’t buy these two Google smartwatches on Prime Day](https://www.androidauthority.com/dont-buy-these-google-smartwatches-prime-day-2025-3574611/)
+ - [Thread count: Ikea is stitching together a smarter home](https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy)
+ - [Ikea’s latest speaker lamp ditches Sonos for Spotify and inexpensive Bluetooth](https://www.theverge.com/news/702104/ikeas-latest-speaker-lamp-ditches-sonos-for-spotify-and-inexpensive-bluetooth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
