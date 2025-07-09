@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is giving you an extra reason to pick up a Galaxy Z Fold 7, Flip 7, or Flip 7 FE](https://www.androidauthority.com/samsung-google-ai-pro-offer-3575852/)
- - [Microsoft announces a $4B commitment in cash and tech to support AI education in schools and more, and starts Elevate Academy, an AI training program for adults &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250709/p33#a250709p33)
- - [Perplexity just launched an AI web browser](https://www.theverge.com/news/703037/perplexity-ai-web-browser-comet-launch)<!-- TECH:END -->
+ - [OpenAI officially closes its ~$6.5B acquisition of Jony Ive&#39;s startup, which it refers to as io Products, after a trademark suit from hearing device startup Iyo &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250709/p36#a250709p36)
+ - [Amazon Prime Day Is the Perfect Time to Upgrade Your Gaming Battlestation With These Peripheral Deals](https://www.cnet.com/deals/amazon-prime-is-the-perfect-time-to-upgrade-your-gaming-battlestation-with-these-peripheral-deals/#ftag=CAD590a51e)
+ - [Anker’s new wireless car charger sticks a big flexible tongue to your dashboard](https://www.theverge.com/news/703087/anker-nano-wireless-car-charger-qi2-magsafe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
