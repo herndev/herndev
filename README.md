@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
- - ⏩ [Removing a beaver dam is a tough job, but someone&#39;s gotta do it](http://9gag.com/gag/aE0Z2wM)
- - 👉 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)<!-- MEMES:END -->
+ - 💣 [Removing a beaver dam is a tough job, but someone&#39;s gotta do it](http://9gag.com/gag/aE0Z2wM)
+ - ⏩ [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
+ - 👉 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)<!-- MEMES:END -->
 
 ---
 
