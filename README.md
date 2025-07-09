@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The German national football team 20 years ago.](http://9gag.com/gag/an7GgjB)
- - ⏩ [Time flies when you&#39;re not on Miller&#39;s Planet.](http://9gag.com/gag/amoRPr4)
- - 👉 [Every day at the office.](http://9gag.com/gag/aVvR73n)<!-- MEMES:END -->
+ - 💣 [Remembering the good old days of napping anywhere but where you&#39;re supposed to.](http://9gag.com/gag/aKGK6YW)
+ - ⏩ [Wait, you guys get invited to parties?](http://9gag.com/gag/a34NEgQ)
+ - 👉 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)<!-- MEMES:END -->
 
 ---
 
