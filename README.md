@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Now Brief is getting much more useful with these new features](https://www.androidauthority.com/samsung-now-brief-one-ui-8-fold-7-flip-7-3574996/)
- - [Samsung Galaxy Watch 8 series hands-on: squircle squad](https://www.theverge.com/hands-on/701175/samsung-galaxy-watch-8-series-hands-on-smartwatch-fitness-health-wearables)
- - [Google Maps comes to Garmin watches, bringing turn-by-turn navigation to your wrist](https://www.androidauthority.com/garmin-google-maps-app-3575661/)<!-- TECH:END -->
+ - [X CEO Linda Yaccarino is stepping down after two years](https://www.theverge.com/news/702653/x-ceo-linda-yaccarino-elon-musk)
+ - [The 200 Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)
+ - [13 Best Prime Day Pet Deals on Amazon &lpar;2025&rpar;](https://www.wired.com/story/prime-day-pet-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
