@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
- - ⏩ [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)
- - 👉 [Just as I pirated this meme.](http://9gag.com/gag/aVvRvdn)<!-- MEMES:END -->
+ - 💣 [Don&#39;t worry, it&#39;ll sort itself out](http://9gag.com/gag/aBy42bz)
+ - ⏩ [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
+ - 👉 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)<!-- MEMES:END -->
 
 ---
 
