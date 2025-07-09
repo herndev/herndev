@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
- - [Samsung Galaxy Unpacked 2025: Everything announced at the July event](https://www.theverge.com/news/701144/samsung-galaxy-unpacked-everything-announced-july-event)
- - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)<!-- TECH:END -->
+ - [Samsung Now Brief is getting much more useful with these new features](https://www.androidauthority.com/samsung-now-brief-one-ui-8-fold-7-flip-7-3574996/)
+ - [Samsung Galaxy Watch 8 series hands-on: squircle squad](https://www.theverge.com/hands-on/701175/samsung-galaxy-watch-8-series-hands-on-smartwatch-fitness-health-wearables)
+ - [Google Maps comes to Garmin watches, bringing turn-by-turn navigation to your wrist](https://www.androidauthority.com/garmin-google-maps-app-3575661/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
