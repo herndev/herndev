@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 203 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
  - [Millions of China&#39;s gig workers are having to endure record heat waves without legally mandated &quot;heat wave allowances&quot;, cooling breaks, or adequate insurance &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250708/p35#a250708p35)
- - [How to stop accidentally making audio recordings in Messages](https://appleinsider.com/inside/imessage/tips/how-to-stop-accidentally-making-audio-recordings-in-messages?utm_medium=rss)
- - [Here are 60 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
+ - [How to stop accidentally making audio recordings in Messages](https://appleinsider.com/inside/imessage/tips/how-to-stop-accidentally-making-audio-recordings-in-messages?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
