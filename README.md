@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘It&amp;#8217;s a partnership,’ NBA 2K boss says of NBA 2K26’s cover star selection process](https://www.polygon.com/news/611760/nba-2k26-cover-athlete-interview-release-date)
- - [Stalker 2 Hitting PlayStation, With PS5 Pro Update In The Works And Hopefully Fewer Bugs](https://kotaku.com/stalker-2-ps5-pro-patch-bugs-xbox-release-date-1851785879)
- - [Ready or Not&#39;s review bomb campaign may have been short-lived, as player count subsequently doubles on Steam and it tops PlayStation&#39;s pre-order list](https://www.pcgamer.com/games/fps/ready-or-nots-review-bomb-campaign-may-have-been-short-lived-as-player-count-subsequently-doubles-on-steam-and-it-tops-playstations-pre-order-list/)<!-- GAME:END -->
+ - [I&#39;m an absolute gaming monitor geek and I reckon these UK deals are better than all the other Amazon Prime Day offers, anywhere for anything](https://www.pcgamer.com/hardware/gaming-monitors/im-an-absolute-gaming-monitor-geek-and-i-reckon-these-uk-deals-are-better-than-all-the-other-amazon-prime-day-offers-anywhere-for-anything/)
+ - [Angel Reese, Carmelo Anthony selected as NBA 2K26 special edition cover stars](https://www.polygon.com/news/611804/nba-2k26-special-edition-cover-angel-reese-carmelo-anthony)
+ - [Level up your content creation with Samsung Galaxy S25](https://www.pcgamer.com/games/level-up-your-content-creation-with-samsung-galaxy-s25/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
