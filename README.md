@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
- - ⏩ [God is Deaf](http://9gag.com/gag/an7GgX5)
- - 👉 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)<!-- MEMES:END -->
+ - 💣 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - ⏩ [Every day at the office.](http://9gag.com/gag/aVvR73n)
+ - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
 
 ---
 
