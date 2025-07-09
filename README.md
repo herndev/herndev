@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Arrow Lake refresh rumours confirm addition of NPU to bring Microsoft&#39;s Copilot+ AI features to desktop machines](https://www.pcgamer.com/hardware/new-arrow-lake-refresh-rumours-confirm-addition-of-npr-to-bring-microsofts-copilot-ai-features-to-desktop-machines/)
  - [Today&#39;s Wordle answer for Wednesday, July 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-9-2025/)
- - [I still believed &#39;cheap&#39; controllers were a last resort until I picked up this amazing 8BitDo pad, now at its lowest price ever for Amazon Prime Day](https://www.pcgamer.com/hardware/i-still-believed-cheap-controllers-were-a-last-resort-until-i-picked-up-this-amazing-8bitdo-pad-now-at-its-lowest-price-ever-for-amazon-prime-day/)
- - [Another live service shooter comes to a premature end: Steel Hunters, the mech game that launched into early access in April, is closing in October](https://www.pcgamer.com/games/third-person-shooter/another-live-service-shooter-comes-to-a-premature-end-steel-hunters-the-mech-game-that-launched-into-early-access-in-april-is-closing-in-october/)<!-- GAME:END -->
+ - [I still believed &#39;cheap&#39; controllers were a last resort until I picked up this amazing 8BitDo pad, now at its lowest price ever for Amazon Prime Day](https://www.pcgamer.com/hardware/i-still-believed-cheap-controllers-were-a-last-resort-until-i-picked-up-this-amazing-8bitdo-pad-now-at-its-lowest-price-ever-for-amazon-prime-day/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
