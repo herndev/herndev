@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the police are just as confused as you are about the missing people and the sudden wealth.](http://9gag.com/gag/awyeoND)
- - ⏩ [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
+ - 💣 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
+ - ⏩ [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
  - 👉 [Who drop it](http://9gag.com/gag/aVvRYoM)<!-- MEMES:END -->
 
 ---
