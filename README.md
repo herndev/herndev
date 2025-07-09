@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025/)
- - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)<!-- TECH:END -->
+ - [Millions of China&#39;s gig workers are having to endure record heat waves without legally mandated &quot;heat wave allowances&quot;, cooling breaks, or adequate insurance &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250708/p35#a250708p35)
+ - [How to stop accidentally making audio recordings in Messages](https://appleinsider.com/inside/imessage/tips/how-to-stop-accidentally-making-audio-recordings-in-messages?utm_medium=rss)
+ - [Here are 60 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
