@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think its great](http://9gag.com/gag/a6ZGE98)
- - ⏩ [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
+ - 💣 [Seven engineers in India have lost their jobs for building a highway bridge with a 90-degree turn. And the construction company has been blacklisted. Authorities spent $2.3 million on the bridge. Now everything needs to be rebuilt.](http://9gag.com/gag/aD2QD1G)
+ - ⏩ [When you try to show off but end up showing out](http://9gag.com/gag/azx4Mrz)
  - 👉 [Test? And take](http://9gag.com/gag/ae9Rg5m)<!-- MEMES:END -->
 
 ---
