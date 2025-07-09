@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We&#39;re all trapped in a prison of our own filth, which is why I&#39;m eyeing this little arsenal of an electronics cleaning kit that&#39;s on sale for less than $12](https://www.pcgamer.com/hardware/were-all-trapped-in-a-prison-of-our-own-filth-which-is-why-im-eyeing-this-little-arsenal-of-an-electronics-cleaning-kit-thats-on-sale-for-less-than-usd12/)
- - [The Best Characters And Karts For Smashing Mario Kart World Time Trial Records](https://kotaku.com/mario-kart-world-switch-2-time-trial-best-characters-1851785952)
- - [GameStop Auctioning Off Infamous Staten Island Switch 2 Stapler For Charity](https://kotaku.com/gamestop-staten-island-switch-2-stapler-auction-charity-1851785951)<!-- GAME:END -->
+ - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/mcu-tv-shows-ranked-marvel-cinematic-universe)
+ - [X CEO Linda Yaccarino calls it quits less than 24 hours after the platform&#39;s AI-powered chatbot Grok anoints itself &#39;MechaHitler&#39; and starts posting antisemitic messages and graphic descriptions of sexual assault](https://www.pcgamer.com/games/x-ceo-linda-yaccarino-calls-it-quits-less-than-24-hours-after-the-platforms-ai-powered-chatbot-grok-anoints-itself-mechahitler-and-starts-posting-antisemitic-messages-and-graphic-descriptions-of-sexual-assault/)
+ - [What time does Tony Hawk’s Pro Skater 3+4 release?](https://www.polygon.com/guides/611781/tony-hawk-pro-skater-3-4-thps-release-time-edt-pdt)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
