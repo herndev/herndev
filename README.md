@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Accessible Games Initiative Tags Now Available Across All Digital Xbox Experiences](https://news.xbox.com/en-us/2025/07/09/accessible-games-initiative-tags-xbox-interview/)
- - [Lies of P isn&#39;t my favourite soulslike, but Overture is one of the best DLCs in the whole genre](https://www.pcgamer.com/games/rpg/lies-of-p-isnt-my-favourite-soulslike-but-overture-is-one-of-the-best-dlcs-in-the-whole-genre/)
- - [2017&#39;s Star Wars Battlefront 2 Was One Of The Best-Selling Games In May 2025](https://kotaku.com/star-wars-battlefront-2-2017-best-selling-game-may-2025-1851785893)<!-- GAME:END -->
+ - [What Cyberpunk 2 should steal from Edgerunners](https://www.polygon.com/entertainment/611686/cyberpunk-2-project-orion-steal-edgerunners-season-2)
+ - [Cyberpunk 2077 Joins PS Plus For The First Time Ever Ahead Of Recently Teased Update](https://kotaku.com/ps-plus-july-2025-cyberpunk-2077-twisted-metal-1851785914)
+ - [Modder behind the &#39;Swiss army knife of PC gaming&#39; deletes their 20 year-old Steam account with anti-Valve manifesto: &#39;By the end of my bitter dealings with Valve… there was zero hope&#39;](https://www.pcgamer.com/software/platforms/modder-behind-the-swiss-army-knife-of-pc-gaming-deletes-their-20-year-old-steam-account-with-anti-valve-manifesto-by-the-end-of-my-bitter-dealings-with-valve-there-was-zero-hope/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
