@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion Remastered&#39;s newest patch aims to smooth out difficulty bumps, improve performance, and fix wonky Khajiit tails](https://www.pcgamer.com/games/rpg/oblivion-remastereds-newest-patch-aims-to-smooth-out-difficulty-bumps-improve-performance-and-fix-wonky-khajiit-tails/)
- - [Mario Kart World: 8 Clever Ways To Dodge Blue Shells And Keep Your Lead](https://kotaku.com/mario-kart-world-blue-shells-mushrooms-bullet-bill-1851785913)
- - [Team Liquid &#39;Disappointed&#39; CEO&#39;s Story About Growing Up Gay Was Censored From Esports Documentary In Saudi Arabia](https://kotaku.com/team-liquid-esports-world-cup-documentary-lgbtqia-queer-1851785943)<!-- GAME:END -->
+ - [We&#39;re all trapped in a prison of our own filth, which is why I&#39;m eyeing this little arsenal of an electronics cleaning kit that&#39;s on sale for less than $12](https://www.pcgamer.com/hardware/were-all-trapped-in-a-prison-of-our-own-filth-which-is-why-im-eyeing-this-little-arsenal-of-an-electronics-cleaning-kit-thats-on-sale-for-less-than-usd12/)
+ - [The Best Characters And Karts For Smashing Mario Kart World Time Trial Records](https://kotaku.com/mario-kart-world-switch-2-time-trial-best-characters-1851785952)
+ - [GameStop Auctioning Off Infamous Staten Island Switch 2 Stapler For Charity](https://kotaku.com/gamestop-staten-island-switch-2-stapler-auction-charity-1851785951)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
