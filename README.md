@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Removing a beaver dam is a tough job, but someone&#39;s gotta do it](http://9gag.com/gag/aE0Z2wM)
- - ⏩ [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
- - 👉 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)<!-- MEMES:END -->
+ - 💣 [Oh no...anyway](http://9gag.com/gag/aD2QDg7)
+ - ⏩ [Wait, you guys get invited to parties?](http://9gag.com/gag/a34NEgQ)
+ - 👉 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)<!-- MEMES:END -->
 
 ---
 
