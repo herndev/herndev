@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
- - ⏩ [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
- - 👉 [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)<!-- MEMES:END -->
+ - 💣 [The German national football team 20 years ago.](http://9gag.com/gag/an7GgjB)
+ - ⏩ [Time flies when you&#39;re not on Miller&#39;s Planet.](http://9gag.com/gag/amoRPr4)
+ - 👉 [Every day at the office.](http://9gag.com/gag/aVvR73n)<!-- MEMES:END -->
 
 ---
 
