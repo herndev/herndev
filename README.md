@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rarest Mario Kart Track Is Playable Once More](https://kotaku.com/mario-kart-rarest-track-piranha-plant-pipeline-mk-tour-1851785920)
- - [How Dispatch survived COVID-19 and evolved into a familiar Telltale-like game](https://www.polygon.com/gaming/611909/dispatch-preview-adhoc-interview)
- - [KPop Demon Hunters Is Worth The Hype](https://kotaku.com/kpop-demon-hunters-soundtrack-netflix-animated-stream-1851785935)<!-- GAME:END -->
+ - [Oblivion Remastered&#39;s newest patch aims to smooth out difficulty bumps, improve performance, and fix wonky Khajiit tails](https://www.pcgamer.com/games/rpg/oblivion-remastereds-newest-patch-aims-to-smooth-out-difficulty-bumps-improve-performance-and-fix-wonky-khajiit-tails/)
+ - [Mario Kart World: 8 Clever Ways To Dodge Blue Shells And Keep Your Lead](https://kotaku.com/mario-kart-world-blue-shells-mushrooms-bullet-bill-1851785913)
+ - [Team Liquid &#39;Disappointed&#39; CEO&#39;s Story About Growing Up Gay Was Censored From Esports Documentary In Saudi Arabia](https://kotaku.com/team-liquid-esports-world-cup-documentary-lgbtqia-queer-1851785943)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
