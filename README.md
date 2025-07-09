@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s open language model is imminent](https://www.theverge.com/notepad-microsoft-newsletter/702848/openai-open-language-model-o3-mini-notepad)
- - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
- - [Apple Watch Ultra 2 price drops to all-time low of just $649.99](https://www.androidauthority.com/apple-watch-ultra-2-prime-day-3575865/)<!-- TECH:END -->
+ - [Samsung is giving you an extra reason to pick up a Galaxy Z Fold 7, Flip 7, or Flip 7 FE](https://www.androidauthority.com/samsung-google-ai-pro-offer-3575852/)
+ - [Microsoft announces a $4B commitment in cash and tech to support AI education in schools and more, and starts Elevate Academy, an AI training program for adults &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250709/p33#a250709p33)
+ - [Perplexity just launched an AI web browser](https://www.theverge.com/news/703037/perplexity-ai-web-browser-comet-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
