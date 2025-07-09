@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out a new Gmail feature to manage subscriptions, showing a list of emails delivered via active subscriptions, sorted by the most frequent senders &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250709/p11#a250709p11)
- - [Prime Day Picks From People Who Obsessively Test Gear &amp; Track Prices](https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/)
- - [Apple supplier Lens Technology, one of the top smartphone part makers, raised ~$608M in its Hong Kong IPO, as the Chinese company looks to expand overseas &lpar;Peggy Ye/Nikkei Asia&rpar;](http://www.techmeme.com/250709/p10#a250709p10)<!-- TECH:END -->
+ - [Apple wants to screen real F1 races after its film&#39;s success](https://appleinsider.com/articles/25/07/09/apple-wants-to-screen-real-f1-races-after-its-films-success?utm_medium=rss)
+ - [How crypto executives, lobbyists, campaign operatives, and Trump business partners successfully turned Trump from an outspoken bitcoin skeptic into a supporter &lpar;New York Times&rpar;](http://www.techmeme.com/250709/p14#a250709p14)
+ - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
