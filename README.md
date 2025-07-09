@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Will Text You the Best Prime Day Deals Directly to Your Phone -- for Free](https://www.cnet.com/tech/services-and-software/i-will-text-you-the-best-prime-day-deals-directly-to-your-phone-for-free/#ftag=CAD590a51e)
  - [ThinkBroadband: 78% of UK properties have access to full-fiber broadband, up from 12% in Jan. 2020, which experts credit to Ofcom&#39;s 2021 pro-competition push &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p7#a250709p7)
- - [Beats headphones &amp; earbuds on sale with Prime Day savings up to 53% off](https://appleinsider.com/articles/25/07/09/beats-headphones-earbuds-on-sale-with-prime-day-savings-up-to-53-off?utm_medium=rss)
- - [A look at Yahoo Creators, launched in March 2024, offering creators a 50/50 ad revenue split for posting original written content and has signed up 135 creators &lpar;Digiday&rpar;](http://www.techmeme.com/250709/p6#a250709p6)<!-- TECH:END -->
+ - [Beats headphones &amp; earbuds on sale with Prime Day savings up to 53% off](https://appleinsider.com/articles/25/07/09/beats-headphones-earbuds-on-sale-with-prime-day-savings-up-to-53-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
