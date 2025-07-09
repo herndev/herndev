@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI officially closes its ~$6.5B acquisition of Jony Ive&#39;s startup, which it refers to as io Products, after a trademark suit from hearing device startup Iyo &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250709/p36#a250709p36)
- - [Amazon Prime Day Is the Perfect Time to Upgrade Your Gaming Battlestation With These Peripheral Deals](https://www.cnet.com/deals/amazon-prime-is-the-perfect-time-to-upgrade-your-gaming-battlestation-with-these-peripheral-deals/#ftag=CAD590a51e)
- - [Anker’s new wireless car charger sticks a big flexible tongue to your dashboard](https://www.theverge.com/news/703087/anker-nano-wireless-car-charger-qi2-magsafe)<!-- TECH:END -->
+ - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
+ - [Sources: LangChain, which helps developers use off-the-shelf AI models to create new apps, raised $100M led by IVP at a $1.1B valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250709/p42#a250709p42)
+ - [New Prime Day Deals Updated Live—183 Handpicked &amp; Trusted Deals](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
