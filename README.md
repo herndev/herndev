@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants to screen real F1 races after its film&#39;s success](https://appleinsider.com/articles/25/07/09/apple-wants-to-screen-real-f1-races-after-its-films-success?utm_medium=rss)
- - [How crypto executives, lobbyists, campaign operatives, and Trump business partners successfully turned Trump from an outspoken bitcoin skeptic into a supporter &lpar;New York Times&rpar;](http://www.techmeme.com/250709/p14#a250709p14)
- - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)<!-- TECH:END -->
+ - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
+ - [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025-1/)
+ - [Returning Steve Jobs took over Apple 28 years ago](https://appleinsider.com/articles/18/07/10/gil-amelio-resigned-at-apple-ceo-21-years-ago-paving-the-way-for-steve-jobs-ascension-as-ceo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
