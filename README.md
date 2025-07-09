@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m an absolute gaming monitor geek and I reckon these UK deals are better than all the other Amazon Prime Day offers, anywhere for anything](https://www.pcgamer.com/hardware/gaming-monitors/im-an-absolute-gaming-monitor-geek-and-i-reckon-these-uk-deals-are-better-than-all-the-other-amazon-prime-day-offers-anywhere-for-anything/)
- - [Angel Reese, Carmelo Anthony selected as NBA 2K26 special edition cover stars](https://www.polygon.com/news/611804/nba-2k26-special-edition-cover-angel-reese-carmelo-anthony)
- - [Level up your content creation with Samsung Galaxy S25](https://www.pcgamer.com/games/level-up-your-content-creation-with-samsung-galaxy-s25/)<!-- GAME:END -->
+ - [Accessible Games Initiative Tags Now Available Across All Digital Xbox Experiences](https://news.xbox.com/en-us/2025/07/09/accessible-games-initiative-tags-xbox-interview/)
+ - [Lies of P isn&#39;t my favourite soulslike, but Overture is one of the best DLCs in the whole genre](https://www.pcgamer.com/games/rpg/lies-of-p-isnt-my-favourite-soulslike-but-overture-is-one-of-the-best-dlcs-in-the-whole-genre/)
+ - [2017&#39;s Star Wars Battlefront 2 Was One Of The Best-Selling Games In May 2025](https://kotaku.com/star-wars-battlefront-2-2017-best-selling-game-may-2025-1851785893)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
