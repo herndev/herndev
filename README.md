@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox&#39;s hot gardening game gets a crack squad dedicated to new events after players kicked up over old ones being &#39;rushed and not very inspired&#39;](https://www.pcgamer.com/games/survival-crafting/robloxs-hot-gardening-game-gets-a-crack-squad-dedicated-to-new-events-after-players-kicked-up-over-old-ones-being-rushed-and-not-very-inspired/)
- - [HP to implement CarFax inspired data collector to log lifetime use and health of PCs](https://www.pcgamer.com/hardware/hp-to-implement-carfax-inspired-data-collector-to-log-lifetime-use-and-health-of-pcs/)
- - [Missing the nostalgic tactility of VHS? Bring it back with this elegant DIY project using NFC and ESPhome](https://www.pcgamer.com/hardware/missing-the-nostalgic-tactility-of-vhs-this-bring-it-back-with-this-elegant-diy-project-using-nfc-and-esphome/)<!-- GAME:END -->
+ - [If Marvel Rivals doesn&#39;t want to reward me with fancy skins for my hard work, then I hope it&#39;ll at least give me some of Season 3&#39;s new customisation features](https://www.pcgamer.com/games/third-person-shooter/if-marvel-rivals-doesnt-want-to-reward-me-with-fancy-skins-for-my-hard-work-then-i-hope-itll-at-least-give-me-some-of-season-3s-new-customisation-features/)
+ - [FromSoftware scrambles for content to keep Elden Ring Nightreign players interested as it announces the return of the first three Everdark Nightlords](https://www.pcgamer.com/games/rpg/fromsoftware-scrambles-for-content-to-keep-elden-ring-nightreign-players-interested-as-it-announces-the-return-of-the-first-three-everdark-nightlords/)
+ - [Persona 5: The Phantom X review](https://www.pcgamer.com/games/rpg/persona-5-the-phantom-x-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
