@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no...anyway](http://9gag.com/gag/aD2QDg7)
- - ⏩ [Wait, you guys get invited to parties?](http://9gag.com/gag/a34NEgQ)
- - 👉 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)<!-- MEMES:END -->
+ - 💣 [When the police are just as confused as you are about the missing people and the sudden wealth.](http://9gag.com/gag/awyeoND)
+ - ⏩ [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
+ - 👉 [Who drop it](http://9gag.com/gag/aVvRYoM)<!-- MEMES:END -->
 
 ---
 
