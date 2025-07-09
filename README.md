@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says COO Jeff Williams will retire later this year, and Sabih Khan, Apple&#39;s SVP of Operations, will take over much of his role later this month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250708/p33#a250708p33)
- - [Grok Is Spewing Antisemitic Garbage on X](https://www.wired.com/story/grok-antisemitic-posts-x-xai/)
- - [Apple says its design team will report to Tim Cook after Jeff Williams retires; Williams was overseeing the team following Evans Hankey&#39;s departure in 2023 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250708/p32#a250708p32)<!-- TECH:END -->
+ - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
+ - [The 200 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
+ - [Eero 7 Max mesh router review: The best kind of Wi-Fi overkill](https://appleinsider.com/articles/25/07/09/eero-7-max-mesh-router-review-the-best-kind-of-wi-fi-overkill?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
