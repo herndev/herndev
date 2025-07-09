@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of My Favorite Gaming Laptops Gets a Serious Prime Day Cut](https://www.wired.com/story/best-prime-day-gaming-laptop-deal/)
- - [The Petkit Purobox Ultra is $250 off for Prime Day](https://www.wired.com/story/petkit-purobot-ultra-prime-day-sale/)
- - [Perplexity challenges Chrome by launching a &lpar;very expensive&rpar; AI web browser](https://www.androidauthority.com/perplexity-comet-browser-3575963/)<!-- TECH:END -->
+ - [a16z moves its state of incorporation to Nevada, saying Delaware&#39;s Court of Chancery &quot;can at times appear biased against technology startup founders&quot; &lpar;Andreessen Horowitz&rpar;](http://www.techmeme.com/250709/p45#a250709p45)
+ - [Score a record deal on Samsung’s 2-in-1 Galaxy Book 5 Pro 360 at $350 off](https://www.androidauthority.com/samsung-galaxy-book-5-pro-360-deal-3575973/)
+ - [The Columbia hack is a much bigger deal than Mamdani’s college application](https://www.theverge.com/analysis/703232/columbia-hack-admissions-data-mamdani)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
