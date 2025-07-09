@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
- - ⏩ [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
- - 👉 [Who drop it](http://9gag.com/gag/aVvRYoM)<!-- MEMES:END -->
+ - 💣 [Sounds like a plan](http://9gag.com/gag/aKGK6wW)
+ - ⏩ [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
+ - 👉 [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)<!-- MEMES:END -->
 
 ---
 
