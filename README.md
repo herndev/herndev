@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
- - [Sources: LangChain, which helps developers use off-the-shelf AI models to create new apps, raised $100M led by IVP at a $1.1B valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250709/p42#a250709p42)
- - [New Prime Day Deals Updated Live—183 Handpicked &amp; Trusted Deals](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-1/)<!-- TECH:END -->
+ - [One of My Favorite Gaming Laptops Gets a Serious Prime Day Cut](https://www.wired.com/story/best-prime-day-gaming-laptop-deal/)
+ - [The Petkit Purobox Ultra is $250 off for Prime Day](https://www.wired.com/story/petkit-purobot-ultra-prime-day-sale/)
+ - [Perplexity challenges Chrome by launching a &lpar;very expensive&rpar; AI web browser](https://www.androidauthority.com/perplexity-comet-browser-3575963/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
