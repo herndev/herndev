@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Roblox&#39;s hot gardening game gets a crack squad dedicated to new events after players kicked up over old ones being &#39;rushed and not very inspired&#39;](https://www.pcgamer.com/games/survival-crafting/robloxs-hot-gardening-game-gets-a-crack-squad-dedicated-to-new-events-after-players-kicked-up-over-old-ones-being-rushed-and-not-very-inspired/)
  - [HP to implement CarFax inspired data collector to log lifetime use and health of PCs](https://www.pcgamer.com/hardware/hp-to-implement-carfax-inspired-data-collector-to-log-lifetime-use-and-health-of-pcs/)
- - [Missing the nostalgic tactility of VHS? Bring it back with this elegant DIY project using NFC and ESPhome](https://www.pcgamer.com/hardware/missing-the-nostalgic-tactility-of-vhs-this-bring-it-back-with-this-elegant-diy-project-using-nfc-and-esphome/)
- - [For the first time this generation U.S. retailers are listing Nvidia RTX 50 series graphics cards below MSRP](https://www.pcgamer.com/hardware/for-the-first-time-this-generation-u-s-retailers-are-listing-nvidia-rtx-50-series-graphics-cards-below-msrp/)<!-- GAME:END -->
+ - [Missing the nostalgic tactility of VHS? Bring it back with this elegant DIY project using NFC and ESPhome](https://www.pcgamer.com/hardware/missing-the-nostalgic-tactility-of-vhs-this-bring-it-back-with-this-elegant-diy-project-using-nfc-and-esphome/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
