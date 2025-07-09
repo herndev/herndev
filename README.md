@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think it was worth a try](http://9gag.com/gag/aVvR70M)
- - ⏩ [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
- - 👉 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)<!-- MEMES:END -->
+ - 💣 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
+ - ⏩ [Que bueno que lo que nos gusta es ver hombres ricos.](http://9gag.com/gag/a0eO79n)
+ - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
 
 ---
 
