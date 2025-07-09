@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What Cyberpunk 2 should steal from Edgerunners](https://www.polygon.com/entertainment/611686/cyberpunk-2-project-orion-steal-edgerunners-season-2)
- - [Cyberpunk 2077 Joins PS Plus For The First Time Ever Ahead Of Recently Teased Update](https://kotaku.com/ps-plus-july-2025-cyberpunk-2077-twisted-metal-1851785914)
- - [Modder behind the &#39;Swiss army knife of PC gaming&#39; deletes their 20 year-old Steam account with anti-Valve manifesto: &#39;By the end of my bitter dealings with Valve… there was zero hope&#39;](https://www.pcgamer.com/software/platforms/modder-behind-the-swiss-army-knife-of-pc-gaming-deletes-their-20-year-old-steam-account-with-anti-valve-manifesto-by-the-end-of-my-bitter-dealings-with-valve-there-was-zero-hope/)<!-- GAME:END -->
+ - [Nvidia becomes first company ever to hit a $4 trillion market cap &lpar;yes that&#39;s &#39;trillion&#39; with a &#39;T&#39;&rpar;](https://www.pcgamer.com/games/nvidia-becomes-first-company-ever-to-hit-a-usd4-trillion-market-cap-yes-thats-trillion-with-a-t/)
+ - [Everything In Destiny 2 Is Free Right Now If You Can Convince Anyone To Play With You](https://kotaku.com/destiny-2-free-final-shape-edge-fate-expansion-ps5-1851785927)
+ - [Robert Downey Jr. Explains How Ironheart Fit An Entire MCU Movie Into One Episode](https://kotaku.com/robert-downey-jr-ironheart-iron-man-mcu-disney-plus-1851785928)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
