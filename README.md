@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every day at the office.](http://9gag.com/gag/aVvR73n)
- - ⏩ [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
- - 👉 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)<!-- MEMES:END -->
+ - 💣 [Well.well.well](http://9gag.com/gag/azx41Pz)
+ - ⏩ [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
+ - 👉 [God is Deaf](http://9gag.com/gag/an7GgX5)<!-- MEMES:END -->
 
 ---
 
