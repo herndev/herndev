@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X CEO Linda Yaccarino is stepping down after two years](https://www.theverge.com/news/702653/x-ceo-linda-yaccarino-elon-musk)
- - [The 200 Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)
- - [13 Best Prime Day Pet Deals on Amazon &lpar;2025&rpar;](https://www.wired.com/story/prime-day-pet-deals-2025/)<!-- TECH:END -->
+ - [OpenAI’s open language model is imminent](https://www.theverge.com/notepad-microsoft-newsletter/702848/openai-open-language-model-o3-mini-notepad)
+ - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
+ - [Apple Watch Ultra 2 price drops to all-time low of just $649.99](https://www.androidauthority.com/apple-watch-ultra-2-prime-day-3575865/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
