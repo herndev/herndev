@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I think its great](http://9gag.com/gag/a6ZGE98)
- - ⏩ [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
- - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
+ - ⏩ [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
+ - 👉 [Test? And take](http://9gag.com/gag/ae9Rg5m)<!-- MEMES:END -->
 
 ---
 
