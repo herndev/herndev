@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If Marvel Rivals doesn&#39;t want to reward me with fancy skins for my hard work, then I hope it&#39;ll at least give me some of Season 3&#39;s new customisation features](https://www.pcgamer.com/games/third-person-shooter/if-marvel-rivals-doesnt-want-to-reward-me-with-fancy-skins-for-my-hard-work-then-i-hope-itll-at-least-give-me-some-of-season-3s-new-customisation-features/)
- - [FromSoftware scrambles for content to keep Elden Ring Nightreign players interested as it announces the return of the first three Everdark Nightlords](https://www.pcgamer.com/games/rpg/fromsoftware-scrambles-for-content-to-keep-elden-ring-nightreign-players-interested-as-it-announces-the-return-of-the-first-three-everdark-nightlords/)
- - [Persona 5: The Phantom X review](https://www.pcgamer.com/games/rpg/persona-5-the-phantom-x-review/)<!-- GAME:END -->
+ - [Scarlett Johansson’s Jurassic World Rebirth hero mode is smarter and sneakier than it looks](https://www.polygon.com/opinion/611691/scarlett-johansson-performance-jurassic-park-rebirth-explained)
+ - [Wednesday returns to Nevermore Academy a hero in season 2](https://www.polygon.com/trailer/611750/wednesday-season-2-second-trailer)
+ - [World Of Tanks Developer&#39;s Live-Service Shooter Shutting Down After Only Six Months](https://kotaku.com/steel-hunters-wargaming-world-of-tanks-live-service-1851785861)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
