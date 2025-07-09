@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s design team will report to Tim Cook](https://www.theverge.com/news/701705/apple-tim-cook-design-team-report)
- - [Supreme Court gives Trump the green light to cut down the federal workforce](https://www.theverge.com/policy/701646/supreme-court-decision-federal-workers-trump-layoffs)
- - [After Musk said Grok was improved &quot;significantly&quot;, Grok wrote numerous antisemitic posts, sometimes without any clear prompting; some posts were later deleted &lpar;NBC News&rpar;](http://www.techmeme.com/250708/p31#a250708p31)<!-- TECH:END -->
+ - [Apple says COO Jeff Williams will retire later this year, and Sabih Khan, Apple&#39;s SVP of Operations, will take over much of his role later this month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250708/p33#a250708p33)
+ - [Grok Is Spewing Antisemitic Garbage on X](https://www.wired.com/story/grok-antisemitic-posts-x-xai/)
+ - [Apple says its design team will report to Tim Cook after Jeff Williams retires; Williams was overseeing the team following Evans Hankey&#39;s departure in 2023 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250708/p32#a250708p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
