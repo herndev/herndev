@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seven engineers in India have lost their jobs for building a highway bridge with a 90-degree turn. And the construction company has been blacklisted. Authorities spent $2.3 million on the bridge. Now everything needs to be rebuilt.](http://9gag.com/gag/aD2QD1G)
- - ⏩ [Why are you still talking about Epstein?](http://9gag.com/gag/aVvRxey)
- - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)<!-- MEMES:END -->
+ - 💣 [Should be at every corner](http://9gag.com/gag/awyeye1)
+ - ⏩ [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
+ - 👉 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)<!-- MEMES:END -->
 
 ---
 
