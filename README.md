@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twisted Metal Season 2 Trailer Finally Shows Us Live Action Axel, And He Rules](https://kotaku.com/twisted-metal-season-2-peacock-axel-anthony-mackie-1851786052)
- - [The GameStop stapler that smashed a Switch 2 screen on launch day is being auctioned off for charity, and bidding has already broken $100,000](https://www.pcgamer.com/games/the-gamestop-stapler-that-smashed-a-switch-2-screen-on-launch-day-is-being-auctioned-off-for-charity-and-bidding-has-already-broken-usd100-000/)
- - [Kai Cenat Describes Having &#39;PTSD&#39; After Streaming For 30 Days With No Break](https://kotaku.com/kai-cenat-ptsd-30-day-stream-no-break-hot-ones-twitch-1851786038)<!-- GAME:END -->
+ - [Not every game needs to be a first-person mystery](https://www.polygon.com/gaming/612349/missile-command-delta-review-impressions)
+ - [Minecraft adds use for copper, but are the tools and armor actually worth it?](https://www.polygon.com/minecraft-guides/612331/copper-armor-tools-actually-good-worth-it)
+ - [Subnautica 2 Publisher Denies Sabotaging $250 Million Developer Payout As Fans Rebel: &#39;Subnautica&#39;s Soul Has Just Been Ripped Out&#39;](https://kotaku.com/subnautica-2-krafton-boycott-steam-wishlist-founders-1851786060)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
