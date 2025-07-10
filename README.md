@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netgear&#39;s Excellent Wi-Fi 7 Mesh Is on Sale for Prime Day](https://www.wired.com/story/netgear-orbi-770-series-prime-day-sale-july-2025/)
- - [Samsung says its trifold phone should launch ‘this year’](https://www.theverge.com/news/703753/samsung-trifold-phone-release-date-tm-roh)
- - [Trump&#39;s One Big Beautiful Bill Act mandates all new US border surveillance towers are &quot;autonomous&quot;, effectively granting Anduril a monopoly on new contracts &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/250710/p15#a250710p15)<!-- TECH:END -->
+ - [Dr. ChatGPT Will See You Now](https://www.wired.com/story/dr-chatgpt-will-see-you-now-artificial-intelligence-llms-openai-health-diagnoses/)
+ - [YouTube &amp;#8216;clarifies&amp;#8217; its plan to demonetize spammy AI slop](https://www.theverge.com/news/703772/youtube-monetization-policy-update-ai-spam)
+ - [How I used a Raspberry Pi to save my old Canon scanner](https://www.androidauthority.com/raspberry-pi-scanner-docker-3572222/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
