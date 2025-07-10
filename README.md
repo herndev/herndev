@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dr. ChatGPT Will See You Now](https://www.wired.com/story/dr-chatgpt-will-see-you-now-artificial-intelligence-llms-openai-health-diagnoses/)
- - [YouTube &amp;#8216;clarifies&amp;#8217; its plan to demonetize spammy AI slop](https://www.theverge.com/news/703772/youtube-monetization-policy-update-ai-spam)
- - [How I used a Raspberry Pi to save my old Canon scanner](https://www.androidauthority.com/raspberry-pi-scanner-docker-3572222/)<!-- TECH:END -->
+ - [The best Prime Day deals on Verge-favorite 4K Blu-rays](https://www.theverge.com/tech/701526/amazon-prime-day-best-4k-blu-ray-deals-target-sale-2025)
+ - [Samsung Now Brief is making it easier to discover YouTube videos you may like](https://www.androidauthority.com/samsung-now-brief-youtube-recommendations-3576190/)
+ - [15 Best Prime Day Phone Deals &lpar;2025&rpar;: Samsung, OnePlus, and Pixel](https://www.wired.com/story/prime-day-phone-deals-july-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
