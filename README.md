@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-1/)
- - [The Boom 4 Bluetooth Speaker Is Cheaper Than Ever for Prime Day](https://www.wired.com/story/ultimate-ears-boom-4-prime-day-deal/)<!-- TECH:END -->
+ - [Nominal, which develops AI agents for ERP systems to automate tasks for finance teams, raised a $20M Series A led by Next47, bringing its total funding to ~$30M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250709/p51#a250709p51)
+ - [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025-1/)
+ - [AverMedia GC553Pro review: Not a great Mac streaming option](https://appleinsider.com/articles/25/07/10/avermedia-gc553pro-review-not-a-great-mac-streaming-option?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
