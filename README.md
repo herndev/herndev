@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should be at every corner](http://9gag.com/gag/awyeye1)
- - ⏩ [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
- - 👉 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)<!-- MEMES:END -->
+ - 💣 [I think its great](http://9gag.com/gag/a6ZGE98)
+ - ⏩ [I think it was worth a try](http://9gag.com/gag/aVvR70M)
+ - 👉 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)<!-- MEMES:END -->
 
 ---
 
