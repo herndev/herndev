@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
- - ⏩ [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
- - 👉 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)<!-- MEMES:END -->
+ - 💣 [Should be at every corner](http://9gag.com/gag/awyeye1)
+ - ⏩ [A Gift from Terry](http://9gag.com/gag/aRBREo5)
+ - 👉 [Our boy looking Good and HEALTHY again!!! Who&#39;s ready for the Mummy 4.](http://9gag.com/gag/an7GQp0)<!-- MEMES:END -->
 
 ---
 
