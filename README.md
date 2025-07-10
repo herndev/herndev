@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
- - ⏩ [Self sustained Bed and Breakfast](http://9gag.com/gag/avy9yBW)
- - 👉 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)<!-- MEMES:END -->
+ - 💣 [Never relax](http://9gag.com/gag/azx4eGZ)
+ - ⏩ [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
+ - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
 
 ---
 
