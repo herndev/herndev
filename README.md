@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shark Dentist is a &#39;horror roguelike&#39; that&#39;s basically The Meg mashed up with an early &#39;90s Milton Bradley toy](https://www.pcgamer.com/games/horror/shark-dentist-is-a-horror-roguelike-thats-basically-the-meg-mashed-up-with-an-early-90s-milton-bradley-toy/)
- - [Controller prices are highway robbery these days, but even I can&#39;t deny this exceptional deal on Xbox pads for Amazon Prime Day](https://www.pcgamer.com/hardware/controller-prices-are-highway-robbery-these-days-but-even-i-cant-deny-this-exceptional-deal-on-xbox-pads-for-amazon-prime-day/)
- - [Former Superman Actor Doesn’t Like James Gunn Calling The Hero An Immigrant](https://kotaku.com/superman-movie-james-gunn-dean-cain-immigrant-1851786076)<!-- GAME:END -->
+ - [Superman’s post-credits scenes are so dumb, they feel like a gag aimed at Marvel](https://www.polygon.com/movies/611906/supermans-post-credits-scenes-are-so-dumb-they-feel-like-a-gag-aimed-at-marvel)
+ - [First look: PS5 Ghost of Yōtei Limited Edition console designs](https://blog.playstation.com/2025/07/10/first-look-ps5-ghost-of-yotei-limited-edition-console-designs/)
+ - [Who is Maxwell Lord and why is he funding the Justice Gang in James Gunn’s Superman?](https://www.polygon.com/entertainment/612238/maxwell-lord-explained-superman-justice-gang-james-gunn)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
