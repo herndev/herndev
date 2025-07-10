@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PowerLines: US power providers have sought regulatory approval for $29B in rate increases in H1 2025, up 142% YoY, following booming data center demand &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/250710/p7#a250710p7)
- - [Electricity bills may rise 20%+ in parts of PJM Interconnection&#39;s 13-state territory as the largest US power grid struggles to meet AI and data center demand &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/250710/p6#a250710p6)
- - [Elon Musk Unveils Grok 4 Amid Controversy Over Chatbot’s Antisemitic Posts](https://www.wired.com/story/grok-4-elon-musk-xai-antisemitic-posts/)<!-- TECH:END -->
+ - [These are the T-Mobile plans eligible for the free DashPass perk &lpar;Updated: T-Mobile confirmation&rpar;](https://www.androidauthority.com/t-mobile-dashpass-perk-eligible-plans-3575730/)
+ - [Samsung reveals why the Galaxy Z Fold 7 didn’t get a bigger battery](https://www.androidauthority.com/samsung-galaxy-z-fold-7-battery-reason-3576077/)
+ - [PowerLines: US power providers have sought regulatory approval for $29B in rate increases in H1 2025, up 142% YoY, following booming data center demand &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/250710/p7#a250710p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
