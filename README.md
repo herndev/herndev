@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon weighs another multibillion-dollar investment in Anthropic, as it seeks to position itself ahead of Google, which has invested $3B+ in Anthropic &lpar;Financial Times&rpar;](http://www.techmeme.com/250710/p1#a250710p1)
  - [The team behind AI agent Manus has relocated its HQ to Singapore and started recruiting there, while parent company Butterfly Effect reportedly remains in China &lpar;Hannah Wang/South China Morning Post&rpar;](http://www.techmeme.com/250709/p53#a250709p53)
- - [Save up to $3,500 on TCL TVs &amp; soundbars to pair with Apple TV](https://appleinsider.com/articles/25/07/10/save-up-to-3500-on-tcl-tvs-soundbars-to-pair-with-apple-tv?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, July 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-july-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save up to $3,500 on TCL TVs &amp; soundbars to pair with Apple TV](https://appleinsider.com/articles/25/07/10/save-up-to-3500-on-tcl-tvs-soundbars-to-pair-with-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
