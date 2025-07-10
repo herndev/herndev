@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to save Painter Neal in Tony Hawk&amp;#8217;s Pro Skater 4](https://www.polygon.com/guides/612025/tony-hawk-pro-skater-4-save-painter-neal-thps)
- - [Nintendo admits Donkey Kong Bananza wasn’t originally a Switch 2 game](https://www.polygon.com/news/612293/switch-2-exclusive-donkey-kong-bananza-development-power)
- - [The videogame voice actors&#39; strike officially ends as performers ratify agreement between SAG-AFTRA and publishers](https://www.pcgamer.com/gaming-industry/the-videogame-voice-actors-strike-officially-ends-as-performers-ratify-agreement-between-sag-aftra-and-publishers/)<!-- GAME:END -->
+ - [Twisted Metal Season 2 Trailer Finally Shows Us Live Action Axel, And He Rules](https://kotaku.com/twisted-metal-season-2-peacock-axel-anthony-mackie-1851786052)
+ - [The GameStop stapler that smashed a Switch 2 screen on launch day is being auctioned off for charity, and bidding has already broken $100,000](https://www.pcgamer.com/games/the-gamestop-stapler-that-smashed-a-switch-2-screen-on-launch-day-is-being-auctioned-off-for-charity-and-bidding-has-already-broken-usd100-000/)
+ - [Kai Cenat Describes Having &#39;PTSD&#39; After Streaming For 30 Days With No Break](https://kotaku.com/kai-cenat-ptsd-30-day-stream-no-break-hot-ones-twitch-1851786038)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
