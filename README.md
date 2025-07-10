@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Not every game needs to be a first-person mystery](https://www.polygon.com/gaming/612349/missile-command-delta-review-impressions)
- - [Minecraft adds use for copper, but are the tools and armor actually worth it?](https://www.polygon.com/minecraft-guides/612331/copper-armor-tools-actually-good-worth-it)
- - [Subnautica 2 Publisher Denies Sabotaging $250 Million Developer Payout As Fans Rebel: &#39;Subnautica&#39;s Soul Has Just Been Ripped Out&#39;](https://kotaku.com/subnautica-2-krafton-boycott-steam-wishlist-founders-1851786060)<!-- GAME:END -->
+ - [Krafton accuses former Subnautica 2 bosses of abandoning the game in surprising new statement: &#39;We feel a profound sense of betrayal by their failure to honor the trust placed in them&#39;](https://www.pcgamer.com/games/survival-crafting/krafton-accuses-former-subnautica-2-bosses-of-abandoning-the-game-in-surprising-new-statement-we-feel-a-profound-sense-of-betrayal-by-their-failure-to-honor-the-trust-placed-in-them/)
+ - [Shark Dentist combines two phobias into one ridiculous roguelike](https://www.polygon.com/gaming/612407/shark-dentist-combines-two-phobias-into-one-ridiculous-roguelike)
+ - [Subnautica 2 Publisher Blames Ousted Founders For Delays As Fans Rebel: &#39;Subnautica&#39;s Soul Has Just Been Ripped Out&#39; [Update]](https://kotaku.com/subnautica-2-krafton-boycott-steam-wishlist-founders-1851786060)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
