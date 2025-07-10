@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hockey fight at basketball game](http://9gag.com/gag/ajPR7E1)
- - ⏩ [The rogue we deserves!](http://9gag.com/gag/aVvRwAO)
- - 👉 [I always enjoy talking to them again, I have been visiting some customers at home for more than 15 years and my oldest customer is now 93 years old](http://9gag.com/gag/ajPRgER)<!-- MEMES:END -->
+ - 💣 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - ⏩ [I think its great](http://9gag.com/gag/a6ZGE98)
+ - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
 
 ---
 
