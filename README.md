@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Australian Tarantula Hawk Wasp dragging off a huntsman spider to lay her egg on its paralyzed body. When the egg hatches, the larva consumes the paralyzed spider from the inside out, leaving the vital organs until last to keep their paralyzed meal alive as long as possible](http://9gag.com/gag/abARVdB)
+ - 💣 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
  - ⏩ [Lack of innovation](http://9gag.com/gag/ae9RAqm)
- - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
+ - 👉 [Omg is this true](http://9gag.com/gag/a9yD1bW)<!-- MEMES:END -->
 
 ---
 
