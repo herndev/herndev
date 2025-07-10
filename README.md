@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the AI startup frenzy: ‘Everyone’s pivoting, then pivoting again’](https://www.theverge.com/decoder-podcast-with-nilay-patel/699840/ellis-hamburger-meaning-ai-startup-consulting-snap-browser-company)
- - [Elon Musk Says Grok Is Coming to Tesla EVs](https://www.wired.com/story/elon-musk-says-grok-is-coming-to-tesla-evs/)
- - [The best fitness tracker and smartwatch Prime Day deals](https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025)<!-- TECH:END -->
+ - [A Rotterdam court sentences a Russian to three years in prison for breaching international sanctions by sharing sensitive ASML info with someone in Russia &lpar;Mike Corder/Associated Press&rpar;](http://www.techmeme.com/250710/p26#a250710p26)
+ - [Prime deal brings first price drop on the Amazfit Active 2 fitness trackers](https://www.androidauthority.com/deal-amazfit-active-2-premium-3576298/)
+ - [Wish your Nintendo DS could run modern PC games? You need to see this new gaming handheld](https://www.androidauthority.com/ayaneo-flip-1s-ds-launch-3576275/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
