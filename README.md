@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Islanders: New Shores is the ideal Nintendo Switch 2 game](https://www.polygon.com/gaming/611666/islanders-new-shores-nintendo-switch-2-recommendation)
- - [Every DC movie and TV show scheduled for 2025 and beyond](https://www.polygon.com/movies/22352001/new-dc-movies-release-schedule)
- - [Helldivers 2 Control Group Warbond launches July 17](https://blog.playstation.com/2025/07/10/helldivers-2-control-group-warbond-launches-july-17/)<!-- GAME:END -->
+ - [Free Play Days – MLB The Show 25, Polterguys: Possession Party, RollerCoaster Tycoon 3: Complete Edition and Blasphemous](https://news.xbox.com/en-us/2025/07/10/free-play-days-07-10-2025/)
+ - [How to unlock every Secret Skater in Tony Hawk&#39;s Pro Skater 3 + 4](https://www.pcgamer.com/games/sports/tony-hawks-pro-skater-3-4-secret-skaters-unlock/)
+ - [The new &#39;UK Video Games Council&#39; has announced its members—including reps from Larian Studios, Microsoft, and non-profit advocacy groups UKIE and TIGA](https://www.pcgamer.com/gaming-industry/game-development/the-new-uk-video-games-council-has-announced-its-members-including-reps-from-larian-studios-microsoft-and-non-profit-advocacy-groups-ukie-and-tiga/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
