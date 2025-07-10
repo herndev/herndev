@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Omg is this true](http://9gag.com/gag/a9yD1bW)
- - ⏩ [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
- - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)<!-- MEMES:END -->
+ - 💣 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
+ - ⏩ [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
+ - 👉 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)<!-- MEMES:END -->
 
 ---
 
