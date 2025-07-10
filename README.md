@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)
- - ⏩ [And the card driver a new pants...](http://9gag.com/gag/a34NGBv)
- - 👉 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)<!-- MEMES:END -->
+ - 💣 [Finally a good new policy by tech company](http://9gag.com/gag/aO8p2GE)
+ - ⏩ [The famous sample from Linkin Park&#39;s Faint](http://9gag.com/gag/aD2QYKK)
+ - 👉 [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)<!-- MEMES:END -->
 
 ---
 
