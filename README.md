@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [China is building data centres to house over 115,000 high-end Nvidia AI GPUs despite Trump&#39;s ban on selling the tech](https://www.pcgamer.com/hardware/china-is-building-data-centres-to-house-over-115-000-high-end-nvidia-ai-gpus-despite-trumps-ban-on-selling-the-tech/)
  - [Startups are using Nvidia&#39;s AI GPUs as collateral to secure loans of up to $10 billion from financial institutions](https://www.pcgamer.com/hardware/startups-are-using-nvidias-ai-gpus-as-collateral-to-secure-loans-of-up-to-usd10-billion-from-financial-institutions/)
- - [Today&#39;s Wordle answer for Thursday, July 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-10-2025/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for July: Cyberpunk 2077, Abiotic Factor, Banishers: Ghosts of New Eden and more](https://blog.playstation.com/2025/07/09/20250710-psplus/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, July 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-10-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
