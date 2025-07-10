@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Krafton accuses former Subnautica 2 bosses of abandoning the game in surprising new statement: &#39;We feel a profound sense of betrayal by their failure to honor the trust placed in them&#39;](https://www.pcgamer.com/games/survival-crafting/krafton-accuses-former-subnautica-2-bosses-of-abandoning-the-game-in-surprising-new-statement-we-feel-a-profound-sense-of-betrayal-by-their-failure-to-honor-the-trust-placed-in-them/)
- - [Shark Dentist combines two phobias into one ridiculous roguelike](https://www.polygon.com/gaming/612407/shark-dentist-combines-two-phobias-into-one-ridiculous-roguelike)
- - [Subnautica 2 Publisher Blames Ousted Founders For Delays As Fans Rebel: &#39;Subnautica&#39;s Soul Has Just Been Ripped Out&#39; [Update]](https://kotaku.com/subnautica-2-krafton-boycott-steam-wishlist-founders-1851786060)<!-- GAME:END -->
+ - [Shark Dentist is a &#39;horror roguelike&#39; that&#39;s basically The Meg mashed up with an early &#39;90s Milton Bradley toy](https://www.pcgamer.com/games/horror/shark-dentist-is-a-horror-roguelike-thats-basically-the-meg-mashed-up-with-an-early-90s-milton-bradley-toy/)
+ - [Controller prices are highway robbery these days, but even I can&#39;t deny this exceptional deal on Xbox pads for Amazon Prime Day](https://www.pcgamer.com/hardware/controller-prices-are-highway-robbery-these-days-but-even-i-cant-deny-this-exceptional-deal-on-xbox-pads-for-amazon-prime-day/)
+ - [Former Superman Actor Doesn’t Like James Gunn Calling The Hero An Immigrant](https://kotaku.com/superman-movie-james-gunn-dean-cain-immigrant-1851786076)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
