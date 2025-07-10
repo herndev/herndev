@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never relax](http://9gag.com/gag/azx4eGZ)
- - ⏩ [And the card driver a new pants...](http://9gag.com/gag/a34NGBv)
- - 👉 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)<!-- MEMES:END -->
+ - 💣 [Wow, that is pretty impressive!!](http://9gag.com/gag/awyez7x)
+ - ⏩ [Never relax](http://9gag.com/gag/azx4eGZ)
+ - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
 
 ---
 
