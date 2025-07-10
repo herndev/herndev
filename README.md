@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should be at every corner](http://9gag.com/gag/awyeye1)
- - ⏩ [And in the end, the copper is stolen](http://9gag.com/gag/aD2QD17)
- - 👉 [Never relax](http://9gag.com/gag/azx4eGZ)<!-- MEMES:END -->
+ - 💣 [You know the rules](http://9gag.com/gag/aW4R7X3)
+ - ⏩ [Legends assemble!!](http://9gag.com/gag/aKGKAnZ)
+ - 👉 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)<!-- MEMES:END -->
 
 ---
 
