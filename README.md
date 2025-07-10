@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the T-Mobile plans eligible for the free DashPass perk &lpar;Updated: T-Mobile confirmation&rpar;](https://www.androidauthority.com/t-mobile-dashpass-perk-eligible-plans-3575730/)
- - [Samsung reveals why the Galaxy Z Fold 7 didn’t get a bigger battery](https://www.androidauthority.com/samsung-galaxy-z-fold-7-battery-reason-3576077/)
- - [PowerLines: US power providers have sought regulatory approval for $29B in rate increases in H1 2025, up 142% YoY, following booming data center demand &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/250710/p7#a250710p7)<!-- TECH:END -->
+ - [A researcher says 245 extensions on nearly 1M devices are overriding security protections to turn browsers into engines that scrape websites for a paid service &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250710/p11#a250710p11)
+ - [The Galaxy Z Flip 7 still doesn’t fix the worst thing about Samsung’s flip phones](https://www.androidauthority.com/samsung-galaxy-z-flip-7-flex-window-good-lock-3575045/)
+ - [The Allen Institute for AI launches FlexOlmo, an LLM architecture that lets data owners control and remove their training data from a model even after training &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250710/p10#a250710p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
