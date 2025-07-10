@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
- - [Android is about to take another AI leap over Apple](https://www.androidauthority.com/arm-sme2-cpus-android-3575038/)
- - [Dissident Hunters](https://www.theverge.com/cs/features/700411/iran-defector-bounty-hunter-dissident-cia)<!-- TECH:END -->
+ - [Inside the AI startup frenzy: ‘Everyone’s pivoting, then pivoting again’](https://www.theverge.com/decoder-podcast-with-nilay-patel/699840/ellis-hamburger-meaning-ai-startup-consulting-snap-browser-company)
+ - [Elon Musk Says Grok Is Coming to Tesla EVs](https://www.wired.com/story/elon-musk-says-grok-is-coming-to-tesla-evs/)
+ - [The best fitness tracker and smartwatch Prime Day deals](https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
