@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
- - ⏩ [Lack of innovation](http://9gag.com/gag/ae9RAqm)
- - 👉 [Omg is this true](http://9gag.com/gag/a9yD1bW)<!-- MEMES:END -->
+ - 💣 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)
+ - ⏩ [And the card driver a new pants...](http://9gag.com/gag/a34NGBv)
+ - 👉 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)<!-- MEMES:END -->
 
 ---
 
