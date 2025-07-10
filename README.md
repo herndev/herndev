@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British \ud83c\uddec\ud83c\udde7 MAN standing up against Police](http://9gag.com/gag/ary8mP6)
- - ⏩ [Just as I pirated this meme.](http://9gag.com/gag/aVvRvdn)
- - 👉 [Finally a good new policy by tech company](http://9gag.com/gag/aO8p2GE)<!-- MEMES:END -->
+ - 💣 [Now we finally know!](http://9gag.com/gag/aLnWvex)
+ - ⏩ [Never relax](http://9gag.com/gag/azx4eGZ)
+ - 👉 [Should be at every corner](http://9gag.com/gag/awyeye1)<!-- MEMES:END -->
 
 ---
 
