@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think its great](http://9gag.com/gag/a6ZGE98)
- - ⏩ [I think it was worth a try](http://9gag.com/gag/aVvR70M)
- - 👉 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)<!-- MEMES:END -->
+ - 💣 [Hockey fight at basketball game](http://9gag.com/gag/ajPR7E1)
+ - ⏩ [The rogue we deserves!](http://9gag.com/gag/aVvRwAO)
+ - 👉 [I always enjoy talking to them again, I have been visiting some customers at home for more than 15 years and my oldest customer is now 93 years old](http://9gag.com/gag/ajPRgER)<!-- MEMES:END -->
 
 ---
 
