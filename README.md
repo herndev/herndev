@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Rotterdam court sentences a Russian to three years in prison for breaching international sanctions by sharing sensitive ASML info with someone in Russia &lpar;Mike Corder/Associated Press&rpar;](http://www.techmeme.com/250710/p26#a250710p26)
- - [Prime deal brings first price drop on the Amazfit Active 2 fitness trackers](https://www.androidauthority.com/deal-amazfit-active-2-premium-3576298/)
- - [Wish your Nintendo DS could run modern PC games? You need to see this new gaming handheld](https://www.androidauthority.com/ayaneo-flip-1s-ds-launch-3576275/)<!-- TECH:END -->
+ - [Our favorite desk accessories for Prime Day](https://www.theverge.com/tech/699494/verge-favorite-desk-accessories-prime-day-deals)
+ - [Gemini lands on the Galaxy Buds 3 Pro as it expands to third-party earbuds](https://www.androidauthority.com/galaxy-buds-3-pro-gemini-rollout-3576268/)
+ - [Netflix keeps Squid Game going with more of its reality show](https://www.theverge.com/news/704199/netflix-squid-game-the-challenge-reality-show-season-2-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
