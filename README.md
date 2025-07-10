@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our favorite desk accessories for Prime Day](https://www.theverge.com/tech/699494/verge-favorite-desk-accessories-prime-day-deals)
- - [Gemini lands on the Galaxy Buds 3 Pro as it expands to third-party earbuds](https://www.androidauthority.com/galaxy-buds-3-pro-gemini-rollout-3576268/)
- - [Netflix keeps Squid Game going with more of its reality show](https://www.theverge.com/news/704199/netflix-squid-game-the-challenge-reality-show-season-2-3)<!-- TECH:END -->
+ - [YouTube’s ‘Trending’ section is about to disappear](https://www.theverge.com/news/704222/youtube-trending-page-removal-charts)
+ - [Circle to Search has finally figured out landscape mode](https://www.androidauthority.com/circle-to-search-landscape-3576315/)
+ - [Apple, Mastercard, Visa fend off high merchant fee lawsuit](https://appleinsider.com/articles/25/07/10/apple-mastercard-visa-fend-off-high-merchant-fee-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
