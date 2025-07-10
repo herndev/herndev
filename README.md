@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iCloud Passwords autofill now available in Firefox for Windows](https://appleinsider.com/articles/25/07/09/icloud-passwords-autofill-now-available-in-firefox-for-windows?utm_medium=rss)
- - [Pick up the Amazon Fire TV Soundbar at an all-time low price with Prime savings](https://www.androidauthority.com/amazon-fire-tv-soundbar-deal-3576014/)
- - [A German court ruled Meta&#39;s tracking pixels embedded in third-party websites and apps violate the EU&#39;s GDPR, ordering it to pay €5,000 to a German Facebook user &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/250709/p47#a250709p47)<!-- TECH:END -->
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-1/)
+ - [The Boom 4 Bluetooth Speaker Is Cheaper Than Ever for Prime Day](https://www.wired.com/story/ultimate-ears-boom-4-prime-day-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
