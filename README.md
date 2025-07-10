@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Mastercard, Visa fend off high merchant fee lawsuit](https://appleinsider.com/articles/25/07/10/apple-mastercard-visa-fend-off-high-merchant-fee-lawsuit?utm_medium=rss)
- - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [YouTube will remove its Trending page and Trending Now list in favor of category-specific charts, says it better aligns with the way content is discovered now &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250710/p31#a250710p31)<!-- TECH:END -->
+ - [HMD plans to stop selling phones in the US, and you probably know why](https://www.androidauthority.com/hmd-global-leaves-us-market-3576404/)
+ - [Google launches Android Canary program for Pixel users who want to live on the bleeding edge](https://www.androidauthority.com/android-canary-3576430/)
+ - [Windows 11’s new Black Screen of Death is now rolling out](https://www.theverge.com/news/704536/microsoft-windows-11-black-screen-of-death-bsod-now-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
