@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on Verge-favorite 4K Blu-rays](https://www.theverge.com/tech/701526/amazon-prime-day-best-4k-blu-ray-deals-target-sale-2025)
- - [Samsung Now Brief is making it easier to discover YouTube videos you may like](https://www.androidauthority.com/samsung-now-brief-youtube-recommendations-3576190/)
- - [15 Best Prime Day Phone Deals &lpar;2025&rpar;: Samsung, OnePlus, and Pixel](https://www.wired.com/story/prime-day-phone-deals-july-2025/)<!-- TECH:END -->
+ - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
+ - [Android is about to take another AI leap over Apple](https://www.androidauthority.com/arm-sme2-cpus-android-3575038/)
+ - [Dissident Hunters](https://www.theverge.com/cs/features/700411/iran-defector-bounty-hunter-dissident-cia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
