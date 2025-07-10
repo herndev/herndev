@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Superman’s post-credits scenes are so dumb, they feel like a gag aimed at Marvel](https://www.polygon.com/movies/611906/supermans-post-credits-scenes-are-so-dumb-they-feel-like-a-gag-aimed-at-marvel)
- - [First look: PS5 Ghost of Yōtei Limited Edition console designs](https://blog.playstation.com/2025/07/10/first-look-ps5-ghost-of-yotei-limited-edition-console-designs/)
- - [Who is Maxwell Lord and why is he funding the Justice Gang in James Gunn’s Superman?](https://www.polygon.com/entertainment/612238/maxwell-lord-explained-superman-justice-gang-james-gunn)<!-- GAME:END -->
+ - [Yep, Steam is down &lpar;update: we&#39;re so back&rpar;](https://www.pcgamer.com/games/yep-steam-is-down/)
+ - [Ghost of Yōtei brings back Kurosawa Mode, adds new presentations inspired by more great Japanese directors](https://www.polygon.com/gaming/603401/ghost-of-yotei-ps5-gameplay-trailer-state-of-play)
+ - [Superman’s post-credits scenes are so dumb, they feel like a gag aimed at Marvel](https://www.polygon.com/movies/611906/supermans-post-credits-scenes-are-so-dumb-they-feel-like-a-gag-aimed-at-marvel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
