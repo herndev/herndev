@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The SAG-AFTRA video game voice actors’ strike is officially over](https://www.polygon.com/gaming/612271/the-sag-aftra-video-game-voice-actors-strike-is-officially-over)
- - [Nintendo Has The Best Reason For Why Pauline Is In Donkey Kong Bananza](https://kotaku.com/pauline-donkey-kong-bananza-timeline-dk-lore-1851786019)
- - [Astro Bot Now Has Over 90 Levels After Getting More Free Ones Today](https://kotaku.com/astro-bot-five-new-free-levels-july-10-cameo-bots-ps5-1851786014)<!-- GAME:END -->
+ - [How to save Painter Neal in Tony Hawk&amp;#8217;s Pro Skater 4](https://www.polygon.com/guides/612025/tony-hawk-pro-skater-4-save-painter-neal-thps)
+ - [Nintendo admits Donkey Kong Bananza wasn’t originally a Switch 2 game](https://www.polygon.com/news/612293/switch-2-exclusive-donkey-kong-bananza-development-power)
+ - [The videogame voice actors&#39; strike officially ends as performers ratify agreement between SAG-AFTRA and publishers](https://www.pcgamer.com/gaming-industry/the-videogame-voice-actors-strike-officially-ends-as-performers-ratify-agreement-between-sag-aftra-and-publishers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
