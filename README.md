@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Persona 5 The Phantom X flower shop questions and answers](https://www.polygon.com/persona-5-phantom-x-guides/611248/flower-shop-questions-answers-rewards-part-time-job)
  - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/mcu-tv-shows-ranked-marvel-cinematic-universe)
- - [X CEO Linda Yaccarino calls it quits less than 24 hours after the platform&#39;s AI-powered chatbot Grok anoints itself &#39;MechaHitler&#39; and starts posting antisemitic messages and graphic descriptions of sexual assault](https://www.pcgamer.com/games/x-ceo-linda-yaccarino-calls-it-quits-less-than-24-hours-after-the-platforms-ai-powered-chatbot-grok-anoints-itself-mechahitler-and-starts-posting-antisemitic-messages-and-graphic-descriptions-of-sexual-assault/)
- - [What time does Tony Hawk’s Pro Skater 3+4 release?](https://www.polygon.com/guides/611781/tony-hawk-pro-skater-3-4-thps-release-time-edt-pdt)<!-- GAME:END -->
+ - [X CEO Linda Yaccarino calls it quits less than 24 hours after the platform&#39;s AI-powered chatbot Grok anoints itself &#39;MechaHitler&#39; and starts posting antisemitic messages and graphic descriptions of sexual assault](https://www.pcgamer.com/games/x-ceo-linda-yaccarino-calls-it-quits-less-than-24-hours-after-the-platforms-ai-powered-chatbot-grok-anoints-itself-mechahitler-and-starts-posting-antisemitic-messages-and-graphic-descriptions-of-sexual-assault/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
