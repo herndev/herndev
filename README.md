@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Startups are using Nvidia&#39;s AI GPUs as collateral to secure loans of up to $10 billion from financial institutions](https://www.pcgamer.com/hardware/startups-are-using-nvidias-ai-gpus-as-collateral-to-secure-loans-of-up-to-usd10-billion-from-financial-institutions/)
  - [Today&#39;s Wordle answer for Thursday, July 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-10-2025/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for July: Cyberpunk 2077, Abiotic Factor, Banishers: Ghosts of New Eden and more](https://blog.playstation.com/2025/07/09/20250710-psplus/)
  - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for July: Cyberpunk 2077, Abiotic Factor, Banishers: Ghosts of New Eden and more](https://blog.playstation.com/2025/07/09/20250710-psplus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
