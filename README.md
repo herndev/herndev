@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [We&#39;re all trapped in a prison of our own filth, which is why I&#39;m eyeing this little arsenal of an electronics cleaning kit that&#39;s on sale for less than $12](https://www.pcgamer.com/hardware/were-all-trapped-in-a-prison-of-our-own-filth-which-is-why-im-eyeing-this-little-arsenal-of-an-electronics-cleaning-kit-thats-on-sale-for-less-than-usd12/)
  - [Magic: The Gathering&#39;s space opera set includes a monster so big it eats planets](https://www.pcgamer.com/games/card-games/magic-the-gatherings-space-opera-set-includes-a-monster-so-big-it-eats-planets/)
- - [Autonomous robots perform first of its kind surgery using AI to follow senior surgeons vocal instructions](https://www.pcgamer.com/hardware/autonomous-robots-perform-first-of-its-kind-surgery-using-ai-to-follow-senior-surgeons-vocal-instructions/)
- - [China is building data centres to house over 115,000 high-end Nvidia AI GPUs despite Trump&#39;s ban on selling the tech](https://www.pcgamer.com/hardware/china-is-building-data-centres-to-house-over-115-000-high-end-nvidia-ai-gpus-despite-trumps-ban-on-selling-the-tech/)<!-- GAME:END -->
+ - [Autonomous robots perform first of its kind surgery using AI to follow senior surgeons vocal instructions](https://www.pcgamer.com/hardware/autonomous-robots-perform-first-of-its-kind-surgery-using-ai-to-follow-senior-surgeons-vocal-instructions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
