@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
- - ⏩ [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
- - 👉 [Wow, that is pretty impressive!!](http://9gag.com/gag/awyez7x)<!-- MEMES:END -->
+ - 💣 [British \ud83c\uddec\ud83c\udde7 MAN standing up against Police](http://9gag.com/gag/ary8mP6)
+ - ⏩ [Just as I pirated this meme.](http://9gag.com/gag/aVvRvdn)
+ - 👉 [Finally a good new policy by tech company](http://9gag.com/gag/aO8p2GE)<!-- MEMES:END -->
 
 ---
 
