@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Control Group Warbond launches July 17](https://blog.playstation.com/2025/07/10/helldivers-2-control-group-warbond-launches-july-17/)
- - [Ex-D&amp;#038;D and Magic: The Gathering VP takes over Vampire: The Masquerade as creative director](https://www.polygon.com/news/612076/white-wolf-jess-lanzillo-dungeons-dragons-magic-the-gathering)
- - [What is Umamusume: Pretty Derby, the game taking over Twitch and Steam?](https://www.polygon.com/gaming/612058/umamusume-pretty-derby-popularity-what-is-explainer)<!-- GAME:END -->
+ - [Islanders: New Shores is the ideal Nintendo Switch 2 game](https://www.polygon.com/gaming/611666/islanders-new-shores-nintendo-switch-2-recommendation)
+ - [Every DC movie and TV show scheduled for 2025 and beyond](https://www.polygon.com/movies/22352001/new-dc-movies-release-schedule)
+ - [Helldivers 2 Control Group Warbond launches July 17](https://blog.playstation.com/2025/07/10/helldivers-2-control-group-warbond-launches-july-17/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
