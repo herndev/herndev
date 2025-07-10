@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow, that is pretty impressive!!](http://9gag.com/gag/awyez7x)
- - ⏩ [Never relax](http://9gag.com/gag/azx4eGZ)
- - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
+ - 💣 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
+ - ⏩ [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
+ - 👉 [Wow, that is pretty impressive!!](http://9gag.com/gag/awyez7x)<!-- MEMES:END -->
 
 ---
 
