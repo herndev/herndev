@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, July 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-july-10/#ftag=CAD590a51e)
  - [Sources: Nvidia plans to launch a new AI chip designed for China that will be a version of its Blackwell RTX Pro 6000 processor, as soon as September &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p52#a250709p52)
- - [Nominal, which develops AI agents for ERP systems to automate tasks for finance teams, raised a $20M Series A led by Next47, bringing its total funding to ~$30M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250709/p51#a250709p51)
- - [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025-1/)<!-- TECH:END -->
+ - [Nominal, which develops AI agents for ERP systems to automate tasks for finance teams, raised a $20M Series A led by Next47, bringing its total funding to ~$30M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250709/p51#a250709p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
