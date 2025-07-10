@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best 4K TV deals during Prime Day 2025](https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day)
- - [Razer&amp;#8217;s got a new version of its popular DeathAdder Pro gaming mouse](https://www.theverge.com/news/704581/razer-deathadder-v4-pro-wireless-gaming-mouse-specs)
- - [13 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/)<!-- TECH:END -->
+ - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
+ - [M4 Max Mac Studio vs M1 Ultra Mac Studio compared: A multi-generational shootout](https://appleinsider.com/inside/mac-studio/vs/m4-max-mac-studio-vs-m1-ultra-mac-studio-compared-a-multi-generational-shootout?utm_medium=rss)
+ - [Ghost of Yōtei&amp;#8217;s gameplay deep dive shows the open world, combat, and chill beats](https://www.theverge.com/news/704597/ghost-of-yotei-ps5-gameplay-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
