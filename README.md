@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – MLB The Show 25, Polterguys: Possession Party, RollerCoaster Tycoon 3: Complete Edition and Blasphemous](https://news.xbox.com/en-us/2025/07/10/free-play-days-07-10-2025/)
- - [How to unlock every Secret Skater in Tony Hawk&#39;s Pro Skater 3 + 4](https://www.pcgamer.com/games/sports/tony-hawks-pro-skater-3-4-secret-skaters-unlock/)
- - [The new &#39;UK Video Games Council&#39; has announced its members—including reps from Larian Studios, Microsoft, and non-profit advocacy groups UKIE and TIGA](https://www.pcgamer.com/gaming-industry/game-development/the-new-uk-video-games-council-has-announced-its-members-including-reps-from-larian-studios-microsoft-and-non-profit-advocacy-groups-ukie-and-tiga/)<!-- GAME:END -->
+ - [The SAG-AFTRA video game voice actors’ strike is officially over](https://www.polygon.com/gaming/612271/the-sag-aftra-video-game-voice-actors-strike-is-officially-over)
+ - [Nintendo Has The Best Reason For Why Pauline Is In Donkey Kong Bananza](https://kotaku.com/pauline-donkey-kong-bananza-timeline-dk-lore-1851786019)
+ - [Astro Bot Now Has Over 90 Levels After Getting More Free Ones Today](https://kotaku.com/astro-bot-five-new-free-levels-july-10-cameo-bots-ps5-1851786014)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
