@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now we finally know!](http://9gag.com/gag/aLnWvex)
- - ⏩ [Never relax](http://9gag.com/gag/azx4eGZ)
- - 👉 [Should be at every corner](http://9gag.com/gag/awyeye1)<!-- MEMES:END -->
+ - 💣 [Should be at every corner](http://9gag.com/gag/awyeye1)
+ - ⏩ [And in the end, the copper is stolen](http://9gag.com/gag/aD2QD17)
+ - 👉 [Never relax](http://9gag.com/gag/azx4eGZ)<!-- MEMES:END -->
 
 ---
 
