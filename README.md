@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never relax](http://9gag.com/gag/azx4eGZ)
- - ⏩ [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
- - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
+ - 💣 [Silenced Ruger 22 in action, a classic for a reason](http://9gag.com/gag/a6ZGDNR)
+ - ⏩ [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
+ - 👉 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)<!-- MEMES:END -->
 
 ---
 
