@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)
- - ⏩ [I think its great](http://9gag.com/gag/a6ZGE98)
- - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
+ - 💣 [Omg is this true](http://9gag.com/gag/a9yD1bW)
+ - ⏩ [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)<!-- MEMES:END -->
 
 ---
 
