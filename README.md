@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s ‘Trending’ section is about to disappear](https://www.theverge.com/news/704222/youtube-trending-page-removal-charts)
- - [Circle to Search has finally figured out landscape mode](https://www.androidauthority.com/circle-to-search-landscape-3576315/)
- - [Apple, Mastercard, Visa fend off high merchant fee lawsuit](https://appleinsider.com/articles/25/07/10/apple-mastercard-visa-fend-off-high-merchant-fee-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [Apple, Mastercard, Visa fend off high merchant fee lawsuit](https://appleinsider.com/articles/25/07/10/apple-mastercard-visa-fend-off-high-merchant-fee-lawsuit?utm_medium=rss)
+ - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
+ - [YouTube will remove its Trending page and Trending Now list in favor of category-specific charts, says it better aligns with the way content is discovered now &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250710/p31#a250710p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
