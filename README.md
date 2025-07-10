@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s best noise-canceling headphones are up to 45 percent off](https://www.theverge.com/tech/704044/amazon-prime-day-sony-wh-1000xm6-1000xm5-deal-sale-2025)
- - [Android’s first Canary build adds screen saver features made for phones with Qi2](https://www.androidauthority.com/android-screen-saver-changes-qi2-3576461/)
- - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025-2/)<!-- TECH:END -->
+ - [The best 4K TV deals during Prime Day 2025](https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day)
+ - [Razer&amp;#8217;s got a new version of its popular DeathAdder Pro gaming mouse](https://www.theverge.com/news/704581/razer-deathadder-v4-pro-wireless-gaming-mouse-specs)
+ - [13 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
