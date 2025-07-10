@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is Umamusume: Pretty Derby, the game taking over Twitch and Steam?](https://www.polygon.com/gaming/612058/umamusume-pretty-derby-popularity-what-is-explainer)
- - [Britain does it best with the Prime Day GPU deals and here are the top five graphics cards with the biggest discounts under MSRP](https://www.pcgamer.com/hardware/graphics-cards/britain-does-it-best-with-the-prime-day-gpu-deals-and-here-are-the-top-five-graphics-cards-with-the-biggest-discounts-under-msrp/)
- - [11-Month Battle Over AI Finally Ends As Striking Game Actors Reach Tentative Deal [Update]](https://kotaku.com/sag-aftra-strike-voice-actor-game-darth-vader-1851784189)<!-- GAME:END -->
+ - [Helldivers 2 Control Group Warbond launches July 17](https://blog.playstation.com/2025/07/10/helldivers-2-control-group-warbond-launches-july-17/)
+ - [Ex-D&amp;#038;D and Magic: The Gathering VP takes over Vampire: The Masquerade as creative director](https://www.polygon.com/news/612076/white-wolf-jess-lanzillo-dungeons-dragons-magic-the-gathering)
+ - [What is Umamusume: Pretty Derby, the game taking over Twitch and Steam?](https://www.polygon.com/gaming/612058/umamusume-pretty-derby-popularity-what-is-explainer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
