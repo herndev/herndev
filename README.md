@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD plans to stop selling phones in the US, and you probably know why](https://www.androidauthority.com/hmd-global-leaves-us-market-3576404/)
- - [Google launches Android Canary program for Pixel users who want to live on the bleeding edge](https://www.androidauthority.com/android-canary-3576430/)
- - [Windows 11’s new Black Screen of Death is now rolling out](https://www.theverge.com/news/704536/microsoft-windows-11-black-screen-of-death-bsod-now-available)<!-- TECH:END -->
+ - [Sony’s best noise-canceling headphones are up to 45 percent off](https://www.theverge.com/tech/704044/amazon-prime-day-sony-wh-1000xm6-1000xm5-deal-sale-2025)
+ - [Android’s first Canary build adds screen saver features made for phones with Qi2](https://www.androidauthority.com/android-screen-saver-changes-qi2-3576461/)
+ - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
