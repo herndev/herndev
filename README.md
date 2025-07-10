@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A researcher says 245 extensions on nearly 1M devices are overriding security protections to turn browsers into engines that scrape websites for a paid service &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250710/p11#a250710p11)
- - [The Galaxy Z Flip 7 still doesn’t fix the worst thing about Samsung’s flip phones](https://www.androidauthority.com/samsung-galaxy-z-flip-7-flex-window-good-lock-3575045/)
- - [The Allen Institute for AI launches FlexOlmo, an LLM architecture that lets data owners control and remove their training data from a model even after training &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250710/p10#a250710p10)<!-- TECH:END -->
+ - [Netgear&#39;s Excellent Wi-Fi 7 Mesh Is on Sale for Prime Day](https://www.wired.com/story/netgear-orbi-770-series-prime-day-sale-july-2025/)
+ - [Samsung says its trifold phone should launch ‘this year’](https://www.theverge.com/news/703753/samsung-trifold-phone-release-date-tm-roh)
+ - [Trump&#39;s One Big Beautiful Bill Act mandates all new US border surveillance towers are &quot;autonomous&quot;, effectively granting Anduril a monopoly on new contracts &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/250710/p15#a250710p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
