@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, July 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-10-2025/)
  - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for July: Cyberpunk 2077, Abiotic Factor, Banishers: Ghosts of New Eden and more](https://blog.playstation.com/2025/07/09/20250710-psplus/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for July: Cyberpunk 2077, Abiotic Factor, Banishers: Ghosts of New Eden and more](https://blog.playstation.com/2025/07/09/20250710-psplus/)
- - [Escape From Tarkov blindsides players with immediately controversial &#39;Hardcore Wipe&#39; that removes quests and disables most maps](https://www.pcgamer.com/games/fps/escape-from-tarkov-blindsides-players-with-immediately-controversial-hardcore-wipe-that-removes-quests-and-disables-most-maps/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for July: Cyberpunk 2077, Abiotic Factor, Banishers: Ghosts of New Eden and more](https://blog.playstation.com/2025/07/09/20250710-psplus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
