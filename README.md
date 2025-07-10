@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
- - [M4 Max Mac Studio vs M1 Ultra Mac Studio compared: A multi-generational shootout](https://appleinsider.com/inside/mac-studio/vs/m4-max-mac-studio-vs-m1-ultra-mac-studio-compared-a-multi-generational-shootout?utm_medium=rss)
- - [Ghost of Yōtei&amp;#8217;s gameplay deep dive shows the open world, combat, and chill beats](https://www.theverge.com/news/704597/ghost-of-yotei-ps5-gameplay-trailer)<!-- TECH:END -->
+ - [Belkin announces it is ending support for its Wemo devices and app on January 31, 2026; a limited number of devices will continue to function via HomeKit &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250710/p40#a250710p40)
+ - [Samsung Galaxy Z Flip 7 FE deal: Free $100 gift card and storage upgrade](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-deal-3576484/)
+ - [DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’](https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
