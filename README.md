@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
- - ⏩ [And in the end, the copper is stolen](http://9gag.com/gag/aD2QD17)
- - 👉 [Australian Tarantula Hawk Wasp dragging off a huntsman spider to lay her egg on its paralyzed body. When the egg hatches, the larva consumes the paralyzed spider from the inside out, leaving the vital organs until last to keep their paralyzed meal alive as long as possible](http://9gag.com/gag/abARVdB)<!-- MEMES:END -->
+ - 💣 [Chemistry vid for a few fellow geeks.](http://9gag.com/gag/a7ono62)
+ - ⏩ [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
+ - 👉 [Should be at every corner](http://9gag.com/gag/awyeye1)<!-- MEMES:END -->
 
 ---
 
