@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Black Superman movie was deemed &amp;#8216;too woke’ by a CEO who doesn’t know what that means](https://www.polygon.com/opinion/612514/black-superman-movie-woke-warner-bros)
  - [Tony Hawk’s Pro Skater 3 + 4 Available Now with Game Pass](https://www.tonyhawkthegame.com/blog/2025/07/tony-hawk-pro-skater-three-four-available-now#new_tab)
- - [Three exclusive card reveals for Magic&amp;#8217;s space opera Edge of Eternities](https://www.polygon.com/mtg-magic-the-gathering/612490/edge-of-eternities-cards-preview-reveals)
- - [Repair Experts Call Switch 2 Pro Controller &#39;Piss-Poor&#39; In Scathing Review](https://kotaku.com/switch-2-pro-controller-piss-poor-stick-drift-ifixit-1851786109)<!-- GAME:END -->
+ - [Three exclusive card reveals for Magic&amp;#8217;s space opera Edge of Eternities](https://www.polygon.com/mtg-magic-the-gathering/612490/edge-of-eternities-cards-preview-reveals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
