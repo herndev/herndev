@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s FlipShot feature for Flip phones is a goofy take on ‘Made You Look’](https://www.androidauthority.com/samsung-cover-screen-features-good-lock-3576572/)
- - [It’s Prime Day, so give me your best shopping hacks, strategies, and favorite ever purchases!](https://www.androidauthority.com/prime-day-2025-open-thread-3576579/)
- - [An Apple-backed study finds combining Apple Watch&#39;s heart rate sensor with a new Wearable Behavior Model gives 92% accuracy for pregnancy detection, and more &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250711/p2#a250711p2)<!-- TECH:END -->
+ - [Google’s foldable Pixel phones are in serious trouble](https://www.androidauthority.com/google-foldable-pixel-phones-serious-trouble-3576336/)
+ - [Google Lens gets a new UI with a cleaner look, but it’s not all good news](https://www.androidauthority.com/google-lens-new-ui-3576595/)
+ - [Grok searches for Elon Musk&amp;#8217;s opinion before answering tough questions](https://www.theverge.com/news/705015/grok-ai-uses-elon-musks-opinions-for-controversial-questions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
