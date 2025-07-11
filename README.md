@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 14 to 18](https://news.xbox.com/en-us/2025/07/11/next-week-on-xbox-new-games-for-july-14-to-18/)
- - [Wait, No, Seriously? There&#39;s A New Red Sonja Movie?!](https://kotaku.com/red-sonja-arnold-schwarzenegger-bassett-movie-trailer-1851786097)
- - [The Sims&#39; latest patch has caused a pregnancy epidemic, even if they&#39;ve never had &#39;woo-hoo&#39;](https://www.pcgamer.com/games/the-sims-latest-patch-has-caused-a-pregnancy-epidemic-even-if-theyve-never-had-woo-hoo/)<!-- GAME:END -->
+ - [If you&#39;re at all into driving games you should treat yourself to one of these Prime Day racing wheel deals](https://www.pcgamer.com/hardware/steering-wheels/its-time-to-give-up-trying-to-book-a-driving-test-and-embrace-your-sim-skills-with-these-prime-day-racing-wheel-deals/)
+ - [My bank account isn&#39;t exactly overflowing at the moment, so here&#39;s the gaming laptop I&#39;d buy with my own money this Prime Day](https://www.pcgamer.com/hardware/gaming-laptops/my-bank-account-isnt-exactly-overflowing-at-the-moment-so-heres-the-gaming-laptop-id-buy-with-my-own-money-this-prime-day/)
+ - [The Subnautica 2 Saga Just Keeps Getting Messier Amid New Lawsuit And Alleged Leaks](https://kotaku.com/subnautica-2-delay-lawsuit-leaks-biomes-steam-krafton-1851786101)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
