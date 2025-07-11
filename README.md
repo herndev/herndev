@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day finale slashes Sony ULT WEAR headphones to just $128](https://www.androidauthority.com/sony-ult-wear-headphones-deal-3576522/)
- - [Gboard could return to basics with a numpad-inspired layout for certain languages &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-new-hindi-layout-3576645/)
- - [Developer betas, Apple Intelligence, and a lighter Apple Vision Pro on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/11/developer-betas-apple-intelligence-and-a-lighter-apple-vision-pro-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [Apple approves BOE display panel production for iPhone 17 Pro in China](https://appleinsider.com/articles/25/07/11/apple-approves-boe-display-panel-production-for-iphone-17-pro-in-china?utm_medium=rss)
+ - [Snag the Galaxy Z Flip 6 at an unbeatable $799.99 Prime Day price](https://www.androidauthority.com/galaxy-z-flip-6-prime-day-3576541/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
