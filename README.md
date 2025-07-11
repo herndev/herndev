@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to ‘impress the skaters’ in Tony Hawk&amp;#8217;s Pro Skater 3](https://www.polygon.com/guides/612367/tony-hawk-pro-skater-3-impress-the-skaters-thps3)
- - [Wylder Remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603236/wylder-remembrance-walkthrough-steps-rewards)
- - [Umamusume&#39;s horse girl lore has grown so out of control that its developer has had to put real-life stable etiquette in place](https://www.pcgamer.com/games/sim/umamusumes-horse-girl-lore-has-grown-so-out-of-control-that-its-developer-has-had-to-put-real-life-stable-etiquette-in-place/)<!-- GAME:END -->
+ - [Tony Hawk’s Pro Skater 3 + 4 Available Now with Game Pass](https://www.tonyhawkthegame.com/blog/2025/07/tony-hawk-pro-skater-three-four-available-now#new_tab)
+ - [Three exclusive card reveals for Magic&amp;#8217;s space opera Edge of Eternities](https://www.polygon.com/mtg-magic-the-gathering/612490/edge-of-eternities-cards-preview-reveals)
+ - [Repair Experts Call Switch 2 Pro Controller &#39;Piss-Poor&#39; In Scathing Review](https://kotaku.com/switch-2-pro-controller-piss-poor-stick-drift-ifixit-1851786109)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
