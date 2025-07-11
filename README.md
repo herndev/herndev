@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Doesn&#39;t Need Turn-Based Combat Back, It Needs Better Stories](https://kotaku.com/final-fantasy-turn-based-combat-clair-obscur-ff16-1851786128)
- - [Capcom celebrates the first anniversary of Kunitsu-Gami: Path of the Goddess by ripping out its Denuvo DRM](https://www.pcgamer.com/games/strategy/capcom-celebrates-the-first-anniversary-of-kunitsu-gami-path-of-the-goddess-by-ripping-out-its-denuvo-drm/)
- - [Mario Kart World: Where To Find Every Big Vehicle](https://kotaku.com/mario-kart-world-switch-2-semi-truck-ufo-helicopter-1851786066)<!-- GAME:END -->
+ - [THPS 3+4&#39;s New Photo Mode Is A Powerful Tool You Should Be Using](https://kotaku.com/thps-3-4-photo-mode-option-tool-tony-hawks-pro-skater-1851786140)
+ - [The Donkey Kong timeline is a mess — can Bananza clean it up?](https://www.polygon.com/612647/donkey-kong-timeline-nintendo-games-cranky-pauline)
+ - [How to get the Suburbia secret tape in Tony Hawk&amp;#8217;s Pro Skater 3](https://www.polygon.com/guides/612158/thps-tony-hawk-pro-skater-3-suburbia-secret-tape-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
