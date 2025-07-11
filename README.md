@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 excellent Pixel accessories I’d buy before the end of Prime Day &lpar;I already have them!&rpar;](https://www.androidauthority.com/3-pixel-accessories-prime-day-deal-3576823/)
- - [Some Wear OS owners can’t wait for Gemini, so they’re sideloading now](https://www.androidauthority.com/gemini-wear-os-sideload-3576826/)
- - [French prosecutors open a criminal investigation into X over allegations that the company manipulated its algorithms for the purposes of &quot;foreign interference&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250711/p14#a250711p14)<!-- TECH:END -->
+ - [The smartphone-sized Boox Palma 2 is cheaper than ever for Prime Day](https://www.theverge.com/tech/705234/amazon-prime-day-boox-palma-2-ebook-reader-deal-sale-2025)
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
+ - [HMD says it will &quot;scale back&quot; US operations, citing &quot;a challenging geopolitical and economic environment&quot;, and appears to have stopped US sales of Nokia devices &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250711/p17#a250711p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
