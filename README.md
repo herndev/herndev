@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s foldable Pixel phones are in serious trouble](https://www.androidauthority.com/google-foldable-pixel-phones-serious-trouble-3576336/)
- - [Google Lens gets a new UI with a cleaner look, but it’s not all good news](https://www.androidauthority.com/google-lens-new-ui-3576595/)
- - [Grok searches for Elon Musk&amp;#8217;s opinion before answering tough questions](https://www.theverge.com/news/705015/grok-ai-uses-elon-musks-opinions-for-controversial-questions)<!-- TECH:END -->
+ - [Wild Galaxy S26 Ultra leak points to a massively upgraded 200MP camera](https://www.androidauthority.com/samsung-galaxy-s26-ultra-leak-200mp-3576618/)
+ - [Amazon Prime Day Live: We&#39;re Dropping Deals Every 15 Minutes](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-2/)
+ - [METR study: experienced open-source developers using Cursor and other AI tools took 19% longer to complete tasks, despite thinking AI had sped them up by 20% &lpar;Steve Newman/Second Thoughts&rpar;](http://www.techmeme.com/250711/p3#a250711p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
