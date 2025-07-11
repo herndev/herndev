@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The exclusivity period on OpenAI&#39;s $3B offer to acquire coding startup Windsurf has expired, which means that Windsurf is free to explore other options &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250711/p27#a250711p27)
- - [The 40 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
- - [Samsung&#39;s New Phones Show How Far Ahead China Is on Innovation](https://www.wired.com/story/samsungs-new-phones-show-how-far-ahead-china-is-on-innovation/)<!-- TECH:END -->
+ - [13 Best Prime Day Mattress Deals Plus Top Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-2025-3/)
+ - [Google hires Windsurf CEO Varun Mohan, co-founder Douglas Chen, and some of Windsurf&#39;s R&amp;D employees to focus on agentic coding efforts at DeepMind &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250711/p28#a250711p28)
+ - [The CMF Buds 2 are a budget-friendly steal at just $39, but the deal ends tonight](https://www.androidauthority.com/cmf-buds-2-deal-3576968/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
