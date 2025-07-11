@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If she only knew.](http://9gag.com/gag/a87V6XV)
- - ⏩ [Silenced Ruger 22 in action, a classic for a reason](http://9gag.com/gag/a6ZGDNR)
- - 👉 [This is not what I expected.](http://9gag.com/gag/aMVqERP)<!-- MEMES:END -->
+ - 💣 [Flood sirens sounding in Tokyo now... &lpar;July 10,2025&rpar;](http://9gag.com/gag/aAyv649)
+ - ⏩ [Perception is everything ....](http://9gag.com/gag/aD2Q24w)
+ - 👉 [Bites for bits](http://9gag.com/gag/a6ZGZ5e)<!-- MEMES:END -->
 
 ---
 
