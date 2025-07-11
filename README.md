@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Apple-backed study finds combining Apple Watch&#39;s heart rate sensor with a new Wearable Behavior Model gives 92% accuracy for pregnancy detection, and more &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250711/p2#a250711p2)
  - [Google testing new ‘Parental controls’ setting in Android Canary](https://www.androidauthority.com/android-canary-parental-controls-3576563/)
- - [How AI is being used by patients and doctors alike to recommend diagnoses and treatments, as experts warn of answers that seem confident but lack nuance &lpar;Ryan Flinn/Wired&rpar;](http://www.techmeme.com/250711/p1#a250711p1)
- - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)<!-- TECH:END -->
+ - [How AI is being used by patients and doctors alike to recommend diagnoses and treatments, as experts warn of answers that seem confident but lack nuance &lpar;Ryan Flinn/Wired&rpar;](http://www.techmeme.com/250711/p1#a250711p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
