@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Australia: Large Group of Muslims Encircle Melbourne\u2019s Cathedral](http://9gag.com/gag/abARA38)
- - ⏩ [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
- - 👉 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)<!-- MEMES:END -->
+ - 💣 [And on this farm, he had a......E I E I O](http://9gag.com/gag/aVvRoAd)
+ - ⏩ [Roman aqueducts: an ancient engineering marvel that still impresses today.](http://9gag.com/gag/a1mO7o6)
+ - 👉 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)<!-- MEMES:END -->
 
 ---
 
