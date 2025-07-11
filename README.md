@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)
- - ⏩ [Bear and lollipop](http://9gag.com/gag/a7onebb)
- - 👉 [If she only knew.](http://9gag.com/gag/a87V6XV)<!-- MEMES:END -->
+ - 💣 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
+ - ⏩ [US situation](http://9gag.com/gag/a1mONLG)
+ - 👉 [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)<!-- MEMES:END -->
 
 ---
 
