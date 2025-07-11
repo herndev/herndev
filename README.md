@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iconic &#39;Trash Can&#39; Mac Pro is now on Apple&#39;s vintage products list](https://appleinsider.com/articles/25/07/11/the-iconic-trash-can-mac-pro-is-now-on-apples-vintage-products-list?utm_medium=rss)
- - [Slumber Cloud&#39;s Sale Is One Not to Miss Before Prime Day Ends](https://www.wired.com/story/slumber-cloud-sale-july-2025/)
- - [iPhone 17 Colors: Rumor Has It This Could Be Apple&#39;s Full iPhone Color Lineup](https://www.cnet.com/tech/mobile/iphone-17-colors-rumor-has-it-this-could-be-apples-full-iphone-color-lineup/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The European Commission drops plans to impose a digital tax on tech giants in its upcoming 2028-2034 budget proposal, amid ongoing EU-US trade negotiations &lpar;Gregorio Sorgi/Politico&rpar;](http://www.techmeme.com/250711/p25#a250711p25)
+ - [Sources: xAI prepares a new fundraising round, its third in two months, targeting a valuation of $170B to $200B, up 10x from its May 2024 valuation of $18B &lpar;Financial Times&rpar;](http://www.techmeme.com/250711/p24#a250711p24)
+ - [dbrand finally has a fix for its Switch 2 Killswitch Joy-Con detachment problem](https://www.androidauthority.com/dbrand-killswitch-case-replacement-grips-3576912/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
