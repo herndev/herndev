@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only correct answer to this question](http://9gag.com/gag/axymvvW)
- - ⏩ [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
- - 👉 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)<!-- MEMES:END -->
+ - 💣 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
+ - ⏩ [This is not a list](http://9gag.com/gag/aAyv6V0)
+ - 👉 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)<!-- MEMES:END -->
 
 ---
 
