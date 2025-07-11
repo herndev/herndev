@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belkin announces it is ending support for its Wemo devices and app on January 31, 2026; a limited number of devices will continue to function via HomeKit &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250710/p40#a250710p40)
- - [Samsung Galaxy Z Flip 7 FE deal: Free $100 gift card and storage upgrade](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-deal-3576484/)
- - [DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’](https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/)<!-- TECH:END -->
+ - [A Republican state attorney general is formally investigating why AI chatbots don&amp;#8217;t like Donald Trump](https://www.theverge.com/news/704851/missouri-ag-andrew-bailey-investigation-ai-chatbots-trump-ranking)
+ - [Get a free Samsung Music Frame with the purchase of a The Frame Pro TV](https://www.androidauthority.com/samsung-the-frame-pro-neo-qled-65-inch-smart-tv-free-music-frame-deal-3576483/)
+ - [Sources: AWS is launching a marketplace for AI agents, with Anthropic as one of its partners, at the AWS Summit in NYC next week &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250710/p41#a250710p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
