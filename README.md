@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)
- - ⏩ [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
- - 👉 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)<!-- MEMES:END -->
+ - 💣 [The only correct answer to this question](http://9gag.com/gag/axymvvW)
+ - ⏩ [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
+ - 👉 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)<!-- MEMES:END -->
 
 ---
 
