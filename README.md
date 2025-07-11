@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
- - ⏩ [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)
+ - 💣 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)
+ - ⏩ [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
  - 👉 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)<!-- MEMES:END -->
 
 ---
