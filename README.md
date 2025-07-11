@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A small price to pay for peace and quiet on a long flight.](http://9gag.com/gag/apRVg78)
- - ⏩ [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
- - 👉 [The defender&#39;s clearance was more impressive than the goal itself](http://9gag.com/gag/amoR1Yv)<!-- MEMES:END -->
+ - 💣 [The pure joy of finding the perfect stick, a true treasure.](http://9gag.com/gag/a9yDz1o)
+ - ⏩ [Roman aqueducts: an ancient engineering marvel that still impresses today.](http://9gag.com/gag/a1mO7o6)
+ - 👉 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)<!-- MEMES:END -->
 
 ---
 
