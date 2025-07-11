@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [THPS 3+4&#39;s New Photo Mode Is A Powerful Tool You Should Be Using](https://kotaku.com/thps-3-4-photo-mode-option-tool-tony-hawks-pro-skater-1851786140)
- - [The Donkey Kong timeline is a mess — can Bananza clean it up?](https://www.polygon.com/612647/donkey-kong-timeline-nintendo-games-cranky-pauline)
- - [How to get the Suburbia secret tape in Tony Hawk&amp;#8217;s Pro Skater 3](https://www.polygon.com/guides/612158/thps-tony-hawk-pro-skater-3-suburbia-secret-tape-how-to-get)<!-- GAME:END -->
+ - [Microsoft shareholders demand report into the company&#39;s &#39;human rights due diligence&#39; over allegations of war crime complicity in Gaza](https://www.pcgamer.com/gaming-industry/microsoft-shareholders-demand-report-into-the-companys-human-rights-due-diligence-over-allegations-of-war-crime-complicity-in-gaza/)
+ - [Final Fantasy producer Yoshi-P says &#39;there&#39;s no clear-cut answer&#39; to whether Final Fantasy will return to turn-based RPGs, because the direction of the next Final Fantasy will be up to the directors of the next Final Fantasy](https://www.pcgamer.com/games/final-fantasy/final-fantasy-producer-yoshi-p-says-theres-no-clear-cut-answer-to-whether-final-fantasy-will-return-to-turn-based-rpgs-because-the-direction-of-the-next-final-fantasy-will-be-up-to-the-directors-of-the-next-final-fantasy/)
+ - [One Of 2025&#39;s Best Games May Have Saved Its Company From Going Under](https://kotaku.com/hundred-line-last-defense-academy-too-kyo-bankrupt-1851786150)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
