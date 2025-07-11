@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [US situation](http://9gag.com/gag/a1mONLG)
- - ⏩ [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
+ - 💣 [Trust fail](http://9gag.com/gag/a6ZG9Dm)
+ - ⏩ [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
  - 👉 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)<!-- MEMES:END -->
 
 ---
