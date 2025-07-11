@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally, the moment we&#39;ve all been waiting for](http://9gag.com/gag/a4PwzOd)
- - ⏩ [Women want men to see what they really are. However...](http://9gag.com/gag/ae9RO3v)
- - 👉 [Gentlemen, I inform you, today I burned a CD again. For DOS games and utils. For a retro PC. And used a couple cable from the box](http://9gag.com/gag/a7on0dx)<!-- MEMES:END -->
+ - 💣 [US situation](http://9gag.com/gag/a1mONLG)
+ - ⏩ [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
+ - 👉 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)<!-- MEMES:END -->
 
 ---
 
