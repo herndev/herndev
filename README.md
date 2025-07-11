@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Finally, the moment we&#39;ve all been waiting for](http://9gag.com/gag/a4PwzOd)
- - ⏩ [Legends assemble!!](http://9gag.com/gag/aKGKAnZ)
+ - ⏩ [Women want men to see what they really are. However...](http://9gag.com/gag/ae9RO3v)
  - 👉 [Gentlemen, I inform you, today I burned a CD again. For DOS games and utils. For a retro PC. And used a couple cable from the box](http://9gag.com/gag/a7on0dx)<!-- MEMES:END -->
 
 ---
