@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wild Galaxy S26 Ultra leak points to a massively upgraded 200MP camera](https://www.androidauthority.com/samsung-galaxy-s26-ultra-leak-200mp-3576618/)
- - [Amazon Prime Day Live: We&#39;re Dropping Deals Every 15 Minutes](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-2/)
- - [METR study: experienced open-source developers using Cursor and other AI tools took 19% longer to complete tasks, despite thinking AI had sped them up by 20% &lpar;Steve Newman/Second Thoughts&rpar;](http://www.techmeme.com/250711/p3#a250711p3)<!-- TECH:END -->
+ - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
+ - [T-Mobile Is Bringing Starlink Satellite Access to Your Phone, Even if You’re on a Different Carrier](https://www.cnet.com/tech/mobile/t-mobile-is-bringing-starlink-satellite-access-to-your-phone-even-if-youre-on-a-different-carrier/#ftag=CAD590a51e)
+ - [The best fitness tracker and smartwatch Prime Day deals](https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
