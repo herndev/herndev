@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tony Hawk’s Pro Skater 3 and 4 is only half a remaster &lpar;and that’s great&rpar;](https://www.polygon.com/gaming/612450/thps-tony-hawks-pro-skater-3-4-remaster-review)
- - [Help Fight ICE And Get 100 Games And Over 400 Table-Top RPGs](https://kotaku.com/itch-io-bundle-no-ice-in-california-table-top-rpg-1851786085)
- - [Experience All-Star excitement with MLB The Show 25](https://blog.playstation.com/2025/07/11/experience-all-star-excitement-with-mlb-the-show-25/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 14 to 18](https://news.xbox.com/en-us/2025/07/11/next-week-on-xbox-new-games-for-july-14-to-18/)
+ - [Wait, No, Seriously? There&#39;s A New Red Sonja Movie?!](https://kotaku.com/red-sonja-arnold-schwarzenegger-bassett-movie-trailer-1851786097)
+ - [The Sims&#39; latest patch has caused a pregnancy epidemic, even if they&#39;ve never had &#39;woo-hoo&#39;](https://www.pcgamer.com/games/the-sims-latest-patch-has-caused-a-pregnancy-epidemic-even-if-theyve-never-had-woo-hoo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
