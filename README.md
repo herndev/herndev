@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
- - [T-Mobile Is Bringing Starlink Satellite Access to Your Phone, Even if You’re on a Different Carrier](https://www.cnet.com/tech/mobile/t-mobile-is-bringing-starlink-satellite-access-to-your-phone-even-if-youre-on-a-different-carrier/#ftag=CAD590a51e)
- - [The best fitness tracker and smartwatch Prime Day deals](https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025)<!-- TECH:END -->
+ - [Prime Day finale slashes Sony ULT WEAR headphones to just $128](https://www.androidauthority.com/sony-ult-wear-headphones-deal-3576522/)
+ - [Gboard could return to basics with a numpad-inspired layout for certain languages &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-new-hindi-layout-3576645/)
+ - [Developer betas, Apple Intelligence, and a lighter Apple Vision Pro on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/11/developer-betas-apple-intelligence-and-a-lighter-apple-vision-pro-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
