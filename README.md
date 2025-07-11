@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to customise ultimate abilities in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-ultimate-customisation/)
- - [How to get accessories in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-accessories/)
- - [The Subnautica 2 saga gets nastier, with ousted leaders confirming they&#39;ll sue Krafton: &#39;It continues to be an explosive and surreal time&#39;](https://www.pcgamer.com/games/the-subnautica-2-saga-gets-nastier-with-ousted-leaders-confirming-theyll-sue-krafton-it-continues-to-be-an-explosive-and-surreal-time/)<!-- GAME:END -->
+ - [Tony Hawk&#39;s Pro Skater 3 + 4: All game mods explained](https://www.pcgamer.com/games/sports/tony-hawks-pro-skater-3-4-cheats/)
+ - [It&#39;s time to sort your life out and marathon the finest WW2 real-time tactics games of the early &#39;00s—and for a mere $10, too](https://www.pcgamer.com/games/strategy/its-time-to-sort-your-life-out-and-marathon-the-finest-ww2-real-time-tactics-games-of-the-early-00s-and-for-a-mere-usd10-too/)
+ - [I would&#39;ve loved Tony Hawk&#39;s Pro Skater 3 + 4 a lot more if it hadn&#39;t made the mistake of rolling out time limits for every level](https://www.pcgamer.com/games/sports/i-wouldve-loved-tony-hawk-pro-skater-3-4-a-lot-more-if-it-hadnt-made-the-mistake-of-rolling-out-time-limits-for-every-level/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
