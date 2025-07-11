@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
- - ⏩ [This is not a list](http://9gag.com/gag/aAyv6V0)
- - 👉 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)<!-- MEMES:END -->
+ - 💣 [Finally, the moment we&#39;ve all been waiting for](http://9gag.com/gag/a4PwzOd)
+ - ⏩ [Legends assemble!!](http://9gag.com/gag/aKGKAnZ)
+ - 👉 [Gentlemen, I inform you, today I burned a CD again. For DOS games and utils. For a retro PC. And used a couple cable from the box](http://9gag.com/gag/a7on0dx)<!-- MEMES:END -->
 
 ---
 
