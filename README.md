@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Black Superman movie was deemed &amp;#8216;too woke’ by a CEO who doesn’t know what that means](https://www.polygon.com/opinion/612514/black-superman-movie-woke-warner-bros)
- - [Tony Hawk’s Pro Skater 3 + 4 Available Now with Game Pass](https://www.tonyhawkthegame.com/blog/2025/07/tony-hawk-pro-skater-three-four-available-now#new_tab)
- - [Three exclusive card reveals for Magic&amp;#8217;s space opera Edge of Eternities](https://www.polygon.com/mtg-magic-the-gathering/612490/edge-of-eternities-cards-preview-reveals)<!-- GAME:END -->
+ - [Final Fantasy Doesn&#39;t Need Turn-Based Combat Back, It Needs Better Stories](https://kotaku.com/final-fantasy-turn-based-combat-clair-obscur-ff16-1851786128)
+ - [Capcom celebrates the first anniversary of Kunitsu-Gami: Path of the Goddess by ripping out its Denuvo DRM](https://www.pcgamer.com/games/strategy/capcom-celebrates-the-first-anniversary-of-kunitsu-gami-path-of-the-goddess-by-ripping-out-its-denuvo-drm/)
+ - [Mario Kart World: Where To Find Every Big Vehicle](https://kotaku.com/mario-kart-world-switch-2-semi-truck-ufo-helicopter-1851786066)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
