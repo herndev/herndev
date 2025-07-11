@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Commission drops plans to impose a digital tax on tech giants in its upcoming 2028-2034 budget proposal, amid ongoing EU-US trade negotiations &lpar;Gregorio Sorgi/Politico&rpar;](http://www.techmeme.com/250711/p25#a250711p25)
- - [Sources: xAI prepares a new fundraising round, its third in two months, targeting a valuation of $170B to $200B, up 10x from its May 2024 valuation of $18B &lpar;Financial Times&rpar;](http://www.techmeme.com/250711/p24#a250711p24)
- - [dbrand finally has a fix for its Switch 2 Killswitch Joy-Con detachment problem](https://www.androidauthority.com/dbrand-killswitch-case-replacement-grips-3576912/)<!-- TECH:END -->
+ - [The exclusivity period on OpenAI&#39;s $3B offer to acquire coding startup Windsurf has expired, which means that Windsurf is free to explore other options &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250711/p27#a250711p27)
+ - [The 40 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
+ - [Samsung&#39;s New Phones Show How Far Ahead China Is on Innovation](https://www.wired.com/story/samsungs-new-phones-show-how-far-ahead-china-is-on-innovation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
