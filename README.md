@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
- - ⏩ [The moment you realize your flight plan needs a serious revision](http://9gag.com/gag/aO8p2LM)
- - 👉 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)<!-- MEMES:END -->
+ - 💣 [Australia: Large Group of Muslims Encircle Melbourne\u2019s Cathedral](http://9gag.com/gag/abARA38)
+ - ⏩ [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
+ - 👉 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)<!-- MEMES:END -->
 
 ---
 
