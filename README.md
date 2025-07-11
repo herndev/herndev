@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flood sirens sounding in Tokyo now... &lpar;July 10,2025&rpar;](http://9gag.com/gag/aAyv649)
- - ⏩ [Perception is everything ....](http://9gag.com/gag/aD2Q24w)
- - 👉 [Bites for bits](http://9gag.com/gag/a6ZGZ5e)<!-- MEMES:END -->
+ - 💣 [Goku facing his greatest challenge ever](http://9gag.com/gag/amoR134)
+ - ⏩ [Legends assemble!!](http://9gag.com/gag/aKGKAnZ)
+ - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
 
 ---
 
