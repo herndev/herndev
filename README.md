@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The pure joy of finding the perfect stick, a true treasure.](http://9gag.com/gag/a9yDz1o)
- - ⏩ [Roman aqueducts: an ancient engineering marvel that still impresses today.](http://9gag.com/gag/a1mO7o6)
- - 👉 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)<!-- MEMES:END -->
+ - 💣 [If she only knew.](http://9gag.com/gag/a87V6XV)
+ - ⏩ [Silenced Ruger 22 in action, a classic for a reason](http://9gag.com/gag/a6ZGDNR)
+ - 👉 [This is not what I expected.](http://9gag.com/gag/aMVqERP)<!-- MEMES:END -->
 
 ---
 
