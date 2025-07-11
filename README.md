@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lookaoal](http://9gag.com/gag/amoR1by)
- - ⏩ [Oh wow sht](http://9gag.com/gag/an7GO8V)
- - 👉 [If she only knew.](http://9gag.com/gag/a87V6XV)<!-- MEMES:END -->
+ - 💣 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
+ - ⏩ [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)
+ - 👉 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)<!-- MEMES:END -->
 
 ---
 
