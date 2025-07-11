@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge&amp;#8217;s favorite travel gear for 2025](https://www.theverge.com/tech/697960/favorite-travel-gear-2025)
- - [The Amazfit Active 2, one of our favorite fitness trackers, is just $79.99 right now](https://www.theverge.com/tech/700959/amazon-prime-day-amazfit-active-2-fitness-tracker-deal-sale-2025)
- - [Sources: Meta won&#39;t propose additional changes to its pay-or-consent model in the EU, and could face fresh antitrust charges and hefty daily fines &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250711/p10#a250711p10)<!-- TECH:END -->
+ - [The unholy alliance that killed the AI moratorium](https://www.theverge.com/politics/704424/ai-moratorium-ted-cruz-steve-bannon-trump)
+ - [The Galaxy Watch 7 price is at its all-time low of $159.99 until midnight](https://www.androidauthority.com/galaxy-watch-7-deal-3576821/)
+ - [French media: French police detained Russian professional basketball player Daniil Kasatkin at the US&#39; request due to his alleged links to a ransomware group &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/250711/p12#a250711p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
