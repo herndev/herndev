@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The smartphone-sized Boox Palma 2 is cheaper than ever for Prime Day](https://www.theverge.com/tech/705234/amazon-prime-day-boox-palma-2-ebook-reader-deal-sale-2025)
- - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
- - [HMD says it will &quot;scale back&quot; US operations, citing &quot;a challenging geopolitical and economic environment&quot;, and appears to have stopped US sales of Nokia devices &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250711/p17#a250711p17)<!-- TECH:END -->
+ - [Why are liberals cozying up to race scientists?](https://www.theverge.com/policy/705387/liberals-race-scientists-cremieux-abundance-richard-hanania)
+ - [Medium CEO says the company has been profitable since August 2024 and details its financial turnaround after losing $2.6M per month in 2022 &lpar;Tony Stubblebine/The Coach Life&rpar;](http://www.techmeme.com/250711/p19#a250711p19)
+ - [Join Our Next Livestream: Inside the AI Copyright Battles with WIRED Reporters](https://www.wired.com/story/livestream-ai-copyright-battles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
