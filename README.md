@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And on this farm, he had a......E I E I O](http://9gag.com/gag/aVvRoAd)
- - ⏩ [Roman aqueducts: an ancient engineering marvel that still impresses today.](http://9gag.com/gag/a1mO7o6)
- - 👉 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)<!-- MEMES:END -->
+ - 💣 [Lookaoal](http://9gag.com/gag/amoR1by)
+ - ⏩ [Oh wow sht](http://9gag.com/gag/an7GO8V)
+ - 👉 [If she only knew.](http://9gag.com/gag/a87V6XV)<!-- MEMES:END -->
 
 ---
 
