@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Subnautica 2 saga gets nastier, with ousted leaders confirming they&#39;ll sue Krafton: &#39;It continues to be an explosive and surreal time&#39;](https://www.pcgamer.com/games/the-subnautica-2-saga-gets-nastier-with-ousted-leaders-confirming-theyll-sue-krafton-it-continues-to-be-an-explosive-and-surreal-time/)
- - [Today&#39;s Wordle answer for Friday, July 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-11-2025/)
- - [Greedland: One Dev’s Love Letter to Classic Arcade Mayhem](https://news.xbox.com/en-us/2025/07/10/greedland-one-devs-love-letter-to-classic-arcade-mayhem/)<!-- GAME:END -->
+ - [How to customise ultimate abilities in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-ultimate-customisation/)
+ - [How to get accessories in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-accessories/)
+ - [The Subnautica 2 saga gets nastier, with ousted leaders confirming they&#39;ll sue Krafton: &#39;It continues to be an explosive and surreal time&#39;](https://www.pcgamer.com/games/the-subnautica-2-saga-gets-nastier-with-ousted-leaders-confirming-theyll-sue-krafton-it-continues-to-be-an-explosive-and-surreal-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
