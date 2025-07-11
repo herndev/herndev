@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why are liberals cozying up to race scientists?](https://www.theverge.com/policy/705387/liberals-race-scientists-cremieux-abundance-richard-hanania)
- - [Medium CEO says the company has been profitable since August 2024 and details its financial turnaround after losing $2.6M per month in 2022 &lpar;Tony Stubblebine/The Coach Life&rpar;](http://www.techmeme.com/250711/p19#a250711p19)
- - [Join Our Next Livestream: Inside the AI Copyright Battles with WIRED Reporters](https://www.wired.com/story/livestream-ai-copyright-battles/)<!-- TECH:END -->
+ - [Iconic &#39;Trash Can&#39; Mac Pro is now on Apple&#39;s vintage products list](https://appleinsider.com/articles/25/07/11/the-iconic-trash-can-mac-pro-is-now-on-apples-vintage-products-list?utm_medium=rss)
+ - [Slumber Cloud&#39;s Sale Is One Not to Miss Before Prime Day Ends](https://www.wired.com/story/slumber-cloud-sale-july-2025/)
+ - [iPhone 17 Colors: Rumor Has It This Could Be Apple&#39;s Full iPhone Color Lineup](https://www.cnet.com/tech/mobile/iphone-17-colors-rumor-has-it-this-could-be-apples-full-iphone-color-lineup/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
