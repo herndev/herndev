@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft shareholders demand report into the company&#39;s &#39;human rights due diligence&#39; over allegations of war crime complicity in Gaza](https://www.pcgamer.com/gaming-industry/microsoft-shareholders-demand-report-into-the-companys-human-rights-due-diligence-over-allegations-of-war-crime-complicity-in-gaza/)
- - [Final Fantasy producer Yoshi-P says &#39;there&#39;s no clear-cut answer&#39; to whether Final Fantasy will return to turn-based RPGs, because the direction of the next Final Fantasy will be up to the directors of the next Final Fantasy](https://www.pcgamer.com/games/final-fantasy/final-fantasy-producer-yoshi-p-says-theres-no-clear-cut-answer-to-whether-final-fantasy-will-return-to-turn-based-rpgs-because-the-direction-of-the-next-final-fantasy-will-be-up-to-the-directors-of-the-next-final-fantasy/)
- - [One Of 2025&#39;s Best Games May Have Saved Its Company From Going Under](https://kotaku.com/hundred-line-last-defense-academy-too-kyo-bankrupt-1851786150)<!-- GAME:END -->
+ - [At $35, this Prime Day controller deal is so good I&#39;m never buying a PC controller from Microsoft or Sony ever again](https://www.pcgamer.com/hardware/i-still-believed-cheap-controllers-were-a-last-resort-until-i-picked-up-this-amazing-8bitdo-pad-now-at-its-lowest-price-ever-for-amazon-prime-day/)
+ - [Gear is optional: Diablo 4 player strips their character down to their underwear and slides through its most brutal dungeon without a single death](https://www.pcgamer.com/games/rpg/gear-is-optional-diablo-4-player-strips-their-character-down-to-their-underwear-and-slides-through-its-most-brutal-dungeon-without-a-single-death/)
+ - [Kotaku’s Weekend Guide: 4 Sweet Games We’re Beating Back The Summer Heat With](https://kotaku.com/kotaku-games-to-play-hitman-mycopunk-fretless-thps-1851786155)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
