@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tony Hawk&#39;s Pro Skater 3 + 4: All game mods explained](https://www.pcgamer.com/games/sports/tony-hawks-pro-skater-3-4-cheats/)
- - [It&#39;s time to sort your life out and marathon the finest WW2 real-time tactics games of the early &#39;00s—and for a mere $10, too](https://www.pcgamer.com/games/strategy/its-time-to-sort-your-life-out-and-marathon-the-finest-ww2-real-time-tactics-games-of-the-early-00s-and-for-a-mere-usd10-too/)
- - [I would&#39;ve loved Tony Hawk&#39;s Pro Skater 3 + 4 a lot more if it hadn&#39;t made the mistake of rolling out time limits for every level](https://www.pcgamer.com/games/sports/i-wouldve-loved-tony-hawk-pro-skater-3-4-a-lot-more-if-it-hadnt-made-the-mistake-of-rolling-out-time-limits-for-every-level/)<!-- GAME:END -->
+ - [Tony Hawk’s Pro Skater 3 and 4 is only half a remaster &lpar;and that’s great&rpar;](https://www.polygon.com/gaming/612450/thps-tony-hawks-pro-skater-3-4-remaster-review)
+ - [Help Fight ICE And Get 100 Games And Over 400 Table-Top RPGs](https://kotaku.com/itch-io-bundle-no-ice-in-california-table-top-rpg-1851786085)
+ - [Experience All-Star excitement with MLB The Show 25](https://blog.playstation.com/2025/07/11/experience-all-star-excitement-with-mlb-the-show-25/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
