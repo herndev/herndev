@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The unholy alliance that killed the AI moratorium](https://www.theverge.com/politics/704424/ai-moratorium-ted-cruz-steve-bannon-trump)
- - [The Galaxy Watch 7 price is at its all-time low of $159.99 until midnight](https://www.androidauthority.com/galaxy-watch-7-deal-3576821/)
- - [French media: French police detained Russian professional basketball player Daniil Kasatkin at the US&#39; request due to his alleged links to a ransomware group &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/250711/p12#a250711p12)<!-- TECH:END -->
+ - [3 excellent Pixel accessories I’d buy before the end of Prime Day &lpar;I already have them!&rpar;](https://www.androidauthority.com/3-pixel-accessories-prime-day-deal-3576823/)
+ - [Some Wear OS owners can’t wait for Gemini, so they’re sideloading now](https://www.androidauthority.com/gemini-wear-os-sideload-3576826/)
+ - [French prosecutors open a criminal investigation into X over allegations that the company manipulated its algorithms for the purposes of &quot;foreign interference&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250711/p14#a250711p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
