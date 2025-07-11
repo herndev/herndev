@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And on this farm, he had a......E I E I O](http://9gag.com/gag/aVvRoAd)
- - ⏩ [Roman aqueducts: an ancient engineering marvel that still impresses today.](http://9gag.com/gag/a1mO7o6)
- - 👉 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)<!-- MEMES:END -->
+ - 💣 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)
+ - ⏩ [Bear and lollipop](http://9gag.com/gag/a7onebb)
+ - 👉 [If she only knew.](http://9gag.com/gag/a87V6XV)<!-- MEMES:END -->
 
 ---
 
