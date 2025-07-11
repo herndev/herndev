@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Prime Day Mattress Deals Plus Top Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-2025-3/)
- - [Google hires Windsurf CEO Varun Mohan, co-founder Douglas Chen, and some of Windsurf&#39;s R&amp;D employees to focus on agentic coding efforts at DeepMind &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250711/p28#a250711p28)
- - [The CMF Buds 2 are a budget-friendly steal at just $39, but the deal ends tonight](https://www.androidauthority.com/cmf-buds-2-deal-3576968/)<!-- TECH:END -->
+ - [DJI Mic 2 plummets to new record-low price, saving you $100!](https://www.androidauthority.com/dji-mic-2-deal-3576957/)
+ - [Sources: OpenAI and Windsurf talks ended after Windsurf raised concerns over how its tech would fit into OpenAI&#39;s agreement to share tech with Microsoft &lpar;The Information&rpar;](http://www.techmeme.com/250711/p29#a250711p29)
+ - [The 22 Best Non–Prime Day Deals From Retailers That Are Not Amazon](https://www.wired.com/story/best-prime-day-deals-from-other-retailers-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
