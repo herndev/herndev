@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [Apple approves BOE display panel production for iPhone 17 Pro in China](https://appleinsider.com/articles/25/07/11/apple-approves-boe-display-panel-production-for-iphone-17-pro-in-china?utm_medium=rss)
- - [Snag the Galaxy Z Flip 6 at an unbeatable $799.99 Prime Day price](https://www.androidauthority.com/galaxy-z-flip-6-prime-day-3576541/)<!-- TECH:END -->
+ - [The Verge&amp;#8217;s favorite travel gear for 2025](https://www.theverge.com/tech/697960/favorite-travel-gear-2025)
+ - [The Amazfit Active 2, one of our favorite fitness trackers, is just $79.99 right now](https://www.theverge.com/tech/700959/amazon-prime-day-amazfit-active-2-fitness-tracker-deal-sale-2025)
+ - [Sources: Meta won&#39;t propose additional changes to its pay-or-consent model in the EU, and could face fresh antitrust charges and hefty daily fines &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250711/p10#a250711p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
