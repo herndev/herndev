@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [At long last, PCIe 5.0 SSDs are finally worth buying](https://www.pcgamer.com/hardware/ssds/at-long-last-pcie-5-0-ssds-are-finally-worth-buying/)
- - [James Gunn&#39;s Superman Doesn&#39;t Feel Like The Start Of Something Big And That&#39;s A Good Thing](https://kotaku.com/superman-post-credits-james-gunn-dcu-marvel-supergirl-1851786204)
- - [Destiny 2 Armour 3.0: Stat changes and archetypes in The Edge of Fate](https://www.pcgamer.com/games/fps/destiny-2-armour-3-0-stats-archetypes/)<!-- GAME:END -->
+ - [Gather Your Party: Neverwinter Nights 2: Enhanced Edition Hits Xbox with Cross-Play For the First Time](https://news.xbox.com/en-us/2025/07/14/neverwinter-nights-2-enhanced-edition-xbox/)
+ - [&#39;Western players are getting treated like trash&#39;: Persona 5: The Phantom X global release is being flooded with negative reviews over alleged worse rewards than its Chinese counterpart](https://www.pcgamer.com/games/rpg/western-players-are-getting-treated-like-trash-persona-5-the-phantom-x-global-release-is-being-flooded-with-negative-reviews-over-alleged-worse-rewards-than-its-chinese-counterpart/)
+ - [&#39;Competition is healthy&#39;: Overwatch 2&#39;s director sets the record straight about its rivalry with Marvel Rivals](https://www.pcgamer.com/games/fps/competition-is-healthy-overwatch-2s-director-sets-the-record-straight-about-its-rivalry-with-marvel-rivals/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
