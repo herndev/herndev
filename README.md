@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
- - ⏩ [Fake life](http://9gag.com/gag/aQzyZwr)
+ - 💣 [It&#39;s genetics](http://9gag.com/gag/axymPEW)
+ - ⏩ [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
  - 👉 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)<!-- MEMES:END -->
 
 ---
