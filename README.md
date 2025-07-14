@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The only official John Wick game is being delisted](https://www.polygon.com/news/613065/john-wick-game-delisting-steam)
  - [How to boneless spine transfer between the courts in Tony Hawk’s Pro Skater 4](https://www.polygon.com/guides/613035/boneless-spine-transfer-between-courts-college-thps-4-tony-hawk-pro-skater)
- - [TV Report On Retro Games Absolutely Nails It](https://kotaku.com/bbc-mario-bros-nes-snes-retro-gaming-switch-2-1851786266)
- - [All Mr Faber Work bonus objectives in GTA Online](https://www.pcgamer.com/gta-online-mr-faber-work-bonus-objectives-money-fronts/)<!-- GAME:END -->
+ - [TV Report On Retro Games Absolutely Nails It](https://kotaku.com/bbc-mario-bros-nes-snes-retro-gaming-switch-2-1851786266)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
