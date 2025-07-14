@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Orks!](http://9gag.com/gag/aBy4XbO)
- - ⏩ [Fake life](http://9gag.com/gag/aQzyZwr)
- - 👉 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)<!-- MEMES:END -->
+ - 💣 [Fake life](http://9gag.com/gag/aQzyZwr)
+ - ⏩ [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)
+ - 👉 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)<!-- MEMES:END -->
 
 ---
 
