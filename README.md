@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
- - ⏩ [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - 👉 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)<!-- MEMES:END -->
+ - 💣 [What a holiday.](http://9gag.com/gag/aO8ppGr)
+ - ⏩ [Indians being Indians in the US](http://9gag.com/gag/axymOwD)
+ - 👉 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)<!-- MEMES:END -->
 
 ---
 
