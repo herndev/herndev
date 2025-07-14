@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rex Splode joins the Invincible VS roster](https://www.polygon.com/gaming/612838/invincible-vs-roster-rex-splode)
- - [HBO’s Harry Potter series starts production, offers first look at the Boy Who Lived](https://www.polygon.com/entertainment/612907/hbo-harry-potter-tv-series-actors-cast-first-photo)
- - [Switch 2 Players Are Begging For A Nintendo Direct And One Is Reportedly Coming Before The End Of July](https://kotaku.com/switch-2-nintendo-direct-july-mario-red-dead-2-1851786219)<!-- GAME:END -->
+ - [Irem Collection Vol. 3 brings 3 Upgraded Retro Shoot ’em Ups to Xbox](https://news.xbox.com/en-us/2025/07/14/irem-collection-vol-3-brings-upgraded-shoot-em-ups-to-xbox/)
+ - [Good news for multitaskers: Microsoft is gradually rolling out taskbar scaling to squeeze in as many icons as possible in the latest Windows 11 Insider build](https://www.pcgamer.com/software/windows/good-news-for-multitaskers-microsoft-is-gradually-rolling-out-taskbar-scaling-to-squeeze-in-as-many-icons-as-possible-in-the-latest-windows-11-insider-build/)
+ - [Mario Kart World: Every Question Mark Panel Location On Acorn Heights](https://kotaku.com/mario-kart-world-switch-2-acorn-heights-question-mark-1851786231)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
