@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gather Your Party: Neverwinter Nights 2: Enhanced Edition Hits Xbox with Cross-Play For the First Time](https://news.xbox.com/en-us/2025/07/14/neverwinter-nights-2-enhanced-edition-xbox/)
- - [&#39;Western players are getting treated like trash&#39;: Persona 5: The Phantom X global release is being flooded with negative reviews over alleged worse rewards than its Chinese counterpart](https://www.pcgamer.com/games/rpg/western-players-are-getting-treated-like-trash-persona-5-the-phantom-x-global-release-is-being-flooded-with-negative-reviews-over-alleged-worse-rewards-than-its-chinese-counterpart/)
- - [&#39;Competition is healthy&#39;: Overwatch 2&#39;s director sets the record straight about its rivalry with Marvel Rivals](https://www.pcgamer.com/games/fps/competition-is-healthy-overwatch-2s-director-sets-the-record-straight-about-its-rivalry-with-marvel-rivals/)<!-- GAME:END -->
+ - [Rex Splode joins the Invincible VS roster](https://www.polygon.com/gaming/612838/invincible-vs-roster-rex-splode)
+ - [HBO’s Harry Potter series starts production, offers first look at the Boy Who Lived](https://www.polygon.com/entertainment/612907/hbo-harry-potter-tv-series-actors-cast-first-photo)
+ - [Switch 2 Players Are Begging For A Nintendo Direct And One Is Reportedly Coming Before The End Of July](https://kotaku.com/switch-2-nintendo-direct-july-mario-red-dead-2-1851786219)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
