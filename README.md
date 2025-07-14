@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When I Stopped Playing Mission Stories In Hitman, I Discovered What A Great Stealth Game It Is](https://kotaku.com/hitman-woa-stealth-metal-gear-splinter-cell-freelancer-1851786255)
- - [How to complete Safeguard Deliveries in GTA Online](https://www.pcgamer.com/gta-online-safeguard-deliveries-money-fronts/)
- - [Switch 2 restock coming to Best Buy for Donkey Kong Bananza launch](https://www.polygon.com/nintendo-switch-2/612990/restocks-best-buy-donkey-kong-bananza-launch-day)<!-- GAME:END -->
+ - [How to boneless spine transfer between the courts in Tony Hawk’s Pro Skater 4](https://www.polygon.com/guides/613035/boneless-spine-transfer-between-courts-college-thps-4-tony-hawk-pro-skater)
+ - [TV Report On Retro Games Absolutely Nails It](https://kotaku.com/bbc-mario-bros-nes-snes-retro-gaming-switch-2-1851786266)
+ - [All Mr Faber Work bonus objectives in GTA Online](https://www.pcgamer.com/gta-online-mr-faber-work-bonus-objectives-money-fronts/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
