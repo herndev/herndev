@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&amp;#8217;s Claude chatbot can now make and edit your Canva designs](https://www.theverge.com/news/706637/canva-anthropic-claude-ai-mcp-support)
- - [Lose yourself in an astoundingly beautiful and absorbing history of macOS settings](https://appleinsider.com/articles/25/07/14/lose-yourself-in-an-astoundingly-beautiful-and-absorbing-history-of-macos-settings?utm_medium=rss)
- - [Google Will Merge Android and ChromeOS, Exec Says. That&#39;s Taking a Page out of the Apple Playbook](https://www.cnet.com/tech/services-and-software/google-will-merge-android-and-chromeos-exec-says-thats-taking-a-page-out-of-the-apple-playbook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US government announces $200 million Grok contract a week after ‘MechaHitler’ incident](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)
+ - [The European Commission says France, Spain, Italy, Denmark, and Greece will test an age verification app meant to protect kids online &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250714/p20#a250714p20)
+ - [Third developer betas are out for iOS 18.6, iPadOS 18.6, macOS Sequoia 15.6](https://appleinsider.com/articles/25/07/14/third-developer-betas-are-out-for-ios-186-ipados-186-macos-sequoia-156?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
