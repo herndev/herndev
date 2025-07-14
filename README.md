@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI can make us better decision-makers, with Cassie Kozyrkov](https://www.theverge.com/decoder-podcast-with-nilay-patel/703269/cassie-kozyrkov-interview-ai-google-decision-scientist)
- - [A Donkey Kong movie is a safe bet for Nintendo&amp;#8217;s growing entertainment empire](https://www.theverge.com/analysis/706610/donkey-kong-movie-copyright-notice-nintendo-strategy)
- - [CSET researchers: China&#39;s SMEE has only a 4% market share in older-generation chip lithography, far below ASML and Nikon, a &quot;chokepoint&quot; for China&#39;s chip plans &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250714/p12#a250714p12)<!-- TECH:END -->
+ - [Apple still effectively blocks rival browser engines on iOS despite EU order](https://appleinsider.com/articles/25/07/14/apple-still-effectively-blocks-rival-browser-engines-on-ios-despite-eu-order?utm_medium=rss)
+ - [Moonvalley, which is developing &quot;ethical&quot; AI video models trained on licensed content, raised $84M led by General Catalyst, bringing its total funding to $154M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250714/p14#a250714p14)
+ - [Hype drop: Sketchy leaker risks reputation to cash in with iPhone 17 cases](https://appleinsider.com/articles/25/07/14/hype-drop-sketchy-leaker-risks-reputation-to-cash-in-with-iphone-17-cases?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
