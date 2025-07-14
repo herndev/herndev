@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you have the courage to shit !](http://9gag.com/gag/agmK4Zw)
- - ⏩ [The ultimate language test for a seat at the table.](http://9gag.com/gag/aXPR7Ob)
- - 👉 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)<!-- MEMES:END -->
+ - 💣 [Put Adam\u2019s family music](http://9gag.com/gag/ary8qXX)
+ - ⏩ [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
+ - 👉 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)<!-- MEMES:END -->
 
 ---
 
