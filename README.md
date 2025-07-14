@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I hated Superman’s Boravia finale. My coworker loved it. We fought it out.](https://www.polygon.com/features/612362/superman-ending-meaning-james-gunn-boravia)
- - [Eriksholm: The Stolen Dream review](https://www.pcgamer.com/games/adventure/eriksholm-the-stolen-dream-review/)
- - [Best PCIe 5.0 SSD for gaming in 2025: the only Gen 5 drives I will allow in my PC](https://www.pcgamer.com/hardware/ssds/best-pcie-5-0-ssd-for-gaming-in-2025-the-only-gen-5-drives-i-will-allow-in-my-pc/)<!-- GAME:END -->
+ - [At long last, PCIe 5.0 SSDs are finally worth buying](https://www.pcgamer.com/hardware/ssds/at-long-last-pcie-5-0-ssds-are-finally-worth-buying/)
+ - [James Gunn&#39;s Superman Doesn&#39;t Feel Like The Start Of Something Big And That&#39;s A Good Thing](https://kotaku.com/superman-post-credits-james-gunn-dcu-marvel-supergirl-1851786204)
+ - [Destiny 2 Armour 3.0: Stat changes and archetypes in The Edge of Fate](https://www.pcgamer.com/games/fps/destiny-2-armour-3-0-stats-archetypes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
