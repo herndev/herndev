@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
- - ⏩ [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
+ - 💣 [Do you have the courage to shit !](http://9gag.com/gag/agmK4Zw)
+ - ⏩ [The ultimate language test for a seat at the table.](http://9gag.com/gag/aXPR7Ob)
  - 👉 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)<!-- MEMES:END -->
 
 ---
