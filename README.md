@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 14, #294](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-14-294/#ftag=CAD590a51e)
- - [Internet Matters survey of 1,000 UK kids aged 9 to 17: 67% say they use AI chatbots regularly; of that group, 35% say it feels like talking to a friend &lpar;Noor Al-Sibai/Futurism&rpar;](http://www.techmeme.com/250714/p2#a250714p2)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, July 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-july-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android phones you should buy instead of the Galaxy Z Flip 7](https://www.androidauthority.com/samsung-galaxy-z-flip-7-alternatives-3576792/)
+ - [China approves Synopsys&#39; acquisition of simulation software company Ansys, after the US lifted restrictions on chip design software sales to China &lpar;Reuters&rpar;](http://www.techmeme.com/250714/p3#a250714p3)
+ - [Le Wand Dive Review: A Waterproof Wand Vibrator](https://www.wired.com/review/le-wand-dive/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
