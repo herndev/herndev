@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple still effectively blocks rival browser engines on iOS despite EU order](https://appleinsider.com/articles/25/07/14/apple-still-effectively-blocks-rival-browser-engines-on-ios-despite-eu-order?utm_medium=rss)
- - [Moonvalley, which is developing &quot;ethical&quot; AI video models trained on licensed content, raised $84M led by General Catalyst, bringing its total funding to $154M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250714/p14#a250714p14)
- - [Hype drop: Sketchy leaker risks reputation to cash in with iPhone 17 cases](https://appleinsider.com/articles/25/07/14/hype-drop-sketchy-leaker-risks-reputation-to-cash-in-with-iphone-17-cases?utm_medium=rss)<!-- TECH:END -->
+ - [These are Sony’s new noise-canceling headphones for NFL coaches](https://www.theverge.com/news/705283/sony-nfl-technology-partner-anc-headset-coach)
+ - [Pebblebee’s AirTag alternative now doubles as a panic alarm](https://www.theverge.com/news/706631/pebblebee-clip-tracker-android-ios-alert-safety-panic-alarm)
+ - [Android’s redesigned QR code scanner is finally here with one-handed improvements](https://www.androidauthority.com/android-qr-code-scanner-redesign-rollout-3577202/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
