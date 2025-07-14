@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI Mic 2 plummets to new record-low price, saving you $100!](https://www.androidauthority.com/dji-mic-2-deal-3576957/)
- - [Sources: OpenAI and Windsurf talks ended after Windsurf raised concerns over how its tech would fit into OpenAI&#39;s agreement to share tech with Microsoft &lpar;The Information&rpar;](http://www.techmeme.com/250711/p29#a250711p29)
- - [The 22 Best Non–Prime Day Deals From Retailers That Are Not Amazon](https://www.wired.com/story/best-prime-day-deals-from-other-retailers-1/)<!-- TECH:END -->
+ - [Nielsen: Netflix&#39;s share of most-watched shows has dropped from 80%+ in 2021 to ~50%; Amazon, Apple, HBO Max, Hulu, and Paramount+ have shows in 2025&#39;s Top 10 &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250713/p13#a250713p13)
+ - [A look at how Big Tech is faring in the Trump administration in terms of their executives&#39; ties with Trump, contracts, antitrust cases, tariffs, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250713/p12#a250713p12)
+ - [Satellite imagery and eyewitness testimony reveal that online scam centers are proliferating rapidly in Myanmar despite a large-scale crackdown in February &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250713/p11#a250713p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
