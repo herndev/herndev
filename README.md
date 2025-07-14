@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We made it too difficult for players to even get into the raid in the first place&#39;: Final Fantasy 14 director admits its latest dungeon was &#39;a misstep in development&#39;](https://www.pcgamer.com/games/final-fantasy/we-made-it-too-difficult-for-players-to-even-get-into-the-raid-in-the-first-place-final-fantasy-14-director-admits-its-latest-dungeon-was-a-misstep-in-development/)
- - [Today&#39;s Wordle answer for Monday, July 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-14-2025/)
- - [Five new Steam games you probably missed &lpar;July 14, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-14-2025/)<!-- GAME:END -->
+ - [This YouTube channel is converting a 3,287-hour FAA-certified flight simulator into a gaming PC-based sim rig and it wants your help](https://www.pcgamer.com/hardware/controllers/this-youtube-channel-is-converting-a-3-287-hour-faa-certified-flight-simulator-into-a-gaming-pc-based-sim-rig-and-it-wants-your-help/)
+ - [A fan favourite X-Men hero has just been name-dropped in Marvel Rivals, and while I want her to join the fight, I just don&#39;t know if it would be possible](https://www.pcgamer.com/games/third-person-shooter/a-fan-favourite-x-men-hero-has-just-been-name-dropped-in-marvel-rivals-and-while-i-want-her-to-join-the-fight-i-just-dont-know-if-it-would-be-possible/)
+ - [It Looks Like We&#39;re Getting A Donkey Kong Movie](https://kotaku.com/donkey-kong-movie-nintendo-bananza-super-mario-bros-1851786191)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
