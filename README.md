@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US government announces $200 million Grok contract a week after ‘MechaHitler’ incident](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)
- - [The European Commission says France, Spain, Italy, Denmark, and Greece will test an age verification app meant to protect kids online &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250714/p20#a250714p20)
- - [Third developer betas are out for iOS 18.6, iPadOS 18.6, macOS Sequoia 15.6](https://appleinsider.com/articles/25/07/14/third-developer-betas-are-out-for-ios-186-ipados-186-macos-sequoia-156?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Meta&#39;s new superintelligence lab led by Alexandr Wang has mulled abandoning its top open-source model, Behemoth, in favor of developing a closed model &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/250714/p24#a250714p24)
+ - [Google Cloud has competed well against AWS in AI, attracting business from The Browser Company, Safe Superintelligence, Thinking Machines Lab, and OpenAI &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/250714/p23#a250714p23)
+ - [Google’s reconsidering its approach to Circle to Search within Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-tell-me-about-this-3577321/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
