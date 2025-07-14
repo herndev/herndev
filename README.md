@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fake life](http://9gag.com/gag/aQzyZwr)
- - ⏩ [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)
- - 👉 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)<!-- MEMES:END -->
+ - 💣 [Calming the Hulk down is a team effort, but Tony&#39;s approach is definitely unique.](http://9gag.com/gag/a87V2yV)
+ - ⏩ [When you use the male filter and your friend can&#39;t believe it](http://9gag.com/gag/ajPRZN0)
+ - 👉 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)<!-- MEMES:END -->
 
 ---
 
