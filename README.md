@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
- - ⏩ [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
- - 👉 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)<!-- MEMES:END -->
+ - 💣 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
+ - ⏩ [Fake life](http://9gag.com/gag/aQzyZwr)
+ - 👉 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)<!-- MEMES:END -->
 
 ---
 
