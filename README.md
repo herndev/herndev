@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Galaxy S26 leak is bad news for small-phone lovers](https://www.androidauthority.com/samsung-galaxy-s26-screen-sizes-edge-3577087/)
- - [Where are the iPhone’s WebKit-less browsers?](https://www.theverge.com/news/706569/apple-ios-iphone-alternative-browser-webkit-owa)
- - [How the Finder is the real power macOS Tahoe feature](https://appleinsider.com/inside/macos-26/tips/how-the-finder-is-the-real-power-macos-tahoe-feature?utm_medium=rss)<!-- TECH:END -->
+ - [First look at Gemini Space: Google’s Now Bar-like upgrade to Pixel’s At a Glance &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-gemini-space-first-look-apk-teardown-3577101/)
+ - [Tesla is set to face a Florida federal jury to defend allegations that Autopilot was at fault in a fatal 2019 crash, as it tests autonomous robotaxis in Austin &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/250714/p10#a250714p10)
+ - [Ikea&#39;s smart home master plan, Aqara G410, and more on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/07/14/ikeas-smart-home-master-plan-aqara-g410-and-more-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
