@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are Sony’s new noise-canceling headphones for NFL coaches](https://www.theverge.com/news/705283/sony-nfl-technology-partner-anc-headset-coach)
- - [Pebblebee’s AirTag alternative now doubles as a panic alarm](https://www.theverge.com/news/706631/pebblebee-clip-tracker-android-ios-alert-safety-panic-alarm)
- - [Android’s redesigned QR code scanner is finally here with one-handed improvements](https://www.androidauthority.com/android-qr-code-scanner-redesign-rollout-3577202/)<!-- TECH:END -->
+ - [Anthropic&amp;#8217;s Claude chatbot can now make and edit your Canva designs](https://www.theverge.com/news/706637/canva-anthropic-claude-ai-mcp-support)
+ - [Lose yourself in an astoundingly beautiful and absorbing history of macOS settings](https://appleinsider.com/articles/25/07/14/lose-yourself-in-an-astoundingly-beautiful-and-absorbing-history-of-macos-settings?utm_medium=rss)
+ - [Google Will Merge Android and ChromeOS, Exec Says. That&#39;s Taking a Page out of the Apple Playbook](https://www.cnet.com/tech/services-and-software/google-will-merge-android-and-chromeos-exec-says-thats-taking-a-page-out-of-the-apple-playbook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
