@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android phones you should buy instead of the Galaxy Z Flip 7](https://www.androidauthority.com/samsung-galaxy-z-flip-7-alternatives-3576792/)
- - [China approves Synopsys&#39; acquisition of simulation software company Ansys, after the US lifted restrictions on chip design software sales to China &lpar;Reuters&rpar;](http://www.techmeme.com/250714/p3#a250714p3)
- - [Le Wand Dive Review: A Waterproof Wand Vibrator](https://www.wired.com/review/le-wand-dive/)<!-- TECH:END -->
+ - [Jensen Huang says Chinese military is unlikely to use Nvidia&#39;s AI chips, citing the risk of the chips being &quot;limited at any time&quot; due to US export restrictions &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250714/p4#a250714p4)
+ - [Google exec: ‘We’re going to be combining ChromeOS and Android’](https://www.theverge.com/news/706558/google-android-chromeos-combining-sameer-samat)
+ - [OnePlus earbuds could soon make Spotify access seamless &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-buds-spotify-tap-apk-teardown-3577057/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
