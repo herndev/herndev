@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are still alive.](http://9gag.com/gag/awye4N1)
- - ⏩ [Fake life](http://9gag.com/gag/aQzyZwr)
- - 👉 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)<!-- MEMES:END -->
+ - 💣 [Corn](http://9gag.com/gag/aAyvXBL)
+ - ⏩ [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 👉 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)<!-- MEMES:END -->
 
 ---
 
