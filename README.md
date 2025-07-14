@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Even Sonic Fans Were Too Slow For Magic: The Gathering&#39;s Latest Secret Lair Debacle](https://kotaku.com/sonic-magic-gathering-secret-lair-card-pre-order-drop-1851786245)
- - [Robber Stole $100k Worth Of Rare Pokémon Cards From Local Shop In 30 Seconds](https://kotaku.com/card-shop-pokemon-robbed-100k-hammer-rare-cards-thief-1851786241)
- - [Fresh from telling laid-off employees to console themselves with AI, Microsoft doubles down by advertising Xbox jobs with pathetic AI image: &#39;So tone deaf I hope it is satire&#39;](https://www.pcgamer.com/software/ai/fresh-from-telling-laid-off-employees-to-console-themselves-with-ai-microsoft-doubles-down-by-advertising-xbox-jobs-with-pathetic-ai-image-so-tone-deaf-i-hope-it-is-satire/)<!-- GAME:END -->
+ - [Remaking Dragon Quest 7 right now doesn&amp;#8217;t make sense](https://www.polygon.com/gaming/612885/dragon-quest-7-remake-why-now)
+ - [My most-played game of the last 5 years is 30% off on Steam right now, alongside a ton of other factory games that can absolutely devour your life](https://www.pcgamer.com/games/sim/my-most-played-game-of-the-last-5-years-is-30-percent-off-on-steam-right-now-alongside-a-ton-of-other-factory-games-that-can-absolutely-devour-your-life/)
+ - [The Impossible-To-Find 30th Anniversary PS5 Controller Is Coming Back For A Limited Time](https://kotaku.com/ps1-30th-anniversary-ps5-dualsense-stock-pre-order-1851786249)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
