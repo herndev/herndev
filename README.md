@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remaking Dragon Quest 7 right now doesn&amp;#8217;t make sense](https://www.polygon.com/gaming/612885/dragon-quest-7-remake-why-now)
- - [My most-played game of the last 5 years is 30% off on Steam right now, alongside a ton of other factory games that can absolutely devour your life](https://www.pcgamer.com/games/sim/my-most-played-game-of-the-last-5-years-is-30-percent-off-on-steam-right-now-alongside-a-ton-of-other-factory-games-that-can-absolutely-devour-your-life/)
- - [The Impossible-To-Find 30th Anniversary PS5 Controller Is Coming Back For A Limited Time](https://kotaku.com/ps1-30th-anniversary-ps5-dualsense-stock-pre-order-1851786249)<!-- GAME:END -->
+ - [Switch 2 restock coming to Best Buy for Donkey Kong Bananza launch](https://www.polygon.com/nintendo-switch-2/612990/restocks-best-buy-donkey-kong-bananza-launch-day)
+ - [We&amp;#8217;re still so far off from a new Batman movie](https://www.polygon.com/dc/612883/batman-movie-release-date-when)
+ - [What time does Zenless Zone Zero 2.1 release?](https://www.polygon.com/zenless-zone-zero-guides/612976/zzz-version-2-1-release-time-maintenance-start-end)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
