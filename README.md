@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin reached a new all-time high of over $121K, up about 30% since December 2024, after more than doubling in value in 2024 &lpar;Kirk Ogunrinde/Bloomberg&rpar;](http://www.techmeme.com/250714/p1#a250714p1)
- - [A look at WindBorne, which uses weather balloons and AI to improve forecasting, as potential budget cuts to NOAA threaten its access to public weather data &lpar;Tim Fernholz/New York Times&rpar;](http://www.techmeme.com/250713/p14#a250713p14)
- - [Dyson Reveals Futuristic Farming Vision](https://www.cnet.com/science/biology/dyson-reveals-futuristic-farming-vision/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internet Matters survey of 1,000 UK kids aged 9 to 17: 67% say they use AI chatbots regularly; of that group, 35% say it feels like talking to a friend &lpar;Noor Al-Sibai/Futurism&rpar;](http://www.techmeme.com/250714/p2#a250714p2)
+ - [Google confirms it’s ‘combining’ Chrome OS and Android into a single platform](https://www.androidauthority.com/google-combine-chrome-os-android-3577035/)
+ - [Bitcoin reached a new all-time high of over $121K, up about 30% since December 2024, after more than doubling in value in 2024 &lpar;Kirk Ogunrinde/Bloomberg&rpar;](http://www.techmeme.com/250714/p1#a250714p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
