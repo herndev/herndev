@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Corn](http://9gag.com/gag/aAyvXBL)
- - ⏩ [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 💣 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - ⏩ [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
  - 👉 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)<!-- MEMES:END -->
 
 ---
