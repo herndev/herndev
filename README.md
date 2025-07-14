@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Put Adam\u2019s family music](http://9gag.com/gag/ary8qXX)
+ - 💣 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
  - ⏩ [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
- - 👉 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)<!-- MEMES:END -->
+ - 👉 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)<!-- MEMES:END -->
 
 ---
 
