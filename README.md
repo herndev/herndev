@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Irem Collection Vol. 3 brings 3 Upgraded Retro Shoot ’em Ups to Xbox](https://news.xbox.com/en-us/2025/07/14/irem-collection-vol-3-brings-upgraded-shoot-em-ups-to-xbox/)
- - [Good news for multitaskers: Microsoft is gradually rolling out taskbar scaling to squeeze in as many icons as possible in the latest Windows 11 Insider build](https://www.pcgamer.com/software/windows/good-news-for-multitaskers-microsoft-is-gradually-rolling-out-taskbar-scaling-to-squeeze-in-as-many-icons-as-possible-in-the-latest-windows-11-insider-build/)
- - [Mario Kart World: Every Question Mark Panel Location On Acorn Heights](https://kotaku.com/mario-kart-world-switch-2-acorn-heights-question-mark-1851786231)<!-- GAME:END -->
+ - [Even Sonic Fans Were Too Slow For Magic: The Gathering&#39;s Latest Secret Lair Debacle](https://kotaku.com/sonic-magic-gathering-secret-lair-card-pre-order-drop-1851786245)
+ - [Robber Stole $100k Worth Of Rare Pokémon Cards From Local Shop In 30 Seconds](https://kotaku.com/card-shop-pokemon-robbed-100k-hammer-rare-cards-thief-1851786241)
+ - [Fresh from telling laid-off employees to console themselves with AI, Microsoft doubles down by advertising Xbox jobs with pathetic AI image: &#39;So tone deaf I hope it is satire&#39;](https://www.pcgamer.com/software/ai/fresh-from-telling-laid-off-employees-to-console-themselves-with-ai-microsoft-doubles-down-by-advertising-xbox-jobs-with-pathetic-ai-image-so-tone-deaf-i-hope-it-is-satire/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
