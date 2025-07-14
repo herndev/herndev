@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - ⏩ [A gas station ?!](http://9gag.com/gag/aQzyZYw)
- - 👉 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)<!-- MEMES:END -->
+ - 💣 [Why so British???](http://9gag.com/gag/aQzyV82)
+ - ⏩ [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
+ - 👉 [Fumble of the century](http://9gag.com/gag/aQzymKz)<!-- MEMES:END -->
 
 ---
 
