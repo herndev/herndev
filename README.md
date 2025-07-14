@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This YouTube channel is converting a 3,287-hour FAA-certified flight simulator into a gaming PC-based sim rig and it wants your help](https://www.pcgamer.com/hardware/controllers/this-youtube-channel-is-converting-a-3-287-hour-faa-certified-flight-simulator-into-a-gaming-pc-based-sim-rig-and-it-wants-your-help/)
- - [A fan favourite X-Men hero has just been name-dropped in Marvel Rivals, and while I want her to join the fight, I just don&#39;t know if it would be possible](https://www.pcgamer.com/games/third-person-shooter/a-fan-favourite-x-men-hero-has-just-been-name-dropped-in-marvel-rivals-and-while-i-want-her-to-join-the-fight-i-just-dont-know-if-it-would-be-possible/)
- - [It Looks Like We&#39;re Getting A Donkey Kong Movie](https://kotaku.com/donkey-kong-movie-nintendo-bananza-super-mario-bros-1851786191)<!-- GAME:END -->
+ - [I hated Superman’s Boravia finale. My coworker loved it. We fought it out.](https://www.polygon.com/features/612362/superman-ending-meaning-james-gunn-boravia)
+ - [Eriksholm: The Stolen Dream review](https://www.pcgamer.com/games/adventure/eriksholm-the-stolen-dream-review/)
+ - [Best PCIe 5.0 SSD for gaming in 2025: the only Gen 5 drives I will allow in my PC](https://www.pcgamer.com/hardware/ssds/best-pcie-5-0-ssd-for-gaming-in-2025-the-only-gen-5-drives-i-will-allow-in-my-pc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
