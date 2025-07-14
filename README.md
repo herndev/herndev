@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;July 14, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-14-2025/)
  - [Those shadow giants in the distance in Elden Ring Nightreign are over 2 miles tall⁠—almost as big as the Erdtree⁠—and nobody even mentions them in the game](https://www.pcgamer.com/games/rpg/those-shadow-giants-in-the-distance-in-elden-ring-nightreign-are-over-2-miles-tall-almost-as-big-as-the-erdtree-and-nobody-even-mentions-them-in-the-game/)
- - [A new Dark Souls 3 lighting tool is giving modders the power to make next-gen facelifts of the FromSoft classic](https://www.pcgamer.com/games/rpg/a-new-dark-souls-3-lighting-tool-is-giving-modders-the-power-to-make-next-gen-facelifts-of-the-fromsoft-classic/)
- - [&#39;A game, once sold, belongs to the customer&#39;: Prominent EU politician stands up for Stop Killing Games](https://www.pcgamer.com/gaming-industry/a-game-once-sold-belongs-to-the-customer-prominent-eu-politician-stands-up-for-stop-killing-games/)<!-- GAME:END -->
+ - [A new Dark Souls 3 lighting tool is giving modders the power to make next-gen facelifts of the FromSoft classic](https://www.pcgamer.com/games/rpg/a-new-dark-souls-3-lighting-tool-is-giving-modders-the-power-to-make-next-gen-facelifts-of-the-fromsoft-classic/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
