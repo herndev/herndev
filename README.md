@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it has taken down around 10M Facebook profiles so far this year that were impersonating or repeatedly reusing content from large content producers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250714/p30#a250714p30)
- - [&#39;Resident Evil: Survival Unit&#39; now available for pre-order ahead of late 2025 launch](https://appleinsider.com/articles/25/07/14/resident-evil-survival-unit-now-available-for-pre-order-ahead-of-late-2025-launch?utm_medium=rss)
- - [Galaxy Z Fold 7 vs. Z Fold 6: Slimmer Body, Bigger Screens and Slightly Higher Price](https://www.cnet.com/tech/mobile/galaxy-z-fold-7-vs-z-fold-6-slimmer-body-bigger-screens-and-slightly-higher-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deal: Anker SOLIX EverFrost 2 40L Smart Cooler hits new record-low price!](https://www.androidauthority.com/anker-solix-everfrost-2-40l-smart-cooler-deal-3577399/)
+ - [Reddit says it has started verifying UK users&#39; ages before letting them &quot;view certain mature content&quot;, in order to comply with the country&#39;s Online Safety Act &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250714/p31#a250714p31)
+ - [Pre-order Samsung Galaxy Watch 8 and get a free $50 gift card!](https://www.androidauthority.com/samsung-galaxy-watch-8-pre-order-deal-3577400/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
