@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - ⏩ [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
- - 👉 [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)<!-- MEMES:END -->
+ - 💣 [Orks!](http://9gag.com/gag/aBy4XbO)
+ - ⏩ [Fake life](http://9gag.com/gag/aQzyZwr)
+ - 👉 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)<!-- MEMES:END -->
 
 ---
 
