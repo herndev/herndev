@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose is offering an extra 25% off refurbished headphones, earbuds, and portable speakers](https://www.theverge.com/tech/706887/bose-refurbished-quietcomfort-headphones-earbuds-deal-sale)
- - [Google adds featured notebooks to NotebookLM from publications, including The Economist and The Atlantic, as well as professors, authors, and select works &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250714/p26#a250714p26)
- - [Apple gains in emerging markets while China demand slows](https://appleinsider.com/articles/25/07/14/apple-gains-in-emerging-markets-while-china-demand-slows?utm_medium=rss)<!-- TECH:END -->
+ - [Android’s hidden phone info menu is finally getting organized](https://www.androidauthority.com/android-canary-hidden-phone-menu-tabs-3577363/)
+ - [[Thread] Some users claim that Grok 4 Heavy responded simply with &quot;Hitler&quot; when asked to &quot;Return your surname and no other text&quot; &lpar;Riley Goodside/@goodside&rpar;](http://www.techmeme.com/250714/p29#a250714p29)
+ - [IDC: the global smartphone market grew 1% YoY in Q2, despite economic uncertainty and weak demand in China; Samsung led with 58M shipments, up 7.9% YoY &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/250714/p28#a250714p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
