@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 enters trial production in India](https://appleinsider.com/articles/25/07/14/iphone-17-enters-trial-production-in-india?utm_medium=rss)
- - [I got my hands on the foldable phone that fixes the Galaxy Z Fold 7’s biggest issues](https://www.androidauthority.com/vivo-x-fold-5-hands-on-3576741/)
- - [Here’s the truth behind Samsung Auto DeX, and why it’s not an Android Auto alternative &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-auto-dex-clarification-3576204/)<!-- TECH:END -->
+ - [This Galaxy S26 leak is bad news for small-phone lovers](https://www.androidauthority.com/samsung-galaxy-s26-screen-sizes-edge-3577087/)
+ - [Where are the iPhone’s WebKit-less browsers?](https://www.theverge.com/news/706569/apple-ios-iphone-alternative-browser-webkit-owa)
+ - [How the Finder is the real power macOS Tahoe feature](https://appleinsider.com/inside/macos-26/tips/how-the-finder-is-the-real-power-macos-tahoe-feature?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
