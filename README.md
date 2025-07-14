@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [It&#39;s genetics](http://9gag.com/gag/axymPEW)
- - ⏩ [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
- - 👉 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)<!-- MEMES:END -->
+ - ⏩ [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
+ - 👉 [If video games have taught me one thing.](http://9gag.com/gag/ae9RVLW)<!-- MEMES:END -->
 
 ---
 
