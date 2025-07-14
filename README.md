@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang says Chinese military is unlikely to use Nvidia&#39;s AI chips, citing the risk of the chips being &quot;limited at any time&quot; due to US export restrictions &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250714/p4#a250714p4)
- - [Google exec: ‘We’re going to be combining ChromeOS and Android’](https://www.theverge.com/news/706558/google-android-chromeos-combining-sameer-samat)
- - [OnePlus earbuds could soon make Spotify access seamless &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-buds-spotify-tap-apk-teardown-3577057/)<!-- TECH:END -->
+ - [iPhone 17 enters trial production in India](https://appleinsider.com/articles/25/07/14/iphone-17-enters-trial-production-in-india?utm_medium=rss)
+ - [I got my hands on the foldable phone that fixes the Galaxy Z Fold 7’s biggest issues](https://www.androidauthority.com/vivo-x-fold-5-hands-on-3576741/)
+ - [Here’s the truth behind Samsung Auto DeX, and why it’s not an Android Auto alternative &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-auto-dex-clarification-3576204/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
