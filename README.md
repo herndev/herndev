@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
- - ⏩ [Mouthful](http://9gag.com/gag/aBy4LR2)
- - 👉 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)<!-- MEMES:END -->
+ - 💣 [They are still alive.](http://9gag.com/gag/awye4N1)
+ - ⏩ [Fake life](http://9gag.com/gag/aQzyZwr)
+ - 👉 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)<!-- MEMES:END -->
 
 ---
 
