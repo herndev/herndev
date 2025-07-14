@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s genetics](http://9gag.com/gag/axymPEW)
- - ⏩ [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
- - 👉 [If video games have taught me one thing.](http://9gag.com/gag/ae9RVLW)<!-- MEMES:END -->
+ - 💣 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
+ - ⏩ [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 👉 [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)<!-- MEMES:END -->
 
 ---
 
