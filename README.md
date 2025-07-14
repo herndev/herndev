@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rematch developers didn&#39;t &#39;get&#39; the game, Sloclap boss says, until they started playing internal tournaments: &#39;I don&#39;t give a s**t about football, but this really struck something in me&#39;](https://www.pcgamer.com/games/sports/rematch-developers-didnt-get-the-game-sloclap-boss-says-until-they-started-playing-internal-tournaments-i-dont-give-a-s-t-about-football-but-this-really-struck-something-in-me/)
- - [It’s 2025 and we’re still finding out about more Bloodborne cut content](https://www.polygon.com/news/612798/bloodborne-new-cut-content-alpha-map)
- - [The Shrouds, Jaws @ 50, Karate Kid: Legends, and every movie new to streaming this weekend](https://www.polygon.com/movies/612520/new-movies-watch-the-shrouds-jaws-at-50-karate-kid-legends-7-11-2025)<!-- GAME:END -->
+ - [Those shadow giants in the distance in Elden Ring Nightreign are over 2 miles tall⁠—almost as big as the Erdtree⁠—and nobody even mentions them in the game](https://www.pcgamer.com/games/rpg/those-shadow-giants-in-the-distance-in-elden-ring-nightreign-are-over-2-miles-tall-almost-as-big-as-the-erdtree-and-nobody-even-mentions-them-in-the-game/)
+ - [A new Dark Souls 3 lighting tool is giving modders the power to make next-gen facelifts of the FromSoft classic](https://www.pcgamer.com/games/rpg/a-new-dark-souls-3-lighting-tool-is-giving-modders-the-power-to-make-next-gen-facelifts-of-the-fromsoft-classic/)
+ - [&#39;A game, once sold, belongs to the customer&#39;: Prominent EU politician stands up for Stop Killing Games](https://www.pcgamer.com/gaming-industry/a-game-once-sold-belongs-to-the-customer-prominent-eu-politician-stands-up-for-stop-killing-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
