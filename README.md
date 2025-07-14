@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 restock coming to Best Buy for Donkey Kong Bananza launch](https://www.polygon.com/nintendo-switch-2/612990/restocks-best-buy-donkey-kong-bananza-launch-day)
- - [We&amp;#8217;re still so far off from a new Batman movie](https://www.polygon.com/dc/612883/batman-movie-release-date-when)
- - [What time does Zenless Zone Zero 2.1 release?](https://www.polygon.com/zenless-zone-zero-guides/612976/zzz-version-2-1-release-time-maintenance-start-end)<!-- GAME:END -->
+ - [When I Stopped Playing Mission Stories In Hitman, I Discovered What A Great Stealth Game It Is](https://kotaku.com/hitman-woa-stealth-metal-gear-splinter-cell-freelancer-1851786255)
+ - [How to complete Safeguard Deliveries in GTA Online](https://www.pcgamer.com/gta-online-safeguard-deliveries-money-fronts/)
+ - [Switch 2 restock coming to Best Buy for Donkey Kong Bananza launch](https://www.polygon.com/nintendo-switch-2/612990/restocks-best-buy-donkey-kong-bananza-launch-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
