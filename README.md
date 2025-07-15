@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s A Life-Size Pikachu Statue, But It&#39;ll Cost Ya](https://kotaku.com/pokemon-pikachu-statue-figure-life-size-sideshow-1851786279)
- - [All Blue Archive codes and how to redeem them](https://www.pcgamer.com/games/strategy/blue-archive-codes/)
- - [Persona 5 Gacha Players Review Bomb The Game After Accelerated Schedule Comes With Worse Rewards](https://kotaku.com/persona-5-phantom-x-rewards-china-compare-review-bomb-1851786295)<!-- GAME:END -->
+ - [As if being worth $4 trillion isn&#39;t enough, Nvidia claims the US government says it can start selling AI GPUs to China again](https://www.pcgamer.com/hardware/graphics-cards/as-if-being-worth-usd4-trillion-isnt-enough-nvidia-claims-the-us-government-says-it-can-start-selling-ai-gpus-to-china-again/)
+ - [Getting Donkey Kong Bananza To Run At 60FPS Was Important For Nintendo](https://kotaku.com/donkey-kong-bananza-dk-switch-2-60fps-30fps-nintendo-1851786303)
+ - [9-Year-Old Visual Novel Runs Just Fine But Apple Is Booting It From The App Store Anyway](https://kotaku.com/app-store-delist-wheels-aurelia-update-saturnalia-1851786302)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
