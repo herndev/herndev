@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a holiday.](http://9gag.com/gag/aO8ppGr)
- - ⏩ [Dexter&#39;s mom alone makes it worth it](http://9gag.com/gag/aBy4oRO)
- - 👉 [Not on my Bingo card](http://9gag.com/gag/aRBRDEA)<!-- MEMES:END -->
+ - 💣 [That&#39;s some serious dedication to not losing bags. Other airports need to take notes.](http://9gag.com/gag/aAyvmQd)
+ - ⏩ [Good job Man.? -100kg](http://9gag.com/gag/a6ZGxv9)
+ - 👉 [What friends are for](http://9gag.com/gag/aXPRenb)<!-- MEMES:END -->
 
 ---
 
