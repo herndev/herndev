@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why so British???](http://9gag.com/gag/aQzyV82)
- - ⏩ [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
- - 👉 [Fumble of the century](http://9gag.com/gag/aQzymKz)<!-- MEMES:END -->
+ - 💣 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
+ - ⏩ [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
+ - 👉 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)<!-- MEMES:END -->
 
 ---
 
