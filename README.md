@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: Microsoft uses engineers in China to help maintain US DOD systems, with minimal supervision by US personnel, leaving sensitive data vulnerable &lpar;ProPublica&rpar;](http://www.techmeme.com/250715/p12#a250715p12)
- - [Pixel 10 series FCC filing confirms connectivity features, hints at Samsung modem](https://www.androidauthority.com/pixel-10-series-fcc-filing-3577549/)
- - [Motorola teases Swarovski-studded Razr, but all I want is the return of the D&amp;G collab](https://www.androidauthority.com/moto-razr-swarovski-2025-launch-date-3577488/)<!-- TECH:END -->
+ - [Rivian supercharges its navigation experience with some of Google Maps’ best features](https://www.androidauthority.com/rivian-navigation-experience-google-maps-3577543/)
+ - [Apple Watch sensors are so good, it could provide the first pregnancy indicators](https://appleinsider.com/articles/25/07/15/apple-watch-sensors-are-so-good-it-could-provide-the-first-pregnancy-indicators?utm_medium=rss)
+ - [Remove your personal information from the internet before it becomes a threat](https://appleinsider.com/articles/25/07/15/remove-your-personal-information-from-the-internet-before-it-becomes-a-threat?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
