@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s some serious dedication to not losing bags. Other airports need to take notes.](http://9gag.com/gag/aAyvmQd)
- - ⏩ [Good job Man.? -100kg](http://9gag.com/gag/a6ZGxv9)
- - 👉 [What friends are for](http://9gag.com/gag/aXPRenb)<!-- MEMES:END -->
+ - 💣 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
+ - ⏩ [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
+ - 👉 [110K lumen&#39;s discipline](http://9gag.com/gag/aE0ZQ1O)<!-- MEMES:END -->
 
 ---
 
