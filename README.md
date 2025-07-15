@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, July 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-15-2025/)
- - [Less than 6 years after it launched, John Wick Hex is being removed from sale on all storefronts later this week](https://www.pcgamer.com/games/strategy/less-than-6-years-after-it-launched-john-wick-hex-is-being-removed-from-sale-on-all-storefronts-later-this-week/)
- - [The only official John Wick game is being delisted](https://www.polygon.com/news/613065/john-wick-game-delisting-steam)<!-- GAME:END -->
+ - [Intel&#39;s new Nova Lake CPU is reportedly being made on TSMC N2 right now, pointing to a hybric 18A node and late 2026 launch](https://www.pcgamer.com/hardware/intels-new-nova-lake-cpu-is-reportedly-being-made-on-tsmc-n2-right-now-pointing-to-a-hybric-18a-node-and-late-2026-launch/)
+ - [Can Feebas be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23987678/can-feebas-be-shiny-milotic)
+ - [What time does Donkey Kong Bananza release?](https://www.polygon.com/donkey-kong-bananza-guides-dk/612961/release-time-date-edt-pdt-preload-preorder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
