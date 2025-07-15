@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, a good use for crashing Intel Raptor Lake CPUs: You can track Europe&#39;s record-breaking heatwaves as they fall over, according a Firefox browser dev](https://www.pcgamer.com/hardware/processors/finally-a-good-use-for-crashing-intel-raptor-lake-cpus-you-can-track-europes-record-breaking-heatwaves-as-they-fall-over-according-a-firefox-browser-dev/)
- - [Frostpunk 2 is hosting a modding contest for a &#39;chance to leave your mark on the Frostpunk universe&#39;—oh, and a $10,000 prize pool](https://www.pcgamer.com/games/city-builder/frostpunk-2-is-hosting-a-modding-contest-for-a-chance-to-leave-your-mark-on-the-frostpunk-universe-oh-and-a-usd10-000-prize-pool/)
- - [Oblivion Remastered&#39;s latest patch stealthily fixed the most lore-breaking door in videogames](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastereds-latest-patch-stealthily-fixed-the-most-lore-breaking-door-in-videogames/)<!-- GAME:END -->
+ - [Superman commits the sin that set off endless fights over Zack Snyder’s Man of Steel](https://www.polygon.com/dc/613031/does-superman-kill-2025-movie-james-gunn)
+ - [Coming to Game Pass: Grounded 2 &lpar;Game Preview&rpar;, Wuchang: Fallen Feathers, Farming Simulator 25, and More](https://news.xbox.com/en-us/2025/07/15/xbox-game-pass-july-2025-wave-2/)
+ - [Major Nintendo Switch Piracy Website Blamed For $170 Million In Lost Game Sales Seized By FBI [Update]](https://kotaku.com/switch-2-piracy-nsw2u-roms-fbi-hack-emulator-zelda-1851786034)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
