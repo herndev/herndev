@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: US startup funding surged 75.6% YoY in H1 2025 to $162.8B, strongest since H1 2021, driven by the AI boom and on track for the second-best year ever &lpar;Reuters&rpar;](http://www.techmeme.com/250715/p2#a250715p2)
- - [Is Nano-Hydroxyapatite Toothpaste an Effective Fluoride Alternative? Dentists Weigh In](https://www.cnet.com/health/personal-care/is-nano-hydroxyapatite-toothpaste-effective-fluoride-alternative-dentists-weigh-in/#ftag=CAD590a51e)
- - [Alibaba is putting $7B in Taobao promotions as JD.com invests $1.4B to grow food delivery, with both offering discounts to become China&#39;s leading &quot;everyday app&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250715/p1#a250715p1)<!-- TECH:END -->
+ - [Pixel Watch 4 battery upgrade is coming, but don’t expect magic](https://www.androidauthority.com/pixel-watch-4-battery-3577168/)
+ - [Can Nextdoor overhaul itself to be useful?](https://www.theverge.com/news/706618/nextdoor-redesign-ai-recommendations-local-news-emergency-alerts)
+ - [Samsung is thinking about Galaxy phones with built-in magnets, no wired charging](https://www.androidauthority.com/samsung-qi-2-magnets-phones-3577489/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
