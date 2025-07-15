@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insiders with Game Pass Ultimate – Stream Your Own Game on the Xbox PC app](https://news.xbox.com/en-us/2025/07/15/xbox-insiders-with-game-pass-ultimate-stream-your-own-game-on-the-xbox-pc-app/)
- - [Escape from Tarkov begins to quietly U-turn after last week&#39;s hardcore wipe left players penniless and bored to tears with the grind](https://www.pcgamer.com/games/fps/escape-from-tarkov-begins-to-quietly-u-turn-after-last-weeks-hardcore-wipe-left-players-penniless-and-bored-to-tears-with-the-grind/)
- - [It might give me the heebie jeebies but I can&#39;t help wanting one of these transparent power supplies to soothe my retro-starved mind](https://www.pcgamer.com/hardware/power-supplies/it-might-give-me-the-heebie-jeebies-but-i-cant-help-wanting-one-of-these-transparent-power-supplies-to-soothe-my-retro-starved-mind/)<!-- GAME:END -->
+ - [COP BASTARD is a retro first-person shooter that&#39;s exactly as aggressively weird as you&#39;d expect from a game called COP BASTARD](https://www.pcgamer.com/games/fps/cop-bastard-is-a-retro-first-person-shooter-thats-exactly-as-aggressively-weird-as-youd-expect-from-a-game-called-cop-bastard/)
+ - [A Creepy, Lore-Breaking Door In The Oblivion Remaster Has Finally Been Fixed](https://kotaku.com/creepy-dark-brotherhood-door-oblivion-remastered-1-2-pc-1851786326)
+ - [Microsoft&#39;s 200 laid-off King devs are reportedly being replaced by AI they helped build, while its &#39;absolute &#39;s***show&#39; HR department looks away and whistles](https://www.pcgamer.com/gaming-industry/microsofts-200-laid-off-king-devs-are-reportedly-being-replaced-by-ai-they-helped-build-while-its-absolute-s-show-hr-department-looks-away-and-whistles/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
