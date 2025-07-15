@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony phones are disappearing across key markets: Is the Xperia era coming to an end?](https://www.androidauthority.com/sony-smartphone-market-europe-exit-3577449/)
  - [Berlin-based Motor Ai, which develops neuroscience-driven Level 4 autonomous driving tech and plans to deploy it on German roads in 2025, raised a $20M seed &lpar;Dean Takahashi/GamesBeat&rpar;](http://www.techmeme.com/250714/p36#a250714p36)
- - [Nvidia plans to resume H20 AI chip sales to China after Washington assured shipments will be approved, reversing an earlier Trump administration stance in April &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250714/p35#a250714p35)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia plans to resume H20 AI chip sales to China after Washington assured shipments will be approved, reversing an earlier Trump administration stance in April &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250714/p35#a250714p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
