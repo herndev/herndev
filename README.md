@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;re using an Intel 8–11th Gen CPU with a Gigabyte motherboard, update your BIOS to protect from a newly discovered vulnerability](https://www.pcgamer.com/hardware/motherboards/if-youre-using-an-intel-8-11th-gen-cpu-with-a-gigabyte-motherboard-update-your-bios-to-protect-from-a-newly-discovered-vulnerability/)
- - [The Lenovo Legion Go S SteamOS finally has joystick RGB lighting support, but the most annoying issue still isn&#39;t fixed](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-lenovo-legion-go-s-steamos-finally-has-joystick-rgb-lighting-support-but-the-most-annoying-issue-still-isnt-fixed/)
- - [Crucial 128 GB DDR5-6400 CUDIMM review](https://www.pcgamer.com/hardware/memory/crucial-128-gb-ddr5-6400-cudimm-review/)<!-- GAME:END -->
+ - [Finally, a good use for crashing Intel Raptor Lake CPUs: You can track Europe&#39;s record-breaking heatwaves as they fall over, according a Firefox browser dev](https://www.pcgamer.com/hardware/processors/finally-a-good-use-for-crashing-intel-raptor-lake-cpus-you-can-track-europes-record-breaking-heatwaves-as-they-fall-over-according-a-firefox-browser-dev/)
+ - [Frostpunk 2 is hosting a modding contest for a &#39;chance to leave your mark on the Frostpunk universe&#39;—oh, and a $10,000 prize pool](https://www.pcgamer.com/games/city-builder/frostpunk-2-is-hosting-a-modding-contest-for-a-chance-to-leave-your-mark-on-the-frostpunk-universe-oh-and-a-usd10-000-prize-pool/)
+ - [Oblivion Remastered&#39;s latest patch stealthily fixed the most lore-breaking door in videogames](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastereds-latest-patch-stealthily-fixed-the-most-lore-breaking-door-in-videogames/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
