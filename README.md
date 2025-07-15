@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals’ summer event skins put The Thing in a thong](https://www.polygon.com/news/613199/marvel-rivals-when-is-summer-event-the-thing-thong-luna-snow-skin)
- - [The Last of Us Part 2’s story is just fine the way it is](https://www.polygon.com/gaming/612845/last-of-us-part-2-narrative-changes-bad)
- - [&#39;We could have, at that point, put out a s*** game&#39;: Former Deep Silver comms boss says Dead Island 2 released 8 years late because an earlier version &#39;would have killed the franchise&#39; if it wasn&#39;t binned](https://www.pcgamer.com/games/rpg/we-could-have-at-that-point-put-out-a-s-game-former-deep-silver-comms-boss-says-dead-island-2-released-8-years-late-because-an-earlier-version-would-have-killed-the-franchise-if-it-wasnt-binned/)<!-- GAME:END -->
+ - [Minecraft Adds Jack Black&#39;s Lava Chicken Song, But You Gotta Do Something Special To Get It](https://kotaku.com/minecraft-movie-lava-chicken-jockey-easter-egg-game-1851786345)
+ - [Treasonous Helldivers 2 players are weaponizing the Super Earth flag to crash the game for everyone but them](https://www.pcgamer.com/games/third-person-shooter/treasonous-helldivers-2-players-are-weaponizing-the-super-earth-flag-to-crash-the-game-for-everyone-but-them/)
+ - [Making space for multiplayer in the Nintendo Switch 2’s world](https://www.polygon.com/nintendo-switch-2/613231/local-co-op-multiplayer-friendship-mario-kart-world)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
