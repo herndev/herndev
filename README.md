@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swiss tax probe sparks legal battle over Apple Account data](https://appleinsider.com/articles/25/07/15/swiss-tax-probe-sparks-legal-battle-over-apple-account-data?utm_medium=rss)
- - [Sources: the US DOJ and CFTC ended a pair of investigations into crypto betting platform Polymarket that started under the Biden administration &lpar;Bloomberg&rpar;](http://www.techmeme.com/250715/p14#a250715p14)
- - [The MAGA backlash over Epstein isn’t dying down](https://www.theverge.com/politics/707098/maga-jeffrey-epstein-influencer-trump-bondi)<!-- TECH:END -->
+ - [Uber is close to completing its quest to become the ultimate robotaxi app](https://www.theverge.com/news/707347/uber-baidu-robotaxi-deal-autonomous-ridehail)
+ - [ICEBlock isn&amp;#8217;t &amp;#8216;completely anonymous&amp;#8217;](https://www.theverge.com/cyber-security/707116/iceblock-data-privacy-security-android-version)
+ - [Beats is throwing a weekend party with themed drinks and prizes](https://appleinsider.com/articles/25/07/15/beats-is-throwing-a-weekend-party-with-themed-drinks-and-prizes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
