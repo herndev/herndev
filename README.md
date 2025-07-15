@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On stablecoins, JP Morgan&#39;s Jamie Dimon says, &quot;We&#39;re going to be involved in both JPMorgan deposit coin and stablecoins to understand it, to be good at it&quot; &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250715/p21#a250715p21)
- - [&#39;Severance&#39; dominates 2025 Emmy Awards nominations list](https://appleinsider.com/articles/25/07/15/severance-dominates-2025-emmy-awards-nominations-list?utm_source=rss)
- - [Your OnePlus 13 Will Get a Dedicated AI &#39;Mind Space&#39; in Update Rolling Out Now](https://www.cnet.com/tech/services-and-software/your-oneplus-13-will-get-a-dedicated-ai-mind-space-in-update-rolling-out-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EmojiTracker returns to former glory to track the most popular emoji around](https://www.androidauthority.com/emojitracker-3577738/)
+ - [AirPods Pro 2 hearing support goes global with wider rollout](https://appleinsider.com/articles/25/07/15/airpods-pro-2-hearing-support-goes-global-with-wider-rollout?utm_source=rss)
+ - [Adidas now offers a laced version of its 3D-printed shoes](https://www.theverge.com/news/707699/adidas-laces-climacool-shoe-3d-printed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
