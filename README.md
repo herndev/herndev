@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Silence, ladies. Men contemplating](http://9gag.com/gag/a87Vwbd)
- - ⏩ [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
- - 👉 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)<!-- MEMES:END -->
+ - 💣 [Gary Oldman. His sisters little Mo in EastEnders](http://9gag.com/gag/ajPRdwx)
+ - ⏩ [BREAKING NEWS!!!](http://9gag.com/gag/aXPRdmP)
+ - 👉 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)<!-- MEMES:END -->
 
 ---
 
