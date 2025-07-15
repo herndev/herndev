@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump announces billions in investments to make Pennsylvania an AI hub](https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions)
- - [Users have uploaded 5,000 AI models, previously banned from Civitai for generating nonconsensual sexual content of real people, to Hugging Face &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250715/p25#a250715p25)
- - [Xbox tests letting you stream your own games on PC](https://www.theverge.com/news/707739/xbox-stream-your-own-game-pc-app)<!-- TECH:END -->
+ - [Roblox launches a licensing platform to help IP rights holders collaborate with creators, with Lionsgate, Netflix, Sega, and Kodansha as founding partners &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250715/p29#a250715p29)
+ - [Here’s why you can’t rate that system app in the Google Play Store](https://www.androidauthority.com/unratable-apps-3577833/)
+ - [Google Messages is splitting Gallery and Camera into separate options](https://www.androidauthority.com/google-messages-gallery-camera-options-3577826/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
