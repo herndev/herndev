@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EmojiTracker returns to former glory to track the most popular emoji around](https://www.androidauthority.com/emojitracker-3577738/)
- - [AirPods Pro 2 hearing support goes global with wider rollout](https://appleinsider.com/articles/25/07/15/airpods-pro-2-hearing-support-goes-global-with-wider-rollout?utm_source=rss)
- - [Adidas now offers a laced version of its 3D-printed shoes](https://www.theverge.com/news/707699/adidas-laces-climacool-shoe-3d-printed)<!-- TECH:END -->
+ - [Trump announces billions in investments to make Pennsylvania an AI hub](https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions)
+ - [Users have uploaded 5,000 AI models, previously banned from Civitai for generating nonconsensual sexual content of real people, to Hugging Face &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250715/p25#a250715p25)
+ - [Xbox tests letting you stream your own games on PC](https://www.theverge.com/news/707739/xbox-stream-your-own-game-pc-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
