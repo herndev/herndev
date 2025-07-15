@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox launches a licensing platform to help IP rights holders collaborate with creators, with Lionsgate, Netflix, Sega, and Kodansha as founding partners &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250715/p29#a250715p29)
- - [Here’s why you can’t rate that system app in the Google Play Store](https://www.androidauthority.com/unratable-apps-3577833/)
- - [Google Messages is splitting Gallery and Camera into separate options](https://www.androidauthority.com/google-messages-gallery-camera-options-3577826/)<!-- TECH:END -->
+ - [Data Centers Are &#39;AI Factories.&#39; Google and Meta Are Spending Big Bucks to Build Them](https://www.cnet.com/news/data-centers-are-ai-factories-google-and-meta-are-spending-big-bucks-to-build-them/#ftag=CAD590a51e)
+ - [A former OpenAI engineer details his experience working at the company, including its culture, engineering practices, rapid growth, and the launch of Codex &lpar;Calvin French-Owen&rpar;](http://www.techmeme.com/250715/p31#a250715p31)
+ - [Several crypto regulation bills backed by Trump fail to clear a key hurdle in the US House after 13 Republicans voted with Democrats to block the legislation &lpar;Erin Doherty/CNBC&rpar;](http://www.techmeme.com/250715/p30#a250715p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
