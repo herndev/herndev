@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Less than 6 years after it launched, John Wick Hex is being removed from sale on all storefronts later this week](https://www.pcgamer.com/games/strategy/less-than-6-years-after-it-launched-john-wick-hex-is-being-removed-from-sale-on-all-storefronts-later-this-week/)
  - [The only official John Wick game is being delisted](https://www.polygon.com/news/613065/john-wick-game-delisting-steam)
- - [How to boneless spine transfer between the courts in Tony Hawk’s Pro Skater 4](https://www.polygon.com/guides/613035/boneless-spine-transfer-between-courts-college-thps-4-tony-hawk-pro-skater)
- - [TV Report On Retro Games Absolutely Nails It](https://kotaku.com/bbc-mario-bros-nes-snes-retro-gaming-switch-2-1851786266)<!-- GAME:END -->
+ - [How to boneless spine transfer between the courts in Tony Hawk’s Pro Skater 4](https://www.polygon.com/guides/613035/boneless-spine-transfer-between-courts-college-thps-4-tony-hawk-pro-skater)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
