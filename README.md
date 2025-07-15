@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [COP BASTARD is a retro first-person shooter that&#39;s exactly as aggressively weird as you&#39;d expect from a game called COP BASTARD](https://www.pcgamer.com/games/fps/cop-bastard-is-a-retro-first-person-shooter-thats-exactly-as-aggressively-weird-as-youd-expect-from-a-game-called-cop-bastard/)
- - [A Creepy, Lore-Breaking Door In The Oblivion Remaster Has Finally Been Fixed](https://kotaku.com/creepy-dark-brotherhood-door-oblivion-remastered-1-2-pc-1851786326)
- - [Microsoft&#39;s 200 laid-off King devs are reportedly being replaced by AI they helped build, while its &#39;absolute &#39;s***show&#39; HR department looks away and whistles](https://www.pcgamer.com/gaming-industry/microsofts-200-laid-off-king-devs-are-reportedly-being-replaced-by-ai-they-helped-build-while-its-absolute-s-show-hr-department-looks-away-and-whistles/)<!-- GAME:END -->
+ - [How to hardflip the castle and fountain gap in Tony Hawk’s Pro Skater 4](https://www.polygon.com/guides/613152/thps-4-tony-hawk-pro-skater-4-hardflip-the-castle-fountain-gap)
+ - [Nintendo’s Donkey Kong team sounds increasingly bananas](https://www.polygon.com/news/613165/switch-2-donkey-kong-bananza-creation-secrets-development)
+ - [Minecraft says to hell with it, adds in-game version of Lava Chicken song, which you get by beating a chicken jockey](https://www.pcgamer.com/games/survival-crafting/minecraft-says-to-hell-with-it-adds-in-game-version-of-lava-chicken-song-which-you-get-by-beating-a-chicken-jockey/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
