@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to hardflip the castle and fountain gap in Tony Hawk’s Pro Skater 4](https://www.polygon.com/guides/613152/thps-4-tony-hawk-pro-skater-4-hardflip-the-castle-fountain-gap)
- - [Nintendo’s Donkey Kong team sounds increasingly bananas](https://www.polygon.com/news/613165/switch-2-donkey-kong-bananza-creation-secrets-development)
- - [Minecraft says to hell with it, adds in-game version of Lava Chicken song, which you get by beating a chicken jockey](https://www.pcgamer.com/games/survival-crafting/minecraft-says-to-hell-with-it-adds-in-game-version-of-lava-chicken-song-which-you-get-by-beating-a-chicken-jockey/)<!-- GAME:END -->
+ - [Marvel Rivals’ summer event skins put The Thing in a thong](https://www.polygon.com/news/613199/marvel-rivals-when-is-summer-event-the-thing-thong-luna-snow-skin)
+ - [The Last of Us Part 2’s story is just fine the way it is](https://www.polygon.com/gaming/612845/last-of-us-part-2-narrative-changes-bad)
+ - [&#39;We could have, at that point, put out a s*** game&#39;: Former Deep Silver comms boss says Dead Island 2 released 8 years late because an earlier version &#39;would have killed the franchise&#39; if it wasn&#39;t binned](https://www.pcgamer.com/games/rpg/we-could-have-at-that-point-put-out-a-s-game-former-deep-silver-comms-boss-says-dead-island-2-released-8-years-late-because-an-earlier-version-would-have-killed-the-franchise-if-it-wasnt-binned/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
