@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As if being worth $4 trillion isn&#39;t enough, Nvidia claims the US government says it can start selling AI GPUs to China again](https://www.pcgamer.com/hardware/graphics-cards/as-if-being-worth-usd4-trillion-isnt-enough-nvidia-claims-the-us-government-says-it-can-start-selling-ai-gpus-to-china-again/)
- - [Getting Donkey Kong Bananza To Run At 60FPS Was Important For Nintendo](https://kotaku.com/donkey-kong-bananza-dk-switch-2-60fps-30fps-nintendo-1851786303)
- - [9-Year-Old Visual Novel Runs Just Fine But Apple Is Booting It From The App Store Anyway](https://kotaku.com/app-store-delist-wheels-aurelia-update-saturnalia-1851786302)<!-- GAME:END -->
+ - [Xbox Insiders with Game Pass Ultimate – Stream Your Own Game on the Xbox PC app](https://news.xbox.com/en-us/2025/07/15/xbox-insiders-with-game-pass-ultimate-stream-your-own-game-on-the-xbox-pc-app/)
+ - [Escape from Tarkov begins to quietly U-turn after last week&#39;s hardcore wipe left players penniless and bored to tears with the grind](https://www.pcgamer.com/games/fps/escape-from-tarkov-begins-to-quietly-u-turn-after-last-weeks-hardcore-wipe-left-players-penniless-and-bored-to-tears-with-the-grind/)
+ - [It might give me the heebie jeebies but I can&#39;t help wanting one of these transparent power supplies to soothe my retro-starved mind](https://www.pcgamer.com/hardware/power-supplies/it-might-give-me-the-heebie-jeebies-but-i-cant-help-wanting-one-of-these-transparent-power-supplies-to-soothe-my-retro-starved-mind/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
