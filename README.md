@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gary Oldman. His sisters little Mo in EastEnders](http://9gag.com/gag/ajPRdwx)
- - ⏩ [BREAKING NEWS!!!](http://9gag.com/gag/aXPRdmP)
- - 👉 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)<!-- MEMES:END -->
+ - 💣 [Good job Man.? -100kg](http://9gag.com/gag/a6ZGxv9)
+ - ⏩ [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
+ - 👉 [Mix up.](http://9gag.com/gag/aoynnnX)<!-- MEMES:END -->
 
 ---
 
