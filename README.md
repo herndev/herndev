@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian supercharges its navigation experience with some of Google Maps’ best features](https://www.androidauthority.com/rivian-navigation-experience-google-maps-3577543/)
- - [Apple Watch sensors are so good, it could provide the first pregnancy indicators](https://appleinsider.com/articles/25/07/15/apple-watch-sensors-are-so-good-it-could-provide-the-first-pregnancy-indicators?utm_medium=rss)
- - [Remove your personal information from the internet before it becomes a threat](https://appleinsider.com/articles/25/07/15/remove-your-personal-information-from-the-internet-before-it-becomes-a-threat?utm_medium=rss)<!-- TECH:END -->
+ - [The Pro 3 is 8BitDo’s first controller with swappable buttons](https://www.theverge.com/news/706967/8bitdo-pro-3-wireless-bluetooth-controller-tmr-swappable-buttons)
+ - [Android’s screen magnifier can’t zoom the keyboard, but a fix is finally on the way](https://www.androidauthority.com/android-screen-magnifier-zoom-keyboard-3577421/)
+ - [Future Apple keyboard could have one key that can pop out and be used as a mouse](https://appleinsider.com/articles/21/08/19/future-apple-keyboard-could-have-one-key-that-can-pop-out-and-be-used-as-a-mouse?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
