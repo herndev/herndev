@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
- - ⏩ [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
- - 👉 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)<!-- MEMES:END -->
+ - 💣 [Possibly a repost](http://9gag.com/gag/aZZRzGW)
+ - ⏩ [Orks!](http://9gag.com/gag/aBy4XbO)
+ - 👉 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)<!-- MEMES:END -->
 
 ---
 
