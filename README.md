@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [If you&#39;re using an Intel 8–11th Gen CPU with a Gigabyte motherboard, update your BIOS to protect from a newly discovered vulnerability](https://www.pcgamer.com/hardware/motherboards/if-youre-using-an-intel-8-11th-gen-cpu-with-a-gigabyte-motherboard-update-your-bios-to-protect-from-a-newly-discovered-vulnerability/)
  - [The Lenovo Legion Go S SteamOS finally has joystick RGB lighting support, but the most annoying issue still isn&#39;t fixed](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-lenovo-legion-go-s-steamos-finally-has-joystick-rgb-lighting-support-but-the-most-annoying-issue-still-isnt-fixed/)
- - [Crucial 128 GB DDR5-6400 CUDIMM review](https://www.pcgamer.com/hardware/memory/crucial-128-gb-ddr5-6400-cudimm-review/)
- - [This aerospike rocket engine designed by generative AI just completed its first hot fire test](https://www.pcgamer.com/hardware/this-aerospike-rocket-engine-designed-by-generative-ai-just-completed-its-first-hot-fire-test/)<!-- GAME:END -->
+ - [Crucial 128 GB DDR5-6400 CUDIMM review](https://www.pcgamer.com/hardware/memory/crucial-128-gb-ddr5-6400-cudimm-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
