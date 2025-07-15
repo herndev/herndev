@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
- - ⏩ [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
- - 👉 [It&#39;s genetics](http://9gag.com/gag/axymPEW)<!-- MEMES:END -->
+ - 💣 [Why so British???](http://9gag.com/gag/aQzyV82)
+ - ⏩ [Another hero](http://9gag.com/gag/a34NNgv)
+ - 👉 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)<!-- MEMES:END -->
 
 ---
 
