@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s pocket-sized RX1R camera returns with its first update in 10 years](https://www.theverge.com/news/707589/sony-rx1r-iii-digital-compact-pocket-camera)
- - [Researchers demonstrate a Rowhammer-style attack on Nvidia&#39;s RTX A6000, widely used in cloud services, and say it would likely work against other Nvidia GPUs &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250715/p19#a250715p19)
- - [Our biggest questions about ChromeOS and Android merging](https://www.theverge.com/google/707041/google-chromeos-android-os-merger-questions-phones-chromebooks-laptops-tablets)<!-- TECH:END -->
+ - [On stablecoins, JP Morgan&#39;s Jamie Dimon says, &quot;We&#39;re going to be involved in both JPMorgan deposit coin and stablecoins to understand it, to be good at it&quot; &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250715/p21#a250715p21)
+ - [&#39;Severance&#39; dominates 2025 Emmy Awards nominations list](https://appleinsider.com/articles/25/07/15/severance-dominates-2025-emmy-awards-nominations-list?utm_source=rss)
+ - [Your OnePlus 13 Will Get a Dedicated AI &#39;Mind Space&#39; in Update Rolling Out Now](https://www.cnet.com/tech/services-and-software/your-oneplus-13-will-get-a-dedicated-ai-mind-space-in-update-rolling-out-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
