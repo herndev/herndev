@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
- - ⏩ [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
- - 👉 [110K lumen&#39;s discipline](http://9gag.com/gag/aE0ZQ1O)<!-- MEMES:END -->
+ - 💣 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
+ - ⏩ [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
+ - 👉 [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)<!-- MEMES:END -->
 
 ---
 
