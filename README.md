@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researcher: a DOGE staffer inadvertently published a private API key for xAI on GitHub on July 13, exposing access to 52+ LLMs, including &quot;grok-4-0709&quot; &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250715/p4#a250715p4)
- - [Google’s Discover feed may be getting an AI feature no one asked for](https://www.androidauthority.com/google-discover-feed-ai-summaries-3577521/)
- - [The US Commerce Department opens national security probes into imports of unmanned aircraft systems and polysilicon supply chains, used in chip manufacturing &lpar;Financial Times&rpar;](http://www.techmeme.com/250715/p3#a250715p3)<!-- TECH:END -->
+ - [Folding iPhone may use Samsung&#39;s crease-proof screen instead of custom Apple design](https://appleinsider.com/articles/25/07/15/folding-iphone-may-use-samsungs-crease-proof-screen-instead-of-custom-apple-design?utm_medium=rss)
+ - [Google signs two 20-year power purchase agreements worth $3B to access hydroelectric power from Brookfield&#39;s renewables arm, delivering up to 670MW of power &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/250715/p8#a250715p8)
+ - [Nextdoor unveils new features like an interactive neighborhood map called Alerts, partners with 3,500+ local news outlets, and more, to revitalize its app &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250715/p7#a250715p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
