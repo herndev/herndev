@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NZXT Discount Codes: 50% Off](https://www.wired.com/story/nzxt-discount-code/)
- - [Peacock Promo Code &amp; Deals: 16% Off July 2025](https://www.wired.com/story/peacock-promo-code/)
- - [Google Keep could finally add the search option you’ve wanted for years &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-search-single-note-3577454/)<!-- TECH:END -->
+ - [Alibaba is putting $7B in Taobao promotions as JD.com invests $1.4B to grow food delivery, with both offering discounts to become China&#39;s leading &quot;everyday app&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250715/p1#a250715p1)
+ - [The Galaxy S25 FE might outpace the base S25 in one key area](https://www.androidauthority.com/samsung-galaxy-s25-fe-charging-speed-leak-3577469/)
+ - [Samsung says S Pen could return to foldables after Galaxy Z Fold 7 snub](https://www.androidauthority.com/samsung-s-pen-support-foldable-phones-3577467/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
