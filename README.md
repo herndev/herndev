@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic launches Claude for Financial Services, aiming to help analysts conduct market research and handle due diligence, with data from FactSet and others &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250715/p9#a250715p9)
- - [EU backs down on Big Tech tax ahead of US trade deal](https://appleinsider.com/articles/25/07/15/eu-backs-down-on-big-tech-tax-ahead-of-us-trade-deal?utm_medium=rss)
- - [Our Favorite Bottle Washers for Keeping Your Baby Bottles Safe and Clean &lpar;2025&rpar;](https://www.wired.com/gallery/best-bottle-washers/)<!-- TECH:END -->
+ - [Investigation: Microsoft uses engineers in China to help maintain US DOD systems, with minimal supervision by US personnel, leaving sensitive data vulnerable &lpar;ProPublica&rpar;](http://www.techmeme.com/250715/p12#a250715p12)
+ - [Pixel 10 series FCC filing confirms connectivity features, hints at Samsung modem](https://www.androidauthority.com/pixel-10-series-fcc-filing-3577549/)
+ - [Motorola teases Swarovski-studded Razr, but all I want is the return of the D&amp;G collab](https://www.androidauthority.com/moto-razr-swarovski-2025-launch-date-3577488/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
