@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba is putting $7B in Taobao promotions as JD.com invests $1.4B to grow food delivery, with both offering discounts to become China&#39;s leading &quot;everyday app&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250715/p1#a250715p1)
- - [The Galaxy S25 FE might outpace the base S25 in one key area](https://www.androidauthority.com/samsung-galaxy-s25-fe-charging-speed-leak-3577469/)
- - [Samsung says S Pen could return to foldables after Galaxy Z Fold 7 snub](https://www.androidauthority.com/samsung-s-pen-support-foldable-phones-3577467/)<!-- TECH:END -->
+ - [PitchBook: US startup funding surged 75.6% YoY in H1 2025 to $162.8B, strongest since H1 2021, driven by the AI boom and on track for the second-best year ever &lpar;Reuters&rpar;](http://www.techmeme.com/250715/p2#a250715p2)
+ - [Is Nano-Hydroxyapatite Toothpaste an Effective Fluoride Alternative? Dentists Weigh In](https://www.cnet.com/health/personal-care/is-nano-hydroxyapatite-toothpaste-effective-fluoride-alternative-dentists-weigh-in/#ftag=CAD590a51e)
+ - [Alibaba is putting $7B in Taobao promotions as JD.com invests $1.4B to grow food delivery, with both offering discounts to become China&#39;s leading &quot;everyday app&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250715/p1#a250715p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
