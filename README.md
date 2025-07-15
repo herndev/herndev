@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Superman commits the sin that set off endless fights over Zack Snyder’s Man of Steel](https://www.polygon.com/dc/613031/does-superman-kill-2025-movie-james-gunn)
- - [Coming to Game Pass: Grounded 2 &lpar;Game Preview&rpar;, Wuchang: Fallen Feathers, Farming Simulator 25, and More](https://news.xbox.com/en-us/2025/07/15/xbox-game-pass-july-2025-wave-2/)
- - [Major Nintendo Switch Piracy Website Blamed For $170 Million In Lost Game Sales Seized By FBI [Update]](https://kotaku.com/switch-2-piracy-nsw2u-roms-fbi-hack-emulator-zelda-1851786034)<!-- GAME:END -->
+ - [There&#39;s A Life-Size Pikachu Statue, But It&#39;ll Cost Ya](https://kotaku.com/pokemon-pikachu-statue-figure-life-size-sideshow-1851786279)
+ - [All Blue Archive codes and how to redeem them](https://www.pcgamer.com/games/strategy/blue-archive-codes/)
+ - [Persona 5 Gacha Players Review Bomb The Game After Accelerated Schedule Comes With Worse Rewards](https://kotaku.com/persona-5-phantom-x-rewards-china-compare-review-bomb-1851786295)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
