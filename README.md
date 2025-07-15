@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Folding iPhone may use Samsung&#39;s crease-proof screen instead of custom Apple design](https://appleinsider.com/articles/25/07/15/folding-iphone-may-use-samsungs-crease-proof-screen-instead-of-custom-apple-design?utm_medium=rss)
- - [Google signs two 20-year power purchase agreements worth $3B to access hydroelectric power from Brookfield&#39;s renewables arm, delivering up to 670MW of power &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/250715/p8#a250715p8)
- - [Nextdoor unveils new features like an interactive neighborhood map called Alerts, partners with 3,500+ local news outlets, and more, to revitalize its app &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250715/p7#a250715p7)<!-- TECH:END -->
+ - [Anthropic launches Claude for Financial Services, aiming to help analysts conduct market research and handle due diligence, with data from FactSet and others &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250715/p9#a250715p9)
+ - [EU backs down on Big Tech tax ahead of US trade deal](https://appleinsider.com/articles/25/07/15/eu-backs-down-on-big-tech-tax-ahead-of-us-trade-deal?utm_medium=rss)
+ - [Our Favorite Bottle Washers for Keeping Your Baby Bottles Safe and Clean &lpar;2025&rpar;](https://www.wired.com/gallery/best-bottle-washers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
