@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why so British???](http://9gag.com/gag/aQzyV82)
- - ⏩ [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
- - 👉 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)<!-- MEMES:END -->
+ - 💣 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
+ - ⏩ [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
+ - 👉 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)<!-- MEMES:END -->
 
 ---
 
