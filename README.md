@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good job Man.? -100kg](http://9gag.com/gag/a6ZGxv9)
- - ⏩ [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
- - 👉 [Mix up.](http://9gag.com/gag/aoynnnX)<!-- MEMES:END -->
+ - 💣 [What a holiday.](http://9gag.com/gag/aO8ppGr)
+ - ⏩ [Dexter&#39;s mom alone makes it worth it](http://9gag.com/gag/aBy4oRO)
+ - 👉 [Not on my Bingo card](http://9gag.com/gag/aRBRDEA)<!-- MEMES:END -->
 
 ---
 
