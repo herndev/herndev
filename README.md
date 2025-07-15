@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Adds Jack Black&#39;s Lava Chicken Song, But You Gotta Do Something Special To Get It](https://kotaku.com/minecraft-movie-lava-chicken-jockey-easter-egg-game-1851786345)
- - [Treasonous Helldivers 2 players are weaponizing the Super Earth flag to crash the game for everyone but them](https://www.pcgamer.com/games/third-person-shooter/treasonous-helldivers-2-players-are-weaponizing-the-super-earth-flag-to-crash-the-game-for-everyone-but-them/)
- - [Making space for multiplayer in the Nintendo Switch 2’s world](https://www.polygon.com/nintendo-switch-2/613231/local-co-op-multiplayer-friendship-mario-kart-world)<!-- GAME:END -->
+ - [Cyberpunk 2077&#39;s New Patch May Fix One Of The Game&#39;s Biggest Annoyances Five Years Later](https://kotaku.com/cyberpunk-2077-2-3-update-patch-stream-autopilot-cars-1851786358)
+ - [All hired hero locations in Fortnite Chapter 6 Season 3](https://www.polygon.com/fortnite-guide/613254/hired-hero-locations-c6s3-super)
+ - [Destiny 2 Hits Fans With A Nostalgia Bomb As Soon As They Start The Newest Expansion](https://kotaku.com/destiny-2-edge-fate-menu-music-d1-bungie-1851786347)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
