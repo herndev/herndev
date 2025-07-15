@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
- - ⏩ [What a holiday.](http://9gag.com/gag/aO8ppGr)
- - 👉 [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)<!-- MEMES:END -->
+ - 💣 [Another hero](http://9gag.com/gag/a34NNgv)
+ - ⏩ [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
+ - 👉 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)<!-- MEMES:END -->
 
 ---
 
