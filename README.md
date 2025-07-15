@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at SpaceX&#39;s investment and Tesla&#39;s potential cash infusion in xAI and the idea that investing in Tesla is betting on the &quot;Musk Mars Conglomerate&quot; &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250714/p32#a250714p32)
  - [Deal: Anker SOLIX EverFrost 2 40L Smart Cooler hits new record-low price!](https://www.androidauthority.com/anker-solix-everfrost-2-40l-smart-cooler-deal-3577399/)
- - [Reddit says it has started verifying UK users&#39; ages before letting them &quot;view certain mature content&quot;, in order to comply with the country&#39;s Online Safety Act &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250714/p31#a250714p31)
- - [Pre-order Samsung Galaxy Watch 8 and get a free $50 gift card!](https://www.androidauthority.com/samsung-galaxy-watch-8-pre-order-deal-3577400/)<!-- TECH:END -->
+ - [Reddit says it has started verifying UK users&#39; ages before letting them &quot;view certain mature content&quot;, in order to comply with the country&#39;s Online Safety Act &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250714/p31#a250714p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
