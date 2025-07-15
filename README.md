@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another hero](http://9gag.com/gag/a34NNgv)
- - ⏩ [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
- - 👉 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)<!-- MEMES:END -->
+ - 💣 [Why so British???](http://9gag.com/gag/aQzyV82)
+ - ⏩ [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
+ - 👉 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)<!-- MEMES:END -->
 
 ---
 
