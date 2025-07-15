@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
- - ⏩ [Dna activated](http://9gag.com/gag/azx4YLK)
- - 👉 [Star Wars](http://9gag.com/gag/aE0ZXLe)<!-- MEMES:END -->
+ - 💣 [Why so British???](http://9gag.com/gag/aQzyV82)
+ - ⏩ [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
+ - 👉 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)<!-- MEMES:END -->
 
 ---
 
