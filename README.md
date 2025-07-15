@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber is close to completing its quest to become the ultimate robotaxi app](https://www.theverge.com/news/707347/uber-baidu-robotaxi-deal-autonomous-ridehail)
- - [ICEBlock isn&amp;#8217;t &amp;#8216;completely anonymous&amp;#8217;](https://www.theverge.com/cyber-security/707116/iceblock-data-privacy-security-android-version)
- - [Beats is throwing a weekend party with themed drinks and prizes](https://appleinsider.com/articles/25/07/15/beats-is-throwing-a-weekend-party-with-themed-drinks-and-prizes?utm_source=rss)<!-- TECH:END -->
+ - [Sony’s pocket-sized RX1R camera returns with its first update in 10 years](https://www.theverge.com/news/707589/sony-rx1r-iii-digital-compact-pocket-camera)
+ - [Researchers demonstrate a Rowhammer-style attack on Nvidia&#39;s RTX A6000, widely used in cloud services, and say it would likely work against other Nvidia GPUs &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250715/p19#a250715p19)
+ - [Our biggest questions about ChromeOS and Android merging](https://www.theverge.com/google/707041/google-chromeos-android-os-merger-questions-phones-chromebooks-laptops-tablets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
