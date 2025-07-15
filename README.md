@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch 4 battery upgrade is coming, but don’t expect magic](https://www.androidauthority.com/pixel-watch-4-battery-3577168/)
- - [Can Nextdoor overhaul itself to be useful?](https://www.theverge.com/news/706618/nextdoor-redesign-ai-recommendations-local-news-emergency-alerts)
- - [Samsung is thinking about Galaxy phones with built-in magnets, no wired charging](https://www.androidauthority.com/samsung-qi-2-magnets-phones-3577489/)<!-- TECH:END -->
+ - [Researcher: a DOGE staffer inadvertently published a private API key for xAI on GitHub on July 13, exposing access to 52+ LLMs, including &quot;grok-4-0709&quot; &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250715/p4#a250715p4)
+ - [Google’s Discover feed may be getting an AI feature no one asked for](https://www.androidauthority.com/google-discover-feed-ai-summaries-3577521/)
+ - [The US Commerce Department opens national security probes into imports of unmanned aircraft systems and polysilicon supply chains, used in chip manufacturing &lpar;Financial Times&rpar;](http://www.techmeme.com/250715/p3#a250715p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
