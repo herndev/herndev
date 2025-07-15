@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
+ - 💣 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
  - ⏩ [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
- - 👉 [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)<!-- MEMES:END -->
+ - 👉 [What a holiday.](http://9gag.com/gag/aO8ppGr)<!-- MEMES:END -->
 
 ---
 
