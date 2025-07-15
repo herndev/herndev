@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - ⏩ [Why so British???](http://9gag.com/gag/aQzyV82)
- - 👉 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)<!-- MEMES:END -->
+ - 💣 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
+ - ⏩ [Dna activated](http://9gag.com/gag/azx4YLK)
+ - 👉 [Star Wars](http://9gag.com/gag/aE0ZXLe)<!-- MEMES:END -->
 
 ---
 
