@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What friends are for](http://9gag.com/gag/aXPRenb)
- - ⏩ [King Kong climbing the Empire State Building again, but this time with drones](http://9gag.com/gag/a7onp7L)
- - 👉 [Someone did this on the street!](http://9gag.com/gag/aBy4XQQ)<!-- MEMES:END -->
+ - 💣 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
+ - ⏩ [What a holiday.](http://9gag.com/gag/aO8ppGr)
+ - 👉 [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)<!-- MEMES:END -->
 
 ---
 
