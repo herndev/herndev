@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077&#39;s New Patch May Fix One Of The Game&#39;s Biggest Annoyances Five Years Later](https://kotaku.com/cyberpunk-2077-2-3-update-patch-stream-autopilot-cars-1851786358)
- - [All hired hero locations in Fortnite Chapter 6 Season 3](https://www.polygon.com/fortnite-guide/613254/hired-hero-locations-c6s3-super)
- - [Destiny 2 Hits Fans With A Nostalgia Bomb As Soon As They Start The Newest Expansion](https://kotaku.com/destiny-2-edge-fate-menu-music-d1-bungie-1851786347)<!-- GAME:END -->
+ - [The Second-Best Deus Ex Is Stupid Cheap &lpar;And DRM-Free&rpar;, But Hurry](https://kotaku.com/deus-ex-human-revolution-gog-drm-sale-1851786362)
+ - [You Probably Won&#39;t Survive In Dune: Awakening If You Don&#39;t Pay Your Taxes](https://kotaku.com/dune-awakening-tax-ornithopter-fuel-cell-arrakeen-harko-1851786325)
+ - [Our favorite 1v1 FPS just became our favorite 2v2 FPS, and you can still play it for the low price of free](https://www.pcgamer.com/games/fps/our-favorite-1v1-fps-just-became-our-favorite-2v2-fps-and-you-can-still-play-it-for-the-low-price-of-free/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
