@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s new Nova Lake CPU is reportedly being made on TSMC N2 right now, pointing to a hybric 18A node and late 2026 launch](https://www.pcgamer.com/hardware/intels-new-nova-lake-cpu-is-reportedly-being-made-on-tsmc-n2-right-now-pointing-to-a-hybric-18a-node-and-late-2026-launch/)
- - [Can Feebas be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23987678/can-feebas-be-shiny-milotic)
- - [What time does Donkey Kong Bananza release?](https://www.polygon.com/donkey-kong-bananza-guides-dk/612961/release-time-date-edt-pdt-preload-preorder)<!-- GAME:END -->
+ - [Nintendo banned a Switch 2 user for playing second-hand games and only reinstated after providing proof of purchase](https://www.pcgamer.com/hardware/nintendo-banned-a-switch-2-user-for-playing-second-hand-games-and-only-reinstated-after-providing-proof-of-purchase/)
+ - [AMD partner retailer leaks Threadripper 9000-series preorder details - they start next week with prices looking between $1,600 and $13,000](https://www.pcgamer.com/hardware/amd-partner-retailer-leaks-threadripper-9000-series-preorder-details-they-start-next-week-with-prices-looking-between-usd1-600-and-usd13-000/)
+ - [Intel&#39;s new Nova Lake CPU is reportedly being made on TSMC N2 right now, pointing to a hybric 18A node and late 2026 launch](https://www.pcgamer.com/hardware/intels-new-nova-lake-cpu-is-reportedly-being-made-on-tsmc-n2-right-now-pointing-to-a-hybric-18a-node-and-late-2026-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
