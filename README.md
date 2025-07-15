@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why so British???](http://9gag.com/gag/aQzyV82)
- - ⏩ [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
- - 👉 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)<!-- MEMES:END -->
+ - 💣 [What friends are for](http://9gag.com/gag/aXPRenb)
+ - ⏩ [King Kong climbing the Empire State Building again, but this time with drones](http://9gag.com/gag/a7onp7L)
+ - 👉 [Someone did this on the street!](http://9gag.com/gag/aBy4XQQ)<!-- MEMES:END -->
 
 ---
 
