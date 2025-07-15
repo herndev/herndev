@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NZXT Discount Codes: 50% Off](https://www.wired.com/story/nzxt-discount-code/)
  - [Peacock Promo Code &amp; Deals: 16% Off July 2025](https://www.wired.com/story/peacock-promo-code/)
- - [Google Keep could finally add the search option you’ve wanted for years &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-search-single-note-3577454/)
- - [Sony phones are disappearing across key markets: Is the Xperia era coming to an end?](https://www.androidauthority.com/sony-smartphone-market-europe-exit-3577449/)<!-- TECH:END -->
+ - [Google Keep could finally add the search option you’ve wanted for years &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-search-single-note-3577454/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
