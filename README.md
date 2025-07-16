@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
- - ⏩ [A classic is what it is.](http://9gag.com/gag/aXPReXd)
- - 👉 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)<!-- MEMES:END -->
+ - 💣 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
+ - ⏩ [A wholesome post.](http://9gag.com/gag/aRBR9D2)
+ - 👉 [Another hero](http://9gag.com/gag/a34NNgv)<!-- MEMES:END -->
 
 ---
 
