@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - ⏩ [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - 👉 [OPs confession](http://9gag.com/gag/ary89Nd)<!-- MEMES:END -->
+ - 💣 [I wonder why](http://9gag.com/gag/a87Vzv1)
+ - ⏩ [Strong independent woman](http://9gag.com/gag/aPArz7B)
+ - 👉 [110K lumen&#39;s discipline](http://9gag.com/gag/aE0ZQ1O)<!-- MEMES:END -->
 
 ---
 
