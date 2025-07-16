@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Anker SOLIX F3800 Plus Power Station price lower than ever!](https://www.androidauthority.com/anker-solix-f3800-plus-portable-power-station-deal-3577868/)
- - [The DOJ says ex-Army soldier Cameron John Wagenius pleaded guilty to hacking over 10 telcos and to extortion; in February, he admitted hacking AT&amp;T and Verizon &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250715/p34#a250715p34)
- - [Now Microsoft&amp;#8217;s Copilot Vision AI can scan everything on your screen](https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop)<!-- TECH:END -->
+ - [Hot deal: Apple MacBook Air M2 drops to a mere $699!](https://www.androidauthority.com/apple-macbook-air-m2-deal-15-3577867/)
+ - [Source: OpenAI is preparing ChatGPT agents to let users create files compatible with PowerPoint and Excel, generate reports, and handle tasks involving websites &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250715/p35#a250715p35)
+ - [Deal: Anker SOLIX F3800 Plus Power Station price lower than ever!](https://www.androidauthority.com/anker-solix-f3800-plus-portable-power-station-deal-3577868/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
