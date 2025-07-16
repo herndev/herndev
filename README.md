@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Chile-led Latam-GPT project, which involves 30+ Latin American and Caribbean institutions collaborating to release an open-source LLM in September &lpar;Cristián Vera-Cruz/Rest of World&rpar;](http://www.techmeme.com/250716/p9#a250716p9)
- - [Team AA: Here are our favorite phone wallpapers](https://www.androidauthority.com/team-aa-favorite-wallpapers-3572374/)
- - [Your favorite wallpaper app is prettier than ever thanks to its Material 3 Expressive update](https://www.androidauthority.com/backdrops-wallpaper-app-material-3-expressive-update-3577927/)<!-- TECH:END -->
+ - [Google brings yet another change to Gboard’s emoji picker](https://www.androidauthority.com/gboard-emoji-gif-picker-design-update-3577923/)
+ - [The deluge of faster Qi2.2 wireless chargers is here](https://www.theverge.com/news/708060/qi-2-2-certification-25w-wpc-belkin-anker-ugreen-aukey)
+ - [Analysis: 7,818 titles on Steam disclose generative AI usage, or 7% of Steam&#39;s total library of 114,126 games, up from ~1,000 titles in April 2024 &lpar;Ichiro Lambe/Totally Human Media&rpar;](http://www.techmeme.com/250716/p12#a250716p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
