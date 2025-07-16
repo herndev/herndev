@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: Apple MacBook Air M2 drops to a mere $699!](https://www.androidauthority.com/apple-macbook-air-m2-deal-15-3577867/)
- - [Source: OpenAI is preparing ChatGPT agents to let users create files compatible with PowerPoint and Excel, generate reports, and handle tasks involving websites &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250715/p35#a250715p35)
- - [Deal: Anker SOLIX F3800 Plus Power Station price lower than ever!](https://www.androidauthority.com/anker-solix-f3800-plus-portable-power-station-deal-3577868/)<!-- TECH:END -->
+ - [Resume Builder survey of 1,342 managers in the US: 60% say they rely on AI to make personnel decisions, 78% of which use the tech in deciding raises &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250715/p36#a250715p36)
+ - [Take the Google 45W Power Charger home for just $24.99](https://www.androidauthority.com/google-45w-usb-c-power-charger-deal-3577866/)
+ - [Hot deal: Apple MacBook Air M2 drops to a mere $699!](https://www.androidauthority.com/apple-macbook-air-m2-deal-15-3577867/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
