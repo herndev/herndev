@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another hero](http://9gag.com/gag/a34NNgv)
- - ⏩ [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)
- - 👉 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)<!-- MEMES:END -->
+ - 💣 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
+ - ⏩ [A classic is what it is.](http://9gag.com/gag/aXPReXd)
+ - 👉 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)<!-- MEMES:END -->
 
 ---
 
