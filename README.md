@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A classic is what it is.](http://9gag.com/gag/aXPReXd)
- - ⏩ [What do you think](http://9gag.com/gag/aE0ZNnp)
- - 👉 [Wife swap S12E02](http://9gag.com/gag/aD2QNeZ)<!-- MEMES:END -->
+ - 💣 [Another hero](http://9gag.com/gag/a34NNgv)
+ - ⏩ [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)
+ - 👉 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)<!-- MEMES:END -->
 
 ---
 
