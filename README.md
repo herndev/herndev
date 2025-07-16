@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [State of the UK](http://9gag.com/gag/a4PwWrv)
- - ⏩ [I wonder why](http://9gag.com/gag/a87Vzv1)
- - 👉 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)<!-- MEMES:END -->
+ - 💣 [Kaboom Rico...](http://9gag.com/gag/a4Pwwo6)
+ - ⏩ [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - 👉 [If you want to visit London, learn Pakistani.](http://9gag.com/gag/aBy44zP)<!-- MEMES:END -->
 
 ---
 
