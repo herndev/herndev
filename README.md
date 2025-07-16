@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Galaxy Tab S11 Ultra render shows off bezels so thin, Samsung had to use a waterdrop notch](https://www.androidauthority.com/samsung-galaxy-tab-s11-ultra-s25-fe-leaked-render-3578010/)
- - [Forget copyright strikes, a retro gaming YouTuber faces jail time for reviewing gaming handhelds](https://www.androidauthority.com/once-were-nerd-youtuber-copyright-lawsuit-3577995/)
- - [Nintendo&amp;#8217;s Zelda movie has found its princess and hero of time](https://www.theverge.com/nintendo/708143/nintendo-zelda-movie-casting-bo-bragason-benjamin-evan-ainsworth)<!-- TECH:END -->
+ - [Former Top Google Researchers Have Made A New Kind of AI Agent](https://www.wired.com/story/former-top-google-researchers-have-made-a-new-kind-of-ai-agent/)
+ - [How Knox Morris went from TikToker to rock star](https://www.theverge.com/music/701539/how-knox-morris-turned-tiktok-virality-into-a-national-tour)
+ - [Why I love my Apple EarPods](https://www.theverge.com/tech/704616/apple-earpods-favorites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
