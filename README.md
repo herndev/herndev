@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Content, New Looks, and Movie Tie-Ins: Minecraft Is More Lively Than Ever This Summer](https://news.xbox.com/en-us/2025/07/16/minecraft-updates-summer-2025/)
- - [Neverwinter Nights 2: Enhanced Edition just makes me want to play Baldur&amp;#8217;s Gate 3 again](https://www.polygon.com/gaming/613266/neverwinter-nights-2-enhanced-edition-baldurs-gate-3)
- - [How to solve each mystery in Destiny 2: The Edge of Fate](https://www.pcgamer.com/games/fps/destiny-2-mystery-ability-chests/)<!-- GAME:END -->
+ - [We Talk, Shoot, and Sneak Our Way Through The Outer Worlds 2](https://news.xbox.com/en-us/2025/07/16/we-talk-shoot-and-sneak-the-outer-worlds-2/)
+ - [EU-commissioned study on generative AI and copyright suggests overturning the current opt-out approach that &#39;effectively treats silence as consent&#39;](https://www.pcgamer.com/software/ai/eu-commissioned-study-on-generative-ai-and-copyright-suggests-overturning-the-current-opt-out-approach-that-effectively-treats-silence-as-consent/)
+ - [Musk&#39;s Grok AI Follows Up &#39;MechaHitler&#39; With Anime Goth Waifu And Red Panda That Wants To Teabag Everything In Sight](https://kotaku.com/supergrok-ai-ani-rudi-chad-companion-waifu-nazi-1851786393)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
