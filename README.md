@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: in the past year, ~75% of S&amp;P 500-listed firms have updated their official risk disclosures to detail or expand upon mentions of AI-related risk factors &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/250715/p37#a250715p37)
- - [Wallpaper Engine doesn&#39;t exist on Mac, but there are alternatives](https://appleinsider.com/inside/macos/best/wallpaper-engine-doesnt-exist-on-mac-but-there-are-alternatives?utm_source=rss)
- - [Another High-Profile OpenAI Researcher Departs for Meta](https://www.wired.com/story/jason-wei-open-ai-meta/)<!-- TECH:END -->
+ - [Sources: OpenAI researcher Jason Wei, who worked on o3 and deep research models, and his colleague Hyung Won Chung are joining Meta&#39;s new superintelligence lab &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250716/p2#a250716p2)
+ - [Chewy Promo Codes: $20 Off | July 2025](https://www.wired.com/story/chewy-promo-code/)
+ - [Jensen Huang hailed AI models from DeepSeek, Alibaba, and Tencent as &quot;world class&quot; at a Beijing expo and said US licenses for H20 chips &quot;will come very fast&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250716/p1#a250716p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
