@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Avowed update basically reinvents the fighter and ranger classes, while also adding new weapons and better Steam Deck optimization](https://www.pcgamer.com/games/rpg/avowed-update-basically-reinvents-the-fighter-and-ranger-classes-while-also-adding-new-weapons-and-better-steam-deck-optimization/)
  - [PlayStation’s Summer Sale arrives on July 16](https://blog.playstation.com/2025/07/15/playstations-summer-sale-arrives-on-july-16/)
- - [PlayStation’s Summer Sale arrives on July 16](https://blog.playstation.com/2025/07/15/playstations-summer-sale-arrives-on-july-16/)
- - [Bungie says it&#39;s &#39;actively re-recording&#39; some voice lines for Destiny 2: The Edge of Fate after fans notice one of the game&#39;s best-known heroes suddenly sounds like one of its most notorious villains](https://www.pcgamer.com/games/fps/bungie-says-its-actively-re-recording-some-voice-lines-for-destiny-2-the-edge-of-fate-after-fans-notice-one-of-the-games-best-known-heroes-suddenly-sounds-like-one-of-its-most-notorious-villains/)<!-- GAME:END -->
+ - [PlayStation’s Summer Sale arrives on July 16](https://blog.playstation.com/2025/07/15/playstations-summer-sale-arrives-on-july-16/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
