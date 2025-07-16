@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA FC 26&#39;s Reveal Trailer Is Just EA Responding To All Your Complaints](https://kotaku.com/fc-26-fifa-trailer-reveal-complaints-soccer-ea-sports-1851786431)
- - [Seven months after putting Johnny Silverhand in your car, Cyberpunk 2077&#39;s latest update will let you kick him out](https://www.pcgamer.com/games/rpg/seven-months-after-putting-johnny-silverhand-in-your-car-cyberpunk-2077s-latest-update-will-let-you-kick-him-out/)
- - [Cyberpunk 2077 update new modes, but Switch 2 players will have to wait](https://www.polygon.com/gaming/613442/cyberpunk-2077-2-3-update-patch-notes)<!-- GAME:END -->
+ - [Subnautica 2 Studio Founders Break Silence On Controversial Delay And Firings In New Lawsuit](https://kotaku.com/subnautica-2-lawsuit-krafton-unknown-worlds-delay-1851786439)
+ - [Superman and the DC heroes will duke it out in their own Mortal Kombat this fall](https://www.polygon.com/comics/613458/superman-and-the-dc-heroes-will-duke-it-out-in-their-own-mortal-kombat-this-fall)
+ - [The Studio Behind Oblivion Remastered, One Of 2025&#39;s Biggest Hits, Is Reportedly Laying Off 300 People](https://kotaku.com/oblivion-remastered-virtuos-layoffs-cyberpunk-patch-1851786435)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
