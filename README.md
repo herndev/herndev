@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Subnautica 2 Studio Founders Break Silence On Controversial Delay And Firings In New Lawsuit](https://kotaku.com/subnautica-2-lawsuit-krafton-unknown-worlds-delay-1851786439)
- - [Superman and the DC heroes will duke it out in their own Mortal Kombat this fall](https://www.polygon.com/comics/613458/superman-and-the-dc-heroes-will-duke-it-out-in-their-own-mortal-kombat-this-fall)
- - [The Studio Behind Oblivion Remastered, One Of 2025&#39;s Biggest Hits, Is Reportedly Laying Off 300 People](https://kotaku.com/oblivion-remastered-virtuos-layoffs-cyberpunk-patch-1851786435)<!-- GAME:END -->
+ - [Biggest Chess Site In The World Bans 100,000 Accounts A Month For Cheating](https://kotaku.com/chess-cheaters-100k-banned-monthly-chess-com-anal-beads-1851786443)
+ - [John Malkovich cut from Fantastic Four after Marvel scrapped him on Spider-Man 4](https://www.polygon.com/marvel/613511/john-malkovich-cut-fantastic-four-spider-man-vulture)
+ - [Umamusume players are engaging in unhinged summoning rituals to enlist the aid of Egyptian gods and biblically accurate angels for the release of a really good horse card](https://www.pcgamer.com/games/sim/umamusume-players-are-engaging-in-unhinged-summoning-rituals-to-enlist-the-aid-of-egyptian-gods-and-biblically-accurate-angels-for-the-release-of-a-really-good-horse-card/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
