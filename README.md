@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says its Big Sleep AI agent for finding unknown software vulnerabilities recently discovered a critical SQLite flaw that &quot;was at risk of being exploited&quot; &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250716/p6#a250716p6)
- - [Gmail now makes setting up an appointment much easier for everyone](https://www.androidauthority.com/gmail-appointment-scheduling-release-3577894/)
- - [ASML reports Q2 net sales of €7.7B, net income of €2.29B, and net bookings of €5.5B vs. €4.19B est., with tariffs having a &quot;less negative&quot; impact than expected &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250716/p5#a250716p5)<!-- TECH:END -->
+ - [Google is blessing older Wear OS watches with Gemini, check if your smartwatch is eligible](https://www.androidauthority.com/gemini-available-wear-os-smartwatches-3577907/)
+ - [&#39;The Summer I Turned Pretty&#39; Is Back: How to Watch Belly, Conrad and Jeremiah&#39;s Final Season](https://www.cnet.com/tech/services-and-software/the-summer-i-turned-pretty-is-back-how-to-watch-belly-conrad-and-jeremiahs-final-season/#ftag=CAD590a51e)
+ - [Google says its Big Sleep AI agent for finding unknown software vulnerabilities recently discovered a critical SQLite flaw that &quot;was at risk of being exploited&quot; &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250716/p6#a250716p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
