@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
- - ⏩ [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
- - 👉 [What a holiday.](http://9gag.com/gag/aO8ppGr)<!-- MEMES:END -->
+ - ⏩ [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
+ - 👉 [This is too real. Why do naps hit different with the skin marks?](http://9gag.com/gag/aGy7OnZ)<!-- MEMES:END -->
 
 ---
 
