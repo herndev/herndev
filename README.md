@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2&#39;s New Metroid Ball Mechanic Might Be The Worst Thing It&#39;s Ever Added](https://kotaku.com/destiny-2-edge-fate-matterspark-kelper-metroid-ball-1851786415)
- - [Ubisoft CEO Makes His Son Co-CEO Of New Ubisoft](https://kotaku.com/ubisoft-charlie-yves-guillemot-tencent-far-cry-7-1851786421)
- - [Microsoft&#39;s Copilot AI assistant can now optionally see your entire desktop—maybe it will be able to finally explain what Windows error code 0x8007002c means](https://www.pcgamer.com/software/windows/microsofts-copilot-ai-assistant-can-now-optionally-see-your-entire-desktop-maybe-it-will-be-able-to-finally-explain-what-windows-error-code-0x8007002c-means/)<!-- GAME:END -->
+ - [EA FC 26&#39;s Reveal Trailer Is Just EA Responding To All Your Complaints](https://kotaku.com/fc-26-fifa-trailer-reveal-complaints-soccer-ea-sports-1851786431)
+ - [Seven months after putting Johnny Silverhand in your car, Cyberpunk 2077&#39;s latest update will let you kick him out](https://www.pcgamer.com/games/rpg/seven-months-after-putting-johnny-silverhand-in-your-car-cyberpunk-2077s-latest-update-will-let-you-kick-him-out/)
+ - [Cyberpunk 2077 update new modes, but Switch 2 players will have to wait](https://www.polygon.com/gaming/613442/cyberpunk-2077-2-3-update-patch-notes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
