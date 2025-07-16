@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
- - ⏩ [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
- - 👉 [This is too real. Why do naps hit different with the skin marks?](http://9gag.com/gag/aGy7OnZ)<!-- MEMES:END -->
+ - 💣 [State of the UK](http://9gag.com/gag/a4PwWrv)
+ - ⏩ [I wonder why](http://9gag.com/gag/a87Vzv1)
+ - 👉 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)<!-- MEMES:END -->
 
 ---
 
