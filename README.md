@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - ⏩ [OPs confession](http://9gag.com/gag/ary89Nd)
- - 👉 [Poor choice of words](http://9gag.com/gag/avy94RE)<!-- MEMES:END -->
+ - 💣 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - ⏩ [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
+ - 👉 [OPs confession](http://9gag.com/gag/ary89Nd)<!-- MEMES:END -->
 
 ---
 
