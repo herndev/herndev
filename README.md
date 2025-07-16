@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is blessing older Wear OS watches with Gemini, check if your smartwatch is eligible](https://www.androidauthority.com/gemini-available-wear-os-smartwatches-3577907/)
- - [&#39;The Summer I Turned Pretty&#39; Is Back: How to Watch Belly, Conrad and Jeremiah&#39;s Final Season](https://www.cnet.com/tech/services-and-software/the-summer-i-turned-pretty-is-back-how-to-watch-belly-conrad-and-jeremiahs-final-season/#ftag=CAD590a51e)
- - [Google says its Big Sleep AI agent for finding unknown software vulnerabilities recently discovered a critical SQLite flaw that &quot;was at risk of being exploited&quot; &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250716/p6#a250716p6)<!-- TECH:END -->
+ - [A look at the Chile-led Latam-GPT project, which involves 30+ Latin American and Caribbean institutions collaborating to release an open-source LLM in September &lpar;Cristián Vera-Cruz/Rest of World&rpar;](http://www.techmeme.com/250716/p9#a250716p9)
+ - [Team AA: Here are our favorite phone wallpapers](https://www.androidauthority.com/team-aa-favorite-wallpapers-3572374/)
+ - [Your favorite wallpaper app is prettier than ever thanks to its Material 3 Expressive update](https://www.androidauthority.com/backdrops-wallpaper-app-material-3-expressive-update-3577927/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
