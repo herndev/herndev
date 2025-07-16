@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [PlayStation’s Summer Sale arrives on July 16](https://blog.playstation.com/2025/07/15/playstations-summer-sale-arrives-on-july-16/)
- - [Bungie says it&#39;s &#39;actively re-recording&#39; some voice lines for Destiny 2: The Edge of Fate after fans notice one of the game&#39;s best-known heroes suddenly sounds like one of its most notorious villains](https://www.pcgamer.com/games/fps/bungie-says-its-actively-re-recording-some-voice-lines-for-destiny-2-the-edge-of-fate-after-fans-notice-one-of-the-games-best-known-heroes-suddenly-sounds-like-one-of-its-most-notorious-villains/)
- - [The Second-Best Deus Ex Is Stupid Cheap &lpar;And DRM-Free&rpar;, But Hurry](https://kotaku.com/deus-ex-human-revolution-gog-drm-sale-1851786362)<!-- GAME:END -->
+ - [PlayStation’s Summer Sale arrives on July 16](https://blog.playstation.com/2025/07/15/playstations-summer-sale-arrives-on-july-16/)
+ - [Bungie says it&#39;s &#39;actively re-recording&#39; some voice lines for Destiny 2: The Edge of Fate after fans notice one of the game&#39;s best-known heroes suddenly sounds like one of its most notorious villains](https://www.pcgamer.com/games/fps/bungie-says-its-actively-re-recording-some-voice-lines-for-destiny-2-the-edge-of-fate-after-fans-notice-one-of-the-games-best-known-heroes-suddenly-sounds-like-one-of-its-most-notorious-villains/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
