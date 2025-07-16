@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kaboom Rico...](http://9gag.com/gag/a4Pwwo6)
- - ⏩ [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - 👉 [If you want to visit London, learn Pakistani.](http://9gag.com/gag/aBy44zP)<!-- MEMES:END -->
+ - 💣 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - ⏩ [Almost](http://9gag.com/gag/azx4Dzm)
+ - 👉 [State of the UK](http://9gag.com/gag/a4PwWrv)<!-- MEMES:END -->
 
 ---
 
