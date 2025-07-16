@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what Mac you need for Cyberpunk 2077](https://www.theverge.com/news/708100/cyberpunk-2077-mac-system-requirements-modes-ray-tracing)
- - [Now Is a Very Good Time to Buy a Used EV. Here&#39;s Why](https://www.wired.com/story/now-is-a-very-good-time-to-buy-a-used-ev-heres-why/)
- - [CrowdStrike: Chinese hacking attacks on US targets were up 2x from 2024 to 330+ incidents in 2025; US officials say China has shifted to &quot;hacking-for-hire&quot; &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250716/p13#a250716p13)<!-- TECH:END -->
+ - [Leaked Galaxy Tab S11 Ultra render shows off bezels so thin, Samsung had to use a waterdrop notch](https://www.androidauthority.com/samsung-galaxy-tab-s11-ultra-s25-fe-leaked-render-3578010/)
+ - [Forget copyright strikes, a retro gaming YouTuber faces jail time for reviewing gaming handhelds](https://www.androidauthority.com/once-were-nerd-youtuber-copyright-lawsuit-3577995/)
+ - [Nintendo&amp;#8217;s Zelda movie has found its princess and hero of time](https://www.theverge.com/nintendo/708143/nintendo-zelda-movie-casting-bo-bragason-benjamin-evan-ainsworth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
