@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Biggest Chess Site In The World Bans 100,000 Accounts A Month For Cheating](https://kotaku.com/chess-cheaters-100k-banned-monthly-chess-com-anal-beads-1851786443)
- - [John Malkovich cut from Fantastic Four after Marvel scrapped him on Spider-Man 4](https://www.polygon.com/marvel/613511/john-malkovich-cut-fantastic-four-spider-man-vulture)
- - [Umamusume players are engaging in unhinged summoning rituals to enlist the aid of Egyptian gods and biblically accurate angels for the release of a really good horse card](https://www.pcgamer.com/games/sim/umamusume-players-are-engaging-in-unhinged-summoning-rituals-to-enlist-the-aid-of-egyptian-gods-and-biblically-accurate-angels-for-the-release-of-a-really-good-horse-card/)<!-- GAME:END -->
+ - [Maelle remains Clair Obscur&amp;#8217;s boss-killing machine, even after being nerfed](https://www.polygon.com/gaming/613551/clair-obscur-expedition-33-combat-maelle-nerf-op-stendhal)
+ - [Unknown Worlds founders&#39; lawsuit accuses Krafton of a &#39;months-long campaign to delay Subnautica 2&#39; so it wouldn&#39;t have to pay $250M earnout](https://www.pcgamer.com/gaming-industry/unknown-worlds-founders-lawsuit-accuses-krafton-of-a-months-long-campaign-to-delay-subnautica-2-so-it-wouldnt-have-to-pay-usd250m-earnout/)
+ - [Subnautica 2 Studio Founders Go To War With Krafton Over Controversial Delay And Firings In New Lawsuit](https://kotaku.com/subnautica-2-lawsuit-krafton-unknown-worlds-delay-1851786439)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
