@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - ⏩ [Fast and furious](http://9gag.com/gag/axymQVD)
- - 👉 [Sums it up](http://9gag.com/gag/apRVjK8)<!-- MEMES:END -->
+ - 💣 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
+ - ⏩ [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
+ - 👉 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)<!-- MEMES:END -->
 
 ---
 
