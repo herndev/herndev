@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More Qi2.2 chargers are here, but here’s why you should wait before buying one](https://www.androidauthority.com/more-qi2-2-chargers-but-no-phones-3578048/)
- - [For Nintendo, freedom means more than an open world](https://www.theverge.com/nintendo/707449/donkey-kong-bananza-switch-2-nintendo-design-open-world)
- - [Razer&amp;#8217;s $350 eGPU chassis only comes with a Thunderbolt 5 cable](https://www.theverge.com/news/708202/razer-core-x-v2-egpu-price-thunderbolt-5)<!-- TECH:END -->
+ - [Microsoft begins testing a Windows 11 feature for sharing the entire desktop with Copilot Vision; it requires first entering a special mode in the Copilot app &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250716/p22#a250716p22)
+ - [Amazon&#39;s best $89 AirPods 4 deal is back after Prime Day](https://appleinsider.com/articles/25/07/15/amazons-best-89-airpods-4-deal-is-back-after-prime-day?utm_source=rss)
+ - [Jensen Huang says &quot;I don&#39;t think I changed&quot; Trump&#39;s mind on the US&#39; China export rules, and &quot;it&#39;s my job to inform the president about what I know very well&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250716/p21#a250716p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
