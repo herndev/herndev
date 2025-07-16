@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer Pro Click V2 Vertical Edition review](https://www.pcgamer.com/hardware/gaming-mice/razer-pro-click-v2-vertical-edition-review/)
- - [Today&#39;s Wordle answer for Wednesday, July 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-16-2025/)
- - [Avowed update basically reinvents the fighter and ranger classes, while also adding new weapons and better Steam Deck optimization](https://www.pcgamer.com/games/rpg/avowed-update-basically-reinvents-the-fighter-and-ranger-classes-while-also-adding-new-weapons-and-better-steam-deck-optimization/)<!-- GAME:END -->
+ - [MSI releases new all-bright HDR mode update for its QD-OLED gaming monitors but OLED&#39;s underlying limitations remain](https://www.pcgamer.com/hardware/gaming-monitors/msi-releases-new-all-bright-hdr-mode-update-for-its-qd-oled-gaming-monitors-but-oleds-underlying-limitations-remain/)
+ - [How to complete the Fallow mission in Destiny 2: The Edge of Fate](https://www.pcgamer.com/games/fps/destiny-2-fallow-boss/)
+ - [Japanese researchers achieve 1,020,000,000 Mbps internet speeds over a 1,123 mile line, 3.5 million times faster than the average US connection and a hell of a lot quicker than mine](https://www.pcgamer.com/hardware/japanese-researchers-achieve-1-020-000-000-mbps-internet-speeds-over-a-1-123-mile-line-3-5-million-times-faster-than-the-average-us-connection-and-a-hell-of-a-lot-quicker-than-mine/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
