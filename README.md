@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shake It! Ten Rat-Tastic Reasons Why Ratshaker Will Change Your Life Forever](https://news.xbox.com/en-us/2025/07/16/ten-rat-tastic-reasons-why-ratshaker-will-change-your-life/)
- - [Destiny 2 Phoneutria Fera god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-phoneutria-fera-god-roll/)
- - [As the Nintendo eShop fails to protect from &#39;eslop&#39;, indie devs reflect on how it affects their work and why Steam is just better: &#39;Their algorithm will more or less naturally bury AI slop&#39;](https://www.pcgamer.com/software/platforms/as-the-nintendo-eshop-fails-to-protect-from-eslop-indie-devs-reflect-on-how-it-affects-their-work-and-why-steam-is-just-better-their-algorithm-will-more-or-less-naturally-bury-ai-slop/)<!-- GAME:END -->
+ - [Destiny 2&#39;s New Metroid Ball Mechanic Might Be The Worst Thing It&#39;s Ever Added](https://kotaku.com/destiny-2-edge-fate-matterspark-kelper-metroid-ball-1851786415)
+ - [Ubisoft CEO Makes His Son Co-CEO Of New Ubisoft](https://kotaku.com/ubisoft-charlie-yves-guillemot-tencent-far-cry-7-1851786421)
+ - [Microsoft&#39;s Copilot AI assistant can now optionally see your entire desktop—maybe it will be able to finally explain what Windows error code 0x8007002c means](https://www.pcgamer.com/software/windows/microsofts-copilot-ai-assistant-can-now-optionally-see-your-entire-desktop-maybe-it-will-be-able-to-finally-explain-what-windows-error-code-0x8007002c-means/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
