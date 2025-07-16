@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Christian bale is building a village for foster kids, he is bruce wayne](http://9gag.com/gag/aMVqWqX)
- - ⏩ [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
- - 👉 [My dad died watching your special!](http://9gag.com/gag/aPArdQg)<!-- MEMES:END -->
+ - 💣 [What a plot twist](http://9gag.com/gag/a9yDDX6)
+ - ⏩ [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
+ - 👉 [Sums it up](http://9gag.com/gag/apRVjK8)<!-- MEMES:END -->
 
 ---
 
