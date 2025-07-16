@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scale AI lays off 200 employees, &amp;#8216;We ramped up our GenAI capacity too quickly&amp;#8217;](https://www.theverge.com/news/708377/scale-ai-layoffs-14-percent)
- - [xAI&#39;s Grok is rated for kids age 12 and up in the iOS App Store, despite adding &quot;companions&quot;; one includes an NSFW &quot;Bad Rudy&quot; mode and the other becomes NSFW &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250716/p30#a250716p30)
- - [Dyneema’s New Fiber Composite Is Lighter, Stronger, and More Durable Than Ever](https://www.wired.com/story/dyneema-hyperlite-mountain-gear-new-ultralight-fabric/)<!-- TECH:END -->
+ - [New York-based Talos, which develops digital asset trading infrastructure, says it acquired blockchain data provider Coin Metrics, a source says for over $100M &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250716/p31#a250716p31)
+ - [Faster, Apple Intelligence, and more: All the rumors about the 2025 Apple TV 4K](https://appleinsider.com/articles/25/07/16/faster-apple-intelligence-and-more-all-the-rumors-about-the-2025-apple-tv-4k?utm_source=rss)
+ - [ElliQ Review: An AI Companion Bot for Lonely Elders](https://www.wired.com/review/elliq-ai-companion-robot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
