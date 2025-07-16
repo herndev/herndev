@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We Talk, Shoot, and Sneak Our Way Through The Outer Worlds 2](https://news.xbox.com/en-us/2025/07/16/we-talk-shoot-and-sneak-the-outer-worlds-2/)
- - [EU-commissioned study on generative AI and copyright suggests overturning the current opt-out approach that &#39;effectively treats silence as consent&#39;](https://www.pcgamer.com/software/ai/eu-commissioned-study-on-generative-ai-and-copyright-suggests-overturning-the-current-opt-out-approach-that-effectively-treats-silence-as-consent/)
- - [Musk&#39;s Grok AI Follows Up &#39;MechaHitler&#39; With Anime Goth Waifu And Red Panda That Wants To Teabag Everything In Sight](https://kotaku.com/supergrok-ai-ani-rudi-chad-companion-waifu-nazi-1851786393)<!-- GAME:END -->
+ - [Shake It! Ten Rat-Tastic Reasons Why Ratshaker Will Change Your Life Forever](https://news.xbox.com/en-us/2025/07/16/ten-rat-tastic-reasons-why-ratshaker-will-change-your-life/)
+ - [Destiny 2 Phoneutria Fera god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-phoneutria-fera-god-roll/)
+ - [As the Nintendo eShop fails to protect from &#39;eslop&#39;, indie devs reflect on how it affects their work and why Steam is just better: &#39;Their algorithm will more or less naturally bury AI slop&#39;](https://www.pcgamer.com/software/platforms/as-the-nintendo-eshop-fails-to-protect-from-eslop-indie-devs-reflect-on-how-it-affects-their-work-and-why-steam-is-just-better-their-algorithm-will-more-or-less-naturally-bury-ai-slop/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
