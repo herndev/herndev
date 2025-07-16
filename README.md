@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data Centers Are &#39;AI Factories.&#39; Google and Meta Are Spending Big Bucks to Build Them](https://www.cnet.com/news/data-centers-are-ai-factories-google-and-meta-are-spending-big-bucks-to-build-them/#ftag=CAD590a51e)
- - [A former OpenAI engineer details his experience working at the company, including its culture, engineering practices, rapid growth, and the launch of Codex &lpar;Calvin French-Owen&rpar;](http://www.techmeme.com/250715/p31#a250715p31)
- - [Several crypto regulation bills backed by Trump fail to clear a key hurdle in the US House after 13 Republicans voted with Democrats to block the legislation &lpar;Erin Doherty/CNBC&rpar;](http://www.techmeme.com/250715/p30#a250715p30)<!-- TECH:END -->
+ - [Deal: Anker SOLIX F3800 Plus Power Station price lower than ever!](https://www.androidauthority.com/anker-solix-f3800-plus-portable-power-station-deal-3577868/)
+ - [The DOJ says ex-Army soldier Cameron John Wagenius pleaded guilty to hacking over 10 telcos and to extortion; in February, he admitted hacking AT&amp;T and Verizon &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250715/p34#a250715p34)
+ - [Now Microsoft&amp;#8217;s Copilot Vision AI can scan everything on your screen](https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
