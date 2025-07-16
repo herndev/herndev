@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI can now make phone calls for you](https://www.theverge.com/news/708210/google-ai-phone-calls-ai-mode-gemini-upgrade)
- - [Bedrock Robotics raised $80M from Eclipse and 8VC to develop retrofit self-driving kits for construction and worksite vehicles, in testing with five companies &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250716/p26#a250716p26)
- - [Scale AI says it is laying off 200 full-time employees, or ~14% of its global workforce, and will stop working with 500 contractors, after Meta invested $14.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250716/p25#a250716p25)<!-- TECH:END -->
+ - [Scale AI lays off 200 employees, &amp;#8216;We ramped up our GenAI capacity too quickly&amp;#8217;](https://www.theverge.com/news/708377/scale-ai-layoffs-14-percent)
+ - [xAI&#39;s Grok is rated for kids age 12 and up in the iOS App Store, despite adding &quot;companions&quot;; one includes an NSFW &quot;Bad Rudy&quot; mode and the other becomes NSFW &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250716/p30#a250716p30)
+ - [Dyneema’s New Fiber Composite Is Lighter, Stronger, and More Durable Than Ever](https://www.wired.com/story/dyneema-hyperlite-mountain-gear-new-ultralight-fabric/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
