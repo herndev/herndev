@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo&#39;s Other Switch 2 Exclusive Gets A Limited-Time Demo](https://kotaku.com/nintendo-switch-2-drag-x-drive-basketball-free-demo-1851786377)
- - [The Best Games Of 2025 So Far](https://kotaku.com/2025-best-games-monster-hunter-split-fiction-avowed-1851767689)
- - [PC gamers don&#39;t have many options for CPUs and graphics cards but when it comes to gaming mice, we&#39;re absolutely spoiled for choice](https://www.pcgamer.com/hardware/gaming-mice/pc-gamers-dont-have-many-options-for-cpus-and-graphics-cards-but-when-it-comes-to-gaming-mice-were-absolutely-spoiled-for-choice/)<!-- GAME:END -->
+ - [New Content, New Looks, and Movie Tie-Ins: Minecraft Is More Lively Than Ever This Summer](https://news.xbox.com/en-us/2025/07/16/minecraft-updates-summer-2025/)
+ - [Neverwinter Nights 2: Enhanced Edition just makes me want to play Baldur&amp;#8217;s Gate 3 again](https://www.polygon.com/gaming/613266/neverwinter-nights-2-enhanced-edition-baldurs-gate-3)
+ - [How to solve each mystery in Destiny 2: The Edge of Fate](https://www.pcgamer.com/games/fps/destiny-2-mystery-ability-chests/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
