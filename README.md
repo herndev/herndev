@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT adds audio transcription feature for desktop users](https://appleinsider.com/articles/25/07/16/chatgpt-adds-audio-transcription-feature-for-desktop-users?utm_source=rss)
- - [Reflection, co-founded by ex-Google researchers, unveils Asimov, an AI agent that reads a company&#39;s codebase, docs, and more to help software engineering teams &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250716/p37#a250716p37)
- - [Google is raising the price of Nest Aware subscriptions again](https://www.theverge.com/news/708538/google-nest-aware-plus-price-increase-subscription)<!-- TECH:END -->
+ - [Google Search’s new feature lets AI call businesses for you](https://www.androidauthority.com/google-search-ai-calling-3578223/)
+ - [iPhone 17 Pro may get display upgrade Apple reportedly scrapped](https://appleinsider.com/articles/25/07/16/iphone-17-pro-may-get-display-upgrade-apple-reportedly-scrapped?utm_source=rss)
+ - [This &#39;90s Movie Is a Sci-Fi Techno-Noir Gem, and It&#39;s Streaming Free on Tubi](https://www.cnet.com/culture/entertainment/this-90s-movie-is-a-sci-fi-techno-noir-gem-and-its-streaming-free-on-tubi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
