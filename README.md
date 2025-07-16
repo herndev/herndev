@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI releases new all-bright HDR mode update for its QD-OLED gaming monitors but OLED&#39;s underlying limitations remain](https://www.pcgamer.com/hardware/gaming-monitors/msi-releases-new-all-bright-hdr-mode-update-for-its-qd-oled-gaming-monitors-but-oleds-underlying-limitations-remain/)
- - [How to complete the Fallow mission in Destiny 2: The Edge of Fate](https://www.pcgamer.com/games/fps/destiny-2-fallow-boss/)
- - [Japanese researchers achieve 1,020,000,000 Mbps internet speeds over a 1,123 mile line, 3.5 million times faster than the average US connection and a hell of a lot quicker than mine](https://www.pcgamer.com/hardware/japanese-researchers-achieve-1-020-000-000-mbps-internet-speeds-over-a-1-123-mile-line-3-5-million-times-faster-than-the-average-us-connection-and-a-hell-of-a-lot-quicker-than-mine/)<!-- GAME:END -->
+ - [The Zelda movie has found its Zelda and Link](https://www.polygon.com/news/613329/zelda-movie-link-cast)
+ - [D&amp;#038;D&amp;#8217;s largest starter set aims to woo board game players](https://www.polygon.com/dnd-dungeons-dragons/613320/heroes-of-the-borderlands-starter-set-contents-board-game)
+ - [It&#39;s been a year since Minecraft ditched annual summer updates, and I have to admit there&#39;s never been a better time to play](https://www.pcgamer.com/games/survival-crafting/its-been-a-year-since-minecraft-ditched-annual-summer-updates-and-i-have-to-admit-theres-never-been-a-better-time-to-play/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
