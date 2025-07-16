@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Talos, which develops digital asset trading infrastructure, says it acquired blockchain data provider Coin Metrics, a source says for over $100M &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250716/p31#a250716p31)
- - [Faster, Apple Intelligence, and more: All the rumors about the 2025 Apple TV 4K](https://appleinsider.com/articles/25/07/16/faster-apple-intelligence-and-more-all-the-rumors-about-the-2025-apple-tv-4k?utm_source=rss)
- - [ElliQ Review: An AI Companion Bot for Lonely Elders](https://www.wired.com/review/elliq-ai-companion-robot/)<!-- TECH:END -->
+ - [iPhone Fold could be thinner than an iPad Pro when opened](https://appleinsider.com/articles/25/07/16/iphone-fold-could-be-thinner-than-an-ipad-pro-when-opened?utm_source=rss)
+ - [Galaxy Watch users might want to stay away from testing QPR1 betas](https://www.androidauthority.com/galaxy-watch-qpr1-3578124/)
+ - [Sources: Anthropic&#39;s financial performance has prompted some investors to indicate interest in funding the company at a valuation of $100B+ if it pursues a deal &lpar;The Information&rpar;](http://www.techmeme.com/250716/p34#a250716p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
