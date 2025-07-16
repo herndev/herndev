@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
- - ⏩ [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
- - 👉 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)<!-- MEMES:END -->
+ - 💣 [A classic is what it is.](http://9gag.com/gag/aXPReXd)
+ - ⏩ [What do you think](http://9gag.com/gag/aE0ZNnp)
+ - 👉 [Wife swap S12E02](http://9gag.com/gag/aD2QNeZ)<!-- MEMES:END -->
 
 ---
 
