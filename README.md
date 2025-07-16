@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Top Google Researchers Have Made A New Kind of AI Agent](https://www.wired.com/story/former-top-google-researchers-have-made-a-new-kind-of-ai-agent/)
- - [How Knox Morris went from TikToker to rock star](https://www.theverge.com/music/701539/how-knox-morris-turned-tiktok-virality-into-a-national-tour)
- - [Why I love my Apple EarPods](https://www.theverge.com/tech/704616/apple-earpods-favorites)<!-- TECH:END -->
+ - [More Qi2.2 chargers are here, but here’s why you should wait before buying one](https://www.androidauthority.com/more-qi2-2-chargers-but-no-phones-3578048/)
+ - [For Nintendo, freedom means more than an open world](https://www.theverge.com/nintendo/707449/donkey-kong-bananza-switch-2-nintendo-design-open-world)
+ - [Razer&amp;#8217;s $350 eGPU chassis only comes with a Thunderbolt 5 cable](https://www.theverge.com/news/708202/razer-core-x-v2-egpu-price-thunderbolt-5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
