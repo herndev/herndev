@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchange BigONE confirms a $27M hack from a hot wallet exploit, plans to pay back users and is working with security firm SlowMist to trace stolen assets &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250716/p35#a250716p35)
- - [Here&#39;s How to Watch All the &#39;Jurassic Park&#39; and &#39;Jurassic World&#39; Movies Streaming at Home](https://www.cnet.com/tech/services-and-software/how-to-watch-jurassic-park-world-series/#ftag=CAD590a51e)
- - [Your Google Nest Aware plan is getting more expensive](https://www.androidauthority.com/nest-aware-subscription-price-increase-3578202/)<!-- TECH:END -->
+ - [ChatGPT adds audio transcription feature for desktop users](https://appleinsider.com/articles/25/07/16/chatgpt-adds-audio-transcription-feature-for-desktop-users?utm_source=rss)
+ - [Reflection, co-founded by ex-Google researchers, unveils Asimov, an AI agent that reads a company&#39;s codebase, docs, and more to help software engineering teams &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250716/p37#a250716p37)
+ - [Google is raising the price of Nest Aware subscriptions again](https://www.theverge.com/news/708538/google-nest-aware-plus-price-increase-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
