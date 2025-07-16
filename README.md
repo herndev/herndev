@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a plot twist](http://9gag.com/gag/a9yDDX6)
- - ⏩ [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - 👉 [Sums it up](http://9gag.com/gag/apRVjK8)<!-- MEMES:END -->
+ - 💣 [What do you think](http://9gag.com/gag/aE0ZNnp)
+ - ⏩ [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
+ - 👉 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)<!-- MEMES:END -->
 
 ---
 
