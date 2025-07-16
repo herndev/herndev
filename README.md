@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold could be thinner than an iPad Pro when opened](https://appleinsider.com/articles/25/07/16/iphone-fold-could-be-thinner-than-an-ipad-pro-when-opened?utm_source=rss)
- - [Galaxy Watch users might want to stay away from testing QPR1 betas](https://www.androidauthority.com/galaxy-watch-qpr1-3578124/)
- - [Sources: Anthropic&#39;s financial performance has prompted some investors to indicate interest in funding the company at a valuation of $100B+ if it pursues a deal &lpar;The Information&rpar;](http://www.techmeme.com/250716/p34#a250716p34)<!-- TECH:END -->
+ - [Crypto exchange BigONE confirms a $27M hack from a hot wallet exploit, plans to pay back users and is working with security firm SlowMist to trace stolen assets &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250716/p35#a250716p35)
+ - [Here&#39;s How to Watch All the &#39;Jurassic Park&#39; and &#39;Jurassic World&#39; Movies Streaming at Home](https://www.cnet.com/tech/services-and-software/how-to-watch-jurassic-park-world-series/#ftag=CAD590a51e)
+ - [Your Google Nest Aware plan is getting more expensive](https://www.androidauthority.com/nest-aware-subscription-price-increase-3578202/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
