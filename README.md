@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Razer Pro Click V2 Vertical Edition review](https://www.pcgamer.com/hardware/gaming-mice/razer-pro-click-v2-vertical-edition-review/)
  - [Today&#39;s Wordle answer for Wednesday, July 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-16-2025/)
- - [Avowed update basically reinvents the fighter and ranger classes, while also adding new weapons and better Steam Deck optimization](https://www.pcgamer.com/games/rpg/avowed-update-basically-reinvents-the-fighter-and-ranger-classes-while-also-adding-new-weapons-and-better-steam-deck-optimization/)
- - [PlayStation’s Summer Sale arrives on July 16](https://blog.playstation.com/2025/07/15/playstations-summer-sale-arrives-on-july-16/)<!-- GAME:END -->
+ - [Avowed update basically reinvents the fighter and ranger classes, while also adding new weapons and better Steam Deck optimization](https://www.pcgamer.com/games/rpg/avowed-update-basically-reinvents-the-fighter-and-ranger-classes-while-also-adding-new-weapons-and-better-steam-deck-optimization/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
