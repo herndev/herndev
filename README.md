@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
- - ⏩ [I wonder why](http://9gag.com/gag/a87Vzv1)
- - 👉 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)<!-- MEMES:END -->
+ - 💣 [A wholesome post.](http://9gag.com/gag/aRBR9D2)
+ - ⏩ [Kill them all](http://9gag.com/gag/adBRrPj)
+ - 👉 [Aqua man ? Why ?](http://9gag.com/gag/aD2QN8K)<!-- MEMES:END -->
 
 ---
 
