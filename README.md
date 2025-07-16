@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft begins testing a Windows 11 feature for sharing the entire desktop with Copilot Vision; it requires first entering a special mode in the Copilot app &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250716/p22#a250716p22)
- - [Amazon&#39;s best $89 AirPods 4 deal is back after Prime Day](https://appleinsider.com/articles/25/07/15/amazons-best-89-airpods-4-deal-is-back-after-prime-day?utm_source=rss)
- - [Jensen Huang says &quot;I don&#39;t think I changed&quot; Trump&#39;s mind on the US&#39; China export rules, and &quot;it&#39;s my job to inform the president about what I know very well&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250716/p21#a250716p21)<!-- TECH:END -->
+ - [Google’s AI can now make phone calls for you](https://www.theverge.com/news/708210/google-ai-phone-calls-ai-mode-gemini-upgrade)
+ - [Bedrock Robotics raised $80M from Eclipse and 8VC to develop retrofit self-driving kits for construction and worksite vehicles, in testing with five companies &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250716/p26#a250716p26)
+ - [Scale AI says it is laying off 200 full-time employees, or ~14% of its global workforce, and will stop working with 500 contractors, after Meta invested $14.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250716/p25#a250716p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
