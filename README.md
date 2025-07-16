@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Zelda movie has found its Zelda and Link](https://www.polygon.com/news/613329/zelda-movie-link-cast)
- - [D&amp;#038;D&amp;#8217;s largest starter set aims to woo board game players](https://www.polygon.com/dnd-dungeons-dragons/613320/heroes-of-the-borderlands-starter-set-contents-board-game)
- - [It&#39;s been a year since Minecraft ditched annual summer updates, and I have to admit there&#39;s never been a better time to play](https://www.pcgamer.com/games/survival-crafting/its-been-a-year-since-minecraft-ditched-annual-summer-updates-and-i-have-to-admit-theres-never-been-a-better-time-to-play/)<!-- GAME:END -->
+ - [Nintendo&#39;s Other Switch 2 Exclusive Gets A Limited-Time Demo](https://kotaku.com/nintendo-switch-2-drag-x-drive-basketball-free-demo-1851786377)
+ - [The Best Games Of 2025 So Far](https://kotaku.com/2025-best-games-monster-hunter-split-fiction-avowed-1851767689)
+ - [PC gamers don&#39;t have many options for CPUs and graphics cards but when it comes to gaming mice, we&#39;re absolutely spoiled for choice](https://www.pcgamer.com/hardware/gaming-mice/pc-gamers-dont-have-many-options-for-cpus-and-graphics-cards-but-when-it-comes-to-gaming-mice-were-absolutely-spoiled-for-choice/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
