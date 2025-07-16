@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Commerce Secretary Howard Lutnick says Nvidia&#39;s planned resumption of its H20 AI chip sales to China is part of US negotiations over rare earths and magnets &lpar;Reuters&rpar;](http://www.techmeme.com/250716/p3#a250716p3)
  - [Sources: OpenAI researcher Jason Wei, who worked on o3 and deep research models, and his colleague Hyung Won Chung are joining Meta&#39;s new superintelligence lab &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250716/p2#a250716p2)
- - [Chewy Promo Codes: $20 Off | July 2025](https://www.wired.com/story/chewy-promo-code/)
- - [Jensen Huang hailed AI models from DeepSeek, Alibaba, and Tencent as &quot;world class&quot; at a Beijing expo and said US licenses for H20 chips &quot;will come very fast&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250716/p1#a250716p1)<!-- TECH:END -->
+ - [Chewy Promo Codes: $20 Off | July 2025](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
