@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search’s new feature lets AI call businesses for you](https://www.androidauthority.com/google-search-ai-calling-3578223/)
- - [iPhone 17 Pro may get display upgrade Apple reportedly scrapped](https://appleinsider.com/articles/25/07/16/iphone-17-pro-may-get-display-upgrade-apple-reportedly-scrapped?utm_source=rss)
- - [This &#39;90s Movie Is a Sci-Fi Techno-Noir Gem, and It&#39;s Streaming Free on Tubi](https://www.cnet.com/culture/entertainment/this-90s-movie-is-a-sci-fi-techno-noir-gem-and-its-streaming-free-on-tubi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The trial for an $8B lawsuit by Meta investors against Mark Zuckerberg and other leaders opens over claims tied to the 2018 Cambridge Analytica privacy scandal &lpar;Associated Press&rpar;](http://www.techmeme.com/250716/p39#a250716p39)
+ - [Nothing Phone 3 teardown reveals the guts of the year’s oddest-looking smartphone](https://www.androidauthority.com/nothing-phone-3-teardown-3578235/)
+ - [Filing: Intel is laying off 5,000+ employees across California, Oregon, Texas, and Arizona; California cuts affect 1,935, more than double the initial estimates &lpar;Nathan Owens/Manufacturing Dive&rpar;](http://www.techmeme.com/250716/p38#a250716p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
