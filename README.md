@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google brings yet another change to Gboard’s emoji picker](https://www.androidauthority.com/gboard-emoji-gif-picker-design-update-3577923/)
- - [The deluge of faster Qi2.2 wireless chargers is here](https://www.theverge.com/news/708060/qi-2-2-certification-25w-wpc-belkin-anker-ugreen-aukey)
- - [Analysis: 7,818 titles on Steam disclose generative AI usage, or 7% of Steam&#39;s total library of 114,126 games, up from ~1,000 titles in April 2024 &lpar;Ichiro Lambe/Totally Human Media&rpar;](http://www.techmeme.com/250716/p12#a250716p12)<!-- TECH:END -->
+ - [Here’s what Mac you need for Cyberpunk 2077](https://www.theverge.com/news/708100/cyberpunk-2077-mac-system-requirements-modes-ray-tracing)
+ - [Now Is a Very Good Time to Buy a Used EV. Here&#39;s Why](https://www.wired.com/story/now-is-a-very-good-time-to-buy-a-used-ev-heres-why/)
+ - [CrowdStrike: Chinese hacking attacks on US targets were up 2x from 2024 to 330+ incidents in 2025; US officials say China has shifted to &quot;hacking-for-hire&quot; &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250716/p13#a250716p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
