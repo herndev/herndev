@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A wholesome post.](http://9gag.com/gag/aRBR9D2)
- - ⏩ [A classic is what it is.](http://9gag.com/gag/aXPReXd)
- - 👉 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)<!-- MEMES:END -->
+ - 💣 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
+ - ⏩ [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 👉 [Poor choice of words](http://9gag.com/gag/avy94RE)<!-- MEMES:END -->
 
 ---
 
