@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [A wholesome post.](http://9gag.com/gag/aRBR9D2)
- - ⏩ [Kill them all](http://9gag.com/gag/adBRrPj)
- - 👉 [Aqua man ? Why ?](http://9gag.com/gag/aD2QN8K)<!-- MEMES:END -->
+ - ⏩ [A classic is what it is.](http://9gag.com/gag/aXPReXd)
+ - 👉 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)<!-- MEMES:END -->
 
 ---
 
