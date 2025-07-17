@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m Sad I&#39;ll Never Get To Order The Mega Fries](https://kotaku.com/mcdonalds-xxl-mega-fan-fries-meal-malaysia-price-size-1851786525)
- - [Civilization 6 Platinum Edition goes free to kick off Epic&#39;s 2025 Summer Sale](https://www.pcgamer.com/games/civilization-6-platinum-edition-goes-free-to-kick-off-epics-2025-summer-sale/)
- - [A mere 8 years on, Assassin&#39;s Creed is bringing &#39;power and violence and sex and greed and vengeance&#39; to Netflix as a TV show](https://www.pcgamer.com/movies-tv/a-mere-8-years-on-assassins-creed-is-bringing-power-and-violence-and-sex-and-greed-and-vengeance-to-netflix-as-a-tv-show/)<!-- GAME:END -->
+ - [Esports Player Changes Name From ‘Hitler’ To ‘Henry’ And Apologizes](https://kotaku.com/pubg-moble-player-hitler-henry-apology-name-change-1851786533)
+ - [Now&#39;s The Perfect Time To Grab Civilization 6 For Free While Civ 7 Is Still In Its Rebuilding Phase](https://kotaku.com/civilization-7-civ-6-free-epic-summer-sale-patch-1-2-3-1851786526)
+ - [Donkey Kong Bananza’s ending clears up one thing about the weird DK timeline](https://www.polygon.com/gaming/613588/donkey-kong-bananza-ending-dk-timeline)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
