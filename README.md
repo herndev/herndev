@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried going self-hosted but Google Drive is just too convenient](https://www.androidauthority.com/synology-drive-vs-google-drive-3576601/)
- - [Jack Dorsey invests $10M in &quot;and Other Stuff&quot;, a nonprofit focused on funding open-source projects and tools built on open protocols like Nostr and ActivityPub &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250717/p13#a250717p13)
- - [Chinese game Revenge on Gold Diggers, one of the most popular and contentious video games in the country, sparks a debate over misogyny and male resentment &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/250717/p12#a250717p12)<!-- TECH:END -->
+ - [Here’s your first look at Google Translate’s Conversation mode redesign &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-translate-conversation-mode-redesign-apk-teardown-3578323/)
+ - [I tested a new browser that makes Chrome feel outdated](https://www.androidauthority.com/perplexity-comet-hands-on-3577968/)
+ - [Samsung Electronics Chair Jay Y. Lee wins a full reprieval from South Korea&#39;s Supreme Court in a protracted fight over fraud and stock manipulation allegations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p15#a250717p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
