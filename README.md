@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google fixes Gemini Live’s video fidelity so you can actually use it](https://www.androidauthority.com/gemini-live-blurry-video-fix-3578545/)
- - [iPhone 17 Pro rumored to get Liquid Glass color treatment](https://appleinsider.com/articles/25/07/17/iphone-17-pro-rumored-to-get-liquid-glass-color-treatment?utm_source=rss)
- - [Can’t sync your Fitbit? You’re not alone, as service suffers major outage &lpar;Update: Fixed&rpar;](https://www.androidauthority.com/fitbit-outage-2-3578487/)<!-- TECH:END -->
+ - [This prepaid provider now supports cellular Pixel, Apple, and Galaxy Watch models](https://www.androidauthority.com/visible-cellular-galaxy-watch-3578607/)
+ - [The News/Media Alliance says the webhost of 12ft.io, which helped users bypass paywalls, took down the site on July 14 following the trade association&#39;s efforts &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250717/p42#a250717p42)
+ - [Pixel Watch 4 upgrades could include a repair-friendly design and new emergency tools](https://www.androidauthority.com/pixel-watch-4-upgrades-3578553/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
