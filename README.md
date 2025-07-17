@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase rolls out the Base App, rebranding its Coinbase Wallet as an &quot;everything app&quot; that combines social networking, mini-apps, chat, payments, and trading &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250716/p42#a250716p42)
- - [In response to a March FOIA request, the US Marshals Service said it held over 28,988 BTC, worth ~$3.4B at current prices, far fewer than previously believed &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250716/p41#a250716p41)
- - [JBL’s best portable speakers plummet to record-low prices](https://www.androidauthority.com/jbl-charge-6-flip-7-deals-3578250/)<!-- TECH:END -->
+ - [Microsoft&#39;s Copilot struggles to make headway against other AI assistants; Sensor Tower: Copilot&#39;s mobile app has ~79M downloads vs. ChatGPT&#39;s 900M+ downloads &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250716/p44#a250716p44)
+ - [These Yaber and LG projectors are still at Prime Day prices](https://www.androidauthority.com/yaber-t2-lg-cinebeam-q-hu710pb-deals-3578249/)
+ - [Bengaluru-based QpiAI, which is integrating AI and quantum computing for enterprise use cases, raised a $32M Series A at a $162M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250716/p43#a250716p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
