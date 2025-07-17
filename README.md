@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Driven](http://9gag.com/gag/aD2QNxx)
- - ⏩ [The clone wars](http://9gag.com/gag/aNDjGM3)
- - 👉 [Do you like Trains too?](http://9gag.com/gag/ajPRG0g)<!-- MEMES:END -->
+ - 💣 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - ⏩ [9th century Female torso.](http://9gag.com/gag/an7G0q0)
+ - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
 
 ---
 
