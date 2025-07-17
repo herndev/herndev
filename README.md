@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eddington gets the pandemic right but still isn’t a great movie](https://www.theverge.com/film/708542/eddington-review-ari-aster-joaquin-phoenix-pandemic)
- - [Adobe&amp;#8217;s new AI tool turns silly noises into realistic audio effects](https://www.theverge.com/news/708798/adobe-firefly-ai-generate-sound-effects-video-composition)
- - [Dyson&amp;#8217;s $500 headphones come in even more colors](https://www.theverge.com/news/708819/dyson-ontrac-headphones-new-colors-sky-blue-oyster-pink-caramel-chalk-white)<!-- TECH:END -->
+ - [Perplexity’s CEO on why the browser is AI&amp;#8217;s killer app](https://www.theverge.com/decoder-podcast-with-nilay-patel/708256/perplexity-ceo-decoder-aravind-srinivas-comet-browser-ai-search)
+ - [A gritty Pac-Man reboot makes for surprisingly solid Metroid-style action](https://www.theverge.com/games-review/708833/shadow-labyrinth-review-gritty-pac-man)
+ - [Meta shareholders suing Mark Zuckerberg and Meta leaders over Facebook&#39;s Cambridge Analytica privacy violations reach a settlement deal, ending an $8B trial &lpar;Reuters&rpar;](http://www.techmeme.com/250717/p26#a250717p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
