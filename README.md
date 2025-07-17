@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Karl Urban has no powers in the first trailer for Mortal Kombat 2, he&#39;s &#39;just incredibly handsome&#39;](https://www.pcgamer.com/movies-tv/karl-urban-has-no-powers-in-the-first-trailer-for-mortal-kombat-2-hes-just-incredibly-handsome/)
  - [Lagoon Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613695/lagoon-layer-banandium-gem-golden-banana-locations-list-map-all)
- - [OpenAI just launched its new ChatGPT Agent that can make as many as 1 complicated cupcake order per hour, but even Sam Altman says you probably shouldn&#39;t trust it for &#39;high-stakes uses&#39;](https://www.pcgamer.com/software/ai/openai-just-launched-its-new-chatgpt-agent-that-can-make-as-many-as-1-complicated-cupcake-order-per-hour-but-even-sam-altman-says-you-probably-shouldnt-trust-it-for-high-stakes-uses/)
- - [Retro gaming YouTuber faces criminal charges and possible jail time for reviewing handheld consoles that shipped with pre-loaded ROMs](https://www.pcgamer.com/hardware/retro-gaming-youtuber-faces-criminal-charges-and-possible-jail-time-for-reviewing-handheld-consoles-that-shipped-with-pre-loaded-roms/)<!-- GAME:END -->
+ - [OpenAI just launched its new ChatGPT Agent that can make as many as 1 complicated cupcake order per hour, but even Sam Altman says you probably shouldn&#39;t trust it for &#39;high-stakes uses&#39;](https://www.pcgamer.com/software/ai/openai-just-launched-its-new-chatgpt-agent-that-can-make-as-many-as-1-complicated-cupcake-order-per-hour-but-even-sam-altman-says-you-probably-shouldnt-trust-it-for-high-stakes-uses/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
