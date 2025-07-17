@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unfinished Business: How Nacon Created RoboCop’s Most Difficult Assignment Yet](https://news.xbox.com/en-us/2025/07/17/unfinished-business-how-nacon-created-robocops-most-difficult-assignment-yet/)
- - [Assassin&#39;s Creed TV Show Announced 5 Years Ago Finally Moving Forward At Netflix](https://kotaku.com/netflix-assassins-creed-tv-show-ubisoft-plot-date-1851786489)
- - [Who is Rhys Darby playing in Star Trek: Strange New Worlds?](https://www.polygon.com/star-trek/613641/strange-new-worlds-who-is-rhys-darby-playing)<!-- GAME:END -->
+ - [Help, The PS5 Store Is Flooded With AI Slop](https://kotaku.com/ps5-psn-playstation-store-ai-slop-brainrot-junk-spam-1851786494)
+ - [Mortal Kombat II’s First Trailer Is Bloody, Cheesy, And Full of Johnny Cage](https://kotaku.com/mortal-kombat-2-karl-urban-johnny-cage-first-trailer-1851786495)
+ - [Flexispot OC3/BS3 Review](https://www.pcgamer.com/hardware/gaming-chairs/flexispot-oc3-bs3-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
