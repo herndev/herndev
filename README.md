@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
- - ⏩ [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)
- - 👉 [Is everyone happy now?](http://9gag.com/gag/a6ZGepq)<!-- MEMES:END -->
+ - 💣 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
+ - ⏩ [Epstein](http://9gag.com/gag/a87Vvxp)
+ - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
 
 ---
 
