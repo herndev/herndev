@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro may get display upgrade Apple reportedly scrapped](https://appleinsider.com/articles/25/07/16/iphone-17-pro-may-get-display-upgrade-apple-reportedly-scrapped?utm_source=rss)
- - [Peacock announces its steepest price hike in its short history](https://www.androidauthority.com/peacock-subscription-price-bump-3578683/)
- - [Congress Passes GENIUS Act in Major Win for US Crypto Industry](https://www.wired.com/story/genius-act-congress-crypto-law-passes/)<!-- TECH:END -->
+ - [Netflix says it&amp;#8217;s streamed 95 billion hours in 2025, and a lot of ads too](https://www.theverge.com/news/709288/netflix-q2-2025-earningsdouble-ad-revenue)
+ - [ICE Is Getting Unprecedented Access to Medicaid Data](https://www.wired.com/story/ice-access-medicaid-data/)
+ - [These overpriced airport battery chargers have been recalled for a fire risk](https://www.theverge.com/news/709334/istore-recall-uscpsc-magnetic-wireless-power-bank)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
