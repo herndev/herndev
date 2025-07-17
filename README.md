@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wouldn&#39;t fight him](http://9gag.com/gag/a4Pw8Dd)
+ - 💣 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
  - ⏩ [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [I&#39;m this old](http://9gag.com/gag/ae9RqLm)<!-- MEMES:END -->
+ - 👉 [Poor choice of words](http://9gag.com/gag/avy94RE)<!-- MEMES:END -->
 
 ---
 
