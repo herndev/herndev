@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wacom&amp;#8217;s new MovinkPad drawing tablet doesn&amp;#8217;t need a PC](https://www.theverge.com/news/708951/wacom-movinkpad-11-android-drawing-tablet-launch-price)
- - [Spotify expands audiobook access to family plan members with new plans, including Audiobooks+, offering more listening hours, in the UK and 10+ countries &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250717/p29#a250717p29)
- - [Apple launches new emoji word game to take on Wordle and the NYT](https://www.theverge.com/games/708935/apple-news-plus-emoji-game-wordle)<!-- TECH:END -->
+ - [The MacBook that starts at just $33.28 per month - thanks to this program](https://appleinsider.com/articles/25/07/17/the-macbook-that-starts-at-just-3328-per-month---thanks-to-this-program?utm_source=rss)
+ - [Boulevard, which provides business management software for the self-care sector, raised an $80M Series D led by JMI Equity at an ~$800M post-money valuation &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250717/p33#a250717p33)
+ - [I tested 12 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
