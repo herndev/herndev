@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s new charging station battles desktop clutter with two retractable USB-C cables](https://www.theverge.com/news/709301/anker-nano-charging-station-usb-retractable)
- - [This AI Warps Live Video in Real Time](https://www.wired.com/story/decart-artificial-intelligence-model-live-stream/)
- - [Android’s Linux Terminal arrives on the Galaxy Z Flip 7, but Z Fold 7 users are left out](https://www.androidauthority.com/galaxy-z-flip-7-linux-terminal-3578675/)<!-- TECH:END -->
+ - [iPhone 17 Pro may get display upgrade Apple reportedly scrapped](https://appleinsider.com/articles/25/07/16/iphone-17-pro-may-get-display-upgrade-apple-reportedly-scrapped?utm_source=rss)
+ - [Peacock announces its steepest price hike in its short history](https://www.androidauthority.com/peacock-subscription-price-bump-3578683/)
+ - [Congress Passes GENIUS Act in Major Win for US Crypto Industry](https://www.wired.com/story/genius-act-congress-crypto-law-passes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
