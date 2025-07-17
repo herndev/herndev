@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple&amp;#8217;s new daily puzzle game is basically Emoji Wordle](https://www.polygon.com/news/613453/emoji-game-new-apple-news-game)
- - [Oblivion Remastered studio is reportedly laying off 300 people](https://www.pcgamer.com/gaming-industry/oblivion-remastered-studio-is-reportedly-laying-off-300-people/)
- - [The Delta Force Technical Test is LIVE today for Xbox Insiders!](https://news.xbox.com/en-us/2025/07/16/the-delta-force-technical-test-is-live-today-for-xbox-insiders/)<!-- GAME:END -->
+ - [PC Gamer magazine&#39;s new issue is on sale now: Dying Light: The Beast](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-dying-light-the-beast/)
+ - [The origin of &#39;AI Appreciation Day&#39; isn&#39;t what you think: It was started by an Elon Musk admirer who camped outside of SpaceX Starbase for a year hoping to talk to the billionaire about AI regulation](https://www.pcgamer.com/software/ai/ai-appreciation-day-origin/)
+ - [&quot;Listening to gamers is at the heart of what we do&quot; says company that are putting out a hand shaped gaming keyboard with a thumbstick](https://www.pcgamer.com/hardware/listening-to-gamers-is-at-the-heart-of-what-we-do-says-company-that-are-putting-out-a-hand-shaped-gaming-keyboard-with-a-thumbstick/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
