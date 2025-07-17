@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix says it&amp;#8217;s streamed 95 billion hours in 2025, and a lot of ads too](https://www.theverge.com/news/709288/netflix-q2-2025-earningsdouble-ad-revenue)
- - [ICE Is Getting Unprecedented Access to Medicaid Data](https://www.wired.com/story/ice-access-medicaid-data/)
- - [These overpriced airport battery chargers have been recalled for a fire risk](https://www.theverge.com/news/709334/istore-recall-uscpsc-magnetic-wireless-power-bank)<!-- TECH:END -->
+ - [The US House passes the GENIUS Act, sending the stablecoin bill to Trump for his signature, and advances two other crypto bills to the Senate for consideration &lpar;Reuters&rpar;](http://www.techmeme.com/250717/p51#a250717p51)
+ - [A federal judge reinstates FTC Commissioner Rebecca Kelly Slaughter, months after President Trump sought to fire her and Democratic colleague Alvaro Bedoya &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250717/p50#a250717p50)
+ - [The crypto industry got what it paid for](https://www.theverge.com/politics/709483/crypto-week-genius-clarity-act-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
