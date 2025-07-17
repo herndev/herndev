@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OPs confession](http://9gag.com/gag/ary89Nd)
- - ⏩ [Poor choice of words](http://9gag.com/gag/avy94RE)
- - 👉 [Great achievement! Also people with down syndrome do not live as long as long as a healthy person.](http://9gag.com/gag/agmKboK)<!-- MEMES:END -->
+ - 💣 [I do believe](http://9gag.com/gag/amoRO3V)
+ - ⏩ [Meanwhile in US](http://9gag.com/gag/aW4Re74)
+ - 👉 [Send in the Clones......](http://9gag.com/gag/ary89QX)<!-- MEMES:END -->
 
 ---
 
