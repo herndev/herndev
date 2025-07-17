@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
  - ⏩ [Uploading old stuff](http://9gag.com/gag/avy9BDE)
- - 👉 [Kill them all](http://9gag.com/gag/adBRrPj)<!-- MEMES:END -->
+ - 👉 [C: cant tell](http://9gag.com/gag/aVvR1Qv)<!-- MEMES:END -->
 
 ---
 
