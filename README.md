@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This might be the first AMD Strix Halo chip in a handheld gaming PC we&#39;ve seen, but I&#39;m more excited for those mini PCs around the corner](https://www.pcgamer.com/hardware/handheld-gaming-pcs/this-might-be-the-first-amd-strix-halo-chip-in-a-handheld-gaming-pc-weve-seen-but-im-more-excited-for-those-mini-pcs-around-the-corner/)
- - [Razer Clio review](https://www.pcgamer.com/hardware/speakers/razer-clio-wireless-gaming-chair-speaker-review/)
- - [8BitDo&#39;s newest Pro 3 Controller has magnetic swappable face buttons for Switch and Xbox configurations](https://www.pcgamer.com/hardware/8bitdos-newest-pro-3-controller-has-magnetic-swappable-face-buttons-for-switch-and-xbox-configurations/)<!-- GAME:END -->
+ - [Intel&#39;s fancy new AI tool measures image quality in games in real time, so upscaling artifacts and visual nasties have nowhere to hide](https://www.pcgamer.com/software/ai/intels-fancy-new-ai-tool-measures-image-quality-in-games-in-real-time-so-upscaling-artifacts-and-visual-nasties-have-nowhere-to-hide/)
+ - [Mercedes just put in a bid for the worst idea ever by enabling you to stream yourself driving during those vital Teams meetings](https://www.pcgamer.com/hardware/mercedes-just-put-in-a-bid-for-the-worst-idea-ever-by-enabling-you-to-stream-yourself-driving-during-those-vital-teams-meetings/)
+ - [&#39;Cease this behaviour immediately&#39;: Marvel Rivals is finally punishing smurfs by forcing them—and some innocent players—to smurf](https://www.pcgamer.com/games/third-person-shooter/cease-this-behaviour-immediately-marvel-rivals-is-finally-punishing-smurfs-by-forcing-them-and-some-innocent-players-to-smurf/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
