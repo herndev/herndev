@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8BitDo&#39;s newest Pro 3 Controller has magnetic swappable face buttons for Switch and Xbox configurations](https://www.pcgamer.com/hardware/8bitdos-newest-pro-3-controller-has-magnetic-swappable-face-buttons-for-switch-and-xbox-configurations/)
- - [PC Gamer magazine&#39;s new issue is on sale now: Dying Light: The Beast](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-dying-light-the-beast/)
- - [What the heck is &#39;AI Appreciation Day&#39;? Turns out it was started by an Elon Musk admirer who camped outside of SpaceX Starbase for a year hoping to talk to the billionaire about AI regulation](https://www.pcgamer.com/software/ai/ai-appreciation-day-origin/)<!-- GAME:END -->
+ - [This might be the first AMD Strix Halo chip in a handheld gaming PC we&#39;ve seen, but I&#39;m more excited for those mini PCs around the corner](https://www.pcgamer.com/hardware/handheld-gaming-pcs/this-might-be-the-first-amd-strix-halo-chip-in-a-handheld-gaming-pc-weve-seen-but-im-more-excited-for-those-mini-pcs-around-the-corner/)
+ - [Razer Clio review](https://www.pcgamer.com/hardware/speakers/razer-clio-wireless-gaming-chair-speaker-review/)
+ - [8BitDo&#39;s newest Pro 3 Controller has magnetic swappable face buttons for Switch and Xbox configurations](https://www.pcgamer.com/hardware/8bitdos-newest-pro-3-controller-has-magnetic-swappable-face-buttons-for-switch-and-xbox-configurations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
