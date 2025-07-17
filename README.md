@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Help, The PS5 Store Is Flooded With AI Slop](https://kotaku.com/ps5-psn-playstation-store-ai-slop-brainrot-junk-spam-1851786494)
- - [Mortal Kombat II’s First Trailer Is Bloody, Cheesy, And Full of Johnny Cage](https://kotaku.com/mortal-kombat-2-karl-urban-johnny-cage-first-trailer-1851786495)
- - [Flexispot OC3/BS3 Review](https://www.pcgamer.com/hardware/gaming-chairs/flexispot-oc3-bs3-review/)<!-- GAME:END -->
+ - [Planet Coaster 2: Fuel Your Park Inspiration with Frontier’s Favorite Xbox Community Builds](https://news.xbox.com/en-us/2025/07/17/planet-coaster-2-park-inspiration-xbox-community-builds/)
+ - [You’re Gonna Have To Put In The Work To Romance Goddess Matsuri In Rune Factory: Guardians Of Azuma](https://kotaku.com/rune-factory-romance-options-matsuri-love-llike-dislike-1851786506)
+ - [Persona 5 Gacha Studio Acknowledges Angry Feedback, Promises Response](https://kotaku.com/persona-5-phantom-x-atlus-black-wings-statement-rewards-1851786505)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
