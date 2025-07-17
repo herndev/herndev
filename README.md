@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elliptic estimates cross-chain criminal and high-risk activity has topped $21.8B in 2025, up from $7B in 2023; North Korea is responsible for ~12% of the total &lpar;Yohan Yun/Cointelegraph&rpar;](http://www.techmeme.com/250717/p5#a250717p5)
- - [A look at Neon Coat, an app that offers models and influencers free restaurant meals, fitness classes, and other experiences in exchange for social media posts &lpar;Lane Florsheim/Wall Street Journal&rpar;](http://www.techmeme.com/250717/p4#a250717p4)
- - [Perplexity is offering a free one-year Perplexity Pro subscription, normally $20/month, to 360M users of Bharti Airtel, India&#39;s second-largest telecom operator &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250717/p3#a250717p3)<!-- TECH:END -->
+ - [TikTok is putting the spotlight on songwriters](https://www.theverge.com/news/708611/tiktok-songwriter-features-music-tab)
+ - [AI is already transforming Hollywood, as studios and production companies experiment with AI tools and labor groups warn of job losses and other consequences &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250717/p8#a250717p8)
+ - [Location sharing apps like Find My, Snap Map, and Life360 remain popular among Gen Z users, despite concerns about their impact on real-world relationships &lpar;Summer Maxwell/SFGATE&rpar;](http://www.techmeme.com/250717/p7#a250717p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
