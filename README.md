@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple celebrates World Emoji Day with early release of &#39;Emoji Game&#39;](https://appleinsider.com/articles/25/07/17/apple-celebrates-world-emoji-day-with-early-release-of-emoji-game?utm_source=rss)
- - [Apple Partridge Creek closing, as downtown Detroit store nears its opening](https://appleinsider.com/articles/25/07/17/apple-partridge-creek-closing-as-downtown-detroit-store-nears-its-opening?utm_source=rss)
- - [Swedish AI coding startup Lovable raised a $200M Series A led by Accel at a $1.8B valuation, making it Europe&#39;s newest unicorn &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/250717/p22#a250717p22)<!-- TECH:END -->
+ - [Eddington gets the pandemic right but still isn’t a great movie](https://www.theverge.com/film/708542/eddington-review-ari-aster-joaquin-phoenix-pandemic)
+ - [Adobe&amp;#8217;s new AI tool turns silly noises into realistic audio effects](https://www.theverge.com/news/708798/adobe-firefly-ai-generate-sound-effects-video-composition)
+ - [Dyson&amp;#8217;s $500 headphones come in even more colors](https://www.theverge.com/news/708819/dyson-ontrac-headphones-new-colors-sky-blue-oyster-pink-caramel-chalk-white)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
