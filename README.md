@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This prepaid provider now supports cellular Pixel, Apple, and Galaxy Watch models](https://www.androidauthority.com/visible-cellular-galaxy-watch-3578607/)
- - [The News/Media Alliance says the webhost of 12ft.io, which helped users bypass paywalls, took down the site on July 14 following the trade association&#39;s efforts &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250717/p42#a250717p42)
- - [Pixel Watch 4 upgrades could include a repair-friendly design and new emergency tools](https://www.androidauthority.com/pixel-watch-4-upgrades-3578553/)<!-- TECH:END -->
+ - [Right-wing orgs put pro-Palestinian students on an ICE ‘hit list’](https://www.theverge.com/policy/707729/ice-doxxing-canary-mission-columbia-mahmoud-khalil)
+ - [Bring on the trifolds](https://www.theverge.com/mobile/708487/trifold-huawei-tecno-samsung-z-fold-7)
+ - [Here are the new features for Pixels in Android 16 QPR1 Beta 3](https://www.androidauthority.com/android-16-qpr1-beta-3-changes-3578641/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
