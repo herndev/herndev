@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The forbidden question..](http://9gag.com/gag/ary8rjB)
- - ⏩ [What do you think](http://9gag.com/gag/aE0ZNnp)
- - 👉 [Strong independent woman](http://9gag.com/gag/aPArz7B)<!-- MEMES:END -->
+ - 💣 [Driven](http://9gag.com/gag/aD2QNxx)
+ - ⏩ [The clone wars](http://9gag.com/gag/aNDjGM3)
+ - 👉 [Do you like Trains too?](http://9gag.com/gag/ajPRG0g)<!-- MEMES:END -->
 
 ---
 
