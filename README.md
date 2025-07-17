@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor choice of words](http://9gag.com/gag/avy94RE)
- - ⏩ [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
+ - 💣 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - ⏩ [Poor choice of words](http://9gag.com/gag/avy94RE)
+ - 👉 [Great achievement! Also people with down syndrome do not live as long as long as a healthy person.](http://9gag.com/gag/agmKboK)<!-- MEMES:END -->
 
 ---
 
