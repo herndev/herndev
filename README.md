@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
- - ⏩ [Epstein](http://9gag.com/gag/a87Vvxp)
- - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
+ - 💣 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - ⏩ [Poor choice of words](http://9gag.com/gag/avy94RE)
+ - 👉 [Strong independent woman](http://9gag.com/gag/aPArz7B)<!-- MEMES:END -->
 
 ---
 
