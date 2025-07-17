@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [DNA Test](http://9gag.com/gag/a1mOqLv)
- - ⏩ [Driven](http://9gag.com/gag/aD2QNxx)
- - 👉 [Do you like Trains too?](http://9gag.com/gag/ajPRG0g)<!-- MEMES:END -->
+ - 💣 [The forbidden question..](http://9gag.com/gag/ary8rjB)
+ - ⏩ [What do you think](http://9gag.com/gag/aE0ZNnp)
+ - 👉 [Strong independent woman](http://9gag.com/gag/aPArz7B)<!-- MEMES:END -->
 
 ---
 
