@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL’s best portable speakers plummet to record-low prices](https://www.androidauthority.com/jbl-charge-6-flip-7-deals-3578250/)
- - [Multi-service messaging app Beeper relaunches, introducing premium offerings and the option to switch to an on-device model; Automattic acquired Beeper in 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250716/p40#a250716p40)
- - [Subnautica 2&amp;#8217;s creators sue their publisher for ‘severely’ damaging the game’s release](https://www.theverge.com/entertainment/708676/subnautica-2-former-ceo-lawsuit-krafton-sabotage)<!-- TECH:END -->
+ - [Coinbase rolls out the Base App, rebranding its Coinbase Wallet as an &quot;everything app&quot; that combines social networking, mini-apps, chat, payments, and trading &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250716/p42#a250716p42)
+ - [In response to a March FOIA request, the US Marshals Service said it held over 28,988 BTC, worth ~$3.4B at current prices, far fewer than previously believed &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250716/p41#a250716p41)
+ - [JBL’s best portable speakers plummet to record-low prices](https://www.androidauthority.com/jbl-charge-6-flip-7-deals-3578250/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
