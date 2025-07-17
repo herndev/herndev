@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s fancy new AI tool measures image quality in games in real time, so upscaling artifacts and visual nasties have nowhere to hide](https://www.pcgamer.com/software/ai/intels-fancy-new-ai-tool-measures-image-quality-in-games-in-real-time-so-upscaling-artifacts-and-visual-nasties-have-nowhere-to-hide/)
- - [Mercedes just put in a bid for the worst idea ever by enabling you to stream yourself driving during those vital Teams meetings](https://www.pcgamer.com/hardware/mercedes-just-put-in-a-bid-for-the-worst-idea-ever-by-enabling-you-to-stream-yourself-driving-during-those-vital-teams-meetings/)
- - [&#39;Cease this behaviour immediately&#39;: Marvel Rivals is finally punishing smurfs by forcing them—and some innocent players—to smurf](https://www.pcgamer.com/games/third-person-shooter/cease-this-behaviour-immediately-marvel-rivals-is-finally-punishing-smurfs-by-forcing-them-and-some-innocent-players-to-smurf/)<!-- GAME:END -->
+ - [The stapled Nintendo Switch 2 saga has come to a $250,000 end](https://www.polygon.com/news/613569/switch-2-charity-auction-end-250k)
+ - [Dive into cyberpunk action — Off The Grid hits steam](https://www.polygon.com/613513/sponsored-dive-into-cyberpunk-action-off-the-grid-hits-steam)
+ - [Avowed Is The Latest Big Game To Stretch The Definition Of &#39;Verified&#39; On Steam Deck](https://kotaku.com/avowed-steam-deck-run-verified-valve-obsidian-1851786452)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
