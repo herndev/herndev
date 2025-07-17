@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
- - ⏩ [Epstein](http://9gag.com/gag/a87Vvxp)
- - 👉 [Strong independent woman](http://9gag.com/gag/aPArz7B)<!-- MEMES:END -->
+ - 💣 [That&#39;s awesome...](http://9gag.com/gag/amoRO96)
+ - ⏩ [I do believe](http://9gag.com/gag/amoRO3V)
+ - 👉 [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)<!-- MEMES:END -->
 
 ---
 
