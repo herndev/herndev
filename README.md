@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never gonna get bored by it, cool guy still](http://9gag.com/gag/azx4oqz)
- - ⏩ [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - 👉 [OPs confession](http://9gag.com/gag/ary89Nd)<!-- MEMES:END -->
+ - 💣 [DNA Test](http://9gag.com/gag/a1mOqLv)
+ - ⏩ [Driven](http://9gag.com/gag/aD2QNxx)
+ - 👉 [Do you like Trains too?](http://9gag.com/gag/ajPRG0g)<!-- MEMES:END -->
 
 ---
 
