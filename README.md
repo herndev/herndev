@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The trial for an $8B lawsuit by Meta investors against Mark Zuckerberg and other leaders opens over claims tied to the 2018 Cambridge Analytica privacy scandal &lpar;Associated Press&rpar;](http://www.techmeme.com/250716/p39#a250716p39)
- - [Nothing Phone 3 teardown reveals the guts of the year’s oddest-looking smartphone](https://www.androidauthority.com/nothing-phone-3-teardown-3578235/)
- - [Filing: Intel is laying off 5,000+ employees across California, Oregon, Texas, and Arizona; California cuts affect 1,935, more than double the initial estimates &lpar;Nathan Owens/Manufacturing Dive&rpar;](http://www.techmeme.com/250716/p38#a250716p38)<!-- TECH:END -->
+ - [JBL’s best portable speakers plummet to record-low prices](https://www.androidauthority.com/jbl-charge-6-flip-7-deals-3578250/)
+ - [Multi-service messaging app Beeper relaunches, introducing premium offerings and the option to switch to an on-device model; Automattic acquired Beeper in 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250716/p40#a250716p40)
+ - [Subnautica 2&amp;#8217;s creators sue their publisher for ‘severely’ damaging the game’s release](https://www.theverge.com/entertainment/708676/subnautica-2-former-ceo-lawsuit-krafton-sabotage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
