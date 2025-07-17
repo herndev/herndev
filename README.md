@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asia?](http://9gag.com/gag/aNDjGyv)
- - ⏩ [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)
- - 👉 [Biggest downgrade](http://9gag.com/gag/aZZRoX9)<!-- MEMES:END -->
+ - 💣 [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)
+ - ⏩ [Strong independent woman](http://9gag.com/gag/aPArz7B)
+ - 👉 [Epstein](http://9gag.com/gag/a87Vvxp)<!-- MEMES:END -->
 
 ---
 
