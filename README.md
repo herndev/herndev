@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages will soon tell you exactly what happened to sent messages &lpar;Updated: Beta rollout&rpar;](https://www.androidauthority.com/google-messages-view-details-apk-teardown-3529412/)
- - [Sources: in a Trump meeting, Jensen Huang argued US chips should be the global standard and leveraged support from David Sacks, who disliked Biden&#39;s chip rules &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250717/p19#a250717p19)
- - [Google could revamp Android’s backup settings with a sleek new look &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-backup-settings-new-look-apk-teardown-3537026/)<!-- TECH:END -->
+ - [Apple celebrates World Emoji Day with early release of &#39;Emoji Game&#39;](https://appleinsider.com/articles/25/07/17/apple-celebrates-world-emoji-day-with-early-release-of-emoji-game?utm_source=rss)
+ - [Apple Partridge Creek closing, as downtown Detroit store nears its opening](https://appleinsider.com/articles/25/07/17/apple-partridge-creek-closing-as-downtown-detroit-store-nears-its-opening?utm_source=rss)
+ - [Swedish AI coding startup Lovable raised a $200M Series A led by Accel at a $1.8B valuation, making it Europe&#39;s newest unicorn &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/250717/p22#a250717p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
