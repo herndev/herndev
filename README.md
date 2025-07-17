@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The stapled Nintendo Switch 2 saga has come to a $250,000 end](https://www.polygon.com/news/613569/switch-2-charity-auction-end-250k)
- - [Dive into cyberpunk action — Off The Grid hits steam](https://www.polygon.com/613513/sponsored-dive-into-cyberpunk-action-off-the-grid-hits-steam)
- - [Avowed Is The Latest Big Game To Stretch The Definition Of &#39;Verified&#39; On Steam Deck](https://kotaku.com/avowed-steam-deck-run-verified-valve-obsidian-1851786452)<!-- GAME:END -->
+ - [The warped grimdark Pac-Man game still hinges on its arcade roots](https://www.polygon.com/review/613369/shadow-labyrinth-review-nintendo-switch-2)
+ - [&#39;Father of Elder Scrolls&#39; steps back from game development because of cancer: &#39;We are preparing to say goodbye to a true legend of the industry&#39;](https://www.pcgamer.com/games/the-elder-scrolls/father-of-elder-scrolls-steps-back-from-game-development-because-of-cancer-we-are-preparing-to-say-goodbye-to-a-true-legend-of-the-industry/)
+ - [Some Of The New Mega Evolution Pokémon Cards May Have Leaked And Look Incredible](https://kotaku.com/pokemon-tcg-cards-mega-evolution-leak-lucario-latias-1851786474)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
