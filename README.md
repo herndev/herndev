@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A mere 8 years on, Assassin&#39;s Creed is bringing &#39;power and violence and sex and greed and vengeance&#39; to Netflix as a TV show](https://www.pcgamer.com/movies-tv/a-mere-8-years-on-assassins-creed-is-bringing-power-and-violence-and-sex-and-greed-and-vengeance-to-netflix-as-a-tv-show/)
- - [New Tron: Ares Trailer Looks Good...Ah, Damn, I Forgot Jared Leto Is In It](https://kotaku.com/tron-3-ares-jared-leto-trailer-official-nin-new-song-1851786513)
- - [Rematch: 4 Essential Tips To Improve Your Game](https://kotaku.com/rematch-tutorials-stamina-barrier-walls-camera-fov-1851786518)<!-- GAME:END -->
+ - [I&#39;m Sad I&#39;ll Never Get To Order The Mega Fries](https://kotaku.com/mcdonalds-xxl-mega-fan-fries-meal-malaysia-price-size-1851786525)
+ - [Civilization 6 Platinum Edition goes free to kick off Epic&#39;s 2025 Summer Sale](https://www.pcgamer.com/games/civilization-6-platinum-edition-goes-free-to-kick-off-epics-2025-summer-sale/)
+ - [A mere 8 years on, Assassin&#39;s Creed is bringing &#39;power and violence and sex and greed and vengeance&#39; to Netflix as a TV show](https://www.pcgamer.com/movies-tv/a-mere-8-years-on-assassins-creed-is-bringing-power-and-violence-and-sex-and-greed-and-vengeance-to-netflix-as-a-tv-show/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
