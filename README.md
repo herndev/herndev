@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Skull &amp; Bones, Destiny 2, Breakout Beyond, Blades of Fire and Atomicrops](https://news.xbox.com/en-us/2025/07/17/free-play-days-07-17-2025/)
- - [OptiScaler has been updated to theoretically support AMD&#39;s FSR 4 in all games with upscaling that don&#39;t use Vulcan or anti-cheat—which is nice, but why the heck doesn&#39;t AMD do this?](https://www.pcgamer.com/hardware/graphics-cards/optiscaler-has-been-updated-to-theoretically-support-amds-fsr-4-in-all-games-with-upscaling-that-dont-use-vulcan-or-anti-cheat-which-is-nice-but-why-the-heck-doesnt-amd-do-this/)
- - [Hyperbeat is one of the best rhythm games I&#39;ve played, with one of the most confusing UIs which at times makes me feel sick](https://www.pcgamer.com/games/hyperbeat-is-one-of-the-best-rhythm-games-ive-played-with-one-of-the-most-confusing-uis-which-at-times-makes-me-feel-sick/)<!-- GAME:END -->
+ - [Unfinished Business: How Nacon Created RoboCop’s Most Difficult Assignment Yet](https://news.xbox.com/en-us/2025/07/17/unfinished-business-how-nacon-created-robocops-most-difficult-assignment-yet/)
+ - [Assassin&#39;s Creed TV Show Announced 5 Years Ago Finally Moving Forward At Netflix](https://kotaku.com/netflix-assassins-creed-tv-show-ubisoft-plot-date-1851786489)
+ - [Who is Rhys Darby playing in Star Trek: Strange New Worlds?](https://www.polygon.com/star-trek/613641/strange-new-worlds-who-is-rhys-darby-playing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
