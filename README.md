@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All GTA Online Smoke on the Water product locations and rewards](https://www.pcgamer.com/games/grand-theft-auto/smoke-on-the-water-locations-map-rewards/)
- - [If you&#39;ve been putting off Rogue Trader until patches and DLC make it better, now&#39;s finally the time to jump in](https://www.pcgamer.com/games/rpg/if-youve-been-putting-off-rogue-trader-until-patches-and-dlc-make-it-better-nows-finally-the-time-to-jump-in/)
- - [After leaving Ubisoft to launch an anime avatar AI/NFT startup, Yves Guillemot&#39;s son returns to take charge of its new Tencent-backed Assassin&#39;s Creed, Far Cry, and Rainbow 6 subsidiary](https://www.pcgamer.com/gaming-industry/after-leaving-ubisoft-to-launch-an-anime-avatar-ai-nft-startup-yves-guillemots-son-returns-to-take-charge-of-its-new-tencent-backed-assassins-creed-far-cry-and-rainbow-6-subsidiary/)<!-- GAME:END -->
+ - [The Delta Force Technical Test is LIVE today for Xbox Insiders!](https://news.xbox.com/en-us/2025/07/16/the-delta-force-technical-test-is-live-today-for-xbox-insiders/)
+ - [Gigantamax Lapras counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/492425/gigantamax-lapras-counters-tips-max-battle)
+ - [All GTA Online Smoke on the Water product locations and rewards](https://www.pcgamer.com/games/grand-theft-auto/smoke-on-the-water-locations-map-rewards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
