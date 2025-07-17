@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The warped grimdark Pac-Man game still hinges on its arcade roots](https://www.polygon.com/review/613369/shadow-labyrinth-review-nintendo-switch-2)
- - [&#39;Father of Elder Scrolls&#39; steps back from game development because of cancer: &#39;We are preparing to say goodbye to a true legend of the industry&#39;](https://www.pcgamer.com/games/the-elder-scrolls/father-of-elder-scrolls-steps-back-from-game-development-because-of-cancer-we-are-preparing-to-say-goodbye-to-a-true-legend-of-the-industry/)
- - [Some Of The New Mega Evolution Pokémon Cards May Have Leaked And Look Incredible](https://kotaku.com/pokemon-tcg-cards-mega-evolution-leak-lucario-latias-1851786474)<!-- GAME:END -->
+ - [Free Play Days – Skull &amp; Bones, Destiny 2, Breakout Beyond, Blades of Fire and Atomicrops](https://news.xbox.com/en-us/2025/07/17/free-play-days-07-17-2025/)
+ - [OptiScaler has been updated to theoretically support AMD&#39;s FSR 4 in all games with upscaling that don&#39;t use Vulcan or anti-cheat—which is nice, but why the heck doesn&#39;t AMD do this?](https://www.pcgamer.com/hardware/graphics-cards/optiscaler-has-been-updated-to-theoretically-support-amds-fsr-4-in-all-games-with-upscaling-that-dont-use-vulcan-or-anti-cheat-which-is-nice-but-why-the-heck-doesnt-amd-do-this/)
+ - [Hyperbeat is one of the best rhythm games I&#39;ve played, with one of the most confusing UIs which at times makes me feel sick](https://www.pcgamer.com/games/hyperbeat-is-one-of-the-best-rhythm-games-ive-played-with-one-of-the-most-confusing-uis-which-at-times-makes-me-feel-sick/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
