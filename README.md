@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - ⏩ [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - 👉 [The forbidden question..](http://9gag.com/gag/ary8rjB)<!-- MEMES:END -->
+ - 💣 [Never gonna get bored by it, cool guy still](http://9gag.com/gag/azx4oqz)
+ - ⏩ [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
+ - 👉 [OPs confession](http://9gag.com/gag/ary89Nd)<!-- MEMES:END -->
 
 ---
 
