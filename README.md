@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s awesome...](http://9gag.com/gag/amoRO96)
- - ⏩ [I do believe](http://9gag.com/gag/amoRO3V)
- - 👉 [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)<!-- MEMES:END -->
+ - 💣 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
+ - ⏩ [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)
+ - 👉 [Is everyone happy now?](http://9gag.com/gag/a6ZGepq)<!-- MEMES:END -->
 
 ---
 
