@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Right-wing orgs put pro-Palestinian students on an ICE ‘hit list’](https://www.theverge.com/policy/707729/ice-doxxing-canary-mission-columbia-mahmoud-khalil)
- - [Bring on the trifolds](https://www.theverge.com/mobile/708487/trifold-huawei-tecno-samsung-z-fold-7)
- - [Here are the new features for Pixels in Android 16 QPR1 Beta 3](https://www.androidauthority.com/android-16-qpr1-beta-3-changes-3578641/)<!-- TECH:END -->
+ - [Anker’s new charging station battles desktop clutter with two retractable USB-C cables](https://www.theverge.com/news/709301/anker-nano-charging-station-usb-retractable)
+ - [This AI Warps Live Video in Real Time](https://www.wired.com/story/decart-artificial-intelligence-model-live-stream/)
+ - [Android’s Linux Terminal arrives on the Galaxy Z Flip 7, but Z Fold 7 users are left out](https://www.androidauthority.com/galaxy-z-flip-7-linux-terminal-3578675/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
