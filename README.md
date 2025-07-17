@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC reports Q2 net profit up ~60% YoY to ~$13.53B, beating estimates, and forecasts ~30% sales growth in USD terms in 2025, up from mid-20% previously &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250717/p9#a250717p9)
- - [We now have a better idea of when the Samsung tri-fold will launch](https://www.androidauthority.com/samsung-tri-fold-launch-month-leak-3578295/)
- - [TikTok is putting the spotlight on songwriters](https://www.theverge.com/news/708611/tiktok-songwriter-features-music-tab)<!-- TECH:END -->
+ - [I tried going self-hosted but Google Drive is just too convenient](https://www.androidauthority.com/synology-drive-vs-google-drive-3576601/)
+ - [Jack Dorsey invests $10M in &quot;and Other Stuff&quot;, a nonprofit focused on funding open-source projects and tools built on open protocols like Nostr and ActivityPub &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250717/p13#a250717p13)
+ - [Chinese game Revenge on Gold Diggers, one of the most popular and contentious video games in the country, sparks a debate over misogyny and male resentment &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/250717/p12#a250717p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
