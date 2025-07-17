@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is putting the spotlight on songwriters](https://www.theverge.com/news/708611/tiktok-songwriter-features-music-tab)
- - [AI is already transforming Hollywood, as studios and production companies experiment with AI tools and labor groups warn of job losses and other consequences &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250717/p8#a250717p8)
- - [Location sharing apps like Find My, Snap Map, and Life360 remain popular among Gen Z users, despite concerns about their impact on real-world relationships &lpar;Summer Maxwell/SFGATE&rpar;](http://www.techmeme.com/250717/p7#a250717p7)<!-- TECH:END -->
+ - [TSMC reports Q2 net profit up ~60% YoY to ~$13.53B, beating estimates, and forecasts ~30% sales growth in USD terms in 2025, up from mid-20% previously &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250717/p9#a250717p9)
+ - [We now have a better idea of when the Samsung tri-fold will launch](https://www.androidauthority.com/samsung-tri-fold-launch-month-leak-3578295/)
+ - [TikTok is putting the spotlight on songwriters](https://www.theverge.com/news/708611/tiktok-songwriter-features-music-tab)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
