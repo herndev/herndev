@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - ⏩ [Poor choice of words](http://9gag.com/gag/avy94RE)
- - 👉 [Strong independent woman](http://9gag.com/gag/aPArz7B)<!-- MEMES:END -->
+ - 💣 [Poor choice of words](http://9gag.com/gag/avy94RE)
+ - ⏩ [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - 👉 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
 
 ---
 
