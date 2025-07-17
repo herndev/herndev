@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great achievement! Also people with down syndrome do not live as long as long as a healthy person.](http://9gag.com/gag/agmKboK)
- - ⏩ [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
- - 👉 [Poor choice of words](http://9gag.com/gag/avy94RE)<!-- MEMES:END -->
+ - 💣 [I wouldn&#39;t fight him](http://9gag.com/gag/a4Pw8Dd)
+ - ⏩ [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - 👉 [I&#39;m this old](http://9gag.com/gag/ae9RqLm)<!-- MEMES:END -->
 
 ---
 
