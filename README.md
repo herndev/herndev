@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Planet Coaster 2: Fuel Your Park Inspiration with Frontier’s Favorite Xbox Community Builds](https://news.xbox.com/en-us/2025/07/17/planet-coaster-2-park-inspiration-xbox-community-builds/)
- - [You’re Gonna Have To Put In The Work To Romance Goddess Matsuri In Rune Factory: Guardians Of Azuma](https://kotaku.com/rune-factory-romance-options-matsuri-love-llike-dislike-1851786506)
- - [Persona 5 Gacha Studio Acknowledges Angry Feedback, Promises Response](https://kotaku.com/persona-5-phantom-x-atlus-black-wings-statement-rewards-1851786505)<!-- GAME:END -->
+ - [A mere 8 years on, Assassin&#39;s Creed is bringing &#39;power and violence and sex and greed and vengeance&#39; to Netflix as a TV show](https://www.pcgamer.com/movies-tv/a-mere-8-years-on-assassins-creed-is-bringing-power-and-violence-and-sex-and-greed-and-vengeance-to-netflix-as-a-tv-show/)
+ - [New Tron: Ares Trailer Looks Good...Ah, Damn, I Forgot Jared Leto Is In It](https://kotaku.com/tron-3-ares-jared-leto-trailer-official-nin-new-song-1851786513)
+ - [Rematch: 4 Essential Tips To Improve Your Game](https://kotaku.com/rematch-tutorials-stamina-barrier-walls-camera-fov-1851786518)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
