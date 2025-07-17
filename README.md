@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squarespace Promo Codes: 50% Off | July 2025](https://www.wired.com/story/squarespace-promo-code/)
- - [Sources: the European Commission has stalled one of its X investigations for breaking its digital transparency rules, as it negotiates a trade deal with the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250717/p2#a250717p2)
- - [Google says threat actors are stealing sensitive data from organizations by targeting fully patched, end-of-life appliances from cybersecurity company SonicWall &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250717/p1#a250717p1)<!-- TECH:END -->
+ - [Elliptic estimates cross-chain criminal and high-risk activity has topped $21.8B in 2025, up from $7B in 2023; North Korea is responsible for ~12% of the total &lpar;Yohan Yun/Cointelegraph&rpar;](http://www.techmeme.com/250717/p5#a250717p5)
+ - [A look at Neon Coat, an app that offers models and influencers free restaurant meals, fitness classes, and other experiences in exchange for social media posts &lpar;Lane Florsheim/Wall Street Journal&rpar;](http://www.techmeme.com/250717/p4#a250717p4)
+ - [Perplexity is offering a free one-year Perplexity Pro subscription, normally $20/month, to 360M users of Bharti Airtel, India&#39;s second-largest telecom operator &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250717/p3#a250717p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
