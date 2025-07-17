@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your first look at Google Translate’s Conversation mode redesign &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-translate-conversation-mode-redesign-apk-teardown-3578323/)
- - [I tested a new browser that makes Chrome feel outdated](https://www.androidauthority.com/perplexity-comet-hands-on-3577968/)
- - [Samsung Electronics Chair Jay Y. Lee wins a full reprieval from South Korea&#39;s Supreme Court in a protracted fight over fraud and stock manipulation allegations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p15#a250717p15)<!-- TECH:END -->
+ - [Google Messages will soon tell you exactly what happened to sent messages &lpar;Updated: Beta rollout&rpar;](https://www.androidauthority.com/google-messages-view-details-apk-teardown-3529412/)
+ - [Sources: in a Trump meeting, Jensen Huang argued US chips should be the global standard and leveraged support from David Sacks, who disliked Biden&#39;s chip rules &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250717/p19#a250717p19)
+ - [Google could revamp Android’s backup settings with a sleek new look &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-backup-settings-new-look-apk-teardown-3537026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
