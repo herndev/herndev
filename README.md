@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MacBook that starts at just $33.28 per month - thanks to this program](https://appleinsider.com/articles/25/07/17/the-macbook-that-starts-at-just-3328-per-month---thanks-to-this-program?utm_source=rss)
- - [Boulevard, which provides business management software for the self-care sector, raised an $80M Series D led by JMI Equity at an ~$800M post-money valuation &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250717/p33#a250717p33)
- - [I tested 12 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)<!-- TECH:END -->
+ - [Google fixes Gemini Live’s video fidelity so you can actually use it](https://www.androidauthority.com/gemini-live-blurry-video-fix-3578545/)
+ - [iPhone 17 Pro rumored to get Liquid Glass color treatment](https://appleinsider.com/articles/25/07/17/iphone-17-pro-rumored-to-get-liquid-glass-color-treatment?utm_source=rss)
+ - [Can’t sync your Fitbit? You’re not alone, as service suffers major outage &lpar;Update: Fixed&rpar;](https://www.androidauthority.com/fitbit-outage-2-3578487/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
