@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT may soon watermark your AI-generated images, but there could be a way out &lpar;APK teardown&rpar;](https://www.androidauthority.com/chatgpt-save-without-watermark-apk-teardown-3578789/)
- - [Nothing’s Essential Space can now talk to your Google Calendar](https://www.androidauthority.com/nothing-essential-space-update-july-2025-3578769/)
- - [Google may be removing its iconic ‘G’ logo from Messages &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-new-branding-3578773/)<!-- TECH:END -->
+ - [5 reasons I won’t spend more than $500 on my next phone](https://www.androidauthority.com/reasons-i-wont-buy-expensive-phone-3577470/)
+ - [GrapheneOS makers take a knife to this ‘Google-free’ phone coming to the US](https://www.androidauthority.com/fairphone-gen-6-us-grapheneos-criticism-3578792/)
+ - [OpenAI launches a full-fledged ChatGPT agent which can work without supervision](https://www.androidauthority.com/chatgpt-ai-agent-launched-3578796/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
