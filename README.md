@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
- - ⏩ [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [Poor choice of words](http://9gag.com/gag/avy94RE)<!-- MEMES:END -->
+ - 💣 [Im love bones now](http://9gag.com/gag/aE0Zjwn)
+ - ⏩ [Poor choice of words](http://9gag.com/gag/avy94RE)
+ - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
 
 ---
 
