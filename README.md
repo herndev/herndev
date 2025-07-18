@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smallville was a show.](http://9gag.com/gag/aLnW5wW)
- - ⏩ [And stuff..](http://9gag.com/gag/a5Q5APN)
- - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
+ - 💣 [Never saw that cam coming..](http://9gag.com/gag/amoRQZj)
+ - ⏩ [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
+ - 👉 [Coldplay just released two new singles](http://9gag.com/gag/ae9Rznv)<!-- MEMES:END -->
 
 ---
 
