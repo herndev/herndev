@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Im love bones now](http://9gag.com/gag/aE0Zjwn)
- - ⏩ [Poor choice of words](http://9gag.com/gag/avy94RE)
- - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
+ - 💣 [Send in the Clones......](http://9gag.com/gag/ary89QX)
+ - ⏩ [Having fun with the office open space](http://9gag.com/gag/aVvR4vK)
+ - 👉 [Uploading old stuff](http://9gag.com/gag/avy9BDE)<!-- MEMES:END -->
 
 ---
 
