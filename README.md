@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [GrapheneOS makers take a knife to this ‘Google-free’ phone coming to the US &lpar;Updated&rpar;](https://www.androidauthority.com/fairphone-gen-6-us-grapheneos-criticism-3578792/)
- - [Twelve South’s travel-friendly 2-in-1 Qi2 charger is over 50 percent off right now](https://www.theverge.com/tech/710104/twelve-south-butterfly-se-charger-nothing-phone-3-deal-sale)<!-- TECH:END -->
+ - [Google Fi is offering the Samsung Galaxy Z Flip 7 for just $199.99!](https://www.androidauthority.com/samsung-galaxy-z-flip-7-google-fi-deal-3579066/)
+ - [S&amp;P Global says Block will join the S&amp;P 500 on July 23, after announcing Monday that ad tech firm The Trade Desk will also be added; XYZ jumps 9%+ after hours &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250718/p21#a250718p21)
+ - [Best Back-to-School Tech Gear and Gadgets in 2025](https://www.cnet.com/tech/best-back-to-school-tech-gear/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
