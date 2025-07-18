@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Torpedo](http://9gag.com/gag/aKGK5G1)
- - ⏩ [How to get the protein straight into your blood stream?..... Schnapps!](http://9gag.com/gag/abARDvL)
- - 👉 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
+ - 💣 [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
+ - ⏩ [Old gold](http://9gag.com/gag/aGy7v7z)
+ - 👉 [Are we something](http://9gag.com/gag/aAyvA52)<!-- MEMES:END -->
 
 ---
 
