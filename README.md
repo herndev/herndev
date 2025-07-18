@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Christoph waltz, what a legend](http://9gag.com/gag/ary89Wp)
- - ⏩ [How to get the protein straight into your blood stream?..... Schnapps!](http://9gag.com/gag/abARDvL)
- - 👉 [Im love bones now](http://9gag.com/gag/aE0Zjwn)<!-- MEMES:END -->
+ - 💣 [Send in the Clones......](http://9gag.com/gag/ary89QX)
+ - ⏩ [Looks like pain](http://9gag.com/gag/ae9RzDv)
+ - 👉 [Uploading old stuff](http://9gag.com/gag/avy9BDE)<!-- MEMES:END -->
 
 ---
 
