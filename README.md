@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Air rumored to shrink battery &amp; lean on iOS 26 to keep up](https://appleinsider.com/articles/25/07/18/iphone-17-air-rumored-to-shrink-battery-lean-on-ios-26-to-keep-up?utm_source=rss)
- - [I sent ChatGPT Agent out to shop for me](https://www.theverge.com/ai-artificial-intelligence/710020/openai-review-test-new-release-chatgpt-agent-operator-deep-research-pro-200-subscription)
- - [President Trump signs the GENIUS Act, and says the first federal bill to regulate stablecoins will &quot;secure the dollar&#39;s status as the world&#39;s reserve currency&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250718/p16#a250718p16)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [GrapheneOS makers take a knife to this ‘Google-free’ phone coming to the US &lpar;Updated&rpar;](https://www.androidauthority.com/fairphone-gen-6-us-grapheneos-criticism-3578792/)
+ - [Twelve South’s travel-friendly 2-in-1 Qi2 charger is over 50 percent off right now](https://www.theverge.com/tech/710104/twelve-south-butterfly-se-charger-nothing-phone-3-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
