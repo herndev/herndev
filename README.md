@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the White House is preparing an EO requiring AI companies with federal contracts to be neutral and unbiased, to combat what officials see as &quot;woke AI&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p53#a250717p53)
- - [An advisory board convened by OpenAI recommends that the company remain a nonprofit because AI is &quot;too consequential&quot; to be governed by a corporation alone &lpar;Thalia Beaty/Associated Press&rpar;](http://www.techmeme.com/250717/p52#a250717p52)
- - [Key Home Energy Tax Credits End This Year. Act Quickly if You&#39;re Considering Solar Panels, Experts Say](https://www.cnet.com/home/energy-and-utilities/key-home-energy-tax-credits-end-this-year-act-quickly-if-youre-considering-solar-panels-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Gates Foundation, Ballmer Group, and others form NextLadder to spend $1B over 15 years to develop AI tools for public defenders, parole officers, and more &lpar;Thalia Beaty/Associated Press&rpar;](http://www.techmeme.com/250717/p55#a250717p55)
+ - [Pre-order deals: Get up to $300 in Samsung credit with your Galaxy Z Fold 7 or Flip 7](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-pre-order-deals-3578699/)
+ - [My Favorite All-in-One Kitchen Appliance Is on Sale for 20% Off](https://www.cnet.com/deals/my-favorite-all-in-one-kitchen-appliance-is-on-sale-for-20-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
