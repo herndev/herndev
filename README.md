@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Redditor says it wasn&#39;t even that difficult to get a sub-$100 broken Steam Deck working again with parts from an old Nintendo DS Lite: &#39;not that hard at all&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/this-redditor-says-it-wasnt-even-that-difficult-to-get-a-sub-usd100-broken-steam-deck-working-again-with-parts-from-an-old-nintendo-ds-lite-not-that-hard-at-all/)
  - [How performance optimisation makes Samsung Galaxy phones great for gaming](https://www.pcgamer.com/games/how-performance-optimisation-makes-samsung-galaxy-phones-great-for-gaming/)
- - [Today&#39;s Wordle answer for Friday, July 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-18-2025/)
- - [How to enjoy Umamusume: Pretty Derby without spending any money](https://www.pcgamer.com/games/sim/umamusume-f2p-tips/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, July 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-18-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
