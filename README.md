@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
- - ⏩ [Cut...](http://9gag.com/gag/a6ZGzWe)
- - 👉 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)<!-- MEMES:END -->
+ - 💣 [Coldplay looking out for everyone, even the side pieces](http://9gag.com/gag/avy9qBW)
+ - ⏩ [I dare you to vote against](http://9gag.com/gag/adBRAKB)
+ - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
 
 ---
 
