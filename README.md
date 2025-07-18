@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How performance optimisation makes Samsung Galaxy phones great for gaming](https://www.pcgamer.com/games/how-performance-optimisation-makes-samsung-galaxy-phones-great-for-gaming/)
  - [Today&#39;s Wordle answer for Friday, July 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-18-2025/)
- - [How to enjoy Umamusume: Pretty Derby without spending any money](https://www.pcgamer.com/games/sim/umamusume-f2p-tips/)
- - [&#39;I have been fooled&#39;: Reddit user endures the roasting of a lifetime after asking how to download a 487MB book they worked on with ChatGPT for over 2 weeks](https://www.pcgamer.com/software/ai/i-have-been-fooled-reddit-user-endures-the-roasting-of-a-lifetime-after-asking-how-to-download-a-487mb-book-they-worked-on-with-chatgpt-for-over-2-weeks/)<!-- GAME:END -->
+ - [How to enjoy Umamusume: Pretty Derby without spending any money](https://www.pcgamer.com/games/sim/umamusume-f2p-tips/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
