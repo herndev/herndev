@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - ⏩ [Obvious](http://9gag.com/gag/aD2Q99x)
- - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
+ - 💣 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - ⏩ [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
+ - 👉 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)<!-- MEMES:END -->
 
 ---
 
