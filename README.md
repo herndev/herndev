@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Obvious](http://9gag.com/gag/aD2Q99x)
- - ⏩ [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
+ - 💣 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - ⏩ [Obvious](http://9gag.com/gag/aD2Q99x)
  - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
 
 ---
