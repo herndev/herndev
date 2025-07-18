@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally finished it after 5 years](http://9gag.com/gag/azx4znB)
- - ⏩ [Coldplay making singles again](http://9gag.com/gag/aZZRXOW)
- - 👉 [Uploading old stuff](http://9gag.com/gag/avy9BDE)<!-- MEMES:END -->
+ - 💣 [Cut...](http://9gag.com/gag/a6ZGzWe)
+ - ⏩ [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
+ - 👉 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)<!-- MEMES:END -->
 
 ---
 
