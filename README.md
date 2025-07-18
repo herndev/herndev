@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SPAC Insider: SPACs are booming in 2025, with 74 blank check companies going public so far in 2025, raising about $14.7B and beating 2022 total of $13.4B &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250718/p15#a250718p15)
- - [These Continuous Glucose Monitors Have Been Recalled Due to Faulty Speakers. What You Need to Do to Stay Safe](https://www.cnet.com/health/medical/these-continuous-glucose-monitors-have-been-recalled-due-to-faulty-speakers-what-you-need-to-do-to-stay-safe/#ftag=CAD590a51e)
- - [Samsung Fold 7 and Flip 7 replacement screen pricing makes a strong case for getting Care Plus](https://www.androidauthority.com/samsung-fold-7-repair-pricing-3578977/)<!-- TECH:END -->
+ - [iPhone 17 Air rumored to shrink battery &amp; lean on iOS 26 to keep up](https://appleinsider.com/articles/25/07/18/iphone-17-air-rumored-to-shrink-battery-lean-on-ios-26-to-keep-up?utm_source=rss)
+ - [I sent ChatGPT Agent out to shop for me](https://www.theverge.com/ai-artificial-intelligence/710020/openai-review-test-new-release-chatgpt-agent-operator-deep-research-pro-200-subscription)
+ - [President Trump signs the GENIUS Act, and says the first federal bill to regulate stablecoins will &quot;secure the dollar&#39;s status as the world&#39;s reserve currency&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250718/p16#a250718p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
