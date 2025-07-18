@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coldplay looking out for everyone, even the side pieces](http://9gag.com/gag/avy9qBW)
- - ⏩ [Coldplay just released two new singles](http://9gag.com/gag/ae9Rznv)
- - 👉 [If Tarantino lost all his teeth he would probably look the same.](http://9gag.com/gag/a4Pwg1Q)<!-- MEMES:END -->
+ - 💣 [He&#39;s okay](http://9gag.com/gag/ajPRw81)
+ - ⏩ [Domp the dog](http://9gag.com/gag/a5Q59oy)
+ - 👉 [Is everyone happy now?](http://9gag.com/gag/a6ZGepq)<!-- MEMES:END -->
 
 ---
 
