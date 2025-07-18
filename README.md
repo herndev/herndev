@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 reasons I won’t spend more than $500 on my next phone](https://www.androidauthority.com/reasons-i-wont-buy-expensive-phone-3577470/)
- - [GrapheneOS makers take a knife to this ‘Google-free’ phone coming to the US](https://www.androidauthority.com/fairphone-gen-6-us-grapheneos-criticism-3578792/)
- - [OpenAI launches a full-fledged ChatGPT agent which can work without supervision](https://www.androidauthority.com/chatgpt-ai-agent-launched-3578796/)<!-- TECH:END -->
+ - [Apple sues leaker Jon Prosser for stealing iOS secrets](https://www.theverge.com/news/709550/apple-jon-prosser-lawsuit-michael-ramacciotti-ios-26-trade-secrets)
+ - [I ditched my $1,000 Android phone for Google’s $500 one, and I barely noticed a difference](https://www.androidauthority.com/ditched-900-dollar-android-phone-for-pixel-9a-what-happened-3577830/)
+ - [iSnitched? Apple sues YouTuber over elaborate iOS 26 leak plot](https://www.androidauthority.com/apple-jon-prosser-ios-leak-lawsuit-3578852/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
