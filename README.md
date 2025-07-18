@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve confirms credit card companies pressured it to delist certain adult games from Steam](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
- - [Donkey Kong Bananza Fans Are Having Way Too Much Fun With Its Artist Mode](https://kotaku.com/donkey-kong-bananza-artist-mode-mario-paint-switch-2-1851786555)
- - [Final Fantasy 14 warns players that it&#39;s time for an upgrade as Microsoft gears up to end support for Windows 10: &#39;Support for this operating system is a difficult proposition&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-warns-players-that-its-time-for-an-upgrade-as-microsoft-gears-up-to-end-support-for-windows-10-support-for-this-operating-system-is-a-difficult-proposition/)<!-- GAME:END -->
+ - [How Dying Light: The Beast Transformed Nights to Pure Horror – Let’s Ask the Devs](https://news.xbox.com/en-us/2025/07/18/dying-light-the-beast-interview/)
+ - [With Steam launch concurrents at an all-time low for Destiny 2&#39;s latest expansion, I think Bungie is finally paying the price for years of mistakes—the biggest being the time it removed paid content](https://www.pcgamer.com/games/fps/with-steam-launch-concurrents-at-an-all-time-low-for-destiny-2s-latest-expansion-i-think-bungie-is-finally-paying-the-price-for-years-of-mistakes-the-biggest-being-the-time-it-removed-paid-content/)
+ - [Xbox Is Done Selling Movies And TV Shows](https://kotaku.com/xbox-movies-tv-shows-store-ending-support-shut-down-1851786567)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
