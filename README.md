@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, July 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-18-2025/)
  - [How to enjoy Umamusume: Pretty Derby without spending any money](https://www.pcgamer.com/games/sim/umamusume-f2p-tips/)
- - [&#39;I have been fooled&#39;: Reddit user endures the roasting of a lifetime after asking how to download a 487MB book they worked on with ChatGPT for over 2 weeks](https://www.pcgamer.com/software/ai/i-have-been-fooled-reddit-user-endures-the-roasting-of-a-lifetime-after-asking-how-to-download-a-487mb-book-they-worked-on-with-chatgpt-for-over-2-weeks/)
- - [No Sleep for Kaname Date cements the Somnium Files as gaming&amp;#8217;s truest sitcom](https://www.polygon.com/review/612240/no-sleep-for-kaname-date-ai-the-somnium-files-review)<!-- GAME:END -->
+ - [&#39;I have been fooled&#39;: Reddit user endures the roasting of a lifetime after asking how to download a 487MB book they worked on with ChatGPT for over 2 weeks](https://www.pcgamer.com/software/ai/i-have-been-fooled-reddit-user-endures-the-roasting-of-a-lifetime-after-asking-how-to-download-a-487mb-book-they-worked-on-with-chatgpt-for-over-2-weeks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
