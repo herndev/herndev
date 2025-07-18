@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Gates Foundation, Ballmer Group, and others form NextLadder to spend $1B over 15 years to develop AI tools for public defenders, parole officers, and more &lpar;Thalia Beaty/Associated Press&rpar;](http://www.techmeme.com/250717/p55#a250717p55)
- - [Pre-order deals: Get up to $300 in Samsung credit with your Galaxy Z Fold 7 or Flip 7](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-pre-order-deals-3578699/)
- - [My Favorite All-in-One Kitchen Appliance Is on Sale for 20% Off](https://www.cnet.com/deals/my-favorite-all-in-one-kitchen-appliance-is-on-sale-for-20-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta has poached two more heavyweights from Apple&#39;s AI team](https://appleinsider.com/articles/25/07/18/meta-has-poached-two-more-heavyweights-from-apples-ai-team?utm_source=rss)
+ - [Neuralink filed on April 24 as a &quot;small disadvantaged business&quot; that could give it preferential access to federal opportunities, before being valued at $9B &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250717/p58#a250717p58)
+ - [Claude Code users, many on the $200-a-month Max plan, are unexpectedly facing restrictive usage limits; Anthropic says it&#39;s &quot;working to resolve these issues&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/250717/p57#a250717p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
