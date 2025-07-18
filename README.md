@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
- - ⏩ [Old gold](http://9gag.com/gag/aGy7v7z)
- - 👉 [Are we something](http://9gag.com/gag/aAyvA52)<!-- MEMES:END -->
+ - 💣 [Smallville was a show.](http://9gag.com/gag/aLnW5wW)
+ - ⏩ [And stuff..](http://9gag.com/gag/a5Q5APN)
+ - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
 
 ---
 
