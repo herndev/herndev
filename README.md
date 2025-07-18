@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Playing Metal Gear Solid 3 Without Pressure-Sensitive Buttons Is Giving Me Literal Phantom Pains](https://kotaku.com/metal-gear-solid-ps2-ps3-analog-pressure-sensitive-1851786575)
- - [Here’s the one Destiny 2 Portal modifier that makes A-grade easy, showering you with new loot in The Edge of Fate](https://www.pcgamer.com/games/fps/heres-the-one-destiny-2-portal-modifier-that-makes-a-grade-easy-showering-you-with-new-loot-in-the-edge-of-fate/)
- - [Sony WF-C710N review](https://www.pcgamer.com/hardware/earbuds-headphones/sony-wf-c710n-review/)<!-- GAME:END -->
+ - [How Monument Valley 3 Uses Soundscapes to Tell Its Story](https://news.xbox.com/en-us/2025/07/18/how-monument-valley-3-uses-soundscapes-to-tell-its-story/)
+ - [Superman’s Lex Luthor scheme feels like a callback to his greatest Justice League Unlimited moment](https://www.polygon.com/entertainment/614034/lex-luthor-james-gunn-superman-2025-justice-league-unlimited)
+ - [Dropout&amp;#8217;s Gastronauts season 2 trailer sold me on picking up the show](https://www.polygon.com/news/614004/dropouts-gastronauts-season-2-trailer-sold-me-on-picking-up-the-show)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
