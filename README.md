@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Send in the Clones......](http://9gag.com/gag/ary89QX)
- - ⏩ [Finally finished it after 5 years](http://9gag.com/gag/azx4znB)
- - 👉 [The clone wars](http://9gag.com/gag/aNDjGM3)<!-- MEMES:END -->
+ - 💣 [Im love bones now](http://9gag.com/gag/aE0Zjwn)
+ - ⏩ [How powerful!](http://9gag.com/gag/azx4vrB)
+ - 👉 [Cut...](http://9gag.com/gag/a6ZGzWe)<!-- MEMES:END -->
 
 ---
 
