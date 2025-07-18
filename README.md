@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Redditor says it wasn&#39;t even that difficult to get a sub-$100 broken Steam Deck working again with parts from an old Nintendo DS Lite: &#39;not that hard at all&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/this-redditor-says-it-wasnt-even-that-difficult-to-get-a-sub-usd100-broken-steam-deck-working-again-with-parts-from-an-old-nintendo-ds-lite-not-that-hard-at-all/)
- - [How performance optimisation makes Samsung Galaxy phones great for gaming](https://www.pcgamer.com/games/how-performance-optimisation-makes-samsung-galaxy-phones-great-for-gaming/)
- - [Today&#39;s Wordle answer for Friday, July 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-18-2025/)<!-- GAME:END -->
+ - [Asus ROG Azoth X review](https://www.pcgamer.com/hardware/gaming-keyboards/asus-rog-azoth-x-review/)
+ - [Google begins legal action against BadBox 2.0, &#39;the largest known botnet of internet-connected TVs&#39; affecting more than 10,000,000 Android devices including *checks notes* picture frames](https://www.pcgamer.com/software/security/google-begins-legal-action-against-badbox-2-0-the-largest-known-botnet-of-internet-connected-tvs-affecting-more-than-10-000-000-android-devices-including-checks-notes-picture-frames/)
+ - [Nintendo Is Launching A Second Secret Switch Online Playtest, And We All Have To Pretend We Don&#39;t Know What It&#39;s For](https://kotaku.com/nintendo-switch-online-playtest-program-secret-mmo-1851786542)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
