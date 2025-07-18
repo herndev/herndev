@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Dying Light: The Beast Transformed Nights to Pure Horror – Let’s Ask the Devs](https://news.xbox.com/en-us/2025/07/18/dying-light-the-beast-interview/)
- - [With Steam launch concurrents at an all-time low for Destiny 2&#39;s latest expansion, I think Bungie is finally paying the price for years of mistakes—the biggest being the time it removed paid content](https://www.pcgamer.com/games/fps/with-steam-launch-concurrents-at-an-all-time-low-for-destiny-2s-latest-expansion-i-think-bungie-is-finally-paying-the-price-for-years-of-mistakes-the-biggest-being-the-time-it-removed-paid-content/)
- - [Xbox Is Done Selling Movies And TV Shows](https://kotaku.com/xbox-movies-tv-shows-store-ending-support-shut-down-1851786567)<!-- GAME:END -->
+ - [Playing Metal Gear Solid 3 Without Pressure-Sensitive Buttons Is Giving Me Literal Phantom Pains](https://kotaku.com/metal-gear-solid-ps2-ps3-analog-pressure-sensitive-1851786575)
+ - [Here’s the one Destiny 2 Portal modifier that makes A-grade easy, showering you with new loot in The Edge of Fate](https://www.pcgamer.com/games/fps/heres-the-one-destiny-2-portal-modifier-that-makes-a-grade-easy-showering-you-with-new-loot-in-the-edge-of-fate/)
+ - [Sony WF-C710N review](https://www.pcgamer.com/hardware/earbuds-headphones/sony-wf-c710n-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
