@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Donkey Kong Bananza fans are spending hours destroying everything](https://www.polygon.com/culture/613994/donkey-kong-bananza-destruction-mechanics-switch-2-opening-level)
- - [I&#39;ve been obsessed with a single dialogue choice in an underappreciated Obsidian game for 10 years, so I tracked down the guy who wrote it to learn everything about my favorite joke in RPG history](https://www.pcgamer.com/games/rpg/ive-been-obsessed-with-a-single-dialogue-choice-in-an-underappreciated-obsidian-game-for-10-years-so-i-tracked-down-the-guy-who-wrote-it-to-learn-everything-about-my-favorite-joke-in-rpg-history/)
- - [Becoming A Pro Fisher In Rune Factory: Guardians Of Azuma Is Worth The Effort](https://kotaku.com/rune-factory-azuma-fishing-pescapedia-holes-1851786588)<!-- GAME:END -->
+ - [Prince of Persia: The Sands of Time Remake will launch &#39;very soon,&#39; Ubisoft exec says, but he also namedropped Splinter Cell for no apparent reason so maybe he&#39;s still just messing with us](https://www.pcgamer.com/games/action/prince-of-persia-the-sands-of-time-remake-will-launch-very-soon-ubisoft-exec-says-but-he-also-namedropped-splinter-cell-for-no-apparent-reason-so-maybe-hes-still-just-messing-with-us/)
+ - [Executor Remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603710/executor-remembrance-walkthrough-steps-rewards)
+ - [Coldplay Concert Kiss Cam Scandal &#39;Vibe Coded&#39; Into A Game By Song A Day Guy](https://kotaku.com/coldplay-concert-kiss-cam-game-ai-black-mirror-1851786603)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
