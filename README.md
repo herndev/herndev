@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
- - ⏩ [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
- - 👉 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)<!-- MEMES:END -->
+ - 💣 [American way to handle a tick:](http://9gag.com/gag/awye2b8)
+ - ⏩ [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 👉 [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)<!-- MEMES:END -->
 
 ---
 
