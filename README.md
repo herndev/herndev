@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Monument Valley 3 Uses Soundscapes to Tell Its Story](https://news.xbox.com/en-us/2025/07/18/how-monument-valley-3-uses-soundscapes-to-tell-its-story/)
- - [Superman’s Lex Luthor scheme feels like a callback to his greatest Justice League Unlimited moment](https://www.polygon.com/entertainment/614034/lex-luthor-james-gunn-superman-2025-justice-league-unlimited)
- - [Dropout&amp;#8217;s Gastronauts season 2 trailer sold me on picking up the show](https://www.polygon.com/news/614004/dropouts-gastronauts-season-2-trailer-sold-me-on-picking-up-the-show)<!-- GAME:END -->
+ - [Donkey Kong Bananza fans are spending hours destroying everything](https://www.polygon.com/culture/613994/donkey-kong-bananza-destruction-mechanics-switch-2-opening-level)
+ - [I&#39;ve been obsessed with a single dialogue choice in an underappreciated Obsidian game for 10 years, so I tracked down the guy who wrote it to learn everything about my favorite joke in RPG history](https://www.pcgamer.com/games/rpg/ive-been-obsessed-with-a-single-dialogue-choice-in-an-underappreciated-obsidian-game-for-10-years-so-i-tracked-down-the-guy-who-wrote-it-to-learn-everything-about-my-favorite-joke-in-rpg-history/)
+ - [Becoming A Pro Fisher In Rune Factory: Guardians Of Azuma Is Worth The Effort](https://kotaku.com/rune-factory-azuma-fishing-pescapedia-holes-1851786588)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
