@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT may soon watermark your AI-generated images, but there could be a way out &lpar;APK teardown&rpar;](https://www.androidauthority.com/chatgpt-save-without-watermark-apk-teardown-3578789/)
  - [Nothing’s Essential Space can now talk to your Google Calendar](https://www.androidauthority.com/nothing-essential-space-update-july-2025-3578769/)
- - [Google may be removing its iconic ‘G’ logo from Messages &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-new-branding-3578773/)
- - [Analysis: nearly 70 Trump administration officials and nominees held crypto or investments in blockchain or digital-asset firms at the time of their selection &lpar;Washington Post&rpar;](http://www.techmeme.com/250718/p2#a250718p2)<!-- TECH:END -->
+ - [Google may be removing its iconic ‘G’ logo from Messages &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-new-branding-3578773/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
