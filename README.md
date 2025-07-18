@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI Mode could soon get an important Gemini feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-ai-mode-history-revamp-3578915/)
- - [Mint Mobile’s annual unlimited plan is now 50% off for the first year](https://www.androidauthority.com/mint-mobile-annual-sale-3578959/)
- - [Apple sues Jon Prosser over iOS 26 leaks](https://appleinsider.com/articles/25/07/18/apple-sues-jon-prosser-over-ios-26-leaks?utm_source=rss)<!-- TECH:END -->
+ - [Spotify’s new 30-hour audiobook plans are too short to finish long books](https://www.theverge.com/news/709693/spotify-audiobook-15-hour-add-on)
+ - [24,000 e-bike batteries recalled because the US can’t get its shit together](https://www.theverge.com/analysis/709727/e-bike-battery-recall-ul-certification-mandate)
+ - [Kingston XS2000 4TB External SSD review: Fast enough, but not the best for Apple owners](https://appleinsider.com/articles/25/07/18/kingston-xs2000-4tb-external-ssd-review-fast-enough-but-not-the-best-for-apple-owners?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
