@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls back Pixel’s controversial At a Glance change in Android 16 QPR1 Beta 3](https://www.androidauthority.com/at-a-glance-android-16-qpr1-beta-3-3578754/)
- - [Samsung Galaxy Z Fold7 review: looks like a regular phone with an exquisitely thin design, has top-tier performance, but is very pricey and lacks S Pen support &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250717/p59#a250717p59)
- - [Meta has poached two more heavyweights from Apple&#39;s AI team](https://appleinsider.com/articles/25/07/18/meta-has-poached-two-more-heavyweights-from-apples-ai-team?utm_source=rss)<!-- TECH:END -->
+ - [Apple sues Jon Prosser and Michael Ramacciotti over iOS 26 leaks, alleging a plot to access Apple employee&#39;s iPhone for trade secrets; Prosser denies the claim &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250718/p1#a250718p1)
+ - [Sources: the US State Department has effectively dismantled its three-year-old Bureau of Cyberspace and Digital Policy, firing between nine and 11 staffers &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250717/p60#a250717p60)
+ - [Google rolls back Pixel’s controversial At a Glance change in Android 16 QPR1 Beta 3](https://www.androidauthority.com/at-a-glance-android-16-qpr1-beta-3-3578754/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
