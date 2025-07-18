@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 21 to 25](https://news.xbox.com/en-us/2025/07/18/next-week-on-xbox-new-games-for-july-21-to-25/)
- - [Genshin Impact version 5.8 livestream codes](https://www.polygon.com/genshin-impact-guides/613436/version-5-8-livestream-code-redeem-primogems)
- - [Report: FromSoftware&#39;s Next Unannounced Game Is Closer Than We Think](https://kotaku.com/dark-souls-3-remaster-armored-core-6-fromsoftware-1851786550)<!-- GAME:END -->
+ - [Valve confirms credit card companies pressured it to delist certain adult games from Steam](https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/)
+ - [Donkey Kong Bananza Fans Are Having Way Too Much Fun With Its Artist Mode](https://kotaku.com/donkey-kong-bananza-artist-mode-mario-paint-switch-2-1851786555)
+ - [Final Fantasy 14 warns players that it&#39;s time for an upgrade as Microsoft gears up to end support for Windows 10: &#39;Support for this operating system is a difficult proposition&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-warns-players-that-its-time-for-an-upgrade-as-microsoft-gears-up-to-end-support-for-windows-10-support-for-this-operating-system-is-a-difficult-proposition/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
