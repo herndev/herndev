@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [American way to handle a tick:](http://9gag.com/gag/awye2b8)
- - ⏩ [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
- - 👉 [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)<!-- MEMES:END -->
+ - 💣 [Sometimes pause at the right moment](http://9gag.com/gag/aYQRBYN)
+ - ⏩ [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
+ - 👉 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)<!-- MEMES:END -->
 
 ---
 
