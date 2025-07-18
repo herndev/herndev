@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Galaxy Z Fold 7 opens perfectly flat, but shoppers are reporting issue with demo units](https://www.androidauthority.com/samsung-galaxy-z-fold-7-opening-flat-3578761/)
- - [Apple sues Jon Prosser and Michael Ramacciotti over iOS 26 leaks, alleging a plot to access Apple employee&#39;s iPhone for trade secrets; Prosser denies the claim &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250718/p1#a250718p1)
- - [Sources: the US State Department has effectively dismantled its three-year-old Bureau of Cyberspace and Digital Policy, firing between nine and 11 staffers &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250717/p60#a250717p60)<!-- TECH:END -->
+ - [Nothing’s Essential Space can now talk to your Google Calendar](https://www.androidauthority.com/nothing-essential-space-update-july-2025-3578769/)
+ - [Google may be removing its iconic ‘G’ logo from Messages &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-new-branding-3578773/)
+ - [Analysis: nearly 70 Trump administration officials and nominees held crypto or investments in blockchain or digital-asset firms at the time of their selection &lpar;Washington Post&rpar;](http://www.techmeme.com/250718/p2#a250718p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
