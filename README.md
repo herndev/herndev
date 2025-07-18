@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cut...](http://9gag.com/gag/a6ZGzWe)
- - ⏩ [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
- - 👉 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)<!-- MEMES:END -->
+ - 💣 [Coldplay looking out for everyone, even the side pieces](http://9gag.com/gag/avy9qBW)
+ - ⏩ [Coldplay just released two new singles](http://9gag.com/gag/ae9Rznv)
+ - 👉 [If Tarantino lost all his teeth he would probably look the same.](http://9gag.com/gag/a4Pwg1Q)<!-- MEMES:END -->
 
 ---
 
