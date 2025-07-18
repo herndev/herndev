@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delta Air Lines is using AI to set the maximum price you&amp;#8217;re willing to pay](https://www.theverge.com/news/709556/delta-air-lines-ai-ticket-price-rollout)
- - [7 Best Coffee Concentrates for Instant Caffeine &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-concentrates/)
- - [My apologies, Samsung, I was unfamiliar with your Fold game](https://www.androidauthority.com/samsung-galaxy-z-fold-7-hardware-upgrade-3578530/)<!-- TECH:END -->
+ - [Apple Watch health, iPhone 17 colors, and &#39;Severance&#39; on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/18/apple-watch-health-iphone-17-colors-and-severance-on-the-appleinsider-podcast?utm_source=rss)
+ - [The EU issues guidelines to help AI models with systemic risks comply with the AI Act, after criticism from some companies about lack of clarity &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250718/p6#a250718p6)
+ - [Italian YouTuber Faces Jail Time for Showing Android Handhelds With Emulated Games](https://www.wired.com/story/italian-youtuber-faces-jail-time-for-showing-android-gaming-handhelds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
