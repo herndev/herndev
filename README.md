@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Prince of Persia: The Sands of Time Remake will launch &#39;very soon,&#39; Ubisoft exec says, but he also namedropped Splinter Cell for no apparent reason so maybe he&#39;s still just messing with us](https://www.pcgamer.com/games/action/prince-of-persia-the-sands-of-time-remake-will-launch-very-soon-ubisoft-exec-says-but-he-also-namedropped-splinter-cell-for-no-apparent-reason-so-maybe-hes-still-just-messing-with-us/)
- - [Executor Remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603710/executor-remembrance-walkthrough-steps-rewards)
- - [Coldplay Concert Kiss Cam Scandal &#39;Vibe Coded&#39; Into A Game By Song A Day Guy](https://kotaku.com/coldplay-concert-kiss-cam-game-ai-black-mirror-1851786603)<!-- GAME:END -->
+ - [Donkey Kong Bananza skills list and how to unlock them](https://www.polygon.com/donkey-kong-bananza-guides-dk/612406/skills-list-all-points-how-to-unlock)
+ - [More than a year after its last update, this forgotten RTS from the makers of Homeworld: Deserts of Kharak is being removed from Steam](https://www.pcgamer.com/games/rts/more-than-a-year-after-its-last-update-this-forgotten-rts-from-the-makers-of-homeworld-deserts-of-kharak-is-being-removed-from-steam/)
+ - [Every new movie hitting Netflix and beyond this weekend &lpar;July 18-20&rpar;](https://www.polygon.com/movies/613887/new-movies-watch-how-to-train-your-dragon-m3gan-2-bride-hard-7-19-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
