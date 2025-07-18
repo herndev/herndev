@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s okay](http://9gag.com/gag/ajPRw81)
- - ⏩ [Domp the dog](http://9gag.com/gag/a5Q59oy)
- - 👉 [Is everyone happy now?](http://9gag.com/gag/a6ZGepq)<!-- MEMES:END -->
+ - 💣 [Torpedo](http://9gag.com/gag/aKGK5G1)
+ - ⏩ [How to get the protein straight into your blood stream?..... Schnapps!](http://9gag.com/gag/abARDvL)
+ - 👉 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
 
 ---
 
