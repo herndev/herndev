@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Im love bones now](http://9gag.com/gag/aE0Zjwn)
- - ⏩ [How powerful!](http://9gag.com/gag/azx4vrB)
- - 👉 [Cut...](http://9gag.com/gag/a6ZGzWe)<!-- MEMES:END -->
+ - 💣 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
+ - ⏩ [Cut...](http://9gag.com/gag/a6ZGzWe)
+ - 👉 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)<!-- MEMES:END -->
 
 ---
 
