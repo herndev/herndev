@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smallville was a show.](http://9gag.com/gag/aLnW5wW)
- - ⏩ [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
- - 👉 [Having preferences is bad now guys](http://9gag.com/gag/aGy7qpG)<!-- MEMES:END -->
+ - 💣 [Obvious](http://9gag.com/gag/aD2Q99x)
+ - ⏩ [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
+ - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
 
 ---
 
