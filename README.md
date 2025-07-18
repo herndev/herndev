@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s new 30-hour audiobook plans are too short to finish long books](https://www.theverge.com/news/709693/spotify-audiobook-15-hour-add-on)
- - [24,000 e-bike batteries recalled because the US can’t get its shit together](https://www.theverge.com/analysis/709727/e-bike-battery-recall-ul-certification-mandate)
- - [Kingston XS2000 4TB External SSD review: Fast enough, but not the best for Apple owners](https://appleinsider.com/articles/25/07/18/kingston-xs2000-4tb-external-ssd-review-fast-enough-but-not-the-best-for-apple-owners?utm_source=rss)<!-- TECH:END -->
+ - [Samsung’s top mid-ranger has finally arrived in the US after months of waiting](https://www.androidauthority.com/galaxy-a56-5g-us-debut-3579001/)
+ - [Ring reintroduces video sharing with police](https://www.theverge.com/news/709836/ring-police-video-sharing-police-axon-partnership)
+ - [BrightAI, an AI-powered service using custom chips and devices to monitor critical infrastructure, raised a $51M Series A, source says at a $300M valuation &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250718/p13#a250718p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
