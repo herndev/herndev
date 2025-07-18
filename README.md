@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our Galaxy Z Fold 7 opens perfectly flat, but shoppers are reporting issue with demo units](https://www.androidauthority.com/samsung-galaxy-z-fold-7-opening-flat-3578761/)
  - [Apple sues Jon Prosser and Michael Ramacciotti over iOS 26 leaks, alleging a plot to access Apple employee&#39;s iPhone for trade secrets; Prosser denies the claim &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250718/p1#a250718p1)
- - [Sources: the US State Department has effectively dismantled its three-year-old Bureau of Cyberspace and Digital Policy, firing between nine and 11 staffers &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250717/p60#a250717p60)
- - [Google rolls back Pixel’s controversial At a Glance change in Android 16 QPR1 Beta 3](https://www.androidauthority.com/at-a-glance-android-16-qpr1-beta-3-3578754/)<!-- TECH:END -->
+ - [Sources: the US State Department has effectively dismantled its three-year-old Bureau of Cyberspace and Digital Policy, firing between nine and 11 staffers &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250717/p60#a250717p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
