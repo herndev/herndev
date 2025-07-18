@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coldplay looking out for everyone, even the side pieces](http://9gag.com/gag/avy9qBW)
- - ⏩ [I dare you to vote against](http://9gag.com/gag/adBRAKB)
- - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
+ - 💣 [Finally finished it after 5 years](http://9gag.com/gag/azx4znB)
+ - ⏩ [Coldplay making singles again](http://9gag.com/gag/aZZRXOW)
+ - 👉 [Uploading old stuff](http://9gag.com/gag/avy9BDE)<!-- MEMES:END -->
 
 ---
 
