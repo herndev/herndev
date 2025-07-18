@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus ROG Azoth X review](https://www.pcgamer.com/hardware/gaming-keyboards/asus-rog-azoth-x-review/)
- - [Google begins legal action against BadBox 2.0, &#39;the largest known botnet of internet-connected TVs&#39; affecting more than 10,000,000 Android devices including *checks notes* picture frames](https://www.pcgamer.com/software/security/google-begins-legal-action-against-badbox-2-0-the-largest-known-botnet-of-internet-connected-tvs-affecting-more-than-10-000-000-android-devices-including-checks-notes-picture-frames/)
- - [Nintendo Is Launching A Second Secret Switch Online Playtest, And We All Have To Pretend We Don&#39;t Know What It&#39;s For](https://kotaku.com/nintendo-switch-online-playtest-program-secret-mmo-1851786542)<!-- GAME:END -->
+ - [Big year for hole](https://www.polygon.com/gaming/613711/hole-games-2025-dk-bananza-dig-about-hole)
+ - [Keep this to yourself, but a BIOS with a theoretical 2,001 W power limit exists for this absurdly overbuilt Galax RTX 5090 D](https://www.pcgamer.com/hardware/graphics-cards/keep-this-to-yourself-but-a-bios-with-a-theoretical-2-001-w-power-limit-exists-for-this-absurdly-overbuilt-galax-rtx-5090-d/)
+ - [Endless Legend 2 has been delayed until September, but at least you&#39;ll be able to play a demo in August](https://www.pcgamer.com/games/strategy/endless-legend-2-has-been-delayed-until-september-but-at-least-youll-be-able-to-play-a-demo-in-august/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
