@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Fi is offering the Samsung Galaxy Z Flip 7 for just $199.99!](https://www.androidauthority.com/samsung-galaxy-z-flip-7-google-fi-deal-3579066/)
- - [S&amp;P Global says Block will join the S&amp;P 500 on July 23, after announcing Monday that ad tech firm The Trade Desk will also be added; XYZ jumps 9%+ after hours &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250718/p21#a250718p21)
- - [Best Back-to-School Tech Gear and Gadgets in 2025](https://www.cnet.com/tech/best-back-to-school-tech-gear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ring reinstated its mission to &quot;make neighborhoods safer&quot; and reintroduced video sharing with police in April, as its founder led an overhaul since his return &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250718/p22#a250718p22)
+ - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
+ - [Apple Sues the YouTuber Who Leaked iOS 26](https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
