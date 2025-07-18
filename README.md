@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;F1: The Movie&#39; box office set to pass $400 million this weekend](https://appleinsider.com/articles/25/07/18/apples-f1-the-movie-box-office-set-to-pass-400-million-this-weekend?utm_source=rss)
- - [Google files a lawsuit in the US against 25 unnamed individuals in China, accusing them of operating the BadBox 2.0 botnet, compromising 10M+ devices worldwide &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/250718/p14#a250718p14)
- - [Netflix admits it used generative AI in a big sci-fi hit to cut costs](https://www.theverge.com/news/709863/netflix-generative-ai-the-eternaut)<!-- TECH:END -->
+ - [SPAC Insider: SPACs are booming in 2025, with 74 blank check companies going public so far in 2025, raising about $14.7B and beating 2022 total of $13.4B &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250718/p15#a250718p15)
+ - [These Continuous Glucose Monitors Have Been Recalled Due to Faulty Speakers. What You Need to Do to Stay Safe](https://www.cnet.com/health/medical/these-continuous-glucose-monitors-have-been-recalled-due-to-faulty-speakers-what-you-need-to-do-to-stay-safe/#ftag=CAD590a51e)
+ - [Samsung Fold 7 and Flip 7 replacement screen pricing makes a strong case for getting Care Plus](https://www.androidauthority.com/samsung-fold-7-repair-pricing-3578977/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
