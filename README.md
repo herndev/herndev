@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&amp;#8217;s constant layoffs risk creating a culture of fear](https://www.theverge.com/notepad-microsoft-newsletter/709144/microsoft-layoffs-2025-ai-notepad)
- - [Apple sues Jon Prosser over iOS 26 leaks](https://appleinsider.com/articles/25/07/18/apple-sues-jon-prosser-over-ios-26-leaks?utm_source=rss)
- - [Netflix used AI tools for the first time in one of its TV shows, for a VFX sequence; Ted Sarandos says the VFX costs would have been too high otherwise &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/250718/p8#a250718p8)<!-- TECH:END -->
+ - [Google’s AI Mode could soon get an important Gemini feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-ai-mode-history-revamp-3578915/)
+ - [Mint Mobile’s annual unlimited plan is now 50% off for the first year](https://www.androidauthority.com/mint-mobile-annual-sale-3578959/)
+ - [Apple sues Jon Prosser over iOS 26 leaks](https://appleinsider.com/articles/25/07/18/apple-sues-jon-prosser-over-ios-26-leaks?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
