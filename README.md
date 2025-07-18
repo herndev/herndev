@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch health, iPhone 17 colors, and &#39;Severance&#39; on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/18/apple-watch-health-iphone-17-colors-and-severance-on-the-appleinsider-podcast?utm_source=rss)
- - [The EU issues guidelines to help AI models with systemic risks comply with the AI Act, after criticism from some companies about lack of clarity &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250718/p6#a250718p6)
- - [Italian YouTuber Faces Jail Time for Showing Android Handhelds With Emulated Games](https://www.wired.com/story/italian-youtuber-faces-jail-time-for-showing-android-gaming-handhelds/)<!-- TECH:END -->
+ - [Netflix used AI tools for the first time in one of its TV shows, for a VFX sequence; Ted Sarandos says the VFX costs would have been too high otherwise &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/250718/p8#a250718p8)
+ - [Roborock Saros Z70 Review: OmniGrip Doesn’t Quite Work](https://www.wired.com/review/roborock-saros-z70/)
+ - [The creepy AI era is here](https://www.theverge.com/the-vergecast/709389/alexa-plus-grok-waifu-sony-rx1riii-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
