@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sues leaker Jon Prosser for stealing iOS secrets](https://www.theverge.com/news/709550/apple-jon-prosser-lawsuit-michael-ramacciotti-ios-26-trade-secrets)
- - [I ditched my $1,000 Android phone for Google’s $500 one, and I barely noticed a difference](https://www.androidauthority.com/ditched-900-dollar-android-phone-for-pixel-9a-what-happened-3577830/)
- - [iSnitched? Apple sues YouTuber over elaborate iOS 26 leak plot](https://www.androidauthority.com/apple-jon-prosser-ios-leak-lawsuit-3578852/)<!-- TECH:END -->
+ - [Delta Air Lines is using AI to set the maximum price you&amp;#8217;re willing to pay](https://www.theverge.com/news/709556/delta-air-lines-ai-ticket-price-rollout)
+ - [7 Best Coffee Concentrates for Instant Caffeine &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-concentrates/)
+ - [My apologies, Samsung, I was unfamiliar with your Fold game](https://www.androidauthority.com/samsung-galaxy-z-fold-7-hardware-upgrade-3578530/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
