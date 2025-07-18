@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Big year for hole](https://www.polygon.com/gaming/613711/hole-games-2025-dk-bananza-dig-about-hole)
- - [Keep this to yourself, but a BIOS with a theoretical 2,001 W power limit exists for this absurdly overbuilt Galax RTX 5090 D](https://www.pcgamer.com/hardware/graphics-cards/keep-this-to-yourself-but-a-bios-with-a-theoretical-2-001-w-power-limit-exists-for-this-absurdly-overbuilt-galax-rtx-5090-d/)
- - [Endless Legend 2 has been delayed until September, but at least you&#39;ll be able to play a demo in August](https://www.pcgamer.com/games/strategy/endless-legend-2-has-been-delayed-until-september-but-at-least-youll-be-able-to-play-a-demo-in-august/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 21 to 25](https://news.xbox.com/en-us/2025/07/18/next-week-on-xbox-new-games-for-july-21-to-25/)
+ - [Genshin Impact version 5.8 livestream codes](https://www.polygon.com/genshin-impact-guides/613436/version-5-8-livestream-code-redeem-primogems)
+ - [Report: FromSoftware&#39;s Next Unannounced Game Is Closer Than We Think](https://kotaku.com/dark-souls-3-remaster-armored-core-6-fromsoftware-1851786550)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
