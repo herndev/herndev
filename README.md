@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta has poached two more heavyweights from Apple&#39;s AI team](https://appleinsider.com/articles/25/07/18/meta-has-poached-two-more-heavyweights-from-apples-ai-team?utm_source=rss)
- - [Neuralink filed on April 24 as a &quot;small disadvantaged business&quot; that could give it preferential access to federal opportunities, before being valued at $9B &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250717/p58#a250717p58)
- - [Claude Code users, many on the $200-a-month Max plan, are unexpectedly facing restrictive usage limits; Anthropic says it&#39;s &quot;working to resolve these issues&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/250717/p57#a250717p57)<!-- TECH:END -->
+ - [Google rolls back Pixel’s controversial At a Glance change in Android 16 QPR1 Beta 3](https://www.androidauthority.com/at-a-glance-android-16-qpr1-beta-3-3578754/)
+ - [Samsung Galaxy Z Fold7 review: looks like a regular phone with an exquisitely thin design, has top-tier performance, but is very pricey and lacks S Pen support &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250717/p59#a250717p59)
+ - [Meta has poached two more heavyweights from Apple&#39;s AI team](https://appleinsider.com/articles/25/07/18/meta-has-poached-two-more-heavyweights-from-apples-ai-team?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
