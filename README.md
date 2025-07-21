@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Critics say tokenization, led by Robinhood, could undermine securities law and investor protections that have made the US financial system the envy of the world &lpar;Alan Suderman/Associated Press&rpar;](http://www.techmeme.com/250721/p17#a250721p17)
- - [Apple quietly adding video playback to CarPlay in iOS 26](https://appleinsider.com/articles/25/07/21/apple-quietly-adding-video-playback-to-carplay-in-ios-26?utm_source=rss)
- - [OpenAI says ChatGPT users send more than 2.5B prompts globally each day, more than 330M of those are in US, and the platform has 500M weekly active users &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/250721/p16#a250721p16)<!-- TECH:END -->
+ - [Chrome will let you switch between personal and work accounts on iOS](https://www.theverge.com/news/710582/chrome-ios-personal-work-profile-account-switching-google)
+ - [Google&amp;#8217;s leaked Pixel 10 images confirm a third camera](https://www.theverge.com/news/710809/google-pixel-10-leaked-official-renders-third-telephoto-camera)
+ - [What’s Behind Gen Z’s Sex Recession?](https://www.wired.com/story/uncanny-valley-podcast-whats-behind-gen-zs-sex-recession/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
