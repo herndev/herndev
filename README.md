@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The top 5 actors who should play Ganondorf in the Zelda movie](https://www.polygon.com/614111/zelda-movie-cast-ganondorf-actors)
- - [Demon Slayer: Infinity Castle makes box-office history and threatens Mugen Train&amp;#8217;s record](https://www.polygon.com/anime/614599/demon-slayer-infinty-castle-opening-box-office-japan-mugen-trains-record)
- - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find)<!-- GAME:END -->
+ - [Now Available for Xbox Insiders: Your Cross-Device Play History and Easier Access to Your Cloud-Playable Console Games on PC](https://news.xbox.com/en-us/2025/07/21/now-available-for-xbox-insiders-your-cross-device-play-history-and-easier-access-to-your-cloud-playable-console-games-on-pc/)
+ - [D&amp;#038;D’s new starter set looks back at Gary Gygax and his most popular module](https://www.polygon.com/dnd-dungeons-dragons/614591/new-starter-set-heroes-keep-borderlands-module-b-2-gygax)
+ - [Microsoft warns of &#39;active attacks&#39; on its government and business server tech, with one cybersecurity expert claiming that they should &#39;assume that you have been compromised&#39;](https://www.pcgamer.com/software/security/microsoft-warns-of-active-attacks-on-its-government-and-business-server-tech-with-one-cybersecurity-expert-claiming-that-they-should-assume-that-you-have-been-compromised/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
