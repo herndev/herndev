@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring reinstated its mission to &quot;make neighborhoods safer&quot; and reintroduced video sharing with police in April, as its founder led an overhaul since his return &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250718/p22#a250718p22)
- - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
- - [Apple Sues the YouTuber Who Leaked iOS 26](https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/)<!-- TECH:END -->
+ - [A look at the video podcasting surge; study: ~75% of podcast consumers play video episodes and ~30% play video episodes minimized or in background mode &lpar;Joseph Bernstein/New York Times&rpar;](http://www.techmeme.com/250720/p13#a250720p13)
+ - [Price war: Save up to $480 on M4 16-inch MacBook Pro, prices from $2,209](https://appleinsider.com/articles/25/07/20/price-war-save-up-to-480-on-m4-16-inch-macbook-pro-prices-from-2209?utm_source=rss)
+ - [Sources: the UK may backtrack on its January order for Apple to create a backdoor for iCloud encrypted data after pressure from US officials, including JD Vance &lpar;Financial Times&rpar;](http://www.techmeme.com/250720/p12#a250720p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
