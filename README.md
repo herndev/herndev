@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
- - ⏩ [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
- - 👉 [Step.hanie](http://9gag.com/gag/aBy4B9Q)<!-- MEMES:END -->
+ - 💣 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
+ - ⏩ [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - 👉 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)<!-- MEMES:END -->
 
 ---
 
