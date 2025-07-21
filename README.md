@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - ⏩ [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
- - 👉 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)<!-- MEMES:END -->
+ - 💣 [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)
+ - ⏩ [From my archive #1](http://9gag.com/gag/a87VRmZ)
+ - 👉 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)<!-- MEMES:END -->
 
 ---
 
