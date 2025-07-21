@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hisense U8QG TV Review: Beautifully Bright, Tough to Tame](https://www.wired.com/review/hisense-u8qg/)
- - [T-Mobile is bringing low-latency tech to 5G for the first time](https://www.theverge.com/news/710312/t-mobile-low-latency-l4s-5g)
- - [Apple Sports arrives in Mexico, adds UK&#39;s FA Cup](https://appleinsider.com/articles/25/07/21/apple-sports-arrives-in-mexico-adds-uks-fa-cup?utm_source=rss)<!-- TECH:END -->
+ - [Samsung explains how it made the Galaxy Z Fold 7 so thin](https://www.androidauthority.com/how-samsung-made-galaxy-z-fold-7-ultra-thin-3579196/)
+ - [The next Files by Google update could fix some annoying search quirks &lpar;APK teardown&rpar;](https://www.androidauthority.com/files-by-google-search-improvements-apk-teardown-3579220/)
+ - [Figma prices its shares at $25 and $28 each and plans to sell nearly 37M shares to raise up to $1.03B, giving it an up to $16.4B valuation in its NYSE debut &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250721/p11#a250721p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
