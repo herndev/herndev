@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nothing happened](http://9gag.com/gag/awyeW7B)
- - ⏩ [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)
- - 👉 [Macallan](http://9gag.com/gag/ajPR471)<!-- MEMES:END -->
+ - 💣 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
+ - ⏩ [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)
+ - 👉 [Only while drinking.](http://9gag.com/gag/aLnWEeW)<!-- MEMES:END -->
 
 ---
 
