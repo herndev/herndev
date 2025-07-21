@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bloodlines 2 studio The Chinese Room has bought its own independence, but also laid off employees for the second time in two months](https://www.pcgamer.com/gaming-industry/bloodlines-2-studio-the-chinese-room-has-bought-its-own-independence-but-also-laid-off-employees-for-the-second-time-in-two-months/)
- - [The Junction Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614706/junction-banandium-gem-golden-banana-locations-list-map-all)
- - [Gabe Newell says AI is a &#39;significant technology transition&#39; on a par with the emergence of computers or the internet, and will be &#39;a cheat code for people who want to take advantage of it&#39;](https://www.pcgamer.com/software/ai/gabe-newell-says-ai-is-a-significant-technology-transition-on-a-par-with-the-emergence-of-computers-or-the-internet-and-will-be-a-cheat-code-for-people-who-want-to-take-advantage-of-it/)<!-- GAME:END -->
+ - [All transformations and Ancient Bananza Powers in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/612098/transformations-ancient-bananza-powers-all-how-to-unlock)
+ - [Infamous Coldplay &#39;Cheating&#39; Clip Is Being Spoofed At Sporting Events Everywhere](https://kotaku.com/coldplay-cheating-scandal-kiss-cam-mascot-skit-memes-1851786655)
+ - [As Red Dead Online fans return for the update, female players say they’re being targeted and harassed](https://www.polygon.com/culture/614639/red-dead-online-strange-tales-of-the-west-update-women-harassment-tiktok)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
