@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s become an acquired skill at this point](http://9gag.com/gag/a7onYgx)
- - ⏩ [Fountain in Poland designed by M. Chodakowska](http://9gag.com/gag/a5Q50wG)
- - 👉 [She touches the Ball 4 times without it hitting the ground...](http://9gag.com/gag/aBy4B3O)<!-- MEMES:END -->
+ - 💣 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
+ - ⏩ [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
+ - 👉 [Step.hanie](http://9gag.com/gag/aBy4B9Q)<!-- MEMES:END -->
 
 ---
 
