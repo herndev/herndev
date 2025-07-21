@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The mystery of life expectancy solved](http://9gag.com/gag/azx4njK)
- - ⏩ [Le chef](http://9gag.com/gag/aD2QKBd)
- - 👉 [Hell yeah, fly high free bird.](http://9gag.com/gag/aXPRyKb)<!-- MEMES:END -->
+ - 💣 [In 1985, an austrian man already told us how to deal with airplane karens](http://9gag.com/gag/a87VZdV)
+ - ⏩ [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
+ - 👉 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)<!-- MEMES:END -->
 
 ---
 
