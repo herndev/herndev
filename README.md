@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
- - ⏩ [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)
- - 👉 [Only while drinking.](http://9gag.com/gag/aLnWEeW)<!-- MEMES:END -->
+ - 💣 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
+ - ⏩ [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)
+ - 👉 [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)<!-- MEMES:END -->
 
 ---
 
