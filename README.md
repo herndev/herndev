@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Stop Killing Games&#39; YouTuber Says Someone&#39;s Filing False Claims Against EU Initiative](https://kotaku.com/accursed-farms-stop-killing-games-eu-petition-ubisoft-1851786660)
- - [Ori Developer Not Prioritizing Xbox For Its New Action-RPG Soulslike&#39;s Console Launch](https://kotaku.com/ori-no-rest-wicked-console-port-souls-rpg-xbox-ps5-1851786659)
- - [Bramble Country walkthrough in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614803/bramble-country-challenge-level-walkthrough-second-banana)<!-- GAME:END -->
+ - [Ruffy and the Riverside Lets you Copy and Paste the World – Literally](https://news.xbox.com/en-us/2025/07/21/ruffy-and-the-riverside-lets-you-copy-and-paste/)
+ - [Forest Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614609/forest-layer-banandium-gem-golden-banana-locations-list-map-all)
+ - [&#39;Stop Killing Games&#39; YouTuber Says Someone&#39;s Filing False Claims Against EU Initiative](https://kotaku.com/accursed-farms-stop-killing-games-eu-petition-ubisoft-1851786660)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
