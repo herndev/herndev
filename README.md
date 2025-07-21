@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Antonela Romoleroux &lpar;a better angle&rpar;](http://9gag.com/gag/an7GPvV)
- - ⏩ [The reason i got in the Internet](http://9gag.com/gag/avy9Myq)
- - 👉 [Fountain in Poland designed by M. Chodakowska](http://9gag.com/gag/a5Q50wG)<!-- MEMES:END -->
+ - 💣 [Nothing happened](http://9gag.com/gag/awyeW7B)
+ - ⏩ [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)
+ - 👉 [Macallan](http://9gag.com/gag/ajPR471)<!-- MEMES:END -->
 
 ---
 
