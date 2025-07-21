@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes pause at the right moment](http://9gag.com/gag/aYQRBYN)
- - ⏩ [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
- - 👉 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)<!-- MEMES:END -->
+ - 💣 [Antonela Romoleroux &lpar;a better angle&rpar;](http://9gag.com/gag/an7GPvV)
+ - ⏩ [The reason i got in the Internet](http://9gag.com/gag/avy9Myq)
+ - 👉 [Fountain in Poland designed by M. Chodakowska](http://9gag.com/gag/a5Q50wG)<!-- MEMES:END -->
 
 ---
 
