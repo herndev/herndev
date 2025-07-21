@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps just made controlling your music a navigation nightmare](https://www.androidauthority.com/google-maps-music-playback-controls-removed-3579202/)
- - [Phones with both a cooling fan and water resistance don’t exist, until now](https://www.androidauthority.com/oppo-k13-turbo-cooling-fan-water-resistance-3579184/)
- - [Dell confirms extortion group World Leaks breached its Solution Centers platform, used for demos, earlier in July, stealing mostly synthetic or public data &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250721/p9#a250721p9)<!-- TECH:END -->
+ - [Hisense U8QG TV Review: Beautifully Bright, Tough to Tame](https://www.wired.com/review/hisense-u8qg/)
+ - [T-Mobile is bringing low-latency tech to 5G for the first time](https://www.theverge.com/news/710312/t-mobile-low-latency-l4s-5g)
+ - [Apple Sports arrives in Mexico, adds UK&#39;s FA Cup](https://appleinsider.com/articles/25/07/21/apple-sports-arrives-in-mexico-adds-uks-fa-cup?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
