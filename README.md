@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says ChatGPT users send over 2.5 billion prompts every day](https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion)
- - [Google Maps is rolling out a new look for the listing page &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-listing-page-ui-tweaks-3579240/)
- - [Apple seeds release candidates for iOS 18.6, iPadOS 18.6, macOS Sequoia 15.6](https://appleinsider.com/articles/25/07/21/apple-seeds-release-candidates-for-ios-186-ipados-186-macos-sequoia-156?utm_source=rss)<!-- TECH:END -->
+ - [Trump&#39;s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them](https://www.wired.com/story/cantor-fitzgerald-trump-tariff-refunds/)
+ - [&#39;Ted Lasso&#39; season 4 production commences in Kansas City](https://appleinsider.com/articles/25/07/21/ted-lasso-season-4-production-commences-in-kansas-city?utm_source=rss)
+ - [Galaxy Buds 3 FE leak reveals a surprisingly premium design](https://www.androidauthority.com/samsung-galaxy-buds-3-fe-render-3579390/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
