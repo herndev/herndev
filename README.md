@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung explains how it made the Galaxy Z Fold 7 so thin](https://www.androidauthority.com/how-samsung-made-galaxy-z-fold-7-ultra-thin-3579196/)
- - [The next Files by Google update could fix some annoying search quirks &lpar;APK teardown&rpar;](https://www.androidauthority.com/files-by-google-search-improvements-apk-teardown-3579220/)
- - [Figma prices its shares at $25 and $28 each and plans to sell nearly 37M shares to raise up to $1.03B, giving it an up to $16.4B valuation in its NYSE debut &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250721/p11#a250721p11)<!-- TECH:END -->
+ - [Tesla is set to face off with the California DMV over claims it exaggerated Autopilot&#39;s and FSD&#39;s capabilities and misled consumers, in a five-day Oakland trial &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/250721/p15#a250721p15)
+ - [Fresh leak offers an early look at Pixel 10’s full color lineup, and wow!](https://www.androidauthority.com/pixel-10-colors-early-look-3579256/)
+ - [Polymarket says it is buying little-known derivatives exchange QCX, in a move to legally re-enter the US market; a source says Polymarket will pay $112M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p14#a250721p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
