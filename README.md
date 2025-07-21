@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Humanity has prevailed &lpar;for now!&rpar;&#39; says former OpenAI employee, admitting he&#39;s &#39;barely alive&#39; after beating one of its AI models in a coding world championship fight](https://www.pcgamer.com/software/ai/humanity-has-prevailed-for-now-says-former-openai-employee-admitting-hes-barely-alive-after-beating-one-of-its-ai-models-in-a-coding-world-championship-fight/)
- - [One Dune: Awakening player &#39;will not bend the knee&#39; to hackers laying waste to ornithopters—&#39;I am personally on their hit list now&#39;](https://www.pcgamer.com/games/survival-crafting/one-dune-awakening-player-will-not-bend-the-knee-to-hackers-laying-waste-to-ornithopters-i-am-personally-on-their-hit-list-now/)
- - [Ubisoft CEO Blames Outlaws&#39; Struggles On &#39;Choppy&#39; Star Wars Universe](https://kotaku.com/star-wars-outlaws-ubisoft-ceo-shareholders-choppy-1851786615)<!-- GAME:END -->
+ - [No other Superman story will scratch the post-Superman-movie itch like this animated series](https://www.polygon.com/dc/613270/my-adventures-with-superman-vs-james-gunn-movie-2025)
+ - [The secrets behind Final Fantasy Tactics – The Ivalice Chronicles’ makeover](https://blog.playstation.com/2025/07/21/the-secrets-behind-final-fantasy-tactics-the-ivalice-chronicles-makeover/)
+ - [The secrets behind Final Fantasy Tactics – The Ivalice Chronicles’ makeover](https://blog.playstation.com/2025/07/21/the-secrets-behind-final-fantasy-tactics-the-ivalice-chronicles-makeover/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
