@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They will never understand](https://www.reddit.com/r/funny/comments/1m5wbw9/they_will_never_understand/)
+ - 💣 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
  - ⏩ [Made me chuckle](http://9gag.com/gag/an7G6Xo)
  - 👉 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)<!-- MEMES:END -->
 
