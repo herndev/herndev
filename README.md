@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 7 is doing something no Galaxy Fold has done before](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-preorder-3579155/)
- - [Foldable phones are thin and light in 2025, so why are these brands bending the truth?](https://www.androidauthority.com/foldable-phone-makers-thickness-3578946/)
- - [Survey: when it comes to using AI as a companion to seek advice, flirt, or share deep conversations, ~75% of US teens say they&#39;ve used AI this way at least once &lpar;Neda Ulaby/NPR&rpar;](http://www.techmeme.com/250721/p2#a250721p2)<!-- TECH:END -->
+ - [This simple Android Auto change would set my voice command frustrations to rest](https://www.androidauthority.com/android-auto-voice-assistants-choice-3578184/)
+ - [UK wants to weasel out of demand for Apple encryption back door](https://www.theverge.com/news/710504/uk-apple-encryption-back-door-icloud-adp-backing-down)
+ - [The best Good Luck modules get One UI 8 support with new features](https://www.androidauthority.com/good-lock-home-up-multistar-one-ui-8-support-3579148/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
