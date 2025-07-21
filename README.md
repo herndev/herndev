@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - ⏩ [I love japan](http://9gag.com/gag/aQzyWYz)
- - 👉 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)<!-- MEMES:END -->
+ - 💣 [Old is GOLD](http://9gag.com/gag/adBRDK9)
+ - ⏩ [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
+ - 👉 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)<!-- MEMES:END -->
 
 ---
 
