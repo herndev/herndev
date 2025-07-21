@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warframe is coming to the tabletop in the form of an adventure for Pathfinder&#39;s sci-fi spin-off RPG](https://www.pcgamer.com/games/warframe-is-coming-to-the-tabletop-in-the-form-of-an-adventure-for-pathfinders-sci-fi-spin-off-rpg/)
- - [Five new Steam games you probably missed &lpar;July 21, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-21-2025/)
- - [Australian anti-porn group claims responsibility for Steam&#39;s new censorship rules in victory against &#39;porn sick brain rotted pedo gamer fetishists&#39;, and things only get weirder from there](https://www.pcgamer.com/gaming-industry/australian-anti-porn-group-claims-responsibility-for-steams-new-censorship-rules-in-victory-against-porn-sick-brain-rotted-pedo-gamer-fetishists-and-things-only-get-weirder-from-there/)<!-- GAME:END -->
+ - [The prison breakout RPG where you can be a fox or a panther has left early access](https://www.pcgamer.com/games/rpg/the-prison-breakout-rpg-where-you-can-be-a-fox-or-a-panther-has-left-early-access/)
+ - [Today&#39;s Wordle answer for Monday, July 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-21-2025/)
+ - [Warframe is coming to the tabletop in the form of an adventure for Pathfinder&#39;s sci-fi spin-off RPG](https://www.pcgamer.com/games/warframe-is-coming-to-the-tabletop-in-the-form-of-an-adventure-for-pathfinders-sci-fi-spin-off-rpg/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
