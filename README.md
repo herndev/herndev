@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the 2025 RISC-V Summit in China, Nvidia says CUDA will now be compatible with RISC-V&#39;s instruction set architecture, making RISC-V a viable x86 and Arm rival &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250721/p4#a250721p4)
- - [WhatsApp is dropping its native Windows app in favor of an uglier web version](https://www.theverge.com/news/710509/whatsapp-windows-app-web-wrapper-changes)
- - [X says France has launched a criminal investigation over &quot;the alleged manipulation of its algorithm&quot; and &quot;fraudulent&quot; data extraction; X denies the allegations &lpar;Financial Times&rpar;](http://www.techmeme.com/250721/p3#a250721p3)<!-- TECH:END -->
+ - [KKR acquires a significant minority in Swedish travel tech firm Etraveli, sources say valuing it at ~€2.7B; Etraveli sells plane tickets to ~50M users per year &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/250721/p7#a250721p7)
+ - [Microsoft wants to fix &amp;#8216;slow or sluggish&amp;#8217; performance in Windows 11](https://www.theverge.com/news/710535/microsoft-windows-11-performance-improvements-25h2-version)
+ - [The Demise of China’s Hottest Online Shopping Craze](https://www.wired.com/story/chinese-group-buying-startups-meituan-pinduoduo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
