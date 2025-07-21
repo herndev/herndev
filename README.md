@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Armies in Total War: Warhammer 3&#39;s siege beta won&#39;t carry ladders in their pockets any more](https://www.pcgamer.com/games/strategy/armies-in-total-war-warhammer-3s-siege-beta-wont-carry-ladders-in-their-pockets-any-more/)
- - [How to use DK Artist Mode in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614539/dk-artist-mode-how-to-use-access-secret)
- - [Freezer Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614416/freezer-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;July 21, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-21-2025/)
+ - [Australian anti-porn group claims responsibility for Steam&#39;s new censorship rules in victory against &#39;porn sick brain rotted pedo gamer fetishists&#39;, and things only get weirder from there](https://www.pcgamer.com/gaming-industry/australian-anti-porn-group-claims-responsibility-for-steams-new-censorship-rules-in-victory-against-porn-sick-brain-rotted-pedo-gamer-fetishists-and-things-only-get-weirder-from-there/)
+ - [Armies in Total War: Warhammer 3&#39;s siege beta won&#39;t carry ladders in their pockets any more](https://www.pcgamer.com/games/strategy/armies-in-total-war-warhammer-3s-siege-beta-wont-carry-ladders-in-their-pockets-any-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
