@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
- - ⏩ [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)
- - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
+ - 💣 [Smart ass!](https://www.reddit.com/r/funny/comments/1m5t77s/smart_ass/)
+ - ⏩ [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
+ - 👉 [Stick into...](http://9gag.com/gag/aGy7m1n)<!-- MEMES:END -->
 
 ---
 
