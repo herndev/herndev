@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [RTX remaster mod for Vampire: The Masquerade – Bloodlines looks like witchcraft](https://www.pcgamer.com/games/rpg/rtx-remaster-mod-for-vampire-the-masquerade-bloodlines-looks-like-witchcraft/)
  - [The prison breakout RPG where you can be a fox or a panther has left early access](https://www.pcgamer.com/games/rpg/the-prison-breakout-rpg-where-you-can-be-a-fox-or-a-panther-has-left-early-access/)
- - [Today&#39;s Wordle answer for Monday, July 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-21-2025/)
- - [Warframe is coming to the tabletop in the form of an adventure for Pathfinder&#39;s sci-fi spin-off RPG](https://www.pcgamer.com/games/warframe-is-coming-to-the-tabletop-in-the-form-of-an-adventure-for-pathfinders-sci-fi-spin-off-rpg/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, July 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-21-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
