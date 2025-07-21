@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla is set to face off with the California DMV over claims it exaggerated Autopilot&#39;s and FSD&#39;s capabilities and misled consumers, in a five-day Oakland trial &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/250721/p15#a250721p15)
- - [Fresh leak offers an early look at Pixel 10’s full color lineup, and wow!](https://www.androidauthority.com/pixel-10-colors-early-look-3579256/)
- - [Polymarket says it is buying little-known derivatives exchange QCX, in a move to legally re-enter the US market; a source says Polymarket will pay $112M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p14#a250721p14)<!-- TECH:END -->
+ - [Critics say tokenization, led by Robinhood, could undermine securities law and investor protections that have made the US financial system the envy of the world &lpar;Alan Suderman/Associated Press&rpar;](http://www.techmeme.com/250721/p17#a250721p17)
+ - [Apple quietly adding video playback to CarPlay in iOS 26](https://appleinsider.com/articles/25/07/21/apple-quietly-adding-video-playback-to-carplay-in-ios-26?utm_source=rss)
+ - [OpenAI says ChatGPT users send more than 2.5B prompts globally each day, more than 330M of those are in US, and the platform has 500M weekly active users &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/250721/p16#a250721p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
