@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old is GOLD](http://9gag.com/gag/adBRDK9)
- - ⏩ [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
- - 👉 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)<!-- MEMES:END -->
+ - 💣 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)
+ - ⏩ [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - 👉 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)<!-- MEMES:END -->
 
 ---
 
