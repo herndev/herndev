@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them](https://www.wired.com/story/cantor-fitzgerald-trump-tariff-refunds/)
- - [&#39;Ted Lasso&#39; season 4 production commences in Kansas City](https://appleinsider.com/articles/25/07/21/ted-lasso-season-4-production-commences-in-kansas-city?utm_source=rss)
- - [Galaxy Buds 3 FE leak reveals a surprisingly premium design](https://www.androidauthority.com/samsung-galaxy-buds-3-fe-render-3579390/)<!-- TECH:END -->
+ - [Apple mistakingly sent out the macOS Tahoe public beta, now pulled](https://appleinsider.com/articles/25/07/21/apple-mistakingly-sent-out-the-macos-tahoe-public-beta-now-pulled?utm_source=rss)
+ - [Sony’s gamer-friendly X90L TV is on sale for a new low price](https://www.theverge.com/tech/710727/sony-x90l-4k-tv-jbl-partybox-710-speaker-deal-sale)
+ - [Google reveals the design of the Pixel 10 a few weeks ahead of the launch event; it strongly resembles the Pixel 9 but has a third back camera &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250721/p20#a250721p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
