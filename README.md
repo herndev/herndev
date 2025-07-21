@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Dangerous on a whole new level&#39;—while Steam&#39;s policy change is new, the shadow of credit card porn-hibition has been looming for a while, with Nier: Automata&#39;s Yoko Taro sounding the alarm last year](https://www.pcgamer.com/gaming-industry/game-development/dangerous-on-a-whole-new-level-while-steams-policy-change-is-new-the-shadow-of-credit-card-porn-hibition-has-been-looming-for-a-while-with-nier-automatas-yoko-taro-sounding-the-alarm-last-year/)
- - [Destiny 2 The Desert Perpetual loot table: Find out who drops what in The Edge of Fate raid](https://www.pcgamer.com/games/fps/destiny-2-desert-perpetual-loot-table/)
- - [Grow a Garden has rolled out another update, but this time we are abandoning dinosaurs for something a little more laid-back](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-has-rolled-out-another-update-but-this-time-we-are-abandoning-dinosaurs-for-something-a-little-more-laid-back/)<!-- GAME:END -->
+ - [&#39;Humanity has prevailed &lpar;for now!&rpar;&#39; says former OpenAI employee, admitting he&#39;s &#39;barely alive&#39; after beating one of its AI models in a coding world championship fight](https://www.pcgamer.com/software/ai/humanity-has-prevailed-for-now-says-former-openai-employee-admitting-hes-barely-alive-after-beating-one-of-its-ai-models-in-a-coding-world-championship-fight/)
+ - [One Dune: Awakening player &#39;will not bend the knee&#39; to hackers laying waste to ornithopters—&#39;I am personally on their hit list now&#39;](https://www.pcgamer.com/games/survival-crafting/one-dune-awakening-player-will-not-bend-the-knee-to-hackers-laying-waste-to-ornithopters-i-am-personally-on-their-hit-list-now/)
+ - [Ubisoft CEO Blames Outlaws&#39; Struggles On &#39;Choppy&#39; Star Wars Universe](https://kotaku.com/star-wars-outlaws-ubisoft-ceo-shareholders-choppy-1851786615)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
