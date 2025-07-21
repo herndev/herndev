@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smart ass!](https://www.reddit.com/r/funny/comments/1m5t77s/smart_ass/)
- - ⏩ [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - 👉 [Stick into...](http://9gag.com/gag/aGy7m1n)<!-- MEMES:END -->
+ - 💣 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
+ - ⏩ [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
+ - 👉 [Made me chuckle](http://9gag.com/gag/an7G6Xo)<!-- MEMES:END -->
 
 ---
 
