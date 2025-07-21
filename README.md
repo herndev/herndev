@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [In 1985, an austrian man already told us how to deal with airplane karens](http://9gag.com/gag/a87VZdV)
- - ⏩ [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
+ - ⏩ [From my archive #1](http://9gag.com/gag/a87VRmZ)
  - 👉 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)<!-- MEMES:END -->
 
 ---
