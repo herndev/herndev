@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RTX remaster mod for Vampire: The Masquerade – Bloodlines looks like witchcraft](https://www.pcgamer.com/games/rpg/rtx-remaster-mod-for-vampire-the-masquerade-bloodlines-looks-like-witchcraft/)
- - [The prison breakout RPG where you can be a fox or a panther has left early access](https://www.pcgamer.com/games/rpg/the-prison-breakout-rpg-where-you-can-be-a-fox-or-a-panther-has-left-early-access/)
- - [Today&#39;s Wordle answer for Monday, July 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-21-2025/)<!-- GAME:END -->
+ - [&#39;Dangerous on a whole new level&#39;—while Steam&#39;s policy change is new, the shadow of credit card porn-hibition has been looming for a while, with Nier: Automata&#39;s Yoko Taro sounding the alarm last year](https://www.pcgamer.com/gaming-industry/game-development/dangerous-on-a-whole-new-level-while-steams-policy-change-is-new-the-shadow-of-credit-card-porn-hibition-has-been-looming-for-a-while-with-nier-automatas-yoko-taro-sounding-the-alarm-last-year/)
+ - [Destiny 2 The Desert Perpetual loot table: Find out who drops what in The Edge of Fate raid](https://www.pcgamer.com/games/fps/destiny-2-desert-perpetual-loot-table/)
+ - [Grow a Garden has rolled out another update, but this time we are abandoning dinosaurs for something a little more laid-back](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-has-rolled-out-another-update-but-this-time-we-are-abandoning-dinosaurs-for-something-a-little-more-laid-back/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
