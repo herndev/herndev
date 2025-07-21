@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This incredibly frustrating metronome &#39;will never, ever, tick exactly once per second&#39; in order to thwart the goals of Hackaday&#39;s One Hertz Challenge](https://www.pcgamer.com/hardware/this-incredibly-frustrating-metronome-will-never-ever-tick-exactly-once-per-second-in-order-to-thwart-the-goals-of-hackadays-one-hertz-challenge/)
- - [Wildgate: A Reach Rookie’s Guide to All the Spaceships](https://news.xbox.com/en-us/2025/07/21/wildgate-spaceship-ship-guide/)
- - [Marvel Cinematic Universe Mercifully Ending Its Multiverse Nonsense](https://kotaku.com/marvel-mcu-x-men-movies-multiverse-phase-6-avengers-1851786617)<!-- GAME:END -->
+ - [Predator: Badlands is the start of the Alien vs. Predator reboot we need](https://www.polygon.com/news/614764/predator-badlands-trailer-avp)
+ - [Abiotic Factor 1.0 release date—When to expect Cold Fusion&#39;s new story, upgrades, and traders in your timezone](https://www.pcgamer.com/abiotic-factor-update-release-date/)
+ - [How one G.I. Joe writer turned Marvel Rivals into a comics run for the ages](https://www.polygon.com/features/614688/marvel-rivals-comics-writer-paul-allor-profile)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
