@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Donkey Kong Bananza skills list and how to unlock them](https://www.polygon.com/donkey-kong-bananza-guides-dk/612406/skills-list-all-points-how-to-unlock)
- - [More than a year after its last update, this forgotten RTS from the makers of Homeworld: Deserts of Kharak is being removed from Steam](https://www.pcgamer.com/games/rts/more-than-a-year-after-its-last-update-this-forgotten-rts-from-the-makers-of-homeworld-deserts-of-kharak-is-being-removed-from-steam/)
- - [Every new movie hitting Netflix and beyond this weekend &lpar;July 18-20&rpar;](https://www.polygon.com/movies/613887/new-movies-watch-how-to-train-your-dragon-m3gan-2-bride-hard-7-19-2025)<!-- GAME:END -->
+ - [Armies in Total War: Warhammer 3&#39;s siege beta won&#39;t carry ladders in their pockets any more](https://www.pcgamer.com/games/strategy/armies-in-total-war-warhammer-3s-siege-beta-wont-carry-ladders-in-their-pockets-any-more/)
+ - [How to use DK Artist Mode in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614539/dk-artist-mode-how-to-use-access-secret)
+ - [Freezer Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614416/freezer-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
