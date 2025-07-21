@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This simple Android Auto change would set my voice command frustrations to rest](https://www.androidauthority.com/android-auto-voice-assistants-choice-3578184/)
- - [UK wants to weasel out of demand for Apple encryption back door](https://www.theverge.com/news/710504/uk-apple-encryption-back-door-icloud-adp-backing-down)
- - [The best Good Luck modules get One UI 8 support with new features](https://www.androidauthority.com/good-lock-home-up-multistar-one-ui-8-support-3579148/)<!-- TECH:END -->
+ - [At the 2025 RISC-V Summit in China, Nvidia says CUDA will now be compatible with RISC-V&#39;s instruction set architecture, making RISC-V a viable x86 and Arm rival &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250721/p4#a250721p4)
+ - [WhatsApp is dropping its native Windows app in favor of an uglier web version](https://www.theverge.com/news/710509/whatsapp-windows-app-web-wrapper-changes)
+ - [X says France has launched a criminal investigation over &quot;the alleged manipulation of its algorithm&quot; and &quot;fraudulent&quot; data extraction; X denies the allegations &lpar;Financial Times&rpar;](http://www.techmeme.com/250721/p3#a250721p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
