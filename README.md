@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Galaxy Z Fold 7 is doing something no Galaxy Fold has done before](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-preorder-3579155/)
  - [Foldable phones are thin and light in 2025, so why are these brands bending the truth?](https://www.androidauthority.com/foldable-phone-makers-thickness-3578946/)
- - [Survey: when it comes to using AI as a companion to seek advice, flirt, or share deep conversations, ~75% of US teens say they&#39;ve used AI this way at least once &lpar;Neda Ulaby/NPR&rpar;](http://www.techmeme.com/250721/p2#a250721p2)
- - [Microsoft releases a patch for a SharePoint 0-day RCE flaw exploited globally on thousands of on-prem servers, says updates for SharePoint 2016 are in the works &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p1#a250721p1)<!-- TECH:END -->
+ - [Survey: when it comes to using AI as a companion to seek advice, flirt, or share deep conversations, ~75% of US teens say they&#39;ve used AI this way at least once &lpar;Neda Ulaby/NPR&rpar;](http://www.techmeme.com/250721/p2#a250721p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
