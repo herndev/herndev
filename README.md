@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple mistakingly sent out the macOS Tahoe public beta, now pulled](https://appleinsider.com/articles/25/07/21/apple-mistakingly-sent-out-the-macos-tahoe-public-beta-now-pulled?utm_source=rss)
- - [Sony’s gamer-friendly X90L TV is on sale for a new low price](https://www.theverge.com/tech/710727/sony-x90l-4k-tv-jbl-partybox-710-speaker-deal-sale)
- - [Google reveals the design of the Pixel 10 a few weeks ahead of the launch event; it strongly resembles the Pixel 9 but has a third back camera &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250721/p20#a250721p20)<!-- TECH:END -->
+ - [Source: Netflix is using Runway AI&#39;s video generation tools for production; Disney is testing out the tools and talked with Runway about possible uses for them &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250721/p22#a250721p22)
+ - [A new Moto 360 is coming, but maybe not like you’d expect](https://www.androidauthority.com/moto-360-2025-smartwatch-leaked-renders-3579460/)
+ - [Google just forced some Pixel 4a holdouts to finally install their battery-nerfing update](https://www.androidauthority.com/pixel-4a-battery-update-3579439/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
