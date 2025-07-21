@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - ⏩ [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)
- - 👉 [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)<!-- MEMES:END -->
+ - 💣 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
+ - ⏩ [My interest in the new MK movie took a nose dive when I saw the new Jade. The minute I saw that bald head I remembered this.](http://9gag.com/gag/aQzyjjz)
+ - 👉 [WNBA players wants lower pay](http://9gag.com/gag/aW4R3zx)<!-- MEMES:END -->
 
 ---
 
