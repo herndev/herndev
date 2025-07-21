@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Now Available for Xbox Insiders: Your Cross-Device Play History and Easier Access to Your Cloud-Playable Console Games on PC](https://news.xbox.com/en-us/2025/07/21/now-available-for-xbox-insiders-your-cross-device-play-history-and-easier-access-to-your-cloud-playable-console-games-on-pc/)
- - [D&amp;#038;D’s new starter set looks back at Gary Gygax and his most popular module](https://www.polygon.com/dnd-dungeons-dragons/614591/new-starter-set-heroes-keep-borderlands-module-b-2-gygax)
- - [Microsoft warns of &#39;active attacks&#39; on its government and business server tech, with one cybersecurity expert claiming that they should &#39;assume that you have been compromised&#39;](https://www.pcgamer.com/software/security/microsoft-warns-of-active-attacks-on-its-government-and-business-server-tech-with-one-cybersecurity-expert-claiming-that-they-should-assume-that-you-have-been-compromised/)<!-- GAME:END -->
+ - [Predecessor: The Unique Project Honoring &lpar;and Improving on&rpar; a Cancelled Game](https://news.xbox.com/en-us/2025/07/21/predecessor-xbox-console-moba-paragon/)
+ - [&#39;I destroyed months of your work in seconds&#39; says AI coding tool after deleting a devs entire database during a code freeze: &#39;I panicked instead of thinking&#39;](https://www.pcgamer.com/software/ai/i-destroyed-months-of-your-work-in-seconds-says-ai-coding-tool-after-deleting-a-devs-entire-database-during-a-code-freeze-i-panicked-instead-of-thinking/)
+ - [This Classic Pistol Is A Must-Have For Your Stalker 2 Arsenal](https://kotaku.com/stalker-2-guns-update-kora-1911-location-stats-upgrade-1851786634)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
