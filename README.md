@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All transformations and Ancient Bananza Powers in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/612098/transformations-ancient-bananza-powers-all-how-to-unlock)
- - [Infamous Coldplay &#39;Cheating&#39; Clip Is Being Spoofed At Sporting Events Everywhere](https://kotaku.com/coldplay-cheating-scandal-kiss-cam-mascot-skit-memes-1851786655)
- - [As Red Dead Online fans return for the update, female players say they’re being targeted and harassed](https://www.polygon.com/culture/614639/red-dead-online-strange-tales-of-the-west-update-women-harassment-tiktok)<!-- GAME:END -->
+ - [&#39;Stop Killing Games&#39; YouTuber Says Someone&#39;s Filing False Claims Against EU Initiative](https://kotaku.com/accursed-farms-stop-killing-games-eu-petition-ubisoft-1851786660)
+ - [Ori Developer Not Prioritizing Xbox For Its New Action-RPG Soulslike&#39;s Console Launch](https://kotaku.com/ori-no-rest-wicked-console-port-souls-rpg-xbox-ps5-1851786659)
+ - [Bramble Country walkthrough in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614803/bramble-country-challenge-level-walkthrough-second-banana)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
