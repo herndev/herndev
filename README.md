@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Citizen will share crime videos with the NYPD](https://www.theverge.com/news/711146/citizen-app-nyc-verified-partners-alerts-surveillance)
- - [Videos and images in Google Messages have a smooth new animation &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-media-player-animation-3579487/)
- - [Sources: Stargate has struggled to get off the ground and sharply scaled back its near-term plans, as SoftBank and OpenAI disagree on crucial terms of the deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250721/p25#a250721p25)<!-- TECH:END -->
+ - [Apple fans in Saudi Arabia can now shop directly from Apple](https://appleinsider.com/articles/25/07/21/apple-fans-in-saudi-arabia-can-now-shop-directly-from-apple?utm_source=rss)
+ - [Seattle-based tax compliance software maker Avalara, acquired by Vista Equity Partners in a 2022 deal valuing it at $8.4B, confidentially files for a US IPO &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/250721/p27#a250721p27)
+ - [Need a power bank? Here are two awesome Anker deals for different types of users](https://www.androidauthority.com/anker-laptop-power-bank-anker-548-power-bank-deals-3579504/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
