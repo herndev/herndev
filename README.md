@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome will let you switch between personal and work accounts on iOS](https://www.theverge.com/news/710582/chrome-ios-personal-work-profile-account-switching-google)
- - [Google&amp;#8217;s leaked Pixel 10 images confirm a third camera](https://www.theverge.com/news/710809/google-pixel-10-leaked-official-renders-third-telephoto-camera)
- - [What’s Behind Gen Z’s Sex Recession?](https://www.wired.com/story/uncanny-valley-podcast-whats-behind-gen-zs-sex-recession/)<!-- TECH:END -->
+ - [OpenAI says ChatGPT users send over 2.5 billion prompts every day](https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion)
+ - [Google Maps is rolling out a new look for the listing page &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-listing-page-ui-tweaks-3579240/)
+ - [Apple seeds release candidates for iOS 18.6, iPadOS 18.6, macOS Sequoia 15.6](https://appleinsider.com/articles/25/07/21/apple-seeds-release-candidates-for-ios-186-ipados-186-macos-sequoia-156?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
