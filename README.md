@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - ⏩ [My interest in the new MK movie took a nose dive when I saw the new Jade. The minute I saw that bald head I remembered this.](http://9gag.com/gag/aQzyjjz)
- - 👉 [WNBA players wants lower pay](http://9gag.com/gag/aW4R3zx)<!-- MEMES:END -->
+ - ⏩ [From my archive #1](http://9gag.com/gag/a87VRmZ)
+ - 👉 [Step.hanie](http://9gag.com/gag/aBy4B9Q)<!-- MEMES:END -->
 
 ---
 
