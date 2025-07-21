@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - ⏩ [From my archive #1](http://9gag.com/gag/a87VRmZ)
- - 👉 [Step.hanie](http://9gag.com/gag/aBy4B9Q)<!-- MEMES:END -->
+ - 💣 [It&#39;s become an acquired skill at this point](http://9gag.com/gag/a7onYgx)
+ - ⏩ [Fountain in Poland designed by M. Chodakowska](http://9gag.com/gag/a5Q50wG)
+ - 👉 [She touches the Ball 4 times without it hitting the ground...](http://9gag.com/gag/aBy4B3O)<!-- MEMES:END -->
 
 ---
 
