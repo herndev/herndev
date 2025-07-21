@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Netflix is using Runway AI&#39;s video generation tools for production; Disney is testing out the tools and talked with Runway about possible uses for them &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250721/p22#a250721p22)
- - [A new Moto 360 is coming, but maybe not like you’d expect](https://www.androidauthority.com/moto-360-2025-smartwatch-leaked-renders-3579460/)
- - [Google just forced some Pixel 4a holdouts to finally install their battery-nerfing update](https://www.androidauthority.com/pixel-4a-battery-update-3579439/)<!-- TECH:END -->
+ - [Citizen will share crime videos with the NYPD](https://www.theverge.com/news/711146/citizen-app-nyc-verified-partners-alerts-surveillance)
+ - [Videos and images in Google Messages have a smooth new animation &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-media-player-animation-3579487/)
+ - [Sources: Stargate has struggled to get off the ground and sharply scaled back its near-term plans, as SoftBank and OpenAI disagree on crucial terms of the deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250721/p25#a250721p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
