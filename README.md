@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No other Superman story will scratch the post-Superman-movie itch like this animated series](https://www.polygon.com/dc/613270/my-adventures-with-superman-vs-james-gunn-movie-2025)
- - [The secrets behind Final Fantasy Tactics – The Ivalice Chronicles’ makeover](https://blog.playstation.com/2025/07/21/the-secrets-behind-final-fantasy-tactics-the-ivalice-chronicles-makeover/)
- - [The secrets behind Final Fantasy Tactics – The Ivalice Chronicles’ makeover](https://blog.playstation.com/2025/07/21/the-secrets-behind-final-fantasy-tactics-the-ivalice-chronicles-makeover/)<!-- GAME:END -->
+ - [The top 5 actors who should play Ganondorf in the Zelda movie](https://www.polygon.com/614111/zelda-movie-cast-ganondorf-actors)
+ - [Demon Slayer: Infinity Castle makes box-office history and threatens Mugen Train&amp;#8217;s record](https://www.polygon.com/anime/614599/demon-slayer-infinty-castle-opening-box-office-japan-mugen-trains-record)
+ - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
