@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Predator: Badlands is the start of the Alien vs. Predator reboot we need](https://www.polygon.com/news/614764/predator-badlands-trailer-avp)
- - [Abiotic Factor 1.0 release date—When to expect Cold Fusion&#39;s new story, upgrades, and traders in your timezone](https://www.pcgamer.com/abiotic-factor-update-release-date/)
- - [How one G.I. Joe writer turned Marvel Rivals into a comics run for the ages](https://www.polygon.com/features/614688/marvel-rivals-comics-writer-paul-allor-profile)<!-- GAME:END -->
+ - [Bloodlines 2 studio The Chinese Room has bought its own independence, but also laid off employees for the second time in two months](https://www.pcgamer.com/gaming-industry/bloodlines-2-studio-the-chinese-room-has-bought-its-own-independence-but-also-laid-off-employees-for-the-second-time-in-two-months/)
+ - [The Junction Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614706/junction-banandium-gem-golden-banana-locations-list-map-all)
+ - [Gabe Newell says AI is a &#39;significant technology transition&#39; on a par with the emergence of computers or the internet, and will be &#39;a cheat code for people who want to take advantage of it&#39;](https://www.pcgamer.com/software/ai/gabe-newell-says-ai-is-a-significant-technology-transition-on-a-par-with-the-emergence-of-computers-or-the-internet-and-will-be-a-cheat-code-for-people-who-want-to-take-advantage-of-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
