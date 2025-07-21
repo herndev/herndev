@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
- - ⏩ [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - 👉 [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)<!-- MEMES:END -->
+ - 💣 [The mystery of life expectancy solved](http://9gag.com/gag/azx4njK)
+ - ⏩ [Le chef](http://9gag.com/gag/aD2QKBd)
+ - 👉 [Hell yeah, fly high free bird.](http://9gag.com/gag/aXPRyKb)<!-- MEMES:END -->
 
 ---
 
