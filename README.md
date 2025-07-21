@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pa zuzu](http://9gag.com/gag/ajPRzQp)
- - ⏩ [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - 👉 [In 1985, an austrian man already told us how to deal with airplane karens](http://9gag.com/gag/a87VZdV)<!-- MEMES:END -->
+ - 💣 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
+ - ⏩ [I love japan](http://9gag.com/gag/aQzyWYz)
+ - 👉 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)<!-- MEMES:END -->
 
 ---
 
