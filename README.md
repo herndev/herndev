@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy Z Fold 7’s display survives 500,000 folds, a massive leap over Fold 6 durability](https://www.androidauthority.com/samsung-galaxy-z-fold-7-display-fold-rating-3579529/)
  - [OpenAI and the UK government announce a partnership to explore AI use in justice, defense, security, and edtech, and possibly expand OpenAI&#39;s London office &lpar;Reuters&rpar;](http://www.techmeme.com/250721/p33#a250721p33)
- - [Researchers say hackers linked to the Chinese government were behind at least some of the recent widespread attacks using the SharePoint RCE vulnerability &lpar;Washington Post&rpar;](http://www.techmeme.com/250721/p32#a250721p32)
- - [Save a whopping $900 on the Anker SOLIX F2000 Power Station](https://www.androidauthority.com/anker-solix-f2000-portable-power-station-deal-3579502/)<!-- TECH:END -->
+ - [Researchers say hackers linked to the Chinese government were behind at least some of the recent widespread attacks using the SharePoint RCE vulnerability &lpar;Washington Post&rpar;](http://www.techmeme.com/250721/p32#a250721p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
