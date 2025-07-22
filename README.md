@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge Launches New Site Features Aimed at Deepening Audience Engagement and Announces New Editorial Newsletters](https://www.theverge.com/press-room/710921/verge-site-features-launch-newsletters)
- - [The Verge is getting way more personal with following feeds](https://www.theverge.com/bulletin/710925/the-verge-is-getting-way-more-personal-with-following-feeds)
- - [Pokémon Legends: Z-A has a detailed new trailer and Switch 2 bundle](https://www.theverge.com/games/711445/pokemon-legends-z-a-nintendo-switch-2-bundle-trailer)<!-- TECH:END -->
+ - [Sources: the EU is set to approve Apple&#39;s App Store rule and fee changes, unveiled last month, in the coming weeks, staving off a potentially hefty daily fine &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250722/p21#a250722p21)
+ - [Apple&#39;s AI team grew fast but it probably won&#39;t shrink as quickly](https://appleinsider.com/articles/25/07/22/apples-ai-team-grew-fast-but-it-probably-wont-shrink-as-quickly?utm_source=rss)
+ - [Leak strongly hints that a cheaper Nothing phone is on the way](https://www.androidauthority.com/nothing-lite-t-phone-rumor-3579773/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
