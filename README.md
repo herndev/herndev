@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
+ - 💣 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
  - ⏩ [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 👉 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)<!-- MEMES:END -->
+ - 👉 [That was a close call](http://9gag.com/gag/a87VZ01)<!-- MEMES:END -->
 
 ---
 
