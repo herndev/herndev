@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairphone software devs hit back against GrapheneOS security claims](https://www.androidauthority.com/fairphone-murena-software-response-grapheneos-claims-3579637/)
- - [This Is the Best Sleeping Bag](https://www.wired.com/story/rumpl-wrap-sack-perfect-sleeping-bag/)
- - [Elgato’s new capture card lowers the price for 4K 60fps gameplay recording](https://www.theverge.com/news/710547/elgato-game-capture-4k-price-release-date-features)<!-- TECH:END -->
+ - [A daily Pokémon puzzle game is out now as part of a busy lineup](https://www.theverge.com/news/710734/pokemon-presents-july-2025-trailer-roundup)
+ - [Microsoft says it &quot;has observed two named Chinese nation-state actors, Linen Typhoon and Violet Typhoon exploiting&quot; the SharePoint zero-day vulnerabilities &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250722/p17#a250722p17)
+ - [Fairphone software devs hit back against GrapheneOS security claims](https://www.androidauthority.com/fairphone-murena-software-response-grapheneos-claims-3579637/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
