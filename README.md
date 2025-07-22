@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - ⏩ [That was a close call](http://9gag.com/gag/a87VZ01)
- - 👉 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
+ - 💣 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
+ - ⏩ [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
+ - 👉 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)<!-- MEMES:END -->
 
 ---
 
