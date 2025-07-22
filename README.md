@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alienware Area-51 review](https://www.pcgamer.com/hardware/gaming-pcs/alienware-area-51-gaming-pc-review/)
- - [New Hellraiser Game Has An Even Gnarlier Version Of The Trailer You Won&#39;t Find On YouTube](https://kotaku.com/hellraiser-pinhead-doug-bradley-red-band-trailer-saber-1851786676)
- - [World of Warcraft: Mists of Pandaria Classic Is Now Live](https://worldofwarcraft.blizzard.com/en-us/news/24224134#new_tab)<!-- GAME:END -->
+ - [MARVEL Tōkon: Fighting Souls debuts at Evo 2025](https://blog.playstation.com/2025/07/22/marvel-tokon-fighting-souls-debuts-at-evo-2025/)
+ - [Everything announced at Pokémon Presents July 2025](https://www.polygon.com/news/614984/pokemon-presents-july-2025-news-announcements-all-recap)
+ - [Everything We Saw At Today&#39;s Pokémon Presents Showcase](https://kotaku.com/pokemon-presents-legends-za-champions-friends-concierge-1851786682)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
