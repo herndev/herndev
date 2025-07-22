@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 1985, an austrian man already told us how to deal with airplane karens](http://9gag.com/gag/a87VZdV)
- - ⏩ [Stick into...](http://9gag.com/gag/aGy7m1n)
- - 👉 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)<!-- MEMES:END -->
+ - 💣 [Stick into...](http://9gag.com/gag/aGy7m1n)
+ - ⏩ [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
+ - 👉 [I love japan](http://9gag.com/gag/aQzyWYz)<!-- MEMES:END -->
 
 ---
 
