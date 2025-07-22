@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate 2 Fails To &#39;Make FPS Great Again,&#39; Shuttering Before Relaunching Next Year](https://kotaku.com/splitgate-2-maga-refunds-reboot-beta-season-3-servers-1851786742)
- - [K-Pop Demon Hunters exploded on Netflix — and now it’s a fanfic legend](https://www.polygon.com/entertainment/615140/kpop-demon-hunters-netflix-fanfic-fandom)
- - [Borderlands 4 Launches On Switch 2 Just A Few Weeks After Other Consoles](https://kotaku.com/borderlands-4-switch-2-release-date-october-ps5-sept-1851786737)<!-- GAME:END -->
+ - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
+ - [Pokémon Legends: Z-A’s cutesy Mega Dragonite might be darker than you realize](https://www.polygon.com/news/615239/mega-dragonite-pokemon-legends-za-evolution)
+ - [Ozzy Osbourne has died at age 76](https://www.pcgamer.com/movies-tv/ozzy-osbourne-has-died-at-age-76/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
