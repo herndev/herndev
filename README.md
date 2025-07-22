@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - ⏩ [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 👉 [That was a close call](http://9gag.com/gag/a87VZ01)<!-- MEMES:END -->
+ - 💣 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - ⏩ [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
+ - 👉 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
 
 ---
 
