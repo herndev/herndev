@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 QPR1 Beta 3 delivers fix for persistent Galaxy Watch connection problems](https://www.androidauthority.com/galaxy-watch-connection-bug-fix-3579851/)
- - [Apple brings its online retail store to Saudi Arabia](https://www.theverge.com/news/711672/apple-saudi-arabia-online-store-launch)
- - [Source: OpenAI&#39;s $40B round announced in March is reopening on July 28; SoftBank&#39;s commitment could be cut to $10B if OpenAI does not restructure by end of 2025 &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250722/p27#a250722p27)<!-- TECH:END -->
+ - [Democrats are desperately trying to revive the click-to-cancel rule](https://www.theverge.com/politics/711707/click-to-cancel-democrats-ftc)
+ - [The UK plans to ban public sector and key infrastructure orgs from paying ransoms to ransomware attackers, require others to notify the UK if they plan to pay &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250722/p31#a250722p31)
+ - [Sources: dozens of xAI staff voiced concerns over a program granting xAI &quot;perpetual&quot; access to data like their &quot;likeness&quot; for training; several did not consent &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/250722/p30#a250722p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
