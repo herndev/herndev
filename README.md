@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ozzy Passed Away](http://9gag.com/gag/ayNvgzM)
- - ⏩ [The Prince has left his throne](http://9gag.com/gag/abARPmp)
- - 👉 [It&#39;s that simple, guys](http://9gag.com/gag/abARPvB)<!-- MEMES:END -->
+ - 💣 [Your salary](http://9gag.com/gag/aNDj6xG)
+ - ⏩ [Ozzy Passed Away](http://9gag.com/gag/ayNvgzM)
+ - 👉 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)<!-- MEMES:END -->
 
 ---
 
