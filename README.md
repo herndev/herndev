@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Denzel](http://9gag.com/gag/a4PwD9A)
- - ⏩ [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
- - 👉 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)<!-- MEMES:END -->
+ - 💣 [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
+ - ⏩ [Denzel](http://9gag.com/gag/a4PwD9A)
+ - 👉 [The elite that rule the world from muricastan](http://9gag.com/gag/aRBRbxQ)<!-- MEMES:END -->
 
 ---
 
