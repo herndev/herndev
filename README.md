@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077&#39;s Photo Mode Is Wonderful Because It Focuses On What Matters: The Punks](https://kotaku.com/cyberpunk-2077-photo-mode-update-v-judy-johnny-1851786699)
- - [Ubisoft CEO says Star Wars Outlaws tanked because people are bored of Star Wars: &#39;The brand it belonged to was in a bit of choppy waters&#39;](https://www.pcgamer.com/games/ubisoft-ceo-says-star-wars-outlaws-tanked-because-people-are-bored-of-star-wars-the-brand-it-belonged-to-was-in-a-bit-of-choppy-waters/)
- - [Gaming mouse manufacturer may have hosted malware-compromised configuration software on its official site for at least two weeks](https://www.pcgamer.com/hardware/gaming-mice/gaming-mouse-manufacturer-may-have-hosted-malware-compromised-configuration-software-on-its-official-site-for-at-least-two-weeks/)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Announces a Marketplace Lifetime Exclusive: The Cessna Citation X by FlightFX](http://flightsimulator.com/msfs-presents-flightfx-cessna-citation-x#new_tab)
+ - [How to get Refined Carbon in Abiotic Factor](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-refined-carbon/)
+ - [Where to find an anvil in Abiotic Factor](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-anvil-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
