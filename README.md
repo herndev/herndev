@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your salary](http://9gag.com/gag/aNDj6xG)
- - ⏩ [Ozzy Passed Away](http://9gag.com/gag/ayNvgzM)
- - 👉 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)<!-- MEMES:END -->
+ - 💣 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - ⏩ [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 👉 [Still the best video on the internet](http://9gag.com/gag/awye6O4)<!-- MEMES:END -->
 
 ---
 
