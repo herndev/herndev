@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate 2 &amp;#8216;unlaunches,&amp;#8217; studio to cut staff ahead of 2026 rerelease](https://www.polygon.com/news/614738/splitgate-2-unlaunch-announcement-1047-games-layoffs)
- - [All Abiotic Factor soup recipes and their buffs](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-soup-recipes/)
- - [Capcom Is Once Again Remaking Resident Evil 2](https://kotaku.com/resident-evil-2-remake-arcade-light-gun-dead-shot-test-1851786722)<!-- GAME:END -->
+ - [Splitgate 2 Fails To &#39;Make FPS Great Again,&#39; Shuttering Before Relaunching Next Year](https://kotaku.com/splitgate-2-maga-refunds-reboot-beta-season-3-servers-1851786742)
+ - [K-Pop Demon Hunters exploded on Netflix — and now it’s a fanfic legend](https://www.polygon.com/entertainment/615140/kpop-demon-hunters-netflix-fanfic-fandom)
+ - [Borderlands 4 Launches On Switch 2 Just A Few Weeks After Other Consoles](https://kotaku.com/borderlands-4-switch-2-release-date-october-ps5-sept-1851786737)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
