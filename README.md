@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - ⏩ [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
- - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
+ - 💣 [Tattoo](http://9gag.com/gag/abARPXE)
+ - ⏩ [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
+ - 👉 [You will never win](http://9gag.com/gag/a9yD98o)<!-- MEMES:END -->
 
 ---
 
