@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resort Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615001/resort-layer-banandium-gem-golden-banana-locations-list-map-all)
- - [Twitch is blowing up the WNBA way beyond Caitlin Clark](https://www.polygon.com/entertainment/614749/twitch-who-are-stud-budz-lynx-courtney-williams-natisha-hiedeman-wnba-caitlin-clark)
- - [New Awesome-Looking Fallout Shooter Is Actually A Fan-Made Doom Mod](https://kotaku.com/doom-mod-fallout-bakersfield-boomer-shooter-trailer-pc-1851786757)<!-- GAME:END -->
+ - [Guy with 35,000 hours in Ark: Survival Evolved gives it a negative Steam review: &#39;How do I get a refund!!&#39;](https://www.pcgamer.com/games/survival-crafting/guy-with-35-000-hours-in-ark-survival-evolved-gives-it-a-negative-steam-review-how-do-i-get-a-refund/)
+ - [6 years of hushed development later, Riot&#39;s League of Legends fighting game has finally resurfaced and it&#39;s going to be playable very soon](https://www.pcgamer.com/games/fighting/6-years-of-hushed-development-later-riots-league-of-legends-fighting-game-has-finally-resurfaced-and-its-going-to-be-playable-very-soon/)
+ - [Resort Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615001/resort-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
