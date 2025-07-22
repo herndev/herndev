@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [#life goals](http://9gag.com/gag/aZZRGjW)
+ - 💣 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
  - ⏩ [That was a close call](http://9gag.com/gag/a87VZ01)
- - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
+ - 👉 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)<!-- MEMES:END -->
 
 ---
 
