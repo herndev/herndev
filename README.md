@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another satisfied client](http://9gag.com/gag/a7onQMw)
- - ⏩ [She is doing some good work.. it seems like that](http://9gag.com/gag/aBy4pqO)
- - 👉 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)<!-- MEMES:END -->
+ - 💣 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
+ - ⏩ [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
+ - 👉 [From my archive #1](http://9gag.com/gag/a87VRmZ)<!-- MEMES:END -->
 
 ---
 
