@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Wuchang: Fallen Feathers release?](https://www.polygon.com/guides/614810/wuchang-fallen-feathers-release-time-edt-pdt)
- - [Monster Hunter Wilds Festival of Accord: Flamefete Seasonal Event starts July 23](https://blog.playstation.com/2025/07/21/monster-hunter-wilds-festival-of-accord-flamefete-seasonal-event-starts-july-23/)
- - [Monster Hunter Wilds Festival of Accord: Flamefete Seasonal Event starts July 23](https://blog.playstation.com/2025/07/21/monster-hunter-wilds-festival-of-accord-flamefete-seasonal-event-starts-july-23/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, July 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-22-2025/)
+ - [&#39;The hunting genre was because of Wal-Mart:&#39; Doom dev John Romero says the entire category was created to appease one Texan executive](https://www.pcgamer.com/gaming-industry/the-hunting-genre-was-because-of-wal-mart-doom-dev-john-romero-says-the-entire-category-was-created-to-appease-one-texan-executive/)
+ - [What time does Wuchang: Fallen Feathers release?](https://www.polygon.com/guides/614810/wuchang-fallen-feathers-release-time-edt-pdt)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
