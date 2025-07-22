@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google, Amazon, Cohere, and Mistral are intensifying efforts to reduce AI hallucinations via technical fixes, data quality improvements, and fact-checking &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250722/p5#a250722p5)
- - [Seoul-based chip designer FuriosaAI signs a deal with LG to use its AI chip RNGD, its first major contract, after rejecting Meta&#39;s $800M buyout offer in March &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250722/p4#a250722p4)
- - [Forget the Pixel 10 Pro. Here’s why the base Pixel 10 could be the best Pixel to buy this year](https://www.androidauthority.com/base-pixel-10-best-pixel-buy-this-year-why-3579280/)<!-- TECH:END -->
+ - [AMD and Stability AI launch the industry&#39;s first Stable Diffusion 3.0 Medium AI model optimized for AMD&#39;s XDNA 2 NPUs, designed to run locally on Ryzen laptops &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250722/p9#a250722p9)
+ - [Snapchat could soon offer free Snapchat Plus if you invite your friends &lpar;APK teardown&rpar;](https://www.androidauthority.com/snapchat-plus-referral-incentive-apk-teardown-3579631/)
+ - [OpenAI and Oracle unveil plans to develop 4.5GW of additional US data center capacity in an expanded partnership, hitting 5GW in total and running 2M AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250722/p8#a250722p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
