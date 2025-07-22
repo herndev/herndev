@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clive Barker’s Hellraiser: Revival – Answering the Deep, Dark Questions](https://news.xbox.com/en-us/2025/07/22/clive-barkers-hellraiser-revival/)
- - [7 Umamusume: Pretty Derby tips to give your horse girls the successful career they deserve](https://www.pcgamer.com/games/sim/umamusume-tips-tricks-starter-guide/)
- - [Gustave&#39;s voice actor, Charlie Cox, admits he needs to &#39;play the game&#39; after asking if Clair Obscur: Expedition 33&#39;s goofball sidekick is the &#39;big baddie at the end&#39;](https://www.pcgamer.com/games/rpg/gustaves-voice-actor-charlie-cox-admits-he-needs-to-play-the-game-after-asking-if-clair-obscur-expedition-33s-goofball-sidekick-is-the-big-baddie-at-the-end/)<!-- GAME:END -->
+ - [Alienware Area-51 review](https://www.pcgamer.com/hardware/gaming-pcs/alienware-area-51-gaming-pc-review/)
+ - [New Hellraiser Game Has An Even Gnarlier Version Of The Trailer You Won&#39;t Find On YouTube](https://kotaku.com/hellraiser-pinhead-doug-bradley-red-band-trailer-saber-1851786676)
+ - [World of Warcraft: Mists of Pandaria Classic Is Now Live](https://worldofwarcraft.blizzard.com/en-us/news/24224134#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
