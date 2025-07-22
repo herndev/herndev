@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tattoo](http://9gag.com/gag/abARPXE)
- - ⏩ [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
- - 👉 [You will never win](http://9gag.com/gag/a9yD98o)<!-- MEMES:END -->
+ - 💣 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - ⏩ [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
+ - 👉 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
 
 ---
 
