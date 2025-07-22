@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first Critical Role video game just became a reality](https://www.polygon.com/critical-role/614945/first-video-game-adhoc-studio-exandria)
- - [Musk saying &#39;game on&#39; to AI and creating a Baby Grok for kids makes me miss &#39;in denial&#39; Elon, when he was oracle of the impending AI apocalypse](https://www.pcgamer.com/software/ai/musk-saying-game-on-to-ai-and-creating-a-baby-grok-for-kids-makes-me-miss-in-denial-elon-when-he-was-oracle-of-the-impending-ai-apocalypse/)
- - [Better grips, OLED screen, and more memory: Our first actual look at the Lenovo Legion Go 2 is everything I wanted in the original](https://www.pcgamer.com/hardware/handheld-gaming-pcs/better-grips-oled-screen-and-more-memory-our-first-actual-look-at-the-lenovo-legion-go-2-is-everything-i-wanted-in-the-original/)<!-- GAME:END -->
+ - [Clive Barker’s Hellraiser: Revival – Answering the Deep, Dark Questions](https://news.xbox.com/en-us/2025/07/22/clive-barkers-hellraiser-revival/)
+ - [7 Umamusume: Pretty Derby tips to give your horse girls the successful career they deserve](https://www.pcgamer.com/games/sim/umamusume-tips-tricks-starter-guide/)
+ - [Gustave&#39;s voice actor, Charlie Cox, admits he needs to &#39;play the game&#39; after asking if Clair Obscur: Expedition 33&#39;s goofball sidekick is the &#39;big baddie at the end&#39;](https://www.pcgamer.com/games/rpg/gustaves-voice-actor-charlie-cox-admits-he-needs-to-play-the-game-after-asking-if-clair-obscur-expedition-33s-goofball-sidekick-is-the-big-baddie-at-the-end/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
