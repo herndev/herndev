@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All](https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/)
- - [Narwal Freo Z Ultra deal: Our favorite robot drops to lowest price since Prime Day](https://www.androidauthority.com/narwal-freo-z-ultra-deal-5-3579503/)
- - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)<!-- TECH:END -->
+ - [OpenAI and the UK government announce a partnership to explore AI use in justice, defense, security, and edtech, and possibly expand OpenAI&#39;s London office &lpar;Reuters&rpar;](http://www.techmeme.com/250721/p33#a250721p33)
+ - [Researchers say hackers linked to the Chinese government were behind at least some of the recent widespread attacks using the SharePoint RCE vulnerability &lpar;Washington Post&rpar;](http://www.techmeme.com/250721/p32#a250721p32)
+ - [Save a whopping $900 on the Anker SOLIX F2000 Power Station](https://www.androidauthority.com/anker-solix-f2000-portable-power-station-deal-3579502/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
