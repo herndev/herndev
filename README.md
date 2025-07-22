@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was a close call](http://9gag.com/gag/a87VZ01)
- - ⏩ [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - 👉 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
+ - 💣 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - ⏩ [You will never win](http://9gag.com/gag/a9yD98o)
+ - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
 
 ---
 
