@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - ⏩ [Made me chuckle](http://9gag.com/gag/an7G6Xo)
- - 👉 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)<!-- MEMES:END -->
+ - 💣 [Denzel](http://9gag.com/gag/a4PwD9A)
+ - ⏩ [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
+ - 👉 [Made me chuckle](http://9gag.com/gag/an7G6Xo)<!-- MEMES:END -->
 
 ---
 
