@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto custody company BitGo confidentially files for a US IPO; it raised $100M at a $1.75B valuation in August 2023 &lpar;CoinDesk&rpar;](http://www.techmeme.com/250721/p29#a250721p29)
- - [SEC filing: Ambiq Micro, which makes ultra-low power chips, is seeking to raise as much as $85M from its IPO, marketing 3.4M shares at $22 to $25 each &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250721/p28#a250721p28)
- - [Apple fans in Saudi Arabia can now shop directly from Apple](https://appleinsider.com/articles/25/07/21/apple-fans-in-saudi-arabia-can-now-shop-directly-from-apple?utm_source=rss)<!-- TECH:END -->
+ - [Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All](https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/)
+ - [Narwal Freo Z Ultra deal: Our favorite robot drops to lowest price since Prime Day](https://www.androidauthority.com/narwal-freo-z-ultra-deal-5-3579503/)
+ - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
