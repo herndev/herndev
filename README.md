@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Which leaked Pixel 10 colorway is speaking to you the most?](https://www.androidauthority.com/pixel-10-best-color-survey-3579538/)
- - [Galaxy Z Fold 7’s display survives 500,000 folds, a massive leap over Fold 6 durability](https://www.androidauthority.com/samsung-galaxy-z-fold-7-display-fold-rating-3579529/)
- - [OpenAI and the UK government announce a partnership to explore AI use in justice, defense, security, and edtech, and possibly expand OpenAI&#39;s London office &lpar;Reuters&rpar;](http://www.techmeme.com/250721/p33#a250721p33)<!-- TECH:END -->
+ - [A roundup of VLSI conference 2025, including the use of digital twins for design exploration, DRAM beyond 1x nm nodes, Intel&#39;s 18A process vs. TSMC, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250722/p1#a250722p1)
+ - [KitchenAid Promo Code: $140 Off in July 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Poll: Which leaked Pixel 10 colorway is speaking to you the most?](https://www.androidauthority.com/pixel-10-best-color-survey-3579538/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
