@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Democrats are desperately trying to revive the click-to-cancel rule](https://www.theverge.com/politics/711707/click-to-cancel-democrats-ftc)
- - [The UK plans to ban public sector and key infrastructure orgs from paying ransoms to ransomware attackers, require others to notify the UK if they plan to pay &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250722/p31#a250722p31)
- - [Sources: dozens of xAI staff voiced concerns over a program granting xAI &quot;perpetual&quot; access to data like their &quot;likeness&quot; for training; several did not consent &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/250722/p30#a250722p30)<!-- TECH:END -->
+ - [Score a CUKTECH 10 Power Bank for a mere $21.99!](https://www.androidauthority.com/cuktech-10-power-bank-deal-4-3579909/)
+ - [Rove’s R2-4K dash cam is an extra set of eyes on the road and $48 off at Amazon](https://www.theverge.com/tech/711754/rove-r2-4k-dash-cam-deal-sale)
+ - [Windows 11&amp;#8217;s new update will add a bunch of AI features](https://www.theverge.com/news/711797/windows-11-microsoft-ai-features-copilot-vision-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
