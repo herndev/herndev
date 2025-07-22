@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
- - ⏩ [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
- - 👉 [From my archive #1](http://9gag.com/gag/a87VRmZ)<!-- MEMES:END -->
+ - 💣 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
+ - ⏩ [The elite that rule the world from muricastan](http://9gag.com/gag/aRBRbxQ)
+ - 👉 [Made me chuckle](http://9gag.com/gag/an7G6Xo)<!-- MEMES:END -->
 
 ---
 
