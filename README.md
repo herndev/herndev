@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Escobar Fold scam finally catches up with its creator, who now faces years in jail](https://www.androidauthority.com/escobar-fold-phone-scam-guilty-pleas-3579913/)
- - [Texas Instruments reports Q2 revenue up 16% YoY to $4.45B, vs. $4.36B est., net income of $1.3B, and forecasts Q3 profit below est.; TXN drops 10%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250722/p35#a250722p35)
- - [Composio, which provides tools to help companies build AI agents, raised a $25M Series A led by Lightspeed, taking its total funding to $29M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250722/p34#a250722p34)<!-- TECH:END -->
+ - [Alibaba debuts the Qwen3-Coder model for agentic coding, including a 480B-parameter MoE variant, and open sources Qwen Code, a CLI tool adapted from Gemini CLI &lpar;Qwen&rpar;](http://www.techmeme.com/250722/p38#a250722p38)
+ - [Uncovered iOS 26 beta image hints at sleep score for Apple Watch](https://appleinsider.com/articles/25/07/22/uncovered-ios-26-beta-image-hints-at-sleep-score-for-apple-watch?utm_source=rss)
+ - [The Escobar Phone scam saga has finally come to an end](https://www.theverge.com/news/711929/escobar-phone-scam-guilty-plea-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
