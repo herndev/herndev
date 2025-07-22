@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - ⏩ [The elite that rule the world from muricastan](http://9gag.com/gag/aRBRbxQ)
- - 👉 [Made me chuckle](http://9gag.com/gag/an7G6Xo)<!-- MEMES:END -->
+ - 💣 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
+ - ⏩ [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 👉 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)<!-- MEMES:END -->
 
 ---
 
