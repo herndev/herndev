@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Spotlight Hour: Can Jigglypuff be shiny?](https://www.polygon.com/pokemon-go-guide/23608772/can-jigglypuff-be-shiny-spotlight-hour-february)
- - [Today&#39;s Wordle answer for Tuesday, July 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-22-2025/)
- - [&#39;The hunting genre was because of Wal-Mart:&#39; Doom dev John Romero says the entire category was created to appease one Texan executive](https://www.pcgamer.com/gaming-industry/the-hunting-genre-was-because-of-wal-mart-doom-dev-john-romero-says-the-entire-category-was-created-to-appease-one-texan-executive/)<!-- GAME:END -->
+ - [Better grips, OLED screen, and more memory: Our first actual look at the Lenovo Legion Go 2 is everything I wanted in the original](https://www.pcgamer.com/hardware/handheld-gaming-pcs/better-grips-oled-screen-and-more-memory-our-first-actual-look-at-the-lenovo-legion-go-2-is-everything-i-wanted-in-the-original/)
+ - [Arctic Liquid Freezer III Pro 360 ARGB review](https://www.pcgamer.com/hardware/cooling/arctic-liquid-freezer-iii-pro-360-argb-review/)
+ - [Pokémon Go Spotlight Hour: Can Jigglypuff be shiny?](https://www.polygon.com/pokemon-go-guide/23608772/can-jigglypuff-be-shiny-spotlight-hour-february)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
