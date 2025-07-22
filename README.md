@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - ⏩ [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 👉 [That was a close call](http://9gag.com/gag/a87VZ01)<!-- MEMES:END -->
+ - 💣 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
+ - ⏩ [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
 
 ---
 
