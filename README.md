@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Announces a Marketplace Lifetime Exclusive: The Cessna Citation X by FlightFX](http://flightsimulator.com/msfs-presents-flightfx-cessna-citation-x#new_tab)
- - [How to get Refined Carbon in Abiotic Factor](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-refined-carbon/)
- - [Where to find an anvil in Abiotic Factor](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-anvil-location/)<!-- GAME:END -->
+ - [Splitgate 2 &amp;#8216;unlaunches,&amp;#8217; studio to cut staff ahead of 2026 rerelease](https://www.polygon.com/news/614738/splitgate-2-unlaunch-announcement-1047-games-layoffs)
+ - [All Abiotic Factor soup recipes and their buffs](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-soup-recipes/)
+ - [Capcom Is Once Again Remaking Resident Evil 2](https://kotaku.com/resident-evil-2-remake-arcade-light-gun-dead-shot-test-1851786722)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
