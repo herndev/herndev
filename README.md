@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
+ - 💣 [#life goals](http://9gag.com/gag/aZZRGjW)
  - ⏩ [That was a close call](http://9gag.com/gag/a87VZ01)
- - 👉 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)<!-- MEMES:END -->
+ - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
 
 ---
 
