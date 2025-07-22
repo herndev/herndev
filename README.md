@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Twitch&#39;s most popular vtuber leads a mass exodus from her agency, claiming it withheld over $500K in charity funds: &#39;This entire situation has broken me&#39;](https://www.pcgamer.com/hardware/streaming/twitchs-most-popular-vtuber-leads-a-mass-exodus-from-her-agency-claiming-it-withheld-over-usd500k-in-charity-funds-this-entire-situation-has-broken-me/)
  - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
- - [Pokémon Legends: Z-A’s cutesy Mega Dragonite might be darker than you realize](https://www.polygon.com/news/615239/mega-dragonite-pokemon-legends-za-evolution)
- - [Ozzy Osbourne has died at age 76](https://www.pcgamer.com/movies-tv/ozzy-osbourne-has-died-at-age-76/)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A’s cutesy Mega Dragonite might be darker than you realize](https://www.polygon.com/news/615239/mega-dragonite-pokemon-legends-za-evolution)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
