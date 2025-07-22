@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Denzel](http://9gag.com/gag/a4PwD9A)
- - ⏩ [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - 👉 [Made me chuckle](http://9gag.com/gag/an7G6Xo)<!-- MEMES:END -->
+ - 💣 [The elite that rule the world from muricastan](http://9gag.com/gag/aRBRbxQ)
+ - ⏩ [In 1985, an austrian man already told us how to deal with airplane karens](http://9gag.com/gag/a87VZdV)
+ - 👉 [The last recording of a male Kaua\u02bbi \u02bb\u014d\u02bb\u014d in 1987 before its death, it was still desperately calling for an extinct mate.](http://9gag.com/gag/abARNRb)<!-- MEMES:END -->
 
 ---
 
