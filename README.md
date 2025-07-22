@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A daily Pokémon puzzle game is out now as part of a busy lineup](https://www.theverge.com/news/710734/pokemon-presents-july-2025-trailer-roundup)
- - [Microsoft says it &quot;has observed two named Chinese nation-state actors, Linen Typhoon and Violet Typhoon exploiting&quot; the SharePoint zero-day vulnerabilities &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250722/p17#a250722p17)
- - [Fairphone software devs hit back against GrapheneOS security claims](https://www.androidauthority.com/fairphone-murena-software-response-grapheneos-claims-3579637/)<!-- TECH:END -->
+ - [The Verge Launches New Site Features Aimed at Deepening Audience Engagement and Announces New Editorial Newsletters](https://www.theverge.com/press-room/710921/verge-site-features-launch-newsletters)
+ - [The Verge is getting way more personal with following feeds](https://www.theverge.com/bulletin/710925/the-verge-is-getting-way-more-personal-with-following-feeds)
+ - [Pokémon Legends: Z-A has a detailed new trailer and Switch 2 bundle](https://www.theverge.com/games/711445/pokemon-legends-z-a-nintendo-switch-2-bundle-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
