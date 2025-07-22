@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD and Stability AI launch the industry&#39;s first Stable Diffusion 3.0 Medium AI model optimized for AMD&#39;s XDNA 2 NPUs, designed to run locally on Ryzen laptops &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250722/p9#a250722p9)
- - [Snapchat could soon offer free Snapchat Plus if you invite your friends &lpar;APK teardown&rpar;](https://www.androidauthority.com/snapchat-plus-referral-incentive-apk-teardown-3579631/)
- - [OpenAI and Oracle unveil plans to develop 4.5GW of additional US data center capacity in an expanded partnership, hitting 5GW in total and running 2M AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250722/p8#a250722p8)<!-- TECH:END -->
+ - [Knock it off!](https://www.theverge.com/cs/features/709635/knock-it-off)
+ - [Nothing’s new CMF smartwatch drops swappable bezels for a bigger display](https://www.theverge.com/news/711301/nothing-cmf-watch-3-pro-smartwatch-price-availability)
+ - [Hellraiser is being turned into a survival horror game](https://www.theverge.com/news/710637/clive-barker-hellraiser-revival-game-trailer-ps5-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
