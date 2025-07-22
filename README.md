@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fans in Saudi Arabia can now shop directly from Apple](https://appleinsider.com/articles/25/07/21/apple-fans-in-saudi-arabia-can-now-shop-directly-from-apple?utm_source=rss)
- - [Seattle-based tax compliance software maker Avalara, acquired by Vista Equity Partners in a 2022 deal valuing it at $8.4B, confidentially files for a US IPO &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/250721/p27#a250721p27)
- - [Need a power bank? Here are two awesome Anker deals for different types of users](https://www.androidauthority.com/anker-laptop-power-bank-anker-548-power-bank-deals-3579504/)<!-- TECH:END -->
+ - [Crypto custody company BitGo confidentially files for a US IPO; it raised $100M at a $1.75B valuation in August 2023 &lpar;CoinDesk&rpar;](http://www.techmeme.com/250721/p29#a250721p29)
+ - [SEC filing: Ambiq Micro, which makes ultra-low power chips, is seeking to raise as much as $85M from its IPO, marketing 3.4M shares at $22 to $25 each &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250721/p28#a250721p28)
+ - [Apple fans in Saudi Arabia can now shop directly from Apple](https://appleinsider.com/articles/25/07/21/apple-fans-in-saudi-arabia-can-now-shop-directly-from-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
