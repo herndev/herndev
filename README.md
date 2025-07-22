@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Better grips, OLED screen, and more memory: Our first actual look at the Lenovo Legion Go 2 is everything I wanted in the original](https://www.pcgamer.com/hardware/handheld-gaming-pcs/better-grips-oled-screen-and-more-memory-our-first-actual-look-at-the-lenovo-legion-go-2-is-everything-i-wanted-in-the-original/)
- - [Arctic Liquid Freezer III Pro 360 ARGB review](https://www.pcgamer.com/hardware/cooling/arctic-liquid-freezer-iii-pro-360-argb-review/)
- - [Pokémon Go Spotlight Hour: Can Jigglypuff be shiny?](https://www.polygon.com/pokemon-go-guide/23608772/can-jigglypuff-be-shiny-spotlight-hour-february)<!-- GAME:END -->
+ - [The first Critical Role video game just became a reality](https://www.polygon.com/critical-role/614945/first-video-game-adhoc-studio-exandria)
+ - [Musk saying &#39;game on&#39; to AI and creating a Baby Grok for kids makes me miss &#39;in denial&#39; Elon, when he was oracle of the impending AI apocalypse](https://www.pcgamer.com/software/ai/musk-saying-game-on-to-ai-and-creating-a-baby-grok-for-kids-makes-me-miss-in-denial-elon-when-he-was-oracle-of-the-impending-ai-apocalypse/)
+ - [Better grips, OLED screen, and more memory: Our first actual look at the Lenovo Legion Go 2 is everything I wanted in the original](https://www.pcgamer.com/hardware/handheld-gaming-pcs/better-grips-oled-screen-and-more-memory-our-first-actual-look-at-the-lenovo-legion-go-2-is-everything-i-wanted-in-the-original/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
