@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Score a CUKTECH 10 Power Bank for a mere $21.99!](https://www.androidauthority.com/cuktech-10-power-bank-deal-4-3579909/)
- - [Rove’s R2-4K dash cam is an extra set of eyes on the road and $48 off at Amazon](https://www.theverge.com/tech/711754/rove-r2-4k-dash-cam-deal-sale)
- - [Windows 11&amp;#8217;s new update will add a bunch of AI features](https://www.theverge.com/news/711797/windows-11-microsoft-ai-features-copilot-vision-launch)<!-- TECH:END -->
+ - [Escobar Fold scam finally catches up with its creator, who now faces years in jail](https://www.androidauthority.com/escobar-fold-phone-scam-guilty-pleas-3579913/)
+ - [Texas Instruments reports Q2 revenue up 16% YoY to $4.45B, vs. $4.36B est., net income of $1.3B, and forecasts Q3 profit below est.; TXN drops 10%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250722/p35#a250722p35)
+ - [Composio, which provides tools to help companies build AI agents, raised a $25M Series A led by Lightspeed, taking its total funding to $29M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250722/p34#a250722p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
