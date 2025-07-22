@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MARVEL Tōkon: Fighting Souls debuts at Evo 2025](https://blog.playstation.com/2025/07/22/marvel-tokon-fighting-souls-debuts-at-evo-2025/)
- - [Everything announced at Pokémon Presents July 2025](https://www.polygon.com/news/614984/pokemon-presents-july-2025-news-announcements-all-recap)
- - [Everything We Saw At Today&#39;s Pokémon Presents Showcase](https://kotaku.com/pokemon-presents-legends-za-champions-friends-concierge-1851786682)<!-- GAME:END -->
+ - [OpenAI&#39;s skyrocketing spending could see billions of dollars in silicon headed down the AI mines in the next few years, including 2 million Nvidia chips headed to Texas Stargate facility](https://www.pcgamer.com/software/ai/openais-skyrocketing-spending-could-see-billions-of-dollars-in-silicon-headed-down-the-ai-mines-in-the-next-few-years-including-2-million-nvidia-chips-headed-to-texas-stargate-facility/)
+ - [Wait, The Free-To-Play Pokémon Puzzle Game Is Not Free On Switch?](https://kotaku.com/pokemon-friends-switch-price-free-microtransactions-1851786692)
+ - [A crypto wallet browser extension has been quietly wearing out some user SSDs at a rate of 5 MB/s: &#39;That&#39;s about 500 GB per day!&#39;](https://www.pcgamer.com/hardware/ssds/a-crypto-wallet-browser-extension-has-been-quietly-wearing-out-users-ssds-at-a-rate-of-5-mb-s-thats-about-500-gb-per-day/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
