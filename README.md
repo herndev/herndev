@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A roundup of VLSI conference 2025, including the use of digital twins for design exploration, DRAM beyond 1x nm nodes, Intel&#39;s 18A process vs. TSMC, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250722/p1#a250722p1)
- - [KitchenAid Promo Code: $140 Off in July 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Poll: Which leaked Pixel 10 colorway is speaking to you the most?](https://www.androidauthority.com/pixel-10-best-color-survey-3579538/)<!-- TECH:END -->
+ - [AT&amp;T Promo Code: Get a Gift Card Worth Up to $200](https://www.wired.com/story/att-promo-code/)
+ - [10% Off Canon Promo Code &amp; Coupons](https://www.wired.com/story/canon-promo-code/)
+ - [15% Off Dell Coupon Codes | July 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
