@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU is set to approve Apple&#39;s App Store rule and fee changes, unveiled last month, in the coming weeks, staving off a potentially hefty daily fine &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250722/p21#a250722p21)
- - [Apple&#39;s AI team grew fast but it probably won&#39;t shrink as quickly](https://appleinsider.com/articles/25/07/22/apples-ai-team-grew-fast-but-it-probably-wont-shrink-as-quickly?utm_source=rss)
- - [Leak strongly hints that a cheaper Nothing phone is on the way](https://www.androidauthority.com/nothing-lite-t-phone-rumor-3579773/)<!-- TECH:END -->
+ - [Microsoft’s new Intel-powered Surface Laptop 5G arrives in August](https://www.theverge.com/news/711278/microsoft-surface-laptop-5g-specs-release-date-pricing)
+ - [Pixel 10 Pro looks a lot like the base model in leaked renders](https://www.theverge.com/news/711580/google-pixel-10-pro-design-leak-colors-temperature-sensor)
+ - [App Store changes should avoid further EU fines](https://appleinsider.com/articles/25/07/22/app-store-changes-should-avoid-further-eu-fines?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
