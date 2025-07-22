@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon buys Bee AI wearable that listens to everything you say](https://www.theverge.com/news/711621/amazon-bee-ai-wearable-acquisition)
- - [Poseidon, an AI-focused decentralized data layer built on the Story protocol, raised a $15M seed led by a16z &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250722/p26#a250722p26)
- - [Apple releasing six new iPhones in 2027 shouldn&#39;t be a surprise](https://appleinsider.com/articles/25/07/22/apple-releasing-six-new-iphones-in-2027-shouldnt-be-a-surprise?utm_source=rss)<!-- TECH:END -->
+ - [Android 16 QPR1 Beta 3 delivers fix for persistent Galaxy Watch connection problems](https://www.androidauthority.com/galaxy-watch-connection-bug-fix-3579851/)
+ - [Apple brings its online retail store to Saudi Arabia](https://www.theverge.com/news/711672/apple-saudi-arabia-online-store-launch)
+ - [Source: OpenAI&#39;s $40B round announced in March is reopening on July 28; SoftBank&#39;s commitment could be cut to $10B if OpenAI does not restructure by end of 2025 &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250722/p27#a250722p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
