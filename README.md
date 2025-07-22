@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s new Intel-powered Surface Laptop 5G arrives in August](https://www.theverge.com/news/711278/microsoft-surface-laptop-5g-specs-release-date-pricing)
- - [Pixel 10 Pro looks a lot like the base model in leaked renders](https://www.theverge.com/news/711580/google-pixel-10-pro-design-leak-colors-temperature-sensor)
- - [App Store changes should avoid further EU fines](https://appleinsider.com/articles/25/07/22/app-store-changes-should-avoid-further-eu-fines?utm_source=rss)<!-- TECH:END -->
+ - [Amazon buys Bee AI wearable that listens to everything you say](https://www.theverge.com/news/711621/amazon-bee-ai-wearable-acquisition)
+ - [Poseidon, an AI-focused decentralized data layer built on the Story protocol, raised a $15M seed led by a16z &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250722/p26#a250722p26)
+ - [Apple releasing six new iPhones in 2027 shouldn&#39;t be a surprise](https://appleinsider.com/articles/25/07/22/apple-releasing-six-new-iphones-in-2027-shouldnt-be-a-surprise?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
