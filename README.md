@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI&#39;s skyrocketing spending could see billions of dollars in silicon headed down the AI mines in the next few years, including 2 million Nvidia chips headed to Texas Stargate facility](https://www.pcgamer.com/software/ai/openais-skyrocketing-spending-could-see-billions-of-dollars-in-silicon-headed-down-the-ai-mines-in-the-next-few-years-including-2-million-nvidia-chips-headed-to-texas-stargate-facility/)
- - [Wait, The Free-To-Play Pokémon Puzzle Game Is Not Free On Switch?](https://kotaku.com/pokemon-friends-switch-price-free-microtransactions-1851786692)
- - [A crypto wallet browser extension has been quietly wearing out some user SSDs at a rate of 5 MB/s: &#39;That&#39;s about 500 GB per day!&#39;](https://www.pcgamer.com/hardware/ssds/a-crypto-wallet-browser-extension-has-been-quietly-wearing-out-users-ssds-at-a-rate-of-5-mb-s-thats-about-500-gb-per-day/)<!-- GAME:END -->
+ - [Cyberpunk 2077&#39;s Photo Mode Is Wonderful Because It Focuses On What Matters: The Punks](https://kotaku.com/cyberpunk-2077-photo-mode-update-v-judy-johnny-1851786699)
+ - [Ubisoft CEO says Star Wars Outlaws tanked because people are bored of Star Wars: &#39;The brand it belonged to was in a bit of choppy waters&#39;](https://www.pcgamer.com/games/ubisoft-ceo-says-star-wars-outlaws-tanked-because-people-are-bored-of-star-wars-the-brand-it-belonged-to-was-in-a-bit-of-choppy-waters/)
+ - [Gaming mouse manufacturer may have hosted malware-compromised configuration software on its official site for at least two weeks](https://www.pcgamer.com/hardware/gaming-mice/gaming-mouse-manufacturer-may-have-hosted-malware-compromised-configuration-software-on-its-official-site-for-at-least-two-weeks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
