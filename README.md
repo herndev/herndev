@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stick into...](http://9gag.com/gag/aGy7m1n)
- - ⏩ [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
- - 👉 [I love japan](http://9gag.com/gag/aQzyWYz)<!-- MEMES:END -->
+ - 💣 [Another satisfied client](http://9gag.com/gag/a7onQMw)
+ - ⏩ [She is doing some good work.. it seems like that](http://9gag.com/gag/aBy4pqO)
+ - 👉 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)<!-- MEMES:END -->
 
 ---
 
