@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I use both YouTube Music and Spotify, and for good reason](https://www.androidauthority.com/why-i-use-both-youtube-music-and-spotify-3578918/)
- - [T-Mobile’s latest 5G network upgrades mean smoother video calls and online games](https://www.androidauthority.com/t-mobile-low-latency-5g-lag-free-video-calls-3579588/)
- - [How to Recycle Your Old Computers and Printers for Free](https://www.cnet.com/tech/computing/how-to-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google, Amazon, Cohere, and Mistral are intensifying efforts to reduce AI hallucinations via technical fixes, data quality improvements, and fact-checking &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250722/p5#a250722p5)
+ - [Seoul-based chip designer FuriosaAI signs a deal with LG to use its AI chip RNGD, its first major contract, after rejecting Meta&#39;s $800M buyout offer in March &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250722/p4#a250722p4)
+ - [Forget the Pixel 10 Pro. Here’s why the base Pixel 10 could be the best Pixel to buy this year](https://www.androidauthority.com/base-pixel-10-best-pixel-buy-this-year-why-3579280/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
