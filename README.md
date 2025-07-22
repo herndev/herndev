@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps just made controlling your music a navigation nightmare &lpar;Updated: Working on a fix&rpar;](https://www.androidauthority.com/google-maps-music-playback-controls-removed-3579202/)
- - [Multinational firms like McDonald&#39;s and UK insurer Bupa, struggling to hire AI talent at home, are turning to back offices in India to meet their core AI needs &lpar;Financial Times&rpar;](http://www.techmeme.com/250722/p2#a250722p2)
- - [Google Home is becoming a house of glitches, users say](https://www.androidauthority.com/google-home-speakers-hubs-issues-3579553/)<!-- TECH:END -->
+ - [Galaxy Watch Ultra users rejoice: Wear OS 6 rolls out ahead of schedule!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2024-wear-os-6-one-ui-8-watch-rollout-3579581/)
+ - [While AI hasn&#39;t yet led to new physics discoveries, the tech is proving powerful in the field, aiding in experiment design and spotting patterns in complex data &lpar;Anil Ananthaswamy/Quanta Magazine&rpar;](http://www.techmeme.com/250722/p3#a250722p3)
+ - [Nokia hasn’t made phones for years, but it isn’t finished milking its name yet](https://www.androidauthority.com/nokia-new-phone-licensing-partners-3579566/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
