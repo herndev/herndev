@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Knock it off!](https://www.theverge.com/cs/features/709635/knock-it-off)
- - [Nothing’s new CMF smartwatch drops swappable bezels for a bigger display](https://www.theverge.com/news/711301/nothing-cmf-watch-3-pro-smartwatch-price-availability)
- - [Hellraiser is being turned into a survival horror game](https://www.theverge.com/news/710637/clive-barker-hellraiser-revival-game-trailer-ps5-xbox)<!-- TECH:END -->
+ - [Fairphone software devs hit back against GrapheneOS security claims](https://www.androidauthority.com/fairphone-murena-software-response-grapheneos-claims-3579637/)
+ - [This Is the Best Sleeping Bag](https://www.wired.com/story/rumpl-wrap-sack-perfect-sleeping-bag/)
+ - [Elgato’s new capture card lowers the price for 4K 60fps gameplay recording](https://www.theverge.com/news/710547/elgato-game-capture-4k-price-release-date-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
