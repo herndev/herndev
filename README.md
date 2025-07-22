@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch Ultra users rejoice: Wear OS 6 rolls out ahead of schedule!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2024-wear-os-6-one-ui-8-watch-rollout-3579581/)
- - [While AI hasn&#39;t yet led to new physics discoveries, the tech is proving powerful in the field, aiding in experiment design and spotting patterns in complex data &lpar;Anil Ananthaswamy/Quanta Magazine&rpar;](http://www.techmeme.com/250722/p3#a250722p3)
- - [Nokia hasn’t made phones for years, but it isn’t finished milking its name yet](https://www.androidauthority.com/nokia-new-phone-licensing-partners-3579566/)<!-- TECH:END -->
+ - [I use both YouTube Music and Spotify, and for good reason](https://www.androidauthority.com/why-i-use-both-youtube-music-and-spotify-3578918/)
+ - [T-Mobile’s latest 5G network upgrades mean smoother video calls and online games](https://www.androidauthority.com/t-mobile-low-latency-5g-lag-free-video-calls-3579588/)
+ - [How to Recycle Your Old Computers and Printers for Free](https://www.cnet.com/tech/computing/how-to-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
