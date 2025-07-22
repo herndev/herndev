@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
- - ⏩ [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
- - 👉 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
+ - 💣 [Ozzy Passed Away](http://9gag.com/gag/ayNvgzM)
+ - ⏩ [The Prince has left his throne](http://9gag.com/gag/abARPmp)
+ - 👉 [It&#39;s that simple, guys](http://9gag.com/gag/abARPvB)<!-- MEMES:END -->
 
 ---
 
