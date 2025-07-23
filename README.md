@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Trump admin is pressuring South Korea, Brazil, the EU, and others to drop plans for new taxes on US tech firms as a part of broader trade talks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250722/p44#a250722p44)
  - [Chargeasap Flash Pro Ultra: the ultimate portable power bank gets even better](https://appleinsider.com/articles/25/07/23/chargeasap-flash-pro-ultra-the-ultimate-portable-power-bank-gets-even-better?utm_source=rss)
- - [PitchBook: in H1, AI startups raised $104.3B in the US, or about 66% of all US VC funding, up from 49% last year; there were 281 VC-backed exits totaling $36B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250722/p43#a250722p43)
- - [Source: the US National Nuclear Security Administration was among those breached by a hack of SharePoint; no sensitive information is known to be compromised &lpar;Ari Natter/Bloomberg&rpar;](http://www.techmeme.com/250722/p42#a250722p42)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, July 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
