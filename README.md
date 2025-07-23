@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Outer Worlds 2 will no longer cost $80 as Microsoft backs off plans to follow Nintendo&#39;s pricing lead](https://www.pcgamer.com/games/rpg/the-outer-worlds-2-will-no-longer-cost-usd80-as-microsoft-backs-away-from-plans-to-follow-nintendos-lead/)
- - [Our Flag Means Death creator finds his next wacky show in DC Universe](https://www.polygon.com/entertainment/615480/dcu-booster-gold-tv-show-hbo-max)
- - [Deltarune is the Switch 2’s sleeper hit](https://www.polygon.com/news/615471/deltarune-sales-switch-2-development-toby-fox-eshop)<!-- GAME:END -->
+ - [Magic: The Gathering&#39;s Final Fantasy Set Earned $200 Million In A Single Day](https://kotaku.com/final-fantasy-mtg-magic-gathering-vivi-stock-1851786817)
+ - [The UK government gets into bed with OpenAI as heroic professor decries &#39;policymakers and idiots around the world getting sucked into this hype-fest… terrible, terrible companies, just crazy&#39;](https://www.pcgamer.com/software/ai/the-uk-government-gets-into-bed-with-openai-as-heroic-professor-decries-policymakers-and-idiots-around-the-world-getting-sucked-into-this-hype-fest-terrible-terrible-companies-just-crazy/)
+ - [Game Studio Spends Millions Of Dollars To Buy A Popular Fortnite Map](https://kotaku.com/gaijin-war-thunder-fortnite-the-pit-deal-millions-epic-1851786813)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
