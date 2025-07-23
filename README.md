@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s AI Action Plan Is a Crusade Against ‘Bias’—and Regulation](https://www.wired.com/story/trumps-ai-action-plan-crusade-against-bias-regulation/)
- - [VSCO made a new way to shoot photos on your iPhone](https://www.theverge.com/news/712377/vsco-capture-iphone-app-launch)
- - [AppleCare+ vs AppleCare One: Warranty services compared](https://appleinsider.com/inside/applecare/vs/applecare-vs-applecare-one-warranty-services-compared?utm_source=rss)<!-- TECH:END -->
+ - [Proton’s ChatGPT rival is prioritizing privacy with encrypted chats and zero logs](https://www.androidauthority.com/proton-chatgpt-competitor-encryped-chats-3580157/)
+ - [The Pixel 10 Pro Fold might make blue the new black](https://www.theverge.com/news/712438/google-pixel-10-pro-fold-colors-rumor)
+ - [The Galaxy Z Flip 7 finally gets UWB for precise tracking, but only if you buy this version](https://www.androidauthority.com/galaxy-z-flip-7-uwb-3580249/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
