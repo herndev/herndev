@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
- - ⏩ [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
- - 👉 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)<!-- MEMES:END -->
+ - 💣 [Catch the ball](http://9gag.com/gag/a1mO4LR)
+ - ⏩ [My talents are wasted here, nobody got it](http://9gag.com/gag/aXPR5zV)
+ - 👉 [A Gift from Terry](http://9gag.com/gag/aqyDvxP)<!-- MEMES:END -->
 
 ---
 
