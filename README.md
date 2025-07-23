@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Kill Simon Dead In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-simon-boss-phase-party-1851786786)
- - [Super Mario Party Jamboree TV Sounds Like A Half-Baked Switch 2 Upgrade](https://kotaku.com/mario-party-jamboree-tv-switch-2-reviews-boards-modes-1851786773)
- - [Gran Turismo 7 Update 1.61 available today](https://blog.playstation.com/2025/07/23/gran-turismo-7-update-1-61-available-today/)<!-- GAME:END -->
+ - [Top Tips to Land in the Winner’s Circle in Wheel World](https://news.xbox.com/en-us/2025/07/23/top-tips-to-win-in-wheel-world/)
+ - [Sony is fighting climate change by scaling back PS5 performance](https://www.polygon.com/playstation/615362/ps5-power-saver-option-climate-change-lower-performance)
+ - [Obsidian just cut the controversial price of The Outer Worlds 2](https://www.polygon.com/news/615369/outer-worlds-2-price-cut-obsidian-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
