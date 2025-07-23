@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s new AppleCare One subscription covers multiple devices at once](https://www.theverge.com/news/711972/apple-applecare-one-subscription-multiple-devices)
- - [Meta introduces new safety features for teens, including enhanced DM protections, and removed 600K+ Instagram and Facebook accounts linked to predatory behavior &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250723/p14#a250723p14)
- - [Finally! The Galaxy S26 Ultra could get a long-overdue charging speed upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-faster-than-45w-charging-leak-3580120/)<!-- TECH:END -->
+ - [Lightning iPhones get real USB-C support with custom case](https://appleinsider.com/articles/25/07/23/lightning-iphones-get-real-usb-c-support-with-custom-case?utm_source=rss)
+ - [In defense of fake smartwatches](https://www.androidauthority.com/fake-smartwatches-3579782/)
+ - [Uber plans to launch a pilot ride type to match female riders and drivers in LA, San Francisco, and Detroit over the next few weeks, called &quot;Women Drivers&quot; &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250723/p20#a250723p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
