@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - ⏩ [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)
- - 👉 [This guy explains how Roman soldiers would carry their items.](http://9gag.com/gag/awye698)<!-- MEMES:END -->
+ - 💣 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
+ - ⏩ [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
+ - 👉 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)<!-- MEMES:END -->
 
 ---
 
