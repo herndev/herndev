@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This should be a paid service. I have a list of words I&#39;d like them to spell](http://9gag.com/gag/a5Q5LrN)
- - ⏩ [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
- - 👉 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)<!-- MEMES:END -->
+ - 💣 [Seems Topical Today](http://9gag.com/gag/ae9RoZB)
+ - ⏩ [Your salary](http://9gag.com/gag/aNDj6xG)
+ - 👉 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)<!-- MEMES:END -->
 
 ---
 
