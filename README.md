@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xelix, which uses AI to automate businesses&#39; accounts payable workflows by connecting with ERP systems, raised a $160M Series B led by Insight Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250723/p3#a250723p3)
- - [Google Photos could soon get a surprising third-party integration &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-capcut-button-apk-teardown-3580017/)
- - [In an interview at the Federal Reserve, Sam Altman warns of an impending &quot;fraud crisis&quot; because of how AI could enable bad actors to impersonate other people &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250723/p2#a250723p2)<!-- TECH:END -->
+ - [OpenAI details how its tools have boosted US worker productivity and says its chief economist is leading a 12-month study to assess AI&#39;s impact on productivity &lpar;OpenAI&rpar;](http://www.techmeme.com/250723/p7#a250723p7)
+ - [AWS shuts down its Shanghai AI research lab, following similar moves by other US tech groups, including Microsoft and IBM, to scale back China-based R&amp;D efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p6#a250723p6)
+ - [PayPal announces PayPal World, an upcoming platform designed to simplify cross-border payments via Venmo, India&#39;s UPI, Tencent&#39;s Tenpay, and Mercado Pago &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250723/p5#a250723p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
