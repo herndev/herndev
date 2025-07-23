@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 Leak Claims It Will Launch In October With No Early Access](https://kotaku.com/bf6-battlefield-6-leak-october-launch-early-access-beta-1851786824)
- - [Sony finally acknowledges the minor, but annoying part of using a PS5 controller on PC with an update that will make my life easier](https://www.pcgamer.com/hardware/controllers/sony-finally-acknowledges-the-minor-but-annoying-part-of-using-a-ps5-controller-on-pc-with-an-update-that-will-make-my-life-easier/)
- - [Could the next Among Us be this co-op game about an Irish urban legend?](https://www.polygon.com/gaming/615536/eyes-hellfire-horror-beta-date-preview-blumhouse)<!-- GAME:END -->
+ - [Every MCU movie, ranked](https://www.polygon.com/23519049/best-marvel-movies-mcu-ranked-worst)
+ - [Donkey Kong Bananza skills list and how to unlock them](https://www.polygon.com/donkey-kong-bananza-guides-dk/612406/skills-list-all-points-how-to-unlock)
+ - [Hades 2 has earned as many &amp;#8216;final&amp;#8217; patches as it needs](https://www.polygon.com/gaming/615575/hades-2-patch-11-final-update-version-1-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
