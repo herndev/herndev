@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: McKinsey has stopped its China business from undertaking consultancy work related to generative AI, a move prompted by Washington&#39;s growing scrutiny &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p1#a250723p1)
- - [Nest Aware is getting pricier, but users says the service isn’t keeping up](https://www.androidauthority.com/nest-aware-service-quality-issues-3579987/)
- - [BetterComp, which provides compensation management services for HR teams, raised a $33M Series A led by Ten Coves Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250722/p46#a250722p46)<!-- TECH:END -->
+ - [Xelix, which uses AI to automate businesses&#39; accounts payable workflows by connecting with ERP systems, raised a $160M Series B led by Insight Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250723/p3#a250723p3)
+ - [Google Photos could soon get a surprising third-party integration &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-capcut-button-apk-teardown-3580017/)
+ - [In an interview at the Federal Reserve, Sam Altman warns of an impending &quot;fraud crisis&quot; because of how AI could enable bad actors to impersonate other people &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250723/p2#a250723p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
