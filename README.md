@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not this time mf](http://9gag.com/gag/aBy4qqx)
- - ⏩ [What is the reason for this?](http://9gag.com/gag/aPArKoV)
- - 👉 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)<!-- MEMES:END -->
+ - 💣 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - ⏩ [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)
+ - 👉 [This guy explains how Roman soldiers would carry their items.](http://9gag.com/gag/awye698)<!-- MEMES:END -->
 
 ---
 
