@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine arrests the suspected administrator of Russian-speaking hacking forum XSS.is at the Paris public prosecutor&#39;s request, with help from France and Europol &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250723/p21#a250723p21)
- - [Samsung and Google should learn a thing or two from Apple’s new all-in-one device protection plan](https://www.androidauthority.com/apple-new-applecare-one-plan-3580158/)
- - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)<!-- TECH:END -->
+ - [Trump’s AI Action Plan Is a Crusade Against ‘Bias’—and Regulation](https://www.wired.com/story/trumps-ai-action-plan-crusade-against-bias-regulation/)
+ - [VSCO made a new way to shoot photos on your iPhone](https://www.theverge.com/news/712377/vsco-capture-iphone-app-launch)
+ - [AppleCare+ vs AppleCare One: Warranty services compared](https://appleinsider.com/inside/applecare/vs/applecare-vs-applecare-one-warranty-services-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
