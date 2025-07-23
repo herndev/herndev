@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI CEO Sam Altman thinks some jobs will be &#39;totally, totally gone&#39; thanks to AI, but he still wouldn&#39;t trust ChatGPT with his &#39;medical fate&#39;](https://www.pcgamer.com/software/ai/openai-ceo-sam-altman-thinks-some-jobs-will-be-totally-totally-gone-thanks-to-ai-but-he-still-wouldnt-trust-chatgpt-with-his-medical-fate/)
- - [R.I.P. Julian LeFay, The Father Of The Elder Scrolls](https://kotaku.com/julian-lefay-the-elder-scrolls-daggerfall-bethesda-1851786769)
- - [ESO devs at ZeniMax reel from Microsoft&#39;s &#39;hollow&#39; layoff emails, with some wondering how a &#39;carcass of workers&#39; is &#39;supposed to keep shipping award-winning games&#39;](https://www.pcgamer.com/gaming-industry/eso-devs-at-zenimax-reel-from-microsofts-hollow-layoff-emails-with-some-wondering-how-a-carcass-of-workers-is-supposed-to-keep-shipping-award-winning-games/)<!-- GAME:END -->
+ - [Gran Turismo 7 Update 1.61 available today](https://blog.playstation.com/2025/07/23/gran-turismo-7-update-1-61-available-today/)
+ - [Square Enix&#39;s new murder party game is like Among Us in a mansion, with a hefty helping of team deathmatch](https://www.pcgamer.com/games/action/square-enixs-new-murder-party-game-is-like-among-us-in-a-mansion-with-a-hefty-helping-of-team-deathmatch/)
+ - [Monster Hunter Wilds Flamefete event brings back five months-worth of time-gated event quest cosmetics for the next two weeks—including my favorite cursed giant cat head](https://www.pcgamer.com/games/action/monster-hunter-wilds-flamefete-event-quest-rewards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
