@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink-powered &amp;#8216;T-Satellite&amp;#8217; service is now live on T-Mobile](https://www.theverge.com/news/712546/starlink-powered-t-satellite-service-is-now-live-on-t-mobile)
- - [Google just leaked its entire Pixel 10 series through the Play Store](https://www.androidauthority.com/pixel-10-series-leak-3580303/)
- - [Trump is bringing back the AI law moratorium](https://www.theverge.com/ai-artificial-intelligence/712537/trump-ai-action-plan-white-house-ai-law-moratorium)<!-- TECH:END -->
+ - [How Trump&amp;#8217;s war on clean energy is making AI a bigger polluter](https://www.theverge.com/climate-change/712038/ai-energy-trump-epa-gas-coal-emissions)
+ - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)
+ - [Samsung plans to make Now Bar more useful by nearly doubling app support](https://www.androidauthority.com/samsung-now-bar-double-apps-3580334/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
