@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad maneuver](http://9gag.com/gag/a1mO4e6)
- - ⏩ [Absolute Cinema](http://9gag.com/gag/abAR7NE)
- - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
+ - 💣 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
+ - ⏩ [Virtual girlfriends getting more realistic](http://9gag.com/gag/a6ZGPvL)
+ - 👉 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)<!-- MEMES:END -->
 
 ---
 
