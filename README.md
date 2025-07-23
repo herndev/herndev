@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos’ faces row could make searching even easier &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-persistent-faces-row-apk-teardown-3580038/)
- - [The Great Crypto Re-Banking Has Begun](https://www.wired.com/story/the-great-crypto-re-banking-has-begun/)
- - [The VITURE Luma Pro are the best XR glasses you can get for under $500](https://www.androidauthority.com/viture-luma-pro-review-3579648/)<!-- TECH:END -->
+ - [Apple’s new AppleCare One subscription covers multiple devices at once](https://www.theverge.com/news/711972/apple-applecare-one-subscription-multiple-devices)
+ - [Meta introduces new safety features for teens, including enhanced DM protections, and removed 600K+ Instagram and Facebook accounts linked to predatory behavior &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250723/p14#a250723p14)
+ - [Finally! The Galaxy S26 Ultra could get a long-overdue charging speed upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-faster-than-45w-charging-leak-3580120/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
