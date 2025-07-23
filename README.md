@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Razer raised my hopes with this Kanto starter based Pokemon collection then released some of the ugliest peripherals I&#39;ve ever seen](https://www.pcgamer.com/hardware/razer-raised-my-hopes-with-this-kanto-starter-based-pokemon-collection-then-released-some-of-the-ugliest-peripherals-ive-ever-seen/)
  - [Razer&#39;s latest Cobra HyperSpeed mouse is also the cheapest one yet to work with the HyperFlux mouse powering mat](https://www.pcgamer.com/hardware/razers-latest-cobra-hyperspeed-mouse-is-also-the-cheapest-one-yet-to-work-with-the-hyperflux-mouse-powering-mat/)
- - [Today&#39;s Wordle answer for Wednesday, July 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-23-2025/)
- - [Wuchang: Fallen Feathers makes me feel as powerful as its bosses](https://www.polygon.com/review/615210/wuchang-fallen-feathers-soulslike)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, July 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-23-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
