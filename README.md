@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google leaks its full Pixel 10 lineup](https://www.theverge.com/news/712693/google-leaks-entire-pixel-10-lineup-play-store)
- - [Grab Apple&#39;s M4 MacBook Air for $849 with back-to-school savings](https://appleinsider.com/articles/25/07/23/grab-apples-m4-macbook-air-for-849-with-back-to-school-savings?utm_source=rss)
- - [Wireless Android charging is getting a big upgrade with Qi2 25W](https://www.androidauthority.com/qi2-25w-3580361/)<!-- TECH:END -->
+ - [Google adds new features to Google Photos, including a Veo 2-powered photo-to-video tool and a Remix tool that applies styles like anime and sketches to photos &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250723/p37#a250723p37)
+ - [Frustrated with Google Home? Google thanks you for your patience](https://www.androidauthority.com/google-home-confirms-issues-3580380/)
+ - [Google adds new button to Discover that will save you some scrolling](https://www.androidauthority.com/google-discover-feed-jump-to-top-3580404/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
