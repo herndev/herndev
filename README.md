@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI details how its tools have boosted US worker productivity and says its chief economist is leading a 12-month study to assess AI&#39;s impact on productivity &lpar;OpenAI&rpar;](http://www.techmeme.com/250723/p7#a250723p7)
- - [AWS shuts down its Shanghai AI research lab, following similar moves by other US tech groups, including Microsoft and IBM, to scale back China-based R&amp;D efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p6#a250723p6)
- - [PayPal announces PayPal World, an upcoming platform designed to simplify cross-border payments via Venmo, India&#39;s UPI, Tencent&#39;s Tenpay, and Mercado Pago &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250723/p5#a250723p5)<!-- TECH:END -->
+ - [Forgot to pay that bill? Samsung Now Brief now comes to your rescue.](https://www.androidauthority.com/samsung-now-brief-custom-cards-reminders-3580034/)
+ - [Here’s why that embattled retro gaming YouTuber might not be so innocent &lpar;Updated&rpar;](https://www.androidauthority.com/once-were-nerd-youtuber-not-innocent-3579610/)
+ - [OpenAI details how its tools have boosted US worker productivity and says its chief economist is leading a 12-month study to assess AI&#39;s impact on productivity &lpar;OpenAI&rpar;](http://www.techmeme.com/250723/p7#a250723p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
