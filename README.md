@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering&#39;s Final Fantasy Set Earned $200 Million In A Single Day](https://kotaku.com/final-fantasy-mtg-magic-gathering-vivi-stock-1851786817)
- - [The UK government gets into bed with OpenAI as heroic professor decries &#39;policymakers and idiots around the world getting sucked into this hype-fest… terrible, terrible companies, just crazy&#39;](https://www.pcgamer.com/software/ai/the-uk-government-gets-into-bed-with-openai-as-heroic-professor-decries-policymakers-and-idiots-around-the-world-getting-sucked-into-this-hype-fest-terrible-terrible-companies-just-crazy/)
- - [Game Studio Spends Millions Of Dollars To Buy A Popular Fortnite Map](https://kotaku.com/gaijin-war-thunder-fortnite-the-pit-deal-millions-epic-1851786813)<!-- GAME:END -->
+ - [Battlefield 6 Leak Claims It Will Launch In October With No Early Access](https://kotaku.com/bf6-battlefield-6-leak-october-launch-early-access-beta-1851786824)
+ - [Sony finally acknowledges the minor, but annoying part of using a PS5 controller on PC with an update that will make my life easier](https://www.pcgamer.com/hardware/controllers/sony-finally-acknowledges-the-minor-but-annoying-part-of-using-a-ps5-controller-on-pc-with-an-update-that-will-make-my-life-easier/)
+ - [Could the next Among Us be this co-op game about an Irish urban legend?](https://www.polygon.com/gaming/615536/eyes-hellfire-horror-beta-date-preview-blumhouse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
