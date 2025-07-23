@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Top Tips to Land in the Winner’s Circle in Wheel World](https://news.xbox.com/en-us/2025/07/23/top-tips-to-win-in-wheel-world/)
- - [Sony is fighting climate change by scaling back PS5 performance](https://www.polygon.com/playstation/615362/ps5-power-saver-option-climate-change-lower-performance)
- - [Obsidian just cut the controversial price of The Outer Worlds 2](https://www.polygon.com/news/615369/outer-worlds-2-price-cut-obsidian-xbox)<!-- GAME:END -->
+ - [Survive Shu: Your Essential Guide to Starting Wuchang: Fallen Feathers](https://news.xbox.com/en-us/2025/07/23/essential-guide-to-starting-wuchang-fallen-feathers/)
+ - [&#39;The father of Elder Scrolls&#39; Julian LeFay has died: &#39;His legacy will live on in every realm, every quest, and every moment of wonder&#39;](https://www.pcgamer.com/gaming-industry/the-father-of-elder-scrolls-julian-lefay-has-died-his-legacy-will-live-on-in-every-realm-every-quest-and-every-moment-of-wonder/)
+ - [How to survive as an indie developer for 20 years](https://www.pcgamer.com/gaming-industry/game-development/how-to-survive-as-an-indie-developer-for-20-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
