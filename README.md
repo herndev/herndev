@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We have a new Android Authority YouTube channel hosted by C. Scott Brown!](https://www.androidauthority.com/c-scott-brown-youtube-channel-3579849/)
- - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
- - [This USB-C iPhone case will let you finally ditch Lightning without buying a new phone](https://www.androidauthority.com/iphone-usb-c-case-3580196/)<!-- TECH:END -->
+ - [Starlink-powered &amp;#8216;T-Satellite&amp;#8217; service is now live on T-Mobile](https://www.theverge.com/news/712546/starlink-powered-t-satellite-service-is-now-live-on-t-mobile)
+ - [Google just leaked its entire Pixel 10 series through the Play Store](https://www.androidauthority.com/pixel-10-series-leak-3580303/)
+ - [Trump is bringing back the AI law moratorium](https://www.theverge.com/ai-artificial-intelligence/712537/trump-ai-action-plan-white-house-ai-law-moratorium)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
