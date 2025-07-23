@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lightning iPhones get real USB-C support with custom case](https://appleinsider.com/articles/25/07/23/lightning-iphones-get-real-usb-c-support-with-custom-case?utm_source=rss)
- - [In defense of fake smartwatches](https://www.androidauthority.com/fake-smartwatches-3579782/)
- - [Uber plans to launch a pilot ride type to match female riders and drivers in LA, San Francisco, and Detroit over the next few weeks, called &quot;Women Drivers&quot; &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250723/p20#a250723p20)<!-- TECH:END -->
+ - [Ukraine arrests the suspected administrator of Russian-speaking hacking forum XSS.is at the Paris public prosecutor&#39;s request, with help from France and Europol &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250723/p21#a250723p21)
+ - [Samsung and Google should learn a thing or two from Apple’s new all-in-one device protection plan](https://www.androidauthority.com/apple-new-applecare-one-plan-3580158/)
+ - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
