@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Prince has left his throne](http://9gag.com/gag/abARPmp)
- - ⏩ [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 👉 [Catch the ball](http://9gag.com/gag/a1mO4LR)<!-- MEMES:END -->
+ - 💣 [You&#39;re never safe.](http://9gag.com/gag/aBy4qGQ)
+ - ⏩ [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
+ - 👉 [Your daily doses of:](http://9gag.com/gag/aGy7P56)<!-- MEMES:END -->
 
 ---
 
