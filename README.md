@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7 Update 1.61 available today](https://blog.playstation.com/2025/07/23/gran-turismo-7-update-1-61-available-today/)
- - [Square Enix&#39;s new murder party game is like Among Us in a mansion, with a hefty helping of team deathmatch](https://www.pcgamer.com/games/action/square-enixs-new-murder-party-game-is-like-among-us-in-a-mansion-with-a-hefty-helping-of-team-deathmatch/)
- - [Monster Hunter Wilds Flamefete event brings back five months-worth of time-gated event quest cosmetics for the next two weeks—including my favorite cursed giant cat head](https://www.pcgamer.com/games/action/monster-hunter-wilds-flamefete-event-quest-rewards/)<!-- GAME:END -->
+ - [How To Kill Simon Dead In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-simon-boss-phase-party-1851786786)
+ - [Super Mario Party Jamboree TV Sounds Like A Half-Baked Switch 2 Upgrade](https://kotaku.com/mario-party-jamboree-tv-switch-2-reviews-boards-modes-1851786773)
+ - [Gran Turismo 7 Update 1.61 available today](https://blog.playstation.com/2025/07/23/gran-turismo-7-update-1-61-available-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
