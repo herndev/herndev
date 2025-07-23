@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forgot to pay that bill? Samsung Now Brief now comes to your rescue.](https://www.androidauthority.com/samsung-now-brief-custom-cards-reminders-3580034/)
- - [Here’s why that embattled retro gaming YouTuber might not be so innocent &lpar;Updated&rpar;](https://www.androidauthority.com/once-were-nerd-youtuber-not-innocent-3579610/)
- - [OpenAI details how its tools have boosted US worker productivity and says its chief economist is leading a 12-month study to assess AI&#39;s impact on productivity &lpar;OpenAI&rpar;](http://www.techmeme.com/250723/p7#a250723p7)<!-- TECH:END -->
+ - [I dropped Gemini for Bixby for a week, and I’m so glad that I did](https://www.androidauthority.com/gemini-vs-bixby-3578489/)
+ - [South Korea Plans to Build a Base on the Moon](https://www.wired.com/story/south-korea-wants-to-build-a-space-base-on-the-moon-within-20-years/)
+ - [PeakDo makes the ultra-portable Starlink Mini ultra-convenient](https://www.theverge.com/reviews/712043/peakdo-linkpower-review-battery-powered-starlink-mini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
