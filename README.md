@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proton is launching a privacy-focused AI chatbot](https://www.theverge.com/news/711860/proton-privacy-focused-ai-chatbot)
- - [Alibaba releases its new Qwen3-235B-A22B-Instruct-2507 model on Hugging Face, improving on Qwen 3&#39;s reasoning, accuracy, and multilingual understanding &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250723/p10#a250723p10)
- - [Dell says COO Jeff Clarke will now oversee its Client Solutions Group, which includes desktop and notebook PCs; Dell&#39;s consumer PC revenue fell 19% in Q1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250723/p9#a250723p9)<!-- TECH:END -->
+ - [Google Photos’ faces row could make searching even easier &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-persistent-faces-row-apk-teardown-3580038/)
+ - [The Great Crypto Re-Banking Has Begun](https://www.wired.com/story/the-great-crypto-re-banking-has-begun/)
+ - [The VITURE Luma Pro are the best XR glasses you can get for under $500](https://www.androidauthority.com/viture-luma-pro-review-3579648/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
