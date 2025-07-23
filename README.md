@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can you?](http://9gag.com/gag/aRBR5Pj)
- - ⏩ [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
- - 👉 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)<!-- MEMES:END -->
+ - 💣 [Bad maneuver](http://9gag.com/gag/a1mO4e6)
+ - ⏩ [Absolute Cinema](http://9gag.com/gag/abAR7NE)
+ - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
 
 ---
 
