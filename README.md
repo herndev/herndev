@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seems Topical Today](http://9gag.com/gag/ae9RoZB)
- - ⏩ [Your salary](http://9gag.com/gag/aNDj6xG)
- - 👉 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)<!-- MEMES:END -->
+ - 💣 [Focking weebs](http://9gag.com/gag/ary86A5)
+ - ⏩ [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
+ - 👉 [Denzel](http://9gag.com/gag/a4PwD9A)<!-- MEMES:END -->
 
 ---
 
