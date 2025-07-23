@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What if I&#39;m not the smartest peanut in the turd?](http://9gag.com/gag/aZZRAw9)
+ - 💣 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
  - ⏩ [Ozzy knows best](http://9gag.com/gag/aAyvnep)
- - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
+ - 👉 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)<!-- MEMES:END -->
 
 ---
 
