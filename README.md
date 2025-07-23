@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, July 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-23-2025/)
  - [Wuchang: Fallen Feathers makes me feel as powerful as its bosses](https://www.polygon.com/review/615210/wuchang-fallen-feathers-soulslike)
- - [Wuchang: Fallen Feathers review](https://www.pcgamer.com/games/rpg/wuchang-fallen-feathers-review/)
- - [Guy with 35,000 hours in Ark: Survival Evolved gives it a negative Steam review: &#39;How do I get a refund!!&#39;](https://www.pcgamer.com/games/survival-crafting/guy-with-35-000-hours-in-ark-survival-evolved-gives-it-a-negative-steam-review-how-do-i-get-a-refund/)<!-- GAME:END -->
+ - [Wuchang: Fallen Feathers review](https://www.pcgamer.com/games/rpg/wuchang-fallen-feathers-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
