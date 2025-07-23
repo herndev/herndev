@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re never safe.](http://9gag.com/gag/aBy4qGQ)
- - ⏩ [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
- - 👉 [Your daily doses of:](http://9gag.com/gag/aGy7P56)<!-- MEMES:END -->
+ - 💣 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
+ - ⏩ [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
+ - 👉 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)<!-- MEMES:END -->
 
 ---
 
