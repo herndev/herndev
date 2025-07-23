@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - ⏩ [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 👉 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)<!-- MEMES:END -->
+ - 💣 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
+ - ⏩ [Focking weebs](http://9gag.com/gag/ary86A5)
+ - 👉 [He must have been wearing height reducing shoes, you never know](http://9gag.com/gag/aD2QEGK)<!-- MEMES:END -->
 
 ---
 
