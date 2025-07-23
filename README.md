@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - ⏩ [Focking weebs](http://9gag.com/gag/ary86A5)
- - 👉 [He must have been wearing height reducing shoes, you never know](http://9gag.com/gag/aD2QEGK)<!-- MEMES:END -->
+ - 💣 [The Prince has left his throne](http://9gag.com/gag/abARPmp)
+ - ⏩ [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 👉 [Catch the ball](http://9gag.com/gag/a1mO4LR)<!-- MEMES:END -->
 
 ---
 
