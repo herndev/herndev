@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proton’s ChatGPT rival is prioritizing privacy with encrypted chats and zero logs](https://www.androidauthority.com/proton-chatgpt-competitor-encryped-chats-3580157/)
- - [The Pixel 10 Pro Fold might make blue the new black](https://www.theverge.com/news/712438/google-pixel-10-pro-fold-colors-rumor)
- - [The Galaxy Z Flip 7 finally gets UWB for precise tracking, but only if you buy this version](https://www.androidauthority.com/galaxy-z-flip-7-uwb-3580249/)<!-- TECH:END -->
+ - [We have a new Android Authority YouTube channel hosted by C. Scott Brown!](https://www.androidauthority.com/c-scott-brown-youtube-channel-3579849/)
+ - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
+ - [This USB-C iPhone case will let you finally ditch Lightning without buying a new phone](https://www.androidauthority.com/iphone-usb-c-case-3580196/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
