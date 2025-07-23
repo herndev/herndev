@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every MCU movie, ranked](https://www.polygon.com/23519049/best-marvel-movies-mcu-ranked-worst)
- - [Donkey Kong Bananza skills list and how to unlock them](https://www.polygon.com/donkey-kong-bananza-guides-dk/612406/skills-list-all-points-how-to-unlock)
- - [Hades 2 has earned as many &amp;#8216;final&amp;#8217; patches as it needs](https://www.polygon.com/gaming/615575/hades-2-patch-11-final-update-version-1-launch)<!-- GAME:END -->
+ - [Supergiant swears Hades 2&#39;s new update is the last one before it leaves early access and releases in full](https://www.pcgamer.com/games/action/supergiant-swears-hades-2s-new-update-is-the-last-one-before-it-leaves-early-access-and-releases-in-full/)
+ - [Call of Duty is firmly in its slop era, and now it&#39;s Battlefield 6&#39;s game to lose](https://www.pcgamer.com/games/call-of-duty/call-of-duty-is-firmly-in-its-slop-era-and-now-its-battlefield-6s-game-to-lose/)
+ - [Racing Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/611878/racing-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
