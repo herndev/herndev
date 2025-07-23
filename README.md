@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Virtual girlfriends getting more realistic](http://9gag.com/gag/a6ZGPvL)
- - ⏩ [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)
- - 👉 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)<!-- MEMES:END -->
+ - 💣 [Not this time mf](http://9gag.com/gag/aBy4qqx)
+ - ⏩ [What is the reason for this?](http://9gag.com/gag/aPArKoV)
+ - 👉 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)<!-- MEMES:END -->
 
 ---
 
