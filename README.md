@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
- - ⏩ [Your salary](http://9gag.com/gag/aNDj6xG)
- - 👉 [Ozzy Passed Away](http://9gag.com/gag/ayNvgzM)<!-- MEMES:END -->
+ - 💣 [Can you?](http://9gag.com/gag/aRBR5Pj)
+ - ⏩ [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
+ - 👉 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)<!-- MEMES:END -->
 
 ---
 
