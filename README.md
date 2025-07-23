@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Odyssey does one thing better than Donkey Kong Bananza](https://www.polygon.com/analysis/615288/super-mario-odyssey-donkey-kong-bananza-comparison)
- - [23 years after launch, Final Fantasy 11 is suspending character creation on its most popular server as it buckles beneath the weight of player congestion](https://www.pcgamer.com/games/mmo/23-years-after-launch-final-fantasy-11-is-suspending-character-creation-on-its-most-popular-server-as-it-buckles-beneath-the-weight-of-player-congestion/)
- - [Trump&#39;s AI action plan claims to chart &#39;a decisive course to cement US dominance in artificial intelligence&#39;](https://www.pcgamer.com/software/ai/trumps-ai-action-plan-claims-to-chart-a-decisive-course-to-cement-us-dominance-in-artificial-intelligence/)<!-- GAME:END -->
+ - [The Outer Worlds 2 will no longer cost $80 as Microsoft backs off plans to follow Nintendo&#39;s pricing lead](https://www.pcgamer.com/games/rpg/the-outer-worlds-2-will-no-longer-cost-usd80-as-microsoft-backs-away-from-plans-to-follow-nintendos-lead/)
+ - [Our Flag Means Death creator finds his next wacky show in DC Universe](https://www.polygon.com/entertainment/615480/dcu-booster-gold-tv-show-hbo-max)
+ - [Deltarune is the Switch 2’s sleeper hit](https://www.polygon.com/news/615471/deltarune-sales-switch-2-development-toby-fox-eshop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
