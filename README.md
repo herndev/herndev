@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
- - ⏩ [Ozzy knows best](http://9gag.com/gag/aAyvnep)
+ - 💣 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
+ - ⏩ [Is this true or false?](http://9gag.com/gag/aKGKbmj)
  - 👉 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)<!-- MEMES:END -->
 
 ---
