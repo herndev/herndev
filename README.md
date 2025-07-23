@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
- - ⏩ [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
- - 👉 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)<!-- MEMES:END -->
+ - 💣 [What if I&#39;m not the smartest peanut in the turd?](http://9gag.com/gag/aZZRAw9)
+ - ⏩ [Ozzy knows best](http://9gag.com/gag/aAyvnep)
+ - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
 
 ---
 
