@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Trump&amp;#8217;s war on clean energy is making AI a bigger polluter](https://www.theverge.com/climate-change/712038/ai-energy-trump-epa-gas-coal-emissions)
- - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)
- - [Samsung plans to make Now Bar more useful by nearly doubling app support](https://www.androidauthority.com/samsung-now-bar-double-apps-3580334/)<!-- TECH:END -->
+ - [Apple News+ Audio finally arrives in UK, Canada, Australia](https://appleinsider.com/articles/25/07/23/apple-news-audio-finally-arrives-in-uk-canada-australia?utm_source=rss)
+ - [iCloud lawsuit fails over misunderstanding of storage tiers](https://appleinsider.com/articles/25/07/23/icloud-lawsuit-fails-over-misunderstanding-of-storage-tiers?utm_source=rss)
+ - [The Trump administration plans to vet AI models for &quot;ideological bias&quot; and limit government contracts to tech companies whose models offer &quot;objective truth&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p30#a250723p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
