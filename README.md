@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
- - ⏩ [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
- - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
+ - 💣 [Virtual girlfriends getting more realistic](http://9gag.com/gag/a6ZGPvL)
+ - ⏩ [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)
+ - 👉 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)<!-- MEMES:END -->
 
 ---
 
