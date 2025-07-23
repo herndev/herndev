@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Razer&#39;s latest Cobra HyperSpeed mouse is also the cheapest one yet to work with the HyperFlux mouse powering mat](https://www.pcgamer.com/hardware/razers-latest-cobra-hyperspeed-mouse-is-also-the-cheapest-one-yet-to-work-with-the-hyperflux-mouse-powering-mat/)
  - [Today&#39;s Wordle answer for Wednesday, July 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-23-2025/)
- - [Wuchang: Fallen Feathers makes me feel as powerful as its bosses](https://www.polygon.com/review/615210/wuchang-fallen-feathers-soulslike)
- - [Wuchang: Fallen Feathers review](https://www.pcgamer.com/games/rpg/wuchang-fallen-feathers-review/)<!-- GAME:END -->
+ - [Wuchang: Fallen Feathers makes me feel as powerful as its bosses](https://www.polygon.com/review/615210/wuchang-fallen-feathers-soulslike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
