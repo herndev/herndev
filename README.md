@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber dreams up and builds lockpicking robot that can feel the pins in the tumbler and it almost even works](https://www.pcgamer.com/hardware/youtuber-dreams-up-and-builds-lockpicking-robot-that-can-feel-the-pins-in-the-tumbler-and-it-almost-even-works/)
- - [Razer raised my hopes with this Kanto starter based Pokemon collection then released some of the ugliest peripherals I&#39;ve ever seen](https://www.pcgamer.com/hardware/razer-raised-my-hopes-with-this-kanto-starter-based-pokemon-collection-then-released-some-of-the-ugliest-peripherals-ive-ever-seen/)
- - [Razer&#39;s latest Cobra HyperSpeed mouse is also the cheapest one yet to work with the HyperFlux mouse powering mat](https://www.pcgamer.com/hardware/razers-latest-cobra-hyperspeed-mouse-is-also-the-cheapest-one-yet-to-work-with-the-hyperflux-mouse-powering-mat/)<!-- GAME:END -->
+ - [This keyboard looks like it&#39;s been plucked straight from Half-Life 1 with how well it replicates low-res classic game textures](https://www.pcgamer.com/hardware/gaming-keyboards/this-keyboard-looks-like-its-been-plucked-straight-from-half-life-1-with-how-well-it-replicates-low-res-classic-game-textures/)
+ - [Join the Hellfire Club with the Stranger Things D&amp;#038;D game](https://www.polygon.com/news/615315/dnd-dungeons-dragons-welcome-hellfire-club-stranger-things-game)
+ - [YouTuber dreams up and builds lockpicking robot that can feel the pins in the tumbler and it almost even works](https://www.pcgamer.com/hardware/youtuber-dreams-up-and-builds-lockpicking-robot-that-can-feel-the-pins-in-the-tumbler-and-it-almost-even-works/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
