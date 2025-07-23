@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [YouTuber dreams up and builds lockpicking robot that can feel the pins in the tumbler and it almost even works](https://www.pcgamer.com/hardware/youtuber-dreams-up-and-builds-lockpicking-robot-that-can-feel-the-pins-in-the-tumbler-and-it-almost-even-works/)
  - [Razer raised my hopes with this Kanto starter based Pokemon collection then released some of the ugliest peripherals I&#39;ve ever seen](https://www.pcgamer.com/hardware/razer-raised-my-hopes-with-this-kanto-starter-based-pokemon-collection-then-released-some-of-the-ugliest-peripherals-ive-ever-seen/)
- - [Razer&#39;s latest Cobra HyperSpeed mouse is also the cheapest one yet to work with the HyperFlux mouse powering mat](https://www.pcgamer.com/hardware/razers-latest-cobra-hyperspeed-mouse-is-also-the-cheapest-one-yet-to-work-with-the-hyperflux-mouse-powering-mat/)
- - [Today&#39;s Wordle answer for Wednesday, July 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-23-2025/)<!-- GAME:END -->
+ - [Razer&#39;s latest Cobra HyperSpeed mouse is also the cheapest one yet to work with the HyperFlux mouse powering mat](https://www.pcgamer.com/hardware/razers-latest-cobra-hyperspeed-mouse-is-also-the-cheapest-one-yet-to-work-with-the-hyperflux-mouse-powering-mat/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
