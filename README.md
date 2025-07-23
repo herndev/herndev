@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Survive Shu: Your Essential Guide to Starting Wuchang: Fallen Feathers](https://news.xbox.com/en-us/2025/07/23/essential-guide-to-starting-wuchang-fallen-feathers/)
- - [&#39;The father of Elder Scrolls&#39; Julian LeFay has died: &#39;His legacy will live on in every realm, every quest, and every moment of wonder&#39;](https://www.pcgamer.com/gaming-industry/the-father-of-elder-scrolls-julian-lefay-has-died-his-legacy-will-live-on-in-every-realm-every-quest-and-every-moment-of-wonder/)
- - [How to survive as an indie developer for 20 years](https://www.pcgamer.com/gaming-industry/game-development/how-to-survive-as-an-indie-developer-for-20-years/)<!-- GAME:END -->
+ - [Super Mario Odyssey does one thing better than Donkey Kong Bananza](https://www.polygon.com/analysis/615288/super-mario-odyssey-donkey-kong-bananza-comparison)
+ - [23 years after launch, Final Fantasy 11 is suspending character creation on its most popular server as it buckles beneath the weight of player congestion](https://www.pcgamer.com/games/mmo/23-years-after-launch-final-fantasy-11-is-suspending-character-creation-on-its-most-popular-server-as-it-buckles-beneath-the-weight-of-player-congestion/)
+ - [Trump&#39;s AI action plan claims to chart &#39;a decisive course to cement US dominance in artificial intelligence&#39;](https://www.pcgamer.com/software/ai/trumps-ai-action-plan-claims-to-chart-a-decisive-course-to-cement-us-dominance-in-artificial-intelligence/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
