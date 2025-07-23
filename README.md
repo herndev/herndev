@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This keyboard looks like it&#39;s been plucked straight from Half-Life 1 with how well it replicates low-res classic game textures](https://www.pcgamer.com/hardware/gaming-keyboards/this-keyboard-looks-like-its-been-plucked-straight-from-half-life-1-with-how-well-it-replicates-low-res-classic-game-textures/)
- - [Join the Hellfire Club with the Stranger Things D&amp;#038;D game](https://www.polygon.com/news/615315/dnd-dungeons-dragons-welcome-hellfire-club-stranger-things-game)
- - [YouTuber dreams up and builds lockpicking robot that can feel the pins in the tumbler and it almost even works](https://www.pcgamer.com/hardware/youtuber-dreams-up-and-builds-lockpicking-robot-that-can-feel-the-pins-in-the-tumbler-and-it-almost-even-works/)<!-- GAME:END -->
+ - [OpenAI CEO Sam Altman thinks some jobs will be &#39;totally, totally gone&#39; thanks to AI, but he still wouldn&#39;t trust ChatGPT with his &#39;medical fate&#39;](https://www.pcgamer.com/software/ai/openai-ceo-sam-altman-thinks-some-jobs-will-be-totally-totally-gone-thanks-to-ai-but-he-still-wouldnt-trust-chatgpt-with-his-medical-fate/)
+ - [R.I.P. Julian LeFay, The Father Of The Elder Scrolls](https://kotaku.com/julian-lefay-the-elder-scrolls-daggerfall-bethesda-1851786769)
+ - [ESO devs at ZeniMax reel from Microsoft&#39;s &#39;hollow&#39; layoff emails, with some wondering how a &#39;carcass of workers&#39; is &#39;supposed to keep shipping award-winning games&#39;](https://www.pcgamer.com/gaming-industry/eso-devs-at-zenimax-reel-from-microsofts-hollow-layoff-emails-with-some-wondering-how-a-carcass-of-workers-is-supposed-to-keep-shipping-award-winning-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
