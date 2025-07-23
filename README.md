@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I dropped Gemini for Bixby for a week, and I’m so glad that I did](https://www.androidauthority.com/gemini-vs-bixby-3578489/)
- - [South Korea Plans to Build a Base on the Moon](https://www.wired.com/story/south-korea-wants-to-build-a-space-base-on-the-moon-within-20-years/)
- - [PeakDo makes the ultra-portable Starlink Mini ultra-convenient](https://www.theverge.com/reviews/712043/peakdo-linkpower-review-battery-powered-starlink-mini)<!-- TECH:END -->
+ - [Proton is launching a privacy-focused AI chatbot](https://www.theverge.com/news/711860/proton-privacy-focused-ai-chatbot)
+ - [Alibaba releases its new Qwen3-235B-A22B-Instruct-2507 model on Hugging Face, improving on Qwen 3&#39;s reasoning, accuracy, and multilingual understanding &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250723/p10#a250723p10)
+ - [Dell says COO Jeff Clarke will now oversee its Client Solutions Group, which includes desktop and notebook PCs; Dell&#39;s consumer PC revenue fell 19% in Q1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250723/p9#a250723p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
