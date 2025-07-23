@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
- - ⏩ [That was a close call](http://9gag.com/gag/a87VZ01)
- - 👉 [Still the best video on the internet](http://9gag.com/gag/awye6O4)<!-- MEMES:END -->
+ - 💣 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
+ - ⏩ [Your salary](http://9gag.com/gag/aNDj6xG)
+ - 👉 [Ozzy Passed Away](http://9gag.com/gag/ayNvgzM)<!-- MEMES:END -->
 
 ---
 
