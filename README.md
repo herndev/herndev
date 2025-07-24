@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
- - ⏩ [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
- - 👉 [Accident with nature](http://9gag.com/gag/avy9YgX)<!-- MEMES:END -->
+ - 💣 [Good to have cams](http://9gag.com/gag/aZZR960)
+ - ⏩ [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
+ - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
 
 ---
 
