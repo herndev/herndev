@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pedro Pascal Plays Himself In Marvel Rivals, And It Could Have Gone Worse](https://kotaku.com/fantastic-four-first-steps-marvel-rivals-pedro-pascal-1851786915)
- - [Pro wrestling legend Hulk Hogan dies at 71](https://www.pcgamer.com/movies-tv/pro-wrestling-legend-hulk-hogan-dies-at-71/)
- - [Asphalt Celebrates 20 Years on the Track!](https://news.xbox.com/en-us/2025/07/24/asphalt-celebrates-20-years-on-the-track/)<!-- GAME:END -->
+ - [The Internet Reacts To Hulk Hogan&#39;s Death](https://kotaku.com/the-internet-reacts-to-hulk-hogans-death-1851786914)
+ - [Critical Role’s The Mighty Nein animated series premieres this November](https://www.polygon.com/entertainment/615649/critical-roles-the-mighty-nein-animated-series-premieres-this-november)
+ - [Pedro Pascal Plays Himself In Marvel Rivals, And It Could Have Gone Worse](https://kotaku.com/fantastic-four-first-steps-marvel-rivals-pedro-pascal-1851786915)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
