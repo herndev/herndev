@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - ⏩ [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
+ - 💣 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
+ - ⏩ [Paris](http://9gag.com/gag/aAyvn0Z)
  - 👉 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)<!-- MEMES:END -->
 
 ---
