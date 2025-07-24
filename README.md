@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 on the DJI Mic 2, still at an all-time low price](https://www.androidauthority.com/dji-mic-2-deal-2-3580879/)
- - [All eyes on August as rumors suggest OpenAI is preparing to launch GPT-5](https://www.androidauthority.com/openai-gpt-5-august-launch-3580860/)
- - [X is testing using Community Notes to highlight posts that are liked by users with different perspectives &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250724/p49#a250724p49)<!-- TECH:END -->
+ - [Starlink’s satellite internet is back online after a massive outage](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
+ - [Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It&#39;s a Slippery Slope to More Censorship](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)
+ - [Don’t get your hopes up for One UI 9 leaks as Samsung fixes this major loophole](https://www.androidauthority.com/samsung-one-ui-leaks-loophole-patched-3580897/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
