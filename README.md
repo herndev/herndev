@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satya Nadella seeks to reassure Microsoft employees in layoffs memo](https://www.theverge.com/news/713162/microsoft-satya-nadella-layoffs-memo)
- - [Samsung killed its classic DeX mode in One UI 8, but there’s a good reason](https://www.androidauthority.com/one-ui-8-classic-dex-3580755/)
- - [Google will officially deprecate links generated with its goo.gl URL shortener on August 25, 2025; the company stopped generating goo.gl URLs in March 2019 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250724/p37#a250724p37)<!-- TECH:END -->
+ - [Android might soon trust your smartwatch to help verify your identity &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-identity-check-smartwatch-apk-teardown-3580790/)
+ - [Be strong, let everyone else risk their devices and data with the new betas](https://appleinsider.com/articles/25/06/09/be-strong-let-everyone-else-risk-their-devices-and-data-with-the-new-betas?utm_source=rss)
+ - [Grab a 2025 iPad for as low as $299 heading into the weekend](https://appleinsider.com/articles/25/07/24/grab-a-2025-ipad-for-as-low-as-299-heading-into-the-weekend?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
