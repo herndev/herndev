@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That ending](http://9gag.com/gag/aByo99N)
- - ⏩ [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
+ - 💣 [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
+ - ⏩ [That ending](http://9gag.com/gag/aByo99N)
  - 👉 [Fill the void](http://9gag.com/gag/axymp3Y)<!-- MEMES:END -->
 
 ---
