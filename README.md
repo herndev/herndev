@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wireless Power Consortium launches faster Qi2 25W wireless charging, with &quot;major Android smartphones&quot; finally adopting the standard alongside the iPhone &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250723/p44#a250723p44)
- - [Google Home is becoming a house of glitches, users say &lpar;Updated: Google heard you!&rpar;](https://www.androidauthority.com/google-home-speakers-hubs-issues-3579553/)
- - [This cheaper N64 FPGA console might be the best way to play your N64 carts](https://www.androidauthority.com/modretro-nintendo-64-fpga-m64-pricing-3580094/)<!-- TECH:END -->
+ - [Sources: the US FDA&#39;s AI tool Elsa has fabricated nonexistent studies, misrepresented research, and cannot access relevant documents to assist with review work &lpar;Sarah Owermohle/CNN&rpar;](http://www.techmeme.com/250723/p45#a250723p45)
+ - [T-Mobile’s T-Satellite service goes live nationwide: Already used by 2 million people](https://www.androidauthority.com/t-mobile-t-satellite-official-launch-3580458/)
+ - [The Wireless Power Consortium launches faster Qi2 25W wireless charging, with &quot;major Android smartphones&quot; finally adopting the standard alongside the iPhone &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250723/p44#a250723p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
