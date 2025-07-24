@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US FDA&#39;s AI tool Elsa has fabricated nonexistent studies, misrepresented research, and cannot access relevant documents to assist with review work &lpar;Sarah Owermohle/CNN&rpar;](http://www.techmeme.com/250723/p45#a250723p45)
- - [T-Mobile’s T-Satellite service goes live nationwide: Already used by 2 million people](https://www.androidauthority.com/t-mobile-t-satellite-official-launch-3580458/)
- - [The Wireless Power Consortium launches faster Qi2 25W wireless charging, with &quot;major Android smartphones&quot; finally adopting the standard alongside the iPhone &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250723/p44#a250723p44)<!-- TECH:END -->
+ - [Tether CEO Paolo Ardoino says the USDT issuer is making plans to do business in the US after the passage of Genius Act, with a focus on institutional markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p1#a250724p1)
+ - [We found Google’s next Pixel-only calling feature and it’s borrowed from Apple &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-call-message-3580467/)
+ - [Sources: the US FDA&#39;s AI tool Elsa has fabricated nonexistent studies, misrepresented research, and cannot access relevant documents to assist with review work &lpar;Sarah Owermohle/CNN&rpar;](http://www.techmeme.com/250723/p45#a250723p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
