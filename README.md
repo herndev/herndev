@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [if you&#39;ve had trouble getting your hands on a GPU, good news! Nvidia is re-releasing another budget card from 2022](https://www.pcgamer.com/hardware/if-youve-had-trouble-getting-your-hands-on-a-gpu-good-news-nvidia-is-re-releasing-another-budget-card-from-2022/)
  - [How to watch the Battlefield 6 reveal](https://www.polygon.com/news/615551/battlefield-6-reveal-trailer-gameplay)
- - [Today&#39;s Wordle answer for Thursday, July 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-24-2025/)
- - [Brütal Legend is free in honor of Ozzy Osbourne, but only for 666 minutes](https://www.pcgamer.com/games/action/brutal-legend-is-free-in-honor-of-ozzy-osbourne-but-only-for-666-minutes/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, July 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-24-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
