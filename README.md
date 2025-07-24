@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds new features to Google Photos, including a Veo 2-powered photo-to-video tool and a Remix tool that applies styles like anime and sketches to photos &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250723/p37#a250723p37)
- - [Frustrated with Google Home? Google thanks you for your patience](https://www.androidauthority.com/google-home-confirms-issues-3580380/)
- - [Google adds new button to Discover that will save you some scrolling](https://www.androidauthority.com/google-discover-feed-jump-to-top-3580404/)<!-- TECH:END -->
+ - [Circana: Nintendo Switch 2 is the fastest-selling video game device in US history, with 1.6M units sold in June, topping the PS4&#39;s 1.1M units in November 2013 &lpar;IGN&rpar;](http://www.techmeme.com/250723/p38#a250723p38)
+ - [Trump wanted to break up Nvidia — but then its CEO won him over](https://www.theverge.com/news/712753/trump-nvidia-jensen-huang-break-up-chips-ai)
+ - [Deal: The Motorola Razr Ultra now comes with a free smartwatch and a 1TB upgrade](https://www.androidauthority.com/motorola-razr-ultra-1tb-moto-watch-fit-deal-3580287/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
