@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Dead Island 2&#39; arrives for Mac users ready to slay on Apple Silicon](https://appleinsider.com/articles/25/07/24/dead-island-2-arrives-for-mac-users-ready-to-slay-on-apple-silicon?utm_source=rss)
- - [Google Maps will soon take away all of your followers](https://www.androidauthority.com/google-maps-follow-feature-ending-3580826/)
- - [VTuber agency VShojo shuts down after talent exodus](https://www.theverge.com/news/713343/vshojo-shutting-down-ironmouse-missing-charity-donations)<!-- TECH:END -->
+ - [Starlink satellite internet service is down everywhere](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
+ - [Hands-on with iOS 26: Liquid Glass is impressive but can also be distracting, Camera redesign is solid, Call Filtering feature in the Phone app is great, more &lpar;Dan Moren/Six Colors&rpar;](http://www.techmeme.com/250724/p48#a250724p48)
+ - [Google’s second Android Canary release is already out for Pixel devices](https://www.androidauthority.com/android-canary-2507-3580863/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
