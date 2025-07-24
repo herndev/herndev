@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Stability AI CEO Prem Akkaraju on taking over from Emad Mostaque, his movie background, data and copyright, working with creative industries, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250724/p19#a250724p19)
- - [Sources and a document: China aims to build a national network to sell surplus computing power and address an oversupply caused by a three-year data center boom &lpar;Reuters&rpar;](http://www.techmeme.com/250724/p18#a250724p18)
- - [7 Best Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)<!-- TECH:END -->
+ - [AI-Generated Content on Netflix Is Already Here](https://www.cnet.com/tech/services-and-software/when-will-you-see-ai-generated-content-on-netflix-its-possible-you-already-have/#ftag=CAD590a51e)
+ - [Apple unveils second Osaka store ahead of its opening](https://appleinsider.com/articles/25/07/24/apple-unveils-second-osaka-store-ahead-of-its-opening?utm_source=rss)
+ - [4 Best Folding Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
