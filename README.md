@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Brütal Legend is free in honor of Ozzy Osbourne, but only for 666 minutes](https://www.pcgamer.com/games/action/brutal-legend-is-free-in-honor-of-ozzy-osbourne-but-only-for-666-minutes/)
- - [World of Warcraft Classic player loses world first race by 2 minutes and 22 seconds after someone decided to verify it just in case](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-classic-player-loses-world-first-race-by-2-minutes-and-22-seconds-after-someone-decided-to-verify-it-just-in-case/)
- - [7 years on, CliffyB is &#39;still bitter&#39; about people gravedancing when his studio Boss Key failed: &#39;It was amazing at first and then, well, it broke me for a good long while&#39;](https://www.pcgamer.com/games/fps/7-years-on-cliffyb-is-still-bitter-about-people-gravedancing-when-his-studio-boss-key-failed-it-was-amazing-at-first-and-then-well-it-broke-me-for-a-good-long-while/)<!-- GAME:END -->
+ - [How to watch the Battlefield 6 reveal](https://www.polygon.com/news/615551/battlefield-6-reveal-trailer-gameplay)
+ - [Today&#39;s Wordle answer for Thursday, July 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-24-2025/)
+ - [Brütal Legend is free in honor of Ozzy Osbourne, but only for 666 minutes](https://www.pcgamer.com/games/action/brutal-legend-is-free-in-honor-of-ozzy-osbourne-but-only-for-666-minutes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
