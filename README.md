@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Adani Group has shelved plans for a consumer super app amid losses and internal turmoil, as Reliance and Tata also struggle to scale their platforms &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p3#a250724p3)
- - [China&#39;s Qianfan, the third largest satellite broadband constellation with 90 operational satellites, remains far short of its goal of 648 by the end of 2025 &lpar;Ling Xin/South China Morning Post&rpar;](http://www.techmeme.com/250724/p2#a250724p2)
- - [Tether CEO Paolo Ardoino says the USDT issuer is making plans to do business in the US after the passage of Genius Act, with a focus on institutional markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p1#a250724p1)<!-- TECH:END -->
+ - [Google&#39;s AI Overviews, which a recent Pew study shows reduce clickthrough rates, are further eroding traffic to original publishers by linking to aggregators &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250724/p8#a250724p8)
+ - [Gamma Data: China&#39;s female-oriented gaming market surged 124% YoY to $1B in 2024, driven by mobile game Love and Deepspace, which earned $400M, per Sensor Tower &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250724/p7#a250724p7)
+ - [Another Galaxy S26 Ultra leak pours cold water on a battery upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-battery-leak-3580481/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
