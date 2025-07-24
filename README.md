@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s time to stop defending slow charging speeds](https://www.androidauthority.com/enough-slow-charging-3580592/)
- - [Indiegogo is getting acquired by Gamefound, a board game crowdfunding company](https://www.theverge.com/news/712733/indiegogo-acquired-gamefound-crowdfunding)
- - [The once most-overlooked Fujifilm camera might become my favorite](https://www.theverge.com/tech/712828/fujifilm-x-e5-camera-price-size-travel)<!-- TECH:END -->
+ - [Apple&amp;#8217;s latest AirPods Max for $100 off is a great back-to-school deal](https://www.theverge.com/tech/713033/airpods-max-fire-tablet-11-max-refurbished-deal-sale)
+ - [Source: Founders Fund and Dragoneer have committed to investing $1B+ each in OpenAI&#39;s second, $30B installment of its $40B round announced in March &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250724/p28#a250724p28)
+ - [A US judge dismisses a lawsuit accusing Intel of defrauding shareholders by hiding problems in its foundry unit, news of which led to a $32B one-day stock fall &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250724/p27#a250724p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
