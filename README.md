@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantastic Four’s credits scenes fuel a raging Avengers: Doomsday rumor fire](https://www.polygon.com/marvel/615924/fantastic-four-post-credits-doomsday-avengers-doctor-doom)
- - [Battle Beast roars his way onto the Invincible VS roster](https://www.polygon.com/gaming/615597/battle-beast-roars-his-way-onto-the-invincible-vs-roster)
- - [Primal Planet is my favorite new metroidvania because it has friendly dinosaurs, gorgeous pixel art, and you can hug your wife](https://www.pcgamer.com/games/action/primal-planet-is-my-favorite-new-metroidvania-because-it-has-friendly-dinosaurs-gorgeous-pixel-art-and-you-can-hug-your-wife/)<!-- GAME:END -->
+ - [Radiance Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615616/radiance-layer-banandium-gem-golden-banana-locations-list-map-all)
+ - [My heart&#39;s already been stolen by this stop-motion adventure made out of wood and &#39;mostly in a garden shed&#39;](https://www.pcgamer.com/games/puzzle/my-hearts-already-been-stolen-by-this-stop-motion-adventure-made-out-of-wood-and-mostly-in-a-garden-shed/)
+ - [Fantastic Four’s credits scenes fuel a raging Avengers: Doomsday rumor fire](https://www.polygon.com/marvel/615924/fantastic-four-post-credits-doomsday-avengers-doctor-doom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
