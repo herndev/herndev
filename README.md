@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - ⏩ [Need a new identity](http://9gag.com/gag/aQzywAe)
- - 👉 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)<!-- MEMES:END -->
+ - 💣 [Paris](http://9gag.com/gag/aAyvn0Z)
+ - ⏩ [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
+ - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
 
 ---
 
