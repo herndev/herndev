@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Kindle Colorsoft Just Got Two More Models](https://www.wired.com/story/amazon-kindle-colorsoft-new-models-2025/)
- - [Google has new ideas on how to save money while shopping online](https://www.androidauthority.com/google-ai-shopping-price-tracker-try-on-3580595/)
- - [Amazon is launching a cheaper color Kindle](https://www.theverge.com/news/712765/amazon-kindle-colorsoft-16-gb-kids)<!-- TECH:END -->
+ - [It’s time to stop defending slow charging speeds](https://www.androidauthority.com/enough-slow-charging-3580592/)
+ - [Indiegogo is getting acquired by Gamefound, a board game crowdfunding company](https://www.theverge.com/news/712733/indiegogo-acquired-gamefound-crowdfunding)
+ - [The once most-overlooked Fujifilm camera might become my favorite](https://www.theverge.com/tech/712828/fujifilm-x-e5-camera-price-size-travel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
