@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
- - ⏩ [Paris](http://9gag.com/gag/aAyvn0Z)
- - 👉 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)<!-- MEMES:END -->
+ - 💣 [Everyone claims to be racist until a big booty stunning Latina walks into the room.](http://9gag.com/gag/a0eOAXL)
+ - ⏩ [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
+ - 👉 [Not this time mf](http://9gag.com/gag/aBy4qqx)<!-- MEMES:END -->
 
 ---
 
