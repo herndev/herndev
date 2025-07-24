@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circana: Nintendo Switch 2 is the fastest-selling video game device in US history, with 1.6M units sold in June, topping the PS4&#39;s 1.1M units in November 2013 &lpar;IGN&rpar;](http://www.techmeme.com/250723/p38#a250723p38)
- - [Trump wanted to break up Nvidia — but then its CEO won him over](https://www.theverge.com/news/712753/trump-nvidia-jensen-huang-break-up-chips-ai)
- - [Deal: The Motorola Razr Ultra now comes with a free smartwatch and a 1TB upgrade](https://www.androidauthority.com/motorola-razr-ultra-1tb-moto-watch-fit-deal-3580287/)<!-- TECH:END -->
+ - [Here is Lego’s official Nintendo Game Boy — with lenticular display](https://www.theverge.com/news/712786/here-is-legos-official-nintendo-game-boy-with-lenticular-display)
+ - [T-Mobile&#39;s Starlink-powered satellite service T-Satellite is now generally available as a standalone subscription for US users, not just T-Mobile customers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250723/p42#a250723p42)
+ - [At an All-In Podcast summit, President Trump said forcing AI firms to pay for each copyrighted work is &quot;not doable&quot;, calling for &quot;common sense&quot; AI and IP rules &lpar;Deadline&rpar;](http://www.techmeme.com/250723/p41#a250723p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
