@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facer is finally returning to Wear OS 5 smartwatches](https://www.androidauthority.com/facer-return-to-wear-os-5-3580646/)
- - [Walmart consolidates its AI agents into four &quot;super agents&quot;, for customers, staff, engineers, and sellers/suppliers, using Anthropic&#39;s Model Context Protocol &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250724/p42#a250724p42)
- - [iOS 26 &amp; iPadOS 26 dev beta 4 updated to match public release build](https://appleinsider.com/articles/25/07/24/ios-26-ipados-26-dev-beta-4-updated-to-match-public-release-build?utm_source=rss)<!-- TECH:END -->
+ - [&#39;Dead Island 2&#39; arrives for Mac users ready to slay on Apple Silicon](https://appleinsider.com/articles/25/07/24/dead-island-2-arrives-for-mac-users-ready-to-slay-on-apple-silicon?utm_source=rss)
+ - [Google Maps will soon take away all of your followers](https://www.androidauthority.com/google-maps-follow-feature-ending-3580826/)
+ - [VTuber agency VShojo shuts down after talent exodus](https://www.theverge.com/news/713343/vshojo-shutting-down-ironmouse-missing-charity-donations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
