@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
- - ⏩ [You&#39;re never safe.](http://9gag.com/gag/aBy4qGQ)
- - 👉 [Fr on god.... guys are we cooked?](http://9gag.com/gag/aGy73w6)<!-- MEMES:END -->
+ - 💣 [Camera&#39;s worst nightmare, or just a bad dream](http://9gag.com/gag/aZZR9Qn)
+ - ⏩ [Catch the ball](http://9gag.com/gag/a1mO4LR)
+ - 👉 [My talents are wasted here, nobody got it](http://9gag.com/gag/aXPR5zV)<!-- MEMES:END -->
 
 ---
 
