@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good to have cams](http://9gag.com/gag/aZZR960)
+ - 💣 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
  - ⏩ [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
  - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
 
