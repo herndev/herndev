@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
- - ⏩ [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)
- - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
+ - 💣 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
+ - ⏩ [Good to have cams](http://9gag.com/gag/aZZR960)
+ - 👉 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)<!-- MEMES:END -->
 
 ---
 
