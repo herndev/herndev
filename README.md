@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paris](http://9gag.com/gag/aAyvn0Z)
- - ⏩ [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
+ - 💣 [This guy is a f**king moron](http://9gag.com/gag/aqyDvdR)
+ - ⏩ [Accident with nature](http://9gag.com/gag/avy9YgX)
+ - 👉 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)<!-- MEMES:END -->
 
 ---
 
