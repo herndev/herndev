@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-Generated Content on Netflix Is Already Here](https://www.cnet.com/tech/services-and-software/when-will-you-see-ai-generated-content-on-netflix-its-possible-you-already-have/#ftag=CAD590a51e)
- - [Apple unveils second Osaka store ahead of its opening](https://appleinsider.com/articles/25/07/24/apple-unveils-second-osaka-store-ahead-of-its-opening?utm_source=rss)
- - [4 Best Folding Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)<!-- TECH:END -->
+ - [The Kindle Colorsoft Just Got Two More Models](https://www.wired.com/story/amazon-kindle-colorsoft-new-models-2025/)
+ - [Google has new ideas on how to save money while shopping online](https://www.androidauthority.com/google-ai-shopping-price-tracker-try-on-3580595/)
+ - [Amazon is launching a cheaper color Kindle](https://www.theverge.com/news/712765/amazon-kindle-colorsoft-16-gb-kids)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
