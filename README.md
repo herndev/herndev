@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI prepares to launch GPT-5 in August](https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad)
- - [Google&#39;s lead for Home and Nest Anish Kattukaran apologizes for Assistant reliability issues on home devices and announces &quot;major improvements&quot; later this year &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250724/p35#a250724p35)
- - [Amazon launches a cheaper color Kindle and its first model for kids](https://www.androidauthority.com/kindle-colorsoft-16gb-kids-launched-3580704/)<!-- TECH:END -->
+ - [Satya Nadella seeks to reassure Microsoft employees in layoffs memo](https://www.theverge.com/news/713162/microsoft-satya-nadella-layoffs-memo)
+ - [Samsung killed its classic DeX mode in One UI 8, but there’s a good reason](https://www.androidauthority.com/one-ui-8-classic-dex-3580755/)
+ - [Google will officially deprecate links generated with its goo.gl URL shortener on August 25, 2025; the company stopped generating goo.gl URLs in March 2019 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250724/p37#a250724p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
