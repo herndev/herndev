@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We should change the name&#39; Trump says of artificial intelligence: &#39;I actually mean that, I don&#39;t like anything that&#39;s artificial&#39;](https://www.pcgamer.com/software/ai/we-should-change-the-name-trump-says-of-artificial-intelligence-i-actually-mean-that-i-dont-like-anything-thats-artificial/)
- - [Killing Floor 3 review](https://www.pcgamer.com/games/fps/killing-floor-3-review/)
- - [Grounded 2: Celebrating Game Preview Launch with a Wild 10-foot Red Ant Plush](https://news.xbox.com/en-us/2025/07/24/grounded-2-red-ant-plush-giant-sweepstakes/)<!-- GAME:END -->
+ - [South Park returns from brink of death with jaw-dropping dunks on President Trump](https://www.polygon.com/tv/615665/south-park-season-27-premiere-trump-penis)
+ - [The Lego Game Boy is a thing of beauty, available for pre-order](https://www.polygon.com/nintendo/615680/lego-game-boy-price-pre-order-release-date)
+ - [&#39;We should change the name&#39; Trump says of artificial intelligence: &#39;I actually mean that, I don&#39;t like anything that&#39;s artificial&#39;](https://www.pcgamer.com/software/ai/we-should-change-the-name-trump-says-of-artificial-intelligence-i-actually-mean-that-i-dont-like-anything-thats-artificial/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
