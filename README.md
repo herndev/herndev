@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well at least I asked her](http://9gag.com/gag/a0eOmrz)
- - ⏩ [Some say the video is reversed](http://9gag.com/gag/aKGKb23)
- - 👉 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)<!-- MEMES:END -->
+ - 💣 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
+ - ⏩ [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
+ - 👉 [Your daily doses of:](http://9gag.com/gag/aGy7P56)<!-- MEMES:END -->
 
 ---
 
