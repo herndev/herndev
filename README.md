@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia CEO Jensen Huang calls Trump &#39;America&#39;s unique advantage&#39; because he&#39;s ramping up US energy](https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-calls-trump-americas-unique-advantage-because-hes-ramping-up-us-energy/)
- - [&#39;You&#39;re going to need more electricity than any human beings ever... Jensen, you&#39;re gonna have to explain that to me someday&#39; says Trump to Nvidia&#39;s CEO as he rolls out his AI expansion plan](https://www.pcgamer.com/software/ai/youre-going-to-need-more-electricity-than-any-human-beings-ever-jensen-youre-gonna-have-to-explain-that-to-me-someday-says-trump-to-the-nvidia-head-honcho-as-he-rolls-out-his-mega-ai-expansion-plan/)
- - [The Lego Game Boy Looks Pretty Much Perfect](https://kotaku.com/lego-game-boy-pre-order-commercial-nintendo-1851786845)<!-- GAME:END -->
+ - [&#39;We should change the name&#39; Trump says of artificial intelligence: &#39;I actually mean that, I don&#39;t like anything that&#39;s artificial&#39;](https://www.pcgamer.com/software/ai/we-should-change-the-name-trump-says-of-artificial-intelligence-i-actually-mean-that-i-dont-like-anything-thats-artificial/)
+ - [Killing Floor 3 review](https://www.pcgamer.com/games/fps/killing-floor-3-review/)
+ - [Grounded 2: Celebrating Game Preview Launch with a Wild 10-foot Red Ant Plush](https://news.xbox.com/en-us/2025/07/24/grounded-2-red-ant-plush-giant-sweepstakes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
