@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role’s The Legend of Vox Machina is getting a fifth and final season](https://www.polygon.com/entertainment/615723/critical-role-legend-of-vox-machina-season-5-final)
- - [VTuber CEO Admits To Spending Charity Money As Agency Implodes](https://kotaku.com/ironmouse-vshojo-vtuber-charity-funds-statement-1851786923)
- - [Adult games are forcing the game industry into a spiritual crisis](https://www.polygon.com/news/615910/itchio-steam-sex-adult-games-delisting-pulled-vice-controversy)<!-- GAME:END -->
+ - [Primal Planet is my favorite new metroidvania because it has friendly dinosaurs, gorgeous pixel art, and you can hug your wife](https://www.pcgamer.com/games/action/primal-planet-is-my-favorite-new-metroidvania-because-it-has-friendly-dinosaurs-gorgeous-pixel-art-and-you-can-hug-your-wife/)
+ - [Here’s Our First Look At The New Avatar Sequel Series Set After Korra](https://kotaku.com/avatar-seven-havens-pavi-earthbender-image-sdcc-panel-1851786934)
+ - [Its demo only took me 10 minutes, but this claymation picture book puzzle game inspired by medieval alchemy is one to watch out for](https://www.pcgamer.com/games/puzzle/its-demo-only-took-me-10-minutes-but-this-claymation-picture-book-puzzle-game-inspired-by-medieval-alchemy-is-one-to-watch-out-for/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
