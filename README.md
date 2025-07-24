@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s latest AirPods Max for $100 off is a great back-to-school deal](https://www.theverge.com/tech/713033/airpods-max-fire-tablet-11-max-refurbished-deal-sale)
- - [Source: Founders Fund and Dragoneer have committed to investing $1B+ each in OpenAI&#39;s second, $30B installment of its $40B round announced in March &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250724/p28#a250724p28)
- - [A US judge dismisses a lawsuit accusing Intel of defrauding shareholders by hiding problems in its foundry unit, news of which led to a $32B one-day stock fall &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250724/p27#a250724p27)<!-- TECH:END -->
+ - [OpenAI prepares to launch GPT-5 in August](https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad)
+ - [Google&#39;s lead for Home and Nest Anish Kattukaran apologizes for Assistant reliability issues on home devices and announces &quot;major improvements&quot; later this year &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250724/p35#a250724p35)
+ - [Amazon launches a cheaper color Kindle and its first model for kids](https://www.androidauthority.com/kindle-colorsoft-16gb-kids-launched-3580704/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
