@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I ditched Google Home years ago, so why are you still using it in 2025?](https://www.androidauthority.com/i-ditched-google-home-years-ago-why-you-still-using-it-3579743/)
- - [Microsoft says the &quot;Storm-2603&quot; group is now deploying ransomware via vulnerable SharePoint server versions, as the estimated number of victims hits 400+ &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/250724/p11#a250724p11)
- - [Galaxy S26 Ultra charging speed leaks: A big jump &lpar;for Samsung&rpar;](https://www.androidauthority.com/samsung-galaxy-s26-ultra-charging-speed-details-3580490/)<!-- TECH:END -->
+ - [The Laude Institute, a nonprofit that runs the K Prize multi-round AI coding challenge, says a Brazilian prompt engineer won with just 7.5% of the right answers &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/250724/p15#a250724p15)
+ - [Itch.io follows Steam in removing adult games](https://www.theverge.com/news/712890/itch-removes-adult-nsfw-games-steam-payment-providers)
+ - [AMD CEO Lisa Su says she expects TSMC&#39;s Arizona-made chips to cost &quot;more than 5% but less than 20%&quot; above TSMC&#39;s Taiwan-made chips, and to arrive by 2025&#39;s end &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p14#a250724p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
