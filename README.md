@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [South Park returns from brink of death with jaw-dropping dunks on President Trump](https://www.polygon.com/tv/615665/south-park-season-27-premiere-trump-penis)
- - [The Lego Game Boy is a thing of beauty, available for pre-order](https://www.polygon.com/nintendo/615680/lego-game-boy-price-pre-order-release-date)
- - [&#39;We should change the name&#39; Trump says of artificial intelligence: &#39;I actually mean that, I don&#39;t like anything that&#39;s artificial&#39;](https://www.pcgamer.com/software/ai/we-should-change-the-name-trump-says-of-artificial-intelligence-i-actually-mean-that-i-dont-like-anything-thats-artificial/)<!-- GAME:END -->
+ - [Free Play Days – For Honor, Totally Reliable Delivery Service, Sword Art Online Fractured Daydream, and More](https://news.xbox.com/en-us/2025/07/24/free-play-days-07-24-2025/)
+ - [AI Accusations Plunge Street Fighter 6 Fan Art Contest Into Chaos](https://kotaku.com/street-fighter-6-kimberly-ai-art-contest-lilithascends-1851786882)
+ - [You don&#39;t need to buy a liquid cooler with a screen: Arctic&#39;s Liquid Freezer III Pro 360 ARGB has everything you need, and that&#39;s why it&#39;s our new top recommendation](https://www.pcgamer.com/hardware/cooling/you-dont-need-to-buy-a-liquid-cooler-with-a-screen-arctics-liquid-freezer-iii-pro-360-argb-has-everything-you-need-and-thats-why-its-our-new-top-recommendation/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
