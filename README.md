@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Primal Planet is my favorite new metroidvania because it has friendly dinosaurs, gorgeous pixel art, and you can hug your wife](https://www.pcgamer.com/games/action/primal-planet-is-my-favorite-new-metroidvania-because-it-has-friendly-dinosaurs-gorgeous-pixel-art-and-you-can-hug-your-wife/)
- - [Here’s Our First Look At The New Avatar Sequel Series Set After Korra](https://kotaku.com/avatar-seven-havens-pavi-earthbender-image-sdcc-panel-1851786934)
- - [Its demo only took me 10 minutes, but this claymation picture book puzzle game inspired by medieval alchemy is one to watch out for](https://www.pcgamer.com/games/puzzle/its-demo-only-took-me-10-minutes-but-this-claymation-picture-book-puzzle-game-inspired-by-medieval-alchemy-is-one-to-watch-out-for/)<!-- GAME:END -->
+ - [Fantastic Four’s credits scenes fuel a raging Avengers: Doomsday rumor fire](https://www.polygon.com/marvel/615924/fantastic-four-post-credits-doomsday-avengers-doctor-doom)
+ - [Battle Beast roars his way onto the Invincible VS roster](https://www.polygon.com/gaming/615597/battle-beast-roars-his-way-onto-the-invincible-vs-roster)
+ - [Primal Planet is my favorite new metroidvania because it has friendly dinosaurs, gorgeous pixel art, and you can hug your wife](https://www.pcgamer.com/games/action/primal-planet-is-my-favorite-new-metroidvania-because-it-has-friendly-dinosaurs-gorgeous-pixel-art-and-you-can-hug-your-wife/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
