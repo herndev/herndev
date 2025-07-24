@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asphalt Celebrates 20 Years on the Track!](https://news.xbox.com/en-us/2025/07/24/asphalt-celebrates-20-years-on-the-track/)
- - [I can&amp;#8217;t wait for FromSoftware to wrap up its multiplayer era](https://www.polygon.com/gaming/615490/from-software-multiplayer-single-player)
- - [Relic&#39;s taken a break from real-time strategy to make a turn-based hybrid of Advance Wars and cult classic Impossible Creatures—but it feels totally removed from the studio&#39;s legendary legacy](https://www.pcgamer.com/games/strategy/relics-taken-a-break-from-real-time-strategy-to-make-a-turn-based-hybrid-of-advance-wars-and-cult-classic-impossible-creatures-but-it-feels-totally-removed-from-the-studios-legendary-legacy/)<!-- GAME:END -->
+ - [Pedro Pascal Plays Himself In Marvel Rivals, And It Could Have Gone Worse](https://kotaku.com/fantastic-four-first-steps-marvel-rivals-pedro-pascal-1851786915)
+ - [Pro wrestling legend Hulk Hogan dies at 71](https://www.pcgamer.com/movies-tv/pro-wrestling-legend-hulk-hogan-dies-at-71/)
+ - [Asphalt Celebrates 20 Years on the Track!](https://news.xbox.com/en-us/2025/07/24/asphalt-celebrates-20-years-on-the-track/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
