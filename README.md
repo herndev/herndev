@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - ⏩ [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - 👉 [Accident with nature](http://9gag.com/gag/avy9YgX)<!-- MEMES:END -->
+ - ⏩ [Need a new identity](http://9gag.com/gag/aQzywAe)
+ - 👉 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)<!-- MEMES:END -->
 
 ---
 
