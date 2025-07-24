@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
- - ⏩ [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
- - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
+ - 💣 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
+ - ⏩ [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
+ - 👉 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)<!-- MEMES:END -->
 
 ---
 
