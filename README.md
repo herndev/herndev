@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – For Honor, Totally Reliable Delivery Service, Sword Art Online Fractured Daydream, and More](https://news.xbox.com/en-us/2025/07/24/free-play-days-07-24-2025/)
- - [AI Accusations Plunge Street Fighter 6 Fan Art Contest Into Chaos](https://kotaku.com/street-fighter-6-kimberly-ai-art-contest-lilithascends-1851786882)
- - [You don&#39;t need to buy a liquid cooler with a screen: Arctic&#39;s Liquid Freezer III Pro 360 ARGB has everything you need, and that&#39;s why it&#39;s our new top recommendation](https://www.pcgamer.com/hardware/cooling/you-dont-need-to-buy-a-liquid-cooler-with-a-screen-arctics-liquid-freezer-iii-pro-360-argb-has-everything-you-need-and-thats-why-its-our-new-top-recommendation/)<!-- GAME:END -->
+ - [Rematch: 3 Million Xbox Players, a Record Breaking Beta, and the Future Beyond Season 0](https://news.xbox.com/en-us/2025/07/24/rematch-3-million-xbox-players/)
+ - [If You Don’t Want To Play The Last Of Us, You Can Now Read It Instead](https://kotaku.com/last-of-us-script-hardcover-book-pre-order-part-2-1851786896)
+ - [AI Weapons Maker Teases $200 Retro Console That Will Play Your Old Copy Of Mario Kart 64](https://kotaku.com/m64-mario-kart-modretro-palmer-luckey-nintendo-64-1851786895)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
