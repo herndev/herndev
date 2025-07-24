@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - ⏩ [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
- - 👉 [Your daily doses of:](http://9gag.com/gag/aGy7P56)<!-- MEMES:END -->
+ - 💣 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
+ - ⏩ [That ending](http://9gag.com/gag/aByo99N)
+ - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
 
 ---
 
