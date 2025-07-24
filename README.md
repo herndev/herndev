@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Laude Institute, a nonprofit that runs the K Prize multi-round AI coding challenge, says a Brazilian prompt engineer won with just 7.5% of the right answers &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/250724/p15#a250724p15)
- - [Itch.io follows Steam in removing adult games](https://www.theverge.com/news/712890/itch-removes-adult-nsfw-games-steam-payment-providers)
- - [AMD CEO Lisa Su says she expects TSMC&#39;s Arizona-made chips to cost &quot;more than 5% but less than 20%&quot; above TSMC&#39;s Taiwan-made chips, and to arrive by 2025&#39;s end &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p14#a250724p14)<!-- TECH:END -->
+ - [Q&amp;A with Stability AI CEO Prem Akkaraju on taking over from Emad Mostaque, his movie background, data and copyright, working with creative industries, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250724/p19#a250724p19)
+ - [Sources and a document: China aims to build a national network to sell surplus computing power and address an oversupply caused by a three-year data center boom &lpar;Reuters&rpar;](http://www.techmeme.com/250724/p18#a250724p18)
+ - [7 Best Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
