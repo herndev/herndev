@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether CEO Paolo Ardoino says the USDT issuer is making plans to do business in the US after the passage of Genius Act, with a focus on institutional markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p1#a250724p1)
- - [We found Google’s next Pixel-only calling feature and it’s borrowed from Apple &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-call-message-3580467/)
- - [Sources: the US FDA&#39;s AI tool Elsa has fabricated nonexistent studies, misrepresented research, and cannot access relevant documents to assist with review work &lpar;Sarah Owermohle/CNN&rpar;](http://www.techmeme.com/250723/p45#a250723p45)<!-- TECH:END -->
+ - [Sources: Adani Group has shelved plans for a consumer super app amid losses and internal turmoil, as Reliance and Tata also struggle to scale their platforms &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p3#a250724p3)
+ - [China&#39;s Qianfan, the third largest satellite broadband constellation with 90 operational satellites, remains far short of its goal of 648 by the end of 2025 &lpar;Ling Xin/South China Morning Post&rpar;](http://www.techmeme.com/250724/p2#a250724p2)
+ - [Tether CEO Paolo Ardoino says the USDT issuer is making plans to do business in the US after the passage of Genius Act, with a focus on institutional markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p1#a250724p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
