@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone claims to be racist until a big booty stunning Latina walks into the room.](http://9gag.com/gag/a0eOAXL)
- - ⏩ [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
- - 👉 [Not this time mf](http://9gag.com/gag/aBy4qqx)<!-- MEMES:END -->
+ - 💣 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
+ - ⏩ [You&#39;re never safe.](http://9gag.com/gag/aBy4qGQ)
+ - 👉 [Fr on god.... guys are we cooked?](http://9gag.com/gag/aGy73w6)<!-- MEMES:END -->
 
 ---
 
