@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube has become a valuable resource for professional chefs and, in recent years, has helped skilled amateurs build culinary reputations and open restaurants &lpar;Kate Krader/Bloomberg&rpar;](http://www.techmeme.com/250724/p9#a250724p9)
- - [Americans Are Obsessed With Watching Short Video Dramas From China](https://www.wired.com/story/china-reel-short-dramas-video-social-media/)
- - [Google&#39;s AI Overviews, which a recent Pew study shows reduce clickthrough rates, are further eroding traffic to original publishers by linking to aggregators &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250724/p8#a250724p8)<!-- TECH:END -->
+ - [I ditched Google Home years ago, so why are you still using it in 2025?](https://www.androidauthority.com/i-ditched-google-home-years-ago-why-you-still-using-it-3579743/)
+ - [Microsoft says the &quot;Storm-2603&quot; group is now deploying ransomware via vulnerable SharePoint server versions, as the estimated number of victims hits 400+ &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/250724/p11#a250724p11)
+ - [Galaxy S26 Ultra charging speed leaks: A big jump &lpar;for Samsung&rpar;](https://www.androidauthority.com/samsung-galaxy-s26-ultra-charging-speed-details-3580490/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
