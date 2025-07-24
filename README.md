@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
- - ⏩ [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 👉 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)<!-- MEMES:END -->
+ - 💣 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
+ - ⏩ [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
+ - 👉 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)<!-- MEMES:END -->
 
 ---
 
