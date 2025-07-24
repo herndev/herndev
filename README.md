@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Internet Reacts To Hulk Hogan&#39;s Death](https://kotaku.com/the-internet-reacts-to-hulk-hogans-death-1851786914)
- - [Critical Role’s The Mighty Nein animated series premieres this November](https://www.polygon.com/entertainment/615649/critical-roles-the-mighty-nein-animated-series-premieres-this-november)
- - [Pedro Pascal Plays Himself In Marvel Rivals, And It Could Have Gone Worse](https://kotaku.com/fantastic-four-first-steps-marvel-rivals-pedro-pascal-1851786915)<!-- GAME:END -->
+ - [Critical Role’s The Legend of Vox Machina is getting a fifth and final season](https://www.polygon.com/entertainment/615723/critical-role-legend-of-vox-machina-season-5-final)
+ - [VTuber CEO Admits To Spending Charity Money As Agency Implodes](https://kotaku.com/ironmouse-vshojo-vtuber-charity-funds-statement-1851786923)
+ - [Adult games are forcing the game industry into a spiritual crisis](https://www.polygon.com/news/615910/itchio-steam-sex-adult-games-delisting-pulled-vice-controversy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
