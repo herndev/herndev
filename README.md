@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s AI Overviews, which a recent Pew study shows reduce clickthrough rates, are further eroding traffic to original publishers by linking to aggregators &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250724/p8#a250724p8)
- - [Gamma Data: China&#39;s female-oriented gaming market surged 124% YoY to $1B in 2024, driven by mobile game Love and Deepspace, which earned $400M, per Sensor Tower &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250724/p7#a250724p7)
- - [Another Galaxy S26 Ultra leak pours cold water on a battery upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-battery-leak-3580481/)<!-- TECH:END -->
+ - [YouTube has become a valuable resource for professional chefs and, in recent years, has helped skilled amateurs build culinary reputations and open restaurants &lpar;Kate Krader/Bloomberg&rpar;](http://www.techmeme.com/250724/p9#a250724p9)
+ - [Americans Are Obsessed With Watching Short Video Dramas From China](https://www.wired.com/story/china-reel-short-dramas-video-social-media/)
+ - [Google&#39;s AI Overviews, which a recent Pew study shows reduce clickthrough rates, are further eroding traffic to original publishers by linking to aggregators &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250724/p8#a250724p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
