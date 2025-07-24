@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
- - ⏩ [That ending](http://9gag.com/gag/aByo99N)
- - 👉 [Fill the void](http://9gag.com/gag/axymp3Y)<!-- MEMES:END -->
+ - 💣 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
+ - ⏩ [Your daily doses of:](http://9gag.com/gag/aGy7P56)
+ - 👉 [Accident with nature](http://9gag.com/gag/avy9YgX)<!-- MEMES:END -->
 
 ---
 
