@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy is a f**king moron](http://9gag.com/gag/aqyDvdR)
- - ⏩ [Accident with nature](http://9gag.com/gag/avy9YgX)
- - 👉 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)<!-- MEMES:END -->
+ - 💣 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
+ - ⏩ [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
+ - 👉 [Accident with nature](http://9gag.com/gag/avy9YgX)<!-- MEMES:END -->
 
 ---
 
