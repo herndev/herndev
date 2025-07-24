@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Camera&#39;s worst nightmare, or just a bad dream](http://9gag.com/gag/aZZR9Qn)
- - ⏩ [Catch the ball](http://9gag.com/gag/a1mO4LR)
- - 👉 [My talents are wasted here, nobody got it](http://9gag.com/gag/aXPR5zV)<!-- MEMES:END -->
+ - 💣 [That ending](http://9gag.com/gag/aByo99N)
+ - ⏩ [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
+ - 👉 [Fill the void](http://9gag.com/gag/axymp3Y)<!-- MEMES:END -->
 
 ---
 
