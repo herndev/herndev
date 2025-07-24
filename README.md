@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink satellite internet service is down everywhere](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
- - [Hands-on with iOS 26: Liquid Glass is impressive but can also be distracting, Camera redesign is solid, Call Filtering feature in the Phone app is great, more &lpar;Dan Moren/Six Colors&rpar;](http://www.techmeme.com/250724/p48#a250724p48)
- - [Google’s second Android Canary release is already out for Pixel devices](https://www.androidauthority.com/android-canary-2507-3580863/)<!-- TECH:END -->
+ - [Save $100 on the DJI Mic 2, still at an all-time low price](https://www.androidauthority.com/dji-mic-2-deal-2-3580879/)
+ - [All eyes on August as rumors suggest OpenAI is preparing to launch GPT-5](https://www.androidauthority.com/openai-gpt-5-august-launch-3580860/)
+ - [X is testing using Community Notes to highlight posts that are liked by users with different perspectives &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250724/p49#a250724p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
