@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
- - ⏩ [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
- - 👉 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)<!-- MEMES:END -->
+ - ⏩ [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)
+ - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
 
 ---
 
