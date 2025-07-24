@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rematch: 3 Million Xbox Players, a Record Breaking Beta, and the Future Beyond Season 0](https://news.xbox.com/en-us/2025/07/24/rematch-3-million-xbox-players/)
- - [If You Don’t Want To Play The Last Of Us, You Can Now Read It Instead](https://kotaku.com/last-of-us-script-hardcover-book-pre-order-part-2-1851786896)
- - [AI Weapons Maker Teases $200 Retro Console That Will Play Your Old Copy Of Mario Kart 64](https://kotaku.com/m64-mario-kart-modretro-palmer-luckey-nintendo-64-1851786895)<!-- GAME:END -->
+ - [Asphalt Celebrates 20 Years on the Track!](https://news.xbox.com/en-us/2025/07/24/asphalt-celebrates-20-years-on-the-track/)
+ - [I can&amp;#8217;t wait for FromSoftware to wrap up its multiplayer era](https://www.polygon.com/gaming/615490/from-software-multiplayer-single-player)
+ - [Relic&#39;s taken a break from real-time strategy to make a turn-based hybrid of Advance Wars and cult classic Impossible Creatures—but it feels totally removed from the studio&#39;s legendary legacy](https://www.pcgamer.com/games/strategy/relics-taken-a-break-from-real-time-strategy-to-make-a-turn-based-hybrid-of-advance-wars-and-cult-classic-impossible-creatures-but-it-feels-totally-removed-from-the-studios-legendary-legacy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
