@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Supergiant swears Hades 2&#39;s new update is the last one before it leaves early access and releases in full](https://www.pcgamer.com/games/action/supergiant-swears-hades-2s-new-update-is-the-last-one-before-it-leaves-early-access-and-releases-in-full/)
- - [Call of Duty is firmly in its slop era, and now it&#39;s Battlefield 6&#39;s game to lose](https://www.pcgamer.com/games/call-of-duty/call-of-duty-is-firmly-in-its-slop-era-and-now-its-battlefield-6s-game-to-lose/)
- - [Racing Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/611878/racing-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
+ - [World of Warcraft Classic player loses world first race by 2 minutes and 22 seconds after someone decided to verify it just in case](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-classic-player-loses-world-first-race-by-2-minutes-and-22-seconds-after-someone-decided-to-verify-it-just-in-case/)
+ - [7 years on, CliffyB is &#39;still bitter&#39; about people gravedancing when his studio Boss Key failed: &#39;It was amazing at first and then, well, it broke me for a good long while&#39;](https://www.pcgamer.com/games/fps/7-years-on-cliffyb-is-still-bitter-about-people-gravedancing-when-his-studio-boss-key-failed-it-was-amazing-at-first-and-then-well-it-broke-me-for-a-good-long-while/)
+ - [Supergiant swears Hades 2&#39;s new update is the last one before it leaves early access and releases in full](https://www.pcgamer.com/games/action/supergiant-swears-hades-2s-new-update-is-the-last-one-before-it-leaves-early-access-and-releases-in-full/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
