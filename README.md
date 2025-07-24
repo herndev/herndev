@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android might soon trust your smartwatch to help verify your identity &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-identity-check-smartwatch-apk-teardown-3580790/)
- - [Be strong, let everyone else risk their devices and data with the new betas](https://appleinsider.com/articles/25/06/09/be-strong-let-everyone-else-risk-their-devices-and-data-with-the-new-betas?utm_source=rss)
- - [Grab a 2025 iPad for as low as $299 heading into the weekend](https://appleinsider.com/articles/25/07/24/grab-a-2025-ipad-for-as-low-as-299-heading-into-the-weekend?utm_source=rss)<!-- TECH:END -->
+ - [Facer is finally returning to Wear OS 5 smartwatches](https://www.androidauthority.com/facer-return-to-wear-os-5-3580646/)
+ - [Walmart consolidates its AI agents into four &quot;super agents&quot;, for customers, staff, engineers, and sellers/suppliers, using Anthropic&#39;s Model Context Protocol &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250724/p42#a250724p42)
+ - [iOS 26 &amp; iPadOS 26 dev beta 4 updated to match public release build](https://appleinsider.com/articles/25/07/24/ios-26-ipados-26-dev-beta-4-updated-to-match-public-release-build?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
