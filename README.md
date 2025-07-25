@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your next Pixel update could make it easier to check your Now Playing history &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-now-playing-app-drawer-icon-apk-teardown-3581122/)
- - [Microsoft previews Copilot Appearance, a virtual character with real-time expressions, voice, and conversational memory, for some users in the US, UK, Canada &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250725/p14#a250725p14)
- - [How to make your iPhone homescreen icons clear using iOS 26](https://www.theverge.com/tech/713748/ios-26-iphone-liquid-glass-home-screen-how-to)<!-- TECH:END -->
+ - [Bluetti&amp;#8217;s small, camp-friendly generator is over 30 percent off](https://www.theverge.com/tech/713552/bluetti-ac2p-portable-power-station-samsung-galaxy-s24-ultra-deal-sale)
+ - [App Store developers must now provide age rating details](https://appleinsider.com/articles/25/07/25/app-store-developers-must-now-provide-age-rating-details?utm_source=rss)
+ - [What iPhone Upgrade Program users need to know about AppleCare One](https://appleinsider.com/articles/25/07/25/what-iphone-upgrade-program-users-need-to-know-about-applecare-one?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
