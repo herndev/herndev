@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile is crushing AT&amp;T and Verizon, and these plans are the secret sauce](https://www.androidauthority.com/t-mobile-q2-2025-postpaid-subscriber-additions-successful-plans-3580920/)
  - [Intel plans to cut its workforce from 96,400 that it reported at the end of June to 75,000, or about 15%, through attrition and &quot;other means&quot; by the end of 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250724/p55#a250724p55)
- - [Aidoc, which uses AI to help doctors make real-time clinical decisions, raised $150M led by General Catalyst and Square Peg, bringing its total funding to $370M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250724/p54#a250724p54)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, July 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-july-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Aidoc, which uses AI to help doctors make real-time clinical decisions, raised $150M led by General Catalyst and Square Peg, bringing its total funding to $370M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250724/p54#a250724p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
