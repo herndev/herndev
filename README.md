@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tea says hackers accessed a database from more than two years ago, leaking 72,000 images, including 13,000 verification photos and images of government IDs &lpar;NBC News&rpar;](http://www.techmeme.com/250725/p25#a250725p25)
- - [DJI couldn’t confirm or deny it disguised this drone to evade a US ban](https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon)
- - [Fresh Pixel 10 leak shows off the series in more than just Moonstone](https://www.androidauthority.com/pixel-10-series-fresh-renders-3581248/)<!-- TECH:END -->
+ - [Survey shows one Pixel 10 color is a clear fan favorite](https://www.androidauthority.com/google-pixel-10-colors-poll-results-3581260/)
+ - [Palantir becomes the 20th most valuable US company, after its stock more than doubled in 2025, giving it a market cap of $375B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250725/p26#a250725p26)
+ - [Tea says hackers accessed a database from more than two years ago, leaking 72,000 images, including 13,000 verification photos and images of government IDs &lpar;NBC News&rpar;](http://www.techmeme.com/250725/p25#a250725p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
