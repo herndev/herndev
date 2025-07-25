@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google gets its swag back](https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag)
- - [Your Weekend Streaming Watch List: &#39;Happy Gilmore 2,&#39; &#39;Washington Black&#39; and More](https://www.cnet.com/tech/services-and-software/your-weekend-streaming-watch-list-happy-gilmore-2-washington-black-and-more/#ftag=CAD590a51e)
- - [Intel plans to spin off its Network and Edge Group into a standalone company and says it will seek outside investment for the business unit &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/250725/p22#a250725p22)<!-- TECH:END -->
+ - [Tea says hackers accessed a database from more than two years ago, leaking 72,000 images, including 13,000 verification photos and images of government IDs &lpar;NBC News&rpar;](http://www.techmeme.com/250725/p25#a250725p25)
+ - [DJI couldn’t confirm or deny it disguised this drone to evade a US ban](https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon)
+ - [Fresh Pixel 10 leak shows off the series in more than just Moonstone](https://www.androidauthority.com/pixel-10-series-fresh-renders-3581248/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
