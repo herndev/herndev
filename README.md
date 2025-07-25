@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next version of RCS Universal Profile has arrived, and here’s what’s new](https://www.androidauthority.com/new-rcs-upgrade-voice-note-quality-3581054/)
- - [I &amp;#8216;fooled&amp;#8217; Samsung&amp;#8217;s new antioxidant feature with a Cheez-It](https://www.theverge.com/hands-on/713172/samsung-galaxy-watch-8-antioxidant-index-cheezits)
- - [AppleCare One, Apple Intelligence, and the iPhone Fold&#39;s display problems on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/25/applecare-one-apple-intelligence-and-the-iphone-folds-display-problems-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
+ - [Apple products eligible for US tax free holiday listed for nine states](https://appleinsider.com/articles/25/07/25/apple-products-eligible-for-us-tax-free-holiday-listed-for-nine-states?utm_source=rss)
+ - [I tried Gemini on the Pixel Watch. Here’s what it’s like](https://www.theverge.com/gadgets/713532/gemini-wear-os-pixel-watch-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
