@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetti&amp;#8217;s small, camp-friendly generator is over 30 percent off](https://www.theverge.com/tech/713552/bluetti-ac2p-portable-power-station-samsung-galaxy-s24-ultra-deal-sale)
- - [App Store developers must now provide age rating details](https://appleinsider.com/articles/25/07/25/app-store-developers-must-now-provide-age-rating-details?utm_source=rss)
- - [What iPhone Upgrade Program users need to know about AppleCare One](https://appleinsider.com/articles/25/07/25/what-iphone-upgrade-program-users-need-to-know-about-applecare-one?utm_source=rss)<!-- TECH:END -->
+ - [Pebble is officially Pebble again](https://www.theverge.com/news/713931/pebble-smartwatch-name-trademark-recovered)
+ - [Sen. Alex Padilla grants the Internet Archive federal depository status, making it a part of a network of over 1,100 libraries that archive government documents &lpar;Morgan Sung/KQED&rpar;](http://www.techmeme.com/250725/p17#a250725p17)
+ - [Netflix’s push into tie-in games now includes two weird Happy Gilmore titles](https://www.theverge.com/games/713886/netflix-happy-gilmore-2-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
