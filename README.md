@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 FE leak reveals new colors, bad news for RAM and storage](https://www.androidauthority.com/samsung-galaxy-s25-fe-ram-storage-colors-leak-3580956/)
- - [Samsung could finally tackle shutter lag with this Galaxy S26 Ultra upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-200mp-camera-upgrade-3580931/)
- - [Samsung flexes its customization muscles with LockStar’s new fingerprint unlock animations](https://www.androidauthority.com/samsung-good-lock-lockstar-one-ui-8-3580942/)<!-- TECH:END -->
+ - [This fan-made Galaxy S26 Ultra render is the phone I wish Samsung would make](https://www.androidauthority.com/galaxy-s26-ultra-fan-made-render-i-wish-samsung-would-make-3580664/)
+ - [Your Android phone can now control more of your PC, and here’s how](https://www.androidauthority.com/android-phone-link-windows-pc-3580975/)
+ - [Intel says it may exit cutting-edge manufacturing if it can&#39;t secure customers for its 14A process, a major shift for the long-time steward of Moore&#39;s Law &lpar;Reuters&rpar;](http://www.techmeme.com/250725/p3#a250725p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
