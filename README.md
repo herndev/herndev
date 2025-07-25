@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All your questions about the Fantastic Four’s cosmic baby Franklin Richards, answered](https://www.polygon.com/marvel/615574/franklin-richards-fantastic-four-first-steps-galactus)
  - [Elden Ring&#39;s DLC has moved over 10 million copies, and Nightreign&#39;s already on 5 million sold](https://www.pcgamer.com/games/rpg/elden-rings-dlc-has-moved-over-10-million-copies-and-nightreigns-already-on-5-million-sold/)
- - [&#39;I can&#39;t believe I beat Minecraft in an Overwatch queue!&#39;: Twitch streamer turns interminable queue times into her advantage, completing Minecraft over 9 total hours of waiting for matches to pop](https://www.pcgamer.com/games/fps/i-cant-believe-i-beat-minecraft-in-an-overwatch-queue-twitch-streamer-turns-interminable-queue-times-into-her-advantage-completing-minecraft-over-9-total-hours-of-waiting-for-matches-to-pop/)
- - [Radiance Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615616/radiance-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
+ - [Groove Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615882/groove-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
