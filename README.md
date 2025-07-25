@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
+ - 💣 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
  - ⏩ [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)
- - 👉 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)<!-- MEMES:END -->
+ - 👉 [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)<!-- MEMES:END -->
 
 ---
 
