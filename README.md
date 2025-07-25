@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
+ - 💣 [Jeffrey Epstein asserts his 5th, 6th, and 14th Amendment rights when asked if he socialized with Donald Trump in the presence of females under the age of 18](http://9gag.com/gag/agmj33w)
  - ⏩ [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
- - 👉 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)<!-- MEMES:END -->
+ - 👉 [Show me what really matters](http://9gag.com/gag/a9yBby1)<!-- MEMES:END -->
 
 ---
 
