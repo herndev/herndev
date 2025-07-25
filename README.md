@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 28 to August 1](https://news.xbox.com/en-us/2025/07/25/next-week-on-xbox-new-games-for-july-28-to-august-1/)
- - [Every MCU Movie, Ranked From Worst To Best &lpar;Now With Fantastic Four: First Steps&rpar;](https://kotaku.com/marvel-cinematic-universe-mcu-best-worst-movie-avengers-1851765913)
- - [Assassin&#39;s Creed Shadows has its summer roadmap and, with all due respect, how did it take this long to get a fast-forward time option?](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-has-its-summer-roadmap-and-with-all-due-respect-how-did-it-take-this-long-to-get-a-fast-forward-time-option/)<!-- GAME:END -->
+ - [So, Is Robert Downey Jr. In Fantastic Four: First Steps As Doctor Doom?](https://kotaku.com/fantastic-four-first-steps-doctor-doom-post-credits-rdj-1851786982)
+ - [Ubisoft says Outlaws failed because Star Wars is less popular now, but it’s not that simple](https://www.polygon.com/star-wars/615326/star-wars-outlaws-ubisoft-less-popular)
+ - [Elden Ring Nightreign’s duos mode is coming next week](https://www.polygon.com/news/616151/elden-ring-nightreign-duos-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
