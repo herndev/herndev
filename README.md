@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A single guessed password has led to a cyberattack that put a fully insured 158-year-old company out of business despite security practices being up to code](https://www.pcgamer.com/hardware/a-single-guessed-password-has-led-to-a-cyberattack-that-put-a-fully-insured-158-year-old-company-out-of-business-despite-security-practices-being-up-to-code/)
- - [The Spiritfarer team&amp;#8217;s next game is all about messed-up families and super cool swords](https://www.polygon.com/gaming/615990/at-fates-end-preview-thunder-lotus-games-interview)
- - [Intel&#39;s German megafab dream is over: CEO Lip-Bu Tan kills the project, beset with setbacks from EU funding to ancient neolithic remains, to save cash](https://www.pcgamer.com/hardware/processors/intels-german-megafab-dream-is-over-ceo-lip-bu-tan-kills-the-project-beset-with-setbacks-from-eu-funding-to-ancient-neolithic-remains-to-save-cash/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 28 to August 1](https://news.xbox.com/en-us/2025/07/25/next-week-on-xbox-new-games-for-july-28-to-august-1/)
+ - [Every MCU Movie, Ranked From Worst To Best &lpar;Now With Fantastic Four: First Steps&rpar;](https://kotaku.com/marvel-cinematic-universe-mcu-best-worst-movie-avengers-1851765913)
+ - [Assassin&#39;s Creed Shadows has its summer roadmap and, with all due respect, how did it take this long to get a fast-forward time option?](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-has-its-summer-roadmap-and-with-all-due-respect-how-did-it-take-this-long-to-get-a-fast-forward-time-option/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
