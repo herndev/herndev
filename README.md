@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
- - ⏩ [That ending](http://9gag.com/gag/aByo99N)
- - 👉 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)<!-- MEMES:END -->
+ - 💣 [Its starting to annoy me](http://9gag.com/gag/awyv0P8)
+ - ⏩ [Still waiting for the next Cornetto Trilogy installment.](http://9gag.com/gag/a34nPL7)
+ - 👉 [Christian Bale type of dedication](http://9gag.com/gag/a7oALnA)<!-- MEMES:END -->
 
 ---
 
