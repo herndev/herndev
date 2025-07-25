@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Fantastic Four Movie Introduces Franklin Richards, And He Could Change The MCU Forever](https://kotaku.com/fantastic-four-first-steps-franklin-powers-explained-1851786996)
- - [Donkey Kong Bananza&#39;s Loading Screen Artwork Is So Damn Good](https://kotaku.com/donkey-kong-bananza-art-work-loading-screen-switch-2-1851786938)
- - [The majority of teams in the top 100 for Destiny 2&#39;s latest contest mode raid cheated—and as an MMO player, I am neither shocked nor surprised](https://www.pcgamer.com/games/fps/the-majority-of-teams-in-the-top-100-for-destiny-2s-latest-contest-mode-raid-cheated-and-as-an-mmo-player-i-am-neither-shocked-nor-surprised/)<!-- GAME:END -->
+ - [Fallout Director Is Producing A Wolfenstein Series For Amazon](https://kotaku.com/fallout-tv-show-wolfenstein-jonah-nolan-amazon-nazis-1851786995)
+ - [Wolfenstein TV show in the works at Amazon since &amp;#8216;the story of killing Nazis is evergreen&amp;#8217;](https://www.polygon.com/news/616365/wolfenstein-tv-show-amazon)
+ - [Hulk Hogan&#39;s Sex Tape Lawsuit Changed Kotaku Forever](https://kotaku.com/hulk-hogan-sex-tape-gawker-lawsuit-kotaku-go-media-1851787000)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
