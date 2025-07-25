@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Treasury sanctions three senior North Korean officials accused of tricking companies into hiring North Koreans using stolen identities as IT workers &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250724/p53#a250724p53)
- - [Time is running out for these Samsung Galaxy Watch 8 pre-order deals](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-pre-order-deals-3580877/)
- - [A UK court sentences a 21-year-old student who created phishing kits that mimicked government, bank, and charity websites, linked to £100M of fraud &lpar;Shane Hickey/The Guardian&rpar;](http://www.techmeme.com/250724/p52#a250724p52)<!-- TECH:END -->
+ - [Intel plans to cut its workforce from 96,400 that it reported at the end of June to 75,000, or about 15%, through attrition and &quot;other means&quot; by the end of 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250724/p55#a250724p55)
+ - [Aidoc, which uses AI to help doctors make real-time clinical decisions, raised $150M led by General Catalyst and Square Peg, bringing its total funding to $370M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250724/p54#a250724p54)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, July 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-july-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
