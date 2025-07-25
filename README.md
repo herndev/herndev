@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)
- - ⏩ [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
- - 👉 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)<!-- MEMES:END -->
+ - 💣 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
+ - ⏩ [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 👉 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)<!-- MEMES:END -->
 
 ---
 
