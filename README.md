@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NordVPN Coupon and Discount Codes: 76% Off](https://www.wired.com/story/nordvpn-coupon/)
- - [Galaxy S25 users, you’ll have to wait a bit longer for the stable One UI 8 update](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-beta-4-update-3580926/)
- - [Tether says it has ~250K Tether Gold tokens in circulation as of Q2 2025, backed 1:1 by a troy ounce of physical gold; the stablecoin was launched in Jan. 2020 &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250725/p1#a250725p1)<!-- TECH:END -->
+ - [Samsung could finally tackle shutter lag with this Galaxy S26 Ultra upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-200mp-camera-upgrade-3580931/)
+ - [Samsung flexes its customization muscles with LockStar’s new fingerprint unlock animations](https://www.androidauthority.com/samsung-good-lock-lockstar-one-ui-8-3580942/)
+ - [Sources: repair demand in China for Nvidia&#39;s banned AI chips, including H100 and A100, surges as ~12 firms now repair chips that made their way into the country &lpar;Reuters&rpar;](http://www.techmeme.com/250725/p2#a250725p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
