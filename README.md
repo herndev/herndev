@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
- - ⏩ [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
- - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
+ - 💣 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)
+ - ⏩ [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
+ - 👉 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)<!-- MEMES:END -->
 
 ---
 
