@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft partners with Austria-based Benteler to deploy autonomous shuttles in the US in late 2026, to be initially deployed in partnership with airports and cities &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250725/p11#a250725p11)
- - [Anysphere launches Bugbot, an AI-powered tool that integrates with GitHub to detect coding errors introduced by humans or AI agents, for $40 per month per user &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250725/p10#a250725p10)
- - [Apple researchers take aim at AI hallucinations and true conversations](https://appleinsider.com/articles/25/07/25/apple-researchers-take-aim-at-ai-hallucinations-and-true-conversations?utm_source=rss)<!-- TECH:END -->
+ - [Your next Pixel update could make it easier to check your Now Playing history &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-now-playing-app-drawer-icon-apk-teardown-3581122/)
+ - [Microsoft previews Copilot Appearance, a virtual character with real-time expressions, voice, and conversational memory, for some users in the US, UK, Canada &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250725/p14#a250725p14)
+ - [How to make your iPhone homescreen icons clear using iOS 26](https://www.theverge.com/tech/713748/ios-26-iphone-liquid-glass-home-screen-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
