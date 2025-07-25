@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink’s satellite internet is back online after a massive outage](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
- - [Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It&#39;s a Slippery Slope to More Censorship](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)
- - [Don’t get your hopes up for One UI 9 leaks as Samsung fixes this major loophole](https://www.androidauthority.com/samsung-one-ui-leaks-loophole-patched-3580897/)<!-- TECH:END -->
+ - [Paramount-Skydance merger approved after companies agree to government speech demands](https://www.theverge.com/news/713587/paramount-skydance-merger-approved-fcc-speech-dei-bias)
+ - [Blender is building a full-featured iPad app, but it&#39;s not clear when it will be released](https://appleinsider.com/articles/25/07/24/blender-is-building-a-full-featured-ipad-app-but-its-not-clear-when-it-will-be-released?utm_source=rss)
+ - [Hands-on with macOS 26: the interface is a mess, like a poorly imported iOS design, but the power of Spotlight and Shortcuts will delight many longtime users &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/250724/p51#a250724p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
