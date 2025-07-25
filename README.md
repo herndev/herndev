@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 Max Mac Studio plunges to $899 at Amazon](https://appleinsider.com/articles/25/07/25/apples-m2-max-mac-studio-plunges-to-899-at-amazon?utm_source=rss)
- - [Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson](https://www.wired.com/story/inside-katie-drummonds-viral-interview-with-bryan-johnson/)
- - [Facebook ranks worst for online harassment, according to a global activist survey](https://www.theverge.com/news/713976/online-harassment-meta-social-media-environmental-activists)<!-- TECH:END -->
+ - [Google gets its swag back](https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag)
+ - [Your Weekend Streaming Watch List: &#39;Happy Gilmore 2,&#39; &#39;Washington Black&#39; and More](https://www.cnet.com/tech/services-and-software/your-weekend-streaming-watch-list-happy-gilmore-2-washington-black-and-more/#ftag=CAD590a51e)
+ - [Intel plans to spin off its Network and Edge Group into a standalone company and says it will seek outside investment for the business unit &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/250725/p22#a250725p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
