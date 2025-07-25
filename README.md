@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Close game](http://9gag.com/gag/aLnrK4v)
- - ⏩ [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)
- - 👉 [We live with the evil](http://9gag.com/gag/a4PV99Z)<!-- MEMES:END -->
+ - 💣 [Final road, or something, idk, i don&#39;t watch movies](http://9gag.com/gag/amonNp2)
+ - ⏩ [Nope](http://9gag.com/gag/amonNny)
+ - 👉 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)<!-- MEMES:END -->
 
 ---
 
