@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
- - ⏩ [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
- - 👉 [That ending](http://9gag.com/gag/aByo99N)<!-- MEMES:END -->
+ - 💣 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
+ - ⏩ [That ending](http://9gag.com/gag/aByo99N)
+ - 👉 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)<!-- MEMES:END -->
 
 ---
 
