@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pebble is officially Pebble again](https://www.theverge.com/news/713931/pebble-smartwatch-name-trademark-recovered)
- - [Sen. Alex Padilla grants the Internet Archive federal depository status, making it a part of a network of over 1,100 libraries that archive government documents &lpar;Morgan Sung/KQED&rpar;](http://www.techmeme.com/250725/p17#a250725p17)
- - [Netflix’s push into tie-in games now includes two weird Happy Gilmore titles](https://www.theverge.com/games/713886/netflix-happy-gilmore-2-games)<!-- TECH:END -->
+ - [You can now easily buy a Switch 2 without jumping through hoops](https://www.theverge.com/tech/713828/nintendo-switch-in-stock-best-buy-amazon-target-walmart)
+ - [Elon Musk is about to ruin Vine just like he’s ruined everything else](https://www.androidauthority.com/elon-musk-ai-vine-3580873/)
+ - [Superman&amp;#8217;s Fortress of Solitude is a Silver Age man cave inspired by nature&amp;#8217;s beauty](https://www.theverge.com/film/713692/superman-interview-beth-mickle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
