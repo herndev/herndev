@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: US and UK entry-level graduate job listings have plunged since 2022, but there&#39;s only tentative evidence of AI-related disruption in some occupations &lpar;Financial Times&rpar;](http://www.techmeme.com/250725/p4#a250725p4)
- - [Why I love &lpar;and hate&rpar; the Pixel Watch 4’s utterly bizarre new charger](https://www.androidauthority.com/love-hate-google-pixel-watch-4-bizarre-new-charger-3580662/)
- - [Samsung might stop debuting Android updates with Galaxy S phones for good](https://www.androidauthority.com/samsung-one-ui-update-plan-leak-3580996/)<!-- TECH:END -->
+ - [Welcome to the Era of Online Age Verification. Are You Ready to Prove Yourself?](https://www.cnet.com/tech/services-and-software/welcome-to-the-era-of-online-age-verification-are-you-ready-to-prove-yourself/#ftag=CAD590a51e)
+ - [Motorola is finally beating Samsung at its own game](https://www.androidauthority.com/motorola-beating-samsung-own-game-phone-deals-3580818/)
+ - [Errors found in US judge’s withdrawn decision stink of AI](https://www.theverge.com/news/713653/judge-withdraws-cormedix-case-ai-citation-errors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
