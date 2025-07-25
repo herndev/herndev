@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
- - ⏩ [That ending](http://9gag.com/gag/aByo99N)
- - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
+ - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - ⏩ [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
+ - 👉 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)<!-- MEMES:END -->
 
 ---
 
