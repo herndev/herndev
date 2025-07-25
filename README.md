@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [So, Is Robert Downey Jr. In Fantastic Four: First Steps As Doctor Doom?](https://kotaku.com/fantastic-four-first-steps-doctor-doom-post-credits-rdj-1851786982)
- - [Ubisoft says Outlaws failed because Star Wars is less popular now, but it’s not that simple](https://www.polygon.com/star-wars/615326/star-wars-outlaws-ubisoft-less-popular)
- - [Elden Ring Nightreign’s duos mode is coming next week](https://www.polygon.com/news/616151/elden-ring-nightreign-duos-release-date)<!-- GAME:END -->
+ - [Tales of the Shire: How to be a Hobbit – an Essential Guide to Settling into Bywater](https://news.xbox.com/en-us/2025/07/25/tales-of-the-shire-hobbit-game-guide/)
+ - [Fantastic Four: First Steps still manages to have a Stan Lee cameo](https://www.polygon.com/marvel/615957/fantastic-four-first-steps-stan-lee-cameo-jack-kirby)
+ - [Warhammer 40k: Rogue Trader dev Owlcat comes out swinging in support of Stop Killing Games: &#39;Every player deserves lasting access to what they’ve paid for&#39;](https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-dev-owlcat-comes-out-swinging-in-support-of-stop-killing-games-every-player-deserves-lasting-access-to-what-theyve-paid-for/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
