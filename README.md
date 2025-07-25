@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now easily buy a Switch 2 without jumping through hoops](https://www.theverge.com/tech/713828/nintendo-switch-in-stock-best-buy-amazon-target-walmart)
- - [Elon Musk is about to ruin Vine just like he’s ruined everything else](https://www.androidauthority.com/elon-musk-ai-vine-3580873/)
- - [Superman&amp;#8217;s Fortress of Solitude is a Silver Age man cave inspired by nature&amp;#8217;s beauty](https://www.theverge.com/film/713692/superman-interview-beth-mickle)<!-- TECH:END -->
+ - [Apple&#39;s M2 Max Mac Studio plunges to $899 at Amazon](https://appleinsider.com/articles/25/07/25/apples-m2-max-mac-studio-plunges-to-899-at-amazon?utm_source=rss)
+ - [Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson](https://www.wired.com/story/inside-katie-drummonds-viral-interview-with-bryan-johnson/)
+ - [Facebook ranks worst for online harassment, according to a global activist survey](https://www.theverge.com/news/713976/online-harassment-meta-social-media-environmental-activists)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
