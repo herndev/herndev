@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)
- - ⏩ [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
- - 👉 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)<!-- MEMES:END -->
+ - 💣 [Remember this?](http://9gag.com/gag/a2vGN5e)
+ - ⏩ [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)
+ - 👉 [` without further ado`](http://9gag.com/gag/aYQmNOx)<!-- MEMES:END -->
 
 ---
 
