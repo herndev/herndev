@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light: The Beast Slips To September 19, Despite Glowing Previews](https://kotaku.com/dying-light-the-beast-release-date-delay-techland-1851786943)
- - [War of the Worlds Via Found Footage Looks Like A Good Time](https://kotaku.com/war-of-the-worlds-amazon-prime-ice-cube-movie-trailer-1851786939)
- - [SteelSeries Arctis Nova 3X review](https://www.pcgamer.com/hardware/gaming-headsets/steelseries-arctis-nova-3x-review/)<!-- GAME:END -->
+ - [A single guessed password has led to a cyberattack that put a fully insured 158-year-old company out of business despite security practices being up to code](https://www.pcgamer.com/hardware/a-single-guessed-password-has-led-to-a-cyberattack-that-put-a-fully-insured-158-year-old-company-out-of-business-despite-security-practices-being-up-to-code/)
+ - [The Spiritfarer team&amp;#8217;s next game is all about messed-up families and super cool swords](https://www.polygon.com/gaming/615990/at-fates-end-preview-thunder-lotus-games-interview)
+ - [Intel&#39;s German megafab dream is over: CEO Lip-Bu Tan kills the project, beset with setbacks from EU funding to ancient neolithic remains, to save cash](https://www.pcgamer.com/hardware/processors/intels-german-megafab-dream-is-over-ceo-lip-bu-tan-kills-the-project-beset-with-setbacks-from-eu-funding-to-ancient-neolithic-remains-to-save-cash/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
