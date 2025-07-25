@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - ⏩ [I could hear this comment](http://9gag.com/gag/aRBDw7B)
- - 👉 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)<!-- MEMES:END -->
+ - 💣 [Sports rewards the cream that rises to the top.](http://9gag.com/gag/avym2oW)
+ - ⏩ [That ending](http://9gag.com/gag/aByo99N)
+ - 👉 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)<!-- MEMES:END -->
 
 ---
 
