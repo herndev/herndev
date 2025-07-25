@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Welcome to the Era of Online Age Verification. Are You Ready to Prove Yourself?](https://www.cnet.com/tech/services-and-software/welcome-to-the-era-of-online-age-verification-are-you-ready-to-prove-yourself/#ftag=CAD590a51e)
- - [Motorola is finally beating Samsung at its own game](https://www.androidauthority.com/motorola-beating-samsung-own-game-phone-deals-3580818/)
- - [Errors found in US judge’s withdrawn decision stink of AI](https://www.theverge.com/news/713653/judge-withdraws-cormedix-case-ai-citation-errors)<!-- TECH:END -->
+ - [The next version of RCS Universal Profile has arrived, and here’s what’s new](https://www.androidauthority.com/new-rcs-upgrade-voice-note-quality-3581054/)
+ - [I &amp;#8216;fooled&amp;#8217; Samsung&amp;#8217;s new antioxidant feature with a Cheez-It](https://www.theverge.com/hands-on/713172/samsung-galaxy-watch-8-antioxidant-index-cheezits)
+ - [AppleCare One, Apple Intelligence, and the iPhone Fold&#39;s display problems on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/25/applecare-one-apple-intelligence-and-the-iphone-folds-display-problems-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
