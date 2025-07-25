@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Spider-Man action figures will come with Magic: The Gathering cards](https://www.polygon.com/mtg-magic-the-gathering/616120/magic-the-gathering-spider-man-action-figures-cards)
- - [Marvel’s great-looking retro beat-’em-up makes the best Thor playable](https://www.polygon.com/news/616118/marvel-cosmic-invasion-characters-silver-surfer-beta-ray-bill)
- - [Inside the explosive ‘brainrot’ game that’s got millions of kids crashing out](https://www.polygon.com/616251/steal-a-brainrot-roblox-explainer-what-is)<!-- GAME:END -->
+ - [The Internet Is Getting Real Weird About Pedro Pascal All Of A Sudden](https://kotaku.com/pedro-pascal-vanessa-kirby-anxiety-touch-controversy-1851787007)
+ - [How to farm gold in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616440/gold-farm-how-to)
+ - [New Spider-Man action figures will come with Magic: The Gathering cards](https://www.polygon.com/mtg-magic-the-gathering/616120/magic-the-gathering-spider-man-action-figures-cards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
