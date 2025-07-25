@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All your questions about the Fantastic Four’s cosmic baby Franklin Richards, answered](https://www.polygon.com/marvel/615574/franklin-richards-fantastic-four-first-steps-galactus)
- - [Elden Ring&#39;s DLC has moved over 10 million copies, and Nightreign&#39;s already on 5 million sold](https://www.pcgamer.com/games/rpg/elden-rings-dlc-has-moved-over-10-million-copies-and-nightreigns-already-on-5-million-sold/)
- - [Groove Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615882/groove-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
+ - [Half-Life 2 just got a patch that fixes a progress-blocking teleporter bug and makes a train easier to race](https://www.pcgamer.com/games/fps/half-life-2-just-got-a-patch-that-fixes-a-progress-blocking-teleporter-bug-and-makes-a-train-easier-to-race/)
+ - [Today&#39;s Wordle answer for Friday, July 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-25-2025/)
+ - [All your questions about the Fantastic Four’s cosmic baby Franklin Richards, answered](https://www.polygon.com/marvel/615574/franklin-richards-fantastic-four-first-steps-galactus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
