@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Half-Life 2 just got a patch that fixes a progress-blocking teleporter bug and makes a train easier to race](https://www.pcgamer.com/games/fps/half-life-2-just-got-a-patch-that-fixes-a-progress-blocking-teleporter-bug-and-makes-a-train-easier-to-race/)
- - [Today&#39;s Wordle answer for Friday, July 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-25-2025/)
- - [All your questions about the Fantastic Four’s cosmic baby Franklin Richards, answered](https://www.polygon.com/marvel/615574/franklin-richards-fantastic-four-first-steps-galactus)<!-- GAME:END -->
+ - [Dying Light: The Beast Slips To September 19, Despite Glowing Previews](https://kotaku.com/dying-light-the-beast-release-date-delay-techland-1851786943)
+ - [War of the Worlds Via Found Footage Looks Like A Good Time](https://kotaku.com/war-of-the-worlds-amazon-prime-ice-cube-movie-trailer-1851786939)
+ - [SteelSeries Arctis Nova 3X review](https://www.pcgamer.com/hardware/gaming-headsets/steelseries-arctis-nova-3x-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
