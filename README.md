@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This fan-made Galaxy S26 Ultra render is the phone I wish Samsung would make](https://www.androidauthority.com/galaxy-s26-ultra-fan-made-render-i-wish-samsung-would-make-3580664/)
- - [Your Android phone can now control more of your PC, and here’s how](https://www.androidauthority.com/android-phone-link-windows-pc-3580975/)
- - [Intel says it may exit cutting-edge manufacturing if it can&#39;t secure customers for its 14A process, a major shift for the long-time steward of Moore&#39;s Law &lpar;Reuters&rpar;](http://www.techmeme.com/250725/p3#a250725p3)<!-- TECH:END -->
+ - [Analysis: US and UK entry-level graduate job listings have plunged since 2022, but there&#39;s only tentative evidence of AI-related disruption in some occupations &lpar;Financial Times&rpar;](http://www.techmeme.com/250725/p4#a250725p4)
+ - [Why I love &lpar;and hate&rpar; the Pixel Watch 4’s utterly bizarre new charger](https://www.androidauthority.com/love-hate-google-pixel-watch-4-bizarre-new-charger-3580662/)
+ - [Samsung might stop debuting Android updates with Galaxy S phones for good](https://www.androidauthority.com/samsung-one-ui-update-plan-leak-3580996/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
