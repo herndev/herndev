@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
- - [Apple products eligible for US tax free holiday listed for nine states](https://appleinsider.com/articles/25/07/25/apple-products-eligible-for-us-tax-free-holiday-listed-for-nine-states?utm_source=rss)
- - [I tried Gemini on the Pixel Watch. Here’s what it’s like](https://www.theverge.com/gadgets/713532/gemini-wear-os-pixel-watch-hands-on)<!-- TECH:END -->
+ - [Lyft partners with Austria-based Benteler to deploy autonomous shuttles in the US in late 2026, to be initially deployed in partnership with airports and cities &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250725/p11#a250725p11)
+ - [Anysphere launches Bugbot, an AI-powered tool that integrates with GitHub to detect coding errors introduced by humans or AI agents, for $40 per month per user &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250725/p10#a250725p10)
+ - [Apple researchers take aim at AI hallucinations and true conversations](https://appleinsider.com/articles/25/07/25/apple-researchers-take-aim-at-ai-hallucinations-and-true-conversations?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
