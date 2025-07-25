@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nope](http://9gag.com/gag/amonNny)
- - ⏩ [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
- - 👉 [Baldomero](http://9gag.com/gag/aQzVPZd)<!-- MEMES:END -->
+ - 💣 [Close game](http://9gag.com/gag/aLnrK4v)
+ - ⏩ [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)
+ - 👉 [We live with the evil](http://9gag.com/gag/a4PV99Z)<!-- MEMES:END -->
 
 ---
 
