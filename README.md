@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout Director Is Producing A Wolfenstein Series For Amazon](https://kotaku.com/fallout-tv-show-wolfenstein-jonah-nolan-amazon-nazis-1851786995)
- - [Wolfenstein TV show in the works at Amazon since &amp;#8216;the story of killing Nazis is evergreen&amp;#8217;](https://www.polygon.com/news/616365/wolfenstein-tv-show-amazon)
- - [Hulk Hogan&#39;s Sex Tape Lawsuit Changed Kotaku Forever](https://kotaku.com/hulk-hogan-sex-tape-gawker-lawsuit-kotaku-go-media-1851787000)<!-- GAME:END -->
+ - [New Spider-Man action figures will come with Magic: The Gathering cards](https://www.polygon.com/mtg-magic-the-gathering/616120/magic-the-gathering-spider-man-action-figures-cards)
+ - [Marvel’s great-looking retro beat-’em-up makes the best Thor playable](https://www.polygon.com/news/616118/marvel-cosmic-invasion-characters-silver-surfer-beta-ray-bill)
+ - [Inside the explosive ‘brainrot’ game that’s got millions of kids crashing out](https://www.polygon.com/616251/steal-a-brainrot-roblox-explainer-what-is)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
