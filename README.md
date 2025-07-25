@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After selling to Krafton, Last Epoch dev says fans shouldn&#39;t be worried about the Subnautica 2 dispute:  &#39;Krafton isn&#39;t looking to change us&#39;](https://www.pcgamer.com/games/rpg/after-selling-to-krafton-last-epoch-dev-says-fans-shouldnt-be-worried-about-the-subnautica-2-dispute-krafton-isnt-looking-to-change-us/)
- - [Rick and Morty spinoff will follow the adventures of Keith David’s President Curtis](https://www.polygon.com/sdcc/616076/rick-and-morty-spinoff-president-curtis-announced)
- - [2025&#39;s Worst Game Delays Hitman Crossover As Devs Promise More Updates](https://kotaku.com/mindseye-worst-game-2025-update-hitman-crossover-delay-1851787011)<!-- GAME:END -->
+ - [Gabe Newell on the difference between billionaires and the rest of us: &#39;It would be great to say I&#39;m an absolutely f***ing wonderful person and I earned this... but there was an awful lot of luck&#39;](https://www.pcgamer.com/gaming-industry/valve-gabe-newell-billionaires/)
+ - [A 21-second video of a hand ignites a sizzling debate over the FPS &#39;tac sprint&#39;](https://www.pcgamer.com/games/fps/a-21-second-video-of-a-hand-ignites-a-sizzling-debate-over-the-fps-tac-sprint/)
+ - [The 14 best Switch 2 games](https://www.polygon.com/what-to-play/611102/best-switch-2-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
