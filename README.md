@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember this?](http://9gag.com/gag/a2vGN5e)
- - ⏩ [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)
- - 👉 [` without further ado`](http://9gag.com/gag/aYQmNOx)<!-- MEMES:END -->
+ - 💣 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
+ - ⏩ [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
+ - 👉 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)<!-- MEMES:END -->
 
 ---
 
