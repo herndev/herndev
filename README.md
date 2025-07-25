@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is crushing AT&amp;T and Verizon, and these plans are the secret sauce](https://www.androidauthority.com/t-mobile-q2-2025-postpaid-subscriber-additions-successful-plans-3580920/)
- - [Intel plans to cut its workforce from 96,400 that it reported at the end of June to 75,000, or about 15%, through attrition and &quot;other means&quot; by the end of 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250724/p55#a250724p55)
- - [Aidoc, which uses AI to help doctors make real-time clinical decisions, raised $150M led by General Catalyst and Square Peg, bringing its total funding to $370M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250724/p54#a250724p54)<!-- TECH:END -->
+ - [NordVPN Coupon and Discount Codes: 76% Off](https://www.wired.com/story/nordvpn-coupon/)
+ - [Galaxy S25 users, you’ll have to wait a bit longer for the stable One UI 8 update](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-beta-4-update-3580926/)
+ - [Tether says it has ~250K Tether Gold tokens in circulation as of Q2 2025, backed 1:1 by a troy ounce of physical gold; the stablecoin was launched in Jan. 2020 &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250725/p1#a250725p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
