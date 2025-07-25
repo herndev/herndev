@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tales of the Shire: How to be a Hobbit – an Essential Guide to Settling into Bywater](https://news.xbox.com/en-us/2025/07/25/tales-of-the-shire-hobbit-game-guide/)
- - [Fantastic Four: First Steps still manages to have a Stan Lee cameo](https://www.polygon.com/marvel/615957/fantastic-four-first-steps-stan-lee-cameo-jack-kirby)
- - [Warhammer 40k: Rogue Trader dev Owlcat comes out swinging in support of Stop Killing Games: &#39;Every player deserves lasting access to what they’ve paid for&#39;](https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-dev-owlcat-comes-out-swinging-in-support-of-stop-killing-games-every-player-deserves-lasting-access-to-what-theyve-paid-for/)<!-- GAME:END -->
+ - [The New Fantastic Four Movie Introduces Franklin Richards, And He Could Change The MCU Forever](https://kotaku.com/fantastic-four-first-steps-franklin-powers-explained-1851786996)
+ - [Donkey Kong Bananza&#39;s Loading Screen Artwork Is So Damn Good](https://kotaku.com/donkey-kong-bananza-art-work-loading-screen-switch-2-1851786938)
+ - [The majority of teams in the top 100 for Destiny 2&#39;s latest contest mode raid cheated—and as an MMO player, I am neither shocked nor surprised](https://www.pcgamer.com/games/fps/the-majority-of-teams-in-the-top-100-for-destiny-2s-latest-contest-mode-raid-cheated-and-as-an-mmo-player-i-am-neither-shocked-nor-surprised/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
