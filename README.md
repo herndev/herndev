@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jeffrey Epstein asserts his 5th, 6th, and 14th Amendment rights when asked if he socialized with Donald Trump in the presence of females under the age of 18](http://9gag.com/gag/agmj33w)
- - ⏩ [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
- - 👉 [Show me what really matters](http://9gag.com/gag/a9yBby1)<!-- MEMES:END -->
+ - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - ⏩ [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
+ - 👉 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)<!-- MEMES:END -->
 
 ---
 
