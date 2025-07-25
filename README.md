@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Internet Is Getting Real Weird About Pedro Pascal All Of A Sudden](https://kotaku.com/pedro-pascal-vanessa-kirby-anxiety-touch-controversy-1851787007)
- - [How to farm gold in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616440/gold-farm-how-to)
- - [New Spider-Man action figures will come with Magic: The Gathering cards](https://www.polygon.com/mtg-magic-the-gathering/616120/magic-the-gathering-spider-man-action-figures-cards)<!-- GAME:END -->
+ - [After selling to Krafton, Last Epoch dev says fans shouldn&#39;t be worried about the Subnautica 2 dispute:  &#39;Krafton isn&#39;t looking to change us&#39;](https://www.pcgamer.com/games/rpg/after-selling-to-krafton-last-epoch-dev-says-fans-shouldnt-be-worried-about-the-subnautica-2-dispute-krafton-isnt-looking-to-change-us/)
+ - [Rick and Morty spinoff will follow the adventures of Keith David’s President Curtis](https://www.polygon.com/sdcc/616076/rick-and-morty-spinoff-president-curtis-announced)
+ - [2025&#39;s Worst Game Delays Hitman Crossover As Devs Promise More Updates](https://kotaku.com/mindseye-worst-game-2025-update-hitman-crossover-delay-1851787011)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
