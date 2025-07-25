@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
- - ⏩ [Final road, or something, idk, i don&#39;t watch movies](http://9gag.com/gag/amonNp2)
- - 👉 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)<!-- MEMES:END -->
+ - 💣 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
+ - ⏩ [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
+ - 👉 [That ending](http://9gag.com/gag/aByo99N)<!-- MEMES:END -->
 
 ---
 
