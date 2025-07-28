@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store footprint in China contracts in August](https://appleinsider.com/articles/25/07/28/apple-store-footprint-in-chinese-contracts-in-august?utm_source=rss)
- - [Star Trek, superheroes, and lots of Stephen King: the best of SDCC 2025](https://www.theverge.com/film/714492/sdcc-2025-best-trailers-announcements)
- - [The US smartphone market grew 1% in Q2; the share of US smartphone shipments assembled in China shrank from 61% in Q2&#39;24 to 25% in Q2&#39;25, as India volume soars &lpar;Canalys&rpar;](http://www.techmeme.com/250728/p19#a250728p19)<!-- TECH:END -->
+ - [Google’s Linux Terminal plays a big part in turning Android into a true desktop OS](https://www.androidauthority.com/android-linux-terminal-future-plans-3581752/)
+ - [Fitbit Charge 6 gets new watch faces to give you more data at a glance](https://www.androidauthority.com/fitbit-charge-6-new-watch-faces-3581732/)
+ - [Google breaks into the US top 4 for smartphone shipments, but don’t call it a comeback](https://www.androidauthority.com/google-us-smartphone-shipments-q2-2025-3581729/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
