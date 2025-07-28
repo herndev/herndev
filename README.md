@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miss the Xperia Play? A new Android gaming phone is coming, and it slides like it’s 2011](https://www.androidauthority.com/ayaneo-sliding-gaming-phone-3581803/)
- - [No, You Shouldn&#39;t Venmo the Government to Pay the National Debt. Here Are Better Uses for Your Money](https://www.cnet.com/personal-finance/banking/no-you-shouldnt-venmo-the-government-to-pay-the-national-debt-here-are-better-uses-for-your-money/#ftag=CAD590a51e)
- - [EssilorLuxottica says sales of Ray-Ban Meta more than tripled year-over-year in the first half of 2025, and it expects &quot;a very fast ramp-up&quot; of Oakley Meta &lpar;Bloomberg&rpar;](http://www.techmeme.com/250728/p22#a250728p22)<!-- TECH:END -->
+ - [iPhone 17 development device spotted in the wild](https://appleinsider.com/articles/25/07/28/iphone-17-development-device-spotted-in-the-wild?utm_source=rss)
+ - [Cadence Design agrees to plead guilty and pay more than $140M to resolve US charges for selling its chip design products to a Chinese military university &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250728/p23#a250728p23)
+ - [Microsoft Is Giving Windows 10 Users Free Security Updates for a Year, but There&#39;s a Catch](https://www.cnet.com/tech/computing/microsoft-is-giving-windows-10-users-free-security-updates-for-a-year-but-theres-a-catch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
