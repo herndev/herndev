@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Weather’s AI-powered forecasts expand beyond the Pixel 9 series](https://www.androidauthority.com/pixel-8-ai-weather-forecast-3581759/)
- - [The Apple MacBook Air M4 drops to new record-low prices in both sizes!](https://www.androidauthority.com/apple-macbook-air-m4-13-inch-15-inch-deals-3581771/)
- - [Your Whistle pet tracker will stop working next month](https://www.theverge.com/news/714775/tractive-whistle-pet-tracker-acquisition)<!-- TECH:END -->
+ - [Miss the Xperia Play? A new Android gaming phone is coming, and it slides like it’s 2011](https://www.androidauthority.com/ayaneo-sliding-gaming-phone-3581803/)
+ - [No, You Shouldn&#39;t Venmo the Government to Pay the National Debt. Here Are Better Uses for Your Money](https://www.cnet.com/personal-finance/banking/no-you-shouldnt-venmo-the-government-to-pay-the-national-debt-here-are-better-uses-for-your-money/#ftag=CAD590a51e)
+ - [EssilorLuxottica says sales of Ray-Ban Meta more than tripled year-over-year in the first half of 2025, and it expects &quot;a very fast ramp-up&quot; of Oakley Meta &lpar;Bloomberg&rpar;](http://www.techmeme.com/250728/p22#a250728p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
