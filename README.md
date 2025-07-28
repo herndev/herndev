@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
- - ⏩ [8.4, not bad](http://9gag.com/gag/abAEbGb)
- - 👉 [My collection #6](http://9gag.com/gag/ajPynKw)<!-- MEMES:END -->
+ - 💣 [Ah yeah.. I watch it for the sport..](http://9gag.com/gag/aE0EzLp)
+ - ⏩ [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
+ - 👉 [This is the joke](http://9gag.com/gag/aLnr9RP)<!-- MEMES:END -->
 
 ---
 
