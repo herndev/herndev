@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Trump let Boeing off the hook for the 737 MAX crashes](https://www.theverge.com/planes/713143/boeing-737-max-crash-trump-case)
- - [Google says it revised its Android Earthquake Alerts algorithm after it failed to send the highest-level Take Action warnings to 10M people in Turkey in 2023 &lpar;BBC&rpar;](http://www.techmeme.com/250728/p10#a250728p10)
- - [A fifth Pixel 6a just caught fire, and it seems like Google’s update isn’t enough](https://www.androidauthority.com/google-pixel-6a-battery-fire-after-update-3581462/)<!-- TECH:END -->
+ - [Has 5G lived up to the hype? People are united in this survey.](https://www.androidauthority.com/5g-hype-survey-results-3581549/)
+ - [What Is MicroSD Express? Everything You Need to Know](https://www.wired.com/story/what-is-microsd-express/)
+ - [Tariffs and analysts: What to expect from Apple&#39;s Q3 2025 earnings](https://appleinsider.com/articles/25/07/25/tariffs-and-analysts-what-to-expect-from-apples-q3-2025-earnings?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
