@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Star System Contains 5 Potentially Habitable Planets](https://www.wired.com/story/this-star-system-contains-five-potentially-habitable-planets/)
- - [An analysis of ~200 Shein items between April and July: prices spiked in April, settled at 12.5% above pre-tariff levels by late May, and jumped again in July &lpar;Reuters&rpar;](http://www.techmeme.com/250728/p8#a250728p8)
- - [I was a Niagara Launcher doubter until I built my ultimate productivity home screen](https://www.androidauthority.com/niagara-launcher-productivity-setup-3580969/)<!-- TECH:END -->
+ - [How Trump let Boeing off the hook for the 737 MAX crashes](https://www.theverge.com/planes/713143/boeing-737-max-crash-trump-case)
+ - [Google says it revised its Android Earthquake Alerts algorithm after it failed to send the highest-level Take Action warnings to 10M people in Turkey in 2023 &lpar;BBC&rpar;](http://www.techmeme.com/250728/p10#a250728p10)
+ - [A fifth Pixel 6a just caught fire, and it seems like Google’s update isn’t enough](https://www.androidauthority.com/google-pixel-6a-battery-fire-after-update-3581462/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
