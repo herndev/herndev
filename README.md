@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals Gives Human Torch New Ability, Players Immediately Use It For Evil](https://kotaku.com/marvel-rivals-first-steps-human-torch-thing-team-up-1851787130)
- - [The Future Of Gaming Console Exclusives Is More In Doubt Than Ever](https://kotaku.com/ps5-xbox-exclusivity-helldivers-spiderman-switch-2-1851787122)
- - [Hollow Knight: Silksong is real and playable next month](https://www.polygon.com/news/616781/hollow-knight-silksong-demo-xbox-gamescom)<!-- GAME:END -->
+ - [Tales of the Shire falls short of the LOTR Animal Crossing promise](https://www.polygon.com/review/616491/tales-shire-lotr-cozy-game-impressions)
+ - [Tales of the Shire: A The Lord of the Rings Game review](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-a-the-lord-of-the-rings-game-review/)
+ - [Tryx Panorama SE ARGB 360 review](https://www.pcgamer.com/hardware/cooling/tryx-panorama-se-argb-360-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
