@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tea App Breach Exposes 72,000 Selfies, ID Photos and Other User Images](https://www.cnet.com/tech/services-and-software/tea-app-breach-exposes-72000-selfies-id-photos-and-other-user-images/#ftag=CAD590a51e)
- - [&#39;Breaking Bad&#39; creator&#39;s new show on Apple TV+ is &#39;Pluribus&#39;](https://appleinsider.com/articles/25/07/25/breaking-bad-creator-unveils-teaser-for-new-pluribus-on-apple-tv?utm_source=rss)
- - [Recent grads and PhDs are being recruited by AI companies like Handshake to provide specialized training data in fields like music and law for $30-$160 per hour &lpar;Emma Haidar/Bloomberg&rpar;](http://www.techmeme.com/250725/p27#a250725p27)<!-- TECH:END -->
+ - [AI tools like ChatGPT are helping neurodivergent individuals navigate social encounters with real-time guidance, though some experts warn of overreliance &lpar;Hani Richter/Reuters&rpar;](http://www.techmeme.com/250727/p21#a250727p21)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, July 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-july-28/#ftag=CAD590a51e)
+ - [Apple&#39;s &#39;F1: The Movie&#39; said to hit $500 million in box office](https://appleinsider.com/articles/25/07/27/apples-f1-the-movie-said-to-hit-500-million-in-box-office?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
