@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony sues Tencent over Horizon Zero Dawn ‘rip-off’](https://www.polygon.com/news/616944/sony-tencent-lawsuit-horizon-zero-dawn-light-of-motiram-ps5)
- - [Wuchang: Fallen Feathers Has A Healthy Runtime You&#39;ll Want To Experience More Than Once](https://kotaku.com/wuchang-fallen-feathers-how-long-to-beat-campaign-1851787173)
- - [Roblox CEO horrifies every parent alive with his ambition that the platform become a dating hub, even if he promises age verification: &#39;A virtual date to start, and then if they connect, move to the physical world&#39;](https://www.pcgamer.com/gaming-industry/roblox-ceo-horrifies-every-parent-alive-with-his-ambition-that-the-platform-become-a-dating-hub-even-if-he-promises-age-verification-a-virtual-date-to-start-and-then-if-they-connect-move-to-the-physical-world/)<!-- GAME:END -->
+ - [A Whole Lot Of Great Racing Games Are On Sale Right Now](https://kotaku.com/racing-fest-steam-sale-best-deals-nfs-unbound-the-crew-1851787177)
+ - [Steam&#39;s latest mini-hit is Mage Arena, a voice-powered spellcasting game that costs $3](https://www.pcgamer.com/games/action/steams-latest-mini-hit-is-mage-arena-a-voice-powered-spellcasting-game-that-costs-usd3/)
+ - [Great news: A guy saved an image file onto a live bird](https://www.pcgamer.com/hardware/great-news-a-guy-saved-an-image-file-onto-a-live-bird/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
