@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mary Tyler Moore Accidentally Nails a Trick Shot in Front of a Live Audience in 1962](http://9gag.com/gag/aD2MmPO)
- - ⏩ [Sometimes you just gotta let stupidity destroy itself](http://9gag.com/gag/aW496MA)
- - 👉 [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)<!-- MEMES:END -->
+ - 💣 [Sometimes you just gotta let stupidity destroy itself](http://9gag.com/gag/aW496MA)
+ - ⏩ [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)
+ - 👉 [This looks safe.....](http://9gag.com/gag/a0ewpWz)<!-- MEMES:END -->
 
 ---
 
