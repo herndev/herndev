@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome gives you another reason to use it for online shopping](https://www.androidauthority.com/google-chrome-online-store-reviews-3581480/)
- - [Microsoft Edge transforms into an AI browser with new Copilot Mode](https://www.theverge.com/news/714435/microsoft-edge-copilot-mode-ai-features)
- - [Using Unity with ChatGPT on macOS for vibe coding is dangerously easy](https://appleinsider.com/articles/25/07/28/using-unity-with-chatgpt-on-macos-for-vibe-coding-is-dangerously-easy?utm_source=rss)<!-- TECH:END -->
+ - [Apple Store footprint in China contracts in August](https://appleinsider.com/articles/25/07/28/apple-store-footprint-in-chinese-contracts-in-august?utm_source=rss)
+ - [Star Trek, superheroes, and lots of Stephen King: the best of SDCC 2025](https://www.theverge.com/film/714492/sdcc-2025-best-trailers-announcements)
+ - [The US smartphone market grew 1% in Q2; the share of US smartphone shipments assembled in China shrank from 61% in Q2&#39;24 to 25% in Q2&#39;25, as India volume soars &lpar;Canalys&rpar;](http://www.techmeme.com/250728/p19#a250728p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
