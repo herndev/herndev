@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
- - ⏩ [Not my fault Grass](http://9gag.com/gag/aGybwbz)
- - 👉 [Popeye Scene](http://9gag.com/gag/a9yBPzD)<!-- MEMES:END -->
+ - 💣 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
+ - ⏩ [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
+ - 👉 [Not my fault Grass](http://9gag.com/gag/aGybwbz)<!-- MEMES:END -->
 
 ---
 
