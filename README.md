@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
- - ⏩ [Bro walked in like a man..](http://9gag.com/gag/aPAn4xR)
- - 👉 [Understandable, have a great day](http://9gag.com/gag/aGybR86)<!-- MEMES:END -->
+ - ⏩ [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
+ - 👉 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)<!-- MEMES:END -->
 
 ---
 
