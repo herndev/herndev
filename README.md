@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro walked in like a man..](http://9gag.com/gag/aPAn4xR)
- - ⏩ [Not my fault Grass](http://9gag.com/gag/aGybwbz)
- - 👉 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)<!-- MEMES:END -->
+ - 💣 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
+ - ⏩ [Bro walked in like a man..](http://9gag.com/gag/aPAn4xR)
+ - 👉 [Understandable, have a great day](http://9gag.com/gag/aGybR86)<!-- MEMES:END -->
 
 ---
 
