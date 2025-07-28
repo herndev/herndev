@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with SandboxAQ CEO Jack Hidary on the Alphabet spinoff&#39;s partnership with Aramco, how quantum AI can help turn captured CO2 into valuable products, and more &lpar;Divsha Bhat/Rest of World&rpar;](http://www.techmeme.com/250727/p23#a250727p23)
  - [Samsung may be killing bootloader unlocking on all phones with One UI 8](https://www.androidauthority.com/samsung-bootloader-unlocking-disabled-one-ui-8-3581366/)
- - [Samsung announces a $16.5B deal to produce chips that runs through the end of 2033 and boosts its underperforming foundry unit; source: Tesla is the customer &lpar;Bloomberg&rpar;](http://www.techmeme.com/250727/p22#a250727p22)
- - [Google says it’s working to fix voice commands for your smart lights](https://www.androidauthority.com/ok-google-turn-on-light-voice-command-not-working-fix-3581363/)<!-- TECH:END -->
+ - [Samsung announces a $16.5B deal to produce chips that runs through the end of 2033 and boosts its underperforming foundry unit; source: Tesla is the customer &lpar;Bloomberg&rpar;](http://www.techmeme.com/250727/p22#a250727p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
