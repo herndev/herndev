@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with SandboxAQ CEO Jack Hidary on the Alphabet spinoff&#39;s partnership with Aramco, how quantum AI can help turn captured CO2 into valuable products, and more &lpar;Divsha Bhat/Rest of World&rpar;](http://www.techmeme.com/250727/p23#a250727p23)
- - [Samsung may be killing bootloader unlocking on all phones with One UI 8](https://www.androidauthority.com/samsung-bootloader-unlocking-disabled-one-ui-8-3581366/)
- - [Samsung announces a $16.5B deal to produce chips that runs through the end of 2033 and boosts its underperforming foundry unit; source: Tesla is the customer &lpar;Bloomberg&rpar;](http://www.techmeme.com/250727/p22#a250727p22)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 7 stuns in JerryRigEverything’s brutal durability test](https://www.androidauthority.com/samsung-galaxy-z-fold-7-jerryrigeverything-durability-test-3581376/)
+ - [Sources: the US freezes tech export curbs on China to avoid disrupting trade talks and help President Trump secure a 2025 meeting with President Xi Jinping &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250728/p1#a250728p1)
+ - [Q&amp;A with SandboxAQ CEO Jack Hidary on the Alphabet spinoff&#39;s partnership with Aramco, how quantum AI can help turn captured CO2 into valuable products, and more &lpar;Divsha Bhat/Rest of World&rpar;](http://www.techmeme.com/250727/p23#a250727p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
