@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Avatar: Fire and Ash brings war to Pandora in first trailer](https://www.theverge.com/film/714570/avatar-fire-and-ash-trailer)
- - [Z.ai, formerly known as Zhipu and which has raised $1.5B from Tencent and others, releases GLM-4.5, an open source AI model that&#39;s cheaper to use than DeepSeek &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/250728/p15#a250728p15)
- - [Lowest price ever: 15-inch MacBook Air M4 drops to $999](https://appleinsider.com/articles/25/07/28/lowest-price-ever-15-inch-macbook-air-m4-drops-to-999?utm_source=rss)<!-- TECH:END -->
+ - [Chrome gives you another reason to use it for online shopping](https://www.androidauthority.com/google-chrome-online-store-reviews-3581480/)
+ - [Microsoft Edge transforms into an AI browser with new Copilot Mode](https://www.theverge.com/news/714435/microsoft-edge-copilot-mode-ai-features)
+ - [Using Unity with ChatGPT on macOS for vibe coding is dangerously easy](https://appleinsider.com/articles/25/07/28/using-unity-with-chatgpt-on-macos-for-vibe-coding-is-dangerously-easy?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
