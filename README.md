@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes you just gotta let stupidity destroy itself](http://9gag.com/gag/aW496MA)
- - ⏩ [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)
- - 👉 [This looks safe.....](http://9gag.com/gag/a0ewpWz)<!-- MEMES:END -->
+ - 💣 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)
+ - ⏩ [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
+ - 👉 [Not my fault Grass](http://9gag.com/gag/aGybwbz)<!-- MEMES:END -->
 
 ---
 
