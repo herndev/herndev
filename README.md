@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at India&#39;s plan to build a quantum computing hub in Amaravati, Andhra Pradesh, where IBM is in talks to develop India&#39;s most powerful quantum computer &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/250728/p2#a250728p2)
  - [JerryRigEverything put the Galaxy Z Fold 7 through hell: Here’s what happened](https://www.androidauthority.com/samsung-galaxy-z-fold-7-jerryrigeverything-durability-test-3581376/)
- - [Sources: the US freezes tech export curbs on China to avoid disrupting trade talks and help President Trump secure a 2025 meeting with President Xi Jinping &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250728/p1#a250728p1)
- - [Q&amp;A with SandboxAQ CEO Jack Hidary on the Alphabet spinoff&#39;s partnership with Aramco, how quantum AI can help turn captured CO2 into valuable products, and more &lpar;Divsha Bhat/Rest of World&rpar;](http://www.techmeme.com/250727/p23#a250727p23)<!-- TECH:END -->
+ - [Sources: the US freezes tech export curbs on China to avoid disrupting trade talks and help President Trump secure a 2025 meeting with President Xi Jinping &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250728/p1#a250728p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
