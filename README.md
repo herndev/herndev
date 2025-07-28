@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrities Are Being Forced To Play Mario Kart With The Rizzler Now](https://kotaku.com/the-rizzler-mario-kart-world-sdcc-celebs-reedus-brie-1851787157)
- - [Age Verification in the UK and Xbox’s Ongoing Commitment to Player Safety](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/)
- - [Fans Think Nintendo May Have Accidentally Revealed Multiplayer For Pokémon Legends: Z-A](https://kotaku.com/pokemon-legends-z-a-link-play-multiplayer-switch-2-1851787158)<!-- GAME:END -->
+ - [Fans Think Blizzard May Be Using AI Art Again &lpar;And They&#39;re Not Happy&rpar;](https://kotaku.com/hearthstone-diablo-ai-art-blizzard-microsoft-1851787162)
+ - [Sony Suing Tencent Over Upcoming Game It Calls A &#39;Slavish Clone&#39; Of Horizon: Zero Dawn](https://kotaku.com/horizon-lawsuit-sony-tencent-clone-knock-off-light-1851787163)
+ - [Celebrities Are Being Forced To Play Mario Kart With The Rizzler Now](https://kotaku.com/the-rizzler-mario-kart-world-sdcc-celebs-reedus-brie-1851787157)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
