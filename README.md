@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the AI boom is reenergizing San Francisco, one of the slowest US cities to recover from the pandemic, with rising foot traffic and new commercial leases &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/250728/p3#a250728p3)
  - [A look at India&#39;s plan to build a quantum computing hub in Amaravati, Andhra Pradesh, where IBM is in talks to develop India&#39;s most powerful quantum computer &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/250728/p2#a250728p2)
- - [JerryRigEverything put the Galaxy Z Fold 7 through hell: Here’s what happened](https://www.androidauthority.com/samsung-galaxy-z-fold-7-jerryrigeverything-durability-test-3581376/)
- - [Sources: the US freezes tech export curbs on China to avoid disrupting trade talks and help President Trump secure a 2025 meeting with President Xi Jinping &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250728/p1#a250728p1)<!-- TECH:END -->
+ - [JerryRigEverything put the Galaxy Z Fold 7 through hell: Here’s what happened](https://www.androidauthority.com/samsung-galaxy-z-fold-7-jerryrigeverything-durability-test-3581376/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
