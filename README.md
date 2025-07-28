@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
- - ⏩ [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)
- - 👉 [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)<!-- MEMES:END -->
+ - 💣 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)
+ - ⏩ [Not my fault Grass](http://9gag.com/gag/aGybwbz)
+ - 👉 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)<!-- MEMES:END -->
 
 ---
 
