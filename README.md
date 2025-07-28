@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Linux Terminal plays a big part in turning Android into a true desktop OS](https://www.androidauthority.com/android-linux-terminal-future-plans-3581752/)
- - [Fitbit Charge 6 gets new watch faces to give you more data at a glance](https://www.androidauthority.com/fitbit-charge-6-new-watch-faces-3581732/)
- - [Google breaks into the US top 4 for smartphone shipments, but don’t call it a comeback](https://www.androidauthority.com/google-us-smartphone-shipments-q2-2025-3581729/)<!-- TECH:END -->
+ - [Pixel Weather’s AI-powered forecasts expand beyond the Pixel 9 series](https://www.androidauthority.com/pixel-8-ai-weather-forecast-3581759/)
+ - [The Apple MacBook Air M4 drops to new record-low prices in both sizes!](https://www.androidauthority.com/apple-macbook-air-m4-13-inch-15-inch-deals-3581771/)
+ - [Your Whistle pet tracker will stop working next month](https://www.theverge.com/news/714775/tractive-whistle-pet-tracker-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
