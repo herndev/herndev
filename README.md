@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
+ - 💣 [Impressive](http://9gag.com/gag/a6Z87jL)
  - ⏩ [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
- - 👉 [Moist movie](http://9gag.com/gag/an7VKmn)<!-- MEMES:END -->
+ - 👉 [8.4, not bad](http://9gag.com/gag/abAEbGb)<!-- MEMES:END -->
 
 ---
 
