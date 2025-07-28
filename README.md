@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
- - ⏩ [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
- - 👉 [Watercooling](http://9gag.com/gag/aYQmLyN)<!-- MEMES:END -->
+ - 💣 [Would you like to know more...? about that galactus cosplay you saw in the home page...?](http://9gag.com/gag/aD2MoxO)
+ - ⏩ [Remember when McDonald&#39;s was fun](http://9gag.com/gag/abAEZZ9)
+ - 👉 [This is the joke](http://9gag.com/gag/aLnr9RP)<!-- MEMES:END -->
 
 ---
 
