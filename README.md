@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)
- - ⏩ [Not my fault Grass](http://9gag.com/gag/aGybwbz)
- - 👉 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)<!-- MEMES:END -->
+ - 💣 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
+ - ⏩ [Macross Plus 1995, legendary anime](http://9gag.com/gag/axy4Gxp)
+ - 👉 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)<!-- MEMES:END -->
 
 ---
 
