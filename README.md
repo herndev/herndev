@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
- - ⏩ [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
- - 👉 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)<!-- MEMES:END -->
+ - 💣 [Mary Tyler Moore Accidentally Nails a Trick Shot in Front of a Live Audience in 1962](http://9gag.com/gag/aD2MmPO)
+ - ⏩ [Sometimes you just gotta let stupidity destroy itself](http://9gag.com/gag/aW496MA)
+ - 👉 [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)<!-- MEMES:END -->
 
 ---
 
