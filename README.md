@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Impressive](http://9gag.com/gag/a6Z87jL)
- - ⏩ [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
- - 👉 [8.4, not bad](http://9gag.com/gag/abAEbGb)<!-- MEMES:END -->
+ - 💣 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
+ - ⏩ [8.4, not bad](http://9gag.com/gag/abAEbGb)
+ - 👉 [My collection #6](http://9gag.com/gag/ajPynKw)<!-- MEMES:END -->
 
 ---
 
