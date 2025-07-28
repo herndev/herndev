@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit and Discord&amp;#8217;s UK age verification can be defeated by Death Stranding&amp;#8217;s photo mode](https://www.theverge.com/report/714402/uk-age-verification-bypass-death-stranding-reddit-discord)
- - [The best Switch emulator just got even better, and there’s more to come](https://www.androidauthority.com/switch-emulator-eden-0-0-3-update-3581426/)
- - [At Shanghai&#39;s World AI Conference, ByteDance, Unitree, UBTech, Agibot, and other Chinese companies demoed a wide range of robots, including boxing droids &lpar;Bloomberg&rpar;](http://www.techmeme.com/250728/p6#a250728p6)<!-- TECH:END -->
+ - [This Star System Contains 5 Potentially Habitable Planets](https://www.wired.com/story/this-star-system-contains-five-potentially-habitable-planets/)
+ - [An analysis of ~200 Shein items between April and July: prices spiked in April, settled at 12.5% above pre-tariff levels by late May, and jumped again in July &lpar;Reuters&rpar;](http://www.techmeme.com/250728/p8#a250728p8)
+ - [I was a Niagara Launcher doubter until I built my ultimate productivity home screen](https://www.androidauthority.com/niagara-launcher-productivity-setup-3580969/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
