@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fantastic Four: First Steps&#39; Opening Weekend Beat Superman&#39;s By Just $1 Million](https://kotaku.com/fantastic-four-first-steps-opening-weekend-superman-1851787100)
  - [Every big SDCC 2025 announcement in one place](https://www.polygon.com/sdcc/616709/all-news-trailers-san-diego-comic-con-2025)
- - [Xbox @ gamescom 2025](https://news.xbox.com/en-us/2025/07/28/xbox-gamescom-2025/)
- - [Donkey Kong Bananza&amp;#8217;s identity crisis doesn&amp;#8217;t get in the way of good time](https://www.polygon.com/review/616250/donkey-kong-bananza-nintendo-switch-2)<!-- GAME:END -->
+ - [Xbox @ gamescom 2025](https://news.xbox.com/en-us/2025/07/28/xbox-gamescom-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
