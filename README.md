@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [When does the Wisdom of Sea and Sky expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/615796/wisdom-sea-sky-expansion-release-time-date-pdt-edt-bst)
  - [Today&#39;s Wordle answer for Monday, July 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-28-2025/)
- - [Five new Steam games you probably missed &lpar;July 28, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-28-2025/)
- - [Five Nights at Freddy&#39;s 2 movie gets its first full trailer for Comic-Con, promising even more animatronic terror](https://www.pcgamer.com/games/horror/five-nights-at-freddys-2-movie-gets-its-first-full-trailer-for-comic-con-promising-even-more-animatronic-terror/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;July 28, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-28-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
