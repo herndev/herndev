@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantastic Four: First Steps&#39; Opening Weekend Beat Superman&#39;s By Just $1 Million](https://kotaku.com/fantastic-four-first-steps-opening-weekend-superman-1851787100)
- - [Every big SDCC 2025 announcement in one place](https://www.polygon.com/sdcc/616709/all-news-trailers-san-diego-comic-con-2025)
- - [Xbox @ gamescom 2025](https://news.xbox.com/en-us/2025/07/28/xbox-gamescom-2025/)<!-- GAME:END -->
+ - [Marvel Rivals Gives Human Torch New Ability, Players Immediately Use It For Evil](https://kotaku.com/marvel-rivals-first-steps-human-torch-thing-team-up-1851787130)
+ - [The Future Of Gaming Console Exclusives Is More In Doubt Than Ever](https://kotaku.com/ps5-xbox-exclusivity-helldivers-spiderman-switch-2-1851787122)
+ - [Hollow Knight: Silksong is real and playable next month](https://www.polygon.com/news/616781/hollow-knight-silksong-demo-xbox-gamescom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
