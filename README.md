@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;July 28, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-28-2025/)
  - [Five Nights at Freddy&#39;s 2 movie gets its first full trailer for Comic-Con, promising even more animatronic terror](https://www.pcgamer.com/games/horror/five-nights-at-freddys-2-movie-gets-its-first-full-trailer-for-comic-con-promising-even-more-animatronic-terror/)
- - [Bloody fighting game Invincible VS gets its most brutal character yet in Comic-Con trailer](https://www.pcgamer.com/games/fighting/bloody-fighting-game-invincible-vs-gets-its-most-brutal-character-yet-in-comic-con-trailer/)
- - [Sony acquires a slice of the Bandai Namco pie, snagging a stake in Elden Ring](https://www.pcgamer.com/gaming-industry/sony-acquires-a-slice-of-the-bandai-namco-pie-snagging-a-stake-in-elden-ring/)<!-- GAME:END -->
+ - [Bloody fighting game Invincible VS gets its most brutal character yet in Comic-Con trailer](https://www.pcgamer.com/games/fighting/bloody-fighting-game-invincible-vs-gets-its-most-brutal-character-yet-in-comic-con-trailer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
