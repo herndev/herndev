@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tales of the Shire falls short of the LOTR Animal Crossing promise](https://www.polygon.com/review/616491/tales-shire-lotr-cozy-game-impressions)
- - [Tales of the Shire: A The Lord of the Rings Game review](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-a-the-lord-of-the-rings-game-review/)
- - [Tryx Panorama SE ARGB 360 review](https://www.pcgamer.com/hardware/cooling/tryx-panorama-se-argb-360-review/)<!-- GAME:END -->
+ - [Xbox July Update: More Ways to Play on PC – Stream Your Own Games via the Xbox PC App and More](https://news.xbox.com/en-us/2025/07/28/xbox-july-update-more-ways-to-play/)
+ - [Sony’s PS5 fight stick FlexStrike emerges with new details and 2026 release date](https://www.polygon.com/gaming/616861/ps5-fight-stick-flexstrike-project-defiant-marvel-tokon)
+ - [What The Hell Is Up With Fantastic Four: First Steps’ Scary CGI Baby?](https://kotaku.com/fantastic-four-first-steps-franklin-cgi-baby-renesmee-1851787153)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
