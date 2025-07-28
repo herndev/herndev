@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT can be a disaster for lawyers — Robin AI says it can fix that](https://www.theverge.com/decoder-podcast-with-nilay-patel/713303/robin-ai-ceo-richard-robinson-chatgpt-ai-lawyer-legal-interview)
- - [Consumer Reports&#39; Siobhan Adcock joins HomeKit Insider to talk about smart baby tech](https://appleinsider.com/articles/25/07/28/consumer-reports-siobhan-adcock-joins-homekit-insider-to-talk-about-smart-baby-tech?utm_source=rss)
- - [Temu users face a &amp;#8216;high risk&amp;#8217; of finding illegal products, EU says](https://www.theverge.com/news/714502/temu-high-risk-illegal-products-eu-investigation)<!-- TECH:END -->
+ - [E2B, formerly FoundryLabs, which is developing an open-source, sandboxed cloud infrastructure for AI agents, raised a $21M Series A led by Insight Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250728/p14#a250728p14)
+ - [Google Pixel 10 series rumors: Everything we know so far](https://www.androidauthority.com/google-pixel-10-3470386/)
+ - [Poll: Which abandoned Android phone features do you miss the most?](https://www.androidauthority.com/poll-abandoned-phone-features-you-miss-3581569/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
