@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
- - ⏩ [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
- - 👉 [Not my fault Grass](http://9gag.com/gag/aGybwbz)<!-- MEMES:END -->
+ - 💣 [Bro walked in like a man..](http://9gag.com/gag/aPAn4xR)
+ - ⏩ [Not my fault Grass](http://9gag.com/gag/aGybwbz)
+ - 👉 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)<!-- MEMES:END -->
 
 ---
 
