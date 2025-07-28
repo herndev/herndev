@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)
- - ⏩ [High heaven](http://9gag.com/gag/aPAnGbK)
- - 👉 [Mary Tyler Moore Accidentally Nails a Trick Shot in Front of a Live Audience in 1962](http://9gag.com/gag/aD2MmPO)<!-- MEMES:END -->
+ - 💣 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
+ - ⏩ [Not my fault Grass](http://9gag.com/gag/aGybwbz)
+ - 👉 [Popeye Scene](http://9gag.com/gag/a9yBPzD)<!-- MEMES:END -->
 
 ---
 
