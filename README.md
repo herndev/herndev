@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Has 5G lived up to the hype? People are united in this survey.](https://www.androidauthority.com/5g-hype-survey-results-3581549/)
- - [What Is MicroSD Express? Everything You Need to Know](https://www.wired.com/story/what-is-microsd-express/)
- - [Tariffs and analysts: What to expect from Apple&#39;s Q3 2025 earnings](https://appleinsider.com/articles/25/07/25/tariffs-and-analysts-what-to-expect-from-apples-q3-2025-earnings?utm_source=rss)<!-- TECH:END -->
+ - [ChatGPT can be a disaster for lawyers — Robin AI says it can fix that](https://www.theverge.com/decoder-podcast-with-nilay-patel/713303/robin-ai-ceo-richard-robinson-chatgpt-ai-lawyer-legal-interview)
+ - [Consumer Reports&#39; Siobhan Adcock joins HomeKit Insider to talk about smart baby tech](https://appleinsider.com/articles/25/07/28/consumer-reports-siobhan-adcock-joins-homekit-insider-to-talk-about-smart-baby-tech?utm_source=rss)
+ - [Temu users face a &amp;#8216;high risk&amp;#8217; of finding illegal products, EU says](https://www.theverge.com/news/714502/temu-high-risk-illegal-products-eu-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
