@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, July 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-28-2025/)
  - [Five new Steam games you probably missed &lpar;July 28, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-28-2025/)
- - [Five Nights at Freddy&#39;s 2 movie gets its first full trailer for Comic-Con, promising even more animatronic terror](https://www.pcgamer.com/games/horror/five-nights-at-freddys-2-movie-gets-its-first-full-trailer-for-comic-con-promising-even-more-animatronic-terror/)
- - [Bloody fighting game Invincible VS gets its most brutal character yet in Comic-Con trailer](https://www.pcgamer.com/games/fighting/bloody-fighting-game-invincible-vs-gets-its-most-brutal-character-yet-in-comic-con-trailer/)<!-- GAME:END -->
+ - [Five Nights at Freddy&#39;s 2 movie gets its first full trailer for Comic-Con, promising even more animatronic terror](https://www.pcgamer.com/games/horror/five-nights-at-freddys-2-movie-gets-its-first-full-trailer-for-comic-con-promising-even-more-animatronic-terror/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
