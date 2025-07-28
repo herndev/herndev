@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
- - ⏩ [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
- - 👉 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)<!-- MEMES:END -->
+ - 💣 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - ⏩ [I am groot](http://9gag.com/gag/a9yB7pZ)
+ - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
 
 ---
 
