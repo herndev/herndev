@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you like to know more...? about that galactus cosplay you saw in the home page...?](http://9gag.com/gag/aD2MoxO)
- - ⏩ [Remember when McDonald&#39;s was fun](http://9gag.com/gag/abAEZZ9)
- - 👉 [This is the joke](http://9gag.com/gag/aLnr9RP)<!-- MEMES:END -->
+ - 💣 [She&#39;s a keeper](http://9gag.com/gag/a4PVjnd)
+ - ⏩ [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
+ - 👉 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)<!-- MEMES:END -->
 
 ---
 
