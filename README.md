@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah yeah.. I watch it for the sport..](http://9gag.com/gag/aE0EzLp)
- - ⏩ [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
- - 👉 [This is the joke](http://9gag.com/gag/aLnr9RP)<!-- MEMES:END -->
+ - 💣 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
+ - ⏩ [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
+ - 👉 [Watercooling](http://9gag.com/gag/aYQmLyN)<!-- MEMES:END -->
 
 ---
 
