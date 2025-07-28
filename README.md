@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Which Samsung Galaxy S25 Should You Choose for Mobile Gaming? We Break It Down](https://www.pcgamer.com/hardware/which-samsung-galaxy-s25-should-you-choose-for-mobile-gaming-we-break-it-down/)
  - [When does the Wisdom of Sea and Sky expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/615796/wisdom-sea-sky-expansion-release-time-date-pdt-edt-bst)
- - [Today&#39;s Wordle answer for Monday, July 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-28-2025/)
- - [Five new Steam games you probably missed &lpar;July 28, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-28-2025/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, July 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-28-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
