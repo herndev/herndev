@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
- - ⏩ [Macross Plus 1995, legendary anime](http://9gag.com/gag/axy4Gxp)
- - 👉 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)<!-- MEMES:END -->
+ - 💣 [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)
+ - ⏩ [High heaven](http://9gag.com/gag/aPAnGbK)
+ - 👉 [Mary Tyler Moore Accidentally Nails a Trick Shot in Front of a Live Audience in 1962](http://9gag.com/gag/aD2MmPO)<!-- MEMES:END -->
 
 ---
 
