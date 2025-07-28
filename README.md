@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign needs a better way to let me thank my buddies &lpar;or apologize to them&rpar;](https://www.polygon.com/opinion/616531/elden-ring-nightreign-post-game-lobbies)
- - [Microsoft claims &#39;Windows 11 24H2 is our most reliable version of Windows yet&#39;, which would be a welcome change](https://www.pcgamer.com/software/operating-systems/microsoft-claims-windows-11-24h2-is-our-most-reliable-version-of-windows-yet-which-would-be-a-welcome-change/)
- - [Kung fu action game Phantom Blade Zero&#39;s has my new favorite take on hard mode balance: Beating it &#39;in a very beautiful manner&#39; is the true challenge](https://www.pcgamer.com/games/action/kung-fu-action-game-phantom-blade-zeros-has-my-new-favorite-take-on-hard-mode-balance-beating-it-in-a-very-beautiful-manner-is-the-true-challenge/)<!-- GAME:END -->
+ - [Every big SDCC 2025 announcement in one place](https://www.polygon.com/sdcc/616709/all-news-trailers-san-diego-comic-con-2025)
+ - [Xbox @ gamescom 2025](https://news.xbox.com/en-us/2025/07/28/xbox-gamescom-2025/)
+ - [Donkey Kong Bananza&amp;#8217;s identity crisis doesn&amp;#8217;t get in the way of good time](https://www.polygon.com/review/616250/donkey-kong-bananza-nintendo-switch-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
