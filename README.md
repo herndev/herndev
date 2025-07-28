@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans Think Blizzard May Be Using AI Art Again &lpar;And They&#39;re Not Happy&rpar;](https://kotaku.com/hearthstone-diablo-ai-art-blizzard-microsoft-1851787162)
- - [Sony Suing Tencent Over Upcoming Game It Calls A &#39;Slavish Clone&#39; Of Horizon: Zero Dawn](https://kotaku.com/horizon-lawsuit-sony-tencent-clone-knock-off-light-1851787163)
- - [Celebrities Are Being Forced To Play Mario Kart With The Rizzler Now](https://kotaku.com/the-rizzler-mario-kart-world-sdcc-celebs-reedus-brie-1851787157)<!-- GAME:END -->
+ - [Sony sues Tencent over Horizon Zero Dawn ‘rip-off’](https://www.polygon.com/news/616944/sony-tencent-lawsuit-horizon-zero-dawn-light-of-motiram-ps5)
+ - [Wuchang: Fallen Feathers Has A Healthy Runtime You&#39;ll Want To Experience More Than Once](https://kotaku.com/wuchang-fallen-feathers-how-long-to-beat-campaign-1851787173)
+ - [Roblox CEO horrifies every parent alive with his ambition that the platform become a dating hub, even if he promises age verification: &#39;A virtual date to start, and then if they connect, move to the physical world&#39;](https://www.pcgamer.com/gaming-industry/roblox-ceo-horrifies-every-parent-alive-with-his-ambition-that-the-platform-become-a-dating-hub-even-if-he-promises-age-verification-a-virtual-date-to-start-and-then-if-they-connect-move-to-the-physical-world/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
