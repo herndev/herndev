@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moist movie](http://9gag.com/gag/an7VKmn)
+ - 💣 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
  - ⏩ [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
- - 👉 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)<!-- MEMES:END -->
+ - 👉 [Moist movie](http://9gag.com/gag/an7VKmn)<!-- MEMES:END -->
 
 ---
 
