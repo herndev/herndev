@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the AI boom is reenergizing San Francisco, one of the slowest US cities to recover from the pandemic, with rising foot traffic and new commercial leases &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/250728/p3#a250728p3)
- - [A look at India&#39;s plan to build a quantum computing hub in Amaravati, Andhra Pradesh, where IBM is in talks to develop India&#39;s most powerful quantum computer &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/250728/p2#a250728p2)
- - [JerryRigEverything put the Galaxy Z Fold 7 through hell: Here’s what happened](https://www.androidauthority.com/samsung-galaxy-z-fold-7-jerryrigeverything-durability-test-3581376/)<!-- TECH:END -->
+ - [I loved the Galaxy Z Flip 7’s new cover screen until the software ruined it](https://www.androidauthority.com/i-loved-galaxy-z-flip-7-cover-screen-until-software-ruined-it-3581117/)
+ - [At the International Mathematical Olympiad, 26 students got higher scores than DeepMind and OpenAI models, possibly the last time humans beat AI at the exam &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/250728/p5#a250728p5)
+ - [People are increasingly using generative AI to create digital vision boards, such as videos depicting their ideal futures, to help them achieve their goals &lpar;Alyson Krueger/New York Times&rpar;](http://www.techmeme.com/250728/p4#a250728p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
