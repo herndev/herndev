@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
- - ⏩ [Pocho](http://9gag.com/gag/a9yBPmW)
- - 👉 [I am groot](http://9gag.com/gag/a9yB7pZ)<!-- MEMES:END -->
+ - 💣 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
+ - ⏩ [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
+ - 👉 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)<!-- MEMES:END -->
 
 ---
 
