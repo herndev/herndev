@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gabe Newell on the difference between billionaires and the rest of us: &#39;It would be great to say I&#39;m an absolutely f***ing wonderful person and I earned this... but there was an awful lot of luck&#39;](https://www.pcgamer.com/gaming-industry/valve-gabe-newell-billionaires/)
- - [A 21-second video of a hand ignites a sizzling debate over the FPS &#39;tac sprint&#39;](https://www.pcgamer.com/games/fps/a-21-second-video-of-a-hand-ignites-a-sizzling-debate-over-the-fps-tac-sprint/)
- - [The 14 best Switch 2 games](https://www.polygon.com/what-to-play/611102/best-switch-2-games)<!-- GAME:END -->
+ - [Five Nights at Freddy&#39;s 2 movie gets its first full trailer for Comic-Con, promising even more animatronic terror](https://www.pcgamer.com/games/horror/five-nights-at-freddys-2-movie-gets-its-first-full-trailer-for-comic-con-promising-even-more-animatronic-terror/)
+ - [Bloody fighting game Invincible VS gets its most brutal character yet in Comic-Con trailer](https://www.pcgamer.com/games/fighting/bloody-fighting-game-invincible-vs-gets-its-most-brutal-character-yet-in-comic-con-trailer/)
+ - [Sony acquires a slice of the Bandai Namco pie, snagging a stake in Elden Ring](https://www.pcgamer.com/gaming-industry/sony-acquires-a-slice-of-the-bandai-namco-pie-snagging-a-stake-in-elden-ring/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
