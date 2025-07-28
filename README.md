@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I loved the Galaxy Z Flip 7’s new cover screen until the software ruined it](https://www.androidauthority.com/i-loved-galaxy-z-flip-7-cover-screen-until-software-ruined-it-3581117/)
- - [At the International Mathematical Olympiad, 26 students got higher scores than DeepMind and OpenAI models, possibly the last time humans beat AI at the exam &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/250728/p5#a250728p5)
- - [People are increasingly using generative AI to create digital vision boards, such as videos depicting their ideal futures, to help them achieve their goals &lpar;Alyson Krueger/New York Times&rpar;](http://www.techmeme.com/250728/p4#a250728p4)<!-- TECH:END -->
+ - [Reddit and Discord&amp;#8217;s UK age verification can be defeated by Death Stranding&amp;#8217;s photo mode](https://www.theverge.com/report/714402/uk-age-verification-bypass-death-stranding-reddit-discord)
+ - [The best Switch emulator just got even better, and there’s more to come](https://www.androidauthority.com/switch-emulator-eden-0-0-3-update-3581426/)
+ - [At Shanghai&#39;s World AI Conference, ByteDance, Unitree, UBTech, Agibot, and other Chinese companies demoed a wide range of robots, including boxing droids &lpar;Bloomberg&rpar;](http://www.techmeme.com/250728/p6#a250728p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
