@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Philips Evnia 27M2N3800A gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/philips-evnia-27m2n3800a-gaming-monitor-review/)
- - [Where to find grass seeds in Grounded 2](https://www.polygon.com/guides/616973/grounded-2-where-to-find-grass-seed-locations)
- - [Buggin’ Out: A Survival Guide to Getting Started in Grounded 2](https://news.xbox.com/en-us/2025/07/29/getting-started-in-grounded-2/)<!-- GAME:END -->
+ - [How to break cracked rocks in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-cracked-rocks-explosives/)
+ - [Ayaneo confirms a Strix Halo handheld gaming PC is on the way, but if you think the powerful AMD chip is overkill, wait until you see the M.2 slots](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-confirms-a-strix-halo-handheld-gaming-pc-is-on-the-way-but-if-you-think-the-powerful-amd-chip-is-overkill-wait-until-you-see-the-m-2-slots/)
+ - [Plagiarism Concerns Hit Pokémon TCG Pocket Over Ho-Oh Card Art](https://kotaku.com/pokemon-tcg-pocket-ho-oh-card-art-plagiarism-1851787197)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
