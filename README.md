@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find thistle needles in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-thistle-needles-location/)
- - [Someone Just Made It Way Easier To Eat Fries While Playing Switch 2](https://kotaku.com/switch-2-joy-con-grip-fries-mcdonalds-holder-3d-printer-1851787238)
- - [Godbreakers Is The Latest Roguelike From Struggling Publisher Thunderful](https://kotaku.com/godbreakers-roguelike-trailer-demo-atari-thunderful-1851787237)<!-- GAME:END -->
+ - [Judge sends hangdog lawyer to AI school after he&#39;s caught using ChatGPT to cite imaginary caselaw: &#39;Any lawyer unaware that using generative AI platforms to do legal research is playing with fire is living in a cloud&#39;](https://www.pcgamer.com/software/ai/judge-sends-hangdog-lawyer-to-ai-school-after-hes-caught-using-chatgpt-to-cite-imaginary-caselaw-any-lawyer-unaware-that-using-generative-ai-platforms-to-do-legal-research-is-playing-with-fire-is-living-in-a-cloud/)
+ - [&#39;This step is necessary to prove I&#39;m not a bot&#39; says agentic AI as it reportedly clicks the &#39;I am not a robot&#39; button](https://www.pcgamer.com/software/ai/this-step-is-necessary-to-prove-im-not-a-bot-says-agentic-ai-as-it-reportedly-clicks-the-i-am-not-a-robot-button/)
+ - [PlayStation Plus Monthly Games for August: Lies of P, Day Z, My Hero One’s Justice 2](https://blog.playstation.com/2025/07/29/playstation-plus-monthly-games-for-august-lies-of-p-day-z-my-hero-ones-justice-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
