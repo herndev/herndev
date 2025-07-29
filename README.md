@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)
- - ⏩ [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
- - 👉 [Alabama..](http://9gag.com/gag/a9yBYX0)<!-- MEMES:END -->
+ - 💣 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
+ - ⏩ [Impressive](http://9gag.com/gag/a6Z87jL)
+ - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
 
 ---
 
