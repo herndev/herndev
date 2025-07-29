@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to blue screen a guy](http://9gag.com/gag/aqyALpv)
- - ⏩ [Broadcasting live from the bottom of the Argentine sea. I saw it. You saw it.](http://9gag.com/gag/aXPe93v)
- - 👉 [Who needs it anyway](http://9gag.com/gag/aLnrM2P)<!-- MEMES:END -->
+ - 💣 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)
+ - ⏩ [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
+ - 👉 [Alabama..](http://9gag.com/gag/a9yBYX0)<!-- MEMES:END -->
 
 ---
 
