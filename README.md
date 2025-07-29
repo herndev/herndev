@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Anthropic&#39;s Dario Amodei and how his father&#39;s passing from an illness, four years before a breakthrough made it 95% curable, shaped his path &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250729/p32#a250729p32)
- - [Sources: Apple loses a fourth AI researcher in a month to Meta&#39;s superintelligence team; the AFM team is in flux and Apple has marginally increased their pay &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250729/p31#a250729p31)
- - [Retroid Pocket Flip 2 owners are spotting the return of a familiar problem &lpar;Update: Response&rpar;](https://www.androidauthority.com/retroid-pocket-flip-2-cracks-3582097/)<!-- TECH:END -->
+ - [Yelp is making AI videos about restaurants, using AI generated scripts and voice-overs based on reviews, incorporating pictures and videos posted by users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250729/p34#a250729p34)
+ - [YouTube’s best Premium feature is finally coming to the big screen](https://www.androidauthority.com/youtube-jump-ahead-on-tv-3582215/)
+ - [Crippling Google Home issues spark potential class action response](https://www.androidauthority.com/google-home-issues-class-action-3582193/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
