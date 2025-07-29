@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China used its World AI Conference to assert its AI ambitions to an international audience, presenting an alternative to President Trump&#39;s &quot;America First&quot; plans &lpar;Financial Times&rpar;](http://www.techmeme.com/250729/p5#a250729p5)
- - [Waymo plans to launch its robotaxi service in Dallas in 2026 with Avis as the fleet partner, a first after exclusively working with Uber in Austin and Atlanta &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250729/p4#a250729p4)
- - [The Real Demon Inside ChatGPT](https://www.wired.com/story/chatgpt-devil-worship-llm-training/)<!-- TECH:END -->
+ - [Home Depot now has an app-controlled version of its viral Halloween skeleton](https://www.theverge.com/news/714547/home-depot-halloween-ultra-skelly-mobile-app-animated)
+ - [Sources: the US DOJ fired two of its most senior antitrust enforcers after disagreements related to defusing its lawsuit against HPE over its $14B Juniper deal &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/250729/p8#a250729p8)
+ - [Google says pick Maps or Waze in the car — here’s how I use both](https://www.androidauthority.com/run-google-maps-waze-android-auto-3581015/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
