@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s StanbyMe 2 is an unquestionably cool TV at a questionably high price](https://www.theverge.com/news/715523/lg-stanbyme-2-price-available-features)
- - [Sources: Groq is set to raise ~$600M in a funding round led by Disruptive, which committed more than $300M to the deal that would give Groq a ~$6B valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250729/p35#a250729p35)
- - [Apple nears $1 billion in Bay Area office space expansion in three months](https://appleinsider.com/articles/25/07/29/apple-nears-1-billion-in-bay-area-office-space-expansion-in-three-months?utm_source=rss)<!-- TECH:END -->
+ - [Pixel 10 leak hints it’s getting the magnetic Qi2 charging you’ve been waiting for](https://www.androidauthority.com/caseless-pixel-10-qi2-support-3582251/)
+ - [macOS Sequoia 15.6 update brings security improvements and bug fixes](https://appleinsider.com/articles/25/07/29/macos-sequoia-186-update-brings-security-improvements-and-bug-fixes?utm_source=rss)
+ - [Rare Apple memorabilia, Macs, &amp; more up for auction ending August 21](https://appleinsider.com/articles/25/07/29/rare-apple-memorabilia-macs-more-up-for-auction-ending-august-21?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
