@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)
- - ⏩ [Who is in the wrong?](http://9gag.com/gag/adBbj4Z)
- - 👉 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)<!-- MEMES:END -->
+ - 💣 [Impressive](http://9gag.com/gag/a6Z87jL)
+ - ⏩ [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
+ - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
 
 ---
 
