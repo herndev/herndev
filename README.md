@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taxi 3 &lpar;2003&rpar;](http://9gag.com/gag/aPAnWzV)
- - ⏩ [This is the joke](http://9gag.com/gag/aLnr9RP)
- - 👉 [Tasks failed successfully](http://9gag.com/gag/a0ewjKz)<!-- MEMES:END -->
+ - 💣 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - ⏩ [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 👉 [Touching girls randomly isn&#39;t the way.](http://9gag.com/gag/aryzKpp)<!-- MEMES:END -->
 
 ---
 
