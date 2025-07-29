@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Junction Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614706/junction-banandium-gem-golden-banana-locations-list-map-all)
- - [You can tour the entirety of Silent Hill 2 in Roblox now, but the creator recommends playing the real thing first: &#39;This is not the best way to experience Silent Hill 2&#39;](https://www.pcgamer.com/games/horror/you-can-tour-the-entirety-of-silent-hill-2-in-roblox-now-but-the-creator-recommends-playing-the-real-thing-first-this-is-not-the-best-way-to-experience-silent-hill-2/)
- - [How to get flower petals in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-flower-petals-location/)<!-- GAME:END -->
+ - [The Mighty Nein Amazon show will breathe new life into Critical Role&amp;#8217;s clunkiest romance](https://www.polygon.com/critical-role/617122/the-mighty-nein-amazon-beau-yasha-romance)
+ - [Ranking Blizzard’s Proposed Overwatch 2 Collabs By How Much I Do Or Don&#39;t Want Them](https://kotaku.com/overwatch-2-collaborations-survey-pokemon-star-wars-1851787277)
+ - [For better or worse, a new single-button way to play World of Warcraft is changing the game: &#39;We&#39;ve received overwhelmingly positive feedback&#39;](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-single-button-rotation-assist-verdict/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
