@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to break cracked rocks in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-cracked-rocks-explosives/)
- - [Ayaneo confirms a Strix Halo handheld gaming PC is on the way, but if you think the powerful AMD chip is overkill, wait until you see the M.2 slots](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-confirms-a-strix-halo-handheld-gaming-pc-is-on-the-way-but-if-you-think-the-powerful-amd-chip-is-overkill-wait-until-you-see-the-m-2-slots/)
- - [Plagiarism Concerns Hit Pokémon TCG Pocket Over Ho-Oh Card Art](https://kotaku.com/pokemon-tcg-pocket-ho-oh-card-art-plagiarism-1851787197)<!-- GAME:END -->
+ - [Where to find thistle needles in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-thistle-needles-location/)
+ - [Someone Just Made It Way Easier To Eat Fries While Playing Switch 2](https://kotaku.com/switch-2-joy-con-grip-fries-mcdonalds-holder-3d-printer-1851787238)
+ - [Godbreakers Is The Latest Roguelike From Struggling Publisher Thunderful](https://kotaku.com/godbreakers-roguelike-trailer-demo-atari-thunderful-1851787237)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
