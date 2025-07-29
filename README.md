@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
- - ⏩ [I would be mad too](http://9gag.com/gag/aqyArZP)
- - 👉 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)<!-- MEMES:END -->
+ - 💣 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
+ - ⏩ [Starting new with yt](http://9gag.com/gag/aZZvN9Q)
+ - 👉 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)<!-- MEMES:END -->
 
 ---
 
