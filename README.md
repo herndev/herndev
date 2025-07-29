@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Evo 2025: How to watch fighting games’ biggest event of the year](https://www.polygon.com/gaming/617086/evo-2025-how-to-watch-fighting-games-biggest-event-of-the-year)
- - [Game developers association decries &#39;financial censorship&#39; amidst payment processor crackdown on NSFW games, calls for &#39;greater transparency and fairness in how adult games are moderated&#39;](https://www.pcgamer.com/gaming-industry/game-developers-association-decries-financial-censorship-amidst-payment-processor-crackdown-on-nsfw-games-calls-for-greater-transparency-and-fairness-in-how-adult-games-are-moderated/)
- - [Call of Duty: Black Ops 6 and Warzone Season 05: Hold the Line](https://www.callofduty.com/blog/2025/07/call-of-duty-black-ops-6-warzone-zombies-season-5-announcement#new_tab)<!-- GAME:END -->
+ - [Call of Duty is finally freeing some of the older games from the CoD HQ launcher nobody likes](https://www.pcgamer.com/games/fps/call-of-duty-is-finally-freeing-some-of-the-older-games-from-the-cod-hq-launcher-nobody-likes/)
+ - [Where to find weed stems in Grounded 2](https://www.polygon.com/guides/617221/grounded-2-weed-stems-locations-where-to-find)
+ - [Every &#39;Face Of The Past&#39; Location In Wuchang, And Which Gestures To Use On Them](https://kotaku.com/wuchang-correct-gesture-location-blue-glow-faces-past-1851787266)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
