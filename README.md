@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Quarantine Zone was almost a zombie-free sim about managing a warehouse](https://www.pcgamer.com/games/sim/quarantine-zone-was-almost-a-zombie-free-sim-about-managing-a-warehouse/)
  - [&#39;Maybe I’ve directed my last game,&#39; Dead Space creator Glen Schofield says after being unable to secure funding for his new project: &#39;With the industry on pause, AAA feels like it&#39;s a long ways away&#39;](https://www.pcgamer.com/gaming-industry/maybe-ive-directed-my-last-game-dead-space-creator-glen-schofield-says-after-being-unable-to-secure-funding-for-his-new-project-with-the-industry-on-pause-aaa-feels-like-its-a-long-ways-away/)
- - [A &#39;slavish clone&#39;: Sony is suing Tencent over a game that looks startlingly similar to Horizon Zero Dawn](https://www.pcgamer.com/games/action/a-slavish-clone-sony-is-suing-tencent-over-a-game-that-looks-startlingly-similar-to-horizon-zero-dawn/)
- - [Earthbound-Style Fan Remake Of The Original Mother Might Finally Launch 19 Years Later](https://kotaku.com/earthbound-beginnings-remake-romhack-nintendo-trailer-1851787185)<!-- GAME:END -->
+ - [A &#39;slavish clone&#39;: Sony is suing Tencent over a game that looks startlingly similar to Horizon Zero Dawn](https://www.pcgamer.com/games/action/a-slavish-clone-sony-is-suing-tencent-over-a-game-that-looks-startlingly-similar-to-horizon-zero-dawn/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
