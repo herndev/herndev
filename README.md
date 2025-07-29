@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just trust the man](http://9gag.com/gag/awyv5Ar)
- - ⏩ [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
- - 👉 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)<!-- MEMES:END -->
+ - 💣 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
+ - ⏩ [Unbelievable](http://9gag.com/gag/aLnr9BW)
+ - 👉 [I hate people that swipe](http://9gag.com/gag/aW498Q2)<!-- MEMES:END -->
 
 ---
 
