@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Tyler, The Creator single &#39;leak&#39; turned out to be an AI-generated fake and points to a whole cottage industry in misleading fans of games, music, and movies](https://www.pcgamer.com/software/ai/a-tyler-the-creator-single-leak-turned-out-to-be-an-ai-generated-fake-and-points-to-a-whole-cottage-industry-in-misleading-fans-of-games-music-and-movies/)
- - [Robots and heavy metal should be a match made in music heaven, but this collab in China is as exciting as your grandma moshing to Megadeth on metoprolol](https://www.pcgamer.com/hardware/robots-and-heavy-metal-should-be-a-match-made-in-music-heaven-but-this-collab-in-china-is-as-exciting-as-your-grandma-moshing-to-megadeth-on-metoprolol/)
- - [How to get the corrupt mutation in Grow a Garden](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-corrupt-mutation/)<!-- GAME:END -->
+ - [Wuchang makes the same mistake as Stellar Blade](https://www.polygon.com/gaming/616926/wuchang-fallen-feathers-stellar-blade-soulslike-marketing)
+ - [UK secretary of state for science, innovation and technology says you&#39;re on the side of &#39;extreme pornographers&#39; and &#39;predators&#39; if you want the Online Safety Act walked back](https://www.pcgamer.com/software/browsers/uk-secretary-of-state-for-science-innovation-and-technology-says-youre-on-the-side-of-extreme-pornographers-and-predators-if-you-want-the-online-safety-act-walked-back/)
+ - [Itch.io releases list of the adult content you can&#39;t put on its store anymore after anti-NSFW crackdown, including stuff that&#39;s not illegal but just icky](https://www.pcgamer.com/games/itch-io-releases-list-of-the-adult-content-you-cant-put-on-its-store-anymore-after-anti-nsfw-crackdown-including-stuff-thats-not-illegal-but-just-icky/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
