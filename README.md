@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
- - ⏩ [Impressive](http://9gag.com/gag/a6Z87jL)
- - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
+ - 💣 [Oops](http://9gag.com/gag/aE0En6o)
+ - ⏩ [Who needs it anyway](http://9gag.com/gag/aLnrM2P)
+ - 👉 [Unbelievable](http://9gag.com/gag/aLnr9BW)<!-- MEMES:END -->
 
 ---
 
