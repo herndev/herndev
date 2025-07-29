@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Being the cool mom, but also being a mom](http://9gag.com/gag/aO8Gvvv)
- - ⏩ [Who is in the wrong?](http://9gag.com/gag/adBbj4Z)
- - 👉 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)<!-- MEMES:END -->
+ - 💣 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
+ - ⏩ [We just need TitiTes](http://9gag.com/gag/aND3WM4)
+ - 👉 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)<!-- MEMES:END -->
 
 ---
 
