@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Some lucky souls will get hands-on with Silksong within weeks, with the Hollow Knight sequel confirmed to be playable at Gamescom 2025](https://www.pcgamer.com/games/action/some-lucky-souls-will-get-hands-on-with-silksong-within-weeks-with-the-hollow-knight-sequel-confirmed-to-be-playable-at-gamescom-2025/)
  - [Quarantine Zone was almost a zombie-free sim about managing a warehouse](https://www.pcgamer.com/games/sim/quarantine-zone-was-almost-a-zombie-free-sim-about-managing-a-warehouse/)
- - [&#39;Maybe I’ve directed my last game,&#39; Dead Space creator Glen Schofield says after being unable to secure funding for his new project: &#39;With the industry on pause, AAA feels like it&#39;s a long ways away&#39;](https://www.pcgamer.com/gaming-industry/maybe-ive-directed-my-last-game-dead-space-creator-glen-schofield-says-after-being-unable-to-secure-funding-for-his-new-project-with-the-industry-on-pause-aaa-feels-like-its-a-long-ways-away/)
- - [A &#39;slavish clone&#39;: Sony is suing Tencent over a game that looks startlingly similar to Horizon Zero Dawn](https://www.pcgamer.com/games/action/a-slavish-clone-sony-is-suing-tencent-over-a-game-that-looks-startlingly-similar-to-horizon-zero-dawn/)<!-- GAME:END -->
+ - [&#39;Maybe I&#39;ve directed my last game,&#39; Dead Space creator Glen Schofield says after being unable to secure funding for his new project: &#39;With the industry on pause, AAA feels like it&#39;s a long ways away&#39;](https://www.pcgamer.com/gaming-industry/maybe-ive-directed-my-last-game-dead-space-creator-glen-schofield-says-after-being-unable-to-secure-funding-for-his-new-project-with-the-industry-on-pause-aaa-feels-like-its-a-long-ways-away/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
