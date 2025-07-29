@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, well, well, who would have thought?](http://9gag.com/gag/ajPyq6p)
- - ⏩ [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
+ - 💣 [That meme](http://9gag.com/gag/a34njrN)
+ - ⏩ [I got rid of the music. Not sure whatt happened before this started.](http://9gag.com/gag/abAE0MX)
+ - 👉 [It&#39;s always the men&#39;s fault](http://9gag.com/gag/a5QD7mo)<!-- MEMES:END -->
 
 ---
 
