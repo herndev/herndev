@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI Mode update adds even more tools for students](https://www.theverge.com/news/715218/google-ai-mode-image-upload-canvas-update-students)
- - [Amazon slashes M4 MacBook Pro to all-time low $1,299 &lpar;save up to $437&rpar;](https://appleinsider.com/articles/25/07/29/amazon-slashes-m4-macbook-pro-to-all-time-low-1299-save-up-to-437?utm_source=rss)
- - [New iPhone 17 Pro MagSafe redesign shown in leaked image](https://appleinsider.com/articles/25/07/29/new-iphone-17-pro-magsafe-redesign-shown-in-leaked-image?utm_source=rss)<!-- TECH:END -->
+ - [ChatGPT’s Study Mode Is Here. It Won’t Fix Education’s AI Problems](https://www.wired.com/story/chatgpt-study-mode/)
+ - [The Pandemic Appears to Have Accelerated Brain Aging, Even in People Who Never Got Covid](https://www.wired.com/story/the-pandemic-accelerated-brain-aging-even-in-people-who-never-got-covid/)
+ - [Sparrow, which uses AI to consolidate fragmented leave management processes, raised a $35M Series B led by Silver Lake Waterman, for $64M in total funding &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250729/p25#a250729p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
