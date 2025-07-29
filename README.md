@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
- - ⏩ [That meme](http://9gag.com/gag/a34njrN)
- - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
+ - 💣 [Being the cool mom, but also being a mom](http://9gag.com/gag/aO8Gvvv)
+ - ⏩ [Who is in the wrong?](http://9gag.com/gag/adBbj4Z)
+ - 👉 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)<!-- MEMES:END -->
 
 ---
 
