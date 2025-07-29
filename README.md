@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How long will your Galaxy Z Fold 7 screen last? That depends on where you live.](https://www.androidauthority.com/samsung-galaxy-z-fold-7-screen-durability-temperatures-3581884/)
- - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
- - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
+ - [The race for the thinnest foldable is on, and TECNO sets the tone with the tri-fold PHANTOM Ultimate G Fold Concept](https://www.androidauthority.com/thinnest-foldable-tecno-phantom-ultimate-g-fold-concept-3581870/)
+ - [Love your new Galaxy Watch 8? Here’s one setting you need to fix immediately](https://www.androidauthority.com/samsung-galaxy-watch-8-fix-this-notification-setting-immediately-3581612/)
+ - [Exclusive: Galaxy S26 series could represent a major shake-up in Samsung’s flagship lineup](https://www.androidauthority.com/exclusive-samsung-galaxy-s26-series-branding-shakeup-3581900/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
