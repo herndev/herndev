@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oops](http://9gag.com/gag/aE0En6o)
- - ⏩ [Who needs it anyway](http://9gag.com/gag/aLnrM2P)
- - 👉 [Unbelievable](http://9gag.com/gag/aLnr9BW)<!-- MEMES:END -->
+ - 💣 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
+ - ⏩ [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 👉 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)<!-- MEMES:END -->
 
 ---
 
