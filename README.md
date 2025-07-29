@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - ⏩ [How to blue screen a guy](http://9gag.com/gag/aqyALpv)
- - 👉 [Tasks failed successfully](http://9gag.com/gag/a0ewjKz)<!-- MEMES:END -->
+ - 💣 [Well, well, well, who would have thought?](http://9gag.com/gag/ajPyq6p)
+ - ⏩ [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
 
 ---
 
