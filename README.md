@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty is finally freeing some of the older games from the CoD HQ launcher nobody likes](https://www.pcgamer.com/games/fps/call-of-duty-is-finally-freeing-some-of-the-older-games-from-the-cod-hq-launcher-nobody-likes/)
- - [Where to find weed stems in Grounded 2](https://www.polygon.com/guides/617221/grounded-2-weed-stems-locations-where-to-find)
- - [Every &#39;Face Of The Past&#39; Location In Wuchang, And Which Gestures To Use On Them](https://kotaku.com/wuchang-correct-gesture-location-blue-glow-faces-past-1851787266)<!-- GAME:END -->
+ - [The Junction Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614706/junction-banandium-gem-golden-banana-locations-list-map-all)
+ - [You can tour the entirety of Silent Hill 2 in Roblox now, but the creator recommends playing the real thing first: &#39;This is not the best way to experience Silent Hill 2&#39;](https://www.pcgamer.com/games/horror/you-can-tour-the-entirety-of-silent-hill-2-in-roblox-now-but-the-creator-recommends-playing-the-real-thing-first-this-is-not-the-best-way-to-experience-silent-hill-2/)
+ - [How to get flower petals in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-flower-petals-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
