@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Xbox is rolling out age verification in the UK with some social features blocked for young users, and no, you can&#39;t use Death Stranding to get around this one](https://www.pcgamer.com/hardware/xbox-is-rolling-out-age-verification-in-the-uk-with-some-social-features-blocked-for-young-users-and-no-you-cant-use-death-stranding-to-get-around-this-one/)
  - [Can Roggenrola be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24180267/can-roggenrola-be-shiny-boldore-gigalith)
- - [Today&#39;s Wordle answer for Tuesday, July 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-29-2025/)
- - [Some lucky souls will get hands-on with Silksong within weeks, with the Hollow Knight sequel confirmed to be playable at Gamescom 2025](https://www.pcgamer.com/games/action/some-lucky-souls-will-get-hands-on-with-silksong-within-weeks-with-the-hollow-knight-sequel-confirmed-to-be-playable-at-gamescom-2025/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, July 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-29-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
