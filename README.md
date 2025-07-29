@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wuchang makes the same mistake as Stellar Blade](https://www.polygon.com/gaming/616926/wuchang-fallen-feathers-stellar-blade-soulslike-marketing)
- - [UK secretary of state for science, innovation and technology says you&#39;re on the side of &#39;extreme pornographers&#39; and &#39;predators&#39; if you want the Online Safety Act walked back](https://www.pcgamer.com/software/browsers/uk-secretary-of-state-for-science-innovation-and-technology-says-youre-on-the-side-of-extreme-pornographers-and-predators-if-you-want-the-online-safety-act-walked-back/)
- - [Itch.io releases list of the adult content you can&#39;t put on its store anymore after anti-NSFW crackdown, including stuff that&#39;s not illegal but just icky](https://www.pcgamer.com/games/itch-io-releases-list-of-the-adult-content-you-cant-put-on-its-store-anymore-after-anti-nsfw-crackdown-including-stuff-thats-not-illegal-but-just-icky/)<!-- GAME:END -->
+ - [Philips Evnia 27M2N3800A gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/philips-evnia-27m2n3800a-gaming-monitor-review/)
+ - [Where to find grass seeds in Grounded 2](https://www.polygon.com/guides/616973/grounded-2-where-to-find-grass-seed-locations)
+ - [Buggin’ Out: A Survival Guide to Getting Started in Grounded 2](https://news.xbox.com/en-us/2025/07/29/getting-started-in-grounded-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
