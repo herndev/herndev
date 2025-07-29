@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That meme](http://9gag.com/gag/a34njrN)
- - ⏩ [I got rid of the music. Not sure whatt happened before this started.](http://9gag.com/gag/abAE0MX)
- - 👉 [It&#39;s always the men&#39;s fault](http://9gag.com/gag/a5QD7mo)<!-- MEMES:END -->
+ - 💣 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - ⏩ [I would be mad too](http://9gag.com/gag/aqyArZP)
+ - 👉 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)<!-- MEMES:END -->
 
 ---
 
