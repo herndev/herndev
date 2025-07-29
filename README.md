@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
- - ⏩ [Starting new with yt](http://9gag.com/gag/aZZvN9Q)
- - 👉 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)<!-- MEMES:END -->
+ - 💣 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
+ - ⏩ [That meme](http://9gag.com/gag/a34njrN)
+ - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
 
 ---
 
