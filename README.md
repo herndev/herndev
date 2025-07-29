@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
- - ⏩ [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - 👉 [Touching girls randomly isn&#39;t the way.](http://9gag.com/gag/aryzKpp)<!-- MEMES:END -->
+ - 💣 [Awesome! Here are a variety of funny title options across different themes for your video: --- Yeah i used chat gpt](http://9gag.com/gag/awyvV2W)
+ - ⏩ [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
+ - 👉 [When you are at the gas station and realize you are ron weasley](http://9gag.com/gag/amon8bX)<!-- MEMES:END -->
 
 ---
 
