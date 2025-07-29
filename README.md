@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: over a dozen people at Thinking Machines Lab were approached by Meta; one offer was $1B+ over a multi-year span; not a single person has taken the offer &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250729/p29#a250729p29)
- - [YouTube will identify and restrict minors’ accounts with AI](https://www.theverge.com/news/715343/youtube-age-estimation-ai-minor-account-restrictions)
- - [YouTube is rolling out age estimation tech in the US to identify teen users and serve more age-appropriate content, regardless of the birthday given at signup &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250729/p28#a250729p28)<!-- TECH:END -->
+ - [An interview with Anthropic&#39;s Dario Amodei and how his father&#39;s passing from an illness, four years before a breakthrough made it 95% curable, shaped his path &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250729/p32#a250729p32)
+ - [Sources: Apple loses a fourth AI researcher in a month to Meta&#39;s superintelligence team; the AFM team is in flux and Apple has marginally increased their pay &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250729/p31#a250729p31)
+ - [Retroid Pocket Flip 2 owners are spotting the return of a familiar problem &lpar;Update: Response&rpar;](https://www.androidauthority.com/retroid-pocket-flip-2-cracks-3582097/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
