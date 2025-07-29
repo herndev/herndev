@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How long will your Galaxy Z Fold 7 screen last? That depends on where you live.](https://www.androidauthority.com/samsung-galaxy-z-fold-7-screen-durability-temperatures-3581884/)
  - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
- - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)
- - [LG Promo Codes: 20% Off | July 2025](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
