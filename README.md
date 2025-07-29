@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
- - ⏩ [Unbelievable](http://9gag.com/gag/aLnr9BW)
- - 👉 [I hate people that swipe](http://9gag.com/gag/aW498Q2)<!-- MEMES:END -->
+ - 💣 [That meme](http://9gag.com/gag/a34njrN)
+ - ⏩ [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
+ - 👉 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)<!-- MEMES:END -->
 
 ---
 
