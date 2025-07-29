@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Judge sends hangdog lawyer to AI school after he&#39;s caught using ChatGPT to cite imaginary caselaw: &#39;Any lawyer unaware that using generative AI platforms to do legal research is playing with fire is living in a cloud&#39;](https://www.pcgamer.com/software/ai/judge-sends-hangdog-lawyer-to-ai-school-after-hes-caught-using-chatgpt-to-cite-imaginary-caselaw-any-lawyer-unaware-that-using-generative-ai-platforms-to-do-legal-research-is-playing-with-fire-is-living-in-a-cloud/)
- - [&#39;This step is necessary to prove I&#39;m not a bot&#39; says agentic AI as it reportedly clicks the &#39;I am not a robot&#39; button](https://www.pcgamer.com/software/ai/this-step-is-necessary-to-prove-im-not-a-bot-says-agentic-ai-as-it-reportedly-clicks-the-i-am-not-a-robot-button/)
- - [PlayStation Plus Monthly Games for August: Lies of P, Day Z, My Hero One’s Justice 2](https://blog.playstation.com/2025/07/29/playstation-plus-monthly-games-for-august-lies-of-p-day-z-my-hero-ones-justice-2/)<!-- GAME:END -->
+ - [FOMO won, I own a Switch 2 now](https://www.polygon.com/nintendo-switch-2/617002/fomo-buying-switch-tariffs-price-increase)
+ - [It&#39;s a golden age for weird Eastern European games—you can tell because I&#39;m in love with a horror puzzler about 2 old men trying to find evil in the woods](https://www.pcgamer.com/games/horror/its-a-golden-age-for-weird-eastern-european-games-you-can-tell-because-im-in-love-with-a-horror-puzzler-about-2-old-men-trying-to-find-evil-in-the-woods/)
+ - [As the Chinese game industry flocks from mobile to AAA blockbusters, Phantom Blade Zero&#39;s director says the quiet part out loud: &#39;Good games are good. It&#39;s not &#39;big games are good.&#39;&#39;](https://www.pcgamer.com/games/action/as-the-chinese-game-industry-flocks-from-mobile-to-aaa-blockbusters-phantom-blade-zeros-director-says-the-quiet-part-out-loud-good-games-are-good-its-not-big-games-are-good/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
