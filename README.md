@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Roggenrola be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24180267/can-roggenrola-be-shiny-boldore-gigalith)
  - [Today&#39;s Wordle answer for Tuesday, July 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-29-2025/)
- - [Some lucky souls will get hands-on with Silksong within weeks, with the Hollow Knight sequel confirmed to be playable at Gamescom 2025](https://www.pcgamer.com/games/action/some-lucky-souls-will-get-hands-on-with-silksong-within-weeks-with-the-hollow-knight-sequel-confirmed-to-be-playable-at-gamescom-2025/)<!-- GAME:END -->
+ - [Some lucky souls will get hands-on with Silksong within weeks, with the Hollow Knight sequel confirmed to be playable at Gamescom 2025](https://www.pcgamer.com/games/action/some-lucky-souls-will-get-hands-on-with-silksong-within-weeks-with-the-hollow-knight-sequel-confirmed-to-be-playable-at-gamescom-2025/)
+ - [Quarantine Zone was almost a zombie-free sim about managing a warehouse](https://www.pcgamer.com/games/sim/quarantine-zone-was-almost-a-zombie-free-sim-about-managing-a-warehouse/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
