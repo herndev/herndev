@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FOMO won, I own a Switch 2 now](https://www.polygon.com/nintendo-switch-2/617002/fomo-buying-switch-tariffs-price-increase)
- - [It&#39;s a golden age for weird Eastern European games—you can tell because I&#39;m in love with a horror puzzler about 2 old men trying to find evil in the woods](https://www.pcgamer.com/games/horror/its-a-golden-age-for-weird-eastern-european-games-you-can-tell-because-im-in-love-with-a-horror-puzzler-about-2-old-men-trying-to-find-evil-in-the-woods/)
- - [As the Chinese game industry flocks from mobile to AAA blockbusters, Phantom Blade Zero&#39;s director says the quiet part out loud: &#39;Good games are good. It&#39;s not &#39;big games are good.&#39;&#39;](https://www.pcgamer.com/games/action/as-the-chinese-game-industry-flocks-from-mobile-to-aaa-blockbusters-phantom-blade-zeros-director-says-the-quiet-part-out-loud-good-games-are-good-its-not-big-games-are-good/)<!-- GAME:END -->
+ - [Evo 2025: How to watch fighting games’ biggest event of the year](https://www.polygon.com/gaming/617086/evo-2025-how-to-watch-fighting-games-biggest-event-of-the-year)
+ - [Game developers association decries &#39;financial censorship&#39; amidst payment processor crackdown on NSFW games, calls for &#39;greater transparency and fairness in how adult games are moderated&#39;](https://www.pcgamer.com/gaming-industry/game-developers-association-decries-financial-censorship-amidst-payment-processor-crackdown-on-nsfw-games-calls-for-greater-transparency-and-fairness-in-how-adult-games-are-moderated/)
+ - [Call of Duty: Black Ops 6 and Warzone Season 05: Hold the Line](https://www.callofduty.com/blog/2025/07/call-of-duty-black-ops-6-warzone-zombies-season-5-announcement#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
