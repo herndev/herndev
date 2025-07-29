@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Home Depot now has an app-controlled version of its viral Halloween skeleton](https://www.theverge.com/news/714547/home-depot-halloween-ultra-skelly-mobile-app-animated)
- - [Sources: the US DOJ fired two of its most senior antitrust enforcers after disagreements related to defusing its lawsuit against HPE over its $14B Juniper deal &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/250729/p8#a250729p8)
- - [Google says pick Maps or Waze in the car — here’s how I use both](https://www.androidauthority.com/run-google-maps-waze-android-auto-3581015/)<!-- TECH:END -->
+ - [Google is working on AI-powered custom icon themes for your Pixel phone](https://www.androidauthority.com/pixel-ai-icon-styles-3581846/)
+ - [There’s bad news for all you T-Mobile Money users out there](https://www.androidauthority.com/t-mobile-money-migration-t-life-3581990/)
+ - [25 Best Cheap Watches Under $1,000 &lpar;2025&rpar;: Timex, Hamilton, and Seiko](https://www.wired.com/gallery/best-cheap-watches/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
