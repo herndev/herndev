@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26 Message filtering upsetting fundraising politicians that want to annoy iPhone users](https://appleinsider.com/articles/25/07/29/message-filtering-in-ios-26-upsetting-politicians-that-want-to-annoy-iphone-customers?utm_source=rss)
- - [Apple&#39;s delayed Siri update spawns another securities lawsuit](https://appleinsider.com/articles/25/07/29/apples-delayed-siri-update-spawns-another-securities-lawsuit?utm_source=rss)
- - [Adobe rolls out new generative AI features for Photoshop to let users more easily add or remove people and objects, including &quot;Harmonize&quot; compositing, in beta &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250729/p11#a250729p11)<!-- TECH:END -->
+ - [Filing: Bit Digital-owned AI infrastructure company Whitefiber seeks to raise $132.8M in an IPO, selling 7.8M shares for $15 to $17 for an up to $593M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p16#a250729p16)
+ - [What&amp;#8217;s on your desk, Cameron Faulkner?](https://www.theverge.com/tech/712619/desk-home-office-coins)
+ - [Google Workspace is rolling out a security update to stop token stealing attacks](https://www.theverge.com/news/715117/google-workspace-dbsc-cookie-stealing-attack)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
