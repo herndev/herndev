@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
- - ⏩ [We just need TitiTes](http://9gag.com/gag/aND3WM4)
- - 👉 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)<!-- MEMES:END -->
+ - 💣 [How to blue screen a guy](http://9gag.com/gag/aqyALpv)
+ - ⏩ [Broadcasting live from the bottom of the Argentine sea. I saw it. You saw it.](http://9gag.com/gag/aXPe93v)
+ - 👉 [Who needs it anyway](http://9gag.com/gag/aLnrM2P)<!-- MEMES:END -->
 
 ---
 
