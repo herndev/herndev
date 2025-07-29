@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Impressive](http://9gag.com/gag/a6Z87jL)
- - ⏩ [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
- - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
+ - 💣 [Taxi 3 &lpar;2003&rpar;](http://9gag.com/gag/aPAnWzV)
+ - ⏩ [This is the joke](http://9gag.com/gag/aLnr9RP)
+ - 👉 [Tasks failed successfully](http://9gag.com/gag/a0ewjKz)<!-- MEMES:END -->
 
 ---
 
