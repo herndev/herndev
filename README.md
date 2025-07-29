@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos has a new look for its editor, and reactions are split](https://www.androidauthority.com/new-google-photos-editor-ui-3582081/)
- - [This upcoming Android-powered Nintendo DS clone can emulate Switch games, and my wallet isn’t ready](https://www.androidauthority.com/ayaneo-pocket-ds-specs-3582017/)
- - [Yelp is creating its own AI videos about restaurants](https://www.theverge.com/news/714944/yelp-ai-stitched-videos)<!-- TECH:END -->
+ - [Google’s AI Mode update adds even more tools for students](https://www.theverge.com/news/715218/google-ai-mode-image-upload-canvas-update-students)
+ - [Amazon slashes M4 MacBook Pro to all-time low $1,299 &lpar;save up to $437&rpar;](https://appleinsider.com/articles/25/07/29/amazon-slashes-m4-macbook-pro-to-all-time-low-1299-save-up-to-437?utm_source=rss)
+ - [New iPhone 17 Pro MagSafe redesign shown in leaked image](https://appleinsider.com/articles/25/07/29/new-iphone-17-pro-magsafe-redesign-shown-in-leaked-image?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
