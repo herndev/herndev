@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Bit Digital-owned AI infrastructure company Whitefiber seeks to raise $132.8M in an IPO, selling 7.8M shares for $15 to $17 for an up to $593M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p16#a250729p16)
- - [What&amp;#8217;s on your desk, Cameron Faulkner?](https://www.theverge.com/tech/712619/desk-home-office-coins)
- - [Google Workspace is rolling out a security update to stop token stealing attacks](https://www.theverge.com/news/715117/google-workspace-dbsc-cookie-stealing-attack)<!-- TECH:END -->
+ - [Google Photos has a new look for its editor, and reactions are split](https://www.androidauthority.com/new-google-photos-editor-ui-3582081/)
+ - [This upcoming Android-powered Nintendo DS clone can emulate Switch games, and my wallet isn’t ready](https://www.androidauthority.com/ayaneo-pocket-ds-specs-3582017/)
+ - [Yelp is creating its own AI videos about restaurants](https://www.theverge.com/news/714944/yelp-ai-stitched-videos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
