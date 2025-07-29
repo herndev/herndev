@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
- - ⏩ [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
- - 👉 [I hate people that swipe](http://9gag.com/gag/aW498Q2)<!-- MEMES:END -->
+ - 💣 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - ⏩ [How to blue screen a guy](http://9gag.com/gag/aqyALpv)
+ - 👉 [Tasks failed successfully](http://9gag.com/gag/a0ewjKz)<!-- MEMES:END -->
 
 ---
 
