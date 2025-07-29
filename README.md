@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sony WH-1000XM4 headphones are still great in 2025 for just $199.99](https://www.androidauthority.com/sony-wh-1000xm4-deal-3-3581769/)
- - [Salient, which uses AI to automate the post-loan origination process for lenders, raised a $60M Series A led by a16z, a source says at a $350M valuation &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250728/p25#a250728p25)
- - [PayPal Launches Pay With Crypto, Expanding Its Push Into Digital Currencies](https://www.cnet.com/personal-finance/crypto/paypal-launches-pay-with-crypto-expanding-its-push-into-digital-currencies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Edifier NeoBuds Planar review: Great-sounding Earbuds with a pricing problem](https://appleinsider.com/articles/25/07/29/edifier-neobuds-planar-review-great-sounding-earbuds-with-a-pricing-problem?utm_source=rss)
+ - [A second security breach at Tea exposes more than 1.1M user messages, dating from early 2023 to as recently as last week, many containing sensitive information &lpar;404 Media&rpar;](http://www.techmeme.com/250728/p29#a250728p29)
+ - [BlinkOps, which provides AI agents for cybersecurity tasks like managing identity access and patching bugs, raised a $50M Series B led by OG Venture Partners &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250728/p28#a250728p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
