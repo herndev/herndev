@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 leak hints it’s getting the magnetic Qi2 charging you’ve been waiting for](https://www.androidauthority.com/caseless-pixel-10-qi2-support-3582251/)
- - [macOS Sequoia 15.6 update brings security improvements and bug fixes](https://appleinsider.com/articles/25/07/29/macos-sequoia-186-update-brings-security-improvements-and-bug-fixes?utm_source=rss)
- - [Rare Apple memorabilia, Macs, &amp; more up for auction ending August 21](https://appleinsider.com/articles/25/07/29/rare-apple-memorabilia-macs-more-up-for-auction-ending-august-21?utm_source=rss)<!-- TECH:END -->
+ - [Wow, new-generation Samsung foldables still come with a free gift card!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-fe-deals-3582210/)
+ - [Gov. Tim Walz activates the Minnesota National Guard to help St. Paul address a cyberattack detected Friday that led the city to shut down many of its systems &lpar;Ernesto Londoño/New York Times&rpar;](http://www.techmeme.com/250729/p41#a250729p41)
+ - [Docs: Groq revised its 2025 revenue projections to $500M+ within the past month, citing delays in data center capacity, after projecting $2B+ earlier this year &lpar;The Information&rpar;](http://www.techmeme.com/250729/p40#a250729p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
