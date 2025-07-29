@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox is rolling out age verification in the UK with some social features blocked for young users, and no, you can&#39;t use Death Stranding to get around this one](https://www.pcgamer.com/hardware/xbox-is-rolling-out-age-verification-in-the-uk-with-some-social-features-blocked-for-young-users-and-no-you-cant-use-death-stranding-to-get-around-this-one/)
- - [Can Roggenrola be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24180267/can-roggenrola-be-shiny-boldore-gigalith)
- - [Today&#39;s Wordle answer for Tuesday, July 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-29-2025/)<!-- GAME:END -->
+ - [A Tyler, The Creator single &#39;leak&#39; turned out to be an AI-generated fake and points to a whole cottage industry in misleading fans of games, music, and movies](https://www.pcgamer.com/software/ai/a-tyler-the-creator-single-leak-turned-out-to-be-an-ai-generated-fake-and-points-to-a-whole-cottage-industry-in-misleading-fans-of-games-music-and-movies/)
+ - [Robots and heavy metal should be a match made in music heaven, but this collab in China is as exciting as your grandma moshing to Megadeth on metoprolol](https://www.pcgamer.com/hardware/robots-and-heavy-metal-should-be-a-match-made-in-music-heaven-but-this-collab-in-china-is-as-exciting-as-your-grandma-moshing-to-megadeth-on-metoprolol/)
+ - [How to get the corrupt mutation in Grow a Garden](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-corrupt-mutation/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
