@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That meme](http://9gag.com/gag/a34njrN)
+ - 💣 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
  - ⏩ [I think I would have a different reaction](http://9gag.com/gag/aByowZZ)
- - 👉 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)<!-- MEMES:END -->
+ - 👉 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)<!-- MEMES:END -->
 
 ---
 
