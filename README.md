@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The race for the thinnest foldable is on, and TECNO sets the tone with the tri-fold PHANTOM Ultimate G Fold Concept](https://www.androidauthority.com/thinnest-foldable-tecno-phantom-ultimate-g-fold-concept-3581870/)
- - [Love your new Galaxy Watch 8? Here’s one setting you need to fix immediately](https://www.androidauthority.com/samsung-galaxy-watch-8-fix-this-notification-setting-immediately-3581612/)
- - [Exclusive: Galaxy S26 series could represent a major shake-up in Samsung’s flagship lineup](https://www.androidauthority.com/exclusive-samsung-galaxy-s26-series-branding-shakeup-3581900/)<!-- TECH:END -->
+ - [China used its World AI Conference to assert its AI ambitions to an international audience, presenting an alternative to President Trump&#39;s &quot;America First&quot; plans &lpar;Financial Times&rpar;](http://www.techmeme.com/250729/p5#a250729p5)
+ - [Waymo plans to launch its robotaxi service in Dallas in 2026 with Avis as the fleet partner, a first after exclusively working with Uber in Austin and Atlanta &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250729/p4#a250729p4)
+ - [The Real Demon Inside ChatGPT](https://www.wired.com/story/chatgpt-devil-worship-llm-training/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
