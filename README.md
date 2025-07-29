@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Julius AI, which acts like a data scientist by analyzing data and running predictive models from natural language prompts, raised a $10M seed led by Bessemer &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250728/p32#a250728p32)
  - [Google will roll out AI Mode in the UK in the coming days after launching in the US and India; the optional feature will appear as a tab and in the search box &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/250728/p31#a250728p31)
- - [Message filtering in iOS 26 upsetting politicians that want to annoy iPhone customers](https://appleinsider.com/articles/25/07/29/message-filtering-in-ios-26-upsetting-politicians-that-want-to-annoy-iphone-customers?utm_source=rss)
- - [Sources: Coinbase is in advanced talks to acquire CoinDCX, potentially valuing the Indian crypto exchange at less than $1B, below its 2022 $2.15B valuation &lpar;Pankaj Mishra/Livemint&rpar;](http://www.techmeme.com/250728/p30#a250728p30)<!-- TECH:END -->
+ - [Message filtering in iOS 26 upsetting politicians that want to annoy iPhone customers](https://appleinsider.com/articles/25/07/29/message-filtering-in-ios-26-upsetting-politicians-that-want-to-annoy-iphone-customers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
