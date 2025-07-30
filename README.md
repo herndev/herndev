@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: One UI 8 beta 4 starts rolling out for the Galaxy S25 series](https://www.androidauthority.com/samsung-one-ui-8-fourth-beta-rolling-out-3582391/)
- - [An inside look at ex-unicorn Builder.ai&#39;s demise, which oversold its AI platform&#39;s abilities and frustrated customers with delivery delays and buggy products &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/250730/p8#a250730p8)
- - [Israel-based Teramount, which develops fiber-to-chip interconnect tools for AI infrastructure chips, raised a $50M Series A led by Koch Disruptive Technologies &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250730/p7#a250730p7)<!-- TECH:END -->
+ - [The US-China trade war has spurred demand for Vietnamese companies that produce chip components like wafers, as Vietnam scales up its semiconductor ambitions &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/250730/p11#a250730p11)
+ - [There’s bad news for all you T-Mobile Money users out there &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/t-mobile-money-migration-t-life-3581990/)
+ - [A look at OneChronos, as it seeks to create &quot;smart markets&quot; that would allow firms to trade GPU compute like other commodities, such as electricity and oil &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250730/p10#a250730p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
