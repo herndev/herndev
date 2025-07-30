@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [You can buy a Chinese made programmable humanoid-robot for under $6,000 USD, but it might be the same one that tried to fight civilians](https://www.pcgamer.com/hardware/you-can-buy-a-chinese-made-programmable-humanoid-robot-for-under-usd6-000-usd-but-it-might-be-the-same-one-that-tried-to-fight-civilians/)
  - [Mavrix is a promising sim about riding pushbikes down dangerously steep hills, but it shows the limits of open world design](https://www.pcgamer.com/games/racing/mavrix-is-a-promising-sim-about-riding-pushbikes-down-dangerously-steep-hills-but-it-shows-the-limits-of-open-world-design/)
- - [Bungie continues to fire into its feet with both barrels: A new armor set in Destiny 2 has just been disabled because it makes the player who wears it completely invisible](https://www.pcgamer.com/games/fps/bungie-continues-to-fire-into-its-feet-with-both-barrels-a-new-armor-set-in-destiny-2-has-just-been-disabled-because-it-makes-the-player-who-wears-it-completely-invisible/)
- - [How to reduce your Madness in Wuchang Fallen Feathers](https://www.polygon.com/guides/617330/wuchang-fallen-feathers-madness-reset-reduce-how-to)<!-- GAME:END -->
+ - [Bungie continues to fire into its feet with both barrels: A new armor set in Destiny 2 has just been disabled because it makes the player who wears it completely invisible](https://www.pcgamer.com/games/fps/bungie-continues-to-fire-into-its-feet-with-both-barrels-a-new-armor-set-in-destiny-2-has-just-been-disabled-because-it-makes-the-player-who-wears-it-completely-invisible/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
