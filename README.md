@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)
+ - 💣 [Oof](http://9gag.com/gag/aByowgO)
  - ⏩ [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 👉 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)<!-- MEMES:END -->
+ - 👉 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)<!-- MEMES:END -->
 
 ---
 
