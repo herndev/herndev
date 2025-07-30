@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Pocket Apologizes, Pulls New Cards Following Plagiarism Accusations](https://kotaku.com/pokemon-tcg-pocket-ho-oh-art-plagiarism-card-apology-1851787290)
- - [Elden Ring Nightreign&#39;s duo mode and other content have been delayed after an 8.8 magnitude earthquake sparks a tsunami warning across Japan](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-duo-mode-and-other-content-have-been-delayed-after-an-8-8-magnitude-earthquake-sparks-a-tsunami-warning-across-japan/)
- - [This futuristic keyboard from the past and some street stylin&#39; peripherals are the result of this latest gaming hardware collab](https://www.pcgamer.com/hardware/gaming-keyboards/this-futuristic-keyboard-from-the-past-and-some-street-stylin-peripherals-are-the-result-of-this-latest-gaming-hardware-collab/)<!-- GAME:END -->
+ - [The New York Times thinks generative AI is like Pac-Man ghosts and also the Matrix, because nobody gets to be normal about this stuff anymore](https://www.pcgamer.com/software/ai/the-new-york-times-thinks-generative-ai-is-like-pac-man-ghosts-and-also-the-matrix-because-nobody-gets-to-be-normal-about-this-stuff-anymore/)
+ - [Elden Ring Nightreign&#39;s Duo Mode Patch Is Delayed Following Massive Earthquake](https://kotaku.com/elden-ring-nightreign-patch-duo-mode-delay-earthquake-1851787291)
+ - [Pokémon TCG Pocket Apologizes, Pulls New Cards Following Plagiarism Accusations](https://kotaku.com/pokemon-tcg-pocket-ho-oh-art-plagiarism-card-apology-1851787290)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
