@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Plastic did indeed ruin the world](http://9gag.com/gag/aKGp22Q)
- - ⏩ [Just trust the man](http://9gag.com/gag/awyv5Ar)
- - 👉 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)<!-- MEMES:END -->
+ - 💣 [Just trust the man](http://9gag.com/gag/awyv5Ar)
+ - ⏩ [We just need TitiTes](http://9gag.com/gag/aND3WM4)
+ - 👉 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)<!-- MEMES:END -->
 
 ---
 
