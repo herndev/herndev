@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon TCG Pocket Apologizes, Pulls New Cards Following Plagiarism Accusations](https://kotaku.com/pokemon-tcg-pocket-ho-oh-art-plagiarism-card-apology-1851787290)
  - [Elden Ring Nightreign&#39;s duo mode and other content have been delayed after an 8.8 magnitude earthquake sparks a tsunami warning across Japan](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-duo-mode-and-other-content-have-been-delayed-after-an-8-8-magnitude-earthquake-sparks-a-tsunami-warning-across-japan/)
- - [This futuristic keyboard from the past and some street stylin&#39; peripherals are the result of this latest gaming hardware collab](https://www.pcgamer.com/hardware/gaming-keyboards/this-futuristic-keyboard-from-the-past-and-some-street-stylin-peripherals-are-the-result-of-this-latest-gaming-hardware-collab/)
- - [The latest SSDs from Micron are focussed on improving AI Data Centre performance](https://www.pcgamer.com/hardware/ssds/the-latest-ssds-from-micron-are-focussed-on-improving-ai-data-centre-performance/)<!-- GAME:END -->
+ - [This futuristic keyboard from the past and some street stylin&#39; peripherals are the result of this latest gaming hardware collab](https://www.pcgamer.com/hardware/gaming-keyboards/this-futuristic-keyboard-from-the-past-and-some-street-stylin-peripherals-are-the-result-of-this-latest-gaming-hardware-collab/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
