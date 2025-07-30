@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is probably stuck with iPhone manufacture in India](https://appleinsider.com/articles/25/07/30/apple-is-probably-stuck-with-iphone-manufacture-in-india?utm_source=rss)
- - [Spotify’s terrible privacy settings just leaked Palmer Luckey’s bops and bangers](https://www.theverge.com/privacy/716386/spotifys-terrible-privacy-settings-just-leaked-palmer-luckeys-bops-and-bangers)
- - [Dropbox says it’s time to find a new password manager as it prepares to shut down service](https://www.androidauthority.com/dropbox-password-manager-discontinued-3582689/)<!-- TECH:END -->
+ - [Austin-based Ambiq Micro closed up ~61% in its NYSE debut, after raising $96M in an upsized IPO, giving the maker of ultra-low power chips a $680M market value &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250730/p47#a250730p47)
+ - [What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening To, According to the ‘Panama Playlists’](https://www.wired.com/story/i-listened-to-the-alleged-spotify-playlists-of-trump-officials-for-five-hours-heres-what-i-learned/)
+ - [Figma priced its US IPO at $33 per share, above its expected range of $30 to $32, raising $1.2B in the offering and valuing the company at $19.3B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250730/p46#a250730p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
