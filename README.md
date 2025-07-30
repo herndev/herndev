@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest MacBook Air with M4 is down to its lowest price ever](https://www.theverge.com/tech/715878/macbook-air-samsung-galaxy-z-fold-7-deal-sale)
- - [YouTube is thinking about letting you avoid video comments entirely on mobile](https://www.androidauthority.com/youtube-hide-comments-dropdown-3582521/)
- - [The most powerful gaming handheld chipset will soon ship in this ‘budget’ handheld](https://www.androidauthority.com/konkr-pocket-fit-price-3582467/)<!-- TECH:END -->
+ - [Ready or not, age verification is rolling out across the internet](https://www.theverge.com/analysis/715767/online-age-verification-not-ready)
+ - [Microsoft is getting ready for GPT-5 with a new Copilot smart mode](https://www.theverge.com/notepad-microsoft-newsletter/715849/microsoft-copilot-smart-mode-testing-notepad)
+ - [How Edward ‘Big Balls’ Coristine and DOGE Got Access to a Federal Payroll System That Serves the FBI](https://www.wired.com/story/edward-coristine-big-balls-doge-federal-pay-roll-system/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
