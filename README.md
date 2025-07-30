@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wow, new-generation Samsung foldables still come with a free gift card!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-fe-deals-3582210/)
- - [Gov. Tim Walz activates the Minnesota National Guard to help St. Paul address a cyberattack detected Friday that led the city to shut down many of its systems &lpar;Ernesto Londoño/New York Times&rpar;](http://www.techmeme.com/250729/p41#a250729p41)
- - [Docs: Groq revised its 2025 revenue projections to $500M+ within the past month, citing delays in data center capacity, after projecting $2B+ earlier this year &lpar;The Information&rpar;](http://www.techmeme.com/250729/p40#a250729p40)<!-- TECH:END -->
+ - [New iPhone 17 dummy models estimate how some expected colors may look](https://appleinsider.com/articles/25/07/29/new-iphone-17-dummy-models-estimate-how-some-expected-colors-may-look?utm_source=rss)
+ - [Australia says it will include YouTube in its ban on social media for children under 16 years of age, reversing an earlier decision to exempt the platform &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/250729/p44#a250729p44)
+ - [Ofcom: YouTube is the second most-watched TV service in the UK, behind the BBC and ahead of ITV; one in five Gen Alpha viewers turn to YouTube first on their TV &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250729/p43#a250729p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
