@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Funny.. trust me](http://9gag.com/gag/aAyZwmL)
- - ⏩ [It rained](http://9gag.com/gag/axy4Vvb)
- - 👉 [Psycho the rapist](http://9gag.com/gag/axy4VzW)<!-- MEMES:END -->
+ - 💣 [Well, well, well, who would have thought?](http://9gag.com/gag/ajPyq6p)
+ - ⏩ [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
+ - 👉 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)<!-- MEMES:END -->
 
 ---
 
