@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
- - ⏩ [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
+ - 💣 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
+ - ⏩ [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
+ - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
 
 ---
 
