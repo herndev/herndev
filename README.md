@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oof](http://9gag.com/gag/aByowgO)
- - ⏩ [Women](http://9gag.com/gag/aRBDevA)
- - 👉 [Just trust the man](http://9gag.com/gag/awyv5Ar)<!-- MEMES:END -->
+ - 💣 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - ⏩ [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
 
 ---
 
