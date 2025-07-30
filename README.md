@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oof](http://9gag.com/gag/aByowgO)
- - ⏩ [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 👉 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)<!-- MEMES:END -->
+ - 💣 [Wingcat](http://9gag.com/gag/aD2Mj1x)
+ - ⏩ [No original experiences. No original posts.](http://9gag.com/gag/aD2Mzw9)
+ - 👉 [No potato, have a potato farmer instead](http://9gag.com/gag/adBb78D)<!-- MEMES:END -->
 
 ---
 
