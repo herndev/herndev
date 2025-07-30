@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
- - ⏩ [Plastic did indeed ruin the world](http://9gag.com/gag/aKGp22Q)
- - 👉 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)<!-- MEMES:END -->
+ - 💣 [Plastic did indeed ruin the world](http://9gag.com/gag/aKGp22Q)
+ - ⏩ [Just trust the man](http://9gag.com/gag/awyv5Ar)
+ - 👉 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)<!-- MEMES:END -->
 
 ---
 
