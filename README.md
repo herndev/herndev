@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worldline reports Q2 revenue down 4.4% YoY to €1.14B and a net loss of €4.2B for H1 2025, after booking a €4.1B impairment tied to merchant services business &lpar;Claudia Cohen/Bloomberg&rpar;](http://www.techmeme.com/250730/p5#a250730p5)
- - [The judge in Elon Musk&#39;s OpenAI lawsuit strikes down 16 of OpenAI&#39;s 55 affirmative defenses, accuses both sides of &quot;gamesmanship&quot; and over-litigating the case &lpar;Laura Italiano/Business Insider&rpar;](http://www.techmeme.com/250730/p4#a250730p4)
- - [Sources: the US Commerce Department is discussing charging patent holders 1%-5% of their patent value, a radical move likely to spark pushback from businesses &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250730/p3#a250730p3)<!-- TECH:END -->
+ - [Breaking: One UI 8 beta 4 starts rolling out for the Galaxy S25 series](https://www.androidauthority.com/samsung-one-ui-8-fourth-beta-rolling-out-3582391/)
+ - [An inside look at ex-unicorn Builder.ai&#39;s demise, which oversold its AI platform&#39;s abilities and frustrated customers with delivery delays and buggy products &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/250730/p8#a250730p8)
+ - [Israel-based Teramount, which develops fiber-to-chip interconnect tools for AI infrastructure chips, raised a $50M Series A led by Koch Disruptive Technologies &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250730/p7#a250730p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
