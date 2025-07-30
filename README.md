@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fascinating technology](http://9gag.com/gag/aKGpDW3)
- - ⏩ [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - 👉 [The take down](http://9gag.com/gag/a4PVbD6)<!-- MEMES:END -->
+ - 💣 [Thats a bummer](http://9gag.com/gag/a9yBARK)
+ - ⏩ [He&#39;s got the moves](http://9gag.com/gag/aLnr8ZA)
+ - 👉 [Maximum cruelty](http://9gag.com/gag/abAEzwr)<!-- MEMES:END -->
 
 ---
 
