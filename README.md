@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How well do you know Balatro&#39;s jokers? Try to ace our latest quiz!](https://www.pcgamer.com/games/how-well-do-you-know-balatros-jokers-try-to-ace-our-latest-quiz/)
  - [What is the briefcase code in Grounded 2?](https://www.polygon.com/guides/617852/grounded-2-briefcase-code-how-to-open)
- - [How to beat Blightweaver Great Centipede in Wuchang: Fallen Feathers](https://www.polygon.com/guides/617463/wuchang-fallen-feathers-blightweaver-great-centipede-how-to-beat-boss-fight-weaknesses)
- - [Bloober Team&#39;s psychological horror hit The Medium is being made into a movie by the guy who helped head up the Until Dawn film](https://www.pcgamer.com/movies-tv/bloober-teams-psychological-horror-hit-the-medium-is-being-made-into-a-movie-by-the-guy-who-helped-head-up-the-until-dawn-film/)<!-- GAME:END -->
+ - [How to beat Blightweaver Great Centipede in Wuchang: Fallen Feathers](https://www.polygon.com/guides/617463/wuchang-fallen-feathers-blightweaver-great-centipede-how-to-beat-boss-fight-weaknesses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
