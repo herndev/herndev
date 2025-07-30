@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This futuristic keyboard from the past and some street stylin&#39; peripherals are the result of this latest gaming hardware collab](https://www.pcgamer.com/hardware/gaming-keyboards/this-futuristic-keyboard-from-the-past-and-some-street-stylin-peripherals-are-the-result-of-this-latest-gaming-hardware-collab/)
  - [The latest SSDs from Micron are focussed on improving AI Data Centre performance](https://www.pcgamer.com/hardware/ssds/the-latest-ssds-from-micron-are-focussed-on-improving-ai-data-centre-performance/)
- - [Finally, Razer launches the fully updated sequel. The BlackShark V3 Pro goes all in on esports with less latency, ANC, and 12 pro-curated EQs for in-game sound](https://www.pcgamer.com/hardware/finally-razer-launches-the-fully-updated-sequel-the-blackshark-v3-pro-goes-all-in-on-esports-with-less-latency-anc-and-12-pro-curated-eqs-for-in-game-sound/)
- - [Cherry brings its MX2A hot-swappable wireless keyboard and graphene fabric mousepad to the United States](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-brings-its-mx2a-hot-swappable-wireless-keyboard-and-graphene-fabric-mousepad-to-the-united-states/)<!-- GAME:END -->
+ - [Finally, Razer launches the fully updated sequel. The BlackShark V3 Pro goes all in on esports with less latency, ANC, and 12 pro-curated EQs for in-game sound](https://www.pcgamer.com/hardware/finally-razer-launches-the-fully-updated-sequel-the-blackshark-v3-pro-goes-all-in-on-esports-with-less-latency-anc-and-12-pro-curated-eqs-for-in-game-sound/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
