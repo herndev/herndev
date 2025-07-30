@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Bank of England governor blocked a meeting arranged by UK Chancellor between regulators and Revolut to discuss Revolut&#39;s full banking authorization &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p17#a250730p17)
- - [Klarna gets an electronic money institution license for its UK division, which could let it directly compete with Revolut and Monzo for retail bank customers &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250730/p16#a250730p16)
- - [Italy opens a probe into Meta, says it may have violated EU competition rules by integrating its Meta AI assistant into WhatsApp without user consent &lpar;Elvira Pollina/Reuters&rpar;](http://www.techmeme.com/250730/p15#a250730p15)<!-- TECH:END -->
+ - [YouTube makes it easy for TV users to skip to the best bits of videos](https://www.theverge.com/news/715730/youtube-jump-ahead-premium-feature-tv-rollout)
+ - [Galaxy Tab S11 Ultra leak reveals battery and charging info](https://www.androidauthority.com/galaxy-tab-s11-ultra-battery-charging-leak-3582422/)
+ - [Indonesia raises taxes on crypto sellers, from 0.1% to 0.21% in domestic exchanges, and from 0.2% to 1% in overseas exchanges, but removes VAT on buyers &lpar;Stefanno Sulaiman/Reuters&rpar;](http://www.techmeme.com/250730/p20#a250730p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
