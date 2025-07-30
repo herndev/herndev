@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can buy a Chinese made programmable humanoid-robot for under $6,000 USD, but it might be the same one that tried to fight civilians](https://www.pcgamer.com/hardware/you-can-buy-a-chinese-made-programmable-humanoid-robot-for-under-usd6-000-usd-but-it-might-be-the-same-one-that-tried-to-fight-civilians/)
- - [Mavrix is a promising sim about riding pushbikes down dangerously steep hills, but it shows the limits of open world design](https://www.pcgamer.com/games/racing/mavrix-is-a-promising-sim-about-riding-pushbikes-down-dangerously-steep-hills-but-it-shows-the-limits-of-open-world-design/)
- - [Bungie continues to fire into its feet with both barrels: A new armor set in Destiny 2 has just been disabled because it makes the player who wears it completely invisible](https://www.pcgamer.com/games/fps/bungie-continues-to-fire-into-its-feet-with-both-barrels-a-new-armor-set-in-destiny-2-has-just-been-disabled-because-it-makes-the-player-who-wears-it-completely-invisible/)<!-- GAME:END -->
+ - [Cherry brings its MX2A hot-swappable wireless keyboard and graphene fabric mousepad to the United States](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-brings-its-mx2a-hot-swappable-wireless-keyboard-and-graphene-fabric-mousepad-to-the-united-states/)
+ - [Today&#39;s Wordle answer for Wednesday, July 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-30-2025/)
+ - [Nintendo Finally Throws Mario Kart World Players A Bone In Its Biggest Update Yet](https://kotaku.com/mario-kart-world-patch-notes-1-2-0-three-lap-cpu-nerf-1851787286)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
