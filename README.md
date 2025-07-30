@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - ⏩ [Oof](http://9gag.com/gag/aByowgO)
- - 👉 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)<!-- MEMES:END -->
+ - 💣 [Fascinating technology](http://9gag.com/gag/aKGpDW3)
+ - ⏩ [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
+ - 👉 [The take down](http://9gag.com/gag/a4PVbD6)<!-- MEMES:END -->
 
 ---
 
