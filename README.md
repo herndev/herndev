@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That meme](http://9gag.com/gag/a34njrN)
- - ⏩ [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
- - 👉 [Just trust the man](http://9gag.com/gag/awyv5Ar)<!-- MEMES:END -->
+ - 💣 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)
+ - ⏩ [Just trust the man](http://9gag.com/gag/awyv5Ar)
+ - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
 
 ---
 
