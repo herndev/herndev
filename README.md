@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm reports Q1 revenue up 12% YoY to $1.05B, royalty revenue up 25% to $585M, vs. $595M est., and forecasts Q2 profit below estimates; ARM drops 8%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250730/p42#a250730p42)
- - [The Samsung Galaxy S25 Ultra is $275 off, still the best premium phone](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-10-3582621/)
- - [Meta&#39;s Reality Labs posts Q2 revenue up 5% YoY to $370M, vs. $381M est., and operating loss of $4.53B, vs. $4.99B est.; Reality Labs has lost $70B+ since 2020 &lpar;CNBC&rpar;](http://www.techmeme.com/250730/p41#a250730p41)<!-- TECH:END -->
+ - [Apple is probably stuck with iPhone manufacture in India](https://appleinsider.com/articles/25/07/30/apple-is-probably-stuck-with-iphone-manufacture-in-india?utm_source=rss)
+ - [Spotify’s terrible privacy settings just leaked Palmer Luckey’s bops and bangers](https://www.theverge.com/privacy/716386/spotifys-terrible-privacy-settings-just-leaked-palmer-luckeys-bops-and-bangers)
+ - [Dropbox says it’s time to find a new password manager as it prepares to shut down service](https://www.androidauthority.com/dropbox-password-manager-discontinued-3582689/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
