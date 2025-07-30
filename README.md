@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg says superintelligence is in sight, and, when personal superintelligence comes, context-aware devices like glasses will become our primary computers &lpar;Mark Zuckerberg/Meta&rpar;](http://www.techmeme.com/250730/p27#a250730p27)
- - [TikTok videos are about to get crowdsourced fact checks on them](https://www.theverge.com/news/715798/tiktok-videos-footnotes-crowdsourced-fact-checks-launch)
- - [Only the base iPhone 17 may escape a $50 price hike](https://appleinsider.com/articles/25/07/30/only-the-base-iphone-17-may-escape-a-50-price-hike?utm_source=rss)<!-- TECH:END -->
+ - [The latest MacBook Air with M4 is down to its lowest price ever](https://www.theverge.com/tech/715878/macbook-air-samsung-galaxy-z-fold-7-deal-sale)
+ - [YouTube is thinking about letting you avoid video comments entirely on mobile](https://www.androidauthority.com/youtube-hide-comments-dropdown-3582521/)
+ - [The most powerful gaming handheld chipset will soon ship in this ‘budget’ handheld](https://www.androidauthority.com/konkr-pocket-fit-price-3582467/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
