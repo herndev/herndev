@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Finally, Razer launches the fully updated sequel. The BlackShark V3 Pro goes all in on esports with less latency, ANC, and 12 pro-curated EQs for in-game sound](https://www.pcgamer.com/hardware/finally-razer-launches-the-fully-updated-sequel-the-blackshark-v3-pro-goes-all-in-on-esports-with-less-latency-anc-and-12-pro-curated-eqs-for-in-game-sound/)
  - [Cherry brings its MX2A hot-swappable wireless keyboard and graphene fabric mousepad to the United States](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-brings-its-mx2a-hot-swappable-wireless-keyboard-and-graphene-fabric-mousepad-to-the-united-states/)
- - [Today&#39;s Wordle answer for Wednesday, July 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-30-2025/)
- - [Nintendo Finally Throws Mario Kart World Players A Bone In Its Biggest Update Yet](https://kotaku.com/mario-kart-world-patch-notes-1-2-0-three-lap-cpu-nerf-1851787286)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, July 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-30-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
