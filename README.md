@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TernX Review &lpar;2025&rpar;: Travel With Young Kids Just Got Easier](https://www.wired.com/review/ternx-carry-on-luggage-stroller/)
- - [Adobe releases Windows on Arm versions of Premiere Pro and After Effects](https://www.theverge.com/news/715769/adobe-windows-on-arm-premiere-pro-after-effects-beta-release)
- - [Watch and learn, Samsung: This Galaxy Ring competitor now predicts your chances of falling sick](https://www.androidauthority.com/smart-ring-tell-you-fall-sick-like-apple-watch-3582445/)<!-- TECH:END -->
+ - [Zuckerberg says superintelligence is in sight, and, when personal superintelligence comes, context-aware devices like glasses will become our primary computers &lpar;Mark Zuckerberg/Meta&rpar;](http://www.techmeme.com/250730/p27#a250730p27)
+ - [TikTok videos are about to get crowdsourced fact checks on them](https://www.theverge.com/news/715798/tiktok-videos-footnotes-crowdsourced-fact-checks-launch)
+ - [Only the base iPhone 17 may escape a $50 price hike](https://appleinsider.com/articles/25/07/30/only-the-base-iphone-17-may-escape-a-50-price-hike?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
