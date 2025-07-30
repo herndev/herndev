@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When all else fails, or if you just get a bit peckish, you can now eat your friends in Peak](https://www.pcgamer.com/games/adventure/when-all-else-fails-or-if-you-just-get-a-bit-peckish-you-can-now-eat-your-friends-in-peak/)
- - [EA Won&#39;t Be Asking $80 For Battlefield 6](https://kotaku.com/battlefield-6-price-70-80-ea-preorder-black-ops-7-1851787292)
- - [YouTube has started using AI to determine how old you are and feed you age-appropriate content, so prepare to be judged based on what you watch and when](https://www.pcgamer.com/software/ai/youtube-has-started-using-ai-to-determine-how-old-you-are-and-feed-you-age-appropriate-content-so-prepare-to-be-judged-based-on-what-you-watch-and-when/)<!-- GAME:END -->
+ - [A new Nintendo Direct is coming on July 31](https://www.polygon.com/gaming/615366/nintendo-direct-july-2025-date-time-start)
+ - [Fantastic Four: First Steps has an Eternals problem in Doctor Doom](https://www.polygon.com/marvel/616660/what-was-doctor-doom-doing-during-fantastic-four-first-steps)
+ - [Story of Seasons: Grand Bazaar is shaping up to be one of my favourite farming sims since Stardew Valley, and frankly it could teach a thing or two to future games as well](https://www.pcgamer.com/games/sim/story-of-seasons-grand-bazaar-is-shaping-up-to-be-one-of-my-favourite-farming-sims-since-stardew-valley-and-frankly-it-could-teach-a-thing-or-two-to-future-games-as-well/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
