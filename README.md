@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
- - ⏩ [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 👉 [Savage](http://9gag.com/gag/abAEZjr)<!-- MEMES:END -->
+ - 💣 [Savage](http://9gag.com/gag/abAEZjr)
+ - ⏩ [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
+ - 👉 [Old but gold](http://9gag.com/gag/aGyb1dX)<!-- MEMES:END -->
 
 ---
 
