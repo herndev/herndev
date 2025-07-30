@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)
- - ⏩ [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
- - 👉 [Oof](http://9gag.com/gag/aByowgO)<!-- MEMES:END -->
+ - 💣 [Funny.. trust me](http://9gag.com/gag/aAyZwmL)
+ - ⏩ [It rained](http://9gag.com/gag/axy4Vvb)
+ - 👉 [Psycho the rapist](http://9gag.com/gag/axy4VzW)<!-- MEMES:END -->
 
 ---
 
