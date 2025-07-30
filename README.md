@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just trust the man](http://9gag.com/gag/awyv5Ar)
- - ⏩ [We just need TitiTes](http://9gag.com/gag/aND3WM4)
- - 👉 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)<!-- MEMES:END -->
+ - 💣 [Be a old school 9gager and post some btgg. On the comments](http://9gag.com/gag/a87z4E1)
+ - ⏩ [Opportunity](http://9gag.com/gag/a7oArWw)
+ - 👉 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)<!-- MEMES:END -->
 
 ---
 
