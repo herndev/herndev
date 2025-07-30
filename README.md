@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It rained](http://9gag.com/gag/axy4Vvb)
- - ⏩ [I guess it\u2019s time to watch Gladiator again lads.](http://9gag.com/gag/an7Vbzb)
- - 👉 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)<!-- MEMES:END -->
+ - 💣 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
+ - ⏩ [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - 👉 [Savage](http://9gag.com/gag/abAEZjr)<!-- MEMES:END -->
 
 ---
 
