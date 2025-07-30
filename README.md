@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
- - ⏩ [Just trust the man](http://9gag.com/gag/awyv5Ar)
- - 👉 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)<!-- MEMES:END -->
+ - 💣 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - ⏩ [The take down](http://9gag.com/gag/a4PVbD6)
+ - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
 
 ---
 
