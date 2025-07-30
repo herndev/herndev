@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
- - ⏩ [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
- - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
+ - 💣 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
+ - ⏩ [Just trust the man](http://9gag.com/gag/awyv5Ar)
+ - 👉 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)<!-- MEMES:END -->
 
 ---
 
