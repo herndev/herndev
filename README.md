@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
- - ⏩ [I think I would have a different reaction](http://9gag.com/gag/aByowZZ)
- - 👉 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)<!-- MEMES:END -->
+ - 💣 [That meme](http://9gag.com/gag/a34njrN)
+ - ⏩ [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
+ - 👉 [Just trust the man](http://9gag.com/gag/awyv5Ar)<!-- MEMES:END -->
 
 ---
 
