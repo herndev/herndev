@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK Supreme Court denied Uber&#39;s appeal in a case over VAT, forcing Uber to pay a 20% VAT on fares outside London while rival private taxi operators pay none &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250729/p48#a250729p48)
- - [Your Pixel Watch could soon give you the same backup freedom as your Android phone &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-watch-manual-backup-3582347/)
- - [How to add vocals &amp; voiceovers with Voice Memos layered recording](https://appleinsider.com/inside/iphone-16/tips/how-to-add-vocals-voiceovers-with-voice-memos-layered-recording?utm_source=rss)<!-- TECH:END -->
+ - [Lumana, which integrates vision-language models and agentic AI into its video surveillance system, raised a $40M Series A led by Wing Venture Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250730/p1#a250730p1)
+ - [Google is finally fixing an Android update bug that’s been an annoyance for weeks](https://www.androidauthority.com/google-play-system-update-failing-bug-android-16-3582354/)
+ - [The UK Supreme Court denied Uber&#39;s appeal in a case over VAT, forcing Uber to pay a 20% VAT on fares outside London while rival private taxi operators pay none &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250729/p48#a250729p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
