@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Games for Your Summer Escape: Indie Selects for July 2025](https://news.xbox.com/en-us/2025/07/30/xbox-indie-selects-july-2025/)
- - [Tech CEOs don&#39;t seem to realise just how anti-human their AI fanaticism is, and I think it&#39;s all because of the Enlightenment](https://www.pcgamer.com/software/ai/tech-ceos-dont-seem-to-realise-just-how-anti-human-their-ai-fanaticism-is-and-i-think-its-all-because-of-the-enlightenment/)
- - [AMD&#39;s rumoured to be plotting a new ultra high-end gaming GPU, plus a $550 graphics card with RTX 5080 performance, but sadly we probably won&#39;t see either until 2027](https://www.pcgamer.com/hardware/graphics-cards/amds-rumoured-to-be-plotting-a-new-ultra-high-end-gaming-gpu-plus-a-usd550-graphics-card-with-rtx-5080-performance-but-sadly-we-probably-wont-see-either-until-2027/)<!-- GAME:END -->
+ - [Don&#39;t Sleep On Donkey Kong Bananza&#39;s Co-Op Mode](https://kotaku.com/donkey-kong-bananza-co-op-support-gameshare-pauline-1851787349)
+ - [Mario Kart World’s first massive update doesn’t even mention all the changes](https://www.polygon.com/news/617506/mario-kart-world-update-ai-com-lap-changes-momentum-patch-notes-hidden)
+ - [Feast Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616067/feast-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
