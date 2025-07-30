@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16e success is a shift in Apple&#39;s upgrade tactics](https://appleinsider.com/articles/25/07/30/iphone-16e-success-is-a-shift-in-apples-upgrade-tactics?utm_source=rss)
- - [Showrunner, an Amazon-backed AI streaming service, launches Thursday, letting users paying $10-$40/mo. to create their own animated shows or build on others&#39; IP &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/250730/p30#a250730p30)
- - [Yes, You Can Still Get Games for Less Than $50. These Are the Best I&#39;ve Played](https://www.cnet.com/tech/gaming/yes-you-can-still-get-games-for-less-than-50-these-are-the-best-ive-played/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s Newest AI Model Acts like a Satellite to Track Climate Change](https://www.wired.com/story/googles-newest-ai-model-acts-like-a-satellite-to-track-climate-change/)
+ - [Gamers Are Furious About the Censorship of NSFW Games—and They’re Fighting Back](https://www.wired.com/story/gamers-are-furious-about-the-censorship-of-nsfw-games-and-theyre-fighting-back/)
+ - [In a report, Trump&#39;s Working Group on Digital Asset Markets urges regulators to clarify digital asset trading rules and ease adoption of new financial products &lpar;Josh Wingrove/Bloomberg&rpar;](http://www.techmeme.com/250730/p33#a250730p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
