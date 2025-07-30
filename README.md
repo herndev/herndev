@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, well, well, who would have thought?](http://9gag.com/gag/ajPyq6p)
- - ⏩ [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
- - 👉 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)<!-- MEMES:END -->
+ - 💣 [It rained](http://9gag.com/gag/axy4Vvb)
+ - ⏩ [I guess it\u2019s time to watch Gladiator again lads.](http://9gag.com/gag/an7Vbzb)
+ - 👉 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)<!-- MEMES:END -->
 
 ---
 
