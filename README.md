@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 probably isn&#39;t going to cost $80: &#39;We&#39;re not looking to make any changes on pricing at this stage,&#39; CEO says](https://www.pcgamer.com/games/fps/battlefield-6-probably-isnt-going-to-cost-usd80-were-not-looking-to-make-any-changes-on-pricing-at-this-stage-ceo-says/)
- - [The Sims convinced another huge musician to sing in Simlish](https://www.polygon.com/gaming/617627/sims-4-fka-twigs-video-enchanted-by-nature)
- - [All Ingot Isle Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616943/ingot-isle-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
+ - [Celebrating Age of Empires in 2025](https://www.ageofempires.com/news/celebrating-age-in-2025-and-whats-still-to-come-this-year/#new_tab)
+ - [Despite Everything Linkin Park Has Been Through, The AMV Band Is Alive And Well](https://kotaku.com/linkin-park-edit-amv-chester-bennington-emily-armstrong-1851787368)
+ - [Looks like everyone’s gonna want to play Blade in Marvel Rivals](https://www.polygon.com/news/617662/when-is-blade-coming-to-marvel-rivals-season-3-gameplay-patch-changes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
