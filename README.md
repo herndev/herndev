@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - ⏩ [Women love him for this one simple trick!](http://9gag.com/gag/aE0EReM)
- - 👉 [When she asks you not to finish on her face...](http://9gag.com/gag/aYQmxv0)<!-- MEMES:END -->
+ - ⏩ [Oof](http://9gag.com/gag/aByowgO)
+ - 👉 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)<!-- MEMES:END -->
 
 ---
 
