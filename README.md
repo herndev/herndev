@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube makes it easy for TV users to skip to the best bits of videos](https://www.theverge.com/news/715730/youtube-jump-ahead-premium-feature-tv-rollout)
- - [Galaxy Tab S11 Ultra leak reveals battery and charging info](https://www.androidauthority.com/galaxy-tab-s11-ultra-battery-charging-leak-3582422/)
- - [Indonesia raises taxes on crypto sellers, from 0.1% to 0.21% in domestic exchanges, and from 0.2% to 1% in overseas exchanges, but removes VAT on buyers &lpar;Stefanno Sulaiman/Reuters&rpar;](http://www.techmeme.com/250730/p20#a250730p20)<!-- TECH:END -->
+ - [The Samsung Galaxy Watch 8 is stuck in a familiar orbit](https://www.theverge.com/reviews/715171/samsung-galaxy-watch-8-review-smartwatch-wearos-antioxidant-gemini)
+ - [Ouch -- China Apple Support accidentally recommends a Samsung folding phone](https://appleinsider.com/articles/25/07/30/ouch----china-apple-support-accidentally-recommends-a-samsung-folding-phone?utm_source=rss)
+ - [Google’s Pixel 10 sure looks like it’ll support magnetic Qi2 charging](https://www.theverge.com/news/715747/google-pixel-10-leak-qi2-pixelsnap-magnetic-wireless-charging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
