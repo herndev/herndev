@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Cohere has told investors it expects to generate $200M+ in annualized revenue by the end of 2025, up from $70M in annualized revenue as of February &lpar;The Information&rpar;](http://www.techmeme.com/250729/p45#a250729p45)
  - [New iPhone 17 dummy models estimate how some expected colors may look](https://appleinsider.com/articles/25/07/29/new-iphone-17-dummy-models-estimate-how-some-expected-colors-may-look?utm_source=rss)
- - [Australia says it will include YouTube in its ban on social media for children under 16 years of age, reversing an earlier decision to exempt the platform &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/250729/p44#a250729p44)
- - [Ofcom: YouTube is the second most-watched TV service in the UK, behind the BBC and ahead of ITV; one in five Gen Alpha viewers turn to YouTube first on their TV &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250729/p43#a250729p43)<!-- TECH:END -->
+ - [Australia says it will include YouTube in its ban on social media for children under 16 years of age, reversing an earlier decision to exempt the platform &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/250729/p44#a250729p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
