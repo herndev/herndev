@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Nintendo Direct is coming on July 31](https://www.polygon.com/gaming/615366/nintendo-direct-july-2025-date-time-start)
- - [Fantastic Four: First Steps has an Eternals problem in Doctor Doom](https://www.polygon.com/marvel/616660/what-was-doctor-doom-doing-during-fantastic-four-first-steps)
- - [Story of Seasons: Grand Bazaar is shaping up to be one of my favourite farming sims since Stardew Valley, and frankly it could teach a thing or two to future games as well](https://www.pcgamer.com/games/sim/story-of-seasons-grand-bazaar-is-shaping-up-to-be-one-of-my-favourite-farming-sims-since-stardew-valley-and-frankly-it-could-teach-a-thing-or-two-to-future-games-as-well/)<!-- GAME:END -->
+ - [Games for Your Summer Escape: Indie Selects for July 2025](https://news.xbox.com/en-us/2025/07/30/xbox-indie-selects-july-2025/)
+ - [Tech CEOs don&#39;t seem to realise just how anti-human their AI fanaticism is, and I think it&#39;s all because of the Enlightenment](https://www.pcgamer.com/software/ai/tech-ceos-dont-seem-to-realise-just-how-anti-human-their-ai-fanaticism-is-and-i-think-its-all-because-of-the-enlightenment/)
+ - [AMD&#39;s rumoured to be plotting a new ultra high-end gaming GPU, plus a $550 graphics card with RTX 5080 performance, but sadly we probably won&#39;t see either until 2027](https://www.pcgamer.com/hardware/graphics-cards/amds-rumoured-to-be-plotting-a-new-ultra-high-end-gaming-gpu-plus-a-usd550-graphics-card-with-rtx-5080-performance-but-sadly-we-probably-wont-see-either-until-2027/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
