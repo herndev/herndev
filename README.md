@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find blueberries for blueberry leather in Grounded 2](https://www.polygon.com/guides/617696/grounded-2-blueberries-locations-where-to-find-leather)
- - [Where to offer Divine Gifts in Wuchang: Fallen Feathers](https://www.polygon.com/guides/617714/wuchang-fallen-feathers-divine-gifts-fragments-offer-where-to-find)
- - [Space Marine 2 publisher says even he &#39;didn&#39;t believe that we could hit 7 million unique players,&#39; but it&#39;s proof that players are hungry for sicko games: &#39;When the execution is right, it ends up resonating with many more people&#39;](https://www.pcgamer.com/games/action/space-marine-2-publisher-says-even-he-didnt-believe-that-we-could-hit-7-million-unique-players-but-its-proof-that-players-are-hungry-for-sicko-games-when-the-execution-is-right-it-ends-up-resonating-with-many-more-people/)<!-- GAME:END -->
+ - [What is the briefcase code in Grounded 2?](https://www.polygon.com/guides/617852/grounded-2-briefcase-code-how-to-open)
+ - [How to beat Blightweaver Great Centipede in Wuchang: Fallen Feathers](https://www.polygon.com/guides/617463/wuchang-fallen-feathers-blightweaver-great-centipede-how-to-beat-boss-fight-weaknesses)
+ - [Bloober Team&#39;s psychological horror hit The Medium is being made into a movie by the guy who helped head up the Until Dawn film](https://www.pcgamer.com/movies-tv/bloober-teams-psychological-horror-hit-the-medium-is-being-made-into-a-movie-by-the-guy-who-helped-head-up-the-until-dawn-film/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
