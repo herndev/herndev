@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple accidentally helps promote Samsung’s new foldable](https://www.androidauthority.com/apple-galaxy-z-flip-7-video-weibo-3582545/)
- - [Leak reveals Pixel 10 prices, and they’re exactly what we hoped for](https://www.androidauthority.com/pixel-10-series-prices-3582533/)
- - [Google Chrome is testing iOS-like page transitions on Android, and you can try it out now](https://www.androidauthority.com/google-chrome-back-forward-animations-3582562/)<!-- TECH:END -->
+ - [iPhone 16e success is a shift in Apple&#39;s upgrade tactics](https://appleinsider.com/articles/25/07/30/iphone-16e-success-is-a-shift-in-apples-upgrade-tactics?utm_source=rss)
+ - [Showrunner, an Amazon-backed AI streaming service, launches Thursday, letting users paying $10-$40/mo. to create their own animated shows or build on others&#39; IP &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/250730/p30#a250730p30)
+ - [Yes, You Can Still Get Games for Less Than $50. These Are the Best I&#39;ve Played](https://www.cnet.com/tech/gaming/yes-you-can-still-get-games-for-less-than-50-these-are-the-best-ive-played/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
