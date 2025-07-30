@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t Sleep On Donkey Kong Bananza&#39;s Co-Op Mode](https://kotaku.com/donkey-kong-bananza-co-op-support-gameshare-pauline-1851787349)
- - [Mario Kart World’s first massive update doesn’t even mention all the changes](https://www.polygon.com/news/617506/mario-kart-world-update-ai-com-lap-changes-momentum-patch-notes-hidden)
- - [Feast Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616067/feast-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
+ - [EA isn’t raising game prices, yet](https://www.polygon.com/news/617575/ea-not-raising-game-prices-yet)
+ - [August 2025 is the month of remakes and remasters](https://www.pcgamer.com/games/august-2025-is-the-month-of-remakes-and-remasters/)
+ - [The AMD Ryzen AI 7 350 chip in the laptop I&#39;ve been testing just scored over 1,000,000 in Cinebench, breaking space and time and sending me whirling around my room like a nut in a blender](https://www.pcgamer.com/hardware/gaming-laptops/the-amd-ryzen-ai-7-350-chip-in-the-laptop-ive-been-testing-just-scored-over-1-000-000-in-cinebench-breaking-space-and-time-and-sending-me-whirling-around-my-room-like-a-nut-in-a-blender/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
