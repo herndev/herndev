@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - ⏩ [The take down](http://9gag.com/gag/a4PVbD6)
- - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
+ - 💣 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)
+ - ⏩ [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
+ - 👉 [Oof](http://9gag.com/gag/aByowgO)<!-- MEMES:END -->
 
 ---
 
