@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Savage](http://9gag.com/gag/abAEZjr)
- - ⏩ [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
- - 👉 [Old but gold](http://9gag.com/gag/aGyb1dX)<!-- MEMES:END -->
+ - 💣 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)
+ - ⏩ [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - 👉 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)<!-- MEMES:END -->
 
 ---
 
