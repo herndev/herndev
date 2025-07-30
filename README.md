@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ready or not, age verification is rolling out across the internet](https://www.theverge.com/analysis/715767/online-age-verification-not-ready)
- - [Microsoft is getting ready for GPT-5 with a new Copilot smart mode](https://www.theverge.com/notepad-microsoft-newsletter/715849/microsoft-copilot-smart-mode-testing-notepad)
- - [How Edward ‘Big Balls’ Coristine and DOGE Got Access to a Federal Payroll System That Serves the FBI](https://www.wired.com/story/edward-coristine-big-balls-doge-federal-pay-roll-system/)<!-- TECH:END -->
+ - [Apple accidentally helps promote Samsung’s new foldable](https://www.androidauthority.com/apple-galaxy-z-flip-7-video-weibo-3582545/)
+ - [Leak reveals Pixel 10 prices, and they’re exactly what we hoped for](https://www.androidauthority.com/pixel-10-series-prices-3582533/)
+ - [Google Chrome is testing iOS-like page transitions on Android, and you can try it out now](https://www.androidauthority.com/google-chrome-back-forward-animations-3582562/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
