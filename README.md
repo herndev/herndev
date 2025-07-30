@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [23 Games We’d Love To See Announced For Switch 2 In Tomorrow’s Direct](https://kotaku.com/nintendo-switch-2-games-elden-ring-gtav-final-fantasy-1851745512)
- - [&#39;Netflix For AI&#39; CEO Hyping Animated Slop Admits &#39;Maybe Nobody Wants This&#39;](https://kotaku.com/netflix-ai-family-guy-rick-morty-showrunner-fable-1851787372)
- - [Getting Your Ass Kicked In Clair Obscur: Expedition 33 Just Became A Little Less Frustrating](https://kotaku.com/clair-obscur-patch-new-features-battle-retry-lumina-1851787373)<!-- GAME:END -->
+ - [Where to find blueberries for blueberry leather in Grounded 2](https://www.polygon.com/guides/617696/grounded-2-blueberries-locations-where-to-find-leather)
+ - [Where to offer Divine Gifts in Wuchang: Fallen Feathers](https://www.polygon.com/guides/617714/wuchang-fallen-feathers-divine-gifts-fragments-offer-where-to-find)
+ - [Space Marine 2 publisher says even he &#39;didn&#39;t believe that we could hit 7 million unique players,&#39; but it&#39;s proof that players are hungry for sicko games: &#39;When the execution is right, it ends up resonating with many more people&#39;](https://www.pcgamer.com/games/action/space-marine-2-publisher-says-even-he-didnt-believe-that-we-could-hit-7-million-unique-players-but-its-proof-that-players-are-hungry-for-sicko-games-when-the-execution-is-right-it-ends-up-resonating-with-many-more-people/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
