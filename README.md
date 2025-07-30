@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be a old school 9gager and post some btgg. On the comments](http://9gag.com/gag/a87z4E1)
- - ⏩ [Opportunity](http://9gag.com/gag/a7oArWw)
- - 👉 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)<!-- MEMES:END -->
+ - 💣 [Oof](http://9gag.com/gag/aByowgO)
+ - ⏩ [Women](http://9gag.com/gag/aRBDevA)
+ - 👉 [Just trust the man](http://9gag.com/gag/awyv5Ar)<!-- MEMES:END -->
 
 ---
 
