@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating Age of Empires in 2025](https://www.ageofempires.com/news/celebrating-age-in-2025-and-whats-still-to-come-this-year/#new_tab)
- - [Despite Everything Linkin Park Has Been Through, The AMV Band Is Alive And Well](https://kotaku.com/linkin-park-edit-amv-chester-bennington-emily-armstrong-1851787368)
- - [Looks like everyone’s gonna want to play Blade in Marvel Rivals](https://www.polygon.com/news/617662/when-is-blade-coming-to-marvel-rivals-season-3-gameplay-patch-changes)<!-- GAME:END -->
+ - [23 Games We’d Love To See Announced For Switch 2 In Tomorrow’s Direct](https://kotaku.com/nintendo-switch-2-games-elden-ring-gtav-final-fantasy-1851745512)
+ - [&#39;Netflix For AI&#39; CEO Hyping Animated Slop Admits &#39;Maybe Nobody Wants This&#39;](https://kotaku.com/netflix-ai-family-guy-rick-morty-showrunner-fable-1851787372)
+ - [Getting Your Ass Kicked In Clair Obscur: Expedition 33 Just Became A Little Less Frustrating](https://kotaku.com/clair-obscur-patch-new-features-battle-retry-lumina-1851787373)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
