@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lumana, which integrates vision-language models and agentic AI into its video surveillance system, raised a $40M Series A led by Wing Venture Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250730/p1#a250730p1)
- - [Google is finally fixing an Android update bug that’s been an annoyance for weeks](https://www.androidauthority.com/google-play-system-update-failing-bug-android-16-3582354/)
- - [The UK Supreme Court denied Uber&#39;s appeal in a case over VAT, forcing Uber to pay a 20% VAT on fares outside London while rival private taxi operators pay none &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250729/p48#a250729p48)<!-- TECH:END -->
+ - [Top Verizon Promo Codes &amp; Deals | August 2025](https://www.wired.com/story/verizon-promo-code/)
+ - [Sources: Mark Zuckerberg&#39;s aim with the Superintelligence Labs is to create a start-up-like unit within Meta that is unencumbered by the company&#39;s bureaucracy &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p2#a250730p2)
+ - [Lumana, which integrates vision-language models and agentic AI into its video surveillance system, raised a $40M Series A led by Wing Venture Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250730/p1#a250730p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
