@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is that a billboard or are you just happy to see an iPhone?](https://appleinsider.com/articles/25/07/30/is-that-a-billboard-or-are-you-just-happy-to-see-an-iphone?utm_source=rss)
- - [Layoffs hit CNET as its parent company goes on a buying spree](https://www.theverge.com/news/715220/ziff-davis-creators-guild-cnet-layoffs)
- - [Dropbox is shutting down its password manager](https://www.theverge.com/news/716303/dropbox-passwords-manager-shut-down)<!-- TECH:END -->
+ - [Arm reports Q1 revenue up 12% YoY to $1.05B, royalty revenue up 25% to $585M, vs. $595M est., and forecasts Q2 profit below estimates; ARM drops 8%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250730/p42#a250730p42)
+ - [The Samsung Galaxy S25 Ultra is $275 off, still the best premium phone](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-10-3582621/)
+ - [Meta&#39;s Reality Labs posts Q2 revenue up 5% YoY to $370M, vs. $381M est., and operating loss of $4.53B, vs. $4.99B est.; Reality Labs has lost $70B+ since 2020 &lpar;CNBC&rpar;](http://www.techmeme.com/250730/p41#a250730p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
