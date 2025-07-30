@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wingcat](http://9gag.com/gag/aD2Mj1x)
- - ⏩ [No original experiences. No original posts.](http://9gag.com/gag/aD2Mzw9)
- - 👉 [No potato, have a potato farmer instead](http://9gag.com/gag/adBb78D)<!-- MEMES:END -->
+ - 💣 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
+ - ⏩ [Women love him for this one simple trick!](http://9gag.com/gag/aE0EReM)
+ - 👉 [When she asks you not to finish on her face...](http://9gag.com/gag/aYQmxv0)<!-- MEMES:END -->
 
 ---
 
