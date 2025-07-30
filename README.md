@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA isn’t raising game prices, yet](https://www.polygon.com/news/617575/ea-not-raising-game-prices-yet)
- - [August 2025 is the month of remakes and remasters](https://www.pcgamer.com/games/august-2025-is-the-month-of-remakes-and-remasters/)
- - [The AMD Ryzen AI 7 350 chip in the laptop I&#39;ve been testing just scored over 1,000,000 in Cinebench, breaking space and time and sending me whirling around my room like a nut in a blender](https://www.pcgamer.com/hardware/gaming-laptops/the-amd-ryzen-ai-7-350-chip-in-the-laptop-ive-been-testing-just-scored-over-1-000-000-in-cinebench-breaking-space-and-time-and-sending-me-whirling-around-my-room-like-a-nut-in-a-blender/)<!-- GAME:END -->
+ - [Wuchang: Fallen Feathers: Every Status Effect And How To Cure It](https://kotaku.com/wuchang-fallen-feathers-burn-frostbite-cure-status-1851787360)
+ - [Radiance Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615616/radiance-layer-banandium-gem-golden-banana-locations-list-map-all)
+ - [Microsoft study suggests folks can&#39;t tell the difference between real and AI-generated images about 62% of the time—but can you do any better?](https://www.pcgamer.com/software/ai/microsoft-study-suggests-folks-cant-tell-the-difference-between-real-and-ai-generated-images-about-62-percent-of-the-time-can-you-do-any-better/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
