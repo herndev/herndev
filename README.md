@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The New York Times thinks generative AI is like Pac-Man ghosts and also the Matrix, because nobody gets to be normal about this stuff anymore](https://www.pcgamer.com/software/ai/the-new-york-times-thinks-generative-ai-is-like-pac-man-ghosts-and-also-the-matrix-because-nobody-gets-to-be-normal-about-this-stuff-anymore/)
- - [Elden Ring Nightreign&#39;s Duo Mode Patch Is Delayed Following Massive Earthquake](https://kotaku.com/elden-ring-nightreign-patch-duo-mode-delay-earthquake-1851787291)
- - [Pokémon TCG Pocket Apologizes, Pulls New Cards Following Plagiarism Accusations](https://kotaku.com/pokemon-tcg-pocket-ho-oh-art-plagiarism-card-apology-1851787290)<!-- GAME:END -->
+ - [When all else fails, or if you just get a bit peckish, you can now eat your friends in Peak](https://www.pcgamer.com/games/adventure/when-all-else-fails-or-if-you-just-get-a-bit-peckish-you-can-now-eat-your-friends-in-peak/)
+ - [EA Won&#39;t Be Asking $80 For Battlefield 6](https://kotaku.com/battlefield-6-price-70-80-ea-preorder-black-ops-7-1851787292)
+ - [YouTube has started using AI to determine how old you are and feed you age-appropriate content, so prepare to be judged based on what you watch and when](https://www.pcgamer.com/software/ai/youtube-has-started-using-ai-to-determine-how-old-you-are-and-feed-you-age-appropriate-content-so-prepare-to-be-judged-based-on-what-you-watch-and-when/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
