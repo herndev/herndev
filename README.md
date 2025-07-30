@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Watch 8 is stuck in a familiar orbit](https://www.theverge.com/reviews/715171/samsung-galaxy-watch-8-review-smartwatch-wearos-antioxidant-gemini)
- - [Ouch -- China Apple Support accidentally recommends a Samsung folding phone](https://appleinsider.com/articles/25/07/30/ouch----china-apple-support-accidentally-recommends-a-samsung-folding-phone?utm_source=rss)
- - [Google’s Pixel 10 sure looks like it’ll support magnetic Qi2 charging](https://www.theverge.com/news/715747/google-pixel-10-leak-qi2-pixelsnap-magnetic-wireless-charging)<!-- TECH:END -->
+ - [TernX Review &lpar;2025&rpar;: Travel With Young Kids Just Got Easier](https://www.wired.com/review/ternx-carry-on-luggage-stroller/)
+ - [Adobe releases Windows on Arm versions of Premiere Pro and After Effects](https://www.theverge.com/news/715769/adobe-windows-on-arm-premiere-pro-after-effects-beta-release)
+ - [Watch and learn, Samsung: This Galaxy Ring competitor now predicts your chances of falling sick](https://www.androidauthority.com/smart-ring-tell-you-fall-sick-like-apple-watch-3582445/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
