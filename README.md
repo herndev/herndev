@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wuchang: Fallen Feathers: Every Status Effect And How To Cure It](https://kotaku.com/wuchang-fallen-feathers-burn-frostbite-cure-status-1851787360)
- - [Radiance Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615616/radiance-layer-banandium-gem-golden-banana-locations-list-map-all)
- - [Microsoft study suggests folks can&#39;t tell the difference between real and AI-generated images about 62% of the time—but can you do any better?](https://www.pcgamer.com/software/ai/microsoft-study-suggests-folks-cant-tell-the-difference-between-real-and-ai-generated-images-about-62-percent-of-the-time-can-you-do-any-better/)<!-- GAME:END -->
+ - [Battlefield 6 probably isn&#39;t going to cost $80: &#39;We&#39;re not looking to make any changes on pricing at this stage,&#39; CEO says](https://www.pcgamer.com/games/fps/battlefield-6-probably-isnt-going-to-cost-usd80-were-not-looking-to-make-any-changes-on-pricing-at-this-stage-ceo-says/)
+ - [The Sims convinced another huge musician to sing in Simlish](https://www.polygon.com/gaming/617627/sims-4-fka-twigs-video-enchanted-by-nature)
+ - [All Ingot Isle Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616943/ingot-isle-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
