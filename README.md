@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
- - ⏩ [A guy wanted to adopt a cat, but he wouldn&#39;t leave his brother&#39;s side, so he had to take both of them](http://9gag.com/gag/aO8GzxM)
- - 👉 [I just leave this here.](http://9gag.com/gag/aW49qXx)<!-- MEMES:END -->
+ - 💣 [Sick dudes out there wish they was in this position](http://9gag.com/gag/awyvn3B)
+ - ⏩ [Psycho the rapist](http://9gag.com/gag/axy4VzW)
+ - 👉 [Run!!](http://9gag.com/gag/aryzbE6)<!-- MEMES:END -->
 
 ---
 
