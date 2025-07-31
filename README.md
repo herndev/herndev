@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber Eats is adding AI to menus, food photos, and reviews](https://www.theverge.com/news/716578/uber-eats-ai-menu-photo-description-features)
- - [Sources: Shein&#39;s net income rose to over $400M, revenue rose to ~$10B in Q1, driving profit margins to ~5%, driven by consumer purchases ahead of US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p15#a250731p15)
- - [Spotify Panama Playlists expose the soundtrack of the elite &lpar;and the death of their privacy&rpar;](https://www.androidauthority.com/spotify-panama-playlists-3582830/)<!-- TECH:END -->
+ - [DJI’s first 360-degree camera can continuously capture 8K footage for over 100 minutes](https://www.theverge.com/news/715901/dji-osmo-360-degree-action-camera-8k)
+ - [SK Hynix passed Samsung as the world&#39;s top memory maker in Q2, reporting $15.6B in memory revenue vs. Samsung&#39;s $15.2B, as Nvidia heavily relies on its products &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250731/p18#a250731p18)
+ - [One UI 8 lets you use Samsung DeX on your PC again, but there’s a catch](https://www.androidauthority.com/samsung-dex-on-pc-one-ui-8-3582695/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
