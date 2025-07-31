@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Time Flies when you&amp;#8217;re thinking about dying](https://www.polygon.com/review/617424/time-flies-recommendation-hands-on)
- - [Monster Hunter Wilds Rushing Out New Content As Capcom Faces Tough Questions](https://kotaku.com/monster-hunter-wilds-quest-difficulty-talisman-update-1851787394)
- - [Watch the latest Nintendo Direct right here for Switch 2 news](https://www.polygon.com/gaming/615366/nintendo-direct-july-2025-date-time-start)<!-- GAME:END -->
+ - [Big Boss and Lady Dimitrescu will host the Future Games Show at Gamescom 2025](https://www.pcgamer.com/gaming-industry/big-boss-and-lady-dimitrescu-will-host-the-future-games-show-at-gamescom-2025/)
+ - [A new Octopath Traveler game is coming December 4](https://www.polygon.com/nintendo-switch-2/617945/octopath-traveler-0-trailer-release-date)
+ - [Everything announced at Nintendo’s new Nintendo Direct](https://www.polygon.com/nintendo-switch-2/617924/nintendo-direct-july-2025-everything-announced-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
