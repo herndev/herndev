@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cook Serve Forever Launches with a Banger Soundtrack and Celebrity Voice Actors](https://news.xbox.com/en-us/2025/07/31/cook-serve-forever-launches-with-a-banger-soundtrack/)
- - [Dragon Ball: Sparking Zero Is Somehow Coming To Both Switch And Switch 2](https://kotaku.com/dragon-ball-sparking-zero-switch-2-release-date-trailer-1851787412)
- - [I have never known a Destiny 2 expansion with as many problems as Edge of Fate, and I&#39;m worried the game may not survive them](https://www.pcgamer.com/games/fps/i-have-never-known-a-destiny-2-expansion-with-as-many-problems-as-edge-of-fate-and-im-worried-the-game-may-not-survive-them/)<!-- GAME:END -->
+ - [Battlefield 6 preview: It sure is more Battlefield!](https://www.polygon.com/battlefield-6-multiplayer-preview-bf6/)
+ - [After 4 Hours With Battlefield 6 I&#39;m Convinced It Has The Juice](https://kotaku.com/battlefield-6-preview-destruction-classes-bf3-bf4-1851787384)
+ - [Battlefield 6 has 2 open beta weekends this month, a release date for October, and a $70 price point after all that melodrama](https://www.pcgamer.com/games/fps/battlefield-6-open-beta-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
