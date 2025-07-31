@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
- - ⏩ [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
- - 👉 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)<!-- MEMES:END -->
+ - 💣 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
+ - ⏩ [Makes sense to me](http://9gag.com/gag/aW49qj3)
+ - 👉 [The take down](http://9gag.com/gag/a4PVbD6)<!-- MEMES:END -->
 
 ---
 
