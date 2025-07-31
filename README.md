@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
- - ⏩ [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
- - 👉 [Black heaven canceled](http://9gag.com/gag/aGybjeK)<!-- MEMES:END -->
+ - 💣 [Forklift certified](http://9gag.com/gag/aZZvg46)
+ - ⏩ [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - 👉 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)<!-- MEMES:END -->
 
 ---
 
