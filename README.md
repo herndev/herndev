@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Salesforce and ServiceNow are in talks to invest ~$750M each in Genesys, which uses AI to automate customer service functions, valuing Genesys at ~$15B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p39#a250731p39)
- - [The Switch 2 is off to a speedy start for big third-party games](https://www.theverge.com/games/716859/nintendo-partner-direct-july-cronos-star-wars)
- - [Pixel Buds 2a leak spoils the last mystery leading up to Google’s launch](https://www.androidauthority.com/google-pixel-buds-2a-iris-render-3583045/)<!-- TECH:END -->
+ - [Apple&#39;s Q3 2025 cash dividend is up in spite of growing tariff concerns](https://appleinsider.com/articles/25/07/31/apples-q3-2025-cash-dividend-is-up-in-spite-of-growing-tariff-concerns?utm_source=rss)
+ - [Fears over tariff price rises prompted panic buying of iPhones](https://appleinsider.com/articles/25/07/31/fears-over-tariff-price-rises-prompted-panic-buying-of-iphones?utm_source=rss)
+ - [Roku reports Q2 revenue up 15% YoY to $1.11B, vs. $1.07B est., a net profit of $10.5M, and Platform segment sales up 18% to $976M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250731/p48#a250731p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
