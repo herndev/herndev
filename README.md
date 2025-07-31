@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stable, which is building a new Layer 1 blockchain for stablecoins, raised a $28M seed co-led by Bitfinex and Hack VC &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250731/p26#a250731p26)
- - [Roblox reports Q2 revenue up 21% YoY to ~$1B, Bookings up 51% YoY to ~$1.4B, above $1.24B est., and DAUs up 41% YoY to 111.8M, above 106M est.; RBLX jumps 15%+ &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/250731/p25#a250731p25)
- - [The Inside Story of Eric Trump’s American Bitcoin](https://www.wired.com/story/the-inside-story-of-eric-trumps-american-bitcoin/)<!-- TECH:END -->
+ - [Microsoft becomes the second $4 trillion company](https://www.theverge.com/news/716783/microsoft-4-trillion-market-cap-valuation)
+ - [Microsoft&#39;s FY 2025 report excludes the names of rivals, breaking from a common industry practice; its last report designated 25+ companies as competitors &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250731/p31#a250731p31)
+ - [Proton just dropped a 2FA app that does a few things others don’t](https://www.androidauthority.com/proton-authenticator-launched-3582977/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
