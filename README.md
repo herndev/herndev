@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – WWE 2K25, Dynasty Warriors: Origins, I, Robot, and The Ascent](https://news.xbox.com/en-us/2025/07/31/free-play-days-07-31-2025/)
- - [Xbox Game Pass Makes $5 Billion As Microsoft Reports Massive Growth](https://kotaku.com/microsoft-xbox-game-pass-profit-revenue-5-billion-1851787391)
- - [Baldur&#39;s Gate 3 fixes Astarion looking like your granddad on Facetime and Dark Urge forgetting they have amnesia with a &#39;room temperature fix&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-fixes-astarion-looking-like-your-granddad-on-facetime-and-dark-urge-forgetting-they-have-amnesia-with-a-room-temperature-fix/)<!-- GAME:END -->
+ - [Mafia: The Old Country Is a Classic Mob Tale Told With an Eye on the Future](https://news.xbox.com/en-us/2025/07/31/mafia-the-old-country-preview-interview/)
+ - [Intel has just 18 months to &#39;land a hero customer on 14A&#39; or its cutting-edge fabs are toast, says chip industry analyst](https://www.pcgamer.com/hardware/processors/intel-has-just-18-months-to-land-a-hero-customer-on-14a-or-its-cutting-edge-fabs-are-toast-says-chip-industry-analyst/)
+ - [Hello Kitty Island Adventure is getting its first DLC in September, and it will introduce one of the most underrated Sanrio characters to Friendship Island](https://www.pcgamer.com/games/life-sim/hello-kitty-island-adventure-is-getting-its-first-dlc-in-september-and-it-will-introduce-one-of-the-most-underrated-sanrio-characters-to-friendship-island/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
