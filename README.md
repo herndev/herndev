@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI has transformed data center design, with concerns about overspending on AI infrastructure, sparked by DeepSeek, fading amid the ongoing building frenzy &lpar;Financial Times&rpar;](http://www.techmeme.com/250731/p7#a250731p7)
- - [Worried about the Galaxy Z Flip 7’s screen durability? Here’s what Samsung says.](https://www.androidauthority.com/samsung-galaxy-z-flip-7-screen-durability-3582745/)
- - [OpenAI launches Stargate Norway, the first Stargate-branded initiative in Europe, to build a 230MW data center owned by a joint venture between Nscale and Aker &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250731/p6#a250731p6)<!-- TECH:END -->
+ - [If Samsung gets it right, the Galaxy S26 Pro could be a game-changer for small phone fans](https://www.androidauthority.com/galaxy-s26-pro-game-changer-small-phone-fans-3582201/)
+ - [Finding the right image on Android just got a whole lot easier](https://www.androidauthority.com/android-16-photo-picker-new-features-3582775/)
+ - [The Cyberspace Administration of China questioned Nvidia over H20 chip security concerns after US lawmakers urged adding tracking features to exported AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/250731/p8#a250731p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
