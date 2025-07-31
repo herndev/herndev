@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forklift certified](http://9gag.com/gag/aZZvg46)
- - ⏩ [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - 💣 [Man had enough](http://9gag.com/gag/aAyZx3p)
+ - ⏩ [Bang Gang](http://9gag.com/gag/axy4V2M)
  - 👉 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)<!-- MEMES:END -->
 
 ---
