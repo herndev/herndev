@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Immigrants](http://9gag.com/gag/aZZvgVz)
- - ⏩ [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 👉 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)<!-- MEMES:END -->
+ - 💣 [Sensitive you say](http://9gag.com/gag/aryzg6y)
+ - ⏩ [When the mods question all the shitposting posters today](http://9gag.com/gag/an7Vbn0)
+ - 👉 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)<!-- MEMES:END -->
 
 ---
 
