@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to invest $30B+ in capital expenditures in Q1, which would be its largest for a single quarter, after reporting $24.2B in capital spending in Q4 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250730/p49#a250730p49)
- - [Mark Zuckerberg Details Meta’s Plan for Self-Improving, Superintelligent AI](https://www.wired.com/story/meta-earnings-superintelligence-q2-2025/)
- - [Seoul-based chip startup FuriosaAI raised a $125M Series C bridge round from Korea Development Bank, Industrial Bank of Korea, and others at a $735M valuation &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250730/p48#a250730p48)<!-- TECH:END -->
+ - [China&#39;s JD.com launches a takeover bid for German electronics retailer Ceconomy, which operates 1,000+ stores in Europe, valuing Ceconomy&#39;s equity at ~€2.2B &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p52#a250730p52)
+ - [Samsung reports Q1 revenue up 0.7% YoY to $53.7B, vs. $53.6B est., operating profit down 55% YoY to $3.4B, vs. $3.8B est., with chips operating profit down ~94% &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250730/p51#a250730p51)
+ - [Meta is playing the AI game with house money](https://www.theverge.com/news/716523/meta-q2-earnings-superintelligence-ai-mark-zzuckerberg)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
