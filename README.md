@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - ⏩ [Men are simpel](http://9gag.com/gag/a0ew53n)
- - 👉 [Ouch](http://9gag.com/gag/abAEzmL)<!-- MEMES:END -->
+ - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
+ - ⏩ [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
+ - 👉 [Let&#39;s bring back the old memes](http://9gag.com/gag/avym8rn)<!-- MEMES:END -->
 
 ---
 
