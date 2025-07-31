@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mafia: The Old Country Is a Classic Mob Tale Told With an Eye on the Future](https://news.xbox.com/en-us/2025/07/31/mafia-the-old-country-preview-interview/)
- - [Intel has just 18 months to &#39;land a hero customer on 14A&#39; or its cutting-edge fabs are toast, says chip industry analyst](https://www.pcgamer.com/hardware/processors/intel-has-just-18-months-to-land-a-hero-customer-on-14a-or-its-cutting-edge-fabs-are-toast-says-chip-industry-analyst/)
- - [Hello Kitty Island Adventure is getting its first DLC in September, and it will introduce one of the most underrated Sanrio characters to Friendship Island](https://www.pcgamer.com/games/life-sim/hello-kitty-island-adventure-is-getting-its-first-dlc-in-september-and-it-will-introduce-one-of-the-most-underrated-sanrio-characters-to-friendship-island/)<!-- GAME:END -->
+ - [How To Overcome The Deadly Divekicks Of Monster Hunter Wilds&#39; Seregios And Emerge Victorious](https://kotaku.com/monster-hunter-wilds-mhw-seregios-fight-tempered-1851787448)
+ - [&#39;Maybe nobody wants this and it won’t work&#39;: Amazon is chucking an undisclosed amount of cash at AI-generated TV shows, but I&#39;m struggling to see the appeal](https://www.pcgamer.com/software/ai/maybe-nobody-wants-this-and-it-wont-work-amazon-is-chucking-an-undisclosed-amount-of-cash-at-ai-generated-tv-shows-but-im-struggling-to-see-the-appeal/)
+ - [Monster Hunter Wilds&#39; Lord Of The Sea Represents A New Level Of Challenge](https://kotaku.com/monster-hunter-wilds-mhw-lagiacrus-tempered-underwater-1851787435)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
