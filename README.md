@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Samsung gets it right, the Galaxy S26 Pro could be a game-changer for small phone fans](https://www.androidauthority.com/galaxy-s26-pro-game-changer-small-phone-fans-3582201/)
- - [Finding the right image on Android just got a whole lot easier](https://www.androidauthority.com/android-16-photo-picker-new-features-3582775/)
- - [The Cyberspace Administration of China questioned Nvidia over H20 chip security concerns after US lawmakers urged adding tracking features to exported AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/250731/p8#a250731p8)<!-- TECH:END -->
+ - [Sources: Trump administration is reconsidering plans to replace the Biden-era AI export rules as part of a broader softening on chip controls targeting China &lpar;Semafor&rpar;](http://www.techmeme.com/250731/p10#a250731p10)
+ - [xAI will sign the EU AI Code&#39;s safety and security chapter but says the code&#39;s other requirements hurt innovation and its copyright terms are an overreach &lpar;Chandni Shah/Reuters&rpar;](http://www.techmeme.com/250731/p9#a250731p9)
+ - [Hey Microsoft, is it &amp;#8216;Xbox PC&amp;#8217; or &amp;#8216;Xbox on PC&amp;#8217;?](https://www.theverge.com/microsoft/716564/microsoft-xbox-pc-xbox-on-pc-branding-changes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
