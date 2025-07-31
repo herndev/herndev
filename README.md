@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man had enough](http://9gag.com/gag/aAyZx3p)
- - ⏩ [Bang Gang](http://9gag.com/gag/axy4V2M)
- - 👉 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)<!-- MEMES:END -->
+ - 💣 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
+ - ⏩ [Makes sense to me](http://9gag.com/gag/aW49qj3)
+ - 👉 [Came from Core Memory](http://9gag.com/gag/aW491p2)<!-- MEMES:END -->
 
 ---
 
