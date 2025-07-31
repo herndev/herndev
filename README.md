@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google must open Play Store to Epic Games and others after appeal loss](https://www.androidauthority.com/google-loses-antitrust-case-appeal-3583077/)
- - [Fears over tariff price rises prompted panic buying of iPhones](https://appleinsider.com/articles/25/07/31/fears-over-tariff-price-rises-prompted-panic-buying-of-iphones?utm_source=rss)
- - [Apple says Trump’s tariffs are adding another $1 billion to its costs](https://www.theverge.com/news/717108/apple-trump-tariffs-1-billion-cost)<!-- TECH:END -->
+ - [Apple incurred ~$800M in tariff-related costs in Q3, $100M less than expected, and expects a jump to $1.1B in Q4 if current rates and policies remain in place &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/250731/p51#a250731p51)
+ - [Apple shipped its 3 billionth iPhone](https://www.theverge.com/news/717103/apple-shipped-its-3-billionth-iphone)
+ - [Apple staring down $2 billion in total tariff costs in total before end of September](https://appleinsider.com/articles/25/07/31/apple-staring-down-2-billion-in-total-tariff-costs-in-total-before-end-of-september?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
