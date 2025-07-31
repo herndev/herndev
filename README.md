@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gigantamax Butterfree counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/617646/gigantamax-butterfree-counters-weakness-tips-max-battle-raid)
  - [5 stealthy lessons the live-action Assassin&#39;s Creed Netflix series could learn from the clumsy live-action Assassin&#39;s Creed movie](https://www.pcgamer.com/movies-tv/5-stealthy-lessons-the-live-action-assassins-creed-netflix-series-could-learn-from-the-clumsy-live-action-assassins-creed-movie/)
- - [Cat breeding roguelike Mewgenics includes human conditions like autism and dyslexia, but they aren&#39;t just debuffs: &#39;You&#39;ve been given this hand, make it work&#39;](https://www.pcgamer.com/games/roguelike/cat-breeding-roguelike-mewgenics-includes-human-conditions-like-autism-and-dyslexia-but-they-arent-just-debuffs-youve-been-given-this-hand-make-it-work/)
- - [How well do you know Balatro&#39;s jokers? Try to ace our latest quiz!](https://www.pcgamer.com/games/how-well-do-you-know-balatros-jokers-try-to-ace-our-latest-quiz/)<!-- GAME:END -->
+ - [Cat breeding roguelike Mewgenics includes human conditions like autism and dyslexia, but they aren&#39;t just debuffs: &#39;You&#39;ve been given this hand, make it work&#39;](https://www.pcgamer.com/games/roguelike/cat-breeding-roguelike-mewgenics-includes-human-conditions-like-autism-and-dyslexia-but-they-arent-just-debuffs-youve-been-given-this-hand-make-it-work/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
