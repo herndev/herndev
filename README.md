@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump administration says Apple, Google, OpenAI, Amazon, Anthropic, and 60+ companies have pledged to make data sharing seamless across health care systems &lpar;Bloomberg&rpar;](http://www.techmeme.com/250730/p55#a250730p55)
- - [Margit Wennmachers, who has shaped a16z&#39;s marketing approach since joining in 2010, is stepping down and &quot;graduating&quot; from operating partner to partner emeritus &lpar;Michael Bodley/PitchBook&rpar;](http://www.techmeme.com/250730/p54#a250730p54)
- - [Microsoft became the second company to surpass $4T in market cap, joining Nvidia, after shares jumped 8%+ in after-hours trading on better-than-expected results &lpar;CNBC&rpar;](http://www.techmeme.com/250730/p53#a250730p53)<!-- TECH:END -->
+ - [Apple Mac Mini deal: One of Apple’s most powerful computers is also the cheapest](https://www.androidauthority.com/apple-mac-mini-m4-deal-3-3582620/)
+ - [Legion, a security operations center that uses AI to detect threats within users&#39; computer browsers, emerges from stealth with a $38M seed and Series A &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/250730/p57#a250730p57)
+ - [Source: OpenAI&#39;s monthly revenue grew ~2x in the first seven months of 2025, hitting $12B in annualized revenue; the company&#39;s 2025 revenue projection is $12.7B &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250730/p56#a250730p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
