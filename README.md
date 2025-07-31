@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft becomes the second $4 trillion company](https://www.theverge.com/news/716783/microsoft-4-trillion-market-cap-valuation)
- - [Microsoft&#39;s FY 2025 report excludes the names of rivals, breaking from a common industry practice; its last report designated 25+ companies as competitors &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250731/p31#a250731p31)
- - [Proton just dropped a 2FA app that does a few things others don’t](https://www.androidauthority.com/proton-authenticator-launched-3582977/)<!-- TECH:END -->
+ - [Apple Home will gain new AI adaptive temperature in future update](https://appleinsider.com/articles/25/07/31/apple-home-will-gain-new-ai-adaptive-temperature-in-future-update?utm_source=rss)
+ - [Google Phone’s new look may already be available on your device](https://www.androidauthority.com/google-phone-expressive-3582966/)
+ - [Microsoft says Russia&#39;s Secret Blizzard hacking group is impersonating Kaspersky and leveraging Russian ISPs to spy on foreign embassies in Moscow &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250731/p33#a250731p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
