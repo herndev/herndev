@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s bring back the old memes](http://9gag.com/gag/avym8rn)
- - ⏩ [Stonks](http://9gag.com/gag/an7VMDL)
- - 👉 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)<!-- MEMES:END -->
+ - 💣 [Look we have polls now.](http://9gag.com/gag/adBbKAZ)
+ - ⏩ [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
+ - 👉 [Great place to work?](http://9gag.com/gag/aryzbzK)<!-- MEMES:END -->
 
 ---
 
