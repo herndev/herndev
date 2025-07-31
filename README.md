@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What do Greek Heroes do After Death? Find out Now in Achilles: Survivor](https://news.xbox.com/en-us/2025/07/31/what-do-greek-heroes-do-in-achilles-survivor/)
- - [Nintendo sidesteps Hyrule Warriors&#39; biggest issue in Age of Imprisonment](https://www.polygon.com/hyrule-warriors-age-of-imprisonment-canonical-zelda-timeline-age-of-calamity/)
- - [How to find music discs in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613799/music-discs-how-to-get-unlock/)<!-- GAME:END -->
+ - [How to experience the Twilight Cruise again in Genshin Impact](https://www.polygon.com/genshin-impact-how-to-experience-the-twilight-cruise-again/)
+ - [GOG wracked by massive electoral fraud as Digimon World fans flood Dreamlist voting with fake ballots](https://www.pcgamer.com/games/gog-wracked-by-massive-electoral-fraud-as-digimon-world-fans-flood-dreamlist-voting-with-fake-ballots/)
+ - [Among Us 3D is adding a new limited-time feature I haven&#39;t thought about in 20 years: VIP mode](https://www.pcgamer.com/games/action/among-us-3d-is-adding-a-new-limited-time-feature-i-havent-thought-about-in-20-years-vip-mode/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
