@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC&#39;s sky-high growth has carried Japan&#39;s games market on its back for 7 years, but the forecast is it&#39;s set to slow down](https://www.pcgamer.com/gaming-industry/pcs-sky-high-growth-has-carried-japans-games-market-on-its-back-for-7-years-but-the-forecast-is-its-set-to-slow-down/)
  - [Elgato&#39;s new 4k60 Facecam might just become our new favourite, featuring a new a lens, sensor, and analogue filters](https://www.pcgamer.com/hardware/webcams/elgatos-new-4k60-facecam-might-just-become-our-new-favourite-featuring-a-new-a-lens-sensor-and-analogue-filters/)
- - [This sci-fi horror racer is one of my favorite PC games, and it&#39;s currently going for less than a fiver during the Steam racing fest](https://www.pcgamer.com/games/racing/this-sci-fi-horror-racer-is-one-of-my-favorite-pc-games-and-its-currently-going-for-less-than-a-fiver-during-the-steam-racing-fest/)
- - [What&#39;s this, a genuinely affordable Wi-Fi 7 mesh system from Netgear? Huzzah!](https://www.pcgamer.com/hardware/networking/whats-this-a-genuinely-affordable-wi-fi-7-mesh-system-from-netgear-huzzah/)<!-- GAME:END -->
+ - [This sci-fi horror racer is one of my favorite PC games, and it&#39;s currently going for less than a fiver during the Steam racing fest](https://www.pcgamer.com/games/racing/this-sci-fi-horror-racer-is-one-of-my-favorite-pc-games-and-its-currently-going-for-less-than-a-fiver-during-the-steam-racing-fest/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
