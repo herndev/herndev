@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
- - ⏩ [Makes sense to me](http://9gag.com/gag/aW49qj3)
- - 👉 [Came from Core Memory](http://9gag.com/gag/aW491p2)<!-- MEMES:END -->
+ - 💣 [Man had enough](http://9gag.com/gag/aAyZx3p)
+ - ⏩ [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
+ - 👉 [Old but gold](http://9gag.com/gag/aGyb1dX)<!-- MEMES:END -->
 
 ---
 
