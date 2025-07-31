@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Move over, GPUs and CPUs: AMD is looking into creating AI accelerator cards to improve the neural performance of ordinary PCs](https://www.pcgamer.com/hardware/processors/move-over-gpus-and-cpus-amd-is-looking-into-creating-ai-accelerator-cards-to-improve-the-neural-performance-of-ordinary-pcs/)
- - [Steam has a razzle-dazzle new video player that&#39;s actually usable, but press F for the unlucky Valve employees who had to re-encode all 400,000+ trailers on the platform](https://www.pcgamer.com/software/platforms/steam-has-a-razzle-dazzle-new-video-player-thats-actually-usable-but-press-f-for-the-unlucky-valve-employees-who-had-to-re-encode-all-400-000-trailers-on-the-platform/)
- - [You&#39;ve heard of Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, so here&#39;s Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch 2, a Helldivers 2 city based on the village, Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch](https://www.pcgamer.com/games/third-person-shooter/youve-heard-of-llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch-so-heres-llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch-2-a-helldivers-2-city-based-on-the-village-llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch/)<!-- GAME:END -->
+ - [Zuckerberg thinks those without AI glasses will be &#39;at a pretty significant cognitive disadvantage,&#39; which sounds like something the guy who wants you to buy his AI glasses would say](https://www.pcgamer.com/software/ai/zuckerberg-thinks-those-without-ai-glasses-will-be-at-a-pretty-significant-cognitive-disadvantage-which-sounds-like-something-the-guy-who-wants-you-to-buy-his-ai-glasses-would-say/)
+ - [Budget or bust? I think this $26 Amazon Basics USB desktop microphone should make more expensive models a little nervous](https://www.pcgamer.com/hardware/microphones/budget-or-bust-i-think-this-usd26-amazon-basics-usb-desktop-microphone-should-make-more-expensive-models-a-little-nervous/)
+ - [We&#39;ve finally got a look at Blade&#39;s abilities after 162 days of waiting, and players have immediately connected the dots—&#39;Oh, his ult is just Vergil&#39;](https://www.pcgamer.com/games/third-person-shooter/weve-finally-got-a-look-at-blades-abilities-after-162-days-of-waiting-and-players-have-immediately-connected-the-dots-oh-his-ult-is-just-vergil/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
