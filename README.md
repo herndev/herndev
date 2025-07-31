@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home is still a mess, but at least it’s fixed one of its most annoying camera issues](https://www.androidauthority.com/google-home-camera-error-fixes-3583000/)
- - [A look at Big Tech&#39;s AI talent wars with massive compensation packages; sources: Meta told potential hires they would be allotted 30K GPUs for their AI research &lpar;New York Times&rpar;](http://www.techmeme.com/250731/p35#a250731p35)
- - [The Grave Long-Term Effects of the Gaza Malnutrition Crisis](https://www.wired.com/story/how-malnutrition-affects-the-body-gaza-hunger-children-health/)<!-- TECH:END -->
+ - [Sources detail the rise and fall of Builder.ai, as founder Sachin Duggal&#39;s alleged financial transgressions fueled the first big bust of the generative AI era &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p37#a250731p37)
+ - [States Are Moving to Protect Access to Vaccines](https://www.wired.com/story/states-are-moving-to-protect-access-to-vaccines/)
+ - [Best Apple deals: $799 M4 MacBook Air, $1,299 MacBook Pro, $899 iPad Pro, $169 Apple Watch](https://appleinsider.com/articles/25/07/31/best-apple-deals-799-m4-macbook-air-1299-macbook-pro-899-ipad-pro-169-apple-watch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
