@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Overcome The Deadly Divekicks Of Monster Hunter Wilds&#39; Seregios And Emerge Victorious](https://kotaku.com/monster-hunter-wilds-mhw-seregios-fight-tempered-1851787448)
- - [&#39;Maybe nobody wants this and it won’t work&#39;: Amazon is chucking an undisclosed amount of cash at AI-generated TV shows, but I&#39;m struggling to see the appeal](https://www.pcgamer.com/software/ai/maybe-nobody-wants-this-and-it-wont-work-amazon-is-chucking-an-undisclosed-amount-of-cash-at-ai-generated-tv-shows-but-im-struggling-to-see-the-appeal/)
- - [Monster Hunter Wilds&#39; Lord Of The Sea Represents A New Level Of Challenge](https://kotaku.com/monster-hunter-wilds-mhw-lagiacrus-tempered-underwater-1851787435)<!-- GAME:END -->
+ - [Cook Serve Forever Launches with a Banger Soundtrack and Celebrity Voice Actors](https://news.xbox.com/en-us/2025/07/31/cook-serve-forever-launches-with-a-banger-soundtrack/)
+ - [Dragon Ball: Sparking Zero Is Somehow Coming To Both Switch And Switch 2](https://kotaku.com/dragon-ball-sparking-zero-switch-2-release-date-trailer-1851787412)
+ - [I have never known a Destiny 2 expansion with as many problems as Edge of Fate, and I&#39;m worried the game may not survive them](https://www.pcgamer.com/games/fps/i-have-never-known-a-destiny-2-expansion-with-as-many-problems-as-edge-of-fate-and-im-worried-the-game-may-not-survive-them/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
