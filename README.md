@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 5 The Phantom X classroom answers and questions](https://www.polygon.com/guides/609183/persona-5-phantom-x-p5x-classroom-answers-questions/)
- - [Battlefield 6 — hands-on report](https://blog.playstation.com/2025/07/31/battlefield-6-hands-on-report/)
- - [If the Mafia: The Old Country system requirements weren&#39;t too demanding for you already, a whopping new &#39;Epic&#39; spec has been added for &#39;the absolute best visual fidelity&#39;](https://www.pcgamer.com/games/action/mafia-the-old-country-pc-system-requirements/)<!-- GAME:END -->
+ - [What do Greek Heroes do After Death? Find out Now in Achilles: Survivor](https://news.xbox.com/en-us/2025/07/31/what-do-greek-heroes-do-in-achilles-survivor/)
+ - [Nintendo sidesteps Hyrule Warriors&#39; biggest issue in Age of Imprisonment](https://www.polygon.com/hyrule-warriors-age-of-imprisonment-canonical-zelda-timeline-age-of-calamity/)
+ - [How to find music discs in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613799/music-discs-how-to-get-unlock/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
