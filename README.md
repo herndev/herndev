@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A week after Meta turned it down, Google agrees to sign EU&#39;s AI Code of Practice while still raising its own concerns](https://www.pcgamer.com/software/ai/a-week-after-meta-turned-it-down-google-agrees-to-sign-eus-ai-code-of-practice-while-still-raising-its-own-concerns/)
  - [Gigantamax Butterfree counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/617646/gigantamax-butterfree-counters-weakness-tips-max-battle-raid)
- - [5 stealthy lessons the live-action Assassin&#39;s Creed Netflix series could learn from the clumsy live-action Assassin&#39;s Creed movie](https://www.pcgamer.com/movies-tv/5-stealthy-lessons-the-live-action-assassins-creed-netflix-series-could-learn-from-the-clumsy-live-action-assassins-creed-movie/)
- - [Cat breeding roguelike Mewgenics includes human conditions like autism and dyslexia, but they aren&#39;t just debuffs: &#39;You&#39;ve been given this hand, make it work&#39;](https://www.pcgamer.com/games/roguelike/cat-breeding-roguelike-mewgenics-includes-human-conditions-like-autism-and-dyslexia-but-they-arent-just-debuffs-youve-been-given-this-hand-make-it-work/)<!-- GAME:END -->
+ - [5 stealthy lessons the live-action Assassin&#39;s Creed Netflix series could learn from the clumsy live-action Assassin&#39;s Creed movie](https://www.pcgamer.com/movies-tv/5-stealthy-lessons-the-live-action-assassins-creed-netflix-series-could-learn-from-the-clumsy-live-action-assassins-creed-movie/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
