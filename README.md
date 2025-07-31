@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 preview: It sure is more Battlefield!](https://www.polygon.com/battlefield-6-multiplayer-preview-bf6/)
- - [After 4 Hours With Battlefield 6 I&#39;m Convinced It Has The Juice](https://kotaku.com/battlefield-6-preview-destruction-classes-bf3-bf4-1851787384)
- - [Battlefield 6 has 2 open beta weekends this month, a release date for October, and a $70 price point after all that melodrama](https://www.pcgamer.com/games/fps/battlefield-6-open-beta-release-date/)<!-- GAME:END -->
+ - [Persona 5 The Phantom X classroom answers and questions](https://www.polygon.com/guides/609183/persona-5-phantom-x-p5x-classroom-answers-questions/)
+ - [Battlefield 6 — hands-on report](https://blog.playstation.com/2025/07/31/battlefield-6-hands-on-report/)
+ - [If the Mafia: The Old Country system requirements weren&#39;t too demanding for you already, a whopping new &#39;Epic&#39; spec has been added for &#39;the absolute best visual fidelity&#39;](https://www.pcgamer.com/games/action/mafia-the-old-country-pc-system-requirements/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
