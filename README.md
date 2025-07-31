@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump administration is reconsidering plans to replace the Biden-era AI export rules as part of a broader softening on chip controls targeting China &lpar;Semafor&rpar;](http://www.techmeme.com/250731/p10#a250731p10)
- - [xAI will sign the EU AI Code&#39;s safety and security chapter but says the code&#39;s other requirements hurt innovation and its copyright terms are an overreach &lpar;Chandni Shah/Reuters&rpar;](http://www.techmeme.com/250731/p9#a250731p9)
- - [Hey Microsoft, is it &amp;#8216;Xbox PC&amp;#8217; or &amp;#8216;Xbox on PC&amp;#8217;?](https://www.theverge.com/microsoft/716564/microsoft-xbox-pc-xbox-on-pc-branding-changes)<!-- TECH:END -->
+ - [Uber Eats is adding AI to menus, food photos, and reviews](https://www.theverge.com/news/716578/uber-eats-ai-menu-photo-description-features)
+ - [Sources: Shein&#39;s net income rose to over $400M, revenue rose to ~$10B in Q1, driving profit margins to ~5%, driven by consumer purchases ahead of US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p15#a250731p15)
+ - [Spotify Panama Playlists expose the soundtrack of the elite &lpar;and the death of their privacy&rpar;](https://www.androidauthority.com/spotify-panama-playlists-3582830/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
