@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now that 9gag has polls, let&#39;s make them regret it. Here&#39;s a poll: Who is your favorite Austrian painter?](http://9gag.com/gag/aAyZ3rL)
- - ⏩ [Fascinating technology](http://9gag.com/gag/aKGpDW3)
- - 👉 [A short and witty title](http://9gag.com/gag/azxQXPq)<!-- MEMES:END -->
+ - 💣 [Immigrants](http://9gag.com/gag/aZZvgVz)
+ - ⏩ [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - 👉 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)<!-- MEMES:END -->
 
 ---
 
