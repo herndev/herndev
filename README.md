@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old but gold](http://9gag.com/gag/aGyb1dX)
- - ⏩ [Makes sense to me](http://9gag.com/gag/aW49qj3)
- - 👉 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)<!-- MEMES:END -->
+ - 💣 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
+ - ⏩ [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
+ - 👉 [Black heaven canceled](http://9gag.com/gag/aGybjeK)<!-- MEMES:END -->
 
 ---
 
