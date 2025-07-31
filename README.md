@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;#038;D returns to its one of its earliest settings by kicking off an organized play campaign at Gen Con](https://www.polygon.com/dnd-dungeons-dragons/617892/organized-play-campaign-legends-of-greyhawk-gencon)
- - [PC&#39;s sky-high growth has carried Japan&#39;s games market on its back for 7 years, but the forecast is it&#39;s set to slow down](https://www.pcgamer.com/gaming-industry/pcs-sky-high-growth-has-carried-japans-games-market-on-its-back-for-7-years-but-the-forecast-is-its-set-to-slow-down/)
- - [Elgato&#39;s new 4k60 Facecam might just become our new favourite, featuring a new a lens, sensor, and analogue filters](https://www.pcgamer.com/hardware/webcams/elgatos-new-4k60-facecam-might-just-become-our-new-favourite-featuring-a-new-a-lens-sensor-and-analogue-filters/)<!-- GAME:END -->
+ - [Move over, GPUs and CPUs: AMD is looking into creating AI accelerator cards to improve the neural performance of ordinary PCs](https://www.pcgamer.com/hardware/processors/move-over-gpus-and-cpus-amd-is-looking-into-creating-ai-accelerator-cards-to-improve-the-neural-performance-of-ordinary-pcs/)
+ - [Steam has a razzle-dazzle new video player that&#39;s actually usable, but press F for the unlucky Valve employees who had to re-encode all 400,000+ trailers on the platform](https://www.pcgamer.com/software/platforms/steam-has-a-razzle-dazzle-new-video-player-thats-actually-usable-but-press-f-for-the-unlucky-valve-employees-who-had-to-re-encode-all-400-000-trailers-on-the-platform/)
+ - [You&#39;ve heard of Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, so here&#39;s Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch 2, a Helldivers 2 city based on the village, Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch](https://www.pcgamer.com/games/third-person-shooter/youve-heard-of-llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch-so-heres-llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch-2-a-helldivers-2-city-based-on-the-village-llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
