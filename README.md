@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Big Boss and Lady Dimitrescu will host the Future Games Show at Gamescom 2025](https://www.pcgamer.com/gaming-industry/big-boss-and-lady-dimitrescu-will-host-the-future-games-show-at-gamescom-2025/)
- - [A new Octopath Traveler game is coming December 4](https://www.polygon.com/nintendo-switch-2/617945/octopath-traveler-0-trailer-release-date)
- - [Everything announced at Nintendo’s new Nintendo Direct](https://www.polygon.com/nintendo-switch-2/617924/nintendo-direct-july-2025-everything-announced-switch)<!-- GAME:END -->
+ - [Free Play Days – WWE 2K25, Dynasty Warriors: Origins, I, Robot, and The Ascent](https://news.xbox.com/en-us/2025/07/31/free-play-days-07-31-2025/)
+ - [Xbox Game Pass Makes $5 Billion As Microsoft Reports Massive Growth](https://kotaku.com/microsoft-xbox-game-pass-profit-revenue-5-billion-1851787391)
+ - [Baldur&#39;s Gate 3 fixes Astarion looking like your granddad on Facetime and Dark Urge forgetting they have amnesia with a &#39;room temperature fix&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-fixes-astarion-looking-like-your-granddad-on-facetime-and-dark-urge-forgetting-they-have-amnesia-with-a-room-temperature-fix/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
