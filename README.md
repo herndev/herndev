@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
+ - 💣 [Old but gold](http://9gag.com/gag/aGyb1dX)
  - ⏩ [Makes sense to me](http://9gag.com/gag/aW49qj3)
- - 👉 [The take down](http://9gag.com/gag/a4PVbD6)<!-- MEMES:END -->
+ - 👉 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)<!-- MEMES:END -->
 
 ---
 
