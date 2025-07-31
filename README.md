@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung confirms earlier launch for Galaxy S25 FE, teases more big releases for 2025](https://www.androidauthority.com/samsung-galaxy-s25-fe-launch-q2-2025-results-3582736/)
- - [Report: Douyin is merging its online shopping and instant delivery platforms, as ByteDance takes on Alibaba, JD.com, and Meituan in China&#39;s quick delivery race &lpar;Hannah Wang/South China Morning Post&rpar;](http://www.techmeme.com/250731/p1#a250731p1)
- - [Google DeepMind unveils AlphaEarth Foundations, an AI model that unifies petabytes of Earth observation data and helps scientists create detailed maps on demand &lpar;Google DeepMind&rpar;](http://www.techmeme.com/250730/p58#a250730p58)<!-- TECH:END -->
+ - [Therabody Promo Code: 15% Off | August 2025](https://www.wired.com/story/therabody-promo-code/)
+ - [Top Verizon Promo Codes &amp; Deals | August 2025](https://www.wired.com/story/verizon-promo-code/)
+ - [Déjà vu? T-Mobile may be changing your plan whether you want it to or not &lpar;Updated&rpar;](https://www.androidauthority.com/t-mobile-plan-change-3582672/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
