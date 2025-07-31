@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
- - ⏩ [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
- - 👉 [Let&#39;s bring back the old memes](http://9gag.com/gag/avym8rn)<!-- MEMES:END -->
+ - 💣 [Let&#39;s bring back the old memes](http://9gag.com/gag/avym8rn)
+ - ⏩ [Stonks](http://9gag.com/gag/an7VMDL)
+ - 👉 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)<!-- MEMES:END -->
 
 ---
 
