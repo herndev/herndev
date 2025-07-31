@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI’s first 360-degree camera can continuously capture 8K footage for over 100 minutes](https://www.theverge.com/news/715901/dji-osmo-360-degree-action-camera-8k)
- - [SK Hynix passed Samsung as the world&#39;s top memory maker in Q2, reporting $15.6B in memory revenue vs. Samsung&#39;s $15.2B, as Nvidia heavily relies on its products &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250731/p18#a250731p18)
- - [One UI 8 lets you use Samsung DeX on your PC again, but there’s a catch](https://www.androidauthority.com/samsung-dex-on-pc-one-ui-8-3582695/)<!-- TECH:END -->
+ - [Safe Security, formerly Lucideus, which quantifies cyber risk using ML, raised a $70M Series C led by Avataar Ventures, bringing its total funding to $170M+ &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/250731/p22#a250731p22)
+ - [The Verge’s favorite backpacks, totes, and other bags for 2025](https://www.theverge.com/tech/715348/backpacks-totes-bags-favorites)
+ - [Nvidia will support GeForce drivers on Windows 10 until October 2026](https://www.theverge.com/news/716607/nvidia-geforce-game-ready-driver-window-10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
