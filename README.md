@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sick dudes out there wish they was in this position](http://9gag.com/gag/awyvn3B)
- - ⏩ [Psycho the rapist](http://9gag.com/gag/axy4VzW)
- - 👉 [Run!!](http://9gag.com/gag/aryzbE6)<!-- MEMES:END -->
+ - 💣 [Being a gentleman - 101](http://9gag.com/gag/aKGpV03)
+ - ⏩ [Thats a bummer](http://9gag.com/gag/a9yBARK)
+ - 👉 [Play stupid games, win stupid prizes](http://9gag.com/gag/aoyDOY0)<!-- MEMES:END -->
 
 ---
 
