@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s JD.com launches a takeover bid for German electronics retailer Ceconomy, which operates 1,000+ stores in Europe, valuing Ceconomy&#39;s equity at ~€2.2B &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p52#a250730p52)
- - [Samsung reports Q1 revenue up 0.7% YoY to $53.7B, vs. $53.6B est., operating profit down 55% YoY to $3.4B, vs. $3.8B est., with chips operating profit down ~94% &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250730/p51#a250730p51)
- - [Meta is playing the AI game with house money](https://www.theverge.com/news/716523/meta-q2-earnings-superintelligence-ai-mark-zzuckerberg)<!-- TECH:END -->
+ - [The Trump administration says Apple, Google, OpenAI, Amazon, Anthropic, and 60+ companies have pledged to make data sharing seamless across health care systems &lpar;Bloomberg&rpar;](http://www.techmeme.com/250730/p55#a250730p55)
+ - [Margit Wennmachers, who has shaped a16z&#39;s marketing approach since joining in 2010, is stepping down and &quot;graduating&quot; from operating partner to partner emeritus &lpar;Michael Bodley/PitchBook&rpar;](http://www.techmeme.com/250730/p54#a250730p54)
+ - [Microsoft became the second company to surpass $4T in market cap, joining Nvidia, after shares jumped 8%+ in after-hours trading on better-than-expected results &lpar;CNBC&rpar;](http://www.techmeme.com/250730/p53#a250730p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
