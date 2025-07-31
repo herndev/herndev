@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail the rise and fall of Builder.ai, as founder Sachin Duggal&#39;s alleged financial transgressions fueled the first big bust of the generative AI era &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p37#a250731p37)
- - [States Are Moving to Protect Access to Vaccines](https://www.wired.com/story/states-are-moving-to-protect-access-to-vaccines/)
- - [Best Apple deals: $799 M4 MacBook Air, $1,299 MacBook Pro, $899 iPad Pro, $169 Apple Watch](https://appleinsider.com/articles/25/07/31/best-apple-deals-799-m4-macbook-air-1299-macbook-pro-899-ipad-pro-169-apple-watch?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Salesforce and ServiceNow are in talks to invest ~$750M each in Genesys, which uses AI to automate customer service functions, valuing Genesys at ~$15B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p39#a250731p39)
+ - [The Switch 2 is off to a speedy start for big third-party games](https://www.theverge.com/games/716859/nintendo-partner-direct-july-cronos-star-wars)
+ - [Pixel Buds 2a leak spoils the last mystery leading up to Google’s launch](https://www.androidauthority.com/google-pixel-buds-2a-iris-render-3583045/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
