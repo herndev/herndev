@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ouch](http://9gag.com/gag/abAEzmL)
+ - 💣 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)
  - ⏩ [Black heaven canceled](http://9gag.com/gag/aGybjeK)
  - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
 
