@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Home will gain new AI adaptive temperature in future update](https://appleinsider.com/articles/25/07/31/apple-home-will-gain-new-ai-adaptive-temperature-in-future-update?utm_source=rss)
- - [Google Phone’s new look may already be available on your device](https://www.androidauthority.com/google-phone-expressive-3582966/)
- - [Microsoft says Russia&#39;s Secret Blizzard hacking group is impersonating Kaspersky and leveraging Russian ISPs to spy on foreign embassies in Moscow &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250731/p33#a250731p33)<!-- TECH:END -->
+ - [Google Home is still a mess, but at least it’s fixed one of its most annoying camera issues](https://www.androidauthority.com/google-home-camera-error-fixes-3583000/)
+ - [A look at Big Tech&#39;s AI talent wars with massive compensation packages; sources: Meta told potential hires they would be allotted 30K GPUs for their AI research &lpar;New York Times&rpar;](http://www.techmeme.com/250731/p35#a250731p35)
+ - [The Grave Long-Term Effects of the Gaza Malnutrition Crisis](https://www.wired.com/story/how-malnutrition-affects-the-body-gaza-hunger-children-health/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
