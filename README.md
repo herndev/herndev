@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats a bummer](http://9gag.com/gag/a9yBARK)
- - ⏩ [He&#39;s got the moves](http://9gag.com/gag/aLnr8ZA)
- - 👉 [Maximum cruelty](http://9gag.com/gag/abAEzwr)<!-- MEMES:END -->
+ - 💣 [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - ⏩ [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
+ - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
 
 ---
 
