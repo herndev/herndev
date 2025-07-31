@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to experience the Twilight Cruise again in Genshin Impact](https://www.polygon.com/genshin-impact-how-to-experience-the-twilight-cruise-again/)
- - [GOG wracked by massive electoral fraud as Digimon World fans flood Dreamlist voting with fake ballots](https://www.pcgamer.com/games/gog-wracked-by-massive-electoral-fraud-as-digimon-world-fans-flood-dreamlist-voting-with-fake-ballots/)
- - [Among Us 3D is adding a new limited-time feature I haven&#39;t thought about in 20 years: VIP mode](https://www.pcgamer.com/games/action/among-us-3d-is-adding-a-new-limited-time-feature-i-havent-thought-about-in-20-years-vip-mode/)<!-- GAME:END -->
+ - [Battlefield 6 system requirements are in, and you probably won&#39;t need to upgrade your PC to run it](https://www.pcgamer.com/games/fps/battlefield-6-system-requirements-are-in-and-you-probably-wont-need-to-upgrade-your-pc-to-run-it/)
+ - [Can a game about a pixelated cat change the drug education narrative?](https://www.polygon.com/gaming/617694/narcats-world-harm-reduction-drug-education-how-to-play/)
+ - [Nintendo Direct’s best reveal was a real blink and you miss it moment](https://www.polygon.com/goodnight-universe-before-your-eyes-nintendo-switch-2-direct-announcement/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
