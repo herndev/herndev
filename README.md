@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look we have polls now.](http://9gag.com/gag/adBbKAZ)
- - ⏩ [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
- - 👉 [Great place to work?](http://9gag.com/gag/aryzbzK)<!-- MEMES:END -->
+ - 💣 [Ouch](http://9gag.com/gag/abAEzmL)
+ - ⏩ [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
 
 ---
 
