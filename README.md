@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zuckerberg thinks those without AI glasses will be &#39;at a pretty significant cognitive disadvantage,&#39; which sounds like something the guy who wants you to buy his AI glasses would say](https://www.pcgamer.com/software/ai/zuckerberg-thinks-those-without-ai-glasses-will-be-at-a-pretty-significant-cognitive-disadvantage-which-sounds-like-something-the-guy-who-wants-you-to-buy-his-ai-glasses-would-say/)
- - [Budget or bust? I think this $26 Amazon Basics USB desktop microphone should make more expensive models a little nervous](https://www.pcgamer.com/hardware/microphones/budget-or-bust-i-think-this-usd26-amazon-basics-usb-desktop-microphone-should-make-more-expensive-models-a-little-nervous/)
- - [We&#39;ve finally got a look at Blade&#39;s abilities after 162 days of waiting, and players have immediately connected the dots—&#39;Oh, his ult is just Vergil&#39;](https://www.pcgamer.com/games/third-person-shooter/weve-finally-got-a-look-at-blades-abilities-after-162-days-of-waiting-and-players-have-immediately-connected-the-dots-oh-his-ult-is-just-vergil/)<!-- GAME:END -->
+ - [Time Flies when you&amp;#8217;re thinking about dying](https://www.polygon.com/review/617424/time-flies-recommendation-hands-on)
+ - [Monster Hunter Wilds Rushing Out New Content As Capcom Faces Tough Questions](https://kotaku.com/monster-hunter-wilds-quest-difficulty-talisman-update-1851787394)
+ - [Watch the latest Nintendo Direct right here for Switch 2 news](https://www.polygon.com/gaming/615366/nintendo-direct-july-2025-date-time-start)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
