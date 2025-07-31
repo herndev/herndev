@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [D&amp;#038;D returns to its one of its earliest settings by kicking off an organized play campaign at Gen Con](https://www.polygon.com/dnd-dungeons-dragons/617892/organized-play-campaign-legends-of-greyhawk-gencon)
  - [PC&#39;s sky-high growth has carried Japan&#39;s games market on its back for 7 years, but the forecast is it&#39;s set to slow down](https://www.pcgamer.com/gaming-industry/pcs-sky-high-growth-has-carried-japans-games-market-on-its-back-for-7-years-but-the-forecast-is-its-set-to-slow-down/)
- - [Elgato&#39;s new 4k60 Facecam might just become our new favourite, featuring a new a lens, sensor, and analogue filters](https://www.pcgamer.com/hardware/webcams/elgatos-new-4k60-facecam-might-just-become-our-new-favourite-featuring-a-new-a-lens-sensor-and-analogue-filters/)
- - [This sci-fi horror racer is one of my favorite PC games, and it&#39;s currently going for less than a fiver during the Steam racing fest](https://www.pcgamer.com/games/racing/this-sci-fi-horror-racer-is-one-of-my-favorite-pc-games-and-its-currently-going-for-less-than-a-fiver-during-the-steam-racing-fest/)<!-- GAME:END -->
+ - [Elgato&#39;s new 4k60 Facecam might just become our new favourite, featuring a new a lens, sensor, and analogue filters](https://www.pcgamer.com/hardware/webcams/elgatos-new-4k60-facecam-might-just-become-our-new-favourite-featuring-a-new-a-lens-sensor-and-analogue-filters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
