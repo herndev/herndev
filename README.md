@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Being a gentleman - 101](http://9gag.com/gag/aKGpV03)
- - ⏩ [Thats a bummer](http://9gag.com/gag/a9yBARK)
- - 👉 [Play stupid games, win stupid prizes](http://9gag.com/gag/aoyDOY0)<!-- MEMES:END -->
+ - 💣 [Act cool](http://9gag.com/gag/a7oADEm)
+ - ⏩ [Awkward](http://9gag.com/gag/aND3AOK)
+ - 👉 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)<!-- MEMES:END -->
 
 ---
 
