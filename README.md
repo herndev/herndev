@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
+ - 💣 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
  - ⏩ [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
- - 👉 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)<!-- MEMES:END -->
+ - 👉 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)<!-- MEMES:END -->
 
 ---
 
