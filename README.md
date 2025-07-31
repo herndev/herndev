@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - ⏩ [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
- - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
+ - 💣 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
+ - ⏩ [A guy wanted to adopt a cat, but he wouldn&#39;t leave his brother&#39;s side, so he had to take both of them](http://9gag.com/gag/aO8GzxM)
+ - 👉 [I just leave this here.](http://9gag.com/gag/aW49qXx)<!-- MEMES:END -->
 
 ---
 
