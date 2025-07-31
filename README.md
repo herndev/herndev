@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sensitive you say](http://9gag.com/gag/aryzg6y)
- - ⏩ [When the mods question all the shitposting posters today](http://9gag.com/gag/an7Vbn0)
- - 👉 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)<!-- MEMES:END -->
+ - 💣 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - ⏩ [Men are simpel](http://9gag.com/gag/a0ew53n)
+ - 👉 [Ouch](http://9gag.com/gag/abAEzmL)<!-- MEMES:END -->
 
 ---
 
