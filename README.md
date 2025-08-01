@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NewPipe adds Android Auto support, bringing YouTube to your car screen](https://www.androidauthority.com/newpipe-android-auto-youtube-3583444/)
- - [The clock is ticking: Google has 14 days to make major changes to the Play Store](https://www.androidauthority.com/google-epic-play-store-emergency-stay-3583438/)
- - [Anthropic Revokes OpenAI&#39;s Access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)<!-- TECH:END -->
+ - [Amazon eyes ads and upcharges for Alexa Plus](https://www.theverge.com/analysis/717763/amazon-alexa-plus-ai-ads-revenue-subscription-plans)
+ - [All hands on deck: Tim Cook, Craig Federighi address Apple employees on AI, Siri](https://appleinsider.com/articles/25/08/01/all-hands-on-deck-tim-cook-craig-federighi-address-apple-employees-on-ai-siri?utm_source=rss)
+ - [Anthropic revoked OpenAI&#39;s API access to Claude, citing ToS violations; sources: OpenAI&#39;s use of the API let it compare its models&#39; behavior against Claude&#39;s &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250801/p33#a250801p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
