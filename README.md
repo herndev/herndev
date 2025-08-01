@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know. You know](http://9gag.com/gag/aAyZx79)
- - ⏩ [A short and witty title](http://9gag.com/gag/azxQXPq)
- - 👉 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)<!-- MEMES:END -->
+ - 💣 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - ⏩ [Photon acting differently after realizing it&#39;s observed](http://9gag.com/gag/a6Z8oRA)
+ - 👉 [Man had enough](http://9gag.com/gag/aAyZx3p)<!-- MEMES:END -->
 
 ---
 
