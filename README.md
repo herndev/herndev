@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Switch prices are going up after this weekend](https://www.theverge.com/news/717325/nintendo-switch-price-hike-tariffs)
- - [Reddit wants to become &quot;a go-to search engine&quot; for users; its core search has 70M+ weekly active unique users and AI-powered Reddit Answers has 6M weekly users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250801/p15#a250801p15)
- - [IRS head says free Direct File tax service is ‘gone’](https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration)<!-- TECH:END -->
+ - [Hot deal: Amazon slashes $450 off the Samsung Galaxy S24 Ultra](https://www.androidauthority.com/deal-samsung-galaxy-s24-ultra-3583327/)
+ - [The $299 Halo smart glasses will remember the names of people you meet](https://www.theverge.com/news/717387/brilliant-labs-halo-smart-glasses-noa-ai)
+ - [Apple didn&#39;t need AI -- but it did need China -- to beat analysts&#39; doom and gloom](https://appleinsider.com/articles/25/08/01/apple-didnt-need-ai----but-it-did-need-china----to-beat-analysts-doom-and-gloom?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
