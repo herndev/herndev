@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: Amazon slashes $450 off the Samsung Galaxy S24 Ultra](https://www.androidauthority.com/deal-samsung-galaxy-s24-ultra-3583327/)
- - [The $299 Halo smart glasses will remember the names of people you meet](https://www.theverge.com/news/717387/brilliant-labs-halo-smart-glasses-noa-ai)
- - [Apple didn&#39;t need AI -- but it did need China -- to beat analysts&#39; doom and gloom](https://appleinsider.com/articles/25/08/01/apple-didnt-need-ai----but-it-did-need-china----to-beat-analysts-doom-and-gloom?utm_source=rss)<!-- TECH:END -->
+ - [Nintendo plans to raise the price of original Switch &quot;family of systems and products&quot; and some Switch 2 accessories in the US; Switch 2 price won&#39;t change &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250801/p19#a250801p19)
+ - [Nintendo Switch prices are going up after this weekend](https://www.theverge.com/news/717325/nintendo-switch-price-hike-tariffs)
+ - [Inside Jeffrey Epstein’s Forgotten AI Summit](https://www.wired.com/story/epstein-files-science-tech-funding/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
