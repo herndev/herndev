@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hilltop Layer Banandium Gem &lpar;bananas&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613715/hilltop-layer-banandium-gem-banana-locations-list-map/)
- - [Pokemon Scarlet and Violet players defeat shiny Wo-Chien over 3.5 million times](https://www.polygon.com/pokmon-scarlet-violet-shiny-wo-chien-raid-victories/)
- - [DnD&#39;s new Forgotten Realm books will finally go beyond the Sword Coast](https://www.polygon.com/dnd-dungeons-dragons-new-forgotten-realm-books-more-regions/)<!-- GAME:END -->
+ - [Eyes of Wakanda reveals a surprising truth about Marvel&#39;s best villain](https://www.polygon.com/eyes-of-wakanda-marvel-review/)
+ - [EA wants you to finish its spicy Sims 4 Wattpad fanfic](https://www.polygon.com/sims-4-enchanted-by-nature-fanfic-romantasy-wattpad/)
+ - [Mastercard Denies Pressuring Steam To Censor ‘NSFW’ Games](https://kotaku.com/mastercard-denies-pressuring-steam-to-censor-nsfw-games-2000614393)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
