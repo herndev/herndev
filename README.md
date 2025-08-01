@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eyes of Wakanda reveals a surprising truth about Marvel&#39;s best villain](https://www.polygon.com/eyes-of-wakanda-marvel-review/)
- - [EA wants you to finish its spicy Sims 4 Wattpad fanfic](https://www.polygon.com/sims-4-enchanted-by-nature-fanfic-romantasy-wattpad/)
- - [Mastercard Denies Pressuring Steam To Censor ‘NSFW’ Games](https://kotaku.com/mastercard-denies-pressuring-steam-to-censor-nsfw-games-2000614393)<!-- GAME:END -->
+ - [The Divide Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614327/the-divide-layer-banandium-gem-golden-banana-locations-list-map/)
+ - [EA boss explains why we&#39;re getting Project Rene instead of Sims 5](https://www.polygon.com/sims-5-project-rene-update/)
+ - [&#39;It has to be grounded&#39;: Battlefield 6 devs say cosmetics won&#39;t be as goofy as Call of Duty, but that sounds almost too good to be true](https://www.pcgamer.com/games/fps/it-has-to-be-grounded-battlefield-6-devs-say-cosmetics-wont-be-as-goofy-as-call-of-duty-but-that-sounds-almost-too-good-to-be-true/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
