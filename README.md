@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla to pay more than $200 million in damages after being found partly liable for fatal Autopilot crash](https://www.theverge.com/news/717754/tesla-autopilot-crash-liable-jury-trial-damages)
- - [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)
- - [Meta, Alphabet, Microsoft, and Amazon have collectively spent ~$90B on capex in their most recent quarters and are expected to spend over $344B for the year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p30#a250801p30)<!-- TECH:END -->
+ - [NewPipe adds Android Auto support, bringing YouTube to your car screen](https://www.androidauthority.com/newpipe-android-auto-youtube-3583444/)
+ - [The clock is ticking: Google has 14 days to make major changes to the Play Store](https://www.androidauthority.com/google-epic-play-store-emergency-stay-3583438/)
+ - [Anthropic Revokes OpenAI&#39;s Access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
