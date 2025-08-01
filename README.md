@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Silent Hill f preview: A potentially great new Silent Hill game emerges](https://www.polygon.com/silent-hill-f-hands-on-preview-release-date/)
  - [Today&#39;s Wordle clues, hints and answer for August 1 &lpar;#1504&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-1-2025/)
- - [Free adult NSFW content returns to itch.io, as one of the platform&#39;s major payment processors expresses hope to &#39;support adult content in the future&#39;](https://www.pcgamer.com/gaming-industry/game-development/free-adult-nsfw-content-returns-to-itch-io-as-one-of-the-platforms-major-payment-processors-expresses-hope-to-support-adult-content-in-the-future/)
- - [Hilltop Layer Banandium Gem &lpar;bananas&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613715/hilltop-layer-banandium-gem-banana-locations-list-map/)<!-- GAME:END -->
+ - [Free adult NSFW content returns to itch.io, as one of the platform&#39;s major payment processors expresses hope to &#39;support adult content in the future&#39;](https://www.pcgamer.com/gaming-industry/game-development/free-adult-nsfw-content-returns-to-itch-io-as-one-of-the-platforms-major-payment-processors-expresses-hope-to-support-adult-content-in-the-future/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
