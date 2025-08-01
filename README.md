@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - ⏩ [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)
- - 👉 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)<!-- MEMES:END -->
+ - 💣 [Dang, right in the feels. We had enough technology to make it a little fun, but not quite enough to get in the way of us being children. We didn&#39;t know how good we had it. Man... Long fkin live the 90s!!!](http://9gag.com/gag/aAyZg3L)
+ - ⏩ [Give her your strength guys, shell need it !](http://9gag.com/gag/aAyZ3ZL)
+ - 👉 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)<!-- MEMES:END -->
 
 ---
 
