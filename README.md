@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forgot to pay that bill? Now Brief can come to your rescue &lpar;Update: Available&rpar;](https://www.androidauthority.com/samsung-now-brief-custom-cards-reminders-3580034/)
- - [On a legacy Verizon 5G plan? This perk is coming to an end.](https://www.androidauthority.com/verizon-play-pass-promo-ends-3583169/)
- - [Neuralink plans a UK clinical trial to test how its chips let patients with severe paralysis control devices with thoughts, marking its entry into the country &lpar;Christy Santhosh/Reuters&rpar;](http://www.techmeme.com/250801/p6#a250801p6)<!-- TECH:END -->
+ - [I tried iOS 26 as an Android user, and my biggest issue has nothing to do with Liquid Glass](https://www.androidauthority.com/i-tried-ios-26-biggest-issue-not-liquid-glass-buttons-3582557/)
+ - [Apple has sold 3 billion iPhones but Android is still king of the world](https://www.androidauthority.com/apple-3-billion-iphones-sold-3583189/)
+ - [Retroid’s wild Dual Screen add-on just got pushed back](https://www.androidauthority.com/retroid-dual-screen-add-on-delay-3583194/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
