@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest version of Intel&#39;s XeSS 2 now lets other GPUs run its AI-based frame generation system, throwing RTX 30-series owners a Team Blue-shaped bone](https://www.pcgamer.com/hardware/graphics-cards/the-latest-version-of-intels-xess-2-now-lets-other-gpus-run-its-ai-based-frame-generation-system-throwing-rtx-30-series-owners-a-team-blue-shaped-bone/)
- - [How to kill snails in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-how-to-kill-snails/)
- - [All Grounded 2 Omni-Tool upgrades and when you can expect Tier 3 tools](https://www.pcgamer.com/games/survival-crafting/grounded-2-omni-tool-upgrades/)<!-- GAME:END -->
+ - [What is Mage Arena, the game blowing up Steam and TikTok?](https://www.polygon.com/what-is-mage-arena-steam-pc-game-tiktok-sales-players/)
+ - [Batman&#39;s masterpiece is returning to theaters in 4K](https://www.polygon.com/batman-returns-theaters-release-date-tickets/)
+ - [Semiconductors left in Trump&#39;s trade purgatory as new US tariffs on Taiwan set at 20%](https://www.pcgamer.com/hardware/semiconductors-left-in-trumps-trade-purgatory-as-new-us-tariffs-on-taiwan-set-at-20-percent/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
