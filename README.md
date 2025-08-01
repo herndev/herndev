@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [28 Years Later and every new movie you can now watch on streaming](https://www.polygon.com/new-movies-watch-28-years-later-final-destination-bloodlines-8-1-2025/)
- - [2K Games&#39; isn&#39;t happy with the new BioShock, report says](https://www.polygon.com/bioshock-4-development-problems-report/)
- - [Titan Quest 2 is a chill Greek holiday compared to the live service complexity of ARPGs like Diablo 4 and Path of Exile 2](https://www.pcgamer.com/games/rpg/titan-quest-2-is-a-chill-greek-holiday-compared-to-the-live-service-complexity-of-arpgs-like-diablo-4-and-path-of-exile-2/)<!-- GAME:END -->
+ - [Darksiders 4 announced at THQ Nordic showcase](https://www.polygon.com/darksiders-4-announcement-trailer/)
+ - [The Elder Scrolls Online &#39;isn&#39;t going anywhere,&#39; new ZeniMax boss says: &#39;The studio is continuing to work hard on new features, adventures, and improvements&#39;](https://www.pcgamer.com/games/mmo/the-elder-scrolls-online-isnt-going-anywhere-new-zenimax-boss-says-the-studio-is-continuing-to-work-hard-on-new-features-adventures-and-improvements/)
+ - [Battlefield 6 Will Steer Clear Of Goofy Skins: ‘I Don’t Think It Needs Nicki Minaj’](https://kotaku.com/battlefield-6-goofy-skins-call-of-duty-nicki-minaj-2000614447)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
