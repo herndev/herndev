@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Starlight](http://9gag.com/gag/aGybgLn)
- - ⏩ [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 👉 [Forklift certified](http://9gag.com/gag/aZZvg46)<!-- MEMES:END -->
+ - 💣 [Save your friends](http://9gag.com/gag/aVvBYvw)
+ - ⏩ [Dang, right in the feels. We had enough technology to make it a little fun, but not quite enough to get in the way of us being children. We didn&#39;t know how good we had it. Man... Long fkin live the 90s!!!](http://9gag.com/gag/aAyZg3L)
+ - 👉 [Give her your strength guys, shell need it !](http://9gag.com/gag/aAyZ3ZL)<!-- MEMES:END -->
 
 ---
 
