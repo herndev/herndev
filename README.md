@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo plans to raise the price of original Switch &quot;family of systems and products&quot; and some Switch 2 accessories in the US; Switch 2 price won&#39;t change &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250801/p19#a250801p19)
- - [Nintendo Switch prices are going up after this weekend](https://www.theverge.com/news/717325/nintendo-switch-price-hike-tariffs)
- - [Inside Jeffrey Epstein’s Forgotten AI Summit](https://www.wired.com/story/epstein-files-science-tech-funding/)<!-- TECH:END -->
+ - [Hoboken, NJ-based Saphyre, which makes software used in securities trading, raised $70M from FTV Capital &lpar;Luis Garcia/Wall Street Journal&rpar;](http://www.techmeme.com/250801/p23#a250801p23)
+ - [Anthropic studied what gives an AI system its ‘personality’ — and what makes it ‘evil’](https://www.theverge.com/anthropic/717551/anthropic-research-fellows-ai-personality-claude-sycophantic-evil)
+ - [Google has just two weeks to begin cracking open Android, it admits in emergency filing](https://www.theverge.com/news/717440/google-epic-open-play-store-emergency-stay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
