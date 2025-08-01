@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo reports Q1 revenue up 132% YoY to ~$3.8B, operating profit up 4.4% to ~$378M, and 5.82M Switch 2 sales, more than double of Switch 1 in its first month &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250801/p8#a250801p8)
- - [Nintendo’s Switch 2 doubles first-month sales of the original](https://www.theverge.com/news/717163/nintendo-earnings-q1-2025-switch-2-sales)
- - [Games industry trade organizations and gamers are speaking out against censorship campaigns that have forced Steam and Itch.io to mass deindex NSFW content &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/250801/p7#a250801p7)<!-- TECH:END -->
+ - [Inside Find My - Track your devices &amp; loved ones with a tap](https://appleinsider.com/inside/iphone/tips/inside-find-my---track-your-devices-loved-ones-with-a-tap?utm_source=rss)
+ - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+ - [6 reasons why I prefer self hosted apps — and why you should too](https://www.androidauthority.com/reasons-i-self-host-my-own-apps-3581574/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
