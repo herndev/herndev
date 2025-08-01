@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tempest Layer Banandium Gem &lpar;banana&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615024/tempest-layer-banandium-gem-golden-banana-locations-list-map-all/)
- - [Resort Layer Banandium Gem &lpar;banana&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615001/resort-layer-banandium-gem-golden-banana-locations-list-map-all/)
- - [Forest Layer Banandium Gem &lpar;banana&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614609/forest-layer-banandium-gem-golden-banana-locations-list-map-all/)<!-- GAME:END -->
+ - [Free adult NSFW content returns to itch.io, as one of the platform&#39;s major payment processors expresses hope to &#39;support adult content in the future&#39;](https://www.pcgamer.com/gaming-industry/game-development/free-adult-nsfw-content-returns-to-itch-io-as-one-of-the-platforms-major-payment-processors-expresses-hope-to-support-adult-content-in-the-future/)
+ - [Hilltop Layer Banandium Gem &lpar;bananas&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613715/hilltop-layer-banandium-gem-banana-locations-list-map/)
+ - [Ingot Isle Banandium Gem &lpar;bananas&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616943/ingot-isle-layer-banandium-gem-golden-banana-locations-list-map-all/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
