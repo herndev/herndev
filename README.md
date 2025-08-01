@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Of course...](http://9gag.com/gag/a87z3A1)
- - ⏩ [Are polls gae?](http://9gag.com/gag/aQzVRMe)
- - 👉 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)<!-- MEMES:END -->
+ - 💣 [Photon acting differently after realizing it&#39;s observed](http://9gag.com/gag/a6Z8oRA)
+ - ⏩ [Look at me](http://9gag.com/gag/aKGpDXj)
+ - 👉 [Black heaven canceled](http://9gag.com/gag/aGybjeK)<!-- MEMES:END -->
 
 ---
 
