@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages will finally tell you when your custom ROM is the problem &lpar;APK teardown&rpar;](https://www.androidauthority.com/messages-rcs-custom-rom-3583089/)
- - [Vivobarefoot&#39;s Sensus Shoes Are Like Gloves for Your Feet](https://www.wired.com/story/vivobarefoot-sensus-barefoot-rave/)
- - [Microsoft plans to end support for Windows 11 SE next year, five years after launching the OS on low-cost laptops designed to compete with Google Chromebooks &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250801/p13#a250801p13)<!-- TECH:END -->
+ - [Nintendo Switch prices are going up after this weekend](https://www.theverge.com/news/717325/nintendo-switch-price-hike-tariffs)
+ - [Reddit wants to become &quot;a go-to search engine&quot; for users; its core search has 70M+ weekly active unique users and AI-powered Reddit Answers has 6M weekly users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250801/p15#a250801p15)
+ - [IRS head says free Direct File tax service is ‘gone’](https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
