@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 system requirements are in, and you probably won&#39;t need to upgrade your PC to run it](https://www.pcgamer.com/games/fps/battlefield-6-system-requirements-are-in-and-you-probably-wont-need-to-upgrade-your-pc-to-run-it/)
- - [Can a game about a pixelated cat change the drug education narrative?](https://www.polygon.com/gaming/617694/narcats-world-harm-reduction-drug-education-how-to-play/)
- - [Nintendo Direct’s best reveal was a real blink and you miss it moment](https://www.polygon.com/goodnight-universe-before-your-eyes-nintendo-switch-2-direct-announcement/)<!-- GAME:END -->
+ - [Tempest Layer Banandium Gem &lpar;banana&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615024/tempest-layer-banandium-gem-golden-banana-locations-list-map-all/)
+ - [Resort Layer Banandium Gem &lpar;banana&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615001/resort-layer-banandium-gem-golden-banana-locations-list-map-all/)
+ - [Forest Layer Banandium Gem &lpar;banana&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614609/forest-layer-banandium-gem-golden-banana-locations-list-map-all/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
