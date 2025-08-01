@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
- - ⏩ [Let&#39;s see: there was a huge cage full of squirrels in a basement in an old house.](http://9gag.com/gag/a2vGR4Z)
- - 👉 [Food for thought](http://9gag.com/gag/aByogAQ)<!-- MEMES:END -->
+ - 💣 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
+ - ⏩ [Whatever it takes](http://9gag.com/gag/aE0E229)
+ - 👉 [Best decision ever](http://9gag.com/gag/a4PVRWy)<!-- MEMES:END -->
 
 ---
 
