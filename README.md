@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best superhero TTRPG to ever do it is getting a second edition, with a quickstart launching in 2026](https://www.pcgamer.com/games/rpg/the-best-superhero-ttrpg-to-ever-do-it-is-getting-a-second-edition-with-a-quickstart-launching-in-2026/)
- - [Silent Hill f preview: A potentially great new Silent Hill game emerges](https://www.polygon.com/silent-hill-f-hands-on-preview-release-date/)
- - [Today&#39;s Wordle clues, hints and answer for August 1 &lpar;#1504&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-1-2025/)<!-- GAME:END -->
+ - [The latest version of Intel&#39;s XeSS 2 now lets other GPUs run its AI-based frame generation system, throwing RTX 30-series owners a Team Blue-shaped bone](https://www.pcgamer.com/hardware/graphics-cards/the-latest-version-of-intels-xess-2-now-lets-other-gpus-run-its-ai-based-frame-generation-system-throwing-rtx-30-series-owners-a-team-blue-shaped-bone/)
+ - [How to kill snails in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-how-to-kill-snails/)
+ - [All Grounded 2 Omni-Tool upgrades and when you can expect Tier 3 tools](https://www.pcgamer.com/games/survival-crafting/grounded-2-omni-tool-upgrades/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
