@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Divide Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614327/the-divide-layer-banandium-gem-golden-banana-locations-list-map/)
- - [EA boss explains why we&#39;re getting Project Rene instead of Sims 5](https://www.polygon.com/sims-5-project-rene-update/)
- - [&#39;It has to be grounded&#39;: Battlefield 6 devs say cosmetics won&#39;t be as goofy as Call of Duty, but that sounds almost too good to be true](https://www.pcgamer.com/games/fps/it-has-to-be-grounded-battlefield-6-devs-say-cosmetics-wont-be-as-goofy-as-call-of-duty-but-that-sounds-almost-too-good-to-be-true/)<!-- GAME:END -->
+ - [THQ Nordic Gets You in the Game at 2025 Digital Showcase](https://news.xbox.com/en-us/2025/08/01/thq-nordic-2025-digital-showcase/)
+ - [BioShock Studio Hits Trouble With Sequel Still MIA](https://kotaku.com/bioshock-4-delay-cloud-chamber-2k-take-two-remake-2000614413)
+ - [The Battlefield 6 multiplayer reveal exploded roughly 1.476 helicopters per minute](https://www.pcgamer.com/games/fps/there-were-roughly-1-476-exploded-helicopters-per-minute-during-the-battlefield-6-multiplayer-reveal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
