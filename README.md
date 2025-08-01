@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Finally Has a Chance to Explore Andor’s Most Overlooked Characters](https://www.polygon.com/star-wars-finally-has-a-chance-to-explore-andors-most-overlooked-characters/)
- - [How to get and use the Sizzling Key in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-sizzling-key-location/)
- - [Razer BlackShark V3 review](https://www.pcgamer.com/hardware/gaming-headsets/razer-blackshark-v3-review/)<!-- GAME:END -->
+ - [Hilltop Layer Banandium Gem &lpar;bananas&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613715/hilltop-layer-banandium-gem-banana-locations-list-map/)
+ - [Pokemon Scarlet and Violet players defeat shiny Wo-Chien over 3.5 million times](https://www.polygon.com/pokmon-scarlet-violet-shiny-wo-chien-raid-victories/)
+ - [DnD&#39;s new Forgotten Realm books will finally go beyond the Sword Coast](https://www.polygon.com/dnd-dungeons-dragons-new-forgotten-realm-books-more-regions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
