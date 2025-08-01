@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Find My - Track your devices &amp; loved ones with a tap](https://appleinsider.com/inside/iphone/tips/inside-find-my---track-your-devices-loved-ones-with-a-tap?utm_source=rss)
- - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [6 reasons why I prefer self hosted apps — and why you should too](https://www.androidauthority.com/reasons-i-self-host-my-own-apps-3581574/)<!-- TECH:END -->
+ - [5 of the best new Android apps and games to try this August](https://www.androidauthority.com/best-new-android-apps-august-2025-3583213/)
+ - [Android Auto now plays nicely with your phone’s color scheme](https://www.androidauthority.com/android-auto-now-plays-nicely-with-your-phones-color-scheme-3583235/)
+ - [Google rolls out Gemini 2.5 Deep Think, its most advanced reasoning model, which can consider multiple ideas simultaneously, to $250-per-month Ultra subscribers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250801/p11#a250801p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
