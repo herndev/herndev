@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Soon...](http://9gag.com/gag/a6Z8NXq)
- - ⏩ [Man had enough](http://9gag.com/gag/aAyZx3p)
- - 👉 [If you know. You know](http://9gag.com/gag/aAyZx79)<!-- MEMES:END -->
+ - 💣 [Forging a millstone](http://9gag.com/gag/aYQmg6v)
+ - ⏩ [Save your friends](http://9gag.com/gag/aVvBYvw)
+ - 👉 [Let&#39;s see: there was a huge cage full of squirrels in a basement in an old house.](http://9gag.com/gag/a2vGR4Z)<!-- MEMES:END -->
 
 ---
 
