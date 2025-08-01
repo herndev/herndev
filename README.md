@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cline, which offers an open-source AI coding tool with transparent billing, raised a $27M Series A led by Emergence at a $110M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250731/p57#a250731p57)
- - [The US Army awards Palantir a contract worth up to $10B over the next decade, creating a &quot;comprehensive framework for the Army&#39;s future software and data needs&quot; &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/250731/p56#a250731p56)
- - [OpenAI removes a ChatGPT feature that let users make their conversations discoverable by Google and other search engines, calling it a &quot;short-lived experiment&quot; &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250731/p55#a250731p55)<!-- TECH:END -->
+ - [AI infrastructure company fal, which runs audio, video, and image models on behalf of enterprises, raised a $125M Series C led by Meritech at a $1.5B valuation &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250731/p58#a250731p58)
+ - [How to get your 2025 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_source=rss)
+ - [Cline, which offers an open-source AI coding tool with transparent billing, raised a $27M Series A led by Emergence at a $110M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250731/p57#a250731p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
