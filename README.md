@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
- - ⏩ [Wtf are these shitty polls they added](http://9gag.com/gag/ajPyEwx)
- - 👉 [Give her your strength guys, shell need it !](http://9gag.com/gag/aAyZ3ZL)<!-- MEMES:END -->
+ - 💣 [Of course...](http://9gag.com/gag/a87z3A1)
+ - ⏩ [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
+ - 👉 [Look at me](http://9gag.com/gag/aKGpDXj)<!-- MEMES:END -->
 
 ---
 
