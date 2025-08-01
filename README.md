@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
- - ⏩ [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
- - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
+ - 💣 [Disney...](http://9gag.com/gag/aQzVR0d)
+ - ⏩ [If you know. You know](http://9gag.com/gag/aAyZx79)
+ - 👉 [Forklift certified](http://9gag.com/gag/aZZvg46)<!-- MEMES:END -->
 
 ---
 
