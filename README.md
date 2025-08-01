@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dang, right in the feels. We had enough technology to make it a little fun, but not quite enough to get in the way of us being children. We didn&#39;t know how good we had it. Man... Long fkin live the 90s!!!](http://9gag.com/gag/aAyZg3L)
- - ⏩ [Give her your strength guys, shell need it !](http://9gag.com/gag/aAyZ3ZL)
- - 👉 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)<!-- MEMES:END -->
+ - 💣 [Of course...](http://9gag.com/gag/a87z3A1)
+ - ⏩ [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)
+ - 👉 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)<!-- MEMES:END -->
 
 ---
 
