@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)
- - ⏩ [Best decision ever](http://9gag.com/gag/a4PVRWy)
- - 👉 [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)<!-- MEMES:END -->
+ - 💣 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
+ - ⏩ [Let&#39;s see: there was a huge cage full of squirrels in a basement in an old house.](http://9gag.com/gag/a2vGR4Z)
+ - 👉 [Food for thought](http://9gag.com/gag/aByogAQ)<!-- MEMES:END -->
 
 ---
 
