@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
- - ⏩ [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
- - 👉 [Black heaven canceled](http://9gag.com/gag/aGybjeK)<!-- MEMES:END -->
+ - 💣 [Look at me](http://9gag.com/gag/aKGpDXj)
+ - ⏩ [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 👉 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)<!-- MEMES:END -->
 
 ---
 
