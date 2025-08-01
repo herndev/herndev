@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Max Monday and Max Battle schedule for August 2025](https://www.polygon.com/pokemon-go-guide/458543/max-battle-schedule-dynamax/)
- - [Pokémon Go Ditto disguises list for August 2025](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny/)
- - [Pokémon Go Spotlight Hour schedule for August 2025](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule/)<!-- GAME:END -->
+ - [Star Wars Finally Has a Chance to Explore Andor’s Most Overlooked Characters](https://www.polygon.com/star-wars-finally-has-a-chance-to-explore-andors-most-overlooked-characters/)
+ - [How to get and use the Sizzling Key in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-sizzling-key-location/)
+ - [Razer BlackShark V3 review](https://www.pcgamer.com/hardware/gaming-headsets/razer-blackshark-v3-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
