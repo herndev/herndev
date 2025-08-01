@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram now requires users to have a public account with 1,000+ followers to go live, aligning with TikTok; previously, the feature was open to all users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250801/p24#a250801p24)
- - [Spotify listened and is finally letting you disable this controversial feature](https://www.androidauthority.com/spotify-create-button-toggle-3583374/)
- - [Weekend sale: M4 Mac mini with 24GB RAM drops to $699](https://appleinsider.com/articles/25/08/01/weekend-sale-m4-mac-mini-with-24gb-ram-drops-to-699?utm_source=rss)<!-- TECH:END -->
+ - [Why Nintendo didn&amp;#8217;t raise the price of the Switch 2 &lpar;yet&rpar;](https://www.theverge.com/nintendo/717611/nintendo-switch-price-increase-risk-safety)
+ - [Blood oxygen sensing shows no sign of returning to Apple Watch any time soon](https://appleinsider.com/articles/25/08/01/blood-oxygen-sensing-shows-no-sign-of-returning-to-apple-watch-any-time-soon?utm_source=rss)
+ - [Google says it will preserve &quot;actively used&quot; goo.gl URLs, after announcing earlier that all existing goo.gl links would stop working in August 2025 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250801/p28#a250801p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
