@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hoboken, NJ-based Saphyre, which makes software used in securities trading, raised $70M from FTV Capital &lpar;Luis Garcia/Wall Street Journal&rpar;](http://www.techmeme.com/250801/p23#a250801p23)
- - [Anthropic studied what gives an AI system its ‘personality’ — and what makes it ‘evil’](https://www.theverge.com/anthropic/717551/anthropic-research-fellows-ai-personality-claude-sycophantic-evil)
- - [Google has just two weeks to begin cracking open Android, it admits in emergency filing](https://www.theverge.com/news/717440/google-epic-open-play-store-emergency-stay)<!-- TECH:END -->
+ - [Instagram now requires users to have a public account with 1,000+ followers to go live, aligning with TikTok; previously, the feature was open to all users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250801/p24#a250801p24)
+ - [Spotify listened and is finally letting you disable this controversial feature](https://www.androidauthority.com/spotify-create-button-toggle-3583374/)
+ - [Weekend sale: M4 Mac mini with 24GB RAM drops to $699](https://appleinsider.com/articles/25/08/01/weekend-sale-m4-mac-mini-with-24gb-ram-drops-to-699?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
