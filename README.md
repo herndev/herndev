@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Index Ventures&#39; nearly $100M investment in Figma was worth $2.17B at the initial IPO price, while Greylock&#39;s $50M investment was worth $2.03B &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250731/p54#a250731p54)
- - [Tim Cook says Apple is &quot;significantly growing&quot; investment in AI and reassigning staff to work on AI features, while remaining &quot;very open to M&amp;A&quot; &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250731/p53#a250731p53)
- - [LincPlus LincStation S1 review: 6-bay NAS balances speed with capacity and design](https://appleinsider.com/articles/25/08/01/lincplus-lincstation-s1-review-6-bay-nas-balances-speed-with-capacity-and-design?utm_source=rss)<!-- TECH:END -->
+ - [Cline, which offers an open-source AI coding tool with transparent billing, raised a $27M Series A led by Emergence at a $110M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250731/p57#a250731p57)
+ - [The US Army awards Palantir a contract worth up to $10B over the next decade, creating a &quot;comprehensive framework for the Army&#39;s future software and data needs&quot; &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/250731/p56#a250731p56)
+ - [OpenAI removes a ChatGPT feature that let users make their conversations discoverable by Google and other search engines, calling it a &quot;short-lived experiment&quot; &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250731/p55#a250731p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
