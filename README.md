@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI infrastructure company fal, which runs audio, video, and image models on behalf of enterprises, raised a $125M Series C led by Meritech at a $1.5B valuation &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250731/p58#a250731p58)
- - [How to get your 2025 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_source=rss)
- - [Cline, which offers an open-source AI coding tool with transparent billing, raised a $27M Series A led by Emergence at a $110M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250731/p57#a250731p57)<!-- TECH:END -->
+ - [NYC-based Carbyne, which offers cloud-based tools for emergency services, raised $100M from AT&amp;T Ventures, Axon Enterprises, Cox Enterprises, and others &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250801/p2#a250801p2)
+ - [The LeapMove is a gamified camera designed to get kids off the couch](https://www.theverge.com/news/717018/leapfrog-leapmove-motion-detection-gaming)
+ - [San Mateo-based observability service Observe raised a $156M Series C led by Sutter Hill Ventures with participation from Snowflake, Madrona, and others &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250801/p1#a250801p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
