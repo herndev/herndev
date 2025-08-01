@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 of the best new Android apps and games to try this August](https://www.androidauthority.com/best-new-android-apps-august-2025-3583213/)
- - [Android Auto now plays nicely with your phone’s color scheme](https://www.androidauthority.com/android-auto-now-plays-nicely-with-your-phones-color-scheme-3583235/)
- - [Google rolls out Gemini 2.5 Deep Think, its most advanced reasoning model, which can consider multiple ideas simultaneously, to $250-per-month Ultra subscribers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250801/p11#a250801p11)<!-- TECH:END -->
+ - [Google Messages will finally tell you when your custom ROM is the problem &lpar;APK teardown&rpar;](https://www.androidauthority.com/messages-rcs-custom-rom-3583089/)
+ - [Vivobarefoot&#39;s Sensus Shoes Are Like Gloves for Your Feet](https://www.wired.com/story/vivobarefoot-sensus-barefoot-rave/)
+ - [Microsoft plans to end support for Windows 11 SE next year, five years after launching the OS on low-cost laptops designed to compete with Google Chromebooks &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250801/p13#a250801p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
