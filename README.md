@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Nintendo didn&amp;#8217;t raise the price of the Switch 2 &lpar;yet&rpar;](https://www.theverge.com/nintendo/717611/nintendo-switch-price-increase-risk-safety)
- - [Blood oxygen sensing shows no sign of returning to Apple Watch any time soon](https://appleinsider.com/articles/25/08/01/blood-oxygen-sensing-shows-no-sign-of-returning-to-apple-watch-any-time-soon?utm_source=rss)
- - [Google says it will preserve &quot;actively used&quot; goo.gl URLs, after announcing earlier that all existing goo.gl links would stop working in August 2025 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250801/p28#a250801p28)<!-- TECH:END -->
+ - [Bose&amp;#8217;s QuietComfort Headphones are $130 off for back-to-school season](https://www.theverge.com/tech/717596/bose-quietcomfort-headphones-anker-power-bank-deal-sale)
+ - [This Japanese band used 40 iPhones to make a music video](https://appleinsider.com/articles/25/08/01/this-japanese-band-used-40-iphones-to-make-a-music-video?utm_source=rss)
+ - [Android TV is getting ready to kill off the Discover tab… last month? &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-tv-discover-3583419/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
