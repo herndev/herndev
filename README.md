@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Disney...](http://9gag.com/gag/aQzVR0d)
- - ⏩ [If you know. You know](http://9gag.com/gag/aAyZx79)
- - 👉 [Forklift certified](http://9gag.com/gag/aZZvg46)<!-- MEMES:END -->
+ - 💣 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
+ - ⏩ [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 👉 [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)<!-- MEMES:END -->
 
 ---
 
