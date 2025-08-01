@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Giovanni counters, team line-up in August 2025](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket/)
- - [Movies and shows like K-Pop Demon Hunters: 10 to stream while you wait for a sequel](https://www.polygon.com/shows-and-movies-like-k-pop-demon-hunters/)
- - [Next Week on Xbox: New Games for August 4 to 8](https://news.xbox.com/en-us/2025/08/01/next-week-on-xbox-new-games-for-august-4-to-8/)<!-- GAME:END -->
+ - [Pokémon Go Max Monday and Max Battle schedule for August 2025](https://www.polygon.com/pokemon-go-guide/458543/max-battle-schedule-dynamax/)
+ - [Pokémon Go Ditto disguises list for August 2025](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny/)
+ - [Pokémon Go Spotlight Hour schedule for August 2025](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
