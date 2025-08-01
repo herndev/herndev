@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Photon acting differently after realizing it&#39;s observed](http://9gag.com/gag/a6Z8oRA)
+ - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
  - ⏩ [Look at me](http://9gag.com/gag/aKGpDXj)
- - 👉 [Black heaven canceled](http://9gag.com/gag/aGybjeK)<!-- MEMES:END -->
+ - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
 
 ---
 
