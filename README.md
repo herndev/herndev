@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [THQ Nordic Gets You in the Game at 2025 Digital Showcase](https://news.xbox.com/en-us/2025/08/01/thq-nordic-2025-digital-showcase/)
- - [BioShock Studio Hits Trouble With Sequel Still MIA](https://kotaku.com/bioshock-4-delay-cloud-chamber-2k-take-two-remake-2000614413)
- - [The Battlefield 6 multiplayer reveal exploded roughly 1.476 helicopters per minute](https://www.pcgamer.com/games/fps/there-were-roughly-1-476-exploded-helicopters-per-minute-during-the-battlefield-6-multiplayer-reveal/)<!-- GAME:END -->
+ - [28 Years Later and every new movie you can now watch on streaming](https://www.polygon.com/new-movies-watch-28-years-later-final-destination-bloodlines-8-1-2025/)
+ - [2K Games&#39; isn&#39;t happy with the new BioShock, report says](https://www.polygon.com/bioshock-4-development-problems-report/)
+ - [Titan Quest 2 is a chill Greek holiday compared to the live service complexity of ARPGs like Diablo 4 and Path of Exile 2](https://www.pcgamer.com/games/rpg/titan-quest-2-is-a-chill-greek-holiday-compared-to-the-live-service-complexity-of-arpgs-like-diablo-4-and-path-of-exile-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
