@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Of course...](http://9gag.com/gag/a87z3A1)
- - ⏩ [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)
- - 👉 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)<!-- MEMES:END -->
+ - 💣 [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)
+ - ⏩ [Best decision ever](http://9gag.com/gag/a4PVRWy)
+ - 👉 [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)<!-- MEMES:END -->
 
 ---
 
