@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at me](http://9gag.com/gag/aKGpDXj)
- - ⏩ [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 👉 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)<!-- MEMES:END -->
+ - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
+ - ⏩ [Wtf are these shitty polls they added](http://9gag.com/gag/ajPyEwx)
+ - 👉 [Give her your strength guys, shell need it !](http://9gag.com/gag/aAyZ3ZL)<!-- MEMES:END -->
 
 ---
 
