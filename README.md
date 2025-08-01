@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forgot to pay that bill? Now Brief can come to your rescue &lpar;Update: Available&rpar;](https://www.androidauthority.com/samsung-now-brief-custom-cards-reminders-3580034/)
  - [On a legacy Verizon 5G plan? This perk is coming to an end.](https://www.androidauthority.com/verizon-play-pass-promo-ends-3583169/)
- - [Neuralink plans a UK clinical trial to test how its chips let patients with severe paralysis control devices with thoughts, marking its entry into the country &lpar;Christy Santhosh/Reuters&rpar;](http://www.techmeme.com/250801/p6#a250801p6)
- - [Nothing just snubbed its biggest market while defending Phone 3 price](https://www.androidauthority.com/nothing-phone-3-pricing-defense-3583164/)<!-- TECH:END -->
+ - [Neuralink plans a UK clinical trial to test how its chips let patients with severe paralysis control devices with thoughts, marking its entry into the country &lpar;Christy Santhosh/Reuters&rpar;](http://www.techmeme.com/250801/p6#a250801p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
