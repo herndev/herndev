@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is Mage Arena, the game blowing up Steam and TikTok?](https://www.polygon.com/what-is-mage-arena-steam-pc-game-tiktok-sales-players/)
- - [Batman&#39;s masterpiece is returning to theaters in 4K](https://www.polygon.com/batman-returns-theaters-release-date-tickets/)
- - [Semiconductors left in Trump&#39;s trade purgatory as new US tariffs on Taiwan set at 20%](https://www.pcgamer.com/hardware/semiconductors-left-in-trumps-trade-purgatory-as-new-us-tariffs-on-taiwan-set-at-20-percent/)<!-- GAME:END -->
+ - [Pokémon Go Giovanni counters, team line-up in August 2025](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket/)
+ - [Movies and shows like K-Pop Demon Hunters: 10 to stream while you wait for a sequel](https://www.polygon.com/shows-and-movies-like-k-pop-demon-hunters/)
+ - [Next Week on Xbox: New Games for August 4 to 8](https://news.xbox.com/en-us/2025/08/01/next-week-on-xbox-new-games-for-august-4-to-8/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
