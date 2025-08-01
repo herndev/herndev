@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Of course...](http://9gag.com/gag/a87z3A1)
- - ⏩ [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
- - 👉 [Look at me](http://9gag.com/gag/aKGpDXj)<!-- MEMES:END -->
+ - 💣 [America&#39;s science](http://9gag.com/gag/aGybjK7)
+ - ⏩ [Look at me](http://9gag.com/gag/aKGpDXj)
+ - 👉 [Man had enough](http://9gag.com/gag/aAyZx3p)<!-- MEMES:END -->
 
 ---
 
