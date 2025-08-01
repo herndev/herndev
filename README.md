@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
- - ⏩ [Look at me](http://9gag.com/gag/aKGpDXj)
+ - ⏩ [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
  - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
 
 ---
