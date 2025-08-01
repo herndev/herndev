@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
- - ⏩ [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 👉 [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)<!-- MEMES:END -->
+ - 💣 [Soon...](http://9gag.com/gag/a6Z8NXq)
+ - ⏩ [Man had enough](http://9gag.com/gag/aAyZx3p)
+ - 👉 [If you know. You know](http://9gag.com/gag/aAyZx79)<!-- MEMES:END -->
 
 ---
 
