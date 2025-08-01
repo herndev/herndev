@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [It&#39;s a bad day for BioShock fans: BioShock 4 studio heads have been removed as development struggles, while a BioShock remake in development has been cancelled](https://www.pcgamer.com/games/fps/its-a-bad-day-for-bioshock-fans-bioshock-4-studio-heads-have-been-removed-as-development-struggles-while-a-bioshock-remake-in-development-has-been-cancelled/)
  - [Darksiders 4 announced at THQ Nordic showcase](https://www.polygon.com/darksiders-4-announcement-trailer/)
- - [The Elder Scrolls Online &#39;isn&#39;t going anywhere,&#39; new ZeniMax boss says: &#39;The studio is continuing to work hard on new features, adventures, and improvements&#39;](https://www.pcgamer.com/games/mmo/the-elder-scrolls-online-isnt-going-anywhere-new-zenimax-boss-says-the-studio-is-continuing-to-work-hard-on-new-features-adventures-and-improvements/)
- - [Battlefield 6 Will Steer Clear Of Goofy Skins: ‘I Don’t Think It Needs Nicki Minaj’](https://kotaku.com/battlefield-6-goofy-skins-call-of-duty-nicki-minaj-2000614447)<!-- GAME:END -->
+ - [The Elder Scrolls Online &#39;isn&#39;t going anywhere,&#39; new ZeniMax boss says: &#39;The studio is continuing to work hard on new features, adventures, and improvements&#39;](https://www.pcgamer.com/games/mmo/the-elder-scrolls-online-isnt-going-anywhere-new-zenimax-boss-says-the-studio-is-continuing-to-work-hard-on-new-features-adventures-and-improvements/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
