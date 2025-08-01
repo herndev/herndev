@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forging a millstone](http://9gag.com/gag/aYQmg6v)
- - ⏩ [Save your friends](http://9gag.com/gag/aVvBYvw)
- - 👉 [Let&#39;s see: there was a huge cage full of squirrels in a basement in an old house.](http://9gag.com/gag/a2vGR4Z)<!-- MEMES:END -->
+ - 💣 [Starlight](http://9gag.com/gag/aGybgLn)
+ - ⏩ [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 👉 [Forklift certified](http://9gag.com/gag/aZZvg46)<!-- MEMES:END -->
 
 ---
 
