@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surfshark Promo Codes: 87% Off | August 2025](https://www.wired.com/story/surfshark-coupon/)
- - [Samsung Promo Codes: 30% Off | August 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Source: Anthropic is nearing $5B in annualized revenue, up from $4B reported on July 1, as it nears a deal to raise $5B led by Iconiq at a $170B valuation &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250801/p4#a250801p4)<!-- TECH:END -->
+ - [Neuralink plans a UK clinical trial to test how its chips let patients with severe paralysis control devices with thoughts, marking its entry into the country &lpar;Christy Santhosh/Reuters&rpar;](http://www.techmeme.com/250801/p6#a250801p6)
+ - [Nothing just snubbed its biggest market while defending Phone 3 price](https://www.androidauthority.com/nothing-phone-3-pricing-defense-3583164/)
+ - [Canon Promo Codes: 10% Off | August 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
