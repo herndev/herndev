@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft relied on China-based engineers to maintain SharePoint &quot;OnPrem&quot;, which was recently exploited by Chinese hackers to breach US government systems &lpar;Renee Dudley/ProPublica&rpar;](http://www.techmeme.com/250803/p21#a250803p21)
- - [Young Americans are increasingly turning to BNPL loans from Affirm and others, as getting approved for credit cards becomes harder in today&#39;s economic climate &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250803/p20#a250803p20)
- - [An interview with Strava CEO Michael Martin on Athlete Intelligence, the premium AI &quot;coach&quot; introduced in 2024 that has alienated experienced users, and more &lpar;Haley Zimmerman/Wall Street Journal&rpar;](http://www.techmeme.com/250803/p19#a250803p19)<!-- TECH:END -->
+ - [A study finds that AI trading bots can collude and fix prices in simulated markets without explicit instruction, posing challenges to regulators &lpar;Lu Wang/Bloomberg&rpar;](http://www.techmeme.com/250804/p1#a250804p1)
+ - [One UI 8 is adding a powerful new Galaxy AI feature, but there’s a catch](https://www.androidauthority.com/one-ui-8-voice-captioning-3583514/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 4, #315](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-4-315/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
