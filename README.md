@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Explains Why Fans Aren’t Getting The Sims 5](https://kotaku.com/sims-5-dynasty-warriors-remaster-call-duty-union-switch-2-2000614479)
- - [&#39;I’d prefer working as a small team&#39;—Clair Obscur: Expedition 33 devs think their studio is &#39;just the right size&#39;, with no real plans to expand it yet](https://www.pcgamer.com/games/rpg/id-prefer-working-as-a-small-team-clair-obscur-expedition-33-devs-think-their-studio-is-just-the-right-size-with-no-real-plans-to-expand-it-yet/)
- - [The Internet Reacts To Critical Role’s Big Shakeup](https://kotaku.com/the-internet-reacts-to-critical-roles-big-shakeup-2000614488)<!-- GAME:END -->
+ - [Silksong fan uses electrons to draw the &#39;world&#39;s smallest Hornet&#39;, which is &#39;about 1/5 the width of a strand of silk&#39;, &#39;2 bacteria long&#39;, and &#39;8,000 times smaller&#39; than the actual insect](https://www.pcgamer.com/games/action/silksong-fan-uses-electrons-to-draw-the-worlds-smallest-hornet-which-is-about-1-5-the-width-of-a-strand-of-silk-2-bacteria-long-and-8-000-times-smaller-than-the-actual-insect/)
+ - [An Apex Legends TV show may still be on the way, EA president says](https://www.polygon.com/apex-legends-tv-show-update-ea/)
+ - [A gaming benchmark face-off between AMD&#39;s Ryzen Z2 Extreme and Intel&#39;s Core Ultra 7 258V is surprisingly close, proving once more that Lunar Lake is the best chip Intel has made in years](https://www.pcgamer.com/hardware/handheld-gaming-pcs/a-gaming-benchmark-face-off-between-amds-ryzen-z2-extreme-and-intels-core-ultra-7-258v-is-surprisingly-close-proving-once-more-that-lunar-lake-is-the-best-chip-intel-has-made-in-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
