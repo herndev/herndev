@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;August 4, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-4-2025/)
  - [Choose to be an upstanding burgher or a criminal mastermind as The Guild series of medieval life choice simulators returns](https://www.pcgamer.com/games/strategy/choose-to-be-an-upstanding-burgher-or-a-criminal-mastermind-as-the-guild-series-of-medieval-life-choice-simulators-returns/)
- - [FPS legend John Romero says Wolfenstein 3D was the first game id Software took its time with⁠—a luxurious 4-month development instead of just 2](https://www.pcgamer.com/games/fps/fps-legend-john-romero-says-wolfenstein-3d-was-the-first-game-id-software-took-its-time-with-a-luxurious-4-month-development-instead-of-just-2/)
- - [Skyblivion&#39;s first major dev update since Oblivion Remastered makes its case as more of a full remake⁠—including a mega dungeon based off a legendary bit of cut content](https://www.pcgamer.com/games/the-elder-scrolls/skyblivions-first-major-dev-update-since-oblivion-remastered-makes-its-case-as-more-of-a-full-remake-including-a-mega-dungeon-based-off-a-legendary-bit-of-cut-content/)<!-- GAME:END -->
+ - [FPS legend John Romero says Wolfenstein 3D was the first game id Software took its time with⁠—a luxurious 4-month development instead of just 2](https://www.pcgamer.com/games/fps/fps-legend-john-romero-says-wolfenstein-3d-was-the-first-game-id-software-took-its-time-with-a-luxurious-4-month-development-instead-of-just-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
