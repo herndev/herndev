@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He bucked around and found out &lpar;don&#39;t worry, he&#39;s completely fine&rpar;](http://9gag.com/gag/aMVyE96)
- - ⏩ [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)
- - 👉 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)<!-- MEMES:END -->
+ - 💣 [Is the company still hiring? Asking for a friend](http://9gag.com/gag/axy4oo1)
+ - ⏩ [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 👉 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)<!-- MEMES:END -->
 
 ---
 
