@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)
- - ⏩ [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 👉 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)<!-- MEMES:END -->
+ - 💣 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
+ - ⏩ [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
+ - 👉 [Say thank you to Gabe Newell. No this isn&#39;t AI. He did actually say this.](http://9gag.com/gag/aZZvrG0)<!-- MEMES:END -->
 
 ---
 
