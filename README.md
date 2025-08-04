@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
- - ⏩ [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 👉 [Say thank you to Gabe Newell. No this isn&#39;t AI. He did actually say this.](http://9gag.com/gag/aZZvrG0)<!-- MEMES:END -->
+ - 💣 [He bucked around and found out &lpar;don&#39;t worry, he&#39;s completely fine&rpar;](http://9gag.com/gag/aMVyE96)
+ - ⏩ [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 👉 [Cardinal sin](http://9gag.com/gag/ayNP9eM)<!-- MEMES:END -->
 
 ---
 
