@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study finds that AI trading bots can collude and fix prices in simulated markets without explicit instruction, posing challenges to regulators &lpar;Lu Wang/Bloomberg&rpar;](http://www.techmeme.com/250804/p1#a250804p1)
- - [One UI 8 is adding a powerful new Galaxy AI feature, but there’s a catch](https://www.androidauthority.com/one-ui-8-voice-captioning-3583514/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 4, #315](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-4-315/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indian quick commerce companies like Swiggy, Zepto and Flipkart are slowing down dark store expansion to rein in cash burn after an aggressive year of growth &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250804/p3#a250804p3)
+ - [EQT and CPP Investments agree to acquire Neogov, a provider of HR and compliance software for US public sector agencies, for $3B from Warburg Pincus and Carlyle &lpar;Janelle Bradley/PitchBook&rpar;](http://www.techmeme.com/250804/p2#a250804p2)
+ - [A study finds that AI trading bots can collude and fix prices in simulated markets without explicit instruction, posing challenges to regulators &lpar;Lu Wang/Bloomberg&rpar;](http://www.techmeme.com/250804/p1#a250804p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
