@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini on Android is getting ready to listen to your audio files &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-android-audio-files-3583835/)
- - [Google says Big Sleep, its vulnerability research tool &quot;powered by Gemini&quot;, found 20 flaws in various popular open-source software projects &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250804/p30#a250804p30)
- - [I tested 13 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)<!-- TECH:END -->
+ - [Amazon pulls the plug on Sengled’s Alexa skill after months of outages](https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting)
+ - [Valve founder Gabe Newell just purchased a superyacht company](https://www.theverge.com/news/718639/gabe-newell-valve-superyacht-oceanco)
+ - [Google mocks Apple&#39;s AI delays while standing in a graveyard of late and abandoned products](https://appleinsider.com/articles/25/08/04/google-mocks-apples-ai-delays-while-standing-in-a-graveyard-of-late-and-abandoned-products?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
