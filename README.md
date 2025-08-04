@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s a bad day for BioShock fans: BioShock 4 studio heads have been removed as development struggles, while a BioShock remake in development has been cancelled](https://www.pcgamer.com/games/fps/its-a-bad-day-for-bioshock-fans-bioshock-4-studio-heads-have-been-removed-as-development-struggles-while-a-bioshock-remake-in-development-has-been-cancelled/)
- - [Darksiders 4 announced at THQ Nordic showcase](https://www.polygon.com/darksiders-4-announcement-trailer/)
- - [The Elder Scrolls Online &#39;isn&#39;t going anywhere,&#39; new ZeniMax boss says: &#39;The studio is continuing to work hard on new features, adventures, and improvements&#39;](https://www.pcgamer.com/games/mmo/the-elder-scrolls-online-isnt-going-anywhere-new-zenimax-boss-says-the-studio-is-continuing-to-work-hard-on-new-features-adventures-and-improvements/)<!-- GAME:END -->
+ - [FPS legend John Romero says Wolfenstein 3D was the first game id Software took its time with⁠—a luxurious 4-month development instead of just 2](https://www.pcgamer.com/games/fps/fps-legend-john-romero-says-wolfenstein-3d-was-the-first-game-id-software-took-its-time-with-a-luxurious-4-month-development-instead-of-just-2/)
+ - [Skyblivion&#39;s first major dev update since Oblivion Remastered makes its case as more of a full remake⁠—including a mega dungeon based off a legendary bit of cut content](https://www.pcgamer.com/games/the-elder-scrolls/skyblivions-first-major-dev-update-since-oblivion-remastered-makes-its-case-as-more-of-a-full-remake-including-a-mega-dungeon-based-off-a-legendary-bit-of-cut-content/)
+ - [Steam Hardware Survey shows AMD CPUs are more more popular than they&#39;ve ever been in 17 years](https://www.pcgamer.com/gaming-industry/steam-hardware-survey-shows-amd-cpus-are-more-more-popular-than-theyve-ever-been-in-17-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
