@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silksong fan uses electrons to draw the &#39;world&#39;s smallest Hornet&#39;, which is &#39;about 1/5 the width of a strand of silk&#39;, &#39;2 bacteria long&#39;, and &#39;8,000 times smaller&#39; than the actual insect](https://www.pcgamer.com/games/action/silksong-fan-uses-electrons-to-draw-the-worlds-smallest-hornet-which-is-about-1-5-the-width-of-a-strand-of-silk-2-bacteria-long-and-8-000-times-smaller-than-the-actual-insect/)
- - [An Apex Legends TV show may still be on the way, EA president says](https://www.polygon.com/apex-legends-tv-show-update-ea/)
- - [A gaming benchmark face-off between AMD&#39;s Ryzen Z2 Extreme and Intel&#39;s Core Ultra 7 258V is surprisingly close, proving once more that Lunar Lake is the best chip Intel has made in years](https://www.pcgamer.com/hardware/handheld-gaming-pcs/a-gaming-benchmark-face-off-between-amds-ryzen-z2-extreme-and-intels-core-ultra-7-258v-is-surprisingly-close-proving-once-more-that-lunar-lake-is-the-best-chip-intel-has-made-in-years/)<!-- GAME:END -->
+ - [Can Critical Role survive without Matt Mercer as DM?](https://www.polygon.com/critical-role-matt-mercer-campaign-4-new-host/)
+ - [One Of 2025’s Most Special, Emotional Games Is $5 And Will Take You An Hour To Finish](https://kotaku.com/and-roger-review-tearyhand-studio-pc-steam-switch-2000614568)
+ - [Corsair Vengeance a7500 review](https://www.pcgamer.com/hardware/gaming-pcs/corsair-vengeance-a7500-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
