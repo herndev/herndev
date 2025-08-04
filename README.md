@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Critical Role survive without Matt Mercer as DM?](https://www.polygon.com/critical-role-matt-mercer-campaign-4-new-host/)
- - [One Of 2025’s Most Special, Emotional Games Is $5 And Will Take You An Hour To Finish](https://kotaku.com/and-roger-review-tearyhand-studio-pc-steam-switch-2000614568)
- - [Corsair Vengeance a7500 review](https://www.pcgamer.com/hardware/gaming-pcs/corsair-vengeance-a7500-review/)<!-- GAME:END -->
+ - [Unlocking This Secret Skater In Tony Hawk’s Pro Skater 3+4 Requires Some Major Work](https://kotaku.com/tony-hawk-thps-3-4-officer-dick-unlock-panda-plush-locations-2000614519)
+ - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find/)
+ - [Evo 2025: All the news, reveals, and trailers from the event](https://www.polygon.com/evo-2025-news-reveals-trailers-street-fighter-6-tekken-8-vf6/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
