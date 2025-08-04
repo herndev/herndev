@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Not that brave any more](http://9gag.com/gag/a4PVodd)
- - ⏩ [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
- - 👉 [That escalated quickly](http://9gag.com/gag/aPAn3qQ)<!-- MEMES:END -->
+ - ⏩ [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 👉 [Thats why home cams](http://9gag.com/gag/aO8G3Vv)<!-- MEMES:END -->
 
 ---
 
