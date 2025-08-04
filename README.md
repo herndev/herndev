@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon pulls the plug on Sengled’s Alexa skill after months of outages](https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting)
- - [Valve founder Gabe Newell just purchased a superyacht company](https://www.theverge.com/news/718639/gabe-newell-valve-superyacht-oceanco)
- - [Google mocks Apple&#39;s AI delays while standing in a graveyard of late and abandoned products](https://appleinsider.com/articles/25/08/04/google-mocks-apples-ai-delays-while-standing-in-a-graveyard-of-late-and-abandoned-products?utm_source=rss)<!-- TECH:END -->
+ - [Google Pixel 9a drops to a new record-low price, saving you $100](https://www.androidauthority.com/google-pixel-9a-deal-5-3583877/)
+ - [Broadcom unveils a new version of its Jericho networking chip, which can connect 1M+ processors across multiple data centers and handle distances of over 100km &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250804/p33#a250804p33)
+ - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
