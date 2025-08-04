@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Families and funeral directors are using AI obituary generators to memorialize the dead, as critics worry about AI&#39;s impact on how people remember one another &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250804/p8#a250804p8)
- - [A truck carrying thousands of Galaxy Z Fold 7, Flip 7 units just got stolen](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-truck-stolen-3583527/)
- - [How Disney is grappling with integrating AI into its filmmaking process while safeguarding IP and addressing legal uncertainty, fan backlash, and union concerns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250804/p7#a250804p7)<!-- TECH:END -->
+ - [These are my 5 favorite e-book reader apps, but one leaps out from the page](https://www.androidauthority.com/best-ebook-reader-apps-3581520/)
+ - [Microsoft’s unreleased Surface Duo foldable with Windows is on sale, but good luck trying to buy it](https://www.androidauthority.com/microsoft-unreleased-surface-duo-with-windows-sale-3583548/)
+ - [Xiaomi releases MiDashengLM-7B, an AI voice model under an Apache 2.0 license based on its foundational voice model, deployed in cars and smart home devices &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250804/p10#a250804p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
