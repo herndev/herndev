@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - ⏩ [Take a look at what happiness looks like you miserable f.....](http://9gag.com/gag/aRBDX6y)
- - 👉 [All thanks to who?](http://9gag.com/gag/ajPymQ1)<!-- MEMES:END -->
+ - 💣 [A Thai girl brought an airsoft machine gun to defend herself from monkey attacks on her way home](http://9gag.com/gag/a34n1om)
+ - ⏩ [Train to Shanghai](http://9gag.com/gag/amongro)
+ - 👉 [Looseness](http://9gag.com/gag/ae9WD85)<!-- MEMES:END -->
 
 ---
 
