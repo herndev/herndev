@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do not click on unexpected emails from DocuSign](https://appleinsider.com/inside/iphone/tips/do-not-click-on-unexpected-emails-from-docusign?utm_source=rss)
- - [The Galaxy S26 Edge battery rumors just got even more promising](https://www.androidauthority.com/samsung-galaxy-s26-edge-battery-leak-3583707/)
- - [Science Reveals the Surprising Origins of the Potato](https://www.wired.com/story/science-reveals-the-surprising-origins-of-the-potato/)<!-- TECH:END -->
+ - [Every angle of the Pixel 10 Pro gets exposed in latest leak](https://www.androidauthority.com/google-pixel-10-pro-every-angle-3583706/)
+ - [Transcripts from the trial over a fatal 2019 Autopilot crash: Tesla withheld crash‑snapshot data and took years to admit it existed or was relevant to the case &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/250804/p26#a250804p26)
+ - [Denzel Washington and Spike Lee reunite for a moral thriller in the music world](https://appleinsider.com/articles/25/08/04/denzel-washington-and-spike-lee-reunite-for-a-moral-thriller-in-the-music-world?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
