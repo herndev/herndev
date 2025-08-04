@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - ⏩ [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)
- - 👉 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)<!-- MEMES:END -->
+ - 💣 [That escalated quickly](http://9gag.com/gag/aPAn3qQ)
+ - ⏩ [Welcome to UK, where you must pay a dozen different taxes to `protect the environment`](http://9gag.com/gag/a34n161)
+ - 👉 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)<!-- MEMES:END -->
 
 ---
 
