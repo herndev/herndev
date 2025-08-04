@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare says Perplexity&amp;#8217;s AI bots are &amp;#8216;stealth crawling&amp;#8217; blocked sites](https://www.theverge.com/news/718319/perplexity-stealth-crawling-cloudflare-ai-bots-report)
- - [Samsung’s next budget earbuds might beat the Pro model in one key area](https://www.androidauthority.com/galaxy-buds-3-fe-battery-listing-3583758/)
- - [One of the biggest newsletter platforms now syndicates to Bluesky and Mastodon](https://www.theverge.com/news/718286/ghost-6-update-social-web-mastodon-bluesky)<!-- TECH:END -->
+ - [Survey shows note-takers are split on their best Obsidian alternative](https://www.androidauthority.com/obisidian-alternatives-poll-results-3583611/)
+ - [Amazon Might Bring Ads to Alexa Plus: Here&#39;s What That Could Mean for You](https://www.cnet.com/home/smart-home/amazon-might-bring-ads-to-alexa-plus-heres-what-that-could-mean-for-you/#ftag=CAD590a51e)
+ - [Google’s new Pixel 10 teaser is more like an Apple diss track](https://www.androidauthority.com/google-pixel-10-second-teaser-3583766/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
