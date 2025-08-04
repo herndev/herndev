@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wait, What? Titan Quest II Is A Thing, And Is Out In Early Access?](https://kotaku.com/titan-quest-2-early-access-out-now-2000614459)
- - [Huge news for base organisers and decorators, Minecraft&#39;s next drop will add shelves](https://www.pcgamer.com/games/survival-crafting/huge-news-for-base-organisers-and-decorators-minecrafts-next-drop-will-add-shelves/)
- - [Asus TUF A14 &lpar;2025&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-a14-2025-review/)<!-- GAME:END -->
+ - [Can a graphics card be 2.5x faster than an RTX 5090 in path tracing and use 80% less power? Bolt Graphics claims its Zeus GPU-powered does just that](https://www.pcgamer.com/hardware/graphics-cards/can-a-graphics-card-be-2-5x-faster-than-an-rtx-5090-in-path-tracing-and-use-80-percent-less-power-bolt-graphics-claims-its-zeus-gpu-powered-does-just-that/)
+ - [Grow a Garden&#39;s newest update has introduced cooking, alongside a feature that players have been begging for](https://www.pcgamer.com/games/survival-crafting/grow-a-gardens-newest-update-has-introduced-cooking-alongside-a-feature-that-players-have-been-begging-for/)
+ - [Marvel Rivals is finally giving more competitive compensation to players struck down by rage-quitting teammates or friends with hamster-powered Wi-Fi](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-finally-giving-more-competitive-compensation-to-players-struck-down-by-rage-quitting-teammates-or-friends-with-hamster-powered-wi-fi/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
