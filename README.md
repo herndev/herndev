@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can a graphics card be 2.5x faster than an RTX 5090 in path tracing and use 80% less power? Bolt Graphics claims its Zeus GPU-powered does just that](https://www.pcgamer.com/hardware/graphics-cards/can-a-graphics-card-be-2-5x-faster-than-an-rtx-5090-in-path-tracing-and-use-80-percent-less-power-bolt-graphics-claims-its-zeus-gpu-powered-does-just-that/)
- - [Grow a Garden&#39;s newest update has introduced cooking, alongside a feature that players have been begging for](https://www.pcgamer.com/games/survival-crafting/grow-a-gardens-newest-update-has-introduced-cooking-alongside-a-feature-that-players-have-been-begging-for/)
- - [Marvel Rivals is finally giving more competitive compensation to players struck down by rage-quitting teammates or friends with hamster-powered Wi-Fi](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-finally-giving-more-competitive-compensation-to-players-struck-down-by-rage-quitting-teammates-or-friends-with-hamster-powered-wi-fi/)<!-- GAME:END -->
+ - [The 5 best spoof movies to watch after Naked Gun](https://www.polygon.com/best-comedy-spoof-parody-movies/)
+ - [Rare Celebrates 40 Years with Ruby-Themed Exclusives and More](https://news.xbox.com/en-us/2025/08/04/rare-40th-anniversary-rewards-sea-of-thieves/)
+ - [I thought audio driver troubleshooting hell was a thing of the &#39;90s until I tried using Bluetooth headphones with my laptop](https://www.pcgamer.com/hardware/gaming-audio/driver-windows-intel-gripe-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
