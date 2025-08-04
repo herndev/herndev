@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No One’s Ever Lost A Game Like This Before](https://kotaku.com/evo-2025-viral-moment-fatal-fury-meme-kog-go1-2000614619)
- - [The Other, Fan-Made Oblivion Remake Just Got An Awesome New Trailer](https://kotaku.com/skyblivion-skyrim-oblivion-elder-scrolls-mod-remake-remaster-2000614628)
- - [Some Fantastic Remasters Are On Sale Right Now On Steam](https://kotaku.com/nightdive-studios-remasters-steam-sale-2025-best-deals-pc-star-wars-2000614617)<!-- GAME:END -->
+ - [Battlefield 6 producer says Bad Company 2 was a &#39;huge inspiration&#39; for the new game, and you can&#39;t argue with his logic: &#39;When you look for excellence in our legacy, that&#39;s where you find it&#39;](https://www.pcgamer.com/games/fps/battlefield-6-producer-says-bad-company-2-was-a-huge-inspiration-for-the-new-game-and-you-cant-argue-with-his-logic-when-you-look-for-excellence-in-our-legacy-thats-where-you-find-it/)
+ - [Fantastic Four: First Steps&#39; disappointing box office could be a Doomsday problem for Marvel](https://www.polygon.com/fantastic-four-first-steps-box-office-mcu/)
+ - [System Shock 2&#39;s alien &#39;sphincter doors&#39; were made with photos from a dev&#39;s colonoscopy](https://www.pcgamer.com/games/fps/system-shock-2s-alien-sphincter-doors-were-made-with-photos-from-a-devs-colonoscopy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
