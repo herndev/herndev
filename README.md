@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
- - ⏩ [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
- - 👉 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)<!-- MEMES:END -->
+ - 💣 [Finish him](http://9gag.com/gag/awyvz6W)
+ - ⏩ [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
+ - 👉 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)<!-- MEMES:END -->
 
 ---
 
