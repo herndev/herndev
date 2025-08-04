@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ALS sufferer uses iPad in demonstration of thought control](https://appleinsider.com/articles/25/08/04/als-sufferer-uses-ipad-in-demonstration-of-thought-control?utm_source=rss)
- - [Why tech is racing to adopt AI coding](https://www.theverge.com/decoder-podcast-with-nilay-patel/715267/anysphere-ceo-michael-truell-cursor-ai-automate-programming-interview)
- - [Google’s healthcare AI made up a body part — what happens when doctors don’t notice?](https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination)<!-- TECH:END -->
+ - [8BitDo’s first wireless Xbox controller is a surprise Rare collaboration](https://www.theverge.com/news/717994/8bitdo-wireless-xbox-controller-rare-40th-anniversary-edition)
+ - [Cloudflare says Perplexity uses stealth crawling techniques, like undeclared user agents and rotating IP addresses, to evade robots.txt rules and network blocks &lpar;Cloudflare&rpar;](http://www.techmeme.com/250804/p23#a250804p23)
+ - [Spotify raises its premium prices almost everywhere](https://appleinsider.com/articles/25/08/04/spotify-raises-its-premium-prices-almost-everywhere?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
