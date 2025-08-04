@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every angle of the Pixel 10 Pro gets exposed in latest leak](https://www.androidauthority.com/google-pixel-10-pro-every-angle-3583706/)
- - [Transcripts from the trial over a fatal 2019 Autopilot crash: Tesla withheld crash‑snapshot data and took years to admit it existed or was relevant to the case &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/250804/p26#a250804p26)
- - [Denzel Washington and Spike Lee reunite for a moral thriller in the music world](https://appleinsider.com/articles/25/08/04/denzel-washington-and-spike-lee-reunite-for-a-moral-thriller-in-the-music-world?utm_source=rss)<!-- TECH:END -->
+ - [Cloudflare says Perplexity&amp;#8217;s AI bots are &amp;#8216;stealth crawling&amp;#8217; blocked sites](https://www.theverge.com/news/718319/perplexity-stealth-crawling-cloudflare-ai-bots-report)
+ - [Samsung’s next budget earbuds might beat the Pro model in one key area](https://www.androidauthority.com/galaxy-buds-3-fe-battery-listing-3583758/)
+ - [One of the biggest newsletter platforms now syndicates to Bluesky and Mastodon](https://www.theverge.com/news/718286/ghost-6-update-social-web-mastodon-bluesky)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
