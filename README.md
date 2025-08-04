@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not that brave any more](http://9gag.com/gag/a4PVodd)
- - ⏩ [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 👉 [Thats why home cams](http://9gag.com/gag/aO8G3Vv)<!-- MEMES:END -->
+ - 💣 [Still funny](http://9gag.com/gag/aByomAx)
+ - ⏩ [That escalated quickly](http://9gag.com/gag/aPAn3qQ)
+ - 👉 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)<!-- MEMES:END -->
 
 ---
 
