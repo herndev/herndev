@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft relied on China-based engineers to maintain SharePoint &quot;OnPrem&quot;, which was recently exploited by Chinese hackers to breach US government systems &lpar;Renee Dudley/ProPublica&rpar;](http://www.techmeme.com/250803/p21#a250803p21)
  - [Young Americans are increasingly turning to BNPL loans from Affirm and others, as getting approved for credit cards becomes harder in today&#39;s economic climate &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250803/p20#a250803p20)
- - [An interview with Strava CEO Michael Martin on Athlete Intelligence, the premium AI &quot;coach&quot; introduced in 2024 that has alienated experienced users, and more &lpar;Haley Zimmerman/Wall Street Journal&rpar;](http://www.techmeme.com/250803/p19#a250803p19)
- - [Asian financial hubs are updating stablecoin regulations and companies like Ant Group plan to become issuers, driven by US&#39; embrace of dollar-pegged stablecoins &lpar;Bloomberg&rpar;](http://www.techmeme.com/250803/p18#a250803p18)<!-- TECH:END -->
+ - [An interview with Strava CEO Michael Martin on Athlete Intelligence, the premium AI &quot;coach&quot; introduced in 2024 that has alienated experienced users, and more &lpar;Haley Zimmerman/Wall Street Journal&rpar;](http://www.techmeme.com/250803/p19#a250803p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
