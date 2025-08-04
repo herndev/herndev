@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wokyis M5 dock review: Mac Plus looks, M4 Mac mini performance](https://appleinsider.com/articles/25/08/04/wokyis-m5-dock-review-mac-plus-looks-m4-mac-mini-performance?utm_source=rss)
- - [Google unveils Kaggle Game Arena, a benchmarking platform where AI models compete head-to-head in strategic games, starting with a chess tournament this week &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250804/p28#a250804p28)
- - [Apple&#39;s Adaptive Temperature tech, DJI vacuum, &amp; LG StandByMe 2 portable TV on HomeKit Insider](https://appleinsider.com/articles/25/08/04/apples-adaptive-temperature-tech-dji-vacuum-lg-standbyme-2-portable-tv-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
+ - [Gemini on Android is getting ready to listen to your audio files &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-android-audio-files-3583835/)
+ - [Google says Big Sleep, its vulnerability research tool &quot;powered by Gemini&quot;, found 20 flaws in various popular open-source software projects &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250804/p30#a250804p30)
+ - [I tested 13 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
