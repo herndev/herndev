@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
- - ⏩ [Boy meets world](http://9gag.com/gag/aVvBxnO)
- - 👉 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)<!-- MEMES:END -->
+ - 💣 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
+ - ⏩ [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
+ - 👉 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)<!-- MEMES:END -->
 
 ---
 
