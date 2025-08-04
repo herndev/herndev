@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Top tier review for Grounded&lpar;game&rpar;](http://9gag.com/gag/a6Z81LN)
- - ⏩ [Instruction unclear](http://9gag.com/gag/ae9WgVj)
- - 👉 [Finish him](http://9gag.com/gag/awyvz6W)<!-- MEMES:END -->
+ - 💣 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - ⏩ [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 👉 [Just dinner amongst friends](http://9gag.com/gag/ae9WgRB)<!-- MEMES:END -->
 
 ---
 
