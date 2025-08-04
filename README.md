@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8BitDo’s first wireless Xbox controller is a surprise Rare collaboration](https://www.theverge.com/news/717994/8bitdo-wireless-xbox-controller-rare-40th-anniversary-edition)
- - [Cloudflare says Perplexity uses stealth crawling techniques, like undeclared user agents and rotating IP addresses, to evade robots.txt rules and network blocks &lpar;Cloudflare&rpar;](http://www.techmeme.com/250804/p23#a250804p23)
- - [Spotify raises its premium prices almost everywhere](https://appleinsider.com/articles/25/08/04/spotify-raises-its-premium-prices-almost-everywhere?utm_source=rss)<!-- TECH:END -->
+ - [Do not click on unexpected emails from DocuSign](https://appleinsider.com/inside/iphone/tips/do-not-click-on-unexpected-emails-from-docusign?utm_source=rss)
+ - [The Galaxy S26 Edge battery rumors just got even more promising](https://www.androidauthority.com/samsung-galaxy-s26-edge-battery-leak-3583707/)
+ - [Science Reveals the Surprising Origins of the Potato](https://www.wired.com/story/science-reveals-the-surprising-origins-of-the-potato/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
