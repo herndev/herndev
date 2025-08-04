@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That escalated quickly](http://9gag.com/gag/aPAn3qQ)
- - ⏩ [Welcome to UK, where you must pay a dozen different taxes to `protect the environment`](http://9gag.com/gag/a34n161)
- - 👉 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)<!-- MEMES:END -->
+ - 💣 [Everybody Poops](http://9gag.com/gag/a87zEx1)
+ - ⏩ [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 👉 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)<!-- MEMES:END -->
 
 ---
 
