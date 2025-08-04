@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finish him](http://9gag.com/gag/awyvz6W)
- - ⏩ [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
- - 👉 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)<!-- MEMES:END -->
+ - 💣 [Train to Shanghai](http://9gag.com/gag/amongro)
+ - ⏩ [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
+ - 👉 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)<!-- MEMES:END -->
 
 ---
 
