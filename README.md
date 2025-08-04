@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Thai girl brought an airsoft machine gun to defend herself from monkey attacks on her way home](http://9gag.com/gag/a34n1om)
- - ⏩ [Train to Shanghai](http://9gag.com/gag/amongro)
- - 👉 [Looseness](http://9gag.com/gag/ae9WD85)<!-- MEMES:END -->
+ - 💣 [Not that brave any more](http://9gag.com/gag/a4PVodd)
+ - ⏩ [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 👉 [That escalated quickly](http://9gag.com/gag/aPAn3qQ)<!-- MEMES:END -->
 
 ---
 
