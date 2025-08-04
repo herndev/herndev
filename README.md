@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Train to Shanghai](http://9gag.com/gag/amongro)
- - ⏩ [Say thank you to Gabe Newell. No this isn&#39;t AI. He did actually say this.](http://9gag.com/gag/aZZvrG0)
- - 👉 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)<!-- MEMES:END -->
+ - 💣 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)
+ - ⏩ [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 👉 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)<!-- MEMES:END -->
 
 ---
 
