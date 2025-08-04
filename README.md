@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tired of Google Home not working? This new change will make you furious](https://www.androidauthority.com/google-home-new-voice-names-3583628/)
- - [Amazon says it is closing its Wondery podcast studio and will break up its operations as part of a broad reorganization; a source says ~110 jobs will be cut &lpar;Bloomberg&rpar;](http://www.techmeme.com/250804/p22#a250804p22)
- - [Tesla proposes giving Elon Musk $29 billion so he stays CEO](https://www.theverge.com/news/718032/tesla-elon-musk-stock-pay-29-billion-ceo-shareholders)<!-- TECH:END -->
+ - [ALS sufferer uses iPad in demonstration of thought control](https://appleinsider.com/articles/25/08/04/als-sufferer-uses-ipad-in-demonstration-of-thought-control?utm_source=rss)
+ - [Why tech is racing to adopt AI coding](https://www.theverge.com/decoder-podcast-with-nilay-patel/715267/anysphere-ceo-michael-truell-cursor-ai-automate-programming-interview)
+ - [Google’s healthcare AI made up a body part — what happens when doctors don’t notice?](https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
