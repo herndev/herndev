@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows note-takers are split on their best Obsidian alternative](https://www.androidauthority.com/obisidian-alternatives-poll-results-3583611/)
- - [Amazon Might Bring Ads to Alexa Plus: Here&#39;s What That Could Mean for You](https://www.cnet.com/home/smart-home/amazon-might-bring-ads-to-alexa-plus-heres-what-that-could-mean-for-you/#ftag=CAD590a51e)
- - [Google’s new Pixel 10 teaser is more like an Apple diss track](https://www.androidauthority.com/google-pixel-10-second-teaser-3583766/)<!-- TECH:END -->
+ - [Wokyis M5 dock review: Mac Plus looks, M4 Mac mini performance](https://appleinsider.com/articles/25/08/04/wokyis-m5-dock-review-mac-plus-looks-m4-mac-mini-performance?utm_source=rss)
+ - [Google unveils Kaggle Game Arena, a benchmarking platform where AI models compete head-to-head in strategic games, starting with a chess tournament this week &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250804/p28#a250804p28)
+ - [Apple&#39;s Adaptive Temperature tech, DJI vacuum, &amp; LG StandByMe 2 portable TV on HomeKit Insider](https://appleinsider.com/articles/25/08/04/apples-adaptive-temperature-tech-dji-vacuum-lg-standbyme-2-portable-tv-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
