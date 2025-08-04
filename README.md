@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are my 5 favorite e-book reader apps, but one leaps out from the page](https://www.androidauthority.com/best-ebook-reader-apps-3581520/)
- - [Microsoft’s unreleased Surface Duo foldable with Windows is on sale, but good luck trying to buy it](https://www.androidauthority.com/microsoft-unreleased-surface-duo-with-windows-sale-3583548/)
- - [Xiaomi releases MiDashengLM-7B, an AI voice model under an Apache 2.0 license based on its foundational voice model, deployed in cars and smart home devices &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250804/p10#a250804p10)<!-- TECH:END -->
+ - [If you use a password manager app, you probably aren’t using it right](https://www.androidauthority.com/youre-using-password-manager-apps-wrong-3582920/)
+ - [Galaxy S26 could get a hardware upgrade for much easier payments](https://www.androidauthority.com/samsung-galaxy-s26-nfc-upgrade-payments-3583591/)
+ - [Google, OpenAI, Meta, and VCs are increasingly embracing the US military industrial complex, a major Silicon Valley cultural shift supported by President Trump &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/250804/p11#a250804p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
