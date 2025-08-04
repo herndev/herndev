@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - ⏩ [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
- - 👉 [Just dinner amongst friends](http://9gag.com/gag/ae9WgRB)<!-- MEMES:END -->
+ - 💣 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - ⏩ [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
+ - 👉 [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)<!-- MEMES:END -->
 
 ---
 
