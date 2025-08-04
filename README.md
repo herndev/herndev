@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still funny](http://9gag.com/gag/aByomAx)
- - ⏩ [That escalated quickly](http://9gag.com/gag/aPAn3qQ)
- - 👉 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)<!-- MEMES:END -->
+ - 💣 [Top tier review for Grounded&lpar;game&rpar;](http://9gag.com/gag/a6Z81LN)
+ - ⏩ [Instruction unclear](http://9gag.com/gag/ae9WgVj)
+ - 👉 [Finish him](http://9gag.com/gag/awyvz6W)<!-- MEMES:END -->
 
 ---
 
