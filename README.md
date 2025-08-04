@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you use a password manager app, you probably aren’t using it right](https://www.androidauthority.com/youre-using-password-manager-apps-wrong-3582920/)
- - [Galaxy S26 could get a hardware upgrade for much easier payments](https://www.androidauthority.com/samsung-galaxy-s26-nfc-upgrade-payments-3583591/)
- - [Google, OpenAI, Meta, and VCs are increasingly embracing the US military industrial complex, a major Silicon Valley cultural shift supported by President Trump &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/250804/p11#a250804p11)<!-- TECH:END -->
+ - [A profile of Netflix VP Brandon Riegg, who oversees unscripted series, sports, documentary series, and gaming, as the streamer pushes into live shows and sports &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250804/p15#a250804p15)
+ - [Samsung could finally catch up to other Android OEMs with this navigation choice](https://www.androidauthority.com/samsung-one-ui-8-navigation-choice-3583598/)
+ - [I Found the Pixel 9 Pro to Be a More Streamlined Android Experience, and It’s 20% Off Today](https://www.cnet.com/deals/i-found-the-pixel-9-pro-to-be-a-more-streamlined-android-experience-and-its-20-off-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
