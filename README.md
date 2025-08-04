@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best spoof movies to watch after Naked Gun](https://www.polygon.com/best-comedy-spoof-parody-movies/)
- - [Rare Celebrates 40 Years with Ruby-Themed Exclusives and More](https://news.xbox.com/en-us/2025/08/04/rare-40th-anniversary-rewards-sea-of-thieves/)
- - [I thought audio driver troubleshooting hell was a thing of the &#39;90s until I tried using Bluetooth headphones with my laptop](https://www.pcgamer.com/hardware/gaming-audio/driver-windows-intel-gripe-2025/)<!-- GAME:END -->
+ - [Microsoft yanks the plug on Windows 11 SE, giving school and college IT techs a little over a year to find a suitable replacement](https://www.pcgamer.com/software/windows/microsoft-yanks-the-plug-on-windows-11-se-giving-school-and-college-it-techs-a-little-over-a-year-to-find-a-suitable-replacement/)
+ - [Nintendo&#39;s Switch price increase is now a controversial trend](https://www.polygon.com/switch-price-increase-80-dollar-games-xbox-gta-cost/)
+ - [GameStop Is Reselling Your Graded Pokémon Cards In Ridiculously Priced Mystery Boxes](https://kotaku.com/gamestop-pokemon-power-pack-graded-cards-2000614469)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
