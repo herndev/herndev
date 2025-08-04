@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Asus TUF A14 &lpar;2025&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-a14-2025-review/)
  - [Today&#39;s Wordle clues, hints and answer for August 4 &lpar;#1507&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-4-2025/)
- - [Five new Steam games you probably missed &lpar;August 4, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-4-2025/)
- - [Choose to be an upstanding burgher or a criminal mastermind as The Guild series of medieval life choice simulators returns](https://www.pcgamer.com/games/strategy/choose-to-be-an-upstanding-burgher-or-a-criminal-mastermind-as-the-guild-series-of-medieval-life-choice-simulators-returns/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 4, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-4-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
