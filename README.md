@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unlocking This Secret Skater In Tony Hawk’s Pro Skater 3+4 Requires Some Major Work](https://kotaku.com/tony-hawk-thps-3-4-officer-dick-unlock-panda-plush-locations-2000614519)
- - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find/)
- - [Evo 2025: All the news, reveals, and trailers from the event](https://www.polygon.com/evo-2025-news-reveals-trailers-street-fighter-6-tekken-8-vf6/)<!-- GAME:END -->
+ - [Deus Ex Voice Actor Says ‘Do Not F***ing’ Use AI To Add Adam Jensen To Other Games](https://kotaku.com/deus-ex-voice-actor-dont-use-ai-adam-jensen-cyberpunk-toufexis-2000614565)
+ - [McFarlane is making the Fallout: New Vegas NCR Ranger figure I wish I had 15 years ago](https://www.pcgamer.com/games/fallout/mcfarlane-is-making-the-fallout-new-vegas-ncr-ranger-figure-i-wish-i-had-15-years-ago/)
+ - [Star Wars re-release: Which cut will hit theaters for 50th anniversary?](https://www.polygon.com/star-wars-2027-rerelease-original-cut/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
