@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK Online Safety Act&#39;s approach to keeping children safe online has become a rallying point for the right in the UK and US, who claim it enables censorship &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250804/p6#a250804p6)
- - [Taiwan&#39;s chip sector is cultivating overseas talent with summer camps and university courses to address a shortage of skilled professionals and production staff &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250804/p5#a250804p5)
- - [Former UK Chancellor and Coinbase Advisory Council member George Osborne says the UK missed the first crypto wave and risks missing the stablecoin-driven second &lpar;George Osborne/Financial Times&rpar;](http://www.techmeme.com/250804/p4#a250804p4)<!-- TECH:END -->
+ - [A truck carrying thousands of Galaxy Z Fold 7, Flip 7 units just got stolen](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-truck-stolen-3583527/)
+ - [How Disney is grappling with integrating AI into its filmmaking process while safeguarding IP and addressing legal uncertainty, fan backlash, and union concerns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250804/p7#a250804p7)
+ - [The UK Online Safety Act&#39;s approach to keeping children safe online has become a rallying point for the right in the UK and US, who claim it enables censorship &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250804/p6#a250804p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
