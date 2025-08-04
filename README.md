@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deus Ex Voice Actor Says ‘Do Not F***ing’ Use AI To Add Adam Jensen To Other Games](https://kotaku.com/deus-ex-voice-actor-dont-use-ai-adam-jensen-cyberpunk-toufexis-2000614565)
- - [McFarlane is making the Fallout: New Vegas NCR Ranger figure I wish I had 15 years ago](https://www.pcgamer.com/games/fallout/mcfarlane-is-making-the-fallout-new-vegas-ncr-ranger-figure-i-wish-i-had-15-years-ago/)
- - [Star Wars re-release: Which cut will hit theaters for 50th anniversary?](https://www.polygon.com/star-wars-2027-rerelease-original-cut/)<!-- GAME:END -->
+ - [The &#39;Compiling Shaders&#39; screen is the worst screen in gaming: here&#39;s how to make it suck less](https://www.pcgamer.com/games/the-compiling-shaders-screen-is-the-worst-screen-in-gaming-heres-how-to-make-it-suck-less/)
+ - [It&#39;s 2025 and my PC still has no idea what audio devices are connected to it](https://www.pcgamer.com/software/windows/its-2025-and-my-pc-still-has-no-idea-what-audio-devices-are-connected-to-it/)
+ - [250k Baldur&#39;s Gate 3 players have downloaded this wild Withers mod](https://www.polygon.com/baldurs-gate-3-mod-withers-big-naturals/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
