@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Families and funeral directors are using AI obituary generators to memorialize the dead, as critics worry about AI&#39;s impact on how people remember one another &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250804/p8#a250804p8)
  - [A truck carrying thousands of Galaxy Z Fold 7, Flip 7 units just got stolen](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-truck-stolen-3583527/)
- - [How Disney is grappling with integrating AI into its filmmaking process while safeguarding IP and addressing legal uncertainty, fan backlash, and union concerns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250804/p7#a250804p7)
- - [The UK Online Safety Act&#39;s approach to keeping children safe online has become a rallying point for the right in the UK and US, who claim it enables censorship &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250804/p6#a250804p6)<!-- TECH:END -->
+ - [How Disney is grappling with integrating AI into its filmmaking process while safeguarding IP and addressing legal uncertainty, fan backlash, and union concerns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250804/p7#a250804p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
