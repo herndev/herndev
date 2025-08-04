@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft yanks the plug on Windows 11 SE, giving school and college IT techs a little over a year to find a suitable replacement](https://www.pcgamer.com/software/windows/microsoft-yanks-the-plug-on-windows-11-se-giving-school-and-college-it-techs-a-little-over-a-year-to-find-a-suitable-replacement/)
- - [Nintendo&#39;s Switch price increase is now a controversial trend](https://www.polygon.com/switch-price-increase-80-dollar-games-xbox-gta-cost/)
- - [GameStop Is Reselling Your Graded Pokémon Cards In Ridiculously Priced Mystery Boxes](https://kotaku.com/gamestop-pokemon-power-pack-graded-cards-2000614469)<!-- GAME:END -->
+ - [EA Explains Why Fans Aren’t Getting The Sims 5](https://kotaku.com/sims-5-dynasty-warriors-remaster-call-duty-union-switch-2-2000614479)
+ - [&#39;I’d prefer working as a small team&#39;—Clair Obscur: Expedition 33 devs think their studio is &#39;just the right size&#39;, with no real plans to expand it yet](https://www.pcgamer.com/games/rpg/id-prefer-working-as-a-small-team-clair-obscur-expedition-33-devs-think-their-studio-is-just-the-right-size-with-no-real-plans-to-expand-it-yet/)
+ - [The Internet Reacts To Critical Role’s Big Shakeup](https://kotaku.com/the-internet-reacts-to-critical-roles-big-shakeup-2000614488)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
