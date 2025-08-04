@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is the company still hiring? Asking for a friend](http://9gag.com/gag/axy4oo1)
- - ⏩ [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 💣 [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)
+ - ⏩ [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
  - 👉 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)<!-- MEMES:END -->
 
 ---
