@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
- - ⏩ [Whatever it takes](http://9gag.com/gag/aE0E229)
- - 👉 [Best decision ever](http://9gag.com/gag/a4PVRWy)<!-- MEMES:END -->
+ - 💣 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
+ - ⏩ [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 👉 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)<!-- MEMES:END -->
 
 ---
 
