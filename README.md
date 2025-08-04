@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The &#39;Compiling Shaders&#39; screen is the worst screen in gaming: here&#39;s how to make it suck less](https://www.pcgamer.com/games/the-compiling-shaders-screen-is-the-worst-screen-in-gaming-heres-how-to-make-it-suck-less/)
- - [It&#39;s 2025 and my PC still has no idea what audio devices are connected to it](https://www.pcgamer.com/software/windows/its-2025-and-my-pc-still-has-no-idea-what-audio-devices-are-connected-to-it/)
- - [250k Baldur&#39;s Gate 3 players have downloaded this wild Withers mod](https://www.polygon.com/baldurs-gate-3-mod-withers-big-naturals/)<!-- GAME:END -->
+ - [No One’s Ever Lost A Game Like This Before](https://kotaku.com/evo-2025-viral-moment-fatal-fury-meme-kog-go1-2000614619)
+ - [The Other, Fan-Made Oblivion Remake Just Got An Awesome New Trailer](https://kotaku.com/skyblivion-skyrim-oblivion-elder-scrolls-mod-remake-remaster-2000614628)
+ - [Some Fantastic Remasters Are On Sale Right Now On Steam](https://kotaku.com/nightdive-studios-remasters-steam-sale-2025-best-deals-pc-star-wars-2000614617)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
