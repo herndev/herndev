@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Outlying analyst concedes error, boards 2027 folding iPad ship date train](https://appleinsider.com/articles/25/08/04/outlying-analyst-concedes-error-boards-2027-folding-ipad-ship-date-train?utm_source=rss)
- - [iPhone 17 Rumors: Everything to Know About Apple&#39;s Upcoming Flagship](https://www.cnet.com/tech/mobile/iphone-17-rumors-everything-to-know-about-apples-upcoming-flagship/#ftag=CAD590a51e)
- - [Silicon Valley has shifted from Web 2.0 to a new &quot;hard tech&quot;, AI-dominated era with fewer perks and a more serious mood, as startups use San Francisco as a base &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250804/p17#a250804p17)<!-- TECH:END -->
+ - [Tired of Google Home not working? This new change will make you furious](https://www.androidauthority.com/google-home-new-voice-names-3583628/)
+ - [Amazon says it is closing its Wondery podcast studio and will break up its operations as part of a broad reorganization; a source says ~110 jobs will be cut &lpar;Bloomberg&rpar;](http://www.techmeme.com/250804/p22#a250804p22)
+ - [Tesla proposes giving Elon Musk $29 billion so he stays CEO](https://www.theverge.com/news/718032/tesla-elon-musk-stock-pay-29-billion-ceo-shareholders)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
