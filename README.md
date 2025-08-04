@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus TUF A14 &lpar;2025&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-a14-2025-review/)
- - [Today&#39;s Wordle clues, hints and answer for August 4 &lpar;#1507&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-4-2025/)
- - [Five new Steam games you probably missed &lpar;August 4, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-4-2025/)<!-- GAME:END -->
+ - [Wait, What? Titan Quest II Is A Thing, And Is Out In Early Access?](https://kotaku.com/titan-quest-2-early-access-out-now-2000614459)
+ - [Huge news for base organisers and decorators, Minecraft&#39;s next drop will add shelves](https://www.pcgamer.com/games/survival-crafting/huge-news-for-base-organisers-and-decorators-minecrafts-next-drop-will-add-shelves/)
+ - [Asus TUF A14 &lpar;2025&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-a14-2025-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
