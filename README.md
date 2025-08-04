@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
- - ⏩ [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 👉 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)<!-- MEMES:END -->
+ - 💣 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - ⏩ [Take a look at what happiness looks like you miserable f.....](http://9gag.com/gag/aRBDX6y)
+ - 👉 [All thanks to who?](http://9gag.com/gag/ajPymQ1)<!-- MEMES:END -->
 
 ---
 
