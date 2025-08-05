@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to be pro at golf](http://9gag.com/gag/aAyZGLR)
- - ⏩ [Thank you Ozzy and Sharon.](http://9gag.com/gag/a34nZAN)
- - 👉 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)<!-- MEMES:END -->
+ - 💣 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
+ - ⏩ [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
+ - 👉 [David Fincher, Brad Pitt, and Edward Norton roasting all the critics who trashed Fight Club.](http://9gag.com/gag/a87z7EQ)<!-- MEMES:END -->
 
 ---
 
