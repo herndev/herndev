@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp will show a ‘safety overview’ before you join unknown group chats](https://www.theverge.com/news/718881/whatsapp-group-chat-scams-safety-overview)
- - [Save $450 on Apple&#39;s 15-inch MacBook Air with 24GB RAM](https://appleinsider.com/articles/25/08/05/save-450-on-apples-15-inch-macbook-air-with-24gb-ram?utm_source=rss)
- - [Don’t look now, but Roku’s got its own streaming service](https://www.androidauthority.com/roku-howdy-3584127/)<!-- TECH:END -->
+ - [Sony’s noise-canceling WH-1000XM6 are discounted to their Prime Day low](https://www.theverge.com/tech/718907/sony-wh-1000xm6-skylight-smart-calendar-deal-sale)
+ - [WhatsApp adds a new &quot;safety overview&quot; that appears in new group chats, including info on the group and when it was created, to help protect users from scams &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250805/p32#a250805p32)
+ - [Anthropic releases Claude Opus 4.1 to paid Claude users, in Claude Code, via its API, and more, featuring broad improvements over Opus 4 for the same cost &lpar;Anthropic&rpar;](http://www.techmeme.com/250805/p31#a250805p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
