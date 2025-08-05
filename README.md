@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t blame her](http://9gag.com/gag/abAEv68)
- - ⏩ [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
- - 👉 [R.I.P](http://9gag.com/gag/apR8R0M)<!-- MEMES:END -->
+ - 💣 [Hee hee](http://9gag.com/gag/aE0EMpx)
+ - ⏩ [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 👉 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)<!-- MEMES:END -->
 
 ---
 
