@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
- - ⏩ [Found a zero-day exploit](http://9gag.com/gag/a87z1ZY)
- - 👉 [Wow, this was much more difficult than the Normandy landings or the Battle of the Bulge](http://9gag.com/gag/an7VgdL)<!-- MEMES:END -->
+ - 💣 [Finish him](http://9gag.com/gag/awyvz6W)
+ - ⏩ [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
+ - 👉 [F**k off Rebecca](http://9gag.com/gag/a6Z8qwb)<!-- MEMES:END -->
 
 ---
 
