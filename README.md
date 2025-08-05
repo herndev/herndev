@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wikipedia editors adopt a policy giving admins the authority to quickly delete AI-generated articles that meet certain criteria, like incorrect citations &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250805/p46#a250805p46)
- - [The DOJ says two Chinese nationals were arrested in California on charges of illegally shipping AI chips, including Nvidia H100s, to China from 2022 to 2025 &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250805/p45#a250805p45)
- - [Teardown confirms Galaxy Z Fold 7 is a repair nightmare, but maybe that’s the point](https://www.androidauthority.com/galaxy-z-fold-7-repair-score-ifixit-3584265/)<!-- TECH:END -->
+ - [US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush](https://www.wired.com/story/us-coast-guard-report-titan-submersible-implosion-oceangate-ceo-stockton-rush/)
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
+ - [Samsung Galaxy Ring drops to its all-time low price from Prime Day](https://www.androidauthority.com/samsung-galaxy-ring-deal-4-3584283/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
