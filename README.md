@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is suing Apple Cinemas](https://www.theverge.com/news/719382/apple-cinemas-sand-media-lawsuit-theater-chain)
- - [TP-Link’s new travel router delivers Wi-Fi 7 speeds](https://www.theverge.com/news/719334/tp-link-be3600-wifi-7-travel-router-vpn)
- - [macOS 26 says goodbye to the classic hard drive icon](https://appleinsider.com/articles/25/08/05/macos-26-says-goodbye-to-the-classic-hard-drive-icon?utm_source=rss)<!-- TECH:END -->
+ - [Wikipedia editors adopt a policy giving admins the authority to quickly delete AI-generated articles that meet certain criteria, like incorrect citations &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250805/p46#a250805p46)
+ - [The DOJ says two Chinese nationals were arrested in California on charges of illegally shipping AI chips, including Nvidia H100s, to China from 2022 to 2025 &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250805/p45#a250805p45)
+ - [Teardown confirms Galaxy Z Fold 7 is a repair nightmare, but maybe that’s the point](https://www.androidauthority.com/galaxy-z-fold-7-repair-score-ifixit-3584265/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
