@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Graphics card prices are totally ridiculous and it&#39;s creating a barrier to entry that makes me fear for the future of PC gaming](https://www.pcgamer.com/hardware/graphics-cards/graphics-card-prices-are-totally-ridiculous-and-its-creating-a-barrier-to-entry-that-makes-me-fear-for-the-future-of-pc-gaming/)
- - [Shadowheart has been respecced over 4,890,005 times in Baldur&#39;s Gate 3, and I know at least 2 reasons why](https://www.pcgamer.com/games/baldurs-gate/shadowheart-has-been-respecced-over-4-890-005-times-in-baldurs-gate-3-and-i-know-at-least-2-reasons-why/)
- - [Peak dev would rather you pirate Peak than play a &#39;microtransaction Roblox slop ripoff&#39;](https://www.pcgamer.com/games/action/peak-dev-would-rather-you-pirate-peak-than-play-a-microtransaction-roblox-slop-ripoff/)<!-- GAME:END -->
+ - [Peak Dev Would Rather You Pirate Their Game Than Play A Roblox Knock-Off](https://kotaku.com/peak-roblox-cliff-knock-off-aggro-crab-2000614671)
+ - [AMD rolls out Radeon RX 9060 non-XT with fewer cores, lower clocks and 8 GB of slower VRAM but you probably can&#39;t buy it direct](https://www.pcgamer.com/hardware/graphics-cards/amd-rolls-out-radeon-rx-9060-non-xt-with-fewer-cores-lower-clocks-and-8-gb-of-slower-vram-but-you-probably-cant-buy-it-direct/)
+ - [AMD said it would be too expensive and of no real benefit to gaming, but if one rumour is to be believed, a dual 3D V-Cache Ryzen is actually in the pipeline](https://www.pcgamer.com/hardware/processors/amd-said-it-would-be-too-expensive-and-of-no-real-benefit-to-gaming-but-if-one-rumour-is-to-be-believed-a-dual-3d-v-cache-ryzen-is-actually-in-the-pipeline/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
