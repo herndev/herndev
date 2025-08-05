@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hungryroot Coupon Codes: 30% Off in August 2025](https://www.wired.com/story/hungryroot-promo-code/)
- - [Sources: TSMC fires several employees for violating rules related to obtaining sensitive info on 2nm chip tech; TSMC says it detected &quot;unauthorized activities&quot; &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250805/p3#a250805p3)
- - [Samsung’s new foldable display tech could make the Galaxy Z Fold 8 its sleekest yet](https://www.androidauthority.com/samsung-display-montflex-3583915/)<!-- TECH:END -->
+ - [DRAM prices remain high after doubling from May 2025 to June 2025, amid speculation that China&#39;s CXMT may have halted DDR4 production to focus on DDR5 and HBM &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250805/p6#a250805p6)
+ - [Samsung Promo Codes: 30% Off | August 2025](https://www.wired.com/story/samsung-promo-codes/)
+ - [White House OSTP Director Michael Kratsios says the US is exploring software or physical methods to track the location of AI chips, as part of AI Action Plan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p5#a250805p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
