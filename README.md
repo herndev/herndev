@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s noise-canceling WH-1000XM6 are discounted to their Prime Day low](https://www.theverge.com/tech/718907/sony-wh-1000xm6-skylight-smart-calendar-deal-sale)
- - [WhatsApp adds a new &quot;safety overview&quot; that appears in new group chats, including info on the group and when it was created, to help protect users from scams &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250805/p32#a250805p32)
- - [Anthropic releases Claude Opus 4.1 to paid Claude users, in Claude Code, via its API, and more, featuring broad improvements over Opus 4 for the same cost &lpar;Anthropic&rpar;](http://www.techmeme.com/250805/p31#a250805p31)<!-- TECH:END -->
+ - [Florida sues some of the biggest porn platforms, accusing them of not complying with the state&#39;s age verification law &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250805/p35#a250805p35)
+ - [Apple Support&#39;s new generative AI assistant is being tested by a small audience](https://appleinsider.com/articles/25/08/05/apple-support-gears-up-to-roll-out-generative-ai-assistant?utm_source=rss)
+ - [Apple seeds fifth developer betas of iOS 26, iPadOS 26](https://appleinsider.com/articles/25/08/05/apple-seeds-fifth-developer-betas-of-ios-26-ipados-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
