@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 producer says Bad Company 2 was a &#39;huge inspiration&#39; for the new game, and you can&#39;t argue with his logic: &#39;When you look for excellence in our legacy, that&#39;s where you find it&#39;](https://www.pcgamer.com/games/fps/battlefield-6-producer-says-bad-company-2-was-a-huge-inspiration-for-the-new-game-and-you-cant-argue-with-his-logic-when-you-look-for-excellence-in-our-legacy-thats-where-you-find-it/)
- - [Fantastic Four: First Steps&#39; disappointing box office could be a Doomsday problem for Marvel](https://www.polygon.com/fantastic-four-first-steps-box-office-mcu/)
- - [System Shock 2&#39;s alien &#39;sphincter doors&#39; were made with photos from a dev&#39;s colonoscopy](https://www.pcgamer.com/games/fps/system-shock-2s-alien-sphincter-doors-were-made-with-photos-from-a-devs-colonoscopy/)<!-- GAME:END -->
+ - [Larian says it&#39;s going to expand the Baldur&#39;s Gate 3 mod toolkit &#39;to give you even more freedom,&#39; so there goes another 100 hours I&#39;ve lost to modding](https://www.pcgamer.com/games/baldurs-gate/larian-says-its-going-to-expand-the-baldurs-gate-3-mod-toolkit-to-give-you-even-more-freedom-so-there-goes-another-100-hours-ive-lost-to-modding/)
+ - [People are flipping out over recoil in Battlefield 6 because of one gun specifically designed to have no recoil in real life](https://www.pcgamer.com/games/fps/people-are-flipping-out-over-recoil-in-battlefield-6-because-of-one-gun-specifically-designed-to-have-no-recoil-in-real-life/)
+ - [Larian celebrated a &#39;probably this time really maybe&#39; defeat of Baldur&#39;s Gate 3&#39;s Zoom grandpa portrait glitch too soon, with the beloved bug already rising from the dead like a slasher villain](https://www.pcgamer.com/games/baldurs-gate/larian-celebrated-a-probably-this-time-really-maybe-defeat-of-baldurs-gate-3s-zoom-grandpa-portrait-glitch-too-soon-with-the-beloved-bug-already-rising-from-the-dead-like-a-slasher-villain/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
