@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 will introduce classic maps &#39;based on fan or player requests&#39;, and I can already see where this is going: &#39;we want to choose the best possible one to bring back the good old days of playing Battlefield&#39;](https://www.pcgamer.com/games/fps/battlefield-6-community-voting-remake-maps-predictions/)
- - [Need to clone your boot drive for your next PC upgrade? I&#39;ve discovered my new favorite tool](https://www.pcgamer.com/hardware/need-to-clone-your-boot-drive-for-your-next-pc-upgrade-ive-discovered-my-new-favorite-tool/)
- - [Alien: Earth creator reveals what he took from Ridley Scott’s Blade Runner &lpar;and what he didn’t&rpar;](https://www.polygon.com/alien-earth-noah-hawley-blade-runner-synthetics/)<!-- GAME:END -->
+ - [AMD&#39;s new AM6 socket has all the pins—2,100 of &#39;em—but don&#39;t worry, your old CPU cooler will apparently still fit just fine](https://www.pcgamer.com/hardware/processors/amds-new-am6-socket-has-all-the-pins-2-100-of-em-but-dont-worry-your-old-cpu-cooler-will-apparently-still-fit-just-fine/)
+ - [Players’ Choice: Vote for July 2025’s best new game](https://blog.playstation.com/2025/08/05/players-choice-vote-for-july-2025s-best-new-game/)
+ - [Overwatch 2 x Nerf: Unlock New Blaster Skins Now](https://overwatch.blizzard.com/en-us/news/24216162#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
