@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
- - ⏩ [Training a zoomer is like training a boomer, the circle of life continues, and the PDF knowledge dies with us](http://9gag.com/gag/avymyBq)
- - 👉 [Right in the feels](http://9gag.com/gag/a2vGMmO)<!-- MEMES:END -->
+ - 💣 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - ⏩ [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 👉 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)<!-- MEMES:END -->
 
 ---
 
