@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
- - ⏩ [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
- - 👉 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)<!-- MEMES:END -->
+ - 💣 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
+ - ⏩ [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
+ - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
 
 ---
 
