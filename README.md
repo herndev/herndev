@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini is getting ready to work with our favorite Google AI tool &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-notebooklm-3583843/)
- - [How Supercomputing Will Evolve, According to Jack Dongarra](https://www.wired.com/story/how-supercomputing-will-evolve-according-to-jack-dongarra-quantum-artificial-intelligence/)
- - [The UK&#39;s Online Safety Act shows the UK prioritized government control over improving safety, becoming a cautionary tale in internet regulation for democracies &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250805/p13#a250805p13)<!-- TECH:END -->
+ - [Spend management startup Alaan raised a $48M Series A led by Peak XV, one of the Middle East&#39;s largest Series A rounds for a fintech, after a $2.5M seed in 2021 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250805/p17#a250805p17)
+ - [Taiwanese prosecutors say two ex-TSMC employees and a third suspect were arrested for allegedly stealing proprietary tech; investigators searched Tokyo Electron &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250805/p16#a250805p16)
+ - [Filings: SoftBank increased its Nvidia stake to ~$3B in Q1 and bought $330M worth of TSMC stock; a source says Vision Fund monetized ~$2B of assets in H1 2025 &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/250805/p15#a250805p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
