@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - ⏩ [R.I.P](http://9gag.com/gag/apR8R0M)
- - 👉 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)<!-- MEMES:END -->
+ - 💣 [I don&#39;t blame her](http://9gag.com/gag/abAEv68)
+ - ⏩ [Hee hee](http://9gag.com/gag/aE0EMpx)
+ - 👉 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)<!-- MEMES:END -->
 
 ---
 
