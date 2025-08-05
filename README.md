@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
- - ⏩ [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 👉 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)<!-- MEMES:END -->
+ - 💣 [I don&#39;t blame her](http://9gag.com/gag/abAEv68)
+ - ⏩ [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
+ - 👉 [R.I.P](http://9gag.com/gag/apR8R0M)<!-- MEMES:END -->
 
 ---
 
