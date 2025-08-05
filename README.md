@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Peak Dev Would Rather You Pirate Their Game Than Play A Roblox Knock-Off](https://kotaku.com/peak-roblox-cliff-knock-off-aggro-crab-2000614671)
- - [AMD rolls out Radeon RX 9060 non-XT with fewer cores, lower clocks and 8 GB of slower VRAM but you probably can&#39;t buy it direct](https://www.pcgamer.com/hardware/graphics-cards/amd-rolls-out-radeon-rx-9060-non-xt-with-fewer-cores-lower-clocks-and-8-gb-of-slower-vram-but-you-probably-cant-buy-it-direct/)
- - [AMD said it would be too expensive and of no real benefit to gaming, but if one rumour is to be believed, a dual 3D V-Cache Ryzen is actually in the pipeline](https://www.pcgamer.com/hardware/processors/amd-said-it-would-be-too-expensive-and-of-no-real-benefit-to-gaming-but-if-one-rumour-is-to-be-believed-a-dual-3d-v-cache-ryzen-is-actually-in-the-pipeline/)<!-- GAME:END -->
+ - [Battlefield 6 will introduce classic maps &#39;based on fan or player requests&#39;, and I can already see where this is going: &#39;we want to choose the best possible one to bring back the good old days of playing Battlefield&#39;](https://www.pcgamer.com/games/fps/battlefield-6-community-voting-remake-maps-predictions/)
+ - [Need to clone your boot drive for your next PC upgrade? I&#39;ve discovered my new favorite tool](https://www.pcgamer.com/hardware/need-to-clone-your-boot-drive-for-your-next-pc-upgrade-ive-discovered-my-new-favorite-tool/)
+ - [Alien: Earth creator reveals what he took from Ridley Scott’s Blade Runner &lpar;and what he didn’t&rpar;](https://www.polygon.com/alien-earth-noah-hawley-blade-runner-synthetics/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
