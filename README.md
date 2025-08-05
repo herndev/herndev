@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DnD and Critical Role have entered their TTRPG Cold War era](https://www.polygon.com/dnd-critical-role-war-daggerheart/)
- - [Kingmakers, the medieval combat sim with tanks and M16s, warns that guns don&#39;t always win knife fights: &#39;Not all of your bullets will have an easy time taking down all enemy types&#39;](https://www.pcgamer.com/games/strategy/kingmakers-the-medieval-combat-sim-with-tanks-and-m16s-warns-that-guns-dont-always-win-knife-fights-not-all-of-your-bullets-will-have-an-easy-time-taking-down-all-enemy-types/)
- - [Batman, Green Arrow, and the Question unite in new DC Comics Black Label series](https://www.polygon.com/dc-black-label-arcadia-batman-green-arrow-the-question/)<!-- GAME:END -->
+ - [The Internet Reacts To President Trump Wandering Around On The White House Roof](https://kotaku.com/trump-roof-nuclear-missile-epstein-memes-reacts-2000614734)
+ - [Nintendo Forces Speedrunning Group To Apply For Permission To Feature Any Of Its Games](https://kotaku.com/nintendo-speedrunning-rta-japan-2025-permission-license-explained-2000614737)
+ - [Battlefield 6 team depoliticized its war so you can root for the bad guys](https://www.polygon.com/battlefield-6-story-campaign-pax-armata-nato-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
