@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shareholder letter: Reddit cites Profound&#39;s analysis showing it is the most cited domain across AI models, ahead of Wikipedia, YouTube, Forbes, and others &lpar;Alice Brooker/Press Gazette&rpar;](http://www.techmeme.com/250805/p8#a250805p8)
- - [This Galaxy Z Fold 7 model offers a much longer warranty](https://www.androidauthority.com/samsung-galaxy-z-fold-7-longer-warranty-3583927/)
- - [As Delta experiments with AI-driven pricing, regulators and travelers alike worry about dynamic fare schemes that &quot;go beyond the human cognitive limits&quot; &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250805/p7#a250805p7)<!-- TECH:END -->
+ - [Gemini is getting ready to work with our favorite Google AI tool &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-notebooklm-3583843/)
+ - [How Supercomputing Will Evolve, According to Jack Dongarra](https://www.wired.com/story/how-supercomputing-will-evolve-according-to-jack-dongarra-quantum-artificial-intelligence/)
+ - [The UK&#39;s Online Safety Act shows the UK prioritized government control over improving safety, becoming a cautionary tale in internet regulation for democracies &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250805/p13#a250805p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
