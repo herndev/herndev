@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Graphics card prices are totally ridiculous and it&#39;s creating a barrier to entry that makes me fear for the future of PC gaming](https://www.pcgamer.com/hardware/graphics-cards/graphics-card-prices-are-totally-ridiculous-and-its-creating-a-barrier-to-entry-that-makes-me-fear-for-the-future-of-pc-gaming/)
  - [Shadowheart has been respecced over 4,890,005 times in Baldur&#39;s Gate 3, and I know at least 2 reasons why](https://www.pcgamer.com/games/baldurs-gate/shadowheart-has-been-respecced-over-4-890-005-times-in-baldurs-gate-3-and-i-know-at-least-2-reasons-why/)
- - [Peak dev would rather you pirate Peak than play a &#39;microtransaction Roblox slop ripoff&#39;](https://www.pcgamer.com/games/action/peak-dev-would-rather-you-pirate-peak-than-play-a-microtransaction-roblox-slop-ripoff/)
- - [Today&#39;s Wordle clues, hints and answer for August 5 &lpar;#1508&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-5-2025/)<!-- GAME:END -->
+ - [Peak dev would rather you pirate Peak than play a &#39;microtransaction Roblox slop ripoff&#39;](https://www.pcgamer.com/games/action/peak-dev-would-rather-you-pirate-peak-than-play-a-microtransaction-roblox-slop-ripoff/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
