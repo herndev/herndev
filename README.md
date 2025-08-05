@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who knew there is a small community on youtube that makes good quality LEGO ww2 stopmotions?](http://9gag.com/gag/adBbBnB)
- - ⏩ [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
- - 👉 [How to be pro at golf](http://9gag.com/gag/aAyZGLR)<!-- MEMES:END -->
+ - 💣 [How to be pro at golf](http://9gag.com/gag/aAyZGLR)
+ - ⏩ [Thank you Ozzy and Sharon.](http://9gag.com/gag/a34nZAN)
+ - 👉 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)<!-- MEMES:END -->
 
 ---
 
