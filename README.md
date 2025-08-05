@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase adds Embedded Wallets to its mobile SDK, allowing devs to integrate wallets into their apps with minimal code, with support for on-ramps and swaps &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/250805/p38#a250805p38)
- - [Google didn’t forget the Pixel 6 this time for the August software update](https://www.androidauthority.com/google-august-2025-pixel-update-3584218/)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
+ - [Apple is suing Apple Cinemas](https://www.theverge.com/news/719382/apple-cinemas-sand-media-lawsuit-theater-chain)
+ - [TP-Link’s new travel router delivers Wi-Fi 7 speeds](https://www.theverge.com/news/719334/tp-link-be3600-wifi-7-travel-router-vpn)
+ - [macOS 26 says goodbye to the classic hard drive icon](https://appleinsider.com/articles/25/08/05/macos-26-says-goodbye-to-the-classic-hard-drive-icon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
