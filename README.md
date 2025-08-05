@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian says it&#39;s going to expand the Baldur&#39;s Gate 3 mod toolkit &#39;to give you even more freedom,&#39; so there goes another 100 hours I&#39;ve lost to modding](https://www.pcgamer.com/games/baldurs-gate/larian-says-its-going-to-expand-the-baldurs-gate-3-mod-toolkit-to-give-you-even-more-freedom-so-there-goes-another-100-hours-ive-lost-to-modding/)
- - [People are flipping out over recoil in Battlefield 6 because of one gun specifically designed to have no recoil in real life](https://www.pcgamer.com/games/fps/people-are-flipping-out-over-recoil-in-battlefield-6-because-of-one-gun-specifically-designed-to-have-no-recoil-in-real-life/)
- - [Larian celebrated a &#39;probably this time really maybe&#39; defeat of Baldur&#39;s Gate 3&#39;s Zoom grandpa portrait glitch too soon, with the beloved bug already rising from the dead like a slasher villain](https://www.pcgamer.com/games/baldurs-gate/larian-celebrated-a-probably-this-time-really-maybe-defeat-of-baldurs-gate-3s-zoom-grandpa-portrait-glitch-too-soon-with-the-beloved-bug-already-rising-from-the-dead-like-a-slasher-villain/)<!-- GAME:END -->
+ - [Peak dev would rather you pirate Peak than play a &#39;microtransaction Roblox slop ripoff&#39;](https://www.pcgamer.com/games/action/peak-dev-would-rather-you-pirate-peak-than-play-a-microtransaction-roblox-slop-ripoff/)
+ - [Today&#39;s Wordle clues, hints and answer for August 5 &lpar;#1508&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-5-2025/)
+ - [Larian says it&#39;s going to expand the Baldur&#39;s Gate 3 mod toolkit &#39;to give you even more freedom,&#39; so there goes another 100 hours I&#39;ve lost to modding](https://www.pcgamer.com/games/baldurs-gate/larian-says-its-going-to-expand-the-baldurs-gate-3-mod-toolkit-to-give-you-even-more-freedom-so-there-goes-another-100-hours-ive-lost-to-modding/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
