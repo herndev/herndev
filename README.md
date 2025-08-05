@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s new AM6 socket has all the pins—2,100 of &#39;em—but don&#39;t worry, your old CPU cooler will apparently still fit just fine](https://www.pcgamer.com/hardware/processors/amds-new-am6-socket-has-all-the-pins-2-100-of-em-but-dont-worry-your-old-cpu-cooler-will-apparently-still-fit-just-fine/)
- - [Players’ Choice: Vote for July 2025’s best new game](https://blog.playstation.com/2025/08/05/players-choice-vote-for-july-2025s-best-new-game/)
- - [Overwatch 2 x Nerf: Unlock New Blaster Skins Now](https://overwatch.blizzard.com/en-us/news/24216162#new_tab)<!-- GAME:END -->
+ - [Exciting New Features of The First Descendant ‘Breakthrough’ Update – Available August 7](https://news.xbox.com/en-us/2025/08/05/the-first-descendant-breakthrough-update-available-august-7/)
+ - [DeepMind CEO makes big brain claims, saying AGI could be here within &#39;five to 10 years&#39; and cause humanity to experience widespread change that&#39;s &#39;10 times bigger than the Industrial Revolution, and maybe 10 times faster&#39;](https://www.pcgamer.com/software/ai/deepmind-ceo-makes-big-brain-claims-saying-agi-could-be-here-in-the-next-five-to-10-years-and-that-humanity-will-see-a-change-10-times-bigger-than-the-industrial-revolution-and-maybe-10-times-faster/)
+ - [The Creator Behind Stop Killing Games Is Taking A Break](https://kotaku.com/stop-killing-games-break-switch-2-cart-size-ign-layoffs-pilotwings-music-2000614692)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
