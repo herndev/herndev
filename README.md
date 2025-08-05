@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The parents of a Parkland shooting victim created an AI version of their son to speak about gun safety, starting with an interview with journalist Jim Acosta &lpar;Jon Blistein/Rolling Stone&rpar;](http://www.techmeme.com/250805/p1#a250805p1)
  - [All 2025 Motorola Razr foldables are on sale!](https://www.androidauthority.com/motorola-razr-plus-ultra-2025-deals-3583875/)
- - [The CFTC is asking for public comment by August 18 about trading spot crypto asset contracts listed on CFTC-registered futures exchanges &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250804/p38#a250804p38)
- - [Internal email: Cognition offers buyouts to the ~200 newly acquired Windsurf staff, with Cognition CEO Scott Wu writing &quot;we don&#39;t believe in work-life balance&quot; &lpar;The Information&rpar;](http://www.techmeme.com/250804/p37#a250804p37)<!-- TECH:END -->
+ - [The CFTC is asking for public comment by August 18 about trading spot crypto asset contracts listed on CFTC-registered futures exchanges &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250804/p38#a250804p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
