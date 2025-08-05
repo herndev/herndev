@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit promised better sleep tracking with new update, but users say it got worse](https://www.androidauthority.com/fitbit-sleep-tracking-update-3583965/)
- - [Google Contacts’ new Material 3 Expressive look is rolling out, here’s what’s different](https://www.androidauthority.com/google-contacts-material-3-expressive-rollout-3583994/)
- - [A draft White House EO shows President Trump plans to step up pressure against big banks over alleged discrimination against crypto companies and conservatives &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250805/p19#a250805p19)<!-- TECH:END -->
+ - [The Galaxy Z Fold 7 has solved the wrong problem](https://www.androidauthority.com/samsung-galaxy-z-fold-7-problem-3579973/)
+ - [We need to relearn how to use AI when it’s on our bodies](https://www.theverge.com/analysis/718390/gemini-wear-os-smartwatches-ai)
+ - [Want faster charging on Galaxy Tab S11 Ultra? Prepare to be disappointed.](https://www.androidauthority.com/samsung-galaxy-tab-s11-ultra-charging-release-3584022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
