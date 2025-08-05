@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEO is being supplanted by generative-engine optimization, or GEO, which focuses on AI chatbots and does not benefit from longstanding SEO tricks &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/250804/p34#a250804p34)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Google Pixel 9a drops to a new record-low price, saving you $100](https://www.androidauthority.com/google-pixel-9a-deal-5-3583877/)<!-- TECH:END -->
+ - [Apple Pencil USB-C drops to all-time best $49.99 with coupon](https://appleinsider.com/articles/25/08/05/apple-pencil-usb-c-drops-to-all-time-best-4999-with-coupon?utm_source=rss)
+ - [Deal: Only have one HDMI input? Multiply it with the Anker HDMI Switch](https://www.androidauthority.com/anker-hdmi-switch-deal-3583876/)
+ - [Google agrees with two power utilities to pause non-essential AI workloads during peak demand or adverse weather events that reduce supply &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250804/p35#a250804p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
