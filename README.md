@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9a drops to a new record-low price, saving you $100](https://www.androidauthority.com/google-pixel-9a-deal-5-3583877/)
- - [Broadcom unveils a new version of its Jericho networking chip, which can connect 1M+ processors across multiple data centers and handle distances of over 100km &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250804/p33#a250804p33)
- - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
+ - [SEO is being supplanted by generative-engine optimization, or GEO, which focuses on AI chatbots and does not benefit from longstanding SEO tricks &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/250804/p34#a250804p34)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Google Pixel 9a drops to a new record-low price, saving you $100](https://www.androidauthority.com/google-pixel-9a-deal-5-3583877/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
