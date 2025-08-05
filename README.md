@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
+ - 💣 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
  - ⏩ [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 👉 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)<!-- MEMES:END -->
+ - 👉 [Train to Shanghai](http://9gag.com/gag/amongro)<!-- MEMES:END -->
 
 ---
 
