@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Exciting New Features of The First Descendant ‘Breakthrough’ Update – Available August 7](https://news.xbox.com/en-us/2025/08/05/the-first-descendant-breakthrough-update-available-august-7/)
- - [DeepMind CEO makes big brain claims, saying AGI could be here within &#39;five to 10 years&#39; and cause humanity to experience widespread change that&#39;s &#39;10 times bigger than the Industrial Revolution, and maybe 10 times faster&#39;](https://www.pcgamer.com/software/ai/deepmind-ceo-makes-big-brain-claims-saying-agi-could-be-here-in-the-next-five-to-10-years-and-that-humanity-will-see-a-change-10-times-bigger-than-the-industrial-revolution-and-maybe-10-times-faster/)
- - [The Creator Behind Stop Killing Games Is Taking A Break](https://kotaku.com/stop-killing-games-break-switch-2-cart-size-ign-layoffs-pilotwings-music-2000614692)<!-- GAME:END -->
+ - [No more deploy beacon clown cars for recon players in Battlefield 6—the assault class will get them instead: &#39;We&#39;re intentionally redefining it as a teamplay tool for frontline flanking&#39;](https://www.pcgamer.com/games/fps/no-more-deploy-beacon-clown-cars-for-recon-players-in-battlefield-6-the-assault-class-will-get-them-instead-were-intentionally-redefining-it-as-a-teamplay-tool-for-frontline-flanking/)
+ - [Marvel Cosmic Invasion Turns Marvel Vs. Capcom Into A Kick-Ass Brawler](https://kotaku.com/marvel-cosmic-invasion-hands-on-preview-mvc-impressions-2000614681)
+ - [Intel&#39;s bad news year rolls on as new 18A chip manufacturing node is reportedly in trouble with 10% yields and doubts over profitability of the Panther Lake CPU](https://www.pcgamer.com/hardware/processors/intels-bad-news-year-rolls-on-as-new-18a-chip-manufacturing-node-is-reportedly-in-trouble-with-10-percent-yields-and-doubts-over-profitability-of-the-panther-lake-cpu/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
