@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No more deploy beacon clown cars for recon players in Battlefield 6—the assault class will get them instead: &#39;We&#39;re intentionally redefining it as a teamplay tool for frontline flanking&#39;](https://www.pcgamer.com/games/fps/no-more-deploy-beacon-clown-cars-for-recon-players-in-battlefield-6-the-assault-class-will-get-them-instead-were-intentionally-redefining-it-as-a-teamplay-tool-for-frontline-flanking/)
- - [Marvel Cosmic Invasion Turns Marvel Vs. Capcom Into A Kick-Ass Brawler](https://kotaku.com/marvel-cosmic-invasion-hands-on-preview-mvc-impressions-2000614681)
- - [Intel&#39;s bad news year rolls on as new 18A chip manufacturing node is reportedly in trouble with 10% yields and doubts over profitability of the Panther Lake CPU](https://www.pcgamer.com/hardware/processors/intels-bad-news-year-rolls-on-as-new-18a-chip-manufacturing-node-is-reportedly-in-trouble-with-10-percent-yields-and-doubts-over-profitability-of-the-panther-lake-cpu/)<!-- GAME:END -->
+ - [DnD and Critical Role have entered their TTRPG Cold War era](https://www.polygon.com/dnd-critical-role-war-daggerheart/)
+ - [Kingmakers, the medieval combat sim with tanks and M16s, warns that guns don&#39;t always win knife fights: &#39;Not all of your bullets will have an easy time taking down all enemy types&#39;](https://www.pcgamer.com/games/strategy/kingmakers-the-medieval-combat-sim-with-tanks-and-m16s-warns-that-guns-dont-always-win-knife-fights-not-all-of-your-bullets-will-have-an-easy-time-taking-down-all-enemy-types/)
+ - [Batman, Green Arrow, and the Question unite in new DC Comics Black Label series](https://www.polygon.com/dc-black-label-arcadia-batman-green-arrow-the-question/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
