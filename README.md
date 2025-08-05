@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
- - ⏩ [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
+ - 💣 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
+ - ⏩ [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
  - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
 
 ---
