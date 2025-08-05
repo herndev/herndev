@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - ⏩ [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
- - 👉 [Boy meets world](http://9gag.com/gag/aVvBxnO)<!-- MEMES:END -->
+ - 💣 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
+ - ⏩ [Found a zero-day exploit](http://9gag.com/gag/a87z1ZY)
+ - 👉 [Wow, this was much more difficult than the Normandy landings or the Battle of the Bulge](http://9gag.com/gag/an7VgdL)<!-- MEMES:END -->
 
 ---
 
