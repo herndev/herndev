@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - ⏩ [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
+ - 💣 [Boy meets world](http://9gag.com/gag/aVvBxnO)
+ - ⏩ [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
  - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
 
 ---
