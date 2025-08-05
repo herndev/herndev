@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Search sucks](https://www.pcgamer.com/software/platforms/search-sucks-gripes-week-2025/)
- - [Everything That’s Bad About The New War Of The Worlds Movie In One Scene](https://kotaku.com/war-of-the-worlds-amazon-ad-drone-scene-horrible-bad-review-2000614752)
- - [It’s The Perfect Time To Buy A Used Video Game Console](https://kotaku.com/switch-2-ps5-used-prices-xbox-series-x-s-preowned-2000614748)<!-- GAME:END -->
+ - [Teenage Mutant Ninja Turtles: Tactical Takedown arrives on Nintendo Switch and Xbox Series X this month](https://www.polygon.com/teenage-mutant-ninja-turtles-tactical-takedown-xbox-switch/)
+ - [&#39;Touch grass, read a book, throw a ball, get tackled once in a while&#39;: Epic Games art director and OG System Shock 2 artist says the best-looking videogames are designed by people who don&#39;t just look at videogames](https://www.pcgamer.com/gaming-industry/touch-grass-read-a-book-throw-a-ball-get-tackled-once-in-a-while-epic-games-art-director-and-og-system-shock-2-artist-says-the-best-looking-videogames-are-designed-by-people-who-dont-just-look-at-videogames/)
+ - [Search sucks](https://www.pcgamer.com/software/platforms/search-sucks-gripes-week-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
