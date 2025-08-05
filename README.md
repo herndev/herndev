@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spend management startup Alaan raised a $48M Series A led by Peak XV, one of the Middle East&#39;s largest Series A rounds for a fintech, after a $2.5M seed in 2021 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250805/p17#a250805p17)
- - [Taiwanese prosecutors say two ex-TSMC employees and a third suspect were arrested for allegedly stealing proprietary tech; investigators searched Tokyo Electron &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250805/p16#a250805p16)
- - [Filings: SoftBank increased its Nvidia stake to ~$3B in Q1 and bought $330M worth of TSMC stock; a source says Vision Fund monetized ~$2B of assets in H1 2025 &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/250805/p15#a250805p15)<!-- TECH:END -->
+ - [Fitbit promised better sleep tracking with new update, but users say it got worse](https://www.androidauthority.com/fitbit-sleep-tracking-update-3583965/)
+ - [Google Contacts’ new Material 3 Expressive look is rolling out, here’s what’s different](https://www.androidauthority.com/google-contacts-material-3-expressive-rollout-3583994/)
+ - [A draft White House EO shows President Trump plans to step up pressure against big banks over alleged discrimination against crypto companies and conservatives &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250805/p19#a250805p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
