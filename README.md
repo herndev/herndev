@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boy meets world](http://9gag.com/gag/aVvBxnO)
- - ⏩ [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
+ - 💣 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - ⏩ [R.I.P](http://9gag.com/gag/apR8R0M)
  - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
 
 ---
