@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New research shows how Apple Vision Pro could watch how you breathe to help with mindfulness](https://appleinsider.com/articles/25/08/05/new-research-shows-how-apple-vision-pro-could-watch-how-you-breathe-to-help-with-mindfulness?utm_source=rss)
- - [Apple Support gears up to roll out generative AI assistant](https://appleinsider.com/articles/25/08/05/apple-support-gears-up-to-roll-out-generative-ai-assistant?utm_source=rss)
- - [Google DeepMind releases its Genie 3 model, which can generate 3D worlds from a prompt and has enough visual memory for a few minutes of continuous interaction &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250805/p29#a250805p29)<!-- TECH:END -->
+ - [WhatsApp will show a ‘safety overview’ before you join unknown group chats](https://www.theverge.com/news/718881/whatsapp-group-chat-scams-safety-overview)
+ - [Save $450 on Apple&#39;s 15-inch MacBook Air with 24GB RAM](https://appleinsider.com/articles/25/08/05/save-450-on-apples-15-inch-macbook-air-with-24gb-ram?utm_source=rss)
+ - [Don’t look now, but Roku’s got its own streaming service](https://www.androidauthority.com/roku-howdy-3584127/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
