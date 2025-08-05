@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Shadowheart has been respecced over 4,890,005 times in Baldur&#39;s Gate 3, and I know at least 2 reasons why](https://www.pcgamer.com/games/baldurs-gate/shadowheart-has-been-respecced-over-4-890-005-times-in-baldurs-gate-3-and-i-know-at-least-2-reasons-why/)
  - [Peak dev would rather you pirate Peak than play a &#39;microtransaction Roblox slop ripoff&#39;](https://www.pcgamer.com/games/action/peak-dev-would-rather-you-pirate-peak-than-play-a-microtransaction-roblox-slop-ripoff/)
- - [Today&#39;s Wordle clues, hints and answer for August 5 &lpar;#1508&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-5-2025/)
- - [Larian says it&#39;s going to expand the Baldur&#39;s Gate 3 mod toolkit &#39;to give you even more freedom,&#39; so there goes another 100 hours I&#39;ve lost to modding](https://www.pcgamer.com/games/baldurs-gate/larian-says-its-going-to-expand-the-baldurs-gate-3-mod-toolkit-to-give-you-even-more-freedom-so-there-goes-another-100-hours-ive-lost-to-modding/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for August 5 &lpar;#1508&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-5-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
