@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The parents of a Parkland shooting victim created an AI version of their son to speak about gun safety, starting with an interview with journalist Jim Acosta &lpar;Jon Blistein/Rolling Stone&rpar;](http://www.techmeme.com/250805/p1#a250805p1)
- - [All 2025 Motorola Razr foldables are on sale!](https://www.androidauthority.com/motorola-razr-plus-ultra-2025-deals-3583875/)
- - [The CFTC is asking for public comment by August 18 about trading spot crypto asset contracts listed on CFTC-registered futures exchanges &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250804/p38#a250804p38)<!-- TECH:END -->
+ - [Hungryroot Coupon Codes: 30% Off in August 2025](https://www.wired.com/story/hungryroot-promo-code/)
+ - [Sources: TSMC fires several employees for violating rules related to obtaining sensitive info on 2nm chip tech; TSMC says it detected &quot;unauthorized activities&quot; &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250805/p3#a250805p3)
+ - [Samsung’s new foldable display tech could make the Galaxy Z Fold 8 its sleekest yet](https://www.androidauthority.com/samsung-display-montflex-3583915/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
