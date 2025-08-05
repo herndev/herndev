@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
- - ⏩ [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
- - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
+ - 💣 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
+ - ⏩ [Training a zoomer is like training a boomer, the circle of life continues, and the PDF knowledge dies with us](http://9gag.com/gag/avymyBq)
+ - 👉 [Right in the feels](http://9gag.com/gag/a2vGMmO)<!-- MEMES:END -->
 
 ---
 
