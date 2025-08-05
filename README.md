@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 7 has solved the wrong problem](https://www.androidauthority.com/samsung-galaxy-z-fold-7-problem-3579973/)
- - [We need to relearn how to use AI when it’s on our bodies](https://www.theverge.com/analysis/718390/gemini-wear-os-smartwatches-ai)
- - [Want faster charging on Galaxy Tab S11 Ultra? Prepare to be disappointed.](https://www.androidauthority.com/samsung-galaxy-tab-s11-ultra-charging-release-3584022/)<!-- TECH:END -->
+ - [Patreon CEO Jack Conte says the platform paid out $10B+ to creators since its 2013 founding, creators now get $2B+ annually, and there are 25M+ paid memberships &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250805/p26#a250805p26)
+ - [The Best Samsung Galaxy S25 Cases &lpar;2025&rpar;: S25, S25+, S25 Ultra, and S25 Edge](https://www.wired.com/gallery/best-samsung-galaxy-s25-cases-and-accessories/)
+ - [Motorola Razr 2025 gets a Swarovski treatment but without the sticker shock](https://www.androidauthority.com/motorola-razr-swarovski-special-edition-3584034/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
