@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After next week&#39;s Grafton Farmhouse rework, Phasmophobia is getting what I can only describe as &#39;haunted Waffle House&#39;](https://www.pcgamer.com/games/horror/after-next-weeks-grafton-farmhouse-rework-phasmophobia-is-getting-what-i-can-only-describe-as-haunted-waffle-house/)
  - [Teenage Mutant Ninja Turtles: Tactical Takedown arrives on Nintendo Switch and Xbox Series X this month](https://www.polygon.com/teenage-mutant-ninja-turtles-tactical-takedown-xbox-switch/)
- - [&#39;Touch grass, read a book, throw a ball, get tackled once in a while&#39;: Epic Games art director and OG System Shock 2 artist says the best-looking videogames are designed by people who don&#39;t just look at videogames](https://www.pcgamer.com/gaming-industry/touch-grass-read-a-book-throw-a-ball-get-tackled-once-in-a-while-epic-games-art-director-and-og-system-shock-2-artist-says-the-best-looking-videogames-are-designed-by-people-who-dont-just-look-at-videogames/)
- - [Search sucks](https://www.pcgamer.com/software/platforms/search-sucks-gripes-week-2025/)<!-- GAME:END -->
+ - [&#39;Touch grass, read a book, throw a ball, get tackled once in a while&#39;: Epic Games art director and OG System Shock 2 artist says the best-looking videogames are designed by people who don&#39;t just look at videogames](https://www.pcgamer.com/gaming-industry/touch-grass-read-a-book-throw-a-ball-get-tackled-once-in-a-while-epic-games-art-director-and-og-system-shock-2-artist-says-the-best-looking-videogames-are-designed-by-people-who-dont-just-look-at-videogames/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
