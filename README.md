@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
- - ⏩ [R.I.P](http://9gag.com/gag/apR8R0M)
- - 👉 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)<!-- MEMES:END -->
+ - 💣 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - ⏩ [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
+ - 👉 [Motorboat for safety!!](http://9gag.com/gag/aMVyV31)<!-- MEMES:END -->
 
 ---
 
