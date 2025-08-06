@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boom!](http://9gag.com/gag/a9yB68K)
- - ⏩ [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
- - 👉 [Final destination is so unrealistic...](http://9gag.com/gag/a6Z8DLL)<!-- MEMES:END -->
+ - 💣 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
+ - ⏩ [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - 👉 [Call to regroup](http://9gag.com/gag/aVvBgX8)<!-- MEMES:END -->
 
 ---
 
