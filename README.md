@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush](https://www.wired.com/story/us-coast-guard-report-titan-submersible-implosion-oceangate-ceo-stockton-rush/)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [Samsung Galaxy Ring drops to its all-time low price from Prime Day](https://www.androidauthority.com/samsung-galaxy-ring-deal-4-3584283/)<!-- TECH:END -->
+ - [Samsung Galaxy Tab Active 5 rugged tablet drops to new record-low price!](https://www.androidauthority.com/samsung-galaxy-tab-active-5-deal-3584282/)
+ - [Google is rolling out a fix for Pixel back button issues](https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16)
+ - [Linda Yaccarino is named CEO of digital health platform eMed Population Health less than a month after stepping down as CEO of X &lpar;Reuters&rpar;](http://www.techmeme.com/250805/p47#a250805p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
