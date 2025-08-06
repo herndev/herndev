@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - ⏩ [The secret ingredient\u2026 is crime. What the hell was she thinking?](http://9gag.com/gag/aPAnAZK)
- - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
+ - 💣 [Don&#39;t look](http://9gag.com/gag/ayNP3Xp)
+ - ⏩ [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 👉 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)<!-- MEMES:END -->
 
 ---
 
