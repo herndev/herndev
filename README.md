@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is bringing its Xbox Copilot to the Windows Game Bar](https://www.theverge.com/news/719668/microsoft-xbox-gaming-copilot-windows-game-bar-beta-test)
- - [The best phone to buy right now](https://www.theverge.com/719936/best-phone)
- - [This carrier now has a lock system that prevents you from using Developer Options](https://www.androidauthority.com/cricket-unlock-system-motorola-3584447/)<!-- TECH:END -->
+ - [Bose&amp;#8217;s stylish SoundLink Home speaker is cheaper for the first time in months](https://www.theverge.com/tech/719712/boses-stylish-soundlink-home-speaker-is-cheaper-for-the-first-time-in-months)
+ - [Call of Duty&amp;#8217;s PC anti-cheat will require Secure Boot on Windows](https://www.theverge.com/news/720007/call-of-duty-pc-anti-cheat-secure-boot-windows-black-ops-7)
+ - [Google launches its asynchronous coding agent Jules out of beta, with a free plan capped at 15 daily tasks and higher limits for Google AI Pro and Ultra users &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250806/p26#a250806p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
