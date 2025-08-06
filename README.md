@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
  - ⏩ [The secret ingredient\u2026 is crime. What the hell was she thinking?](http://9gag.com/gag/aPAnAZK)
- - 👉 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)<!-- MEMES:END -->
+ - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
 
 ---
 
