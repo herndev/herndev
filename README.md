@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [It&#39;s only taken six months but at long last, AMD&#39;s Adrenaline driver has FSR 4 support for Cyberpunk 2077](https://www.pcgamer.com/hardware/graphics-cards/its-only-taken-six-months-but-at-long-last-amds-adrenaline-driver-has-fsr-4-support-for-cyberpunk-2077/)
  - [The next videogame getting its own tabletop RPG is Diablo, an RPG that doesn&#39;t have any RP in it](https://www.pcgamer.com/games/rpg/the-next-videogame-getting-its-own-tabletop-rpg-is-diablo-an-rpg-that-doesnt-have-any-rp-in-it/)
- - [PSA: Persona 5 Royal is cheaper than it&#39;s ever been on PC right now, and you get 7 other games thrown in](https://www.pcgamer.com/games/rpg/psa-persona-5-royale-is-cheaper-than-its-ever-been-on-pc-right-now-and-you-get-7-other-games-thrown-in/)
- - [Today&#39;s Wordle clues, hints and answer for August 6 &lpar;#1509&rpar;](https://www.pcgamer.com/wordle-answer-today-august-6-2025/)<!-- GAME:END -->
+ - [PSA: Persona 5 Royal is cheaper than it&#39;s ever been on PC right now, and you get 7 other games thrown in](https://www.pcgamer.com/games/rpg/psa-persona-5-royale-is-cheaper-than-its-ever-been-on-pc-right-now-and-you-get-7-other-games-thrown-in/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
