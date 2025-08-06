@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Apple&#39;s existing U.S. manufacturing partners main beneficiaries of new $100B investment](https://appleinsider.com/articles/25/08/06/apples-existing-us-manufacturing-partners-main-beneficiaries-of-new-100b-investment?utm_source=rss)
- - [Lyft reports Q2 revenue up 11% YoY to $1.59B vs. $1.61B est., gross bookings up 12% to $4.5B, rides up 14% to 234.8M vs. 235.9M est.; LYFT drops 6%+ after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250806/p36#a250806p36)
- - [WB Games’ best PC titles are in this $12 Humble bundle](https://www.theverge.com/tech/720211/humble-bundle-wb-games-deal-sale)<!-- TECH:END -->
+ - [Apple made a 24k gold and glass statue for Donald Trump](https://www.theverge.com/news/737757/apple-president-donald-trump-ceo-tim-cook-glass-corning)
+ - [Google can’t plug the leaks: Pixel 10 Pro XL renders spill online](https://www.androidauthority.com/pixel-10-pro-xl-marketing-renders-3584614/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
