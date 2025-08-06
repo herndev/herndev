@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analyst: China summoning Nvidia over alleged H20 security risks shows it &quot;wants to use the Nvidia case to show China is a buyer, but it won&#39;t be a blind buyer&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p11#a250806p11)
- - [The Galaxy S20 Ultra is officially unsupported, but it just got one more update](https://www.androidauthority.com/samsung-galaxy-s20-ultra-unsupported-update-3584382/)
- - [Nvidia says its GPUs do not contain backdoors, kill switches, or spyware, and hard-coded, single-point controls like kill switches undermine trust in US tech &lpar;David Reber Jr/NVIDIA&rpar;](http://www.techmeme.com/250806/p10#a250806p10)<!-- TECH:END -->
+ - [Microsoft makes OpenAI’s new open model available on Windows](https://www.theverge.com/news/719640/microsoft-openai-gpt-oss-open-model-windows-ai-foundry-release)
+ - [Court records: from 2017 to 2022, 400,181 US Uber trips had sexual assault and sexual misconduct reports, far exceeding its public disclosure of 12,522 reports &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/250806/p14#a250806p14)
+ - [The Ampace Andes 1500 Power Station is my go-to portable power station for picnics and camping](https://www.androidauthority.com/ampace-andes-1500-power-station-review-3582361/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
