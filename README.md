@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is offering ChatGPT to US federal agencies at a nominal cost of $1 per year, in a bid to boost its adoption after the US GSA approved OpenAI as a vendor &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p21#a250806p21)
- - [Instagram adds a reposts feed and rips off Snap Maps](https://www.theverge.com/news/719756/instagram-adds-reposts-feed-rips-off-snap-maps)
- - [Researchers demonstrate a novel Gemini attack using poisoned Google Calendar invites to trigger smart home devices; Google fixed the flaws earlier in 2025 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250806/p20#a250806p20)<!-- TECH:END -->
+ - [These Democrats Think the Party Needs AI to Win Elections](https://www.wired.com/story/democrats-midterm-elections-ai/)
+ - [The Business Traveler of Today Is Changing—and So Is Their Flight Map](https://www.wired.com/story/business-travel-flight-map/)
+ - [Five men allegedly impersonated FBI agents to pilfer iPhones](https://appleinsider.com/articles/25/08/06/five-men-allegedly-impersonated-fbi-agents-to-pilfer-iphones?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
