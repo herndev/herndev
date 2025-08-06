@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
- - ⏩ [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
- - 👉 [Right in the feels](http://9gag.com/gag/a2vGMmO)<!-- MEMES:END -->
+ - 💣 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
+ - ⏩ [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 👉 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)<!-- MEMES:END -->
 
 ---
 
