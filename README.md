@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
- - ⏩ [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
- - 👉 [R.I.P](http://9gag.com/gag/apR8R0M)<!-- MEMES:END -->
+ - 💣 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
+ - ⏩ [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 👉 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)<!-- MEMES:END -->
 
 ---
 
