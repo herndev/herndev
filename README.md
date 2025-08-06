@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
- - ⏩ [R.I.P](http://9gag.com/gag/apR8R0M)
- - 👉 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)<!-- MEMES:END -->
+ - 💣 [Looks like admission](http://9gag.com/gag/aO8Gxe2)
+ - ⏩ [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
+ - 👉 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)<!-- MEMES:END -->
 
 ---
 
