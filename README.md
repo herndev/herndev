@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for August 6 &lpar;#1509&rpar;](https://www.pcgamer.com/wordle-answer-today-august-6-2025/)
  - [I thought it was a cute and casual little mining sim right up until it devoured my entire morning](https://www.pcgamer.com/games/sim/i-thought-it-was-a-cute-and-casual-little-mining-sim-right-up-until-it-devoured-my-entire-morning/)
- - [One of the most infuriating little things about playing games in 2025: When the quality-of-life update fixes that one problem right after you finish a game](https://www.pcgamer.com/games/when-the-quality-of-life-update-fixes-something-that-annoyed-me-after-i-stop-playing-the-dang-game/)
- - [My speakers automatically go into standby mode and it&#39;s driving me mad](https://www.pcgamer.com/hardware/speakers/my-speakers-automatically-go-into-standby-mode-and-its-driving-me-mad/)<!-- GAME:END -->
+ - [One of the most infuriating little things about playing games in 2025: When the quality-of-life update fixes that one problem right after you finish a game](https://www.pcgamer.com/games/when-the-quality-of-life-update-fixes-something-that-annoyed-me-after-i-stop-playing-the-dang-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
