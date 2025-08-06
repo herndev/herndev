@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
- - ⏩ [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)<!-- MEMES:END -->
+ - 💣 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
+ - ⏩ [He got canned](http://9gag.com/gag/a9yBzYo)
+ - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
 
 ---
 
