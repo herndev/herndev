@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black woman finally cast in anime dub as a Black character who actually sounds Black](https://www.polygon.com/gachiakuta-anime-semiu-voice-actress-kenneisha-thompson/)
- - [NBA 2K26 captures authentic NBA presentation with new improvements](https://blog.playstation.com/2025/08/06/nba-2k26-captures-authentic-nba-presentation-with-new-improvements/)
- - [Wander Stars and the Power of Words: How the Japanese Belief of Kotodama Shaped a Battle System](https://news.xbox.com/en-us/2025/08/06/wander-stars/)<!-- GAME:END -->
+ - [Gaming Copilot &lpar;Beta&rpar; Begins Rolling Out to Xbox Insiders on Game Bar Today](https://news.xbox.com/en-us/2025/08/06/gaming-copilot-beta-begins-rolling-out-to-xbox-insiders-on-game-bar-today/)
+ - [Finally, Dinosaurs Are Officially Being Added To Microsoft Flight Sim 2024](https://kotaku.com/jurassic-world-park-microsoft-flight-sim-2024-expansion-add-on-trailer-2000616004)
+ - [The next Everdark Sovereign for Elden Ring Nightreign has been announced, and players are already placing bets on what its third phase will be](https://www.pcgamer.com/games/rpg/the-next-everdark-sovereign-for-elden-ring-nightreign-has-been-announced-and-players-are-already-placing-bets-on-what-its-third-phase-will-be/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
