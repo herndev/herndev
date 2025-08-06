@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
- - ⏩ [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 👉 [R.I.P](http://9gag.com/gag/apR8R0M)<!-- MEMES:END -->
+ - 💣 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - ⏩ [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 👉 [Hee hee](http://9gag.com/gag/aE0EMpx)<!-- MEMES:END -->
 
 ---
 
