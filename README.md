@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China plans to allow its first stablecoins in a bid to internationalize the CNY, as policymakers warn that dollar-backed tokens cement USD&#39;s global dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250806/p4#a250806p4)
  - [YouTube’s playback speed controls are broken on Android &lpar;Updated: Official confirmation&rpar;](https://www.androidauthority.com/youtube-playback-speed-controls-android-broken-3584316/)
- - [Microsoft unveils Project Ire, a prototype AI system that can reverse engineer and identify malicious software autonomously, without human assistance &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250806/p3#a250806p3)
- - [T-mobile may have a new perk to keep loyal customers from switching carriers](https://www.androidauthority.com/t-mobile-loyalty-bill-credits-offer-3584330/)<!-- TECH:END -->
+ - [Microsoft unveils Project Ire, a prototype AI system that can reverse engineer and identify malicious software autonomously, without human assistance &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250806/p3#a250806p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
