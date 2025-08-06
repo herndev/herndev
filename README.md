@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can watch this all day](http://9gag.com/gag/aO8GeY2)
- - ⏩ [Sounds about right](http://9gag.com/gag/aryzWqX)
- - 👉 [Father](http://9gag.com/gag/aND3910)<!-- MEMES:END -->
+ - 💣 [Rest in Piss](http://9gag.com/gag/agmjQdn)
+ - ⏩ [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
+ - 👉 [Boom!](http://9gag.com/gag/a9yB68K)<!-- MEMES:END -->
 
 ---
 
