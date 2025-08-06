@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
- - ⏩ [I&#39;m with Brad on this ond](http://9gag.com/gag/aMVyBxV)
- - 👉 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)<!-- MEMES:END -->
+ - 💣 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
+ - ⏩ [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
+ - 👉 [R.I.P](http://9gag.com/gag/apR8R0M)<!-- MEMES:END -->
 
 ---
 
