@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: Persona 5 Royale is cheaper than it&#39;s ever been on PC right now, and you get 7 other games thrown in](https://www.pcgamer.com/games/rpg/psa-persona-5-royale-is-cheaper-than-its-ever-been-on-pc-right-now-and-you-get-7-other-games-thrown-in/)
- - [Today&#39;s Wordle clues, hints and answer for August 6 &lpar;#1509&rpar;](https://www.pcgamer.com/wordle-answer-today-august-6-2025/)
- - [I thought it was a cute and casual little mining sim right up until it devoured my entire morning](https://www.pcgamer.com/games/sim/i-thought-it-was-a-cute-and-casual-little-mining-sim-right-up-until-it-devoured-my-entire-morning/)<!-- GAME:END -->
+ - [The next videogame getting its own tabletop RPG is Diablo, an RPG that doesn&#39;t have any RP in it](https://www.pcgamer.com/games/rpg/the-next-videogame-getting-its-own-tabletop-rpg-is-diablo-an-rpg-that-doesnt-have-any-rp-in-it/)
+ - [PSA: Persona 5 Royal is cheaper than it&#39;s ever been on PC right now, and you get 7 other games thrown in](https://www.pcgamer.com/games/rpg/psa-persona-5-royale-is-cheaper-than-its-ever-been-on-pc-right-now-and-you-get-7-other-games-thrown-in/)
+ - [Today&#39;s Wordle clues, hints and answer for August 6 &lpar;#1509&rpar;](https://www.pcgamer.com/wordle-answer-today-august-6-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
