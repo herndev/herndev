@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100-$200 on most Google Pixel 9 series phones](https://www.androidauthority.com/google-pixel-9a-9-9-pro-deals-3584281/)
- - [Sources: AI video startup Runway is looking to raise ~$500M at a $5B+ pre-money valuation; rival Luma AI aims to raise $1.1B+ at a $3.2B+ pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/250805/p48#a250805p48)
- - [Samsung Acknowledges Its &#39;Upcoming&#39; Tri-Fold Phone on Earnings Call](https://www.cnet.com/tech/mobile/samsung-acknowledges-its-upcoming-tri-fold-phone-on-earnings-call/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [macOS Sonoma &amp; macOS Sequoia get release candidates for future bug fix update](https://appleinsider.com/articles/25/08/06/macos-sonoma-macos-sequoia-get-release-candidates-for-future-bug-fix-update?utm_source=rss)
+ - [Someone is folding the Galaxy Z Fold 7 200,000 times live on YouTube &lpar;Updated: Speaker broken&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-7-live-fold-test-3583522/)
+ - [Sources: OpenAI is in early talks to hold a secondary share sale for current and former employees at a valuation of ~$500B; OpenAI was valued at $300B in March &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250805/p49#a250805p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
