@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
- - ⏩ [Right in the feels](http://9gag.com/gag/a2vGMmO)
- - 👉 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)<!-- MEMES:END -->
+ - 💣 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
+ - ⏩ [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 👉 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)<!-- MEMES:END -->
 
 ---
 
