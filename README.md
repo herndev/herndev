@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filings: Indian agencies ordered X to remove ~1,400 posts or accounts from March 2024 to June 2025, as X and Modi&#39;s government clash over content rules &lpar;Reuters&rpar;](http://www.techmeme.com/250806/p5#a250806p5)
  - [China plans to allow its first stablecoins in a bid to internationalize the CNY, as policymakers warn that dollar-backed tokens cement USD&#39;s global dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250806/p4#a250806p4)
- - [YouTube’s playback speed controls are broken on Android &lpar;Updated: Official confirmation&rpar;](https://www.androidauthority.com/youtube-playback-speed-controls-android-broken-3584316/)
- - [Microsoft unveils Project Ire, a prototype AI system that can reverse engineer and identify malicious software autonomously, without human assistance &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250806/p3#a250806p3)<!-- TECH:END -->
+ - [YouTube’s playback speed controls are broken on Android &lpar;Updated: Official confirmation&rpar;](https://www.androidauthority.com/youtube-playback-speed-controls-android-broken-3584316/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
