@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The &quot;spicy&quot; option on Grok&#39;s new generative AI video tool Imagine produces nude deepfakes of celebrities like Taylor Swift, even without explicit user prompting &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250806/p1#a250806p1)
- - [AMD Q2: data center revenue up 14% YoY to $3.2B, as CEO Lisa Su says AI chip revenue fell YoY due to US export curbs on China and the transition to MI350 chips &lpar;Reuters&rpar;](http://www.techmeme.com/250805/p53#a250805p53)
- - [Sources: China held talks about merging a group of chip equipment makers into a national champion but faced pushback over ownership structure and valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250805/p52#a250805p52)<!-- TECH:END -->
+ - [YouTube’s playback speed controls are broken on Android &lpar;Updated: Official confirmation&rpar;](https://www.androidauthority.com/youtube-playback-speed-controls-android-broken-3584316/)
+ - [Microsoft unveils Project Ire, a prototype AI system that can reverse engineer and identify malicious software autonomously, without human assistance &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250806/p3#a250806p3)
+ - [T-mobile may have a new perk to keep loyal customers from switching carriers](https://www.androidauthority.com/t-mobile-loyalty-bill-credits-offer-3584330/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
