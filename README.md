@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sonoma &amp; macOS Sequoia get release candidates for future bug fix update](https://appleinsider.com/articles/25/08/06/macos-sonoma-macos-sequoia-get-release-candidates-for-future-bug-fix-update?utm_source=rss)
- - [Someone is folding the Galaxy Z Fold 7 200,000 times live on YouTube &lpar;Updated: Speaker broken&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-7-live-fold-test-3583522/)
- - [Sources: OpenAI is in early talks to hold a secondary share sale for current and former employees at a valuation of ~$500B; OpenAI was valued at $300B in March &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250805/p49#a250805p49)<!-- TECH:END -->
+ - [How to back up your Mac under macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-back-up-your-mac-under-macos-tahoe?utm_source=rss)
+ - [You’re not going crazy: YouTube’s playback speed controls are broken on Android](https://www.androidauthority.com/youtube-playback-speed-controls-android-broken-3584316/)
+ - [The Trump administration is warning states that they risk losing access to broadband funds if they set price caps on low-cost ISP plans &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250805/p50#a250805p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
