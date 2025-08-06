@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s existing U.S. manufacturing partners main beneficiaries of new $100B investment](https://appleinsider.com/articles/25/08/06/apples-existing-us-manufacturing-partners-main-beneficiaries-of-new-100b-investment?utm_source=rss)
- - [Apple made a 24k gold and glass statue for Donald Trump](https://www.theverge.com/news/737757/apple-president-donald-trump-ceo-tim-cook-glass-corning)
- - [Google can’t plug the leaks: Pixel 10 Pro XL renders spill online](https://www.androidauthority.com/pixel-10-pro-xl-marketing-renders-3584614/)<!-- TECH:END -->
+ - [Woman wins $200,000 case after her phone started a house fire while charging](https://www.androidauthority.com/phone-charging-house-fire-payout-3584693/)
+ - [Apple exempt from 100% semiconductor tariffs, thanks to its $100B U.S. investment](https://appleinsider.com/articles/25/08/06/apple-exempt-from-100-semiconductor-tariffs-thanks-to-its-100b-us-investment?utm_source=rss)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
