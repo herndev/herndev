@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back on the menu!](http://9gag.com/gag/axy4yn2)
- - ⏩ [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 👉 [He got canned](http://9gag.com/gag/a9yBzYo)<!-- MEMES:END -->
+ - 💣 [Rest in Piss](http://9gag.com/gag/agmjQdn)
+ - ⏩ [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
 
 ---
 
