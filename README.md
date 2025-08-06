@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
- - ⏩ [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 👉 [Hee hee](http://9gag.com/gag/aE0EMpx)<!-- MEMES:END -->
+ - 💣 [Boom!](http://9gag.com/gag/a9yB68K)
+ - ⏩ [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
+ - 👉 [Final destination is so unrealistic...](http://9gag.com/gag/a6Z8DLL)<!-- MEMES:END -->
 
 ---
 
