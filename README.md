@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
- - ⏩ [Rome has fallen](http://9gag.com/gag/a9yBzPD)
- - 👉 [Call to regroup](http://9gag.com/gag/aVvBgX8)<!-- MEMES:END -->
+ - 💣 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
+ - ⏩ [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
+ - 👉 [Its Morphin time. Black ranger](http://9gag.com/gag/aD2M6WZ)<!-- MEMES:END -->
 
 ---
 
