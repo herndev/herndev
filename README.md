@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s only taken six months but at long last, AMD&#39;s Adrenaline driver has FSR 4 support for Cyberpunk 2077](https://www.pcgamer.com/hardware/graphics-cards/its-only-taken-six-months-but-at-long-last-amds-adrenaline-driver-has-fsr-4-support-for-cyberpunk-2077/)
- - [The next videogame getting its own tabletop RPG is Diablo, an RPG that doesn&#39;t have any RP in it](https://www.pcgamer.com/games/rpg/the-next-videogame-getting-its-own-tabletop-rpg-is-diablo-an-rpg-that-doesnt-have-any-rp-in-it/)
- - [PSA: Persona 5 Royal is cheaper than it&#39;s ever been on PC right now, and you get 7 other games thrown in](https://www.pcgamer.com/games/rpg/psa-persona-5-royale-is-cheaper-than-its-ever-been-on-pc-right-now-and-you-get-7-other-games-thrown-in/)<!-- GAME:END -->
+ - [&#39;I won&#39;t show those illustrations to anyone as long as I live&#39;: Nintendo of America suggested giving Pikachu &#39;huge breasts&#39; when Pokémon first came to the US, and no, it wasn&#39;t a mistranslation](https://www.pcgamer.com/games/card-games/i-wont-show-those-illustrations-to-anyone-as-long-as-i-live-nintendo-of-america-suggested-giving-pikachu-huge-breasts-when-pokemon-first-came-to-the-us-and-no-it-wasnt-a-mistranslation/)
+ - [Security researcher quips maybe it&#39;s time to get &#39;a real job&#39; after being paid meagre $1,000 bug bounty by Apple](https://www.pcgamer.com/hardware/security-researcher-quips-maybe-its-time-to-get-a-real-job-after-being-paid-meagre-usd1-000-bug-bounty-by-apple/)
+ - [Ryzens and Radeons revitalise AMD&#39;s revenues but export restrictions delete data center profits, causing share prices to slip](https://www.pcgamer.com/hardware/ryzens-and-radeons-revitalise-amds-revenues-but-export-restrictions-delete-data-center-profits-causing-share-prices-to-slip/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
