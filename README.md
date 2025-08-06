@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RTS sequel Ashes of the Singularity 2 promises to let you gleefully watch hundreds of thousands of units blow each other up in 2026](https://www.pcgamer.com/games/strategy/rts-sequel-ashes-of-the-singularity-2-promises-to-let-you-gleefully-watch-hundreds-of-thousands-of-units-blow-each-other-up-in-2026/)
- - [Where to find milkweed tufts and chunks in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-milkweed-tuft-chunk-locations/)
- - [Rockstar co-founder&#39;s new open-world sci-fi game gets publisher](https://www.polygon.com/rockstar-games-founder-dan-houser-absurd-ventures-smilegate/)<!-- GAME:END -->
+ - [Black woman finally cast in anime dub as a Black character who actually sounds Black](https://www.polygon.com/gachiakuta-anime-semiu-voice-actress-kenneisha-thompson/)
+ - [NBA 2K26 captures authentic NBA presentation with new improvements](https://blog.playstation.com/2025/08/06/nba-2k26-captures-authentic-nba-presentation-with-new-improvements/)
+ - [Wander Stars and the Power of Words: How the Japanese Belief of Kotodama Shaped a Battle System](https://news.xbox.com/en-us/2025/08/06/wander-stars/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
