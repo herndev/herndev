@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rest in Piss](http://9gag.com/gag/agmjQdn)
- - ⏩ [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
- - 👉 [Boom!](http://9gag.com/gag/a9yB68K)<!-- MEMES:END -->
+ - 💣 [Back on the menu!](http://9gag.com/gag/axy4yn2)
+ - ⏩ [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 👉 [He got canned](http://9gag.com/gag/a9yBzYo)<!-- MEMES:END -->
 
 ---
 
