@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft makes OpenAI’s new open model available on Windows](https://www.theverge.com/news/719640/microsoft-openai-gpt-oss-open-model-windows-ai-foundry-release)
- - [Court records: from 2017 to 2022, 400,181 US Uber trips had sexual assault and sexual misconduct reports, far exceeding its public disclosure of 12,522 reports &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/250806/p14#a250806p14)
- - [The Ampace Andes 1500 Power Station is my go-to portable power station for picnics and camping](https://www.androidauthority.com/ampace-andes-1500-power-station-review-3582361/)<!-- TECH:END -->
+ - [Galaxy S26 Edge leak reveals just how thin Samsung’s next Edge could be](https://www.androidauthority.com/samsung-galaxy-s26-edge-thin-design-leak-3584428/)
+ - [August 6, 1997 -- The day Apple and Microsoft made peace](https://appleinsider.com/articles/18/08/06/august-6-1997----the-day-apple-and-microsoft-made-peace?utm_source=rss)
+ - [This new Android security feature could interfere with fast charging, and here’s why](https://www.androidauthority.com/advanced-protection-for-usb-fast-charging-3584219/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
