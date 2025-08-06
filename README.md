@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The War Within: Ghosts of K’aresh is Now Live!](https://worldofwarcraft.blizzard.com/en-us/news/24226730#new_tab)
- - [Finally, a game that makes Marvel superheroes exciting again](https://www.pcgamer.com/games/action/finally-a-game-that-makes-marvel-superheroes-exciting-again/)
- - [Street Fighter 6 doubles in players after adding Chun Li swimsuit skin](https://www.polygon.com/street-fighter-6-chun-li-costume-outfit-swimsuit-4-august-update-fan/)<!-- GAME:END -->
+ - [All the games leaving Xbox Game Pass this month &lpar;August 2025&rpar;](https://www.polygon.com/xbox-games-leaving-game-pass-august-2025/)
+ - [Original Guitar Hero Devs Are Back With A New Game](https://kotaku.com/guitar-hero-devs-redoctane-new-studio-embracer-trailer-2000616027)
+ - [MrBeast Wants To Recreate Hunger Games In Real Life: ‘I Think That Would Crush’](https://kotaku.com/mrbeast-hunger-games-today-show-interview-real-life-2000616029)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
