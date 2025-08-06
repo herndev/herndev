@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab Active 5 rugged tablet drops to new record-low price!](https://www.androidauthority.com/samsung-galaxy-tab-active-5-deal-3584282/)
- - [Google is rolling out a fix for Pixel back button issues](https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16)
- - [Linda Yaccarino is named CEO of digital health platform eMed Population Health less than a month after stepping down as CEO of X &lpar;Reuters&rpar;](http://www.techmeme.com/250805/p47#a250805p47)<!-- TECH:END -->
+ - [Save $100-$200 on most Google Pixel 9 series phones](https://www.androidauthority.com/google-pixel-9a-9-9-pro-deals-3584281/)
+ - [Sources: AI video startup Runway is looking to raise ~$500M at a $5B+ pre-money valuation; rival Luma AI aims to raise $1.1B+ at a $3.2B+ pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/250805/p48#a250805p48)
+ - [Samsung Acknowledges Its &#39;Upcoming&#39; Tri-Fold Phone on Earnings Call](https://www.cnet.com/tech/mobile/samsung-acknowledges-its-upcoming-tri-fold-phone-on-earnings-call/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
