@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose&amp;#8217;s stylish SoundLink Home speaker is cheaper for the first time in months](https://www.theverge.com/tech/719712/boses-stylish-soundlink-home-speaker-is-cheaper-for-the-first-time-in-months)
- - [Call of Duty&amp;#8217;s PC anti-cheat will require Secure Boot on Windows](https://www.theverge.com/news/720007/call-of-duty-pc-anti-cheat-secure-boot-windows-black-ops-7)
- - [Google launches its asynchronous coding agent Jules out of beta, with a free plan capped at 15 daily tasks and higher limits for Google AI Pro and Ultra users &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250806/p26#a250806p26)<!-- TECH:END -->
+ - [Smartsheet says Mark Mader will retire as CEO and from the board of directors at the end of September, and names Apptio co-founder Sunny Gupta as acting CEO &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250806/p30#a250806p30)
+ - [I tested Grok’s Valentine sex chatbot and it &lpar;mostly&rpar; behaved](https://www.theverge.com/ai-artificial-intelligence/719913/grok-valentine-test)
+ - [Google swears it isn’t destroying the web with AI search](https://www.theverge.com/news/720069/google-ai-overviews-search-web-traffic-stable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
