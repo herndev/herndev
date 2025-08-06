@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 Edge leak reveals just how thin Samsung’s next Edge could be](https://www.androidauthority.com/samsung-galaxy-s26-edge-thin-design-leak-3584428/)
- - [August 6, 1997 -- The day Apple and Microsoft made peace](https://appleinsider.com/articles/18/08/06/august-6-1997----the-day-apple-and-microsoft-made-peace?utm_source=rss)
- - [This new Android security feature could interfere with fast charging, and here’s why](https://www.androidauthority.com/advanced-protection-for-usb-fast-charging-3584219/)<!-- TECH:END -->
+ - [Investigation: Israel&#39;s Unit 8200 built a system to collect millions of mobile phone calls made daily in Gaza and the West Bank using Microsoft&#39;s Azure platform &lpar;The Guardian&rpar;](http://www.techmeme.com/250806/p19#a250806p19)
+ - [Android may soon get its own version of Apple’s Hot Corners on Macs](https://www.androidauthority.com/android-action-corners-leak-3584262/)
+ - [What to Know About Traveling to China for Business](https://www.wired.com/story/how-to-travel-to-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
