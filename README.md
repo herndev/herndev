@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar co-founder&#39;s new open-world sci-fi game gets publisher](https://www.polygon.com/rockstar-games-founder-dan-houser-absurd-ventures-smilegate/)
- - [&#39;There is no such thing as a good secret backdoor,&#39; says Nvidia, reiterating that there are no kill switches, spyware, or secret ways to access its GPUs](https://www.pcgamer.com/hardware/there-is-no-such-thing-as-a-good-secret-backdoor-says-nvidia-reiterating-that-there-are-no-kill-switches-spyware-or-secret-ways-to-access-its-gpus/)
- - [War of the Worlds &lpar;2025&rpar; review: Ice Cube&#39;s sci-fi flops on Amazon Prime](https://www.polygon.com/war-of-the-worlds-2025-ice-cube-review/)<!-- GAME:END -->
+ - [RTS sequel Ashes of the Singularity 2 promises to let you gleefully watch hundreds of thousands of units blow each other up in 2026](https://www.pcgamer.com/games/strategy/rts-sequel-ashes-of-the-singularity-2-promises-to-let-you-gleefully-watch-hundreds-of-thousands-of-units-blow-each-other-up-in-2026/)
+ - [Where to find milkweed tufts and chunks in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-milkweed-tuft-chunk-locations/)
+ - [Rockstar co-founder&#39;s new open-world sci-fi game gets publisher](https://www.polygon.com/rockstar-games-founder-dan-houser-absurd-ventures-smilegate/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
