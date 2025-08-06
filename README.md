@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I won&#39;t show those illustrations to anyone as long as I live&#39;: Nintendo of America suggested giving Pikachu &#39;huge breasts&#39; when Pokémon first came to the US, and no, it wasn&#39;t a mistranslation](https://www.pcgamer.com/games/card-games/i-wont-show-those-illustrations-to-anyone-as-long-as-i-live-nintendo-of-america-suggested-giving-pikachu-huge-breasts-when-pokemon-first-came-to-the-us-and-no-it-wasnt-a-mistranslation/)
- - [Security researcher quips maybe it&#39;s time to get &#39;a real job&#39; after being paid meagre $1,000 bug bounty by Apple](https://www.pcgamer.com/hardware/security-researcher-quips-maybe-its-time-to-get-a-real-job-after-being-paid-meagre-usd1-000-bug-bounty-by-apple/)
- - [Ryzens and Radeons revitalise AMD&#39;s revenues but export restrictions delete data center profits, causing share prices to slip](https://www.pcgamer.com/hardware/ryzens-and-radeons-revitalise-amds-revenues-but-export-restrictions-delete-data-center-profits-causing-share-prices-to-slip/)<!-- GAME:END -->
+ - [Demand has been &#39;very strong&#39; and &#39;outpaced supply&#39; for AMD&#39;s RX 9000-series cards according to CEO Dr. Lisa Su, as anyone who&#39;s tried to buy one can attest](https://www.pcgamer.com/hardware/graphics-cards/demand-has-been-very-strong-and-outpaced-supply-for-amds-rx-9000-series-cards-according-to-ceo-dr-lisa-su-as-anyone-whos-tried-to-buy-one-can-attest/)
+ - [Genshin Impact Is Ending All Support For PS4](https://kotaku.com/genshin-impact-ps4-ps5-hoyoverse-support-2000615960)
+ - [Microsoft&#39;s anniversary edition Windows XP-themed Crocs are definitely a look, but I&#39;m not entirely sure I could carry them off](https://www.pcgamer.com/software/windows/microsofts-anniversary-edition-xp-themed-crocs-are-definitely-a-look-but-im-not-entirely-sure-i-could-carry-them-off/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
