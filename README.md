@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to back up your Mac under macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-back-up-your-mac-under-macos-tahoe?utm_source=rss)
- - [You’re not going crazy: YouTube’s playback speed controls are broken on Android](https://www.androidauthority.com/youtube-playback-speed-controls-android-broken-3584316/)
- - [The Trump administration is warning states that they risk losing access to broadband funds if they set price caps on low-cost ISP plans &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250805/p50#a250805p50)<!-- TECH:END -->
+ - [The &quot;spicy&quot; option on Grok&#39;s new generative AI video tool Imagine produces nude deepfakes of celebrities like Taylor Swift, even without explicit user prompting &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250806/p1#a250806p1)
+ - [AMD Q2: data center revenue up 14% YoY to $3.2B, as CEO Lisa Su says AI chip revenue fell YoY due to US export curbs on China and the transition to MI350 chips &lpar;Reuters&rpar;](http://www.techmeme.com/250805/p53#a250805p53)
+ - [Sources: China held talks about merging a group of chip equipment makers into a national champion but faced pushback over ownership structure and valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250805/p52#a250805p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
