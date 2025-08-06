@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Studio Head Weighs In On Ethical AI Use](https://kotaku.com/microsoft-xbox-ai-clockwork-revolution-brian-fargo-inxile-2000616038)
- - [Hulu to fold into Disney Plus by 2026, new price unknown](https://www.polygon.com/hulu-ending-disney-plus-2026/)
- - [A 1-minute investigation into Pikachu&#39;s big breasts](https://www.polygon.com/video/1-minute-investigation-into-pikachus-breast/)<!-- GAME:END -->
+ - [Nintendo Of America Once Suggested Pokémon Company Should Give Pikachu Big Naturals, It’s Claimed](https://kotaku.com/pokemon-company-pikachu-nintendo-america-breasts-design-2000616048)
+ - [Humble Bundle&#39;s new Warner Bros. collection has 15 really good games, plus Suicide Squad, for just $12](https://www.pcgamer.com/games/humble-bundles-new-warner-bros-collection-has-15-really-good-games-plus-suicide-squad-for-just-usd12/)
+ - [Think you can guess the PC game just from its crates? Try to smash our latest quiz!](https://www.pcgamer.com/games/think-you-can-guess-the-pc-game-just-from-its-crates-try-to-smash-our-latest-quiz/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
