@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Demand has been &#39;very strong&#39; and &#39;outpaced supply&#39; for AMD&#39;s RX 9000-series cards according to CEO Dr. Lisa Su, as anyone who&#39;s tried to buy one can attest](https://www.pcgamer.com/hardware/graphics-cards/demand-has-been-very-strong-and-outpaced-supply-for-amds-rx-9000-series-cards-according-to-ceo-dr-lisa-su-as-anyone-whos-tried-to-buy-one-can-attest/)
- - [Genshin Impact Is Ending All Support For PS4](https://kotaku.com/genshin-impact-ps4-ps5-hoyoverse-support-2000615960)
- - [Microsoft&#39;s anniversary edition Windows XP-themed Crocs are definitely a look, but I&#39;m not entirely sure I could carry them off](https://www.pcgamer.com/software/windows/microsofts-anniversary-edition-xp-themed-crocs-are-definitely-a-look-but-im-not-entirely-sure-i-could-carry-them-off/)<!-- GAME:END -->
+ - [Rockstar co-founder&#39;s new open-world sci-fi game gets publisher](https://www.polygon.com/rockstar-games-founder-dan-houser-absurd-ventures-smilegate/)
+ - [&#39;There is no such thing as a good secret backdoor,&#39; says Nvidia, reiterating that there are no kill switches, spyware, or secret ways to access its GPUs](https://www.pcgamer.com/hardware/there-is-no-such-thing-as-a-good-secret-backdoor-says-nvidia-reiterating-that-there-are-no-kill-switches-spyware-or-secret-ways-to-access-its-gpus/)
+ - [War of the Worlds &lpar;2025&rpar; review: Ice Cube&#39;s sci-fi flops on Amazon Prime](https://www.polygon.com/war-of-the-worlds-2025-ice-cube-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
