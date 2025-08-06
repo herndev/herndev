@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [R.I.P](http://9gag.com/gag/apR8R0M)
- - ⏩ [The secret ingredient\u2026 is crime. What the hell was she thinking?](http://9gag.com/gag/aPAnAZK)
- - 👉 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)<!-- MEMES:END -->
+ - 💣 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
+ - ⏩ [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 👉 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)<!-- MEMES:END -->
 
 ---
 
