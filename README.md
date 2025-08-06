@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’re the software head for Google Pixel: What would you add, revive, or copy from other phones?](https://www.androidauthority.com/google-pixel-software-features-open-thread-3584349/)
- - [Lyric, which offers AI-powered supply chain management and forecasting tools, raised a $43.5M Series B led by Insight Partners, taking its total funding to $67M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250806/p8#a250806p8)
- - [Cincinnati-based Pantomath, which automates enterprise data operations using AI, raised a $30M Series B led by General Catalyst, after a $14M Series A in 2023 &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250806/p7#a250806p7)<!-- TECH:END -->
+ - [Analyst: China summoning Nvidia over alleged H20 security risks shows it &quot;wants to use the Nvidia case to show China is a buyer, but it won&#39;t be a blind buyer&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p11#a250806p11)
+ - [The Galaxy S20 Ultra is officially unsupported, but it just got one more update](https://www.androidauthority.com/samsung-galaxy-s20-ultra-unsupported-update-3584382/)
+ - [Nvidia says its GPUs do not contain backdoors, kill switches, or spyware, and hard-coded, single-point controls like kill switches undermine trust in US tech &lpar;David Reber Jr/NVIDIA&rpar;](http://www.techmeme.com/250806/p10#a250806p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
