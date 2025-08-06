@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smartsheet says Mark Mader will retire as CEO and from the board of directors at the end of September, and names Apptio co-founder Sunny Gupta as acting CEO &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250806/p30#a250806p30)
- - [I tested Grok’s Valentine sex chatbot and it &lpar;mostly&rpar; behaved](https://www.theverge.com/ai-artificial-intelligence/719913/grok-valentine-test)
- - [Google swears it isn’t destroying the web with AI search](https://www.theverge.com/news/720069/google-ai-overviews-search-web-traffic-stable)<!-- TECH:END -->
+ - [Run ChatGPT-style AI on your Mac with OpenAI&#39;s new offline tools](https://appleinsider.com/articles/25/08/06/run-chatgpt-style-ai-on-your-mac-with-openais-new-offline-tools?utm_source=rss)
+ - [Tornado Cash Developer Roman Storm Guilty on One Count in Federal Crypto Case](https://www.wired.com/story/tornado-cash-developer-roman-storm-guilty-on-one-count-in-federal-crypto-case/)
+ - [Android 16 lets the Linux Terminal use your phone’s entire storage](https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
