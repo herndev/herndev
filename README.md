@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the games leaving Xbox Game Pass this month &lpar;August 2025&rpar;](https://www.polygon.com/xbox-games-leaving-game-pass-august-2025/)
- - [Original Guitar Hero Devs Are Back With A New Game](https://kotaku.com/guitar-hero-devs-redoctane-new-studio-embracer-trailer-2000616027)
- - [MrBeast Wants To Recreate Hunger Games In Real Life: ‘I Think That Would Crush’](https://kotaku.com/mrbeast-hunger-games-today-show-interview-real-life-2000616029)<!-- GAME:END -->
+ - [Xbox Studio Head Weighs In On Ethical AI Use](https://kotaku.com/microsoft-xbox-ai-clockwork-revolution-brian-fargo-inxile-2000616038)
+ - [Hulu to fold into Disney Plus by 2026, new price unknown](https://www.polygon.com/hulu-ending-disney-plus-2026/)
+ - [A 1-minute investigation into Pikachu&#39;s big breasts](https://www.polygon.com/video/1-minute-investigation-into-pikachus-breast/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
