@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI drug discovery startup Chai Discovery raised a $70M Series A led by Menlo Ventures via its co-investment vehicle with Anthropic, valuing it at ~$550M &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250806/p33#a250806p33)
- - [Samsung just quietly started selling the Galaxy Buds 3 FE](https://www.androidauthority.com/samsung-galaxy-buds-3-fe-on-sale-3584564/)
- - [Apollo Global agrees to acquire a majority stake in Stream Data Centers, which builds, leases, and operates data center campuses, in its first such acquisition &lpar;Laura Benitez/Bloomberg&rpar;](http://www.techmeme.com/250806/p32#a250806p32)<!-- TECH:END -->
+ - [Apple&#39;s existing U.S. manufacturing partners main beneficiaries of new $100B investment](https://appleinsider.com/articles/25/08/06/apples-existing-us-manufacturing-partners-main-beneficiaries-of-new-100b-investment?utm_source=rss)
+ - [Lyft reports Q2 revenue up 11% YoY to $1.59B vs. $1.61B est., gross bookings up 12% to $4.5B, rides up 14% to 234.8M vs. 235.9M est.; LYFT drops 6%+ after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250806/p36#a250806p36)
+ - [WB Games’ best PC titles are in this $12 Humble bundle](https://www.theverge.com/tech/720211/humble-bundle-wb-games-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
