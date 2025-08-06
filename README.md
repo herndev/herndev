@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gaming Copilot &lpar;Beta&rpar; Begins Rolling Out to Xbox Insiders on Game Bar Today](https://news.xbox.com/en-us/2025/08/06/gaming-copilot-beta-begins-rolling-out-to-xbox-insiders-on-game-bar-today/)
- - [Finally, Dinosaurs Are Officially Being Added To Microsoft Flight Sim 2024](https://kotaku.com/jurassic-world-park-microsoft-flight-sim-2024-expansion-add-on-trailer-2000616004)
- - [The next Everdark Sovereign for Elden Ring Nightreign has been announced, and players are already placing bets on what its third phase will be](https://www.pcgamer.com/games/rpg/the-next-everdark-sovereign-for-elden-ring-nightreign-has-been-announced-and-players-are-already-placing-bets-on-what-its-third-phase-will-be/)<!-- GAME:END -->
+ - [The War Within: Ghosts of K’aresh is Now Live!](https://worldofwarcraft.blizzard.com/en-us/news/24226730#new_tab)
+ - [Finally, a game that makes Marvel superheroes exciting again](https://www.pcgamer.com/games/action/finally-a-game-that-makes-marvel-superheroes-exciting-again/)
+ - [Street Fighter 6 doubles in players after adding Chun Li swimsuit skin](https://www.polygon.com/street-fighter-6-chun-li-costume-outfit-swimsuit-4-august-update-fan/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
