@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
- - ⏩ [He got canned](http://9gag.com/gag/a9yBzYo)
+ - 💣 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)
+ - ⏩ [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
  - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
 
 ---
