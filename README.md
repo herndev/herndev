@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks like admission](http://9gag.com/gag/aO8Gxe2)
- - ⏩ [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
- - 👉 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)<!-- MEMES:END -->
+ - 💣 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
+ - ⏩ [Right in the feels](http://9gag.com/gag/a2vGMmO)
+ - 👉 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)<!-- MEMES:END -->
 
 ---
 
