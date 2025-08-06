@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)
+ - 💣 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
  - ⏩ [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
- - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
+ - 👉 [Right in the feels](http://9gag.com/gag/a2vGMmO)<!-- MEMES:END -->
 
 ---
 
