@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filings: Indian agencies ordered X to remove ~1,400 posts or accounts from March 2024 to June 2025, as X and Modi&#39;s government clash over content rules &lpar;Reuters&rpar;](http://www.techmeme.com/250806/p5#a250806p5)
- - [China plans to allow its first stablecoins in a bid to internationalize the CNY, as policymakers warn that dollar-backed tokens cement USD&#39;s global dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250806/p4#a250806p4)
- - [YouTube’s playback speed controls are broken on Android &lpar;Updated: Official confirmation&rpar;](https://www.androidauthority.com/youtube-playback-speed-controls-android-broken-3584316/)<!-- TECH:END -->
+ - [You’re the software head for Google Pixel: What would you add, revive, or copy from other phones?](https://www.androidauthority.com/google-pixel-software-features-open-thread-3584349/)
+ - [Lyric, which offers AI-powered supply chain management and forecasting tools, raised a $43.5M Series B led by Insight Partners, taking its total funding to $67M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250806/p8#a250806p8)
+ - [Cincinnati-based Pantomath, which automates enterprise data operations using AI, raised a $30M Series B led by General Catalyst, after a $14M Series A in 2023 &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250806/p7#a250806p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
