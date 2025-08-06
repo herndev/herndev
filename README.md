@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Democrats Think the Party Needs AI to Win Elections](https://www.wired.com/story/democrats-midterm-elections-ai/)
- - [The Business Traveler of Today Is Changing—and So Is Their Flight Map](https://www.wired.com/story/business-travel-flight-map/)
- - [Five men allegedly impersonated FBI agents to pilfer iPhones](https://appleinsider.com/articles/25/08/06/five-men-allegedly-impersonated-fbi-agents-to-pilfer-iphones?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft is bringing its Xbox Copilot to the Windows Game Bar](https://www.theverge.com/news/719668/microsoft-xbox-gaming-copilot-windows-game-bar-beta-test)
+ - [The best phone to buy right now](https://www.theverge.com/719936/best-phone)
+ - [This carrier now has a lock system that prevents you from using Developer Options](https://www.androidauthority.com/cricket-unlock-system-motorola-3584447/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
