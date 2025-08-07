@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG Promo Codes: 20% Off | August 2025](https://www.wired.com/story/lg-promo-code/)
- - [Sources: Apple lost around a dozen of its AI staff, including top researchers, to rivals in recent months; its core foundation models team has ~50 to 60 people &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250807/p2#a250807p2)
- - [Toronto-based Blue J, which provides AI-powered tax research software, raised a $122M Series D led by Oak HC/FT and Sapphire Ventures at a $300M+ valuation &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250807/p1#a250807p1)<!-- TECH:END -->
+ - [Sources: Samsung to produce image sensors for iPhone 18 in Austin, Texas; an expert says Apple picked Samsung as a supplier because Sony doesn&#39;t have US plants &lpar;Financial Times&rpar;](http://www.techmeme.com/250807/p4#a250807p4)
+ - [Samsung will soon make chips for iPhones in the US](https://www.androidauthority.com/samsung-apple-iphone-chips-3584729/)
+ - [Taiwan says TSMC will not have to pay 100% tariffs on US chip imports, as it has set up US plants; UMC may see reduced impact through its cooperation with Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/250807/p3#a250807p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
