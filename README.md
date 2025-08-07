@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub CEO Thomas Dohmke on Copilot, vibe coding, and AI’s next chapter](https://www.theverge.com/decoder-podcast-with-nilay-patel/720075/github-ceo-thomas-dohmke-ai-coding-copilot-openai-interview)
- - [Digital Foundry, the most trusted name in game console analysis, is going independent](https://www.theverge.com/games/743535/digital-foundry-game-console-analysis-going-independent)
- - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [The Framework Desktop made me fall for small form factor PCs](https://www.theverge.com/reviews/749404/framework-desktop-pc-amd-ryzen-ai-max-385-395-plus-review)
+ - [Trump’s endless new tariffs are threatening businesses — and you](https://www.theverge.com/policy/754356/trump-reciprocal-tariffs-august)
+ - [DJI’s first robovac features drone tech and a transparent design](https://www.theverge.com/news/754168/dji-romo-robot-vacuum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
