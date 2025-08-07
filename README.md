@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Of America Once Suggested Pokémon Company Should Give Pikachu Big Naturals, It’s Claimed](https://kotaku.com/pokemon-company-pikachu-nintendo-america-breasts-design-2000616048)
- - [Humble Bundle&#39;s new Warner Bros. collection has 15 really good games, plus Suicide Squad, for just $12](https://www.pcgamer.com/games/humble-bundles-new-warner-bros-collection-has-15-really-good-games-plus-suicide-squad-for-just-usd12/)
- - [Think you can guess the PC game just from its crates? Try to smash our latest quiz!](https://www.pcgamer.com/games/think-you-can-guess-the-pc-game-just-from-its-crates-try-to-smash-our-latest-quiz/)<!-- GAME:END -->
+ - [I hate boss fights and you&#39;ll never convince me they&#39;re good &lpar;because they&#39;re not&rpar;](https://www.pcgamer.com/games/i-hate-boss-fights-and-youll-never-convince-me-theyre-good-because-theyre-not/)
+ - [Anthem&#39;s former executive producer says BioWare was so good at telling stories that its original Anthem pitch convinced EA to greenlight a game it couldn&#39;t deliver: &#39;Maybe there wasn&#39;t anything behind the very evocative statement&#39;](https://www.pcgamer.com/games/third-person-shooter/anthems-former-executive-producer-says-bioware-was-so-good-at-telling-stories-that-its-original-anthem-pitch-convinced-ea-to-greenlight-a-game-it-couldnt-deliver-maybe-there-wasnt-anything-behind-the-very-evocative-statement/)
+ - [QuakeCon 2025’s Steam Sale Is Packed With Big Deals On Great PC Games](https://kotaku.com/quakecon-2025s-steam-sale-is-packed-with-big-deals-on-great-pc-games-2000616059)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
