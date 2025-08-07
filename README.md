@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Monkey is streaming now on Hulu, but is it worth watching?](https://www.polygon.com/the-monkey-hulu-streaming/)
- - [Trump says Intel CEO &#39;must immediately resign&#39; as US senator questions Lip Bu Tan&#39;s China ties](https://www.pcgamer.com/hardware/processors/trump-says-intel-ceo-must-immediately-resign-as-us-senator-questions-lip-bu-tans-china-ties/)
- - [Acer&#39;s net income is up 110% in the past few months despite the Trump administration&#39;s tariffs and of course it&#39;s promising more &#39;AI solutions&#39; to come](https://www.pcgamer.com/hardware/acers-net-income-is-up-110-percent-in-the-past-few-months-despite-the-trump-administrations-tariffs-and-of-course-its-promising-more-ai-solutions-to-come/)<!-- GAME:END -->
+ - [Mafia: The Old Country Reviews Say It’s Mostly Good Enough](https://kotaku.com/mafia-old-country-reviews-metacritic-roundup-ps5-2000616275)
+ - [Annalee Newitz&#39;s new sci-fi novel covers everything from robot gender to the perfect noodle](https://www.polygon.com/annalee-newitz-automatic-noodle-preview-cozy-sci-fi-robot-novel/)
+ - [UFO 50 releases on Nintendo Switch in Indie World Showcase twist](https://www.polygon.com/ufo-50-nintendo-switch-release/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
