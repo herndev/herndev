@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This is good](http://9gag.com/gag/a87zmVZ)
- - ⏩ [Final Feliz.](http://9gag.com/gag/aO8G4or)
- - 👉 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)<!-- MEMES:END -->
+ - ⏩ [Juggernaut](http://9gag.com/gag/aGyb8MZ)
+ - 👉 [Nature is healing](http://9gag.com/gag/ayNP4XW)<!-- MEMES:END -->
 
 ---
 
