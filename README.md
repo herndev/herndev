@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Male Friendship in 10 seconds..!!](http://9gag.com/gag/avymW6M)
- - ⏩ [Peak Male Performance](http://9gag.com/gag/a5QDBog)
- - 👉 [I&#39;m with Brad on this ond](http://9gag.com/gag/aMVyBxV)<!-- MEMES:END -->
+ - 💣 [Hot facial &lpar;hair&rpar; from 2017 #33](http://9gag.com/gag/aGybLD6)
+ - ⏩ [Treasure](http://9gag.com/gag/abAEeZp)
+ - 👉 [Life is great in LA](http://9gag.com/gag/aQzVgNq)<!-- MEMES:END -->
 
 ---
 
