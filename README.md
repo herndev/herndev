@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m sick of the survival crafting &#39;Cube&#39; and calling the gamer HOA on all of you](https://www.pcgamer.com/games/survival-crafting/im-sick-of-the-survival-crafting-cube-and-calling-the-gamer-hoa-on-all-of-you/)
- - [The Biggest id Software News from QuakeCon 2025](https://slayersclub.bethesda.net/en-US/article/quakecon-2025-news#new_tab)
- - [It looks like Microsoft&#39;s cuts got another one: Avalanche has stopped work on its 1970s smuggling sim Contraband to &#39;evaluate the project&#39;s future&#39;](https://www.pcgamer.com/gaming-industry/it-looks-like-microsofts-cuts-got-another-one-avalanche-has-stopped-work-on-its-1970s-smuggling-sim-contraband-to-evaluate-the-projects-future/)<!-- GAME:END -->
+ - [Become One with the Ninja: Unpacking Ninja Gaiden 4’s Deep, Immersive Allure](https://news.xbox.com/en-us/2025/08/07/ninja-gaiden-4-deep-immersive-allure/)
+ - [Just 2 weeks after its release, this Diablo-style roguelike has already reworked its entire campaign to please action RPG fans looking for a challenge](https://www.pcgamer.com/games/action/just-2-weeks-after-its-release-this-diablo-style-roguelike-has-already-reworked-its-entire-campaign-to-please-action-rpg-fans-looking-for-a-challenge/)
+ - [Finally, I can get a straight flush with cabbages: Our favorite idle farming sim just got a Balatro crossover](https://www.pcgamer.com/games/sim/finally-i-can-get-a-straight-flush-with-cabbages-our-favorite-idle-farming-sim-just-got-a-balatro-crossover/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
