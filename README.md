@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is good](http://9gag.com/gag/a87zmVZ)
- - ⏩ [Juggernaut](http://9gag.com/gag/aGyb8MZ)
+ - 💣 [Sometimes it&#39;s good to be dishonest](http://9gag.com/gag/aVvBENK)
+ - ⏩ [This is good](http://9gag.com/gag/a87zmVZ)
  - 👉 [Nature is healing](http://9gag.com/gag/ayNP4XW)<!-- MEMES:END -->
 
 ---
