@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
- - ⏩ [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
- - 👉 [Never Don&#39;t Give Up](http://9gag.com/gag/avym1vd)<!-- MEMES:END -->
+ - ⏩ [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
+ - 👉 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)<!-- MEMES:END -->
 
 ---
 
