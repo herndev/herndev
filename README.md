@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is cautiously onboarding Grok 4 following Hitler concerns](https://www.theverge.com/notepad-microsoft-newsletter/754647/microsoft-grok-4-roll-out-private-preview-notepad)
- - [Tired of scrolling through your messy notes? Google Keep is fixing that](https://www.androidauthority.com/google-keep-sort-feature-3584942/)
- - [Google Lens just made this easily overlooked option impossible to ignore](https://www.androidauthority.com/google-lens-voice-search-3584937/)<!-- TECH:END -->
+ - [A livestream of OpenAI&#39;s GPT-5 announcement &lpar;OpenAI on YouTube&rpar;](http://www.techmeme.com/250807/p28#a250807p28)
+ - [GPT-5 is being released to all ChatGPT users](https://www.theverge.com/openai/748017/gpt-5-chatgpt-openai-release)
+ - [Senators are trying to force ISPs to block all foreign pirate sites](https://www.theverge.com/news/754987/senators-foreign-piracy-sites-block-beard-act)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
