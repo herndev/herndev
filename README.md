@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wondering who bought the Galaxy S25 Edge? Turns out, A lot of people did.](https://www.androidauthority.com/samsung-galaxy-s25-series-edge-sales-leak-3584735/)
- - [Q&amp;A with Anthropic CEO Dario Amodei on Anthropic&#39;s growth to ~$5B in ARR, focusing on B2B, AI talent wars, open-source models, safety regulations, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/250807/p9#a250807p9)
- - [Sen. Tom cotton sends a letter to Intel&#39;s board chair with questions about CEO Lip-Bu Tan&#39;s ties to China and subpoenas during his tenure as Cadence Design CEO &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250807/p8#a250807p8)<!-- TECH:END -->
+ - [OpenAI’s new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)
+ - [Apple just gifted Trump a 24k gold Gorilla Glass statue, and a $100 billion peace offering](https://www.androidauthority.com/apple-trump-corning-gorilla-glass-gold-statue-gift-3584745/)
+ - [Wondering who bought the Galaxy S25 Edge? Turns out, A lot of people did.](https://www.androidauthority.com/samsung-galaxy-s25-series-edge-sales-leak-3584735/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
