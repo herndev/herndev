@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bastion of sober videogame realism Microsoft Flight Simulator is about to get dinosaurs thanks to a Jurassic World crossover](https://www.pcgamer.com/games/sim/bastion-of-sober-videogame-realism-microsoft-flight-simulator-is-about-to-get-dinosaurs-thanks-to-a-jurassic-world-crossover/)
- - [Today&#39;s Wordle clues, hints and answer for August 7 &lpar;#1510&rpar;](https://www.pcgamer.com/wordle-answer-today-august-7-2025/)
- - [God game Fata Deum will bring back those sweet Black &amp; White vibes when it arrives in early access next month](https://www.pcgamer.com/games/sim/god-game-fata-deum-will-bring-back-those-sweet-black-and-white-vibes-when-it-arrives-in-early-access-next-month/)<!-- GAME:END -->
+ - [Bing&#39;s latest &#39;just doing Bing things&#39;: Searching for certain AI models in Microsoft&#39;s Edge browser earns you a plea to use Copilot](https://www.pcgamer.com/software/ai/bings-latest-just-doing-bing-things-searching-for-certain-ai-models-in-microsofts-edge-browser-earns-you-a-plea-to-use-copilot/)
+ - [Fortnite Chapter 6 Season 4 Shock &#39;n Awesome live launch coverage: all new weapons, locations and mechanics in battle royale](https://www.pcgamer.com/games/live/news/fortnite-chapter-6-season-4-shock-n-awesome-live-launch-coverage-all-new-weapons-locations-and-mechanics-in-battle-royale/)
+ - [Bastion of sober videogame realism Microsoft Flight Simulator is about to get dinosaurs thanks to a Jurassic World crossover](https://www.pcgamer.com/games/sim/bastion-of-sober-videogame-realism-microsoft-flight-simulator-is-about-to-get-dinosaurs-thanks-to-a-jurassic-world-crossover/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
