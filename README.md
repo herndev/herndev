@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mafia: The Old Country review: bleak, brilliant history](https://www.polygon.com/mafia-the-old-country-review/)
- - [Sony’s Sold 80 Million PS5s In Five Years, Dwarfing Xbox](https://kotaku.com/sony-sold-over-80-million-ps5-in-five-years-2000616264)
- - [Battlefield 6&#39;s open beta is already the most popular Battlefield of all time on Steam, and the platform&#39;s 44th most-played game ever](https://www.pcgamer.com/games/fps/battlefield-6s-open-beta-is-already-the-most-popular-battlefield-of-all-time-on-steam-and-the-platforms-44th-most-played-game-ever/)<!-- GAME:END -->
+ - [The Monkey is streaming now on Hulu, but is it worth watching?](https://www.polygon.com/the-monkey-hulu-streaming/)
+ - [Trump says Intel CEO &#39;must immediately resign&#39; as US senator questions Lip Bu Tan&#39;s China ties](https://www.pcgamer.com/hardware/processors/trump-says-intel-ceo-must-immediately-resign-as-us-senator-questions-lip-bu-tans-china-ties/)
+ - [Acer&#39;s net income is up 110% in the past few months despite the Trump administration&#39;s tariffs and of course it&#39;s promising more &#39;AI solutions&#39; to come](https://www.pcgamer.com/hardware/acers-net-income-is-up-110-percent-in-the-past-few-months-despite-the-trump-administrations-tariffs-and-of-course-its-promising-more-ai-solutions-to-come/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
