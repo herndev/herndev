@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes it&#39;s good to be dishonest](http://9gag.com/gag/aVvBENK)
- - ⏩ [This is good](http://9gag.com/gag/a87zmVZ)
- - 👉 [Nature is healing](http://9gag.com/gag/ayNP4XW)<!-- MEMES:END -->
+ - 💣 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
+ - ⏩ [Nature is healing](http://9gag.com/gag/ayNP4XW)
+ - 👉 [Sometimes it&#39;s good to be dishonest](http://9gag.com/gag/aVvBENK)<!-- MEMES:END -->
 
 ---
 
