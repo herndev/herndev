@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Welcome to dystopia: I helped ChatGPT pass a CAPTCHA and doomscroll my Facebook](https://www.androidauthority.com/chatgpt-agent-review-3583538/)
- - [State Department cable: Marco Rubio orders diplomats in Europe to lobby against the DSA, arguing it imposes free speech restrictions and high compliance costs &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/250807/p15#a250807p15)
- - [SoftBank reports Q1 net profit of $2.87B, vs. ~$850M est., boosted by its Nvidia investment and says Vision Fund has a &quot;late-stage portfolio valued at $45B&quot; &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250807/p14#a250807p14)<!-- TECH:END -->
+ - [The lawyer who beat Tesla is ready for ‘round two’](https://www.theverge.com/tesla/720157/tesla-death-lawsuit-verdict-lawyer-brett-schreiber-interview)
+ - [The EU says companies exporting chips to the US will face a 15% tariff ceiling despite President Trump&#39;s new &quot;approximately 100%&quot; chip levy announcement &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p19#a250807p19)
+ - [We asked Gemini for a story about the Pixel 10 launch and it hallucinated a bizarre foldable](https://www.androidauthority.com/pixel-10-gemini-storybook-3584273/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
