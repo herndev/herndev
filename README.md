@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 6 biggest changes coming to ChatGPT](https://www.theverge.com/news/756342/openai-chatgpt-gpt-5-update-biggest-changes)
- - [Brex says it has secured a license in the EU, allowing it to issue credit and debit cards and offer its spend management products to European customers &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250807/p37#a250807p37)
- - [Friendslop is coming for the Switch 2](https://www.theverge.com/games/756236/content-warning-coop-games-nintendo-switch-2-lethal-company)<!-- TECH:END -->
+ - [Block reports Q2 gross profit up 14% YoY to $2.54B, vs. $2.46B est., GPV up 10% to $64.25B, raises FY gross profit forecast to $10.17B; XYZ up 10%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250807/p40#a250807p40)
+ - [Trump signs an EO clearing a path to add alternative assets like PE and cryptocurrencies into 401&lpar;k&rpar;s, instructing the US Secretary of Labor to review guidance &lpar;Sarah Min/CNBC&rpar;](http://www.techmeme.com/250807/p39#a250807p39)
+ - [Samsung’s AI photo editor now lets you fake DSLR shots with a tap](https://www.androidauthority.com/galaxy-enhance-x-new-features-3585128/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
