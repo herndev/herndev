@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Remote IT worker scam involving 90 laptops and stolen identities generated $17 million in illicit revenue allegedly bound for North Korea&#39;s nuclear weapons program](https://www.pcgamer.com/hardware/remote-it-worker-scam-involving-90-laptops-and-stolen-identities-generated-usd17-million-in-illicit-revenue-allegedly-bound-for-north-koreas-nuclear-weapons-program/)
  - [Bing&#39;s latest &#39;just doing Bing things&#39;: Searching for certain AI models in Microsoft&#39;s Edge browser earns you a plea to use Copilot](https://www.pcgamer.com/software/ai/bings-latest-just-doing-bing-things-searching-for-certain-ai-models-in-microsofts-edge-browser-earns-you-a-plea-to-use-copilot/)
- - [Fortnite Chapter 6 Season 4 Shock &#39;n Awesome live launch coverage: all new weapons, locations and mechanics in battle royale](https://www.pcgamer.com/games/live/news/fortnite-chapter-6-season-4-shock-n-awesome-live-launch-coverage-all-new-weapons-locations-and-mechanics-in-battle-royale/)
- - [Bastion of sober videogame realism Microsoft Flight Simulator is about to get dinosaurs thanks to a Jurassic World crossover](https://www.pcgamer.com/games/sim/bastion-of-sober-videogame-realism-microsoft-flight-simulator-is-about-to-get-dinosaurs-thanks-to-a-jurassic-world-crossover/)<!-- GAME:END -->
+ - [Fortnite Chapter 6 Season 4 Shock &#39;n Awesome live launch coverage: all new weapons, locations and mechanics in Battle Royale](https://www.pcgamer.com/games/live/news/fortnite-chapter-6-season-4-shock-n-awesome-live-launch-coverage-all-new-weapons-locations-and-mechanics-in-battle-royale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
