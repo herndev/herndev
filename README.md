@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alleged three-person smuggling operation accused of shifting tens of millions of dollars’ worth of AI chips to China potentially faces up to 20-year prison sentence](https://www.pcgamer.com/hardware/alleged-three-person-smuggling-operation-accused-of-shifting-tens-of-millions-of-dollars-worth-of-ai-chips-to-china-potentially-faces-up-to-20-year-prison-sentence/)
- - [Sony CFO admits live service shift is &#39;not entirely going smoothly&#39; in the wake of Marathon and Concord, takes a big hit of cope, says it&#39;s not all bad because Helldivers 2 and Destiny 2 exist](https://www.pcgamer.com/gaming-industry/sony-cfo-admits-live-service-shift-is-not-entirely-going-smoothly-in-the-wake-of-marathon-and-concord-takes-a-big-hit-of-cope-says-its-not-all-bad-because-helldivers-2-and-destiny-2-exist/)
- - [How to beat Everdark Caligo in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-everdark-caligo-fissure-in-the-fog/)<!-- GAME:END -->
+ - [Mafia: The Old Country review: bleak, brilliant history](https://www.polygon.com/mafia-the-old-country-review/)
+ - [Sony’s Sold 80 Million PS5s In Five Years, Dwarfing Xbox](https://kotaku.com/sony-sold-over-80-million-ps5-in-five-years-2000616264)
+ - [Battlefield 6&#39;s open beta is already the most popular Battlefield of all time on Steam, and the platform&#39;s 44th most-played game ever](https://www.pcgamer.com/games/fps/battlefield-6s-open-beta-is-already-the-most-popular-battlefield-of-all-time-on-steam-and-the-platforms-44th-most-played-game-ever/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
