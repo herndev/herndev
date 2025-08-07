@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boom!](http://9gag.com/gag/a9yB68K)
- - ⏩ [Call to regroup](http://9gag.com/gag/aVvBgX8)
- - 👉 [The clock is ticking](http://9gag.com/gag/a5QDVMr)<!-- MEMES:END -->
+ - 💣 [Male Friendship in 10 seconds..!!](http://9gag.com/gag/avymW6M)
+ - ⏩ [Peak Male Performance](http://9gag.com/gag/a5QDBog)
+ - 👉 [I&#39;m with Brad on this ond](http://9gag.com/gag/aMVyBxV)<!-- MEMES:END -->
 
 ---
 
