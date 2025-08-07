@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
- - ⏩ [What&#39;s in the bag man?](http://9gag.com/gag/a0ewo4q)
- - 👉 [US hotels are outsourcing their front desk to Indians who checks guests virtually on video call.](http://9gag.com/gag/a87z7PQ)<!-- MEMES:END -->
+ - 💣 [Thats a good day.](http://9gag.com/gag/aoyDW3A)
+ - ⏩ [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
+ - 👉 [Male Friendship in 10 seconds..!!](http://9gag.com/gag/avymW6M)<!-- MEMES:END -->
 
 ---
 
