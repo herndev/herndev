@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A livestream of OpenAI&#39;s GPT-5 announcement &lpar;OpenAI on YouTube&rpar;](http://www.techmeme.com/250807/p28#a250807p28)
- - [GPT-5 is being released to all ChatGPT users](https://www.theverge.com/openai/748017/gpt-5-chatgpt-openai-release)
- - [Senators are trying to force ISPs to block all foreign pirate sites](https://www.theverge.com/news/754987/senators-foreign-piracy-sites-block-beard-act)<!-- TECH:END -->
+ - [Mark your calendar: The ROG Xbox Ally release date just leaked](https://www.androidauthority.com/asus-rog-xbox-ally-x-release-date-leak-3585029/)
+ - [GPT-5 will use &quot;safe completions&quot;, a training approach to maximize model helpfulness within safety constraints and an improvement over refusal-based training &lpar;OpenAI&rpar;](http://www.techmeme.com/250807/p33#a250807p33)
+ - [Galaxy Tab S11 leak spills all the details, and it could be good news for US users](https://www.androidauthority.com/galaxy-tab-s11-specs-revealed-3584956/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
