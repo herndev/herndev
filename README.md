@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh boy](http://9gag.com/gag/a6Z8DgA)
- - ⏩ [Boom!](http://9gag.com/gag/a9yB68K)
- - 👉 [Rest in Piss](http://9gag.com/gag/agmjQdn)<!-- MEMES:END -->
+ - 💣 [Its fine, its fine... everything is fine...Home Sellers in the USA outnumber Buyers by 500 000, the largest gap ever recorded.](http://9gag.com/gag/aqyAXDL)
+ - ⏩ [Oh boy](http://9gag.com/gag/a6Z8DgA)
+ - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)<!-- MEMES:END -->
 
 ---
 
