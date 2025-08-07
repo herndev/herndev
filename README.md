@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mustafa Suleyman has been calling Google DeepMind recruits to work at Microsoft AI, offering higher pay and a more startup-like workplace than DeepMind &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250806/p46#a250806p46)
- - [Someone folded the Galaxy Z Fold 7 200,000 times: Here’s what broke](https://www.androidauthority.com/samsung-galaxy-z-fold-7-live-fold-test-3583522/)
- - [Sydney-based Lorikeet, which provides AI agents as &quot;customer concierges&quot;, raised a AU$54M Series A led by QED Investors at a AU$200M valuation &lpar;Paul Smith/Australian Financial Review&rpar;](http://www.techmeme.com/250806/p45#a250806p45)<!-- TECH:END -->
+ - [Toronto-based Blue J, which provides AI-powered tax research software, raised a $122M Series D led by Oak HC/FT and Sapphire Ventures at a $300M+ valuation &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250807/p1#a250807p1)
+ - [Sources: NIST withheld publishing an AI safety report and several other AI documents at the end of Biden&#39;s term to avoid clashing with the Trump administration &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250806/p47#a250806p47)
+ - [Sources: Mustafa Suleyman has been calling Google DeepMind recruits to work at Microsoft AI, offering higher pay and a more startup-like workplace than DeepMind &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250806/p46#a250806p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
