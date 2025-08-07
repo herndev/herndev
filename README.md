@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Juggernaut](http://9gag.com/gag/aGyb8MZ)
- - ⏩ [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
- - 👉 [Rest in Piss](http://9gag.com/gag/agmjQdn)<!-- MEMES:END -->
+ - 💣 [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
+ - ⏩ [Life is great in LA](http://9gag.com/gag/aQzVgNq)
+ - 👉 [Nature is healing](http://9gag.com/gag/ayNP4XW)<!-- MEMES:END -->
 
 ---
 
