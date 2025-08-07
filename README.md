@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Slopecrashers –How to Put Capybaras on Snowboards Together &lpar;Fast&rpar;](https://news.xbox.com/en-us/2025/08/07/slopecrashers-capybaras-on-snowboards/)
- - [A new series of Made in Abyss movies are coming](https://www.polygon.com/made-in-abyss-anime-movie-2026-release/)
- - [Losers Keep Throwing Sex Toys At WNBA Players During Games](https://kotaku.com/wnba-dildo-sex-toy-tossed-on-court-explained-arrest-bag-ban-2000616321)<!-- GAME:END -->
+ - [This Incredible Splinter Cell Mod Offers The Definitive Experience Of A Stealth Classic](https://kotaku.com/splinter-cell-enhanced-mod-pc-steam-deck-2000616399)
+ - [Step Through the Door: Oxide Room 208 Brings Back Visceral Body-Horror to Xbox](https://news.xbox.com/en-us/2025/08/07/step-through-the-door-oxide-room-208/)
+ - [I&#39;m so tired of being advertised at, man](https://www.pcgamer.com/gaming-industry/im-so-tired-of-being-advertised-at-man/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
