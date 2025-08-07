@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
- - ⏩ [Life is great in LA](http://9gag.com/gag/aQzVgNq)
- - 👉 [Rest in Piss](http://9gag.com/gag/agmjQdn)<!-- MEMES:END -->
+ - 💣 [The clock is ticking](http://9gag.com/gag/a5QDVMr)
+ - ⏩ [Everyone&#39;s wishing he had anxiety](http://9gag.com/gag/awyvgBy)
+ - 👉 [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)<!-- MEMES:END -->
 
 ---
 
