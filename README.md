@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rest in Piss](http://9gag.com/gag/agmjQdn)
- - ⏩ [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
- - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
+ - 💣 [Final Feliz.](http://9gag.com/gag/aO8G4or)
+ - ⏩ [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 👉 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)<!-- MEMES:END -->
 
 ---
 
