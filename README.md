@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From tickets to brochures: Google Messages just stepped up with PDF support over RCS](https://www.androidauthority.com/google-messages-rcs-rich-card-pdf-support-3584765/)
- - [Activity? Journeys? Library? Google just can’t stop renaming this history view &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-journeys-3584544/)
- - [The Pixel’s most powerful privacy tool doesn’t come from Google, but I’d install it in a heartbeat](https://www.androidauthority.com/grapheneos-best-pixel-privacy-tool-3583528/)<!-- TECH:END -->
+ - [Welcome to dystopia: I helped ChatGPT pass a CAPTCHA and doomscroll my Facebook](https://www.androidauthority.com/chatgpt-agent-review-3583538/)
+ - [State Department cable: Marco Rubio orders diplomats in Europe to lobby against the DSA, arguing it imposes free speech restrictions and high compliance costs &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/250807/p15#a250807p15)
+ - [SoftBank reports Q1 net profit of $2.87B, vs. ~$850M est., boosted by its Nvidia investment and says Vision Fund has a &quot;late-stage portfolio valued at $45B&quot; &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250807/p14#a250807p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
