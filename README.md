@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Party! is coming for Mario&#39;s multiplayer crown next month](https://www.polygon.com/lego-party-release-date-pre-order-announcement/)
- - [Fractal Design Scape review](https://www.pcgamer.com/hardware/gaming-headsets/fractal-design-scape-review/)
- - [Sony has seen enough: 3 years after acquiring Bungie, Sony says the days of independence are over and its future &#39;is to become part of PlayStation Studios&#39;](https://www.pcgamer.com/gaming-industry/sony-has-seen-enough-3-years-after-acquiring-bungie-sony-says-the-days-of-independence-are-over-and-its-future-is-to-become-part-of-playstation-studios/)<!-- GAME:END -->
+ - [Battle Systems&#39; Maladum: The Forbidden Creed adds dark magic, mounts, and monsters](https://www.polygon.com/battle-systems-maladum-forbidden-creed-preorder-exclusive/)
+ - [Josh and S.A.M. &lpar;1993&rpar;: The Misleading Kids&#39; Movie That Made Me Cry](https://www.polygon.com/josh-and-sam-1993-review-prime-video/)
+ - [Hit the Gridiron in EA Sports Madden NFL 26 with EA Play Now](https://news.xbox.com/en-us/2025/08/07/hit-the-gridiron-in-ea-sports-madden-nfl-26-with-ea-play-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
