@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can still get a free gift card when you buy a new Samsung foldable phone](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-flip-7-fe-deals-3584698/)
- - [Tavily, which is helping AI agents connect to live web data, raised a $20M Series A led by Insight Partners and Alpha Wave, taking its total funding to $25M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250806/p44#a250806p44)
- - [AppLovin Q2: revenue up 77% YoY to $1.26B, vs. $1.22B est., adjusted EBITDA up 99% YoY to $1.02B, and forecasts Q3 revenue above est.; APP drops 5%+ after hours &lpar;Adam Levine/Barron&#39;s Online&rpar;](http://www.techmeme.com/250806/p43#a250806p43)<!-- TECH:END -->
+ - [Sources: Mustafa Suleyman has been calling Google DeepMind recruits to work at Microsoft AI, offering higher pay and a more startup-like workplace than DeepMind &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250806/p46#a250806p46)
+ - [Someone folded the Galaxy Z Fold 7 200,000 times: Here’s what broke](https://www.androidauthority.com/samsung-galaxy-z-fold-7-live-fold-test-3583522/)
+ - [Sydney-based Lorikeet, which provides AI agents as &quot;customer concierges&quot;, raised a AU$54M Series A led by QED Investors at a AU$200M valuation &lpar;Paul Smith/Australian Financial Review&rpar;](http://www.techmeme.com/250806/p45#a250806p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
