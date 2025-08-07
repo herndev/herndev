@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two founders of the Samourai Wallet cryptocurrency mixer plead guilty to operating a money transmitting business that transmitted $200M+ in criminal proceeds &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250807/p45#a250807p45)
- - [OpenAI’s most powerful AI model is here and free for everyone](https://www.androidauthority.com/open-ai-gpt-5-rollout-3585085/)
- - [Pixel 10 leaked promo videos offer a peek at the hardware we want most](https://www.androidauthority.com/pixel-10-video-leak-3585139/)<!-- TECH:END -->
+ - [Sources: Tesla is disbanding the Dojo supercomputer team, and its leader is leaving, after ~20 team members joined DensityAI, a new data center services startup &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250807/p48#a250807p48)
+ - [Sources: German AI startup n8n is expected to raise hundreds of millions of euros led by Accel at a pre-money valuation of $2.3B, up from ~$350M four months ago &lpar;Bloomberg&rpar;](http://www.techmeme.com/250807/p49#a250807p49)
+ - [Deal: This huge Amazon Fire TV Omni QLED Series TV is only $449.99!](https://www.androidauthority.com/amazon-fire-tv-omni-qled-series-65-inch-4k-uhd-smart-tv-deal-3585146/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
