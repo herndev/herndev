@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know what really grinds my gears...](http://9gag.com/gag/aXPeNAb)
- - ⏩ [Back on the menu!](http://9gag.com/gag/axy4yn2)
- - 👉 [Thats a good day.](http://9gag.com/gag/aoyDW3A)<!-- MEMES:END -->
+ - 💣 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - ⏩ [What&#39;s in the bag man?](http://9gag.com/gag/a0ewo4q)
+ - 👉 [US hotels are outsourcing their front desk to Indians who checks guests virtually on video call.](http://9gag.com/gag/a87z7PQ)<!-- MEMES:END -->
 
 ---
 
