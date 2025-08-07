@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)
- - [Apple just gifted Trump a 24k gold Gorilla Glass statue, and a $100 billion peace offering](https://www.androidauthority.com/apple-trump-corning-gorilla-glass-gold-statue-gift-3584745/)
- - [Wondering who bought the Galaxy S25 Edge? Turns out, A lot of people did.](https://www.androidauthority.com/samsung-galaxy-s25-series-edge-sales-leak-3584735/)<!-- TECH:END -->
+ - [From tickets to brochures: Google Messages just stepped up with PDF support over RCS](https://www.androidauthority.com/google-messages-rcs-rich-card-pdf-support-3584765/)
+ - [Activity? Journeys? Library? Google just can’t stop renaming this history view &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-journeys-3584544/)
+ - [The Pixel’s most powerful privacy tool doesn’t come from Google, but I’d install it in a heartbeat](https://www.androidauthority.com/grapheneos-best-pixel-privacy-tool-3583528/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
