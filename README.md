@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Become One with the Ninja: Unpacking Ninja Gaiden 4’s Deep, Immersive Allure](https://news.xbox.com/en-us/2025/08/07/ninja-gaiden-4-deep-immersive-allure/)
- - [Just 2 weeks after its release, this Diablo-style roguelike has already reworked its entire campaign to please action RPG fans looking for a challenge](https://www.pcgamer.com/games/action/just-2-weeks-after-its-release-this-diablo-style-roguelike-has-already-reworked-its-entire-campaign-to-please-action-rpg-fans-looking-for-a-challenge/)
- - [Finally, I can get a straight flush with cabbages: Our favorite idle farming sim just got a Balatro crossover](https://www.pcgamer.com/games/sim/finally-i-can-get-a-straight-flush-with-cabbages-our-favorite-idle-farming-sim-just-got-a-balatro-crossover/)<!-- GAME:END -->
+ - [Shmup Summer Has Officially Arrived Thanks To These Incredible Arcade Throwbacks](https://kotaku.com/gradius-origins-earthion-shmups-shoot-em-up-games-2000616417)
+ - [&#39;Consumers are not okay with okay&#39;: Take-Two boss says BioShock 4 is taking so long because the company&#39;s goal is &#39;to make the best entertainment, not necessarily the most entertainment&#39;](https://www.pcgamer.com/games/fps/consumers-are-not-okay-with-okay-take-two-boss-says-bioshock-4-is-taking-so-long-because-the-companys-goal-is-to-make-the-best-entertainment-not-necessarily-the-most-entertainment/)
+ - [Ninja Gaiden 4 plays more like a Platinum action game than classic Ninja Gaiden, and I&#39;m really not sure how to feel about it](https://www.pcgamer.com/games/action/ninja-gaiden-4-plays-more-like-a-platinum-action-game-than-classic-ninja-gaiden-and-im-really-not-sure-how-to-feel-about-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
