@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats a good day.](http://9gag.com/gag/aoyDW3A)
- - ⏩ [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
- - 👉 [Male Friendship in 10 seconds..!!](http://9gag.com/gag/avymW6M)<!-- MEMES:END -->
+ - 💣 [Oh boy](http://9gag.com/gag/a6Z8DgA)
+ - ⏩ [Boom!](http://9gag.com/gag/a9yB68K)
+ - 👉 [Rest in Piss](http://9gag.com/gag/agmjQdn)<!-- MEMES:END -->
 
 ---
 
