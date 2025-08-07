@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bastion of sober videogame realism Microsoft Flight Simulator is about to get dinosaurs thanks to a Jurassic World crossover](https://www.pcgamer.com/games/sim/bastion-of-sober-videogame-realism-microsoft-flight-simulator-is-about-to-get-dinosaurs-thanks-to-a-jurassic-world-crossover/)
  - [Today&#39;s Wordle clues, hints and answer for August 7 &lpar;#1510&rpar;](https://www.pcgamer.com/wordle-answer-today-august-7-2025/)
- - [God game Fata Deum will bring back those sweet Black &amp; White vibes when it arrives in early access next month](https://www.pcgamer.com/games/sim/god-game-fata-deum-will-bring-back-those-sweet-black-and-white-vibes-when-it-arrives-in-early-access-next-month/)
- - [Will someone please sit with me when I play this super creepy game about examining dozens of old photos for evidence of g-g-ghosts?](https://www.pcgamer.com/games/adventure/will-someone-please-sit-with-me-when-i-play-this-super-creepy-game-about-examining-dozens-of-old-photos-for-evidence-of-g-g-ghosts/)<!-- GAME:END -->
+ - [God game Fata Deum will bring back those sweet Black &amp; White vibes when it arrives in early access next month](https://www.pcgamer.com/games/sim/god-game-fata-deum-will-bring-back-those-sweet-black-and-white-vibes-when-it-arrives-in-early-access-next-month/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
