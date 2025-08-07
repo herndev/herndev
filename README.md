@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father](http://9gag.com/gag/aND3910)
- - ⏩ [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
- - 👉 [It will happen to you!](http://9gag.com/gag/a1mwDK2)<!-- MEMES:END -->
+ - 💣 [Juggernaut](http://9gag.com/gag/aGyb8MZ)
+ - ⏩ [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
+ - 👉 [Rest in Piss](http://9gag.com/gag/agmjQdn)<!-- MEMES:END -->
 
 ---
 
