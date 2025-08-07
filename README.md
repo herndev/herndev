@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
- - ⏩ [The clock is ticking](http://9gag.com/gag/a5QDVMr)
- - 👉 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)<!-- MEMES:END -->
+ - 💣 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
+ - ⏩ [Life is great in LA](http://9gag.com/gag/aQzVgNq)
+ - 👉 [Rest in Piss](http://9gag.com/gag/agmjQdn)<!-- MEMES:END -->
 
 ---
 
