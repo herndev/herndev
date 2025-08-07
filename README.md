@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battle Systems&#39; Maladum: The Forbidden Creed adds dark magic, mounts, and monsters](https://www.polygon.com/battle-systems-maladum-forbidden-creed-preorder-exclusive/)
- - [Josh and S.A.M. &lpar;1993&rpar;: The Misleading Kids&#39; Movie That Made Me Cry](https://www.polygon.com/josh-and-sam-1993-review-prime-video/)
- - [Hit the Gridiron in EA Sports Madden NFL 26 with EA Play Now](https://news.xbox.com/en-us/2025/08/07/hit-the-gridiron-in-ea-sports-madden-nfl-26-with-ea-play-now/)<!-- GAME:END -->
+ - [Slopecrashers –How to Put Capybaras on Snowboards Together &lpar;Fast&rpar;](https://news.xbox.com/en-us/2025/08/07/slopecrashers-capybaras-on-snowboards/)
+ - [A new series of Made in Abyss movies are coming](https://www.polygon.com/made-in-abyss-anime-movie-2026-release/)
+ - [Losers Keep Throwing Sex Toys At WNBA Players During Games](https://kotaku.com/wnba-dildo-sex-toy-tossed-on-court-explained-arrest-bag-ban-2000616321)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
