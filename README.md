@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mafia: The Old Country Reviews Say It’s Mostly Good Enough](https://kotaku.com/mafia-old-country-reviews-metacritic-roundup-ps5-2000616275)
- - [Annalee Newitz&#39;s new sci-fi novel covers everything from robot gender to the perfect noodle](https://www.polygon.com/annalee-newitz-automatic-noodle-preview-cozy-sci-fi-robot-novel/)
- - [UFO 50 releases on Nintendo Switch in Indie World Showcase twist](https://www.polygon.com/ufo-50-nintendo-switch-release/)<!-- GAME:END -->
+ - [Free Play Days – The Elder Scrolls Online, PAW Patrol World, Cassette Beasts and Souldiers](https://news.xbox.com/en-us/2025/08/07/free-play-days-08-07-2025/)
+ - [Battlefield 6’s Open Beta Has Over 300k Players On Steam Despite Server Issues](https://kotaku.com/battlefield-6-huge-player-count-steam-beta-jurassic-forza-castle-crashers-2000616307)
+ - [Microsoft&#39;s beta Gaming Copilot AI is now available for Xbox Insiders, to &#39;help you get to gameplay faster, sharpen your skills, and be there when you need it and out of the way when you don’t&#39;](https://www.pcgamer.com/software/ai/microsofts-gaming-copilot-ai-is-now-available-in-beta-for-xbox-insiders-promising-to-help-you-get-to-gameplay-faster-sharpen-your-skills-and-be-there-when-you-need-it-and-out-of-the-way-when-you-dont/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
