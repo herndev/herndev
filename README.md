@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Samsung to produce image sensors for iPhone 18 in Austin, Texas; an expert says Apple picked Samsung as a supplier because Sony doesn&#39;t have US plants &lpar;Financial Times&rpar;](http://www.techmeme.com/250807/p4#a250807p4)
- - [Samsung will soon make chips for iPhones in the US](https://www.androidauthority.com/samsung-apple-iphone-chips-3584729/)
- - [Taiwan says TSMC will not have to pay 100% tariffs on US chip imports, as it has set up US plants; UMC may see reduced impact through its cooperation with Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/250807/p3#a250807p3)<!-- TECH:END -->
+ - [Wondering who bought the Galaxy S25 Edge? Turns out, A lot of people did.](https://www.androidauthority.com/samsung-galaxy-s25-series-edge-sales-leak-3584735/)
+ - [Q&amp;A with Anthropic CEO Dario Amodei on Anthropic&#39;s growth to ~$5B in ARR, focusing on B2B, AI talent wars, open-source models, safety regulations, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/250807/p9#a250807p9)
+ - [Sen. Tom cotton sends a letter to Intel&#39;s board chair with questions about CEO Lip-Bu Tan&#39;s ties to China and subpoenas during his tenure as Cadence Design CEO &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250807/p8#a250807p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
