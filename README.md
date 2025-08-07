@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – The Elder Scrolls Online, PAW Patrol World, Cassette Beasts and Souldiers](https://news.xbox.com/en-us/2025/08/07/free-play-days-08-07-2025/)
- - [Battlefield 6’s Open Beta Has Over 300k Players On Steam Despite Server Issues](https://kotaku.com/battlefield-6-huge-player-count-steam-beta-jurassic-forza-castle-crashers-2000616307)
- - [Microsoft&#39;s beta Gaming Copilot AI is now available for Xbox Insiders, to &#39;help you get to gameplay faster, sharpen your skills, and be there when you need it and out of the way when you don’t&#39;](https://www.pcgamer.com/software/ai/microsofts-gaming-copilot-ai-is-now-available-in-beta-for-xbox-insiders-promising-to-help-you-get-to-gameplay-faster-sharpen-your-skills-and-be-there-when-you-need-it-and-out-of-the-way-when-you-dont/)<!-- GAME:END -->
+ - [Lego Party! is coming for Mario&#39;s multiplayer crown next month](https://www.polygon.com/lego-party-release-date-pre-order-announcement/)
+ - [Fractal Design Scape review](https://www.pcgamer.com/hardware/gaming-headsets/fractal-design-scape-review/)
+ - [Sony has seen enough: 3 years after acquiring Bungie, Sony says the days of independence are over and its future &#39;is to become part of PlayStation Studios&#39;](https://www.pcgamer.com/gaming-industry/sony-has-seen-enough-3-years-after-acquiring-bungie-sony-says-the-days-of-independence-are-over-and-its-future-is-to-become-part-of-playstation-studios/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
