@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals long time Verizon users are saying goodbye as bills climb and perks vanish](https://www.androidauthority.com/verizon-price-hike-discounts-poll-results-3584834/)
- - [MacBook Pro rumored to get OLED display in 2026](https://appleinsider.com/articles/25/08/07/macbook-pro-rumored-to-get-oled-display-in-2026?utm_source=rss)
- - [SignalFire: as the AI talent race explodes, Anthropic is hiring engineers 2.68x faster than losing them, above OpenAI&#39;s 2.18x, Meta&#39;s 2.07x, and Google&#39;s 1.17x &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p20#a250807p20)<!-- TECH:END -->
+ - [Ripple plans to acquire stablecoin payments platform Rail for $200M, set to close in Q4 2025; Rail says it handles 10% of all global stablecoin payment activity &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250807/p22#a250807p22)
+ - [The Best Golf Rangefinders &lpar;2025&rpar;](https://www.wired.com/gallery/best-golf-rangefinders/)
+ - [This smart lock lets me see through my door](https://www.theverge.com/smart-home-review/679906/eufy-familock-s3-max-smart-video-doorlock-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
