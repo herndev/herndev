@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital Wellbeing is looking easy on the eyes with its first taste of Material 3 Expressive](https://www.androidauthority.com/digital-wellbeing-expressive-3585065/)
- - [OpenAI releases GPT-5 pro, a version with extended reasoning exclusive to ChatGPT Pro subscribers, saying it scored 88.4% without tools on the GPQA benchmark &lpar;Maximilian Schreiner/The Decoder&rpar;](http://www.techmeme.com/250807/p35#a250807p35)
- - [Samsung’s inexpensive Galaxy Buds FE are even more affordable at over 50 percent off](https://www.theverge.com/tech/756210/samsung-galaxy-buds-fe-nintendo-switch-2-pro-controller-deal-sale)<!-- TECH:END -->
+ - [The 6 biggest changes coming to ChatGPT](https://www.theverge.com/news/756342/openai-chatgpt-gpt-5-update-biggest-changes)
+ - [Brex says it has secured a license in the EU, allowing it to issue credit and debit cards and offer its spend management products to European customers &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250807/p37#a250807p37)
+ - [Friendslop is coming for the Switch 2](https://www.theverge.com/games/756236/content-warning-coop-games-nintendo-switch-2-lethal-company)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
