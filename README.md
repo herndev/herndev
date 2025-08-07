@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ripple plans to acquire stablecoin payments platform Rail for $200M, set to close in Q4 2025; Rail says it handles 10% of all global stablecoin payment activity &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250807/p22#a250807p22)
- - [The Best Golf Rangefinders &lpar;2025&rpar;](https://www.wired.com/gallery/best-golf-rangefinders/)
- - [This smart lock lets me see through my door](https://www.theverge.com/smart-home-review/679906/eufy-familock-s3-max-smart-video-doorlock-review)<!-- TECH:END -->
+ - [GitHub CEO Thomas Dohmke on Copilot, vibe coding, and AI’s next chapter](https://www.theverge.com/decoder-podcast-with-nilay-patel/720075/github-ceo-thomas-dohmke-ai-coding-copilot-openai-interview)
+ - [Digital Foundry, the most trusted name in game console analysis, is going independent](https://www.theverge.com/games/743535/digital-foundry-game-console-analysis-going-independent)
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
