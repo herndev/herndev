@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hot facial &lpar;hair&rpar; from 2017 #33](http://9gag.com/gag/aGybLD6)
- - ⏩ [Treasure](http://9gag.com/gag/abAEeZp)
- - 👉 [Life is great in LA](http://9gag.com/gag/aQzVgNq)<!-- MEMES:END -->
+ - 💣 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - ⏩ [The clock is ticking](http://9gag.com/gag/a5QDVMr)
+ - 👉 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)<!-- MEMES:END -->
 
 ---
 
