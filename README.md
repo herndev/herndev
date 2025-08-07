@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark your calendar: The ROG Xbox Ally release date just leaked](https://www.androidauthority.com/asus-rog-xbox-ally-x-release-date-leak-3585029/)
- - [GPT-5 will use &quot;safe completions&quot;, a training approach to maximize model helpfulness within safety constraints and an improvement over refusal-based training &lpar;OpenAI&rpar;](http://www.techmeme.com/250807/p33#a250807p33)
- - [Galaxy Tab S11 leak spills all the details, and it could be good news for US users](https://www.androidauthority.com/galaxy-tab-s11-specs-revealed-3584956/)<!-- TECH:END -->
+ - [Digital Wellbeing is looking easy on the eyes with its first taste of Material 3 Expressive](https://www.androidauthority.com/digital-wellbeing-expressive-3585065/)
+ - [OpenAI releases GPT-5 pro, a version with extended reasoning exclusive to ChatGPT Pro subscribers, saying it scored 88.4% without tools on the GPQA benchmark &lpar;Maximilian Schreiner/The Decoder&rpar;](http://www.techmeme.com/250807/p35#a250807p35)
+ - [Samsung’s inexpensive Galaxy Buds FE are even more affordable at over 50 percent off](https://www.theverge.com/tech/756210/samsung-galaxy-buds-fe-nintendo-switch-2-pro-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
