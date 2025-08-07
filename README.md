@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The clock is ticking](http://9gag.com/gag/a5QDVMr)
- - ⏩ [Everyone&#39;s wishing he had anxiety](http://9gag.com/gag/awyvgBy)
- - 👉 [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)<!-- MEMES:END -->
+ - 💣 [Father](http://9gag.com/gag/aND3910)
+ - ⏩ [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
+ - 👉 [It will happen to you!](http://9gag.com/gag/a1mwDK2)<!-- MEMES:END -->
 
 ---
 
