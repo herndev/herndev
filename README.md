@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Woman wins $200,000 case after her phone started a house fire while charging](https://www.androidauthority.com/phone-charging-house-fire-payout-3584693/)
- - [Apple exempt from 100% semiconductor tariffs, thanks to its $100B U.S. investment](https://appleinsider.com/articles/25/08/06/apple-exempt-from-100-semiconductor-tariffs-thanks-to-its-100b-us-investment?utm_source=rss)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
+ - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Deal: No one should pay full price for an Apple iPad A16 anymore](https://www.androidauthority.com/apple-ipad-a16-deal-4-3584700/)
+ - [Made-in-America iPhone not happening anytime soon &amp; Trump seems okay with that](https://appleinsider.com/articles/25/08/06/made-in-america-iphone-not-happening-anytime-soon-trump-seems-okay-with-that?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
