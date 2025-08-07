@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shmup Summer Has Officially Arrived Thanks To These Incredible Arcade Throwbacks](https://kotaku.com/gradius-origins-earthion-shmups-shoot-em-up-games-2000616417)
- - [&#39;Consumers are not okay with okay&#39;: Take-Two boss says BioShock 4 is taking so long because the company&#39;s goal is &#39;to make the best entertainment, not necessarily the most entertainment&#39;](https://www.pcgamer.com/games/fps/consumers-are-not-okay-with-okay-take-two-boss-says-bioshock-4-is-taking-so-long-because-the-companys-goal-is-to-make-the-best-entertainment-not-necessarily-the-most-entertainment/)
- - [Ninja Gaiden 4 plays more like a Platinum action game than classic Ninja Gaiden, and I&#39;m really not sure how to feel about it](https://www.pcgamer.com/games/action/ninja-gaiden-4-plays-more-like-a-platinum-action-game-than-classic-ninja-gaiden-and-im-really-not-sure-how-to-feel-about-it/)<!-- GAME:END -->
+ - [Battlefield 6 is making an excellent case to skip Call of Duty this year](https://www.pcgamer.com/games/fps/battlefield-6-is-making-an-excellent-case-to-skip-call-of-duty-this-year/)
+ - [GTA 6 price should &#39;deliver more value than what we charge,&#39; Take-Two CEO says](https://www.polygon.com/gta-6-price-value-rockstar-games-take-two/)
+ - [Somebody spilled some Minecraft in this hardcore first-person RPG, and I love the result way more than I ever thought possible](https://www.pcgamer.com/games/rpg/somebody-spilled-some-minecraft-in-this-hardcore-first-person-rpg-and-i-love-the-result-way-more-than-i-ever-thought-possible/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
