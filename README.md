@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Framework Desktop made me fall for small form factor PCs](https://www.theverge.com/reviews/749404/framework-desktop-pc-amd-ryzen-ai-max-385-395-plus-review)
- - [Trump’s endless new tariffs are threatening businesses — and you](https://www.theverge.com/policy/754356/trump-reciprocal-tariffs-august)
- - [DJI’s first robovac features drone tech and a transparent design](https://www.theverge.com/news/754168/dji-romo-robot-vacuum)<!-- TECH:END -->
+ - [Microsoft is cautiously onboarding Grok 4 following Hitler concerns](https://www.theverge.com/notepad-microsoft-newsletter/754647/microsoft-grok-4-roll-out-private-preview-notepad)
+ - [Tired of scrolling through your messy notes? Google Keep is fixing that](https://www.androidauthority.com/google-keep-sort-feature-3584942/)
+ - [Google Lens just made this easily overlooked option impossible to ignore](https://www.androidauthority.com/google-lens-voice-search-3584937/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
