@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The lawyer who beat Tesla is ready for ‘round two’](https://www.theverge.com/tesla/720157/tesla-death-lawsuit-verdict-lawyer-brett-schreiber-interview)
- - [The EU says companies exporting chips to the US will face a 15% tariff ceiling despite President Trump&#39;s new &quot;approximately 100%&quot; chip levy announcement &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p19#a250807p19)
- - [We asked Gemini for a story about the Pixel 10 launch and it hallucinated a bizarre foldable](https://www.androidauthority.com/pixel-10-gemini-storybook-3584273/)<!-- TECH:END -->
+ - [Survey reveals long time Verizon users are saying goodbye as bills climb and perks vanish](https://www.androidauthority.com/verizon-price-hike-discounts-poll-results-3584834/)
+ - [MacBook Pro rumored to get OLED display in 2026](https://appleinsider.com/articles/25/08/07/macbook-pro-rumored-to-get-oled-display-in-2026?utm_source=rss)
+ - [SignalFire: as the AI talent race explodes, Anthropic is hiring engineers 2.68x faster than losing them, above OpenAI&#39;s 2.18x, Meta&#39;s 2.07x, and Google&#39;s 1.17x &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p20#a250807p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
