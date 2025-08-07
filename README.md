@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Final Feliz.](http://9gag.com/gag/aO8G4or)
- - ⏩ [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 👉 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)<!-- MEMES:END -->
+ - 💣 [You know what really grinds my gears...](http://9gag.com/gag/aXPeNAb)
+ - ⏩ [Back on the menu!](http://9gag.com/gag/axy4yn2)
+ - 👉 [Thats a good day.](http://9gag.com/gag/aoyDW3A)<!-- MEMES:END -->
 
 ---
 
