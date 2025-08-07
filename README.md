@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppLovin Q2: revenue up 77% YoY to $1.26B, vs. $1.22B est., adjusted EBITDA up 99% YoY to $1.02B, and forecasts Q3 revenue above est.; APP drops 5%+ after hours &lpar;Adam Levine/Barron&#39;s Online&rpar;](http://www.techmeme.com/250806/p43#a250806p43)
- - [This $100 discount makes the Motorola Razr 2025 my favorite budget flip phone](https://www.androidauthority.com/motorola-razr-2025-deal-2-3584699/)
- - [Bumble reports Q2 revenue down 8% YoY to $248.2M, vs. $245.1M est., a $367M net loss, and total paying users down 8.7% YoY to 3.8M; BMBL falls 9%+ after hours &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250806/p42#a250806p42)<!-- TECH:END -->
+ - [You can still get a free gift card when you buy a new Samsung foldable phone](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-flip-7-fe-deals-3584698/)
+ - [Tavily, which is helping AI agents connect to live web data, raised a $20M Series A led by Insight Partners and Alpha Wave, taking its total funding to $25M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250806/p44#a250806p44)
+ - [AppLovin Q2: revenue up 77% YoY to $1.26B, vs. $1.22B est., adjusted EBITDA up 99% YoY to $1.02B, and forecasts Q3 revenue above est.; APP drops 5%+ after hours &lpar;Adam Levine/Barron&#39;s Online&rpar;](http://www.techmeme.com/250806/p43#a250806p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
