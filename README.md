@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remote IT worker scam involving 90 laptops and stolen identities generated $17 million in illicit revenue allegedly bound for North Korea&#39;s nuclear weapons program](https://www.pcgamer.com/hardware/remote-it-worker-scam-involving-90-laptops-and-stolen-identities-generated-usd17-million-in-illicit-revenue-allegedly-bound-for-north-koreas-nuclear-weapons-program/)
- - [Bing&#39;s latest &#39;just doing Bing things&#39;: Searching for certain AI models in Microsoft&#39;s Edge browser earns you a plea to use Copilot](https://www.pcgamer.com/software/ai/bings-latest-just-doing-bing-things-searching-for-certain-ai-models-in-microsofts-edge-browser-earns-you-a-plea-to-use-copilot/)
- - [Fortnite Chapter 6 Season 4 Shock &#39;n Awesome live launch coverage: all new weapons, locations and mechanics in Battle Royale](https://www.pcgamer.com/games/live/news/fortnite-chapter-6-season-4-shock-n-awesome-live-launch-coverage-all-new-weapons-locations-and-mechanics-in-battle-royale/)<!-- GAME:END -->
+ - [Alleged three-person smuggling operation accused of shifting tens of millions of dollars’ worth of AI chips to China potentially faces up to 20-year prison sentence](https://www.pcgamer.com/hardware/alleged-three-person-smuggling-operation-accused-of-shifting-tens-of-millions-of-dollars-worth-of-ai-chips-to-china-potentially-faces-up-to-20-year-prison-sentence/)
+ - [Sony CFO admits live service shift is &#39;not entirely going smoothly&#39; in the wake of Marathon and Concord, takes a big hit of cope, says it&#39;s not all bad because Helldivers 2 and Destiny 2 exist](https://www.pcgamer.com/gaming-industry/sony-cfo-admits-live-service-shift-is-not-entirely-going-smoothly-in-the-wake-of-marathon-and-concord-takes-a-big-hit-of-cope-says-its-not-all-bad-because-helldivers-2-and-destiny-2-exist/)
+ - [How to beat Everdark Caligo in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-everdark-caligo-fissure-in-the-fog/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
