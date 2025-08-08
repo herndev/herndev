@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
- - ⏩ [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)
- - 👉 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)<!-- MEMES:END -->
+ - 💣 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - ⏩ [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
+ - 👉 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)<!-- MEMES:END -->
 
 ---
 
