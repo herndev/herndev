@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says ChatGPT Pro users can select old models for now but plans to deprecate them in 60 days; Sam Altman says Plus users will be able to keep using GPT-4o &lpar;Joanna Stern/Joanna Stern&#39;s Newsletter&rpar;](http://www.techmeme.com/250808/p21#a250808p21)
- - [Massive Pixel leak spoils everything ahead of Google launch event](https://www.androidauthority.com/google-pixel-hardware-specs-revealed-3585509/)
- - [The Vibes-Based Pricing of ‘Pro’ AI Software](https://www.wired.com/story/uncanny-valley-podcast-vibes-based-pricing-pro-ai-software/)<!-- TECH:END -->
+ - [Orico MiniMate review: Cute, and fast enough, but too loud](https://appleinsider.com/articles/25/08/08/orico-minimate-review-cute-and-fast-enough-but-too-loud?utm_source=rss)
+ - [Google wants you charting your meme coins right on its Finance page](https://www.androidauthority.com/google-finance-ai-indictors-upgrade-3585565/)
+ - [Coinbase rolls out DEX trading in its app for US users, excluding New York state, starting with assets on the Base network, with Solana support &quot;coming soon&quot; &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/250808/p22#a250808p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
