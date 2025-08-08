@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mini Ikea stores will be opening inside select Best Buy locations this year](https://www.theverge.com/news/756868/ikea-retail-experience-best-buy)
- - [Ripple and the SEC agree to dismiss their court appeals, ending a lawsuit but leaving a judge&#39;s injunction on XRP sales to institutions and a $125M fine intact &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250808/p18#a250808p18)
- - [Instagram’s Map is here, and this is how you can turn it off](https://www.theverge.com/news/756798/instagram-map-how-to-turn-it-off)<!-- TECH:END -->
+ - [Leaked spreadsheets, Slack messages, and files linked to an alleged group of North Korean IT scammers show how they track potential jobs and record earnings &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250808/p19#a250808p19)
+ - [This app lets Mac users take full advantage of Android’s Quick Share with new QR code support](https://www.androidauthority.com/neardrop-adds-qr-code-support-3585455/)
+ - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/08/08/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
