@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m Losing?Inconceivable!](http://9gag.com/gag/aPAnoOB)
- - ⏩ [Evil robot](http://9gag.com/gag/aYQmO8x)
- - 👉 [Men of focus, commitment, and sheer f**king will!](http://9gag.com/gag/aoyD42g)<!-- MEMES:END -->
+ - 💣 [They might get radioactive but will never become fireproof](http://9gag.com/gag/aryzA1K)
+ - ⏩ [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - 👉 [Basketball moment](http://9gag.com/gag/ae9WZ2b)<!-- MEMES:END -->
 
 ---
 
