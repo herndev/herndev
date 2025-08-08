@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked spreadsheets, Slack messages, and files linked to an alleged group of North Korean IT scammers show how they track potential jobs and record earnings &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250808/p19#a250808p19)
- - [This app lets Mac users take full advantage of Android’s Quick Share with new QR code support](https://www.androidauthority.com/neardrop-adds-qr-code-support-3585455/)
- - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/08/08/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)<!-- TECH:END -->
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+ - [iPad Pro &amp; MacBook Air get mashed up into the MacBook Apple won&#39;t make](https://appleinsider.com/articles/25/08/08/ipad-pro-macbook-air-get-mashed-up-into-the-macbook-apple-wont-make?utm_source=rss)
+ - [Big Galaxy S26 changes, even bigger Android changes | Authority Insights Podcast #001](https://www.androidauthority.com/authority-insights-podcast-001-3584631/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
