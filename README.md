@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Orico MiniMate review: Cute, and fast enough, but too loud](https://appleinsider.com/articles/25/08/08/orico-minimate-review-cute-and-fast-enough-but-too-loud?utm_source=rss)
- - [Google wants you charting your meme coins right on its Finance page](https://www.androidauthority.com/google-finance-ai-indictors-upgrade-3585565/)
- - [Coinbase rolls out DEX trading in its app for US users, excluding New York state, starting with assets on the Base network, with Solana support &quot;coming soon&quot; &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/250808/p22#a250808p22)<!-- TECH:END -->
+ - [One of Microsoft’s best-rated mobile apps is bowing out soon](https://www.androidauthority.com/microsoft-lens-app-phasing-out-3585594/)
+ - [Microsoft will phase out its Lens scanner app, launched in 2014 as Office Lens, starting in September; users can create new scans in the app only until December &lpar;Rishaj Upadhyay/Windows Report&rpar;](http://www.techmeme.com/250808/p23#a250808p23)
+ - [OnePlus 13 gets its own version of Google’s Best Take](https://www.androidauthority.com/oneplus-13-ai-perfect-shot-3585577/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
