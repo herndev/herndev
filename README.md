@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - ⏩ [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
- - 👉 [Lizard](http://9gag.com/gag/a9yBvgL)<!-- MEMES:END -->
+ - 💣 [I&#39;m Losing?Inconceivable!](http://9gag.com/gag/aPAnoOB)
+ - ⏩ [Evil robot](http://9gag.com/gag/aYQmO8x)
+ - 👉 [Men of focus, commitment, and sheer f**king will!](http://9gag.com/gag/aoyD42g)<!-- MEMES:END -->
 
 ---
 
