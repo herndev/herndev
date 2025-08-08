@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every game is a roguelike deckbuilder now, but I&#39;ve finally found a few that have stopped me being a hater](https://www.pcgamer.com/games/roguelike/every-game-is-a-roguelike-deckbuilder-now-but-ive-finally-found-a-few-that-have-stopped-me-being-a-hater/)
- - [Josh Brolin on confronting masculinity in horror epic Weapons](https://www.polygon.com/josh-brolin-weapons-interview/)
- - [The hottest upcoming horror game releases of 2025 and beyond](https://blog.playstation.com/2025/08/08/the-hottest-upcoming-horror-game-releases-of-2025-and-beyond/)<!-- GAME:END -->
+ - [PlayStation Store: July 2025’s top downloads](https://blog.playstation.com/2025/08/08/playstation-store-july-2025s-top-downloads/)
+ - [Next Week on Xbox: New Games for August 11 to 15](https://news.xbox.com/en-us/2025/08/08/next-week-on-xbox-new-games-for-august-11-to-15/)
+ - [Tencent’s Horizon Zero Dawn Knockoff Quietly Scrubs Steam Page Following Sony Lawsuit](https://kotaku.com/horizon-zero-dawn-tencent-sony-lawsuit-knockoff-steam-art-2000616608)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
