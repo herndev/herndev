@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: July 2025’s top downloads](https://blog.playstation.com/2025/08/08/playstation-store-july-2025s-top-downloads/)
- - [Next Week on Xbox: New Games for August 11 to 15](https://news.xbox.com/en-us/2025/08/08/next-week-on-xbox-new-games-for-august-11-to-15/)
- - [Tencent’s Horizon Zero Dawn Knockoff Quietly Scrubs Steam Page Following Sony Lawsuit](https://kotaku.com/horizon-zero-dawn-tencent-sony-lawsuit-knockoff-steam-art-2000616608)<!-- GAME:END -->
+ - [Dropout&#39;s Jacob Wysocki details how his &#39;crazy&#39; Game Changer episode game together](https://www.polygon.com/dropout-game-changer-jacob-wysocki-interview/)
+ - [Announcing the Hellblade x Passarella Capsule Collection](https://www.passarella.co.uk/hellblade#new_tab)
+ - [It&#39;s 2025 and we still can&#39;t decide on a universal input for crouching](https://www.pcgamer.com/games/its-2025-and-we-still-cant-decide-on-a-universal-input-for-crouching/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
