@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - ⏩ [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
- - 👉 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)<!-- MEMES:END -->
+ - 💣 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
+ - ⏩ [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
+ - 👉 [We never got our rights from asking nicely](http://9gag.com/gag/an7Vvj5)<!-- MEMES:END -->
 
 ---
 
