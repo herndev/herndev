@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
+ - 💣 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
  - ⏩ [Title](http://9gag.com/gag/aQzVQQd)
- - 👉 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)<!-- MEMES:END -->
+ - 👉 [You&#39;re ded](http://9gag.com/gag/ayNP6jy)<!-- MEMES:END -->
 
 ---
 
