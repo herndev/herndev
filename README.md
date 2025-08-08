@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of Microsoft’s best-rated mobile apps is bowing out soon](https://www.androidauthority.com/microsoft-lens-app-phasing-out-3585594/)
- - [Microsoft will phase out its Lens scanner app, launched in 2014 as Office Lens, starting in September; users can create new scans in the app only until December &lpar;Rishaj Upadhyay/Windows Report&rpar;](http://www.techmeme.com/250808/p23#a250808p23)
- - [OnePlus 13 gets its own version of Google’s Best Take](https://www.androidauthority.com/oneplus-13-ai-perfect-shot-3585577/)<!-- TECH:END -->
+ - [Sources: the US has started issuing licenses to Nvidia to export H20 chips to China following weeks of inaction, after Jensen Huang met Trump on Wednesday &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p25#a250808p25)
+ - [Apple iPad Mini A17 Pro plummets to its record-low price, saving you $120](https://www.androidauthority.com/apple-ipad-mini-a17-pro-deal-5-3585600/)
+ - [Truth Social&#39;s New AI Chatbot Is Donald Trump&#39;s Media Diet Incarnate](https://www.wired.com/story/i-fear-truth-search-ai-might-be-biased-but-it-says-it-isnt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
