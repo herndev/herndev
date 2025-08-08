@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - ⏩ [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 👉 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)<!-- MEMES:END -->
+ - 💣 [Guess who&#39;s still around](http://9gag.com/gag/a0ewVeX)
+ - ⏩ [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
+ - 👉 [13%](http://9gag.com/gag/aRBDM82)<!-- MEMES:END -->
 
 ---
 
