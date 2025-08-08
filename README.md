@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Announces New Dino Crisis…Merch Sale](https://kotaku.com/capcom-new-dino-crisis-merch-event-sequel-remake-horror-2000616659)
- - [Baldur’s Gate 3’s Dark Urge must become an evil RPG standard](https://www.polygon.com/baldurs-gate-3-dark-urge-route/)
- - [Former Blizzard president predicts Battlefield 6 is going to &#39;boot stomp&#39; Black Ops 7 because Call of Duty has become &#39;lazy&#39;](https://www.pcgamer.com/games/fps/former-blizzard-president-predicts-battlefield-6-is-going-to-boot-stomp-black-ops-7-because-call-of-duty-has-become-lazy/)<!-- GAME:END -->
+ - [My new laptop chip has an &#39;AI&#39; processor in it, and it&#39;s a complete waste of space](https://www.pcgamer.com/hardware/my-new-laptop-chip-has-an-ai-processor-in-it-and-its-a-complete-waste-of-space/)
+ - [Official PlayStation Podcast Episode 520: Four on the Floor](https://blog.playstation.com/2025/08/08/official-playstation-podcast-episode-520-four-on-the-floor/)
+ - [Official PlayStation Podcast Episode 520: Four on the Floor](https://blog.playstation.com/2025/08/08/official-playstation-podcast-episode-520-four-on-the-floor/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
