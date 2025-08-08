@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donald Trump Orders Crackdown on Politically-Motivated ‘Debanking’](https://www.wired.com/story/donald-trump-orders-crackdown-on-politically-motivated-debanking/)
  - [Is Google Messages crashing for you? You’re not alone.](https://www.androidauthority.com/google-messages-app-crashing-3585236/)
- - [As Trump targets Intel CEO Lip-Bu Tan, a look at his VC firm Walden International, which has invested $5B+ in 600+ companies, with 100+ in China including SMIC &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250808/p6#a250808p6)
- - [Analysis: 12 Chinese tech companies have applied to list in Hong Kong so far this year, the most since 2023, after rules allowed lossmaking companies to float &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p5#a250808p5)<!-- TECH:END -->
+ - [As Trump targets Intel CEO Lip-Bu Tan, a look at his VC firm Walden International, which has invested $5B+ in 600+ companies, with 100+ in China including SMIC &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250808/p6#a250808p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
