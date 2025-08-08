@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
- - ⏩ [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
- - 👉 [We never got our rights from asking nicely](http://9gag.com/gag/an7Vvj5)<!-- MEMES:END -->
+ - 💣 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - ⏩ [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
+ - 👉 [Lizard](http://9gag.com/gag/a9yBvgL)<!-- MEMES:END -->
 
 ---
 
