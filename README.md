@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dropout&#39;s Jacob Wysocki details how his &#39;crazy&#39; Game Changer episode game together](https://www.polygon.com/dropout-game-changer-jacob-wysocki-interview/)
- - [Announcing the Hellblade x Passarella Capsule Collection](https://www.passarella.co.uk/hellblade#new_tab)
- - [It&#39;s 2025 and we still can&#39;t decide on a universal input for crouching](https://www.pcgamer.com/games/its-2025-and-we-still-cant-decide-on-a-universal-input-for-crouching/)<!-- GAME:END -->
+ - [History Reclaimed, Futures Reimagined: Celebrating Indigenous Storytelling Through Games](https://news.xbox.com/en-us/2025/08/08/international-day-worlds-indigenous-peoples-2025-xbox/)
+ - [Sekiro-likes are in a golden age, Batman games are in a drought, which makes the ground fertile for the Dark Knight soulslike I&#39;ve always dreamed about](https://www.pcgamer.com/games/sekiro-likes-are-in-a-golden-age-batman-games-are-in-a-drought-which-makes-the-ground-fertile-for-the-dark-knight-soulslike-ive-always-dreamed-about/)
+ - [Chukwudi Iwuji&#39;s Peacemaker Character May Return in DCU — But There&#39;s a Catch](https://www.polygon.com/chukwudi-iwuji-peacemaker-dcu-recast-james-gunn/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
