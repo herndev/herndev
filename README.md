@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jurassic World Rebirth and every new movie you can now watch on streaming](https://www.polygon.com/new-movies-on-streaming-watch-jurassic-world-rebirth-the-monkey-the-accountant/)
- - [Peak players have dust devils and deadly cacti to fear in its Mesa Update coming next week](https://www.pcgamer.com/games/adventure/peak-players-have-dust-devils-and-deadly-cacti-to-fear-in-its-mesa-update-coming-next-week/)
- - [Battlefield 6 hackers are terrorizing the beta with impossible powers, cheats](https://www.polygon.com/battlefield-6-cheats-hacks-aimbot-radar-triggerbot-secure-boot/)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: 4 Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-and-roger-earthion-earthbound-splinter-cell-2000616720)
+ - [We Are Likely Going To Get A Game Changer Or Dimension 20 Video Game In The Future](https://kotaku.com/game-changer-dropout-video-game-sam-reich-interview-dimension-20-2000616708)
+ - [Remembering Metal Gear Online, A Silly And Wonderful Stealth Experience](https://kotaku.com/metal-gear-online-mgo-2-rpcs3-fox-hunt-delta-remake-2000616716)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
