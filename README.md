@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [iPad Pro &amp; MacBook Air get mashed up into the MacBook Apple won&#39;t make](https://appleinsider.com/articles/25/08/08/ipad-pro-macbook-air-get-mashed-up-into-the-macbook-apple-wont-make?utm_source=rss)
- - [Big Galaxy S26 changes, even bigger Android changes | Authority Insights Podcast #001](https://www.androidauthority.com/authority-insights-podcast-001-3584631/)<!-- TECH:END -->
+ - [OpenAI says ChatGPT Pro users can select old models for now but plans to deprecate them in 60 days; Sam Altman says Plus users will be able to keep using GPT-4o &lpar;Joanna Stern/Joanna Stern&#39;s Newsletter&rpar;](http://www.techmeme.com/250808/p21#a250808p21)
+ - [Massive Pixel leak spoils everything ahead of Google launch event](https://www.androidauthority.com/google-pixel-hardware-specs-revealed-3585509/)
+ - [The Vibes-Based Pricing of ‘Pro’ AI Software](https://www.wired.com/story/uncanny-valley-podcast-vibes-based-pricing-pro-ai-software/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
