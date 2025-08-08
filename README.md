@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Marc Andreessen complained to the UK government last week about the Online Safety Act and called for a reprimand of technology secretary Peter Kyle &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p12#a250808p12)
- - [The end is near for flagships with puny 128GB storage](https://www.androidauthority.com/end-is-near-128gb-storage-flagships-3585333/)
- - [Pixel 10 Pro lineup smiles for the camera in new video leak, alongside Pixel Watch 4](https://www.androidauthority.com/pixel-10-pro-fold-watch-4-leak-videos-3585316/)<!-- TECH:END -->
+ - [GPT-5&#39;s system card says gpt-5-thinking has a hallucination rate of 4.5% with browsing enabled, compared to gpt-5-main&#39;s 9.6%, GPT-4o&#39;s 12.9%, and o3&#39;s 12.7% &lpar;Cecily Mauran/Mashable&rpar;](http://www.techmeme.com/250808/p14#a250808p14)
+ - [Turn your AirPods Max into a masterpiece with Casetify’s new headphone wrap](https://www.theverge.com/news/756693/casetify-apple-airpods-max-johannes-vermeer-girl-with-a-pearl-earring)
+ - [What is Laura Loomer?](https://www.theverge.com/politics/756411/laura-loomer-explainer-maga-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
