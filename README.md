@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon wants to win back your loyalty with damage control discounts](https://www.androidauthority.com/verizon-retention-valued-customer-discounts-3585244/)
- - [The Anker SOLIX F3000 is my new favorite high-capacity power station for one simple reason](https://www.androidauthority.com/anker-solix-f3000-portable-power-station-review-3579542/)
- - [How to back up your Mac under macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-back-up-your-mac-under-macos-tahoe?utm_source=rss)<!-- TECH:END -->
+ - [I spent over a week with the Galaxy Z Flip 7 and it’s not the foldable I wanted it to be](https://www.androidauthority.com/samsung-galaxy-z-flip-7-review-3582634/)
+ - [Samsung bashes Chinese watches, says it’s already working on Galaxy Watch 9, 10](https://www.androidauthority.com/galaxy-watch-8-9-10-in-works-3585273/)
+ - [Apple says Apple Intelligence will use OpenAI&#39;s GPT-5 on iOS 26, iPadOS 26, and macOS Tahoe 26, with the system updates expected to arrive in September &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250808/p8#a250808p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
