@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence’s ChatGPT integration will use GPT-5 starting with iOS 26](https://www.theverge.com/news/756799/apple-intelligence-openai-chatgpt-gpt-5-ios-26)
- - [Avia Smart Deadbolt+ and SolarPro review: Home Key convenience, traditional package](https://appleinsider.com/articles/25/08/08/avia-smart-deadbolt-and-solarpro-review-home-key-convenience-traditional-package?utm_source=rss)
- - [Price war: Save up to $400 on MacBook Pros this weekend](https://appleinsider.com/articles/25/08/08/price-war-save-up-to-400-on-macbook-pros-this-weekend?utm_source=rss)<!-- TECH:END -->
+ - [Mini Ikea stores will be opening inside select Best Buy locations this year](https://www.theverge.com/news/756868/ikea-retail-experience-best-buy)
+ - [Ripple and the SEC agree to dismiss their court appeals, ending a lawsuit but leaving a judge&#39;s injunction on XRP sales to institutions and a $125M fine intact &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250808/p18#a250808p18)
+ - [Instagram’s Map is here, and this is how you can turn it off](https://www.theverge.com/news/756798/instagram-map-how-to-turn-it-off)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
