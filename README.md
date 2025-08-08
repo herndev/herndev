@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
- - ⏩ [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 👉 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)<!-- MEMES:END -->
+ - ⏩ [...](http://9gag.com/gag/a34n0WN)
+ - 👉 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)<!-- MEMES:END -->
 
 ---
 
