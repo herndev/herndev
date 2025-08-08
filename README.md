@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Weekend Guide: 4 Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-and-roger-earthion-earthbound-splinter-cell-2000616720)
- - [We Are Likely Going To Get A Game Changer Or Dimension 20 Video Game In The Future](https://kotaku.com/game-changer-dropout-video-game-sam-reich-interview-dimension-20-2000616708)
- - [Remembering Metal Gear Online, A Silly And Wonderful Stealth Experience](https://kotaku.com/metal-gear-online-mgo-2-rpcs3-fox-hunt-delta-remake-2000616716)<!-- GAME:END -->
+ - [Battlefield 6&#39;s anti-cheat has already stopped 330,000 &#39;attempts to cheat&#39; in the open beta, but players are still calling out wallhackers who slip through the net](https://www.pcgamer.com/games/fps/battlefield-6s-anti-cheat-has-already-stopped-330-000-attempts-to-cheat-in-the-open-beta-but-players-are-still-calling-out-wallhackers-who-slip-through-the-net/)
+ - [The most honest survival game I&#39;ve ever played is this unemployment simulator](https://www.pcgamer.com/games/sim/the-most-honest-survival-game-ive-ever-played-is-this-unemployment-simulator/)
+ - [The Tencent survival game being sued by Sony quietly purges most Horizon-like content from its Steam page, bumps release date to late 2027](https://www.pcgamer.com/games/survival-crafting/the-tencent-survival-game-being-sued-by-sony-quietly-purges-most-horizon-like-content-from-its-steam-page-bumps-release-date-to-late-2027/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
