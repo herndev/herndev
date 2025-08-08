@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m Losing?Inconceivable!](http://9gag.com/gag/aPAnoOB)
- - ⏩ [Captain Slow has no chill](http://9gag.com/gag/aoyDRDn)
- - 👉 [Leopard](http://9gag.com/gag/a34nyPr)<!-- MEMES:END -->
+ - 💣 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
+ - ⏩ [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)
+ - 👉 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)<!-- MEMES:END -->
 
 ---
 
