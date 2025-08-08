@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think we all know where this is going...](http://9gag.com/gag/azxQK9q)
- - ⏩ [Captain Slow has no chill](http://9gag.com/gag/aoyDRDn)
- - 👉 [Lizard](http://9gag.com/gag/a9yBvgL)<!-- MEMES:END -->
+ - 💣 [They might get radioactive but will never become fireproof](http://9gag.com/gag/aryzA1K)
+ - ⏩ [Went wrong here?](http://9gag.com/gag/amon62X)
+ - 👉 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)<!-- MEMES:END -->
 
 ---
 
