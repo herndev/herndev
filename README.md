@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yup, People Are Already Using Cheats In Battlefield 6‘s Open Beta](https://kotaku.com/battlefield-6-open-beta-cheating-cheaters-hacks-ea-dice-secureboot-pc-2000616686)
- - [After flying around the world to play my most anticipated action RPG, I&#39;m convinced Black Myth Wukong was just an opening salvo for big budget Chinese games](https://www.pcgamer.com/games/action/phantom-blade-zero-preview-chinese-action-games-soulslikes-kung-fu/)
- - [2-time Arima Kinen champion Grass Wonder dies at 30](https://www.pcgamer.com/games/sim/2-time-arima-kinen-champion-grass-wonder-dies-at-30/)<!-- GAME:END -->
+ - [Jurassic World Rebirth and every new movie you can now watch on streaming](https://www.polygon.com/new-movies-on-streaming-watch-jurassic-world-rebirth-the-monkey-the-accountant/)
+ - [Peak players have dust devils and deadly cacti to fear in its Mesa Update coming next week](https://www.pcgamer.com/games/adventure/peak-players-have-dust-devils-and-deadly-cacti-to-fear-in-its-mesa-update-coming-next-week/)
+ - [Battlefield 6 hackers are terrorizing the beta with impossible powers, cheats](https://www.polygon.com/battlefield-6-cheats-hacks-aimbot-radar-triggerbot-secure-boot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
