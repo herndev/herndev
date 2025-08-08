@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta picks Pimco and Blue Owl to lead a $29B financing for its Louisiana data center expansion, providing $26B in debt and $3B in equity, respectively &lpar;Bloomberg&rpar;](http://www.techmeme.com/250807/p55#a250807p55)
- - [Satisfy your charging needs with these two deals!](https://www.androidauthority.com/ugreen-100w-charger-anker-surge-protector-power-strip-2100j-deals-3585145/)
- - [Google says it&#39;s working on a fix for Gemini&#39;s self-loathing comments, which have included &quot;I am a failure. I am a disgrace to my profession.&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/250807/p54#a250807p54)<!-- TECH:END -->
+ - [Sources: TBD Lab, a team under Meta Superintelligence Labs that houses many researchers poached from rival labs, is spearheading work on Llama&#39;s newest version &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p58#a250807p58)
+ - [Twilio Q2: revenue up 13% YoY to $1.23B, vs. $1.19B est., 349K+ active customer accounts, and Q3 earnings forecast below est.; TWLO falls 10%+ after hours &lpar;Brandon Evans/Seeking Alpha&rpar;](http://www.techmeme.com/250807/p57#a250807p57)
+ - [The Browser Company launches a $20-per-month Dia Pro subscription plan, providing unlimited access to the web browser&#39;s AI-powered chat and skills features &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250807/p56#a250807p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
