@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 codename: Our survey reveals your top dessert choice](https://www.androidauthority.com/android-17-dessert-codename-poll-result-3585307/)
- - [Sources: SoftBank purchased Foxconn&#39;s EV plant in Ohio for $375M, a move aimed at kickstarting its $500B Stargate data center project with OpenAI and Oracle &lpar;Bloomberg&rpar;](http://www.techmeme.com/250808/p9#a250808p9)
- - [WIRED Tested Dozens of Blenders. These Are Our 9 Favorites &lpar;2025&rpar;](https://www.wired.com/gallery/best-blender/)<!-- TECH:END -->
+ - [Sources: Marc Andreessen complained to the UK government last week about the Online Safety Act and called for a reprimand of technology secretary Peter Kyle &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p12#a250808p12)
+ - [The end is near for flagships with puny 128GB storage](https://www.androidauthority.com/end-is-near-128gb-storage-flagships-3585333/)
+ - [Pixel 10 Pro lineup smiles for the camera in new video leak, alongside Pixel Watch 4](https://www.androidauthority.com/pixel-10-pro-fold-watch-4-leak-videos-3585316/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
