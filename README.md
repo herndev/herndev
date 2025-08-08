@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump Orders Crackdown on Politically-Motivated ‘Debanking’](https://www.wired.com/story/donald-trump-orders-crackdown-on-politically-motivated-debanking/)
- - [Is Google Messages crashing for you? You’re not alone.](https://www.androidauthority.com/google-messages-app-crashing-3585236/)
- - [As Trump targets Intel CEO Lip-Bu Tan, a look at his VC firm Walden International, which has invested $5B+ in 600+ companies, with 100+ in China including SMIC &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250808/p6#a250808p6)<!-- TECH:END -->
+ - [4 apps you should use instead of Google News](https://www.androidauthority.com/google-news-alternatives-3584732/)
+ - [Is Google TV in trouble? A new report reveals concerning details](https://www.androidauthority.com/google-tv-troubles-ad-revenue-3585247/)
+ - [Apple’s lock on iPhone browser engines gets a December deadline](https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
