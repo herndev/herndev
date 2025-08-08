@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek: Strange New Worlds&#39; latest episode parallels Stargate&#39;s ancient aliens](https://www.polygon.com/star-trek-strange-new-worlds-stargate-reboot/)
- - [Modders are trying their hardest to add an NVMe SSD to the Switch 2, which is both impressive and something I&#39;m not going to do](https://www.pcgamer.com/hardware/handheld-gaming-pcs/modders-are-trying-their-hardest-to-add-an-nvme-ssd-to-the-switch-2-which-is-both-impressive-and-something-im-not-going-to-do/)
- - [Amazon Prime Gaming’s Latest Batch Of Freebies Can Be Grabbed Now](https://kotaku.com/amazon-prime-free-games-civilization-thief-2000616600)<!-- GAME:END -->
+ - [Every game is a roguelike deckbuilder now, but I&#39;ve finally found a few that have stopped me being a hater](https://www.pcgamer.com/games/roguelike/every-game-is-a-roguelike-deckbuilder-now-but-ive-finally-found-a-few-that-have-stopped-me-being-a-hater/)
+ - [Josh Brolin on confronting masculinity in horror epic Weapons](https://www.polygon.com/josh-brolin-weapons-interview/)
+ - [The hottest upcoming horror game releases of 2025 and beyond](https://blog.playstation.com/2025/08/08/the-hottest-upcoming-horror-game-releases-of-2025-and-beyond/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
