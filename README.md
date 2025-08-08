@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its not like in the movie](http://9gag.com/gag/aZZv1n6)
- - ⏩ [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)
- - 👉 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)<!-- MEMES:END -->
+ - 💣 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)
+ - ⏩ [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
+ - 👉 [Went wrong here?](http://9gag.com/gag/amon62X)<!-- MEMES:END -->
 
 ---
 
