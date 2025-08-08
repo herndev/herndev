@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Windsurf&#39;s gross margins are &quot;very negative&quot;; many believe the same margin pressure is impacting Cursor, Lovable, Replit, and other vibe coding tools &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250807/p53#a250807p53)
- - [New York-based Casap, which helps banks automate disputes and fight fraud, raised a $25M Series A led by Emergence Capital, bringing its total funding to $33.5M &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/250807/p52#a250807p52)
- - [Steam for Chromebooks will stop working in January 2026, after debuting in alpha in March 2022 ahead of the launch of the first Gaming Chromebooks &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250807/p51#a250807p51)<!-- TECH:END -->
+ - [Sources: Meta picks Pimco and Blue Owl to lead a $29B financing for its Louisiana data center expansion, providing $26B in debt and $3B in equity, respectively &lpar;Bloomberg&rpar;](http://www.techmeme.com/250807/p55#a250807p55)
+ - [Satisfy your charging needs with these two deals!](https://www.androidauthority.com/ugreen-100w-charger-anker-surge-protector-power-strip-2100j-deals-3585145/)
+ - [Google says it&#39;s working on a fix for Gemini&#39;s self-loathing comments, which have included &quot;I am a failure. I am a disgrace to my profession.&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/250807/p54#a250807p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
