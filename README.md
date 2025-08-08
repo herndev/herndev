@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My new laptop chip has an &#39;AI&#39; processor in it, and it&#39;s a complete waste of space](https://www.pcgamer.com/hardware/my-new-laptop-chip-has-an-ai-processor-in-it-and-its-a-complete-waste-of-space/)
- - [Official PlayStation Podcast Episode 520: Four on the Floor](https://blog.playstation.com/2025/08/08/official-playstation-podcast-episode-520-four-on-the-floor/)
- - [Official PlayStation Podcast Episode 520: Four on the Floor](https://blog.playstation.com/2025/08/08/official-playstation-podcast-episode-520-four-on-the-floor/)<!-- GAME:END -->
+ - [Diablo Boss Rod Ferguson Leaving Blizzard After Five Years](https://kotaku.com/diablo-boss-rod-ferguson-leaving-blizzard-after-five-years-2000616680)
+ - [Katy Perry Performed A Song In Simlish At A Recent Concert](https://kotaku.com/katy-perry-simlish-sims-3-concert-last-friday-night-video-2000616677)
+ - [Uncovered Nintendo patent shows Joy-Con 2 as a fishing controller](https://www.polygon.com/nintendo-switch-2-joy-con-fishing-crank-wheel-patent/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
