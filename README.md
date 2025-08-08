@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An elderly Afghan man started a small photo business with a 100-year-old camera.](http://9gag.com/gag/axy4bvW)
- - ⏩ [Here&#39;s to 40!!!](http://9gag.com/gag/aRBDzvy)
- - 👉 [Hehe...](http://9gag.com/gag/a7oAV5x)<!-- MEMES:END -->
+ - 💣 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - ⏩ [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - 👉 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)<!-- MEMES:END -->
 
 ---
 
