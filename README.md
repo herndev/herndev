@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 apps you should use instead of Google News](https://www.androidauthority.com/google-news-alternatives-3584732/)
- - [Is Google TV in trouble? A new report reveals concerning details](https://www.androidauthority.com/google-tv-troubles-ad-revenue-3585247/)
- - [Apple’s lock on iPhone browser engines gets a December deadline](https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers)<!-- TECH:END -->
+ - [Verizon wants to win back your loyalty with damage control discounts](https://www.androidauthority.com/verizon-retention-valued-customer-discounts-3585244/)
+ - [The Anker SOLIX F3000 is my new favorite high-capacity power station for one simple reason](https://www.androidauthority.com/anker-solix-f3000-portable-power-station-review-3579542/)
+ - [How to back up your Mac under macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-back-up-your-mac-under-macos-tahoe?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
