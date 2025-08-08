@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tesla is disbanding the Dojo supercomputer team, and its leader is leaving, after ~20 team members joined DensityAI, a new data center services startup &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250807/p48#a250807p48)
- - [Sources: German AI startup n8n is expected to raise hundreds of millions of euros led by Accel at a pre-money valuation of $2.3B, up from ~$350M four months ago &lpar;Bloomberg&rpar;](http://www.techmeme.com/250807/p49#a250807p49)
- - [Deal: This huge Amazon Fire TV Omni QLED Series TV is only $449.99!](https://www.androidauthority.com/amazon-fire-tv-omni-qled-series-65-inch-4k-uhd-smart-tv-deal-3585146/)<!-- TECH:END -->
+ - [Source: Windsurf&#39;s gross margins are &quot;very negative&quot;; many believe the same margin pressure is impacting Cursor, Lovable, Replit, and other vibe coding tools &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250807/p53#a250807p53)
+ - [New York-based Casap, which helps banks automate disputes and fight fraud, raised a $25M Series A led by Emergence Capital, bringing its total funding to $33.5M &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/250807/p52#a250807p52)
+ - [Steam for Chromebooks will stop working in January 2026, after debuting in alpha in March 2022 ahead of the launch of the first Gaming Chromebooks &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250807/p51#a250807p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
