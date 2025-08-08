@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They might get radioactive but will never become fireproof](http://9gag.com/gag/aryzA1K)
- - ⏩ [Went wrong here?](http://9gag.com/gag/amon62X)
- - 👉 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)<!-- MEMES:END -->
+ - 💣 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
+ - ⏩ [Title](http://9gag.com/gag/aQzVQQd)
+ - 👉 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)<!-- MEMES:END -->
 
 ---
 
