@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They might get radioactive but will never become fireproof](http://9gag.com/gag/aryzA1K)
- - ⏩ [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 👉 [Basketball moment](http://9gag.com/gag/ae9WZ2b)<!-- MEMES:END -->
+ - 💣 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - ⏩ [Hehe...](http://9gag.com/gag/a7oAV5x)
+ - 👉 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)<!-- MEMES:END -->
 
 ---
 
