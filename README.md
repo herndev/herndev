@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh boy oh boy](http://9gag.com/gag/avymeQX)
- - ⏩ [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
- - 👉 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)<!-- MEMES:END -->
+ - 💣 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
+ - ⏩ [Oh boy oh boy](http://9gag.com/gag/avymeQX)
+ - 👉 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)<!-- MEMES:END -->
 
 ---
 
