@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
- - ⏩ [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
- - 👉 [13%](http://9gag.com/gag/aRBDM82)<!-- MEMES:END -->
+ - 💣 [An elderly Afghan man started a small photo business with a 100-year-old camera.](http://9gag.com/gag/axy4bvW)
+ - ⏩ [Here&#39;s to 40!!!](http://9gag.com/gag/aRBDzvy)
+ - 👉 [Hehe...](http://9gag.com/gag/a7oAV5x)<!-- MEMES:END -->
 
 ---
 
