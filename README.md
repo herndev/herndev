@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPT-5&#39;s system card says gpt-5-thinking has a hallucination rate of 4.5% with browsing enabled, compared to gpt-5-main&#39;s 9.6%, GPT-4o&#39;s 12.9%, and o3&#39;s 12.7% &lpar;Cecily Mauran/Mashable&rpar;](http://www.techmeme.com/250808/p14#a250808p14)
- - [Turn your AirPods Max into a masterpiece with Casetify’s new headphone wrap](https://www.theverge.com/news/756693/casetify-apple-airpods-max-johannes-vermeer-girl-with-a-pearl-earring)
- - [What is Laura Loomer?](https://www.theverge.com/politics/756411/laura-loomer-explainer-maga-trump)<!-- TECH:END -->
+ - [This three-pack of fast Wi-Fi 7 routers is under $200 for the first time](https://www.theverge.com/tech/756663/tp-link-be25-wifi-routers-ring-battery-doorbell-deal-sale)
+ - [8BitDo’s Pro 3 is a super customizable controller that’s too limited on Switch 2](https://www.theverge.com/reviews/755307/8bitdo-pro-3-controller-review-pc-nintendo-switch-2)
+ - [Nintendo’s new Hello, Mario! mobile app lets kids play with Mario’s face](https://www.theverge.com/news/756718/nintendo-super-mario-kids-hello-mario-free-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
