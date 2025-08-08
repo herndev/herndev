@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI gives some employees a ‘special’ multimillion-dollar bonus](https://www.theverge.com/command-line-newsletter/756561/openai-employees-bonus-sam-altman-ai-talent-wars)
- - [An analysis of 96K public ChatGPT transcripts finds 100+ lengthy chats, of which dozens exhibited delusional traits where ChatGPT reinforced users&#39; fringe ideas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250807/p59#a250807p59)
- - [Bumper Pixel Watch 4 leak reveals juicy upgrades are on the way!](https://www.androidauthority.com/pixel-watch-4-specs-features-leak-3585196/)<!-- TECH:END -->
+ - [Intel CEO Lip-Bu Tan tells employees the company is engaging with the Trump administration to address concerns about him and &quot;ensure they have the facts&quot; &lpar;Lip-Bu Tan/Intel&rpar;](http://www.techmeme.com/250808/p4#a250808p4)
+ - [Decart, which offers real-time generative video and GPU optimization tech to cloud providers and AI companies, raised a $100M Series B at a $3.1B valuation &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250808/p3#a250808p3)
+ - [Bit Digital-owned AI infrastructure company WhiteFiber closed down 4.59% in its Nasdaq debut, after raising $159.4M in an IPO, valuing the company at $619M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250808/p2#a250808p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
