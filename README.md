@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI gives some employees a ‘special’ multimillion-dollar bonus](https://www.theverge.com/command-line-newsletter/756561/openai-employees-bonus-sam-altman-ai-talent-wars)
  - [An analysis of 96K public ChatGPT transcripts finds 100+ lengthy chats, of which dozens exhibited delusional traits where ChatGPT reinforced users&#39; fringe ideas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250807/p59#a250807p59)
- - [Bumper Pixel Watch 4 leak reveals juicy upgrades are on the way!](https://www.androidauthority.com/pixel-watch-4-specs-features-leak-3585196/)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Aug. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-aug-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bumper Pixel Watch 4 leak reveals juicy upgrades are on the way!](https://www.androidauthority.com/pixel-watch-4-specs-features-leak-3585196/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
