@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Juggernaut](http://9gag.com/gag/aGyb8MZ)
- - ⏩ [This is good](http://9gag.com/gag/a87zmVZ)
- - 👉 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)<!-- MEMES:END -->
+ - 💣 [Its not like in the movie](http://9gag.com/gag/aZZv1n6)
+ - ⏩ [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)
+ - 👉 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)<!-- MEMES:END -->
 
 ---
 
