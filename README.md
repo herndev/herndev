@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gina Carano&#39;s Star Wars lawsuit settlement leaves door open for Mandalorian return](https://www.polygon.com/star-wars-gina-carano-disney-lawsuit-settled-mandalorian-cara-dune/)
  - [Battlefield 6 is making an excellent case to skip Call of Duty this year](https://www.pcgamer.com/games/fps/battlefield-6-is-making-an-excellent-case-to-skip-call-of-duty-this-year/)
- - [GTA 6 price should &#39;deliver more value than what we charge,&#39; Take-Two CEO says](https://www.polygon.com/gta-6-price-value-rockstar-games-take-two/)
- - [Somebody spilled some Minecraft in this hardcore first-person RPG, and I love the result way more than I ever thought possible](https://www.pcgamer.com/games/rpg/somebody-spilled-some-minecraft-in-this-hardcore-first-person-rpg-and-i-love-the-result-way-more-than-i-ever-thought-possible/)<!-- GAME:END -->
+ - [GTA 6 price should &#39;deliver more value than what we charge,&#39; Take-Two CEO says](https://www.polygon.com/gta-6-price-value-rockstar-games-take-two/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
