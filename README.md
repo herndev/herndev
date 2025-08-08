@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gina Carano&#39;s Star Wars lawsuit settlement leaves door open for Mandalorian return](https://www.polygon.com/star-wars-gina-carano-disney-lawsuit-settled-mandalorian-cara-dune/)
- - [Battlefield 6 is making an excellent case to skip Call of Duty this year](https://www.pcgamer.com/games/fps/battlefield-6-is-making-an-excellent-case-to-skip-call-of-duty-this-year/)
- - [GTA 6 price should &#39;deliver more value than what we charge,&#39; Take-Two CEO says](https://www.polygon.com/gta-6-price-value-rockstar-games-take-two/)<!-- GAME:END -->
+ - [Total War: Shogun started out as &#39;a quick and cheerful B-grade RTS&#39; to help Creative Assembly raise funds for its dream game—an RPG based on Monkey: Journey to the West](https://www.pcgamer.com/games/strategy/total-war-shogun-started-out-as-a-quick-and-cheerful-b-grade-rts-to-help-creative-assembly-raise-funds-for-its-dream-game-an-rpg-based-on-monkey-journey-to-the-west/)
+ - [Today&#39;s Wordle clues, hints and answer for August 8 &lpar;#1511&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-8-2025/)
+ - [Gina Carano&#39;s Star Wars lawsuit settlement leaves door open for Mandalorian return](https://www.polygon.com/star-wars-gina-carano-disney-lawsuit-settled-mandalorian-cara-dune/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
