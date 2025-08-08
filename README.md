@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In a twisty tale of corporate espionage, TSMC employees allegedly shared 400 photos of the company&#39;s cutting-edge 2 nm process node with a Japanese rival](https://www.pcgamer.com/hardware/tsmc-employees-allegedly-shared-400-photos-of-the-companys-cutting-edge-2-nm-process-node-with-a-japanese-firm-in-twisting-tale-still-unfurling/)
- - [We might actually have a tenuous Silksong release date, absolutely nobody on my team believes me, and I think I can hear Hornet in my walls](https://www.pcgamer.com/games/action/we-might-actually-have-a-tenuous-silksong-release-date-absolutely-nobody-on-my-team-believes-me-and-i-think-i-can-hear-hornet-in-my-walls/)
- - [Pokémon TCG Pocket‘s Allegedly Plagiarized Cards Are Finally Replaced](https://kotaku.com/pokemon-tcg-pocket-ho-oh-lugia-plagiarism-new-art-2000616590)<!-- GAME:END -->
+ - [Star Trek: Strange New Worlds&#39; latest episode parallels Stargate&#39;s ancient aliens](https://www.polygon.com/star-trek-strange-new-worlds-stargate-reboot/)
+ - [Modders are trying their hardest to add an NVMe SSD to the Switch 2, which is both impressive and something I&#39;m not going to do](https://www.pcgamer.com/hardware/handheld-gaming-pcs/modders-are-trying-their-hardest-to-add-an-nvme-ssd-to-the-switch-2-which-is-both-impressive-and-something-im-not-going-to-do/)
+ - [Amazon Prime Gaming’s Latest Batch Of Freebies Can Be Grabbed Now](https://kotaku.com/amazon-prime-free-games-civilization-thief-2000616600)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
