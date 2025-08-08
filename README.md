@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [History Reclaimed, Futures Reimagined: Celebrating Indigenous Storytelling Through Games](https://news.xbox.com/en-us/2025/08/08/international-day-worlds-indigenous-peoples-2025-xbox/)
- - [Sekiro-likes are in a golden age, Batman games are in a drought, which makes the ground fertile for the Dark Knight soulslike I&#39;ve always dreamed about](https://www.pcgamer.com/games/sekiro-likes-are-in-a-golden-age-batman-games-are-in-a-drought-which-makes-the-ground-fertile-for-the-dark-knight-soulslike-ive-always-dreamed-about/)
- - [Chukwudi Iwuji&#39;s Peacemaker Character May Return in DCU — But There&#39;s a Catch](https://www.polygon.com/chukwudi-iwuji-peacemaker-dcu-recast-james-gunn/)<!-- GAME:END -->
+ - [Capcom Announces New Dino Crisis…Merch Sale](https://kotaku.com/capcom-new-dino-crisis-merch-event-sequel-remake-horror-2000616659)
+ - [Baldur’s Gate 3’s Dark Urge must become an evil RPG standard](https://www.polygon.com/baldurs-gate-3-dark-urge-route/)
+ - [Former Blizzard president predicts Battlefield 6 is going to &#39;boot stomp&#39; Black Ops 7 because Call of Duty has become &#39;lazy&#39;](https://www.pcgamer.com/games/fps/former-blizzard-president-predicts-battlefield-6-is-going-to-boot-stomp-black-ops-7-because-call-of-duty-has-become-lazy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
