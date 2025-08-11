@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your OnePlus phone might soon get a handy new Gemini feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-oneplus-mind-space-apk-teardown-3586032/)
- - [SEC filing: crypto exchange Bullish increased the size and price of its US IPO to sell 30M shares for $32 to $33 each, up from 20.3M shares for $28 to $31 each &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/250811/p26#a250811p26)
- - [Google’s unreleased Pixel Tablet Pen had its own magnetic sleeve](https://www.androidauthority.com/google-pixel-tablet-pen-sleeve-3586023/)<!-- TECH:END -->
+ - [Anthropic’s Claude chatbot can now remember your past conversations](https://www.theverge.com/news/757743/anthropic-claude-ai-search-past-chats)
+ - [Trump says he met with Lip-Bu Tan and that the Intel CEO will continue talks with his Cabinet members in the coming days, after calling for his resignation &lpar;Skylar Woodhouse/Bloomberg&rpar;](http://www.techmeme.com/250811/p28#a250811p28)
+ - [The Yomiuri Shimbun, Japan&#39;s largest newspaper by circulation, sues Perplexity, alleging unauthorized reproduction of its articles, and seeks $14.7M in damages &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250811/p27#a250811p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
