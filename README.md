@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic adds a memory feature for Claude to reference information from past chats, available now for Max, Team, and Enterprise plans, and soon for other plans &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250811/p23#a250811p23)
- - [Revel plans to wind down rideshare operations in its home city of New York after four years, pivoting to an EV-charging business that counts Uber as a partner &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250811/p22#a250811p22)
- - [This see-thru Game Boy is a work of art — because she designed a transparent circuit board](https://www.theverge.com/games/757662/natalie-the-nerd-transparent-translucent-game-boy-pcb)<!-- TECH:END -->
+ - [Your OnePlus phone might soon get a handy new Gemini feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-oneplus-mind-space-apk-teardown-3586032/)
+ - [SEC filing: crypto exchange Bullish increased the size and price of its US IPO to sell 30M shares for $32 to $33 each, up from 20.3M shares for $28 to $31 each &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/250811/p26#a250811p26)
+ - [Google’s unreleased Pixel Tablet Pen had its own magnetic sleeve](https://www.androidauthority.com/google-pixel-tablet-pen-sleeve-3586023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
