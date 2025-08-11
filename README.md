@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Play stupid games](http://9gag.com/gag/aGybAg0)
- - ⏩ [Wtf is that?](http://9gag.com/gag/a1mw2rP)
- - 👉 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)<!-- MEMES:END -->
+ - ⏩ [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
+ - 👉 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
 
 ---
 
