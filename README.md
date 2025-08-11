@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notion CEO Ivan Zhao wants you to demand better from your tools](https://www.theverge.com/decoder-podcast-with-nilay-patel/756736/notion-ceo-ivan-zhao-productivity-software-design-ai-interview)
- - [Apple may shift iPhone 17 Pro antennas to the camera bump](https://appleinsider.com/articles/25/08/11/apple-may-shift-iphone-17-pro-antennas-to-the-camera-bump?utm_source=rss)
- - [The CSA releases Matter 1.4.2 to improve reliability, stability, and cross-platform coordination, like Wi-Fi-only commissioning to cut its Bluetooth dependency &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250811/p13#a250811p13)<!-- TECH:END -->
+ - [US demands cut of Nvidia sales in order to ship AI chips to China](https://www.theverge.com/news/757428/donald-trump-nvidia-amd-ai-chip-sales-china)
+ - [In &#39;Alien: Earth&#39;, the Future Is a Corporate Hellscape](https://www.wired.com/story/in-alien-earth-the-future-is-a-corporate-hellscape/)
+ - [Ninja’s latest ice cream maker has never been cheaper](https://www.theverge.com/tech/757228/ninja-swirl-ice-cream-maker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
