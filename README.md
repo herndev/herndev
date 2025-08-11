@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A man gave himself an ailment rarely seen in the last hundred years after consulting ChatGPT on how to cut down on salt in his diet](https://www.pcgamer.com/software/ai/a-man-gave-himself-an-ailment-rarely-seen-in-the-last-hundred-years-after-consulting-chatgpt-on-how-to-cut-down-on-salt-in-his-diet/)
  - [Five new Steam games you probably missed &lpar;August 11, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-11-2025/)
- - [This asynchronous autobattler is like Backpack Battles meets FTL](https://www.pcgamer.com/games/strategy/check-the-demo-for-this-asynchronous-autobattler-thats-like-backpack-battles-meets-ftl/)
- - [D&amp;D&#39;s new Forgotten Realms books come with Astarion-themed digital DLC](https://www.pcgamer.com/games/rpg/d-and-ds-new-forgotten-realms-books-come-with-astarion-themed-digital-dlc/)<!-- GAME:END -->
+ - [This asynchronous autobattler is like Backpack Battles meets FTL](https://www.pcgamer.com/games/strategy/check-the-demo-for-this-asynchronous-autobattler-thats-like-backpack-battles-meets-ftl/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
