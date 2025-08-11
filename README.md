@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Weapons&#39; ending explains everything you actually need to know](https://www.polygon.com/weapons-ending-analysis-zach-cregger/)
- - [We have to be able to criticize Soulslike games](https://www.polygon.com/we-have-to-be-able-to-criticize-soulslike-games/)
- - [Former BioWare producer Mark Darrah thinks Dragon Age remasters are the series&#39; best hope for a future, but I doubt EA and BioWare even have it in them anymore](https://www.pcgamer.com/games/dragon-age/former-bioware-producer-mark-darrah-thinks-dragon-age-remasters-are-the-series-best-hope-for-a-future-but-i-doubt-ea-and-bioware-even-have-it-in-them-anymore/)<!-- GAME:END -->
+ - [I&#39;m hooting and hollering for this upcoming RPG about staging heists in the underworld from the publishers of Dwarf Fortress and the designers of one of the best narrative games of all time](https://www.pcgamer.com/games/rpg/im-hooting-and-hollering-for-this-upcoming-rpg-about-staging-heists-in-the-underworld-from-the-publishers-of-dwarf-fortress-and-the-designers-of-one-of-the-best-narrative-games-of-all-time/)
+ - [Thousands Of Dollars’ Worth Of Labubu Dolls Were Stolen During A Late-Night Robbery](https://kotaku.com/thousands-of-dollars-worth-of-labubu-dolls-were-stolen-during-a-late-night-robbery-2000616924)
+ - [Donkey Kong Bananza fans break game, set records with infinite flight](https://www.polygon.com/donkey-kong-bananza-switch-2-ifat-how-to-do-infinite-flight-speedrun/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
