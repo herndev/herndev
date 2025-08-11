@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The internet is about to get a little worse as Reddit moves to block the Internet Archive so AI companies can&#39;t scrape its content](https://www.pcgamer.com/games/the-internet-is-about-to-get-a-little-worse-as-reddit-moves-to-block-the-internet-archive-so-ai-companies-cant-scrape-its-content/)
- - [Here’s Our First Look At The Rumored $1,000 Lego Death Star Set Containing Over 9K Pieces](https://kotaku.com/death-star-lego-set-big-1000-expensive-leak-images-star-wars-2000616943)
- - [I&#39;m hooting and hollering for this upcoming RPG about staging heists in the underworld from the publishers of Dwarf Fortress and the designers of one of the best narrative games of all time](https://www.pcgamer.com/games/rpg/im-hooting-and-hollering-for-this-upcoming-rpg-about-staging-heists-in-the-underworld-from-the-publishers-of-dwarf-fortress-and-the-designers-of-one-of-the-best-narrative-games-of-all-time/)<!-- GAME:END -->
+ - [League Of Legends Dev Sends McDonald’s Jobs Link To Player Who Boosts Accounts For A Living](https://kotaku.com/league-of-legends-mcdonalds-job-application-boosting-smurfing-dev-riot-games-2000616955)
+ - [ChatGPT Just Became A Live-Service Game](https://kotaku.com/sam-altman-chatgpt-openai-gpt-5-world-warcraft-destiny-2000616944)
+ - [Google&#39;s Gemini AI tells a Redditor it&#39;s &#39;cautiously optimistic&#39; about fixing a coding bug, fails repeatedly, calls itself an embarrassment to &#39;all possible and impossible universes&#39; before repeating &#39;I am a disgrace&#39; 86 times in succession](https://www.pcgamer.com/software/platforms/googles-gemini-ai-tells-a-redditor-its-cautiously-optimistic-about-fixing-a-coding-bug-fails-repeatedly-calls-itself-an-embarrassment-to-all-possible-and-impossible-universes-before-repeating-i-am-a-disgrace-86-times-in-succession/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
