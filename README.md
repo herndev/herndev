@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US demands cut of Nvidia sales in order to ship AI chips to China](https://www.theverge.com/news/757428/donald-trump-nvidia-amd-ai-chip-sales-china)
- - [In &#39;Alien: Earth&#39;, the Future Is a Corporate Hellscape](https://www.wired.com/story/in-alien-earth-the-future-is-a-corporate-hellscape/)
- - [Ninja’s latest ice cream maker has never been cheaper](https://www.theverge.com/tech/757228/ninja-swirl-ice-cream-maker-deal-sale)<!-- TECH:END -->
+ - [Apple may shift iPhone 17 Pro antennas to the camera bump](https://appleinsider.com/articles/25/08/11/apple-may-shift-iphone-17-pro-antennas-to-the-camera-bump?utm_source=rss)
+ - [ESPN will offer a $39.99 bundle with Fox&amp;#8217;s live sports streaming service](https://www.theverge.com/news/757483/espn-fox-one-live-sports-streaming-service-bundle)
+ - [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
