@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
- - ⏩ [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
- - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
+ - 💣 [Life&#39;s a scam](http://9gag.com/gag/axy4OLK)
+ - ⏩ [Fr tho](http://9gag.com/gag/ayNP1bY)
+ - 👉 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
 
 ---
 
