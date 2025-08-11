@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Alien: Earth take place? The Alien timeline, explained](https://www.polygon.com/when-does-alien-earth-take-place/)
- - [Take-Two boss says Civilization 7 projections &#39;are very consistent with our initial expectations&#39; despite its rough start: &#39;The key thing is that Civ has always been a slow burn&#39;](https://www.pcgamer.com/games/strategy/take-two-boss-says-civilization-7-projections-are-very-consistent-with-our-initial-expectations-despite-its-rough-start-the-key-thing-is-that-civ-has-always-been-a-slow-burn/)
- - [You Can’t Swim In Mafia: The Old Country And That’s Fine](https://kotaku.com/mafia-4-old-country-swimming-open-world-baldurs-gate-2000616867)<!-- GAME:END -->
+ - [Weapons&#39; ending explains everything you actually need to know](https://www.polygon.com/weapons-ending-analysis-zach-cregger/)
+ - [We have to be able to criticize Soulslike games](https://www.polygon.com/we-have-to-be-able-to-criticize-soulslike-games/)
+ - [Former BioWare producer Mark Darrah thinks Dragon Age remasters are the series&#39; best hope for a future, but I doubt EA and BioWare even have it in them anymore](https://www.pcgamer.com/games/dragon-age/former-bioware-producer-mark-darrah-thinks-dragon-age-remasters-are-the-series-best-hope-for-a-future-but-i-doubt-ea-and-bioware-even-have-it-in-them-anymore/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
