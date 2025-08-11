@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F Garfield](http://9gag.com/gag/a2vG2L9)
- - ⏩ [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
- - 👉 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)<!-- MEMES:END -->
+ - 💣 [Thanks God of Random](http://9gag.com/gag/ayNPRGp)
+ - ⏩ [The good old days](http://9gag.com/gag/aPAnXVG)
+ - 👉 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)<!-- MEMES:END -->
 
 ---
 
