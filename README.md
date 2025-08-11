@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matter’s latest update doubles down on stability and pushes the platforms to play better together](https://www.theverge.com/matter/757179/matter-1-4-2-spec-release-pushes-platforms-to-play-nicely)
- - [Hyundai wants Ioniq 5 owners to pay to fix a keyless entry security hole](https://www.theverge.com/news/757205/hyundai-ioniq-5-security-upgrade-fix-game-boy-device-attacks)
- - [Samsung Now Bar can now tell you which team is likely to win](https://www.androidauthority.com/samsung-now-bar-win-probability-3585813/)<!-- TECH:END -->
+ - [The 4 Best Invisible Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-invisible-hearing-aids/)
+ - [Just because I like Pixels doesn’t mean I hate Samsung](https://www.androidauthority.com/pixel-vs-samsung-opinion-3585707/)
+ - [Gemini Live is finally able to interact with other Google apps in real-time](https://www.androidauthority.com/google-gemini-live-extensions-3585860/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
