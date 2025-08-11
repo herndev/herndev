@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic’s Claude chatbot can now remember your past conversations](https://www.theverge.com/news/757743/anthropic-claude-ai-search-past-chats)
- - [Trump says he met with Lip-Bu Tan and that the Intel CEO will continue talks with his Cabinet members in the coming days, after calling for his resignation &lpar;Skylar Woodhouse/Bloomberg&rpar;](http://www.techmeme.com/250811/p28#a250811p28)
- - [The Yomiuri Shimbun, Japan&#39;s largest newspaper by circulation, sues Perplexity, alleging unauthorized reproduction of its articles, and seeks $14.7M in damages &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250811/p27#a250811p27)<!-- TECH:END -->
+ - [AirPods could soon get Live Translation, iOS 26 beta code suggests](https://appleinsider.com/articles/25/08/11/airpods-could-soon-get-live-translation-ios-26-beta-code-suggests?utm_source=rss)
+ - [Nvidia announces two low-power Blackwell workstation GPUs, the RTX PRO 4000 SFF and RTX PRO 2000, both featuring compact designs and available later this year &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250811/p31#a250811p31)
+ - [Nvidia debuts new Omniverse SDKs and Cosmos world foundation models for robotics devs, including Cosmos Reason, a 7B-parameter reasoning vision language model &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250811/p30#a250811p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
