@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6&#39;s anti-cheat has already stopped 330,000 &#39;attempts to cheat&#39; in the open beta, but players are still calling out wallhackers who slip through the net](https://www.pcgamer.com/games/fps/battlefield-6s-anti-cheat-has-already-stopped-330-000-attempts-to-cheat-in-the-open-beta-but-players-are-still-calling-out-wallhackers-who-slip-through-the-net/)
- - [The most honest survival game I&#39;ve ever played is this unemployment simulator](https://www.pcgamer.com/games/sim/the-most-honest-survival-game-ive-ever-played-is-this-unemployment-simulator/)
- - [The Tencent survival game being sued by Sony quietly purges most Horizon-like content from its Steam page, bumps release date to late 2027](https://www.pcgamer.com/games/survival-crafting/the-tencent-survival-game-being-sued-by-sony-quietly-purges-most-horizon-like-content-from-its-steam-page-bumps-release-date-to-late-2027/)<!-- GAME:END -->
+ - [D&amp;D&#39;s new Forgotten Realms books come with Astarion-themed digital DLC](https://www.pcgamer.com/games/rpg/d-and-ds-new-forgotten-realms-books-come-with-astarion-themed-digital-dlc/)
+ - [id Software co-founder John Romero was apparently one week removed from co-founding a completely different icon of PC gaming, but he&#39;d already made plans](https://www.pcgamer.com/gaming-industry/id-software-co-founder-john-romero-was-apparently-one-week-removed-from-co-founding-a-completely-different-icon-of-pc-gaming-but-hed-already-made-plans/)
+ - [New study shows that Gen Z is spending way less money on videogames than older gamers](https://www.pcgamer.com/gaming-industry/new-study-shows-that-gen-z-is-spending-way-less-money-on-videogames-than-older-gamers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
