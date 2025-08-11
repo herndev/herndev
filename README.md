@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - ⏩ [Gotta love 9gaggers](http://9gag.com/gag/azxQYBp)
- - 👉 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)<!-- MEMES:END -->
+ - 💣 [Baby monkey&#39;s bath time. I can&#39;t help but notice a similarity](http://9gag.com/gag/an7VEg0)
+ - ⏩ [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
+ - 👉 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)<!-- MEMES:END -->
 
 ---
 
