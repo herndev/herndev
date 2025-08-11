@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More than 2 million people grabbed co-op roguelike Guntouchables when it was free for 24 hours](https://www.pcgamer.com/games/roguelike/more-than-2-million-people-grabbed-co-op-roguelike-guntouchables-when-it-was-free-for-24-hours/)
- - [Mortal Kombat 1 has cemented itself as the best-selling fighting game of this generation despite ending support after just 20 months: &#39;We&#39;re still committed to refining MK1 to be our most balanced game&#39;](https://www.pcgamer.com/games/fighting/mortal-kombat-1-has-cemented-itself-as-the-best-selling-fighting-game-of-this-generation-despite-ending-support-after-just-20-months-were-still-committed-to-refining-mk1-to-be-our-most-balanced-game/)
- - [Battlefield 6 Just Smashed Call Of Duty‘s Player Records In Two Days](https://kotaku.com/battlefield-6-open-beta-call-of-duty-record-2000616838)<!-- GAME:END -->
+ - [&#39;Everyone&#39;s little monkey brains like shelter and food&#39;: Subnautica 2 designer says primal instinct is the reason we&#39;re so drawn to smashing blocks of wood into weapons](https://www.pcgamer.com/games/survival-crafting/everyones-little-monkey-brains-like-shelter-and-food-subnautica-2-designer-says-primal-instinct-is-the-reason-were-so-drawn-to-smashing-blocks-of-wood-into-weapons/)
+ - [McDonald’s Pokémon Promotion Ends In Utter Chaos](https://kotaku.com/mcdonalds-pokemon-tcg-happy-meal-chaos-2000616843)
+ - [More than 2 million people grabbed co-op roguelike Guntouchables when it was free for 24 hours](https://www.pcgamer.com/games/roguelike/more-than-2-million-people-grabbed-co-op-roguelike-guntouchables-when-it-was-free-for-24-hours/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
