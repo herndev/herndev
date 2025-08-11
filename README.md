@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $799 M4 MacBook Air deal has been extended for back-to-school](https://appleinsider.com/articles/25/08/11/amazons-799-m4-macbook-air-deal-has-been-extended-for-back-to-school?utm_source=rss)
- - [Reddit will block the Internet Archive](https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit)
- - [Trump says &quot;it&#39;s possible I&#39;d make a deal&quot; to let Nvidia sell Blackwell chips &quot;enhanced in a negative way&quot; in China and confirms a 15% fee on H20 chip sales &lpar;Financial Times&rpar;](http://www.techmeme.com/250811/p17#a250811p17)<!-- TECH:END -->
+ - [The viral video of a ‘deactivated’ Tesla Cybertruck is most likely fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)
+ - [iRobot’s future isn’t looking up](https://www.theverge.com/news/757434/irobot-earnings-show-roomba-maker-still-struggling)
+ - [Apple puts out its sixth developer betas of iOS 26, iPadOS 26](https://appleinsider.com/articles/25/08/11/apple-puts-out-its-sixth-developer-betas-of-ios-26-ipados-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
