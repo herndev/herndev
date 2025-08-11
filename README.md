@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take Endless Legend 2 for a spin ahead of its early access launch—you&#39;ve got a week to conquer an alien world in the new demo, starting today](https://www.pcgamer.com/games/strategy/take-endless-legend-2-for-a-spin-ahead-of-its-early-access-launch-youve-got-a-week-to-conquer-an-alien-world-in-the-new-demo-starting-today/)
- - [Broken Arrow Has A Healthy Campaign Runtime, But The Real Challenge Comes After The Credits](https://kotaku.com/broken-arrow-rts-campaign-how-long-to-beat-hltb-2000616860)
- - [PSA: Wash Your Jeans Before Playing Nintendo’s Newest Switch 2 Exclusive](https://kotaku.com/switch-2-drag-x-drive-demo-joy-con-jeans-table-mouse-2000616850)<!-- GAME:END -->
+ - [Martin Lawrence&#39;s Black Knight deserves a second life as isekai](https://www.polygon.com/black-knight-2001-review-hulu-prime-video/)
+ - [Peak&#39;s cannibalism update was a surprise to half the team](https://www.polygon.com/peak-game-mesa-update-steam-patch-cannibalism-changes/)
+ - [Warner Bros. Is On A Box Office Hot Streak Unlike Anything We’ve Seen Before](https://kotaku.com/wb-warner-bros-streak-weapons-box-office-record-opening-weekend-minecraft-2000616900)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
