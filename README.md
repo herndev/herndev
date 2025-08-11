@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life&#39;s a scam](http://9gag.com/gag/axy4OLK)
- - ⏩ [Fr tho](http://9gag.com/gag/ayNP1bY)
- - 👉 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
+ - 💣 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
+ - ⏩ [Play stupid games](http://9gag.com/gag/aGybAg0)
+ - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
 
 ---
 
