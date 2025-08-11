@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Everyone&#39;s little monkey brains like shelter and food&#39;: Subnautica 2 designer says primal instinct is the reason we&#39;re so drawn to smashing blocks of wood into weapons](https://www.pcgamer.com/games/survival-crafting/everyones-little-monkey-brains-like-shelter-and-food-subnautica-2-designer-says-primal-instinct-is-the-reason-were-so-drawn-to-smashing-blocks-of-wood-into-weapons/)
- - [McDonald’s Pokémon Promotion Ends In Utter Chaos](https://kotaku.com/mcdonalds-pokemon-tcg-happy-meal-chaos-2000616843)
- - [More than 2 million people grabbed co-op roguelike Guntouchables when it was free for 24 hours](https://www.pcgamer.com/games/roguelike/more-than-2-million-people-grabbed-co-op-roguelike-guntouchables-when-it-was-free-for-24-hours/)<!-- GAME:END -->
+ - [Take Endless Legend 2 for a spin ahead of its early access launch—you&#39;ve got a week to conquer an alien world in the new demo, starting today](https://www.pcgamer.com/games/strategy/take-endless-legend-2-for-a-spin-ahead-of-its-early-access-launch-youve-got-a-week-to-conquer-an-alien-world-in-the-new-demo-starting-today/)
+ - [Broken Arrow Has A Healthy Campaign Runtime, But The Real Challenge Comes After The Credits](https://kotaku.com/broken-arrow-rts-campaign-how-long-to-beat-hltb-2000616860)
+ - [PSA: Wash Your Jeans Before Playing Nintendo’s Newest Switch 2 Exclusive](https://kotaku.com/switch-2-drag-x-drive-demo-joy-con-jeans-table-mouse-2000616850)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
