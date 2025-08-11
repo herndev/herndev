@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m hooting and hollering for this upcoming RPG about staging heists in the underworld from the publishers of Dwarf Fortress and the designers of one of the best narrative games of all time](https://www.pcgamer.com/games/rpg/im-hooting-and-hollering-for-this-upcoming-rpg-about-staging-heists-in-the-underworld-from-the-publishers-of-dwarf-fortress-and-the-designers-of-one-of-the-best-narrative-games-of-all-time/)
- - [Thousands Of Dollars’ Worth Of Labubu Dolls Were Stolen During A Late-Night Robbery](https://kotaku.com/thousands-of-dollars-worth-of-labubu-dolls-were-stolen-during-a-late-night-robbery-2000616924)
- - [Donkey Kong Bananza fans break game, set records with infinite flight](https://www.polygon.com/donkey-kong-bananza-switch-2-ifat-how-to-do-infinite-flight-speedrun/)<!-- GAME:END -->
+ - [The internet is about to get a little worse as Reddit moves to block the Internet Archive so AI companies can&#39;t scrape its content](https://www.pcgamer.com/games/the-internet-is-about-to-get-a-little-worse-as-reddit-moves-to-block-the-internet-archive-so-ai-companies-cant-scrape-its-content/)
+ - [Here’s Our First Look At The Rumored $1,000 Lego Death Star Set Containing Over 9K Pieces](https://kotaku.com/death-star-lego-set-big-1000-expensive-leak-images-star-wars-2000616943)
+ - [I&#39;m hooting and hollering for this upcoming RPG about staging heists in the underworld from the publishers of Dwarf Fortress and the designers of one of the best narrative games of all time](https://www.pcgamer.com/games/rpg/im-hooting-and-hollering-for-this-upcoming-rpg-about-staging-heists-in-the-underworld-from-the-publishers-of-dwarf-fortress-and-the-designers-of-one-of-the-best-narrative-games-of-all-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
