@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
- - ⏩ [...](http://9gag.com/gag/a34n0WN)
- - 👉 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)<!-- MEMES:END -->
+ - 💣 [F Garfield](http://9gag.com/gag/a2vG2L9)
+ - ⏩ [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
+ - 👉 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)<!-- MEMES:END -->
 
 ---
 
