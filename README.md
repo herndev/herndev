@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US has started issuing licenses to Nvidia to export H20 chips to China following weeks of inaction, after Jensen Huang met Trump on Wednesday &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p25#a250808p25)
- - [Apple iPad Mini A17 Pro plummets to its record-low price, saving you $120](https://www.androidauthority.com/apple-ipad-mini-a17-pro-deal-5-3585600/)
- - [Truth Social&#39;s New AI Chatbot Is Donald Trump&#39;s Media Diet Incarnate](https://www.wired.com/story/i-fear-truth-search-ai-might-be-biased-but-it-says-it-isnt/)<!-- TECH:END -->
+ - [Sources: SoftBank has selected banks for a potential US IPO of its payments app operator PayPay, which may raise over $2B and could take place as soon as Q4 &lpar;Reuters&rpar;](http://www.techmeme.com/250810/p14#a250810p14)
+ - [Sources: Nvidia and AMD agreed to pay the US government 15% of revenues from H20 and MI308 chip sales in China to obtain export licenses granted last week &lpar;Financial Times&rpar;](http://www.techmeme.com/250810/p13#a250810p13)
+ - [Sources: Intel CEO Lip-Bu Tan is set to meet Trump on Monday to propose ways the US and Intel could work together, show his commitment to the US, and more &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250810/p12#a250810p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
