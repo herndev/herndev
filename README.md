@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A man gave himself an ailment rarely seen in the last hundred years after consulting ChatGPT on how to cut down on salt in his diet](https://www.pcgamer.com/software/ai/a-man-gave-himself-an-ailment-rarely-seen-in-the-last-hundred-years-after-consulting-chatgpt-on-how-to-cut-down-on-salt-in-his-diet/)
- - [Five new Steam games you probably missed &lpar;August 11, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-11-2025/)
- - [This asynchronous autobattler is like Backpack Battles meets FTL](https://www.pcgamer.com/games/strategy/check-the-demo-for-this-asynchronous-autobattler-thats-like-backpack-battles-meets-ftl/)<!-- GAME:END -->
+ - [Nvidia and AMD will reportedly pay 15% of their Chinese revenue to the US government so they can sell AI-capable chips there, despite warnings from security experts](https://www.pcgamer.com/hardware/nvidia-and-amd-will-reportedly-pay-15-percent-of-their-chinese-revenue-to-the-us-government-so-they-can-sell-ai-capable-chips-there-despite-warnings-from-security-experts/)
+ - [Today&#39;s Wordle clues, hints and answer for August 11 &lpar;#1514&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-11-2025/)
+ - [Much anticipated Persona-like RPG Demonschool finally has a release date](https://www.pcgamer.com/games/rpg/much-anticiapted-persona-like-rpg-demonschool-finally-has-a-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
