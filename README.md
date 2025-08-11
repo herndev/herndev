@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nightmare once you learn how to lucid dream, be like](http://9gag.com/gag/aByoXND)
- - ⏩ [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 👉 [Straight from the vault #22](http://9gag.com/gag/adBbo6B)<!-- MEMES:END -->
+ - 💣 [Its gonna be his fault for not teleporting there to help](http://9gag.com/gag/aE0EXEe)
+ - ⏩ [Baby monkey&#39;s bath time. I can&#39;t help but notice a similarity](http://9gag.com/gag/an7VEg0)
+ - 👉 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)<!-- MEMES:END -->
 
 ---
 
