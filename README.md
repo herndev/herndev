@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D&#39;s new Forgotten Realms books come with Astarion-themed digital DLC](https://www.pcgamer.com/games/rpg/d-and-ds-new-forgotten-realms-books-come-with-astarion-themed-digital-dlc/)
- - [id Software co-founder John Romero was apparently one week removed from co-founding a completely different icon of PC gaming, but he&#39;d already made plans](https://www.pcgamer.com/gaming-industry/id-software-co-founder-john-romero-was-apparently-one-week-removed-from-co-founding-a-completely-different-icon-of-pc-gaming-but-hed-already-made-plans/)
- - [New study shows that Gen Z is spending way less money on videogames than older gamers](https://www.pcgamer.com/gaming-industry/new-study-shows-that-gen-z-is-spending-way-less-money-on-videogames-than-older-gamers/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 11, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-11-2025/)
+ - [This asynchronous autobattler is like Backpack Battles meets FTL](https://www.pcgamer.com/games/strategy/check-the-demo-for-this-asynchronous-autobattler-thats-like-backpack-battles-meets-ftl/)
+ - [D&amp;D&#39;s new Forgotten Realms books come with Astarion-themed digital DLC](https://www.pcgamer.com/games/rpg/d-and-ds-new-forgotten-realms-books-come-with-astarion-themed-digital-dlc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
