@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fr tho](http://9gag.com/gag/ayNP1bY)
- - ⏩ [Impatient with short attention span](http://9gag.com/gag/aZZvjp9)
- - 👉 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
+ - 💣 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
+ - ⏩ [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)
+ - 👉 [Final destination](http://9gag.com/gag/aryzxr0)<!-- MEMES:END -->
 
 ---
 
