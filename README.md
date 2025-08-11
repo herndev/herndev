@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The viral video of a ‘deactivated’ Tesla Cybertruck is most likely fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)
- - [iRobot’s future isn’t looking up](https://www.theverge.com/news/757434/irobot-earnings-show-roomba-maker-still-struggling)
- - [Apple puts out its sixth developer betas of iOS 26, iPadOS 26](https://appleinsider.com/articles/25/08/11/apple-puts-out-its-sixth-developer-betas-of-ios-26-ipados-26?utm_source=rss)<!-- TECH:END -->
+ - [Gemini is ready to start dreaming up images in Google Docs on Android](https://www.androidauthority.com/google-docs-image-generation-3585991/)
+ - [You can save $30 on the OnePlus Watch 3, a great Galaxy Watch 8 alternative](https://www.theverge.com/tech/757554/oneplus-watch-3-2-back-to-school-deal-sale)
+ - [Super-Affordable iPhone-powered MacBook Could Reportedly Launch This Year At $600](https://www.cnet.com/tech/computing/super-affordable-iphone-powered-macbook-could-reportedly-launch-this-year-at-600/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
