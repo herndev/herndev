@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel CEO set to meet with President Trump and probably discuss company&#39;s woes, domestic chip manufacturing, and that awkward moment Trump called for his resignation last week](https://www.pcgamer.com/hardware/processors/intel-ceo-set-to-meet-with-president-trump-and-probably-discuss-companys-woes-domestic-chip-manufacturing-and-that-awkward-moment-trump-called-for-his-resignation-last-week/)
  - [Nvidia and AMD will reportedly pay 15% of their Chinese revenue to the US government so they can sell AI-capable chips there, despite warnings from security experts](https://www.pcgamer.com/hardware/nvidia-and-amd-will-reportedly-pay-15-percent-of-their-chinese-revenue-to-the-us-government-so-they-can-sell-ai-capable-chips-there-despite-warnings-from-security-experts/)
- - [Today&#39;s Wordle clues, hints and answer for August 11 &lpar;#1514&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-11-2025/)
- - [Much anticipated Persona-like RPG Demonschool finally has a release date](https://www.pcgamer.com/games/rpg/much-anticiapted-persona-like-rpg-demonschool-finally-has-a-release-date/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for August 11 &lpar;#1514&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-11-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
