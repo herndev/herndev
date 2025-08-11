@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clever man](http://9gag.com/gag/adBbejV)
- - ⏩ [Cars flip over very easily](http://9gag.com/gag/aW492q2)
- - 👉 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)<!-- MEMES:END -->
+ - 💣 [Fr tho](http://9gag.com/gag/ayNP1bY)
+ - ⏩ [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
+ - 👉 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)<!-- MEMES:END -->
 
 ---
 
