@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanks God of Random](http://9gag.com/gag/ayNPRGp)
- - ⏩ [The good old days](http://9gag.com/gag/aPAnXVG)
- - 👉 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)<!-- MEMES:END -->
+ - 💣 [Here is the real kicker](http://9gag.com/gag/aRBD22G)
+ - ⏩ [Cars flip over very easily](http://9gag.com/gag/aW492q2)
+ - 👉 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)<!-- MEMES:END -->
 
 ---
 
