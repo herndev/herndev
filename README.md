@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini is ready to start dreaming up images in Google Docs on Android](https://www.androidauthority.com/google-docs-image-generation-3585991/)
- - [You can save $30 on the OnePlus Watch 3, a great Galaxy Watch 8 alternative](https://www.theverge.com/tech/757554/oneplus-watch-3-2-back-to-school-deal-sale)
- - [Super-Affordable iPhone-powered MacBook Could Reportedly Launch This Year At $600](https://www.cnet.com/tech/computing/super-affordable-iphone-powered-macbook-could-reportedly-launch-this-year-at-600/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anthropic adds a memory feature for Claude to reference information from past chats, available now for Max, Team, and Enterprise plans, and soon for other plans &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250811/p23#a250811p23)
+ - [Revel plans to wind down rideshare operations in its home city of New York after four years, pivoting to an EV-charging business that counts Uber as a partner &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250811/p22#a250811p22)
+ - [This see-thru Game Boy is a work of art — because she designed a transparent circuit board](https://www.theverge.com/games/757662/natalie-the-nerd-transparent-translucent-game-boy-pcb)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
