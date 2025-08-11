@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
- - ⏩ [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)
- - 👉 [Final destination](http://9gag.com/gag/aryzxr0)<!-- MEMES:END -->
+ - 💣 [Clever man](http://9gag.com/gag/adBbejV)
+ - ⏩ [Cars flip over very easily](http://9gag.com/gag/aW492q2)
+ - 👉 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)<!-- MEMES:END -->
 
 ---
 
