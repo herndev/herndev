@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Western pharma giants have struck multibillion-dollar deals with Chinese biotech firms using AI, signaling confidence in China&#39;s AI drug discovery research &lpar;Leslie Liang/Rest of World&rpar;](http://www.techmeme.com/250810/p15#a250810p15)
  - [Sources: SoftBank has selected banks for a potential US IPO of its payments app operator PayPay, which may raise over $2B and could take place as soon as Q4 &lpar;Reuters&rpar;](http://www.techmeme.com/250810/p14#a250810p14)
- - [Sources: Nvidia and AMD agreed to pay the US government 15% of revenues from H20 and MI308 chip sales in China to obtain export licenses granted last week &lpar;Financial Times&rpar;](http://www.techmeme.com/250810/p13#a250810p13)
- - [Sources: Intel CEO Lip-Bu Tan is set to meet Trump on Monday to propose ways the US and Intel could work together, show his commitment to the US, and more &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250810/p12#a250810p12)<!-- TECH:END -->
+ - [Sources: Nvidia and AMD agreed to pay the US government 15% of revenues from H20 and MI308 chip sales in China to obtain export licenses granted last week &lpar;Financial Times&rpar;](http://www.techmeme.com/250810/p13#a250810p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
