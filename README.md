@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK retailer M&amp;S resumes click and collect services after a cyberattack on April 22, set to cost it ~£300M; M&amp;S restarted online delivery orders on June 10 &lpar;James Davey/Reuters&rpar;](http://www.techmeme.com/250811/p7#a250811p7)
- - [Your Sony TV is finally getting its Android TV 14 upgrade — here’s who qualifies](https://www.androidauthority.com/sony-bravia-tv-android-tv-14-update-with-google-tv-3585790/)
- - [Sea&#39;s Shopee is nearing a $100B market cap after its stock surged 300%+ since early 2024, driven by its in-house, community-based logistics network SPX Express &lpar;Bloomberg&rpar;](http://www.techmeme.com/250811/p6#a250811p6)<!-- TECH:END -->
+ - [Trade experts: Nvidia and AMD&#39;s deal to export AI chips to China and pay the US 15% of revenue is &quot;unprecedented&quot; and a sign of &quot;a new and dangerous world&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250811/p10#a250811p10)
+ - [UK researchers: 80 game cheat-selling websites generate $12.8M to $73.2M annually, with 30,000 to 174,000 monthly buyers across North America and Europe alone &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250811/p9#a250811p9)
+ - [Malaysian startup Zetrix unveils NurAI, a chatbot for Muslims built using similar techniques to DeepSeek&#39;s V3, and plans AI avatars of Islamic scholars &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250811/p8#a250811p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
