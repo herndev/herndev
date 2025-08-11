@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may shift iPhone 17 Pro antennas to the camera bump](https://appleinsider.com/articles/25/08/11/apple-may-shift-iphone-17-pro-antennas-to-the-camera-bump?utm_source=rss)
- - [ESPN will offer a $39.99 bundle with Fox&amp;#8217;s live sports streaming service](https://www.theverge.com/news/757483/espn-fox-one-live-sports-streaming-service-bundle)
- - [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)<!-- TECH:END -->
+ - [Amazon&#39;s $799 M4 MacBook Air deal has been extended for back-to-school](https://appleinsider.com/articles/25/08/11/amazons-799-m4-macbook-air-deal-has-been-extended-for-back-to-school?utm_source=rss)
+ - [Reddit will block the Internet Archive](https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit)
+ - [Trump says &quot;it&#39;s possible I&#39;d make a deal&quot; to let Nvidia sell Blackwell chips &quot;enhanced in a negative way&quot; in China and confirms a 15% fee on H20 chip sales &lpar;Financial Times&rpar;](http://www.techmeme.com/250811/p17#a250811p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
