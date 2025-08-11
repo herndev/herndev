@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
- - ⏩ [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
- - 👉 [DNA tests are helpful](http://9gag.com/gag/an7Vr5o)<!-- MEMES:END -->
+ - ⏩ [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
+ - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
 
 ---
 
