@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
- - ⏩ [Play stupid games](http://9gag.com/gag/aGybAg0)
- - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
+ - 💣 [Nightmare once you learn how to lucid dream, be like](http://9gag.com/gag/aByoXND)
+ - ⏩ [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 👉 [Straight from the vault #22](http://9gag.com/gag/adBbo6B)<!-- MEMES:END -->
 
 ---
 
