@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life&#39;s a scam](http://9gag.com/gag/axy4OLK)
- - ⏩ [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
- - 👉 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)<!-- MEMES:END -->
+ - 💣 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
+ - ⏩ [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
+ - 👉 [DNA tests are helpful](http://9gag.com/gag/an7Vr5o)<!-- MEMES:END -->
 
 ---
 
