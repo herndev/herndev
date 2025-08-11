@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Play stupid games](http://9gag.com/gag/aGybAg0)
+ - 💣 [Life&#39;s a scam](http://9gag.com/gag/axy4OLK)
  - ⏩ [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
- - 👉 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
+ - 👉 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)<!-- MEMES:END -->
 
 ---
 
