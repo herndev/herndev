@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fr tho](http://9gag.com/gag/ayNP1bY)
- - ⏩ [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
+ - 💣 [Play stupid games](http://9gag.com/gag/aGybAg0)
+ - ⏩ [Wtf is that?](http://9gag.com/gag/a1mw2rP)
  - 👉 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)<!-- MEMES:END -->
 
 ---
