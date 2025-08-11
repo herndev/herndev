@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here is the real kicker](http://9gag.com/gag/aRBD22G)
- - ⏩ [Cars flip over very easily](http://9gag.com/gag/aW492q2)
- - 👉 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)<!-- MEMES:END -->
+ - 💣 [Man saves his dog from an alligator](http://9gag.com/gag/adBbxg9)
+ - ⏩ [Play stupid games](http://9gag.com/gag/aGybAg0)
+ - 👉 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)<!-- MEMES:END -->
 
 ---
 
