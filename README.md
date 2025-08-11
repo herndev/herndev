@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
- - ⏩ [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
- - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
+ - 💣 [Good morning from Norway!](http://9gag.com/gag/aZZvzDV)
+ - ⏩ [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 👉 [Why not both?](http://9gag.com/gag/aYQmqX2)<!-- MEMES:END -->
 
 ---
 
