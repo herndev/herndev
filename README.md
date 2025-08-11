@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trade experts: Nvidia and AMD&#39;s deal to export AI chips to China and pay the US 15% of revenue is &quot;unprecedented&quot; and a sign of &quot;a new and dangerous world&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250811/p10#a250811p10)
- - [UK researchers: 80 game cheat-selling websites generate $12.8M to $73.2M annually, with 30,000 to 174,000 monthly buyers across North America and Europe alone &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250811/p9#a250811p9)
- - [Malaysian startup Zetrix unveils NurAI, a chatbot for Muslims built using similar techniques to DeepSeek&#39;s V3, and plans AI avatars of Islamic scholars &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250811/p8#a250811p8)<!-- TECH:END -->
+ - [Matter’s latest update doubles down on stability and pushes the platforms to play better together](https://www.theverge.com/matter/757179/matter-1-4-2-spec-release-pushes-platforms-to-play-nicely)
+ - [Hyundai wants Ioniq 5 owners to pay to fix a keyless entry security hole](https://www.theverge.com/news/757205/hyundai-ioniq-5-security-upgrade-fix-game-boy-device-attacks)
+ - [Samsung Now Bar can now tell you which team is likely to win](https://www.androidauthority.com/samsung-now-bar-win-probability-3585813/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
