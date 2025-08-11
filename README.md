@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [League Of Legends Dev Sends McDonald’s Jobs Link To Player Who Boosts Accounts For A Living](https://kotaku.com/league-of-legends-mcdonalds-job-application-boosting-smurfing-dev-riot-games-2000616955)
- - [ChatGPT Just Became A Live-Service Game](https://kotaku.com/sam-altman-chatgpt-openai-gpt-5-world-warcraft-destiny-2000616944)
- - [Google&#39;s Gemini AI tells a Redditor it&#39;s &#39;cautiously optimistic&#39; about fixing a coding bug, fails repeatedly, calls itself an embarrassment to &#39;all possible and impossible universes&#39; before repeating &#39;I am a disgrace&#39; 86 times in succession](https://www.pcgamer.com/software/platforms/googles-gemini-ai-tells-a-redditor-its-cautiously-optimistic-about-fixing-a-coding-bug-fails-repeatedly-calls-itself-an-embarrassment-to-all-possible-and-impossible-universes-before-repeating-i-am-a-disgrace-86-times-in-succession/)<!-- GAME:END -->
+ - [IGN Boss Leaving After Latest Round Of Layoffs](https://kotaku.com/ign-john-davison-ziff-davis-layoffs-union-games-media-2000616972)
+ - [Nexon teases its next big thing: A singleplayer action-adventure about a &#39;Mage of the Way&#39; who battles injustice and corruption in ancient Korea](https://www.pcgamer.com/games/action/nexon-teases-its-next-big-thing-a-singleplayer-action-adventure-about-a-mage-of-the-way-who-battles-injustice-and-corruption-in-ancient-korea/)
+ - [League Of Legends Dev Sends McDonald’s Jobs Link To Player Who Boosts Accounts For A Living](https://kotaku.com/league-of-legends-mcdonalds-job-application-boosting-smurfing-dev-riot-games-2000616955)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
