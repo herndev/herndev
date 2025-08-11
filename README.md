@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto may soon let you spend less time scrolling, more time driving &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-app-drawer-expansion-3585760/)
- - [Apple is preparing a Siri upgrade that could make Gemini users really jealous](https://www.androidauthority.com/apple-planning-siri-upgrade-vs-gemini-3585771/)
- - [Best Running Shoes for Women in 2025](https://www.cnet.com/health/fitness/best-womens-running-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK retailer M&amp;S resumes click and collect services after a cyberattack on April 22, set to cost it ~£300M; M&amp;S restarted online delivery orders on June 10 &lpar;James Davey/Reuters&rpar;](http://www.techmeme.com/250811/p7#a250811p7)
+ - [Your Sony TV is finally getting its Android TV 14 upgrade — here’s who qualifies](https://www.androidauthority.com/sony-bravia-tv-android-tv-14-update-with-google-tv-3585790/)
+ - [Sea&#39;s Shopee is nearing a $100B market cap after its stock surged 300%+ since early 2024, driven by its in-house, community-based logistics network SPX Express &lpar;Bloomberg&rpar;](http://www.techmeme.com/250811/p6#a250811p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
