@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is expands its powerful new search feature to more Premium users](https://www.androidauthority.com/youtube-ai-powered-search-carousel-expansion-3585745/)
- - [Rumble says it plans to acquire German AI cloud group Northern Data in an all-stock deal; estimates show the deal could be valued at $1.17B &lpar;Reuters&rpar;](http://www.techmeme.com/250811/p2#a250811p2)
- - [Sam Altman says OpenAI is restoring GPT-4o to ChatGPT and raising reasoning model limits for free and Plus users, as usage of reasoning models increases &lpar;Luc Olinga/Gizmodo&rpar;](http://www.techmeme.com/250811/p1#a250811p1)<!-- TECH:END -->
+ - [A long-running cyberattack campaign between Israel and Iran has continued since the June ceasefire, with Israel landing the most telling blows &lpar;Financial Times&rpar;](http://www.techmeme.com/250811/p3#a250811p3)
+ - [Google Pixel Buds 2a leak suggests price hike could be on the cards](https://www.androidauthority.com/google-pixel-buds-2a-renders-price-3585746/)
+ - [YouTube is expanding its powerful new search feature to more Premium users](https://www.androidauthority.com/youtube-ai-powered-search-carousel-expansion-3585745/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
