@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says OpenAI is restoring GPT-4o to ChatGPT and raising reasoning model limits for free and Plus users, as usage of reasoning models increases &lpar;Luc Olinga/Gizmodo&rpar;](http://www.techmeme.com/250811/p1#a250811p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 11, #322](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-11-322/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Aug. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-aug-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube is expands its powerful new search feature to more Premium users](https://www.androidauthority.com/youtube-ai-powered-search-carousel-expansion-3585745/)
+ - [Rumble says it plans to acquire German AI cloud group Northern Data in an all-stock deal; estimates show the deal could be valued at $1.17B &lpar;Reuters&rpar;](http://www.techmeme.com/250811/p2#a250811p2)
+ - [Sam Altman says OpenAI is restoring GPT-4o to ChatGPT and raising reasoning model limits for free and Plus users, as usage of reasoning models increases &lpar;Luc Olinga/Gizmodo&rpar;](http://www.techmeme.com/250811/p1#a250811p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
