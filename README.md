@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good morning from Norway!](http://9gag.com/gag/aZZvzDV)
- - ⏩ [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 👉 [Why not both?](http://9gag.com/gag/aYQmqX2)<!-- MEMES:END -->
+ - 💣 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
+ - ⏩ [Why not both?](http://9gag.com/gag/aYQmqX2)
+ - 👉 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)<!-- MEMES:END -->
 
 ---
 
