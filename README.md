@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man saves his dog from an alligator](http://9gag.com/gag/adBbxg9)
- - ⏩ [Play stupid games](http://9gag.com/gag/aGybAg0)
- - 👉 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)<!-- MEMES:END -->
+ - 💣 [Fr tho](http://9gag.com/gag/ayNP1bY)
+ - ⏩ [Impatient with short attention span](http://9gag.com/gag/aZZvjp9)
+ - 👉 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
 
 ---
 
