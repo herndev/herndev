@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 4 Best Invisible Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-invisible-hearing-aids/)
- - [Just because I like Pixels doesn’t mean I hate Samsung](https://www.androidauthority.com/pixel-vs-samsung-opinion-3585707/)
- - [Gemini Live is finally able to interact with other Google apps in real-time](https://www.androidauthority.com/google-gemini-live-extensions-3585860/)<!-- TECH:END -->
+ - [Notion CEO Ivan Zhao wants you to demand better from your tools](https://www.theverge.com/decoder-podcast-with-nilay-patel/756736/notion-ceo-ivan-zhao-productivity-software-design-ai-interview)
+ - [Apple may shift iPhone 17 Pro antennas to the camera bump](https://appleinsider.com/articles/25/08/11/apple-may-shift-iphone-17-pro-antennas-to-the-camera-bump?utm_source=rss)
+ - [The CSA releases Matter 1.4.2 to improve reliability, stability, and cross-platform coordination, like Wi-Fi-only commissioning to cut its Bluetooth dependency &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250811/p13#a250811p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
