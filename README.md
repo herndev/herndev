@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
- - ⏩ [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)
- - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
+ - 💣 [Men enjoying simple things](http://9gag.com/gag/a5QDqvO)
+ - ⏩ [How to friend](http://9gag.com/gag/aryz8v5)
+ - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
 
 ---
 
