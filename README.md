@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
- - ⏩ [Right in the miaow](http://9gag.com/gag/a7oAN82)
- - 👉 [Here is the real kicker](http://9gag.com/gag/aRBD22G)<!-- MEMES:END -->
+ - 💣 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
+ - ⏩ [Men enjoying simple things](http://9gag.com/gag/a5QDqvO)
+ - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
 
 ---
 
