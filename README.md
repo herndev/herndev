@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Time-loop movies get a whole new spin in the sweet, strange live-action anime River](https://www.polygon.com/what-to-watch-best-time-loop-movies-river-2023-japanese/)
- - [Ex-Intel CEO calls current Intel CEO&#39;s plans for chip factory investment a &#39;joke&#39; and wants Nvidia, Apple and Google to stump up the cash to save the fabs](https://www.pcgamer.com/hardware/processors/ex-intel-ceo-calls-current-intel-ceos-plans-for-chip-factory-investment-a-joke-and-wants-nvidia-apple-and-google-to-stump-up-the-cash-to-save-the-fabs/)
- - [This undetectable AI-powered aimbot physically moves the mouse pad to cheat in Valorant, an invention so unholy I demand it be cast down to the depths of hell where it belongs](https://www.pcgamer.com/hardware/gaming-mice/this-undetectable-ai-powered-aimbot-physically-moves-the-mouse-pad-to-cheat-in-valorant-an-invention-so-unholy-i-demand-it-be-cast-down-to-the-depths-of-hell-where-it-belongs/)<!-- GAME:END -->
+ - [OpenAI CEO Sam Altman says some folk are using AI in &#39;self-destructive ways&#39; so it&#39;s on us as a society to work out how &#39;to make it a big net positive&#39;](https://www.pcgamer.com/software/ai/openai-ceo-sam-altman-says-some-folk-are-using-ai-in-self-destructive-ways-so-its-on-us-as-a-society-to-work-out-how-to-make-it-a-big-net-positive/)
+ - [Alan Wake Devs Plan A Big Relaunch For Failing Co-Op Flop](https://kotaku.com/fbc-firebreak-relaunch-remedy-alan-wake-control-2000617135)
+ - [Hmm, Fortnite&#39;s new season looks familiar, says Arrowhead: &#39;It&#39;s giving we have Helldivers at home&#39;](https://www.pcgamer.com/games/third-person-shooter/hmm-fortnites-new-season-looks-familiar-says-arrowhead-its-giving-we-have-helldivers-at-home/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
