@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese authorities urge local companies to avoid using less advanced chips, particularly Nvidia&#39;s H20, for government or national security work &lpar;Bloomberg&rpar;](http://www.techmeme.com/250812/p2#a250812p2)
  - [Verizon wins ad battle: T-Mobile asked to take down deceptive ‘Switch and Save’ ads](https://www.androidauthority.com/t-mobile-deceptive-ads-3586119/)
- - [A look at potential issues as US judges join lawyers in testing generative AI to speed up legal research, summarize cases, draft routine orders, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250812/p1#a250812p1)
- - [Newegg Promo Code: 10% Off August 2025](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
+ - [A look at potential issues as US judges join lawyers in testing generative AI to speed up legal research, summarize cases, draft routine orders, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250812/p1#a250812p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
