@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After saying he should resign &#39;immediately&#39;, President Trump changes his mind about Intel CEO Lip-Bu Tan and calls his &#39;success and rise&#39; an &#39;amazing story&#39;, looks forward to fixes for Intel&#39;s foundry](https://www.pcgamer.com/hardware/processors/after-saying-he-should-resign-immediately-president-trump-changes-his-mind-about-intel-ceo-lip-bu-tan-and-calls-his-success-and-rise-an-amazing-story-looks-forward-to-fixes-for-intels-foundry/)
- - [My best friend recently taught me an important lesson about AI pessimism: Don&#39;t remain silent and accept no substitutes](https://www.pcgamer.com/software/ai/after-seeing-their-local-pride-event-use-ai-for-its-logo-my-best-friend-bullied-them-into-giving-her-a-job-heres-what-the-incident-taught-me-about-ai-pessimism/)
- - [After all these years, Heretic plays better than it ever has—and thanks to Nightdive, even Hexen sucks far less](https://www.pcgamer.com/games/fps/after-all-these-years-heretic-plays-better-than-it-ever-has-and-thanks-to-nightdive-even-hexen-sucks-far-less/)<!-- GAME:END -->
+ - [Marvel Rivals reminds players it doesn&#39;t use &#39;EOMM&#39;, matchmaking designed to make you feel better about your terrible W/L ratio](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-reminds-players-it-doesnt-use-eomm-matchmaking-designed-to-make-you-feel-better-about-your-terrible-w-l-ratio/)
+ - [Roblox&#39;s top experience Grow a Garden is shifting into a &#39;new era&#39; and promises deeper farming after a series of disappointing updates: &#39;I hope the community can see this change as a positive attempt to keep the game fresh and enjoyable for everyone&#39;](https://www.pcgamer.com/games/survival-crafting/robloxs-top-experience-grow-a-garden-is-shifting-into-a-new-era-and-promises-deeper-farming-after-a-series-of-disappointing-updates-i-hope-the-community-can-see-this-change-as-a-positive-attempt-to-keep-the-game-fresh-and-enjoyable-for-everyone/)
+ - [After saying he should resign &#39;immediately&#39;, President Trump changes his mind about Intel CEO Lip-Bu Tan and calls his &#39;success and rise&#39; an &#39;amazing story&#39;, looks forward to fixes for Intel&#39;s foundry](https://www.pcgamer.com/hardware/processors/after-saying-he-should-resign-immediately-president-trump-changes-his-mind-about-intel-ceo-lip-bu-tan-and-calls-his-success-and-rise-an-amazing-story-looks-forward-to-fixes-for-intels-foundry/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
