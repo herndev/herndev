@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump screwed over Nvidia’s Chinese sales, then let them happen](https://www.theverge.com/regulator-newsletter/757996/trump-screwed-over-nvidias-chinese-sales-then-let-them-happen)
- - [Samsung’s second One UI 8 Watch beta is finally here](https://www.androidauthority.com/samsung-second-one-ui-8-watch-beta-release-3586281/)
- - [Inside the ‘Whites Only’ Community in Arkansas](https://www.wired.com/story/whites-only-community-arkansas/)<!-- TECH:END -->
+ - [Apple’s latest MacBook Pro with M4 is down to its lowest price ever](https://www.theverge.com/tech/758044/apple-macbook-pro-powerbeats-pro-2-earbuds-deal-sale)
+ - [With this final change, T-Mobile now charges taxes and fees on everything](https://www.androidauthority.com/t-mobile-taxes-fees-final-change-3586304/)
+ - [Samsung has launched its first Micro RGB TV with improved color accuracy](https://www.theverge.com/news/758063/samsung-micro-rgb-tv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
