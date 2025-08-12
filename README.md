@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering finally reveals how bending works in Avatar: The Last Airbender set](https://www.polygon.com/magic-the-gathering-mtg-avatar-the-last-airbender-preview/)
- - [Ra Ra Boom Gives you Baddies Worth Punching](https://news.xbox.com/en-us/2025/08/12/ra-ra-boom-baddies-worth-punching/)
- - [How Sam And His Crew Design All The Devious Game Changer Episodes](https://kotaku.com/game-changer-dropout-sam-reich-interview-season-7-comedy-design-2000617191)<!-- GAME:END -->
+ - [Give Me Grimace With A Gun: Kotaku’s Fortnite Character Wishlist](https://kotaku.com/fortnite-missing-characters-wishlist-grimace-agent-47-weird-al-star-trek-2000617211)
+ - [Krafton fires back at Unknown Worlds lawsuit, says Subnautica 2 was at risk of causing &#39;irreversible harm to the entire franchise&#39; like Kerbal Space Program 2](https://www.pcgamer.com/gaming-industry/krafton-fires-back-at-unknown-worlds-lawsuit-says-subnautica-2-was-at-risk-of-causing-irreversible-harm-to-the-entire-franchise-like-kerbal-space-program-2/)
+ - [Why Grounded 2’s early access launch had to feel like a &#39;complete&#39; game](https://www.polygon.com/grounded-2-developer-interview-obsidian-entertainment-eidos-montreal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
