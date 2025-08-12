@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiny Bookshop is your next cozy game obsession](https://www.polygon.com/tiny-bookshop-review-indie-cozy-management-sim/)
- - [Team Fortress 2 fan deletes rare $6,700 item for second time](https://www.polygon.com/tf2-golden-frying-pan-value-deleted-gregarious-steam/)
- - [If you felt way too killable in the first Battlefield 6 beta weekend, you might not have imagined it: BF6 devs are investigating reports of instakill &#39;super bullets&#39;](https://www.pcgamer.com/games/fps/if-you-felt-way-too-killable-in-first-battlefield-6-beta-weekend-you-might-not-have-imagined-it-bf6-devs-are-investigating-reports-of-instakill-super-bullets/)<!-- GAME:END -->
+ - [Magic: The Gathering finally reveals how bending works in Avatar: The Last Airbender set](https://www.polygon.com/magic-the-gathering-mtg-avatar-the-last-airbender-preview/)
+ - [Ra Ra Boom Gives you Baddies Worth Punching](https://news.xbox.com/en-us/2025/08/12/ra-ra-boom-baddies-worth-punching/)
+ - [How Sam And His Crew Design All The Devious Game Changer Episodes](https://kotaku.com/game-changer-dropout-sam-reich-interview-season-7-comedy-design-2000617191)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
