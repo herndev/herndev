@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arkane employees demand Microsoft sever ties with Israeli military: &#39;We don’t want to be part of this sinister project for Gaza&#39;](https://www.pcgamer.com/games/arkane-employees-demand-microsoft-sever-ties-with-israeli-military-we-dont-want-to-be-part-of-this-sinister-project-for-gaza/)
- - [Battlefield 6 lead producer says &#39;large maps exist,&#39; confirming the full game will offer bigger battles than the beta&#39;s cramped, chaotic firefights](https://www.pcgamer.com/games/fps/battlefield-6-lead-producer-says-large-maps-exist-confirming-the-full-game-will-offer-bigger-battles-than-the-betas-cramped-chaotic-firefights/)
- - [Take-Two Boss Super Duper Serious That GTA 6 Won’t Be Delayed Again](https://kotaku.com/gta-6-delay-strauss-zelnick-ceo-take-two-interview-rockstar-games-2000617237)<!-- GAME:END -->
+ - [Elon Musk and Sam Altman deploy each other&#39;s chatbots as proxies in pathetic slapfight](https://www.pcgamer.com/software/ai/musk-altman-feud-apple-ranking/)
+ - [Take-Two boss is really very confident that Grand Theft Auto 6 won&#39;t be delayed again: &#39;My level of conviction is very, very high&#39;](https://www.pcgamer.com/games/action/take-two-boss-is-really-very-confident-that-grand-theft-auto-6-wont-be-delayed-again-my-level-of-conviction-is-very-very-high/)
+ - [10 Things We Learned From The New Assassin’s Creed Shadows Developer AMA](https://kotaku.com/10-things-assasins-creed-shadows-dev-ama-ubisoft-parkour-isu-lore-2000617244)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
