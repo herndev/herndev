@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Question: where do these type of wifes grow?](http://9gag.com/gag/a7oApOL)
- - ⏩ [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
- - 👉 [Would watch](http://9gag.com/gag/adBbRo2)<!-- MEMES:END -->
+ - 💣 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
+ - ⏩ [Would watch](http://9gag.com/gag/adBbRo2)
+ - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
 
 ---
 
