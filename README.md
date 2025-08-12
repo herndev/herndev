@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would watch](http://9gag.com/gag/adBbRo2)
- - ⏩ [Dude, what?](http://9gag.com/gag/awyvY84)
- - 👉 [Task failed successfully](http://9gag.com/gag/awyv4P8)<!-- MEMES:END -->
+ - 💣 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
+ - ⏩ [Would watch](http://9gag.com/gag/adBbRo2)
+ - 👉 [An attempt was made](http://9gag.com/gag/ae9WR8b)<!-- MEMES:END -->
 
 ---
 
