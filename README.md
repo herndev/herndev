@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
- - ⏩ [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - 👉 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)<!-- MEMES:END -->
+ - 💣 [Nugatti Veyron doing &gt;400km/h on the Autobahn. Illegal street racing Charges against the driver were dropped, state attorney argued that this wasn&#39;t reckless driving because the car was built to handle such speeds](http://9gag.com/gag/ayNPQYb)
+ - ⏩ [As if they were playing with fans until now lol](http://9gag.com/gag/ajPyK9q)
+ - 👉 [Very controversial](http://9gag.com/gag/a9yBXpK)<!-- MEMES:END -->
 
 ---
 
