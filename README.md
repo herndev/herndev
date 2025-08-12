@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
- - ⏩ [Would watch](http://9gag.com/gag/adBbRo2)
- - 👉 [An attempt was made](http://9gag.com/gag/ae9WR8b)<!-- MEMES:END -->
+ - 💣 [Question: where do these type of wifes grow?](http://9gag.com/gag/a7oApOL)
+ - ⏩ [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
+ - 👉 [Would watch](http://9gag.com/gag/adBbRo2)<!-- MEMES:END -->
 
 ---
 
