@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After saying he should resign &#39;immediately&#39;, President Trump changes his mind about Intel CEO Lip-Bu Tan and calls his &#39;success and rise&#39; an &#39;amazing story&#39;, looks forward to fixes for Intel&#39;s foundry](https://www.pcgamer.com/hardware/processors/after-saying-he-should-resign-immediately-president-trump-changes-his-mind-about-intel-ceo-lip-bu-tan-and-calls-his-success-and-rise-an-amazing-story-looks-forward-to-fixes-for-intels-foundry/)
  - [My best friend recently taught me an important lesson about AI pessimism: Don&#39;t remain silent and accept no substitutes](https://www.pcgamer.com/software/ai/after-seeing-their-local-pride-event-use-ai-for-its-logo-my-best-friend-bullied-them-into-giving-her-a-job-heres-what-the-incident-taught-me-about-ai-pessimism/)
- - [After all these years, Heretic plays better than it ever has—and thanks to Nightdive, even Hexen sucks far less](https://www.pcgamer.com/games/fps/after-all-these-years-heretic-plays-better-than-it-ever-has-and-thanks-to-nightdive-even-hexen-sucks-far-less/)
- - [Today&#39;s Wordle clues, hints and answer for August 12 &lpar;#1515&rpar;](https://www.pcgamer.com/wordle-answer-today-august-12-2025/)<!-- GAME:END -->
+ - [After all these years, Heretic plays better than it ever has—and thanks to Nightdive, even Hexen sucks far less](https://www.pcgamer.com/games/fps/after-all-these-years-heretic-plays-better-than-it-ever-has-and-thanks-to-nightdive-even-hexen-sucks-far-less/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
