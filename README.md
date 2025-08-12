@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for August 12 &lpar;#1515&rpar;](https://www.pcgamer.com/wordle-answer-today-august-12-2025/)
  - [In 15 years of interviewing AAA game developers, I think this is the first time one&#39;s straight up told me &#39;Many people make games for money, but we make money for games&#39;](https://www.pcgamer.com/games/action/in-15-years-of-interviewing-aaa-game-developers-i-think-this-is-the-first-time-ones-straight-up-told-me-many-people-make-games-for-money-but-we-make-money-for-games/)
- - [AI chatbot once again transforms from super genius into stupid tool the moment it goes off-script: &#39;Grok doesn&#39;t actually know why it was suspended&#39;](https://www.pcgamer.com/software/ai/ai-chatbot-once-again-transforms-from-super-genius-into-stupid-tool-the-moment-it-goes-off-script-grok-doesnt-actually-know-why-it-was-suspended/)
- - [IGN Boss Leaving After Latest Round Of Layoffs](https://kotaku.com/ign-john-davison-ziff-davis-layoffs-union-games-media-2000616972)<!-- GAME:END -->
+ - [AI chatbot once again transforms from super genius into stupid tool the moment it goes off-script: &#39;Grok doesn&#39;t actually know why it was suspended&#39;](https://www.pcgamer.com/software/ai/ai-chatbot-once-again-transforms-from-super-genius-into-stupid-tool-the-moment-it-goes-off-script-grok-doesnt-actually-know-why-it-was-suspended/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
