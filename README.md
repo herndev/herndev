@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men enjoying simple things](http://9gag.com/gag/a5QDqvO)
- - ⏩ [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
- - 👉 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)<!-- MEMES:END -->
+ - 💣 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
+ - ⏩ [I never see Irish people rioting on the streets repatriations for their enslavement.](http://9gag.com/gag/aND3jQ6)
+ - 👉 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)<!-- MEMES:END -->
 
 ---
 
