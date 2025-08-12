@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar&#39;s Cabbage Merchant has officially joined Magic: The Gathering](https://www.polygon.com/cabbage-merchant-man-mtg-avatar-the-last-airbender/)
- - [Give Me Grimace With A Gun: Kotaku’s Fortnite Character Wishlist](https://kotaku.com/fortnite-missing-characters-wishlist-grimace-agent-47-weird-al-star-trek-2000617211)
- - [Krafton fires back at Unknown Worlds lawsuit, says Subnautica 2 was at risk of causing &#39;irreversible harm to the entire franchise&#39; like Kerbal Space Program 2](https://www.pcgamer.com/gaming-industry/krafton-fires-back-at-unknown-worlds-lawsuit-says-subnautica-2-was-at-risk-of-causing-irreversible-harm-to-the-entire-franchise-like-kerbal-space-program-2/)<!-- GAME:END -->
+ - [Battlefield 6 lead producer says &#39;large maps exist,&#39; confirming the full game will offer bigger battles than the beta&#39;s cramped, chaotic firefights](https://www.pcgamer.com/games/fps/battlefield-6-lead-producer-says-large-maps-exist-confirming-the-full-game-will-offer-bigger-battles-than-the-betas-cramped-chaotic-firefights/)
+ - [Take-Two Boss Super Duper Serious That GTA 6 Won’t Be Delayed Again](https://kotaku.com/gta-6-delay-strauss-zelnick-ceo-take-two-interview-rockstar-games-2000617237)
+ - [Avatar&#39;s Cabbage Merchant has officially joined Magic: The Gathering](https://www.polygon.com/cabbage-merchant-man-mtg-avatar-the-last-airbender/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
