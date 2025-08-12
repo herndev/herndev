@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
- - ⏩ [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)
- - 👉 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)<!-- MEMES:END -->
+ - 💣 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
+ - ⏩ [Right in the miaow](http://9gag.com/gag/a7oAN82)
+ - 👉 [Here is the real kicker](http://9gag.com/gag/aRBD22G)<!-- MEMES:END -->
 
 ---
 
