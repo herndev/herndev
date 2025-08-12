@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Behold, a post from 9gag in 2014.](http://9gag.com/gag/azxQ4Vb)
- - ⏩ [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
- - 👉 [How to trigger a regime](http://9gag.com/gag/aVvB2VO)<!-- MEMES:END -->
+ - 💣 [Men enjoying simple things](http://9gag.com/gag/a5QDqvO)
+ - ⏩ [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
+ - 👉 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)<!-- MEMES:END -->
 
 ---
 
