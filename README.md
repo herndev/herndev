@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Arkane employees demand Microsoft sever ties with Israeli military: &#39;We don’t want to be part of this sinister project for Gaza&#39;](https://www.pcgamer.com/games/arkane-employees-demand-microsoft-sever-ties-with-israeli-military-we-dont-want-to-be-part-of-this-sinister-project-for-gaza/)
  - [Battlefield 6 lead producer says &#39;large maps exist,&#39; confirming the full game will offer bigger battles than the beta&#39;s cramped, chaotic firefights](https://www.pcgamer.com/games/fps/battlefield-6-lead-producer-says-large-maps-exist-confirming-the-full-game-will-offer-bigger-battles-than-the-betas-cramped-chaotic-firefights/)
- - [Take-Two Boss Super Duper Serious That GTA 6 Won’t Be Delayed Again](https://kotaku.com/gta-6-delay-strauss-zelnick-ceo-take-two-interview-rockstar-games-2000617237)
- - [Avatar&#39;s Cabbage Merchant has officially joined Magic: The Gathering](https://www.polygon.com/cabbage-merchant-man-mtg-avatar-the-last-airbender/)<!-- GAME:END -->
+ - [Take-Two Boss Super Duper Serious That GTA 6 Won’t Be Delayed Again](https://kotaku.com/gta-6-delay-strauss-zelnick-ceo-take-two-interview-rockstar-games-2000617237)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
