@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - ⏩ [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
- - 👉 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)<!-- MEMES:END -->
+ - 💣 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - ⏩ [Task failed successfully](http://9gag.com/gag/awyv4P8)
+ - 👉 [Big mama to the rescue](http://9gag.com/gag/avymdWd)<!-- MEMES:END -->
 
 ---
 
