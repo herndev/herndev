@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men enjoying simple things](http://9gag.com/gag/a5QDqvO)
- - ⏩ [How to friend](http://9gag.com/gag/aryz8v5)
- - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
+ - 💣 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
+ - ⏩ [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)
+ - 👉 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)<!-- MEMES:END -->
 
 ---
 
