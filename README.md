@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG boss Mark Rosewater finally admits some players don&#39;t like Universes Beyond](https://www.polygon.com/magic-the-gathering-mtg-universes-beyond-ongoing-complaints-mark-rosewater/)
- - [Palworld Slop Arrives On Switch Despite Nintendo’s Ongoing Legal Battle With The Original](https://kotaku.com/palworld-nintendo-switch-lawsuit-clone-eshop-palland-2000617188)
- - [Marvel Rivals&#39; bloated DPS roster won&#39;t be solved &#39;overnight&#39;, creative director says: &#39;The heroes we are currently deciding on are for a release slot next year&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-bloated-dps-roster-wont-be-solved-overnight-creative-director-says-the-heroes-we-are-currently-deciding-on-are-for-a-release-slot-next-year/)<!-- GAME:END -->
+ - [Tiny Bookshop is your next cozy game obsession](https://www.polygon.com/tiny-bookshop-review-indie-cozy-management-sim/)
+ - [Team Fortress 2 fan deletes rare $6,700 item for second time](https://www.polygon.com/tf2-golden-frying-pan-value-deleted-gregarious-steam/)
+ - [If you felt way too killable in the first Battlefield 6 beta weekend, you might not have imagined it: BF6 devs are investigating reports of instakill &#39;super bullets&#39;](https://www.pcgamer.com/games/fps/if-you-felt-way-too-killable-in-first-battlefield-6-beta-weekend-you-might-not-have-imagined-it-bf6-devs-are-investigating-reports-of-instakill-super-bullets/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
