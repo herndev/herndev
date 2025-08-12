@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google, Meta, and other tech firms have met with Brazilian officials as new regulations on tech are being shaped, with Trump&#39;s tariffs as a backdrop &lpar;Ana Ionova/New York Times&rpar;](http://www.techmeme.com/250811/p32#a250811p32)
- - [AirPods could soon get Live Translation, iOS 26 beta code suggests](https://appleinsider.com/articles/25/08/11/airpods-could-soon-get-live-translation-ios-26-beta-code-suggests?utm_source=rss)
- - [Nvidia announces two low-power Blackwell workstation GPUs, the RTX PRO 4000 SFF and RTX PRO 2000, both featuring compact designs and available later this year &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250811/p31#a250811p31)<!-- TECH:END -->
+ - [Q&amp;A with Notion CEO Ivan Zhao on Notion&#39;s evolution into an &quot;AI workspace&quot;, being profitable, B2B vs. B2C, usage-based pricing for AI, and more &lpar;Casey Newton/The Verge&rpar;](http://www.techmeme.com/250811/p33#a250811p33)
+ - [Siri&#39;s New Features May Include Adding Voice Controls to Apps](https://www.cnet.com/tech/services-and-software/siris-new-features-may-include-adding-voice-controls-to-apps/#ftag=CAD590a51e)
+ - [Sources: Google, Meta, and other tech firms have met with Brazilian officials as new regulations on tech are being shaped, with Trump&#39;s tariffs as a backdrop &lpar;Ana Ionova/New York Times&rpar;](http://www.techmeme.com/250811/p32#a250811p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
