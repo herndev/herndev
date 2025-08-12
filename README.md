@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest MacBook Pro with M4 is down to its lowest price ever](https://www.theverge.com/tech/758044/apple-macbook-pro-powerbeats-pro-2-earbuds-deal-sale)
- - [With this final change, T-Mobile now charges taxes and fees on everything](https://www.androidauthority.com/t-mobile-taxes-fees-final-change-3586304/)
- - [Samsung has launched its first Micro RGB TV with improved color accuracy](https://www.theverge.com/news/758063/samsung-micro-rgb-tv)<!-- TECH:END -->
+ - [Blackwater’s founder would like to sell you a privacy phone made in the USA](https://www.theverge.com/mobile/758073/unplugged-up-phone-erik-prince-blackwater)
+ - [Study finds your smartwatch might be way off on one key health stat](https://www.androidauthority.com/study-smartwatch-stress-readings-inaccurate-3586409/)
+ - [Forget the Steam Deck, this 12.5-inch handheld can play games at 4K 100FPS](https://www.androidauthority.com/handheld-gaming-pc-with-rtx-4090-3586298/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
