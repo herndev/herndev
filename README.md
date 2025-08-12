@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian entrepreneur Bhavin Turakhia partners with GoDaddy to offer enterprises his email service Titan, which costs $2+ per month, aiming for 10M+ users by 2029 &lpar;Benicia Tan/Bloomberg&rpar;](http://www.techmeme.com/250812/p13#a250812p13)
- - [Google is streamlining how you send money abroad — and getting new tools for spending it at home](https://www.androidauthority.com/google-financial-tools-3586029/)
- - [7 things the Galaxy S26 Pro needs to be my next Android phone](https://www.androidauthority.com/7-things-the-galaxy-s26-pro-needs-3584100/)<!-- TECH:END -->
+ - [Trump screwed over Nvidia’s Chinese sales, then let them happen](https://www.theverge.com/regulator-newsletter/757996/trump-screwed-over-nvidias-chinese-sales-then-let-them-happen)
+ - [Samsung’s second One UI 8 Watch beta is finally here](https://www.androidauthority.com/samsung-second-one-ui-8-watch-beta-release-3586281/)
+ - [Inside the ‘Whites Only’ Community in Arkansas](https://www.wired.com/story/whites-only-community-arkansas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
