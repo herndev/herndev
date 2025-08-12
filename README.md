@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nugatti Veyron doing &gt;400km/h on the Autobahn. Illegal street racing Charges against the driver were dropped, state attorney argued that this wasn&#39;t reckless driving because the car was built to handle such speeds](http://9gag.com/gag/ayNPQYb)
- - ⏩ [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - 👉 [Dude, what?](http://9gag.com/gag/awyvY84)<!-- MEMES:END -->
+ - 💣 [Dude, what?](http://9gag.com/gag/awyvY84)
+ - ⏩ [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
 
 ---
 
