@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome isn’t for sale, but Perplexity just offered $34.5 billion anyway](https://www.androidauthority.com/perplexity-google-chrome-bid-3586500/)
- - [Despite Musk&#39;s claim Apple &quot;makes it impossible&quot; for non-OpenAI AI apps to top its App Store, DeepSeek was #1 in January and Perplexity was #1 in July in India &lpar;Henry Chandonnet/Business Insider&rpar;](http://www.techmeme.com/250812/p23#a250812p23)
- - [Blowout special: 13-inch iPad Air M2 Wi-Fi + Cellular on sale for $649](https://appleinsider.com/articles/25/08/12/blowout-special-13-inch-ipad-air-m2-wi-fi-cellular-on-sale-for-649?utm_source=rss)<!-- TECH:END -->
+ - [Match is settling with the FTC for $14M and a number of changes like making it easy to cancel subs, after the FTC sued in 2019 over false advertising and more &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250812/p24#a250812p24)
+ - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
+ - [Visible users won’t have to wait much longer to jump on the new Inner Circle plan](https://www.androidauthority.com/visible-inner-circle-launch-3586488/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
