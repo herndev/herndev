@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
- - ⏩ [Would watch](http://9gag.com/gag/adBbRo2)
- - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
+ - 💣 [Dude, what?](http://9gag.com/gag/awyvY84)
+ - ⏩ [A member of Taiwan&#39;s parliament stole a bill and ran off with it to prevent it from being passed.](http://9gag.com/gag/a9yBX2W)
+ - 👉 [Would watch](http://9gag.com/gag/adBbRo2)<!-- MEMES:END -->
 
 ---
 
