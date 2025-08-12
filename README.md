@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aMVyONV)
- - ⏩ [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
- - 👉 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)<!-- MEMES:END -->
+ - 💣 [I need a solution](http://9gag.com/gag/aD2MXMd)
+ - ⏩ [Would watch](http://9gag.com/gag/adBbRo2)
+ - 👉 [No one is too busy](http://9gag.com/gag/abAEEME)<!-- MEMES:END -->
 
 ---
 
