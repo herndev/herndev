@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nugatti Veyron doing &gt;400km/h on the Autobahn. Illegal street racing Charges against the driver were dropped, state attorney argued that this wasn&#39;t reckless driving because the car was built to handle such speeds](http://9gag.com/gag/ayNPQYb)
- - ⏩ [As if they were playing with fans until now lol](http://9gag.com/gag/ajPyK9q)
- - 👉 [Very controversial](http://9gag.com/gag/a9yBXpK)<!-- MEMES:END -->
+ - 💣 [Behold, a post from 9gag in 2014.](http://9gag.com/gag/azxQ4Vb)
+ - ⏩ [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
+ - 👉 [How to trigger a regime](http://9gag.com/gag/aVvB2VO)<!-- MEMES:END -->
 
 ---
 
