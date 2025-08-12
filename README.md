@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is preparing to back a Neuralink rival called Merge Labs, co-founded by Sam Altman, that aims to raise $250M at an $850M valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250812/p27#a250812p27)
- - [eToro reports Q2 crypto revenue up 17% YoY to $1.9B, assets under administration up 54% to $17.5B, and adjusted non-GAAP net income up 23% to $54.2M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250812/p26#a250812p26)
- - [Sources: investigators have uncovered evidence that Russia is at least in part responsible for a recent hack of the US federal court filing system &lpar;New York Times&rpar;](http://www.techmeme.com/250812/p25#a250812p25)<!-- TECH:END -->
+ - [Deal: Get the Sony WH-1000XM6 headphones at their record low price!](https://www.androidauthority.com/sony-wh-1000xm6-deal-2-3586038/)
+ - [NYC-based Profound, which helps brands optimize visibility in AI search responses, raised a $35M Series B led by Sequoia, bringing its total funding to $58.5M &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250812/p31#a250812p31)
+ - [Best Side Sleeper Mattress 2025: Picked By a Sleep Science Coach](https://www.wired.com/gallery/best-mattress-for-side-sleepers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
