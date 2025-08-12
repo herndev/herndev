@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Gemini UI change should’ve been the default from the start &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-redesign-model-switcher-apk-teardown-3586194/)
- - [Elon Musk says he’s suing Apple for rigging App Store rankings](https://www.theverge.com/news/757941/elon-musk-xai-apple-lawsuit-app-store)
- - [Microsoft releases lightweight Office taskbar apps for Windows 11](https://www.theverge.com/news/757935/microsoft-365-companion-apps-windows-11-release)<!-- TECH:END -->
+ - [Indian entrepreneur Bhavin Turakhia partners with GoDaddy to offer enterprises his email service Titan, which costs $2+ per month, aiming for 10M+ users by 2029 &lpar;Benicia Tan/Bloomberg&rpar;](http://www.techmeme.com/250812/p13#a250812p13)
+ - [Google is streamlining how you send money abroad — and getting new tools for spending it at home](https://www.androidauthority.com/google-financial-tools-3586029/)
+ - [7 things the Galaxy S26 Pro needs to be my next Android phone](https://www.androidauthority.com/7-things-the-galaxy-s26-pro-needs-3584100/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
