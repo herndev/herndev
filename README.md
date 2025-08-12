@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
- - ⏩ [I never see Irish people rioting on the streets repatriations for their enslavement.](http://9gag.com/gag/aND3jQ6)
- - 👉 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)<!-- MEMES:END -->
+ - 💣 [Nugatti Veyron doing &gt;400km/h on the Autobahn. Illegal street racing Charges against the driver were dropped, state attorney argued that this wasn&#39;t reckless driving because the car was built to handle such speeds](http://9gag.com/gag/ayNPQYb)
+ - ⏩ [Task failed successfully](http://9gag.com/gag/awyv4P8)
+ - 👉 [Dude, what?](http://9gag.com/gag/awyvY84)<!-- MEMES:END -->
 
 ---
 
