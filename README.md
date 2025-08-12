@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Newegg Promo Code: 10% Off August 2025](https://www.wired.com/story/newegg-promo-code/)
- - [30% Off Tempur-Pedic Promo Codes | August 2025](https://www.wired.com/story/tempur-pedic-promo-code/)
- - [LG Promo Codes: 20% Off | August 2025](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [Verizon wins ad battle: T-Mobile asked to take down deceptive ‘Switch and Save’ ads](https://www.androidauthority.com/t-mobile-deceptive-ads-3586119/)
+ - [A look at potential issues as US judges join lawyers in testing generative AI to speed up legal research, summarize cases, draft routine orders, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250812/p1#a250812p1)
+ - [Newegg Promo Code: 10% Off August 2025](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
