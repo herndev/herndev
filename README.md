@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI CEO Sam Altman says some folk are using AI in &#39;self-destructive ways&#39; so it&#39;s on us as a society to work out how &#39;to make it a big net positive&#39;](https://www.pcgamer.com/software/ai/openai-ceo-sam-altman-says-some-folk-are-using-ai-in-self-destructive-ways-so-its-on-us-as-a-society-to-work-out-how-to-make-it-a-big-net-positive/)
- - [Alan Wake Devs Plan A Big Relaunch For Failing Co-Op Flop](https://kotaku.com/fbc-firebreak-relaunch-remedy-alan-wake-control-2000617135)
- - [Hmm, Fortnite&#39;s new season looks familiar, says Arrowhead: &#39;It&#39;s giving we have Helldivers at home&#39;](https://www.pcgamer.com/games/third-person-shooter/hmm-fortnites-new-season-looks-familiar-says-arrowhead-its-giving-we-have-helldivers-at-home/)<!-- GAME:END -->
+ - [Helldivers 2 teases Halo crossover ahead of Xbox Series X release](https://www.polygon.com/helldivers-2-halo-crossover-xbox-release-date/)
+ - [PUBG Creator’s New Survival Sim Reveals Surprise Free Open Beta](https://kotaku.com/pubg-prologue-go-wayback-free-open-beta-playerunknown-2000617143)
+ - [How Borderlands 4 is Being Built for Co-op from the Ground Up](https://news.xbox.com/en-us/2025/08/12/how-borderlands-4-built-for-co-op-ground-up/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
