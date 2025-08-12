@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match is settling with the FTC for $14M and a number of changes like making it easy to cancel subs, after the FTC sued in 2019 over false advertising and more &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250812/p24#a250812p24)
- - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
- - [Visible users won’t have to wait much longer to jump on the new Inner Circle plan](https://www.androidauthority.com/visible-inner-circle-launch-3586488/)<!-- TECH:END -->
+ - [Sources: OpenAI is preparing to back a Neuralink rival called Merge Labs, co-founded by Sam Altman, that aims to raise $250M at an $850M valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250812/p27#a250812p27)
+ - [eToro reports Q2 crypto revenue up 17% YoY to $1.9B, assets under administration up 54% to $17.5B, and adjusted non-GAAP net income up 23% to $54.2M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250812/p26#a250812p26)
+ - [Sources: investigators have uncovered evidence that Russia is at least in part responsible for a recent hack of the US federal court filing system &lpar;New York Times&rpar;](http://www.techmeme.com/250812/p25#a250812p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
