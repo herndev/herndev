@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes it is](http://9gag.com/gag/a7oAnXb)
- - ⏩ [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 👉 [The funny part is the jersey with `equality` on it.](http://9gag.com/gag/a9yBOw6)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aMVyONV)
+ - ⏩ [Dude, what?](http://9gag.com/gag/awyvY84)
+ - 👉 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)<!-- MEMES:END -->
 
 ---
 
