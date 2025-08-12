@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest One UI 8 beta is causing a hilarious moon-related camera glitch](https://www.androidauthority.com/one-ui-8-beta-4-purple-moon-3586447/)
- - [This so-called Android ‘antivirus’ is just a front for spyware](https://www.androidauthority.com/fake-android-antivirus-app-spyware-3586460/)
- - [Ultimate Ears’ Wonderboom 4 speaker is cheaper than ever at 40 percent off](https://www.theverge.com/tech/757717/ultimate-ears-ue-wonderboom-4-bluetooth-speaker-deal-sale)<!-- TECH:END -->
+ - [Chrome isn’t for sale, but Perplexity just offered $34.5 billion anyway](https://www.androidauthority.com/perplexity-google-chrome-bid-3586500/)
+ - [Despite Musk&#39;s claim Apple &quot;makes it impossible&quot; for non-OpenAI AI apps to top its App Store, DeepSeek was #1 in January and Perplexity was #1 in July in India &lpar;Henry Chandonnet/Business Insider&rpar;](http://www.techmeme.com/250812/p23#a250812p23)
+ - [Blowout special: 13-inch iPad Air M2 Wi-Fi + Cellular on sale for $649](https://appleinsider.com/articles/25/08/12/blowout-special-13-inch-ipad-air-m2-wi-fi-cellular-on-sale-for-649?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
