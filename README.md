@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals reminds players it doesn&#39;t use &#39;EOMM&#39;, matchmaking designed to make you feel better about your terrible W/L ratio](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-reminds-players-it-doesnt-use-eomm-matchmaking-designed-to-make-you-feel-better-about-your-terrible-w-l-ratio/)
- - [Roblox&#39;s top experience Grow a Garden is shifting into a &#39;new era&#39; and promises deeper farming after a series of disappointing updates: &#39;I hope the community can see this change as a positive attempt to keep the game fresh and enjoyable for everyone&#39;](https://www.pcgamer.com/games/survival-crafting/robloxs-top-experience-grow-a-garden-is-shifting-into-a-new-era-and-promises-deeper-farming-after-a-series-of-disappointing-updates-i-hope-the-community-can-see-this-change-as-a-positive-attempt-to-keep-the-game-fresh-and-enjoyable-for-everyone/)
- - [After saying he should resign &#39;immediately&#39;, President Trump changes his mind about Intel CEO Lip-Bu Tan and calls his &#39;success and rise&#39; an &#39;amazing story&#39;, looks forward to fixes for Intel&#39;s foundry](https://www.pcgamer.com/hardware/processors/after-saying-he-should-resign-immediately-president-trump-changes-his-mind-about-intel-ceo-lip-bu-tan-and-calls-his-success-and-rise-an-amazing-story-looks-forward-to-fixes-for-intels-foundry/)<!-- GAME:END -->
+ - [Time-loop movies get a whole new spin in the sweet, strange live-action anime River](https://www.polygon.com/what-to-watch-best-time-loop-movies-river-2023-japanese/)
+ - [Ex-Intel CEO calls current Intel CEO&#39;s plans for chip factory investment a &#39;joke&#39; and wants Nvidia, Apple and Google to stump up the cash to save the fabs](https://www.pcgamer.com/hardware/processors/ex-intel-ceo-calls-current-intel-ceos-plans-for-chip-factory-investment-a-joke-and-wants-nvidia-apple-and-google-to-stump-up-the-cash-to-save-the-fabs/)
+ - [This undetectable AI-powered aimbot physically moves the mouse pad to cheat in Valorant, an invention so unholy I demand it be cast down to the depths of hell where it belongs](https://www.pcgamer.com/hardware/gaming-mice/this-undetectable-ai-powered-aimbot-physically-moves-the-mouse-pad-to-cheat-in-valorant-an-invention-so-unholy-i-demand-it-be-cast-down-to-the-depths-of-hell-where-it-belongs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
