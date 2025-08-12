@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quick fixes: bring back Google Photos classic search instead of ‘Ask Photos’ Gemini AI](https://www.theverge.com/how-to/758206/bring-back-google-photos-classic-search-instead-of-gemini)
- - [Character.AI says it&#39;s generating revenue at a run rate of $30M+ and has 20M MAUs who spend, on average, 75 minutes a day chatting with a bot &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250812/p18#a250812p18)
- - [Perplexity offers to buy Google Chrome for $34.5 billion](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)<!-- TECH:END -->
+ - [Samsung’s latest One UI 8 beta is causing a hilarious moon-related camera glitch](https://www.androidauthority.com/one-ui-8-beta-4-purple-moon-3586447/)
+ - [This so-called Android ‘antivirus’ is just a front for spyware](https://www.androidauthority.com/fake-android-antivirus-app-spyware-3586460/)
+ - [Ultimate Ears’ Wonderboom 4 speaker is cheaper than ever at 40 percent off](https://www.theverge.com/tech/757717/ultimate-ears-ue-wonderboom-4-bluetooth-speaker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
