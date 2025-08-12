@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford is doubling down on EVs — the timing is awful](https://www.theverge.com/ford-motor-company/757719/ford-is-doubling-down-on-evs-the-timing-is-awful)
- - [Q&amp;A with AMD CEO Lisa Su on AI accelerators, US manufacturing, becoming AMD CEO in 2014, aiming to surpass Nvidia, OpenAI, Tesla, xAI, China, ROCm, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250812/p9#a250812p9)
- - [How Larry Ellison is focusing his philanthropic efforts on the Ellison Institute of Technology, an Oxford-based, for-profit entity set to spend £1B by 2027 &lpar;New York Times&rpar;](http://www.techmeme.com/250812/p8#a250812p8)<!-- TECH:END -->
+ - [This Gemini UI change should’ve been the default from the start &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-redesign-model-switcher-apk-teardown-3586194/)
+ - [Elon Musk says he’s suing Apple for rigging App Store rankings](https://www.theverge.com/news/757941/elon-musk-xai-apple-lawsuit-app-store)
+ - [Microsoft releases lightweight Office taskbar apps for Windows 11](https://www.theverge.com/news/757935/microsoft-365-companion-apps-windows-11-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
