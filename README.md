@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Get the Sony WH-1000XM6 headphones at their record low price!](https://www.androidauthority.com/sony-wh-1000xm6-deal-2-3586038/)
- - [NYC-based Profound, which helps brands optimize visibility in AI search responses, raised a $35M Series B led by Sequoia, bringing its total funding to $58.5M &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250812/p31#a250812p31)
- - [Best Side Sleeper Mattress 2025: Picked By a Sleep Science Coach](https://www.wired.com/gallery/best-mattress-for-side-sleepers/)<!-- TECH:END -->
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [In response to Elon Musk&#39;s claims that the App Store favors the ChatGPT app, Apple says the App Store &quot;is designed to be fair and free of bias&quot; &lpar;Mark Gurman/@markgurman&rpar;](http://www.techmeme.com/250812/p34#a250812p34)
+ - [Squint, which uses AI and AR to modernize manufacturing processes, raised a $40M Series B led by The Westly Group and TCV at a $265M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250812/p33#a250812p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
