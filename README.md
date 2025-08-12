@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dont do 9GAG kids, stay in school](http://9gag.com/gag/aMVyO4P)
- - ⏩ [Would watch](http://9gag.com/gag/adBbRo2)
- - 👉 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aMVyONV)
+ - ⏩ [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
+ - 👉 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)<!-- MEMES:END -->
 
 ---
 
