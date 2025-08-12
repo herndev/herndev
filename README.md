@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Jensen Huang successfully lobbied Trump to restart H20 sales to China; US officials had not vetted Trump&#39;s 20% pay-to-play proposal when Trump offered it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250812/p5#a250812p5)
- - [Epic says it is bringing Fortnite back to iOS in Australia &quot;at a date to be determined&quot;, after a judge ruled Apple and Google&#39;s app stores are anticompetitive &lpar;The Verge&rpar;](http://www.techmeme.com/250812/p4#a250812p4)
- - [An Australian federal judge rules Apple and Google engaged in anti-competitive conduct by misusing app store market power, but rejects some of Epic&#39;s claims &lpar;ABC&rpar;](http://www.techmeme.com/250812/p3#a250812p3)<!-- TECH:END -->
+ - [Ford is doubling down on EVs — the timing is awful](https://www.theverge.com/ford-motor-company/757719/ford-is-doubling-down-on-evs-the-timing-is-awful)
+ - [Q&amp;A with AMD CEO Lisa Su on AI accelerators, US manufacturing, becoming AMD CEO in 2014, aiming to surpass Nvidia, OpenAI, Tesla, xAI, China, ROCm, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250812/p9#a250812p9)
+ - [How Larry Ellison is focusing his philanthropic efforts on the Ellison Institute of Technology, an Oxford-based, for-profit entity set to spend £1B by 2027 &lpar;New York Times&rpar;](http://www.techmeme.com/250812/p8#a250812p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
