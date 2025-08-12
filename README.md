@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 teases Halo crossover ahead of Xbox Series X release](https://www.polygon.com/helldivers-2-halo-crossover-xbox-release-date/)
- - [PUBG Creator’s New Survival Sim Reveals Surprise Free Open Beta](https://kotaku.com/pubg-prologue-go-wayback-free-open-beta-playerunknown-2000617143)
- - [How Borderlands 4 is Being Built for Co-op from the Ground Up](https://news.xbox.com/en-us/2025/08/12/how-borderlands-4-built-for-co-op-ground-up/)<!-- GAME:END -->
+ - [Everything You Need To Know About Playing The Legend Of Zelda: Link’s Awakening On Switch 2](https://kotaku.com/switch-2-upgrade-links-awakening-zelda-fps-hdr-2000617165)
+ - [How to unlock the Astronomy Badge in Peak](https://www.pcgamer.com/games/sim/peak-astronomy-badge/)
+ - [This Roguelike FPS Is Like Warframe And Destiny In One](https://kotaku.com/deadzone-rogue-roguelike-steam-pc-shooter-destiny-2000617173)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
