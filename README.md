@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would watch](http://9gag.com/gag/adBbRo2)
- - ⏩ [How to friend](http://9gag.com/gag/aryz8v5)
- - 👉 [`My name is Butchy Allen, &amp; I&#39;m the fastest dog alive!`](http://9gag.com/gag/aZZvvPn)<!-- MEMES:END -->
+ - 💣 [Yes it is](http://9gag.com/gag/a7oAnXb)
+ - ⏩ [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
+ - 👉 [The funny part is the jersey with `equality` on it.](http://9gag.com/gag/a9yBOw6)<!-- MEMES:END -->
 
 ---
 
