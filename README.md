@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
- - ⏩ [Big mama to the rescue](http://9gag.com/gag/avymdWd)
- - 👉 [Question: where do these type of wifes grow?](http://9gag.com/gag/a7oApOL)<!-- MEMES:END -->
+ - 💣 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
+ - ⏩ [Task failed successfully](http://9gag.com/gag/awyv4P8)
+ - 👉 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)<!-- MEMES:END -->
 
 ---
 
