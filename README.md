@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
- - ⏩ [Men enjoying simple things](http://9gag.com/gag/a5QDqvO)
- - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
+ - 💣 [Task failed successfully](http://9gag.com/gag/awyv4P8)
+ - ⏩ [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
+ - 👉 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)<!-- MEMES:END -->
 
 ---
 
