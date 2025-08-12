@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blackwater’s founder would like to sell you a privacy phone made in the USA](https://www.theverge.com/mobile/758073/unplugged-up-phone-erik-prince-blackwater)
- - [Study finds your smartwatch might be way off on one key health stat](https://www.androidauthority.com/study-smartwatch-stress-readings-inaccurate-3586409/)
- - [Forget the Steam Deck, this 12.5-inch handheld can play games at 4K 100FPS](https://www.androidauthority.com/handheld-gaming-pc-with-rtx-4090-3586298/)<!-- TECH:END -->
+ - [Quick fixes: bring back Google Photos classic search instead of ‘Ask Photos’ Gemini AI](https://www.theverge.com/how-to/758206/bring-back-google-photos-classic-search-instead-of-gemini)
+ - [Character.AI says it&#39;s generating revenue at a run rate of $30M+ and has 20M MAUs who spend, on average, 75 minutes a day chatting with a bot &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250812/p18#a250812p18)
+ - [Perplexity offers to buy Google Chrome for $34.5 billion](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
