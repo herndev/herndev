@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude, what?](http://9gag.com/gag/awyvY84)
- - ⏩ [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
+ - 💣 [Would watch](http://9gag.com/gag/adBbRo2)
+ - ⏩ [Dude, what?](http://9gag.com/gag/awyvY84)
+ - 👉 [Task failed successfully](http://9gag.com/gag/awyv4P8)<!-- MEMES:END -->
 
 ---
 
