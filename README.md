@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - ⏩ [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - 👉 [Big mama to the rescue](http://9gag.com/gag/avymdWd)<!-- MEMES:END -->
+ - 💣 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
+ - ⏩ [Big mama to the rescue](http://9gag.com/gag/avymdWd)
+ - 👉 [Question: where do these type of wifes grow?](http://9gag.com/gag/a7oApOL)<!-- MEMES:END -->
 
 ---
 
