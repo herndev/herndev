@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need a solution](http://9gag.com/gag/aD2MXMd)
- - ⏩ [Would watch](http://9gag.com/gag/adBbRo2)
- - 👉 [No one is too busy](http://9gag.com/gag/abAEEME)<!-- MEMES:END -->
+ - 💣 [Would watch](http://9gag.com/gag/adBbRo2)
+ - ⏩ [How to friend](http://9gag.com/gag/aryz8v5)
+ - 👉 [`My name is Butchy Allen, &amp; I&#39;m the fastest dog alive!`](http://9gag.com/gag/aZZvvPn)<!-- MEMES:END -->
 
 ---
 
