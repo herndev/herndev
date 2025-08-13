@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Nintendo ever win GOTY again?](https://www.polygon.com/nintendo-goty-donkey-kong-bananza/)
- - [The Most Beautiful Way To Learn A TTRPG: Comic Panels, Choices, And Consequences](https://www.polygon.com/ad-content-legend-in-the-mist-ttrpg-tutorial-comic-book/)
- - [The Framework Desktop&#39;s small footprint is deceptively cute, as it&#39;s actually sequestering serious compute power that makes it the best mini AI PC](https://www.pcgamer.com/hardware/gaming-pcs/the-framework-desktops-small-footprint-is-deceptively-cute-as-its-actually-sequestering-serious-compute-power-that-makes-it-the-best-mini-ai-pc/)<!-- GAME:END -->
+ - [Steam payment headaches grow as PayPal is no longer usable for much of the world: Valve hopes to bring it back in the future, &#39;but the timeline is uncertain&#39;](https://www.pcgamer.com/games/steam-payment-headaches-grow-as-paypal-is-no-longer-usable-for-much-of-the-world-valve-hopes-to-bring-it-back-in-the-future-but-the-timeline-is-uncertain/)
+ - [Spider-Man Finally Returns To PS Plus In A Stacked Month](https://kotaku.com/spider-man-ps-plus-ps5-motal-kombat-resident-evil-witcher-3-2000617489)
+ - [It’s 2025, Why Are We Still Getting Multiplayer Games Without Crossplay?](https://kotaku.com/mgs-metal-gear-solid-fox-hunt-no-crossplay-nightreign-rematch-ps5-2000617474)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
