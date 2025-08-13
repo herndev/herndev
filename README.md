@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [KPop Demon Hunters will have four different sing-along screenings in the U.S.](https://www.polygon.com/kpop-demon-hunters-singalong-screenings-us-cities/)
- - [Marvel Rivals matchmaking conspiracies are hitting a breaking point](https://www.polygon.com/marvel-rivals-matchmaking-eomm-optmatch-netease-multiplayer-anger/)
- - [Hail to the 9 Kings: Say Hello to Your New Auto-Battler Obsession](https://news.xbox.com/en-us/2025/08/13/9-kings-pc-game-pass-preview/)<!-- GAME:END -->
+ - [Avatar: The Last Airbender MTG set shows Universes Beyond&#39;s design problem](https://www.polygon.com/mtg-avatar-the-last-airbender-magic-universes-beyond-design/)
+ - [PUBG shutting down on PS4 and Xbox One](https://www.polygon.com/pubg-ps4-xbox-one-closing-shut-down-date/)
+ - [The Esports World Cup has marked one of Tekken&#39;s fiercest rivalries with a weirdly sticky poster](https://www.pcgamer.com/games/fighting/the-esports-world-cup-has-marked-one-of-tekkens-fiercest-rivalries-with-a-weirdly-sticky-poster/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
