@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
- - ⏩ [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
- - 👉 [Yes it is](http://9gag.com/gag/a7oAnXb)<!-- MEMES:END -->
+ - 💣 [You&#39;re the carbon they want to reduce](http://9gag.com/gag/a7oAGZe)
+ - ⏩ [Biskies](http://9gag.com/gag/an7Vdnn)
+ - 👉 [No one is too busy](http://9gag.com/gag/abAEEME)<!-- MEMES:END -->
 
 ---
 
