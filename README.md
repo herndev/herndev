@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s a look at the final Pebble Time 2 design](https://www.theverge.com/news/758592/pebble-time-2-final-design-wearables-smartwatches)
- - [Hands-on: We ran full desktop Linux apps on an Android phone!](https://www.androidauthority.com/run-desktop-linux-apps-on-android-how-to-3586539/)
- - [10 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)<!-- TECH:END -->
+ - [Hidden Door is an AI storytelling game that actually makes sense](https://www.theverge.com/games/757816/hidden-door-early-access-ai-story)
+ - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [Amazon says it now offers same-day grocery delivery in 1,000+ cities and plans to bring it to 2,300+ more by the end of 2025; Prime subscribers get it free &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250813/p22#a250813p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
