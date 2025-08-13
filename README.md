@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uuuggghhhh](http://9gag.com/gag/aByo4ZD)
- - ⏩ [Things I want to do with adult money](http://9gag.com/gag/an7VG1n)
- - 👉 [Palantir.](http://9gag.com/gag/aYQmR0v)<!-- MEMES:END -->
+ - 💣 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
+ - ⏩ [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
+ - 👉 [Dude, what?](http://9gag.com/gag/awyvY84)<!-- MEMES:END -->
 
 ---
 
