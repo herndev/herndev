@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are welcome](http://9gag.com/gag/aLnrrwx)
- - ⏩ [Seem like united healthcare wants to find out once again](http://9gag.com/gag/a87zzDV)
+ - 💣 [Seem like united healthcare wants to find out once again](http://9gag.com/gag/a87zzDV)
+ - ⏩ [Respect](http://9gag.com/gag/a9yBB40)
  - 👉 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)<!-- MEMES:END -->
 
 ---
