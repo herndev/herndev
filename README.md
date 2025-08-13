@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tensor wants to be the first company to sell you a ‘robocar’ — but who are they?](https://www.theverge.com/news/758605/tensor-autox-autonomous-vehicle-robocar-personal-own-china)
- - [Some doctors got worse at detecting cancer after relying on AI](https://www.theverge.com/ai-artificial-intelligence/758672/some-doctors-got-worse-at-detecting-cancer-after-relying-on-ai)
- - [Twelve South’s 120W charger with Apple Find My support is nearly half off](https://www.theverge.com/tech/758465/twelve-south-plugbug-charger-sonos-ace-headphones-deal-sale)<!-- TECH:END -->
+ - [Google&amp;#8217;s Gemini AI will get more personalized by remembering details automatically](https://www.theverge.com/news/758624/google-gemini-ai-automatic-memory-privacy-update)
+ - [LinkedIn’s Mini Sudoku is a clever twist on the classic puzzle](https://www.theverge.com/news/758756/linkedins-mini-sudoku-is-a-clever-twist-on-the-classic-puzzle)
+ - [Chinese chip equipment supplier E-Town sues Applied Materials in the Beijing IP Court over alleged trade secret theft; Applied Materials hired two E-Town staff &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p25#a250813p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
