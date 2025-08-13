@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Engine failure, no problem, just land in the field](http://9gag.com/gag/amondN2)
+ - 💣 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)
  - ⏩ [Bookworm](http://9gag.com/gag/a9yBDyZ)
- - 👉 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)<!-- MEMES:END -->
+ - 👉 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)<!-- MEMES:END -->
 
 ---
 
