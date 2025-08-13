@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
- - ⏩ [Yes it is](http://9gag.com/gag/a7oAnXb)
+ - 💣 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
+ - ⏩ [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)
  - 👉 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)<!-- MEMES:END -->
 
 ---
