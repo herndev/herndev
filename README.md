@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
- - ⏩ [I&#39;m tired, boss.](http://9gag.com/gag/a34nn5m)
- - 👉 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)<!-- MEMES:END -->
+ - 💣 [The universe speaks](http://9gag.com/gag/aAyZZxR)
+ - ⏩ [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
+ - 👉 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)<!-- MEMES:END -->
 
 ---
 
