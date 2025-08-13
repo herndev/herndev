@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The universe speaks](http://9gag.com/gag/aAyZZxR)
- - ⏩ [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
- - 👉 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)<!-- MEMES:END -->
+ - 💣 [Uuuggghhhh](http://9gag.com/gag/aByo4ZD)
+ - ⏩ [Things I want to do with adult money](http://9gag.com/gag/an7VG1n)
+ - 👉 [Palantir.](http://9gag.com/gag/aYQmR0v)<!-- MEMES:END -->
 
 ---
 
