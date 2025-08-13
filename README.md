@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Studies suggest AI chatbots&#39; sycophantic design may increase narcissism among young and vulnerable users, potentially altering personality traits at scale &lpar;Derek Thompson&rpar;](http://www.techmeme.com/250813/p6#a250813p6)
- - [OpenAI introduces &quot;Auto&quot;, &quot;Fast&quot;, and &quot;Thinking&quot; settings for GPT-5 in ChatGPT&#39;s model picker, with &quot;Auto&quot; similar to the GPT-5 model router announced earlier &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250813/p5#a250813p5)
- - [Gboard now has new shortcut for seamless access to your credentials and cards](https://www.androidauthority.com/gboard-autofill-with-google-shortcut-rolling-out-3586640/)<!-- TECH:END -->
+ - [China&#39;s vision for its autonomous vehicle industry, backed by state support and infrastructure investment, is driving its lead in ADAS and robotaxi deployment &lpar;Yi-Ling Liu/Rest of World&rpar;](http://www.techmeme.com/250813/p7#a250813p7)
+ - [ChatGPT won’t remove old models without warning after GPT-5 backlash](https://www.theverge.com/openai/758537/chatgpt-4o-gpt-5-model-backlash-replacement)
+ - [Studies suggest AI chatbots&#39; sycophantic design may increase narcissism among young and vulnerable users, potentially altering personality traits at scale &lpar;Derek Thompson&rpar;](http://www.techmeme.com/250813/p6#a250813p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
