@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [GameSir&#39;s G7 Pro has removable faceplates, TMR hall effect sticks, and 1000Ghz polling rate for under $80](https://www.pcgamer.com/hardware/controllers/gamesirs-g7-pro-has-removable-faceplates-tmr-hall-effect-sticks-and-1000ghz-polling-rate-for-under-usd80/)
  - [Today&#39;s Wordle clues, hints and answer for August 13 &lpar;#1516&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-13-2025/)
- - [The sequel to the best high-end Hall Effect controller just dropped with Razer&#39;s esports focussed Wolverine V3 Pro 8k PC](https://www.pcgamer.com/hardware/gaming-headsets/the-sequel-to-the-best-high-end-hall-effect-controller-just-dropped-with-razers-esports-focussed-wolverine-v3-pro-8k-pc/)
- - [This retro-styled programmable high-polling wireless mouse comes with a charging dock for under $60 USD](https://www.pcgamer.com/hardware/controllers/this-retro-styled-programmable-high-polling-wireless-mouse-comes-with-a-charging-dock-for-under-usd60-usd/)<!-- GAME:END -->
+ - [The sequel to the best high-end Hall Effect controller just dropped with Razer&#39;s esports focussed Wolverine V3 Pro 8k PC](https://www.pcgamer.com/hardware/gaming-headsets/the-sequel-to-the-best-high-end-hall-effect-controller-just-dropped-with-razers-esports-focussed-wolverine-v3-pro-8k-pc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
