@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This retro-styled programmable high-polling wireless mouse comes with a charging dock for under $60 USD](https://www.pcgamer.com/hardware/controllers/this-retro-styled-programmable-high-polling-wireless-mouse-comes-with-a-charging-dock-for-under-usd60-usd/)
- - [Alien: Earth&#39;s new sci-fi creations, explained](https://www.polygon.com/alien-earth-synthetics-cyborgs-hybrids-explained/)
- - [Battlefield 6 players are crying out for a &#39;real&#39; server browser, and it&#39;s about time we demanded the basic FPS feature that Call of Duty killed](https://www.pcgamer.com/games/fps/battlefield-6-players-are-crying-out-for-a-real-server-browser-and-its-about-time-we-demanded-the-basic-fps-feature-that-call-of-duty-killed/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for August 13 &lpar;#1516&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-13-2025/)
+ - [The sequel to the best high-end Hall Effect controller just dropped with Razer&#39;s esports focussed Wolverine V3 Pro 8k PC](https://www.pcgamer.com/hardware/gaming-headsets/the-sequel-to-the-best-high-end-hall-effect-controller-just-dropped-with-razers-esports-focussed-wolverine-v3-pro-8k-pc/)
+ - [This retro-styled programmable high-polling wireless mouse comes with a charging dock for under $60 USD](https://www.pcgamer.com/hardware/controllers/this-retro-styled-programmable-high-polling-wireless-mouse-comes-with-a-charging-dock-for-under-usd60-usd/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
