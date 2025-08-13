@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As a cell phone expert, these are the 5 cheapest carriers I recommend](https://www.androidauthority.com/cheapest-carriers-recommended-3584102/)
- - [Drag x Drive is more drag than drive](https://www.theverge.com/games-review/758328/drag-x-drive-review)
- - [GPT-5&#39;s router directs queries based on complexity and intent, helping OpenAI allocate compute for low-value informational and high-value commercial requests &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250813/p17#a250813p17)<!-- TECH:END -->
+ - [Here’s a look at the final Pebble Time 2 design](https://www.theverge.com/news/758592/pebble-time-2-final-design-wearables-smartwatches)
+ - [Hands-on: We ran full desktop Linux apps on an Android phone!](https://www.androidauthority.com/run-desktop-linux-apps-on-android-how-to-3586539/)
+ - [10 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
