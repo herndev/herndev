@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - ⏩ [Still achieved what was necessary.](http://9gag.com/gag/ae9WR0p)
- - 👉 [Title](http://9gag.com/gag/aMVyONV)<!-- MEMES:END -->
+ - 💣 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
+ - ⏩ [I&#39;m tired, boss.](http://9gag.com/gag/a34nn5m)
+ - 👉 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)<!-- MEMES:END -->
 
 ---
 
