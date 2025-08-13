@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aMVyONV)
- - ⏩ [Dude, what?](http://9gag.com/gag/awyvY84)
- - 👉 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)<!-- MEMES:END -->
+ - 💣 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)
+ - ⏩ [Title](http://9gag.com/gag/aMVyONV)
+ - 👉 [I need one](http://9gag.com/gag/aryzBY5)<!-- MEMES:END -->
 
 ---
 
