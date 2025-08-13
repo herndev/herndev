@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This retro-styled programmable high-polling wireless mouse comes with a charging dock for under $60 USD](https://www.pcgamer.com/hardware/controllers/this-retro-styled-programmable-high-polling-wireless-mouse-comes-with-a-charging-dock-for-under-usd60-usd/)
  - [Alien: Earth&#39;s new sci-fi creations, explained](https://www.polygon.com/alien-earth-synthetics-cyborgs-hybrids-explained/)
- - [Battlefield 6 players are crying out for a &#39;real&#39; server browser, and it&#39;s about time we demanded the basic FPS feature that Call of Duty killed](https://www.pcgamer.com/games/fps/battlefield-6-players-are-crying-out-for-a-real-server-browser-and-its-about-time-we-demanded-the-basic-fps-feature-that-call-of-duty-killed/)
- - [PlayerUnknown&#39;s new survival game makes building a simple campfire feel like a real accomplishment, and that&#39;s something a lot of survival games are lacking](https://www.pcgamer.com/games/survival-crafting/playerunknowns-new-survival-game-makes-building-a-simple-campfire-feel-like-a-real-accomplishment-and-thats-something-a-lot-of-survival-games-are-lacking/)<!-- GAME:END -->
+ - [Battlefield 6 players are crying out for a &#39;real&#39; server browser, and it&#39;s about time we demanded the basic FPS feature that Call of Duty killed](https://www.pcgamer.com/games/fps/battlefield-6-players-are-crying-out-for-a-real-server-browser-and-its-about-time-we-demanded-the-basic-fps-feature-that-call-of-duty-killed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
