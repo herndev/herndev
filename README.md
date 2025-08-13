@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam payment headaches grow as PayPal is no longer usable for much of the world: Valve hopes to bring it back in the future, &#39;but the timeline is uncertain&#39;](https://www.pcgamer.com/games/steam-payment-headaches-grow-as-paypal-is-no-longer-usable-for-much-of-the-world-valve-hopes-to-bring-it-back-in-the-future-but-the-timeline-is-uncertain/)
- - [Spider-Man Finally Returns To PS Plus In A Stacked Month](https://kotaku.com/spider-man-ps-plus-ps5-motal-kombat-resident-evil-witcher-3-2000617489)
- - [It’s 2025, Why Are We Still Getting Multiplayer Games Without Crossplay?](https://kotaku.com/mgs-metal-gear-solid-fox-hunt-no-crossplay-nightreign-rematch-ps5-2000617474)<!-- GAME:END -->
+ - [Mafia: The Old Country: The Kotaku Review](https://kotaku.com/mafia-old-country-review-is-it-good-worth-playing-2000617529)
+ - [Weapon&#39;s hot dog meme explained: the Easter egg goes deep](https://www.polygon.com/weapons-hot-dog-easter-egg-whitest-kids-you-know/)
+ - [Smoke grenades are the meta for the Battlefield 6 beta](https://www.polygon.com/battlefield-6-beta-smoke-grenades-meta-bf6/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
