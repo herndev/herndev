@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini on Android may soon support the full range of Canvas creation options &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-canvas-create-3586533/)
- - [This Might Be the Most Massive Black Hole Ever Discovered](https://www.wired.com/story/this-is-probably-the-most-massive-black-hole-in-history-gravitational-lens/)
- - [Pony AI says it rolled out 200+ Gen-7 Robotaxis since mass production started two months ago, putting it on track for its 1,000-vehicle goal by the end of 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p13#a250813p13)<!-- TECH:END -->
+ - [Let’s discuss: What is your smartphone’s battery health percentage?](https://www.androidauthority.com/smartphone-battery-health-open-thread-3586732/)
+ - [Ukrainians are adapting critical yet fragile SpaceX equipment to withstand Russia&#39;s assault, spawning a cottage industry of backstreet workshops and technicians &lpar;Volodymyr Verbianyi/Bloomberg&rpar;](http://www.techmeme.com/250813/p16#a250813p16)
+ - [Samsung Smart Monitor M9 M90SF Review: The 4K OLED Hybrid](https://www.wired.com/review/samsung-smart-monitor-m9-m90sf/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
