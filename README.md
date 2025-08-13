@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mafia: The Old Country: The Kotaku Review](https://kotaku.com/mafia-old-country-review-is-it-good-worth-playing-2000617529)
- - [Weapon&#39;s hot dog meme explained: the Easter egg goes deep](https://www.polygon.com/weapons-hot-dog-easter-egg-whitest-kids-you-know/)
- - [Smoke grenades are the meta for the Battlefield 6 beta](https://www.polygon.com/battlefield-6-beta-smoke-grenades-meta-bf6/)<!-- GAME:END -->
+ - [Suit Up With All Of Our Marvel Rivals Hero Guides](https://kotaku.com/marvel-rivals-heroes-how-to-play-venom-spider-man-emma-frost-2000617559)
+ - [Everything You Need To Know About Playing Captain Toad: Treasure Tracker On Switch 2](https://kotaku.com/captain-toad-treasure-tracker-mario-switch-2-update-2000617550)
+ - [Mafia: The Old Country: The Kotaku Review](https://kotaku.com/mafia-old-country-review-is-it-good-worth-playing-2000617529)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
