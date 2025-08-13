@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)
- - ⏩ [Title](http://9gag.com/gag/aMVyONV)
- - 👉 [I need one](http://9gag.com/gag/aryzBY5)<!-- MEMES:END -->
+ - ⏩ [The era of the greatest thief in the world will end soon](http://9gag.com/gag/ae9W75j)
+ - 👉 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)<!-- MEMES:END -->
 
 ---
 
