@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re the carbon they want to reduce](http://9gag.com/gag/a7oAGZe)
- - ⏩ [Biskies](http://9gag.com/gag/an7Vdnn)
- - 👉 [No one is too busy](http://9gag.com/gag/abAEEME)<!-- MEMES:END -->
+ - 💣 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)
+ - ⏩ [Smile!!!!](http://9gag.com/gag/azxQ4Vm)
+ - 👉 [I guess we will never know which `community`, because the Right will be validated.](http://9gag.com/gag/agmjjL6)<!-- MEMES:END -->
 
 ---
 
