@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple AI plans include robots, such as a tabletop one in 2027, a conversational Siri, a smart speaker with a display in 2026, and home security cameras &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250813/p28#a250813p28)
- - [Starlink Mini users just lost their beloved pause feature](https://www.theverge.com/analysis/758826/starlink-mini-standby-pause-bait-switch)
- - [AI Agents Are Using a Third of All Search Traffic Meant Towards Brands, Report Says](https://www.cnet.com/tech/services-and-software/ai-agents-are-using-a-third-of-all-search-traffic-meant-towards-brands-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [dbrand seemingly confirms final iPhone 17 design with Tank Case](https://appleinsider.com/articles/25/08/13/dbrand-seemingly-confirms-final-iphone-17-design-with-tank-case?utm_source=rss)
+ - [Apple&amp;#8217;s plan for AI could make Siri the animated center of your smart home](https://www.theverge.com/news/758931/apple-ai-siri-smart-home-robot-security-camera)
+ - [Apple&#39;s Siri-enabled robots are running behind, but still coming](https://appleinsider.com/articles/25/08/13/apples-siri-enabled-robots-are-running-behind-but-still-coming?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
