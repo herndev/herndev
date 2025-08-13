@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hidden Door is an AI storytelling game that actually makes sense](https://www.theverge.com/games/757816/hidden-door-early-access-ai-story)
- - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
- - [Amazon says it now offers same-day grocery delivery in 1,000+ cities and plans to bring it to 2,300+ more by the end of 2025; Prime subscribers get it free &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250813/p22#a250813p22)<!-- TECH:END -->
+ - [Tensor wants to be the first company to sell you a ‘robocar’ — but who are they?](https://www.theverge.com/news/758605/tensor-autox-autonomous-vehicle-robocar-personal-own-china)
+ - [Some doctors got worse at detecting cancer after relying on AI](https://www.theverge.com/ai-artificial-intelligence/758672/some-doctors-got-worse-at-detecting-cancer-after-relying-on-ai)
+ - [Twelve South’s 120W charger with Apple Find My support is nearly half off](https://www.theverge.com/tech/758465/twelve-south-plugbug-charger-sonos-ace-headphones-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
