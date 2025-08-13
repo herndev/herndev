@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
- - ⏩ [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
- - 👉 [Dude, what?](http://9gag.com/gag/awyvY84)<!-- MEMES:END -->
+ - ⏩ [Yes it is](http://9gag.com/gag/a7oAnXb)
+ - 👉 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)<!-- MEMES:END -->
 
 ---
 
