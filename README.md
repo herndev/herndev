@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is rolling out a feature for Gemini that, when enabled, will let the AI chatbot &quot;remember&quot; a user&#39;s past conversations without prompting &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250813/p26#a250813p26)
- - [Samsung’s Galaxy Tab S11 tablets might be getting a surprising battery downgrade](https://www.androidauthority.com/samsung-galaxy-s25-fe-tab-s11-battery-life-3586878/)
- - [Apple&#39;s iPhone 17 Pro $50 pricing increase strategy won&#39;t matter to half of buyers](https://appleinsider.com/articles/25/08/13/apples-iphone-17-pro-50-pricing-increase-strategy-wont-matter-to-half-of-buyers?utm_source=rss)<!-- TECH:END -->
+ - [Best Organic Mattresses &lpar;2025&rpar;: Birch, Avocado, Naturepedic, More](https://www.wired.com/gallery/best-organic-mattresses/)
+ - [New York claims Zelle&amp;#8217;s shoddy security enabled a billion dollars in scams](https://www.theverge.com/news/758827/new-york-zelle-scams-fraud-lawsuit)
+ - [Insta360&amp;#8217;s next ultra-compact action camera is getting a redesign](https://www.theverge.com/news/758816/insta360-go-ultra-action-camera-4k-leaked-images-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
