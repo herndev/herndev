@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PSA: YouTube will start guessing your age from today](https://www.androidauthority.com/youtube-age-estimation-us-rollout-3586621/)
  - [Got a weird security text from T-Mobile? It’s genuine, but you’re right to worry](https://www.androidauthority.com/t-mobile-security-text-3586634/)
- - [How to run ChatGPT-style AI on your Mac without paying a dime](https://appleinsider.com/inside/mac/tips/how-to-run-chatgpt-style-ai-on-your-mac-without-paying-a-dime?utm_source=rss)
- - [Perplexity&#39;s unsolicited $34.5B bid for Chrome with claimed VC backing is clearly a marketing stunt and strategic signaling amid Google&#39;s antitrust uncertainty &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250812/p40#a250812p40)<!-- TECH:END -->
+ - [How to run ChatGPT-style AI on your Mac without paying a dime](https://appleinsider.com/inside/mac/tips/how-to-run-chatgpt-style-ai-on-your-mac-without-paying-a-dime?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
