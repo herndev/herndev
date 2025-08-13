@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Let’s discuss: What is your smartphone’s battery health percentage?](https://www.androidauthority.com/smartphone-battery-health-open-thread-3586732/)
- - [Ukrainians are adapting critical yet fragile SpaceX equipment to withstand Russia&#39;s assault, spawning a cottage industry of backstreet workshops and technicians &lpar;Volodymyr Verbianyi/Bloomberg&rpar;](http://www.techmeme.com/250813/p16#a250813p16)
- - [Samsung Smart Monitor M9 M90SF Review: The 4K OLED Hybrid](https://www.wired.com/review/samsung-smart-monitor-m9-m90sf/)<!-- TECH:END -->
+ - [As a cell phone expert, these are the 5 cheapest carriers I recommend](https://www.androidauthority.com/cheapest-carriers-recommended-3584102/)
+ - [Drag x Drive is more drag than drive](https://www.theverge.com/games-review/758328/drag-x-drive-review)
+ - [GPT-5&#39;s router directs queries based on complexity and intent, helping OpenAI allocate compute for low-value informational and high-value commercial requests &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250813/p17#a250813p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
