@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How gears work](http://9gag.com/gag/ae9WRGQ)
- - ⏩ [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
- - 👉 [Yes it is](http://9gag.com/gag/a7oAnXb)<!-- MEMES:END -->
+ - 💣 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
+ - ⏩ [How gears work](http://9gag.com/gag/ae9WRGQ)
+ - 👉 [Title](http://9gag.com/gag/aMVyONV)<!-- MEMES:END -->
 
 ---
 
