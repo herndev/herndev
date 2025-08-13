@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A comparison of the duration of the seven world wonders](http://9gag.com/gag/a1mwEpY)
- - ⏩ [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
- - 👉 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)<!-- MEMES:END -->
+ - 💣 [Milk maid](http://9gag.com/gag/aAyZZg2)
+ - ⏩ [Smile!!!!](http://9gag.com/gag/azxQ4Vm)
+ - 👉 [An attempt was made](http://9gag.com/gag/ae9WR8b)<!-- MEMES:END -->
 
 ---
 
