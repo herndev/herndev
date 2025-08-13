@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [dbrand seemingly confirms final iPhone 17 design with Tank Case](https://appleinsider.com/articles/25/08/13/dbrand-seemingly-confirms-final-iphone-17-design-with-tank-case?utm_source=rss)
- - [Apple&amp;#8217;s plan for AI could make Siri the animated center of your smart home](https://www.theverge.com/news/758931/apple-ai-siri-smart-home-robot-security-camera)
- - [Apple&#39;s Siri-enabled robots are running behind, but still coming](https://appleinsider.com/articles/25/08/13/apples-siri-enabled-robots-are-running-behind-but-still-coming?utm_source=rss)<!-- TECH:END -->
+ - [PSA: YouTube will start guessing your age from today &lpar;Updated&rpar;](https://www.androidauthority.com/youtube-age-estimation-us-rollout-3586621/)
+ - [Kodak says it’ll figure things out and won’t shut down](https://www.theverge.com/news/758982/kodak-debt-retirement-funds)
+ - [Cisco reports Q4 revenue up 8% YoY to $14.67B, vs. $14.62B est., net income up 31% to $2.8B, and forecasts Q1 revenue above estimates &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250813/p32#a250813p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
