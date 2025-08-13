@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
- - ⏩ [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)
- - 👉 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)<!-- MEMES:END -->
+ - 💣 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
+ - ⏩ [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
+ - 👉 [Yes it is](http://9gag.com/gag/a7oAnXb)<!-- MEMES:END -->
 
 ---
 
