@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk and Sam Altman deploy each other&#39;s chatbots as proxies in pathetic slapfight](https://www.pcgamer.com/software/ai/musk-altman-feud-apple-ranking/)
- - [Take-Two boss is really very confident that Grand Theft Auto 6 won&#39;t be delayed again: &#39;My level of conviction is very, very high&#39;](https://www.pcgamer.com/games/action/take-two-boss-is-really-very-confident-that-grand-theft-auto-6-wont-be-delayed-again-my-level-of-conviction-is-very-very-high/)
- - [10 Things We Learned From The New Assassin’s Creed Shadows Developer AMA](https://kotaku.com/10-things-assasins-creed-shadows-dev-ama-ubisoft-parkour-isu-lore-2000617244)<!-- GAME:END -->
+ - [Battlefield 6 players are crying out for a &#39;real&#39; server browser, and it&#39;s about time we demanded the basic FPS feature that Call of Duty killed](https://www.pcgamer.com/games/fps/battlefield-6-players-are-crying-out-for-a-real-server-browser-and-its-about-time-we-demanded-the-basic-fps-feature-that-call-of-duty-killed/)
+ - [PlayerUnknown&#39;s new survival game makes building a simple campfire feel like a real accomplishment, and that&#39;s something a lot of survival games are lacking](https://www.pcgamer.com/games/survival-crafting/playerunknowns-new-survival-game-makes-building-a-simple-campfire-feel-like-a-real-accomplishment-and-thats-something-a-lot-of-survival-games-are-lacking/)
+ - [Elon Musk and Sam Altman deploy each other&#39;s chatbots as proxies in pathetic slapfight](https://www.pcgamer.com/software/ai/musk-altman-feud-apple-ranking/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
