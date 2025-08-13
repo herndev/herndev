@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mumbai-based online pharmacy Truemeds, which offers generic alternatives to branded drugs, raised $85M led by Accel at a $400M valuation, up from $110M in 2023 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250813/p2#a250813p2)
- - [Fractal Analytics, which became India&#39;s first AI unicorn in 2022, files for an IPO in Mumbai to raise about $560M, and could value the company at over $3.5B &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250813/p1#a250813p1)
- - [PSA: YouTube will start guessing your age from today](https://www.androidauthority.com/youtube-age-estimation-us-rollout-3586621/)<!-- TECH:END -->
+ - [Gboard now has new shortcut for seamless access to your credentials and cards](https://www.androidauthority.com/gboard-autofill-with-google-shortcut-rolling-out-3586640/)
+ - [Singapore&#39;s three neobanks, GXS Bank, MariBank, and Trust Bank, together posted $278.1M in losses in 2024 as legacy rivals digitalized, intensifying competition &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/250813/p4#a250813p4)
+ - [A senior US official says the recent hack of the US federal court filing system is a continuation of &quot;rudimentary security issues&quot; persisting since 2020 &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/250813/p3#a250813p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
