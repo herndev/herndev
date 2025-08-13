@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&amp;#8217;s Gemini AI will get more personalized by remembering details automatically](https://www.theverge.com/news/758624/google-gemini-ai-automatic-memory-privacy-update)
- - [LinkedIn’s Mini Sudoku is a clever twist on the classic puzzle](https://www.theverge.com/news/758756/linkedins-mini-sudoku-is-a-clever-twist-on-the-classic-puzzle)
- - [Chinese chip equipment supplier E-Town sues Applied Materials in the Beijing IP Court over alleged trade secret theft; Applied Materials hired two E-Town staff &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p25#a250813p25)<!-- TECH:END -->
+ - [Google is rolling out a feature for Gemini that, when enabled, will let the AI chatbot &quot;remember&quot; a user&#39;s past conversations without prompting &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250813/p26#a250813p26)
+ - [Samsung’s Galaxy Tab S11 tablets might be getting a surprising battery downgrade](https://www.androidauthority.com/samsung-galaxy-s25-fe-tab-s11-battery-life-3586878/)
+ - [Apple&#39;s iPhone 17 Pro $50 pricing increase strategy won&#39;t matter to half of buyers](https://appleinsider.com/articles/25/08/13/apples-iphone-17-pro-50-pricing-increase-strategy-wont-matter-to-half-of-buyers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
