@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: The Last Airbender MTG set shows Universes Beyond&#39;s design problem](https://www.polygon.com/mtg-avatar-the-last-airbender-magic-universes-beyond-design/)
- - [PUBG shutting down on PS4 and Xbox One](https://www.polygon.com/pubg-ps4-xbox-one-closing-shut-down-date/)
- - [The Esports World Cup has marked one of Tekken&#39;s fiercest rivalries with a weirdly sticky poster](https://www.pcgamer.com/games/fighting/the-esports-world-cup-has-marked-one-of-tekkens-fiercest-rivalries-with-a-weirdly-sticky-poster/)<!-- GAME:END -->
+ - [Can Nintendo ever win GOTY again?](https://www.polygon.com/nintendo-goty-donkey-kong-bananza/)
+ - [The Most Beautiful Way To Learn A TTRPG: Comic Panels, Choices, And Consequences](https://www.polygon.com/ad-content-legend-in-the-mist-ttrpg-tutorial-comic-book/)
+ - [The Framework Desktop&#39;s small footprint is deceptively cute, as it&#39;s actually sequestering serious compute power that makes it the best mini AI PC](https://www.pcgamer.com/hardware/gaming-pcs/the-framework-desktops-small-footprint-is-deceptively-cute-as-its-actually-sequestering-serious-compute-power-that-makes-it-the-best-mini-ai-pc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
