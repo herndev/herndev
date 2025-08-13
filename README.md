@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pity poor Capcom: Monster Hunter Wilds&#39; latest patch introduced a new crash bug, developers are working on it and &#39;will provide further updates when we have them&#39;](https://www.pcgamer.com/games/action/pity-poor-capcom-monster-hunter-wilds-latest-patch-introduced-a-new-crash-bug-developers-are-working-on-it-and-will-provide-further-updates-when-we-have-them/)
- - [Battlefield 6 beta offers more control, new maps, and more in weekend 2](https://www.polygon.com/battlefield-6-beta-changes-patch-notes-weekend-2/)
- - [In what was likely a karmic inevitability, Palworld now has its own shameless imitator on the Switch](https://www.pcgamer.com/games/survival-crafting/in-what-was-likely-a-karmic-inevitability-palworld-now-has-its-own-shameless-imitator-on-the-switch/)<!-- GAME:END -->
+ - [The next Fast &amp; Furious video game might be good?](https://www.polygon.com/fast-furious-arcade-console-game/)
+ - [Alien: Earth is the best thing to happen to the Alien universe since Isolation](https://www.pcgamer.com/movies-tv/alien-earth-is-the-best-thing-to-happen-to-the-alien-universe-since-isolation/)
+ - [Pity poor Capcom: Monster Hunter Wilds&#39; latest patch introduced a new crash bug, developers are working on it and &#39;will provide further updates when we have them&#39;](https://www.pcgamer.com/games/action/pity-poor-capcom-monster-hunter-wilds-latest-patch-introduced-a-new-crash-bug-developers-are-working-on-it-and-will-provide-further-updates-when-we-have-them/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
