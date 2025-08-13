@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)
- - ⏩ [Smile!!!!](http://9gag.com/gag/azxQ4Vm)
- - 👉 [I guess we will never know which `community`, because the Right will be validated.](http://9gag.com/gag/agmjjL6)<!-- MEMES:END -->
+ - 💣 [Engine failure, no problem, just land in the field](http://9gag.com/gag/amondN2)
+ - ⏩ [Bookworm](http://9gag.com/gag/a9yBDyZ)
+ - 👉 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)<!-- MEMES:END -->
 
 ---
 
