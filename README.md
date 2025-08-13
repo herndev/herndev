@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)
- - ⏩ [The era of the greatest thief in the world will end soon](http://9gag.com/gag/ae9W75j)
- - 👉 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)<!-- MEMES:END -->
+ - 💣 [A comparison of the duration of the seven world wonders](http://9gag.com/gag/a1mwEpY)
+ - ⏩ [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
+ - 👉 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)<!-- MEMES:END -->
 
 ---
 
