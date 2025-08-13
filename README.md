@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [In response to Elon Musk&#39;s claims that the App Store favors the ChatGPT app, Apple says the App Store &quot;is designed to be fair and free of bias&quot; &lpar;Mark Gurman/@markgurman&rpar;](http://www.techmeme.com/250812/p34#a250812p34)
- - [Squint, which uses AI and AR to modernize manufacturing processes, raised a $40M Series B led by The Westly Group and TCV at a $265M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250812/p33#a250812p33)<!-- TECH:END -->
+ - [India&#39;s RBI grants Paytm &quot;in-principle&quot; approval to operate as a payment services provider for online merchants, after China&#39;s Ant Group sold its entire stake &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250812/p35#a250812p35)
+ - [Russia might be responsible for the PACER hack](https://www.theverge.com/law/758440/federal-courts-hacked-pacer-cm-ecf-russia)
+ - [Elon Musk&#39;s antitrust claims dismissed by Apple, cites curation for safe discovery](https://appleinsider.com/articles/25/08/12/elon-musks-antitrust-claims-dismissed-by-apple-cites-curation-for-safe-discovery?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
