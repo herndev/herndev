@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed devs say they&#39;ll be getting around to the whole Assassins vs Templars and modern setting stuff &#39;at some point, in some fashion&#39;](https://www.pcgamer.com/games/assassins-creed/assassins-creed-devs-say-theyll-be-getting-around-to-the-whole-assassins-vs-templars-and-modern-setting-stuff-at-some-point-in-some-fashion/)
- - [Scrubby is a top robot. Scrubby scrubs whiteboards. Scrubby un-scrubs whiteboards. Scrubby sleeps to scrub again](https://www.pcgamer.com/hardware/scrubby-is-a-top-robot-scrubby-scrubs-whiteboards-scrubby-un-scrubs-whiteboards-scrubby-sleeps-to-scrub-again/)
- - [GameSir&#39;s G7 Pro has removable faceplates, TMR sticks, and 1000 Hz polling rate for under $80](https://www.pcgamer.com/hardware/controllers/gamesirs-g7-pro-has-removable-faceplates-tmr-hall-effect-sticks-and-1000ghz-polling-rate-for-under-usd80/)<!-- GAME:END -->
+ - [Drag X Drive review: Switch 2&#39;s gimmicks hit a breaking point](https://www.polygon.com/drag-x-drive-review-nintendo-switch-2/)
+ - [The Switch 2’s GameCube Library Is Finally Getting A New Addition](https://kotaku.com/nintendo-switch-2-online-robo-chibi-gamecube-2000617438)
+ - [The Battlefield 6 beta returns with yet another close-quarters map and two iconic modes for a four-day Weekend 2 trial, so I know what I&#39;ll be playing](https://www.pcgamer.com/games/fps/battlefield-6-beta-weekend-2-date-time-content/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
