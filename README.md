@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seem like united healthcare wants to find out once again](http://9gag.com/gag/a87zzDV)
- - ⏩ [Respect](http://9gag.com/gag/a9yBB40)
- - 👉 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)<!-- MEMES:END -->
+ - 💣 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - ⏩ [Still achieved what was necessary.](http://9gag.com/gag/ae9WR0p)
+ - 👉 [Title](http://9gag.com/gag/aMVyONV)<!-- MEMES:END -->
 
 ---
 
