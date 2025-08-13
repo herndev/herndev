@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal judge rules Elon Musk must face OpenAI&#39;s claims that his legal and media attacks are a &quot;years-long harassment campaign&quot; and sets a March 2026 trial &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250813/p11#a250813p11)
- - [We went hands-on with Google Translate’s Duolingo rival ahead of its launch &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-translate-practice-duolingo-apk-teardown-3586649/)
- - [Chinese open-source AI models from DeepSeek, Alibaba&#39;s Qwen, and others gaining global traction spurs US policymakers and companies to respond &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250813/p10#a250813p10)<!-- TECH:END -->
+ - [Gemini on Android may soon support the full range of Canvas creation options &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-canvas-create-3586533/)
+ - [This Might Be the Most Massive Black Hole Ever Discovered](https://www.wired.com/story/this-is-probably-the-most-massive-black-hole-in-history-gravitational-lens/)
+ - [Pony AI says it rolled out 200+ Gen-7 Robotaxis since mass production started two months ago, putting it on track for its 1,000-vehicle goal by the end of 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p13#a250813p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
