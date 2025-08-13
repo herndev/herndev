@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Drag X Drive review: Switch 2&#39;s gimmicks hit a breaking point](https://www.polygon.com/drag-x-drive-review-nintendo-switch-2/)
- - [The Switch 2’s GameCube Library Is Finally Getting A New Addition](https://kotaku.com/nintendo-switch-2-online-robo-chibi-gamecube-2000617438)
- - [The Battlefield 6 beta returns with yet another close-quarters map and two iconic modes for a four-day Weekend 2 trial, so I know what I&#39;ll be playing](https://www.pcgamer.com/games/fps/battlefield-6-beta-weekend-2-date-time-content/)<!-- GAME:END -->
+ - [KPop Demon Hunters will have four different sing-along screenings in the U.S.](https://www.polygon.com/kpop-demon-hunters-singalong-screenings-us-cities/)
+ - [Marvel Rivals matchmaking conspiracies are hitting a breaking point](https://www.polygon.com/marvel-rivals-matchmaking-eomm-optmatch-netease-multiplayer-anger/)
+ - [Hail to the 9 Kings: Say Hello to Your New Auto-Battler Obsession](https://news.xbox.com/en-us/2025/08/13/9-kings-pc-game-pass-preview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
