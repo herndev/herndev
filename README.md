@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)
- - ⏩ [Bookworm](http://9gag.com/gag/a9yBDyZ)
- - 👉 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)<!-- MEMES:END -->
+ - 💣 [Mind blown by this simple math trick](http://9gag.com/gag/a87znjZ)
+ - ⏩ [Yes it is](http://9gag.com/gag/a7oAnXb)
+ - 👉 [Council of men approved](http://9gag.com/gag/amondj9)<!-- MEMES:END -->
 
 ---
 
