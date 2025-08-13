@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s vision for its autonomous vehicle industry, backed by state support and infrastructure investment, is driving its lead in ADAS and robotaxi deployment &lpar;Yi-Ling Liu/Rest of World&rpar;](http://www.techmeme.com/250813/p7#a250813p7)
- - [ChatGPT won’t remove old models without warning after GPT-5 backlash](https://www.theverge.com/openai/758537/chatgpt-4o-gpt-5-model-backlash-replacement)
- - [Studies suggest AI chatbots&#39; sycophantic design may increase narcissism among young and vulnerable users, potentially altering personality traits at scale &lpar;Derek Thompson&rpar;](http://www.techmeme.com/250813/p6#a250813p6)<!-- TECH:END -->
+ - [A US federal judge rules Elon Musk must face OpenAI&#39;s claims that his legal and media attacks are a &quot;years-long harassment campaign&quot; and sets a March 2026 trial &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250813/p11#a250813p11)
+ - [We went hands-on with Google Translate’s Duolingo rival ahead of its launch &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-translate-practice-duolingo-apk-teardown-3586649/)
+ - [Chinese open-source AI models from DeepSeek, Alibaba&#39;s Qwen, and others gaining global traction spurs US policymakers and companies to respond &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250813/p10#a250813p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
