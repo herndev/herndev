@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Organic Mattresses &lpar;2025&rpar;: Birch, Avocado, Naturepedic, More](https://www.wired.com/gallery/best-organic-mattresses/)
- - [New York claims Zelle&amp;#8217;s shoddy security enabled a billion dollars in scams](https://www.theverge.com/news/758827/new-york-zelle-scams-fraud-lawsuit)
- - [Insta360&amp;#8217;s next ultra-compact action camera is getting a redesign](https://www.theverge.com/news/758816/insta360-go-ultra-action-camera-4k-leaked-images-specs)<!-- TECH:END -->
+ - [Sources: Apple AI plans include robots, such as a tabletop one in 2027, a conversational Siri, a smart speaker with a display in 2026, and home security cameras &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250813/p28#a250813p28)
+ - [Starlink Mini users just lost their beloved pause feature](https://www.theverge.com/analysis/758826/starlink-mini-standby-pause-bait-switch)
+ - [AI Agents Are Using a Third of All Search Traffic Meant Towards Brands, Report Says](https://www.cnet.com/tech/services-and-software/ai-agents-are-using-a-third-of-all-search-traffic-meant-towards-brands-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
