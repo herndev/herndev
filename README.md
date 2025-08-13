@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Scrubby is a top robot. Scrubby scrubs whiteboards. Scrubby un-scrubs whiteboards. Scrubby sleeps to scrub again.](https://www.pcgamer.com/hardware/scrubby-is-a-top-robot-scrubby-scrubs-whiteboards-scrubby-un-scrubs-whiteboards-scrubby-sleeps-to-scrub-again/)
+ - [Scrubby is a top robot. Scrubby scrubs whiteboards. Scrubby un-scrubs whiteboards. Scrubby sleeps to scrub again](https://www.pcgamer.com/hardware/scrubby-is-a-top-robot-scrubby-scrubs-whiteboards-scrubby-un-scrubs-whiteboards-scrubby-sleeps-to-scrub-again/)
  - [GameSir&#39;s G7 Pro has removable faceplates, TMR hall effect sticks, and 1000Ghz polling rate for under $80](https://www.pcgamer.com/hardware/controllers/gamesirs-g7-pro-has-removable-faceplates-tmr-hall-effect-sticks-and-1000ghz-polling-rate-for-under-usd80/)
  - [Today&#39;s Wordle clues, hints and answer for August 13 &lpar;#1516&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-13-2025/)<!-- GAME:END -->
 
