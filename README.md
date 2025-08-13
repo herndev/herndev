@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s RBI grants Paytm &quot;in-principle&quot; approval to operate as a payment services provider for online merchants, after China&#39;s Ant Group sold its entire stake &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250812/p35#a250812p35)
- - [Russia might be responsible for the PACER hack](https://www.theverge.com/law/758440/federal-courts-hacked-pacer-cm-ecf-russia)
- - [Elon Musk&#39;s antitrust claims dismissed by Apple, cites curation for safe discovery](https://appleinsider.com/articles/25/08/12/elon-musks-antitrust-claims-dismissed-by-apple-cites-curation-for-safe-discovery?utm_source=rss)<!-- TECH:END -->
+ - [Similarweb: UK traffic fell 47% for Pornhub, 47% for XVideos, and 39% for xHamster from July 24, the day before age verification rules took effect, to August 8 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250812/p38#a250812p38)
+ - [Hot sale: Samsung’s new smartwatches still come with freebies!](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-ultra-deals-3586573/)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
