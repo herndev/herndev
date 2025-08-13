@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Similarweb: UK traffic fell 47% for Pornhub, 47% for XVideos, and 39% for xHamster from July 24, the day before age verification rules took effect, to August 8 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250812/p38#a250812p38)
- - [Hot sale: Samsung’s new smartwatches still come with freebies!](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-ultra-deals-3586573/)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
+ - [Made by Google 2025: We Found All the Biggest Pixel 10 Leaks and Rumors](https://www.cnet.com/tech/mobile/made-by-google-2025-we-found-all-the-biggest-pixel-10-leaks-and-rumors/#ftag=CAD590a51e)
+ - [Hot sale: Samsung’s new smartwatches still come with freebies!](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-ultra-deals-3586573/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
