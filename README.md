@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suit Up With All Of Our Marvel Rivals Hero Guides](https://kotaku.com/marvel-rivals-heroes-how-to-play-venom-spider-man-emma-frost-2000617559)
- - [Everything You Need To Know About Playing Captain Toad: Treasure Tracker On Switch 2](https://kotaku.com/captain-toad-treasure-tracker-mario-switch-2-update-2000617550)
- - [Mafia: The Old Country: The Kotaku Review](https://kotaku.com/mafia-old-country-review-is-it-good-worth-playing-2000617529)<!-- GAME:END -->
+ - [Pity poor Capcom: Monster Hunter Wilds&#39; latest patch introduced a new crash bug, developers are working on it and &#39;will provide further updates when we have them&#39;](https://www.pcgamer.com/games/action/pity-poor-capcom-monster-hunter-wilds-latest-patch-introduced-a-new-crash-bug-developers-are-working-on-it-and-will-provide-further-updates-when-we-have-them/)
+ - [Battlefield 6 beta offers more control, new maps, and more in weekend 2](https://www.polygon.com/battlefield-6-beta-changes-patch-notes-weekend-2/)
+ - [In what was likely a karmic inevitability, Palworld now has its own shameless imitator on the Switch](https://www.pcgamer.com/games/survival-crafting/in-what-was-likely-a-karmic-inevitability-palworld-now-has-its-own-shameless-imitator-on-the-switch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
