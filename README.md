@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, We Got Some New Gameplay Of That Scary-Looking Jurassic Park Game](https://kotaku.com/finally-we-got-some-new-gameplay-of-that-scary-looking-jurassic-park-game-2000617830)
- - [Roblox explains crackdown on &#39;vigilantes&#39; after ban of a popular YouTuber sparks furor: &#39;They are acting in ways that could be harmful to others, both on and off our platform&#39;](https://www.pcgamer.com/games/roblox-explains-crackdown-on-vigilantes-after-ban-of-a-popular-youtuber-sparks-furor-they-are-acting-in-ways-that-could-be-harmful-to-others-both-on-and-off-our-platform/)
- - [A game was unintentionally listed as &#39;Sh***y Dungeon&#39; on Steam in Japan thanks to goofed-up machine translation](https://www.pcgamer.com/games/rpg/a-game-was-unintentionally-listed-as-sh-y-dungeon-on-steam-in-japan-thanks-to-goofed-up-machine-translation/)<!-- GAME:END -->
+ - [Someone at Blizzard might&#39;ve accidentally revealed Diablo 4&#39;s new class, which fans have been begging for since release](https://www.pcgamer.com/games/rpg/someone-at-blizzard-mightve-accidentally-revealed-diablo-4s-new-class-which-fans-have-been-begging-for-since-release/)
+ - [Wuchang: Fallen Feathers Fans Celebrate Owning The Disc After Controversial Update Censors The Game](https://kotaku.com/wuchang-fallen-feathers-1-5-changes-censorship-game-pass-steam-2000617865)
+ - [Call Of Duty: Black Ops 7‘s Final Campaign Mission Will Reportedly Be A Big Multiplayer Battle](https://kotaku.com/call-of-duty-black-ops-7s-final-campaign-mission-will-reportedly-be-a-big-multiplayer-battle-2000617873)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
