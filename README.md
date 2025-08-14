@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad Monkey](http://9gag.com/gag/adBbbVB)
- - ⏩ [Uuuggghhhh](http://9gag.com/gag/aByo4ZD)
- - 👉 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)<!-- MEMES:END -->
+ - 💣 [She didn\u2019t even know she was playing baseballl.](http://9gag.com/gag/a0ewwWL)
+ - ⏩ [I am in this video and i do not like it](http://9gag.com/gag/agmjKWv)
+ - 👉 [Well now you know](http://9gag.com/gag/aRBDDMQ)<!-- MEMES:END -->
 
 ---
 
