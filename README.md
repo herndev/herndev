@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals the worst Android phone to buy this month](https://www.androidauthority.com/worst-android-phone-to-buy-august-2025-poll-result-3586802/)
- - [A deep dive on Big Tech&#39;s AI energy boom as Amazon, Microsoft, and Google become major players, leading to fears that individuals&#39; and SMBs&#39; rates may rise &lpar;New York Times&rpar;](http://www.techmeme.com/250814/p16#a250814p16)
- - [Latest Google Messages bug gives you two &lpar;or three&rpar; app icons](https://www.androidauthority.com/google-messages-beta-bug-two-app-icons-3587230/)<!-- TECH:END -->
+ - [44 Must-Have Back-to-School College Dorm Room Essentials and Gear &lpar;2025&rpar;](https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/)
+ - [Arkham Intelligence: SpaceX now holds 8,285 bitcoin, valued at ~$1.02B, down from 28,000 bitcoin worth $1.8B in April 2021 after cutting its holdings in 2022 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250814/p17#a250814p17)
+ - [Sorry, Google, but the Pixel 10 doesn’t excite me](https://www.androidauthority.com/pixel-10-not-exciting-3584955/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
