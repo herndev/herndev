@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Massive solar flare](http://9gag.com/gag/ae9Wdem)
- - ⏩ [Title](http://9gag.com/gag/apR8dv9)
- - 👉 [Employees enjoying themselves, what a concept](http://9gag.com/gag/aW49NMA)<!-- MEMES:END -->
+ - 💣 [You want sum?](http://9gag.com/gag/avymDPZ)
+ - ⏩ [A Japanese guy trying to prove that something is not real](http://9gag.com/gag/aYQmmjq)
+ - 👉 [That horse said not today](http://9gag.com/gag/abAEmGB)<!-- MEMES:END -->
 
 ---
 
