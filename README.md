@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wednesday season 2&#39;s generational trauma hits harder than its teen romance](https://www.polygon.com/wednesday-netflix-generational-trauma-mothers-daughters/)
- - [Konami fumbles the ball ahead of MGS Delta&#39;s release, says the Fox Hunt multiplayer mode won&#39;t have crossplay with zero explanation](https://www.pcgamer.com/games/action/konami-fumbles-the-ball-ahead-of-mgs-deltas-release-says-the-fox-hunt-multiplayer-mode-wont-have-crossplay-with-zero-explanation/)
- - [Razer claims optical gaming keyboards are more precise than Hall effect ones because magnets are &#39;hard to control&#39;](https://www.pcgamer.com/hardware/gaming-keyboards/razer-claims-optical-gaming-keyboards-are-more-precise-than-hall-effect-ones-because-magnets-are-hard-to-control/)<!-- GAME:END -->
+ - [Free Play Days – Star Overdrive, The Catch: Carp &amp; Coarse Fishing and Survival: Fountain of Youth](https://news.xbox.com/en-us/2025/08/14/free-play-days-08-14-2025/)
+ - [Top Gun 3 a &#39;priority&#39; for Paramount, and Cruise might be ready](https://www.polygon.com/top-gun-3-happens-release-paramount/)
+ - [New Friday the 13th movie Sweet Revenge is a glorious return for Jason](https://www.polygon.com/friday-the-13th-movie-sweet-revenge-jason/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
