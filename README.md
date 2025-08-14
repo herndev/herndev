@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Is Weapons a misogynist movie? The &quot;hagsploitation&quot; accusations, explained](https://www.polygon.com/weapons-backlash-hagsploitation-horror-trend/)
- - [Samsung has announced the world&#39;s first 500 Hz OLED monitor, but it&#39;s the new 5K2K panel that&#39;s got my wallet twitching](https://www.pcgamer.com/hardware/gaming-monitors/samsung-has-announced-the-worlds-first-500-hz-oled-monitor-but-its-the-new-5k2k-panel-thats-got-my-wallet-twitching/)
- - [Ex-PlayStation Boss Is Wrong To Call Game Pass Devs ‘Wage Slaves’](https://kotaku.com/playstation-game-pass-shawn-layden-wage-slaves-2000617740)<!-- GAME:END -->
+ - [How Strange Scaffold Tackled the TMNT World in Tactical Takedown](https://news.xbox.com/en-us/2025/08/14/strange-scaffold-tackled-the-tmnt-world-in-tactical-takedown/)
+ - [Viva Las Vegas! We&#39;re getting a Fallout Season 2 teaser at Gamescom](https://www.pcgamer.com/movies-tv/viva-las-vegas-were-getting-a-fallout-season-2-teaser-at-gamescom/)
+ - [Steam can&#39;t escape the fallout from Visa and Mastercard&#39;s censorship](https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
