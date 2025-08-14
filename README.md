@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Come on and slam!](http://9gag.com/gag/axy4me1)
+ - 💣 [US drivin](http://9gag.com/gag/ae9WRoq)
  - ⏩ [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)
- - 👉 [I guess we will never know which `community`, because the Right will be validated.](http://9gag.com/gag/agmjjL6)<!-- MEMES:END -->
+ - 👉 [Bad Monkey](http://9gag.com/gag/adBbbVB)<!-- MEMES:END -->
 
 ---
 
