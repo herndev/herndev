@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She didn\u2019t even know she was playing baseballl.](http://9gag.com/gag/a0ewwWL)
- - ⏩ [I am in this video and i do not like it](http://9gag.com/gag/agmjKWv)
- - 👉 [Well now you know](http://9gag.com/gag/aRBDDMQ)<!-- MEMES:END -->
+ - 💣 [Sometimes comments are even better then a post](http://9gag.com/gag/aPAnn4n)
+ - ⏩ [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)
+ - 👉 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)<!-- MEMES:END -->
 
 ---
 
