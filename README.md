@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS rejects NetChoice&#39;s emergency appeal to block a Mississippi law that requires age verification and parental consent for teens to join social networks &lpar;New York Times&rpar;](http://www.techmeme.com/250814/p37#a250814p37)
- - [Sources: Lambda is in talks for a funding round that could value the cloud services company between $4B and $5B ahead of a potential IPO by the end of 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p36#a250814p36)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [Source: AI coding startup Cognition raised nearly $500M led by Founders Fund, bringing its valuation to $9.8B, more than double the level earlier this year &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p38#a250814p38)
+ - [Alleged Kindle Petit Color prototype surfaces amid leaker’s claims of Amazon fallout](https://www.androidauthority.com/kindle-petit-color-leak-3587712/)
+ - [Android 16 QPR1 is nearly complete as Beta 3.1 arrives for testers](https://www.androidauthority.com/android-16-qpr1-beta-3-1-3587702/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
