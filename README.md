@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos wants to help you spot deepfakes and AI edits &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-how-was-this-made-3586808/)
- - [The Pixel 10 Pro Fold could have Qi2 support, but don’t celebrate yet](https://www.androidauthority.com/google-pixel-10-pro-fold-qi2-3587221/)
- - [Klarna, which is planning a potential NY IPO as soon as September, is focusing on its banking push to boost revenue while shedding its image as a BNPL phenom &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250814/p9#a250814p9)<!-- TECH:END -->
+ - [Q&amp;A with researcher Petter Törnberg on his pre-print study showing how social media&#39;s structural architecture creates problematic outcomes like echo chambers &lpar;Jennifer Ouellette/Ars Technica&rpar;](http://www.techmeme.com/250814/p12#a250814p12)
+ - [Google Messages now ensures you don’t get flashed without your consent](https://www.androidauthority.com/google-messages-sensitive-nsfw-content-warning-3587234/)
+ - [Adyen reports H1 2025 net revenue up 20% YoY to €1.09B, vs. €1.11B est., processed volume up 5% YoY to €649B, and EBITDA up 28% YoY to €543.7M; ADYEN falls 17%+ &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250814/p11#a250814p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
