@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/apR8dv9)
- - ⏩ [Just got laid off recently could have done that haha can find another job no sweat](http://9gag.com/gag/a5QDyQo)
- - 👉 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)<!-- MEMES:END -->
+ - 💣 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
+ - ⏩ [Milk maid](http://9gag.com/gag/aAyZZg2)
+ - 👉 [That horse said not today](http://9gag.com/gag/abAEmGB)<!-- MEMES:END -->
 
 ---
 
