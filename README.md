@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HyperX&amp;#8217;s new gaming headset claims to last 250 hours on a single charge](https://www.theverge.com/news/759290/hyperxs-new-gaming-headset-claims-to-last-250-hours-on-a-single-charge)
- - [Apple&amp;#8217;s AirPods Max are $70 off in every color](https://www.theverge.com/tech/759392/apple-airpods-max-pixel-9-eufy-deal-sale)
- - [Wear OS smartwatches no longer have this leg up over the Apple Watch](https://www.androidauthority.com/apple-watch-blood-oxygen-tracking-returns-3587615/)<!-- TECH:END -->
+ - [Google’s latest foldable teaser raises unexpected naming questions](https://www.androidauthority.com/google-pixel-pro-fold-10-foldable-teaser-3587649/)
+ - [History repeating: Why Apple is so late to the foldable phone market](https://appleinsider.com/articles/25/08/14/history-repeating-why-apple-is-so-late-to-the-foldable-phone-market?utm_source=rss)
+ - [Consumer safety groups are demanding an FTC investigation into Grok’s ‘Spicy’ mode](https://www.theverge.com/x-ai/759554/consumer-safety-groups-are-demanding-an-ftc-investigation-into-groks-spicy-mode-elon-musk-grok-imagine-xai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
