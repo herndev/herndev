@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)
- - ⏩ [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
- - 👉 [Acrobatic view](http://9gag.com/gag/amonKX9)<!-- MEMES:END -->
+ - 💣 [Nobody knows such a person..](http://9gag.com/gag/avymXMZ)
+ - ⏩ [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
+ - 👉 [Come on Disney](http://9gag.com/gag/aXPeQX6)<!-- MEMES:END -->
 
 ---
 
