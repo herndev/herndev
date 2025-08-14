@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DeepSeek R2&#39;s launch delay is due to training issues on Huawei Ascend chips, prompting a switch to Nvidia chips for training and Huawei&#39;s for inference &lpar;Financial Times&rpar;](http://www.techmeme.com/250814/p2#a250814p2)
- - [Microsoft Windows head Pavan Davuluri says the next Windows version will be more ambient, pervasive and multi-modal, with voice becoming more important &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250814/p1#a250814p1)
- - [GPT-5 review: GPT-5-Thinking is a substantial upgrade over o3, Auto is only useful for free tier users, picking the right model still matters, and more &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250813/p40#a250813p40)<!-- TECH:END -->
+ - [A recent UK AI Security Institute study found that LLMs from OpenAI, Meta, xAI, and Alibaba can shift users&#39; political views in under 10 minutes of conversation &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250814/p4#a250814p4)
+ - [Companies, including Google and Cisco, have reinstated in-person interviews for some roles to combat AI-driven cheating, with some using deepfake detection tech &lpar;Ray A. Smith/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p3#a250814p3)
+ - [Blue Apron Coupon &amp; Promo Codes: $25 Off | August 2025](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
