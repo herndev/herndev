@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [44 Must-Have Back-to-School College Dorm Room Essentials and Gear &lpar;2025&rpar;](https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/)
- - [Arkham Intelligence: SpaceX now holds 8,285 bitcoin, valued at ~$1.02B, down from 28,000 bitcoin worth $1.8B in April 2021 after cutting its holdings in 2022 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250814/p17#a250814p17)
- - [Sorry, Google, but the Pixel 10 doesn’t excite me](https://www.androidauthority.com/pixel-10-not-exciting-3584955/)<!-- TECH:END -->
+ - [Apple rolls out a software update to enable a redesigned blood oxygen monitoring feature for the Watch Series 9, 10, and Ultra 2, circumventing the ITC ban &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250814/p21#a250814p21)
+ - [Thought HTC was dead? It just launched a surprisingly compelling Ray-Ban Meta rival](https://www.androidauthority.com/thought-htc-was-dead-it-just-launched-a-surprisingly-compelling-ray-ban-meta-rival-3587301/)
+ - [New Gemini features will give the chatbot a better memory, but also selective amnesia](https://www.androidauthority.com/new-gemini-features-remember-forget-conversations-3587288/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
