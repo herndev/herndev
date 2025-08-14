@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Strange Scaffold Tackled the TMNT World in Tactical Takedown](https://news.xbox.com/en-us/2025/08/14/strange-scaffold-tackled-the-tmnt-world-in-tactical-takedown/)
- - [Viva Las Vegas! We&#39;re getting a Fallout Season 2 teaser at Gamescom](https://www.pcgamer.com/movies-tv/viva-las-vegas-were-getting-a-fallout-season-2-teaser-at-gamescom/)
- - [Steam can&#39;t escape the fallout from Visa and Mastercard&#39;s censorship](https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/)<!-- GAME:END -->
+ - [Inside The Epic Project To Turn Starfield Into The Ultimate Star Wars Sim](https://kotaku.com/starfield-mods-star-wars-genesis-tattooine-mos-eisley-2000617835)
+ - [Gamescom 2025 preview: The 6 games we&#39;re most excited to see](https://www.pcgamer.com/games/gamescom-2025-preview/)
+ - [Rematch&#39;s latest update aims to fix &#39;major netcode releases&#39; including missed tackles and false goals, crossplay will &#39;hopefully&#39; go live by the end of August](https://www.pcgamer.com/games/sports/rematchs-latest-update-aims-to-fix-major-netcode-releases-including-missed-tackles-and-false-goals-crossplay-will-hopefully-go-live-by-the-end-of-august/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
