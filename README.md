@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cowboy’s e-bikes granted a second life](https://www.theverge.com/news/758606/cowboys-e-bikes-rebirth-avoids-bankruptcy)
- - [These displays are banned in US, and here’s how it affects Pixel 10 and iPhone 17](https://www.androidauthority.com/boe-screen-ban-smartphone-brands-3587199/)
- - [Foxconn reports Q2 net operating profit up 27% YoY to ~$1.9B, beating estimates, on $59.73B revenue, on the strength of its growing AI server business &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250814/p8#a250814p8)<!-- TECH:END -->
+ - [Google Photos wants to help you spot deepfakes and AI edits &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-how-was-this-made-3586808/)
+ - [The Pixel 10 Pro Fold could have Qi2 support, but don’t celebrate yet](https://www.androidauthority.com/google-pixel-10-pro-fold-qi2-3587221/)
+ - [Klarna, which is planning a potential NY IPO as soon as September, is focusing on its banking push to boost revenue while shedding its image as a BNPL phenom &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250814/p9#a250814p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
