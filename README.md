@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: xAI was part of a US government AI initiative alongside OpenAI, Anthropic, and Google, but was removed after Grok posted antisemitic content in July &lpar;Wired&rpar;](http://www.techmeme.com/250814/p32#a250814p32)
- - [Airbnb now lets you ‘pay later’ on vacation rentals](https://www.theverge.com/news/759637/airbnb-reserve-now-pay-later-stays)
- - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the Trump administration is in talks with Intel to have the US government potentially take a stake in the company; INTC jumps 6%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p35#a250814p35)
+ - [Apple TV+ remains a contender for Sunday Night Baseball rights](https://appleinsider.com/articles/25/08/14/apple-tv-remains-a-contender-for-sunday-night-baseball-rights?utm_source=rss)
+ - [China is about to launch SSDs so small you insert them like a SIM card](https://www.theverge.com/news/759624/china-is-about-to-launch-ssds-so-small-you-insert-them-like-a-sim-card)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
