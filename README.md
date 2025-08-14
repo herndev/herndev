@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The head of ChatGPT on AI attachment, ads, and what’s next](https://www.theverge.com/decoder-podcast-with-nilay-patel/758873/chatgpt-nick-turley-openai-ai-gpt-5-interview)
- - [UK porn site traffic tumbles following age gating rules](https://www.theverge.com/news/759234/uk-porn-site-traffic-tumbles-age-verification-rules)
- - [HTC is getting in on AI glasses, too](https://www.theverge.com/news/759221/htc-vive-eagle-ai-smart-glasses)<!-- TECH:END -->
+ - [Sola, which wants to use AI agents to automate businesses&#39; repetitive, manual tasks, raised $21M, including a $3.5M seed and a $17.5M Series A led by a16z &lpar;Emma Hinchliffe/Fortune&rpar;](http://www.techmeme.com/250814/p26#a250814p26)
+ - [Google Home finally adds full temperature scheduling for older Nest thermostats](https://www.androidauthority.com/older-nest-thermostat-scheduling-google-home-3587493/)
+ - [Verge readers can get a $25 exclusive discount on the Boox Palma 2](https://www.theverge.com/tech/759253/boox-palma-2-ebook-reader-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
