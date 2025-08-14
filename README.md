@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Karts For Rosalina In Mario Kart World](https://kotaku.com/mario-kart-world-switch-2-rosalina-best-kart-reel-racer-2000617857)
- - [Ice Cube Is Way Better At Being A Minecraft Insurance Agent Than Stopping An Alien Invasion](https://kotaku.com/ice-cube-is-way-better-at-being-a-minecraft-insurance-agent-than-stopping-an-alien-invasion-2000617834)
- - [Jurassic Park: Survival lets you relive the infamous velociraptor kitchen scene](https://www.polygon.com/jurassic-park-survival-velociraptor-kitchen/)<!-- GAME:END -->
+ - [Finally, We Got Some New Gameplay Of That Scary-Looking Jurassic Park Game](https://kotaku.com/finally-we-got-some-new-gameplay-of-that-scary-looking-jurassic-park-game-2000617830)
+ - [Roblox explains crackdown on &#39;vigilantes&#39; after ban of a popular YouTuber sparks furor: &#39;They are acting in ways that could be harmful to others, both on and off our platform&#39;](https://www.pcgamer.com/games/roblox-explains-crackdown-on-vigilantes-after-ban-of-a-popular-youtuber-sparks-furor-they-are-acting-in-ways-that-could-be-harmful-to-others-both-on-and-off-our-platform/)
+ - [A game was unintentionally listed as &#39;Sh***y Dungeon&#39; on Steam in Japan thanks to goofed-up machine translation](https://www.pcgamer.com/games/rpg/a-game-was-unintentionally-listed-as-sh-y-dungeon-on-steam-in-japan-thanks-to-goofed-up-machine-translation/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
