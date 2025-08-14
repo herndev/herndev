@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The pro AI UK government has advised citizens to &#39;Delete old emails and pictures as data centres require vast amounts of water to cool their systems&#39; to help reduce water consumption during national drought](https://www.pcgamer.com/software/ai/the-pro-ai-uk-government-has-advised-citizens-to-delete-old-emails-and-pictures-as-data-centres-require-vast-amounts-of-water-to-cool-their-systems-to-help-reduce-water-consumption-during-national-drought/)
- - [Superman&#39;s dog Krypto causes trouble in a series of animated shorts](https://www.polygon.com/superman-krypto-saves-the-day-animated-shorts/)
- - [Windows on Arm gamers will be able to download Xbox app games locally but cloud gaming might still be a better option](https://www.pcgamer.com/hardware/processors/windows-on-arm-gamers-will-be-able-to-download-xbox-app-games-locally-but-cloud-gaming-might-still-be-a-better-option/)<!-- GAME:END -->
+ - [&#39;Just a tap water, please&#39;: Starbucks Korea asks customers to stop bringing desktop PCs, printers, and pop-up dividers into its coffee shops for a cheeky work session](https://www.pcgamer.com/hardware/gaming-pcs/just-a-tap-water-please-starbucks-korea-asks-customers-to-stop-bringing-desktop-pcs-printers-and-pop-up-dividers-into-its-coffee-shops-for-a-cheeky-work-session/)
+ - [The Battlefield 6 beta probably is running worse for you this time around: &#39;We&#39;ll follow up with additional updates as soon as possible&#39;](https://www.pcgamer.com/games/fps/battlefield-6-beta-dlss-dlaa-performance-issues/)
+ - [OneXPlayer is releasing an ROG Flow Z13 competitor with its own massive gaming tablet powered by an AMD Ryzen AI Max+ 395](https://www.pcgamer.com/hardware/gaming-laptops/onexplayer-is-releasing-an-rog-flow-z13-competitor-with-its-own-massive-gaming-tablet-powered-by-an-amd-ryzen-ai-max-395/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
