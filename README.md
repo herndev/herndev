@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Instant karma, served hot and steamy](http://9gag.com/gag/aAyZN1p)
- - ⏩ [Wild Animals always danger](http://9gag.com/gag/avym9wb)
- - 👉 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)<!-- MEMES:END -->
+ - 💣 [Legend was born](http://9gag.com/gag/aQzVrMz)
+ - ⏩ [Man tries to steal Police vehicle](http://9gag.com/gag/agmjdz1)
+ - 👉 [Flying you say?](http://9gag.com/gag/aryzzEX)<!-- MEMES:END -->
 
 ---
 
