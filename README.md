@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out a software update to enable a redesigned blood oxygen monitoring feature for the Watch Series 9, 10, and Ultra 2, circumventing the ITC ban &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250814/p21#a250814p21)
- - [Thought HTC was dead? It just launched a surprisingly compelling Ray-Ban Meta rival](https://www.androidauthority.com/thought-htc-was-dead-it-just-launched-a-surprisingly-compelling-ray-ban-meta-rival-3587301/)
- - [New Gemini features will give the chatbot a better memory, but also selective amnesia](https://www.androidauthority.com/new-gemini-features-remember-forget-conversations-3587288/)<!-- TECH:END -->
+ - [The head of ChatGPT on AI attachment, ads, and what’s next](https://www.theverge.com/decoder-podcast-with-nilay-patel/758873/chatgpt-nick-turley-openai-ai-gpt-5-interview)
+ - [UK porn site traffic tumbles following age gating rules](https://www.theverge.com/news/759234/uk-porn-site-traffic-tumbles-age-verification-rules)
+ - [HTC is getting in on AI glasses, too](https://www.theverge.com/news/759221/htc-vive-eagle-ai-smart-glasses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
