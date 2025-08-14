@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Star Overdrive, The Catch: Carp &amp; Coarse Fishing and Survival: Fountain of Youth](https://news.xbox.com/en-us/2025/08/14/free-play-days-08-14-2025/)
- - [Top Gun 3 a &#39;priority&#39; for Paramount, and Cruise might be ready](https://www.polygon.com/top-gun-3-happens-release-paramount/)
- - [New Friday the 13th movie Sweet Revenge is a glorious return for Jason](https://www.polygon.com/friday-the-13th-movie-sweet-revenge-jason/)<!-- GAME:END -->
+ - [How to beat the Libra Everdark boss fight in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-libra-everdark-how-to-beat-weaknesses-moveset-power/)
+ - [Batman/Deadpool crossover release date, wild covers revealed](https://www.polygon.com/batman-deadpool-crossover-one-shot-variant-covers/)
+ - [New Star Trek movies would be closely connected to the Paramount Plus shows](https://www.polygon.com/star-trek-new-movies-paramount-skydance/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
