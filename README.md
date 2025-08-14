@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes comments are even better then a post](http://9gag.com/gag/aPAnn4n)
- - ⏩ [Reuplaod cause John China keep deleting it](http://9gag.com/gag/aQzVrq2)
- - 👉 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)<!-- MEMES:END -->
+ - 💣 [Bad Monkey](http://9gag.com/gag/adBbbVB)
+ - ⏩ [Uuuggghhhh](http://9gag.com/gag/aByo4ZD)
+ - 👉 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)<!-- MEMES:END -->
 
 ---
 
