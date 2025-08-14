@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for August 14 &lpar;#1517&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-14-2025/)
  - [Steam and GOG are having an isometric games sale with discounts on enough CRPGs to fill your entire inventory](https://www.pcgamer.com/games/rpg/steam-and-gog-are-having-an-isometric-games-sale-with-discounts-on-enough-crpgs-to-fill-your-entire-inventory/)
- - [This game about channel surfing surreal alien broadcasts used to be exclusive to a 1-bit console with a crank—but now it&#39;s coming to Steam](https://www.pcgamer.com/games/puzzle/this-game-about-channel-surfing-surreal-alien-broadcasts-used-to-be-exclusive-to-a-1-bit-console-with-a-crank-but-now-its-coming-to-steam/)
- - [The next Fast &amp; Furious video game might be good?](https://www.polygon.com/fast-furious-arcade-console-game/)<!-- GAME:END -->
+ - [This game about channel surfing surreal alien broadcasts used to be exclusive to a 1-bit console with a crank—but now it&#39;s coming to Steam](https://www.pcgamer.com/games/puzzle/this-game-about-channel-surfing-surreal-alien-broadcasts-used-to-be-exclusive-to-a-1-bit-console-with-a-crank-but-now-its-coming-to-steam/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
