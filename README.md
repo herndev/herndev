@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mind blown by this simple math trick](http://9gag.com/gag/a87znjZ)
- - ⏩ [Yes it is](http://9gag.com/gag/a7oAnXb)
- - 👉 [Council of men approved](http://9gag.com/gag/amondj9)<!-- MEMES:END -->
+ - 💣 [After every long hardship there will be a beautiful peace](http://9gag.com/gag/axy4A4M)
+ - ⏩ [3D printing](http://9gag.com/gag/aLnrb1W)
+ - 👉 [Old but gold](http://9gag.com/gag/a9yBBoo)<!-- MEMES:END -->
 
 ---
 
