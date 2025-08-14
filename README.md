@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian IT services company Infosys agrees to take a 75% stake in Versent Group, a cloud services provider wholly owned by Australia&#39;s Telstra Group, for ~$153M &lpar;Hritam Mukherjee/Reuters&rpar;](http://www.techmeme.com/250814/p7#a250814p7)
- - [Morgan Stanley: hyperscalers will fund about 50% of the $2.9T in future AI infrastructure through 2028, with debt, PE, VC, and other sources making up the rest &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250814/p6#a250814p6)
- - [Carlyle agrees to sell Amsterdam-based HSO, a Microsoft solutions integrator that serves 1,400 clients worldwide, to Bain Capital, sources say for $1B &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/250814/p5#a250814p5)<!-- TECH:END -->
+ - [Cowboy’s e-bikes granted a second life](https://www.theverge.com/news/758606/cowboys-e-bikes-rebirth-avoids-bankruptcy)
+ - [These displays are banned in US, and here’s how it affects Pixel 10 and iPhone 17](https://www.androidauthority.com/boe-screen-ban-smartphone-brands-3587199/)
+ - [Foxconn reports Q2 net operating profit up 27% YoY to ~$1.9B, beating estimates, on $59.73B revenue, on the strength of its growing AI server business &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250814/p8#a250814p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
