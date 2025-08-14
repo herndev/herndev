@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone at Blizzard might&#39;ve accidentally revealed Diablo 4&#39;s new class, which fans have been begging for since release](https://www.pcgamer.com/games/rpg/someone-at-blizzard-mightve-accidentally-revealed-diablo-4s-new-class-which-fans-have-been-begging-for-since-release/)
- - [Wuchang: Fallen Feathers Fans Celebrate Owning The Disc After Controversial Update Censors The Game](https://kotaku.com/wuchang-fallen-feathers-1-5-changes-censorship-game-pass-steam-2000617865)
- - [Call Of Duty: Black Ops 7‘s Final Campaign Mission Will Reportedly Be A Big Multiplayer Battle](https://kotaku.com/call-of-duty-black-ops-7s-final-campaign-mission-will-reportedly-be-a-big-multiplayer-battle-2000617873)<!-- GAME:END -->
+ - [New report suggests that there are 3 million fewer PC gamers in Japan than 10 years ago, despite the market having at least tripled in size](https://www.pcgamer.com/gaming-industry/new-report-suggests-that-there-are-3-million-fewer-pc-gamers-in-japan-than-10-years-ago-despite-the-market-having-at-least-tripled-in-size/)
+ - [Steam store pages just got thicker than Emma Frost&#39;s thighs](https://www.pcgamer.com/games/steam-store-pages-just-got-thicker-than-emma-frosts-thighs/)
+ - [Someone at Blizzard might&#39;ve accidentally revealed Diablo 4&#39;s new class, which fans have been begging for since release](https://www.pcgamer.com/games/rpg/someone-at-blizzard-mightve-accidentally-revealed-diablo-4s-new-class-which-fans-have-been-begging-for-since-release/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
