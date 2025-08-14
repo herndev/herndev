@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Just a tap water, please&#39;: Starbucks Korea asks customers to stop bringing desktop PCs, printers, and pop-up dividers into its coffee shops for a cheeky work session](https://www.pcgamer.com/hardware/gaming-pcs/just-a-tap-water-please-starbucks-korea-asks-customers-to-stop-bringing-desktop-pcs-printers-and-pop-up-dividers-into-its-coffee-shops-for-a-cheeky-work-session/)
- - [The Battlefield 6 beta probably is running worse for you this time around: &#39;We&#39;ll follow up with additional updates as soon as possible&#39;](https://www.pcgamer.com/games/fps/battlefield-6-beta-dlss-dlaa-performance-issues/)
- - [OneXPlayer is releasing an ROG Flow Z13 competitor with its own massive gaming tablet powered by an AMD Ryzen AI Max+ 395](https://www.pcgamer.com/hardware/gaming-laptops/onexplayer-is-releasing-an-rog-flow-z13-competitor-with-its-own-massive-gaming-tablet-powered-by-an-amd-ryzen-ai-max-395/)<!-- GAME:END -->
+ - [WoW&#39;s Legion Remix won&#39;t make you choose between transmogs and gear—adds harder world content, Mythic+ style dungeons, and enough cool stuff to make me almost forget about Mage Tower](https://www.pcgamer.com/games/world-of-warcraft/wows-legion-remix-wont-make-you-choose-between-transmogs-and-gear-adds-harder-world-content-mythic-style-dungeons-and-enough-cool-stuff-to-make-me-almost-forget-about-mage-tower/)
+ - [He once said playing Metal Gear Solid 5 would be &#39;60 hours of humiliation,&#39; but Snake actor David Hayter finally played the game: &#39;All is forgiven&#39;](https://www.pcgamer.com/games/action/he-once-said-playing-metal-gear-solid-5-would-be-60-hours-of-humiliation-but-snake-actor-david-hayter-finally-played-the-game-all-is-forgiven/)
+ - [Superman‘s Arrival On Streaming Is Marked With A 5-Minute Krypto Cartoon](https://kotaku.com/superman-krypto-cartoon-streaming-fandango-2000617734)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
