@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat the Libra Everdark boss fight in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-libra-everdark-how-to-beat-weaknesses-moveset-power/)
- - [Batman/Deadpool crossover release date, wild covers revealed](https://www.polygon.com/batman-deadpool-crossover-one-shot-variant-covers/)
- - [New Star Trek movies would be closely connected to the Paramount Plus shows](https://www.polygon.com/star-trek-new-movies-paramount-skydance/)<!-- GAME:END -->
+ - [Is Weapons a misogynist movie? The &quot;hagsploitation&quot; accusations, explained](https://www.polygon.com/weapons-backlash-hagsploitation-horror-trend/)
+ - [Samsung has announced the world&#39;s first 500 Hz OLED monitor, but it&#39;s the new 5K2K panel that&#39;s got my wallet twitching](https://www.pcgamer.com/hardware/gaming-monitors/samsung-has-announced-the-worlds-first-500-hz-oled-monitor-but-its-the-new-5k2k-panel-thats-got-my-wallet-twitching/)
+ - [Ex-PlayStation Boss Is Wrong To Call Game Pass Devs ‘Wage Slaves’](https://kotaku.com/playstation-game-pass-shawn-layden-wage-slaves-2000617740)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
