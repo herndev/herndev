@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with researcher Petter Törnberg on his pre-print study showing how social media&#39;s structural architecture creates problematic outcomes like echo chambers &lpar;Jennifer Ouellette/Ars Technica&rpar;](http://www.techmeme.com/250814/p12#a250814p12)
- - [Google Messages now ensures you don’t get flashed without your consent](https://www.androidauthority.com/google-messages-sensitive-nsfw-content-warning-3587234/)
- - [Adyen reports H1 2025 net revenue up 20% YoY to €1.09B, vs. €1.11B est., processed volume up 5% YoY to €649B, and EBITDA up 28% YoY to €543.7M; ADYEN falls 17%+ &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250814/p11#a250814p11)<!-- TECH:END -->
+ - [Survey reveals the worst Android phone to buy this month](https://www.androidauthority.com/worst-android-phone-to-buy-august-2025-poll-result-3586802/)
+ - [A deep dive on Big Tech&#39;s AI energy boom as Amazon, Microsoft, and Google become major players, leading to fears that individuals&#39; and SMBs&#39; rates may rise &lpar;New York Times&rpar;](http://www.techmeme.com/250814/p16#a250814p16)
+ - [Latest Google Messages bug gives you two &lpar;or three&rpar; app icons](https://www.androidauthority.com/google-messages-beta-bug-two-app-icons-3587230/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
