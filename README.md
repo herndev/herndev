@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GPT-5 review: GPT-5-Thinking is a substantial upgrade over o3, Auto is only useful for free tier users, picking the right model still matters, and more &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250813/p40#a250813p40)
  - [India-based ride-hailing app Rapido starts testing its food delivery service Ownly in Bengaluru, marking its first serious move to challenge Swiggy and Zomato &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250813/p39#a250813p39)
- - [Deal: The Jackery Explorer 300 Power Station is portable, powerful, and at an all-time low price](https://www.androidauthority.com/jackery-explorer-300-portable-power-station-deal-3587092/)
- - [Lenovo reports Q1 revenue up 22% YoY to $18.8B, vs. $17.4B est., and net profit surged 108% YoY to $505M, vs. $307.7M est., despite challenges from US tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p38#a250813p38)<!-- TECH:END -->
+ - [Deal: The Jackery Explorer 300 Power Station is portable, powerful, and at an all-time low price](https://www.androidauthority.com/jackery-explorer-300-portable-power-station-deal-3587092/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
