@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sola, which wants to use AI agents to automate businesses&#39; repetitive, manual tasks, raised $21M, including a $3.5M seed and a $17.5M Series A led by a16z &lpar;Emma Hinchliffe/Fortune&rpar;](http://www.techmeme.com/250814/p26#a250814p26)
- - [Google Home finally adds full temperature scheduling for older Nest thermostats](https://www.androidauthority.com/older-nest-thermostat-scheduling-google-home-3587493/)
- - [Verge readers can get a $25 exclusive discount on the Boox Palma 2](https://www.theverge.com/tech/759253/boox-palma-2-ebook-reader-deal-sale)<!-- TECH:END -->
+ - [Microsoft is getting ready to return to the office](https://www.theverge.com/notepad-microsoft-newsletter/759251/microsoft-return-to-office-policy-2025-notepad)
+ - [Apple Card falls to third in customer satisfaction rankings, after holding top spot for four years](https://appleinsider.com/articles/25/08/14/apple-card-falls-to-third-in-customer-satisfaction-rankings-after-holding-top-spot-for-four-years?utm_source=rss)
+ - [Google launches Flight Deals, an AI tool within Google Flights to let users find fares using natural language queries, in beta in the US, Canada, and India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250814/p28#a250814p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
