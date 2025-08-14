@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
- - ⏩ [Milk maid](http://9gag.com/gag/aAyZZg2)
- - 👉 [That horse said not today](http://9gag.com/gag/abAEmGB)<!-- MEMES:END -->
+ - 💣 [That horse said not today](http://9gag.com/gag/abAEmGB)
+ - ⏩ [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
+ - 👉 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)<!-- MEMES:END -->
 
 ---
 
