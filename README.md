@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside The Epic Project To Turn Starfield Into The Ultimate Star Wars Sim](https://kotaku.com/starfield-mods-star-wars-genesis-tattooine-mos-eisley-2000617835)
- - [Gamescom 2025 preview: The 6 games we&#39;re most excited to see](https://www.pcgamer.com/games/gamescom-2025-preview/)
- - [Rematch&#39;s latest update aims to fix &#39;major netcode releases&#39; including missed tackles and false goals, crossplay will &#39;hopefully&#39; go live by the end of August](https://www.pcgamer.com/games/sports/rematchs-latest-update-aims-to-fix-major-netcode-releases-including-missed-tackles-and-false-goals-crossplay-will-hopefully-go-live-by-the-end-of-august/)<!-- GAME:END -->
+ - [The Best Karts For Rosalina In Mario Kart World](https://kotaku.com/mario-kart-world-switch-2-rosalina-best-kart-reel-racer-2000617857)
+ - [Ice Cube Is Way Better At Being A Minecraft Insurance Agent Than Stopping An Alien Invasion](https://kotaku.com/ice-cube-is-way-better-at-being-a-minecraft-insurance-agent-than-stopping-an-alien-invasion-2000617834)
+ - [Jurassic Park: Survival lets you relive the infamous velociraptor kitchen scene](https://www.polygon.com/jurassic-park-survival-velociraptor-kitchen/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
