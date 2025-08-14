@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That horse said not today](http://9gag.com/gag/abAEmGB)
- - ⏩ [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
- - 👉 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)<!-- MEMES:END -->
+ - 💣 [If jealousy had a face](http://9gag.com/gag/aO8Gjmr)
+ - ⏩ [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)
+ - 👉 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)<!-- MEMES:END -->
 
 ---
 
