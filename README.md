@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked code suggests Apple Vision Pro to get M5 after all](https://appleinsider.com/articles/25/08/13/leaked-code-suggests-apple-vision-pro-to-get-m5-after-all?utm_source=rss)
- - [Google plans to spend $9B in Oklahoma over two years on cloud and AI infrastructure, including a new data center campus and an expansion of its Pryor facility &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250813/p36#a250813p36)
- - [Apple Watch Series 11 to feature minor upgrades in S11 chipset](https://appleinsider.com/articles/25/08/13/apple-watch-series-11-to-feature-minor-upgrades-in-s11-chipset?utm_source=rss)<!-- TECH:END -->
+ - [Lenovo reports Q1 revenue up 22% YoY to $18.8B, vs. $17.4B est., and net profit surged 108% YoY to $505M, vs. $307.7M est., despite challenges from US tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p38#a250813p38)
+ - [New Apple TV 4K &amp; HomePod mini coming soon with new chipsets](https://appleinsider.com/articles/25/08/14/apple-tv-4k-to-get-a17-pro-apple-intelligence-according-to-new-leak?utm_source=rss)
+ - [TTP analysis: Google used an internal reorganization to reduce the amount it reported on US lobbying spending, likely by millions; Google disputes the claims &lpar;Ted Mann/Bloomberg&rpar;](http://www.techmeme.com/250813/p37#a250813p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
