@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
- - ⏩ [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)
- - 👉 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/apR8dv9)
+ - ⏩ [Just got laid off recently could have done that haha can find another job no sweat](http://9gag.com/gag/a5QDyQo)
+ - 👉 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)<!-- MEMES:END -->
 
 ---
 
