@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: AI coding startup Cognition raised nearly $500M led by Founders Fund, bringing its valuation to $9.8B, more than double the level earlier this year &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p38#a250814p38)
- - [Alleged Kindle Petit Color prototype surfaces amid leaker’s claims of Amazon fallout](https://www.androidauthority.com/kindle-petit-color-leak-3587712/)
- - [Android 16 QPR1 is nearly complete as Beta 3.1 arrives for testers](https://www.androidauthority.com/android-16-qpr1-beta-3-1-3587702/)<!-- TECH:END -->
+ - [Google Pixel 9 Pro Fold drops to new record-low price!](https://www.androidauthority.com/google-pixel-9-pro-fold-deal-2-3587737/)
+ - [Google Will Now Blur Nude Photos in Your Messages. Here&#39;s How to Turn It On &lpar;or Off&rpar;](https://www.cnet.com/tech/services-and-software/google-will-now-blur-nude-photos-in-your-messages-heres-how-to-turn-it-on-or-off/#ftag=CAD590a51e)
+ - [Source: AI coding startup Cognition raised nearly $500M led by Founders Fund, bringing its valuation to $9.8B, more than double the level earlier this year &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p38#a250814p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
