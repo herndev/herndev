@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for August 14 &lpar;#1517&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-14-2025/)
- - [Steam and GOG are having an isometric games sale with discounts on enough CRPGs to fill your entire inventory](https://www.pcgamer.com/games/rpg/steam-and-gog-are-having-an-isometric-games-sale-with-discounts-on-enough-crpgs-to-fill-your-entire-inventory/)
- - [This game about channel surfing surreal alien broadcasts used to be exclusive to a 1-bit console with a crank—but now it&#39;s coming to Steam](https://www.pcgamer.com/games/puzzle/this-game-about-channel-surfing-surreal-alien-broadcasts-used-to-be-exclusive-to-a-1-bit-console-with-a-crank-but-now-its-coming-to-steam/)<!-- GAME:END -->
+ - [PC Gamer magazine&#39;s new issue is on sale now: Metal Gear Solid Delta: Snake Eater, with Top 100 mini mag + A1 poster](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-metal-gear-solid-delta-snake-eater-with-top-100-mini-mag-a1-poster/)
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for August: Mortal Kombat 1, Marvel’s Spider-Man, Sword of the Sea, Earth Defense Force 6 and more](https://blog.playstation.com/2025/08/13/20250814-psplus/)
+ - [Today&#39;s Wordle clues, hints and answer for August 14 &lpar;#1517&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-14-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
