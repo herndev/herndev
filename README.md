@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After every long hardship there will be a beautiful peace](http://9gag.com/gag/axy4A4M)
- - ⏩ [3D printing](http://9gag.com/gag/aLnrb1W)
- - 👉 [Old but gold](http://9gag.com/gag/a9yBBoo)<!-- MEMES:END -->
+ - 💣 [Sometimes comments are even better then a post](http://9gag.com/gag/aPAnn4n)
+ - ⏩ [Reuplaod cause John China keep deleting it](http://9gag.com/gag/aQzVrq2)
+ - 👉 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)<!-- MEMES:END -->
 
 ---
 
