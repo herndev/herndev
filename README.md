@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legend was born](http://9gag.com/gag/aQzVrMz)
- - ⏩ [Man tries to steal Police vehicle](http://9gag.com/gag/agmjdz1)
- - 👉 [Flying you say?](http://9gag.com/gag/aryzzEX)<!-- MEMES:END -->
+ - 💣 [Statistic joke! But if it&#39;s 13 and 50 everyone&#39;s mad!](http://9gag.com/gag/aAyZmdd)
+ - ⏩ [Massive solar flare](http://9gag.com/gag/ae9Wdem)
+ - 👉 [Please, let&#39;s make it happen. For the love of decent humanity.](http://9gag.com/gag/aXPeGwD)<!-- MEMES:END -->
 
 ---
 
