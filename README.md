@@ -34,7 +34,7 @@
 <!-- GAME:START -->
  - [PC Gamer magazine&#39;s new issue is on sale now: Metal Gear Solid Delta: Snake Eater, with Top 100 mini mag + A1 poster](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-metal-gear-solid-delta-snake-eater-with-top-100-mini-mag-a1-poster/)
  - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for August: Mortal Kombat 1, Marvel’s Spider-Man, Sword of the Sea, Earth Defense Force 6 and more](https://blog.playstation.com/2025/08/13/20250814-psplus/)
- - [Today&#39;s Wordle clues, hints and answer for August 14 &lpar;#1517&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-14-2025/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for August: Mortal Kombat 1, Marvel’s Spider-Man, Sword of the Sea, Earth Defense Force 6 and more](https://blog.playstation.com/2025/08/13/20250814-psplus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
