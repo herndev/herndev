@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW&#39;s Legion Remix won&#39;t make you choose between transmogs and gear—adds harder world content, Mythic+ style dungeons, and enough cool stuff to make me almost forget about Mage Tower](https://www.pcgamer.com/games/world-of-warcraft/wows-legion-remix-wont-make-you-choose-between-transmogs-and-gear-adds-harder-world-content-mythic-style-dungeons-and-enough-cool-stuff-to-make-me-almost-forget-about-mage-tower/)
- - [He once said playing Metal Gear Solid 5 would be &#39;60 hours of humiliation,&#39; but Snake actor David Hayter finally played the game: &#39;All is forgiven&#39;](https://www.pcgamer.com/games/action/he-once-said-playing-metal-gear-solid-5-would-be-60-hours-of-humiliation-but-snake-actor-david-hayter-finally-played-the-game-all-is-forgiven/)
- - [Superman‘s Arrival On Streaming Is Marked With A 5-Minute Krypto Cartoon](https://kotaku.com/superman-krypto-cartoon-streaming-fandango-2000617734)<!-- GAME:END -->
+ - [Pokémon Scalpers Are Already Ruining The World Championships](https://kotaku.com/pokemon-world-championship-merchandise-scalper-reseller-2000617744)
+ - [Autonomous SmartDesk 5 review](https://www.pcgamer.com/hardware/gaming-desks/autonomous-smartdesk-5-review/)
+ - [Borderlands 4 has more passive perks than &#39;all the previous Borderlands combined&#39;](https://www.polygon.com/borderlands-4-passive-perks-interview-gearbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
