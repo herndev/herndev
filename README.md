@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scalpers Are Already Ruining The World Championships](https://kotaku.com/pokemon-world-championship-merchandise-scalper-reseller-2000617744)
- - [Autonomous SmartDesk 5 review](https://www.pcgamer.com/hardware/gaming-desks/autonomous-smartdesk-5-review/)
- - [Borderlands 4 has more passive perks than &#39;all the previous Borderlands combined&#39;](https://www.polygon.com/borderlands-4-passive-perks-interview-gearbox/)<!-- GAME:END -->
+ - [Wednesday season 2&#39;s generational trauma hits harder than its teen romance](https://www.polygon.com/wednesday-netflix-generational-trauma-mothers-daughters/)
+ - [Konami fumbles the ball ahead of MGS Delta&#39;s release, says the Fox Hunt multiplayer mode won&#39;t have crossplay with zero explanation](https://www.pcgamer.com/games/action/konami-fumbles-the-ball-ahead-of-mgs-deltas-release-says-the-fox-hunt-multiplayer-mode-wont-have-crossplay-with-zero-explanation/)
+ - [Razer claims optical gaming keyboards are more precise than Hall effect ones because magnets are &#39;hard to control&#39;](https://www.pcgamer.com/hardware/gaming-keyboards/razer-claims-optical-gaming-keyboards-are-more-precise-than-hall-effect-ones-because-magnets-are-hard-to-control/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
