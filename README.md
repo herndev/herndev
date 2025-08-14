@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: Metal Gear Solid Delta: Snake Eater, with Top 100 mini mag + A1 poster](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-metal-gear-solid-delta-snake-eater-with-top-100-mini-mag-a1-poster/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for August: Mortal Kombat 1, Marvel’s Spider-Man, Sword of the Sea, Earth Defense Force 6 and more](https://blog.playstation.com/2025/08/13/20250814-psplus/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for August: Mortal Kombat 1, Marvel’s Spider-Man, Sword of the Sea, Earth Defense Force 6 and more](https://blog.playstation.com/2025/08/13/20250814-psplus/)<!-- GAME:END -->
+ - [The pro AI UK government has advised citizens to &#39;Delete old emails and pictures as data centres require vast amounts of water to cool their systems&#39; to help reduce water consumption during national drought](https://www.pcgamer.com/software/ai/the-pro-ai-uk-government-has-advised-citizens-to-delete-old-emails-and-pictures-as-data-centres-require-vast-amounts-of-water-to-cool-their-systems-to-help-reduce-water-consumption-during-national-drought/)
+ - [Superman&#39;s dog Krypto causes trouble in a series of animated shorts](https://www.polygon.com/superman-krypto-saves-the-day-animated-shorts/)
+ - [Windows on Arm gamers will be able to download Xbox app games locally but cloud gaming might still be a better option](https://www.pcgamer.com/hardware/processors/windows-on-arm-gamers-will-be-able-to-download-xbox-app-games-locally-but-cloud-gaming-might-still-be-a-better-option/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
