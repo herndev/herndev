@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [US drivin](http://9gag.com/gag/ae9WRoq)
- - ⏩ [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)
- - 👉 [Bad Monkey](http://9gag.com/gag/adBbbVB)<!-- MEMES:END -->
+ - 💣 [Instant karma, served hot and steamy](http://9gag.com/gag/aAyZN1p)
+ - ⏩ [Wild Animals always danger](http://9gag.com/gag/avym9wb)
+ - 👉 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)<!-- MEMES:END -->
 
 ---
 
