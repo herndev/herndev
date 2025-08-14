@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Fast &amp; Furious video game might be good?](https://www.polygon.com/fast-furious-arcade-console-game/)
- - [Alien: Earth is the best thing to happen to the Alien universe since Isolation](https://www.pcgamer.com/movies-tv/alien-earth-is-the-best-thing-to-happen-to-the-alien-universe-since-isolation/)
- - [Pity poor Capcom: Monster Hunter Wilds&#39; latest patch introduced a new crash bug, developers are working on it and &#39;will provide further updates when we have them&#39;](https://www.pcgamer.com/games/action/pity-poor-capcom-monster-hunter-wilds-latest-patch-introduced-a-new-crash-bug-developers-are-working-on-it-and-will-provide-further-updates-when-we-have-them/)<!-- GAME:END -->
+ - [Steam and GOG are having an isometric games sale with discounts on enough CRPGs to fill your entire inventory](https://www.pcgamer.com/games/rpg/steam-and-gog-are-having-an-isometric-games-sale-with-discounts-on-enough-crpgs-to-fill-your-entire-inventory/)
+ - [This game about channel surfing surreal alien broadcasts used to be exclusive to a 1-bit console with a crank—but now it&#39;s coming to Steam](https://www.pcgamer.com/games/puzzle/this-game-about-channel-surfing-surreal-alien-broadcasts-used-to-be-exclusive-to-a-1-bit-console-with-a-crank-but-now-its-coming-to-steam/)
+ - [The next Fast &amp; Furious video game might be good?](https://www.polygon.com/fast-furious-arcade-console-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
