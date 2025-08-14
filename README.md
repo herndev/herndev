@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes comments are even better then a post](http://9gag.com/gag/aPAnn4n)
- - ⏩ [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)
- - 👉 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)<!-- MEMES:END -->
+ - 💣 [How Anxious](http://9gag.com/gag/awyve41)
+ - ⏩ [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)
+ - 👉 [Title](http://9gag.com/gag/apR8dv9)<!-- MEMES:END -->
 
 ---
 
