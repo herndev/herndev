@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is getting ready to return to the office](https://www.theverge.com/notepad-microsoft-newsletter/759251/microsoft-return-to-office-policy-2025-notepad)
- - [Apple Card falls to third in customer satisfaction rankings, after holding top spot for four years](https://appleinsider.com/articles/25/08/14/apple-card-falls-to-third-in-customer-satisfaction-rankings-after-holding-top-spot-for-four-years?utm_source=rss)
- - [Google launches Flight Deals, an AI tool within Google Flights to let users find fares using natural language queries, in beta in the US, Canada, and India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250814/p28#a250814p28)<!-- TECH:END -->
+ - [HyperX&amp;#8217;s new gaming headset claims to last 250 hours on a single charge](https://www.theverge.com/news/759290/hyperxs-new-gaming-headset-claims-to-last-250-hours-on-a-single-charge)
+ - [Apple&amp;#8217;s AirPods Max are $70 off in every color](https://www.theverge.com/tech/759392/apple-airpods-max-pixel-9-eufy-deal-sale)
+ - [Wear OS smartwatches no longer have this leg up over the Apple Watch](https://www.androidauthority.com/apple-watch-blood-oxygen-tracking-returns-3587615/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
