@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 and Valorant&#39;s invasive anti-cheats are locked in a turf war](https://www.pcgamer.com/games/fps/battlefield-6-and-valorants-invasive-anti-cheats-are-locked-in-a-turf-war/)
- - [GTA 5 impound lot guide: How to get your impounded car back](https://www.pcgamer.com/games/grand-theft-auto/gta-online-impound-lot-location-guide/)
- - [So, Uh, Is It Worth Playing FBC: Firebreak Right Now?](https://kotaku.com/fbc-firebreak-remedy-alan-wake-control-oldest-house-2000618046)<!-- GAME:END -->
+ - [Superman, Fixed and every new movie you can watch on streaming this weekend](https://www.polygon.com/new-movies-on-streaming-watch-superman-fixed-legend-of-ochi/)
+ - [How crossplay works &lpar;or rather, doesn&#39;t&rpar; in GTA 5 Enhanced](https://www.pcgamer.com/games/grand-theft-auto/gta-online-crossplay-enhanced-pc-ps5/)
+ - [Where to find brittle quartzite for brittle whetstone in Grounded 2](https://www.polygon.com/grounded-2-brittle-quartzite-locations-leather-where-to-find-whetstone/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
