@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 Brings the Noise – Play the Open Beta for Free This Weekend](https://news.xbox.com/en-us/2025/08/15/battlefield-6-open-beta-xbox-preview/)
- - [Overwatch 2’s New Water-Bending Hero May Have One Of The Best Abilities In The Game](https://kotaku.com/overwatch-2-wuyang-abilities-ultimate-tidal-blast-guide-2000617998)
- - [All Trinacria locations in Mafia: The Old Country](https://www.polygon.com/mafia-the-old-country-all-trinacria-locations/)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A‘s Real-Time Combat Is Really Changing Things Up](https://kotaku.com/pokemon-legends-za-demo-mega-evolution-previews-2000618007)
+ - [KPop Demon Hunters 2 might not be a Netflix exclusive](https://www.polygon.com/kpop-demon-hunters-2-sony-netflix-exclusive/)
+ - [EA Knows Rush Sucks In The Battlefield 6 Beta And Is Already Fixing It](https://kotaku.com/battlefield-6-open-beta-bf6-rush-mcom-change-wnba-mafia-news-2000618000)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
