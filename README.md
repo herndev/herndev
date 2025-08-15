@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
- - ⏩ [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)
- - 👉 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)<!-- MEMES:END -->
+ - 💣 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
+ - ⏩ [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
+ - 👉 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)<!-- MEMES:END -->
 
 ---
 
