@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Pixel 10 Pro Fold specs echo a world-first for foldables](https://www.androidauthority.com/google-pixel-10-pro-fold-tech-specs-leak-3587804/)
- - [OnePlus will limit bootloader unlocking, but it’s not all bad news](https://www.androidauthority.com/oneplus-bootloader-unlocking-restriction-coloros-16-3587810/)
- - [Lelo Sona 3 Cruise Review: Stale Update](https://www.wired.com/review/lelo-sona-3-cruise/)<!-- TECH:END -->
+ - [The Galaxy S26 Pro might kill the best Samsung phone for most people](https://www.androidauthority.com/galaxy-s26-pro-might-kill-best-samsung-phone-most-people-3584120/)
+ - [Find Hub is working on a new way to quickly check your friends’ location &lpar;APK teardown&rpar;](https://www.androidauthority.com/find-hub-location-shortcut-3587670/)
+ - [Samsung is working on an all-new pair of smart glasses to take on Ray-Ban Meta](https://www.androidauthority.com/samsung-smart-glasses-ray-ban-meta-3587821/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
