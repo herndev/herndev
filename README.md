@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vibe coding through the GPT-5 mess](https://www.theverge.com/the-vergecast/759768/gpt5-backlash-vibe-coding-attempts-corporate-stunts)
- - [For Legends: Z-A’s battle system, I rewired the Pokémon part of my brain](https://www.theverge.com/games/759788/pokemon-legends-z-a-battle-real-time-preview)
- - [Lucid reveals off-road version of Gravity SUV, which it has definitely sold more than 9 of](https://www.theverge.com/electric-cars/759910/lucid-reveals-off-road-version-of-gravity-suv-which-it-has-definitely-sold-more-than-9-of)<!-- TECH:END -->
+ - [BlackBerry Classic is being revived with Android, and it can be yours for $400](https://www.androidauthority.com/blackberry-classic-revive-android-3587932/)
+ - [Sam Altman says ‘yes,’ AI is in a bubble](https://www.theverge.com/ai-artificial-intelligence/759965/sam-altman-openai-ai-bubble-interview)
+ - [Sam Altman says OpenAI &quot;totally screwed up some things&quot; on the GPT-5 rollout, confirms plans to fund a brain-computer interface startup to rival Neuralink &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250815/p9#a250815p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
