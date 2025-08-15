@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 10 Pro Fold’s full specs may have just leaked](https://www.theverge.com/news/759877/google-pixel-10-pro-fold-full-spec-leak)
- - [Surveys show Google desperately needs to do much better with Pixel battery defects](https://www.androidauthority.com/google-pixel-battery-issues-survey-results-3587835/)
- - [Toggling this one Waze setting fixes its most annoying feature](https://www.androidauthority.com/disable-waze-auto-zoom-3586175/)<!-- TECH:END -->
+ - [This big stick solved my smart garden connectivity problems](https://www.theverge.com/tech/759542/home-assistant-connect-zwa-2-z-wave-long-range-antenna)
+ - [Apple Watch, iPhone 17, and the M6 MacBook Pro on the AppleInsider Podcast](https://appleinsider.com/articles/25/08/15/apple-watch-iphone-17-and-the-m6-macbook-pro-on-the-appleinsider-podcast?utm_source=rss)
+ - [Find Hub is the next Google app to get an Expressive coat of paint &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-find-hub-expressive-apk-teardown-3587888/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
