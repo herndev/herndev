@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gag comment section sharing 1 brain cell](http://9gag.com/gag/azxQDoj)
- - ⏩ [Bird tries to build a nest for a cat friend after discovering she&#39;s pregnant](http://9gag.com/gag/a0ewzPO)
- - 👉 [Romanian firefighters rest on the road after a 48-hour battle with the fires in Greece.](http://9gag.com/gag/an7V8j0)<!-- MEMES:END -->
+ - 💣 [People are tired of ugly. &lpar;This girl is breathing \ud83d\udd25&rpar;](http://9gag.com/gag/aMVyWGA)
+ - ⏩ [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
+ - 👉 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)<!-- MEMES:END -->
 
 ---
 
