@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Superman, Fixed and every new movie you can watch on streaming this weekend](https://www.polygon.com/new-movies-on-streaming-watch-superman-fixed-legend-of-ochi/)
- - [How crossplay works &lpar;or rather, doesn&#39;t&rpar; in GTA 5 Enhanced](https://www.pcgamer.com/games/grand-theft-auto/gta-online-crossplay-enhanced-pc-ps5/)
- - [Where to find brittle quartzite for brittle whetstone in Grounded 2](https://www.polygon.com/grounded-2-brittle-quartzite-locations-leather-where-to-find-whetstone/)<!-- GAME:END -->
+ - [Roblox sued by U.S. state over child safety and abuse concerns](https://www.polygon.com/roblox-lawsuit-louisiana-child-abuse/)
+ - [Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-ovis-loop-off-silent-hill-football-26-2000618113)
+ - [&#39;It is straight up junk&#39;: Fan favorite mode Rush is going down like a lead balloon in the Battlefield 6 beta](https://www.pcgamer.com/games/fps/it-is-straight-up-junk-fan-favorite-mode-rush-is-going-down-like-a-lead-balloon-in-the-battlefield-6-beta/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
