@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox sued by U.S. state over child safety and abuse concerns](https://www.polygon.com/roblox-lawsuit-louisiana-child-abuse/)
- - [Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-ovis-loop-off-silent-hill-football-26-2000618113)
- - [&#39;It is straight up junk&#39;: Fan favorite mode Rush is going down like a lead balloon in the Battlefield 6 beta](https://www.pcgamer.com/games/fps/it-is-straight-up-junk-fan-favorite-mode-rush-is-going-down-like-a-lead-balloon-in-the-battlefield-6-beta/)<!-- GAME:END -->
+ - [Partying with Hololive vtubers is finally possible with an app that is basically VRChat for fans of anime girl streamers](https://www.pcgamer.com/gaming-industry/partying-with-hololive-vtubers-is-finally-possible-with-an-app-that-is-basically-vrchat-for-fans-of-anime-girl-streamers/)
+ - [&#39;The Day Before 2?&#39;: Everyone is skeptical about this survival game promising a map five times the size of DayZ and 5,000 players per server](https://www.pcgamer.com/games/survival-crafting/the-day-before-2-everyone-is-skeptical-about-this-survival-game-promising-a-map-five-times-the-size-of-dayz-and-5-000-players-per-server/)
+ - [Robocop: Rogue City, which I admit I was completely wrong about, is just $5 in the Humble Store Summer Sale](https://www.pcgamer.com/games/robocop-rogue-city-which-i-admit-i-was-completely-wrong-about-is-just-usd5-in-the-humble-store-summer-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
