@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD made major gains on Intel in the desktop CPU market over the last year, but still lags significantly behind in mobile, according to a Mercury Research report](https://www.pcgamer.com/hardware/processors/amd-made-major-gains-on-intel-in-the-desktop-cpu-market-over-the-last-year-but-still-lags-significantly-behind-in-mobile-according-to-a-mercury-research-report/)
- - [Medion Erazer Deputy 15 P1 review](https://www.pcgamer.com/hardware/gaming-laptops/medion-erazer-deputy-15-p1-review/)
- - [Avatar: The Last Airbender fans are going to have a huge 2026](https://www.polygon.com/avatar-the-last-airbender-new-movies-shows-magic-cards/)<!-- GAME:END -->
+ - [Samsung cuts back on traditional foundry costs as it leans into HBM for AI computing](https://www.pcgamer.com/software/ai/samsung-cuts-back-on-traditional-foundry-costs-as-it-leans-into-hbm-for-ai-computing/)
+ - [Intel engineer reassures gamers the company is &#39;still 100% vested in APO and in growing the capabilities of the technology&#39; though not on older chips](https://www.pcgamer.com/hardware/processors/intel-engineer-reassures-gamers-the-company-is-still-100-percent-vested-in-apo-and-in-growing-the-capabilities-of-the-technology-though-not-on-older-chips/)
+ - [Emeet Pixy review](https://www.pcgamer.com/hardware/webcams/emeet-pixy-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
