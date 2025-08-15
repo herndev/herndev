@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This big stick solved my smart garden connectivity problems](https://www.theverge.com/tech/759542/home-assistant-connect-zwa-2-z-wave-long-range-antenna)
- - [Apple Watch, iPhone 17, and the M6 MacBook Pro on the AppleInsider Podcast](https://appleinsider.com/articles/25/08/15/apple-watch-iphone-17-and-the-m6-macbook-pro-on-the-appleinsider-podcast?utm_source=rss)
- - [Find Hub is the next Google app to get an Expressive coat of paint &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-find-hub-expressive-apk-teardown-3587888/)<!-- TECH:END -->
+ - [Vibe coding through the GPT-5 mess](https://www.theverge.com/the-vergecast/759768/gpt5-backlash-vibe-coding-attempts-corporate-stunts)
+ - [For Legends: Z-A’s battle system, I rewired the Pokémon part of my brain](https://www.theverge.com/games/759788/pokemon-legends-z-a-battle-real-time-preview)
+ - [Lucid reveals off-road version of Gravity SUV, which it has definitely sold more than 9 of](https://www.theverge.com/electric-cars/759910/lucid-reveals-off-road-version-of-gravity-suv-which-it-has-definitely-sold-more-than-9-of)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
