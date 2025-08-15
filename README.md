@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Calling Cards are rolling out now, and this is our first proper look!](https://www.androidauthority.com/google-calling-cards-out-now-first-look-3587777/)
- - [Meta&#39;s strong Q2 shows it has learned a company must give investors short-term results to get permission for long-term investments, such as its AI ambitions &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250815/p1#a250815p1)
- - [Sealy Promo Code: Save $300 on Mattresses in August 2025](https://www.wired.com/story/sealy-promo-code/)<!-- TECH:END -->
+ - [OnePlus will limit bootloader unlocking, but it’s not all bad news](https://www.androidauthority.com/oneplus-bootloader-unlocking-restriction-coloros-16-3587810/)
+ - [Blood pressures rise as the FDA cracks down on this wearable’s flagship feature](https://www.androidauthority.com/whoop-mg-fda-blood-pressure-insights-3587799/)
+ - [Google’s Calling Cards are rolling out now, and this is our first proper look!](https://www.androidauthority.com/google-calling-cards-out-now-first-look-3587777/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
