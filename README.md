@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
- - ⏩ [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
- - 👉 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)<!-- MEMES:END -->
+ - 💣 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
+ - ⏩ [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
+ - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
 
 ---
 
