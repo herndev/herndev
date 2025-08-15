@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some developers say GPT-5 excels at technical reasoning and planning coding tasks and is cost-effective, but Claude Opus and Sonnet still produce better code &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250815/p18#a250815p18)
- - [Next week’s Google event is sounding more like a late-night talk show lineup](https://www.androidauthority.com/made-by-google-celebrities-3588086/)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
+ - [Sources: Meta plans its fourth AI restructuring in six months, dividing its superintelligence lab into TBD Lab, a product team, an infrastructure team, and FAIR &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250815/p19#a250815p19)
+ - [Call of Duty: Black Ops 7 Leak Claims Nov. 14 Release Date, No Switch 2 Version Yet](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-7-leak-claims-nov-14-release-date-no-switch-2-version-yet/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 16, #797](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-16-797/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
