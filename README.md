@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Massive deal: The Edifier W820NB Plus headphones are too good for a mere $36.88](https://www.androidauthority.com/edifier-w820nb-plus-headphones-deal-3587735/)
  - [Sen. Josh Hawley calls for a congressional probe into Meta after a report on its AI policy allowing sensual chats with kids; Sen. Marsha Blackburn backs a probe &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250814/p41#a250814p41)
- - [Louisiana AG Liz Murrill sues Roblox, alleging among other things that it continues to facilitate CSAM distribution and the sexual exploitation of children &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250814/p40#a250814p40)
- - [Fortnite login is mostly back after an outage](https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys)<!-- TECH:END -->
+ - [Louisiana AG Liz Murrill sues Roblox, alleging among other things that it continues to facilitate CSAM distribution and the sexual exploitation of children &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250814/p40#a250814p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
