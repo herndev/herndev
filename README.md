@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Success is a part of me.](http://9gag.com/gag/aByobrz)
- - ⏩ [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
- - 👉 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)<!-- MEMES:END -->
+ - 💣 [75 years and still functional](http://9gag.com/gag/apR8zp5)
+ - ⏩ [Come on Disney](http://9gag.com/gag/aXPeQX6)
+ - 👉 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)<!-- MEMES:END -->
 
 ---
 
