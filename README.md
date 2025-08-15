@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Avatar: The Last Airbender fans are going to have a huge 2026](https://www.polygon.com/avatar-the-last-airbender-new-movies-shows-magic-cards/)
  - [Today&#39;s Wordle clues, hints and answer for August 15 &lpar;#1518&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-15-2025/)
- - [Subscription services like Xbox Game Pass turn developers into &#39;wage slaves&#39;, says former PlayStation boss](https://www.pcgamer.com/gaming-industry/subscription-services-like-xbox-game-pass-turn-developers-into-wage-slaves-says-former-playstation-boss/)
- - [My new bedtime Steam Deck go-to is a cozy bookshop sim where everyone loves hearing my opinion](https://www.pcgamer.com/games/sim/my-new-bedtime-steam-deck-go-to-is-a-cozy-bookshop-sim-where-everyone-loves-hearing-my-opinion/)<!-- GAME:END -->
+ - [Subscription services like Xbox Game Pass turn developers into &#39;wage slaves&#39;, says former PlayStation boss](https://www.pcgamer.com/gaming-industry/subscription-services-like-xbox-game-pass-turn-developers-into-wage-slaves-says-former-playstation-boss/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
