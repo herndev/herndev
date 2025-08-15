@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: The Last Airbender fans are going to have a huge 2026](https://www.polygon.com/avatar-the-last-airbender-new-movies-shows-magic-cards/)
- - [Today&#39;s Wordle clues, hints and answer for August 15 &lpar;#1518&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-15-2025/)
- - [Subscription services like Xbox Game Pass turn developers into &#39;wage slaves&#39;, says former PlayStation boss](https://www.pcgamer.com/gaming-industry/subscription-services-like-xbox-game-pass-turn-developers-into-wage-slaves-says-former-playstation-boss/)<!-- GAME:END -->
+ - [AMD made major gains on Intel in the desktop CPU market over the last year, but still lags significantly behind in mobile, according to a Mercury Research report](https://www.pcgamer.com/hardware/processors/amd-made-major-gains-on-intel-in-the-desktop-cpu-market-over-the-last-year-but-still-lags-significantly-behind-in-mobile-according-to-a-mercury-research-report/)
+ - [Medion Erazer Deputy 15 P1 review](https://www.pcgamer.com/hardware/gaming-laptops/medion-erazer-deputy-15-p1-review/)
+ - [Avatar: The Last Airbender fans are going to have a huge 2026](https://www.polygon.com/avatar-the-last-airbender-new-movies-shows-magic-cards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
