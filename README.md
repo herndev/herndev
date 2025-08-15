@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [75 years and still functional](http://9gag.com/gag/apR8zp5)
- - ⏩ [Come on Disney](http://9gag.com/gag/aXPeQX6)
- - 👉 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)<!-- MEMES:END -->
+ - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
+ - ⏩ [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
+ - 👉 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)<!-- MEMES:END -->
 
 ---
 
