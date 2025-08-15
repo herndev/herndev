@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung cuts back on traditional foundry costs as it leans into HBM for AI computing](https://www.pcgamer.com/software/ai/samsung-cuts-back-on-traditional-foundry-costs-as-it-leans-into-hbm-for-ai-computing/)
- - [Intel engineer reassures gamers the company is &#39;still 100% vested in APO and in growing the capabilities of the technology&#39; though not on older chips](https://www.pcgamer.com/hardware/processors/intel-engineer-reassures-gamers-the-company-is-still-100-percent-vested-in-apo-and-in-growing-the-capabilities-of-the-technology-though-not-on-older-chips/)
- - [Emeet Pixy review](https://www.pcgamer.com/hardware/webcams/emeet-pixy-review/)<!-- GAME:END -->
+ - [Pokémon Legends Z-A battles are thrilling in new preview on Switch 2](https://www.polygon.com/pokemon-legends-z-a-preview-active-battle-mechanics/)
+ - [Valve says Steam&#39;s performance monitor should now report GPU utilisation more accurately than Task Manager in the latest beta, and as a nerd, this pleases me in ways I can&#39;t describe](https://www.pcgamer.com/hardware/graphics-cards/valve-says-steams-performance-monitor-should-now-report-gpu-utilisation-more-accurately-than-task-manager-in-the-latest-beta-and-as-a-nerd-this-pleases-me-in-ways-i-cant-describe/)
+ - [Synth YouTuber releases twin-stick shooter with interactive soundtrack using moddable synthesizer weapon based on real kit](https://www.pcgamer.com/hardware/synth-youtuber-releases-twin-stick-shooter-with-interactive-soundtrack-using-moddable-synthesizer-weapon-based-on-real-kit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
