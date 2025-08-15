@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)
- - ⏩ [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
- - 👉 [Picnic](http://9gag.com/gag/an7VW2L)<!-- MEMES:END -->
+ - 💣 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
+ - ⏩ [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)
+ - 👉 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)<!-- MEMES:END -->
 
 ---
 
