@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta plans its fourth AI restructuring in six months, dividing its superintelligence lab into TBD Lab, a product team, an infrastructure team, and FAIR &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250815/p19#a250815p19)
- - [Call of Duty: Black Ops 7 Leak Claims Nov. 14 Release Date, No Switch 2 Version Yet](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-7-leak-claims-nov-14-release-date-no-switch-2-version-yet/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 16, #797](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-16-797/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 Best Pillows &lpar;2025&rpar; Tested For Side, Back, and Stomach Sleepers](https://www.wired.com/gallery/best-pillows/)
+ - [A US district court judge temporarily blocks an FTC probe into Media Matters, part of an antitrust investigation into ad boycotts, calling the probe retaliatory &lpar;Bloomberg&rpar;](http://www.techmeme.com/250815/p22#a250815p22)
+ - [Roblox shares closed down 6.34% on Friday after the company was accused in two lawsuits of failing to sufficiently protect youngsters on its platform &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250815/p21#a250815p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
