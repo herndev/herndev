@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)
- - ⏩ [Last photo together](http://9gag.com/gag/adBb4KQ)
- - 👉 [Smooth seller](http://9gag.com/gag/avymDgq)<!-- MEMES:END -->
+ - 💣 [Legend was born](http://9gag.com/gag/aQzVrMz)
+ - ⏩ [People are tired of ugly. &lpar;This girl is breathing \ud83d\udd25&rpar;](http://9gag.com/gag/aMVyWGA)
+ - 👉 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)<!-- MEMES:END -->
 
 ---
 
