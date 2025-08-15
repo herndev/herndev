@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Federal Reserve continues its relaxation of crypto oversight by ending a program created in 2023 to scrutinize fintech and crypto activities by banks &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250815/p16#a250815p16)
- - [Sen. Josh Hawley launches a probe of Meta following a report on its AI policy allowing sensual chats with kids, tells Zuckerberg to produce docs by September 19 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250815/p15#a250815p15)
- - [These 12 Foods Turned Out to Be Way Healthier Than I Thought](https://www.cnet.com/health/nutrition/these-12-foods-turned-out-to-be-way-healthier-than-i-thought/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some developers say GPT-5 excels at technical reasoning and planning coding tasks and is cost-effective, but Claude Opus and Sonnet still produce better code &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250815/p18#a250815p18)
+ - [Next week’s Google event is sounding more like a late-night talk show lineup](https://www.androidauthority.com/made-by-google-celebrities-3588086/)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
