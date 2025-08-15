@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 Pro Fold drops to new record-low price!](https://www.androidauthority.com/google-pixel-9-pro-fold-deal-2-3587737/)
- - [Google Will Now Blur Nude Photos in Your Messages. Here&#39;s How to Turn It On &lpar;or Off&rpar;](https://www.cnet.com/tech/services-and-software/google-will-now-blur-nude-photos-in-your-messages-heres-how-to-turn-it-on-or-off/#ftag=CAD590a51e)
- - [Source: AI coding startup Cognition raised nearly $500M led by Founders Fund, bringing its valuation to $9.8B, more than double the level earlier this year &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p38#a250814p38)<!-- TECH:END -->
+ - [Fortnite login is down](https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 15, #326](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-15-326/#ftag=CAD590a51e)
+ - [Google Pixel 9 Pro Fold drops to new record-low price!](https://www.androidauthority.com/google-pixel-9-pro-fold-deal-2-3587737/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
