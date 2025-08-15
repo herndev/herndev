@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)
- - ⏩ [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)
- - 👉 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)<!-- MEMES:END -->
+ - 💣 [Charging rhino is a good reason to stand still](http://9gag.com/gag/avymXWM)
+ - ⏩ [Cool.](http://9gag.com/gag/agmj641)
+ - 👉 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)<!-- MEMES:END -->
 
 ---
 
