@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mike Novogratz&#39;s Galaxy says it has secured $1.4B in debt financing to expand its Helios data center in West Texas, aiming to boost AI and HPC capabilities &lpar;CoinDesk&rpar;](http://www.techmeme.com/250815/p11#a250815p11)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Bose QuietComfort Ultra Earbuds &lpar;2nd gen&rpar; review: The best, made better](https://appleinsider.com/articles/25/08/15/bose-quietcomfort-ultra-earbuds-2nd-gen-review-the-best-made-better?utm_source=rss)<!-- TECH:END -->
+ - [Galaxy Watch Classic fan discovers bezel trick that looks like magic](https://www.androidauthority.com/galaxy-watch-6-classic-bezel-rotation-magnets-3587981/)
+ - [Want Google to build the features you need? Just start a tech company](https://www.androidauthority.com/google-calendar-duplicate-feature-3587954/)
+ - [iPhone 17 Pro Max rumored to get big telephoto lens upgrade](https://appleinsider.com/articles/25/08/15/iphone-17-pro-max-rumored-to-get-big-telephoto-lens-upgrade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
