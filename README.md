@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends Z-A battles are thrilling in new preview on Switch 2](https://www.polygon.com/pokemon-legends-z-a-preview-active-battle-mechanics/)
- - [Valve says Steam&#39;s performance monitor should now report GPU utilisation more accurately than Task Manager in the latest beta, and as a nerd, this pleases me in ways I can&#39;t describe](https://www.pcgamer.com/hardware/graphics-cards/valve-says-steams-performance-monitor-should-now-report-gpu-utilisation-more-accurately-than-task-manager-in-the-latest-beta-and-as-a-nerd-this-pleases-me-in-ways-i-cant-describe/)
- - [Synth YouTuber releases twin-stick shooter with interactive soundtrack using moddable synthesizer weapon based on real kit](https://www.pcgamer.com/hardware/synth-youtuber-releases-twin-stick-shooter-with-interactive-soundtrack-using-moddable-synthesizer-weapon-based-on-real-kit/)<!-- GAME:END -->
+ - [Battlefield 6 fans hate new Rush mode, think maps are way too small](https://www.polygon.com/battlefield-6-beta-maps-rush-mode-size-complaints/)
+ - [Next Week on Xbox: New Games for August 18 to 22](https://news.xbox.com/en-us/2025/08/15/next-week-on-xbox-new-games-for-august-18-to-22/)
+ - [Call Of Duty: Black Ops 7 Price And Date Info Reportedly Leak With No Switch 2 In Sight](https://kotaku.com/black-ops-7-price-release-date-switch-2-dev-kits-call-duty-2000617983)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
