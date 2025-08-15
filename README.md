@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What your favorite UFO 50 game says about you](https://www.polygon.com/what-your-favorite-ufo-50-game-says-about-you/)
- - [Where to find all Amphoreus nymphs in Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/507070/nymph-locations-butterfly-beetles-map/)
- - [Pokémon Go &#39;2025 World Championships Celebration&#39; event guide](https://www.polygon.com/pokemon-go-2025-world-championships-event-varsity-jacket-pikachu/)<!-- GAME:END -->
+ - [So, Uh, Is It Worth Playing FBC: Firebreak Right Now?](https://kotaku.com/fbc-firebreak-remedy-alan-wake-control-oldest-house-2000618046)
+ - [I had low expectations for this upcoming FMV &#39;interactive horror&#39; game, but its hour-long demo turned out to be one of the most entertaining things I&#39;ve played all year](https://www.pcgamer.com/games/adventure/dead-reset-preview/)
+ - [Mafia: The Old Country Is Getting A Real Open-World Mode](https://kotaku.com/mafia-the-old-country-is-getting-a-real-open-world-mode-2000618051)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
