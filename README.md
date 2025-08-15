@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked Pixel 10 Pro Fold specs echo a world-first for foldables](https://www.androidauthority.com/google-pixel-10-pro-fold-tech-specs-leak-3587804/)
  - [OnePlus will limit bootloader unlocking, but it’s not all bad news](https://www.androidauthority.com/oneplus-bootloader-unlocking-restriction-coloros-16-3587810/)
- - [Blood pressures rise as the FDA cracks down on this wearable’s flagship feature](https://www.androidauthority.com/whoop-mg-fda-blood-pressure-insights-3587799/)
- - [Google’s Calling Cards are rolling out now, and this is our first proper look!](https://www.androidauthority.com/google-calling-cards-out-now-first-look-3587777/)<!-- TECH:END -->
+ - [Lelo Sona 3 Cruise Review: Stale Update](https://www.wired.com/review/lelo-sona-3-cruise/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
