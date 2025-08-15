@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gag comment section sharing 1 brain cell](http://9gag.com/gag/azxQDoj)
- - ⏩ [A dog and his human, true love](http://9gag.com/gag/a5QDyjE)
- - 👉 [Romanian firefighters rest on the road after a 48-hour battle with the fires in Greece.](http://9gag.com/gag/an7V8j0)<!-- MEMES:END -->
+ - 💣 [Smooth seller](http://9gag.com/gag/avymDgq)
+ - ⏩ [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
+ - 👉 [You want sum?](http://9gag.com/gag/avymDPZ)<!-- MEMES:END -->
 
 ---
 
