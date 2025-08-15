@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sealy Promo Code: Save $300 on Mattresses in August 2025](https://www.wired.com/story/sealy-promo-code/)
- - [Battlefield 6 Beta Double XP Exclusive to PS Plus and Other Changes For Weekend Two](https://www.cnet.com/tech/gaming/battlefield-6-beta-double-xp-exclusive-to-ps-plus-and-other-changes-for-weekend-two/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Aug. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-aug-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s Calling Cards are rolling out now, and this is our first proper look!](https://www.androidauthority.com/google-calling-cards-out-now-first-look-3587777/)
+ - [Meta&#39;s strong Q2 shows it has learned a company must give investors short-term results to get permission for long-term investments, such as its AI ambitions &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250815/p1#a250815p1)
+ - [Sealy Promo Code: Save $300 on Mattresses in August 2025](https://www.wired.com/story/sealy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
