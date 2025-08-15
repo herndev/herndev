@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
- - ⏩ [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
- - 👉 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)<!-- MEMES:END -->
+ - 💣 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
+ - ⏩ [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)
+ - 👉 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)<!-- MEMES:END -->
 
 ---
 
