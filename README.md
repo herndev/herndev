@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legend was born](http://9gag.com/gag/aQzVrMz)
- - ⏩ [People are tired of ugly. &lpar;This girl is breathing \ud83d\udd25&rpar;](http://9gag.com/gag/aMVyWGA)
- - 👉 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)<!-- MEMES:END -->
+ - 💣 [Picnic](http://9gag.com/gag/an7VW2L)
+ - ⏩ [A dog and his human, true love](http://9gag.com/gag/a5QDyjE)
+ - 👉 [Bird tries to build a nest for a cat friend after discovering she&#39;s pregnant](http://9gag.com/gag/a0ewzPO)<!-- MEMES:END -->
 
 ---
 
