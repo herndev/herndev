@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lamborghini’s new plug-in hybrid is the fastest car its ever built](https://www.theverge.com/news/759581/lamborghini-fenomeno-phew-few-off-specs)
- - [Sam Altman Says ChatGPT Is on Track to Out-Talk Humanity](https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/)
- - [Appfigures: ChatGPT&#39;s app for iOS and Android hit $2B in global consumer spending, including $1.35B so far in 2025, up 673% YoY; Grok made ~$25.6M this year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250815/p12#a250815p12)<!-- TECH:END -->
+ - [Developers Say GPT-5 Is a Mixed Bag](https://www.wired.com/story/gpt-5-coding-review-software-engineering/)
+ - [Brands might be cooling on satellite features, and that’s bad news for cheaper Androids](https://www.androidauthority.com/satellite-communication-not-taking-off-android-3588036/)
+ - [Anthropic updates Claude usage policy, adding stricter cybersecurity rules and explicitly banning the development of WMDs, and loosens political content rules &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250815/p13#a250815p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
