@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BlackBerry Classic is being revived with Android, and it can be yours for $400](https://www.androidauthority.com/blackberry-classic-revive-android-3587932/)
- - [Sam Altman says ‘yes,’ AI is in a bubble](https://www.theverge.com/ai-artificial-intelligence/759965/sam-altman-openai-ai-bubble-interview)
- - [Sam Altman says OpenAI &quot;totally screwed up some things&quot; on the GPT-5 rollout, confirms plans to fund a brain-computer interface startup to rival Neuralink &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250815/p9#a250815p9)<!-- TECH:END -->
+ - [Mike Novogratz&#39;s Galaxy says it has secured $1.4B in debt financing to expand its Helios data center in West Texas, aiming to boost AI and HPC capabilities &lpar;CoinDesk&rpar;](http://www.techmeme.com/250815/p11#a250815p11)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [Bose QuietComfort Ultra Earbuds &lpar;2nd gen&rpar; review: The best, made better](https://appleinsider.com/articles/25/08/15/bose-quietcomfort-ultra-earbuds-2nd-gen-review-the-best-made-better?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
