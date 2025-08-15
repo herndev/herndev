@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
- - ⏩ [Last photo together](http://9gag.com/gag/adBb4KQ)
- - 👉 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)<!-- MEMES:END -->
+ - 💣 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
+ - ⏩ [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)
+ - 👉 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)<!-- MEMES:END -->
 
 ---
 
