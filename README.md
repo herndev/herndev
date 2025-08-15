@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
- - ⏩ [Man tries to steal Police vehicle](http://9gag.com/gag/agmjdz1)
- - 👉 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)<!-- MEMES:END -->
+ - 💣 [9gag comment section sharing 1 brain cell](http://9gag.com/gag/azxQDoj)
+ - ⏩ [Bird tries to build a nest for a cat friend after discovering she&#39;s pregnant](http://9gag.com/gag/a0ewzPO)
+ - 👉 [Romanian firefighters rest on the road after a 48-hour battle with the fires in Greece.](http://9gag.com/gag/an7V8j0)<!-- MEMES:END -->
 
 ---
 
