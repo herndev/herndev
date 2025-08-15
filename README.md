@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite login is down](https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 15, #326](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-15-326/#ftag=CAD590a51e)
- - [Google Pixel 9 Pro Fold drops to new record-low price!](https://www.androidauthority.com/google-pixel-9-pro-fold-deal-2-3587737/)<!-- TECH:END -->
+ - [Sen. Josh Hawley calls for a congressional probe into Meta after a report on its AI policy allowing sensual chats with kids; Sen. Marsha Blackburn backs a probe &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250814/p41#a250814p41)
+ - [Louisiana AG Liz Murrill sues Roblox, alleging among other things that it continues to facilitate CSAM distribution and the sexual exploitation of children &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250814/p40#a250814p40)
+ - [Fortnite login is mostly back after an outage](https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
