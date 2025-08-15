@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [So, Uh, Is It Worth Playing FBC: Firebreak Right Now?](https://kotaku.com/fbc-firebreak-remedy-alan-wake-control-oldest-house-2000618046)
- - [I had low expectations for this upcoming FMV &#39;interactive horror&#39; game, but its hour-long demo turned out to be one of the most entertaining things I&#39;ve played all year](https://www.pcgamer.com/games/adventure/dead-reset-preview/)
- - [Mafia: The Old Country Is Getting A Real Open-World Mode](https://kotaku.com/mafia-the-old-country-is-getting-a-real-open-world-mode-2000618051)<!-- GAME:END -->
+ - [Battlefield 6 and Valorant&#39;s invasive anti-cheats are locked in a turf war](https://www.pcgamer.com/games/fps/battlefield-6-and-valorants-invasive-anti-cheats-are-locked-in-a-turf-war/)
+ - [GTA 5 impound lot guide: How to get your impounded car back](https://www.pcgamer.com/games/grand-theft-auto/gta-online-impound-lot-location-guide/)
+ - [So, Uh, Is It Worth Playing FBC: Firebreak Right Now?](https://kotaku.com/fbc-firebreak-remedy-alan-wake-control-oldest-house-2000618046)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
