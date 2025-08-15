@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch Classic fan discovers bezel trick that looks like magic](https://www.androidauthority.com/galaxy-watch-6-classic-bezel-rotation-magnets-3587981/)
- - [Want Google to build the features you need? Just start a tech company](https://www.androidauthority.com/google-calendar-duplicate-feature-3587954/)
- - [iPhone 17 Pro Max rumored to get big telephoto lens upgrade](https://appleinsider.com/articles/25/08/15/iphone-17-pro-max-rumored-to-get-big-telephoto-lens-upgrade?utm_source=rss)<!-- TECH:END -->
+ - [Lamborghini’s new plug-in hybrid is the fastest car its ever built](https://www.theverge.com/news/759581/lamborghini-fenomeno-phew-few-off-specs)
+ - [Sam Altman Says ChatGPT Is on Track to Out-Talk Humanity](https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/)
+ - [Appfigures: ChatGPT&#39;s app for iOS and Android hit $2B in global consumer spending, including $1.35B so far in 2025, up 673% YoY; Grok made ~$25.6M this year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250815/p12#a250815p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
