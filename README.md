@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Charging rhino is a good reason to stand still](http://9gag.com/gag/avymXWM)
- - ⏩ [Cool.](http://9gag.com/gag/agmj641)
- - 👉 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)<!-- MEMES:END -->
+ - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - ⏩ [Im OP of course](http://9gag.com/gag/a5QDyMy)
+ - 👉 [Cool.](http://9gag.com/gag/agmj641)<!-- MEMES:END -->
 
 ---
 
