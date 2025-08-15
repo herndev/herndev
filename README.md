@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 fans hate new Rush mode, think maps are way too small](https://www.polygon.com/battlefield-6-beta-maps-rush-mode-size-complaints/)
- - [Next Week on Xbox: New Games for August 18 to 22](https://news.xbox.com/en-us/2025/08/15/next-week-on-xbox-new-games-for-august-18-to-22/)
- - [Call Of Duty: Black Ops 7 Price And Date Info Reportedly Leak With No Switch 2 In Sight](https://kotaku.com/black-ops-7-price-release-date-switch-2-dev-kits-call-duty-2000617983)<!-- GAME:END -->
+ - [Battlefield 6 Brings the Noise – Play the Open Beta for Free This Weekend](https://news.xbox.com/en-us/2025/08/15/battlefield-6-open-beta-xbox-preview/)
+ - [Overwatch 2’s New Water-Bending Hero May Have One Of The Best Abilities In The Game](https://kotaku.com/overwatch-2-wuyang-abilities-ultimate-tidal-blast-guide-2000617998)
+ - [All Trinacria locations in Mafia: The Old Country](https://www.polygon.com/mafia-the-old-country-all-trinacria-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
