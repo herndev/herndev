@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Z-A‘s Real-Time Combat Is Really Changing Things Up](https://kotaku.com/pokemon-legends-za-demo-mega-evolution-previews-2000618007)
- - [KPop Demon Hunters 2 might not be a Netflix exclusive](https://www.polygon.com/kpop-demon-hunters-2-sony-netflix-exclusive/)
- - [EA Knows Rush Sucks In The Battlefield 6 Beta And Is Already Fixing It](https://kotaku.com/battlefield-6-open-beta-bf6-rush-mcom-change-wnba-mafia-news-2000618000)<!-- GAME:END -->
+ - [Battlefield 6&#39;s &#39;Netflix UI&#39; has already been rejected and redesigned by players, and I&#39;m on board](https://www.pcgamer.com/games/fps/battlefield-6s-netflix-ui-has-already-been-rejected-and-redesigned-by-players-and-im-on-board/)
+ - [Everything You’d Want To Know About Switch 2 Racer Fast Fusion](https://kotaku.com/switch-2-eshop-games-fast-fusion-how-long-tracks-machines-2000618031)
+ - [&#39;Veilguard is 4 games stitched together&#39;, says ex-BioWare lead Mark Darrah, and it might&#39;ve been better to &#39;shut the project down completely&#39; around 2017](https://www.pcgamer.com/games/dragon-age/veilguard-is-4-games-stitched-together-says-ex-bioware-lead-mark-darrah-and-it-mightve-been-better-to-shut-the-project-down-completely-around-2017/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
