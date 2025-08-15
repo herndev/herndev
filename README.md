@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
- - ⏩ [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
- - 👉 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)<!-- MEMES:END -->
+ - 💣 [Last photo together](http://9gag.com/gag/adBb4KQ)
+ - ⏩ [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
+ - 👉 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)<!-- MEMES:END -->
 
 ---
 
