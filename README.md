@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Massive deal: The Edifier W820NB Plus headphones are too good for a mere $36.88](https://www.androidauthority.com/edifier-w820nb-plus-headphones-deal-3587735/)
- - [Sen. Josh Hawley calls for a congressional probe into Meta after a report on its AI policy allowing sensual chats with kids; Sen. Marsha Blackburn backs a probe &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250814/p41#a250814p41)
- - [Louisiana AG Liz Murrill sues Roblox, alleging among other things that it continues to facilitate CSAM distribution and the sexual exploitation of children &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250814/p40#a250814p40)<!-- TECH:END -->
+ - [Accenture plans to acquire Australian cybersecurity company CyberCX from private equity firm BGH Capital; the deal reportedly values CyberCX at more than AU$1B &lpar;Mark Anderson/Bloomberg Law&rpar;](http://www.techmeme.com/250814/p43#a250814p43)
+ - [Foxconn&#39;s AI server business surged 60%+ YoY in Q2, surpassing revenue from Apple-related products for the first time, and is projected to grow 170% YoY in Q3 &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/250814/p42#a250814p42)
+ - [Massive deal: The Edifier W820NB Plus headphones are too good for a mere $36.88](https://www.androidauthority.com/edifier-w820nb-plus-headphones-deal-3587735/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
