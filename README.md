@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for August 15 &lpar;#1518&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-15-2025/)
  - [Subscription services like Xbox Game Pass turn developers into &#39;wage slaves&#39;, says former PlayStation boss](https://www.pcgamer.com/gaming-industry/subscription-services-like-xbox-game-pass-turn-developers-into-wage-slaves-says-former-playstation-boss/)
- - [My new bedtime Steam Deck go-to is a cozy bookshop sim where everyone loves hearing my opinion](https://www.pcgamer.com/games/sim/my-new-bedtime-steam-deck-go-to-is-a-cozy-bookshop-sim-where-everyone-loves-hearing-my-opinion/)
- - [New report suggests that there are 3 million fewer PC gamers in Japan than 10 years ago, despite the market having at least tripled in size](https://www.pcgamer.com/gaming-industry/new-report-suggests-that-there-are-3-million-fewer-pc-gamers-in-japan-than-10-years-ago-despite-the-market-having-at-least-tripled-in-size/)<!-- GAME:END -->
+ - [My new bedtime Steam Deck go-to is a cozy bookshop sim where everyone loves hearing my opinion](https://www.pcgamer.com/games/sim/my-new-bedtime-steam-deck-go-to-is-a-cozy-bookshop-sim-where-everyone-loves-hearing-my-opinion/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
