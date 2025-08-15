@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6&#39;s &#39;Netflix UI&#39; has already been rejected and redesigned by players, and I&#39;m on board](https://www.pcgamer.com/games/fps/battlefield-6s-netflix-ui-has-already-been-rejected-and-redesigned-by-players-and-im-on-board/)
- - [Everything You’d Want To Know About Switch 2 Racer Fast Fusion](https://kotaku.com/switch-2-eshop-games-fast-fusion-how-long-tracks-machines-2000618031)
- - [&#39;Veilguard is 4 games stitched together&#39;, says ex-BioWare lead Mark Darrah, and it might&#39;ve been better to &#39;shut the project down completely&#39; around 2017](https://www.pcgamer.com/games/dragon-age/veilguard-is-4-games-stitched-together-says-ex-bioware-lead-mark-darrah-and-it-mightve-been-better-to-shut-the-project-down-completely-around-2017/)<!-- GAME:END -->
+ - [What your favorite UFO 50 game says about you](https://www.polygon.com/what-your-favorite-ufo-50-game-says-about-you/)
+ - [Where to find all Amphoreus nymphs in Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/507070/nymph-locations-butterfly-beetles-map/)
+ - [Pokémon Go &#39;2025 World Championships Celebration&#39; event guide](https://www.polygon.com/pokemon-go-2025-world-championships-event-varsity-jacket-pikachu/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
