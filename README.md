@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
- - ⏩ [Guess he learned his lesson](http://9gag.com/gag/a0ewWNq)
+ - ⏩ [Man tries to steal Police vehicle](http://9gag.com/gag/agmjdz1)
  - 👉 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)<!-- MEMES:END -->
 
 ---
