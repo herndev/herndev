@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
- - ⏩ [Im OP of course](http://9gag.com/gag/a5QDyMy)
+ - ⏩ [The future is garbage old man..](http://9gag.com/gag/aVvB17P)
  - 👉 [Cool.](http://9gag.com/gag/agmj641)<!-- MEMES:END -->
 
 ---
