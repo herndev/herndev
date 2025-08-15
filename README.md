@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers Say GPT-5 Is a Mixed Bag](https://www.wired.com/story/gpt-5-coding-review-software-engineering/)
- - [Brands might be cooling on satellite features, and that’s bad news for cheaper Androids](https://www.androidauthority.com/satellite-communication-not-taking-off-android-3588036/)
- - [Anthropic updates Claude usage policy, adding stricter cybersecurity rules and explicitly banning the development of WMDs, and loosens political content rules &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250815/p13#a250815p13)<!-- TECH:END -->
+ - [Decoding Palantir, the Most Mysterious Company in Silicon Valley](https://www.wired.com/story/uncanny-valley-podcast-palantir-most-mysterious-company-silicon-valley/)
+ - [Louisiana sues Roblox for creating an environment where &amp;#8216;child predators thrive&amp;#8217;](https://www.theverge.com/news/760162/roblox-louisiana-lawsuit-child-predators-safety)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
