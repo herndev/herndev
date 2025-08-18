@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $693 across Apple&#39;s Mac Studio line this week](https://appleinsider.com/articles/25/08/18/save-up-to-693-across-apples-mac-studio-line-this-week?utm_source=rss)
- - [Amazon’s Fallout season two heads to New Vegas](https://www.theverge.com/games/760687/fallout-season-two-first-look-prime-video)
- - [Fujifilm is raising the prices of its cameras again](https://www.theverge.com/news/760707/fujifilm-price-increase-cameras-tariffs)<!-- TECH:END -->
+ - [Roblox is locking down sexual content and access to ‘adult’ locations after lawsuits](https://www.theverge.com/news/760805/roblox-sexual-content-lawsuit-age-verification)
+ - [Sources: Anthropic asked Menlo to use the VC firm&#39;s own capital for investment in the startup and not an SPV, as Menlo did in a previous funding round &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250818/p18#a250818p18)
+ - [Apple moves to its seventh iOS 26, macOS Tahoe 26 developer betas as release looms](https://appleinsider.com/articles/25/08/18/apple-moves-to-its-seventh-ios-26-macos-tahoe-26-developer-betas-as-release-looms?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
