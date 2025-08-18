@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox is locking down sexual content and access to ‘adult’ locations after lawsuits](https://www.theverge.com/news/760805/roblox-sexual-content-lawsuit-age-verification)
- - [Sources: Anthropic asked Menlo to use the VC firm&#39;s own capital for investment in the startup and not an SPV, as Menlo did in a previous funding round &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250818/p18#a250818p18)
- - [Apple moves to its seventh iOS 26, macOS Tahoe 26 developer betas as release looms](https://appleinsider.com/articles/25/08/18/apple-moves-to-its-seventh-ios-26-macos-tahoe-26-developer-betas-as-release-looms?utm_source=rss)<!-- TECH:END -->
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - [Google Home adds scheduling for older Nest thermostats](https://www.theverge.com/news/760853/google-home-app-nest-learning-thermostat-e-3rd-gen-schedule-feature)
+ - [The West Texas Measles Outbreak Has Ended](https://www.wired.com/story/the-west-texas-measles-outbreak-has-ended/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
