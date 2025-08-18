@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Pillows &lpar;2025&rpar; Tested For Side, Back, and Stomach Sleepers](https://www.wired.com/gallery/best-pillows/)
- - [A US district court judge temporarily blocks an FTC probe into Media Matters, part of an antitrust investigation into ad boycotts, calling the probe retaliatory &lpar;Bloomberg&rpar;](http://www.techmeme.com/250815/p22#a250815p22)
- - [Roblox shares closed down 6.34% on Friday after the company was accused in two lawsuits of failing to sufficiently protect youngsters on its platform &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250815/p21#a250815p21)<!-- TECH:END -->
+ - [AI is increasingly being used in hacking, with cybercriminals using AI to enhance their capabilities and cybersecurity firms using it to find vulnerabilities &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250817/p12#a250817p12)
+ - [Best Indoor Security Cameras for 2025: Tested in Our Own Homes](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
+ - [Interview with Trent Brunson, R&amp;D director at cybersecurity firm Trail of Bits, which won $3M and 2nd place in DARPA&#39;s AI Cyber Challenge, behind Team Atlanta &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250817/p11#a250817p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
