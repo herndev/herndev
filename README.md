@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man throws fish and an eagle catches it in mid-air, what a shot](http://9gag.com/gag/avymw4b)
- - ⏩ [The Professional](http://9gag.com/gag/aZZv5e6)
- - 👉 [This is for my stoic friends who may not have had the opportunity to experience the wisdom of Musonius Rufus](http://9gag.com/gag/aND3580)<!-- MEMES:END -->
+ - 💣 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
+ - ⏩ [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)
+ - 👉 [What would you call this player?](http://9gag.com/gag/a87zN0d)<!-- MEMES:END -->
 
 ---
 
