@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
- - ⏩ [True? or no](http://9gag.com/gag/an7V37n)
- - 👉 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)<!-- MEMES:END -->
+ - 💣 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)
+ - ⏩ [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
+ - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
 
 ---
 
