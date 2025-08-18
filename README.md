@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung phones could finally offer a vivid photo profile, but there’s bad news](https://www.androidauthority.com/samsung-vivid-color-profile-camera-style-3588243/)
- - [As CEOs and executives mandate AI adoption to make their businesses more efficient and competitive, many have yet to fully integrate it into their own workdays &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/250818/p1#a250818p1)
- - [Australia&#39;s ACCC says Google agreed pay a ~$36M fine over deals from 2019-2021 with Telstra and Optus to pre-install only Google Search on Android phones &lpar;Himanshi Akhand/Reuters&rpar;](http://www.techmeme.com/250817/p15#a250817p15)<!-- TECH:END -->
+ - [Last-minute Google leak reveals brand-new 67W charger, cheaper Pixelsnap stand, and pricier cases](https://www.androidauthority.com/google-67w-charger-pixelsnap-stand-cases-price-leak-3588183/)
+ - [SoftBank buys Foxconn&#39;s Ohio EV plant; Foxconn will produce AI servers at the plant as part of Softbank&#39;s $500B Stargate project with OpenAI and Oracle &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250818/p3#a250818p3)
+ - [Early look: Circle to Search’s translation feature is in for a massive upgrade &lpar;APK teardown&rpar;](https://www.androidauthority.com/early-look-circle-to-searchs-translation-feature-is-in-for-a-massive-upgrade-apk-teardown-3588265/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
