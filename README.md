@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sketch crew Aunty Donna&#39;s latest improv piece turned their set into a giant side-scrolling videogame and it&#39;s great](https://www.pcgamer.com/games/sketch-crew-aunty-donnas-latest-improv-piece-turned-their-set-into-a-giant-side-scrolling-videogame-and-its-great/)
- - [Five new Steam games you probably missed &lpar;August 18, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-18-2025/)
- - [There&#39;s already a rollback mod so you can once again kill the bosses in Wuchang: Fallen Feathers who were rendered unkillable in a patch](https://www.pcgamer.com/games/action/theres-already-a-rollback-mod-so-you-can-once-again-kill-the-bosses-in-wuchang-fallen-feathers-who-were-rendered-unkillable-in-a-patch/)<!-- GAME:END -->
+ - [The deeply simulated roguelike strangeness of Caves of Qud won this year&#39;s Hugo Award for Best Game or Interactive Work](https://www.pcgamer.com/games/rpg/the-deeply-simulated-roguelike-strangeness-of-caves-of-qud-won-this-years-hugo-award-for-best-game-or-interactive-work/)
+ - [Today&#39;s Wordle clues, hints and answer for August 18 &lpar;#1521&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-18-2025/)
+ - [Sketch crew Aunty Donna&#39;s latest improv piece turned their set into a giant side-scrolling videogame and it&#39;s great](https://www.pcgamer.com/games/sketch-crew-aunty-donnas-latest-improv-piece-turned-their-set-into-a-giant-side-scrolling-videogame-and-its-great/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
