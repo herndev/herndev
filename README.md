@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
- - ⏩ [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)
- - 👉 [What would you call this player?](http://9gag.com/gag/a87zN0d)<!-- MEMES:END -->
+ - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - ⏩ [Nope](http://9gag.com/gag/a7oAgmz)
+ - 👉 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)<!-- MEMES:END -->
 
 ---
 
