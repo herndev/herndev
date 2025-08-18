@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MSNBC is becoming ‘My Source News Opinion World’](https://www.theverge.com/news/760533/msnbc-my-source-news-opinion-world-rebrand)
- - [Meta’s first Android-based AR glasses could be landing very soon at an irresistible price](https://www.androidauthority.com/meta-hypernova-ar-glass-launch-soon-3588348/)
- - [The Nothing Phone 3 is a fun, flawed, but overall worthy semi-flagship](https://www.androidauthority.com/nothing-phone-3-review-3586531/)<!-- TECH:END -->
+ - [Think twice about using numbers supplied by Google’s AI Overviews](https://www.androidauthority.com/google-ai-overviews-scams-3588355/)
+ - [Core iPhone 18 shifts to early 2027 launch as schedule rumors resurface](https://appleinsider.com/articles/25/08/18/core-iphone-18-shifts-to-early-2027-launch-as-schedule-rumors-resurface?utm_source=rss)
+ - [A survey by Google Cloud and The Harris Poll finds 87% of game developers are using AI agents in their workflows; 63% expressed concerns about data ownership &lpar;Vic Hood/GamesIndustry.biz&rpar;](http://www.techmeme.com/250818/p11#a250818p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
