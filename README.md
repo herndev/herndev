@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Google Home adds scheduling for older Nest thermostats](https://www.theverge.com/news/760853/google-home-app-nest-learning-thermostat-e-3rd-gen-schedule-feature)
- - [The West Texas Measles Outbreak Has Ended](https://www.wired.com/story/the-west-texas-measles-outbreak-has-ended/)<!-- TECH:END -->
+ - [Nvidia announces a new feature called &quot;Install-to-Play&quot; for GeForce Now, letting users install select games without waiting for Nvidia to formally curate them &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250818/p22#a250818p22)
+ - [Nvidia&#39;s app gets global DLSS override and more control panel features, including anisotropic filtering, anti-aliasing, and ambient occlusion &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250818/p21#a250818p21)
+ - [Nvidia&#39;s GeForce Now game streaming service will get RTX 5080 GPUs in September, letting users of its $20/month Ultimate tier stream in 5K at up to 120fps &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250818/p20#a250818p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
