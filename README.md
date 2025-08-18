@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet is about to make adding passes effortless: Here’s how it’ll work &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-automatically-import-passes-from-photos-3588300/)
- - [Microsoft is finally improving Windows 11’s dark mode](https://www.theverge.com/news/760466/microsoft-windows-11-dark-mode-improvements)
- - [Best Reading Glasses to Buy Online in 2025](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Humanoid Robot Games highlighted robotics advancements but also limitations, with robots tripping over each other; one robot ran faster than many amateur humans &lpar;Yan Zhuang/New York Times&rpar;](http://www.techmeme.com/250818/p5#a250818p5)
+ - [5 reasons why GPT-5 is actually better than some of the older GPT models](https://www.androidauthority.com/why-gpt-5-better-than-older-models-3587949/)
+ - [How Microschools Became the Latest Tech Mogul Obsession](https://www.wired.com/story/silicon-valley-tech-moguls-microschools/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
