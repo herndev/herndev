@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
- - ⏩ [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
- - 👉 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)<!-- MEMES:END -->
+ - 💣 [Imagine this is how you had to get gta6](http://9gag.com/gag/aryzwe0)
+ - ⏩ [UK security](http://9gag.com/gag/aGybvpw)
+ - 👉 [Healthy marriage](http://9gag.com/gag/a1mwn62)<!-- MEMES:END -->
 
 ---
 
