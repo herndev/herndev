@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humanoid Robot Games highlighted robotics advancements but also limitations, with robots tripping over each other; one robot ran faster than many amateur humans &lpar;Yan Zhuang/New York Times&rpar;](http://www.techmeme.com/250818/p5#a250818p5)
- - [5 reasons why GPT-5 is actually better than some of the older GPT models](https://www.androidauthority.com/why-gpt-5-better-than-older-models-3587949/)
- - [How Microschools Became the Latest Tech Mogul Obsession](https://www.wired.com/story/silicon-valley-tech-moguls-microschools/)<!-- TECH:END -->
+ - [Digital bank Monzo, which has 13M UK customers, plans to launch a mobile phone service; Revolut and Klarna, each with ~11M UK customers, announced similar plans &lpar;Financial Times&rpar;](http://www.techmeme.com/250818/p8#a250818p8)
+ - [Google Translate prepares speed vs accuracy modes for translation &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-translate-ai-model-picker-apk-teardown-3588324/)
+ - [Medallion, which automates healthcare back-office operations and compliance, raised $43M at a valuation of around $440M, bringing its total raised to $130M &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/250818/p7#a250818p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
