@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True? or no](http://9gag.com/gag/an7V37n)
- - ⏩ [Crying in Polish](http://9gag.com/gag/aGybvQ5)
- - 👉 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)<!-- MEMES:END -->
+ - 💣 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
+ - ⏩ [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
+ - 👉 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)<!-- MEMES:END -->
 
 ---
 
