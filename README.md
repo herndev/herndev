@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The deeply simulated roguelike strangeness of Caves of Qud won this year&#39;s Hugo Award for Best Game or Interactive Work](https://www.pcgamer.com/games/rpg/the-deeply-simulated-roguelike-strangeness-of-caves-of-qud-won-this-years-hugo-award-for-best-game-or-interactive-work/)
- - [Today&#39;s Wordle clues, hints and answer for August 18 &lpar;#1521&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-18-2025/)
- - [Sketch crew Aunty Donna&#39;s latest improv piece turned their set into a giant side-scrolling videogame and it&#39;s great](https://www.pcgamer.com/games/sketch-crew-aunty-donnas-latest-improv-piece-turned-their-set-into-a-giant-side-scrolling-videogame-and-its-great/)<!-- GAME:END -->
+ - [The original Mortal Kombat movie still does one thing better than most of the games](https://www.polygon.com/mortal-kombat-1995-review-hbo-max/)
+ - [The First Descendant‘s Awful AI TikTok Ads Somehow Aren’t As Bad As The Excuses](https://kotaku.com/ai-ads-tiktok-the-first-descendant-nexon-2000618182)
+ - [&#39;You will definitely see some companies go make Japanese anime sex bots,&#39; says OpenAI&#39;s Sam Altman about AI relationships. &#39;You will not see us do that&#39;](https://www.pcgamer.com/software/ai/you-will-definitely-see-some-companies-go-make-japanese-anime-sex-bots-says-openais-sam-altman-about-ai-relationships-you-will-not-see-us-do-that/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
