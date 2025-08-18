@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This $30,000 Pokémon tourney was an epic IRL Team Rocket showdown](https://www.polygon.com/who-won-pokemon-scarlet-violet-worlds-masters-giovanni-james-team-rocket/)
- - [Marvel Rivals May Get Something No One Asked For: Original Heroes](https://kotaku.com/marvel-rivals-netease-original-heroes-new-characters-2000618254)
- - [Weapons&#39; school-shooting message is shallow and surface-level &lpar;or is it?&rpar;](https://www.polygon.com/weapons-zach-cregger-school-shooting-allegory-good-or-bad/)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX Hair feature looks set to give the cast of Indiana Jones and the Great Circle some fabulously luscious locks](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-hair-feature-looks-set-to-give-the-cast-of-indiana-jones-and-the-great-circle-some-fabulously-luscious-locks/)
+ - [Nvidia announces the official release of Smooth Motion for RTX 40-series GPUs, enabling Frame Generation in unsupported games](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-the-official-release-of-smooth-motion-for-rtx-40-series-gpus-enabling-frame-generation-in-unsupported-games/)
+ - [Nvidia announces the &#39;biggest launch in GeForce Now RTX history&#39;: RTX 5080 performance, local-style installs, better game streaming quality, and more](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-the-biggest-launch-in-geforce-now-rtx-history-rtx-5080-performance-local-style-installs-better-game-streaming-quality-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
