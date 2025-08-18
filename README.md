@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Galaxy Buds 3 FE bring Pro-level features at a much lower price](https://www.androidauthority.com/samsung-galaxy-buds-3-fe-launched-3588316/)
- - [Samsung’s budget Galaxy Buds 3 FE are here](https://www.theverge.com/news/760445/galaxy-buds3-fe-price-specs-samsung)
- - [Grammarly says its AI agent can predict an A paper](https://www.theverge.com/news/760508/grammarly-ai-agents-help-students-educators)<!-- TECH:END -->
+ - [MSNBC is becoming ‘My Source News Opinion World’](https://www.theverge.com/news/760533/msnbc-my-source-news-opinion-world-rebrand)
+ - [Meta’s first Android-based AR glasses could be landing very soon at an irresistible price](https://www.androidauthority.com/meta-hypernova-ar-glass-launch-soon-3588348/)
+ - [The Nothing Phone 3 is a fun, flawed, but overall worthy semi-flagship](https://www.androidauthority.com/nothing-phone-3-review-3586531/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
