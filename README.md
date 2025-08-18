@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Partying with Hololive vtubers is finally possible with an app that is basically VRChat for fans of anime girl streamers](https://www.pcgamer.com/gaming-industry/partying-with-hololive-vtubers-is-finally-possible-with-an-app-that-is-basically-vrchat-for-fans-of-anime-girl-streamers/)
- - [&#39;The Day Before 2?&#39;: Everyone is skeptical about this survival game promising a map five times the size of DayZ and 5,000 players per server](https://www.pcgamer.com/games/survival-crafting/the-day-before-2-everyone-is-skeptical-about-this-survival-game-promising-a-map-five-times-the-size-of-dayz-and-5-000-players-per-server/)
- - [Robocop: Rogue City, which I admit I was completely wrong about, is just $5 in the Humble Store Summer Sale](https://www.pcgamer.com/games/robocop-rogue-city-which-i-admit-i-was-completely-wrong-about-is-just-usd5-in-the-humble-store-summer-sale/)<!-- GAME:END -->
+ - [&#39;I always knew it was going to go away eventually:&#39; Anthem producer Mark Darrah gives his take on Stop Killing Games ahead of his own project shutting down forever](https://www.pcgamer.com/games/mmo/i-always-knew-it-was-going-to-go-away-eventually-anthem-producer-mark-darrah-gives-his-take-on-stop-killing-games-ahead-of-his-own-project-shutting-down-forever/)
+ - [Actor Terence Stamp, who played General Zod in Superman and Mankar Camoran in The Elder Scrolls 4: Oblivion, has died](https://www.pcgamer.com/gaming-industry/actor-terence-stamp-who-played-general-zod-in-superman-and-mankar-camoran-in-the-elder-scrolls-4-oblivion-has-died/)
+ - [Cars have had real-life DLC for a while, but now Volkswagen’s gone full pay to win, locking a car&#39;s max horsepower behind a subscription](https://www.pcgamer.com/gaming-industry/cars-have-had-real-life-dlc-for-a-while-but-now-volkswagens-gone-full-pay-to-win-locking-a-cars-max-horsepower-behind-a-subscription/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
