@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - ⏩ [Love belly rubs](http://9gag.com/gag/aByoMmQ)
- - 👉 [I am SO PROUD of you all~!](http://9gag.com/gag/ae9Wz85)<!-- MEMES:END -->
+ - 💣 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
+ - ⏩ [True? or no](http://9gag.com/gag/an7V37n)
+ - 👉 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)<!-- MEMES:END -->
 
 ---
 
