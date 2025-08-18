@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
- - ⏩ [This is funny bc it\u00b4s Them &amp; Them...](http://9gag.com/gag/aND3Xwr)
- - 👉 [Healthy marriage](http://9gag.com/gag/a1mwn62)<!-- MEMES:END -->
+ - 💣 [True? or no](http://9gag.com/gag/an7V37n)
+ - ⏩ [Crying in Polish](http://9gag.com/gag/aGybvQ5)
+ - 👉 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)<!-- MEMES:END -->
 
 ---
 
