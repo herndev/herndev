@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine this is how you had to get gta6](http://9gag.com/gag/aryzwe0)
- - ⏩ [UK security](http://9gag.com/gag/aGybvpw)
+ - 💣 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
+ - ⏩ [This is funny bc it\u00b4s Them &amp; Them...](http://9gag.com/gag/aND3Xwr)
  - 👉 [Healthy marriage](http://9gag.com/gag/a1mwn62)<!-- MEMES:END -->
 
 ---
