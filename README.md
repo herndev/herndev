@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - ⏩ [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
- - 👉 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
+ - ⏩ [What would you call this player?](http://9gag.com/gag/a87zN0d)
+ - 👉 [They say money cannot buy happiness. They\u2019re wrong](http://9gag.com/gag/amonyM2)<!-- MEMES:END -->
 
 ---
 
