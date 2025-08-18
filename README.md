@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia&#39;s ACCC says Google agreed pay a ~$36M fine over deals from 2019-2021 with Telstra and Optus to pre-install only Google Search on Android phones &lpar;Himanshi Akhand/Reuters&rpar;](http://www.techmeme.com/250817/p15#a250817p15)
  - [A profile of Epic Systems CEO Judy Faulkner, who has led the EHR software company for 46 years, building it into one of the largest US private tech companies &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250817/p14#a250817p14)
- - [A look at OpenAI&#39;s campaign over the past year to secure its transition from a nonprofit, led by a team of Democratic insiders in California &lpar;Politico&rpar;](http://www.techmeme.com/250817/p13#a250817p13)
- - [AI is increasingly being used in hacking, with cybercriminals using AI to enhance their capabilities and cybersecurity firms using it to find vulnerabilities &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250817/p12#a250817p12)<!-- TECH:END -->
+ - [A look at OpenAI&#39;s campaign over the past year to secure its transition from a nonprofit, led by a team of Democratic insiders in California &lpar;Politico&rpar;](http://www.techmeme.com/250817/p13#a250817p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
