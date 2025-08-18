@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Weapons&#39; school-shooting message is shallow and surface-level &lpar;or is it?&rpar;](https://www.polygon.com/weapons-zach-cregger-school-shooting-allegory-good-or-bad/)
- - [An Acclaimed Horror Movie Starring A Dog Finally Gets Its First Trailer](https://kotaku.com/good-boy-trailer-horror-movie-dog-actor-release-date-2000618245)
- - [Game publisher caught using AI-generated influencers in ads says they were submitted by TikTok users, will investigate &#39;irregularities&#39; with the social media app](https://www.pcgamer.com/software/ai/game-publisher-caught-using-ai-generated-influencers-in-ads-says-they-were-submitted-by-tiktok-users-will-investigate-irregularities-with-the-social-media-app/)<!-- GAME:END -->
+ - [This $30,000 Pokémon tourney was an epic IRL Team Rocket showdown](https://www.polygon.com/who-won-pokemon-scarlet-violet-worlds-masters-giovanni-james-team-rocket/)
+ - [Marvel Rivals May Get Something No One Asked For: Original Heroes](https://kotaku.com/marvel-rivals-netease-original-heroes-new-characters-2000618254)
+ - [Weapons&#39; school-shooting message is shallow and surface-level &lpar;or is it?&rpar;](https://www.polygon.com/weapons-zach-cregger-school-shooting-allegory-good-or-bad/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
