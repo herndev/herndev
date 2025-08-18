@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sword of the Sea review: Giant Squid&#39;s latest is as deep as you want it to be](https://www.polygon.com/sword-of-the-sea-review/)
- - [gamescom 2025: Meet the Teams Bringing Their Games to the Xbox Booth](https://news.xbox.com/en-us/2025/08/18/gamescom-2025-meet-the-teams-xbox-booth/)
- - [First look at Fallout season 2 images promises a focus on New Vegas](https://www.polygon.com/fallout-season-2-first-look-new-vegas/)<!-- GAME:END -->
+ - [Delta Force Arrives Tomorrow: How to Survive and Thrive in Its Huge Multiplayer Modes](https://news.xbox.com/en-us/2025/08/18/delta-force-xbox-launch-tips-guide/)
+ - [Colorful&#39;s cat-themed B650 motherboard now has an optional kitty-based BIOS, a combination of words I really didn&#39;t think I&#39;d be writing today](https://www.pcgamer.com/hardware/colorfuls-cat-themed-b650-motherboard-now-has-an-optional-kitty-based-bios-a-combination-of-words-i-really-didnt-think-id-be-writing-today/)
+ - [You can already earn 24 exclusive items for Battlefield 6&#39;s launch, but I&#39;m afraid you&#39;ll have to play Battlefield 2042 to get them](https://www.pcgamer.com/games/fps/road-to-battlefield-6-event/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
