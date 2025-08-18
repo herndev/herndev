@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s RTX Hair feature looks set to give the cast of Indiana Jones and the Great Circle some fabulously luscious locks](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-hair-feature-looks-set-to-give-the-cast-of-indiana-jones-and-the-great-circle-some-fabulously-luscious-locks/)
- - [Nvidia announces the official release of Smooth Motion for RTX 40-series GPUs, enabling Frame Generation in unsupported games](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-the-official-release-of-smooth-motion-for-rtx-40-series-gpus-enabling-frame-generation-in-unsupported-games/)
- - [Nvidia announces the &#39;biggest launch in GeForce Now RTX history&#39;: RTX 5080 performance, local-style installs, better game streaming quality, and more](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-the-biggest-launch-in-geforce-now-rtx-history-rtx-5080-performance-local-style-installs-better-game-streaming-quality-and-more/)<!-- GAME:END -->
+ - [Conjuring 4′s Popcorn Bucket Features Annabelle And Fans Don’t Want It](https://kotaku.com/conjuring-4-last-rites-popcorn-bucket-annabelle-regal-cinemark-2000618273)
+ - [Geoff Keighley Teases Silksong Ahead Of The Last Big Gaming Showcase Of The Summer](https://kotaku.com/silksong-gamescom-2025-livestream-what-time-fallout-black-ops-7-2000618270)
+ - [Steam launches &#39;language-specific&#39; review scores, because &#39;customers in different regions of the world may have vastly different experiences from each other for the same game&#39;](https://www.pcgamer.com/games/steam-launches-language-specific-review-scores-because-customers-in-different-regions-of-the-world-may-have-vastly-different-experiences-from-each-other-for-the-same-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
