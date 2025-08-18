@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung phones could finally offer a vivid photo profile, but there’s bad news](https://www.androidauthority.com/samsung-vivid-color-profile-camera-style-3588243/)
  - [As CEOs and executives mandate AI adoption to make their businesses more efficient and competitive, many have yet to fully integrate it into their own workdays &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/250818/p1#a250818p1)
- - [Australia&#39;s ACCC says Google agreed pay a ~$36M fine over deals from 2019-2021 with Telstra and Optus to pre-install only Google Search on Android phones &lpar;Himanshi Akhand/Reuters&rpar;](http://www.techmeme.com/250817/p15#a250817p15)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Aug. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-aug-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia&#39;s ACCC says Google agreed pay a ~$36M fine over deals from 2019-2021 with Telstra and Optus to pre-install only Google Search on Android phones &lpar;Himanshi Akhand/Reuters&rpar;](http://www.techmeme.com/250817/p15#a250817p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
