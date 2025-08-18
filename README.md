@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital bank Monzo, which has 13M UK customers, plans to launch a mobile phone service; Revolut and Klarna, each with ~11M UK customers, announced similar plans &lpar;Financial Times&rpar;](http://www.techmeme.com/250818/p8#a250818p8)
- - [Google Translate prepares speed vs accuracy modes for translation &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-translate-ai-model-picker-apk-teardown-3588324/)
- - [Medallion, which automates healthcare back-office operations and compliance, raised $43M at a valuation of around $440M, bringing its total raised to $130M &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/250818/p7#a250818p7)<!-- TECH:END -->
+ - [New Galaxy Buds 3 FE bring Pro-level features at a much lower price](https://www.androidauthority.com/samsung-galaxy-buds-3-fe-launched-3588316/)
+ - [Samsung’s budget Galaxy Buds 3 FE are here](https://www.theverge.com/news/760445/galaxy-buds3-fe-price-specs-samsung)
+ - [Grammarly says its AI agent can predict an A paper](https://www.theverge.com/news/760508/grammarly-ai-agents-help-students-educators)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
