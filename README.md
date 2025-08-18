@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why roguelike games are fun](https://www.polygon.com/why-roguelikes-are-fun/)
- - [Everything Announced During The Pokémon World Championships’ Closing Ceremony](https://kotaku.com/pokemon-world-championship-closing-ceremony-recap-z-a-2000618195)
- - [Smash Bros. Director’s New Kirby Racing Game Is Getting A Ridiculously Long Nintendo Direct](https://kotaku.com/nintendo-direct-switch-2-kirby-air-riders-smash-bros-sakurai-2000618190)<!-- GAME:END -->
+ - [Sword of the Sea review: Giant Squid&#39;s latest is as deep as you want it to be](https://www.polygon.com/sword-of-the-sea-review/)
+ - [gamescom 2025: Meet the Teams Bringing Their Games to the Xbox Booth](https://news.xbox.com/en-us/2025/08/18/gamescom-2025-meet-the-teams-xbox-booth/)
+ - [First look at Fallout season 2 images promises a focus on New Vegas](https://www.polygon.com/fallout-season-2-first-look-new-vegas/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
