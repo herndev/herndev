@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - ⏩ [Nope](http://9gag.com/gag/a7oAgmz)
- - 👉 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
+ - ⏩ [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
+ - 👉 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)<!-- MEMES:END -->
 
 ---
 
