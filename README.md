@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
- - ⏩ [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - 👉 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)<!-- MEMES:END -->
+ - 💣 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
+ - ⏩ [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
+ - 👉 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
 
 ---
 
