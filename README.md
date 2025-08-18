@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
- - ⏩ [Nope](http://9gag.com/gag/a7oAgmz)
- - 👉 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)<!-- MEMES:END -->
+ - 💣 [Nope](http://9gag.com/gag/a7oAgmz)
+ - ⏩ [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)
+ - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
 
 ---
 
