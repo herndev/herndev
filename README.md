@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palo Alto Networks founder Nir Zuk retires and steps down as CTO and board member; Chief Product Officer Lee Klarich becomes CTO and joins the board &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250818/p25#a250818p25)
- - [Nvidia, Discord, and Epic Games are testing game demos on Discord servers, letting users try a game without downloading it or signing up, starting with Fortnite &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250818/p24#a250818p24)
- - [Google says users created 100M videos using its AI filmmaking tool Flow since its May launch; Flow leverages Veo 3 and focuses on maintaining visual consistency &lpar;Katelyn Chedraoui/CNET&rpar;](http://www.techmeme.com/250818/p23#a250818p23)<!-- TECH:END -->
+ - [Source: Arm has hired Amazon AI chip director Rami Sinno to help develop its own chips; he previously worked on Amazon&#39;s Trainium and Inferentia chips &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250818/p27#a250818p27)
+ - [Samsung Galaxy Z Fold 7 plummets to new record-low price, saving you $300!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-3588572/)
+ - [An Account Using the Same Name as Trump’s BLS Pick Posted Red-Pilled Conspiracy Theories](https://www.wired.com/story/twitter-ej-antoni-trump-bls-conspiracy-theories-epstein-covid-election-denial/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
