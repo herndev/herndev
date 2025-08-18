@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move over, boring gray: The Galaxy Tab S10 Lite might surprise with a bold color](https://www.androidauthority.com/samsung-galaxy-s10-lite-images-3588393/)
- - [Matter update, Apple smart home cameras, &amp; Hue leaks on HomeKit Insider](https://appleinsider.com/articles/25/08/18/matter-update-apple-smart-home-cameras-hue-leaks-on-homekit-insider?utm_source=rss)
- - [How the head of Obsidian went from superfan to CEO](https://www.theverge.com/decoder-podcast-with-nilay-patel/760522/obsidian-ceo-steph-ango-kepano-productivity-software-notes-app)<!-- TECH:END -->
+ - [Save up to $693 across Apple&#39;s Mac Studio line this week](https://appleinsider.com/articles/25/08/18/save-up-to-693-across-apples-mac-studio-line-this-week?utm_source=rss)
+ - [Amazon’s Fallout season two heads to New Vegas](https://www.theverge.com/games/760687/fallout-season-two-first-look-prime-video)
+ - [Fujifilm is raising the prices of its cameras again](https://www.theverge.com/news/760707/fujifilm-price-increase-cameras-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
