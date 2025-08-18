@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Think twice about using numbers supplied by Google’s AI Overviews](https://www.androidauthority.com/google-ai-overviews-scams-3588355/)
- - [Core iPhone 18 shifts to early 2027 launch as schedule rumors resurface](https://appleinsider.com/articles/25/08/18/core-iphone-18-shifts-to-early-2027-launch-as-schedule-rumors-resurface?utm_source=rss)
- - [A survey by Google Cloud and The Harris Poll finds 87% of game developers are using AI agents in their workflows; 63% expressed concerns about data ownership &lpar;Vic Hood/GamesIndustry.biz&rpar;](http://www.techmeme.com/250818/p11#a250818p11)<!-- TECH:END -->
+ - [Move over, boring gray: The Galaxy Tab S10 Lite might surprise with a bold color](https://www.androidauthority.com/samsung-galaxy-s10-lite-images-3588393/)
+ - [Matter update, Apple smart home cameras, &amp; Hue leaks on HomeKit Insider](https://appleinsider.com/articles/25/08/18/matter-update-apple-smart-home-cameras-hue-leaks-on-homekit-insider?utm_source=rss)
+ - [How the head of Obsidian went from superfan to CEO](https://www.theverge.com/decoder-podcast-with-nilay-patel/760522/obsidian-ceo-steph-ango-kepano-productivity-software-notes-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
