@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cutest funny Grandpa.](https://www.reddit.com/r/funny/comments/1mtjz4d/cutest_funny_grandpa/)
- - ⏩ [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - 👉 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)<!-- MEMES:END -->
+ - 💣 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
+ - ⏩ [Nope](http://9gag.com/gag/a7oAgmz)
+ - 👉 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
 
 ---
 
