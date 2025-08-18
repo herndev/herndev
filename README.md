@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Delta Force Arrives Tomorrow: How to Survive and Thrive in Its Huge Multiplayer Modes](https://news.xbox.com/en-us/2025/08/18/delta-force-xbox-launch-tips-guide/)
- - [Colorful&#39;s cat-themed B650 motherboard now has an optional kitty-based BIOS, a combination of words I really didn&#39;t think I&#39;d be writing today](https://www.pcgamer.com/hardware/colorfuls-cat-themed-b650-motherboard-now-has-an-optional-kitty-based-bios-a-combination-of-words-i-really-didnt-think-id-be-writing-today/)
- - [You can already earn 24 exclusive items for Battlefield 6&#39;s launch, but I&#39;m afraid you&#39;ll have to play Battlefield 2042 to get them](https://www.pcgamer.com/games/fps/road-to-battlefield-6-event/)<!-- GAME:END -->
+ - [Malcolm McDowell dishes on Star Trek, Stanley Kubrick](https://www.polygon.com/malcolm-mcdowell-interview-call-duty-star-trek-fallout-kubrick/)
+ - [Five Tips to Help You Get Started with Black Myth: Wukong on Xbox Series X|S](https://news.xbox.com/en-us/2025/08/18/five-tips-to-help-you-get-started-with-black-myth-wukong-on-xbox-series-xs/)
+ - [Shenmue 3 is getting a dolled-up edition that makes John Shenmue more beautiful than ever before](https://www.pcgamer.com/games/adventure/shenmue-3-is-getting-a-dolled-up-edition-that-makes-john-shenmue-more-beautiful-than-ever-before/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
