@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - ⏩ [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - 👉 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)<!-- MEMES:END -->
+ - 💣 [Man throws fish and an eagle catches it in mid-air, what a shot](http://9gag.com/gag/avymw4b)
+ - ⏩ [The Professional](http://9gag.com/gag/aZZv5e6)
+ - 👉 [This is for my stoic friends who may not have had the opportunity to experience the wisdom of Musonius Rufus](http://9gag.com/gag/aND3580)<!-- MEMES:END -->
 
 ---
 
