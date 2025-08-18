@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)
- - ⏩ [Now we wait](http://9gag.com/gag/aPAn20w)
- - 👉 [What would you call this player?](http://9gag.com/gag/a87zN0d)<!-- MEMES:END -->
+ - 💣 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
+ - ⏩ [Nope](http://9gag.com/gag/a7oAgmz)
+ - 👉 [Sue her](http://9gag.com/gag/a34nrrN)<!-- MEMES:END -->
 
 ---
 
