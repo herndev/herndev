@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Malcolm McDowell dishes on Star Trek, Stanley Kubrick](https://www.polygon.com/malcolm-mcdowell-interview-call-duty-star-trek-fallout-kubrick/)
- - [Five Tips to Help You Get Started with Black Myth: Wukong on Xbox Series X|S](https://news.xbox.com/en-us/2025/08/18/five-tips-to-help-you-get-started-with-black-myth-wukong-on-xbox-series-xs/)
- - [Shenmue 3 is getting a dolled-up edition that makes John Shenmue more beautiful than ever before](https://www.pcgamer.com/games/adventure/shenmue-3-is-getting-a-dolled-up-edition-that-makes-john-shenmue-more-beautiful-than-ever-before/)<!-- GAME:END -->
+ - [Weapons&#39; school-shooting message is shallow and surface-level &lpar;or is it?&rpar;](https://www.polygon.com/weapons-zach-cregger-school-shooting-allegory-good-or-bad/)
+ - [An Acclaimed Horror Movie Starring A Dog Finally Gets Its First Trailer](https://kotaku.com/good-boy-trailer-horror-movie-dog-actor-release-date-2000618245)
+ - [Game publisher caught using AI-generated influencers in ads says they were submitted by TikTok users, will investigate &#39;irregularities&#39; with the social media app](https://www.pcgamer.com/software/ai/game-publisher-caught-using-ai-generated-influencers-in-ads-says-they-were-submitted-by-tiktok-users-will-investigate-irregularities-with-the-social-media-app/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
