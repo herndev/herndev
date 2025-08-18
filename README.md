@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The original Mortal Kombat movie still does one thing better than most of the games](https://www.polygon.com/mortal-kombat-1995-review-hbo-max/)
- - [The First Descendant‘s Awful AI TikTok Ads Somehow Aren’t As Bad As The Excuses](https://kotaku.com/ai-ads-tiktok-the-first-descendant-nexon-2000618182)
- - [&#39;You will definitely see some companies go make Japanese anime sex bots,&#39; says OpenAI&#39;s Sam Altman about AI relationships. &#39;You will not see us do that&#39;](https://www.pcgamer.com/software/ai/you-will-definitely-see-some-companies-go-make-japanese-anime-sex-bots-says-openais-sam-altman-about-ai-relationships-you-will-not-see-us-do-that/)<!-- GAME:END -->
+ - [&#39;Someone is going to lose a phenomenal amount of money&#39; says OpenAI CEO Sam Altman about unwise AI investment. &#39;When bubbles happen, smart people get overexcited about a kernel of truth&#39;](https://www.pcgamer.com/software/ai/someone-is-going-to-lose-a-phenomenal-amount-of-money-says-openai-ceo-sam-altman-about-unwise-ai-investment-when-bubbles-happen-smart-people-get-overexcited-about-a-kernel-of-truth/)
+ - [New roguelite Rewilders revealed by BAFTA-winning Herobeat Studios](https://www.polygon.com/rewilders-the-lost-spring-reveal-trailer/)
+ - [Why losing in roguelikes feels like winning](https://www.polygon.com/psychology-roguelikes-punishment-into-reward/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
