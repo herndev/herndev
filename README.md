@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
- - ⏩ [The future is garbage old man..](http://9gag.com/gag/aVvB17P)
- - 👉 [Cool.](http://9gag.com/gag/agmj641)<!-- MEMES:END -->
+ - 💣 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
+ - ⏩ [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
+ - 👉 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)<!-- MEMES:END -->
 
 ---
 
