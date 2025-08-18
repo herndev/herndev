@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last-minute Google leak reveals brand-new 67W charger, cheaper Pixelsnap stand, and pricier cases](https://www.androidauthority.com/google-67w-charger-pixelsnap-stand-cases-price-leak-3588183/)
- - [SoftBank buys Foxconn&#39;s Ohio EV plant; Foxconn will produce AI servers at the plant as part of Softbank&#39;s $500B Stargate project with OpenAI and Oracle &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250818/p3#a250818p3)
- - [Early look: Circle to Search’s translation feature is in for a massive upgrade &lpar;APK teardown&rpar;](https://www.androidauthority.com/early-look-circle-to-searchs-translation-feature-is-in-for-a-massive-upgrade-apk-teardown-3588265/)<!-- TECH:END -->
+ - [Google Wallet is about to make adding passes effortless: Here’s how it’ll work &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-automatically-import-passes-from-photos-3588300/)
+ - [Microsoft is finally improving Windows 11’s dark mode](https://www.theverge.com/news/760466/microsoft-windows-11-dark-mode-improvements)
+ - [Best Reading Glasses to Buy Online in 2025](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
