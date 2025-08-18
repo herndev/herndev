@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
- - ⏩ [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
- - 👉 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)<!-- MEMES:END -->
+ - 💣 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
+ - ⏩ [Love belly rubs](http://9gag.com/gag/aByoMmQ)
+ - 👉 [I am SO PROUD of you all~!](http://9gag.com/gag/ae9Wz85)<!-- MEMES:END -->
 
 ---
 
