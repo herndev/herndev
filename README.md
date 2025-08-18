@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - ⏩ [What would you call this player?](http://9gag.com/gag/a87zN0d)
- - 👉 [They say money cannot buy happiness. They\u2019re wrong](http://9gag.com/gag/amonyM2)<!-- MEMES:END -->
+ - 💣 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
+ - ⏩ [Nope](http://9gag.com/gag/a7oAgmz)
+ - 👉 [Mind blown.](http://9gag.com/gag/avymqYd)<!-- MEMES:END -->
 
 ---
 
