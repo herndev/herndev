@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - ⏩ [What would you call this player?](http://9gag.com/gag/a87zN0d)
- - 👉 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)<!-- MEMES:END -->
+ - 💣 [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
+ - ⏩ [Trump writes that Ukraine won\u2019t get Crimea back or be able to join NATO](http://9gag.com/gag/aVvB6my)
+ - 👉 [Fat and furious](http://9gag.com/gag/a0ew3nn)<!-- MEMES:END -->
 
 ---
 
