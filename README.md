@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [LG Ultragear 45GX950A gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-45gx950a-gaming-monitor-review/)
- - [Today&#39;s Wordle clues, hints and answer for August 19 &lpar;#1522&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-19-2025/)
- - [15 attempts in, I actually love that Elden Ring Nightreign&#39;s Everdark Libra is the first FromSoftware boss who&#39;s harder to beat in co-op than solo](https://www.pcgamer.com/games/action/15-attempts-in-i-actually-love-that-elden-ring-nightreigns-everdark-libra-is-the-first-fromsoftware-boss-whos-harder-to-beat-in-co-op-than-solo/)<!-- GAME:END -->
+ - [How to prepare for the Emotional Rescue update in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-emotional-rescue-update/)
+ - [Capcom runs out of emergency glass to break with Monster Hunter Wilds, but it&#39;s going to &#39;implement a multifaceted plan&#39; to improve PC performance &#39;this winter&#39;](https://www.pcgamer.com/games/rpg/capcom-runs-out-of-emergency-glass-to-break-with-monster-hunter-wilds-but-its-going-to-implement-a-multifaceted-plan-to-improve-pc-performance-this-winter/)
+ - [Softbank announces it&#39;s buying a $2 billion stake in Intel as the Trump administration reportedly considers a 10% slice of the bright blue chipmaking pie](https://www.pcgamer.com/hardware/processors/softbank-announces-its-buying-a-usd2-billion-stake-in-intel-as-the-trump-administration-reportedly-considers-a-10-percent-slice-of-the-bright-blue-chipmaking-pie/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
