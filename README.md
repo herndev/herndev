@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iOS 26 Public Beta 4 Gets Us One Step Closer to the Final iPhone Release](https://www.cnet.com/tech/services-and-software/new-ios-26-public-beta-4-gets-us-one-step-closer-to-the-final-iphone-release/#ftag=CAD590a51e)
  - [SwitchBot K10+ review: Compact cleaning with strong suction &amp; smart navigation](https://appleinsider.com/articles/25/08/18/switchbot-k10-review-compact-cleaning-with-strong-suction-smart-navigation?utm_source=rss)
- - [The Samsung Galaxy Z Flip 7 FE is $200 off right now!](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-deal-3-3588571/)
- - [Nvidia debuts the Nemotron-Nano-9B-v2, a hybrid Mamba-transformer model, saying it achieves scores comparable to or better than Qwen3-8B on reasoning benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250818/p31#a250818p31)<!-- TECH:END -->
+ - [The Samsung Galaxy Z Flip 7 FE is $200 off right now!](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-deal-3-3588571/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
