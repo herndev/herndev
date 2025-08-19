@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Am I the only one who plays 99% of an RPG but doesn&#39;t finish it?](https://www.polygon.com/rpg-prcrastination-never-finish-99-percent/)
- - [Alienware 18 Area-51 &lpar;2025&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/alienware-18-area-51-2025-review/)
- - [While PC chassis manufacturers still favour black over every other color, at least you don&#39;t have to put up with rubbish if you fancy perfection in pink](https://www.pcgamer.com/hardware/pc-cases/while-pc-chassis-manufacturers-still-favour-black-over-every-other-color-at-least-you-dont-have-to-put-up-with-rubbish-if-you-fancy-perfection-in-pink/)<!-- GAME:END -->
+ - [NCSoft&#39;s making a new MMO shooter that, snazzy graphics aside, feels like it&#39;s already 15 years old—and that might just match your freak](https://www.pcgamer.com/games/mmo/ncsofts-making-a-new-mmo-shooter-that-snazzy-graphics-aside-feels-like-its-already-15-years-old-and-that-might-just-match-your-freak/)
+ - [Helldivers 2 x Halo: ODST Legendary Warbond arrives August 26](https://blog.playstation.com/2025/08/19/helldivers-2-x-halo-odst-legendary-warbond-arrives-august-26/)
+ - [20 years ago, Cillian Murphy&#39;s nearly perfect thriller was ahead of its time](https://www.polygon.com/red-eye-rachel-mcadams-cillian-murphy-short-movies/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
