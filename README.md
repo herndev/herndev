@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bill Gates backs the Alzheimer&#39;s Insights AI Prize, which gives $1M to a team making AI to &quot;accelerate breakthrough discoveries from existing Alzheimer&#39;s data&quot; &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250819/p12#a250819p12)
- - [Ayaneo’s dual-screen Android handheld is its next modernized Nintendo DS](https://www.theverge.com/news/761296/ayaneo-pocket-ds-dual-screen-handheld-android-13)
- - [A survey of 4,446 US adults on AI: 71% are concerned AI will permanently displace large numbers of workers, 61% worry about electricity consumption, and more &lpar;Reuters&rpar;](http://www.techmeme.com/250819/p11#a250819p11)<!-- TECH:END -->
+ - [Razer’s Gengar Edition headphones are now available in the US](https://www.theverge.com/news/761044/razer-pokemon-kraken-kitty-v2-wired-headphones-gengar-edition-us-availability)
+ - [Higher iPhone 16 builds raise hopes for Apple&#39;s holiday season](https://appleinsider.com/articles/25/08/19/higher-iphone-16-builds-raise-hopes-for-apples-holiday-season?utm_source=rss)
+ - [Labubus Are on Track to Be a Billion-Dollar Business This year](https://www.wired.com/story/labubu-pop-mart-earnings-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
