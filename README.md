@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 Ultra could make spying on your screen impossible with this crazy tech](https://www.androidauthority.com/samsung-galaxy-s26-ultra-privacy-screen-3588697/)
- - [Take Control of Your Google Search Results by Choosing the Sources You Want to See](https://www.cnet.com/tech/services-and-software/take-control-of-your-google-search-results-by-choosing-the-sources-you-want-to-see/#ftag=CAD590a51e)
- - [Verizon’s loyalty discount mess is somehow getting worse](https://www.androidauthority.com/verizon-loyalty-discount-mess-3588709/)<!-- TECH:END -->
+ - [Sources: Databricks is finalizing a funding round that would value it at $100B, up 61% from December 2024, co-led by Thrive Capital; a16z is set to participate &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250819/p6#a250819p6)
+ - [Sources: Masayoshi Son met Lip-Bu Tan to discuss SoftBank acquiring Intel&#39;s faltering foundry business in the weeks before announcing SoftBank&#39;s $2B investment &lpar;Financial Times&rpar;](http://www.techmeme.com/250819/p5#a250819p5)
+ - [ChatGPT now has a subscription plan that costs less than $5/month](https://www.androidauthority.com/chatgpt-go-3588739/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
