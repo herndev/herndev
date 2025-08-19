@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - ⏩ [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
- - 👉 [Sue her](http://9gag.com/gag/a34nrrN)<!-- MEMES:END -->
+ - 💣 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
+ - ⏩ [What the dog doin](http://9gag.com/gag/apR8w7b)
+ - 👉 [England is beyond help.](http://9gag.com/gag/an7Vwgo)<!-- MEMES:END -->
 
 ---
 
