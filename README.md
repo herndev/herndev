@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - ⏩ [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 👉 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)<!-- MEMES:END -->
+ - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - ⏩ [What the dog doin](http://9gag.com/gag/apR8w7b)
+ - 👉 [Nope](http://9gag.com/gag/a7oAgmz)<!-- MEMES:END -->
 
 ---
 
