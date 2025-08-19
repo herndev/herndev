@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technically, all debt is borrowed from the future](http://9gag.com/gag/a7oAxPw)
- - ⏩ [Nice and out in the open](http://9gag.com/gag/a9yBwN6)
- - 👉 [England is beyond help.](http://9gag.com/gag/an7Vwgo)<!-- MEMES:END -->
+ - 💣 [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
+ - ⏩ [Not today, not ever](http://9gag.com/gag/a0ewqwB)
+ - 👉 [Luigi?](http://9gag.com/gag/aByoewQ)<!-- MEMES:END -->
 
 ---
 
