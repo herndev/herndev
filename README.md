@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jackie Brown &lpar;1997&rpar;. This is Robert De Niro and Bridget Fonda. Its a Tarantino movie.](http://9gag.com/gag/a34nOE1)
- - ⏩ [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
+ - 💣 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
+ - ⏩ [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
+ - 👉 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)<!-- MEMES:END -->
 
 ---
 
