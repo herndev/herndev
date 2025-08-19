@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
- - ⏩ [Not today, not ever](http://9gag.com/gag/a0ewqwB)
- - 👉 [Luigi?](http://9gag.com/gag/aByoewQ)<!-- MEMES:END -->
+ - 💣 [Fat and furious](http://9gag.com/gag/a0ew3nn)
+ - ⏩ [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
+ - 👉 [Not today, not ever](http://9gag.com/gag/a0ewqwB)<!-- MEMES:END -->
 
 ---
 
