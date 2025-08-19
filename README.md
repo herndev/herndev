@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NCSoft&#39;s making a new MMO shooter that, snazzy graphics aside, feels like it&#39;s already 15 years old—and that might just match your freak](https://www.pcgamer.com/games/mmo/ncsofts-making-a-new-mmo-shooter-that-snazzy-graphics-aside-feels-like-its-already-15-years-old-and-that-might-just-match-your-freak/)
- - [Helldivers 2 x Halo: ODST Legendary Warbond arrives August 26](https://blog.playstation.com/2025/08/19/helldivers-2-x-halo-odst-legendary-warbond-arrives-august-26/)
- - [20 years ago, Cillian Murphy&#39;s nearly perfect thriller was ahead of its time](https://www.polygon.com/red-eye-rachel-mcadams-cillian-murphy-short-movies/)<!-- GAME:END -->
+ - [Coming to Game Pass: Gears of War: Reloaded, Dragon Age: The Veilguard, Void/Breaker, and More](https://news.xbox.com/en-us/2025/08/19/xbox-game-pass-august-2025-wave-2/)
+ - [Deadlock is drip-feeding 6 new heroes over the next couple of weeks, and is letting players decide which ones drop first](https://www.pcgamer.com/games/moba/deadlock-is-drip-feeding-6-new-heroes-over-the-next-couple-of-weeks-and-is-letting-players-decide-which-ones-drop-first/)
+ - [Returning to Returnal, one of the generation&#39;s best roguelikes](https://www.polygon.com/returnal-ps5-best-roguelike/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
