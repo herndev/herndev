@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your next movie night could glow brighter with Nanoleaf’s latest TV light strip kit](https://www.androidauthority.com/nanoleaf-4d-v2-screen-mirror-light-strip-launched-3588526/)
- - [The AI-Powered PDF Marks the End of an Era](https://www.wired.com/story/adobe-ai-powered-pdf-end-of-an-era/)
- - [The Best Ergonomic Mouse &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)<!-- TECH:END -->
+ - [Bill Gates backs the Alzheimer&#39;s Insights AI Prize, which gives $1M to a team making AI to &quot;accelerate breakthrough discoveries from existing Alzheimer&#39;s data&quot; &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250819/p12#a250819p12)
+ - [Ayaneo’s dual-screen Android handheld is its next modernized Nintendo DS](https://www.theverge.com/news/761296/ayaneo-pocket-ds-dual-screen-handheld-android-13)
+ - [A survey of 4,446 US adults on AI: 71% are concerned AI will permanently displace large numbers of workers, 61% worry about electricity consumption, and more &lpar;Reuters&rpar;](http://www.techmeme.com/250819/p11#a250819p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
