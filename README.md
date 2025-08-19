@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [What the dog doin](http://9gag.com/gag/apR8w7b)
- - ⏩ [GREAT AMERICAN DAD\ud83c\uddfa\ud83c\uddf2\ud83c\uddfa\ud83c\uddf2](http://9gag.com/gag/a9yB0vK)
- - 👉 [England is beyond help.](http://9gag.com/gag/an7Vwgo)<!-- MEMES:END -->
+ - ⏩ [Sue her](http://9gag.com/gag/a34nrrN)
+ - 👉 [Not today, not ever](http://9gag.com/gag/a0ewqwB)<!-- MEMES:END -->
 
 ---
 
