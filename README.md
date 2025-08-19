@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to prepare for the Emotional Rescue update in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-emotional-rescue-update/)
- - [Capcom runs out of emergency glass to break with Monster Hunter Wilds, but it&#39;s going to &#39;implement a multifaceted plan&#39; to improve PC performance &#39;this winter&#39;](https://www.pcgamer.com/games/rpg/capcom-runs-out-of-emergency-glass-to-break-with-monster-hunter-wilds-but-its-going-to-implement-a-multifaceted-plan-to-improve-pc-performance-this-winter/)
- - [Softbank announces it&#39;s buying a $2 billion stake in Intel as the Trump administration reportedly considers a 10% slice of the bright blue chipmaking pie](https://www.pcgamer.com/hardware/processors/softbank-announces-its-buying-a-usd2-billion-stake-in-intel-as-the-trump-administration-reportedly-considers-a-10-percent-slice-of-the-bright-blue-chipmaking-pie/)<!-- GAME:END -->
+ - [Am I the only one who plays 99% of an RPG but doesn&#39;t finish it?](https://www.polygon.com/rpg-prcrastination-never-finish-99-percent/)
+ - [Alienware 18 Area-51 &lpar;2025&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/alienware-18-area-51-2025-review/)
+ - [While PC chassis manufacturers still favour black over every other color, at least you don&#39;t have to put up with rubbish if you fancy perfection in pink](https://www.pcgamer.com/hardware/pc-cases/while-pc-chassis-manufacturers-still-favour-black-over-every-other-color-at-least-you-dont-have-to-put-up-with-rubbish-if-you-fancy-perfection-in-pink/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
