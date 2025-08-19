@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You might soon be able to use Gemini Live on top of other apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-floating-interface-with-cards-3588757/)
- - [Survey shows 98% of Android users want at least one of these big PIN upgrades](https://www.androidauthority.com/poll-result-decoy-duress-pin-android-3588562/)
- - [Trump Mobile’s latest ads ditch Android reality for a golden iPhone fantasy](https://www.androidauthority.com/trump-mobile-gold-iphone-ads-3588761/)<!-- TECH:END -->
+ - [How to watch Gamescom Opening Night Live 2025](https://www.theverge.com/news/761027/gamescom-opening-night-live-2025-geoff-keighley-how-to-watch)
+ - [UK blinks, backs down from its Apple backdoor encryption demand](https://appleinsider.com/articles/25/08/19/uk-blinks-backs-down-from-its-apple-backdoor-encryption-demand?utm_source=rss)
+ - [The Best Cooling Sheets &lpar;2025&rpar;: Brooklinen, Slumber Cloud, Buffy](https://www.wired.com/gallery/best-cooling-sheets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
