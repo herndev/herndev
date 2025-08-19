@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - ⏩ [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
- - 👉 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)<!-- MEMES:END -->
+ - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - ⏩ [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
+ - 👉 [Fatality](http://9gag.com/gag/aRBDqQ7)<!-- MEMES:END -->
 
 ---
 
