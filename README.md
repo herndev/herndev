@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire: The Masquerade – Bloodlines 2 is the Noir Mystery Thriller I Didn’t Know I Needed in My Life](https://news.xbox.com/en-us/2025/08/19/vampire-the-masquerade-bloodlines-2-preview/)
- - [Important binge news: Fallout Season 2 will air one episode per week, instead of all at once](https://www.pcgamer.com/movies-tv/important-binge-news-fallout-season-2-will-air-one-episode-per-week-instead-of-all-at-once/)
- - [World of Tanks Heat adds splashes of Overwatch in massive new spinoff](https://www.polygon.com/world-of-tanks-heat-game-gamescom-2025/)<!-- GAME:END -->
+ - [Black Myth: Zhong Kui revealed by developer Game Science](https://www.polygon.com/black-myth-zhong-kui-gamescom-trailer/)
+ - [The new game from the makers of Delta Force looks like Hunt: Showdown moved to Silent Hill](https://www.pcgamer.com/games/fps/the-new-game-from-the-makers-of-delta-force-looks-like-hunt-showdown-moved-to-silent-hill/)
+ - [Ghost Of Tsushima‘s Grossly Underrated Multiplayer Mode Returns In Yotei](https://kotaku.com/ghost-yotei-legends-multiplayer-trailer-release-date-2000618559)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
