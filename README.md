@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: One of the biggest Google Play Store alternatives is shutting down on Android tomorrow](https://www.androidauthority.com/amazon-appstore-shut-down-psa-august-20-what-to-do-3588662/)
- - [OpenAI launches ChatGPT Go, a new India-only plan priced at Rs. 399, or ~$4.57, per month, its most affordable yet, to expand in its second-largest market &lpar;Kashish Tandon/Reuters&rpar;](http://www.techmeme.com/250819/p2#a250819p2)
- - [A federal appeals court rejects T-Mobile&#39;s bid to overturn a $92M fine for illegally sharing customer location data without consent, per a 2024 FCC ruling &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250819/p1#a250819p1)<!-- TECH:END -->
+ - [AT&amp;T Promo Code: Get Up to $300 in August](https://www.wired.com/story/att-promo-code/)
+ - [Canon Promo Codes: 10% Off | August 2025](https://www.wired.com/story/canon-promo-code/)
+ - [PSA: One of the biggest Google Play Store alternatives is shutting down on Android tomorrow](https://www.androidauthority.com/amazon-appstore-shut-down-psa-august-20-what-to-do-3588662/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
