@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fat and furious](http://9gag.com/gag/a0ew3nn)
- - ⏩ [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
- - 👉 [Not today, not ever](http://9gag.com/gag/a0ewqwB)<!-- MEMES:END -->
+ - 💣 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
+ - ⏩ [Luxurious crunchy noise](http://9gag.com/gag/aGyb5on)
+ - 👉 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)<!-- MEMES:END -->
 
 ---
 
