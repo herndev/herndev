@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is making all four iPhone 17 models in India ahead of debut, a first, as it expands to five factories to cut reliance on China for US-bound units &lpar;Bloomberg&rpar;](http://www.techmeme.com/250819/p4#a250819p4)
- - [Pixel 10 Pro XL benchmark leaks are making people mad](https://www.androidauthority.com/google-pixel-10-pro-xl-benchmark-scores-3588674/)
- - [Tim Sweeney says the UK&#39;s mobile app store regulation lags &quot;well behind&quot; other countries, and calls the CMA&#39;s iPhone sideloading decision delay a &quot;blunder&quot; &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250819/p3#a250819p3)<!-- TECH:END -->
+ - [Galaxy S26 Ultra could make spying on your screen impossible with this crazy tech](https://www.androidauthority.com/samsung-galaxy-s26-ultra-privacy-screen-3588697/)
+ - [Take Control of Your Google Search Results by Choosing the Sources You Want to See](https://www.cnet.com/tech/services-and-software/take-control-of-your-google-search-results-by-choosing-the-sources-you-want-to-see/#ftag=CAD590a51e)
+ - [Verizon’s loyalty discount mess is somehow getting worse](https://www.androidauthority.com/verizon-loyalty-discount-mess-3588709/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
