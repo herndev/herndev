@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump writes that Ukraine won\u2019t get Crimea back or be able to join NATO](http://9gag.com/gag/aVvB6my)
- - ⏩ [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
- - 👉 [Fat and furious](http://9gag.com/gag/a0ew3nn)<!-- MEMES:END -->
+ - 💣 [Technically, all debt is borrowed from the future](http://9gag.com/gag/a7oAxPw)
+ - ⏩ [Nice and out in the open](http://9gag.com/gag/a9yBwN6)
+ - 👉 [England is beyond help.](http://9gag.com/gag/an7Vwgo)<!-- MEMES:END -->
 
 ---
 
