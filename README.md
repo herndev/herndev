@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Gamescom Opening Night Live 2025](https://www.theverge.com/news/761027/gamescom-opening-night-live-2025-geoff-keighley-how-to-watch)
- - [UK blinks, backs down from its Apple backdoor encryption demand](https://appleinsider.com/articles/25/08/19/uk-blinks-backs-down-from-its-apple-backdoor-encryption-demand?utm_source=rss)
- - [The Best Cooling Sheets &lpar;2025&rpar;: Brooklinen, Slumber Cloud, Buffy](https://www.wired.com/gallery/best-cooling-sheets/)<!-- TECH:END -->
+ - [Your next movie night could glow brighter with Nanoleaf’s latest TV light strip kit](https://www.androidauthority.com/nanoleaf-4d-v2-screen-mirror-light-strip-launched-3588526/)
+ - [The AI-Powered PDF Marks the End of an Era](https://www.wired.com/story/adobe-ai-powered-pdf-end-of-an-era/)
+ - [The Best Ergonomic Mouse &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
