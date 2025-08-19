@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news from Gamescom Opening Night Live 2025](https://www.theverge.com/news/760975/gamescom-opening-night-live-2025-news-trailers)
- - [Ticket reseller sued for illegally buying over 2,000 Taylor Swift tickets](https://www.theverge.com/news/761476/taylor-swift-eras-tour-ftc-ticket-reseller-bots-lawsuit)
- - [Memo: Meta restructures Superintelligence Lab; Alexandr Wang heads TBD Lab, Robert Fergus heads FAIR, Nat Friedman heads products, Aparna Ramani heads Infra &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250819/p18#a250819p18)<!-- TECH:END -->
+ - [Meta rolls out AI-powered voice translations for creators on Facebook and Instagram globally, supporting English-Spanish translations with lip syncing &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250819/p22#a250819p22)
+ - [Robinhood, in partnership with Kalshi, launches a sports prediction market on Robinhood Derivatives, letting users trade on pro and college football games &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250819/p21#a250819p21)
+ - [Save up to $500 on MacBook Air laptops with the year&#39;s best deals](https://appleinsider.com/articles/25/08/19/save-up-to-500-on-macbook-air-laptops-with-the-years-best-deals?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
