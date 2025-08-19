@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fatality](http://9gag.com/gag/aRBDqQ7)
- - ⏩ [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
- - 👉 [How to date The Grinch](http://9gag.com/gag/axy4qMp)<!-- MEMES:END -->
+ - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
+ - ⏩ [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
+ - 👉 [Sue her](http://9gag.com/gag/a34nrrN)<!-- MEMES:END -->
 
 ---
 
