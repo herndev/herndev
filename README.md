@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini can now read your Docs aloud](https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud)
- - [This is the coolest charger I’ve seen, and it’s 25% off!](https://www.androidauthority.com/gravastar-alpha65-gan-65w-wall-charger-deal-2-3589038/)
- - [Last-minute Pixel 10 leak suggests controversial change is really happening](https://www.androidauthority.com/google-pixel-10-leak-no-physical-sim-3589062/)<!-- TECH:END -->
+ - [Our favorite robot vacuum is $550 off!](https://www.androidauthority.com/narwal-freo-z-ultra-deal-6-3589037/)
+ - [Microsoft rolls out a COPILOT function in Excel for users in the Beta Channel, letting them use text prompts to categorize data, summarize feedback, and more &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/250819/p29#a250819p29)
+ - [Could These Be the iPhone 17&#39;s New Colors We&#39;ve Been Waiting For?](https://www.cnet.com/tech/mobile/iphone-17-colors-a-surprising-hue-could-be-coming-for-pro-models/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
