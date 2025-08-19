@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
+ - 💣 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
  - ⏩ [What the dog doin](http://9gag.com/gag/apR8w7b)
- - 👉 [England is beyond help.](http://9gag.com/gag/an7Vwgo)<!-- MEMES:END -->
+ - 👉 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)<!-- MEMES:END -->
 
 ---
 
