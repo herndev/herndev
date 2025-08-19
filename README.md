@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jimmy Fallon teases ‘secret product drops’ at Google’s star-studded Pixel 10 launch event](https://www.androidauthority.com/google-pixel-10-launch-event-jimmy-fallon-3588624/)
  - [US DNI Tulsi Gabbard says the UK has agreed to drop its mandate requiring Apple to provide a backdoor for accessing users&#39; encrypted data &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/250818/p34#a250818p34)
- - [The US FTC sues Key Investment Group, operator of sites like TotalTickets.com, for skirting ticket limits to buy up and resell live event tickets at a markup &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250818/p33#a250818p33)
- - [Going camping? These awesome Anker power banks are on sale!](https://www.androidauthority.com/anker-solix-c300-dc-548-power-bank-deals-3588570/)<!-- TECH:END -->
+ - [The US FTC sues Key Investment Group, operator of sites like TotalTickets.com, for skirting ticket limits to buy up and resell live event tickets at a markup &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250818/p33#a250818p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
