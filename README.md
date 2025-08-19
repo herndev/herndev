@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iOS 26 Public Beta 4 Gets Us One Step Closer to the Final iPhone Release](https://www.cnet.com/tech/services-and-software/new-ios-26-public-beta-4-gets-us-one-step-closer-to-the-final-iphone-release/#ftag=CAD590a51e)
- - [SwitchBot K10+ review: Compact cleaning with strong suction &amp; smart navigation](https://appleinsider.com/articles/25/08/18/switchbot-k10-review-compact-cleaning-with-strong-suction-smart-navigation?utm_source=rss)
- - [The Samsung Galaxy Z Flip 7 FE is $200 off right now!](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-deal-3-3588571/)<!-- TECH:END -->
+ - [Going camping? These awesome Anker power banks are on sale!](https://www.androidauthority.com/anker-solix-c300-dc-548-power-bank-deals-3588570/)
+ - [An MIT report says 95% of GenAI pilots at companies have little to no financial impact, mainly due to a &quot;learning gap&quot; for both the tools and the companies &lpar;Sheryl Estrada/Fortune&rpar;](http://www.techmeme.com/250818/p32#a250818p32)
+ - [New iOS 26 Public Beta 4 Gets Us One Step Closer to the Final iPhone Release](https://www.cnet.com/tech/services-and-software/new-ios-26-public-beta-4-gets-us-one-step-closer-to-the-final-iphone-release/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
