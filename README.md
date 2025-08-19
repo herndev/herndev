@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [New beta firmware arrives for AirPods Pro 2, AirPods 4](https://appleinsider.com/articles/25/08/19/new-beta-firmware-arrives-for-airpods-pro-2-airpods-4?utm_source=rss)<!-- TECH:END -->
+ - [Google announced the next step in its nuclear energy plans](https://www.theverge.com/news/761809/nuclear-energy-google-ai-advanced-reactor-kairos-tva-electricity-utility)
+ - [All the news from Gamescom Opening Night Live 2025](https://www.theverge.com/news/760975/gamescom-opening-night-live-2025-news-trailers)
+ - [Deal: Save 24% on the Amazon Echo Dot](https://www.androidauthority.com/amazon-echo-dot-deal-2-3589039/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
