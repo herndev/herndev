@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
- - ⏩ [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
- - 👉 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)<!-- MEMES:END -->
+ - 💣 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
+ - ⏩ [Sue her](http://9gag.com/gag/a34nrrN)
+ - 👉 [What the dog doin](http://9gag.com/gag/apR8w7b)<!-- MEMES:END -->
 
 ---
 
