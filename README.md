@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus has announced even more Hatsune Miku-themed gaming gear, further leading me towards financial ruin](https://www.pcgamer.com/hardware/asus-has-announced-even-more-hatsune-miku-themed-gaming-gear-further-leading-me-towards-financial-ruin/)
- - [All the games coming to Game Pass in the second half of August](https://www.polygon.com/august-xbox-game-pass-additions-gears-of-war-dragon-age/)
- - [Struggling BioShock 4 Studio Taps Ex-Diablo Boss Rod Fergusson Amid Layoffs](https://kotaku.com/bioshock-4-delay-layoffs-rod-fergusson-diablo-gears-2000618449)<!-- GAME:END -->
+ - [&#39;He Is Coming&#39; quick runs are roguelite experience you might need](https://www.polygon.com/he-is-coming-roguelite-game-doesnt-waste-my-time/)
+ - [Gears Of War Creator Says It ‘Doesn’t Feel Strange’ To See It Ported To PS5](https://kotaku.com/gears-of-war-creator-cliffyb-ps5-port-thrilled-strange-xbox-return-to-gears-2000618463)
+ - [Gamescom 2025: All news, trailers, and previews in one place](https://www.polygon.com/gamescom-2025-news-trailers-previews/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
