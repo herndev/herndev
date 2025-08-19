@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First Fallout season 2 trailer reveals release date &lpar;and Deathclaws&rpar;](https://www.polygon.com/fallout-season-2-trailer-release-date-gamescom/)
- - [The First Trailer For Fallout’s Second Season Includes Mr. House And A Deathclaw](https://kotaku.com/fallout-season-2-trailer-teaser-deathclaw-new-vegas-gamescom-2000618496)
- - [There&#39;s a Sekiro anime coming to Crunchyroll so I can relive my shame of getting brutalized by Guardian Ape](https://www.pcgamer.com/movies-tv/theres-a-sekiro-anime-coming-to-crunchyroll-so-i-can-relive-my-shame-of-getting-brutalized-by-guardian-ape/)<!-- GAME:END -->
+ - [Vampire: The Masquerade – Bloodlines 2 is the Noir Mystery Thriller I Didn’t Know I Needed in My Life](https://news.xbox.com/en-us/2025/08/19/vampire-the-masquerade-bloodlines-2-preview/)
+ - [Important binge news: Fallout Season 2 will air one episode per week, instead of all at once](https://www.pcgamer.com/movies-tv/important-binge-news-fallout-season-2-will-air-one-episode-per-week-instead-of-all-at-once/)
+ - [World of Tanks Heat adds splashes of Overwatch in massive new spinoff](https://www.polygon.com/world-of-tanks-heat-game-gamescom-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
