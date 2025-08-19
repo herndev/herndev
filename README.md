@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta rolls out AI-powered voice translations for creators on Facebook and Instagram globally, supporting English-Spanish translations with lip syncing &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250819/p22#a250819p22)
- - [Robinhood, in partnership with Kalshi, launches a sports prediction market on Robinhood Derivatives, letting users trade on pro and college football games &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250819/p21#a250819p21)
- - [Save up to $500 on MacBook Air laptops with the year&#39;s best deals](https://appleinsider.com/articles/25/08/19/save-up-to-500-on-macbook-air-laptops-with-the-years-best-deals?utm_source=rss)<!-- TECH:END -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Bullish says it has received all $1.15B in capital raised from its IPO in stablecoins, including USDC, USDG, and PYUSD, marking a first for US public markets &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250819/p25#a250819p25)
+ - [Meta’s AI translation tool can dub your Instagram videos](https://www.theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
