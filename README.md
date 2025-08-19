@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Coolest Thing From Gamescom ONL Was This Wild Train Game](https://kotaku.com/denshattack-train-game-tony-hawk-anime-onl-gamescom-2025-trailer-2000618578)
- - [Black Myth: Zhong Kui revealed by developer Game Science](https://www.polygon.com/black-myth-zhong-kui-gamescom-trailer/)
- - [The new game from the makers of Delta Force looks like Hunt: Showdown moved to Silent Hill](https://www.pcgamer.com/games/fps/the-new-game-from-the-makers-of-delta-force-looks-like-hunt-showdown-moved-to-silent-hill/)<!-- GAME:END -->
+ - [Asus&#39; new monitor brings tandem OLED into the fray and promises brighter panels with a whopping 60% increased lifespan](https://www.pcgamer.com/hardware/gaming-monitors/asus-new-monitor-brings-tandem-oled-into-the-fray-and-promises-brighter-panels-with-a-whopping-60-percent-increased-lifespan/)
+ - [Microsoft employees set up encampment at company headquarters to protest ongoing partnership with Israeli military in Gaza](https://www.pcgamer.com/games/microsoft-employees-set-up-encampment-at-company-headquarters-to-protest-ongoing-partnership-with-israeli-military-in-gaza/)
+ - [Outlaws is a quirky &#39;90s wild west FPS you probably never played, so naturally it&#39;s getting the Nightdive remaster treatment later this year](https://www.pcgamer.com/games/fps/outlaws-is-a-quirky-90s-wild-west-fps-you-probably-never-played-so-naturally-its-getting-the-nightdive-remaster-treatment-later-this-year/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
