@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announced the next step in its nuclear energy plans](https://www.theverge.com/news/761809/nuclear-energy-google-ai-advanced-reactor-kairos-tva-electricity-utility)
- - [All the news from Gamescom Opening Night Live 2025](https://www.theverge.com/news/760975/gamescom-opening-night-live-2025-news-trailers)
- - [Deal: Save 24% on the Amazon Echo Dot](https://www.androidauthority.com/amazon-echo-dot-deal-2-3589039/)<!-- TECH:END -->
+ - [Google Gemini can now read your Docs aloud](https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud)
+ - [This is the coolest charger I’ve seen, and it’s 25% off!](https://www.androidauthority.com/gravastar-alpha65-gan-65w-wall-charger-deal-2-3589038/)
+ - [Last-minute Pixel 10 leak suggests controversial change is really happening](https://www.androidauthority.com/google-pixel-10-leak-no-physical-sim-3589062/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
