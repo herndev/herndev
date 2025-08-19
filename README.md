@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Coolest Thing From Gamescom ONL Was This Wild Train Game](https://kotaku.com/denshattack-train-game-tony-hawk-anime-onl-gamescom-2025-trailer-2000618578)
  - [Black Myth: Zhong Kui revealed by developer Game Science](https://www.polygon.com/black-myth-zhong-kui-gamescom-trailer/)
- - [The new game from the makers of Delta Force looks like Hunt: Showdown moved to Silent Hill](https://www.pcgamer.com/games/fps/the-new-game-from-the-makers-of-delta-force-looks-like-hunt-showdown-moved-to-silent-hill/)
- - [Ghost Of Tsushima‘s Grossly Underrated Multiplayer Mode Returns In Yotei](https://kotaku.com/ghost-yotei-legends-multiplayer-trailer-release-date-2000618559)<!-- GAME:END -->
+ - [The new game from the makers of Delta Force looks like Hunt: Showdown moved to Silent Hill](https://www.pcgamer.com/games/fps/the-new-game-from-the-makers-of-delta-force-looks-like-hunt-showdown-moved-to-silent-hill/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
