@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Not content with making three WW1 first-person shooters already, the creators of Verdun and Isonzo are now making a Gallipoli FPS](https://www.pcgamer.com/games/fps/not-content-with-making-three-ww1-first-person-shooters-already-the-creators-of-verdun-and-isonzo-are-now-making-a-gallipoli-fps/)
  - [Analyst says EA plans to milk Battlefield for everything it&#39;s worth: &#39;Their goal is three studios making Battlefield on a 3-year basis, so they can get to Battlefield annually&#39;](https://www.pcgamer.com/games/fps/analyst-says-ea-plans-to-milk-battlefield-for-everything-its-worth-their-goal-is-three-studios-making-battlefield-on-a-3-year-basis-so-they-can-get-to-battlefield-annually/)
- - [Roblox changes policies on &#39;romantic and sexual content&#39; and promises better moderation on the way as Louisiana AG repeats assertion that the platform &#39;is a breeding ground for sex predators&#39;](https://www.pcgamer.com/games/roblox-changes-policies-on-romantic-and-sexual-content-and-promises-better-moderation-on-the-way-as-louisiana-ag-repeats-assertion-that-the-platform-is-a-breeding-ground-for-sex-predators/)
- - [Dataminer casually shares alleged images of Battlefield 6&#39;s unreleased &#39;large&#39; maps to reveal how big they really are](https://www.pcgamer.com/games/fps/dataminer-casually-shares-alleged-images-of-battlefield-6s-unreleased-large-maps-to-reveal-how-big-they-really-are/)<!-- GAME:END -->
+ - [Roblox changes policies on &#39;romantic and sexual content&#39; and promises better moderation on the way as Louisiana AG repeats assertion that the platform &#39;is a breeding ground for sex predators&#39;](https://www.pcgamer.com/games/roblox-changes-policies-on-romantic-and-sexual-content-and-promises-better-moderation-on-the-way-as-louisiana-ag-repeats-assertion-that-the-platform-is-a-breeding-ground-for-sex-predators/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
