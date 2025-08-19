@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Gears of War: Reloaded, Dragon Age: The Veilguard, Void/Breaker, and More](https://news.xbox.com/en-us/2025/08/19/xbox-game-pass-august-2025-wave-2/)
- - [Deadlock is drip-feeding 6 new heroes over the next couple of weeks, and is letting players decide which ones drop first](https://www.pcgamer.com/games/moba/deadlock-is-drip-feeding-6-new-heroes-over-the-next-couple-of-weeks-and-is-letting-players-decide-which-ones-drop-first/)
- - [Returning to Returnal, one of the generation&#39;s best roguelikes](https://www.polygon.com/returnal-ps5-best-roguelike/)<!-- GAME:END -->
+ - [Roguelikes are my natural enemy and I need to understand why you all like them](https://www.polygon.com/roguelikes-appeal-why/)
+ - [The Hollow Knight: Silksong Drought Is Finally Over As Devs Tease ‘Special Announcement’](https://kotaku.com/hollow-knight-silksong-announcement-gamescom-stream-2000618437)
+ - [87% of game developers are already using AI agents and over a third use AI for creative elements like level design and dialogue according to a new Google survey](https://www.pcgamer.com/software/ai/87-percent-of-game-developers-are-already-using-ai-agents-and-over-a-third-use-ai-for-creative-elements-like-level-design-and-dialogue-according-to-a-new-google-survey/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
