@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - ⏩ [Not today, not ever](http://9gag.com/gag/a0ewqwB)
- - 👉 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)<!-- MEMES:END -->
+ - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
+ - ⏩ [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
+ - 👉 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)<!-- MEMES:END -->
 
 ---
 
