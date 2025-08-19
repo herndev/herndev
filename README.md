@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlestar Galactica: Scattered Hopes challenges you to help humanity survive](https://www.polygon.com/battlestar-galactica-scattered-hopes-gamescom/)
- - [Bubsy 4D announced at Gamescom Opening Night Live](https://www.polygon.com/bubsy-4d-announcement-gamescom/)
- - [Ghostrunner creators are back with a horror-infused alternate history of the Napoleonic wars—and the studio says it plays like a first-person soulslike](https://www.pcgamer.com/games/fps/ghostrunner-creators-are-back-with-a-horror-infused-alternate-history-of-the-napoleonic-wars-and-the-studio-says-it-plays-like-a-first-person-soulslike/)<!-- GAME:END -->
+ - [First Fallout season 2 trailer reveals release date &lpar;and Deathclaws&rpar;](https://www.polygon.com/fallout-season-2-trailer-release-date-gamescom/)
+ - [The First Trailer For Fallout’s Second Season Includes Mr. House And A Deathclaw](https://kotaku.com/fallout-season-2-trailer-teaser-deathclaw-new-vegas-gamescom-2000618496)
+ - [There&#39;s a Sekiro anime coming to Crunchyroll so I can relive my shame of getting brutalized by Guardian Ape](https://www.pcgamer.com/movies-tv/theres-a-sekiro-anime-coming-to-crunchyroll-so-i-can-relive-my-shame-of-getting-brutalized-by-guardian-ape/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
