@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Chromatic Game Boy is getting Tetris&amp;#8217; best multiplayer mode](https://www.theverge.com/news/760100/modretro-chromatic-game-boy-tetris-update-battle-mode)
- - [Functionize, which offers a cloud platform that uses AI to speed up software testing, raised a $41M Series B, bringing its total funding to $67M+ &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250819/p16#a250819p16)
- - [Get ready for Silksong’s ‘special announcement’ on Thursday](https://www.theverge.com/news/761451/hollow-knight-silksong-special-announcement-youtube)<!-- TECH:END -->
+ - [All the news from Gamescom Opening Night Live 2025](https://www.theverge.com/news/760975/gamescom-opening-night-live-2025-news-trailers)
+ - [Ticket reseller sued for illegally buying over 2,000 Taylor Swift tickets](https://www.theverge.com/news/761476/taylor-swift-eras-tour-ftc-ticket-reseller-bots-lawsuit)
+ - [Memo: Meta restructures Superintelligence Lab; Alexandr Wang heads TBD Lab, Robert Fergus heads FAIR, Nat Friedman heads products, Aparna Ramani heads Infra &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250819/p18#a250819p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
