@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;He Is Coming&#39; quick runs are roguelite experience you might need](https://www.polygon.com/he-is-coming-roguelite-game-doesnt-waste-my-time/)
- - [Gears Of War Creator Says It ‘Doesn’t Feel Strange’ To See It Ported To PS5](https://kotaku.com/gears-of-war-creator-cliffyb-ps5-port-thrilled-strange-xbox-return-to-gears-2000618463)
- - [Gamescom 2025: All news, trailers, and previews in one place](https://www.polygon.com/gamescom-2025-news-trailers-previews/)<!-- GAME:END -->
+ - [Battlestar Galactica: Scattered Hopes challenges you to help humanity survive](https://www.polygon.com/battlestar-galactica-scattered-hopes-gamescom/)
+ - [Bubsy 4D announced at Gamescom Opening Night Live](https://www.polygon.com/bubsy-4d-announcement-gamescom/)
+ - [Ghostrunner creators are back with a horror-infused alternate history of the Napoleonic wars—and the studio says it plays like a first-person soulslike](https://www.pcgamer.com/games/fps/ghostrunner-creators-are-back-with-a-horror-infused-alternate-history-of-the-napoleonic-wars-and-the-studio-says-it-plays-like-a-first-person-soulslike/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
