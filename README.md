@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s Gengar Edition headphones are now available in the US](https://www.theverge.com/news/761044/razer-pokemon-kraken-kitty-v2-wired-headphones-gengar-edition-us-availability)
- - [Higher iPhone 16 builds raise hopes for Apple&#39;s holiday season](https://appleinsider.com/articles/25/08/19/higher-iphone-16-builds-raise-hopes-for-apples-holiday-season?utm_source=rss)
- - [Labubus Are on Track to Be a Billion-Dollar Business This year](https://www.wired.com/story/labubu-pop-mart-earnings-2025/)<!-- TECH:END -->
+ - [The Chromatic Game Boy is getting Tetris&amp;#8217; best multiplayer mode](https://www.theverge.com/news/760100/modretro-chromatic-game-boy-tetris-update-battle-mode)
+ - [Functionize, which offers a cloud platform that uses AI to speed up software testing, raised a $41M Series B, bringing its total funding to $67M+ &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250819/p16#a250819p16)
+ - [Get ready for Silksong’s ‘special announcement’ on Thursday](https://www.theverge.com/news/761451/hollow-knight-silksong-special-announcement-youtube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
