@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
- - ⏩ [Sue her](http://9gag.com/gag/a34nrrN)
- - 👉 [What the dog doin](http://9gag.com/gag/apR8w7b)<!-- MEMES:END -->
+ - 💣 [What the dog doin](http://9gag.com/gag/apR8w7b)
+ - ⏩ [GREAT AMERICAN DAD\ud83c\uddfa\ud83c\uddf2\ud83c\uddfa\ud83c\uddf2](http://9gag.com/gag/a9yB0vK)
+ - 👉 [England is beyond help.](http://9gag.com/gag/an7Vwgo)<!-- MEMES:END -->
 
 ---
 
