@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Going camping? These awesome Anker power banks are on sale!](https://www.androidauthority.com/anker-solix-c300-dc-548-power-bank-deals-3588570/)
- - [An MIT report says 95% of GenAI pilots at companies have little to no financial impact, mainly due to a &quot;learning gap&quot; for both the tools and the companies &lpar;Sheryl Estrada/Fortune&rpar;](http://www.techmeme.com/250818/p32#a250818p32)
- - [New iOS 26 Public Beta 4 Gets Us One Step Closer to the Final iPhone Release](https://www.cnet.com/tech/services-and-software/new-ios-26-public-beta-4-gets-us-one-step-closer-to-the-final-iphone-release/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US DNI Tulsi Gabbard says the UK has agreed to drop its mandate requiring Apple to provide a backdoor for accessing users&#39; encrypted data &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/250818/p34#a250818p34)
+ - [The US FTC sues Key Investment Group, operator of sites like TotalTickets.com, for skirting ticket limits to buy up and resell live event tickets at a markup &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250818/p33#a250818p33)
+ - [Going camping? These awesome Anker power banks are on sale!](https://www.androidauthority.com/anker-solix-c300-dc-548-power-bank-deals-3588570/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
