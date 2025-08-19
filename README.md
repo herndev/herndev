@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the dog doin](http://9gag.com/gag/apR8w7b)
- - ⏩ [Sue her](http://9gag.com/gag/a34nrrN)
- - 👉 [Not today, not ever](http://9gag.com/gag/a0ewqwB)<!-- MEMES:END -->
+ - 💣 [Fatality](http://9gag.com/gag/aRBDqQ7)
+ - ⏩ [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
+ - 👉 [How to date The Grinch](http://9gag.com/gag/axy4qMp)<!-- MEMES:END -->
 
 ---
 
