@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - ⏩ [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)
- - 👉 [England is beyond help.](http://9gag.com/gag/an7Vwgo)<!-- MEMES:END -->
+ - ⏩ [Not today, not ever](http://9gag.com/gag/a0ewqwB)
+ - 👉 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)<!-- MEMES:END -->
 
 ---
 
