@@ -40,7 +40,7 @@
 
 <!-- TECH:START -->
  - [Sources: Apple is making all four iPhone 17 models in India ahead of debut, a first, as it expands to five factories to cut reliance on China for US-bound units &lpar;Bloomberg&rpar;](http://www.techmeme.com/250819/p4#a250819p4)
- - [Leaked Pixel 10 Pro XL benchmark scores are making people mad](https://www.androidauthority.com/google-pixel-10-pro-xl-benchmark-scores-3588674/)
+ - [Pixel 10 Pro XL benchmark leaks are making people mad](https://www.androidauthority.com/google-pixel-10-pro-xl-benchmark-scores-3588674/)
  - [Tim Sweeney says the UK&#39;s mobile app store regulation lags &quot;well behind&quot; other countries, and calls the CMA&#39;s iPhone sideloading decision delay a &quot;blunder&quot; &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250819/p3#a250819p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
