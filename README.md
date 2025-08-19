@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
- - ⏩ [What the dog doin](http://9gag.com/gag/apR8w7b)
- - 👉 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)<!-- MEMES:END -->
+ - 💣 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
+ - ⏩ [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
+ - 👉 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)<!-- MEMES:END -->
 
 ---
 
