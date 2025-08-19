@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Databricks is finalizing a funding round that would value it at $100B, up 61% from December 2024, co-led by Thrive Capital; a16z is set to participate &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250819/p6#a250819p6)
- - [Sources: Masayoshi Son met Lip-Bu Tan to discuss SoftBank acquiring Intel&#39;s faltering foundry business in the weeks before announcing SoftBank&#39;s $2B investment &lpar;Financial Times&rpar;](http://www.techmeme.com/250819/p5#a250819p5)
- - [ChatGPT now has a subscription plan that costs less than $5/month](https://www.androidauthority.com/chatgpt-go-3588739/)<!-- TECH:END -->
+ - [You might soon be able to use Gemini Live on top of other apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-floating-interface-with-cards-3588757/)
+ - [Survey shows 98% of Android users want at least one of these big PIN upgrades](https://www.androidauthority.com/poll-result-decoy-duress-pin-android-3588562/)
+ - [Trump Mobile’s latest ads ditch Android reality for a golden iPhone fantasy](https://www.androidauthority.com/trump-mobile-gold-iphone-ads-3588761/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
