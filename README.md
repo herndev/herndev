@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
- - ⏩ [What the dog doin](http://9gag.com/gag/apR8w7b)
- - 👉 [Nope](http://9gag.com/gag/a7oAgmz)<!-- MEMES:END -->
+ - 💣 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
+ - ⏩ [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)
+ - 👉 [England is beyond help.](http://9gag.com/gag/an7Vwgo)<!-- MEMES:END -->
 
 ---
 
