@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - ⏩ [Luxurious crunchy noise](http://9gag.com/gag/aGyb5on)
+ - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
+ - ⏩ [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
  - 👉 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)<!-- MEMES:END -->
 
 ---
