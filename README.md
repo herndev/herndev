@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roguelikes are my natural enemy and I need to understand why you all like them](https://www.polygon.com/roguelikes-appeal-why/)
- - [The Hollow Knight: Silksong Drought Is Finally Over As Devs Tease ‘Special Announcement’](https://kotaku.com/hollow-knight-silksong-announcement-gamescom-stream-2000618437)
- - [87% of game developers are already using AI agents and over a third use AI for creative elements like level design and dialogue according to a new Google survey](https://www.pcgamer.com/software/ai/87-percent-of-game-developers-are-already-using-ai-agents-and-over-a-third-use-ai-for-creative-elements-like-level-design-and-dialogue-according-to-a-new-google-survey/)<!-- GAME:END -->
+ - [Asus has announced even more Hatsune Miku-themed gaming gear, further leading me towards financial ruin](https://www.pcgamer.com/hardware/asus-has-announced-even-more-hatsune-miku-themed-gaming-gear-further-leading-me-towards-financial-ruin/)
+ - [All the games coming to Game Pass in the second half of August](https://www.polygon.com/august-xbox-game-pass-additions-gears-of-war-dragon-age/)
+ - [Struggling BioShock 4 Studio Taps Ex-Diablo Boss Rod Fergusson Amid Layoffs](https://kotaku.com/bioshock-4-delay-layoffs-rod-fergusson-diablo-gears-2000618449)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
