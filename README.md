@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blockchain-based lender Figure files for a US IPO, reporting H1 revenue up 22.4% YoY to $191M and a profit of $29M, compared with a loss of $13M in H1 2024 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250818/p28#a250818p28)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 19, #1522](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-19-1522/#ftag=CAD590a51e)
- - [Best Surge Protectors of 2025: I Tested 16 Surge Protectors to Find the Best](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SwitchBot K10+ review: Compact cleaning with strong suction &amp; smart navigation](https://appleinsider.com/articles/25/08/18/switchbot-k10-review-compact-cleaning-with-strong-suction-smart-navigation?utm_source=rss)
+ - [The Samsung Galaxy Z Flip 7 FE is $200 off right now!](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-deal-3-3588571/)
+ - [Nvidia debuts the Nemotron-Nano-9B-v2, a hybrid Mamba-transformer model, saying it achieves scores comparable to or better than Qwen3-8B on reasoning benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250818/p31#a250818p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
