@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [LG Ultragear 45GX950A gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-45gx950a-gaming-monitor-review/)
  - [Today&#39;s Wordle clues, hints and answer for August 19 &lpar;#1522&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-19-2025/)
- - [15 attempts in, I actually love that Elden Ring Nightreign&#39;s Everdark Libra is the first FromSoftware boss who&#39;s harder to beat in co-op than solo](https://www.pcgamer.com/games/action/15-attempts-in-i-actually-love-that-elden-ring-nightreigns-everdark-libra-is-the-first-fromsoftware-boss-whos-harder-to-beat-in-co-op-than-solo/)
- - [Not content with making three WW1 first-person shooters already, the creators of Verdun and Isonzo are now making a Gallipoli FPS](https://www.pcgamer.com/games/fps/not-content-with-making-three-ww1-first-person-shooters-already-the-creators-of-verdun-and-isonzo-are-now-making-a-gallipoli-fps/)<!-- GAME:END -->
+ - [15 attempts in, I actually love that Elden Ring Nightreign&#39;s Everdark Libra is the first FromSoftware boss who&#39;s harder to beat in co-op than solo](https://www.pcgamer.com/games/action/15-attempts-in-i-actually-love-that-elden-ring-nightreigns-everdark-libra-is-the-first-fromsoftware-boss-whos-harder-to-beat-in-co-op-than-solo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
