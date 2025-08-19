@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Bullish says it has received all $1.15B in capital raised from its IPO in stablecoins, including USDC, USDG, and PYUSD, marking a first for US public markets &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250819/p25#a250819p25)
- - [Meta’s AI translation tool can dub your Instagram videos](https://www.theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels)<!-- TECH:END -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [New beta firmware arrives for AirPods Pro 2, AirPods 4](https://appleinsider.com/articles/25/08/19/new-beta-firmware-arrives-for-airpods-pro-2-airpods-4?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
