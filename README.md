@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)
- - ⏩ [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 👉 [Sportsmanship.](http://9gag.com/gag/aByoBGZ)<!-- MEMES:END -->
+ - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
+ - ⏩ [Fatality](http://9gag.com/gag/aRBDqQ7)
+ - 👉 [Weapon Training](http://9gag.com/gag/aMVyoV1)<!-- MEMES:END -->
 
 ---
 
