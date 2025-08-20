@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-20/#ftag=CAD590a51e)
- - [Dubious leak backtracks on iPhone 17 &#39;Liquid Silicone&#39; case design](https://appleinsider.com/articles/25/08/18/dubious-leak-backtracks-on-iphone-17-liquid-silicone-case-design?utm_source=rss)
- - [Save up to $500 on MacBook Pros with these exclusive flash deals](https://appleinsider.com/articles/25/08/20/save-up-to-500-on-macbook-pros-with-these-exclusive-flash-deals?utm_source=rss)<!-- TECH:END -->
+ - [Shares of SoftBank plunged as much as 9.17% on Wednesday, as tech stocks in Japan, South Korea, Taiwan and Hong Kong fall after US tech stocks dropped overnight &lpar;Amala Balakrishner/CNBC&rpar;](http://www.techmeme.com/250819/p36#a250819p36)
+ - [The Nasdaq fell 1.4%, with Nvidia down 3.5%, Palantir down 9.4% and Arm down 5%, with AI enthusiasm cooling after a critical MIT report and warning from Altman &lpar;Financial Times&rpar;](http://www.techmeme.com/250819/p35#a250819p35)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-20/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
