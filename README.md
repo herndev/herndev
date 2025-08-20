@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea’s most Ikea product ever](https://www.theverge.com/news/762106/ikea-gustaf-westman-meatball-plate-collection)
- - [Analysis: Intel&#39;s stock, up 28% in August, is trading at a 53 forward P/E ratio, its highest since early 2002, reflecting its declining profits in recent years &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/250820/p7#a250820p7)
- - [Sources: US Treasury Secretary Scott Bessent expects stablecoins to drive demand for Treasuries, as talks with Tether and Circle help inform issuance decisions &lpar;Financial Times&rpar;](http://www.techmeme.com/250820/p6#a250820p6)<!-- TECH:END -->
+ - [Baidu reports Q2 revenue down 4% YoY to ~$4.6B, slightly below est., and online ad revenue down 15% YoY to ~$2.3B, as China&#39;s ad market remains weak &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250820/p9#a250820p9)
+ - [Prices leak for the rest of Google’s new Pixel products](https://www.theverge.com/news/762115/google-pixel-10-watch-4-buds-2a-price-leak)
+ - [Kick says it is &quot;urgently reviewing&quot; the circumstances of the death of a French livestreamer who was subjected to violence and sleep deprivation during streams &lpar;Tom McArthur/BBC&rpar;](http://www.techmeme.com/250820/p8#a250820p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
