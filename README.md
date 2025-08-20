@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She has a boyfriend](http://9gag.com/gag/an7VoVz)
- - ⏩ [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 👉 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)<!-- MEMES:END -->
+ - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
+ - ⏩ [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
+ - 👉 [The real main course](http://9gag.com/gag/a87zR16)<!-- MEMES:END -->
 
 ---
 
