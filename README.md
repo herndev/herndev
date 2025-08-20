@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s Pixel 10 launch day! What are you most excited to see?](https://www.androidauthority.com/pixel-10-launch-day-open-thread-3589251/)
- - [Hyperkin’s DualSense-inspired Xbox controller is finally launching this fall](https://www.theverge.com/news/761638/hyperkin-competitor-xbox-wired-controller-sony-ps5-dualsense)
- - [Butterfly Effect, the startup behind Manus and an earlier product called Monica, says its annual revenue run rate has hit $90M, with Manus contributing the most &lpar;Bloomberg&rpar;](http://www.techmeme.com/250820/p5#a250820p5)<!-- TECH:END -->
+ - [Ikea’s most Ikea product ever](https://www.theverge.com/news/762106/ikea-gustaf-westman-meatball-plate-collection)
+ - [Analysis: Intel&#39;s stock, up 28% in August, is trading at a 53 forward P/E ratio, its highest since early 2002, reflecting its declining profits in recent years &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/250820/p7#a250820p7)
+ - [Sources: US Treasury Secretary Scott Bessent expects stablecoins to drive demand for Treasuries, as talks with Tether and Circle help inform issuance decisions &lpar;Financial Times&rpar;](http://www.techmeme.com/250820/p6#a250820p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
