@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)
- - ⏩ [Lieutenant Kolesnikov Alexey graduated in December 2024, went on his first combat mission on 6 August and was dispatched in Vasylivka, Ukraine on 10 August 2025. Lifespan: 4 days.](http://9gag.com/gag/a4PVyV6)
- - 👉 [Nice accuracy](http://9gag.com/gag/a34nO9N)<!-- MEMES:END -->
+ - 💣 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
+ - ⏩ [Nice accuracy](http://9gag.com/gag/a34nO9N)
+ - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
 
 ---
 
