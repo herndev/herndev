@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
- - ⏩ [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
- - 👉 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)<!-- MEMES:END -->
+ - 💣 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)
+ - ⏩ [How to vandalize a vandalism without much effort.](http://9gag.com/gag/a7oAQn2)
+ - 👉 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)<!-- MEMES:END -->
 
 ---
 
