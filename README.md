@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Awkward](http://9gag.com/gag/aMVyLxG)
- - ⏩ [Good to know, I guess](http://9gag.com/gag/avymKZq)
+ - 💣 [Better show it all to be sure](http://9gag.com/gag/an7VPzn)
+ - ⏩ [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)
  - 👉 [Always My favourite Spiderman](http://9gag.com/gag/adBbDbM)<!-- MEMES:END -->
 
 ---
