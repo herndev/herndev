@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ricoh’s GR IV launches in September for a much steeper price than its predecessor](https://www.theverge.com/news/762848/ricoh-gr-iv-camera-gf2-flash-launch-price-specs)
- - [Google&amp;#8217;s Gemini Live AI assistant will show you what it&amp;#8217;s talking about](https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update)
- - [The Made by Google event felt like being sucked into an episode of Wandavision](https://www.theverge.com/analysis/762891/made-by-google-pixel-10-jimmy-fallon)<!-- TECH:END -->
+ - [Android finally lets you control your Pixel phone’s flashlight brightness](https://www.androidauthority.com/android-update-flashlight-brightness-3589728/)
+ - [Masimo sues feds to stop Apple Watch pulse oximetry restoration](https://appleinsider.com/articles/25/08/20/masimo-was-last-to-learn-about-blood-oxygen-sensing-returning-to-apple-watch?utm_source=rss)
+ - [Today is your last chance to grab a PS5 before Sony’s price hikes go into effect](https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
