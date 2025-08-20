@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - ⏩ [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)
+ - 💣 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)
+ - ⏩ [Zero compassion](http://9gag.com/gag/aoyDvPA)
  - 👉 [Sportsmanship.](http://9gag.com/gag/aByoBGZ)<!-- MEMES:END -->
 
 ---
