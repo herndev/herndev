@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok&#39;s &quot;share&quot; button generates a unique URL that makes private chats searchable on Google, Bing, and DuckDuckGo; Google has indexed 370K+ Grok conversations &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250820/p13#a250820p13)
- - [9 Best Planners of 2025: Weekly, Daily, and Monthly](https://www.wired.com/story/best-paper-planners/)
- - [Miss your 3DS XL? You need to see this dual-screened Android handheld &lpar;Update: Full specs&rpar;](https://www.androidauthority.com/ayn-thor-screen-size-3589297/)<!-- TECH:END -->
+ - [Ben Stiller will not be directing any &#39;Severance&#39; season 3 episodes](https://appleinsider.com/articles/25/08/20/ben-stiller-will-not-be-directing-any-severance-season-3-episodes?utm_source=rss)
+ - [The Best Cold-Plunge Pools in 2025—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)
+ - [South Korea&#39;s Upstage, which offers AI document intelligence tools, raised a $45M Series B bridge led by the KDB, Amazon, and AMD, after a $72M Series B in 2024 &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250820/p16#a250820p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
