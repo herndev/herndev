@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
- - ⏩ [Title](http://9gag.com/gag/amonZej)
- - 👉 [The real main course](http://9gag.com/gag/a87zR16)<!-- MEMES:END -->
+ - 💣 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
+ - ⏩ [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
+ - 👉 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)<!-- MEMES:END -->
 
 ---
 
