@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SanDisk Creator Phone SSD review: Colorful iPhone MagSafe SSD for videographers](https://appleinsider.com/articles/25/08/20/sandisk-creator-phone-ssd-review-colorful-iphone-magsafe-ssd-for-videographers?utm_source=rss)
- - [Firecrawl, which offers an open-source web crawler for developers and AI agents, raised a $14.5M Series A led by Nexus Venture Partners &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250819/p32#a250819p32)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [The White House just joined TikTok](https://www.theverge.com/politics/762031/trump-white-house-tiktok-account)
+ - [Apple may back out of MLB entirely as NBC closes in on &#39;Sunday Night Baseball&#39; rights](https://appleinsider.com/articles/25/08/20/apple-may-back-out-of-mlb-entirely-as-nbc-closes-in-on-sunday-night-baseball-rights?utm_source=rss)
+ - [A look at Justin Sun&#39;s lawsuit against Bloomberg for publishing his holdings, which he claims he provided confidentially to qualify for its Billionaires Index &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250819/p33#a250819p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
