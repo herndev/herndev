@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)
- - ⏩ [How to vandalize a vandalism without much effort.](http://9gag.com/gag/a7oAQn2)
- - 👉 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)<!-- MEMES:END -->
+ - 💣 [What in hell happened here?](http://9gag.com/gag/a5QD4QL)
+ - ⏩ [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - 👉 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)<!-- MEMES:END -->
 
 ---
 
