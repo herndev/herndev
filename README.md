@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini for Home is Google’s biggest smart home play in years](https://www.theverge.com/news/762370/google-announces-gemini-for-home-nest-smart-speakers-voice-assistant)
- - [A livestream of the Made by Google 2025 event &lpar;Made by Google on YouTube&rpar;](http://www.techmeme.com/250820/p39#a250820p39)
- - [Pixel 10 series get a Gemini Nano-powered Journal app, music creation feature for recorder, NotebookLM integration for screenshots, Gboard Writing Tools, more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250820/p38#a250820p38)<!-- TECH:END -->
+ - [Google Store is offering two free years of data for Pixel Watch 4 LTE pre-orders](https://www.androidauthority.com/pixel-watch-4-google-store-pre-order-3589572/)
+ - [Pixel 10 Pro phones can now take 50MP portrait mode shots, with a catch](https://www.androidauthority.com/google-pixel-10-pro-50mp-portraits-3589302/)
+ - [Today only: Rakuten is offering $80 cash back for new Visible customers](https://www.androidauthority.com/rakuten-visible-3589507/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
