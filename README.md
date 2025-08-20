@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TechWoven leaks bolstered by questionable packaging shots](https://appleinsider.com/articles/25/08/20/techwoven-leaks-bolstered-by-questionable-packaging-shots?utm_source=rss)
- - [Google hires NBA star Stephen Curry as a &quot;performance advisor&quot; for its Health, Pixel, and Cloud products, including testing Fitbit&#39;s new personal health coach &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250820/p22#a250820p22)
- - [Arkansas Hosts the Planet’s Only Public Diamond Mine](https://www.wired.com/story/arkansas-hosts-the-planets-only-public-diamond-mine/)<!-- TECH:END -->
+ - [The Pixel 10 phones go all-in on Qi2 with Pixelsnap, but one model’s leading the pack](https://www.androidauthority.com/google-pixel-10-qi2-pixelsnap-accessories-3586593/)
+ - [This is the chip powering the new Google Pixel Watch 4](https://www.androidauthority.com/snapdragon-w5-gen-2-announced-3587251/)
+ - [No time for voicemails? This Pixel 10 feature has you covered](https://www.androidauthority.com/pixel-10-take-a-message-3589453/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
