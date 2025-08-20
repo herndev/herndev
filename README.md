@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our favorite robot vacuum is $550 off!](https://www.androidauthority.com/narwal-freo-z-ultra-deal-6-3589037/)
- - [Microsoft rolls out a COPILOT function in Excel for users in the Beta Channel, letting them use text prompts to categorize data, summarize feedback, and more &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/250819/p29#a250819p29)
- - [Could These Be the iPhone 17&#39;s New Colors We&#39;ve Been Waiting For?](https://www.cnet.com/tech/mobile/iphone-17-colors-a-surprising-hue-could-be-coming-for-pro-models/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SanDisk Creator Phone SSD review: Colorful iPhone MagSafe SSD for videographers](https://appleinsider.com/articles/25/08/20/sandisk-creator-phone-ssd-review-colorful-iphone-magsafe-ssd-for-videographers?utm_source=rss)
+ - [Firecrawl, which offers an open-source web crawler for developers and AI agents, raised a $14.5M Series A led by Nexus Venture Partners &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250819/p32#a250819p32)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
