@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Asus just grabbed the fastest OLED crown with this 540/720 Hz dual mode beast of a monitor](https://www.pcgamer.com/hardware/gaming-monitors/asus-just-grabbed-the-fastest-oled-crown-with-this-540-720-hz-dual-mode-beast-of-a-monitor/)
  - [Asus&#39; new monitor brings tandem OLED into the fray and promises brighter panels with a whopping 60% increased lifespan](https://www.pcgamer.com/hardware/gaming-monitors/asus-new-monitor-brings-tandem-oled-into-the-fray-and-promises-brighter-panels-with-a-whopping-60-percent-increased-lifespan/)
- - [Microsoft employees set up encampment at company headquarters to protest ongoing partnership with Israeli military in Gaza](https://www.pcgamer.com/games/microsoft-employees-set-up-encampment-at-company-headquarters-to-protest-ongoing-partnership-with-israeli-military-in-gaza/)
- - [Outlaws is a quirky &#39;90s wild west FPS you probably never played, so naturally it&#39;s getting the Nightdive remaster treatment later this year](https://www.pcgamer.com/games/fps/outlaws-is-a-quirky-90s-wild-west-fps-you-probably-never-played-so-naturally-its-getting-the-nightdive-remaster-treatment-later-this-year/)<!-- GAME:END -->
+ - [Microsoft employees set up encampment at company headquarters to protest ongoing partnership with Israeli military in Gaza](https://www.pcgamer.com/games/microsoft-employees-set-up-encampment-at-company-headquarters-to-protest-ongoing-partnership-with-israeli-military-in-gaza/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
