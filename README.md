@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)
- - ⏩ [U-Scooter](http://9gag.com/gag/axy4qjL)
- - 👉 [Riding the wave like a boss](http://9gag.com/gag/aAyZ5L9)<!-- MEMES:END -->
+ - 💣 [Awkward](http://9gag.com/gag/aMVyLxG)
+ - ⏩ [Good to know, I guess](http://9gag.com/gag/avymKZq)
+ - 👉 [Always My favourite Spiderman](http://9gag.com/gag/adBbDbM)<!-- MEMES:END -->
 
 ---
 
