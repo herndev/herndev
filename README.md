@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
- - ⏩ [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
+ - 💣 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
+ - ⏩ [Always My favourite Spiderman](http://9gag.com/gag/adBbDbM)
+ - 👉 [Nice accuracy](http://9gag.com/gag/a34nO9N)<!-- MEMES:END -->
 
 ---
 
