@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Made by Google: How to watch the Pixel 10 launch](https://www.theverge.com/news/762138/made-by-google-how-to-watch-pixel-10-watch-4-buds-2a)
- - [How DOGE Set Up a Shadow X Account for a Government Agency](https://www.wired.com/story/how-doge-set-up-a-shadow-x-account-for-a-government-agency/)
- - [I Went to an AI Film Festival Screening and Left With More Questions Than Answers](https://www.wired.com/story/cream-of-the-slop-an-ai-film-festival-screening-left-me-with-more-questions-than-answers/)<!-- TECH:END -->
+ - [Grok&#39;s &quot;share&quot; button generates a unique URL that makes private chats searchable on Google, Bing, and DuckDuckGo; Google has indexed 370K+ Grok conversations &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250820/p13#a250820p13)
+ - [9 Best Planners of 2025: Weekly, Daily, and Monthly](https://www.wired.com/story/best-paper-planners/)
+ - [Miss your 3DS XL? You need to see this dual-screened Android handheld &lpar;Update: Full specs&rpar;](https://www.androidauthority.com/ayn-thor-screen-size-3589297/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
