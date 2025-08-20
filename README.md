@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu reports Q2 revenue down 4% YoY to ~$4.6B, slightly below est., and online ad revenue down 15% YoY to ~$2.3B, as China&#39;s ad market remains weak &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250820/p9#a250820p9)
- - [Prices leak for the rest of Google’s new Pixel products](https://www.theverge.com/news/762115/google-pixel-10-watch-4-buds-2a-price-leak)
- - [Kick says it is &quot;urgently reviewing&quot; the circumstances of the death of a French livestreamer who was subjected to violence and sleep deprivation during streams &lpar;Tom McArthur/BBC&rpar;](http://www.techmeme.com/250820/p8#a250820p8)<!-- TECH:END -->
+ - [Made by Google: How to watch the Pixel 10 launch](https://www.theverge.com/news/762138/made-by-google-how-to-watch-pixel-10-watch-4-buds-2a)
+ - [How DOGE Set Up a Shadow X Account for a Government Agency](https://www.wired.com/story/how-doge-set-up-a-shadow-x-account-for-a-government-agency/)
+ - [I Went to an AI Film Festival Screening and Left With More Questions Than Answers](https://www.wired.com/story/cream-of-the-slop-an-ai-film-festival-screening-left-me-with-more-questions-than-answers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
