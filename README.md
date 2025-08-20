@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analogue 3D gets yet another delay to later in 2025](https://www.theverge.com/news/762883/analogue-3d-delay-q4-2025)
- - [Qualcomm unveils the Snapdragon W5+ Gen 2 and W5 Gen 2 for wearables, with a new satellite messaging feature, improved GPS accuracy, better efficiency, and more &lpar;Michael L Hicks/Android Central&rpar;](http://www.techmeme.com/250820/p48#a250820p48)
- - [I’d rather get the Google Pixel 9 Pro Fold at this record-low price than the new version!](https://www.androidauthority.com/google-pixel-9-pro-fold-deal-3-3589655/)<!-- TECH:END -->
+ - [Amazon could shake up the tablet market with a higher-end model running real Android](https://www.androidauthority.com/amazon-kittyhawk-android-tablet-3589658/)
+ - [Google is expanding a key anti-theft feature to make your apps more secure](https://www.androidauthority.com/identity-check-expanded-app-support-3589693/)
+ - [Microsoft and the NFL extend their partnership to bring real-time game data and analysis to coaches and players using Microsoft Copilot and Azure AI &lpar;Ali McCadden/CNBC&rpar;](http://www.techmeme.com/250820/p50#a250820p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
