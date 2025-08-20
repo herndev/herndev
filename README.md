@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Keeper’s First Extended Gameplay Shows Us an Ever-Changing Adventure](https://news.xbox.com/en-us/2025/08/20/keeper-gameplay-preview-gamescom/)
- - [If you&#39;ve ever craved the perfect combination of vibes from Puyo Puyo Tetris and Rhythm Heaven, do I have the game for you](https://www.pcgamer.com/games/rhythm/if-youve-ever-craved-the-perfect-combination-of-vibes-from-puyo-puyo-tetris-and-rhythm-heaven-do-i-have-the-game-for-you/)
- - [Xbox PC Gaming Handheld Is Out In October, But Microsoft Delays Revealing The Price](https://kotaku.com/rog-xbox-ally-pc-gaming-heldheld-release-date-price-2000618852)<!-- GAME:END -->
+ - [You Can Now Sign Up For The Seven Deadly Sins: Origin’s Closed Beta Test Following Gamescom ONL Trailer Reveal](https://www.polygon.com/ad-content-the-seven-deadly-sins-origins-closed-beta-test-gamescom-onl-trailer/)
+ - [James Gunn&#39;s DCU will go the opposite route of the MCU](https://www.polygon.com/james-gunn-interview-dcu-different-mcu-multiverse-mistake/)
+ - [Sony Raising Price On PS5 Consoles In America Tomorrow](https://kotaku.com/ps5-console-price-increase-sony-america-august-21-2000618873)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
