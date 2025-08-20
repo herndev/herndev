@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US Commerce Secretary Howard Lutnick is exploring government equity stakes in return for CHIPS Act funding from Micron, TSMC, Samsung, and others &lpar;Reuters&rpar;](http://www.techmeme.com/250820/p2#a250820p2)
- - [EliseAI, which provides AI tools for healthcare and housing industries, raised a $250M Series E led by a16z, doubling its valuation to $2.2B from August 2024 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250820/p1#a250820p1)
- - [Shares of SoftBank plunged as much as 9.17% on Wednesday, as tech stocks in Japan, South Korea, Taiwan and Hong Kong fall after US tech stocks dropped overnight &lpar;Amala Balakrishner/CNBC&rpar;](http://www.techmeme.com/250819/p36#a250819p36)<!-- TECH:END -->
+ - [Butterfly Effect, the startup behind Manus and an earlier product called Monica, says its annual revenue run rate has hit $90M, with Manus contributing the most &lpar;Bloomberg&rpar;](http://www.techmeme.com/250820/p5#a250820p5)
+ - [PE firm Advent International agrees to acquire U-blox, a SIX Swiss Exchange-listed wireless and positioning chipmaker, for about $1.3B via public tender offer &lpar;Andrea Figueras/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p4#a250820p4)
+ - [Verizon-powered prepaid brands just got a lot more travel-friendly](https://www.androidauthority.com/verizon-simple-mobile-total-wireless-international-prepaid-plans-3589102/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
