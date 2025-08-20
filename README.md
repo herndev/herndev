@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House just joined TikTok](https://www.theverge.com/politics/762031/trump-white-house-tiktok-account)
- - [Apple may back out of MLB entirely as NBC closes in on &#39;Sunday Night Baseball&#39; rights](https://appleinsider.com/articles/25/08/20/apple-may-back-out-of-mlb-entirely-as-nbc-closes-in-on-sunday-night-baseball-rights?utm_source=rss)
- - [A look at Justin Sun&#39;s lawsuit against Bloomberg for publishing his holdings, which he claims he provided confidentially to qualify for its Billionaires Index &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250819/p33#a250819p33)<!-- TECH:END -->
+ - [Dubious leak backtracks on iPhone 17 &#39;Liquid Silicone&#39; case design](https://appleinsider.com/articles/25/08/18/dubious-leak-backtracks-on-iphone-17-liquid-silicone-case-design?utm_source=rss)
+ - [Save up to $500 on MacBook Pros with these exclusive flash deals](https://appleinsider.com/articles/25/08/20/save-up-to-500-on-macbook-pros-with-these-exclusive-flash-deals?utm_source=rss)
+ - [Vantage Data Centers plans to spend $25B+ to build a 1.4 GW data center campus in Shackelford County, Texas, the largest in its global portfolio &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250819/p34#a250819p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
