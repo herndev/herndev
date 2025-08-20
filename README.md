@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard Comes to EA Play August 28](https://news.xbox.com/en-us/2025/08/20/dragon-age-the-veilguard-ea-play-game-pass/)
- - [Masterpiece Shin Godzilla gets a black-and-white U.S. re-release](https://www.polygon.com/shin-godzilla-black-and-white-release/)
- - [Trump Take Game](https://kotaku.com/ps5-gta-6-price-switch-2-trump-tariff-2000618881)<!-- GAME:END -->
+ - [If EA won&#39;t make another Battlefield Vietnam, Hell Let Loose: Vietnam is here to pick up the slack](https://www.pcgamer.com/games/fps/if-ea-wont-make-another-battlefield-vietnam-hell-let-loose-vietnam-is-here-to-pick-up-the-slack/)
+ - [All Shadow Briefing locations in Fortnite Chapter 6 Season 4](https://www.polygon.com/fortnite-guide/505991/shadow-briefing-locations-rewards/)
+ - [Hyper Light Breaker has shadow dropped a new update with floating islands, difficulty modifiers, a beefy new tank character, and a challenging duo boss that&#39;s &#39;technically 4 bosses&#39; depending on what order you beat them in](https://www.pcgamer.com/games/roguelike/hyper-light-breaker-has-shadow-dropped-a-new-update-with-floating-islands-difficulty-modifiers-a-beefy-new-tank-character-and-a-challenging-duo-boss-thats-technically-4-bosses-depending-on-what-order-you-beat-them-in/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
