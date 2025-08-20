@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon plans a major revamp of its Fire tablets and is set to release a higher-end Android tablet as soon as 2026, a first after using forked Android &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250820/p19#a250820p19)
- - [Microsoft and Asus’ new Xbox Ally handhelds launch on October 16th](https://www.theverge.com/news/762116/microsoft-asus-xbox-ally-handheld-release-date-compatibility)
- - [NYC-based Bluefish Labs, which analyzes prompt responses for large brands to understand how LLMs answer consumer questions, raised a $20M Series A led by NEA &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250820/p18#a250820p18)<!-- TECH:END -->
+ - [TechWoven leaks bolstered by questionable packaging shots](https://appleinsider.com/articles/25/08/20/techwoven-leaks-bolstered-by-questionable-packaging-shots?utm_source=rss)
+ - [Google hires NBA star Stephen Curry as a &quot;performance advisor&quot; for its Health, Pixel, and Cloud products, including testing Fitbit&#39;s new personal health coach &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250820/p22#a250820p22)
+ - [Arkansas Hosts the Planet’s Only Public Diamond Mine](https://www.wired.com/story/arkansas-hosts-the-planets-only-public-diamond-mine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
