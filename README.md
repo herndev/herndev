@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Voyagers tests the bounds of your imagination — and your friendship](https://www.polygon.com/lego-voyagers-preview-impressions/)
- - [Call Of Duty Dev Explains How AI Slop Gets Into The Game](https://kotaku.com/black-ops-7-generative-ai-call-duty-gamescom-2025-slop-2000618833)
- - [Mega-Evolved Pokémon Are Even Appearing In Cuddly Form](https://kotaku.com/mega-evolved-pokemon-plush-gengar-gardevoir-2000618808)<!-- GAME:END -->
+ - [Hear me out, the Alien: Earth eyeball monster is actually kind of cute](https://www.polygon.com/alien-earth-episode-3-eyeball-monster-species-64/)
+ - [ROG Xbox Ally release date revealed](https://www.polygon.com/rog-xbox-ally-x-handheld-release-date/)
+ - [&#39;To put it bluntly, it was copying others&#39;: Former Dragon Quest producer says he left Square Enix because the developer was too focused on making &#39;safe&#39; games](https://www.pcgamer.com/games/rpg/to-put-it-bluntly-it-was-copying-others-former-dragon-quest-producer-says-he-left-square-enix-because-the-developer-was-too-focused-on-making-safe-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
