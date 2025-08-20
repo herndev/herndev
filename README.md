@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hollow Knight: Silksong – Yes, We’ve Finally Played It](https://news.xbox.com/en-us/2025/08/20/hollow-knight-silksong-hands-on-demo-preview/)
  - [Kirby Air Riders preview: nostalgic thrills fuel new Switch 2 game](https://www.polygon.com/kirby-air-riders-preview-impressions-hands-on-nintendo-switch-2/)
- - [I&#39;ve played a few hours of Dawn of War 4, and it might just be the true sequel to the original game that we&#39;ve been waiting for](https://www.pcgamer.com/games/strategy/ive-played-a-few-hours-of-dawn-of-war-4-and-it-might-just-be-the-true-sequel-to-the-original-game-that-weve-been-waiting-for/)
- - [Today&#39;s Wordle clues, hints and answer for August 20 &lpar;#1523&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-20-2025/)<!-- GAME:END -->
+ - [I&#39;ve played a few hours of Dawn of War 4, and it might just be the true sequel to the original game that we&#39;ve been waiting for](https://www.pcgamer.com/games/strategy/ive-played-a-few-hours-of-dawn-of-war-4-and-it-might-just-be-the-true-sequel-to-the-original-game-that-weve-been-waiting-for/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
