@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
- - ⏩ [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
- - 👉 [Weapon Training](http://9gag.com/gag/aMVyoV1)<!-- MEMES:END -->
+ - 💣 [The real main course](http://9gag.com/gag/a87zR16)
+ - ⏩ [Weapon Training](http://9gag.com/gag/aMVyoV1)
+ - 👉 [Raughs](http://9gag.com/gag/a0ewrDQ)<!-- MEMES:END -->
 
 ---
 
