@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Announcing The PC Gamer Streamer Showdown, broadcasting Sept 9-12](https://www.pcgamer.com/gaming-industry/events-conferences/announcing-the-pc-gamer-streamer-showdown-broadcasting-sept-9-12/)
- - [MSI MPG CoreLiquid P13 360 review](https://www.pcgamer.com/hardware/cooling/msi-mpg-coreliquid-p13-360-review/)
- - [When is a machine not a machine? Alien: Earth&#39;s best character gets even weirder](https://www.polygon.com/when-is-a-machine-not-a-machine-meaning-alien-earth/)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard Comes to EA Play August 28](https://news.xbox.com/en-us/2025/08/20/dragon-age-the-veilguard-ea-play-game-pass/)
+ - [Masterpiece Shin Godzilla gets a black-and-white U.S. re-release](https://www.polygon.com/shin-godzilla-black-and-white-release/)
+ - [Trump Take Game](https://kotaku.com/ps5-gta-6-price-switch-2-trump-tariff-2000618881)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
