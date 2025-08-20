@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The real main course](http://9gag.com/gag/a87zR16)
- - ⏩ [Weapon Training](http://9gag.com/gag/aMVyoV1)
- - 👉 [Raughs](http://9gag.com/gag/a0ewrDQ)<!-- MEMES:END -->
+ - 💣 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
+ - ⏩ [The real main course](http://9gag.com/gag/a87zR16)
+ - 👉 [A Montessori-trained kid gets reset.](http://9gag.com/gag/aAyZjm2)<!-- MEMES:END -->
 
 ---
 
