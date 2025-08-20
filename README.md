@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The teams behind two of Dawn of War&#39;s big overhaul mods are working to update them for the Definitive Edition](https://www.pcgamer.com/games/strategy/the-teams-behind-two-of-dawn-of-wars-big-overhaul-mods-are-working-to-update-them-for-the-definitive-edition/)
  - [Over a decade later, a beloved, lost instalment in the Tales Of JRPG series is coming to PC](https://www.pcgamer.com/games/rpg/over-a-decade-later-a-beloved-lost-instalment-in-the-tales-of-jrpg-series-is-coming-to-pc/)
- - [Asus just grabbed the fastest OLED crown with this 540/720 Hz dual mode beast of a monitor](https://www.pcgamer.com/hardware/gaming-monitors/asus-just-grabbed-the-fastest-oled-crown-with-this-540-720-hz-dual-mode-beast-of-a-monitor/)
- - [Asus&#39; new monitor brings tandem OLED into the fray and promises brighter panels with a whopping 60% increased lifespan](https://www.pcgamer.com/hardware/gaming-monitors/asus-new-monitor-brings-tandem-oled-into-the-fray-and-promises-brighter-panels-with-a-whopping-60-percent-increased-lifespan/)<!-- GAME:END -->
+ - [Asus just grabbed the fastest OLED crown with this 540/720 Hz dual mode beast of a monitor](https://www.pcgamer.com/hardware/gaming-monitors/asus-just-grabbed-the-fastest-oled-crown-with-this-540-720-hz-dual-mode-beast-of-a-monitor/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
