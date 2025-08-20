@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-20/#ftag=CAD590a51e)
  - [Dubious leak backtracks on iPhone 17 &#39;Liquid Silicone&#39; case design](https://appleinsider.com/articles/25/08/18/dubious-leak-backtracks-on-iphone-17-liquid-silicone-case-design?utm_source=rss)
- - [Save up to $500 on MacBook Pros with these exclusive flash deals](https://appleinsider.com/articles/25/08/20/save-up-to-500-on-macbook-pros-with-these-exclusive-flash-deals?utm_source=rss)
- - [Vantage Data Centers plans to spend $25B+ to build a 1.4 GW data center campus in Shackelford County, Texas, the largest in its global portfolio &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250819/p34#a250819p34)<!-- TECH:END -->
+ - [Save up to $500 on MacBook Pros with these exclusive flash deals](https://appleinsider.com/articles/25/08/20/save-up-to-500-on-macbook-pros-with-these-exclusive-flash-deals?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
