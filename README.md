@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 10 phones go all-in on Qi2 with Pixelsnap, but one model’s leading the pack](https://www.androidauthority.com/google-pixel-10-qi2-pixelsnap-accessories-3586593/)
- - [This is the chip powering the new Google Pixel Watch 4](https://www.androidauthority.com/snapdragon-w5-gen-2-announced-3587251/)
- - [No time for voicemails? This Pixel 10 feature has you covered](https://www.androidauthority.com/pixel-10-take-a-message-3589453/)<!-- TECH:END -->
+ - [Gemini for Home is Google’s biggest smart home play in years](https://www.theverge.com/news/762370/google-announces-gemini-for-home-nest-smart-speakers-voice-assistant)
+ - [A livestream of the Made by Google 2025 event &lpar;Made by Google on YouTube&rpar;](http://www.techmeme.com/250820/p39#a250820p39)
+ - [Pixel 10 series get a Gemini Nano-powered Journal app, music creation feature for recorder, NotebookLM integration for screenshots, Gboard Writing Tools, more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250820/p38#a250820p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
