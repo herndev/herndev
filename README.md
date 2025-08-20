@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
- - ⏩ [Always My favourite Spiderman](http://9gag.com/gag/adBbDbM)
- - 👉 [Nice accuracy](http://9gag.com/gag/a34nO9N)<!-- MEMES:END -->
+ - 💣 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)
+ - ⏩ [U-Scooter](http://9gag.com/gag/axy4qjL)
+ - 👉 [Riding the wave like a boss](http://9gag.com/gag/aAyZ5L9)<!-- MEMES:END -->
 
 ---
 
