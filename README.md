@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His potato chopping skills could support a few McDonald franchises](http://9gag.com/gag/aND3bB3)
- - ⏩ [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 👉 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)<!-- MEMES:END -->
+ - 💣 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
+ - ⏩ [Nt jeep](http://9gag.com/gag/avymKYW)
+ - 👉 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)<!-- MEMES:END -->
 
 ---
 
