@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Better show it all to be sure](http://9gag.com/gag/an7VPzn)
- - ⏩ [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)
- - 👉 [Always My favourite Spiderman](http://9gag.com/gag/adBbDbM)<!-- MEMES:END -->
+ - 💣 [Meloni](http://9gag.com/gag/aRBDpYG)
+ - ⏩ [How to date The Grinch](http://9gag.com/gag/axy4qMp)
+ - 👉 [Awkward](http://9gag.com/gag/aMVyLxG)<!-- MEMES:END -->
 
 ---
 
