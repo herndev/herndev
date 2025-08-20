@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Butterfly Effect, the startup behind Manus and an earlier product called Monica, says its annual revenue run rate has hit $90M, with Manus contributing the most &lpar;Bloomberg&rpar;](http://www.techmeme.com/250820/p5#a250820p5)
- - [PE firm Advent International agrees to acquire U-blox, a SIX Swiss Exchange-listed wireless and positioning chipmaker, for about $1.3B via public tender offer &lpar;Andrea Figueras/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p4#a250820p4)
- - [Verizon-powered prepaid brands just got a lot more travel-friendly](https://www.androidauthority.com/verizon-simple-mobile-total-wireless-international-prepaid-plans-3589102/)<!-- TECH:END -->
+ - [It’s Pixel 10 launch day! What are you most excited to see?](https://www.androidauthority.com/pixel-10-launch-day-open-thread-3589251/)
+ - [Hyperkin’s DualSense-inspired Xbox controller is finally launching this fall](https://www.theverge.com/news/761638/hyperkin-competitor-xbox-wired-controller-sony-ps5-dualsense)
+ - [Butterfly Effect, the startup behind Manus and an earlier product called Monica, says its annual revenue run rate has hit $90M, with Manus contributing the most &lpar;Bloomberg&rpar;](http://www.techmeme.com/250820/p5#a250820p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
