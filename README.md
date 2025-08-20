@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Project of Lana II Grows Beyond Its Original Form – Just Like Its Heroes](https://news.xbox.com/en-us/2025/08/20/project-of-lana-ii-hands-on-preview-gamescom/)
- - [Where Winds Meet launches November 14](https://blog.playstation.com/2025/08/20/where-winds-meet-launches-november-14/)
- - [Hollow Knight: Silksong – Yes, We’ve Finally Played It](https://news.xbox.com/en-us/2025/08/20/hollow-knight-silksong-hands-on-demo-preview/)<!-- GAME:END -->
+ - [High On Life 2: How a Skateboard, a Famous Actor, and Bible Adventures Make Up One of the Wildest Demos Ever](https://news.xbox.com/en-us/2025/08/20/high-on-life-2-demo-hands-on-preview-gamescom/)
+ - [Asus ROG Falcata](https://www.pcgamer.com/hardware/gaming-keyboards/asus-rog-falcata/)
+ - [Cult of the Lamb has revealed a huge DLC coming next year, finally letting us explore the towering mountain from the back of the map which has been bugging me since launch](https://www.pcgamer.com/games/roguelike/cult-of-the-lamb-has-revealed-a-huge-dlc-coming-next-year-finally-letting-us-explore-the-towering-mountain-from-the-back-of-the-map-which-has-been-bugging-me-since-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
