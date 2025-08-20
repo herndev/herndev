@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [High On Life 2: How a Skateboard, a Famous Actor, and Bible Adventures Make Up One of the Wildest Demos Ever](https://news.xbox.com/en-us/2025/08/20/high-on-life-2-demo-hands-on-preview-gamescom/)
- - [Asus ROG Falcata](https://www.pcgamer.com/hardware/gaming-keyboards/asus-rog-falcata/)
- - [Cult of the Lamb has revealed a huge DLC coming next year, finally letting us explore the towering mountain from the back of the map which has been bugging me since launch](https://www.pcgamer.com/games/roguelike/cult-of-the-lamb-has-revealed-a-huge-dlc-coming-next-year-finally-letting-us-explore-the-towering-mountain-from-the-back-of-the-map-which-has-been-bugging-me-since-launch/)<!-- GAME:END -->
+ - [Onimusha: Way of the Sword hands-on: Not a Soulslike &lpar;complimentary&rpar;](https://www.polygon.com/onimusha-way-of-the-sword-preview-impressions/)
+ - [Resident Evil Requiem is as scary as RE7, thankfully](https://www.polygon.com/resident-evil-requiem-demo-preview-hands-on/)
+ - [I hope you like Black Ops 7, because it&#39;s upping the grind &lpar;again&rpar; so you&#39;ll be playing it forever](https://www.pcgamer.com/games/call-of-duty/i-hope-you-like-black-ops-7-because-its-upping-the-grind-again-so-youll-be-playing-it-forever/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
