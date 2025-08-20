@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Store is offering two free years of data for Pixel Watch 4 LTE pre-orders](https://www.androidauthority.com/pixel-watch-4-google-store-pre-order-3589572/)
- - [Pixel 10 Pro phones can now take 50MP portrait mode shots, with a catch](https://www.androidauthority.com/google-pixel-10-pro-50mp-portraits-3589302/)
- - [Today only: Rakuten is offering $80 cash back for new Visible customers](https://www.androidauthority.com/rakuten-visible-3589507/)<!-- TECH:END -->
+ - [Update now: iOS 18.6.2 patch stops new and active spyware attacks](https://appleinsider.com/articles/25/08/20/update-now-ios-1862-patch-stops-new-and-active-spyware-attacks?utm_source=rss)
+ - [Windows 11 test brings AI file search to the Copilot app](https://www.theverge.com/news/762788/windows-11-test-brings-ai-file-search-to-the-copilot-app)
+ - [Here’s all the new features for Pixels in Android 16 QPR2 Beta 1](https://www.androidauthority.com/android-16-qpr2-beta-1-features-3586944/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
