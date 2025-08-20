@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Update now: iOS 18.6.2 patch stops new and active spyware attacks](https://appleinsider.com/articles/25/08/20/update-now-ios-1862-patch-stops-new-and-active-spyware-attacks?utm_source=rss)
- - [Windows 11 test brings AI file search to the Copilot app](https://www.theverge.com/news/762788/windows-11-test-brings-ai-file-search-to-the-copilot-app)
- - [Here’s all the new features for Pixels in Android 16 QPR2 Beta 1](https://www.androidauthority.com/android-16-qpr2-beta-1-features-3586944/)<!-- TECH:END -->
+ - [Analogue 3D gets yet another delay to later in 2025](https://www.theverge.com/news/762883/analogue-3d-delay-q4-2025)
+ - [Qualcomm unveils the Snapdragon W5+ Gen 2 and W5 Gen 2 for wearables, with a new satellite messaging feature, improved GPS accuracy, better efficiency, and more &lpar;Michael L Hicks/Android Central&rpar;](http://www.techmeme.com/250820/p48#a250820p48)
+ - [I’d rather get the Google Pixel 9 Pro Fold at this record-low price than the new version!](https://www.androidauthority.com/google-pixel-9-pro-fold-deal-3-3589655/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
