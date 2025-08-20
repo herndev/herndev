@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always My favourite Spiderman](http://9gag.com/gag/adBbDbM)
- - ⏩ [Awkward](http://9gag.com/gag/aMVyLxG)
- - 👉 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)<!-- MEMES:END -->
+ - 💣 [Nt jeep](http://9gag.com/gag/avymKYW)
+ - ⏩ [Zero compassion](http://9gag.com/gag/aoyDvPA)
+ - 👉 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)<!-- MEMES:END -->
 
 ---
 
