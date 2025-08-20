@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You Can Now Sign Up For The Seven Deadly Sins: Origin’s Closed Beta Test Following Gamescom ONL Trailer Reveal](https://www.polygon.com/ad-content-the-seven-deadly-sins-origins-closed-beta-test-gamescom-onl-trailer/)
- - [James Gunn&#39;s DCU will go the opposite route of the MCU](https://www.polygon.com/james-gunn-interview-dcu-different-mcu-multiverse-mistake/)
- - [Sony Raising Price On PS5 Consoles In America Tomorrow](https://kotaku.com/ps5-console-price-increase-sony-america-august-21-2000618873)<!-- GAME:END -->
+ - [Announcing The PC Gamer Streamer Showdown, broadcasting Sept 9-12](https://www.pcgamer.com/gaming-industry/events-conferences/announcing-the-pc-gamer-streamer-showdown-broadcasting-sept-9-12/)
+ - [MSI MPG CoreLiquid P13 360 review](https://www.pcgamer.com/hardware/cooling/msi-mpg-coreliquid-p13-360-review/)
+ - [When is a machine not a machine? Alien: Earth&#39;s best character gets even weirder](https://www.polygon.com/when-is-a-machine-not-a-machine-meaning-alien-earth/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
