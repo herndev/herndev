@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mount and Blade 2&#39;s massive War Sails expansion delivers viking death metal in this new trailer—and don&#39;t worry, it&#39;s not delayed again](https://www.pcgamer.com/games/strategy/mount-and-blade-2s-massive-war-sails-expansion-delivers-viking-death-metal-in-this-new-trailer-and-dont-worry-its-not-delayed-again/)
- - [Deadpool VR offers chaotic fighting with silly jokes](https://www.polygon.com/deadpool-vr-gamescom-preview-impressions/)
- - [What is Double Fine&#39;s Keeper all about anyway?](https://www.polygon.com/keeper-double-fine-gamescom-pc-xbox-gamescom-2025/)<!-- GAME:END -->
+ - [Early Switch 2 Elden Ring Impressions Sound Not Great As Bandai Namco Locks Down Footage](https://kotaku.com/elden-ring-switch-2-framerate-footage-video-gamescom-2000618923)
+ - [Star Trek: Voyager video game Across the Universe trailer is strategy nostalgia](https://www.polygon.com/star-trek-voyager-game-across-unknown/)
+ - [Mount and Blade 2&#39;s massive War Sails expansion delivers viking death metal in this new trailer—and don&#39;t worry, it&#39;s not delayed again](https://www.pcgamer.com/games/strategy/mount-and-blade-2s-massive-war-sails-expansion-delivers-viking-death-metal-in-this-new-trailer-and-dont-worry-its-not-delayed-again/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
