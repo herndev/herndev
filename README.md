@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If EA won&#39;t make another Battlefield Vietnam, Hell Let Loose: Vietnam is here to pick up the slack](https://www.pcgamer.com/games/fps/if-ea-wont-make-another-battlefield-vietnam-hell-let-loose-vietnam-is-here-to-pick-up-the-slack/)
- - [All Shadow Briefing locations in Fortnite Chapter 6 Season 4](https://www.polygon.com/fortnite-guide/505991/shadow-briefing-locations-rewards/)
- - [Hyper Light Breaker has shadow dropped a new update with floating islands, difficulty modifiers, a beefy new tank character, and a challenging duo boss that&#39;s &#39;technically 4 bosses&#39; depending on what order you beat them in](https://www.pcgamer.com/games/roguelike/hyper-light-breaker-has-shadow-dropped-a-new-update-with-floating-islands-difficulty-modifiers-a-beefy-new-tank-character-and-a-challenging-duo-boss-thats-technically-4-bosses-depending-on-what-order-you-beat-them-in/)<!-- GAME:END -->
+ - [Mount and Blade 2&#39;s massive War Sails expansion delivers viking death metal in this new trailer—and don&#39;t worry, it&#39;s not delayed again](https://www.pcgamer.com/games/strategy/mount-and-blade-2s-massive-war-sails-expansion-delivers-viking-death-metal-in-this-new-trailer-and-dont-worry-its-not-delayed-again/)
+ - [Deadpool VR offers chaotic fighting with silly jokes](https://www.polygon.com/deadpool-vr-gamescom-preview-impressions/)
+ - [What is Double Fine&#39;s Keeper all about anyway?](https://www.polygon.com/keeper-double-fine-gamescom-pc-xbox-gamescom-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
