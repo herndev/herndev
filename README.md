@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Onimusha: Way of the Sword hands-on: Not a Soulslike &lpar;complimentary&rpar;](https://www.polygon.com/onimusha-way-of-the-sword-preview-impressions/)
- - [Resident Evil Requiem is as scary as RE7, thankfully](https://www.polygon.com/resident-evil-requiem-demo-preview-hands-on/)
- - [I hope you like Black Ops 7, because it&#39;s upping the grind &lpar;again&rpar; so you&#39;ll be playing it forever](https://www.pcgamer.com/games/call-of-duty/i-hope-you-like-black-ops-7-because-its-upping-the-grind-again-so-youll-be-playing-it-forever/)<!-- GAME:END -->
+ - [Inside Fantastic Four: First Steps&#39; &#39;spiritual&#39; animated sequence](https://www.polygon.com/fantastic-four-first-steps-animated-post-credits-scene-interview/)
+ - [Hands On: Aniimo is A Creature Collector, Photography Simulator and RPG Battler All in One](https://news.xbox.com/en-us/2025/08/20/hands-on-aniimo-gamescom-2025/)
+ - [Looks like AI could be the new Metaverse as CEO Mark Zuckerberg will reportedly &#39;downsize&#39; Meta Superintelligence Labs and buy in third-party AI models](https://www.pcgamer.com/software/ai/looks-like-ai-could-be-the-new-metaverse-as-ceo-mark-zuckerberg-will-reportedly-downsize-meta-superintelligence-labs-and-buy-in-third-party-ai-models/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
