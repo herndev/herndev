@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for August 20 &lpar;#1523&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-20-2025/)
- - [The teams behind two of Dawn of War&#39;s big overhaul mods are working to update them for the Definitive Edition](https://www.pcgamer.com/games/strategy/the-teams-behind-two-of-dawn-of-wars-big-overhaul-mods-are-working-to-update-them-for-the-definitive-edition/)
- - [Over a decade later, a beloved, lost instalment in the Tales Of JRPG series is coming to PC](https://www.pcgamer.com/games/rpg/over-a-decade-later-a-beloved-lost-instalment-in-the-tales-of-jrpg-series-is-coming-to-pc/)<!-- GAME:END -->
+ - [Kirby Air Riders preview: nostalgic thrills fuel new Switch 2 game](https://www.polygon.com/kirby-air-riders-preview-impressions-hands-on-nintendo-switch-2/)
+ - [I&#39;ve played a few hours of Dawn of War 4, and it might just be the true sequel to the original game that we&#39;ve been waiting for](https://www.pcgamer.com/games/strategy/ive-played-a-few-hours-of-dawn-of-war-4-and-it-might-just-be-the-true-sequel-to-the-original-game-that-weve-been-waiting-for/)
+ - [Today&#39;s Wordle clues, hints and answer for August 20 &lpar;#1523&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-20-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
