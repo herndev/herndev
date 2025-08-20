@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nt jeep](http://9gag.com/gag/avymKYW)
- - ⏩ [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 👉 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)<!-- MEMES:END -->
+ - 💣 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
+ - ⏩ [How to date The Grinch](http://9gag.com/gag/axy4qMp)
+ - 👉 [Ninja turtle in action](http://9gag.com/gag/aZZv6o6)<!-- MEMES:END -->
 
 ---
 
