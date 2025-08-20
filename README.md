@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon could shake up the tablet market with a higher-end model running real Android](https://www.androidauthority.com/amazon-kittyhawk-android-tablet-3589658/)
- - [Google is expanding a key anti-theft feature to make your apps more secure](https://www.androidauthority.com/identity-check-expanded-app-support-3589693/)
- - [Microsoft and the NFL extend their partnership to bring real-time game data and analysis to coaches and players using Microsoft Copilot and Azure AI &lpar;Ali McCadden/CNBC&rpar;](http://www.techmeme.com/250820/p50#a250820p50)<!-- TECH:END -->
+ - [Ricoh’s GR IV launches in September for a much steeper price than its predecessor](https://www.theverge.com/news/762848/ricoh-gr-iv-camera-gf2-flash-launch-price-specs)
+ - [Google&amp;#8217;s Gemini Live AI assistant will show you what it&amp;#8217;s talking about](https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update)
+ - [The Made by Google event felt like being sucked into an episode of Wandavision](https://www.theverge.com/analysis/762891/made-by-google-pixel-10-jimmy-fallon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
