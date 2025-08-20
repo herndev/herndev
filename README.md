@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - ⏩ [How to date The Grinch](http://9gag.com/gag/axy4qMp)
- - 👉 [Ninja turtle in action](http://9gag.com/gag/aZZv6o6)<!-- MEMES:END -->
+ - 💣 [She has a boyfriend](http://9gag.com/gag/an7VoVz)
+ - ⏩ [Zero compassion](http://9gag.com/gag/aoyDvPA)
+ - 👉 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)<!-- MEMES:END -->
 
 ---
 
