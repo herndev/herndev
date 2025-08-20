@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside Fantastic Four: First Steps&#39; &#39;spiritual&#39; animated sequence](https://www.polygon.com/fantastic-four-first-steps-animated-post-credits-scene-interview/)
- - [Hands On: Aniimo is A Creature Collector, Photography Simulator and RPG Battler All in One](https://news.xbox.com/en-us/2025/08/20/hands-on-aniimo-gamescom-2025/)
- - [Looks like AI could be the new Metaverse as CEO Mark Zuckerberg will reportedly &#39;downsize&#39; Meta Superintelligence Labs and buy in third-party AI models](https://www.pcgamer.com/software/ai/looks-like-ai-could-be-the-new-metaverse-as-ceo-mark-zuckerberg-will-reportedly-downsize-meta-superintelligence-labs-and-buy-in-third-party-ai-models/)<!-- GAME:END -->
+ - [Lego Voyagers tests the bounds of your imagination — and your friendship](https://www.polygon.com/lego-voyagers-preview-impressions/)
+ - [Call Of Duty Dev Explains How AI Slop Gets Into The Game](https://kotaku.com/black-ops-7-generative-ai-call-duty-gamescom-2025-slop-2000618833)
+ - [Mega-Evolved Pokémon Are Even Appearing In Cuddly Form](https://kotaku.com/mega-evolved-pokemon-plush-gengar-gardevoir-2000618808)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
