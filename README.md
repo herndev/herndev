@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - ⏩ [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
- - 👉 [The real main course](http://9gag.com/gag/a87zR16)<!-- MEMES:END -->
+ - 💣 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
+ - ⏩ [Zero compassion](http://9gag.com/gag/aoyDvPA)
+ - 👉 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)<!-- MEMES:END -->
 
 ---
 
