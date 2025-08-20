@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - ⏩ [Fatality](http://9gag.com/gag/aRBDqQ7)
+ - 💣 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
+ - ⏩ [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
  - 👉 [Weapon Training](http://9gag.com/gag/aMVyoV1)<!-- MEMES:END -->
 
 ---
