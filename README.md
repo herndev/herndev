@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Early Switch 2 Elden Ring Impressions Sound Not Great As Bandai Namco Locks Down Footage](https://kotaku.com/elden-ring-switch-2-framerate-footage-video-gamescom-2000618923)
- - [Star Trek: Voyager video game Across the Universe trailer is strategy nostalgia](https://www.polygon.com/star-trek-voyager-game-across-unknown/)
- - [Mount and Blade 2&#39;s massive War Sails expansion delivers viking death metal in this new trailer—and don&#39;t worry, it&#39;s not delayed again](https://www.pcgamer.com/games/strategy/mount-and-blade-2s-massive-war-sails-expansion-delivers-viking-death-metal-in-this-new-trailer-and-dont-worry-its-not-delayed-again/)<!-- GAME:END -->
+ - [Halloween: The Game Announced, Will Feature Multiplayer And Solo Story Mode](https://kotaku.com/halloween-the-game-announced-will-feature-multiplayer-and-solo-story-mode-2000618930)
+ - [The Subnautica legal dispute takes a surprise twist as Unknown Worlds—not Krafton—sues its former bosses for stealing confidential material on their way out the door](https://www.pcgamer.com/games/the-subnautica-legal-dispute-takes-a-surprise-twist-as-unknown-worlds-not-krafton-sues-its-former-bosses-for-stealing-confidential-material-on-their-way-out-the-door/)
+ - [Path of Exile 2 is free for the first time — for one weekend only](https://www.polygon.com/path-of-exile-2-free-weekend/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
