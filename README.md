@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hollow Knight: Silksong – Yes, We’ve Finally Played It](https://news.xbox.com/en-us/2025/08/20/hollow-knight-silksong-hands-on-demo-preview/)
- - [Kirby Air Riders preview: nostalgic thrills fuel new Switch 2 game](https://www.polygon.com/kirby-air-riders-preview-impressions-hands-on-nintendo-switch-2/)
- - [I&#39;ve played a few hours of Dawn of War 4, and it might just be the true sequel to the original game that we&#39;ve been waiting for](https://www.pcgamer.com/games/strategy/ive-played-a-few-hours-of-dawn-of-war-4-and-it-might-just-be-the-true-sequel-to-the-original-game-that-weve-been-waiting-for/)<!-- GAME:END -->
+ - [Project of Lana II Grows Beyond Its Original Form – Just Like Its Heroes](https://news.xbox.com/en-us/2025/08/20/project-of-lana-ii-hands-on-preview-gamescom/)
+ - [Where Winds Meet launches November 14](https://blog.playstation.com/2025/08/20/where-winds-meet-launches-november-14/)
+ - [Hollow Knight: Silksong – Yes, We’ve Finally Played It](https://news.xbox.com/en-us/2025/08/20/hollow-knight-silksong-hands-on-demo-preview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
