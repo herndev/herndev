@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hear me out, the Alien: Earth eyeball monster is actually kind of cute](https://www.polygon.com/alien-earth-episode-3-eyeball-monster-species-64/)
- - [ROG Xbox Ally release date revealed](https://www.polygon.com/rog-xbox-ally-x-handheld-release-date/)
- - [&#39;To put it bluntly, it was copying others&#39;: Former Dragon Quest producer says he left Square Enix because the developer was too focused on making &#39;safe&#39; games](https://www.pcgamer.com/games/rpg/to-put-it-bluntly-it-was-copying-others-former-dragon-quest-producer-says-he-left-square-enix-because-the-developer-was-too-focused-on-making-safe-games/)<!-- GAME:END -->
+ - [Keeper’s First Extended Gameplay Shows Us an Ever-Changing Adventure](https://news.xbox.com/en-us/2025/08/20/keeper-gameplay-preview-gamescom/)
+ - [If you&#39;ve ever craved the perfect combination of vibes from Puyo Puyo Tetris and Rhythm Heaven, do I have the game for you](https://www.pcgamer.com/games/rhythm/if-youve-ever-craved-the-perfect-combination-of-vibes-from-puyo-puyo-tetris-and-rhythm-heaven-do-i-have-the-game-for-you/)
+ - [Xbox PC Gaming Handheld Is Out In October, But Microsoft Delays Revealing The Price](https://kotaku.com/rog-xbox-ally-pc-gaming-heldheld-release-date-price-2000618852)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
