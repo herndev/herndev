@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halloween: The Game Announced, Will Feature Multiplayer And Solo Story Mode](https://kotaku.com/halloween-the-game-announced-will-feature-multiplayer-and-solo-story-mode-2000618930)
- - [The Subnautica legal dispute takes a surprise twist as Unknown Worlds—not Krafton—sues its former bosses for stealing confidential material on their way out the door](https://www.pcgamer.com/games/the-subnautica-legal-dispute-takes-a-surprise-twist-as-unknown-worlds-not-krafton-sues-its-former-bosses-for-stealing-confidential-material-on-their-way-out-the-door/)
- - [Path of Exile 2 is free for the first time — for one weekend only](https://www.polygon.com/path-of-exile-2-free-weekend/)<!-- GAME:END -->
+ - [Goodbye Jason Voorhees, hello Michael Myers: Friday the 13th developer and publisher return with a new multiplayer survival horror game based on Halloween](https://www.pcgamer.com/games/horror/goodbye-jason-voorhees-hello-michael-myers-friday-the-13th-developer-and-publisher-return-with-a-new-multiplayer-survival-horror-game-based-on-halloween/)
+ - [Randy Pitchford says Borderlands 4 is worth $200, but he wishes &#39;they&#39;d give it away&#39;](https://www.pcgamer.com/games/fps/randy-pitchford-says-borderlands-4-is-worth-usd200-but-he-wishes-theyd-give-it-away/)
+ - [Halloween: The Game Announced, Will Feature Multiplayer And Solo Story Mode](https://kotaku.com/halloween-the-game-announced-will-feature-multiplayer-and-solo-story-mode-2000618930)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
