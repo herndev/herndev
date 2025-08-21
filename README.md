@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch’s restored blood oxygen tracking attracts another lawsuit](https://www.theverge.com/news/763291/apple-masimo-blood-oxygen-patent-customs-lawsuit)
- - [DeepSeek details V3.1 and says it surpasses R1 on key benchmarks and is customized to work with next-gen Chinese-made AI chips, after unveiling it on August 19 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p9#a250821p9)
- - [Pixel 10 vs Pixel 8: Here’s why I’m not upgrading](https://www.androidauthority.com/pixel-10-vs-pixel-8-3588433/)<!-- TECH:END -->
+ - [There’s another dual-screen Android gaming handheld on the way, and it’s shockingly affordable](https://www.androidauthority.com/ayn-thor-pricing-3589910/)
+ - [Sources: Take-Two lays off 80 staff at BioShock studio Cloud Chamber, or ~33% of its 250 staff, and delays the next BioShock game to late 2026 or early 2027 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250821/p10#a250821p10)
+ - [Following Made by Google, is it time for companies to retire live smartphone launch events?](https://www.androidauthority.com/made-by-google-smartphone-launch-events-open-thread-3589908/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
