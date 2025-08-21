@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Things You Might’ve Missed in the Wildekin Reveal Trailer](https://news.xbox.com/en-us/2025/08/21/wildekin-reveal-xbox-gamescom-things-you-missed/)
- - [Sony has bumped up the US prices of the PlayStation 5 range by roughly $50 a piece, citing &#39;a challenging economic environment&#39;](https://www.pcgamer.com/hardware/sony-has-bumped-up-the-us-prices-of-the-playstation-5-range-by-roughly-usd50-a-piece-citing-a-challenging-economic-environment/)
- - [Hollow Knight: Silksong finally has a release date](https://www.polygon.com/hollow-knight-silksong-release-date-gamescom/)<!-- GAME:END -->
+ - [Warhammer 40K: Dark Heresy make you the arbiter of truth](https://www.polygon.com/warhammer-40k-dark-heresy-preview-gamescom/)
+ - [The Outer Worlds 2 is Going to Give us Ample Opportunity to Mess Around in Its World](https://news.xbox.com/en-us/2025/08/21/the-outer-worlds-2-gamescom-gameplay-preview/)
+ - [I Hope Star Trek Voyager: Across the Unknown Is The Trekkie FTL I’ve Always Dreamed Of](https://kotaku.com/star-trek-voyager-across-the-unknown-ftl-2000619136)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
