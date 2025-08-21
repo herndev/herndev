@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40K: Dark Heresy make you the arbiter of truth](https://www.polygon.com/warhammer-40k-dark-heresy-preview-gamescom/)
- - [The Outer Worlds 2 is Going to Give us Ample Opportunity to Mess Around in Its World](https://news.xbox.com/en-us/2025/08/21/the-outer-worlds-2-gamescom-gameplay-preview/)
- - [I Hope Star Trek Voyager: Across the Unknown Is The Trekkie FTL I’ve Always Dreamed Of](https://kotaku.com/star-trek-voyager-across-the-unknown-ftl-2000619136)<!-- GAME:END -->
+ - [The Vampire Survivors studio is publishing games now, and its next one is weird AF](https://www.polygon.com/kill-the-brickman-impressions-poncle/)
+ - [Project Bloomwalker is A Beautiful Crafting Adventure About Purifying The World, and We Love It](https://news.xbox.com/en-us/2025/08/21/project-bloomwalker-gamescom-hands-on-preview/)
+ - [Govern for the glory of Rome in Anno 117](https://www.pcgamer.com/games/govern-for-the-glory-of-rome-in-anno-117/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
