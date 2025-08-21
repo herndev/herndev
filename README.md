@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)
+ - 💣 [The real main course](http://9gag.com/gag/a87zR16)
  - ⏩ [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 👉 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)<!-- MEMES:END -->
+ - 👉 [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)<!-- MEMES:END -->
 
 ---
 
