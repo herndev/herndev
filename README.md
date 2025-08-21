@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia orders that state-backed messenger app MAX, which critics say could be used to track users, must be pre-installed on phones and tablets from next month &lpar;Andrew Osborn/Reuters&rpar;](http://www.techmeme.com/250821/p28#a250821p28)
- - [Google’s mysterious new smart speaker could offer spatial surround sound](https://www.androidauthority.com/google-unannounced-smart-speaker-details-3590149/)
- - [Trump signs an EO creating the National Design Studio to improve &quot;websites and physical sites&quot;; sources say he&#39;s tapping Airbnb co-founder Joe Gebbia to lead it &lpar;Gregory Korte/Bloomberg&rpar;](http://www.techmeme.com/250821/p27#a250821p27)<!-- TECH:END -->
+ - [Leaker provides another look at TechWoven iPhone 17 Pro Max cases](https://appleinsider.com/articles/25/08/21/leaker-provides-another-look-at-techwoven-iphone-17-pro-max-cases?utm_source=rss)
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
+ - [Microsoft is bringing PC gaming apps and stores to its Xbox app on Windows](https://www.theverge.com/news/763994/microsoft-xbox-app-windows-third-party-stores-apps-utilities)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
