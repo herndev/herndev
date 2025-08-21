@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Epic Games court loss spawns debate over tech attorney &amp; client privilege](https://appleinsider.com/articles/25/08/21/apples-epic-games-court-loss-spawns-debate-over-tech-attorney-client-privilege?utm_source=rss)
- - [Apple TV Plus is getting more expensive and will cost $12.99 per month](https://www.theverge.com/news/763486/apple-tv-plus-streaming-price-increase)
- - [The Pixel 10 Pro’s new always-on display finally shows your full wallpaper](https://www.androidauthority.com/pixel-10-pro-aod-wallpaper-3589468/)<!-- TECH:END -->
+ - [Tesla is dragging its feet in reporting FSD and Autopilot crashes to the government](https://www.theverge.com/tesla/763603/tesla-autopilot-fsd-crash-report-delay-nhtsa)
+ - [&#39;I learned so much&#39; -- Attendees laud first Apple Manufacturing Academy in Detroit](https://appleinsider.com/articles/25/08/21/i-learned-so-much----attendees-laud-first-apple-manufacturing-academy-in-detroit?utm_source=rss)
+ - [HoverAir’s new floating Aqua drone can take off and land on water](https://www.theverge.com/news/762645/hoverair-aqua-floating-4k-drone-lighthouse-tracking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
