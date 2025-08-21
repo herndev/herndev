@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors Dev Publishes Surreal Roguelike About Shooting Human Brick Heads You Can Play Right Now](https://kotaku.com/vampire-survivors-balatro-kill-the-brickman-poncle-roguelike-2000619132)
- - [Herdling review: Sheep herding makes for the most human game of the year](https://www.polygon.com/herdling-review/)
- - [Kiss takes the stage in World of Tanks’ Metal Fest](https://blog.playstation.com/2025/08/21/kiss-takes-the-stage-in-world-of-tanks-metal-fest/)<!-- GAME:END -->
+ - [25 best Game Pass games on Xbox and PC &lpar;August 2025&rpar;](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox/)
+ - [MSI Stealth 18 HX AI review](https://www.pcgamer.com/hardware/gaming-laptops/msi-stealth-18-hx-ai-review/)
+ - [WoW&#39;s player housing feature will have an import function, letting you save and share houses—and potentially furnishings—with each other](https://www.pcgamer.com/games/world-of-warcraft/wows-player-housing-feature-will-have-an-import-function-letting-you-save-and-share-houses-and-potentially-furnishings-with-each-other/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
