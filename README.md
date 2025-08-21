@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Xbox handheld is a good first step towards a Windows gaming OS](https://www.theverge.com/notepad-microsoft-newsletter/763357/microsoft-asus-xbox-ally-handheld-hands-on-notepad)
- - [Jamboard escapes the Google graveyard with a new lease on life from LineageOS](https://www.androidauthority.com/jamboard-lineageos-3590035/)
- - [YouTube Music turns 10 and adds new &amp;#8216;taste match&amp;#8217; playlists](https://www.theverge.com/news/763611/youtube-music-taste-match-10-anniversary)<!-- TECH:END -->
+ - [Sources: Anthropic is in talks to raise $10B, significantly above the previously reported $5B, due to strong investor demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p21#a250821p21)
+ - [Google just made it a whole lot easier to access Password Manager](https://www.androidauthority.com/google-password-manager-app-launch-3590044/)
+ - [Flash deals: Save $400 on 2025 Mac Studio, plus get M2 Max spec for $899](https://appleinsider.com/articles/25/08/21/flash-deals-save-400-on-2025-mac-studio-plus-get-m2-max-spec-for-899?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
