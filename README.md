@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Goodbye Jason Voorhees, hello Michael Myers: Friday the 13th developer and publisher return with a new multiplayer survival horror game based on Halloween](https://www.pcgamer.com/games/horror/goodbye-jason-voorhees-hello-michael-myers-friday-the-13th-developer-and-publisher-return-with-a-new-multiplayer-survival-horror-game-based-on-halloween/)
- - [Randy Pitchford says Borderlands 4 is worth $200, but he wishes &#39;they&#39;d give it away&#39;](https://www.pcgamer.com/games/fps/randy-pitchford-says-borderlands-4-is-worth-usd200-but-he-wishes-theyd-give-it-away/)
- - [Halloween: The Game Announced, Will Feature Multiplayer And Solo Story Mode](https://kotaku.com/halloween-the-game-announced-will-feature-multiplayer-and-solo-story-mode-2000618930)<!-- GAME:END -->
+ - [The roguelike Prince of Persia platformer is now out of early access and feature complete, though it may get more content if it &#39;gets popular&#39;](https://www.pcgamer.com/games/roguelike/the-roguelike-prince-of-persia-platformer-is-now-out-of-early-access-and-feature-complete-though-it-may-get-more-content-if-it-gets-popular/)
+ - [A boundless excitement for Battlefield 6 loomed large over Call of Duty&#39;s deflating Black Ops 7 reveal](https://www.pcgamer.com/games/fps/a-boundless-excitement-for-battlefield-6-loomed-large-over-call-of-dutys-deflating-black-ops-7-reveal/)
+ - [Goodbye Jason Voorhees, hello Michael Myers: Friday the 13th developer and publisher return with a new multiplayer survival horror game based on Halloween](https://www.pcgamer.com/games/horror/goodbye-jason-voorhees-hello-michael-myers-friday-the-13th-developer-and-publisher-return-with-a-new-multiplayer-survival-horror-game-based-on-halloween/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
