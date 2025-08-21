@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP hero.](http://9gag.com/gag/axy45XY)
- - ⏩ [Terry is truly a legend. What wise words he just said here](http://9gag.com/gag/aAyZorL)
- - 👉 [Nice try fed](http://9gag.com/gag/aByo7VD)<!-- MEMES:END -->
+ - 💣 [By the third sign you let them go, there&#39;s no coming back.](http://9gag.com/gag/apR8WYW)
+ - ⏩ [Gender pay gap](http://9gag.com/gag/a6Z8AE8)
+ - 👉 [Sadly, 9gaggers don\u2019t have girlfriends.](http://9gag.com/gag/aZZvAWp)<!-- MEMES:END -->
 
 ---
 
