@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Cracker Barrel Logo Sucks And So Does The Mess Around It](https://kotaku.com/new-cracker-barrel-logo-woke-trump-cooperate-greed-2000619204)
- - [Bungie Boss Pete Parsons Out After 23 Years](https://kotaku.com/bungie-pete-parsons-halo-destiny-2-sony-2000619244)
- - [One Of FFXIV‘s Most Important Mods Is Shutting Down And People Are Losing It](https://kotaku.com/one-of-ffxivs-most-important-mods-is-shutting-down-and-people-are-losing-it-2000619228)<!-- GAME:END -->
+ - [I wouldn&#39;t have thought I&#39;d be playing Starfield again in 2025, but this Star Wars total conversion mod is a real blast&lpar;er&rpar;](https://www.pcgamer.com/games/rpg/i-wouldnt-have-thought-id-be-playing-starfield-again-in-2025-but-this-star-wars-total-conversion-mod-is-a-real-blast-er/)
+ - [&#39;Eat s***, Pete&#39;: In a rare moment of unity, Destiny players bid good riddance to departing Bungie CEO Pete Parsons](https://www.pcgamer.com/gaming-industry/eat-s-pete-in-a-rare-moment-of-unity-destiny-players-bid-good-riddance-to-departing-bungie-ceo-pete-parsons/)
+ - [Diablo 4&#39;s next season acknowledges its greatest weakness as an action RPG and offers a solution on how to fix it](https://www.pcgamer.com/games/rpg/diablo-4s-next-season-acknowledges-its-greatest-weakness-as-an-action-rpg-and-offers-a-solution-on-how-to-fix-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
