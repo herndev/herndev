@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)
- - ⏩ [When you accidentally sent a face instead of a DP.](http://9gag.com/gag/amon3Z6)
- - 👉 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)<!-- MEMES:END -->
+ - 💣 [RIP hero.](http://9gag.com/gag/axy45XY)
+ - ⏩ [Terry is truly a legend. What wise words he just said here](http://9gag.com/gag/aAyZorL)
+ - 👉 [Nice try fed](http://9gag.com/gag/aByo7VD)<!-- MEMES:END -->
 
 ---
 
