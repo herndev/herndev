@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TRM Labs launches Beacon Network, a real-time alert system for illicit crypto activity, partnering with law enforcement and exchanges like Binance and Coinbase &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250820/p56#a250820p56)
- - [Meta froze hiring in its AI division last week with sources saying exceptions need Alexandr Wang&#39;s permission; the duration of the freeze remains unclear &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p55#a250820p55)
- - [Halo, a startup founded by former Harvard students who developed a facial recognition app for Ray-Ban Meta glasses, is launching &quot;always-on&quot; AI glasses for $249 &lpar;TechCrunch&rpar;](http://www.techmeme.com/250820/p54#a250820p54)<!-- TECH:END -->
+ - [How to import your old passwords into Apple Passwords](https://appleinsider.com/inside/macos/tips/how-to-import-your-old-passwords-into-the-new-apple-passwords?utm_source=rss)
+ - [Sources: Beijing&#39;s Nvidia H20 curbs were triggered by US Commerce Secretary Lutnick&#39;s not selling China the best stuff remark, which officials found &quot;insulting&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250820/p57#a250820p57)
+ - [TRM Labs launches Beacon Network, a real-time alert system for illicit crypto activity, partnering with law enforcement and exchanges like Binance and Coinbase &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250820/p56#a250820p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
