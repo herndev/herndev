@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weapon Training](http://9gag.com/gag/aMVyoV1)
+ - 💣 [Alan\u2019s smart, be like Alan](http://9gag.com/gag/aPAn5pV)
  - ⏩ [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 👉 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)<!-- MEMES:END -->
+ - 👉 [London man sent to prison for yelling `We love bacon` in public](http://9gag.com/gag/adBbEWd)<!-- MEMES:END -->
 
 ---
 
