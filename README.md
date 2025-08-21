@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 10 series brings even more panorama mode upgrades](https://www.androidauthority.com/google-pixel-10-panorama-mode-upgrade-3589858/)
- - [In a UK tribunal filing, ex-Meta employee Samujjal Purkayastha alleges Meta misled advertisers by inflating Shops ads&#39; performance and bypassed Apple&#39;s ATT &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250821/p7#a250821p7)
- - [A profile of Stability AI, which under CEO Prem Akkaraju and Chair Sean Parker has shifted from building frontier AI models to a Hollywood-focused SaaS company &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250821/p6#a250821p6)<!-- TECH:END -->
+ - [Apple Watch’s restored blood oxygen tracking attracts another lawsuit](https://www.theverge.com/news/763291/apple-masimo-blood-oxygen-patent-customs-lawsuit)
+ - [DeepSeek details V3.1 and says it surpasses R1 on key benchmarks and is customized to work with next-gen Chinese-made AI chips, after unveiling it on August 19 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p9#a250821p9)
+ - [Pixel 10 vs Pixel 8: Here’s why I’m not upgrading](https://www.androidauthority.com/pixel-10-vs-pixel-8-3588433/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
