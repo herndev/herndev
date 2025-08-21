@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says a typical AI text prompt only uses 5 drops of water — experts say that&amp;#8217;s misleading](https://www.theverge.com/report/763080/google-ai-gemini-water-energy-emissions-study)
- - [Honor’s new flip phone will go with your Jimmy Choos](https://www.theverge.com/news/763298/honors-new-flip-phone-will-go-with-your-jimmy-choos)
- - [CBP data: between April and June 2025, CBP searched 14,899 devices carried by international travelers, up from a high of 12,766+ between January and March 2022 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250821/p11#a250821p11)<!-- TECH:END -->
+ - [New Insta360 Go Ultra offers 4K capture in a small form](https://appleinsider.com/articles/25/08/21/new-insta360-go-ultra-offers-4k-capture-in-a-small-form?utm_source=rss)
+ - [Insta360’s new tiny action camera combines stamina with a detachable magnet design](https://www.androidauthority.com/insta360-go-ultra-vlogging-action-camera-launched-3589915/)
+ - [Insta360 redesigned its compact action cam with a bigger battery and swappable storage](https://www.theverge.com/news/761501/insta360-ultra-go-action-camera-4k-60fps-microsd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
