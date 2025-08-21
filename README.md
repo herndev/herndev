@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The real main course](http://9gag.com/gag/a87zR16)
- - ⏩ [Weapon Training](http://9gag.com/gag/aMVyoV1)
- - 👉 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)<!-- MEMES:END -->
+ - 💣 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)
+ - ⏩ [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - 👉 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)<!-- MEMES:END -->
 
 ---
 
