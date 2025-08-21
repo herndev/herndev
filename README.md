@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What in hell happened here?](http://9gag.com/gag/a5QD4QL)
- - ⏩ [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
- - 👉 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)<!-- MEMES:END -->
+ - 💣 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
+ - ⏩ [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
 
 ---
 
