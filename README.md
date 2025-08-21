@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What in hell happened here?](http://9gag.com/gag/a5QD4QL)
- - ⏩ [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - 💣 [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)
+ - ⏩ [RIP hero.](http://9gag.com/gag/axy45XY)
  - 👉 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)<!-- MEMES:END -->
 
 ---
