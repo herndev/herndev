@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
- - ⏩ [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
+ - 💣 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
+ - ⏩ [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
+ - 👉 [Gentleman](http://9gag.com/gag/a9yBQYK)<!-- MEMES:END -->
 
 ---
 
