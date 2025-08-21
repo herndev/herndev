@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)
- - ⏩ [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
- - 👉 [London man sent to prison for yelling `We love bacon` in public](http://9gag.com/gag/adBbEWd)<!-- MEMES:END -->
+ - 💣 [The real main course](http://9gag.com/gag/a87zR16)
+ - ⏩ [Weapon Training](http://9gag.com/gag/aMVyoV1)
+ - 👉 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)<!-- MEMES:END -->
 
 ---
 
