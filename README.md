@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Insta360 Go Ultra offers 4K capture in a small form](https://appleinsider.com/articles/25/08/21/new-insta360-go-ultra-offers-4k-capture-in-a-small-form?utm_source=rss)
- - [Insta360’s new tiny action camera combines stamina with a detachable magnet design](https://www.androidauthority.com/insta360-go-ultra-vlogging-action-camera-launched-3589915/)
- - [Insta360 redesigned its compact action cam with a bigger battery and swappable storage](https://www.theverge.com/news/761501/insta360-ultra-go-action-camera-4k-60fps-microsd)<!-- TECH:END -->
+ - [Amazon is betting on agents to win the AI race](https://www.theverge.com/decoder-podcast-with-nilay-patel/761830/amazon-david-luan-agi-lab-adept-ai-interview)
+ - [Google Search can now present real-time table booking results, but only if you pay up for AI](https://www.androidauthority.com/google-ai-mode-agentic-search-3589950/)
+ - [Samsung Galaxy S25 Edge price drops further, saving you $270](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-6-3589961/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
