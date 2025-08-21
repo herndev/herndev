@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
- - ⏩ [Still waiting](http://9gag.com/gag/aW49rj3)
- - 👉 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)<!-- MEMES:END -->
+ - 💣 [Werewolf](http://9gag.com/gag/a34nmMN)
+ - ⏩ [He woke up and chose very very mild violence](http://9gag.com/gag/avymN3Z)
+ - 👉 [Terry is truly a legend. What wise words he just said here](http://9gag.com/gag/aAyZorL)<!-- MEMES:END -->
 
 ---
 
