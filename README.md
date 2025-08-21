@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&amp;#8217;s new NFL deal could let you blame Copilot AI for terrible playcalls](https://www.theverge.com/news/763928/nfl-microsoft-copilot-surface-ai)
- - [a16z hires Anne Neuberger, formerly a senior cybersecurity official in the Biden White House, as a senior adviser to work on &quot;American Dynamism, AI, and cyber&quot; &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250821/p26#a250821p26)
- - [Trump Phone still doesn&#39;t exist beyond a terrible Photoshop job](https://appleinsider.com/articles/25/08/21/trump-phone-still-doesnt-exist-beyond-a-terrible-photoshop-job?utm_source=rss)<!-- TECH:END -->
+ - [Russia orders that state-backed messenger app MAX, which critics say could be used to track users, must be pre-installed on phones and tablets from next month &lpar;Andrew Osborn/Reuters&rpar;](http://www.techmeme.com/250821/p28#a250821p28)
+ - [Google’s mysterious new smart speaker could offer spatial surround sound](https://www.androidauthority.com/google-unannounced-smart-speaker-details-3590149/)
+ - [Trump signs an EO creating the National Design Studio to improve &quot;websites and physical sites&quot;; sources say he&#39;s tapping Airbnb co-founder Joe Gebbia to lead it &lpar;Gregory Korte/Bloomberg&rpar;](http://www.techmeme.com/250821/p27#a250821p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
