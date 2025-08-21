@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android finally lets you control your Pixel phone’s flashlight brightness](https://www.androidauthority.com/android-update-flashlight-brightness-3589728/)
- - [Masimo sues feds to stop Apple Watch pulse oximetry restoration](https://appleinsider.com/articles/25/08/20/masimo-was-last-to-learn-about-blood-oxygen-sensing-returning-to-apple-watch?utm_source=rss)
- - [Today is your last chance to grab a PS5 before Sony’s price hikes go into effect](https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale)<!-- TECH:END -->
+ - [Mchose UT98 review: A robust mechanical keyboard with all the bells and whistles](https://appleinsider.com/articles/25/08/21/mchose-ut98-review-a-robust-mechanical-keyboard-with-all-the-bells-and-whistles?utm_source=rss)
+ - [Google finally lets you customize icon shapes on your Pixel’s home screen](https://www.androidauthority.com/pixel-icon-shape-options-3589736/)
+ - [Mustafa Suleyman says &quot;Seemingly Conscious AI&quot; is coming but is something to avoid, and that developers must build AI for people, not to be a digital person &lpar;Mustafa Suleyman&rpar;](http://www.techmeme.com/250820/p53#a250820p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
