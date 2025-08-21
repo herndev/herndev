@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reveals it isn&amp;#8217;t making tablets, smart rings, flip phones, or glasses &lpar;yet&rpar;](https://www.theverge.com/news/763778/google-canceled-tablet-no-smart-ring-or-flip-phone-glasses)
- - [Google will provide Gemini for Government to US federal agencies at $0.47 per agency through 2026; OpenAI and Anthropic are offering their products for $1/year &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/250821/p25#a250821p25)
- - [Google killed this feature so the Pixel 10 could have Qi2 wireless charging](https://www.androidauthority.com/pixel-10-loses-battery-share-3590102/)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s new NFL deal could let you blame Copilot AI for terrible playcalls](https://www.theverge.com/news/763928/nfl-microsoft-copilot-surface-ai)
+ - [a16z hires Anne Neuberger, formerly a senior cybersecurity official in the Biden White House, as a senior adviser to work on &quot;American Dynamism, AI, and cyber&quot; &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250821/p26#a250821p26)
+ - [Trump Phone still doesn&#39;t exist beyond a terrible Photoshop job](https://appleinsider.com/articles/25/08/21/trump-phone-still-doesnt-exist-beyond-a-terrible-photoshop-job?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
