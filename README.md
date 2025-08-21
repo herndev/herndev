@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TRM Labs launches Beacon Network, a real-time alert system for illicit crypto activity, partnering with law enforcement and exchanges like Binance and Coinbase &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250820/p56#a250820p56)
  - [Meta froze hiring in its AI division last week with sources saying exceptions need Alexandr Wang&#39;s permission; the duration of the freeze remains unclear &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p55#a250820p55)
- - [Halo, a startup founded by former Harvard students who developed a facial recognition app for Ray-Ban Meta glasses, is launching &quot;always-on&quot; AI glasses for $249 &lpar;TechCrunch&rpar;](http://www.techmeme.com/250820/p54#a250820p54)
- - [Mchose UT98 review: A robust mechanical keyboard with all the bells and whistles](https://appleinsider.com/articles/25/08/21/mchose-ut98-review-a-robust-mechanical-keyboard-with-all-the-bells-and-whistles?utm_source=rss)<!-- TECH:END -->
+ - [Halo, a startup founded by former Harvard students who developed a facial recognition app for Ray-Ban Meta glasses, is launching &quot;always-on&quot; AI glasses for $249 &lpar;TechCrunch&rpar;](http://www.techmeme.com/250820/p54#a250820p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
