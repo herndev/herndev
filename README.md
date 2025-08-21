@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones and the Great Circle: The Order of Giants DLC – First Hands-on](https://news.xbox.com/en-us/2025/08/21/indiana-jones-great-circle-order-of-giants-dlc-first-hands-on-preview-gamescom/)
- - [Invincible VS: Going Hands-on with Three New Characters &lpar;Including Omni-Man&rpar;](https://news.xbox.com/en-us/2025/08/21/invincible-vs-hands-on-gamescom-omni-man/)
- - [18 protesters arrested: Microsoft claims &#39;vandalism and property damage,&#39; protesters claim &#39;genocide powered by Microsoft technology&#39;](https://www.pcgamer.com/gaming-industry/microsoft-protesters-arrested-no-azure-for-apartheid/)<!-- GAME:END -->
+ - [There Are No Ghosts at the Grand Is Exactly as Unusual as You’d Hoped](https://news.xbox.com/en-us/2025/08/21/there-are-no-ghosts-at-the-grand-demo-hands-on-preview/)
+ - [How to complete the Capture the Sun quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-capture-the-sun-quest-walkthrough/)
+ - [Indiana Jones and the Great Circle: The Order of Giants DLC – First Hands-on](https://news.xbox.com/en-us/2025/08/21/indiana-jones-great-circle-order-of-giants-dlc-first-hands-on-preview-gamescom/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
