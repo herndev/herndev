@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla is dragging its feet in reporting FSD and Autopilot crashes to the government](https://www.theverge.com/tesla/763603/tesla-autopilot-fsd-crash-report-delay-nhtsa)
- - [&#39;I learned so much&#39; -- Attendees laud first Apple Manufacturing Academy in Detroit](https://appleinsider.com/articles/25/08/21/i-learned-so-much----attendees-laud-first-apple-manufacturing-academy-in-detroit?utm_source=rss)
- - [HoverAir’s new floating Aqua drone can take off and land on water](https://www.theverge.com/news/762645/hoverair-aqua-floating-4k-drone-lighthouse-tracking)<!-- TECH:END -->
+ - [Microsoft’s Xbox handheld is a good first step towards a Windows gaming OS](https://www.theverge.com/notepad-microsoft-newsletter/763357/microsoft-asus-xbox-ally-handheld-hands-on-notepad)
+ - [Jamboard escapes the Google graveyard with a new lease on life from LineageOS](https://www.androidauthority.com/jamboard-lineageos-3590035/)
+ - [YouTube Music turns 10 and adds new &amp;#8216;taste match&amp;#8217; playlists](https://www.theverge.com/news/763611/youtube-music-taste-match-10-anniversary)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
