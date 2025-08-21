@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Shanghai-based self-driving company Banma aims to spin off from Alibaba via a Hong Kong IPO, reducing Alibaba&#39;s stake from the current 44.72% to 30% &lpar;Aileen Chuang/South China Morning Post&rpar;](http://www.techmeme.com/250821/p3#a250821p3)
- - [This new Pixel 10 feature will make it a little easier to sleep next to your phone](https://www.androidauthority.com/pixel-10-auto-screen-saver-dimming-3589494/)
- - [Google answers our prayers, adds 10x zoom button to Pixel 10 Pro camera app](https://www.androidauthority.com/google-pixel-10-10x-zoom-button-3589416/)<!-- TECH:END -->
+ - [Q&amp;A with Coinbase CEO Brian Armstrong on starting the company, battling North Korean hackers, stablecoin adoption, the GENIUS Act, pro-crypto Congress, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/250821/p5#a250821p5)
+ - [SpaceX inks Alaska Air deal for Starlink in-flight Wi-Fi; sources say it is courting Middle Eastern airlines in a potential watershed against legacy operators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p4#a250821p4)
+ - [Filing: Shanghai-based self-driving company Banma aims to spin off from Alibaba via a Hong Kong IPO, reducing Alibaba&#39;s stake from the current 44.72% to 30% &lpar;Aileen Chuang/South China Morning Post&rpar;](http://www.techmeme.com/250821/p3#a250821p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
