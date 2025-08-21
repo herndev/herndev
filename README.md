@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s another dual-screen Android gaming handheld on the way, and it’s shockingly affordable](https://www.androidauthority.com/ayn-thor-pricing-3589910/)
- - [Sources: Take-Two lays off 80 staff at BioShock studio Cloud Chamber, or ~33% of its 250 staff, and delays the next BioShock game to late 2026 or early 2027 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250821/p10#a250821p10)
- - [Following Made by Google, is it time for companies to retire live smartphone launch events?](https://www.androidauthority.com/made-by-google-smartphone-launch-events-open-thread-3589908/)<!-- TECH:END -->
+ - [Google says a typical AI text prompt only uses 5 drops of water — experts say that&amp;#8217;s misleading](https://www.theverge.com/report/763080/google-ai-gemini-water-energy-emissions-study)
+ - [Honor’s new flip phone will go with your Jimmy Choos](https://www.theverge.com/news/763298/honors-new-flip-phone-will-go-with-your-jimmy-choos)
+ - [CBP data: between April and June 2025, CBP searched 14,899 devices carried by international travelers, up from a high of 12,766+ between January and March 2022 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250821/p11#a250821p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
