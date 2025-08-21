@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Pixel 10 Pro Res Zoom samples show up online, and they’re pretty bad](https://www.androidauthority.com/google-pixel-10-pro-pro-res-zoom-early-samples-3589843/)
- - [Q&amp;A with Coinbase CEO Brian Armstrong on starting the company, battling North Korean hackers, stablecoin adoption, the GENIUS Act, pro-crypto Congress, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/250821/p5#a250821p5)
- - [SpaceX inks Alaska Air deal for Starlink in-flight Wi-Fi; sources say it is courting Middle Eastern airlines in a potential watershed against legacy operators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p4#a250821p4)<!-- TECH:END -->
+ - [The Pixel 10 series brings even more panorama mode upgrades](https://www.androidauthority.com/google-pixel-10-panorama-mode-upgrade-3589858/)
+ - [In a UK tribunal filing, ex-Meta employee Samujjal Purkayastha alleges Meta misled advertisers by inflating Shops ads&#39; performance and bypassed Apple&#39;s ATT &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250821/p7#a250821p7)
+ - [A profile of Stability AI, which under CEO Prem Akkaraju and Chair Sean Parker has shifted from building frontier AI models to a Hollywood-focused SaaS company &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250821/p6#a250821p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
