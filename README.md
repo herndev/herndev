@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
- - ⏩ [Gender pay gap](http://9gag.com/gag/a6Z8AE8)
- - 👉 [When you accidentally sent a face instead of a DP.](http://9gag.com/gag/amon3Z6)<!-- MEMES:END -->
+ - 💣 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)
+ - ⏩ [When you accidentally sent a face instead of a DP.](http://9gag.com/gag/amon3Z6)
+ - 👉 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)<!-- MEMES:END -->
 
 ---
 
