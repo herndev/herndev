@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [By the third sign you let them go, there&#39;s no coming back.](http://9gag.com/gag/apR8WYW)
- - ⏩ [Gender pay gap](http://9gag.com/gag/a6Z8AE8)
- - 👉 [Sadly, 9gaggers don\u2019t have girlfriends.](http://9gag.com/gag/aZZvAWp)<!-- MEMES:END -->
+ - 💣 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
+ - ⏩ [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)
+ - 👉 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)<!-- MEMES:END -->
 
 ---
 
