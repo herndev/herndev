@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Vampire Survivors studio is publishing games now, and its next one is weird AF](https://www.polygon.com/kill-the-brickman-impressions-poncle/)
- - [Project Bloomwalker is A Beautiful Crafting Adventure About Purifying The World, and We Love It](https://news.xbox.com/en-us/2025/08/21/project-bloomwalker-gamescom-hands-on-preview/)
- - [Govern for the glory of Rome in Anno 117](https://www.pcgamer.com/games/govern-for-the-glory-of-rome-in-anno-117/)<!-- GAME:END -->
+ - [Arco makes the case as fall 2025&#39;s most anticipated animated film with new trailer](https://www.polygon.com/arco-trailer-neon-animated-2025-film/)
+ - [Bloodlines 2 developers try to justify the game&#39;s DLC clans, but it&#39;s not very convincing: &#39;We have been expanding it from where we originally planned to land&#39;](https://www.pcgamer.com/games/rpg/bloodlines-2-developers-try-to-justify-the-games-dlc-clans-but-its-not-very-convincing-we-have-been-expanding-it-from-where-we-originally-planned-to-land/)
+ - [The Expanse: Osiris Reborn will have appearances from TV series cast members](https://www.polygon.com/the-expanse-osiris-reborn-gamescom-preview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
