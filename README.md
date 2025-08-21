@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
- - ⏩ [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
- - 👉 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)<!-- MEMES:END -->
+ - 💣 [Nostalgia - The unicorn factor](http://9gag.com/gag/awyvwGB)
+ - ⏩ [Werewolf](http://9gag.com/gag/a34nmMN)
+ - 👉 [He woke up and chose very very mild violence](http://9gag.com/gag/avymN3Z)<!-- MEMES:END -->
 
 ---
 
