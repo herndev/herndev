@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is betting on agents to win the AI race](https://www.theverge.com/decoder-podcast-with-nilay-patel/761830/amazon-david-luan-agi-lab-adept-ai-interview)
- - [Google Search can now present real-time table booking results, but only if you pay up for AI](https://www.androidauthority.com/google-ai-mode-agentic-search-3589950/)
- - [Samsung Galaxy S25 Edge price drops further, saving you $270](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-6-3589961/)<!-- TECH:END -->
+ - [Apple&#39;s Epic Games court loss spawns debate over tech attorney &amp; client privilege](https://appleinsider.com/articles/25/08/21/apples-epic-games-court-loss-spawns-debate-over-tech-attorney-client-privilege?utm_source=rss)
+ - [Apple TV Plus is getting more expensive and will cost $12.99 per month](https://www.theverge.com/news/763486/apple-tv-plus-streaming-price-increase)
+ - [The Pixel 10 Pro’s new always-on display finally shows your full wallpaper](https://www.androidauthority.com/pixel-10-pro-aod-wallpaper-3589468/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
