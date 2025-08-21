@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The real main course](http://9gag.com/gag/a87zR16)
+ - 💣 [Weapon Training](http://9gag.com/gag/aMVyoV1)
  - ⏩ [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 👉 [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)<!-- MEMES:END -->
+ - 👉 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)<!-- MEMES:END -->
 
 ---
 
