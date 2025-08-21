@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The roguelike Prince of Persia platformer is now out of early access and feature complete, though it may get more content if it &#39;gets popular&#39;](https://www.pcgamer.com/games/roguelike/the-roguelike-prince-of-persia-platformer-is-now-out-of-early-access-and-feature-complete-though-it-may-get-more-content-if-it-gets-popular/)
- - [A boundless excitement for Battlefield 6 loomed large over Call of Duty&#39;s deflating Black Ops 7 reveal](https://www.pcgamer.com/games/fps/a-boundless-excitement-for-battlefield-6-loomed-large-over-call-of-dutys-deflating-black-ops-7-reveal/)
- - [Goodbye Jason Voorhees, hello Michael Myers: Friday the 13th developer and publisher return with a new multiplayer survival horror game based on Halloween](https://www.pcgamer.com/games/horror/goodbye-jason-voorhees-hello-michael-myers-friday-the-13th-developer-and-publisher-return-with-a-new-multiplayer-survival-horror-game-based-on-halloween/)<!-- GAME:END -->
+ - [The ROG Xbox Ally borrows a heck of a lot from the Steam Deck, proving that the old gated console concept is a thing of the past](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-rog-xbox-ally-borrows-a-heck-of-a-lot-from-the-steam-deck-proving-that-the-old-gated-console-concept-is-a-thing-of-the-past/)
+ - [&#39;This is the Ally 2, 100%&#39;: Asus says the ROG Xbox Ally is a bona fide successor to the first two handhelds, but the originals will still get new Xbox features](https://www.pcgamer.com/hardware/handheld-gaming-pcs/this-is-the-ally-2-100-percent-asus-says-the-rog-xbox-ally-is-a-bona-fide-successor-to-the-first-two-handhelds-but-the-originals-will-still-get-new-xbox-features/)
+ - [The roguelike Prince of Persia platformer is now out of early access and feature complete, though it may get more content if it &#39;gets popular&#39;](https://www.pcgamer.com/games/roguelike/the-roguelike-prince-of-persia-platformer-is-now-out-of-early-access-and-feature-complete-though-it-may-get-more-content-if-it-gets-popular/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
