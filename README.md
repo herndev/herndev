@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alan\u2019s smart, be like Alan](http://9gag.com/gag/aPAn5pV)
- - ⏩ [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 👉 [London man sent to prison for yelling `We love bacon` in public](http://9gag.com/gag/adBbEWd)<!-- MEMES:END -->
+ - 💣 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - ⏩ [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
+ - 👉 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)<!-- MEMES:END -->
 
 ---
 
