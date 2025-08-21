@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [To the dismay of sweaty &#39;movement kids,&#39; Battlefield 6 is nerfing Call of Duty sliding and jumping to maintain a &#39;traditional Battlefield experience&#39;](https://www.pcgamer.com/games/fps/to-the-dismay-of-sweaty-movement-kids-battlefield-6-is-nerfing-call-of-duty-sliding-and-jumping-to-maintain-a-traditional-battlefield-experience/)
- - [Eric Barone says he doesn&#39;t get paid for Stardew Valley collabs, and that&#39;s the way he likes it: &#39;I wouldn&#39;t want to make money from a collaboration&#39;](https://www.pcgamer.com/games/life-sim/eric-barone-says-he-doesnt-get-paid-for-stardew-valley-collabs-and-thats-the-way-he-likes-it-i-wouldnt-want-to-make-money-from-a-collaboration/)
- - [The Rogue Prince of Persia chases the legacy of Dead Cells](https://www.polygon.com/the-rogue-prince-of-persia-launch-impressions/)<!-- GAME:END -->
+ - [The New Cracker Barrel Logo Sucks And So Does The Mess Around It](https://kotaku.com/new-cracker-barrel-logo-woke-trump-cooperate-greed-2000619204)
+ - [Bungie Boss Pete Parsons Out After 23 Years](https://kotaku.com/bungie-pete-parsons-halo-destiny-2-sony-2000619244)
+ - [One Of FFXIV‘s Most Important Mods Is Shutting Down And People Are Losing It](https://kotaku.com/one-of-ffxivs-most-important-mods-is-shutting-down-and-people-are-losing-it-2000619228)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
