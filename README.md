@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba-backed Z.ai, formerly Zhipu, launches a general-purpose AI agent app, which lets users use natural language to book hotels, order takeaway, and more &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/250821/p1#a250821p1)
- - [India&#39;s lower house of parliament passes a sweeping online gaming bill to impose a blanket ban on real-money games nationwide, threatening a $23B industry &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250820/p58#a250820p58)
- - [How to import your old passwords into Apple Passwords](https://appleinsider.com/inside/macos/tips/how-to-import-your-old-passwords-into-the-new-apple-passwords?utm_source=rss)<!-- TECH:END -->
+ - [Filing: Shanghai-based self-driving company Banma aims to spin off from Alibaba via a Hong Kong IPO, reducing Alibaba&#39;s stake from the current 44.72% to 30% &lpar;Aileen Chuang/South China Morning Post&rpar;](http://www.techmeme.com/250821/p3#a250821p3)
+ - [This new Pixel 10 feature will make it a little easier to sleep next to your phone](https://www.androidauthority.com/pixel-10-auto-screen-saver-dimming-3589494/)
+ - [Google answers our prayers, adds 10x zoom button to Pixel 10 Pro camera app](https://www.androidauthority.com/google-pixel-10-10x-zoom-button-3589416/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
