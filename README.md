@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Who?](http://9gag.com/gag/a7oAzGL)
- - ⏩ [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)
- - 👉 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)<!-- MEMES:END -->
+ - 💣 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
+ - ⏩ [Gender pay gap](http://9gag.com/gag/a6Z8AE8)
+ - 👉 [When you accidentally sent a face instead of a DP.](http://9gag.com/gag/amon3Z6)<!-- MEMES:END -->
 
 ---
 
