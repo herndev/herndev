@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why I love my Le Creuset sauté pan](https://www.theverge.com/tech/763409/le-creuset-saute-pan-favorites)
- - [Kanye West Said Memecoins ‘Prey On Fans.’ Then He Apparently Launched One](https://www.wired.com/story/kanye-west-memecoin/)
- - [Google says the median Gemini app text prompt consumes 0.24Wh of energy, about the same as running a microwave for a second, and emits 0.03g of CO2 equivalent &lpar;Casey Crownhart/MIT Technology Review&rpar;](http://www.techmeme.com/250821/p23#a250821p23)<!-- TECH:END -->
+ - [Google reveals it isn&amp;#8217;t making tablets, smart rings, flip phones, or glasses &lpar;yet&rpar;](https://www.theverge.com/news/763778/google-canceled-tablet-no-smart-ring-or-flip-phone-glasses)
+ - [Google will provide Gemini for Government to US federal agencies at $0.47 per agency through 2026; OpenAI and Anthropic are offering their products for $1/year &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/250821/p25#a250821p25)
+ - [Google killed this feature so the Pixel 10 could have Qi2 wireless charging](https://www.androidauthority.com/pixel-10-loses-battery-share-3590102/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
