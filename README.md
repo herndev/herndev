@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mchose UT98 review: A robust mechanical keyboard with all the bells and whistles](https://appleinsider.com/articles/25/08/21/mchose-ut98-review-a-robust-mechanical-keyboard-with-all-the-bells-and-whistles?utm_source=rss)
- - [Google finally lets you customize icon shapes on your Pixel’s home screen](https://www.androidauthority.com/pixel-icon-shape-options-3589736/)
- - [Mustafa Suleyman says &quot;Seemingly Conscious AI&quot; is coming but is something to avoid, and that developers must build AI for people, not to be a digital person &lpar;Mustafa Suleyman&rpar;](http://www.techmeme.com/250820/p53#a250820p53)<!-- TECH:END -->
+ - [Meta froze hiring in its AI division last week with sources saying exceptions need Alexandr Wang&#39;s permission; the duration of the freeze remains unclear &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p55#a250820p55)
+ - [Halo, a startup founded by former Harvard students who developed a facial recognition app for Ray-Ban Meta glasses, is launching &quot;always-on&quot; AI glasses for $249 &lpar;TechCrunch&rpar;](http://www.techmeme.com/250820/p54#a250820p54)
+ - [Mchose UT98 review: A robust mechanical keyboard with all the bells and whistles](https://appleinsider.com/articles/25/08/21/mchose-ut98-review-a-robust-mechanical-keyboard-with-all-the-bells-and-whistles?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
