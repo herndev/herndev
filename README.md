@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He woke up and chose very very mild violence](http://9gag.com/gag/avymN3Z)
- - ⏩ [Alan\u2019s smart, be like Alan](http://9gag.com/gag/aPAn5pV)
- - 👉 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)<!-- MEMES:END -->
+ - 💣 [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)
+ - ⏩ [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - 👉 [London man sent to prison for yelling `We love bacon` in public](http://9gag.com/gag/adBbEWd)<!-- MEMES:END -->
 
 ---
 
