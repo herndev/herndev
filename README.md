@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - ⏩ [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
- - 👉 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)<!-- MEMES:END -->
+ - 💣 [What in hell happened here?](http://9gag.com/gag/a5QD4QL)
+ - ⏩ [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
+ - 👉 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)<!-- MEMES:END -->
 
 ---
 
