@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)
- - ⏩ [The real main course](http://9gag.com/gag/a87zR16)
- - 👉 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)<!-- MEMES:END -->
+ - 💣 [The Who?](http://9gag.com/gag/a7oAzGL)
+ - ⏩ [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)
+ - 👉 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)<!-- MEMES:END -->
 
 ---
 
