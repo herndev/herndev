@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic is in talks to raise $10B, significantly above the previously reported $5B, due to strong investor demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p21#a250821p21)
- - [Google just made it a whole lot easier to access Password Manager](https://www.androidauthority.com/google-password-manager-app-launch-3590044/)
- - [Flash deals: Save $400 on 2025 Mac Studio, plus get M2 Max spec for $899](https://appleinsider.com/articles/25/08/21/flash-deals-save-400-on-2025-mac-studio-plus-get-m2-max-spec-for-899?utm_source=rss)<!-- TECH:END -->
+ - [Why I love my Le Creuset sauté pan](https://www.theverge.com/tech/763409/le-creuset-saute-pan-favorites)
+ - [Kanye West Said Memecoins ‘Prey On Fans.’ Then He Apparently Launched One](https://www.wired.com/story/kanye-west-memecoin/)
+ - [Google says the median Gemini app text prompt consumes 0.24Wh of energy, about the same as running a microwave for a second, and emits 0.03g of CO2 equivalent &lpar;Casey Crownhart/MIT Technology Review&rpar;](http://www.techmeme.com/250821/p23#a250821p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
