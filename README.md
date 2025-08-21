@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There Are No Ghosts at the Grand Is Exactly as Unusual as You’d Hoped](https://news.xbox.com/en-us/2025/08/21/there-are-no-ghosts-at-the-grand-demo-hands-on-preview/)
- - [How to complete the Capture the Sun quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-capture-the-sun-quest-walkthrough/)
- - [Indiana Jones and the Great Circle: The Order of Giants DLC – First Hands-on](https://news.xbox.com/en-us/2025/08/21/indiana-jones-great-circle-order-of-giants-dlc-first-hands-on-preview-gamescom/)<!-- GAME:END -->
+ - [Super Meat Boy 3D Adds Multiple New Dimensions to a Classic Platformer](https://news.xbox.com/en-us/2025/08/21/super-meat-boy-3d-hands-on-demo-gamescom/)
+ - [How to complete the Storm&#39;s A-Brewin&#39;! quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-storms-a-brewin-quest-walkthrough/)
+ - [AMD accidentally released the source code for FSR 4 before swapping back to the normal SDK, and a glimpse at the libraries suggests it might support older graphics cards in the near future](https://www.pcgamer.com/hardware/graphics-cards/amd-accidentally-released-the-source-code-for-fsr-4-before-swapping-back-to-the-normal-sdk-and-a-glimpse-at-the-libraries-suggests-it-might-support-older-graphics-cards-in-the-near-future/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
