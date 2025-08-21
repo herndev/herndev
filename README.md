@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
- - ⏩ [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)
- - 👉 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)<!-- MEMES:END -->
+ - 💣 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
+ - ⏩ [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
+ - 👉 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)<!-- MEMES:END -->
 
 ---
 
