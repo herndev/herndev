@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role details Campaign 4, its cast, and its rules](https://www.polygon.com/critical-roles-campaign-4-cast-reveal-trailer/)
- - [Available for Xbox Insiders: Get to the Games Faster with My Apps](https://news.xbox.com/en-us/2025/08/21/available-for-xbox-insiders-get-to-the-games-faster-with-my-apps/)
- - [Arco makes the case as fall 2025&#39;s most anticipated animated film with new trailer](https://www.polygon.com/arco-trailer-neon-animated-2025-film/)<!-- GAME:END -->
+ - [To the dismay of sweaty &#39;movement kids,&#39; Battlefield 6 is nerfing Call of Duty sliding and jumping to maintain a &#39;traditional Battlefield experience&#39;](https://www.pcgamer.com/games/fps/to-the-dismay-of-sweaty-movement-kids-battlefield-6-is-nerfing-call-of-duty-sliding-and-jumping-to-maintain-a-traditional-battlefield-experience/)
+ - [Eric Barone says he doesn&#39;t get paid for Stardew Valley collabs, and that&#39;s the way he likes it: &#39;I wouldn&#39;t want to make money from a collaboration&#39;](https://www.pcgamer.com/games/life-sim/eric-barone-says-he-doesnt-get-paid-for-stardew-valley-collabs-and-thats-the-way-he-likes-it-i-wouldnt-want-to-make-money-from-a-collaboration/)
+ - [The Rogue Prince of Persia chases the legacy of Dead Cells](https://www.polygon.com/the-rogue-prince-of-persia-launch-impressions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
