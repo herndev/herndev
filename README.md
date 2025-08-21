@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [25 best Game Pass games on Xbox and PC &lpar;August 2025&rpar;](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox/)
- - [MSI Stealth 18 HX AI review](https://www.pcgamer.com/hardware/gaming-laptops/msi-stealth-18-hx-ai-review/)
- - [WoW&#39;s player housing feature will have an import function, letting you save and share houses—and potentially furnishings—with each other](https://www.pcgamer.com/games/world-of-warcraft/wows-player-housing-feature-will-have-an-import-function-letting-you-save-and-share-houses-and-potentially-furnishings-with-each-other/)<!-- GAME:END -->
+ - [5 Things You Might’ve Missed in the Wildekin Reveal Trailer](https://news.xbox.com/en-us/2025/08/21/wildekin-reveal-xbox-gamescom-things-you-missed/)
+ - [Sony has bumped up the US prices of the PlayStation 5 range by roughly $50 a piece, citing &#39;a challenging economic environment&#39;](https://www.pcgamer.com/hardware/sony-has-bumped-up-the-us-prices-of-the-playstation-5-range-by-roughly-usd50-a-piece-citing-a-challenging-economic-environment/)
+ - [Hollow Knight: Silksong finally has a release date](https://www.polygon.com/hollow-knight-silksong-release-date-gamescom/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
