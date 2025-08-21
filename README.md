@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I love Final Fantasy&#39;s Vivi, but he&#39;s ruining Magic: The Gathering](https://www.polygon.com/vivi-magic-the-gathering-controversy/)
- - [Stardew Valley is making an incredibly rare collaboration appearance in a cosy gacha game of all places](https://www.pcgamer.com/games/adventure/stardew-valley-is-making-an-incredibly-rare-collaboration-appearance-in-a-cosy-gacha-game-of-all-places/)
- - [Super Meat Boy 3D Adds Multiple New Dimensions to a Classic Platformer](https://news.xbox.com/en-us/2025/08/21/super-meat-boy-3d-hands-on-demo-gamescom/)<!-- GAME:END -->
+ - [Vampire Survivors Dev Publishes Surreal Roguelike About Shooting Human Brick Heads You Can Play Right Now](https://kotaku.com/vampire-survivors-balatro-kill-the-brickman-poncle-roguelike-2000619132)
+ - [Herdling review: Sheep herding makes for the most human game of the year](https://www.polygon.com/herdling-review/)
+ - [Kiss takes the stage in World of Tanks’ Metal Fest](https://blog.playstation.com/2025/08/21/kiss-takes-the-stage-in-world-of-tanks-metal-fest/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
