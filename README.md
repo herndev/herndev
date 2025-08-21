@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s lower house of parliament passes a sweeping online gaming bill to impose a blanket ban on real-money games nationwide, threatening a $23B industry &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250820/p58#a250820p58)
  - [How to import your old passwords into Apple Passwords](https://appleinsider.com/inside/macos/tips/how-to-import-your-old-passwords-into-the-new-apple-passwords?utm_source=rss)
- - [Sources: Beijing&#39;s Nvidia H20 curbs were triggered by US Commerce Secretary Lutnick&#39;s not selling China the best stuff remark, which officials found &quot;insulting&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250820/p57#a250820p57)
- - [TRM Labs launches Beacon Network, a real-time alert system for illicit crypto activity, partnering with law enforcement and exchanges like Binance and Coinbase &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250820/p56#a250820p56)<!-- TECH:END -->
+ - [Sources: Beijing&#39;s Nvidia H20 curbs were triggered by US Commerce Secretary Lutnick&#39;s not selling China the best stuff remark, which officials found &quot;insulting&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250820/p57#a250820p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
