@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Meat Boy 3D Adds Multiple New Dimensions to a Classic Platformer](https://news.xbox.com/en-us/2025/08/21/super-meat-boy-3d-hands-on-demo-gamescom/)
- - [How to complete the Storm&#39;s A-Brewin&#39;! quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-storms-a-brewin-quest-walkthrough/)
- - [AMD accidentally released the source code for FSR 4 before swapping back to the normal SDK, and a glimpse at the libraries suggests it might support older graphics cards in the near future](https://www.pcgamer.com/hardware/graphics-cards/amd-accidentally-released-the-source-code-for-fsr-4-before-swapping-back-to-the-normal-sdk-and-a-glimpse-at-the-libraries-suggests-it-might-support-older-graphics-cards-in-the-near-future/)<!-- GAME:END -->
+ - [I love Final Fantasy&#39;s Vivi, but he&#39;s ruining Magic: The Gathering](https://www.polygon.com/vivi-magic-the-gathering-controversy/)
+ - [Stardew Valley is making an incredibly rare collaboration appearance in a cosy gacha game of all places](https://www.pcgamer.com/games/adventure/stardew-valley-is-making-an-incredibly-rare-collaboration-appearance-in-a-cosy-gacha-game-of-all-places/)
+ - [Super Meat Boy 3D Adds Multiple New Dimensions to a Classic Platformer](https://news.xbox.com/en-us/2025/08/21/super-meat-boy-3d-hands-on-demo-gamescom/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
