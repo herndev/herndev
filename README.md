@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for August 21 &lpar;#1524&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-21-2025/)
  - [The ROG Xbox Ally borrows a heck of a lot from the Steam Deck, proving that the old gated console concept is a thing of the past](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-rog-xbox-ally-borrows-a-heck-of-a-lot-from-the-steam-deck-proving-that-the-old-gated-console-concept-is-a-thing-of-the-past/)
- - [&#39;This is the Ally 2, 100%&#39;: Asus says the ROG Xbox Ally is a bona fide successor to the first two handhelds, but the originals will still get new Xbox features](https://www.pcgamer.com/hardware/handheld-gaming-pcs/this-is-the-ally-2-100-percent-asus-says-the-rog-xbox-ally-is-a-bona-fide-successor-to-the-first-two-handhelds-but-the-originals-will-still-get-new-xbox-features/)
- - [The roguelike Prince of Persia platformer is now out of early access and feature complete, though it may get more content if it &#39;gets popular&#39;](https://www.pcgamer.com/games/roguelike/the-roguelike-prince-of-persia-platformer-is-now-out-of-early-access-and-feature-complete-though-it-may-get-more-content-if-it-gets-popular/)<!-- GAME:END -->
+ - [&#39;This is the Ally 2, 100%&#39;: Asus says the ROG Xbox Ally is a bona fide successor to the first two handhelds, but the originals will still get new Xbox features](https://www.pcgamer.com/hardware/handheld-gaming-pcs/this-is-the-ally-2-100-percent-asus-says-the-rog-xbox-ally-is-a-bona-fide-successor-to-the-first-two-handhelds-but-the-originals-will-still-get-new-xbox-features/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
