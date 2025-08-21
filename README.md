@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Werewolf](http://9gag.com/gag/a34nmMN)
- - ⏩ [He woke up and chose very very mild violence](http://9gag.com/gag/avymN3Z)
- - 👉 [Terry is truly a legend. What wise words he just said here](http://9gag.com/gag/aAyZorL)<!-- MEMES:END -->
+ - 💣 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)
+ - ⏩ [The real main course](http://9gag.com/gag/a87zR16)
+ - 👉 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)<!-- MEMES:END -->
 
 ---
 
