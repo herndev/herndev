@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Mobile’s latest T1 phone teaser fails to hide an epic Photoshop blunder](https://www.androidauthority.com/trump-mobile-galaxy-s25-ultra-3590291/)
- - [OpenAI sets up a legal entity, and plans to open its first office in India after launching ChatGPT Go, its cheapest plan, in the country on August 19 &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/250822/p8#a250822p8)
- - [5 apps you should use instead of Messenger](https://www.androidauthority.com/facebook-messenger-alternatives-3588687/)<!-- TECH:END -->
+ - [I review phone cases, and these are the Google Pixel 10 cases I’d pick up at launch](https://www.androidauthority.com/best-pixel-10-pro-xl-cases-3590067/)
+ - [What Is Down Alternative and Who Should Buy It? Experts Explain &lpar;2025&rpar;](https://www.wired.com/story/what-is-down-alternative/)
+ - [Trump Mobile’s fake iPhone is now a fake S25 Ultra](https://www.theverge.com/news/764175/trump-mobile-t1-phone-samsung-s25-ultra-spigen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
