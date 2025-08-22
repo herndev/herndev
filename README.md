@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
- - ⏩ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
+ - ⏩ [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
+ - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
 
 ---
 
