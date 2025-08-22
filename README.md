@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones and Order of Giants release shakes up Game of the Year race](https://www.polygon.com/indiana-jones-goty-order-of-giants-dlc-release-date/)
- - [One Game Has Already Been Delayed To Avoid Silksong‘s September Launch](https://kotaku.com/silksong-september-launch-delay-avoid-fortnite-ashley-cod-black-ops-7-2000619529)
- - [&#39;Silksong lol&#39;: CloverPit devs delay the slot machine Balatro-like by 23 days to escape the blast radius of Silksong&#39;s launch](https://www.pcgamer.com/games/roguelike/silksong-lol-cloverpit-devs-delay-the-slot-machine-balatro-like-by-23-days-to-escape-the-blast-radius-of-silksongs-launch/)<!-- GAME:END -->
+ - [I&#39;ve never played a roguelike, so I started with the original Rogue &lpar;1980&rpar;](https://www.polygon.com/original-1980-rogue-impressions-2025/)
+ - [A free Chrome VPN with over 100,000 installations has been accused of snapping unauthorised screenshots of websites and spying on its users location data](https://www.pcgamer.com/software/security/a-free-chrome-vpn-with-over-100-000-installations-has-been-accused-of-snapping-unauthorised-screenshots-of-websites-and-spying-on-its-users-location-data/)
+ - [Everyone&#39;s heading back to Hollow Knight for one last go before Silksong comes out—the game&#39;s all-time Steam peak is rising as I write this headline](https://www.pcgamer.com/games/action/everyones-heading-back-to-hollow-knight-for-one-last-go-before-silksong-comes-out-the-games-all-time-steam-peak-is-rising-as-i-write-this-headline/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
