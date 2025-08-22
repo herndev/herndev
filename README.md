@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The creators of Deadly Premonition and No More Heroes are releasing a typically over-the-top roguelite &#39;fever dream&#39; next month](https://www.pcgamer.com/games/action/the-creators-of-deadly-premonition-and-no-more-heroes-are-releasing-a-typically-over-the-top-roguelite-fever-dream-next-month/)
- - [Today&#39;s Wordle clues, hints and answer for August 22 &lpar;#1525&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-22-2025/)
- - [Peacemaker&#39;s season 2 premiere has strong links with season 1&#39;s pilot](https://www.polygon.com/peacemaker-season-2-episode-1-recap-analysis-explained-john-cena/)<!-- GAME:END -->
+ - [Here’s How Metal Gear Solid 3′s Remake Gameplay Compares To Metal Gear Solid 5](https://kotaku.com/snake-eater-delta-remake-mgsv-5-comparison-vs-2000619209)
+ - [A Sneak Peak Inside Metal Gear Solid Delta: Snake Eater’s Development](https://kotaku.com/metal-gear-solid-delta-snake-eater-3-mgs3-mgs4-konami-2000619259)
+ - [Metal Gear Solid Delta Snake Eater review: A gorgeous recreation of a stealth masterpiece](https://www.polygon.com/metal-gear-solid-delta-snake-eater-review-mgs3-remake/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
