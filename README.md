@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I review phone cases, and these are the Google Pixel 10 cases I’d pick up at launch](https://www.androidauthority.com/best-pixel-10-pro-xl-cases-3590067/)
- - [What Is Down Alternative and Who Should Buy It? Experts Explain &lpar;2025&rpar;](https://www.wired.com/story/what-is-down-alternative/)
- - [Trump Mobile’s fake iPhone is now a fake S25 Ultra](https://www.theverge.com/news/764175/trump-mobile-t1-phone-samsung-s25-ultra-spigen)<!-- TECH:END -->
+ - [Digg’s new app is basic, but a great start](https://www.theverge.com/apps/763689/digg-mobile-ios-android-app-relaunch)
+ - [Google’s first Gemini smart home speaker detailed in leak](https://www.theverge.com/news/764203/google-gemini-smart-home-speaker-nest)
+ - [Inside iOS 26 Genmoji: Tapbacks, smarter AI &amp; deeper customization](https://appleinsider.com/articles/25/08/22/inside-ios-26-genmoji-tapbacks-smarter-ai-deeper-customization?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
