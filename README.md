@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Even more games are moving out of Silksong&#39;s way: &#39;I feel like a little krill trying not to get eaten by a blue whale&#39;](https://www.pcgamer.com/games/even-more-games-are-moving-out-of-silksongs-way-i-feel-like-a-little-krill-trying-not-to-get-eaten-by-a-blue-whale/)
- - [Enshrouded&#39;s next big update is bringing way more water to the survival RPG than I expected](https://www.pcgamer.com/games/survival-crafting/enshroudeds-next-big-update-is-bringing-way-more-water-to-the-survival-rpg-than-i-expected/)
- - [Mission Impossible - The Final Reckoning, Elio and every new movie you can watch on streaming this weekend](https://www.polygon.com/new-movies-on-streaming-watch-mission-impossible-the-final-reckoning-elio/)<!-- GAME:END -->
+ - [Marvel Rivals dev&#39;s transparent, 18-minute breakdown of how ranked isn&#39;t rigged fails to placate players who hate losing](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-devs-transparent-18-minute-breakdown-of-how-ranked-isnt-rigged-fails-to-placate-players-who-hate-losing/)
+ - [After stretching the definition of &#39;beta&#39; for 8 years, Escape From Tarkov is finally hitting 1.0](https://www.pcgamer.com/games/fps/escape-from-tarkov-1-0-release-date/)
+ - [Even more games are moving out of Silksong&#39;s way: &#39;I feel like a little krill trying not to get eaten by a blue whale&#39;](https://www.pcgamer.com/games/even-more-games-are-moving-out-of-silksongs-way-i-feel-like-a-little-krill-trying-not-to-get-eaten-by-a-blue-whale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
