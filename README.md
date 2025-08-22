@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vivo demos Vivo Vision, its first MR headset, which looks like an Apple Vision Pro clone but is ~40% lighter with micro-OLED displays, and could cost ~$1,400 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250822/p6#a250822p6)
- - [YouTube’s new integration lets you discover live concerts nearby, with a sweet Premium perk](https://www.androidauthority.com/youtube-bandsintown-integration-3590245/)
- - [Some Pixel owners are getting a more powerful At A Glance widget](https://www.androidauthority.com/google-pixel-at-a-glance-widget-upgrade-3590232/)<!-- TECH:END -->
+ - [Here’s what to expect from One UI 8 on Samsung’s tri-fold device](https://www.androidauthority.com/samsung-galaxy-tri-fold-one-ui-8-features-3590261/)
+ - [11 Tips for Getting Started in Metal Gear Solid Delta: Snake Eater](https://www.cnet.com/tech/gaming/11-tips-for-getting-started-in-metal-gear-solid-delta-snake-eater/#ftag=CAD590a51e)
+ - [Vivo demos Vivo Vision, its first MR headset, which looks like an Apple Vision Pro clone but is ~40% lighter with micro-OLED displays, and could cost ~$1,400 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250822/p6#a250822p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
