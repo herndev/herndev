@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - ⏩ [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
- - 👉 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)<!-- MEMES:END -->
+ - ⏩ [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
 
 ---
 
