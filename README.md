@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says its Chief People Officer Julia Villagra will leave on August 22; Villagra joined in February 2024 and was promoted to the role in March 2024 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250822/p4#a250822p4)
- - [Google is supercharging screenshot editing on your Pixel with Android 16 QPR2 Beta 1](https://www.androidauthority.com/pixel-screenshot-editing-android-16-qpr2-beta-1-3590223/)
- - [Court filing: Elon Musk says he talked to Mark Zuckerberg in February about backing a $97.4B OpenAI bid, but neither he nor Meta signed a letter of intent &lpar;Financial Times&rpar;](http://www.techmeme.com/250822/p3#a250822p3)<!-- TECH:END -->
+ - [Vivo demos Vivo Vision, its first MR headset, which looks like an Apple Vision Pro clone but is ~40% lighter with micro-OLED displays, and could cost ~$1,400 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250822/p6#a250822p6)
+ - [YouTube’s new integration lets you discover live concerts nearby, with a sweet Premium perk](https://www.androidauthority.com/youtube-bandsintown-integration-3590245/)
+ - [Some Pixel owners are getting a more powerful At A Glance widget](https://www.androidauthority.com/google-pixel-at-a-glance-widget-upgrade-3590232/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
