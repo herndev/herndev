@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
- - ⏩ [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
+ - 💣 [Majority rules, unless it&#39;s kim jong un](http://9gag.com/gag/aRBD55j)
+ - ⏩ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
 
 ---
 
