@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silksong is out soon, and indie games are getting out of the way](https://www.theverge.com/news/764346/hollow-knight-silksong-indie-game-delays-cloverpit-faeland-aeterna-lucis)
- - [7 things about the Pixel 10 series you didn’t hear at Made by Google](https://www.androidauthority.com/pixel-10-phones-google-skipped-3590027/)
- - [AYANEO’s ‘budget-friendly’ handheld doesn’t sound all that budget-friendly](https://www.androidauthority.com/ayaneo-konkr-pocket-fit-event-3590420/)<!-- TECH:END -->
+ - [Join Our Next Livestream: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)
+ - [Got a scary T-Mobile text about your account? Here’s what it really means](https://www.androidauthority.com/t-mobile-authorized-users-text-message-3590460/)
+ - [Google abandoning physical SIM cards on the Pixel 10 is an abject loss for consumers](https://www.androidauthority.com/killing-sim-cards-3590141/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
