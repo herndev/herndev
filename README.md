@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaker provides another look at TechWoven iPhone 17 Pro Max cases](https://appleinsider.com/articles/25/08/21/leaker-provides-another-look-at-techwoven-iphone-17-pro-max-cases?utm_source=rss)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [Microsoft is bringing PC gaming apps and stores to its Xbox app on Windows](https://www.theverge.com/news/763994/microsoft-xbox-app-windows-third-party-stores-apps-utilities)<!-- TECH:END -->
+ - [Netflix’s new Splinter Cell animated series kicks off in October](https://www.theverge.com/netflix/763821/netflix-splinter-cell-deathwatch-release-date-trailer)
+ - [Zoom reports Q2 revenue up 5% YoY to $1.22B, Enterprise revenue up 7% to $730.7M, vs. $716.7M est., raises FY 2026 forecast above est.; ZM jumps 6%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250821/p32#a250821p32)
+ - [Source: the Trump administration considers taking equity stakes in CHIPS Act recipients but not in firms that are increasing US investment, like TSMC and Micron &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250821/p31#a250821p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
