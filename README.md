@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
+ - 💣 [The Who?](http://9gag.com/gag/a7oAzGL)
  - ⏩ [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
- - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
+ - 👉 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)<!-- MEMES:END -->
 
 ---
 
