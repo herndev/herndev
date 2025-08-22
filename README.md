@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for August 22 &lpar;#1525&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-22-2025/)
  - [Peacemaker&#39;s season 2 premiere has strong links with season 1&#39;s pilot](https://www.polygon.com/peacemaker-season-2-episode-1-recap-analysis-explained-john-cena/)
- - [Peacemaker&#39;s season 2 premiere begins with a Zack Snyder retcon](https://www.polygon.com/peacemaker-season-2-zack-snyder-justice-league-retcon/)
- - [&#39;Legal inquiry&#39; shuts down one of Final Fantasy 14&#39;s most popular mods, adding yet another blurry line in the sand from Square Enix](https://www.pcgamer.com/games/final-fantasy/legal-inquiry-shuts-down-one-of-final-fantasy-14s-most-popular-mods-adding-yet-another-blurry-line-in-the-sand-from-square-enix/)<!-- GAME:END -->
+ - [Peacemaker&#39;s season 2 premiere begins with a Zack Snyder retcon](https://www.polygon.com/peacemaker-season-2-zack-snyder-justice-league-retcon/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
