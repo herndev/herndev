@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Who?](http://9gag.com/gag/a7oAzGL)
- - ⏩ [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 👉 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)<!-- MEMES:END -->
+ - 💣 [Actually don\u2019t try this at home unless you know what you\u2019re doing.](http://9gag.com/gag/aKGprqQ)
+ - ⏩ [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
+ - 👉 [Man attempts to lift an air conditioner, fails spectacularly](http://9gag.com/gag/aXPeDzb)<!-- MEMES:END -->
 
 ---
 
