@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Hollow Knight: Silksong live up to the hype?](https://www.polygon.com/hollow-knight-silksong-hype-release/)
- - [Can Garfield Kart 2 compete with Hollow Knight: Silksong? Who cares, dude?](https://www.polygon.com/garfield-kart-2-demo-hands-on-impressions/)
- - [What is &#39;West Marches&#39; and why Critical Role is revolutionizing Campaign 4](https://www.polygon.com/critical-role-campaign-4-west-marches-what-is/)<!-- GAME:END -->
+ - [Lost Soul Aside: PC features and a behind-the-scenes look](https://blog.playstation.com/2025/08/22/lost-soul-aside-pc-features-and-a-behind-the-scenes-look/)
+ - [Peacemaker&#39;s season 2&#39;s orgy scene fails a test The Boys totally nailed](https://www.polygon.com/peacemaker-season-2-premiere-superhero-orgy-gimmicks/)
+ - [After months of back and forth, Nvidia has reportedly paused making its H20 chip due to security concerns, this time from China](https://www.pcgamer.com/hardware/after-months-of-back-and-forth-nvidia-has-reportedly-paused-making-its-h20-chip-due-to-security-concerns-this-time-from-china/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
