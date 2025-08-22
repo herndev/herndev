@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [&#39;namsayin](http://9gag.com/gag/aAyZowg)
- - ⏩ [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
- - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
+ - ⏩ [Why do men only drive in African Safaris?](http://9gag.com/gag/a34nmgN)
+ - 👉 [As all things should be](http://9gag.com/gag/aQzVGWW)<!-- MEMES:END -->
 
 ---
 
