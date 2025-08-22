@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google just gave your Pixel a new hub for everything, with one big catch](https://www.androidauthority.com/my-pixel-app-3590212/)
  - [Y Combinator filed an amicus brief in support of Epic Games in their antitrust lawsuit against Apple, calling App Store fees &quot;a punitive tax on innovation&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250821/p35#a250821p35)
- - [Another executive departs Apple for Meta even as a hiring freeze begins](https://appleinsider.com/articles/25/08/22/another-executive-departs-apple-for-meta-even-as-a-hiring-freeze-begins?utm_source=rss)
- - [Sources: Meta has poached Frank Chu, an Apple exec who led AI teams focused on cloud infrastructure, training and search, despite Meta&#39;s plans to slow hiring &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250821/p34#a250821p34)<!-- TECH:END -->
+ - [Another executive departs Apple for Meta even as a hiring freeze begins](https://appleinsider.com/articles/25/08/22/another-executive-departs-apple-for-meta-even-as-a-hiring-freeze-begins?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
