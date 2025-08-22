@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I wouldn&#39;t have thought I&#39;d be playing Starfield again in 2025, but this Star Wars total conversion mod is a real blast&lpar;er&rpar;](https://www.pcgamer.com/games/rpg/i-wouldnt-have-thought-id-be-playing-starfield-again-in-2025-but-this-star-wars-total-conversion-mod-is-a-real-blast-er/)
- - [&#39;Eat s***, Pete&#39;: In a rare moment of unity, Destiny players bid good riddance to departing Bungie CEO Pete Parsons](https://www.pcgamer.com/gaming-industry/eat-s-pete-in-a-rare-moment-of-unity-destiny-players-bid-good-riddance-to-departing-bungie-ceo-pete-parsons/)
- - [Diablo 4&#39;s next season acknowledges its greatest weakness as an action RPG and offers a solution on how to fix it](https://www.pcgamer.com/games/rpg/diablo-4s-next-season-acknowledges-its-greatest-weakness-as-an-action-rpg-and-offers-a-solution-on-how-to-fix-it/)<!-- GAME:END -->
+ - [Devil May Cry season 2&#39;s first trailer is here, pitting Dante vs. Vergil](https://www.polygon.com/netflix-devil-may-cry-season-2-trailer-vergil/)
+ - [Nightdive&#39;s System Shock 2 remaster now supports 26 years of mods and fan missions](https://www.pcgamer.com/games/fps/nightdives-system-shock-2-remaster-now-supports-26-years-of-mods-and-fan-missions/)
+ - [I wouldn&#39;t have thought I&#39;d be playing Starfield again in 2025, but this Star Wars total conversion mod is a real blast&lpar;er&rpar;](https://www.pcgamer.com/games/rpg/i-wouldnt-have-thought-id-be-playing-starfield-again-in-2025-but-this-star-wars-total-conversion-mod-is-a-real-blast-er/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
