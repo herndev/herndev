@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just gave your Pixel a new hub for everything, with one big catch](https://www.androidauthority.com/my-pixel-app-3590212/)
- - [Y Combinator filed an amicus brief in support of Epic Games in their antitrust lawsuit against Apple, calling App Store fees &quot;a punitive tax on innovation&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250821/p35#a250821p35)
- - [Another executive departs Apple for Meta even as a hiring freeze begins](https://appleinsider.com/articles/25/08/22/another-executive-departs-apple-for-meta-even-as-a-hiring-freeze-begins?utm_source=rss)<!-- TECH:END -->
+ - [Jensen Huang says Nvidia is in talks with China over H20 security concerns, is hopeful for a resolution, and reiterates that the H20 has no &quot;security backdoors&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250822/p2#a250822p2)
+ - [Sources: Nvidia told suppliers like Amkor and Samsung to halt H20 chip production after China urged local tech firms to avoid H20 over alleged security concerns &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250822/p1#a250822p1)
+ - [Today&#39;s NYT Mini Crossword Answers for the Friday, Aug. 22 Domino-Shaped Puzzle](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-the-friday-aug-22-domino-shaped-puzzle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
