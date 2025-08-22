@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
- - ⏩ [Me me me](http://9gag.com/gag/apR8yB8)
- - 👉 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)<!-- MEMES:END -->
+ - 💣 [C minus students](http://9gag.com/gag/aND3xvb)
+ - ⏩ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
 
 ---
 
