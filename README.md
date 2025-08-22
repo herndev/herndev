@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blood of the Dawnwalker lets you choose your own vampire adventure](https://www.polygon.com/blood-of-the-dawnwalker-impressions-gamescom/)
- - [Dawn of War 4 developer King Art knows what you all really want: &#39;Overwhelmingly, it&#39;s singleplayer content and the campaign&#39;](https://www.pcgamer.com/games/strategy/dawn-of-war-4-developer-king-art-knows-what-you-all-really-want-overwhelmingly-its-singleplayer-content-and-the-campaign/)
- - [Hollow Knight: Silksong&#39;s surprise release is blowing up plans for other games](https://www.polygon.com/hollow-knight-silksong-release-date-indie-games/)<!-- GAME:END -->
+ - [Sword of the Sea creator talks life after Journey and &quot;extreme&quot; bliss](https://www.polygon.com/sword-of-the-sea-interview-matt-nava/)
+ - [The underappreciated Immortals of Aveum released two years ago today](https://www.polygon.com/happy-immortals-of-aveum-day-anniversary/)
+ - [Peacemaker Season 2 Officially Removes Zack Snyder’s Justice League From The DCU](https://kotaku.com/peacemaker-season-2-justice-league-gang-scene-reshoot-2000619550)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
