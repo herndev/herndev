@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which do you like](http://9gag.com/gag/aQzVGzz)
- - ⏩ [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
- - 👉 [Peter Parker&#39;s face says it all, who is number one](http://9gag.com/gag/aO8GgpD)<!-- MEMES:END -->
+ - 💣 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
+ - ⏩ [Me me me](http://9gag.com/gag/apR8yB8)
+ - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
 
 ---
 
