@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta has poached Frank Chu, an Apple exec who led AI teams focused on cloud infrastructure, training and search, despite Meta&#39;s plans to slow hiring &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250821/p34#a250821p34)
  - [Clothing subscription service Rent the Runway gives up around 86% ownership to three lenders in exchange for $240M+ in debt relief and $20M in fresh financing &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p33#a250821p33)
- - [Netflix Anime Hits Anime NYC: &#39;Blue Eye Samurai,&#39; &#39;Splinter Cell: Deathwatch&#39; and More](https://www.cnet.com/tech/services-and-software/netflix-anime-hits-anime-nyc-blue-eye-samurai-splinter-cell-deathwatch-and-more/#ftag=CAD590a51e)
- - [Netflix’s new Splinter Cell animated series kicks off in October](https://www.theverge.com/netflix/763821/netflix-splinter-cell-deathwatch-release-date-trailer)<!-- TECH:END -->
+ - [Netflix Anime Hits Anime NYC: &#39;Blue Eye Samurai,&#39; &#39;Splinter Cell: Deathwatch&#39; and More](https://www.cnet.com/tech/services-and-software/netflix-anime-hits-anime-nyc-blue-eye-samurai-splinter-cell-deathwatch-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
