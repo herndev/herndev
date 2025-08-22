@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - ⏩ [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
+ - 💣 [The Who?](http://9gag.com/gag/a7oAzGL)
+ - ⏩ [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - 👉 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)<!-- MEMES:END -->
 
 ---
 
