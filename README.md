@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
- - ⏩ [Which do you like](http://9gag.com/gag/aQzVGzz)
- - 👉 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)<!-- MEMES:END -->
+ - 💣 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - ⏩ [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
+ - 👉 [Used to be science fiction. Now it&#39;s just... A British documentary.](http://9gag.com/gag/aMVy3Q1)<!-- MEMES:END -->
 
 ---
 
