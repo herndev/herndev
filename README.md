@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ontic, whose software helps corporate security teams respond to physical threats, raised a $230M Series C led by KKR, following a $40M Series B in November 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250822/p21#a250822p21)
- - [Trump says the US is taking a 10 percent stake in Intel](https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal)
- - [One of Gboard’s playful features could be on the chopping block &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-dropping-bitmoji-support-apk-teardown-3590502/)<!-- TECH:END -->
+ - [Google Maps is planning a little reorganization and we’ve got an early look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-ui-3590494/)
+ - [Australia orders Binance Australia to hire an external auditor within 28 days over &quot;serious concerns&quot; with money laundering and terrorism financing controls &lpar;Richard Henderson/Bloomberg&rpar;](http://www.techmeme.com/250822/p22#a250822p22)
+ - [Apple reportedly in talks with Google to make Gemini the foundation of Siri](https://www.androidauthority.com/siri-revamped-with-gemini-3590505/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
