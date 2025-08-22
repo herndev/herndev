@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get all the berry plants in Grow a Garden](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-berry-plants-locations/)
- - [Season 2 of Netflix&#39;s Blue Eye Samurai is in the works](https://www.polygon.com/blue-eye-samurai-season-2-netflix-teaser/)
- - [I modded guns into Baldur’s Gate 3—and now I’m an unstoppable angel of death](https://www.pcgamer.com/games/rpg/i-modded-guns-into-baldurs-gate-3-and-now-im-an-unstoppable-angel-of-death/)<!-- GAME:END -->
+ - [Best Hall effect keyboards in 2025: the fastest, most customisable keyboards for competitive gaming](https://www.pcgamer.com/hardware/gaming-keyboards/best-hall-effect-keyboards/)
+ - [Critical Role&#39;s next D&amp;D campaign will have 13 players and 3 parties—and I have no idea where Brennan is getting this energy from](https://www.pcgamer.com/games/rpg/critical-roles-next-d-and-d-campaign-will-have-13-players-and-3-parties-and-i-have-no-idea-where-brennan-is-getting-this-energy-from/)
+ - [Photography puzzler Opus: Prism Peak might be the rare game to actually pull its Studio Ghibli vibes off](https://www.pcgamer.com/games/adventure/photography-puzzler-opus-prism-peak-might-be-the-rare-game-to-actually-pull-its-studio-ghibli-vibes-off/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
