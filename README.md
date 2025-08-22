@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s How Metal Gear Solid 3′s Remake Gameplay Compares To Metal Gear Solid 5](https://kotaku.com/snake-eater-delta-remake-mgsv-5-comparison-vs-2000619209)
- - [A Sneak Peak Inside Metal Gear Solid Delta: Snake Eater’s Development](https://kotaku.com/metal-gear-solid-delta-snake-eater-3-mgs3-mgs4-konami-2000619259)
- - [Metal Gear Solid Delta Snake Eater review: A gorgeous recreation of a stealth masterpiece](https://www.polygon.com/metal-gear-solid-delta-snake-eater-review-mgs3-remake/)<!-- GAME:END -->
+ - [How to get all the berry plants in Grow a Garden](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-berry-plants-locations/)
+ - [Season 2 of Netflix&#39;s Blue Eye Samurai is in the works](https://www.polygon.com/blue-eye-samurai-season-2-netflix-teaser/)
+ - [I modded guns into Baldur’s Gate 3—and now I’m an unstoppable angel of death](https://www.pcgamer.com/games/rpg/i-modded-guns-into-baldurs-gate-3-and-now-im-an-unstoppable-angel-of-death/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
