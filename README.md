@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Hall effect keyboards in 2025: the fastest, most customisable keyboards for competitive gaming](https://www.pcgamer.com/hardware/gaming-keyboards/best-hall-effect-keyboards/)
- - [Critical Role&#39;s next D&amp;D campaign will have 13 players and 3 parties—and I have no idea where Brennan is getting this energy from](https://www.pcgamer.com/games/rpg/critical-roles-next-d-and-d-campaign-will-have-13-players-and-3-parties-and-i-have-no-idea-where-brennan-is-getting-this-energy-from/)
- - [Photography puzzler Opus: Prism Peak might be the rare game to actually pull its Studio Ghibli vibes off](https://www.pcgamer.com/games/adventure/photography-puzzler-opus-prism-peak-might-be-the-rare-game-to-actually-pull-its-studio-ghibli-vibes-off/)<!-- GAME:END -->
+ - [Can Hollow Knight: Silksong live up to the hype?](https://www.polygon.com/hollow-knight-silksong-hype-release/)
+ - [Can Garfield Kart 2 compete with Hollow Knight: Silksong? Who cares, dude?](https://www.polygon.com/garfield-kart-2-demo-hands-on-impressions/)
+ - [What is &#39;West Marches&#39; and why Critical Role is revolutionizing Campaign 4](https://www.polygon.com/critical-role-campaign-4-west-marches-what-is/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
