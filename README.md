@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digg’s new app is basic, but a great start](https://www.theverge.com/apps/763689/digg-mobile-ios-android-app-relaunch)
- - [Google’s first Gemini smart home speaker detailed in leak](https://www.theverge.com/news/764203/google-gemini-smart-home-speaker-nest)
- - [Inside iOS 26 Genmoji: Tapbacks, smarter AI &amp; deeper customization](https://appleinsider.com/articles/25/08/22/inside-ios-26-genmoji-tapbacks-smarter-ai-deeper-customization?utm_source=rss)<!-- TECH:END -->
+ - [Epic Games investor Y Combinator unsurprisingly files anti-App Store brief](https://appleinsider.com/articles/25/08/22/epic-games-investor-y-combinator-unsurprisingly-files-anti-app-store-brief?utm_source=rss)
+ - [The Pixel 10 camera feature I’m most excited for isn’t the one you think](https://www.androidauthority.com/pixel-10-camera-best-feature-3588915/)
+ - [Rad Power Bikes RadRunner Max Review: Faster and Safer Than Ever](https://www.wired.com/review/rad-power-bikes-radrunner-max/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
