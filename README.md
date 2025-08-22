@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC grants Waymo its first permit, which extends through late September, to test up to eight of its autonomous vehicles in Manhattan and Downtown Brooklyn &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250822/p15#a250822p15)
- - [Source: Snap is considering raising outside money to fund Spectacles development or spinning off Spectacles, to compete with deeper-pocketed rivals like Meta &lpar;The Information&rpar;](http://www.techmeme.com/250822/p14#a250822p14)
- - [Android will soon let you decide if your Pixel can lower your loud headphone volume](https://www.androidauthority.com/google-pixel-hearing-wellness-feature-3590326/)<!-- TECH:END -->
+ - [Silksong is out soon, and indie games are getting out of the way](https://www.theverge.com/news/764346/hollow-knight-silksong-indie-game-delays-cloverpit-faeland-aeterna-lucis)
+ - [7 things about the Pixel 10 series you didn’t hear at Made by Google](https://www.androidauthority.com/pixel-10-phones-google-skipped-3590027/)
+ - [AYANEO’s ‘budget-friendly’ handheld doesn’t sound all that budget-friendly](https://www.androidauthority.com/ayaneo-konkr-pocket-fit-event-3590420/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
