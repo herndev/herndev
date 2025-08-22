@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang says Nvidia is in talks with China over H20 security concerns, is hopeful for a resolution, and reiterates that the H20 has no &quot;security backdoors&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250822/p2#a250822p2)
- - [Sources: Nvidia told suppliers like Amkor and Samsung to halt H20 chip production after China urged local tech firms to avoid H20 over alleged security concerns &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250822/p1#a250822p1)
- - [Today&#39;s NYT Mini Crossword Answers for the Friday, Aug. 22 Domino-Shaped Puzzle](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-the-friday-aug-22-domino-shaped-puzzle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI says its Chief People Officer Julia Villagra will leave on August 22; Villagra joined in February 2024 and was promoted to the role in March 2024 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250822/p4#a250822p4)
+ - [Google is supercharging screenshot editing on your Pixel with Android 16 QPR2 Beta 1](https://www.androidauthority.com/pixel-screenshot-editing-android-16-qpr2-beta-1-3590223/)
+ - [Court filing: Elon Musk says he talked to Mark Zuckerberg in February about backing a $97.4B OpenAI bid, but neither he nor Meta signed a letter of intent &lpar;Financial Times&rpar;](http://www.techmeme.com/250822/p3#a250822p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
