@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
- - ⏩ [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
+ - ⏩ [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
  - 👉 [Gentleman](http://9gag.com/gag/a9yBQYK)<!-- MEMES:END -->
 
 ---
