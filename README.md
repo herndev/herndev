@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
- - ⏩ [Me me me](http://9gag.com/gag/apR8yB8)
- - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
+ - 💣 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - ⏩ [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
+ - 👉 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)<!-- MEMES:END -->
 
 ---
 
