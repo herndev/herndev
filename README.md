@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps is planning a little reorganization and we’ve got an early look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-ui-3590494/)
- - [Australia orders Binance Australia to hire an external auditor within 28 days over &quot;serious concerns&quot; with money laundering and terrorism financing controls &lpar;Richard Henderson/Bloomberg&rpar;](http://www.techmeme.com/250822/p22#a250822p22)
- - [Apple reportedly in talks with Google to make Gemini the foundation of Siri](https://www.androidauthority.com/siri-revamped-with-gemini-3590505/)<!-- TECH:END -->
+ - [Apple accuses Android brand of trade secret theft in wearable tech showdown](https://www.androidauthority.com/apple-oppo-trade-secret-theft-lawsuit-3590576/)
+ - [Sources: Meta plans to launch its first glasses with a display and a wristband that lets users control the glasses with hand gestures, at Connect in September &lpar;CNBC&rpar;](http://www.techmeme.com/250822/p23#a250822p23)
+ - [Apple Watch designs allegedly stolen and provided to Oppo](https://appleinsider.com/articles/25/08/22/apple-watch-designs-allegedly-stolen-and-provided-to-oppo?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
