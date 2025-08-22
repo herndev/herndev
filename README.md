@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The creators of Deadly Premonition and No More Heroes are releasing a typically over-the-top roguelite &#39;fever dream&#39; next month](https://www.pcgamer.com/games/action/the-creators-of-deadly-premonition-and-no-more-heroes-are-releasing-a-typically-over-the-top-roguelite-fever-dream-next-month/)
  - [Today&#39;s Wordle clues, hints and answer for August 22 &lpar;#1525&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-22-2025/)
- - [Peacemaker&#39;s season 2 premiere has strong links with season 1&#39;s pilot](https://www.polygon.com/peacemaker-season-2-episode-1-recap-analysis-explained-john-cena/)
- - [Peacemaker&#39;s season 2 premiere begins with a Zack Snyder retcon](https://www.polygon.com/peacemaker-season-2-zack-snyder-justice-league-retcon/)<!-- GAME:END -->
+ - [Peacemaker&#39;s season 2 premiere has strong links with season 1&#39;s pilot](https://www.polygon.com/peacemaker-season-2-episode-1-recap-analysis-explained-john-cena/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
