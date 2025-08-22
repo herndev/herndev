@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me me me](http://9gag.com/gag/apR8yB8)
- - ⏩ [The Who?](http://9gag.com/gag/a7oAzGL)
- - 👉 [C minus students](http://9gag.com/gag/aND3xvb)<!-- MEMES:END -->
+ - 💣 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - ⏩ [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
+ - 👉 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)<!-- MEMES:END -->
 
 ---
 
