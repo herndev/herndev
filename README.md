@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Soul Aside: PC features and a behind-the-scenes look](https://blog.playstation.com/2025/08/22/lost-soul-aside-pc-features-and-a-behind-the-scenes-look/)
- - [Peacemaker&#39;s season 2&#39;s orgy scene fails a test The Boys totally nailed](https://www.polygon.com/peacemaker-season-2-premiere-superhero-orgy-gimmicks/)
- - [After months of back and forth, Nvidia has reportedly paused making its H20 chip due to security concerns, this time from China](https://www.pcgamer.com/hardware/after-months-of-back-and-forth-nvidia-has-reportedly-paused-making-its-h20-chip-due-to-security-concerns-this-time-from-china/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for August 25 to 29](https://news.xbox.com/en-us/2025/08/22/next-week-on-xbox-new-games-for-august-25-to-29/)
+ - [High on Life 2&#39;s skateboarding is a big surprise](https://www.polygon.com/high-on-life-2-preview-gamescom/)
+ - [Netflix’s Splinter Cell: Deathwatch Is Out In October, And Sam Fisher Is Old](https://kotaku.com/splinter-cell-deathwatch-anime-netflix-2000619516)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
