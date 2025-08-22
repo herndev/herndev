@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini could join other third-party AI systems in boosting Siri Intelligence](https://appleinsider.com/articles/25/08/22/gemini-could-join-other-third-party-ai-systems-in-boosting-siri-intelligence?utm_source=rss)
- - [The Best Big Screen Chromebook Is On Sale Now](https://www.wired.com/story/acer-cx15-deal/)
- - [Is Apple One worth the money, as 2026 nears?](https://appleinsider.com/articles/25/08/22/is-apple-one-worth-the-money-as-2026-nears?utm_source=rss)<!-- TECH:END -->
+ - [Ontic, whose software helps corporate security teams respond to physical threats, raised a $230M Series C led by KKR, following a $40M Series B in November 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250822/p21#a250822p21)
+ - [Trump says the US is taking a 10 percent stake in Intel](https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal)
+ - [One of Gboard’s playful features could be on the chopping block &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-dropping-bitmoji-support-apk-teardown-3590502/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
