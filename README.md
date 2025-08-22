@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
- - ⏩ [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 👉 [Gentleman](http://9gag.com/gag/a9yBQYK)<!-- MEMES:END -->
+ - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - ⏩ [Which do you like](http://9gag.com/gag/aQzVGzz)
+ - 👉 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)<!-- MEMES:END -->
 
 ---
 
