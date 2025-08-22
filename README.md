@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sword of the Sea creator talks life after Journey and &quot;extreme&quot; bliss](https://www.polygon.com/sword-of-the-sea-interview-matt-nava/)
- - [The underappreciated Immortals of Aveum released two years ago today](https://www.polygon.com/happy-immortals-of-aveum-day-anniversary/)
- - [Peacemaker Season 2 Officially Removes Zack Snyder’s Justice League From The DCU](https://kotaku.com/peacemaker-season-2-justice-league-gang-scene-reshoot-2000619550)<!-- GAME:END -->
+ - [I bought GTA+ so you don&#39;t have to—and I don&#39;t think it&#39;s worth the subscription even for GTA Online diehards](https://www.pcgamer.com/games/grand-theft-auto/gta-plus-worth-it-benefits-subscription/)
+ - [The New Bubsy Game Actually Looks Awesome, Seriously](https://kotaku.com/bubsy-4d-new-sequel-gameplay-review-hands-on-preview-gamescom-2000619555)
+ - [Sword of the Sea creator talks life after Journey and &#39;extreme&#39; bliss](https://www.polygon.com/sword-of-the-sea-interview-matt-nava/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
