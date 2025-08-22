@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EU officials are fast-tracking digital euro plans, and considering Ethereum or Solana over a private blockchain after the US passed the Genius Act &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250822/p7#a250822p7)
- - [Florida man orders beautification of America after gold-plating the White House](https://www.theverge.com/news/764142/trump-executive-order-national-design-studio)
- - [The latest Kindle update is a good step toward accessibility](https://www.androidauthority.com/kindle-software-update-accessibility-3590154/)<!-- TECH:END -->
+ - [Trump Mobile’s latest T1 phone teaser fails to hide an epic Photoshop blunder](https://www.androidauthority.com/trump-mobile-galaxy-s25-ultra-3590291/)
+ - [OpenAI sets up a legal entity, and plans to open its first office in India after launching ChatGPT Go, its cheapest plan, in the country on August 19 &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/250822/p8#a250822p8)
+ - [5 apps you should use instead of Messenger](https://www.androidauthority.com/facebook-messenger-alternatives-3588687/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
