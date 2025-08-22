@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Actually don\u2019t try this at home unless you know what you\u2019re doing.](http://9gag.com/gag/aKGprqQ)
+ - 💣 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
  - ⏩ [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
- - 👉 [Man attempts to lift an air conditioner, fails spectacularly](http://9gag.com/gag/aXPeDzb)<!-- MEMES:END -->
+ - 👉 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)<!-- MEMES:END -->
 
 ---
 
