@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metal Gear Solid Delta still lets you wait two weeks for a boss to die of old age⁠—or mess with your system clock to cheat him out of his final fight](https://www.pcgamer.com/games/action/metal-gear-solid-delta-still-lets-you-wait-two-weeks-for-a-boss-to-die-of-old-age-or-mess-with-your-system-clock-to-cheat-him-out-of-his-final-fight/)
- - [This Fanmade KPop Demon Hunters Lego Recreation Is So Good It Could Be Official](https://kotaku.com/kpop-demon-hunters-lego-spider-verse-trailer-scene-2000619565)
- - [Metal Gear Solid 3 remake&#39;s nightmare minigame returns with a twist](https://www.polygon.com/metal-gear-solid-delta-platinum-games-guy-savage-minigame/)<!-- GAME:END -->
+ - [&#39;I think the United States should be given 10% of Intel&#39;: US president Trump wants a piece of the action, says CEO Lip Bu Tan has already forked over $10 billion because he wants to &#39;keep his job&#39;](https://www.pcgamer.com/gaming-industry/i-think-the-united-states-should-be-given-10-percent-of-intel-us-president-trump-wants-a-piece-of-the-action-says-ceo-lip-bu-tan-has-already-forked-over-usd10-billion-because-he-wants-to-keep-his-job/)
+ - [Kotaku’s Weekend Guide: 4 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-pacman-silent-hill-hollow-void-2000619570)
+ - [Metal Gear Solid Delta still lets you wait two weeks for a boss to die of old age⁠—or mess with your system clock to cheat him out of his final fight](https://www.pcgamer.com/games/action/metal-gear-solid-delta-still-lets-you-wait-two-weeks-for-a-boss-to-die-of-old-age-or-mess-with-your-system-clock-to-cheat-him-out-of-his-final-fight/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
