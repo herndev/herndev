@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&#39;namsayin](http://9gag.com/gag/aAyZowg)
- - ⏩ [Why do men only drive in African Safaris?](http://9gag.com/gag/a34nmgN)
- - 👉 [As all things should be](http://9gag.com/gag/aQzVGWW)<!-- MEMES:END -->
+ - 💣 [Which do you like](http://9gag.com/gag/aQzVGzz)
+ - ⏩ [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
+ - 👉 [Peter Parker&#39;s face says it all, who is number one](http://9gag.com/gag/aO8GgpD)<!-- MEMES:END -->
 
 ---
 
