@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - ⏩ [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
- - 👉 [Used to be science fiction. Now it&#39;s just... A British documentary.](http://9gag.com/gag/aMVy3Q1)<!-- MEMES:END -->
+ - 💣 [&#39;namsayin](http://9gag.com/gag/aAyZowg)
+ - ⏩ [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
+ - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
 
 ---
 
