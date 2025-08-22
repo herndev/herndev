@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C minus students](http://9gag.com/gag/aND3xvb)
- - ⏩ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 💣 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
+ - ⏩ [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
  - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
 
 ---
