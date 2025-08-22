@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak doctor or engineer](http://9gag.com/gag/awyvq7x)
- - ⏩ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 👉 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)<!-- MEMES:END -->
+ - 💣 [Me me me](http://9gag.com/gag/apR8yB8)
+ - ⏩ [Damn](http://9gag.com/gag/aD2MpeB)
+ - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
 
 ---
 
