@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Who?](http://9gag.com/gag/a7oAzGL)
- - ⏩ [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
- - 👉 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)<!-- MEMES:END -->
+ - 💣 [Peak doctor or engineer](http://9gag.com/gag/awyvq7x)
+ - ⏩ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 👉 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)<!-- MEMES:END -->
 
 ---
 
