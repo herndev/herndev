@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Join Our Next Livestream: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)
- - [Got a scary T-Mobile text about your account? Here’s what it really means](https://www.androidauthority.com/t-mobile-authorized-users-text-message-3590460/)
- - [Google abandoning physical SIM cards on the Pixel 10 is an abject loss for consumers](https://www.androidauthority.com/killing-sim-cards-3590141/)<!-- TECH:END -->
+ - [Gemini could join other third-party AI systems in boosting Siri Intelligence](https://appleinsider.com/articles/25/08/22/gemini-could-join-other-third-party-ai-systems-in-boosting-siri-intelligence?utm_source=rss)
+ - [The Best Big Screen Chromebook Is On Sale Now](https://www.wired.com/story/acer-cx15-deal/)
+ - [Is Apple One worth the money, as 2026 nears?](https://appleinsider.com/articles/25/08/22/is-apple-one-worth-the-money-as-2026-nears?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
