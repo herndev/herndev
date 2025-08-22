@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for August 25 to 29](https://news.xbox.com/en-us/2025/08/22/next-week-on-xbox-new-games-for-august-25-to-29/)
- - [High on Life 2&#39;s skateboarding is a big surprise](https://www.polygon.com/high-on-life-2-preview-gamescom/)
- - [Netflix’s Splinter Cell: Deathwatch Is Out In October, And Sam Fisher Is Old](https://kotaku.com/splinter-cell-deathwatch-anime-netflix-2000619516)<!-- GAME:END -->
+ - [Indiana Jones and Order of Giants release shakes up Game of the Year race](https://www.polygon.com/indiana-jones-goty-order-of-giants-dlc-release-date/)
+ - [One Game Has Already Been Delayed To Avoid Silksong‘s September Launch](https://kotaku.com/silksong-september-launch-delay-avoid-fortnite-ashley-cod-black-ops-7-2000619529)
+ - [&#39;Silksong lol&#39;: CloverPit devs delay the slot machine Balatro-like by 23 days to escape the blast radius of Silksong&#39;s launch](https://www.pcgamer.com/games/roguelike/silksong-lol-cloverpit-devs-delay-the-slot-machine-balatro-like-by-23-days-to-escape-the-blast-radius-of-silksongs-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
