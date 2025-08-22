@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple accuses Android brand of trade secret theft in wearable tech showdown](https://www.androidauthority.com/apple-oppo-trade-secret-theft-lawsuit-3590576/)
- - [Sources: Meta plans to launch its first glasses with a display and a wristband that lets users control the glasses with hand gestures, at Connect in September &lpar;CNBC&rpar;](http://www.techmeme.com/250822/p23#a250822p23)
- - [Apple Watch designs allegedly stolen and provided to Oppo](https://appleinsider.com/articles/25/08/22/apple-watch-designs-allegedly-stolen-and-provided-to-oppo?utm_source=rss)<!-- TECH:END -->
+ - [This MagSafe gaming controller is giving LG Wing vibes, and we are here for it](https://www.androidauthority.com/snap-on-mobile-gamepad-3590572/)
+ - [The Trump-Intel Deal Is Official](https://www.wired.com/story/trump-announce-intel-deal-equity-stake/)
+ - [US government takes 10 percent stake in Intel in exchange for money it was already on the hook for](https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
