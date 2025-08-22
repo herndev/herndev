@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This MagSafe gaming controller is giving LG Wing vibes, and we are here for it](https://www.androidauthority.com/snap-on-mobile-gamepad-3590572/)
- - [The Trump-Intel Deal Is Official](https://www.wired.com/story/trump-announce-intel-deal-equity-stake/)
- - [US government takes 10 percent stake in Intel in exchange for money it was already on the hook for](https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal)<!-- TECH:END -->
+ - [Your Pixel 10 will let you make WhatsApp calls without cell service](https://www.androidauthority.com/pixel-10-whatsapp-calls-satellite-3590605/)
+ - [Apple accuses former Apple Watch staffer of conspiring to steal trade secrets for Oppo](https://www.theverge.com/news/764775/apple-watch-trade-secrets-oppo-lawsuit)
+ - [Bluesky Goes Dark in Mississippi Over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
