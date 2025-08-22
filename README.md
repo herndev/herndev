@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C minus students](http://9gag.com/gag/aND3xvb)
- - ⏩ [The Who?](http://9gag.com/gag/a7oAzGL)
- - 👉 [Damn](http://9gag.com/gag/aD2MpeB)<!-- MEMES:END -->
+ - 💣 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
+ - ⏩ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
 
 ---
 
