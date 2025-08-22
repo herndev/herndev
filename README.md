@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple celebrates National Parks&#39; 109th anniversary with Watch &amp; Maps](https://appleinsider.com/articles/25/08/22/apple-celebrates-national-parks-109th-anniversary-with-watch-maps?utm_source=rss)
- - [Sound the alarm: Google Clock is now getting an Expressive overhaul](https://www.androidauthority.com/google-clock-expressive-release-3590370/)
- - [The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
+ - [NYC grants Waymo its first permit, which extends through late September, to test up to eight of its autonomous vehicles in Manhattan and Downtown Brooklyn &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250822/p15#a250822p15)
+ - [Source: Snap is considering raising outside money to fund Spectacles development or spinning off Spectacles, to compete with deeper-pocketed rivals like Meta &lpar;The Information&rpar;](http://www.techmeme.com/250822/p14#a250822p14)
+ - [Android will soon let you decide if your Pixel can lower your loud headphone volume](https://www.androidauthority.com/google-pixel-hearing-wellness-feature-3590326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
