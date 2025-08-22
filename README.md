@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
- - ⏩ [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
- - 👉 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)<!-- MEMES:END -->
+ - 💣 [Me me me](http://9gag.com/gag/apR8yB8)
+ - ⏩ [The Who?](http://9gag.com/gag/a7oAzGL)
+ - 👉 [C minus students](http://9gag.com/gag/aND3xvb)<!-- MEMES:END -->
 
 ---
 
