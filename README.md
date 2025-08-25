@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Gets First Big Level Cap Increase Since 2020](https://kotaku.com/pokemon-go-level-cap-increase-50-80-october-jacket-rewards-niantic-2000620010)
- - [The Gorillaz are coming to Fortnite](https://www.polygon.com/fortnite-season-10-gorillaz/)
- - [One Year After Concord, PlayStation Studios Boss Says Sony’s Learned A Lot](https://kotaku.com/silksong-concord-hermen-hulst-ubisoft-peak-switch-2-2000620006)<!-- GAME:END -->
+ - [Six years after launch, The Division 2 is getting an &#39;updated take&#39; on extraction shooting](https://www.pcgamer.com/games/action/six-years-after-launch-the-division-2-is-getting-an-updated-take-on-extraction-shooting/)
+ - [KPop Demon Hunters&#39; sing-along version is already streaming on Netflix](https://www.polygon.com/kpop-demon-hunters-singalong-version-now-streaming-netflix/)
+ - [My KPop Demon Hunters Singalong Crowd Did Not Pass The Vibe Check](https://kotaku.com/kpop-demon-hunters-singalong-box-office-showtimes-songs-2000620026)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
