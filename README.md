@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thoma Bravo buys customer service automation software provider Verint for $1.23B in cash, days after its $12.3B purchase of HR software provider Dayforce &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250825/p18#a250825p18)
- - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
- - [AI doesn’t belong in journaling](https://www.theverge.com/analysis/764519/ai-gemini-pixel-journal-app)<!-- TECH:END -->
+ - [Elon Musk baselessly suing Apple for Grok&#39;s position on the App Store](https://appleinsider.com/articles/25/08/25/elon-musk-baselessly-suing-apple-for-groks-position-on-the-app-store?utm_source=rss)
+ - [Trump told a major offshore wind project to stop construction just before it reached the finish line](https://www.theverge.com/news/765175/trump-offshore-wind-farm-revolution-orsted-halt)
+ - [Just bought a new Galaxy foldable? Watch out for this alert-hiding bug](https://www.androidauthority.com/samsung-one-ui-8-do-not-disturb-reset-bug-3590883/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
