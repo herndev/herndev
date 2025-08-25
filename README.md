@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go `Home`](http://9gag.com/gag/aoydEbn)
- - ⏩ [First Responder Training](http://9gag.com/gag/arydpBK)
- - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
+ - 💣 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
+ - ⏩ [Fastest hand in west](http://9gag.com/gag/a2vxNMO)
+ - 👉 [Dodged a bullet](http://9gag.com/gag/a34xd5r)<!-- MEMES:END -->
 
 ---
 
