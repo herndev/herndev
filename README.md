@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go &#39;Sunkissed Shores&#39; event guide](https://www.polygon.com/pokemon-go-sunkissed-shores-timed-research-dondozo-raids/)
- - [3 Netflix movies you gotta watch this week &lpar;Aug. 25&rpar;](https://www.polygon.com/new-netflix-movies-to-watch-aug-25-29/)
- - [Someone Recreated All Of Robocop As The Cracker Barrel Logo](https://kotaku.com/someone-recreated-all-of-robocop-as-the-cracker-barrel-logo-2000620081)<!-- GAME:END -->
+ - [Elon Musk&#39;s xAI sues Apple and OpenAI over ChatGPT exclusivity on iOS devices, accuses them of &#39;thwarting competition and innovation in the generative AI chatbot market&#39;](https://www.pcgamer.com/software/ai/elon-musks-xai-sues-apple-and-openai-over-chatgpt-exclusivity-on-ios-devices-accuses-them-of-thwarting-competition-and-innovation-in-the-generative-ai-chatbot-market/)
+ - [Everyone can try Path of Exile 2 for free when its gigantic new update drops later this week](https://www.pcgamer.com/games/rpg/everyone-can-try-path-of-exile-2-for-free-when-its-gigantic-new-update-drops-later-this-week/)
+ - [6 Awesome-Looking Games That Went Under The Radar At Gamescom 2025](https://kotaku.com/gamescom-2025-trailers-cozy-sim-jrpg-soulslike-roguelite-2000620078)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
