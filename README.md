@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ceased to exist](http://9gag.com/gag/a1mxvQw)
- - ⏩ [What was his thought process here?](http://9gag.com/gag/aryd1w7)
- - 👉 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
+ - 💣 [Dude recognized and accepted it. Respect.](http://9gag.com/gag/axyANpb)
+ - ⏩ [One of us..](http://9gag.com/gag/awy8r7R)
+ - 👉 [Where can I apply?](http://9gag.com/gag/a5QxNoL)<!-- MEMES:END -->
 
 ---
 
