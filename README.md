@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How sugar cane juice is made with manual power. Uhmmmm, delicio.... Oh....](http://9gag.com/gag/aqydm4Z)
- - ⏩ [Look at this absolute unit of a stingray](http://9gag.com/gag/an7dej5)
+ - 💣 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
+ - ⏩ [She was afraid people would rewrite history, so she recorded over 300,000 hours of TV over 35 years on 71,000 VHS tapes.Marion Stokes recorded television programs nonstop for over three decades. She started in the late 1970s](http://9gag.com/gag/aNDqegr)
  - 👉 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)<!-- MEMES:END -->
 
 ---
