@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Trump administration is considering imposing sanctions on EU or member state officials responsible for implementing the EU&#39;s DSA &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/250825/p23#a250825p23)
- - [16 Best Back-to-School Deals for 2025](https://www.wired.com/story/best-back-to-school-deals-2025/)
- - [Google plans to begin verifying the identity of all developers who distribute apps on Android, even if it&#39;s outside the Play Store, starting September 2026 &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250825/p22#a250825p22)<!-- TECH:END -->
+ - [Google Nest Camera and Doorbell leak shows off new colors and 2K video recording](https://www.theverge.com/news/765373/google-home-nest-cam-doorbell-2k-video-leak-gemini)
+ - [The 38 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+ - [Take 20 Percent Off Ooni&#39;s Largest Pizza Oven for Labor Day](https://www.wired.com/story/ooni-koda-2-max-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
