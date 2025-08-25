@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Netflix House opens its doors on November 12th](https://www.theverge.com/news/765025/first-netflix-house-opens-its-doors-on-november-12th)
- - [PDD Holdings, which owns Pinduoduo and Temu, reports Q2 revenue up 7% YoY to ~$14.53B, above est., and net income down 5% YoY to ~$4.5B, driven by discounts &lpar;Reuters&rpar;](http://www.techmeme.com/250825/p12#a250825p12)
- - [How Steve Jobs&#39;s legacy still drives the &#39;Shot on iPhone&#39; ad agency](https://appleinsider.com/articles/25/08/25/how-steve-jobss-legacy-still-drives-the-shot-on-iphone-ad-agency?utm_source=rss)<!-- TECH:END -->
+ - [25 Best Power Banks &lpar;2025&rpar;, I&#39;ve Tested Countless to Find Them](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [EcoFlow’s Rapid power bank is the fastest yet](https://www.theverge.com/reviews/764829/fastest-power-bank-review-ecoflow-rapid)
+ - [Perplexity launches Comet Plus, a $5/month tier offering curated content, and says it has allocated $42.5M for publishers, which will receive 80% of the revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p14#a250825p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
