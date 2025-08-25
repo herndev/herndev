@@ -34,7 +34,7 @@
 <!-- GAME:START -->
  - [Today&#39;s Wordle clues, hints and answer for August 25 &lpar;#1528&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-25-2025/)
  - [&lpar;For Southeast Asia&rpar; NBA 2K26: Hands-on report and PS5 bundle details](https://blog.playstation.com/2025/08/24/20250825-nba/)
- - [Five new Steam games you probably missed &lpar;August 25, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-25-2025/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; NBA 2K26: Hands-on report and PS5 bundle details](https://blog.playstation.com/2025/08/24/20250825-nba/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
