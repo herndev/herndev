@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Pixel 10 feature makes weather reports even more personal, but not for everyone](https://www.androidauthority.com/pixel-10-personal-weather-insights-3590717/)
- - [Vertical streaming apps charging $20/week are beating Netflix and other SVOD platforms in user growth with their mini-dramas optimized for mobile viewing &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/250825/p1#a250825p1)
- - [Apple accuses Android brand of trade secret theft over wearables &lpar;Update: Response&rpar;](https://www.androidauthority.com/apple-oppo-trade-secret-theft-lawsuit-3590576/)<!-- TECH:END -->
+ - [Sony&#39;s gaming execs, designers, and studio founders describe how it wants its first-party studios to contribute more to revenue growth and take measured risks &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250825/p2#a250825p2)
+ - [The Galaxy S26 Ultra could cut corners in the best way possible](https://www.androidauthority.com/samsung-galaxy-s26-ultra-corner-design-3590723/)
+ - [This new Pixel 10 feature makes weather reports even more personal, but not for everyone](https://www.androidauthority.com/pixel-10-personal-weather-insights-3590717/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
