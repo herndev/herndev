@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals dev&#39;s transparent, 18-minute breakdown of how ranked isn&#39;t rigged fails to placate players who hate losing](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-devs-transparent-18-minute-breakdown-of-how-ranked-isnt-rigged-fails-to-placate-players-who-hate-losing/)
- - [After stretching the definition of &#39;beta&#39; for 8 years, Escape From Tarkov is finally hitting 1.0](https://www.pcgamer.com/games/fps/escape-from-tarkov-1-0-release-date/)
- - [Even more games are moving out of Silksong&#39;s way: &#39;I feel like a little krill trying not to get eaten by a blue whale&#39;](https://www.pcgamer.com/games/even-more-games-are-moving-out-of-silksongs-way-i-feel-like-a-little-krill-trying-not-to-get-eaten-by-a-blue-whale/)<!-- GAME:END -->
+ - [Former Dragon Age producer Mark Darrah agrees that Mages were the most &#39;complete&#39; class in Origins, says it came from D&amp;D rules and the fact that Warriors and Rogues weren&#39;t allowed to &#39;violate physics&#39; yet](https://www.pcgamer.com/games/dragon-age/former-dragon-age-producer-mark-darrah-agrees-that-mages-were-the-most-complete-class-in-origins-says-it-came-from-d-and-d-rules-and-the-fact-that-warriors-and-rogues-werent-allowed-to-violate-physics-yet/)
+ - [Disgruntled coder who admitted to deploying a malware &#39;kill switch&#39; to get back at his bosses sentenced to 4 years in prison](https://www.pcgamer.com/gaming-industry/disgruntled-coder-who-admitted-to-deploying-a-malware-kill-switch-to-get-back-at-his-bosses-sentenced-to-4-years-in-prison/)
+ - [Deadlock&#39;s latest character basically gets a portal gun, and his ult teleports enemies to a void hotel where they have to do a platforming challenge](https://www.pcgamer.com/games/third-person-shooter/deadlocks-latest-character-basically-gets-a-portal-gun-and-his-ult-teleports-enemies-to-a-void-hotel-where-they-have-to-do-a-platforming-challenge/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
