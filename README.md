@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Distractions](http://9gag.com/gag/a5QxdON)
- - ⏩ [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
+ - 💣 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
+ - ⏩ [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
 
 ---
 
