@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bone Lake trailer teases a sexy, scary horror movie](https://www.polygon.com/bone-lake-2025-horror-trailer/)
- - [US Open Delayed After Player Encourages Crowd To Yell At His Opponent For Six Minutes](https://kotaku.com/us-open-tennis-medvedev-bonzi-delay-crowd-yelling-booing-racket-smash-2000620025)
- - [Demonschool delayed to get out of Hollow Knight: Silksong&#39;s way](https://www.polygon.com/demonschool-delay-release-date-hollow-knight-silksong/)<!-- GAME:END -->
+ - [There Are No Ghosts at the Grand combines renovation, horror, and ska](https://www.polygon.com/no-ghosts-at-the-grand-preview-gamescom-horror-musical-renovation-game/)
+ - [Nintendo Reportedly Pushing Devs To Release On Switch 1 Instead Of Sharing Switch 2 Dev Kits](https://kotaku.com/nintendo-switch-2-dev-kits-gamescom-digital-foundry-2000620055)
+ - [Larian publishing chief says mainstream game industry has a &#39;perverse attachment&#39; to indie studios, because indies still know how to follow their gut](https://www.pcgamer.com/gaming-industry/larian-publishing-chief-says-mainstream-game-industry-has-a-perverse-attachment-to-indie-studios-because-indies-still-know-how-to-follow-their-gut/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
