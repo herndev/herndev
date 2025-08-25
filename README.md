@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There Are No Ghosts at the Grand combines renovation, horror, and ska](https://www.polygon.com/no-ghosts-at-the-grand-preview-gamescom-horror-musical-renovation-game/)
- - [Nintendo Reportedly Pushing Devs To Release On Switch 1 Instead Of Sharing Switch 2 Dev Kits](https://kotaku.com/nintendo-switch-2-dev-kits-gamescom-digital-foundry-2000620055)
- - [Larian publishing chief says mainstream game industry has a &#39;perverse attachment&#39; to indie studios, because indies still know how to follow their gut](https://www.pcgamer.com/gaming-industry/larian-publishing-chief-says-mainstream-game-industry-has-a-perverse-attachment-to-indie-studios-because-indies-still-know-how-to-follow-their-gut/)<!-- GAME:END -->
+ - [New Minecraft Mod Turns It Into Portal 2, Complete With A Level Editor](https://kotaku.com/portal-2-minecraft-java-edition-mod-valve-pc-remake-2000620054)
+ - [Vtuber grannies for rent: Agency deploys 75-and-up anime girl grandmas to &#39;resolve issues of young people&#39;](https://www.pcgamer.com/gaming-industry/vtuber-grannies-for-rent-agency-deploys-75-and-up-anime-girl-grandmas-to-resolve-issues-of-young-people/)
+ - [Eye-Catching Cybernoir Action Thriller Looks Worth The Wait After Years Of Delays](https://kotaku.com/replaced-release-date-cyberpunk-pixel-art-batman-arkham-2000620061)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
