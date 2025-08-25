@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the remaining big 2025 games that will fill the hole left by GTA 6](https://www.polygon.com/fall-2025-new-video-games-release-calendar-crowded/)
- - [Spike Lee found one great use for Instagram in Highest 2 Lowest](https://www.polygon.com/spike-lee-highest-2-lowest-social-media-what-instagram-is-good-for/)
- - [The Next Switch 2 Nintendo Direct Is Reportedly Coming Soon And Will Probably Be A Big One](https://kotaku.com/nintendo-direct-september-switch-2-mario-metroid-prime-4-date-2000619997)<!-- GAME:END -->
+ - [Pokémon Go Gets First Big Level Cap Increase Since 2020](https://kotaku.com/pokemon-go-level-cap-increase-50-80-october-jacket-rewards-niantic-2000620010)
+ - [The Gorillaz are coming to Fortnite](https://www.polygon.com/fortnite-season-10-gorillaz/)
+ - [One Year After Concord, PlayStation Studios Boss Says Sony’s Learned A Lot](https://kotaku.com/silksong-concord-hermen-hulst-ubisoft-peak-switch-2-2000620006)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
