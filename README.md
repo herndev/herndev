@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does the Helldivers 2 Halo ODST legendary warbond release?](https://www.polygon.com/helldivers-2-halo-crossover-odst-legendary-warbond-release-time/)
- - [Silent Hill f&#39;s director insists that its dodge and counterattack systems don&#39;t make it a soulslike: &#39;I think it&#39;s a label that&#39;s a little bit disingenuous&#39;](https://www.pcgamer.com/games/horror/silent-hill-fs-director-insists-that-its-dodge-and-counterattack-systems-dont-make-it-a-soulslike-i-think-its-a-label-thats-a-little-bit-disingenuous/)
- - [KPop Demon Hunters gives Netflix its first theatrical win](https://www.polygon.com/kpop-demon-hunters-theaters-success-netflix-box-office/)<!-- GAME:END -->
+ - [Spike Lee found one great use for Instagram in Highest 2 Lowest](https://www.polygon.com/spike-lee-highest-2-lowest-social-media-what-instagram-is-good-for/)
+ - [The Next Switch 2 Nintendo Direct Is Reportedly Coming Soon And Will Probably Be A Big One](https://kotaku.com/nintendo-direct-september-switch-2-mario-metroid-prime-4-date-2000619997)
+ - [Story of Seasons: Grand Bazaar remake is at its best when it&#39;s about community](https://www.polygon.com/story-of-seasons-grand-bazaar-harvest-moon-community/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
