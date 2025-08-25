@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
- - ⏩ [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
- - 👉 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)<!-- MEMES:END -->
+ - 💣 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
+ - ⏩ [Best day ever](http://9gag.com/gag/aGyoKqK)
+ - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 ---
 
