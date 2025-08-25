@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Six years after launch, The Division 2 is getting an &#39;updated take&#39; on extraction shooting](https://www.pcgamer.com/games/action/six-years-after-launch-the-division-2-is-getting-an-updated-take-on-extraction-shooting/)
- - [KPop Demon Hunters&#39; sing-along version is already streaming on Netflix](https://www.polygon.com/kpop-demon-hunters-singalong-version-now-streaming-netflix/)
- - [My KPop Demon Hunters Singalong Crowd Did Not Pass The Vibe Check](https://kotaku.com/kpop-demon-hunters-singalong-box-office-showtimes-songs-2000620026)<!-- GAME:END -->
+ - [Bone Lake trailer teases a sexy, scary horror movie](https://www.polygon.com/bone-lake-2025-horror-trailer/)
+ - [US Open Delayed After Player Encourages Crowd To Yell At His Opponent For Six Minutes](https://kotaku.com/us-open-tennis-medvedev-bonzi-delay-crowd-yelling-booing-racket-smash-2000620025)
+ - [Demonschool delayed to get out of Hollow Knight: Silksong&#39;s way](https://www.polygon.com/demonschool-delay-release-date-hollow-knight-silksong/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
