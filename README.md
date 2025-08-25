@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
- - ⏩ [Not quick poll](http://9gag.com/gag/a0ex9Lq)
- - 👉 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)<!-- MEMES:END -->
+ - 💣 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/a6Zxwd9)
+ - ⏩ [Seems right](http://9gag.com/gag/abAd5Db)
+ - 👉 [One of us..](http://9gag.com/gag/awy8r7R)<!-- MEMES:END -->
 
 ---
 
