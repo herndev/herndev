@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where can I apply?](http://9gag.com/gag/a5QxNoL)
- - ⏩ [Go `Home`](http://9gag.com/gag/aoydEbn)
- - 👉 [First Responder Training](http://9gag.com/gag/arydpBK)<!-- MEMES:END -->
+ - 💣 [Ceased to exist](http://9gag.com/gag/a1mxvQw)
+ - ⏩ [What was his thought process here?](http://9gag.com/gag/aryd1w7)
+ - 👉 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
 
 ---
 
