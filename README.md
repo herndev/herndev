@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
- - ⏩ [She was afraid people would rewrite history, so she recorded over 300,000 hours of TV over 35 years on 71,000 VHS tapes.Marion Stokes recorded television programs nonstop for over three decades. She started in the late 1970s](http://9gag.com/gag/aNDqegr)
- - 👉 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)<!-- MEMES:END -->
+ - ⏩ [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 👉 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)<!-- MEMES:END -->
 
 ---
 
