@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quick Share for iPhones is still in the works, and here’s proof &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-quick-share-iphone-apk-teardown-3590749/)
- - [How Masayoshi Son became President Trump&#39;s favored foreign investor, after cultivating close ties since Trump&#39;s first term, leading to SoftBank&#39;s $2B Intel deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250825/p7#a250825p7)
- - [Google will soon make it easier to find out what’s wrong with your Pixel &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-device-health-support-diagnostics-3590735/)<!-- TECH:END -->
+ - [a16z, OpenAI&#39;s Greg Brockman, and others launch Leading the Future, a pro-AI super PAC network with $100M+ in funding, hoping to emulate crypto PAC Fairshake &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250825/p11#a250825p11)
+ - [Switch emulator Sudachi is no more, and it’s &lpar;mostly&rpar; not because of Nintendo](https://www.androidauthority.com/sudachi-ends-development-3590776/)
+ - [How German delivery giant DHL uses automation and AI to help offset an ageing workforce, with one in three support staff set to retire in the next five years &lpar;Andrew Hill/Financial Times&rpar;](http://www.techmeme.com/250825/p10#a250825p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
