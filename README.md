@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [So far in 2025, at least 10 biotech companies have pivoted into crypto to boost stock prices, frequently sparking frenzied but short-lived spikes in shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p26#a250825p26)
- - [The Google TV Streamer is rarely on sale, so it’s your lucky day!](https://www.androidauthority.com/google-tv-streamer-deal-4-3591044/)
- - [WIRED Roundup: The US Chip Manufacturers’ Bonanza](https://www.wired.com/story/uncannny-valley-wired-roundup-us-chip-manufacturers-bonanza/)<!-- TECH:END -->
+ - [The new entry-level Kindle Colorsoft is $30 off for a limited time](https://www.theverge.com/tech/765254/amazon-kindle-colorsoft-16gb-e-reader-deal-sale)
+ - [Large, curved Samsung Odyssey G9 monitor drops to new record-low price!](https://www.androidauthority.com/samsung-odyssey-g9-g95c-49-inch-curved-gaming-monitor-deal-2-3591043/)
+ - [Sources: Doug Beck, director of Pentagon&#39;s Defense Innovation Unit, resigns; DOD officials had previously raised concerns about his donations to Democrats &lpar;Reuters&rpar;](http://www.techmeme.com/250825/p27#a250825p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
