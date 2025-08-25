@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Minecraft Mod Turns It Into Portal 2, Complete With A Level Editor](https://kotaku.com/portal-2-minecraft-java-edition-mod-valve-pc-remake-2000620054)
- - [Vtuber grannies for rent: Agency deploys 75-and-up anime girl grandmas to &#39;resolve issues of young people&#39;](https://www.pcgamer.com/gaming-industry/vtuber-grannies-for-rent-agency-deploys-75-and-up-anime-girl-grandmas-to-resolve-issues-of-young-people/)
- - [Eye-Catching Cybernoir Action Thriller Looks Worth The Wait After Years Of Delays](https://kotaku.com/replaced-release-date-cyberpunk-pixel-art-batman-arkham-2000620061)<!-- GAME:END -->
+ - [Pokémon Go &#39;Sunkissed Shores&#39; event guide](https://www.polygon.com/pokemon-go-sunkissed-shores-timed-research-dondozo-raids/)
+ - [3 Netflix movies you gotta watch this week &lpar;Aug. 25&rpar;](https://www.polygon.com/new-netflix-movies-to-watch-aug-25-29/)
+ - [Someone Recreated All Of Robocop As The Cracker Barrel Logo](https://kotaku.com/someone-recreated-all-of-robocop-as-the-cracker-barrel-logo-2000620081)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
