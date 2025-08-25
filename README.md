@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [KPop Demon Hunters gives Netflix its first theatrical win](https://www.polygon.com/kpop-demon-hunters-theaters-success-netflix-box-office/)
  - [Today&#39;s Wordle clues, hints and answer for August 25 &lpar;#1528&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-25-2025/)
- - [&lpar;For Southeast Asia&rpar; NBA 2K26: Hands-on report and PS5 bundle details](https://blog.playstation.com/2025/08/24/20250825-nba/)
  - [&lpar;For Southeast Asia&rpar; NBA 2K26: Hands-on report and PS5 bundle details](https://blog.playstation.com/2025/08/24/20250825-nba/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
