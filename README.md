@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony&#39;s gaming execs, designers, and studio founders describe how it wants its first-party studios to contribute more to revenue growth and take measured risks &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250825/p2#a250825p2)
- - [The Galaxy S26 Ultra could cut corners in the best way possible](https://www.androidauthority.com/samsung-galaxy-s26-ultra-corner-design-3590723/)
- - [This new Pixel 10 feature makes weather reports even more personal, but not for everyone](https://www.androidauthority.com/pixel-10-personal-weather-insights-3590717/)<!-- TECH:END -->
+ - [A look at the surge in US states introducing AI bills, as the states shift from comprehensive AI laws to focus on narrower issues, like mental health &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250825/p3#a250825p3)
+ - [Not just phones and TVs: Samsung is bringing 7 years of updates to more devices](https://www.androidauthority.com/samsung-appliances-7-years-updates-3590730/)
+ - [A Crypto Micronation Is Making Friends at the White House](https://www.wired.com/story/liberland-micro-nation-justin-sun-white-house/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
