@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk baselessly suing Apple for Grok&#39;s position on the App Store](https://appleinsider.com/articles/25/08/25/elon-musk-baselessly-suing-apple-for-groks-position-on-the-app-store?utm_source=rss)
- - [Trump told a major offshore wind project to stop construction just before it reached the finish line](https://www.theverge.com/news/765175/trump-offshore-wind-farm-revolution-orsted-halt)
- - [Just bought a new Galaxy foldable? Watch out for this alert-hiding bug](https://www.androidauthority.com/samsung-one-ui-8-do-not-disturb-reset-bug-3590883/)<!-- TECH:END -->
+ - [Elon Musk&#39;s xAI Sues Apple and OpenAI Over App Store Rankings](https://www.wired.com/story/elon-musks-xai-sues-apple-and-openai-over-alleged-app-store-rigging/)
+ - [WIRED Might Have Found a New Best Bag in the World](https://www.wired.com/story/wired-might-have-found-a-new-best-bag-in-the-world/)
+ - [Our favorite smart lock is on sale for the first time today](https://www.theverge.com/smart-home/765121/kwikset-halo-select-smart-lock-sonos-era-300-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
