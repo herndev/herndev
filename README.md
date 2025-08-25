@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the surge in US states introducing AI bills, as the states shift from comprehensive AI laws to focus on narrower issues, like mental health &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250825/p3#a250825p3)
- - [Not just phones and TVs: Samsung is bringing 7 years of updates to more devices](https://www.androidauthority.com/samsung-appliances-7-years-updates-3590730/)
- - [A Crypto Micronation Is Making Friends at the White House](https://www.wired.com/story/liberland-micro-nation-justin-sun-white-house/)<!-- TECH:END -->
+ - [Sources: TSMC plans to drop Chinese chipmaking equipment, including AMEC&#39;s etching tools, from its most advanced 2nm production to avoid potential US backlash &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250825/p6#a250825p6)
+ - [Sources: Spotify&#39;s difficulties of lining up partnerships have delayed its super premium service, which Spotify has been talking about for a couple of years &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250825/p5#a250825p5)
+ - [Spotify Co-President and CBO Alex Norström says price increases are &quot;part of our toolbox now&quot;, adding that they will be accompanied by new services and features &lpar;Financial Times&rpar;](http://www.techmeme.com/250825/p4#a250825p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
