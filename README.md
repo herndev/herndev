@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pixel 10 will let you make WhatsApp calls without cell service](https://www.androidauthority.com/pixel-10-whatsapp-calls-satellite-3590605/)
- - [Apple accuses former Apple Watch staffer of conspiring to steal trade secrets for Oppo](https://www.theverge.com/news/764775/apple-watch-trade-secrets-oppo-lawsuit)
- - [Bluesky Goes Dark in Mississippi Over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)<!-- TECH:END -->
+ - [A look at FoundHer House, an all-female hacker house in San Francisco that has become a hot spot for dinners and panel discussions sponsored by a16z and others &lpar;New York Times&rpar;](http://www.techmeme.com/250824/p18#a250824p18)
+ - [Two former executives who ran the CHIPS Program Office say the US-Intel deal won&#39;t solve Intel&#39;s real issue: a lack of external customers for its foundry unit &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250824/p17#a250824p17)
+ - [Apple has considered bringing back the bumper for the iPhone 17](https://appleinsider.com/articles/25/08/24/apple-has-considered-bringing-back-the-bumper-for-the-iphone-17?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
