@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All the remaining big 2025 games that will fill the hole left by GTA 6](https://www.polygon.com/fall-2025-new-video-games-release-calendar-crowded/)
  - [Spike Lee found one great use for Instagram in Highest 2 Lowest](https://www.polygon.com/spike-lee-highest-2-lowest-social-media-what-instagram-is-good-for/)
- - [The Next Switch 2 Nintendo Direct Is Reportedly Coming Soon And Will Probably Be A Big One](https://kotaku.com/nintendo-direct-september-switch-2-mario-metroid-prime-4-date-2000619997)
- - [Story of Seasons: Grand Bazaar remake is at its best when it&#39;s about community](https://www.polygon.com/story-of-seasons-grand-bazaar-harvest-moon-community/)<!-- GAME:END -->
+ - [The Next Switch 2 Nintendo Direct Is Reportedly Coming Soon And Will Probably Be A Big One](https://kotaku.com/nintendo-direct-september-switch-2-mario-metroid-prime-4-date-2000619997)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
