@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk&#39;s xAI sues Apple and OpenAI over ChatGPT exclusivity on iOS devices, accuses them of &#39;thwarting competition and innovation in the generative AI chatbot market&#39;](https://www.pcgamer.com/software/ai/elon-musks-xai-sues-apple-and-openai-over-chatgpt-exclusivity-on-ios-devices-accuses-them-of-thwarting-competition-and-innovation-in-the-generative-ai-chatbot-market/)
- - [Everyone can try Path of Exile 2 for free when its gigantic new update drops later this week](https://www.pcgamer.com/games/rpg/everyone-can-try-path-of-exile-2-for-free-when-its-gigantic-new-update-drops-later-this-week/)
- - [6 Awesome-Looking Games That Went Under The Radar At Gamescom 2025](https://kotaku.com/gamescom-2025-trailers-cozy-sim-jrpg-soulslike-roguelite-2000620078)<!-- GAME:END -->
+ - [World of Warcraft&#39;s player housing won&#39;t lock out casual players: &#39;We&#39;re not gonna put a beautiful bookcase behind killing a raid boss&#39;](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-player-housing-wont-lock-out-casual-players-were-not-gonna-put-a-beautiful-bookcase-behind-killing-a-raid-boss/)
+ - [Schedule 1&#39;s Rival Cartel update solves its biggest problem, and the beta is available now](https://www.pcgamer.com/games/sim/schedule-1s-rival-cartel-update-solves-its-biggest-problem-and-the-beta-is-available-now/)
+ - [Elon Musk&#39;s xAI sues Apple and OpenAI over ChatGPT exclusivity on iOS devices, accuses them of &#39;thwarting competition and innovation in the generative AI chatbot market&#39;](https://www.pcgamer.com/software/ai/elon-musks-xai-sues-apple-and-openai-over-chatgpt-exclusivity-on-ios-devices-accuses-them-of-thwarting-competition-and-innovation-in-the-generative-ai-chatbot-market/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
