@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TSMC plans to drop Chinese chipmaking equipment, including AMEC&#39;s etching tools, from its most advanced 2nm production to avoid potential US backlash &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250825/p6#a250825p6)
- - [Sources: Spotify&#39;s difficulties of lining up partnerships have delayed its super premium service, which Spotify has been talking about for a couple of years &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250825/p5#a250825p5)
- - [Spotify Co-President and CBO Alex Norström says price increases are &quot;part of our toolbox now&quot;, adding that they will be accompanied by new services and features &lpar;Financial Times&rpar;](http://www.techmeme.com/250825/p4#a250825p4)<!-- TECH:END -->
+ - [Quick Share for iPhones is still in the works, and here’s proof &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-quick-share-iphone-apk-teardown-3590749/)
+ - [How Masayoshi Son became President Trump&#39;s favored foreign investor, after cultivating close ties since Trump&#39;s first term, leading to SoftBank&#39;s $2B Intel deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250825/p7#a250825p7)
+ - [Google will soon make it easier to find out what’s wrong with your Pixel &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-device-health-support-diagnostics-3590735/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
