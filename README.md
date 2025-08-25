@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s xAI Sues Apple and OpenAI Over App Store Rankings](https://www.wired.com/story/elon-musks-xai-sues-apple-and-openai-over-alleged-app-store-rigging/)
- - [WIRED Might Have Found a New Best Bag in the World](https://www.wired.com/story/wired-might-have-found-a-new-best-bag-in-the-world/)
- - [Our favorite smart lock is on sale for the first time today](https://www.theverge.com/smart-home/765121/kwikset-halo-select-smart-lock-sonos-era-300-deal-sale)<!-- TECH:END -->
+ - [Sources: the Trump administration is considering imposing sanctions on EU or member state officials responsible for implementing the EU&#39;s DSA &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/250825/p23#a250825p23)
+ - [16 Best Back-to-School Deals for 2025](https://www.wired.com/story/best-back-to-school-deals-2025/)
+ - [Google plans to begin verifying the identity of all developers who distribute apps on Android, even if it&#39;s outside the Play Store, starting September 2026 &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250825/p22#a250825p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
