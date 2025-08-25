@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
- - ⏩ [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
- - 👉 [How sugar cane juice is made with manual power. Uhmmmm, delicio.... Oh....](http://9gag.com/gag/aqydm4Z)<!-- MEMES:END -->
+ - 💣 [Be kind, please rewind](http://9gag.com/gag/aAymYPE)
+ - ⏩ [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 👉 [8 ball trick shot](http://9gag.com/gag/a6ZxwQm)<!-- MEMES:END -->
 
 ---
 
