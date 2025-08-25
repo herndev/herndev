@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 Best Power Banks &lpar;2025&rpar;, I&#39;ve Tested Countless to Find Them](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [EcoFlow’s Rapid power bank is the fastest yet](https://www.theverge.com/reviews/764829/fastest-power-bank-review-ecoflow-rapid)
- - [Perplexity launches Comet Plus, a $5/month tier offering curated content, and says it has allocated $42.5M for publishers, which will receive 80% of the revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p14#a250825p14)<!-- TECH:END -->
+ - [Apple&amp;#8217;s three-year iPhone plan is a break from the boring](https://www.theverge.com/news/765063/apple-iphone-air-redesign-three-year-plan)
+ - [An interview with Eric Trump on how he became a crypto evangelist after several banks cut off the Trump family&#39;s accounts following the January 6 Capitol riot &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250825/p16#a250825p16)
+ - [New survey suggests Google has work to do with Pixel 10’s Pro Res Zoom](https://www.androidauthority.com/google-pixel-10-pro-res-zoom-survey-results-3590843/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
