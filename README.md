@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new entry-level Kindle Colorsoft is $30 off for a limited time](https://www.theverge.com/tech/765254/amazon-kindle-colorsoft-16gb-e-reader-deal-sale)
- - [Large, curved Samsung Odyssey G9 monitor drops to new record-low price!](https://www.androidauthority.com/samsung-odyssey-g9-g95c-49-inch-curved-gaming-monitor-deal-2-3591043/)
- - [Sources: Doug Beck, director of Pentagon&#39;s Defense Innovation Unit, resigns; DOD officials had previously raised concerns about his donations to Democrats &lpar;Reuters&rpar;](http://www.techmeme.com/250825/p27#a250825p27)<!-- TECH:END -->
+ - [Poll: Do you like the new Google dialer?](https://www.androidauthority.com/poll-google-phone-app-dialer-3591113/)
+ - [Forty-four US AGs sign an open letter to 11 chatbot and social media companies, warning they&#39;ll be held accountable if their AI chatbots knowingly harm children &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250825/p28#a250825p28)
+ - [Details About the First iPhone Foldable Are Coming Into Focus](https://www.cnet.com/tech/mobile/details-about-the-first-iphone-foldable-are-coming-into-focus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
