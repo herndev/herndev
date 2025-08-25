@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s three-year iPhone plan is a break from the boring](https://www.theverge.com/news/765063/apple-iphone-air-redesign-three-year-plan)
- - [An interview with Eric Trump on how he became a crypto evangelist after several banks cut off the Trump family&#39;s accounts following the January 6 Capitol riot &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250825/p16#a250825p16)
- - [New survey suggests Google has work to do with Pixel 10’s Pro Res Zoom](https://www.androidauthority.com/google-pixel-10-pro-res-zoom-survey-results-3590843/)<!-- TECH:END -->
+ - [Thoma Bravo buys customer service automation software provider Verint for $1.23B in cash, days after its $12.3B purchase of HR software provider Dayforce &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250825/p18#a250825p18)
+ - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
+ - [AI doesn’t belong in journaling](https://www.theverge.com/analysis/764519/ai-gemini-pixel-journal-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
