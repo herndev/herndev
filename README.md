@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Silent Hill f&#39;s director insists that its dodge and counterattack systems don&#39;t make it a soulslike: &#39;I think it&#39;s a label that&#39;s a little bit disingenuous&#39;](https://www.pcgamer.com/games/horror/silent-hill-fs-director-insists-that-its-dodge-and-counterattack-systems-dont-make-it-a-soulslike-i-think-its-a-label-thats-a-little-bit-disingenuous/)
  - [KPop Demon Hunters gives Netflix its first theatrical win](https://www.polygon.com/kpop-demon-hunters-theaters-success-netflix-box-office/)
- - [Today&#39;s Wordle clues, hints and answer for August 25 &lpar;#1528&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-25-2025/)
- - [&lpar;For Southeast Asia&rpar; NBA 2K26: Hands-on report and PS5 bundle details](https://blog.playstation.com/2025/08/24/20250825-nba/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for August 25 &lpar;#1528&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-25-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
