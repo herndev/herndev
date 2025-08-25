@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude recognized and accepted it. Respect.](http://9gag.com/gag/axyANpb)
- - ⏩ [One of us..](http://9gag.com/gag/awy8r7R)
- - 👉 [Seems right](http://9gag.com/gag/abAd5Db)<!-- MEMES:END -->
+ - 💣 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - ⏩ [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
+ - 👉 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
 
 ---
 
