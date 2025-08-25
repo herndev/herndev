@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dodged a bullet](http://9gag.com/gag/a34xd5r)
- - ⏩ [Go `Home`](http://9gag.com/gag/aoydEbn)
- - 👉 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)<!-- MEMES:END -->
+ - 💣 [Go `Home`](http://9gag.com/gag/aoydEbn)
+ - ⏩ [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
 
 ---
 
