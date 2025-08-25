@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/a6Zxwd9)
- - ⏩ [Seems right](http://9gag.com/gag/abAd5Db)
- - 👉 [One of us..](http://9gag.com/gag/awy8r7R)<!-- MEMES:END -->
+ - 💣 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
+ - ⏩ [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
+ - 👉 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)<!-- MEMES:END -->
 
 ---
 
