@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z, OpenAI&#39;s Greg Brockman, and others launch Leading the Future, a pro-AI super PAC network with $100M+ in funding, hoping to emulate crypto PAC Fairshake &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250825/p11#a250825p11)
- - [Switch emulator Sudachi is no more, and it’s &lpar;mostly&rpar; not because of Nintendo](https://www.androidauthority.com/sudachi-ends-development-3590776/)
- - [How German delivery giant DHL uses automation and AI to help offset an ageing workforce, with one in three support staff set to retire in the next five years &lpar;Andrew Hill/Financial Times&rpar;](http://www.techmeme.com/250825/p10#a250825p10)<!-- TECH:END -->
+ - [First Netflix House opens its doors on November 12th](https://www.theverge.com/news/765025/first-netflix-house-opens-its-doors-on-november-12th)
+ - [PDD Holdings, which owns Pinduoduo and Temu, reports Q2 revenue up 7% YoY to ~$14.53B, above est., and net income down 5% YoY to ~$4.5B, driven by discounts &lpar;Reuters&rpar;](http://www.techmeme.com/250825/p12#a250825p12)
+ - [How Steve Jobs&#39;s legacy still drives the &#39;Shot on iPhone&#39; ad agency](https://appleinsider.com/articles/25/08/25/how-steve-jobss-legacy-still-drives-the-shot-on-iphone-ad-agency?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
