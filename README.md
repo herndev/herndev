@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Details About the First iPhone Foldable Are Coming Into Focus](https://www.cnet.com/tech/mobile/details-about-the-first-iphone-foldable-are-coming-into-focus/#ftag=CAD590a51e)
- - [CalDigit TS5 Plus review: A great &amp; capable Thunderbolt 5 dock for Mac](https://appleinsider.com/articles/25/05/20/caldigit-ts5-plus-review-a-great-capable-thunderbolt-5-dock-for-mac?utm_source=rss)
- - [The US Commerce Department voids a Biden administration deal with the nonprofit Natcast to oversee $7.4B in semiconductor research funds, calling it illegal &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250825/p25#a250825p25)<!-- TECH:END -->
+ - [So far in 2025, at least 10 biotech companies have pivoted into crypto to boost stock prices, frequently sparking frenzied but short-lived spikes in shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p26#a250825p26)
+ - [The Google TV Streamer is rarely on sale, so it’s your lucky day!](https://www.androidauthority.com/google-tv-streamer-deal-4-3591044/)
+ - [WIRED Roundup: The US Chip Manufacturers’ Bonanza](https://www.wired.com/story/uncannny-valley-wired-roundup-us-chip-manufacturers-bonanza/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
