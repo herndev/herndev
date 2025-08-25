@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; NBA 2K26: Hands-on report and PS5 bundle details](https://blog.playstation.com/2025/08/24/20250825-nba/)
  - [Five new Steam games you probably missed &lpar;August 25, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-25-2025/)
- - [Former Dragon Age producer Mark Darrah agrees that Mages were the most &#39;complete&#39; class in Origins, says it came from D&amp;D rules and the fact that Warriors and Rogues weren&#39;t allowed to &#39;violate physics&#39; yet](https://www.pcgamer.com/games/dragon-age/former-dragon-age-producer-mark-darrah-agrees-that-mages-were-the-most-complete-class-in-origins-says-it-came-from-d-and-d-rules-and-the-fact-that-warriors-and-rogues-werent-allowed-to-violate-physics-yet/)
- - [Disgruntled coder who admitted to deploying a malware &#39;kill switch&#39; to get back at his bosses sentenced to 4 years in prison](https://www.pcgamer.com/gaming-industry/disgruntled-coder-who-admitted-to-deploying-a-malware-kill-switch-to-get-back-at-his-bosses-sentenced-to-4-years-in-prison/)<!-- GAME:END -->
+ - [Former Dragon Age producer Mark Darrah agrees that Mages were the most &#39;complete&#39; class in Origins, says it came from D&amp;D rules and the fact that Warriors and Rogues weren&#39;t allowed to &#39;violate physics&#39; yet](https://www.pcgamer.com/games/dragon-age/former-dragon-age-producer-mark-darrah-agrees-that-mages-were-the-most-complete-class-in-origins-says-it-came-from-d-and-d-rules-and-the-fact-that-warriors-and-rogues-werent-allowed-to-violate-physics-yet/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
