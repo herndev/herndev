@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for August 25 &lpar;#1528&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-25-2025/)
  - [&lpar;For Southeast Asia&rpar; NBA 2K26: Hands-on report and PS5 bundle details](https://blog.playstation.com/2025/08/24/20250825-nba/)
- - [Five new Steam games you probably missed &lpar;August 25, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-25-2025/)
- - [Former Dragon Age producer Mark Darrah agrees that Mages were the most &#39;complete&#39; class in Origins, says it came from D&amp;D rules and the fact that Warriors and Rogues weren&#39;t allowed to &#39;violate physics&#39; yet](https://www.pcgamer.com/games/dragon-age/former-dragon-age-producer-mark-darrah-agrees-that-mages-were-the-most-complete-class-in-origins-says-it-came-from-d-and-d-rules-and-the-fact-that-warriors-and-rogues-werent-allowed-to-violate-physics-yet/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 25, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-25-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
