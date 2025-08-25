@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
- - ⏩ [Best day ever](http://9gag.com/gag/aGyoKqK)
- - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
+ - 💣 [8 ball trick shot](http://9gag.com/gag/a6ZxwQm)
+ - ⏩ [Dude recognized and accepted it. Respect.](http://9gag.com/gag/axyANpb)
+ - 👉 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/a6Zxwd9)<!-- MEMES:END -->
 
 ---
 
