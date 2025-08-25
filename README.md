@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Majority rules, unless it&#39;s kim jong un](http://9gag.com/gag/aRBD55j)
- - ⏩ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
+ - 💣 [She was afraid people would rewrite history, so she recorded over 300,000 hours of TV over 35 years on 71,000 VHS tapes.Marion Stokes recorded television programs nonstop for over three decades. She started in the late 1970s](http://9gag.com/gag/aNDqegr)
+ - ⏩ [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 👉 [Be kind, please rewind](http://9gag.com/gag/aAymYPE)<!-- MEMES:END -->
 
 ---
 
