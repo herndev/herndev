@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go `Home`](http://9gag.com/gag/aoydEbn)
- - ⏩ [Ceased to exist](http://9gag.com/gag/a1mxvQw)
+ - 💣 [Dodged a bullet](http://9gag.com/gag/a34xd5r)
+ - ⏩ [Go `Home`](http://9gag.com/gag/aoydEbn)
  - 👉 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)<!-- MEMES:END -->
 
 ---
