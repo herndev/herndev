@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She was afraid people would rewrite history, so she recorded over 300,000 hours of TV over 35 years on 71,000 VHS tapes.Marion Stokes recorded television programs nonstop for over three decades. She started in the late 1970s](http://9gag.com/gag/aNDqegr)
- - ⏩ [Not quick poll](http://9gag.com/gag/a0ex9Lq)
- - 👉 [Be kind, please rewind](http://9gag.com/gag/aAymYPE)<!-- MEMES:END -->
+ - 💣 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - ⏩ [8 ball trick shot](http://9gag.com/gag/a6ZxwQm)
+ - 👉 [Her: `I just need some background noise to sleep` The background noise:](http://9gag.com/gag/amodXgd)<!-- MEMES:END -->
 
 ---
 
