@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hasselblad X2D II: the luxury sports car of medium format cameras](https://www.theverge.com/camera-review/765305/hasselblad-x2d-ii-the-luxury-sports-car-of-medium-format-cameras)
- - [Hasselblad’s new medium format flagship comes with end-to-end HDR](https://www.theverge.com/news/765787/hasselblad-x2d-ii-100c-camera-launch)
- - [Sources: Temu resumes shipping goods from China directly to US consumers and increases its US ad spending, after a trade truce between Washington and Beijing &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p12#a250826p12)<!-- TECH:END -->
+ - [Join me and the Android Authority team for a Pixel 10 series AMA, August 27 at 1PM EST](https://www.androidauthority.com/android-authority-pixel-10-ama-3591278/)
+ - [Zooming in on weird cameras](https://www.theverge.com/uncategorized/765482/fujifilm-x-half-sigma-bf-petapixel-chris-jordan-iphone-mini)
+ - [Hands-on with the Level Lock Pro: sleeker, smarter, still very expensive](https://www.theverge.com/hands-on/765571/level-lock-pro-hands-on-review-apple-home-key-matter-thread)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
