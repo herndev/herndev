@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
- - ⏩ [First Responder Training](http://9gag.com/gag/arydpBK)
- - 👉 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)<!-- MEMES:END -->
+ - 💣 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
+ - ⏩ [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
+ - 👉 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)<!-- MEMES:END -->
 
 ---
 
