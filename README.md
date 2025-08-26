@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Health Connect prepares to track your favorite vices &lpar;APK teardown&rpar;](https://www.androidauthority.com/health-connect-smoking-drinking-3591532/)
- - [Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops](https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub)
- - [The Pixel 10’s new Gboard writing assistant is already starting to arrive for older Pixel phones](https://www.androidauthority.com/gboard-writing-tools-arrives-on-older-pixels-3591504/)<!-- TECH:END -->
+ - [Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors](https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/)
+ - [Blue Water Autonomy, which is building autonomous, unmanned ships for the US Navy, raised a $50M Series A led by GV, bringing its total funding to $64M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250826/p32#a250826p32)
+ - [The winners and losers of Taylor Swift’s engagement announcement](https://www.theverge.com/news/766173/taylor-swift-travis-kelce-engagement-announcement-instagram-threads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
