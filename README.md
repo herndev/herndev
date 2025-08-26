@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
- - ⏩ [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
- - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
+ - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
+ - ⏩ [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
+ - 👉 [The state of the UK police](http://9gag.com/gag/aW4dWPn)<!-- MEMES:END -->
 
 ---
 
