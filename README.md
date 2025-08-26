@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors](https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/)
- - [Blue Water Autonomy, which is building autonomous, unmanned ships for the US Navy, raised a $50M Series A led by GV, bringing its total funding to $64M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250826/p32#a250826p32)
- - [The winners and losers of Taylor Swift’s engagement announcement](https://www.theverge.com/news/766173/taylor-swift-travis-kelce-engagement-announcement-instagram-threads)<!-- TECH:END -->
+ - [Trump says Meta plans to spend $50B on its &quot;Hyperion&quot; data center under construction in Louisiana; earlier, Meta said that its investment would exceed $10B &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250826/p33#a250826p33)
+ - [Nothing caught red-handed faking Phone 3 camera samples, doesn’t even try to deny](https://www.androidauthority.com/nothing-phone-3-fake-camera-3591569/)
+ - [Here are 30 of our favorite deals from REI’s ongoing Labor Day sale](https://www.theverge.com/tech/765671/best-rei-labor-day-sale-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
