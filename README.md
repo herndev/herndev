@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of A24, valued at $3.5B in June 2024, as the studio focuses on big budget projects and invests in AI tools via A24 Labs, drawing mixed reactions &lpar;Alex Barasch/New Yorker&rpar;](http://www.techmeme.com/250826/p5#a250826p5)
- - [Shopify updated a help page in May to tighten its rules against &quot;hateful content&quot; like racist merchandise, after removing a similar ban in July 2024 &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/250826/p4#a250826p4)
- - [Some Pixels are bricked and Google apparently won’t help revive them](https://www.androidauthority.com/google-pixel-phones-bricked-3591218/)<!-- TECH:END -->
+ - [Spotify is adding DMs](https://www.theverge.com/news/765771/spotify-messages-dms-audio-sharing-feature)
+ - [The US taking a 10% equity stake in Intel is a terrible idea and a dangerous turn for US industrial policy, but also the least bad idea to make Foundry viable &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250826/p8#a250826p8)
+ - [The Pixel Watch 4 doesn’t fix a longtime Fitbit problem, and I hate it](https://www.androidauthority.com/pixel-watch-4-doesnt-fix-fitbit-multi-device-issue-3590622/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
