@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
- - ⏩ [Fastest hand in west](http://9gag.com/gag/a2vxNMO)
- - 👉 [Dodged a bullet](http://9gag.com/gag/a34xd5r)<!-- MEMES:END -->
+ - 💣 [It happened again](http://9gag.com/gag/amodNMv)
+ - ⏩ [Mindf**k Movies for rainy days](http://9gag.com/gag/ae9d3LB)
+ - 👉 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)<!-- MEMES:END -->
 
 ---
 
