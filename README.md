@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru, home to about 33% of India&#39;s 1,800+ GCCs and key to the $300B tech industry, struggles as its infrastructure lags behind rapid tech sector growth &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p3#a250826p3)
- - [Japanese media groups Nikkei and Asahi Shimbun jointly sue Perplexity in Tokyo, alleging the AI startup &quot;copied and stored&quot; their content without permission &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p2#a250826p2)
- - [Lenovo Coupon Codes and Deals: Up to $880 Off PCs](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
+ - [Google is testing new colors for Android Auto, again &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-less-vibrant-colors-apk-teardown-3591186/)
+ - [Google Photos gets a &lpar;mostly&rpar; upgraded image viewer UI](https://www.androidauthority.com/google-photos-image-viewer-new-ui-3591166/)
+ - [AI Is Eliminating Jobs for Younger Workers](https://www.wired.com/story/stanford-research-ai-replace-jobs-young-workers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
