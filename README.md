@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring movie director spun up a 160-page script to convince Miyazaki he should be the one to make it](https://www.pcgamer.com/games/rpg/elden-ring-movie-director-spun-up-a-160-page-script-to-convince-miyazaki-he-should-be-the-one-to-make-it/)
- - [The Internet Reacts To Taylor Swift And Travis Kelce’s Engagement](https://kotaku.com/taylor-swift-travis-kelce-engaged-ring-reaction-2000620394)
- - [Okarun voice actor: At its core, Dan Da Dan is a story of &#39;kids growing up&#39;](https://www.polygon.com/dan-da-dan-english-dub-interview-anime-nyc-bryce-pappenbrook/)<!-- GAME:END -->
+ - [The Helldivers 2 Halo Warbond skimps on Halo flair, but I&#39;m having fun with the assault rifle anyway](https://www.polygon.com/helldivers-2-halo-crossover-impressions-assault-rifle-odst/)
+ - [Is Steam down again? It may just be the regular Tuesday maintenance](https://www.pcgamer.com/games/is-steam-down-again-it-may-just-be-the-regular-tuesday-maintenance/)
+ - [KPop Demon Hunters is officially the most watched Netflix Original movie of all time](https://www.polygon.com/kpop-demon-hunters-most-watched-netflix-original/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
