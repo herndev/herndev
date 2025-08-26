@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T is spending $23 billion on new spectrum, but what will it do with it?](https://www.androidauthority.com/att-echostar-deal-3591402/)
- - [Melania Trump says she hopes to become the First Lady of Technology as she leads the Presidential AI Challenge to inspire children and teachers to embrace AI &lpar;Miranda Devine/New York Post&rpar;](http://www.techmeme.com/250826/p19#a250826p19)
- - [Rumor claims AirPods Pro 3 charging case may slim down &amp; drop button](https://appleinsider.com/articles/25/08/26/rumor-claims-airpods-pro-3-charging-case-may-slim-down-drop-button?utm_source=rss)<!-- TECH:END -->
+ - [EA&amp;#8217;s free-to-play Skate revival hits early access in September](https://www.theverge.com/news/761186/ea-skate-free-to-play-early-access-release-date)
+ - [Google is building a Duolingo rival into the Translate app](https://www.theverge.com/news/765872/google-translate-ai-language-learning-duolingo)
+ - [Framework unveils a second-generation Framework Laptop 16 with a swappable Nvidia RTX 5070 GPU, an industry first, shipping in November 2025 for $2,199+ &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250826/p21#a250826p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
