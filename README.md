@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
- - ⏩ [This is what AI was made for](http://9gag.com/gag/awy8r4y)
- - 👉 [I wish I had friends](http://9gag.com/gag/aoydzLX)<!-- MEMES:END -->
+ - 💣 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
+ - ⏩ [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 👉 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)<!-- MEMES:END -->
 
 ---
 
