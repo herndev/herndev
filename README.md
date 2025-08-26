@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
+ - 💣 [This is what AI was made for](http://9gag.com/gag/awy8r4y)
  - ⏩ [Sad music](http://9gag.com/gag/amod03X)
- - 👉 [First Responder Training](http://9gag.com/gag/arydpBK)<!-- MEMES:END -->
+ - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 ---
 
