@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is adding DMs](https://www.theverge.com/news/765771/spotify-messages-dms-audio-sharing-feature)
- - [The US taking a 10% equity stake in Intel is a terrible idea and a dangerous turn for US industrial policy, but also the least bad idea to make Foundry viable &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250826/p8#a250826p8)
- - [The Pixel Watch 4 doesn’t fix a longtime Fitbit problem, and I hate it](https://www.androidauthority.com/pixel-watch-4-doesnt-fix-fitbit-multi-device-issue-3590622/)<!-- TECH:END -->
+ - [Hasselblad X2D II: the luxury sports car of medium format cameras](https://www.theverge.com/camera-review/765305/hasselblad-x2d-ii-the-luxury-sports-car-of-medium-format-cameras)
+ - [Hasselblad’s new medium format flagship comes with end-to-end HDR](https://www.theverge.com/news/765787/hasselblad-x2d-ii-100c-camera-launch)
+ - [Sources: Temu resumes shipping goods from China directly to US consumers and increases its US ad spending, after a trade truce between Washington and Beijing &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p12#a250826p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
