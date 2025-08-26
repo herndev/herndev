@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cue vs. Federighi: Executives differ on if Apple should buy their way out of AI crisis](https://appleinsider.com/articles/25/08/26/cue-vs-federighi-executives-differ-on-if-apple-should-buy-their-way-out-of-ai-crisis?utm_source=rss)
- - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
- - [London-based Attio, which offers a CRM service where AI agents and humans work together, raised a $52M Series B led by GV, bringing its total funding to $116M &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250826/p26#a250826p26)<!-- TECH:END -->
+ - [25 Best Early Labor Day Sales on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-sales-deals-2025/)
+ - [Apple locks in September date for iPhone 17 launch, with Air set to star](https://www.androidauthority.com/apple-iphone-17-launch-announced-3591509/)
+ - [Filing: Anthropic reached a settlement in a copyright class action brought by authors whose works were included in two pirate databases Anthropic downloaded &lpar;Annelise Levy/Bloomberg Law&rpar;](http://www.techmeme.com/250826/p30#a250826p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
