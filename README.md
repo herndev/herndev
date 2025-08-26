@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Google Play Store will now warns Wear OS users about vampire watch faces](https://www.androidauthority.com/google-play-store-watch-face-warnings-wear-os-feature-3591156/)
- - [Samsung’s latest ‘no shirt’ ad trolls iPhones for lacking intelligence and a fold](https://www.androidauthority.com/samsung-ad-trolls-apple-3591152/)
- - [Q&amp;A with Harsh Jain, CEO of Dream11 parent Dream Sports, on India&#39;s real-money gaming law, which he says erased 95% of the group&#39;s revenue and all its profits &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250825/p31#a250825p31)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Aug. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-aug-26/#ftag=CAD590a51e)
+ - [Samsung’s latest ‘no shirt’ ad trolls iPhones for lacking intelligence and a fold](https://www.androidauthority.com/samsung-ad-trolls-apple-3591152/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
