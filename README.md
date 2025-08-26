@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Helldivers 2 Halo Warbond skimps on Halo flair, but I&#39;m having fun with the assault rifle anyway](https://www.polygon.com/helldivers-2-halo-crossover-impressions-assault-rifle-odst/)
- - [Is Steam down again? It may just be the regular Tuesday maintenance](https://www.pcgamer.com/games/is-steam-down-again-it-may-just-be-the-regular-tuesday-maintenance/)
- - [KPop Demon Hunters is officially the most watched Netflix Original movie of all time](https://www.polygon.com/kpop-demon-hunters-most-watched-netflix-original/)<!-- GAME:END -->
+ - [The Original Pokémon Logo Creator Wants to Do It Again](https://www.polygon.com/video/the-original-pokmon-logo-creator-wants-to-do-it-again/)
+ - [Every Game Delayed By Silksong](https://kotaku.com/every-game-delayed-silksong-hollowknight-demonschool-baby-steps-cloverpit-2000620407)
+ - [KPop Demon Hunters Is Officially Netflix’s Most Popular Movie Of All Time](https://kotaku.com/kpop-demon-hunters-most-popular-netflix-streaming-2000620409)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
