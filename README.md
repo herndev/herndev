@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lumines Arise launches Nov 11, PS5 demo available now](https://blog.playstation.com/2025/08/26/lumines-arise-launches-nov-11-ps5-demo-available-now/)
- - [Lumines Arise gets release date, demo on PS5 and PC](https://www.polygon.com/lumines-arise-release-date-demo-ps5-steam/)
- - [Baby Steps delayed over Hollow Knight: Silksong release date](https://www.polygon.com/baby-steps-delayed-new-release-date/)<!-- GAME:END -->
+ - [This new MTG Edge of Eternities precon is absurdly good — one Final Fantasy card makes it even better](https://www.polygon.com/magic-the-gathering-world-shaper-precon-add-tifa-final-fantasy/)
+ - [Lego Batman chases the Arkham games that defined a generation](https://www.polygon.com/lego-batman-legacy-dark-knight-arkham-fans/)
+ - [I got my hands on Nvidia GeForce Now&#39;s new RTX 5080 upgrade and I couldn&#39;t tell the games weren&#39;t running locally, but 4K with frame gen was a little laggy](https://www.pcgamer.com/hardware/i-got-my-hands-on-nvidia-geforce-nows-new-rtx-5080-upgrade-and-i-couldnt-tell-the-games-werent-running-locally-but-4k-with-frame-gen-was-a-little-laggy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
