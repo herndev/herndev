@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go `Home`](http://9gag.com/gag/aoydEbn)
- - ⏩ [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
- - 👉 [Oh Adam!](http://9gag.com/gag/a2vxzQd)<!-- MEMES:END -->
+ - 💣 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
+ - ⏩ [This is what AI was made for](http://9gag.com/gag/awy8r4y)
+ - 👉 [I wish I had friends](http://9gag.com/gag/aoydzLX)<!-- MEMES:END -->
 
 ---
 
