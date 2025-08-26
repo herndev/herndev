@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ga2aw00d for the people.](http://9gag.com/gag/aGyoVRZ)
- - ⏩ [Thirsty hours](http://9gag.com/gag/a1mxeZP)
- - 👉 [Un recognize able](http://9gag.com/gag/aKGLg3W)<!-- MEMES:END -->
+ - 💣 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
+ - ⏩ [Italians are smart!](http://9gag.com/gag/aAympep)
+ - 👉 [Hopefully it won&#39;t get taken down again.](http://9gag.com/gag/aoydjnm)<!-- MEMES:END -->
 
 ---
 
