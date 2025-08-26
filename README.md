@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 Best Early Labor Day Sales on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-sales-deals-2025/)
- - [Apple locks in September date for iPhone 17 launch, with Air set to star](https://www.androidauthority.com/apple-iphone-17-launch-announced-3591509/)
- - [Filing: Anthropic reached a settlement in a copyright class action brought by authors whose works were included in two pirate databases Anthropic downloaded &lpar;Annelise Levy/Bloomberg Law&rpar;](http://www.techmeme.com/250826/p30#a250826p30)<!-- TECH:END -->
+ - [Health Connect prepares to track your favorite vices &lpar;APK teardown&rpar;](https://www.androidauthority.com/health-connect-smoking-drinking-3591532/)
+ - [Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops](https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub)
+ - [The Pixel 10’s new Gboard writing assistant is already starting to arrive for older Pixel phones](https://www.androidauthority.com/gboard-writing-tools-arrives-on-older-pixels-3591504/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
