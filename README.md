@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says Meta plans to spend $50B on its &quot;Hyperion&quot; data center under construction in Louisiana; earlier, Meta said that its investment would exceed $10B &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250826/p33#a250826p33)
- - [Nothing caught red-handed faking Phone 3 camera samples, doesn’t even try to deny](https://www.androidauthority.com/nothing-phone-3-fake-camera-3591569/)
- - [Here are 30 of our favorite deals from REI’s ongoing Labor Day sale](https://www.theverge.com/tech/765671/best-rei-labor-day-sale-deals-2025)<!-- TECH:END -->
+ - [Okta reports Q2 revenue up 13% YoY to $728M, vs. $711.8M est., net income up 131% to $67M, and increases its fiscal 2026 forecast; OKTA jumps 6%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250826/p37#a250826p37)
+ - [OpenAI plans to update ChatGPT to better respond to mental distress cues, provide parental controls, and bolster safeguards around conversations about suicide &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250826/p36#a250826p36)
+ - [Here’s the first discount on the Amazon Kindle Colorsoft!](https://www.androidauthority.com/amazon-kindle-colorsoft-deal-2-3591562/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
