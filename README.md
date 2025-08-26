@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
- - ⏩ [Sad music](http://9gag.com/gag/amod03X)
- - 👉 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
+ - 💣 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
+ - ⏩ [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 👉 [First Responder Training](http://9gag.com/gag/arydpBK)<!-- MEMES:END -->
 
 ---
 
