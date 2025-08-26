@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Play Store will now warns Wear OS users about vampire watch faces](https://www.androidauthority.com/google-play-store-watch-face-warnings-wear-os-feature-3591156/)
  - [Samsung’s latest ‘no shirt’ ad trolls iPhones for lacking intelligence and a fold](https://www.androidauthority.com/samsung-ad-trolls-apple-3591152/)
- - [Q&amp;A with Harsh Jain, CEO of Dream11 parent Dream Sports, on India&#39;s real-money gaming law, which he says erased 95% of the group&#39;s revenue and all its profits &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250825/p31#a250825p31)
- - [Google Photos is letting you lift subjects as stickers — but only on iOS](https://www.androidauthority.com/google-photos-lift-subjects-create-stickers-3590746/)<!-- TECH:END -->
+ - [Q&amp;A with Harsh Jain, CEO of Dream11 parent Dream Sports, on India&#39;s real-money gaming law, which he says erased 95% of the group&#39;s revenue and all its profits &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250825/p31#a250825p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
