@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - ⏩ [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
- - 👉 [The state of the UK police](http://9gag.com/gag/aW4dWPn)<!-- MEMES:END -->
+ - 💣 [Sad music](http://9gag.com/gag/amod03X)
+ - ⏩ [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 👉 [Un recognize able](http://9gag.com/gag/aKGLg3W)<!-- MEMES:END -->
 
 ---
 
