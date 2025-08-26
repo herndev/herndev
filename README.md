@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Final Fantasy 14: Dad of Light before it leaves Netflix](https://www.polygon.com/final-fantasy-14-dad-of-light-netflix/)
- - [AMD blames toasted AM5 sockets on motherboard makers pushing their luck with CPU settings](https://www.pcgamer.com/hardware/processors/amd-blames-toasted-am5-sockets-on-motherboard-makers-pushing-their-luck-with-cpu-settings/)
- - [This Samsung 9100 Pro 4TB SSD Hits a New All-Time Low, Amazon Clears Out Stock for Labor Day](https://kotaku.com/this-samsung-9100-pro-4tb-ssd-hits-a-new-all-time-low-amazon-clears-out-stock-for-labor-day-2000620292)<!-- GAME:END -->
+ - [Lumines Arise launches Nov 11, PS5 demo available now](https://blog.playstation.com/2025/08/26/lumines-arise-launches-nov-11-ps5-demo-available-now/)
+ - [Lumines Arise gets release date, demo on PS5 and PC](https://www.polygon.com/lumines-arise-release-date-demo-ps5-steam/)
+ - [Baby Steps delayed over Hollow Knight: Silksong release date](https://www.polygon.com/baby-steps-delayed-new-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
