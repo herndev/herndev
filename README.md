@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you like the new Google dialer?](https://www.androidauthority.com/poll-google-phone-app-dialer-3591113/)
- - [Forty-four US AGs sign an open letter to 11 chatbot and social media companies, warning they&#39;ll be held accountable if their AI chatbots knowingly harm children &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250825/p28#a250825p28)
- - [Details About the First iPhone Foldable Are Coming Into Focus](https://www.cnet.com/tech/mobile/details-about-the-first-iphone-foldable-are-coming-into-focus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Echo Pop deal: Save $12 on the cheapest Alexa speaker](https://www.androidauthority.com/amazon-echo-pop-deal-2-3591042/)
+ - [LinkedIn is expanding its BrandLink video ads program with new publishers and creators, and says payouts to them have more than tripled year over year &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250825/p30#a250825p30)
+ - [Google says NotebookLM&#39;s Video Overviews now support 80 languages, and Audio Overviews now provide more detailed non-English summaries &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250825/p29#a250825p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
