@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
- - ⏩ [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
- - 👉 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)<!-- MEMES:END -->
+ - 💣 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - ⏩ [Sad music](http://9gag.com/gag/amod03X)
+ - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
 
 ---
 
