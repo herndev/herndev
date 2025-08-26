@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
+ - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
  - ⏩ [Sad music](http://9gag.com/gag/amod03X)
- - 👉 [Their time will come](http://9gag.com/gag/aZZdPRp)<!-- MEMES:END -->
+ - 👉 [First Responder Training](http://9gag.com/gag/arydpBK)<!-- MEMES:END -->
 
 ---
 
