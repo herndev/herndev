@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Echo Pop deal: Save $12 on the cheapest Alexa speaker](https://www.androidauthority.com/amazon-echo-pop-deal-2-3591042/)
- - [LinkedIn is expanding its BrandLink video ads program with new publishers and creators, and says payouts to them have more than tripled year over year &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250825/p30#a250825p30)
- - [Google says NotebookLM&#39;s Video Overviews now support 80 languages, and Audio Overviews now provide more detailed non-English summaries &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250825/p29#a250825p29)<!-- TECH:END -->
+ - [YouTube TV could lose Fox channels this week](https://www.theverge.com/news/765663/fox-news-sports-youtube-tv-fox-one-carriage-dispute)
+ - [Elgato 4K S review: An excellent capture card for Mac streamers](https://appleinsider.com/articles/25/08/26/elgato-4k-s-review-an-excellent-capture-card-for-mac-streamers?utm_source=rss)
+ - [Amazon Echo Pop deal: Save $12 on the cheapest Alexa speaker](https://www.androidauthority.com/amazon-echo-pop-deal-2-3591042/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
