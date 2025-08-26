@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sad music](http://9gag.com/gag/amod03X)
- - ⏩ [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
+ - 💣 [Ga2aw00d for the people.](http://9gag.com/gag/aGyoVRZ)
+ - ⏩ [Thirsty hours](http://9gag.com/gag/a1mxeZP)
  - 👉 [Un recognize able](http://9gag.com/gag/aKGLg3W)<!-- MEMES:END -->
 
 ---
