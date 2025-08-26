@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [KTC H27T22C-3 gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/ktc-h27t22c-3-gaming-monitor-review/)
  - [In Sonic Racing: Crossworlds, Sega Does What Nintendon’t](https://kotaku.com/sonic-racing-crossworlds-mario-kart-preview-shadow-2000620065)
- - [Helldivers 2 Out on Xbox Today – Welcome to Boot Camp](https://news.xbox.com/en-us/2025/08/26/helldivers-2-out-on-xbox-today-welcome-to-boot-camp/)
- - [Today&#39;s Wordle clues, hints and answer for August 26 &lpar;#1529&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-26-2025/)<!-- GAME:END -->
+ - [Helldivers 2 Out on Xbox Today – Welcome to Boot Camp](https://news.xbox.com/en-us/2025/08/26/helldivers-2-out-on-xbox-today-welcome-to-boot-camp/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
