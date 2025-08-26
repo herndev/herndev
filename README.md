@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It happened again](http://9gag.com/gag/amodNMv)
- - ⏩ [Mindf**k Movies for rainy days](http://9gag.com/gag/ae9d3LB)
- - 👉 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)<!-- MEMES:END -->
+ - 💣 [I love bacon](http://9gag.com/gag/aAymrBR)
+ - ⏩ [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
+ - 👉 [It happened again](http://9gag.com/gag/amodNMv)<!-- MEMES:END -->
 
 ---
 
