@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Media and Crypto.com sign a deal to integrate Crypto.com&#39;s wallet and adopt the CRO token for Truth Social&#39;s rewards; Trump Media will buy $105M in CRO &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250826/p16#a250826p16)
- - [Apple Ring could be microphone &amp; volume control for your iPhone](https://appleinsider.com/articles/25/08/26/apple-ring-could-be-microphone-volume-control-for-your-iphone?utm_source=rss)
- - [Level Lock Pro review: The original invisible smart lock gets even better](https://appleinsider.com/articles/25/08/26/level-lock-pro-review-the-original-invisible-smart-lock-gets-even-better?utm_source=rss)<!-- TECH:END -->
+ - [AT&amp;T is spending $23 billion on new spectrum, but what will it do with it?](https://www.androidauthority.com/att-echostar-deal-3591402/)
+ - [Melania Trump says she hopes to become the First Lady of Technology as she leads the Presidential AI Challenge to inspire children and teachers to embrace AI &lpar;Miranda Devine/New York Post&rpar;](http://www.techmeme.com/250826/p19#a250826p19)
+ - [Rumor claims AirPods Pro 3 charging case may slim down &amp; drop button](https://appleinsider.com/articles/25/08/26/rumor-claims-airpods-pro-3-charging-case-may-slim-down-drop-button?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
