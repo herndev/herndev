@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA&amp;#8217;s free-to-play Skate revival hits early access in September](https://www.theverge.com/news/761186/ea-skate-free-to-play-early-access-release-date)
- - [Google is building a Duolingo rival into the Translate app](https://www.theverge.com/news/765872/google-translate-ai-language-learning-duolingo)
- - [Framework unveils a second-generation Framework Laptop 16 with a swappable Nvidia RTX 5070 GPU, an industry first, shipping in November 2025 for $2,199+ &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250826/p21#a250826p21)<!-- TECH:END -->
+ - [Cue vs. Federighi: Executives differ on if Apple should buy their way out of AI crisis](https://appleinsider.com/articles/25/08/26/cue-vs-federighi-executives-differ-on-if-apple-should-buy-their-way-out-of-ai-crisis?utm_source=rss)
+ - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
+ - [London-based Attio, which offers a CRM service where AI agents and humans work together, raised a $52M Series B led by GV, bringing its total funding to $116M &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250826/p26#a250826p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
