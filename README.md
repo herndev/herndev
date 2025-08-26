@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gears of War Reloaded review: Xbox classic shows age, but still rips on PS5](https://www.polygon.com/gears-of-war-reloaded-review-ps5/)
- - [Gears of War: Reloaded is Out Today – Here’s Everything You Need to Know](https://news.xbox.com/en-us/2025/08/26/gears-of-war-reloaded-everything-you-need-to-know/)
- - [Glorious is bringing an actually customisable gaming keyboard to the &#39;boring entry-level market&#39;](https://www.pcgamer.com/hardware/gaming-keyboards/glorious-is-bringing-an-actually-customisable-gaming-keyboard-to-the-boring-entry-level-market/)<!-- GAME:END -->
+ - [Baahubali: The Epic trailer marks the return of RRR director](https://www.polygon.com/baahubali-the-epic-us-release-date/)
+ - [Fresh Tracks review](https://www.polygon.com/fresh-tracks-review/)
+ - [New Leak Suggests Deadpool Is Coming To Marvel Rivals](https://kotaku.com/marvel-rivals-deadpool-daredevil-leak-audio-voice-lines-overwatch-2-lady-gaga-2000620344)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
