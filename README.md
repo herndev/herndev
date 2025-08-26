@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sad music](http://9gag.com/gag/amod03X)
+ - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
  - ⏩ [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 👉 [Un recognize able](http://9gag.com/gag/aKGLg3W)<!-- MEMES:END -->
+ - 👉 [Sad music](http://9gag.com/gag/amod03X)<!-- MEMES:END -->
 
 ---
 
