@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Photos is letting you lift subjects as stickers — but only on iOS](https://www.androidauthority.com/google-photos-lift-subjects-create-stickers-3590746/)
  - [YouTube TV could lose Fox channels this week](https://www.theverge.com/news/765663/fox-news-sports-youtube-tv-fox-one-carriage-dispute)
- - [Elgato 4K S review: An excellent capture card for Mac streamers](https://appleinsider.com/articles/25/08/26/elgato-4k-s-review-an-excellent-capture-card-for-mac-streamers?utm_source=rss)
- - [Amazon Echo Pop deal: Save $12 on the cheapest Alexa speaker](https://www.androidauthority.com/amazon-echo-pop-deal-2-3591042/)<!-- TECH:END -->
+ - [Elgato 4K S review: An excellent capture card for Mac streamers](https://appleinsider.com/articles/25/08/26/elgato-4k-s-review-an-excellent-capture-card-for-mac-streamers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
