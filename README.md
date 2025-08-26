@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 3 &#39;sometimes felt like parody&#39; of itself, say writers, but 4 aims to fix that: &#39;If I tried to put a meme in the game, he would come to my house with a baseball bat&#39;](https://www.pcgamer.com/games/rpg/borderlands-3-sometimes-felt-like-parody-of-itself-say-writers-but-4-aims-to-fix-that-if-i-tried-to-put-a-meme-in-the-game-he-would-come-to-my-house-with-a-baseball-bat/)
- - [Metal Gear Solid Delta: Snake Eater launch times, release date, and early access](https://www.pcgamer.com/games/action/metal-gear-solid-delta-snake-eater-launch-times-release-date/)
- - [Forget OLED, it was a 610 Hz TN gaming monitor that stole my heart over Gamescom week](https://www.pcgamer.com/hardware/gaming-monitors/forget-oled-it-was-a-610-hz-tn-gaming-monitor-that-stole-my-heart-over-gamescom-week/)<!-- GAME:END -->
+ - [Watch Final Fantasy 14: Dad of Light before it leaves Netflix](https://www.polygon.com/final-fantasy-14-dad-of-light-netflix/)
+ - [AMD blames toasted AM5 sockets on motherboard makers pushing their luck with CPU settings](https://www.pcgamer.com/hardware/processors/amd-blames-toasted-am5-sockets-on-motherboard-makers-pushing-their-luck-with-cpu-settings/)
+ - [This Samsung 9100 Pro 4TB SSD Hits a New All-Time Low, Amazon Clears Out Stock for Labor Day](https://kotaku.com/this-samsung-9100-pro-4tb-ssd-hits-a-new-all-time-low-amazon-clears-out-stock-for-labor-day-2000620292)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
