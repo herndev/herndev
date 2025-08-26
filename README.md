@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
- - ⏩ [Sad music](http://9gag.com/gag/amod03X)
+ - 💣 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
+ - ⏩ [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
  - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
 
 ---
