@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is testing new colors for Android Auto, again &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-less-vibrant-colors-apk-teardown-3591186/)
- - [Google Photos gets a &lpar;mostly&rpar; upgraded image viewer UI](https://www.androidauthority.com/google-photos-image-viewer-new-ui-3591166/)
- - [AI Is Eliminating Jobs for Younger Workers](https://www.wired.com/story/stanford-research-ai-replace-jobs-young-workers/)<!-- TECH:END -->
+ - [A profile of A24, valued at $3.5B in June 2024, as the studio focuses on big budget projects and invests in AI tools via A24 Labs, drawing mixed reactions &lpar;Alex Barasch/New Yorker&rpar;](http://www.techmeme.com/250826/p5#a250826p5)
+ - [Shopify updated a help page in May to tighten its rules against &quot;hateful content&quot; like racist merchandise, after removing a similar ban in July 2024 &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/250826/p4#a250826p4)
+ - [Some Pixels are bricked and Google apparently won’t help revive them](https://www.androidauthority.com/google-pixel-phones-bricked-3591218/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
