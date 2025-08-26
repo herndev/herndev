@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This new MTG Edge of Eternities precon is absurdly good — one Final Fantasy card makes it even better](https://www.polygon.com/magic-the-gathering-world-shaper-precon-add-tifa-final-fantasy/)
- - [Lego Batman chases the Arkham games that defined a generation](https://www.polygon.com/lego-batman-legacy-dark-knight-arkham-fans/)
- - [I got my hands on Nvidia GeForce Now&#39;s new RTX 5080 upgrade and I couldn&#39;t tell the games weren&#39;t running locally, but 4K with frame gen was a little laggy](https://www.pcgamer.com/hardware/i-got-my-hands-on-nvidia-geforce-nows-new-rtx-5080-upgrade-and-i-couldnt-tell-the-games-werent-running-locally-but-4k-with-frame-gen-was-a-little-laggy/)<!-- GAME:END -->
+ - [Gears of War Reloaded review: Xbox classic shows age, but still rips on PS5](https://www.polygon.com/gears-of-war-reloaded-review-ps5/)
+ - [Gears of War: Reloaded is Out Today – Here’s Everything You Need to Know](https://news.xbox.com/en-us/2025/08/26/gears-of-war-reloaded-everything-you-need-to-know/)
+ - [Glorious is bringing an actually customisable gaming keyboard to the &#39;boring entry-level market&#39;](https://www.pcgamer.com/hardware/gaming-keyboards/glorious-is-bringing-an-actually-customisable-gaming-keyboard-to-the-boring-entry-level-market/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
