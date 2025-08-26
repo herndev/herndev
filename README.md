@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s Season 18 is Live Now!](https://overwatch.blizzard.com/en-us/news/24224137#new_tab)
- - [EA’s Long AwaitedSkate Reboot Is Launching Next Month](https://kotaku.com/skate-4-reboot-ea-launch-date-september-xbox-ps5-pc-trailer-2000620375)
- - [Gothic Remake devs discuss the challenges of recreating a cult classic](https://www.polygon.com/gothic-remake-preview-gamescom/)<!-- GAME:END -->
+ - [It&#39;s kind of weird that Helldivers 2 isn&#39;t in Steam&#39;s big third-person shooter sale, but there are plenty of other great deals so I don&#39;t really miss it](https://www.pcgamer.com/games/third-person-shooter/its-kind-of-weird-that-helldivers-2-isnt-in-steams-big-third-person-shooter-sale-but-there-are-plenty-of-other-great-deals-so-i-dont-really-miss-it/)
+ - [Activision finally acknowledges Call of Duty skins problem, decides cosmetics won&#39;t carry forward in Black Ops 7: &#39;Some of you have said we’ve drifted from what made Call of Duty unique in the first place. That feedback hits home&#39;](https://www.pcgamer.com/games/fps/activision-finally-acknowledges-call-of-duty-skins-problem-decides-cosmetics-wont-carry-forward-in-black-ops-7-some-of-you-have-said-weve-drifted-from-what-made-call-of-duty-unique-in-the-first-place-that-feedback-hits-home/)
+ - [Elden Ring Nightreign‘s Secret New Mode Hasn’t Even Been Announced Yet And Fans Are Already Playing It](https://kotaku.com/elden-ring-nightreign-hard-mode-deep-night-ranked-2000620376)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
