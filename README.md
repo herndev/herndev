@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [KTC H27T22C-3 gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/ktc-h27t22c-3-gaming-monitor-review/)
- - [In Sonic Racing: Crossworlds, Sega Does What Nintendon’t](https://kotaku.com/sonic-racing-crossworlds-mario-kart-preview-shadow-2000620065)
- - [Helldivers 2 Out on Xbox Today – Welcome to Boot Camp](https://news.xbox.com/en-us/2025/08/26/helldivers-2-out-on-xbox-today-welcome-to-boot-camp/)<!-- GAME:END -->
+ - [Borderlands 3 &#39;sometimes felt like parody&#39; of itself, say writers, but 4 aims to fix that: &#39;If I tried to put a meme in the game, he would come to my house with a baseball bat&#39;](https://www.pcgamer.com/games/rpg/borderlands-3-sometimes-felt-like-parody-of-itself-say-writers-but-4-aims-to-fix-that-if-i-tried-to-put-a-meme-in-the-game-he-would-come-to-my-house-with-a-baseball-bat/)
+ - [Metal Gear Solid Delta: Snake Eater launch times, release date, and early access](https://www.pcgamer.com/games/action/metal-gear-solid-delta-snake-eater-launch-times-release-date/)
+ - [Forget OLED, it was a 610 Hz TN gaming monitor that stole my heart over Gamescom week](https://www.pcgamer.com/hardware/gaming-monitors/forget-oled-it-was-a-610-hz-tn-gaming-monitor-that-stole-my-heart-over-gamescom-week/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
