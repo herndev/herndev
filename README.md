@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - ⏩ [Distractions](http://9gag.com/gag/a5QxdON)
- - 👉 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)<!-- MEMES:END -->
+ - 💣 [Go `Home`](http://9gag.com/gag/aoydEbn)
+ - ⏩ [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
+ - 👉 [Oh Adam!](http://9gag.com/gag/a2vxzQd)<!-- MEMES:END -->
 
 ---
 
