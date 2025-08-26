@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baahubali: The Epic trailer marks the return of RRR director](https://www.polygon.com/baahubali-the-epic-us-release-date/)
- - [Fresh Tracks review](https://www.polygon.com/fresh-tracks-review/)
- - [New Leak Suggests Deadpool Is Coming To Marvel Rivals](https://kotaku.com/marvel-rivals-deadpool-daredevil-leak-audio-voice-lines-overwatch-2-lady-gaga-2000620344)<!-- GAME:END -->
+ - [Overwatch 2’s Season 18 is Live Now!](https://overwatch.blizzard.com/en-us/news/24224137#new_tab)
+ - [EA’s Long AwaitedSkate Reboot Is Launching Next Month](https://kotaku.com/skate-4-reboot-ea-launch-date-september-xbox-ps5-pc-trailer-2000620375)
+ - [Gothic Remake devs discuss the challenges of recreating a cult classic](https://www.polygon.com/gothic-remake-preview-gamescom/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
