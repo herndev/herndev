@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love bacon](http://9gag.com/gag/aAymrBR)
- - ⏩ [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
- - 👉 [It happened again](http://9gag.com/gag/amodNMv)<!-- MEMES:END -->
+ - 💣 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - ⏩ [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 👉 [I wish I had friends](http://9gag.com/gag/aoydzLX)<!-- MEMES:END -->
 
 ---
 
