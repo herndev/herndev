@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s kind of weird that Helldivers 2 isn&#39;t in Steam&#39;s big third-person shooter sale, but there are plenty of other great deals so I don&#39;t really miss it](https://www.pcgamer.com/games/third-person-shooter/its-kind-of-weird-that-helldivers-2-isnt-in-steams-big-third-person-shooter-sale-but-there-are-plenty-of-other-great-deals-so-i-dont-really-miss-it/)
- - [Activision finally acknowledges Call of Duty skins problem, decides cosmetics won&#39;t carry forward in Black Ops 7: &#39;Some of you have said we’ve drifted from what made Call of Duty unique in the first place. That feedback hits home&#39;](https://www.pcgamer.com/games/fps/activision-finally-acknowledges-call-of-duty-skins-problem-decides-cosmetics-wont-carry-forward-in-black-ops-7-some-of-you-have-said-weve-drifted-from-what-made-call-of-duty-unique-in-the-first-place-that-feedback-hits-home/)
- - [Elden Ring Nightreign‘s Secret New Mode Hasn’t Even Been Announced Yet And Fans Are Already Playing It](https://kotaku.com/elden-ring-nightreign-hard-mode-deep-night-ranked-2000620376)<!-- GAME:END -->
+ - [Elden Ring movie director spun up a 160-page script to convince Miyazaki he should be the one to make it](https://www.pcgamer.com/games/rpg/elden-ring-movie-director-spun-up-a-160-page-script-to-convince-miyazaki-he-should-be-the-one-to-make-it/)
+ - [The Internet Reacts To Taylor Swift And Travis Kelce’s Engagement](https://kotaku.com/taylor-swift-travis-kelce-engaged-ring-reaction-2000620394)
+ - [Okarun voice actor: At its core, Dan Da Dan is a story of &#39;kids growing up&#39;](https://www.polygon.com/dan-da-dan-english-dub-interview-anime-nyc-bryce-pappenbrook/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
