@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: a Chinese fab making Huawei&#39;s AI chips is set to start production as soon as the end of 2025, with two more due in 2026; the fabs&#39; ownership is unclear &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250827/p18#a250827p18)
- - [What’s the Best Hair Straightener for You? It Depends &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-straighteners/)
- - [Worried About Losing Your Job? Pack a Digital Go Bag](https://www.wired.com/story/whats-in-your-digital-go-bag/)<!-- TECH:END -->
+ - [iPhone 20 could be next to get Tandem OLED treatment](https://appleinsider.com/articles/25/08/27/iphone-20-could-be-next-to-get-tandem-oled-treatment?utm_source=rss)
+ - [Nothing caught red-handed faking Phone 3 camera samples, can’t even try to deny &lpar;Updated: Explanation&rpar;](https://www.androidauthority.com/nothing-phone-3-fake-camera-3591569/)
+ - [Was it just a mistake? Nothing speaks out on the Phone 3’s stock photo controversy](https://www.androidauthority.com/nothing-phone-3-stock-photos-controversy-3591774/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
