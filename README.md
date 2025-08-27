@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Atari now owns the rights to five Ubisoft games: Cold Fear, I Am Alive, Child of Eden, Grow Home, and Grow Up](https://www.pcgamer.com/gaming-industry/atari-now-owns-the-rights-to-five-ubisoft-games-cold-fear-i-am-alive-child-of-eden-grow-home-and-grow-up/)
- - [Today&#39;s Wordle clues, hints and answer for August 27 &lpar;#1530&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-27-2025/)
- - [Vermintide 2 just got another annual event with its own level and rewards](https://www.pcgamer.com/games/action/vermintide-2-just-got-another-annual-event-with-its-own-level-and-rewards/)<!-- GAME:END -->
+ - [When does the Path of Exile 2 &#39;The Third Edict&#39; update release?](https://www.polygon.com/path-of-exile-2-poe2-third-edict-update-release-time/)
+ - [How to win the Flower Festival in Story of Seasons: Grand Bazaar](https://www.polygon.com/story-of-seasons-grand-bazaar-flower-festival-requirements-win/)
+ - [12 Story of Seasons: Grand Bazaar tips to help you get started](https://www.polygon.com/story-of-seasons-grand-bazaar-beginners-tips-tricks-tools/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
