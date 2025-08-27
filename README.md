@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&amp;#8216;Vibe-hacking&amp;#8217; is now a top AI threat](https://www.theverge.com/ai-artificial-intelligence/766435/anthropic-claude-threat-intelligence-report-ai-cybersecurity-hacking)
- - [Sources: two AI researchers hired by Meta for its Superintelligence Labs returned to OpenAI after less than one-month stints; a third researcher also left Meta &lpar;Wired&rpar;](http://www.techmeme.com/250827/p15#a250827p15)
- - [This Philips Hue Bridge Pro price leak won’t light up your face](https://www.androidauthority.com/philips-hue-bridge-pro-price-leak-3591741/)<!-- TECH:END -->
+ - [Sources: a Chinese fab making Huawei&#39;s AI chips is set to start production as soon as the end of 2025, with two more due in 2026; the fabs&#39; ownership is unclear &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250827/p18#a250827p18)
+ - [What’s the Best Hair Straightener for You? It Depends &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-straighteners/)
+ - [Worried About Losing Your Job? Pack a Digital Go Bag](https://www.wired.com/story/whats-in-your-digital-go-bag/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
