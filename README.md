@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [?????????](http://9gag.com/gag/aZZdxjQ)
- - ⏩ [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
- - 👉 [Just wait](http://9gag.com/gag/aByvYbz)<!-- MEMES:END -->
+ - 💣 [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
+ - ⏩ [Fact](http://9gag.com/gag/aVvdeYv)
+ - 👉 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)<!-- MEMES:END -->
 
 ---
 
