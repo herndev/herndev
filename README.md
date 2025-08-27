@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)
- - ⏩ [Lol](http://9gag.com/gag/a9yVPVL)
- - 👉 [It&#39;s so genious.](http://9gag.com/gag/a4PxYmv)<!-- MEMES:END -->
+ - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - ⏩ [Just wait](http://9gag.com/gag/aByvYbz)
+ - 👉 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
 
 ---
 
