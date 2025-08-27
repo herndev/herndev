@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky Goes Full Star Trek Mode In Latest Massive Update](https://kotaku.com/no-mans-sky-voyagers-6-0-star-trek-mass-effect-2000620674)
- - [The new Scott Pilgrim game reforms some ex-Evil Exes](https://www.polygon.com/scott-pilgrim-ex-characters-lucas-lee-roxie-richter/)
- - [Sean Murray says the Earth-sized planet in Light No Fire will have &#39;real oceans&#39; that players will need &#39;large boats and crews&#39; to cross](https://www.pcgamer.com/games/survival-crafting/sean-murray-says-the-earth-sized-planet-in-light-no-fire-will-have-real-oceans-that-players-will-need-large-boats-and-crews-to-cross/)<!-- GAME:END -->
+ - [Upload&#39;s tricky ending explained by creator Greg Daniels](https://www.polygon.com/upload-series-finale-ending-greg-daniels-interview/)
+ - [No Man’s Sky Voyagers update: Large, customizable, multi-crew starships arrive today](https://blog.playstation.com/2025/08/27/no-mans-sky-voyagers-update-large-customizable-multi-crew-starships-arrive-today/)
+ - [No Man’s Sky Voyagers Update Ushers in a Whole New Dimension to Ship-Building](https://news.xbox.com/en-us/2025/08/27/no-mans-sky-voyagers-update-ship-building/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
