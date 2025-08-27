@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for August 27 &lpar;#1530&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-27-2025/)
  - [Vermintide 2 just got another annual event with its own level and rewards](https://www.pcgamer.com/games/action/vermintide-2-just-got-another-annual-event-with-its-own-level-and-rewards/)
- - [Haunted Chocolatier has fishing, books, and a new screenshot so pretty I want to live in it](https://www.pcgamer.com/games/life-sim/haunted-chocolatier-has-fishing-books-and-a-new-screenshot-so-pretty-i-want-to-live-in-it/)
- - [Ready Set Play promotion comes to PlayStation Store Aug 27](https://blog.playstation.com/2025/08/26/ready-set-play-promotion-comes-to-playstation-store-aug-27/)<!-- GAME:END -->
+ - [Haunted Chocolatier has fishing, books, and a new screenshot so pretty I want to live in it](https://www.pcgamer.com/games/life-sim/haunted-chocolatier-has-fishing-books-and-a-new-screenshot-so-pretty-i-want-to-live-in-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
