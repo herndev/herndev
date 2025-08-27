@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Upload&#39;s tricky ending explained by creator Greg Daniels](https://www.polygon.com/upload-series-finale-ending-greg-daniels-interview/)
- - [No Man’s Sky Voyagers update: Large, customizable, multi-crew starships arrive today](https://blog.playstation.com/2025/08/27/no-mans-sky-voyagers-update-large-customizable-multi-crew-starships-arrive-today/)
- - [No Man’s Sky Voyagers Update Ushers in a Whole New Dimension to Ship-Building](https://news.xbox.com/en-us/2025/08/27/no-mans-sky-voyagers-update-ship-building/)<!-- GAME:END -->
+ - [Xbox Insiders Can Stream and Play in New Ways with Xbox Game Pass Starting Today](https://news.xbox.com/en-us/2025/08/27/xbox-insiders-can-stream-and-play-in-new-ways-with-xbox-game-pass-starting-today/)
+ - [Sword of the Sea&#39;s New Game Plus mode is a speedrunner&#39;s paradise](https://www.polygon.com/sword-of-the-sea-new-game-plus/)
+ - [Riot leaked its next 2XKO fighter in the silliest way possible before throwing its hands up and saying &#39;oopsy daisy&#39; with an announcement post](https://www.pcgamer.com/games/fighting/riot-leaked-its-next-2xko-fighter-in-the-silliest-way-possible-before-throwing-its-hands-up-and-saying-oopsy-daisy-with-an-announcement-post/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
