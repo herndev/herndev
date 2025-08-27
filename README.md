@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - ⏩ [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
- - 👉 [Core memory unlocked](http://9gag.com/gag/a7oG7rL)<!-- MEMES:END -->
+ - 💣 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
+ - ⏩ [Sad music](http://9gag.com/gag/amod03X)
+ - 👉 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)<!-- MEMES:END -->
 
 ---
 
