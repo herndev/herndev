@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - ⏩ [Most Indian restaurants are owned by Muslims](http://9gag.com/gag/aoydZQA)
- - 👉 [Ga2aw00d for the people.](http://9gag.com/gag/aGyoVRZ)<!-- MEMES:END -->
+ - 💣 [Thirsty hours](http://9gag.com/gag/a1mxeZP)
+ - ⏩ [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
+ - 👉 [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)<!-- MEMES:END -->
 
 ---
 
