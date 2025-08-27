@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - ⏩ [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
- - 👉 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)<!-- MEMES:END -->
+ - 💣 [Thirsty hours](http://9gag.com/gag/a1mxeZP)
+ - ⏩ [Sad music](http://9gag.com/gag/amod03X)
+ - 👉 [?????????](http://9gag.com/gag/aZZdxjQ)<!-- MEMES:END -->
 
 ---
 
