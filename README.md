@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
- - ⏩ [Italians are smart!](http://9gag.com/gag/aAympep)
- - 👉 [Hopefully it won&#39;t get taken down again.](http://9gag.com/gag/aoydjnm)<!-- MEMES:END -->
+ - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
+ - ⏩ [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 👉 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)<!-- MEMES:END -->
 
 ---
 
