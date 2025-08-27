@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kirby and the Forgotten Land gets the sendoff it deserves in huge Switch 2 DLC](https://www.polygon.com/kirby-forgotten-land-star-crossed-world-review-switch-2/)
- - [SK Hynix&#39;s &#39;world first&#39; 321-layer QLC flash memory chips, boasting 100% faster transfer speeds and up to 56% greater write performance, will be in gaming PCs next year](https://www.pcgamer.com/hardware/ssds/sk-hynixs-world-first-321-layer-qlc-flash-memory-chips-boasting-100-percent-faster-transfer-speeds-and-up-to-56-percent-greater-write-performance-will-be-in-gaming-pcs-next-year/)
- - [Final Fantasy 14&#39;s Fan Fest dates have players crunching the numbers, and it&#39;s left them more nervous than excited](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-fan-fest-dates-have-players-crunching-the-numbers-and-its-left-them-more-nervous-than-excited/)<!-- GAME:END -->
+ - [No Man’s Sky Goes Full Star Trek Mode In Latest Massive Update](https://kotaku.com/no-mans-sky-voyagers-6-0-star-trek-mass-effect-2000620674)
+ - [The new Scott Pilgrim game reforms some ex-Evil Exes](https://www.polygon.com/scott-pilgrim-ex-characters-lucas-lee-roxie-richter/)
+ - [Sean Murray says the Earth-sized planet in Light No Fire will have &#39;real oceans&#39; that players will need &#39;large boats and crews&#39; to cross](https://www.pcgamer.com/games/survival-crafting/sean-murray-says-the-earth-sized-planet-in-light-no-fire-will-have-real-oceans-that-players-will-need-large-boats-and-crews-to-cross/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
