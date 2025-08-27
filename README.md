@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
- - ⏩ [FOR HER](http://9gag.com/gag/aqyd2K7)
- - 👉 [Just like they do at home, woman gaped in the middle of London in the middle of the day](http://9gag.com/gag/aXPdpOv)<!-- MEMES:END -->
+ - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
+ - ⏩ [Most Indian restaurants are owned by Muslims](http://9gag.com/gag/aoydZQA)
+ - 👉 [Ga2aw00d for the people.](http://9gag.com/gag/aGyoVRZ)<!-- MEMES:END -->
 
 ---
 
