@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home gets an obvious but welcome way to tell when you’re home](https://www.androidauthority.com/google-home-gets-an-obvious-but-welcome-way-to-tell-when-youre-home-3591702/)
- - [&quot;Deadbots&quot;, AI avatars of the deceased, are used for advocacy and emotional connection, but their potential commercial use raises ethical and legal concerns &lpar;Chloe Veltman/NPR&rpar;](http://www.techmeme.com/250827/p7#a250827p7)
- - [A profile of Egune AI, a startup building LLMs for the Mongolian language, as it navigates geopolitics, a lack of resources, and the nascent local tech scene &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/250827/p6#a250827p6)<!-- TECH:END -->
+ - [Inside India&#39;s growing ~$1.5B e-waste recycling industry, about 95% of workers are employed informally, doing dangerous, toxic, and lawless work for meager pay &lpar;Yashraj Sharma/Rest of World&rpar;](http://www.techmeme.com/250827/p8#a250827p8)
+ - [Review: Google Pixel 10 Series](https://www.wired.com/gallery/review-google-pixel-10-series/)
+ - [Google Home gets an obvious but welcome way to tell when you’re home](https://www.androidauthority.com/google-home-wi-fi-presence-3591702/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
