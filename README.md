@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple partners with TuneIn to make Apple Music&#39;s six radio stations available outside its app, a first, as it seeks to compete with Spotify; TuneIn has 75M MAUs &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p22#a250827p22)
- - [Poll: Have you ever traveled with your portable projector?](https://www.androidauthority.com/traveled-with-portable-projector-poll-3591650/)
- - [Elehear Beyond Pro Review: Big Hearing Aids](https://www.wired.com/review/elehear-beyond-pro/)<!-- TECH:END -->
+ - [SpaceX Starship Finally Pulls Off a Successful Test Flight](https://www.wired.com/story/spacex-starship-successful-test-flight/)
+ - [Plaud unveils the $179 Plaud Note Pro, an AI note-taking device with two extra mics to hear audio 16.4 feet away and a 1-inch display, shipping in October &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250827/p23#a250827p23)
+ - [Google’s Pixel Tablet is up to $170 off ahead of Labor Day weekend](https://www.theverge.com/tech/766417/google-pixel-tablet-apple-airpods-4-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
