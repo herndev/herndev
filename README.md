@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insiders Can Stream and Play in New Ways with Xbox Game Pass Starting Today](https://news.xbox.com/en-us/2025/08/27/xbox-insiders-can-stream-and-play-in-new-ways-with-xbox-game-pass-starting-today/)
- - [Sword of the Sea&#39;s New Game Plus mode is a speedrunner&#39;s paradise](https://www.polygon.com/sword-of-the-sea-new-game-plus/)
- - [Riot leaked its next 2XKO fighter in the silliest way possible before throwing its hands up and saying &#39;oopsy daisy&#39; with an announcement post](https://www.pcgamer.com/games/fighting/riot-leaked-its-next-2xko-fighter-in-the-silliest-way-possible-before-throwing-its-hands-up-and-saying-oopsy-daisy-with-an-announcement-post/)<!-- GAME:END -->
+ - [Taking You Back to School: Indie Selects for August 2025](https://news.xbox.com/en-us/2025/08/27/indie-selects-id-xbox-august-2025/)
+ - [September&#39;s free PlayStation Plus games revealed](https://www.polygon.com/playstation-plus-september-2025-free-games-ps4-ps5/)
+ - [Where to buy farm animals in Story of Seasons: Grand Bazaar](https://www.pcgamer.com/games/sim/story-of-seasons-grand-bazaar-animals/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
