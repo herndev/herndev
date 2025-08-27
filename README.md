@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Synology BeeStation Plus review: Simple NAS storage with caveats](https://appleinsider.com/articles/25/08/27/synology-beestation-plus-review-simple-nas-storage-with-caveats?utm_source=rss)
- - [Sources: HongShan, formerly Sequoia China, has invested only a quarter of the ~$9B it raised in 2022 and has been increasingly looking beyond China for deals &lpar;The Information&rpar;](http://www.techmeme.com/250826/p40#a250826p40)
- - [Can Invisible Lasers Help Bridge the Digital Divide? I Toured This Futuristic Cell Tower to Find Out](https://www.cnet.com/home/internet/can-invisible-lasers-help-bridge-the-digital-divide-i-toured-this-futuristic-cell-tower-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese AI chip designer Cambricon reports 44-fold revenue growth and a profit of ~$144M in H1 2025, after Beijing encouraged companies to use homegrown tech &lpar;Rachel Yeo/Bloomberg&rpar;](http://www.techmeme.com/250826/p41#a250826p41)
+ - [Microsoft hosts emergency press conference after protesters &amp;#8216;storm a building&amp;#8217;](https://www.theverge.com/microsoft/766429/microsoft-emergency-press-conference-palestine-protest)
+ - [Get your free gift card now! Pixel 10 devices will be released in a couple of days](https://www.androidauthority.com/google-pixel-10-pro-xl-deals-3591561/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
