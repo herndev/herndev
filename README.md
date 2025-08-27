@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Konami&#39;s Silent Hill 2 movie gets its first trailer, to mixed response](https://www.polygon.com/return-to-silent-hill-2-movie-trailer-release-date/)
- - [How well do you know the most-played games on Steam? Take our timed quiz and put your knowledge to the test](https://www.pcgamer.com/games/how-well-do-you-know-the-most-played-games-on-steam-take-our-timed-quiz-and-put-your-knowledge-to-the-test/)
- - [Overwatch 2 Broke The Cowboy](https://kotaku.com/overwatch-2-season-18-patch-cassidy-wrecking-ball-bug-2000620763)<!-- GAME:END -->
+ - [Oh Wow, Spider-Man Multiplayer Is Here And It Looks Amazing](https://kotaku.com/spider-man-ps4-pc-multiplayer-mod-great-web-insomniac-2000620767)
+ - [Blizzard promises to add &#39;speed, power, and fun&#39; back to WoW Legion Remix after disappointing players with a time-gated grind](https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-add-speed-power-and-fun-back-to-wow-legion-remix-after-disappointing-players-with-a-time-gated-grind/)
+ - [The New Office Show Keeps Finding New Ways To Make Me Not Want To Watch It](https://kotaku.com/the-paper-office-spin-off-clip-video-trailer-peacock-2000620768)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
