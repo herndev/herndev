@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Haunted Chocolatier has fishing, books, and a new screenshot so pretty I want to live in it](https://www.pcgamer.com/games/life-sim/haunted-chocolatier-has-fishing-books-and-a-new-screenshot-so-pretty-i-want-to-live-in-it/)
  - [Ready Set Play promotion comes to PlayStation Store Aug 27](https://blog.playstation.com/2025/08/26/ready-set-play-promotion-comes-to-playstation-store-aug-27/)
- - [The Rogue Prince of Persia review](https://www.pcgamer.com/games/roguelike/the-rogue-prince-of-persia-review/)
- - [Protestors occupy Microsoft president&#39;s office as opposition to the company&#39;s dealings with the Israeli military continue to escalate](https://www.pcgamer.com/games/protestors-occupy-microsoft-presidents-office-as-opposition-to-the-companys-dealings-with-the-israeli-military-continue-to-escalate/)<!-- GAME:END -->
+ - [Ready Set Play promotion comes to PlayStation Store Aug 27](https://blog.playstation.com/2025/08/26/ready-set-play-promotion-comes-to-playstation-store-aug-27/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
