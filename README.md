@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does the Path of Exile 2 &#39;The Third Edict&#39; update release?](https://www.polygon.com/path-of-exile-2-poe2-third-edict-update-release-time/)
- - [How to win the Flower Festival in Story of Seasons: Grand Bazaar](https://www.polygon.com/story-of-seasons-grand-bazaar-flower-festival-requirements-win/)
- - [12 Story of Seasons: Grand Bazaar tips to help you get started](https://www.polygon.com/story-of-seasons-grand-bazaar-beginners-tips-tricks-tools/)<!-- GAME:END -->
+ - [Why you need to watch Barbarian on Netflix before it vanishes next week](https://www.polygon.com/zach-cregger-weapons-horror-movie-leaving-netflix-barbarian/)
+ - [WoW devs want to &#39;step back&#39; from the &#39;world-ending&#39; stakes where you get called a pitiful mortal lots, and back to quests like &#39;oats for Blanchy&#39;—presumably without sending the horse to hell afterwards](https://www.pcgamer.com/games/world-of-warcraft/wow-devs-want-to-step-back-from-the-world-ending-stakes-where-you-get-called-a-pitiful-mortal-lots-and-back-to-quests-like-oats-for-blanchy-presumably-without-sending-the-horse-to-hell-afterwards/)
+ - [Metal Gear Solid Delta devs would love Kojima to see how &#39;respectful&#39; their remake is, but the big man himself has already said he&#39;s not touching it](https://www.pcgamer.com/games/action/metal-gear-solid-delta-devs-would-love-kojima-to-see-how-respectful-their-remake-is-but-the-big-man-himself-has-already-said-hes-not-touching-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
