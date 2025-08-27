@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why you need to watch Barbarian on Netflix before it vanishes next week](https://www.polygon.com/zach-cregger-weapons-horror-movie-leaving-netflix-barbarian/)
- - [WoW devs want to &#39;step back&#39; from the &#39;world-ending&#39; stakes where you get called a pitiful mortal lots, and back to quests like &#39;oats for Blanchy&#39;—presumably without sending the horse to hell afterwards](https://www.pcgamer.com/games/world-of-warcraft/wow-devs-want-to-step-back-from-the-world-ending-stakes-where-you-get-called-a-pitiful-mortal-lots-and-back-to-quests-like-oats-for-blanchy-presumably-without-sending-the-horse-to-hell-afterwards/)
- - [Metal Gear Solid Delta devs would love Kojima to see how &#39;respectful&#39; their remake is, but the big man himself has already said he&#39;s not touching it](https://www.pcgamer.com/games/action/metal-gear-solid-delta-devs-would-love-kojima-to-see-how-respectful-their-remake-is-but-the-big-man-himself-has-already-said-hes-not-touching-it/)<!-- GAME:END -->
+ - [Kirby and the Forgotten Land gets the sendoff it deserves in huge Switch 2 DLC](https://www.polygon.com/kirby-forgotten-land-star-crossed-world-review-switch-2/)
+ - [SK Hynix&#39;s &#39;world first&#39; 321-layer QLC flash memory chips, boasting 100% faster transfer speeds and up to 56% greater write performance, will be in gaming PCs next year](https://www.pcgamer.com/hardware/ssds/sk-hynixs-world-first-321-layer-qlc-flash-memory-chips-boasting-100-percent-faster-transfer-speeds-and-up-to-56-percent-greater-write-performance-will-be-in-gaming-pcs-next-year/)
+ - [Final Fantasy 14&#39;s Fan Fest dates have players crunching the numbers, and it&#39;s left them more nervous than excited](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-fan-fest-dates-have-players-crunching-the-numbers-and-its-left-them-more-nervous-than-excited/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
