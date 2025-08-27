@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 10 Pro review: AI, Qi2, and a spec bump too](https://www.theverge.com/reviews/766613/google-pixel-10-pro-review-ai-magic-cue-camera-pro-res-zoom)
- - [Deals: Amazon&#39;s $449 M3 iPad Air sale is back, plus save 20% at eBay](https://appleinsider.com/articles/25/08/27/deals-amazons-449-m3-ipad-air-sale-is-back-plus-save-20-at-ebay?utm_source=rss)
- - [Disney sues Sling TV over its one-day cable passes](https://www.theverge.com/news/766933/disney-sling-tv-streaming-cable-passes-lawsuit)<!-- TECH:END -->
+ - [Google has been testing this app-launching trick since last year — now it’s live](https://www.androidauthority.com/google-play-store-auto-open-live-3592016/)
+ - [Pre-ordered the Pixel 9 Pro last year? Don’t get hit with a surprise $20 charge](https://www.androidauthority.com/google-pixel-9-pro-free-trial-ending-3592030/)
+ - [Google Pixel 10 review: justifies its price better than the Pixel 9 with upgrades like a triple camera system and Qi2 support, but it&#39;s not a gaming powerhouse &lpar;Derrek Lee/Android Central&rpar;](http://www.techmeme.com/250827/p30#a250827p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
