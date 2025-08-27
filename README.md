@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
- - ⏩ [Thirsty hours](http://9gag.com/gag/a1mxeZP)
- - 👉 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)<!-- MEMES:END -->
+ - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - ⏩ [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
+ - 👉 [Core memory unlocked](http://9gag.com/gag/a7oG7rL)<!-- MEMES:END -->
 
 ---
 
