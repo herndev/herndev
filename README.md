@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty punches back after weeks of Battlefield 6 domination](https://www.polygon.com/call-of-duty-battlefield-fortnite-skins-black-ops-7/)
- - [Here&#39;s every game that Silksong&#39;s surprise release has delayed as indies scramble to escape its powerful aura](https://www.pcgamer.com/games/heres-every-game-that-silksongs-surprise-release-has-delayed-as-indies-scramble-to-escape-its-powerful-aura/)
- - [BioShock Creator Still Not Sure When His Next Game Is Coming Out](https://kotaku.com/bioshock-creator-still-not-sure-when-his-next-game-is-coming-out-2000620743)<!-- GAME:END -->
+ - [Konami&#39;s Silent Hill 2 movie gets its first trailer, to mixed response](https://www.polygon.com/return-to-silent-hill-2-movie-trailer-release-date/)
+ - [How well do you know the most-played games on Steam? Take our timed quiz and put your knowledge to the test](https://www.pcgamer.com/games/how-well-do-you-know-the-most-played-games-on-steam-take-our-timed-quiz-and-put-your-knowledge-to-the-test/)
+ - [Overwatch 2 Broke The Cowboy](https://kotaku.com/overwatch-2-season-18-patch-cassidy-wrecking-ball-bug-2000620763)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
