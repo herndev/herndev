@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thirsty hours](http://9gag.com/gag/a1mxeZP)
- - ⏩ [Sad music](http://9gag.com/gag/amod03X)
- - 👉 [?????????](http://9gag.com/gag/aZZdxjQ)<!-- MEMES:END -->
+ - 💣 [Now that&#39;s impressive](http://9gag.com/gag/a6Zxyqe)
+ - ⏩ [Just like they do at home, woman gaped in the middle of London in the middle of the day](http://9gag.com/gag/aXPdpOv)
+ - 👉 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)<!-- MEMES:END -->
 
 ---
 
