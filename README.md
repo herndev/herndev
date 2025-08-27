@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 apps you should use instead of Google Tasks](https://www.androidauthority.com/google-tasks-alternatives-3591326/)
- - [You don’t need a Pixel 10 to get Google’s new call screening smarts](https://www.androidauthority.com/google-phone-take-a-message-call-notes-next-steps-older-pixels-3591721/)
- - [Tussell: UK government contracts for AI-related projects have reached £573M in 2025 to July 15, up from £468M for the whole of 2024, as it seeks efficiency &lpar;Josh Gabert-Doyon/Financial Times&rpar;](http://www.techmeme.com/250827/p11#a250827p11)<!-- TECH:END -->
+ - [&amp;#8216;Vibe-hacking&amp;#8217; is now a top AI threat](https://www.theverge.com/ai-artificial-intelligence/766435/anthropic-claude-threat-intelligence-report-ai-cybersecurity-hacking)
+ - [Sources: two AI researchers hired by Meta for its Superintelligence Labs returned to OpenAI after less than one-month stints; a third researcher also left Meta &lpar;Wired&rpar;](http://www.techmeme.com/250827/p15#a250827p15)
+ - [This Philips Hue Bridge Pro price leak won’t light up your face](https://www.androidauthority.com/philips-hue-bridge-pro-price-leak-3591741/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
