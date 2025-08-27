@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance plans an employee share buyback at $200.41/share, valuing it at $330B+, up from $315B in March 2025, and its Q2 revenue grew 25% YoY to $48B &lpar;Reuters&rpar;](http://www.techmeme.com/250827/p26#a250827p26)
- - [EVs are getting a temporary Trump bump thanks to expiring incentives](https://www.theverge.com/electric-cars/766609/ev-sales-increase-trump-tax-credit-expire)
- - [TuneIn is now streaming Apple Music radio stations to 75 million listeners worldwide](https://appleinsider.com/articles/25/08/27/tunein-is-now-streaming-apple-music-radio-stations-to-75-million-listeners-worldwide?utm_source=rss)<!-- TECH:END -->
+ - [Kwikset’s new locks point to a smarter, more open future for your front door](https://www.theverge.com/smart-home/766403/kwisket-halo-select-plus-nfc-home-key-matter)
+ - [This Galaxy Tab S11 Ultra leak teases how much faster it is over last year’s model](https://www.androidauthority.com/galaxy-tab-s11-ultra-promo-renders-revealed-3591836/)
+ - [&#39;Hitman World of Assassination&#39; sneaks onto iPhone and iPad](https://appleinsider.com/articles/25/08/27/hitman-world-of-assassination-sneaks-onto-iphone-and-ipad?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
