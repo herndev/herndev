@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&amp;#8217;s Copilot AI is now inside Samsung TVs and monitors](https://www.theverge.com/news/767078/microsoft-samsung-tv-copilot-ai-assistant-launch)
- - [Trump administration suspends FEMA employees who warned about disaster response](https://www.theverge.com/news/766890/trump-fema-employees-suspended-letter)
- - [Metal Gear Solid Delta awkwardly mixes modern visuals with old-school frustrations](https://www.theverge.com/games-review/766751/metal-gear-solid-delta-snake-eater-review)<!-- TECH:END -->
+ - [Google has a new program to protect that Pixel you just ordered](https://www.androidauthority.com/google-pixel-care-plus-launch-3592063/)
+ - [4chan and Kiwi Farms sue the UK&#39;s Ofcom in a US court over the Online Safety Act, saying they aren&#39;t subject to UK law, after Ofcom tried to fine and block them &lpar;404 Media&rpar;](http://www.techmeme.com/250827/p33#a250827p33)
+ - [The 75 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
