@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Protestors occupy Microsoft president&#39;s office as opposition to the company&#39;s dealings with the Israeli military continue to escalate](https://www.pcgamer.com/games/protestors-occupy-microsoft-presidents-office-as-opposition-to-the-companys-dealings-with-the-israeli-military-continue-to-escalate/)
- - [Chris Roberts hopes Star Citizen&#39;s launch will be &#39;almost as big an event&#39; as Grand Theft Auto 6, still targeting 2026 for its Squadron 42 singleplayer campaign](https://www.pcgamer.com/games/sim/chris-roberts-hopes-star-citizens-launch-will-be-almost-as-big-an-event-as-grand-theft-auto-6-still-targeting-2026-for-its-squadron-42-singleplayer-campaign/)
- - [Final Fantasy 14 Is Running Out Of Room On PS4](https://kotaku.com/final-fantasy-14-ps4-fanfest-2026-8-0-expansion-2000620418)<!-- GAME:END -->
+ - [Ready Set Play promotion comes to PlayStation Store Aug 27](https://blog.playstation.com/2025/08/26/ready-set-play-promotion-comes-to-playstation-store-aug-27/)
+ - [The Rogue Prince of Persia review](https://www.pcgamer.com/games/roguelike/the-rogue-prince-of-persia-review/)
+ - [Protestors occupy Microsoft president&#39;s office as opposition to the company&#39;s dealings with the Israeli military continue to escalate](https://www.pcgamer.com/games/protestors-occupy-microsoft-presidents-office-as-opposition-to-the-companys-dealings-with-the-israeli-military-continue-to-escalate/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
