@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Taking You Back to School: Indie Selects for August 2025](https://news.xbox.com/en-us/2025/08/27/indie-selects-id-xbox-august-2025/)
- - [September&#39;s free PlayStation Plus games revealed](https://www.polygon.com/playstation-plus-september-2025-free-games-ps4-ps5/)
- - [Where to buy farm animals in Story of Seasons: Grand Bazaar](https://www.pcgamer.com/games/sim/story-of-seasons-grand-bazaar-animals/)<!-- GAME:END -->
+ - [Pokémon Sleep might&#39;ve found its secret weapon, and it&#39;s deadly](https://www.polygon.com/pokemon-sleep-mightve-found-its-secret-weapon-to-get-us-all-playing/)
+ - [Xbox Game Pass Is About To Get Better For A Bunch Of People](https://kotaku.com/game-pass-cloud-benefits-pc-handheld-streaming-2000620715)
+ - [Metal Gear Solid Delta: Snake Eater weapon locations](https://www.pcgamer.com/games/action/metal-gear-solid-delta-snake-eater-weapon-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
