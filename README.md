@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good news.](http://9gag.com/gag/apRdv95)
- - ⏩ [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 👉 [Do you need more signals? Wake up,eat bacon be strong](http://9gag.com/gag/adBdjgB)<!-- MEMES:END -->
+ - 💣 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
+ - ⏩ [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
+ - 👉 [Sad music](http://9gag.com/gag/amod03X)<!-- MEMES:END -->
 
 ---
 
