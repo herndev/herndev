@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Android 16 statue takes a spin on a Material 3 Expressive merry-go-round](https://www.androidauthority.com/android-16-the-bot-statue-3592146/)
- - [4Chan and Kiwi Farms file joint lawsuit against the UK](https://www.theverge.com/social/767063/4chan-kiwi-farms-lawsuit-uk-ofcom)
- - [Snowflake reports Q2 product revenue up 32% YoY to $1.09B, above $1.04B est., and forecasts FY 2026 product revenue above estimates; SNOW jumps 11%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250827/p38#a250827p38)<!-- TECH:END -->
+ - [Samsung is Unpacking again in early September](https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september)
+ - [Your favorite e-ink sketchbook might be getting smaller](https://www.androidauthority.com/remarkable-teaser-announces-new-device-incoming-3592108/)
+ - [Google’s Expressive Clock redesign is already ticking people off](https://www.androidauthority.com/google-expressive-clock-redesign-flaws-3592176/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
