@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - ⏩ [The state of the UK police](http://9gag.com/gag/aW4dWPn)
- - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
+ - 💣 [Good news.](http://9gag.com/gag/apRdv95)
+ - ⏩ [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 👉 [Do you need more signals? Wake up,eat bacon be strong](http://9gag.com/gag/adBdjgB)<!-- MEMES:END -->
 
 ---
 
