@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX Starship Finally Pulls Off a Successful Test Flight](https://www.wired.com/story/spacex-starship-successful-test-flight/)
- - [Plaud unveils the $179 Plaud Note Pro, an AI note-taking device with two extra mics to hear audio 16.4 feet away and a 1-inch display, shipping in October &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250827/p23#a250827p23)
- - [Google’s Pixel Tablet is up to $170 off ahead of Labor Day weekend](https://www.theverge.com/tech/766417/google-pixel-tablet-apple-airpods-4-deal-sale)<!-- TECH:END -->
+ - [Sources: ByteDance plans an employee share buyback at $200.41/share, valuing it at $330B+, up from $315B in March 2025, and its Q2 revenue grew 25% YoY to $48B &lpar;Reuters&rpar;](http://www.techmeme.com/250827/p26#a250827p26)
+ - [EVs are getting a temporary Trump bump thanks to expiring incentives](https://www.theverge.com/electric-cars/766609/ev-sales-increase-trump-tax-credit-expire)
+ - [TuneIn is now streaming Apple Music radio stations to 75 million listeners worldwide](https://appleinsider.com/articles/25/08/27/tunein-is-now-streaming-apple-music-radio-stations-to-75-million-listeners-worldwide?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
