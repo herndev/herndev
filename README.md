@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Sleep might&#39;ve found its secret weapon, and it&#39;s deadly](https://www.polygon.com/pokemon-sleep-mightve-found-its-secret-weapon-to-get-us-all-playing/)
- - [Xbox Game Pass Is About To Get Better For A Bunch Of People](https://kotaku.com/game-pass-cloud-benefits-pc-handheld-streaming-2000620715)
- - [Metal Gear Solid Delta: Snake Eater weapon locations](https://www.pcgamer.com/games/action/metal-gear-solid-delta-snake-eater-weapon-locations/)<!-- GAME:END -->
+ - [The gaming industry deserved more lead time before Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-gaming-industry-lead-time-announcement/)
+ - [Judas — Ken Levine details how player actions determine who becomes the villain](https://blog.playstation.com/2025/08/27/judas-ken-levine-details-how-player-actions-determine-who-becomes-the-villain/)
+ - [Hands-on with World of Warcraft: Midnight&#39;s housing](https://www.polygon.com/world-of-warcraft-midnight-housing-preview-gamescom/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
