@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
- - ⏩ [Sad music](http://9gag.com/gag/amod03X)
- - 👉 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)<!-- MEMES:END -->
+ - 💣 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
+ - ⏩ [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 👉 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)<!-- MEMES:END -->
 
 ---
 
