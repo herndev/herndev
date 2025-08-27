@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside India&#39;s growing ~$1.5B e-waste recycling industry, about 95% of workers are employed informally, doing dangerous, toxic, and lawless work for meager pay &lpar;Yashraj Sharma/Rest of World&rpar;](http://www.techmeme.com/250827/p8#a250827p8)
- - [Review: Google Pixel 10 Series](https://www.wired.com/gallery/review-google-pixel-10-series/)
- - [Google Home gets an obvious but welcome way to tell when you’re home](https://www.androidauthority.com/google-home-wi-fi-presence-3591702/)<!-- TECH:END -->
+ - [4 apps you should use instead of Google Tasks](https://www.androidauthority.com/google-tasks-alternatives-3591326/)
+ - [You don’t need a Pixel 10 to get Google’s new call screening smarts](https://www.androidauthority.com/google-phone-take-a-message-call-notes-next-steps-older-pixels-3591721/)
+ - [Tussell: UK government contracts for AI-related projects have reached £573M in 2025 to July 15, up from £468M for the whole of 2024, as it seeks efficiency &lpar;Josh Gabert-Doyon/Financial Times&rpar;](http://www.techmeme.com/250827/p11#a250827p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
