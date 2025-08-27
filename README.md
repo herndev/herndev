@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The gaming industry deserved more lead time before Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-gaming-industry-lead-time-announcement/)
- - [Judas — Ken Levine details how player actions determine who becomes the villain](https://blog.playstation.com/2025/08/27/judas-ken-levine-details-how-player-actions-determine-who-becomes-the-villain/)
- - [Hands-on with World of Warcraft: Midnight&#39;s housing](https://www.polygon.com/world-of-warcraft-midnight-housing-preview-gamescom/)<!-- GAME:END -->
+ - [Call of Duty punches back after weeks of Battlefield 6 domination](https://www.polygon.com/call-of-duty-battlefield-fortnite-skins-black-ops-7/)
+ - [Here&#39;s every game that Silksong&#39;s surprise release has delayed as indies scramble to escape its powerful aura](https://www.pcgamer.com/games/heres-every-game-that-silksongs-surprise-release-has-delayed-as-indies-scramble-to-escape-its-powerful-aura/)
+ - [BioShock Creator Still Not Sure When His Next Game Is Coming Out](https://kotaku.com/bioshock-creator-still-not-sure-when-his-next-game-is-coming-out-2000620743)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
