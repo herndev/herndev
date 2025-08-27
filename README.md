@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now that&#39;s impressive](http://9gag.com/gag/a6Zxyqe)
- - ⏩ [Just like they do at home, woman gaped in the middle of London in the middle of the day](http://9gag.com/gag/aXPdpOv)
- - 👉 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)<!-- MEMES:END -->
+ - 💣 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
+ - ⏩ [FOR HER](http://9gag.com/gag/aqyd2K7)
+ - 👉 [Just like they do at home, woman gaped in the middle of London in the middle of the day](http://9gag.com/gag/aXPdpOv)<!-- MEMES:END -->
 
 ---
 
