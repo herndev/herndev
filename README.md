@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has been testing this app-launching trick since last year — now it’s live](https://www.androidauthority.com/google-play-store-auto-open-live-3592016/)
- - [Pre-ordered the Pixel 9 Pro last year? Don’t get hit with a surprise $20 charge](https://www.androidauthority.com/google-pixel-9-pro-free-trial-ending-3592030/)
- - [Google Pixel 10 review: justifies its price better than the Pixel 9 with upgrades like a triple camera system and Qi2 support, but it&#39;s not a gaming powerhouse &lpar;Derrek Lee/Android Central&rpar;](http://www.techmeme.com/250827/p30#a250827p30)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s Copilot AI is now inside Samsung TVs and monitors](https://www.theverge.com/news/767078/microsoft-samsung-tv-copilot-ai-assistant-launch)
+ - [Trump administration suspends FEMA employees who warned about disaster response](https://www.theverge.com/news/766890/trump-fema-employees-suspended-letter)
+ - [Metal Gear Solid Delta awkwardly mixes modern visuals with old-school frustrations](https://www.theverge.com/games-review/766751/metal-gear-solid-delta-snake-eater-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
