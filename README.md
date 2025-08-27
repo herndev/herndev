@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The theater](http://9gag.com/gag/aByv3MZ)
- - ⏩ [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - 👉 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
+ - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - ⏩ [A short and witty](http://9gag.com/gag/aMVWGgM)
+ - 👉 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)<!-- MEMES:END -->
 
 ---
 
