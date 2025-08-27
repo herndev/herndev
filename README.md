@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oh Wow, Spider-Man Multiplayer Is Here And It Looks Amazing](https://kotaku.com/spider-man-ps4-pc-multiplayer-mod-great-web-insomniac-2000620767)
- - [Blizzard promises to add &#39;speed, power, and fun&#39; back to WoW Legion Remix after disappointing players with a time-gated grind](https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-add-speed-power-and-fun-back-to-wow-legion-remix-after-disappointing-players-with-a-time-gated-grind/)
- - [The New Office Show Keeps Finding New Ways To Make Me Not Want To Watch It](https://kotaku.com/the-paper-office-spin-off-clip-video-trailer-peacock-2000620768)<!-- GAME:END -->
+ - [Judas must be getting closer, because Ken Levine just rolled out its first-ever dev log and some new art](https://www.pcgamer.com/games/fps/judas-must-be-getting-closer-because-ken-levine-just-rolled-out-its-first-ever-dev-log-and-some-new-art/)
+ - [OpenAI sued by parents of teen who died by suicide after ChatGPT allegedly encouraged him and provided instructions](https://www.pcgamer.com/software/ai/openai-sued-by-parents-of-teen-who-died-by-suicide-after-chatgpt-allegedly-encouraged-him-and-provided-instructions/)
+ - [Oh Wow, Spider-Man Multiplayer Is Here And It Looks Amazing](https://kotaku.com/spider-man-ps4-pc-multiplayer-mod-great-web-insomniac-2000620767)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
