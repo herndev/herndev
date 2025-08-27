@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese AI chip designer Cambricon reports 44-fold revenue growth and a profit of ~$144M in H1 2025, after Beijing encouraged companies to use homegrown tech &lpar;Rachel Yeo/Bloomberg&rpar;](http://www.techmeme.com/250826/p41#a250826p41)
- - [Microsoft hosts emergency press conference after protesters &amp;#8216;storm a building&amp;#8217;](https://www.theverge.com/microsoft/766429/microsoft-emergency-press-conference-palestine-protest)
- - [Get your free gift card now! Pixel 10 devices will be released in a couple of days](https://www.androidauthority.com/google-pixel-10-pro-xl-deals-3591561/)<!-- TECH:END -->
+ - [Memo: Verily, Alphabet&#39;s life sciences unit, lays off staff and ends its medical devices program, shifting its focus instead to precision health, data, and AI &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/250826/p42#a250826p42)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 27, #338](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-27-338/#ftag=CAD590a51e)
+ - [Chinese AI chip designer Cambricon reports 44-fold revenue growth and a profit of ~$144M in H1 2025, after Beijing encouraged companies to use homegrown tech &lpar;Rachel Yeo/Bloomberg&rpar;](http://www.techmeme.com/250826/p41#a250826p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
