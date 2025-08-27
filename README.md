@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thirsty hours](http://9gag.com/gag/a1mxeZP)
- - ⏩ [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
- - 👉 [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)<!-- MEMES:END -->
+ - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - ⏩ [Thirsty hours](http://9gag.com/gag/a1mxeZP)
+ - 👉 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)<!-- MEMES:END -->
 
 ---
 
