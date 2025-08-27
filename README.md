@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
+ - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
  - ⏩ [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
- - 👉 [Sad music](http://9gag.com/gag/amod03X)<!-- MEMES:END -->
+ - 👉 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
 
 ---
 
