@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 20 could be next to get Tandem OLED treatment](https://appleinsider.com/articles/25/08/27/iphone-20-could-be-next-to-get-tandem-oled-treatment?utm_source=rss)
- - [Nothing caught red-handed faking Phone 3 camera samples, can’t even try to deny &lpar;Updated: Explanation&rpar;](https://www.androidauthority.com/nothing-phone-3-fake-camera-3591569/)
- - [Was it just a mistake? Nothing speaks out on the Phone 3’s stock photo controversy](https://www.androidauthority.com/nothing-phone-3-stock-photos-controversy-3591774/)<!-- TECH:END -->
+ - [Apple partners with TuneIn to make Apple Music&#39;s six radio stations available outside its app, a first, as it seeks to compete with Spotify; TuneIn has 75M MAUs &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p22#a250827p22)
+ - [Poll: Have you ever traveled with your portable projector?](https://www.androidauthority.com/traveled-with-portable-projector-poll-3591650/)
+ - [Elehear Beyond Pro Review: Big Hearing Aids](https://www.wired.com/review/elehear-beyond-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
