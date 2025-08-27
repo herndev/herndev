@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - ⏩ [THE MADMAN!](http://9gag.com/gag/aByvr6D)
- - 👉 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
+ - 💣 [?????????](http://9gag.com/gag/aZZdxjQ)
+ - ⏩ [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
+ - 👉 [Just wait](http://9gag.com/gag/aByvYbz)<!-- MEMES:END -->
 
 ---
 
