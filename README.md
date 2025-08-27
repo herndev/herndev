@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kwikset’s new locks point to a smarter, more open future for your front door](https://www.theverge.com/smart-home/766403/kwisket-halo-select-plus-nfc-home-key-matter)
- - [This Galaxy Tab S11 Ultra leak teases how much faster it is over last year’s model](https://www.androidauthority.com/galaxy-tab-s11-ultra-promo-renders-revealed-3591836/)
- - [&#39;Hitman World of Assassination&#39; sneaks onto iPhone and iPad](https://appleinsider.com/articles/25/08/27/hitman-world-of-assassination-sneaks-onto-iphone-and-ipad?utm_source=rss)<!-- TECH:END -->
+ - [Google Pixel 10 Pro review: AI, Qi2, and a spec bump too](https://www.theverge.com/reviews/766613/google-pixel-10-pro-review-ai-magic-cue-camera-pro-res-zoom)
+ - [Deals: Amazon&#39;s $449 M3 iPad Air sale is back, plus save 20% at eBay](https://appleinsider.com/articles/25/08/27/deals-amazons-449-m3-ipad-air-sale-is-back-plus-save-20-at-ebay?utm_source=rss)
+ - [Disney sues Sling TV over its one-day cable passes](https://www.theverge.com/news/766933/disney-sling-tv-streaming-cable-passes-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
