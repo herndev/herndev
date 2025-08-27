@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesloft says hackers stole OAuth tokens from its Drift chat agent integration to conduct a Salesforce data theft campaign between August 8 and August 18 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250827/p4#a250827p4)
- - [Sources: OpenAI&#39;s restructuring may slip into 2026 as it negotiates with Microsoft; failure to reach a deal in 2025 would let SoftBank withhold $10B commitment &lpar;Financial Times&rpar;](http://www.techmeme.com/250827/p3#a250827p3)
- - [Malaysian chip designer SkyeChip unveils the MARS1000, the country&#39;s first edge AI processor, as Malaysia seeks to climb the global semiconductor value chain &lpar;Bloomberg&rpar;](http://www.techmeme.com/250827/p2#a250827p2)<!-- TECH:END -->
+ - [Google Home gets an obvious but welcome way to tell when you’re home](https://www.androidauthority.com/google-home-gets-an-obvious-but-welcome-way-to-tell-when-youre-home-3591702/)
+ - [&quot;Deadbots&quot;, AI avatars of the deceased, are used for advocacy and emotional connection, but their potential commercial use raises ethical and legal concerns &lpar;Chloe Veltman/NPR&rpar;](http://www.techmeme.com/250827/p7#a250827p7)
+ - [A profile of Egune AI, a startup building LLMs for the Mongolian language, as it navigates geopolitics, a lack of resources, and the nascent local tech scene &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/250827/p6#a250827p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
