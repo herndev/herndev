@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Judas must be getting closer, because Ken Levine just rolled out its first-ever dev log and some new art](https://www.pcgamer.com/games/fps/judas-must-be-getting-closer-because-ken-levine-just-rolled-out-its-first-ever-dev-log-and-some-new-art/)
- - [OpenAI sued by parents of teen who died by suicide after ChatGPT allegedly encouraged him and provided instructions](https://www.pcgamer.com/software/ai/openai-sued-by-parents-of-teen-who-died-by-suicide-after-chatgpt-allegedly-encouraged-him-and-provided-instructions/)
- - [Oh Wow, Spider-Man Multiplayer Is Here And It Looks Amazing](https://kotaku.com/spider-man-ps4-pc-multiplayer-mod-great-web-insomniac-2000620767)<!-- GAME:END -->
+ - [Clair Obscur: Expedition 33 director adds another DLC teaser to the pile: &#39;We may be cooking&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-director-adds-another-dlc-teaser-to-the-pile-we-may-be-cooking/)
+ - [Herdling review](https://www.pcgamer.com/games/adventure/herdling-review/)
+ - [Alien: Earth&#39;s eyeball monster may be the series&#39; biggest threat](https://www.polygon.com/alien-earth-eyeball-species-64-theories/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
