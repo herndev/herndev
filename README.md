@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Indian IT services giant TCS forms a new unit for AI-based operations and names Amit Kapur, who led TCS&#39; UK and Ireland business, as its chief &lpar;Sai Ishwarbharath B/Reuters&rpar;](http://www.techmeme.com/250826/p39#a250826p39)
- - [Apple Invites gets countdown widget in latest update](https://appleinsider.com/articles/25/08/26/apple-invites-gets-countdown-widget-in-latest-update?utm_source=rss)
- - [Microsoft locks down a building at its headquarters after protesters got inside Brad Smith&#39;s office, demanding that it cut ties with the Israeli government &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250826/p38#a250826p38)<!-- TECH:END -->
+ - [Synology BeeStation Plus review: Simple NAS storage with caveats](https://appleinsider.com/articles/25/08/27/synology-beestation-plus-review-simple-nas-storage-with-caveats?utm_source=rss)
+ - [Sources: HongShan, formerly Sequoia China, has invested only a quarter of the ~$9B it raised in 2022 and has been increasingly looking beyond China for deals &lpar;The Information&rpar;](http://www.techmeme.com/250826/p40#a250826p40)
+ - [Can Invisible Lasers Help Bridge the Digital Divide? I Toured This Futuristic Cell Tower to Find Out](https://www.cnet.com/home/internet/can-invisible-lasers-help-bridge-the-digital-divide-i-toured-this-futuristic-cell-tower-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
