@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FOR HER](http://9gag.com/gag/aqyd2K7)
- - ⏩ [Sad music](http://9gag.com/gag/amod03X)
- - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
+ - 💣 [The theater](http://9gag.com/gag/aByv3MZ)
+ - ⏩ [Shredded me livers ...](http://9gag.com/gag/apRd07M)
+ - 👉 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
 
 ---
 
