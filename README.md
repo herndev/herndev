@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xcode 26 beta 7 adds GPT-5 &amp; Claude account support](https://appleinsider.com/articles/25/08/28/xcode-26-beta-7-adds-gpt-5-claude-account-support?utm_source=rss)
- - [Intel CFO David Zinser says the company received $5.7B from the US government on Wednesday evening; the White House says the deal is still &quot;being ironed out&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250828/p32#a250828p32)
- - [Google’s Pixel Care Plus includes free screen and battery repair](https://www.theverge.com/news/767711/google-pixel-care-plus-free-screen-and-battery-repair)<!-- TECH:END -->
+ - [The UGREEN Uno charger is the cutest, and at a record-low price!](https://www.androidauthority.com/ugreen-uno-charger-deal-3592534/)
+ - [Best Labor Day Deals: AirPods $89, M4 MacBook Air $799, Disney Plus bundle $29](https://appleinsider.com/articles/25/08/28/best-labor-day-deals-airpods-89-m4-macbook-air-799-disney-plus-bundle-29?utm_source=rss)
+ - [In a letter, FTC chair Andrew Ferguson warns Google not to filter or suppress emails sent by Republicans over Gmail; Google says its spam filters are not biased &lpar;Hans Nichols/Axios&rpar;](http://www.techmeme.com/250828/p34#a250828p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
