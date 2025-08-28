@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget Prime Day, Amazon Crashes the Price of the 2025 iPad Air to a New All-Time Low](https://kotaku.com/forget-prime-day-amazon-crashes-the-price-of-the-2025-ipad-air-to-a-new-all-time-low-2000620915)
- - [Kevin Spacey got &#39;a little weird&#39; on the set of Call of Duty: Advanced Warfare: &#39;We all had to fake laugh&#39;](https://www.pcgamer.com/games/call-of-duty/kevin-spacey-got-a-little-weird-on-the-set-of-call-of-duty-advanced-warfare-we-all-had-to-fake-laugh/)
- - [Amazon Sells at a Loss, LEGO Star Wars Ahsoka T-6 Jedi Shuttle Reaches a New All-Time Low](https://kotaku.com/amazon-sells-at-a-loss-lego-star-wars-ahsoka-t-6-jedi-shuttle-reaches-a-new-all-time-low-2000620762)<!-- GAME:END -->
+ - [In the wake of shutting down a highly popular mod, Final Fantasy 14 director Yoshi-P shares deeply earnest blog about &#39;mods, their use, and the culture surrounding them&#39;](https://www.pcgamer.com/games/final-fantasy/in-the-wake-of-shutting-down-a-highly-popular-mod-final-fantasy-14-director-yoshi-p-shares-deeply-earnest-blog-about-mods-their-use-and-the-culture-surrounding-them/)
+ - [Windstorm: The Legend of Khiimori hands-on preview shows realistic horses and tranquil gameplay](https://www.polygon.com/windstorm-the-legend-of-khiimori-gamescom-preview/)
+ - [This HP Laptop with Office 365 Is Cheaper Than Buying Office Alone, Amazon Clears Out Stock for Labor Day](https://kotaku.com/this-hp-laptop-with-office-365-is-cheaper-than-buying-office-alone-amazon-clears-out-stock-for-labor-day-2000620926)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
