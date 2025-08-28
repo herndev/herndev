@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wanna see something cool?](http://9gag.com/gag/aAymwO2)
- - ⏩ [Read that again](http://9gag.com/gag/axyAgAb)
- - 👉 [I can&#39;t handle this..](http://9gag.com/gag/ajPdqXw)<!-- MEMES:END -->
+ - 💣 [Hehehe](http://9gag.com/gag/aNDqn2A)
+ - ⏩ [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
+ - 👉 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)<!-- MEMES:END -->
 
 ---
 
