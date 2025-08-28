@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget trying to cram in Hollow Knight before Silksong launches—it&#39;s too good to rush](https://www.pcgamer.com/games/action/forget-trying-to-cram-in-hollow-knight-before-silksong-launches-its-too-good-to-rush/)
- - [All Grow a Garden codes and how to redeem them](https://www.pcgamer.com/games/survival-crafting/roblox-grow-a-garden-codes/)
- - [Metal Gear Solid Δ: Snake Eater Is Out on Xbox Today](https://www.xbox.com/en-US/games/store/metal-gear-solid-d-snake-eater/9PJLN214RTKQ/0010)<!-- GAME:END -->
+ - [A PR storm has erupted around Razer&#39;s gaming laptops with reports of faulty trackpads and keyboards, glitchy software, performance issues and poor customer support](https://www.pcgamer.com/hardware/gaming-laptops/a-pr-storm-has-erupted-around-razers-gaming-laptops-with-reports-of-faulty-trackpads-and-keyboards-glitchy-software-performance-issues-and-poor-customer-support/)
+ - [Nvidia makes almost ten times more from AI than gaming but &#39;margins are already eroding as rivals push into the space&#39;](https://www.pcgamer.com/software/ai/nvidia-makes-almost-ten-times-more-from-ai-than-gaming-but-margins-are-already-eroding-as-rivals-push-into-the-space/)
+ - [Western Digital is back at it again, launching a speedy 1 TB SSD that will only set you back $80 straight out of the gate](https://www.pcgamer.com/hardware/ssds/western-digital-are-back-at-it-again-launching-a-speedy-1-tb-ssd-that-will-only-set-you-back-usd80-straight-out-of-the-gate/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
