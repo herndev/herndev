@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UGREEN Uno charger is the cutest, and at a record-low price!](https://www.androidauthority.com/ugreen-uno-charger-deal-3592534/)
- - [Best Labor Day Deals: AirPods $89, M4 MacBook Air $799, Disney Plus bundle $29](https://appleinsider.com/articles/25/08/28/best-labor-day-deals-airpods-89-m4-macbook-air-799-disney-plus-bundle-29?utm_source=rss)
- - [In a letter, FTC chair Andrew Ferguson warns Google not to filter or suppress emails sent by Republicans over Gmail; Google says its spam filters are not biased &lpar;Hans Nichols/Axios&rpar;](http://www.techmeme.com/250828/p34#a250828p34)<!-- TECH:END -->
+ - [Hot deal: Sony WH-1000XM5 headphones drop to record-low price!](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-5-3592533/)
+ - [Our Favorite GoPro Is $150 Off](https://www.wired.com/story/gopro-hero-black-deal/)
+ - [Dell reports Q2 revenue up 19% YoY to $29.78B, vs. $29.17B est., and says it plans to ship $20B of AI servers in its fiscal 2026, double what it sold last year &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250828/p38#a250828p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
