@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Project Evilbane Pre-Alpha Playtest Will Begin Tomorrow!](https://news.xbox.com/en-us/2025/08/28/project-evilbane-pre-alpha-playtest-will-begin-tomorrow/)
- - [BioShock creator&#39;s next game evolves Shadow of Mordor&#39;s hyped nemesis system](https://www.polygon.com/judas-bioshock-ken-levine-villainy-shadow-of-mordor-nemesis-system/)
- - [Diablo Team Unionizes Over AI, Remote Work, And ‘Passion Tax’ Of Working In Games](https://kotaku.com/diablo-4-blizzard-union-ai-layoffs-microsoft-2000621003)<!-- GAME:END -->
+ - [Fed up with &#39;living in fear&#39; of mass layoffs, Diablo designers take action against Microsoft: &#39;We are ready to begin fighting for real change&#39;](https://www.pcgamer.com/gaming-industry/fed-up-with-living-in-fear-of-mass-layoffs-diablo-designers-take-action-against-microsoft-we-are-ready-to-begin-fighting-for-real-change/)
+ - [In a major win for playing Battlefield 6 however the heck you want, EA just confirmed Portal servers are actually persistent: &#39;It&#39;s always listed in the browser for easy access&#39;](https://www.pcgamer.com/games/fps/in-a-major-win-for-playing-battlefield-6-however-the-heck-you-want-ea-just-confirmed-portal-servers-are-actually-persistent-its-always-listed-in-the-browser-for-easy-access/)
+ - [The 25 best PlayStation 5 games &lpar;August 2025&rpar;](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
