@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Come on Eric...](http://9gag.com/gag/a0expqO)
- - ⏩ [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
- - 👉 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)<!-- MEMES:END -->
+ - 💣 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
+ - ⏩ [Bless our nurses.](http://9gag.com/gag/awy8xMB)
+ - 👉 [I can relate, working with wahmen, i would rather choose the trenches.](http://9gag.com/gag/a7oGZv2)<!-- MEMES:END -->
 
 ---
 
