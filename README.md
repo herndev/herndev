@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In the wake of shutting down a highly popular mod, Final Fantasy 14 director Yoshi-P shares deeply earnest blog about &#39;mods, their use, and the culture surrounding them&#39;](https://www.pcgamer.com/games/final-fantasy/in-the-wake-of-shutting-down-a-highly-popular-mod-final-fantasy-14-director-yoshi-p-shares-deeply-earnest-blog-about-mods-their-use-and-the-culture-surrounding-them/)
- - [Windstorm: The Legend of Khiimori hands-on preview shows realistic horses and tranquil gameplay](https://www.polygon.com/windstorm-the-legend-of-khiimori-gamescom-preview/)
- - [This HP Laptop with Office 365 Is Cheaper Than Buying Office Alone, Amazon Clears Out Stock for Labor Day](https://kotaku.com/this-hp-laptop-with-office-365-is-cheaper-than-buying-office-alone-amazon-clears-out-stock-for-labor-day-2000620926)<!-- GAME:END -->
+ - [This 15″ Portable Gaming Monitor Now Costs Peanuts, Amazon Goes Big for Labor Day](https://kotaku.com/this-15-portable-gaming-monitor-now-costs-peanuts-amazon-goes-big-for-labor-day-2000620939)
+ - [Pokémon Legends: Z-A’s Latest Mega Evolution Reveal Could Be A Sports Anime](https://kotaku.com/pokemon-legends-z-a-mega-hawlucha-machamp-trailer-2000620960)
+ - [The MMO granddaddy you&#39;ve never heard of is celebrating its 35th anniversary, and it still pulls in &#39;a few thousand active players&#39; and needs a staff of 40 to run: &#39;We want to be able to survive for another 35 years&#39;](https://www.pcgamer.com/games/mmo/the-mmo-granddaddy-youve-never-heard-of-is-celebrating-its-35th-anniversary-and-it-still-pulls-in-a-few-thousand-active-players-and-needs-a-staff-of-40-to-run-we-want-to-be-able-to-survive-for-another-35-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
