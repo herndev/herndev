@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Starfighter cast revealed: Ryan Gosling, Matt Smith, and Amy Adams to star](https://www.polygon.com/star-wars-starfighter-cast-release-date-ryan-gosling-matt-smith/)
- - [New Elden Ring: Nightreign Mode Is About To Ratchet The Difficulty Up To 11](https://kotaku.com/elden-ring-nightreign-deep-night-difficulty-mode-when-2000620989)
- - [The NYT’s Mini Crossword No Longer Free-To-Play And Fans Are Pissed](https://kotaku.com/mini-crossword-paywall-free-new-york-times-games-angry-fans-wordle-2000620987)<!-- GAME:END -->
+ - [Project Evilbane Pre-Alpha Playtest Will Begin Tomorrow!](https://news.xbox.com/en-us/2025/08/28/project-evilbane-pre-alpha-playtest-will-begin-tomorrow/)
+ - [BioShock creator&#39;s next game evolves Shadow of Mordor&#39;s hyped nemesis system](https://www.polygon.com/judas-bioshock-ken-levine-villainy-shadow-of-mordor-nemesis-system/)
+ - [Diablo Team Unionizes Over AI, Remote Work, And ‘Passion Tax’ Of Working In Games](https://kotaku.com/diablo-4-blizzard-union-ai-layoffs-microsoft-2000621003)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
