@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Meta&#39;s Hypernova AR glasses will enter mass production in Q3 2025 to beat Apple to market, but have a modest sales target of 150-200K over two years &lpar;@mingchikuo&rpar;](http://www.techmeme.com/250827/p43#a250827p43)
- - [Taylor Swift and Travis Kelce&#39;s engagement announcement on Instagram surpasses 1M reposts, more than any other post has ever received on the platform &lpar;Hannah Dailey/Billboard&rpar;](http://www.techmeme.com/250827/p42#a250827p42)
- - [Microsoft fires two employee protesters who occupied its president&amp;#8217;s office](https://www.theverge.com/news/767251/microsoft-fires-two-employees-building-34-brad-smith-office-protest)<!-- TECH:END -->
+ - [Samsung rolls out Microsoft&#39;s Copilot AI assistant in its 2025 lineup of TVs and monitors, letting users ask for movie suggestions, plot recaps, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250828/p2#a250828p2)
+ - [Google launches Pixel Care+, replacing Preferred Care and Fi Device Protection in the US, with upgrades but slightly higher pricing than the previous offering &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/250828/p1#a250828p1)
+ - [Kuo: Meta&#39;s Hypernova AR glasses will enter mass production in Q3 2025 to beat Apple to market, but have a modest sales target of 150-200K over two years &lpar;@mingchikuo&rpar;](http://www.techmeme.com/250827/p43#a250827p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
