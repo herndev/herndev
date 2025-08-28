@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at India&#39;s rationale for banning online real-money games, with IT minister Ashwini Vaishnaw citing 450M people losing a combined ~$2.3B to them &lpar;Vivek Kaul/Newslaundry&rpar;](http://www.techmeme.com/250828/p4#a250828p4)
- - [Sources: the $550B US-Japan investment framework, central to the trade agreement, was heavily influenced by Masayoshi Son, with the Stargate Project tied to it &lpar;Akira Yamashita/Nikkei Asia&rpar;](http://www.techmeme.com/250828/p3#a250828p3)
- - [Samsung rolls out Microsoft&#39;s Copilot AI assistant in its 2025 lineup of TVs and monitors, letting users ask for movie suggestions, plot recaps, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250828/p2#a250828p2)<!-- TECH:END -->
+ - [It’s official: The Galaxy S25 FE launch is just days away](https://www.androidauthority.com/samsung-galaxy-s25-fe-launch-date-announcement-3592233/)
+ - [How legacy carmakers fell behind Tesla and Chinese EV brands in software, as a Toyota Woven engineer says the company&#39;s new Arene platform is &quot;full of bugs&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p8#a250828p8)
+ - [Nvidia&#39;s CFO says Q2 &quot;net other income&quot; was $2.2B, &quot;driven by gains in a publicly-held equity security&quot;, which refers to Nvidia&#39;s position in CoreWeave &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/250828/p7#a250828p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
