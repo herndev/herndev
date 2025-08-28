@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man of culture with time travel machine.](http://9gag.com/gag/a7oG7ob)
- - ⏩ [Taxi drivers stopped a pregnant woman from collecting her kid. They said the kids should use a taxi, and then the woman asked for a minute, then she called flying squad and police then they did their job. 8 taxi drivers arrested.](http://9gag.com/gag/a9yV7x1)
- - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
+ - 💣 [Come on Eric...](http://9gag.com/gag/a0expqO)
+ - ⏩ [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
+ - 👉 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)<!-- MEMES:END -->
 
 ---
 
