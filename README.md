@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just wait](http://9gag.com/gag/aByvYbz)
- - ⏩ [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
- - 👉 [So Rageful It\u2019s Actually Funny](http://9gag.com/gag/ae9d6AB)<!-- MEMES:END -->
+ - 💣 [I spent like 10 for that game](http://9gag.com/gag/a9yVWdD)
+ - ⏩ [Soon](http://9gag.com/gag/apRdLr9)
+ - 👉 [I can&#39;t handle this..](http://9gag.com/gag/ajPdqXw)<!-- MEMES:END -->
 
 ---
 
