@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s hottest foldable phones come from Samsung and Motorola](https://www.androidauthority.com/samsung-galaxy-z-fold-7-motorola-razr-ultra-deals-3592163/)
- - [Samsung announces a virtual Galaxy event for September 4 at 5:30am ET, where new tablets and the Galaxy S25 FE are expected &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250827/p39#a250827p39)
- - [Nvidia CEO Says More Advanced AI Models Will Keep Chip, Data Center Growth Going](https://www.cnet.com/tech/services-and-software/nvidia-ceo-says-more-advanced-ai-models-will-keep-chip-data-center-growth-going/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple threatens UK with delayed features if EU DMA-like regulations introduced](https://appleinsider.com/articles/25/08/28/apple-threatens-uk-with-delayed-features-if-eu-dma-like-regulations-introduced?utm_source=rss)
+ - [This mobile hotspot is 28% off, and comes with 1GB of data a month for free!](https://www.androidauthority.com/simo-solis-lite-hotspot-deal-3592162/)
+ - [Nvidia says it had no new H20 sales to China in Q2 and assumes the same for Q3, but could realize $2B-$5B in H20 sales in Q3 if geopolitical issues are resolved &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p41#a250827p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
