@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for August 28 &lpar;#1531&rpar;](https://www.pcgamer.com/games/puzzle/todays-wordle-clues-hints-and-answer-for-august-28-1531/)
- - [The new John Carpenter game will absolutely stuff your screen with zombies](https://www.pcgamer.com/games/fps/toxic-commando-hands-on-preview/)
- - [Roblox makes unrated games inaccessible starting next month, has a plan for old favorites &#39;to ensure these cherished classics are not lost&#39;](https://www.pcgamer.com/games/roblox-makes-unrated-games-inaccessible-starting-next-month-has-a-plan-for-old-favorites-to-ensure-these-cherished-classics-are-not-lost/)<!-- GAME:END -->
+ - [&lpar;From Southeast Asia&rpar; SHINOBI: Art of Vengeance launches Friday, August 29!](https://blog.playstation.com/2025/08/27/20250828-shinobi/)
+ - [&lpar;From Southeast Asia&rpar; SHINOBI: Art of Vengeance launches Friday, August 29!](https://blog.playstation.com/2025/08/27/20250828-shinobi/)
+ - [Today&#39;s Wordle clues, hints and answer for August 28 &lpar;#1531&rpar;](https://www.pcgamer.com/games/puzzle/todays-wordle-clues-hints-and-answer-for-august-28-1531/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
