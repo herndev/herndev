@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic will start training its AI models on chat transcripts](https://www.theverge.com/anthropic/767507/anthropic-user-data-consumers-ai-models-training-privacy)
- - [Google Maps will finally ask how you want Motion Photos handled &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-motion-photos-3592423/)
- - [Commonwealth, which wants to build a fusion power plant, raised $863M from Nvidia&#39;s NVentures, Khosla Ventures, and Google, bringing its total raised to ~$3B &lpar;Will Wade/Bloomberg&rpar;](http://www.techmeme.com/250828/p25#a250828p25)<!-- TECH:END -->
+ - [Battlefield 6 PC requirements are pretty chill — if you don&amp;#8217;t mind 30fps](https://www.theverge.com/news/767582/battlefield-6-pc-requirements-are-pretty-chill-if-you-dont-mind-30fps)
+ - [Source: Mark Zuckerberg lobbied President Trump against digital service taxes, which Trump then publicly criticized; Meta confirms they met privately last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p27#a250828p27)
+ - [We just got our best look yet at the next three-panel foldable, and it launches next week](https://www.androidauthority.com/huawei-mate-xts-tri-fold-teaser-3592448/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
