@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A short and witty](http://9gag.com/gag/aMVWGgM)
- - ⏩ [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
- - 👉 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
+ - 💣 [Texting and driving? What could go wrong?](http://9gag.com/gag/aqydr6R)
+ - ⏩ [Just wait](http://9gag.com/gag/aByvYbz)
+ - 👉 [So Rageful It\u2019s Actually Funny](http://9gag.com/gag/ae9d6AB)<!-- MEMES:END -->
 
 ---
 
