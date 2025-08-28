@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All active Anime Eternal codes in August 2025 and how to redeem them](https://www.pcgamer.com/games/roblox/anime-eternal-codes/)
- - [GTA Online just got a survival horror mode in Cayo Perico Zombie Survival](https://www.polygon.com/gta-online-cayo-perico-zombie-survival/)
- - [The combined fury of angry Overwatch players forced Blizzard to reverse a change it made less than 72 hours ago: &#39;We’re grateful to everyone who tried it out and shared feedback&#39;](https://www.pcgamer.com/games/fps/the-combined-fury-of-angry-overwatch-players-forced-blizzard-to-reverse-a-change-it-made-less-than-72-hours-ago-were-grateful-to-everyone-who-tried-it-out-and-shared-feedback/)<!-- GAME:END -->
+ - [Cyberpunk: Edgerunners is finally making its way to Blu-ray, and you can pre-order it now](https://www.polygon.com/cyberpunk-edgerunners-blu-ray-release-date-crunchyroll/)
+ - [Pokémon Legends: Z-A&#39;s entire mega evolution list leaked months ago](https://www.polygon.com/pokemon-legends-za-every-mega-evolution-starters-list-leak-switch-2/)
+ - [EA And 2K Games Are Beefing Over NCAA College Basketball Exclusivity](https://kotaku.com/ea-college-basketball-ncaa-2k-hoops-ucla-2000621071)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
