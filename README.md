@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fed up with &#39;living in fear&#39; of mass layoffs, Diablo designers take action against Microsoft: &#39;We are ready to begin fighting for real change&#39;](https://www.pcgamer.com/gaming-industry/fed-up-with-living-in-fear-of-mass-layoffs-diablo-designers-take-action-against-microsoft-we-are-ready-to-begin-fighting-for-real-change/)
- - [In a major win for playing Battlefield 6 however the heck you want, EA just confirmed Portal servers are actually persistent: &#39;It&#39;s always listed in the browser for easy access&#39;](https://www.pcgamer.com/games/fps/in-a-major-win-for-playing-battlefield-6-however-the-heck-you-want-ea-just-confirmed-portal-servers-are-actually-persistent-its-always-listed-in-the-browser-for-easy-access/)
- - [The 25 best PlayStation 5 games &lpar;August 2025&rpar;](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5/)<!-- GAME:END -->
+ - [Kevin Spacey Was ‘A Little Weird’ While Making COD Advanced Warfare, Director Claims](https://kotaku.com/kevin-spacey-was-a-little-weird-while-making-cod-advanced-warfare-director-claims-2000621038)
+ - [The Witcher 4 and Cyberpunk 2 development teams continue to grow as CD Projekt&#39;s headcount expands to nearly 800](https://www.pcgamer.com/gaming-industry/the-witcher-4-and-cyberpunk-2-development-teams-continue-to-grow-as-cd-projekts-headcount-expands-to-nearly-800/)
+ - [No Man’s Sky Player Discovers Beautiful Planet Full Of NSFW Aliens Begging To Be Milked](https://kotaku.com/no-mans-sky-aliens-milk-eissentam-riding-2000621029)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
