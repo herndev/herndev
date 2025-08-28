@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is Unpacking again in early September](https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september)
- - [Your favorite e-ink sketchbook might be getting smaller](https://www.androidauthority.com/remarkable-teaser-announces-new-device-incoming-3592108/)
- - [Google’s Expressive Clock redesign is already ticking people off](https://www.androidauthority.com/google-expressive-clock-redesign-flaws-3592176/)<!-- TECH:END -->
+ - [Today’s hottest foldable phones come from Samsung and Motorola](https://www.androidauthority.com/samsung-galaxy-z-fold-7-motorola-razr-ultra-deals-3592163/)
+ - [Samsung announces a virtual Galaxy event for September 4 at 5:30am ET, where new tablets and the Galaxy S25 FE are expected &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250827/p39#a250827p39)
+ - [Nvidia CEO Says More Advanced AI Models Will Keep Chip, Data Center Growth Going](https://www.cnet.com/tech/services-and-software/nvidia-ceo-says-more-advanced-ai-models-will-keep-chip-data-center-growth-going/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
