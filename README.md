@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I spent like 10 for that game](http://9gag.com/gag/a9yVWdD)
- - ⏩ [Soon](http://9gag.com/gag/apRdLr9)
- - 👉 [I can&#39;t handle this..](http://9gag.com/gag/ajPdqXw)<!-- MEMES:END -->
+ - 💣 [Soon](http://9gag.com/gag/apRdLr9)
+ - ⏩ [Wanna see something cool?](http://9gag.com/gag/aAymwO2)
+ - 👉 [Read that again](http://9gag.com/gag/axyAgAb)<!-- MEMES:END -->
 
 ---
 
