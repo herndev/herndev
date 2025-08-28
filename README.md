@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I spent like 10 for that game](http://9gag.com/gag/a9yVWdD)
- - ⏩ [Soon](http://9gag.com/gag/apRdLr9)
- - 👉 [Happy birthday to me](http://9gag.com/gag/a2vxmVD)<!-- MEMES:END -->
+ - 💣 [Don&#39;t bring this thing in your bed.](http://9gag.com/gag/aNDqn5G)
+ - ⏩ [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
+ - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
 
 ---
 
