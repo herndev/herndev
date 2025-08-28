@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $200 on the already-affordable Samsung Galaxy Z Flip 7 FE](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-deal-4-3592532/)
- - [Watch Our Livestream Replay: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)
- - [Google&#39;s AI Live Translation and Learning Tools Are Here. How to Use Them](https://www.cnet.com/tech/mobile/googles-ai-live-translation-and-learning-tools-are-here-how-to-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft fires two more employees for participating in Palestine protests on campus](https://www.theverge.com/microsoft/767841/microsoft-fires-two-more-protesters-no-azure-for-apartheid)
+ - [Fan made Lego iMac G3 needs 5000 votes for a slim chance of getting made](https://appleinsider.com/articles/25/08/28/fan-made-lego-imac-g3-needs-5000-votes-for-a-slim-chance-of-getting-made?utm_source=rss)
+ - [Affirm reports Q4 revenue up 33% YoY to $876.4M, above $837M est., GMV up 43% to $10.4B, and EPS of $0.20, above $0.12 est.; AFRM jumps 13%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250828/p39#a250828p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
