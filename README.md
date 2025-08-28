@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
- - ⏩ [Fact](http://9gag.com/gag/aVvdeYv)
- - 👉 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)<!-- MEMES:END -->
+ - 💣 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
+ - ⏩ [I wanted to cherchez la femme, but not her fault.](http://9gag.com/gag/aO8jVz3)
+ - 👉 [I&#39;m paying no delivery... I can bring it home by myself](http://9gag.com/gag/azxBV4z)<!-- MEMES:END -->
 
 ---
 
