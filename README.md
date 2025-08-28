@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kevin Spacey Was ‘A Little Weird’ While Making COD Advanced Warfare, Director Claims](https://kotaku.com/kevin-spacey-was-a-little-weird-while-making-cod-advanced-warfare-director-claims-2000621038)
- - [The Witcher 4 and Cyberpunk 2 development teams continue to grow as CD Projekt&#39;s headcount expands to nearly 800](https://www.pcgamer.com/gaming-industry/the-witcher-4-and-cyberpunk-2-development-teams-continue-to-grow-as-cd-projekts-headcount-expands-to-nearly-800/)
- - [No Man’s Sky Player Discovers Beautiful Planet Full Of NSFW Aliens Begging To Be Milked](https://kotaku.com/no-mans-sky-aliens-milk-eissentam-riding-2000621029)<!-- GAME:END -->
+ - [All active Anime Eternal codes in August 2025 and how to redeem them](https://www.pcgamer.com/games/roblox/anime-eternal-codes/)
+ - [GTA Online just got a survival horror mode in Cayo Perico Zombie Survival](https://www.polygon.com/gta-online-cayo-perico-zombie-survival/)
+ - [The combined fury of angry Overwatch players forced Blizzard to reverse a change it made less than 72 hours ago: &#39;We’re grateful to everyone who tried it out and shared feedback&#39;](https://www.pcgamer.com/games/fps/the-combined-fury-of-angry-overwatch-players-forced-blizzard-to-reverse-a-change-it-made-less-than-72-hours-ago-were-grateful-to-everyone-who-tried-it-out-and-shared-feedback/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
