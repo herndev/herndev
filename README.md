@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Soon](http://9gag.com/gag/apRdLr9)
- - ⏩ [Wanna see something cool?](http://9gag.com/gag/aAymwO2)
- - 👉 [Read that again](http://9gag.com/gag/axyAgAb)<!-- MEMES:END -->
+ - 💣 [Wanna see something cool?](http://9gag.com/gag/aAymwO2)
+ - ⏩ [Read that again](http://9gag.com/gag/axyAgAb)
+ - 👉 [I can&#39;t handle this..](http://9gag.com/gag/ajPdqXw)<!-- MEMES:END -->
 
 ---
 
