@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: Meta&#39;s Hypernova AR glasses will enter mass production in Q3 2025 to beat Apple to market, but have a modest sales target of 150-200K over two years &lpar;@mingchikuo&rpar;](http://www.techmeme.com/250827/p43#a250827p43)
  - [Taylor Swift and Travis Kelce&#39;s engagement announcement on Instagram surpasses 1M reposts, more than any other post has ever received on the platform &lpar;Hannah Dailey/Billboard&rpar;](http://www.techmeme.com/250827/p42#a250827p42)
- - [Microsoft fires two employee protesters who occupied its president&amp;#8217;s office](https://www.theverge.com/news/767251/microsoft-fires-two-employees-building-34-brad-smith-office-protest)
- - [Apple threatens UK with delayed features if EU DMA-like regulations introduced](https://appleinsider.com/articles/25/08/28/apple-threatens-uk-with-delayed-features-if-eu-dma-like-regulations-introduced?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft fires two employee protesters who occupied its president&amp;#8217;s office](https://www.theverge.com/news/767251/microsoft-fires-two-employees-building-34-brad-smith-office-protest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
