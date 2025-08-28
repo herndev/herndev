@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33 director adds another DLC teaser to the pile: &#39;We may be cooking&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-director-adds-another-dlc-teaser-to-the-pile-we-may-be-cooking/)
- - [Herdling review](https://www.pcgamer.com/games/adventure/herdling-review/)
- - [Alien: Earth&#39;s eyeball monster may be the series&#39; biggest threat](https://www.polygon.com/alien-earth-eyeball-species-64-theories/)<!-- GAME:END -->
+ - [The new John Carpenter game will absolutely stuff your screen with zombies](https://www.pcgamer.com/games/fps/toxic-commando-hands-on-preview/)
+ - [Roblox makes unrated games inaccessible starting next month, has a plan for old favorites &#39;to ensure these cherished classics are not lost&#39;](https://www.pcgamer.com/games/roblox-makes-unrated-games-inaccessible-starting-next-month-has-a-plan-for-old-favorites-to-ensure-these-cherished-classics-are-not-lost/)
+ - [Clair Obscur: Expedition 33 director adds another DLC teaser to the pile: &#39;We may be cooking&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-director-adds-another-dlc-teaser-to-the-pile-we-may-be-cooking/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
