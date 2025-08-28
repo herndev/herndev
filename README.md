@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung inches closer to stable One UI 8 on Galaxy S25 with sixth beta](https://www.androidauthority.com/galaxy-s25-one-ui-8-beta-6-3592286/)
- - [Microsoft is expanding Xbox Cloud Gaming to Game Pass Core and Standard subscribers, dropping the Game Pass Ultimate requirement, and tests more PC game access &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250828/p13#a250828p13)
- - [You can now ask Google Finance when Ethereum will hit its peak](https://www.androidauthority.com/google-finance-ai-page-testing-usa-3592257/)<!-- TECH:END -->
+ - [Didi reports Q2 revenue up 10.9% YoY to ~$7.8B, overseas revenue up 28% YoY, and a ~$350M net loss, driven by a one-off ~$740M charge in a shareholder lawsuit &lpar;Reuters&rpar;](http://www.techmeme.com/250828/p18#a250828p18)
+ - [Nvidia CFO Colette Kress says the US hasn&#39;t outlined its plan for a 15% China commission, Nvidia won&#39;t pay until it has it, and it can sell AI chips without it &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p17#a250828p17)
+ - [Honest Review of the New Tiami Mattress &lpar;2025&rpar;](https://www.wired.com/review/tiami-mattress-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
