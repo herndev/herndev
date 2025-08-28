@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This 15″ Portable Gaming Monitor Now Costs Peanuts, Amazon Goes Big for Labor Day](https://kotaku.com/this-15-portable-gaming-monitor-now-costs-peanuts-amazon-goes-big-for-labor-day-2000620939)
- - [Pokémon Legends: Z-A’s Latest Mega Evolution Reveal Could Be A Sports Anime](https://kotaku.com/pokemon-legends-z-a-mega-hawlucha-machamp-trailer-2000620960)
- - [The MMO granddaddy you&#39;ve never heard of is celebrating its 35th anniversary, and it still pulls in &#39;a few thousand active players&#39; and needs a staff of 40 to run: &#39;We want to be able to survive for another 35 years&#39;](https://www.pcgamer.com/games/mmo/the-mmo-granddaddy-youve-never-heard-of-is-celebrating-its-35th-anniversary-and-it-still-pulls-in-a-few-thousand-active-players-and-needs-a-staff-of-40-to-run-we-want-to-be-able-to-survive-for-another-35-years/)<!-- GAME:END -->
+ - [Xbox August Update: Cross-Device Play History, Controller Updates, and More](https://news.xbox.com/en-us/2025/08/28/xbox-august-update-cross-device-play-history-controller-updates/)
+ - [Nvidia CEO Jensen Huang advises AI customers to &#39;pace themselves&#39; after GPU clusters sell out, but the company says it&#39;s going to continue to scale up](https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-advises-ai-customers-to-pace-themselves-after-gpu-clusters-sell-out-but-the-company-says-its-going-to-continue-to-scale-up/)
+ - [Seagate Expansion Card SSD for Xbox Is Now Back to Black Friday Price for Labor Day](https://kotaku.com/seagate-expansion-card-ssd-for-xbox-is-now-back-to-black-friday-price-for-labor-day-2000620786)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
