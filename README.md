@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’re wrong about the Pixel 10 Pro](https://www.androidauthority.com/google-pixel-10-pro-defense-3591951/)
- - [I edited my first Pixel 10 Pro pictures with Ask Photos, here’s how it went](https://www.androidauthority.com/google-pixel-10-pro-ask-photos-hands-on-3591088/)
- - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
+ - [My gaming buddy](https://www.theverge.com/games/767156/gaming-grief)
+ - [Torrent app removal proves that third-party app stores will not be free of Apple control](https://appleinsider.com/articles/25/08/28/torrent-app-removal-proves-that-third-party-app-stores-will-not-be-free-of-apple-control?utm_source=rss)
+ - [4 Best Red-Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
