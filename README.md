@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Texting and driving? What could go wrong?](http://9gag.com/gag/aqydr6R)
- - ⏩ [Just wait](http://9gag.com/gag/aByvYbz)
+ - 💣 [Just wait](http://9gag.com/gag/aByvYbz)
+ - ⏩ [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
  - 👉 [So Rageful It\u2019s Actually Funny](http://9gag.com/gag/ae9d6AB)<!-- MEMES:END -->
 
 ---
