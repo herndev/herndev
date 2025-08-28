@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple threatens UK with delayed features if EU DMA-like regulations introduced](https://appleinsider.com/articles/25/08/28/apple-threatens-uk-with-delayed-features-if-eu-dma-like-regulations-introduced?utm_source=rss)
- - [This mobile hotspot is 28% off, and comes with 1GB of data a month for free!](https://www.androidauthority.com/simo-solis-lite-hotspot-deal-3592162/)
- - [Nvidia says it had no new H20 sales to China in Q2 and assumes the same for Q3, but could realize $2B-$5B in H20 sales in Q3 if geopolitical issues are resolved &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p41#a250827p41)<!-- TECH:END -->
+ - [Taylor Swift and Travis Kelce&#39;s engagement announcement on Instagram surpasses 1M reposts, more than any other post has ever received on the platform &lpar;Hannah Dailey/Billboard&rpar;](http://www.techmeme.com/250827/p42#a250827p42)
+ - [Microsoft fires two employee protesters who occupied its president&amp;#8217;s office](https://www.theverge.com/news/767251/microsoft-fires-two-employees-building-34-brad-smith-office-protest)
+ - [Apple threatens UK with delayed features if EU DMA-like regulations introduced](https://appleinsider.com/articles/25/08/28/apple-threatens-uk-with-delayed-features-if-eu-dma-like-regulations-introduced?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
