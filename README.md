@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My gaming buddy](https://www.theverge.com/games/767156/gaming-grief)
- - [Torrent app removal proves that third-party app stores will not be free of Apple control](https://appleinsider.com/articles/25/08/28/torrent-app-removal-proves-that-third-party-app-stores-will-not-be-free-of-apple-control?utm_source=rss)
- - [4 Best Red-Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)<!-- TECH:END -->
+ - [MSI’s Katana gaming laptop is $400 off and includes Battlefield 6](https://www.theverge.com/tech/767400/msi-gaming-laptop-rtx-5070-sony-xm5-oled-deal-sale)
+ - [Review of Honor Magic V5, the world&#39;s thinnest foldable phone at 8.8mm thick when folded, as it launches in Europe for €1,999, following a July launch in China &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250828/p23#a250828p23)
+ - [Mint’s $180/yr unlimited deal is just for new customers, but there’s a possible workaround](https://www.androidauthority.com/mint-mobile-existing-customer-offer-3592399/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
