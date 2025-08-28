@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dayum, women really hate break-ups before the year ends](http://9gag.com/gag/aGyoxmn)
- - ⏩ [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
- - 👉 [I&#39;m paying no delivery... I can bring it home by myself](http://9gag.com/gag/azxBV4z)<!-- MEMES:END -->
+ - 💣 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
+ - ⏩ [Sad music](http://9gag.com/gag/amod03X)
+ - 👉 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)<!-- MEMES:END -->
 
 ---
 
