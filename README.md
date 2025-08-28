@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I installed the Pixel 10’s Daily Hub on a Samsung phone, and here’s the proof](https://www.androidauthority.com/google-pixel-10-daily-hub-sideload-other-phones-3592216/)
  - [It’s official: The Galaxy S25 FE launch is just days away](https://www.androidauthority.com/samsung-galaxy-s25-fe-launch-date-announcement-3592233/)
- - [How legacy carmakers fell behind Tesla and Chinese EV brands in software, as a Toyota Woven engineer says the company&#39;s new Arene platform is &quot;full of bugs&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p8#a250828p8)
- - [Nvidia&#39;s CFO says Q2 &quot;net other income&quot; was $2.2B, &quot;driven by gains in a publicly-held equity security&quot;, which refers to Nvidia&#39;s position in CoreWeave &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/250828/p7#a250828p7)<!-- TECH:END -->
+ - [How legacy carmakers fell behind Tesla and Chinese EV brands in software, as a Toyota Woven engineer says the company&#39;s new Arene platform is &quot;full of bugs&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p8#a250828p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
