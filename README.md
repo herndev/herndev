@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
- - ⏩ [Haribo candy contains pig &lpar;mostly bones&rpar;](http://9gag.com/gag/aVvdPn8)
- - 👉 [F**k around, find out.](http://9gag.com/gag/aByv1Az)<!-- MEMES:END -->
+ - 💣 [I spent like 10 for that game](http://9gag.com/gag/a9yVWdD)
+ - ⏩ [Soon](http://9gag.com/gag/apRdLr9)
+ - 👉 [Happy birthday to me](http://9gag.com/gag/a2vxmVD)<!-- MEMES:END -->
 
 ---
 
