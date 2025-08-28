@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MSI’s Katana gaming laptop is $400 off and includes Battlefield 6](https://www.theverge.com/tech/767400/msi-gaming-laptop-rtx-5070-sony-xm5-oled-deal-sale)
- - [Review of Honor Magic V5, the world&#39;s thinnest foldable phone at 8.8mm thick when folded, as it launches in Europe for €1,999, following a July launch in China &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250828/p23#a250828p23)
- - [Mint’s $180/yr unlimited deal is just for new customers, but there’s a possible workaround](https://www.androidauthority.com/mint-mobile-existing-customer-offer-3592399/)<!-- TECH:END -->
+ - [Anthropic will start training its AI models on chat transcripts](https://www.theverge.com/anthropic/767507/anthropic-user-data-consumers-ai-models-training-privacy)
+ - [Google Maps will finally ask how you want Motion Photos handled &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-motion-photos-3592423/)
+ - [Commonwealth, which wants to build a fusion power plant, raised $863M from Nvidia&#39;s NVentures, Khosla Ventures, and Google, bringing its total raised to ~$3B &lpar;Will Wade/Bloomberg&rpar;](http://www.techmeme.com/250828/p25#a250828p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
