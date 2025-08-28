@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
- - ⏩ [Bless our nurses.](http://9gag.com/gag/awy8xMB)
- - 👉 [I can relate, working with wahmen, i would rather choose the trenches.](http://9gag.com/gag/a7oGZv2)<!-- MEMES:END -->
+ - 💣 [I can relate, working with wahmen, i would rather choose the trenches.](http://9gag.com/gag/a7oGZv2)
+ - ⏩ [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 👉 [Instruction unclear](http://9gag.com/gag/aRByAQ2)<!-- MEMES:END -->
 
 ---
 
