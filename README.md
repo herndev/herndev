@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Battlefield 6 PC requirements are pretty chill — if you don&amp;#8217;t mind 30fps](https://www.theverge.com/news/767582/battlefield-6-pc-requirements-are-pretty-chill-if-you-dont-mind-30fps)
- - [Source: Mark Zuckerberg lobbied President Trump against digital service taxes, which Trump then publicly criticized; Meta confirms they met privately last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p27#a250828p27)
- - [We just got our best look yet at the next three-panel foldable, and it launches next week](https://www.androidauthority.com/huawei-mate-xts-tri-fold-teaser-3592448/)<!-- TECH:END -->
+ - [This Is How You Log Off](https://www.wired.com/story/uncanny-valley-podcast-this-is-how-you-log-off/)
+ - [Proton offers a new lifeline for when the unexpected happens](https://www.androidauthority.com/proton-emergency-access-3592451/)
+ - [Microsoft unveils MAI-Voice-1, a speech model that can generate a full minute of audio in under a second on a single GPU, and a text model called MAI-1-preview &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250828/p30#a250828p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
