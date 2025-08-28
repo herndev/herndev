@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Biblically accurate USB tester just dropped: This neat tool has 12 different connectors &#39;to test almost any cable&#39;](https://www.pcgamer.com/hardware/biblically-accurate-usb-tester-just-dropped-this-neat-tool-has-12-different-connectors-to-test-almost-any-cable/)
- - [Alienware 16 Area-51 review](https://www.pcgamer.com/hardware/gaming-laptops/alienware-16-area-51-review/)
- - [Free Play Days – EA Sports College Football 26, Surviving Mars, The Knightling and Lost Eidolons](https://news.xbox.com/en-us/2025/08/28/free-play-days-ea-sports-college-football-26-surviving-mars-the-knightling-lost-eidolons/)<!-- GAME:END -->
+ - [Star Wars: Starfighter cast revealed: Ryan Gosling, Matt Smith, and Amy Adams to star](https://www.polygon.com/star-wars-starfighter-cast-release-date-ryan-gosling-matt-smith/)
+ - [New Elden Ring: Nightreign Mode Is About To Ratchet The Difficulty Up To 11](https://kotaku.com/elden-ring-nightreign-deep-night-difficulty-mode-when-2000620989)
+ - [The NYT’s Mini Crossword No Longer Free-To-Play And Fans Are Pissed](https://kotaku.com/mini-crossword-paywall-free-new-york-times-games-angry-fans-wordle-2000620987)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
