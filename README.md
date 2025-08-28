@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI’s Mic 3 crams more features into a smaller package](https://www.theverge.com/news/767297/dji-mic-3-wireless-microphone-launch)
- - [Apple TV+ show &#39;Trying&#39; will be free on the BBC soon](https://appleinsider.com/articles/25/08/28/apple-tv-show-trying-will-be-free-on-the-bbc-soon?utm_source=rss)
- - [Kindle Colorsoft Kids Review &lpar;2025&rpar;: Great for All Ages](https://www.wired.com/review/kindle-colorsoft-kids-2025/)<!-- TECH:END -->
+ - [You’re wrong about the Pixel 10 Pro](https://www.androidauthority.com/google-pixel-10-pro-defense-3591951/)
+ - [I edited my first Pixel 10 Pro pictures with Ask Photos, here’s how it went](https://www.androidauthority.com/google-pixel-10-pro-ask-photos-hands-on-3591088/)
+ - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
