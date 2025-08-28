@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox August Update: Cross-Device Play History, Controller Updates, and More](https://news.xbox.com/en-us/2025/08/28/xbox-august-update-cross-device-play-history-controller-updates/)
- - [Nvidia CEO Jensen Huang advises AI customers to &#39;pace themselves&#39; after GPU clusters sell out, but the company says it&#39;s going to continue to scale up](https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-advises-ai-customers-to-pace-themselves-after-gpu-clusters-sell-out-but-the-company-says-its-going-to-continue-to-scale-up/)
- - [Seagate Expansion Card SSD for Xbox Is Now Back to Black Friday Price for Labor Day](https://kotaku.com/seagate-expansion-card-ssd-for-xbox-is-now-back-to-black-friday-price-for-labor-day-2000620786)<!-- GAME:END -->
+ - [Biblically accurate USB tester just dropped: This neat tool has 12 different connectors &#39;to test almost any cable&#39;](https://www.pcgamer.com/hardware/biblically-accurate-usb-tester-just-dropped-this-neat-tool-has-12-different-connectors-to-test-almost-any-cable/)
+ - [Alienware 16 Area-51 review](https://www.pcgamer.com/hardware/gaming-laptops/alienware-16-area-51-review/)
+ - [Free Play Days – EA Sports College Football 26, Surviving Mars, The Knightling and Lost Eidolons](https://news.xbox.com/en-us/2025/08/28/free-play-days-ea-sports-college-football-26-surviving-mars-the-knightling-lost-eidolons/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
