@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: Sony WH-1000XM5 headphones drop to record-low price!](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-5-3592533/)
- - [Our Favorite GoPro Is $150 Off](https://www.wired.com/story/gopro-hero-black-deal/)
- - [Dell reports Q2 revenue up 19% YoY to $29.78B, vs. $29.17B est., and says it plans to ship $20B of AI servers in its fiscal 2026, double what it sold last year &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250828/p38#a250828p38)<!-- TECH:END -->
+ - [Save $200 on the already-affordable Samsung Galaxy Z Flip 7 FE](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-deal-4-3592532/)
+ - [Watch Our Livestream Replay: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)
+ - [Google&#39;s AI Live Translation and Learning Tools Are Here. How to Use Them](https://www.cnet.com/tech/mobile/googles-ai-live-translation-and-learning-tools-are-here-how-to-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
