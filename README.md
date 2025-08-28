@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Is How You Log Off](https://www.wired.com/story/uncanny-valley-podcast-this-is-how-you-log-off/)
- - [Proton offers a new lifeline for when the unexpected happens](https://www.androidauthority.com/proton-emergency-access-3592451/)
- - [Microsoft unveils MAI-Voice-1, a speech model that can generate a full minute of audio in under a second on a single GPU, and a text model called MAI-1-preview &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250828/p30#a250828p30)<!-- TECH:END -->
+ - [Xcode 26 beta 7 adds GPT-5 &amp; Claude account support](https://appleinsider.com/articles/25/08/28/xcode-26-beta-7-adds-gpt-5-claude-account-support?utm_source=rss)
+ - [Intel CFO David Zinser says the company received $5.7B from the US government on Wednesday evening; the White House says the deal is still &quot;being ironed out&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250828/p32#a250828p32)
+ - [Google’s Pixel Care Plus includes free screen and battery repair](https://www.theverge.com/news/767711/google-pixel-care-plus-free-screen-and-battery-repair)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
