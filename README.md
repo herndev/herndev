@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I installed the Pixel 10’s Daily Hub on a Samsung phone, and here’s the proof](https://www.androidauthority.com/google-pixel-10-daily-hub-sideload-other-phones-3592216/)
- - [It’s official: The Galaxy S25 FE launch is just days away](https://www.androidauthority.com/samsung-galaxy-s25-fe-launch-date-announcement-3592233/)
- - [How legacy carmakers fell behind Tesla and Chinese EV brands in software, as a Toyota Woven engineer says the company&#39;s new Arene platform is &quot;full of bugs&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p8#a250828p8)<!-- TECH:END -->
+ - [An in-depth look at India&#39;s quick commerce boom, driven by Blinkit, Zepto, and Instamart, which have collectively lost more than $1.4B in the past four years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p10#a250828p10)
+ - [Lost Android phones will soon greet finders with a new warning screen &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-find-hub-new-lost-phone-warning-3592253/)
+ - [How ChatGPT-powered companionship dolls from Hyodol are helping ease loneliness among older adults in South Korea, as the company aims for a US debut in 2026 &lpar;Michelle Kim/Rest of World&rpar;](http://www.techmeme.com/250828/p9#a250828p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
