@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;From Southeast Asia&rpar; PlayStation Plus Monthly Games for August: Psychonauts 2, Dragon Marked For Death , Viewfinder](https://blog.playstation.com/2025/08/27/20250828-psplus/)
  - [&lpar;From Southeast Asia&rpar; SHINOBI: Art of Vengeance launches Friday, August 29!](https://blog.playstation.com/2025/08/27/20250828-shinobi/)
- - [&lpar;From Southeast Asia&rpar; SHINOBI: Art of Vengeance launches Friday, August 29!](https://blog.playstation.com/2025/08/27/20250828-shinobi/)
- - [Today&#39;s Wordle clues, hints and answer for August 28 &lpar;#1531&rpar;](https://www.pcgamer.com/games/puzzle/todays-wordle-clues-hints-and-answer-for-august-28-1531/)<!-- GAME:END -->
+ - [&lpar;From Southeast Asia&rpar; SHINOBI: Art of Vengeance launches Friday, August 29!](https://blog.playstation.com/2025/08/27/20250828-shinobi/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
