@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Didi reports Q2 revenue up 10.9% YoY to ~$7.8B, overseas revenue up 28% YoY, and a ~$350M net loss, driven by a one-off ~$740M charge in a shareholder lawsuit &lpar;Reuters&rpar;](http://www.techmeme.com/250828/p18#a250828p18)
- - [Nvidia CFO Colette Kress says the US hasn&#39;t outlined its plan for a 15% China commission, Nvidia won&#39;t pay until it has it, and it can sell AI chips without it &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p17#a250828p17)
- - [Honest Review of the New Tiami Mattress &lpar;2025&rpar;](https://www.wired.com/review/tiami-mattress-review/)<!-- TECH:END -->
+ - [DJI’s Mic 3 crams more features into a smaller package](https://www.theverge.com/news/767297/dji-mic-3-wireless-microphone-launch)
+ - [Apple TV+ show &#39;Trying&#39; will be free on the BBC soon](https://appleinsider.com/articles/25/08/28/apple-tv-show-trying-will-be-free-on-the-bbc-soon?utm_source=rss)
+ - [Kindle Colorsoft Kids Review &lpar;2025&rpar;: Great for All Ages](https://www.wired.com/review/kindle-colorsoft-kids-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
