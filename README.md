@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A PR storm has erupted around Razer&#39;s gaming laptops with reports of faulty trackpads and keyboards, glitchy software, performance issues and poor customer support](https://www.pcgamer.com/hardware/gaming-laptops/a-pr-storm-has-erupted-around-razers-gaming-laptops-with-reports-of-faulty-trackpads-and-keyboards-glitchy-software-performance-issues-and-poor-customer-support/)
- - [Nvidia makes almost ten times more from AI than gaming but &#39;margins are already eroding as rivals push into the space&#39;](https://www.pcgamer.com/software/ai/nvidia-makes-almost-ten-times-more-from-ai-than-gaming-but-margins-are-already-eroding-as-rivals-push-into-the-space/)
- - [Western Digital is back at it again, launching a speedy 1 TB SSD that will only set you back $80 straight out of the gate](https://www.pcgamer.com/hardware/ssds/western-digital-are-back-at-it-again-launching-a-speedy-1-tb-ssd-that-will-only-set-you-back-usd80-straight-out-of-the-gate/)<!-- GAME:END -->
+ - [Forget Prime Day, Amazon Crashes the Price of the 2025 iPad Air to a New All-Time Low](https://kotaku.com/forget-prime-day-amazon-crashes-the-price-of-the-2025-ipad-air-to-a-new-all-time-low-2000620915)
+ - [Kevin Spacey got &#39;a little weird&#39; on the set of Call of Duty: Advanced Warfare: &#39;We all had to fake laugh&#39;](https://www.pcgamer.com/games/call-of-duty/kevin-spacey-got-a-little-weird-on-the-set-of-call-of-duty-advanced-warfare-we-all-had-to-fake-laugh/)
+ - [Amazon Sells at a Loss, LEGO Star Wars Ahsoka T-6 Jedi Shuttle Reaches a New All-Time Low](https://kotaku.com/amazon-sells-at-a-loss-lego-star-wars-ahsoka-t-6-jedi-shuttle-reaches-a-new-all-time-low-2000620762)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
