@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - ⏩ [I wanted to cherchez la femme, but not her fault.](http://9gag.com/gag/aO8jVz3)
+ - 💣 [Dayum, women really hate break-ups before the year ends](http://9gag.com/gag/aGyoxmn)
+ - ⏩ [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
  - 👉 [I&#39;m paying no delivery... I can bring it home by myself](http://9gag.com/gag/azxBV4z)<!-- MEMES:END -->
 
 ---
