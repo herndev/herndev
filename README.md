@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
- - ⏩ [Just wait](http://9gag.com/gag/aByvYbz)
- - 👉 [Happy birthday to me](http://9gag.com/gag/a2vxmVD)<!-- MEMES:END -->
+ - 💣 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
+ - ⏩ [Man of culture with time travel machine.](http://9gag.com/gag/a7oG7ob)
+ - 👉 [THE MADMAN!](http://9gag.com/gag/aByvr6D)<!-- MEMES:END -->
 
 ---
 
