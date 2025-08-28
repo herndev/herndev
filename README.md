@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at India&#39;s quick commerce boom, driven by Blinkit, Zepto, and Instamart, which have collectively lost more than $1.4B in the past four years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p10#a250828p10)
- - [Lost Android phones will soon greet finders with a new warning screen &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-find-hub-new-lost-phone-warning-3592253/)
- - [How ChatGPT-powered companionship dolls from Hyodol are helping ease loneliness among older adults in South Korea, as the company aims for a US debut in 2026 &lpar;Michelle Kim/Rest of World&rpar;](http://www.techmeme.com/250828/p9#a250828p9)<!-- TECH:END -->
+ - [Samsung inches closer to stable One UI 8 on Galaxy S25 with sixth beta](https://www.androidauthority.com/galaxy-s25-one-ui-8-beta-6-3592286/)
+ - [Microsoft is expanding Xbox Cloud Gaming to Game Pass Core and Standard subscribers, dropping the Game Pass Ultimate requirement, and tests more PC game access &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250828/p13#a250828p13)
+ - [You can now ask Google Finance when Ethereum will hit its peak](https://www.androidauthority.com/google-finance-ai-page-testing-usa-3592257/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
