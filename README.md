@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for August 28 &lpar;#1531&rpar;](https://www.pcgamer.com/games/puzzle/todays-wordle-clues-hints-and-answer-for-august-28-1531/)
  - [The new John Carpenter game will absolutely stuff your screen with zombies](https://www.pcgamer.com/games/fps/toxic-commando-hands-on-preview/)
- - [Roblox makes unrated games inaccessible starting next month, has a plan for old favorites &#39;to ensure these cherished classics are not lost&#39;](https://www.pcgamer.com/games/roblox-makes-unrated-games-inaccessible-starting-next-month-has-a-plan-for-old-favorites-to-ensure-these-cherished-classics-are-not-lost/)
- - [Clair Obscur: Expedition 33 director adds another DLC teaser to the pile: &#39;We may be cooking&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-director-adds-another-dlc-teaser-to-the-pile-we-may-be-cooking/)<!-- GAME:END -->
+ - [Roblox makes unrated games inaccessible starting next month, has a plan for old favorites &#39;to ensure these cherished classics are not lost&#39;](https://www.pcgamer.com/games/roblox-makes-unrated-games-inaccessible-starting-next-month-has-a-plan-for-old-favorites-to-ensure-these-cherished-classics-are-not-lost/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
