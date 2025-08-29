@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shinobi: Art of Vengeance review: Sega&#39;s ninja franchise is back in a big way](https://www.polygon.com/shinobi-art-of-vengeance-review-sega-lizardcube/)
- - [Battlefield 6 Ultra system requirements have finally been revealed and you will need at least an RTX 4080 for this shooter to look its explosive best](https://www.pcgamer.com/hardware/battlefield-6-ultra-system-requirements-have-finally-been-revealed-and-you-will-need-at-least-an-rtx-4080-for-this-shooter-to-look-its-explosive-best/)
- - [Total War: Warhammer 3 finally playable now someone&#39;s modded in an entire crab empire faction with its own mechanics, lore, and enormous crustacean units](https://www.pcgamer.com/games/strategy/total-war-warhammer-3-finally-playable-now-someones-modded-in-an-entire-crab-empire-faction-with-its-own-mechanics-lore-and-enormous-crustacean-units/)<!-- GAME:END -->
+ - [This half-forgotten Troma movie, streaming free online, crosses a rare line](https://www.polygon.com/tubi-horror-movies-beware-children-at-play-troma/)
+ - [Lost Soul Aside launches today with free playable demo](https://blog.playstation.com/2025/08/29/lost-soul-aside-launches-today-with-free-playable-demo/)
+ - [Seagate’s Portable 2TB Hard Drive Is Just $5 More Than the 1TB, Almost Free Insurance Policy for Gamers](https://kotaku.com/seagates-portable-2tb-hard-drive-is-just-5-more-than-the-1tb-almost-free-insurance-policy-for-gamers-2000621088)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
