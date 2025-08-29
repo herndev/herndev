@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to redeem Destiny: Rising codes](https://www.pcgamer.com/games/fps/destiny-rising-codes/)
- - [RPG throws the ring of monetization into Mount Doom, drops gacha mechanics right before launch to avoid &#39;pay-to-win mechanics and forced spending as much as possible&#39;](https://www.pcgamer.com/games/rpg/rpg-throws-the-ring-of-monetization-into-mount-doom-drops-gacha-mechanics-right-before-launch-to-avoid-pay-to-win-mechanics-and-forced-spending-as-much-as-possible/)
- - [Dinolords blends action RPG combat and RTS battles in a medieval England overrun with dinosaurs, and surprisingly it&#39;s even cooler than that sounds](https://www.pcgamer.com/games/strategy/dinolords-blends-action-rpg-combat-and-rts-battles-in-a-medieval-england-overrun-with-dinosaurs-and-surprisingly-its-even-cooler-than-that-sounds/)<!-- GAME:END -->
+ - [Shinobi: Art of Vengeance review: Sega&#39;s ninja franchise is back in a big way](https://www.polygon.com/shinobi-art-of-vengeance-review-sega-lizardcube/)
+ - [Battlefield 6 Ultra system requirements have finally been revealed and you will need at least an RTX 4080 for this shooter to look its explosive best](https://www.pcgamer.com/hardware/battlefield-6-ultra-system-requirements-have-finally-been-revealed-and-you-will-need-at-least-an-rtx-4080-for-this-shooter-to-look-its-explosive-best/)
+ - [Total War: Warhammer 3 finally playable now someone&#39;s modded in an entire crab empire faction with its own mechanics, lore, and enormous crustacean units](https://www.pcgamer.com/games/strategy/total-war-warhammer-3-finally-playable-now-someones-modded-in-an-entire-crab-empire-faction-with-its-own-mechanics-lore-and-enormous-crustacean-units/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
