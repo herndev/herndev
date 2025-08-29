@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk: Edgerunners is finally making its way to Blu-ray, and you can pre-order it now](https://www.polygon.com/cyberpunk-edgerunners-blu-ray-release-date-crunchyroll/)
- - [Pokémon Legends: Z-A&#39;s entire mega evolution list leaked months ago](https://www.polygon.com/pokemon-legends-za-every-mega-evolution-starters-list-leak-switch-2/)
- - [EA And 2K Games Are Beefing Over NCAA College Basketball Exclusivity](https://kotaku.com/ea-college-basketball-ncaa-2k-hoops-ucla-2000621071)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for August 29 &lpar;#1532&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-29-2025/)
+ - [Space Marine 2 unveils a roadmap for its second year of updates including a new playable class, bosses, weapons, and more](https://www.pcgamer.com/games/action/space-marine-2-unveils-a-roadmap-for-its-second-year-of-updates-including-a-new-playable-class-bosses-weapons-and-more/)
+ - [Peacemaker just proved an old rule: the only good DC sidekicks are animals](https://www.polygon.com/peacemaker-season-2-episode-2-eagly-krypto/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
