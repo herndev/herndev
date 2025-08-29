@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
- - ⏩ [F**k around, find out.](http://9gag.com/gag/aByv1Az)
- - 👉 [OMG GREAT MMA FIGHT EVER](http://9gag.com/gag/aNDqAOv)<!-- MEMES:END -->
+ - 💣 [Hop on the pile ...](http://9gag.com/gag/aXPdqjd)
+ - ⏩ [Exactly.](http://9gag.com/gag/adBdqRB)
+ - 👉 [Morroco vs UK](http://9gag.com/gag/abAdpAX)<!-- MEMES:END -->
 
 ---
 
