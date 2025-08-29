@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pinocchio predicted use and abuse of boys](http://9gag.com/gag/a2vx5RZ)
- - ⏩ [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
- - 👉 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)<!-- MEMES:END -->
+ - 💣 [F**k around, find out.](http://9gag.com/gag/aByv1Az)
+ - ⏩ [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
+ - 👉 [What an asshole.](http://9gag.com/gag/aYQd4rO)<!-- MEMES:END -->
 
 ---
 
