@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OPs on 9gag. &lpar;If you have the sound on, turn it off&rpar;](http://9gag.com/gag/abAd66L)
+ - 💣 [Word pronunciation for non-English speakers](http://9gag.com/gag/aGyoe07)
  - ⏩ [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 👉 [Troll level: master](http://9gag.com/gag/amod2z4)<!-- MEMES:END -->
+ - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
 
 ---
 
