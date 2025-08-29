@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk files a motion to dismiss a US SEC suit over his 2022 Twitter stake disclosure, calling allegations that he cheated investors a government overreach &lpar;Nicola M White/Bloomberg&rpar;](http://www.techmeme.com/250829/p2#a250829p2)
- - [Court filing: the UK sought broad access to Apple user data, including bulk iCloud interception beyond ADP, and hasn&#39;t dropped the mandate as the US claimed &lpar;Financial Times&rpar;](http://www.techmeme.com/250829/p1#a250829p1)
- - [Sources: Pinecone, which provides an AI-compatible vector database, is exploring a sale after receiving takeover interest; Pinecone was valued at $750M in 2023 &lpar;The Information&rpar;](http://www.techmeme.com/250828/p44#a250828p44)<!-- TECH:END -->
+ - [The latest One UI 8 beta finally brings Now Brief to Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-8-beta-now-brief-3592619/)
+ - [Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250829/p3#a250829p3)
+ - [Dyson Promo Codes: 20% Off | September 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
