@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp flaw paired with iOS 18 exploit delivered zero-click spyware](https://appleinsider.com/articles/25/08/29/whatsapp-flaw-paired-with-ios-18-exploit-delivered-zero-click-spyware?utm_source=rss)
- - [The time to say goodbye to your Tizen OS smartwatch is almost here](https://www.androidauthority.com/samsung-tizen-os-support-ending-3592909/)
- - [Meta created and let users create flirty chatbots and intimate images using the names and likenesses of Taylor Swift and other celebs without their permission &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/250829/p30#a250829p30)<!-- TECH:END -->
+ - [Samsung Messages rolls out ‘Bubble Emoji’ to put some personality into your texts](https://www.androidauthority.com/samsung-messages-app-bubble-emoji-3592955/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 30, #341](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-30-341/#ftag=CAD590a51e)
+ - [Samsung Galaxy Tab S11 and Galaxy S25 FE leaks are getting even better as Unpacked looms](https://www.androidauthority.com/samsung-unpacked-leaks-3592946/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
