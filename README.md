@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hop on the pile ...](http://9gag.com/gag/aXPdqjd)
- - ⏩ [Exactly.](http://9gag.com/gag/adBdqRB)
- - 👉 [Morroco vs UK](http://9gag.com/gag/abAdpAX)<!-- MEMES:END -->
+ - 💣 [C. can&#39;t tell.](http://9gag.com/gag/aKGLVe6)
+ - ⏩ [Why not build car headlights from whatever the f**k this camera lens or shielding is made of](http://9gag.com/gag/aLnbMPM)
+ - 👉 [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)<!-- MEMES:END -->
 
 ---
 
