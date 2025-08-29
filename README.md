@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, she Hathaway with it...](http://9gag.com/gag/aByv8Kx)
- - ⏩ [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)
- - 👉 [So Rageful It\u2019s Actually Funny](http://9gag.com/gag/ae9d6AB)<!-- MEMES:END -->
+ - 💣 [Electric shock opportunity](http://9gag.com/gag/aGyo160)
+ - ⏩ [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)
+ - 👉 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)<!-- MEMES:END -->
 
 ---
 
