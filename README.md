@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo leaks show concept laptop with rotating display](https://www.theverge.com/news/767940/lenovo-rotating-display-laptop-concept-project-pivo-leak)
- - [UK iCloud data demand wanted far more than the world&#39;s Messages](https://appleinsider.com/articles/25/08/29/uk-icloud-data-demand-wanted-far-more-than-the-worlds-messages?utm_source=rss)
- - [The 11 Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)<!-- TECH:END -->
+ - [A judge rules Nvidia must face trial over allegations that it benefitted from autonomous driving data stolen by an engineer who defected from Valeo in 2021 &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250829/p11#a250829p11)
+ - [Insta360 Go Ultra Review: Better Video, but Bigger Package](https://www.wired.com/review/insta360-go-ultra/)
+ - [Blizzard’s Diablo team has unionized](https://www.theverge.com/news/767944/diablo-developers-form-union-blizzard-entertainment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
