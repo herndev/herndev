@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla asks court to toss wrongful death verdict that cost it $243 million](https://www.theverge.com/news/768068/tesla-wrongful-death-verdict-court-toss)
- - [Last call: Save up to $400 on these MacBook Pros](https://appleinsider.com/articles/25/08/29/last-call-save-up-to-400-on-these-macbook-pros?utm_source=rss)
- - [Apple taps into TikTok&#39;s sibling app Douyin to sell iPhones in China](https://appleinsider.com/articles/25/08/29/apple-taps-into-tiktoks-sibling-app-douyin-to-sell-iphones-in-china?utm_source=rss)<!-- TECH:END -->
+ - [If your iPhone buttons don&#39;t work, troubleshoot before you invent a conspiracy](https://appleinsider.com/articles/25/08/29/if-your-iphone-buttons-dont-work-troubleshoot-before-you-invent-a-conspiracy?utm_source=rss)
+ - [Google’s Expressive Clock redesign is already ticking people off &lpar;Update: Google response&rpar;](https://www.androidauthority.com/google-expressive-clock-redesign-flaws-3592176/)
+ - [French President Emmanuel Macron vows a strong response if any country takes measures that undermine Europe&#39;s digital sovereignty &lpar;Richard Bravo/Bloomberg&rpar;](http://www.techmeme.com/250829/p20#a250829p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
