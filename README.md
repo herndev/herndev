@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taco Bell, which deployed voice AI-powered ordering at 500+ drive-through locations, is now reconsidering the tech after viral videos of glitches and pranks &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250829/p27#a250829p27)
- - [Nothing Projector One review: Compact, smart, and budget-friendly](https://appleinsider.com/articles/25/08/29/nothing-projector-one-review-compact-smart-and-budget-friendly?utm_source=rss)
- - [Hot deal: Motorola Razr Plus 2025 plummets to new record-low price, saving you $550!](https://www.androidauthority.com/motorola-razr-plus-2025-deal-3-3592892/)<!-- TECH:END -->
+ - [The FCC rejects a proposal by broadcasters and others that would have imposed cable-style fees on streaming services, tech companies, and broadband providers &lpar;Matthew Keys/TheDesk.net&rpar;](http://www.techmeme.com/250829/p29#a250829p29)
+ - [TikTok is now letting everyone DM each other with voice memos and pictures](https://www.theverge.com/news/768245/tiktok-is-now-letting-everyone-dm-each-other-with-voice-memos-and-pictures)
+ - [Bose QuietComfort Ultra price finally drops again, saving you $50](https://www.androidauthority.com/bose-quietcomfort-ultra-deal-4-3592891/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
