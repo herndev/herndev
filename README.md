@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - ⏩ [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)
- - 👉 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)<!-- MEMES:END -->
+ - 💣 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
+ - ⏩ [F**k around, find out.](http://9gag.com/gag/aByv1Az)
+ - 👉 [OMG GREAT MMA FIGHT EVER](http://9gag.com/gag/aNDqAOv)<!-- MEMES:END -->
 
 ---
 
