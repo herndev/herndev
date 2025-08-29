@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This half-forgotten Troma movie, streaming free online, crosses a rare line](https://www.polygon.com/tubi-horror-movies-beware-children-at-play-troma/)
- - [Lost Soul Aside launches today with free playable demo](https://blog.playstation.com/2025/08/29/lost-soul-aside-launches-today-with-free-playable-demo/)
- - [Seagate’s Portable 2TB Hard Drive Is Just $5 More Than the 1TB, Almost Free Insurance Policy for Gamers](https://kotaku.com/seagates-portable-2tb-hard-drive-is-just-5-more-than-the-1tb-almost-free-insurance-policy-for-gamers-2000621088)<!-- GAME:END -->
+ - [Zero Parades preview: It&#39;s Disco Elysium 2.0, basically](https://www.polygon.com/zero-parades-gamescom-preview/)
+ - [Next Week on Xbox: New Games for September 1 to 5](https://news.xbox.com/en-us/2025/08/29/next-week-on-xbox-new-games-for-september-1-to-5/)
+ - [Claimed Sony PS6 handheld console specs promise a miracle of next-gen, cutting-edge processor architectures at a price that&#39;s barely enough for today&#39;s hardware](https://www.pcgamer.com/hardware/claimed-sony-ps6-handheld-console-specs-promise-a-miracle-of-next-gen-cutting-edge-processor-architectures-at-a-price-thats-barely-enough-for-todays-hardware/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
