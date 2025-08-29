@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A judge rules Nvidia must face trial over allegations that it benefitted from autonomous driving data stolen by an engineer who defected from Valeo in 2021 &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250829/p11#a250829p11)
- - [Insta360 Go Ultra Review: Better Video, but Bigger Package](https://www.wired.com/review/insta360-go-ultra/)
- - [Blizzard’s Diablo team has unionized](https://www.theverge.com/news/767944/diablo-developers-form-union-blizzard-entertainment)<!-- TECH:END -->
+ - [Steam users in the UK will need a credit card to access &amp;#8216;mature content&amp;#8217; games](https://www.theverge.com/news/767980/steam-uk-age-vertification-online-safety-act-credit-card-mature-games)
+ - [Reliance launches a subsidiary called Reliance Intelligence, aiming to create national-scale AI infrastructure in India, in partnership with Google and Meta &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250829/p13#a250829p13)
+ - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
