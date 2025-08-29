@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest One UI 8 beta finally brings Now Brief to Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-8-beta-now-brief-3592619/)
- - [Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250829/p3#a250829p3)
- - [Dyson Promo Codes: 20% Off | September 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Calling Pixel 10 owners! What do you think of your brand new phone?](https://www.androidauthority.com/pixel-10-owners-impressions-open-thread-3592672/)
+ - [An investigation finds spammers are deploying Holocaust-themed AI slop images across Facebook, in an attempt to game Meta&#39;s content monetization program &lpar;BBC&rpar;](http://www.techmeme.com/250829/p4#a250829p4)
+ - [Another Pixel app gets a splash of Material 3 Expressive design](https://www.androidauthority.com/pixel-sounds-material-3-expressive-design-3592643/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
