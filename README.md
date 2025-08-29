@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;1984&#39; Macintosh ad writer Steve Hayden dies aged 78](https://appleinsider.com/articles/25/08/29/1984-macintosh-ad-writer-steve-hayen-dies-aged-78?utm_source=rss)
- - [FEMA&#39;s Chaotic Summer Has Gone From Bad to Worse](https://www.wired.com/story/fema-funding-dhs-agency-punishment/)
- - [Turning KPop Demon Hunters into a franchise is going to take some smart strategizing](https://www.theverge.com/netflix/767180/kpop-demon-hunters-sequel-franchise-netflix)<!-- TECH:END -->
+ - [Tesla asks court to toss wrongful death verdict that cost it $243 million](https://www.theverge.com/news/768068/tesla-wrongful-death-verdict-court-toss)
+ - [Last call: Save up to $400 on these MacBook Pros](https://appleinsider.com/articles/25/08/29/last-call-save-up-to-400-on-these-macbook-pros?utm_source=rss)
+ - [Apple taps into TikTok&#39;s sibling app Douyin to sell iPhones in China](https://appleinsider.com/articles/25/08/29/apple-taps-into-tiktoks-sibling-app-douyin-to-sell-iphones-in-china?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
