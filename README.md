@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Messages rolls out ‘Bubble Emoji’ to put some personality into your texts](https://www.androidauthority.com/samsung-messages-app-bubble-emoji-3592955/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 30, #341](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-30-341/#ftag=CAD590a51e)
- - [Samsung Galaxy Tab S11 and Galaxy S25 FE leaks are getting even better as Unpacked looms](https://www.androidauthority.com/samsung-unpacked-leaks-3592946/)<!-- TECH:END -->
+ - [SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes](https://www.wired.com/story/charles-borges-resignation-email-disappearance/)
+ - [Top 100 AI consumer apps: Gemini ranks #2 behind ChatGPT on mobile with ~50% of its MAUs, with Grok at #4; on the web, Gemini has ~12% of ChatGPT&#39;s visits &lpar;Andreessen Horowitz&rpar;](http://www.techmeme.com/250829/p32#a250829p32)
+ - [Time to Save Up: iPhone 17 Pro Price Hike Appears Imminent, Says New Report](https://www.cnet.com/tech/mobile/time-to-save-up-iphone-17-pro-price-hike-appears-imminent-says-new-report/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
