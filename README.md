@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC rejects a proposal by broadcasters and others that would have imposed cable-style fees on streaming services, tech companies, and broadband providers &lpar;Matthew Keys/TheDesk.net&rpar;](http://www.techmeme.com/250829/p29#a250829p29)
- - [TikTok is now letting everyone DM each other with voice memos and pictures](https://www.theverge.com/news/768245/tiktok-is-now-letting-everyone-dm-each-other-with-voice-memos-and-pictures)
- - [Bose QuietComfort Ultra price finally drops again, saving you $50](https://www.androidauthority.com/bose-quietcomfort-ultra-deal-4-3592891/)<!-- TECH:END -->
+ - [WhatsApp flaw paired with iOS 18 exploit delivered zero-click spyware](https://appleinsider.com/articles/25/08/29/whatsapp-flaw-paired-with-ios-18-exploit-delivered-zero-click-spyware?utm_source=rss)
+ - [The time to say goodbye to your Tizen OS smartwatch is almost here](https://www.androidauthority.com/samsung-tizen-os-support-ending-3592909/)
+ - [Meta created and let users create flirty chatbots and intimate images using the names and likenesses of Taylor Swift and other celebs without their permission &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/250829/p30#a250829p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
