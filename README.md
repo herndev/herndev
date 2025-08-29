@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zero Parades preview: It&#39;s Disco Elysium 2.0, basically](https://www.polygon.com/zero-parades-gamescom-preview/)
- - [Next Week on Xbox: New Games for September 1 to 5](https://news.xbox.com/en-us/2025/08/29/next-week-on-xbox-new-games-for-september-1-to-5/)
- - [Claimed Sony PS6 handheld console specs promise a miracle of next-gen, cutting-edge processor architectures at a price that&#39;s barely enough for today&#39;s hardware](https://www.pcgamer.com/hardware/claimed-sony-ps6-handheld-console-specs-promise-a-miracle-of-next-gen-cutting-edge-processor-architectures-at-a-price-thats-barely-enough-for-todays-hardware/)<!-- GAME:END -->
+ - [Shinobi: Art of Vengeance – How the Passion of a French Studio Brought a Japanese Legend Back to Life](https://news.xbox.com/en-us/2025/08/29/shinobi-art-of-vengeance/)
+ - [Genshin Impact&#39;s studio is basically making a Pokémon game, and it looks great](https://www.polygon.com/genshin-impact-honkai-pokemon-game-nexus-anima-what-is-it/)
+ - [Hideo Kojima Says AI Will Be Just As Important To Games As The Leap To 3D](https://kotaku.com/hideo-kojima-ai-important-3d-ps6-portable-space-marine-last-of-us-2000621087)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
