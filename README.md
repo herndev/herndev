@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Exactly.](http://9gag.com/gag/adBdqRB)
- - ⏩ [Morroco vs UK](http://9gag.com/gag/abAdpAX)
- - 👉 [Real pros know](http://9gag.com/gag/aZZdmXW)<!-- MEMES:END -->
+ - 💣 [There&#39;s plenty in the site](http://9gag.com/gag/aAymdP2)
+ - ⏩ [Exactly.](http://9gag.com/gag/adBdqRB)
+ - 👉 [A real-life Minecraft compass?](http://9gag.com/gag/aByvWWA)<!-- MEMES:END -->
 
 ---
 
