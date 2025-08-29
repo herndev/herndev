@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - ⏩ [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
- - 👉 [Just a normal procedure](http://9gag.com/gag/aD2PGe7)<!-- MEMES:END -->
+ - ⏩ [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)
+ - 👉 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)<!-- MEMES:END -->
 
 ---
 
