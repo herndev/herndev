@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds iPhone-like &amp;#8216;Calling Cards&amp;#8217; to its Phone app](https://www.theverge.com/news/767895/android-google-phone-app-calling-card-rollou)
- - [I love the new Google Phone app, and a survey shows other Android users do too](https://www.androidauthority.com/i-love-new-google-phone-app-redesign-survey-results-3592446/)
- - [Google’s working on making it easier to find calls you’ve recorded &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-call-recordings-3592542/)<!-- TECH:END -->
+ - [Inside Apple&#39;s Numbers - how it compares to Microsoft Excel](https://appleinsider.com/inside/iwork/vs/inside-apples-numbers---how-it-compares-to-microsoft-excel?utm_source=rss)
+ - [Huawei reports H1 2025 revenue up 3.9% YoY to ~$58.5B, driven by soaring AI compute demand and a rebound in phone sales, and net profit down 32% YoY to ~$5.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250829/p6#a250829p6)
+ - [How Much Melatonin Should You Be Taking? &lpar;2025&rpar;](https://www.wired.com/story/how-much-melatonin-should-i-take/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
