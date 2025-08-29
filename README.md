@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There&#39;s plenty in the site](http://9gag.com/gag/aAymdP2)
- - ⏩ [Exactly.](http://9gag.com/gag/adBdqRB)
- - 👉 [A real-life Minecraft compass?](http://9gag.com/gag/aByvWWA)<!-- MEMES:END -->
+ - 💣 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
+ - ⏩ [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)
+ - 👉 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)<!-- MEMES:END -->
 
 ---
 
