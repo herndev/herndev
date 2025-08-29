@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - ⏩ [No pokerface](http://9gag.com/gag/avyD78W)
- - 👉 [CHECKMATE](http://9gag.com/gag/an7d13B)<!-- MEMES:END -->
+ - 💣 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
+ - ⏩ [Getting home with style](http://9gag.com/gag/aYQd4LV)
+ - 👉 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)<!-- MEMES:END -->
 
 ---
 
