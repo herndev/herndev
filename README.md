@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marvell reports Q2 revenue up 58% YoY to $2.01B, in line with estimates, and forecasts Q3 revenue at $2.06B, below $2.11B est.; MRVL drops 11%+ after hours &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250828/p43#a250828p43)
  - [While facial recognition tech remains unregulated at the US federal level, 23 states have passed or expanded laws to restrict mass scraping of biometric data &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250828/p42#a250828p42)
- - [Velotric Nomad 2 review: Find My &amp; Apple Health in a fat tire e-bike](https://appleinsider.com/articles/25/08/29/velotric-nomad-2-review-find-my-apple-health-in-a-fat-tire-e-bike?utm_source=rss)
- - [Autodesk reports Q2 revenue up 17% YoY to $1.76B, vs. $1.73B est., forecasts Q3 revenue above est., and raises its annual forecasts; ADSK jumps 10%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250828/p41#a250828p41)<!-- TECH:END -->
+ - [Velotric Nomad 2 review: Find My &amp; Apple Health in a fat tire e-bike](https://appleinsider.com/articles/25/08/29/velotric-nomad-2-review-find-my-apple-health-in-a-fat-tire-e-bike?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
