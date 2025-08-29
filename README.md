@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The &#39;greatest&#39; DnD adventure is still waiting for a 5e adaptation](https://www.polygon.com/dnd-dungeons-dragons-greatest-adventure-queen-of-spiders-5e-adaptation/)
- - [Share of the Week: Sword of the Sea](https://blog.playstation.com/2025/08/29/share-of-the-week-sword-of-the-sea/)
- - [&#39;There&#39;s no such thing as a laser-resistant weed&#39; says company employing dozens of Nvidia GPUs to fry weeds with lasers from above](https://www.pcgamer.com/hardware/theres-no-such-thing-as-a-laser-resistant-weed-says-company-employing-dozens-of-nvidia-gpus-to-fry-weeds-with-lasers-from-above/)<!-- GAME:END -->
+ - [Valve Now Requiring Steam Users Verify Their Age In The UK](https://kotaku.com/valve-now-requiring-steam-users-verify-their-age-in-the-uk-2000621392)
+ - [Supermassive Games is adding a new tool to its next horror game Directive 8020 that&#39;ll give players a &#39;second chance&#39; to save their favourite characters](https://www.pcgamer.com/games/horror/supermassive-games-is-adding-a-new-tool-to-its-next-horror-game-directive-8020-thatll-give-players-a-second-chance-to-save-their-favourite-characters/)
+ - [Highly intricate water blocks like this one may become the norm as server CPU power consumption soars, and could even trickle down into gaming PCs](https://www.pcgamer.com/hardware/cooling/highly-intricate-water-blocks-like-this-one-may-become-the-norm-as-server-cpu-power-consumption-soars-and-could-even-trickle-down-into-gaming-pcs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
