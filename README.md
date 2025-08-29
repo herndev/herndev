@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Electric shock opportunity](http://9gag.com/gag/aGyo160)
- - ⏩ [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)
- - 👉 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)<!-- MEMES:END -->
+ - 💣 [Pinocchio predicted use and abuse of boys](http://9gag.com/gag/a2vx5RZ)
+ - ⏩ [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
+ - 👉 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)<!-- MEMES:END -->
 
 ---
 
