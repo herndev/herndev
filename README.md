@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve Now Requiring Steam Users Verify Their Age In The UK](https://kotaku.com/valve-now-requiring-steam-users-verify-their-age-in-the-uk-2000621392)
- - [Supermassive Games is adding a new tool to its next horror game Directive 8020 that&#39;ll give players a &#39;second chance&#39; to save their favourite characters](https://www.pcgamer.com/games/horror/supermassive-games-is-adding-a-new-tool-to-its-next-horror-game-directive-8020-thatll-give-players-a-second-chance-to-save-their-favourite-characters/)
- - [Highly intricate water blocks like this one may become the norm as server CPU power consumption soars, and could even trickle down into gaming PCs](https://www.pcgamer.com/hardware/cooling/highly-intricate-water-blocks-like-this-one-may-become-the-norm-as-server-cpu-power-consumption-soars-and-could-even-trickle-down-into-gaming-pcs/)<!-- GAME:END -->
+ - [3 Game Pass games you need to play this weekend &lpar;Labor Day 2025&rpar;](https://www.polygon.com/game-pass-games-labor-day-weekend-aug-30-2025/)
+ - [Capcom Producer Laughed And Said No When Asked If Pragmata Is A Secret Mega Man Game](https://kotaku.com/capcom-pragmata-mega-man-conspiracy-theory-debunked-2000621414)
+ - [Everything James Gunn has declared new-DCU canon in Peacemaker](https://www.polygon.com/peacemaker-dcu-canon-james-gunn-zack-snyder-retcons/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
