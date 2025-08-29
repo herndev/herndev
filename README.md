@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [History memes](http://9gag.com/gag/aqyd1Kp)
- - ⏩ [Word pronunciation for non-English speakers](http://9gag.com/gag/aGyoe07)
- - 👉 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)<!-- MEMES:END -->
+ - 💣 [OPs on 9gag. &lpar;If you have the sound on, turn it off&rpar;](http://9gag.com/gag/abAd66L)
+ - ⏩ [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
+ - 👉 [Troll level: master](http://9gag.com/gag/amod2z4)<!-- MEMES:END -->
 
 ---
 
