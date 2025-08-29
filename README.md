@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CFTC says non-US crypto exchanges have a path to bringing on US users, in an advisory clarifying how they can register as so-called foreign boards of trade &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250828/p40#a250828p40)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 29, #340](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-29-340/#ftag=CAD590a51e)
- - [You Can Now Sign Up for Ad-Free Peacock Through Prime Video](https://www.cnet.com/tech/services-and-software/you-can-now-sign-up-for-ad-free-peacock-through-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [While facial recognition tech remains unregulated at the US federal level, 23 states have passed or expanded laws to restrict mass scraping of biometric data &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250828/p42#a250828p42)
+ - [Velotric Nomad 2 review: Find My &amp; Apple Health in a fat tire e-bike](https://appleinsider.com/articles/25/08/29/velotric-nomad-2-review-find-my-apple-health-in-a-fat-tire-e-bike?utm_source=rss)
+ - [Autodesk reports Q2 revenue up 17% YoY to $1.76B, vs. $1.73B est., forecasts Q3 revenue above est., and raises its annual forecasts; ADSK jumps 10%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250828/p41#a250828p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
