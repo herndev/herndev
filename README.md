@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple&#39;s Numbers - how it compares to Microsoft Excel](https://appleinsider.com/inside/iwork/vs/inside-apples-numbers---how-it-compares-to-microsoft-excel?utm_source=rss)
- - [Huawei reports H1 2025 revenue up 3.9% YoY to ~$58.5B, driven by soaring AI compute demand and a rebound in phone sales, and net profit down 32% YoY to ~$5.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250829/p6#a250829p6)
- - [How Much Melatonin Should You Be Taking? &lpar;2025&rpar;](https://www.wired.com/story/how-much-melatonin-should-i-take/)<!-- TECH:END -->
+ - [Lenovo leaks show concept laptop with rotating display](https://www.theverge.com/news/767940/lenovo-rotating-display-laptop-concept-project-pivo-leak)
+ - [UK iCloud data demand wanted far more than the world&#39;s Messages](https://appleinsider.com/articles/25/08/29/uk-icloud-data-demand-wanted-far-more-than-the-worlds-messages?utm_source=rss)
+ - [The 11 Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
