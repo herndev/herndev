@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k around, find out.](http://9gag.com/gag/aByv1Az)
- - ⏩ [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
- - 👉 [What an asshole.](http://9gag.com/gag/aYQd4rO)<!-- MEMES:END -->
+ - 💣 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - ⏩ [Word pronunciation for non-English speakers](http://9gag.com/gag/aGyoe07)
+ - 👉 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)<!-- MEMES:END -->
 
 ---
 
