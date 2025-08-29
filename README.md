@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shinobi: Art of Vengeance – How the Passion of a French Studio Brought a Japanese Legend Back to Life](https://news.xbox.com/en-us/2025/08/29/shinobi-art-of-vengeance/)
- - [Genshin Impact&#39;s studio is basically making a Pokémon game, and it looks great](https://www.polygon.com/genshin-impact-honkai-pokemon-game-nexus-anima-what-is-it/)
- - [Hideo Kojima Says AI Will Be Just As Important To Games As The Leap To 3D](https://kotaku.com/hideo-kojima-ai-important-3d-ps6-portable-space-marine-last-of-us-2000621087)<!-- GAME:END -->
+ - [The &#39;greatest&#39; DnD adventure is still waiting for a 5e adaptation](https://www.polygon.com/dnd-dungeons-dragons-greatest-adventure-queen-of-spiders-5e-adaptation/)
+ - [Share of the Week: Sword of the Sea](https://blog.playstation.com/2025/08/29/share-of-the-week-sword-of-the-sea/)
+ - [&#39;There&#39;s no such thing as a laser-resistant weed&#39; says company employing dozens of Nvidia GPUs to fry weeds with lasers from above](https://www.pcgamer.com/hardware/theres-no-such-thing-as-a-laser-resistant-weed-says-company-employing-dozens-of-nvidia-gpus-to-fry-weeds-with-lasers-from-above/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
