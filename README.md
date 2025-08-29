@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Word pronunciation for non-English speakers](http://9gag.com/gag/aGyoe07)
- - ⏩ [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
+ - 💣 [Gotta love Babylon Bee](http://9gag.com/gag/ayNzxBr)
+ - ⏩ [Well, she Hathaway with it...](http://9gag.com/gag/aByv8Kx)
+ - 👉 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)<!-- MEMES:END -->
 
 ---
 
