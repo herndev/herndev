@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft fires two more employees for participating in Palestine protests on campus](https://www.theverge.com/microsoft/767841/microsoft-fires-two-more-protesters-no-azure-for-apartheid)
- - [Fan made Lego iMac G3 needs 5000 votes for a slim chance of getting made](https://appleinsider.com/articles/25/08/28/fan-made-lego-imac-g3-needs-5000-votes-for-a-slim-chance-of-getting-made?utm_source=rss)
- - [Affirm reports Q4 revenue up 33% YoY to $876.4M, above $837M est., GMV up 43% to $10.4B, and EPS of $0.20, above $0.12 est.; AFRM jumps 13%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250828/p39#a250828p39)<!-- TECH:END -->
+ - [The CFTC says non-US crypto exchanges have a path to bringing on US users, in an advisory clarifying how they can register as so-called foreign boards of trade &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250828/p40#a250828p40)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 29, #340](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-29-340/#ftag=CAD590a51e)
+ - [You Can Now Sign Up for Ad-Free Peacock Through Prime Video](https://www.cnet.com/tech/services-and-software/you-can-now-sign-up-for-ad-free-peacock-through-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
