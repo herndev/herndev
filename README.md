@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2 players prepare for &#39;the coming war&#39; between pets as the devs add an infamous singing goblin troupe and a bird made to kill them](https://www.pcgamer.com/games/rpg/path-of-exile-2-players-prepare-for-the-coming-war-between-pets-as-the-devs-add-an-infamous-singing-goblin-troupe-and-a-bird-made-to-kill-them/)
- - [EA tells Battlefield Labs testers not to leak Battlefield 6&#39;s new big map, so of course they leaked it immediately](https://www.pcgamer.com/games/fps/ea-tells-battlefield-labs-testers-not-to-leak-battlefield-6s-new-big-maps-playtest-so-of-course-they-leaked-it-immediately/)
- - [Elijah Wood reveals his favorite videogames and the chill indies he&#39;s playing now on Steam Deck](https://www.pcgamer.com/games/elijah-wood-reveals-his-favorite-videogames-and-the-chill-indies-hes-playing-now-on-steam-deck/)<!-- GAME:END -->
+ - [To help speed up unlocking those Battlefield 6 items, Battlefield 2042 is turning on the double XP hose every weekend until the new game launches](https://www.pcgamer.com/games/fps/to-help-speed-up-unlocking-those-battlefield-6-items-battlefield-2042-is-turning-on-the-double-xp-hose-every-weekend-until-the-new-game-launches/)
+ - [NetEase closes studio founded by Ultima Online and Star Wars Galaxies veteran before it can release a single game](https://www.pcgamer.com/gaming-industry/netease-closes-studio-founded-by-ultima-online-and-star-wars-galaxies-veteran-before-it-can-release-a-single-game/)
+ - [Borderlands 4&#39;s new endgame mode will let you skip the campaign so you&#39;re ready for the next year of seasonal events and bosses](https://www.pcgamer.com/games/fps/borderlands-4s-new-endgame-mode-will-let-you-skip-the-campaign-so-youre-ready-for-the-next-year-of-seasonal-events-and-bosses/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
