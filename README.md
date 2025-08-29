@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [3 Game Pass games you need to play this weekend &lpar;Labor Day 2025&rpar;](https://www.polygon.com/game-pass-games-labor-day-weekend-aug-30-2025/)
- - [Capcom Producer Laughed And Said No When Asked If Pragmata Is A Secret Mega Man Game](https://kotaku.com/capcom-pragmata-mega-man-conspiracy-theory-debunked-2000621414)
- - [Everything James Gunn has declared new-DCU canon in Peacemaker](https://www.polygon.com/peacemaker-dcu-canon-james-gunn-zack-snyder-retcons/)<!-- GAME:END -->
+ - [Path of Exile 2 players prepare for &#39;the coming war&#39; between pets as the devs add an infamous singing goblin troupe and a bird made to kill them](https://www.pcgamer.com/games/rpg/path-of-exile-2-players-prepare-for-the-coming-war-between-pets-as-the-devs-add-an-infamous-singing-goblin-troupe-and-a-bird-made-to-kill-them/)
+ - [EA tells Battlefield Labs testers not to leak Battlefield 6&#39;s new big map, so of course they leaked it immediately](https://www.pcgamer.com/games/fps/ea-tells-battlefield-labs-testers-not-to-leak-battlefield-6s-new-big-maps-playtest-so-of-course-they-leaked-it-immediately/)
+ - [Elijah Wood reveals his favorite videogames and the chill indies he&#39;s playing now on Steam Deck](https://www.pcgamer.com/games/elijah-wood-reveals-his-favorite-videogames-and-the-chill-indies-hes-playing-now-on-steam-deck/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
