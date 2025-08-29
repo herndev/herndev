@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI sues a former employee in federal court in California for allegedly stealing Grok trade secrets and taking them to OpenAI, where he recently accepted a job &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250829/p23#a250829p23)
- - [Google just can’t stop reimagining how it wants Quick Share to work &lpar;APK teardown&rpar;](https://www.androidauthority.com/more-quick-share-changes-3592817/)
- - [iPhone 17 Pro rumors: Apple&#39;s best iPhones are about to get even better](https://appleinsider.com/articles/25/08/29/iphone-17-pro-rumors-apples-best-iphones-are-about-to-get-even-better?utm_source=rss)<!-- TECH:END -->
+ - [Taco Bell, which deployed voice AI-powered ordering at 500+ drive-through locations, is now reconsidering the tech after viral videos of glitches and pranks &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250829/p27#a250829p27)
+ - [Nothing Projector One review: Compact, smart, and budget-friendly](https://appleinsider.com/articles/25/08/29/nothing-projector-one-review-compact-smart-and-budget-friendly?utm_source=rss)
+ - [Hot deal: Motorola Razr Plus 2025 plummets to new record-low price, saving you $550!](https://www.androidauthority.com/motorola-razr-plus-2025-deal-3-3592892/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
