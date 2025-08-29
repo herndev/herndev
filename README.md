@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam users in the UK will need a credit card to access &amp;#8216;mature content&amp;#8217; games](https://www.theverge.com/news/767980/steam-uk-age-vertification-online-safety-act-credit-card-mature-games)
- - [Reliance launches a subsidiary called Reliance Intelligence, aiming to create national-scale AI infrastructure in India, in partnership with Google and Meta &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250829/p13#a250829p13)
- - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
+ - [&#39;1984&#39; Macintosh ad writer Steve Hayden dies aged 78](https://appleinsider.com/articles/25/08/29/1984-macintosh-ad-writer-steve-hayen-dies-aged-78?utm_source=rss)
+ - [FEMA&#39;s Chaotic Summer Has Gone From Bad to Worse](https://www.wired.com/story/fema-funding-dhs-agency-punishment/)
+ - [Turning KPop Demon Hunters into a franchise is going to take some smart strategizing](https://www.theverge.com/netflix/767180/kpop-demon-hunters-sequel-franchise-netflix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
