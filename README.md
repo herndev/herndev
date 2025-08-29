@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for August 29 &lpar;#1532&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-29-2025/)
- - [Space Marine 2 unveils a roadmap for its second year of updates including a new playable class, bosses, weapons, and more](https://www.pcgamer.com/games/action/space-marine-2-unveils-a-roadmap-for-its-second-year-of-updates-including-a-new-playable-class-bosses-weapons-and-more/)
- - [Peacemaker just proved an old rule: the only good DC sidekicks are animals](https://www.polygon.com/peacemaker-season-2-episode-2-eagly-krypto/)<!-- GAME:END -->
+ - [How to redeem Destiny: Rising codes](https://www.pcgamer.com/games/fps/destiny-rising-codes/)
+ - [RPG throws the ring of monetization into Mount Doom, drops gacha mechanics right before launch to avoid &#39;pay-to-win mechanics and forced spending as much as possible&#39;](https://www.pcgamer.com/games/rpg/rpg-throws-the-ring-of-monetization-into-mount-doom-drops-gacha-mechanics-right-before-launch-to-avoid-pay-to-win-mechanics-and-forced-spending-as-much-as-possible/)
+ - [Dinolords blends action RPG combat and RTS battles in a medieval England overrun with dinosaurs, and surprisingly it&#39;s even cooler than that sounds](https://www.pcgamer.com/games/strategy/dinolords-blends-action-rpg-combat-and-rts-battles-in-a-medieval-england-overrun-with-dinosaurs-and-surprisingly-its-even-cooler-than-that-sounds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
