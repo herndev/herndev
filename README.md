@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Calling Pixel 10 owners! What do you think of your brand new phone?](https://www.androidauthority.com/pixel-10-owners-impressions-open-thread-3592672/)
- - [An investigation finds spammers are deploying Holocaust-themed AI slop images across Facebook, in an attempt to game Meta&#39;s content monetization program &lpar;BBC&rpar;](http://www.techmeme.com/250829/p4#a250829p4)
- - [Another Pixel app gets a splash of Material 3 Expressive design](https://www.androidauthority.com/pixel-sounds-material-3-expressive-design-3592643/)<!-- TECH:END -->
+ - [Google adds iPhone-like &amp;#8216;Calling Cards&amp;#8217; to its Phone app](https://www.theverge.com/news/767895/android-google-phone-app-calling-card-rollou)
+ - [I love the new Google Phone app, and a survey shows other Android users do too](https://www.androidauthority.com/i-love-new-google-phone-app-redesign-survey-results-3592446/)
+ - [Google’s working on making it easier to find calls you’ve recorded &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-call-recordings-3592542/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
