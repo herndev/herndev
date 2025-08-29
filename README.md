@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If your iPhone buttons don&#39;t work, troubleshoot before you invent a conspiracy](https://appleinsider.com/articles/25/08/29/if-your-iphone-buttons-dont-work-troubleshoot-before-you-invent-a-conspiracy?utm_source=rss)
- - [Google’s Expressive Clock redesign is already ticking people off &lpar;Update: Google response&rpar;](https://www.androidauthority.com/google-expressive-clock-redesign-flaws-3592176/)
- - [French President Emmanuel Macron vows a strong response if any country takes measures that undermine Europe&#39;s digital sovereignty &lpar;Richard Bravo/Bloomberg&rpar;](http://www.techmeme.com/250829/p20#a250829p20)<!-- TECH:END -->
+ - [xAI sues a former employee in federal court in California for allegedly stealing Grok trade secrets and taking them to OpenAI, where he recently accepted a job &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250829/p23#a250829p23)
+ - [Google just can’t stop reimagining how it wants Quick Share to work &lpar;APK teardown&rpar;](https://www.androidauthority.com/more-quick-share-changes-3592817/)
+ - [iPhone 17 Pro rumors: Apple&#39;s best iPhones are about to get even better](https://appleinsider.com/articles/25/08/29/iphone-17-pro-rumors-apples-best-iphones-are-about-to-get-even-better?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
