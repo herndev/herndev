@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good guy cheetah](http://9gag.com/gag/arydKgX)
- - ⏩ [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)
- - 👉 [He couldn&#39;t find any other place to pray .](http://9gag.com/gag/aE0Q76M)<!-- MEMES:END -->
+ - 💣 [Hehehe](http://9gag.com/gag/aNDqn2A)
+ - ⏩ [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
+ - 👉 [Just a normal procedure](http://9gag.com/gag/aD2PGe7)<!-- MEMES:END -->
 
 ---
 
