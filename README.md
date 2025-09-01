@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony just locked one of the best Xperia features behind a paywall](https://www.androidauthority.com/sony-xperia-monitor-and-control-camera-3593061/)
- - [New Galaxy S26 Edge battery leak keeps piling on the bad news](https://www.androidauthority.com/samsung-galaxy-s26-edge-battery-upgrade-filing-3593060/)
- - [Hell Is Us is a cryptic and ambitious meditation on the horrors of war](https://www.theverge.com/games-review/767993/hell-is-us-review-ps5-xbox-steam)<!-- TECH:END -->
+ - [Silksong is only $19.99](https://www.theverge.com/news/768524/hollow-knight-silksong-pricing-release-timing)
+ - [AYN’s flagship gaming handheld confirms a massive screen upgrade](https://www.androidauthority.com/ayn-odin-3-screen-3593074/)
+ - [Q&amp;A with Cloudflare CEO Matthew Prince on why he thinks AI chatbots imperil the web and journalism&#39;s future, his company&#39;s pay-per-crawl initiative, and more &lpar;Fred Vogelstein/Crazy Stupid Tech&rpar;](http://www.techmeme.com/250901/p3#a250901p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
