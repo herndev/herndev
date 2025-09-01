@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some new Pixel 10 phones are failing with a screen of colorful snow](https://www.androidauthority.com/pixel-10-screen-snow-3593242/)
- - [Can you still get US Cellular? Yes, and there’s actually some decent deals](https://www.androidauthority.com/us-cellular-deals-sep-3590943/)
- - [Apple suppliers must invest in automation or face losing orders](https://appleinsider.com/articles/25/09/01/apple-suppliers-must-invest-in-automation-or-face-losing-orders?utm_source=rss)<!-- TECH:END -->
+ - [The 89 best Labor Day sales happening now](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+ - [Circle to Search could be adding new Translate options &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-circle-to-search-translate-changes-apk-teardown-3593270/)
+ - [Some new Pixel 10 phones are failing with a screen of colorful snow](https://www.androidauthority.com/pixel-10-screen-snow-3593242/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
