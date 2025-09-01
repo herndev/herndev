@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 89 best Labor Day sales happening now](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
- - [Circle to Search could be adding new Translate options &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-circle-to-search-translate-changes-apk-teardown-3593270/)
- - [Some new Pixel 10 phones are failing with a screen of colorful snow](https://www.androidauthority.com/pixel-10-screen-snow-3593242/)<!-- TECH:END -->
+ - [Tencent open sources translation models Hunyuan-MT-7B and Hunyuan-MT-Chimera-7B, which support 33 languages, claiming they beat established models in benchmarks &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/250901/p11#a250901p11)
+ - [Google debunks claims of major Gmail security alert](https://www.androidauthority.com/google-denies-mass-security-warning-gmail-3593297/)
+ - [The 95 best Labor Day sales happening now](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
