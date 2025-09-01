@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 has an annoying notification bug, but a fix is coming](https://www.androidauthority.com/google-notification-bug-android-16-3593042/)
- - [A profile of Chinese AI chip designer Cambricon, whose share price has doubled since the start of August, supported by Beijing&#39;s aims for tech self-sufficiency &lpar;Financial Times&rpar;](http://www.techmeme.com/250901/p1#a250901p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 1, #343](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-1-343/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hell Is Us is a cryptic and ambitious meditation on the horrors of war](https://www.theverge.com/games-review/767993/hell-is-us-review-ps5-xbox-steam)
+ - [Ports, price, performance, or support: What trumps all on a Google TV streaming box?](https://www.androidauthority.com/google-tv-box-open-thread-3593069/)
+ - [A survey of 1,047 US college students on GenAI: 55% use the tech for brainstorming ideas, 18% now question the value of college more than they used to, and more &lpar;Colleen Flaherty/Inside Higher Ed&rpar;](http://www.techmeme.com/250901/p2#a250901p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
