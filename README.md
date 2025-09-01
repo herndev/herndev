@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
- - ⏩ [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
+ - 💣 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
+ - ⏩ [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
+ - 👉 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)<!-- MEMES:END -->
 
 ---
 
