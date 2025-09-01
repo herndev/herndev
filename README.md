@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps may soon keep your navigation updates where you can’t lose them](https://www.androidauthority.com/google-maps-testing-live-updates-3593335/)
- - [Beats Studio Pro deal: $170 off, still the best Beats headphones](https://www.androidauthority.com/beats-studio-pro-deal-2-3593326/)
- - [Alibaba&#39;s shares jumped 19% in Hong Kong on Monday, following strong quarterly results from its cloud computing unit and reports of its new AI chip on Friday &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250901/p12#a250901p12)<!-- TECH:END -->
+ - [Ring Outdoor Cam Plus hits its record-low price at just $69.99!](https://www.androidauthority.com/ring-outdoor-cam-plus-deal-2-3593325/)
+ - [WLFI, the token of the Trump family&#39;s World Liberty Financial, falls 25% to about $0.21 on its first day of trading, giving it a market cap of around $6B &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250901/p13#a250901p13)
+ - [Google Maps may soon keep your navigation updates where you can’t lose them](https://www.androidauthority.com/google-maps-testing-live-updates-3593335/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
