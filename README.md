@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Blizzard filed a copyright infringement lawsuit against one of World of Warcraft&#39;s biggest private servers, but the team behind it is putting on a brave face: &#39;Challenges come to us often, and each time we are prepared to face them&#39;](https://www.pcgamer.com/games/world-of-warcraft/blizzard-filed-a-copyright-infringement-lawsuit-against-one-of-world-of-warcrafts-biggest-private-servers-but-the-team-behind-it-is-putting-on-a-brave-face-challenges-come-to-us-often-and-each-time-we-are-prepared-to-face-them/)
  - [Delays to escape the shadow of a launch like Silksong are about way more than just day 1 players: &#39;Every game has to fight and use whatever edge they&#39;ve got available to stay visible&#39;](https://www.pcgamer.com/gaming-industry/delays-to-escape-the-shadow-of-a-launch-like-silksong-are-about-way-more-than-just-day-1-players-every-game-has-to-fight-and-use-whatever-edge-theyve-got-available-to-stay-visible/)
- - [AI chatbots can be manipulated into breaking their own rules with simple debate tactics like telling them that an authority figure made the request](https://www.pcgamer.com/software/ai/ai-chatbots-can-be-manipulated-into-breaking-their-own-rules-with-simple-debate-tactics-like-telling-them-that-an-authority-figure-made-the-request/)
- - [Crusader Kings 3 players have struck out on nearly 5 million seduction attempts, but we still don&#39;t know how many Popes have been kidnapped](https://www.pcgamer.com/games/strategy/crusader-kings-3-players-have-struck-out-on-nearly-5-million-seduction-attempts-but-we-still-dont-know-how-many-popes-have-been-kidnapped/)<!-- GAME:END -->
+ - [AI chatbots can be manipulated into breaking their own rules with simple debate tactics like telling them that an authority figure made the request](https://www.pcgamer.com/software/ai/ai-chatbots-can-be-manipulated-into-breaking-their-own-rules-with-simple-debate-tactics-like-telling-them-that-an-authority-figure-made-the-request/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
