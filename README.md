@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;re like me and fell off Valve&#39;s other MOBA Deadlock, these last few months of updates are worth coming back for](https://www.pcgamer.com/games/moba/if-youre-like-me-and-fell-off-valves-other-moba-deadlock-these-last-few-months-of-updates-are-worth-coming-back-for/)
- - [2024&#39;s true GOTY was a Diablo-flavoured Vampire Survivors-like, and it just announced a big free update and an enormo-DLC](https://www.pcgamer.com/games/action/2024s-true-goty-was-a-diablo-flavoured-vampire-survivors-like-and-it-just-announced-a-big-free-update-and-an-enormo-dlc/)
- - [Samsung 990 EVO Plus SSD Practically Costs Nothing, the 2TB Model Works Out Cheaper Than Buying Two 1TBs](https://kotaku.com/samsung-990-evo-plus-ssd-practically-costs-nothing-the-2tb-model-works-out-cheaper-than-buying-two-1tbs-2000621430)<!-- GAME:END -->
+ - [Crusader Kings 3 players have struck out on nearly 5 million seduction attempts, but we still don&#39;t know how many Popes have been kidnapped](https://www.pcgamer.com/games/strategy/crusader-kings-3-players-have-struck-out-on-nearly-5-million-seduction-attempts-but-we-still-dont-know-how-many-popes-have-been-kidnapped/)
+ - [The Beginning Of Final Fantasy VII: Remake Wowed Me All Over Again On Switch 2](https://kotaku.com/ff7-switch-2-remake-framerate-final-fantasy-2000622094)
+ - [This 4-Pack of AirTags Is Selling for Pennies, Amazon Just Wants Them Off the Shelves](https://kotaku.com/this-4-pack-of-airtags-is-selling-for-pennies-amazon-just-wants-them-off-the-shelves-2000622093)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
