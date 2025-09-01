@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Lyft CEO David Risher on three consecutive profitable quarters, cofounders leaving the board, Freenow acquisition, the economics of robotaxis, and more &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250831/p13#a250831p13)
- - [41 Best Labor Day Sales on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-sales-deals-2025-1/)
- - [A new policy document authored by seven Chinese government departments outlines plans to create a globally competitive brain-computer interface industry by 2030 &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/250831/p12#a250831p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 1, #343](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-1-343/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Sept. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-sept-1/#ftag=CAD590a51e)
+ - [Q&amp;A with Lyft CEO David Risher on three consecutive profitable quarters, cofounders leaving the board, Freenow acquisition, the economics of robotaxis, and more &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250831/p13#a250831p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
