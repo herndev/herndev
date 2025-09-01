@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watch to the end](http://9gag.com/gag/aGyojL0)
- - ⏩ [Silicon Valley](http://9gag.com/gag/a9yVKDo)
- - 👉 [Oops..](http://9gag.com/gag/awy8XP8)<!-- MEMES:END -->
+ - 💣 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
+ - ⏩ [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
 
 ---
 
