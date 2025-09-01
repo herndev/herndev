@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve tested the best power stations, and these are my favorite ones of 2025](https://www.androidauthority.com/best-portable-power-stations-3590175/)
- - [Apple&#39;s new store expands Apple&#39;s support to a third location in India](https://appleinsider.com/articles/25/09/01/apples-new-store-expands-apples-support-to-a-third-location-in-india?utm_source=rss)
- - [Poll: Were you affected by Verizon’s service outage over the weekend?](https://www.androidauthority.com/poll-verizon-service-outage-3593103/)<!-- TECH:END -->
+ - [5 of the best new Android apps you need to try this September](https://www.androidauthority.com/best-new-android-apps-september-2025-3593157/)
+ - [Lenovo Legion Go 2 leak hints at promising upgrades with a hefty price bump](https://www.androidauthority.com/lenovo-legion-go-2-leaked-3593141/)
+ - [Leaker battle: iPhone Fold will not get under-screen Touch ID](https://appleinsider.com/articles/25/09/01/leaker-battle-iphone-fold-will-not-get-under-screen-touch-id?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
