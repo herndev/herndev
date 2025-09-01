@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ASUS TUF Gaming Motherboard Crashes to Lowest Price Yet for Labor Day, Already Flying Off Shelves](https://kotaku.com/asus-tuf-gaming-motherboard-crashes-to-lowest-price-yet-for-labor-day-already-flying-off-shelves-2000621393)
- - [The 20 most anticipated anime shows and movies of fall 2025](https://www.polygon.com/anime-fall-season-2025-preview-most-anticipated/)
- - [State of Play presents 007 First Light gameplay deep dive on September 3](https://blog.playstation.com/2025/09/01/state-of-play-presents-007-first-light-gameplay-deep-dive-on-september-3/)<!-- GAME:END -->
+ - [&#39;Legality is not the defining factor&#39;: Anti-porn group that pressured Steam and Itch.io adult game delistings says it goes after games it doesn&#39;t like &#39;even when they are not illegal&#39;](https://www.pcgamer.com/gaming-industry/legality-is-not-the-defining-factor-anti-porn-group-that-pressured-steam-and-itch-io-adult-game-delistings-says-itll-go-after-any-games-it-doesnt-like-even-when-they-are-not-illegal/)
+ - [9-Minutes Of Battlefield 6‘s Battle Royale Mode Just Leaked And It Looks Massive](https://kotaku.com/battlefield-6-battle-royale-leak-nintendo-direct-september-ff9-remaster-2000622058)
+ - [Forget Samsung Odyssey, Alienware Clears Out Its 34-Inch Curved Gaming Monitor at Prime Day Pricing for Labor Day](https://kotaku.com/forget-samsung-odyssey-alienware-clears-out-its-34-inch-curved-gaming-monitor-at-prime-day-pricing-for-labor-day-2000621410)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
