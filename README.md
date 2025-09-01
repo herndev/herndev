@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WLFI, the token of Trump&#39;s World Liberty Financial, begins trading at ~$0.30 with a market cap of ~$7.5B; ~24.67% of its 100B supply is in circulation at open &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250901/p8#a250901p8)
- - [The 79 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
- - [62 Best Labor Day Sales on Gear We&#39;ve Tested—Just a Few Hours Left](https://www.wired.com/story/best-labor-day-sales-deals-2025-2/)<!-- TECH:END -->
+ - [China&#39;s new AI content labeling law goes into effect, as part of a broad effort to address AI-related risks such as misinformation and copyright infringement &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250901/p10#a250901p10)
+ - [The most controversial OnePlus 15 rumor looks all but confirmed](https://www.androidauthority.com/oneplus-15-camera-imaging-engine-3593235/)
+ - [Internal memo: Revolut begins a secondary share sale for staffers at $1,381.06 per share, valuing Revolut at $75B, up from $45B in a 2024 secondary share sale &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250901/p9#a250901p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
