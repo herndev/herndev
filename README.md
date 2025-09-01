@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
- - ⏩ [*rant in British*](http://9gag.com/gag/a1mxQN2)
- - 👉 [Intense battle.](http://9gag.com/gag/a9yVprK)<!-- MEMES:END -->
+ - 💣 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
+ - ⏩ [That damn evil circadian rhythm..](http://9gag.com/gag/aAymgD9)
+ - 👉 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)<!-- MEMES:END -->
 
 ---
 
