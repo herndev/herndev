@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
- - ⏩ [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - 💣 [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - ⏩ [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
  - 👉 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)<!-- MEMES:END -->
 
 ---
