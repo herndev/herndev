@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silksong is only $19.99](https://www.theverge.com/news/768524/hollow-knight-silksong-pricing-release-timing)
- - [AYN’s flagship gaming handheld confirms a massive screen upgrade](https://www.androidauthority.com/ayn-odin-3-screen-3593074/)
- - [Q&amp;A with Cloudflare CEO Matthew Prince on why he thinks AI chatbots imperil the web and journalism&#39;s future, his company&#39;s pay-per-crawl initiative, and more &lpar;Fred Vogelstein/Crazy Stupid Tech&rpar;](http://www.techmeme.com/250901/p3#a250901p3)<!-- TECH:END -->
+ - [Is AI the end of software engineering or the next step in its evolution?](https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution)
+ - [Microsoft found a way to let you play YouTube in the background on Android, without Premium](https://www.androidauthority.com/microsoft-edge-youtube-background-playback-android-3593111/)
+ - [The AYN Odin 3 is officially the first Snapdragon 8 Elite gaming handheld](https://www.androidauthority.com/ayn-odin-3-snapdragon-8-elite-3593107/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
