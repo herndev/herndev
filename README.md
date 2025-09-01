@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We wanted to focus on performance&#39;: Battlefield 6 developer explains why EA is skipping ray tracing at launch](https://www.pcgamer.com/hardware/we-wanted-to-focus-on-performance-battlefield-6-developer-explains-why-ea-is-skipping-ray-tracing-at-launch/)
- - [How to find and use the Well of Souls in Path of Exile 2](https://www.pcgamer.com/games/rpg/path-of-exile-2-well-of-souls-location/)
- - [Hero ports entirety of Morrowind into Elden Ring, thumbs nose at &#39;Bethesda lawyers&#39; as steam presumably shoots out of their ears](https://www.pcgamer.com/games/rpg/hero-ports-entirety-of-morrowind-into-elden-ring-thumbs-nose-at-bethesda-lawyers-as-steam-presumably-shoots-out-of-their-ears/)<!-- GAME:END -->
+ - [ASUS TUF Gaming Motherboard Crashes to Lowest Price Yet for Labor Day, Already Flying Off Shelves](https://kotaku.com/asus-tuf-gaming-motherboard-crashes-to-lowest-price-yet-for-labor-day-already-flying-off-shelves-2000621393)
+ - [The 20 most anticipated anime shows and movies of fall 2025](https://www.polygon.com/anime-fall-season-2025-preview-most-anticipated/)
+ - [State of Play presents 007 First Light gameplay deep dive on September 3](https://blog.playstation.com/2025/09/01/state-of-play-presents-007-first-light-gameplay-deep-dive-on-september-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
