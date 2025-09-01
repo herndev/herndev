@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hell Is Us is a cryptic and ambitious meditation on the horrors of war](https://www.theverge.com/games-review/767993/hell-is-us-review-ps5-xbox-steam)
- - [Ports, price, performance, or support: What trumps all on a Google TV streaming box?](https://www.androidauthority.com/google-tv-box-open-thread-3593069/)
- - [A survey of 1,047 US college students on GenAI: 55% use the tech for brainstorming ideas, 18% now question the value of college more than they used to, and more &lpar;Colleen Flaherty/Inside Higher Ed&rpar;](http://www.techmeme.com/250901/p2#a250901p2)<!-- TECH:END -->
+ - [Sony just locked one of the best Xperia features behind a paywall](https://www.androidauthority.com/sony-xperia-monitor-and-control-camera-3593061/)
+ - [New Galaxy S26 Edge battery leak keeps piling on the bad news](https://www.androidauthority.com/samsung-galaxy-s26-edge-battery-upgrade-filing-3593060/)
+ - [Hell Is Us is a cryptic and ambitious meditation on the horrors of war](https://www.theverge.com/games-review/767993/hell-is-us-review-ps5-xbox-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
