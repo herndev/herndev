@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
- - ⏩ [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
- - 👉 [Apes together strong](http://9gag.com/gag/aMVWZXM)<!-- MEMES:END -->
+ - 💣 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
+ - ⏩ [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
 
 ---
 
