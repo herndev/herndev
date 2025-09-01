@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - ⏩ [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
- - 👉 [Osaka, today](http://9gag.com/gag/a9yVRyj)<!-- MEMES:END -->
+ - 💣 [You and I and everyone wishes](http://9gag.com/gag/aD2PgMx)
+ - ⏩ [`wE bUiLt tHis cIty`](http://9gag.com/gag/abAdG89)
+ - 👉 [What a legend](http://9gag.com/gag/apRdG7n)<!-- MEMES:END -->
 
 ---
 
