@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
- - ⏩ [Apes together strong](http://9gag.com/gag/aMVWZXM)
- - 👉 [That damn evil circadian rhythm..](http://9gag.com/gag/aAymgD9)<!-- MEMES:END -->
+ - 💣 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
+ - ⏩ [*rant in British*](http://9gag.com/gag/a1mxQN2)
+ - 👉 [Intense battle.](http://9gag.com/gag/a9yVprK)<!-- MEMES:END -->
 
 ---
 
