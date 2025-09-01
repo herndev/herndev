@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She ran like she had warrants](http://9gag.com/gag/amod5bd)
- - ⏩ [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
- - 👉 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)<!-- MEMES:END -->
+ - 💣 [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - ⏩ [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
+ - 👉 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)<!-- MEMES:END -->
 
 ---
 
