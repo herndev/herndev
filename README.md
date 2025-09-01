@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Legality is not the defining factor&#39;: Anti-porn group that pressured Steam and Itch.io adult game delistings says it goes after games it doesn&#39;t like &#39;even when they are not illegal&#39;](https://www.pcgamer.com/gaming-industry/legality-is-not-the-defining-factor-anti-porn-group-that-pressured-steam-and-itch-io-adult-game-delistings-says-itll-go-after-any-games-it-doesnt-like-even-when-they-are-not-illegal/)
- - [9-Minutes Of Battlefield 6‘s Battle Royale Mode Just Leaked And It Looks Massive](https://kotaku.com/battlefield-6-battle-royale-leak-nintendo-direct-september-ff9-remaster-2000622058)
- - [Forget Samsung Odyssey, Alienware Clears Out Its 34-Inch Curved Gaming Monitor at Prime Day Pricing for Labor Day](https://kotaku.com/forget-samsung-odyssey-alienware-clears-out-its-34-inch-curved-gaming-monitor-at-prime-day-pricing-for-labor-day-2000621410)<!-- GAME:END -->
+ - [If you&#39;re like me and fell off Valve&#39;s other MOBA Deadlock, these last few months of updates are worth coming back for](https://www.pcgamer.com/games/moba/if-youre-like-me-and-fell-off-valves-other-moba-deadlock-these-last-few-months-of-updates-are-worth-coming-back-for/)
+ - [2024&#39;s true GOTY was a Diablo-flavoured Vampire Survivors-like, and it just announced a big free update and an enormo-DLC](https://www.pcgamer.com/games/action/2024s-true-goty-was-a-diablo-flavoured-vampire-survivors-like-and-it-just-announced-a-big-free-update-and-an-enormo-dlc/)
+ - [Samsung 990 EVO Plus SSD Practically Costs Nothing, the 2TB Model Works Out Cheaper Than Buying Two 1TBs](https://kotaku.com/samsung-990-evo-plus-ssd-practically-costs-nothing-the-2tb-model-works-out-cheaper-than-buying-two-1tbs-2000621430)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
