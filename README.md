@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s new AI content labeling law goes into effect, as part of a broad effort to address AI-related risks such as misinformation and copyright infringement &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250901/p10#a250901p10)
- - [The most controversial OnePlus 15 rumor looks all but confirmed](https://www.androidauthority.com/oneplus-15-camera-imaging-engine-3593235/)
- - [Internal memo: Revolut begins a secondary share sale for staffers at $1,381.06 per share, valuing Revolut at $75B, up from $45B in a 2024 secondary share sale &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250901/p9#a250901p9)<!-- TECH:END -->
+ - [Some new Pixel 10 phones are failing with a screen of colorful snow](https://www.androidauthority.com/pixel-10-screen-snow-3593242/)
+ - [Can you still get US Cellular? Yes, and there’s actually some decent deals](https://www.androidauthority.com/us-cellular-deals-sep-3590943/)
+ - [Apple suppliers must invest in automation or face losing orders](https://appleinsider.com/articles/25/09/01/apple-suppliers-must-invest-in-automation-or-face-losing-orders?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
