@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MLS Season Pass drops to $25 for Apple TV+ subscribers](https://appleinsider.com/articles/25/09/01/mls-season-pass-drops-to-25-for-apple-tv-subscribers?utm_source=rss)
- - [Apple iPhone 17 event preview, Level Lock, and more on HomeKit Insider](https://appleinsider.com/articles/25/09/01/apple-iphone-17-event-preview-level-lock-and-more-on-homekit-insider?utm_source=rss)
- - [Source: G42 is talking to Google, AWS, Meta, Microsoft, and xAI to become tenants at its UAE-US AI Campus, and aims to diversify chip suppliers beyond Nvidia &lpar;Kelsey Warner/Semafor&rpar;](http://www.techmeme.com/250901/p7#a250901p7)<!-- TECH:END -->
+ - [The 79 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+ - [62 Best Labor Day Sales on Gear We&#39;ve Tested—Just a Few Hours Left](https://www.wired.com/story/best-labor-day-sales-deals-2025-2/)
+ - [YouTube TV just got a brand-new look on Android TV devices](https://www.androidauthority.com/youtube-tv-new-ui-rolling-out-3593165/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
