@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
- - ⏩ [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
- - 👉 [Towel head guy gets it. But we didn&#39;t want to listen. &lpar;Minister of foreign affairs of UAE&rpar;.](http://9gag.com/gag/azxB1GK)<!-- MEMES:END -->
+ - 💣 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
+ - ⏩ [Silicon Valley](http://9gag.com/gag/a9yVKDo)
+ - 👉 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)<!-- MEMES:END -->
 
 ---
 
