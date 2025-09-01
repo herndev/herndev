@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 16 has an annoying notification bug, but a fix is coming](https://www.androidauthority.com/google-notification-bug-android-16-3593042/)
  - [A profile of Chinese AI chip designer Cambricon, whose share price has doubled since the start of August, supported by Beijing&#39;s aims for tech self-sufficiency &lpar;Financial Times&rpar;](http://www.techmeme.com/250901/p1#a250901p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 1, #343](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-1-343/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Sept. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-sept-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 1, #343](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-1-343/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
