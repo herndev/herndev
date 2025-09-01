@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent open sources translation models Hunyuan-MT-7B and Hunyuan-MT-Chimera-7B, which support 33 languages, claiming they beat established models in benchmarks &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/250901/p11#a250901p11)
- - [Google debunks claims of major Gmail security alert](https://www.androidauthority.com/google-denies-mass-security-warning-gmail-3593297/)
- - [The 95 best Labor Day sales happening now](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)<!-- TECH:END -->
+ - [The best Labor Day TV sales](https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale)
+ - [Personal Safety is the latest Google app with a messed-up clock](https://www.androidauthority.com/personal-safety-clock-3593304/)
+ - [The 28 best Labor Day deals you still can grab for $100 or less](https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
