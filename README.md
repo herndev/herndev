@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [To help speed up unlocking those Battlefield 6 items, Battlefield 2042 is turning on the double XP hose every weekend until the new game launches](https://www.pcgamer.com/games/fps/to-help-speed-up-unlocking-those-battlefield-6-items-battlefield-2042-is-turning-on-the-double-xp-hose-every-weekend-until-the-new-game-launches/)
- - [NetEase closes studio founded by Ultima Online and Star Wars Galaxies veteran before it can release a single game](https://www.pcgamer.com/gaming-industry/netease-closes-studio-founded-by-ultima-online-and-star-wars-galaxies-veteran-before-it-can-release-a-single-game/)
- - [Borderlands 4&#39;s new endgame mode will let you skip the campaign so you&#39;re ready for the next year of seasonal events and bosses](https://www.pcgamer.com/games/fps/borderlands-4s-new-endgame-mode-will-let-you-skip-the-campaign-so-youre-ready-for-the-next-year-of-seasonal-events-and-bosses/)<!-- GAME:END -->
+ - [The Blood Ravens&#39; Chapter Master Gabriel Angelos won&#39;t be in Dawn of War 4 so it can focus on relatively &#39;normal&#39; heroes instead](https://www.pcgamer.com/games/strategy/the-blood-ravens-chapter-master-gabriel-angelos-wont-be-in-dawn-of-war-4-so-it-can-focus-on-relatively-normal-heroes-instead/)
+ - [Pokémon Go Max Monday and Max Battle schedule for September 2025](https://www.polygon.com/pokemon-go-guide/458543/max-battle-schedule-dynamax/)
+ - [Pokémon Go Ditto disguises list for September 2025](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
