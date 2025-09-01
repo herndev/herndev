@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Min spec is certainly one of our most important&#39;: Battlefield 6 dev says low-end build players were a &#39;meaningful percentage&#39; of the beta, and he aims to keep it that way](https://www.pcgamer.com/games/fps/min-spec-is-certainly-one-of-our-most-important-battlefield-6-dev-says-low-end-build-players-were-a-meaningful-percentage-of-the-beta-and-he-aims-to-keep-it-that-way/)
- - [REPO has announced its next update, but we actually have a date this time, rather than a series of videos to slowly announce it](https://www.pcgamer.com/games/horror/repo-has-announced-its-next-update-but-we-actually-have-a-date-this-time-rather-than-a-series-of-videos-to-slowly-announce-it/)
- - [&#39;The Copper Age&#39; marks the 3rd game drop for Minecraft this year, and according to the announcement post &#39;It&#39;s almost like we&#39;re entering a new Minecraft era&#39;](https://www.pcgamer.com/games/survival-crafting/the-copper-age-marks-the-3rd-game-drop-for-minecraft-this-year-and-according-to-the-announcement-post-its-almost-like-were-entering-a-new-minecraft-era/)<!-- GAME:END -->
+ - [&#39;We wanted to focus on performance&#39;: Battlefield 6 developer explains why EA is skipping ray tracing at launch](https://www.pcgamer.com/hardware/we-wanted-to-focus-on-performance-battlefield-6-developer-explains-why-ea-is-skipping-ray-tracing-at-launch/)
+ - [How to find and use the Well of Souls in Path of Exile 2](https://www.pcgamer.com/games/rpg/path-of-exile-2-well-of-souls-location/)
+ - [Hero ports entirety of Morrowind into Elden Ring, thumbs nose at &#39;Bethesda lawyers&#39; as steam presumably shoots out of their ears](https://www.pcgamer.com/games/rpg/hero-ports-entirety-of-morrowind-into-elden-ring-thumbs-nose-at-bethesda-lawyers-as-steam-presumably-shoots-out-of-their-ears/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
