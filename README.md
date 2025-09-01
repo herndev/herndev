@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes](https://www.wired.com/story/charles-borges-resignation-email-disappearance/)
- - [Top 100 AI consumer apps: Gemini ranks #2 behind ChatGPT on mobile with ~50% of its MAUs, with Grok at #4; on the web, Gemini has ~12% of ChatGPT&#39;s visits &lpar;Andreessen Horowitz&rpar;](http://www.techmeme.com/250829/p32#a250829p32)
- - [Time to Save Up: iPhone 17 Pro Price Hike Appears Imminent, Says New Report](https://www.cnet.com/tech/mobile/time-to-save-up-iphone-17-pro-price-hike-appears-imminent-says-new-report/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [41 Best Labor Day Sales on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-sales-deals-2025-1/)
+ - [A new policy document authored by seven Chinese government departments outlines plans to create a globally competitive brain-computer interface industry by 2030 &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/250831/p12#a250831p12)
+ - [Best Labor Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
