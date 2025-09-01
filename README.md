@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Labor Day TV sales](https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale)
- - [Personal Safety is the latest Google app with a messed-up clock](https://www.androidauthority.com/personal-safety-clock-3593304/)
- - [The 28 best Labor Day deals you still can grab for $100 or less](https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025)<!-- TECH:END -->
+ - [Google Maps may soon keep your navigation updates where you can’t lose them](https://www.androidauthority.com/google-maps-testing-live-updates-3593335/)
+ - [Beats Studio Pro deal: $170 off, still the best Beats headphones](https://www.androidauthority.com/beats-studio-pro-deal-2-3593326/)
+ - [Alibaba&#39;s shares jumped 19% in Hong Kong on Monday, following strong quarterly results from its cloud computing unit and reports of its new AI chip on Friday &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250901/p12#a250901p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
