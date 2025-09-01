@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is AI the end of software engineering or the next step in its evolution?](https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution)
- - [Microsoft found a way to let you play YouTube in the background on Android, without Premium](https://www.androidauthority.com/microsoft-edge-youtube-background-playback-android-3593111/)
- - [The AYN Odin 3 is officially the first Snapdragon 8 Elite gaming handheld](https://www.androidauthority.com/ayn-odin-3-snapdragon-8-elite-3593107/)<!-- TECH:END -->
+ - [I’ve tested the best power stations, and these are my favorite ones of 2025](https://www.androidauthority.com/best-portable-power-stations-3590175/)
+ - [Apple&#39;s new store expands Apple&#39;s support to a third location in India](https://appleinsider.com/articles/25/09/01/apples-new-store-expands-apples-support-to-a-third-location-in-india?utm_source=rss)
+ - [Poll: Were you affected by Verizon’s service outage over the weekend?](https://www.androidauthority.com/poll-verizon-service-outage-3593103/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
