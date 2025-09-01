@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Blood Ravens&#39; Chapter Master Gabriel Angelos won&#39;t be in Dawn of War 4 so it can focus on relatively &#39;normal&#39; heroes instead](https://www.pcgamer.com/games/strategy/the-blood-ravens-chapter-master-gabriel-angelos-wont-be-in-dawn-of-war-4-so-it-can-focus-on-relatively-normal-heroes-instead/)
- - [Pokémon Go Max Monday and Max Battle schedule for September 2025](https://www.polygon.com/pokemon-go-guide/458543/max-battle-schedule-dynamax/)
- - [Pokémon Go Ditto disguises list for September 2025](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny/)<!-- GAME:END -->
+ - [&#39;Min spec is certainly one of our most important&#39;: Battlefield 6 dev says low-end build players were a &#39;meaningful percentage&#39; of the beta, and he aims to keep it that way](https://www.pcgamer.com/games/fps/min-spec-is-certainly-one-of-our-most-important-battlefield-6-dev-says-low-end-build-players-were-a-meaningful-percentage-of-the-beta-and-he-aims-to-keep-it-that-way/)
+ - [REPO has announced its next update, but we actually have a date this time, rather than a series of videos to slowly announce it](https://www.pcgamer.com/games/horror/repo-has-announced-its-next-update-but-we-actually-have-a-date-this-time-rather-than-a-series-of-videos-to-slowly-announce-it/)
+ - [&#39;The Copper Age&#39; marks the 3rd game drop for Minecraft this year, and according to the announcement post &#39;It&#39;s almost like we&#39;re entering a new Minecraft era&#39;](https://www.pcgamer.com/games/survival-crafting/the-copper-age-marks-the-3rd-game-drop-for-minecraft-this-year-and-according-to-the-announcement-post-its-almost-like-were-entering-a-new-minecraft-era/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
