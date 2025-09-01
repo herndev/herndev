@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
- - ⏩ [Getting home with style](http://9gag.com/gag/aYQd4LV)
- - 👉 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)<!-- MEMES:END -->
+ - 💣 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
+ - ⏩ [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - 👉 [That damn evil circadian rhythm..](http://9gag.com/gag/aAymgD9)<!-- MEMES:END -->
 
 ---
 
