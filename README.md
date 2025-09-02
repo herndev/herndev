@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Small, fast, and colorful: The E-Ink tablet you’ve been waiting for might arrive tomorrow](https://www.androidauthority.com/remarkable-paper-pro-move-leak-3593301/)
- - [UK-based Phasecraft, which develops algorithms for quantum computers, raised a $34M Series B co-led by Plural, Playground Global, and Novo Holdings &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/250902/p1#a250902p1)
- - [YouTube is coming for your shared Premium account, just like Netflix did](https://www.androidauthority.com/youtube-premium-family-plan-restrictions-3593400/)<!-- TECH:END -->
+ - [Galaxy Z Fold 5, Flip 5 owners are get their first taste of One UI 8](https://www.androidauthority.com/samsung-one-ui-8-beta-z-fold-flip-5-3593404/)
+ - [Your Android phone will soon backup and restore some very important settings](https://www.androidauthority.com/android-theft-protection-backup-restore-3593412/)
+ - [Marc Benioff says Salesforce has cut its support staff from 9,000 to ~5,000 in the past year after deploying AI agents to handle a growing share of its work &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/250902/p2#a250902p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
