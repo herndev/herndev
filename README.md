@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google gets to keep Chrome, judge rules in search antitrust case](https://www.theverge.com/policy/717087/google-search-remedies-ruling-chrome)
- - [US v. Google: a judge rules that Google can keep Chrome and Android but can&#39;t have exclusive search deals and must share search data; GOOG jumps 6%+ after hours &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250902/p34#a250902p34)
- - [Silksong: all of the updates about the Hollow Knight sequel](https://www.theverge.com/news/769489/hollow-knight-silksong-news-updates)<!-- TECH:END -->
+ - [Google&#39;s antitrust case ruling leaves Apple deal untouched](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)
+ - [Beats Studio Pro, Solo Buds, and Solo 4 could receive new color options](https://appleinsider.com/articles/25/09/02/beats-studio-pro-solo-buds-and-solo-4-could-receive-new-color-options?utm_source=rss)
+ - [Join Us for WIRED’s “Uncanny Valley” Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
