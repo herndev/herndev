@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insane post nut clarity 😭😭](https://www.reddit.com/r/funny/comments/1n6bnp3/insane_post_nut_clarity/)
- - ⏩ [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 👉 [Every single time](http://9gag.com/gag/adBdVLj)<!-- MEMES:END -->
+ - 💣 [Good use of free will](http://9gag.com/gag/avyD57d)
+ - ⏩ [What a legend](http://9gag.com/gag/apRdG7n)
+ - 👉 [The generation traumatized by holding a flashlight for their dad will soon come to an end.](http://9gag.com/gag/an7d4L0)<!-- MEMES:END -->
 
 ---
 
