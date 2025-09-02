@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hope your okay](http://9gag.com/gag/adBdVj2)
- - ⏩ [That `i know the truth` person](http://9gag.com/gag/arydoDp)
- - 👉 [History lesson](http://9gag.com/gag/an7d5qV)<!-- MEMES:END -->
+ - 💣 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
+ - ⏩ [Welp...](http://9gag.com/gag/azxBM7x)
+ - 👉 [Do your job](http://9gag.com/gag/aByvmYz)<!-- MEMES:END -->
 
 ---
 
