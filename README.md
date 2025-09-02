@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
- - ⏩ [Welp...](http://9gag.com/gag/azxBM7x)
- - 👉 [Do your job](http://9gag.com/gag/aByvmYz)<!-- MEMES:END -->
+ - 💣 [Insane post nut clarity 😭😭](https://www.reddit.com/r/funny/comments/1n6bnp3/insane_post_nut_clarity/)
+ - ⏩ [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 👉 [Every single time](http://9gag.com/gag/adBdVLj)<!-- MEMES:END -->
 
 ---
 
