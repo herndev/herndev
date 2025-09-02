@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold 2026 rumored with lighter Apple Vision Air in 2027](https://appleinsider.com/articles/25/09/02/iphone-fold-2026-rumored-with-lighter-apple-vision-air-in-2027?utm_source=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Microsoft gave Perfect Dark’s developers a chance to save the game — after it was already canceled](https://www.theverge.com/news/769372/microsoft-perfect-dark-revival-take-two-deal)<!-- TECH:END -->
+ - [How the Democrats keep copying the MAGA influencer playbook &lpar;and failing&rpar;](https://www.theverge.com/regulator-newsletter/769232/democrats-chorus-influencer-program-regulator)
+ - [Trump is moving Space Command to Alabama](https://www.theverge.com/news/769475/trump-space-command-alabama-headquarters)
+ - [The tariff apocalypse is here](https://www.theverge.com/analysis/769427/trump-tariffs-online-shopping-shipping-suspended-de-minimis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
