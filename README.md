@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 💣 [That `i know the truth` person](http://9gag.com/gag/arydoDp)
  - ⏩ [History lesson](http://9gag.com/gag/an7d5qV)
- - 👉 [Welp...](http://9gag.com/gag/azxBM7x)<!-- MEMES:END -->
+ - 👉 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)<!-- MEMES:END -->
 
 ---
 
