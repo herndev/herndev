@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That `i know the truth` person](http://9gag.com/gag/arydoDp)
- - ⏩ [History lesson](http://9gag.com/gag/an7d5qV)
- - 👉 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)<!-- MEMES:END -->
+ - 💣 [I hope your okay](http://9gag.com/gag/adBdVj2)
+ - ⏩ [That `i know the truth` person](http://9gag.com/gag/arydoDp)
+ - 👉 [History lesson](http://9gag.com/gag/an7d5qV)<!-- MEMES:END -->
 
 ---
 
