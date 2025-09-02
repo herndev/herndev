@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2′s New Very Scary Mega Worm Has Been Killed, But It Took 10 Nukes](https://kotaku.com/helldivers-2-hive-lord-mega-worm-killed-update-nukes-ps5-xbox-2000622473)
- - [Saudi Arabia ‘Sportswashing’ Takes Aim At The Biggest Fighting Game Tournament Of The Year](https://kotaku.com/evo-saudi-arabia-street-fighter-6-sony-esports-2000622367)
- - [Randy Pitchford says the Borderlands film would&#39;ve sucked a whole lot more if he&#39;d directed it: &#39;It would have been way worse&#39;](https://www.pcgamer.com/movies-tv/randy-pitchford-says-the-borderlands-film-wouldve-sucked-a-whole-lot-more-if-hed-directed-it-it-would-have-been-way-worse/)<!-- GAME:END -->
+ - [The Crew is set to spring back to life as fan-made server emulator project prepares to launch later this month](https://www.pcgamer.com/games/racing/the-crew-is-set-to-spring-back-to-life-as-fan-made-server-emulator-project-prepares-to-launch-later-this-month/)
+ - [Zach Cregger hints at the setting and tone of his 2026 Resident Evil movie](https://www.polygon.com/resident-evil-2026-movie-zach-cregger/)
+ - [Helldivers 2′s New Very Scary Mega Worm Has Been Killed, But It Took 10 Nukes](https://kotaku.com/helldivers-2-hive-lord-mega-worm-killed-update-nukes-ps5-xbox-2000622473)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
