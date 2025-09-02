@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
- - ⏩ [Sex for rent? I&#39;m pretty sure there is already a name for that.](http://9gag.com/gag/aMVWYP6)
- - 👉 [Every single time](http://9gag.com/gag/adBdVLj)<!-- MEMES:END -->
+ - 💣 [He thought he was tough](http://9gag.com/gag/aLnbpAz)
+ - ⏩ [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
+ - 👉 [I hope lizard bro is ok](http://9gag.com/gag/azxBMYB)<!-- MEMES:END -->
 
 ---
 
