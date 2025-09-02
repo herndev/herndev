@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can charge your Apple Watch, phone, and laptop all at once with this 240W USB-C cable](https://www.theverge.com/news/769123/zens-usb-c-charging-cable-pro-2-3-240w)
- - [Google’s fan-favorite Ambient EQ feature makes a return on the Pixel 10](https://www.androidauthority.com/pixel-10-adaptive-tone-3593626/)
- - [iPhone 17 price hikes may be minimal despite U.S. tariffs](https://appleinsider.com/articles/25/09/02/iphone-17-price-hikes-may-be-minimal-despite-us-tariffs?utm_source=rss)<!-- TECH:END -->
+ - [Google is changing how Extra Dim works on the Pixel 10, and it’s so much better](https://www.androidauthority.com/pixel-10-extra-dim-toggle-3593673/)
+ - [Uber Eats partners with Best Buy to deliver your tech](https://www.theverge.com/news/769183/uber-eats-best-buy-partnership-deliveries)
+ - [WordPress showed off Telex, its experimental AI development tool, at WordCamp US; CEO Matt Mullenweg called it &quot;V0 or Lovable, but specifically for WordPress&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250902/p27#a250902p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
