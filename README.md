@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trade in your old iPhone and grab a 10% cash bonus ahead of the iPhone 17](https://appleinsider.com/articles/25/09/02/trade-in-your-old-iphone-and-grab-a-10-cash-bonus-ahead-of-the-iphone-17?utm_source=rss)
- - [Blockchain-based lender Figure plans to sell 26.3M shares priced between $18 and $20 to raise up to $526.3M in its US IPO, targeting a valuation of ~$4.13B &lpar;Reuters&rpar;](http://www.techmeme.com/250902/p22#a250902p22)
- - [The 71 best Labor Day deals you can still get](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)<!-- TECH:END -->
+ - [You can charge your Apple Watch, phone, and laptop all at once with this 240W USB-C cable](https://www.theverge.com/news/769123/zens-usb-c-charging-cable-pro-2-3-240w)
+ - [Google’s fan-favorite Ambient EQ feature makes a return on the Pixel 10](https://www.androidauthority.com/pixel-10-adaptive-tone-3593626/)
+ - [iPhone 17 price hikes may be minimal despite U.S. tariffs](https://appleinsider.com/articles/25/09/02/iphone-17-price-hikes-may-be-minimal-despite-us-tariffs?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
