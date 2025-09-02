@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
- - ⏩ [Happy ending](http://9gag.com/gag/a5QxENV)
- - 👉 [Furlong](http://9gag.com/gag/aVvd7GK)<!-- MEMES:END -->
+ - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
+ - ⏩ [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 👉 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)<!-- MEMES:END -->
 
 ---
 
