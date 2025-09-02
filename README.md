@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never trust, never believe, never commit](http://9gag.com/gag/awy8oD4)
- - ⏩ [You underestimate my power](http://9gag.com/gag/axyA96M)
- - 👉 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)<!-- MEMES:END -->
+ - 💣 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
+ - ⏩ [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 👉 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)<!-- MEMES:END -->
 
 ---
 
