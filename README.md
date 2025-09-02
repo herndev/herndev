@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is coming for your shared Premium account, just like Netflix did](https://www.androidauthority.com/youtube-premium-family-plan-restrictions-3593400/)
- - [Pixel 10 Pro XL proves its got the strength to match its software update promise](https://www.androidauthority.com/google-pixel-10-pro-xl-durability-test-3593396/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Small, fast, and colorful: The E-Ink tablet you’ve been waiting for might arrive tomorrow](https://www.androidauthority.com/remarkable-paper-pro-move-leak-3593301/)
+ - [UK-based Phasecraft, which develops algorithms for quantum computers, raised a $34M Series B co-led by Plural, Playground Global, and Novo Holdings &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/250902/p1#a250902p1)
+ - [YouTube is coming for your shared Premium account, just like Netflix did](https://www.androidauthority.com/youtube-premium-family-plan-restrictions-3593400/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
