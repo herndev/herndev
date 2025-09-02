@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He thought he was tough](http://9gag.com/gag/aLnbpAz)
- - ⏩ [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
- - 👉 [I hope lizard bro is ok](http://9gag.com/gag/azxBMYB)<!-- MEMES:END -->
+ - 💣 [Never trust, never believe, never commit](http://9gag.com/gag/awy8oD4)
+ - ⏩ [You underestimate my power](http://9gag.com/gag/axyA96M)
+ - 👉 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)<!-- MEMES:END -->
 
 ---
 
