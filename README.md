@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview with Lovable CEO Anton Osika on competition, staying in Europe, and more; the company now has 2.3M+ active users, including 180K paying subscribers &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250901/p16#a250901p16)
  - [LaserPecker LP5 review: Expensive but solid laser engraving](https://appleinsider.com/articles/25/09/02/laserpecker-lp5-review-expensive-but-solid-laser-engraving?utm_source=rss)
- - [All new Samsung foldables are on sale; save up to $300!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-z-flip-7-fe-deals-3593324/)
- - [TrendForce: global chip foundry revenue surged 14.6% QoQ to $41.7B in Q2, with TSMC securing a 70% market share, followed by Samsung with 7% and SMIC with 5% &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250901/p15#a250901p15)<!-- TECH:END -->
+ - [All new Samsung foldables are on sale; save up to $300!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-z-flip-7-fe-deals-3593324/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
