@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/amodPV6)
- - ⏩ [He thought he was tough](http://9gag.com/gag/aLnbpAz)
- - 👉 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)<!-- MEMES:END -->
+ - 💣 [He thought he was tough](http://9gag.com/gag/aLnbpAz)
+ - ⏩ [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
+ - 👉 [Lol.](http://9gag.com/gag/aqydjdj)<!-- MEMES:END -->
 
 ---
 
