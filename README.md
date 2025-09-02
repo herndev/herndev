@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uh oh who let them in?](http://9gag.com/gag/azxBmmZ)
- - ⏩ [Pour me a beer mate](http://9gag.com/gag/a6ZxNgq)
- - 👉 [Every single time](http://9gag.com/gag/adBdVLj)<!-- MEMES:END -->
+ - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
+ - ⏩ [Every single time](http://9gag.com/gag/adBdVLj)
+ - 👉 [Never trust, never believe, never commit](http://9gag.com/gag/awy8oD4)<!-- MEMES:END -->
 
 ---
 
