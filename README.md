@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2′s New Very Scary Mega Worm Has Been Killed, But It Took 10 Nukes](https://kotaku.com/helldivers-2-hive-lord-mega-worm-killed-update-nukes-ps5-xbox-2000622473)
  - [Saudi Arabia ‘Sportswashing’ Takes Aim At The Biggest Fighting Game Tournament Of The Year](https://kotaku.com/evo-saudi-arabia-street-fighter-6-sony-esports-2000622367)
- - [Randy Pitchford says the Borderlands film would&#39;ve sucked a whole lot more if he&#39;d directed it: &#39;It would have been way worse&#39;](https://www.pcgamer.com/movies-tv/randy-pitchford-says-the-borderlands-film-wouldve-sucked-a-whole-lot-more-if-hed-directed-it-it-would-have-been-way-worse/)
- - [Amazon Hits Seagate Hard, This Hard Drive Now Costs Just $0.02 Per GB](https://kotaku.com/amazon-hits-seagate-hard-this-hard-drive-now-costs-just-0-02-per-gb-2000622461)<!-- GAME:END -->
+ - [Randy Pitchford says the Borderlands film would&#39;ve sucked a whole lot more if he&#39;d directed it: &#39;It would have been way worse&#39;](https://www.pcgamer.com/movies-tv/randy-pitchford-says-the-borderlands-film-wouldve-sucked-a-whole-lot-more-if-hed-directed-it-it-would-have-been-way-worse/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
