@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy ending](http://9gag.com/gag/a5QxENV)
- - ⏩ [Mental issues](http://9gag.com/gag/ae9dAZv)
- - 👉 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)<!-- MEMES:END -->
+ - 💣 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
+ - ⏩ [And he took the Batmobile](http://9gag.com/gag/aGyopgX)
+ - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
 
 ---
 
