@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
- - ⏩ [Happy ending](http://9gag.com/gag/a5QxENV)
- - 👉 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)<!-- MEMES:END -->
+ - 💣 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - ⏩ [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
+ - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
 
 ---
 
