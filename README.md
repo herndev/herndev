@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This newish Kindle feature compensates for my terrible memory](https://www.androidauthority.com/this-kindle-feature-compensates-for-terrible-memory-3591046/)
- - [Google Play Games is about to show people what you play](https://www.theverge.com/news/768886/google-play-games-update-player-profile-stats)
- - [Samsung Galaxy Z TriFold gets a rumored launch date, and it’s sooner than you think](https://www.androidauthority.com/samsung-galaxy-z-trifold-rumored-launch-date-3593435/)<!-- TECH:END -->
+ - [One UI 8 on Galaxy S23 feels incomplete without this highlight feature](https://www.androidauthority.com/one-ui-8-galaxy-s23-incomplete-now-brief-3593456/)
+ - [Google plans to update Play Games on Android to show stats, achievements, and social features in most regions on September 23 and the EU and the UK on October 1 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250902/p6#a250902p6)
+ - [A profile of Jumia, hailed as the &quot;Amazon of Africa&quot;, as CEO Francis Dufay tries to hit profitability by 2027 after scaling down its food delivery business &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/250902/p5#a250902p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
