@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney agrees to pay $10M to settle an FTC complaint that alleges Disney failed to designate certain YouTube videos as being made for children &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250902/p28#a250902p28)
- - [Sony WH-1000XM5 Deal: $100 Off Sony&#39;s Last-Gen Flagships](https://www.wired.com/story/sony-wh-1000xm5-deal/)
- - [Google is having ‘productive discussions’ with Trump lawyers about his deplatforming suit](https://www.theverge.com/news/769285/google-trump-youtube-ban-january-6th-lawsuit)<!-- TECH:END -->
+ - [iPhone Fold 2026 rumored with lighter Apple Vision Air in 2027](https://appleinsider.com/articles/25/09/02/iphone-fold-2026-rumored-with-lighter-apple-vision-air-in-2027?utm_source=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Microsoft gave Perfect Dark’s developers a chance to save the game — after it was already canceled](https://www.theverge.com/news/769372/microsoft-perfect-dark-revival-take-two-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
