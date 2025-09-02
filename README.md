@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
- - ⏩ [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 👉 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)<!-- MEMES:END -->
+ - 💣 [Mental issues](http://9gag.com/gag/ae9dAZv)
+ - ⏩ [Respect](http://9gag.com/gag/a9yVRGW)
+ - 👉 [Welp...](http://9gag.com/gag/azxBM7x)<!-- MEMES:END -->
 
 ---
 
