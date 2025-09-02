@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering&#39;s Spider-Man set is full of Spider-Verse Spider-Folk including the superhero identities of Peter Parker&#39;s alternate-universe wife and daughter](https://www.pcgamer.com/games/card-games/magic-the-gatherings-spider-man-set-is-full-of-spider-verse-spider-folk-including-the-superhero-identities-of-peter-parkers-alternate-universe-wife-and-daughter/)
- - [Today&#39;s Wordle clues, hints and answer for September 2 &lpar;#1536&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-2-2025/)
- - [Blizzard filed a copyright infringement lawsuit against one of World of Warcraft&#39;s biggest private servers, but the team behind it is putting on a brave face: &#39;Challenges come to us often, and each time we are prepared to face them&#39;](https://www.pcgamer.com/games/world-of-warcraft/blizzard-filed-a-copyright-infringement-lawsuit-against-one-of-world-of-warcrafts-biggest-private-servers-but-the-team-behind-it-is-putting-on-a-brave-face-challenges-come-to-us-often-and-each-time-we-are-prepared-to-face-them/)<!-- GAME:END -->
+ - [MTG head designer basically confirmed a big Marvel set is coming](https://www.polygon.com/mtg-mark-rosewater-marvel-set-crossover-commander-avengers/)
+ - [Nvidia says AI models lack &#39;common sense&#39; so it&#39;s drafting in good old fashioned human beings to give them a pop quiz](https://www.pcgamer.com/software/ai/how-are-nvidia-teaching-their-latest-ai-models-to-reason-with-human-tutors-of-course/)
+ - [A former mayor in the Philippines may have got a majorly bad deal on computing tech, reportedly paying $175,000 for 16 Intel 11th Gen machines](https://www.pcgamer.com/hardware/a-former-mayor-in-the-philippines-may-have-got-a-majorly-bad-deal-on-computing-tech-reportedly-paying-usd175-000-for-16-intel-11th-gen-machines/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
