@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 5, Flip 5 owners are get their first taste of One UI 8](https://www.androidauthority.com/samsung-one-ui-8-beta-z-fold-flip-5-3593404/)
- - [Your Android phone will soon backup and restore some very important settings](https://www.androidauthority.com/android-theft-protection-backup-restore-3593412/)
- - [Marc Benioff says Salesforce has cut its support staff from 9,000 to ~5,000 in the past year after deploying AI agents to handle a growing share of its work &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/250902/p2#a250902p2)<!-- TECH:END -->
+ - [Windows is finally bringing Mac-style clipboard sync magic to Android](https://www.androidauthority.com/microsoft-clipboard-sync-feature-android-3593418/)
+ - [A look at AI adoption across US schools and colleges, as tech companies invest in AI education initiatives, including partnerships with major teachers&#39; unions &lpar;Vauhini Vara/Bloomberg&rpar;](http://www.techmeme.com/250902/p3#a250902p3)
+ - [Galaxy Z Fold 5, Flip 5 owners are get their first taste of One UI 8](https://www.androidauthority.com/samsung-one-ui-8-beta-z-fold-flip-5-3593404/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
