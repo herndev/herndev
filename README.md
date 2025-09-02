@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows is finally bringing Mac-style clipboard sync magic to Android](https://www.androidauthority.com/microsoft-clipboard-sync-feature-android-3593418/)
- - [A look at AI adoption across US schools and colleges, as tech companies invest in AI education initiatives, including partnerships with major teachers&#39; unions &lpar;Vauhini Vara/Bloomberg&rpar;](http://www.techmeme.com/250902/p3#a250902p3)
- - [Galaxy Z Fold 5, Flip 5 owners are get their first taste of One UI 8](https://www.androidauthority.com/samsung-one-ui-8-beta-z-fold-flip-5-3593404/)<!-- TECH:END -->
+ - [This newish Kindle feature compensates for my terrible memory](https://www.androidauthority.com/this-kindle-feature-compensates-for-terrible-memory-3591046/)
+ - [Google Play Games is about to show people what you play](https://www.theverge.com/news/768886/google-play-games-update-player-profile-stats)
+ - [Samsung Galaxy Z TriFold gets a rumored launch date, and it’s sooner than you think](https://www.androidauthority.com/samsung-galaxy-z-trifold-rumored-launch-date-3593435/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
