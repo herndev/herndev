@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My favorite cooking gadget is getting a big upgrade](https://www.theverge.com/news/768614/thermomix-tm7-us-release-price-specs-launch-date)
- - [TSMC says the US revoked its authorization to ship gear to its main Chinese chipmaking base in Nanjing, after the US revoked Samsung&#39;s and SK Hynix&#39;s waivers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250902/p15#a250902p15)
- - [AirPods live translation may not arrive for the iOS 26 launch](https://appleinsider.com/articles/25/09/02/airpods-live-translation-may-not-arrive-for-the-ios-26-launch?utm_source=rss)<!-- TECH:END -->
+ - [This Gemini upgrade will soon make Google Docs even more useful on Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-docs-android-listen-to-documents-gemini-apk-teardown-3593538/)
+ - [Visible claims your monthly plan will soon be billed yearly? Here’s what is going on](https://www.androidauthority.com/visible-yearly-monthly-3593554/)
+ - [How Ukraine is using AI to allow groups of drones, known as swarms, to coordinate with each other to attack Russian positions for much of the past year &lpar;Alistair MacDonald/Wall Street Journal&rpar;](http://www.techmeme.com/250902/p18#a250902p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
