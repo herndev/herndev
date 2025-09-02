@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Democrats keep copying the MAGA influencer playbook &lpar;and failing&rpar;](https://www.theverge.com/regulator-newsletter/769232/democrats-chorus-influencer-program-regulator)
- - [Trump is moving Space Command to Alabama](https://www.theverge.com/news/769475/trump-space-command-alabama-headquarters)
- - [The tariff apocalypse is here](https://www.theverge.com/analysis/769427/trump-tariffs-online-shopping-shipping-suspended-de-minimis)<!-- TECH:END -->
+ - [Google gets to keep Chrome, judge rules in search antitrust case](https://www.theverge.com/policy/717087/google-search-remedies-ruling-chrome)
+ - [US v. Google: a judge rules that Google can keep Chrome and Android but can&#39;t have exclusive search deals and must share search data; GOOG jumps 6%+ after hours &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250902/p34#a250902p34)
+ - [Silksong: all of the updates about the Hollow Knight sequel](https://www.theverge.com/news/769489/hollow-knight-silksong-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
