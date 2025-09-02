@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is coming for your shared Premium account, just like Netflix did](https://www.androidauthority.com/youtube-premium-family-plan-restrictions-3593400/)
  - [Pixel 10 Pro XL proves its got the strength to match its software update promise](https://www.androidauthority.com/google-pixel-10-pro-xl-durability-test-3593396/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-2/#ftag=CAD590a51e)
- - [Interview with Lovable CEO Anton Osika on competition, staying in Europe, and more; the company now has 2.3M+ active users, including 180K paying subscribers &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250901/p16#a250901p16)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
