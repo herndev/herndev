@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cricket Wireless deals of September 2025](https://www.androidauthority.com/best-cricket-wireless-deals-sep-3590114/)
- - [Tokyo-based LayerX, which uses AI to help enterprises automate back-office workload, raised a $100M Series B led by TCV, taking its total funding to $192.2M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250901/p14#a250901p14)
- - [Ring Outdoor Cam Plus hits its record-low price at just $69.99!](https://www.androidauthority.com/ring-outdoor-cam-plus-deal-2-3593325/)<!-- TECH:END -->
+ - [LaserPecker LP5 review: Expensive but solid laser engraving](https://appleinsider.com/articles/25/09/02/laserpecker-lp5-review-expensive-but-solid-laser-engraving?utm_source=rss)
+ - [All new Samsung foldables are on sale; save up to $300!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-z-flip-7-fe-deals-3593324/)
+ - [TrendForce: global chip foundry revenue surged 14.6% QoQ to $41.7B in Q2, with TSMC securing a 70% market share, followed by Samsung with 7% and SMIC with 5% &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250901/p15#a250901p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
