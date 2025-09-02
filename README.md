@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 76: Take Base-Building to a New Level with the C.A.M.P Revamp Update](https://fallout.bethesda.net/en/article/kP9rzY3MyNBZY4fAkyKlo/fallout-76-camp-revamp-update#new_tab)
- - [The censorship on Steam is coming for everyone on the internet](https://www.polygon.com/steam-visa-mastercard-paypal-censorship-project-2025-early-access/)
- - [Marvel Zombies&#39; gory new trailer reveals 2 surprising superhero stars](https://www.polygon.com/marvel-zombies-trailer-release-date-cast/)<!-- GAME:END -->
+ - [No Man’s Sky Fans Are Doing Wild Stuff As The Game Hits A New Peak On Steam](https://kotaku.com/no-mans-sky-voyagers-corvette-steam-players-2000622428)
+ - [This ASUS ROG Strix G16 Gaming Laptop &lpar;RTX 5060&rpar; Just Dropped in Price, Amazon Is Selling It at No Profit](https://kotaku.com/this-asus-rog-strix-g16-gaming-laptop-rtx-5060-just-dropped-in-price-amazon-is-selling-it-at-no-profit-2000622398)
+ - [Surprise Press Conference Reveals Trump Still Not Dead](https://kotaku.com/surprise-press-conference-reveals-trump-still-not-dead-2000622401)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
