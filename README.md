@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy ending](http://9gag.com/gag/a5QxENV)
- - ⏩ [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
- - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
+ - 💣 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
+ - ⏩ [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 👉 [Furlong](http://9gag.com/gag/aVvd7GK)<!-- MEMES:END -->
 
 ---
 
