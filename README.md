@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s antitrust case ruling leaves Apple deal untouched](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)
- - [Beats Studio Pro, Solo Buds, and Solo 4 could receive new color options](https://appleinsider.com/articles/25/09/02/beats-studio-pro-solo-buds-and-solo-4-could-receive-new-color-options?utm_source=rss)
- - [Join Us for WIRED’s “Uncanny Valley” Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)<!-- TECH:END -->
+ - [The Ampace Andes 1500 is $800 off, and it is my go-to power station!](https://www.androidauthority.com/ampace-andes-1500-power-station-deal-2-3593736/)
+ - [NotebookLM can now argue with itself over your notes](https://www.androidauthority.com/notebooklm-new-audio-overview-formats-3593717/)
+ - [A six-year US effort to counter Chinese telecom dominance took a hit after the One Big Beautiful Bill cut ~$1B from a program aimed at developing Open RAN tech &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/250902/p36#a250902p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
