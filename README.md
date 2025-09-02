@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Gemini upgrade will soon make Google Docs even more useful on Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-docs-android-listen-to-documents-gemini-apk-teardown-3593538/)
- - [Visible claims your monthly plan will soon be billed yearly? Here’s what is going on](https://www.androidauthority.com/visible-yearly-monthly-3593554/)
- - [How Ukraine is using AI to allow groups of drones, known as swarms, to coordinate with each other to attack Russian positions for much of the past year &lpar;Alistair MacDonald/Wall Street Journal&rpar;](http://www.techmeme.com/250902/p18#a250902p18)<!-- TECH:END -->
+ - [Trade in your old iPhone and grab a 10% cash bonus ahead of the iPhone 17](https://appleinsider.com/articles/25/09/02/trade-in-your-old-iphone-and-grab-a-10-cash-bonus-ahead-of-the-iphone-17?utm_source=rss)
+ - [Blockchain-based lender Figure plans to sell 26.3M shares priced between $18 and $20 to raise up to $526.3M in its US IPO, targeting a valuation of ~$4.13B &lpar;Reuters&rpar;](http://www.techmeme.com/250902/p22#a250902p22)
+ - [The 71 best Labor Day deals you can still get](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
