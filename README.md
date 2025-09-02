@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [History lesson](http://9gag.com/gag/an7d5qV)
- - ⏩ [Every single time](http://9gag.com/gag/adBdVLj)
+ - 💣 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - ⏩ [History lesson](http://9gag.com/gag/an7d5qV)
  - 👉 [Welp...](http://9gag.com/gag/azxBM7x)<!-- MEMES:END -->
 
 ---
