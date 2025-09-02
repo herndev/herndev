@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky Fans Are Doing Wild Stuff As The Game Hits A New Peak On Steam](https://kotaku.com/no-mans-sky-voyagers-corvette-steam-players-2000622428)
- - [This ASUS ROG Strix G16 Gaming Laptop &lpar;RTX 5060&rpar; Just Dropped in Price, Amazon Is Selling It at No Profit](https://kotaku.com/this-asus-rog-strix-g16-gaming-laptop-rtx-5060-just-dropped-in-price-amazon-is-selling-it-at-no-profit-2000622398)
- - [Surprise Press Conference Reveals Trump Still Not Dead](https://kotaku.com/surprise-press-conference-reveals-trump-still-not-dead-2000622401)<!-- GAME:END -->
+ - [Saudi Arabia ‘Sportswashing’ Takes Aim At The Biggest Fighting Game Tournament Of The Year](https://kotaku.com/evo-saudi-arabia-street-fighter-6-sony-esports-2000622367)
+ - [Randy Pitchford says the Borderlands film would&#39;ve sucked a whole lot more if he&#39;d directed it: &#39;It would have been way worse&#39;](https://www.pcgamer.com/movies-tv/randy-pitchford-says-the-borderlands-film-wouldve-sucked-a-whole-lot-more-if-hed-directed-it-it-would-have-been-way-worse/)
+ - [Amazon Hits Seagate Hard, This Hard Drive Now Costs Just $0.02 Per GB](https://kotaku.com/amazon-hits-seagate-hard-this-hard-drive-now-costs-just-0-02-per-gb-2000622461)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
