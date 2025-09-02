@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of Grok&#39;s responses to 41 political questions in May and July shows it shifted to the right on 50%+ of them, often aligning with Elon Musk&#39;s views &lpar;New York Times&rpar;](http://www.techmeme.com/250902/p8#a250902p8)
- - [Why the Pixel 10’s UFS 4.0 storage upgrade won’t actually speed things up](https://www.androidauthority.com/pixel-10-ufs-4-benchmarks-3592317/)
- - [Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries](https://www.wired.com/story/spiritual-influencers-say-sentient-ai-can-help-you-solve-lifes-mysteries/)<!-- TECH:END -->
+ - [A look at a16z&#39;s Speedrun, a YC-like accelerator targeting a more creative demographic; a16z invested $180M into 150 Speedrun companies over the last 18 months &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250902/p11#a250902p11)
+ - [PSA: Spotify Messages can reveal your profile to anyone you’ve ever shared music with](https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/)
+ - [Apple may be readying the largest case redesign yet for iPhone 17](https://appleinsider.com/articles/25/09/02/apple-may-be-readying-the-largest-case-redesign-yet-for-iphone-17?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
