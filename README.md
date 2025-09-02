@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG head designer basically confirmed a big Marvel set is coming](https://www.polygon.com/mtg-mark-rosewater-marvel-set-crossover-commander-avengers/)
- - [Nvidia says AI models lack &#39;common sense&#39; so it&#39;s drafting in good old fashioned human beings to give them a pop quiz](https://www.pcgamer.com/software/ai/how-are-nvidia-teaching-their-latest-ai-models-to-reason-with-human-tutors-of-course/)
- - [A former mayor in the Philippines may have got a majorly bad deal on computing tech, reportedly paying $175,000 for 16 Intel 11th Gen machines](https://www.pcgamer.com/hardware/a-former-mayor-in-the-philippines-may-have-got-a-majorly-bad-deal-on-computing-tech-reportedly-paying-usd175-000-for-16-intel-11th-gen-machines/)<!-- GAME:END -->
+ - [Astro Bot PS5 Controller Returns In October, Good Luck Pre-Ordering It](https://kotaku.com/astro-bot-ps5-controller-returns-in-october-good-luck-pre-ordering-it-2000622375)
+ - [28 Years Later: The Bone Temple is bringing back its giant naked zombie](https://www.polygon.com/28-years-later-sequel-is-bringing-back-its-giant-naked-zombie-samson/)
+ - [Batman sequel imagines Tim Burton&#39;s Riddler — here&#39;s a taste](https://www.polygon.com/tim-burton-batman-revolution-riddler-book-excerpt/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
