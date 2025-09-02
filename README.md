@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty movie confirmed: Activision and Paramount promise &#39;an authentic and exciting experience for longtime fans and newcomers alike&#39;](https://www.pcgamer.com/movies-tv/call-of-duty-movie-confirmed-activision-and-paramount-promise-an-authentic-and-exciting-experience-for-longtime-fans-and-newcomers-alike/)
- - [The Cultural Takeover Of KPop Demon Hunters, Two Months Later](https://kotaku.com/kpop-demon-hunters-streaming-box-office-numbers-netflix-2000622381)
- - [Back to the Future gets huge IMAX re-release this fall](https://www.polygon.com/back-to-the-future-imax-theaters-release-october-2025/)<!-- GAME:END -->
+ - [Fallout 76: Take Base-Building to a New Level with the C.A.M.P Revamp Update](https://fallout.bethesda.net/en/article/kP9rzY3MyNBZY4fAkyKlo/fallout-76-camp-revamp-update#new_tab)
+ - [The censorship on Steam is coming for everyone on the internet](https://www.polygon.com/steam-visa-mastercard-paypal-censorship-project-2025-early-access/)
+ - [Marvel Zombies&#39; gory new trailer reveals 2 surprising superhero stars](https://www.polygon.com/marvel-zombies-trailer-release-date-cast/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
