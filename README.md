@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [History lesson](http://9gag.com/gag/an7d5qV)
- - ⏩ [Respect](http://9gag.com/gag/a9yVRGW)
- - 👉 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)<!-- MEMES:END -->
+ - 💣 [Here, have some Cavillrine...](http://9gag.com/gag/a87n5NO)
+ - ⏩ [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 👉 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)<!-- MEMES:END -->
 
 ---
 
