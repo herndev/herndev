@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good use of free will](http://9gag.com/gag/avyD57d)
- - ⏩ [What a legend](http://9gag.com/gag/apRdG7n)
- - 👉 [The generation traumatized by holding a flashlight for their dad will soon come to an end.](http://9gag.com/gag/an7d4L0)<!-- MEMES:END -->
+ - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
+ - ⏩ [History lesson](http://9gag.com/gag/an7d5qV)
+ - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
 
 ---
 
