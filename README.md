@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
- - ⏩ [History lesson](http://9gag.com/gag/an7d5qV)
- - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
+ - 💣 [Uh oh who let them in?](http://9gag.com/gag/azxBmmZ)
+ - ⏩ [Pour me a beer mate](http://9gag.com/gag/a6ZxNgq)
+ - 👉 [Every single time](http://9gag.com/gag/adBdVLj)<!-- MEMES:END -->
 
 ---
 
