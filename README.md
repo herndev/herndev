@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at a16z&#39;s Speedrun, a YC-like accelerator targeting a more creative demographic; a16z invested $180M into 150 Speedrun companies over the last 18 months &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250902/p11#a250902p11)
- - [PSA: Spotify Messages can reveal your profile to anyone you’ve ever shared music with](https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/)
- - [Apple may be readying the largest case redesign yet for iPhone 17](https://appleinsider.com/articles/25/09/02/apple-may-be-readying-the-largest-case-redesign-yet-for-iphone-17?utm_source=rss)<!-- TECH:END -->
+ - [My favorite cooking gadget is getting a big upgrade](https://www.theverge.com/news/768614/thermomix-tm7-us-release-price-specs-launch-date)
+ - [TSMC says the US revoked its authorization to ship gear to its main Chinese chipmaking base in Nanjing, after the US revoked Samsung&#39;s and SK Hynix&#39;s waivers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250902/p15#a250902p15)
+ - [AirPods live translation may not arrive for the iOS 26 launch](https://appleinsider.com/articles/25/09/02/airpods-live-translation-may-not-arrive-for-the-ios-26-launch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
