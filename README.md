@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Astro Bot PS5 Controller Returns In October, Good Luck Pre-Ordering It](https://kotaku.com/astro-bot-ps5-controller-returns-in-october-good-luck-pre-ordering-it-2000622375)
- - [28 Years Later: The Bone Temple is bringing back its giant naked zombie](https://www.polygon.com/28-years-later-sequel-is-bringing-back-its-giant-naked-zombie-samson/)
- - [Batman sequel imagines Tim Burton&#39;s Riddler — here&#39;s a taste](https://www.polygon.com/tim-burton-batman-revolution-riddler-book-excerpt/)<!-- GAME:END -->
+ - [Call of Duty movie confirmed: Activision and Paramount promise &#39;an authentic and exciting experience for longtime fans and newcomers alike&#39;](https://www.pcgamer.com/movies-tv/call-of-duty-movie-confirmed-activision-and-paramount-promise-an-authentic-and-exciting-experience-for-longtime-fans-and-newcomers-alike/)
+ - [The Cultural Takeover Of KPop Demon Hunters, Two Months Later](https://kotaku.com/kpop-demon-hunters-streaming-box-office-numbers-netflix-2000622381)
+ - [Back to the Future gets huge IMAX re-release this fall](https://www.polygon.com/back-to-the-future-imax-theaters-release-october-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
