@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Lovable CEO Anton Osika on competition, staying in Europe, and more; the company now has 2.3M+ active users, including 180K paying subscribers &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250901/p16#a250901p16)
- - [LaserPecker LP5 review: Expensive but solid laser engraving](https://appleinsider.com/articles/25/09/02/laserpecker-lp5-review-expensive-but-solid-laser-engraving?utm_source=rss)
- - [All new Samsung foldables are on sale; save up to $300!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-z-flip-7-fe-deals-3593324/)<!-- TECH:END -->
+ - [Pixel 10 Pro XL proves its got the strength to match its software update promise](https://www.androidauthority.com/google-pixel-10-pro-xl-durability-test-3593396/)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-2/#ftag=CAD590a51e)
+ - [Interview with Lovable CEO Anton Osika on competition, staying in Europe, and more; the company now has 2.3M+ active users, including 180K paying subscribers &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250901/p16#a250901p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
