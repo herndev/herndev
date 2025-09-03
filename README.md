@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5 armed police arrest Comedian for a tweet.](http://9gag.com/gag/ajPdVK1)
- - ⏩ [What does it taste?](http://9gag.com/gag/aE0Qqjn)
- - 👉 [I like it](http://9gag.com/gag/arydmpX)<!-- MEMES:END -->
+ - 💣 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
+ - ⏩ [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
+ - 👉 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)<!-- MEMES:END -->
 
 ---
 
