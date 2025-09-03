@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [GTA Online 2025 roadmap: Leaks, DLC, and upcoming events](https://www.pcgamer.com/games/grand-theft-auto/gta-online-2025-roadmap/)
  - [The Crew is set to spring back to life as fan-made server emulator project prepares to launch later this month](https://www.pcgamer.com/games/racing/the-crew-is-set-to-spring-back-to-life-as-fan-made-server-emulator-project-prepares-to-launch-later-this-month/)
- - [Zach Cregger hints at the setting and tone of his 2026 Resident Evil movie](https://www.polygon.com/resident-evil-2026-movie-zach-cregger/)
- - [Helldivers 2′s New Very Scary Mega Worm Has Been Killed, But It Took 10 Nukes](https://kotaku.com/helldivers-2-hive-lord-mega-worm-killed-update-nukes-ps5-xbox-2000622473)<!-- GAME:END -->
+ - [Zach Cregger hints at the setting and tone of his 2026 Resident Evil movie](https://www.polygon.com/resident-evil-2026-movie-zach-cregger/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
