@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin unveils the $1,200+ Fenix 8 Pro, including new satellite and cellular communications tools, and a $2,000 microLED version, both shipping September 8 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/250903/p22#a250903p22)
- - [The first ten things I changed on my Pixel 10!](https://www.androidauthority.com/first-10-things-google-pixel-10-3593263/)
- - [How to Switch From iPhone to Android &lpar;2025&rpar;](https://www.wired.com/story/how-to-switch-from-iphone-to-android/)<!-- TECH:END -->
+ - [Apple shares surge after federal Google search deal ruling](https://appleinsider.com/articles/25/09/03/apple-shares-surge-after-federal-google-search-deal-ruling?utm_source=rss)
+ - [Garmin’s Fenix 8 Pro series finally lets you leave your phone at home — sort of](https://www.theverge.com/news/770034/garmin-fenix-8-pro-satellite-lte-microled-price)
+ - [Anti-piracy organization ACE says a joint operation with Egyptian law enforcement shut down Streameast, the world&#39;s largest illegal sports streaming platform &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/250903/p26#a250903p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
