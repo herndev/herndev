@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
- - ⏩ [And he took the Batmobile](http://9gag.com/gag/aGyopgX)
- - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
+ - 💣 [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - ⏩ [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
+ - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
 
 ---
 
