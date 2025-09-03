@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - ⏩ [Furlong](http://9gag.com/gag/aVvd7GK)
- - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
+ - 💣 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
+ - ⏩ [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)
+ - 👉 [Furlong](http://9gag.com/gag/aVvd7GK)<!-- MEMES:END -->
 
 ---
 
