@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to upgrade Siri with web search powered by Apple Intelligence](https://appleinsider.com/articles/25/09/03/apple-to-upgrade-siri-with-web-search-powered-by-apple-intelligence?utm_source=rss)
- - [Apple&amp;#8217;s rumored AI search tool for Siri could rely on Google](https://www.theverge.com/news/770712/apple-ai-search-tool-siri-google-gemini)
- - [Figma reports Q2 revenue up 41% YoY to $249.6M, vs. $248.8M est., and forecasts Q3 and FY 2025 revenue above estimates; FIG drops 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250903/p41#a250903p41)<!-- TECH:END -->
+ - [Disney Settles FTC Complaint With YouTube Over Children&#39;s Data Collection](https://www.cnet.com/tech/services-and-software/disney-settles-ftc-complaint-over-youtube-childrens-data-collection/#ftag=CAD590a51e)
+ - [Polymarket CEO says the company &quot;has been given the green light to go live&quot; in the US after the CFTC issued a no-action letter regarding event contracts &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250903/p42#a250903p42)
+ - [How to Watch NFL Games Without Cable in 2025](https://www.cnet.com/tech/services-and-software/how-to-watch-nfl-games-without-cable-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
