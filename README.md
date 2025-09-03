@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 3 &lpar;#1537&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-3-2025/)
- - [Alien: Earth episode 5 is the best Alien movie in 39 years](https://www.polygon.com/alien-earth-episode-5-is-the-best-alien-movie-in/)
- - [Blood Bowl&#39;s getting a new edition with teams for Bretonnians and Tomb Kings in the box](https://www.pcgamer.com/games/board-games/blood-bowls-getting-a-new-edition-with-teams-for-bretonnians-and-tomb-kings-in-the-box/)<!-- GAME:END -->
+ - [Gigabyte have finally released its RTX 5090 external GPU—but it&#39;s calling it an &#39;AI box&#39;](https://www.pcgamer.com/hardware/gigabyte-have-finally-released-its-rtx-5090-external-gpu-but-it-is-calling-it-an-ai-box/)
+ - [28 Years Later: The Bone Temple trialer shows Ralph Fiennes bond with a zombie giant](https://www.polygon.com/28-years-later-the-bone-temple-trailer/)
+ - [GameSir G7 Pro Tri-Mode review](https://www.pcgamer.com/hardware/controllers/gamesir-g7-pro-tri-mode-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
