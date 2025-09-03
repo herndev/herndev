@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Recycling plastic](http://9gag.com/gag/apRd9YD)
- - ⏩ [When you forget you&#39;re not online](http://9gag.com/gag/apRd9AD)
- - 👉 [Life is beautiful](http://9gag.com/gag/azxBepq)<!-- MEMES:END -->
+ - 💣 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
+ - ⏩ [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
 
 ---
 
