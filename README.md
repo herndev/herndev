@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)
- - [Newegg Promo Code: 10% Off in September 2025](https://www.wired.com/story/newegg-promo-code/)
- - [The ruling that allows Google to continue paying for traffic acquisition is a huge win for Apple and for Mozilla, which relies heavily on payments from Google &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250903/p1#a250903p1)<!-- TECH:END -->
+ - [Battery sizes on flagship phones are about to explode](https://www.androidauthority.com/flagship-phones-bigger-batteries-leak-3593823/)
+ - [Turns out it’s possible to get a Pixel 10 with a physical SIM slot in the US](https://www.androidauthority.com/pixel-10-us-replacement-physical-sim-3593829/)
+ - [A deep dive into the state of the tech job market in 2025, including an increase in demand for AI engineers and a rising average tenure at Big Tech companies &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/250903/p5#a250903p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
