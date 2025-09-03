@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte have finally released its RTX 5090 external GPU—but it&#39;s calling it an &#39;AI box&#39;](https://www.pcgamer.com/hardware/gigabyte-have-finally-released-its-rtx-5090-external-gpu-but-it-is-calling-it-an-ai-box/)
- - [28 Years Later: The Bone Temple trialer shows Ralph Fiennes bond with a zombie giant](https://www.polygon.com/28-years-later-the-bone-temple-trailer/)
- - [GameSir G7 Pro Tri-Mode review](https://www.pcgamer.com/hardware/controllers/gamesir-g7-pro-tri-mode-review/)<!-- GAME:END -->
+ - [One of Stalker&#39;s most legendary mods has joined GOG&#39;s one-click install program, making it easier than ever to die horribly in Chornobyl](https://www.pcgamer.com/games/fps/one-of-stalkers-most-legendary-mods-has-joined-gogs-one-click-install-program-making-it-easier-than-ever-to-die-horribly-in-chornobyl/)
+ - [Google will not be forced to sell Chrome, despite its near-monopoly, as its dominance is not &#39;sufficiently attributable to its illegal conduct&#39;](https://www.pcgamer.com/software/browsers/google-will-not-be-forced-to-sell-chrome-despite-its-near-monopoly-as-its-dominance-is-not-sufficiently-attributable-to-its-illegal-conduct/)
+ - [Borderlands 1&#39;s artstyle overhaul filled Gearbox CEO Randy Pitchford with dread because he thought he&#39;d &#39;Have to go in and look at what they did&#39; and &#39;shoot it in the head&#39;](https://www.pcgamer.com/games/rpg/borderlands-1s-artstyle-overhaul-filled-gearbox-ceo-randy-pitchford-with-dread-because-he-thought-hed-have-to-go-in-and-look-at-what-they-did-and-shoot-it-in-the-head/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
