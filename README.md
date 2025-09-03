@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
- - ⏩ [Genniousess](http://9gag.com/gag/adBdVRN)
- - 👉 [Mental issues](http://9gag.com/gag/ae9dAZv)<!-- MEMES:END -->
+ - 💣 [Furlong](http://9gag.com/gag/aVvd7GK)
+ - ⏩ [Going to chill with the homies for an hour](http://9gag.com/gag/amodP6j)
+ - 👉 [Almost a hug from a stingray](http://9gag.com/gag/aLnbpXV)<!-- MEMES:END -->
 
 ---
 
