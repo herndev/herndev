@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IFA 2025: the biggest tech and gadget announcements](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)
- - [AI could bring us a smarter home — if we can trust it](https://www.theverge.com/ifa-berlin/768739/ai-could-bring-us-a-smarter-home-ifa-2025)
- - [Google&#39;s antitrust case ruling leaves Apple deal untouched](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)<!-- TECH:END -->
+ - [Remarkable’s new digital notepad is smaller than a paperback](https://www.theverge.com/news/769005/remarkable-paper-pro-move-e-note-notebook-stylus-tablet-e-ink)
+ - [AI search engine startup Exa Labs raised an $85M Series B led by Benchmark at a $700M valuation, up 10x on its 2024 Series A, and plans to grow its GPU cluster &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p18#a250903p18)
+ - [Ninth developer betas for iOS 26, macOS Tahoe 26 hit devices](https://appleinsider.com/articles/25/09/02/apple-outs-its-ninth-developer-betas-for-ios-26-macos-tahoe-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
