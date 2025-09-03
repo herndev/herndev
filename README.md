@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is coming to iPad, 15 years later](https://www.theverge.com/news/769460/instagram-ipad-app-launch-reels)
- - [The FTC and Utah say Pornhub operator Aylo has agreed to pay a $5M fine to settle charges that it did little to block CSAM and non-consensual material &lpar;Rami Ayyub/Reuters&rpar;](http://www.techmeme.com/250903/p28#a250903p28)
- - [The Paper doesn&amp;#8217;t hit its stride until it&amp;#8217;s out of the office](https://www.theverge.com/tv-reviews/769607/peacock-the-paper-review)<!-- TECH:END -->
+ - [The best of reMarkable just went pocket-sized](https://www.androidauthority.com/remarkable-paper-pro-move-launch-3594111/)
+ - [Etherealize, which develops products and infrastructure for financial institutions on Ethereum, raised $40M in a round co‑led by Electric Capital and Paradigm &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250903/p30#a250903p30)
+ - [Roblox experiences are getting ESRB age ratings](https://www.theverge.com/news/770305/roblox-esrb-age-ratings-iarc-age-estimation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
