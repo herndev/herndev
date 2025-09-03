@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trucker at One: Past, Present and a Peek Around the Bend](https://news.xbox.com/en-us/2025/09/03/star-trucker-at-one-peek-around-the-bend/)
- - [007 First Light Is So Much More Than A Hitman Game in Disguise](https://news.xbox.com/en-us/2025/09/03/007-first-light-james-bond-preview-xbox/)
- - [You can finally ride a horse in Disney Dreamlight Valley thanks to its new expansion coming this November](https://www.pcgamer.com/games/life-sim/you-can-finally-ride-a-horse-in-disney-dreamlight-valley-thanks-to-its-new-expansion-coming-this-november/)<!-- GAME:END -->
+ - [Iconic Roblox game dies after pulling features used for underage kid dating](https://www.polygon.com/roblox-what-happened-to-meep-city/)
+ - [Amazon&#39;s live-action Tomb Raider series names Game of Thrones actor Sophie Turner as its new Lara Croft](https://www.pcgamer.com/movies-tv/amazons-live-action-tomb-raider-series-names-game-of-thrones-actor-sophie-turner-as-its-new-lara-croft/)
+ - [New 007 Game Out March 2026, $300 Version Comes With Golden Gun](https://kotaku.com/007-first-light-james-bond-new-game-ps5-gameplay-300-golden-gun-ioi-2000622752)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
