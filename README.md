@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering reprinting powerful $25 card with iconic Spider-Man art](https://www.polygon.com/magic-the-gathering-spider-man-parallel-lives/)
- - [Crossroads of Ravens: Read an excerpt of The Witcher prequel novel](https://www.polygon.com/the-witcher-crossroad-of-ravens-preview/)
- - [Xbox and 5-hour Energy Team Up to Launch Limited-Edition Purpleberry Punch for The Outer Worlds 2](https://news.xbox.com/en-us/2025/09/03/outer-worlds-2-xbox-5-hour-energy-purpleberry-punch/)<!-- GAME:END -->
+ - [Fall 2025 movies are all about resistance and revolution](https://www.polygon.com/fall-2025-movies-resistance-revolution-theme/)
+ - [All the big fall JRPGs, ranked by how likely you are to finish them](https://www.polygon.com/fall-2025-jrpgs-ranked/)
+ - [The Elder Scrolls Online: Feast of Shadows and New Update Now Live](https://www.elderscrollsonline.com/en-us/news/post/68561)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
