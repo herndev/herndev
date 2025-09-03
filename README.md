@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox to begin using &#39;facial age estimation technology&#39; on its users, promises to &#39;limit communication between adults and minors unless they know each other in the real world&#39;](https://www.pcgamer.com/games/roblox-to-begin-using-facial-age-estimation-technology-on-its-users-promises-to-limit-communication-between-adults-and-minors-unless-they-know-each-other-in-the-real-world/)
- - [Cronos: The New Dawn reviewers say it&#39;s an &#39;atmospheric and uniquely introspective&#39; survival horror outing—but it&#39;s held back by &#39;run-of-the-mill combat&#39;](https://www.pcgamer.com/games/horror/cronos-the-new-dawn-reviewers-say-its-an-atmospheric-and-uniquely-introspective-survival-horror-outing-but-its-held-back-by-run-of-the-mill-combat/)
- - [Leaked Fallout Merch Appears To Use AI-Generated Slop](https://kotaku.com/leaked-fallout-merch-ai-art-target-hot-sauce-bethesda-2000622731)<!-- GAME:END -->
+ - [After seeing 30 minutes of the new Bond game, I&#39;m more excited for the shooting than the stealth](https://www.pcgamer.com/games/action/after-seeing-30-minutes-of-the-new-bond-game-im-more-excited-for-the-shooting-than-the-stealth/)
+ - [September is absolutely stacked with city builders: here&#39;s 8 releasing this month](https://www.pcgamer.com/games/city-builder/september-is-absolutely-stacked-with-city-builders-heres-8-releasing-this-month/)
+ - [Path of Exile 2&#39;s newest update has me thoroughly convinced it&#39;s about to have one of the best action RPG campaigns in a long time](https://www.pcgamer.com/games/rpg/path-of-exile-2s-newest-update-has-me-thoroughly-convinced-its-about-to-have-one-of-the-best-action-rpg-campaigns-in-a-long-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
