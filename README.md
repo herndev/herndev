@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ecobee now has Apple Home security system integrations](https://appleinsider.com/articles/25/09/03/ecobee-now-has-apple-home-security-system-integrations?utm_source=rss)
- - [Source: OpenAI is increasing the size of its secondary share sale to $10.3B, up from $6B; the transaction is at a $500B valuation, in line with expectations &lpar;CNBC&rpar;](http://www.techmeme.com/250903/p36#a250903p36)
- - [How &#39;Hollow Knight: Silksong&#39; Fans Turned Waiting for Its Release Into a Game](https://www.wired.com/story/how-fans-turned-waiting-for-hollow-knight-silksongs-release-into-a-game/)<!-- TECH:END -->
+ - [Apple to upgrade Siri with web search powered by Apple Intelligence](https://appleinsider.com/articles/25/09/03/apple-to-upgrade-siri-with-web-search-powered-by-apple-intelligence?utm_source=rss)
+ - [Apple&amp;#8217;s rumored AI search tool for Siri could rely on Google](https://www.theverge.com/news/770712/apple-ai-search-tool-siri-google-gemini)
+ - [Figma reports Q2 revenue up 41% YoY to $249.6M, vs. $248.8M est., and forecasts Q3 and FY 2025 revenue above estimates; FIG drops 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250903/p41#a250903p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
