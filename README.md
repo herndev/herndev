@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Blood Bowl&#39;s getting a new edition with teams for Bretonnians and Tomb Kings in the box](https://www.pcgamer.com/games/board-games/blood-bowls-getting-a-new-edition-with-teams-for-bretonnians-and-tomb-kings-in-the-box/)
  - [GTA Online 2025 roadmap: Leaks, DLC, and upcoming events](https://www.pcgamer.com/games/grand-theft-auto/gta-online-2025-roadmap/)
- - [The Crew is set to spring back to life as fan-made server emulator project prepares to launch later this month](https://www.pcgamer.com/games/racing/the-crew-is-set-to-spring-back-to-life-as-fan-made-server-emulator-project-prepares-to-launch-later-this-month/)
- - [Zach Cregger hints at the setting and tone of his 2026 Resident Evil movie](https://www.polygon.com/resident-evil-2026-movie-zach-cregger/)<!-- GAME:END -->
+ - [The Crew is set to spring back to life as fan-made server emulator project prepares to launch later this month](https://www.pcgamer.com/games/racing/the-crew-is-set-to-spring-back-to-life-as-fan-made-server-emulator-project-prepares-to-launch-later-this-month/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
