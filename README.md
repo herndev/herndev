@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Idk what he did wrong](https://www.reddit.com/r/funny/comments/1n72wnq/idk_what_he_did_wrong/)
- - ⏩ [Low IQ](http://9gag.com/gag/aByvmBO)
- - 👉 [Sometimes I wonder](http://9gag.com/gag/a34xwV1)<!-- MEMES:END -->
+ - 💣 [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - ⏩ [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
 
 ---
 
