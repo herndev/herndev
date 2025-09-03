@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DuckDuckGo CEO Gabriel Weinberg, Senator Amy Klobuchar, News / Media Alliance CEO Danielle Coffey, and others criticize the US v. Google ruling as too lenient &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250903/p12#a250903p12)
- - [Not using a Pixel or Galaxy? The wait for stable Android 16 just got longer](https://www.androidauthority.com/oppo-vivo-xiaomi-oneplus-stable-android-16-slow-rollout-3593884/)
- - [Sources: Nintendo repeatedly pushed back Switch 2 launch plans after game designers asked for more time, believing a focus on gameplay trumped advanced hardware &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p11#a250903p11)<!-- TECH:END -->
+ - [IFA 2025: the biggest tech and gadget announcements](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)
+ - [AI could bring us a smarter home — if we can trust it](https://www.theverge.com/ifa-berlin/768739/ai-could-bring-us-a-smarter-home-ifa-2025)
+ - [Google&#39;s antitrust case ruling leaves Apple deal untouched](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
