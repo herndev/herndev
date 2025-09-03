@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My brief hands-on with Acer’s new convertible Chromebook has me cautiously optimistic](https://www.theverge.com/hands-on/769834/acer-chromebook-plus-spin-514-2in1-mediatek-kompanio-ifa-2025-price-specs)
- - [Philippines government data: online gambling revenue in the country overtook traditional casinos in H1 2025, generating ~$2B, or 53%+ of the industry&#39;s total &lpar;Ramon Royandoyan/Nikkei Asia&rpar;](http://www.techmeme.com/250903/p9#a250903p9)
- - [Google will reveal its Gemini smart home plans &lpar;and hardware&rpar; next month](https://www.theverge.com/news/769848/google-teases-new-nest-cam-gemini-home)<!-- TECH:END -->
+ - [DuckDuckGo CEO Gabriel Weinberg, Senator Amy Klobuchar, News / Media Alliance CEO Danielle Coffey, and others criticize the US v. Google ruling as too lenient &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250903/p12#a250903p12)
+ - [Not using a Pixel or Galaxy? The wait for stable Android 16 just got longer](https://www.androidauthority.com/oppo-vivo-xiaomi-oneplus-stable-android-16-slow-rollout-3593884/)
+ - [Sources: Nintendo repeatedly pushed back Switch 2 launch plans after game designers asked for more time, believing a focus on gameplay trumped advanced hardware &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p11#a250903p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
