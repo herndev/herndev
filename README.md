@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ruling that allows Google to continue paying for traffic acquisition is a huge win for Apple and for Mozilla, which relies heavily on payments from Google &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250903/p1#a250903p1)
- - [Google sets the date for Gemini’s arrival on your Google Home devices](https://www.androidauthority.com/google-home-gemini-launch-date-3593786/)
- - [A US district judge rules that Amazon must face a class action lawsuit involving 288M customers over claims it overcharged for products sold by third parties &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250902/p42#a250902p42)<!-- TECH:END -->
+ - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)
+ - [Newegg Promo Code: 10% Off in September 2025](https://www.wired.com/story/newegg-promo-code/)
+ - [The ruling that allows Google to continue paying for traffic acquisition is a huge win for Apple and for Mozilla, which relies heavily on payments from Google &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250903/p1#a250903p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
