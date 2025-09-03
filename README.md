@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cronos: The New Dawn review: contemporary horror at its very best](https://www.polygon.com/cronos-new-dawn-review/)
- - [The Xbox Wireless Controller Breaker Series Has Arrived: Three Designs, One Statement](https://news.xbox.com/en-us/2025/09/03/xbox-wireless-controller-breaker-special-edition-series/)
- - [Samsung Galaxy Tab A9+ Hits Clearance-Level Pricing Ahead of New S11 Tablet Launch](https://kotaku.com/samsung-galaxy-tab-a9-hits-clearance-level-pricing-ahead-of-new-s11-tablet-launch-2000622426)<!-- GAME:END -->
+ - [Overwatch 2: Diving Deep into New Hero Wuyang with His Concept Artist](https://news.xbox.com/en-us/2025/09/03/overwatch-2-wuyang-deep-dive/)
+ - [Netflix reveals top 10 most-watched movies of all time](https://www.polygon.com/netflix-most-watched-movies-all-time-list/)
+ - [Anker’s USB-C to Dual HDMI Adapter Hits All-Time Low, Escape the One-Screen Laptop Setup for Almost Free](https://kotaku.com/ankers-usb-c-to-dual-hdmi-adapter-hits-all-time-low-escape-the-one-screen-laptop-setup-for-almost-free-2000622363)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
