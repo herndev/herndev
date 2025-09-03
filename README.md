@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Battery sizes on flagship phones are about to explode](https://www.androidauthority.com/flagship-phones-bigger-batteries-leak-3593823/)
- - [Turns out it’s possible to get a Pixel 10 with a physical SIM slot in the US](https://www.androidauthority.com/pixel-10-us-replacement-physical-sim-3593829/)
- - [A deep dive into the state of the tech job market in 2025, including an increase in demand for AI engineers and a rising average tenure at Big Tech companies &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/250903/p5#a250903p5)<!-- TECH:END -->
+ - [Ooni’s newest pizza oven adds AI to your slice](https://www.theverge.com/news/768542/ooni-volt-2-pizza-oven-ai-pizza-intelligence)
+ - [A look at issues facing AI companies, including LLMs&#39; limited memory, as they tackle safety in chatbots engaging in conversations about suicide and self-harm &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p6#a250903p6)
+ - [Best Smoke Detectors for 2025, Engineer-Tested and Approved](https://www.cnet.com/home/security/best-smoke-detector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
