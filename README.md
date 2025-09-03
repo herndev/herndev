@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doggo &lpar;\u2022\u1d25\u2022&rpar;](http://9gag.com/gag/aAymGMg)
- - ⏩ [He had an old chinese phone, an old raspberry pi 3b+, python, opencv and a bit of deep learning. And then there were the neighbor&#39;s chickens, who were driving him crazy.](http://9gag.com/gag/aW4dgDq)
- - 👉 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)<!-- MEMES:END -->
+ - 💣 [The meow meow song](https://www.reddit.com/r/funny/comments/1n7boaw/the_meow_meow_song/)
+ - ⏩ [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 👉 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)<!-- MEMES:END -->
 
 ---
 
