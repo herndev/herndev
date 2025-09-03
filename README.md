@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes I wonder](http://9gag.com/gag/a34xwV1)
- - ⏩ [Furlong](http://9gag.com/gag/aVvd7GK)
- - 👉 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)<!-- MEMES:END -->
+ - 💣 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
+ - ⏩ [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)
+ - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
 
 ---
 
