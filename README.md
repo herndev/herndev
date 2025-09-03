@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Alien: Earth episode 5 is the best Alien movie in 39 years](https://www.polygon.com/alien-earth-episode-5-is-the-best-alien-movie-in/)
  - [Blood Bowl&#39;s getting a new edition with teams for Bretonnians and Tomb Kings in the box](https://www.pcgamer.com/games/board-games/blood-bowls-getting-a-new-edition-with-teams-for-bretonnians-and-tomb-kings-in-the-box/)
- - [GTA Online 2025 roadmap: Leaks, DLC, and upcoming events](https://www.pcgamer.com/games/grand-theft-auto/gta-online-2025-roadmap/)
- - [The Crew is set to spring back to life as fan-made server emulator project prepares to launch later this month](https://www.pcgamer.com/games/racing/the-crew-is-set-to-spring-back-to-life-as-fan-made-server-emulator-project-prepares-to-launch-later-this-month/)<!-- GAME:END -->
+ - [GTA Online 2025 roadmap: Leaks, DLC, and upcoming events](https://www.pcgamer.com/games/grand-theft-auto/gta-online-2025-roadmap/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
