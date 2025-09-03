@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best of reMarkable just went pocket-sized](https://www.androidauthority.com/remarkable-paper-pro-move-launch-3594111/)
- - [Etherealize, which develops products and infrastructure for financial institutions on Ethereum, raised $40M in a round co‑led by Electric Capital and Paradigm &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250903/p30#a250903p30)
- - [Roblox experiences are getting ESRB age ratings](https://www.theverge.com/news/770305/roblox-esrb-age-ratings-iarc-age-estimation)<!-- TECH:END -->
+ - [More Pixel phones are getting Google’s new look for Android](https://www.theverge.com/news/770174/google-pixel-drop-september-2025-material-3-expressive)
+ - [Mistral updates Le Chat with a memory feature for chats and an MCP connector directory supporting over 20 enterprise platforms, both available on its free plan &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250903/p31#a250903p31)
+ - [Scale AI still exists and it’s suing an ex-employee over corporate espionage](https://www.theverge.com/ai-artificial-intelligence/770410/scale-ai-corporate-espionage-data-labeling-mercor-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
