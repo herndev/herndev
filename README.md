@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No more Prime shipping perks outside your family &lpar;Updated: Amazon statement&rpar;](https://www.androidauthority.com/amazon-ending-shared-prime-free-shipping-outside-household-3593647/)
- - [How to keep yourself accountable by sharing your Fitness activity on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-keep-yourself-accountable-by-sharing-your-fitness-activity-on-iphone?utm_source=rss)
- - [Source: Sierra, which builds AI customer service agents, nears a $350M raise at a $10B valuation, up from $4.5B in October 2024, and is set to top $100M in ARR &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250902/p41#a250902p41)<!-- TECH:END -->
+ - [Google sets the date for Gemini’s arrival on your Google Home devices](https://www.androidauthority.com/google-home-gemini-launch-date-3593786/)
+ - [A US district judge rules that Amazon must face a class action lawsuit involving 288M customers over claims it overcharged for products sold by third parties &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250902/p42#a250902p42)
+ - [No more Prime shipping perks outside your family &lpar;Updated: Amazon statement&rpar;](https://www.androidauthority.com/amazon-ending-shared-prime-free-shipping-outside-household-3593647/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
