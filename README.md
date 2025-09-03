@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Chinese soldier at the parade](https://www.reddit.com/r/funny/comments/1n71p6m/this_chinese_soldier_at_the_parade/)
+ - 💣 [Idk what he did wrong](https://www.reddit.com/r/funny/comments/1n72wnq/idk_what_he_did_wrong/)
  - ⏩ [Low IQ](http://9gag.com/gag/aByvmBO)
- - 👉 [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)<!-- MEMES:END -->
+ - 👉 [Sometimes I wonder](http://9gag.com/gag/a34xwV1)<!-- MEMES:END -->
 
 ---
 
