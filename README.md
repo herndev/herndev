@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ooni’s newest pizza oven adds AI to your slice](https://www.theverge.com/news/768542/ooni-volt-2-pizza-oven-ai-pizza-intelligence)
- - [A look at issues facing AI companies, including LLMs&#39; limited memory, as they tackle safety in chatbots engaging in conversations about suicide and self-harm &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p6#a250903p6)
- - [Best Smoke Detectors for 2025, Engineer-Tested and Approved](https://www.cnet.com/home/security/best-smoke-detector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My brief hands-on with Acer’s new convertible Chromebook has me cautiously optimistic](https://www.theverge.com/hands-on/769834/acer-chromebook-plus-spin-514-2in1-mediatek-kompanio-ifa-2025-price-specs)
+ - [Philippines government data: online gambling revenue in the country overtook traditional casinos in H1 2025, generating ~$2B, or 53%+ of the industry&#39;s total &lpar;Ramon Royandoyan/Nikkei Asia&rpar;](http://www.techmeme.com/250903/p9#a250903p9)
+ - [Google will reveal its Gemini smart home plans &lpar;and hardware&rpar; next month](https://www.theverge.com/news/769848/google-teases-new-nest-cam-gemini-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
