@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
- - ⏩ [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)
- - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
+ - 💣 [Recycling plastic](http://9gag.com/gag/apRd9YD)
+ - ⏩ [When you forget you&#39;re not online](http://9gag.com/gag/apRd9AD)
+ - 👉 [Life is beautiful](http://9gag.com/gag/azxBepq)<!-- MEMES:END -->
 
 ---
 
