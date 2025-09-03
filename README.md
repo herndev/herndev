@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - ⏩ [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
- - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
+ - 💣 [This Chinese soldier at the parade](https://www.reddit.com/r/funny/comments/1n71p6m/this_chinese_soldier_at_the_parade/)
+ - ⏩ [Low IQ](http://9gag.com/gag/aByvmBO)
+ - 👉 [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)<!-- MEMES:END -->
 
 ---
 
