@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Might Be Making One Of Its PlayStation 5s Worse](https://kotaku.com/sony-playstation-5-digital-slim-storage-price-2000622679)
- - [Here&#39;s the Hollow Knight: Silksong release time for each region](https://www.pcgamer.com/games/action/silksong-release-time/)
- - [Octopath Traveler 0 is a remake — but new characters lead some major changes](https://www.polygon.com/octopath-traveler-0-champions-of-the-continent-remake-new-characters/)<!-- GAME:END -->
+ - [Cronos: The New Dawn review: contemporary horror at its very best](https://www.polygon.com/cronos-new-dawn-review/)
+ - [The Xbox Wireless Controller Breaker Series Has Arrived: Three Designs, One Statement](https://news.xbox.com/en-us/2025/09/03/xbox-wireless-controller-breaker-special-edition-series/)
+ - [Samsung Galaxy Tab A9+ Hits Clearance-Level Pricing Ahead of New S11 Tablet Launch](https://kotaku.com/samsung-galaxy-tab-a9-hits-clearance-level-pricing-ahead-of-new-s11-tablet-launch-2000622426)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
