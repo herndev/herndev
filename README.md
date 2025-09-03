@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The meow meow song](https://www.reddit.com/r/funny/comments/1n7boaw/the_meow_meow_song/)
- - ⏩ [Furlong](http://9gag.com/gag/aVvd7GK)
- - 👉 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)<!-- MEMES:END -->
+ - 💣 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
+ - ⏩ [Hard facts](http://9gag.com/gag/adBdgpZ)
+ - 👉 [Mental issues](http://9gag.com/gag/ae9dAZv)<!-- MEMES:END -->
 
 ---
 
