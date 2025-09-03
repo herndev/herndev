@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Stalker&#39;s most legendary mods has joined GOG&#39;s one-click install program, making it easier than ever to die horribly in Chornobyl](https://www.pcgamer.com/games/fps/one-of-stalkers-most-legendary-mods-has-joined-gogs-one-click-install-program-making-it-easier-than-ever-to-die-horribly-in-chornobyl/)
- - [Google will not be forced to sell Chrome, despite its near-monopoly, as its dominance is not &#39;sufficiently attributable to its illegal conduct&#39;](https://www.pcgamer.com/software/browsers/google-will-not-be-forced-to-sell-chrome-despite-its-near-monopoly-as-its-dominance-is-not-sufficiently-attributable-to-its-illegal-conduct/)
- - [Borderlands 1&#39;s artstyle overhaul filled Gearbox CEO Randy Pitchford with dread because he thought he&#39;d &#39;Have to go in and look at what they did&#39; and &#39;shoot it in the head&#39;](https://www.pcgamer.com/games/rpg/borderlands-1s-artstyle-overhaul-filled-gearbox-ceo-randy-pitchford-with-dread-because-he-thought-hed-have-to-go-in-and-look-at-what-they-did-and-shoot-it-in-the-head/)<!-- GAME:END -->
+ - [These Spider-Man mini-figures have ignited a Lego fan frenzy](https://www.polygon.com/lego-spider-verse-spider-man-set-where-to-buy-find-sold-out/)
+ - [TSMC, the biggest semiconductor manufacturer in the world, has special export privileges revoked as US continues to crack down on Chinese importers](https://www.pcgamer.com/hardware/tsmc-the-biggest-semiconductor-manufacturer-in-the-world-has-special-export-privileges-revoked-as-us-continues-to-crack-down-on-chinese-importers/)
+ - [Apple Changes Strategy to Boost Sales, Slashing 2025 iPads to a New Record Low Price](https://kotaku.com/apple-changes-strategy-to-boost-sales-slashing-2025-ipads-to-a-new-record-low-price-2000622668)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
