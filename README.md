@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
+ - 💣 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
  - ⏩ [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
- - 👉 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)<!-- MEMES:END -->
+ - 👉 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)<!-- MEMES:END -->
 
 ---
 
