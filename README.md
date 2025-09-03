@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As part of the US v. Google remedies ruling, a technical committee will be established to help enforce the final judgment, which will last six years &lpar;New York Times&rpar;](http://www.techmeme.com/250902/p37#a250902p37)
- - [Ousted Democratic FTC commissioner can return &lpar;again&rpar; for now](https://www.theverge.com/news/769683/fired-democratic-ftc-commissioner-rebecca-slaughter-reinstated)
- - [The Ampace Andes 1500 is $800 off, and it is my go-to power station!](https://www.androidauthority.com/ampace-andes-1500-power-station-deal-2-3593736/)<!-- TECH:END -->
+ - [Deal: Google TV Streamer drops to $79.99, almost its record-low price](https://www.androidauthority.com/google-tv-streamer-deal-5-3593735/)
+ - [Google says it is reviewing the court&#39;s ruling on search and has &quot;concerns&quot; about how the requirements &quot;will impact our users and their privacy&quot; &lpar;Lee-Anne Mulholland/Google&rpar;](http://www.techmeme.com/250902/p39#a250902p39)
+ - [Content creators and rideshare drivers are among the professions covered under the &quot;no tax on tips&quot; policy passed as part of the US spending bill signed in July &lpar;Alison Durkee/Forbes&rpar;](http://www.techmeme.com/250902/p38#a250902p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
