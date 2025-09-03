@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
- - ⏩ [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)
- - 👉 [Furlong](http://9gag.com/gag/aVvd7GK)<!-- MEMES:END -->
+ - 💣 [Mental issues](http://9gag.com/gag/ae9dAZv)
+ - ⏩ [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
+ - 👉 [...](http://9gag.com/gag/aRByXV2)<!-- MEMES:END -->
 
 ---
 
