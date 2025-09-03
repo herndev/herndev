@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Talamasca: The Secret Order expands AMC&#39;s Anne Rice Immortal Universe](https://www.polygon.com/talamasca-the-secret-order-anne-rice-immortal-universe-preview/)
- - [Next Superman Movie Coming 2027 As DC Movie Machine Keeps Ramping Up](https://kotaku.com/superman-tomorrow-lex-luthor-date-james-gunn-supergirl-batman-2000622739)
- - [Superman 2 is officially happening: James Gunn sets a release date for Man of Tomorrow](https://www.polygon.com/superman-sequel-man-of-tomorrow-james-gunn-july-2027/)<!-- GAME:END -->
+ - [Star Trucker at One: Past, Present and a Peek Around the Bend](https://news.xbox.com/en-us/2025/09/03/star-trucker-at-one-peek-around-the-bend/)
+ - [007 First Light Is So Much More Than A Hitman Game in Disguise](https://news.xbox.com/en-us/2025/09/03/007-first-light-james-bond-preview-xbox/)
+ - [You can finally ride a horse in Disney Dreamlight Valley thanks to its new expansion coming this November](https://www.pcgamer.com/games/life-sim/you-can-finally-ride-a-horse-in-disney-dreamlight-valley-thanks-to-its-new-expansion-coming-this-november/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
