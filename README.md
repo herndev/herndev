@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2: Diving Deep into New Hero Wuyang with His Concept Artist](https://news.xbox.com/en-us/2025/09/03/overwatch-2-wuyang-deep-dive/)
- - [Netflix reveals top 10 most-watched movies of all time](https://www.polygon.com/netflix-most-watched-movies-all-time-list/)
- - [Anker’s USB-C to Dual HDMI Adapter Hits All-Time Low, Escape the One-Screen Laptop Setup for Almost Free](https://kotaku.com/ankers-usb-c-to-dual-hdmi-adapter-hits-all-time-low-escape-the-one-screen-laptop-setup-for-almost-free-2000622363)<!-- GAME:END -->
+ - [Magic: The Gathering reprinting powerful $25 card with iconic Spider-Man art](https://www.polygon.com/magic-the-gathering-spider-man-parallel-lives/)
+ - [Crossroads of Ravens: Read an excerpt of The Witcher prequel novel](https://www.polygon.com/the-witcher-crossroad-of-ravens-preview/)
+ - [Xbox and 5-hour Energy Team Up to Launch Limited-Edition Purpleberry Punch for The Outer Worlds 2](https://news.xbox.com/en-us/2025/09/03/outer-worlds-2-xbox-5-hour-energy-purpleberry-punch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
