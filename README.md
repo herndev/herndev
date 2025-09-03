@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IYKYK](http://9gag.com/gag/aD2PdYx)
- - ⏩ [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
- - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
+ - 💣 [5 armed police arrest Comedian for a tweet.](http://9gag.com/gag/ajPdVK1)
+ - ⏩ [What does it taste?](http://9gag.com/gag/aE0Qqjn)
+ - 👉 [I like it](http://9gag.com/gag/arydmpX)<!-- MEMES:END -->
 
 ---
 
