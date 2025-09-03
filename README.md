@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Iconic Roblox game dies after pulling features used for underage kid dating](https://www.polygon.com/roblox-what-happened-to-meep-city/)
- - [Amazon&#39;s live-action Tomb Raider series names Game of Thrones actor Sophie Turner as its new Lara Croft](https://www.pcgamer.com/movies-tv/amazons-live-action-tomb-raider-series-names-game-of-thrones-actor-sophie-turner-as-its-new-lara-croft/)
- - [New 007 Game Out March 2026, $300 Version Comes With Golden Gun](https://kotaku.com/007-first-light-james-bond-new-game-ps5-gameplay-300-golden-gun-ioi-2000622752)<!-- GAME:END -->
+ - [The Xbox Ally PC Gaming Handheld Feels Great, But At What Price?](https://kotaku.com/rog-xbox-ally-price-pc-gaming-handheld-asus-pre-order-2000622751)
+ - [As bugs and bad performance spoil an otherwise excellent Helldivers 2 update, Arrowhead CEO says its &#39;technical debt is crippling&#39;](https://www.pcgamer.com/games/third-person-shooter/as-bugs-and-bad-performance-spoil-an-otherwise-excellent-helldivers-2-update-arrowhead-ceo-says-its-technical-debt-is-crippling/)
+ - [The best Hollow Knight lore videos to watch before playing Silksong](https://www.pcgamer.com/games/action/hollow-knight-lore-explainer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
