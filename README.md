@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 💣 [I don&#39;t think hanz can handle this](http://9gag.com/gag/abAdV7v)
  - ⏩ [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
+ - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
 
 ---
 
