@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remarkable’s new digital notepad is smaller than a paperback](https://www.theverge.com/news/769005/remarkable-paper-pro-move-e-note-notebook-stylus-tablet-e-ink)
- - [AI search engine startup Exa Labs raised an $85M Series B led by Benchmark at a $700M valuation, up 10x on its 2024 Series A, and plans to grow its GPU cluster &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p18#a250903p18)
- - [Ninth developer betas for iOS 26, macOS Tahoe 26 hit devices](https://appleinsider.com/articles/25/09/02/apple-outs-its-ninth-developer-betas-for-ios-26-macos-tahoe-26?utm_source=rss)<!-- TECH:END -->
+ - [Garmin unveils the $1,200+ Fenix 8 Pro, including new satellite and cellular communications tools, and a $2,000 microLED version, both shipping September 8 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/250903/p22#a250903p22)
+ - [The first ten things I changed on my Pixel 10!](https://www.androidauthority.com/first-10-things-google-pixel-10-3593263/)
+ - [How to Switch From iPhone to Android &lpar;2025&rpar;](https://www.wired.com/story/how-to-switch-from-iphone-to-android/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
