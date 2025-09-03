@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
- - ⏩ [Hard facts](http://9gag.com/gag/adBdgpZ)
- - 👉 [Mental issues](http://9gag.com/gag/ae9dAZv)<!-- MEMES:END -->
+ - 💣 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - ⏩ [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
 
 ---
 
