@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fall 2025 movies are all about resistance and revolution](https://www.polygon.com/fall-2025-movies-resistance-revolution-theme/)
- - [All the big fall JRPGs, ranked by how likely you are to finish them](https://www.polygon.com/fall-2025-jrpgs-ranked/)
- - [The Elder Scrolls Online: Feast of Shadows and New Update Now Live](https://www.elderscrollsonline.com/en-us/news/post/68561)<!-- GAME:END -->
+ - [How Talamasca: The Secret Order expands AMC&#39;s Anne Rice Immortal Universe](https://www.polygon.com/talamasca-the-secret-order-anne-rice-immortal-universe-preview/)
+ - [Next Superman Movie Coming 2027 As DC Movie Machine Keeps Ramping Up](https://kotaku.com/superman-tomorrow-lex-luthor-date-james-gunn-supergirl-batman-2000622739)
+ - [Superman 2 is officially happening: James Gunn sets a release date for Man of Tomorrow](https://www.polygon.com/superman-sequel-man-of-tomorrow-james-gunn-july-2027/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
