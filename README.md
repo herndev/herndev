@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mental issues](http://9gag.com/gag/ae9dAZv)
- - ⏩ [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
- - 👉 [...](http://9gag.com/gag/aRByXV2)<!-- MEMES:END -->
+ - 💣 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - ⏩ [I don&#39;t think hanz can handle this](http://9gag.com/gag/abAdV7v)
+ - 👉 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)<!-- MEMES:END -->
 
 ---
 
