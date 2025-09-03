@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
- - ⏩ [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 💣 [IYKYK](http://9gag.com/gag/aD2PdYx)
+ - ⏩ [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
  - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
 
 ---
