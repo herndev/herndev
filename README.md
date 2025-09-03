@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 3 &lpar;#1537&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-3-2025/)
  - [Alien: Earth episode 5 is the best Alien movie in 39 years](https://www.polygon.com/alien-earth-episode-5-is-the-best-alien-movie-in/)
- - [Blood Bowl&#39;s getting a new edition with teams for Bretonnians and Tomb Kings in the box](https://www.pcgamer.com/games/board-games/blood-bowls-getting-a-new-edition-with-teams-for-bretonnians-and-tomb-kings-in-the-box/)
- - [GTA Online 2025 roadmap: Leaks, DLC, and upcoming events](https://www.pcgamer.com/games/grand-theft-auto/gta-online-2025-roadmap/)<!-- GAME:END -->
+ - [Blood Bowl&#39;s getting a new edition with teams for Bretonnians and Tomb Kings in the box](https://www.pcgamer.com/games/board-games/blood-bowls-getting-a-new-edition-with-teams-for-bretonnians-and-tomb-kings-in-the-box/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
