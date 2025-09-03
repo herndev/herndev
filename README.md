@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These Spider-Man mini-figures have ignited a Lego fan frenzy](https://www.polygon.com/lego-spider-verse-spider-man-set-where-to-buy-find-sold-out/)
- - [TSMC, the biggest semiconductor manufacturer in the world, has special export privileges revoked as US continues to crack down on Chinese importers](https://www.pcgamer.com/hardware/tsmc-the-biggest-semiconductor-manufacturer-in-the-world-has-special-export-privileges-revoked-as-us-continues-to-crack-down-on-chinese-importers/)
- - [Apple Changes Strategy to Boost Sales, Slashing 2025 iPads to a New Record Low Price](https://kotaku.com/apple-changes-strategy-to-boost-sales-slashing-2025-ipads-to-a-new-record-low-price-2000622668)<!-- GAME:END -->
+ - [Sony Might Be Making One Of Its PlayStation 5s Worse](https://kotaku.com/sony-playstation-5-digital-slim-storage-price-2000622679)
+ - [Here&#39;s the Hollow Knight: Silksong release time for each region](https://www.pcgamer.com/games/action/silksong-release-time/)
+ - [Octopath Traveler 0 is a remake — but new characters lead some major changes](https://www.polygon.com/octopath-traveler-0-champions-of-the-continent-remake-new-characters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
