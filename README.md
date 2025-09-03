@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [007 First Light looks like a hit, man](https://www.theverge.com/news/770509/007-first-light-state-of-play-september-2025)
- - [Sources: xAI CFO Mike Liberatore left the company around the end of July, after joining in April &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250903/p35#a250903p35)
- - [Gboard’s new AI Writing Tools are coming to more Android phones](https://www.androidauthority.com/gboard-writing-tools-other-android-phones-3593589/)<!-- TECH:END -->
+ - [Ecobee now has Apple Home security system integrations](https://appleinsider.com/articles/25/09/03/ecobee-now-has-apple-home-security-system-integrations?utm_source=rss)
+ - [Source: OpenAI is increasing the size of its secondary share sale to $10.3B, up from $6B; the transaction is at a $500B valuation, in line with expectations &lpar;CNBC&rpar;](http://www.techmeme.com/250903/p36#a250903p36)
+ - [How &#39;Hollow Knight: Silksong&#39; Fans Turned Waiting for Its Release Into a Game](https://www.wired.com/story/how-fans-turned-waiting-for-hollow-knight-silksongs-release-into-a-game/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
