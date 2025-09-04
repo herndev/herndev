@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gen V season 2 has major connections to The Boys](https://www.polygon.com/gen-v-season-2-preview-showrunner-interview/)
- - [GTA 6 Being The First ‘AAAAA Game’ Is A Sign Of Both Confidence And Desperation](https://kotaku.com/gta-6-aaaaa-silksong-next-gen-pc-devolver-digital-2000623190)
- - [Dune: Awakening will be on sale for the first time next week, along with a &#39;zero restrictions&#39; free weekend](https://www.pcgamer.com/games/mmo/dune-awakening-will-be-on-sale-for-the-first-time-next-week-along-with-a-zero-restrictions-free-weekend/)<!-- GAME:END -->
+ - [EA Tells Colleges It’s No Longer Making A Basketball Game, Blames Them](https://kotaku.com/ea-college-basketball-canceled-2k-sports-nba-leaked-email-2000623214)
+ - [Silksong fans are clowning on Hollow Knight doubters from a decade ago](https://www.polygon.com/hollow-knight-silksong-release-viral-2015-reddit-post/)
+ - [The Silksong subreddit spent launch day sharing boss strats for Steam&#39;s &#39;cart phase&#39;, banishing each other to the Skongless year of 2019, and—let&#39;s see—posting hole](https://www.pcgamer.com/games/action/the-silksong-subreddit-spent-launch-day-sharing-boss-strats-for-steams-cart-phase-banishing-each-other-to-the-skongless-year-of-2019-and-lets-see-posting-hole/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
