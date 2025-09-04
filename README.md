@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CEOs of Apple, Google, Meta, OpenAI, and others are expected to attend an AI event hosted by Melania Trump and dinner at the White House Rose Garden on Thursday &lpar;The Hill&rpar;](http://www.techmeme.com/250904/p2#a250904p2)
- - [Orchard Robotics, which uses cameras and AI to help fruit growers manage crops more precisely, raised a $22M Series A led by Quiet Capital and Shine Capital &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250904/p1#a250904p1)
- - [Meet Dyson’s Brand-New Lineup: V8 Cyclone, V16 Piston Animal, HushJet Purifier Compact](https://www.wired.com/story/dyson-new-lineup-2026/)<!-- TECH:END -->
+ - [Aukey&amp;#8217;s new wireless charger gives you more freedom through the power of the orbs](https://www.theverge.com/news/769300/aukey-magfusion-ark-wireless-charger-qi2-2)
+ - [At IFA 2025, tech giants like Amazon, Google, and Samsung and startups like Doma are expected to showcase how AI could make smart homes more intuitive &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250904/p5#a250904p5)
+ - [Uber is tapping Indian drivers for its data-labeling arm, Uber AI Solutions, offering extra income for completing micro tasks like tagging objects in photos &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250904/p4#a250904p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
