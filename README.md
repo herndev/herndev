@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/769126/best-fitness-tracker)
- - [Welcome to Optimizer, our relentless quest to live a smarter, healthier life](https://www.theverge.com/optimizer-newsletter/769130/optimizer-newsletter-gadgets-apps-wearable-health)
- - [SwitchBot launches three AI-powered smart home products — including a pair of robots](https://www.theverge.com/ifa-berlin/770534/switchbot-ai-hub-eink-frame-robot-pet)<!-- TECH:END -->
+ - [Google is expanding the Pixel Weather app to Wear OS](https://www.androidauthority.com/pixel-weather-wear-os-3594587/)
+ - [State Department Agents Are Now Working with ICE on Immigration](https://www.wired.com/story/state-department-dss-agents-ice-immigration/)
+ - [Sources: Microsoft is set to avoid a potentially hefty EU antitrust fine by agreeing to sell Teams separately from its Office 365 and Microsoft 365 packages &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250904/p30#a250904p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
