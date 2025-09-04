@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones and the Great Circle: The Order of Giants DLC Available Now](https://bethesda.net/en/article/2e8gKo8DfjVZ1zj5YmOJF3/indiana-jones-and-the-great-circle-the-order-of-giants-dlc-available-now#new_tab)
- - [Silksong already has the 18th highest all-time peak player count in Steam history as it draws over 500,000 concurrent players in its first 4 hours](https://www.pcgamer.com/games/action/silksong-already-has-the-18th-highest-all-time-peak-player-count-in-steam-history-as-it-draws-over-500-000-players-in-its-first-4-hours/)
- - [If Lex Luthor isn’t the villain of Superman 2, who is?](https://www.polygon.com/superman-2-man-of-tomorrow-villain/)<!-- GAME:END -->
+ - [Firaxis Lays Off ‘Dozens’ Of Devs After Civilization VII Struggles](https://kotaku.com/firaxis-lays-off-dozens-devs-civilization-vii-struggles-cuts-2k-2000623187)
+ - [Hollow Knight: Silksong Hits Over Half A Million Players On PC Alone After Crashing Steam](https://kotaku.com/hollow-knight-silksong-hits-over-half-a-million-players-on-pc-alone-after-crashing-steam-2000623193)
+ - [Helluva Boss card game Kickstarter launches early, funds instantly](https://www.polygon.com/helluva-boss-card-game-kickstarter-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
