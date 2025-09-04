@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Prevent Tech Neck and Sit Properly With Your Laptop &lpar;2025&rpar;](https://www.wired.com/story/ergonomic-experts-convinced-me-ive-been-using-laptops-all-wrong/)
- - [Here’s how the Pixel’s AI zoom compares to a real 100x lens](https://www.theverge.com/tech/769360/google-pixel-10-pro-res-zoom-100x-sample-photos-nikon-coolpix-p1100)
- - [Here is Lego’s $1,000 Death Star, the most expensive Lego set ever](https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date)<!-- TECH:END -->
+ - [Ecovacs claims its fast-charging robovac can clean nonstop](https://www.theverge.com/news/770205/ecovacs-deebot-omni-x11-fast-charging-robovac)
+ - [The quest to keep OpenAI honest](https://www.theverge.com/decoder-podcast-with-nilay-patel/770325/eyesonopenai-coalition-nonprofit-sam-altman-ai)
+ - [macOS Sequoia flaw could have exposed Keychain data including passwords](https://appleinsider.com/articles/25/09/04/macos-sequoia-flaw-could-have-exposed-keychain-data-including-passwords?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
