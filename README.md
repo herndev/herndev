@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
- - ⏩ [Finally some clarity](http://9gag.com/gag/an7dg05)
- - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
+ - 💣 [I like it](http://9gag.com/gag/arydmpX)
+ - ⏩ [The ad campaign we wanted.](http://9gag.com/gag/avyDQRM)
+ - 👉 [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)<!-- MEMES:END -->
 
 ---
 
