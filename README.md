@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock&amp;#8217;s Curv 2 Pro can drop its mop pads to keep your carpets dry](https://www.theverge.com/news/770274/robovac-qrevo-curv-2-pro-suction-boost)
- - [The US v. Google ruling signals a cautious antitrust approach by courts and a reluctance to intervene too deeply, ahead of other Big Tech antitrust rulings &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250904/p14#a250904p14)
- - [Samsung unveils the $650+ Galaxy S25 FE and $800+ Tab S11 series in 11&quot; and 14.6&quot;, offering thinner, lighter designs alongside modest upgrades, shipping now &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250904/p13#a250904p13)<!-- TECH:END -->
+ - [GSR fund documents: TikTok rival Xiaohongshu, known as RedNote in the US, saw its valuation rise 19% to $31B from $26B in March during recent GSR transactions &lpar;Echo Wong/Bloomberg&rpar;](http://www.techmeme.com/250904/p18#a250904p18)
+ - [Sources: Alibaba, ByteDance, and other Chinese tech companies remain keen on Nvidia&#39;s AI chips despite Beijing strongly discouraging them from such purchases &lpar;Reuters&rpar;](http://www.techmeme.com/250904/p17#a250904p17)
+ - [Microsoft open-sources its 6502 version of BASIC from 1976](https://www.theverge.com/news/771120/microsoft-6502-basic-open-source-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
