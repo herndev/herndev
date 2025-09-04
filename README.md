@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s CNIL fines Google €325M for placing tracking cookies and ads in Gmail without users&#39; consent; Google says it is reviewing the decision &lpar;France 24&rpar;](http://www.techmeme.com/250903/p45#a250903p45)
- - [Apple Vision Pro&#39;s biggest market is enterprise, in spite of obvious limitations](https://appleinsider.com/articles/25/09/03/apple-vision-pros-biggest-market-is-enterprise-in-spite-of-obvious-limitations?utm_source=rss)
- - [Roblox will expand age checks to all users of its communication tools by the end of 2025 using facial age estimation tech, ID verification, and parental consent &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250903/p44#a250903p44)<!-- TECH:END -->
+ - [American Bitcoin closed up 16.5% in its Nasdaq debut on Wednesday, valuing Eric Trump and Donald Trump Jr.&#39;s stake in the bitcoin mining company at $1.5B &lpar;Reuters&rpar;](http://www.techmeme.com/250903/p48#a250903p48)
+ - [A US jury orders Google to pay $425M+ to plaintiffs in a 2020 class action lawsuit for collecting data even after they turned off Web &amp; App Activity tracking &lpar;Margaret Attridge/Courthouse News Service&rpar;](http://www.techmeme.com/250903/p47#a250903p47)
+ - [OpenAI makes ChatGPT Projects available to all free users, and allows more files to be added to projects; Projects was previously exclusive to paid subscribers &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250903/p46#a250903p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
