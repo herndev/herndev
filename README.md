@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - ⏩ [Surstr\u00f6mming prank](http://9gag.com/gag/abAdg0L)
- - 👉 [She has got to be dreaming..](http://9gag.com/gag/a87n7XQ)<!-- MEMES:END -->
+ - 💣 [Dementia. What&#39;s waiting for me at the end of my life](http://9gag.com/gag/aXPdnBv)
+ - ⏩ [Where\u2019s His Body Gone](http://9gag.com/gag/an7dgMo)
+ - 👉 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)<!-- MEMES:END -->
 
 ---
 
