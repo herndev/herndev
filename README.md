@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [On the eve of Silksong, ultrawide monitor support is confirmed, and the soundtrack looks to be double the size of the original](https://www.pcgamer.com/games/action/on-the-eve-of-silksong-ultrawide-monitor-support-is-confirmed-and-the-soundtrack-looks-to-be-double-the-size-of-the-original/)
  - [Today&#39;s Wordle clues, hints and answer for September 4 &lpar;#1538&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-4-2025/)
- - [After seeing 30 minutes of the new Bond game, I&#39;m more excited for the shooting than the stealth](https://www.pcgamer.com/games/action/after-seeing-30-minutes-of-the-new-bond-game-im-more-excited-for-the-shooting-than-the-stealth/)
- - [September is absolutely stacked with city builders: here&#39;s 8 releasing this month](https://www.pcgamer.com/games/city-builder/september-is-absolutely-stacked-with-city-builders-heres-8-releasing-this-month/)<!-- GAME:END -->
+ - [After seeing 30 minutes of the new Bond game, I&#39;m more excited for the shooting than the stealth](https://www.pcgamer.com/games/action/after-seeing-30-minutes-of-the-new-bond-game-im-more-excited-for-the-shooting-than-the-stealth/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
