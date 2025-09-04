@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belkin’s cheap wired earbuds give you ANC without battery anxieties](https://www.theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch)
- - [This Belkin Qi2 charging puck comes with a kickstand and cooling](https://www.theverge.com/news/770539/belkin-ultracharge-magnetic-charger-qi2-availability)
- - [This guy made his own slider phone out of a broken Z Flip 5 and BlackBerry keyboard](https://www.androidauthority.com/blackberry-keyboard-broken-galaxy-z-flip-5-3594367/)<!-- TECH:END -->
+ - [Universities have begun appointing Chief AI Officers tasked with developing curricula, promoting tech partnerships, and integrating AI into faculty workflows &lpar;John Kell/Fortune&rpar;](http://www.techmeme.com/250904/p10#a250904p10)
+ - [Samsung’s TriFold isn’t here yet, but its main rival just got a successor](https://www.androidauthority.com/huawei-mate-xts-launch-3594381/)
+ - [Taiwan&#39;s Hsinchu chip hub, where childcare perks and high salaries make raising children more viable, is the only place where its fertility rate is not falling &lpar;Hsiuwen Liu/Rest of World&rpar;](http://www.techmeme.com/250904/p9#a250904p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
