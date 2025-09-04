@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [-1hp -1hp -1hp -1hp -1hp](http://9gag.com/gag/a4PxPeQ)
- - ⏩ [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
- - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
+ - 💣 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - ⏩ [Recycling plastic](http://9gag.com/gag/apRd9YD)
+ - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
 
 ---
 
