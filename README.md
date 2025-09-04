@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the Pentagon rushes to deploy AI into its weapons systems, some experts fear humans can&#39;t keep pace with AI&#39;s aggressive tendency to escalate in a crisis &lpar;Michael Hirsh/Politico&rpar;](http://www.techmeme.com/250904/p8#a250904p8)
- - [AlliedOffsets: Microsoft dominates credit purchases from technology-based carbon removal projects, accounting for about $8B of the $9.5B market to date &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p7#a250904p7)
- - [US banking groups warn a GENIUS Act loophole, which allows crypto exchanges reward stablecoin holdings, could drive users to pull money from traditional banks &lpar;Adam Willems/Wired&rpar;](http://www.techmeme.com/250904/p6#a250904p6)<!-- TECH:END -->
+ - [Belkin’s cheap wired earbuds give you ANC without battery anxieties](https://www.theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch)
+ - [This Belkin Qi2 charging puck comes with a kickstand and cooling](https://www.theverge.com/news/770539/belkin-ultracharge-magnetic-charger-qi2-availability)
+ - [This guy made his own slider phone out of a broken Z Flip 5 and BlackBerry keyboard](https://www.androidauthority.com/blackberry-keyboard-broken-galaxy-z-flip-5-3594367/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
