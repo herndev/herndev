@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ad campaign we wanted.](http://9gag.com/gag/avyDQRM)
- - ⏩ [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)
- - 👉 [I like it](http://9gag.com/gag/arydmpX)<!-- MEMES:END -->
+ - 💣 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
+ - ⏩ [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)
+ - 👉 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)<!-- MEMES:END -->
 
 ---
 
