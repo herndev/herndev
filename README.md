@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cloudflare mitigates biggest ever DDoS attack, which tried to pelt its target with 11.5 Tbps of data in less than a minute](https://www.pcgamer.com/hardware/cloudflare-mitigates-biggest-ever-ddos-attack-which-tried-to-pelt-its-target-with-11-5-tbps-of-data-in-less-than-a-minute/)
  - [On the eve of Silksong, ultrawide monitor support is confirmed, and the soundtrack looks to be double the size of the original](https://www.pcgamer.com/games/action/on-the-eve-of-silksong-ultrawide-monitor-support-is-confirmed-and-the-soundtrack-looks-to-be-double-the-size-of-the-original/)
- - [Today&#39;s Wordle clues, hints and answer for September 4 &lpar;#1538&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-4-2025/)
- - [After seeing 30 minutes of the new Bond game, I&#39;m more excited for the shooting than the stealth](https://www.pcgamer.com/games/action/after-seeing-30-minutes-of-the-new-bond-game-im-more-excited-for-the-shooting-than-the-stealth/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for September 4 &lpar;#1538&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-4-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
