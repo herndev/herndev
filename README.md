@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Tells Colleges It’s No Longer Making A Basketball Game, Blames Them](https://kotaku.com/ea-college-basketball-canceled-2k-sports-nba-leaked-email-2000623214)
- - [Silksong fans are clowning on Hollow Knight doubters from a decade ago](https://www.polygon.com/hollow-knight-silksong-release-viral-2015-reddit-post/)
- - [The Silksong subreddit spent launch day sharing boss strats for Steam&#39;s &#39;cart phase&#39;, banishing each other to the Skongless year of 2019, and—let&#39;s see—posting hole](https://www.pcgamer.com/games/action/the-silksong-subreddit-spent-launch-day-sharing-boss-strats-for-steams-cart-phase-banishing-each-other-to-the-skongless-year-of-2019-and-lets-see-posting-hole/)<!-- GAME:END -->
+ - [Silksong is so popular, even people in the Piracy subreddit are encouraging others to just buy it: &#39;If we can afford to support them, we should&#39;](https://www.pcgamer.com/games/action/silksong-is-so-popular-even-people-in-the-piracy-subreddit-are-encouraging-others-to-just-buy-it-if-we-can-afford-to-support-them-we-should/)
+ - [&#39;Berry Picking&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-berry-picking-mossberry-location-wish-quest/)
+ - [EA Tells Colleges It’s No Longer Making A Basketball Game, Blames Them](https://kotaku.com/ea-college-basketball-canceled-2k-sports-nba-leaked-email-2000623214)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
