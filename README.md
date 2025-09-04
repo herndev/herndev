@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I too enjoy roulette, but there are times I gotta restrict myself.](http://9gag.com/gag/aO8j3XM)
- - ⏩ [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - 👉 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)<!-- MEMES:END -->
+ - 💣 [The ad campaign we wanted.](http://9gag.com/gag/avyDQRM)
+ - ⏩ [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)
+ - 👉 [I like it](http://9gag.com/gag/arydmpX)<!-- MEMES:END -->
 
 ---
 
