@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Quest 1&amp;2 HD remakes get new gameplay details from Square Enix](https://www.polygon.com/dragon-quest-1-2-hd-2d-remake-gameplay-depth/)
- - [Free Play Days – Madden 26, TopSpin 2K25, Beyond Galaxyland and Naruto to Boruto: Shinobi Striker](https://news.xbox.com/en-us/2025/09/04/free-play-days-09-04-2025/)
- - [&#39;Let the criers cry&#39;: 42,000 Pokémon TCG Phantasmal Flames products have been swiped by a scalper group thanks to a &#39;massive error&#39; on the Pokémon Center](https://www.pcgamer.com/games/card-games/let-the-criers-cry-42-000-pokemon-tcg-phantasmal-flames-products-have-been-swiped-by-a-scalper-group-thanks-to-a-massive-error-on-the-pokemon-center/)<!-- GAME:END -->
+ - [Why Justin Tipping&#39;s football horror movie Him looks so familiar](https://www.polygon.com/him-justin-tipping-interview-preview-jordan-peele-football-horror/)
+ - [ID@Xbox Indie Selects Demo Fest Is Heading Your Way Next Week](https://news.xbox.com/en-us/2025/09/04/id-xbox-indie-selects-demo-fest-2025/)
+ - [Samsung 49″ Odyssey Curved Gaming Monitor Drops Below Black Friday Pricing, $700 Off Feels Like a Steal](https://kotaku.com/samsung-49%e2%80%b3-odyssey-curved-gaming-monitor-drops-below-black-friday-pricing-700-off-feels-like-a-steal-2000622791)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
