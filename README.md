@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not a surprise tbh](http://9gag.com/gag/a2vx1b1)
- - ⏩ [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - 👉 [Surstr\u00f6mming prank](http://9gag.com/gag/abAdg0L)<!-- MEMES:END -->
+ - 💣 [I too enjoy roulette, but there are times I gotta restrict myself.](http://9gag.com/gag/aO8j3XM)
+ - ⏩ [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
+ - 👉 [Self-defence](http://9gag.com/gag/aYQdQvm)<!-- MEMES:END -->
 
 ---
 
