@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GSR fund documents: TikTok rival Xiaohongshu, known as RedNote in the US, saw its valuation rise 19% to $31B from $26B in March during recent GSR transactions &lpar;Echo Wong/Bloomberg&rpar;](http://www.techmeme.com/250904/p18#a250904p18)
- - [Sources: Alibaba, ByteDance, and other Chinese tech companies remain keen on Nvidia&#39;s AI chips despite Beijing strongly discouraging them from such purchases &lpar;Reuters&rpar;](http://www.techmeme.com/250904/p17#a250904p17)
- - [Microsoft open-sources its 6502 version of BASIC from 1976](https://www.theverge.com/news/771120/microsoft-6502-basic-open-source-release)<!-- TECH:END -->
+ - [The US Army awards a $98.9M contract to TurbineOne to deploy AI software that helps infantry identify drones and other threats locally on soldiers&#39; devices &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250904/p21#a250904p21)
+ - [Philips’ new Hue Bridge Pro can turn your Hue lights into motion sensors](https://www.androidauthority.com/philips-hue-bridge-pro-launch-3594439/)
+ - [Research and 25 experts, victims, and execs: North Korean hackers are saturating the crypto industry with credible-seeming job offers in a bid to steal crypto &lpar;Reuters&rpar;](http://www.techmeme.com/250904/p20#a250904p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
