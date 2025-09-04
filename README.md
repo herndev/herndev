@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From Battery Health to fingerprint unlock, Google just fixed a lot on your Pixel](https://www.androidauthority.com/google-pixel-september-2025-security-update-fixes-3594340/)
  - [Sources: Lambda, a cloud provider that rents out Nvidia chips, has hired banks to prepare for a US IPO as soon as H1 2026; it was valued at $2.5B in February &lpar;The Information&rpar;](http://www.techmeme.com/250903/p50#a250903p50)
- - [Anthropic named the Qatar Investment Authority as a &quot;significant&quot; investor in its $13B round; QIA expects to do up to 25 tech deals through 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p49#a250903p49)
- - [American Bitcoin closed up 16.5% in its Nasdaq debut on Wednesday, valuing Eric Trump and Donald Trump Jr.&#39;s stake in the bitcoin mining company at $1.5B &lpar;Reuters&rpar;](http://www.techmeme.com/250903/p48#a250903p48)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 4, #346](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-4-346/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
