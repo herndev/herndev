@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honorable Mention](http://9gag.com/gag/aLnb1AP)
- - ⏩ [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)
- - 👉 [I thought those are goals...](http://9gag.com/gag/a5QxQ1O)<!-- MEMES:END -->
+ - 💣 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
+ - ⏩ [Surstr\u00f6mming prank](http://9gag.com/gag/abAdg0L)
+ - 👉 [She has got to be dreaming..](http://9gag.com/gag/a87n7XQ)<!-- MEMES:END -->
 
 ---
 
