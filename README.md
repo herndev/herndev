@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - ⏩ [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)
- - 👉 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)<!-- MEMES:END -->
+ - 💣 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
+ - ⏩ [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - 👉 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)<!-- MEMES:END -->
 
 ---
 
