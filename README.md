@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want the Galaxy S25 FE? This $6 monthly AT&amp;T offer is too good to ignore](https://www.androidauthority.com/att-galaxy-s25-fe-deal-3594785/)
- - [Commercials Are Coming to NFL RedZone This Season... Sigh](https://www.cnet.com/tech/services-and-software/commercials-are-coming-to-nfl-redzone-this-season-sigh/#ftag=CAD590a51e)
- - [Meta rolls out a tool that lets users attach up to 10,000 characters of text to Threads posts, building upon the 500-character text limit for posts &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250904/p36#a250904p36)<!-- TECH:END -->
+ - [Neuralink’s Bid to Trademark ‘Telepathy’ and ‘Telekinesis’ Faces Legal Issues](https://www.wired.com/story/uspto-denies-neuralinks-applications-for-telepathy-telekinesis-marks/)
+ - [Wallet update turns &#39;buy now pay later&#39; into a built-in feature of iPhones](https://appleinsider.com/articles/25/09/04/wallet-update-turns-buy-now-pay-later-into-a-built-in-feature-of-iphones?utm_source=rss)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
