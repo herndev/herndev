@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
- - ⏩ [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
- - 👉 [Life is beautiful](http://9gag.com/gag/azxBepq)<!-- MEMES:END -->
+ - 💣 [Honorable Mention](http://9gag.com/gag/aLnb1AP)
+ - ⏩ [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)
+ - 👉 [I thought those are goals...](http://9gag.com/gag/a5QxQ1O)<!-- MEMES:END -->
 
 ---
 
