@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - 💣 [Not a surprise tbh](http://9gag.com/gag/a2vx1b1)
  - ⏩ [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - 👉 [Austin Texas](http://9gag.com/gag/abAdgWE)<!-- MEMES:END -->
+ - 👉 [Surstr\u00f6mming prank](http://9gag.com/gag/abAdg0L)<!-- MEMES:END -->
 
 ---
 
