@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Nvidia agreed to rent 10,000 of its own AI chips from Lambda for $1.3B over four years, the latest example of Nvidia&#39;s circular financial arrangements &lpar;The Information&rpar;](http://www.techmeme.com/250904/p43#a250904p43)
- - [WBD files a copyright suit against Midjourney, accusing the startup of using its content to train AI and letting users generate images of characters like Batman &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/250904/p42#a250904p42)
- - [Pour one out for the Galaxy Note line as updates come to an end](https://www.androidauthority.com/samsung-galaxy-note-20-updates-ended-3594889/)<!-- TECH:END -->
+ - [Warner Bros. Discovery sues Midjourney for generating &amp;#8216;countless&amp;#8217; copies of its characters](https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit)
+ - [Tech companies pledge to ready Americans for an AI-dominated world](https://www.theverge.com/policy/772084/amazon-google-microsoft-white-house-ai-education)
+ - [An Anthropic executive says the company will stop selling AI services to majority Chinese-owned groups and to US adversaries, like Russia, Iran, and North Korea &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p46#a250904p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
