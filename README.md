@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Odyssey fan proves the impossible in a few seconds](https://www.polygon.com/super-mario-odyssey-lakitu-freedom-glitch-nintendo-switch/)
- - [Hollow Knight: Silksong Is Out Now!](https://www.xbox.com/en-us/games/store/hollow-knight-silksong/9n116v0599hb#new_tab)
- - [Fill your entire field of vision with this ridiculous ultrawide handheld gaming PC](https://www.pcgamer.com/hardware/handheld-gaming-pcs/fill-your-entire-field-of-vision-with-this-ridiculous-ultrawide-handheld-gaming-pc/)<!-- GAME:END -->
+ - [Dragon Quest 1&amp;2 HD remakes get new gameplay details from Square Enix](https://www.polygon.com/dragon-quest-1-2-hd-2d-remake-gameplay-depth/)
+ - [Free Play Days – Madden 26, TopSpin 2K25, Beyond Galaxyland and Naruto to Boruto: Shinobi Striker](https://news.xbox.com/en-us/2025/09/04/free-play-days-09-04-2025/)
+ - [&#39;Let the criers cry&#39;: 42,000 Pokémon TCG Phantasmal Flames products have been swiped by a scalper group thanks to a &#39;massive error&#39; on the Pokémon Center](https://www.pcgamer.com/games/card-games/let-the-criers-cry-42-000-pokemon-tcg-phantasmal-flames-products-have-been-swiped-by-a-scalper-group-thanks-to-a-massive-error-on-the-pokemon-center/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
