@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silksong is so popular, even people in the Piracy subreddit are encouraging others to just buy it: &#39;If we can afford to support them, we should&#39;](https://www.pcgamer.com/games/action/silksong-is-so-popular-even-people-in-the-piracy-subreddit-are-encouraging-others-to-just-buy-it-if-we-can-afford-to-support-them-we-should/)
- - [&#39;Berry Picking&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-berry-picking-mossberry-location-wish-quest/)
- - [EA Tells Colleges It’s No Longer Making A Basketball Game, Blames Them](https://kotaku.com/ea-college-basketball-canceled-2k-sports-nba-leaked-email-2000623214)<!-- GAME:END -->
+ - [Ninja Gaiden 4 Deprogrammed My Souls-Pilled Brain And I Loved Every Minute](https://kotaku.com/ninja-gaiden-4-hands-on-hitstop-difficulty-game-pass-2000623220)
+ - [Stardew Valley&#39;s Eric Barone is in the Hollow Knight: Silksong credits for voicing a mystery character](https://www.pcgamer.com/games/action/stardew-valleys-eric-barone-is-in-the-hollow-knight-silksong-credits-for-voicing-a-mystery-character/)
+ - [99 Nights in the Forest—Tips for surviving The Deer, Owl, and Cultist invasions](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-tips/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
