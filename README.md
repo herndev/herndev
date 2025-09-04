@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [-1hp -1hp -1hp -1hp -1hp](http://9gag.com/gag/a4PxPeQ)
- - ⏩ [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 👉 [This girl with a sneezing condition](http://9gag.com/gag/a9yV1NW)<!-- MEMES:END -->
+ - 💣 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
+ - ⏩ [Recycling plastic](http://9gag.com/gag/apRd9YD)
+ - 👉 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)<!-- MEMES:END -->
 
 ---
 
