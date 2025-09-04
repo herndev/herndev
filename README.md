@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DC&#39;s iconic Kingdom Come comic gets an audiobook adaptation](https://www.polygon.com/kingdom-come-audio-adaptation-preview/)
- - [One Of The Best Puzzle RPGs Of All Time Is Getting A Remaster](https://kotaku.com/puzzle-quest-immortal-edition-match-3-remaster-2000623170)
- - [Noctua&#39;s all-in-one liquid cooler has finally received a release window in 2026, but a few fans, cases, and mice have been pushed back in the latest roadmap](https://www.pcgamer.com/hardware/noctuas-all-in-one-liquid-cooler-has-finally-received-a-release-window-in-2026-but-a-few-fans-cases-and-mice-have-been-pushed-back-in-the-latest-roadmap/)<!-- GAME:END -->
+ - [Indiana Jones and the Great Circle: The Order of Giants DLC Available Now](https://bethesda.net/en/article/2e8gKo8DfjVZ1zj5YmOJF3/indiana-jones-and-the-great-circle-the-order-of-giants-dlc-available-now#new_tab)
+ - [Silksong already has the 18th highest all-time peak player count in Steam history as it draws over 500,000 concurrent players in its first 4 hours](https://www.pcgamer.com/games/action/silksong-already-has-the-18th-highest-all-time-peak-player-count-in-steam-history-as-it-draws-over-500-000-players-in-its-first-4-hours/)
+ - [If Lex Luthor isn’t the villain of Superman 2, who is?](https://www.polygon.com/superman-2-man-of-tomorrow-villain/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
