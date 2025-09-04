@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Justin Tipping&#39;s football horror movie Him looks so familiar](https://www.polygon.com/him-justin-tipping-interview-preview-jordan-peele-football-horror/)
- - [ID@Xbox Indie Selects Demo Fest Is Heading Your Way Next Week](https://news.xbox.com/en-us/2025/09/04/id-xbox-indie-selects-demo-fest-2025/)
- - [Samsung 49″ Odyssey Curved Gaming Monitor Drops Below Black Friday Pricing, $700 Off Feels Like a Steal](https://kotaku.com/samsung-49%e2%80%b3-odyssey-curved-gaming-monitor-drops-below-black-friday-pricing-700-off-feels-like-a-steal-2000622791)<!-- GAME:END -->
+ - [DC&#39;s iconic Kingdom Come comic gets an audiobook adaptation](https://www.polygon.com/kingdom-come-audio-adaptation-preview/)
+ - [One Of The Best Puzzle RPGs Of All Time Is Getting A Remaster](https://kotaku.com/puzzle-quest-immortal-edition-match-3-remaster-2000623170)
+ - [Noctua&#39;s all-in-one liquid cooler has finally received a release window in 2026, but a few fans, cases, and mice have been pushed back in the latest roadmap](https://www.pcgamer.com/hardware/noctuas-all-in-one-liquid-cooler-has-finally-received-a-release-window-in-2026-but-a-few-fans-cases-and-mice-have-been-pushed-back-in-the-latest-roadmap/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
