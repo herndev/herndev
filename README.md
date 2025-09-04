@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Firaxis Lays Off ‘Dozens’ Of Devs After Civilization VII Struggles](https://kotaku.com/firaxis-lays-off-dozens-devs-civilization-vii-struggles-cuts-2k-2000623187)
- - [Hollow Knight: Silksong Hits Over Half A Million Players On PC Alone After Crashing Steam](https://kotaku.com/hollow-knight-silksong-hits-over-half-a-million-players-on-pc-alone-after-crashing-steam-2000623193)
- - [Helluva Boss card game Kickstarter launches early, funds instantly](https://www.polygon.com/helluva-boss-card-game-kickstarter-launch/)<!-- GAME:END -->
+ - [Gen V season 2 has major connections to The Boys](https://www.polygon.com/gen-v-season-2-preview-showrunner-interview/)
+ - [GTA 6 Being The First ‘AAAAA Game’ Is A Sign Of Both Confidence And Desperation](https://kotaku.com/gta-6-aaaaa-silksong-next-gen-pc-devolver-digital-2000623190)
+ - [Dune: Awakening will be on sale for the first time next week, along with a &#39;zero restrictions&#39; free weekend](https://www.pcgamer.com/games/mmo/dune-awakening-will-be-on-sale-for-the-first-time-next-week-along-with-a-zero-restrictions-free-weekend/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
