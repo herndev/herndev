@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whose line is it anyway?](http://9gag.com/gag/aYQdG4w)
- - ⏩ [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)
+ - 💣 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - ⏩ [I wanna see she starve](http://9gag.com/gag/aNDqLew)
  - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
 
 ---
