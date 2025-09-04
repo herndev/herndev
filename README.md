@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Army awards a $98.9M contract to TurbineOne to deploy AI software that helps infantry identify drones and other threats locally on soldiers&#39; devices &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250904/p21#a250904p21)
- - [Philips’ new Hue Bridge Pro can turn your Hue lights into motion sensors](https://www.androidauthority.com/philips-hue-bridge-pro-launch-3594439/)
- - [Research and 25 experts, victims, and execs: North Korean hackers are saturating the crypto industry with credible-seeming job offers in a bid to steal crypto &lpar;Reuters&rpar;](http://www.techmeme.com/250904/p20#a250904p20)<!-- TECH:END -->
+ - [How to Prevent Tech Neck and Sit Properly With Your Laptop &lpar;2025&rpar;](https://www.wired.com/story/ergonomic-experts-convinced-me-ive-been-using-laptops-all-wrong/)
+ - [Here’s how the Pixel’s AI zoom compares to a real 100x lens](https://www.theverge.com/tech/769360/google-pixel-10-pro-res-zoom-100x-sample-photos-nikon-coolpix-p1100)
+ - [Here is Lego’s $1,000 Death Star, the most expensive Lego set ever](https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
