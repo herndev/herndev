@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
+ - 💣 [-1hp -1hp -1hp -1hp -1hp](http://9gag.com/gag/a4PxPeQ)
  - ⏩ [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 👉 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)<!-- MEMES:END -->
+ - 👉 [This girl with a sneezing condition](http://9gag.com/gag/a9yV1NW)<!-- MEMES:END -->
 
 ---
 
