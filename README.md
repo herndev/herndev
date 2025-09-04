@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Universities have begun appointing Chief AI Officers tasked with developing curricula, promoting tech partnerships, and integrating AI into faculty workflows &lpar;John Kell/Fortune&rpar;](http://www.techmeme.com/250904/p10#a250904p10)
- - [Samsung’s TriFold isn’t here yet, but its main rival just got a successor](https://www.androidauthority.com/huawei-mate-xts-launch-3594381/)
- - [Taiwan&#39;s Hsinchu chip hub, where childcare perks and high salaries make raising children more viable, is the only place where its fertility rate is not falling &lpar;Hsiuwen Liu/Rest of World&rpar;](http://www.techmeme.com/250904/p9#a250904p9)<!-- TECH:END -->
+ - [Roborock&amp;#8217;s Curv 2 Pro can drop its mop pads to keep your carpets dry](https://www.theverge.com/news/770274/robovac-qrevo-curv-2-pro-suction-boost)
+ - [The US v. Google ruling signals a cautious antitrust approach by courts and a reluctance to intervene too deeply, ahead of other Big Tech antitrust rulings &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250904/p14#a250904p14)
+ - [Samsung unveils the $650+ Galaxy S25 FE and $800+ Tab S11 series in 11&quot; and 14.6&quot;, offering thinner, lighter designs alongside modest upgrades, shipping now &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250904/p13#a250904p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
