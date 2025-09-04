@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dementia. What&#39;s waiting for me at the end of my life](http://9gag.com/gag/aXPdnBv)
- - ⏩ [Where\u2019s His Body Gone](http://9gag.com/gag/an7dgMo)
- - 👉 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)<!-- MEMES:END -->
+ - 💣 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
+ - ⏩ [Dementia. What&#39;s waiting for me at the end of my life](http://9gag.com/gag/aXPdnBv)
+ - 👉 [593846](http://9gag.com/gag/ae9dQ6v)<!-- MEMES:END -->
 
 ---
 
