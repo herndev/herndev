@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
- - ⏩ [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)
- - 👉 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)<!-- MEMES:END -->
+ - 💣 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
+ - ⏩ [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - 👉 [Recycling plastic](http://9gag.com/gag/apRd9YD)<!-- MEMES:END -->
 
 ---
 
