@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
- - ⏩ [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - 👉 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)<!-- MEMES:END -->
+ - 💣 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
+ - ⏩ [Finally some clarity](http://9gag.com/gag/an7dg05)
+ - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
 
 ---
 
