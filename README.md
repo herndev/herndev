@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is expanding the Pixel Weather app to Wear OS](https://www.androidauthority.com/pixel-weather-wear-os-3594587/)
- - [State Department Agents Are Now Working with ICE on Immigration](https://www.wired.com/story/state-department-dss-agents-ice-immigration/)
- - [Sources: Microsoft is set to avoid a potentially hefty EU antitrust fine by agreeing to sell Teams separately from its Office 365 and Microsoft 365 packages &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250904/p30#a250904p30)<!-- TECH:END -->
+ - [You can now attach 10,000 character blogs to your Threads posts](https://www.theverge.com/news/770391/meta-threads-text-dumps-attachments-10000-characters)
+ - [DOJ charges ex-IRL CEO Abraham Shafi with securities and wire fraud for allegedly misleading investors about user growth, concealing personal expenses, and more &lpar;Fortune&rpar;](http://www.techmeme.com/250904/p35#a250904p35)
+ - [Adobe plans to launch a free version of its Premiere video editor for iPhone later this month, with one-tap exporting to TikTok, YouTube Shorts, and Instagram &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250904/p34#a250904p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
