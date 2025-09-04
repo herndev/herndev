@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now attach 10,000 character blogs to your Threads posts](https://www.theverge.com/news/770391/meta-threads-text-dumps-attachments-10000-characters)
- - [DOJ charges ex-IRL CEO Abraham Shafi with securities and wire fraud for allegedly misleading investors about user growth, concealing personal expenses, and more &lpar;Fortune&rpar;](http://www.techmeme.com/250904/p35#a250904p35)
- - [Adobe plans to launch a free version of its Premiere video editor for iPhone later this month, with one-tap exporting to TikTok, YouTube Shorts, and Instagram &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250904/p34#a250904p34)<!-- TECH:END -->
+ - [Want the Galaxy S25 FE? This $6 monthly AT&amp;T offer is too good to ignore](https://www.androidauthority.com/att-galaxy-s25-fe-deal-3594785/)
+ - [Commercials Are Coming to NFL RedZone This Season... Sigh](https://www.cnet.com/tech/services-and-software/commercials-are-coming-to-nfl-redzone-this-season-sigh/#ftag=CAD590a51e)
+ - [Meta rolls out a tool that lets users attach up to 10,000 characters of text to Threads posts, building upon the 500-character text limit for posts &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250904/p36#a250904p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
