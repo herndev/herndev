@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4 preview: BL4 nails the Borderlands basics, and that’s all that matters](https://www.polygon.com/borderlands-4-preview/)
- - [The next two heroes coming to Marvel Rivals have officially been announced, and I only know who one of them is](https://www.pcgamer.com/games/third-person-shooter/the-next-two-heroes-coming-to-marvel-rivals-have-officially-been-announced-and-i-only-know-who-one-of-them-is/)
- - [RuneScape boss says he killed Pride events to keep things going &#39;as apolitically as possible,&#39; which doesn&#39;t sound very apolitical to me](https://www.pcgamer.com/games/mmo/runescape-boss-says-he-killed-pride-events-to-keep-things-going-as-apolitically-as-possible-which-doesnt-sound-very-apolitical-to-me/)<!-- GAME:END -->
+ - [Sulfur demo out today on PS5](https://blog.playstation.com/2025/09/04/sulfur-demo-out-today-on-ps5/)
+ - [Alien: Earth creator Noah Hawley reveals the secrets behind episode 5&#39;s explosive story](https://www.polygon.com/alien-earth-episode-5-noah-hawley-interview/)
+ - [Cataclismo: The Best Castles for Your Mist-Defying Needs](https://news.xbox.com/en-us/2025/09/04/cataclismo-the-best-castles-for-your-mist-defying-needs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
