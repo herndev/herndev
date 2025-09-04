@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sulfur demo out today on PS5](https://blog.playstation.com/2025/09/04/sulfur-demo-out-today-on-ps5/)
- - [Alien: Earth creator Noah Hawley reveals the secrets behind episode 5&#39;s explosive story](https://www.polygon.com/alien-earth-episode-5-noah-hawley-interview/)
- - [Cataclismo: The Best Castles for Your Mist-Defying Needs](https://news.xbox.com/en-us/2025/09/04/cataclismo-the-best-castles-for-your-mist-defying-needs/)<!-- GAME:END -->
+ - [Super Mario Odyssey fan proves the impossible in a few seconds](https://www.polygon.com/super-mario-odyssey-lakitu-freedom-glitch-nintendo-switch/)
+ - [Hollow Knight: Silksong Is Out Now!](https://www.xbox.com/en-us/games/store/hollow-knight-silksong/9n116v0599hb#new_tab)
+ - [Fill your entire field of vision with this ridiculous ultrawide handheld gaming PC](https://www.pcgamer.com/hardware/handheld-gaming-pcs/fill-your-entire-field-of-vision-with-this-ridiculous-ultrawide-handheld-gaming-pc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
