@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - ⏩ [This driver deserves prison](http://9gag.com/gag/aPApg0w)
- - 👉 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)<!-- MEMES:END -->
+ - 💣 [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - ⏩ [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 👉 [Austin Texas](http://9gag.com/gag/abAdgWE)<!-- MEMES:END -->
 
 ---
 
