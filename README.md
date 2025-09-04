@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ecovacs claims its fast-charging robovac can clean nonstop](https://www.theverge.com/news/770205/ecovacs-deebot-omni-x11-fast-charging-robovac)
- - [The quest to keep OpenAI honest](https://www.theverge.com/decoder-podcast-with-nilay-patel/770325/eyesonopenai-coalition-nonprofit-sam-altman-ai)
- - [macOS Sequoia flaw could have exposed Keychain data including passwords](https://appleinsider.com/articles/25/09/04/macos-sequoia-flaw-could-have-exposed-keychain-data-including-passwords?utm_source=rss)<!-- TECH:END -->
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/769126/best-fitness-tracker)
+ - [Welcome to Optimizer, our relentless quest to live a smarter, healthier life](https://www.theverge.com/optimizer-newsletter/769130/optimizer-newsletter-gadgets-apps-wearable-health)
+ - [SwitchBot launches three AI-powered smart home products — including a pair of robots](https://www.theverge.com/ifa-berlin/770534/switchbot-ai-hub-eink-frame-robot-pet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
