@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I too enjoy roulette, but there are times I gotta restrict myself.](http://9gag.com/gag/aO8j3XM)
- - ⏩ [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - 👉 [Self-defence](http://9gag.com/gag/aYQdQvm)<!-- MEMES:END -->
+ - 💣 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
+ - ⏩ [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
+ - 👉 [Life is beautiful](http://9gag.com/gag/azxBepq)<!-- MEMES:END -->
 
 ---
 
