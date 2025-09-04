@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 4 &lpar;#1538&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-4-2025/)
  - [After seeing 30 minutes of the new Bond game, I&#39;m more excited for the shooting than the stealth](https://www.pcgamer.com/games/action/after-seeing-30-minutes-of-the-new-bond-game-im-more-excited-for-the-shooting-than-the-stealth/)
- - [September is absolutely stacked with city builders: here&#39;s 8 releasing this month](https://www.pcgamer.com/games/city-builder/september-is-absolutely-stacked-with-city-builders-heres-8-releasing-this-month/)
- - [Path of Exile 2&#39;s newest update has me thoroughly convinced it&#39;s about to have one of the best action RPG campaigns in a long time](https://www.pcgamer.com/games/rpg/path-of-exile-2s-newest-update-has-me-thoroughly-convinced-its-about-to-have-one-of-the-best-action-rpg-campaigns-in-a-long-time/)<!-- GAME:END -->
+ - [September is absolutely stacked with city builders: here&#39;s 8 releasing this month](https://www.pcgamer.com/games/city-builder/september-is-absolutely-stacked-with-city-builders-heres-8-releasing-this-month/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
