@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
  - ⏩ [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 👉 [Remembering movies only you seem to recall](http://9gag.com/gag/a87n7mV)<!-- MEMES:END -->
+ - 👉 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)<!-- MEMES:END -->
 
 ---
 
