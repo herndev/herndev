@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
- - [Roblox launches text-to-speech and speech-to-text APIs, and AI tools, including letting creators generate fully functional 3D objects from prompts, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250905/p18#a250905p18)
- - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)<!-- TECH:END -->
+ - [iPhone 17 Pro rumored to ditch titanium frame and go back to aluminum](https://appleinsider.com/articles/25/09/05/iphone-17-pro-rumored-to-ditch-titanium-frame-and-go-back-to-aluminum?utm_source=rss)
+ - [YouTube TV is offering a hidden $66 discount — here’s how to get it](https://www.androidauthority.com/youtube-tv-66-dollar-off-deal-3595388/)
+ - [At the White House dinner, Zuckerberg said Meta plans to spend &quot;something like at least $600B&quot; through 2028 on data centers and other infrastructure in the US &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250905/p22#a250905p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
