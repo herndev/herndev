@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 💣 [Whiping Up The Cream](http://9gag.com/gag/abAdvm9)
  - ⏩ [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 👉 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)<!-- MEMES:END -->
+ - 👉 [Old joke.](http://9gag.com/gag/an7dO0z)<!-- MEMES:END -->
 
 ---
 
