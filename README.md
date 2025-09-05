@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
- - ⏩ [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
- - 👉 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)<!-- MEMES:END -->
+ - 💣 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
+ - ⏩ [-1hp -1hp -1hp -1hp -1hp](http://9gag.com/gag/a4PxPeQ)
+ - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 
 ---
 
