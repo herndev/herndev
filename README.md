@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lilo &amp; Stitch, The Naked Gun, and every new movie on streaming this week](https://www.polygon.com/new-movies-on-streaming-lilo-and-stitch-the-naked-gun-highest-2-lowest/)
- - [Can you play Silksong without playing Hollow Knight?](https://www.polygon.com/can-you-play-silksong-before-hollow-knight/)
- - [New Tron 3 Ad Features Mr. Beast And Folks, I’m So Tired](https://kotaku.com/new-tron-3-ad-features-mr-beast-tron-ares-disney-2000623530)<!-- GAME:END -->
+ - [Starfield fans are pretty sure Bethesda just dropped the first teaser for the game&#39;s second expansion: &#39;We look forward to the adventures yet to come&#39;](https://www.pcgamer.com/games/rpg/starfield-fans-are-pretty-sure-bethesda-just-dropped-the-first-teaser-for-the-games-second-expansion-we-look-forward-to-the-adventures-yet-to-come/)
+ - [Peacemaker season 2 seems to be setting up a really bleak multiverse twist](https://www.polygon.com/peacemaker-james-gunn-multiverse-blue-dragon-theory/)
+ - [Is Silksong everything we hoped? 5 PC Gamer writers react to the first hours of Team Cherry&#39;s extraordinarily hyped sequel](https://www.pcgamer.com/games/action/is-silksong-everything-we-hoped-5-pc-gamer-writers-react-to-the-first-hours-of-team-cherrys-extraordinarily-hyped-sequel/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
