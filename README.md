@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
- - ⏩ [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
- - 👉 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)<!-- MEMES:END -->
+ - 💣 [Smart Man](http://9gag.com/gag/aD2P7bd)
+ - ⏩ [Venice hides secrets](http://9gag.com/gag/aNDqLwr)
+ - 👉 [I like it](http://9gag.com/gag/arydmpX)<!-- MEMES:END -->
 
 ---
 
