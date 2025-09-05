@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smart Man](http://9gag.com/gag/aD2P7bd)
- - ⏩ [Venice hides secrets](http://9gag.com/gag/aNDqLwr)
- - 👉 [I like it](http://9gag.com/gag/arydmpX)<!-- MEMES:END -->
+ - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
+ - ⏩ [Good thing most police wear body cams now](http://9gag.com/gag/aQzrz3K)
+ - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 
 ---
 
