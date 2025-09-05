@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla offers $1 trillion to Elon Musk to unleash his army of robots](https://www.theverge.com/news/772508/tesla-elon-musk-trillion-pay-package-robot)
- - [Tech CEOs Praise Donald Trump at White House Dinner](https://www.wired.com/story/tech-ceos-donald-trump-white-house/)
- - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)<!-- TECH:END -->
+ - [Samsung&amp;#8217;s Galaxy S26 Edge might look like an iPhone 17 Pro](https://www.theverge.com/news/772769/samsung-galaxy-s26-edge-render-leak-iphone-17-pro)
+ - [Tech leaders take turns flattering Trump at White House dinner](https://www.theverge.com/policy/772760/tech-ceos-ai-trump-white-house-dinner)
+ - [OpenAI acqui-hires the team behind Alex Codes, a Y-Combinator-backed startup whose tool lets developers use AI models within Apple&#39;s development suite Xcode &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250905/p13#a250905p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
