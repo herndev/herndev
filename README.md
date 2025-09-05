@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google now lets you choose who you trust for your gaming news—here&#39;s how to support PC Gamer and other human-made content](https://www.pcgamer.com/gaming-industry/google-now-lets-you-choose-who-you-trust-for-your-gaming-news-heres-how-to-support-pc-gamer-and-other-human-made-content/)
- - [God help us all, GTA 6 may be a &#39;AAAAA&#39; game, says Devolver co-founder, and that&#39;s why the entire industry is taking cover from it like it&#39;s a nuclear blast](https://www.pcgamer.com/games/grand-theft-auto/god-help-us-all-gta-6-may-be-a-aaaaa-game-says-devolver-co-founder-and-thats-why-the-entire-industry-is-taking-cover-from-it-like-its-a-nuclear-blast/)
- - [Mark Zuckerberg has filed a lawsuit against Mark Zuckerberg. No, not that Mark Zuckerberg, an entirely different Mark Zuckerberg. Although the one being sued is that Mark Zuckerberg](https://www.pcgamer.com/hardware/mark-zuckerberg-has-filed-a-lawsuit-against-mark-zuckerberg-no-not-that-mark-zuckerberg-an-entirely-different-mark-zuckerberg-although-the-one-being-sued-is-that-mark-zuckerberg/)<!-- GAME:END -->
+ - [Development Of FF7 Remake Part 3 And Kingdom Hearts 4 Are On Schedule, Says Director](https://kotaku.com/tetsuya-nomura-final-fantasy-7-remake-part-3-kingdom-hearts-4-update-2000623498)
+ - [How to defeat the Bell Beast in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-bell-beast-boss-guide-unlock-fast-travel/)
+ - [Fans Are Trying To Crack A Cryptic, Unlisted Cyberpunk 2077 Video](https://kotaku.com/cyberpunk-2077-phantom-liberty-nusa-static-video-2000623505)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
