@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield fans are pretty sure Bethesda just dropped the first teaser for the game&#39;s second expansion: &#39;We look forward to the adventures yet to come&#39;](https://www.pcgamer.com/games/rpg/starfield-fans-are-pretty-sure-bethesda-just-dropped-the-first-teaser-for-the-games-second-expansion-we-look-forward-to-the-adventures-yet-to-come/)
- - [Peacemaker season 2 seems to be setting up a really bleak multiverse twist](https://www.polygon.com/peacemaker-james-gunn-multiverse-blue-dragon-theory/)
- - [Is Silksong everything we hoped? 5 PC Gamer writers react to the first hours of Team Cherry&#39;s extraordinarily hyped sequel](https://www.pcgamer.com/games/action/is-silksong-everything-we-hoped-5-pc-gamer-writers-react-to-the-first-hours-of-team-cherrys-extraordinarily-hyped-sequel/)<!-- GAME:END -->
+ - [Borderlands 4 global release times mean some of you can play a day earlier than expected](https://www.pcgamer.com/games/fps/borderlands-4-global-release-times-mean-some-of-you-can-play-a-day-earlier-than-expected/)
+ - [Hollow Knight Silksong interactive map](https://www.polygon.com/hollow-knight-silksong-interactive-map-full-pharloom/)
+ - [Silksong players stuck in Fair Fields: Here&#39;s how to get out](https://www.pcgamer.com/games/action/stuck-in-fair-fields-silksong-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
