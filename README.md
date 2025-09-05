@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - ⏩ [I wanna see she starve](http://9gag.com/gag/aNDqLew)
- - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
+ - 💣 [-1hp -1hp -1hp -1hp -1hp](http://9gag.com/gag/a4PxPeQ)
+ - ⏩ [Smart Man](http://9gag.com/gag/aD2P7bd)
+ - 👉 [Hey 9gag I heard you like cats, not my video, sorry for the crop.](http://9gag.com/gag/aLnbnK5)<!-- MEMES:END -->
 
 ---
 
