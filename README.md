@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Lenovo Legion Go 2 will get Xbox-flavored Windows in spring 2026](https://www.theverge.com/news/772853/the-lenovo-legion-go-2-will-get-xbox-flavored-windows-in-spring-2026)
- - [Google fined $3.5 billion by EU for ad tech abuse](https://www.theverge.com/news/772848/google-ad-tech-eu-antitrust-fine)
- - [Galaxy Z Fold 7 is enough of a hit that Samsung is cranking up production](https://www.androidauthority.com/samsung-increasing-galaxy-z-fold-7-production-3595324/)<!-- TECH:END -->
+ - [Top Spec Razor Blade Laptops Are Average 14% Off Right Now](https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/)
+ - [Roblox is testing Roblox Moments, a TikTok-like video app allowing users to share 30-second clips of gameplay, and makes the source code available to developers &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250905/p16#a250905p16)
+ - [Galaxy S26 series rumor may have just revealed almost everything about the cameras](https://www.androidauthority.com/galaxy-s26-camera-rumors-3595339/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
