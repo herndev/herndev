@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 5 &lpar;#1539&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-5-2025/)
- - [Peacemaker just gave us a horror-movie sequence with horrific implications](https://www.polygon.com/peacemaker-season2-episode-3-analysis-recap/)
- - [&#39;PLEASE DON&#39;T NERF COYOTE&#39;: The new Helldivers 2 warbond has a fire-breathing rifle so good that players are begging Arrowhead to leave it alone](https://www.pcgamer.com/games/third-person-shooter/please-dont-nerf-coyote-the-new-helldivers-2-warbond-has-a-fire-breathing-rifle-so-good-that-players-are-begging-arrowhead-to-leave-it-alone/)<!-- GAME:END -->
+ - [Marvel Zombies: Red Band offers a gruesome new look at your favorite heroes](https://www.polygon.com/marvel-zombies-red-band-variant-covers/)
+ - [Where to find Hokers in Silksong](https://www.pcgamer.com/games/action/silksong-hokers-spine-core-location/)
+ - [Cult of the Lamb&#39;s Woolhaven DLC will be &#39;almost the length of the original game&#39; because the developers &#39;flew a little too close to the sun&#39;](https://www.pcgamer.com/games/sim/cult-of-the-lambs-woolhaven-dlc-will-be-almost-the-length-of-the-original-game-because-the-developers-flew-a-little-too-close-to-the-sun/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
