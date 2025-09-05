@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docusign reports Q2 revenue up 9% YoY to $800.6M vs. $780.1M est., raises FY 2026 sales outlook, and forecasts Q3 revenue above est.; DOCU jumps 8%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250904/p48#a250904p48)
- - [How Wikipedia became the factual foundation of the web and why it&#39;s under attack from Musk, conservative groups, the Trump administration, and other governments &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/250904/p47#a250904p47)
- - [Warner Bros. Discovery sues Midjourney for generating &amp;#8216;countless&amp;#8217; copies of its characters](https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit)<!-- TECH:END -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [The Samsung Galaxy S25 Ultra $300 off, but only in these two colors](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-12-3594911/)
+ - [Automotive AI company Cerence sues Apple for patent infringement](https://appleinsider.com/articles/25/09/04/automotive-ai-company-cerence-sues-apple-for-patent-infringement?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
