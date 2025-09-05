@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sydney Sweeney has great genes.](http://9gag.com/gag/aGyoyjn)
- - ⏩ [I wanna see she starve](http://9gag.com/gag/aNDqLew)
- - 👉 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)<!-- MEMES:END -->
+ - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
+ - ⏩ [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
+ - 👉 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)<!-- MEMES:END -->
 
 ---
 
