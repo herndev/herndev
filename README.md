@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Withings adds predictive AI health features to the ScanWatch 2](https://www.theverge.com/news/771404/withings-scanwatch-2-ai-healthsense-4-ifa)
- - [Solid-state power banks are ready to keep you juiced — without burning all your stuff](https://www.androidauthority.com/bmx-solid-state-battery-3595172/)
- - [Cook praises Trump&#39;s leadership in White House dinner](https://appleinsider.com/articles/25/09/05/cook-praises-trumps-leadership-in-white-house-dinner?utm_source=rss)<!-- TECH:END -->
+ - [Gemini’s coming, but are you dreading the big Google Home speaker shakeup?](https://www.androidauthority.com/google-home-speakers-gemini-assistant-open-thread-3595211/)
+ - [Apple iPhone 17 launch event: What to expect](https://www.theverge.com/iphone/767381/apple-iphone-17-awe-dropping-launch-what-to-expect)
+ - [Boston Dynamics and Toyota Research Institute have developed a large behavior model that enables more natural movement and &quot;emergent skills&quot; in humanoid robots &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250905/p9#a250905p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
