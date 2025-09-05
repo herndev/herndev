@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus ends Hasselblad camera partnership, reveals what’s next for OnePlus 15 and beyond](https://www.androidauthority.com/oneplus-hasselblad-deal-finished-3595002/)
- - [Another Pixel, another 911 failure: Pixel 10 users say emergency calls sound like screeches](https://www.androidauthority.com/google-pixel-10-911-calling-bug-3594987/)
- - [Researchers from UCL, Google DeepMind, and Intrinsic unveil RoboBallet, an AI system designed to help teams of industrial robots work together without colliding &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250905/p3#a250905p3)<!-- TECH:END -->
+ - [The first Snapdragon 8 Elite Gen 5 phones could have ridiculously big batteries](https://www.androidauthority.com/first-snapdragon-8-elite-gen-5-phones-battery-capacity-3594983/)
+ - [How Synthesia is combining multiple AI voice and video models to improve avatar realism with natural gestures and accent preservation &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250905/p4#a250905p4)
+ - [7 features I’m excited to try when Gemini lands on my Google Home speakers](https://www.androidauthority.com/7-features-excited-try-gemini-on-google-home-speakers-3594590/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
