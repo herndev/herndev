@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whiping Up The Cream](http://9gag.com/gag/abAdvm9)
- - ⏩ [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 👉 [Old joke.](http://9gag.com/gag/an7dO0z)<!-- MEMES:END -->
+ - 💣 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - ⏩ [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)
+ - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 
 ---
 
