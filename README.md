@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nepal says it is blocking most major social media platforms, including Facebook, X, and YouTube, after they failed to register with the government &lpar;Binaj Gurubacharya/Associated Press&rpar;](http://www.techmeme.com/250905/p1#a250905p1)
- - [Conversational AI firm Cerence sues Apple in Texas for infringing patents tied to virtual keyboards and &quot;Hey Siri&quot;, says it raised the issues with Apple in 2021 &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250904/p53#a250904p53)
- - [Source: AI contractor marketplace Mercor has received investment offers valuing it as high as $10B, just six months after raising $100M at a $2B valuation &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/250904/p52#a250904p52)<!-- TECH:END -->
+ - [Galaxy S26 Ultra dimensions leak, while mockup render reveals welcome curves](https://www.androidauthority.com/samsung-galaxy-s26-ultra-dimensions-mockup-render-3594943/)
+ - [Galaxy Watches and Pixel 10 phones are currently incompatible](https://www.androidauthority.com/pixel-10-galaxy-watch-pairing-issues-3594948/)
+ - [Nepal says it is blocking most major social media platforms, including Facebook, X, and YouTube, after they failed to register with the government &lpar;Binaj Gurubacharya/Associated Press&rpar;](http://www.techmeme.com/250905/p1#a250905p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
