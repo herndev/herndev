@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says U.S. will strike back if EU keeps fining tech giants](https://appleinsider.com/articles/25/09/05/trump-says-us-will-strike-back-if-eu-keeps-fining-tech-giants?utm_source=rss)
- - [US tech industry&#39;s eight companies valued at $1T+ gained a combined $420B in market cap this week, lifting their total value to $21T, led by a Google rally &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250905/p23#a250905p23)
- - [Anthropic to pay $1.5 billion to authors in landmark AI settlement](https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement)<!-- TECH:END -->
+ - [AppLovin stock jumps 7%+ and Robinhood jumps 8%+ in extended trading after S&amp;P Global said the two will join the S&amp;P 500 index on September 22 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250905/p24#a250905p24)
+ - [Samsung leak reveals how you’ll be opening and closing its dual-hinge foldable](https://www.androidauthority.com/samsung-muti-fold-folding-animation-3595410/)
+ - [Classic Sesame Street episodes are coming to YouTube](https://www.theverge.com/news/773164/youtube-sesame-street-classic-episodes-netflix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
