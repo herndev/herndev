@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - ⏩ [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)
- - 👉 [Old joke.](http://9gag.com/gag/an7dO0z)<!-- MEMES:END -->
+ - 💣 [Job interviews be like](http://9gag.com/gag/a9yV6WZ)
+ - ⏩ [We can never be too carefull](http://9gag.com/gag/ajPd1Ng)
+ - 👉 [Cat turns on a treadmill and starts working out](http://9gag.com/gag/a7oG8XL)<!-- MEMES:END -->
 
 ---
 
