@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shared by an X account who is British - they didn&#39;t specify exactly where this is, but I&#39;m guessing London.](http://9gag.com/gag/adBdBp2)
- - ⏩ [Good old days](http://9gag.com/gag/aW4dp83)
- - 👉 [Wtf is this?](http://9gag.com/gag/aMVWdyA)<!-- MEMES:END -->
+ - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
+ - ⏩ [Shared by an X account who is British - they didn&#39;t specify exactly where this is, but I&#39;m guessing London.](http://9gag.com/gag/adBdBp2)
+ - 👉 [You&#39;re telling me, there is hope?](http://9gag.com/gag/aQzrze7)<!-- MEMES:END -->
 
 ---
 
