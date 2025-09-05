@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Development Of FF7 Remake Part 3 And Kingdom Hearts 4 Are On Schedule, Says Director](https://kotaku.com/tetsuya-nomura-final-fantasy-7-remake-part-3-kingdom-hearts-4-update-2000623498)
- - [How to defeat the Bell Beast in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-bell-beast-boss-guide-unlock-fast-travel/)
- - [Fans Are Trying To Crack A Cryptic, Unlisted Cyberpunk 2077 Video](https://kotaku.com/cyberpunk-2077-phantom-liberty-nusa-static-video-2000623505)<!-- GAME:END -->
+ - [Lilo &amp; Stitch, The Naked Gun, and every new movie on streaming this week](https://www.polygon.com/new-movies-on-streaming-lilo-and-stitch-the-naked-gun-highest-2-lowest/)
+ - [Can you play Silksong without playing Hollow Knight?](https://www.polygon.com/can-you-play-silksong-before-hollow-knight/)
+ - [New Tron 3 Ad Features Mr. Beast And Folks, I’m So Tired](https://kotaku.com/new-tron-3-ad-features-mr-beast-tron-ares-disney-2000623530)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
