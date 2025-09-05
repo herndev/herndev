@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook is revamping its classic Poke feature to be easier to use and include gamification elements similar to Snapchat and TikTok as it courts younger users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250905/p2#a250905p2)
- - [Lenovo shows off a concept laptop with a display that rotates to portrait mode](https://www.androidauthority.com/lenovo-laptop-concept-display-rotate-portrait-mode-3594652/)
- - [The Lenovo Legion Go 2 is finally here to put the ROG Xbox Ally in its place](https://www.androidauthority.com/lenovo-legion-go-2-announcement-3594655/)<!-- TECH:END -->
+ - [This robot lawnmower is designed to pick fruit and throw your dog a ball](https://www.theverge.com/news/772045/nexlawn-master-x-series-concept-robot-lawnmower)
+ - [The DuRoBo Krono e-reader boasts open Android and a built-in audio player](https://www.androidauthority.com/durobo-krono-launch-3593745/)
+ - [These cool earbuds bring crazy translation smarts for your travels](https://www.androidauthority.com/timekettle-w4-ai-interpreter-earbuds-3594353/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
