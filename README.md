@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was not expecting this kind of robbery.](http://9gag.com/gag/aE0QqBM)
- - ⏩ [Me everytime somebody got the stuff I want](http://9gag.com/gag/azxB2Bm)
- - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
+ - 💣 [Sydney Sweeney has great genes.](http://9gag.com/gag/aGyoyjn)
+ - ⏩ [I wanna see she starve](http://9gag.com/gag/aNDqLew)
+ - 👉 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)<!-- MEMES:END -->
 
 ---
 
