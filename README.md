@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This robot lawnmower is designed to pick fruit and throw your dog a ball](https://www.theverge.com/news/772045/nexlawn-master-x-series-concept-robot-lawnmower)
- - [The DuRoBo Krono e-reader boasts open Android and a built-in audio player](https://www.androidauthority.com/durobo-krono-launch-3593745/)
- - [These cool earbuds bring crazy translation smarts for your travels](https://www.androidauthority.com/timekettle-w4-ai-interpreter-earbuds-3594353/)<!-- TECH:END -->
+ - [OnePlus ends Hasselblad camera partnership, reveals what’s next for OnePlus 15 and beyond](https://www.androidauthority.com/oneplus-hasselblad-deal-finished-3595002/)
+ - [Another Pixel, another 911 failure: Pixel 10 users say emergency calls sound like screeches](https://www.androidauthority.com/google-pixel-10-911-calling-bug-3594987/)
+ - [Researchers from UCL, Google DeepMind, and Intrinsic unveil RoboBallet, an AI system designed to help teams of industrial robots work together without colliding &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250905/p3#a250905p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
