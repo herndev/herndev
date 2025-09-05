@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppLovin stock jumps 7%+ and Robinhood jumps 8%+ in extended trading after S&amp;P Global said the two will join the S&amp;P 500 index on September 22 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250905/p24#a250905p24)
- - [Samsung leak reveals how you’ll be opening and closing its dual-hinge foldable](https://www.androidauthority.com/samsung-muti-fold-folding-animation-3595410/)
- - [Classic Sesame Street episodes are coming to YouTube](https://www.theverge.com/news/773164/youtube-sesame-street-classic-episodes-netflix)<!-- TECH:END -->
+ - [Two authors file a proposed class action lawsuit against Apple, alleging Apple knowingly used a dataset of pirated books to train its AI models &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250905/p25#a250905p25)
+ - [Researchers Discover 18 Popular VPNs Are Connected: Why This Matters](https://www.cnet.com/tech/researchers-discover-18-popular-vpns-are-connected-why-this-matters/#ftag=CAD590a51e)
+ - [Tesla Proposes a Trillion-Dollar Bet That It&#39;s More Than Just Cars](https://www.wired.com/story/elon-musk-trillion-dollar-tesla-pay-package/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
