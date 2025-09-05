@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 5 &lpar;#1539&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-5-2025/)
  - [Peacemaker just gave us a horror-movie sequence with horrific implications](https://www.polygon.com/peacemaker-season2-episode-3-analysis-recap/)
- - [&#39;PLEASE DON&#39;T NERF COYOTE&#39;: The new Helldivers 2 warbond has a fire-breathing rifle so good that players are begging Arrowhead to leave it alone](https://www.pcgamer.com/games/third-person-shooter/please-dont-nerf-coyote-the-new-helldivers-2-warbond-has-a-fire-breathing-rifle-so-good-that-players-are-begging-arrowhead-to-leave-it-alone/)
- - [Silksong newcomers, I can&#39;t stress to you enough that you should buy all of Shakra&#39;s map items ASAP](https://www.pcgamer.com/games/action/silksong-newcomers-i-cant-stress-to-you-enough-that-you-should-buy-all-of-shakras-map-items-asap/)<!-- GAME:END -->
+ - [&#39;PLEASE DON&#39;T NERF COYOTE&#39;: The new Helldivers 2 warbond has a fire-breathing rifle so good that players are begging Arrowhead to leave it alone](https://www.pcgamer.com/games/third-person-shooter/please-dont-nerf-coyote-the-new-helldivers-2-warbond-has-a-fire-breathing-rifle-so-good-that-players-are-begging-arrowhead-to-leave-it-alone/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
