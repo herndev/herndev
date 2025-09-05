@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Snapdragon 8 Elite Gen 5 phones could have ridiculously big batteries](https://www.androidauthority.com/first-snapdragon-8-elite-gen-5-phones-battery-capacity-3594983/)
- - [How Synthesia is combining multiple AI voice and video models to improve avatar realism with natural gestures and accent preservation &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250905/p4#a250905p4)
- - [7 features I’m excited to try when Gemini lands on my Google Home speakers](https://www.androidauthority.com/7-features-excited-try-gemini-on-google-home-speakers-3594590/)<!-- TECH:END -->
+ - [Everyone’s in awe of ‘tri-fold’ phones, and now projectors are all ‘yeah, us, too’](https://www.androidauthority.com/aurzen-zip-3595044/)
+ - [Google leaks its new Nest Cams and Nest Doorbell inside the Home app](https://www.androidauthority.com/google-nest-cam-doorbell-home-app-leak-3595043/)
+ - [Sources: chip design workers at ByteDance, many based in Beijing or Shanghai, unexpectedly discovered last week that they are part of a Singapore unit &lpar;Reuters&rpar;](http://www.techmeme.com/250905/p5#a250905p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
