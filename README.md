@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Job interviews be like](http://9gag.com/gag/a9yV6WZ)
- - ⏩ [We can never be too carefull](http://9gag.com/gag/ajPd1Ng)
- - 👉 [Cat turns on a treadmill and starts working out](http://9gag.com/gag/a7oG8XL)<!-- MEMES:END -->
+ - 💣 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - ⏩ [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
+ - 👉 [Best Halloween Short Of The Season!](http://9gag.com/gag/adBdB6V)<!-- MEMES:END -->
 
 ---
 
