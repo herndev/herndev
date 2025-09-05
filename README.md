@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
- - ⏩ [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 👉 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/a6ZxDY2)
+ - ⏩ [Australia is wild, Australians are wilder](http://9gag.com/gag/aE0Q6Xn)
+ - 👉 [Wtf is this?](http://9gag.com/gag/aMVWdyA)<!-- MEMES:END -->
 
 ---
 
