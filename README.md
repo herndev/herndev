@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Spec Razor Blade Laptops Are Average 14% Off Right Now](https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/)
- - [Roblox is testing Roblox Moments, a TikTok-like video app allowing users to share 30-second clips of gameplay, and makes the source code available to developers &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250905/p16#a250905p16)
- - [Galaxy S26 series rumor may have just revealed almost everything about the cameras](https://www.androidauthority.com/galaxy-s26-camera-rumors-3595339/)<!-- TECH:END -->
+ - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
+ - [Roblox launches text-to-speech and speech-to-text APIs, and AI tools, including letting creators generate fully functional 3D objects from prompts, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250905/p18#a250905p18)
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
