@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;PLEASE DON&#39;T NERF COYOTE&#39;: The new Helldivers 2 warbond has a fire-breathing rifle so good that players are begging Arrowhead to leave it alone](https://www.pcgamer.com/games/third-person-shooter/please-dont-nerf-coyote-the-new-helldivers-2-warbond-has-a-fire-breathing-rifle-so-good-that-players-are-begging-arrowhead-to-leave-it-alone/)
  - [Silksong newcomers, I can&#39;t stress to you enough that you should buy all of Shakra&#39;s map items ASAP](https://www.pcgamer.com/games/action/silksong-newcomers-i-cant-stress-to-you-enough-that-you-should-buy-all-of-shakras-map-items-asap/)
- - [Ninja Gaiden 4 Deprogrammed My Souls-Pilled Brain And I Loved Every Minute](https://kotaku.com/ninja-gaiden-4-hands-on-hitstop-difficulty-game-pass-2000623220)
- - [Stardew Valley&#39;s Eric Barone is in the Hollow Knight: Silksong credits for voicing a mystery character](https://www.pcgamer.com/games/action/stardew-valleys-eric-barone-is-in-the-hollow-knight-silksong-credits-for-voicing-a-mystery-character/)<!-- GAME:END -->
+ - [Ninja Gaiden 4 Deprogrammed My Souls-Pilled Brain And I Loved Every Minute](https://kotaku.com/ninja-gaiden-4-hands-on-hitstop-difficulty-game-pass-2000623220)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
