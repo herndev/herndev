@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [The Samsung Galaxy S25 Ultra $300 off, but only in these two colors](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-12-3594911/)
- - [Automotive AI company Cerence sues Apple for patent infringement](https://appleinsider.com/articles/25/09/04/automotive-ai-company-cerence-sues-apple-for-patent-infringement?utm_source=rss)<!-- TECH:END -->
+ - [Deal: This amazing Samsung curved gaming monitor is $600 off!](https://www.androidauthority.com/samsung-odyssey-g9-g95c-49-inch-curved-gaming-monitor-deal-3-3594910/)
+ - [OpenAI is set to produce an AI chip co-designed with Broadcom next year, and has committed $10B in orders; the chip will be for internal use only &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p50#a250904p50)
+ - [Amazon, Microsoft, Google, Code.org, IBM, and other companies pledged new commitments for AI in education as part of a White House event hosted by Melania Trump &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250904/p49#a250904p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
