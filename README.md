@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
- - ⏩ [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 👉 [Comically large gold club](http://9gag.com/gag/awy8goD)<!-- MEMES:END -->
+ - 💣 [I was not expecting this kind of robbery.](http://9gag.com/gag/aE0QqBM)
+ - ⏩ [Me everytime somebody got the stuff I want](http://9gag.com/gag/azxB2Bm)
+ - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
 
 ---
 
