@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&amp;#8217;s Galaxy S26 Edge might look like an iPhone 17 Pro](https://www.theverge.com/news/772769/samsung-galaxy-s26-edge-render-leak-iphone-17-pro)
- - [Tech leaders take turns flattering Trump at White House dinner](https://www.theverge.com/policy/772760/tech-ceos-ai-trump-white-house-dinner)
- - [OpenAI acqui-hires the team behind Alex Codes, a Y-Combinator-backed startup whose tool lets developers use AI models within Apple&#39;s development suite Xcode &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250905/p13#a250905p13)<!-- TECH:END -->
+ - [The Lenovo Legion Go 2 will get Xbox-flavored Windows in spring 2026](https://www.theverge.com/news/772853/the-lenovo-legion-go-2-will-get-xbox-flavored-windows-in-spring-2026)
+ - [Google fined $3.5 billion by EU for ad tech abuse](https://www.theverge.com/news/772848/google-ad-tech-eu-antitrust-fine)
+ - [Galaxy Z Fold 7 is enough of a hit that Samsung is cranking up production](https://www.androidauthority.com/samsung-increasing-galaxy-z-fold-7-production-3595324/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
