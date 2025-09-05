@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old joke.](http://9gag.com/gag/an7dO0z)
- - ⏩ [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
- - 👉 [Best Halloween Short Of The Season!](http://9gag.com/gag/adBdB6V)<!-- MEMES:END -->
+ - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
+ - ⏩ [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 
 ---
 
