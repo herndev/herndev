@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Zombies: Red Band offers a gruesome new look at your favorite heroes](https://www.polygon.com/marvel-zombies-red-band-variant-covers/)
- - [Where to find Hokers in Silksong](https://www.pcgamer.com/games/action/silksong-hokers-spine-core-location/)
- - [Cult of the Lamb&#39;s Woolhaven DLC will be &#39;almost the length of the original game&#39; because the developers &#39;flew a little too close to the sun&#39;](https://www.pcgamer.com/games/sim/cult-of-the-lambs-woolhaven-dlc-will-be-almost-the-length-of-the-original-game-because-the-developers-flew-a-little-too-close-to-the-sun/)<!-- GAME:END -->
+ - [Coughing baby vs hydrogen bomb comes to Marvel Rivals: They just buffed Scarlet Witch&#39;s ult damage from 800 to 9,999](https://www.pcgamer.com/games/third-person-shooter/coughing-baby-vs-hydrogen-bomb-comes-to-marvel-rivals-they-just-buffed-scarlet-witchs-ult-damage-from-800-to-9-999/)
+ - [Star Wars Outlaws Uses A Game Key Card Thanks To A Flaw With The Switch 2](https://kotaku.com/star-wars-outlaws-switch-2-game-key-card-2000623413)
+ - [Silksong&#39;s speedrunning community is already at it: Dismantling the game&#39;s mechanics like mad scientists less than a day after release](https://www.pcgamer.com/games/action/silksongs-speedrunning-community-is-already-at-it-dismantling-the-games-mechanics-like-mad-scientists-less-than-a-day-after-release/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
