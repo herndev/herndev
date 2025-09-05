@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini’s coming, but are you dreading the big Google Home speaker shakeup?](https://www.androidauthority.com/google-home-speakers-gemini-assistant-open-thread-3595211/)
- - [Apple iPhone 17 launch event: What to expect](https://www.theverge.com/iphone/767381/apple-iphone-17-awe-dropping-launch-what-to-expect)
- - [Boston Dynamics and Toyota Research Institute have developed a large behavior model that enables more natural movement and &quot;emergent skills&quot; in humanoid robots &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250905/p9#a250905p9)<!-- TECH:END -->
+ - [What would actually make the Apple Watch better?](https://www.theverge.com/optimizer-newsletter/772003/apple-watch-iphone-17-optimizer-smartwatch-wearables)
+ - [New iPhone 17 Pro leak suggests Dynamic Island is shrinking](https://appleinsider.com/articles/25/09/05/new-iphone-17-pro-leak-suggests-dynamic-island-is-shrinking?utm_source=rss)
+ - [IFA 2025: NexLawn debuts and teams up with MOVA to showcase lawn and garden care innovations](https://www.androidauthority.com/ifa-2025-nexlawn-robotic-lawn-mowers-3594322/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
