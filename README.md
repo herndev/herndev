@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
- - ⏩ [Shared by an X account who is British - they didn&#39;t specify exactly where this is, but I&#39;m guessing London.](http://9gag.com/gag/adBdBp2)
- - 👉 [You&#39;re telling me, there is hope?](http://9gag.com/gag/aQzrze7)<!-- MEMES:END -->
+ - 💣 [Best Halloween Short Of The Season!](http://9gag.com/gag/adBdB6V)
+ - ⏩ [Wtf is this?](http://9gag.com/gag/aMVWdyA)
+ - 👉 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)<!-- MEMES:END -->
 
 ---
 
