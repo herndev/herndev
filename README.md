@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyone’s in awe of ‘tri-fold’ phones, and now projectors are all ‘yeah, us, too’](https://www.androidauthority.com/aurzen-zip-3595044/)
- - [Google leaks its new Nest Cams and Nest Doorbell inside the Home app](https://www.androidauthority.com/google-nest-cam-doorbell-home-app-leak-3595043/)
- - [Sources: chip design workers at ByteDance, many based in Beijing or Shanghai, unexpectedly discovered last week that they are part of a Singapore unit &lpar;Reuters&rpar;](http://www.techmeme.com/250905/p5#a250905p5)<!-- TECH:END -->
+ - [Withings adds predictive AI health features to the ScanWatch 2](https://www.theverge.com/news/771404/withings-scanwatch-2-ai-healthsense-4-ifa)
+ - [Solid-state power banks are ready to keep you juiced — without burning all your stuff](https://www.androidauthority.com/bmx-solid-state-battery-3595172/)
+ - [Cook praises Trump&#39;s leadership in White House dinner](https://appleinsider.com/articles/25/09/05/cook-praises-trumps-leadership-in-white-house-dinner?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
