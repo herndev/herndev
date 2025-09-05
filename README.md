@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 💣 [Old joke.](http://9gag.com/gag/an7dO0z)
  - ⏩ [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
  - 👉 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)<!-- MEMES:END -->
 
