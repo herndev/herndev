@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I asked Vin Diesel for a Last Witch Hunter sequel, and he delivered](https://www.polygon.com/vin-diesel-the-last-witch-hunter-sequel-confirmed-michael-caine/)
- - [WotC president says he&#39;d &#39;love to have&#39; a new Dungeons &amp; Dragons MMO, but it would have to &#39;rethink what an MMO is in this day and age&#39;](https://www.pcgamer.com/games/mmo/wotc-president-says-hed-love-to-have-a-new-dungeons-and-dragons-mmo-but-it-would-have-to-rethink-what-an-mmo-is-in-this-day-and-age/)
- - [&#39;Rite of the Pollip&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-rite-of-the-pollip-location-quest-walkthrough/)<!-- GAME:END -->
+ - [&#39;Do you think there would be a problem if we see Hitler&#39;s penis?&#39; MachineGames considered having a full frontal Fuhrer in Wolfenstein 2: The New Colossus](https://www.pcgamer.com/games/fps/do-you-think-there-would-be-a-problem-if-we-see-hitlers-penis-machinegames-considered-having-a-full-frontal-fuhrer-in-wolfenstein-2-the-new-colossus/)
+ - [How to escape The Slab in Silksong](https://www.pcgamer.com/games/action/silksong-escape-the-slab/)
+ - [I asked Vin Diesel for a Last Witch Hunter sequel, and he delivered](https://www.polygon.com/vin-diesel-the-last-witch-hunter-sequel-confirmed-michael-caine/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
