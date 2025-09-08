@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wizard of Oz&#39;s revamp draws 4,000 to 5,000 fans two or three times per day to the Las Vegas Sphere; a source says the 1939 film may gross $1B in its new run &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250908/p4#a250908p4)
- - [Google hasn’t even announced these new Nest devices, but they’re already on store shelves](https://www.androidauthority.com/google-nest-cam-doorbell-stores-before-launch-3595629/)
- - [An interview with Dr. Raj Jena, the UK&#39;s first clinical professor of AI in radiation oncology, on how AI is improving cancer care, quality control, and more &lpar;Sarah Neville/Financial Times&rpar;](http://www.techmeme.com/250908/p3#a250908p3)<!-- TECH:END -->
+ - [Google updates a Help Center document to clarify Gemini 2.5 Pro usage limits: five prompts per day for free users, 100 prompts for AI Pro, and 500 for AI Ultra &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250908/p5#a250908p5)
+ - [7 Vitamins That Could Promote Hair Growth and Give You Long Locks](https://www.cnet.com/health/nutrition/vitamins-promote-hair-growth-give-long-locks/#ftag=CAD590a51e)
+ - [This Galaxy S26 Ultra rival could stand out with a rear screen](https://www.androidauthority.com/galaxy-s26-ultra-rival-rear-screen-3595644/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
