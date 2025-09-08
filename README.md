@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
- - ⏩ [Eat me](http://9gag.com/gag/adBdnx9)
- - 👉 [Based](http://9gag.com/gag/a6Zx5ZA)<!-- MEMES:END -->
+ - 💣 [Not all heroes wear capes, some wear green shirts](http://9gag.com/gag/aqyd6vM)
+ - ⏩ [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
+ - 👉 [Precious](http://9gag.com/gag/aMVWzAA)<!-- MEMES:END -->
 
 ---
 
