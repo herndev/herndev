@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two authors file a proposed class action lawsuit against Apple, alleging Apple knowingly used a dataset of pirated books to train its AI models &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250905/p25#a250905p25)
- - [Researchers Discover 18 Popular VPNs Are Connected: Why This Matters](https://www.cnet.com/tech/researchers-discover-18-popular-vpns-are-connected-why-this-matters/#ftag=CAD590a51e)
- - [Tesla Proposes a Trillion-Dollar Bet That It&#39;s More Than Just Cars](https://www.wired.com/story/elon-musk-trillion-dollar-tesla-pay-package/)<!-- TECH:END -->
+ - [The 2025 MTV VMAs Are on Tonight. Here&#39;s How to Watch Live Without Cable](https://www.cnet.com/tech/services-and-software/the-2025-mtv-vmas-are-on-tonight-how-to-watch-live-without-cable/#ftag=CAD590a51e)
+ - [A look at Marc Benioff&#39;s pursuit of productivity gains through AI at Salesforce, which has undergone a series of layoffs over the past two years &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250907/p17#a250907p17)
+ - [How Larry Ellison is reshaping Oxford, including relocating his Ellison Institute from LA to Oxford, with plans to invest $1.3B+ into research on AI and more &lpar;Jenny Strasburg/Wall Street Journal&rpar;](http://www.techmeme.com/250907/p16#a250907p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
