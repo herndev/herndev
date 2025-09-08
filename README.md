@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer upgrades its kitty eared headsets with a fancy wireless Kraken Kitty V3 Pro and a surprisingly affordable Kraken Kitty X](https://www.pcgamer.com/hardware/gaming-headsets/razer-upgrades-its-kitty-eared-headsets-with-a-fancy-wireless-kraken-kitty-v3-pro-and-a-surprisingly-affordable-kraken-kitty-x/)
- - [Today&#39;s Wordle clues, hints and answer for September 8 &lpar;#1542&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-8-2025/)
- - [With Silksong in our hands, Steam&#39;s new reigning wishlist kings are both kind of basket cases: The partially-released Deadlock and lawsuit lightning rod Subnautica 2](https://www.pcgamer.com/gaming-industry/with-silksong-in-our-hands-steams-new-reigning-wishlist-kings-are-both-kind-of-basket-cases-the-partially-released-deadlock-and-lawsuit-lightning-rod-subnautica-2/)<!-- GAME:END -->
+ - [What time does Genshin Impact &#39;Luna I&#39; release?](https://www.polygon.com/genshin-impact-version-6-0-luna-i-release-times-maintenance-end-nod-krai/)
+ - [Silksong crest locations and the best crest](https://www.pcgamer.com/games/action/silksong-crest-locations/)
+ - [&#39;Our mission is to bring back lost treasures&#39;: Nightdive Studios&#39; next remaster project is Outlaws, the cowboy shoot &#39;em up made on Lucas&#39; Jedi Engine](https://www.pcgamer.com/games/fps/our-mission-is-to-bring-back-lost-treasures-nightdive-studios-next-remaster-project-is-outlaws-the-cowboy-shoot-em-up-made-on-lucas-jedi-engine/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
