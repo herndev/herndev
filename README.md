@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports)
- - [How fans saved every iPod clickwheel game from disappearing](https://appleinsider.com/articles/25/09/08/how-fans-saved-every-ipod-clickwheel-game-from-disappearing?utm_source=rss)<!-- TECH:END -->
+ - [Intel announces top-level executive changes, including the departure of its products chief, Michelle Holthaus, and establishes a new central engineering group &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250908/p35#a250908p35)
+ - [Deal: The mighty Samsung Galaxy S25 Ultra is $300 off!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-13-3594909/)
+ - [Nintendo Switch modder ordered to pay $2 million in piracy lawsuit](https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
