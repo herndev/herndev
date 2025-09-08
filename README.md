@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the biggest IFA 2025 announcements for Apple users: Hue lights, Matter devices, &amp; more](https://appleinsider.com/articles/25/09/08/all-the-biggest-ifa-2025-announcements-for-apple-users-hue-lights-matter-devices-more?utm_source=rss)
- - [Motion, which sells an integrated suite of AI agents for SMB, raised a $38M Series C led by Scale Venture Partners, bringing its total funding to $75M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250908/p24#a250908p24)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)<!-- TECH:END -->
+ - [Galaxy Z Fold 7 and Flip 7 are about to get these handy features](https://www.androidauthority.com/galaxy-z-fold-7-samsung-dex-widgets-3595878/)
+ - [Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline)
+ - [A look at the looming DJI drones ban in the US, as some say the ban will be disruptive; no federal agency has undertaken a mandated security risk assessment &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/250908/p27#a250908p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
