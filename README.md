@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
- - ⏩ [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
- - 👉 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)<!-- MEMES:END -->
+ - 💣 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
+ - ⏩ [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
+ - 👉 [Eat me](http://9gag.com/gag/adBdnx9)<!-- MEMES:END -->
 
 ---
 
