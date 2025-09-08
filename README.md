@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4 global release times mean some of you can play a day earlier than expected](https://www.pcgamer.com/games/fps/borderlands-4-global-release-times-mean-some-of-you-can-play-a-day-earlier-than-expected/)
- - [Hollow Knight Silksong interactive map](https://www.polygon.com/hollow-knight-silksong-interactive-map-full-pharloom/)
- - [Silksong players stuck in Fair Fields: Here&#39;s how to get out](https://www.pcgamer.com/games/action/stuck-in-fair-fields-silksong-guide/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;September 8, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-8-2025/)
+ - [Stuck on Silksong&#39;s obnoxious big bug boss Moorwing? There&#39;s a cheeky way to kill him in 30 seconds—or skip the fight altogether](https://www.pcgamer.com/silksong-moorwing-boss-cheese-skip/)
+ - [After Indiana Jones, it sounds like MachineGames is ready to make another Wolfenstein game: &#39;We have always seen this as a trilogy&#39;](https://www.pcgamer.com/games/fps/after-indiana-jones-it-sounds-like-machinegames-is-ready-to-make-another-wolfenstein-game-we-have-always-seen-this-as-a-trilogy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
