@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eat me](http://9gag.com/gag/adBdnx9)
- - ⏩ [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)
- - 👉 [Walks like a duck](http://9gag.com/gag/azxBKgK)<!-- MEMES:END -->
+ - 💣 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
+ - ⏩ [Eat me](http://9gag.com/gag/adBdnx9)
+ - 👉 [Based](http://9gag.com/gag/a6Zx5ZA)<!-- MEMES:END -->
 
 ---
 
