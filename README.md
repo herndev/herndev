@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nova Launcher’s demise is another death knell for the Android I remember](https://www.androidauthority.com/nova-launcher-will-be-missed-3595724/)
- - [Atlanta-based Rainforest, which embeds payment processing into platforms, raised a $29M Series B led by Matrix and Infinity, taking its total funding to $57.5M &lpar;Crunchbase News&rpar;](http://www.techmeme.com/250908/p19#a250908p19)
- - [Filing: Nasdaq asks the SEC to let investors trade tokenized securities on its exchange, and could roll out the first token-settled trades by the end of Q3 2026 &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/250908/p18#a250908p18)<!-- TECH:END -->
+ - [YouTube says its first exclusive NFL broadcast on September 5 averaged more than 17.3M global viewers, including 1.1M average minute audiences outside of the US &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250908/p22#a250908p22)
+ - [EchoStar offloads satellite spectrum to SpaceX for $17 billion](https://www.theverge.com/news/773645/echostar-dish-spacex-starlink-direct-to-cell-fcc-investigation)
+ - [Google wants Gemini to keep the conversation going, and here’s how it’s going to do it](https://www.androidauthority.com/google-gemini-follow-up-question-suggestions-3595747/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
