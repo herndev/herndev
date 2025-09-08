@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signal&amp;#8217;s first paid feature adds encrypted media and message backups](https://www.theverge.com/news/774018/signal-encrypted-secure-backups-paid-feature-beta)
- - [What to expect from Apple&#39;s iPhone 17 &#39;Awe Dropping&#39; event on September 9](https://appleinsider.com/articles/25/09/08/what-to-expect-from-apples-iphone-17-awe-dropping-event-on-september-9?utm_source=rss)
- - [The Gemini app just got the one feature everyone was asking for](https://www.androidauthority.com/gemini-audio-uploads-3595927/)<!-- TECH:END -->
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports)
+ - [How fans saved every iPod clickwheel game from disappearing](https://appleinsider.com/articles/25/09/08/how-fans-saved-every-ipod-clickwheel-game-from-disappearing?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
