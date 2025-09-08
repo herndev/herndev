@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cops have difficult jobs\u2026](http://9gag.com/gag/ae9dZeQ)
- - ⏩ [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
- - 👉 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)<!-- MEMES:END -->
+ - 💣 [New passive income just dropped](http://9gag.com/gag/a1mx0yw)
+ - ⏩ [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
+ - 👉 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)<!-- MEMES:END -->
 
 ---
 
