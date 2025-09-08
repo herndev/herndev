@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Dr. Raj Jena, the UK&#39;s first clinical professor of AI in radiation oncology, on how AI is improving cancer care, quality control, and more &lpar;Sarah Neville/Financial Times&rpar;](http://www.techmeme.com/250908/p3#a250908p3)
- - [Galaxy S26 Pro, S26 Ultra renders reveal the return of camera bumps](https://www.androidauthority.com/samsung-galaxy-s26-pro-ultra-renders-3595621/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 8, #350](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-8-350/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Wizard of Oz&#39;s revamp draws 4,000 to 5,000 fans two or three times per day to the Las Vegas Sphere; a source says the 1939 film may gross $1B in its new run &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250908/p4#a250908p4)
+ - [Google hasn’t even announced these new Nest devices, but they’re already on store shelves](https://www.androidauthority.com/google-nest-cam-doorbell-stores-before-launch-3595629/)
+ - [An interview with Dr. Raj Jena, the UK&#39;s first clinical professor of AI in radiation oncology, on how AI is improving cancer care, quality control, and more &lpar;Sarah Neville/Financial Times&rpar;](http://www.techmeme.com/250908/p3#a250908p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
