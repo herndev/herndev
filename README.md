@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates a Help Center document to clarify Gemini 2.5 Pro usage limits: five prompts per day for free users, 100 prompts for AI Pro, and 500 for AI Ultra &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250908/p5#a250908p5)
- - [7 Vitamins That Could Promote Hair Growth and Give You Long Locks](https://www.cnet.com/health/nutrition/vitamins-promote-hair-growth-give-long-locks/#ftag=CAD590a51e)
- - [This Galaxy S26 Ultra rival could stand out with a rear screen](https://www.androidauthority.com/galaxy-s26-ultra-rival-rear-screen-3595644/)<!-- TECH:END -->
+ - [OpenAI comes for Hollywood with Critterz, an AI-powered animated film](https://www.theverge.com/news/773584/openai-animated-feature-film-critterz)
+ - [More leaked images give weight to Apple&#39;s iPhone 17 cross-body strap](https://appleinsider.com/articles/25/09/08/more-leaked-images-give-weight-to-apples-iphone-17-cross-body-strap?utm_source=rss)
+ - [Uber and Shanghai-based robotaxi company Momenta plan to test Level 4 fully driverless cars in Munich from 2026, as a precursor to launching a robotaxi service &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250908/p8#a250908p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
