@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Walks like a duck](http://9gag.com/gag/azxBKgK)
- - ⏩ [Anybody care to defend this?](http://9gag.com/gag/arydXKX)
- - 👉 [Eat me](http://9gag.com/gag/adBdnx9)<!-- MEMES:END -->
+ - 💣 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
+ - ⏩ [Batgirl&#39;s bathroom layout is a crime against humanity](http://9gag.com/gag/aVvdZPw)
+ - 👉 [New passive income just dropped](http://9gag.com/gag/a1mx0yw)<!-- MEMES:END -->
 
 ---
 
