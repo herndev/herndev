@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: European defense tech startups have raised €2.4B since 2022, including €1.4B in the first 7 months of 2025, up from €30M in 2020 and €150M in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250908/p1#a250908p1)
  - [Shenzhen-based humanoid startup X Square Robot raised ~$100M led by Alibaba, bringing total funding to ~$280M, and released a foundation model for embodied AI &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/250907/p20#a250907p20)
- - [Nova Launcher is shutting down, and Android fans are heartbroken](https://www.androidauthority.com/nova-launcher-shutdown-3595611/)
- - [OpenAI is providing its tools and computing resources for an AI-made animated feature film called Critterz, which is set to hit theaters globally in 2026 &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250907/p19#a250907p19)<!-- TECH:END -->
+ - [Nova Launcher is shutting down, and Android fans are heartbroken](https://www.androidauthority.com/nova-launcher-shutdown-3595611/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
