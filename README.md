@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New passive income just dropped](http://9gag.com/gag/a1mx0yw)
- - ⏩ [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 👉 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)<!-- MEMES:END -->
+ - 💣 [Eat me](http://9gag.com/gag/adBdnx9)
+ - ⏩ [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)
+ - 👉 [Walks like a duck](http://9gag.com/gag/azxBKgK)<!-- MEMES:END -->
 
 ---
 
