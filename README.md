@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Genshin Impact &#39;Luna I&#39; release?](https://www.polygon.com/genshin-impact-version-6-0-luna-i-release-times-maintenance-end-nod-krai/)
- - [Silksong crest locations and the best crest](https://www.pcgamer.com/games/action/silksong-crest-locations/)
- - [&#39;Our mission is to bring back lost treasures&#39;: Nightdive Studios&#39; next remaster project is Outlaws, the cowboy shoot &#39;em up made on Lucas&#39; Jedi Engine](https://www.pcgamer.com/games/fps/our-mission-is-to-bring-back-lost-treasures-nightdive-studios-next-remaster-project-is-outlaws-the-cowboy-shoot-em-up-made-on-lucas-jedi-engine/)<!-- GAME:END -->
+ - [Conjuring 4 Just Had The Biggest Opening Weekend In Horror Movie History](https://kotaku.com/conjuring-4-last-rites-biggest-box-office-horror-movie-record-history-wb-2000624132)
+ - [If Silksong&#39;s corpse runs and double damage hits are too demanding, here&#39;s a pair of mods to tone down the difficulty just a notch](https://www.pcgamer.com/games/action/if-silksongs-corpse-runs-and-double-damage-hits-are-too-demanding-heres-a-pair-of-mods-to-tone-down-the-difficulty-just-a-notch/)
+ - [All You Need To Know About Playing Borderlands 4: Launch Times, Day-One Patch, And More](https://kotaku.com/borderlands-4-everything-pre-order-dlc-release-date-time-ps5-switch-2-crossplay-2000624090)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
