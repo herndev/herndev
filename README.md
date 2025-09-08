@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WWJD](http://9gag.com/gag/aE0QWgK)
- - ⏩ [Emotional damage!](http://9gag.com/gag/aVvdmev)
- - 👉 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/a6Zx5ZA)
+ - ⏩ [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)
+ - 👉 [Emotional damage!](http://9gag.com/gag/aVvdmev)<!-- MEMES:END -->
 
 ---
 
