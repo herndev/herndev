@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/a6ZxDY2)
- - ⏩ [Australia is wild, Australians are wilder](http://9gag.com/gag/aE0Q6Xn)
- - 👉 [Wtf is this?](http://9gag.com/gag/aMVWdyA)<!-- MEMES:END -->
+ - 💣 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
+ - ⏩ [Another day](http://9gag.com/gag/aVvdKE2)
+ - 👉 [Never relax](http://9gag.com/gag/aE0QALM)<!-- MEMES:END -->
 
 ---
 
