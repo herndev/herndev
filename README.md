@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
- - ⏩ [New passive income just dropped](http://9gag.com/gag/a1mx0yw)
- - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
+ - 💣 [WWJD](http://9gag.com/gag/aE0QWgK)
+ - ⏩ [Emotional damage!](http://9gag.com/gag/aVvdmev)
+ - 👉 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)<!-- MEMES:END -->
 
 ---
 
