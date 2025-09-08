@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel announces top-level executive changes, including the departure of its products chief, Michelle Holthaus, and establishes a new central engineering group &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250908/p35#a250908p35)
- - [Deal: The mighty Samsung Galaxy S25 Ultra is $300 off!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-13-3594909/)
- - [Nintendo Switch modder ordered to pay $2 million in piracy lawsuit](https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit)<!-- TECH:END -->
+ - [SEC filing: Microsoft strikes a deal worth up to $19.4B through 2031 to get AI cloud computing power from Nebius Group; NBIS jumps 50%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p38#a250908p38)
+ - [E-commerce company Eightco soared over 3,000% on Monday after announcing a plan to buy Worldcoin tokens and naming Wall Street analyst Dan Ives as chairman &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p37#a250908p37)
+ - [Dell says its CFO, Yvonne McGill, will resign effective September 9 after nearly 30 years with the company and names SVP David Kennedy as interim CFO &lpar;Savyata Mishra/Reuters&rpar;](http://www.techmeme.com/250908/p36#a250908p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
