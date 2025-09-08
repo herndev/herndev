@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all heroes wear capes, some wear green shirts](http://9gag.com/gag/aqyd6vM)
- - ⏩ [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
- - 👉 [Precious](http://9gag.com/gag/aMVWzAA)<!-- MEMES:END -->
+ - 💣 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
+ - ⏩ [Batgirl&#39;s bathroom layout is a crime against humanity](http://9gag.com/gag/aVvdZPw)
+ - 👉 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)<!-- MEMES:END -->
 
 ---
 
