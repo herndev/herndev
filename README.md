@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who would have thought?](http://9gag.com/gag/a34xyQ8)
- - ⏩ [Where are the numbers for 2024?](http://9gag.com/gag/an7d2Zn)
- - 👉 [Joining the might club immediately](http://9gag.com/gag/aGyoGVK)<!-- MEMES:END -->
+ - 💣 [Bro said ` I dont want to get fired `](http://9gag.com/gag/abAdBXE)
+ - ⏩ [An hour after the new banksy artwork was revealed that was mocking the courts for censoring people, the courts censored it by covering it up...](http://9gag.com/gag/aLnbmQx)
+ - 👉 [Banksy painted graffiti on the Royal Courts of Justice building in London, depicting a judge beating a protester with a hammer.](http://9gag.com/gag/a4PxAmy)<!-- MEMES:END -->
 
 ---
 
