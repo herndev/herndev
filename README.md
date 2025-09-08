@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - ⏩ [Another day](http://9gag.com/gag/aVvdKE2)
- - 👉 [Never relax](http://9gag.com/gag/aE0QALM)<!-- MEMES:END -->
+ - 💣 [Woman reported to police after a man assaulted her. Police threatened to arrest her for &#39;being offensive&#39; when describing her attacker.](http://9gag.com/gag/aPAp8KV)
+ - ⏩ [Never relax](http://9gag.com/gag/aE0QALM)
+ - 👉 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)<!-- MEMES:END -->
 
 ---
 
