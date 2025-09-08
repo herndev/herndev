@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC filing: Microsoft strikes a deal worth up to $19.4B through 2031 to get AI cloud computing power from Nebius Group; NBIS jumps 50%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p38#a250908p38)
- - [E-commerce company Eightco soared over 3,000% on Monday after announcing a plan to buy Worldcoin tokens and naming Wall Street analyst Dan Ives as chairman &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p37#a250908p37)
- - [Dell says its CFO, Yvonne McGill, will resign effective September 9 after nearly 30 years with the company and names SVP David Kennedy as interim CFO &lpar;Savyata Mishra/Reuters&rpar;](http://www.techmeme.com/250908/p36#a250908p36)<!-- TECH:END -->
+ - [Google announces Veo updates: support for vertical video and 1080p, lower pricing, and general availability of Veo 3 and Veo 3 Fast in the Gemini API &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250908/p39#a250908p39)
+ - [DJI Mic Mini deal: Get a great microphone for just $59!](https://www.androidauthority.com/dji-mic-mini-deal-3595949/)
+ - [AMD&amp;#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games](https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
