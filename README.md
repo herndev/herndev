@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/a6Zx5ZA)
- - ⏩ [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)
- - 👉 [Emotional damage!](http://9gag.com/gag/aVvdmev)<!-- MEMES:END -->
+ - 💣 [Eat me](http://9gag.com/gag/adBdnx9)
+ - ⏩ [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
+ - 👉 [Another day](http://9gag.com/gag/aVvdKE2)<!-- MEMES:END -->
 
 ---
 
