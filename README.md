@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Razer upgrades its kitty eared headsets with a fancy wireless Kraken Kitty V3 Pro and a surprisingly affordable Kraken Kitty X](https://www.pcgamer.com/hardware/gaming-headsets/razer-upgrades-its-kitty-eared-headsets-with-a-fancy-wireless-kraken-kitty-v3-pro-and-a-surprisingly-affordable-kraken-kitty-x/)
  - [Today&#39;s Wordle clues, hints and answer for September 8 &lpar;#1542&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-8-2025/)
- - [With Silksong in our hands, Steam&#39;s new reigning wishlist kings are both kind of basket cases: The partially-released Deadlock and lawsuit lightning rod Subnautica 2](https://www.pcgamer.com/gaming-industry/with-silksong-in-our-hands-steams-new-reigning-wishlist-kings-are-both-kind-of-basket-cases-the-partially-released-deadlock-and-lawsuit-lightning-rod-subnautica-2/)
- - [Adding controller support to the System Shock 2 remaster meant re-recording decades-old voice acting](https://www.pcgamer.com/games/rpg/adding-controller-support-to-the-system-shock-2-remaster-meant-re-recording-decades-old-voice-acting/)<!-- GAME:END -->
+ - [With Silksong in our hands, Steam&#39;s new reigning wishlist kings are both kind of basket cases: The partially-released Deadlock and lawsuit lightning rod Subnautica 2](https://www.pcgamer.com/gaming-industry/with-silksong-in-our-hands-steams-new-reigning-wishlist-kings-are-both-kind-of-basket-cases-the-partially-released-deadlock-and-lawsuit-lightning-rod-subnautica-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
