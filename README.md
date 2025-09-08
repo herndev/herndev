@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is it connected to the router?](http://9gag.com/gag/agmd7Dx)
- - ⏩ [Never relax](http://9gag.com/gag/aE0QALM)
- - 👉 [Seems like a reasonable Lad](http://9gag.com/gag/aQzrQy7)<!-- MEMES:END -->
+ - 💣 [Woman reported to police after a man assaulted her. Police threatened to arrest her for &#39;being offensive&#39; when describing her attacker.](http://9gag.com/gag/aPAp8KV)
+ - ⏩ [They werent doing that before](http://9gag.com/gag/ayNz188)
+ - 👉 [My preciousssss](http://9gag.com/gag/azxBGGx)<!-- MEMES:END -->
 
 ---
 
