@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Conjuring 4 Just Had The Biggest Opening Weekend In Horror Movie History](https://kotaku.com/conjuring-4-last-rites-biggest-box-office-horror-movie-record-history-wb-2000624132)
- - [If Silksong&#39;s corpse runs and double damage hits are too demanding, here&#39;s a pair of mods to tone down the difficulty just a notch](https://www.pcgamer.com/games/action/if-silksongs-corpse-runs-and-double-damage-hits-are-too-demanding-heres-a-pair-of-mods-to-tone-down-the-difficulty-just-a-notch/)
- - [All You Need To Know About Playing Borderlands 4: Launch Times, Day-One Patch, And More](https://kotaku.com/borderlands-4-everything-pre-order-dlc-release-date-time-ps5-switch-2-crossplay-2000624090)<!-- GAME:END -->
+ - [I asked Vin Diesel for a Last Witch Hunter sequel, and he delivered](https://www.polygon.com/vin-diesel-the-last-witch-hunter-sequel-confirmed-michael-caine/)
+ - [WotC president says he&#39;d &#39;love to have&#39; a new Dungeons &amp; Dragons MMO, but it would have to &#39;rethink what an MMO is in this day and age&#39;](https://www.pcgamer.com/games/mmo/wotc-president-says-hed-love-to-have-a-new-dungeons-and-dragons-mmo-but-it-would-have-to-rethink-what-an-mmo-is-in-this-day-and-age/)
+ - [&#39;Rite of the Pollip&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-rite-of-the-pollip-location-quest-walkthrough/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
