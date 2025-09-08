@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
- - ⏩ [Batgirl&#39;s bathroom layout is a crime against humanity](http://9gag.com/gag/aVvdZPw)
- - 👉 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)<!-- MEMES:END -->
+ - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
+ - ⏩ [New passive income just dropped](http://9gag.com/gag/a1mx0yw)
+ - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
 
 ---
 
