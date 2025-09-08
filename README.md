@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI comes for Hollywood with Critterz, an AI-powered animated film](https://www.theverge.com/news/773584/openai-animated-feature-film-critterz)
- - [More leaked images give weight to Apple&#39;s iPhone 17 cross-body strap](https://appleinsider.com/articles/25/09/08/more-leaked-images-give-weight-to-apples-iphone-17-cross-body-strap?utm_source=rss)
- - [Uber and Shanghai-based robotaxi company Momenta plan to test Level 4 fully driverless cars in Munich from 2026, as a precursor to launching a robotaxi service &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250908/p8#a250908p8)<!-- TECH:END -->
+ - [iPhone 17 Pro Max&#39;s larger battery could last four more hours per charge](https://appleinsider.com/articles/25/09/08/iphone-17-pro-maxs-larger-battery-could-last-four-more-hours-per-charge?utm_source=rss)
+ - [A deep dive on Huawei&#39;s Ascend AI chip production, SMIC, TSMC, US export controls, HBM bottlenecks, China&#39;s HBM issues, Huawei&#39;s data center chips, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250908/p11#a250908p11)
+ - [E Ink posters might just save my poor, bare walls from crippling indecision](https://www.androidauthority.com/e-ink-posters-3595585/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
