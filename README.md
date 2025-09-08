@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe you are interested in a different side of england](http://9gag.com/gag/ajPdLqG)
+ - 💣 [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
  - ⏩ [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
- - 👉 [Seems like a reasonable Lad](http://9gag.com/gag/aQzrQy7)<!-- MEMES:END -->
+ - 👉 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)<!-- MEMES:END -->
 
 ---
 
