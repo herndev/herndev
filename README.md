@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Adding controller support to the System Shock 2 remaster meant re-recording decades-old voice acting](https://www.pcgamer.com/games/rpg/adding-controller-support-to-the-system-shock-2-remaster-meant-re-recording-decades-old-voice-acting/)
  - [&#39;Solid as a paper Whopper wrapper in the rain&#39;: Hackers reported &#39;catastrophic&#39; cybersecurity flaws at Burger King before the fast food giant nuked their criticism off the &#39;net via DMCA](https://www.pcgamer.com/gaming-industry/solid-as-a-paper-whopper-wrapper-in-the-rain-hackers-reported-catastrophic-cybersecurity-flaws-at-burger-king-before-the-fast-food-giant-nuked-their-criticism-off-the-net-via-dmca/)
- - [Five new Steam games you probably missed &lpar;September 8, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-8-2025/)
- - [Stuck on Silksong&#39;s obnoxious big bug boss Moorwing? There&#39;s a cheeky way to kill him in 30 seconds—or skip the fight altogether](https://www.pcgamer.com/silksong-moorwing-boss-cheese-skip/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;September 8, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-8-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
