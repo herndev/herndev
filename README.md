@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a September 5 filing in the US v. Google ad tech trial, Google said &quot;the open web is already in rapid decline&quot;, contradicting Google&#39;s recent statements &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/250908/p31#a250908p31)
- - [Local Nepalese media reports that 19+ people were killed after police opened fire on &quot;Gen Z protests&quot; against a government ban on major social media platforms &lpar;Andres Schipani/Financial Times&rpar;](http://www.techmeme.com/250908/p30#a250908p30)
- - [Save $60 on the DJI Mic Mini Kit—Price Drops to Just $109 Today](https://www.wired.com/story/save-dollar60-on-a-dji-mic-mini-bundle/)<!-- TECH:END -->
+ - [Signal&amp;#8217;s first paid feature adds encrypted media and message backups](https://www.theverge.com/news/774018/signal-encrypted-secure-backups-paid-feature-beta)
+ - [What to expect from Apple&#39;s iPhone 17 &#39;Awe Dropping&#39; event on September 9](https://appleinsider.com/articles/25/09/08/what-to-expect-from-apples-iphone-17-awe-dropping-event-on-september-9?utm_source=rss)
+ - [The Gemini app just got the one feature everyone was asking for](https://www.androidauthority.com/gemini-audio-uploads-3595927/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
