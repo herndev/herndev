@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman reported to police after a man assaulted her. Police threatened to arrest her for &#39;being offensive&#39; when describing her attacker.](http://9gag.com/gag/aPAp8KV)
- - ⏩ [They werent doing that before](http://9gag.com/gag/ayNz188)
- - 👉 [My preciousssss](http://9gag.com/gag/azxBGGx)<!-- MEMES:END -->
+ - 💣 [Walks like a duck](http://9gag.com/gag/azxBKgK)
+ - ⏩ [Anybody care to defend this?](http://9gag.com/gag/arydXKX)
+ - 👉 [Eat me](http://9gag.com/gag/adBdnx9)<!-- MEMES:END -->
 
 ---
 
