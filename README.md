@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube says its first exclusive NFL broadcast on September 5 averaged more than 17.3M global viewers, including 1.1M average minute audiences outside of the US &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250908/p22#a250908p22)
- - [EchoStar offloads satellite spectrum to SpaceX for $17 billion](https://www.theverge.com/news/773645/echostar-dish-spacex-starlink-direct-to-cell-fcc-investigation)
- - [Google wants Gemini to keep the conversation going, and here’s how it’s going to do it](https://www.androidauthority.com/google-gemini-follow-up-question-suggestions-3595747/)<!-- TECH:END -->
+ - [All the biggest IFA 2025 announcements for Apple users: Hue lights, Matter devices, &amp; more](https://appleinsider.com/articles/25/09/08/all-the-biggest-ifa-2025-announcements-for-apple-users-hue-lights-matter-devices-more?utm_source=rss)
+ - [Motion, which sells an integrated suite of AI agents for SMB, raised a $38M Series C led by Scale Venture Partners, bringing its total funding to $75M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250908/p24#a250908p24)
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
