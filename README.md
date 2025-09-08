@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 7 and Flip 7 are about to get these handy features](https://www.androidauthority.com/galaxy-z-fold-7-samsung-dex-widgets-3595878/)
- - [Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline)
- - [A look at the looming DJI drones ban in the US, as some say the ban will be disruptive; no federal agency has undertaken a mandated security risk assessment &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/250908/p27#a250908p27)<!-- TECH:END -->
+ - [In a September 5 filing in the US v. Google ad tech trial, Google said &quot;the open web is already in rapid decline&quot;, contradicting Google&#39;s recent statements &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/250908/p31#a250908p31)
+ - [Local Nepalese media reports that 19+ people were killed after police opened fire on &quot;Gen Z protests&quot; against a government ban on major social media platforms &lpar;Andres Schipani/Financial Times&rpar;](http://www.techmeme.com/250908/p30#a250908p30)
+ - [Save $60 on the DJI Mic Mini Kit—Price Drops to Just $109 Today](https://www.wired.com/story/save-dollar60-on-a-dji-mic-mini-bundle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
