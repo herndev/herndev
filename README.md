@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman reported to police after a man assaulted her. Police threatened to arrest her for &#39;being offensive&#39; when describing her attacker.](http://9gag.com/gag/aPAp8KV)
- - ⏩ [Never relax](http://9gag.com/gag/aE0QALM)
- - 👉 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)<!-- MEMES:END -->
+ - 💣 [LOL](http://9gag.com/gag/a87n0zQ)
+ - ⏩ [Anybody care to defend this?](http://9gag.com/gag/arydXKX)
+ - 👉 [Seems like a reasonable Lad](http://9gag.com/gag/aQzrQy7)<!-- MEMES:END -->
 
 ---
 
