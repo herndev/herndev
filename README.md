@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro Max&#39;s larger battery could last four more hours per charge](https://appleinsider.com/articles/25/09/08/iphone-17-pro-maxs-larger-battery-could-last-four-more-hours-per-charge?utm_source=rss)
- - [A deep dive on Huawei&#39;s Ascend AI chip production, SMIC, TSMC, US export controls, HBM bottlenecks, China&#39;s HBM issues, Huawei&#39;s data center chips, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250908/p11#a250908p11)
- - [E Ink posters might just save my poor, bare walls from crippling indecision](https://www.androidauthority.com/e-ink-posters-3595585/)<!-- TECH:END -->
+ - [Ticketing platform StubHub plans to sell ~34M shares at $22 to $25 in its IPO, valuing it at up to $9.2B and raising up to $851M, after delaying an IPO in April &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p16#a250908p16)
+ - [Why Your Office Chair Should Have Lumbar Support](https://www.wired.com/story/does-your-office-chair-need-lumbar-support/)
+ - [ASPI researchers: Myanmar&#39;s online scam centers on the Thai border rose from 11 to 27 since 2021&#39;s military coup, holding an estimated 100K trafficked people &lpar;Rebecca Ratcliffe/The Guardian&rpar;](http://www.techmeme.com/250908/p15#a250908p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
