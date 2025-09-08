@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ticketing platform StubHub plans to sell ~34M shares at $22 to $25 in its IPO, valuing it at up to $9.2B and raising up to $851M, after delaying an IPO in April &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p16#a250908p16)
- - [Why Your Office Chair Should Have Lumbar Support](https://www.wired.com/story/does-your-office-chair-need-lumbar-support/)
- - [ASPI researchers: Myanmar&#39;s online scam centers on the Thai border rose from 11 to 27 since 2021&#39;s military coup, holding an estimated 100K trafficked people &lpar;Rebecca Ratcliffe/The Guardian&rpar;](http://www.techmeme.com/250908/p15#a250908p15)<!-- TECH:END -->
+ - [Nova Launcher’s demise is another death knell for the Android I remember](https://www.androidauthority.com/nova-launcher-will-be-missed-3595724/)
+ - [Atlanta-based Rainforest, which embeds payment processing into platforms, raised a $29M Series B led by Matrix and Infinity, taking its total funding to $57.5M &lpar;Crunchbase News&rpar;](http://www.techmeme.com/250908/p19#a250908p19)
+ - [Filing: Nasdaq asks the SEC to let investors trade tokenized securities on its exchange, and could roll out the first token-settled trades by the end of Q3 2026 &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/250908/p18#a250908p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
