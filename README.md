@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
- - ⏩ [Batgirl&#39;s bathroom layout is a crime against humanity](http://9gag.com/gag/aVvdZPw)
- - 👉 [New passive income just dropped](http://9gag.com/gag/a1mx0yw)<!-- MEMES:END -->
+ - 💣 [Cops have difficult jobs\u2026](http://9gag.com/gag/ae9dZeQ)
+ - ⏩ [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
+ - 👉 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)<!-- MEMES:END -->
 
 ---
 
