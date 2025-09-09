@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - ⏩ [Yen &gt; Triss](http://9gag.com/gag/amodxj4)
- - 👉 [Interacting with the latest DLC Germany NPCs update](http://9gag.com/gag/an7dxN5)<!-- MEMES:END -->
+ - 💣 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
+ - ⏩ [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - 👉 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)<!-- MEMES:END -->
 
 ---
 
