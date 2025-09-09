@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything announced at Apple&amp;#8217;s iPhone 17 event](https://www.theverge.com/news/772434/apple-iphone-17-event-news)
- - [US Taxpayers Will Pay Billions in New Fossil Fuel Subsidies Thanks to the Big Beautiful Bill](https://www.wired.com/story/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/)
- - [Memo: Microsoft mandates staff to return to the office three days per week, starting in late February 2026 for those who live within 50 miles of its Redmond HQ &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250909/p21#a250909p21)<!-- TECH:END -->
+ - [Lowest price ever: M4 MacBook Pro with 24GB RAM drops to $1,399 &lpar;$400 off&rpar;](https://appleinsider.com/articles/25/09/09/lowest-price-ever-m4-macbook-pro-with-24gb-ram-drops-to-1399-400-off?utm_source=rss)
+ - [A live blog of Apple&#39;s &quot;Awe dropping&quot; event, where major iPhone design upgrades, an ultrathin iPhone 17 Air, and three Apple Watch models are expected &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250909/p23#a250909p23)
+ - [Right-Wing Influencers Are Turning to Foreign Affairs](https://www.wired.com/story/right-wing-influencers-are-turning-to-foreign-affairs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
