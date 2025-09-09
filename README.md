@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your motivation for the week](http://9gag.com/gag/a87neVY)
- - ⏩ [Clarity](http://9gag.com/gag/aZZdj1V)
- - 👉 [Oi! Do you have a Muppet license for that!](http://9gag.com/gag/a0ex1Dz)<!-- MEMES:END -->
+ - 💣 [Something probably gonna happened with the hole...](http://9gag.com/gag/aVvdL8O)
+ - ⏩ [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
+ - 👉 [Avada kedavra](http://9gag.com/gag/aZZdjRX)<!-- MEMES:END -->
 
 ---
 
