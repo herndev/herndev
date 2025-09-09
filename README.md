@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn!](http://9gag.com/gag/azxBRxq)
- - ⏩ [Yes it is](http://9gag.com/gag/aYQdMdN)
- - 👉 [We don&#39;t have to live like this](http://9gag.com/gag/apRdxb5)<!-- MEMES:END -->
+ - 💣 [Rabies by the doggies](http://9gag.com/gag/a7oGVbe)
+ - ⏩ [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
+ - 👉 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)<!-- MEMES:END -->
 
 ---
 
