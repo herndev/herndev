@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
- - ⏩ [Yes it is](http://9gag.com/gag/aYQdMdN)
- - 👉 [Uwotm8](http://9gag.com/gag/azxBG3b)<!-- MEMES:END -->
+ - 💣 [An hour after the new banksy artwork was revealed that was mocking the courts for censoring people, the courts censored it by covering it up...](http://9gag.com/gag/aLnbmQx)
+ - ⏩ [Banksy painted graffiti on the Royal Courts of Justice building in London, depicting a judge beating a protester with a hammer.](http://9gag.com/gag/a4PxAmy)
+ - 👉 [Precious](http://9gag.com/gag/aMVWzAA)<!-- MEMES:END -->
 
 ---
 
