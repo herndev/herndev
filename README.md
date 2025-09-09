@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something probably gonna happened with the hole...](http://9gag.com/gag/aVvdL8O)
- - ⏩ [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
- - 👉 [Avada kedavra](http://9gag.com/gag/aZZdjRX)<!-- MEMES:END -->
+ - 💣 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - ⏩ [Yen &gt; Triss](http://9gag.com/gag/amodxj4)
+ - 👉 [Interacting with the latest DLC Germany NPCs update](http://9gag.com/gag/an7dxN5)<!-- MEMES:END -->
 
 ---
 
