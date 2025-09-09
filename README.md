@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
- - ⏩ [Casual Friday](http://9gag.com/gag/aE0QWep)
- - 👉 [She didn&#39;t even notice him in the back!](http://9gag.com/gag/aXPd73V)<!-- MEMES:END -->
+ - 💣 [Precious](http://9gag.com/gag/aMVWzAA)
+ - ⏩ [In a world of karens... be a chad...](http://9gag.com/gag/aByvGGQ)
+ - 👉 [Romania is a state of mind](http://9gag.com/gag/aVvdL5w)<!-- MEMES:END -->
 
 ---
 
