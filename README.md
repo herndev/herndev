@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox is coming to cars thanks to an LG and Microsoft partnership](https://www.theverge.com/news/774177/microsoft-xbox-car-lg-partnership-cloud-streaming)
- - [NotebookLM moves one step closer to replacing your real-life tutor](https://www.androidauthority.com/notebooklm-update-flashcards-quizzes-personal-tutor-3596019/)
- - [Sources: the US informs European countries that it is stepping back from joint efforts to combat disinformation from Russia, China, Iran, and other countries &lpar;Amy Mackinnon/Financial Times&rpar;](http://www.techmeme.com/250909/p7#a250909p7)<!-- TECH:END -->
+ - [US jobseekers describe a hellish job market, with young people using ChatGPT to write applications, HR using AI to read them, and few people getting hired &lpar;Annie Lowrey/The Atlantic&rpar;](http://www.techmeme.com/250909/p10#a250909p10)
+ - [Genki will pay Nintendo damages over 3D-printed Switch 2](https://www.theverge.com/news/774236/nintendo-switch-2-genki-lawsuit-settlement)
+ - [Sources: Ant Group&#39;s Ant Digital Technologies is quietly working to link ~$8.4B of energy infrastructure and other real-world assets to its AntChain blockchain &lpar;Bloomberg&rpar;](http://www.techmeme.com/250909/p9#a250909p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
