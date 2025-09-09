@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out the Apple iPhone 17 event with AppleInsider&#39;s in-person coverage](https://appleinsider.com/articles/25/09/09/check-out-the-apple-iphone-17-event-with-appleinsiders-in-person-coverage?utm_source=rss)
- - [Wow! The Narwal Freo Z Ultra plummets to a new record-low price, saving you $700!](https://www.androidauthority.com/narwal-freo-z-ultra-robot-vacuum-mop-deal-2-3596203/)
- - [Here&amp;#8217;s everything you need to know about preordering the 2025 iPhone lineup](https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date)<!-- TECH:END -->
+ - [Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine](https://www.wired.com/story/moderna-ceo-responds-to-rfk-jrs-crusade-against-the-covid-19-vaccine/)
+ - [iPhone 17 Pro’s triple 48MP cameras raise the bar for Android flagships](https://www.androidauthority.com/iphone-17-pro-camera-features-3596244/)
+ - [Judge puts Anthropic&amp;#8217;s $1.5 billion book piracy settlement on hold](https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
