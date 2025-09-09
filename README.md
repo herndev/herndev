@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rabies by the doggies](http://9gag.com/gag/a7oGVbe)
- - ⏩ [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
- - 👉 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)<!-- MEMES:END -->
+ - 💣 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
+ - ⏩ [Casual Friday](http://9gag.com/gag/aE0QWep)
+ - 👉 [She didn&#39;t even notice him in the back!](http://9gag.com/gag/aXPd73V)<!-- MEMES:END -->
 
 ---
 
