@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI execs fear rising political scrutiny in California could hinder its for-profit plans and have discussed moving out of the state as a last resort &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250908/p42#a250908p42)
- - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)
- - [Creepy or Fun? Vodafone&#39;s New Spokesperson Is AI, Not a Real Person](https://www.cnet.com/news/social-media/creepy-or-fun-vodafones-new-spokesperson-is-ai-not-a-real-person/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Evan Spiegel says Snap is restructuring around small squads of 10 to 15 people to compete better; Snapchat+ now brings in $700M+ in ARR from 15M+ paying users &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250908/p43#a250908p43)
+ - [Google is already shoveling out a fix for Pixel 10’s screen snow](https://www.androidauthority.com/pixel-10-screen-snow-fix-3595984/)
+ - [Sources: OpenAI execs fear rising political scrutiny in California could hinder its for-profit plans and have discussed moving out of the state as a last resort &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250908/p42#a250908p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
