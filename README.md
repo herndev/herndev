@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Controlled NymphO having a day!](http://9gag.com/gag/a1mx54P)
- - ⏩ [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
- - 👉 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)<!-- MEMES:END -->
+ - 💣 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
+ - ⏩ [Clarity](http://9gag.com/gag/aZZdj1V)
+ - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
 
 ---
 
