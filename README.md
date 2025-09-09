@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US jobseekers describe a hellish job market, with young people using ChatGPT to write applications, HR using AI to read them, and few people getting hired &lpar;Annie Lowrey/The Atlantic&rpar;](http://www.techmeme.com/250909/p10#a250909p10)
- - [Genki will pay Nintendo damages over 3D-printed Switch 2](https://www.theverge.com/news/774236/nintendo-switch-2-genki-lawsuit-settlement)
- - [Sources: Ant Group&#39;s Ant Digital Technologies is quietly working to link ~$8.4B of energy infrastructure and other real-world assets to its AntChain blockchain &lpar;Bloomberg&rpar;](http://www.techmeme.com/250909/p9#a250909p9)<!-- TECH:END -->
+ - [The 4.2-inch Pocket AIR Mini is set to shake up the sub-$150 gaming handheld scene](https://www.androidauthority.com/ayaneo-pocket-air-mini-screen-colorways-3596047/)
+ - [Gmail may finally alert you when someone reacts to your Chat messages &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/gmail-google-chat-features-apk-teardown-3591595/)
+ - [Microsoft and LG partner to bring Xbox Cloud Gaming to cars that use LG&#39;s Automotive Content Platform, including Kia&#39;s EV3 and Sportage models in Europe &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250909/p13#a250909p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
