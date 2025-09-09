@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Helsinki-based ReOrbit, which builds satellites and a software platform to help countries fully control their satellite systems, raised a €45M Series A &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250909/p2#a250909p2)
- - [Apple Event deals: Save up to $450 on current MacBook Pros today only](https://appleinsider.com/articles/25/09/09/apple-event-deals-save-up-to-450-on-current-macbook-pros-today-only?utm_source=rss)
- - [The UK Electoral Commission says it took three years and over £250K to recover from an August 2021 hack that exposed private data of 40M voters to Chinese spies &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/250909/p1#a250909p1)<!-- TECH:END -->
+ - [Dyson Promo Codes: 20% Off | September 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [Lenovo Coupon Codes and Deals: Up to $890 Off](https://www.wired.com/story/lenovo-coupon-code/)
+ - [Mistral raised a €1.7B Series C at an €11.7B valuation; ASML led the round with €1.3B to become its largest shareholder, joined by a16z, DST, and others &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250909/p3#a250909p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
