@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honey badger attacks an elephant.](http://9gag.com/gag/aByvE9A)
- - ⏩ [Interacting with the latest DLC Germany NPCs update](http://9gag.com/gag/an7dxN5)
+ - 💣 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
+ - ⏩ [Go Australia \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/aByvE62)
  - 👉 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)<!-- MEMES:END -->
 
 ---
