@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 17 finally catches up to 2017’s Android phones](https://www.androidauthority.com/apple-iphone-17-2017-android-phones-3596218/)
- - [Apple reveals the all-aluminum iPhone 17 Pro](https://www.theverge.com/news/772666/apple-iphone-17-pro-specs-features-price-release-date)
- - [Apple announces the ultra-slim iPhone Air with a 5.6mm design, an A19 Pro chip, a 6.5&quot; display with ProMotion, N1 wireless chip for WiFi and Bluetooth, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250909/p31#a250909p31)<!-- TECH:END -->
+ - [Apple&amp;#8217;s new MagSafe battery is only designed for the new iPhone Air](https://www.theverge.com/news/774515/apples-new-magsafe-battery-is-only-designed-for-the-new-iphone-air)
+ - [Final Cut Camera updated for ProRes RAW, genlock, and Center Stage](https://appleinsider.com/articles/25/09/09/final-cut-camera-updated-for-prores-raw-genlock-and-center-stage?utm_source=rss)
+ - [iOS 26, macOS Tahoe, and more are coming on September 15](https://appleinsider.com/articles/25/09/09/ios-26-macos-tahoe-and-more-are-coming-on-september-15?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
