@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lowest price ever: M4 MacBook Pro with 24GB RAM drops to $1,399 &lpar;$400 off&rpar;](https://appleinsider.com/articles/25/09/09/lowest-price-ever-m4-macbook-pro-with-24gb-ram-drops-to-1399-400-off?utm_source=rss)
- - [A live blog of Apple&#39;s &quot;Awe dropping&quot; event, where major iPhone design upgrades, an ultrathin iPhone 17 Air, and three Apple Watch models are expected &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250909/p23#a250909p23)
- - [Right-Wing Influencers Are Turning to Foreign Affairs](https://www.wired.com/story/right-wing-influencers-are-turning-to-foreign-affairs/)<!-- TECH:END -->
+ - [The iPhone 17 finally catches up to 2017’s Android phones](https://www.androidauthority.com/apple-iphone-17-2017-android-phones-3596218/)
+ - [Apple reveals the all-aluminum iPhone 17 Pro](https://www.theverge.com/news/772666/apple-iphone-17-pro-specs-features-price-release-date)
+ - [Apple announces the ultra-slim iPhone Air with a 5.6mm design, an A19 Pro chip, a 6.5&quot; display with ProMotion, N1 wireless chip for WiFi and Bluetooth, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250909/p31#a250909p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
