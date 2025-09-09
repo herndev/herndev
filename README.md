@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tee Lopes has turned Silksong&#39;s Sherma and Shakra into vocalists for unbearably cute club bangers](https://www.pcgamer.com/games/action/tee-lopes-has-turned-silksongs-sherma-and-shakra-into-vocalists-for-unbearably-cute-club-bangers/)
  - [Xbox Returns to Tokyo Game Show 2025 – Here’s How to Tune In](https://news.xbox.com/en-us/2025/09/08/xbox-tgs-tokyo-game-show-2025-broadcast/)
- - [Where to find Silver Bells in Hollow Knight: Silksong](https://www.pcgamer.com/silksong-silver-bells-location-wish-quest/)
- - [The death and resurrection of Battlefield: Bad Company 2 is exactly why real server browsers are important](https://www.pcgamer.com/games/fps/the-death-and-resurrection-of-battlefield-bad-company-2-is-exactly-why-real-server-browsers-are-important/)<!-- GAME:END -->
+ - [Where to find Silver Bells in Hollow Knight: Silksong](https://www.pcgamer.com/silksong-silver-bells-location-wish-quest/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
