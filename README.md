@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 Best Fans to Cool You Year Round &lpar;2025&rpar;](https://www.wired.com/gallery/best-fans/)
- - [Canon is bringing back a point-and-shoot from 2016 with fewer features and a higher price &lpar;it’s viral&rpar;](https://www.theverge.com/news/774095/canon-powershot-elph-360-hsa-kendall-jenner-reissue-price-specs)
- - [The UAE&#39;s Institute of Foundation Models open sources its K2 Think model, trained on only ~2,000 AI chips and designed for math, coding, and science research &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250909/p16#a250909p16)<!-- TECH:END -->
+ - [Best Buy is pretty sure that AirPods Pro 3 are coming during the iPhone 17 event](https://appleinsider.com/articles/25/09/09/best-buy-is-pretty-sure-that-airpods-pro-3-are-coming-during-the-iphone-17-event?utm_source=rss)
+ - [iPhone 17 Air may get iPhone SE-like branding and drop &#39;17&#39;](https://appleinsider.com/articles/25/09/09/iphone-17-air-may-get-iphone-se-like-branding-and-drop-17?utm_source=rss)
+ - [Google Home is making your smart home more controllable than ever before](https://www.androidauthority.com/google-home-web-app-public-preview-device-controls-3596123/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
