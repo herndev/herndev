@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2025 is the best year for 2D platformers since the SNES days](https://www.polygon.com/2025-best-year-2d-platformers-silksong-shinobi-ninja-gaiden/)
- - [Intel reshuffle puts engineering and &#39;a new custom silicon business&#39; in the spotlight but also ends a 30-year career at Intel for Product CEO Michelle Johnston Holthaus](https://www.pcgamer.com/hardware/graphics-cards/intel-reshuffle-puts-engineering-and-a-new-custom-silicon-business-in-the-spotlight-but-also-ends-a-30-year-career-at-intel-for-product-ceo-michelle-johnston-holthaus/)
- - [Beats Studio Buds+ Return to Record Low as Apple Clears Shelf Space for AirPods Pro 3](https://kotaku.com/beats-studio-buds-return-to-record-low-as-apple-clears-shelf-space-for-airpods-pro-3-2000624148)<!-- GAME:END -->
+ - [How to wall jump &lpar;Cling Grip&rpar; in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-wall-jump-cling-grip-location/)
+ - [Pacific Drive DLC coming this year, and it will be &#39;scarier&#39;](https://www.polygon.com/pacific-drive-dlc-expansion-whispers-in-the-woods/)
+ - [Borderlands 4 release time and date in your time zone](https://www.polygon.com/borderlands-4-release-time-date-edt-pdt/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
