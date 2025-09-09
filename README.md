@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Do you think there would be a problem if we see Hitler&#39;s penis?&#39; MachineGames considered having a full frontal Fuhrer in Wolfenstein 2: The New Colossus](https://www.pcgamer.com/games/fps/do-you-think-there-would-be-a-problem-if-we-see-hitlers-penis-machinegames-considered-having-a-full-frontal-fuhrer-in-wolfenstein-2-the-new-colossus/)
- - [How to escape The Slab in Silksong](https://www.pcgamer.com/games/action/silksong-escape-the-slab/)
- - [I asked Vin Diesel for a Last Witch Hunter sequel, and he delivered](https://www.polygon.com/vin-diesel-the-last-witch-hunter-sequel-confirmed-michael-caine/)<!-- GAME:END -->
+ - [The death and resurrection of Battlefield: Bad Company 2 is exactly why real server browsers are important](https://www.pcgamer.com/games/fps/the-death-and-resurrection-of-battlefield-bad-company-2-is-exactly-why-real-server-browsers-are-important/)
+ - [Former Xbox VP says Game Pass creates &#39;weird inner tensions&#39; because a game&#39;s popularity can actually damage sales: &#39;The majority of game adoption on GP comes at the expense of retail revenue&#39;](https://www.pcgamer.com/gaming-industry/former-xbox-vp-says-game-pass-creates-weird-inner-tensions-because-a-games-popularity-can-actually-damage-sales-the-majority-of-game-adoption-on-gp-comes-at-the-expense-of-retail-revenue/)
+ - [I spent all weekend playing Hollow Knight Silksong and I&#39;m totally enthralled, but nothing could completely live up to the hype after so many years](https://www.pcgamer.com/games/action/i-spent-all-weekend-playing-hollow-knight-silksong-and-im-totally-enthralled-but-nothing-could-completely-live-up-to-the-hype-after-so-many-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
