@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s a first look at the iPhone 17](https://www.theverge.com/hands-on/772556/iphone-17-hands-on-first-look-apple-event-photos-features-price)
- - [iPhone Air hands-on: very thin with rounded edges reminiscent of previous iPhone designs and a camera &quot;plateau&quot; that flows smoothly into the back of the phone &lpar;The Verge&rpar;](http://www.techmeme.com/250909/p43#a250909p43)
- - [Sources: Reflection AI, which is building AI coding tools, nears a deal to raise ~$1B at a valuation of $4.5B to $5.5B; Nvidia&#39;s VC arm would invest $250M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/250909/p42#a250909p42)<!-- TECH:END -->
+ - [Check out the Apple iPhone 17 event with AppleInsider&#39;s in-person coverage](https://appleinsider.com/articles/25/09/09/check-out-the-apple-iphone-17-event-with-appleinsiders-in-person-coverage?utm_source=rss)
+ - [Wow! The Narwal Freo Z Ultra plummets to a new record-low price, saving you $700!](https://www.androidauthority.com/narwal-freo-z-ultra-robot-vacuum-mop-deal-2-3596203/)
+ - [Here&amp;#8217;s everything you need to know about preordering the 2025 iPhone lineup](https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
