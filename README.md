@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s new MagSafe battery is only designed for the new iPhone Air](https://www.theverge.com/news/774515/apples-new-magsafe-battery-is-only-designed-for-the-new-iphone-air)
- - [Final Cut Camera updated for ProRes RAW, genlock, and Center Stage](https://appleinsider.com/articles/25/09/09/final-cut-camera-updated-for-prores-raw-genlock-and-center-stage?utm_source=rss)
- - [iOS 26, macOS Tahoe, and more are coming on September 15](https://appleinsider.com/articles/25/09/09/ios-26-macos-tahoe-and-more-are-coming-on-september-15?utm_source=rss)<!-- TECH:END -->
+ - [Here’s a first look at the iPhone 17](https://www.theverge.com/hands-on/772556/iphone-17-hands-on-first-look-apple-event-photos-features-price)
+ - [iPhone Air hands-on: very thin with rounded edges reminiscent of previous iPhone designs and a camera &quot;plateau&quot; that flows smoothly into the back of the phone &lpar;The Verge&rpar;](http://www.techmeme.com/250909/p43#a250909p43)
+ - [Sources: Reflection AI, which is building AI coding tools, nears a deal to raise ~$1B at a valuation of $4.5B to $5.5B; Nvidia&#39;s VC arm would invest $250M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/250909/p42#a250909p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
