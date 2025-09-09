@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine](https://www.wired.com/story/moderna-ceo-responds-to-rfk-jrs-crusade-against-the-covid-19-vaccine/)
- - [iPhone 17 Pro’s triple 48MP cameras raise the bar for Android flagships](https://www.androidauthority.com/iphone-17-pro-camera-features-3596244/)
- - [Judge puts Anthropic&amp;#8217;s $1.5 billion book piracy settlement on hold](https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected)<!-- TECH:END -->
+ - [Synopsys stock falls 20%+ in extended trading after the company said its IP business underperformed in Q3 partly due to US export restrictions to China &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250909/p54#a250909p54)
+ - [Evercore hikes Apple stock target to $260 on iPhone Air upgrade hopes](https://appleinsider.com/articles/25/09/09/evercore-hikes-apple-stock-target-to-260-on-iphone-air-upgrade-hopes?utm_source=rss)
+ - [macOS Tahoe is getting a new Repair Assistant for part calibration and pairing](https://appleinsider.com/articles/25/09/09/macos-tahoe-is-getting-a-new-repair-assistant-for-part-calibration-and-pairing?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
