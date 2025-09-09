@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blockchain-based lender Figure upsizes its US IPO and now plans to sell 31.5M shares priced between $20 and $22, aiming to raise up to ~$693M, up from $526M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250909/p17#a250909p17)
- - [Hyundai’s out-of-this-world EV concept is a glimpse at the upcoming Ioniq 3](https://www.theverge.com/news/774315/hyundai-concept-three-ev-ioniq-3-star-wars)
- - [Google’s Veo 3 can now generate vertical AI videos](https://www.theverge.com/news/774352/google-veo-3-ai-vertical-video-1080p-support)<!-- TECH:END -->
+ - [Everything announced at Apple&amp;#8217;s iPhone 17 event](https://www.theverge.com/news/772434/apple-iphone-17-event-news)
+ - [US Taxpayers Will Pay Billions in New Fossil Fuel Subsidies Thanks to the Big Beautiful Bill](https://www.wired.com/story/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/)
+ - [Memo: Microsoft mandates staff to return to the office three days per week, starting in late February 2026 for those who live within 50 miles of its Redmond HQ &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250909/p21#a250909p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
