@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 4.2-inch Pocket AIR Mini is set to shake up the sub-$150 gaming handheld scene](https://www.androidauthority.com/ayaneo-pocket-air-mini-screen-colorways-3596047/)
- - [Gmail may finally alert you when someone reacts to your Chat messages &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/gmail-google-chat-features-apk-teardown-3591595/)
- - [Microsoft and LG partner to bring Xbox Cloud Gaming to cars that use LG&#39;s Automotive Content Platform, including Kia&#39;s EV3 and Sportage models in Europe &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250909/p13#a250909p13)<!-- TECH:END -->
+ - [Guillermo del Toro makes Frankenstein his own](https://www.theverge.com/toronto-international-film-festival/774035/tiff-2025-reviews-frankenstein-normal-eternity)
+ - [Just about every detail about the unreleased Powerbeats Fit has been leaked](https://appleinsider.com/articles/25/09/09/just-about-every-detail-about-the-unreleases-powerbeats-fit-has-been-leaked?utm_source=rss)
+ - [Google pulls the Pixel 10’s Daily Hub to ‘enhance its performance’](https://www.theverge.com/news/774274/google-pulls-the-pixel-10s-daily-hub-to-enhance-its-performance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
