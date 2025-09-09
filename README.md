@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evan Spiegel says Snap is restructuring around small squads of 10 to 15 people to compete better; Snapchat+ now brings in $700M+ in ARR from 15M+ paying users &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250908/p43#a250908p43)
- - [Google is already shoveling out a fix for Pixel 10’s screen snow](https://www.androidauthority.com/pixel-10-screen-snow-fix-3595984/)
- - [Sources: OpenAI execs fear rising political scrutiny in California could hinder its for-profit plans and have discussed moving out of the state as a last resort &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250908/p42#a250908p42)<!-- TECH:END -->
+ - [Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World](https://www.wired.com/story/geedge-networks-mass-censorship-leak/)
+ - [Google quietly hits pause on a brand-new Pixel 10 feature, and it’s for the best](https://www.androidauthority.com/pixel-10-daily-hub-pause-3595993/)
+ - [The Nepalese government lifts its social media ban after local media reported 19+ deaths in clashes over anti-government demonstrations sparked by the ban &lpar;Gopal Sharma/Reuters&rpar;](http://www.techmeme.com/250908/p44#a250908p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
