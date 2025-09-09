@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Damn!](http://9gag.com/gag/azxBRxq)
- - ⏩ [Bro said ` I dont want to get fired `](http://9gag.com/gag/abAdBXE)
- - 👉 [Irishman supporting Palestinian protest by Pakistanis](http://9gag.com/gag/azxBRgm)<!-- MEMES:END -->
+ - ⏩ [Yes it is](http://9gag.com/gag/aYQdMdN)
+ - 👉 [We don&#39;t have to live like this](http://9gag.com/gag/apRdxb5)<!-- MEMES:END -->
 
 ---
 
