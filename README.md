@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to wall jump &lpar;Cling Grip&rpar; in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-wall-jump-cling-grip-location/)
- - [Pacific Drive DLC coming this year, and it will be &#39;scarier&#39;](https://www.polygon.com/pacific-drive-dlc-expansion-whispers-in-the-woods/)
- - [Borderlands 4 release time and date in your time zone](https://www.polygon.com/borderlands-4-release-time-date-edt-pdt/)<!-- GAME:END -->
+ - [FF Tactics remake director once wrote ‘3,000 years worth of lore’ about vampires](https://www.polygon.com/square-enix-bloodmasque-ff-tactics-director-interview/)
+ - [Switch 2’s Most Visually Impressive Port Just Got Better](https://kotaku.com/star-wars-outlaws-switch-2-port-patch-is-it-good-2000624465)
+ - [Helldivers 2 isn&#39;t getting a social hub, Arrowhead CEO says it&#39;s &#39;on the feature list for the next one,&#39; but the studio&#39;s next game is not Helldivers 3](https://www.pcgamer.com/games/helldivers-2-isnt-getting-a-social-hub-arrowhead-ceo-says-its-on-the-feature-list-for-the-next-one-but-the-studios-next-game-is-not-helldivers-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
