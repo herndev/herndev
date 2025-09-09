@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces Veo updates: support for vertical video and 1080p, lower pricing, and general availability of Veo 3 and Veo 3 Fast in the Gemini API &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250908/p39#a250908p39)
- - [DJI Mic Mini deal: Get a great microphone for just $59!](https://www.androidauthority.com/dji-mic-mini-deal-3595949/)
- - [AMD&amp;#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games](https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling)<!-- TECH:END -->
+ - [How VC firm 1789 Capital grew to $1B+ in assets with Donald Trump Jr. as a partner; its recent deals include investments in xAI, Neuralink, and Perplexity &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p41#a250908p41)
+ - [The awesome LG StanbyMe 27-inch portable monitor drops to record-low price](https://www.androidauthority.com/lg-stanbyme-27-inch-portable-monitor-deal-3595948/)
+ - [A judge rejects Anthropic&#39;s $1.5B copyright settlement over concerns that class lawyers are striking a deal behind the scenes that will be forced on authors &lpar;Annelise Levy/Bloomberg Law&rpar;](http://www.techmeme.com/250908/p40#a250908p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
