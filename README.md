@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Precious](http://9gag.com/gag/aMVWzAA)
- - ⏩ [In a world of karens... be a chad...](http://9gag.com/gag/aByvGGQ)
- - 👉 [Romania is a state of mind](http://9gag.com/gag/aVvdL5w)<!-- MEMES:END -->
+ - 💣 [Controlled NymphO having a day!](http://9gag.com/gag/a1mx54P)
+ - ⏩ [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
+ - 👉 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)<!-- MEMES:END -->
 
 ---
 
