@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy is pretty sure that AirPods Pro 3 are coming during the iPhone 17 event](https://appleinsider.com/articles/25/09/09/best-buy-is-pretty-sure-that-airpods-pro-3-are-coming-during-the-iphone-17-event?utm_source=rss)
- - [iPhone 17 Air may get iPhone SE-like branding and drop &#39;17&#39;](https://appleinsider.com/articles/25/09/09/iphone-17-air-may-get-iphone-se-like-branding-and-drop-17?utm_source=rss)
- - [Google Home is making your smart home more controllable than ever before](https://www.androidauthority.com/google-home-web-app-public-preview-device-controls-3596123/)<!-- TECH:END -->
+ - [Blockchain-based lender Figure upsizes its US IPO and now plans to sell 31.5M shares priced between $20 and $22, aiming to raise up to ~$693M, up from $526M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250909/p17#a250909p17)
+ - [Hyundai’s out-of-this-world EV concept is a glimpse at the upcoming Ioniq 3](https://www.theverge.com/news/774315/hyundai-concept-three-ev-ioniq-3-star-wars)
+ - [Google’s Veo 3 can now generate vertical AI videos](https://www.theverge.com/news/774352/google-veo-3-ai-vertical-video-1080p-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
