@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson Promo Codes: 20% Off | September 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Lenovo Coupon Codes and Deals: Up to $890 Off](https://www.wired.com/story/lenovo-coupon-code/)
- - [Mistral raised a €1.7B Series C at an €11.7B valuation; ASML led the round with €1.3B to become its largest shareholder, joined by a16z, DST, and others &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250909/p3#a250909p3)<!-- TECH:END -->
+ - [How David Sacks emerged as a key advocate for tech, crypto, and AI in the Trump administration, leveraging his tech expertise and All-In media presence &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250909/p4#a250909p4)
+ - [No, the Galaxy S25 FE doesn’t have this key security upgrade](https://www.androidauthority.com/samsung-galaxy-s25-fe-fingerprint-scanner-3596010/)
+ - [50% Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
