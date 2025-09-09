@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How VC firm 1789 Capital grew to $1B+ in assets with Donald Trump Jr. as a partner; its recent deals include investments in xAI, Neuralink, and Perplexity &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p41#a250908p41)
- - [The awesome LG StanbyMe 27-inch portable monitor drops to record-low price](https://www.androidauthority.com/lg-stanbyme-27-inch-portable-monitor-deal-3595948/)
- - [A judge rejects Anthropic&#39;s $1.5B copyright settlement over concerns that class lawyers are striking a deal behind the scenes that will be forced on authors &lpar;Annelise Levy/Bloomberg Law&rpar;](http://www.techmeme.com/250908/p40#a250908p40)<!-- TECH:END -->
+ - [Sources: OpenAI execs fear rising political scrutiny in California could hinder its for-profit plans and have discussed moving out of the state as a last resort &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250908/p42#a250908p42)
+ - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)
+ - [Creepy or Fun? Vodafone&#39;s New Spokesperson Is AI, Not a Real Person](https://www.cnet.com/news/social-media/creepy-or-fun-vodafones-new-spokesperson-is-ai-not-a-real-person/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
