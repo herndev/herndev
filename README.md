@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silksong is the first Switch 2 game that fully justifies a Pro controller](https://www.polygon.com/silksong-switch-2-pro-controller-hd-rumble/)
- - [Silksong Easter egg hides a secret, super-hard permadeath mode, for those who want to suffer even more](https://www.pcgamer.com/games/action/silksong-easter-egg-hides-a-secret-super-hard-permadeath-mode-for-those-who-want-to-suffer-even-more/)
- - [Maybe release a game in May sometimes? &#39;Fixation on the holiday window&#39; is hurting game publishers, says industry analyst Newzoo](https://www.pcgamer.com/gaming-industry/holiday-window-newzoo-2025-global-games-market-report/)<!-- GAME:END -->
+ - [Destiny 2 Is Going Full Star Wars In Make-Or-Break Moment For the 11-Year-Old Shooter](https://kotaku.com/destiny-2-star-wars-renegades-lightsaber-x-wing-ash-iron-2000624489)
+ - [One Of The Best Things Pokémon‘s Ever Done Has Gotten Too Expensive](https://kotaku.com/pokemon-sitting-cuties-alola-generation-7-center-order-2000624487)
+ - [Avengers directors release a cryptic teaser for Doomsday](https://www.polygon.com/avengers-doomsday-russo-bros-tease-marvel/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
