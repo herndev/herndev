@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How David Sacks emerged as a key advocate for tech, crypto, and AI in the Trump administration, leveraging his tech expertise and All-In media presence &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250909/p4#a250909p4)
- - [No, the Galaxy S25 FE doesn’t have this key security upgrade](https://www.androidauthority.com/samsung-galaxy-s25-fe-fingerprint-scanner-3596010/)
- - [50% Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [Amnesty: Pakistan is spying on millions via phone tapping and a Chinese-built internet firewall, in one of the broadest surveillance programs outside China &lpar;Ariba Shahid/Reuters&rpar;](http://www.techmeme.com/250909/p5#a250909p5)
+ - [It’s time to change your Plex password again](https://www.theverge.com/news/774188/plex-breach-change-password-email)
+ - [Google could be cooking up a new look for voice search in the Play Store &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-play-store-voice-search-ui-3521829/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
