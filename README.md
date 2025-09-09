@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Cloud Gaming &lpar;Beta&rpar; Coming to Select Vehicles in Partnership with LG](https://news.xbox.com/en-us/2025/09/09/xbox-cloud-gaming-vehicles-cars-lg/)
- - [Today&#39;s Wordle clues, hints and answer for September 9 &lpar;#1543&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-9-2025/)
- - [Tee Lopes has turned Silksong&#39;s Sherma and Shakra into vocalists for unbearably cute club bangers](https://www.pcgamer.com/games/action/tee-lopes-has-turned-silksongs-sherma-and-shakra-into-vocalists-for-unbearably-cute-club-bangers/)<!-- GAME:END -->
+ - [The best cards from Marvel&#39;s Spider-Man MTG bonus sheet](https://www.polygon.com/mtg-marvel-spider-man-bonus-sheet-cards-stories-comics/)
+ - [I jumped into the management god game Sintopia, only to have all my devil workers go on strike because I spent too much money on punishing sinners](https://www.pcgamer.com/games/strategy/i-jumped-into-the-management-god-game-sintopia-only-to-have-all-my-devil-workers-go-on-strike-because-i-spent-too-much-money-on-punishing-sinners/)
+ - [Hollow Knight: Silksong’s First Patch Will Nerf Its Toughest Early Bosses](https://kotaku.com/hollow-knight-silksong-patch-notes-moorwing-2000624424)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
