@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The death and resurrection of Battlefield: Bad Company 2 is exactly why real server browsers are important](https://www.pcgamer.com/games/fps/the-death-and-resurrection-of-battlefield-bad-company-2-is-exactly-why-real-server-browsers-are-important/)
- - [Former Xbox VP says Game Pass creates &#39;weird inner tensions&#39; because a game&#39;s popularity can actually damage sales: &#39;The majority of game adoption on GP comes at the expense of retail revenue&#39;](https://www.pcgamer.com/gaming-industry/former-xbox-vp-says-game-pass-creates-weird-inner-tensions-because-a-games-popularity-can-actually-damage-sales-the-majority-of-game-adoption-on-gp-comes-at-the-expense-of-retail-revenue/)
- - [I spent all weekend playing Hollow Knight Silksong and I&#39;m totally enthralled, but nothing could completely live up to the hype after so many years](https://www.pcgamer.com/games/action/i-spent-all-weekend-playing-hollow-knight-silksong-and-im-totally-enthralled-but-nothing-could-completely-live-up-to-the-hype-after-so-many-years/)<!-- GAME:END -->
+ - [Xbox Returns to Tokyo Game Show 2025 – Here’s How to Tune In](https://news.xbox.com/en-us/2025/09/08/xbox-tgs-tokyo-game-show-2025-broadcast/)
+ - [Where to find Silver Bells in Hollow Knight: Silksong](https://www.pcgamer.com/silksong-silver-bells-location-wish-quest/)
+ - [The death and resurrection of Battlefield: Bad Company 2 is exactly why real server browsers are important](https://www.pcgamer.com/games/fps/the-death-and-resurrection-of-battlefield-bad-company-2-is-exactly-why-real-server-browsers-are-important/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
