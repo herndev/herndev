@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Xbox Cloud Gaming &lpar;Beta&rpar; Coming to Select Vehicles in Partnership with LG](https://news.xbox.com/en-us/2025/09/09/xbox-cloud-gaming-vehicles-cars-lg/)
  - [Today&#39;s Wordle clues, hints and answer for September 9 &lpar;#1543&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-9-2025/)
- - [Tee Lopes has turned Silksong&#39;s Sherma and Shakra into vocalists for unbearably cute club bangers](https://www.pcgamer.com/games/action/tee-lopes-has-turned-silksongs-sherma-and-shakra-into-vocalists-for-unbearably-cute-club-bangers/)
- - [Xbox Returns to Tokyo Game Show 2025 – Here’s How to Tune In](https://news.xbox.com/en-us/2025/09/08/xbox-tgs-tokyo-game-show-2025-broadcast/)<!-- GAME:END -->
+ - [Tee Lopes has turned Silksong&#39;s Sherma and Shakra into vocalists for unbearably cute club bangers](https://www.pcgamer.com/games/action/tee-lopes-has-turned-silksongs-sherma-and-shakra-into-vocalists-for-unbearably-cute-club-bangers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
