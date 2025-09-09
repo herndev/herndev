@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best cards from Marvel&#39;s Spider-Man MTG bonus sheet](https://www.polygon.com/mtg-marvel-spider-man-bonus-sheet-cards-stories-comics/)
- - [I jumped into the management god game Sintopia, only to have all my devil workers go on strike because I spent too much money on punishing sinners](https://www.pcgamer.com/games/strategy/i-jumped-into-the-management-god-game-sintopia-only-to-have-all-my-devil-workers-go-on-strike-because-i-spent-too-much-money-on-punishing-sinners/)
- - [Hollow Knight: Silksong’s First Patch Will Nerf Its Toughest Early Bosses](https://kotaku.com/hollow-knight-silksong-patch-notes-moorwing-2000624424)<!-- GAME:END -->
+ - [2025 is the best year for 2D platformers since the SNES days](https://www.polygon.com/2025-best-year-2d-platformers-silksong-shinobi-ninja-gaiden/)
+ - [Intel reshuffle puts engineering and &#39;a new custom silicon business&#39; in the spotlight but also ends a 30-year career at Intel for Product CEO Michelle Johnston Holthaus](https://www.pcgamer.com/hardware/graphics-cards/intel-reshuffle-puts-engineering-and-a-new-custom-silicon-business-in-the-spotlight-but-also-ends-a-30-year-career-at-intel-for-product-ceo-michelle-johnston-holthaus/)
+ - [Beats Studio Buds+ Return to Record Low as Apple Clears Shelf Space for AirPods Pro 3](https://kotaku.com/beats-studio-buds-return-to-record-low-as-apple-clears-shelf-space-for-airpods-pro-3-2000624148)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
