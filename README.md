@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Precious](http://9gag.com/gag/aMVWzAA)
- - ⏩ [An hour after the new banksy artwork was revealed that was mocking the courts for censoring people, the courts censored it by covering it up...](http://9gag.com/gag/aLnbmQx)
- - 👉 [Banksy painted graffiti on the Royal Courts of Justice building in London, depicting a judge beating a protester with a hammer.](http://9gag.com/gag/a4PxAmy)<!-- MEMES:END -->
+ - 💣 [Eat me](http://9gag.com/gag/adBdnx9)
+ - ⏩ [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
+ - 👉 [Yes it is](http://9gag.com/gag/aYQdMdN)<!-- MEMES:END -->
 
 ---
 
