@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amnesty: Pakistan is spying on millions via phone tapping and a Chinese-built internet firewall, in one of the broadest surveillance programs outside China &lpar;Ariba Shahid/Reuters&rpar;](http://www.techmeme.com/250909/p5#a250909p5)
- - [It’s time to change your Plex password again](https://www.theverge.com/news/774188/plex-breach-change-password-email)
- - [Google could be cooking up a new look for voice search in the Play Store &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-play-store-voice-search-ui-3521829/)<!-- TECH:END -->
+ - [Xbox is coming to cars thanks to an LG and Microsoft partnership](https://www.theverge.com/news/774177/microsoft-xbox-car-lg-partnership-cloud-streaming)
+ - [NotebookLM moves one step closer to replacing your real-life tutor](https://www.androidauthority.com/notebooklm-update-flashcards-quizzes-personal-tutor-3596019/)
+ - [Sources: the US informs European countries that it is stepping back from joint efforts to combat disinformation from Russia, China, Iran, and other countries &lpar;Amy Mackinnon/Financial Times&rpar;](http://www.techmeme.com/250909/p7#a250909p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
