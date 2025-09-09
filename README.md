@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
- - ⏩ [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 💣 [Your motivation for the week](http://9gag.com/gag/a87neVY)
+ - ⏩ [Clarity](http://9gag.com/gag/aZZdj1V)
  - 👉 [Oi! Do you have a Muppet license for that!](http://9gag.com/gag/a0ex1Dz)<!-- MEMES:END -->
 
 ---
