@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
- - ⏩ [Clarity](http://9gag.com/gag/aZZdj1V)
- - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
+ - 💣 [Oi! Do you have a Muppet license for that!](http://9gag.com/gag/a0ex1Dz)
+ - ⏩ [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
+ - 👉 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)<!-- MEMES:END -->
 
 ---
 
