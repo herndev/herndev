@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FF Tactics remake director once wrote ‘3,000 years worth of lore’ about vampires](https://www.polygon.com/square-enix-bloodmasque-ff-tactics-director-interview/)
- - [Switch 2’s Most Visually Impressive Port Just Got Better](https://kotaku.com/star-wars-outlaws-switch-2-port-patch-is-it-good-2000624465)
- - [Helldivers 2 isn&#39;t getting a social hub, Arrowhead CEO says it&#39;s &#39;on the feature list for the next one,&#39; but the studio&#39;s next game is not Helldivers 3](https://www.pcgamer.com/games/helldivers-2-isnt-getting-a-social-hub-arrowhead-ceo-says-its-on-the-feature-list-for-the-next-one-but-the-studios-next-game-is-not-helldivers-3/)<!-- GAME:END -->
+ - [Silksong is the first Switch 2 game that fully justifies a Pro controller](https://www.polygon.com/silksong-switch-2-pro-controller-hd-rumble/)
+ - [Silksong Easter egg hides a secret, super-hard permadeath mode, for those who want to suffer even more](https://www.pcgamer.com/games/action/silksong-easter-egg-hides-a-secret-super-hard-permadeath-mode-for-those-who-want-to-suffer-even-more/)
+ - [Maybe release a game in May sometimes? &#39;Fixation on the holiday window&#39; is hurting game publishers, says industry analyst Newzoo](https://www.pcgamer.com/gaming-industry/holiday-window-newzoo-2025-global-games-market-report/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
