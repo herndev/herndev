@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)
- - ⏩ [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
- - 👉 [A video of a reggae concert that the city mismanaged.](http://9gag.com/gag/aPApXwn)<!-- MEMES:END -->
+ - 💣 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
+ - ⏩ [Sometimes life just needs a background music](http://9gag.com/gag/aRByOYj)
+ - 👉 [Impersonation](http://9gag.com/gag/a9yVOoD)<!-- MEMES:END -->
 
 ---
 
