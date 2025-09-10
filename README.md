@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
- - [iPhone 17 lets users turn off screen strobing for better eye comfort](https://appleinsider.com/articles/25/09/10/iphone-17-lets-users-turn-off-screen-strobing-for-better-eye-comfort?utm_source=rss)
- - [US Senator Ted Cruz introduces a bill that would let AI companies apply for exemptions from federal regulations to help them experiment with new technology &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250910/p46#a250910p46)<!-- TECH:END -->
+ - [Visit Jupiter and control space and time with visionOS 26](https://appleinsider.com/articles/25/09/10/visit-jupiter-and-control-space-and-time-with-visionos-26?utm_source=rss)
+ - [Forget subtitles: YouTube opens the floodgates on auto-dubbing videos into your own language](https://www.androidauthority.com/youtube-multi-language-audio-rollout-3596733/)
+ - [Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years](https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
