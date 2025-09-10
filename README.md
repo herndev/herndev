@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 event tidbits: the new MagSafe battery is iPhone Air exclusive, the Air likely uses binned A19 Pro chips, and older AirPods will get Live Translation &lpar;Dan Moren/Six Colors&rpar;](http://www.techmeme.com/250910/p13#a250910p13)
- - [Google says it is scrapping multi-cloud data transfer fees for organizations in the EU and the UK ahead of the EU Data Act taking effect on September 12 &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/250910/p12#a250910p12)
- - [Arm launches four Lumex compute subsystem CPU architectures to improve on-device AI on smartphones, PCs, and wearables, and unveils the new Mali G1-Ultra GPU &lpar;Ben Funk/HotHardware&rpar;](http://www.techmeme.com/250910/p11#a250910p11)<!-- TECH:END -->
+ - [Zillow’s new AI staging feature is impressively unimpressive](https://www.theverge.com/news/775465/zillow-ai-virtual-staging)
+ - [ASML&#39;s €1.3B investment in Mistral gives the French startup capital and credibility, but it must prove it can survive in a US- and China-dominated AI industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p15#a250910p15)
+ - [The EU&#39;s General Court sides with Meta and TikTok in their legal dispute with the EC over the DSA&#39;s 0.05% supervisory fee, saying the EU&#39;s methodology is flawed &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250910/p14#a250910p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
