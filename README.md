@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel Referral program is back for the Pixel 10, letting you make a nice $500](https://www.androidauthority.com/google-pixel-10-referral-program-3596503/)
- - [I love the Pixel 10, but I wish it had these 5 features](https://www.androidauthority.com/wish-google-pixel-10-features-3593383/)
- - [Join Us for WIRED’s AI Power Summit](https://www.wired.com/story/wired-ai-power-summit/)<!-- TECH:END -->
+ - [13 Best Electrolyte Powders &lpar;2025&rpar;: Tasty and Effective](https://www.wired.com/gallery/best-electrolyte-powders/)
+ - [Here’s a fresh look at the Galaxy S26 Pro, thanks to new CAD renders](https://www.androidauthority.com/samsung-galaxy-s26-pro-leaked-cad-renders-3596551/)
+ - [Brain Co., co-founded by Jared Kushner, Elad Gil, and others to help enterprises and governments use AI, comes out of stealth with a $30M Series A &lpar;Forbes&rpar;](http://www.techmeme.com/250910/p31#a250910p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
