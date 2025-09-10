@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
+ - 💣 [Impersonation](http://9gag.com/gag/a9yVOoD)
  - ⏩ [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
- - 👉 [Rebecca?](http://9gag.com/gag/amodpQ4)<!-- MEMES:END -->
+ - 👉 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)<!-- MEMES:END -->
 
 ---
 
