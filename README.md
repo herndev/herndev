@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pixar&#39;s emotional space adventure Elio gets a Disney Plus release date](https://www.polygon.com/pixar-elio-disney-plus-release-date/)
- - [Werewolves Within is a little-seen candidate for the best video game movie](https://www.polygon.com/werewolves-within-hulu-best-game-adaptation/)
- - [Marvel Rivals season 4 release time and date in your time zone](https://www.polygon.com/marvel-rivals-season-4-release-time-date-edt-pdt/)<!-- GAME:END -->
+ - [Apex Legends&#39; mid-season update brings Wildcard Mode tricks, but few Halloween treats](https://www.polygon.com/apex-legends-mid-season-update-wildcard-halloween/)
+ - [Meet Victoria the sheep, Alien: Earth’s creepiest creature](https://www.polygon.com/alien-earth-victoria-the-sheep/)
+ - [Bringing the Darkness to Xbox – Karma: The Dark World Available Today](https://news.xbox.com/en-us/2025/09/10/bringing-the-darkness-to-xbox-karma-the-dark-world-available-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
