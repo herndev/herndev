@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Electrolyte Powders &lpar;2025&rpar;: Tasty and Effective](https://www.wired.com/gallery/best-electrolyte-powders/)
- - [Here’s a fresh look at the Galaxy S26 Pro, thanks to new CAD renders](https://www.androidauthority.com/samsung-galaxy-s26-pro-leaked-cad-renders-3596551/)
- - [Brain Co., co-founded by Jared Kushner, Elad Gil, and others to help enterprises and governments use AI, comes out of stealth with a $30M Series A &lpar;Forbes&rpar;](http://www.techmeme.com/250910/p31#a250910p31)<!-- TECH:END -->
+ - [Larry Ellison becomes the world&#39;s richest person for the first time at $393B, overtaking Elon Musk&#39;s $385B, as Oracle jumps 40%+ after beating Q1 estimates &lpar;Anders Melin/Bloomberg&rpar;](http://www.techmeme.com/250910/p36#a250910p36)
+ - [Nothing OS 4.0 is coming, and Phone 1 users might also get a surprise](https://www.androidauthority.com/nothing-os-4-0-coming-surprise-phone-1-users-3596581/)
+ - [Amsterdam-based Nebius Group plans to raise $2B in convertible notes and $1B in equity to help it expand after signing an up to $17.4B+ deal with Microsoft &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p35#a250910p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
