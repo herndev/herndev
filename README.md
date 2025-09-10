@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Apple&#39;s March update to its AI training guidelines for data annotators marked DEI as a &quot;controversial&quot; topic and removed intolerance as &quot;harmful&quot; behavior &lpar;Océane Herrero/Politico&rpar;](http://www.techmeme.com/250909/p60#a250909p60)
- - [Deal: Grab a Samsung Galaxy S24 Ultra for just $700](https://www.androidauthority.com/samsung-galaxy-s24-ultra-deal-7-3596202/)
- - [Sources: Sequoia stands to gain about $2.65B in Klarna&#39;s IPO, a six-fold return on its total investment of ~$500M; it is selling ~2% of its stake in the IPO &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/250909/p59#a250909p59)<!-- TECH:END -->
+ - [Watch WIRED’s ‘Uncanny Valley’ Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)
+ - [Google’s Pixels rocket back into the global top 5 premium smartphones](https://www.androidauthority.com/google-pixel-global-smartphone-market-share-h1-2025-3596372/)
+ - [Memo: Apple&#39;s March update to its AI training guidelines for data annotators marked DEI as a &quot;controversial&quot; topic and removed intolerance as &quot;harmful&quot; behavior &lpar;Océane Herrero/Politico&rpar;](http://www.techmeme.com/250909/p60#a250909p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
