@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says the iPhone 17 lineup and iPhone Air come with Memory Integrity Enforcement, which provides &quot;industry-first, always-on memory safety protection&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250909/p58#a250909p58)
- - [Apple Watch&#39;s hypertension notifications and sleep score will come to some older models with watchOS 26; FDA clearance for the notifications is expected soon &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250909/p57#a250909p57)
- - [Apple says the iPhone 17 comes with a massive security upgrade](https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security)<!-- TECH:END -->
+ - [Sources: Sequoia stands to gain about $2.65B in Klarna&#39;s IPO, a six-fold return on its total investment of ~$500M; it is selling ~2% of its stake in the IPO &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/250909/p59#a250909p59)
+ - [Arm’s new C1 and G1 cores bet big on mobile’s hottest trends in AI and ray tracing](https://www.androidauthority.com/arm-c1-cpu-mali-g1-gpu-deep-dive-3595933/)
+ - [Watch WIRED’s ‘Uncanny Valley’ Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
