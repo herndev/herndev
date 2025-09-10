@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
- - ⏩ [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 💣 [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)
+ - ⏩ [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
+ - 👉 [I don&#39;t know what he did to get that punishment.](http://9gag.com/gag/amodVX4)<!-- MEMES:END -->
 
 ---
 
