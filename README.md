@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
- - ⏩ [Sometimes life just needs a background music](http://9gag.com/gag/aRByOYj)
- - 👉 [Impersonation](http://9gag.com/gag/a9yVOoD)<!-- MEMES:END -->
+ - 💣 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
+ - ⏩ [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
 
 ---
 
