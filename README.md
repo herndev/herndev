@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to preorder the Apple Watch SE 3, Apple Watch Series 11, and Apple Watch Ultra 3](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date)
- - [Reddit is testing a way to read articles without leaving the app](https://www.theverge.com/news/775722/reddit-news-publishers-beta-articles-analytics)
- - [Apple and Samsung are battling for smartphone speed supremacy](https://appleinsider.com/articles/25/09/10/apple-and-samsung-are-battling-for-smartphone-speed-supremacy?utm_source=rss)<!-- TECH:END -->
+ - [Google’s new Pixelsnap Ring Stand is stumbling out of the gate with early issues](https://www.androidauthority.com/pixelsnap-ring-stand-loose-screws-3596637/)
+ - [Klarna shares jump 30% in their NYSE debut, opening at $52, above the IPO price of $40, after the company and some of its backers raised $1.37B in the offering &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p42#a250910p42)
+ - [PlayStation launches new app for parental controls](https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
