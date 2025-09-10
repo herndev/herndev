@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thuma Dupes: Japanese Joinery Bed Frames That Stack Up &lpar;2025&rpar;](https://www.wired.com/gallery/japanese-joinery-bed-frames/)
- - [Kraken opens trading of 60+ tokenized US securities to its EU users, powered by Backed Finance&#39;s xStocks; rwa.xyz says tokenized shares&#39; market value is ~$421M &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250910/p18#a250910p18)
- - [Global premium smartphone sales rose 8% YoY in H1 2025, reaching the highest-ever mark for an H1; Apple grew 3% YoY, capturing 62%+ of the overall sales &lpar;Varun Mishra/Counterpoint Research&rpar;](http://www.techmeme.com/250910/p17#a250910p17)<!-- TECH:END -->
+ - [In a letter to FTC Chair Andrew Ferguson, Sen. Ron Wyden accuses Microsoft of &quot;gross cybersecurity negligence&quot; leading to hospital operator Ascension&#39;s breach &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p22#a250910p22)
+ - [Philips Norelco i9000 Shaver Review &lpar;2025&rpar;: A Close Shave](https://www.wired.com/review/philips-norelco-i9000-prestige-ultra-shaver/)
+ - [Spotify finally rolls out Lossless audio — here’s how to turn it on](https://www.androidauthority.com/spotify-premium-lossless-audio-rollout-3596456/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
