@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stability AI launches Stable Audio 2.5, which the company claims is the first audio generation model designed for &quot;enterprise-grade use cases&quot; &lpar;Sean Michael Kerner/Venturebeat&rpar;](http://www.techmeme.com/250910/p39#a250910p39)
- - [The blind box trend comes to tech with this tiny digital Kodak camera](https://www.theverge.com/news/775679/kodak-reto-charmera-digital-keychain-camera-blind-bag)
- - [Two popular NotebookLM formats have quietly disappeared — Here’s what to use instead](https://www.androidauthority.com/notebooklm-loses-faq-timeline-suggestions-3596578/)<!-- TECH:END -->
+ - [How to preorder the Apple Watch SE 3, Apple Watch Series 11, and Apple Watch Ultra 3](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date)
+ - [Reddit is testing a way to read articles without leaving the app](https://www.theverge.com/news/775722/reddit-news-publishers-beta-articles-analytics)
+ - [Apple and Samsung are battling for smartphone speed supremacy](https://appleinsider.com/articles/25/09/10/apple-and-samsung-are-battling-for-smartphone-speed-supremacy?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
