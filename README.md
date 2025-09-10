@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hotness overloaded](http://9gag.com/gag/axyARLM)
- - ⏩ [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)
- - 👉 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)<!-- MEMES:END -->
+ - 💣 [This just in](http://9gag.com/gag/ayNzQKM)
+ - ⏩ [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)
+ - 👉 [Girls be Like](http://9gag.com/gag/awy8dND)<!-- MEMES:END -->
 
 ---
 
