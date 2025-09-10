@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Larry Ellison becomes the world&#39;s richest person for the first time at $393B, overtaking Elon Musk&#39;s $385B, as Oracle jumps 40%+ after beating Q1 estimates &lpar;Anders Melin/Bloomberg&rpar;](http://www.techmeme.com/250910/p36#a250910p36)
- - [Nothing OS 4.0 is coming, and Phone 1 users might also get a surprise](https://www.androidauthority.com/nothing-os-4-0-coming-surprise-phone-1-users-3596581/)
- - [Amsterdam-based Nebius Group plans to raise $2B in convertible notes and $1B in equity to help it expand after signing an up to $17.4B+ deal with Microsoft &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p35#a250910p35)<!-- TECH:END -->
+ - [Stability AI launches Stable Audio 2.5, which the company claims is the first audio generation model designed for &quot;enterprise-grade use cases&quot; &lpar;Sean Michael Kerner/Venturebeat&rpar;](http://www.techmeme.com/250910/p39#a250910p39)
+ - [The blind box trend comes to tech with this tiny digital Kodak camera](https://www.theverge.com/news/775679/kodak-reto-charmera-digital-keychain-camera-blind-bag)
+ - [Two popular NotebookLM formats have quietly disappeared — Here’s what to use instead](https://www.androidauthority.com/notebooklm-loses-faq-timeline-suggestions-3596578/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
