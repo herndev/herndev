@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This just in](http://9gag.com/gag/ayNzQKM)
- - ⏩ [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
- - 👉 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)<!-- MEMES:END -->
+ - 💣 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - ⏩ [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
+ - 👉 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)<!-- MEMES:END -->
 
 ---
 
