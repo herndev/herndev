@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter to FTC Chair Andrew Ferguson, Sen. Ron Wyden accuses Microsoft of &quot;gross cybersecurity negligence&quot; leading to hospital operator Ascension&#39;s breach &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p22#a250910p22)
- - [Philips Norelco i9000 Shaver Review &lpar;2025&rpar;: A Close Shave](https://www.wired.com/review/philips-norelco-i9000-prestige-ultra-shaver/)
- - [Spotify finally rolls out Lossless audio — here’s how to turn it on](https://www.androidauthority.com/spotify-premium-lossless-audio-rollout-3596456/)<!-- TECH:END -->
+ - [Google’s Pixel Referral program is back for the Pixel 10, letting you make a nice $500](https://www.androidauthority.com/google-pixel-10-referral-program-3596503/)
+ - [I love the Pixel 10, but I wish it had these 5 features](https://www.androidauthority.com/wish-google-pixel-10-features-3593383/)
+ - [Join Us for WIRED’s AI Power Summit](https://www.wired.com/story/wired-ai-power-summit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
