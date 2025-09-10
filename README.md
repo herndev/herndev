@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In a world without suicidal empathy...](http://9gag.com/gag/aKGLOjQ)
- - ⏩ [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
- - 👉 [Nnn](http://9gag.com/gag/aW4dbAn)<!-- MEMES:END -->
+ - 💣 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - ⏩ [Girls be Like](http://9gag.com/gag/awy8dND)
+ - 👉 [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)<!-- MEMES:END -->
 
 ---
 
