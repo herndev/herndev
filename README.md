@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)
- - ⏩ [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
- - 👉 [Klappmesser](http://9gag.com/gag/aVvdLQK)<!-- MEMES:END -->
+ - 💣 [Hold on](http://9gag.com/gag/a0exEOZ)
+ - ⏩ [No man no cry..](http://9gag.com/gag/aQzr2Gd)
+ - 👉 [Weasel comes back to help his friend up...](http://9gag.com/gag/avyDv9M)<!-- MEMES:END -->
 
 ---
 
