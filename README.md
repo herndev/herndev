@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zillow’s new AI staging feature is impressively unimpressive](https://www.theverge.com/news/775465/zillow-ai-virtual-staging)
- - [ASML&#39;s €1.3B investment in Mistral gives the French startup capital and credibility, but it must prove it can survive in a US- and China-dominated AI industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p15#a250910p15)
- - [The EU&#39;s General Court sides with Meta and TikTok in their legal dispute with the EC over the DSA&#39;s 0.05% supervisory fee, saying the EU&#39;s methodology is flawed &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250910/p14#a250910p14)<!-- TECH:END -->
+ - [Thuma Dupes: Japanese Joinery Bed Frames That Stack Up &lpar;2025&rpar;](https://www.wired.com/gallery/japanese-joinery-bed-frames/)
+ - [Kraken opens trading of 60+ tokenized US securities to its EU users, powered by Backed Finance&#39;s xStocks; rwa.xyz says tokenized shares&#39; market value is ~$421M &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250910/p18#a250910p18)
+ - [Global premium smartphone sales rose 8% YoY in H1 2025, reaching the highest-ever mark for an H1; Apple grew 3% YoY, capturing 62%+ of the overall sales &lpar;Varun Mishra/Counterpoint Research&rpar;](http://www.techmeme.com/250910/p17#a250910p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
