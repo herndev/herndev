@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Is Going Full Star Wars In Make-Or-Break Moment For the 11-Year-Old Shooter](https://kotaku.com/destiny-2-star-wars-renegades-lightsaber-x-wing-ash-iron-2000624489)
- - [One Of The Best Things Pokémon‘s Ever Done Has Gotten Too Expensive](https://kotaku.com/pokemon-sitting-cuties-alola-generation-7-center-order-2000624487)
- - [Avengers directors release a cryptic teaser for Doomsday](https://www.polygon.com/avengers-doomsday-russo-bros-tease-marvel/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for September 10 &lpar;#1544&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-10-2025/)
+ - [Alien: Earth&#39;s eyeball creature is stealing the show, and I&#39;m not even mad about it](https://www.polygon.com/alien-earths-eyeball-creature-stealing-the-show/)
+ - [If you saw Ruiner and thought it would be cool in first-person, its developer is back with, you guessed it, an FPS](https://www.pcgamer.com/games/fps/if-you-saw-ruiner-and-thought-it-would-be-cool-in-first-person-its-developer-is-back-with-you-guessed-it-an-fps/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
