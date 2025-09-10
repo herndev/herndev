@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Shadows: What To Know Before the Claws of Awaji Expansion](https://news.xbox.com/en-us/2025/09/10/assassins-creed-shadows-claws-of-awaji-expansion/)
- - [Pokémon Legends: Z-A&#39;s newest mega evolution is pretty messed up](https://www.polygon.com/pokemon-legends-za-mega-malamar-leak-dark-lore/)
- - [In tribute to a player&#39;s departed baby son, Old School RuneScape players turn out in &#39;hundreds&#39; to pay respects to his namesake: &#39;It was so overwhelming seeing so many people at Zeke&#39;s shop&#39;](https://www.pcgamer.com/games/mmo/in-tribute-to-a-players-departed-baby-son-old-school-runescape-players-turn-out-in-hundreds-to-pay-respects-to-his-namesake-it-was-so-overwhelming-seeing-so-many-people-at-zekes-shop/)<!-- GAME:END -->
+ - [High On Life 2: Why Squanch Added a Whole New Hub-Based Design](https://news.xbox.com/en-us/2025/09/10/high-on-life-2-hub-design-new-details/)
+ - [While we wait for Borderlands 4 to unlock, let&#39;s make a definitive ranking of the series&#39; many musical cinematic intros](https://www.pcgamer.com/games/fps/while-we-wait-for-borderlands-4-to-unlock-lets-make-a-definitive-ranking-of-the-series-many-musical-cinematic-intros/)
+ - [A Bunch Of Creepy And Scary Games Are Arriving On PlayStation Plus Next Week](https://kotaku.com/ps-playstation-plus-games-catalog-september-wwe2k5-persona-horror-ps5-2000624702)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
