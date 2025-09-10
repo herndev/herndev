@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [High On Life 2: Why Squanch Added a Whole New Hub-Based Design](https://news.xbox.com/en-us/2025/09/10/high-on-life-2-hub-design-new-details/)
- - [While we wait for Borderlands 4 to unlock, let&#39;s make a definitive ranking of the series&#39; many musical cinematic intros](https://www.pcgamer.com/games/fps/while-we-wait-for-borderlands-4-to-unlock-lets-make-a-definitive-ranking-of-the-series-many-musical-cinematic-intros/)
- - [A Bunch Of Creepy And Scary Games Are Arriving On PlayStation Plus Next Week](https://kotaku.com/ps-playstation-plus-games-catalog-september-wwe2k5-persona-horror-ps5-2000624702)<!-- GAME:END -->
+ - [It’s The Perfect Time To Play Assassin’s Creed Shadows](https://kotaku.com/its-the-perfect-time-to-play-assassins-creed-shadows-2000624758)
+ - [9 metroidvanias to play if you&#39;ve realized Hollow Knight: Silksong just isn&#39;t for you](https://www.pcgamer.com/games/action/games-like-hollow-knight-silksong-alternatives/)
+ - [Elden Ring: Nightreign patch has big changes for Nightfarers](https://www.polygon.com/elden-ring-nightreign-update-patch-notes-sept-10/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
