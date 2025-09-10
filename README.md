@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This just in](http://9gag.com/gag/ayNzQKM)
- - ⏩ [I can shave her](http://9gag.com/gag/a7oG9Nb)
- - 👉 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)<!-- MEMES:END -->
+ - ⏩ [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 👉 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)<!-- MEMES:END -->
 
 ---
 
