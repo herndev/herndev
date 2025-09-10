@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold on](http://9gag.com/gag/a0exEOZ)
- - ⏩ [No man no cry..](http://9gag.com/gag/aQzr2Gd)
- - 👉 [See, its not that difficult, kunts](http://9gag.com/gag/aAymXep)<!-- MEMES:END -->
+ - 💣 [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)
+ - ⏩ [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 👉 [Klappmesser](http://9gag.com/gag/aVvdLQK)<!-- MEMES:END -->
 
 ---
 
