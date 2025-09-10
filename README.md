@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Pixelsnap Ring Stand is stumbling out of the gate with early issues](https://www.androidauthority.com/pixelsnap-ring-stand-loose-screws-3596637/)
- - [Klarna shares jump 30% in their NYSE debut, opening at $52, above the IPO price of $40, after the company and some of its backers raised $1.37B in the offering &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p42#a250910p42)
- - [PlayStation launches new app for parental controls](https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app)<!-- TECH:END -->
+ - [iPhone 17 is just the start, Apple&#39;s busiest upgrade wave in years has just begun](https://appleinsider.com/articles/25/09/10/iphone-17-is-just-the-start-apples-busiest-upgrade-wave-in-years-has-just-begun?utm_source=rss)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+ - [SpaceX Targets an Orbital Starship Flight with a Next-Gen Vehicle in 2026](https://www.wired.com/story/spacex-targets-an-orbital-starship-flight-with-a-next-gen-vehicle-in-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
