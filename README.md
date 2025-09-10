@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Narwal Freo Z Ultra deal is making stock run out, so get it now!](https://www.androidauthority.com/narwal-freo-z-ultra-deal-7-3596707/)
- - [Analysis: 13+ datasets used by tech companies without permission to train AI models contain 15.8M+ YouTube videos from 2M+ channels, including 1M how-to videos &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/250910/p45#a250910p45)
- - [Samsung is still killing the iPhone 17 series when it comes to this battery spec](https://www.androidauthority.com/iphone-17-battery-life-3596641/)<!-- TECH:END -->
+ - [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
+ - [iPhone 17 lets users turn off screen strobing for better eye comfort](https://appleinsider.com/articles/25/09/10/iphone-17-lets-users-turn-off-screen-strobing-for-better-eye-comfort?utm_source=rss)
+ - [US Senator Ted Cruz introduces a bill that would let AI companies apply for exemptions from federal regulations to help them experiment with new technology &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250910/p46#a250910p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
