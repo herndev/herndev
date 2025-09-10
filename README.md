@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 is just the start, Apple&#39;s busiest upgrade wave in years has just begun](https://appleinsider.com/articles/25/09/10/iphone-17-is-just-the-start-apples-busiest-upgrade-wave-in-years-has-just-begun?utm_source=rss)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [SpaceX Targets an Orbital Starship Flight with a Next-Gen Vehicle in 2026](https://www.wired.com/story/spacex-targets-an-orbital-starship-flight-with-a-next-gen-vehicle-in-2026/)<!-- TECH:END -->
+ - [This Narwal Freo Z Ultra deal is making stock run out, so get it now!](https://www.androidauthority.com/narwal-freo-z-ultra-deal-7-3596707/)
+ - [Analysis: 13+ datasets used by tech companies without permission to train AI models contain 15.8M+ YouTube videos from 2M+ channels, including 1M how-to videos &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/250910/p45#a250910p45)
+ - [Samsung is still killing the iPhone 17 series when it comes to this battery spec](https://www.androidauthority.com/iphone-17-battery-life-3596641/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
