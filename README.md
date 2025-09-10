@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch WIRED’s ‘Uncanny Valley’ Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)
- - [Google’s Pixels rocket back into the global top 5 premium smartphones](https://www.androidauthority.com/google-pixel-global-smartphone-market-share-h1-2025-3596372/)
- - [Memo: Apple&#39;s March update to its AI training guidelines for data annotators marked DEI as a &quot;controversial&quot; topic and removed intolerance as &quot;harmful&quot; behavior &lpar;Océane Herrero/Politico&rpar;](http://www.techmeme.com/250909/p60#a250909p60)<!-- TECH:END -->
+ - [The Players&#39; Tribune owner Minute Media acquires VideoVerse, whose AI tools let broadcasters extract highlights from sports footage, sources say for $200M-$250M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250910/p2#a250910p2)
+ - [Robinhood announces an in-app feed where users can follow and copy verified trades of other investors and public figures, rolling out in beta in Q1 2026 &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p1#a250910p1)
+ - [Watch WIRED’s ‘Uncanny Valley’ Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
