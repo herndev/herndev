@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Synopsys stock falls 20%+ in extended trading after the company said its IP business underperformed in Q3 partly due to US export restrictions to China &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250909/p54#a250909p54)
- - [Evercore hikes Apple stock target to $260 on iPhone Air upgrade hopes](https://appleinsider.com/articles/25/09/09/evercore-hikes-apple-stock-target-to-260-on-iphone-air-upgrade-hopes?utm_source=rss)
- - [macOS Tahoe is getting a new Repair Assistant for part calibration and pairing](https://appleinsider.com/articles/25/09/09/macos-tahoe-is-getting-a-new-repair-assistant-for-part-calibration-and-pairing?utm_source=rss)<!-- TECH:END -->
+ - [Source: Klarna and some shareholders raised $1.37B in a US IPO that was more than 20x oversubscribed, selling 34.3M shares at $40 each, above the marketed range &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250909/p56#a250909p56)
+ - [Apple’s Best New iOS 26 Feature Has Been on Pixel Phones for Years](https://www.wired.com/story/apple-call-screening-ios-26-has-been-on-pixel-for-years/)
+ - [A profile of 6-year-old Ramp, which has grown to a $22.5B valuation as it expanded beyond corporate cards to tools for expense reporting, bill payment, and more &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250909/p55#a250909p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
