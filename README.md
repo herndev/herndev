@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold on](http://9gag.com/gag/a0exEOZ)
- - ⏩ [No man no cry..](http://9gag.com/gag/aQzr2Gd)
- - 👉 [Weasel comes back to help his friend up...](http://9gag.com/gag/avyDv9M)<!-- MEMES:END -->
+ - 💣 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
+ - ⏩ [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
+ - 👉 [Yeah she looks tired thats for sure](http://9gag.com/gag/aryd2E5)<!-- MEMES:END -->
 
 ---
 
