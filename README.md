@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visit Jupiter and control space and time with visionOS 26](https://appleinsider.com/articles/25/09/10/visit-jupiter-and-control-space-and-time-with-visionos-26?utm_source=rss)
- - [Forget subtitles: YouTube opens the floodgates on auto-dubbing videos into your own language](https://www.androidauthority.com/youtube-multi-language-audio-rollout-3596733/)
- - [Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years](https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill)<!-- TECH:END -->
+ - [YouTube rolls out multi-language audio after a two-year pilot, saying creators saw 25%+ of watch time coming from views in their video&#39;s non-primary language &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250910/p47#a250910p47)
+ - [Anker deals: These essentials will keep all your desk devices charged and connected](https://www.androidauthority.com/anker-prime-charger-575-docking-station-anker-maggo-wireless-charger-deals-3596705/)
+ - [Right-Wing Activist Charlie Kirk Dead at 31](https://www.wired.com/story/charlie-kirk-obituary/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
