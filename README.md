@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve been testing Nvidia GeForce Now&#39;s RTX 5080 upgrade against an actual RTX 5080 and the two feel eerily close—although 4K streaming invokes the occasional wobble](https://www.pcgamer.com/hardware/graphics-cards/ive-been-testing-nvidia-geforce-nows-rtx-5080-upgrade-against-an-actual-rtx-5080-and-the-two-feel-eerily-close-although-4k-streaming-invokes-the-occasional-wobble/)
- - [Hell Is Us review: All of the Soulslike good stuff, none of the Soulslike baggage](https://www.polygon.com/hell-is-us-review-action-game/)
- - [Nintendo announces new Nintendo Direct for September 2025](https://www.polygon.com/nintendo-direct-news-september-2025-date-time/)<!-- GAME:END -->
+ - [Pixar&#39;s emotional space adventure Elio gets a Disney Plus release date](https://www.polygon.com/pixar-elio-disney-plus-release-date/)
+ - [Werewolves Within is a little-seen candidate for the best video game movie](https://www.polygon.com/werewolves-within-hulu-best-game-adaptation/)
+ - [Marvel Rivals season 4 release time and date in your time zone](https://www.polygon.com/marvel-rivals-season-4-release-time-date-edt-pdt/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
