@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
- - ⏩ [Hotness overloaded](http://9gag.com/gag/axyARLM)
- - 👉 [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)<!-- MEMES:END -->
+ - 💣 [Hotness overloaded](http://9gag.com/gag/axyARLM)
+ - ⏩ [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)
+ - 👉 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)<!-- MEMES:END -->
 
 ---
 
