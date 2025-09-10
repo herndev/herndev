@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Sister Splinter in Silksong](https://www.pcgamer.com/games/action/silksong-sister-splinter/)
- - [After 18 months and over 4,000 hours of brutal &#39;worst case&#39; monitor usage, independent testing finds OLED burn-in is only just beginning to get &#39;annoying&#39;](https://www.pcgamer.com/hardware/gaming-monitors/after-18-months-and-over-4-000-hours-of-brutal-worst-case-monitor-usage-independent-testing-finds-oled-burn-in-is-only-just-beginning-to-get-annoying/)
- - [All Story of Seasons: Grand Bazaar Guardian Fish locations and how to catch them](https://www.pcgamer.com/games/sim/story-of-seasons-grand-bazaar-guardian-fish-locations/)<!-- GAME:END -->
+ - [I&#39;ve been testing Nvidia GeForce Now&#39;s RTX 5080 upgrade against an actual RTX 5080 and the two feel eerily close—although 4K streaming invokes the occasional wobble](https://www.pcgamer.com/hardware/graphics-cards/ive-been-testing-nvidia-geforce-nows-rtx-5080-upgrade-against-an-actual-rtx-5080-and-the-two-feel-eerily-close-although-4k-streaming-invokes-the-occasional-wobble/)
+ - [Hell Is Us review: All of the Soulslike good stuff, none of the Soulslike baggage](https://www.polygon.com/hell-is-us-review-action-game/)
+ - [Nintendo announces new Nintendo Direct for September 2025](https://www.polygon.com/nintendo-direct-news-september-2025-date-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
