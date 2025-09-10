@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends&#39; mid-season update brings Wildcard Mode tricks, but few Halloween treats](https://www.polygon.com/apex-legends-mid-season-update-wildcard-halloween/)
- - [Meet Victoria the sheep, Alien: Earth’s creepiest creature](https://www.polygon.com/alien-earth-victoria-the-sheep/)
- - [Bringing the Darkness to Xbox – Karma: The Dark World Available Today](https://news.xbox.com/en-us/2025/09/10/bringing-the-darkness-to-xbox-karma-the-dark-world-available-today/)<!-- GAME:END -->
+ - [Assassin’s Creed Shadows: What To Know Before the Claws of Awaji Expansion](https://news.xbox.com/en-us/2025/09/10/assassins-creed-shadows-claws-of-awaji-expansion/)
+ - [Pokémon Legends: Z-A&#39;s newest mega evolution is pretty messed up](https://www.polygon.com/pokemon-legends-za-mega-malamar-leak-dark-lore/)
+ - [In tribute to a player&#39;s departed baby son, Old School RuneScape players turn out in &#39;hundreds&#39; to pay respects to his namesake: &#39;It was so overwhelming seeing so many people at Zeke&#39;s shop&#39;](https://www.pcgamer.com/games/mmo/in-tribute-to-a-players-departed-baby-son-old-school-runescape-players-turn-out-in-hundreds-to-pay-respects-to-his-namesake-it-was-so-overwhelming-seeing-so-many-people-at-zekes-shop/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
