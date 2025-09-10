@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 10 &lpar;#1544&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-10-2025/)
- - [Alien: Earth&#39;s eyeball creature is stealing the show, and I&#39;m not even mad about it](https://www.polygon.com/alien-earths-eyeball-creature-stealing-the-show/)
- - [If you saw Ruiner and thought it would be cool in first-person, its developer is back with, you guessed it, an FPS](https://www.pcgamer.com/games/fps/if-you-saw-ruiner-and-thought-it-would-be-cool-in-first-person-its-developer-is-back-with-you-guessed-it-an-fps/)<!-- GAME:END -->
+ - [How to beat Sister Splinter in Silksong](https://www.pcgamer.com/games/action/silksong-sister-splinter/)
+ - [After 18 months and over 4,000 hours of brutal &#39;worst case&#39; monitor usage, independent testing finds OLED burn-in is only just beginning to get &#39;annoying&#39;](https://www.pcgamer.com/hardware/gaming-monitors/after-18-months-and-over-4-000-hours-of-brutal-worst-case-monitor-usage-independent-testing-finds-oled-burn-in-is-only-just-beginning-to-get-annoying/)
+ - [All Story of Seasons: Grand Bazaar Guardian Fish locations and how to catch them](https://www.pcgamer.com/games/sim/story-of-seasons-grand-bazaar-guardian-fish-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
