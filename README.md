@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Impersonation](http://9gag.com/gag/a9yVOoD)
- - ⏩ [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 💣 [Hotness overloaded](http://9gag.com/gag/axyARLM)
+ - ⏩ [Bro thought he could get away with this doing that in Japan....](http://9gag.com/gag/aO8jRLM)
+ - 👉 [My pension money...](http://9gag.com/gag/aLnbW6M)<!-- MEMES:END -->
 
 ---
 
