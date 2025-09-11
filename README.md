@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s faster MagSafe Charger can now charge other phones at 25W](https://www.theverge.com/news/776411/apple-magsafe-charger-qi2-2-wireless-charging-25w)
- - [Why does Apple think three lenses are eight lenses?](https://www.theverge.com/iphone/776253/apple-event-iphone-17-pro-air-cameras-lenses-cropping-marketing)
- - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
+ - [Galaxy S26 phones might not get those big charging upgrades, after all](https://www.androidauthority.com/galaxy-s26-charging-3597008/)
+ - [The FTC orders Google, OpenAI, Meta and Instagram, Snap, xAI, and Character.AI to provide information on how their AI chatbots impact children and teens &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250911/p13#a250911p13)
+ - [Roku wants you to see a lot more AI-generated ads](https://www.theverge.com/lowpass-newsletter/776248/roku-ai-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
