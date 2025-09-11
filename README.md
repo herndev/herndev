@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
- - ⏩ [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 💣 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
+ - ⏩ [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - 👉 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
 
 ---
 
