@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s The Perfect Time To Play Assassin’s Creed Shadows](https://kotaku.com/its-the-perfect-time-to-play-assassins-creed-shadows-2000624758)
- - [9 metroidvanias to play if you&#39;ve realized Hollow Knight: Silksong just isn&#39;t for you](https://www.pcgamer.com/games/action/games-like-hollow-knight-silksong-alternatives/)
- - [Elden Ring: Nightreign patch has big changes for Nightfarers](https://www.polygon.com/elden-ring-nightreign-update-patch-notes-sept-10/)<!-- GAME:END -->
+ - [Bloodlines 2 narrative director tries to get players to lower their expectations, patiently explains it&#39;s not going to have the scale of Baldur&#39;s Gate 3 or Grand Theft Auto](https://www.pcgamer.com/games/rpg/bloodlines-2-narrative-director-tries-to-get-players-to-lower-their-expectations-patiently-explains-its-not-going-to-have-the-scale-of-baldurs-gate-3-or-grand-theft-auto/)
+ - [The Battlefield 6 battle royale ring will instantly kill anyone caught in it: &#39;There&#39;s no jumping in and out of it, no using it for cover, no walking through it&#39;](https://www.pcgamer.com/games/fps/battlefield-battle-royale-details-playtest/)
+ - [&#39;An embarrassing failure of the US patent system&#39;: Videogame IP lawyer says Nintendo&#39;s latest patents on Pokémon mechanics &#39;should not have happened, full stop&#39;](https://www.pcgamer.com/gaming-industry/an-embarrassing-failure-of-the-us-patent-system-videogame-ip-lawyer-says-nintendos-latest-patents-on-pokemon-mechanics-should-not-have-happened-full-stop/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
