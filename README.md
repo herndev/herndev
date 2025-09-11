@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 2030, OpenAI projects $200B in revenue, with R&amp;D spending hitting ~45% of that, or ~$90B; R&amp;D costs of Alphabet and others are currently 10%-20% of revenue &lpar;The Information&rpar;](http://www.techmeme.com/250911/p18#a250911p18)
- - [NASA found clues of life on Mars, but budget cuts threaten future missions](https://www.theverge.com/nasa/776554/nasa-mars-jezero-crater-budget-cuts)
- - [Charlie Kirk Was Shot and Killed in a Post-Content Moderation World](https://www.wired.com/story/charlie-kirk-shot-videos-spread-social-media/)<!-- TECH:END -->
+ - [MagSafe Battery for iPhone Air absolutely does not fit properly on anything else](https://appleinsider.com/articles/25/09/11/magsafe-battery-for-iphone-air-absolutely-does-not-fit-properly-on-anything-else?utm_source=rss)
+ - [Is your music stuttering on Android Auto? You’re not alone](https://www.androidauthority.com/android-auto-stuttering-music-3597082/)
+ - [Encyclopedia Britannica and Merriam-Webster sue Perplexity, alleging that it unlawfully scraped their websites and redirected their traffic to its AI summaries &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250911/p19#a250911p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
