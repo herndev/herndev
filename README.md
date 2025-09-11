@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best friends](https://www.reddit.com/r/funny/comments/1neluz3/best_friends/)
- - ⏩ [When something is so good, you need a lifetime supply](http://9gag.com/gag/aVvdVb8)
- - 👉 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)<!-- MEMES:END -->
+ - 💣 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - ⏩ [Muppet show](http://9gag.com/gag/aoyddDe)
+ - 👉 [AI &lt;&lt; Natural Stupidity](http://9gag.com/gag/aE0QQnO)<!-- MEMES:END -->
 
 ---
 
