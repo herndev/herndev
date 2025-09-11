@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ant Group unit Robbyant showcases its first LLM-powered humanoid robot, the R1, at a conference in Shanghai, joining an intensifying effort by Chinese companies &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/250911/p3#a250911p3)
- - [Graphic videos of Charlie Kirk&#39;s shooting, first posted to X, also spread to Instagram, Threads, YouTube, and Telegram within hours, amassing millions of views &lpar;New York Times&rpar;](http://www.techmeme.com/250911/p2#a250911p2)
- - [CFTC nominee Brian Quintenz says the Winklevosses asked Trump to pause his confirmation after he refused to make promises &quot;rectifying&quot; a prior Gemini settlement &lpar;Declan Harty/Politico&rpar;](http://www.techmeme.com/250911/p1#a250911p1)<!-- TECH:END -->
+ - [30% Off Tempur-Pedic Promo Codes | September 2025](https://www.wired.com/story/tempur-pedic-promo-code/)
+ - [Blockchain-based lender Figure and some of its backers raised $787.5M in an IPO, selling 31.5M shares at $25 each, valuing the company at about $5.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p5#a250911p5)
+ - [Sensor Tower: as of July 2025, Rapido had 50M MAUs on Android in India vs. Uber&#39;s 30M; in the four-wheeler cab segment, Rapido holds ~30% share vs. Uber&#39;s ~50% &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250911/p4#a250911p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
