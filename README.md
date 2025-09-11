@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe there is an airport nearby, Suddenly an airplane got appeared in the video](http://9gag.com/gag/apRdbe8)
- - ⏩ [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 💣 [It will also coincidentally feature the A10 warthog](http://9gag.com/gag/arydBVB)
+ - ⏩ [Don&#39;t prank Optimus. Optimus will prank you back.](http://9gag.com/gag/abAd2X8)
+ - 👉 [I don&#39;t know what he did to get that punishment.](http://9gag.com/gag/amodVX4)<!-- MEMES:END -->
 
 ---
 
