@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
- - ⏩ [Thats just nuts!](http://9gag.com/gag/aryd8pB)
- - 👉 [Just a regular class photo, nothing to see here](http://9gag.com/gag/amodnG4)<!-- MEMES:END -->
+ - 💣 [For a seond he was like:`Aw s*ieeeeet!11`](http://9gag.com/gag/aE0QEO9)
+ - ⏩ [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
+ - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
 
 ---
 
