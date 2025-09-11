@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t know what he did to get that punishment.](http://9gag.com/gag/amodVX4)
- - ⏩ [What is my purpose? you smile and shut up.](http://9gag.com/gag/aW4d9G2)
- - 👉 [...here they come](http://9gag.com/gag/aW4d2B3)<!-- MEMES:END -->
+ - 💣 [See, its not that difficult, kunts](http://9gag.com/gag/aAymXep)
+ - ⏩ [Bro thought he could get away with this doing that in Japan....](http://9gag.com/gag/aO8jRLM)
+ - 👉 [Why though?](http://9gag.com/gag/apRdYgE)<!-- MEMES:END -->
 
 ---
 
