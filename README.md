@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How platforms are responding to the Charlie Kirk shooting](https://www.theverge.com/news/776187/charlie-kirk-shooting-videos-platforms-meta-youtube)
- - [Opendoor names Shopify COO Kaz Nejatian as its CEO, following Carrie Wheeler&#39;s ouster, and taps co-founder Keith Rabois as chairman; OPEN jumps 35%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p49#a250910p49)
- - [Elon Musk Says Starlink Could Replace Your Cellphone Carrier](https://www.cnet.com/home/internet/elon-musk-says-starlink-could-replace-your-cellphone-carrier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s AI training guideline update twisted into political conspiracy](https://appleinsider.com/articles/25/09/11/apples-ai-training-guideline-update-twisted-into-political-conspiracy?utm_source=rss)
+ - [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
+ - [‘War Is Here’: The Far-Right Responds to Charlie Kirk Shooting With Calls for Violence](https://www.wired.com/story/far-right-reactions-charlie-kirk-shooting-civil-war/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
