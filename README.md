@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 11 &lpar;#1545&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-11-2025/)
- - [Finally, someone&#39;s making an RPG about managing your own restaurant](https://www.pcgamer.com/games/sim/finally-someones-making-an-rpg-about-managing-your-own-restaurant/)
- - [If you&#39;re desperate for Rosaries in Act 1 of Silksong, there&#39;s a place where you can rack up 300 per five minutes](https://www.pcgamer.com/games/action/if-youre-desperate-for-rosaries-in-act-1-of-silksong-theres-a-place-where-you-can-rack-up-300-per-five-minutes/)<!-- GAME:END -->
+ - [Rogue Point is a FPS roguelite that does everything in its power to encourage players to actually work as a team](https://www.pcgamer.com/games/fps/rogue-point-is-a-fps-roguelite-that-does-everything-in-its-power-to-encourage-players-to-actually-work-as-a-team/)
+ - [PC Gamer magazine&#39;s new issue is on sale now: 007 First Light](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-007-first-light/)
+ - [PlayStation Plus Game Catalog for September: WWE 2K25, Persona 5 Tactica, Green Hell, Fate/Samurai Remnant, and more](https://blog.playstation.com/2025/09/11/20250911-psplus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
