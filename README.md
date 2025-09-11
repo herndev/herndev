@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gabe Newell waxes poetic about his love for the Dota 2 community in a special message for The International: &#39;People talk s**t at me in chat&#39; and tell him to uninstall the game on a weekly basis](https://www.pcgamer.com/games/moba/gabe-newell-waxes-poetic-about-his-love-for-the-dota-2-community-in-a-special-message-for-the-international-people-talk-s-t-at-me-in-chat-and-tell-him-to-uninstall-the-game-on-a-weekly-basis/)
- - [&#39;Shocking&#39; Pokémon patent could have big effect on video game industry](https://www.polygon.com/nintendo-pokemon-patent-palworld-summon-game-mechanics/)
- - [Fortnite Finally Ditches One Of The Most Annoying Things About Microtransactions](https://kotaku.com/fortnite-v-bucks-exact-amount-microtransaction-sonic-halo-2000624959)<!-- GAME:END -->
+ - [The Next Mario Movie Is Probably Going To Outer Space](https://kotaku.com/mario-bros-movie-2-galaxy-leaks-odyssey-nintendo-2000624997)
+ - [Is it better to be a &#39;patient gamer&#39; or is playing new games at launch just too enticing?](https://www.pcgamer.com/games/fps/is-it-better-to-be-a-patient-gamer-or-is-playing-new-games-at-launch-just-too-enticing/)
+ - [Borderlands 4 launches to &#39;mostly negative&#39; reviews on Steam thanks to widespread performance problems and crashes](https://www.pcgamer.com/games/fps/borderlands-4-launches-to-mostly-negative-reviews-on-steam-thanks-to-widespread-performance-problems-and-crashes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
