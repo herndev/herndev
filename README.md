@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Zaslav thinks HBO Max is ‘way underpriced’](https://www.theverge.com/news/776211/david-zaslav-hbo-max-way-underpriced-password-sharing)
- - [Vantage Data Centers raised $1.6B from GIC and the Abu Dhabi Investment Authority to expand in APAC, including the acquisition of a Malaysian data center campus &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p7#a250911p7)
- - [Samsung is working on a continuous zoom camera, but Galaxy phones don’t have first dibs](https://www.androidauthority.com/samsung-continuous-zoom-camera-galaxy-3596850/)<!-- TECH:END -->
+ - [Survey shows loyal Nova Launcher fans are sticking it out till the actual end arrives](https://www.androidauthority.com/nova-launcher-shutdown-poll-results-3596855/)
+ - [How Larry Ellison, briefly the world&#39;s richest man, and Oracle CEO Safra Catz capitalized on the AI boom and vaulted Oracle into contention with industry giants &lpar;Financial Times&rpar;](http://www.techmeme.com/250911/p8#a250911p8)
+ - [The iPhone 17 looks great, but I’d still choose the Pixel 10 over it](https://www.androidauthority.com/iphone-17-looks-good-pixel-10-better-3596658/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
