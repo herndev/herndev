@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Demon Slayer&#39;s new movie nails the anime CG problem better than any other franchise](https://www.polygon.com/demon-slayer-infinity-castle-ufotable-cg-anime-problem/)
- - [One Of The Best Parts Of Hollow Knight: Silksong Is Its Collection Of Weird Little Guys](https://kotaku.com/hollow-knight-silksong-shakra-bell-beast-garmond-zaza-2000624954)
- - [Where to find the Apostate Key in Silksong](https://www.pcgamer.com/games/action/silksong-apostate-key-location/)<!-- GAME:END -->
+ - [Gabe Newell waxes poetic about his love for the Dota 2 community in a special message for The International: &#39;People talk s**t at me in chat&#39; and tell him to uninstall the game on a weekly basis](https://www.pcgamer.com/games/moba/gabe-newell-waxes-poetic-about-his-love-for-the-dota-2-community-in-a-special-message-for-the-international-people-talk-s-t-at-me-in-chat-and-tell-him-to-uninstall-the-game-on-a-weekly-basis/)
+ - [&#39;Shocking&#39; Pokémon patent could have big effect on video game industry](https://www.polygon.com/nintendo-pokemon-patent-palworld-summon-game-mechanics/)
+ - [Fortnite Finally Ditches One Of The Most Annoying Things About Microtransactions](https://kotaku.com/fortnite-v-bucks-exact-amount-microtransaction-sonic-halo-2000624959)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
