@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Koi, which is developing a centralized protection layer for enterprise endpoints, raised a $38M Series A, taking its total funding to $48M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250910/p52#a250910p52)
  - [Samsung’s Galaxy Ultra phones could be stuck with the same telephoto camera until 2027](https://www.androidauthority.com/samsung-galaxy-s26-ultra-galaxy-s27-ultra-telephoto-camera-3596825/)
- - [How to create your own Memories movies in Photos](https://appleinsider.com/inside/ios/tips/how-to-create-your-own-memories-movies-in-photos-on-ios-or-ipados-18?utm_source=rss)
- - [Apple exec likes that customers will struggle to choose between iPhone Air &amp; Pro](https://appleinsider.com/articles/25/09/11/apple-exec-likes-that-customers-will-struggle-to-choose-between-iphone-air-pro?utm_source=rss)<!-- TECH:END -->
+ - [How to create your own Memories movies in Photos](https://appleinsider.com/inside/ios/tips/how-to-create-your-own-memories-movies-in-photos-on-ios-or-ipados-18?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
