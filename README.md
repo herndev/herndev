@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - ⏩ [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)
- - 👉 [I see](http://9gag.com/gag/abAdReE)<!-- MEMES:END -->
+ - 💣 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
+ - ⏩ [Thats just nuts!](http://9gag.com/gag/aryd8pB)
+ - 👉 [Just a regular class photo, nothing to see here](http://9gag.com/gag/amodnG4)<!-- MEMES:END -->
 
 ---
 
