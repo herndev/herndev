@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atlantic Council: the number of US-based investors in spyware nearly tripled in 2024 to 31 firms, compared to just 11 in 2023, topping Israel&#39;s 26 investors &lpar;Vas Panagiotopoulos/Wired&rpar;](http://www.techmeme.com/250911/p6#a250911p6)
- - [Samsung calls iPhone 17 keynote a ‘Zzz-note,’ forgets Galaxy S25 series exists](https://www.androidauthority.com/samsung-mock-apple-iphone-17-3596845/)
- - [30% Off Tempur-Pedic Promo Codes | September 2025](https://www.wired.com/story/tempur-pedic-promo-code/)<!-- TECH:END -->
+ - [David Zaslav thinks HBO Max is ‘way underpriced’](https://www.theverge.com/news/776211/david-zaslav-hbo-max-way-underpriced-password-sharing)
+ - [Vantage Data Centers raised $1.6B from GIC and the Abu Dhabi Investment Authority to expand in APAC, including the acquisition of a Malaysian data center campus &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p7#a250911p7)
+ - [Samsung is working on a continuous zoom camera, but Galaxy phones don’t have first dibs](https://www.androidauthority.com/samsung-continuous-zoom-camera-galaxy-3596850/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
