@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mischievous dog getting one back on his owner](https://www.reddit.com/r/funny/comments/1nee46o/mischievous_dog_getting_one_back_on_his_owner/)
+ - 💣 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
  - ⏩ [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
  - 👉 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
 
