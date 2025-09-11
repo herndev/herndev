@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;re desperate for Rosaries in Act 1 of Silksong, there&#39;s a place where you can rack up 300 per five minutes](https://www.pcgamer.com/games/action/if-youre-desperate-for-rosaries-in-act-1-of-silksong-theres-a-place-where-you-can-rack-up-300-per-five-minutes/)
- - [Bloodlines 2 narrative director tries to get players to lower their expectations, patiently explains it&#39;s not going to have the scale of Baldur&#39;s Gate 3 or Grand Theft Auto](https://www.pcgamer.com/games/rpg/bloodlines-2-narrative-director-tries-to-get-players-to-lower-their-expectations-patiently-explains-its-not-going-to-have-the-scale-of-baldurs-gate-3-or-grand-theft-auto/)
- - [The Battlefield 6 battle royale ring will instantly kill anyone caught in it: &#39;There&#39;s no jumping in and out of it, no using it for cover, no walking through it&#39;](https://www.pcgamer.com/games/fps/battlefield-battle-royale-details-playtest/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for September 11 &lpar;#1545&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-11-2025/)
+ - [Finally, someone&#39;s making an RPG about managing your own restaurant](https://www.pcgamer.com/games/sim/finally-someones-making-an-rpg-about-managing-your-own-restaurant/)
+ - [If you&#39;re desperate for Rosaries in Act 1 of Silksong, there&#39;s a place where you can rack up 300 per five minutes](https://www.pcgamer.com/games/action/if-youre-desperate-for-rosaries-in-act-1-of-silksong-theres-a-place-where-you-can-rack-up-300-per-five-minutes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
