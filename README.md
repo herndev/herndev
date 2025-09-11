@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to respec in Borderlands 4](https://www.polygon.com/borderlands-4-how-to-respec-machine-locations-all/)
- - [When is the weekly reset time in Borderlands 4?](https://www.polygon.com/borderlands-4-weekly-reset-time-challenges-when-bl4/)
- - [The best Harlowe builds in Borderlands 4: Gravitar guide](https://www.pcgamer.com/games/fps/borderlands-4-harlowe-build/)<!-- GAME:END -->
+ - [Demon Slayer&#39;s new movie nails the anime CG problem better than any other franchise](https://www.polygon.com/demon-slayer-infinity-castle-ufotable-cg-anime-problem/)
+ - [One Of The Best Parts Of Hollow Knight: Silksong Is Its Collection Of Weird Little Guys](https://kotaku.com/hollow-knight-silksong-shakra-bell-beast-garmond-zaza-2000624954)
+ - [Where to find the Apostate Key in Silksong](https://www.pcgamer.com/games/action/silksong-apostate-key-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
