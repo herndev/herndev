@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Borderlands 4 turns off your brain and turns on the fun](https://www.theverge.com/games/776148/borderlands-4-review-coop-looter-shooter-gearbox)
- - [Apple&#39;s support page says AirPods&#39; new Live Translation won&#39;t be available to users in the EU and with an EU-region Apple Account, likely due to EU regulations &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250911/p10#a250911p10)
- - [Health Connect will soon track your steps without needing another app](https://www.androidauthority.com/health-connect-step-tracking-support-3596725/)<!-- TECH:END -->
+ - [Forget the new AirPods Pro 3, I’d stick with your smartwatch for heart rate tracking](https://www.androidauthority.com/stick-with-smartwaches-for-workout-tracking-3596752/)
+ - [If a $2,000 iPhone 17 Pro Max sounds expensive, just wait for the iPhone Fold](https://appleinsider.com/articles/25/09/10/if-a-2000-iphone-17-pro-max-sounds-expensive-just-wait-for-the-iphone-fold?utm_source=rss)
+ - [Nothing’s Ear 3 earbuds have a microphone and ‘talk’ button on their charging case](https://www.theverge.com/news/776247/nothing-ear-3-wireless-earbuds-design-microphone-charging-case-aluminum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
