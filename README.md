@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Next Mario Movie Is Probably Going To Outer Space](https://kotaku.com/mario-bros-movie-2-galaxy-leaks-odyssey-nintendo-2000624997)
- - [Is it better to be a &#39;patient gamer&#39; or is playing new games at launch just too enticing?](https://www.pcgamer.com/games/fps/is-it-better-to-be-a-patient-gamer-or-is-playing-new-games-at-launch-just-too-enticing/)
- - [Borderlands 4 launches to &#39;mostly negative&#39; reviews on Steam thanks to widespread performance problems and crashes](https://www.pcgamer.com/games/fps/borderlands-4-launches-to-mostly-negative-reviews-on-steam-thanks-to-widespread-performance-problems-and-crashes/)<!-- GAME:END -->
+ - [FTC targets Google, Meta, X, and others with inquiry into AI chatbot safety: &#39;Protecting kids online is a top priority&#39;](https://www.pcgamer.com/software/ai/ftc-targets-google-meta-x-and-others-with-inquiry-into-ai-chatbot-safety-protecting-kids-online-is-a-top-priority/)
+ - [This Anker 521 Portable Power Station Dips Below Prime Day Pricing, Likely a Clearance Move](https://kotaku.com/this-anker-521-portable-power-station-dips-below-prime-day-pricing-likely-a-clearance-move-2000624783)
+ - [The Next Mario Movie Is Probably Going To Outer Space](https://kotaku.com/mario-bros-movie-2-galaxy-leaks-odyssey-nintendo-2000624997)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
