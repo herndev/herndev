@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows loyal Nova Launcher fans are sticking it out till the actual end arrives](https://www.androidauthority.com/nova-launcher-shutdown-poll-results-3596855/)
- - [How Larry Ellison, briefly the world&#39;s richest man, and Oracle CEO Safra Catz capitalized on the AI boom and vaulted Oracle into contention with industry giants &lpar;Financial Times&rpar;](http://www.techmeme.com/250911/p8#a250911p8)
- - [The iPhone 17 looks great, but I’d still choose the Pixel 10 over it](https://www.androidauthority.com/iphone-17-looks-good-pixel-10-better-3596658/)<!-- TECH:END -->
+ - [The Galaxy S25 and Pixel 10 should immediately copy this iPhone 17 eye protection feature](https://www.androidauthority.com/galaxy-s25-pixel-10-should-copy-iphone-17-eye-protection-feature-3596898/)
+ - [Google Pixel Flex 67W USB-C Fast Charger review: Protocol perfection with one pretty huge oversight](https://www.androidauthority.com/google-pixel-flex-67w-charger-review-3595268/)
+ - [Xiaomi launches a pocket-sized Android-powered e-reader with a stupid amount of storage](https://www.androidauthority.com/xiaomi-moaan-inkpalm-mini-plus-2-launch-3596871/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
