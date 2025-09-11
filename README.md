@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - ⏩ [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 👉 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
+ - 💣 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
+ - ⏩ [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - 👉 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)<!-- MEMES:END -->
 
 ---
 
