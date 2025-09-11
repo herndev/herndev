@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Impersonation](http://9gag.com/gag/a9yVOoD)
- - ⏩ [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
- - 👉 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)<!-- MEMES:END -->
+ - 💣 [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - ⏩ [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - 👉 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)<!-- MEMES:END -->
 
 ---
 
