@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [If you&#39;re desperate for Rosaries in Act 1 of Silksong, there&#39;s a place where you can rack up 300 per five minutes](https://www.pcgamer.com/games/action/if-youre-desperate-for-rosaries-in-act-1-of-silksong-theres-a-place-where-you-can-rack-up-300-per-five-minutes/)
  - [Bloodlines 2 narrative director tries to get players to lower their expectations, patiently explains it&#39;s not going to have the scale of Baldur&#39;s Gate 3 or Grand Theft Auto](https://www.pcgamer.com/games/rpg/bloodlines-2-narrative-director-tries-to-get-players-to-lower-their-expectations-patiently-explains-its-not-going-to-have-the-scale-of-baldurs-gate-3-or-grand-theft-auto/)
- - [The Battlefield 6 battle royale ring will instantly kill anyone caught in it: &#39;There&#39;s no jumping in and out of it, no using it for cover, no walking through it&#39;](https://www.pcgamer.com/games/fps/battlefield-battle-royale-details-playtest/)
- - [&#39;An embarrassing failure of the US patent system&#39;: Videogame IP lawyer says Nintendo&#39;s latest patents on Pokémon mechanics &#39;should not have happened, full stop&#39;](https://www.pcgamer.com/gaming-industry/an-embarrassing-failure-of-the-us-patent-system-videogame-ip-lawyer-says-nintendos-latest-patents-on-pokemon-mechanics-should-not-have-happened-full-stop/)<!-- GAME:END -->
+ - [The Battlefield 6 battle royale ring will instantly kill anyone caught in it: &#39;There&#39;s no jumping in and out of it, no using it for cover, no walking through it&#39;](https://www.pcgamer.com/games/fps/battlefield-battle-royale-details-playtest/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
