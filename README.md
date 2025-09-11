@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;My Missing Courier&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-my-missing-courier-quest-walkthrough/)
- - [Gearbox responds to worries about Borderlands 4&#39;s terms of service: &#39;Take-Two does not use spyware in its games&#39;](https://www.pcgamer.com/games/fps/gearbox-responds-to-worries-about-borderlands-4s-terms-of-service-take-two-does-not-use-spyware-in-its-games/)
- - [I&#39;ve tested Borderlands 4 on a minimum spec PC and a monster RTX 5090 rig, and it runs just as &#39;Borderlands-at-launch&#39; as you&#39;d expect](https://www.pcgamer.com/hardware/ive-tested-borderlands-4-on-a-minimum-spec-pc-and-a-monster-rtx-5090-rig-and-it-runs-just-as-borderlands-at-launch-as-youd-expect/)<!-- GAME:END -->
+ - [Your first move in Borderlands 4 should be to turn on this classic map setting](https://www.pcgamer.com/games/fps/borderlands-4-minimap-combat-radar-compass/)
+ - [French Lara Croft actor issues C&amp;D to Tomb Raider Remaster studio as multiple foreign dubs of the game are accused of adding AI voiceovers](https://www.pcgamer.com/games/action/french-lara-croft-actor-issues-c-and-d-to-tomb-raider-remaster-studio-as-multiple-foreign-dubs-of-the-game-are-accused-of-adding-ai-voiceovers/)
+ - [&#39;My Missing Courier&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-my-missing-courier-quest-walkthrough/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
