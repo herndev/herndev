@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Long Walk is a dystopian slog where brutality is the main point](https://www.theverge.com/movie-reviews/775654/the-long-walk-review)
- - [Turn Your iPhone 17 Into a Pro Cinema Rig With Blackmagic&#39;s New ProDock](https://www.cnet.com/tech/mobile/turn-your-iphone-17-into-a-pro-cinema-rig-with-blackmagics-new-prodock/#ftag=CAD590a51e)
- - [All-Clad Gas Pizza Oven Review &lpar;2025&rpar;: A Pie That Rotates Itself](https://www.wired.com/review/all-clad-gas-pizza-oven/)<!-- TECH:END -->
+ - [Apple’s faster MagSafe Charger can now charge other phones at 25W](https://www.theverge.com/news/776411/apple-magsafe-charger-qi2-2-wireless-charging-25w)
+ - [Why does Apple think three lenses are eight lenses?](https://www.theverge.com/iphone/776253/apple-event-iphone-17-pro-air-cameras-lenses-cropping-marketing)
+ - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
