@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases its first preview of Visual Studio 2026, the first major update since November 2021, with a new look and deeper AI integration &lpar;Tim Anderson/The Register&rpar;](http://www.techmeme.com/250910/p51#a250910p51)
- - [Apple&#39;s AI training guideline update twisted into political conspiracy](https://appleinsider.com/articles/25/09/11/apples-ai-training-guideline-update-twisted-into-political-conspiracy?utm_source=rss)
- - [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)<!-- TECH:END -->
+ - [Samsung’s Galaxy Ultra phones could be stuck with the same telephoto camera until 2027](https://www.androidauthority.com/samsung-galaxy-s26-ultra-galaxy-s27-ultra-telephoto-camera-3596825/)
+ - [How to create your own Memories movies in Photos](https://appleinsider.com/inside/ios/tips/how-to-create-your-own-memories-movies-in-photos-on-ios-or-ipados-18?utm_source=rss)
+ - [Apple exec likes that customers will struggle to choose between iPhone Air &amp; Pro](https://appleinsider.com/articles/25/09/11/apple-exec-likes-that-customers-will-struggle-to-choose-between-iphone-air-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
