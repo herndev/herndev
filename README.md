@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For a seond he was like:`Aw s*ieeeeet!11`](http://9gag.com/gag/aE0QEO9)
- - ⏩ [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
+ - 💣 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
+ - ⏩ [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
  - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
 
 ---
