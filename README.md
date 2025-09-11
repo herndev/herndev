@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rogue Point is a FPS roguelite that does everything in its power to encourage players to actually work as a team](https://www.pcgamer.com/games/fps/rogue-point-is-a-fps-roguelite-that-does-everything-in-its-power-to-encourage-players-to-actually-work-as-a-team/)
- - [PC Gamer magazine&#39;s new issue is on sale now: 007 First Light](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-007-first-light/)
- - [PlayStation Plus Game Catalog for September: WWE 2K25, Persona 5 Tactica, Green Hell, Fate/Samurai Remnant, and more](https://blog.playstation.com/2025/09/11/20250911-psplus/)<!-- GAME:END -->
+ - [RuneScape: Dragonwilds has delayed its major 0.9 update: &#39;We&#39;ve encountered some bugs we are simply not happy shipping the update with&#39;](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-has-delayed-its-major-0-9-update-weve-encountered-some-bugs-we-are-simply-not-happy-shipping-the-update-with/)
+ - [Hyte says all Thicc Q80 Trio users should &#39;remove the cooler from their system immediately&#39; and get a refund after internal fault found](https://www.pcgamer.com/hardware/cooling/hyte-says-all-thicc-q80-trio-users-should-remove-the-cooler-from-their-system-immediately-and-get-a-refund-after-internal-fault-found/)
+ - [All Borderlands 4 characters: Which Vault Hunter should you pick?](https://www.pcgamer.com/games/fps/borderlands-4-characters-best-vault-hunters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
