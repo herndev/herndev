@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vivienne Medrano on Hazbin Hotel, Helluva Boss, and Homestuck](https://www.polygon.com/hazbin-hotel-hellvua-boss-homestuck-vivienne-medrano-interview-vivziepop/)
- - [Free Play Days – The Escapists: The Walking Dead, Bad North, Rogue Waters and Empyreal](https://news.xbox.com/en-us/2025/09/11/free-play-days-09-11-2025/)
- - [CDPR returns to the fridge for one more Cyberpunk patch, somehow makes its autodrive less berserk while also making it ignore traffic lights](https://www.pcgamer.com/games/rpg/cdpr-returns-to-the-fridge-for-one-more-cyberpunk-patch-somehow-makes-its-autodrive-less-berserk-while-also-making-it-ignore-traffic-lights/)<!-- GAME:END -->
+ - [How to respec in Borderlands 4](https://www.polygon.com/borderlands-4-how-to-respec-machine-locations-all/)
+ - [When is the weekly reset time in Borderlands 4?](https://www.polygon.com/borderlands-4-weekly-reset-time-challenges-when-bl4/)
+ - [The best Harlowe builds in Borderlands 4: Gravitar guide](https://www.pcgamer.com/games/fps/borderlands-4-harlowe-build/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
