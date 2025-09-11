@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 10 Pro XL looks like one of the most repairable phones of 2025 in teardown video](https://www.androidauthority.com/pixel-10-pro-xl-teardown-3597052/)
- - [Don’t just buy a Pixelsnap Charger without thinking about your USB ports](https://www.androidauthority.com/pixelsnap-charger-power-requirements-3597064/)
- - [You can now play Silksong on flagship Android phones — and pick up where you left off on PC](https://www.theverge.com/hands-on/776180/hollow-knight-silksong-android-phone-windows-emulation-gamehub)<!-- TECH:END -->
+ - [In 2030, OpenAI projects $200B in revenue, with R&amp;D spending hitting ~45% of that, or ~$90B; R&amp;D costs of Alphabet and others are currently 10%-20% of revenue &lpar;The Information&rpar;](http://www.techmeme.com/250911/p18#a250911p18)
+ - [NASA found clues of life on Mars, but budget cuts threaten future missions](https://www.theverge.com/nasa/776554/nasa-mars-jezero-crater-budget-cuts)
+ - [Charlie Kirk Was Shot and Killed in a Post-Content Moderation World](https://www.wired.com/story/charlie-kirk-shot-videos-spread-social-media/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
