@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rebecca?](http://9gag.com/gag/amodpQ4)
- - ⏩ [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
- - 👉 [My pension money...](http://9gag.com/gag/aLnbW6M)<!-- MEMES:END -->
+ - 💣 [Impersonation](http://9gag.com/gag/a9yVOoD)
+ - ⏩ [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
 
 ---
 
