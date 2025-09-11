@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RuneScape: Dragonwilds has delayed its major 0.9 update: &#39;We&#39;ve encountered some bugs we are simply not happy shipping the update with&#39;](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-has-delayed-its-major-0-9-update-weve-encountered-some-bugs-we-are-simply-not-happy-shipping-the-update-with/)
- - [Hyte says all Thicc Q80 Trio users should &#39;remove the cooler from their system immediately&#39; and get a refund after internal fault found](https://www.pcgamer.com/hardware/cooling/hyte-says-all-thicc-q80-trio-users-should-remove-the-cooler-from-their-system-immediately-and-get-a-refund-after-internal-fault-found/)
- - [All Borderlands 4 characters: Which Vault Hunter should you pick?](https://www.pcgamer.com/games/fps/borderlands-4-characters-best-vault-hunters/)<!-- GAME:END -->
+ - [Vivienne Medrano on Hazbin Hotel, Helluva Boss, and Homestuck](https://www.polygon.com/hazbin-hotel-hellvua-boss-homestuck-vivienne-medrano-interview-vivziepop/)
+ - [Free Play Days – The Escapists: The Walking Dead, Bad North, Rogue Waters and Empyreal](https://news.xbox.com/en-us/2025/09/11/free-play-days-09-11-2025/)
+ - [CDPR returns to the fridge for one more Cyberpunk patch, somehow makes its autodrive less berserk while also making it ignore traffic lights](https://www.pcgamer.com/games/rpg/cdpr-returns-to-the-fridge-for-one-more-cyberpunk-patch-somehow-makes-its-autodrive-less-berserk-while-also-making-it-ignore-traffic-lights/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
