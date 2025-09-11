@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
- - ⏩ [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
- - 👉 [If professional electric is Russian...](http://9gag.com/gag/azxB45b)<!-- MEMES:END -->
+ - 💣 [Maybe there is an airport nearby, Suddenly an airplane got appeared in the video](http://9gag.com/gag/apRdbe8)
+ - ⏩ [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
+ - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
 
 ---
 
