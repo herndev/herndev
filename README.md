@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Ear &lpar;3&rpar; gets fully revealed with case that has a mic and ‘Talk’ button](https://www.androidauthority.com/nothing-ear-3-reveal-3597110/)
- - [Figure&#39;s shares closed up 24% at $31.11 in its Nasdaq debut, giving it a ~$6.6B market cap, after the company and some of its backers raised $787.5M in its IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p22#a250911p22)
- - [Adobe reports Q3 revenue up 11% YoY to $5.99B, vs. $5.91B est., Digital Media revenue up 12% to $4.46B, and Digital Experience revenue up 9% to $1.48B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250911/p21#a250911p21)<!-- TECH:END -->
+ - [Google Home’s feature-packed new automation editor is ready for you to try out now](https://www.androidauthority.com/home-automation-editor-3597130/)
+ - [Anthropic’s Claude AI can now automatically ‘remember’ past chats](https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise)
+ - [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
