@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MagSafe Battery for iPhone Air absolutely does not fit properly on anything else](https://appleinsider.com/articles/25/09/11/magsafe-battery-for-iphone-air-absolutely-does-not-fit-properly-on-anything-else?utm_source=rss)
- - [Is your music stuttering on Android Auto? You’re not alone](https://www.androidauthority.com/android-auto-stuttering-music-3597082/)
- - [Encyclopedia Britannica and Merriam-Webster sue Perplexity, alleging that it unlawfully scraped their websites and redirected their traffic to its AI summaries &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250911/p19#a250911p19)<!-- TECH:END -->
+ - [Nothing Ear &lpar;3&rpar; gets fully revealed with case that has a mic and ‘Talk’ button](https://www.androidauthority.com/nothing-ear-3-reveal-3597110/)
+ - [Figure&#39;s shares closed up 24% at $31.11 in its Nasdaq debut, giving it a ~$6.6B market cap, after the company and some of its backers raised $787.5M in its IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p22#a250911p22)
+ - [Adobe reports Q3 revenue up 11% YoY to $5.99B, vs. $5.91B est., Digital Media revenue up 12% to $4.46B, and Digital Experience revenue up 9% to $1.48B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250911/p21#a250911p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
