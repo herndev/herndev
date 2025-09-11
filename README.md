@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hotness overloaded](http://9gag.com/gag/axyARLM)
- - ⏩ [Bro thought he could get away with this doing that in Japan....](http://9gag.com/gag/aO8jRLM)
- - 👉 [My pension money...](http://9gag.com/gag/aLnbW6M)<!-- MEMES:END -->
+ - 💣 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
+ - ⏩ [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
+ - 👉 [If professional electric is Russian...](http://9gag.com/gag/azxB45b)<!-- MEMES:END -->
 
 ---
 
