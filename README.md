@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube rolls out multi-language audio after a two-year pilot, saying creators saw 25%+ of watch time coming from views in their video&#39;s non-primary language &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250910/p47#a250910p47)
- - [Anker deals: These essentials will keep all your desk devices charged and connected](https://www.androidauthority.com/anker-prime-charger-575-docking-station-anker-maggo-wireless-charger-deals-3596705/)
- - [Right-Wing Activist Charlie Kirk Dead at 31](https://www.wired.com/story/charlie-kirk-obituary/)<!-- TECH:END -->
+ - [How platforms are responding to the Charlie Kirk shooting](https://www.theverge.com/news/776187/charlie-kirk-shooting-videos-platforms-meta-youtube)
+ - [Opendoor names Shopify COO Kaz Nejatian as its CEO, following Carrie Wheeler&#39;s ouster, and taps co-founder Keith Rabois as chairman; OPEN jumps 35%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p49#a250910p49)
+ - [Elon Musk Says Starlink Could Replace Your Cellphone Carrier](https://www.cnet.com/home/internet/elon-musk-says-starlink-could-replace-your-cellphone-carrier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
