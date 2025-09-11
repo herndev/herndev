@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
- - ⏩ [Friends will do this with me](http://9gag.com/gag/avyDmKq)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 💣 [Mischievous dog getting one back on his owner](https://www.reddit.com/r/funny/comments/1nee46o/mischievous_dog_getting_one_back_on_his_owner/)
+ - ⏩ [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - 👉 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
 
 ---
 
