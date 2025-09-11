@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - ⏩ [Federal charge](http://9gag.com/gag/agmdEyK)
- - 👉 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)<!-- MEMES:END -->
+ - 💣 [Rebecca?](http://9gag.com/gag/amodpQ4)
+ - ⏩ [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
+ - 👉 [My pension money...](http://9gag.com/gag/aLnbW6M)<!-- MEMES:END -->
 
 ---
 
