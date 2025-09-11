@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
- - ⏩ [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 👉 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)<!-- MEMES:END -->
+ - 💣 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
+ - ⏩ [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)
+ - 👉 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)<!-- MEMES:END -->
 
 ---
 
