@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [See, its not that difficult, kunts](http://9gag.com/gag/aAymXep)
- - ⏩ [Bro thought he could get away with this doing that in Japan....](http://9gag.com/gag/aO8jRLM)
- - 👉 [Why though?](http://9gag.com/gag/apRdYgE)<!-- MEMES:END -->
+ - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - ⏩ [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)
+ - 👉 [I see](http://9gag.com/gag/abAdReE)<!-- MEMES:END -->
 
 ---
 
