@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S25 and Pixel 10 should immediately copy this iPhone 17 eye protection feature](https://www.androidauthority.com/galaxy-s25-pixel-10-should-copy-iphone-17-eye-protection-feature-3596898/)
- - [Google Pixel Flex 67W USB-C Fast Charger review: Protocol perfection with one pretty huge oversight](https://www.androidauthority.com/google-pixel-flex-67w-charger-review-3595268/)
- - [Xiaomi launches a pocket-sized Android-powered e-reader with a stupid amount of storage](https://www.androidauthority.com/xiaomi-moaan-inkpalm-mini-plus-2-launch-3596871/)<!-- TECH:END -->
+ - [Borderlands 4 turns off your brain and turns on the fun](https://www.theverge.com/games/776148/borderlands-4-review-coop-looter-shooter-gearbox)
+ - [Apple&#39;s support page says AirPods&#39; new Live Translation won&#39;t be available to users in the EU and with an EU-region Apple Account, likely due to EU regulations &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250911/p10#a250911p10)
+ - [Health Connect will soon track your steps without needing another app](https://www.androidauthority.com/health-connect-step-tracking-support-3596725/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
