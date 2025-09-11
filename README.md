@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - ⏩ [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
- - 👉 [Title](http://9gag.com/gag/ajPdR3g)<!-- MEMES:END -->
+ - 💣 [Best friends](https://www.reddit.com/r/funny/comments/1neluz3/best_friends/)
+ - ⏩ [When something is so good, you need a lifetime supply](http://9gag.com/gag/aVvdVb8)
+ - 👉 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)<!-- MEMES:END -->
 
 ---
 
