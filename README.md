@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Spanish test will be easy](https://www.reddit.com/r/funny/comments/1nfg593/the_spanish_test_will_be_easy/)
- - ⏩ [Joe Rogan reacting to Charlie Kirk being shot as the news came in](http://9gag.com/gag/awy88WW)
- - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
+ - 💣 [Muppet show](http://9gag.com/gag/aoyddDe)
+ - ⏩ [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 👉 [Magnificent](http://9gag.com/gag/aQzrBQK)<!-- MEMES:END -->
 
 ---
 
