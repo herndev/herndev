@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 💣 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)
  - ⏩ [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 👉 [Muppet show](http://9gag.com/gag/aoyddDe)<!-- MEMES:END -->
+ - 👉 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
 
 ---
 
