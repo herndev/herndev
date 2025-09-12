@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: the clause rescinding Microsoft&#39;s access to OpenAI&#39;s most powerful tech if OpenAI develops AGI remains part of their new deal, but it has been modified &lpar;New York Times&rpar;](http://www.techmeme.com/250911/p27#a250911p27)
- - [The Samsung Galaxy Z Flip 7 is still at its record-low price](https://www.androidauthority.com/samsung-galaxy-z-flip-7-deal-3597115/)
- - [Source: crypto exchange Gemini raises $425M in its IPO, selling about 15.2M shares for $28 each after marketing them for $24 to $26 apiece &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p26#a250911p26)<!-- TECH:END -->
+ - [Databricks&#39; head of AI, Naveen Rao, is transitioning to an advisory role; source: his next venture will focus on a next-gen computer to address rising AI costs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p28#a250911p28)
+ - [DOJ antitrust lawyers battling a stubborn Apple turn to the court for help](https://appleinsider.com/articles/25/09/12/doj-antitrust-lawyers-battling-a-stubborn-apple-turn-to-the-court-for-help?utm_source=rss)
+ - [Source: the clause rescinding Microsoft&#39;s access to OpenAI&#39;s most powerful tech if OpenAI develops AGI remains part of their new deal, but it has been modified &lpar;New York Times&rpar;](http://www.techmeme.com/250911/p27#a250911p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
