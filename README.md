@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s time for Meta to add a display to its smart glasses](https://www.theverge.com/optimizer-newsletter/776772/optimizer-newsletter-meta-connect-ray-ban-oakley-smart-glasses)
- - [Looking back at Steve Jobs&#39;s NeXT, Inc -- the most successful failure ever](https://appleinsider.com/articles/25/09/12/looking-back-at-steve-jobss-next-inc----the-most-successful-failure-ever?utm_source=rss)
- - [Metroid Prime 4 goes beyond, launching this December](https://www.theverge.com/news/777056/metroid-prime-4-release-date-nintend-direct-september-2025)<!-- TECH:END -->
+ - [Fight for glory in Fire Emblem: Fortune’s Weave coming to the Switch 2 next year](https://www.theverge.com/news/777187/fire-emblem-fortunes-weave-annoucement-trailer)
+ - [A new Apple Downtown Detroit store will open on iPhone 17 launch day](https://appleinsider.com/articles/25/09/12/a-new-apple-downtown-detroit-store-will-open-on-iphone-17-launch-day?utm_source=rss)
+ - [Charlie Kirk Shooting Suspect Identified as 22-Year-Old Utah Man](https://www.wired.com/story/charlie-kirk-shooting-suspect-identified-as-22-year-old-utah-man-tyler-robinson/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
