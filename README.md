@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Weekend Guide: 5 Cool Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-borderlands-silksong-shadow-2000625508)
- - [Borderlands 4 interactive map &lpar;BL4&rpar;](https://www.polygon.com/map/borderlands-4-interactive-map-full-kairos-bl4/)
- - [Waterstop Evocarium solution in Borderlands 4](https://www.polygon.com/borderlands-4-waterstop-evocarium-location-solution/)<!-- GAME:END -->
+ - [&#39;Players ended up just shooting Doritos&#39;: Battlefield 6 is toning down its aggressive ping ability after open beta feedback](https://www.pcgamer.com/games/fps/players-ended-up-just-shooting-doritos-battlefield-6-is-toning-down-its-aggressive-ping-ability-after-open-beta-feedback/)
+ - [Furious Destiny 2 players accuse Bungie of secretly moving a stunning free armor set into the Eververse Store so players have to pay real money for it instead](https://www.pcgamer.com/games/fps/furious-players-accuse-bungie-of-secretly-moving-a-stunning-free-armor-set-into-the-eververse-store-so-players-have-to-pay-real-money-for-it-instead/)
+ - [Battlefield 6 is &#39;secretly console first,&#39; says half-joking dev who has bravely risked resurrecting 2000s-era console vs PC bitterness](https://www.pcgamer.com/games/fps/battlefield-6-console-first-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
