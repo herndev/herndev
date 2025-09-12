@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - ⏩ [Picture of the evidence](http://9gag.com/gag/aGyo7RG)
- - 👉 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)<!-- MEMES:END -->
+ - 💣 [Cop: `what&#39;s going on?` Guy: `\ud83d\udc40 with??????????\ud83d\udc40`](http://9gag.com/gag/aE0QEYN)
+ - ⏩ [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 👉 [Picture of the evidence](http://9gag.com/gag/aGyo7RG)<!-- MEMES:END -->
 
 ---
 
