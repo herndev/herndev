@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - ⏩ [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
- - 👉 [Rooftop/parking lot cam](http://9gag.com/gag/abAdmBX)<!-- MEMES:END -->
+ - 💣 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
+ - ⏩ [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 👉 [Economy in 2025](http://9gag.com/gag/avyDmQ5)<!-- MEMES:END -->
 
 ---
 
