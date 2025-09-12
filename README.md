@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anti anti FA](http://9gag.com/gag/aLnbNXg)
- - ⏩ [White lives matter](http://9gag.com/gag/aZZdRD3)
- - 👉 [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)<!-- MEMES:END -->
+ - 💣 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - ⏩ [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 👉 [How can I describe this?](http://9gag.com/gag/a4PxwEv)<!-- MEMES:END -->
 
 ---
 
