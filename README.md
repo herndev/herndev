@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite hype and optimistic projections, the humanoid robot industry faces hurdles, from battery life and design to limited demand for large-scale deployments &lpar;Evan Ackerman/IEEE Spectrum&rpar;](http://www.techmeme.com/250912/p3#a250912p3)
- - [Lenovo Coupon Codes and Deals: Up to $500 Off](https://www.wired.com/story/lenovo-coupon-code/)
- - [Google is phasing out one of its staple Wear OS apps](https://www.androidauthority.com/wear-os-6-google-weather-app-3597171/)<!-- TECH:END -->
+ - [Over 100K Nepali citizens gathered on Discord to help nominate an interim leader after protests sparked by a social media ban led to the government&#39;s collapse &lpar;Pranav Baskar/New York Times&rpar;](http://www.techmeme.com/250912/p6#a250912p6)
+ - [Switzerland proposes regulations forcing service providers to collect user IDs and disable encryption, threatening its status as a haven for privacy tech firms &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/250912/p5#a250912p5)
+ - [California SB 243, which would mandate safety protocols for AI companion chatbots, has passed the State Assembly and Senate and now heads to Gov. Newsom&#39;s desk &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250912/p4#a250912p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
