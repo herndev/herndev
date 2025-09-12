@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White lives matter](http://9gag.com/gag/aZZdRD3)
- - ⏩ [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)
- - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
+ - 💣 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - ⏩ [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 👉 [Muppet show](http://9gag.com/gag/aoyddDe)<!-- MEMES:END -->
 
 ---
 
