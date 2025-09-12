@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)
- - ⏩ [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 👉 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
+ - 💣 [Muppet show](http://9gag.com/gag/aoyddDe)
+ - ⏩ [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
+ - 👉 [Title](http://9gag.com/gag/ajPdR3g)<!-- MEMES:END -->
 
 ---
 
