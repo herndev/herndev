@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role teases Campaign 4 characters, including wolfkin detective and plenty of bards](https://www.polygon.com/critical-role-campaign-4-characters-puzzle/)
- - [Today&#39;s Wordle clues, hints and answer for September 12 &lpar;#1546&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-12-2025/)
- - [GOG wants to revive more classic Japanese games on PC: &#39;Working with Japanese partners often requires demonstrating both technical capability and cultural understanding&#39;](https://www.pcgamer.com/gaming-industry/gog-wants-to-revive-more-classic-japanese-games-on-pc-working-with-japanese-partners-often-requires-demonstrating-both-technical-capability-and-cultural-understanding/)<!-- GAME:END -->
+ - [&#39;Even with a 9800X3D and a 5090 it runs like absolute buttcheeks&#39;: 2K Games posts Nvidia&#39;s Borderlands 4 optimised settings guide, but the community is already in open revolt](https://www.pcgamer.com/hardware/even-with-a-9800x3d-and-a-5090-it-runs-like-absolute-buttcheeks-2k-games-posts-nvidias-borderlands-4-optimised-settings-guide-but-the-community-is-already-in-open-revolt/)
+ - [Weapons&#39; Julia Garner Imitates Zach Cregger](https://www.polygon.com/video/weapons-julia-garner-imitates-zach-cregger/)
+ - [Silksong players have uncovered yet another secret—a little Clair Obscur: Expedition 33 easter egg](https://www.pcgamer.com/games/action/silksong-players-have-uncovered-yet-another-secret-a-little-clair-obscur-expedition-33-easter-egg/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
