@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - ⏩ [Muppet show](http://9gag.com/gag/aoyddDe)
- - 👉 [Airbnb came with a hidden DLC: host lives inside the walls](http://9gag.com/gag/a87nVx6)<!-- MEMES:END -->
+ - 💣 [The Spanish test will be easy](https://www.reddit.com/r/funny/comments/1nfg593/the_spanish_test_will_be_easy/)
+ - ⏩ [Joe Rogan reacting to Charlie Kirk being shot as the news came in](http://9gag.com/gag/awy88WW)
+ - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
 
 ---
 
