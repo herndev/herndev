@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus gives its $4,000 creator laptop a 4K tandem OLED and RTX 5090](https://www.theverge.com/news/776667/asus-proart-p16-laptop-creators-nvidia-rtx-5090-4k-price-specs)
- - [Put the Q-Tip Down. Here&#39;s How to Safely Clean Your Ears](https://www.cnet.com/health/personal-care/put-q-tip-down-how-safely-clean-ears/#ftag=CAD590a51e)
- - [Online Apple Store goes down ahead of iPhone 17 preorders](https://appleinsider.com/articles/25/09/12/online-apple-store-goes-down-ahead-of-iphone-17-preorders?utm_source=rss)<!-- TECH:END -->
+ - [I reviewed the Google Pixel 10 Pro: Here’s why it’s my new favorite Android phone of 2025](https://www.androidauthority.com/google-pixel-10-pro-review-3594047/)
+ - [Microsoft avoids EU fine after Slack complained about Teams bundling](https://www.theverge.com/news/776968/microsoft-teams-eu-commitments-avoid-fine)
+ - [This compact Android phone has front speakers, headphone jack, and microSD — thank you, Sony](https://www.androidauthority.com/sony-xperia-10-vii-launch-3597176/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
