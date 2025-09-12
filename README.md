@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Big September Nintendo Direct: Watch The Hour-Long Livestream Here](https://kotaku.com/nintendo-direct-when-where-watch-youtube-switch-2-2000625258)
- - [&#39;Microsoft has become like an arsonist selling firefighting services to their victims&#39; says US senator, referring it to the FTC for a cybersecurity flaw, though Microsoft says it has a plan](https://www.pcgamer.com/software/security/microsoft-has-become-like-an-arsonist-selling-firefighting-services-to-their-victims-says-us-senator-referring-it-to-the-ftc-for-a-cybersecurity-flaw-though-microsoft-says-it-has-a-plan/)
- - [Slay The Spire 2 Is Now A 2026 Release, But Don’t Blame Hornet](https://kotaku.com/slay-the-spire-2-is-now-a-2026-release-but-dont-blame-hornet-2000625257)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for September 15 to 19](https://news.xbox.com/en-us/2025/09/12/next-week-on-xbox-new-games-for-september-15-to-19/)
+ - [Donkey Kong Bananza DLC Adds Roguelike Mode And Is Out Today](https://kotaku.com/donkey-kong-bananza-dlc-roguelike-mode-out-today-switch-2-direct-2000625314)
+ - [Metroid Prime 4 release date finally revealed at Nintendo Direct](https://www.polygon.com/metroid-prime-4-beyond-release-date-trailer-nintendo-direct/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
