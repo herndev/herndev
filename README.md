@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Muppet show](http://9gag.com/gag/aoyddDe)
- - ⏩ [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - 👉 [Title](http://9gag.com/gag/ajPdR3g)<!-- MEMES:END -->
+ - 💣 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
+ - ⏩ [Muppet show](http://9gag.com/gag/aoyddDe)
+ - 👉 [Airbnb came with a hidden DLC: host lives inside the walls](http://9gag.com/gag/a87nVx6)<!-- MEMES:END -->
 
 ---
 
