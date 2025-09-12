@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Critical Role teases Campaign 4 characters, including wolfkin detective and plenty of bards](https://www.polygon.com/critical-role-campaign-4-characters-puzzle/)
  - [Today&#39;s Wordle clues, hints and answer for September 12 &lpar;#1546&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-12-2025/)
- - [GOG wants to revive more classic Japanese games on PC: &#39;Working with Japanese partners often requires demonstrating both technical capability and cultural understanding&#39;](https://www.pcgamer.com/gaming-industry/gog-wants-to-revive-more-classic-japanese-games-on-pc-working-with-japanese-partners-often-requires-demonstrating-both-technical-capability-and-cultural-understanding/)
- - [Holiday gaming plans in shambles as Slay the Spire 2 gets delayed to March 2026](https://www.pcgamer.com/games/card-games/holiday-gaming-plans-in-shambles-as-slay-the-spire-2-gets-delayed-to-march-2026/)<!-- GAME:END -->
+ - [GOG wants to revive more classic Japanese games on PC: &#39;Working with Japanese partners often requires demonstrating both technical capability and cultural understanding&#39;](https://www.pcgamer.com/gaming-industry/gog-wants-to-revive-more-classic-japanese-games-on-pc-working-with-japanese-partners-often-requires-demonstrating-both-technical-capability-and-cultural-understanding/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
