@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I am going to compost all of Mario&#39;s talking flowers](https://www.polygon.com/mario-40th-anniversary-talking-flower-opinion/)
- - [Pokémon Legends: Z-A gives these starters Mega evolutions a decade later](https://www.polygon.com/pokemon-legends-za-mega-evolution-greninja-delphox-chesnaught-raichu/)
- - [The deflating realization that a neat little game was AI all along](https://www.pcgamer.com/software/ai/the-deflating-realization-that-a-neat-little-game-was-ai-all-along/)<!-- GAME:END -->
+ - [Master the Dungeon: Essential Tips &amp; Card Combos to Survive Hellcard on Xbox](https://news.xbox.com/en-us/2025/09/12/master-the-dungeon-essential-tips-to-survive-hellcard-on-xbox/)
+ - [Hollow Knight: Silksong walkthrough](https://www.polygon.com/hollow-knight-silksong-walkthrough-credits-acts/)
+ - [Everyone is rushing back to Fortnite&#39;s Blitz Royale mode for a weekend of Iron Man-fuelled mayhem](https://www.pcgamer.com/games/battle-royale/fortnite-blitz-iron-man-stark-island-map-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
