@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Hades II&#39; Is Coming to Nintendo Switch This Month](https://www.wired.com/story/hades-ii-is-coming-to-nintendo-switch-this-month/)
- - [Micro1, a Scale AI competitor that lets AI companies find contractors for data labeling and training, raised a $35M Series A led by O1A at a $500M valuation &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250912/p18#a250912p18)
- - [Encyclopedia Britannica and Merriam-Webster sue Perplexity for copying their definitions](https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster)<!-- TECH:END -->
+ - [Opendoor&#39;s new chairman Keith Rabois says &quot;I don&#39;t know what most&quot; of its 1400 employees do and the company doesn&#39;t need &quot;more than 200 of them&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250912/p23#a250912p23)
+ - [Save 35% on Parallels Desktop 26 to run Windows apps on macOS Tahoe](https://appleinsider.com/articles/25/09/12/save-35-on-parallels-desktop-26-to-run-windows-apps-on-macos-tahoe?utm_source=rss)
+ - [How Sleep Score works on Apple Watch with watchOS 26](https://appleinsider.com/articles/25/09/12/how-sleep-score-works-on-apple-watch-with-watchos-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
