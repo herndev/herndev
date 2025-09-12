@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - ⏩ [Muppet show](http://9gag.com/gag/aoyddDe)
- - 👉 [AI &lt;&lt; Natural Stupidity](http://9gag.com/gag/aE0QQnO)<!-- MEMES:END -->
+ - ⏩ [Picture of the evidence](http://9gag.com/gag/aGyo7RG)
+ - 👉 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)<!-- MEMES:END -->
 
 ---
 
