@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fight for glory in Fire Emblem: Fortune’s Weave coming to the Switch 2 next year](https://www.theverge.com/news/777187/fire-emblem-fortunes-weave-annoucement-trailer)
- - [A new Apple Downtown Detroit store will open on iPhone 17 launch day](https://appleinsider.com/articles/25/09/12/a-new-apple-downtown-detroit-store-will-open-on-iphone-17-launch-day?utm_source=rss)
- - [Charlie Kirk Shooting Suspect Identified as 22-Year-Old Utah Man](https://www.wired.com/story/charlie-kirk-shooting-suspect-identified-as-22-year-old-utah-man-tyler-robinson/)<!-- TECH:END -->
+ - [Pixel phones might soon stream emergencies in real-time, just like iPhones &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-emergency-live-video-3597317/)
+ - [Tether names Bo Hines, the former Executive Director of the White House Crypto Council, as the CEO of its new US unit and launches USAT stablecoin &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250912/p15#a250912p15)
+ - [The Galaxy Watch 8 Classic is $140 off, nearly the same price as the standard model](https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
