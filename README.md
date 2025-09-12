@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - ⏩ [He heard the prophecy\u2026 misunderstood the wardrobe](http://9gag.com/gag/an7droL)
- - 👉 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)<!-- MEMES:END -->
+ - ⏩ [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
+ - 👉 [Rooftop/parking lot cam](http://9gag.com/gag/abAdmBX)<!-- MEMES:END -->
 
 ---
 
