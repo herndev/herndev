@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for September 15 to 19](https://news.xbox.com/en-us/2025/09/12/next-week-on-xbox-new-games-for-september-15-to-19/)
- - [Donkey Kong Bananza DLC Adds Roguelike Mode And Is Out Today](https://kotaku.com/donkey-kong-bananza-dlc-roguelike-mode-out-today-switch-2-direct-2000625314)
- - [Metroid Prime 4 release date finally revealed at Nintendo Direct](https://www.polygon.com/metroid-prime-4-beyond-release-date-trailer-nintendo-direct/)<!-- GAME:END -->
+ - [Fire Emblem Fortune&#39;s Weave might be set in same universe as Three Houses](https://www.polygon.com/fire-emblem-fortunes-weave-same-universe-three-houses/)
+ - [Intel has rebranded the dusty old Core i5 10400 as the Core i5 110, presumably because it found a bunch of them tucked down the back of the couch](https://www.pcgamer.com/hardware/processors/intel-has-rebranded-the-dusty-old-core-i5-10400-as-the-core-i5-110-presumably-because-it-found-a-bunch-of-them-tucked-down-the-back-of-the-couch/)
+ - [Hey Nintendo, Where Mario?](https://kotaku.com/3d-mario-game-switch-2-missing-nintendo-direct-2000625355)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
