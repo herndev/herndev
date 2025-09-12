@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coconut](https://www.reddit.com/r/funny/comments/1nex9dj/coconut/)
- - ⏩ [Cop: `what&#39;s going on?` Guy: `\ud83d\udc40 with??????????\ud83d\udc40`](http://9gag.com/gag/aE0QEYN)
- - 👉 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)<!-- MEMES:END -->
+ - 💣 [Cop: `what&#39;s going on?` Guy: `\ud83d\udc40 with??????????\ud83d\udc40`](http://9gag.com/gag/aE0QEYN)
+ - ⏩ [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 👉 [Dude didn&#39;t learn the lesson after the first streamer tried that](http://9gag.com/gag/a7oG68q)<!-- MEMES:END -->
 
 ---
 
