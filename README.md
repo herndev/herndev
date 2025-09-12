@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to reach Verdania in Silksong](https://www.pcgamer.com/games/action/silksong-verdania-green-prince/)
- - [Some Silksong players are clinging stubbornly to its release version as the &#39;first major patch&#39; kills a secret technique and makes bosses a smidge easier](https://www.pcgamer.com/games/action/some-silksong-players-are-clinging-stubbornly-to-its-release-version-as-the-first-major-patch-kills-a-secret-technique-and-makes-bosses-a-smidge-easier/)
- - [&#39;Even with a 9800X3D and a 5090 it runs like absolute buttcheeks&#39;: 2K Games posts Nvidia&#39;s Borderlands 4 optimised settings guide, but the community is already in open revolt](https://www.pcgamer.com/hardware/even-with-a-9800x3d-and-a-5090-it-runs-like-absolute-buttcheeks-2k-games-posts-nvidias-borderlands-4-optimised-settings-guide-but-the-community-is-already-in-open-revolt/)<!-- GAME:END -->
+ - [The Big September Nintendo Direct: Watch The Hour-Long Livestream Here](https://kotaku.com/nintendo-direct-when-where-watch-youtube-switch-2-2000625258)
+ - [&#39;Microsoft has become like an arsonist selling firefighting services to their victims&#39; says US senator, referring it to the FTC for a cybersecurity flaw, though Microsoft says it has a plan](https://www.pcgamer.com/software/security/microsoft-has-become-like-an-arsonist-selling-firefighting-services-to-their-victims-says-us-senator-referring-it-to-the-ftc-for-a-cybersecurity-flaw-though-microsoft-says-it-has-a-plan/)
+ - [Slay The Spire 2 Is Now A 2026 Release, But Don’t Blame Hornet](https://kotaku.com/slay-the-spire-2-is-now-a-2026-release-but-dont-blame-hornet-2000625257)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
