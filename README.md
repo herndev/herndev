@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire Emblem Fortune&#39;s Weave might be set in same universe as Three Houses](https://www.polygon.com/fire-emblem-fortunes-weave-same-universe-three-houses/)
- - [Intel has rebranded the dusty old Core i5 10400 as the Core i5 110, presumably because it found a bunch of them tucked down the back of the couch](https://www.pcgamer.com/hardware/processors/intel-has-rebranded-the-dusty-old-core-i5-10400-as-the-core-i5-110-presumably-because-it-found-a-bunch-of-them-tucked-down-the-back-of-the-couch/)
- - [Hey Nintendo, Where Mario?](https://kotaku.com/3d-mario-game-switch-2-missing-nintendo-direct-2000625355)<!-- GAME:END -->
+ - [I am going to compost all of Mario&#39;s talking flowers](https://www.polygon.com/mario-40th-anniversary-talking-flower-opinion/)
+ - [Pokémon Legends: Z-A gives these starters Mega evolutions a decade later](https://www.polygon.com/pokemon-legends-za-mega-evolution-greninja-delphox-chesnaught-raichu/)
+ - [The deflating realization that a neat little game was AI all along](https://www.pcgamer.com/software/ai/the-deflating-realization-that-a-neat-little-game-was-ai-all-along/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
