@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wi-Fi Router Vs Mesh System: Which Is Best for You?](https://www.wired.com/story/mesh-system-vs-wi-fi-router/)
- - [Google Photos could soon get its best looking Material 3 Expressive changes to date &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-best-looking-material-3-expressive-3597227/)
- - [Crypto trading volume at Bitstamp, bought by Robinhood in 2024, grew 21% MoM in August to $14.4B, surpassing Robinhood&#39;s crypto volume, which fell 18% to $13.7B &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/250912/p11#a250912p11)<!-- TECH:END -->
+ - [It’s time for Meta to add a display to its smart glasses](https://www.theverge.com/optimizer-newsletter/776772/optimizer-newsletter-meta-connect-ray-ban-oakley-smart-glasses)
+ - [Looking back at Steve Jobs&#39;s NeXT, Inc -- the most successful failure ever](https://appleinsider.com/articles/25/09/12/looking-back-at-steve-jobss-next-inc----the-most-successful-failure-ever?utm_source=rss)
+ - [Metroid Prime 4 goes beyond, launching this December](https://www.theverge.com/news/777056/metroid-prime-4-release-date-nintend-direct-september-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
