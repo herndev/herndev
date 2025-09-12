@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prongs rock](https://www.theverge.com/hands-on/776797/xbox-ally-x-prongs-comfort-editorial)
- - [Google Tasks may be getting an upgrade that makes it worthy as a standalone app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tasks-drive-files-attachments-3597195/)
- - [FTC to AI Companies: Tell Us How You Protect Teens and Kids Who Use AI Companions](https://www.cnet.com/tech/services-and-software/ftc-to-ai-companies-tell-us-how-you-protect-teens-and-kids-who-use-ai-companions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 26 review: Smart, glassy, but waiting on Siri](https://appleinsider.com/articles/25/09/12/ios-26-review-smart-glassy-but-waiting-on-siri?utm_source=rss)
+ - [Poll: Android users, are this year’s iPhones tempting you to switch?](https://www.androidauthority.com/android-iphone-17-switch-poll-3597234/)
+ - [Inside VLC - the best universal video tool for Mac for over a decade.](https://appleinsider.com/articles/25/09/12/inside-vlc---the-best-universal-video-tool-for-mac-for-over-a-decade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
