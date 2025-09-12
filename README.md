@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your first move in Borderlands 4 should be to turn on this classic map setting](https://www.pcgamer.com/games/fps/borderlands-4-minimap-combat-radar-compass/)
- - [French Lara Croft actor issues C&amp;D to Tomb Raider Remaster studio as multiple foreign dubs of the game are accused of adding AI voiceovers](https://www.pcgamer.com/games/action/french-lara-croft-actor-issues-c-and-d-to-tomb-raider-remaster-studio-as-multiple-foreign-dubs-of-the-game-are-accused-of-adding-ai-voiceovers/)
- - [&#39;My Missing Courier&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-my-missing-courier-quest-walkthrough/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for September 12 &lpar;#1546&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-12-2025/)
+ - [GOG wants to revive more classic Japanese games on PC: &#39;Working with Japanese partners often requires demonstrating both technical capability and cultural understanding&#39;](https://www.pcgamer.com/gaming-industry/gog-wants-to-revive-more-classic-japanese-games-on-pc-working-with-japanese-partners-often-requires-demonstrating-both-technical-capability-and-cultural-understanding/)
+ - [Holiday gaming plans in shambles as Slay the Spire 2 gets delayed to March 2026](https://www.pcgamer.com/games/card-games/holiday-gaming-plans-in-shambles-as-slay-the-spire-2-gets-delayed-to-march-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
