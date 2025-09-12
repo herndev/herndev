@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Even with a 9800X3D and a 5090 it runs like absolute buttcheeks&#39;: 2K Games posts Nvidia&#39;s Borderlands 4 optimised settings guide, but the community is already in open revolt](https://www.pcgamer.com/hardware/even-with-a-9800x3d-and-a-5090-it-runs-like-absolute-buttcheeks-2k-games-posts-nvidias-borderlands-4-optimised-settings-guide-but-the-community-is-already-in-open-revolt/)
- - [Weapons&#39; Julia Garner Imitates Zach Cregger](https://www.polygon.com/video/weapons-julia-garner-imitates-zach-cregger/)
- - [Silksong players have uncovered yet another secret—a little Clair Obscur: Expedition 33 easter egg](https://www.pcgamer.com/games/action/silksong-players-have-uncovered-yet-another-secret-a-little-clair-obscur-expedition-33-easter-egg/)<!-- GAME:END -->
+ - [How to reach Verdania in Silksong](https://www.pcgamer.com/games/action/silksong-verdania-green-prince/)
+ - [Some Silksong players are clinging stubbornly to its release version as the &#39;first major patch&#39; kills a secret technique and makes bosses a smidge easier](https://www.pcgamer.com/games/action/some-silksong-players-are-clinging-stubbornly-to-its-release-version-as-the-first-major-patch-kills-a-secret-technique-and-makes-bosses-a-smidge-easier/)
+ - [&#39;Even with a 9800X3D and a 5090 it runs like absolute buttcheeks&#39;: 2K Games posts Nvidia&#39;s Borderlands 4 optimised settings guide, but the community is already in open revolt](https://www.pcgamer.com/hardware/even-with-a-9800x3d-and-a-5090-it-runs-like-absolute-buttcheeks-2k-games-posts-nvidias-borderlands-4-optimised-settings-guide-but-the-community-is-already-in-open-revolt/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
