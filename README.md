@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I reviewed the Google Pixel 10 Pro: Here’s why it’s my new favorite Android phone of 2025](https://www.androidauthority.com/google-pixel-10-pro-review-3594047/)
- - [Microsoft avoids EU fine after Slack complained about Teams bundling](https://www.theverge.com/news/776968/microsoft-teams-eu-commitments-avoid-fine)
- - [This compact Android phone has front speakers, headphone jack, and microSD — thank you, Sony](https://www.androidauthority.com/sony-xperia-10-vii-launch-3597176/)<!-- TECH:END -->
+ - [Prongs rock](https://www.theverge.com/hands-on/776797/xbox-ally-x-prongs-comfort-editorial)
+ - [Google Tasks may be getting an upgrade that makes it worthy as a standalone app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tasks-drive-files-attachments-3597195/)
+ - [FTC to AI Companies: Tell Us How You Protect Teens and Kids Who Use AI Companions](https://www.cnet.com/tech/services-and-software/ftc-to-ai-companies-tell-us-how-you-protect-teens-and-kids-who-use-ai-companions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
