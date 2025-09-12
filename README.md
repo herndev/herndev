@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba releases Qwen3-Next, a new model architecture optimized for long-context understanding, large parameter scale, and better computational efficiency &lpar;Crystal Liu/Alizila&rpar;](http://www.techmeme.com/250911/p29#a250911p29)
- - [FDA Clears the Apple Watch for Hypertension Alerts](https://www.cnet.com/tech/mobile/the-fda-clears-the-apple-watch-for-hypertension-alerts/#ftag=CAD590a51e)
- - [Apple Watch hypertension notifications get FDA approval](https://appleinsider.com/articles/25/09/12/apple-watch-hypertension-notifications-get-fda-approval?utm_source=rss)<!-- TECH:END -->
+ - [Despite hype and optimistic projections, the humanoid robot industry faces hurdles, from battery life and design to limited demand for large-scale deployments &lpar;Evan Ackerman/IEEE Spectrum&rpar;](http://www.techmeme.com/250912/p3#a250912p3)
+ - [Lenovo Coupon Codes and Deals: Up to $500 Off](https://www.wired.com/story/lenovo-coupon-code/)
+ - [Google is phasing out one of its staple Wear OS apps](https://www.androidauthority.com/wear-os-6-google-weather-app-3597171/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
