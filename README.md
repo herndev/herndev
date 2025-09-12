@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Resort](http://9gag.com/gag/aZZdv40)
- - ⏩ [On this day in 1993 the X Files premiered on television.](http://9gag.com/gag/aD2PP99)
- - 👉 [Title](http://9gag.com/gag/ajPdR3g)<!-- MEMES:END -->
+ - 💣 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - ⏩ [He heard the prophecy\u2026 misunderstood the wardrobe](http://9gag.com/gag/an7droL)
+ - 👉 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)<!-- MEMES:END -->
 
 ---
 
