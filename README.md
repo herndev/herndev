@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alibaba and Baidu have begun using their own internally designed chips to train their AI models, partly replacing AI chips made by Nvidia &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250912/p16#a250912p16)
- - [iPhone 17 Pro: Wild Orange Color, Bigger Zoom, A19 Pro Chip for $1,099](https://www.cnet.com/tech/mobile/iphone-17-pro-wild-cosmic-orange-bigger-zoom-a19-pro-1099/#ftag=CAD590a51e)
- - [This is the Most Effective Type of Creatine You Should Be Taking to See Results, According to Registered Dietitians](https://www.cnet.com/health/the-best-types-of-creatine-for-all-your-fitness-goals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Hades II&#39; Is Coming to Nintendo Switch This Month](https://www.wired.com/story/hades-ii-is-coming-to-nintendo-switch-this-month/)
+ - [Micro1, a Scale AI competitor that lets AI companies find contractors for data labeling and training, raised a $35M Series A led by O1A at a $500M valuation &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250912/p18#a250912p18)
+ - [Encyclopedia Britannica and Merriam-Webster sue Perplexity for copying their definitions](https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
