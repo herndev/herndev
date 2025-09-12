@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel phones might soon stream emergencies in real-time, just like iPhones &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-emergency-live-video-3597317/)
- - [Tether names Bo Hines, the former Executive Director of the White House Crypto Council, as the CEO of its new US unit and launches USAT stablecoin &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250912/p15#a250912p15)
- - [The Galaxy Watch 8 Classic is $140 off, nearly the same price as the standard model](https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale)<!-- TECH:END -->
+ - [Sources: Alibaba and Baidu have begun using their own internally designed chips to train their AI models, partly replacing AI chips made by Nvidia &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250912/p16#a250912p16)
+ - [iPhone 17 Pro: Wild Orange Color, Bigger Zoom, A19 Pro Chip for $1,099](https://www.cnet.com/tech/mobile/iphone-17-pro-wild-cosmic-orange-bigger-zoom-a19-pro-1099/#ftag=CAD590a51e)
+ - [This is the Most Effective Type of Creatine You Should Be Taking to See Results, According to Registered Dietitians](https://www.cnet.com/health/the-best-types-of-creatine-for-all-your-fitness-goals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
