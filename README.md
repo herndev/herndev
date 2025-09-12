@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - ⏩ [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - 👉 [Economy in 2025](http://9gag.com/gag/avyDmQ5)<!-- MEMES:END -->
+ - 💣 [Stonemason at Cologne cathedral](http://9gag.com/gag/avyDXKW)
+ - ⏩ [Anti anti FA](http://9gag.com/gag/aLnbNXg)
+ - 👉 [White lives matter](http://9gag.com/gag/aZZdRD3)<!-- MEMES:END -->
 
 ---
 
