@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Master the Dungeon: Essential Tips &amp; Card Combos to Survive Hellcard on Xbox](https://news.xbox.com/en-us/2025/09/12/master-the-dungeon-essential-tips-to-survive-hellcard-on-xbox/)
- - [Hollow Knight: Silksong walkthrough](https://www.polygon.com/hollow-knight-silksong-walkthrough-credits-acts/)
- - [Everyone is rushing back to Fortnite&#39;s Blitz Royale mode for a weekend of Iron Man-fuelled mayhem](https://www.pcgamer.com/games/battle-royale/fortnite-blitz-iron-man-stark-island-map-update/)<!-- GAME:END -->
+ - [Waterstop Evocarium solution in Borderlands 4](https://www.polygon.com/borderlands-4-waterstop-evocarium-location-solution/)
+ - [Battlefield 6 devs knew &#39;everything&#39; would leak from playtests but said the risk was worth it to get feedback from players: &#39;That had to come at any cost&#39;](https://www.pcgamer.com/games/fps/battlefield-6-devs-knew-everything-would-leak-from-playtests-but-said-the-risk-was-worth-it-to-get-feedback-from-players-that-had-to-come-at-any-cost/)
+ - [All bank locations in Borderlands 4](https://www.polygon.com/borderlands-4-all-bank-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
