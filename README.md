@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Robby Walker, one of Apple&#39;s most senior AI executives who was in charge of Siri until earlier this year, is leaving the company next month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250912/p24#a250912p24)
- - [Your Pixel 10 should no longer have any problems connecting to a Galaxy Watch](https://www.androidauthority.com/pixel-10-galaxy-watch-fix-3597435/)
- - [The iPhone Air Could Trigger a Thin Phone Avalanche](https://www.cnet.com/tech/mobile/the-iphone-air-could-trigger-a-thin-phone-avalanche/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Executive linked to Siri delays is leaving Apple in October](https://appleinsider.com/articles/25/09/12/executive-linked-to-siri-delays-is-leaving-apple-in-october?utm_source=rss)
+ - [Lee Pace Has Big Hopes for the Fourth Season of ‘Foundation’](https://www.wired.com/story/lee-pace-foundation-interview/)
+ - [France-based Scintil Photonics, which is developing integrated photonic system-on-chips for AI infrastructure, raised a $58M Series B led by Yotta and NGP &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250912/p25#a250912p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
