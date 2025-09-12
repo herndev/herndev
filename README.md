@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26 review: Smart, glassy, but waiting on Siri](https://appleinsider.com/articles/25/09/12/ios-26-review-smart-glassy-but-waiting-on-siri?utm_source=rss)
- - [Poll: Android users, are this year’s iPhones tempting you to switch?](https://www.androidauthority.com/android-iphone-17-switch-poll-3597234/)
- - [Inside VLC - the best universal video tool for Mac for over a decade.](https://appleinsider.com/articles/25/09/12/inside-vlc---the-best-universal-video-tool-for-mac-for-over-a-decade?utm_source=rss)<!-- TECH:END -->
+ - [Kindle, take note: It’s time for a pocket-sized Scribe](https://www.androidauthority.com/kindle-should-make-pocket-sized-scribe-3595415/)
+ - [Apple&#39;s iPhone 17 Crossbody Strap is too expensive, and there are better choices](https://appleinsider.com/inside/iphone-17/best/apples-iphone-17-crossbody-strap-is-too-expensive-and-there-are-better-choices?utm_source=rss)
+ - [Inside VLC - the best universal video tool for Mac for over a decade](https://appleinsider.com/articles/25/09/12/inside-vlc---the-best-universal-video-tool-for-mac-for-over-a-decade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
