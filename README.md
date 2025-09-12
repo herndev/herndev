@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cop: `what&#39;s going on?` Guy: `\ud83d\udc40 with??????????\ud83d\udc40`](http://9gag.com/gag/aE0QEYN)
- - ⏩ [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - 👉 [Dude didn&#39;t learn the lesson after the first streamer tried that](http://9gag.com/gag/a7oG68q)<!-- MEMES:END -->
+ - 💣 [The Resort](http://9gag.com/gag/aZZdv40)
+ - ⏩ [On this day in 1993 the X Files premiered on television.](http://9gag.com/gag/aD2PP99)
+ - 👉 [Title](http://9gag.com/gag/ajPdR3g)<!-- MEMES:END -->
 
 ---
 
