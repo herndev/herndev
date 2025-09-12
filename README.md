@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kindle, take note: It’s time for a pocket-sized Scribe](https://www.androidauthority.com/kindle-should-make-pocket-sized-scribe-3595415/)
- - [Apple&#39;s iPhone 17 Crossbody Strap is too expensive, and there are better choices](https://appleinsider.com/inside/iphone-17/best/apples-iphone-17-crossbody-strap-is-too-expensive-and-there-are-better-choices?utm_source=rss)
- - [Inside VLC - the best universal video tool for Mac for over a decade](https://appleinsider.com/articles/25/09/12/inside-vlc---the-best-universal-video-tool-for-mac-for-over-a-decade?utm_source=rss)<!-- TECH:END -->
+ - [Wi-Fi Router Vs Mesh System: Which Is Best for You?](https://www.wired.com/story/mesh-system-vs-wi-fi-router/)
+ - [Google Photos could soon get its best looking Material 3 Expressive changes to date &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-best-looking-material-3-expressive-3597227/)
+ - [Crypto trading volume at Bitstamp, bought by Robinhood in 2024, grew 21% MoM in August to $14.4B, surpassing Robinhood&#39;s crypto volume, which fell 18% to $13.7B &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/250912/p11#a250912p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
