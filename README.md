@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stonemason at Cologne cathedral](http://9gag.com/gag/avyDXKW)
- - ⏩ [Anti anti FA](http://9gag.com/gag/aLnbNXg)
- - 👉 [White lives matter](http://9gag.com/gag/aZZdRD3)<!-- MEMES:END -->
+ - 💣 [Anti anti FA](http://9gag.com/gag/aLnbNXg)
+ - ⏩ [White lives matter](http://9gag.com/gag/aZZdRD3)
+ - 👉 [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)<!-- MEMES:END -->
 
 ---
 
