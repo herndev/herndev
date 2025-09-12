@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opendoor&#39;s new chairman Keith Rabois says &quot;I don&#39;t know what most&quot; of its 1400 employees do and the company doesn&#39;t need &quot;more than 200 of them&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250912/p23#a250912p23)
- - [Save 35% on Parallels Desktop 26 to run Windows apps on macOS Tahoe](https://appleinsider.com/articles/25/09/12/save-35-on-parallels-desktop-26-to-run-windows-apps-on-macos-tahoe?utm_source=rss)
- - [How Sleep Score works on Apple Watch with watchOS 26](https://appleinsider.com/articles/25/09/12/how-sleep-score-works-on-apple-watch-with-watchos-26?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Robby Walker, one of Apple&#39;s most senior AI executives who was in charge of Siri until earlier this year, is leaving the company next month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250912/p24#a250912p24)
+ - [Your Pixel 10 should no longer have any problems connecting to a Galaxy Watch](https://www.androidauthority.com/pixel-10-galaxy-watch-fix-3597435/)
+ - [The iPhone Air Could Trigger a Thin Phone Avalanche](https://www.cnet.com/tech/mobile/the-iphone-air-could-trigger-a-thin-phone-avalanche/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
