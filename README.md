@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch hypertension notifications get FDA approval](https://appleinsider.com/articles/25/09/12/apple-watch-hypertension-notifications-get-fda-approval?utm_source=rss)
  - [Databricks&#39; head of AI, Naveen Rao, is transitioning to an advisory role; source: his next venture will focus on a next-gen computer to address rising AI costs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p28#a250911p28)
- - [DOJ antitrust lawyers battling a stubborn Apple turn to the court for help](https://appleinsider.com/articles/25/09/12/doj-antitrust-lawyers-battling-a-stubborn-apple-turn-to-the-court-for-help?utm_source=rss)
- - [Source: the clause rescinding Microsoft&#39;s access to OpenAI&#39;s most powerful tech if OpenAI develops AGI remains part of their new deal, but it has been modified &lpar;New York Times&rpar;](http://www.techmeme.com/250911/p27#a250911p27)<!-- TECH:END -->
+ - [DOJ antitrust lawyers battling a stubborn Apple turn to the court for help](https://appleinsider.com/articles/25/09/12/doj-antitrust-lawyers-battling-a-stubborn-apple-turn-to-the-court-for-help?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
