@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Waterstop Evocarium solution in Borderlands 4](https://www.polygon.com/borderlands-4-waterstop-evocarium-location-solution/)
- - [Battlefield 6 devs knew &#39;everything&#39; would leak from playtests but said the risk was worth it to get feedback from players: &#39;That had to come at any cost&#39;](https://www.pcgamer.com/games/fps/battlefield-6-devs-knew-everything-would-leak-from-playtests-but-said-the-risk-was-worth-it-to-get-feedback-from-players-that-had-to-come-at-any-cost/)
- - [All bank locations in Borderlands 4](https://www.polygon.com/borderlands-4-all-bank-locations/)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: 5 Cool Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-borderlands-silksong-shadow-2000625508)
+ - [Borderlands 4 interactive map &lpar;BL4&rpar;](https://www.polygon.com/map/borderlands-4-interactive-map-full-kairos-bl4/)
+ - [Waterstop Evocarium solution in Borderlands 4](https://www.polygon.com/borderlands-4-waterstop-evocarium-location-solution/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
