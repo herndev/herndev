@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI releases the first detailed public study on how people use ChatGPT: 73% of chats were non-work related, practical guidance was the top use case, and more &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/250915/p3#a250915p3)
- - [China says Nvidia was found in violation of antitrust regulations in a preliminary investigation, in a brief statement without further details &lpar;Bloomberg&rpar;](http://www.techmeme.com/250915/p2#a250915p2)
- - [The SSD version of LaCie’s iconic Rugged drive gets a speed boost](https://www.theverge.com/news/776676/seagate-lacie-rugged-ssd4-external-drive-apple-prores-4k)<!-- TECH:END -->
+ - [WIRED Health Recap: Cancer Vaccines, CRISPR Breakthroughs, and More](https://www.wired.com/story/wired-health-recap-cancer-vaccines-crispr-breakthroughs-and-more/)
+ - [The Next Era of Gene Editing Will Be Disease Agnostic](https://www.wired.com/story/the-next-era-of-gene-editing-will-be-disease-agnostic/)
+ - [First calls and texts, now Pixels could detect scams from chat apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-scam-detection-chat-apps-3597568/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
