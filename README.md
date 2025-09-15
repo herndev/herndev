@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
- - ⏩ [Classic 2016](http://9gag.com/gag/aAym7no)
- - 👉 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)<!-- MEMES:END -->
+ - 💣 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - ⏩ [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 👉 [Hip hip hurry](http://9gag.com/gag/aQzrbyz)<!-- MEMES:END -->
 
 ---
 
