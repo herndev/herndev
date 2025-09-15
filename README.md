@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - ⏩ [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - ⏩ [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
  - 👉 [One of these is not like the others](http://9gag.com/gag/aRByGvA)<!-- MEMES:END -->
 
 ---
