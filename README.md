@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PSA: This overlooked Pixel feature can save you from missed calls and blaring ringtones](https://www.androidauthority.com/google-pixel-rules-feature-3597555/)
  - [A look at training sessions hosted by robotaxi companies, like Zoox, to teach first responders how to handle emergencies involving self-driving cars &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/250915/p1#a250915p1)
- - [This Android brand is skipping an entire generation to rival the iPhone 17](https://www.androidauthority.com/xiaomi-17-series-3597546/)
- - [Get Ready for the Holiday Tech Splurge: US Adults Expected to Spend $931 on Devices, CNET Survey Finds](https://www.cnet.com/tech/mobile/get-ready-for-the-holiday-tech-splurge-us-adults-expected-to-spend-931-on-devices-cnet-survey-finds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Android brand is skipping an entire generation to rival the iPhone 17](https://www.androidauthority.com/xiaomi-17-series-3597546/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
