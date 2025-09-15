@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
- - ⏩ [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 👉 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)<!-- MEMES:END -->
+ - 💣 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - ⏩ [Here Is The Full List Of Emmys 2025 Winners](http://9gag.com/gag/aRBydV7)
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---
 
