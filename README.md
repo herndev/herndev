@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Players ended up just shooting Doritos&#39;: Battlefield 6 is toning down its aggressive ping ability after open beta feedback](https://www.pcgamer.com/games/fps/players-ended-up-just-shooting-doritos-battlefield-6-is-toning-down-its-aggressive-ping-ability-after-open-beta-feedback/)
- - [Furious Destiny 2 players accuse Bungie of secretly moving a stunning free armor set into the Eververse Store so players have to pay real money for it instead](https://www.pcgamer.com/games/fps/furious-players-accuse-bungie-of-secretly-moving-a-stunning-free-armor-set-into-the-eververse-store-so-players-have-to-pay-real-money-for-it-instead/)
- - [Battlefield 6 is &#39;secretly console first,&#39; says half-joking dev who has bravely risked resurrecting 2000s-era console vs PC bitterness](https://www.pcgamer.com/games/fps/battlefield-6-console-first-interview/)<!-- GAME:END -->
+ - [Saints Row 2&#39;s Juiced Patch makes the PC port so much better it&#39;s criminal](https://www.pcgamer.com/games/action/saints-row-2s-juiced-patch-makes-the-pc-port-so-much-better-its-criminal/)
+ - [It only took a week for the ultimate Silksong sicko to beat every boss in the game without getting hit](https://www.pcgamer.com/games/action/it-only-took-a-week-for-the-ultimate-silksong-sicko-to-beat-every-boss-in-the-game-without-getting-hit/)
+ - [Netflix released another Witcher teaser showing off Liam Hemsworth as Geralt, and I gotta say I was pleasantly surprised](https://www.pcgamer.com/games/the-witcher/netflix-released-another-witcher-teaser-showing-off-liam-hemsworth-as-geralt-and-i-gotta-say-i-was-pleasantly-surprised/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
