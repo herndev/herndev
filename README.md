@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The London Stock Exchange launches a blockchain-based platform, marking its push into digital assets, initially focused on private funds &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250915/p5#a250915p5)
- - [Pixel 7 and Pixel 7 Pro users are now facing scary battery swelling problems](https://www.androidauthority.com/pixel-7-pixel-7-pro-battery-swelling-3597642/)
- - [5 Android phones you should buy instead of the iPhone 17 Pro](https://www.androidauthority.com/iphone-17-pro-android-alternatives-3597316/)<!-- TECH:END -->
+ - [AirPods Pro 3 review: The best true wireless earbuds get even better](https://appleinsider.com/articles/25/09/15/airpods-pro-3-review-the-best-true-wireless-earbuds-get-even-better?utm_source=rss)
+ - [AirPods Pro 3 review: tripling down on a good thing](https://www.theverge.com/headphone-review/777798/airpods-pro-3-review-active-noise-cancelling-live-translation-headphones)
+ - [iPadOS 26 review: The Mac lover&#39;s tablet update](https://appleinsider.com/articles/25/09/15/ipados-26-review-the-mac-lovers-tablet-update?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
