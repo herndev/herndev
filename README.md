@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)
- - ⏩ [Tarantino](http://9gag.com/gag/aAymAE0)
+ - ⏩ [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
  - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 ---
