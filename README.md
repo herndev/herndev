@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify&amp;#8217;s free users can finally play the songs they want](https://www.theverge.com/news/778176/spotify-free-user-upgrade-play-specific-songs)
- - [TikTok deal may be done: Trump to meet China&#39;s Xi Jinping](https://appleinsider.com/articles/25/09/15/tiktok-deal-may-be-done-trump-to-meet-chinas-xi-jinping?utm_source=rss)
- - [Snap announces Snap OS 2.0 for its Spectacles glasses, updating first-party apps and adding new features like Travel Mode and support for WebXR &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250915/p22#a250915p22)<!-- TECH:END -->
+ - [A look at emerging faith tech apps like Hallow that use AI chatbots for digital chaplaincy, amid concerns over data privacy and their quality of faith guidance &lpar;Lauren Jackson/New York Times&rpar;](http://www.techmeme.com/250915/p25#a250915p25)
+ - [A detailed look at iOS and iPadOS 26 with Liquid Glass, which brings a cohesive UI story across Apple&#39;s platforms &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/250915/p24#a250915p24)
+ - [Hundreds of Google AI Workers Were Fired Amid Fight Over Working Conditions](https://www.wired.com/story/hundreds-of-google-ai-workers-were-fired-amid-fight-over-working-conditions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
