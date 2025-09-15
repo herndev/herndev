@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive into the architecture of Nvidia&#39;s Rubin CPX chip, which is optimized for long-context AI tasks and the prefill phase of inference &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250914/p17#a250914p17)
- - [It’s official: The ‘Snapdragon 8 Elite Gen 5’ will power the next wave of Android flagships](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-5-branding-3597533/)
- - [Amazon&#39;s $799 M4 MacBook Air deal is back, plus save up to $500 on upgraded models](https://appleinsider.com/articles/25/09/15/amazons-799-m4-macbook-air-deal-is-back-plus-save-up-to-500-on-upgraded-models?utm_source=rss)<!-- TECH:END -->
+ - [A look at training sessions hosted by robotaxi companies, like Zoox, to teach first responders how to handle emergencies involving self-driving cars &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/250915/p1#a250915p1)
+ - [This Android brand is skipping an entire generation to rival the iPhone 17](https://www.androidauthority.com/xiaomi-17-series-3597546/)
+ - [Get Ready for the Holiday Tech Splurge: US Adults Expected to Spend $931 on Devices, CNET Survey Finds](https://www.cnet.com/tech/mobile/get-ready-for-the-holiday-tech-splurge-us-adults-expected-to-spend-931-on-devices-cnet-survey-finds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
