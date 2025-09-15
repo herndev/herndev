@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 Edge drops back to its all-time low price of $699.99](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-8-3597882/)
- - [Millions of Facebook users are finally getting their payouts from the $725M privacy settlement](https://www.androidauthority.com/facebook-settlement-payments-begin-3597892/)
- - [Android will soon be able to theme every app icon, and Google Play won’t let developers opt out](https://www.androidauthority.com/google-play-icon-theming-agreement-3597899/)<!-- TECH:END -->
+ - [The now-removed video from Meta also showed the rumored Oakley Meta Sphaera glasses with a centered camera, highlighting their use in skiing and running &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250915/p35#a250915p35)
+ - [Filing: the Internet Archive and major music labels settle a copyright infringement lawsuit against IA over its project to preserve early music recordings &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250915/p34#a250915p34)
+ - [Robinhood has filed an application with the SEC to launch a new publicly traded fund called &quot;Robinhood Ventures Fund I&quot; that will hold shares of startups &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250915/p33#a250915p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
