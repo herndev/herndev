@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Muppet show](http://9gag.com/gag/aoyddDe)
- - ⏩ [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 👉 [Magnificent](http://9gag.com/gag/aQzrBQK)<!-- MEMES:END -->
+ - 💣 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
+ - ⏩ [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 👉 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)<!-- MEMES:END -->
 
 ---
 
