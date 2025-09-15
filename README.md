@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $799 M4 MacBook Air deal is back, plus save up to $500 on upgraded models](https://appleinsider.com/articles/25/09/15/amazons-799-m4-macbook-air-deal-is-back-plus-save-up-to-500-on-upgraded-models?utm_source=rss)
- - [Google’s 27th birthday bash comes with Pixel freebies and big discounts](https://www.androidauthority.com/google-store-birthday-pixel-deals-3597529/)
- - [The AI revolution has more in common with shipping containerization than the boom unleashed by the microprocessor: diffuse global benefits but few new fortunes &lpar;Jerry Neumann/Colossus&rpar;](http://www.techmeme.com/250914/p16#a250914p16)<!-- TECH:END -->
+ - [A deep dive into the architecture of Nvidia&#39;s Rubin CPX chip, which is optimized for long-context AI tasks and the prefill phase of inference &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250914/p17#a250914p17)
+ - [It’s official: The ‘Snapdragon 8 Elite Gen 5’ will power the next wave of Android flagships](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-5-branding-3597533/)
+ - [Amazon&#39;s $799 M4 MacBook Air deal is back, plus save up to $500 on upgraded models](https://appleinsider.com/articles/25/09/15/amazons-799-m4-macbook-air-deal-is-back-plus-save-up-to-500-on-upgraded-models?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
