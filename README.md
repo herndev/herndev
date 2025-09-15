@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - ⏩ [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - 👉 [Help me](http://9gag.com/gag/a34xrwQ)<!-- MEMES:END -->
+ - 💣 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)
+ - ⏩ [Tarantino](http://9gag.com/gag/aAymAE0)
+ - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 ---
 
