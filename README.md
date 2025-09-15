@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
  - ⏩ [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 👉 [It&#39;s coming](http://9gag.com/gag/aByvMbO)<!-- MEMES:END -->
+ - 👉 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
 
 ---
 
