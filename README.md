@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - ⏩ [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
- - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
+ - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - ⏩ [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 👉 [Help me](http://9gag.com/gag/a34xrwQ)<!-- MEMES:END -->
 
 ---
 
