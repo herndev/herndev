@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
- - ⏩ [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
- - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
+ - 💣 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
+ - ⏩ [Awakening](http://9gag.com/gag/a6ZxzLR)
+ - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
 
 ---
 
