@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
- - ⏩ [Awakening](http://9gag.com/gag/a6ZxzLR)
- - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
+ - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - ⏩ [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 👉 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
 
 ---
 
