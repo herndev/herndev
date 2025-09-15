@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - ⏩ [Hip hip hurry](http://9gag.com/gag/aQzrbyz)
+ - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - ⏩ [This isn&#39;t grandma&#39;s first rodeo](http://9gag.com/gag/aVvdrK2)
  - 👉 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
 
 ---
