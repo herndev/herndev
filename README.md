@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&amp;#8217;s why usage of Gemini&amp;#8217;s Nano Banana image editor is growing](https://www.theverge.com/news/778106/google-gemini-nano-banana-image-editor)
- - [CoreWeave says it has signed a new $6.3B order with Nvidia, which guarantees that Nvidia will purchase any residual cloud capacity not sold to customers &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/250915/p20#a250915p20)
- - [Sources: OpenAI is recruiting people to work on humanoid robots and is training AI algorithms that are better able to make sense of the physical world &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250915/p19#a250915p19)<!-- TECH:END -->
+ - [Spotify&amp;#8217;s free users can finally play the songs they want](https://www.theverge.com/news/778176/spotify-free-user-upgrade-play-specific-songs)
+ - [TikTok deal may be done: Trump to meet China&#39;s Xi Jinping](https://appleinsider.com/articles/25/09/15/tiktok-deal-may-be-done-trump-to-meet-chinas-xi-jinping?utm_source=rss)
+ - [Snap announces Snap OS 2.0 for its Spectacles glasses, updating first-party apps and adding new features like Travel Mode and support for WebXR &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250915/p22#a250915p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
