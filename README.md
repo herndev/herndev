@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Breaking: One UI 8 stable starts rolling out for the Galaxy S25 series](https://www.androidauthority.com/samsung-galaxy-s25-series-stable-one-ui-8-rollout-3597582/)
  - [The most popular Android phones in Q2 2025 also beat the cheapest new iPhone](https://www.androidauthority.com/top-selling-phones-q2-2025-3597552/)
- - [PSA: This overlooked Pixel feature can save you from missed calls and blaring ringtones](https://www.androidauthority.com/google-pixel-rules-feature-3597555/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 15, #357](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-15-357/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PSA: This overlooked Pixel feature can save you from missed calls and blaring ringtones](https://www.androidauthority.com/google-pixel-rules-feature-3597555/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
