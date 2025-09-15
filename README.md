@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How brands and creators are fighting for your attention — and your money](https://www.theverge.com/decoder-podcast-with-nilay-patel/776412/amy-lanzi-ceo-digitas-digital-marketing-creators-ai-hank-green)
- - [Amazon schedules its annual fall hardware event for September 30 in NYC, where it is expected to launch new Echo smart speakers and Kindle devices &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250915/p15#a250915p15)
- - [Hands on: Apple&#39;s new 60W charger is effectively required for iPhone 17 fast charging](https://appleinsider.com/articles/25/09/14/hands-on-apples-new-60w-charger-is-all-but-needed-for-iphone-17-fast-charging?utm_source=rss)<!-- TECH:END -->
+ - [Here&amp;#8217;s why usage of Gemini&amp;#8217;s Nano Banana image editor is growing](https://www.theverge.com/news/778106/google-gemini-nano-banana-image-editor)
+ - [CoreWeave says it has signed a new $6.3B order with Nvidia, which guarantees that Nvidia will purchase any residual cloud capacity not sold to customers &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/250915/p20#a250915p20)
+ - [Sources: OpenAI is recruiting people to work on humanoid robots and is training AI algorithms that are better able to make sense of the physical world &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250915/p19#a250915p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
