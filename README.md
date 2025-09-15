@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Awakening](http://9gag.com/gag/a6ZxzLR)
- - ⏩ [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
+ - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - ⏩ [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 👉 [It&#39;s coming](http://9gag.com/gag/aByvMbO)<!-- MEMES:END -->
 
 ---
 
