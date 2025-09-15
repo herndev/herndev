@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Conceivable Life Sciences, which wants to use AI to automate the work done by embryologists in IVF labs, raised $50M, bringing its total funding to $70M &lpar;Sarah Frier/Bloomberg&rpar;](http://www.techmeme.com/250915/p12#a250915p12)
- - [Battling for the lead at an IRL version of Mario Kart](https://www.theverge.com/games/777737/rpm-raceway-kart-klash-mario-kart-irl)
- - [11 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)<!-- TECH:END -->
+ - [How brands and creators are fighting for your attention — and your money](https://www.theverge.com/decoder-podcast-with-nilay-patel/776412/amy-lanzi-ceo-digitas-digital-marketing-creators-ai-hank-green)
+ - [Amazon schedules its annual fall hardware event for September 30 in NYC, where it is expected to launch new Echo smart speakers and Kindle devices &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250915/p15#a250915p15)
+ - [Hands on: Apple&#39;s new 60W charger is effectively required for iPhone 17 fast charging](https://appleinsider.com/articles/25/09/14/hands-on-apples-new-60w-charger-is-all-but-needed-for-iphone-17-fast-charging?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
