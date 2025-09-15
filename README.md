@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 3 review: The best true wireless earbuds get even better](https://appleinsider.com/articles/25/09/15/airpods-pro-3-review-the-best-true-wireless-earbuds-get-even-better?utm_source=rss)
- - [AirPods Pro 3 review: tripling down on a good thing](https://www.theverge.com/headphone-review/777798/airpods-pro-3-review-active-noise-cancelling-live-translation-headphones)
- - [iPadOS 26 review: The Mac lover&#39;s tablet update](https://appleinsider.com/articles/25/09/15/ipados-26-review-the-mac-lovers-tablet-update?utm_source=rss)<!-- TECH:END -->
+ - [Conceivable Life Sciences, which wants to use AI to automate the work done by embryologists in IVF labs, raised $50M, bringing its total funding to $70M &lpar;Sarah Frier/Bloomberg&rpar;](http://www.techmeme.com/250915/p12#a250915p12)
+ - [Battling for the lead at an IRL version of Mario Kart](https://www.theverge.com/games/777737/rpm-raceway-kart-klash-mario-kart-irl)
+ - [11 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
