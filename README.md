@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WIRED Health Recap: Cancer Vaccines, CRISPR Breakthroughs, and More](https://www.wired.com/story/wired-health-recap-cancer-vaccines-crispr-breakthroughs-and-more/)
- - [The Next Era of Gene Editing Will Be Disease Agnostic](https://www.wired.com/story/the-next-era-of-gene-editing-will-be-disease-agnostic/)
- - [First calls and texts, now Pixels could detect scams from chat apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-scam-detection-chat-apps-3597568/)<!-- TECH:END -->
+ - [The London Stock Exchange launches a blockchain-based platform, marking its push into digital assets, initially focused on private funds &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250915/p5#a250915p5)
+ - [Pixel 7 and Pixel 7 Pro users are now facing scary battery swelling problems](https://www.androidauthority.com/pixel-7-pixel-7-pro-battery-swelling-3597642/)
+ - [5 Android phones you should buy instead of the iPhone 17 Pro](https://www.androidauthority.com/iphone-17-pro-android-alternatives-3597316/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
