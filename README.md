@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook gave our data to Cambridge Analytica and all I got was this $38.36](https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Save $40 on a Handmade Dutch Coffeemaker That&#39;s Built for Life](https://www.wired.com/story/save-up-to-dollar40-on-our-favorite-buy-for-life-coffee-maker/)<!-- TECH:END -->
+ - [Samsung Galaxy S25 Edge drops back to its all-time low price of $699.99](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-8-3597882/)
+ - [Millions of Facebook users are finally getting their payouts from the $725M privacy settlement](https://www.androidauthority.com/facebook-settlement-payments-begin-3597892/)
+ - [Android will soon be able to theme every app icon, and Google Play won’t let developers opt out](https://www.androidauthority.com/google-play-icon-theming-agreement-3597899/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
