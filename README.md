@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Top New Features in Apple’s iOS 26 and iPadOS 26](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)
- - [iOS 26 review: Liquid Glass is aesthetically pleasing, many quality-of-life upgrades, call screening is a true game changer, but the Games app feels unfinished &lpar;Zachary McAuliffe/CNET&rpar;](http://www.techmeme.com/250915/p28#a250915p28)
- - [Russia Tests Hypersonic Missile at NATO’s Doorstep—and Shares the Video](https://www.wired.com/story/russia-hypersonic-missile-test-nato-borders/)<!-- TECH:END -->
+ - [Trump says foreign workers are &amp;#8216;welcome&amp;#8217; after ICE raid in Georgia targets hundreds of South Koreans](https://www.theverge.com/news/778334/trump-ice-hyundai-raid-korean-workers)
+ - [Galaxy Tab A11 leak shows how much the Plus model outshines its smaller sibling](https://www.androidauthority.com/galaxy-tab-a11-specs-and-renders-3597841/)
+ - [Turn Your Old Tech Into Art—Now With a 20% Discount](https://www.wired.com/story/grid-studio-5-anniversary-sale/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
