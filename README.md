@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: One UI 8 stable starts rolling out for the Galaxy S25 series](https://www.androidauthority.com/samsung-galaxy-s25-series-stable-one-ui-8-rollout-3597582/)
- - [The most popular Android phones in Q2 2025 also beat the cheapest new iPhone](https://www.androidauthority.com/top-selling-phones-q2-2025-3597552/)
- - [PSA: This overlooked Pixel feature can save you from missed calls and blaring ringtones](https://www.androidauthority.com/google-pixel-rules-feature-3597555/)<!-- TECH:END -->
+ - [OpenAI releases the first detailed public study on how people use ChatGPT: 73% of chats were non-work related, practical guidance was the top use case, and more &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/250915/p3#a250915p3)
+ - [China says Nvidia was found in violation of antitrust regulations in a preliminary investigation, in a brief statement without further details &lpar;Bloomberg&rpar;](http://www.techmeme.com/250915/p2#a250915p2)
+ - [The SSD version of LaCie’s iconic Rugged drive gets a speed boost](https://www.theverge.com/news/776676/seagate-lacie-rugged-ssd4-external-drive-apple-prores-4k)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
