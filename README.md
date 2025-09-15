@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
- - ⏩ [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 👉 [Hip hip hurry](http://9gag.com/gag/aQzrbyz)<!-- MEMES:END -->
+ - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - ⏩ [Hip hip hurry](http://9gag.com/gag/aQzrbyz)
+ - 👉 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
 
 ---
 
