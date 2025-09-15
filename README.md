@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bullets Found After the Charlie Kirk Shooting Carried Messages. Here’s What They Mean](https://www.wired.com/story/charlie-kirk-bullet-memes/)
- - [MagSafe Battery for iPhone Air absolutely does not fit properly on anything else](https://appleinsider.com/articles/25/09/11/magsafe-battery-for-iphone-air-absolutely-does-not-fit-properly-on-anything-else?utm_source=rss)
- - [The WSJ carelessly spread anti-trans misinformation](https://www.theverge.com/politics/777630/wsj-trans-misinformation-charlie-kirk)<!-- TECH:END -->
+ - [An interview with Goldman Sachs partner Kerry Blum on how the company&#39;s ~46,000 employees are using GenAI-powered GS AI Assistant and the risks of over-reliance &lpar;Joshua Franklin/Financial Times&rpar;](http://www.techmeme.com/250914/p13#a250914p13)
+ - [&#39;How to Train Your Dragon&#39; Remake: Release Date and Time on Peacock](https://www.cnet.com/tech/services-and-software/how-to-train-your-dragon-remake-release-date-and-time-on-peacock/#ftag=CAD590a51e)
+ - [Sunday Night Football: How to Watch Falcons vs. Vikings Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-falcons-vs-vikings-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
