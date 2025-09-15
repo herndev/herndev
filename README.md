@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says foreign workers are &amp;#8216;welcome&amp;#8217; after ICE raid in Georgia targets hundreds of South Koreans](https://www.theverge.com/news/778334/trump-ice-hyundai-raid-korean-workers)
- - [Galaxy Tab A11 leak shows how much the Plus model outshines its smaller sibling](https://www.androidauthority.com/galaxy-tab-a11-specs-and-renders-3597841/)
- - [Turn Your Old Tech Into Art—Now With a 20% Discount](https://www.wired.com/story/grid-studio-5-anniversary-sale/)<!-- TECH:END -->
+ - [The Supreme Court is Google’s last hope to avoid an Epic reckoning in October](https://www.theverge.com/news/778332/google-epic-play-store-lawsuit-30-days-supreme-court)
+ - [iCloud support culled for iOS 10, macOS Sierra users](https://appleinsider.com/articles/25/09/15/icloud-support-culled-for-ios-10-macos-sierra-users?utm_source=rss)
+ - [Meta leaks its new smart glasses with a display](https://www.theverge.com/news/778354/meta-smart-glasses-display-ray-ban-oakley-sphaera-connect)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
