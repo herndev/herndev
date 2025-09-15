@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
- - ⏩ [Tarantino](http://9gag.com/gag/aAymAE0)
- - 👉 [One of these is not like the others](http://9gag.com/gag/aRByGvA)<!-- MEMES:END -->
+ - 💣 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
+ - ⏩ [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - 👉 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)<!-- MEMES:END -->
 
 ---
 
