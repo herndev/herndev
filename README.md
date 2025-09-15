@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Supreme Court is Google’s last hope to avoid an Epic reckoning in October](https://www.theverge.com/news/778332/google-epic-play-store-lawsuit-30-days-supreme-court)
- - [iCloud support culled for iOS 10, macOS Sierra users](https://appleinsider.com/articles/25/09/15/icloud-support-culled-for-ios-10-macos-sierra-users?utm_source=rss)
- - [Meta leaks its new smart glasses with a display](https://www.theverge.com/news/778354/meta-smart-glasses-display-ray-ban-oakley-sphaera-connect)<!-- TECH:END -->
+ - [Facebook gave our data to Cambridge Analytica and all I got was this $38.36](https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Save $40 on a Handmade Dutch Coffeemaker That&#39;s Built for Life](https://www.wired.com/story/save-up-to-dollar40-on-our-favorite-buy-for-life-coffee-maker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
