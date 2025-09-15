@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 15 &lpar;#1549&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-15-2025/)
  - [&#39;Because no one was paying attention we could just put anything into the game,&#39; says the writer responsible for sneaking The Lusty Argonian Maid into Morrowind](https://www.pcgamer.com/games/rpg/because-no-one-was-paying-attention-we-could-just-put-anything-into-the-game-says-the-writer-responsible-for-sneaking-the-lusty-argonian-maid-into-morrowind/)
- - [Five new Steam games you probably missed &lpar;September 15, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-15-2025/)
- - [Saints Row 2&#39;s Juiced Patch makes the PC port so much better it&#39;s criminal](https://www.pcgamer.com/games/action/saints-row-2s-juiced-patch-makes-the-pc-port-so-much-better-its-criminal/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;September 15, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-15-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
