@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - ⏩ [This isn&#39;t grandma&#39;s first rodeo](http://9gag.com/gag/aVvdrK2)
- - 👉 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
+ - 💣 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - ⏩ [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 👉 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)<!-- MEMES:END -->
 
 ---
 
