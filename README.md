@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at emerging faith tech apps like Hallow that use AI chatbots for digital chaplaincy, amid concerns over data privacy and their quality of faith guidance &lpar;Lauren Jackson/New York Times&rpar;](http://www.techmeme.com/250915/p25#a250915p25)
- - [A detailed look at iOS and iPadOS 26 with Liquid Glass, which brings a cohesive UI story across Apple&#39;s platforms &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/250915/p24#a250915p24)
- - [Hundreds of Google AI Workers Were Fired Amid Fight Over Working Conditions](https://www.wired.com/story/hundreds-of-google-ai-workers-were-fired-amid-fight-over-working-conditions/)<!-- TECH:END -->
+ - [The Top New Features in Apple’s iOS 26 and iPadOS 26](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)
+ - [iOS 26 review: Liquid Glass is aesthetically pleasing, many quality-of-life upgrades, call screening is a true game changer, but the Games app feels unfinished &lpar;Zachary McAuliffe/CNET&rpar;](http://www.techmeme.com/250915/p28#a250915p28)
+ - [Russia Tests Hypersonic Missile at NATO’s Doorstep—and Shares the Video](https://www.wired.com/story/russia-hypersonic-missile-test-nato-borders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
