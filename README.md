@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - ⏩ [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
- - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
+ - 💣 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
+ - ⏩ [Tarantino](http://9gag.com/gag/aAymAE0)
+ - 👉 [One of these is not like the others](http://9gag.com/gag/aRByGvA)<!-- MEMES:END -->
 
 ---
 
