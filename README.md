@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silksong has sold more than 3.2 million copies on Steam in less than 2 weeks, industry analyst firm estimates](https://www.pcgamer.com/games/action/silksong-has-sold-more-than-3-2-million-copies-on-steam-in-less-than-2-weeks-industry-analyst-firm-estimates/)
- - [Ice Cube Explains How That Awful War Of The Worlds Movie Happened](https://kotaku.com/ice-cube-war-of-the-worlds-amazon-awful-worst-movie-kai-cenat-2000625785)
- - [I just found out I&#39;ve been using Silksong&#39;s powerful Thread Storm ability wrong this entire time](https://www.pcgamer.com/games/action/i-just-found-out-ive-been-using-silksongs-powerful-thread-storm-ability-wrong-this-entire-time/)<!-- GAME:END -->
+ - [Seamlessly Access Your Gaming Library, Apps, and Play History in One Place with Xbox on Windows PCs and Handheld](https://news.xbox.com/en-us/2025/09/15/access-gaming-library-xbox-on-windows-pc-and-handheld/)
+ - [Hollow Knight: Silksong player melts its hardest bosses with an endless fountain of tools: &#39;I think I unlocked easy mode&#39;](https://www.pcgamer.com/games/action/hollow-knight-silksong-player-melts-its-hardest-bosses-with-an-endless-fountain-of-tools-i-think-i-unlocked-easy-mode/)
+ - [Silksong has sold more than 3.2 million copies on Steam in less than 2 weeks, industry analyst firm estimates](https://www.pcgamer.com/games/action/silksong-has-sold-more-than-3-2-million-copies-on-steam-in-less-than-2-weeks-industry-analyst-firm-estimates/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
