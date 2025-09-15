@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
- - ⏩ [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
- - 👉 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)<!-- MEMES:END -->
+ - 💣 [Awakening](http://9gag.com/gag/a6ZxzLR)
+ - ⏩ [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 👉 [Don&#39;t be that person](http://9gag.com/gag/aW4dyd3)<!-- MEMES:END -->
 
 ---
 
