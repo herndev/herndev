@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 💣 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
  - ⏩ [Here Is The Full List Of Emmys 2025 Winners](http://9gag.com/gag/aRBydV7)
- - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
+ - 👉 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)<!-- MEMES:END -->
 
 ---
 
