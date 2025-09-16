@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: the SEC settles a lawsuit accusing crypto exchange Gemini of failing to register the Gemini Earn lending program before offering it to retail investors &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250915/p38#a250915p38)
- - [How California reached a deal to let ride-hailing drivers unionize while reducing insurance requirements for Uber and Lyft, ending years of costly legal fights &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/250915/p37#a250915p37)
- - [A new super PAC called the Fellowship PAC says it will spend $100M+ to support pro-crypto legislators; sources say Tether is expected to be one of the backers &lpar;New York Times&rpar;](http://www.techmeme.com/250915/p36#a250915p36)<!-- TECH:END -->
+ - [Doctronic, which uses generative AI for health guidance and offers video visits with licensed doctors, raised a $20M Series A led by Lightspeed Venture Partners &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250915/p40#a250915p40)
+ - [Larq PureVis 2 review: A smart water bottle that makes hydration easier](https://appleinsider.com/articles/25/09/16/larq-purevis-2-review-a-smart-water-bottle-that-makes-hydration-easier?utm_source=rss)
+ - [Sources: Jack Ma has returned to Alibaba&#39;s campuses after disappearing from public view during China&#39;s 2020 tech crackdown, influencing Alibaba&#39;s pivot to AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250915/p39#a250915p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
