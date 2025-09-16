@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just Himeno dropping by](http://9gag.com/gag/apRdwND)
- - ⏩ [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 👉 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)<!-- MEMES:END -->
+ - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - ⏩ [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
+ - 👉 [She thought he would come home alone](http://9gag.com/gag/aZZdYen)<!-- MEMES:END -->
 
 ---
 
