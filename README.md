@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung details One UI 8 release schedule for dozens of devices](https://www.androidauthority.com/one-ui-8-release-schedule-3598136/)
- - [Nory, which offers an AI-powered restaurant management system, raised a $37M Series B led by Kinnevik, bringing its total funding to $63M &lpar;Silicon Republic&rpar;](http://www.techmeme.com/250916/p34#a250916p34)
- - [YouTube announces AI tools for podcasters, including one that turns video podcasts into clips and another that creates video for audio-only podcasts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250916/p33#a250916p33)<!-- TECH:END -->
+ - [Chip design software maker Cadence agrees to acquire Stockholm-based Hexagon&#39;s design and simulation software business for ~$3.18B in cash and stock &lpar;Nathan Owens/Manufacturing Dive&rpar;](http://www.techmeme.com/250916/p37#a250916p37)
+ - [Google is finally changing its tune about call recording on Pixel phones](https://www.androidauthority.com/pixel-call-recording-3598192/)
+ - [Google&amp;#8217;s new Windows desktop app brings a Spotlight-like search bar to PC](https://www.theverge.com/news/778940/google-app-windows-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
