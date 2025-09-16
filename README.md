@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube says it has paid out $100B+ to creators over the last four years and the number of YouTube channels making over $100K from TV screens has jumped 45% YoY &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250916/p26#a250916p26)
- - [YouTube unveils new generative AI tools for Shorts, including a custom version of Veo 3 called Veo 3 Fast, which includes sound, and an Edit with AI feature &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250916/p25#a250916p25)
- - [The China-US deal for TikTok could take another month to work out](https://www.theverge.com/news/778789/tiktok-us-china-deal-investors-oracle)<!-- TECH:END -->
+ - [Samsung details One UI 8 release schedule for dozens of devices](https://www.androidauthority.com/one-ui-8-release-schedule-3598136/)
+ - [Nory, which offers an AI-powered restaurant management system, raised a $37M Series B led by Kinnevik, bringing its total funding to $63M &lpar;Silicon Republic&rpar;](http://www.techmeme.com/250916/p34#a250916p34)
+ - [YouTube announces AI tools for podcasters, including one that turns video podcasts into clips and another that creates video for audio-only podcasts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250916/p33#a250916p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
