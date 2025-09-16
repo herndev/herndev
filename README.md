@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - ⏩ [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
- - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
+ - 💣 [It was definitely necessary](http://9gag.com/gag/amodZNd)
+ - ⏩ [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 👉 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)<!-- MEMES:END -->
 
 ---
 
