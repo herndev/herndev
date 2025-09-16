@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - ⏩ [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 👉 [If you put me in charge of interior design](http://9gag.com/gag/aLnb7bW)<!-- MEMES:END -->
+ - 💣 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - ⏩ [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
+ - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
 
 ---
 
