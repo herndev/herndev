@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gboard’s advanced proofreading tool sneaks onto one more Pixel phone](https://www.androidauthority.com/gboard-writing-tools-on-google-pixel-8-pro-3598005/)
  - [Here’s your first look at Samsung Health’s new AI-powered fitness assistant &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-health-assistant-first-look-3597999/)
- - [Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers &lpar;Brandon Russell/The Verge&rpar;](http://www.techmeme.com/250916/p6#a250916p6)
- - [Snapdragon 8 Elite Gen 5’s biggest rival is arriving next week](https://www.androidauthority.com/snapdragon-8-elite-gen-5-rival-launch-date-3597992/)<!-- TECH:END -->
+ - [Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers &lpar;Brandon Russell/The Verge&rpar;](http://www.techmeme.com/250916/p6#a250916p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
