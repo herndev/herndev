@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - ⏩ [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
- - 👉 [She thought he would come home alone](http://9gag.com/gag/aZZdYen)<!-- MEMES:END -->
+ - 💣 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - ⏩ [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
+ - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
 
 ---
 
