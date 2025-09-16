@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Pathfinder Quest board game encourages metagaming by letting you go back in time](https://www.polygon.com/pathfinder-quest-tabletop-game-backerkit/)
- - [The Elder Scrolls Online studio head says Microsoft&#39;s brutal cuts were &#39;super emotional… it was awful&#39;](https://www.pcgamer.com/games/mmo/the-elder-scrolls-online-studio-head-says-microsofts-brutal-cuts-were-super-emotional-it-was-awful/)
- - [KPop Demon Hunters Songwriter Reportedly Says He Used ChatGPT To Help Write One Of Its Biggest Songs](https://kotaku.com/kpop-demon-hunters-soda-pop-ai-vince-chatgpt-soundtrack-2000626044)<!-- GAME:END -->
+ - [When will The Fantastic Four: First Steps be streaming on Disney Plus?](https://www.polygon.com/fantastic-four-first-steps-streaming-release-disney-plus/)
+ - [&#39;Great Taste of Pharloom&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-great-taste-of-pharloom-quest-walkthrough/)
+ - [Game Awards 2025: All Game of the Year front-runners and predictions](https://www.polygon.com/awards/546327/game-of-the-year-game-awards-2025-frontrunners/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
