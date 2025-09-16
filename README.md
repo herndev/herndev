@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Splinter Cell: Deathwatch trailer is action-packed, but there&#39;s a Michael Ironside-shaped hole](https://www.pcgamer.com/movies-tv/the-new-splinter-cell-deathwatch-trailer-is-action-packed-but-theres-a-michael-ironside-shaped-hole/)
- - [Diablo 4&#39;s new &#39;Chaos armor&#39; is a card game-inspired response to criticisms over boring seasonal powers](https://www.pcgamer.com/games/rpg/diablo-4s-new-chaos-armor-is-a-card-game-inspired-response-to-criticisms-over-boring-seasonal-powers/)
- - [New Splinter Cell Show Trailer Seems To Pick A Canon Ending For Chaos Theory](https://kotaku.com/new-splinter-cell-trailer-netflix-deathwatch-chaos-theory-ending-john-wick-2000626077)<!-- GAME:END -->
+ - [TikTok users in the US will reportedly have to move to a new app with new American owners when Trump deal takes effect](https://www.pcgamer.com/gaming-industry/tiktok-users-in-the-us-will-reportedly-have-to-move-to-a-new-app-with-new-american-owners-when-trump-deal-takes-effect/)
+ - [Borderlands 4 guides and walkthroughs](https://www.polygon.com/borderlands-4-guides-walkthroughs-quest-tips-locations/)
+ - [How Shift Codes And Gold Keys Work In Borderlands 4](https://kotaku.com/how-shift-codes-gold-keys-work-borderlands-4-help-get-more-2000626107)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
