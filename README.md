@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Baby Steps&#39; Is a Hiking Game That Trolls ‘Slightly Problematic’ Men](https://www.wired.com/story/baby-steps-is-a-hiking-game-that-trolls-slightly-problematic-men/)
- - [Bernstein restarts AAPL coverage with $290 price target](https://appleinsider.com/articles/25/09/16/bernstein-restarts-aapl-coverage-with-290-price-target?utm_source=rss)
- - [Jack Altman&#39;s Alt Capital raised $275M for a new fund to lead more Series A rounds at AI startups, a jump from the $150M fund it closed in February 2024 &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250916/p39#a250916p39)<!-- TECH:END -->
+ - [Charlie Kirk Shooting Suspect Charged as Prosecutor Seeks Death Penalty](https://www.wired.com/story/charlie-kirk-shooting-suspect-tyler-robinson-charged-death-penalty/)
+ - [AirPods Pro 3 review: The best true wireless earbuds get even better](https://appleinsider.com/articles/25/09/15/airpods-pro-3-review-the-best-true-wireless-earbuds-get-even-better?utm_source=rss)
+ - [YouTube Music’s new features will help you get exclusives from your favorite creators](https://www.androidauthority.com/youtube-music-new-fan-tools-3598211/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
