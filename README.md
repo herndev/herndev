@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TikTok users in the US will reportedly have to move to a new app with new American owners when Trump deal takes effect](https://www.pcgamer.com/gaming-industry/tiktok-users-in-the-us-will-reportedly-have-to-move-to-a-new-app-with-new-american-owners-when-trump-deal-takes-effect/)
- - [Borderlands 4 guides and walkthroughs](https://www.polygon.com/borderlands-4-guides-walkthroughs-quest-tips-locations/)
- - [How Shift Codes And Gold Keys Work In Borderlands 4](https://kotaku.com/how-shift-codes-gold-keys-work-borderlands-4-help-get-more-2000626107)<!-- GAME:END -->
+ - [Destiny 2&#39;s latest game-breaking bug: Players can no longer respawn in solo activities... Like, at all](https://www.pcgamer.com/games/fps/destiny-2s-latest-game-breaking-bug-players-can-no-longer-respawn-in-solo-activities-like-at-all/)
+ - [Escape from Tarkov owners will have to buy it again if they want to play through Steam, and the Steam version will require a Battlestate account anyway](https://www.pcgamer.com/games/fps/escape-from-tarkov-owners-will-have-to-buy-it-again-if-they-want-to-play-through-steam-and-the-steam-version-will-require-a-battlestate-account-anyway/)
+ - [TikTok users in the US will reportedly have to move to a new app with new American owners when Trump deal takes effect](https://www.pcgamer.com/gaming-industry/tiktok-users-in-the-us-will-reportedly-have-to-move-to-a-new-app-with-new-american-owners-when-trump-deal-takes-effect/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
