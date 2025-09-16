@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - ⏩ [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
- - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)<!-- MEMES:END -->
+ - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - ⏩ [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---
 
