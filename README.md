@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
+ - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
  - ⏩ [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 👉 [He is ....](http://9gag.com/gag/aD2P57Z)<!-- MEMES:END -->
+ - 👉 [If you put me in charge of interior design](http://9gag.com/gag/aLnb7bW)<!-- MEMES:END -->
 
 ---
 
