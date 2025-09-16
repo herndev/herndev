@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
- - ⏩ [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
- - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
+ - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - ⏩ [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 👉 [Who feels the same way](http://9gag.com/gag/aryd7EV)<!-- MEMES:END -->
 
 ---
 
