@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you do it](http://9gag.com/gag/aPApqrw)
- - ⏩ [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
- - 👉 [Dad had a whole other life out there](http://9gag.com/gag/aZZdYGV)<!-- MEMES:END -->
+ - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - ⏩ [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
+ - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
 
 ---
 
