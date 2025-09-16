@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Charlie Kirk Shooting Suspect Charged as Prosecutor Seeks Death Penalty](https://www.wired.com/story/charlie-kirk-shooting-suspect-tyler-robinson-charged-death-penalty/)
- - [AirPods Pro 3 review: The best true wireless earbuds get even better](https://appleinsider.com/articles/25/09/15/airpods-pro-3-review-the-best-true-wireless-earbuds-get-even-better?utm_source=rss)
- - [YouTube Music’s new features will help you get exclusives from your favorite creators](https://www.androidauthority.com/youtube-music-new-fan-tools-3598211/)<!-- TECH:END -->
+ - [Power station deal: Ampace Andes 1500 plummets to its record-low price!](https://www.androidauthority.com/ampace-andes-1500-power-station-deal-4-3598244/)
+ - [Online services marketplace Fiverr lays off 30% of its workforce, or about 250 people, as part of a restructuring to become &quot;an AI-first company&quot; &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250916/p44#a250916p44)
+ - [Consumer Reports asks Microsoft to keep supporting Windows 10](https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
