@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Power station deal: Ampace Andes 1500 plummets to its record-low price!](https://www.androidauthority.com/ampace-andes-1500-power-station-deal-4-3598244/)
- - [Online services marketplace Fiverr lays off 30% of its workforce, or about 250 people, as part of a restructuring to become &quot;an AI-first company&quot; &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250916/p44#a250916p44)
- - [Consumer Reports asks Microsoft to keep supporting Windows 10](https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft)<!-- TECH:END -->
+ - [OpenAI Rolls Out Teen Safety Features Amid Growing Scrutiny](https://www.wired.com/story/openai-launches-teen-safety-features/)
+ - [Sam Altman says ChatGPT will stop talking about suicide with teens](https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens)
+ - [Apple Watch Ultra 3 review: a more significant upgrade than the Ultra 2, with emergency SOS via satellite, 5G, a 42-hour battery life, and a bigger display &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250916/p47#a250916p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
