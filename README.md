@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
- - ⏩ [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
- - 👉 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)<!-- MEMES:END -->
+ - ⏩ [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 ---
 
