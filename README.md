@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing wants to build ambitious new products, including smart glasses](https://www.androidauthority.com/nothing-ceo-carl-pei-smart-glasses-3597996/)
- - [China says US spin-off of TikTok will use ByteDance&#39;s Chinese algorithm and the deal with the US includes &quot;licensing the algorithm and other IP rights&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p7#a250916p7)
- - [This upcoming Android flagship will offer a video feature not even the iPhone has](https://www.androidauthority.com/vivo-iphone-cinematic-mode-quality-3598038/)<!-- TECH:END -->
+ - [Dolphin update makes GameCube and Wii games far less likely to crash](https://www.androidauthority.com/dolphin-update-2509-3598054/)
+ - [Sources: Nvidia&#39;s China-only RTX 6000D receives lukewarm demand, with some seeing it as expensive given its performance lags the RTX 5090 &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p8#a250916p8)
+ - [AI Is Bad at Sudoku. It&#39;s Even Worse at Showing Its Work](https://www.cnet.com/tech/services-and-software/ai-is-bad-at-sudoku-its-even-worse-at-showing-its-work/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
