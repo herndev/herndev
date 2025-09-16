@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 16 &lpar;#1550&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-16-2025/)
  - [Those years of Silksong memes were no joke: Even Borderlands 4 can&#39;t escape its shadow after their first weekends on Steam](https://www.pcgamer.com/games/action/those-years-of-silksong-memes-were-no-joke-even-borderlands-4-cant-escape-its-shadow-after-their-first-weekends-on-steam/)
- - [Seamlessly Access Your Gaming Library, Apps, and Play History in One Place with Xbox on Windows PCs and Handheld](https://news.xbox.com/en-us/2025/09/15/access-gaming-library-xbox-on-windows-pc-and-handheld/)
- - [Hollow Knight: Silksong player melts its hardest bosses with an endless fountain of tools: &#39;I think I unlocked easy mode&#39;](https://www.pcgamer.com/games/action/hollow-knight-silksong-player-melts-its-hardest-bosses-with-an-endless-fountain-of-tools-i-think-i-unlocked-easy-mode/)<!-- GAME:END -->
+ - [Seamlessly Access Your Gaming Library, Apps, and Play History in One Place with Xbox on Windows PCs and Handheld](https://news.xbox.com/en-us/2025/09/15/access-gaming-library-xbox-on-windows-pc-and-handheld/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
