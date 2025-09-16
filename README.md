@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Shift codes for Borderlands 4](https://www.polygon.com/borderlands-4-active-shift-codes-redeem/)
- - [All crest locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-crest-locations/)
- - [‘Vend of the Line’ quest walkthrough in Borderlands 4](https://www.polygon.com/borderlands-4-vend-of-the-line-quest-walkthrough-legendary-vending-machine/)<!-- GAME:END -->
+ - [The new Splinter Cell: Deathwatch trailer is action-packed, but there&#39;s a Michael Ironside-shaped hole](https://www.pcgamer.com/movies-tv/the-new-splinter-cell-deathwatch-trailer-is-action-packed-but-theres-a-michael-ironside-shaped-hole/)
+ - [Diablo 4&#39;s new &#39;Chaos armor&#39; is a card game-inspired response to criticisms over boring seasonal powers](https://www.pcgamer.com/games/rpg/diablo-4s-new-chaos-armor-is-a-card-game-inspired-response-to-criticisms-over-boring-seasonal-powers/)
+ - [New Splinter Cell Show Trailer Seems To Pick A Canon Ending For Chaos Theory](https://kotaku.com/new-splinter-cell-trailer-netflix-deathwatch-chaos-theory-ending-john-wick-2000626077)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
