@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering boss promises precons for &#39;future&#39; Marvel sets  — just not for Spider-Man](https://www.polygon.com/mtg-marvel-spider-man-precons-commander-decks/)
- - [Escape From Tarkov On Steam Will Require A Separate Purchase](https://kotaku.com/escape-from-tarkov-1-0-arena-steam-epic-unheard-edition-2000626063)
- - [Battlefield 6 Devs Were Extremely Focused On Optimization And Performance](https://kotaku.com/battlefield-6-framerate-fps-xbox-series-s-ps5-2000626043)<!-- GAME:END -->
+ - [All Shift codes for Borderlands 4](https://www.polygon.com/borderlands-4-active-shift-codes-redeem/)
+ - [All crest locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-crest-locations/)
+ - [‘Vend of the Line’ quest walkthrough in Borderlands 4](https://www.polygon.com/borderlands-4-vend-of-the-line-quest-walkthrough-legendary-vending-machine/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
