@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - ⏩ [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
- - 👉 [Sharia law at work.](http://9gag.com/gag/avyDwWW)<!-- MEMES:END -->
+ - 💣 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
+ - ⏩ [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 👉 [He is ....](http://9gag.com/gag/aD2P57Z)<!-- MEMES:END -->
 
 ---
 
