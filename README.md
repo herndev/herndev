@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - ⏩ [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 👉 [Help me](http://9gag.com/gag/a34xrwQ)<!-- MEMES:END -->
+ - 💣 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
+ - ⏩ [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 👉 [One of these is not like the others](http://9gag.com/gag/aRByGvA)<!-- MEMES:END -->
 
 ---
 
