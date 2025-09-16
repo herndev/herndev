@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&amp;#8217;s new smart glasses are coming this week](https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect)
- - [Investor docs: Revolut reported Q2 revenue up 46% YoY to £1.01B and is on track to deliver more than £4.1B in 2025 annual revenue, up from £3.1B in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250916/p14#a250916p14)
- - [A look at prediction markets Kalshi and Polymarket; Kalshi has ~$1B in current monthly volume and processed $6.9B in total, including $6.4B since October 2024 &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/250916/p13#a250916p13)<!-- TECH:END -->
+ - [Apple Watch Series 11 review roundup: Battery life is the biggest benefit](https://appleinsider.com/articles/25/09/16/apple-watch-series-11-review-roundup-battery-life-is-the-biggest-benefit?utm_source=rss)
+ - [The Best Ventless Fireplaces for Cozy Vibes &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-ventless-fireplaces/)
+ - [Filing: cloud cybersecurity software startup Netskope raised its IPO price range to $17-$19 per share, up from $15-$17, aiming to raise $908.2M, up from $812.6M &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250916/p16#a250916p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
