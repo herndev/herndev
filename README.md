@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dolphin update makes GameCube and Wii games far less likely to crash](https://www.androidauthority.com/dolphin-update-2509-3598054/)
- - [Sources: Nvidia&#39;s China-only RTX 6000D receives lukewarm demand, with some seeing it as expensive given its performance lags the RTX 5090 &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p8#a250916p8)
- - [AI Is Bad at Sudoku. It&#39;s Even Worse at Showing Its Work](https://www.cnet.com/tech/services-and-software/ai-is-bad-at-sudoku-its-even-worse-at-showing-its-work/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iPhone 17 just made USB-C charging even more of a nightmare](https://www.androidauthority.com/iphone-17-usb-c-nightmare-3597605/)
+ - [Seon, which uses AI to detect and prevent fraud, raised an $80M Series C led by Sixth Street Growth, bringing its total funding to $187M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250916/p10#a250916p10)
+ - [Human Design Is Blowing Up. Following It Might Make You Leave Your Spouse](https://www.wired.com/story/human-design-is-blowing-up-following-it-might-make-you-leave-your-spouse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
