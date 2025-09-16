@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
- - ⏩ [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
- - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
+ - 💣 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
+ - ⏩ [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
 
 ---
 
