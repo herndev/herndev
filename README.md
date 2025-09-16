@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip design software maker Cadence agrees to acquire Stockholm-based Hexagon&#39;s design and simulation software business for ~$3.18B in cash and stock &lpar;Nathan Owens/Manufacturing Dive&rpar;](http://www.techmeme.com/250916/p37#a250916p37)
- - [Google is finally changing its tune about call recording on Pixel phones](https://www.androidauthority.com/pixel-call-recording-3598192/)
- - [Google&amp;#8217;s new Windows desktop app brings a Spotlight-like search bar to PC](https://www.theverge.com/news/778940/google-app-windows-launch)<!-- TECH:END -->
+ - [&#39;Baby Steps&#39; Is a Hiking Game That Trolls ‘Slightly Problematic’ Men](https://www.wired.com/story/baby-steps-is-a-hiking-game-that-trolls-slightly-problematic-men/)
+ - [Bernstein restarts AAPL coverage with $290 price target](https://appleinsider.com/articles/25/09/16/bernstein-restarts-aapl-coverage-with-290-price-target?utm_source=rss)
+ - [Jack Altman&#39;s Alt Capital raised $275M for a new fund to lead more Series A rounds at AI startups, a jump from the $150M fund it closed in February 2024 &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250916/p39#a250916p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
