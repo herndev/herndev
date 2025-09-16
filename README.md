@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Witnessing a ship launch is quite a spectacle](http://9gag.com/gag/aD2P5gN)
- - ⏩ [This is how you do it](http://9gag.com/gag/aPApqrw)
- - 👉 [It was definitely necessary](http://9gag.com/gag/amodZNd)<!-- MEMES:END -->
+ - 💣 [Just Himeno dropping by](http://9gag.com/gag/apRdwND)
+ - ⏩ [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - 👉 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)<!-- MEMES:END -->
 
 ---
 
