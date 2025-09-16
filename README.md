@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard’s advanced proofreading tool sneaks onto one more Pixel phone](https://www.androidauthority.com/gboard-writing-tools-on-google-pixel-8-pro-3598005/)
- - [Here’s your first look at Samsung Health’s new AI-powered fitness assistant &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-health-assistant-first-look-3597999/)
- - [Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers &lpar;Brandon Russell/The Verge&rpar;](http://www.techmeme.com/250916/p6#a250916p6)<!-- TECH:END -->
+ - [Nothing wants to build ambitious new products, including smart glasses](https://www.androidauthority.com/nothing-ceo-carl-pei-smart-glasses-3597996/)
+ - [China says US spin-off of TikTok will use ByteDance&#39;s Chinese algorithm and the deal with the US includes &quot;licensing the algorithm and other IP rights&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p7#a250916p7)
+ - [This upcoming Android flagship will offer a video feature not even the iPhone has](https://www.androidauthority.com/vivo-iphone-cinematic-mode-quality-3598038/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
