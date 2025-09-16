@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches the Agent Payments Protocol, or AP2, designed to securely facilitate agent-led payments across platforms, with the support of over 60 companies &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250916/p20#a250916p20)
- - [Secure your family&#39;s data from scammers with Incogni&#39;s Family &amp; Friends plan](https://appleinsider.com/articles/25/09/16/secure-your-familys-data-from-scammers-with-incognis-family-friends-plan?utm_source=rss)
- - [How to Clean AirPods &lpar;and Other Earbuds&rpar;](https://www.wired.com/story/how-to-clean-earbuds-and-airpods/)<!-- TECH:END -->
+ - [YouTube says it has paid out $100B+ to creators over the last four years and the number of YouTube channels making over $100K from TV screens has jumped 45% YoY &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250916/p26#a250916p26)
+ - [YouTube unveils new generative AI tools for Shorts, including a custom version of Veo 3 called Veo 3 Fast, which includes sound, and an Edit with AI feature &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250916/p25#a250916p25)
+ - [The China-US deal for TikTok could take another month to work out](https://www.theverge.com/news/778789/tiktok-us-china-deal-investors-oracle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
