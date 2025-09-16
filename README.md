@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 17 just made USB-C charging even more of a nightmare](https://www.androidauthority.com/iphone-17-usb-c-nightmare-3597605/)
- - [Seon, which uses AI to detect and prevent fraud, raised an $80M Series C led by Sixth Street Growth, bringing its total funding to $187M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250916/p10#a250916p10)
- - [Human Design Is Blowing Up. Following It Might Make You Leave Your Spouse](https://www.wired.com/story/human-design-is-blowing-up-following-it-might-make-you-leave-your-spouse/)<!-- TECH:END -->
+ - [Meta&amp;#8217;s new smart glasses are coming this week](https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect)
+ - [Investor docs: Revolut reported Q2 revenue up 46% YoY to £1.01B and is on track to deliver more than £4.1B in 2025 annual revenue, up from £3.1B in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250916/p14#a250916p14)
+ - [A look at prediction markets Kalshi and Polymarket; Kalshi has ~$1B in current monthly volume and processed $6.9B in total, including $6.4B since October 2024 &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/250916/p13#a250916p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
