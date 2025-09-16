@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 11 review roundup: Battery life is the biggest benefit](https://appleinsider.com/articles/25/09/16/apple-watch-series-11-review-roundup-battery-life-is-the-biggest-benefit?utm_source=rss)
- - [The Best Ventless Fireplaces for Cozy Vibes &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-ventless-fireplaces/)
- - [Filing: cloud cybersecurity software startup Netskope raised its IPO price range to $17-$19 per share, up from $15-$17, aiming to raise $908.2M, up from $812.6M &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250916/p16#a250916p16)<!-- TECH:END -->
+ - [Google launches the Agent Payments Protocol, or AP2, designed to securely facilitate agent-led payments across platforms, with the support of over 60 companies &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250916/p20#a250916p20)
+ - [Secure your family&#39;s data from scammers with Incogni&#39;s Family &amp; Friends plan](https://appleinsider.com/articles/25/09/16/secure-your-familys-data-from-scammers-with-incognis-family-friends-plan?utm_source=rss)
+ - [How to Clean AirPods &lpar;and Other Earbuds&rpar;](https://www.wired.com/story/how-to-clean-earbuds-and-airpods/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
