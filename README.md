@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When will The Fantastic Four: First Steps be streaming on Disney Plus?](https://www.polygon.com/fantastic-four-first-steps-streaming-release-disney-plus/)
- - [&#39;Great Taste of Pharloom&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-great-taste-of-pharloom-quest-walkthrough/)
- - [Game Awards 2025: All Game of the Year front-runners and predictions](https://www.polygon.com/awards/546327/game-of-the-year-game-awards-2025-frontrunners/)<!-- GAME:END -->
+ - [Magic: The Gathering boss promises precons for &#39;future&#39; Marvel sets  — just not for Spider-Man](https://www.polygon.com/mtg-marvel-spider-man-precons-commander-decks/)
+ - [Escape From Tarkov On Steam Will Require A Separate Purchase](https://kotaku.com/escape-from-tarkov-1-0-arena-steam-epic-unheard-edition-2000626063)
+ - [Battlefield 6 Devs Were Extremely Focused On Optimization And Performance](https://kotaku.com/battlefield-6-framerate-fps-xbox-series-s-ps5-2000626043)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
