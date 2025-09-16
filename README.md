@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Those years of Silksong memes were no joke: Even Borderlands 4 can&#39;t escape its shadow after their first weekends on Steam](https://www.pcgamer.com/games/action/those-years-of-silksong-memes-were-no-joke-even-borderlands-4-cant-escape-its-shadow-after-their-first-weekends-on-steam/)
  - [Seamlessly Access Your Gaming Library, Apps, and Play History in One Place with Xbox on Windows PCs and Handheld](https://news.xbox.com/en-us/2025/09/15/access-gaming-library-xbox-on-windows-pc-and-handheld/)
- - [Hollow Knight: Silksong player melts its hardest bosses with an endless fountain of tools: &#39;I think I unlocked easy mode&#39;](https://www.pcgamer.com/games/action/hollow-knight-silksong-player-melts-its-hardest-bosses-with-an-endless-fountain-of-tools-i-think-i-unlocked-easy-mode/)
- - [Silksong has sold more than 3.2 million copies on Steam in less than 2 weeks, industry analyst firm estimates](https://www.pcgamer.com/games/action/silksong-has-sold-more-than-3-2-million-copies-on-steam-in-less-than-2-weeks-industry-analyst-firm-estimates/)<!-- GAME:END -->
+ - [Hollow Knight: Silksong player melts its hardest bosses with an endless fountain of tools: &#39;I think I unlocked easy mode&#39;](https://www.pcgamer.com/games/action/hollow-knight-silksong-player-melts-its-hardest-bosses-with-an-endless-fountain-of-tools-i-think-i-unlocked-easy-mode/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
