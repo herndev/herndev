@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)
- - ⏩ [Witnessing a ship launch is quite a spectacle](http://9gag.com/gag/aD2P5gN)
- - 👉 [It was definitely necessary](http://9gag.com/gag/amodZNd)<!-- MEMES:END -->
+ - 💣 [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
+ - ⏩ [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---
 
