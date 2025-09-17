@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Astro A20 X headset was made for multi-console homes](https://www.theverge.com/news/776006/astro-a20x-headset-switch-ps5-xbox-price-features)
- - [Google Discover is making it easier to keep up with your favorite creators like Android Authority](https://www.androidauthority.com/google-discover-follow-creators-publishers-3598668/)
- - [Low-cost MacBook rumored enter mass production shortly](https://appleinsider.com/articles/25/09/17/low-cost-macbook-rumored-enter-mass-production-shortly?utm_source=rss)<!-- TECH:END -->
+ - [Fired CDC Director Says RFK Jr. Pressured Her to Blindly Approve Vaccine Changes](https://www.wired.com/story/susan-monarez-fired-cdc-director-senate-testimony/)
+ - [Mac Studio M3 Ultra owners can&#39;t install macOS Tahoe yet](https://appleinsider.com/articles/25/09/17/mac-studio-m3-ultra-owners-cant-install-macos-tahoe-yet?utm_source=rss)
+ - [Liquid Glass dark mode is giving iOS users vertigo](https://www.androidauthority.com/liquid-glass-vertigo-3598657/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
