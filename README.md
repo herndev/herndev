@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China told ByteDance, Alibaba, and others to stop testing and ordering Nvidia&#39;s RTX Pro 6000D, a stronger ban than earlier guidance focused on H20 &lpar;Financial Times&rpar;](http://www.techmeme.com/250917/p10#a250917p10)
- - [The Hang Seng Tech Index, which tracks the top 30 Hong Kong-listed tech stocks, rose ~3.9% to its highest level since November 2021, amid renewed AI enthusiasm &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250917/p9#a250917p9)
- - [Chinese state media: Alibaba has secured China Unicom as a major client for its AI chips; earlier reports said Alibaba was supplying tens of thousands of chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p8#a250917p8)<!-- TECH:END -->
+ - [Business Insider reportedly tells journalists they can use AI to draft stories](https://www.theverge.com/news/779739/business-insider-ai-writing-stories)
+ - [Kuo: the OLED MacBook Pro, expected to enter mass production by late 2026, will feature a touchscreen display &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250917/p13#a250917p13)
+ - [Pixel 10 series finally joins the Android Beta Program](https://www.androidauthority.com/pixel-10-android-beta-program-3598460/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
