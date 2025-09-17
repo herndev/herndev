@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And if she escapes and calls the police, they put HER in prison.](http://9gag.com/gag/a4Px0mA)
- - ⏩ [Booooo](http://9gag.com/gag/a87nRz6)
- - 👉 [If you put me in charge of interior design](http://9gag.com/gag/aLnb7bW)<!-- MEMES:END -->
+ - 💣 [When you did a f**k up as a dad](http://9gag.com/gag/aqydPov)
+ - ⏩ [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 👉 [Booooo](http://9gag.com/gag/a87nRz6)<!-- MEMES:END -->
 
 ---
 
