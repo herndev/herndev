@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
  - ⏩ [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
+ - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
 
 ---
 
