@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - ⏩ [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - ⏩ [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
  - 👉 [He is ....](http://9gag.com/gag/aD2P57Z)<!-- MEMES:END -->
 
 ---
