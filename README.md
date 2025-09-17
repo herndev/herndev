@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The World Shipping Council launches an AI tool to scan millions of bookings in real time to identify risks of cargo fires, which reached a decade-high in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250917/p1#a250917p1)
- - [Google’s new app shows Microsoft how desktop search should work](https://www.androidauthority.com/google-app-for-windows-3598377/)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alibaba, Tencent, and Baidu have raised $5B+ via bonds this month for AI and digital infra; with JD.com, their combined 2025 AI capex is projected to top $32B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p4#a250917p4)
+ - [Foxmont and BCG report: Philippine startups raised a record $1.12B in 2024, up 16.7% YoY, with foreign investment rising to 52.5%, but regulatory hurdles remain &lpar;Ramon Royandoyan/Nikkei Asia&rpar;](http://www.techmeme.com/250917/p3#a250917p3)
+ - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
