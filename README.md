@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
- - ⏩ [And if she escapes and calls the police, they put HER in prison.](http://9gag.com/gag/a4Px0mA)
- - 👉 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)<!-- MEMES:END -->
+ - 💣 [And if she escapes and calls the police, they put HER in prison.](http://9gag.com/gag/a4Px0mA)
+ - ⏩ [Booooo](http://9gag.com/gag/a87nRz6)
+ - 👉 [If you put me in charge of interior design](http://9gag.com/gag/aLnb7bW)<!-- MEMES:END -->
 
 ---
 
