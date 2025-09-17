@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men will be men](http://9gag.com/gag/aPApbdV)
- - ⏩ [Not scanning a QR for the menu, standing with the boomers on this one](http://9gag.com/gag/aVvdpZy)
- - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
+ - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - ⏩ [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
 
 ---
 
