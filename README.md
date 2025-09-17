@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
- - ⏩ [When the CEO tells you to code your own game engine](http://9gag.com/gag/ayNzKKq)
+ - 💣 [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - ⏩ [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
  - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
 
 ---
