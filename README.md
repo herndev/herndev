@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 review roundup -- the best iPhone for almost everyone](https://appleinsider.com/articles/25/09/17/iphone-17-review-roundup----the-best-iphone-for-almost-everyone?utm_source=rss)
- - [How to watch Mark Zuckerberg’s keynote at Meta Connect 2025](https://www.theverge.com/news/777565/meta-connect-2025-how-to-watch-keynote-mark-zuckerberg)
- - [Track power outages in real time across the US with the Ting app](https://www.theverge.com/science/779089/power-outage-blackout-map-app-ting)<!-- TECH:END -->
+ - [Jensen Huang Has Gone Nano Bananas!](https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/)
+ - [Custom chips and thermal monitoring at heart of Apple&#39;s 40W Dynamic Power Adapter](https://appleinsider.com/articles/25/09/17/custom-chips-and-thermal-monitoring-at-heart-of-apples-40w-dynamic-power-adapter?utm_source=rss)
+ - [Casio’s stress-relieving furry robot is coming to the US](https://www.theverge.com/news/779857/casio-robot-furry-pet-moflin-us-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
