@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can now explore a bitesize chunk of the Necropolis thanks to the Little Nightmares 3 demo](https://www.pcgamer.com/games/horror/you-can-now-explore-a-bitesize-chunk-of-the-necropolis-thanks-to-the-little-nightmares-3-demo/)
- - [Rejoice, Counter-Strike&#39;s grenades now sound crisp and clear as a chorus of angels—plus subtick shooting is either better or the fanbase is experiencing a shared delusion](https://www.pcgamer.com/games/fps/rejoice-counter-strikes-grenades-now-sound-crisp-and-clear-as-a-chorus-of-angels-plus-subtick-shooting-is-either-better-or-the-fanbase-is-experiencing-a-shared-delusion/)
- - [It turns out Borderlands 4&#39;s weakest character can do a quadrillion damage in a single punch](https://www.pcgamer.com/games/fps/borderlands-4-amon-infinite-melee-damage-one-punch-build/)<!-- GAME:END -->
+ - [Good news for Windows handhelds: Microsoft is now letting you launch installed Steam, Battle.net, and other storefront games from the Xbox app](https://www.pcgamer.com/software/windows/good-news-for-windows-handhelds-microsoft-is-now-letting-you-launch-installed-steam-battle-net-and-other-storefront-games-from-the-xbox-app/)
+ - [A Californian company wants to sell you an outrageously expensive $8,000 keyboard supposedly inspired by a Roman philosopher, but did the Stoics really go in for conspicuous consumption?](https://www.pcgamer.com/hardware/gaming-keyboards/a-californian-company-wants-to-sell-you-an-outrageously-expensive-usd8-000-keyboard-supposedly-inspired-by-a-roman-philosopher-but-did-the-stoics-really-go-in-for-conspicuous-consumption/)
+ - [KPop Demon Hunters has a new film on the way](https://www.polygon.com/kpop-demon-hunters-new-movie-debut-release/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
