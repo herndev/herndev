@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple made a strap, now Google has a rope to dangle your Pixel from your wrist](https://www.androidauthority.com/google-rope-wristlet-3598371/)
- - [Tencent and Baidu sold $3.3B combined in offshore bonds this year, the most ever for Chinese tech companies, as companies secure cheap financing for AI buildout &lpar;Janice Huang/Bloomberg&rpar;](http://www.techmeme.com/250916/p60#a250916p60)
- - [China calls US-China framework deal to move TikTok&#39;s US business to American ownership a &quot;win-win&quot;; Trump and Xi are expected to confirm the agreement on Friday &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p59#a250916p59)<!-- TECH:END -->
+ - [The World Shipping Council launches an AI tool to scan millions of bookings in real time to identify risks of cargo fires, which reached a decade-high in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250917/p1#a250917p1)
+ - [Google’s new app shows Microsoft how desktop search should work](https://www.androidauthority.com/google-app-for-windows-3598377/)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
