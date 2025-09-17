@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
- - ⏩ [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 👉 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)<!-- MEMES:END -->
+ - 💣 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - ⏩ [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)
+ - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
 
 ---
 
