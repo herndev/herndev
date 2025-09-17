@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
  - ⏩ [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 👉 [Sharia law at work.](http://9gag.com/gag/avyDwWW)<!-- MEMES:END -->
+ - 👉 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)<!-- MEMES:END -->
 
 ---
 
