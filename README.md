@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The next Silksong update helps the bosses but does little to allay our own, interminable suffering](https://www.pcgamer.com/games/action/the-next-silksong-update-helps-the-bosses-but-does-little-to-allay-our-own-interminable-suffering/)
  - [Alien: Earth&#39;s eyeball monster is scarier than ever in episode 7](https://www.polygon.com/alien-earth-eyeball-monster-episode-7/)
- - [The Valve rumor mill goes into overdrive as VR influencers travel to Seattle for what seems likely to be the imminent reveal of the Steam Frame](https://www.pcgamer.com/hardware/vr-hardware/the-valve-rumor-mill-goes-into-overdrive-as-vr-influencers-travel-to-seattle-for-what-seems-likely-to-be-the-imminent-reveal-of-the-steam-frame/)
- - [Destiny 2&#39;s latest game-breaking bug: Players can no longer respawn in solo activities... Like, at all](https://www.pcgamer.com/games/fps/destiny-2s-latest-game-breaking-bug-players-can-no-longer-respawn-in-solo-activities-like-at-all/)<!-- GAME:END -->
+ - [The Valve rumor mill goes into overdrive as VR influencers travel to Seattle for what seems likely to be the imminent reveal of the Steam Frame](https://www.pcgamer.com/hardware/vr-hardware/the-valve-rumor-mill-goes-into-overdrive-as-vr-influencers-travel-to-seattle-for-what-seems-likely-to-be-the-imminent-reveal-of-the-steam-frame/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
