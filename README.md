@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - ⏩ [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
+ - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - ⏩ [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 👉 [He is ....](http://9gag.com/gag/aD2P57Z)<!-- MEMES:END -->
 
 ---
 
