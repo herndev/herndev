@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arkheron preview: A Diablo-like looter with battle royale stakes](https://www.polygon.com/arkheron-bonfire-studios-rob-pardo-ex-blizzard/)
- - [Step Into the Necropolis in the Little Nightmares III Demo](https://news.xbox.com/en-us/2025/09/17/little-nightmares-3-demo/)
- - [Best SSD for gaming in 2025: the fastest and the best value solid state drives to perk up your PC](https://www.pcgamer.com/best-ssd-for-gaming/)<!-- GAME:END -->
+ - [The Sims 4&#39;s reality competition DLC is an awesome idea, with one potential catch](https://www.polygon.com/sims-4-adventure-awaits-get-famous/)
+ - [The Witcher: Blood Stone is a &#39;blood-soaked&#39; new adventure — here&#39;s an exclusive first look](https://www.polygon.com/the-witcher-blood-stone-dark-horse-comics/)
+ - [Creating Creepy Redneck Dinosaur Mansion 3](https://news.xbox.com/en-us/2025/09/17/creating-creepy-redneck-dinosaur-mansion-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
