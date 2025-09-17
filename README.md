@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4&#39;s reality competition DLC is an awesome idea, with one potential catch](https://www.polygon.com/sims-4-adventure-awaits-get-famous/)
- - [The Witcher: Blood Stone is a &#39;blood-soaked&#39; new adventure — here&#39;s an exclusive first look](https://www.polygon.com/the-witcher-blood-stone-dark-horse-comics/)
- - [Creating Creepy Redneck Dinosaur Mansion 3](https://news.xbox.com/en-us/2025/09/17/creating-creepy-redneck-dinosaur-mansion-3/)<!-- GAME:END -->
+ - [Aztec Batman review: This should have been a Wonder Woman movie](https://www.polygon.com/aztec-batman-clash-of-empires-movie-review/)
+ - [Chronicles: Alexander the Great for Age of Empires II: Definitive Edition – Pre-order Now](https://www.ageofempires.com/news/pre-order-chronicles-alexander-the-great-for-age-of-empires-ii-definitive-edition/#new_tab)
+ - [Henry Halfhead Gave Me Whimsical Whiplash In The Best Way](https://kotaku.com/henry-halfhead-review-cozy-sandbox-sim-switch-2000626517)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
