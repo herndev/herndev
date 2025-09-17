@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Aztec Batman review: This should have been a Wonder Woman movie](https://www.polygon.com/aztec-batman-clash-of-empires-movie-review/)
- - [Chronicles: Alexander the Great for Age of Empires II: Definitive Edition – Pre-order Now](https://www.ageofempires.com/news/pre-order-chronicles-alexander-the-great-for-age-of-empires-ii-definitive-edition/#new_tab)
- - [Henry Halfhead Gave Me Whimsical Whiplash In The Best Way](https://kotaku.com/henry-halfhead-review-cozy-sandbox-sim-switch-2000626517)<!-- GAME:END -->
+ - [Steal A Brainrot&#39;s massive success on Fortnite is making fans worry](https://www.polygon.com/fortnite-steal-a-brainrot-concurrents-peak-records-roblox-who-makes-it/)
+ - [Ubisoft&#39;s Saudi-funded Assassin&#39;s Creed DLC provokes staff unrest, but the publisher insists partnering with the controversial regime is A-OK: &#39;Talking with partners who do not share our democratic values ​​does not mean abandoning them&#39;](https://www.pcgamer.com/games/assassins-creed/ubisofts-saudi-funded-assassins-creed-dlc-provokes-staff-unrest-but-the-publisher-insists-partnering-with-the-controversial-regime-is-a-ok-talking-with-partners-who-do-not-share-our-democratic-values-does-not-mean-abandoning-them/)
+ - [&#39;Broodfeast&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-broodfeast-quest-walkthrough-seared-shredded-skewered-organs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
