@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Business Insider reportedly tells journalists they can use AI to draft stories](https://www.theverge.com/news/779739/business-insider-ai-writing-stories)
- - [Kuo: the OLED MacBook Pro, expected to enter mass production by late 2026, will feature a touchscreen display &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250917/p13#a250917p13)
- - [Pixel 10 series finally joins the Android Beta Program](https://www.androidauthority.com/pixel-10-android-beta-program-3598460/)<!-- TECH:END -->
+ - [Garmin&amp;#8217;s new Bounce watch for kids doubles the price, not the features](https://www.theverge.com/news/778318/garmin-bounce-2-lte-child-smartwatch-tracker-wearable)
+ - [Touchscreen MacBook Pro now predicted for late 2026](https://appleinsider.com/articles/25/09/17/touchscreen-macbook-pro-now-predicted-for-late-2026?utm_source=rss)
+ - [Nothing OS 4.0 teaser cues a sleeker UI, new clock styles, dashboard to track AI usage, more](https://www.androidauthority.com/nothing-os-4-android-16-teaser-3598457/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
