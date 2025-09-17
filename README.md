@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin&amp;#8217;s new Bounce watch for kids doubles the price, not the features](https://www.theverge.com/news/778318/garmin-bounce-2-lte-child-smartwatch-tracker-wearable)
- - [Touchscreen MacBook Pro now predicted for late 2026](https://appleinsider.com/articles/25/09/17/touchscreen-macbook-pro-now-predicted-for-late-2026?utm_source=rss)
- - [Nothing OS 4.0 teaser cues a sleeker UI, new clock styles, dashboard to track AI usage, more](https://www.androidauthority.com/nothing-os-4-android-16-teaser-3598457/)<!-- TECH:END -->
+ - [Apple’s iPhone 17 Pro is a bold redesign but a basic upgrade](https://www.theverge.com/tech/779265/iphone-17-pro-max-review)
+ - [The iPhone 17 is the one to get this year](https://www.theverge.com/tech/779568/iphone-17-review-apple-best-features)
+ - [EvoluteIQ, which offers a low-code AI platform for companies to design, deploy, and scale business processes, raised $53M led by Baird Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250917/p18#a250917p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
