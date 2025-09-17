@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple made a strap, now Google has a rope to dangle your Pixel from your wrist](https://www.androidauthority.com/google-rope-wristlet-3598371/)
  - [Tencent and Baidu sold $3.3B combined in offshore bonds this year, the most ever for Chinese tech companies, as companies secure cheap financing for AI buildout &lpar;Janice Huang/Bloomberg&rpar;](http://www.techmeme.com/250916/p60#a250916p60)
- - [China calls US-China framework deal to move TikTok&#39;s US business to American ownership a &quot;win-win&quot;; Trump and Xi are expected to confirm the agreement on Friday &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p59#a250916p59)
- - [Singapore-based used car marketplace Carro raised $60M led by Japan sovereign wealth fund Cool Japan Fund to promote Japanese cars in the Asia-Pacific region &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p58#a250916p58)<!-- TECH:END -->
+ - [China calls US-China framework deal to move TikTok&#39;s US business to American ownership a &quot;win-win&quot;; Trump and Xi are expected to confirm the agreement on Friday &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p59#a250916p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
