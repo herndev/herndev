@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is ....](http://9gag.com/gag/aD2P57Z)
- - ⏩ [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)
- - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
+ - 💣 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - ⏩ [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
 
 ---
 
