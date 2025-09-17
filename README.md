@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This next-gen flagship has a rear screen that’s basically the Z Flip 7’s cover display](https://www.androidauthority.com/xiaomi-17-pro-rear-screen-uses-3598397/)
- - [A profile of Song-Chun Zhu, an AI scientist and NSF and Pentagon grantee, who left the US after 28 years to lead China&#39;s state-backed AI institute BIGAI in 2020 &lpar;Chang Che/The Guardian&rpar;](http://www.techmeme.com/250917/p7#a250917p7)
- - [Meta Connect 2025: What&#39;s Next for Quest Headsets, Orion Smart Glasses and More](https://www.cnet.com/tech/meta-connect-2025-whats-next-for-quest-headsets-orion-smart-glasses-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: China told ByteDance, Alibaba, and others to stop testing and ordering Nvidia&#39;s RTX Pro 6000D, a stronger ban than earlier guidance focused on H20 &lpar;Financial Times&rpar;](http://www.techmeme.com/250917/p10#a250917p10)
+ - [The Hang Seng Tech Index, which tracks the top 30 Hong Kong-listed tech stocks, rose ~3.9% to its highest level since November 2021, amid renewed AI enthusiasm &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250917/p9#a250917p9)
+ - [Chinese state media: Alibaba has secured China Unicom as a major client for its AI chips; earlier reports said Alibaba was supplying tens of thousands of chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p8#a250917p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
