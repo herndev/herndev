@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can soon attend Zoom meetings as your AI avatar](https://www.theverge.com/news/779154/zoom-ai-photorealistic-avatars-live-translation)
- - [Google updates its Search app&#39;s Discover page to let users follow specific publishers and creators; it plans to add YouTube Shorts and X and Instagram posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250917/p33#a250917p33)
- - [Tariffs kill the Starling Home Hub, Google Nest’s best bridge to Apple Home](https://www.theverge.com/news/780013/starling-home-hub-discontinued-google-nest-apple-home-bridge)<!-- TECH:END -->
+ - [The Astro A20 X headset was made for multi-console homes](https://www.theverge.com/news/776006/astro-a20x-headset-switch-ps5-xbox-price-features)
+ - [Google Discover is making it easier to keep up with your favorite creators like Android Authority](https://www.androidauthority.com/google-discover-follow-creators-publishers-3598668/)
+ - [Low-cost MacBook rumored enter mass production shortly](https://appleinsider.com/articles/25/09/17/low-cost-macbook-rumored-enter-mass-production-shortly?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
