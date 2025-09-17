@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Irregular, which helps AI labs test their models&#39; for misuse, raised $80M across seed and Series A rounds led by Sequoia and Redpoint at a $450M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250917/p30#a250917p30)
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Nothing’s generous Phone 3 loyalty deal puts trade-ins to shame](https://www.androidauthority.com/nothing-phone-3-deal-3598583/)<!-- TECH:END -->
+ - [You can soon attend Zoom meetings as your AI avatar](https://www.theverge.com/news/779154/zoom-ai-photorealistic-avatars-live-translation)
+ - [Google updates its Search app&#39;s Discover page to let users follow specific publishers and creators; it plans to add YouTube Shorts and X and Instagram posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250917/p33#a250917p33)
+ - [Tariffs kill the Starling Home Hub, Google Nest’s best bridge to Apple Home](https://www.theverge.com/news/780013/starling-home-hub-discontinued-google-nest-apple-home-bridge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
