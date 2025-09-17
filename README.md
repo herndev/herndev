@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - ⏩ [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 👉 [Who feels the same way](http://9gag.com/gag/aryd7EV)<!-- MEMES:END -->
+ - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - ⏩ [He is ....](http://9gag.com/gag/aD2P57Z)
+ - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
 
 ---
 
