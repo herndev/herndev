@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - ⏩ [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 👉 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)<!-- MEMES:END -->
+ - 💣 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - ⏩ [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 👉 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)<!-- MEMES:END -->
 
 ---
 
