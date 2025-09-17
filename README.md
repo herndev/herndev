@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang Has Gone Nano Bananas!](https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/)
- - [Custom chips and thermal monitoring at heart of Apple&#39;s 40W Dynamic Power Adapter](https://appleinsider.com/articles/25/09/17/custom-chips-and-thermal-monitoring-at-heart-of-apples-40w-dynamic-power-adapter?utm_source=rss)
- - [Casio’s stress-relieving furry robot is coming to the US](https://www.theverge.com/news/779857/casio-robot-furry-pet-moflin-us-availability)<!-- TECH:END -->
+ - [Tesla agrees to settle another wrongful death lawsuit involving Autopilot](https://www.theverge.com/news/779850/tesla-settle-wrongful-death-autopilot-maldonado)
+ - [Israel-based Irregular, which works with leading AI labs like OpenAI to mitigate cybersecurity risks, raised $80M led by Sequoia Capital and Redpoint Ventures &lpar;Globes&rpar;](http://www.techmeme.com/250917/p28#a250917p28)
+ - [Kuxiu’s X40 Turbo lays claim to best 3-in-1 travel charger](https://www.theverge.com/tech/779884/kuxius-x40-turbo-lays-claim-to-best-3-in-1-travel-charger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
