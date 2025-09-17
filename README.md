@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t get stuck grinding in Borderlands 4&#39;s version of the Hinterlands—in fact, you&#39;re screwing yourself out of EXP if you try to do every sidequest before beating the main campaign](https://www.pcgamer.com/games/rpg/dont-get-stuck-grinding-in-borderlands-4s-version-of-the-hinterlands-in-fact-youre-screwing-yourself-out-of-exp-if-you-try-to-do-every-sidequest-before-beating-the-main-campaign/)
- - [Today&#39;s Wordle clues, hints and answer for September 17 &lpar;#1551&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-17-2025/)
- - [The next Silksong update helps the bosses but does little to allay our own, interminable suffering](https://www.pcgamer.com/games/action/the-next-silksong-update-helps-the-bosses-but-does-little-to-allay-our-own-interminable-suffering/)<!-- GAME:END -->
+ - [You can now explore a bitesize chunk of the Necropolis thanks to the Little Nightmares 3 demo](https://www.pcgamer.com/games/horror/you-can-now-explore-a-bitesize-chunk-of-the-necropolis-thanks-to-the-little-nightmares-3-demo/)
+ - [Rejoice, Counter-Strike&#39;s grenades now sound crisp and clear as a chorus of angels—plus subtick shooting is either better or the fanbase is experiencing a shared delusion](https://www.pcgamer.com/games/fps/rejoice-counter-strikes-grenades-now-sound-crisp-and-clear-as-a-chorus-of-angels-plus-subtick-shooting-is-either-better-or-the-fanbase-is-experiencing-a-shared-delusion/)
+ - [It turns out Borderlands 4&#39;s weakest character can do a quadrillion damage in a single punch](https://www.pcgamer.com/games/fps/borderlands-4-amon-infinite-melee-damage-one-punch-build/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
