@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steal A Brainrot&#39;s massive success on Fortnite is making fans worry](https://www.polygon.com/fortnite-steal-a-brainrot-concurrents-peak-records-roblox-who-makes-it/)
- - [Ubisoft&#39;s Saudi-funded Assassin&#39;s Creed DLC provokes staff unrest, but the publisher insists partnering with the controversial regime is A-OK: &#39;Talking with partners who do not share our democratic values ​​does not mean abandoning them&#39;](https://www.pcgamer.com/games/assassins-creed/ubisofts-saudi-funded-assassins-creed-dlc-provokes-staff-unrest-but-the-publisher-insists-partnering-with-the-controversial-regime-is-a-ok-talking-with-partners-who-do-not-share-our-democratic-values-does-not-mean-abandoning-them/)
- - [&#39;Broodfeast&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-broodfeast-quest-walkthrough-seared-shredded-skewered-organs/)<!-- GAME:END -->
+ - [A Theme Park Management Game Based On Mars Attacks! Is Here And It’s Good](https://kotaku.com/mars-attacks-attracts-theme-park-sim-builder-review-early-access-aliens-steam-2000626562)
+ - [All abandoned Auger mine locations in Borderlands 4](https://www.polygon.com/borderlands-4-all-abandoned-auger-mine-locations/)
+ - [Steal A Brainrot&#39;s massive success on Fortnite is making fans worry](https://www.polygon.com/fortnite-steal-a-brainrot-concurrents-peak-records-roblox-who-makes-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
