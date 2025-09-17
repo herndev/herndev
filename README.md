@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s iPhone 17 Pro is a bold redesign but a basic upgrade](https://www.theverge.com/tech/779265/iphone-17-pro-max-review)
- - [The iPhone 17 is the one to get this year](https://www.theverge.com/tech/779568/iphone-17-review-apple-best-features)
- - [EvoluteIQ, which offers a low-code AI platform for companies to design, deploy, and scale business processes, raised $53M led by Baird Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250917/p18#a250917p18)<!-- TECH:END -->
+ - [iPhone 17 review roundup -- the best iPhone for almost everyone](https://appleinsider.com/articles/25/09/17/iphone-17-review-roundup----the-best-iphone-for-almost-everyone?utm_source=rss)
+ - [How to watch Mark Zuckerberg’s keynote at Meta Connect 2025](https://www.theverge.com/news/777565/meta-connect-2025-how-to-watch-keynote-mark-zuckerberg)
+ - [Track power outages in real time across the US with the Ting app](https://www.theverge.com/science/779089/power-outage-blackout-map-app-ting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
