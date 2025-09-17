@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - ⏩ [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)
- - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
+ - 💣 [Here! I thought you would hate it..](http://9gag.com/gag/ae9dnLv)
+ - ⏩ [Why is the dangerous bear so cute](http://9gag.com/gag/ae9dnzp)
+ - 👉 [Not scanning a QR for the menu, standing with the boomers on this one](http://9gag.com/gag/aVvdpZy)<!-- MEMES:END -->
 
 ---
 
