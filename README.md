@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - ⏩ [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
+ - ⏩ [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 👉 [Sharia law at work.](http://9gag.com/gag/avyDwWW)<!-- MEMES:END -->
 
 ---
 
