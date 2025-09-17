@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Huzzah! Microsoft no longer makes the best PC controller and it&#39;s been dethroned by a brand you may not have heard of](https://www.pcgamer.com/hardware/controllers/huzzah-microsoft-no-longer-makes-the-best-pc-controller-and-its-been-dethroned-by-a-brand-you-may-not-have-heard-of/)
- - [Bandai Namco Condemns Mockups Of Gunpla Models Of Charlie Kirk’s Assassination](https://kotaku.com/charlie-kirk-assassination-bandai-namco-ai-model-gunpla-2000626472)
- - [Jack Black and Paul Rudd&#39;s Anaconda reboot movie is smart](https://www.polygon.com/anaconda-2025-movie-trailer-jack-black-paul-rudd/)<!-- GAME:END -->
+ - [I have finally played the best version of Battlefield 6, and of course it&#39;s big maps with lots of vehicles](https://www.pcgamer.com/games/fps/i-have-finally-played-the-best-version-of-battlefield-6-and-of-course-its-big-maps-with-lots-of-vehicles/)
+ - [How to get the Rainbow Vomit in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-rainbow-vomit-location/)
+ - [KPop Demon Hunters Is Getting A Short Film, And It Might Be Coming Pretty Soon](https://kotaku.com/kpop-demon-hunters-debut-short-film-rating-netflix-2000626490)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
