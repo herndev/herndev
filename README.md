@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here! I thought you would hate it..](http://9gag.com/gag/ae9dnLv)
- - ⏩ [Why is the dangerous bear so cute](http://9gag.com/gag/ae9dnzp)
- - 👉 [Not scanning a QR for the menu, standing with the boomers on this one](http://9gag.com/gag/aVvdpZy)<!-- MEMES:END -->
+ - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
+ - ⏩ [And if she escapes and calls the police, they put HER in prison.](http://9gag.com/gag/a4Px0mA)
+ - 👉 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)<!-- MEMES:END -->
 
 ---
 
