@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ambrosia Sky creators explain the cryptic FPS trailer](https://www.polygon.com/ambrosia-sky-sci-fi-fps-steam/)
- - [Xbox Game Camp Africa Returns for 2025](https://news.xbox.com/en-us/2025/09/17/xbox-game-camp-africa-2025/)
- - [Dying Light: The Beast PC performance analysis: Decent performance all round, mildly marred by the mystery of the missing ray tracing mode](https://www.pcgamer.com/hardware/dying-light-the-beast-pc-performance-analysis-decent-performance-all-round-mildly-marred-by-the-mystery-of-the-missing-ray-tracing-mode/)<!-- GAME:END -->
+ - [Huzzah! Microsoft no longer makes the best PC controller and it&#39;s been dethroned by a brand you may not have heard of](https://www.pcgamer.com/hardware/controllers/huzzah-microsoft-no-longer-makes-the-best-pc-controller-and-its-been-dethroned-by-a-brand-you-may-not-have-heard-of/)
+ - [Bandai Namco Condemns Mockups Of Gunpla Models Of Charlie Kirk’s Assassination](https://kotaku.com/charlie-kirk-assassination-bandai-namco-ai-model-gunpla-2000626472)
+ - [Jack Black and Paul Rudd&#39;s Anaconda reboot movie is smart](https://www.polygon.com/anaconda-2025-movie-trailer-jack-black-paul-rudd/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
