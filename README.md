@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla agrees to settle another wrongful death lawsuit involving Autopilot](https://www.theverge.com/news/779850/tesla-settle-wrongful-death-autopilot-maldonado)
- - [Israel-based Irregular, which works with leading AI labs like OpenAI to mitigate cybersecurity risks, raised $80M led by Sequoia Capital and Redpoint Ventures &lpar;Globes&rpar;](http://www.techmeme.com/250917/p28#a250917p28)
- - [Kuxiu’s X40 Turbo lays claim to best 3-in-1 travel charger](https://www.theverge.com/tech/779884/kuxius-x40-turbo-lays-claim-to-best-3-in-1-travel-charger)<!-- TECH:END -->
+ - [Irregular, which helps AI labs test their models&#39; for misuse, raised $80M across seed and Series A rounds led by Sequoia and Redpoint at a $450M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250917/p30#a250917p30)
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+ - [Nothing’s generous Phone 3 loyalty deal puts trade-ins to shame](https://www.androidauthority.com/nothing-phone-3-deal-3598583/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
