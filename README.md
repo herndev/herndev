@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to use the Twisted Bud in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-twisted-bud-how-to-use-rite-of-rebirth-infestation-operation/)
  - [After disappointing fans with a time-grated grind in beta, Blizzard turned WoW Legion Remix around just in time for its October release](https://www.pcgamer.com/games/world-of-warcraft/after-disappointing-fans-with-a-time-grated-grind-in-beta-blizzard-turned-wow-legion-remix-around-just-in-time-for-its-october-release/)
- - [Helldivers 2&#39;s new bugs are bugged, so Arrowhead&#39;s turning them off for 5 weeks to debug its bugged bugs&#39; bugs](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-bugs-are-bugged-so-arrowheads-turning-them-off-for-5-weeks-to-debug-its-bugged-bugs-bugs/)
- - [Do you know Jack? Take our quiz that&#39;s all about videogame characters named &lpar;or not named&rpar; Jack!](https://www.pcgamer.com/games/do-you-know-jack-take-our-quiz-thats-all-about-videogame-characters-named-or-not-named-jack/)<!-- GAME:END -->
+ - [Helldivers 2&#39;s new bugs are bugged, so Arrowhead&#39;s turning them off for 5 weeks to debug its bugged bugs&#39; bugs](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-bugs-are-bugged-so-arrowheads-turning-them-off-for-5-weeks-to-debug-its-bugged-bugs-bugs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
