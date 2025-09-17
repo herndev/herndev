@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I have finally played the best version of Battlefield 6, and of course it&#39;s big maps with lots of vehicles](https://www.pcgamer.com/games/fps/i-have-finally-played-the-best-version-of-battlefield-6-and-of-course-its-big-maps-with-lots-of-vehicles/)
- - [How to get the Rainbow Vomit in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-rainbow-vomit-location/)
- - [KPop Demon Hunters Is Getting A Short Film, And It Might Be Coming Pretty Soon](https://kotaku.com/kpop-demon-hunters-debut-short-film-rating-netflix-2000626490)<!-- GAME:END -->
+ - [Arkheron preview: A Diablo-like looter with battle royale stakes](https://www.polygon.com/arkheron-bonfire-studios-rob-pardo-ex-blizzard/)
+ - [Step Into the Necropolis in the Little Nightmares III Demo](https://news.xbox.com/en-us/2025/09/17/little-nightmares-3-demo/)
+ - [Best SSD for gaming in 2025: the fastest and the best value solid state drives to perk up your PC](https://www.pcgamer.com/best-ssd-for-gaming/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
