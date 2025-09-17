@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And if she escapes and calls the police, they put HER in prison.](http://9gag.com/gag/a4Px0mA)
- - ⏩ [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
- - 👉 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)<!-- MEMES:END -->
+ - 💣 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - ⏩ [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
 
 ---
 
