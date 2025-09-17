@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Silksong update helps the bosses but does little to allay our own, interminable suffering](https://www.pcgamer.com/games/action/the-next-silksong-update-helps-the-bosses-but-does-little-to-allay-our-own-interminable-suffering/)
- - [Alien: Earth&#39;s eyeball monster is scarier than ever in episode 7](https://www.polygon.com/alien-earth-eyeball-monster-episode-7/)
- - [The Valve rumor mill goes into overdrive as VR influencers travel to Seattle for what seems likely to be the imminent reveal of the Steam Frame](https://www.pcgamer.com/hardware/vr-hardware/the-valve-rumor-mill-goes-into-overdrive-as-vr-influencers-travel-to-seattle-for-what-seems-likely-to-be-the-imminent-reveal-of-the-steam-frame/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for September 27 &lpar;#1561&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-27-2025/)
+ - [Today&#39;s Wordle clues, hints and answer for September 17 &lpar;#1551&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-17-2025/)
+ - [The next Silksong update helps the bosses but does little to allay our own, interminable suffering](https://www.pcgamer.com/games/action/the-next-silksong-update-helps-the-bosses-but-does-little-to-allay-our-own-interminable-suffering/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
