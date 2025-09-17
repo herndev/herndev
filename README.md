@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: StubHub is pricing its US IPO at $23.50/share after marketing a range of $22-$25, giving it an $8.6B market cap, and will trade under the ticker STUB &lpar;Bloomberg&rpar;](http://www.techmeme.com/250916/p55#a250916p55)
- - [Don’t worry, the Apple MacBook Air M4 is back to its record-low price!](https://www.androidauthority.com/apple-macbook-air-m4-deal-5-3598242/)
- - [Mac Mini Sale: Get Into MacOS for Less Than $500 Today](https://www.wired.com/story/save-dollar100-or-more-on-a-mac-mini-today/)<!-- TECH:END -->
+ - [China calls US-China framework deal to move TikTok&#39;s US business to American ownership a &quot;win-win&quot;; Trump and Xi are expected to confirm the agreement on Friday &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p59#a250916p59)
+ - [Singapore-based used car marketplace Carro raised $60M led by Japan sovereign wealth fund Cool Japan Fund to promote Japanese cars in the Asia-Pacific region &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p58#a250916p58)
+ - [Sources: SMIC is testing China&#39;s first domestically produced DUV lithography machine, aiming to reduce reliance on western chipmaking technology &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p57#a250916p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
