@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - ⏩ [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 👉 [Help me](http://9gag.com/gag/a34xrwQ)<!-- MEMES:END -->
+ - 💣 [He is ....](http://9gag.com/gag/aD2P57Z)
+ - ⏩ [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)
+ - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
 
 ---
 
