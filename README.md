@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Good news for Windows handhelds: Microsoft is now letting you launch installed Steam, Battle.net, and other storefront games from the Xbox app](https://www.pcgamer.com/software/windows/good-news-for-windows-handhelds-microsoft-is-now-letting-you-launch-installed-steam-battle-net-and-other-storefront-games-from-the-xbox-app/)
- - [A Californian company wants to sell you an outrageously expensive $8,000 keyboard supposedly inspired by a Roman philosopher, but did the Stoics really go in for conspicuous consumption?](https://www.pcgamer.com/hardware/gaming-keyboards/a-californian-company-wants-to-sell-you-an-outrageously-expensive-usd8-000-keyboard-supposedly-inspired-by-a-roman-philosopher-but-did-the-stoics-really-go-in-for-conspicuous-consumption/)
- - [KPop Demon Hunters has a new film on the way](https://www.polygon.com/kpop-demon-hunters-new-movie-debut-release/)<!-- GAME:END -->
+ - [Ambrosia Sky creators explain the cryptic FPS trailer](https://www.polygon.com/ambrosia-sky-sci-fi-fps-steam/)
+ - [Xbox Game Camp Africa Returns for 2025](https://news.xbox.com/en-us/2025/09/17/xbox-game-camp-africa-2025/)
+ - [Dying Light: The Beast PC performance analysis: Decent performance all round, mildly marred by the mystery of the missing ray tracing mode](https://www.pcgamer.com/hardware/dying-light-the-beast-pc-performance-analysis-decent-performance-all-round-mildly-marred-by-the-mystery-of-the-missing-ray-tracing-mode/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
