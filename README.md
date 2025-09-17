@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists detail Delphi-2M, an AI model trained on large-scale health records that can predict susceptibility to over 1,000 diseases decades into the future &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250917/p37#a250917p37)
- - [&amp;#8216;Ask Gemini&amp;#8217; AI will tell you what you missed during a Google Meet call](https://www.theverge.com/news/780211/google-ask-gemini-meet-workspace-ai-assistant)
- - [A US House committee asks the CEOs of Discord, Steam, Twitch, and Reddit to testify at an October 8 hearing on the &quot;radicalization of online forum users&quot; &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250917/p36#a250917p36)<!-- TECH:END -->
+ - [Health Connect can now track your steps using your Android phone](https://www.androidauthority.com/health-connect-step-tracking-3598654/)
+ - [Motorola is finally starting to roll out stable Android 16](https://www.androidauthority.com/motorola-stable-android-16-rollout-3598734/)
+ - [Big Deals on Big TCL TVs—Some Of Our Top Tested Models Are Nearly 50% Off](https://www.wired.com/story/save-big-on-our-favorite-tcl-televisions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
