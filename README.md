@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tech giants announce £31B+ in UK investments, coinciding with Trump&#39;s visit to the nation; OpenAI will bring Stargate to the UK with Nvidia and Nscale &lpar;Bloomberg&rpar;](http://www.techmeme.com/250916/p53#a250916p53)
- - [Google is testing a Windows desktop app that brings Mac&#39;s Spotlight-like search bar to PC users, allowing them to search local files, Google Drive, and the web &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250916/p52#a250916p52)
- - [Can Luigi Mangione get too big to jail?](https://www.theverge.com/report/779351/luigi-mangione-hearing-new-york-social-media-ecosystem)<!-- TECH:END -->
+ - [Sources: StubHub is pricing its US IPO at $23.50/share after marketing a range of $22-$25, giving it an $8.6B market cap, and will trade under the ticker STUB &lpar;Bloomberg&rpar;](http://www.techmeme.com/250916/p55#a250916p55)
+ - [Don’t worry, the Apple MacBook Air M4 is back to its record-low price!](https://www.androidauthority.com/apple-macbook-air-m4-deal-5-3598242/)
+ - [Mac Mini Sale: Get Into MacOS for Less Than $500 Today](https://www.wired.com/story/save-dollar100-or-more-on-a-mac-mini-today/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
