@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Don&#39;t get stuck grinding in Borderlands 4&#39;s version of the Hinterlands—in fact, you&#39;re screwing yourself out of EXP if you try to do every sidequest before beating the main campaign](https://www.pcgamer.com/games/rpg/dont-get-stuck-grinding-in-borderlands-4s-version-of-the-hinterlands-in-fact-youre-screwing-yourself-out-of-exp-if-you-try-to-do-every-sidequest-before-beating-the-main-campaign/)
  - [Today&#39;s Wordle clues, hints and answer for September 17 &lpar;#1551&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-17-2025/)
- - [The next Silksong update helps the bosses but does little to allay our own, interminable suffering](https://www.pcgamer.com/games/action/the-next-silksong-update-helps-the-bosses-but-does-little-to-allay-our-own-interminable-suffering/)
- - [Alien: Earth&#39;s eyeball monster is scarier than ever in episode 7](https://www.polygon.com/alien-earth-eyeball-monster-episode-7/)<!-- GAME:END -->
+ - [The next Silksong update helps the bosses but does little to allay our own, interminable suffering](https://www.pcgamer.com/games/action/the-next-silksong-update-helps-the-bosses-but-does-little-to-allay-our-own-interminable-suffering/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
