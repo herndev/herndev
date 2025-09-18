@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hamish Linklater describes The Boys and Gen V showrunner Eric Kripke in a normal way](https://www.polygon.com/video/hamish-linklater-describes-the-boys-and-gen-v-showrunner-eric-kripke-in-a-normal-way/)
- - [Team Cherry explains Silksong is more lethal because players are too: &#39;Hornet is inherently faster and more skillful than the Knight … the base level enemy had to be more complicated, more intelligent&#39;](https://www.pcgamer.com/games/action/team-cherry-explains-silksong-is-more-lethal-because-players-are-too-hornet-is-inherently-faster-and-more-skillful-than-the-knight-the-base-level-enemy-had-to-be-more-complicated-more-intelligent/)
- - [Tencent says it&#39;s not ripping off Horizon Zero Dawn, calls it derivative](https://www.polygon.com/tencent-sony-horizon-zero-dawn-lawsuit-light-of-motiram/)<!-- GAME:END -->
+ - [George A. Romero’s Daughter Is Making A Zombie Drag Queen Movie And It Looks Great](https://kotaku.com/george-a-romeros-daughter-zombie-drag-queen-movie-queens-trailer-2000626904)
+ - [In yet another victory lap for Hazelight Studios, Split Fiction just became the first videogame to get a design award from Swedish royalty](https://www.pcgamer.com/games/action/in-yet-another-victory-lap-for-hazelight-studios-split-fiction-just-became-the-first-videogame-to-get-a-design-award-from-swedish-royalty/)
+ - [How to restore power to the Library Tower in Dying Light: The Beast](https://www.pcgamer.com/games/horror/dying-light-the-beast-library-tower-power/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
