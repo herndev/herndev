@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - ⏩ [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
+ - 💣 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
+ - ⏩ [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
  - 👉 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)<!-- MEMES:END -->
 
 ---
