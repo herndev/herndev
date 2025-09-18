@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta rolls out Horizon TV for Quest headsets, with apps including Disney+ and ESPN, and partners with Universal and Blumhouse to let users watch 3D movies &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250917/p47#a250917p47)
- - [Meta rolls out Hyperscape Capture in early access, letting developers and creators use Quest 3 devices to scan a room and turn it into a VR space in minutes &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250917/p46#a250917p46)
- - [Meta Connect 2025: the 6 biggest announcements](https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements)<!-- TECH:END -->
+ - [Meta launches Ray-Ban Display smart glasses that cost as much as a Pixel 10](https://www.androidauthority.com/meta-ray-ban-display-3598809/)
+ - [Meta upgrades Horizon Worlds with Meta Horizon Studio, letting creators use AI prompts to build worlds, powered by its new &quot;built from scratch&quot; virtual engine &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250917/p48#a250917p48)
+ - [Meta rolls out Horizon TV for Quest headsets, with apps including Disney+ and ESPN, and partners with Universal and Blumhouse to let users watch 3D movies &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250917/p47#a250917p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
