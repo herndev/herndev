@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kirby Air Riders feels more like F-Zero than Mario Kart](https://www.theverge.com/games/781177/kirby-air-riders-feels-more-like-f-zero-than-mario-kart)
- - [Microsoft is filling Teams with AI agents](https://www.theverge.com/news/781278/microsoft-teams-copilot-ai-agents)
- - [Numeral, which provides AI-powered sales tax compliance software, raised a $35M Series B led by Mayfield at a $350M valuation, six months after an $18M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250918/p30#a250918p30)<!-- TECH:END -->
+ - [Apple Vision Pro rumored to leverage cutting-edge 2nm process with new R2 chip](https://appleinsider.com/articles/25/09/18/apple-vision-pro-rumored-to-leverage-cutting-edge-2nm-process-with-new-r2-chip?utm_source=rss)
+ - [Ubiquiti’s new desktop NAS looks more like a wireless router](https://www.theverge.com/news/781433/ubiquiti-nas-unas-2-4-raid-backup)
+ - [Users are annoyed by this Google Phone change, but it may be working as intended](https://www.androidauthority.com/google-phone-landscape-3599092/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
