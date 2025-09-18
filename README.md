@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is day of the Woden my varlets!](http://9gag.com/gag/agmdWvg)
- - ⏩ [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
- - 👉 [Pro-Palestinians are very angry because Real Madrid does not allow Palestinian flags into the Bernab\u00e9u Stadium and throws them in the trash. Should other football clubs do the same?](http://9gag.com/gag/aQzrL57)<!-- MEMES:END -->
+ - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
+ - ⏩ [The horror](http://9gag.com/gag/ae9dB7W)
+ - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
 
 ---
 
