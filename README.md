@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - ⏩ [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
- - 👉 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)<!-- MEMES:END -->
+ - ⏩ [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
+ - 👉 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)<!-- MEMES:END -->
 
 ---
 
