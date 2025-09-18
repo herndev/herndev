@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
- - ⏩ [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
- - 👉 [Memories](http://9gag.com/gag/aLnbxGz)<!-- MEMES:END -->
+ - 💣 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - ⏩ [Soul mates](http://9gag.com/gag/a34xVLN)
+ - 👉 [Zeitgeist](http://9gag.com/gag/aAymjog)<!-- MEMES:END -->
 
 ---
 
