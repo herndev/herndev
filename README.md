@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung brings ads to US fridges](https://www.theverge.com/news/780757/samsung-brings-ads-to-us-fridges)
- - [I bought the Trump phone 3 months ago, and I’ve got nothing](https://www.androidauthority.com/trump-phone-three-months-3597805/)
- - [Filing: Insight Partners says a ransomware attack on its systems between October 2024 and January 2025 affected 12,600+ people, including limited partners &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250918/p11#a250918p11)<!-- TECH:END -->
+ - [Anti-Trump Protesters Take Aim at ‘Naive’ US-UK AI Deal](https://www.wired.com/story/climate-activists-unite-in-london-to-protest-trump-visit-uk/)
+ - [Sources: Meta has held talks with Fox Corp. and others about licensing their articles for use in its AI tools, after previously reducing its focus on news &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250918/p13#a250918p13)
+ - [I bought the Google Pixelsnap charger with stand, but you shouldn’t](https://www.androidauthority.com/google-pixelsnap-charger-with-stand-review-3596562/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
