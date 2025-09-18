@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Xbox Copilot arrives on Windows 11 PCs worldwide](https://www.theverge.com/news/780771/microsoft-xbox-copilot-windows-game-bar-available-download)
- - [Satya Nadella is haunted at the prospect of Microsoft not surviving the AI era](https://www.theverge.com/tech/780946/microsoft-satya-nadella-town-hall-comments-ai-era-notepad)
- - [Anker’s recent power bank recall involves over 481,000 units](https://www.theverge.com/news/781072/anker-power-bank-uscpsc-global-recall-fire-risk-battery-zolo-maggo)<!-- TECH:END -->
+ - [Google is expanding Gemini in Chrome and letting it do stuff for you](https://www.theverge.com/ai-artificial-intelligence/781192/chrome-gemini-ai-agentic-update-google-mac-windows)
+ - [Ray-Ban Display glasses are Zuckerberg&#39;s latest bid to reframe Meta, focusing on &quot;personal superintelligence&quot;, but they face technical and societal challenges &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250918/p28#a250918p28)
+ - [Yes, Jimmy Kimmel’s suspension was government censorship](https://www.theverge.com/policy/781148/jimmy-kimmel-charlie-kirk-monologue-brendan-carr-censorship-first-amendment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
