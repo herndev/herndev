@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta launches Ray-Ban Display smart glasses that cost as much as a Pixel 10](https://www.androidauthority.com/meta-ray-ban-display-3598809/)
- - [Meta upgrades Horizon Worlds with Meta Horizon Studio, letting creators use AI prompts to build worlds, powered by its new &quot;built from scratch&quot; virtual engine &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250917/p48#a250917p48)
- - [Meta rolls out Horizon TV for Quest headsets, with apps including Disney+ and ESPN, and partners with Universal and Blumhouse to let users watch 3D movies &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250917/p47#a250917p47)<!-- TECH:END -->
+ - [Survey: 50% of US adults are more concerned than excited about the increased use of AI in daily life; 53% say AI will harm people&#39;s ability to think creatively &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250917/p51#a250917p51)
+ - [Sources: several xAI execs left after clashing with two of Musk&#39;s closest advisers over concerns about unrealistic financial projections and xAI&#39;s management &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250917/p50#a250917p50)
+ - [Hands-on with Meta Ray-Ban Display and Neural Band: small display adds new functionality, useful real-time translation, Neural Band seems the ideal input method &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/250917/p49#a250917p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
