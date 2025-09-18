@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hollow Knight Silksong interactive map](https://www.polygon.com/hollow-knight-silksong-interactive-map-full-pharloom/)
- - [A24&#39;s best horror trilogy is getting a fancy 4K edition](https://www.polygon.com/x-pearl-maxxxine-4k-blur-rays-a24/)
- - [Every New Mega Evolution Revealed For Pokémon Legends: Z-A So Far](https://kotaku.com/pokemon-legends-z-a-mega-evolution-list-new-all-switch-2000621380)<!-- GAME:END -->
+ - [The Era Of Video Game Remakes Is Just Getting Started, New Report Finds](https://kotaku.com/remakes-popular-report-survey-fallout-3-eso-oblivion-2000626866)
+ - [How to get the best ranged weapon in Dying Light 2: The Beast – the awesome Sawblade Launcher](https://www.pcgamer.com/games/horror/dying-light-the-beast-sawblade-launcher-location/)
+ - [Tina Romero is here slay with her directorial debut Queens of the Dead](https://www.polygon.com/queens-of-the-dead-trailer-zombie-drag-movie-tina-romero-trailer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
