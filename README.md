@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move Aside, Chatbots: AI Humanoids Are Here](https://www.wired.com/story/uncanny-valley-podcast-move-aside-chatbots-ai-humanoids-are-here/)
- - [Jensen Huang Wants You to Know He’s Getting a Lot Out of the ‘Fantastic’ Nvidia-Intel Deal](https://www.wired.com/story/nvidia-intel-announce-collaboration-chips/)
- - [Verge readers can get 20 percent off Nanoleaf wall lights](https://www.theverge.com/tech/781437/nanoleaf-blocks-squares-playstation-portal-deal-sale)<!-- TECH:END -->
+ - [Netskope closes up 18.37% at $22.49 per share in its Nasdaq debut, giving it a $8.6B market value, after the cybersecurity company raised $908.2M in its IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p35#a250918p35)
+ - [The powerful Sharge Pixel 140 Laptop Charger is at a new record-low price right now!](https://www.androidauthority.com/sharge-pixel-140-laptop-charger-deal-3599148/)
+ - [You Can Save $200 on Samsung’s Elite Gaming Monitor Today](https://www.wired.com/story/save-dollar200-on-samsungs-monster-4k-gaming-monitor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
