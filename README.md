@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
- - ⏩ [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
+ - 💣 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
+ - ⏩ [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
 
 ---
 
