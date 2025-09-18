@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember this shit?. Somehow Yoko Ono&#39;s FLAT ASS won over John Lennon&#39;s heart](http://9gag.com/gag/abAdNPO)
- - ⏩ [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
- - 👉 [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)<!-- MEMES:END -->
+ - 💣 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - ⏩ [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
 
 ---
 
