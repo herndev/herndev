@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How long is the Homestuck animated pilot?](https://www.polygon.com/video/how-long-is-the-homestuck-animated-pilot/)
- - [Today&#39;s Wordle clues, hints and answer for September 18 &lpar;#1552&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-18-2025/)
- - [Dying Light: The Beast launch times and release date](https://www.pcgamer.com/games/fps/dying-light-the-beast-launch-time-release-date/)<!-- GAME:END -->
+ - [Disco Elysium successor XXX Nightshift is sick of your jokes about its name, announces it&#39;s called Tangerine Antarctic and it&#39;s a 3rd-person RPG now](https://www.pcgamer.com/games/rpg/disco-elysium-successor-xxx-nightshift-is-sick-of-your-jokes-about-its-name-announces-its-called-tangerine-antarctic-and-its-a-3rd-person-rpg-now/)
+ - [How to get the Hellwalker in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-hellwalker-location/)
+ - [This mouse has no wires, no battery, and even no optical sensor. Could it be the future of gaming?](https://www.pcgamer.com/hardware/gaming-mice/this-mouse-has-no-wires-no-battery-and-even-no-optical-sensor-could-it-be-the-future-of-gaming/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
