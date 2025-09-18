@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US district judge rules Amazon violated consumer law by collecting Prime subscribers&#39; billing info before disclosing terms, handing the FTC a partial win &lpar;Reuters&rpar;](http://www.techmeme.com/250917/p52#a250917p52)
- - [Boox Tab X C review: A jack of all trades, a master of none](https://appleinsider.com/articles/25/09/18/boox-tab-x-c-review-a-jack-of-all-trades-a-master-of-none?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Sept. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-sept-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CrowdStrike agrees to acquire Pangea, which protects companies from prompt injection attacks by monitoring AI interactions with users and software, for ~$260M &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/250918/p2#a250918p2)
+ - [Upscale AI, which is building a suite of open standards-based networking tools for AI infrastructure, raised a $100M+ seed led by Mayfield and Maverick Silicon &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250918/p1#a250918p1)
+ - [A US district judge rules Amazon violated consumer law by collecting Prime subscribers&#39; billing info before disclosing terms, handing the FTC a partial win &lpar;Reuters&rpar;](http://www.techmeme.com/250917/p52#a250917p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
