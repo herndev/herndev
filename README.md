@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robotaxis as public transit? Waymo thinks so](https://www.theverge.com/news/780156/waymo-via-robotaxi-microtransit-chandler-flex)
- - [Shein launches Xcelerator, a service granting fashion brands access to its fast-fashion manufacturing network in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p16#a250918p16)
- - [How Apple Watch looks for hypertension and what do if you get an alert](https://appleinsider.com/articles/25/09/18/how-apple-watch-looks-for-hypertension-and-what-do-if-you-get-an-alert?utm_source=rss)<!-- TECH:END -->
+ - [Auk Mini Review: Start Your Own Seeds, Scandinavian Style](https://www.wired.com/review/auk-mini/)
+ - [Corsair’s new gaming mouse is as lightweight as $.35 in nickels](https://www.theverge.com/news/776782/corsair-sabre-v2-pro-ultralight-gaming-mouse-weight-specs-price)
+ - [The mess of Megalopolis takes on a new light in revealing documentary](https://www.theverge.com/entertainment/780110/megadoc-review-megalopolis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
