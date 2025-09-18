@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing the fun of custom Androidify bots to your Wear OS watch face](https://www.androidauthority.com/androidify-on-wear-os-hands-on-3598796/)
- - [Apple TV+ &#39;The Last Frontier&#39; throws Jason Clarke into Alaska&#39;s frozen hellscape](https://appleinsider.com/articles/25/09/18/apple-tv-the-last-frontier-throws-jason-clarke-into-alaskas-frozen-hellscape?utm_source=rss)
- - [Political Influencers Are Ramping Up Security—and Posting Through It](https://www.wired.com/story/political-influencers-are-ramping-up-security-and-posting-through-it/)<!-- TECH:END -->
+ - [Microsoft’s Xbox Copilot arrives on Windows 11 PCs worldwide](https://www.theverge.com/news/780771/microsoft-xbox-copilot-windows-game-bar-available-download)
+ - [Satya Nadella is haunted at the prospect of Microsoft not surviving the AI era](https://www.theverge.com/tech/780946/microsoft-satya-nadella-town-hall-comments-ai-era-notepad)
+ - [Anker’s recent power bank recall involves over 481,000 units](https://www.theverge.com/news/781072/anker-power-bank-uscpsc-global-recall-fire-risk-battery-zolo-maggo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
