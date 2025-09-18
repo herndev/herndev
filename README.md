@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [George A. Romero’s Daughter Is Making A Zombie Drag Queen Movie And It Looks Great](https://kotaku.com/george-a-romeros-daughter-zombie-drag-queen-movie-queens-trailer-2000626904)
- - [In yet another victory lap for Hazelight Studios, Split Fiction just became the first videogame to get a design award from Swedish royalty](https://www.pcgamer.com/games/action/in-yet-another-victory-lap-for-hazelight-studios-split-fiction-just-became-the-first-videogame-to-get-a-design-award-from-swedish-royalty/)
- - [How to restore power to the Library Tower in Dying Light: The Beast](https://www.pcgamer.com/games/horror/dying-light-the-beast-library-tower-power/)<!-- GAME:END -->
+ - [The Biggest Reason To Buy The Xbox Ally Handheld Just Leaked](https://kotaku.com/xbox-rog-ally-x-windows-handheld-app-leak-2000626934)
+ - [Borderlands 4 Specializations explained](https://www.polygon.com/borderlands-4-specialization-skills-trees/)
+ - [Where is Maurice&#39;s Black Market Vending Machine in Borderlands 4](https://www.polygon.com/borderlands-4-maurices-black-market-vending-legendary-machine-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
