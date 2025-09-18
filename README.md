@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disco Elysium successor XXX Nightshift is sick of your jokes about its name, announces it&#39;s called Tangerine Antarctic and it&#39;s a 3rd-person RPG now](https://www.pcgamer.com/games/rpg/disco-elysium-successor-xxx-nightshift-is-sick-of-your-jokes-about-its-name-announces-its-called-tangerine-antarctic-and-its-a-3rd-person-rpg-now/)
- - [How to get the Hellwalker in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-hellwalker-location/)
- - [This mouse has no wires, no battery, and even no optical sensor. Could it be the future of gaming?](https://www.pcgamer.com/hardware/gaming-mice/this-mouse-has-no-wires-no-battery-and-even-no-optical-sensor-could-it-be-the-future-of-gaming/)<!-- GAME:END -->
+ - [The best weapon in Borderlands 4 isn&#39;t a legendary—it&#39;s some random purple shotgun that wipes out bosses in one shot](https://www.pcgamer.com/games/fps/borderlands-4-quincunx-stellium/)
+ - [How to find and use the Twisted Bud in Silksong](https://www.pcgamer.com/games/action/silksong-twisted-bud-infestation-operation/)
+ - [Disco Elysium successor XXX Nightshift is sick of your jokes about its name, announces it&#39;s called Tangerine Antarctic and it&#39;s a 3rd-person RPG now](https://www.pcgamer.com/games/rpg/disco-elysium-successor-xxx-nightshift-is-sick-of-your-jokes-about-its-name-announces-its-called-tangerine-antarctic-and-its-a-3rd-person-rpg-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
