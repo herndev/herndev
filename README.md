@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
- - ⏩ [Soul mates](http://9gag.com/gag/a34xVLN)
- - 👉 [Zeitgeist](http://9gag.com/gag/aAymjog)<!-- MEMES:END -->
+ - ⏩ [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
 
 ---
 
