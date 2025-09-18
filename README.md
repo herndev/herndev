@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
- - ⏩ [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 👉 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)<!-- MEMES:END -->
+ - 💣 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
+ - ⏩ [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - 👉 [Memories](http://9gag.com/gag/aLnbxGz)<!-- MEMES:END -->
 
 ---
 
