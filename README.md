@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro rumored to feature &#39;slightly transparent&#39; back glass](https://appleinsider.com/articles/25/09/17/iphone-18-pro-rumored-to-feature-slightly-transparent-back-glass?utm_source=rss)
- - [Apple CEO Tim Cook attended UK state dinner with President Trump](https://appleinsider.com/articles/25/09/17/apple-ceo-tim-cook-attended-uk-state-dinner-with-president-trump-other-ceos?utm_source=rss)
- - [Microsoft’s new Xbox mode on Windows has leaked for any handheld](https://www.theverge.com/news/780388/microsoft-xbox-fullscreen-mode-windows-11-handheld-leak)<!-- TECH:END -->
+ - [A live blog of Meta Connect 2025, where &quot;Hypernova&quot; smart glasses with a display, new Meta Ray-Ban glasses, Meta AI updates, and more are expected &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250917/p41#a250917p41)
+ - [Netskope priced its IPO at $19 per share, at the top of its targeted range, valuing the company at $7.3B, and raised $908.2M in the offering &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250917/p40#a250917p40)
+ - [Here&amp;#8217;s the Jimmy Kimmel clip that got him pulled off the air](https://www.theverge.com/policy/780502/heres-the-jimmy-kimmel-clip-that-got-him-pulled-off-the-air)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
