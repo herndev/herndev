@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - ⏩ [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
- - 👉 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)<!-- MEMES:END -->
+ - 💣 [Zeitgeist](http://9gag.com/gag/aAymjog)
+ - ⏩ [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - 👉 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)<!-- MEMES:END -->
 
 ---
 
