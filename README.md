@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Exhausted by Silksong? This breezier twin-stick spin on old school Metroid might just be the genre&#39;s second best this year](https://www.pcgamer.com/games/action/exhausted-by-silksong-this-breezier-twin-stick-spin-on-old-school-metroid-might-just-be-the-genres-second-best-this-year/)
  - [How to use the Twisted Bud in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-twisted-bud-how-to-use-rite-of-rebirth-infestation-operation/)
- - [After disappointing fans with a time-grated grind in beta, Blizzard turned WoW Legion Remix around just in time for its October release](https://www.pcgamer.com/games/world-of-warcraft/after-disappointing-fans-with-a-time-grated-grind-in-beta-blizzard-turned-wow-legion-remix-around-just-in-time-for-its-october-release/)
- - [Helldivers 2&#39;s new bugs are bugged, so Arrowhead&#39;s turning them off for 5 weeks to debug its bugged bugs&#39; bugs](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-bugs-are-bugged-so-arrowheads-turning-them-off-for-5-weeks-to-debug-its-bugged-bugs-bugs/)<!-- GAME:END -->
+ - [After disappointing fans with a time-grated grind in beta, Blizzard turned WoW Legion Remix around just in time for its October release](https://www.pcgamer.com/games/world-of-warcraft/after-disappointing-fans-with-a-time-grated-grind-in-beta-blizzard-turned-wow-legion-remix-around-just-in-time-for-its-october-release/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
