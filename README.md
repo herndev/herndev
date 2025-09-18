@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
- - ⏩ [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 👉 [When you did a f**k up as a dad](http://9gag.com/gag/aqydPov)<!-- MEMES:END -->
+ - 💣 [It is day of the Woden my varlets!](http://9gag.com/gag/agmdWvg)
+ - ⏩ [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
+ - 👉 [Pro-Palestinians are very angry because Real Madrid does not allow Palestinian flags into the Bernab\u00e9u Stadium and throws them in the trash. Should other football clubs do the same?](http://9gag.com/gag/aQzrL57)<!-- MEMES:END -->
 
 ---
 
