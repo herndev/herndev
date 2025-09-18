@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Era Of Video Game Remakes Is Just Getting Started, New Report Finds](https://kotaku.com/remakes-popular-report-survey-fallout-3-eso-oblivion-2000626866)
- - [How to get the best ranged weapon in Dying Light 2: The Beast – the awesome Sawblade Launcher](https://www.pcgamer.com/games/horror/dying-light-the-beast-sawblade-launcher-location/)
- - [Tina Romero is here slay with her directorial debut Queens of the Dead](https://www.polygon.com/queens-of-the-dead-trailer-zombie-drag-movie-tina-romero-trailer/)<!-- GAME:END -->
+ - [Hamish Linklater describes The Boys and Gen V showrunner Eric Kripke in a normal way](https://www.polygon.com/video/hamish-linklater-describes-the-boys-and-gen-v-showrunner-eric-kripke-in-a-normal-way/)
+ - [Team Cherry explains Silksong is more lethal because players are too: &#39;Hornet is inherently faster and more skillful than the Knight … the base level enemy had to be more complicated, more intelligent&#39;](https://www.pcgamer.com/games/action/team-cherry-explains-silksong-is-more-lethal-because-players-are-too-hornet-is-inherently-faster-and-more-skillful-than-the-knight-the-base-level-enemy-had-to-be-more-complicated-more-intelligent/)
+ - [Tencent says it&#39;s not ripping off Horizon Zero Dawn, calls it derivative](https://www.polygon.com/tencent-sony-horizon-zero-dawn-lawsuit-light-of-motiram/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
