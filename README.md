@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Pieces of Wellness Tech That Could Be Covered by Your HSA](https://www.cnet.com/health/pieces-wellness-tech-could-be-covered-by-your-hsa/#ftag=CAD590a51e)
- - [Source: SoftBank&#39;s plans for a JV with OpenAI to bring AI to Japanese corporate customers are well behind schedule, with an update now expected in November &lpar;Yusuke Ogawa/Reuters&rpar;](http://www.techmeme.com/250918/p9#a250918p9)
- - [Anthropic details three infrastructure bugs that intermittently degraded Claude&#39;s responses between August and early September, and explains how they were fixed &lpar;Anthropic&rpar;](http://www.techmeme.com/250918/p8#a250918p8)<!-- TECH:END -->
+ - [Rivian’s e-bike leaks ahead of next month’s announcement](https://www.theverge.com/news/780734/rivians-e-bike-leaks-ahead-of-next-months-announcement)
+ - [Samsung’s Project Moohan headset has a new launch date, but what about tri-fold?](https://www.androidauthority.com/samsung-project-moohan-headset-launch-date-3598835/)
+ - [Not even your kitchen is safe from ads after Samsung’s new update for its refrigerators &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-smart-refrigerators-ads-3598564/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
