@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How long is the Homestuck animated pilot?](https://www.polygon.com/video/how-long-is-the-homestuck-animated-pilot/)
  - [Today&#39;s Wordle clues, hints and answer for September 18 &lpar;#1552&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-18-2025/)
- - [Dying Light: The Beast launch times and release date](https://www.pcgamer.com/games/fps/dying-light-the-beast-launch-time-release-date/)
- - [How to unlock Steel Soul Mode in Silksong](https://www.pcgamer.com/games/action/silksong-steel-soul-mode-unlock/)<!-- GAME:END -->
+ - [Dying Light: The Beast launch times and release date](https://www.pcgamer.com/games/fps/dying-light-the-beast-launch-time-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
