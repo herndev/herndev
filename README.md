@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netskope closes up 18.37% at $22.49 per share in its Nasdaq debut, giving it a $8.6B market value, after the cybersecurity company raised $908.2M in its IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p35#a250918p35)
- - [The powerful Sharge Pixel 140 Laptop Charger is at a new record-low price right now!](https://www.androidauthority.com/sharge-pixel-140-laptop-charger-deal-3599148/)
- - [You Can Save $200 on Samsung’s Elite Gaming Monitor Today](https://www.wired.com/story/save-dollar200-on-samsungs-monster-4k-gaming-monitor/)<!-- TECH:END -->
+ - [Here’s what Google’s unannounced smart speaker may be called](https://www.androidauthority.com/google-smart-speaker-name-3599160/)
+ - [Nothing’s charging case Super Mic is a small upgrade to earbud audio](https://www.theverge.com/tech/781588/nothing-ear-3-charging-case-super-mic-impressions-hands-on)
+ - [Meta Ray-Ban Display won&#39;t challenge Apple&#39;s eventual smart glasses](https://appleinsider.com/articles/25/09/18/meta-ray-ban-display-wont-challenge-apples-eventual-smart-glasses?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
