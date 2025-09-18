@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro rumored to leverage cutting-edge 2nm process with new R2 chip](https://appleinsider.com/articles/25/09/18/apple-vision-pro-rumored-to-leverage-cutting-edge-2nm-process-with-new-r2-chip?utm_source=rss)
- - [Ubiquiti’s new desktop NAS looks more like a wireless router](https://www.theverge.com/news/781433/ubiquiti-nas-unas-2-4-raid-backup)
- - [Users are annoyed by this Google Phone change, but it may be working as intended](https://www.androidauthority.com/google-phone-landscape-3599092/)<!-- TECH:END -->
+ - [Move Aside, Chatbots: AI Humanoids Are Here](https://www.wired.com/story/uncanny-valley-podcast-move-aside-chatbots-ai-humanoids-are-here/)
+ - [Jensen Huang Wants You to Know He’s Getting a Lot Out of the ‘Fantastic’ Nvidia-Intel Deal](https://www.wired.com/story/nvidia-intel-announce-collaboration-chips/)
+ - [Verge readers can get 20 percent off Nanoleaf wall lights](https://www.theverge.com/tech/781437/nanoleaf-blocks-squares-playstation-portal-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
