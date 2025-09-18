@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Torras Ostand Q3 Silicone case for iPhone 17 Pro Max offers premium style and function](https://appleinsider.com/articles/25/09/18/torras-ostand-q3-silicone-case-for-iphone-17-pro-max-offers-premium-style-and-function?utm_source=rss)
- - [Sources: Indian digital payments company Pine Labs aims to raise as much as $700M from an IPO in the second half of October, down from an earlier $1B target &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p22#a250918p22)
- - [Luma AI partners with Adobe to bring its generative video model Ray3 to Firefly&#39;s paid users; Ray3 creates highly realistic 10-second videos without dialogue &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250918/p21#a250918p21)<!-- TECH:END -->
+ - [Google is bringing the fun of custom Androidify bots to your Wear OS watch face](https://www.androidauthority.com/androidify-on-wear-os-hands-on-3598796/)
+ - [Apple TV+ &#39;The Last Frontier&#39; throws Jason Clarke into Alaska&#39;s frozen hellscape](https://appleinsider.com/articles/25/09/18/apple-tv-the-last-frontier-throws-jason-clarke-into-alaskas-frozen-hellscape?utm_source=rss)
+ - [Political Influencers Are Ramping Up Security—and Posting Through It](https://www.wired.com/story/political-influencers-are-ramping-up-security-and-posting-through-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
