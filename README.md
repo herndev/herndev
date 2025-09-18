@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what Google’s unannounced smart speaker may be called](https://www.androidauthority.com/google-smart-speaker-name-3599160/)
- - [Nothing’s charging case Super Mic is a small upgrade to earbud audio](https://www.theverge.com/tech/781588/nothing-ear-3-charging-case-super-mic-impressions-hands-on)
- - [Meta Ray-Ban Display won&#39;t challenge Apple&#39;s eventual smart glasses](https://appleinsider.com/articles/25/09/18/meta-ray-ban-display-wont-challenge-apples-eventual-smart-glasses?utm_source=rss)<!-- TECH:END -->
+ - [Deal: The Motorola Razr Ultra comes with a free 1TB storage upgrade and smartwatch!](https://www.androidauthority.com/motorola-razr-ultra-moto-watch-fit-deal-3599147/)
+ - [Sources: Nvidia spent more than $900M to hire Enfabrica CEO Rochan Sankar and other employees at the AI hardware startup and to license the company&#39;s technology &lpar;CNBC&rpar;](http://www.techmeme.com/250918/p38#a250918p38)
+ - [Sources: White House weighs more CFTC chair candidates, including government officials focused on crypto policy, as Brian Quintenz&#39;s nomination remains stalled &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p37#a250918p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
