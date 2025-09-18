@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of Meta Connect 2025, where &quot;Hypernova&quot; smart glasses with a display, new Meta Ray-Ban glasses, Meta AI updates, and more are expected &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250917/p41#a250917p41)
- - [Netskope priced its IPO at $19 per share, at the top of its targeted range, valuing the company at $7.3B, and raised $908.2M in the offering &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250917/p40#a250917p40)
- - [Here&amp;#8217;s the Jimmy Kimmel clip that got him pulled off the air](https://www.theverge.com/policy/780502/heres-the-jimmy-kimmel-clip-that-got-him-pulled-off-the-air)<!-- TECH:END -->
+ - [Meta rolls out Horizon TV for Quest headsets, with apps including Disney+ and ESPN, and partners with Universal and Blumhouse to let users watch 3D movies &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250917/p47#a250917p47)
+ - [Meta rolls out Hyperscape Capture in early access, letting developers and creators use Quest 3 devices to scan a room and turn it into a VR space in minutes &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250917/p46#a250917p46)
+ - [Meta Connect 2025: the 6 biggest announcements](https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
