@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 💣 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
  - ⏩ [Soul mates](http://9gag.com/gag/a34xVLN)
  - 👉 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)<!-- MEMES:END -->
 
