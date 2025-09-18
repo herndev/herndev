@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best weapon in Borderlands 4 isn&#39;t a legendary—it&#39;s some random purple shotgun that wipes out bosses in one shot](https://www.pcgamer.com/games/fps/borderlands-4-quincunx-stellium/)
- - [How to find and use the Twisted Bud in Silksong](https://www.pcgamer.com/games/action/silksong-twisted-bud-infestation-operation/)
- - [Disco Elysium successor XXX Nightshift is sick of your jokes about its name, announces it&#39;s called Tangerine Antarctic and it&#39;s a 3rd-person RPG now](https://www.pcgamer.com/games/rpg/disco-elysium-successor-xxx-nightshift-is-sick-of-your-jokes-about-its-name-announces-its-called-tangerine-antarctic-and-its-a-3rd-person-rpg-now/)<!-- GAME:END -->
+ - [Hollow Knight Silksong interactive map](https://www.polygon.com/hollow-knight-silksong-interactive-map-full-pharloom/)
+ - [A24&#39;s best horror trilogy is getting a fancy 4K edition](https://www.polygon.com/x-pearl-maxxxine-4k-blur-rays-a24/)
+ - [Every New Mega Evolution Revealed For Pokémon Legends: Z-A So Far](https://kotaku.com/pokemon-legends-z-a-mega-evolution-list-new-all-switch-2000621380)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
