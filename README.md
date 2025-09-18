@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
- - ⏩ [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
+ - 💣 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - ⏩ [Soul mates](http://9gag.com/gag/a34xVLN)
+ - 👉 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)<!-- MEMES:END -->
 
 ---
 
