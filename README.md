@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is expanding Gemini in Chrome and letting it do stuff for you](https://www.theverge.com/ai-artificial-intelligence/781192/chrome-gemini-ai-agentic-update-google-mac-windows)
- - [Ray-Ban Display glasses are Zuckerberg&#39;s latest bid to reframe Meta, focusing on &quot;personal superintelligence&quot;, but they face technical and societal challenges &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250918/p28#a250918p28)
- - [Yes, Jimmy Kimmel’s suspension was government censorship](https://www.theverge.com/policy/781148/jimmy-kimmel-charlie-kirk-monologue-brendan-carr-censorship-first-amendment)<!-- TECH:END -->
+ - [Kirby Air Riders feels more like F-Zero than Mario Kart](https://www.theverge.com/games/781177/kirby-air-riders-feels-more-like-f-zero-than-mario-kart)
+ - [Microsoft is filling Teams with AI agents](https://www.theverge.com/news/781278/microsoft-teams-copilot-ai-agents)
+ - [Numeral, which provides AI-powered sales tax compliance software, raised a $35M Series B led by Mayfield at a $350M valuation, six months after an $18M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250918/p30#a250918p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
