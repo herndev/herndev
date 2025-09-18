@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Auk Mini Review: Start Your Own Seeds, Scandinavian Style](https://www.wired.com/review/auk-mini/)
- - [Corsair’s new gaming mouse is as lightweight as $.35 in nickels](https://www.theverge.com/news/776782/corsair-sabre-v2-pro-ultralight-gaming-mouse-weight-specs-price)
- - [The mess of Megalopolis takes on a new light in revealing documentary](https://www.theverge.com/entertainment/780110/megadoc-review-megalopolis)<!-- TECH:END -->
+ - [Torras Ostand Q3 Silicone case for iPhone 17 Pro Max offers premium style and function](https://appleinsider.com/articles/25/09/18/torras-ostand-q3-silicone-case-for-iphone-17-pro-max-offers-premium-style-and-function?utm_source=rss)
+ - [Sources: Indian digital payments company Pine Labs aims to raise as much as $700M from an IPO in the second half of October, down from an earlier $1B target &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p22#a250918p22)
+ - [Luma AI partners with Adobe to bring its generative video model Ray3 to Firefly&#39;s paid users; Ray3 creates highly realistic 10-second videos without dialogue &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250918/p21#a250918p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
