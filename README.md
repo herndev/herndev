@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 18 &lpar;#1552&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-18-2025/)
  - [Dying Light: The Beast launch times and release date](https://www.pcgamer.com/games/fps/dying-light-the-beast-launch-time-release-date/)
- - [How to unlock Steel Soul Mode in Silksong](https://www.pcgamer.com/games/action/silksong-steel-soul-mode-unlock/)
- - [Exhausted by Silksong? This breezier twin-stick spin on old school Metroid might just be the genre&#39;s second best this year](https://www.pcgamer.com/games/action/exhausted-by-silksong-this-breezier-twin-stick-spin-on-old-school-metroid-might-just-be-the-genres-second-best-this-year/)<!-- GAME:END -->
+ - [How to unlock Steel Soul Mode in Silksong](https://www.pcgamer.com/games/action/silksong-steel-soul-mode-unlock/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
