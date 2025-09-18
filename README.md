@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is day of the Woden my varlets!](http://9gag.com/gag/agmdWvg)
- - ⏩ [Pro-Palestinians are very angry because Real Madrid does not allow Palestinian flags into the Bernab\u00e9u Stadium and throws them in the trash. Should other football clubs do the same?](http://9gag.com/gag/aQzrL57)
- - 👉 [Booooo](http://9gag.com/gag/a87nRz6)<!-- MEMES:END -->
+ - 💣 [Josie &lpar;Jennifer Connelly&rpar; - Career Opportunities &lpar;1991&rpar;](http://9gag.com/gag/a87nR83)
+ - ⏩ [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
+ - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
 
 ---
 
