@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anti-Trump Protesters Take Aim at ‘Naive’ US-UK AI Deal](https://www.wired.com/story/climate-activists-unite-in-london-to-protest-trump-visit-uk/)
- - [Sources: Meta has held talks with Fox Corp. and others about licensing their articles for use in its AI tools, after previously reducing its focus on news &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250918/p13#a250918p13)
- - [I bought the Google Pixelsnap charger with stand, but you shouldn’t](https://www.androidauthority.com/google-pixelsnap-charger-with-stand-review-3596562/)<!-- TECH:END -->
+ - [Robotaxis as public transit? Waymo thinks so](https://www.theverge.com/news/780156/waymo-via-robotaxi-microtransit-chandler-flex)
+ - [Shein launches Xcelerator, a service granting fashion brands access to its fast-fashion manufacturing network in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p16#a250918p16)
+ - [How Apple Watch looks for hypertension and what do if you get an alert](https://appleinsider.com/articles/25/09/18/how-apple-watch-looks-for-hypertension-and-what-do-if-you-get-an-alert?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
