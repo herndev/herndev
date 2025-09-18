@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian’s e-bike leaks ahead of next month’s announcement](https://www.theverge.com/news/780734/rivians-e-bike-leaks-ahead-of-next-months-announcement)
- - [Samsung’s Project Moohan headset has a new launch date, but what about tri-fold?](https://www.androidauthority.com/samsung-project-moohan-headset-launch-date-3598835/)
- - [Not even your kitchen is safe from ads after Samsung’s new update for its refrigerators &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-smart-refrigerators-ads-3598564/)<!-- TECH:END -->
+ - [Samsung brings ads to US fridges](https://www.theverge.com/news/780757/samsung-brings-ads-to-us-fridges)
+ - [I bought the Trump phone 3 months ago, and I’ve got nothing](https://www.androidauthority.com/trump-phone-three-months-3597805/)
+ - [Filing: Insight Partners says a ransomware attack on its systems between October 2024 and January 2025 affected 12,600+ people, including limited partners &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250918/p11#a250918p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
