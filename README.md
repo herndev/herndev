@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This metroidvania based on an old Atari 2600 classic had the audacity to release on the same day as Silksong, but it&#39;s a nice break from Hornet&#39;s hell](https://www.pcgamer.com/games/action/this-metroidvania-based-on-an-old-atari-2600-classic-had-the-audacity-to-release-on-the-same-day-as-silksong-but-its-a-nice-break-from-hornets-hell/)
  - [Weapons director says his Resident Evil movie will leave everything &#39;intact&#39; from the games: &#39;I&#39;m not gonna steal Leon and put him in an original story&#39;](https://www.pcgamer.com/movies-tv/weapons-director-says-his-resident-evil-movie-will-leave-everything-intact-from-the-games-im-not-gonna-steal-leon-and-put-him-in-an-original-story/)
- - [Nintendo reportedly gets even more obnoxious about patent law by taking a &#39;mods aren&#39;t real games&#39; stance against a Dark Souls 3 mod that could invalidate its Palworld lawsuit](https://www.pcgamer.com/games/survival-crafting/nintendo-reportedly-gets-even-more-obnoxious-about-patent-law-by-taking-a-mods-arent-real-games-stance-against-a-dark-souls-3-mod-that-could-invalidate-its-palworld-lawsuit/)
- - [US agents are investigating the Charlie Kirk murder suspect&#39;s Steam account, but I&#39;m not sure what 2,000 hours in Sea of Thieves is supposed to tell us](https://www.pcgamer.com/gaming-industry/us-agents-are-investigating-the-charlie-kirk-murder-suspects-steam-account-but-im-not-sure-what-2-000-hours-in-sea-of-thieves-is-supposed-to-tell-us/)<!-- GAME:END -->
+ - [Nintendo reportedly gets even more obnoxious about patent law by taking a &#39;mods aren&#39;t real games&#39; stance against a Dark Souls 3 mod that could invalidate its Palworld lawsuit](https://www.pcgamer.com/games/survival-crafting/nintendo-reportedly-gets-even-more-obnoxious-about-patent-law-by-taking-a-mods-arent-real-games-stance-against-a-dark-souls-3-mod-that-could-invalidate-its-palworld-lawsuit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
