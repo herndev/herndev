@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
- - ⏩ [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
+ - 💣 [Memories](http://9gag.com/gag/aLnbxGz)
+ - ⏩ [Never relax](http://9gag.com/gag/awy8Rn4)
  - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 ---
