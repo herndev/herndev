@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 19 &lpar;#1553&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-19-2025/)
  - [Peacemaker episode 5 adds fuel to my game-changing theory about Eagly](https://www.polygon.com/peacemaker-season-2-eagly-theory/)
- - [Shelby Oaks review: Chris Stuckmann&#39;s horror debut should kickstart his movie career](https://www.polygon.com/shelby-oaks-review-chris-stuckmann/)
- - [This metroidvania based on an old Atari 2600 classic had the audacity to release on the same day as Silksong, but it&#39;s a nice break from Hornet&#39;s hell](https://www.pcgamer.com/games/action/this-metroidvania-based-on-an-old-atari-2600-classic-had-the-audacity-to-release-on-the-same-day-as-silksong-but-its-a-nice-break-from-hornets-hell/)<!-- GAME:END -->
+ - [Shelby Oaks review: Chris Stuckmann&#39;s horror debut should kickstart his movie career](https://www.polygon.com/shelby-oaks-review-chris-stuckmann/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
