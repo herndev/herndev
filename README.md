@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kick the ball](http://9gag.com/gag/a5Qx8VG)
- - ⏩ [You can&#39;t tell if she&#39;s hot just by the shadow. Hold my beer ...](http://9gag.com/gag/a34xVwe)
- - 👉 [Poemic](http://9gag.com/gag/a9yV951)<!-- MEMES:END -->
+ - 💣 [Zeitgeist](http://9gag.com/gag/aAymjog)
+ - ⏩ [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
+ - 👉 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)<!-- MEMES:END -->
 
 ---
 
