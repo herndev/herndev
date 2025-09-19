@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can&#39;t tell if she&#39;s hot just by the shadow. Hold my beer ...](http://9gag.com/gag/a34xVwe)
- - ⏩ [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)
- - 👉 [Triple wielding](http://9gag.com/gag/a9yV9Q0)<!-- MEMES:END -->
+ - 💣 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
+ - ⏩ [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 👉 [Her: Daddy wasn&#39;t doing his job...also Her: It&#39;s harder than your fathers](http://9gag.com/gag/awy86KW)<!-- MEMES:END -->
 
 ---
 
