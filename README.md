@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your first look at the redesigned Google Home experience powered by Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-home-app-gemini-redesign-first-look-3599245/)
- - [Your Samsung phone and watch could soon warn you of Alzheimer’s disease](https://www.androidauthority.com/samsung-alzheimers-disease-detection-3599259/)
- - [For a limited time, a free three months of Kindle Unlimited is up for grabs](https://www.androidauthority.com/kindle-unlimited-three-months-free-3599202/)<!-- TECH:END -->
+ - [A look at China&#39;s brain-computer interface industry as startups like BrainCo grow with state support; CCID says the sector is worth $450M, growing 20% annually &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p3#a250919p3)
+ - [4 apps you should use instead of Google Docs](https://www.androidauthority.com/google-docs-alternatives-3597218/)
+ - [Exclusive: Here’s your first look at the redesigned Google Home experience powered by Gemini](https://www.androidauthority.com/google-home-app-gemini-redesign-first-look-3599245/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
