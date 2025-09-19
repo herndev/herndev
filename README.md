@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you did a f**k up as a dad](http://9gag.com/gag/aqydPov)
- - ⏩ [Remember this shit?. Somehow Yoko Ono&#39;s FLAT ASS won over John Lennon&#39;s heart](http://9gag.com/gag/abAdNPO)
- - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
+ - 💣 [You can&#39;t tell if she&#39;s hot just by the shadow. Hold my beer ...](http://9gag.com/gag/a34xVwe)
+ - ⏩ [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)
+ - 👉 [Triple wielding](http://9gag.com/gag/a9yV9Q0)<!-- MEMES:END -->
 
 ---
 
