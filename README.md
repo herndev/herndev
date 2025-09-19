@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Survive Your First Nights in Dying Light: The Beast](https://news.xbox.com/en-us/2025/09/19/how-to-survive-your-first-nights-in-dying-light-the-beast/)
- - [MCU Actors Call For Disney Boycott Following Jimmy Kimmel Fiasco](https://kotaku.com/jimmy-kimmel-abc-disney-boycott-marvel-marisa-tomei-2000627135)
- - [Team Reptile announces Hyperfunk, a Bomb Rush Cyberfunk follow-up that&#39;s &#39;2 seconds per second of evolved funkstyle&#39;](https://www.pcgamer.com/games/sports/team-reptile-announces-hyperfunk-a-bomb-rush-cyberfunk-follow-up-thats-2-seconds-per-second-of-evolved-funkstyle/)<!-- GAME:END -->
+ - [12 Tips To Know Before Playing Borderlands 4](https://kotaku.com/12-tips-borderlands-4-guide-help-better-loot-gold-keys-side-quests-tricks-2000626554)
+ - [Amazon Is Going Nuts, This 15″ Gaming Portable Monitor for Xbox and Switch Is Selling for Pennies](https://kotaku.com/amazon-is-going-nuts-this-15-gaming-portable-monitor-for-xbox-and-switch-is-selling-for-pennies-2000627251)
+ - [I Know What’s Going On And So Does Everyone Else](https://kotaku.com/jimmy-kimmel-fallon-colbert-stewart-trump-kirk-2000627249)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
