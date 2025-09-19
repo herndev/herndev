@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why I ‘upgraded’ to a film camera that’s older than I am](https://www.theverge.com/cameras/772825/upgrading-film-camera-canon-ef)
- - [Stunning iPhone 17 Pro Max photos celebrate joy in NY exhibition](https://appleinsider.com/articles/25/09/19/stunning-iphone-17-pro-max-photos-celebrate-joy-in-ny-exhibition?utm_source=rss)
- - [iPhone 17 review: More pro features added than ever before](https://appleinsider.com/articles/25/09/19/iphone-17-review-more-pro-features-added-than-ever-before?utm_source=rss)<!-- TECH:END -->
+ - [Mastodon, the nonprofit behind the social network, plans to offer paid hosting, moderation, and support services for organizations joining the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250919/p6#a250919p6)
+ - [This RPG series does everything wrong, and it’s working](https://www.theverge.com/games/781492/trails-in-the-sky-1st-chapter-switch-ps5-steam)
+ - [Huawei’s new Watch GT 6 series and Ultimate 2 blend luxury design with outdoor tracking](https://www.androidauthority.com/huawei-watch-gt-6-pro-ultimate-2-launch-3599154/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
