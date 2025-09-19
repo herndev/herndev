@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Him is a grueling and messy takedown of American football culture](https://www.theverge.com/entertainment/781175/him-review-justin-tipping-marlon-wayans)
- - [iPhone 17 review: More pro features added than ever before](https://appleinsider.com/articles/25/09/19/iphone-17-review-more-pro-features-added-than-ever-before?utm_source=rss)
- - [8 Best Alexa Speakers and Amazon Echo Devices We’ve Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)<!-- TECH:END -->
+ - [Get an iPhone 17 Pro on T-Mobile with any condition trade-in + up to 20% savings vs the other big guys on comparable plans](https://appleinsider.com/articles/25/09/19/get-an-iphone-17-pro-on-t-mobile-with-any-condition-trade-in-up-to-20-savings-vs-the-other-big-guys-on-comparable-plans?utm_source=rss)
+ - [OpenAI might be developing a smart speaker, glasses, voice recorder, and a pin](https://www.theverge.com/news/781854/openai-chatgpt-hardware-rumors-smart-speaker-glasses-pin)
+ - [Meta&amp;#8217;s quest to own your face](https://www.theverge.com/podcast/781830/meta-smart-glasses-ray-ban-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
