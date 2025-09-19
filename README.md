@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [12 Tips To Know Before Playing Borderlands 4](https://kotaku.com/12-tips-borderlands-4-guide-help-better-loot-gold-keys-side-quests-tricks-2000626554)
- - [Amazon Is Going Nuts, This 15″ Gaming Portable Monitor for Xbox and Switch Is Selling for Pennies](https://kotaku.com/amazon-is-going-nuts-this-15-gaming-portable-monitor-for-xbox-and-switch-is-selling-for-pennies-2000627251)
- - [I Know What’s Going On And So Does Everyone Else](https://kotaku.com/jimmy-kimmel-fallon-colbert-stewart-trump-kirk-2000627249)<!-- GAME:END -->
+ - [Sucker Punch Studio Head Comments On Firing Dev Who Joked About Charlie Kirk’s Death](https://kotaku.com/sucker-punch-charlie-kirk-ghost-yotei-sony-2000627290)
+ - [&#39;You wouldn&#39;t believe how much stupid s**t is in this giant world&#39;: The Baby Steps devs want you to know as little as possible before you play their walking sim](https://www.pcgamer.com/games/action/you-wouldnt-believe-how-much-stupid-s-t-is-in-this-giant-world-the-baby-steps-devs-want-you-to-know-as-little-as-possible-before-you-play-their-walking-sim/)
+ - [12 Tips To Know Before Playing Borderlands 4](https://kotaku.com/12-tips-borderlands-4-guide-help-better-loot-gold-keys-side-quests-tricks-2000626554)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
