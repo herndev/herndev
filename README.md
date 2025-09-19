@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
- - ⏩ [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 👉 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)<!-- MEMES:END -->
+ - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - ⏩ [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
 
 ---
 
