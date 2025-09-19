@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be anything](http://9gag.com/gag/aMVW3xP)
- - ⏩ [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 👉 [You can&#39;t tell if she&#39;s hot just by the shadow. Hold my beer ...](http://9gag.com/gag/a34xVwe)<!-- MEMES:END -->
+ - 💣 [When you did a f**k up as a dad](http://9gag.com/gag/aqydPov)
+ - ⏩ [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - 👉 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)<!-- MEMES:END -->
 
 ---
 
