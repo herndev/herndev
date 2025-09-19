@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change what the iPhone 17 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_source=rss)
- - [The internet is out to break the iPhone Air, but it seems indestructible](https://www.androidauthority.com/iphone-air-bend-test-3599216/)
- - [Canadian law enforcement seizes $40.5M in digital assets after shutting down TradeOgre crypto exchange, making it the largest Canadian crypto seizure to date. &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/250918/p47#a250918p47)<!-- TECH:END -->
+ - [China says Xiaomi will issue a software update for 115K+ SU7 EVs to fix assisted driving safety issues, its second recall-related fix since the 2024 launch &lpar;Reuters&rpar;](http://www.techmeme.com/250919/p1#a250919p1)
+ - [Samsung’s ambitious tri-fold could land in the US after all](https://www.androidauthority.com/samsung-tri-fold-us-launch-3599233/)
+ - [How to change what the iPhone 17 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
