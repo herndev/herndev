@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MI6 launched Silent Courier, an online portal hosted on the dark web designed to let potential spies from Russia and elsewhere communicate with UK intelligence &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/250918/p44#a250918p44)
- - [Report: at an xAI meeting, Elon Musk and his executives said the Grok chatbot has 64M monthly users; OpenAI said in August that ChatGPT had 700M weekly users &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250918/p43#a250918p43)
- - [Inside xAI&#39;s chaotic summer: Musk reorganized xAI on the fly, researchers left over concerns it abandoned science in favor of attention-grabbing products, more &lpar;New York Times&rpar;](http://www.techmeme.com/250918/p42#a250918p42)<!-- TECH:END -->
+ - [LA-based Lingokids, an interactive learning app for kids aged 2-8, raised $120M led by Bullhound Capital and General Catalyst to help expand its IP partnerships &lpar;Dean Takahashi/GamesBeat&rpar;](http://www.techmeme.com/250918/p45#a250918p45)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Sept. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-sept-19/#ftag=CAD590a51e)
+ - [MI6 launched Silent Courier, an online portal hosted on the dark web designed to let potential spies from Russia and elsewhere communicate with UK intelligence &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/250918/p44#a250918p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
