@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get an iPhone 17 Pro on T-Mobile with any condition trade-in + up to 20% savings vs the other big guys on comparable plans](https://appleinsider.com/articles/25/09/19/get-an-iphone-17-pro-on-t-mobile-with-any-condition-trade-in-up-to-20-savings-vs-the-other-big-guys-on-comparable-plans?utm_source=rss)
- - [OpenAI might be developing a smart speaker, glasses, voice recorder, and a pin](https://www.theverge.com/news/781854/openai-chatgpt-hardware-rumors-smart-speaker-glasses-pin)
- - [Meta&amp;#8217;s quest to own your face](https://www.theverge.com/podcast/781830/meta-smart-glasses-ray-ban-vergecast)<!-- TECH:END -->
+ - [Scorsese and DiCaprio&#39;s gothic horror project draws Apple TV+ interest](https://appleinsider.com/articles/25/09/19/scorsese-and-dicaprios-gothic-horror-project-draws-apple-tv-interest?utm_source=rss)
+ - [MAGA influencers are already fighting over Charlie Kirk’s death](https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson)
+ - [Gemini Pro just gained a feature ChatGPT can’t easily copy](https://www.androidauthority.com/google-gemini-share-gems-3599376/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
