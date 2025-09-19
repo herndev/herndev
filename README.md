@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
- - ⏩ [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 👉 [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)<!-- MEMES:END -->
+ - 💣 [Some people are just uuuugghhhllllhhhh!](http://9gag.com/gag/a87nZZd)
+ - ⏩ [Soul mates](http://9gag.com/gag/a34xVLN)
+ - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 ---
 
