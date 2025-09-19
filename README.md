@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: investors in the TikTok US deal are expected to pay the Trump administration a multibillion-dollar fee for negotiating a deal with China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250919/p20#a250919p20)
- - [RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots](https://www.wired.com/story/rfk-jrs-vaccine-panel-votes-down-its-own-proposal-to-require-prescriptions-for-covid-19-shots/)
- - [Samsung One UI 8.5 wants to save you from a strobe-induced seizure &lpar;APK teardown&rpar;](https://www.androidauthority.com/one-ui-epilepsy-3599543/)<!-- TECH:END -->
+ - [The 51 Best Shows on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [President Trump signs a proclamation requiring companies to pay an annual $100,000 fee for H-1B visas, a move that could significantly impact the tech industry &lpar;Reuters&rpar;](http://www.techmeme.com/250919/p23#a250919p23)
+ - [Tests show OpenAI&#39;s Sora can closely mimic Netflix shows, movies, TikTok videos, and Twitch streams, suggesting it was trained on versions of such content &lpar;Washington Post&rpar;](http://www.techmeme.com/250919/p22#a250919p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
