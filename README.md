@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Peacemaker episode 5 adds fuel to my game-changing theory about Eagly](https://www.polygon.com/peacemaker-season-2-eagly-theory/)
  - [Shelby Oaks review: Chris Stuckmann&#39;s horror debut should kickstart his movie career](https://www.polygon.com/shelby-oaks-review-chris-stuckmann/)
- - [This metroidvania based on an old Atari 2600 classic had the audacity to release on the same day as Silksong, but it&#39;s a nice break from Hornet&#39;s hell](https://www.pcgamer.com/games/action/this-metroidvania-based-on-an-old-atari-2600-classic-had-the-audacity-to-release-on-the-same-day-as-silksong-but-its-a-nice-break-from-hornets-hell/)
- - [Weapons director says his Resident Evil movie will leave everything &#39;intact&#39; from the games: &#39;I&#39;m not gonna steal Leon and put him in an original story&#39;](https://www.pcgamer.com/movies-tv/weapons-director-says-his-resident-evil-movie-will-leave-everything-intact-from-the-games-im-not-gonna-steal-leon-and-put-him-in-an-original-story/)<!-- GAME:END -->
+ - [This metroidvania based on an old Atari 2600 classic had the audacity to release on the same day as Silksong, but it&#39;s a nice break from Hornet&#39;s hell](https://www.pcgamer.com/games/action/this-metroidvania-based-on-an-old-atari-2600-classic-had-the-audacity-to-release-on-the-same-day-as-silksong-but-its-a-nice-break-from-hornets-hell/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
