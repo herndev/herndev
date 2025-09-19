@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8.5 leak reveals first mention of the Galaxy Buds 4 and Buds 4 Pro](https://www.androidauthority.com/galaxy-buds-4-pro-model-number-3599503/)
- - [Pattern, which helps brands optimize their sales on online marketplaces, closes up 11.6% at $15.63 per share in its Nasdaq debut, after raising $300M in its IPO &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250919/p18#a250919p18)
- - [Sources: Oracle is in discussions with Meta to provide computing power for training and deploying AI models, in a deal worth about $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p17#a250919p17)<!-- TECH:END -->
+ - [Sources: investors in the TikTok US deal are expected to pay the Trump administration a multibillion-dollar fee for negotiating a deal with China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250919/p20#a250919p20)
+ - [RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots](https://www.wired.com/story/rfk-jrs-vaccine-panel-votes-down-its-own-proposal-to-require-prescriptions-for-covid-19-shots/)
+ - [Samsung One UI 8.5 wants to save you from a strobe-induced seizure &lpar;APK teardown&rpar;](https://www.androidauthority.com/one-ui-epilepsy-3599543/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
