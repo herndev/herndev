@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&amp;#8217;s failed smart glasses demos had nothing to do with the Wi-Fi](https://www.theverge.com/news/781730/meta-explains-live-ai-smart-glasses-demo-failures)
- - [Inside iOS 26 - How to add free custom ringtones to your iPhone](https://appleinsider.com/inside/ios-26/tips/inside-ios-26---how-to-add-free-custom-ringtones-to-your-iphone?utm_source=rss)
- - [Meta Accused of Torrenting Porn to Advance Its Goal of AI ‘Superintelligence’](https://www.wired.com/story/meta-lawsuit-strike-3-porn-copyright-ai/)<!-- TECH:END -->
+ - [Why I ‘upgraded’ to a film camera that’s older than I am](https://www.theverge.com/cameras/772825/upgrading-film-camera-canon-ef)
+ - [Stunning iPhone 17 Pro Max photos celebrate joy in NY exhibition](https://appleinsider.com/articles/25/09/19/stunning-iphone-17-pro-max-photos-celebrate-joy-in-ny-exhibition?utm_source=rss)
+ - [iPhone 17 review: More pro features added than ever before](https://appleinsider.com/articles/25/09/19/iphone-17-review-more-pro-features-added-than-ever-before?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
