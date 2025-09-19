@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Motorola Razr Ultra comes with a free 1TB storage upgrade and smartwatch!](https://www.androidauthority.com/motorola-razr-ultra-moto-watch-fit-deal-3599147/)
- - [Sources: Nvidia spent more than $900M to hire Enfabrica CEO Rochan Sankar and other employees at the AI hardware startup and to license the company&#39;s technology &lpar;CNBC&rpar;](http://www.techmeme.com/250918/p38#a250918p38)
- - [Sources: White House weighs more CFTC chair candidates, including government officials focused on crypto policy, as Brian Quintenz&#39;s nomination remains stalled &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p37#a250918p37)<!-- TECH:END -->
+ - [Record-low deal: This Samsung monitor is too good for just $149.99!](https://www.androidauthority.com/samsung-m5-m50d-series-27-inch-smart-monitor-deal-3599146/)
+ - [Notion launches customizable agents that can create documents and perform other actions in the background, and says it has reached $500M in annualized revenue &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250918/p39#a250918p39)
+ - [These Are the 15 New York Officials ICE and NYPD Arrested in Manhattan](https://www.wired.com/story/ice-mass-arrests-new-york-officials/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
