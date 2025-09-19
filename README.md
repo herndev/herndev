@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zeitgeist](http://9gag.com/gag/aAymjog)
- - ⏩ [Soul mates](http://9gag.com/gag/a34xVLN)
- - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
+ - 💣 [You can&#39;t tell if she&#39;s hot just by the shadow. Hold my beer ...](http://9gag.com/gag/a34xVwe)
+ - ⏩ [Poemic](http://9gag.com/gag/a9yV951)
+ - 👉 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)<!-- MEMES:END -->
 
 ---
 
