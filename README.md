@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An iPhone 17 torn apart shows how Apple cut the SIM slot for bigger batteries](https://appleinsider.com/articles/25/09/19/an-iphone-17-torn-apart-shows-how-apple-cut-the-sim-slot-for-bigger-batteries?utm_source=rss)
- - [Pope Leo XIV &#39;Not Going to Authorize&#39; an AI Version of Himself](https://www.cnet.com/tech/services-and-software/pope-leo-xiv-not-going-to-authorize-an-ai-version-of-himself/#ftag=CAD590a51e)
- - [Under Pressure From Roblox, Fortnite Allowing Creators to Sell In-Game Items](https://www.cnet.com/tech/gaming/under-pressure-from-roblox-fortnite-allowing-creators-to-sell-in-game-items/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: xAI has raised $10B at a post-money valuation of $200B, weeks after reportedly raising $10B in debt and equity at a ~$150B valuation &lpar;CNBC&rpar;](http://www.techmeme.com/250919/p14#a250919p14)
+ - [Ugreen’s new super slim wallet tracker has 5 years of battery life](https://www.theverge.com/news/781945/ugreen-finetrack-slim-smart-g-bluetooth-tracker-battery-life)
+ - [You don’t have to wait for Microsoft’s handheld to start using the new Xbox mode](https://www.androidauthority.com/xbox-mode-running-early-handheld-pc-3599395/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
