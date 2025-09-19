@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canadian law enforcement seizes $40.5M in digital assets after shutting down TradeOgre crypto exchange, making it the largest Canadian crypto seizure to date. &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/250918/p47#a250918p47)
- - [SoftBank&#39;s Vision Fund plans layoffs; sources say ~20% of staff will be impacted as SoftBank shifts resources to Masayoshi Son&#39;s large-scale AI bets in the US &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250918/p46#a250918p46)
- - [LA-based Lingokids, an interactive learning app for kids aged 2-8, raised $120M led by Bullhound Capital and General Catalyst to help expand its IP partnerships &lpar;Dean Takahashi/GamesBeat&rpar;](http://www.techmeme.com/250918/p45#a250918p45)<!-- TECH:END -->
+ - [How to change what the iPhone 17 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_source=rss)
+ - [The internet is out to break the iPhone Air, but it seems indestructible](https://www.androidauthority.com/iphone-air-bend-test-3599216/)
+ - [Canadian law enforcement seizes $40.5M in digital assets after shutting down TradeOgre crypto exchange, making it the largest Canadian crypto seizure to date. &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/250918/p47#a250918p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
