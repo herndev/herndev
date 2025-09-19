@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Triple wielding](http://9gag.com/gag/a9yV9Q0)
- - ⏩ [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)
- - 👉 [Never relax](http://9gag.com/gag/awy8Rn4)<!-- MEMES:END -->
+ - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - ⏩ [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
+ - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 ---
 
