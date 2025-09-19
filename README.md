@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at China&#39;s brain-computer interface industry as startups like BrainCo grow with state support; CCID says the sector is worth $450M, growing 20% annually &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p3#a250919p3)
- - [4 apps you should use instead of Google Docs](https://www.androidauthority.com/google-docs-alternatives-3597218/)
- - [Exclusive: Here’s your first look at the redesigned Google Home experience powered by Gemini](https://www.androidauthority.com/google-home-app-gemini-redesign-first-look-3599245/)<!-- TECH:END -->
+ - [Meta&amp;#8217;s failed smart glasses demos had nothing to do with the Wi-Fi](https://www.theverge.com/news/781730/meta-explains-live-ai-smart-glasses-demo-failures)
+ - [Inside iOS 26 - How to add free custom ringtones to your iPhone](https://appleinsider.com/inside/ios-26/tips/inside-ios-26---how-to-add-free-custom-ringtones-to-your-iphone?utm_source=rss)
+ - [Meta Accused of Torrenting Porn to Advance Its Goal of AI ‘Superintelligence’](https://www.wired.com/story/meta-lawsuit-strike-3-porn-copyright-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
