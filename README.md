@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can&#39;t tell if she&#39;s hot just by the shadow. Hold my beer ...](http://9gag.com/gag/a34xVwe)
- - ⏩ [Poemic](http://9gag.com/gag/a9yV951)
- - 👉 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)<!-- MEMES:END -->
+ - 💣 [Soul mates](http://9gag.com/gag/a34xVLN)
+ - ⏩ [Zeitgeist](http://9gag.com/gag/aAymjog)
+ - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
 
 ---
 
