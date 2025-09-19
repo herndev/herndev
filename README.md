@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 19 &lpar;#1553&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-19-2025/)
- - [Peacemaker episode 5 adds fuel to my game-changing theory about Eagly](https://www.polygon.com/peacemaker-season-2-eagly-theory/)
- - [Shelby Oaks review: Chris Stuckmann&#39;s horror debut should kickstart his movie career](https://www.polygon.com/shelby-oaks-review-chris-stuckmann/)<!-- GAME:END -->
+ - [If You Went for the iPhone 7, This Official 2-Pack of 20W Chargers Costs Only $11](https://kotaku.com/if-you-went-for-the-iphone-7-this-official-2-pack-of-20w-chargers-costs-only-11-2000627118)
+ - [With the New Sony Model Out, 1000XM4 Plunges to an All-Time Low on Amazon](https://kotaku.com/with-the-new-sony-model-out-1000xm4-plunges-to-an-all-time-low-on-amazon-2000627115)
+ - [The Subnautica 2 lawsuit is getting even messier, with Krafton doing a massive U-turn, confusing both the ousted founders&#39; lawyer and the judge: &#39;This is a little bit bewildering&#39;](https://www.pcgamer.com/games/survival-crafting/the-subnautica-2-lawsuit-is-getting-even-messier-with-krafton-doing-a-massive-u-turn-confusing-both-the-ousted-founders-lawyer-and-the-judge-this-is-a-little-bit-bewildering/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
