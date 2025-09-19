@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to raise Xbox Series X price by $50 to $649.99 and Series S by $20 to $399.99 starting Oct. 3, citing &quot;changes in the macroeconomic environment&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250919/p16#a250919p16)
- - [Microsoft is raising prices on Xbox consoles in the US again](https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us)
- - [Donald Trump Is Saying There’s a TikTok Deal. China Isn’t](https://www.wired.com/story/trump-xi-us-china-tiktok-deal/)<!-- TECH:END -->
+ - [One UI 8.5 leak reveals first mention of the Galaxy Buds 4 and Buds 4 Pro](https://www.androidauthority.com/galaxy-buds-4-pro-model-number-3599503/)
+ - [Pattern, which helps brands optimize their sales on online marketplaces, closes up 11.6% at $15.63 per share in its Nasdaq debut, after raising $300M in its IPO &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250919/p18#a250919p18)
+ - [Sources: Oracle is in discussions with Meta to provide computing power for training and deploying AI models, in a deal worth about $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p17#a250919p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
