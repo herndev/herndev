@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Record-low deal: This Samsung monitor is too good for just $149.99!](https://www.androidauthority.com/samsung-m5-m50d-series-27-inch-smart-monitor-deal-3599146/)
- - [Notion launches customizable agents that can create documents and perform other actions in the background, and says it has reached $500M in annualized revenue &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250918/p39#a250918p39)
- - [These Are the 15 New York Officials ICE and NYPD Arrested in Manhattan](https://www.wired.com/story/ice-mass-arrests-new-york-officials/)<!-- TECH:END -->
+ - [Report: at an xAI meeting, Elon Musk and his executives said the Grok chatbot has 64M monthly users; OpenAI said in August that ChatGPT had 700M weekly users &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250918/p43#a250918p43)
+ - [Inside xAI&#39;s chaotic summer: Musk reorganized xAI on the fly, researchers left over concerns it abandoned science in favor of attention-grabbing products, more &lpar;New York Times&rpar;](http://www.techmeme.com/250918/p42#a250918p42)
+ - [Flashforge AD5X review: inexpensive multi-color printing with tradeoffs](https://appleinsider.com/articles/25/09/19/flashforge-ad5x-review-inexpensive-multi-color-printing-with-tradeoffs?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
