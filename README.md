@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scorsese and DiCaprio&#39;s gothic horror project draws Apple TV+ interest](https://appleinsider.com/articles/25/09/19/scorsese-and-dicaprios-gothic-horror-project-draws-apple-tv-interest?utm_source=rss)
- - [MAGA influencers are already fighting over Charlie Kirk’s death](https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson)
- - [Gemini Pro just gained a feature ChatGPT can’t easily copy](https://www.androidauthority.com/google-gemini-share-gems-3599376/)<!-- TECH:END -->
+ - [An iPhone 17 torn apart shows how Apple cut the SIM slot for bigger batteries](https://appleinsider.com/articles/25/09/19/an-iphone-17-torn-apart-shows-how-apple-cut-the-sim-slot-for-bigger-batteries?utm_source=rss)
+ - [Pope Leo XIV &#39;Not Going to Authorize&#39; an AI Version of Himself](https://www.cnet.com/tech/services-and-software/pope-leo-xiv-not-going-to-authorize-an-ai-version-of-himself/#ftag=CAD590a51e)
+ - [Under Pressure From Roblox, Fortnite Allowing Creators to Sell In-Game Items](https://www.cnet.com/tech/gaming/under-pressure-from-roblox-fortnite-allowing-creators-to-sell-in-game-items/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
