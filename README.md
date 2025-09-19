@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If You Went for the iPhone 7, This Official 2-Pack of 20W Chargers Costs Only $11](https://kotaku.com/if-you-went-for-the-iphone-7-this-official-2-pack-of-20w-chargers-costs-only-11-2000627118)
- - [With the New Sony Model Out, 1000XM4 Plunges to an All-Time Low on Amazon](https://kotaku.com/with-the-new-sony-model-out-1000xm4-plunges-to-an-all-time-low-on-amazon-2000627115)
- - [The Subnautica 2 lawsuit is getting even messier, with Krafton doing a massive U-turn, confusing both the ousted founders&#39; lawyer and the judge: &#39;This is a little bit bewildering&#39;](https://www.pcgamer.com/games/survival-crafting/the-subnautica-2-lawsuit-is-getting-even-messier-with-krafton-doing-a-massive-u-turn-confusing-both-the-ousted-founders-lawyer-and-the-judge-this-is-a-little-bit-bewildering/)<!-- GAME:END -->
+ - [How to Survive Your First Nights in Dying Light: The Beast](https://news.xbox.com/en-us/2025/09/19/how-to-survive-your-first-nights-in-dying-light-the-beast/)
+ - [MCU Actors Call For Disney Boycott Following Jimmy Kimmel Fiasco](https://kotaku.com/jimmy-kimmel-abc-disney-boycott-marvel-marisa-tomei-2000627135)
+ - [Team Reptile announces Hyperfunk, a Bomb Rush Cyberfunk follow-up that&#39;s &#39;2 seconds per second of evolved funkstyle&#39;](https://www.pcgamer.com/games/sports/team-reptile-announces-hyperfunk-a-bomb-rush-cyberfunk-follow-up-thats-2-seconds-per-second-of-evolved-funkstyle/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
