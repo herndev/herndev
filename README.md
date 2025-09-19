@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Triple wielding](http://9gag.com/gag/a9yV9Q0)
- - ⏩ [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)
+ - ⏩ [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)
  - 👉 [Never relax](http://9gag.com/gag/awy8Rn4)<!-- MEMES:END -->
 
 ---
