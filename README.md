@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mastodon, the nonprofit behind the social network, plans to offer paid hosting, moderation, and support services for organizations joining the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250919/p6#a250919p6)
- - [This RPG series does everything wrong, and it’s working](https://www.theverge.com/games/781492/trails-in-the-sky-1st-chapter-switch-ps5-steam)
- - [Huawei’s new Watch GT 6 series and Ultimate 2 blend luxury design with outdoor tracking](https://www.androidauthority.com/huawei-watch-gt-6-pro-ultimate-2-launch-3599154/)<!-- TECH:END -->
+ - [Him is a grueling and messy takedown of American football culture](https://www.theverge.com/entertainment/781175/him-review-justin-tipping-marlon-wayans)
+ - [iPhone 17 review: More pro features added than ever before](https://appleinsider.com/articles/25/09/19/iphone-17-review-more-pro-features-added-than-ever-before?utm_source=rss)
+ - [8 Best Alexa Speakers and Amazon Echo Devices We’ve Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
