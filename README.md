@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 Pro XL videos sounding off? You’re holding it wrong](https://www.androidauthority.com/pixel-10-pro-xl-video-sound-mic-issue-3599241/)
- - [How Apple tests Bluetooth, Wi-Fi, 5G, and satellite connectivity on the Apple Watch, including using a Global Navigation Satellite System simulation room &lpar;Vanessa Hand Orellana/CNET&rpar;](http://www.techmeme.com/250919/p2#a250919p2)
- - [China says Xiaomi will issue a software update for 115K+ SU7 EVs to fix assisted driving safety issues, its second recall-related fix since the 2024 launch &lpar;Reuters&rpar;](http://www.techmeme.com/250919/p1#a250919p1)<!-- TECH:END -->
+ - [Here’s your first look at the redesigned Google Home experience powered by Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-home-app-gemini-redesign-first-look-3599245/)
+ - [Your Samsung phone and watch could soon warn you of Alzheimer’s disease](https://www.androidauthority.com/samsung-alzheimers-disease-detection-3599259/)
+ - [For a limited time, a free three months of Kindle Unlimited is up for grabs](https://www.androidauthority.com/kindle-unlimited-three-months-free-3599202/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
