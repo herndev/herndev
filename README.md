@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Julia Fox explains Him&#39;s alternate ending — and her character&#39;s future](https://www.polygon.com/julia-fox-him-alternate-ending-headcanon/)
- - [Disney Panics And Releases The First Mandalorian And Grogu Star Wars Trailer](https://kotaku.com/mandalorian-grogu-trailer-disney-boycott-2000627542)
- - [Milling the SSD back into sand is one way of upgrading your iPhone 17&#39;s storage and it makes a laptop upgrade look like a four-piece jigsaw puzzle by comparison](https://www.pcgamer.com/hardware/ssds/milling-the-ssd-back-into-sand-is-one-way-of-upgrading-your-iphone-17s-storage-and-it-makes-a-laptop-upgrade-look-like-a-four-piece-jigsaw-puzzle-by-comparison/)<!-- GAME:END -->
+ - [Arc Raiders: Learn More, Pre-Order Now, and Join the Upcoming Server Slam Test](https://news.xbox.com/en-us/2025/09/22/arc-raiders-pre-order-server-slam-test/)
+ - [How to throw weapons in Dying Light: The Beast](https://www.polygon.com/dying-light-the-beast-how-to-throw-weapons/)
+ - [Anker MagGo 3-in-1 Charging Station Hits All-Time Low, Charge AirPods Pro 3, iPhone 17, and Apple Watches at Once](https://kotaku.com/anker-maggo-3-in-1-charging-station-hits-all-time-low-charge-airpods-pro-3-iphone-17-and-apple-watches-at-once-2000627300)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
