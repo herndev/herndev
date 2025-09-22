@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We don&#39;t deserve dogs](http://9gag.com/gag/aXPG0mv)
- - ⏩ [What a d**head](http://9gag.com/gag/aAyNVPR)
- - 👉 [Yuri](http://9gag.com/gag/a6Z3wr2)<!-- MEMES:END -->
+ - 💣 [Horse Jobs.](https://www.reddit.com/r/funny/comments/1nnws2j/horse_jobs/)
+ - ⏩ [Loyce Edward Deen 5 Nov. 1944](http://9gag.com/gag/amobX1V)
+ - 👉 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)<!-- MEMES:END -->
 
 ---
 
