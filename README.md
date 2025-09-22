@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone Please Stop This Flood Of Horrifying ‘Sexy’ AI Christmas Ornament Ads On TikTok](https://kotaku.com/tiktok-grinch-christmas-ornament-disney-belle-mickey-2000627636)
- - [The Steam Deck Just Went On Sale And Is Killing The Competition On Price](https://kotaku.com/autumn-2025-steam-deck-sale-cheap-pc-gaming-handheld-2000627631)
- - [Arc Raiders is opening its doors to everyone in a final &#39;Server Slam&#39; playtest coming in October](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-opening-its-doors-to-everyone-in-a-final-server-slam-playtest-coming-in-october/)<!-- GAME:END -->
+ - [Dying Light: The Beast mod nerfs the biggest annoyance in the game: how often zombies grab you](https://www.pcgamer.com/games/horror/dying-light-the-beast-mod-nerfs-the-biggest-annoyance-in-the-game-how-often-zombies-grab-you/)
+ - [Jimmy Kimmel Live! Is Back Following Disney Boycott](https://kotaku.com/disney-announces-jimmy-kimmel-return-tuesday-boycott-back-abc-not-canceled-2000627662)
+ - [All 99 Nights in the Forest codes and how to redeem them](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-codes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
