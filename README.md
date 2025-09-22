@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`uK hAs fReE SpEeCh` - 2 tier kier..](http://9gag.com/gag/aND2rXw)
- - ⏩ [Boss finally sees you doing something right](http://9gag.com/gag/a34pP23)
- - 👉 [Stereotypes aren&#39;t given they&#39;re earned](http://9gag.com/gag/aD2N08N)<!-- MEMES:END -->
+ - 💣 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)
+ - ⏩ [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
+ - 👉 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)<!-- MEMES:END -->
 
 ---
 
