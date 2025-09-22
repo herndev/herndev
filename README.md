@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should You Subscribe to Garmin Connect+? &lpar;2025&rpar;](https://www.wired.com/story/should-you-subscribe-to-garmin-connect/)
- - [Half a century of Apple lore gets explored in David Pogue&#39;s new book](https://appleinsider.com/articles/25/09/22/half-a-century-of-apple-lore-gets-explored-in-david-pogues-new-book?utm_source=rss)
- - [Oracle promotes Clay Magouyrk and Mike Sicilia to co-CEOs, replacing Safra Catz; Magouyrk previously led Cloud Infrastructure, and Sicilia led Oracle Industries &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250922/p7#a250922p7)<!-- TECH:END -->
+ - [Dropout’s Sam Reich on business, comedy, and keeping the internet weird](https://www.theverge.com/podcast/781331/hank-green-sam-reich-dropout-collegehumor-game-changer)
+ - [Why your next car should be an electric cargo bike](https://www.theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus)
+ - [Some of Nintendo’s amiibo figures are up to 70 percent off](https://www.theverge.com/tech/782445/some-of-nintendos-amiibo-figures-are-up-to-70-percent-off)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
