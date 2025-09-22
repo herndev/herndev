@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stock blows past early 2025 high as investors rally back](https://appleinsider.com/articles/25/09/22/apple-stock-blows-past-early-2025-high-as-investors-rally-back?utm_source=rss)
- - [A look at CoreWeave, whose financing strategy involves using GPUs as collateral for large loans, which enabled rapid expansion but resulted in $11.2B in debt &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250922/p27#a250922p27)
- - [Save $100 on the Apple AirPods Max, our favorite headphones for iPhone users!](https://www.androidauthority.com/apple-airpods-max-deal-5-3600060/)<!-- TECH:END -->
+ - [iOS 26 could get a major AI boost with the Model Context Protocol](https://appleinsider.com/articles/25/09/22/ios-26-could-get-a-major-ai-boost-with-the-model-context-protocol?utm_source=rss)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [Inventor of $399 Vibrating Chef&#39;s Knife Says It Requires &#39;50% Less Force to Cut&#39;](https://www.cnet.com/news/the-inventor-of-this-400-vibrating-chefs-knife-says-it-takes-50-less-force-to-cut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
