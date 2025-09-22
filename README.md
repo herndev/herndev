@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to fix most Apple Music issues in macOS Tahoe](https://appleinsider.com/inside/apple-music/tips/how-to-fix-most-apple-music-issues-in-macos-tahoe?utm_source=rss)
- - [$3,800 Flights and Aborted Takeoffs: How Trump’s H-1B Announcement Panicked Tech Workers](https://www.wired.com/story/dollar3800-flights-and-aborted-takeoffs-how-trumps-h-1b-announcement-panicked-tech-workers/)
- - [AppZen, which builds AI-powered tools to automate finance functions, raised a $180M Series D led by Riverwood Capital, bringing its total funding to $290M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250922/p12#a250922p12)<!-- TECH:END -->
+ - [Waiting to buy a game console will cost you](https://www.theverge.com/report/782532/game-console-price-hikes-xbox-ps5-switch)
+ - [How to bring back Launchpad on macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-launchpad-on-macos-tahoe?utm_source=rss)
+ - [Samsung is preparing to say goodbye to Microsoft for your photo backups &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-gallery-onedrive-support-ending-3599905/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
