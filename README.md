@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [White House says TikTok&#39;s new US entity would lease a copy of the algorithm from ByteDance, which Oracle would retrain; users won&#39;t need to re-download the app &lpar;Axios&rpar;](http://www.techmeme.com/250922/p5#a250922p5)
- - [Best Sheets for Every Bed and Budget &lpar;2025&rpar;: Cotton, Linen, Bamboo](https://www.wired.com/story/best-bedsheets/)
- - [The GSA adds Meta&#39;s Llama to its list of approved AI tools for US federal agencies, after previously approving Microsoft, Google, Anthropic, and Open AI&#39;s tools &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/250922/p4#a250922p4)<!-- TECH:END -->
+ - [The best fall desk upgrades](https://www.theverge.com/tech/771798/fall-desk-upgrades)
+ - [Now Playing gets a dreadful change, and we hope it’s not final](https://www.androidauthority.com/google-pixel-now-playing-favorite-missing-3599844/)
+ - [Cardless, which lets Coinbase and others launch co-branded credit cards, raised $60M and projects annualized revenue will grow from $15M now to $150M by Q2 2026 &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250922/p6#a250922p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
