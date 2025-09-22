@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omnea, which makes AI tools for automating procurement, raised a $50M Series B led by Insight Partners and Khosla Ventures, taking its total funding to $75M &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/250922/p22#a250922p22)
- - [Google is testing out a whole new vibe for voice search in its Android app](https://www.androidauthority.com/google-app-voice-search-redesign-3599976/)
- - [This is part of Disney&amp;#8217;s legacy now](https://www.theverge.com/policy/781960/disney-jimmy-kimmel-disney-boycott-bob-iger-dana-walden)<!-- TECH:END -->
+ - [Facebook Dating tries using AI to end ‘swipe fatigue’](https://www.theverge.com/news/782893/meta-facebook-dating-ai-chatbot-meet-cute-swipe-fatigue)
+ - [Perplexity debuts Email Assistant for Gmail and Outlook, which can manage inboxes, schedule meetings, and more, for subscribers of its $200/month Max plan &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250922/p24#a250922p24)
+ - [For the first time ever, Visible now has a physical retail presence](https://www.androidauthority.com/visible-best-buy-retail-3600034/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
