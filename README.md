@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Horse Jobs.](https://www.reddit.com/r/funny/comments/1nnws2j/horse_jobs/)
- - ⏩ [Loyce Edward Deen 5 Nov. 1944](http://9gag.com/gag/amobX1V)
- - 👉 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)<!-- MEMES:END -->
+ - 💣 [You are an Englishman in 1939. Choose your future](http://9gag.com/gag/aXPGb5V)
+ - ⏩ [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
+ - 👉 [Primal instinct kicks in](http://9gag.com/gag/aMVNbX6)<!-- MEMES:END -->
 
 ---
 
