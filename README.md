@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
- - ⏩ [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - 👉 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)<!-- MEMES:END -->
+ - 💣 [`uK hAs fReE SpEeCh` - 2 tier kier..](http://9gag.com/gag/aND2rXw)
+ - ⏩ [Boss finally sees you doing something right](http://9gag.com/gag/a34pP23)
+ - 👉 [Stereotypes aren&#39;t given they&#39;re earned](http://9gag.com/gag/aD2N08N)<!-- MEMES:END -->
 
 ---
 
