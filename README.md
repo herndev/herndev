@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 22 &lpar;#1556&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-22-2025/)
  - [Can the U.S. handle a 28 Years Later-style outbreak?](https://www.polygon.com/video/can-the-u-s-handle-a-28-years-later-style-outbreak/)
- - [Five new Steam games you probably missed &lpar;September 22, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-22-2025/)
- - [The  16+ year-old original Stalker games have Nvidia DLSS support now, which isn&#39;t as crazy as it sounds](https://www.pcgamer.com/games/fps/the-16-year-old-original-stalker-games-have-nvidia-dlss-support-now-which-isnt-as-crazy-as-it-sounds/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;September 22, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-22-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
