@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dropout’s Sam Reich on business, comedy, and keeping the internet weird](https://www.theverge.com/podcast/781331/hank-green-sam-reich-dropout-collegehumor-game-changer)
- - [Why your next car should be an electric cargo bike](https://www.theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus)
- - [Some of Nintendo’s amiibo figures are up to 70 percent off](https://www.theverge.com/tech/782445/some-of-nintendos-amiibo-figures-are-up-to-70-percent-off)<!-- TECH:END -->
+ - [How to fix most Apple Music issues in macOS Tahoe](https://appleinsider.com/inside/apple-music/tips/how-to-fix-most-apple-music-issues-in-macos-tahoe?utm_source=rss)
+ - [$3,800 Flights and Aborted Takeoffs: How Trump’s H-1B Announcement Panicked Tech Workers](https://www.wired.com/story/dollar3800-flights-and-aborted-takeoffs-how-trumps-h-1b-announcement-panicked-tech-workers/)
+ - [AppZen, which builds AI-powered tools to automate finance functions, raised a $180M Series D led by Riverwood Capital, bringing its total funding to $290M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250922/p12#a250922p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
