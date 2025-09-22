@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some people are just uuuugghhhllllhhhh!](http://9gag.com/gag/a87nZZd)
- - ⏩ [Soul mates](http://9gag.com/gag/a34xVLN)
- - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
+ - 💣 [Abandoned Uranium mine in the Czech republic](http://9gag.com/gag/aMVNe86)
+ - ⏩ [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
+ - 👉 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)<!-- MEMES:END -->
 
 ---
 
