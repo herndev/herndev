@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)
- - [Samsung’s Color E-Paper display looks so good in this video, fans want it on a phone](https://www.androidauthority.com/samsung-color-e-paper-display-3599745/)
- - [The Fall Equinox Arrives Today: The Seasonal Change Explained](https://www.cnet.com/science/the-autumn-equinox-is-on-monday-what-it-is-and-what-to-know-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chrome for Android can now read webpages like a podcast](https://www.androidauthority.com/google-chrome-android-audio-overviews-rollout-3599751/)
+ - [A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster](https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/)
+ - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
