@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can the U.S. handle a 28 Years Later-style outbreak?](https://www.polygon.com/video/can-the-u-s-handle-a-28-years-later-style-outbreak/)
- - [Amazon Wants You to Ditch Your Old Laptop and Upgrade to the New MacBook Air at a Record Low](https://kotaku.com/amazon-wants-you-to-ditch-your-old-laptop-and-upgrade-to-the-new-macbook-air-at-a-record-low-2000627500)
- - [AirTags Are Going for Pennies, Amazon Seems Ready to Liquidate the Rest of Its Stock](https://kotaku.com/airtags-are-going-for-pennies-amazon-seems-ready-to-liquidate-the-rest-of-its-stock-2000627495)<!-- GAME:END -->
+ - [Silent Hill f review: Konami&#39;s horror series is back](https://www.polygon.com/silent-hill-f-review-konami/)
+ - [Silent Hill F would be better if the combat was less enjoyable, or if there was just less combat](https://www.pcgamer.com/games/horror/silent-hill-f-would-be-better-if-the-combat-was-less-enjoyable-or-if-there-was-just-less-combat/)
+ - [Silent Hill f: The Kotaku Review](https://kotaku.com/silent-hill-f-review-horror-konami-hinako-ryukishi07-2000627505)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
