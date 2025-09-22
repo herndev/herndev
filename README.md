@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 51 Best Shows on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [President Trump signs a proclamation requiring companies to pay an annual $100,000 fee for H-1B visas, a move that could significantly impact the tech industry &lpar;Reuters&rpar;](http://www.techmeme.com/250919/p23#a250919p23)
- - [Tests show OpenAI&#39;s Sora can closely mimic Netflix shows, movies, TikTok videos, and Twitch streams, suggesting it was trained on versions of such content &lpar;Washington Post&rpar;](http://www.techmeme.com/250919/p22#a250919p22)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Sept. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-sept-22/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 21, #363](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-21-363/#ftag=CAD590a51e)
+ - [OECD lists 1,300+ AI regulations, guidelines, and other policies worldwide as of September 2025, up ~30% since 2022, but international cooperation has stalled &lpar;Naoki Watanabe/Nikkei Asia&rpar;](http://www.techmeme.com/250921/p24#a250921p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
