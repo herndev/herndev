@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook Dating tries using AI to end ‘swipe fatigue’](https://www.theverge.com/news/782893/meta-facebook-dating-ai-chatbot-meet-cute-swipe-fatigue)
- - [Perplexity debuts Email Assistant for Gmail and Outlook, which can manage inboxes, schedule meetings, and more, for subscribers of its $200/month Max plan &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250922/p24#a250922p24)
- - [For the first time ever, Visible now has a physical retail presence](https://www.androidauthority.com/visible-best-buy-retail-3600034/)<!-- TECH:END -->
+ - [One UI 8.5 could make it easier to get quick answers from AI, and here’s how](https://www.androidauthority.com/one-ui-8-5-home-screen-ai-apk-teardown-3599988/)
+ - [Meta rolls out an AI assistant for Facebook Dating in the US and Canada, to reduce &quot;swipe fatigue&quot; by letting users find matches via natural language prompts &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/250922/p26#a250922p26)
+ - [Bakkt shares jump 40%+ after naming Mike Alfred, the crypto veteran who co-founded Digital Assets Data, to its board &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250922/p25#a250922p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
