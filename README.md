@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Konami tempts fate by asking players what Metal Gear they want remastered next, and bizarrely enough includes MGS5 among the options](https://www.pcgamer.com/games/konami-tempts-fate-by-asking-players-what-metal-gear-they-want-remastered-next-and-bizarrely-enough-includes-mgs5-among-the-options/)
- - [Sucker Punch confirms it fired artist for joking about Charlie Kirk shooting: &#39;Making light of someone&#39;s murder is a deal-breaker&#39;](https://www.pcgamer.com/gaming-industry/sucker-punch-confirms-it-fired-artist-for-joking-about-charlie-kirk-shooting-making-light-of-someones-murder-is-a-deal-breaker/)
- - [Silent Hill f review](https://www.pcgamer.com/games/horror/silent-hill-f-review/)<!-- GAME:END -->
+ - [Seven at 30: How David Fincher brought horror back a year before Scream](https://www.polygon.com/seven-at-30-fincher-horror/)
+ - [YouTuber makes a &#39;portable monstrosity&#39; Xbox using a handsaw, hot glue, and eight disk drives: &#39;It&#39;s working. It&#39;s actually working!&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/youtuber-makes-a-portable-monstrosity-xbox-using-a-handsaw-hot-glue-and-eight-disk-drives-its-working-its-actually-working/)
+ - [GTA 5 Trevor actor feels &#39;nothing inside&#39; for GTA 6, challenges gamers to read Crime and Punishment: &#39;Books are my thing&#39;](https://www.pcgamer.com/games/grand-theft-auto/gta-5-trevor-actor-feels-nothing-inside-for-gta-6-challenges-gamers-to-read-crime-and-punishment-books-are-my-thing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
