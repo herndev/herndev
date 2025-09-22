@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - ⏩ [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
+ - 💣 [We don&#39;t deserve dogs](http://9gag.com/gag/aXPG0mv)
+ - ⏩ [What a d**head](http://9gag.com/gag/aAyNVPR)
+ - 👉 [Yuri](http://9gag.com/gag/a6Z3wr2)<!-- MEMES:END -->
 
 ---
 
