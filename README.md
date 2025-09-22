@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Carcadia Burn Vault walkthrough in Borderlands 4](https://www.polygon.com/borderlands-4-carcadia-burn-vault-radix-walkthrough/)
- - [Dying Light: The Beast mod nerfs the biggest annoyance in the game: how often zombies grab you](https://www.pcgamer.com/games/horror/dying-light-the-beast-mod-nerfs-the-biggest-annoyance-in-the-game-how-often-zombies-grab-you/)
- - [Jimmy Kimmel Live! Is Back Following Disney Boycott](https://kotaku.com/disney-announces-jimmy-kimmel-return-tuesday-boycott-back-abc-not-canceled-2000627662)<!-- GAME:END -->
+ - [Borderlands 4′s Super Jump Glitch Is Wild And Won’t Be Fixed…For Now](https://kotaku.com/borderlands-4s-super-jump-bug-cricket-jumping-legendary-gun-gearbox-patch-pc-2000627659)
+ - [Fans Are Freaking Out About How Bad The Mandalorian And Grogu Looks](https://kotaku.com/star-wars-mandalorian-grogu-trailer-reactions-2000627675)
+ - [Henry Cavill&#39;s new photos on Instagram probably aren&#39;t teasing anything about his new Warhammer 40,000 cinematic universe—but they might be](https://www.pcgamer.com/movies-tv/henry-cavills-new-photos-on-instagram-probably-arent-teasing-anything-about-his-new-warhammer-40-000-cinematic-universe-but-they-might-be/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
