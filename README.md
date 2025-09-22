@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Carcadia Burn Vault walkthrough in Borderlands 4](https://www.polygon.com/borderlands-4-carcadia-burn-vault-radix-walkthrough/)
  - [Dying Light: The Beast mod nerfs the biggest annoyance in the game: how often zombies grab you](https://www.pcgamer.com/games/horror/dying-light-the-beast-mod-nerfs-the-biggest-annoyance-in-the-game-how-often-zombies-grab-you/)
- - [Jimmy Kimmel Live! Is Back Following Disney Boycott](https://kotaku.com/disney-announces-jimmy-kimmel-return-tuesday-boycott-back-abc-not-canceled-2000627662)
- - [All 99 Nights in the Forest codes and how to redeem them](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-codes/)<!-- GAME:END -->
+ - [Jimmy Kimmel Live! Is Back Following Disney Boycott](https://kotaku.com/disney-announces-jimmy-kimmel-return-tuesday-boycott-back-abc-not-canceled-2000627662)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
