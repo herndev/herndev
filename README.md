@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cool.](http://9gag.com/gag/aVv1zPw)
+ - 💣 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
  - ⏩ [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 👉 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)<!-- MEMES:END -->
+ - 👉 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)<!-- MEMES:END -->
 
 ---
 
