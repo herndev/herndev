@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One mad lad is trying to play Hollow Knight and Silksong at the same time with one controller](https://www.pcgamer.com/games/action/one-mad-lad-is-trying-to-play-hollow-knight-and-silksong-at-the-same-time-with-one-controller/)
- - [Today&#39;s Wordle clues, hints and answer for September 22 &lpar;#1556&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-22-2025/)
- - [Can the U.S. handle a 28 Years Later-style outbreak?](https://www.polygon.com/video/can-the-u-s-handle-a-28-years-later-style-outbreak/)<!-- GAME:END -->
+ - [Can the U.S. handle a 28 Years Later-style outbreak?](https://www.polygon.com/video/can-the-u-s-handle-a-28-years-later-style-outbreak/)
+ - [Amazon Wants You to Ditch Your Old Laptop and Upgrade to the New MacBook Air at a Record Low](https://kotaku.com/amazon-wants-you-to-ditch-your-old-laptop-and-upgrade-to-the-new-macbook-air-at-a-record-low-2000627500)
+ - [AirTags Are Going for Pennies, Amazon Seems Ready to Liquidate the Rest of Its Stock](https://kotaku.com/airtags-are-going-for-pennies-amazon-seems-ready-to-liquidate-the-rest-of-its-stock-2000627495)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
