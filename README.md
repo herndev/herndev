@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 is getting a video wallpaper feature](https://www.theverge.com/news/782383/microsoft-windows-11-video-wallpapers)
- - [5 Android phones you should buy instead of the Galaxy S25 FE](https://www.androidauthority.com/samsung-galaxy-s25-fe-alternatives-3599124/)
- - [UK-based Tide, a neobank used by 1.6M micro and small enterprises, half of them in India, raised $120M led by TPG at a $1.5B valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250922/p2#a250922p2)<!-- TECH:END -->
+ - [White House says TikTok&#39;s new US entity would lease a copy of the algorithm from ByteDance, which Oracle would retrain; users won&#39;t need to re-download the app &lpar;Axios&rpar;](http://www.techmeme.com/250922/p5#a250922p5)
+ - [Best Sheets for Every Bed and Budget &lpar;2025&rpar;: Cotton, Linen, Bamboo](https://www.wired.com/story/best-bedsheets/)
+ - [The GSA adds Meta&#39;s Llama to its list of approved AI tools for US federal agencies, after previously approving Microsoft, Google, Anthropic, and Open AI&#39;s tools &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/250922/p4#a250922p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
