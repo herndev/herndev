@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU Commission is considering tweaking rules to simplify users&#39; cookie preference settings, after its 2009 rule plastered the internet with consent banners &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250921/p28#a250921p28)
- - [One UI 8.5 is getting ready to borrow a fan-favorite Pixel feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/one-ui-8-5-automatic-call-screening-3599737/)
- - [How Seattle, transformed into a tech hub by Amazon and Microsoft&#39;s explosive growth, is grappling with the companies&#39; layoffs affecting local economy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250921/p27#a250921p27)<!-- TECH:END -->
+ - [Samsung’s Color E-Paper display looks so good in this video, fans want it on a phone](https://www.androidauthority.com/samsung-color-e-paper-display-3599745/)
+ - [The European Commission considers tweaking rules to simplify users&#39; cookie preference settings, after its 2009 rule plastered the internet with consent banners &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250921/p28#a250921p28)
+ - [One UI 8.5 is getting ready to borrow a fan-favorite Pixel feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/one-ui-8-5-automatic-call-screening-3599737/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
