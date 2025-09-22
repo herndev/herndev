@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders: Learn More, Pre-Order Now, and Join the Upcoming Server Slam Test](https://news.xbox.com/en-us/2025/09/22/arc-raiders-pre-order-server-slam-test/)
- - [How to throw weapons in Dying Light: The Beast](https://www.polygon.com/dying-light-the-beast-how-to-throw-weapons/)
- - [Anker MagGo 3-in-1 Charging Station Hits All-Time Low, Charge AirPods Pro 3, iPhone 17, and Apple Watches at Once](https://kotaku.com/anker-maggo-3-in-1-charging-station-hits-all-time-low-charge-airpods-pro-3-iphone-17-and-apple-watches-at-once-2000627300)<!-- GAME:END -->
+ - [You can technically play Doom on a $30 vape and it just needs &#39;that last bit of RAM&#39; to run natively](https://www.pcgamer.com/hardware/you-can-technically-play-doom-on-a-usd30-vape-and-it-just-needs-that-last-bit-of-ram-to-run-natively/)
+ - [How to get the Kaoson in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-kaoson-location/)
+ - [One My Favorite Games Of 2025 Is Being Ruined By Super Rain](https://kotaku.com/dying-light-the-beast-indoor-rain-weather-bug-fix-techland-pc-steam-2000627597)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
