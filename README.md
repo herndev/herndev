@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26 could get a major AI boost with the Model Context Protocol](https://appleinsider.com/articles/25/09/22/ios-26-could-get-a-major-ai-boost-with-the-model-context-protocol?utm_source=rss)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Inventor of $399 Vibrating Chef&#39;s Knife Says It Requires &#39;50% Less Force to Cut&#39;](https://www.cnet.com/news/the-inventor-of-this-400-vibrating-chefs-knife-says-it-takes-50-less-force-to-cut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: the Nvidia-OpenAI deal has two separate transactions: Nvidia invests in OpenAI for non-voting shares, then OpenAI can use the cash to buy Nvidia&#39;s chips &lpar;Reuters&rpar;](http://www.techmeme.com/250922/p30#a250922p30)
+ - [Tech leaders embracing Trump for short-term gain may ultimately imperil their companies and is counter to Silicon Valley&#39;s idealistic roots &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250922/p29#a250922p29)
+ - [Here’s what OnePlus told us about HeyTap’s US shutdown](https://www.androidauthority.com/oneplus-statement-heytap-discontinuation-3600104/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
