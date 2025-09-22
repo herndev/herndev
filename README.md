@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cool.](http://9gag.com/gag/aVv1zPw)
- - ⏩ [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)
- - 👉 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)<!-- MEMES:END -->
+ - 💣 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
+ - ⏩ [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
+ - 👉 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)<!-- MEMES:END -->
 
 ---
 
