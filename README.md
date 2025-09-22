@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Four ways Silent Hill f evolves the series’ formula](https://blog.playstation.com/2025/09/22/four-ways-silent-hill-f-evolves-the-series-formula/)
- - [Seven at 30: How David Fincher brought horror back a year before Scream](https://www.polygon.com/seven-at-30-fincher-horror/)
- - [YouTuber makes a &#39;portable monstrosity&#39; Xbox using a handsaw, hot glue, and eight disk drives: &#39;It&#39;s working. It&#39;s actually working!&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/youtuber-makes-a-portable-monstrosity-xbox-using-a-handsaw-hot-glue-and-eight-disk-drives-its-working-its-actually-working/)<!-- GAME:END -->
+ - [Julia Fox explains Him&#39;s alternate ending — and her character&#39;s future](https://www.polygon.com/julia-fox-him-alternate-ending-headcanon/)
+ - [Disney Panics And Releases The First Mandalorian And Grogu Star Wars Trailer](https://kotaku.com/mandalorian-grogu-trailer-disney-boycott-2000627542)
+ - [Milling the SSD back into sand is one way of upgrading your iPhone 17&#39;s storage and it makes a laptop upgrade look like a four-piece jigsaw puzzle by comparison](https://www.pcgamer.com/hardware/ssds/milling-the-ssd-back-into-sand-is-one-way-of-upgrading-your-iphone-17s-storage-and-it-makes-a-laptop-upgrade-look-like-a-four-piece-jigsaw-puzzle-by-comparison/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
