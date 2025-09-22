@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can technically play Doom on a $30 vape and it just needs &#39;that last bit of RAM&#39; to run natively](https://www.pcgamer.com/hardware/you-can-technically-play-doom-on-a-usd30-vape-and-it-just-needs-that-last-bit-of-ram-to-run-natively/)
- - [How to get the Kaoson in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-kaoson-location/)
- - [One My Favorite Games Of 2025 Is Being Ruined By Super Rain](https://kotaku.com/dying-light-the-beast-indoor-rain-weather-bug-fix-techland-pc-steam-2000627597)<!-- GAME:END -->
+ - [Eurogamer: How Xbox Chooses Its Indies, and What It Means for the Devs](https://www.eurogamer.net/inside-xboxs-increasingly-vital-indie-publishing-operation#new_tab)
+ - [Nobody Told Me One Of The Biggest Games On The Planet Is Super Horny](https://kotaku.com/love-and-deepspace-zayne-edge-of-continuum-sex-scene-2000627623)
+ - [Make Some Noise season 4 returns next month with Brennan Lee Mulligan, Ben Schwartz, and more](https://www.polygon.com/dropout-make-some-noise-season-4-trailer-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
