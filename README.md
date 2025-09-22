@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sucker Punch Studio Head Comments On Firing Dev Who Joked About Charlie Kirk’s Death](https://kotaku.com/sucker-punch-charlie-kirk-ghost-yotei-sony-2000627290)
- - [&#39;You wouldn&#39;t believe how much stupid s**t is in this giant world&#39;: The Baby Steps devs want you to know as little as possible before you play their walking sim](https://www.pcgamer.com/games/action/you-wouldnt-believe-how-much-stupid-s-t-is-in-this-giant-world-the-baby-steps-devs-want-you-to-know-as-little-as-possible-before-you-play-their-walking-sim/)
- - [12 Tips To Know Before Playing Borderlands 4](https://kotaku.com/12-tips-borderlands-4-guide-help-better-loot-gold-keys-side-quests-tricks-2000626554)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;September 22, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-22-2025/)
+ - [The  16+ year-old original Stalker games have Nvidia DLSS support now, which isn&#39;t as crazy as it sounds](https://www.pcgamer.com/games/fps/the-16-year-old-original-stalker-games-have-nvidia-dlss-support-now-which-isnt-as-crazy-as-it-sounds/)
+ - [Thumper, one of the best rhythm games we&#39;ve ever played, has a follow-up and you can try the demo immediately](https://www.pcgamer.com/games/rhythm/thumper-one-of-the-best-rhythm-games-weve-ever-played-has-a-follow-up-and-you-can-try-the-demo-immediately/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
