@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eurogamer: How Xbox Chooses Its Indies, and What It Means for the Devs](https://www.eurogamer.net/inside-xboxs-increasingly-vital-indie-publishing-operation#new_tab)
- - [Nobody Told Me One Of The Biggest Games On The Planet Is Super Horny](https://kotaku.com/love-and-deepspace-zayne-edge-of-continuum-sex-scene-2000627623)
- - [Make Some Noise season 4 returns next month with Brennan Lee Mulligan, Ben Schwartz, and more](https://www.polygon.com/dropout-make-some-noise-season-4-trailer-date/)<!-- GAME:END -->
+ - [Someone Please Stop This Flood Of Horrifying ‘Sexy’ AI Christmas Ornament Ads On TikTok](https://kotaku.com/tiktok-grinch-christmas-ornament-disney-belle-mickey-2000627636)
+ - [The Steam Deck Just Went On Sale And Is Killing The Competition On Price](https://kotaku.com/autumn-2025-steam-deck-sale-cheap-pc-gaming-handheld-2000627631)
+ - [Arc Raiders is opening its doors to everyone in a final &#39;Server Slam&#39; playtest coming in October](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-opening-its-doors-to-everyone-in-a-final-server-slam-playtest-coming-in-october/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
