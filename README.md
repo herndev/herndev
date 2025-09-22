@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8.5 could make it easier to get quick answers from AI, and here’s how](https://www.androidauthority.com/one-ui-8-5-home-screen-ai-apk-teardown-3599988/)
- - [Meta rolls out an AI assistant for Facebook Dating in the US and Canada, to reduce &quot;swipe fatigue&quot; by letting users find matches via natural language prompts &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/250922/p26#a250922p26)
- - [Bakkt shares jump 40%+ after naming Mike Alfred, the crypto veteran who co-founded Digital Assets Data, to its board &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250922/p25#a250922p25)<!-- TECH:END -->
+ - [Apple stock blows past early 2025 high as investors rally back](https://appleinsider.com/articles/25/09/22/apple-stock-blows-past-early-2025-high-as-investors-rally-back?utm_source=rss)
+ - [A look at CoreWeave, whose financing strategy involves using GPUs as collateral for large loans, which enabled rapid expansion but resulted in $11.2B in debt &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250922/p27#a250922p27)
+ - [Save $100 on the Apple AirPods Max, our favorite headphones for iPhone users!](https://www.androidauthority.com/apple-airpods-max-deal-5-3600060/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
