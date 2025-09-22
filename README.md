@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best fall desk upgrades](https://www.theverge.com/tech/771798/fall-desk-upgrades)
- - [Now Playing gets a dreadful change, and we hope it’s not final](https://www.androidauthority.com/google-pixel-now-playing-favorite-missing-3599844/)
- - [Cardless, which lets Coinbase and others launch co-branded credit cards, raised $60M and projects annualized revenue will grow from $15M now to $150M by Q2 2026 &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250922/p6#a250922p6)<!-- TECH:END -->
+ - [Should You Subscribe to Garmin Connect+? &lpar;2025&rpar;](https://www.wired.com/story/should-you-subscribe-to-garmin-connect/)
+ - [Half a century of Apple lore gets explored in David Pogue&#39;s new book](https://appleinsider.com/articles/25/09/22/half-a-century-of-apple-lore-gets-explored-in-david-pogues-new-book?utm_source=rss)
+ - [Oracle promotes Clay Magouyrk and Mike Sicilia to co-CEOs, replacing Safra Catz; Magouyrk previously led Cloud Infrastructure, and Sicilia led Oracle Industries &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250922/p7#a250922p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
