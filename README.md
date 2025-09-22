@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [One mad lad is trying to play Hollow Knight and Silksong at the same time with one controller](https://www.pcgamer.com/games/action/one-mad-lad-is-trying-to-play-hollow-knight-and-silksong-at-the-same-time-with-one-controller/)
  - [Today&#39;s Wordle clues, hints and answer for September 22 &lpar;#1556&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-22-2025/)
- - [Can the U.S. handle a 28 Years Later-style outbreak?](https://www.polygon.com/video/can-the-u-s-handle-a-28-years-later-style-outbreak/)
- - [Five new Steam games you probably missed &lpar;September 22, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-22-2025/)<!-- GAME:END -->
+ - [Can the U.S. handle a 28 Years Later-style outbreak?](https://www.polygon.com/video/can-the-u-s-handle-a-28-years-later-style-outbreak/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
