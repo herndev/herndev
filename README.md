@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump administration just can’t stop leaking its chats](https://www.theverge.com/report/782655/trump-truth-social-pam-bondi-post-government-security)
- - [iPhone 17 users report unexpected Wi-Fi disconnects](https://appleinsider.com/articles/25/09/22/iphone-17-users-report-unexpected-wi-fi-disconnects?utm_source=rss)
- - [New Fire TV jailbreak lets you use a custom launcher, but don’t tell Amazon](https://www.androidauthority.com/fire-tv-exploit-custom-launcher-3599908/)<!-- TECH:END -->
+ - [Omnea, which makes AI tools for automating procurement, raised a $50M Series B led by Insight Partners and Khosla Ventures, taking its total funding to $75M &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/250922/p22#a250922p22)
+ - [Google is testing out a whole new vibe for voice search in its Android app](https://www.androidauthority.com/google-app-voice-search-redesign-3599976/)
+ - [This is part of Disney&amp;#8217;s legacy now](https://www.theverge.com/policy/781960/disney-jimmy-kimmel-disney-boycott-bob-iger-dana-walden)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
