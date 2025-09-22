@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waiting to buy a game console will cost you](https://www.theverge.com/report/782532/game-console-price-hikes-xbox-ps5-switch)
- - [How to bring back Launchpad on macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-launchpad-on-macos-tahoe?utm_source=rss)
- - [Samsung is preparing to say goodbye to Microsoft for your photo backups &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-gallery-onedrive-support-ending-3599905/)<!-- TECH:END -->
+ - [The Trump administration just can’t stop leaking its chats](https://www.theverge.com/report/782655/trump-truth-social-pam-bondi-post-government-security)
+ - [iPhone 17 users report unexpected Wi-Fi disconnects](https://appleinsider.com/articles/25/09/22/iphone-17-users-report-unexpected-wi-fi-disconnects?utm_source=rss)
+ - [New Fire TV jailbreak lets you use a custom launcher, but don’t tell Amazon](https://www.androidauthority.com/fire-tv-exploit-custom-launcher-3599908/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
