@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Practice](http://9gag.com/gag/a34pvb7)
- - ⏩ [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 👉 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)<!-- MEMES:END -->
+ - 💣 [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
+ - ⏩ [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
+ - 👉 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)<!-- MEMES:END -->
 
 ---
 
