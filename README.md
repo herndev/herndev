@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based Tide, a neobank used by 1.6M micro and small enterprises, half of them in India, raised $120M led by TPG at a $1.5B valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250922/p2#a250922p2)
- - [A look at the data center cluster in the Chinese city of Wuhu, where 15 companies, including Huawei, have built data centers with a total investment of $37B &lpar;Financial Times&rpar;](http://www.techmeme.com/250922/p1#a250922p1)
- - [Breaking: Galaxy S24 series is now getting the stable One UI 8 update](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-8-3599796/)<!-- TECH:END -->
+ - [Windows 11 is getting a video wallpaper feature](https://www.theverge.com/news/782383/microsoft-windows-11-video-wallpapers)
+ - [5 Android phones you should buy instead of the Galaxy S25 FE](https://www.androidauthority.com/samsung-galaxy-s25-fe-alternatives-3599124/)
+ - [UK-based Tide, a neobank used by 1.6M micro and small enterprises, half of them in India, raised $120M led by TPG at a $1.5B valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250922/p2#a250922p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
