@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - ⏩ [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 💣 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - ⏩ [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
  - 👉 [Guy gets kicked off air by Sky News for wearing a BACON shirt and exposing ISLAM](http://9gag.com/gag/aO8NqZy)<!-- MEMES:END -->
 
 ---
