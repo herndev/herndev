@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
+ - 💣 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
  - ⏩ [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
  - 👉 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)<!-- MEMES:END -->
 
