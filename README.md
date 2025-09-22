@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome for Android can now read webpages like a podcast](https://www.androidauthority.com/google-chrome-android-audio-overviews-rollout-3599751/)
- - [A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster](https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/)
- - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [Galaxy S26 Ultra’s display could outshine the iPhone 17, but there’s bad news for S26 Pro, Edge](https://www.androidauthority.com/samsung-galaxy-s26-ultra-m14-oled-coe-leak-3599760/)
+ - [Here’s what’s new in Google Home app’s most recent update](https://www.androidauthority.com/google-home-app-3-40-release-notes-3599761/)
+ - [Silent Hill f Review: A Misnamed and Misguided Survival Horror Game](https://www.cnet.com/tech/gaming/silent-hill-f-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
