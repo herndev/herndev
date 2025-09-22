@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill f review: Konami&#39;s horror series is back](https://www.polygon.com/silent-hill-f-review-konami/)
- - [Silent Hill F would be better if the combat was less enjoyable, or if there was just less combat](https://www.pcgamer.com/games/horror/silent-hill-f-would-be-better-if-the-combat-was-less-enjoyable-or-if-there-was-just-less-combat/)
- - [Silent Hill f: The Kotaku Review](https://kotaku.com/silent-hill-f-review-horror-konami-hinako-ryukishi07-2000627505)<!-- GAME:END -->
+ - [Konami tempts fate by asking players what Metal Gear they want remastered next, and bizarrely enough includes MGS5 among the options](https://www.pcgamer.com/games/konami-tempts-fate-by-asking-players-what-metal-gear-they-want-remastered-next-and-bizarrely-enough-includes-mgs5-among-the-options/)
+ - [Sucker Punch confirms it fired artist for joking about Charlie Kirk shooting: &#39;Making light of someone&#39;s murder is a deal-breaker&#39;](https://www.pcgamer.com/gaming-industry/sucker-punch-confirms-it-fired-artist-for-joking-about-charlie-kirk-shooting-making-light-of-someones-murder-is-a-deal-breaker/)
+ - [Silent Hill f review](https://www.pcgamer.com/games/horror/silent-hill-f-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
