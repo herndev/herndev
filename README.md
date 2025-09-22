@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are an Englishman in 1939. Choose your future](http://9gag.com/gag/aXPGb5V)
- - ⏩ [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
- - 👉 [Primal instinct kicks in](http://9gag.com/gag/aMVNbX6)<!-- MEMES:END -->
+ - 💣 [Loyce Edward Deen 5 Nov. 1944](http://9gag.com/gag/amobX1V)
+ - ⏩ [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
+ - 👉 [Hugo boss](http://9gag.com/gag/aKGNgD3)<!-- MEMES:END -->
 
 ---
 
