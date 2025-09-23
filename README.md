@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Steam user just got an achievement for owning 40,000 games](https://www.polygon.com/steam-achievements-game-collector-40000-sonixlegend-worth/)
- - [Ubisoft’s Overlooked Avatar Game Is Getting New DLC Two Years After Launch](https://kotaku.com/ubisoft-avatar-frontiers-of-pandora-dlc-expansion-fire-and-ash-avatar-3-price-2000627958)
- - [Pokémon Go &#39;Completely Normal&#39; event guide](https://www.polygon.com/pokemon-go-completely-normal-event-guide-dudunsparce-dunsparce/)<!-- GAME:END -->
+ - [Baby Steps’ nudity toggle unleashes a donkey dong bonanza](https://www.polygon.com/baby-steps-nudity-toggle-explained/)
+ - [Marvel and DC crossover Deadpool/Batman #1 gives an unlikely hero a Green Lantern ring](https://www.polygon.com/marvel-dc-crossover-rocket-raccoon-green-lantern/)
+ - [Rambo prequel director defends dropping Stallone for new actor](https://www.polygon.com/rambo-prequel-stallone-casting-sisu-2-director/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
