@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A bit hairy](http://9gag.com/gag/aXPGEz6)
- - ⏩ [Nice](http://9gag.com/gag/azxDLMj)
- - 👉 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)<!-- MEMES:END -->
+ - 💣 [Yo mama](http://9gag.com/gag/avyX0dW)
+ - ⏩ [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
+ - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
 
 ---
 
