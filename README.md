@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Charlie Kirk’s megachurch memorial service](https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator)
- - [GitHub outlines plans to secure npm following multiple supply-chain attacks, including deprecating legacy classic tokens and migrating users to FIDO-based 2FA &lpar;Xavier René-Corail/The GitHub Blog&rpar;](http://www.techmeme.com/250923/p35#a250923p35)
- - [Hola, AI Mode: Google brings its powerful search tool to Spanish speakers](https://www.androidauthority.com/google-ai-mode-spanish-3600557/)<!-- TECH:END -->
+ - [Borderlands 4 on Nintendo Switch 2 is being delayed](https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay)
+ - [Grab an Amazon Fire TV Stick 4K at a 54% discount!](https://www.androidauthority.com/amazon-fire-tv-stick-4k-deal-3600549/)
+ - [Sources: OpenAI and Nvidia are discussing structuring their new AI data center partnership so that OpenAI would lease Nvidia&#39;s AI chips instead of buying them &lpar;The Information&rpar;](http://www.techmeme.com/250923/p37#a250923p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
