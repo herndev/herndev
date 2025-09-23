@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wamen](http://9gag.com/gag/aE0Nzvn)
+ - 💣 [Bond burger](http://9gag.com/gag/ajPM658)
  - ⏩ [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
  - 👉 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)<!-- MEMES:END -->
 
