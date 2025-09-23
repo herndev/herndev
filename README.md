@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eureka J15 Max Ultra — One of our favorite robot vacuums gets a huge upgrade](https://www.androidauthority.com/eureka-j15-max-ultra-3599713/)
- - [WIRED Tested the Best Organic Sheets &lpar;2025&rpar;: Coyuchi, The Citizenry](https://www.wired.com/gallery/best-organic-sheets/)
- - [Auterion, which provides autopilot and swarming software for military drones, raised $130M led by Bessemer at a $600M+ valuation, says it has ~$100M in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p6#a250923p6)<!-- TECH:END -->
+ - [Fall into smarter lighting](https://www.theverge.com/tech/781652/smart-light-matter-philips-hue-apple-home)
+ - [Tap to Pay on iPhone comes to yet more European countries](https://appleinsider.com/articles/25/09/23/tap-to-pay-on-iphone-comes-to-yet-more-european-countries?utm_source=rss)
+ - [The US Secret Service says it has dismantled 300+ SIM card servers in the NYC area that could have disrupted communications ahead of the UN General Assembly &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/250923/p8#a250923p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
