@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best gaming laptop in 2025: I&#39;ve had my hands on the best laptops for gaming of this generation and these are the ones I recommend](https://www.pcgamer.com/best-gaming-laptop/)
- - [This Player Just Won Steam After Buying More Games Than Anyone Else Ever](https://kotaku.com/steam-achievement-badge-leaderboard-collector-2000628009)
- - [GTA 6 hype mounts as Rockstar starts working with fans](https://www.polygon.com/gta-6-nopixel-role-playing-servers-studio-twitch-pc/)<!-- GAME:END -->
+ - [All mask shard locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-mask-shard-locations/)
+ - [Dying Light The Beast interactive map of Castor Woods](https://www.polygon.com/map/dying-light-the-beast-interactive-map-full-locations-all/)
+ - [Get free shiny Legendary Pokémon in Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-shiny-treasures-of-ruin-mystery-gifts/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
