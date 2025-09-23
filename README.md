@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta launches the American Technology Excellence Project, a super PAC to fight AI policy bills at the state level; it previously launched a California PAC &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250923/p14#a250923p14)
- - [Bang &amp;#038; Olufsen&amp;#8217;s new earbuds will cost you more than the latest iPhone](https://www.theverge.com/news/783590/bang-olufsen-beo-grace-earbuds-pricing-availability)
- - [YouTube wants you to go live](https://www.theverge.com/podcast/783282/youtube-livestream-ai-ads-vergecast)<!-- TECH:END -->
+ - [Got all you need from the notification? Gmail starts letting you mark as read](https://www.androidauthority.com/gmail-mark-as-read-3600346/)
+ - [A look at London-based &quot;neocloud&quot; startup Nscale, which landed a $500M investment from Nvidia and aims to scale up to 300K GPUs globally, on par with CoreWeave &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250923/p18#a250923p18)
+ - [Larry Ellison is turning into a media magnate, potentially controlling CBS, CNN, TikTok, and more, amid a regulatory environment favorable to Trump allies &lpar;New York Times&rpar;](http://www.techmeme.com/250923/p17#a250923p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
