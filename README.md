@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Open Thread: This is my ideal Google One subscription plan — What’s your?](https://www.androidauthority.com/ideal-google-one-subscription-plan-discussion-3600188/)
- - [T-Mobile’s free line promo is back again, but there are a few catches](https://www.androidauthority.com/t-mobile-free-line-promo-back-3600185/)
- - [Tado’s new AI features will adaptively heat your home](https://www.theverge.com/news/783465/tado-x-ai-auto-assist-heating-update)<!-- TECH:END -->
+ - [Google Keep’s upcoming feature is AI overkill at its finest &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-ai-title-generate-3600203/)
+ - [Nick Fuentes’ Plan to Conquer America](https://www.wired.com/story/nick-fuentes-plan-to-conquer-america/)
+ - [A look at the Nvidia-OpenAI deal, where Nvidia will invest in $10B tranches; sources say OpenAI informed Microsoft about the deal a day before it was signed &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250923/p5#a250923p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
