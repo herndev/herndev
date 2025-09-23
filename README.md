@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Designing The Krasue: Dead by Daylight Brings Thai Folklore into the Fog](https://news.xbox.com/en-us/2025/09/23/dead-by-daylight-krague-thai-folklore/)
- - [Ananta is basically &quot;anime GTA&quot; plus Marvel&#39;s Spider-Man](https://www.polygon.com/ananta-trailer-ps5-anime-gta-spider-man/)
- - [Demon Slayer Infinity Castle beats Mugen Train to become highest-grossing anime movie](https://www.polygon.com/demon-slayer-infinity-castle-beat-mugen-train-box-office/)<!-- GAME:END -->
+ - [Dead by Daylight enlisted a death metal singer helped bring the Krasue to life](https://www.polygon.com/dead-by-daylight-krasue-dave-richard-interview/)
+ - [Baby Steps review: 2025 Game of the Year contender you didn’t see coming](https://www.polygon.com/baby-steps-review/)
+ - [Hades 2 release time and date in your time zone](https://www.polygon.com/hades-2-release-time-zone-pdt-edt/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
