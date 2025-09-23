@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A first look at Kojima’s OD Xbox game](https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer)
- - [Chewy Promo Codes: $20 Off | September 2025](https://www.wired.com/story/chewy-promo-code/)
- - [A look at India&#39;s $18.2B chipmaking push, with 10 projects across six states to cut import reliance, as experts question if talent and investment are enough &lpar;Priyanka Salve/CNBC&rpar;](http://www.techmeme.com/250923/p1#a250923p1)<!-- TECH:END -->
+ - [ChatGPT’s $4.5 subscription is expanding to more countries](https://www.androidauthority.com/chatgpt-go-expansion-3600175/)
+ - [OpenAI launches ChatGPT Go in Indonesia for ~$4.50 per month, expanding its budget-friendly ChatGPT subscription plan after debuting it in India in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250923/p3#a250923p3)
+ - [Indian AI app development platform Rocket.new raised a $15M seed led by Salesforce Ventures; it has 400K+ users, including 10K+ paid subscribers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250923/p2#a250923p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
