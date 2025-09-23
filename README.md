@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at India&#39;s $18.2B chipmaking push, with 10 projects across six states to cut import reliance, as experts question if talent and investment are enough &lpar;Priyanka Salve/CNBC&rpar;](http://www.techmeme.com/250923/p1#a250923p1)
  - [Apple’s shiny new iPhone 17 faces “Scratchgate” as early buyers spot marks on day one](https://www.androidauthority.com/iphone-17-pro-scratchgate-3600146/)
- - [How to take a high quality screenshot of a YouTube video on a Mac](https://appleinsider.com/inside/macos/tips/how-to-take-a-high-quality-screenshot-of-a-youtube-video-on-a-mac?utm_source=rss)
- - [A look at MrBeast&#39;s entertainment company, which has ~$450M in annual sales but faced three years of losses due to high production costs of $3M-$4M per video &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250922/p35#a250922p35)<!-- TECH:END -->
+ - [How to take a high quality screenshot of a YouTube video on a Mac](https://appleinsider.com/inside/macos/tips/how-to-take-a-high-quality-screenshot-of-a-youtube-video-on-a-mac?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
