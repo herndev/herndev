@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideo Kojima&#39;s Death Stranding anime reveals first trailer and working title](https://www.polygon.com/death-stranding-mosquito-anime-hideo-kojima/)
- - [Physint, Kojima&#39;s forthcoming &#39;tactical espionage action game&#39;, gets a poster and an early cast list](https://www.pcgamer.com/games/action/physint-kojimas-forthcoming-tactical-espionage-action-game-gets-a-poster-and-an-early-cast-list/)
- - [Death Stranding Mosquito is the inevitable Death Stranding anime](https://www.pcgamer.com/games/action/death-stranding-mosquito-is-the-inevitable-death-stranding-anime/)<!-- GAME:END -->
+ - [Hamish Linklater&#39;s career is &quot;torture.&quot;](https://www.polygon.com/video/hamish-linklater-monologues-gen-v/)
+ - [OD – Knock: Watch the Teaser Trailer from Kojima Productions](https://www.youtube.com/watch?v=eHCqxLtwy5g#new_tab)
+ - [All Racket Rivals codes and how to redeem them](https://www.pcgamer.com/games/racket-rivals-codes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
