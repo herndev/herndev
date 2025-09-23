@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead by Daylight enlisted a death metal singer helped bring the Krasue to life](https://www.polygon.com/dead-by-daylight-krasue-dave-richard-interview/)
- - [Baby Steps review: 2025 Game of the Year contender you didn’t see coming](https://www.polygon.com/baby-steps-review/)
- - [Hades 2 release time and date in your time zone](https://www.polygon.com/hades-2-release-time-zone-pdt-edt/)<!-- GAME:END -->
+ - [This Steam user just got an achievement for owning 40,000 games](https://www.polygon.com/steam-achievements-game-collector-40000-sonixlegend-worth/)
+ - [Ubisoft’s Overlooked Avatar Game Is Getting New DLC Two Years After Launch](https://kotaku.com/ubisoft-avatar-frontiers-of-pandora-dlc-expansion-fire-and-ash-avatar-3-price-2000627958)
+ - [Pokémon Go &#39;Completely Normal&#39; event guide](https://www.polygon.com/pokemon-go-completely-normal-event-guide-dudunsparce-dunsparce/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
