@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 23 &lpar;#1557&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-23-2025/)
  - [Julia Fox didn&#39;t have to transform to play a wag in Him](https://www.polygon.com/video/julia-fox-him-makeup-transformation/)
- - [Palfarm is a Palworld spinoff that looks like Pokémon Stardew Valley](https://www.polygon.com/palworld-palfarm-farming-game-trailer-steam-pocketpair/)
- - [Silent Hill f release date and launch times](https://www.pcgamer.com/games/horror/silent-hill-f-release-date-launch-times/)<!-- GAME:END -->
+ - [Palfarm is a Palworld spinoff that looks like Pokémon Stardew Valley](https://www.polygon.com/palworld-palfarm-farming-game-trailer-steam-pocketpair/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
