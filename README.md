@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all f**ked? Or just me.](http://9gag.com/gag/a2vjYv1)
- - ⏩ [Primal instinct kicks in](http://9gag.com/gag/aMVNbX6)
- - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
+ - 💣 [Primal instinct kicks in](http://9gag.com/gag/aMVNbX6)
+ - ⏩ [New recruits in English Police.](http://9gag.com/gag/aE0N13O)
+ - 👉 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)<!-- MEMES:END -->
 
 ---
 
