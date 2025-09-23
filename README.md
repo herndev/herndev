@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7 Update 1.63 available today](https://blog.playstation.com/2025/09/23/gran-turismo-7-update-1-63-available-today/)
- - [Gran Turismo 7 Update 1.63 available today](https://blog.playstation.com/2025/09/23/gran-turismo-7-update-1-63-available-today/)
- - [The Invincible TTRPG blends bloody battles, superhero banter, and personal drama](https://www.polygon.com/invincible-superhero-roleplaying-ttrpg-kickstarter-free-league-publishing/)<!-- GAME:END -->
+ - [MTG just teased a new Lord of the Rings crossover set](https://www.polygon.com/mtg-new-lord-of-the-rings-hobbit-set-secret-lair-magiccon-atlanta-2025/)
+ - [Everything Kojima Just Announced At His Anniversary Of Leaving Konami Showcase](https://kotaku.com/hideo-kojima-physint-od-trailer-showcase-2000627889)
+ - [Department Of Homeland Security Uses Pokémon Song To Promote Kidnapping](https://kotaku.com/department-homeland-security-ice-pokemon-song-video-2000627900)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
