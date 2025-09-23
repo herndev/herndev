@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at India&#39;s $18.2B chipmaking push, with 10 projects across six states to cut import reliance, as experts question if talent and investment are enough &lpar;Priyanka Salve/CNBC&rpar;](http://www.techmeme.com/250923/p1#a250923p1)
- - [Apple’s shiny new iPhone 17 faces “Scratchgate” as early buyers spot marks on day one](https://www.androidauthority.com/iphone-17-pro-scratchgate-3600146/)
- - [How to take a high quality screenshot of a YouTube video on a Mac](https://appleinsider.com/inside/macos/tips/how-to-take-a-high-quality-screenshot-of-a-youtube-video-on-a-mac?utm_source=rss)<!-- TECH:END -->
+ - [A first look at Kojima’s OD Xbox game](https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer)
+ - [Chewy Promo Codes: $20 Off | September 2025](https://www.wired.com/story/chewy-promo-code/)
+ - [A look at India&#39;s $18.2B chipmaking push, with 10 projects across six states to cut import reliance, as experts question if talent and investment are enough &lpar;Priyanka Salve/CNBC&rpar;](http://www.techmeme.com/250923/p1#a250923p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
