@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos expands conversational editing to more Android phones](https://www.theverge.com/news/783562/google-photos-conversational-voice-edits-android)
- - [Microsoft says it is experimenting with microfluidics, which involves sending fluid through channels in AI and server chips to improve cooling efficiency &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p21#a250923p21)
- - [How to make sure The Verge shows up in your Google search results](https://www.theverge.com/tech/782887/how-to-the-verge-google-search-results)<!-- TECH:END -->
+ - [EU tells Apple to crack down on online fraud](https://appleinsider.com/articles/25/09/23/eu-tells-apple-to-crack-down-on-online-fraud?utm_source=rss)
+ - [Apple Music for Android gains some iOS 26 upgrades](https://appleinsider.com/articles/25/09/23/apple-music-for-android-gains-some-ios-26-upgrades?utm_source=rss)
+ - [The Best Roku for Most People Is Under $30 on Sale](https://www.wired.com/story/roku-streaming-stick-plus-2025-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
