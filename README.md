@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
- - ⏩ [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
+ - 💣 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
+ - ⏩ [Loyce Edward Deen 5 Nov. 1944](http://9gag.com/gag/amobX1V)
+ - 👉 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)<!-- MEMES:END -->
 
 ---
 
