@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC component maker Maxsun decides the time is right for a new motherboard format, by taking a hacksaw to an mATX circuit board](https://www.pcgamer.com/hardware/motherboards/pc-component-maker-maxsun-decides-the-time-is-right-for-a-new-motherboard-format-by-taking-a-hacksaw-to-an-matx-circuit-board/)
- - [Hideo Kojima and Jordan Peele&#39;s OD gets terrifying new trailer](https://www.polygon.com/od-hideo-kojima-jordan-peele-xbox-trailer-pt/)
- - [The Little Nightmares 3 demo has already convinced me that co-op is the way forward for the series](https://www.pcgamer.com/games/horror/the-little-nightmares-3-demo-has-already-convinced-me-that-co-op-is-the-way-forward-for-the-series/)<!-- GAME:END -->
+ - [The Mandalorian movie could make up for Star Wars&#39; biggest misfire](https://www.polygon.com/the-mandalorian-movie-could-make-up-for-star-wars-biggest-misfire/)
+ - [Nvidia plans to splash OpenAI with cash, pouring out $100 billion for ChatGPT&#39;s creator and making last week&#39;s Intel investment look like a drop in the money bucket](https://www.pcgamer.com/software/ai/nvidia-plans-to-splash-openai-with-cash-pouring-out-usd100-billion-for-chatgpts-creator-and-making-last-weeks-intel-investment-look-like-a-drop-in-the-money-bucket/)
+ - [An original Apple I PC just sold for $500K and now I&#39;m frantically ransacking boxes of old PC and Apple kit for my retirement fund](https://www.pcgamer.com/hardware/an-original-apple-i-pc-just-sold-for-usd500k-and-now-im-frantically-ransacking-boxes-of-old-pc-and-apple-kit-for-my-retirement-fund/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
