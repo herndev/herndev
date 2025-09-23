@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Savant&#39; pulled from Apple TV+ schedule, new date unannounced](https://appleinsider.com/articles/25/09/23/the-savant-pulled-from-apple-tv-schedule-new-date-unannounced?utm_source=rss)
- - [This Google Photos editing tool was a Pixel 10 exclusive, but now you can try it](https://www.androidauthority.com/google-photos-ask-photos-wider-rollout-3600454/)
- - [Google Home is letting you get a lot more done without using the app](https://www.androidauthority.com/google-home-web-3600473/)<!-- TECH:END -->
+ - [MLB will use robot umpires beginning next season](https://www.theverge.com/news/783982/mlb-baseball-robot-umpires-abs)
+ - [Micron reports Q4 revenue up 46% YoY to $11.32B, vs. $11.22B est., net income up 261% to $3.2B, data center revenue down 22%, and Q1 revenue forecast above est. &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250923/p32#a250923p32)
+ - [Trump’s Tylenol Directive Could Actually Increase Autism Rates, Researchers Warn](https://www.wired.com/story/trumps-tylenol-directive-could-actually-increase-autism-rates-researchers-warn/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
