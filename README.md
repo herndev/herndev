@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a survival capsule design to survive a tsunami. Look familiar?](http://9gag.com/gag/abAm53v)
- - ⏩ [Hugo boss](http://9gag.com/gag/aKGNgD3)
- - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
+ - 💣 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
+ - ⏩ [Nice](http://9gag.com/gag/azxDLMj)
+ - 👉 [Men are simple creatures](http://9gag.com/gag/abAmqgO)<!-- MEMES:END -->
 
 ---
 
