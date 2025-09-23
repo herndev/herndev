@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mandalorian movie could make up for Star Wars&#39; biggest misfire](https://www.polygon.com/the-mandalorian-movie-could-make-up-for-star-wars-biggest-misfire/)
- - [Nvidia plans to splash OpenAI with cash, pouring out $100 billion for ChatGPT&#39;s creator and making last week&#39;s Intel investment look like a drop in the money bucket](https://www.pcgamer.com/software/ai/nvidia-plans-to-splash-openai-with-cash-pouring-out-usd100-billion-for-chatgpts-creator-and-making-last-weeks-intel-investment-look-like-a-drop-in-the-money-bucket/)
- - [An original Apple I PC just sold for $500K and now I&#39;m frantically ransacking boxes of old PC and Apple kit for my retirement fund](https://www.pcgamer.com/hardware/an-original-apple-i-pc-just-sold-for-usd500k-and-now-im-frantically-ransacking-boxes-of-old-pc-and-apple-kit-for-my-retirement-fund/)<!-- GAME:END -->
+ - [Gran Turismo 7 Update 1.63 available today](https://blog.playstation.com/2025/09/23/gran-turismo-7-update-1-63-available-today/)
+ - [Gran Turismo 7 Update 1.63 available today](https://blog.playstation.com/2025/09/23/gran-turismo-7-update-1-63-available-today/)
+ - [The Invincible TTRPG blends bloody battles, superhero banter, and personal drama](https://www.polygon.com/invincible-superhero-roleplaying-ttrpg-kickstarter-free-league-publishing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
