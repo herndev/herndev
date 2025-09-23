@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hideo Kojima&#39;s Death Stranding anime reveals first trailer and working title](https://www.polygon.com/death-stranding-mosquito-anime-hideo-kojima/)
  - [Physint, Kojima&#39;s forthcoming &#39;tactical espionage action game&#39;, gets a poster and an early cast list](https://www.pcgamer.com/games/action/physint-kojimas-forthcoming-tactical-espionage-action-game-gets-a-poster-and-an-early-cast-list/)
- - [Death Stranding Mosquito is the inevitable Death Stranding anime](https://www.pcgamer.com/games/action/death-stranding-mosquito-is-the-inevitable-death-stranding-anime/)
- - [Kojima&#39;s OD just got 3 minutes worth of in-engine footage, and it&#39;s definitely following in the footsteps of P.T.](https://www.pcgamer.com/games/horror/kojimas-od-just-got-3-minutes-worth-of-in-engine-footage-and-its-definitely-following-in-the-footsteps-of-p-t/)<!-- GAME:END -->
+ - [Death Stranding Mosquito is the inevitable Death Stranding anime](https://www.pcgamer.com/games/action/death-stranding-mosquito-is-the-inevitable-death-stranding-anime/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
