@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MLB will use robot umpires beginning next season](https://www.theverge.com/news/783982/mlb-baseball-robot-umpires-abs)
- - [Micron reports Q4 revenue up 46% YoY to $11.32B, vs. $11.22B est., net income up 261% to $3.2B, data center revenue down 22%, and Q1 revenue forecast above est. &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250923/p32#a250923p32)
- - [Trump’s Tylenol Directive Could Actually Increase Autism Rates, Researchers Warn](https://www.wired.com/story/trumps-tylenol-directive-could-actually-increase-autism-rates-researchers-warn/)<!-- TECH:END -->
+ - [Inside Charlie Kirk’s megachurch memorial service](https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator)
+ - [GitHub outlines plans to secure npm following multiple supply-chain attacks, including deprecating legacy classic tokens and migrating users to FIDO-based 2FA &lpar;Xavier René-Corail/The GitHub Blog&rpar;](http://www.techmeme.com/250923/p35#a250923p35)
+ - [Hola, AI Mode: Google brings its powerful search tool to Spanish speakers](https://www.androidauthority.com/google-ai-mode-spanish-3600557/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
