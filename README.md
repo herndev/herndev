@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba releases Qwen3-Omni, a family of open-source AI models that can process text, audio, image, and video inputs and generate both text and speech outputs &lpar;Carl Franzen/Venturebeat&rpar;](http://www.techmeme.com/250922/p32#a250922p32)
- - [iPhone Air Proves That Thinner Can Be Better, and Easy to Repair](https://www.cnet.com/tech/mobile/iphone-air-proves-that-thinner-can-be-better-and-easy-to-repair-site-reports/#ftag=CAD590a51e)
- - [Distyl AI, which provides AI tools to automate business processes like HR management, raised $175M led by Lightspeed and Khosla Ventures at a $1.8B valuation &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250922/p31#a250922p31)<!-- TECH:END -->
+ - [Sources: humanoid robotics startup 1X is seeking to raise up to $1B at a $10B+ valuation, more than 12x its previous valuation from a January financing &lpar;The Information&rpar;](http://www.techmeme.com/250922/p34#a250922p34)
+ - [Palworld is getting a farming spinoff](https://www.theverge.com/news/782945/palworld-palfarm-farming-spinoff)
+ - [The EU&#39;s cybersecurity agency says a ransomware attack caused the recent disruptions that affected check-in systems at Heathrow and other European airports &lpar;Reuters&rpar;](http://www.techmeme.com/250922/p33#a250922p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
