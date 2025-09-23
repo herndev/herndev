@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All mask shard locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-mask-shard-locations/)
- - [Dying Light The Beast interactive map of Castor Woods](https://www.polygon.com/map/dying-light-the-beast-interactive-map-full-locations-all/)
- - [Get free shiny Legendary Pokémon in Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-shiny-treasures-of-ruin-mystery-gifts/)<!-- GAME:END -->
+ - [Baby Steps review roundup: &#39;Is it possible to love and hate a game at the same time?&#39; &lpar;The answer, clearly, is yes&rpar;](https://www.pcgamer.com/games/sim/baby-steps-review-roundup-is-it-possible-to-love-and-hate-a-game-at-the-same-time-the-answer-clearly-is-yes/)
+ - [How to complete the Humiliation Badge secret action in 99 Nights in the Forest](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-secret-action-humiliation-badge/)
+ - [Pokémon fans outraged over DHS using anime for propaganda](https://www.polygon.com/pokemon-ice-dhs-nintendo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
