@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
- - ⏩ [This is a survival capsule design to survive a tsunami. Look familiar?](http://9gag.com/gag/abAm53v)
- - 👉 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)<!-- MEMES:END -->
+ - 💣 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
+ - ⏩ [Nice](http://9gag.com/gag/azxDLMj)
+ - 👉 [Men are simple creatures](http://9gag.com/gag/abAmqgO)<!-- MEMES:END -->
 
 ---
 
