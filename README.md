@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Phone 2 review: Why scarier isn&#39;t always better](https://www.polygon.com/black-phone-2-review/)
- - [A Whole Bunch Of Awesome Shooters Are Cheap Right Now On Steam](https://kotaku.com/boomer-shooter-dusk-mycopunk-demos-sale-event-boomstock-2025-pc-2000627990)
- - [A week after saying it was going quiet for the rest of the year, Palworld announces a crossover with the brilliant and bloodstained shooter Ultrakill](https://www.pcgamer.com/games/survival-crafting/a-week-after-saying-it-was-going-quiet-for-the-rest-of-the-year-palworld-announces-a-crossover-with-the-brilliant-and-bloodstained-shooter-ultrakill/)<!-- GAME:END -->
+ - [Mondo&#39;s new Over the Garden Wall collectibles are stunning &lpar;and expensive&rpar;](https://www.polygon.com/mondo-over-the-garden-wall-collectible-figures-vinyl-price/)
+ - [DJI Is Clearing Out Its Summer Stock of Mini 4K Drones, Prices Back to Black Friday Lows](https://kotaku.com/dji-is-clearing-out-its-summer-stock-of-mini-4k-drones-prices-back-to-black-friday-lows-2000627999)
+ - [Disney raising prices on Disney Plus, Hulu, bundles](https://www.polygon.com/disney-plus-hulu-espn-price-hike-bundle/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
