@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alien: Earth&amp;#8217;s beefy tablets were inspired by Sony&amp;#8217;s classic Watchman](https://www.theverge.com/entertainment/782939/alien-earth-andy-nicholson-interview)
- - [Google rolls out an AI-powered conversational photo editing tool, previously exclusive to the Pixel 10 series, to all Google Photos users on Android &lpar;Artie Beaty/ZDNET&rpar;](http://www.techmeme.com/250923/p26#a250923p26)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
+ - [&#39;The Savant&#39; pulled from Apple TV+ schedule, new date unannounced](https://appleinsider.com/articles/25/09/23/the-savant-pulled-from-apple-tv-schedule-new-date-unannounced?utm_source=rss)
+ - [This Google Photos editing tool was a Pixel 10 exclusive, but now you can try it](https://www.androidauthority.com/google-photos-ask-photos-wider-rollout-3600454/)
+ - [Google Home is letting you get a lot more done without using the app](https://www.androidauthority.com/google-home-web-3600473/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
