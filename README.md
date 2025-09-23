@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Julia Fox didn&#39;t have to transform to play a wag in Him](https://www.polygon.com/video/julia-fox-him-makeup-transformation/)
  - [Palfarm is a Palworld spinoff that looks like Pokémon Stardew Valley](https://www.polygon.com/palworld-palfarm-farming-game-trailer-steam-pocketpair/)
- - [Silent Hill f release date and launch times](https://www.pcgamer.com/games/horror/silent-hill-f-release-date-launch-times/)
- - [Ready or Not studio fires community manager for saying &#39;nothing of value was lost&#39; following Charlie Kirk&#39;s shooting](https://www.pcgamer.com/gaming-industry/ready-or-not-studio-fires-community-manager-for-saying-nothing-of-value-was-lost-following-charlie-kirks-shooting/)<!-- GAME:END -->
+ - [Silent Hill f release date and launch times](https://www.pcgamer.com/games/horror/silent-hill-f-release-date-launch-times/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
