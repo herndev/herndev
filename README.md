@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT’s $4.5 subscription is expanding to more countries](https://www.androidauthority.com/chatgpt-go-expansion-3600175/)
- - [OpenAI launches ChatGPT Go in Indonesia for ~$4.50 per month, expanding its budget-friendly ChatGPT subscription plan after debuting it in India in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250923/p3#a250923p3)
- - [Indian AI app development platform Rocket.new raised a $15M seed led by Salesforce Ventures; it has 400K+ users, including 10K+ paid subscribers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250923/p2#a250923p2)<!-- TECH:END -->
+ - [Open Thread: This is my ideal Google One subscription plan — What’s your?](https://www.androidauthority.com/ideal-google-one-subscription-plan-discussion-3600188/)
+ - [T-Mobile’s free line promo is back again, but there are a few catches](https://www.androidauthority.com/t-mobile-free-line-promo-back-3600185/)
+ - [Tado’s new AI features will adaptively heat your home](https://www.theverge.com/news/783465/tado-x-ai-auto-assist-heating-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
