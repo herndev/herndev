@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
- - ⏩ [Nice](http://9gag.com/gag/azxDLMj)
- - 👉 [Men are simple creatures](http://9gag.com/gag/abAmqgO)<!-- MEMES:END -->
+ - 💣 [Hugo boss](http://9gag.com/gag/aKGNgD3)
+ - ⏩ [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
+ - 👉 [We all f**ked? Or just me.](http://9gag.com/gag/a2vjYv1)<!-- MEMES:END -->
 
 ---
 
