@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU tells Apple to crack down on online fraud](https://appleinsider.com/articles/25/09/23/eu-tells-apple-to-crack-down-on-online-fraud?utm_source=rss)
- - [Slim, smart, and strong: TECNO’s answer to ultra-thin competition](https://www.androidauthority.com/tecno-slim-vs-other-thin-phones-3599502/)
- - [Google’s app that lets you play Android games on PC just hit a huge milestone](https://www.androidauthority.com/google-play-games-pc-no-longer-beta-general-availability-3599973/)<!-- TECH:END -->
+ - [Meta launches the American Technology Excellence Project, a super PAC to fight AI policy bills at the state level; it previously launched a California PAC &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250923/p14#a250923p14)
+ - [Bang &amp;#038; Olufsen&amp;#8217;s new earbuds will cost you more than the latest iPhone](https://www.theverge.com/news/783590/bang-olufsen-beo-grace-earbuds-pricing-availability)
+ - [YouTube wants you to go live](https://www.theverge.com/podcast/783282/youtube-livestream-ai-ads-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
