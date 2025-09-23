@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hugo boss](http://9gag.com/gag/aKGNgD3)
- - ⏩ [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 👉 [We all f**ked? Or just me.](http://9gag.com/gag/a2vjYv1)<!-- MEMES:END -->
+ - 💣 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
+ - ⏩ [This is a survival capsule design to survive a tsunami. Look familiar?](http://9gag.com/gag/abAm53v)
+ - 👉 [Hugo boss](http://9gag.com/gag/aKGNgD3)<!-- MEMES:END -->
 
 ---
 
