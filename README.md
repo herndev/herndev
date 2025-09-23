@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was the fastest politician to FAFO ever. Good luck Starmer. Source in comments.](http://9gag.com/gag/aAyNVQZ)
- - ⏩ [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
- - 👉 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)<!-- MEMES:END -->
+ - 💣 [We all f**ked? Or just me.](http://9gag.com/gag/a2vjYv1)
+ - ⏩ [Primal instinct kicks in](http://9gag.com/gag/aMVNbX6)
+ - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
 
 ---
 
