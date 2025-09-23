@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hamish Linklater&#39;s career is &quot;torture.&quot;](https://www.polygon.com/video/hamish-linklater-monologues-gen-v/)
- - [OD – Knock: Watch the Teaser Trailer from Kojima Productions](https://www.youtube.com/watch?v=eHCqxLtwy5g#new_tab)
- - [All Racket Rivals codes and how to redeem them](https://www.pcgamer.com/games/racket-rivals-codes/)<!-- GAME:END -->
+ - [PC component maker Maxsun decides the time is right for a new motherboard format, by taking a hacksaw to an mATX circuit board](https://www.pcgamer.com/hardware/motherboards/pc-component-maker-maxsun-decides-the-time-is-right-for-a-new-motherboard-format-by-taking-a-hacksaw-to-an-matx-circuit-board/)
+ - [Hideo Kojima and Jordan Peele&#39;s OD gets terrifying new trailer](https://www.polygon.com/od-hideo-kojima-jordan-peele-xbox-trailer-pt/)
+ - [The Little Nightmares 3 demo has already convinced me that co-op is the way forward for the series](https://www.pcgamer.com/games/horror/the-little-nightmares-3-demo-has-already-convinced-me-that-co-op-is-the-way-forward-for-the-series/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
