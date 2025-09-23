@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unmatchable dedication](https://www.reddit.com/r/funny/comments/1noi2s9/unmatchable_dedication/)
- - ⏩ [Found out](http://9gag.com/gag/abAmyRr)
+ - 💣 [This was the fastest politician to FAFO ever. Good luck Starmer. Source in comments.](http://9gag.com/gag/aAyNVQZ)
+ - ⏩ [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
  - 👉 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)<!-- MEMES:END -->
 
 ---
