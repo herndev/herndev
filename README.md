@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got all you need from the notification? Gmail starts letting you mark as read](https://www.androidauthority.com/gmail-mark-as-read-3600346/)
- - [A look at London-based &quot;neocloud&quot; startup Nscale, which landed a $500M investment from Nvidia and aims to scale up to 300K GPUs globally, on par with CoreWeave &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250923/p18#a250923p18)
- - [Larry Ellison is turning into a media magnate, potentially controlling CBS, CNN, TikTok, and more, amid a regulatory environment favorable to Trump allies &lpar;New York Times&rpar;](http://www.techmeme.com/250923/p17#a250923p17)<!-- TECH:END -->
+ - [Baby Steps hits on the hell and hilarity of hiking](https://www.theverge.com/games/783549/baby-steps-review-ps5-steam)
+ - [Samsung’s next update could give you more freedom over the control panel](https://www.androidauthority.com/samsung-one-ui-8-5-fully-customizable-control-panel-3600376/)
+ - [Meta starts rolling out built-in message translation in WhatsApp, with support for 19+ languages on iOS and six on Android &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250923/p20#a250923p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
