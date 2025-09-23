@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mondo&#39;s new Over the Garden Wall collectibles are stunning &lpar;and expensive&rpar;](https://www.polygon.com/mondo-over-the-garden-wall-collectible-figures-vinyl-price/)
- - [DJI Is Clearing Out Its Summer Stock of Mini 4K Drones, Prices Back to Black Friday Lows](https://kotaku.com/dji-is-clearing-out-its-summer-stock-of-mini-4k-drones-prices-back-to-black-friday-lows-2000627999)
- - [Disney raising prices on Disney Plus, Hulu, bundles](https://www.polygon.com/disney-plus-hulu-espn-price-hike-bundle/)<!-- GAME:END -->
+ - [Best gaming laptop in 2025: I&#39;ve had my hands on the best laptops for gaming of this generation and these are the ones I recommend](https://www.pcgamer.com/best-gaming-laptop/)
+ - [This Player Just Won Steam After Buying More Games Than Anyone Else Ever](https://kotaku.com/steam-achievement-badge-leaderboard-collector-2000628009)
+ - [GTA 6 hype mounts as Rockstar starts working with fans](https://www.polygon.com/gta-6-nopixel-role-playing-servers-studio-twitch-pc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
