@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - ⏩ [Hugo boss](http://9gag.com/gag/aKGNgD3)
- - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
+ - 💣 [A bit hairy](http://9gag.com/gag/aXPGEz6)
+ - ⏩ [Nice](http://9gag.com/gag/azxDLMj)
+ - 👉 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)<!-- MEMES:END -->
 
 ---
 
