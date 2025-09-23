@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Keep’s upcoming feature is AI overkill at its finest &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-ai-title-generate-3600203/)
- - [Nick Fuentes’ Plan to Conquer America](https://www.wired.com/story/nick-fuentes-plan-to-conquer-america/)
- - [A look at the Nvidia-OpenAI deal, where Nvidia will invest in $10B tranches; sources say OpenAI informed Microsoft about the deal a day before it was signed &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250923/p5#a250923p5)<!-- TECH:END -->
+ - [Eureka J15 Max Ultra — One of our favorite robot vacuums gets a huge upgrade](https://www.androidauthority.com/eureka-j15-max-ultra-3599713/)
+ - [WIRED Tested the Best Organic Sheets &lpar;2025&rpar;: Coyuchi, The Citizenry](https://www.wired.com/gallery/best-organic-sheets/)
+ - [Auterion, which provides autopilot and swarming software for military drones, raised $130M led by Bessemer at a $600M+ valuation, says it has ~$100M in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p6#a250923p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
