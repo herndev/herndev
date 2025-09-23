@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kojima&#39;s OD just got 3 minutes worth of in-engine footage, and it&#39;s definitely following in the footsteps of P.T.](https://www.pcgamer.com/games/horror/kojimas-od-just-got-3-minutes-worth-of-in-engine-footage-and-its-definitely-following-in-the-footsteps-of-p-t/)
- - [Silent Hill f release time and date in your time zone](https://www.polygon.com/silent-hill-f-release-time-date-edt-pdt/)
- - [Today&#39;s Wordle clues, hints and answer for September 23 &lpar;#1557&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-23-2025/)<!-- GAME:END -->
+ - [Physint, Kojima&#39;s forthcoming &#39;tactical espionage action game&#39;, gets a poster and an early cast list](https://www.pcgamer.com/games/action/physint-kojimas-forthcoming-tactical-espionage-action-game-gets-a-poster-and-an-early-cast-list/)
+ - [Death Stranding Mosquito is the inevitable Death Stranding anime](https://www.pcgamer.com/games/action/death-stranding-mosquito-is-the-inevitable-death-stranding-anime/)
+ - [Kojima&#39;s OD just got 3 minutes worth of in-engine footage, and it&#39;s definitely following in the footsteps of P.T.](https://www.pcgamer.com/games/horror/kojimas-od-just-got-3-minutes-worth-of-in-engine-footage-and-its-definitely-following-in-the-footsteps-of-p-t/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
