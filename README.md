@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baby Steps’ nudity toggle unleashes a donkey dong bonanza](https://www.polygon.com/baby-steps-nudity-toggle-explained/)
- - [Marvel and DC crossover Deadpool/Batman #1 gives an unlikely hero a Green Lantern ring](https://www.polygon.com/marvel-dc-crossover-rocket-raccoon-green-lantern/)
- - [Rambo prequel director defends dropping Stallone for new actor](https://www.polygon.com/rambo-prequel-stallone-casting-sisu-2-director/)<!-- GAME:END -->
+ - [Black Phone 2 review: Why scarier isn&#39;t always better](https://www.polygon.com/black-phone-2-review/)
+ - [A Whole Bunch Of Awesome Shooters Are Cheap Right Now On Steam](https://kotaku.com/boomer-shooter-dusk-mycopunk-demos-sale-event-boomstock-2025-pc-2000627990)
+ - [A week after saying it was going quiet for the rest of the year, Palworld announces a crossover with the brilliant and bloodstained shooter Ultrakill](https://www.pcgamer.com/games/survival-crafting/a-week-after-saying-it-was-going-quiet-for-the-rest-of-the-year-palworld-announces-a-crossover-with-the-brilliant-and-bloodstained-shooter-ultrakill/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
