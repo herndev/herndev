@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fall into smarter lighting](https://www.theverge.com/tech/781652/smart-light-matter-philips-hue-apple-home)
- - [Tap to Pay on iPhone comes to yet more European countries](https://appleinsider.com/articles/25/09/23/tap-to-pay-on-iphone-comes-to-yet-more-european-countries?utm_source=rss)
- - [The US Secret Service says it has dismantled 300+ SIM card servers in the NYC area that could have disrupted communications ahead of the UN General Assembly &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/250923/p8#a250923p8)<!-- TECH:END -->
+ - [EU tells Apple to crack down on online fraud](https://appleinsider.com/articles/25/09/23/eu-tells-apple-to-crack-down-on-online-fraud?utm_source=rss)
+ - [Slim, smart, and strong: TECNO’s answer to ultra-thin competition](https://www.androidauthority.com/tecno-slim-vs-other-thin-phones-3599502/)
+ - [Google’s app that lets you play Android games on PC just hit a huge milestone](https://www.androidauthority.com/google-play-games-pc-no-longer-beta-general-availability-3599973/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
