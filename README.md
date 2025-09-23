@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG just teased a new Lord of the Rings crossover set](https://www.polygon.com/mtg-new-lord-of-the-rings-hobbit-set-secret-lair-magiccon-atlanta-2025/)
- - [Everything Kojima Just Announced At His Anniversary Of Leaving Konami Showcase](https://kotaku.com/hideo-kojima-physint-od-trailer-showcase-2000627889)
- - [Department Of Homeland Security Uses Pokémon Song To Promote Kidnapping](https://kotaku.com/department-homeland-security-ice-pokemon-song-video-2000627900)<!-- GAME:END -->
+ - [Designing The Krasue: Dead by Daylight Brings Thai Folklore into the Fog](https://news.xbox.com/en-us/2025/09/23/dead-by-daylight-krague-thai-folklore/)
+ - [Ananta is basically &quot;anime GTA&quot; plus Marvel&#39;s Spider-Man](https://www.polygon.com/ananta-trailer-ps5-anime-gta-spider-man/)
+ - [Demon Slayer Infinity Castle beats Mugen Train to become highest-grossing anime movie](https://www.polygon.com/demon-slayer-infinity-castle-beat-mugen-train-box-office/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
