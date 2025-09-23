@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baby Steps hits on the hell and hilarity of hiking](https://www.theverge.com/games/783549/baby-steps-review-ps5-steam)
- - [Samsung’s next update could give you more freedom over the control panel](https://www.androidauthority.com/samsung-one-ui-8-5-fully-customizable-control-panel-3600376/)
- - [Meta starts rolling out built-in message translation in WhatsApp, with support for 19+ languages on iOS and six on Android &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250923/p20#a250923p20)<!-- TECH:END -->
+ - [Google Photos expands conversational editing to more Android phones](https://www.theverge.com/news/783562/google-photos-conversational-voice-edits-android)
+ - [Microsoft says it is experimenting with microfluidics, which involves sending fluid through channels in AI and server chips to improve cooling efficiency &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p21#a250923p21)
+ - [How to make sure The Verge shows up in your Google search results](https://www.theverge.com/tech/782887/how-to-the-verge-google-search-results)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
