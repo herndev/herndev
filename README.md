@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
- - ⏩ [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
+ - 💣 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - ⏩ [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
+ - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
 
 ---
 
