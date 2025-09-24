@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 24 &lpar;#1558&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-24-2025/)
  - [Hamish Linklater wants Midnight Mass showrunner to call him back](https://www.polygon.com/video/hamish-linklater-mike-flanagan-midnight-mass/)
- - [Will there be an Alien: Earth season 2? The show&#39;s creator and star weigh in](https://www.polygon.com/alien-earth-ending-explained-season-2/)
- - [The eyeball alien got no payoff in Alien: Earth&#39;s finale, and I&#39;m mad about it](https://www.polygon.com/alien-earth-finale-episode-8-eyeball/)<!-- GAME:END -->
+ - [Will there be an Alien: Earth season 2? The show&#39;s creator and star weigh in](https://www.polygon.com/alien-earth-ending-explained-season-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
