@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Maxsun&#39;s latest RTX 5070 comes with improved thermals and even more anime cat girl than before](https://www.pcgamer.com/hardware/graphics-cards/maxsuns-latest-rtx-5070-comes-with-improved-thermals-and-even-more-anime-cat-girl-than-before/)
  - [Marvel Zombies wastes a perfect Young Avengers introduction](https://www.polygon.com/marvel-zombies-young-avengers/)
- - [&lpar;For Southeast Asia&rpar; Yakuza Kiwami 3 &amp; Dark Ties revealed!](https://blog.playstation.com/2025/09/23/20250924-yakuza/)
  - [&lpar;For Southeast Asia&rpar; Yakuza Kiwami 3 &amp; Dark Ties revealed!](https://blog.playstation.com/2025/09/23/20250924-yakuza/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
