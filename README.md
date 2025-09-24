@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at some uncertainties surrounding Nvidia&#39;s proposed $100B investment in OpenAI, including concerns about the agreement&#39;s circular structure &lpar;Financial Times&rpar;](http://www.techmeme.com/250924/p11#a250924p11)
- - [Logitech Signature Solar Slim+ K980 Keyboard Review: See the Light](https://www.wired.com/review/logitech-signature-solar-slim-k980-keyboard/)
- - [Logitech’s new light-powered keyboard doesn’t even need the sun](https://www.theverge.com/news/782968/logitech-signature-solar-k980-keyboard)<!-- TECH:END -->
+ - [5 things the new Google Home Speaker needs before I’ll buy it](https://www.androidauthority.com/google-home-speaker-2025-wishlist-3600342/)
+ - [Spotify reintegrates with Algoriddim’s djay](https://www.theverge.com/news/784347/spotify-reintegrates-algoriddim-djay)
+ - [Galaxy Watch 6’s time has come: One UI 8 Watch beta rolling out now!](https://www.androidauthority.com/samsung-galaxy-watch-6-one-ui-8-beta-3600688/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
