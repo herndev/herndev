@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based media monitoring and risk management company Signal AI raised $165M led by Battery Ventures, which will hold a majority stake after the investment &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250924/p3#a250924p3)
- - [Huxe, an app built by three former NotebookLM developers that offers users personalized daily briefs and topic exploration with AI podcast hosts, raised $4.6M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250924/p2#a250924p2)
- - [9 new features coming to your Samsung Galaxy phones with One UI 8.5](https://www.androidauthority.com/samsung-galaxy-phones-new-upcoming-features-one-ui-8-5-3600158/)<!-- TECH:END -->
+ - [Taiwan curbs chip exports to South Africa over national security concerns, the first time it has used its chip industry as a weapon against a China ally &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p6#a250924p6)
+ - [Disney Plus hikes prices again, making it feel like an annual ritual](https://www.androidauthority.com/disney-plus-price-hike-3600641/)
+ - [Appfigures: dedicated mobile apps for vibe coding have yet to gain traction; the largest such app, Instance: AI App Builder, has just 16,000 downloads &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250924/p5#a250924p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
