@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - ⏩ [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
- - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
+ - 💣 [Name the difference.](https://www.reddit.com/r/funny/comments/1npnsw4/name_the_difference/)
+ - ⏩ [Safe zone](http://9gag.com/gag/aE0N78x)
+ - 👉 [Never Forgetti](http://9gag.com/gag/agmZN7r)<!-- MEMES:END -->
 
 ---
 
