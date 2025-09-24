@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
- - ⏩ [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
+ - 💣 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - ⏩ [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
+ - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
 
 ---
 
