@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - ⏩ [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
- - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
+ - 💣 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
+ - ⏩ [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
 
 ---
 
