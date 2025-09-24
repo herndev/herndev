@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Oracle seeks to borrow $15B through the US sale of corporate bonds, as it begins to fulfill massive cloud infrastructure deals with OpenAI and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p19#a250924p19)
- - [A Startup Used AI to Make a Psychedelic Without the Trip](https://www.wired.com/story/a-startup-used-ai-to-make-a-psychedelic-without-the-trip/)
- - [Where has Final Fantasy Tactics been all my life?](https://www.theverge.com/entertainment/783944/final-fantasy-tactics-remake-review-square-enix-playstation)<!-- TECH:END -->
+ - [The new Covert Dock is ready for the Switch 2 and ROG Xbox Ally](https://www.theverge.com/news/783976/covert-dock-3-shadowcast-3-switch-2-rog-ally-xbox-specs-price)
+ - [Synthesized, which is developing AI tools to automate software testing, raised a $20M Series A led by Redalpine &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250924/p20#a250924p20)
+ - [The die is cast: A close-up view of Apple&#39;s A19 SoC](https://appleinsider.com/articles/25/09/24/the-die-is-cast-a-close-up-view-of-apples-a19-soc?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
