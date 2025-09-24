@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Larry Ellison Is a ‘Shadow President’ in Donald Trump&#39;s America](https://www.wired.com/story/larry-ellison-is-a-shadow-president-in-donald-trumps-america/)
- - [Instagram hits 3 billion monthly users](https://www.theverge.com/news/784784/instagram-3-billion-monthly-users-reels-dms-updates)
- - [Modular, which lets developers build AI apps that run across multiple GPU and CPU vendors, raised $250M led by US Innovative Technology at a $1.6B valuation &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250924/p26#a250924p26)<!-- TECH:END -->
+ - [Volvo’s next-gen hyrbids will be American-made EREVs](https://www.theverge.com/news/784652/volvo-erev-hybrid-factory-range-us)
+ - [You can now upgrade a retro Casio watch with Bluetooth, step tracking, and games](https://www.theverge.com/news/784895/ollee-casio-f-91w-a158w-watch-one-kit-bluetooth-smartwatch)
+ - [OpenAI partners with SAP to launch OpenAI for Germany, bringing its AI tools to Germany&#39;s public sector through SAP&#39;s Delos Cloud &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p28#a250924p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
