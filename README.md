@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft embraces OpenAI rival Anthropic to improve Microsoft 365 apps](https://www.theverge.com/news/784392/microsoft-365-copilot-anthropic-ai-models-feature)
- - [Sharge’s magnetic fan-cooled SSD doubles as a USB hub](https://www.theverge.com/news/784634/sharge-disk-pro-active-cooling-ssd-kickstarter)
- - [Emergent, which lets non-technical users build apps via AI agents that handle coding errors and more, raised a $23M Series A, bringing its total funding to $30M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250924/p21#a250924p21)<!-- TECH:END -->
+ - [Survey shows which of these top Android brands are a Galaxy fan’s second choice](https://www.androidauthority.com/samsung-android-preferences-3600542/)
+ - [Objects in your Android Auto display are not closer than they appear — it’s just glitched](https://www.androidauthority.com/android-auto-magnified-bug-3600802/)
+ - [These earbuds include a tiny wired microphone you can hold](https://www.theverge.com/news/784703/portronics-conch-one-usb-c-earbuds-headphones-wired-microphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
