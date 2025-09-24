@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volvo’s next-gen hyrbids will be American-made EREVs](https://www.theverge.com/news/784652/volvo-erev-hybrid-factory-range-us)
- - [You can now upgrade a retro Casio watch with Bluetooth, step tracking, and games](https://www.theverge.com/news/784895/ollee-casio-f-91w-a158w-watch-one-kit-bluetooth-smartwatch)
- - [OpenAI partners with SAP to launch OpenAI for Germany, bringing its AI tools to Germany&#39;s public sector through SAP&#39;s Delos Cloud &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p28#a250924p28)<!-- TECH:END -->
+ - [Meta is opening pop-up shops to show off its smart glasses with a display](https://www.theverge.com/news/784872/meta-lab-pop-up-shops-smart-glasses-ai-ray-ban-display)
+ - [Apple&#39;s weak &#39;scratchgate&#39; defense insists iPhone 17 isn&#39;t easily damaged](https://appleinsider.com/articles/25/09/24/apples-weak-scratchgate-defense-insists-iphone-17-isnt-easily-damaged?utm_source=rss)
+ - [Google launches its Search Live feature in the US, letting users ask questions in AI Mode while sharing their phone&#39;s camera feed for real-time help &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250924/p30#a250924p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
