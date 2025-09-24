@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is opening pop-up shops to show off its smart glasses with a display](https://www.theverge.com/news/784872/meta-lab-pop-up-shops-smart-glasses-ai-ray-ban-display)
- - [Apple&#39;s weak &#39;scratchgate&#39; defense insists iPhone 17 isn&#39;t easily damaged](https://appleinsider.com/articles/25/09/24/apples-weak-scratchgate-defense-insists-iphone-17-isnt-easily-damaged?utm_source=rss)
- - [Google launches its Search Live feature in the US, letting users ask questions in AI Mode while sharing their phone&#39;s camera feed for real-time help &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250924/p30#a250924p30)<!-- TECH:END -->
+ - [Sources: Intel approached Apple about a potential investment in the chipmaker as part of its turnaround efforts and discussed how to work more closely together &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p34#a250924p34)
+ - [YouTube is getting a new button to hide those pesky pop-ups at the end of videos](https://www.androidauthority.com/youtube-hide-button-3600938/)
+ - [Canadian PE firm Novacap agrees to acquire Integral Ad Science, which provides digital ad measurement and verification, in a deal valuing IAS at about $1.9B &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250924/p33#a250924p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
