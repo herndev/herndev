@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; Yakuza Kiwami 3 &amp; Dark Ties revealed!](https://blog.playstation.com/2025/09/23/20250924-yakuza/)
  - [Today&#39;s Wordle clues, hints and answer for September 24 &lpar;#1558&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-24-2025/)
- - [Hamish Linklater wants Midnight Mass showrunner to call him back](https://www.polygon.com/video/hamish-linklater-mike-flanagan-midnight-mass/)
- - [Will there be an Alien: Earth season 2? The show&#39;s creator and star weigh in](https://www.polygon.com/alien-earth-ending-explained-season-2/)<!-- GAME:END -->
+ - [Hamish Linklater wants Midnight Mass showrunner to call him back](https://www.polygon.com/video/hamish-linklater-mike-flanagan-midnight-mass/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
