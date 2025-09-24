@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Safe zone](http://9gag.com/gag/aE0N78x)
- - ⏩ [Never Forgetti](http://9gag.com/gag/agmZN7r)
- - 👉 [This ... and more](http://9gag.com/gag/aryrRQ6)<!-- MEMES:END -->
+ - 💣 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
+ - ⏩ [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
 
 ---
 
