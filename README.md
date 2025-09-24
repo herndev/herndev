@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wamen](http://9gag.com/gag/aE0Nzvn)
- - ⏩ [Hugo boss](http://9gag.com/gag/aKGNgD3)
- - 👉 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)<!-- MEMES:END -->
+ - 💣 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
+ - ⏩ [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
+ - 👉 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)<!-- MEMES:END -->
 
 ---
 
