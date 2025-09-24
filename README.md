@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Intel approached Apple about a potential investment in the chipmaker as part of its turnaround efforts and discussed how to work more closely together &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p34#a250924p34)
- - [YouTube is getting a new button to hide those pesky pop-ups at the end of videos](https://www.androidauthority.com/youtube-hide-button-3600938/)
- - [Canadian PE firm Novacap agrees to acquire Integral Ad Science, which provides digital ad measurement and verification, in a deal valuing IAS at about $1.9B &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250924/p33#a250924p33)<!-- TECH:END -->
+ - [Steam’s redesigned store menu will help you find your next game](https://www.theverge.com/news/785110/valve-steam-redesigned-store-menu-personalized-recommendations)
+ - [Snapdragon 8 Elite Gen 5 benchmarks: Just how badly does it beat its rivals?](https://www.androidauthority.com/snapdragon-8-elite-gen-5-benchmarks-3600242/)
+ - [PlayStation State of Play September 2025: all the news and trailers](https://www.theverge.com/games/784746/playstation-state-of-play-september-2025-news-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
