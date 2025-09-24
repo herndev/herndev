@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things season 5 promises bigger action and higher stakes](https://www.polygon.com/stranger-things-season-5-featurette/)
- - [Consume Me review: sincere coming of age story takes on dieting culture](https://www.polygon.com/consume-me-review/)
- - [Final Fantasy Tactics remake review: A long-overdue second wind](https://www.polygon.com/final-fantasy-tactics-remake-ivalice-chronicles-review/)<!-- GAME:END -->
+ - [Hack and Slash with New Ninja Gaiden 4 Xbox Design Lab Controllers](https://news.xbox.com/en-us/2025/09/24/ninja-gaiden-4-xbox-design-lab-controllers/)
+ - [HBO’s New Stephen King Show Reveals Its Creepiest Trailer Yet](https://kotaku.com/it-welcome-to-derry-trailer-pennywise-king-2000628139)
+ - [Microsoft is resorting to laser etching AI-designed cooling channels directly into data center chips to tame their massive heat](https://www.pcgamer.com/hardware/cooling/microsoft-is-resorting-to-laser-etching-ai-designed-cooling-channels-directly-into-data-center-chips-to-tame-their-massive-heat/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
