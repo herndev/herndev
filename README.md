@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4’s Season 10 Adds Infernal Chaos to the End-Game Helltides](https://news.xbox.com/en-us/2025/09/24/diablo-4-season-10-infernal-chaos-helltides-endgame/)
- - [After Two Years, Overwatch 2 Finally Resolves Its Canceled Campaign’s Cliffhanger](https://kotaku.com/overwatch-2-story-missions-comic-zenyatta-ramattra-2000628236)
- - [Sony’s September State Of Play: New Rumors And Where To Watch](https://kotaku.com/sonys-september-state-of-play-new-rumors-and-where-to-watch-2000628219)<!-- GAME:END -->
+ - [New PUBG Crossover Leak Shows Sonic Fighting A Giant Skibidi Toilet](https://kotaku.com/new-pubg-mobile-crossover-leak-sonic-fighting-giant-skibidi-toilet-update-2000628238)
+ - [Xbox Insiders – We’re Looking for Users Interested in New User Research Opportunities](https://news.xbox.com/en-us/2025/09/24/xbox-insiders-were-looking-for-users-interested-in-new-user-research-opportunities/)
+ - [Intel Blast: All You Need to Know about Black Ops 7 Zombies](https://www.callofduty.com/blog/2025/09/call-of-duty-black-ops-7-zombies-deep-dive#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
