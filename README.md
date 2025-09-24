@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The eyeball alien got no payoff in Alien: Earth&#39;s finale, and I&#39;m mad about it](https://www.polygon.com/alien-earth-finale-episode-8-eyeball/)
- - [Annapurna Interactive reveals 3 new indie gems at TGS showcase](https://www.polygon.com/annapurna-interactive-direct-tgs-2025-showcase/)
- - [I wish I&#39;d known this one stupidly simple trick when I started Baby Steps—it makes some of the harder early climbs much easier](https://www.pcgamer.com/games/sim/i-wish-id-known-this-one-stupidly-simple-trick-when-i-started-baby-steps-it-makes-some-of-the-harder-early-climbs-much-easier/)<!-- GAME:END -->
+ - [Hamish Linklater wants Midnight Mass showrunner to call him back](https://www.polygon.com/video/hamish-linklater-mike-flanagan-midnight-mass/)
+ - [Will there be an Alien: Earth season 2? The show&#39;s creator and star weigh in](https://www.polygon.com/alien-earth-ending-explained-season-2/)
+ - [The eyeball alien got no payoff in Alien: Earth&#39;s finale, and I&#39;m mad about it](https://www.polygon.com/alien-earth-finale-episode-8-eyeball/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
