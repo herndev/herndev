@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wolverine PS5 gets a ridiculously violent TGS trailer and 2026 release date](https://www.polygon.com/marvel-wolverine-ps5-release-date-trailer-tokyo-game-show-tgs/)
- - [Deus Ex Remastered announced for PlayStation 5, but surely it&#39;ll also be on PC, right?](https://www.pcgamer.com/games/rpg/deus-ex-remastered-announced/)
- - [Sony State of Play Sept. 2025: All the news, trailers and reveals](https://www.polygon.com/playstation-state-of-play-all-news-trailers-september-2025/)<!-- GAME:END -->
+ - [State of Play September 2025: all announcements, trailers](https://blog.playstation.com/2025/09/24/state-of-play-september-2025-all-announcements-trailers/)
+ - [We finally saw ZA/UM&#39;s Zero Parades in action and even though it&#39;s extremely Disco Elysium, the protagonist couldn&#39;t be more different](https://www.pcgamer.com/games/rpg/we-finally-saw-za-ums-zero-parades-in-action-and-even-though-its-extremely-disco-elysium-the-protagonist-couldnt-be-more-different/)
+ - [Wolverine claws more people in the head in the new Marvel&#39;s Wolverine trailer than I think he did in all the comics I read as a kid](https://www.pcgamer.com/games/action/wolverine-claws-more-people-in-the-head-in-the-new-wolverine-trailer-than-i-think-he-did-in-all-the-comics-i-read-as-a-kid/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
