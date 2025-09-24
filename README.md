@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New PUBG Crossover Leak Shows Sonic Fighting A Giant Skibidi Toilet](https://kotaku.com/new-pubg-mobile-crossover-leak-sonic-fighting-giant-skibidi-toilet-update-2000628238)
- - [Xbox Insiders – We’re Looking for Users Interested in New User Research Opportunities](https://news.xbox.com/en-us/2025/09/24/xbox-insiders-were-looking-for-users-interested-in-new-user-research-opportunities/)
- - [Intel Blast: All You Need to Know about Black Ops 7 Zombies](https://www.callofduty.com/blog/2025/09/call-of-duty-black-ops-7-zombies-deep-dive#new_tab)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 7 devs &#39;straight up turned down&#39; skin deals with &#39;big, big brands&#39; following Tactical Beavis backlash](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-7-devs-straight-up-turned-down-skin-deals-with-big-big-brands-following-tactical-beavis-backlash/)
+ - [Pokemon Company says Homeland Security&#39;s use of its property in disturbing promotional video was unauthorized, but DHS doesn&#39;t seem to care: &#39;To arrest them is our real test, to deport them is our cause&#39;](https://www.pcgamer.com/games/pokemon-company-says-homeland-securitys-use-of-its-property-in-disturbing-promotional-video-was-unauthorized-but-dhs-doesnt-seem-to-care-to-arrest-them-is-our-real-test-to-deport-them-is-our-cause/)
+ - [How to watch today&#39;s Sony State of Play, which will feature &#39;anticipated third-party and indie titles&#39; and updates from first-party studios—but probably not Marathon](https://www.pcgamer.com/games/how-to-watch-todays-sony-state-of-play-which-will-feature-anticipated-third-party-and-indie-titles-and-updates-from-first-party-studios-but-probably-not-marathon/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
