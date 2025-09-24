@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just teased its Android-powered PC project, Qualcomm CEO says he’s seen it](https://www.androidauthority.com/google-android-on-pc-qualcomm-snapdragon-summit-3600612/)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-24/#ftag=CAD590a51e)
- - [VCs court top AI startups with preempted rounds and perks like private jets; PitchBook: US AI startups raised $200B in 2025, with 41% going to just 10 companies &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250923/p44#a250923p44)<!-- TECH:END -->
+ - [London-based media monitoring and risk management company Signal AI raised $165M led by Battery Ventures, which will hold a majority stake after the investment &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250924/p3#a250924p3)
+ - [Huxe, an app built by three former NotebookLM developers that offers users personalized daily briefs and topic exploration with AI podcast hosts, raised $4.6M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250924/p2#a250924p2)
+ - [9 new features coming to your Samsung Galaxy phones with One UI 8.5](https://www.androidauthority.com/samsung-galaxy-phones-new-upcoming-features-one-ui-8-5-3600158/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
