@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify reinstates integration with third-party DJ software for Premium subscribers in 51 markets, including the US, after pulling support in 2020 &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250924/p16#a250924p16)
- - [iPhone Air review: An aspirational iPhone that the Pro won&#39;t buy](https://appleinsider.com/articles/25/09/24/iphone-air-review-an-aspirational-iphone-that-the-pro-wont-buy?utm_source=rss)
- - [Tim Cook visits Japan for opening of Apple Ginza](https://appleinsider.com/articles/25/09/24/tim-cook-visits-japan-for-opening-of-apple-ginza?utm_source=rss)<!-- TECH:END -->
+ - [Bluesky seems to be having trouble](https://www.theverge.com/news/784442/bluesky-seems-to-be-having-trouble)
+ - [Pocket Casts is showing ads to people who paid for an ad-free app](https://www.theverge.com/news/784429/pocket-casts-ads-lifetime-memberships-complaints)
+ - [10 Best Natural Deodorants I Tested Day to Day &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
