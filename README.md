@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)
- - ⏩ [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
+ - 💣 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - ⏩ [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)
+ - 👉 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)<!-- MEMES:END -->
 
 ---
 
