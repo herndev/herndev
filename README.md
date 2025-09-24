@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Simple words](http://9gag.com/gag/awyGKg4)
- - ⏩ [Dystopian reality](http://9gag.com/gag/aVv1Xwv)
- - 👉 [She would be perfect &lpar;sorry for twitter&rpar;](http://9gag.com/gag/aRBNVK7)<!-- MEMES:END -->
+ - 💣 [It&#39;s a simple life](http://9gag.com/gag/a6Z3yVN)
+ - ⏩ [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
+ - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
 
 ---
 
