@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michael Moritz says Trump&#39;s &quot;H-1B caper will backfire&quot; and shows the &quot;fragile grasp&quot; Trump and his acolytes have of what makes the US tech sector so successful &lpar;Michael Moritz/Financial Times&rpar;](http://www.techmeme.com/250924/p15#a250924p15)
- - [iPhone 17 Pro’s ‘scratchgate’ is a lesson in design for Android](https://www.androidauthority.com/apple-iphone-17-pro-scratchgate-design-flaw-3600680/)
- - [Google&amp;#8217;s Android for PC: &amp;#8216;I&amp;#8217;ve seen it, it is incredible&amp;#8217;](https://www.theverge.com/news/784381/qualcomm-ceo-seen-googles-android-pc-merger-incredible)<!-- TECH:END -->
+ - [Spotify reinstates integration with third-party DJ software for Premium subscribers in 51 markets, including the US, after pulling support in 2020 &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250924/p16#a250924p16)
+ - [iPhone Air review: An aspirational iPhone that the Pro won&#39;t buy](https://appleinsider.com/articles/25/09/24/iphone-air-review-an-aspirational-iphone-that-the-pro-wont-buy?utm_source=rss)
+ - [Tim Cook visits Japan for opening of Apple Ginza](https://appleinsider.com/articles/25/09/24/tim-cook-visits-japan-for-opening-of-apple-ginza?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
