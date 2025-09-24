@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Maxsun&#39;s latest RTX 5070 comes with improved thermals and even more anime cat girl than before](https://www.pcgamer.com/hardware/graphics-cards/maxsuns-latest-rtx-5070-comes-with-improved-thermals-and-even-more-anime-cat-girl-than-before/)
- - [Marvel Zombies wastes a perfect Young Avengers introduction](https://www.polygon.com/marvel-zombies-young-avengers/)
- - [&lpar;For Southeast Asia&rpar; Yakuza Kiwami 3 &amp; Dark Ties revealed!](https://blog.playstation.com/2025/09/23/20250924-yakuza/)<!-- GAME:END -->
+ - [Despite its $1,000+ price tag, Lenovo Legion Go 2 pre-orders have &#39;substantially exceeded&#39; expections, resulting in cancellations and delays](https://www.pcgamer.com/hardware/handheld-gaming-pcs/despite-its-usd1-000-price-tag-lenovo-legion-go-2-pre-orders-have-substantially-exceeded-expections-resulting-in-cancellations-and-delays/)
+ - [Logitech announces a solar keyboard powered by &#39;any light source&#39;—yes, even your dingily lit gamer den](https://www.pcgamer.com/hardware/gaming-keyboards/logitech-announces-a-solar-keyboard-powered-by-any-light-source-yes-even-your-dingily-lit-gamer-den/)
+ - [Steam&#39;s new store look is out and is earning a mixed response: &#39;Thanks Valve I am a grandma using Steam on a giant old touchscreen Samsung tablet&#39;](https://www.pcgamer.com/software/platforms/steams-new-store-look-is-out-and-is-earning-a-mixed-response-thanks-valve-i-am-a-grandma-using-steam-on-a-giant-old-touchscreen-samsung-tablet/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
