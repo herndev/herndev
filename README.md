@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow...](http://9gag.com/gag/aYQneQ0)
- - ⏩ [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)
- - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
+ - 💣 [Safe zone](http://9gag.com/gag/aE0N78x)
+ - ⏩ [Never Forgetti](http://9gag.com/gag/agmZN7r)
+ - 👉 [This ... and more](http://9gag.com/gag/aryrRQ6)<!-- MEMES:END -->
 
 ---
 
