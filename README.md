@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Borderlands 4 on Nintendo Switch 2 is being delayed](https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay)
- - [Grab an Amazon Fire TV Stick 4K at a 54% discount!](https://www.androidauthority.com/amazon-fire-tv-stick-4k-deal-3600549/)
- - [Sources: OpenAI and Nvidia are discussing structuring their new AI data center partnership so that OpenAI would lease Nvidia&#39;s AI chips instead of buying them &lpar;The Information&rpar;](http://www.techmeme.com/250923/p37#a250923p37)<!-- TECH:END -->
+ - [YouTube will let creators who spread covid misinformation back on the site](https://www.theverge.com/policy/784238/youtube-covid-election-misinformation-reversal)
+ - [Need a portable speaker? JBL’s hottest ones are on sale!](https://www.androidauthority.com/jbl-charge-6-flip-7-deals-3-3600548/)
+ - [Logitech Pop Icon Combo review: a colorful, affordable duo for everyday use](https://appleinsider.com/articles/25/09/23/logitech-pop-icon-combo-review-a-colorful-affordable-duo-for-everyday-use?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
