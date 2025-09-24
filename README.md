@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a simple life](http://9gag.com/gag/a6Z3yVN)
- - ⏩ [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
- - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
+ - 💣 [Wamen](http://9gag.com/gag/aE0Nzvn)
+ - ⏩ [Hugo boss](http://9gag.com/gag/aKGNgD3)
+ - 👉 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)<!-- MEMES:END -->
 
 ---
 
