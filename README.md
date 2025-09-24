@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 7 devs &#39;straight up turned down&#39; skin deals with &#39;big, big brands&#39; following Tactical Beavis backlash](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-7-devs-straight-up-turned-down-skin-deals-with-big-big-brands-following-tactical-beavis-backlash/)
- - [Pokemon Company says Homeland Security&#39;s use of its property in disturbing promotional video was unauthorized, but DHS doesn&#39;t seem to care: &#39;To arrest them is our real test, to deport them is our cause&#39;](https://www.pcgamer.com/games/pokemon-company-says-homeland-securitys-use-of-its-property-in-disturbing-promotional-video-was-unauthorized-but-dhs-doesnt-seem-to-care-to-arrest-them-is-our-real-test-to-deport-them-is-our-cause/)
- - [How to watch today&#39;s Sony State of Play, which will feature &#39;anticipated third-party and indie titles&#39; and updates from first-party studios—but probably not Marathon](https://www.pcgamer.com/games/how-to-watch-todays-sony-state-of-play-which-will-feature-anticipated-third-party-and-indie-titles-and-updates-from-first-party-studios-but-probably-not-marathon/)<!-- GAME:END -->
+ - [Call Of Duty‘s Large Amount Of Last-Gen Players Aren’t Holding Back Black Ops 7](https://kotaku.com/call-of-duty-last-gen-player-count-ps4-not-holding-black-ops-7-back-2000628253)
+ - [&#39;Unauthorized&#39; AI-generated voices in Tomb Raider 4-6 Remastered have been removed](https://www.pcgamer.com/games/action/unauthorized-ai-generated-voices-in-tomb-raider-4-6-remastered-have-been-removed/)
+ - [Report: Alan Wake 2 Is The Big PS Plus Game For October](https://kotaku.com/ps-plus-free-october-2025-alan-wake-2-2000628251)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
