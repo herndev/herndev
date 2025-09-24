@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A hope for walking again](http://9gag.com/gag/aryrKmd)
- - ⏩ [Classic Meme](http://9gag.com/gag/aRBNVBy)
- - 👉 [This ... and more](http://9gag.com/gag/aryrRQ6)<!-- MEMES:END -->
+ - 💣 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
+ - ⏩ [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)
+ - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
 
 ---
 
