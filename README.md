@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows which of these top Android brands are a Galaxy fan’s second choice](https://www.androidauthority.com/samsung-android-preferences-3600542/)
- - [Objects in your Android Auto display are not closer than they appear — it’s just glitched](https://www.androidauthority.com/android-auto-magnified-bug-3600802/)
- - [These earbuds include a tiny wired microphone you can hold](https://www.theverge.com/news/784703/portronics-conch-one-usb-c-earbuds-headphones-wired-microphone)<!-- TECH:END -->
+ - [Larry Ellison Is a ‘Shadow President’ in Donald Trump&#39;s America](https://www.wired.com/story/larry-ellison-is-a-shadow-president-in-donald-trumps-america/)
+ - [Instagram hits 3 billion monthly users](https://www.theverge.com/news/784784/instagram-3-billion-monthly-users-reels-dms-updates)
+ - [Modular, which lets developers build AI apps that run across multiple GPU and CPU vendors, raised $250M led by US Innovative Technology at a $1.6B valuation &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250924/p26#a250924p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
