@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam’s redesigned store menu will help you find your next game](https://www.theverge.com/news/785110/valve-steam-redesigned-store-menu-personalized-recommendations)
- - [Snapdragon 8 Elite Gen 5 benchmarks: Just how badly does it beat its rivals?](https://www.androidauthority.com/snapdragon-8-elite-gen-5-benchmarks-3600242/)
- - [PlayStation State of Play September 2025: all the news and trailers](https://www.theverge.com/games/784746/playstation-state-of-play-september-2025-news-trailers)<!-- TECH:END -->
+ - [Qualcomm announces the Snapdragon 8 Elite Gen 5](https://www.theverge.com/tech/784997/qualcomm-snapdragon-8-elite-gen-5)
+ - [PlayStation&amp;#8217;s new wireless speakers are for your desktop](https://www.theverge.com/news/785282/sony-playstation-pulse-elevate-wireless-speakers)
+ - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
