@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [About to find out](http://9gag.com/gag/a6Z3LXR)
- - ⏩ [Bond burger](http://9gag.com/gag/ajPM658)
- - 👉 [Wamen](http://9gag.com/gag/aE0Nzvn)<!-- MEMES:END -->
+ - 💣 [Simple words](http://9gag.com/gag/awyGKg4)
+ - ⏩ [Dystopian reality](http://9gag.com/gag/aVv1Xwv)
+ - 👉 [She would be perfect &lpar;sorry for twitter&rpar;](http://9gag.com/gag/aRBNVK7)<!-- MEMES:END -->
 
 ---
 
