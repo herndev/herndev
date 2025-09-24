@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hakuna Matata](http://9gag.com/gag/aW4NOqx)
- - ⏩ [Spray bottle birb](http://9gag.com/gag/aryr4Pp)
- - 👉 [Poland doesnt give two shits anymore, glad they are part of the Eu lol.](http://9gag.com/gag/a6Z3LEm)<!-- MEMES:END -->
+ - 💣 [Classic moment](http://9gag.com/gag/aPAdGYg)
+ - ⏩ [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
 
 ---
 
