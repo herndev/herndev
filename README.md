@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Version 2.0 Brings Ara: History Untold into a New Age of Strategy Gaming](https://news.xbox.com/en-us/2025/09/24/version-2-0-ara-history-untold-new-age-of-strategy-gaming/)
- - [Nvidia&#39;s gen-AI facial animation tech is going open source, potentially making it much easier for game devs to turn real-time speech into convincing characters](https://www.pcgamer.com/hardware/graphics-cards/nvidias-gen-ai-facial-animation-tech-is-going-open-source-potentially-making-it-much-easier-for-game-devs-to-turn-real-time-speech-into-convincing-characters/)
- - [The Publisher Behind The Award-Winning Stray Just Revealed Three Cool New Games](https://kotaku.com/annapurna-showcase-tgs-trailers-zelda-kpop-ai-puzzle-2000628182)<!-- GAME:END -->
+ - [Diablo 4’s Season 10 Adds Infernal Chaos to the End-Game Helltides](https://news.xbox.com/en-us/2025/09/24/diablo-4-season-10-infernal-chaos-helltides-endgame/)
+ - [After Two Years, Overwatch 2 Finally Resolves Its Canceled Campaign’s Cliffhanger](https://kotaku.com/overwatch-2-story-missions-comic-zenyatta-ramattra-2000628236)
+ - [Sony’s September State Of Play: New Rumors And Where To Watch](https://kotaku.com/sonys-september-state-of-play-new-rumors-and-where-to-watch-2000628219)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
