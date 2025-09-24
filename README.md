@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty‘s Large Amount Of Last-Gen Players Aren’t Holding Back Black Ops 7](https://kotaku.com/call-of-duty-last-gen-player-count-ps4-not-holding-black-ops-7-back-2000628253)
- - [&#39;Unauthorized&#39; AI-generated voices in Tomb Raider 4-6 Remastered have been removed](https://www.pcgamer.com/games/action/unauthorized-ai-generated-voices-in-tomb-raider-4-6-remastered-have-been-removed/)
- - [Report: Alan Wake 2 Is The Big PS Plus Game For October](https://kotaku.com/ps-plus-free-october-2025-alan-wake-2-2000628251)<!-- GAME:END -->
+ - [Wolverine PS5 gets a ridiculously violent TGS trailer and 2026 release date](https://www.polygon.com/marvel-wolverine-ps5-release-date-trailer-tokyo-game-show-tgs/)
+ - [Deus Ex Remastered announced for PlayStation 5, but surely it&#39;ll also be on PC, right?](https://www.pcgamer.com/games/rpg/deus-ex-remastered-announced/)
+ - [Sony State of Play Sept. 2025: All the news, trailers and reveals](https://www.polygon.com/playstation-state-of-play-all-news-trailers-september-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
