@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hack and Slash with New Ninja Gaiden 4 Xbox Design Lab Controllers](https://news.xbox.com/en-us/2025/09/24/ninja-gaiden-4-xbox-design-lab-controllers/)
- - [HBO’s New Stephen King Show Reveals Its Creepiest Trailer Yet](https://kotaku.com/it-welcome-to-derry-trailer-pennywise-king-2000628139)
- - [Microsoft is resorting to laser etching AI-designed cooling channels directly into data center chips to tame their massive heat](https://www.pcgamer.com/hardware/cooling/microsoft-is-resorting-to-laser-etching-ai-designed-cooling-channels-directly-into-data-center-chips-to-tame-their-massive-heat/)<!-- GAME:END -->
+ - [How Version 2.0 Brings Ara: History Untold into a New Age of Strategy Gaming](https://news.xbox.com/en-us/2025/09/24/version-2-0-ara-history-untold-new-age-of-strategy-gaming/)
+ - [Nvidia&#39;s gen-AI facial animation tech is going open source, potentially making it much easier for game devs to turn real-time speech into convincing characters](https://www.pcgamer.com/hardware/graphics-cards/nvidias-gen-ai-facial-animation-tech-is-going-open-source-potentially-making-it-much-easier-for-game-devs-to-turn-real-time-speech-into-convincing-characters/)
+ - [The Publisher Behind The Award-Winning Stray Just Revealed Three Cool New Games](https://kotaku.com/annapurna-showcase-tgs-trailers-zelda-kpop-ai-puzzle-2000628182)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
