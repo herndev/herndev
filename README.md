@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky seems to be having trouble](https://www.theverge.com/news/784442/bluesky-seems-to-be-having-trouble)
- - [Pocket Casts is showing ads to people who paid for an ad-free app](https://www.theverge.com/news/784429/pocket-casts-ads-lifetime-memberships-complaints)
- - [10 Best Natural Deodorants I Tested Day to Day &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)<!-- TECH:END -->
+ - [Sources: Oracle seeks to borrow $15B through the US sale of corporate bonds, as it begins to fulfill massive cloud infrastructure deals with OpenAI and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p19#a250924p19)
+ - [A Startup Used AI to Make a Psychedelic Without the Trip](https://www.wired.com/story/a-startup-used-ai-to-make-a-psychedelic-without-the-trip/)
+ - [Where has Final Fantasy Tactics been all my life?](https://www.theverge.com/entertainment/783944/final-fantasy-tactics-remake-review-square-enix-playstation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
