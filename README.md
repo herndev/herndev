@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Marvel Zombies wastes a perfect Young Avengers introduction](https://www.polygon.com/marvel-zombies-young-avengers/)
  - [&lpar;For Southeast Asia&rpar; Yakuza Kiwami 3 &amp; Dark Ties revealed!](https://blog.playstation.com/2025/09/23/20250924-yakuza/)
- - [Today&#39;s Wordle clues, hints and answer for September 24 &lpar;#1558&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-24-2025/)
- - [Hamish Linklater wants Midnight Mass showrunner to call him back](https://www.polygon.com/video/hamish-linklater-mike-flanagan-midnight-mass/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Yakuza Kiwami 3 &amp; Dark Ties revealed!](https://blog.playstation.com/2025/09/23/20250924-yakuza/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
