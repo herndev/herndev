@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm announces the Snapdragon 8 Elite Gen 5](https://www.theverge.com/tech/784997/qualcomm-snapdragon-8-elite-gen-5)
- - [PlayStation&amp;#8217;s new wireless speakers are for your desktop](https://www.theverge.com/news/785282/sony-playstation-pulse-elevate-wireless-speakers)
- - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
+ - [Google Chat’s new Gemini feature could help you impress your boss](https://www.androidauthority.com/google-chat-gemini-refine-message-3601010/)
+ - [The best Apple deals to shop ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025)
+ - [Google reveals its Android for PC is coming next year](https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
