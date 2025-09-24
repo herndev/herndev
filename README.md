@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
- - ⏩ [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)
+ - 💣 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)
+ - ⏩ [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
  - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
 
 ---
