@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 things the new Google Home Speaker needs before I’ll buy it](https://www.androidauthority.com/google-home-speaker-2025-wishlist-3600342/)
- - [Spotify reintegrates with Algoriddim’s djay](https://www.theverge.com/news/784347/spotify-reintegrates-algoriddim-djay)
- - [Galaxy Watch 6’s time has come: One UI 8 Watch beta rolling out now!](https://www.androidauthority.com/samsung-galaxy-watch-6-one-ui-8-beta-3600688/)<!-- TECH:END -->
+ - [Michael Moritz says Trump&#39;s &quot;H-1B caper will backfire&quot; and shows the &quot;fragile grasp&quot; Trump and his acolytes have of what makes the US tech sector so successful &lpar;Michael Moritz/Financial Times&rpar;](http://www.techmeme.com/250924/p15#a250924p15)
+ - [iPhone 17 Pro’s ‘scratchgate’ is a lesson in design for Android](https://www.androidauthority.com/apple-iphone-17-pro-scratchgate-design-flaw-3600680/)
+ - [Google&amp;#8217;s Android for PC: &amp;#8216;I&amp;#8217;ve seen it, it is incredible&amp;#8217;](https://www.theverge.com/news/784381/qualcomm-ceo-seen-googles-android-pc-merger-incredible)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
