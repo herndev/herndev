@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baby Steps review roundup: &#39;Is it possible to love and hate a game at the same time?&#39; &lpar;The answer, clearly, is yes&rpar;](https://www.pcgamer.com/games/sim/baby-steps-review-roundup-is-it-possible-to-love-and-hate-a-game-at-the-same-time-the-answer-clearly-is-yes/)
- - [How to complete the Humiliation Badge secret action in 99 Nights in the Forest](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-secret-action-humiliation-badge/)
- - [Pokémon fans outraged over DHS using anime for propaganda](https://www.polygon.com/pokemon-ice-dhs-nintendo/)<!-- GAME:END -->
+ - [The eyeball alien got no payoff in Alien: Earth&#39;s finale, and I&#39;m mad about it](https://www.polygon.com/alien-earth-finale-episode-8-eyeball/)
+ - [Annapurna Interactive reveals 3 new indie gems at TGS showcase](https://www.polygon.com/annapurna-interactive-direct-tgs-2025-showcase/)
+ - [I wish I&#39;d known this one stupidly simple trick when I started Baby Steps—it makes some of the harder early climbs much easier](https://www.pcgamer.com/games/sim/i-wish-id-known-this-one-stupidly-simple-trick-when-i-started-baby-steps-it-makes-some-of-the-harder-early-climbs-much-easier/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
