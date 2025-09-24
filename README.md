@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro teardown reveals vapor chamber, explains scratches](https://appleinsider.com/articles/25/09/24/iphone-17-pro-teardown-reveals-vapor-chamber-explains-scratches?utm_source=rss)
- - [Pokémon lawyers won&amp;#8217;t sue DHS for that video, former legal head predicts](https://www.theverge.com/news/784312/pokemon-lawyers-wont-sue-dhs-for-that-video-former-legal-head-predicts)
- - [Alibaba releases the Qwen3-VL vision models, the Qwen3Guard &quot;safety moderation&quot; models, and three closed-weight models, including Qwen3-Max with 1T+ parameters &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250923/p41#a250923p41)<!-- TECH:END -->
+ - [iFixit zooms in on reports of an iPhone 17 Pro scratch problem](https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch)
+ - [How Trump leveraged Biden&#39;s TikTok ban law to help allies gain control of the app, amid fears it could be used to boost pro-Trump content and suppress criticism &lpar;Washington Post&rpar;](http://www.techmeme.com/250923/p42#a250923p42)
+ - [iPhone 17 Pro teardown reveals vapor chamber, explains scratches](https://appleinsider.com/articles/25/09/24/iphone-17-pro-teardown-reveals-vapor-chamber-explains-scratches?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
