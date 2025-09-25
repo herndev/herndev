@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And for my next Song...](http://9gag.com/gag/an7W10b)
- - ⏩ [I like it](http://9gag.com/gag/amobzNV)
- - 👉 [Who wants to be a millionaire](http://9gag.com/gag/avyXPed)<!-- MEMES:END -->
+ - 💣 [Doggy style](http://9gag.com/gag/axynjDb)
+ - ⏩ [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
+ - 👉 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
 
 ---
 
