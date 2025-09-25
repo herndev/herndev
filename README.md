@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill f content warning: What to expect from Konami&#39;s new horror game](https://www.polygon.com/silent-hill-f-content-warning-graphic-content/)
- - [7 Silent Hill f beginner&#39;s tips to help you clear the fog](https://www.polygon.com/silent-hill-f-beginners-tips-tricks-guide/)
- - [Yakuza Kiwami 3 is beautiful and ridiculous, and I&#39;m finally going to actually finish the game this time](https://www.pcgamer.com/games/action/yakuza-kiwami-3-is-beautiful-and-ridiculous-and-im-finally-going-to-actually-finish-the-game-this-time/)<!-- GAME:END -->
+ - [Forza Horizon 6′s Location Officially Revealed, Hours After Microsoft Accidentally Leaked It](https://kotaku.com/forza-horizon-6-location-microsoft-tokyo-game-show-2000628658)
+ - [Xbox Tokyo Game Show 2025 Broadcast: Everything Announced, Including the Forza Horizon 6 Setting](https://news.xbox.com/en-us/2025/09/25/xbox-tokyo-game-show-broadcast-recap-everything-announced/)
+ - [Forza Horizon 6: Answering the Big Questions About That Japan Setting](https://news.xbox.com/en-us/2025/09/25/forza-horizon-6-japan-setting-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
