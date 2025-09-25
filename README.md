@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is kind of scary actually](http://9gag.com/gag/axynG8Y)
- - ⏩ [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
- - 👉 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
+ - 💣 [Doggy style](http://9gag.com/gag/axynjDb)
+ - ⏩ [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 👉 [Wow...](http://9gag.com/gag/aYQneQ0)<!-- MEMES:END -->
 
 ---
 
