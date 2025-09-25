@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [German drivers remotely control cars via impressive racing rigs—and they may even take their wheels to public roads from December 1](https://www.pcgamer.com/hardware/german-drivers-remotely-control-cars-via-impressive-racing-rigs-and-they-may-even-take-their-wheels-to-public-roads-from-december-1/)
- - [Surface Laptop &lpar;256GB, Snapdragon X Plus&rpar; Just Took a Big Price Cut, Microsoft Is Going All In](https://kotaku.com/surface-laptop-256gb-snapdragon-x-plus-just-took-a-big-price-cut-microsoft-is-going-all-in-2000628252)
- - [How to solve the scarecrow Field puzzle in Silent Hill f](https://www.pcgamer.com/games/horror/silent-hill-f-scarecrow-field-puzzle-solution/)<!-- GAME:END -->
+ - [Official Xbox Podcast | Tokyo Game Show 2025 Recap and Discussion](https://www.youtube.com/watch?v=1N-2q1RKzWw#new_tab)
+ - [Everyone thinks the Deus Ex remaster looks awful and they&#39;re right: &#39;They really turned those 1999 graphics into 2003 graphics&#39;](https://www.pcgamer.com/games/rpg/everyone-thinks-the-deus-ex-remaster-looks-awful-and-theyre-right-they-really-turned-those-1999-graphics-into-2003-graphics/)
+ - [Ghost of Yōtei review: PlayStation’s grand attempt at an old Hollywood epic](https://www.polygon.com/ghost-of-yotei-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
