@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m glad Pixels don’t use Snapdragon. Here’s why!](https://www.androidauthority.com/pixel-snapdragon-opinion-3598710/)
- - [OnePlus 15 confirmed globally with Snapdragon 8 Elite Gen 5 and new camera engine](https://www.androidauthority.com/oneplus-15-name-snapdragon-8-elite-gen-5-confirmed-3600455/)
- - [Chromebooks vs. PC: The Differences Between Chrome OS and Windows](https://www.wired.com/story/chromebooks-vs-windows-laptops/)<!-- TECH:END -->
+ - [How AI safety took a backseat to military money](https://www.theverge.com/podcast/784865/ai-safety-military-defense-openai-anthropic-ethics)
+ - [E-bike maker Cowboy in talks to be acquired](https://www.theverge.com/news/785644/e-bike-maker-cowboy-in-talks-to-be-acquired)
+ - [Databricks says it plans to integrate OpenAI&#39;s models, including GPT-5, into its data platform and AI product Agent Bricks, as part of a $100M multiyear deal &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250925/p26#a250925p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
