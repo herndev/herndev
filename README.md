@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: Galaxy S24 series starts getting stable One UI 8 update globally &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-8-3599796/)
- - [Meta Poaches OpenAI Scientist to Help Lead AI Lab](https://www.wired.com/story/meta-poaches-openai-researcher-yang-song/)
- - [Google’s viral Nano Banana image editor might soon slip into Google Photos](https://www.androidauthority.com/google-photos-nano-banana-3601045/)<!-- TECH:END -->
+ - [Australian lawmakers propose rules to regulate crypto exchanges, allowing the government to slap penalties of 10% of annual turnover on firms that violate rules &lpar;Richard Henderson/Bloomberg&rpar;](http://www.techmeme.com/250925/p3#a250925p3)
+ - [Qualcomm details the Snapdragon 8 Elite Gen 5, its latest flagship mobile SoC, claiming a 20% boost in YoY CPU performance and a 23% uplift in GPU performance &lpar;Daniel Bader/Android Police&rpar;](http://www.techmeme.com/250925/p2#a250925p2)
+ - [Sources: Mark Zuckerberg and Sam Altman have sought to get closer to President Trump after Elon Musk fallout, but WH officials remain deeply skeptical of them &lpar;Financial Times&rpar;](http://www.techmeme.com/250925/p1#a250925p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
