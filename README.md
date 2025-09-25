@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU Digital Markets Act benefits only other big tech companies and hurts customers, says Apple](https://appleinsider.com/articles/25/09/25/eu-digital-markets-act-benefits-only-other-big-tech-companies-and-hurts-customers-says-apple?utm_source=rss)
- - [Two flagships are better than one: Qualcomm’s surprise Snapdragon 8 Gen 5 takes a page from Apple](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-5-3601031/)
- - [Epic v. Google: Google asks the US Supreme Court to pause the permanent injunction ruling, as it plans to appeal the case to SCOTUS by October 27 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250924/p40#a250924p40)<!-- TECH:END -->
+ - [Honor’s Magic 8 Pro is getting a new AI button](https://www.theverge.com/news/784711/honor-magic-8-pro-design-snapdragon-8-elite-gen-5-ai-button-first-look-exclusive)
+ - [Apple asks the EU to repeal the DMA, saying the law &quot;is leading to a worse experience for Apple users in the EU&quot; and &quot;exposing them to new risks&quot; &lpar;AFP&rpar;](http://www.techmeme.com/250924/p41#a250924p41)
+ - [EU Digital Markets Act benefits only other big tech companies and hurts customers, says Apple](https://appleinsider.com/articles/25/09/25/eu-digital-markets-act-benefits-only-other-big-tech-companies-and-hurts-customers-says-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
