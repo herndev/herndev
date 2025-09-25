@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just asked the Supreme Court to save it from the Epic ruling](https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling)
- - [Galaxy S25 Ultra Makes Surprise Appearance Shooting the Snapdragon Summit 2025](https://www.cnet.com/tech/mobile/galaxy-s25-ultra-makes-surprise-appearance-shooting-the-snapdragon-summit-2025/#ftag=CAD590a51e)
- - [Protect your eyes for just $8.99 with this amazing Kreedom Denali glasses sale!](https://www.androidauthority.com/kreedom-denali-gaming-glasses-deal-3600993/)<!-- TECH:END -->
+ - [Two flagships are better than one: Qualcomm’s surprise Snapdragon 8 Gen 5 takes a page from Apple](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-5-3601031/)
+ - [Epic v. Google: Google asks the US Supreme Court to pause the permanent injunction ruling, as it plans to appeal the case to SCOTUS by October 27 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250924/p40#a250924p40)
+ - [Google just asked the Supreme Court to save it from the Epic ruling](https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
