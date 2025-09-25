@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is finally taking steps to address its AI slop and clone problem](https://www.theverge.com/news/785136/spotify-ai-slop-impersonation-disclosure)
- - [How ProMotion works and why it doesn&#39;t matter on the iPhone 17](https://appleinsider.com/articles/25/09/25/how-promotion-works-and-why-it-doesnt-matter-on-the-iphone-17?utm_source=rss)
- - [Jimmy Kimmel returns bigger than ever](https://www.theverge.com/news/785552/jimmy-kimmel-returns-record-viewership-figures)<!-- TECH:END -->
+ - [I’m glad Pixels don’t use Snapdragon. Here’s why!](https://www.androidauthority.com/pixel-snapdragon-opinion-3598710/)
+ - [OnePlus 15 confirmed globally with Snapdragon 8 Elite Gen 5 and new camera engine](https://www.androidauthority.com/oneplus-15-name-snapdragon-8-elite-gen-5-confirmed-3600455/)
+ - [Chromebooks vs. PC: The Differences Between Chrome OS and Windows](https://www.wired.com/story/chromebooks-vs-windows-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
