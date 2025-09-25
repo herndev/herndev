@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [7 Silent Hill f beginner&#39;s tips to help you clear the fog](https://www.polygon.com/silent-hill-f-beginners-tips-tricks-guide/)
  - [Yakuza Kiwami 3 is beautiful and ridiculous, and I&#39;m finally going to actually finish the game this time](https://www.pcgamer.com/games/action/yakuza-kiwami-3-is-beautiful-and-ridiculous-and-im-finally-going-to-actually-finish-the-game-this-time/)
- - [Today&#39;s Wordle clues, hints and answer for September 25 &lpar;#1559&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-25-2025/)
- - [&lpar;For Southeast Asia&rpar; Celebrate Kratos’ legacy with the DualSense Wireless Controller – God of War 20th Anniversary Limited Edition](https://blog.playstation.com/2025/09/24/20250924-gow/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for September 25 &lpar;#1559&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-25-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
