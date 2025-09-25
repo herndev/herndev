@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official Xbox Podcast | Tokyo Game Show 2025 Recap and Discussion](https://www.youtube.com/watch?v=1N-2q1RKzWw#new_tab)
- - [Everyone thinks the Deus Ex remaster looks awful and they&#39;re right: &#39;They really turned those 1999 graphics into 2003 graphics&#39;](https://www.pcgamer.com/games/rpg/everyone-thinks-the-deus-ex-remaster-looks-awful-and-theyre-right-they-really-turned-those-1999-graphics-into-2003-graphics/)
- - [Ghost of Yōtei review: PlayStation’s grand attempt at an old Hollywood epic](https://www.polygon.com/ghost-of-yotei-review/)<!-- GAME:END -->
+ - [GameStop&#39;s shiny Pokémon Scarlet and Violet giveaway is already frustrating fans](https://www.polygon.com/gamestop-shiny-pokemon-scarlet-violet-rough-start/)
+ - [New Avatar: Fire and Ash trailer has us in full Avatar hype mode](https://www.polygon.com/avatar-fire-ash-trailer-star-wars/)
+ - [Crunchyroll&#39;s new manga app could revolutionize the market](https://www.polygon.com/crunchyroll-new-manga-app-shueisha-kadokawa-square/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
