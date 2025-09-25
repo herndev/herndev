@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK retailer Co-op says the April cyber attack cost the company £206M in revenue, marking the first time it has quantified the financial impact of the attack &lpar;Financial Times&rpar;](http://www.techmeme.com/250925/p12#a250925p12)
- - [We just got our first official glimpse of the OnePlus 15](https://www.androidauthority.com/oneplus-15-china-design-reveal-3601101/)
- - [DealStreetAsia: VC funding in Indonesian startups fell to just $80M in H1 2025 from $200M a year earlier, as startups face fallout from corruption scandals &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250925/p11#a250925p11)<!-- TECH:END -->
+ - [Uber Eats is offering grocery discounts to combat ‘veggie-flation’](https://www.theverge.com/transportation/784953/uber-eats-fresh-day-grocery-discount-price)
+ - [JPMorgan&#39;s recent data access deal with Plaid, if extended to other aggregators, could allow Plaid to use its cost advantage to further consolidate market share &lpar;Marc Rubinstein/Bloomberg&rpar;](http://www.techmeme.com/250925/p16#a250925p16)
+ - [13 Best Bed Frames &lpar;2025&rpar;, Tested in Our Homes](https://www.wired.com/gallery/best-bed-frames/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
