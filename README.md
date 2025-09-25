@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor’s Magic 8 Pro is getting a new AI button](https://www.theverge.com/news/784711/honor-magic-8-pro-design-snapdragon-8-elite-gen-5-ai-button-first-look-exclusive)
- - [Apple asks the EU to repeal the DMA, saying the law &quot;is leading to a worse experience for Apple users in the EU&quot; and &quot;exposing them to new risks&quot; &lpar;AFP&rpar;](http://www.techmeme.com/250924/p41#a250924p41)
- - [EU Digital Markets Act benefits only other big tech companies and hurts customers, says Apple](https://appleinsider.com/articles/25/09/25/eu-digital-markets-act-benefits-only-other-big-tech-companies-and-hurts-customers-says-apple?utm_source=rss)<!-- TECH:END -->
+ - [Breaking: Galaxy S24 series starts getting stable One UI 8 update globally &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-8-3599796/)
+ - [Meta Poaches OpenAI Scientist to Help Lead AI Lab](https://www.wired.com/story/meta-poaches-openai-researcher-yang-song/)
+ - [Google’s viral Nano Banana image editor might soon slip into Google Photos](https://www.androidauthority.com/google-photos-nano-banana-3601045/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
