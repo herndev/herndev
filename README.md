@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - ⏩ [Doggy style](http://9gag.com/gag/axynjDb)
+ - 💣 [Wow...](http://9gag.com/gag/aYQneQ0)
+ - ⏩ [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
  - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
 
 ---
