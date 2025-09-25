@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Oracle, Silver Lake, and MGX will be the main investors in TikTok&#39;s US business &lpar;CNBC&rpar;](http://www.techmeme.com/250925/p36#a250925p36)
- - [OpenAI launches ChatGPT Pulse, a mobile feature for Pro users that delivers daily personalized updates based on their chats, feedback, and connected apps &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250925/p35#a250925p35)
- - [Amazon ordered to pay out $1.5B to consumers after years of deceptive Prime signups](https://appleinsider.com/articles/25/09/25/amazon-ordered-to-pay-out-15b-to-consumers-after-years-of-deceptive-prime-signups?utm_source=rss)<!-- TECH:END -->
+ - [A number of great chargers are already on sale ahead of October Prime Day](https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal)
+ - [This Energizer laptop claims to have a battery that keeps going and going and going](https://www.theverge.com/news/785857/this-energizer-laptop-claims-to-have-a-battery-that-keeps-going-and-going-and-going)
+ - [Factory, which makes AI agents called &quot;droids&quot; to assist in coding, raised $50M at a $300M valuation; AI coding startups raised $7.5B+ in the past three months &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250925/p39#a250925p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
