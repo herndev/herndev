@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Juicebox, whose PeopleGPT helps employers analyze professional profiles to identify qualified candidates, raised $36M, including a $30M Series A led by Sequoia &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250925/p42#a250925p42)
- - [Google’s Calling Cards are getting even more personalization options](https://www.androidauthority.com/google-phone-calling-cards-custom-fonts-3601255/)
- - [Sources: Intel CEO Lip-Bu Tan has spoken to TSMC CEO C.C. Wei about a partnership or a joint venture; he also met with Tim Cook this year; INTC is up 9%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250925/p41#a250925p41)<!-- TECH:END -->
+ - [Trump signs an EO declaring that a proposed deal allowing TikTok to continue operating in the US will be a qualified sale that meets national security concerns &lpar;Associated Press&rpar;](http://www.techmeme.com/250925/p47#a250925p47)
+ - [Google asks SCOTUS to pause a lower court&#39;s order requiring a Play Store overhaul set to take effect on October 22, while the company seeks high court review &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/250925/p46#a250925p46)
+ - [Silicon Valley’s latest argument against regulating AI: that would literally be the antichrist](https://www.theverge.com/ai-artificial-intelligence/785407/peter-thiel-antichrist-tech-regulation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
