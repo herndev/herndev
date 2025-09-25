@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing spins off its budget brand CMF](https://www.theverge.com/news/785474/nothing-spins-off-budget-brand-cmf-india)
  - [OnePlus will be first to launch a Snapdragon 8 Gen 5 &lpar;not Elite&rpar; phone](https://www.androidauthority.com/oneplus-first-snapdragon-8-gen-5-phone-3601067/)
- - [How a Microsoft-backed $1B geothermal-powered data center in Kenya faced construction delays due to uncertainty over its value for local businesses &lpar;Semafor&rpar;](http://www.techmeme.com/250925/p6#a250925p6)
- - [The UK&#39;s Cabinet Office says its Fraud Risk Assessment Accelerator AI tool helped the government recover £480M from fraud in the 12 months from April 2024 &lpar;Jack Fenwick/BBC&rpar;](http://www.techmeme.com/250925/p5#a250925p5)<!-- TECH:END -->
+ - [How a Microsoft-backed $1B geothermal-powered data center in Kenya faced construction delays due to uncertainty over its value for local businesses &lpar;Semafor&rpar;](http://www.techmeme.com/250925/p6#a250925p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
