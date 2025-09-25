@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop&#39;s shiny Pokémon Scarlet and Violet giveaway is already frustrating fans](https://www.polygon.com/gamestop-shiny-pokemon-scarlet-violet-rough-start/)
- - [New Avatar: Fire and Ash trailer has us in full Avatar hype mode](https://www.polygon.com/avatar-fire-ash-trailer-star-wars/)
- - [Crunchyroll&#39;s new manga app could revolutionize the market](https://www.polygon.com/crunchyroll-new-manga-app-shueisha-kadokawa-square/)<!-- GAME:END -->
+ - [How to increase grasp in Hades 2, plus all Arcana Cards list](https://www.polygon.com/hades-2-guides/24150082/arcana-cards-list-abilities-upgrades-perks/)
+ - [Gerard Butler returns in a post-apocalyptic sequel we never expected to see with Greenland 2: Migration](https://www.polygon.com/gerard-butler-greenland-2-migration-trailer/)
+ - [How to get Complex Root in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-complex-root-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
