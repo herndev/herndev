@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monkey is waiting](http://9gag.com/gag/azxDj5q)
- - ⏩ [And for my next Song...](http://9gag.com/gag/an7W10b)
- - 👉 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)<!-- MEMES:END -->
+ - 💣 [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
+ - ⏩ [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 👉 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)<!-- MEMES:END -->
 
 ---
 
