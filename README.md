@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A number of great chargers are already on sale ahead of October Prime Day](https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal)
- - [This Energizer laptop claims to have a battery that keeps going and going and going](https://www.theverge.com/news/785857/this-energizer-laptop-claims-to-have-a-battery-that-keeps-going-and-going-and-going)
- - [Factory, which makes AI agents called &quot;droids&quot; to assist in coding, raised $50M at a $300M valuation; AI coding startups raised $7.5B+ in the past three months &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250925/p39#a250925p39)<!-- TECH:END -->
+ - [Juicebox, whose PeopleGPT helps employers analyze professional profiles to identify qualified candidates, raised $36M, including a $30M Series A led by Sequoia &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250925/p42#a250925p42)
+ - [Google’s Calling Cards are getting even more personalization options](https://www.androidauthority.com/google-phone-calling-cards-custom-fonts-3601255/)
+ - [Sources: Intel CEO Lip-Bu Tan has spoken to TSMC CEO C.C. Wei about a partnership or a joint venture; he also met with Tim Cook this year; INTC is up 9%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250925/p41#a250925p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
