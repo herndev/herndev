@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
- - ⏩ [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
- - 👉 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
+ - 💣 [Monkey is waiting](http://9gag.com/gag/azxDj5q)
+ - ⏩ [And for my next Song...](http://9gag.com/gag/an7W10b)
+ - 👉 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)<!-- MEMES:END -->
 
 ---
 
