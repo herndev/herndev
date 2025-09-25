@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doggy style](http://9gag.com/gag/axynjDb)
- - ⏩ [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
+ - 💣 [And for my next Song...](http://9gag.com/gag/an7W10b)
+ - ⏩ [I like it](http://9gag.com/gag/amobzNV)
+ - 👉 [Who wants to be a millionaire](http://9gag.com/gag/avyXPed)<!-- MEMES:END -->
 
 ---
 
