@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doggy style](http://9gag.com/gag/axynjDb)
- - ⏩ [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 👉 [Wow...](http://9gag.com/gag/aYQneQ0)<!-- MEMES:END -->
+ - 💣 [Wow...](http://9gag.com/gag/aYQneQ0)
+ - ⏩ [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - 👉 [I hate my family](http://9gag.com/gag/aND2nx6)<!-- MEMES:END -->
 
 ---
 
