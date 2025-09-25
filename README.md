@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 17 series arrives with secondary screens and enormous batteries](https://www.theverge.com/news/785693/xiaomi-17-pro-max-china-launch-specs-price-second-screen)
- - [xAI sues OpenAI in California for allegedly stealing trade secrets by means of hiring away key employees; in August, xAI sued an ex-staffer who left for OpenAI &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250925/p28#a250925p28)
- - [Samsung rolls out stable One UI 8 update for Galaxy Z Fold 6, Flip 6 &lpar;Update: US release&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-6-z-flip-6-one-ui-8-3599787/)<!-- TECH:END -->
+ - [Pixel call recording spotted in the wild — here’s how it actually works](https://www.androidauthority.com/google-pixel-call-recording-example-3601192/)
+ - [Apple says the DMA exposes users to new risks, reduces choice by making iOS resemble Android, and creates unfair competition by not applying to Samsung &lpar;Apple&rpar;](http://www.techmeme.com/250925/p32#a250925p32)
+ - [Microsoft blocks the Israeli military from some cloud and AI services](https://www.theverge.com/news/785733/microsoft-block-israeli-military-cloud-ai-services-palestine-protests)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
