@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow...](http://9gag.com/gag/aYQneQ0)
- - ⏩ [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
+ - 💣 [A hope for walking again](http://9gag.com/gag/aryrKmd)
+ - ⏩ [Who wants to be a millionaire](http://9gag.com/gag/avyXPed)
+ - 👉 [I like it](http://9gag.com/gag/amobzNV)<!-- MEMES:END -->
 
 ---
 
