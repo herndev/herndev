@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow...](http://9gag.com/gag/aYQneQ0)
- - ⏩ [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - 👉 [I hate my family](http://9gag.com/gag/aND2nx6)<!-- MEMES:END -->
+ - 💣 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - ⏩ [Doggy style](http://9gag.com/gag/axynjDb)
+ - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
 
 ---
 
