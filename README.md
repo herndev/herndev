@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - ⏩ [The golden age of sibling pop acts](http://9gag.com/gag/ayNVnwV)
- - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
+ - 💣 [Doggy style](http://9gag.com/gag/axynjDb)
+ - ⏩ [Found out](http://9gag.com/gag/abAmyRr)
+ - 👉 [Wow...](http://9gag.com/gag/aYQneQ0)<!-- MEMES:END -->
 
 ---
 
