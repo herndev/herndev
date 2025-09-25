@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based &quot;neocloud&quot; startup Nscale raised a $1.1B Series B led by Aker, with Nvidia participating; Aker says it is investing $285M for a 9.3% stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/250925/p8#a250925p8)
- - [Copenhagen-based Light, which develops AI-powered software to automate financial tasks like accounting and bookkeeping, raised a $30M Series A led by Balderton &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250925/p7#a250925p7)
- - [Forza Horizon 6 is set in Japan and arrives in 2026](https://www.theverge.com/news/785486/forza-horizon-6-japan-xbox-release-date)<!-- TECH:END -->
+ - [UK retailer Co-op says the April cyber attack cost the company £206M in revenue, marking the first time it has quantified the financial impact of the attack &lpar;Financial Times&rpar;](http://www.techmeme.com/250925/p12#a250925p12)
+ - [We just got our first official glimpse of the OnePlus 15](https://www.androidauthority.com/oneplus-15-china-design-reveal-3601101/)
+ - [DealStreetAsia: VC funding in Indonesian startups fell to just $80M in H1 2025 from $200M a year earlier, as startups face fallout from corruption scandals &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250925/p11#a250925p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
