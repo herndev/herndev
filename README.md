@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Japanese Developers Bring Their Legendary Craftsmanship to a New Xbox Device](https://news.microsoft.com/source/?post_type=features&p=22030#new_tab)
  - [Mod maker brings Skibidi Toilet to Borderlands 4 for one simple reason: To spite the narrative director who said he&#39;d &#39;cry real tears&#39; if the game shipped with it](https://www.pcgamer.com/games/fps/mod-maker-brings-skibidi-toilet-to-borderlands-4-for-one-simple-reason-to-spite-the-narrative-director-who-said-hed-cry-real-tears-if-the-game-shipped-with-it/)
- - [PSA: Don&#39;t turn off motion blur in Silent Hill F unless you want some weird visual glitches](https://www.pcgamer.com/games/horror/psa-dont-turn-off-motion-blur-in-silent-hill-f-unless-you-want-some-weird-visual-glitches/)
- - [State of Play September 2025: all announcements, trailers](https://blog.playstation.com/2025/09/24/state-of-play-september-2025-all-announcements-trailers/)<!-- GAME:END -->
+ - [PSA: Don&#39;t turn off motion blur in Silent Hill F unless you want some weird visual glitches](https://www.pcgamer.com/games/horror/psa-dont-turn-off-motion-blur-in-silent-hill-f-unless-you-want-some-weird-visual-glitches/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
