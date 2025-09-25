@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber Eats is offering grocery discounts to combat ‘veggie-flation’](https://www.theverge.com/transportation/784953/uber-eats-fresh-day-grocery-discount-price)
- - [JPMorgan&#39;s recent data access deal with Plaid, if extended to other aggregators, could allow Plaid to use its cost advantage to further consolidate market share &lpar;Marc Rubinstein/Bloomberg&rpar;](http://www.techmeme.com/250925/p16#a250925p16)
- - [13 Best Bed Frames &lpar;2025&rpar;, Tested in Our Homes](https://www.wired.com/gallery/best-bed-frames/)<!-- TECH:END -->
+ - [Spotify is finally taking steps to address its AI slop and clone problem](https://www.theverge.com/news/785136/spotify-ai-slop-impersonation-disclosure)
+ - [How ProMotion works and why it doesn&#39;t matter on the iPhone 17](https://appleinsider.com/articles/25/09/25/how-promotion-works-and-why-it-doesnt-matter-on-the-iphone-17?utm_source=rss)
+ - [Jimmy Kimmel returns bigger than ever](https://www.theverge.com/news/785552/jimmy-kimmel-returns-record-viewership-figures)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
