@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found out](http://9gag.com/gag/abAmyRr)
- - ⏩ [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
+ - 💣 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
+ - ⏩ [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
 
 ---
 
