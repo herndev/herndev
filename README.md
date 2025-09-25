@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s new Fire Emblem mobile game has an Among Us-style twist](https://www.theverge.com/news/785416/nintendo-fire-emblem-shadows-mobile-game-among-us)
- - [Ring Outdoor Cam Plus plummets to new record-low price of just $59.99](https://www.androidauthority.com/ring-outdoor-cam-plus-deal-3-3600994/)
- - [An Indian court dismisses X&#39;s March lawsuit challenging the government&#39;s content takedown orders, ruling foreign platforms can&#39;t invoke free speech protections &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250924/p38#a250924p38)<!-- TECH:END -->
+ - [Google just asked the Supreme Court to save it from the Epic ruling](https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling)
+ - [Galaxy S25 Ultra Makes Surprise Appearance Shooting the Snapdragon Summit 2025](https://www.cnet.com/tech/mobile/galaxy-s25-ultra-makes-surprise-appearance-shooting-the-snapdragon-summit-2025/#ftag=CAD590a51e)
+ - [Protect your eyes for just $8.99 with this amazing Kreedom Denali glasses sale!](https://www.androidauthority.com/kreedom-denali-gaming-glasses-deal-3600993/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
