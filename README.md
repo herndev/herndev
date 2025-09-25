@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
- - ⏩ [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
- - 👉 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)<!-- MEMES:END -->
+ - 💣 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - ⏩ [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
+ - 👉 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)<!-- MEMES:END -->
 
 ---
 
