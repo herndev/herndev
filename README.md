@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU Digital Markets Act benefits only other big tech companies and hurts customers, says Apple](https://appleinsider.com/articles/25/09/25/eu-digital-markets-act-benefits-only-other-big-tech-companies-and-hurts-customers-says-apple?utm_source=rss)
  - [Two flagships are better than one: Qualcomm’s surprise Snapdragon 8 Gen 5 takes a page from Apple](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-5-3601031/)
- - [Epic v. Google: Google asks the US Supreme Court to pause the permanent injunction ruling, as it plans to appeal the case to SCOTUS by October 27 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250924/p40#a250924p40)
- - [Google just asked the Supreme Court to save it from the Epic ruling](https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling)<!-- TECH:END -->
+ - [Epic v. Google: Google asks the US Supreme Court to pause the permanent injunction ruling, as it plans to appeal the case to SCOTUS by October 27 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250924/p40#a250924p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
