@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [State of Play September 2025: all announcements, trailers](https://blog.playstation.com/2025/09/24/state-of-play-september-2025-all-announcements-trailers/)
- - [We finally saw ZA/UM&#39;s Zero Parades in action and even though it&#39;s extremely Disco Elysium, the protagonist couldn&#39;t be more different](https://www.pcgamer.com/games/rpg/we-finally-saw-za-ums-zero-parades-in-action-and-even-though-its-extremely-disco-elysium-the-protagonist-couldnt-be-more-different/)
- - [Wolverine claws more people in the head in the new Marvel&#39;s Wolverine trailer than I think he did in all the comics I read as a kid](https://www.pcgamer.com/games/action/wolverine-claws-more-people-in-the-head-in-the-new-wolverine-trailer-than-i-think-he-did-in-all-the-comics-i-read-as-a-kid/)<!-- GAME:END -->
+ - [Mod maker brings Skibidi Toilet to Borderlands 4 for one simple reason: To spite the narrative director who said he&#39;d &#39;cry real tears&#39; if the game shipped with it](https://www.pcgamer.com/games/fps/mod-maker-brings-skibidi-toilet-to-borderlands-4-for-one-simple-reason-to-spite-the-narrative-director-who-said-hed-cry-real-tears-if-the-game-shipped-with-it/)
+ - [PSA: Don&#39;t turn off motion blur in Silent Hill F unless you want some weird visual glitches](https://www.pcgamer.com/games/horror/psa-dont-turn-off-motion-blur-in-silent-hill-f-unless-you-want-some-weird-visual-glitches/)
+ - [State of Play September 2025: all announcements, trailers](https://blog.playstation.com/2025/09/24/state-of-play-september-2025-all-announcements-trailers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
