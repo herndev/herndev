@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $60 on the Ring Spotlight Cam Plus or Pro!](https://www.androidauthority.com/ring-spotlight-cam-plus-pro-deals-3601297/)
- - [Call-recording app Neon, which became the #2 social app on the US App Store, goes dark after exposing users&#39; phone numbers, call recordings, and transcripts &lpar;TechCrunch&rpar;](http://www.techmeme.com/250925/p52#a250925p52)
- - [A US federal judge preliminarily approves Anthropic&#39;s $1.5B copyright settlement with authors &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250925/p51#a250925p51)<!-- TECH:END -->
+ - [Unsurprisingly, Google says a crackdown on big tech is making life harder](https://www.androidauthority.com/google-wants-reset-eu-digital-markets-act-3601386/)
+ - [Samsung SmartThings will soon let you start your car, lock your door, and more from the app](https://www.androidauthority.com/samsung-smartthings-home-to-car-3601357/)
+ - [Why AI isn&#39;t replacing radiologists: models underperform in hospital settings, AI use faces legal hurdles, and the job is much more than image recognition &lpar;The Works in Progress Newsletter&rpar;](http://www.techmeme.com/250925/p54#a250925p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
