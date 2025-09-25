@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump signs an EO declaring that a proposed deal allowing TikTok to continue operating in the US will be a qualified sale that meets national security concerns &lpar;Associated Press&rpar;](http://www.techmeme.com/250925/p47#a250925p47)
- - [Google asks SCOTUS to pause a lower court&#39;s order requiring a Play Store overhaul set to take effect on October 22, while the company seeks high court review &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/250925/p46#a250925p46)
- - [Silicon Valley’s latest argument against regulating AI: that would literally be the antichrist](https://www.theverge.com/ai-artificial-intelligence/785407/peter-thiel-antichrist-tech-regulation)<!-- TECH:END -->
+ - [Save $60 on the Ring Spotlight Cam Plus or Pro!](https://www.androidauthority.com/ring-spotlight-cam-plus-pro-deals-3601297/)
+ - [Call-recording app Neon, which became the #2 social app on the US App Store, goes dark after exposing users&#39; phone numbers, call recordings, and transcripts &lpar;TechCrunch&rpar;](http://www.techmeme.com/250925/p52#a250925p52)
+ - [A US federal judge preliminarily approves Anthropic&#39;s $1.5B copyright settlement with authors &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250925/p51#a250925p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
