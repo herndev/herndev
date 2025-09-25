@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel call recording spotted in the wild — here’s how it actually works](https://www.androidauthority.com/google-pixel-call-recording-example-3601192/)
- - [Apple says the DMA exposes users to new risks, reduces choice by making iOS resemble Android, and creates unfair competition by not applying to Samsung &lpar;Apple&rpar;](http://www.techmeme.com/250925/p32#a250925p32)
- - [Microsoft blocks the Israeli military from some cloud and AI services](https://www.theverge.com/news/785733/microsoft-block-israeli-military-cloud-ai-services-palestine-protests)<!-- TECH:END -->
+ - [OpenAI really, really wants you to start your day with ChatGPT Pulse](https://www.theverge.com/ai-artificial-intelligence/785881/openai-really-really-wants-you-to-start-your-day-with-chatgpt-pulse)
+ - [Jackery’s newest Explorer 240D power station is already over 30 percent off](https://www.theverge.com/tech/785833/jackery-explorer-240d-bose-quietcomfor-earbuds-deal-sale)
+ - [OpenAI releases GDPval, a benchmark to test AI performance on &quot;economically valuable, real-world tasks&quot;, and says Claude Opus 4.1 was the best performing model &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250925/p34#a250925p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
