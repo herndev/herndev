@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - ⏩ [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
- - 👉 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)<!-- MEMES:END -->
+ - 💣 [Wow...](http://9gag.com/gag/aYQneQ0)
+ - ⏩ [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
 
 ---
 
