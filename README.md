@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI safety took a backseat to military money](https://www.theverge.com/podcast/784865/ai-safety-military-defense-openai-anthropic-ethics)
- - [E-bike maker Cowboy in talks to be acquired](https://www.theverge.com/news/785644/e-bike-maker-cowboy-in-talks-to-be-acquired)
- - [Databricks says it plans to integrate OpenAI&#39;s models, including GPT-5, into its data platform and AI product Agent Bricks, as part of a $100M multiyear deal &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250925/p26#a250925p26)<!-- TECH:END -->
+ - [Xiaomi 17 series arrives with secondary screens and enormous batteries](https://www.theverge.com/news/785693/xiaomi-17-pro-max-china-launch-specs-price-second-screen)
+ - [xAI sues OpenAI in California for allegedly stealing trade secrets by means of hiring away key employees; in August, xAI sued an ex-staffer who left for OpenAI &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250925/p28#a250925p28)
+ - [Samsung rolls out stable One UI 8 update for Galaxy Z Fold 6, Flip 6 &lpar;Update: US release&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-6-z-flip-6-one-ui-8-3599787/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
