@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doggy style](http://9gag.com/gag/axynjDb)
- - ⏩ [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
+ - 💣 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - ⏩ [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
  - 👉 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
 
 ---
