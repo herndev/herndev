@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 6′s Location Officially Revealed, Hours After Microsoft Accidentally Leaked It](https://kotaku.com/forza-horizon-6-location-microsoft-tokyo-game-show-2000628658)
- - [Xbox Tokyo Game Show 2025 Broadcast: Everything Announced, Including the Forza Horizon 6 Setting](https://news.xbox.com/en-us/2025/09/25/xbox-tokyo-game-show-broadcast-recap-everything-announced/)
- - [Forza Horizon 6: Answering the Big Questions About That Japan Setting](https://news.xbox.com/en-us/2025/09/25/forza-horizon-6-japan-setting-2026/)<!-- GAME:END -->
+ - [German drivers remotely control cars via impressive racing rigs—and they may even take their wheels to public roads from December 1](https://www.pcgamer.com/hardware/german-drivers-remotely-control-cars-via-impressive-racing-rigs-and-they-may-even-take-their-wheels-to-public-roads-from-december-1/)
+ - [Surface Laptop &lpar;256GB, Snapdragon X Plus&rpar; Just Took a Big Price Cut, Microsoft Is Going All In](https://kotaku.com/surface-laptop-256gb-snapdragon-x-plus-just-took-a-big-price-cut-microsoft-is-going-all-in-2000628252)
+ - [How to solve the scarecrow Field puzzle in Silent Hill f](https://www.pcgamer.com/games/horror/silent-hill-f-scarecrow-field-puzzle-solution/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
