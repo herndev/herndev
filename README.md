@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering returns to Lorwyn in 2026, see the new cards](https://www.polygon.com/mtg-magic-the-gathering-lorwyn-eclipsed-preview-magic-con/)
- - [Star Trek, the Hobbit, and Marvel Super Heroes: Everything coming to MTG in 2026](https://www.polygon.com/mtg-magic-the-gathering-magiccon-news-announcements-spoilers/)
- - [Helldivers 2 Could Have Ended Up As A Free-To-Play Game](https://kotaku.com/helldivers-2-free-to-play-game-tech-debt-ceo-discord-ps5-pc-fps-performance-2000629256)<!-- GAME:END -->
+ - [Path of Exile 2 is making a surprise Atlas overhaul next week to liberate its players from tower tyranny](https://www.pcgamer.com/games/rpg/path-of-exile-2-is-making-a-surprise-atlas-overhaul-next-week-to-liberate-its-players-from-tower-tyranny/)
+ - [How to get Nectar in Hades 2](https://www.polygon.com/hades-2-nectar-how-to-get/)
+ - [Nine Digimon Games Worth Going Back To After Time Stranger](https://kotaku.com/best-digimon-game-cyber-sleuth-world-survive-next-order-2000629304)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
