@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhones still being made in China under sweatshop conditions, watchdog alleges](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)
- - [Sources: ByteDance is expected to receive ~50% of TikTok US&#39; overall profit despite selling majority ownership to US investors, including a 20% licensing fee &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p12#a250926p12)
- - [Enable This iOS 26 Privacy Feature to Make It Harder for Others to Track You](https://www.cnet.com/tech/services-and-software/enable-this-ios-26-privacy-feature-to-make-it-harder-for-others-to-track-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This smartwatch lacks notifications but will still distract you with Tetris](https://www.theverge.com/news/785725/tetris-my-play-watch-smartwatch)
+ - [Google’s Clock app mysteriously disappears for some Wear OS watches](https://www.androidauthority.com/google-clock-missing-on-wear-os-3601567/)
+ - [Something is seriously wrong with YouTube TV multiview, users say](https://www.androidauthority.com/youtube-tv-multiview-quality-complaints-3601566/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
