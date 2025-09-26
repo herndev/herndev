@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [James Gunn calls Peacemaker&#39;s big cameo &#39;important for the entire DCU&#39;](https://www.polygon.com/peacemaker-lex-luthor-cameo-nicholas-hoult-season-2-episode-6/)
- - [ROG Xbox Ally and Ally X price and pre-orders detailed; Ally X costs $1000](https://www.polygon.com/rog-xbox-ally-x-price-announced/)
- - [Today&#39;s Wordle clues, hints and answer for September 26 &lpar;#1560&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-26-2025/)<!-- GAME:END -->
+ - [Xbox’s Handheld Finally Has A Price, And It Costs More Than An Xbox](https://kotaku.com/xbox-handheld-rog-ally-x-price-preorder-2000629161)
+ - [When will Demon Slayer: Infinity Castle be available on streaming?](https://www.polygon.com/demon-slayer-infinity-castle-streaming-crunchyroll-netflix/)
+ - [Silksong&#39;s criminal lack of &#39;Shaw!&#39; fixed by heroic modder](https://www.pcgamer.com/games/action/silksongs-criminal-lack-of-shaw-fixed-by-heroic-modder/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
