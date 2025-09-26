@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ready to Play Anywhere? Players Can Now Pre-Order the ROG Xbox Ally X and ROG Xbox Ally In 38 Countries](https://news.xbox.com/en-us/2025/09/25/pre-order-rog-xbox-ally-x-and-rog-ally-starting-today/)
- - [How to solve the scarecrow puzzle in Silent Hill f](https://www.polygon.com/silent-hill-f-field-scarecrow-puzzle-solutions/)
- - [The surprise Witcher 3 patch adding cross-platform mod support is delayed until 2026](https://www.pcgamer.com/games/rpg/the-surprise-witcher-3-patch-adding-cross-platform-mod-support-is-delayed-until-2026/)<!-- GAME:END -->
+ - [Tiny Metal 2 is the third game in the turn-based strategy series, and it just so happens to be taking after my favorite Advance Wars](https://www.pcgamer.com/games/strategy/tiny-metal-2-is-the-third-game-in-the-turn-based-strategy-series-and-it-just-so-happens-to-be-taking-after-my-favorite-advance-wars/)
+ - [Petit Planet: All the key details on HoYo&#39;s Animal Crossing-like life sim](https://www.pcgamer.com/games/life-sim/petit-planet-guide/)
+ - [Baby Steps is funny, but it&#39;s also a depressing, confrontational horror game about thwarted modern masculinity](https://www.pcgamer.com/games/action/baby-steps-is-funny-but-its-also-a-depressing-confrontational-horror-game-about-thwarted-modern-masculinity/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
