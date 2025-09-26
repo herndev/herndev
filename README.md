@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve got a bone to pick with ‘getting credit’ from your fitness tracker](https://www.theverge.com/column/786346/optimizer-wearables-fitness-tracking-health-anxiety-paranoia)
- - [China and its media are quiet about the TikTok deal, a notable silence as China can still decide the appâ€™s fate; Chinese social media chatter has been limited &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250926/p11#a250926p11)
- - [Raspberry Pi upgraded its keyboard computer with mechanical switches and SSD storage](https://www.theverge.com/news/786369/raspberry-pi-500-plus-mechanical-keyboard-computer-ssd)<!-- TECH:END -->
+ - [iPhones still being made in China under sweatshop conditions, watchdog alleges](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)
+ - [Sources: ByteDance is expected to receive ~50% of TikTok US&#39; overall profit despite selling majority ownership to US investors, including a 20% licensing fee &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p12#a250926p12)
+ - [Enable This iOS 26 Privacy Feature to Make It Harder for Others to Track You](https://www.cnet.com/tech/services-and-software/enable-this-ios-26-privacy-feature-to-make-it-harder-for-others-to-track-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
