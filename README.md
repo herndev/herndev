@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No Comment..](http://9gag.com/gag/ajPMqgQ)
- - ⏩ [Wow...](http://9gag.com/gag/aYQneQ0)
- - 👉 [Slap that guy.](http://9gag.com/gag/aVv1DxK)<!-- MEMES:END -->
+ - 💣 [Few hours after incident over Alaska the Pentagon has summoned military officials from around the world for a gathering in Virginia - Pete Hegseth has ordered hundreds of the U.S. military\u2019s generals and admirals to gather on short notice.](http://9gag.com/gag/aE0NR89)
+ - ⏩ [Doggy style](http://9gag.com/gag/axynjDb)
+ - 👉 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)<!-- MEMES:END -->
 
 ---
 
