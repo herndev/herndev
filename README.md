@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Decisions](http://9gag.com/gag/a87X411)
- - ⏩ [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
- - 👉 [No Comment..](http://9gag.com/gag/ajPMqgQ)<!-- MEMES:END -->
+ - 💣 [Vocal control](http://9gag.com/gag/aPAdMoQ)
+ - ⏩ [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
+ - 👉 [Did you see the dude in the red dress?](http://9gag.com/gag/adB4XOM)<!-- MEMES:END -->
 
 ---
 
