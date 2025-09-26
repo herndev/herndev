@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s new H-1B policy caused short-term panic — and will cause long-term chaos](https://www.theverge.com/policy/786511/h-1b-skilled-worker-visa-policy-chaos)
- - [iPhones still allegedly being made in China under sweatshop conditions](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)
- - [Poll: Would you pay for ad-free Instagram and Facebook?](https://www.androidauthority.com/meta-facebook-instagram-no-ads-subscription-uk-3601617/)<!-- TECH:END -->
+ - [UK-based Kido nursery chain was hacked by a ransomware gang called Radiant, which posted profiles of 10 children online and threatens to release more data &lpar;The Guardian&rpar;](http://www.techmeme.com/250926/p18#a250926p18)
+ - [Nintendo Switch emulator Eden vanishes from the Play Store after just two weeks](https://www.androidauthority.com/eden-emulator-3601673/)
+ - [Amazon Will Cough Up $2.5 Billion for &#39;Tricking&#39; People Into Amazon Prime Subscriptions](https://www.cnet.com/news/amazon-will-cough-up-2-5-billion-for-tricking-people-into-amazon-prime-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
