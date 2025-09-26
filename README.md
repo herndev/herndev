@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
- - ⏩ [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
- - 👉 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)<!-- MEMES:END -->
+ - 💣 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
+ - ⏩ [A car committing seppuku, to save the driver from being extra cwispy during a fire](http://9gag.com/gag/aPAdMWn)
+ - 👉 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)<!-- MEMES:END -->
 
 ---
 
