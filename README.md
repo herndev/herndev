@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Intel&#39;s $28B Ohio chip factory, the largest economic development project in Ohio&#39;s history, initially set for a 2025 opening but now delayed till 2030 &lpar;Kris Maher/Wall Street Journal&rpar;](http://www.techmeme.com/250925/p60#a250925p60)
  - [Inside Pangyo Techno Valley, South Korea&#39;s &quot;Silicon Valley&quot; that is home to 1,800+ startups, R&amp;D centers, and global tech firms, as it strives for global impact &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250925/p59#a250925p59)
- - [Microsoft and Asus open preorders for the first Xbox handhelds, the ROG Xbox Ally for $599 and the ROG Xbox Ally X for $999 in the US, shipping October 16 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250925/p58#a250925p58)
- - [Canada&#39;s anti-money laundering agency fines crypto exchange KuCoin ~$14M for failing to report large and suspicious transactions; KuCoin appeals the decision &lpar;Nivedita Balu/Reuters&rpar;](http://www.techmeme.com/250925/p57#a250925p57)<!-- TECH:END -->
+ - [Microsoft and Asus open preorders for the first Xbox handhelds, the ROG Xbox Ally for $599 and the ROG Xbox Ally X for $999 in the US, shipping October 16 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250925/p58#a250925p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
