@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tuapse, Russia. Modern days.](http://9gag.com/gag/aZZVp4Q)
- - ⏩ [Fellow Gen X](http://9gag.com/gag/adB47BD)
- - 👉 [No Comment..](http://9gag.com/gag/ajPMqgQ)<!-- MEMES:END -->
+ - 💣 [Wait for it....](http://9gag.com/gag/aoyq1N3)
+ - ⏩ [Good luck](http://9gag.com/gag/aKGNVwb)
+ - 👉 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)<!-- MEMES:END -->
 
 ---
 
