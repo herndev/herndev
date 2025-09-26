@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
+ - 💣 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
  - ⏩ [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
- - 👉 [No Comment..](http://9gag.com/gag/ajPMqgQ)<!-- MEMES:END -->
+ - 👉 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)<!-- MEMES:END -->
 
 ---
 
