@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
- - ⏩ [A car committing seppuku, to save the driver from being extra cwispy during a fire](http://9gag.com/gag/aPAdMWn)
- - 👉 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)<!-- MEMES:END -->
+ - 💣 [Tuapse, Russia. Modern days.](http://9gag.com/gag/aZZVp4Q)
+ - ⏩ [Fellow Gen X](http://9gag.com/gag/adB47BD)
+ - 👉 [No Comment..](http://9gag.com/gag/ajPMqgQ)<!-- MEMES:END -->
 
 ---
 
