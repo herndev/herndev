@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Star Trek, Avengers, And More: All 7 Newly Revealed Magic: The Gathering Sets Coming In 2026](https://kotaku.com/magic-gathering-mtg-star-trek-marvel-avengers-2026-sets-2000629313)
  - [Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-silent-hill-f-sonic-baby-steps-2000629349)
- - [Silksong player uses every speedrunning trick in the book to lock poor Hornet in bug jail forever: &#39;I don&#39;t know why anyone would want to do this, but I have done it anyway&#39;](https://www.pcgamer.com/games/action/silksong-player-uses-every-speedrunning-trick-in-the-book-to-lock-poor-hornet-in-bug-jail-forever-i-dont-know-why-anyone-would-want-to-do-this-but-i-have-done-it-anyway/)
- - [Magic: The Gathering Is Making PlayStation Cards, And They Look Great](https://kotaku.com/magic-gathering-playstation-last-of-us-god-of-war-ellie-2000629350)<!-- GAME:END -->
+ - [Silksong player uses every speedrunning trick in the book to lock poor Hornet in bug jail forever: &#39;I don&#39;t know why anyone would want to do this, but I have done it anyway&#39;](https://www.pcgamer.com/games/action/silksong-player-uses-every-speedrunning-trick-in-the-book-to-lock-poor-hornet-in-bug-jail-forever-i-dont-know-why-anyone-would-want-to-do-this-but-i-have-done-it-anyway/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
