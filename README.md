@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/aoyq9Dw)
- - ⏩ [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 👉 [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)<!-- MEMES:END -->
+ - 💣 [No Comment..](http://9gag.com/gag/ajPMqgQ)
+ - ⏩ [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
+ - 👉 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)<!-- MEMES:END -->
 
 ---
 
