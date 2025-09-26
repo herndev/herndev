@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox’s Handheld Finally Has A Price, And It Costs More Than An Xbox](https://kotaku.com/xbox-handheld-rog-ally-x-price-preorder-2000629161)
- - [When will Demon Slayer: Infinity Castle be available on streaming?](https://www.polygon.com/demon-slayer-infinity-castle-streaming-crunchyroll-netflix/)
- - [Silksong&#39;s criminal lack of &#39;Shaw!&#39; fixed by heroic modder](https://www.pcgamer.com/games/action/silksongs-criminal-lack-of-shaw-fixed-by-heroic-modder/)<!-- GAME:END -->
+ - [Habbo Hotel&#39;s answer to WoW Classic is coming to Steam](https://www.pcgamer.com/games/mmo/habbo-hotels-answer-to-wow-classic-is-coming-to-steam/)
+ - [Rematch is free to play for a long weekend after its Season 1 launch—and I&#39;m currently torn between saving Olympus and having a kickabout](https://www.pcgamer.com/games/sports/rematch-is-free-to-play-for-a-long-weekend-after-its-season-1-launch-and-im-currently-torn-between-saving-olympus-and-having-a-kickabout/)
+ - [How to get the Bod in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-bod-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
