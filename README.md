@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 26-Year-Old Mysterious Behind A Cult-Classic SRPG’s Gradius Sword Has Finally Been Solved](https://kotaku.com/vandal-hearts-2-gradius-sword-suikoden-ps1-demo-disc-save-file-2000629247)
- - [End of an era as Bowser &lpar;no not that one&rpar; retires from Nintendo](https://www.pcgamer.com/gaming-industry/end-of-an-era-as-bowser-no-not-that-one-retires-from-nintendo/)
- - [Hades 2 patch brings new stuff even if you&#39;ve played early access](https://www.polygon.com/hades-2-launch-patch-notes-new-keepsake-true-ending-familiar-changes/)<!-- GAME:END -->
+ - [Live-Action Beauty And The Beast Was An Inspiration For FF7 Remake Trilogy , Says Director](https://kotaku.com/final-fantasy-7-remake-rebirth-switch-2-xbox-port-part-3-2000629254)
+ - [Silent Hill f&#39;s finicky combat doesn&#39;t actually have to be an issue if you follow these cardinal rules](https://www.pcgamer.com/games/horror/silent-hill-fs-finicky-combat-doesnt-actually-have-to-be-an-issue-if-you-follow-these-cardinal-rules/)
+ - [Every ending in Silent Hill f and how to get them](https://www.pcgamer.com/games/horror/silent-hill-f-endings-and-how-to-get-them/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
