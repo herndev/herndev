@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good luck](http://9gag.com/gag/aKGNVwb)
- - ⏩ [Zip tile fix everything](http://9gag.com/gag/aXPGw4z)
- - 👉 [No Comment..](http://9gag.com/gag/ajPMqgQ)<!-- MEMES:END -->
+ - 💣 [Few hours after incident over Alaska the Pentagon has summoned military officials from around the world for a gathering in Virginia - Pete Hegseth has ordered hundreds of the U.S. military\u2019s generals and admirals to gather on short notice.](http://9gag.com/gag/aE0NR89)
+ - ⏩ [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
+ - 👉 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)<!-- MEMES:END -->
 
 ---
 
