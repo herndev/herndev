@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can I Take Power Banks on Flights? We Explain the Rules &lpar;2025&rpar;](https://www.wired.com/story/rules-for-power-banks-on-flights/)
- - [Evercore hikes Apple stock target to $290 on iPhone 17 Pro Max sales strength](https://appleinsider.com/articles/25/09/26/evercore-hikes-apple-stock-target-to-290-on-iphone-17-pro-max-sales-strength?utm_source=rss)
- - [The UK announces mandatory digital ID plans](https://www.theverge.com/news/786323/uk-digital-id-plans-mandatory-immigration-crackdown)<!-- TECH:END -->
+ - [100W universal fast charging is here, there’s no excuse Apple, Google, and Samsung!](https://www.androidauthority.com/100w-charging-for-google-and-apple-3600329/)
+ - [Corsair Sabre V2 Pro Ultralight Gaming Mouse Review: Impossibly Light](https://www.wired.com/review/corsair-sabre-v2-pro-ultralight-gaming-mouse/)
+ - [One UI 8.5 could make life easier when switching between Wi-Fi and mobile data](https://www.androidauthority.com/samsung-one-ui-8-5-switch-wi-fi-cellular-data-3601491/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
