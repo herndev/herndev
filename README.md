@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)
- - [Qualcomm’s surprise Snapdragon 8 Gen 5 takes a page from Apple &lpar;Update: Chip details&rpar;](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-5-3601031/)
- - [Home Depot Promo Codes: 10% Off | September 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [Pixel Buds Pro 2 users get new update with Adaptive Audio and Loud Noise Protection](https://www.androidauthority.com/google-pixel-buds-pro-2-september-update-3601429/)
+ - [Sources: the Trump admin plans to require chipmakers to match local output with imports and impose tariffs on companies that fail to maintain a 1:1 ratio &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250926/p2#a250926p2)
+ - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
