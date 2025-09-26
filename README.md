@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [36 Best Advent Calendars for Kids in 2025](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)
- - [Leaked letter: NLRB drops claims against Tim Cook, including that he violated workers&#39; rights with a 2021 email threatening staffers who leak confidential info &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/250926/p26#a250926p26)
- - [Apple AirPods Pro 3 Review: Still The Best for iOS](https://www.wired.com/review/apple-airpods-pro-3/)<!-- TECH:END -->
+ - [Trump says Microsoft should fire its global affairs head Lisa Monaco over her work in the Biden administration, calling her a &quot;menace to US National Security&quot; &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250926/p27#a250926p27)
+ - [Microsoft Photos will soon auto-categorize your pictures](https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 27, #369](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-27-369/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
