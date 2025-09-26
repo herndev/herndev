@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Live-Action Beauty And The Beast Was An Inspiration For FF7 Remake Trilogy , Says Director](https://kotaku.com/final-fantasy-7-remake-rebirth-switch-2-xbox-port-part-3-2000629254)
- - [Silent Hill f&#39;s finicky combat doesn&#39;t actually have to be an issue if you follow these cardinal rules](https://www.pcgamer.com/games/horror/silent-hill-fs-finicky-combat-doesnt-actually-have-to-be-an-issue-if-you-follow-these-cardinal-rules/)
- - [Every ending in Silent Hill f and how to get them](https://www.pcgamer.com/games/horror/silent-hill-f-endings-and-how-to-get-them/)<!-- GAME:END -->
+ - [Magic: The Gathering returns to Lorwyn in 2026, see the new cards](https://www.polygon.com/mtg-magic-the-gathering-lorwyn-eclipsed-preview-magic-con/)
+ - [Star Trek, the Hobbit, and Marvel Super Heroes: Everything coming to MTG in 2026](https://www.polygon.com/mtg-magic-the-gathering-magiccon-news-announcements-spoilers/)
+ - [Helldivers 2 Could Have Ended Up As A Free-To-Play Game](https://kotaku.com/helldivers-2-free-to-play-game-tech-debt-ceo-discord-ps5-pc-fps-performance-2000629256)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
