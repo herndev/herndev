@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for September 30 to October 3](https://news.xbox.com/en-us/2025/09/26/next-week-on-xbox-new-games-for-september-30-to-october-3/)
- - [How to get the Kill Spring in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-kill-spring-location/)
- - [Amazon Clears Out 4.8-Star Kingston SSD in All Capacities at Record Low, Cheaper Than Samsung or Crucial](https://kotaku.com/amazon-clears-out-4-8-star-kingston-ssd-in-all-capacities-at-record-low-cheaper-than-samsung-or-crucial-2000628887)<!-- GAME:END -->
+ - [Pokémon Took Over A Major Wrestling Event And It Absolutely Ruled](https://kotaku.com/pokemon-legends-z-a-hawlucha-machamp-wrestling-luchador-2000629179)
+ - [How to get the Undead Eye in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-undead-eye-location/)
+ - [&#39;Are we going to bet the company&#39;s road map on chiplets?&#39; AMD&#39;s CEO Lisa Su reminds us how fortunate it was that its executives all said yes](https://www.pcgamer.com/hardware/processors/are-we-going-to-bet-the-companys-road-map-on-chiplets-amds-ceo-lisa-su-reminds-us-how-fortunate-it-was-that-its-executives-all-said-yes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
