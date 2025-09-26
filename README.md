@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says Microsoft should fire its global affairs head Lisa Monaco over her work in the Biden administration, calling her a &quot;menace to US National Security&quot; &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250926/p27#a250926p27)
- - [Microsoft Photos will soon auto-categorize your pictures](https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 27, #369](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-27-369/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How developers are using Apple&#39;s local AI models in iOS 26: Lil Artist story generation, MoneyCoach&#39;s spending insights, F1 race summaries in Lights Out, more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250926/p29#a250926p29)
+ - [Trump’s new target: Microsoft head of global affairs Lisa Monaco](https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco)
+ - [Sources: the US Commerce Department is considering imposing tariffs on foreign electronic devices based on the number of chips they contain &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/250926/p28#a250926p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
