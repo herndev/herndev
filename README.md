@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vocal control](http://9gag.com/gag/aPAdMoQ)
- - ⏩ [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
+ - 💣 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
+ - ⏩ [Vocal control](http://9gag.com/gag/aPAdMoQ)
  - 👉 [Did you see the dude in the red dress?](http://9gag.com/gag/adB4XOM)<!-- MEMES:END -->
 
 ---
