@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unsurprisingly, Google says a crackdown on big tech is making life harder](https://www.androidauthority.com/google-wants-reset-eu-digital-markets-act-3601386/)
- - [Samsung SmartThings will soon let you start your car, lock your door, and more from the app](https://www.androidauthority.com/samsung-smartthings-home-to-car-3601357/)
- - [Why AI isn&#39;t replacing radiologists: models underperform in hospital settings, AI use faces legal hurdles, and the job is much more than image recognition &lpar;The Works in Progress Newsletter&rpar;](http://www.techmeme.com/250925/p54#a250925p54)<!-- TECH:END -->
+ - [Microsoft and Asus open Xbox Ally preorders — the X costs $999](https://www.theverge.com/news/784286/xbox-handheld-ally-x-price-preorder)
+ - [North Dakota driver&#39;s license coming to Apple Wallet soon](https://appleinsider.com/articles/25/09/25/north-dakota-drivers-license-coming-to-apple-wallet-soon?utm_source=rss)
+ - [Hell yeah, I want a Gundam keyboard with topre switches](https://www.theverge.com/news/785991/realforce-gx1-mobile-suit-gundam-mechanical-keyboard-limited-edition-collaboration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
