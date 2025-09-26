@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 26 &lpar;#1560&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-26-2025/)
  - [Tiny Metal 2 is the third game in the turn-based strategy series, and it just so happens to be taking after my favorite Advance Wars](https://www.pcgamer.com/games/strategy/tiny-metal-2-is-the-third-game-in-the-turn-based-strategy-series-and-it-just-so-happens-to-be-taking-after-my-favorite-advance-wars/)
- - [Petit Planet: All the key details on HoYo&#39;s Animal Crossing-like life sim](https://www.pcgamer.com/games/life-sim/petit-planet-guide/)
- - [Baby Steps is funny, but it&#39;s also a depressing, confrontational horror game about thwarted modern masculinity](https://www.pcgamer.com/games/action/baby-steps-is-funny-but-its-also-a-depressing-confrontational-horror-game-about-thwarted-modern-masculinity/)<!-- GAME:END -->
+ - [Petit Planet: All the key details on HoYo&#39;s Animal Crossing-like life sim](https://www.pcgamer.com/games/life-sim/petit-planet-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
