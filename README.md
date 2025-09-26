@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches Microsoft Marketplace, combining Azure Marketplace and Microsoft AppSource in a single destination for cloud tools and AI apps and agents &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/250925/p61#a250925p61)
- - [A look at Intel&#39;s $28B Ohio chip factory, the largest economic development project in Ohio&#39;s history, initially set for a 2025 opening but now delayed till 2030 &lpar;Kris Maher/Wall Street Journal&rpar;](http://www.techmeme.com/250925/p60#a250925p60)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Sept. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-sept-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As the lyricist behind AI artist Xania Monet signs a $3M record deal, experts say current copyright law may only protect the human-made expressive elements &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/250926/p1#a250926p1)
+ - [This is our clearest look yet at Samsung’s big One UI makeover coming to Galaxy phones](https://www.androidauthority.com/one-ui-8-5-hands-on-3601412/)
+ - [Microsoft launches Microsoft Marketplace, combining Azure Marketplace and Microsoft AppSource in a single destination for cloud tools and AI apps and agents &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/250925/p61#a250925p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
