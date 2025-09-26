@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of our favorite video doorbells is 47 percent off in the run-up to Prime Day](https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale)
- - [Insurance tech company Ethos, last valued at $2.7B in 2021, files for a US IPO ; its revenue rose 54.9% YoY to $183.7M in H1, with net income up 64% to $30.7M &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250926/p23#a250926p23)
- - [The TikTok deal raises more questions than answers](https://www.theverge.com/report/786748/tiktok-deal-trump-administration-legal-uncertainty)<!-- TECH:END -->
+ - [36 Best Advent Calendars for Kids in 2025](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)
+ - [Leaked letter: NLRB drops claims against Tim Cook, including that he violated workers&#39; rights with a 2021 email threatening staffers who leak confidential info &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/250926/p26#a250926p26)
+ - [Apple AirPods Pro 3 Review: Still The Best for iOS](https://www.wired.com/review/apple-airpods-pro-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
