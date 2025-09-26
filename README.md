@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [James Gunn calls Peacemaker&#39;s big cameo &#39;important for the entire DCU&#39;](https://www.polygon.com/peacemaker-lex-luthor-cameo-nicholas-hoult-season-2-episode-6/)
  - [ROG Xbox Ally and Ally X price and pre-orders detailed; Ally X costs $1000](https://www.polygon.com/rog-xbox-ally-x-price-announced/)
- - [Today&#39;s Wordle clues, hints and answer for September 26 &lpar;#1560&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-26-2025/)
- - [Tiny Metal 2 is the third game in the turn-based strategy series, and it just so happens to be taking after my favorite Advance Wars](https://www.pcgamer.com/games/strategy/tiny-metal-2-is-the-third-game-in-the-turn-based-strategy-series-and-it-just-so-happens-to-be-taking-after-my-favorite-advance-wars/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for September 26 &lpar;#1560&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-26-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
