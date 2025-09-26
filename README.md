@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
- - ⏩ [Vocal control](http://9gag.com/gag/aPAdMoQ)
- - 👉 [Did you see the dude in the red dress?](http://9gag.com/gag/adB4XOM)<!-- MEMES:END -->
+ - 💣 [A car committing seppuku, to save the driver from being extra cwispy during a fire](http://9gag.com/gag/aPAdMWn)
+ - ⏩ [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
+ - 👉 [No Comment..](http://9gag.com/gag/ajPMqgQ)<!-- MEMES:END -->
 
 ---
 
