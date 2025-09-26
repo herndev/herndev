@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EA is nearing a deal to go private in a leveraged buyout valuing the company at ~$50B; investors include Silver Lake and Saudi Arabia&#39;s PIF &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250926/p21#a250926p21)
- - [Is Silicon Valley Still the Tech Capital?](https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-still-the-tech-capital/)
- - [Samsung’s dual-hinge foldable is looking like a beast for productivity in new animations leak](https://www.androidauthority.com/samsung-galaxy-trifold-productivity-animations-3601677/)<!-- TECH:END -->
+ - [One of our favorite video doorbells is 47 percent off in the run-up to Prime Day](https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale)
+ - [Insurance tech company Ethos, last valued at $2.7B in 2021, files for a US IPO ; its revenue rose 54.9% YoY to $183.7M in H1, with net income up 64% to $30.7M &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250926/p23#a250926p23)
+ - [The TikTok deal raises more questions than answers](https://www.theverge.com/report/786748/tiktok-deal-trump-administration-legal-uncertainty)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
