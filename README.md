@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [28 Years Later, Fantastic Four: First Steps, Ballerina, and every movie on streaming this week](https://www.polygon.com/new-movies-on-streaming-28-years-later-the-fantastic-four-first-steps-ballerina/)
- - [REPO devs are adding a new mechanic that&#39;ll let you grab things while tumbling and—more importantly—kill things with butt physics](https://www.pcgamer.com/games/horror/repo-devs-are-adding-a-new-mechanic-thatll-let-you-grab-things-while-tumbling-and-more-importantly-kill-things-with-butt-physics/)
- - [Magic: The Gathering&#39;s PlayStation Secret Lair tie-in revealed](https://www.polygon.com/magic-last-of-us-cards-secret-lair/)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-silent-hill-f-sonic-baby-steps-2000629349)
+ - [Silksong player uses every speedrunning trick in the book to lock poor Hornet in bug jail forever: &#39;I don&#39;t know why anyone would want to do this, but I have done it anyway&#39;](https://www.pcgamer.com/games/action/silksong-player-uses-every-speedrunning-trick-in-the-book-to-lock-poor-hornet-in-bug-jail-forever-i-dont-know-why-anyone-would-want-to-do-this-but-i-have-done-it-anyway/)
+ - [Magic: The Gathering Is Making PlayStation Cards, And They Look Great](https://kotaku.com/magic-gathering-playstation-last-of-us-god-of-war-ellie-2000629350)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
