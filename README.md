@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Habbo Hotel&#39;s answer to WoW Classic is coming to Steam](https://www.pcgamer.com/games/mmo/habbo-hotels-answer-to-wow-classic-is-coming-to-steam/)
- - [Rematch is free to play for a long weekend after its Season 1 launch—and I&#39;m currently torn between saving Olympus and having a kickabout](https://www.pcgamer.com/games/sports/rematch-is-free-to-play-for-a-long-weekend-after-its-season-1-launch-and-im-currently-torn-between-saving-olympus-and-having-a-kickabout/)
- - [How to get the Bod in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-bod-location/)<!-- GAME:END -->
+ - [How Nimona&#39;s creator &#39;collaborated&#39; with his childhood on his first novel](https://www.polygon.com/scarlet-morning-free-chapter-nimona-author-nd-stevenson-fantasy/)
+ - [Trump administration is reportedly planning to tariff US tech firms that don&#39;t source equal numbers of imported and American chips](https://www.pcgamer.com/hardware/trump-administration-is-reportedly-planning-to-tariff-us-tech-firms-that-dont-source-equal-numbers-of-imported-and-american-chips/)
+ - [$2.6 Million Kickstarter Cozy Game Wipes Its Websites, Ghosts Its Backers](https://kotaku.com/puffpals-fluffnest-cozy-kickstarter-mujin-2000629155)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
