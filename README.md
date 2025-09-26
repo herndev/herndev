@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2 is making a surprise Atlas overhaul next week to liberate its players from tower tyranny](https://www.pcgamer.com/games/rpg/path-of-exile-2-is-making-a-surprise-atlas-overhaul-next-week-to-liberate-its-players-from-tower-tyranny/)
- - [How to get Nectar in Hades 2](https://www.polygon.com/hades-2-nectar-how-to-get/)
- - [Nine Digimon Games Worth Going Back To After Time Stranger](https://kotaku.com/best-digimon-game-cyber-sleuth-world-survive-next-order-2000629304)<!-- GAME:END -->
+ - [28 Years Later, Fantastic Four: First Steps, Ballerina, and every movie on streaming this week](https://www.polygon.com/new-movies-on-streaming-28-years-later-the-fantastic-four-first-steps-ballerina/)
+ - [REPO devs are adding a new mechanic that&#39;ll let you grab things while tumbling and—more importantly—kill things with butt physics](https://www.pcgamer.com/games/horror/repo-devs-are-adding-a-new-mechanic-thatll-let-you-grab-things-while-tumbling-and-more-importantly-kill-things-with-butt-physics/)
+ - [Magic: The Gathering&#39;s PlayStation Secret Lair tie-in revealed](https://www.polygon.com/magic-last-of-us-cards-secret-lair/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
