@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Nimona&#39;s creator &#39;collaborated&#39; with his childhood on his first novel](https://www.polygon.com/scarlet-morning-free-chapter-nimona-author-nd-stevenson-fantasy/)
- - [Trump administration is reportedly planning to tariff US tech firms that don&#39;t source equal numbers of imported and American chips](https://www.pcgamer.com/hardware/trump-administration-is-reportedly-planning-to-tariff-us-tech-firms-that-dont-source-equal-numbers-of-imported-and-american-chips/)
- - [$2.6 Million Kickstarter Cozy Game Wipes Its Websites, Ghosts Its Backers](https://kotaku.com/puffpals-fluffnest-cozy-kickstarter-mujin-2000629155)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for September 30 to October 3](https://news.xbox.com/en-us/2025/09/26/next-week-on-xbox-new-games-for-september-30-to-october-3/)
+ - [How to get the Kill Spring in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-kill-spring-location/)
+ - [Amazon Clears Out 4.8-Star Kingston SSD in All Capacities at Record Low, Cheaper Than Samsung or Crucial](https://kotaku.com/amazon-clears-out-4-8-star-kingston-ssd-in-all-capacities-at-record-low-cheaper-than-samsung-or-crucial-2000628887)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
