@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to increase grasp in Hades 2, plus all Arcana Cards list](https://www.polygon.com/hades-2-guides/24150082/arcana-cards-list-abilities-upgrades-perks/)
- - [Gerard Butler returns in a post-apocalyptic sequel we never expected to see with Greenland 2: Migration](https://www.polygon.com/gerard-butler-greenland-2-migration-trailer/)
- - [How to get Complex Root in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-complex-root-location/)<!-- GAME:END -->
+ - [Ready to Play Anywhere? Players Can Now Pre-Order the ROG Xbox Ally X and ROG Xbox Ally In 38 Countries](https://news.xbox.com/en-us/2025/09/25/pre-order-rog-xbox-ally-x-and-rog-ally-starting-today/)
+ - [How to solve the scarecrow puzzle in Silent Hill f](https://www.polygon.com/silent-hill-f-field-scarecrow-puzzle-solutions/)
+ - [The surprise Witcher 3 patch adding cross-platform mod support is delayed until 2026](https://www.pcgamer.com/games/rpg/the-surprise-witcher-3-patch-adding-cross-platform-mod-support-is-delayed-until-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
