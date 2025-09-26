@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
- - ⏩ [No Comment..](http://9gag.com/gag/ajPMqgQ)
- - 👉 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)<!-- MEMES:END -->
+ - 💣 [Decisions](http://9gag.com/gag/a87X411)
+ - ⏩ [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 👉 [No Comment..](http://9gag.com/gag/ajPMqgQ)<!-- MEMES:END -->
 
 ---
 
