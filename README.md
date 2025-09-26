@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the lyricist behind AI artist Xania Monet signs a $3M record deal, experts say current copyright law may only protect the human-made expressive elements &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/250926/p1#a250926p1)
- - [This is our clearest look yet at Samsung’s big One UI makeover coming to Galaxy phones](https://www.androidauthority.com/one-ui-8-5-hands-on-3601412/)
- - [Microsoft launches Microsoft Marketplace, combining Azure Marketplace and Microsoft AppSource in a single destination for cloud tools and AI apps and agents &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/250925/p61#a250925p61)<!-- TECH:END -->
+ - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)
+ - [Qualcomm’s surprise Snapdragon 8 Gen 5 takes a page from Apple &lpar;Update: Chip details&rpar;](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-5-3601031/)
+ - [Home Depot Promo Codes: 10% Off | September 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
