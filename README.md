@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may finally reverse this annoying volume slider change on Pixel phones &lpar;APK teardown&rpar;](https://www.androidauthority.com/live-caption-return-volume-slider-3601445/)
- - [OLX Group, an online marketplace owned by Prosus, agrees to acquire La Centrale, a French auto classifieds platform, for $1.3B in cash, expected to close in Q4 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/250926/p4#a250926p4)
- - [The robo-advisory market, which includes companies that use AI tools to help investors pick stocks, is expected to grow from $61.75B in 2024 to $470.91B by 2029 &lpar;Joice Alves/Reuters&rpar;](http://www.techmeme.com/250926/p3#a250926p3)<!-- TECH:END -->
+ - [OnePlus confirms your texts aren’t safe from this major Oxygen OS SMS vulnerability](https://www.androidauthority.com/oneplus-oxygen-os-sms-vulnerability-3601468/)
+ - [How inaccurate AI translations of Wikipedia pages, which AI models use for training, may cause a doom spiral that further marginalizes vulnerable languages &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/250926/p5#a250926p5)
+ - [The best case you can get for the iPhone 17 Pro is not buying it at all](https://www.androidauthority.com/best-iphone-17-case-is-no-case-3601147/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
