@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Wait for it....](http://9gag.com/gag/aoyq1N3)
- - ⏩ [Good luck](http://9gag.com/gag/aKGNVwb)
+ - ⏩ [The new generation of German men are wild](http://9gag.com/gag/aryrbEd)
  - 👉 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)<!-- MEMES:END -->
 
 ---
