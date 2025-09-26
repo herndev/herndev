@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Took Over A Major Wrestling Event And It Absolutely Ruled](https://kotaku.com/pokemon-legends-z-a-hawlucha-machamp-wrestling-luchador-2000629179)
- - [How to get the Undead Eye in Borderlands 4](https://www.pcgamer.com/games/fps/borderlands-4-undead-eye-location/)
- - [&#39;Are we going to bet the company&#39;s road map on chiplets?&#39; AMD&#39;s CEO Lisa Su reminds us how fortunate it was that its executives all said yes](https://www.pcgamer.com/hardware/processors/are-we-going-to-bet-the-companys-road-map-on-chiplets-amds-ceo-lisa-su-reminds-us-how-fortunate-it-was-that-its-executives-all-said-yes/)<!-- GAME:END -->
+ - [Dave Bautista rules this underrated horror movie now on streaming](https://www.polygon.com/dave-bautista-knock-at-the-cabin-peacock-m-night-shyamalan/)
+ - [Official PlayStation Podcast Episode 524: Stately Steps](https://blog.playstation.com/2025/09/26/official-playstation-podcast-episode-524-stately-steps/)
+ - [Head Magic: The Gathering Designer Apologizes For Misogynistic Card From 27 Years Ago](https://kotaku.com/magic-gathering-mtg-ghazban-ogress-mark-rosewater-2000629186)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
