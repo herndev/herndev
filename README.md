@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A car committing seppuku, to save the driver from being extra cwispy during a fire](http://9gag.com/gag/aPAdMWn)
- - ⏩ [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
+ - 💣 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
+ - ⏩ [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
  - 👉 [No Comment..](http://9gag.com/gag/ajPMqgQ)<!-- MEMES:END -->
 
 ---
