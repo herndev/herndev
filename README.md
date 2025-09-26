@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [100W universal fast charging is here, there’s no excuse Apple, Google, and Samsung!](https://www.androidauthority.com/100w-charging-for-google-and-apple-3600329/)
- - [Corsair Sabre V2 Pro Ultralight Gaming Mouse Review: Impossibly Light](https://www.wired.com/review/corsair-sabre-v2-pro-ultralight-gaming-mouse/)
- - [One UI 8.5 could make life easier when switching between Wi-Fi and mobile data](https://www.androidauthority.com/samsung-one-ui-8-5-switch-wi-fi-cellular-data-3601491/)<!-- TECH:END -->
+ - [I’ve got a bone to pick with ‘getting credit’ from your fitness tracker](https://www.theverge.com/column/786346/optimizer-wearables-fitness-tracking-health-anxiety-paranoia)
+ - [China and its media are quiet about the TikTok deal, a notable silence as China can still decide the appâ€™s fate; Chinese social media chatter has been limited &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250926/p11#a250926p11)
+ - [Raspberry Pi upgraded its keyboard computer with mechanical switches and SSD storage](https://www.theverge.com/news/786369/raspberry-pi-500-plus-mechanical-keyboard-computer-ssd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
