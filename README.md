@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
- - ⏩ [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
- - 👉 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)<!-- MEMES:END -->
+ - ⏩ [No Comment..](http://9gag.com/gag/ajPMqgQ)
+ - 👉 [Few hours after incident over Alaska the Pentagon has summoned military officials from around the world for a gathering in Virginia - Pete Hegseth has ordered hundreds of the U.S. military\u2019s generals and admirals to gather on short notice.](http://9gag.com/gag/aE0NR89)<!-- MEMES:END -->
 
 ---
 
