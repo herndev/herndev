@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No Comment..](http://9gag.com/gag/ajPMqgQ)
- - ⏩ [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
- - 👉 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)<!-- MEMES:END -->
+ - 💣 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
+ - ⏩ [Did you see the dude in the red dress?](http://9gag.com/gag/adB4XOM)
+ - 👉 [Now this is a Tourette syndrome that i believe is real.](http://9gag.com/gag/a0eWdbZ)<!-- MEMES:END -->
 
 ---
 
