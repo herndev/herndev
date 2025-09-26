@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smartwatch lacks notifications but will still distract you with Tetris](https://www.theverge.com/news/785725/tetris-my-play-watch-smartwatch)
- - [Google’s Clock app mysteriously disappears for some Wear OS watches](https://www.androidauthority.com/google-clock-missing-on-wear-os-3601567/)
- - [Something is seriously wrong with YouTube TV multiview, users say](https://www.androidauthority.com/youtube-tv-multiview-quality-complaints-3601566/)<!-- TECH:END -->
+ - [Trump’s new H-1B policy caused short-term panic — and will cause long-term chaos](https://www.theverge.com/policy/786511/h-1b-skilled-worker-visa-policy-chaos)
+ - [iPhones still allegedly being made in China under sweatshop conditions](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)
+ - [Poll: Would you pay for ad-free Instagram and Facebook?](https://www.androidauthority.com/meta-facebook-instagram-no-ads-subscription-uk-3601617/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
