@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [ROG Xbox Ally and Ally X price and pre-orders detailed; Ally X costs $1000](https://www.polygon.com/rog-xbox-ally-x-price-announced/)
  - [Today&#39;s Wordle clues, hints and answer for September 26 &lpar;#1560&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-26-2025/)
- - [Tiny Metal 2 is the third game in the turn-based strategy series, and it just so happens to be taking after my favorite Advance Wars](https://www.pcgamer.com/games/strategy/tiny-metal-2-is-the-third-game-in-the-turn-based-strategy-series-and-it-just-so-happens-to-be-taking-after-my-favorite-advance-wars/)
- - [Petit Planet: All the key details on HoYo&#39;s Animal Crossing-like life sim](https://www.pcgamer.com/games/life-sim/petit-planet-guide/)<!-- GAME:END -->
+ - [Tiny Metal 2 is the third game in the turn-based strategy series, and it just so happens to be taking after my favorite Advance Wars](https://www.pcgamer.com/games/strategy/tiny-metal-2-is-the-third-game-in-the-turn-based-strategy-series-and-it-just-so-happens-to-be-taking-after-my-favorite-advance-wars/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
