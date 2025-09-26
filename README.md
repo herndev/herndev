@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus confirms your texts aren’t safe from this major Oxygen OS SMS vulnerability](https://www.androidauthority.com/oneplus-oxygen-os-sms-vulnerability-3601468/)
- - [How inaccurate AI translations of Wikipedia pages, which AI models use for training, may cause a doom spiral that further marginalizes vulnerable languages &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/250926/p5#a250926p5)
- - [The best case you can get for the iPhone 17 Pro is not buying it at all](https://www.androidauthority.com/best-iphone-17-case-is-no-case-3601147/)<!-- TECH:END -->
+ - [Meta plans to launch paid, ad-free versions of Instagram and Facebook in the UK, each costing £2.99 per month on the web, and £3.99 on iOS and Android &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p7#a250926p7)
+ - [Tokyo&#39;s Apple Ginza welcomes thousands to its reopening](https://appleinsider.com/articles/25/09/26/tokyos-apple-ginza-welcomes-thousands-to-its-reopening?utm_source=rss)
+ - [A OnePlus 15 review is out even before the phone officially launches](https://www.androidauthority.com/oneplus-15-gaming-review-before-launch-3601471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
