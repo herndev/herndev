@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
- - ⏩ [Did you see the dude in the red dress?](http://9gag.com/gag/adB4XOM)
- - 👉 [Now this is a Tourette syndrome that i believe is real.](http://9gag.com/gag/a0eWdbZ)<!-- MEMES:END -->
+ - 💣 [No Comment..](http://9gag.com/gag/ajPMqgQ)
+ - ⏩ [Wow...](http://9gag.com/gag/aYQneQ0)
+ - 👉 [Slap that guy.](http://9gag.com/gag/aVv1DxK)<!-- MEMES:END -->
 
 ---
 
