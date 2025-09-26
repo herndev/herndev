@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based Kido nursery chain was hacked by a ransomware gang called Radiant, which posted profiles of 10 children online and threatens to release more data &lpar;The Guardian&rpar;](http://www.techmeme.com/250926/p18#a250926p18)
- - [Nintendo Switch emulator Eden vanishes from the Play Store after just two weeks](https://www.androidauthority.com/eden-emulator-3601673/)
- - [Amazon Will Cough Up $2.5 Billion for &#39;Tricking&#39; People Into Amazon Prime Subscriptions](https://www.cnet.com/news/amazon-will-cough-up-2-5-billion-for-tricking-people-into-amazon-prime-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: EA is nearing a deal to go private in a leveraged buyout valuing the company at ~$50B; investors include Silver Lake and Saudi Arabia&#39;s PIF &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250926/p21#a250926p21)
+ - [Is Silicon Valley Still the Tech Capital?](https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-still-the-tech-capital/)
+ - [Samsung’s dual-hinge foldable is looking like a beast for productivity in new animations leak](https://www.androidauthority.com/samsung-galaxy-trifold-productivity-animations-3601677/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
