@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dave Bautista rules this underrated horror movie now on streaming](https://www.polygon.com/dave-bautista-knock-at-the-cabin-peacock-m-night-shyamalan/)
- - [Official PlayStation Podcast Episode 524: Stately Steps](https://blog.playstation.com/2025/09/26/official-playstation-podcast-episode-524-stately-steps/)
- - [Head Magic: The Gathering Designer Apologizes For Misogynistic Card From 27 Years Ago](https://kotaku.com/magic-gathering-mtg-ghazban-ogress-mark-rosewater-2000629186)<!-- GAME:END -->
+ - [The 26-Year-Old Mysterious Behind A Cult-Classic SRPG’s Gradius Sword Has Finally Been Solved](https://kotaku.com/vandal-hearts-2-gradius-sword-suikoden-ps1-demo-disc-save-file-2000629247)
+ - [End of an era as Bowser &lpar;no not that one&rpar; retires from Nintendo](https://www.pcgamer.com/gaming-industry/end-of-an-era-as-bowser-no-not-that-one-retires-from-nintendo/)
+ - [Hades 2 patch brings new stuff even if you&#39;ve played early access](https://www.polygon.com/hades-2-launch-patch-notes-new-keepsake-true-ending-familiar-changes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
