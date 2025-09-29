@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - ⏩ [SIM cards are actually tiny computers](http://9gag.com/gag/ajPMEy1)
- - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
+ - 💣 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - ⏩ [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
+ - 👉 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)<!-- MEMES:END -->
 
 ---
 
