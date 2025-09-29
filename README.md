@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
- - ⏩ [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
+ - 💣 [They are all around us](http://9gag.com/gag/aAyN3dL)
+ - ⏩ [Who disagrees?](http://9gag.com/gag/a5Qyn6o)
+ - 👉 [This app is so racist rn I&#39;m ready for the downvote tsunami, bring in on b*tches](http://9gag.com/gag/ae9PrVO)<!-- MEMES:END -->
 
 ---
 
