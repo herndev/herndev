@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait for it....](http://9gag.com/gag/aoyq1N3)
- - ⏩ [Still building wonders, just different kinds](http://9gag.com/gag/ae9Pbej)
- - 👉 [Slap that guy.](http://9gag.com/gag/aVv1DxK)<!-- MEMES:END -->
+ - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - ⏩ [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
+ - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
 
 ---
 
