@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4 has a throwing knife-shaped problem, and a nerf isn&#39;t going to cut it](https://www.pcgamer.com/games/fps/borderlands-4-crit-throwing-knife-nerf/)
- - [Fortnite quickly pulls Peacemaker emote while it figures out &#39;our partner&#39;s creative intentions&#39; after the show&#39;s huge twist gives it a whole new meaning](https://www.pcgamer.com/games/battle-royale/fortnite-quickly-pulls-peacemaker-emote-while-it-figures-out-our-partners-creative-intentions-after-the-shows-huge-twist-gives-it-a-whole-new-meaning/)
- - [Battlefield 6 makes fun of CoD: Blows up Zac Efron and a load of other celebs while players whoop and cheer](https://www.pcgamer.com/games/fps/battlefield-6-makes-fun-of-cod-blows-up-zac-efron-and-a-load-of-other-celebs-while-players-whoop-and-cheer/)<!-- GAME:END -->
+ - [Alien Rogue Incursion Evolved Edition review: Xenomorphs gone mild](https://www.polygon.com/alien-rogue-incursion-evolved-edition-review/)
+ - [EA Announces Unprecedented $55 Billion Sale To Saudi Arabia, Jared Kushner’s Private Equity Group, And Others](https://kotaku.com/ea-sale-saudi-arabia-madden-pif-jared-kushner-2000629829)
+ - [Borderlands 4 has a throwing knife-shaped problem, and a nerf isn&#39;t going to cut it](https://www.pcgamer.com/games/fps/borderlands-4-crit-throwing-knife-nerf/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
