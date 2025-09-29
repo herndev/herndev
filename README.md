@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It ain&#39;t much but it&#39;s honest work](http://9gag.com/gag/aryrG2y)
- - ⏩ [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
- - 👉 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)<!-- MEMES:END -->
+ - 💣 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
+ - ⏩ [Praising to a rapist, liar and murder seems obviously wrong](http://9gag.com/gag/aByNg6O)
+ - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
 
 ---
 
