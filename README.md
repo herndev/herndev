@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automated financial advisor startup Wealthfront files publicly for an IPO and reports net income of $60.7M on revenue of $175.6M in H1 2025 &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250929/p43#a250929p43)
- - [A judge sentences Frank founder Charlie Javice to 85 months in prison for defrauding JPMorgan Chase by overstating how many customers the fintech company had &lpar;CNBC&rpar;](http://www.techmeme.com/250929/p42#a250929p42)
- - [A major Tile tracker security flaw could expose users to stalking risk](https://www.androidauthority.com/tile-tracker-security-flaw-3602289/)<!-- TECH:END -->
+ - [Get an Amazon Echo Auto at a record-low price of $14.99](https://www.androidauthority.com/amazon-echo-auto-deal-2-3602241/)
+ - [Google Drive’s Gemini collaboration finally comes to Android and iOS apps](https://www.androidauthority.com/google-drive-gemini-collaboration-mobile-app-3602297/)
+ - [Internal memo: Microsoft is unifying its key Windows engineering teams under a single organization led by Windows chief Pavan Davuluri, reversing a 2018 split &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250929/p45#a250929p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
