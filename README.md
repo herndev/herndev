@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alien Rogue Incursion Evolved Edition review: Xenomorphs gone mild](https://www.polygon.com/alien-rogue-incursion-evolved-edition-review/)
- - [EA Announces Unprecedented $55 Billion Sale To Saudi Arabia, Jared Kushner’s Private Equity Group, And Others](https://kotaku.com/ea-sale-saudi-arabia-madden-pif-jared-kushner-2000629829)
- - [Borderlands 4 has a throwing knife-shaped problem, and a nerf isn&#39;t going to cut it](https://www.pcgamer.com/games/fps/borderlands-4-crit-throwing-knife-nerf/)<!-- GAME:END -->
+ - [Consume Me&#39;s creators turned teenage obsessions into an award-winning game](https://www.polygon.com/consume-me-jenny-jiao-hsia-ap-thomson-interview/)
+ - [MTG&#39;s Final Fantasy Commander decks just got a big discount on Amazon ahead of Prime Day](https://www.polygon.com/final-fantasy-commander-decks-discount-amazon-prime-day/)
+ - [Amazon Didn’t Wait for Prime Big Deal Days, Fire TV Stick HD Is Already Down to Almost Free](https://kotaku.com/amazon-didnt-wait-for-prime-big-deal-days-fire-tv-stick-hd-is-already-down-to-almost-free-2000629372)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
