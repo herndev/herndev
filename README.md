@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation reveals how the Russian military spy ship Yantar is being used to map and potentially intercept undersea telecommunication cables across Europe &lpar;Financial Times&rpar;](http://www.techmeme.com/250928/p20#a250928p20)
- - [A therapist details treating ChatGPT as a &quot;patient&quot;, describing its programmed self-critique as &quot;a brilliant means of seducing a techno-skeptical therapist&quot; &lpar;Gary Greenberg/New Yorker&rpar;](http://www.techmeme.com/250928/p19#a250928p19)
- - [Apple&amp;#8217;s &amp;#8216;Veritas&amp;#8217; chatbot is reportedly an employee-only test of Siri&amp;#8217;s AI upgrades](https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot)<!-- TECH:END -->
+ - [Caltech says it built the world&#39;s largest neutral-atom quantum computer, with 6,100 qubits, 13 second coherence, 10x longer than the past, and 99.98% accuracy &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/250928/p22#a250928p22)
+ - [An interview with Jeanine Wright, CEO of Inception Point AI, about her vow to continue mass-publishing episodes of AI-generated podcasts despite backlash &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250928/p21#a250928p21)
+ - [An investigation reveals how the Russian military spy ship Yantar is being used to map and potentially intercept undersea telecommunication cables across Europe &lpar;Financial Times&rpar;](http://www.techmeme.com/250928/p20#a250928p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
