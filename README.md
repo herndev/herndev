@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon event preview, iPhone 17 first week reactions, &amp; Kohler smart shower on HomeKit Insider](https://appleinsider.com/articles/25/09/29/amazon-event-preview-iphone-17-first-week-reactions-kohler-smart-shower-on-homekit-insider?utm_source=rss)
- - [Apple Watch SE 3 review: Boring, but the one to buy](https://appleinsider.com/articles/25/09/29/apple-watch-se-3-review-boring-but-the-one-to-buy?utm_source=rss)
- - [Anker’s fastest airline-friendly power bank is now available](https://www.theverge.com/news/787213/anker-prime-power-bank-300w-battery-portable-charger-airline-friendly)<!-- TECH:END -->
+ - [Flying Tulip, founded by DeFi veteran Andre Cronje aiming to build a full-stack onchain exchange, raised a $200M seed at a $1B token valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250929/p27#a250929p27)
+ - [A Chinese woman pleads guilty in a London court to laundering bitcoin linked to a £5B Chinese investment scheme in which UK police seized 61,000 bitcoin in 2018 &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/250929/p26#a250929p26)
+ - [Survey shows people are really eager for Gemini integration in Google Home](https://www.androidauthority.com/google-home-revamp-survey-results-3602036/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
