@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cracked screens welcome? Leak says T-Mobile is changing its trade-in rules](https://www.androidauthority.com/t-mobile-trade-in-rule-changes-3602082/)
- - [Google’s new Pixel 10 promo videos dial the weirdness up to 11 &lpar;Update: One more&rpar;](https://www.androidauthority.com/pixel-10-videos-3600403/)
- - [OpenAI is open sourcing the Agentic Commerce Protocol, a standard for AI commerce that powers its Instant Checkout feature and was co-developed with Stripe &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250929/p32#a250929p32)<!-- TECH:END -->
+ - [Anthropic adds context editing and a memory tool to the Claude API, allowing AI agents to handle long-running tasks without frequently hitting context limits &lpar;Anthropic&rpar;](http://www.techmeme.com/250929/p33#a250929p33)
+ - [Amazon’s Echo Pop and Dot speakers are the cheapest they’ve been in months](https://www.theverge.com/tech/787543/amazon-echo-dot-pop-october-prime-day-deal-sale)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
