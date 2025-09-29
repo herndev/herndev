@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - 💣 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)
  - ⏩ [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 👉 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)<!-- MEMES:END -->
+ - 👉 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)<!-- MEMES:END -->
 
 ---
 
