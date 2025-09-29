@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [SIM cards are actually tiny computers](http://9gag.com/gag/ajPMEy1)
- - ⏩ [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
- - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
+ - ⏩ [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
+ - 👉 [Peak Writing](http://9gag.com/gag/apRjmpp)<!-- MEMES:END -->
 
 ---
 
