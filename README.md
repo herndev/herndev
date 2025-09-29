@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [They are all around us](http://9gag.com/gag/aAyN3dL)
- - ⏩ [Who disagrees?](http://9gag.com/gag/a5Qyn6o)
+ - ⏩ [It&#39;s only bad if my people are getting killed](http://9gag.com/gag/a9yNKED)
  - 👉 [This app is so racist rn I&#39;m ready for the downvote tsunami, bring in on b*tches](http://9gag.com/gag/ae9PrVO)<!-- MEMES:END -->
 
 ---
