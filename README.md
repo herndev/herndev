@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This OnePlus 15 colorway is launching globally with an impressive ‘ceramic coating’ finish](https://www.androidauthority.com/oneplus-15-sand-storm-edition-global-launch-3602018/)
- - [Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple](https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/)
- - [Get a look at the OnePlus 15 from every angle](https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass)<!-- TECH:END -->
+ - [Ford’s CEO isn’t impressed with Apple CarPlay Ultra](https://www.theverge.com/transportation/786376/ford-jim-farley-apple-carplay-ultra-decoder)
+ - [Google&amp;#8217;s gradient &amp;#8216;G&amp;#8217; logo is rolling out everywhere](https://www.theverge.com/news/787176/google-new-logo-gradient-launch)
+ - [This Is Why You Should Try Ultralight Backpacking &lpar;2025&rpar;](https://www.wired.com/story/what-is-ultralight-backpacking/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
