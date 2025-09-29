@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flying Tulip, founded by DeFi veteran Andre Cronje aiming to build a full-stack onchain exchange, raised a $200M seed at a $1B token valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250929/p27#a250929p27)
- - [A Chinese woman pleads guilty in a London court to laundering bitcoin linked to a £5B Chinese investment scheme in which UK police seized 61,000 bitcoin in 2018 &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/250929/p26#a250929p26)
- - [Survey shows people are really eager for Gemini integration in Google Home](https://www.androidauthority.com/google-home-revamp-survey-results-3602036/)<!-- TECH:END -->
+ - [Cracked screens welcome? Leak says T-Mobile is changing its trade-in rules](https://www.androidauthority.com/t-mobile-trade-in-rule-changes-3602082/)
+ - [Google’s new Pixel 10 promo videos dial the weirdness up to 11 &lpar;Update: One more&rpar;](https://www.androidauthority.com/pixel-10-videos-3600403/)
+ - [OpenAI is open sourcing the Agentic Commerce Protocol, a standard for AI commerce that powers its Instant Checkout feature and was co-developed with Stripe &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250929/p32#a250929p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
