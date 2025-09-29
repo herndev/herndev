@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - ⏩ [SIM cards are actually tiny computers](http://9gag.com/gag/ajPMEy1)
- - 👉 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)<!-- MEMES:END -->
+ - 💣 [SIM cards are actually tiny computers](http://9gag.com/gag/ajPMEy1)
+ - ⏩ [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
+ - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
 
 ---
 
