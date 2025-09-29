@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Tactics – The Ivalice Chronicles: Tips for New and Returning Players](https://news.xbox.com/en-us/2025/09/29/final-fantasy-tactics-the-ivalice-chronicles-tips-for-new-and-returning-players/)
- - [Scalpers Are Already Trying To Flip The Xbox Ally X For Twice The Price And It’s Not Even Sold Out Yet](https://kotaku.com/xbox-rog-ally-x-price-ebay-asus-microsoft-2000629892)
- - [New PS5 Model Ditches The Shiny Black Plastic Fans Hated](https://kotaku.com/leaked-ps5-model-shiny-black-plastic-fingerprints-borderlands-4-silent-hill-2000629868)<!-- GAME:END -->
+ - [New Battlefield 6 Trailer Is A Direct Attack Against Call Of Duty](https://kotaku.com/new-battlefield-6-trailer-direct-attack-against-call-of-duty-celeb-trailer-skins-ea-2000629910)
+ - [How to get garlic in Hades 2](https://www.polygon.com/hades-2-how-to-get-garlic/)
+ - [MrBeast Responds To Concerns Over Trapping Guy In Burning House For $500,000](https://kotaku.com/mrbeast-house-fire-trapped-prize-stunt-viral-youtube-backlash-safety-2000629861)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
