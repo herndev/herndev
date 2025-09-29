@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s brand-new Windows app has already hit a snag](https://www.androidauthority.com/google-app-for-windows-reinstall-3602173/)
- - [Deal: I bought the Kreedom Phoenix Shield Gaming Glasses for just $8.99!](https://www.androidauthority.com/kreedom-phoenix-shield-gaming-glasses-deal-3602242/)
- - [Sources: OpenAI told studios that it plans to release a new version of Sora that creates videos featuring copyrighted material unless copyright holders opt out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250929/p36#a250929p36)<!-- TECH:END -->
+ - [California Governor Gavin Newsom signs SB 53 into law; the first-in-the-nation AI safety law requires AI companies to disclose their safety testing regimes &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250929/p39#a250929p39)
+ - [Sources: Vanguard, the asset manager which has historically been critical of cryptocurrencies, prepares to allow access to crypto ETFs on its brokerage platform &lpar;Crypto in America&rpar;](http://www.techmeme.com/250929/p38#a250929p38)
+ - [Amazon launches sale on 2025 Apple Watch Series 11, SE 3, Ultra 3](https://appleinsider.com/articles/25/09/29/amazon-launches-sale-on-2025-apple-watch-series-11-se-3-ultra-3?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
