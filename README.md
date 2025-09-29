@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based Neptune Robotics, which makes robots to clean the underside of giant ships, raised $52M and aims to use AI to help clean ~150 ships per month &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250929/p6#a250929p6)
- - [Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say](https://www.wired.com/story/tile-tracking-tags-can-be-exploited-by-tech-savvy-stalkers-researchers-say/)
- - [New Apple displays, M5 MacBook upgrades expected by Q1 2026](https://appleinsider.com/articles/25/09/28/new-apple-displays-m5-macbook-upgrades-expected-by-q1-2026?utm_source=rss)<!-- TECH:END -->
+ - [Inside iMovie - How to get started with video editing on iPhone and iPad](https://appleinsider.com/inside/ios-26/tips/inside-imovie---how-to-get-started-with-video-editing-on-iphone-and-ipad?utm_source=rss)
+ - [Material You who? Chrome for Android could get its own color theming](https://www.androidauthority.com/google-chrome-theme-color-testing-3601931/)
+ - [Google DeepMind, Meta, Nvidia, and others are racing to release world models, aiming to navigate the physical world by learning from videos and robotic data &lpar;Financial Times&rpar;](http://www.techmeme.com/250929/p11#a250929p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
