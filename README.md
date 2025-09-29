@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
- - ⏩ [Fly away](http://9gag.com/gag/a34pMN3)
- - 👉 [Gonna catch em all](http://9gag.com/gag/aVv13MK)<!-- MEMES:END -->
+ - 💣 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)
+ - ⏩ [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - 👉 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
 
 ---
 
