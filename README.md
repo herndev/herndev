@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California Governor Gavin Newsom signs SB 53 into law; the first-in-the-nation AI safety law requires AI companies to disclose their safety testing regimes &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250929/p39#a250929p39)
- - [Sources: Vanguard, the asset manager which has historically been critical of cryptocurrencies, prepares to allow access to crypto ETFs on its brokerage platform &lpar;Crypto in America&rpar;](http://www.techmeme.com/250929/p38#a250929p38)
- - [Amazon launches sale on 2025 Apple Watch Series 11, SE 3, Ultra 3](https://appleinsider.com/articles/25/09/29/amazon-launches-sale-on-2025-apple-watch-series-11-se-3-ultra-3?utm_source=rss)<!-- TECH:END -->
+ - [Automated financial advisor startup Wealthfront files publicly for an IPO and reports net income of $60.7M on revenue of $175.6M in H1 2025 &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250929/p43#a250929p43)
+ - [A judge sentences Frank founder Charlie Javice to 85 months in prison for defrauding JPMorgan Chase by overstating how many customers the fintech company had &lpar;CNBC&rpar;](http://www.techmeme.com/250929/p42#a250929p42)
+ - [A major Tile tracker security flaw could expose users to stalking risk](https://www.androidauthority.com/tile-tracker-security-flaw-3602289/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
