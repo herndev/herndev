@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Control is 90% off in the Steam Autumn Sale, meaning you can read some of the finest redacted documents in videogames for just $4](https://www.pcgamer.com/games/third-person-shooter/control-is-90-percent-off-in-the-steam-autumn-sale-meaning-you-can-read-some-of-the-finest-redacted-documents-in-videogames-for-just-usd4/)
- - [Diablo 4 player harnessed the power of an infinite damage exploit to breeze through an impossible dungeon 48 hours before Blizzard took it away](https://www.pcgamer.com/games/rpg/diablo-4-player-harnessed-the-power-of-an-infinite-damage-exploit-to-breeze-through-an-impossible-dungeon-48-hours-before-blizzard-took-it-away/)
- - [All active Volleyball Legends codes in September 2025](https://www.pcgamer.com/games/roblox/volleyball-legends-codes/)<!-- GAME:END -->
+ - [Writer Andrew Dice, whose work helped popularize Japanese indies like Recettear in the West, has died](https://www.pcgamer.com/gaming-industry/writer-andrew-dice-whose-work-helped-popularize-japanese-indies-like-recettear-in-the-west-has-died/)
+ - [All animal familiars in Hades 2](https://www.polygon.com/hades-2-animal-familiars-pets-how-to-get/)
+ - [Steam’s Massive Fall Sale Is Live And Here Are The Best Deals](https://kotaku.com/steam-fall-autumn-sale-2025-best-biggest-cheapest-deals-games-pc-steamdeck-2000629959)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
