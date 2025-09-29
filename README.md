@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How developers are using Apple&#39;s local AI models in iOS 26: Lil Artist story generation, MoneyCoach&#39;s spending insights, F1 race summaries in Lights Out, more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250926/p29#a250926p29)
- - [Trump’s new target: Microsoft head of global affairs Lisa Monaco](https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco)
- - [Sources: the US Commerce Department is considering imposing tariffs on foreign electronic devices based on the number of chips they contain &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/250926/p28#a250926p28)<!-- TECH:END -->
+ - [An investigation reveals how the Russian military spy ship Yantar is being used to map and potentially intercept undersea telecommunication cables across Europe &lpar;Financial Times&rpar;](http://www.techmeme.com/250928/p20#a250928p20)
+ - [A therapist details treating ChatGPT as a &quot;patient&quot;, describing its programmed self-critique as &quot;a brilliant means of seducing a techno-skeptical therapist&quot; &lpar;Gary Greenberg/New Yorker&rpar;](http://www.techmeme.com/250928/p19#a250928p19)
+ - [Apple&amp;#8217;s &amp;#8216;Veritas&amp;#8217; chatbot is reportedly an employee-only test of Siri&amp;#8217;s AI upgrades](https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
