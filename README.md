@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside iMovie - How to get started with video editing on iPhone and iPad](https://appleinsider.com/inside/ios-26/tips/inside-imovie---how-to-get-started-with-video-editing-on-iphone-and-ipad?utm_source=rss)
- - [Material You who? Chrome for Android could get its own color theming](https://www.androidauthority.com/google-chrome-theme-color-testing-3601931/)
- - [Google DeepMind, Meta, Nvidia, and others are racing to release world models, aiming to navigate the physical world by learning from videos and robotic data &lpar;Financial Times&rpar;](http://www.techmeme.com/250929/p11#a250929p11)<!-- TECH:END -->
+ - [Apple&#39;s India iPhone supply chain created 350,000 jobs](https://appleinsider.com/articles/25/09/29/apples-india-iphone-supply-chain-created-350000-jobs?utm_source=rss)
+ - [Bad Bunny to headline Apple&#39;s 2025 Super Bowl half-time show](https://appleinsider.com/articles/25/09/29/bad-bunny-to-headline-apples-2025-super-bowl-half-time-show?utm_source=rss)
+ - [How debt is fueling the next wave of the AI infrastructure boom; an analyst estimates Oracle needs to borrow $25B/year over four years to fund its OpenAI plans &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250929/p15#a250929p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
