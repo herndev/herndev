@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 29 &lpar;#1563&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-29-2025/)
  - [Next year Magic: The Gathering will return to Lorwyn, Strixhaven, Middle-earth, the Marvel Universe—and space, with a Star Trek set](https://www.pcgamer.com/games/card-games/next-year-magic-the-gathering-will-return-to-lorwyn-strixhaven-middle-earth-the-marvel-universe-and-space-with-a-star-trek-set/)
- - [Five new Steam games you probably missed &lpar;September 29, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-29-2025/)
- - [Ryu Ga Gotoku boss credits PC gamers&#39; love of Yakuza 0 with taking the series worldwide: &#39;I truly believe we are where we are today because of them&#39;](https://www.pcgamer.com/games/action/ryu-ga-gotoku-boss-credits-pc-gamers-love-of-yakuza-0-with-taking-the-series-worldwide-i-truly-believe-we-are-where-we-are-today-because-of-them/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;September 29, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-29-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
