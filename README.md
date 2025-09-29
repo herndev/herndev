@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek, Avengers, And More: All 7 Newly Revealed Magic: The Gathering Sets Coming In 2026](https://kotaku.com/magic-gathering-mtg-star-trek-marvel-avengers-2026-sets-2000629313)
- - [Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-silent-hill-f-sonic-baby-steps-2000629349)
- - [Silksong player uses every speedrunning trick in the book to lock poor Hornet in bug jail forever: &#39;I don&#39;t know why anyone would want to do this, but I have done it anyway&#39;](https://www.pcgamer.com/games/action/silksong-player-uses-every-speedrunning-trick-in-the-book-to-lock-poor-hornet-in-bug-jail-forever-i-dont-know-why-anyone-would-want-to-do-this-but-i-have-done-it-anyway/)<!-- GAME:END -->
+ - [Ryu Ga Gotoku boss credits PC gamers&#39; love of Yakuza 0 with taking the series worldwide: &#39;I truly believe we are where we are today because of them&#39;](https://www.pcgamer.com/games/action/ryu-ga-gotoku-boss-credits-pc-gamers-love-of-yakuza-0-with-taking-the-series-worldwide-i-truly-believe-we-are-where-we-are-today-because-of-them/)
+ - [It&#39;s possible to get Silksong&#39;s double jump in Act 1 well before you&#39;re supposed to, you just have to be enough of a platforming god to prove you don&#39;t need it](https://www.pcgamer.com/games/action/its-possible-to-get-silksongs-double-jump-in-act-1-well-before-youre-supposed-to-you-just-have-to-be-enough-of-a-platforming-god-to-prove-you-dont-need-it/)
+ - [Scalpers are already selling the promise of an Asus ROG Xbox Ally X for over $2,000 when it&#39;s still available for pre-order at half the price](https://www.pcgamer.com/hardware/scalpers-are-already-selling-the-promise-of-an-asus-rog-xbox-ally-x-for-over-usd2-000-when-its-still-available-for-pre-order-at-half-the-price/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
